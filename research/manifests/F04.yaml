@@ -1,0 +1,85 @@
+# F04: sources for faction labels of officials and generals (content/tags/F04.yaml).
+web:
+  # --- military princelings ---
+  - id: f04-brookings-2010-06-29-military
+    title: 中国领导层的中期角逐：加速备战2012（系列第三篇：军方领导人）
+    publisher: Brookings
+    author: 李成
+    date: 2010-06-29
+    voice: scholar
+    url: https://www.brookings.edu/zh/articles/%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E5%B1%82%E7%9A%84%E4%B8%AD%E6%9C%9F%E8%A7%92%E9%80%90%EF%BC%9A%E5%8A%A0%E9%80%9F%E5%A4%87%E6%88%982012-%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%89%E7%AF%87%EF%BC%9A/
+    excerpt: true
+    keep: [ 有6人是太子党, 全都是太子党 ]
+  - id: f04-rfa-2017-11-07-princelings
+    title: 大权独揽，习近平亲手瓦解“太子党”
+    publisher: 自由亚洲电台
+    author: 陈破空
+    date: 2017-11-07
+    voice: zh
+    url: https://www.rfa.org/mandarin/pinglun/chenpokong/cpk-11072017103342.html
+    excerpt: true
+    keep: [ 就有4人是太子党 ]
+  # --- Jiang faction ---
+  - id: f04-rfi-2016-03-09-xinjiang
+    title: 新疆党委拒为习近平表忠 舆论争持显对习大不满
+    publisher: 法广
+    author: 麦燕庭
+    date: 2016-03-09
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20160309-%E6%96%B0%E7%96%86%E5%85%9A%E5%A7%94%E6%8B%92%E4%B8%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E5%BF%A0-%E8%88%86%E8%AE%BA%E4%BA%89%E6%8C%81%E6%98%BE%E5%AF%B9%E4%B9%A0%E5%A4%A7%E4%B8%8D%E6%BB%A1
+    excerpt: true
+    keep: [ 江泽民派系的新疆党委书记张春贤, 江(泽民)派 ]
+  - id: f04-bbc-2017-07-24-sun-zhengcai
+    title: 中共大地震：孙政才落马令接班制度出现疑问
+    publisher: BBC 中文
+    date: 2017-07-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-40708129
+    excerpt: true
+    keep: [ 江派色彩浓厚 ]
+  # --- Youth League ---
+  - id: f04-scmp-2012-09-23-zhou-qiang
+    title: Hunan stalwart Zhou Qiang set for Politburo despite Li Wangyang scandal
+    publisher: South China Morning Post
+    author: Choi Chi-yuk
+    date: 2012-09-23
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/article/1043368/hunan-stalwart-zhou-qiang-set-politburo-despite-li-wangyang-scandal
+    excerpt: true
+    keep: [ Communist Youth League camp ]
+  # --- Xi's networks ---
+  - id: f04-bbc-2018-03-18-yang-xiaodu
+    title: 中国监察委主任杨晓渡：习近平“旧部” 反腐促仕途“窜升”
+    publisher: BBC 中文
+    date: 2018-03-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43446569
+    excerpt: true
+    keep: [ 为习近平“旧部”, 是习近平的“班子”成员 ]
+  - id: f04-rfa-2021-08-23-zhou-jiangyong
+    title: 多名高官接连落马 周江勇案与“第三次分配”有关？
+    publisher: 自由亚洲电台
+    date: 2021-08-23
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/wy-08232021103555.html
+    excerpt: true
+    keep: [ 所谓“之江新军”的一员, 周江勇真正的政治靠山 ]
+  - id: f04-rfa-2017-10-09-wang-chen
+    title: 夜话中南海：至今仍未被外界关注的习近平政治亲信王晨
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2017-10-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-10092017125324.html
+    excerpt: true
+    keep: [ 习近平政治亲信王晨, 北京哥们 ]
+  # --- Zhou Yongkang network ---
+  - id: f04-bbc-2014-08-29-bai-enpei
+    title: 原云南省委书记白恩培涉嫌违纪违法被查
+    publisher: BBC 中文
+    date: 2014-08-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/08/140829_china_yunnan_baienpei
+    excerpt: true
+    keep: [ 白恩培也与周永康关系密切 ]

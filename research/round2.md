@@ -58,7 +58,7 @@ su-rong:
 
 - **B11 习时期领导人：** 杨洁篪 yang-jiechi、孟建柱 meng-jianzhu、孙春兰 sun-chunlan、陈敏尔 chen-miner、黄坤明 huang-kunming
 - **B12 习时期落马：** 孙力军 sun-lijun、傅政华 fu-zhenghua、苏荣 su-rong、鲁炜 lu-wei、赖小民 lai-xiaomin（赖小民 2021 年已被执行死刑）
-- **B13 军队：** 房峰辉 fang-fenghui、魏凤和 wei-fenghe、范长龙 fan-changlong、许其亮 xu-qiliang（2023-06 去世）、谷俊山 gu-junshan
+- **B13 军队：** 房峰辉 fang-fenghui、魏凤和 wei-fenghe、范长龙 fan-changlong、许其亮 xu-qiliang（2025-06 去世）、谷俊山 gu-junshan
 - **B14 社会与前史：** 习仲勋 xi-zhongxun、赵紫阳 zhao-ziyang、任正非 ren-zhengfei、郭文贵 guo-wengui（2024 年在美国被定罪）、许家印 xu-jiayin
 
 ## C06–C09 新档案卡

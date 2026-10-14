@@ -1,4 +1,2 @@
-# Batches running in parallel in the current round. With --batch=X the build skips the files of the others
-# listed here; everything else (earlier rounds) is read. Empty the list once the round is integrated.
 round: 2
-inflight: [V01, P01, B11, B12, B13, B14, C06, C07, C08, C09, F03, F04, E05, I03]
+inflight: []

@@ -1,0 +1,384 @@
+# C09 dossier cards: trend thinkers, leaders' families, prelude figures
+
+# --- 思潮人物 ---
+- id: wang-hui
+  name: 汪晖
+  gender: m
+  born: 1959-10-10
+  birthplace: 江苏扬州
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 清华大学文科资深教授、人文与社会科学高等研究所所长
+  ids: { wikidata: Q3503449 }
+  bio: >-
+    思想史学者，1996–2007 年任《读书》执行主编，被视为新左派代表人物：澳大利亚国立大学《中国故事》称他是中国新左派的“领军声音”，美国 NBC 2009 年也把他列为新左派知名学者。
+    他本人曾说这类标签是“给别人戴帽子的方式”。2012 年薄熙来落马后，他撰文称重庆模式是真正的社会主义改革。
+  positions:
+    - { title: 《读书》杂志执行主编, sys: other, from: 1996, to: 2007, cite: c09-tsinghua-wang-hui }
+    - { title: 清华大学人文学院教授, sys: other, from: 2002, cite: c09-tsinghua-wang-hui }
+    - { title: 清华大学人文与社会科学高等研究所所长, sys: other, from: 2009, cite: c09-tsinghua-wang-hui }
+  assess:
+    - voice: scholar
+      quote: true
+      text: Wang Hui 汪晖, Tsinghua University professor and former editor of the influential journal Dushu 读书, is the leading voice of China’s New Left.
+      zh: 清华大学教授、有影响力的《读书》杂志前主编汪晖，是中国新左派的领军声音。
+      cite: c09-chinastory-wang-hui
+  cites: [c09-tsinghua-wang-hui, c09-chinastory-wang-hui, i02-nbc-2009-new-left, i02-wiki-new-left, wd-Q3503449]
+
+- id: cui-zhiyuan
+  name: 崔之元
+  gender: m
+  born: 1963
+  birthplace: 北京
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 清华大学公共管理学院教授
+  ids: { wikidata: Q728743 }
+  bio: >-
+    政治经济学者，芝加哥大学政治学博士，1995–2002 年任教麻省理工学院。1994 年有评论借他的文章称中国出现了“新左派”，此后他被中外媒体和学者列为新左派代表人物。
+    2010 年前后他挂职重庆市国资委主任助理，著文为“重庆实验”辩护；2012 年 3 月薄熙来被免职后，他撰文说对重庆的看法不变。
+  positions:
+    - { title: 麻省理工学院政治学系教员, sys: other, from: 1995, to: 2002, cite: c09-tsinghua-cui-zhiyuan }
+    - { title: 清华大学公共管理学院教授, sys: other, cite: c09-tsinghua-cui-zhiyuan }
+    - { title: 重庆市国资委主任助理（挂职）, sys: gov, place: 重庆, from: 2010, cite: c09-ruc-2010-11-15-cui-zhiyuan }
+  assess:
+    - voice: scholar
+      quote: true
+      text: In the 1990s and 2000s, early New Leftists like Cui Zhiyuan and Wang Hui were regime critics because they feared that China might follow neoliberalism as the nation emerged from its Maoist past.
+      zh: 1990 和 2000 年代，崔之元、汪晖等早期新左派是体制的批评者，因为他们担心中国走出毛时代后会走上新自由主义道路。
+      cite: i02-cbr-2024-05-16-new-left-state
+  cites: [c09-tsinghua-cui-zhiyuan, c09-ruc-2010-11-15-cui-zhiyuan, c09-guancha-2012-03-21-cui-zhiyuan, i02-wiki-new-left, i02-nbc-2009-new-left, i02-cbr-2024-05-16-new-left-state, wd-Q728743]
+
+- id: wang-shaoguang
+  name: 王绍光
+  gender: m
+  born: 1954
+  birthplace: 湖北武汉
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 香港中文大学荣休讲座教授、清华大学国情研究院兼职高级研究员
+  ids: { wikidata: Q8462103 }
+  bio: >-
+    政治学者，康奈尔大学政治学博士，1990–2000 年任教耶鲁大学，1999–2017 年任教香港中文大学，以“国家能力”研究著称。西方学者把他归入新左派；
+    许纪霖则把他列入国家主义思潮，写道“王绍光将国家的「高适应性」视为与西方的民主制度相对抗的「制度自觉」和「制度自信心」”。
+  positions:
+    - { title: 耶鲁大学政治系教员, sys: other, from: 1990, to: 2000, cite: c09-iccs-wang-shaoguang }
+    - { title: 香港中文大学政治与公共行政系教员, sys: other, from: 1999, to: 2017, cite: c09-iccs-wang-shaoguang }
+    - { title: 清华大学国情研究院兼职高级研究员, sys: other, cite: c09-iccs-wang-shaoguang }
+  assess:
+    - voice: scholar
+      quote: true
+      text: The political scientist Wang Shaoguang spent the first half of his career as a loyal critic of the regime, promoting “state capacity” in ways that respected China’s socialist engagement.
+      zh: 政治学者王绍光职业生涯的前半段是体制的忠诚批评者，以尊重中国社会主义取向的方式倡导“国家能力”。
+      cite: i02-cbr-2024-05-16-new-left-state
+  cites: [c09-iccs-wang-shaoguang, c09-chinastory-2018-jiang-shigong, i02-cbr-2024-05-16-new-left-state, i02-aisixiang-xu-jilin-statism, i02-wiki-new-left, wd-Q8462103]
+
+- id: gan-yang
+  name: 甘阳
+  gender: m
+  born: 1952
+  origin: 浙江杭州
+  roles: [scholar]
+  status: retired
+  statusNote: 已卸任清华大学新雅书院院长，列为中山大学博雅学院荣休教师
+  tier: 2
+  headline: 清华大学新雅书院原院长（2017–2022）
+  ids: { wikidata: Q19267839 }
+  bio: >-
+    1980 年代“文化热”中主编“文化：中国与世界”丛书，后赴芝加哥大学深造。2005 年在清华演讲提出“通三统”，主张把清代传统、毛泽东时代的社会主义和邓小平的改革开放统合起来，
+    启发了此后重写中国现代史叙事的潮流。翻译其著作的学者 Ownby 认为他认同新左派的许多立场，同时带有文化保守主义色彩。
+  positions:
+    - { title: 清华大学新雅书院（通识教育试验区）总监, sys: other, from: 2014, to: 2017, cite: c09-sysu-gan-yang }
+    - { title: 清华大学新雅书院院长, sys: other, from: 2017-09, to: 2022, cite: c09-tsinghua-xinya-2017-gan-yang }
+  assess:
+    - voice: scholar
+      quote: true
+      text: Gan also identifies with many of the stances of China’s New Left
+      zh: 甘阳也认同中国新左派的许多立场
+      cite: c09-rtcd-gan-yang-tongsantong
+    - voice: scholar
+      quote: true
+      text: Gan also embraces a certain cultural conservatism
+      zh: 甘阳也持有某种文化保守主义
+      cite: c09-rtcd-gan-yang-tongsantong
+  cites: [c09-sysu-gan-yang, c09-tsinghua-xinya-2017-gan-yang, c09-rtcd-gan-yang-tongsantong, c09-chinastory-2018-jiang-shigong, i02-cbr-2024-05-16-new-left-state, wd-Q19267839]
+
+- id: qiang-shigong
+  name: 强世功
+  gender: m
+  born: 1967-11-11
+  birthplace: 陕西榆林
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 北京大学法学院教授，宪法学者
+  ids: { wikidata: Q8461494 }
+  bio: >-
+    北京大学法学院宪法学者。许纪霖把他归入国家主义思潮中的施米特一脉，称“施米特主义在中国政治论述中的代表，非强世功莫属”。法国学者魏简写道，他 2004–2008 年借调中央驻港联络办，
+    被认为是 2014 年“一国两制”白皮书“全面管治权”提法的执笔者。2018 年初他在《开放时代》发文，论证“习近平时代”的历史地位。
+  positions:
+    - { title: 中央人民政府驻香港特别行政区联络办公室（借调）, sys: gov, place: 香港, from: 2004, to: 2008, cite: c09-tocqueville21-hong-kong-neostatism }
+    - { title: 北京大学法学院教授, sys: other, cite: c09-chinastory-2018-jiang-shigong }
+  assess:
+    - voice: scholar
+      quote: true
+      text: Jiang Shigong is no mere propagandist; he is a well-respected legal scholar and professor at Peking University Law School, focusing on constitutional law.
+      zh: 强世功不只是宣传家；他是受人尊敬的法学者、北京大学法学院教授，专攻宪法学。
+      cite: c09-chinastory-2018-jiang-shigong
+  cites: [i02-aisixiang-xu-jilin-statism, c09-tocqueville21-hong-kong-neostatism, c09-chinastory-2018-jiang-shigong, wd-Q8461494]
+
+- id: liu-xiaofeng
+  name: 刘小枫
+  gender: m
+  born: 1956-04
+  birthplace: 重庆
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学教授，施米特思想的引介者
+  ids: { wikidata: Q1866078 }
+  bio: >-
+    瑞士巴塞尔大学博士，曾任教中山大学，后任中国人民大学教授。许纪霖把他放在国家主义施米特一脉的源头，写道“自从刘小枫将希特勒的桂冠法学家卡尔‧施米特的思想引进中国思想界”，
+    法学界、政治学界便刮起施米特旋风。2013 年他在演讲中把毛泽东视为中国的“国父”，说“孙中山比起毛泽东差十万八千里”。
+  assess:
+    - voice: scholar
+      quote: true
+      text: Liu Xiaofeng, a professor at Renmin University of China and previously Sun Yat-sen University, born in 1956, with a Ph.D. from the University of Basel, is the most important such figure and the leader of a Schmittian faction in China.
+      zh: 刘小枫，1956 年生，巴塞尔大学博士，现为中国人民大学教授、此前在中山大学，是（中国研究施米特的学者中）最重要的人物，也是中国施米特派的领袖。
+      cite: c09-illiberalism-liu-xiaofeng
+  cites: [i02-aisixiang-xu-jilin-statism, c09-illiberalism-liu-xiaofeng, c09-aisixiang-2013-liu-xiaofeng-mao, wd-Q1866078]
+
+- id: pan-wei
+  name: 潘维
+  gender: m
+  born: 1960-07-30
+  roles: [scholar]
+  status: active
+  statusNote: 2023 年秋从北京大学退休，转往澳门大学任教
+  tier: 2
+  headline: 北京大学中国与世界研究中心主任，现执教澳门大学
+  ids: { wikidata: Q6059369 }
+  bio: >-
+    北京大学国际政治系本科、硕士，伯克利加州大学政治学博士，1996 年回北大国际关系学院任教，2023 年秋退休并转往澳门大学。
+    许纪霖把他列入国家主义思潮，引他的话说“中国政治模式最根本的特征是拥有一个先进的执政集团”。
+  positions:
+    - { title: 北京大学国际关系学院教员, sys: other, from: 1996, to: 2023, cite: c09-thepaper-2024-07-02-pan-wei }
+    - { title: 北京大学中国与世界研究中心主任, sys: other, cite: c09-thepaper-2024-07-02-pan-wei }
+    - { title: 澳门大学教员, sys: other, place: 澳门, from: 2023, cite: c09-thepaper-2024-07-02-pan-wei }
+  cites: [c09-thepaper-2024-07-02-pan-wei, i02-aisixiang-xu-jilin-statism, wd-Q6059369]
+
+- id: zhang-hongliang
+  name: 张宏良
+  gender: m
+  born: 1955-07-31
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中央民族大学经济学教授，“乌有之乡”专栏作者
+  ids: { wikidata: Q9135961 }
+  bio: >-
+    中央民族大学经济学教授、毛左网站“乌有之乡”专栏作者，法广 2010 年称他是“中国学术界毛派人物的代表”，美国之音 2012 年称他为“毛左舆论大将”。
+    他曾撰文称“当今中国最具道义合法性的社会群体，是那些开国元勋的后代”。2010 年 6 月他开了 5 年的新浪博客被关闭；2012 年他在演讲中不点名抨击温家宝。
+  cites: [c09-rfi-2010-06-27-zhang-hongliang, i02-voa-2012-04-06-utopia, wd-Q9135961]
+
+- id: fan-jinggang
+  name: 范景刚
+  gender: m
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 毛左网站“乌有之乡”负责人
+  bio: >-
+    美国之音称他是“乌有之乡”网站的负责人。2011 年乌有之乡组织网友举报批毛学者茅于轼“颠覆国家政权”，他证实举报状已送达北京市公安局，并说“言论自由是有边界的”。
+    2012 年 3 月薄熙来被免职后，他向法广证实网站曾被要求删除直接支持薄熙来和“重庆模式”的文章，随后网站又被关闭整顿一个月。
+  cites: [c09-voa-2011-05-24-mao-yushi, i02-rfi-2012-04-06-utopia, i02-voa-2012-04-06-utopia]
+
+- id: yue-xin
+  name: 岳昕
+  gender: f
+  birthplace: 北京
+  roles: [dissent]
+  status: missing
+  statusNote: 2018 年 8 月 24 日被警方带走后未再公开露面，官方未公布对她的处理
+  tier: 2
+  headline: 北京大学毕业生，佳士工人声援团成员
+  ids: { wikidata: Q56260429 }
+  bio: >-
+    北京大学毕业生，BBC 称她是“今年中国网络上最著名的左翼青年之一”、坚定的马克思主义者。2018 年 4 月她发公开信督促北大公开沈阳性侵案真相，7 月起投身深圳佳士工人维权声援，
+    8 月 24 日在警方清场中被带走后失联。2019 年 1 月，声援团称她与另三人被迫录制认罪视频。
+  cites: [i02-bbc-2018-12-28-left-youth, i02-bbc-2018-08-16-jasic, c09-rfi-2018-10-23-yue-xin, c09-cna-2019-01-21-yue-xin, wd-Q56260429]
+
+- id: wang-xiaodong-writer
+  name: 王小东
+  gender: m
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 民族主义作家，《中国不高兴》合著者
+  ids: { wikidata: Q117821622 }
+  bio: >-
+    1988 年还是年轻经济学教师时撰文批评纪录片《河殇》而成名，《纽约时报》称他为中国民族主义“教父”，他自称曾“被称为是中国民族主义的旗手”。2009 年合著《中国不高兴》，提出“惩罚外交”；
+    观察者网文章称“工业党”这一命名最早出自他 2011 年的文章。2022 年他转而告诫中国的民族主义走得太远了。
+  assess:
+    - voice: scholar
+      quote: true
+      text: Wang is an ardent techno-nationalist who believes that industrial might and technological advance are the most meaningful measure of China’s national progress
+      zh: 王小东是热忱的技术民族主义者，认为工业实力和技术进步是衡量中国国家进步最有意义的标准
+      cite: i02-coso-wang-xiaodong-industrial-party
+  cites: [c09-nytcn-2022-10-28-wang-xiaodong, c09-bbc-2009-03-24-china-unhappy, i02-guancha-2018-10-25-gongyedang, i02-coso-wang-xiaodong-industrial-party, wd-Q117821622]
+
+- id: wu-si
+  name: 吴思
+  gender: m
+  born: 1957
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 原《炎黄春秋》总编辑，“潜规则”概念提出者
+  ids: { wikidata: Q9055360 }
+  bio: >-
+    财新称他是“潜规则”概念的提出者，他曾任法广所称“立场属自由派的炎黄春秋杂誌”总编辑。2014 年 10 月胡德平、陆德接班安排公布后，据自由亚洲电台报道，他在 11 月的编辑部会议上口头提出辞职。
+    2019 年天则经济研究所被取缔时他说：“我们是民间的独立智库，温和而富于建设性，取缔我们并不难。”
+  positions:
+    - { title: 《炎黄春秋》杂志社总编辑, sys: other, to: 2014-11, cite: c09-rfa-2014-11-07-yanhuang }
+  cites: [c09-caixin-2013-05-27-wu-si, c09-rfa-2014-11-07-yanhuang, c09-rfi-2016-10-03-gongshi, i02-bbc-2019-08-30-unirule, wd-Q9055360]
+
+- id: zhou-zhixing
+  name: 周志兴
+  gender: m
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 共识网、《领导者》杂志创办人
+  bio: >-
+    曾任中共中央文献研究室刘少奇研究组助理研究员，1987 年创办中央文献出版社并任副社长，后创办《凤凰周刊》；2004 年在香港创办《领导者》杂志，其网站共识网被法广称为“被视为立场偏向自由派”的网站。
+    2016 年 10 月共识网停止更新，他在朋友圈的帖文称当局希望关闭网站，但他对媒体否认是被下令关闭。
+  positions:
+    - { title: 中央文献出版社副社长, sys: party, from: 1987, cite: c09-voa-2016-10-02-gongshi }
+    - { title: 立德共识（北京）网络传媒科技有限公司执行长, sys: other, cite: c09-rfi-2016-10-03-gongshi }
+  cites: [c09-rfi-2016-10-03-gongshi, c09-voa-2016-10-02-gongshi, i02-rfi-2016-10-02-gongshi]
+
+# --- 领导人家属 ---
+- id: wang-yeping
+  name: 王冶坪
+  gender: f
+  born: 1928-02-12
+  birthplace: 江苏扬州
+  roles: [family]
+  status: retired
+  statusNote: 江泽民遗孀，无公职
+  tier: 2
+  headline: 江泽民夫人
+  ids: { wikidata: Q717483 }
+  bio: >-
+    江泽民的夫人。2022 年 12 月 5 日江泽民遗体在北京火化，新华社报道遗体前摆放着“江泽民同志的夫人王冶坪率全家敬献的花篮”，
+    习近平等领导人随后“向江泽民同志的夫人王冶坪和亲属表示深切慰问”。主流媒体未见针对她本人财富的调查报道。
+  cites: [c09-gov-2022-12-05-jiang-cremation, wd-Q717483]
+
+- id: zhu-lin
+  name: 朱琳
+  gender: f
+  roles: [family]
+  status: retired
+  statusNote: 李鹏遗孀，无公职
+  tier: 2
+  headline: 李鹏夫人
+  ids: { wikidata: Q11094424 }
+  bio: >-
+    前国务院总理李鹏的夫人。BBC 中文 2019 年的李鹏讣闻写道“其妻子朱琳曾任华北电力局外事处负责人”，同文称李鹏家族号称中国的“电老虎”，长子李小鹏曾任华能集团总经理，
+    但未举出针对朱琳本人财富的调查。
+  positions:
+    - { title: 华北电力局外事处负责人, sys: gov, cite: b01-bbc-2019-07-23-li-peng-obit }
+  cites: [b01-bbc-2019-07-23-li-peng-obit, wd-Q11094424]
+
+- id: zeng-wei
+  name: 曾伟
+  gender: m
+  born: 1968-09-13
+  roles: [family, biz]
+  status: active
+  tier: 2
+  headline: 曾庆红之子
+  ids: { wikidata: Q16905236 }
+  bio: >-
+    前国家副主席曾庆红之子。《悉尼先驱晨报》报道，他与妻子 2008 年以 3240 万澳元买下悉尼海港豪宅 Craig-y-Mor，并称外界对他的个人和职业生活所知甚少。
+    2014 年法广报道，明天系声明否认“曾先生”介入 2006 年的鲁能私有化，法广认为所指“应该指的是曾庆红的儿子曾伟”；此说未获当事人证实。
+  cites: [b01-smh-2010-10-12-zeng-wei, b01-smh-2014-06-19-zeng-wei-mansion, c09-rfi-2014-06-27-tomorrow-luneng, wd-Q16905236]
+
+# --- 前史人物 ---
+- id: deng-xiaoping
+  name: 邓小平
+  gender: m
+  born: 1904-08-22
+  died: 1997-02-19
+  birthplace: 四川广安
+  roles: [psc, cmc]
+  status: dead
+  tier: 2
+  headline: 中共第二代领导核心，改革开放“总设计师”
+  ids: { wikidata: Q16977 }
+  bio: >-
+    中共称他为“党的第二代中央领导集体的核心”和改革开放的“总设计师”，1989 年主导镇压民运。他选定江泽民接班，又“隔代指定”胡锦涛，
+    BBC 2001 年写道“胡锦涛则是邓小平生前预先安排的第四代领导班子的核心”。中央社 2022 年认为，习近平不安排接班人，摧毁了这套隔代接班制度。
+  positions:
+    - { title: 中共中央书记处总书记, sys: party, from: 1956-09, to: 1966-08, cite: wd-Q16977 }
+    - { title: 中央政治局常委, sys: party, from: 1977-07-21, to: 1987-11-02, cite: wd-Q16977 }
+    - { title: 全国政协主席, sys: gov, from: 1978-03-08, to: 1983-06-22, cite: wd-Q16977 }
+    - { title: 中共中央军委主席, sys: army, from: 1981-06-28, to: 1989-11-09, cite: wd-Q16977 }
+    - { title: 国家中央军委主席, sys: army, from: 1983-06-06, to: 1990-03-21, cite: wd-Q16977 }
+  cites: [c09-gov-2024-08-22-xi-deng-120, c09-bbc-2001-hu-dragon-chair, c09-cna-2022-10-08-deng-succession, b07-voa-2014-07-03-xu-hu, wd-Q16977]
+
+- id: hu-yaobang
+  name: 胡耀邦
+  gender: m
+  born: 1915-11-20
+  died: 1989-04-15
+  birthplace: 湖南浏阳
+  roles: [psc, sec]
+  status: dead
+  tier: 2
+  headline: 中共中央主席、总书记（1981–1987）
+  ids: { wikidata: Q99850 }
+  bio: >-
+    长期主持共青团中央，改革初期推动真理标准讨论和平反冤假错案，1981–1987 年任中共中央主席、总书记，1987 年因被指“纵容自由化”下台。1989 年 4 月病逝，成为六四民运的导火索。
+    2005 年诞辰 90 周年时胡锦涛未出席纪念活动；2015 年习近平出席百年座谈会，称他是“长期担任党的重要领导职务的卓越领导人”。
+  positions:
+    - { title: 共青团中央书记处书记、第一书记, sys: party, from: 1952, cite: c09-gov-2015-11-20-xi-hu-yaobang-100 }
+    - { title: 中央宣传部部长, sys: party, from: 1978-12-25, to: 1980-03-12, cite: wd-Q99850 }
+    - { title: 中央书记处总书记, sys: party, from: 1980-02, to: 1982-09, cite: wd-Q99850 }
+    - { title: 中央政治局常委, sys: party, from: 1980-02-29, to: 1987-11-02, cite: wd-Q99850 }
+    - { title: 中共中央主席, sys: party, from: 1981-06-28, to: 1982-09-11, cite: wd-Q99850 }
+    - { title: 中共中央总书记, sys: party, from: 1982-09-12, to: 1987-01-15, cite: wd-Q99850 }
+  fall:
+    - { date: 1987-01, text: 被指“纵容自由化”而遭整肃，辞去总书记职务, cite: c09-bbc-2015-11-20-hu-yaobang-100 }
+  cites: [c09-gov-2015-11-20-xi-hu-yaobang-100, c09-bbc-2015-11-20-hu-yaobang-100, wd-Q99850]
+
+- id: chen-xitong
+  name: 陈希同
+  gender: m
+  born: 1930-06-10
+  died: 2013-06-02
+  birthplace: 四川安岳
+  roles: [pb, tiger]
+  status: dead
+  tier: 2
+  headline: 原北京市委书记、市长，1995 年落马
+  ids: { wikidata: Q707099 }
+  bio: >-
+    1983–1993 年任北京市长，1992 年起任市委书记、政治局委员；六四时任市长，事后报告称 200 余人死亡。1995 年因王宝森案引咎辞职，1998 年被判刑 16 年，
+    BBC 称观察家普遍认为他是与江泽民“内斗失败”。2008 年陈良宇受审时，官媒称其为“继原北京市委书记陈希同之后，第二位因腐败犯罪被司法审判的中共中央政治局委员”。
+  positions:
+    - { title: 北京市市长, sys: gov, place: 北京, from: 1983-03-24, to: 1993-02-05, cite: wd-Q707099 }
+    - { title: 国务委员, sys: gov, from: 1988-04, to: 1993-03, cite: c01-gov-2018-03-19-state-council-history }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 1992, to: 1995-04-27, cite: e01-cpc-dsj-1995 }
+    - { title: 中央政治局委员, sys: party, to: 1995-09, cite: e01-cpc-dsj-1995 }
+  fall:
+    - { date: 1995-04-27, text: 中共中央批准他引咎辞去北京市委书记、常委、委员职务, cite: e01-cpc-dsj-1995 }
+    - { date: 1995-09, text: 十四届五中全会撤销其中央政治局委员、中央委员职务, cite: e01-cpc-dsj-1995 }
+    - { date: 1997-08, text: 被开除党籍, cite: e01-cpc-dsj-1995 }
+    - { date: 1998-07-31, text: 北京市高级人民法院判处有期徒刑十六年, cite: e01-cpc-dsj-1995 }
+    - { date: 2006-05-31, text: 保外就医, cite: c09-bbc-2013-06-05-chen-xitong }
+  cites: [e01-cpc-dsj-1995, c09-bbc-2013-06-05-chen-xitong, c09-bbc-2012-05-29-chen-xitong-book, e01-voa-2017-12-22-june4-toll, b07-gmw-2008-04-27-chen-trial, c01-gov-2018-03-19-state-council-history, wd-Q707099]

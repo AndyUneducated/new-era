@@ -1,0 +1,332 @@
+# B11: sources for the full biographies of Yang Jiechi, Meng Jianzhu, Sun Chunlan, Chen Min'er, Huang Kunming.
+web:
+  # --- Yang Jiechi ---
+  - id: b11-mfa-2021-03-19-yang-anchorage
+    title: 杨洁篪在中美高层战略对话开场白中阐明中方有关立场
+    publisher: 外交部
+    date: 2021-03-19
+    voice: official
+    url: https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202103/t20210319_9710635.shtml
+    start: 当地时间2021年3月18日
+    end: 健康稳定发展的轨道上来。
+  - id: b11-bbc-2021-03-19-anchorage-plain
+    title: 中美阿拉斯加会谈：外交辞令之外的大白话“中国人不吃这一套”
+    publisher: BBC 中文
+    date: 2021-03-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-56456963
+    excerpt: true
+    keep: [ 杨洁篪的讲话持续了16分钟, 还说了许多重大外交场合不常出现的大白话, 难道我们吃洋人的苦头还少吗, 我们把你们想得太好了 ]
+  - id: b11-bbc-2021-03-20-anchorage-close
+    title: 中美阿拉斯加“艰难”会谈落下帷幕 回顾双方外交官如何唇枪舌战
+    publisher: BBC 中文
+    date: 2021-03-20
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-56464982
+    excerpt: true
+    keep: [ 杨洁篪随即作出火力全开的回应, 杨洁篪的发言约持续了18分钟 ]
+  - id: b11-jamestown-2010-china-missteps
+    title: "China's Missteps in Southeast Asia: Less Charm, More Offensive"
+    publisher: Jamestown Foundation, China Brief
+    author: Ian Storey
+    date: 2010-12
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/chinas-missteps-in-southeast-asia-less-charm-more-offensive/
+    excerpt: true
+    keep: [ China is a big country and other countries are small countries ]
+  - id: b11-jamestown-2018-yang-element
+    title: "Yang Jiechi: Xi Jinping's Top Diplomat Back in His Element"
+    publisher: Jamestown Foundation, China Brief
+    date: 2018
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/yang-jiechi-xis-top-diplomat-back-element/
+    excerpt: true
+    keep: [ Tiger Yang, EP-3, born a Tiger ]
+  - id: b11-cctv-2007-04-29-yang-tiger
+    title: 杨洁篪化解中美撞机危机 老布什送其老虎杨绰号
+    publisher: 央视网（转载）
+    date: 2007-04-29
+    voice: official
+    url: http://news.cctv.com/china/20070429/100186.shtml
+    excerpt: true
+    keep: [ 乐爱妹(杨洁篪夫人), 老虎二字大有来历, 杨洁篪从伦敦回国 ]
+  # --- Meng Jianzhu ---
+  - id: b11-cctv-2009-07-08-meng-urumqi
+    title: 孟建柱看望“7·5”事件受伤干部群众和遇害同胞家属
+    publisher: 新华社（央视网转载）
+    date: 2009-07-08
+    voice: official
+    url: http://news.cctv.com/china/20090708/108888.shtml
+    start: 新华网乌鲁木齐
+    end: 我们永远都会怀念他。
+  - id: b11-rfi-2012-11-20-meng-zhengfa
+    title: 孟建柱掌政法委 降格但不放松打压维稳
+    publisher: 法国国际广播电台
+    date: 2012-11-20
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20121120-%E5%AD%9F%E5%BB%BA%E6%9F%B1%E6%8E%8C%E6%94%BF%E6%B3%95%E5%A7%94-%E9%99%8D%E6%A0%BC%E4%BD%86%E4%B8%8D%E6%94%BE%E6%9D%BE%E6%89%93%E5%8E%8B%E7%BB%B4%E7%A8%B3
+    excerpt: true
+    keep: [ 是十年来首次由非政治局常委出任, 不再由常委兼任政法委书记, 浦志强 ]
+  - id: b11-bbcen-2012-11-security-portfolio
+    title: China leaders reassert control over security portfolio
+    publisher: BBC News
+    date: 2012-11-21
+    voice: west
+    lang: en
+    url: https://www.bbc.com/news/world-asia-china-20422303
+    excerpt: true
+    keep: [ had become the country, was not granted a seat, not downplaying the importance of domestic security ]
+  - id: b11-gov-2013-01-07-meng-zhengfa-meeting
+    title: 孟建柱在全国政法工作电视电话会议上强调 全面推进平安中国法治中国建设
+    publisher: 新华社（中国政府网）
+    date: 2013-01-07
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-01/07/content_2306657.htm
+    start: 中共中央政治局委员、国务委员、中央政法委书记孟建柱在
+    end: 曹建明等出席会议。
+  - id: b11-bbc-2013-01-07-meng-laojiao
+    title: “孟建柱讲话表明政府停止劳教决心”
+    publisher: BBC 中文
+    date: 2013-01-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_analysis/2013/01/130107_ana_meng_jianzhu_labour_camp
+    excerpt: true
+    keep: [ 孟建柱特别强调, 金小鹏 ]
+  - id: b11-nytcn-2013-01-08-laojiao-reform
+    title: 中国拟对劳教制度进行改革
+    publisher: 纽约时报中文网
+    date: 2013-01-08
+    voice: zh
+    url: https://cn.nytimes.com/china/20130108/c08reeducate/
+    excerpt: true
+    keep: [ 在以前确实起到了很重要的作用, 这些文章随后均被删除 ]
+  - id: b11-12371-2013-06-30-meng-xinjiang
+    title: 孟建柱在新疆检查指导反恐维稳工作
+    publisher: 共产党员网（新华社）
+    date: 2013-06-30
+    voice: official
+    url: http://news.12371.cn/2013/06/30/ARTI1372601496988825.shtml
+    excerpt: true
+    keep: [ 始终保持严打高压态势, 新疆的稳定事关全国的稳定 ]
+  - id: b11-yndaily-2014-03-02-meng-kunming
+    title: 孟建柱在昆明指导暴力恐怖事件处置工作
+    publisher: 新华社（云南日报网）
+    date: 2014-03-02
+    voice: official
+    url: http://www.yndaily.com/html/2014/yaowenyunnan_0302/2680.html
+    start: 新华社昆明3月2日电
+    end: 赶到昆明指导处置工作。
+  - id: b11-whitehouse-2015-09-12-meng-readout
+    title: Readout of Senior Administration Officials' Meeting with Secretary of the Central Political and Legal Affairs Commission of the Communist Party of China Meng Jianzhu
+    publisher: The White House
+    date: 2015-09-12
+    voice: doc
+    lang: en
+    url: https://obamawhitehouse.archives.gov/the-press-office/2015/09/12/readout-senior-administration-officials-meeting-secretary-central
+    excerpt: true
+    keep: [ President Xi Jinping, frank and open exchange ]
+  - id: b11-people-2017-08-29-meng-xinjiang
+    title: 孟建柱：坚定信心 综合施策 全力开创社会稳定和长治久安新局面
+    publisher: 新华社（中国共产党新闻网）
+    date: 2017-08-28
+    voice: official
+    url: http://cpc.people.com.cn/n1/2017/0829/c64094-29501882.html
+    excerpt: true
+    keep: [ 23日至27日在新疆调研时强调, 就是对各族人民群众的最大保护和热爱, 要坚持把开展反分裂斗争作为头等大事 ]
+  - id: b11-cna-2017-10-31-guo-replaces-meng
+    title: 中共政法委書記 郭聲琨接任
+    publisher: 中央社
+    date: 2017-10-31
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201710310374.aspx
+    excerpt: true
+    keep: [ 已接替孟建柱擔任, 外界原本就預期 ]
+  # --- Sun Chunlan ---
+  - id: b11-bbc-2014-12-31-sun-ufwd
+    title: 令计划被免职 孙春兰接任中央统战部长
+    publisher: BBC 中文
+    date: 2014-12-31
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/12/141231_china_communist_united_front_chief
+    excerpt: true
+    keep: [ 打破了近年来的惯例, 曾在辽宁省任职近40年, 四年后，她又被调任福建省委书记 ]
+  - id: b11-voa-2015-01-06-sun-jinhua
+    title: 时事大家谈：孙春兰：胡锦涛的金花 还是习近平的心腹？
+    publisher: 美国之音
+    date: 2015-01-06
+    voice: zh
+    url: https://www.voachinese.com/a/voaweishi-20150106-voaio-2/2587402.html
+    excerpt: true
+    keep: [ 被认为是团派的孙春兰 ]
+  - id: b11-brookings-2018-03-new-gov-leaders
+    title: China's new top government leaders
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2018-03
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/chinas-new-top-government-leaders/
+    excerpt: true
+    keep: [ Sun Chunlan comes from a humble background, removing Bo Xilai ]
+  - id: b11-people-2020-02-07-sun-wartime
+    title: 孙春兰强调 以战时状态全力抓好源头防控
+    publisher: 新华社（中国共产党新闻网）
+    date: 2020-02-06
+    voice: official
+    url: http://cpc.people.com.cn/n1/2020/0207/c64094-31575061.html
+    start: 新华社武汉2月6日电
+    end: 确保不落一户、不漏一人。
+  - id: b11-gov-2020-02-11-sun-wuhan
+    title: 中央赴湖北指导组：坚决打赢疫情防控武汉保卫战、湖北保卫战
+    publisher: 新华社（中国政府网）
+    date: 2020-02-11
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2020-02/11/content_5477481.htm
+    start: 新华社武汉2月11日电
+    end: 目前也积极投入到抗击疫情斗争中。
+  - id: b11-bbc-2020-03-06-sun-fake
+    title: 肺炎疫情：武汉居民向中央高官孙春兰举报政府抗疫工作有假
+    publisher: BBC 中文
+    date: 2020-03-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-51769104
+    excerpt: true
+    keep: [ 遭遇居民隔窗高喊, 中央电视台并没有在报道中说明, 有报道称，居民社区物业 ]
+  - id: b11-nytcn-2022-10-20-sun-zero-czar
+    title: “清零沙皇”孙春兰：中共高层“孤独”的女性领导人
+    publisher: 纽约时报中文网
+    date: 2022-10-20
+    voice: zh
+    url: https://cn.nytimes.com/china/20221020/china-women-communist-party/
+    excerpt: true
+    keep: [ 孙春兰现在被视为中国的, 包括前国家主席胡锦涛, 只有八名女性进入了 ]
+  - id: b11-gov-2022-11-30-sun-new-situation
+    title: 孙春兰强调：充分发挥各方专家优势 不断优化完善防控措施
+    publisher: 新华社（中国政府网）
+    date: 2022-11-30
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2022-11/30/content_5729738.htm
+    start: 新华社北京11月30日电
+    end: 为做好疫情防控工作献计出力。
+  - id: b11-dw-2023-03-zero-exit
+    title: 美媒揭底中國結束清零政策內幕
+    publisher: 德国之声
+    date: 2023-03
+    voice: zh
+    url: https://www.dw.com/zh-hant/%E7%BE%8E%E5%AA%92%E6%8F%AD%E5%BA%95%E4%B8%AD%E5%9C%8B%E7%B5%90%E6%9D%9F%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%E5%85%A7%E5%B9%95/a-65069498
+    excerpt: true
+    keep: [ 前往上海監督全面封鎖, 國家計畫「迅速地」結束清零政策 ]
+  # --- Chen Min'er ---
+  - id: b11-bbc-2015-07-31-chen-guizhou
+    title: “之江新军”陈敏尔升任贵州省委书记
+    publisher: BBC 中文
+    date: 2015-07-31
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/07/150731_chen_miner_guizhou
+    excerpt: true
+    keep: [ 浙江日报头版推出特色栏目, 堪称是一支 ]
+  - id: b11-chinanews-2017-07-15-chen-chongqing
+    title: 重庆市召开领导干部会议 重庆市委书记陈敏尔讲话
+    publisher: 中国新闻网
+    date: 2017-07-15
+    voice: official
+    url: https://www.chinanews.com/gn/2017/07-15/8278828.shtml
+    excerpt: true
+    keep: [ 坚决清除“薄王”案件的恶劣影响, 中央派我到重庆来 ]
+  - id: b11-rfa-2017-07-18-chen-chongqing
+    title: 陈敏尔入主重庆：坚决肃清薄王遗毒
+    publisher: 自由亚洲电台
+    date: 2017-07-18
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/6-07182017132131.html
+    excerpt: true
+    keep: [ 召开市委常委（扩大）会议, 多家国际媒体认为 ]
+  - id: b11-nytcn-2017-09-13-chen-miner
+    title: 习近平老部下陈敏尔有望在十九大晋升中共高层
+    publisher: 纽约时报中文网
+    date: 2017-09-13
+    voice: zh
+    url: https://cn.nytimes.com/china/20170913/china-xi-jinping-successor-chen-miner/
+    excerpt: true
+    keep: [ 他是习近平的老部下之一, 把农村家庭的小块土地并进合作社 ]
+  - id: b11-ifeng-2017-10-20-chen-presser
+    title: 重庆市代表团开放日回答记者提问现场实录
+    publisher: 重庆日报（凤凰网转载）
+    date: 2017-10-20
+    voice: official
+    url: http://news.ifeng.com/a/20171020/52714280_0.shtml
+    excerpt: true
+    keep: [ 党中央对孙政才严重违纪案的处理决定, 一是把清除孙政才恶劣影响 ]
+  - id: b11-xinhua-2022-12-08-chen-tianjin
+    title: 天津市委主要负责同志职务调整 陈敏尔兼任天津市委书记
+    publisher: 新华网
+    date: 2022-12-08
+    voice: official
+    url: https://www.news.cn/politics/2022-12/08/c_1129192644.htm
+    start: 新华网天津12月8日电
+    end: 十九届、二十届中央政治局委员。
+  - id: b11-tjnews-2025-05-15-chen-jjj
+    title: 天津市委常委会召开会议 陈敏尔主持并讲话
+    publisher: 天津日报（新华网天津频道）
+    date: 2025-05-15
+    voice: official
+    url: http://tj.news.cn/20250515/0c3777bd629c4a79b9646e3d0601441d/c.html
+    excerpt: true
+    keep: [ 京津冀协同发展进入新十年 ]
+  - id: b11-brookings-2022-10-16-20th-candidates
+    title: Candidates for China's 20th Politburo Standing Committee and Politburo
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2022-10-16
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/candidates-for-chinas-20th-politburo-standing-committee-and-politburo/
+    excerpt: true
+    keep:
+      - had predicted that Chen Min
+      - was born on September 29, 1960, in Zhuji City
+      - Chen worked as a propaganda clerk
+      - In January 2012, Chen was transferred to Guizhou
+      - Huang Kunming was born on November 15, 1956
+      - Huang began his career as a PLA sol
+      - In 1999, Huang was transferred to Zhejiang
+      - Chen was widely believed to have substantially assisted Xi
+      - previously married to the son of Si Xinliang
+      - In Guizhou, Chen was known for his dedication to poverty alleviation
+      - He is believed to have substantially assisted Xi in preparing his
+      - Huang has played an important role in promoting
+  # --- Huang Kunming ---
+  - id: b11-people-2016-10-28-huang-core
+    title: 黄坤明：习近平总书记作为党中央的核心是众望所归
+    publisher: 中国共产党新闻网
+    date: 2016-10-28
+    voice: official
+    url: http://cpc.people.com.cn/n1/2016/1028/c164113-28816868.html
+    excerpt: true
+    keep: [ 今天下午，中央宣传部举行新闻发布会, 是全党的高度共识, 一致认为十八大以来的实践充分证明 ]
+  - id: b11-xinhua-2017-10-30-huang-propaganda
+    title: 黄坤明在学习宣传贯彻党的十九大精神电视电话会议上强调 迅速兴起学习宣传贯彻党的十九大精神的热潮
+    publisher: 新华社
+    date: 2017-10-30
+    voice: official
+    url: http://www.news.cn/politics/19cpcnc/2017-10/30/c_1121879508.htm
+    start: 新华社北京10月30日电
+    end: 推动党的十九大精神深入人心、落地生根。
+  - id: b11-hk01-2017-10-30-huang-propaganda
+    title: 【十九大】新任政治局委員黃坤明掌中宣部 接替劉奇葆
+    publisher: 香港01
+    date: 2017-10-30
+    voice: zh
+    url: https://www.hk01.com/%E4%B8%AD%E5%9C%8B/129526/%E5%8D%81%E4%B9%9D%E5%A4%A7-%E6%96%B0%E4%BB%BB%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%93%A1%E9%BB%83%E5%9D%A4%E6%98%8E%E6%8E%8C%E4%B8%AD%E5%AE%A3%E9%83%A8-%E6%8E%A5%E6%9B%BF%E5%8A%89%E5%A5%87%E8%91%86
+    excerpt: true
+    keep: [ 為數不多的同時與習近平在閩、浙兩地都共事過的官員, 接替升任浙江省副省長的陳敏爾, 甚至有聲音更指中宣部 ]
+  - id: b11-gd-2022-10-28-huang-guangdong
+    title: 广东省召开全省领导干部会议，李希主持，陈希宣布中央决定：黄坤明任广东省委书记
+    publisher: 广东省人民政府门户网站
+    date: 2022-10-28
+    voice: official
+    url: http://www.gd.gov.cn/gdywdt/gdyw/content/post_4037383.html
+    excerpt: true
+    keep: [ 日前，中共中央决定：李希同志不再兼任广东省委书记, 黄坤明在讲话中表示 ]

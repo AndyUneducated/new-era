@@ -1,0 +1,351 @@
+# C07 (round 2): dossier cards for Xi-era officials and faction figures.
+web:
+  # --- 钟绍军 ---
+  - id: c07-xinhua-2026-08-28-npc-deputies
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十九号
+    publisher: 新华社
+    date: 2026-08-28
+    voice: doc
+    url: https://www.xinhuanet.com/politics/20260828/880e5ee1563549d99b82c901a20ab62f/c.html
+    start: 湖北省第十四届人大常委会第二十五次会议补选关志鸥
+    end: 特此公告。
+  - id: c07-wiki-zhong-shaojun
+    title: 钟绍军（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/钟绍军
+    excerpt: true
+    keep: [ 浙江衢州开化人, 长期贴身大秘 ]
+  - id: c07-rfa-2022-01-28-zhijiang
+    title: 夜话中南海：习近平的“之江新军”内部一样是尔虞我诈（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2022-01-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-01282022172714.html
+    excerpt: true
+    keep: [ 那就是钟绍军 ]
+  # --- 宋涛 ---
+  - id: c07-gwytb-song-tao
+    title: 宋涛（国台办办领导简介）
+    publisher: 中共中央台湾工作办公室、国务院台湾事务办公室
+    date: 2026
+    voice: official
+    url: https://www.gwytb.gov.cn/jgsz/bld/st/
+    start: 男，汉族，1955年4月生
+    end: 中共中央对外联络部部长等。
+  - id: c07-zaobao-2022-12-28-song-tao
+    title: 前中联部部长宋涛任国台办主任
+    publisher: 联合早报
+    date: 2022-12-28
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221228-1347849
+    excerpt: true
+    keep: [ 2008年8月任外交部纪委书记, 2015年11月至今年6月 ]
+  - id: c07-rfa-2022-12-29-song-tao
+    title: 宋涛接任国台办主任 陆委会：盼务实改善两岸关系
+    publisher: 自由亚洲电台
+    date: 2022-12-29
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/gangtai/hcm2-12292022112055.html
+    excerpt: true
+    keep: [ 信得过, 沙县插队, 教科卫体委员会副主任 ]
+  # --- 冀文林 ---
+  - id: c07-people-2014-07-02-ji-wenlin
+    title: 海南省原副省长冀文林被开除党籍公职
+    publisher: 人民网（中央纪委监察部网站消息）
+    date: 2014-07-02
+    voice: official
+    url: http://fanfu.people.com.cn/n/2014/0702/c64371-25230073.html
+    start: 中国共产党新闻网北京7月2日电
+    end: 2013年1月任海南省副省长，海口市委副书记，市长。
+  - id: c07-court-2016-03-30-ji-wenlin
+    title: 海南省原副省长冀文林受贿案一审宣判
+    publisher: 最高人民法院网
+    date: 2016-03-30
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/33121.html
+    start: 3月30日上午
+    end: 遂依法作出上述判决。
+  - id: c07-bbc-2016-03-30-ji-wenlin
+    title: 中国反腐：周永康前秘书冀文林被判12年
+    publisher: BBC 中文
+    date: 2016-03-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/03/160330_china_hainan_corruption
+    excerpt: true
+    keep: [ 曾担任十年周永康的秘书, 周永康的七位前秘书 ]
+  # --- 武长顺 ---
+  - id: c07-court-2017-05-27-wu-changshun
+    title: 天津市政协原副主席、公安局原局长武长顺一审被判死缓
+    publisher: 最高人民法院网（新华社）
+    date: 2017-05-27
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/46132.html
+    start: 5月27日，河南省郑州市中级人民法院公开宣判
+    end: 武长顺当庭表示服判，不上诉。
+  - id: c07-hkcd-2016-06-04-wu-changshun
+    title: 武长顺涉六宗罪创纪录 系落马老虎“罪人之最”（转载新京报）
+    publisher: 香港商报
+    date: 2016-06-04
+    voice: zh
+    url: https://www.hkcd.com/content/2016-06/04/content_1003294.html
+    excerpt: true
+    keep: [ 2014年7月20日 ]
+  - id: c07-wiki-wu-changshun
+    title: 武长顺（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/武长顺
+    excerpt: true
+    keep: [ 天津市公安局局长 ]
+  # --- 郭永祥 ---
+  - id: c07-people-2014-04-09-guo-yongxiang
+    title: 四川省文联原主席郭永祥严重违纪违法被“双开”
+    publisher: 人民网（中央纪委监察部网站消息）
+    date: 2014-04-09
+    voice: official
+    url: http://fanfu.people.com.cn/n/2014/0409/c64371-24859657.html
+    start: 中国共产党新闻网北京4月9日电
+    end: 移送司法机关依法处理。
+  - id: c07-jiemian-2015-10-13-guo-yongxiang
+    title: 周永康前秘书郭永祥受贿4346万 获刑20年表示不上诉
+    publisher: 界面新闻
+    date: 2015-10-13
+    voice: official
+    url: https://www.jiemian.com/article/403714.html
+    excerpt: true
+    keep: [ 决定执行有期徒刑二十年, 两个阶段时的秘书, 2013年6月，中央纪委监察部发布消息 ]
+  # --- 李崇禧 ---
+  - id: c07-chinanews-2014-09-11-li-chongxi
+    title: 四川省政协原主席李崇禧严重违纪违法被“双开”
+    publisher: 中国新闻网
+    date: 2014-09-11
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2014/09-11/6580882.shtml
+    excerpt: true
+    keep: [ 立案审查, 开除党籍、开除公职处分, 李崇禧简历, "——" ]
+  - id: c07-people-2015-11-03-li-chongxi
+    title: 四川省政协原主席李崇禧一审被判处有期徒刑十二年
+    publisher: 人民网（新华网）
+    date: 2015-11-03
+    voice: official
+    url: http://politics.people.com.cn/n/2015/1103/c70731-27771218.html
+    start: 新华网北京11月3日电
+    end: 共计60余人参加旁听。
+  # --- 徐麟 ---
+  - id: c07-chinanews-2023-01-17-xu-lin
+    title: 徐麟当选贵州省人大常委会主任 李炳军当选贵州省省长
+    publisher: 中国新闻网
+    date: 2023-01-17
+    voice: official
+    url: https://www.gz.chinanews.com.cn/jjgz/zwrs/2023-01-17/doc-ihciwuet3157440.shtml
+    excerpt: true
+    keep: [ 选举徐麟为省人大常委会主任, 曾任上海市农工商集团董事长 ]
+  - id: c07-chinanews-2026-09-23-xu-lin
+    title: 徐麟主持召开市（州）党委书记座谈会
+    publisher: 中国新闻网（贵州日报）
+    date: 2026-09-23
+    voice: official
+    url: https://www.gz.chinanews.com.cn/jjgz/zwrs/2026-09-23/doc-ihfkniys1545986.shtml
+    excerpt: true
+    keep: [ 省委书记徐麟主持召开 ]
+  # --- 杜家毫 ---
+  - id: c07-people-2018-01-29-du-jiahao
+    title: 杜家毫同志简历
+    publisher: 人民网
+    date: 2018-01-29
+    voice: official
+    url: http://renshi.people.com.cn/n1/2018/0129/c139617-29793283.html
+    excerpt: true
+    keep: [ 上海市松江县委书记, 上海市杨浦区委书记, 浦东新区区委书记, 黑龙江省委常委, 黑龙江省委副书记、政法委书记, 湖南省委副书记，省人民政府省长, 湖南省委书记 ]
+  - id: c07-people-2026-08-31-du-jiahao
+    title: 为加快建设农业强国推进农业农村现代化夯实法治根基（杜家毫）
+    publisher: 人民日报
+    date: 2026-08-31
+    voice: official
+    url: http://politics.people.com.cn/n1/2026/0831/c1001-40789033.html
+    excerpt: true
+    keep: [ 作者为全国人大农业与农村委员会主任委员 ]
+  # --- 陈豪 ---
+  - id: c07-ce-2020-11-25-chen-hao
+    title: 陈豪辞去云南省人大常委会主任职务
+    publisher: 中国经济网（经济日报）
+    date: 2020-11-25
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202011/25/t20201125_36048919.shtml
+    excerpt: true
+    keep: [ 决定接受陈豪同志辞去, 上海市委副秘书长, 上海市人大常委会副主任, 中华全国总工会, 云南省委副书记, 云南省委书记, 第十九届中央委员 ]
+  - id: c07-wiki-chen-hao
+    title: 陈豪（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/陈豪_(1954年)
+    excerpt: true
+    keep: [ 民族委员会副主任委员 ]
+  # --- 陆昊 ---
+  - id: c07-thepaper-2022-06-23-lu-hao
+    title: 陆昊任国务院发展研究中心党组书记
+    publisher: 澎湃新闻
+    date: 2022-06-23
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_18706039
+    excerpt: true
+    keep: [ 宣布中央决定, 此前，陆昊担任自然资源部部长, 北京大学学生会主席, 北京制呢厂, 中关村科技园区, 北京市副市长, 共青团中央书记处第一书记, 黑龙江省委副书记, 自然资源部部长、党组书记 ]
+  - id: c07-drc-2026-03-25-lu-hao
+    title: 陆昊与出席中国发展高层论坛2026年年会的部分外方代表进行交流
+    publisher: 国务院发展研究中心
+    date: 2026-03-25
+    voice: official
+    url: https://www.drc.gov.cn/DocView.aspx?chnid=382&docid=2909751&leafid=1346
+    excerpt: true
+    keep: [ 近日，国务院发展研究中心主任 ]
+  # --- 娄勤俭 ---
+  - id: c07-cctv-2018-03-23-lou-qinjian
+    title: 人物简历：娄勤俭
+    publisher: 央视网
+    date: 2018-03-23
+    voice: official
+    url: http://news.cctv.com/2018/03/23/ARTI2fI0G96TvQDkGjhrR0LJ180323.shtml
+    excerpt: true
+    keep: [ 第十五研究所所长, 信息产业部副部长, 工业和信息化部副部长, 陕西省委常委, 陕西省委副书记, 陕西省委书记, 江苏省委书记 ]
+  - id: c07-thepaper-2024-03-04-lou-qinjian
+    title: 十四届全国人大二次会议新任发言人娄勤俭首次亮相
+    publisher: 澎湃新闻
+    date: 2024-03-04
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_26545611
+    excerpt: true
+    keep: [ 娄勤俭现任全国人大外事委员会主任委员, 2021年10月, 2023年3月，任第十四届 ]
+  # --- 李子奇 ---
+  - id: c07-people-2014-01-23-li-ziqi
+    title: 李子奇同志逝世
+    publisher: 人民网（新华社）
+    date: 2014-01-23
+    voice: official
+    url: https://cpc.people.com.cn/n/2014/0123/c87393-24210547.html
+    excerpt: true
+    keep: [ 于2014年1月11日在上海逝世, 1923年9月出生, 第十二届、十三届中央委员 ]
+  - id: c07-wiki-li-ziqi
+    title: 李子奇（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/李子奇_(1923年)
+    excerpt: true
+    keep: [ 甘肃省委书记 ]
+  # --- 张福海 ---
+  - id: c07-people-2020-07-18-zhang-fuhai
+    title: 张福海任广东省委秘书长（图/简历）
+    publisher: 人民网
+    date: 2020-07-18
+    voice: official
+    url: http://renshi.people.com.cn/n1/2020/0718/c139617-31788460.html
+    excerpt: true
+    keep: [ 出生于辽宁庄河, 中国人民大学中文系讲师, 人民文学出版社, 新闻出版总署, 中央宣传部国际联络局局长, 中国外文局局长, 辽宁省委常委, 广东省委常委 ]
+  - id: c07-cyol-2023-02-01-zhang-fuhai
+    title: 张福海任中央纪委国家监委新闻发言人
+    publisher: 中国青年网（澎湃新闻）
+    date: 2023-02-01
+    voice: official
+    url: https://s.cyol.com/articles/2023-02/01/content_o6gg66tX.html
+    excerpt: true
+    keep: [ 2021年11月任广东省委组织部部长, 后又担任了国家监察委员会副主任 ]
+  - id: c07-xinhua-2026-06-16-party-building
+    title: 全国党建工作座谈会发言摘编
+    publisher: 新华网（人民日报）
+    date: 2026-06-16
+    voice: official
+    url: https://www.xinhuanet.com/20260616/533a6d8287c745edbb588435dd57f916/c.html
+    excerpt: true
+    keep: [ 张福海 ]
+  # --- 庹震 ---
+  - id: c07-caixin-2024-09-27-tuo-zhen
+    title: 人事观察｜于绍良出任人民日报社长 曾在新华社30年
+    publisher: 财新网
+    date: 2024-09-27
+    voice: zh
+    url: https://china.caixin.com/2024-09-27/102241024.html
+    excerpt: true
+    keep: [ 不再担任人民日报社社长, 庹震曾任职经济日报社多年 ]
+  - id: c07-wiki-tuo-zhen
+    title: 庹震（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/庹震
+    excerpt: true
+    keep: [ 经济日报 ]
+  # --- 朱海仑 ---
+  - id: c07-ce-2021-02-06-zhu-hailun
+    title: 朱海仑、王永明等5人辞任新疆维吾尔自治区人大常委会副主任
+    publisher: 中国经济网（新疆日报）
+    date: 2021-02-06
+    voice: official
+    url: https://web.archive.org/web/20210213191829/http://district.ce.cn/newarea/sddy/202102/06/t20210206_36297454.shtml
+    excerpt: true
+    keep: [ 关于接受朱海仑, 喀什市委书记, 和田地委书记, 政法委书记, 乌鲁木齐市委书记, 自治区人大常委会党组副书记 ]
+  # --- 郑必坚 ---
+  - id: c07-ciids-zheng-bijian
+    title: 郑必坚（国家创新与发展战略研究会会长简介）
+    publisher: 国家创新与发展战略研究会
+    date: 2016-04-19
+    voice: official
+    url: https://ciids.cn/content/2016-04/19/content_17423376.htm
+    start: 1932年生
+    end: 中国科学院国家创新与发展战略研究会会长等。
+  - id: c07-fudan-2025-12-04-zheng-bijian
+    title: 郑必坚：“读懂中国”的新课题（大会演讲）
+    publisher: 复旦大学一带一路及全球治理研究院（中国国创会）
+    date: 2025-12-04
+    voice: official
+    url: https://brgg.fudan.edu.cn/articleinfo_2788_9.html/webeditor/uploadfile/file/articleinfo_5973.html
+    excerpt: true
+    keep: [ 我们今年这个大会 ]
+  # --- 黄奇帆 ---
+  - id: c07-bbc-2026-10-13-huang-qifan
+    title: 中共中央纪委：薄熙来前搭档黄奇帆接受调查
+    publisher: BBC 中文
+    date: 2026-10-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/simp
+    excerpt: true
+    keep: [ 由朱镕基提名, 如鱼得水, 2018年卸任, 不倒翁, 2001年起于重庆任职 ]
+  - id: c07-zaobao-2026-10-14-huang-qifan
+    title: 政坛“不倒翁”重庆原市长黄奇帆被查 曾与薄熙来孙政才搭班
+    publisher: 联合早报
+    date: 2026-10-14
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20261014-9831643
+    excerpt: true
+    keep: [ 早年在上海任职, 先后搭班六任, 平安落地, 寇健文 ]
+  - id: c07-ifeng-2026-10-13-huang-qifan
+    title: 重庆原市长黄奇帆被查，已退休10年，1个月前曾公开露面
+    publisher: 凤凰网
+    date: 2026-10-13
+    voice: zh
+    url: https://news.ifeng.com/c/8xC8awTxtCW
+    excerpt: true
+    keep: [ 在上海工作了33年, 开始代理市长, 国家创新与发展战略研究会常务副主席 ]
+  - id: c07-ltn-2026-10-13-huang-qifan
+    title: 「上海幫」黃奇帆演講突喊卡！中共五中全會前爆遭「秋後算帳」
+    publisher: 自由时报
+    date: 2026-10-13
+    voice: zh
+    url: https://news.ltn.com.tw/news/world/breakingnews/5604530
+    excerpt: true
+    keep: [ 上海幫 ]
+  # --- 陈云林 ---
+  - id: c07-wiki-chen-yunlin
+    title: 陈云林（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/陈云林
+    excerpt: true
+    keep: [ 中共中央台湾工作办公室主任 ]
+  - id: c07-gwytb-2013-04-26-chen-yunlin
+    title: 陈云林顾问在海协会第三届理事会第一次会议暨纪念“汪辜会谈”20周年活动上发表讲话
+    publisher: 国务院台湾事务办公室
+    date: 2013-04-26
+    voice: official
+    url: https://www.gwytb.gov.cn/wyly/201305/t20130503_4161166.htm
+    excerpt: true
+    keep: [ 海协会顾问陈云林在会上发表讲话, 在行将告别公职之际 ]

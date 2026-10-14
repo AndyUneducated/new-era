@@ -1,0 +1,245 @@
+# C08: dossier cards for PLA generals and fallen officials (round 2)
+web:
+  # 王厚斌
+  - id: c08-rti-2023-08-01-wang-houbin
+    title: 王厚斌是誰？火箭軍司令員首由海軍出任
+    publisher: 中央廣播電臺
+    date: 2023-08-01
+    voice: zh
+    url: https://archive.news.rti.org.tw/news/view/id/2175343
+    excerpt: true
+    keep: [ 東海艦隊副參謀長, 首位非火箭軍內升的司令員 ]
+  # 徐忠波
+  - id: c08-gov-2020-07-29-xu-zhongbo-general
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 新华社（中国政府网）
+    date: 2020-07-29
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-07/29/content_5531001.htm
+    start: 新华社北京7月29日电
+    end: 驻京大单位领导等参加晋衔仪式。
+  - id: c08-zaobao-2024-03-06-xu-zhongbo
+    title: 火箭军原政委徐忠波亮相解放军代表团成立会
+    publisher: 联合早报
+    date: 2024-03-06
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20240306-1472400
+    excerpt: true
+    keep: [ 此前被免职的火箭军原政委徐忠波亮相上述成立会, 这两名上将都是中共中央委员, 只是为腐败案负领导责任, 西部 ]
+  # 张振中
+  - id: c08-thepaper-2016-08-zhang-zhenzhong
+    title: 火箭军人事大调整：张振中任副司令员，李传广任参谋长（Wayback）
+    publisher: 澎湃新闻
+    date: 2016-08
+    voice: official
+    url: https://web.archive.org/web/20190520151031/http://www.thepaper.cn/newsDetail_forward_1509552
+    excerpt: true
+    keep: [ 已经升任火箭军副司令员, 西昌卫星发射中心司令员 ]
+  - id: c08-caixin-2022-06-13-zhang-zhenzhong
+    title: 人事观察｜候补中委张振中任军委联合参谋部副参谋长
+    publisher: 财新网
+    date: 2022-06-13
+    voice: zh
+    url: https://china.caixin.com/2022-06-13/101898188.html
+    excerpt: true
+    keep: [ 首次以新身份亮相, 西昌卫星发射中心司令员 ]
+  # 王刚（空军）
+  - id: c08-xinhua-2026-07-03-generals
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 新华网
+    date: 2026-07-03
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/20260703/e7a831d5766e4c9e89ca8b4c599e0625/c.html
+    start: 新华社北京7月3日电
+    end: 主要负责同志等参加晋衔仪式。
+  - id: c08-zaobao-2026-07-01-generals-seated
+    title: 两中将出席党庆与上将并排而坐 显示解放军高层人事升迁
+    publisher: 联合早报
+    date: 2026-07-01
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260701-9297537
+    excerpt: true
+    keep: [ 特技飞行员出身, 空中梯队指挥官, 王刚则可能接替 ]
+  # 王永春
+  - id: c08-ccdi-2013-08-26-wang-yongchun-probe
+    title: 中石油大庆油田公司总经理王永春涉嫌严重违纪正接受调查
+    publisher: 中央纪委监察部网站
+    date: 2013-08-26
+    voice: official
+    url: https://web.archive.org/web/20160417224045id_/http://www.ccdi.gov.cn/jlsc/201308/t20130826_41705.html
+    start: 中国石油天然气集团公司副总经理兼大庆油田
+    end: 目前正接受组织调查。
+  - id: c08-people-2015-10-14-wang-yongchun-verdict
+    title: 中石油集团原副总经理王永春一审被判处有期徒刑二十年
+    publisher: 人民网
+    date: 2015-10-14
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/1014/c64371-27696004.html
+    start: 13日上午，襄阳市中级人民法院
+    end: 遂依法作出上述判决。
+  - id: c08-caixin-2018-04-01-wang-yongchun-commuted
+    title: 中石油原副总王永春获减刑7个月 当年石油首虎
+    publisher: 财新网
+    date: 2018-04-01
+    voice: zh
+    url: https://china.caixin.com/m/2018-04-01/101229311.html
+    excerpt: true
+    keep: [ 被减刑七个月, 被选为候补中央委员 ]
+  # 莫建成
+  - id: c08-cnr-2017-08-27-mo-jiancheng-probe
+    title: 中央纪委驻财政部纪检组组长、财政部党组成员莫建成接受组织审查
+    publisher: 新华社（央广网）
+    date: 2017-08-27
+    voice: official
+    url: http://news.cnr.cn/native/gd/20170827/t20170827_523920485.shtml
+    start: 新华社北京8月27日电
+    end: （简历摘自财政部官方网站）
+  - id: c08-people-2017-09-23-mo-jiancheng-expel
+    title: 中央纪委驻财政部纪检组原组长、财政部原党组成员莫建成严重违纪被开除党籍和公职
+    publisher: 人民网
+    date: 2017-09-23
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0923/c1001-29554117.html
+    start: 人民网北京9月23日电
+    end: 待召开中央委员会全体会议时予以追认。
+  - id: c08-court-2019-01-23-mo-jiancheng-verdict
+    title: 中央纪委驻财政部纪检组原组长、财政部原党组成员莫建成一审被判处有期徒刑十四年
+    publisher: 新华社（最高人民法院网站）
+    date: 2019-01-23
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/140531.html
+    start: 1月23日上午，北京市第一中级人民法院
+    end: 旁听了公开宣判。
+  - id: c08-bjnews-2019-01-23-mo-jiancheng
+    title: 认罪悔罪、积极退赃，莫建成获刑14年
+    publisher: 新京报
+    date: 2019-01-23
+    voice: official
+    url: https://m.bjnews.com.cn/detail/154824342114112.html
+    excerpt: true
+    keep: [ 苏荣一起工作近3年, 一直担任江西省委组织部部长 ]
+  # 刘志军
+  - id: c08-cyol-2012-05-29-liu-zhijun-expel
+    title: 铁道部原部长刘志军严重违纪被开除党籍
+    publisher: 新华社（中国青年报转载）
+    date: 2012-05-28
+    voice: official
+    url: https://zqb.cyol.com/html/2012-05/29/nw.D110000zgqnb_20120529_3-01.htm
+    start: 新华社北京5月28日电
+    end: 将其涉嫌犯罪问题移送司法机关依法处理。
+  - id: c08-xinhua-2013-07-08-liu-zhijun-verdict
+    title: 原铁道部部长刘志军受贿、滥用职权案一审宣判（新华网，Wayback）
+    publisher: 新华网
+    date: 2013-07-08
+    voice: official
+    url: https://web.archive.org/web/20130712102714id_/http://news.xinhuanet.com/legal/2013-07/08/c_116442565.htm
+    start: 新华网北京７月８日电（记者杨维汉、陈菲）
+    end: 北京市第二中级人民法院遂依法作出上述判决。
+  # 文强
+  - id: c08-chinanews-2010-07-07-wen-qiang-executed
+    title: 经最高法院核准 原重庆司法局长文强被执行死刑
+    publisher: 中国新闻网
+    date: 2010-07-07
+    voice: official
+    url: http://www.chinanews.com.cn/gn/2010/07-07/2386591.shtml
+    start: 中新网重庆7月7日电
+    end: 并下达了执行死刑的命令。(完)
+  - id: c08-cyol-2010-04-15-wen-qiang-verdict
+    title: 审判长详释为何判处文强死刑
+    publisher: 中国青年报
+    date: 2010-04-15
+    voice: official
+    url: http://zqb.cyol.com/content/2010-04/15/content_3183861.htm
+    excerpt: true
+    keep: [ 重庆打黑除恶的标志性事件, 身居司法机关要职 ]
+  - id: c08-eeo-2010-04-14-wen-qiang-verdict
+    title: 重庆市司法局原局长文强一审被判死刑
+    publisher: 经济观察网
+    date: 2010-04-14
+    voice: official
+    url: http://www.eeo.com.cn/eobserve/Politics/by_region/2010/04/14/167515.shtml
+    excerpt: true
+    keep: [ 先后担任重庆市公安局党委委员, 周晓亚因犯受贿罪 ]
+  # 杨达才
+  - id: c08-cyol-2013-02-23-yang-dacai-expel
+    title: “表哥”杨达才被开除党籍
+    publisher: 新华社（中国青年报转载）
+    date: 2013-02-22
+    voice: official
+    url: https://zqb.cyol.com/html/2013-02/23/nw.D110000zgqnb_20130223_6-01.htm
+    start: 新华社西安2月22日电
+    end: 局长职务。
+  - id: c08-chinanews-2013-09-05-yang-dacai-verdict
+    title: 陕西“表哥”杨达才案一审宣判 被告获刑14年
+    publisher: 中国新闻网
+    date: 2013-09-05
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2013/09-05/5248641.shtml
+    start: 中新网西安9月5日电
+    end: 依法予以没收。(完)
+  - id: c08-jiemian-2018-06-yang-dacai-commuted
+    title: 61岁“表哥”杨达才在“未成年犯管教所”获减刑
+    publisher: 界面新闻
+    date: 2018-06
+    voice: official
+    url: https://www.jiemian.com/article/2269111.html
+    excerpt: true
+    keep: [ 余刑执行至2026年7月6日止, 刑期执行至2027年3月6日止 ]
+  # 王勇平
+  - id: c08-chinadaily-2011-08-17-wang-yongping
+    title: 王勇平不再任铁道部发言人 级别待遇没变
+    publisher: 中国日报网
+    date: 2011-08-17
+    voice: official
+    url: https://web.archive.org/web/2012id_/http://cnews.chinadaily.com.cn/2011-08/17/content_13128668.htm
+    excerpt: true
+    keep: [ 不再担任铁道部新闻发言人、政治部宣传部部长职务, 1955年生于湖南衡阳, 级别待遇没变 ]
+  - id: c08-bbc-2011-08-17-wang-yongping-poland
+    title: 前铁道部发言人王勇平将赴波兰任职
+    publisher: BBC 中文
+    date: 2011-08-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/08/110817_china_wangyongping
+    excerpt: true
+    keep: [ 波兰华沙任职, 言辞失当 ]
+  - id: c08-xinhua-2015-11-28-wang-yongping
+    title: 原铁道部发言人王勇平首披露“反正我信了”发布会内幕
+    publisher: 新京报（新华网转载）
+    date: 2015-11-28
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-11/28/c_1117288840.htm
+    excerpt: true
+    keep: [ 60岁的王勇平退休了, 远走波兰, 文联主席兼秘书长 ]
+  # 努尔·白克力
+  - id: c08-hebcdi-2018-09-21-nur-bekri-probe
+    title: 国家发展和改革委员会党组成员、副主任，国家能源局党组书记、局长努尔·白克力涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站（河北省纪委监委网站转载）
+    date: 2018-09-21
+    voice: official
+    url: http://www.hebcdi.gov.cn/2018-09/21/content_7039738.htm
+    start: 国家发展和改革委员会党组成员、副主任，国家能源局党组书记、局长努尔·白克力涉嫌严重违纪违法，目前正接受
+    end: （简历摘自国家发展和改革委员会官网）
+  - id: c08-hebcdi-2019-03-17-nur-bekri-expel
+    title: 国家发展和改革委员会原党组成员、副主任，国家能源局原党组书记、局长努尔·白克力严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站（河北省纪委监委网站转载）
+    date: 2019-03-17
+    voice: official
+    url: http://www.hebcdi.gov.cn/2019-03/17/content_7165199.htm
+    start: 日前，经中共中央批准
+    end: 所涉财物随案移送。
+  - id: c08-court-2019-12-02-nur-bekri-verdict
+    title: 国家发展和改革委员会原副主任、国家能源局原局长努尔·白克力受贿案一审宣判
+    publisher: 最高人民法院网站
+    date: 2019-12-02
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/204891.html
+    start: 2019年12月2日，辽宁省沈阳市中级人民法院
+    end: 法庭遂作出上述判决。
+  - id: c08-cna-2018-09-21-nur-bekri
+    title: 維吾爾族從政代表 中國國家能源局長被查
+    publisher: 中央社
+    date: 2018-09-21
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201809210063.aspx
+    excerpt: true
+    keep: [ 第17屆中央候補委員, 劉鐵男之後 ]

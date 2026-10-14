@@ -42,8 +42,7 @@ export function FactionPage({ id }: { id: string }) {
           </div>
           <h1 className="bigname">{f.name}</h1>
           <div className="pinyin">
-            {f.en}
-            {f.aka.length > 0 && ` · ${f.aka.join(' · ')}`}
+            {[f.en, ...f.aka.filter((a) => !f.en?.toLowerCase().includes(a.toLowerCase()))].filter(Boolean).join(' · ')}
           </div>
           <div className="headline">
             <span className="chip gold">{f.basis}</span> {(f.from || f.to) && <span className="muted small">{span(f.from, f.to)}</span>}

@@ -1,0 +1,115 @@
+# F03: sources for the six round-2 factions (content/factions/F03.yaml) and their member labels (content/tags/F03.yaml).
+web:
+  # --- conservatives: Li Peng and the Chen Yun line ---
+  - id: f03-dw-2019-07-23-li-peng
+    title: 李鹏：民望最低的中国总理
+    publisher: 德国之声中文网
+    date: 2019-07-23
+    voice: zh
+    url: https://www.dw.com/zh/%E6%9D%8E%E9%B9%8F%E6%B0%91%E6%9C%9B%E6%9C%80%E4%BD%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%80%BB%E7%90%86/a-49714827
+    excerpt: true
+    keep: [ 保守派代表人物, 政治之路却还算是相当顺遂 ]
+  - id: f03-latimes-1987-11-25-li-peng
+    title: China Names Li Peng, 59, as Its Acting Premier
+    publisher: Los Angeles Times
+    date: 1987-11-25
+    voice: west
+    lang: en
+    url: https://www.latimes.com/archives/la-xpm-1987-11-25-mn-16264-story.html
+    excerpt: true
+    keep: [ protege of Chen Yun, more orthodox elderly leaders ]
+  - id: f03-nytcn-2019-04-16-tiananmen-today
+    title: 由“六四”造就的今日中国
+    publisher: 纽约时报中文网
+    date: 2019-04-16
+    voice: zh
+    url: https://web.archive.org/web/20191028064605/https://cn.nytimes.com/opinion/20190416/tiananmen-square-red-empire-china-today/
+    excerpt: true
+    keep: [ 三种政治力量的博弈, 更保守的陈派联手 ]
+  # --- sun-lijun-gang ---
+  - id: f03-xinhua-2022-01-15-zero-tolerance
+    title: 电视专题片《零容忍》第一集《不负十四亿》
+    publisher: 新华网（中央纪委国家监委、中央广播电视总台）
+    date: 2022-01-15
+    voice: official
+    url: https://www.news.cn/legal/2022-01/15/c_1128266562.htm
+    excerpt: true
+    keep: [ 孙力军政治团伙案就是这方面的典型, 紧随孙力军之后, 经营充实, 搞团团伙伙、拉帮结派 ]
+  - id: f03-dw-2022-01-18-deng-yuwen
+    title: 客座评论：孙力军们的“政治团伙”令习如芒在背
+    publisher: 德国之声中文网
+    author: 邓聿文
+    date: 2022-01-18
+    voice: zh
+    url: https://web.archive.org/web/20240426130152/https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E5%AD%99%E5%8A%9B%E5%86%9B%E4%BB%AC%E7%9A%84%E6%94%BF%E6%B2%BB%E5%9B%A2%E4%BC%99%E4%BB%A4%E4%B9%A0%E5%A6%82%E8%8A%92%E5%9C%A8%E8%83%8C/a-60462940
+    excerpt: true
+    keep: [ 孙的政治伙伴包括, 前述涉案的这四个, 政治团伙案 ]
+  - id: f03-dw-2022-07-15-fu-zhenghua
+    title: 涉“孙力军政治团伙” 傅政华被公诉
+    publisher: 德国之声中文网
+    date: 2022-07-15
+    voice: zh
+    url: https://www.dw.com/zh/%E6%B6%89%E5%AD%99%E5%8A%9B%E5%86%9B%E6%94%BF%E6%B2%BB%E5%9B%A2%E4%BC%99-%E5%82%85%E6%94%BF%E5%8D%8E%E8%A2%AB%E5%85%AC%E8%AF%89/a-62431609
+    excerpt: true
+    keep: [ 孙力军政治团伙 ]
+  - id: f03-bbc-2022-09-27-fu-sun
+    title: 二十大前夕 公安高官傅政华孙力军被判终身监禁意味着什么
+    publisher: BBC 中文
+    date: 2022-09-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63043715
+    excerpt: true
+    keep: [ 判决明确两人必须终身监禁, 政治团伙, 滕彪认为, 陈道银 ]
+  - id: f03-cna-2022-09-23-sun-lijun
+    title: 孙力军被判死缓不得减刑 5名前公安高官同获重刑
+    publisher: 中央社
+    date: 2022-09-23
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202209230121.aspx
+    excerpt: true
+    keep: [ 政治團伙 ]
+  # --- dongbei-army ---
+  - id: f03-jamestown-2015-01-nanjing-alumni
+    title: Xi Jinping Consolidates Power by Promoting Alumni of the Nanjing Military Region
+    publisher: Jamestown Foundation China Brief
+    date: 2015-01
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/xi-jinping-consolidates-power-by-promoting-alumni-of-the-nanjing-military-region/
+    excerpt: true
+    keep: [ power base of General Xu, Nanjing MR Faction ]
+  - id: f03-scmp-2014-10-01-xu-associates
+    title: Associates of disgraced PLA general Xu Caihou may have been purged for 'disloyalty'
+    publisher: South China Morning Post
+    date: 2014-10-01
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/article/1604937/associates-disgraced-pla-general-xu-caihou-may-have-been-purged
+    excerpt: true
+    keep: [ power bases of Xu Caihou ]
+  # --- disputes logged by F02: Zhou Jiangyong and the Zhijiang label ---
+  - id: f03-chinatimes-2021-08-22-zhou-jiangyong
+    title: 政壇明日之星躲不過反貪腐大棒 之江新軍周江勇落馬官場震撼
+    publisher: 中时新闻网
+    date: 2021-08-22
+    voice: zh
+    url: https://www.chinatimes.com/realtimenews/20210822003342-260409
+    excerpt: true
+    keep: [ 仕途被看好的「之江新軍」, 曾於習近平在浙江主政期間提拔的幹部 ]
+  - id: f03-zaobao-2021-08-23-zhou-jiangyong
+    title: 杭州市委书记周江勇无预兆落马 分析：高层释放“反腐无禁区”信号
+    publisher: 联合早报
+    date: 2021-08-23
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20210823-1185358
+    excerpt: true
+    keep: [ 之江新军”直系成员, 官员的背景和派系也不能成为护身符 ]
+  # --- southwest-army ---
+  - id: f03-xinhua-2017-04-28-18-armies
+    title: 别了！18个集团军
+    publisher: 新华社解放军分社
+    date: 2017-04-28
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-04/28/c_1120887341.htm
+    excerpt: true
+    keep: [ 第14集团军的前身, 第31集团军，1985年 ]

@@ -1,0 +1,355 @@
+# C06 dossier cards: rights lawyers, families, civil society, Hong Kong and Taiwan figures (round 2).
+web:
+  # --- 709 lawyers ---
+  - id: c06-dw-2016-08-02-wang-yu
+    title: 维权律师王宇获释 受访“狠批”周世锋
+    publisher: 德国之声
+    date: 2016-08-02
+    voice: zh
+    url: https://www.dw.com/zh/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%8E%8B%E5%AE%87%E8%8E%B7%E9%87%8A-%E5%8F%97%E8%AE%BF%E7%8B%A0%E6%89%B9%E5%91%A8%E4%B8%96%E9%94%8B/a-19442231
+    excerpt: true
+    keep: [ 王宇 ]
+  - id: c06-bbc-2021-03-09-wang-yu-award
+    title: “中国最勇敢的女律师”王宇获颁美国国际妇女勇气奖
+    publisher: BBC 中文
+    date: 2021-03-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-56327673
+    excerpt: true
+    keep: [ 王宇 ]
+  - id: c06-voa-2024-11-02-wang-yu
+    title: 绝食九日，用命维护尊严的人权律师王宇获释
+    publisher: 美国之音
+    date: 2024-11-02
+    voice: zh
+    url: https://www.voachinese.com/a/7848218.html
+    excerpt: true
+    keep: [ 王宇 ]
+  - id: c06-bbc-2016-08-04-zhou-shifeng
+    title: 中国维权律师抓捕：锋锐律师周世锋判囚七年
+    publisher: BBC 中文
+    date: 2016-08-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/08/160804_china_activist_lawyers
+    excerpt: true
+    keep: [ 周世锋 ]
+  - id: c06-rfa-2022-09-25-zhou-shifeng
+    title: 709案：原北京锋锐律师事务所主任周世峰刑满出狱
+    publisher: 自由亚洲电台
+    date: 2022-09-25
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/3-09252022104301.html
+    excerpt: true
+    keep: [ 周世锋, 锋锐律师事务所 ]
+  # --- Causeway Bay Books ---
+  - id: c06-bbc-2026-07-02-lam-wing-kee
+    title: 原香港铜锣湾书店店长林荣基病逝台北，终年70岁
+    publisher: BBC 中文
+    date: 2026-07-02
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c99254nl28po/simp
+    excerpt: true
+    keep: [ 林荣基 ]
+  - id: c06-bbc-2020-02-25-gui-minhai
+    title: 铜锣湾书店事件：桂敏海因“非法提供情报罪”被判10年
+    publisher: BBC 中文
+    date: 2020-02-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-51624603
+    excerpt: true
+    keep: [ 桂敏海, 桂民海 ]
+  - id: c06-rfi-2026-07-05-gui-minhai
+    title: 王毅访瑞典：10年前被中国绑架监禁的出版商桂民海仍活着且身体健康
+    publisher: 法广
+    date: 2026-07-05
+    voice: zh
+    url: https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260705-%E7%8E%8B%E6%AF%85%E8%AE%BF%E7%91%9E%E5%85%B8-10%E5%B9%B4%E5%89%8D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BB%91%E6%9E%B6%E7%9B%91%E7%A6%81%E7%9A%84%E5%87%BA%E7%89%88%E5%95%86%E6%A1%82%E6%95%8F%E6%B5%B7%E4%BB%8D%E6%B4%BB%E7%9D%80%E4%B8%94%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7
+    excerpt: true
+    keep: [ 桂民海 ]
+  # --- Yanhuang Chunqiu, SARS, Sichuan earthquake ---
+  - id: c06-rfi-2016-07-16-du-daozheng
+    title: 杜导正：官接管《炎黄》如文革 宁结束拒改风格
+    publisher: 法广
+    date: 2016-07-16
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20160716-%E6%9D%9C%E5%AF%BC%E6%AD%A3%EF%BC%9A%E5%AE%98%E6%8E%A5%E7%AE%A1%E3%80%8A%E7%82%8E%E9%BB%84%E3%80%8B%E5%A6%82%E6%96%87%E9%9D%A9-%E5%AE%81%E7%BB%93%E6%9D%9F%E6%8B%92%E6%94%B9%E9%A3%8E%E6%A0%BC
+    excerpt: true
+    keep: [ 杜导正 ]
+  - id: c06-voa-2019-01-19-du-daozheng
+    title: 《炎黄春秋》前社长杜导正：“老老实实照着邓胡赵的路子走”
+    publisher: 美国之音
+    date: 2019-01-19
+    voice: zh
+    url: https://www.voachinese.com/a/china-zhao-ziyang-anniversary-du-daozheng-20190119/4750074.html
+    excerpt: true
+    keep: [ 杜导正 ]
+  - id: c06-bbc-2016-08-17-du-daozheng
+    title: 'China censorship: How a moderate magazine was targeted'
+    publisher: BBC
+    date: 2016-08-17
+    voice: west
+    lang: en
+    url: https://www.bbc.com/news/world-asia-37097832
+    excerpt: true
+    keep: [ Du ]
+  - id: c06-cna-2023-03-14-jiang-yanyong
+    title: SARS吹哨人蒋彦永15日出殡 家属被令不公祭不收花圈不受访
+    publisher: 中央社
+    date: 2023-03-14
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202303140358.aspx
+    excerpt: true
+    keep: [ 蔣彥永 ]
+  - id: c06-dw-2023-03-jiang-yanyong
+    title: 揭瞒报萨斯、呼吁平反六四的蒋彦永军医去世
+    publisher: 德国之声
+    date: 2023-03-13
+    voice: zh
+    url: https://www.dw.com/zh/%E6%8F%AD%E7%9E%92%E6%8A%A5%E8%90%A8%E6%96%AF%E5%91%BC%E5%90%81%E5%B9%B3%E5%8F%8D%E5%85%AD%E5%9B%9B%E7%9A%84%E8%92%8B%E5%BD%A6%E6%B0%B8%E5%86%9B%E5%8C%BB%E5%8E%BB%E4%B8%96/a-64980512
+    excerpt: true
+    keep: [ 蒋彦永, 蒋医生 ]
+  - id: c06-bbc-2014-03-27-tan-zuoren
+    title: 四川汶川地震维权人士谭作人刑满出狱
+    publisher: BBC 中文
+    date: 2014-03-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/03/140327_china_tan_zuoren_release
+    excerpt: true
+    keep: [ 谭作人 ]
+  - id: c06-voa-2014-03-27-tan-zuoren
+    title: 川震维权作家谭作人刑满出狱被送秘处监居
+    publisher: 美国之音
+    date: 2014-03-27
+    voice: zh
+    url: https://www.voachinese.com/a/activist-tan-zuoren-out-of-jail-20140327/1880200.html
+    excerpt: true
+    keep: [ 谭作人 ]
+  # --- families of detained lawyers ---
+  - id: c06-rfa-2025-01-14-xu-yan
+    title: 北京人权捍卫者许艳刑满获释
+    publisher: 自由亚洲电台
+    date: 2025-01-14
+    voice: zh
+    url: https://www.rfa.org/mandarin/xinwenkuaixun/2025/01/14/xu-yan-yu-wen-sheng-released/
+    excerpt: true
+    keep: [ 许艳 ]
+  - id: c06-rfi-2026-08-16-gao-zhisheng
+    title: 中国著名维权律师高智晟“被失踪”已满九年！
+    publisher: 法广
+    date: 2026-08-16
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260816-%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E9%AB%98%E6%99%BA%E6%99%9F-%E8%A2%AB%E5%A4%B1%E8%B8%AA-%E5%B7%B2%E6%BB%A1%E4%B9%9D%E5%B9%B4
+    excerpt: true
+    keep: [ 耿和, 2017年8月13日 ]
+  - id: c06-voa-2024-03-01-jiang-tianyong
+    title: 律师江天勇出狱五年仍不自由 被限制出境与家人天各一方
+    publisher: 美国之音
+    date: 2024-03-01
+    voice: zh
+    url: https://www.voachinese.com/a/jiang-tianyong-release-to-house-arrest-but-not-freedom-20240301/7510049.html
+    excerpt: true
+    keep: [ 金变玲 ]
+  - id: c06-nyt-2017-01-20-jin-bianling
+    title: 被监禁的人权律师江天勇妻子向默克尔求助
+    publisher: 纽约时报中文网
+    date: 2017-01-20
+    voice: zh
+    url: https://cn.nytimes.com/china/20170120/china-lawyer-jiang-tianyong-germany/
+    excerpt: true
+    keep: [ 金变玲 ]
+  - id: c06-rfa-2023-06-14-li-heping
+    title: 709案律师持续受打压 李和平一家三口成都遭边控
+    publisher: 自由亚洲电台
+    date: 2023-06-14
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-06142023111631.html
+    excerpt: true
+    keep: [ 王峭岭, 李和平 ]
+  # --- Hong Kong exile ---
+  - id: c06-bbc-2020-12-23-nathan-law
+    title: 罗冠聪在英国申请政治避难 他怎样评价北京对港政策？
+    publisher: BBC 中文
+    date: 2020-12-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-53498725
+    excerpt: true
+    keep: [ 罗冠聪 ]
+  - id: c06-dw-2021-04-08-nathan-law
+    title: 罗冠聪获英政治庇护 伦敦宣布高额助港人计划
+    publisher: 德国之声
+    date: 2021-04-08
+    voice: zh
+    url: https://www.dw.com/zh/%E7%BD%97%E5%86%A0%E8%81%AA%E8%8E%B7%E8%8B%B1%E6%94%BF%E6%B2%BB%E5%BA%87%E6%8A%A4-%E4%BC%A6%E6%95%A6%E5%AE%A3%E5%B8%83%E9%AB%98%E9%A2%9D%E5%8A%A9%E6%B8%AF%E4%BA%BA%E8%AE%A1%E5%88%92/a-57128025
+    excerpt: true
+    keep: [ 罗冠聪 ]
+  - id: c06-bbc-2023-07-04-hk-bounty
+    title: 香港警方悬红百万通缉八名社运人士，罗冠聪担忧安全受威胁
+    publisher: BBC 中文
+    date: 2023-07-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66094657
+    excerpt: true
+    keep: [ 罗冠聪, 100万港元 ]
+  # --- Tiananmen Mothers, writers, scholars ---
+  - id: c06-rfa-2019-01-28-ding-zilin
+    title: “天安门母亲”发起人丁子霖 卧病正接受电疗
+    publisher: 自由亚洲电台
+    date: 2019-01-28
+    voice: zh
+    url: https://www.rfa.org/cantonese/news/Ding-01282019105232.html
+    excerpt: true
+    keep: [ 丁子霖 ]
+  - id: c06-rfi-2026-06-02-tiananmen-mothers
+    title: 专访尤维洁：当局提早部署“六四”维稳 张先玲住所外4月已有人值守
+    publisher: 法广
+    date: 2026-06-02
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260602-%E4%B8%93%E8%AE%BF%E5%B0%A4%E7%BB%B4%E6%B4%81-%E5%BD%93%E5%B1%80%E6%8F%90%E6%97%A9%E9%83%A8%E7%BD%B2-%E5%85%AD%E5%9B%9B-%E7%BB%B4%E7%A8%B3-%E5%BC%A0%E5%85%88%E7%8E%B2%E4%BD%8F%E6%89%80%E5%A4%964%E6%9C%88%E5%B7%B2%E6%9C%89%E4%BA%BA%E5%80%BC%E5%AE%88
+    excerpt: true
+    keep: [ 丁子霖 ]
+  - id: c06-rfa-2026-06-01-tiananmen-mothers
+    title: 六四37周年前夕 天安门母亲再促公布真相
+    publisher: 自由亚洲电台
+    date: 2026-06-01
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhengzhi/2026/06/01/china-june-4th-tiananmen-mothers-crackdown/
+    excerpt: true
+    keep: [ 丁子霖, 三项诉求 ]
+  - id: c06-rfa-2024-09-09-dai-qing
+    title: 戴晴重返公众视野(上)：谈“1989”和她的清迈岁月
+    publisher: 自由亚洲电台
+    date: 2024-09-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/move-to-the-peach-blossom-land/q1l-exclusive-interview-dai-qing-1989-09092024073215.html
+    excerpt: true
+    keep: [ 戴晴 ]
+  - id: c06-rfa-2026-10-02-dai-qing
+    title: 戴晴谈草地密电：以记者立场审视历史
+    publisher: 自由亚洲电台
+    date: 2026-10-02
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhengzhi/2026/10/02/ccp-dai-qing-mao-zedong-ye-jianying-secret-telegram-from-the-grasslands/
+    excerpt: true
+    keep: [ 戴晴 ]
+  - id: c06-voa-2009-03-04-xiao-han
+    title: 北京学者勇敢呼吁应重新处理六四
+    publisher: 美国之音
+    date: 2009-03-04
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2009-03-04-voa48-61257002/1018867.html
+    excerpt: true
+    keep: [ 萧瀚 ]
+  - id: c06-rfa-2010-01-01-xiao-han
+    title: 北京教授萧瀚遭政治停职
+    publisher: 自由亚洲电台
+    date: 2010-01-01
+    voice: zh
+    url: https://www.rfa.org/cantonese/news/china_professor-01012010093507.html
+    excerpt: true
+    keep: [ 蕭瀚 ]
+  # --- Wukan ---
+  - id: c06-bbc-2016-09-08-lin-zulian
+    title: 乌坎“民选村主任”林祖恋受贿被判囚三年零一个月
+    publisher: BBC 中文
+    date: 2016-09-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/09/160908_china_wukan_lin_trial
+    excerpt: true
+    keep: [ 林祖恋 ]
+  - id: c06-voa-2016-10-21-lin-zulian
+    title: 广东乌坎维权领袖林祖恋上诉遭驳回
+    publisher: 美国之音
+    date: 2016-10-21
+    voice: zh
+    url: https://www.voachinese.com/a/Guangdong-right-village-chief-lost-appeal-20161021/3560494.html
+    excerpt: true
+    keep: [ 林祖恋 ]
+  - id: c06-rfa-2019-08-05-lin-zulian
+    title: 乌坎村前村主任林祖恋刑满出狱
+    publisher: 自由亚洲电台
+    date: 2019-08-05
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/c-08052019155341.html
+    excerpt: true
+    keep: [ 林祖恋 ]
+  - id: c06-voa-2011-12-12-wukan
+    title: 广东陆丰警民对峙 被捕村民离奇死亡
+    publisher: 美国之音
+    date: 2011-12-12
+    voice: zh
+    url: https://www.voachinese.com/a/article-20111212-lufeng-protest-135437468/791701.html
+    excerpt: true
+    keep: [ 薛锦波 ]
+  - id: c06-xinhua-2011-12-14-xue-jinbo
+    title: 广东陆丰乌坎村被羁押期猝死者无外力致死迹象
+    publisher: 新华社（央视网转载）
+    date: 2011-12-14
+    voice: official
+    url: http://news.cntv.cn/china/20111214/122363.shtml
+    excerpt: true
+    keep: [ 薛锦波 ]
+  # --- Taiwan and Hong Kong ---
+  - id: c06-cna-2026-01-04-chen-shuibian
+    title: 陈水扁节目临时喊卡 矫正署：中监依法驳回申请
+    publisher: 中央社
+    date: 2026-01-04
+    voice: zh
+    url: https://www.cna.com.tw/news/aipl/202601040122.aspx
+    excerpt: true
+    keep: [ 陳水扁 ]
+  - id: c06-udn-2026-01-04-chen-shuibian
+    title: 陈水扁保外就医11年展延43次 屡踩“五不”红线都过关今却踢铁板
+    publisher: 联合新闻网
+    date: 2026-01-04
+    voice: zh
+    url: https://udn.com/news/story/6656/9243615
+    excerpt: true
+    keep: [ 陳水扁, 扁 ]
+  - id: c06-bbc-2020-07-30-lee-teng-hui
+    title: 李登辉去世：台湾“民主先生”曾因“主权论”引发两岸危机
+    publisher: BBC 中文
+    date: 2020-07-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-53577869
+    excerpt: true
+    keep: [ 李登辉, 两国论 ]
+  - id: c06-bbc-2012-02-16-henry-tang
+    title: 特首参选人唐英年就违章建筑致歉
+    publisher: BBC 中文
+    date: 2012-02-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/02/120216_tang_hk_building
+    excerpt: true
+    keep: [ 唐英年 ]
+  - id: c06-hkcd-2026-03-31-henry-tang
+    title: 唐英年呼吁香港抢抓国家“十五五”机遇
+    publisher: 香港商报
+    date: 2026-03-31
+    voice: official
+    url: https://hkcd.com/hkcdweb/content/2026/03/31/content_8747742.html
+    excerpt: true
+    keep: [ 唐英年 ]
+  - id: c06-hk01-2025-09-henry-tang
+    title: 01观点｜西九告别唐英年 更要翻开新时代
+    publisher: 香港01
+    date: 2025-09-23
+    voice: zh
+    url: https://www.hk01.com/01%E8%A7%80%E9%BB%9E/60280217/01%E8%A7%80%E9%BB%9E-%E8%A5%BF%E4%B9%9D%E5%91%8A%E5%88%A5%E5%94%90%E8%8B%B1%E5%B9%B4-%E6%9B%B4%E8%A6%81%E7%BF%BB%E9%96%8B%E6%96%B0%E6%99%82%E4%BB%A3
+    excerpt: true
+    keep: [ 唐英年 ]
+  - id: c06-cna-2025-10-18-cheng-li-wun-elected
+    title: 国民党主席选举 郑丽文得票率过半当选
+    publisher: 中央社
+    date: 2025-10-18
+    voice: zh
+    url: https://www.cna.com.tw/news/aipl/202510180204.aspx
+    excerpt: true
+    keep: [ 鄭麗文 ]
+  - id: c06-cna-2025-10-18-cheng-li-wun-profile
+    title: 郑丽文以战将形象突围 绿营出身当选国民党主席
+    publisher: 中央社
+    date: 2025-10-18
+    voice: zh
+    url: https://www.cna.com.tw/news/aipl/202510180186.aspx
+    excerpt: true
+    keep: [ 鄭麗文 ]

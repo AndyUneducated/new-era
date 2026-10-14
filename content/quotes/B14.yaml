@@ -1,0 +1,113 @@
+# B14: person id → quotes. Every text is checked verbatim against its cite.
+xi-zhongxun:
+  - text: 希望中央给点权，让广东能够充分利用自己的有利条件先走一步。
+    cite: b14-people-2017-12-27-xi-zhongxun-sez
+    kind: leaked
+    occasion: 中央工作会议期间代表广东省委向中央领导汇报（人民网党史频道转述）
+    star: true
+  - text: 北方的水土养育了我大半辈子，现在到了广东，要靠南方的水土养我下半辈子。
+    cite: c05-people-2013-10-12-xi-yuanping
+    kind: adlib
+    date: 1978-04
+    occasion: 赴广东主政上任时（习远平 2013 年在西安座谈会上转述）
+  - text: 这不正常！……你们开了这样的头，只会给将来党和国家的安定团结埋下祸根。
+    cite: b14-nytcn-2015-11-22-hu-yaobang
+    kind: leaked
+    date: 1987-01
+    occasion: 批判胡耀邦的党内会议上（纽约时报转述胡耀邦史料信息网文章）
+  - text: 从党的历史看，压制不同意见惹起的灾祸太大了。
+    cite: b14-nytcn-2016-10-25-hu-ping
+    kind: leaked
+    occasion: 任七届全国人大副委员长时提议制定“不同意见保护法”（胡平转述）
+
+zhao-ziyang:
+  - text: 我们来得太晚了
+    cite: b14-nytcn-2014-05-12-zhao-fall
+    kind: adlib
+    date: 1989-05-19
+    occasion: 凌晨到天安门广场劝绝食学生回校
+    star: true
+  - text: 看来我的历史使命已经完成。
+    cite: b14-nytcn-2014-05-12-zhao-fall
+    kind: leaked
+    date: 1989-05-17
+    occasion: 向其他政治局常委解释为何不能主持戒严干部大会（据其回忆录）
+  - text: 我本来出于好心，在维护他，保护他的形象……却不料引起极大的误会。
+    cite: b14-nytcn-2014-05-12-zhao-fall
+    kind: public
+    date: 2009
+    occasion: 回忆录中谈 1989 年 5 月 16 日对戈尔巴乔夫提及邓小平掌舵一事
+
+ren-zhengfei:
+  - text: 不去想困难，干就完了，一步一步往前走。
+    cite: b14-people-2025-06-10-ren-interview
+    kind: interview
+    date: 2025-06-10
+    occasion: 《人民日报》头版专访，被问到面对外部封锁时怎么想
+    star: true
+  - text: 它不可能扼杀掉我们……因为这世界离不开我们，因为我们比较先进。
+    cite: c04-bbc-2019-02-18-ren-zhengfei-interview
+    kind: interview
+    date: 2019-02-18
+    occasion: 孟晚舟被捕后首次接受国际媒体（BBC）专访
+  - text: 那西方不亮还有东方亮啊，黑了北方还有南方啊，对吧？
+    cite: c04-bbc-2019-02-18-ren-zhengfei-interview
+    kind: interview
+    date: 2019-02-18
+    occasion: BBC 专访中谈美国游说盟友禁用华为
+  - text: 大家要骂就骂美国政客，这件事不关美国企业什么事情
+    cite: b14-bbc-2019-05-21-ren-ban
+    kind: interview
+    date: 2019-05-21
+    occasion: 美国将华为列入实体清单后，在深圳接受五家中国媒体集体采访
+  - text: 我们单芯片还是落后美国一代，我们用数学补物理、非摩尔补摩尔，用群计算补单芯片，在结果上也能达到实用状况。
+    cite: b14-people-2025-06-10-ren-interview
+    kind: interview
+    date: 2025-06-10
+    occasion: 《人民日报》专访
+  - text: 我们允许人家骂。只要讲真话，即使是批评，我们也支持。
+    cite: b14-people-2025-06-10-ren-interview
+    kind: interview
+    date: 2025-06-10
+    occasion: 《人民日报》专访，谈外界对华为的批评
+
+guo-wengui:
+  - text: 我们要赶出马列主义，流氓的共产党，独裁的共产党。
+    cite: b14-bbc-2024-07-18-guo-machine
+    kind: public
+    date: 2020
+    occasion: 与班农一同现身的网络直播
+    star: true
+  - text: 我想尝试，实现法治。我想尝试实现民主和自由，这是我的终极目标……政权变化
+    cite: b14-bbc-2017-12-10-guo-bannon
+    kind: interview
+    date: 2017-12
+    occasion: 在纽约中央公园旁的公寓接受法新社专访
+  - text: 我们都鄙视中共，这是自然的……这就是我们成为合作伙伴的原因。
+    cite: b14-nytcn-2018-12-05-guo-bannon
+    kind: interview
+    date: 2018-11
+    occasion: 接受纽约时报采访，谈与班农的合作
+  - text: 他（班农）是我见过的最好的国际政治专家之一。班农先生还是位数不多的真正了解亚洲的西方人
+    cite: b14-bbc-2017-12-10-guo-bannon
+    kind: interview
+    date: 2017-12
+    occasion: 法新社专访
+
+xu-jiayin:
+  - text: 我和恒大的一切，都是党给的，国家给的，社会给的
+    cite: b14-nytcn-2023-10-09-xu-rise-fall
+    kind: public
+    date: 2018
+    occasion: 演讲
+    star: true
+  - text: 当时，我是非常渴望能够得到别人的帮助，非常渴望能够有一份工作，非常渴望能够走出农村、吃上白面
+    cite: b14-nytcn-2023-10-09-xu-rise-fall
+    kind: public
+    date: 2018
+    occasion: 演讲中回忆农村童年
+  - text: 公司在全力化解经营危机
+    cite: b14-zaobao-2022-03-09-xu-cppcc
+    kind: leaked
+    date: 2022-03
+    occasion: 向全国政协请假、全程不出席两会的理由（彭博社与香港媒体报道）

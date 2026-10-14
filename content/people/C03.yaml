@@ -27,9 +27,9 @@
     - { title: 国务院国资委主任、党委副书记, sys: gov, to: 2013-09, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
   factions:
     - f: zhou-clique
-      cite: c03-bbc-2014-06-30-four-expelled
-      quote: 另外三位被认为与周永康关系密切的高官也遭清算
-  cites: [wd-Q981617, c03-12371-2013-09-01-jiang-jiemin-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2015-10-12-jiang-jiemin-verdict, c03-bbc-2014-06-30-four-expelled]
+      cite: b03-bbc-2015-06-11-zhou-profile
+      quote: 周永康在四川、石油和政法系统的亲信人马纷纷因“严重违纪”而下台受调查……还有石油系统的高官蒋洁敏
+  cites: [wd-Q981617, c03-12371-2013-09-01-jiang-jiemin-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2015-10-12-jiang-jiemin-verdict, c03-bbc-2014-06-30-four-expelled, b03-bbc-2015-06-11-zhou-profile]
 
 - id: li-dongsheng
   name: 李东生
@@ -55,9 +55,9 @@
     - { title: 中央防范和处理邪教问题领导小组副组长、办公室主任, sys: party, to: 2013-12, cite: c03-mos-2013-12-20-li-dongsheng-probe }
   factions:
     - f: zhou-clique
-      cite: c03-bbc-2014-06-30-four-expelled
-      quote: 另外三位被认为与周永康关系密切的高官也遭清算
-  cites: [wd-Q15410384, c03-mos-2013-12-20-li-dongsheng-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2016-01-12-li-dongsheng-verdict, c03-bbc-2014-06-30-four-expelled]
+      cite: b03-bbc-2015-06-11-zhou-profile
+      quote: 周永康在四川、石油和政法系统的亲信人马纷纷因“严重违纪”而下台受调查……以及政法系统高官李东生
+  cites: [wd-Q15410384, c03-mos-2013-12-20-li-dongsheng-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2016-01-12-li-dongsheng-verdict, c03-bbc-2014-06-30-four-expelled, b03-bbc-2015-06-11-zhou-profile]
 
 - id: bai-enpei
   name: 白恩培
@@ -721,19 +721,20 @@
   statusNote: 2026 年 6 月被罢免全国人大代表职务；截至 2026 年 10 月未见开除党籍通报。
   fall:
     - { date: 2026-03-20, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-03-20-hu-henghua-probe }
+    - { date: 2026-05, text: 重庆市人大常委会决定接受其辞去重庆市人民政府市长职务, cite: v01-jfdaily-2026-05-28-hu-henghua }
     - { date: 2026-06-26, text: 被重庆市人大常委会罢免全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
   tier: 2
   headline: 重庆市原市长
   ids: { wikidata: Q8970937 }
   bio: >-
-    湖南衡南人，历任益阳市长、长沙市长、湖南省委常委，2020 年 10 月调任陕西省委副书记，2021 年 12 月任重庆市代市长，2022 年 1 月起任市长。2026 年 3 月 20 日被宣布接受审查调查，中新社称他四天前仍公开主持会议；6 月被重庆市人大常委会罢免全国人大代表职务。截至 2026 年 10 月未见开除党籍通报。
+    湖南衡南人，历任益阳市长、长沙市长、湖南省委常委，2020 年 10 月调任陕西省委副书记，2021 年 12 月任重庆市代市长，2022 年 1 月起任市长。2026 年 3 月 20 日被宣布接受审查调查，中新社称他四天前仍公开主持会议；5 月重庆市人大常委会接受他辞去市长职务，6 月又罢免其全国人大代表职务。截至 2026 年 10 月未见开除党籍通报。
   positions:
     - { title: 湖南省益阳市委副书记、市长, sys: gov, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
     - { title: 湖南省长沙市委副书记、市长, sys: gov, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
     - { title: 湖南省委常委、省国资委党委书记, sys: party, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
     - { title: 陕西省委副书记, sys: party, place: 陕西, from: 2020-10, to: 2021-12, cite: c03-chinanews-2026-03-20-hu-henghua }
     - { title: 重庆市委副书记、市长, sys: gov, place: 重庆, from: 2022-01, to: 2026-03, cite: c03-chinanews-2026-03-20-hu-henghua }
-  cites: [wd-Q8970937, c03-xinhua-2026-03-20-hu-henghua-probe, c03-chinanews-2026-03-20-hu-henghua, c03-xinhua-2026-06-26-npc-notice-18]
+  cites: [wd-Q8970937, c03-xinhua-2026-03-20-hu-henghua-probe, c03-chinanews-2026-03-20-hu-henghua, v01-jfdaily-2026-05-28-hu-henghua, c03-xinhua-2026-06-26-npc-notice-18]
 
 - id: wei-xiaodong
   name: 魏小东
@@ -742,21 +743,22 @@
   birthplace: 福建漳州
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 6 月被宣布接受审查调查；截至 2026 年 10 月未见开除党籍通报。
+  statusNote: 2026 年 6 月被宣布接受审查调查，随后被撤销全国政协委员资格；截至 2026 年 10 月未见开除党籍通报。
   fall:
     - { date: 2026-06-06, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-06-06-wei-xiaodong-probe }
+    - { date: 2026-06-22, text: 全国政协主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: v01-xinhua-2026-06-22-cppcc-chairs }
   tier: 2
   headline: 北京市政协原主席
   ids: { wikidata: Q16908322 }
   bio: >-
-    福建漳州人，长期在劳动人事部、中央编办任职，2010 年到河南，曾任鹤壁市长、市委书记和商丘市委书记，2016 年任中央编办副主任，翌年任北京市委常委、组织部部长，2022 年当选北京市政协主席。2026 年 6 月 6 日以北京市政协党组书记、主席身份被宣布接受审查调查。
+    福建漳州人，长期在劳动人事部、中央编办任职，2010 年到河南，曾任鹤壁市长、市委书记和商丘市委书记，2016 年任中央编办副主任，翌年任北京市委常委、组织部部长，2022 年当选北京市政协主席。2026 年 6 月 6 日以北京市政协党组书记、主席身份被宣布接受审查调查，6 月 22 日被撤销全国政协委员资格。截至 2026 年 10 月未见开除党籍通报。
   positions:
     - { title: 河南省鹤壁市长、市委书记, sys: party, place: 河南, cite: c03-zaobao-2026-06-23-wei-xiaodong }
     - { title: 河南省商丘市委书记, sys: party, place: 河南, cite: c03-zaobao-2026-06-23-wei-xiaodong }
     - { title: 中央机构编制委员会办公室副主任, sys: party, from: 2016, to: 2017, cite: c03-zaobao-2026-06-23-wei-xiaodong }
     - { title: 北京市委常委、组织部部长, sys: party, place: 北京, from: 2017, cite: c03-zaobao-2026-06-23-wei-xiaodong }
     - { title: 北京市政协党组书记、主席, sys: gov, place: 北京, from: 2022, to: 2026-06, cite: c03-zaobao-2026-06-23-wei-xiaodong }
-  cites: [wd-Q16908322, c03-xinhua-2026-06-06-wei-xiaodong-probe, c03-zaobao-2026-06-23-wei-xiaodong]
+  cites: [wd-Q16908322, c03-xinhua-2026-06-06-wei-xiaodong-probe, v01-xinhua-2026-06-22-cppcc-chairs, c03-zaobao-2026-06-23-wei-xiaodong]
 
 - id: xu-liuping
   name: 徐留平

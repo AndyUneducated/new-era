@@ -1,0 +1,305 @@
+# B14: full biographies — Xi Zhongxun, Zhao Ziyang, Ren Zhengfei, Guo Wengui, Xu Jiayin
+web:
+  # ---- xi-zhongxun
+  - id: b14-bbc-2013-10-17-xi-zhongxun-analysis
+    title: 分析：宣讲习仲勋经济改革的政治原因
+    publisher: BBC 中文
+    date: 2013-10-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/10/131017_china_xi_birthday_analysis
+    excerpt: true
+    keep: [ 诞辰一百周年, 郑永年, 刘锐绍, 胡耀邦, 七不讲 ]
+  - id: b14-nytcn-2015-11-22-hu-yaobang
+    title: 习近平高调纪念胡耀邦，避谈自由化及下台问题
+    publisher: 纽约时报中文网
+    date: 2015-11-22
+    voice: zh
+    url: https://cn.nytimes.com/china/20151122/c22huyaobang/
+    excerpt: true
+    keep: [ 习仲勋, 齐心, 这不正常 ]
+  - id: b14-voa-2016-04-06-xi-zhongxun-mausoleum
+    title: 习仲勋陵园扩建 造神运动越演越烈
+    publisher: 美国之音
+    date: 2016-04-06
+    voice: zh
+    url: https://www.voachinese.com/a/xi-zhongxun-20160406/3273268.html
+    excerpt: true
+    keep: [ 富平, 造神, 上有所好 ]
+  - id: b14-voa-2013-09-04-bao-tong-dissent-law
+    title: 鲍彤：缺乏不同意见可导致中国社会死亡
+    publisher: 美国之音
+    date: 2013-09-04
+    voice: zh
+    url: https://www.voachinese.com/a/baotong-20130904/1743038.html
+    excerpt: true
+    keep: [ 不同意见保护法 ]
+  - id: b14-nytcn-2016-10-25-hu-ping
+    title: 从毛时代到习时代，探源中国的自由主义
+    publisher: 纽约时报中文网
+    date: 2016-10-25
+    voice: zh
+    url: https://cn.nytimes.com/china/20161025/hu-ping-mao-xi-liberalism/
+    excerpt: true
+    keep: [ 不同意见保护法, 不准妄议 ]
+  - id: b14-people-2017-12-27-xi-zhongxun-sez
+    title: 习仲勋与我国经济特区的创建
+    publisher: 人民网（党史频道）
+    date: 2017-12-27
+    voice: official
+    url: http://dangshi.people.com.cn/n1/2017/1227/c85037-29731092.html
+    excerpt: true
+    keep: [ 两年零八个月, 杀出一条血路, 贸易合作区 ]
+  # ---- zhao-ziyang
+  - id: b14-bbc-2005-01-17-zhao-profile
+    title: 中共前总书记赵紫阳生平
+    publisher: BBC 中文
+    date: 2005-01-17
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4170000/newsid_4177500/4177517.stm
+    excerpt: true
+    keep: [ 赵紫阳 ]
+  - id: b14-bbc-2005-01-17-zhao-analysis
+    title: 分析：赵死后可能成更有力反对象征
+    publisher: BBC 中文
+    author: 卢阿德
+    date: 2005-01-17
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4180000/newsid_4181900/4181999.stm
+    excerpt: true
+    keep: [ 赵紫阳, 两句话, 低调 ]
+  - id: b14-nytcn-2014-05-12-zhao-fall
+    title: 天安门事件的核心一幕：赵紫阳的下台
+    publisher: 纽约时报中文网
+    date: 2014-05-12
+    voice: zh
+    url: https://web.archive.org/web/20191021030745/https://cn.nytimes.com/china/20140512/c12tiananmen/
+    excerpt: true
+    keep: [ 赵紫阳, 戒严, 来得太晚 ]
+  - id: b14-bbc-2019-10-18-zhao-burial
+    title: 赵紫阳低调安葬民间公墓，中国领导人“身后事”仍敏感
+    publisher: BBC 中文
+    date: 2019-10-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-50081946
+    excerpt: true
+    keep: [ 天寿园, 八宝山, 富强胡同, 吴伟, 赵二军 ]
+  - id: b14-voa-2019-10-18-zhao-burial
+    title: 赵紫阳骨灰安葬北京民间墓园
+    publisher: 美国之音
+    date: 2019-10-18
+    voice: zh
+    url: https://www.voachinese.com/a/zhao-zi-yang-cemetery-20191018/5129221.html
+    excerpt: true
+    keep: [ 天寿陵园, 王雁南, 罢黜软禁 ]
+  - id: b14-bbc-2009-05-14-zhao-memoir
+    title: 赵紫阳口述回忆录终见天日
+    publisher: BBC 中文
+    date: 2009-05-14
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8050000/newsid_8052000/8052071.stm
+    excerpt: true
+    keep: [ 赵紫阳, 录音, 鲍彤 ]
+  - id: b14-rfa-2008-09-12-zhao-sichuan
+    title: 炎黄春秋载文记述赵紫阳对农村经济发展的贡献
+    publisher: 自由亚洲电台
+    date: 2008-09-12
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhaoziyang-09122008103923.html
+    excerpt: true
+    keep: [ 四川, 要吃粮找紫阳 ]
+  # ---- ren-zhengfei
+  - id: b14-huawei-ren-zhengfei-bio
+    title: 任正非先生（华为管理层信息）
+    publisher: 华为
+    voice: witness
+    url: https://www.huawei.com/cn/executives/board-of-directors/ren-zhengfei
+    excerpt: true
+    keep: [ 出生于1944年 ]
+  - id: b14-bbc-2019-05-16-entity-list
+    title: 特朗普针对通讯业宣布紧急状态 华为称限制不会使美国强大
+    publisher: BBC 中文
+    date: 2019-05-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-48290413
+    excerpt: true
+    keep: [ 实体清单, 不会让美国更安全 ]
+  - id: b14-bbc-2019-05-21-ren-ban
+    title: 华为任正非最新回应美国禁令的四个重点
+    publisher: BBC 中文
+    date: 2019-05-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/business-48349731
+    excerpt: true
+    keep: [ 任正非, 美国政客 ]
+  - id: b14-voa-2019-04-20-who-owns-huawei
+    title: 华为的所有者到底是谁？
+    publisher: 美国之音
+    date: 2019-04-20
+    voice: zh
+    url: https://www.voachinese.com/a/huawei-employee-ownership-untrue-2019-04-20/4883747.html
+    excerpt: true
+    keep: [ 工会, 虚拟股, 员工持股 ]
+  - id: b14-bbc-2021-09-25-meng-release
+    title: 孟晚舟获释抵达中国 律师称“没认罪” 美议员批“屈服”
+    publisher: BBC 中文
+    date: 2021-09-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-58697586
+    excerpt: true
+    keep: [ 孟晚舟, 康明凯, 政治迫害 ]
+  - id: b14-people-2025-06-10-ren-interview
+    title: 国家越开放，会促使我们更加进步——对话任正非
+    publisher: 人民日报
+    date: 2025-06-10
+    voice: official
+    url: https://paper.people.com.cn/rmrb/pc/content/202506/10/content_30078133.html
+    excerpt: true
+    keep: [ 干就完了, 落后美国一代, 开放会促使我们更加进步, 我们允许人家骂 ]
+  - id: b14-zaobao-2025-06-10-ren-chips
+    title: 任正非称晶片问题“没必要担心” 分析：淡化美管制措施
+    publisher: 联合早报
+    date: 2025-06-10
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20250610-6661421
+    excerpt: true
+    keep: [ 任正非, 淡化 ]
+  - id: b14-gov-2025-02-17-private-symposium
+    title: 习近平在民营企业座谈会上强调：民营经济发展前景广阔大有可为
+    publisher: 新华社（中国政府网）
+    date: 2025-02-17
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202502/content_7004103.htm
+    excerpt: true
+    keep: [ 任正非, 不能变，也不会变 ]
+  - id: b14-icij-2026-09-18-huawei-trial
+    title: US prosecutors accuse Huawei of ‘far-reaching criminal scheme’ spanning decades
+    publisher: ICIJ
+    author: Jacob Silverman
+    date: 2026-09-18
+    voice: west
+    lang: en
+    url: https://www.icij.org/investigations/china-capital/us-prosecutors-accuse-huawei-of-far-reaching-criminal-scheme-spanning-decades/
+    excerpt: true
+    keep: [ criminal enterprise, 12 felony charges, Meng Wanzhou, Christmas ]
+  - id: b14-cnr-2026-09-23-ren-dongfeng
+    title: 冯长军赴深圳会晤任正非 奕境X9定于9月24日上市
+    publisher: 央广网
+    date: 2026-09-23
+    voice: official
+    url: https://auto.cnr.cn/hy/20260923/t20260923_527822739.shtml
+    excerpt: true
+    keep: [ 任正非 ]
+  # ---- guo-wengui
+  - id: b14-bbc-2017-04-21-guo-baoliao
+    title: 观察：郭文贵“爆料”风波的看点
+    publisher: BBC 中文
+    date: 2017-04-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-39671743
+    excerpt: true
+    keep: [ 郭文贵 ]
+  - id: b14-bbc-2018-12-27-ma-jian
+    title: 中国国安部原副部长马建三宗罪被判无期 与郭文贵关系密切
+    publisher: BBC 中文
+    date: 2018-12-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-46692207
+    excerpt: true
+    keep: [ 郭文贵, 马建 ]
+  - id: b14-bbc-2023-03-16-guo-charged
+    title: 中国流亡商人郭文贵在美国被控诈骗10亿美元，北京低调回应
+    publisher: BBC 中文
+    date: 2023-03-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-64985642
+    excerpt: true
+    keep: [ 郭文贵, 马建, 新中国联邦 ]
+  - id: b14-bbc-2024-07-18-guo-machine
+    title: 郭文贵欺诈罪成：这名中国富翁如何打造亲特朗普的赚钱机器
+    publisher: BBC 中文
+    date: 2024-07-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-69200693
+    excerpt: true
+    keep: [ 郭文贵, 班农, GTV, 双面间谍 ]
+  - id: b14-bbc-2017-12-10-guo-bannon
+    title: 郭文贵受访赞班农是“了解亚洲的西方人”
+    publisher: BBC 中文
+    date: 2017-12-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-42298317
+    excerpt: true
+    keep: [ 郭文贵, 班农, 政权 ]
+  - id: b14-nytcn-2018-12-05-guo-bannon
+    title: 郭文贵联手班农，调查中共腐败
+    publisher: 纽约时报中文网
+    date: 2018-12-05
+    voice: zh
+    url: https://cn.nytimes.com/usa/20181205/stephen-bannon-guo-wengui-china/
+    excerpt: true
+    keep: [ 郭文贵, 鄙视 ]
+  # ---- xu-jiayin
+  - id: b14-nytcn-2023-10-09-xu-rise-fall
+    title: 从赤贫到巨富再到涉罪被查：许家印的人生起落
+    publisher: 纽约时报中文网
+    date: 2023-10-09
+    voice: zh
+    url: https://cn.nytimes.com/business/20231009/china-evergrande-founder-hui-ka-yan/
+    excerpt: true
+    keep: [ 许家印, 恒大 ]
+  - id: b14-xinhua-2023-09-28-xu-detained
+    title: 中国恒大：许家印因涉嫌违法犯罪 已被依法采取强制措施
+    publisher: 新华网（央视新闻客户端）
+    date: 2023-09-28
+    voice: official
+    url: http://www.news.cn/legal/2023-09/28/c_1129892354.htm
+    excerpt: true
+    keep: [ 强制措施 ]
+  - id: b14-bbc-2023-09-29-xu-probe
+    title: 恒大危机：许家印涉罪被查 上百万套“烂尾楼”怎么办？
+    publisher: BBC 中文
+    date: 2023-09-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66960231
+    excerpt: true
+    keep: [ 许家印, 烂尾楼, 恒大财富, 2.4万亿 ]
+  - id: b14-xinhua-2024-05-31-evergrande-penalty
+    title: 证监会对恒大地产债券欺诈发行及信息披露违法案作出处罚决定
+    publisher: 新华网
+    date: 2024-05-31
+    voice: official
+    url: http://www.xinhuanet.com/20240531/cf63dc906eaf47ac8b7a8e8b394298db/c.html
+    excerpt: true
+    keep: [ 恒大地产, 顶格罚款 ]
+  - id: b14-bjd-2024-03-18-evergrande-fraud
+    title: 恒大地产两年财务造假5640亿元，证监会：手段特别恶劣
+    publisher: 京报网
+    date: 2024-03-18
+    voice: official
+    url: https://news.bjd.com.cn/2024/03/18/10724123.shtml
+    excerpt: true
+    keep: [ 5640亿, 虚增收入, 终身证券市场禁入 ]
+  - id: b14-zaobao-2022-03-09-xu-cppcc
+    title: 下午察：许家印缺席全国政协会议是政治性死亡？
+    publisher: 联合早报
+    date: 2022-03-09
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20220309-1250635
+    excerpt: true
+    keep: [ 许家印 ]
+  - id: b14-bbc-2023-03-xu-cppcc
+    title: 中国两会2023：那些淡出聚光灯下的富豪背影，以及新来者
+    publisher: BBC 中文
+    date: 2023-03-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-64846912
+    excerpt: true
+    keep: [ 许家印 ]
+  - id: b14-xinhua-2026-04-14-xu-trial
+    title: 恒大集团、恒大地产及许家印案一审开庭
+    publisher: 新华网（深圳市中级人民法院微信公众号）
+    date: 2026-04-14
+    voice: official
+    url: https://www.xinhuanet.com/legal/20260414/6dee06e149b74b4d8a4ae39baea2a856/c.html
+    excerpt: true
+    keep: [ 许家印 ]

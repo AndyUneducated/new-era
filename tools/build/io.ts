@@ -13,9 +13,12 @@ export const read = (...p: string[]) => parse(readFileSync(path(...p), 'utf8'))
 // (the ones still running in parallel) are skipped, so their half-written files do not get in the way.
 // Everything already integrated is read, so a batch can cite earlier sources, people and factions.
 export const BATCH = process.argv.find((a) => a.startsWith('--batch='))?.slice(8)
+// Manifests are the exception: they are always read, because a batch that corrects earlier files (V01)
+// cites its own new sources there; an unreadable manifest of another running batch is skipped.
 const inflight: string[] = BATCH && exists('research', 'round.yaml') ? ((read('research', 'round.yaml') ?? {}).inflight ?? []) : []
-const skipped = (p: string[], f: string) =>
-  (p[0] === 'content' || p[1] === 'manifests') && inflight.some((b) => b !== BATCH && f.startsWith(b))
+export const otherInflight = (f: string) => inflight.some((b) => b !== BATCH && f.startsWith(b))
+export const inflightSource = (id: string) => inflight.some((b) => b !== BATCH && id.startsWith(`${b.toLowerCase()}-`))
+const skipped = (p: string[], f: string) => p[0] === 'content' && otherInflight(f)
 export const yamlFiles = (...p: string[]) =>
   exists(...p)
     ? readdirSync(path(...p))

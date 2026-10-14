@@ -1,69 +1,237 @@
 # B11: full biographies. Each entry below starts as the dossier card written in round 1; expand it to tier 1.
 - id: yang-jiechi
   name: 杨洁篪
+  pinyin: Yáng Jiéchí
   gender: m
   ethnicity: 汉族
   born: 1950-05-01
   birthplace: 上海
+  education:
+    - { school: 英国伊林学院、巴斯大学、伦敦政治经济学院, from: 1973, to: 1975 }
+    - { school: 南京大学历史学系世界史专业（在职）, degree: 历史学博士, from: 2001, to: 2006 }
+  joinedWork: 1968-09
+  joinedParty: 1971-12
   roles: [pb, cc, minister]
   status: retired
   statusNote: 二十大后退出政治局，卸任中央外办主任，由王毅接任。
-  tier: 2
+  tier: 1
   headline: 中央外办主任（2013–2022）、政治局委员（2017–2022）、前外交部部长
   bio: >-
-    职业外交官，英语翻译出身，长期从事对美工作，2001–2005 年任驻美大使，2007–2013 年任外交部部长。
-    2013 年起任国务委员兼中央外办主任，统筹外事工作；十九大进入政治局，二十大后退休，由王毅接任外办主任。
+    上海工人出身的职业外交官。1970 年代初被选派赴英国学英语，回国后在外交部翻译室工作，给老布什一家当过翻译，得了“老虎杨”的外号。
+    此后三度常驻华盛顿，2000 年代初任驻美大使，2007–2013 年任外交部部长；2013 年起任国务委员兼中央外办主任，十九大进入政治局，是习近平前两个任期的外事总管。
+    2021 年阿拉斯加会谈上那句“中国人不吃这一套”在国内广为流传。2022 年二十大退休，外办主任一职由王毅接任。
   positions:
-    - { title: 驻美国大使, sys: gov, from: 2001, to: 2005, cite: wd-Q58211 }
+    - { title: 外交部副部长, sys: gov, from: 1998, to: 2000, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 驻美国大使, sys: gov, from: 2000, to: 2004, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 外交部部长, sys: gov, from: 2007-04, to: 2013-03, cite: wd-Q58211 }
     - { title: 国务委员, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
     - { title: 中央外事工作领导小组（委员会）办公室主任, sys: party, from: 2013, to: 2022, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+  life:
+    - h: 工人与留英
+      from: 1950
+      to: 1975
+      text: >-
+        1950 年生于上海，1968 年 9 月进上海浦江电表厂当工人，1971 年入党。1972 年进入外交部出国学习集训班，1973–1975 年先后在英国伊林学院、巴斯大学和伦敦政治经济学院学习。
+        央视网的文章说，1970 年代派往英国进修的第一批外交干部里有他和后来的夫人乐爱妹，还有王光亚、沙祖康、周文重等人；1975 年 6 月他从伦敦回国，进入外交部翻译室。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-cctv-2007-04-29-yang-tiger]
+    - h: 翻译室与“老虎杨”
+      from: 1975
+      to: 1990
+      text: >-
+        1975–1983 年在翻译室任科员，为邓小平等领导人做英语翻译。1977 年老布什一家获准访问西藏，他全程担任翻译，后来的美国驻华大使李洁明回忆“我们大家都喜欢他”；
+        老布什称他“老虎杨”，因为他生于虎年，名字里的“篪”字也藏着虎字。1983–1987 年第一次常驻华盛顿，任使馆二秘、一秘、参赞，1987–1990 年回翻译室任参赞兼处长。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-cctv-2007-04-29-yang-tiger, b11-jamestown-2018-yang-element]
+    - h: 对美专家
+      from: 1990
+      to: 2007
+      text: >-
+        1990 年起在美大司任参赞兼处长、副司长，1993–1995 年任驻美使馆公使，1995 年任部长助理并一度兼美大司司长，1998 年升副部长。
+        官方简历记他 2000–2004 年任驻美国大使，詹姆斯敦基金会的文章则记为 2001–2005 年；任内遇上 2001 年 4 月的中美南海撞机事件。之后回任副部长，2001–2006 年在职读完南京大学历史学博士。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-jamestown-2018-yang-element]
+    - h: 外交部长
+      from: 2007
+      to: 2013
+      text: >-
+        2007 年 4 月出任外交部部长。詹姆斯敦基金会的文章认为，胡锦涛时期民族主义情绪高涨，强硬派指外交部对外软弱，他因此不得不表现出强硬的一面；面对记者，他有时拿自己属虎开玩笑，暗示会像老虎护崽一样维护国家利益。
+        2010 年 7 月东盟地区论坛河内会议上，十二国提出南海争端，据詹姆斯敦基金会《中国简报》记述，他盯着新加坡外长说，中国是大国，别的国家是小国，这就是事实。文章认为这句话是中国那一年在东南亚外交失分的缩影。
+      cites: [b11-jamestown-2018-yang-element, b11-jamestown-2010-china-missteps]
+    - h: 外事总管
+      from: 2013
+      to: 2020
+      text: >-
+        2013 年 3 月任国务委员，同年起任中央外事工作领导小组办公室主任，2014 年 2 月前还兼中央国家安全工作领导小组办公室主任，并兼中央维护海洋权益工作领导小组办公室主任。
+        2017 年十九届一中全会当选政治局委员，此后以中央外事工作委员会办公室主任的身份统筹对外工作，2021 年的中美高层战略对话即由他与外长王毅共同出席。
+      cites: [c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum, b11-mfa-2021-03-19-yang-anchorage]
+    - h: 阿拉斯加对话
+      from: 2021-03
+      to: 2021-03
+      text: >-
+        2021 年 3 月 18 日与王毅在安克雷奇同布林肯、沙利文举行中美高层战略对话。美方开场白后他发言十几分钟（BBC 中文两篇报道分别记为 16 分钟和约 18 分钟），
+        说“美国没有资格居高临下同中国说话，中国人不吃这一套”，又说“中美有过对抗的年代，中国都挺过来了”。BBC 中文说他还讲了许多重大外交场合不常出现的大白话，例如“难道我们吃洋人的苦头还少吗”，在中国社交平台上广为流传。
+      cites: [b11-mfa-2021-03-19-yang-anchorage, b11-bbc-2021-03-19-anchorage-plain, b11-bbc-2021-03-20-anchorage-close]
+    - h: 退休
+      from: 2022
+      to: 2022
+      text: >-
+        2022 年 10 月二十大，72 岁的他没有出现在二十届中央委员名单上，按年龄惯例退出政治局；自由亚洲电台列出的九名不再连任的政治局委员里，他与刘鹤、孙春兰等人同在其中。
+        联合早报报道，王毅打破“七上八下”的惯例进入政治局，显示他将替杨洁篪担任政治局委员、中央外事工作委员会办公室主任。王毅自 2013 年起任外长，此前长期在外事系统工作。
+      cites: [b09-zaobao-2022-10-23-wang-yi-cc, b09-zaobao-2022-10-23-wang-yi-pb, b09-rfa-2022-10-22-20th-cc]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Yang thus found it necessary to show a tough and gritty side, though he usually did it more subtly than at the ASEAN forum.
+      zh: 杨洁篪因此觉得有必要展示强硬、不服输的一面，不过他通常做得比在东盟论坛上更含蓄。
+      cite: b11-jamestown-2018-yang-element
+    - voice: scholar
+      quote: true
+      text: Yang’s less than subtle message was emblematic of China’s diplomatic missteps in Southeast Asia over the past year
+      zh: 杨洁篪这番毫不含蓄的话，正是过去一年中国在东南亚外交失误的缩影
+      cite: b11-jamestown-2010-china-missteps
+    - voice: zh
+      quote: true
+      text: 杨洁篪还说了许多重大外交场合不常出现的大白话，在中国社交平台上广为流传。
+      cite: b11-bbc-2021-03-19-anchorage-plain
+  family:
+    - name: 乐爱妹
+      rel: 妻子
+      text: >-
+        外交官，与杨洁篪同为 1970 年代第一批派往英国进修的外交干部，同批还有王光亚、沙祖康、周文重等人。
+      cites: [b11-cctv-2007-04-29-yang-tiger]
   ids: { wikidata: Q58211 }
-  cites: [wd-Q58211, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council]
+  cites: [wd-Q58211, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council, b11-mfa-2021-03-19-yang-anchorage, b11-cctv-2007-04-29-yang-tiger, b11-jamestown-2018-yang-element]
 
 - id: meng-jianzhu
   name: 孟建柱
+  pinyin: Mèng Jiànzhù
   gender: m
   ethnicity: 汉族
   born: 1947-07-28
   birthplace: 江苏吴县
+  education:
+    - { school: 上海机械学院系统工程专业（在职）, degree: 工学硕士, from: 1987, to: 1991 }
+  joinedWork: 1968-08
+  joinedParty: 1971-06
   roles: [pb, cc, prov, minister]
   status: retired
   statusNote: 2017 年 10 月十九大后卸任中央政法委书记。
-  tier: 2
+  tier: 1
   headline: 中央政法委书记（2012–2017）、政治局委员
   bio: >-
-    上海郊县基层干部出身，1990 年代任上海副市长、市委副书记，2001 年外放江西任省委书记六年。
-    2007 年接替周永康任公安部部长，2008 年兼国务委员；十八大后接掌中央政法委，政法委书记不再兼任常委，在任内处理周永康案后的政法系统整顿。
+    上海郊区农场的船队水手出身，在前卫农场一直做到场长，1986 年起任川沙、嘉定县委书记，1990 年代升至上海市副市长、市委副书记。
+    2001 年外放江西任省委书记六年，2007 年接替周永康任公安部部长，次年兼国务委员。十八大后任中央政法委书记，是十年来第一位不在常委会里的政法委书记，
+    任内宣布停止使用劳教制度，又多次赴新疆、昆明督导反恐维稳。2015 年以习近平特使身份赴华盛顿谈网络安全，2017 年十九大后退休。
   positions:
+    - { title: 川沙县委书记, sys: party, place: 上海, from: 1986, to: 1990, cite: c02-cyol-2012-11-16-18th-cvs }
     - { title: 上海市副市长, sys: gov, place: 上海, from: 1993, to: 1996, cite: c02-cyol-2012-11-16-18th-cvs }
     - { title: 上海市委副书记, sys: party, place: 上海, from: 1996, to: 2001, cite: c02-cyol-2012-11-16-18th-cvs }
     - { title: 江西省委书记, sys: party, place: 江西, from: 2001-04, to: 2007-10, cite: c02-chubun-2008-09-04-meng-jianzhu }
     - { title: 公安部部长, sys: gov, from: 2007-10, to: 2012-12, cite: c02-cyol-2012-11-16-18th-cvs }
     - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: wd-Q1365182 }
     - { title: 中央政治局委员、中央政法委书记, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+  life:
+    - h: 农场与郊县
+      from: 1968
+      to: 1991
+      text: >-
+        1968 年 8 月到上海前卫农场，从供销运输站船队水手、调度、轮机副队长做起，1973 年任运输连党支部书记，1977–1986 年任农场党委副书记、政治处主任、场长，其间业余读工业企业管理专科。
+        1986 年年近四十才调任川沙县委书记，1990 年转任嘉定县委书记。
+        日本华文报纸《中文导报》写道，他的才干“逐渐被江泽民和朱镕基等市委领导赏识”，1991 年升任上海市农村工作党委书记。
+      cites: [c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu]
+    - h: 上海副市长
+      from: 1991
+      to: 2001
+      text: >-
+        1987–1991 年在上海机械学院读系统工程在职研究生，获工学硕士。1992 年兼任上海市政府副秘书长，1993 年任副市长，1996 年进入市委常委，同年升任市委副书记，一直做到 2001 年。
+        2001 年 4 月调任江西省委书记，《中文导报》称他是“早年失意上海官场，被排挤到江西”的“上海帮”成员。
+      cites: [c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu]
+    - h: 江西六年
+      from: 2001
+      to: 2007
+      text: >-
+        2001 年 5 月兼任江西省人大常委会主任，2002 年十六大当选中央委员。《中文导报》说他在经济乏善可陈的中部省份闷声苦干了六年，民间有“江西要致富，留住孟建柱”的民谣。
+        2007 年 10 月调任公安部部长，BBC 中文当时分析说，他接任部长但没有进入政治局和书记处，是有意降低公安在权力架构中的权重。
+      cites: [c02-chubun-2008-09-04-meng-jianzhu, b03-bbc-2007-10-28-meng-replaces-zhou]
+    - h: 公安部长
+      from: 2007
+      to: 2012
+      text: >-
+        2008 年 3 月兼任国务委员和中央政法委副书记，人大表决时，国务委员一项他得到 28 张反对票、8 张弃权票，公安部长一项 26 张反对票、2 张弃权票，《中文导报》形容为差强人意。2009 年乌鲁木齐“7·5”事件后受中央委托赶赴新疆，
+        称这是“一起由境外分裂势力遥控煽动，境内分裂分子组织实施”的事件，说对凶手要“坚决依法严惩，绝不手软”。
+      cites: [c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu, b11-cctv-2009-07-08-meng-urumqi]
+    - h: 降格的政法委
+      from: 2012-11
+      to: 2012-12
+      text: >-
+        2012 年 11 月十八届一中全会进入政治局，接替周永康任中央政法委书记。法广指出，这是十年来第一次由非政治局常委出任，被指“降格”；BBC 中文说这反映出领导层对这一职位权力过大的担忧。
+        维权律师浦志强预期政法委的地位会随之下降、作用变弱；BBC 英文网则引述学者 David Zweig 的话说，这只是管理安全口的一种方式，政府并没有淡化国内安全的重要性。
+      cites: [b11-rfi-2012-11-20-meng-zhengfa, b03-bbc-2012-11-19-zhou-zhengfa, b11-bbcen-2012-11-security-portfolio]
+    - h: 停止劳教
+      from: 2013-01
+      to: 2013-01
+      text: >-
+        2013 年 1 月 7 日全国政法工作会议上，他要求“把以人为本、公平正义作为法治建设的灵魂”，并强调对坚持信访的访民不能采取劳教措施。
+        据《法制日报》记者陈东升向美联社转述，他宣布当年“停止使用劳教制度”，称劳教“在以前确实起到了很重要的作用，但是现在局势改变了”；最初披露此事的几篇报道随后被删，只剩新华社的简短消息。
+      cites: [b11-gov-2013-01-07-meng-zhengfa-meeting, b11-bbc-2013-01-07-meng-laojiao, b11-nytcn-2013-01-08-laojiao-reform]
+    - h: 新疆与反恐
+      from: 2013
+      to: 2017
+      text: >-
+        2013 年 6 月到新疆和田、阿克苏，要求“始终保持严打高压态势，坚决打掉暴力恐怖分子的嚣张气焰”。2014 年 3 月昆明火车站暴恐案发生后，他率工作组次日清晨抵达昆明，在现场说凶手“丧尽天良、残害无辜，手段极其残忍”。
+        2017 年 8 月最后一次以政法委书记身份赴新疆调研，说严厉打击暴恐“就是对各族人民群众的最大保护和热爱”，要把反分裂斗争作为头等大事。
+      cites: [b11-12371-2013-06-30-meng-xinjiang, b11-yndaily-2014-03-02-meng-kunming, b11-people-2017-08-29-meng-xinjiang]
+    - h: 特使与退休
+      from: 2015
+      to: 2017
+      text: >-
+        2015 年 9 月 9 日至 12 日以习近平特使身份访问华盛顿，与国土安全部长约翰逊、联邦调查局局长科米和国家安全顾问赖斯讨论网络安全等问题，为习近平的国事访问铺路。
+        2017 年十九大时他已年满 70 岁，退出政治局；10 月 31 日官方披露，公安部长郭声琨接替他任中央政法委书记。
+      cites: [b11-whitehouse-2015-09-12-meng-readout, b11-cna-2017-10-31-guo-replaces-meng]
+  assess:
+    - voice: japan
+      quote: true
+      text: 闷声苦干了六年，使江西经济有长足发展，更重要的是，他获得相当响亮的口碑
+      cite: c02-chubun-2008-09-04-meng-jianzhu
+    - voice: zh
+      quote: true
+      text: 有学者认为，这可以减少政策向公安和检察机关倾斜；香港有评论员则指出，中共控制社会政策以至维稳力度都不会放松。
+      cite: b11-rfi-2012-11-20-meng-zhengfa
+    - voice: zh
+      quote: true
+      text: 随着中共政治局常委人数减少到7人，中央政法委职位被降级，这个动作反映出中共领导层对该职位权力过大的担忧。
+      cite: b03-bbc-2012-11-19-zhou-zhengfa
+    - voice: west
+      quote: true
+      text: not downplaying the importance of domestic security
+      zh: （政府）并没有淡化国内安全的重要性
+      cite: b11-bbcen-2012-11-security-portfolio
   factions:
     - f: jiang-shanghai
       cite: c02-chubun-2008-09-04-meng-jianzhu
       quote: 这位早年失意上海官场，被排挤到江西的“上海帮”成员
   ids: { wikidata: Q1365182 }
-  cites: [wd-Q1365182, c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu]
+  cites: [wd-Q1365182, c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu, b11-rfi-2012-11-20-meng-zhengfa, b11-nytcn-2013-01-08-laojiao-reform]
 
 - id: sun-chunlan
   name: 孙春兰
+  pinyin: Sūn Chūnlán
   gender: f
   ethnicity: 汉族
   born: 1950-05-24
   birthplace: 河北饶阳
+  education:
+    - { school: 鞍山工业技术学校, from: 1965, to: 1969 }
+  joinedWork: 1969-11
+  joinedParty: 1973-05
   roles: [pb, cc, prov, minister]
   status: retired
   statusNote: 2023 年 3 月卸任国务院副总理后退休。
-  tier: 2
+  tier: 1
   headline: 国务院副总理（2018–2023）、政治局委员（2012–2022）
   bio: >-
-    鞍山工人出身，在辽宁历任省委副书记、大连市委书记，2005 年任全国总工会第一书记，2009 年起先后主政福建、天津。
-    2014 年接替令计划任中央统战部部长，2018–2023 年任副总理，分管教科文卫，新冠疫情期间多次坐镇武汉、上海等地督导防控。
+    河北饶阳人，鞍山钟表厂女工出身，在辽宁工作近 40 年，经工会、妇联系统升至省委副书记、大连市委书记。2005 年任全国总工会第一书记，2009 年起先后主政福建、天津，2012 年进入政治局。
+    2014 年接替令计划任中央统战部部长，2018–2023 年任国务院副总理，新冠疫情期间坐镇武汉、上海，被外媒称为“清零沙皇”；
+    2022 年 11 月底又是她在座谈会上说疫情防控“面临新形势新任务”，随后清零政策迅速退场。2023 年退休。
   positions:
     - { title: 辽宁省委副书记、大连市委书记, sys: party, place: 辽宁, from: 1997, to: 2005, cite: c02-cyol-2012-11-16-18th-cvs }
     - { title: 全国总工会副主席、第一书记, sys: other, from: 2005, to: 2009, cite: c02-cyol-2012-11-16-18th-cvs }
@@ -72,60 +240,313 @@
     - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
     - { title: 中央统战部部长, sys: party, from: 2014-12, to: 2017-11, cite: wd-Q195379 }
     - { title: 国务院副总理, sys: gov, from: 2018-03, to: 2023-03, cite: c02-rmzxw-2018-03-19-state-council }
+  life:
+    - h: 鞍山女工
+      from: 1950
+      to: 1988
+      text: >-
+        1965–1969 年就读鞍山工业技术学校，1969 年 11 月进鞍山钟表厂当工人，1973 年入党。1974 年起任鞍山市一轻局、轻纺局团委书记，1977–1988 年在鞍山化纤毛纺织总厂工作。
+        BBC 中文统计，她在辽宁任职近 40 年，其中在鞍山就工作了 26 年。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-bbc-2014-12-31-sun-ufwd]
+    - h: 妇联与工会
+      from: 1988
+      to: 2001
+      text: >-
+        1988 年任鞍山市妇联主任，1991 年调任辽宁省总工会副主席，1993 年任省妇联主席，1994 年任省总工会主席，1995 年进入省委常委，1997 年升任省委副书记，1998–2001 年兼省委党校校长。
+        布鲁金斯学会的李成推测，她与胡锦涛的关系可能形成或巩固于 1990 年代初在中央党校学习期间，当时胡锦涛是党校校长。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-brookings-2018-03-new-gov-leaders]
+    - h: 大连与全总
+      from: 2001
+      to: 2009
+      text: >-
+        2001–2005 年任大连市委书记。大连是薄熙来起家之地，李成写道，据一些中国观察者说，她接手后有效压制了薄熙来在大连的势力，在薄倒台之前就清除了他在当地的亲信。
+        2005 年调任中华全国总工会党组书记、副主席、书记处第一书记。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-brookings-2018-03-new-gov-leaders, b11-bbc-2014-12-31-sun-ufwd]
+    - h: 福建与天津
+      from: 2009
+      to: 2014
+      text: >-
+        2009 年 11 月调任福建省委书记，2012 年 11 月十八大进入政治局，随即调任天津市委书记。李成认为，主政一个重要省份和天津、大连两座大城市的经历，加上全总和统战部的任职，为她进入更高层做了准备。美国之音的节目说，被认为是团派的她曾被称为胡锦涛的“五朵金花”之一，
+        又问她是否因为同样在福建担任要职而获得习近平的信任。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-brookings-2018-03-new-gov-leaders, b11-voa-2015-01-06-sun-jinhua]
+    - h: 统战部长
+      from: 2014
+      to: 2017
+      text: >-
+        2014 年 12 月令计划被免职并接受调查后，她接任中央统战部部长。BBC 中文指出，由政治局委员出任统战部长打破了近年的惯例，此前多任部长都只是中央委员；
+        美国之音节目中则有分析认为这是名升暗降，也有人认为是习近平清理统战部的一步棋。2017 年十九大连任政治局委员。
+      cites: [b11-bbc-2014-12-31-sun-ufwd, b11-brookings-2018-03-new-gov-leaders, b11-voa-2015-01-06-sun-jinhua]
+    - h: 坐镇武汉
+      from: 2018
+      to: 2020
+      text: >-
+        2018 年 3 月任国务院副总理。2020 年初率中央赴湖北指导组坐镇武汉，2 月 6 日在动员会上要求全民拉网式排查、“确保不落一户、不漏一人”，并说“战时状态决不能当逃兵，否则就会被钉在历史的耻辱柱上”，
+        2 月 11 日要求方舱医院“宁可让床等人，也不要让人等床”。3 月初她视察武汉小区时，居民隔窗高喊“假的、假的、全部都是假的”，央视报道没有说明现场情况。
+      cites: [c02-rmzxw-2018-03-19-state-council, b11-people-2020-02-07-sun-wartime, b11-gov-2020-02-11-sun-wuhan, b11-bbc-2020-03-06-sun-fake]
+    - h: 清零沙皇
+      from: 2020
+      to: 2022
+      text: >-
+        此后她辗转各地疫区。2022 年 4 月 2 日前往上海监督全面封控，接受央视采访时说从全国调集了近 5 万名医务和检测人员，“早日实现社会面清零的目标指日可待”，要“早日打赢这场歼灭战”。
+        《纽约时报》说，她被视为中国的“清零”沙皇，每到一个疫情暴发的城市，常被网民塑造成宣告封城即将到来的末日预言者。
+      cites: [b11-dw-2023-03-zero-exit, b06-cctv-2022-04-17-shanghai-zero, b11-nytcn-2022-10-20-sun-zero-czar]
+    - h: 转向与退休
+      from: 2022
+      to: 2023
+      text: >-
+        2022 年 10 月二十大，72 岁的她与杨洁篪、刘鹤等人一同不再连任政治局委员。《纽约时报》统计，1949 年以来只有八名女性进入过中央政治局，她是其中之一，而从未有女性进入常委会。11 月 30 日，在各地抗议之后数日，她在国家卫健委座谈会上说，随着奥密克戎致病性减弱、疫苗接种普及，
+        “我国疫情防控面临新形势新任务”；德国之声转述美媒报道，她在会上告诉医学专家，国家计划“迅速地”结束清零。2023 年 3 月卸任副总理。
+      cites: [b09-rfa-2022-10-22-20th-cc, b11-gov-2022-11-30-sun-new-situation, b11-dw-2023-03-zero-exit]
+  assess:
+    - voice: scholar
+      quote: true
+      text: her low-profile personality and her demonstrated tenacity and political acumen……are indicative of her potential for leadership and political nerve
+      zh: 她低调的个性和表现出的韧劲与政治敏锐……显示出她的领导潜力和政治胆识
+      cite: b11-brookings-2018-03-new-gov-leaders
+    - voice: zh
+      quote: true
+      text: 随着不断晋升，她建立了自己的支持者网络，包括前国家主席胡锦涛，使她能够创造出提拔到高层所需的履历——以及靠山。
+      cite: b11-nytcn-2022-10-20-sun-zero-czar
+    - voice: zh
+      quote: true
+      text: 有分析认为，孙春兰其实是名升暗降，凸显了习近平的十九大人事布局。
+      cite: b11-voa-2015-01-06-sun-jinhua
+  family:
+    - name: 父亲（姓名不详）
+      rel: 父亲
+      text: >-
+        工厂工人。李成写道，她出身寒微，父亲是工人，此外没有关于她家庭的更多公开信息。
+      cites: [b11-brookings-2018-03-new-gov-leaders]
+  factions:
+    - f: tuanpai
+      cite: b11-voa-2015-01-06-sun-jinhua
+      quote: 被认为是团派的孙春兰，曾经被称为胡锦涛的”五朵金花”之一
   ids: { wikidata: Q195379 }
-  cites: [wd-Q195379, c02-cyol-2012-11-16-18th-cvs, c02-gov-2017-10-25-19th-cvs, c02-rmzxw-2018-03-19-state-council]
+  cites: [wd-Q195379, c02-cyol-2012-11-16-18th-cvs, c02-gov-2017-10-25-19th-cvs, c02-rmzxw-2018-03-19-state-council, b11-nytcn-2022-10-20-sun-zero-czar, b11-gov-2022-11-30-sun-new-situation]
 
 - id: chen-miner
   name: 陈敏尔
+  pinyin: Chén Mǐn'ěr
   gender: m
   ethnicity: 汉族
   born: 1960-09-29
   birthplace: 浙江诸暨
+  education:
+    - { school: 绍兴师范专科学校中文系, from: 1978, to: 1981 }
+    - { school: 中央党校研究生院（在职）, degree: 法学硕士, from: 1995, to: 1998 }
+  joinedWork: 1981-08
+  joinedParty: 1982-09
   roles: [pb, cc, prov]
   status: active
   statusNote: 中央政治局委员、天津市委书记，2026 年 10 月仍以市委书记身份公开活动。
-  tier: 2
+  tier: 1
   headline: 天津市委书记（2022– ）、政治局委员（2017– ）
   bio: >-
-    浙江绍兴起家，习近平主政浙江时任省委常委、宣传部长，被视为之江新军核心成员。2007 年任浙江副省长，2012 年调贵州，先后任省长、省委书记。
-    2017 年接替落马的孙政才主政重庆，十九大进入政治局；2022 年二十大后转任天津市委书记。
+    浙江诸暨人，绍兴师专中文系毕业，从宣传干事做到绍兴县委书记，又任宁波市委副书记、浙江日报报业集团社长。习近平主政浙江时他任省委常委、宣传部长，
+    外界相信他协助习近平写《浙江日报》的《之江新语》专栏，是“之江新军”的代表人物。2012 年调贵州，先后任省长、省委书记；
+    2017 年孙政才落马后接掌重庆，誓言清除“薄王”影响，十九大进入政治局，一度被看作常委热门。2022 年二十大仍未入常，年底转任天津市委书记至今。
   positions:
+    - { title: 绍兴县委书记, sys: party, place: 浙江, from: 1994, to: 1997, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 浙江日报报业集团社长, sys: other, place: 浙江, from: 1999, to: 2001, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2002, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 浙江省副省长, sys: gov, place: 浙江, from: 2007, to: 2012, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 贵州省省长, sys: gov, place: 贵州, from: 2012-12, to: 2015-10, cite: wd-Q4504692 }
-    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2015-07, to: 2017-07, cite: wd-Q4504692 }
-    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2017-07, to: 2022-12, cite: wd-Q4504692 }
+    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2015-07, to: 2017-07, cite: b11-xinhua-2022-12-08-chen-tianjin }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2017-07, to: 2022-12, cite: b11-xinhua-2022-12-08-chen-tianjin }
     - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 天津市委书记, sys: party, place: 天津, from: 2022-12, cite: c02-tjnews-2026-10-13-chen-miner }
+    - { title: 天津市委书记, sys: party, place: 天津, from: 2022-12, cite: b11-xinhua-2022-12-08-chen-tianjin }
+  life:
+    - h: 绍兴
+      from: 1960
+      to: 1997
+      text: >-
+        1960 年 9 月生于诸暨，1978–1981 年读绍兴师专中文系，1981 年 8 月参加工作，1982 年入党，先后在学校和绍兴市委宣传部做宣传干事。
+        李成整理的履历显示，他 1987–1989 年任绍兴县委常委、宣传部长，1989 年任绍兴市委宣传部副部长，1990 年回绍兴县任县委副书记，1991 年起兼任县长，
+        1994–1997 年任绍兴县委书记，1996 年进入绍兴市委常委；1995–1998 年在中央党校在职读研，获法学硕士。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-brookings-2022-10-16-20th-candidates]
+    - h: 浙江宣传部长
+      from: 1997
+      to: 2007
+      text: >-
+        1997 年任宁波市副市长，1999 年任宁波市委副书记，同年转任浙江日报报业集团社长；2001 年任浙江省委宣传部部长，2002 年 6 月进入省委常委。
+        他任宣传部长期间，《浙江日报》头版推出署名“哲欣”的《之江新语》专栏，哲欣就是时任省委书记习近平的笔名。李成写道，外界普遍相信陈敏尔在那几年大量协助习近平准备这些每周专栏。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-xinhua-2022-12-08-chen-tianjin, b11-bbc-2015-07-31-chen-guizhou, b11-brookings-2022-10-16-20th-candidates]
+    - h: 副省长与“之江新军”
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年任浙江省副省长，同年十七大当选候补中央委员，宣传部长一职由嘉兴市委书记黄坤明接替。李成说他在浙江被视为强力支持民营经济。
+        BBC 中文引述《大公报》马浩亮的说法，陈敏尔与蔡奇、黄坤明、李强等人是《之江新语》的第一批读者，“堪称是一支‘之江新军’”。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-hk01-2017-10-30-huang-propaganda, b11-brookings-2022-10-16-20th-candidates, b11-bbc-2015-07-31-chen-guizhou]
+    - h: 贵州
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年初调任贵州省委副书记，2013 年 1 月任省长，2015 年 7 月升任省委书记，是当时仅有的三名 60 后省委书记之一。
+        纽约时报中文网报道，他在贵州强力推行把农村家庭的小块土地并进合作社的做法，还加上了自己的创新；李成写道，他在贵州致力于扶贫、环保和大数据，贵州由此成为全国的大数据中心。
+      cites: [b11-xinhua-2022-12-08-chen-tianjin, b11-nytcn-2017-09-13-chen-miner, b11-brookings-2022-10-16-20th-candidates]
+    - h: 接掌重庆
+      from: 2017
+      to: 2017
+      text: >-
+        2017 年 7 月 15 日，孙政才被免去重庆市委书记，陈敏尔接任，在干部大会上表示要“坚决清除‘薄王’案件的恶劣影响”，说“中央派我到重庆来，我就是重庆的一员”。
+        十九大重庆代表团开放日上，他称中央对孙政才案的处理“完全正确，非常英明，十分及时”，要把清除孙政才恶劣影响与肃清“薄、王”思想遗毒结合起来。
+      cites: [b07-zaobao-2017-07-16-sun, b11-chinanews-2017-07-15-chen-chongqing, b11-ifeng-2017-10-20-chen-presser]
+    - h: 两次与常委失之交臂
+      from: 2017
+      to: 2022
+      text: >-
+        2017 年十九届一中全会当选政治局委员。BBC 中文报道，会前呼声颇高的胡春华和陈敏尔都未能进入常委名单。此后五年他继续主政重庆，
+        李成写道，他强调要营造新的“政治生态”，以别于薄熙来和孙政才时期的治理不善，还提倡发展在文化、商业和地貌上各具特色的小城镇。
+        2022 年二十大前，布鲁金斯学会的李成仍预测他可能晋升常委，结果他与黄坤明、马兴瑞都只留任政治局委员。
+      cites: [b05-bbc-2017-10-25-psc-profiles, b11-brookings-2022-10-16-20th-candidates]
+    - h: 天津
+      from: 2022
+      to: 2026
+      text: >-
+        2022 年 12 月 8 日，中组部部长陈希在天津宣布，陈敏尔接替李鸿忠任天津市委书记，称这是中央根据工作需要和天津班子建设实际、通盘考虑后的决定。主政天津后，他以京津冀协同发展为“战略牵引”，要唱好京津“双城记”，筑牢首都政治、安全“护城河”。
+        2026 年 10 月 12 日他仍以市委书记身份，在天津会见出席国际议员友好交流论坛的各国议员。
+      cites: [b11-xinhua-2022-12-08-chen-tianjin, b11-tjnews-2025-05-15-chen-jjj, c02-tjnews-2026-10-13-chen-miner]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Chen was widely believed to have substantially assisted Xi in preparing weekly columns for the provincial party newspaper, Zhejiang Daily.
+      zh: 外界普遍相信陈敏尔大量协助了习近平为浙江省委机关报《浙江日报》准备每周专栏。
+      cite: b11-brookings-2022-10-16-20th-candidates
+    - voice: scholar
+      quote: true
+      text: These two appointments have positioned Chen well for further political advancement.
+      zh: 这两次任命（贵州、重庆）让陈敏尔在进一步晋升上处于有利位置。
+      cite: b11-brookings-2022-10-16-20th-candidates
+    - voice: zh
+      quote: true
+      text: 陈敏尔看来是习近平指望的那种能干事的人之一。
+      cite: b07-nyt-2017-07-24-sun-fall
+    - voice: zh
+      quote: true
+      text: 多家国际媒体认为，陈敏尔同习近平关系密切，是迅速崛起的中国政坛新秀，有望在中共19大时成为政治局常委。
+      cite: b11-rfa-2017-07-18-chen-chongqing
+  family:
+    - name: 女儿（姓名不详）
+      rel: 女儿
+      text: >-
+        李成写道，陈敏尔妻子的身份不详；两人有一个女儿，曾嫁给浙江省委前宣传部长、组织部长斯鑫良之子，斯鑫良 2015 年因腐败被查处。
+      cites: [b11-brookings-2022-10-16-20th-candidates]
   factions:
     - f: zhijiang
       cite: f02-rfa-2020-11-16-zhijiang
       quote: 习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔。
   ids: { wikidata: Q4504692 }
-  cites: [wd-Q4504692, c02-gov-2017-10-25-19th-cvs, c02-gov-2022-10-23-20th-cvs, c02-tjnews-2026-10-13-chen-miner]
+  cites: [wd-Q4504692, c02-gov-2017-10-25-19th-cvs, c02-gov-2022-10-23-20th-cvs, c02-tjnews-2026-10-13-chen-miner, b11-xinhua-2022-12-08-chen-tianjin, b11-brookings-2022-10-16-20th-candidates]
 
 - id: huang-kunming
   name: 黄坤明
+  pinyin: Huáng Kūnmíng
   gender: m
   ethnicity: 汉族
   born: 1956-11
   birthplace: 福建上杭
+  education:
+    - { school: 福建师范大学政治教育系, from: 1978, to: 1982 }
+    - { school: 清华大学公共管理学院（在职）, degree: 管理学博士, from: 2005, to: 2008 }
+  joinedWork: 1974-12
+  joinedParty: 1976-10
   roles: [pb, sec, cc, prov]
   status: active
   statusNote: 中央政治局委员、广东省委书记，2026 年 9 月仍以此身份出席亚太媒体高端论坛。
-  tier: 2
+  tier: 1
   headline: 广东省委书记（2022– ）、前中宣部部长（2017–2022）
   bio: >-
-    福建起家，1999 年调浙江，在习近平主政浙江时任嘉兴市委书记，后任浙江宣传部长、杭州市委书记，被视为之江新军成员。
-    2013 年进京任中宣部副部长，2014 年主持常务工作；十九大进入政治局和书记处并执掌中宣部，二十大后外放广东任省委书记。
+    福建上杭人，当过兵、回乡当过大队文书，在闽西龙岩工作 17 年，官至龙岩市长。1999 年调浙江，习近平主政浙江时他任湖州市长、嘉兴市委书记，
+    2007 年接替陈敏尔任浙江省委宣传部长，后任杭州市委书记，被视为“之江新军”成员，也是少数在福建、浙江两地都与习近平共事过的官员。
+    2013 年进京任中宣部副部长，2016 年说习近平成为核心“是全党的高度共识”；2017 年进入政治局和书记处并执掌中宣部。2022 年二十大未入常，外放广东任省委书记至今。
   positions:
+    - { title: 永定县委书记, sys: party, place: 福建, from: 1993, to: 1998, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 龙岩市市长, sys: gov, place: 福建, from: 1998, to: 1999, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 湖州市市长, sys: gov, place: 浙江, from: 2000, to: 2003, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 嘉兴市委书记, sys: party, place: 浙江, from: 2003, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2007-06, to: 2010-01, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 杭州市委书记, sys: party, place: 浙江, from: 2010-01, to: 2013-10, cite: wd-Q8292452 }
     - { title: 中央宣传部常务副部长, sys: party, from: 2014, to: 2017-10, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央宣传部部长、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: wd-Q8292452 }
+    - { title: 中央宣传部部长、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: b11-xinhua-2017-10-30-huang-propaganda }
     - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 广东省委书记, sys: party, place: 广东, from: 2022-10, cite: c02-xinhua-2026-09-05-apac-media }
+    - { title: 广东省委书记, sys: party, place: 广东, from: 2022-10, cite: b11-gd-2022-10-28-huang-guangdong }
+  life:
+    - h: 当兵与龙岩
+      from: 1956
+      to: 1993
+      text: >-
+        1956 年 11 月生于上杭，1974–1977 年在陆军部队当战士、副班长，1976 年入党，退伍后回上杭通贤大队当文书。1978–1982 年读福建师范大学政教系，
+        毕业后进入龙岩地委组织部青年干部科，1988 年起任办公室副主任，1991–1993 年任地区办公室主任、副秘书长；1985–1988 年在中央党校在职读经济管理硕士。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-brookings-2022-10-16-20th-candidates]
+    - h: 闽西旧部
+      from: 1993
+      to: 1999
+      text: >-
+        1993–1998 年任永定县委书记，1998 年任龙岩市长。香港01 指出，他在家乡龙岩工作长达 17 年，这段时间习近平也在福建工作。
+        日本国际问题研究所的研究报告说，黄坤明因此也被称为习近平“闽江旧部”的一员，但两人当时并无直接上下级关系，私交深浅存疑。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-hk01-2017-10-30-huang-propaganda, c02-jiia-2019-04-huang-kunming]
+    - h: 湖州与嘉兴
+      from: 1999
+      to: 2007
+      text: >-
+        1999 年调浙江任湖州市委副书记、代市长，2000 年任市长，2003 年任嘉兴市委书记，与省委书记习近平是直接上下级。日本国际问题研究所引《读卖新闻》说，
+        习近平当时称赞他“人柄が良く、苦労を惜しまない”（为人好、不辞辛劳）。李成写道，外界相信他大量协助了习近平的《之江新语》专栏。
+      cites: [c02-gov-2017-10-25-19th-cvs, c02-jiia-2019-04-huang-kunming, b11-brookings-2022-10-16-20th-candidates]
+    - h: 浙江宣传部长与杭州
+      from: 2007
+      to: 2013
+      text: >-
+        2007 年 6 月接替升任副省长的陈敏尔任浙江省委宣传部长，进入省委常委。李成写道是习近平在 2007 年任命他做宣传部长；日本国际问题研究所则指出，他上任时习近平已调往上海，没有近距离看过他在宣传口的表现。
+        2005–2008 年在职获清华大学管理学博士。2010 年任杭州市委书记，2012 年十八大当选候补中央委员。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-hk01-2017-10-30-huang-propaganda, c02-jiia-2019-04-huang-kunming, b11-brookings-2022-10-16-20th-candidates]
+    - h: 中宣部副部长
+      from: 2013
+      to: 2017
+      text: >-
+        2013 年 10 月调任中宣部副部长，2014 年 12 月任主持常务工作的副部长（正部长级）兼中央文明办主任；日本国际问题研究所指出，此前他只在浙江当过两年多宣传部长，其余时间都是地方行政官员。2016 年 10 月十八届六中全会后，
+        他在中宣部发布会上说习近平作为党中央的核心、全党的核心，“是众望所归，当之无愧、名副其实”。香港01 说，前任部长刘奇葆主管的中宣部被外界批评跟不上习近平的思路，甚至被指成了习近平的“高级黑”。
+      cites: [c02-gov-2017-10-25-19th-cvs, b11-people-2016-10-28-huang-core, b11-hk01-2017-10-30-huang-propaganda, c02-jiia-2019-04-huang-kunming]
+    - h: 中宣部部长
+      from: 2017
+      to: 2022
+      text: >-
+        2017 年十九届一中全会当选政治局委员、书记处书记，随即接替刘奇葆任中宣部部长。10 月 30 日他在全国宣传系统电视电话会议上，要求把学习宣传贯彻十九大精神作为“首要政治任务”。
+        李成写道，他在宣传习近平治国理念和第一任期成就上发挥了重要作用，一度被看作接替王沪宁出任常务书记、进入常委的人选；李成同时提醒，他年龄不占优势，也可能在二十大退出政治局，转任礼仪性的政府职务。
+      cites: [b11-xinhua-2017-10-30-huang-propaganda, b11-hk01-2017-10-30-huang-propaganda, b11-brookings-2022-10-16-20th-candidates]
+    - h: 广东
+      from: 2022
+      to: 2026
+      text: >-
+        二十大揭晓后，BBC 中文引述学者宋文笛的分析，这届是黄坤明和李鸿忠入常的最后时机，但习近平没有这样做。10 月 28 日中组部宣布他接替李希任广东省委书记，
+        他表示要“自觉做好新时代新征程上为民服务的孺子牛、创新发展的拓荒牛、艰苦奋斗的老黄牛”。2026 年 9 月他仍以省委书记身份出席在深圳举行的亚太媒体高端论坛。
+      cites: [b06-bbc-2022-10-23-psc, b11-gd-2022-10-28-huang-guangdong, c02-xinhua-2026-09-05-apac-media]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Huang has played an important role in promoting Xi’s thoughts on governance and Xi’s first-term achievements.
+      zh: 黄坤明在宣传习近平的治国思想和第一任期成就方面发挥了重要作用。
+      cite: b11-brookings-2022-10-16-20th-candidates
+    - voice: scholar
+      quote: true
+      text: 黄坤明は1993年以後、殆どの期間を地方都市の党委員会書記あるいは市長として過ごしてきた。
+      zh: 黄坤明自 1993 年以后，大部分时间都在地方城市担任党委书记或市长。
+      cite: c02-jiia-2019-04-huang-kunming
+    - voice: scholar
+      quote: true
+      text: 黄坤明の宣伝部門での活動ぶりについて、習近平は間近で観察していたわけではない
+      zh: 习近平并没有近距离观察过黄坤明在宣传部门的工作表现
+      cite: c02-jiia-2019-04-huang-kunming
+    - voice: zh
+      quote: true
+      text: 他可以說是為數不多的同時與習近平在閩、浙兩地都共事過的官員。
+      cite: b11-hk01-2017-10-30-huang-propaganda
+  family:
+    - name: Qiu Ping（中文写法未见可靠来源）
+      rel: 妻子
+      text: >-
+        李成写道，黄坤明的妻子退休前曾任浙江烟草专卖局局长，两人有一个女儿。
+      cites: [b11-brookings-2022-10-16-20th-candidates]
   factions:
     - f: zhijiang
       cite: f02-rfa-2020-11-16-zhijiang
@@ -135,4 +556,4 @@
       quote: 黄坤明は習近平「閩江旧部」の一員とも言われる
       zh: 黄坤明也被认为是习近平“闽江旧部”的一员
   ids: { wikidata: Q8292452 }
-  cites: [wd-Q8292452, c02-gov-2017-10-25-19th-cvs, c02-jiia-2019-04-huang-kunming, c02-xinhua-2026-09-05-apac-media]
+  cites: [wd-Q8292452, c02-gov-2017-10-25-19th-cvs, c02-jiia-2019-04-huang-kunming, c02-xinhua-2026-09-05-apac-media, b11-people-2016-10-28-huang-core, b11-brookings-2022-10-16-20th-candidates]

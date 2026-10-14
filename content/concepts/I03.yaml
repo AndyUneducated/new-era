@@ -1,0 +1,482 @@
+# Batch I03 (round 2): concepts left out of round 1.
+# Official formulas cite the first document or speech in the library; unofficial labels (wolf-warrior, qishang-baxia,
+# cake-debate, neo-authoritarianism) cite who coined or uses the name.
+# Sources: research/manifests/I03.yaml plus shared b/c/e/f/i sources.
+
+# ---------------- unofficial labels ----------------
+- id: wolf-warrior
+  name: 战狼外交
+  en: Wolf Warrior Diplomacy
+  kind: formula
+  by: [wang-yi, qin-gang]
+  first:
+    date: 2017
+    text: 吴京自导自演的电影《战狼2》2017年7月27日上映，“战狼”一词由此被借用来形容中国外交官的强硬风格；BBC 中文称这类外交词汇出现在2017年。
+    cite: i03-bbc-2020-05-13-wolf-warrior
+    quote: “战狼式”的外交词汇出现在2017年
+  summary: “战狼外交”是外界对中国外交官主动对抗、言辞激烈的风格的称呼，名字来自2017年上映的电影《战狼2》。BBC 中文2020年报道说，新冠疫情期间外交部发言人赵立坚和多名驻外使节在推特上的强硬言论，被许多西方学者和观察家称为“战狼”外交；美国之音则说这个词约在2019年浮出水面。中方一再拒绝这个标签：王毅2020年答记者问时说中国人“有原则、有骨气”，对蓄意中伤一定有力回击；外交部副部长乐玉成称它是“中国威胁论”的又一翻版；秦刚2023年称之为“话语陷阱”。外界普遍把王毅视为战狼外交的主要实践者，秦刚任发言人时也曾被称为“战狼”。
+  quote:
+    text: 其实，所谓“战狼外交”就是一个话语陷阱，制造这个话语陷阱的人，要么不懂中国和中国外交，要么无视事实，别有用心
+    cite: b08-mfa-2023-03-07-qin-presser
+  terms: [战狼外交]
+  related: [taoguang-yanghui, peaceful-rise, little-pink, community-shared-future]
+  voices:
+    - voice: zh
+      text: 与中国传统外交官的谨慎、保守相比，这些外交官倾向于主动展现对抗风格，并且多使用社交媒体Twitter发表言论，很多西方学者和观察家称之为“战狼”外交。
+      cite: i03-bbc-2020-05-13-wolf-warrior
+      quote: true
+    - voice: zh
+      text: 战狼外交一词约在2019年浮出水面。那时，战狼外交的代表人物之一，中国外交部发言人赵立坚利用推特抨击外国批评中国的声音。
+      cite: i03-voa-2021-03-27-wolf-warrior
+      quote: true
+    - voice: doc
+      text: 我们从来不会主动欺凌别人，但同时，中国人是有原则、有骨气的。对于蓄意的中伤，我们一定会作出有力回击，坚决捍卫国家的荣誉和民族尊严。
+      cite: i03-fmprc-2020-05-24-wang-yi-presser
+      quote: true
+    - voice: official
+      text: 显而易见，“战狼外交”实际上是“中国威胁论”的又一翻版，又一个“话语陷阱”，目的就是要让我们打不还手，骂不还口，放弃抗争。
+      cite: i03-fmprc-2020-12-05-le-yucheng
+      quote: true
+    - voice: zh
+      text: 中国战狼外交的特点仍很明显。我看不出有任何变化，现在只是由秦刚来扮演温和派角色，而王毅则会继续坚持强硬立场。
+      cite: b09-dw-2023-01-wolf-warrior
+      quote: true
+    - voice: zh
+      text: 王毅因此被外界视为战狼外交的主要实践者。
+      cite: b09-abc-2023-07-25-wang-yi
+      quote: true
+  cites:
+    - i03-bbc-2020-05-13-wolf-warrior
+    - i03-bbc-2017-08-wolf-warrior-2
+    - i03-voa-2021-03-27-wolf-warrior
+    - i03-fmprc-2020-05-24-wang-yi-presser
+    - i03-fmprc-2020-12-05-le-yucheng
+    - b08-mfa-2023-03-07-qin-presser
+    - b08-bbc-2023-07-25-qin-gang
+    - b09-dw-2023-01-wolf-warrior
+    - b09-abc-2023-07-25-wang-yi
+
+- id: qishang-baxia
+  name: 七上八下
+  en: Seven Up, Eight Down (the 67/68 age rule)
+  kind: formula
+  by: [jiang-zemin]
+  first:
+    date: 2002-11
+    text: 十六大换届时，中央委员会和政治局成员的年龄线由上届的70岁提前到68岁，BBC 中文当时的点评称之为“六十八一刀切”。
+    cite: i03-bbc-2002-11-age-limit
+    quote: 年齡邊界由上一屆的70歲提前到68歲
+  summary: “七上八下”指中共高层换届时满67岁可以留任或晋升、满68岁则退下的不成文惯例，党章和公开文件中都没有这条规定。据中央社和时评作者高新的说法，它形成于2002年十六大：1997年十五大先以70岁为线让乔石退下，十六大再把线降到68岁，让当年正好68岁的李瑞环退休；两者对它是江泽民一人设计还是江胡共商说法不一。2016年六中全会文件起草组成员邓茂生对境外记者说它只是“民间说法”。2017年王岐山届龄卸任，被视为惯例依然有效；2022年二十大习近平本人超龄连任，69岁的王毅进入政治局，未满68岁的李克强、汪洋却退出中央委员会，联合早报因此说这一惯例“已经不再成立”。
+  quote:
+    text: “七上八下”为中共长久以来的潜规则，指67岁以下留任、68岁以上离任
+    cite: f01-dw-2022-10-24-xi-jiajun
+  terms: [七上八下]
+  related: [core]
+  voices:
+    - voice: zh
+      text: 於是江又設計出一個「67歲繼續幹、68歲下台」的潛規則，讓當年正好68歲的李瑞環乖乖下台。
+      cite: i03-cna-2017-09-25-unwritten-rules
+      quote: true
+    - voice: zh
+      text: 当然不是一项有红头文件向下传达的“明文规定”，而是在当年讨论十六大人事换届时由江泽民和胡锦涛共商出的“原则上掌握”的“入局”和“入常”（包括继任）的年龄限制。
+      cite: i03-rfa-2018-02-09-gaoxin-age-limit
+      quote: true
+    - voice: zh
+      text: 中共十八届六中全会文件起草组成员邓茂生暗示，明年满68岁的中共政治局常委不是非得退下，所谓“七上八下”只是“民间说法”，“不足为信”。
+      cite: i03-zaobao-2016-11-01-deng-maosheng
+      quote: true
+    - voice: zh
+      text: 早前外传王岐山可能打破政治局常委“七上八下”（67岁留任、68岁退休）的不成文年龄限制留任，他的卸任表明这个非正式政治规定依然有效。
+      cite: b04-zaobao-2017-10-25-wang-exit
+      quote: true
+    - voice: zh
+      text: 王毅进入政治局，也再次凸显中共高层多年来不成文的“七上八下”（67岁留任，68岁退休）换届惯例，已经不再成立。
+      cite: b09-zaobao-2022-10-23-wang-yi-pb
+      quote: true
+    - voice: zh
+      text: 但事实上除了习近平本人，也只有军方代表张又侠和外交界代表王毅两人是“例外”
+      cite: b09-rfa-2023-05-26-age-rule
+      quote: true
+  cites:
+    - i03-bbc-2002-11-age-limit
+    - i03-cna-2017-09-25-unwritten-rules
+    - i03-rfa-2018-02-09-gaoxin-age-limit
+    - i03-zaobao-2016-11-01-deng-maosheng
+    - i03-rfa-2016-11-01-qishang-baxia
+    - b04-zaobao-2017-10-25-wang-exit
+    - b09-zaobao-2022-10-23-wang-yi-pb
+    - f01-dw-2022-10-24-xi-jiajun
+    - b09-rfa-2023-05-26-age-rule
+    - b06-bbc-2022-10-23-psc
+
+- id: cake-debate
+  name: 蛋糕论（分蛋糕与做蛋糕）
+  en: Cake Debate
+  kind: formula
+  by: [wang-yang, bo-xilai]
+  first:
+    date: 2010-03-05
+    text: 温家宝在政府工作报告中用“蛋糕”比喻发展与分配，要求既做大又分好（库内所见最早出处）。
+    cite: i02-gov-2010-gwr
+    quote: 我们不仅要通过发展经济，把社会财富这个“蛋糕”做大，也要通过合理的收入分配制度把“蛋糕”分好
+  summary: “蛋糕论”指2011年广东省委书记汪洋与重庆市委书记薄熙来围绕先“做蛋糕”还是先“分蛋糕”的公开分歧。2010年温家宝的政府工作报告已提出既要把“蛋糕”做大、也要分好。2011年初汪洋用蛋糕比喻转型升级与建设幸福广东的关系；7月11日他在广东省委十届九次会议上说分蛋糕不是重点，“重点还是要把蛋糕做大”，并说“这点是有针对性的”。薄熙来则在重庆主张“要一边分好蛋糕，一边做大蛋糕”，不必等到发展的高级阶段再谈分配与共同富裕。法广和 BBC 中文都把它看作两人在十八大前的公开斗法；澳大利亚国立大学的《中国故事年鉴》称，这是中共领导人第一次借媒体公开争论不同的区域发展路线。
+  quote:
+    text: 分蛋糕不是重点工作，做蛋糕是重点，这点是有针对性的。这不是新话，但是在这个时候强调它就有新意
+    cite: b05-rfi-2011-07-15-cake
+  terms: [做蛋糕, 分蛋糕]
+  related: [happy-guangdong, common-prosperity, scientific-development]
+  voices:
+    - voice: zh
+      text: 两人的分别是，薄熙来要更平均的分好蛋糕，达到公平公义，而汪洋认为只要将蛋糕做大，群众得到的好处就自然更多。
+      cite: b05-rfi-2011-07-15-cake
+      quote: true
+    - voice: zh
+      text: 汪薄二人发展理念以及政治归属上的分歧，再一次明显地暴露在公众面前。
+      cite: b05-bbc-2011-08-23-cake
+      quote: true
+    - voice: official
+      text: 同样是做蛋糕，过去强调的只是做大蛋糕，并没有考虑做好蛋糕。现在讲转型升级，就是要以较小的社会成本去做质量高的蛋糕
+      cite: i03-cntv-2011-01-21-wang-yang-cake
+      quote: true
+    - voice: scholar
+      text: In 2011, the symbolic politics of the two places inspired what was dubbed the ‘cake debate’. It was the first time Communist Party leaders used the media to air contesting visions of regional development.
+      zh: 2011年，两地的象征政治引出了所谓的“蛋糕之争”。这是中共领导人第一次借媒体公开争论不同的区域发展路线。
+      cite: b05-chinastory-2012-cake
+      quote: true
+  cites:
+    - i02-gov-2010-gwr
+    - i03-cntv-2011-01-21-wang-yang-cake
+    - b05-rfi-2011-07-15-cake
+    - b05-bbc-2011-08-23-cake
+    - b05-chinastory-2012-cake
+
+- id: neo-authoritarianism
+  name: 新权威主义
+  en: Neo-authoritarianism
+  kind: trend
+  by: [wang-huning]
+  first:
+    date: 1986
+    text: 据吴稼祥回忆，新权威主义思潮1986年前后首先在上海兴起，当年复旦讲师王沪宁写文章论述现代化过程中的政治集权作用。
+    cite: i03-aisixiang-wu-jiaxiang-neo-authority
+    quote: 就我所了解的情况看，新权威主义思潮首先兴起于上海
+  summary: 新权威主义是1980年代后期中国知识界的一种主张：后发国家推进现代化和市场化时，需要强有力的政治权威维持秩序、推动改革，民主化要放在后面。吴稼祥回忆，这股思潮1986年起首先在上海兴起，王沪宁论述现代化中的政治集权作用，萧功秦提出“过渡权威论”；1989年1月《世界经济导报》刊出吴稼祥的《新权威主义述评》，引发公开论战。赵紫阳晚年对杨继绳说，他1988年向邓小平介绍过这种主张，邓答“我就是这个主张。但是不必用这个提法”；吴稼祥则把这次谈话记为1989年3月6日。萧功秦2013年称习近平是“中国新权威主义的2.0版本”，BBC 中文也报道许多学者把习近平集权看作新权威主义的表现。
+  quote:
+    text: 当时的中央主要领导向他汇报思想界流行的新权威主义思潮，他斩钉截铁地说，“我就是这个主张。”
+    cite: i03-aisixiang-wu-jiaxiang-neo-authority
+  terms: [新权威主义]
+  related: [statism, new-left, liberals, deng-theory]
+  voices:
+    - voice: witness
+      text: 1988年有一次我去小平那里。……我说有一种新权威主义，就是政治强人稳定形势发展经济。他说：”我就是这个主张。但是不必用这个提法。”
+      cite: i03-ipkmedia-zhao-ziyang-yang-jisheng
+      quote: true
+    - voice: zh
+      text: 紫阳对于“新权威主义”的提法，虽然没有明确地表示赞成或反对，但认为还是“有道理”的。
+      cite: i03-nytcn-2019-10-16-zhao-conversation
+      quote: true
+    - voice: west
+      text: In the nineteen-eighties, Wang helped devise what became known as the theory of “neo-authoritarianism”, the idea that developing countries like China needed a heavy-handed state to guide their market reforms.
+      zh: 1980年代，王沪宁参与构建了后来所称的“新权威主义”理论，即像中国这样的发展中国家需要一个强势国家来引导市场改革。
+      cite: b05-newyorker-wang-huning
+      quote: true
+    - voice: scholar
+      text: 如果邓小平是中国新权威主义的1.0版本，习近平就是中国新权威主义的2.0版本
+      cite: i03-aisixiang-2013-xiao-gongqin
+      quote: true
+    - voice: zh
+      text: 绝大部分观察家都能从1980年代末中国改革开放关键时期的赵紫阳时代的新权威主义模式和习近平目前的做法中找到许多共同之处
+      cite: i03-bbc-2014-03-18-xi-power
+      quote: true
+  cites:
+    - i03-aisixiang-wu-jiaxiang-neo-authority
+    - i03-ipkmedia-zhao-ziyang-yang-jisheng
+    - i03-nytcn-2019-10-16-zhao-conversation
+    - b05-newyorker-wang-huning
+    - b05-lrb-2023-wang-huning
+    - i03-aisixiang-2013-xiao-gongqin
+    - i03-bbc-2014-03-18-xi-power
+
+# ---------------- official formulas ----------------
+- id: happy-guangdong
+  name: 幸福广东
+  en: Happy Guangdong
+  kind: formula
+  by: [wang-yang]
+  first:
+    date: 2011-01-06
+    text: 汪洋在中共广东省委十届八次全会上提出，广东“十二五”的核心是加快转型升级、建设“幸福广东”。
+    cite: i03-chinanews-2011-01-06-happy-guangdong
+    quote: 落实到广东“十二五”的发展，核心就是要加快转型升级，建设“幸福广东”
+  codified:
+    - date: 2012-05-09
+      where: 广东省第十一次党代会报告
+      cite: b05-gd-2012-05-09-wang-yang-report
+      quote: 坚持改革开放，加快转型升级，建设幸福广东，从严管党治党，是这一总体要求的核心内容
+  summary: “幸福广东”是汪洋主政广东时的施政口号。2011年1月他在省委十届八次全会上提出，广东“十二五”的核心是加快转型升级、建设“幸福广东”，称转型升级是手段、“幸福广东”是目标，并提醒不要先造成“不幸福”再去追求“幸福”。此后广东编制了幸福广东指标体系。2012年省第十一次党代会报告把它列为今后五年总体要求的核心内容之一，并提出要破除“人民幸福是党和政府恩赐”的错误认识。汪洋还用“蛋糕”比喻它与转型升级的关系，由此引出与重庆薄熙来的“蛋糕论”分歧；自由亚洲电台评论说，口号提出后并没有看到政策上的突破。
+  quote:
+    text: 汪洋表示，对广东来说，转型升级是手段，“幸福广东”是目标。
+    cite: i03-chinanews-2011-01-06-happy-guangdong
+  terms: [幸福广东]
+  related: [cake-debate, scientific-development, harmonious-society]
+  voices:
+    - voice: official
+      text: 如果一提‘建设幸福广东’都只注意分蛋糕，而不注意如何转型升级，那么‘十二五’规划不可能实现，幸福广东就是无源之水、无本之木
+      cite: i03-cntv-2011-01-21-wang-yang-cake
+      quote: true
+    - voice: doc
+      text: 我们必须破除人民幸福是党和政府恩赐的错误认识，切实维护并发挥好人民群众建设幸福广东的主动性和创造性。
+      cite: b05-gd-2012-05-09-wang-yang-report
+      quote: true
+    - voice: zh
+      text: 汪洋在广东提出以“建设幸福广东”作为广东省十二五计划的核心，但究竟如何提升人民的幸福感，却并没有看到他在政策上有什么突破。
+      cite: i03-rfa-2011-06-29-wang-bo
+      quote: true
+  cites:
+    - i03-chinanews-2011-01-06-happy-guangdong
+    - i03-cntv-2011-01-21-wang-yang-cake
+    - b05-gd-2012-05-09-wang-yang-report
+    - i03-rfa-2011-06-29-wang-bo
+
+- id: one-country-two-systems
+  name: 一国两制
+  en: One Country, Two Systems
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1984-06-22
+    text: 邓小平会见香港工商界访京团和钟士元等人时系统阐述“一个国家，两种制度”（收入《邓小平文选》第三卷）。这是库内所见最早的原文；谈话本身说这一政策此前已讲过多次并经全国人大通过，更早的出处待考。
+    cite: i03-locpg-1984-06-22-deng-octs
+    quote: 我们的政策是实行“一个国家，两种制度”，具体说，就是在中华人民共和国内，十亿人口的大陆实行社会主义制度，香港、台湾实行资本主义制度
+  codified:
+    - date: 1982-12-04
+      where: 宪法第三十一条（1982年宪法，引现行文本）
+      cite: i01-gov-2018-03-11-constitution
+      quote: 国家在必要时得设立特别行政区。在特别行政区内实行的制度按照具体情况由全国人民代表大会以法律规定。
+    - date: 1992-10-12
+      where: 十四大报告
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: 在祖国统一的问题上，提出“一个国家、两种制度”的创造性构想
+    - date: 2021-11-11
+      where: 第三个历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 邓小平同志创造性提出“一个国家，两种制度”科学构想，开辟了以和平方式实现祖国统一的新途径
+  summary: “一国两制”是邓小平为解决香港、澳门和台湾问题提出的方针：在一个中国之内，大陆实行社会主义，港澳台保持资本主义制度。1982年宪法第三十一条为设立特别行政区留下依据；1984年6月邓小平会见香港访京团时系统阐述，承诺香港现行社会经济制度和生活方式不变、“五十年不变”，并提出以爱国者为主体的“港人治港”。此后香港、澳门先后回归。香港局势动荡之后，中央强调对特别行政区的“全面管治权”和“爱国者治港”，制定香港国安法并修改香港选举制度，第三个历史决议称香港实现了“由乱到治的重大转折”。对台湾，习近平2019年提出探索“两制”台湾方案。批评者如香港民主党创党主席李柱铭认为，“一国两制”已被外界视为走样。
+  quote:
+    text: “一国两制”是中国特色社会主义的伟大创举，是香港、澳门回归后保持长期繁荣稳定的最佳制度安排，必须长期坚持。
+    cite: i01-gov-2022-10-16-20th-report
+  terms: [一国两制, 一个国家，两种制度]
+  related: [deng-theory, rule-of-law, holistic-security]
+  voices:
+    - voice: doc
+      text: 港人治港有个界线和标准，就是必须由以爱国者为主体的港人来治理香港。
+      cite: i03-locpg-1984-06-22-deng-octs
+      quote: true
+    - voice: doc
+      text: 落实中央对特别行政区全面管治权，坚定落实“爱国者治港”、“爱国者治澳”
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+    - voice: doc
+      text: 第二，探索“两制”台湾方案，丰富和平统一实践。
+      cite: e03-gov-2019-01-02-taiwan-speech
+      quote: true
+    - voice: zh
+      text: 提出香港的高度自治权的限度在于中央如何授予，引发香港民众不安。
+      cite: c05-bbc-2022-11-10-bao-tong
+      quote: true
+    - voice: zh
+      text: 事至今天，“一国两制”被外界认为走向“一国一点多制”，但李柱铭仍然坚信当天的理念，香港可以带领国家走向民主。
+      cite: c04-bbc-2020-05-martin-lee
+      quote: true
+  cites:
+    - i03-locpg-1984-06-22-deng-octs
+    - i01-gov-2018-03-11-constitution
+    - i03-reformdata-1992-10-12-14th-report
+    - b04-gov-2021-11-16-resolution
+    - i01-gov-2022-10-16-20th-report
+    - e03-gov-2019-01-02-taiwan-speech
+    - c05-bbc-2022-11-10-bao-tong
+    - c04-bbc-2020-05-martin-lee
+
+- id: socialist-market-economy
+  name: 社会主义市场经济
+  en: Socialist Market Economy
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping, jiang-zemin]
+  first:
+    date: 1992-10-12
+    text: 江泽民在十四大报告中明确经济体制改革的目标是建立社会主义市场经济体制（库内所见最早出处），报告援引了邓小平当年初南方谈话关于计划与市场的论断。
+    cite: i03-reformdata-1992-10-12-14th-report
+    quote: 实践的发展和认识的深化，要求我们明确提出，我国经济体制改革的目标是建立社会主义市场经济体制，以利于进一步解放和发展生产力
+  codified:
+    - date: 1993-03
+      where: 宪法修正案（八届全国人大一次会议）
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: 国家实行社会主义市场经济
+    - date: 1993-11-14
+      where: 十四届三中全会《关于建立社会主义市场经济体制若干问题的决定》
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: 建立社会主义市场经济体制，就是要使市场在国家宏观调控下对资源配置起基础性作用
+    - date: 2013-11-12
+      where: 十八届三中全会《中共中央关于全面深化改革若干重大问题的决定》
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: 使市场在资源配置中起决定性作用和更好发挥政府作用
+    - date: 2024-07-18
+      where: 二十届三中全会决定
+      cite: i01-gov-2024-07-18-third-plenum-decision
+      quote: 构建高水平社会主义市场经济体制
+  summary: 社会主义市场经济是中共对改革后经济体制的定性：在公有制为主体、国家宏观调控的前提下由市场配置资源。1992年初邓小平南方谈话说“计划和市场都是经济手段”，同年10月江泽民在十四大报告中把建立社会主义市场经济体制定为经济体制改革的目标，要使市场“在社会主义国家宏观调控下对资源配置起基础性作用”。1993年3月写入宪法（“国家实行社会主义市场经济”），11月十四届三中全会勾画体制框架。2013年十八届三中全会把市场的作用从“基础性”改为“决定性”，同时要“更好发挥政府作用”；2024年二十届三中全会提出构建“高水平社会主义市场经济体制”。经济学家吴敬琏2013年说，只有推进市场化改革并加快民主化、法治化，增长模式转型才有可能实现。
+  quote:
+    text: 我们要建立的社会主义市场经济体制，就是要使市场在社会主义国家宏观调控下对资源配置起基础性作用
+    cite: i03-reformdata-1992-10-12-14th-report
+  terms: [社会主义市场经济]
+  related: [deng-theory, supply-side, common-prosperity, new-quality-productive-forces]
+  voices:
+    - voice: doc
+      text: 计划经济不等于社会主义，资本主义也有计划；市场经济不等于资本主义，社会主义也有市场。计划和市场都是经济手段。
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: true
+    - voice: doc
+      text: 市场决定资源配置是市场经济的一般规律，健全社会主义市场经济体制必须遵循这条规律，着力解决市场体系不完善、政府干预过多和监管不到位问题。
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: true
+    - voice: zh
+      text: 只有进一步推进市场化的经济体制改革和加快民主化、法治化的进程，经济增长模式转型才有可能实现，舍此绝无他途。
+      cite: c05-nytcn-2013-11-09-wu-jinglian
+      quote: true
+  cites:
+    - i03-reformdata-1992-10-12-14th-report
+    - e01-gov-2021-06-28-cpc-100y
+    - i01-gov-2018-03-11-constitution
+    - e03-gov-2013-11-15-reform-decision
+    - i01-gov-2024-07-18-third-plenum-decision
+    - c05-nytcn-2013-11-09-wu-jinglian
+
+- id: honor-disgrace
+  name: 八荣八耻
+  en: Eight Honors and Eight Disgraces
+  kind: formula
+  parent: scientific-development
+  by: [hu-jintao]
+  first:
+    date: 2006-03-04
+    text: 胡锦涛参加全国政协十届四次会议民盟、民进联组讨论时提出社会主义荣辱观，即“八荣八耻”。
+    cite: i03-sina-2006-03-05-honor-disgrace
+    quote: 要引导广大干部群众特别是青少年树立社会主义荣辱观，坚持以热爱祖国为荣、以危害祖国为耻……以艰苦奋斗为荣、以骄奢淫逸为耻
+  codified:
+    - date: 2007-10-21
+      where: 党章（十七大修正案）
+      cite: i01-gov-2007-10-21-17th-charter-resolution
+      quote: 倡导社会主义荣辱观
+    - date: 2022-10-22
+      where: 党章（二十大修正案，现行）
+      cite: i01-12371-2022-10-22-party-charter
+      quote: 培育和践行社会主义核心价值观，倡导社会主义荣辱观
+  summary: “八荣八耻”是胡锦涛2006年3月4日在全国政协会议民盟、民进联组讨论时提出的社会主义荣辱观，用八组荣耻对举的句子列出道德标准，从热爱祖国、服务人民到艰苦奋斗。同年5月中央精神文明建设指导委员会发文要求深入学习实践；8月胡锦涛把“树立社会主义荣辱观”列为十六大以来的重大战略思想之一。2007年十七大写入党章，现行党章仍写“倡导社会主义荣辱观”。2012年十八大报告一面要求党员干部“模范践行社会主义荣辱观”，一面提出“社会主义核心价值观”，现行党章把两者并列。美国之音引述学者陈奎德的话，批评它与官员贪腐的现实严重脱节。
+  quote:
+    text: 引导广大干部群众特别是青少年树立以“八荣八耻”为主要内容的社会主义荣辱观
+    cite: e01-cpc-dsj-2006
+  terms: [八荣八耻, 社会主义荣辱观]
+  related: [harmonious-society, scientific-development]
+  voices:
+    - voice: doc
+      text: 用社会主义荣辱观引领风尚
+      cite: b02-npc-2007-10-24-17th-report
+      quote: true
+    - voice: zh
+      text: 陈奎德认为，从毛泽东时代提出的“毫不利己，专门利人”，到胡锦涛的八荣八耻，都是口是心非的高调。中共干部带头搞贪污腐化让胡锦涛提出的所谓社会主义荣辱观显得极为虚伪。
+      cite: i03-voa-2006-03-30-honor-disgrace
+      quote: true
+  cites:
+    - i03-sina-2006-03-05-honor-disgrace
+    - e01-cpc-dsj-2006
+    - b02-npc-2007-10-24-17th-report
+    - i01-gov-2007-10-21-17th-charter-resolution
+    - i01-wsyu-2012-11-08-18th-report
+    - i01-12371-2022-10-22-party-charter
+    - i03-voa-2006-03-30-honor-disgrace
+
+- id: harmonious-world
+  name: 和谐世界
+  en: Harmonious World
+  kind: formula
+  parent: scientific-development
+  by: [hu-jintao]
+  first:
+    date: 2005-04-22
+    text: 胡锦涛在雅加达亚非峰会上讲话，提出推动不同文明“共同构建一个和谐世界”。
+    cite: i03-chinanews-2005-04-22-hu-asia-africa
+    quote: 推动不同文明友好相处、平等对话、发展繁荣，共同构建一个和谐世界
+  summary: “和谐世界”是胡锦涛时期的外交口号，与对内的“和谐社会”相对应。2005年4月胡锦涛在雅加达亚非峰会上首次提出“共同构建一个和谐世界”，同年9月在联合国成立60周年首脑会议上以《努力建设持久和平、共同繁荣的和谐世界》为题系统阐述，强调尊重文明多样性和各国自主选择发展道路。2006年中央外事工作会议把它写入外事工作目标，胡锦涛并把它列为十六大以来的重大战略思想之一；2007年十七大报告提出“推动建设持久和平、共同繁荣的和谐世界”，2012年十八大报告仍沿用。十九大、二十大报告和现行党章都不再出现这个词，外交主轴换成了人类命运共同体；詹姆斯敦基金会2014年的分析把它列为习近平外交论述中沿用的胡锦涛时期概念。
+  quote:
+    text: 只有世界所有国家紧密团结起来，共同把握机遇、应对挑战，才能为人类社会发展创造光明的未来，才能真正建设一个持久和平、共同繁荣的和谐世界
+    cite: i03-mfa-2005-09-15-hu-un
+  terms: [和谐世界]
+  related: [harmonious-society, peaceful-rise, community-shared-future, taoguang-yanghui]
+  voices:
+    - voice: doc
+      text: 第三，坚持包容精神，共建和谐世界。文明多样性是人类社会的基本特征，也是人类文明进步的重要动力。
+      cite: i03-mfa-2005-09-15-hu-un
+      quote: true
+    - voice: doc
+      text: 我们主张，各国人民携手努力，推动建设持久和平、共同繁荣的和谐世界。
+      cite: b02-npc-2007-10-24-17th-report
+      quote: true
+    - voice: scholar
+      text: Also included are building a “harmonious world” and achieving “win-win progress,” concepts introduced by Xi’s predecessor Hu Jintao.
+      zh: 其中还包括建设“和谐世界”和实现“共赢发展”，这些都是习近平的前任胡锦涛提出的概念。
+      cite: i03-jamestown-2014-major-country-diplomacy
+      quote: true
+  cites:
+    - i03-chinanews-2005-04-22-hu-asia-africa
+    - i03-mfa-2005-09-15-hu-un
+    - e01-cpc-dsj-2006
+    - b02-npc-2007-10-24-17th-report
+    - i01-wsyu-2012-11-08-18th-report
+    - i03-jamestown-2014-major-country-diplomacy
+
+- id: yingshou-jinshou
+  name: 应收尽收
+  en: Round Up Everyone Who Should Be Rounded Up
+  kind: formula
+  by: [chen-quanguo]
+  first:
+    date: 2002-03-05
+    text: 政府工作报告用于税收征管，要求依法治税“做到应收尽收”（库内所见最早出处）。
+    cite: i02-gov-2002-gwr
+    quote: 严格依法治税，做到应收尽收，堵塞“跑、冒、滴、漏”
+  summary: “应收尽收”原是财税用语，2002年起的政府工作报告多次要求税收征管“做到应收尽收”。2017年起它出现在新疆的内部文件中：《纽约时报》2019年11月披露的403页内部文件显示，2016年8月上任的新疆党委书记陈全国要求官员“应收尽收”，用于收押被认为有宗教极端或反政府“症状”的人；时报指出这个说法过去用于征税和粮食收成，现在被用到人身上。外交部发言人耿爽指责时报用“断章取义”的手法炒作所谓内部文件，但没有质疑文件的真实性。2020年初武汉新冠疫情期间，“应收尽收、应治尽治”又成为收治病人的口号。
+  quote:
+    text: 陈全国发布了一条影响广泛的命令：“应收尽收”。这个模糊说法自2017年开始，不断出现在内部文件中。
+    cite: b09-nyt-2019-11-16-xinjiang-papers
+  terms: [应收尽收]
+  related: [stability-maintenance, holistic-security, dynamic-zero]
+  voices:
+    - voice: west
+      text: 'The party had previously used the phrase — “ying shou jin shou” in Chinese — when demanding that officials be vigilant and comprehensive in collecting taxes or measuring harvests. Now it was being applied to humans in directives that ordered, with no mention of judicial procedures, the detention of anyone who displayed “symptoms” of religious radicalism or antigovernment views.'
+      zh: 中共过去在要求官员警惕、全面地征税或统计收成时用过这个说法。如今，它被用在针对人的指令中：这些指令只字不提司法程序，下令拘押任何显示出宗教极端或反政府“症状”的人。
+      cite: i03-nyt-2019-11-16-absolutely-no-mercy
+      quote: true
+    - voice: official
+      text: 《纽约时报》不仅对上述事实闭目塞听，甚至用移花接木、断章取义的拙劣手法炒作所谓“内部文件”，诬蔑抹黑中国新疆的反恐和去极端化努力，其居心何在？
+      cite: i03-mfa-2019-11-18-geng-shuang
+      quote: true
+    - voice: zh
+      text: 中国外交部发言人耿爽批评了时报周日发表的长篇报道，称其是污蔑抹黑中国打击极端主义的努力。但他没有对泄露出来的403页内部文件的真实性提出质疑。
+      cite: i03-nytcn-2019-11-19-china-responds
+      quote: true
+    - voice: official
+      text: 她强调，要坚定不移落实应收尽收，加快增设床位并提高收治能力，宁可让床等人，也不要让人等床。
+      cite: b11-gov-2020-02-11-sun-wuhan
+      quote: true
+  cites:
+    - i02-gov-2002-gwr
+    - i02-gov-2010-gwr
+    - b09-nyt-2019-11-16-xinjiang-papers
+    - i03-nyt-2019-11-16-absolutely-no-mercy
+    - i03-mfa-2019-11-18-geng-shuang
+    - i03-nytcn-2019-11-19-china-responds
+    - b11-people-2020-02-07-sun-wartime
+    - b11-gov-2020-02-11-sun-wuhan

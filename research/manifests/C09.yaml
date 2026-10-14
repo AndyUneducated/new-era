@@ -1,0 +1,308 @@
+# C09 dossier cards: trend thinkers, leaders' families, prelude figures (Deng Xiaoping, Hu Yaobang, Chen Xitong).
+web:
+  # --- 汪晖 ---
+  - id: c09-tsinghua-wang-hui
+    title: 汪晖（清华大学历史系教师简介）
+    publisher: 清华大学历史系
+    date: 2024
+    voice: official
+    url: https://www.lsx.tsinghua.edu.cn/info/1171/2174.htm
+    excerpt: true
+    keep: [ 清华大学首批文科资深教授, 2002年受聘为清华大学人文学院教授, 出任《读书》杂志执行主编 ]
+  - id: c09-chinastory-wang-hui
+    title: Wang Hui 汪晖
+    publisher: The China Story（澳大利亚国立大学中华全球研究中心）
+    voice: scholar
+    lang: en
+    url: https://www.thechinastory.org/key-intellectual/wang-hui-%E6%B1%AA%E6%99%96/
+    excerpt: true
+    keep: [ leading voice of China’s New Left, mouthpiece for an academic, plagiarism scandal, Chongqing Model developed under Bo ]
+
+  # --- 崔之元 ---
+  - id: c09-tsinghua-cui-zhiyuan
+    title: 崔之元（清华大学公共管理学院师资简介）
+    publisher: 清华大学公共管理学院
+    date: 2024
+    voice: official
+    url: https://www.sppm.tsinghua.edu.cn/info/1022/7425.htm
+    excerpt: true
+    keep: [ 1995年获美国芝加哥大学政治学博士学位 ]
+  - id: c09-ruc-2010-11-15-cui-zhiyuan
+    title: 崔之元讲座公告：再论重庆经验
+    publisher: 中国人民大学社会学理论与方法研究中心
+    date: 2010-11-15
+    voice: official
+    url: http://sociologyol.ruc.edu.cn/shxdt/xwgg/50cbfcef67e34d169b657930bdadf1f3.htm
+    excerpt: true
+    keep: [ 现任重庆市国资委主任助理, 再论重庆经验 ]
+  - id: c09-guancha-2012-03-21-cui-zhiyuan
+    title: 崔之元：我对重庆的看法不变
+    publisher: 观察者网
+    author: 崔之元
+    date: 2012-03-21
+    voice: witness
+    url: https://www.guancha.cn/Rural/2012_03_21_67530.shtml
+    excerpt: true
+    keep: [ 薄熙来同志2007年12月就任中共重庆市委书记 ]
+
+  # --- 王绍光 ---
+  - id: c09-iccs-wang-shaoguang
+    title: 王绍光（清华大学国情研究院专职学者简介）
+    publisher: 清华大学国情研究院
+    date: 2024
+    voice: official
+    url: https://www.iccs.tsinghua.edu.cn/expert_info/582.html
+    excerpt: true
+    keep: [ 香港中文大学荣休讲座教授 ]
+
+  # --- 甘阳 ---
+  - id: c09-tsinghua-xinya-2017-gan-yang
+    title: 清华大学聘任甘阳教授为新一任新雅书院院长
+    publisher: 清华大学新雅书院
+    date: 2017-09-11
+    voice: official
+    url: https://www.xyc.tsinghua.edu.cn/info/1061/1304.htm
+    excerpt: true
+    keep: [ 聘任原新雅书院总监甘阳教授为新一任清华大学新雅书院院长 ]
+  - id: c09-sysu-gan-yang
+    title: 甘阳（中山大学博雅学院荣休教师简介）
+    publisher: 中山大学博雅学院
+    date: 2023-06-19
+    voice: official
+    url: https://lac.sysu.edu.cn/jwsz/js04/1409625.htm
+    excerpt: true
+    keep: [ 新雅书院院长（2017-2022）, 先后任职于中国社科院哲学所 ]
+  - id: c09-rtcd-gan-yang-tongsantong
+    title: Gan Yang, “Unifying the Three Traditions” in the New Era（Introduction by David Ownby）
+    publisher: Reading the China Dream
+    author: David Ownby
+    voice: scholar
+    lang: en
+    url: https://www.readingthechinadream.com/gan-yang-tongsantong-chapter-1.html
+    excerpt: true
+    keep: [ Gan also identifies with many of the stances, chief editor of the influential book series ]
+
+  # --- 强世功 ---
+  - id: c09-chinastory-2018-jiang-shigong
+    title: Jiang Shigong on ‘Philosophy and History’
+    publisher: The China Story（澳大利亚国立大学中华全球研究中心）
+    author: David Ownby
+    date: 2018
+    voice: scholar
+    lang: en
+    url: https://www.thechinastory.org/cot/jiang-shigong-on-philosophy-and-history-interpreting-the-xi-jinping-era-through-xis-report-to-the-nineteenth-national-congress-of-the-ccp/
+    excerpt: true
+    keep: [ aims to be an authoritative statement, Jiang Shigong is no mere propagandist, 2005 lecture at Tsinghua, The New Left scholar Wang Shaoguang ]
+  - id: c09-tocqueville21-hong-kong-neostatism
+    title: The “Restructuring” of Hong Kong and the Rise of Neostatism
+    publisher: Tocqueville 21
+    author: Sebastian Veg
+    date: 2020-06-27
+    voice: scholar
+    lang: en
+    url: https://tocqueville21.com/le-club/the-restructuring-of-hong-kong-and-the-rise-of-neostatism/
+    excerpt: true
+    keep: [ four-year secondment ]
+
+  # --- 刘小枫 ---
+  - id: c09-illiberalism-liu-xiaofeng
+    title: Carl Schmitt, Liu Xiaofeng, and the Longevity of Chinese Empire
+    publisher: Illiberalism Studies Program（乔治·华盛顿大学）
+    voice: scholar
+    lang: en
+    url: https://www.illiberalism.org/carl-schmitt-liu-xiaofeng-and-the-longevity-of-chinese-empire/
+    excerpt: true
+    keep: [ leader of a Schmittian faction in China ]
+  - id: c09-aisixiang-2013-liu-xiaofeng-mao
+    title: 刘小枫：今天宪政的最大难题是如何评价毛泽东
+    publisher: 爱思想
+    author: 刘小枫
+    date: 2013-05-27
+    voice: witness
+    url: https://www.aisixiang.com/data/64051.html
+    excerpt: true
+    keep: [ 谁是中国现代的国父呢 ]
+
+  # --- 潘维 ---
+  - id: c09-thepaper-2024-07-02-pan-wei
+    title: 国政系成立六十周年专栏 | 潘维：与北大国际政治系结缘
+    publisher: 澎湃新闻（北京大学国际关系学院澎湃号）
+    author: 潘维
+    date: 2024-07-02
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_27715278
+    excerpt: true
+    keep: [ 北京大学中国与世界研究中心主任、国际关系学院教授, 直至2023年秋转去澳门大学并从北大退休 ]
+  # --- 张宏良 ---
+  - id: c09-rfi-2010-06-27-zhang-hongliang
+    title: 毛派学者张宏良博客被关闭
+    publisher: 法国国际广播电台
+    author: 曹国星
+    date: 2010-06-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20100627-%E6%AF%9B%E6%B4%BE%E5%AD%A6%E8%80%85%E5%BC%A0%E5%AE%8F%E8%89%AF%E5%8D%9A%E5%AE%A2%E8%A2%AB%E5%85%B3%E9%97%AD
+    excerpt: true
+    keep: [ 中国学术界毛派人物的代表, 在新浪网设置5年的博客, 最具道义合法性的社会群体 ]
+  # --- 范景刚 ---
+  - id: c09-voa-2011-05-24-mao-yushi
+    title: 毛派把对茅于轼举报状送交公安局检察院
+    publisher: 美国之音
+    date: 2011-05-24
+    voice: zh
+    url: https://www.voachinese.com/a/article-20110524-economists-faces-maoists-122496994/782162.html
+    excerpt: true
+    keep: [ 网站的负责人范景刚证实了这一消息, 言论自由是有边界的 ]
+  # --- 岳昕 ---
+  - id: c09-rfi-2018-10-23-yue-xin
+    title: 北大岳昕声援深圳佳士工运疑被失踪
+    publisher: 法国国际广播电台
+    date: 2018-10-23
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20181023-%E5%8C%97%E5%A4%A7%E5%B2%B3%E6%98%95%E5%A3%B0%E6%8F%B4%E6%B7%B1%E5%9C%B3%E4%BD%B3%E5%A3%AB%E5%B7%A5%E8%BF%90%E7%96%91%E8%A2%AB%E5%A4%B1%E8%B8%AA
+    excerpt: true
+    keep: [ 督促北京大学校方公开该校教授沈阳性侵案的真相, 但岳昕至今没有明确消息 ]
+  - id: c09-cna-2019-01-21-yue-xin
+    title: 佳士工人声援团：岳昕等4成员被迫拍认罪影片
+    publisher: 中央社
+    date: 2019-01-21
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201901210191.aspx
+    excerpt: true
+    keep: [ 強迫北京大學畢業生岳昕等4名成員拍攝認罪影片, 更加和黨站在一起 ]
+
+  # --- 王小东 ---
+  - id: c09-nytcn-2022-10-28-wang-xiaodong
+    title: 中国民族主义“教父”王小东：中国的民族主义走得太远
+    publisher: 纽约时报中文网
+    author: 王月眉
+    date: 2022-10-28
+    voice: zh
+    url: https://cn.nytimes.com/china/20221028/china-nationalism-wang-xiaodong/
+    excerpt: true
+    keep: [ 王小东现年66岁, 我被称为是中国民族主义的旗手, 他被该片激怒, 中国当今的民族主义显然是王小东帮助发起和塑造的那场运动的后裔, 糟糕且激进 ]
+  - id: c09-bbc-2009-03-24-china-unhappy
+    title: 《中国不高兴》 民族主义升级？
+    publisher: BBC 中文
+    author: 尚清
+    date: 2009-03-24
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7960000/newsid_7961800/7961818.stm
+    excerpt: true
+    keep: [ 惩罚外交, 当年发表《中国可以说不》的几名 ]
+
+  # --- 吴思 ---
+  - id: c09-rfa-2014-11-07-yanhuang
+    title: RFA独家：《炎黄春秋》高层掀辞职风波 胡德平尚未承诺任社长
+    publisher: 自由亚洲电台
+    date: 2014-11-07
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/meiti/ql2-11072014102954.html
+    excerpt: true
+    keep: [ 总编辑吴思口头提出辞职, 以敢言著称的政论月刊 ]
+  - id: c09-caixin-2013-05-27-wu-si
+    title: 吴思：如何消除潜规则
+    publisher: 财新网
+    author: 杜珂
+    date: 2013-05-27
+    voice: zh
+    url: https://special.caixin.com/2013-05-27/100532846.html
+    excerpt: true
+    keep: [ 采访了“潜规则”概念的提出者 ]
+  # --- 周志兴 ---
+  - id: c09-rfi-2016-10-03-gongshi
+    title: 自由派共识网突遭关闭创办人称“不知以后会怎样”
+    publisher: 法国国际广播电台
+    date: 2016-10-03
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20161003-%E8%87%AA%E7%94%B1%E6%B4%BE%E5%85%B1%E8%AF%86%E7%BD%91%E7%AA%81%E9%81%AD%E5%85%B3%E9%97%AD%E5%88%9B%E5%8A%9E%E4%BA%BA%E7%A7%B0%E2%80%9C%E4%B8%8D%E7%9F%A5%E4%BB%A5%E5%90%8E%E4%BC%9A%E6%80%8E%E6%A0%B7%E2%80%9D
+    excerpt: true
+    keep: [ 被视为立场偏向自由派的大陆网站, 立场属自由派的炎黄春秋, 现年64岁的周志兴, 周志兴也是该公司的执行长 ]
+  - id: c09-voa-2016-10-02-gongshi
+    title: 中国思想文化网站突然无法登录引关注
+    publisher: 美国之音
+    date: 2016-10-02
+    voice: zh
+    url: https://www.voachinese.com/a/china-web-site-20161002/3533508.html
+    excerpt: true
+    keep: [ 1987年创办中央文献出版社并任副社长的周志兴, 高层背景 ]
+
+  # --- 王冶坪 ---
+  - id: c09-gov-2022-12-05-jiang-cremation
+    title: 习近平等党和国家领导同志到医院为江泽民同志送别并护送遗体到八宝山火化
+    publisher: 中国政府网（新华社电）
+    date: 2022-12-05
+    voice: official
+    url: https://www.gov.cn/xinwen/2022-12/05/content_5730228.htm
+    excerpt: true
+    keep: [ 江泽民同志的夫人王冶坪率全家敬献的花篮, 习近平等向江泽民同志的夫人王冶坪和亲属表示深切慰问 ]
+
+  # --- 曾伟 ---
+  - id: c09-rfi-2014-06-27-tomorrow-luneng
+    title: 明天系“辟谣”：承认曾参与“鲁能重组”但并未外逃
+    publisher: 法国国际广播电台
+    date: 2014-06-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20140627-%E6%98%8E%E5%A4%A9%E7%B3%BB%E2%80%9C%E8%BE%9F%E8%B0%A3%E2%80%9D%EF%BC%9A%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%8F%82%E4%B8%8E%E2%80%9C%E9%B2%81%E8%83%BD%E9%87%8D%E7%BB%84%E2%80%9D%E4%BD%86%E5%B9%B6%E6%9C%AA%E5%A4%96%E9%80%83
+    excerpt: true
+    keep: [ 几家涉及这项私有化交易的公司均属肖建华名下, 文中所称曾先生从没有介入过鲁能重组, 应该指的是曾庆红的儿子曾伟 ]
+
+  # --- 邓小平 ---
+  - id: c09-gov-2024-08-22-xi-deng-120
+    title: 习近平：在纪念邓小平同志诞辰120周年座谈会上的讲话
+    publisher: 中国政府网（新华社电）
+    date: 2024-08-22
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202408/content_6969972.htm
+    start: 同志们，朋友们：
+    end: 努力为人类和平和发展的崇高事业作出新的更大贡献！
+  - id: c09-bbc-2001-hu-dragon-chair
+    title: 胡锦涛能否坐上“龙椅”？
+    publisher: BBC 中文
+    date: 2001-03-04
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_1200000/newsid_1201600/1201684.stm
+    excerpt: true
+    keep: [ 胡锦涛则是邓小平生前预先安排的第四代领导班子的核心, 埋下了江胡之争的伏笔 ]
+  - id: c09-cna-2022-10-08-deng-succession
+    title: 邓小平继承体制寿终 习近平开启新王朝
+    publisher: 中央社
+    date: 2022-10-08
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210080040.aspx
+    excerpt: true
+    keep: [ 主要的設計是「隔代指定接班」, 摧毀了鄧小平苦心創造的 ]
+
+  # --- 胡耀邦 ---
+  - id: c09-gov-2015-11-20-xi-hu-yaobang-100
+    title: 习近平：在纪念胡耀邦同志诞辰100周年座谈会上的讲话
+    publisher: 中国政府网（新华社电）
+    date: 2015-11-20
+    voice: doc
+    url: https://www.gov.cn/xinwen/2015-11/20/content_2969466.htm
+    start: 同志们，朋友们：
+    end: 这是我们对老一辈革命家的最好纪念。
+  - id: c09-bbc-2015-11-20-hu-yaobang-100
+    title: 习近平出席胡耀邦百年诞辰座谈会
+    publisher: BBC 中文
+    date: 2015-11-20
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/11/151120_hu_yaobang_100
+    excerpt: true
+    keep: [ 纵容自由化, 胡锦涛并没有出席, 胡耀邦因突发心脏病去世, 导火索 ]
+  # --- 陈希同 ---
+  - id: c09-bbc-2013-06-05-chen-xitong
+    title: 六四事件关键人物：陈希同
+    publisher: BBC 中文
+    date: 2013-06-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/06/130605_profile_chen_xitong
+    excerpt: true
+    keep: [ 2006年5月31日保外就医, 陈希同1995年4月因王宝森案件引咎辞职, 陈希同被法办是因为他与当时中共最高领导人江泽民内斗失败, 否认自己是北京戒严指挥部 ]
+  - id: c09-bbc-2012-05-29-chen-xitong-book
+    title: 陈希同坚称反对六四动乱立场不变
+    publisher: BBC 中文
+    date: 2012-05-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/05/120529_chen_xitong_yaojianfu
+    excerpt: true
+    keep: [ 反对动乱是他在六四时的基本态度, 他在镇压六四中的作用被夸大了 ]

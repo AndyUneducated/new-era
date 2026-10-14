@@ -1,0 +1,126 @@
+# B11: quotes for Yang Jiechi, Meng Jianzhu, Sun Chunlan, Chen Min'er, Huang Kunming.
+yang-jiechi:
+  - text: 美国没有资格居高临下同中国说话，中国人不吃这一套。与中国打交道，就要在相互尊重的基础上进行。
+    cite: b11-mfa-2021-03-19-yang-anchorage
+    kind: public
+    date: 2021-03-18
+    occasion: 安克雷奇中美高层战略对话开场发言
+    star: true
+  - text: 你们没有资格在中国的面前说，你们从实力的地位出发，跟中国谈话……中国人是不吃这一套的。
+    cite: b11-bbc-2021-03-20-anchorage-close
+    kind: adlib
+    date: 2021-03-18
+    occasion: 安克雷奇对话开场，回应布林肯、沙利文（据现场录像）
+  - text: 难道我们吃洋人的苦头还少吗？
+    cite: b11-bbc-2021-03-19-anchorage-plain
+    kind: adlib
+    date: 2021-03-18
+    occasion: 安克雷奇中美高层战略对话
+  - text: 中美有过对抗的年代，中国都挺过来了。事实证明，对抗对美国没有好处。
+    cite: b11-mfa-2021-03-19-yang-anchorage
+    kind: public
+    date: 2021-03-18
+    occasion: 安克雷奇中美高层战略对话开场发言
+  - text: China is a big country and other countries are small countries and that is just a fact.
+    zh: 中国是大国，其他国家是小国，这就是事实。
+    cite: b11-jamestown-2010-china-missteps
+    kind: leaked
+    date: 2010-07
+    occasion: 东盟地区论坛河内会议，对新加坡外长（据与会者转述）
+
+meng-jianzhu:
+  - text: 对暴力恐怖犯罪活动坚决严厉打击，就是对各族人民群众的最大保护和热爱。
+    cite: b11-people-2017-08-29-meng-xinjiang
+    kind: public
+    date: 2017-08
+    occasion: 在新疆调研
+    star: true
+  - text: 始终保持严打高压态势，坚决打掉暴力恐怖分子的嚣张气焰
+    cite: b11-12371-2013-06-30-meng-xinjiang
+    kind: public
+    date: 2013-06-30
+    occasion: 在新疆和田、阿克苏慰问公安民警
+  - text: 对那些残害我各族同胞的凶手，要坚决依法严惩，绝不手软！
+    cite: b11-cctv-2009-07-08-meng-urumqi
+    kind: public
+    date: 2009-07-08
+    occasion: 乌鲁木齐“7·5”事件后赴新疆
+  - text: 在以前确实起到了很重要的作用，但是现在局势改变了
+    cite: b11-nytcn-2013-01-08-laojiao-reform
+    kind: leaked
+    date: 2013-01-07
+    occasion: 全国政法工作会议上谈劳教制度（据《法制日报》记者陈东升转述）
+  - text: 把以人为本、公平正义作为法治建设的灵魂
+    cite: b11-gov-2013-01-07-meng-zhengfa-meeting
+    kind: public
+    date: 2013-01-07
+    occasion: 全国政法工作电视电话会议
+
+sun-chunlan:
+  - text: 战时状态决不能当逃兵，否则就会被钉在历史的耻辱柱上。
+    cite: b11-people-2020-02-07-sun-wartime
+    kind: public
+    date: 2020-02-06
+    occasion: 武汉市疫情全面排查动员部署会
+    star: true
+  - text: 宁可让床等人，也不要让人等床。
+    cite: b11-gov-2020-02-11-sun-wuhan
+    kind: public
+    date: 2020-02-11
+    occasion: 考察武汉方舱医院
+  - text: 我们早日实现社会面清零的目标指日可待。
+    cite: b06-cctv-2022-04-17-shanghai-zero
+    kind: interview
+    date: 2022-04
+    occasion: 在上海督导疫情防控，接受央视采访
+  - text: 随着奥密克戎病毒致病性的减弱、疫苗接种的普及、防控经验的积累，我国疫情防控面临新形势新任务。
+    cite: b11-gov-2022-11-30-sun-new-situation
+    kind: public
+    date: 2022-11-30
+    occasion: 在国家卫健委听取专家意见的座谈会
+
+chen-miner:
+  - text: 中央派我到重庆来，我就是重庆的一员。
+    cite: b11-chinanews-2017-07-15-chen-chongqing
+    kind: public
+    date: 2017-07-15
+    occasion: 就任重庆市委书记的领导干部会议
+    star: true
+  - text: 坚决清除“薄王”案件的恶劣影响
+    cite: b11-chinanews-2017-07-15-chen-chongqing
+    kind: public
+    date: 2017-07-15
+    occasion: 就任重庆市委书记的领导干部会议
+  - text: 党中央对孙政才严重违纪案的处理决定，完全正确，非常英明，十分及时
+    cite: b11-ifeng-2017-10-20-chen-presser
+    kind: interview
+    date: 2017-10-19
+    occasion: 十九大重庆代表团开放日答记者问
+  - text: 把清除孙政才恶劣影响与肃清“薄、王”思想遗毒结合起来，全面、干净、彻底清除恶劣影响。
+    cite: b11-ifeng-2017-10-20-chen-presser
+    kind: interview
+    date: 2017-10-19
+    occasion: 十九大重庆代表团开放日答记者问
+
+huang-kunming:
+  - text: 习近平总书记作为党中央的核心、全党的核心，是众望所归，当之无愧、名副其实。
+    cite: b11-people-2016-10-28-huang-core
+    kind: public
+    date: 2016-10-28
+    occasion: 中宣部十八届六中全会新闻发布会
+    star: true
+  - text: 习近平总书记成为党的核心，是全党的高度共识。
+    cite: b11-people-2016-10-28-huang-core
+    kind: public
+    date: 2016-10-28
+    occasion: 中宣部十八届六中全会新闻发布会
+  - text: 宣传思想文化战线要把学习宣传贯彻党的十九大精神作为首要政治任务
+    cite: b11-xinhua-2017-10-30-huang-propaganda
+    kind: public
+    date: 2017-10-30
+    occasion: 中宣部学习宣传贯彻十九大精神电视电话会议
+  - text: 自觉做好新时代新征程上为民服务的孺子牛、创新发展的拓荒牛、艰苦奋斗的老黄牛
+    cite: b11-gd-2022-10-28-huang-guangdong
+    kind: public
+    date: 2022-10-28
+    occasion: 就任广东省委书记的全省领导干部会议

@@ -1,7 +1,7 @@
 // Stage 2: unique ids, references between records, cited sources, verbatim quotes.
 import { FACTION_VOICES } from '../../src/data/schema.ts'
 import { quoteMisses } from '../../src/lib/quotes.ts'
-import { BATCH, errors, warnings } from './io.ts'
+import { BATCH, errors, inflightSource, warnings } from './io.ts'
 import type { Data } from './load.ts'
 
 export function check(d: Data) {
@@ -24,7 +24,8 @@ export function check(d: Data) {
   for (const s of d.sources) if (!s.id.startsWith('wd-')) byUrl.set(s.url, [...(byUrl.get(s.url) ?? []), s.id])
   for (const [url, ids] of byUrl) {
     if (ids.length < 2) continue
-    const earlier = ids.filter((id) => !own || !id.startsWith(own))
+    // two batches of the same round may register a page at the same time; only integrated ones count
+    const earlier = ids.filter((id) => !own || (!id.startsWith(own) && !inflightSource(id)))
     if (own && earlier.length && earlier.length < ids.length) errors.push(`${ids.filter((id) => id.startsWith(own)).join(', ')}: already registered as ${earlier[0]}, cite that (${url})`)
     else warnings.push(`one page, several sources: ${ids.join(', ')} (${url})`)
   }

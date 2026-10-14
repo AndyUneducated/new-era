@@ -16,7 +16,7 @@ import {
   type Quote,
   type Source,
 } from '../../src/data/schema.ts'
-import { errors, exists, load, path, read, yamlFiles } from './io.ts'
+import { errors, exists, load, otherInflight, path, read, yamlFiles } from './io.ts'
 
 export type Data = ReturnType<typeof loadAll>
 
@@ -40,12 +40,19 @@ export function wikidataText(r: WikidataRec): string {
 
 function loadSources() {
   const hasText = (id: string) => exists('sources', 'text', `${id}.txt`)
-  const web = yamlFiles('research', 'manifests').flatMap((p) => {
-    const m = (read(...p) ?? {}) as { web?: Record<string, unknown>[] }
+  const sources: Source[] = yamlFiles('research', 'manifests').flatMap((p) => {
+    let m: { web?: Record<string, unknown>[] }
+    try {
+      m = read(...p) ?? {}
+    } catch (e) {
+      if (otherInflight(p[2])) return []
+      throw e
+    }
     // start/end/keep/article only steer the fetcher
-    return (m.web ?? []).map(({ start, end, keep, article, ...s }) => ({ ...s, hasText: hasText(String(s.id)) }))
+    const web = (m.web ?? []).map(({ start, end, keep, article, ...s }) => ({ ...s, hasText: hasText(String(s.id)) }))
+    if (otherInflight(p[2])) return web.filter((s) => SourceSchema.safeParse(s).success) as Source[]
+    return load(SourceSchema, web, p.join('/'))
   })
-  const sources: Source[] = load(SourceSchema, web, 'manifests')
   const texts = new Map<string, string>()
   for (const s of sources) if (s.hasText) texts.set(s.id, readFileSync(path('sources', 'text', `${s.id}.txt`), 'utf8'))
 

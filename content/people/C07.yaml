@@ -1,0 +1,512 @@
+# C07 dossier cards (tier 2): Xi-era officials and faction figures
+- id: zhong-shaojun
+  name: 钟绍军
+  gender: m
+  born: 1968-10-19
+  birthplace: 浙江开化
+  roles: [general, cc]
+  status: purged
+  statusNote: 2025 年 10 月卸任国防大学政委；2026 年 8 月 28 日被中央军委办公厅军人代表大会罢免全国人大代表职务，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-08-28, text: 中央军委办公厅军人代表大会决定罢免其第十四届全国人大代表职务，代表资格终止, cite: c07-xinhua-2026-08-28-npc-deputies }
+  tier: 2
+  headline: 中央军委办公厅主任（2017–2024）、习近平长期贴身秘书
+  bio: >-
+    浙江开化人，习近平主政浙江、上海及进入中央时期的长期贴身秘书，据报道也是习离开浙江时唯一带走的浙江本土干部。
+    2013 年毫无军队资历即空降军委办公厅，2017 年任主任，2019 年晋中将；2024 年转任国防大学政委，2025 年 10 月卸任，2026 年 8 月与张又侠同日被罢免人大代表资格。
+  positions:
+    - { title: 浙江省委组织部副部长, sys: party, place: 浙江, cite: c07-wiki-zhong-shaojun }
+    - { title: 上海市委办公厅副主任, sys: party, place: 上海, from: 2007, cite: c07-wiki-zhong-shaojun }
+    - { title: 中共中央办公厅调研室政治组组长, sys: party, cite: c07-wiki-zhong-shaojun }
+    - { title: 中央军委办公厅副主任兼中央军委主席办公室主任, sys: army, from: 2013-06, to: 2017-08, cite: c07-wiki-zhong-shaojun }
+    - { title: 中央军委办公厅主任, sys: army, from: 2017-08, to: 2024-04, cite: b08-voa-2026-08-28-zhang-liu }
+    - { title: 国防大学政治委员, sys: army, from: 2024, to: 2025-10, cite: b08-voa-2026-08-28-zhang-liu }
+  factions:
+    - f: xi-shanghai
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 上海旧部丁薛祥（中央办公厅常务副主任）、钟绍军（中央军委办公厅副主任）
+    - f: zhijiang
+      cite: b11-bbc-2015-07-31-chen-guizhou
+      quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军……堪称是一支“之江新军”
+    - f: mishu
+      cite: b08-voa-2026-08-28-zhang-liu
+      quote: 钟绍军曾长期担任习近平在浙江、上海及中央工作时期的贴身秘书
+  ids: { wikidata: Q22098996 }
+  cites: [wd-Q22098996, c07-wiki-zhong-shaojun, c07-rfa-2022-01-28-zhijiang, b08-voa-2026-08-28-zhang-liu, c07-xinhua-2026-08-28-npc-deputies]
+
+- id: song-tao
+  name: 宋涛
+  gender: m
+  ethnicity: 汉族
+  born: 1955-04
+  birthplace: 江苏宿迁
+  roles: [minister, hkmt]
+  status: active
+  statusNote: 现任中台办、国台办主任，十四届全国政协常委。
+  tier: 2
+  headline: 中共中央对外联络部部长（2015–2022）、国台办主任（2022– ）
+  bio: >-
+    1973 年在福建沙县插队，此后二十多年在福建林学院、轻工业研究所等单位工作，与习近平主政福建时期重叠。
+    2008 年起任外交部纪委书记、副部长，2015–2022 年任中联部部长，多次以“习近平特使”身份出访；2022 年底以 67 岁、非中央委员身份出任国台办主任。
+  positions:
+    - { title: 福建林学院、福建省轻工业研究所等单位工作, sys: other, place: 福建, from: 1978, to: 2001, cite: c07-rfa-2022-12-29-song-tao }
+    - { title: 外交部纪委书记、党委委员, sys: gov, from: 2008-08, to: 2011-09, cite: c07-zaobao-2022-12-28-song-tao }
+    - { title: 外交部副部长, sys: gov, from: 2011-09, to: 2013-11, cite: c07-zaobao-2022-12-28-song-tao }
+    - { title: 中央外事工作领导小组办公室副主任（2014 年 9 月起主持常务工作）, sys: party, from: 2013-11, to: 2015-11, cite: c07-zaobao-2022-12-28-song-tao }
+    - { title: 中共中央对外联络部部长, sys: party, from: 2015-11, to: 2022-06, cite: c07-zaobao-2022-12-28-song-tao }
+    - { title: 全国政协教科卫体委员会副主任, sys: other, from: 2022-06, cite: c07-rfa-2022-12-29-song-tao }
+    - { title: 中共中央台湾工作办公室、国务院台湾事务办公室主任, sys: party, from: 2022-12, cite: c07-gwytb-song-tao }
+  factions:
+    - f: fujian
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 习在福建工作时的“朋友圈”中也有多人在十八大后获得重要升迁，如中联部长宋涛
+  ids: { wikidata: Q9128790 }
+  cites: [wd-Q9128790, c07-gwytb-song-tao, c07-zaobao-2022-12-28-song-tao, c07-rfa-2022-12-29-song-tao]
+
+- id: ji-wenlin
+  name: 冀文林
+  gender: m
+  ethnicity: 汉族
+  born: 1966-07
+  birthplace: 内蒙古凉城
+  joinedParty: 1994-08
+  joinedWork: 1989-07
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2016 年 3 月以受贿罪被判有期徒刑 12 年。
+  fall:
+    - { date: 2014-02, text: 与郭永祥等周永康前秘书一同被曝接受中纪委审查, cite: b03-bbc-2014-02-22-zhou-secretaries }
+    - { date: 2014-07-02, text: 被开除党籍、行政开除, cite: c07-people-2014-07-02-ji-wenlin }
+    - { date: 2016-03-30, text: 天津一中院以受贿罪判处有期徒刑 12 年，受贿 2046 万余元, cite: c07-court-2016-03-30-ji-wenlin }
+  tier: 2
+  headline: 海南省原副省长、周永康前秘书
+  bio: >-
+    1998–2008 年接替沈定成任周永康专职秘书十年，随周辗转四川省委、公安部和中央维稳办。
+    此后任国土资源部办公厅主任，2010 年调海南，官至副省长兼海口市长；2014 年落马，法院认定其部分受贿发生在秘书任上。
+  positions:
+    - { title: 周永康秘书（四川省委常委办公室副主任、公安部办公厅副主任、中央维稳办副主任）, sys: party, from: 1998, to: 2008, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { title: 国土资源部办公厅主任, sys: gov, from: 2008, to: 2010, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { title: 海口市副市长、市长, sys: gov, place: 海南, from: 2010, to: 2013-01, cite: c07-court-2016-03-30-ji-wenlin }
+    - { title: 海南省副省长、海口市委副书记、市长, sys: gov, place: 海南, from: 2013-01, to: 2014-02, cite: c07-people-2014-07-02-ji-wenlin }
+  factions:
+    - f: zhou-clique
+      cite: f02-bjnews-2015-10-14-zhou-disciples
+      quote: 两名打上周永康“门徒”标签的官员被押上被告席：李东生、冀文林
+  ids: { wikidata: Q8973609 }
+  cites: [wd-Q8973609, c07-people-2014-07-02-ji-wenlin, c07-court-2016-03-30-ji-wenlin, c07-bbc-2016-03-30-ji-wenlin, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: wu-changshun
+  name: 武长顺
+  aka: [武爷]
+  gender: m
+  ethnicity: 汉族
+  born: 1954-01
+  birthplace: 天津
+  roles: [tiger]
+  status: detained
+  statusNote: 2017 年 5 月被判死缓，期满减为无期徒刑后终身监禁，不得减刑、假释。
+  fall:
+    - { date: 2014-07-20, text: 被查, cite: c07-hkcd-2016-06-04-wu-changshun }
+    - { date: 2015-02-13, text: 被开除党籍、开除公职，同日最高检立案侦查, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { date: 2017-05-27, text: 郑州中院以贪污、受贿、挪用公款、单位行贿、滥用职权、徇私枉法六罪判处死缓并终身监禁, cite: c07-court-2017-05-27-wu-changshun }
+  tier: 2
+  headline: 天津市公安局原局长、市政协原副主席
+  bio: >-
+    中学毕业即进入天津公安交管系统，在天津公安系统深耕 44 年，任公安局长长达 11 年，人称“武爷”。
+    2011 年兼任天津市政协副主席；2014 年落马，2017 年以六项罪名被判死缓并终身监禁。
+  positions:
+    - { title: 天津市公安局局长, sys: gov, place: 天津, to: 2014-07, cite: c07-wiki-wu-changshun }
+    - { title: 天津市政协副主席, sys: other, place: 天津, from: 2011-10, to: 2014-07, cite: c07-wiki-wu-changshun }
+    - { title: 天津市公安系统任职（交管、公安局副局长等）, sys: gov, place: 天津, to: 2014-07, cite: c07-hkcd-2016-06-04-wu-changshun }
+  factions:
+    - f: zhou-clique
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 据媒体报道，武长顺与周永康关系不错，周永康很赏识武长顺
+  ids: { wikidata: Q17499337 }
+  cites: [wd-Q17499337, c07-court-2017-05-27-wu-changshun, c07-hkcd-2016-06-04-wu-changshun, c07-wiki-wu-changshun, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: xu-lin
+  name: 徐麟
+  gender: m
+  ethnicity: 汉族
+  born: 1963-06
+  birthplace: 上海
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 现任贵州省委书记、省人大常委会主任。
+  tier: 2
+  headline: 中央网信办主任（2016–2018）、贵州省委书记（2022– ）
+  bio: >-
+    上海农口出身，历任农工商集团董事长、民政局长，2007 年进入上海市委常委，在习近平短暂主政上海时直接在其手下工作。
+    2016 年接替鲁炜执掌中央网信办，此后任国新办主任、广电总局局长，2022 年底主政贵州；十九届、二十届中央委员。
+  positions:
+    - { title: 上海市委常委（先后兼市农委主任、浦东新区区委书记、宣传部部长）, sys: party, place: 上海, from: 2007-05, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 中央网信办（国家网信办）副主任, sys: party, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 中央宣传部副部长、中央网信办（国家网信办）主任, sys: party, from: 2016-06, to: 2018-08, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 中央宣传部副部长、国务院新闻办公室主任, sys: party, from: 2018-08, to: 2022-05, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 中央宣传部副部长、国家广播电视总局局长, sys: gov, from: 2022-05, to: 2022-12, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2022-12, cite: c07-chinanews-2023-01-17-xu-lin }
+    - { title: 贵州省人大常委会主任, sys: other, place: 贵州, from: 2023-01, cite: c07-chinanews-2023-01-17-xu-lin }
+  factions:
+    - f: xi-shanghai
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 上海旧部丁薛祥……徐麟（中宣部副部长兼网信办主任）
+  ids: { wikidata: Q22100001 }
+  cites: [wd-Q22100001, c07-chinanews-2023-01-17-xu-lin, c07-chinanews-2026-09-23-xu-lin, b12-nytcn-2017-11-22-lu-wei]
+
+- id: du-jiahao
+  name: 杜家毫
+  gender: m
+  born: 1955-07
+  birthplace: 上海
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国人大农业与农村委员会主任委员。
+  tier: 2
+  headline: 湖南省委书记（2016–2020）、全国人大农业与农村委员会主任委员
+  bio: >-
+    长期在上海基层任职，历任松江县委书记、杨浦区委书记，2004–2007 年任上海市委常委、浦东新区区委书记，与习近平在上海短暂共事。
+    2007 年底调黑龙江任常务副省长，2013 年起主政湖南，先后任省长、省委书记；离任后转入全国人大。
+  positions:
+    - { title: 上海市松江县委书记, sys: party, place: 上海, from: 1993-01, to: 1998-07, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 上海市杨浦区委书记, sys: party, place: 上海, from: 1999-10, to: 2003-02, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 上海市委常委、浦东新区区委书记, sys: party, place: 上海, from: 2004-04, to: 2007-12, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 黑龙江省委常委、常务副省长, sys: gov, place: 黑龙江, from: 2007-12, to: 2011-04, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 黑龙江省委副书记、政法委书记, sys: party, place: 黑龙江, from: 2012-05, to: 2013-03, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 湖南省省长, sys: gov, place: 湖南, from: 2013-05, to: 2016-09, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2016-08, to: 2020-11, cite: c07-people-2018-01-29-du-jiahao }
+    - { title: 全国人大农业与农村委员会主任委员, sys: other, from: 2023-03, cite: c07-people-2026-08-31-du-jiahao }
+  factions:
+    - f: xi-shanghai
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 上海旧部丁薛祥……杜家毫（湖南省委书记）
+  ids: { wikidata: Q8292424 }
+  cites: [wd-Q8292424, c07-people-2018-01-29-du-jiahao, c07-people-2026-08-31-du-jiahao]
+
+- id: chen-hao
+  name: 陈豪
+  gender: m
+  ethnicity: 汉族
+  born: 1954-02
+  birthplace: 江苏海门
+  roles: [cc, prov]
+  status: retired
+  statusNote: 2023 年 3 月卸任全国人大民族委员会副主任委员后退休。
+  tier: 2
+  headline: 云南省委书记（2016–2020）、中华全国总工会党组书记
+  bio: >-
+    长期在上海市委机关工作，1999–2003 年任市委副秘书长、办公厅主任，后任上海市人大副主任兼总工会主席。
+    2010 年进京任全总党组副书记、书记处第一书记，2014 年调任云南代省长，2016–2020 年任云南省委书记；第十九届中央委员。
+  positions:
+    - { title: 上海市委副秘书长、办公厅主任, sys: party, place: 上海, from: 1999-11, to: 2003-02, cite: c07-ce-2020-11-25-chen-hao }
+    - { title: 上海市人大常委会副主任、市总工会主席, sys: other, place: 上海, from: 2003-02, to: 2010-11, cite: c07-ce-2020-11-25-chen-hao }
+    - { title: 中华全国总工会副主席、书记处第一书记、党组书记, sys: other, from: 2010-11, to: 2014-10, cite: c07-ce-2020-11-25-chen-hao }
+    - { title: 云南省省长, sys: gov, place: 云南, from: 2014-10, to: 2016-12, cite: c07-ce-2020-11-25-chen-hao }
+    - { title: 云南省委书记, sys: party, place: 云南, from: 2016-08, to: 2020-11, cite: c07-wiki-chen-hao }
+    - { title: 云南省人大常委会主任, sys: other, place: 云南, from: 2017-01, to: 2020-11, cite: c07-ce-2020-11-25-chen-hao }
+    - { title: 全国人大民族委员会副主任委员, sys: other, from: 2020-12, to: 2023-03, cite: c07-wiki-chen-hao }
+  factions:
+    - f: xi-shanghai
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 上海旧部丁薛祥……陈豪（云南省委书记）
+  ids: { wikidata: Q15933205 }
+  cites: [wd-Q15933205, c07-ce-2020-11-25-chen-hao, c07-wiki-chen-hao]
+
+- id: lu-hao
+  name: 陆昊
+  gender: m
+  born: 1967-06-21
+  birthplace: 陕西西安
+  origin: 上海
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 现任国务院发展研究中心主任、党组书记。
+  tier: 2
+  headline: 共青团中央第一书记（2008–2013）、自然资源部部长（2018–2022）
+  bio: >-
+    北京大学学生会主席出身，二十多岁即任北京制呢厂厂长，后任中关村管委会主任、北京副市长。
+    2008–2013 年任团中央第一书记，被视为团派新生代；此后任黑龙江省长、自然资源部部长，2022 年转任国务院发展研究中心党组书记。
+  positions:
+    - { title: 北京制呢厂厂长, sys: other, place: 北京, from: 1995-11, to: 1998-12, cite: c07-thepaper-2022-06-23-lu-hao }
+    - { title: 中关村科技园区管委会主任, sys: gov, place: 北京, from: 1999-11, to: 2003-01, cite: c07-thepaper-2022-06-23-lu-hao }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 2003-01, to: 2008-04, cite: c07-thepaper-2022-06-23-lu-hao }
+    - { title: 共青团中央书记处第一书记, sys: party, from: 2008-04, to: 2013-03, cite: c07-thepaper-2022-06-23-lu-hao }
+    - { title: 黑龙江省省长, sys: gov, place: 黑龙江, from: 2013-03, to: 2018-03, cite: c07-thepaper-2022-06-23-lu-hao }
+    - { title: 自然资源部部长, sys: gov, from: 2018-03, to: 2022-06, cite: c02-rmzxw-2018-03-19-state-council }
+    - { title: 国务院发展研究中心党组书记、主任, sys: gov, from: 2022-06, cite: c07-thepaper-2022-06-23-lu-hao }
+  factions:
+    - f: tuanpai
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: from the Youth League group such as Li Yuanchao, Liu Qibao and Lu Hao
+      zh: 来自共青团派系，如李源潮、刘奇葆和陆昊
+  ids: { wikidata: Q997411 }
+  cites: [wd-Q997411, c07-thepaper-2022-06-23-lu-hao, c07-drc-2026-03-25-lu-hao, c02-rmzxw-2018-03-19-state-council]
+
+- id: guo-yongxiang
+  name: 郭永祥
+  gender: m
+  born: 1949-02
+  birthplace: 山东临邑
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2015 年 10 月被判有期徒刑 20 年。
+  fall:
+    - { date: 2013-06, text: 中纪委宣布其涉嫌严重违纪，接受组织调查, cite: c07-jiemian-2015-10-13-guo-yongxiang }
+    - { date: 2014-04-09, text: 被开除党籍、开除公职, cite: c07-people-2014-04-09-guo-yongxiang }
+    - { date: 2015-10-13, text: 宜昌中院以受贿、巨额财产来源不明罪判处有期徒刑 20 年, cite: c07-jiemian-2015-10-13-guo-yongxiang }
+  tier: 2
+  headline: 四川省委原常委、副省长，周永康“心腹大秘”
+  bio: >-
+    周永康在中石油、国土资源部和四川任职时一路跟随，先后任中石油处长、国土部办公厅主任和四川省委秘书长。
+    周离川后升任四川省委常委、副省长，2009 年转任省文联主席；2013 年成为十八大后周永康系最早落马的高官之一。
+  positions:
+    - { title: 中石油处长, sys: other, cite: b03-bbc-2013-08-30-zhou-clique }
+    - { title: 国土资源部办公厅主任, sys: gov, cite: b03-bbc-2013-08-30-zhou-clique }
+    - { title: 四川省委副秘书长、秘书长、办公厅主任, sys: party, place: 四川, from: 2000-01, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { title: 四川省委常委、副省长, sys: gov, place: 四川, to: 2009, cite: c07-jiemian-2015-10-13-guo-yongxiang }
+    - { title: 四川省文联主席, sys: other, place: 四川, from: 2009, to: 2013-06, cite: b03-cnr-2015-10-15-zhou-disciples }
+  factions:
+    - f: zhou-clique
+      cite: b03-bbc-2013-08-30-zhou-clique
+      quote: 郭永祥一直紧随其后，担任中石油处长、国土资源部办公厅主任、四川省委秘书长等职，被人称为周永康的“心腹大秘”
+  ids: { wikidata: Q15831780 }
+  cites: [wd-Q15831780, c07-people-2014-04-09-guo-yongxiang, c07-jiemian-2015-10-13-guo-yongxiang, b03-bbc-2013-08-30-zhou-clique, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: li-chongxi
+  name: 李崇禧
+  gender: m
+  born: 1951-01
+  birthplace: 四川简阳
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2015 年 11 月以受贿罪被判有期徒刑 12 年。
+  fall:
+    - { date: 2014-09-11, text: 被开除党籍、开除公职, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { date: 2015-11-03, text: 南昌中院以受贿罪判处有期徒刑 12 年，受贿折合 1109 万余元, cite: c07-people-2015-11-03-li-chongxi }
+  tier: 2
+  headline: 四川省政协原主席、原省纪委书记
+  bio: >-
+    长期在四川纪检系统任职，历任阿坝州委书记、四川省委秘书长，2002–2007 年任省委副书记兼省纪委书记。
+    此后任省人大常委会副主任，2013 年 1 月当选四川省政协主席，一年后落马；法院认定其受贿时间跨越纪委书记任期。
+  positions:
+    - { title: 中共四川省纪委二室干事、副主任、主任, sys: party, place: 四川, from: 1982-08, to: 1993-04, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 中共阿坝州委书记, sys: party, place: 四川, from: 1996-03, to: 2000-08, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 中共四川省委常委、秘书长, sys: party, place: 四川, from: 2000-08, to: 2002-05, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 中共四川省委副书记、省纪委书记, sys: party, place: 四川, from: 2002-05, to: 2007-05, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 中共四川省委副书记, sys: party, place: 四川, from: 2007-05, to: 2011-09, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 四川省人大常委会副主任, sys: other, place: 四川, from: 2011-01, to: 2014-01, cite: c07-chinanews-2014-09-11-li-chongxi }
+    - { title: 四川省政协主席, sys: other, place: 四川, from: 2013-01, to: 2014-01, cite: c07-chinanews-2014-09-11-li-chongxi }
+  factions:
+    - f: zhou-clique
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 李崇禧和谭力都是获周提拔走上高位的官员
+  ids: { wikidata: Q8291886 }
+  cites: [wd-Q8291886, c07-chinanews-2014-09-11-li-chongxi, c07-people-2015-11-03-li-chongxi, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: lou-qinjian
+  name: 娄勤俭
+  gender: m
+  ethnicity: 汉族
+  born: 1956-12
+  birthplace: 贵州桐梓
+  joinedParty: 1975-08
+  joinedWork: 1973-08
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 现任全国人大外事委员会主任委员。
+  tier: 2
+  headline: 陕西、江苏省委书记，全国人大外事委员会主任委员（2023– ）
+  bio: >-
+    计算机专家出身，曾任电子部第十五研究所所长兼太极计算机公司总经理，1999–2010 年任信息产业部、工信部副部长近十一年。
+    2010 年转任地方，先后任陕西省长、陕西和江苏省委书记；2024 年作为全国人大会议发言人宣布取消总理记者会。
+  positions:
+    - { title: 电子工业部第十五研究所所长兼太极计算机公司总经理、董事长, sys: other, from: 1995-03, to: 1999-04, cite: c07-cctv-2018-03-23-lou-qinjian }
+    - { title: 信息产业部副部长, sys: gov, from: 1999-04, to: 2008-03, cite: c07-cctv-2018-03-23-lou-qinjian }
+    - { title: 工业和信息化部副部长, sys: gov, from: 2008-03, to: 2010-08, cite: c07-cctv-2018-03-23-lou-qinjian }
+    - { title: 陕西省省长, sys: gov, place: 陕西, from: 2012-12, to: 2016-03, cite: c07-cctv-2018-03-23-lou-qinjian }
+    - { title: 陕西省委书记, sys: party, place: 陕西, from: 2016-03, to: 2017-10, cite: c07-cctv-2018-03-23-lou-qinjian }
+    - { title: 江苏省委书记, sys: party, place: 江苏, from: 2017-10, to: 2021-10, cite: c03-xinhua-2021-10-19-five-provinces }
+    - { title: 全国人大财政经济委员会副主任委员, sys: other, from: 2021-10, to: 2023-03, cite: c07-thepaper-2024-03-04-lou-qinjian }
+    - { title: 全国人大外事委员会主任委员, sys: other, from: 2023-03, cite: c07-thepaper-2024-03-04-lou-qinjian }
+  ids: { wikidata: Q4505112 }
+  cites: [wd-Q4505112, c07-cctv-2018-03-23-lou-qinjian, c07-thepaper-2024-03-04-lou-qinjian, c03-xinhua-2021-10-19-five-provinces, b06-zaobao-2024-03-04-no-presser]
+
+- id: li-ziqi
+  name: 李子奇
+  gender: m
+  born: 1923-09
+  died: 2014-01-11
+  birthplace: 陕西神木
+  joinedParty: 1937-02
+  joinedWork: 1936-02
+  roles: [cc, prov]
+  status: dead
+  statusNote: 2014 年 1 月 11 日在上海病逝，享年 91 岁。
+  tier: 2
+  headline: 甘肃省委书记（1983–1990）、习仲勋旧部
+  bio: >-
+    陕西神木人，1936 年参加陕北红军，是习仲勋的老部下和陕西老乡。1964 年在白银公司被错误处理，1979 年平反。
+    1983–1990 年任甘肃省委书记，第十二、十三届中央委员；李希曾任其秘书，常随他探望习仲勋，由此与习近平相熟。
+  positions:
+    - { title: 甘肃省白银有色金属公司经理、白银市委书记处书记, sys: other, place: 甘肃, from: 1954-09, to: 1964, cite: c07-people-2014-01-23-li-ziqi }
+    - { title: 甘肃省轻工业厅厅长, sys: gov, place: 甘肃, from: 1979-02, to: 1982-10, cite: c07-people-2014-01-23-li-ziqi }
+    - { title: 甘肃省委副书记、常务副省长, sys: party, place: 甘肃, from: 1982-10, to: 1983, cite: c07-people-2014-01-23-li-ziqi }
+    - { title: 甘肃省委书记, sys: party, place: 甘肃, from: 1983, to: 1990, cite: c07-wiki-li-ziqi }
+    - { title: 甘肃省顾问委员会主任, sys: party, place: 甘肃, cite: c07-people-2014-01-23-li-ziqi }
+  factions:
+    - f: shaanxi
+      cite: b06-voa-2022-10-23-li-xi
+      quote: 习仲勋的老部下及陕西老乡、时任甘肃省委书记李子奇
+  ids: { wikidata: Q8295668 }
+  cites: [wd-Q8295668, c07-people-2014-01-23-li-ziqi, c07-wiki-li-ziqi, b06-voa-2022-10-23-li-xi]
+
+- id: zhang-fuhai
+  name: 张福海
+  gender: m
+  ethnicity: 汉族
+  born: 1964-12
+  birthplace: 辽宁庄河
+  joinedParty: 1984-11
+  joinedWork: 1986-07
+  roles: [ccdi]
+  status: active
+  statusNote: 现任中央纪委副书记、国家监委副主任。
+  tier: 2
+  headline: 中央纪委副书记、国家监委副主任（2022– ）
+  bio: >-
+    人民大学中文系讲师出身，长期在出版和宣传系统工作，历任人民文学出版社副总编辑、中宣部国际联络局局长、中国外文局局长。
+    2018 年起任辽宁、广东省委常委，在广东兼任秘书长、组织部长，被外媒称为李希的“大秘”；二十大随李希进入中纪委任副书记。
+  positions:
+    - { title: 人民文学出版社编辑、副总编辑, sys: other, from: 1991-11, to: 2002-03, cite: c07-people-2020-07-18-zhang-fuhai }
+    - { title: 中央宣传部国际联络局局长, sys: party, from: 2015-03, to: 2017-02, cite: c07-people-2020-07-18-zhang-fuhai }
+    - { title: 中国外文局局长, sys: party, from: 2017-02, to: 2018-05, cite: c07-people-2020-07-18-zhang-fuhai }
+    - { title: 辽宁省委常委、宣传部部长, sys: party, place: 辽宁, from: 2018-05, to: 2020-05, cite: c07-people-2020-07-18-zhang-fuhai }
+    - { title: 广东省委常委、宣传部部长（2020 年 7 月起兼秘书长）, sys: party, place: 广东, from: 2020-05, to: 2021-11, cite: c07-people-2020-07-18-zhang-fuhai }
+    - { title: 广东省委常委、组织部部长, sys: party, place: 广东, from: 2021-11, to: 2022-10, cite: c07-cyol-2023-02-01-zhang-fuhai }
+    - { title: 中央纪委副书记、国家监委副主任, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  ids: { wikidata: Q47669827 }
+  cites: [wd-Q47669827, c07-people-2020-07-18-zhang-fuhai, c07-cyol-2023-02-01-zhang-fuhai, c07-xinhua-2026-06-16-party-building, b06-voa-2022-10-23-li-xi]
+
+- id: tuo-zhen
+  name: 庹震
+  gender: m
+  born: 1959-09
+  birthplace: 河南方城
+  joinedParty: 1982-06
+  joinedWork: 1976-06
+  roles: [cc, media]
+  status: active
+  statusNote: 2024 年 9 月卸任人民日报社社长，10 月增补为全国政协委员、教科卫体委员会副主任；二十届中央委员。
+  tier: 2
+  headline: 人民日报社社长（2020–2024）、广东省委宣传部长（2012–2015）
+  bio: >-
+    经济日报记者出身，任记者部负责人时在邓小平南巡前夕推出“醒来，不只是铜陵”连续报道，2005 年升任总编辑，后任新华社副社长。
+    2012 年任广东省委宣传部长，次年元旦撤换《南方周末》新年献辞引发编辑抗议；此后任中宣部副部长、人民日报总编辑和社长。
+  positions:
+    - { title: 经济日报社总编辑, sys: other, from: 2005-06, cite: c07-wiki-tuo-zhen }
+    - { title: 新华通讯社副社长, sys: other, cite: c07-wiki-tuo-zhen }
+    - { title: 广东省委常委、宣传部部长, sys: party, place: 广东, from: 2012-05, to: 2015-07, cite: c07-wiki-tuo-zhen }
+    - { title: 中央宣传部副部长, sys: party, from: 2015-07, to: 2018-04, cite: c07-wiki-tuo-zhen }
+    - { title: 人民日报社总编辑, sys: other, from: 2018-04, to: 2020-10, cite: c07-wiki-tuo-zhen }
+    - { title: 人民日报社社长, sys: other, from: 2020-10, to: 2024-09, cite: c07-caixin-2024-09-27-tuo-zhen }
+    - { title: 全国政协教科卫体委员会副主任, sys: other, from: 2024-10, cite: c05-cppcc-2024-10-11-li-xiaopeng }
+  ids: { wikidata: Q2756182 }
+  cites: [wd-Q2756182, c07-wiki-tuo-zhen, c07-caixin-2024-09-27-tuo-zhen, c05-cppcc-2024-10-11-li-xiaopeng, i01-bbc-2013-01-04-nanfang-zhoumo]
+
+- id: zhu-hailun
+  name: 朱海仑
+  gender: m
+  born: 1958
+  birthplace: 江苏涟水
+  roles: [prov]
+  status: retired
+  statusNote: 2021 年 2 月辞去新疆人大常委会副主任职务。
+  tier: 2
+  headline: 新疆党委副书记兼政法委书记（2016–2019）
+  bio: >-
+    长期在南疆任职，历任喀什市委书记、和田地委书记，2006 年起任新疆政法委书记、乌鲁木齐市委书记。
+    2016–2019 年任自治区党委副书记兼政法委书记，2017 年签发泄露的“中国电文”中的再教育营管理文件；2020 年遭美国制裁。
+  positions:
+    - { title: 喀什市委书记, sys: party, place: 新疆, from: 1996-07, to: 2001-08, cite: c07-ce-2021-02-06-zhu-hailun }
+    - { title: 和田地委书记, sys: party, place: 新疆, from: 2003-12, to: 2006-10, cite: c07-ce-2021-02-06-zhu-hailun }
+    - { title: 新疆维吾尔自治区党委常委、政法委书记, sys: party, place: 新疆, from: 2006-10, to: 2009-09, cite: c07-ce-2021-02-06-zhu-hailun }
+    - { title: 新疆维吾尔自治区党委常委、乌鲁木齐市委书记, sys: party, place: 新疆, from: 2009-09, to: 2016-05, cite: c07-ce-2021-02-06-zhu-hailun }
+    - { title: 新疆维吾尔自治区党委副书记、政法委书记, sys: party, place: 新疆, from: 2016-11, to: 2019-01, cite: c07-ce-2021-02-06-zhu-hailun }
+    - { title: 新疆维吾尔自治区人大常委会副主任, sys: other, place: 新疆, from: 2019-01, to: 2021-02, cite: c07-ce-2021-02-06-zhu-hailun }
+  ids: { wikidata: Q9094577 }
+  cites: [wd-Q9094577, c07-ce-2021-02-06-zhu-hailun, e03-bbc-2019-11-25-china-cables, b09-bbc-2020-07-09-sanctions]
+
+- id: zheng-bijian
+  name: 郑必坚
+  gender: m
+  born: 1932
+  birthplace: 四川富顺
+  joinedParty: 1952
+  roles: [cc, scholar]
+  status: retired
+  statusNote: 退休后任国家创新与发展战略研究会会长，2025 年 12 月仍在“读懂中国”大会致辞。
+  tier: 2
+  headline: 中央党校原常务副校长、“和平崛起”论提出者
+  bio: >-
+    人民大学研究生毕业，曾任胡耀邦的政治助理，历任社科院副院长、中宣部常务副部长、中央党校常务副校长，第十四、十五届中央委员。
+    2003 年在博鳌论坛首次提出“中国和平崛起”论题，退休后主持国家创新与发展战略研究会和“读懂中国”大会。
+  positions:
+    - { title: 中共中央总书记胡耀邦的政治助理, sys: party, cite: c07-ciids-zheng-bijian }
+    - { title: 中国社会科学院副院长兼马列所所长, sys: other, cite: c07-ciids-zheng-bijian }
+    - { title: 中共中央宣传部常务副部长, sys: party, cite: c07-ciids-zheng-bijian }
+    - { title: 中共中央党校常务副校长, sys: party, cite: c07-ciids-zheng-bijian }
+    - { title: 中国改革开放论坛理事长, sys: other, cite: i01-chinanews-2004-04-08-peaceful-rise }
+    - { title: 国家创新与发展战略研究会会长, sys: other, from: 2010, cite: wd-Q3368176 }
+  ids: { wikidata: Q3368176 }
+  cites: [wd-Q3368176, c07-ciids-zheng-bijian, i01-chinanews-2004-04-08-peaceful-rise, c07-fudan-2025-12-04-zheng-bijian]
+
+- id: huang-qifan
+  name: 黄奇帆
+  gender: m
+  born: 1952-05
+  origin: 浙江诸暨
+  roles: [tiger, cc, prov]
+  status: purged
+  statusNote: 2026 年 10 月 13 日，退休近十年后被宣布接受中央纪委国家监委审查调查。
+  fall:
+    - { date: 2026-10-13, text: 中纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: e04-news-2026-10-13-huang-qifan }
+  tier: 2
+  headline: 重庆市长（2010–2016），退休后被查的政坛“不倒翁”
+  bio: >-
+    1968 年参加工作后在上海工作 33 年，1990 年经朱镕基提名任浦东开发办副主任；2001 年调重庆任副市长，2010–2016 年任市长。
+    先后与薄熙来、孙政才搭档均未受波及，人称“不倒翁”；退休后活跃于经济论坛，2026 年 10 月被立案审查。
+  positions:
+    - { title: 上海市浦东开发办公室副主任, sys: gov, place: 上海, from: 1990-04, cite: c07-bbc-2026-10-13-huang-qifan }
+    - { title: 上海市政府副秘书长, sys: gov, place: 上海, to: 2001-10, cite: c07-ifeng-2026-10-13-huang-qifan }
+    - { title: 重庆市副市长（2002 年 5 月起任市委常委）, sys: gov, place: 重庆, from: 2001-10, to: 2009-11, cite: c07-ifeng-2026-10-13-huang-qifan }
+    - { title: 重庆市市长、市委副书记, sys: gov, place: 重庆, from: 2009-11, to: 2016-12, cite: wd-Q3377444 }
+    - { title: 全国人大财政经济委员会副主任委员, sys: other, from: 2017, to: 2018, cite: c07-bbc-2026-10-13-huang-qifan }
+    - { title: 国家创新与发展战略研究会常务副主席, sys: other, cite: c07-ifeng-2026-10-13-huang-qifan }
+  factions:
+    - f: jiang-shanghai
+      cite: c07-ltn-2026-10-13-huang-qifan
+      quote: 「上海幫」黃奇帆演講突喊卡
+  ids: { wikidata: Q3377444 }
+  cites: [wd-Q3377444, e04-news-2026-10-13-huang-qifan, c07-bbc-2026-10-13-huang-qifan, c07-ifeng-2026-10-13-huang-qifan, c07-zaobao-2026-10-14-huang-qifan]
+
+- id: chen-yunlin
+  name: 陈云林
+  gender: m
+  born: 1941-12
+  birthplace: 辽宁黑山
+  roles: [minister, hkmt]
+  status: retired
+  statusNote: 2013 年 4 月卸任海协会会长，告别公职。
+  tier: 2
+  headline: 国台办主任（1996–2008）、海协会会长（2008–2013）
+  bio: >-
+    1994 年辞去黑龙江副省长转任国台办副主任，1996 年底升任主任，执掌国台办十一年半。
+    2008 年改任海协会会长，同年 11 月成为首位访台的海协会会长，2010 年在重庆与江丙坤签署 ECFA；2013 年告别公职。
+  positions:
+    - { title: 黑龙江省副省长, sys: gov, place: 黑龙江, to: 1994-01, cite: c07-wiki-chen-yunlin }
+    - { title: 中共中央台湾工作办公室副主任, sys: party, from: 1994, to: 1996-12, cite: c07-wiki-chen-yunlin }
+    - { title: 中共中央台湾工作办公室、国务院台湾事务办公室主任, sys: party, from: 1996-12, to: 2008-06, cite: wd-Q5090990 }
+    - { title: 全国政协港澳台侨委员会主任, sys: other, from: 2008-03, cite: c07-wiki-chen-yunlin }
+    - { title: 海峡两岸关系协会会长, sys: other, from: 2008-06, to: 2013-04, cite: c07-wiki-chen-yunlin }
+  ids: { wikidata: Q5090990 }
+  cites: [wd-Q5090990, c07-wiki-chen-yunlin, c07-gwytb-2013-04-26-chen-yunlin, e02-chinanews-2010-06-29-ecfa]

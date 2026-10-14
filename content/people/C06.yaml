@@ -1,0 +1,397 @@
+- id: wang-yu
+  name: 王宇
+  gender: f
+  born: 1971-05-01
+  roles: [dissent]
+  status: watched
+  statusNote: 2016 年 8 月取保获释，2020 年律师执照被注销，此后一家仍受监视、被限制出境；2024 年 10 月曾被河北魏县行政拘留 9 天。
+  fall:
+    - { date: 2015-07-09, text: 在 709 大抓捕中最早被带走, cite: e03-bbc-2015-07-11-lawyers }
+    - { date: 2016-01, text: 以颠覆国家政权罪被批捕, cite: c06-voa-2024-11-02-wang-yu }
+    - { date: 2016-08, text: 取保候审，在官方安排的采访中认错，后称是迫于压力, cite: c06-bbc-2021-03-09-wang-yu-award }
+    - { date: 2020-11, text: 律师执业证书被北京市司法局注销, cite: c06-bbc-2021-03-09-wang-yu-award }
+    - { date: 2024-10-23, text: 被河北魏县公安局行政拘留 9 天，在看守所绝食抗议, cite: c06-voa-2024-11-02-wang-yu }
+  tier: 2
+  headline: 709 案中最早被抓的女律师
+  ids: { wikidata: Q20688792 }
+  bio: >-
+    北京锋锐律师事务所律师，曾代理伊力哈木·土赫提案，为法轮功学员辩护。2015 年 7 月 9 日在 709 大抓捕中最早被带走，次年以颠覆国家政权罪被批捕；取保后在镜头前认错，后称是被迫。2020 年被注销律师执照，2021 年获美国国际妇女勇气奖。
+  family:
+    - { name: 包龙军, rel: 丈夫, text: 律师。2024 年 11 月王宇绝食后获释，他把无法走路的妻子从看守所背去医院。, cites: [c06-voa-2024-11-02-wang-yu] }
+  cites: [wd-Q20688792, c06-voa-2024-11-02-wang-yu, c06-bbc-2021-03-09-wang-yu-award, c06-dw-2016-08-02-wang-yu, c04-bbc-2025-07-09-709-decade, e03-bbc-2015-07-11-lawyers]
+
+- id: zhou-shifeng
+  name: 周世锋
+  gender: m
+  born: 1964
+  origin: 河南安阳
+  roles: [dissent]
+  status: watched
+  statusNote: 2022 年 9 月 24 日刑满出狱；据自由亚洲电台，2026 年余文生出狱后约他在安阳见面，北京国保提前赶到阻止。
+  fall:
+    - { date: 2015-07-10, text: 被带走, cite: c06-rfa-2022-09-25-zhou-shifeng }
+    - { date: 2016-01-08, text: 以涉嫌颠覆国家政权罪被逮捕, cite: c06-rfa-2022-09-25-zhou-shifeng }
+    - { date: 2016-08-04, text: 天津市第二中级法院以颠覆国家政权罪判处有期徒刑七年、剥夺政治权利五年, cite: c06-bbc-2016-08-04-zhou-shifeng }
+  tier: 2
+  headline: 锋锐律师事务所主任，709 案获刑七年
+  ids: { wikidata: Q20687967 }
+  positions:
+    - { title: 北京锋锐律师事务所主任, sys: other, place: 北京, from: 2007, to: 2015-07, cite: c06-bbc-2016-08-04-zhou-shifeng }
+  bio: >-
+    1995 年起执业，2007 年创办北京锋锐律师事务所，次年代理三鹿毒奶粉受害人，锋锐所此后常年代理维权案件。官方称他以锋锐所为平台纠集“死磕”律师炒作热点案件。2016 年被以颠覆国家政权罪判刑七年，当庭表示不上诉，2022 年刑满出狱。
+  cites: [wd-Q20687967, c06-bbc-2016-08-04-zhou-shifeng, c06-rfa-2022-09-25-zhou-shifeng, e03-xinhua-2015-07-11-weiquan, c04-rfa-2026-07-08-yu-wensheng]
+
+- id: lin-rongji
+  name: 林荣基
+  gender: m
+  born: 1955-12
+  died: 2026-07-02
+  birthplace: 香港
+  roles: [dissent, hkmt]
+  status: dead
+  statusNote: 2026 年 7 月 2 日因癌症在台北病逝，终年 70 岁；台湾总统赖清德发文哀悼。
+  fall:
+    - { date: 2015-10-24, text: 被他所称的“中央专案组”带走, cite: e03-bbc-2016-06-16-causeway-bay }
+    - { date: 2016-06, text: 在内地被扣留超过 400 天后返港，公开披露被捕经过, cite: c06-bbc-2026-07-02-lam-wing-kee }
+  tier: 2
+  headline: 铜锣湾书店店长，逃脱后在台北重开书店
+  ids: { wikidata: Q22099761 }
+  bio: >-
+    香港铜锣湾书店店长，书店出售内地政治禁书。2015 年他与书店股东、员工共 5 人先后失踪，他在内地被扣留超过 400 天，2016 年 6 月返港后召开记者会，称被“中央专案组”带走，放他回港的条件是交出买书人名单。2019 年移居台湾，2020 年在台北重开铜锣湾书店。
+  cites: [wd-Q22099761, c06-bbc-2026-07-02-lam-wing-kee, e03-bbc-2016-06-16-causeway-bay]
+
+- id: gui-minhai
+  name: 桂民海
+  aka: [桂敏海]
+  gender: m
+  born: 1964-05-05
+  birthplace: 浙江宁波
+  roles: [dissent, hkmt]
+  status: detained
+  statusNote: 2020 年被判有期徒刑十年；2026 年 7 月王毅访瑞典时对瑞方称他仍被羁押、身体状况良好。
+  fall:
+    - { date: 2015-10-17, text: 在泰国芭提雅的寓所被掳走, cite: c06-rfi-2026-07-05-gui-minhai }
+    - { date: 2017-10-17, text: 交通肇事案刑满，但被以另案侦查为由禁止离境, cite: c06-rfi-2026-07-05-gui-minhai }
+    - { date: 2018-01-20, text: 在瑞典外交官陪同下乘火车赴京途中被便衣警员带走, cite: c06-bbc-2020-02-25-gui-minhai }
+    - { date: 2020-02-24, text: 宁波市中级人民法院以为境外非法提供情报罪判处有期徒刑十年、剥夺政治权利五年, cite: c06-bbc-2020-02-25-gui-minhai }
+  tier: 2
+  headline: 铜锣湾书店股东，瑞典籍出版人，被判十年
+  ids: { wikidata: Q22099950 }
+  bio: >-
+    宁波人，1996 年入瑞典籍，香港铜锣湾书店股东。2015 年在泰国失踪，后在央视自称回国为 2003 年的交通肇事案自首。2018 年在瑞典外交官陪同下乘火车时再被带走，2020 年以为境外非法提供情报罪被判十年；法院称他 2018 年已申请恢复中国国籍。
+  cites: [wd-Q22099950, c06-bbc-2020-02-25-gui-minhai, c06-rfi-2026-07-05-gui-minhai, e03-bbc-2016-06-16-causeway-bay]
+
+- id: du-daozheng
+  name: 杜导正
+  gender: m
+  born: 1923
+  roles: [media]
+  status: retired
+  statusNote: 2016 年 7 月被撤下《炎黄春秋》社长职务；2019 年 1 月仍坐轮椅出席赵紫阳家祭，此后少见可靠报道。
+  fall:
+    - { date: 2016-07-14, text: 主管单位中国艺术研究院宣布撤换《炎黄春秋》管理层，他被撤下社长职务, cite: c06-rfi-2016-07-16-du-daozheng }
+    - { date: 2016-07-18, text: 签署《炎黄春秋》停刊声明, cite: e03-bbc-2016-07-19-yanhuang }
+  tier: 2
+  headline: 《炎黄春秋》创刊社长
+  ids: { wikidata: Q8313880 }
+  positions:
+    - { title: 新闻出版署署长, sys: gov, place: 北京, cite: wd-Q8313880 }
+    - { title: 《炎黄春秋》杂志社社长, sys: other, place: 北京, from: 1991, to: 2016-07, cite: c06-rfi-2016-07-16-du-daozheng }
+  bio: >-
+    中共老党员，长期在新华社任高级编辑，任中华人民共和国新闻出版署首任署长。六四后创办《炎黄春秋》，任社长二十五年。2016 年 7 月主管单位中国艺术研究院强行接管杂志社，93 岁的他斥为“和文化大革命一模一样”，随后签署停刊声明。
+  cites: [wd-Q8313880, c06-rfi-2016-07-16-du-daozheng, e03-bbc-2016-07-19-yanhuang, c06-bbc-2016-08-17-du-daozheng, c06-voa-2019-01-19-du-daozheng]
+
+- id: jiang-yanyong
+  name: 蒋彦永
+  gender: m
+  born: 1931-10-04
+  died: 2023-03-11
+  birthplace: 浙江杭州
+  roles: [dissent]
+  status: dead
+  statusNote: 2023 年 3 月 11 日在北京 301 医院病逝；家属被当局要求不办公祭、不收花圈、不受采访。
+  fall:
+    - { date: 2004-06, text: 上书要求重新评价六四后被拘禁七周，此后行动受限、不准出国, cite: c06-dw-2023-03-jiang-yanyong }
+    - { date: 2019-03, text: 致信习近平建议正确评价六四，此后被软禁, cite: c06-cna-2023-03-14-jiang-yanyong }
+  tier: 2
+  headline: 揭露 SARS 瞒报的 301 医院军医
+  ids: { wikidata: Q472942 }
+  bio: >-
+    解放军 301 医院外科医生。2003 年 4 月卫生部长张文康称北京只有 12 例非典，他写信揭露瞒报，经外媒发表后，张文康和北京市长孟学农被免职。2004 年上书要求把六四学生运动定为爱国运动，被拘禁七周，此后长期受限，2019 年再遭软禁。
+  cites: [wd-Q472942, c06-dw-2023-03-jiang-yanyong, c06-cna-2023-03-14-jiang-yanyong, e01-bbc-2003-04-09-jiang-yanyong, e01-xinhua-2003-04-20-sars-dismissals, e01-bbc-2023-03-13-jiang-yanyong-obit]
+
+- id: tan-zuoren
+  name: 谭作人
+  gender: m
+  born: 1954-05-15
+  birthplace: 四川成都
+  roles: [dissent]
+  status: active
+  statusNote: 2014 年 3 月 27 日刑满出狱，当即被当局连同妻子送往外地；此后近况报道很少。
+  fall:
+    - { date: 2009-03-28, text: 起草汶川地震伤亡调查报告期间被刑事拘留, cite: c06-voa-2014-03-27-tan-zuoren }
+    - { date: 2010-02-09, text: 成都市中级人民法院以煽动颠覆国家政权罪判处有期徒刑五年、剥夺政治权利三年, cite: e02-bbc-2010-02-09-tan-zuoren }
+  tier: 2
+  headline: 调查川震倒塌校舍的成都环保人士
+  ids: { wikidata: Q978495 }
+  bio: >-
+    成都作家、环保人士，曾积极参与八九民运。2008 年汶川地震后多次实地调查倒塌校舍、收集遇难学生名单，揭露豆腐渣工程，并撰文批评彭州 PX 石化项目。2009 年被拘，次年以他记述六四的文章为据被判煽动颠覆国家政权罪五年，狱中始终不认罪，2014 年刑满出狱。
+  cites: [wd-Q978495, e02-bbc-2010-02-09-tan-zuoren, c06-bbc-2014-03-27-tan-zuoren, c06-voa-2014-03-27-tan-zuoren]
+
+- id: xu-yan
+  name: 许艳
+  gender: f
+  roles: [dissent, family]
+  status: watched
+  statusNote: 2025 年 1 月 13 日刑满获释；2026 年 6 月与儿子在深圳被边检以“出境有可能危害国家安全”为由禁止出境。
+  fall:
+    - { date: 2023-04-13, text: 与丈夫余文生前往欧盟驻华代表团座谈途中被北京警方抓捕, cite: c06-rfa-2025-01-14-xu-yan }
+    - { date: 2024-10, text: 以煽动颠覆国家政权罪被判有期徒刑一年九个月, cite: c06-rfa-2025-01-14-xu-yan }
+  tier: 2
+  headline: 余文生之妻，与丈夫同案获刑
+  bio: >-
+    人权律师余文生的妻子，多年为丈夫奔走发声。2023 年 4 月夫妇二人应邀前往欧盟驻华代表团座谈途中被北京警方抓捕，她被以煽动颠覆国家政权罪判刑一年九个月，曾关押在苏州，2025 年 1 月刑满获释；2026 年 4 月余文生出狱，她发文报平安。
+  cites: [c06-rfa-2025-01-14-xu-yan, c04-cna-2026-04-14-yu-wensheng, c04-rfa-2026-07-08-yu-wensheng]
+
+- id: geng-he
+  name: 耿和
+  gender: f
+  roles: [family, dissent]
+  status: exiled
+  statusNote: 2009 年带两个孩子逃离中国，定居美国；2026 年 8 月仍在加州的中国总领事馆前为丈夫集会。
+  fall:
+    - { date: 2009, text: 在人权活动人士帮助下带一双儿女逃离中国, cite: c04-bbc-2022-11-19-gao-zhisheng }
+  tier: 2
+  headline: 高智晟之妻，在美国寻夫
+  bio: >-
+    维权律师高智晟的妻子。高智晟遭软禁期间，警察在他们公寓楼下盖房子 24 小时监控，2009 年她带着 16 岁的女儿和 5 岁的儿子逃离中国。高智晟 2017 年 8 月再次失踪后，她在美国四处奔走寻人，曾把他的头像投射到中国驻洛杉矶领事馆外墙。
+  cites: [c04-bbc-2022-11-19-gao-zhisheng, c06-rfi-2026-08-16-gao-zhisheng]
+
+- id: luo-guancong
+  name: 罗冠聪
+  aka: [Nathan Law]
+  gender: m
+  born: 1993-07-13
+  birthplace: 广东深圳
+  roles: [dissent, hkmt]
+  status: exiled
+  statusNote: 2020 年离港赴英，2021 年 4 月获英国政治庇护；2023 年 7 月香港警方悬红 100 万港元通缉他。
+  fall:
+    - { date: 2020-06, text: 港区国安法实施前夕离开香港，7 月抵英宣布流亡, cite: c06-dw-2021-04-08-nathan-law }
+    - { date: 2023-07, text: 香港警方悬红 100 万港元通缉, cite: c06-bbc-2023-07-04-hk-bounty }
+  tier: 2
+  headline: 香港众志创党主席，流亡英国
+  ids: { wikidata: Q24701019 }
+  positions:
+    - { title: 香港众志主席, sys: other, place: 香港, from: 2016-04-10, to: 2018-05-12, cite: wd-Q24701019 }
+    - { title: 香港立法会议员, sys: gov, place: 香港, from: 2016-10-01, to: 2017-07-14, cite: wd-Q24701019 }
+  bio: >-
+    香港民主运动的主要人物之一，2016 年 10 月起任立法会议员，至 2017 年 7 月。2020 年 6 月港区国安法实施前离开香港，到英国宣布流亡并与在港家人断绝关系，2021 年获英国政治庇护。2023 年香港警方悬红 100 万港元通缉他，指他呼吁外国制裁中国和香港。
+  cites: [wd-Q24701019, c06-bbc-2020-12-23-nathan-law, c06-dw-2021-04-08-nathan-law, c06-bbc-2023-07-04-hk-bounty]
+
+- id: jin-bianling
+  name: 金变玲
+  gender: f
+  roles: [family]
+  status: exiled
+  statusNote: 2013 年带女儿移居美国，在洛杉矶做会计；她说因丈夫的事，母女回不了国。
+  fall:
+    - { date: 2013, text: 为免遭当局骚扰，带女儿移居美国加州, cite: c06-nyt-2017-01-20-jin-bianling }
+  tier: 2
+  headline: 江天勇之妻，旅居美国
+  bio: >-
+    维权律师江天勇的妻子。2013 年为免遭当局骚扰，带女儿从中国移居美国加州，此后再未见到丈夫。709 大抓捕后她与其他律师妻子一起为丈夫发声，2017 年致信德国总理默克尔求助。江天勇 2019 年出狱后仍被监控、限制出境，夫妻至今分隔两地。
+  cites: [c06-nyt-2017-01-20-jin-bianling, c06-voa-2024-03-01-jiang-tianyong, c04-bbc-2025-07-09-709-decade, c04-dw-2019-10-jiang-tianyong]
+
+- id: wang-qiaoling
+  name: 王峭岭
+  gender: f
+  roles: [family, dissent]
+  status: watched
+  statusNote: 据自由亚洲电台，2023 年 6 月一家三口在成都天府机场被以危害国家安全为由禁止出境，北京住处也遭逼迁。
+  fall:
+    - { date: 2023-06-09, text: 与李和平及孩子在成都天府机场被边控，禁止出境, cite: c06-rfa-2023-06-14-li-heping }
+  tier: 2
+  headline: 李和平之妻，709 家属寻夫代表
+  bio: >-
+    维权律师李和平的妻子。2015 年 709 大抓捕中李和平被带走后，她决定公开为丈夫发声，与李文足、金变玲等律师妻子一起四处寻夫。李和平获释后一家仍受打压：2023 年在成都机场被禁止出境，在北京通州宋庄的住处被房东砸窗拆门逼迁。
+  cites: [c04-bbc-2025-07-09-709-decade, c06-rfa-2023-06-14-li-heping]
+
+- id: ding-zilin
+  name: 丁子霖
+  gender: f
+  born: 1936-12-20
+  birthplace: 上海
+  roles: [dissent]
+  status: watched
+  statusNote: 据法广引述尤维洁，她年近 90，听力退化到无法接电话，当局仍长期派人守在她家门外。
+  tier: 2
+  headline: “天安门母亲”发起人
+  ids: { wikidata: Q2279786 }
+  bio: >-
+    儿子在 1989 年六四事件中遇难。此后她与张先玲等遇难者家属组成“天安门母亲”群体，公开六四遇难者名册，年年提出公布真相、赔偿、追究责任三项诉求。2015 年丈夫蒋培坤病逝，她把发言人工作交给尤维洁，此后长期遭近乎软禁的看管。
+  cites: [wd-Q2279786, c06-rfi-2026-06-02-tiananmen-mothers, c06-rfa-2026-06-01-tiananmen-mothers, c06-rfa-2019-01-28-ding-zilin]
+
+- id: dai-qing
+  name: 戴晴
+  gender: f
+  born: 1941-01-08
+  birthplace: 重庆
+  roles: [media, dissent]
+  status: exiled
+  statusNote: 据自由亚洲电台 2024 年报道，已离开中国，随女儿暂居泰国清迈；2026 年仍在发表《问史笔记》章节。
+  fall:
+    - { date: 1989, text: 六四后被捕，在秦城羁押半年, cite: c06-rfa-2024-09-09-dai-qing }
+  tier: 2
+  headline: 反对三峡工程的记者、作家
+  ids: { wikidata: Q445304 }
+  bio: >-
+    常被称为叶剑英养女，曾任《光明日报》记者，1980 年代末因反对三峡工程广受关注。1989 年学运中居间与官方传话、劝学生让步，六四后被捕羁押半年，获释后长期不得接受采访和公开发表言论。近年随女儿暂居泰国清迈，仍在写中共党史考证《问史笔记》。
+  cites: [wd-Q445304, c06-rfa-2024-09-09-dai-qing, c06-rfa-2026-10-02-dai-qing]
+
+- id: xiao-han
+  name: 萧瀚
+  gender: m
+  born: 1969
+  roles: [scholar]
+  status: active
+  statusNote: 2009 年底被校方暂停教职；此后近况可靠报道很少。
+  fall:
+    - { date: 2009-12, text: 被中国政法大学以介入公共事务太深为由暂停教职, cite: c06-rfa-2010-01-01-xiao-han }
+  tier: 2
+  headline: 法大副教授，曾上书呼吁六四和解
+  ids: { wikidata: Q8462450 }
+  bio: >-
+    中国政法大学法学院副教授、《财经》杂志法律顾问，以博客时评知名。2009 年六四 20 周年前致信胡锦涛、温家宝，建议全国人大成立六四和解委员会、公布真相、向家属道歉，是第一位就此发公开信的大学教授。同年底被校方以介入公共事务太深为由停课。
+  cites: [wd-Q8462450, c06-voa-2009-03-04-xiao-han, c06-rfa-2010-01-01-xiao-han]
+
+- id: lin-zuluan
+  name: 林祖銮
+  aka: [林祖恋]
+  gender: m
+  born: 1944
+  birthplace: 广东陆丰
+  roles: [dissent]
+  status: watched
+  statusNote: 2019 年 8 月 3 日刑满出狱，据自由亚洲电台仍受公安 24 小时轮班监控，未回乌坎村居住。
+  fall:
+    - { date: 2016-06-18, text: 准备带村民上访追讨土地前夜被武警破门带走，随后在电视上认罪, cite: c06-voa-2016-10-21-lin-zulian }
+    - { date: 2016-09-08, text: 佛山市禅城区法院以受贿罪等判处有期徒刑三年一个月，罚金 20 万元, cite: c06-bbc-2016-09-08-lin-zulian }
+    - { date: 2016-10-20, text: 佛山中院二审驳回上诉，维持原判, cite: c06-voa-2016-10-21-lin-zulian }
+  tier: 2
+  headline: 乌坎维权领袖、民选村主任
+  ids: { wikidata: Q28164536 }
+  positions:
+    - { title: 乌坎村村委会主任, sys: other, place: 广东, from: 2012-03, to: 2016-06, cite: e02-bbc-2012-03-02-wukan-election }
+  bio: >-
+    广东陆丰乌坎村村民。2011 年带领村民抗议官员私卖土地，引发大规模示威和警民对峙，事后经一人一票选为村委会主任，乌坎被称为化解基层官民矛盾的样板。2016 年 6 月准备带村民上访追讨土地前夜被带走，随后以受贿罪被判三年一个月，村民坚信他被陷害。
+  cites: [wd-Q28164536, c06-bbc-2016-09-08-lin-zulian, c06-voa-2016-10-21-lin-zulian, c06-rfa-2019-08-05-lin-zulian, e02-bbc-2012-03-02-wukan-election]
+
+- id: xue-jinbo
+  name: 薛锦波
+  gender: m
+  born: 1969-04-07
+  died: 2011-12-11
+  birthplace: 广东陆丰
+  roles: [dissent]
+  status: dead
+  statusNote: 2011 年 12 月 11 日在汕尾市看守所羁押期间死亡，官方称心源性猝死，家属质疑。
+  fall:
+    - { date: 2011-12-09, text: 以涉嫌故意毁坏财物罪和妨害公务罪被汕尾警方刑事拘留, cite: c06-xinhua-2011-12-14-xue-jinbo }
+  tier: 2
+  headline: 乌坎事件组织者，被拘两天后死亡
+  ids: { wikidata: Q15904726 }
+  bio: >-
+    广东陆丰乌坎村村民，2011 年乌坎村民抗议土地被私卖的主要组织者之一。12 月 9 日被汕尾警方刑事拘留，两天后在羁押中死亡。官方称心源性猝死、无外力致死迹象；家属和村民称遗体有多处伤痕，疑被折磨致死。12 月 21 日广东省委副书记朱明国答应交还遗体。
+  cites: [wd-Q15904726, c06-xinhua-2011-12-14-xue-jinbo, c06-voa-2011-12-12-wukan, e02-bbc-2011-12-21-wukan]
+
+- id: chen-shuibian
+  name: 陈水扁
+  gender: m
+  born: 1950-10-12
+  birthplace: 台南官田
+  roles: [hkmt]
+  status: retired
+  statusNote: 仍是受刑人，2015 年 1 月 5 日起保外就医，至 2026 年初已展延 43 次。
+  fall:
+    - { date: 2015-01-05, text: 因陈敏薰买官等四大弊案合并判刑 20 年定谳，服刑后获保外就医出监, cite: c06-udn-2026-01-04-chen-shuibian }
+  tier: 2
+  headline: 中华民国第 10、11 任总统，卸任后因贪腐入狱
+  ids: { wikidata: Q22368 }
+  positions:
+    - { title: 台北市议员, sys: gov, place: 台湾, from: 1981-12-25, to: 1985-09-28, cite: wd-Q22368 }
+    - { title: 立法委员, sys: gov, place: 台湾, from: 1990-02-01, to: 1994-12-25, cite: wd-Q22368 }
+    - { title: 台北市长, sys: gov, place: 台湾, from: 1994-12-25, to: 1998-12-25, cite: wd-Q22368 }
+    - { title: 中华民国总统, sys: gov, place: 台湾, from: 2000-05-20, to: 2008-05-20, cite: wd-Q22368 }
+    - { title: 民主进步党主席, sys: party, place: 台湾, from: 2002-07-21, to: 2004-12-11, cite: wd-Q22368 }
+    - { title: 民主进步党主席, sys: party, place: 台湾, from: 2007-10-15, to: 2008-01-12, cite: wd-Q22368 }
+  bio: >-
+    民进党籍，曾任台北市长。2000 年以 39.3% 得票当选总统，结束国民党在台执政，2008 年卸任。此后因陈敏薰买官等四大弊案被判刑 20 年定谳，2015 年 1 月起保外就医，创台湾受刑人保外就医最长纪录。2026 年 1 月他要主持电视节目，被台中监狱驳回。
+  cites: [wd-Q22368, e01-bbc-2000-03-18-chen-shuibian, c06-udn-2026-01-04-chen-shuibian, c06-cna-2026-01-04-chen-shuibian]
+
+- id: li-denghui
+  name: 李登辉
+  gender: m
+  born: 1923-01-15
+  died: 2020-07-30
+  birthplace: 台北三芝
+  roles: [hkmt]
+  status: dead
+  statusNote: 2020 年 7 月 30 日在台北荣民总医院去世，终年 98 岁。
+  tier: 2
+  headline: 中华民国第 7 至 9 任总统，提出“两国论”
+  ids: { wikidata: Q315528 }
+  positions:
+    - { title: 台北市长, sys: gov, place: 台湾, from: 1978-06-09, to: 1981-12-05, cite: wd-Q315528 }
+    - { title: 台湾省政府主席, sys: gov, place: 台湾, from: 1981-12-05, to: 1984-05-20, cite: wd-Q315528 }
+    - { title: 中华民国副总统, sys: gov, place: 台湾, from: 1984-05-20, to: 1988-01-13, cite: wd-Q315528 }
+    - { title: 中华民国总统, sys: gov, place: 台湾, from: 1988-01-13, to: 2000-05-20, cite: wd-Q315528 }
+    - { title: 中国国民党主席, sys: party, place: 台湾, from: 1988-01-27, to: 2000-03-24, cite: wd-Q315528 }
+  bio: >-
+    农业经济学者出身，受蒋经国提拔任副总统，1988 年蒋经国去世后继任总统，1996 年成为首任民选总统。1995 年访美并在康奈尔大学演讲，解放军随后在台湾海峡演习、发射导弹；1999 年提出两岸是特殊的国与国关系，北京因此中断许多两岸交流。卸任后被国民党开除党籍。
+  cites: [wd-Q315528, c06-bbc-2020-07-30-lee-teng-hui]
+
+- id: tang-yingnian
+  name: 唐英年
+  gender: m
+  born: 1952-09-06
+  birthplace: 香港
+  roles: [hkmt, biz]
+  status: active
+  statusNote: 全国政协常委；2025 年 9 月卸任西九文化区管理局董事局主席。
+  fall:
+    - { date: 2012-03-25, text: 参选第四任行政长官，因住宅违章建筑风波失利，仅得 285 票, cite: e02-bbc-2012-03-25-leung-elected }
+  tier: 2
+  headline: 前政务司司长，2012 年特首选举落败
+  ids: { wikidata: Q19220 }
+  positions:
+    - { title: 工商及科技局局长, sys: gov, place: 香港, from: 2002-07-01, to: 2003-08-03, cite: wd-Q19220 }
+    - { title: 财政司司长, sys: gov, place: 香港, from: 2003-08-05, to: 2007-06-30, cite: wd-Q19220 }
+    - { title: 署理行政长官, sys: gov, place: 香港, from: 2005-05-25, to: 2005-06-21, cite: wd-Q19220 }
+    - { title: 政务司司长, sys: gov, place: 香港, from: 2007-07-01, to: 2011-09-28, cite: wd-Q19220 }
+    - { title: 西九文化区管理局董事局主席, sys: other, place: 香港, from: 2017, to: 2025-09, cite: c06-hk01-2025-09-henry-tang }
+    - { title: 全国政协常委, sys: other, cite: c06-hkcd-2026-03-31-henry-tang }
+  bio: >-
+    商界出身，回归后历任工商及科技局局长、财政司司长和政务司司长，2005 年曾署理行政长官。2012 年参选特首，与梁振英同获建制派选委支持，但被揭发住宅地下有违章建筑地窖，最终只得 285 票。此后任全国政协常委，2025 年卸任西九文化区管理局主席。
+  cites: [wd-Q19220, c06-bbc-2012-02-16-henry-tang, e02-bbc-2012-03-25-leung-elected, c06-hk01-2025-09-henry-tang, c06-hkcd-2026-03-31-henry-tang]
+
+- id: zheng-liwen
+  name: 郑丽文
+  gender: f
+  born: 1969-11-12
+  birthplace: 云林
+  roles: [hkmt]
+  status: active
+  statusNote: 2025 年 11 月 1 日起任中国国民党主席。
+  tier: 2
+  headline: 中国国民党主席，民进党出身
+  ids: { wikidata: Q5091239 }
+  positions:
+    - { title: 国民大会代表, sys: gov, place: 台湾, from: 1996, to: 2000, cite: wd-Q5091239 }
+    - { title: 立法委员, sys: gov, place: 台湾, from: 2008-02-01, to: 2012-01-31, cite: wd-Q5091239 }
+    - { title: 行政院发言人, sys: gov, place: 台湾, from: 2012, to: 2014, cite: c06-cna-2025-10-18-cheng-li-wun-profile }
+    - { title: 立法委员, sys: gov, place: 台湾, from: 2020-02-01, to: 2024-01-31, cite: c06-cna-2025-10-18-cheng-li-wun-profile }
+    - { title: 中国国民党主席, sys: party, place: 台湾, from: 2025-11-01, cite: wd-Q5091239 }
+  bio: >-
+    台大法律系学生时参加野百合学运，毕业后加入民进党、任国大代表，年轻时曾主张台独，2002 年退党，2005 年加入国民党，历任立委和行政院发言人。2025 年 10 月以 50.15% 得票当选国民党主席，喊出“我是中国人”；2026 年 4 月在北京与习近平会面，表示坚持“九二共识”。
+  cites: [wd-Q5091239, c06-cna-2025-10-18-cheng-li-wun-elected, c06-cna-2025-10-18-cheng-li-wun-profile, e04-xinhua-2026-04-10-cheng-li-wun]

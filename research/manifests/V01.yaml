@@ -1,0 +1,129 @@
+# V01: round-2 verification and corrections
+web:
+  # 常万全
+  - id: v01-scmp-2019-07-11-chang-wanquan
+    title: China's former defence minister Chang Wanquan given military demotion
+    publisher: South China Morning Post
+    author: Minnie Chan
+    date: 2019-07-11
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/military/article/3018125/chinas-former-defence-minister-chang-wanquan-given-military
+    excerpt: true
+    keep: [ demoted two grades, There had not been an official announcement ]
+  - id: v01-rfi-2019-07-12-chang-wanquan
+    title: 港媒指前国防部长常万全因涉贪遭降级
+    publisher: 法广
+    date: 2019-07-12
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20190712-%E6%B8%AF%E5%AA%92%E6%8C%87%E5%89%8D%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%B8%B8%E4%B8%87%E5%85%A8%E5%9B%A0%E6%B6%89%E8%B4%AA%E9%81%AD%E9%99%8D%E7%BA%A7
+    excerpt: true
+    keep: [ 这是香港『南华早报』周四报道的消息, 常万全被降级处理的消息没有被官方公布 ]
+  # 刘亚洲
+  - id: v01-rfi-2024-03-24-liu-yazhou
+    title: 习近平的失踪者：前空军上将刘亚洲传判无期徒刑
+    publisher: 法广
+    date: 2024-03-24
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20240324-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E5%A4%B1%E8%B8%AA%E8%80%85-%E5%89%8D%E7%A9%BA%E5%86%9B%E4%B8%8A%E5%B0%86%E5%88%98%E4%BA%9A%E6%B4%B2%E4%BC%A0%E5%88%A4%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91
+    excerpt: true
+    keep: [ 美国之音3月23日报道援引, 刘亚洲秘密被捕传闻多时, 因此，刘亚洲实质处于 ]
+  # 秦刚
+  - id: v01-zaobao-2024-07-20-qin-gang
+    title: 中国官方首次披露秦刚因个人原因辞去人大代表职务
+    publisher: 联合早报
+    date: 2024-07-20
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240720-4310278
+    excerpt: true
+    keep: [ 中国人大网星期五（7月19日）发布 ]
+  - id: v01-cna-2025-10-19-qin-gang
+    title: 前中國外長秦剛2年多未露面 傳出席北京音樂節
+    publisher: 中央社
+    date: 2025-10-19
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202510190116.aspx
+    excerpt: true
+    keep: [ 社交媒體平台上流傳前中國外長秦剛 ]
+  - id: v01-udn-2026-03-08-qin-gang
+    title: 港媒：前中國外長秦剛貶為副部級 提早退休
+    publisher: 联合新闻网（中央社稿）
+    date: 2026-03-08
+    voice: zh
+    url: https://udn.com/news/story/7331/9366733
+    excerpt: true
+    keep: [ 香港明報今天引述消息報導, 明報表示，去年10月 ]
+  # 陈全国
+  - id: v01-scmp-2022-10-23-chen-quanguo
+    title: Former Xinjiang party boss Chen Quanguo among surprise exits from China's top leadership body
+    publisher: South China Morning Post
+    date: 2022-10-23
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/politics/article/3196909/former-xinjiang-party-boss-chen-quanguo-among-surprise-exits-chinas-top-leadership-body
+    excerpt: true
+    keep: [ "At 66, Chen is still two years short", "Chen is 66, still below" ]
+  # 田纪云
+  - id: v01-rfa-2008-02-11-tian-jiyun
+    title: 《炎黄春秋》连发四篇文章回忆赵紫阳
+    publisher: 自由亚洲电台
+    date: 2008-02-11
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhaoziyang-20080211.html
+    excerpt: true
+    keep: [ 其实这是《炎黄春秋》发表的第四篇 ]
+  # 吴仪
+  - id: v01-chinanews-2008-03-18-wu-yi
+    title: “铁娘子”吴仪：因中美知识产权谈判一战成名
+    publisher: 中国新闻网（京华时报稿）
+    date: 2008-03-18
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2008/03-18/1194764.shtml
+    excerpt: true
+    keep: [ 1991年，吴仪出任对外经济贸易部副部长, 临危受命担任中美知识产权谈判, 1992年1月17日，中美知识产权谈判, 在此后的中国入世谈判中 ]
+  # 王乐泉
+  - id: v01-bbc-2010-04-24-wang-lequan
+    title: 新疆党委书记王乐泉被免职
+    publisher: BBC中文网
+    date: 2010-04-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/04/100424_wanglequan_xinjiang
+    excerpt: true
+    keep: [ 自从去年新疆骚乱以来, 作为中央政治局委员的王乐泉, 去年7月发生的乌鲁木齐骚乱, 当局并没有解释 ]
+  # 孙志刚案
+  - id: v01-gov-2003-06-20-order-381
+    title: 中华人民共和国国务院令（第381号）城市生活无着的流浪乞讨人员救助管理办法
+    publisher: 中国政府网（国务院公报2003年第21号）
+    date: 2003-06-20
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2003/content_62246.htm
+    start: "第 381 号"
+    end: "收容遣送办法》同时废止。"
+  # 反卫星试验
+  - id: v01-bbc-2007-01-23-asat
+    title: China confirms satellite downed
+    publisher: BBC News
+    date: 2007-01-23
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/1/hi/world/asia-pacific/6289519.stm
+    excerpt: true
+    keep: [ China has confirmed it carried out a test, Foreign Ministry spokesman Liu Jianchao said, The US backed reports last week, It is the first known satellite intercept, "Several countries, including Japan", Until Tuesday, Feng Yun 1C polar orbit, The report was confirmed by US National Security Council ]
+  # 魏小东
+  - id: v01-xinhua-2026-06-22-cppcc-chairs
+    title: 王沪宁主持召开全国政协主席会议
+    publisher: 新华网
+    date: 2026-06-22
+    voice: official
+    url: https://www.xinhuanet.com/20260622/04158cf20b9849d695f24257a09df2c2/c.html
+    start: "&emsp;&emsp;新华社北京6月22日电"
+    end: "秦博勇出席会议。"
+  # 胡衡华
+  - id: v01-jfdaily-2026-05-28-hu-henghua
+    title: 胡衡华辞去重庆市长职务，此前因涉嫌严重违纪违法接受调查
+    publisher: 上观新闻（重庆日报、央视新闻稿）
+    date: 2026-05-28
+    voice: official
+    url: https://m.jfdaily.com/wx/detail.do?id=1119148
+    start: "根据《中华人民共和国地方各级"
+    end: "第五次会议备案。"

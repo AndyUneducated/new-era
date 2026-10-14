@@ -1,0 +1,127 @@
+# B13: quotes, person id → list. Every text is checked verbatim against its cite.
+fang-fenghui:
+  - text: 在这个方面，我们说得到，做得到。老祖宗留下的土地，一寸也不能丢！
+    cite: b13-sina-2014-05-16-fang-pentagon
+    kind: interview
+    date: 2014-05-15
+    occasion: 以总参谋长身份访问五角大楼，与美军参联会主席邓普西举行联合记者会，谈东海、南海
+    star: true
+  - text: We do not make trouble. We do not create trouble. But we're not afraid of trouble.
+    zh: 我们不惹事，不生事，但我们不怕事。
+    cite: b13-defenseone-2014-05-15-fang
+    kind: interview
+    date: 2014-05-15
+    occasion: 同一场五角大楼记者会，回应领土争端责任在谁的提问
+  - text: 中国在自己的领土领海上进行钻探作业是坚定不移的，这个井我们一定要打成，不会受任何外来的干扰和破坏。
+    cite: b13-people-2014-05-16-fang-drilling
+    kind: interview
+    date: 2014-05-15
+    occasion: 同一场记者会，谈中国在西沙中建岛附近海域的钻井作业
+  - text: But this is a peaceful, cordial and civilized lion.
+    zh: 但这是一头和平的、可亲的、文明的狮子。
+    cite: b13-defenseone-2014-05-15-fang
+    kind: interview
+    date: 2014-05-15
+    occasion: 同一场记者会，接着习近平“中国这头狮子已经醒了”的说法
+  - text: 经历了骡马化、摩托化、半机械化到机械化和信息化复合发展的过程
+    cite: b13-sina-2014-08-13-fang-old-staff
+    kind: interview
+    occasion: 回顾军旅往事，谈自己当团长、师长、军长时部队装备的变化
+wei-fenghe:
+  - text: 维护国家统一是军队的神圣职责。如果中国人民解放军不能维护祖国统一，那还要解放军干什么？！
+    cite: b13-thepaper-2019-06-02-wei-shangri-la
+    kind: public
+    date: 2019-06-02
+    occasion: 第 18 届香格里拉对话会大会发言，他作为国防部长第一次参加香会
+    star: true
+  - text: 美国统一不可分割，中国当然也统一不可分割。中国必须统一，也必然统一，哪有不统一的道理？
+    cite: b13-thepaper-2019-06-02-wei-shangri-la
+    kind: public
+    date: 2019-06-02
+    occasion: 同一篇发言，以林肯打赢南北战争类比台湾问题
+  - text: 你们难道说，六四我们处理不对吗？六四是有结论的。它是一场政治的风波，是一场政治的动乱，中央采取果断的措施，坚定采取了措施来对这一场动乱、制止和平息了动乱，这是正确的反应。
+    cite: b13-zaobao-2019-06-03-wei-june4
+    kind: adlib
+    date: 2019-06-02
+    occasion: 香会答问环节临近结束时，主动回到记者此前提出的六四问题
+  - text: 向世界显示我们双边关系已经发展到一个高水平，以及我们两军强化战略合作的坚定决心……让美国人知道中国与俄罗斯军队之间的紧密关系。
+    cite: b13-zaobao-2018-04-05-wei-moscow
+    kind: public
+    date: 2018-04
+    occasion: 就任国防部长后首次出访，在莫斯科对俄方说明此行目的
+  - text: 高等職業培訓學校就是要去除掉一些極端化思想，並經過受訓後再回歸社會。
+    cite: b13-cna-2019-06-02-wei-june4
+    kind: interview
+    date: 2019-06-02
+    occasion: 香会答问环节回答新疆问题
+fan-changlong:
+  - text: 总起来说，军队强不强，核心看打仗；战场打不赢，一切等于零。
+    cite: b13-sina-2014-10-06-fan-qiushi
+    kind: public
+    date: 2014-10-01
+    occasion: 在《求是》发表《在知耻奋进中肩负起强军兴军的历史责任》，以甲午战争为鉴
+    star: true
+  - text: 中国有句老话，叫忍痛容易忍痒难，忍穷容易忍辱难。
+    cite: b13-sina-2014-10-06-fan-qiushi
+    kind: public
+    date: 2014-10-01
+    occasion: 同一篇《求是》文章开头，谈甲午战败的屈辱记忆
+  - text: 要高标准、严要求推进反腐工作，对腐败零容忍，坚持有腐必反、有案必查，保持敢抓大抓常抓的态势，军中绝不能有腐败分子藏身之地。
+    cite: b13-sina-2014-10-06-fan-qiushi
+    kind: public
+    date: 2014-10-01
+    occasion: 同一篇文章，以徐才厚、谷俊山为反面教材
+  - text: 望远能知风浪小，凌空始觉海波平
+    cite: b13-consulate-2015-06-13-fan-carter
+    kind: public
+    date: 2015-06-11
+    occasion: 访美期间在华盛顿与美国国防部长卡特会谈，谈南海问题
+  - text: 徐才厚案件影响极其恶劣，教训极其深刻，党员领导干部要引为鉴戒。
+    cite: b13-xinhua-2014-11-02-gutian-close
+    kind: public
+    date: 2014-11-02
+    occasion: 古田全军政治工作会议闭幕讲话
+xu-qiliang:
+  - text: 这种“转移”是大势所趋，这种“拓展”是历史必然，这种发展不可逆转。一定意义上讲，控制了空天，就控制了地面、海洋和电磁空间，就掌握了战略主动权。
+    cite: b13-cyol-2009-11-02-xu-interview
+    kind: interview
+    date: 2009-11-02
+    occasion: 任空军司令员时接受媒体采访，谈军事力量竞争向空天领域转移
+    star: true
+  - text: 空天的军事化是对人类和平的挑战。在这种挑战面前，没有足够的力量就没有发言权，只有拥有强大的力量才能维护和保卫和平。
+    cite: b13-chinanews-2009-11-01-xu-space
+    kind: interview
+    date: 2009-11-01
+    occasion: 任空军司令员时对中新社谈空军发展战略
+  - text: Only power can protect peace
+    zh: 只有实力才能保卫和平
+    cite: b13-telegraph-2009-11-02-xu-space
+    kind: interview
+    date: 2009-11-01
+    occasion: 同一次采访，《每日电讯报》据此报道称北京反对太空武器化的立场出现转变
+  - text: 解放和发展生产力靠改革，解放和发展战斗力同样靠改革。
+    cite: b13-people-2013-11-21-xu-reform
+    kind: public
+    date: 2013-11-21
+    occasion: 十八届三中全会后在《人民日报》发表《坚定不移推进国防和军队改革》
+  - text: 明年全军政治工作的基调是整风整改，特别是对习主席指出的问题，要对号入座、对照检查、对照整改，见人见事见底。
+    cite: b13-xinhua-2014-11-02-gutian-close
+    kind: public
+    date: 2014-11-02
+    occasion: 古田全军政治工作会议闭幕讲话
+gu-junshan:
+  - text: 我后面也有人
+    cite: b13-guancha-2015-12-24-liu-yuan
+    kind: leaked
+    occasion: 据军事科学院罗援少将转述，刘源等以总后党委名义举报他之后，他这样回应
+    star: true
+  - text: 满足官兵生活工作的基本需要，要让战士们喝上干净水，洗上热水澡，如厕很方便
+    cite: b13-gmw-2007-07-22-barracks
+    kind: interview
+    date: 2007-07
+    occasion: 任总后基建营房部部长时谈全军营区综合配套整治
+  - text: 由于老标准内容缺项、指标偏低，近年来无标准、超标准建房现象时有发生，工程建设管理秩序受到影响。因此，与时俱进修订老标准势在必行。
+    cite: b13-chinanews-2009-12-07-gu-standards
+    kind: interview
+    date: 2009-12-07
+    occasion: 以总后基建营房部部长身份就新修订的营房建筑面积标准答记者问

@@ -1,0 +1,82 @@
+# F04: faction labels for officials and generals who had none. person id → labels.
+# Every quote is the sentence in the cited source that makes the label.
+
+# --- Li Peng and his circle ---
+li-peng:
+  - f: conservatives
+    cite: b01-bbc-2019-07-23-li-peng-obit
+    quote: '他的政绩平平，但获得以陈云为代表的中共保守派鼎力扶持'
+luo-gan:
+  - f: conservatives
+    cite: f01-bbc-2002-11-15-new-team
+    quote: '李鹏的亲信罗干则排名最后'
+  - f: conservatives
+    cite: b03-scmp-2002-11-16-luo-gan
+    quote: 'To protect himself, Mr Li has groomed Mr Luo to be his man in the Politburo Standing Committee'
+    zh: '为了自保，李（鹏）把罗（干）培养成他在政治局常委会里的人'
+
+# --- Jiang faction ---
+zhang-chunxian:
+  - f: jiang-shanghai
+    cite: f04-rfi-2016-03-09-xinjiang
+    quote: '被指是前总书记江泽民派系的新疆党委书记张春贤'
+  - f: jiang-shanghai
+    cite: f04-rfi-2016-03-09-xinjiang
+    quote: '张春贤被视为「江(泽民)派」人马'
+sun-zhengcai:
+  - f: jiang-shanghai
+    cite: f04-bbc-2017-07-24-sun-zhengcai
+    quote: '有评论说孙政才江派色彩浓厚，当初是江泽民选中孙政才作为最高领导人的候选人'
+
+# --- Youth League ---
+zhou-qiang:
+  - f: tuanpai
+    cite: f04-scmp-2012-09-23-zhou-qiang
+    quote: 'he is seen as a rising political star within the……the Communist Youth League camp that is the power base of party general secretary Hu Jintao for years'
+    zh: '他被视为共青团阵营里冉冉升起的政治新星，这个阵营多年来是总书记胡锦涛的权力基础'
+
+# --- Xi's networks ---
+huang-xingguo:
+  - f: zhijiang
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: '尤以浙江旧部“之江新军”分量最重……如习的浙江旧部黄兴国（前天津市代理书记）'
+zhou-jiangyong:
+  - f: zhijiang
+    cite: f04-rfa-2021-08-23-zhou-jiangyong
+    quote: '外界多把周江勇看作是在政治上与习近平捆绑在一起的所谓“之江新军”的一员'
+yang-xiaodu:
+  - f: xi-shanghai
+    cite: f04-bbc-2018-03-18-yang-xiaodu
+    quote: '为习近平“旧部”……2007年，习近平调任上海市委书记，彼时杨晓渡已任上海市委常委、统战部部长，是习近平的“班子”成员'
+wang-chen:
+  - f: xi-jiajun
+    cite: f04-rfa-2017-10-09-wang-chen
+    quote: '至今仍未被外界关注的习近平政治亲信王晨……习近平出任总书记的同时安排自己当年下乡插队时的“北京哥们”王歧山和王晨'
+
+# --- Zhou Yongkang network ---
+bai-enpei:
+  - f: zhou-clique
+    cite: f04-bbc-2014-08-29-bai-enpei
+    quote: '而蒋洁敏后来也成为周永康的亲信之一。因此有媒体报道说，白恩培也与周永康关系密切'
+
+# --- military princelings ---
+wu-shengli:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '表6列出的下届中央军委席位的14名候选人中，有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）'
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '目前中央军委中只有两人是太子党（李继耐和吴胜利）'
+  - f: army-princelings
+    cite: f04-rfa-2017-11-07-princelings
+    quote: '而在由11人构成的十八届中央军事委员会里，就有4人是太子党……吴胜利（前浙江省委书记吴宪之子，任海军司令员）'
+ma-xiaotian:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '表6列出的下届中央军委席位的14名候选人中，有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）'
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '这3名军官（马晓天、张海阳和刘源）全都是太子党'
+  - f: army-princelings
+    cite: f04-rfa-2017-11-07-princelings
+    quote: '而在由11人构成的十八届中央军事委员会里，就有4人是太子党……马晓天（前解放军大校之子、岳父曾为解放军中将，任空军司令员）'

@@ -38,7 +38,7 @@
   headline: 中纪委书记（1992–2002）、政治局常委（1997–2002）
   bio: >-
     留苏归来的东北轻合金加工厂厂长，1981 年任哈尔滨市长，1984–1987 年任中组部副部长、部长，随后恢复组建监察部并任部长。
-    1992–2002 年任中纪委书记，兼任全国总工会主席；1995 年陈希同下台后兼任北京市委书记两年。1997 年进入政治局常委会，2002 年退休。
+    1992–2002 年任中纪委书记，兼任全国总工会主席；1995 年 4 月中央批准陈希同引咎辞去北京市委书记，由他兼任，至 1997 年 8 月。1997 年进入政治局常委会，2002 年退休。
   positions:
     - { title: 哈尔滨市市长, sys: gov, place: 黑龙江, from: 1981-04, to: 1983-10, cite: c01-people-2015-08-17-wei-jianxing-life }
     - { title: 中央组织部副部长、部长, sys: party, from: 1984-08, to: 1987-05, cite: c01-people-2015-08-17-wei-jianxing-life }
@@ -48,7 +48,7 @@
     - { title: 北京市委书记, sys: party, place: 北京, from: 1995-04, to: 1997-08, cite: c01-people-2015-08-17-wei-jianxing-life }
     - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
   ids: { wikidata: Q1133559 }
-  cites: [wd-Q1133559, c01-people-2015-08-17-wei-jianxing-life]
+  cites: [wd-Q1133559, c01-people-2015-08-17-wei-jianxing-life, e01-cpc-dsj-1995]
 
 - id: li-lanqing
   name: 李岚清
@@ -114,7 +114,7 @@
   tier: 2
   headline: 国务院副总理（1983–1993）
   bio: >-
-    财政干部出身，长期在贵州、四川财政部门工作，任四川省财政厅厅长。1981 年调任国务院副秘书长，1983 年起任国务院副总理十年，主管经济改革，被视为赵紫阳的改革助手。
+    财政干部出身，长期在贵州、四川财政部门工作，任四川省财政厅厅长。1981 年调任国务院副秘书长，1983 年起任国务院副总理十年，主管经济改革。自由亚洲电台称他是赵紫阳的老部下；2007–2008 年他在《炎黄春秋》连发四篇文章回忆赵紫阳。
     1985 年增选为政治局委员、书记处书记，1993–2003 年任两届全国人大常委会副委员长。
   positions:
     - { title: 四川省财政厅厅长, sys: gov, place: 四川, to: 1981, cite: c01-chinanews-2002-05-17-tian-jiyun }
@@ -124,7 +124,7 @@
     - { title: 中央书记处书记, sys: party, from: 1985-09, to: 1987-11, cite: c01-chinanews-2002-05-17-tian-jiyun }
     - { title: 全国人大常委会副委员长, sys: gov, from: 1993-03, to: 2003-03, cite: c01-chinanews-2002-05-17-tian-jiyun }
   ids: { wikidata: Q986606 }
-  cites: [wd-Q986606, c01-chinanews-2002-05-17-tian-jiyun]
+  cites: [wd-Q986606, c01-chinanews-2002-05-17-tian-jiyun, v01-rfa-2008-02-11-tian-jiyun]
 
 - id: li-tieying
   name: 李铁映
@@ -267,7 +267,7 @@
   tier: 2
   headline: 国务院副总理（2003–2008）
   bio: >-
-    炼油工程师出身，曾任燕山石化党委书记、北京市副市长。1993–1998 年任对外贸易经济合作部部长，主持对美贸易谈判；1998 年任国务委员。
+    炼油工程师出身，曾任燕山石化党委书记、北京市副市长。1991 年任对外经济贸易部副部长，当年临危受命任中美知识产权谈判中方代表，1992 年 1 月签署中美保护知识产权谅解备忘录；1993–1998 年任对外贸易经济合作部部长；1998 年任国务委员。
     2003–2008 年任国务院副总理，非典期间兼任卫生部长和防治非典指挥部总指挥。2007 年十七大全退。
   positions:
     - { title: 北京市副市长, sys: gov, place: 北京, from: 1988, to: 1991, cite: c01-people-2013-02-26-wu-yi }
@@ -277,7 +277,7 @@
     - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2008-03, cite: c01-people-2013-02-26-wu-yi }
     - { title: 卫生部部长, sys: gov, from: 2003-04, to: 2005-04, cite: c01-people-2013-02-26-wu-yi }
   ids: { wikidata: Q50952 }
-  cites: [wd-Q50952, c01-people-2013-02-26-wu-yi, c01-gov-2018-03-19-state-council-history]
+  cites: [wd-Q50952, c01-people-2013-02-26-wu-yi, c01-gov-2018-03-19-state-council-history, v01-chinanews-2008-03-18-wu-yi]
 
 - id: wang-lequan
   name: 王乐泉
@@ -293,7 +293,7 @@
   headline: 新疆维吾尔自治区党委书记（1995–2010）
   bio: >-
     山东寿光的公社、县委干部出身，做过团省委副书记、聊城地委书记、山东副省长。1991 年赴新疆，1995–2010 年任自治区党委书记兼兵团第一政委长达十五年，2002 年进入政治局。
-    2009 年乌鲁木齐七五事件后次年调离新疆，改任中央政法委副书记。
+    2010 年 4 月调离新疆，改任中央政法委副书记。BBC 称他自 2009 年乌鲁木齐骚乱以来一直受到下台压力，但当局没有解释调任是否与骚乱有关。
   positions:
     - { title: 寿光县委书记, sys: party, place: 山东, from: 1978, to: 1982, cite: c01-jjckb-2007-10-23-wang-lequan }
     - { title: 共青团山东省委副书记, sys: party, place: 山东, from: 1982, to: 1986, cite: c01-jjckb-2007-10-23-wang-lequan }
@@ -302,7 +302,7 @@
     - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-jjckb-2007-10-23-wang-lequan }
     - { title: 中央政法委副书记, sys: party, from: 2010-04, to: 2012-11, cite: c01-cyol-2010-04-25-xinjiang-reshuffle }
   ids: { wikidata: Q715990 }
-  cites: [wd-Q715990, c01-jjckb-2007-10-23-wang-lequan, c01-cyol-2010-04-25-xinjiang-reshuffle, c01-people-2013-11-30-wang-lequan-law-society]
+  cites: [wd-Q715990, c01-jjckb-2007-10-23-wang-lequan, c01-cyol-2010-04-25-xinjiang-reshuffle, v01-bbc-2010-04-24-wang-lequan, c01-people-2013-11-30-wang-lequan-law-society]
 
 - id: wang-zhaoguo
   name: 王兆国
@@ -813,12 +813,12 @@
   joinedParty: 1968-11
   roles: [cmc, cc, general, minister]
   status: retired
-  statusNote: 2018 年 3 月卸任国防部长。德国之声 2019 年引述《南华早报》称他被降两级军衔，官方未公布。
+  statusNote: 2018 年 3 月卸任国防部长。据《南华早报》2019 年 7 月引述接近解放军的消息人士报道（德国之声、法广转述），他被降两级为副大军区级；官方从未公布。
   tier: 2
   headline: 国务委员兼国防部长（2013–2018）
   bio: >-
     从兰州军区第 47 军起家，历任兰州军区参谋长、北京军区参谋长，2004–2007 年任沈阳军区司令员，2007 年任总装备部部长并进入中央军委。
-    2013–2018 年任国务委员兼国防部长。2019 年外媒报道他因与郭伯雄、徐才厚关系密切被降级，官方未予证实。
+    2013–2018 年任国务委员兼国防部长。2019 年 7 月《南华早报》引述接近解放军的消息人士称，他因与郭伯雄、徐才厚关系密切被降两级，依据是其退休待遇已降至副大军区级；该报和法广都指出官方没有公布此事。
   positions:
     - { title: 兰州军区参谋长, sys: army, from: 2002, to: 2003, cite: c01-ce-2013-03-16-chang-wanquan }
     - { title: 北京军区参谋长, sys: army, from: 2003, to: 2004, cite: c01-ce-2013-03-16-chang-wanquan }
@@ -828,10 +828,11 @@
     - { title: 国务委员兼国防部部长, sys: gov, from: 2013-03, to: 2018-03, cite: c01-ce-2013-03-16-chang-wanquan }
   factions:
     - f: guo-xu
-      cite: c01-dw-2019-07-12-chang-wanquan
-      quote: 常万全因与前军委副主席郭伯雄、徐才厚关系密切，其军衔被降两级
+      cite: v01-scmp-2019-07-11-chang-wanquan
+      quote: was demoted two grades to a deputy regional commander-level officer because of his close relationship with former commission vice-chairmen Guo Boxiong and Xu Caihou
+      zh: 因与前军委副主席郭伯雄、徐才厚关系密切，被降两级为副大军区级军官。
   ids: { wikidata: Q27503 }
-  cites: [wd-Q27503, c01-ce-2013-03-16-chang-wanquan, c01-dw-2019-07-12-chang-wanquan]
+  cites: [wd-Q27503, c01-ce-2013-03-16-chang-wanquan, v01-scmp-2019-07-11-chang-wanquan, c01-dw-2019-07-12-chang-wanquan, v01-rfi-2019-07-12-chang-wanquan]
 
 - id: wu-shengli
   name: 吴胜利

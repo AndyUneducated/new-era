@@ -1,0 +1,241 @@
+# I03: sources for the round-2 concepts (wolf-warrior, qishang-baxia, cake-debate, happy-guangdong, neo-authoritarianism,
+# one-country-two-systems, socialist-market-economy, honor-disgrace, harmonious-world, yingshou-jinshou).
+web:
+  # ---- 战狼外交
+  - id: i03-bbc-2020-05-13-wolf-warrior
+    title: 疫情之下大行其道的中国“战狼”外交会不会成为新常态
+    publisher: BBC 中文
+    date: 2020-05-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-52632979
+    excerpt: true
+    keep: [ 很多西方学者和观察家称之为, 外交词汇出现在2017年, 对以美国为首的西方, 一词来自中国演员吴京 ]
+  - id: i03-bbc-2017-08-wolf-warrior-2
+    title: 观察：中国大片战狼2 好莱坞化的强国叙事
+    publisher: BBC 中文
+    date: 2017-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-40963085
+    excerpt: true
+    keep: [ 上映后21天后 ]
+  - id: i03-fmprc-2020-05-24-wang-yi-presser
+    title: 国务委员兼外交部长王毅就中国外交政策和对外关系回答中外记者提问
+    publisher: 外交部
+    date: 2020-05-24
+    voice: doc
+    url: https://www.fmprc.gov.cn/ziliao_674904/zyjh_674906/202005/t20200525_9870611.shtml
+    start: 2020年5月24日，十三届全国人大三次会议
+    end: 记者会历时1小时40分钟。
+  - id: i03-fmprc-2020-12-05-le-yucheng
+    title: 外交部副部长乐玉成：“战狼外交”是“中国威胁论”的又一翻版
+    publisher: 外交部
+    date: 2020-12-05
+    voice: official
+    url: https://www.fmprc.gov.cn/wjbxw_673019/202012/t20201205_390952.shtml
+    start: 2020年12月5日，外交部副部长乐玉成
+    end: 从100年前的旧梦里醒来。
+  - id: i03-voa-2021-03-27-wolf-warrior
+    title: 从阿拉斯加到新疆 专家：中国的战狼外交其实是骑虎难下
+    publisher: 美国之音
+    date: 2021-03-27
+    voice: zh
+    url: https://www.voachinese.com/a/wolf-warrior-china-20210326/5830135.html
+    excerpt: true
+    keep: [ 战狼外交一词约在2019年浮出水面, 环球时报周四 ]
+  # ---- 七上八下
+  - id: i03-zaobao-2016-11-01-deng-maosheng
+    title: 六中全会文件起草组成员邓茂生：习核心与集体领导不矛盾
+    publisher: 联合早报
+    date: 2016-11-01
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20161101-684633
+    excerpt: true
+    keep: [ 只是“民间说法”, 邓茂生昨天被问及 ]
+  - id: i03-rfa-2016-11-01-qishang-baxia
+    title: 官称中共党内并无“七上八下”规定
+    publisher: 自由亚洲电台
+    date: 2016-11-01
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql2-11012016102609.html
+    excerpt: true
+    keep: [ 只是“民间的说法”, 香港《明报》11月1日报道 ]
+  - id: i03-cna-2017-09-25-unwritten-rules
+    title: 中共高層人事潛規則 政治繼承始終難解
+    publisher: 中央社
+    date: 2017-09-25
+    voice: zh
+    url: https://www.cna.com.tw/news/firstnews/201709250220.aspx
+    excerpt: true
+    keep: [ 就是中共中央政治局常委超過70歲不尋求連任, 針對的是時任中國人民政治協商會議, 人稱「小木匠」 ]
+  - id: i03-rfa-2018-02-09-gaoxin-age-limit
+    title: 从“七十岁封顶”到“七上八下”（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2018-02-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02092018143634.html
+    excerpt: true
+    keep: [ 始于中共十六大, 当然不是一项有红头文件 ]
+  - id: i03-bbc-2002-11-age-limit
+    title: 點評：制度化與封建化的交錯
+    publisher: BBC 中文
+    date: 2002-11
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/china_news/newsid_2495000/24956752.stm
+    excerpt: true
+    keep: [ 六十八一刀切 ]
+  # ---- 幸福广东 / 蛋糕论
+  - id: i03-chinanews-2011-01-06-happy-guangdong
+    title: 汪洋：加快转型升级 建设“幸福广东”
+    publisher: 中国新闻网
+    date: 2011-01-06
+    voice: official
+    url: https://www.chinanews.com.cn/df/2011/01-06/2770713.shtml
+    start: 中新社广州1月6日电
+    end: 增强幸福感。
+  - id: i03-cntv-2011-01-21-wang-yang-cake
+    title: 汪洋：谨防“幸福”变政绩工程
+    publisher: 羊城晚报（央视网转载）
+    date: 2011-01-21
+    voice: official
+    url: http://news.cntv.cn/map/20110121/107470.shtml
+    start: 今年的省政协会议
+    end: 幸福就变成了画饼充饥”。
+  - id: i03-rfa-2011-06-29-wang-bo
+    title: 汪洋与薄熙来唱反调
+    publisher: 自由亚洲电台
+    date: 2011-06-29
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/wy-06292011090455.html
+    excerpt: true
+    keep: [ 汪洋在广东提出以“建设幸福广东”, 增强忧患意识比只是歌颂辉煌更重要 ]
+  # ---- 新权威主义
+  - id: i03-aisixiang-wu-jiaxiang-neo-authority
+    title: 从新权威到宪政民主——探索中国特色的政治改革理论
+    publisher: 爱思想
+    author: 吴稼祥
+    voice: scholar
+    url: https://www.aisixiang.com/data/23941.html
+    excerpt: true
+    keep: [ 他斩钉截铁地说, 新权威主义思潮首先兴起于上海, 1989年1月16日，该报 ]
+  - id: i03-aisixiang-2013-xiao-gongqin
+    title: 从邓小平到习近平：中国改革再出发
+    publisher: 爱思想
+    author: 萧功秦
+    date: 2013-12
+    voice: scholar
+    url: https://www.aisixiang.com/data/70569.html
+    excerpt: true
+    keep: [ 中国新权威主义代表学者萧功秦, 便可以理解习近平上台后提出的一系列措施 ]
+  - id: i03-bbc-2014-03-18-xi-power
+    title: 分析：习近平集大权于一身为制约警方？
+    publisher: BBC 中文
+    date: 2014-03-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/03/140318_xi_jinping
+    excerpt: true
+    keep: [ 新权威主义的表现, 绝大部分观察家都能从1980年代末 ]
+  - id: i03-ipkmedia-zhao-ziyang-yang-jisheng
+    title: 三访赵紫阳（杨继绳《中国改革年代的政治斗争》附录）
+    publisher: 光传媒
+    author: 杨继绳
+    voice: witness
+    url: https://ipkmedia.com/258331/
+    excerpt: true
+    keep: [ 我不认识吴稼祥, 我就是这个主张 ]
+  - id: i03-nytcn-2019-10-16-zhao-conversation
+    title: 软禁中的谈话：听赵紫阳谈改革
+    publisher: 纽约时报中文网
+    date: 2019-10-16
+    voice: zh
+    url: https://cn.nytimes.com/china/20191016/zhao-ziyang-conversation-chronicler/
+    excerpt: true
+    keep: [ 紫阳对于“新权威主义”的提法 ]
+  # ---- 一国两制
+  - id: i03-locpg-1984-06-22-deng-octs
+    title: 一个国家，两种制度——邓小平分别会见香港工商界访京团和香港知名人士钟士元等的谈话要点
+    publisher: 中央政府驻港联络办（《邓小平文选》第三卷）
+    date: 1984-06-22
+    voice: doc
+    url: http://www.locpg.gov.cn/jsdt/1984-06/22/c_125955746.htm
+    start: 中国政府为解决香港问题所采取的立场
+    end: 香港各界人士要为此作出努力。
+  # ---- 社会主义市场经济
+  - id: i03-reformdata-1992-10-12-14th-report
+    title: 加快改革开放和现代化建设步伐，夺取有中国特色社会主义事业的更大胜利——江泽民在中国共产党第十四次全国代表大会上的报告
+    publisher: 改革大数据服务平台（中国改革信息库）
+    date: 1992-10-12
+    voice: doc
+    url: http://www.reformdata.org/1992/1012/4229.shtml
+    start: 同志们：
+    end: 朝着宏伟的目标奋勇前进！
+  # ---- 八荣八耻
+  - id: i03-sina-2006-03-05-honor-disgrace
+    title: 胡锦涛参加政协讨论提出八荣八耻观
+    publisher: 新华社（新浪网转载）
+    date: 2006-03-04
+    voice: official
+    url: http://news.sina.com.cn/c/2006-03-05/00348361234s.shtml
+    start: 新华网北京3月4日电
+    end: 分别参加了以上各组的讨论。（完）
+  - id: i03-voa-2006-03-30-honor-disgrace
+    title: 分析中国掀起八荣八耻运动
+    publisher: 美国之音
+    date: 2006-03-30
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2006-03-30-voa64-58383262/1079596.html
+    excerpt: true
+    keep: [ 陈奎德认为 ]
+  # ---- 和谐世界
+  - id: i03-chinanews-2005-04-22-hu-asia-africa
+    title: 与时俱进，继往开来，构筑亚非新型战略伙伴关系——胡锦涛在亚非峰会上的讲话
+    publisher: 中国新闻网
+    date: 2005-04-22
+    voice: doc
+    url: http://www.chinanews.com.cn/news/2005/2005-04-22/26/566076.shtml
+    start: 中新网4月22日电
+    end: 谢谢大家。
+  - id: i03-mfa-2005-09-15-hu-un
+    title: 努力建设持久和平、共同繁荣的和谐世界——胡锦涛在联合国成立60周年首脑会议上的讲话
+    publisher: 外交部
+    date: 2005-09-15
+    voice: doc
+    url: https://www.mfa.gov.cn/ziliao_674904/zyjh_674906/200509/t20050916_7944415.shtml
+    start: 2005年9月15日，国家主席胡锦涛在联合国成立60周年首脑会议上
+    end: 谢谢各位。
+  - id: i03-jamestown-2014-major-country-diplomacy
+    title: Major Country Diplomacy with Chinese Characteristics
+    publisher: Jamestown Foundation China Brief
+    date: 2014-07
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/major-country-diplomacy-with-chinese-characteristics/
+    excerpt: true
+    keep: [ concepts introduced by Xi’s predecessor Hu Jintao ]
+  # ---- 应收尽收
+  - id: i03-nyt-2019-11-16-absolutely-no-mercy
+    title: "'Absolutely No Mercy': Leaked Files Expose How China Organized Mass Detentions of Muslims"
+    publisher: The New York Times
+    author: Austin Ramzy, Chris Buckley
+    date: 2019-11-16
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/20200108214926/https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html
+    excerpt: true
+    keep: [ ying shou jin shou, The vague phrase appears repeatedly, He refused ]
+  - id: i03-mfa-2019-11-18-geng-shuang
+    title: 2019年11月18日外交部发言人耿爽主持例行记者会
+    publisher: 外交部
+    date: 2019-11-18
+    voice: official
+    url: https://www.mfa.gov.cn/fyrbt_673021/jzhsl_673025/201911/t20191118_5418269.shtml
+    start: 问：《纽约时报》16日报道称
+    end: 新疆持续保持繁荣稳定、民族团结、社会和谐就是对个别媒体和个别人最有力的回击。
+  - id: i03-nytcn-2019-11-19-china-responds
+    title: 中国回应时报新疆报道，为镇压穆斯林辩护
+    publisher: 纽约时报中文网
+    date: 2019-11-19
+    voice: zh
+    url: https://cn.nytimes.com/china/20191119/china-xinjiang-muslims-leak/
+    excerpt: true
+    keep: [ 但他没有对泄露出来的403页内部文件的真实性提出质疑, 中国新疆自治区政府的声明 ]

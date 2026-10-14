@@ -1,0 +1,138 @@
+# E05 events, round 2 gap-filling
+web:
+  # 2001 七一讲话后的左派反弹
+  - id: e05-voa-2001-08-14-entrepreneurs
+    title: 私营企业家能否入党？(1)
+    publisher: 美国之音
+    date: 2001-08-14
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-a-2001-08-14-11-1-63332332/986242.html
+    excerpt: true
+    keep: [ 万言书, 资本家的共产党, 有没有财产 ]
+  - id: e05-voa-2001-08-17-dai-qing
+    title: 戴晴评《中流》和《真理的追求》停刊
+    publisher: 美国之音
+    date: 2001-08-17
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-a-2001-08-17-4-1-63352387/988882.html
+    excerpt: true
+    keep: [ 原教旨主义共产党刊物, 其实不确, 审查才能发表 ]
+  - id: e05-sina-2011-06-23-entrepreneurs
+    title: 翻越思想的樊篱（中国新闻周刊）
+    publisher: 中国新闻周刊（新浪转载）
+    author: 刘婉媛
+    date: 2011-06-23
+    voice: official
+    url: http://news.sina.com.cn/c/sd/2011-06-23/144122693401_2.shtml
+    excerpt: true
+    keep: [ 谨防资本主义复辟, 理论政变, 毛泽东旗帜网 ]
+  # 2005 芙蓉姐姐
+  - id: e05-chinanews-2005-06-27-furong
+    title: “芙蓉姐姐”冲击波背后
+    publisher: 中国新闻网
+    date: 2005-06-27
+    voice: official
+    url: http://www.chinanews.com.cn/news/2005/2005-06-27/26/591702.shtml
+    excerpt: true
+    keep: [ 才女加美女, 周杰伦, 看笑话, 呕吐的对象 ]
+  - id: e05-bbc-2005-08-02-furong
+    title: 透视﹕姐姐们‘e’举走红
+    publisher: BBC 中文
+    date: 2005-08-02
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4670000/newsid_4671300/4671359.stm
+    excerpt: true
+    keep: [ 网络狂欢, 芙蓉姐姐的走红，源起, 姐姐现象 ]
+  - id: e05-sina-2005-07-06-furong
+    title: 芙蓉姐姐成名于校园网盛于天涯博客
+    publisher: 新浪科技
+    date: 2005-07-06
+    voice: official
+    url: https://tech.sina.com.cn/i/2005-07-06/0844654932.shtml
+    excerpt: true
+    keep: [ 水木清华BBS图片版, 5月24日, 十大热门话题 ]
+  # 2012 谷俊山
+  - id: e05-chinanews-2012-02-11-gu-junshan
+    title: 解放军总后勤部人事调整 谷俊山不再担任副部长
+    publisher: 中国新闻网
+    date: 2012-02-11
+    voice: official
+    url: https://www.chinanews.com/gn/2012/02-11/3661048.shtml
+    excerpt: true
+    keep: [ 谷俊山已不再担任副部长, 廖锡龙, 1956年 ]
+  - id: e05-nytcn-2014-04-01-gu-junshan
+    title: 习近平反腐运动触及解放军高级将领
+    publisher: 纽约时报中文网
+    date: 2014-04-01
+    voice: zh
+    url: https://cn.nytimes.com/china/20140401/c01military/
+    excerpt: true
+    keep: [ 被秘密解除, 率先提出对谷俊山采取行动, 八年内在高层连升五级 ]
+  # 2012 黄岩岛
+  - id: e05-bbc-2012-04-11-scarborough
+    title: 中国要求菲律宾停止骚扰中国渔民
+    publisher: BBC 中文
+    date: 2012-04-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/04/120411_china_philippines_southsea
+    excerpt: true
+    keep: [ 海监75, 德尔毕拉尔, 黄岩岛 ]
+  - id: e05-cntv-2012-06-16-scarborough
+    title: 菲律宾总统下令菲方船只撤离黄岩岛海域
+    publisher: 中国网络电视台
+    date: 2012-06-16
+    voice: official
+    url: http://news.cntv.cn/world/20120616/108482.shtml
+    excerpt: true
+    keep: [ 撤离黄岩岛海域, 12艘中国渔船, 黄岩岛主权属于中国 ]
+  - id: e05-bbc-2019-06-24-scarborough-fishers
+    title: 南海主权争议下艰难求生的菲律宾渔民
+    publisher: BBC 中文
+    date: 2019-06-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-48754282
+    excerpt: true
+    keep: [ 大约两个月后菲律宾撤船 ]
+  # 2018 秦岭违建别墅
+  - id: e05-xinhua-2018-11-25-qinling
+    title: 瞭望｜“秦岭违建别墅”现在怎样了？
+    publisher: 新华社（《瞭望》新闻周刊）
+    date: 2018-11-25
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018-11/25/c_1123763779.htm
+    excerpt: true
+    keep: [ 1194栋, 2014年5月以来, 国家中央公园 ]
+  - id: e05-cctv-2019-01-09-qinling
+    title: 秦岭违建别墅整治始末 一抓到底正风纪
+    publisher: 央视网
+    date: 2019-01-09
+    voice: official
+    url: http://news.cctv.com/2019/01/09/ARTIxDkQvFJBQV3VT5relywf190109.shtml
+    excerpt: true
+    keep: [ 第六次重要批示指示, 徐令义担任专项整治工作组组长, 依法拆除1185栋, 首先从政治纪律查起 ]
+  # 2019 新疆文件
+  - id: e05-rfa-2019-11-17-xinjiang-papers
+    title: 《纽约时报》曝光中共内部文件 揭露新疆镇压内幕
+    publisher: 自由亚洲电台
+    date: 2019-11-17
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/3-11172019155842.html
+    excerpt: true
+    keep: [ 403页, 匿名的中国政界人士, 文件包含的关键信息有, 内外有别, 不要理会国际社会 ]
+  # 2023 中央科技委员会
+  - id: e05-gov-2023-03-16-reform-plan
+    title: 中共中央 国务院印发《党和国家机构改革方案》
+    publisher: 新华社（中国政府网）
+    date: 2023-03-16
+    voice: doc
+    url: https://www.gov.cn/zhengce/2023-03/16/content_5747072.htm
+    start: 新华社北京3月16日电
+    end: 及时向党中央请示报告。
+  - id: e05-voa-2023-03-13-tech
+    title: 习近平要求科技自立自强，美中深陷科技冷战？
+    publisher: 美国之音
+    date: 2023-03-13
+    voice: zh
+    url: https://www.voachinese.com/a/xi-calls-for-technology-self-sufficiency-20230313/7003523.html
+    excerpt: true
+    keep: [ 该委员会将向习近平负责, 卡脖子 ]

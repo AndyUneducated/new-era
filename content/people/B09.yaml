@@ -192,7 +192,7 @@
   joinedWork: 1970-12
   roles: [pb, sec, cc]
   status: retired
-  statusNote: 2022年10月卸任政治局委员、书记处书记，2023年春卸任中组部长，2026年6月前卸任中央党校校长，此后未见公开职务。
+  statusNote: 2022年10月卸任政治局委员、书记处书记，2023年春卸任中组部长，2026年6月由蔡奇接任中央党校校长（6月5日蔡奇首次以校长身份出席活动），此后未见公开职务。
   tier: 1
   headline: 中共中央政治局委员、中央书记处书记、中央组织部部长（2017–2022）
   ids: { wikidata: Q8293788 }
@@ -213,7 +213,7 @@
     - { title: 中央组织部常务副部长, sys: party, from: 2013-04, to: 2017-10, cite: b09-zaobao-2017-10-24-chen-xi }
     - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: b09-people-2018-04-chen-xi-cv }
     - { title: 中央组织部部长, sys: party, from: 2017-10, to: 2023-04, cite: b09-zaobao-2023-04-26-chen-xi-out }
-    - { title: 中央党校（国家行政学院）校长, sys: party, from: 2017-10, to: 2026, cite: b06-cna-2026-06-06-cai-party-school }
+    - { title: 中央党校（国家行政学院）校长, sys: party, from: 2017-10, to: 2026-06, cite: b06-cna-2026-06-06-cai-party-school }
   life:
     - h: 工人与工农兵学员
       from: 1953
@@ -445,8 +445,8 @@
       from: 2022-06
       to: 2022-10
       text: >-
-        2022年6月14日，陈全国以中央农村工作领导小组副组长的新身份首次亮相，给组长胡春华当副手。同年10月二十大，他与刘鹤、陈希等9名十九届政治局委员一起不再进入中央委员会。按他1955年11月的出生年月推算，当时他还不满67岁，并未到“七上八下”的退休年龄。此后未见他新的公开任职。
-      cites: [b09-thepaper-2022-06-14-chen-rural, b09-cna-2022-06-15-chen-rural, b09-rfa-2022-10-22-20th-cc, b09-xinhua-2017-10-25-chen-quanguo-cv]
+        2022年6月14日，陈全国以中央农村工作领导小组副组长的新身份首次亮相，给组长胡春华当副手。同年10月二十大，他与刘鹤、陈希等9名十九届政治局委员一起不再进入中央委员会。按他1955年11月的出生年月推算，当时他还不满67岁，并未到“七上八下”的退休年龄；《南华早报》当时也写道，66岁的他离68岁的非正式退休年龄还差两年。此后未见他新的公开任职。
+      cites: [b09-thepaper-2022-06-14-chen-rural, b09-cna-2022-06-15-chen-rural, b09-rfa-2022-10-22-20th-cc, b09-xinhua-2017-10-25-chen-quanguo-cv, v01-scmp-2022-10-23-chen-quanguo]
   assess:
     - voice: zh
       quote: true

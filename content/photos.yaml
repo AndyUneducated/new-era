@@ -5,6 +5,12 @@ ai-weiwei:
   author: Jindřich Nosek (NoJin)
   license: CC BY-SA 4.0
   date: 2017-03-16
+bai-enpei:
+  file: http://image2.sina.com.cn/dy/c/2006-03-05/U1335P1T1D9270179F21DT20060305164342.jpg
+  url: http://news.sina.com.cn/c/2006-03-05/16439270179.shtml
+  author: "新华网"
+  license: "版权归原发布机构"
+  date: 2006-03-05
 bao-tong:
   file: File:Chinese ex-official Bao Tong at home (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Chinese_ex-official_Bao_Tong_at_home_(cropped).jpg
@@ -30,9 +36,9 @@ cai-xia:
   license: Public domain
   date: 2022-10-26
 cai-yingwen:
-  file: File:蔡英文官方元首肖像照.png
+  file: "File:蔡英文官方元首肖像照.png"
   url: https://commons.wikimedia.org/wiki/File:%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png
-  author: ​中華民國總統府
+  author: "​中華民國總統府"
   license: Attribution
   date: 2016-05-10
 cao-gangchuan:
@@ -65,12 +71,24 @@ chen-guangcheng:
   author: U.S. Department of State from United States
   license: Public domain
   date: 2012-05-01
+chen-hao:
+  file: File:Yunnan Governor Chen Hao (cropped).jpg
+  url: https://commons.wikimedia.org/wiki/File:Yunnan_Governor_Chen_Hao_(cropped).jpg
+  author: The President's Office, Maldives
+  license: CC BY 4.0
+  date: 2015-04-13
 chen-jining:
   file: File:Chen Jining, Secretary of the Chinese Communist Party's Shanghai Municipal Committee in Shanghai, People's Republic of China on 9 December 2023 (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Chen_Jining,_Secretary_of_the_Chinese_Communist_Party%27s_Shanghai_Municipal_Committee_in_Shanghai,_People%27s_Republic_of_China_on_9_December_2023_(cropped).jpg
   author: WIPO | OMPI
   license: CC BY 2.0
   date: 2023-12-11
+chen-liangyu:
+  file: http://image2.sina.com.cn/dy/c/2002-11-16/1_1-1-21-295_2002111624137.jpg
+  url: http://news.2008.sina.com.cn/c/2002-11-16/0241808842.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-11-16
 chen-miner:
   file: File:Chen Miner.jpg
   url: https://commons.wikimedia.org/wiki/File:Chen_Miner.jpg
@@ -89,6 +107,12 @@ chen-quanguo:
   author: 中国新闻网
   license: CC BY 3.0
   date: 2020-05-22
+chen-shuibian:
+  file: File:Chen Shui Bian MOD.jpg
+  url: https://commons.wikimedia.org/wiki/File:Chen_Shui_Bian_MOD.jpg
+  author: 百楽兎
+  license: CC BY-SA 3.0
+  date: 2009-09-13
 chen-wenqing:
   file: File:Chen Wenqing (2024).jpg
   url: https://commons.wikimedia.org/wiki/File:Chen_Wenqing_(2024).jpg
@@ -107,6 +131,12 @@ chen-yixin:
   author: Radio Free Asia, part of the U.S. Agency for Global Media, crop by Abovfold
   license: Public domain
   date: Unknown da
+chen-yunlin:
+  file: File:Voa chinese Chen Yunlin.jpg
+  url: https://commons.wikimedia.org/wiki/File:Voa_chinese_Chen_Yunlin.jpg
+  author: Zhaung Nan
+  license: Public domain
+  date: 2009-04-25
 chi-haotian:
   file: File:Chi Haotian.jpg
   url: https://commons.wikimedia.org/wiki/File:Chi_Haotian.jpg
@@ -119,23 +149,65 @@ cui-shian:
   author: AG0ST1NH0 (talk)
   license: CC BY-SA 3.0
   date: Friday, Oc
+cui-zhiyuan:
+  file: File:Cui Zhiyuan profile.jpg
+  url: https://commons.wikimedia.org/wiki/File:Cui_Zhiyuan_profile.jpg
+  author: Discott
+  license: CC0
 dai-bingguo:
   file: File:Dai Bingguo 051208-D-9880W-068.jpg
   url: https://commons.wikimedia.org/wiki/File:Dai_Bingguo_051208-D-9880W-068.jpg
   author: Robert D. Ward
   license: Public domain
   date: 2005-12-08
+dai-qing:
+  file: File:Dai Qing.jpg
+  url: https://commons.wikimedia.org/wiki/File:Dai_Qing.jpg
+  author: 美国之音
+  license: Public domain
+  date: 2010-05-27
 dai-yaoting:
-  file: File:戴耀廷喺社區網絡聯盟成立典禮度.jpg
+  file: "File:戴耀廷喺社區網絡聯盟成立典禮度.jpg"
   url: https://commons.wikimedia.org/wiki/File:%E6%88%B4%E8%80%80%E5%BB%B7%E5%96%BA%E7%A4%BE%E5%8D%80%E7%B6%B2%E7%B5%A1%E8%81%AF%E7%9B%9F%E6%88%90%E7%AB%8B%E5%85%B8%E7%A6%AE%E5%BA%A6.jpg
   author: Okstartnow
   license: CC0
   date: 2017-08-06
+deng-huilin:
+  file: http://fanfu.people.com.cn/NMediaFile/2020/0615/MAIN202006150846000146837667048.jpg
+  url: http://fanfu.people.com.cn/n1/2020/0615/c64371-31746786.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2020-06-15
+  focus: 52% 25%
+deng-xiaoping:
+  file: File:Deng Xiaoping and Jimmy Carter at the arrival ceremony for the Vice Premier of China. - NARA - 183157-restored(cropped).jpg
+  url: https://commons.wikimedia.org/wiki/File:Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157-restored(cropped).jpg
+  author: Unknown authorUnknown author
+  license: Public domain
+  date: Taken on 2
+ding-guangen:
+  file: https://web.archive.org/web/20031225184729im_/http://news.xinhuanet.com/ziliao/2002-01/16/xinsrc_24ea54090a7b11d6abfd00b0d03f0b06.jpg
+  url: https://web.archive.org/web/20031225184729/http://news.xinhuanet.com/ziliao/2002-01/16/content_240513.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-01-16
+ding-jiaxi:
+  file: File:Ding Jiaxi.jpg
+  url: https://commons.wikimedia.org/wiki/File:Ding_Jiaxi.jpg
+  author: Unknown authorUnknown author
+  license: Public domain
+  date: 2024-04-08
 ding-xuexiang:
   file: File:Ding Xuexiang 2024 (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Ding_Xuexiang_2024_(cropped).jpg
   author: Foreign, Commonwealth & Development Office
   license: CC BY 2.0
+ding-zilin:
+  file: File:Ding Zilin, 2014 (cropped).jpg
+  url: https://commons.wikimedia.org/wiki/File:Ding_Zilin,_2014_(cropped).jpg
+  author: Voice of America
+  license: Public domain
+  date: 2014-01-03
 dong-jianhua:
   file: File:Tung Chee-hwa chopped.jpg
   url: https://commons.wikimedia.org/wiki/File:Tung_Chee-hwa_chopped.jpg
@@ -166,6 +238,13 @@ fang-fenghui:
   author: http://www.defenselink.mil/
   license: Public domain
   date: 2013-04-20
+fu-quanyou:
+  file: https://web.archive.org/web/20031225173321im_/http://news.xinhuanet.com/ziliao/2002-01/16/xinsrc_675b10740e4d11d6abfd00b0d03f0b06.jpg
+  url: https://web.archive.org/web/20031225173321/http://news.xinhuanet.com/ziliao/2002-01/16/content_240635.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-01-16
+  focus: 55% 35%
 fu-zhenghua:
   file: File:Fu Zhenghua.png
   url: https://commons.wikimedia.org/wiki/File:Fu_Zhenghua.png
@@ -184,6 +263,19 @@ gao-zhisheng:
   author: The Epoch Times (Velká Epocha)
   license: CC BY 3.0
   date: 2011-12-20
+gong-daoan:
+  file: https://web.archive.org/web/20200325034848im_/http://ldzl.people.com.cn/dfzlk/image/upload/20180202_8RNA7GhREfge4MMbpF0VBRREiPKD4QWk.jpg
+  url: https://web.archive.org/web/20200325034848/http://ldzl.people.com.cn/dfzlk/front/personPage18701.htm
+  author: 人民网地方领导资料库
+  license: "版权归原发布机构"
+  date: 2018-02-02
+gu-junshan:
+  file: http://i1.sinaimg.cn/dy/c/2012-02-11/U5214P1T1D23917260F23DT20120211090838.jpg
+  url: http://news.sina.com.cn/c/2012-02-11/085023917260.shtml
+  author: "中国经济网"
+  license: "版权归原发布机构"
+  date: 2012-02-11
+  focus: 47% 28%
 guo-boxiong:
   file: File:Guo Boxiong.jpg
   url: https://commons.wikimedia.org/wiki/File:Guo_Boxiong.jpg
@@ -211,7 +303,7 @@ guo-shengkun:
 guo-wengui:
   file: File:Guo Wen-gui in April 2017.jpg
   url: https://commons.wikimedia.org/wiki/File:Guo_Wen-gui_in_April_2017.jpg
-  author: 美国之音东方拍摄
+  author: "美国之音东方拍摄"
   license: Public domain
   date: 2017-04-19
 han-zheng:
@@ -262,16 +354,22 @@ he-yong:
   author: Ministry of Home Affairs
   license: GODL-India
   date: 2006-01-04
+hu-angang:
+  file: https://www.iccs.tsinghua.edu.cn/uploadfile/upload/image/20201209/2020120910335169.jpg
+  url: https://www.iccs.tsinghua.edu.cn/expert_info/583.html
+  author: "清华大学国情研究院"
+  license: "版权归原发布机构"
+  date: 2020-12-09
 hu-chunhua:
   file: File:Hu Chunhua (2019-09-05) 2.jpg
   url: https://commons.wikimedia.org/wiki/File:Hu_Chunhua_(2019-09-05)_2.jpg
-  author: Пресс-служба Президента России
+  author: "Пресс-служба Президента России"
   license: CC BY 4.0
   date: 2019-09-05
 hu-deping:
   file: File:胡徳平.jpg
   url: https://commons.wikimedia.org/wiki/File:%E8%83%A1%E5%BE%B3%E5%B9%B3.jpg
-  author: 外務省
+  author: "外務省"
   license: CC BY 4.0
   date: 2009-02-12
 hu-haifeng:
@@ -281,7 +379,7 @@ hu-haifeng:
   license: CC BY 3.0
   date: 2019-03-05
 hu-henghua:
-  file: File:胡衡华 (53287447433).jpg
+  file: "File:胡衡华 (53287447433).jpg"
   url: https://commons.wikimedia.org/wiki/File:%E8%83%A1%E8%A1%A1%E5%8D%8E_(53287447433).jpg
   author: Governo do Estado de São Paulo
   license: CC BY 2.0
@@ -304,6 +402,12 @@ hu-xijin:
   author: 中国新闻网
   license: CC BY 4.0
   date: 2021-09-26
+hu-yaobang:
+  file: File:Hu Yaobang (cropped).jpg
+  url: https://commons.wikimedia.org/wiki/File:Hu_Yaobang_(cropped).jpg
+  author: Unknown author
+  license: CC BY-SA 4.0
+  date: 1986-06-20
 huang-ju:
   file: File:Huang Ju, Davos (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Huang_Ju,_Davos_(cropped).jpg
@@ -316,6 +420,12 @@ huang-kunming:
   author: Agencia de Noticias ANDES
   license: CC BY-SA 2.0
   date: 2016-11-17
+huang-qifan:
+  file: File:Voa chinese Huang+Qifan 20120309 300.jpg
+  url: https://commons.wikimedia.org/wiki/File:Voa_chinese_Huang%2BQifan_20120309_300.jpg
+  author: Voice of America
+  license: Public domain
+  date: 2012-03-17
 huang-xingguo:
   file: File:Huang Xingguo 2010.jpg
   url: https://commons.wikimedia.org/wiki/File:Huang_Xingguo_2010.jpg
@@ -339,12 +449,36 @@ jia-qinglin:
   author: VOA Photo/Zhang Nan
   license: Public domain
   date: 2009-05-01
+jiang-chunyun:
+  file: https://www.chinanews.com.cn/2002-05-20/26/_1021883438_jcy.jpg
+  url: https://www.chinanews.com.cn/2002-05-20/26/187043.html
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2002-05-20
+jiang-jiemin:
+  file: http://img.ifeng.com/tres/finance//upload/images/2013/0325/190408/363_7819921_b81c487824c1ce816178e489820ca24e.jpg
+  url: http://finance.ifeng.com/news/special/cjgghb/20130325/7819921.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2013-03-25
+jiang-mianheng:
+  file: http://www.sim.cas.cn/skjj2016/lrsz_129507/201611/W020161128550226560791.jpg
+  url: http://www.sim.cas.cn/skjj2016/lrsz_129507/201611/t20161128_4709980.html
+  author: "中国科学院上海微系统与信息技术研究所"
+  license: "版权归原发布机构"
+  date: 2016-11-28
 jiang-zemin:
   file: File:Jiang Zemin 2002.jpg
   url: https://commons.wikimedia.org/wiki/File:Jiang_Zemin_2002.jpg
   author: Kremlin.ru / Roman Kubanskiy
   license: CC BY 4.0
   date: 香港教师节
+jin-canrong:
+  file: http://sis.ruc.edu.cn/images/2025-04/e05dda041792460d9bf1b387b11f2d61.png
+  url: http://sis.ruc.edu.cn/ch/jzygzw/jxyyjzw/280db6168c424a5c942679f6e06f017a.htm
+  author: 中国人民大学国际关系学院
+  license: "版权归原发布机构"
+  date: 2025-04
 jin-xiangjun:
   file: File:金湘军 2024-04-25.jpg
   url: https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B9%98%E5%86%9B_2024-04-25.jpg
@@ -363,12 +497,38 @@ lai-qingde:
   author: 總統府
   license: Attribution
   date: 2022-01-20
+lai-xiaomin:
+  file: http://fanfu.people.com.cn/NMediaFile/2018/0418/MAIN201804180808000189686531756.png
+  url: http://fanfu.people.com.cn/n1/2018/0418/c64371-29932966.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2018-04-18
+  focus: 48% 35%
 li-changchun:
   file: File:LiChangchun-2.JPG
   url: https://commons.wikimedia.org/wiki/File:LiChangchun-2.JPG
   author: "LiChangchun.jpg: LordJezo (talk). The original uploader was LordJezo at English Wikipedia. derivative work: Rhythm (talk)"
   license: CC BY-SA 3.0
   date: 2010-01-02
+li-chuncheng:
+  file: http://i1.ce.cn/district/newarea/sddy/201212/13/W020121206481144936942.jpg
+  url: http://district.ce.cn/newarea/sddy/201212/13/t20121213_23937499.shtml
+  author: "中国经济网"
+  license: "版权归原发布机构"
+  date: 2012-12-13
+li-denghui:
+  file: File:Lee Teng-hui official portrait.png
+  url: https://commons.wikimedia.org/wiki/File:Lee_Teng-hui_official_portrait.png
+  author: "李登輝基金會（Lee Teng-hui Foundation）"
+  license: CC BY 4.0
+  date: "before 17 "
+li-dongsheng:
+  file: http://www.chinanews.com.cn/gn/news/2009/10-28/U238P4T8D1936038F107DT20091028221451.jpg
+  url: http://www.chinanews.com.cn/gn/news/2009/10-28/1936038.shtml
+  author: 中国新闻社
+  license: "版权归原发布机构"
+  date: 2009-10-28
+  focus: 55% 30%
 li-ganjie:
   file: File:Li Ganjie.jpg
   url: https://commons.wikimedia.org/wiki/File:Li_Ganjie.jpg
@@ -382,7 +542,7 @@ li-hongzhong:
   license: CC BY 2.0
   date: 2025-05-15
 li-jiachao:
-  file: File:李家超 John Lee Ka-chiu 2021.jpg
+  file: "File:李家超 John Lee Ka-chiu 2021.jpg"
   url: https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E5%AE%B6%E8%B6%85_John_Lee_Ka-chiu_2021.jpg
   author: 中国新闻网
   license: CC BY 3.0
@@ -393,6 +553,12 @@ li-jianguo:
   author: Government of Thailand
   license: CC BY 2.0
   date: 2010-11-10
+li-jinai:
+  file: http://i1.ce.cn/ce/xwzx/gnsz/szyw/200705/21/W020070521566358802528.jpg
+  url: http://www.ce.cn/xwzx/gnsz/szyw/200705/21/t20070521_11437845.shtml
+  author: "新华网"
+  license: "版权归原发布机构"
+  date: 2007-05-21
 li-keqiang:
   file: File:Li Keqiang (20230104).jpg
   url: https://commons.wikimedia.org/wiki/File:Li_Keqiang_(20230104).jpg
@@ -426,9 +592,21 @@ li-ruihuan:
 li-shangfu:
   file: File:Li Shangfu (2023-04-17).jpg
   url: https://commons.wikimedia.org/wiki/File:Li_Shangfu_(2023-04-17).jpg
-  author: Минобороны России
+  author: "Минобороны России"
   license: CC BY 4.0
   date: 2023-04-17
+li-shulei:
+  file: https://cpc.people.com.cn/mediafile/pic/20221023/4/17206645115903074676.jpg
+  url: https://cpc.people.com.cn/20th/n1/2022/1023/c448334-32550061-14.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2022-10-23
+li-tieying:
+  file: https://web.archive.org/web/20031211033847im_/http://news.xinhuanet.com/ziliao/2002-01/16/xinsrc_07f208ee56c411d797d200b0d03f0aaf.jpg
+  url: https://web.archive.org/web/20031211033847/http://news.xinhuanet.com/ziliao/2002-01/16/content_240535.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-01-16
 li-wenliang:
   file: File:LiWengliang.jpg
   url: https://commons.wikimedia.org/wiki/File:LiWengliang.jpg
@@ -441,12 +619,24 @@ li-xi:
   author: The President's Office, Maldives
   license: CC BY 4.0
   date: 2025-09-02
+li-xiaolin:
+  file: http://www.cppcc.gov.cn/photoworkspace/temp/2015030308560349232.jpg
+  url: http://www.cppcc.gov.cn/zxww/2015/03/03/ARTI1425343984857455.shtml
+  author: "中国政协网"
+  license: "版权归原发布机构"
+  date: 2015-03-03
+  focus: 50% 15%
 li-xiaopeng:
   file: File:Li Xiaopeng-20240308.png
   url: https://commons.wikimedia.org/wiki/File:Li_Xiaopeng-20240308.png
   author: 中国新闻社
   license: CC BY 4.0
   date: 2024-03-08
+li-yining:
+  file: http://scholar.pku.edu.cn/sites/default/files/0324_PHOTO.jpeg
+  url: http://scholar.pku.edu.cn/ynli
+  author: 北京大学
+  license: "版权归原发布机构"
 li-yuanchao:
   file: File:Li Yuanchao on May 25, 2016 (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Li_Yuanchao_on_May_25,_2016_(cropped).jpg
@@ -472,7 +662,7 @@ li-zhiying:
   license: Public domain
   date: 2019-07-09
 li-zhuming:
-  file: File:李柱銘喺咖啡室度.jpg
+  file: "File:李柱銘喺咖啡室度.jpg"
   url: https://commons.wikimedia.org/wiki/File:%E6%9D%8E%E6%9F%B1%E9%8A%98%E5%96%BA%E5%92%96%E5%95%A1%E5%AE%A4%E5%BA%A6.jpg
   author: Okstartnow
   license: CC0
@@ -501,6 +691,19 @@ liang-zhenying:
   author: Iris Tong
   license: Public domain
   date: 2013-01-16
+liao-xilong:
+  file: http://image2.sina.com.cn/jc/2006-01-19/U1220P27T1D345571F3DT20060119113855.jpg
+  url: http://mil.news.sina.com.cn/2006-01-19/1131345571.html
+  author: 中国新闻社
+  license: "版权归原发布机构"
+  date: 2006-01-19
+  focus: 50% 25%
+lin-rongji:
+  file: File:林榮基喺維園度.jpg
+  url: https://commons.wikimedia.org/wiki/File:%E6%9E%97%E6%A6%AE%E5%9F%BA%E5%96%BA%E7%B6%AD%E5%9C%92%E5%BA%A6.jpg
+  author: Okstartnow
+  license: CC0
+  date: 2017-07-01
 lin-xiangyang:
   file: File:Lin Xiangyang.jpg
   url: https://commons.wikimedia.org/wiki/File:Lin_Xiangyang.jpg
@@ -531,6 +734,12 @@ liu-he:
   author: Katie Niederee and Julia Lawless
   license: Public domain
   date: 2018-05-16
+liu-jinguo:
+  file: https://cpc.people.com.cn/mediafile/pic/20221023/38/14033730353834202054.jpg
+  url: https://cpc.people.com.cn/20th/n1/2022/1023/c448334-32550061-25.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2022-10-23
 liu-qi:
   file: File:Liu Qi Beijing.jpg
   url: https://commons.wikimedia.org/wiki/File:Liu_Qi_Beijing.jpg
@@ -544,9 +753,9 @@ liu-qibao:
   license: CC BY 4.0
   date: 2016-03-25
 liu-tienan:
-  file: File:刘铁男.jpg
+  file: "File:刘铁男.jpg"
   url: https://commons.wikimedia.org/wiki/File:%E5%88%98%E9%93%81%E7%94%B7.jpg
-  author: 吕瑞
+  author: "吕瑞"
   license: CC0
   date: 2013-06-18
 liu-xia:
@@ -567,6 +776,25 @@ liu-yandong:
   author: U.S. Department of State from United States
   license: Public domain
   date: 2011-04-12
+liu-yanping:
+  file: http://politics.people.com.cn/NMediaFile/2015/0518/MAIN201505180946000116661817090.jpg
+  url: http://politics.people.com.cn/n/2015/0518/c1001-27016166.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2015-05-18
+liu-yazhou:
+  file: https://web.archive.org/web/20160726091213im_/http://y1.ifengimg.com/iproduct/p27/2013/08/27/521c741522581.jpg
+  url: https://web.archive.org/web/20160726091213/http://renwuku.news.ifeng.com/index/detail/248/liuyazhou
+  author: "凤凰网中国政要资料库"
+  license: "版权归原发布机构"
+  date: 2013-08-27
+liu-yuan:
+  file: http://i1.sinaimg.cn/jc/2011-01-19/U2142P27T1D628745F3DT20110119144541.jpg
+  url: http://mil.news.sina.com.cn/2011-01-19/1334628745.html
+  author: 中国新闻社
+  license: "版权归原发布机构"
+  date: 2011-01-19
+  focus: 42% 22%
 liu-yunshan:
   file: File:Liu-Yunshan.png
   url: https://commons.wikimedia.org/wiki/File:Liu-Yunshan.png
@@ -579,18 +807,39 @@ liu-zhenli:
   author: 中国新闻社
   license: CC BY 4.0
   date: 2025-03-14
+liu-zhijun:
+  why: "Wikidata 图是与佩洛西等人的高铁站合影（File:Beijing-Tianjin High Speed Train.jpg），裁成头像脸太小"
 lou-jiwei:
   file: File:Lou Jiwei.jpg
   url: https://commons.wikimedia.org/wiki/File:Lou_Jiwei.jpg
   author: Ministry of Finance of India
   license: GODL-India
   date: 2016-04-14
+lou-qinjian:
+  file: File:Lou Qinjian (20231123).jpg
+  url: https://commons.wikimedia.org/wiki/File:Lou_Qinjian_(20231123).jpg
+  author: 在中国日本国大使館ホームページ
+  license: CC BY 4.0
+  date: 2023-11-23
+  focus: 47% 42%
 lu-wei:
   file: File:Lu Wei.png
   url: https://commons.wikimedia.org/wiki/File:Lu_Wei.png
   author: VOA
   license: Public domain
   date: 2014-12-02
+luo-gan:
+  file: https://web.archive.org/web/20071110010157im_/http://news.xinhuanet.com/ziliao/2002-01/16/xin_47050224103195303165.jpg
+  url: https://web.archive.org/web/20071110010157/http://news.xinhuanet.com/ziliao/2002-01/16/content_240564.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-01-16
+luo-guancong:
+  file: File:Nathan Law at US Capitol.jpg
+  url: https://commons.wikimedia.org/wiki/File:Nathan_Law_at_US_Capitol.jpg
+  author: Senator Todd Young
+  license: Public domain
+  date: 2019-09-17
 luo-huining:
   file: File:Luo Huining.jpg
   url: https://commons.wikimedia.org/wiki/File:Luo_Huining.jpg
@@ -645,6 +894,20 @@ meng-jianzhu:
   author: Prime Minister's Office
   license: GODL-India
   date: 2016-11-09
+miao-hua:
+  file: https://www.chinanews.com.cn/2014/1225/201412259359.jpg
+  url: https://www.chinanews.com.cn/mil/2014/12-25/6910070.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2014-12-25
+  focus: 45% 22%
+nur-bekri:
+  file: File:Voa chinese Xinjiang Governor Nur Bekri 7mar10.jpg
+  url: https://commons.wikimedia.org/wiki/File:Voa_chinese_Xinjiang_Governor_Nur_Bekri_7mar10.jpg
+  author: 美国之音张楠
+  license: Public domain
+  date: 2010-03-07
+  focus: 45% 28%
 pan-gongsheng:
   file: File:Pan Gongsheng.jpg
   url: https://commons.wikimedia.org/wiki/File:Pan_Gongsheng.jpg
@@ -654,7 +917,7 @@ pan-gongsheng:
 pan-shiyi:
   file: File:Pan Shiyi 20171206.jpg
   url: https://commons.wikimedia.org/wiki/File:Pan_Shiyi_20171206.jpg
-  author: PAS China（美国驻华大使馆）
+  author: "PAS China（美国驻华大使馆）"
   license: Public domain
   date: 2017-12-06
 peng-liyuan:
@@ -681,6 +944,19 @@ qian-qichen:
   author: Helene C. Stikkel
   license: Public domain
   date: 1997-04-29
+qiang-shigong:
+  file: File:Qiangshigong PKU Law.jpg
+  url: https://commons.wikimedia.org/wiki/File:Qiangshigong_PKU_Law.jpg
+  author: Hhhderreich
+  license: CC BY-SA 4.0
+  date: 2022-02-01
+  focus: 24% 38%
+qiao-qingchen:
+  file: http://www.hinews.cn/pic/0/10/13/68/10136863_607408.jpg
+  url: https://www.hinews.cn/news/system/2007/09/25/010151997.shtml
+  author: "南海网"
+  license: "版权归原发布机构"
+  date: 2007-09-25
 qin-gang:
   file: File:Hoekstra visits China (52969043363) (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Hoekstra_visits_China_(52969043363)_(cropped).jpg
@@ -699,6 +975,12 @@ qin-hui:
   author: "Qin_Hui_(1).jpg: Heinrich-Böll-Stiftung derivative work: FishInWater (talk)"
   license: CC BY-SA 2.0
   date: 2011-11-21
+qiu-he:
+  file: http://upload.m.ccdi.gov.cn/2015/0315/1426417003333.jpg
+  url: https://m.ccdi.gov.cn/content/0f/64/2071.html
+  author: 中央纪委监察部网站
+  license: "版权归原发布机构"
+  date: 2015-03-15
 ren-zhengfei:
   file: File:Ren Zhengfei (2016).jpg
   url: https://commons.wikimedia.org/wiki/File:Ren_Zhengfei_(2016).jpg
@@ -711,6 +993,25 @@ ren-zhiqiang:
   author: Wang65
   license: CC BY-SA 3.0
   date: 2012-01-10
+shi-taifeng:
+  file: File:Shi Taifeng 2025.jpg
+  url: https://commons.wikimedia.org/wiki/File:Shi_Taifeng_2025.jpg
+  author: 中国新闻社
+  license: CC BY 4.0
+  date: 2025-03-14
+song-tao:
+  file: File:Song Tao 2019 (cropped).jpg
+  url: https://commons.wikimedia.org/wiki/File:Song_Tao_2019_(cropped).jpg
+  author: Karl Norman Alonoz for the Presidential Communications Operations Office
+  license: Public domain
+  date: 2019-03-27
+su-rong:
+  file: https://www.chinanews.com.cn/gn/news/2007/11-30/U23P4T8D1092409F116DT20071130154211.jpg
+  url: https://www.chinanews.com.cn/gn/news/2007/11-30/1092409.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2007-11-30
+  focus: 48% 20%
 sun-chunlan:
   file: File:Sun Chunlan (22551034609) (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Sun_Chunlan_(22551034609)_(cropped).jpg
@@ -723,6 +1024,12 @@ sun-dawu:
   author: VOA
   license: Public domain
   date: "2014"
+sun-lijun:
+  file: http://district.ce.cn/newarea/sddy/201803/29/W020250521581188464728.jpg
+  url: http://district.ce.cn/newarea/sddy/201803/29/t20180329_28652111_1.shtml
+  author: "中国经济网"
+  license: "版权归原发布机构"
+  date: 2018-03-29
 sun-shaocheng:
   file: File:Sun Shaocheng.jpg
   url: https://commons.wikimedia.org/wiki/File:Sun_Shaocheng.jpg
@@ -747,12 +1054,31 @@ tang-renjian:
   author: "Photographer: Zhou Na"
   license: CC BY 4.0
   date: 2024-04-26
+tang-yingnian:
+  file: File:Henry Tang 2012.jpg
+  url: https://commons.wikimedia.org/wiki/File:Henry_Tang_2012.jpg
+  author: Iris Tong
+  license: Public domain
+  date: 2012-12-31
+  focus: 42% 35%
 tian-jiyun:
   file: File:Tian Jiyun.jpg
   url: https://commons.wikimedia.org/wiki/File:Tian_Jiyun.jpg
   author: Rob Bogaerts / Anefo
   license: CC0
   date: 1985-06-17
+tian-xiusi:
+  file: https://www.hkcd.com/userfiles/1468113351.jpg
+  url: https://www.hkcd.com/content/2016-07/10/content_1007656.html
+  author: 香港商报
+  license: "版权归原发布机构"
+  date: 2016-07-10
+wan-qingliang:
+  file: https://web.archive.org/web/2014im_/http://gd.people.com.cn/NMediaFile/2012/0513/LOCAL201205132148331222634282640.jpg
+  url: http://gd.people.com.cn/GB/218903/218963/338706/index.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2012-05-13
 wang-chen:
   file: File:Wang Chen in 2018.jpg
   url: https://commons.wikimedia.org/wiki/File:Wang_Chen_in_2018.jpg
@@ -771,8 +1097,14 @@ wang-gang:
   author: President's Secretariat
   license: GODL-India
   date: 2006-11-21
+wang-hui:
+  file: File:Wang Hui, Berlin 2016.jpg
+  url: https://commons.wikimedia.org/wiki/File:Wang_Hui,_Berlin_2016.jpg
+  author: Rosa-Luxemburg-Stiftung
+  license: CC BY 3.0
+  date: 2016-07-08
 wang-huning:
-  file: File:王沪宁 Wang Huning 20221023.jpg
+  file: "File:王沪宁 Wang Huning 20221023.jpg"
   url: https://commons.wikimedia.org/wiki/File:%E7%8E%8B%E6%B2%AA%E5%AE%81_Wang_Huning_20221023.jpg
   author: China News Service
   license: CC BY 4.0
@@ -783,12 +1115,76 @@ wang-jianlin:
   author: World Economic Forum
   license: CC BY-SA 2.0
   date: 2009-09-12
+wang-jianping:
+  file: https://www.chinanews.com.cn/2014/1225/2014122593454.jpg
+  url: https://www.chinanews.com.cn/mil/2014/12-25/6910070.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2014-12-25
+  focus: 55% 32%
+wang-ke:
+  file: https://www.chinanews.com.cn/2002-05-20/26/_1021856964_wk.jpg
+  url: https://www.chinanews.com.cn/2002-05-20/26/186836.html
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2002-05-20
+  focus: 40% 35%
+wang-lequan:
+  file: http://www.chinanews.com.cn/gn/news/2007/10-22/U23P4T8D1055971F107DT20071022185701.jpg
+  url: http://www.chinanews.com.cn/gn/news/2007/10-22/1055971.shtml
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2007-10-22
+wang-lijun:
+  file: https://web.archive.org/web/20170228213247im_/http://images.china.cn/attachement/jpg/site1000/20110527/001ec949f8550f49567916.jpg
+  url: http://www.china.com.cn/policy/txt/2011-05/27/content_22654409.htm
+  author: 中国网（中国新闻网）
+  license: "版权归原发布机构"
+  date: 2011-05-27
+wang-like:
+  file: http://renshi.people.com.cn/NMediaFile/2015/1204/MAIN201512040852000142208573747.jpg
+  url: http://renshi.people.com.cn/n/2015/1204/c139617-27889064.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2015-12-04
+wang-min:
+  file: http://i3.sinaimg.cn/dy/c/2009-11-30/U2107P1T1D19158908F21DT20091130205547.jpg
+  url: http://news.sina.com.cn/c/2009-11-30/205519158908.shtml
+  author: 中国新闻社
+  license: "版权归原发布机构"
+  date: 2009-11-30
 wang-qishan:
   file: File:Wang Qishan in May 2018.jpg
   url: https://commons.wikimedia.org/wiki/File:Wang_Qishan_in_May_2018.jpg
   author: The Presidential Press and Information Office
   license: CC BY 4.0
   date: between 23
+wang-ruilin:
+  file: https://www.chinanews.com.cn/2002-05-20/26/_1021857790_wrl.jpg
+  url: https://www.chinanews.com.cn/2002-05-20/26/186843.html
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2002-05-20
+wang-sanyun:
+  file: https://web.archive.org/web/20120107104131im_/http://www.gs.xinhuanet.com/news/2011-12/11/xin_1431208111043562110652.jpg
+  url: https://web.archive.org/web/20120107104131/http://www.gs.xinhuanet.com/news/2011-12/11/content_24310398.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2011-12-11
+wang-shaoguang:
+  file: File:Wang shaoguang.jpg
+  url: https://commons.wikimedia.org/wiki/File:Wang_shaoguang.jpg
+  author: United Nations University
+  license: CC BY 3.0
+  date: 2013-09-20
+  focus: 50% 12%
+wang-xiangxi:
+  file: http://news.cnhubei.com/a/10001/202209/c658ea03fae2abe2d77010751266de43.jpeg
+  url: http://news.cnhubei.com/content/2022-09/02/content_15029254.html
+  author: "荆楚网（湖北日报网）"
+  license: "版权归原发布机构"
+  date: 2022-09-02
+  focus: 42% 22%
 wang-xiaohong:
   file: File:Minister Wang Xiaohong of China in Vienna, Austria on 18 February 2024 (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Minister_Wang_Xiaohong_of_China_in_Vienna,_Austria_on_18_February_2024_(cropped).jpg
@@ -801,6 +1197,10 @@ wang-yang:
   author: U.S. Department of State from United States
   license: Public domain
   date: 2013-07-10
+wang-yeping:
+  file: File:Wang Yeping.jpg
+  url: https://commons.wikimedia.org/wiki/File:Wang_Yeping.jpg
+  license: Public domain
 wang-yi:
   file: File:Jake Sullivan and Wang Yi met in Bangkok (2024) (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Jake_Sullivan_and_Wang_Yi_met_in_Bangkok_(2024)_(cropped).jpg
@@ -822,9 +1222,15 @@ wei-fenghe:
 wei-jianxing:
   file: File:Wei Jianxing 1996.jpg
   url: https://commons.wikimedia.org/wiki/File:Wei_Jianxing_1996.jpg
-  author: 대한민국 국가기록원
+  author: "대한민국 국가기록원"
   license: KOGL Type 1
   date: 1996-04-22
+wei-xiaodong:
+  file: https://web.archive.org/web/20241215003200im_/https://www.beijing.gov.cn/gongkai/sld/szxld/dzsj/202201/W020230119719399420824.jpg
+  url: https://web.archive.org/web/20241215003200/https://www.beijing.gov.cn/gongkai/sld/szxld/dzsj/202201/t20220108_2586263.html
+  author: 首都之窗（北京市人民政府）
+  license: "版权归原发布机构"
+  date: 2023-01-19
 wen-jiabao:
   file: File:Wen Jiabao - Annual Meeting of the New Champions 2012.jpg
   url: https://commons.wikimedia.org/wiki/File:Wen_Jiabao_-_Annual_Meeting_of_the_New_Champions_2012.jpg
@@ -837,16 +1243,28 @@ wu-bangguo:
   author: Dilma Rousseff from Brasil
   license: CC BY-SA 2.0
   date: Taken on 1
+wu-changshun:
+  file: File:Wu Changshun.jpg
+  url: https://commons.wikimedia.org/wiki/File:Wu_Changshun.jpg
+  author: 中国新闻网
+  license: CC BY 3.0
+  date: 2022-01-17
 wu-gan:
   file: File:屠夫.jpg
   url: https://commons.wikimedia.org/wiki/File:%E5%B1%A0%E5%A4%AB.jpg
   author: Smileycharity
   license: CC BY-SA 4.0
   date: 2013-10-30
+wu-guanzheng:
+  file: https://www.chinanews.com.cn/2002-11-16/26/_1037379279_3.jpg
+  url: https://www.chinanews.com.cn/2002-11-16/26/244199.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2002-11-16
 wu-jinglian:
   file: File:Wu Jinglian 1930.jpg
   url: https://commons.wikimedia.org/wiki/File:Wu_Jinglian_1930.jpg
-  author: 美国之音 记者张佩芝拍摄
+  author: "美国之音 记者张佩芝拍摄"
   license: Public domain
   date: "2012"
 wu-shengli:
@@ -855,6 +1273,13 @@ wu-shengli:
   author: U.S. Navy photo by Mass Communication 1st Class Tiffini M. Jones
   license: Public domain
   date: 2009-04-18
+wu-si:
+  file: File:Wu si.jpg
+  url: https://commons.wikimedia.org/wiki/File:Wu_si.jpg
+  author: Caaat
+  license: CC BY-SA 3.0
+  date: 2011-09-12
+  focus: 36% 30%
 wu-yi:
   file: File:Wu Yi.jpg
   url: https://commons.wikimedia.org/wiki/File:Wu_Yi.jpg
@@ -879,6 +1304,25 @@ xia-baolong:
   author: Ministry of Commerce and Industry (India)
   license: GODL-India
   date: 2014-11-26
+xiang-junbo:
+  file: http://politics.people.com.cn/NMediaFile/2017/0409/MAIN201704091434000527218147672.jpg
+  url: http://politics.people.com.cn/n1/2017/0409/c1001-29197719.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2017-04-09
+xiao-han:
+  file: File:Xiao Han.jpg
+  url: https://commons.wikimedia.org/wiki/File:Xiao_Han.jpg
+  author: VOA
+  license: Public domain
+  date: "2012"
+  focus: 42% 40%
+xie-fei:
+  file: http://www.people.com.cn/mediafile/pic/20130226/50/4416109804490937498.jpg
+  url: http://cpc.people.com.cn/daohang/n/2013/0226/c357210-20603242.html
+  author: 人民网
+  license: "版权归原发布机构"
+  date: 2013-02-26
 xu-caihou:
   file: File:Xu Caihou 2009.jpg
   url: https://commons.wikimedia.org/wiki/File:Xu_Caihou_2009.jpg
@@ -891,10 +1335,22 @@ xu-jiayin:
   author: China News Service
   license: CC BY 4.0
   date: 2026-08-20
+xu-lin:
+  file: "File:徐麟.png"
+  url: https://commons.wikimedia.org/wiki/File:%E5%BE%90%E9%BA%9F.png
+  author: China News Service
+  license: CC BY 4.0
+  date: 2020-06-07
+xu-liuping:
+  file: https://web.archive.org/web/20230208191656id_/http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/377722/2018082316072442643.png
+  url: https://web.archive.org/web/20230208191656/http://www.faw.com.cn/fawcn/373692/jtgl/gsldcy/377722/index.html
+  author: "中国第一汽车集团有限公司"
+  license: "版权归原发布机构"
+  date: 2018-08-23
 xu-qiliang:
   file: File:Xu Qiliang (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Xu_Qiliang_(cropped).jpg
-  author: Пресс-служба Президента Российской Федерации
+  author: "Пресс-служба Президента Российской Федерации"
   license: CC BY 4.0
   date: 2015-11-17
 xu-zhiyong:
@@ -924,7 +1380,7 @@ yang-jing:
 yang-jisheng:
   file: File:YangJisheng.jpg
   url: https://commons.wikimedia.org/wiki/File:YangJisheng.jpg
-  author: Youxin Pavilion (用心阁)
+  author: "Youxin Pavilion (用心阁)"
   license: CC BY-SA 3.0
   date: 2010-09-18
 yang-xiaodu:
@@ -933,6 +1389,12 @@ yang-xiaodu:
   author: Cesar Itiberê/PR
   license: CC BY 2.0
   date: 2018-06-28
+ye-jianming:
+  file: https://web.archive.org/web/2017im_/http://cefc.co/userfiles/zhuxi(1).jpg
+  url: https://web.archive.org/web/2017/http://cefc.co/about.php?te=011&&type=001
+  author: "中国华信能源有限公司"
+  license: "版权归原发布机构"
+  date: "2017"
 yi-gang:
   file: File:Yi Gang 2018 (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Yi_Gang_2018_(cropped).jpg
@@ -1008,7 +1470,7 @@ zeng-peiyan:
 zeng-qinghong:
   file: File:Zeng Qinghong in 2000.jpg
   url: https://commons.wikimedia.org/wiki/File:Zeng_Qinghong_in_2000.jpg
-  author: 대한민국 국가기록원
+  author: "대한민국 국가기록원"
   license: KOGL Type 1
   date: 2000-04-03
 zeng-yinquan:
@@ -1017,12 +1479,24 @@ zeng-yinquan:
   author: World Economic Forum
   license: CC BY-SA 2.0
   date: 2012-01-28
+zhang-chunxian:
+  file: http://www.xinhuanet.com/politics/2012-11/15/113700513_181n.jpg
+  url: http://www.xinhuanet.com/politics/2012-11/15/c_113700513_18.htm
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2012-11-15
 zhang-dejiang:
   file: File:Zhang Dejiang in May.2014.jpg
   url: https://commons.wikimedia.org/wiki/File:Zhang_Dejiang_in_May.2014.jpg
-  author: Lelde Rāfelde, Saeimas Kanceleja
+  author: "Lelde Rāfelde, Saeimas Kanceleja"
   license: CC BY-SA 1.0
   date: 2014-05-27
+zhang-dingfa:
+  file: http://image2.sina.com.cn/jc/2006-12-23/b90b29f5cea7cbc3d7ec5a685c8ca314.JPG
+  url: http://jczs.news.sina.com.cn/2006-12-23/0639421644.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2006-12-23
 zhang-gaoli:
   file: File:Zhang-Gaoli 1.jpeg
   url: https://commons.wikimedia.org/wiki/File:Zhang-Gaoli_1.jpeg
@@ -1041,6 +1515,24 @@ zhang-jun:
   author: 中国新闻网
   license: CC BY 3.0
   date: 2020-05-22
+zhang-lichang:
+  file: http://www.sinaimg.cn/dy/c/2007-08-01/U2297P1T1D13573269F21DT20070801161846.jpg
+  url: http://news.sina.com.cn/c/2007-08-01/161813573269.shtml
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2007-08-01
+zhang-shengmin:
+  file: http://www.mod.gov.cn/gfbw/qwfb/_attachment/2025/10/23/16417022_87ef2e0917ed667223f05aa59b13a9c1.jpg
+  url: http://www.mod.gov.cn/gfbw/qwfb/16417022.html
+  author: "新华社"
+  license: "版权归原发布机构"
+  date: 2025-10-23
+zhang-shuofu:
+  file: https://web.archive.org/web/20180821223448im_/http://ldzl.people.com.cn/dfzlk/image/upload/20141002_BCgoeKH0yIcjE27dFPZpALlPbLZxC0Jb.jpg
+  url: https://web.archive.org/web/20180821223448/http://ldzl.people.com.cn/dfzlk/front/personPage6347.htm
+  author: 人民网地方领导资料库
+  license: "版权归原发布机构"
+  date: 2014-10-02
 zhang-wannian:
   file: File:Zhang-Wannian.jpg
   url: https://commons.wikimedia.org/wiki/File:Zhang-Wannian.jpg
@@ -1053,22 +1545,34 @@ zhang-weiwei:
   author: 中国新闻网
   license: CC BY 3.0
   date: 2021-09-26
+zhang-yang:
+  file: https://www.chinanews.com.cn/mil/2012/10-25/U90P4T8D4276004F107DT20130624113844.jpg
+  url: https://www.chinanews.com.cn/mil/2012/10-25/4276004.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2012-10-25
 zhang-youxia:
   file: File:Zhang Youxia (2017-12-07) 3.jpg
   url: https://commons.wikimedia.org/wiki/File:Zhang_Youxia_(2017-12-07)_3.jpg
-  author: Пресс-служба Президента России
+  author: "Пресс-служба Президента России"
   license: CC BY 4.0
   date: 2017-12-07
 zhao-hongzhu:
-  file: File:2017趙洪祝.jpg
+  file: "File:2017趙洪祝.jpg"
   url: https://commons.wikimedia.org/wiki/File:2017%E8%B6%99%E6%B4%AA%E7%A5%9D.jpg
   author: 美国之音中文网
   license: Public domain
   date: 2021-09-08
+zhao-keshi:
+  file: https://www.chinanews.com.cn/mil/2012/10-25/U151P4T8D4276006F107DT20121025114851.jpg
+  url: https://www.chinanews.com.cn/mil/2012/10-25/4276006.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2012-10-25
 zhao-kezhi:
   file: File:Zhao Kezhi (cropped).jpg
   url: https://commons.wikimedia.org/wiki/File:Zhao_Kezhi_(cropped).jpg
-  author: 美国驻华大使馆（PAS China）
+  author: "美国驻华大使馆（PAS China）"
   license: Public domain
   date: 2017-09-22
 zhao-leji:
@@ -1089,12 +1593,30 @@ zhao-ziyang:
   author: Rob Bogaerts / Anefo
   license: CC0
   date: 1985-06-17
+zheng-bijian:
+  file: File:Zheng Bijian delivers a speech at the 2015 Understanding China Conference.jpg
+  url: https://commons.wikimedia.org/wiki/File:Zheng_Bijian_delivers_a_speech_at_the_2015_Understanding_China_Conference.jpg
+  author: Tomcohen05
+  license: CC BY-SA 4.0
+  date: 2015-11-03
+zheng-liwen:
+  file: "File:2025.11.08 50年代白色恐怖政治受難者追思慰靈大會 10 (cropped).jpg"
+  url: https://commons.wikimedia.org/wiki/File:2025.11.08_50%E5%B9%B4%E4%BB%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%94%BF%E6%B2%BB%E5%8F%97%E9%9B%A3%E8%80%85%E8%BF%BD%E6%80%9D%E6%85%B0%E9%9D%88%E5%A4%A7%E6%9C%83_10_(cropped).jpg
+  author: KOKUYO
+  license: CC BY-SA 4.0
+  date: 2025-11-08
 zheng-yanxiong:
   file: File:Zheng Yanxiong 2023.jpg
   url: https://commons.wikimedia.org/wiki/File:Zheng_Yanxiong_2023.jpg
   author: China News Service
   license: CC BY 4.0
   date: 2023-01-16
+zhou-benshun:
+  file: https://www.chinanews.com.cn/gn/2013/03-20/U291P4T8D4661250F107DT20130320155007.jpg
+  url: https://www.chinanews.com.cn/gn/2013/03-20/4661250.shtml
+  author: 中国长安网
+  license: "版权归原发布机构"
+  date: 2013-03-20
 zhou-jiangyong:
   file: File:Zhou Jiangyong.jpg
   url: https://commons.wikimedia.org/wiki/File:Zhou_Jiangyong.jpg
@@ -1125,10 +1647,16 @@ zhou-yongkang:
   author: Barry Bahler
   license: Public domain
   date: 2006-07-27
+zhu-mingguo:
+  file: https://www.chinanews.com.cn/fz/2014/11-28/U466P4T8D6826687F107DT20141128152404.jpg
+  url: https://www.chinanews.com.cn/fz/2014/11-28/6826687.shtml
+  author: 中国新闻网
+  license: "版权归原发布机构"
+  date: 2014-11-28
 zhu-rongji:
   file: File:Zhu Rongji in 2000.jpg
   url: https://commons.wikimedia.org/wiki/File:Zhu_Rongji_in_2000.jpg
-  author: 대한민국 국가기록원 (Korea’s National Archives)
+  author: "대한민국 국가기록원 (Korea’s National Archives)"
   license: KOGL Type 1
   date: C.E.2000
 zhu-yunlai:

@@ -1,0 +1,223 @@
+# E05 events, round 2 gap-filling. Sources in research/manifests/E05.yaml.
+
+# ---------- 2001–2005 ----------
+- id: e05-2001-leftist-petition
+  date: 2001-08
+  title: 七一讲话后的“万言书”与左派刊物停刊
+  lane: ideo
+  summary: 江泽民在建党80周年“七一”讲话中为私营企业主入党开了口子。美国之音报道，一份据传由邓力群、袁木等17人签名的万言书随即流传，称这是把共产党变成“资本家的共产党”。《中国新闻周刊》2011年回顾，魏巍、林默涵、吴冷西等以“一群共产党员”名义上书，文章刊于《中流》。8月，《中流》和《真理的追求》两份左派刊物相继停刊，作者群转战毛泽东旗帜网、乌有之乡等网站。
+  people: [jiang-zemin, ding-guangen]
+  concepts: [three-represents, maoist-left]
+  voices:
+    - voice: zh
+      text: 这回盛传北京两刊：《中流》和《真理的追求》被封，其实不确。……但人家不是被封（丁关根能对自己人下手么）这回是自己不干了
+      cite: e05-voa-2001-08-17-dai-qing
+      quote: true
+    - voice: official
+      text: 《真理的追求》和《中流》相继停刊，迄今再无声息。而当年其麾下的中流砥柱们，则纷纷转战毛泽东旗帜网和乌有之乡等，开辟网上舆论阵地。
+      cite: e05-sina-2011-06-23-entrepreneurs
+      quote: true
+  cites: [e05-voa-2001-08-14-entrepreneurs, e05-voa-2001-08-17-dai-qing, e05-sina-2011-06-23-entrepreneurs]
+
+- id: e05-2005-furong-jiejie
+  date: 2005-06
+  title: “芙蓉姐姐”走红网络
+  lane: folk
+  summary: 网名“火冰可儿”的史恒侠2004年起在水木清华BBS贴出挺胸提臀的照片并配以自恋文字，帖子屡登清华BBS十大热门话题；2005年5月照片被转到天涯论坛后迅速爆红。中国新闻网称她6月的网络搜索率已超过周杰伦。BBC中文网把她与木子美、流氓燕等并称“姐姐现象”，讨论这种走红的“审丑”意义。
+  voices:
+    - voice: zh
+      text: 芙蓉姐姐的走红，源起网上社区“清华水木”，红自“天涯论坛”
+      cite: e05-bbc-2005-08-02-furong
+      quote: true
+    - voice: official
+      text: 现在网上一帮人对于“芙蓉姐姐”的期待，大抵是出于看笑话的心态。
+      cite: e05-chinanews-2005-06-27-furong
+      quote: true
+  cites: [e05-sina-2005-07-06-furong, e05-chinanews-2005-06-27-furong, e05-bbc-2005-08-02-furong]
+
+# ---------- 2012 ----------
+- id: e05-2012-gu-junshan-removed
+  date: 2012-02
+  end: 2015-08-10
+  title: 谷俊山被免去总后勤部副部长
+  lane: purge
+  summary: 2012年2月国防部网站更新总后勤部领导名单，2009年起任副部长的谷俊山中将已不在其列，官方未说明原因。据《纽约时报》引述知情人士，2011年末总后政委刘源率先提出对他采取行动，胡锦涛两次要求停职受阻后命纪检机构介入；他八年内连升五级，外界关注其与徐才厚的关系。2015年8月军事法院判处他死缓，剥夺中将军衔。
+  people: [gu-junshan, liu-yuan, hu-jintao, xu-caihou, liao-xilong]
+  factions: [guo-xu]
+  voices:
+    - voice: zh
+      text: 两年前，谷俊山被秘密解除总后勤部副部长一职，而官方新闻机构新华社现在才公布有关谷俊山案件的消息，而且没有提供细节。
+      cite: e05-nytcn-2014-04-01-gu-junshan
+      quote: true
+    - voice: zh
+      text: 谷俊山涉贪被捕后，供出徐才厚之犯罪详情，间接将徐拉下马。
+      cite: c03-bbc-2015-08-10-gu-junshan
+      quote: true
+    - voice: official
+      text: 认定谷俊山犯贪污罪、受贿罪、挪用公款罪、行贿罪、滥用职权罪，数罪并罚，决定执行死刑，缓期二年执行
+      cite: c03-xinhua-2015-08-10-gu-junshan-verdict
+      quote: true
+  cites: [e05-chinanews-2012-02-11-gu-junshan, e05-nytcn-2014-04-01-gu-junshan, c03-xinhua-2015-08-10-gu-junshan-verdict, c03-bbc-2015-08-10-gu-junshan]
+
+- id: e05-2012-scarborough-standoff
+  date: 2012-04-10
+  end: 2012-06-16
+  title: 中菲黄岩岛对峙
+  lane: foreign
+  summary: 4月10日，菲律宾最大的军舰“德尔毕拉尔”号在黄岩岛潟湖欲抓扣中国渔民，中国海监75、84船赶到阻止，双方形成对峙。菲方随后撤回军舰，改派海岸警卫队等公务船，对峙持续两个多月；6月中旬菲总统阿基诺以天气为由下令菲船撤离。BBC中文网指出，此后中国控制了黄岩岛及周边海域。
+  voices:
+    - voice: official
+      text: 根据菲律宾法律，菲官方多次确认黄岩岛不在菲领土范围之内。
+      cite: e05-cntv-2012-06-16-scarborough
+      quote: true
+    - voice: zh
+      text: 大约两个月后菲律宾撤船，中国则控制了黄岩岛及周边海域
+      cite: e05-bbc-2019-06-24-scarborough-fishers
+      quote: true
+  cites: [e05-bbc-2012-04-11-scarborough, e05-cntv-2012-06-16-scarborough, e05-bbc-2019-06-24-scarborough-fishers]
+
+# ---------- 2018–2019 ----------
+- id: e05-2018-qinling-villas
+  date: 2018-07
+  end: 2019-01-15
+  title: 秦岭违建别墅专项整治
+  lane: purge
+  summary: 2014年5月以来中央多次要求整治秦岭北麓西安境内违建别墅，习近平先后六次作出批示指示。2018年7月第六次批示要求“首先从政治纪律查起”，中纪委副书记徐令义率专项整治工作组入驻陕西，清查出违建别墅1194栋，拆除1185栋、没收9栋。2019年1月陕西省委原书记赵正永被查，法广指出违建主要发生在赵乐际、赵正永主政陕西期间。
+  people: [xi-jinping, zhao-zhengyong, zhao-leji]
+  concepts: [two-safeguards]
+  voices:
+    - voice: official
+      text: 根子里是没有把“两个维护”作为最根本、最重要的政治纪律和政治规矩
+      cite: i01-cpc-2019-02-22-two-safeguards
+      quote: true
+    - voice: zh
+      text: 因此秦岭别墅违建问题屡屡爆发，拖延拆除，主要发生在赵乐际与赵正永主政陕西期间。
+      cite: b05-rfi-2019-01-16-zhao
+      quote: true
+  cites: [e05-xinhua-2018-11-25-qinling, e05-cctv-2019-01-09-qinling, c03-ccdi-2019-01-15-zhao-zhengyong-probe, b05-rfi-2019-01-16-zhao, i01-cpc-2019-02-22-two-safeguards]
+
+- id: e05-2019-xinjiang-papers
+  date: 2019-11-16
+  title: 《纽约时报》披露“新疆文件”
+  lane: ethnic
+  major: true
+  summary: 《纽约时报》公布一位匿名中国政界人士提供的403页中共内部文件，称是数十年来中共内部泄露的最大一批政府文件。据报道，习近平2014年视察新疆后的数次党内讲话为强硬政策奠定基础；陈全国2016年8月上任后拘禁营迅速扩大，他下达“应收尽收”的命令，并整肃抵制的干部。文件显示，当局对内对外说法有别。
+  people: [xi-jinping, chen-quanguo]
+  concepts: [yingshou-jinshou]
+  voices:
+    - voice: zh
+      text: 陈全国发布了一条影响广泛的命令：“应收尽收”。
+      cite: b09-nyt-2019-11-16-xinjiang-papers
+      quote: true
+    - voice: zh
+      text: 中国政府内外有别，对所谓“再教育中心”，在外界的说法用词和缓，对内部官员则比较严酷。
+      cite: e05-rfa-2019-11-17-xinjiang-papers
+      quote: true
+  cites: [b09-nyt-2019-11-16-xinjiang-papers, e05-rfa-2019-11-17-xinjiang-papers]
+
+# ---------- 2023 ----------
+- id: e05-2023-central-tech-commission
+  date: 2023-03-16
+  title: 党和国家机构改革：组建中央科技委员会
+  lane: econ
+  summary: 中共中央、国务院印发《党和国家机构改革方案》，组建中央科技委员会作为党中央决策议事协调机构，统筹国家实验室等战略科技力量，办事机构职责由重组后的科技部承担；同时组建中央金融委员会、中央社会工作部和中央港澳工作办公室等。美国之音称改革意在集中力量解决“卡脖子”难题。2024年6月，丁薛祥以中央科技委员会主任身份在全国科技大会上讲话。
+  people: [xi-jinping, ding-xuexiang]
+  voices:
+    - voice: doc
+      text: 组建中央科技委员会。加强党中央对科技工作的集中统一领导，统筹推进国家创新体系建设和科技体制改革
+      cite: e05-gov-2023-03-16-reform-plan
+      quote: true
+    - voice: zh
+      text: 该委员会将向习近平负责，其办事机构职责由重组后的科技部承担。
+      cite: e05-voa-2023-03-13-tech
+      quote: true
+  cites: [e05-gov-2023-03-16-reform-plan, e05-voa-2023-03-13-tech, b06-gov-2024-06-25-ding-tech]
+
+- id: e05-2023-wta-returns-china
+  date: 2023-04-13
+  title: WTA宣布重返中国
+  lane: society
+  summary: 暂停在华赛事16个月后，国际女子网球协会宣布当年秋季恢复中国赛事，承认无法实现要求全面调查彭帅指控等原定目标，称已获彭帅身边人士保证她与家人在北京安全生活。9月18日起WTA赛事在广州举行。德国之声以“彭帅事件不了了之？”为题回顾此事。
+  people: [peng-shuai, zhang-gaoli]
+  voices:
+    - voice: west
+      text: We have concluded we will never fully secure those goals, and it will be our players and tournaments who ultimately will be paying an extraordinary price for their sacrifices.
+      zh: 我们的结论是，这些目标永远无法完全实现，而最终为这些牺牲付出巨大代价的将是我们的球员和赛事。
+      cite: b05-wta-2023-04-13-china-return
+      quote: true
+    - voice: zh
+      text: 4月13日，WTA宣布职业女子网球锦标赛将于9月重返中国，尽管彭帅的情况“没有任何改变的迹象”。
+      cite: c04-dw-2023-09-peng-shuai
+      quote: true
+  cites: [b05-wta-2023-04-13-china-return, c04-dw-2023-09-peng-shuai]
+
+# ---------- 2026 ----------
+- id: e05-2026-zhu-rongji-death
+  date: 2026-08-12
+  title: 朱镕基逝世
+  lane: power
+  major: true
+  summary: 前国务院总理朱镕基8月12日在北京病逝，官方讣告称享年98岁，BBC按周岁称97岁。新华社8月18日发布的生平称他主持分税制改革、基本实现国企三年改革脱困目标、完成入世谈判；BBC则提到国企改革中下岗工人达1500万人，民间流传“朱嘴一张，工人下岗”。18日遗体火化，习近平等到八宝山送别，胡锦涛送花圈。
+  people: [zhu-rongji, xi-jinping, hu-jintao]
+  voices:
+    - voice: doc
+      text: 他求真务实，开拓进取，敢于说真话，不怕得罪人
+      cite: b01-gov-2026-08-18-zhu-life
+      quote: true
+    - voice: zh
+      text: 财经作家吴晓波在其书中评价，朱镕基既不是保守派，也不是自由派，但他确乎是一位倾力重塑中央权威的经济集权主义者。
+      cite: b01-bbc-2026-08-12-zhu-obit
+      quote: true
+  cites: [b01-gov-2026-08-18-zhu-life, b02-gov-2026-08-18-zhu-rongji-farewell, b01-bbc-2026-08-12-zhu-obit, b01-bbc-2026-08-zhu-taiwan-hk]
+
+- id: e05-2026-jiang-centenary
+  date: 2026-08-17
+  title: 纪念江泽民诞辰100周年大会
+  lane: power
+  summary: 中共中央等五机构在人民大会堂举行大会纪念江泽民诞辰100周年，习近平讲话称江“成功把中国特色社会主义推向二十一世纪”，并要求持之以恒推进全面从严治党。据联合早报，13位卸任政治局常委出席并与七常委同坐主席台第一排，温家宝官方排名最靠前；胡锦涛、李瑞环、吴官正、罗干未现身。
+  people: [jiang-zemin, xi-jinping, wen-jiabao, zeng-qinghong, zhang-gaoli, hu-jintao, li-ruihuan, wu-guanzheng, luo-gan]
+  voices:
+    - voice: official
+      text: 江泽民同志的一生，是光辉的一生、战斗的一生
+      cite: b03-gov-2026-08-17-jiang-centenary
+      quote: true
+    - voice: zh
+      text: 胡锦涛最后一次公开亮相，是2022年12月江泽民逝世时，他当时前往医院为江送别。
+      cite: b02-zaobao-2026-08-17-jiang-centenary
+      quote: true
+  cites: [b03-gov-2026-08-17-jiang-centenary, b02-zaobao-2026-08-17-jiang-centenary, b05-zaobao-2026-08-17-jiang-centenary]
+
+- id: e05-2026-joshua-wong-plea
+  date: 2026-09-02
+  title: 黄之锋承认串谋勾结外国势力罪
+  lane: hkmt
+  summary: 正因“47人案”服刑、原定2027年1月获释的黄之锋，在香港高等法院承认《香港国安法》下的串谋勾结外国势力罪。控方指他与罗冠聪自2016年起透过国际游说推动《香港人权与民主法案》，国安法生效后仍寻求外国制裁。这是继黎智英后第二宗勾结外国势力罪起诉，最高可判终身监禁；法官押后判刑，日期另行通知。
+  people: [huang-zhifeng, luo-guancong, li-zhiying]
+  voices:
+    - voice: official
+      text: 公然为反中乱港分子黄之锋撑腰张目，恶意抹黑香港警方正常执法行动，赤裸裸干预香港事务和中国内政。
+      cite: c04-bbc-2026-09-02-joshua-wong
+      quote: true
+    - voice: zh
+      text: 突显当局对异见人士的恐惧，亦显示港府不惜一切手段，力求将这些人士长期关押，以持续打压香港的公民行动和社会参与。
+      cite: c04-bbc-2026-09-02-joshua-wong
+      quote: true
+  cites: [c04-bbc-2026-09-02-joshua-wong]
+
+- id: e05-2026-dong-jianhua-death
+  date: 2026-09-08
+  title: 董建华逝世
+  lane: hkmt
+  summary: 香港特区首任行政长官、全国政协前副主席董建华9月8日在香港病逝，享年89岁，新华社称他为“一国两制”杰出贡献者。中央社回顾，船王之子董建华当年被江泽民“钦点”出任首任特首，2003年推动基本法23条立法引发50万人上街，2005年第二任期未满即请辞；卸任后创办中美交流基金会，穿梭中美之间，2021年中起淡出公众视野。
+  people: [dong-jianhua, jiang-zemin, hu-jintao, zeng-yinquan]
+  concepts: [one-country-two-systems]
+  voices:
+    - voice: official
+      text: “一国两制”杰出贡献者，著名的爱国人士，杰出的社会活动家，中国共产党的亲密朋友
+      cite: c04-xinhua-2026-09-09-dong-jianhua
+      quote: true
+    - voice: zh
+      text: 2004年，時任中國國家主席胡錦濤要求董建華政府「查找不足」，對董建華的管治似乎頗有微言。
+      cite: c04-cna-2026-09-09-dong-jianhua
+      quote: true
+  cites: [c04-xinhua-2026-09-09-dong-jianhua, c04-cna-2026-09-09-dong-jianhua]

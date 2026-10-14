@@ -89,11 +89,19 @@ for (const [id, e] of Object.entries(photos).sort()) {
       e.license ??= c.license
       e.date ??= c.date
     } else e.license ??= '版权归原发布机构'
-    const res = await fetch(img, { headers: { 'User-Agent': UA } })
+    // some official sites only serve images with a Referer from their own pages
+    const headers: Record<string, string> = { 'User-Agent': UA }
+    if (!e.file.startsWith('File:') && e.url) headers.Referer = e.url
+    const res = await fetch(img, { headers })
     if (!res.ok) throw new Error(`${res.status} ${img}`)
     const type = res.headers.get('content-type') ?? ''
+    if (!type.startsWith('image/') && !type.includes('octet-stream')) throw new Error(`not an image (${type}) ${img}`)
     const ext = type.includes('png') ? 'png' : type.includes('webp') ? 'webp' : 'jpg'
-    writeFileSync(join(OUT, `${id}.${ext}`), Buffer.from(await res.arrayBuffer()))
+    let buf = Buffer.from(await res.arrayBuffer())
+    // some servers append stray bytes after IEND, which strict PNG decoders reject
+    const iend = ext === 'png' ? buf.lastIndexOf('IEND') : -1
+    if (iend > 0) buf = buf.subarray(0, iend + 8)
+    writeFileSync(join(OUT, `${id}.${ext}`), buf)
     ok++
     console.log(`ok ${id}`)
   } catch (err) {

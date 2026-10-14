@@ -1,0 +1,241 @@
+# F03: labels for the six round-2 factions, plus the disputed labels logged by F02 in research/queue.md
+# (each source's claim as its own tag). person id → labels.
+# Every quote is the sentence in the cited source that makes the label.
+
+# --- conservatives ---
+li-peng:
+  - f: conservatives
+    cite: b01-bbc-2019-07-23-li-peng-obit
+    quote: '他的政绩平平，但获得以陈云为代表的中共保守派鼎力扶持'
+  - f: conservatives
+    cite: f03-dw-2019-07-23-li-peng
+    quote: '1989年民主运动爆发时，时任总理的李鹏被普遍视为政府中的保守派代表人物之一'
+  - f: conservatives
+    cite: f03-latimes-1987-11-25-li-peng
+    quote: 'Li is also considered a protege of Chen Yun……Thus, Li is often viewed as a member of the so-called “conservative” wing of the party, which leans toward central economic and ideological control'
+    zh: '李鹏也被视为陈云的门生……因此李鹏常被看作党内所谓“保守”一翼的成员，这一翼倾向于中央对经济和意识形态的控制'
+
+luo-gan:
+  - f: conservatives
+    cite: b03-scmp-2002-11-16-luo-gan
+    quote: 'He is a loyal backer of Mr Li……To protect himself, Mr Li has groomed Mr Luo to be his man in the Politburo Standing Committee'
+    zh: '他是李鹏的忠实支持者……为了保护自己，李鹏把罗干栽培成自己在政治局常委会里的人'
+  - f: conservatives
+    cite: f01-bbc-2002-11-15-new-team
+    quote: '李鹏的亲信罗干则排名最后'
+
+# --- hebei-zhengding ---
+li-zhanshu:
+  - f: hebei-zhengding
+    cite: f01-brookings-2017-new-politburo
+    quote: 'Their friendship began over three decades ago, when Xi served as deputy party secretary and then party secretary of Zhengding County in Hebei from 1982 to 1985. Li Zhanshu served as party secretary of Wuji County in the same province during roughly the same period'
+    zh: '两人的友谊始于三十多年前，当时习近平在1982至1985年间先后任河北正定县委副书记、书记，栗战书大致同期在同省的无极县任县委书记'
+  - f: hebei-zhengding
+    cite: f02-orf-2021-xi-gang
+    quote: 'Substantively, Xi’s political career began working in the suburban county of Zhengding, in the province of Hebei. Here Xi developed a close friendship with Li Zhanshu'
+    zh: '实质上，习近平的政治生涯始于河北省的郊县正定。他在这里与栗战书结下了密切的友谊'
+  - f: hebei-zhengding
+    cite: b05-zaobao-2017-10-23-li-zhanshu
+    quote: '1983年至1985年，他在河北省无极县担任县委书记，现任中共总书记习近平当时就在毗邻的正定县担任县委书记，两人在工作上有一定交集'
+  - f: hebei-zhengding
+    cite: b05-bbc-2018-03-20-li-zhanshu-npc
+    quote: '1983年至1985年期间，栗战书在河北省无极县担任书记期间，习近平在30公里外的河北正定县任县委书记'
+
+# --- sun-lijun-gang ---
+sun-lijun:
+  - f: sun-lijun-gang
+    cite: c03-ccdi-2021-09-30-sun-lijun-expel
+    quote: '在党内大搞团团伙伙、拉帮结派、培植个人势力，形成利益集团，成伙作势控制要害部门'
+  - f: sun-lijun-gang
+    cite: f03-xinhua-2022-01-15-zero-tolerance
+    quote: '孙力军政治团伙案是政治问题和经济问题交织、极度腐化堕落的典型'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-07-15-fu-zhenghua
+    quote: '两人均为“孙力军政治团伙”重要人物'
+
+fu-zhenghua:
+  - f: sun-lijun-gang
+    cite: c03-ccdi-2022-03-31-fu-zhenghua-expel
+    quote: '参加孙力军政治团伙，拉帮结派，结党营私'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-07-15-fu-zhenghua
+    quote: '两人均为“孙力军政治团伙”重要人物'
+  - f: sun-lijun-gang
+    cite: f03-cna-2022-09-23-sun-lijun
+    quote: '被列為「孫力軍政治團伙」的上海市公安局局長龔道安、重慶市公安局局長鄧恢林、山西省公安廳廳長劉新雲……另一名要角─前中國司法部長傅政華'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-01-18-deng-yuwen
+    quote: '或许去年10月落马的前司法部长傅政华也属于该小集团'
+
+wang-like:
+  - f: sun-lijun-gang
+    cite: f03-xinhua-2022-01-15-zero-tolerance
+    quote: '紧随孙力军之后，政法领域多名省部级干部先后被查处……王立科，曾任辽宁省公安厅副厅长、大连市公安局局长，江苏省副省长、省公安厅长，江苏省委常委、政法委书记'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-01-18-deng-yuwen
+    quote: '孙的政治伙伴包括江苏省政法委书记王立科'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-07-15-fu-zhenghua
+    quote: '"孙力军政治团伙案"被中共视为19大以来最严重的案件，还涉及江苏省前政法委书记王立科'
+
+gong-daoan:
+  - f: sun-lijun-gang
+    cite: f03-xinhua-2022-01-15-zero-tolerance
+    quote: '龚道安不仅自己为孙力军效命，还帮孙力军经营充实“小圈子”'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-01-18-deng-yuwen
+    quote: '孙的政治伙伴包括江苏省政法委书记王立科、上海市副市长兼公安局长龚道安'
+  - f: sun-lijun-gang
+    cite: f03-cna-2022-09-23-sun-lijun
+    quote: '被列為「孫力軍政治團伙」的上海市公安局局長龔道安'
+
+deng-huilin:
+  - f: sun-lijun-gang
+    cite: f03-xinhua-2022-01-15-zero-tolerance
+    quote: '向孙力军推荐时任湖北省宜昌市公安局局长邓恢林。孙力军帮助邓恢林先后提任中央政法委办公室主任、重庆市公安局局长、重庆市副市长'
+  - f: sun-lijun-gang
+    cite: f03-dw-2022-01-18-deng-yuwen
+    quote: '孙的政治伙伴包括……重庆市副市长兼公安局长邓恢林'
+  - f: sun-lijun-gang
+    cite: f03-cna-2022-09-23-sun-lijun
+    quote: '被列為「孫力軍政治團伙」的上海市公安局局長龔道安、重慶市公安局局長鄧恢林'
+
+liu-yanping:
+  - f: sun-lijun-gang
+    cite: c03-people-2022-09-01-liu-yanping-expel
+    quote: '参加孙力军政治团伙，大搞政治利益交换，投机攀附、操弄权术'
+
+# --- he-miao ---
+he-weidong:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '对何卫东、苗华、何宏军等人的严肃查处'
+  - f: he-miao
+    cite: b08-jamestown-2025-10-cronyism
+    quote: 'The nine appear to have formed an improper network centered around Miao Hua and He Weidong'
+    zh: '这九人似乎形成了一个以苗华和何卫东为中心的不当网络'
+  - f: he-miao
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: '在摧毁了何卫东的派系之后，张又侠在军中变得权势滔天'
+
+miao-hua:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '对何卫东、苗华、何宏军等人的严肃查处'
+  - f: he-miao
+    cite: b08-jamestown-2025-10-cronyism
+    quote: 'The nine appear to have formed an improper network centered around Miao Hua and He Weidong'
+    zh: '这九人似乎形成了一个以苗华和何卫东为中心的不当网络'
+
+he-hongjun:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '对何卫东、苗华、何宏军等人的严肃查处'
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '另外三人则跟掌握人士重权的政治工作部及其主任苗华关系深厚：何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手'
+
+wang-xiubin:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……军委联合作战指挥中心原常务副主任王秀斌……9人立案审查调查'
+  - f: he-miao
+    cite: b08-jamestown-2025-10-cronyism
+    quote: 'forming an improper network around He and Miao……both Wang Xiubin and Lin Xiangyang served as deputy commanders of the Eastern Theater Command'
+    zh: '（他们）形成了一个围绕何卫东和苗华的不当网络……王秀斌和林向阳都曾任东部战区副司令员'
+
+lin-xiangyang:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……东部战区原司令员林向阳……9人立案审查调查'
+  - f: he-miao
+    cite: b08-jamestown-2025-10-cronyism
+    quote: 'forming an improper network around He and Miao……Some, such as He Weidong, Miao Hua, and Lin Xiangyang, spent extended periods in the former 31st Group Army'
+    zh: '（他们）形成了一个围绕何卫东和苗华的不当网络……其中何卫东、苗华、林向阳等人曾长期在原第31集团军任职'
+
+qin-shutong:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……陆军原政委秦树桐……9人立案审查调查'
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '这些落马将领呈现出很强的地缘关联性。何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军'
+
+yuan-huazhi:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……海军原政委袁华智……9人立案审查调查'
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '袁华智长期在海军政治工作部门服役，是苗华担任海军政委时提拔的旧部'
+
+wang-houbin:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……火箭军原司令员王厚斌……9人立案审查调查'
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '王厚斌长期在海军任职，曾任东海舰队副参谋长等职，也是苗华的海军旧部'
+
+wang-chunning:
+  - f: he-miao
+    cite: b08-mod-2025-10-17-nine-generals
+    quote: '中央军委纪委监委陆续对……武警部队原司令员王春宁9人立案审查调查'
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '这些落马将领呈现出很强的地缘关联性……王春宁虽然不属于 31 军，但同属原南京军区'
+
+# --- southwest-army / dongbei-army ---
+xu-caihou:
+  - f: dongbei-army
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '与郭伯雄、徐才厚代表的西北军（原兰州军区）、东北军（原沈阳军区）的没落形成鲜明对照'
+  - f: dongbei-army
+    cite: f03-jamestown-2015-01-nanjing-alumni
+    quote: 'Xi views with suspicion senior officers associated with the Shenyang MR, which was the power base of General Xu'
+    zh: '习近平对与沈阳军区（徐才厚上将的权力基础）有关的高级将领心存戒备'
+  - f: dongbei-army
+    cite: f03-scmp-2014-10-01-xu-associates
+    quote: 'Recent changes in the senior ranks have taken place in the Lanzhou and Shenyang military commands, the power bases of Xu Caihou'
+    zh: '近期的高层人事变动发生在兰州和沈阳两大军区，这两地都是徐才厚的权力基础'
+
+# --- disputes logged by F02 (research/queue.md): each source's claim as its own label ---
+zhang-youxia:
+  # 14th Group Army (southwest) vs the "northwest–equipment" label
+  - f: southwest-army
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '出身原14集团军的高级将领则有中央军委副主席张又侠、东部战区政委何平等'
+  - f: northwest-army
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
+  - f: northwest-army
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: '陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任'
+
+xi-jinping:
+  # Jiang/Zeng protégé
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '政治分析人士通常将这些候选人划分为以江泽民和周永康为后台的江派和以胡锦涛和温家宝为后台的团派……前四个确定的入选者中，习近平和张德江属于江派'
+  - f: jiang-shanghai
+    cite: b01-jamestown-2007-hu-impasse
+    quote: 'the sudden ascendancy of Xi, who only became Shanghai party boss in March this year, was engineered by outgoing Vice President Zeng and former president Jiang Zemin, deemed the two heads of the still-powerful Shanghai Faction'
+    zh: '今年3月才出任上海市委书记的习近平骤然崛起，是即将卸任的副主席曾庆红和前国家主席江泽民一手安排的，这两人被视为仍有强大势力的上海帮的两位首脑'
+  - f: jiang-shanghai
+    cite: b01-rfa-2016-06-16-xi-bole
+    quote: '而所谓的“江派”中，恰恰不是江泽民本人首先提名习近平。首先提名习近平的人就是十七大上被习近平接替了职务的曾庆红'
+
+liu-he:
+  # Xi's classmate at 101 Middle School (DW) — denied by RFA, see the report
+  - f: xi-jiajun
+    cite: b09-dw-2018-03-19-liu-he
+    quote: '刘鹤中学毕业于红二代云集的北京101中学，是现任中国最高领导人习近平的同班同学'
+  - f: princelings
+    cite: b09-bbc-2018-03-19-liu-he
+    quote: '习刘相识则要追溯到上世纪60年代，他们同在北京读中学，同为“红二代”'
+
+zhou-jiangyong:
+  # Zhijiang New Army (China Times) — Zaobao: not a direct member, see the report
+  - f: zhijiang
+    cite: f03-chinatimes-2021-08-22-zhou-jiangyong
+    quote: '做為一仕途被看好的「之江新軍」，周江勇的被查處對浙江政壇可能造成重大衝擊……而做為曾於習近平在浙江主政期間提拔的幹部'
