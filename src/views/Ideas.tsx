@@ -8,6 +8,8 @@ import { Lineage } from '../components/ideas/Lineage'
 import { Press } from '../components/ideas/Press'
 import { Spectrum } from '../components/ideas/Spectrum'
 import { Stream } from '../components/ideas/Stream'
+import { Targets } from '../components/ideas/Targets'
+import { Versions } from '../components/ideas/Versions'
 import { conceptHref, go, useRoute, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -33,6 +35,8 @@ const SUBNAV: [string, string][] = [
   ['press', '报刊词频'],
   ['guiding', '指导思想'],
   ['heat', '提法词频'],
+  ['targets', '增长目标'],
+  ['versions', '逐版对照'],
 ]
 
 export function Ideas() {
@@ -160,6 +164,18 @@ export function Ideas() {
       >
         <div className="card pad">
           <Heat concepts={heatConcepts} docs={corpus} />
+        </div>
+      </Section>
+
+      <Section id="targets" title="增长目标" note="每年《政府工作报告》写下的经济增长预期目标：从“保八”到 7.5%、区间目标，2020 年未设目标，2026 年降到 4.5%—5%">
+        <div className="card pad">
+          <Targets />
+        </div>
+      </Section>
+
+      <Section id="versions" title="党章、宪法逐版对照" note="选两版，看每一次修改删了什么、加了什么：红色删除线是删去的字，金色下划线是新增的字；右侧竖条标出改动在全文中的位置">
+        <div className="card pad">
+          <Versions />
         </div>
       </Section>
 

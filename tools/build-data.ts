@@ -23,5 +23,5 @@ if (BATCH) {
   console.log(`batch ${BATCH}: no errors (db.json not written in batch mode)\n` + stats(db))
   process.exit(0)
 }
-write(db)
+write(db, data)
 console.log(stats(db) + (warnings.length ? `\n${warnings.length} warning(s), --warn to list` : ''))

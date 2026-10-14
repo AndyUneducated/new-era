@@ -2,6 +2,22 @@ import { describe, expect, it } from 'vitest'
 import { age, fmt, fy } from '../../src/lib/dates'
 import { cnNum } from '../../src/lib/cn'
 import { quoted, quoteMisses } from '../../src/lib/quotes'
+import { chars, diff } from '../../src/lib/diff'
+
+describe('diff', () => {
+  it('marks the struck clause of the 2018 amendment', () => {
+    const segs = chars('中华人民共和国主席、副主席每届任期同全国人民代表大会每届任期相同，连续任职不得超过两届。', '中华人民共和国主席、副主席每届任期同全国人民代表大会每届任期相同。')
+    expect(segs.filter((s) => s.op === '-').map((s) => s.text).join('')).toBe('，连续任职不得超过两届')
+    expect(segs.some((s) => s.op === '+')).toBe(false)
+  })
+  it('aligns paragraphs and ignores renumbered articles', () => {
+    const a = ['总纲', '第一条 甲。', '第二条 乙。', '第三条 丙丙丙丙丙丙。']
+    const b = ['总纲', '第一条 甲。', '第二条 新增的一条。', '第三条 乙。', '第四条 丙丙丙丙丙丙丁。']
+    const rows = diff(a, b)
+    expect(rows.map((r) => r.kind)).toEqual(['same', 'same', 'added', 'same', 'changed'])
+    expect(rows[3]).toMatchObject({ renumbered: ['第二条', '第三条'] })
+  })
+})
 
 describe('dates', () => {
   it('reads partial dates', () => {

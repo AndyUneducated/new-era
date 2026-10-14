@@ -20,6 +20,8 @@ export interface DB {
   press: PressTerm[]
   story: Chapter[]
   chiefs: Chief[]
+  // growth targets read from the government work reports (tools/build/emit.ts); lo and hi are null when none was set
+  targets: { year: number; label: string; lo: number | null; hi: number | null; quote: string; cite: string }[]
   sources: SourceR[]
 }
 
@@ -58,6 +60,7 @@ export class Atlas {
     db.press ??= []
     db.story ??= []
     db.chiefs ??= []
+    db.targets ??= []
     for (const m of db.isms) this.ism.set(m.id, m)
     for (const p of db.people) this.person.set(p.id, p)
     for (const r of db.relations ?? []) {

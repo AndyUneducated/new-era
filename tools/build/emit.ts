@@ -22,6 +22,31 @@ const tally = (text: string, list: { id: string; name: string; terms: string[]; 
   return out
 }
 
+// the growth target of each government work report, read from the text with the sentence that states it
+const WIDE = (s: string) => s.replace(/[０-９]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0xfee0)).replace(/．/g, '.').replace(/％/g, '%')
+const TARGET = [/(?:主要|预期)目标(?:是|为)?：[^。]*?(?:国内生产总值|经济)增长\s*([0-9０-９.．]+\s*[%％]?(?:\s*[-－—～]\s*[0-9０-９.．]+)?\s*[%％](?:左右|以上)?)/, /经济增长预期目标为\s*([0-9０-９.．]+\s*[%％]左右)/]
+const NO_TARGET = /没有提出全年经济增速具体目标/
+interface Target { year: number; label: string; lo: number | null; hi: number | null; quote: string; cite: string }
+function growthTargets(d: Data): Target[] {
+  return d.corpus
+    .filter((c) => c.kind === 'gov')
+    .flatMap((c): Target[] => {
+      const text = d.texts.get(c.id) ?? ''
+      const sentence = (i: number) => text.slice(text.lastIndexOf('。', i) + 1, text.indexOf('。', i) + 1).trim()
+      const year = Number(c.date.slice(0, 4))
+      const none = text.search(NO_TARGET)
+      if (none >= 0) return [{ year, label: '未设目标', lo: null, hi: null, quote: sentence(none), cite: c.id }]
+      for (const re of TARGET) {
+        const m = re.exec(text)
+        if (!m) continue
+        const label = WIDE(m[1]).replace(/\s/g, '')
+        const nums = [...label.matchAll(/\d+(?:\.\d+)?/g)].map((x) => Number(x[0]))
+        return [{ year, label, lo: nums[0], hi: nums[1] ?? nums[0], quote: sentence(m.index + m[0].length - 1), cite: c.id }]
+      }
+      return []
+    })
+}
+
 export function compile(d: Data) {
   // term frequency: each concept's, ism's and press term's strings counted in each corpus text
   const corpus = d.corpus
@@ -66,6 +91,7 @@ export function compile(d: Data) {
     isms: d.isms.map((m) => ({ ...m, carriers: m.carriers.filter((id) => known.has(id)), concept: m.concept && cids.has(m.concept) ? m.concept : undefined })),
     line: [...d.line].sort((a, b) => a.at.localeCompare(b.at)),
     press: d.press,
+    targets: growthTargets(d),
     story: d.story,
     chiefs: d.chiefs.map((c) => (c.person && !known.has(c.person) ? { ...c, person: undefined } : c)).sort((a, b) => a.prov.localeCompare(b.prov) || a.post.localeCompare(b.post) || a.from.localeCompare(b.from)),
     sources,
@@ -73,9 +99,16 @@ export function compile(d: Data) {
 }
 export type DB = ReturnType<typeof compile>
 
-export function write(db: DB) {
-  mkdirSync(path('public', 'data'), { recursive: true })
+// the versions reader fetches whole charters and constitutions; other texts stay out of the site
+export const VERSIONED = ['charter', 'constitution'] as const
+
+export function write(db: DB, d: Data) {
+  mkdirSync(path('public', 'data', 'texts'), { recursive: true })
   writeFileSync(path('public', 'data', 'db.json'), JSON.stringify(db))
+  for (const c of d.corpus) {
+    const text = d.texts.get(c.id)
+    if (text && (VERSIONED as readonly string[]).includes(c.kind)) writeFileSync(path('public', 'data', 'texts', `${c.id}.txt`), text)
+  }
 }
 
 export function stats(db: DB) {

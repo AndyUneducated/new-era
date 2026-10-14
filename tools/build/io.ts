@@ -15,7 +15,9 @@ export const read = (...p: string[]) => parse(readFileSync(path(...p), 'utf8'))
 export const BATCH = process.argv.find((a) => a.startsWith('--batch='))?.slice(8)
 // Manifests are the exception: they are always read, because a batch that corrects earlier files (V01)
 // cites its own new sources there; an unreadable manifest of another running batch is skipped.
-const inflight: string[] = BATCH && exists('research', 'round.yaml') ? ((read('research', 'round.yaml') ?? {}).inflight ?? []) : []
+// --integrated skips every running batch and still writes db.json: the site as of the last integration
+export const INTEGRATED = process.argv.includes('--integrated')
+const inflight: string[] = (BATCH || INTEGRATED) && exists('research', 'round.yaml') ? ((read('research', 'round.yaml') ?? {}).inflight ?? []) : []
 export const otherInflight = (f: string) => inflight.some((b) => b !== BATCH && f.startsWith(b))
 export const inflightSource = (id: string) => inflight.some((b) => b !== BATCH && id.startsWith(`${b.toLowerCase()}-`))
 const skipped = (p: string[], f: string) => p[0] === 'content' && otherInflight(f)
