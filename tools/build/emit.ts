@@ -47,6 +47,25 @@ function growthTargets(d: Data): Target[] {
     })
 }
 
+// a chief written by name only, because the card was being written in the same round: the one person of
+// that name whose career touches the province
+function chiefPerson(d: Data, c: Data['chiefs'][number]) {
+  const same = d.people.filter((p) => p.name === c.name)
+  const p = same.length === 1 ? same[0] : undefined
+  if (p && (p.positions.some((x) => x.place?.startsWith(c.prov) || x.title.startsWith(c.prov)) || p.bio.includes(c.prov))) return p.id
+}
+
+// batches running in parallel enter the same tie; the browser gets one, the one with a quote if any
+function uniqueRelations(list: Data['relations']) {
+  const by = new Map<string, Data['relations'][number]>()
+  for (const r of list) {
+    const key = [r.kind, ...(r.kind === 'colleague' || r.kind === 'kin' || r.kind === 'rival' ? [r.a, r.b].sort() : [r.a, r.b])].join(' ')
+    const had = by.get(key)
+    if (!had || (!had.quote && r.quote)) by.set(key, r)
+  }
+  return [...by.values()]
+}
+
 export function compile(d: Data) {
   // term frequency: each concept's, ism's and press term's strings counted in each corpus text
   const corpus = d.corpus
@@ -84,7 +103,7 @@ export function compile(d: Data) {
     people,
     factions,
     events: events.sort((a, b) => a.date.localeCompare(b.date)),
-    relations: d.relations.filter((r) => known.has(r.a) && known.has(r.b)),
+    relations: uniqueRelations(d.relations.filter((r) => known.has(r.a) && known.has(r.b))),
     concepts: d.concepts.map((c) => ({ ...c, by: c.by.filter((id) => known.has(id)) })),
     congresses: [...d.congresses].sort((a, b) => a.n - b.n),
     corpus,
@@ -93,7 +112,7 @@ export function compile(d: Data) {
     press: d.press,
     targets: growthTargets(d),
     story: d.story,
-    chiefs: d.chiefs.map((c) => (c.person && !known.has(c.person) ? { ...c, person: undefined } : c)).sort((a, b) => a.prov.localeCompare(b.prov) || a.post.localeCompare(b.post) || a.from.localeCompare(b.from)),
+    chiefs: d.chiefs.map((c) => ({ ...c, person: c.person && known.has(c.person) ? c.person : chiefPerson(d, c) })).sort((a, b) => a.prov.localeCompare(b.prov) || a.post.localeCompare(b.post) || a.from.localeCompare(b.from)),
     sources,
   }
 }

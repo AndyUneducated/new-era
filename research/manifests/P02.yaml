@@ -1,0 +1,654 @@
+# P02: provincial chiefs (诸侯表) of 中南、西南、西北, 2000 – today
+web:
+  # --- Wikipedia list pages (basic facts only) ---
+  - { id: p02-wiki-henan-sec, title: 中国共产党河南省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党河南省委员会, excerpt: true, keep: [ "马忠臣（1998年02月—2000年10月）", "陈奎元（2000年10月—2002年12月）", "李克强（2002年12月—2004年12月）", "徐光春（2004年12月—2009年11月）", "卢展工（2009年11月—2013年03月）", "书记：卢展工（—2013年3月）", "书记：谢伏瞻（—2018年3月）", "书记：楼阳生（—2024年12月）" ] }
+  - { id: p02-wiki-henan-gov, title: 河南行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/河南行政长官列表, excerpt: true, keep: [ "李克强", "1998年7月—2003年1月", "李成玉", "2003年1月—2008年3月", "郭庚茂", "2008年3月—2013年3月", "谢伏瞻", "2013年4月—2016年4月", "陈润儿", "2016年4月—2019年12月", "尹 弘", "2019年12月—2021年4月", "王 凯", "2021年4月—2026年9月", "王陆进", "2026年9月—" ] }
+  - { id: p02-wiki-hubei-sec, title: 中国共产党湖北省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党湖北省委员会, excerpt: true, keep: [ "书记：关广富（~1994年11月）、贾志杰", "书记：贾志杰（1998年10月—2000年12月）", "书记：俞正声（2007年6月—2007年10月）", "书记：李鸿忠（2012年6月—2016年9月）", "书记：蒋超良（—2020年2月）", "书记：王蒙徽（—2024年12月）" ] }
+  - { id: p02-wiki-hubei-gov, title: 湖北行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/湖北行政长官列表, excerpt: true, keep: [ "蒋祝平", "1994年12月－2001年1月", "1995年2月－2001年1月", "张国光", "2001年1月－2002年10月", "罗清泉", "2002年10月－2007年12月", "李鸿忠", "2007年12月－2011年2月", "王国生", "2011年2月－2016年7月", "王晓东", "2016年9月－2021年5月", "王忠林", "2021年5月－2025年1月", "李殿勋", "2025年1月－" ] }
+  - { id: p02-wiki-hunan-sec, title: 中国共产党湖南省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党湖南省委员会, excerpt: true, keep: [ "书记：王茂林（－1998年10月）、杨正午", "书记：杨正午（－2005年12月）", "书记：张春贤（－2010年4月）", "书记：周强（－2013年3月）", "书记：杜家毫（－2020年11月）", "书记：张庆伟（－2023年3月）" ] }
+  - { id: p02-wiki-hunan-gov, title: 湖南行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/湖南行政长官列表, excerpt: true, keep: [ "储 波", "1998年9月－2001年8月", "张云川", "2001年8月－2003年3月", "周伯华", "2003年3月－2006年9月", "周 强", "2006年9月－2010年6月", "徐守盛", "2010年6月－2013年4月", "杜家毫", "2013年4月-2016年9月", "许达哲", "2016年9月-2020年11月", "毛伟明", "2020年11月-" ] }
+  - { id: p02-wiki-guangdong-sec, title: 中国共产党广东省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党广东省委员会, excerpt: true, keep: [ "李长春（1998年5月 — 2002年12月）", "张德江（2002年12月 — 2007年12月）", "汪洋（2007年12月 — 2012年12月）", "胡春华（2012年12月 — 2017年10月）", "李希（2017年10月 — 2022年10月）", "黄坤明（2022年10月 — ）" ] }
+  - { id: p02-wiki-guangdong-gov, title: 广东行政首长列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/广东行政首长列表, excerpt: true, keep: [ "卢瑞华", "1996年2月9日", "2003年1月20日", "黄华华", "2011年11月4日", "朱小丹", "2011年11月5日", "2016年12月30日", "马兴瑞", "2021年12月27日", "王伟中", "2025年10月11日", "孟凡利" ] }
+  - { id: p02-wiki-guangxi-sec, title: 中国共产党广西壮族自治区委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党广西壮族自治区委员会, excerpt: true, keep: [ "1997年7月–2006年6月", "2006年6月–2007年12月", "2007年12月–2012年12月", "彭清华（2012年12月—2018年3月）", "鹿心社（2018年3月—2021年10月）", "刘 宁（2021年10月—2024年12月）", "陈 刚（2024年12月" ] }
+  - { id: p02-wiki-guangxi-gov, title: 广西行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/广西行政长官列表, excerpt: true, keep: [ "李兆焯", "1998年1月—2003年4月", "陆 兵", "2003年4月—2007年12月", "马 飚", "2007年12月—2013年4月", "陈 武", "2013年4月—2020年10月", "蓝天立", "2020年10月—2025年5月", "2025年5月16日，因涉嫌严重违纪违法接受审查调查", "韦 韬", "2025年7月—" ] }
+  - { id: p02-wiki-hainan-sec, title: 中国共产党海南省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党海南省委员会, excerpt: true, keep: [ "杜青林（1998年2月－2001年8月）", "白克明（2001年8月－2002年11月）", "王岐山（2002年11月－2003年4月）", "汪啸风（2003年4月－2006年12月）", "卫留成（2006年12月－2011年8月）", "罗保铭（2011年8月－2017年4月）", "书记：罗保铭（－2017年3月）", "书记：刘赐贵（－2020年11月）", "书记：沈晓明（－2023年3月）" ] }
+  - { id: p02-wiki-hainan-gov, title: 海南行政首长列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/海南行政首长列表, excerpt: true, keep: [ "汪啸风", "1998年2月-2003年10月", "卫留成", "2003年10月-2007年1月", "罗保铭", "2007年1月-2011年8月", "蒋定之", "2011年8月-2014年12月", "2011年8月-2012年2月为代省长", "刘赐贵", "2015年1月-2017年4月", "沈晓明", "2017年4月-2020年12月", "冯 飞", "2020年12月-2023年4月", "刘小明", "2023年4月-" ] }
+  - { id: p02-wiki-chongqing-sec, title: 中国共产党重庆市委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党重庆市委员会, excerpt: true, keep: [ "书 记：张德邻（—1999年6月）、贺国强", "书 记：贺国强（—2002年10月）", "书 记：汪洋（—2007年12月）", "书 记：张德江（—2012年11月）", "书 记：孙政才（—2017年7月", "书 记：陈敏尔（—2022年12月）" ] }
+  - { id: p02-wiki-chongqing-gov, title: 重庆市市长列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/重慶市市長列表, excerpt: true, keep: [ "包叙定", "1999年6月", "王鸿举", "2002年10月", "2003年1月", "黄奇帆", "2009年11月", "2016年12月", "张国清", "2017年12月", "唐良智", "2018年1月", "2021年12月", "胡衡华", "2026年5月", "任内因涉嫌严重违纪违法被查", "陈新武", "2026年7月" ] }
+  - { id: p02-wiki-sichuan-sec, title: 中国共产党四川省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党四川省委员会, excerpt: true, keep: [ "谢世杰（1993年04月07日—2000年01月06日）", "周永康（2000年01月06日—2002年12月05日）", "张学忠（2002年12月05日—2006年12月03日）", "杜青林（2006年12月03日—2007年12月01日）", "刘奇葆（2007年12月01日—2012年11月20日）", "书记：刘奇葆（—2012年11月）", "书记：王东明（—2018年3月）" ] }
+  - { id: p02-wiki-sichuan-gov, title: 四川省行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/四川省行政长官列表, excerpt: true, keep: [ "张中伟", "1999年6月－2007年1月", "蒋巨峰", "2007年1月－2013年1月", "魏宏", "2013年1月－2016年1月", "尹力", "2016年1月－2020年12月", "黄强", "2020年12月－2024年7月", "施小琳", "2024年7月－" ] }
+  - { id: p02-wiki-guizhou-sec, title: 中国共产党贵州省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党贵州省委员会, excerpt: true, keep: [ "刘方仁（1993年7月—2001年1月）", "钱运录（2001年1月—2005年12月）", "石宗源（2005年12月—2010年8月）", "栗战书（2010年8月—2012年7月18日）", "赵克志（2012年7月18日—2015年7月）", "陈敏尔（2015年7月—2017年7月）", "孙志刚（2017年7月—2020年11月）", "书记：谌贻琴（女，白族，—2022年12月）", "徐麟（2022年12月—）" ] }
+  - { id: p02-wiki-guizhou-gov, title: 贵州行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/贵州行政长官列表, excerpt: true, keep: [ "钱运录", "1998年12月－2001年1月", "石秀诗", "2001年1月－2006年7月", "林树森", "2006年7月－2010年8月", "赵克志", "2010年8月 - 2012年12月", "陈敏尔", "2012年12月 - 2015年10月", "孙志刚", "2015年10月 - 2017年9月", "谌贻琴", "2017年9月 - 2020年11月", "李炳军", "2020年11月 -" ] }
+  - { id: p02-wiki-yunnan-sec, title: 中国共产党云南省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党云南省委员会, excerpt: true, keep: [ "令狐安（1997年08月—2001年10月）", "白恩培（2001年10月—2011年08月）", "秦光荣（2011年08月—2014年10月）", "书记：秦光荣（—2014年10月）", "书记：陈豪（—2020年11月）" ] }
+  - { id: p02-wiki-yunnan-gov, title: 云南行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/云南行政长官列表, excerpt: true, keep: [ "李嘉廷", "1998年1月18日－2001年6月1日", "徐荣凯", "2001年6月1日－2006年11月6日", "秦光荣", "2006年11月6日－2011年8月30日", "李纪恒", "2011年8月30日－2014年10月17日", "陈豪", "2014年10月17日－2016年12月13日", "阮成发", "2016年12月13日－2020年11月25日", "王予波", "2020年11月25日－" ] }
+  - { id: p02-wiki-xizang-sec, title: 中国共产党西藏自治区委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党西藏自治区委员会, excerpt: true, keep: [ "陈奎元（1992年11月—2000年09月）", "郭金龙（2000年09月—2004年12月）", "杨传堂（2004年12月—2005年11月）", "张庆黎（2005年11月—2011年8月）", "书记：张庆黎（—2011年8月）", "书记：陈全国（—2016年8月）", "书记：吴英杰（2016年8月—2021年10月）", "书记：王君正（—2026年9月）" ] }
+  - { id: p02-wiki-xizang-gov, title: 西藏自治区人民政府主席（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/西藏自治区人民政府主席, excerpt: true, keep: [ "列确", "1998年5月－2003年4月", "向巴平措", "2003年4月－2010年1月", "白玛赤林", "2010年1月－2013年1月", "洛桑江村", "2013年1月－2017年1月", "齐扎拉", "2017年1月－2021年10月", "严金海", "2021年10月－2024年11月", "嘎玛泽登", "2024年11月至今" ] }
+  - { id: p02-wiki-shaanxi-sec, title: 中国共产党陕西省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党陕西省委员会, excerpt: true, keep: [ "李建国（1997年8月－）", "书 记：李建国 → 赵乐际（2007年3月－）", "书 记：赵乐际（—2012年11月）", "书 记：娄勤俭（—2017年10月）", "书 记：刘国中（—2022年11月）" ] }
+  - { id: p02-wiki-shaanxi-gov, title: 陕西行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陕西行政长官列表, excerpt: true, keep: [ "程安东", "1994年12月-2002年5月", "贾治邦", "2002年5月-2004年10月", "陈德铭", "2004年10月-2006年6月", "袁纯清", "2006年6月-2010年6月", "赵正永", "2010年6月-2012年12月", "娄勤俭", "2012年12月-2016年3月", "胡和平", "2016年3月-2018年1月", "刘国中", "2018年1月-2020年8月", "赵一德", "2020年8月-2022年12月", "赵刚", "2022年12月-" ] }
+  - { id: p02-wiki-gansu-sec, title: 中国共产党甘肃省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党甘肃省委员会, excerpt: true, keep: [ "孙英（1998年4月—2001年1月）", "宋照肃（2001年1月—2003年8月）", "苏荣（2003年8月—2006年7月）", "陆浩（2006年7月—2011年12月）", "王三运（2011年12月—2017年4月）", "林铎（2017年3月—2021年3月）", "尹弘（2021年3月—2022年12月）", "胡昌升（2022年12月—2026年9月）", "吴晓军（2026年9月—）" ] }
+  - { id: p02-wiki-gansu-gov, title: 甘肃行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/甘肃行政长官列表, excerpt: true, keep: [ "宋照肃", "1998年4月－2001年1月", "陆 浩", "2001年1月－2006年10月", "徐守盛", "2006年10月－2010年7月", "刘伟平", "2010年7月－2016年4月", "2010年7月－2011年1月间为代省长", "林 铎", "2016年4月－2017年4月", "唐仁健", "2017年4月－2020年12月", "任振鹤", "2020年12月－2026年9月", "孔绍逊", "2026年9月－" ] }
+  - { id: p02-wiki-qinghai-sec, title: 中国共产党青海省委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党青海省委员会, excerpt: true, keep: [ "白恩培（1999年06月－2001年10月）", "苏 荣（2001年10月－2003年08月）", "赵乐际（2003年8月－2007年3月）", "强 卫（2007年3月－2013年3月）", "骆惠宁（2013年3月—2016年6月）", "王国生（2016年6月—2018年3月）", "王建军（2018年3月—2022年3月）", "信长星（2022年3月—2023年1月）", "陈刚（2023年1月—2024年12月）", "吴晓军（2024年12月—2026年9月）", "罗东川（2026年9月—）" ] }
+  - { id: p02-wiki-qinghai-gov, title: 青海行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/青海行政长官列表, excerpt: true, keep: [ "赵乐际", "1999年8月－2003年10月", "杨传堂", "2003年10月－2004年12月", "宋秀岩", "2004年12月－2010年1月", "骆惠宁", "2010年1月－2013年4月", "郝 鹏", "2013年4月－2016年12月", "王建军", "2016年12月－2018年8月", "刘 宁", "2018年8月－2020年7月", "信长星", "2020年8月－2022年3月", "吴晓军", "2022年3月－2025年1月", "罗东川", "2025年1月 -" ] }
+  - { id: p02-wiki-ningxia-sec, title: 中国共产党宁夏回族自治区委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党宁夏回族自治区委员会, excerpt: true, keep: [ "毛如柏（1997年08月—2002年03月）", "陈建国（2002年03月—2010年07月）", "张 毅（2010年07月—2013年03月）", "书记：张毅（—2013年3月）", "书记：石泰峰（—2019年10月）", "书记：梁言顺（—2024年6月28日）" ] }
+  - { id: p02-wiki-ningxia-gov, title: 宁夏行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/宁夏行政长官列表, excerpt: true, keep: [ "马启智", "1997年9月－2007年5月", "王正伟", "2007年5月－2013年3月", "刘 慧", "2013年3月－2016年7月", "咸 辉", "2016年7月－2022年5月", "张雨浦", "2022年5月－" ] }
+  - { id: p02-wiki-xinjiang-sec, title: 中国共产党新疆维吾尔自治区委员会（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党新疆维吾尔自治区委员会, excerpt: true, keep: [ "王乐泉（1994.9.24—2010.4.24，1994.9—1995.9代理）", "张春贤（2010.4.24—2016.8.29）", "书记：张春贤（—2016年8月）", "书记：陈全国（—2021年12月）" ] }
+  - { id: p02-wiki-xinjiang-gov, title: 新疆行政长官列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/新疆行政长官列表, excerpt: true, keep: [ "阿不来提·阿不都热西提 1993年－2003年", "司马义·铁力瓦尔地 2003年－2007年", "努尔·白克力 2007年－2014年", "雪克来提·扎克尔 2014年－2021年", "艾尔肯·吐尼亚孜 2021年－" ] }
+  # --- Wikipedia biographies of the governors (acting periods) ---
+  - { id: p02-wiki-li-chengyu, title: 李成玉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李成玉, excerpt: true, keep: [ "2003年1月至2008年4月任中共河南省委副书记、河南省省长" ] }
+  - { id: p02-wiki-guo-gengmao, title: 郭庚茂（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郭庚茂, excerpt: true, keep: [ "2008年4月河南省人大常委会任命郭庚茂为副省长、代省长" ] }
+  - { id: p02-wiki-xie-fuzhan, title: 谢伏瞻（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/谢伏瞻, excerpt: true, keep: [ "谢伏瞻出任中共河南省委副书记" ] }
+  - { id: p02-wiki-chen-runer, title: 陈润儿（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈润儿, excerpt: true, keep: [ "陈润儿在黑龙江工作三年之后", "12月6日，辞去河南省人民政府省长职务" ] }
+  - { id: p02-wiki-yin-hong, title: 尹弘（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/尹弘, excerpt: true, keep: [ "尹弘转任中共河南省委副书记" ] }
+  - { id: p02-wiki-wang-kai, title: 王凯（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王凯_(1962年), excerpt: true, keep: [ "王凯任中共河南省委副书记、河南省人民政府代省长" ] }
+  - { id: p02-wiki-zhang-guoguang, title: 张国光（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张国光_(1945年), excerpt: true, keep: [ "张国光辞去辽宁省省长职务" ] }
+  - { id: p02-wiki-luo-qingquan, title: 罗清泉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/罗清泉, excerpt: true, keep: [ "2002年10月任湖北省副省长、代省长" ] }
+  - { id: p02-wiki-li-hongzhong, title: 李鸿忠（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李鸿忠, excerpt: true, keep: [ "12月兼任湖北省人民政府副省长、代省长" ] }
+  - { id: p02-wiki-wang-guosheng, title: 王国生（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王国生_(1956年), excerpt: true, keep: [ "任中共湖北省委副书记、副省长、代省长" ] }
+  - { id: p02-wiki-wang-xiaodong, title: 王晓东（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王晓东_(1960年), excerpt: true, keep: [ "任湖北省政府党组书记、代省长" ] }
+  - { id: p02-wiki-wang-zhonglin, title: 王忠林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王忠林_(1962年), excerpt: true, keep: [ "出任湖北省代省长" ] }
+  - { id: p02-wiki-zhou-bohua, title: 周伯华（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/周伯华, excerpt: true, keep: [ "2003年3月至2006年9月任湖南省委副书记" ] }
+  - { id: p02-wiki-zhou-qiang, title: 周强（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/周强, excerpt: true, keep: [ "出任湖南省代理省长" ] }
+  - { id: p02-wiki-xu-shousheng, title: 徐守盛（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/徐守盛, excerpt: true, keep: [ "徐升任省委副书记、代省长", "2010年5月，任中国共产党湖南省委员会副书记、代省长" ] }
+  - { id: p02-wiki-du-jiahao, title: 杜家毫（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/杜家毫, excerpt: true, keep: [ "4月10日，任湖南省人民政府副省长" ] }
+  - { id: p02-wiki-xu-dazhe, title: 许达哲（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/许达哲, excerpt: true, keep: [ "9月5日，任湖南省人民政府副省长、代理省长" ] }
+  - { id: p02-wiki-mao-weiming, title: 毛伟明（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/毛伟明, excerpt: true, keep: [ "2021年1月，当选为湖南省人民政府省长" ] }
+  - { id: p02-wiki-zhu-xiaodan, title: 朱小丹（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/朱小丹, excerpt: true, keep: [ "2011年11月4日起，接替黄华华" ] }
+  - { id: p02-wiki-ma-xingrui, title: 马兴瑞（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/马兴瑞, excerpt: true, keep: [ "任命马兴瑞为广东省人民政府代省长" ] }
+  - { id: p02-wiki-wang-weizhong, title: 王伟中（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王伟中, excerpt: true, keep: [ "2022年1月22日，当选广东省人民政府省长" ] }
+  - { id: p02-wiki-ma-biao, title: 马飚（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/马飚, excerpt: true, keep: [ "政府副主席、代主席；2008年1月" ] }
+  - { id: p02-wiki-chen-wu, title: 陈武（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈武_(1954年), excerpt: true, keep: [ "2013年3月，出任中共广西壮族自治区党委副书记" ] }
+  - { id: p02-wiki-wei-tao, title: 韦韬（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/韦韬, excerpt: true, keep: [ "任广西壮族自治区人民政府代理主席" ] }
+  - { id: p02-wiki-wei-liucheng, title: 卫留成（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/卫留成, excerpt: true, keep: [ "出任中共海南省委副书记，海南省代省长" ] }
+  - { id: p02-wiki-luo-baoming, title: 罗保铭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/罗保铭, excerpt: true, keep: [ "2007年1月，任中共海南省委副书记，海南省人民政府副省长、代省长" ] }
+  - { id: p02-wiki-shen-xiaoming, title: 沈晓明（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/沈晓明, excerpt: true, keep: [ "同月7日，任海南省人民政府副省长" ] }
+  - { id: p02-wiki-feng-fei, title: 冯飞（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/冯飞, excerpt: true, keep: [ "2021年1月，冯飞当选为海南省人民政府省长" ] }
+  - { id: p02-wiki-liu-xiaoming, title: 刘小明（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘小明, excerpt: true, keep: [ "被任命为海南省人民政府副省长、代理省长" ] }
+  - { id: p02-wiki-wang-hongju, title: 王鸿举（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王鸿举, excerpt: true, keep: [ "接替包叙定出任代市长" ] }
+  - { id: p02-wiki-huang-qifan, title: 黄奇帆（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/黄奇帆, excerpt: true, keep: [ "重庆市人民政府代理市长（2009.11—2010.01）" ] }
+  - { id: p02-wiki-hu-henghua, title: 胡衡华（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/胡衡华, excerpt: true, keep: [ "同月任重庆市人民政府副市长、代理市长" ] }
+  - { id: p02-wiki-chen-xinwu, title: 陈新武（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈新武, excerpt: true, keep: [ "升任重庆市人民政府代理市长" ] }
+  - { id: p02-wiki-wei-hong, title: 魏宏（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/魏宏, excerpt: true, keep: [ "被任命为四川省人民政府代理省长" ] }
+  - { id: p02-wiki-huang-qiang, title: 黄强（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/黄强_(1963年), excerpt: true, keep: [ "2021年2月，当选四川省省长" ] }
+  - { id: p02-wiki-shi-xiushi, title: 石秀诗（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/石秀诗, excerpt: true, keep: [ "代理：2001年1月6日-1月16日", "2001年1月6日—2006年7月19日" ] }
+  - { id: p02-wiki-lin-shusen, title: 林树森（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/林树森, excerpt: true, keep: [ "被任命为贵州省代省长" ] }
+  - { id: p02-wiki-zhao-kezhi, title: 赵克志（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/赵克志, excerpt: true, keep: [ "2010年8月，任中共贵州省委副书记、省政府党组书记，代省长" ] }
+  - { id: p02-wiki-chen-miner, title: 陈敏尔（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈敏尔, excerpt: true, keep: [ "代理：2012年12月28日－2013年1月30日", "2012年12月28日—2015年10月16日" ] }
+  - { id: p02-wiki-sun-zhigang, title: 孙志刚（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/孙志刚_(官员), excerpt: true, keep: [ "孙志刚调任中共贵州省委副书记" ] }
+  - { id: p02-wiki-li-bingjun, title: 李炳军（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李炳军, excerpt: true, keep: [ "2020年11月，升任贵州省委副书记、代省长" ] }
+  - { id: p02-wiki-xu-rongkai, title: 徐荣凯（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/徐荣凯, excerpt: true, keep: [ "2001年5月31日中共中央决定徐荣凯" ] }
+  - { id: p02-wiki-qin-guangrong, title: 秦光荣（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/秦光荣, excerpt: true, keep: [ "秦光荣接替徐荣凯出任云南省代理省长" ] }
+  - { id: p02-wiki-li-jiheng, title: 李纪恒（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李纪恒, excerpt: true, keep: [ "获提名出任云南省省长" ] }
+  - { id: p02-wiki-ruan-chengfa, title: 阮成发（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/阮成发, excerpt: true, keep: [ "2016年12月，调任中共云南省委副书记" ] }
+  - { id: p02-wiki-wang-yubo, title: 王予波（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王予波, excerpt: true, keep: [ "2021年1月29日，任云南省人民政府省长" ] }
+  - { id: p02-wiki-padma-choling, title: 白玛赤林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/白玛赤林, excerpt: true, keep: [ "2010年1月15日，在西藏自治区九届人大三次会议上" ] }
+  - { id: p02-wiki-che-dalha, title: 齐扎拉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/齐扎拉, excerpt: true, keep: [ "2017年1月15日，任西藏自治区人民政府主席" ] }
+  - { id: p02-wiki-yan-jinhai, title: 严金海（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/严金海, excerpt: true, keep: [ "2021年10月8日，任西藏自治区人民政府代理主席" ] }
+  - { id: p02-wiki-karma-tseten, title: 嘎玛泽登（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/嘎玛泽登, excerpt: true, keep: [ "11月28日，就任自治区政府代理主席" ] }
+  - { id: p02-wiki-chen-deming, title: 陈德铭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈德铭, excerpt: true, keep: [ "两年后，任代理省长" ] }
+  - { id: p02-wiki-yuan-chunqing, title: 袁纯清（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/袁纯清, excerpt: true, keep: [ 出任陕西省人民政府代省长, 2010年5月31日，中共中央宣布, 2014年9月，袁纯清被免去山西省委书记 ] }
+  - { id: p02-wiki-zhao-zhengyong, title: 赵正永（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/赵正永, excerpt: true, keep: [ "赵正永出任中共陕西省委副书记、陕西省代理省长" ] }
+  - { id: p02-wiki-lou-qinjian, title: 娄勤俭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/娄勤俭, excerpt: true, keep: [ "2012年12月，任中共陕西省委副书记，副省长、代省长" ] }
+  - { id: p02-wiki-hu-heping, title: 胡和平（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/胡和平, excerpt: true, keep: [ "同年4月1日任陕西省人民政府代省长" ] }
+  - { id: p02-wiki-lu-hao, title: 陆浩（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陆浩, excerpt: true, keep: [ "2001年1月3日，任甘肃省人民政府代理省长" ] }
+  - { id: p02-wiki-liu-weiping, title: 刘伟平（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘伟平_(1953年), excerpt: true, keep: [ "2010年7月，任甘肃省委副书记，副省长、代省长" ] }
+  - { id: p02-wiki-lin-duo, title: 林铎（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/林铎_(1956年), excerpt: true, keep: [ "2016年4月1日，任中共甘肃省委副书记" ] }
+  - { id: p02-wiki-tang-renjian, title: 唐仁健（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/唐仁健, excerpt: true, keep: [ "四月起担任副省长、代省长" ] }
+  - { id: p02-wiki-ren-zhenhe, title: 任振鹤（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/任振鹤, excerpt: true, keep: [ "2021年1月，当选甘肃省人民政府省长" ] }
+  - { id: p02-wiki-yang-chuantang, title: 杨传堂（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/杨传堂, excerpt: true, keep: [ "2003年10月，接替赵乐际" ] }
+  - { id: p02-wiki-song-xiuyan, title: 宋秀岩（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/宋秀岩, excerpt: true, keep: [ "2005年1月23日，被青海省第十届人民代表大会" ] }
+  - { id: p02-wiki-luo-huining, title: 骆惠宁（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/骆惠宁, excerpt: true, keep: [ "2010年1月30日—2013年3月28日", "骆惠宁任青海省代理省长. 人民网. 2010-01-12" ] }
+  - { id: p02-wiki-wang-jianjun, title: 王建军（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王建军_(1958年), excerpt: true, keep: [ "2016年12月19日，王建军任青海省人民政府副省长" ] }
+  - { id: p02-wiki-xin-changxing, title: 信长星（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/信长星, excerpt: true, keep: [ "2020年8月1日，信长星被任命为" ] }
+  - { id: p02-wiki-wang-zhengwei, title: 王正伟（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王正伟, excerpt: true, keep: [ "2007年5月12日又出任代理主席" ] }
+  - { id: p02-wiki-xian-hui, title: 咸辉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/咸辉, excerpt: true, keep: [ "兼任自治区人民政府代理主席" ] }
+  - { id: p02-wiki-zhang-yupu, title: 张雨浦（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张雨浦, excerpt: true, keep: [ "任自治区人民政府代理主席" ] }
+  - { id: p02-wiki-abdulahat-abdurixit, title: 阿不来提·阿不都热西提（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/阿不来提·阿不都热西提, excerpt: true, keep: [ "1994年至2003年任新疆维吾尔自治区主席" ] }
+  - { id: p02-wiki-ismail-tiliwaldi, title: 司马义·铁力瓦尔地（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/司马义·铁力瓦尔地, excerpt: true, keep: [ "2003年1月至2007年12月，任新疆自治区政府主席" ] }
+  - { id: p02-wiki-nur-bekri, title: 努尔·白克力（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/努尔·白克力, excerpt: true, keep: [ "努尔·白克力代理新疆维吾尔自治区主席. 新华网. 2007-12-28", "2008年1月，白克力当选自治区人民政府主席" ] }
+  - { id: p02-wiki-shohrat-zakir, title: 雪克来提·扎克尔（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/雪克来提·扎克尔, excerpt: true, keep: [ "自治区政府代主席。2015年1月起任自治区政府主席", "2021年9月30日，辞去自治区政府主席职务" ] }
+  - { id: p02-wiki-erkin-tuniyaz, title: 艾尔肯·吐尼亚孜（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/艾尔肯·吐尼亚孜, excerpt: true, keep: [ "2021年9月，任中共新疆维吾尔自治区党委副书记、自治区政府代主席", "2022年1月27日，当选新疆维吾尔自治区政府主席" ] }
+  # --- appointment notices (新华社 etc.) ---
+  - id: p02-xinhua-2024-12-31-henan-guangxi-sec
+    title: 河南、广西2省区党委主要负责同志职务调整
+    publisher: 新华社
+    date: 2024-12-31
+    voice: official
+    url: http://www.news.cn/politics/20241231/0677a8e28ae744078242613da0813c6f/c.html
+    start: "新华社北京12月31日电"
+    end: "陈刚同志任广西壮族自治区党委委员、常委、书记。"
+  - id: p02-xinhua-2026-09-23-anhui-3-sec
+    title: 安徽等3省省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2026-09-23
+    voice: official
+    url: https://www.news.cn/politics/20260923/469da6b5bd14496aa21bb2b446a3bfab/c.html
+    start: "新华社北京9月23日电"
+    end: "赵龙同志任福建省委书记。"
+  - id: p02-people-2021-04-06-wang-kai-acting
+    title: 王凯任河南省副省长、代省长
+    publisher: 人民网（河南日报）
+    date: 2021-04-06
+    voice: official
+    url: http://renshi.people.com.cn/n1/2021/0406/c139617-32070240.html
+    start: "2021年4月2日，河南省"
+    end: "现予公告。"
+  - id: p02-xinhua-2026-09-24-wang-lujin-acting
+    title: 王陆进代理河南省人民政府省长职务
+    publisher: 新华网（河南日报）
+    date: 2026-09-24
+    voice: official
+    url: https://www.news.cn/politics/20260924/a161809020604d10845189071d1f51fa/c.html
+    start: "关于王陆进代理河南省人民政府省长职务的决定"
+    end: "王陆进代理河南省人民政府省长职务。"
+  - id: p02-xinhua-2024-12-31-hubei-qinghai-sec
+    title: 湖北、青海省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2024-12-31
+    voice: official
+    url: http://www.news.cn/20241231/9a3c013de0284fd18cf417a7a3c52719/c.html
+    start: "新华社北京12月31日电"
+    end: "陈刚同志不再担任青海省委书记、常委、委员职务。"
+  - id: p02-xinhua-2026-05-30-hubei-sec
+    title: 湖北省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2026-05-30
+    voice: official
+    url: https://www.news.cn/20260530/b0a9b365862a4b97a29886b2ee9bc1b8/c.html
+    start: "新华社北京5月30日电"
+    end: "另有任用。"
+  - id: p02-xinhua-2021-05-07-wang-zhonglin-acting
+    title: 王忠林任湖北省代省长
+    publisher: 新华社
+    date: 2021-05-07
+    voice: official
+    url: http://www.xinhuanet.com/politics/2021-05/07/c_1127418482.htm
+    start: "新华社武汉5月7日电"
+    end: "代理省长。"
+  - id: p02-xinhua-2025-01-02-li-dianxun-acting
+    title: 李殿勋任湖北省副省长、代理省长
+    publisher: 新华社
+    date: 2025-01-02
+    voice: official
+    url: https://www.news.cn/politics/20250102/c1fbd9eb0327417ebfeb214060314786/c.html
+    start: "1月2日下午，湖北省"
+    end: "（记者 王婧）"
+  - id: p02-xinhua-2025-01-20-li-dianxun-elected
+    title: 王忠林当选湖北省人大常委会主任 李殿勋当选湖北省省长
+    publisher: 新华社
+    date: 2025-01-20
+    voice: official
+    url: http://www.news.cn/politics/20250120/c5fc9b00ce764bba88cd8d106cbaa478/c.html
+    start: "新华社武汉1月20日电"
+    end: "选举李殿勋为湖北省人民政府省长。"
+  - id: p02-xinhua-2023-03-14-hunan-3-sec
+    title: 湖南等3省省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2023-03-14
+    voice: official
+    url: http://www.news.cn/politics/2023-03/14/c_1129431255.htm
+    start: "新华社北京3月14日电"
+    end: "冯飞同志任海南省委书记。"
+  - id: p02-xinhua-2020-11-27-mao-weiming-acting
+    title: 毛伟明任湖南省代省长
+    publisher: 新华社
+    date: 2020-11-27
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-11/27/c_1126795262.htm
+    start: "新华社长沙11月27日电"
+    end: "副省长、代理省长。"
+  - id: p02-chinanews-2002-02-02-zhang-yunchuan
+    title: 人事变动：张云川当选为湖南省人民政府省长
+    publisher: 中国新闻网
+    date: 2002-02-02
+    voice: official
+    url: http://www.chinanews.com.cn/2002-02-02/26/159717.html
+    start: "湖南省九届人大五次会议2日下午"
+    end: "第九届全国人大代表(新疆)。"
+  - id: p02-xinhua-2021-12-29-wang-weizhong-acting
+    title: 王伟中任广东省副省长、代理省长
+    publisher: 新华网（中国新闻网）
+    date: 2021-12-29
+    voice: official
+    url: http://gd.news.cn/newscenter/2021-12/29/c_1128211123.htm
+    start: "27日上午，广东省十三届"
+    end: "(记者 程景伟)"
+  - id: p02-xinhua-2025-10-11-meng-fanli-acting
+    title: 孟凡利任广东省代省长
+    publisher: 新华社
+    date: 2025-10-11
+    voice: official
+    url: https://www.news.cn/20251011/68e2014c6f6d4f6f80b890e740adb378/c.html
+    start: "新华社广州10月11日电"
+    end: "副省长、代省长。"
+  - id: p02-xinhua-2025-10-15-meng-fanli-elected
+    title: 孟凡利当选广东省省长
+    publisher: 新华社
+    date: 2025-10-15
+    voice: official
+    url: https://www.news.cn/politics/20251015/754453aa6fd14d4b91f63716606198d6/c.html
+    start: "新华社广州10月15日电"
+    end: "为广东省人民政府省长。"
+  - id: p02-xinhua-2021-10-19-guangxi-yunnan-sec
+    title: 广西云南2省区党委主要负责同志职务调整
+    publisher: 新华社
+    date: 2021-10-19
+    voice: official
+    url: http://www.news.cn/politics/2021-10/19/c_1127973766.htm
+    start: "新华社北京10月19日电"
+    end: "阮成发同志不再担任云南省委书记、常委、委员职务。"
+  - id: p02-people-2020-10-19-lan-tianli-acting
+    title: 蓝天立任广西壮族自治区代主席
+    publisher: 人民网
+    date: 2020-10-19
+    voice: official
+    url: http://renshi.people.com.cn/n1/2020/1019/c139617-31897207.html
+    start: "中国共产党新闻网北京10月19日电"
+    end: "第十八、十九届中央候补委员。"
+  - id: p02-xinhua-2021-01-25-lan-tianli-elected
+    title: 蓝天立当选广西壮族自治区主席
+    publisher: 新华社
+    date: 2021-01-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/2021-01/25/c_1127023045.htm
+    start: "新华社南宁1月25日电"
+    end: "（简历来源：广西壮族自治区政府网站）"
+  - id: p02-xinhua-2025-07-03-wei-tao-acting
+    title: 韦韬任广西壮族自治区副主席 代理自治区主席
+    publisher: 新华网
+    date: 2025-07-03
+    voice: official
+    url: http://www.gx.xinhuanet.com/20250703/531ad5ad5f354491a9bf9536db94cc64/c.html
+    start: "7月3日下午，自治区十四届"
+    end: "（记者 佘鸿雁）"
+  - id: p02-xinhua-2020-12-01-fujian-hainan-sec
+    title: 福建海南省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2020-12-01
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-12/01/c_1126808318.htm
+    start: "新华社北京12月1日电"
+    end: "刘赐贵同志不再担任海南省委书记、常委、委员职务。"
+  - id: p02-people-2020-12-03-feng-fei-acting
+    title: 海南省六届人大常委会第二十四次会议闭会
+    publisher: 人民网（海南日报）
+    date: 2020-12-03
+    voice: official
+    url: http://hi.people.com.cn/n2/2020/1203/c231190-34452551.html
+    start: "12月2日下午，海南省六届人大常委会"
+    end: "记者李磊 况昌勋"
+  - id: p02-xinhua-2023-05-31-liu-xiaoming-elected
+    title: 冯飞当选海南省人大常委会主任 刘小明当选海南省省长
+    publisher: 新华社
+    date: 2023-05-31
+    voice: official
+    url: http://www.news.cn/politics/2023-05/31/c_1129658938.htm
+    start: "新华社海口5月31日电"
+    end: "选举刘小明为海南省省长。"
+  - id: p02-xinhua-2022-12-08-chongqing-sec
+    title: 重庆市委主要负责同志职务调整 袁家军兼任重庆市委书记
+    publisher: 新华网
+    date: 2022-12-08
+    voice: official
+    url: https://www.news.cn/politics/2022-12/08/c_1129191499.htm
+    start: "新华网重庆12月8日电"
+    end: "中央政治局委员。"
+  - id: p02-xinhua-2022-01-21-hu-henghua-elected
+    title: 胡衡华当选重庆市市长
+    publisher: 新华社
+    date: 2022-01-21
+    voice: official
+    url: http://www.news.cn/politics/2022-01/21/c_1128286498.htm
+    start: "新华社重庆1月21日电"
+    end: "选举胡衡华为重庆市市长。"
+  - id: p02-xinhua-2026-07-31-chen-xinwu-acting
+    title: 陈新武任重庆市代市长
+    publisher: 新华社
+    date: 2026-07-31
+    voice: official
+    url: https://www.news.cn/politics/20260731/3fe0b15a495a429a8f425d75bd03882e/c.html
+    start: "新华社重庆7月31日电"
+    end: "副市长、代理市长。"
+  - id: p02-xinhua-2018-01-02-tang-liangzhi-acting
+    title: 唐良智任重庆市代市长
+    publisher: 新华社
+    date: 2018-01-02
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018-01/02/c_1122200430.htm
+    start: "新华社重庆１月２日电"
+    end: "四届、五届市委委员"
+  - id: p02-xinhua-2018-01-31-tang-liangzhi-elected
+    title: 张轩当选重庆市人大常委会主任 唐良智当选重庆市市长
+    publisher: 新华社
+    date: 2018-01-31
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018-01/31/c_1122349373.htm
+    start: "新华社重庆１月３１日电"
+    end: "选举杨临萍为市高级人民法院院长。"
+  - id: p02-xinhua-2022-04-22-sichuan-sec
+    title: 四川省委主要负责同志职务调整 王晓晖任四川省委书记
+    publisher: 新华网
+    date: 2022-04-22
+    voice: official
+    url: http://www.news.cn/2022-04/22/c_1128585914.htm
+    start: "新华网成都4月22日电"
+    end: "因年龄原因不再担任省委书记职务。"
+  - id: p02-people-2020-12-02-huang-qiang-acting
+    title: 黄强任四川省副省长、代理省长
+    publisher: 人民网（四川在线）
+    date: 2020-12-02
+    voice: official
+    url: http://renshi.people.com.cn/n1/2020/1202/c139617-31952857.html
+    start: "12月2日下午举行的四川省十三届"
+    end: "（记者 刘佳）"
+  - id: p02-xinhua-2024-07-04-shi-xiaolin-acting
+    title: 施小琳任四川省副省长、代理省长
+    publisher: 新华网（川观新闻）
+    date: 2024-07-04
+    voice: official
+    url: http://www.news.cn/politics/20240704/73f96005dd2d48eeb4448480aeac424d/c.html
+    start: "7月4日上午举行的"
+    end: "（记者 刘佳）"
+  - id: p02-xinhua-2024-07-31-shi-xiaolin-elected
+    title: 施小琳当选四川省省长
+    publisher: 新华社
+    date: 2024-07-31
+    voice: official
+    url: http://www.news.cn/politics/20240731/fb5d9377c4e445d79b7a9c98d71421d4/c.html
+    start: "新华社成都7月31日电"
+    end: "为四川省人民政府省长。"
+  - id: p02-chinanews-2007-01-23-jiang-jufeng-acting
+    title: 蒋巨峰任四川省政府代省长 张中伟辞去省长职务
+    publisher: 中国新闻网
+    date: 2007-01-23
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/01-23/859794.shtml
+    start: "中新网1月23日电"
+    end: "九届、十届四川省人大代表。"
+  - id: p02-chinanews-2007-01-31-jiang-jufeng-elected
+    title: 蒋巨峰当选四川省省长
+    publisher: 中国新闻网
+    date: 2007-01-31
+    voice: official
+    url: http://www.chinanews.com.cn/tp/gnxw/news/2007/01-31/865308.shtml
+    start: "四川省第十届人民代表大会第五次会议1月31日"
+    end: "大学学历。"
+  - id: p02-xinhua-2020-11-20-jilin-4-sec
+    title: 吉林等4省省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2020-11-20
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-11/20/c_1126765656.htm
+    start: "新华社北京11月20日电"
+    end: "陈豪同志不再担任云南省委书记、常委、委员职务。"
+  - id: p02-xinhua-2022-12-09-guizhou-sec
+    title: 贵州省委主要负责同志职务调整
+    publisher: 新华社
+    date: 2022-12-09
+    voice: official
+    url: http://www.xinhuanet.com/politics/2022-12/09/c_1129194304.htm
+    start: "新华社北京12月9日电"
+    end: "徐麟同志任贵州省委委员、常委、书记。"
+  - id: p02-xinhua-2020-11-24-li-bingjun-acting
+    title: 李炳军任贵州省代省长
+    publisher: 新华社
+    date: 2020-11-24
+    voice: official
+    url: http://www.xinhuanet.com/politics/2020-11/24/c_1126781256.htm
+    start: "新华社贵阳11月24日电"
+    end: "副省长、代省长。"
+  - id: p02-people-2017-09-06-chen-yiqin-acting
+    title: 谌贻琴任贵州省副省长、代理省长
+    publisher: 人民网（新华网）
+    date: 2017-09-06
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0906/c1001-29519749.html
+    start: "新华网贵阳9月6日电"
+    end: "十届、十一届、十二届贵州省委委员。"
+  - id: p02-people-2018-01-30-chen-yiqin-elected
+    title: 孙志刚当选贵州省人大常委会主任 谌贻琴当选贵州省省长
+    publisher: 人民网（新华网）
+    date: 2018-01-30
+    voice: official
+    url: http://politics.people.com.cn/n1/2018/0130/c1001-29796349.html
+    start: "新华社贵阳１月３０日电"
+    end: "选举韩德洋为省高级人民法院院长。"
+  - id: p02-xinhua-2020-11-25-wang-yubo-acting
+    title: 王予波任云南省代省长
+    publisher: 新华社
+    date: 2020-11-25
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-11/25/c_1126785963.htm
+    start: "新华社昆明11月25日电"
+    end: "副省长、代理省长。"
+  - id: p02-ce-2011-08-31-li-jiheng-acting
+    title: 李纪恒任云南省副省长、代理省长（经济日报转新华社）
+    publisher: 经济日报
+    date: 2011-08-31
+    voice: official
+    url: http://paper.ce.cn/jjrb/html/2011-08/31/content_166572.htm
+    start: "新华社昆明8月30日电"
+    end: "代理省长。"
+  - id: p02-xinhua-2026-09-22-xizang-3-sec
+    title: 西藏等3省区党委主要负责同志职务调整
+    publisher: 新华社
+    date: 2026-09-22
+    voice: official
+    url: https://www.news.cn/politics/20260922/7e25fd3001fa4c288dfdb3f9f8a855b2/c.html
+    start: "新华社北京9月22日电"
+    end: "罗东川同志任青海省委书记。"
+  - id: p02-xinhua-2022-01-07-yan-jinhai-elected
+    title: 严金海当选西藏自治区人民政府主席
+    publisher: 新华社
+    date: 2022-01-07
+    voice: official
+    url: http://www.news.cn/politics/2022-01/07/c_1128242849.htm
+    start: "新华社拉萨1月7日电"
+    end: "人民政府主席。"
+  - id: p02-xinhua-2025-01-22-karma-tseten-elected
+    title: 严金海当选西藏自治区人大常委会主任 嘎玛泽登当选西藏自治区人民政府主席
+    publisher: 新华社
+    date: 2025-01-22
+    voice: official
+    url: http://www.news.cn/politics/20250122/d0235dc2ffb54996949f2716b3f145fc/c.html
+    start: "新华社拉萨1月22日电"
+    end: "监察委员会主任。"
+  - id: p02-chinanews-2003-05-16-qiangba-puncog
+    title: 列确当选西藏人大主任 向巴平措任政府主席
+    publisher: 中国新闻网
+    date: 2003-05-16
+    voice: official
+    url: https://www.chinanews.com.cn/n/2003-05-16/26/303828.html
+    start: "中新网5月16日电"
+    end: "第十六届中央委员。"
+  - id: p02-people-2013-01-29-losang-jamcan
+    title: 白玛赤林当选西藏人大主任 洛桑江村当选主席
+    publisher: 人民网（中国新闻网）
+    date: 2013-01-29
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0129/c1001-20362121.html
+    start: "中新网拉萨1月29日电"
+    end: "人民检察院检察长。(完)"
+  - id: p02-xinhua-2020-07-31-shaanxi-sec
+    title: 陕西省委主要负责同志职务调整 刘国中任陕西省委书记
+    publisher: 新华网
+    date: 2020-07-31
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-07/31/c_1126309000.htm
+    start: "新华网西安7月31日电"
+    end: "是十九届中央委员。"
+  - id: p02-xinhua-2022-11-27-shaanxi-sec
+    title: 陕西省委主要负责同志职务调整 赵一德任陕西省委书记
+    publisher: 新华网
+    date: 2022-11-27
+    voice: official
+    url: http://www.news.cn/politics/2022-11/27/c_1129164633.htm
+    start: "新华网西安11月27日电"
+    end: "二十届中央委员。"
+  - id: p02-xinhua-2020-08-02-zhao-yide-acting
+    title: 赵一德任陕西省代省长
+    publisher: 新华社
+    date: 2020-08-02
+    voice: official
+    url: http://www.xinhuanet.com/politics/2020-08/02/c_1126315991.htm
+    start: "新华社西安8月2日电"
+    end: "副省长、代省长。"
+  - id: p02-xinhua-2020-08-25-zhao-yide-elected
+    title: 刘国中当选陕西省人大常委会主任 赵一德当选陕西省省长
+    publisher: 新华社
+    date: 2020-08-25
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-08/25/c_1126411597.htm
+    start: "新华社西安8月25日电"
+    end: "选举赵一德为陕西省省长。"
+  - id: p02-xinhua-2022-12-01-zhao-gang-acting
+    title: 赵刚任陕西省代省长
+    publisher: 新华社
+    date: 2022-12-01
+    voice: official
+    url: http://www.news.cn/politics/2022-12/01/c_1129176112.htm
+    start: "新华社西安12月1日电"
+    end: "副省长、代理省长。"
+  - id: p02-xinhua-2018-01-04-liu-guozhong-acting
+    title: 刘国中任陕西省代省长
+    publisher: 新华社
+    date: 2018-01-04
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018-01/04/c_1122210670.htm
+    start: "新华社西安1月4日电"
+    end: "第十三届省委委员。"
+  - id: p02-xinhua-2018-01-30-liu-guozhong-elected
+    title: 胡和平当选陕西省人大常委会主任 刘国中当选陕西省省长
+    publisher: 新华社
+    date: 2018-01-30
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018-01/30/c_1122342944.htm
+    start: "新华社西安1月30日电"
+    end: "选举李智为省高级人民法院院长。"
+  - id: p02-sohu-2002-05-20-jia-zhibang-acting
+    title: 程安东辞去陕西省省长职务 贾治邦被任命为代省长（搜狐转中国新闻网）
+    publisher: 中国新闻网
+    date: 2002-05-20
+    voice: official
+    url: https://news.sohu.com/44/10/news200961044.shtml
+    start: "中新网西安5月20日消息"
+    end: "陈德铭任陕西省副省长。"
+  - id: p02-sohu-2003-01-18-jia-zhibang-elected
+    title: 李建国当选陕西省人大常委主任 贾治邦当选省长（搜狐转新华网）
+    publisher: 新华社
+    date: 2003-01-18
+    voice: official
+    url: https://news.sohu.com/74/14/news205831474.shtml
+    start: "新华网西安1月18日电"
+    end: "（完）"
+  - id: p02-xinhua-2022-12-07-gansu-sec
+    title: 甘肃省委主要负责同志职务调整 胡昌升任甘肃省委书记
+    publisher: 新华网
+    date: 2022-12-07
+    voice: official
+    url: https://www.news.cn/politics/2022-12/07/c_1129189540.htm
+    start: "新华网兰州12月7日电"
+    end: "二十届中央委员。"
+  - id: p02-xinhua-2026-09-22-gansu-sec
+    title: 甘肃省委主要负责同志职务调整 吴晓军任甘肃省委书记
+    publisher: 新华网
+    date: 2026-09-22
+    voice: official
+    url: https://www.xinhuanet.com/20260922/0e2224f2939a45e19a85f1af4838a228/c.html
+    start: "新华网兰州9月22日电"
+    end: "是二十届中央委员。"
+  - id: p02-xinhua-2020-12-03-ren-zhenhe-acting
+    title: 任振鹤任甘肃省代省长
+    publisher: 新华社
+    date: 2020-12-03
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-12/03/c_1126818383.htm
+    start: "新华社兰州12月3日电"
+    end: "（简历来源：甘肃省政府网站）"
+  - id: p02-xinhua-2026-09-02-kong-shaoxun-acting
+    title: 孔绍逊代理甘肃省人民政府省长职务
+    publisher: 新华网
+    date: 2026-09-02
+    voice: official
+    url: https://www.news.cn/politics/20260902/c84067ad932147a5bdd0f2b1ad751efb/c.html
+    start: "甘肃省人民代表大会常务委员会关于孔绍逊"
+    end: "（来源：甘肃人大网）"
+  - id: p02-xinhua-2026-09-29-kong-shaoxun-elected
+    title: 吴晓军当选甘肃省人大常委会主任 孔绍逊当选甘肃省省长
+    publisher: 新华社
+    date: 2026-09-29
+    voice: official
+    url: https://www.news.cn/politics/20260929/caff618c0bc442e6a739a4fba69f9ace/c.html
+    start: "新华社兰州9月29日电"
+    end: "为甘肃省人民政府省长。"
+  - id: p02-cctv-2008-02-25-lu-hao
+    title: 陆浩简历
+    publisher: 央视网（新华网）
+    date: 2008-02-25
+    voice: official
+    url: http://news.cctv.com/special/C20149/20080225/104663.shtml
+    start: "中共甘肃省委书记，甘肃省人大常委会主任。"
+    end: "十六届、十七届中央委员。"
+  - id: p02-xinhua-2022-03-31-wu-xiaojun-acting
+    title: 吴晓军任青海省人民政府副省长、代理省长
+    publisher: 新华网
+    date: 2022-03-31
+    voice: official
+    url: http://qh.news.cn/2022-03/31/c_1128521498.htm
+    start: "决定任命名单"
+    end: "吴晓军为青海省人民政府代理省长。"
+  - id: p02-xinhua-2022-05-28-wu-xiaojun-elected
+    title: 信长星当选青海省人大常委会主任 吴晓军当选青海省省长
+    publisher: 新华社
+    date: 2022-05-28
+    voice: official
+    url: http://www.news.cn/politics/2022-05/28/c_1128693143.htm
+    start: "新华社西宁5月28日电"
+    end: "监察委员会主任。"
+  - id: p02-xinhua-2025-01-04-luo-dongchuan-acting
+    title: 罗东川任青海省代省长
+    publisher: 新华社
+    date: 2025-01-04
+    voice: official
+    url: https://www.news.cn/politics/20250104/63d75c6a7bc64ca49afe630265f981c0/c.html
+    start: "新华社西宁1月4日电"
+    end: "副省长、代省长。"
+  - id: p02-xinhua-2022-03-29-ningxia-sec
+    title: 宁夏回族自治区党委主要负责同志职务调整 梁言顺任宁夏回族自治区党委书记
+    publisher: 新华社
+    date: 2022-03-29
+    voice: official
+    url: http://www.news.cn/politics/2022-03/29/c_1128513376.htm
+    start: "新华网银川3月29日电"
+    end: "因年龄原因不再担任区党委书记职务。"
+  - id: p02-xinhua-2024-06-28-ningxia-sec
+    title: 宁夏回族自治区党委主要负责同志职务调整 李邑飞任宁夏回族自治区党委书记
+    publisher: 新华网
+    date: 2024-06-28
+    voice: official
+    url: https://www.news.cn/politics/20240628/d391882d5e4c4473a6007236797654a2/c.html
+    start: "新华网银川6月28日电"
+    end: "是二十届中央委员。"
+  - id: p02-xinhua-2022-05-21-zhang-yupu-elected
+    title: 梁言顺当选宁夏回族自治区人大常委会主任 张雨浦当选宁夏回族自治区主席
+    publisher: 新华社
+    date: 2022-05-21
+    voice: official
+    url: http://www.news.cn/politics/2022-05/21/c_1128671607.htm
+    start: "新华社银川5月21日电"
+    end: "为宁夏回族自治区主席。"
+  - id: p02-xinhua-2022-01-27-erkin-elected
+    title: 艾尔肯·吐尼亚孜当选新疆维吾尔自治区人民政府主席
+    publisher: 新华社
+    date: 2022-01-27
+    voice: official
+    url: http://www.news.cn/politics/2022-01/27/c_1128307596.htm
+    start: "新华社乌鲁木齐1月27日电"
+    end: "监察委员会主任。"
+  - id: p02-xinhua-2025-01-23-luo-dongchuan-elected
+    title: 吴晓军当选青海省人大常委会主任 罗东川当选青海省省长
+    publisher: 新华社
+    date: 2025-01-23
+    voice: official
+    url: http://www.news.cn/20250123/0eaaa8cecb324b8a956e0096d1ce71d4/c.html
+    start: "新华社西宁1月23日电"
+    end: "选举罗东川为青海省人民政府省长。"
