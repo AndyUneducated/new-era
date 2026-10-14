@@ -1,0 +1,1017 @@
+# E07 events, 2000-2012 gap fill
+web:
+  # --- 2001 南丹矿难 ---
+  - id: e07-bbc-2001-08-07-nandan
+    title: 广西锡矿事故拘捕15人
+    publisher: BBC 中文
+    date: 2001-08-07
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_1470000/newsid_1477200/1477244.stm
+    excerpt: true
+    keep: [ 龙泉矿冶总厂总经理黎东明, 矿主黎东明利用矿上的保安, 事发在今年7月17日, 南丹的财政收入有70% ]
+  # --- 2002 蓝极速网吧火灾 ---
+  - id: e07-bbc-2002-06-16-lanjisu
+    title: 火灾后北京关闭所有网吧
+    publisher: BBC 中文
+    date: 2002-06-16
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_2040000/newsid_2047700/2047757.stm
+    excerpt: true
+    keep: [ 造成至少24人死亡, 新华社说，火灾发生在北京市海淀区, 发生火灾当时网吧的大门锁着, 这些无照经营的网吧 ]
+  - id: e07-cctv-2002-07-26-netbar-crackdown
+    title: 全国1.4万多“问题网吧”被依法查处
+    publisher: 新华社（央视网转载）
+    date: 2002-07-26
+    voice: official
+    url: https://news.cctv.com/news/society/20020726/302.html
+    start: 记者今天从公安部了解到
+    end: （记者王雷鸣）
+  # --- 2003 开县井喷 ---
+  - id: e07-bbc-2004-01-02-kaixian
+    title: “重庆井喷乃责任事故”
+    publisher: BBC 中文
+    date: 2004-01-02
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3360000/newsid_3364000/3364093.stm
+    excerpt: true
+    keep: [ 特大责任事故, 回压阀, 200多人丧生 ]
+  - id: e07-chinanews-2004-04-14-ma-fucai
+    title: 国资委官员就中石油12.23井喷特大事故处理答问
+    publisher: 中国新闻网
+    date: 2004-04-14
+    voice: official
+    url: http://www.chinanews.com.cn/n/2004-04-14/26/425529.html
+    excerpt: true
+    keep: [ 马富才同志负有主要领导责任 ]
+  # --- 2003 孙大午案 ---
+  - id: e07-cyol-2003-10-31-sun-dawu
+    title: 民营企业家孙大午被从轻发落
+    publisher: 中国青年报
+    date: 2003-10-31
+    voice: official
+    url: http://zqb.cyol.com/content/2003-10/31/content_760078.htm
+    excerpt: true
+    keep: [ 判处孙有期徒刑3年, 向社会公众变相吸收存款1627单, 有些知名经济学家曾公开为孙大午一案喊冤 ]
+  # --- 2004 汉源事件 ---
+  - id: e07-bbc-2004-11-07-hanyuan
+    title: 四川警民冲突后数百民众被捕
+    publisher: BBC 中文
+    date: 2004-11-07
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3980000/newsid_3989700/3989741.stm
+    excerpt: true
+    keep: [ 包围了四川省委第一书记张学忠, 搬迁补偿费非常不满, 至少需要移民10多万人, 数以千计的汉源民众 ]
+  - id: e07-bbc-2006-12-hanyuan-execution
+    title: 汉源事件被捕村民被秘密处决
+    publisher: BBC 中文
+    date: 2006-12-18
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6210000/newsid_6218000/6218026.stm
+    excerpt: true
+    keep: [ 陈滔已于11月底, 2005年6月一审判处陈滔死刑, 有一名武警被打死, 群体事件由58,000上升到74,000起 ]
+  # --- 2004 万州事件 ---
+  - id: e07-bbc-2004-12-review-2
+    title: 2004年中国大事回顾（二）
+    publisher: BBC 中文
+    date: 2004-12-30
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4110000/newsid_4117700/4117791.stm
+    excerpt: true
+    keep: [ 万州事件是由于当地警察 ]
+  # --- 2004 南都案 ---
+  - id: e07-bbc-2004-08-31-cheng-yizhong
+    title: 广州《南方都市报》敢言总编获释放
+    publisher: BBC 中文
+    date: 2004-08-31
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3610000/newsid_3613900/3613946.stm
+    excerpt: true
+    keep: [ 不起诉决定书, 喻华峰因经济罪在今年6月15日被判八年, 程益中任职《南方都市报》期间, 人们认为这些案件含有政治动机 ]
+  # --- 2005 定州绳油村 ---
+  - id: e07-bbc-2005-06-16-dingzhou
+    title: “官员村民协商河北定州袭击事件”
+    publisher: BBC 中文
+    date: 2005-06-16
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4090000/newsid_4098100/4098148.stm
+    excerpt: true
+    keep: [ 最后造成六人死亡, 200多名身穿迷彩服装的男子 ]
+  - id: e07-bbc-2005-07-21-dingzhou
+    title: 中国河北流血冲突案农民取回土地
+    publisher: BBC 中文
+    date: 2005-07-21
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4700000/newsid_4703100/4703131.stm
+    excerpt: true
+    keep: [ 电厂征用土地建贮灰场, 政府决定不再征用该村土地, 中国公安已经逮捕了31人 ]
+  # --- 2005 太石村 ---
+  - id: e07-bbc-2005-12-27-taishi
+    title: 广东太石村维权律师郭飞雄获释
+    publisher: BBC 中文
+    date: 2005-12-27
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4560000/newsid_4562800/4562882.stm
+    excerpt: true
+    keep: [ 被指协助村民示威的异议人士郭飞雄, 今年9月，广州市番禺区, 村民们指称村主任 ]
+  - id: e07-voa-2005-10-02-taishi
+    title: 广州太石村罢免村委会以失败告终
+    publisher: 美国之音
+    date: 2005-10-02
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2005-10-02-voa26-62922042/1034345.html
+    excerpt: true
+    keep: [ 有396名村民不再支持 ]
+  # --- 2009 石首 ---
+  - id: e07-bbc-2009-06-20-shishou
+    title: 中国湖北石首发生大规模警民冲突
+    publisher: BBC 中文
+    date: 2009-06-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8110000/newsid_8110800/8110896.stm
+    excerpt: true
+    keep: [ 大约四万名该市市民, 永隆大酒店23岁的男性厨师涂远高, 家属认为涂远高死因可疑, 众多不明真相的群众 ]
+  - id: e07-cctv-2009-06-25-shishou
+    title: 湖北石首群体事件续：法医鉴定死亡厨师系自杀
+    publisher: 荆楚网（央视网转载）
+    date: 2009-06-25
+    voice: official
+    url: http://news.cctv.com/china/20090625/102169.shtml
+    start: 荆楚网消息
+    end: 涂远高尸体已于6月25日火化。
+  # --- 2009 许宗衡 ---
+  - id: e07-chinanews-2009-06-08-xu-zongheng
+    title: 深圳市长许宗衡涉嫌严重违纪正在接受调查
+    publisher: 新华网（中新网转载）
+    date: 2009-06-08
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2009/06-08/1724551.shtml
+    start: 据中央纪委有关负责人证实
+    end: 目前正在接受组织调查。
+  - id: e07-chinanews-2011-05-09-xu-zongheng
+    title: 深圳市原市长许宗衡受贿3318万一审被判死缓
+    publisher: 中国新闻社
+    date: 2011-05-09
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2011/05-09/3026508.shtml
+    start: 中新社郑州5月9日电
+    end: 郑州市中级法院遂依法作出上述判决。
+  - id: e07-bbc-2009-06-08-xu-zongheng
+    title: 深圳市长被调查港称不影响合作
+    publisher: BBC 中文
+    date: 2009-06-08
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8080000/newsid_8089000/8089012.stm
+    excerpt: true
+    keep: [ 南华早报, 誓言做 ]
+  # --- 郴州窝案 ---
+  - id: e07-cctv-2009-08-14-chenzhou
+    title: 李大伦、曾锦春终审被驳回上诉维持死缓、死刑判决
+    publisher: 红网（央视网转载）
+    date: 2009-08-14
+    voice: official
+    url: https://news.cctv.com/china/20090814/106879.shtml
+    start: 2009年8月14日，湖南省高级人民法院
+    end: 宣判后，李大伦、陈立华、曾锦春不服，提出上诉。
+  - id: e07-moa-2009-09-chenzhou
+    title: 警钟长鸣（半月谈：郴州系列腐败案)
+    publisher: 半月谈（农业部驻部纪检组网站转载）
+    date: 2009-09-13
+    voice: official
+    url: http://www.jcj.moa.gov.cn/jzcm/200909/t20090913_1823418.htm
+    excerpt: true
+    keep: [ 在监狱里可以召开市委常委会了, 鞭炮声, 一年比一年薄 ]
+  # --- 2011 大连PX ---
+  - id: e07-bbc-2011-08-14-dalian
+    title: 民众示威迫使政府立刻关闭PX厂
+    publisher: BBC 中文
+    date: 2011-08-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/08/110814_dalian_demo_closure
+    excerpt: true
+    keep: [ 12000多名大连市民, 集体散步, 唐军曾到广场上 ]
+  - id: e07-bbc-2011-08-15-dalian
+    title: 报道称大连PX工厂仍照常运转
+    publisher: BBC 中文
+    date: 2011-08-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/08/110815_china_px_pollution
+    excerpt: true
+    keep: [ 不顾政府禁令, 防波堤被冲垮 ]
+  # --- 2004 铁本案 ---
+  - id: e07-gov-2004-tieben
+    title: 国务院办公厅关于江苏铁本钢铁有限公司违法违规建设钢铁项目调查处理情况的通报
+    publisher: 中国政府网（国务院公报2004年第20号）
+    date: 2004-05
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2004/content_62812.htm
+    start: 当前，国民经济形势总体上是好的
+    end: 二○○四年四月三十日
+  # --- 2004 审计风暴 ---
+  - id: e07-cctv-2004-06-24-audit
+    title: 一份触目惊心的审计“清单”
+    publisher: 新华社（央视网转载）
+    date: 2004-06-23
+    voice: official
+    url: http://news.cctv.cn/news/china/20040624/100074.shtml
+    start: 一年前的6月25日
+    end: 防范和化解金融风险。
+  - id: e07-bbc-2005-06-29-audit
+    title: 中国审计报告查出近百亿违规金额
+    publisher: BBC 中文
+    date: 2005-06-29
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4630000/newsid_4633300/4633365.stm
+    excerpt: true
+    keep: [ 审计风暴, 年度人物 ]
+  # --- 2004 阜阳奶粉 ---
+  - id: e07-chinanews-2004-05-16-fuyang
+    title: 阜阳劣质奶粉事件基本查清 12名婴儿因食用而死亡
+    publisher: 中国新闻网
+    date: 2004-05-16
+    voice: official
+    url: http://www.chinanews.com.cn/news/2004year/2004-05-16/26/436949.shtml
+    start: 中新网5月16日电
+    end: (据新华网)
+  - id: e07-bbc-2004-04-20-fuyang
+    title: 中国婴儿死于“伪劣奶粉”
+    publisher: BBC 中文
+    date: 2004-04-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3640000/newsid_3641900/3641903.stm
+    excerpt: true
+    keep: [ 大头娃娃, 较大的民工流出地 ]
+  # --- 2004 郎顾之争 ---
+  - id: e07-people-2014-05-04-langgu
+    title: 回望改革开放以来三次大争论（3）
+    publisher: 人民网党史频道
+    date: 2014-05-04
+    voice: history
+    url: http://dangshi.people.com.cn/n/2014/0504/c85037-24970971-3.html
+    excerpt: true
+    keep: [ 2004年8月9日，香港中文大学教授郎咸平, 顾雏军因涉嫌挪用上市公司资金罪 ]
+  # --- 2005 股权分置 ---
+  - id: e07-chinanews-2005-04-29-split-share
+    title: 证监会关于股权分置改革试点问题的通知（全文）
+    publisher: 新华社（中新网转载）
+    date: 2005-04-29
+    voice: doc
+    url: https://www.chinanews.com.cn/news/2005/2005-04-29/26/569170.shtml
+    start: 中新网4月29日电
+    end: 二○○五年四月二十九日
+  # --- 2005 宋楚瑜访大陆 ---
+  - id: e07-gwytb-2005-05-12-hu-soong
+    title: 中国共产党总书记胡锦涛与亲民党主席宋楚瑜会谈公报
+    publisher: 国务院台湾事务办公室（新华网）
+    date: 2005-05-12
+    voice: doc
+    url: https://www.gwytb.gov.cn/zt/hu/201101/t20110123_1723804.htm
+    start: 新华网北京５月１２日电
+    end: 两党愿为两岸同胞福祉和中华民族整体发展共同努力。（完）
+  - id: e07-bbc-2005-05-12-soong
+    title: 宋楚瑜与胡锦涛北京会面
+    publisher: BBC 中文
+    date: 2005-05-12
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4530000/newsid_4538700/4538763.stm
+    excerpt: true
+    keep: [ 胡锦涛在人民大会堂会见宋楚瑜, 亲民党三点基本立场 ]
+  # --- 2005 中海油优尼科 ---
+  - id: e07-chinanews-2005-08-03-cnooc
+    title: 中海油宣布已撤回其对美国优尼科公司的并购报价
+    publisher: 中国新闻社
+    date: 2005-08-03
+    voice: official
+    url: http://www.chinanews.com.cn/news/2005/2005-08-02/26/607201.shtml
+    start: 中新社北京八月三日电
+    end: (完)
+  - id: e07-bbc-2005-07-03-cnooc
+    title: 中海油要求美国政府审查并购优尼科
+    publisher: BBC 中文
+    date: 2005-07-03
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4640000/newsid_4647400/4647431.stm
+    excerpt: true
+    keep: [ 398票赞成, 其中最主要的政治原因是 ]
+  - id: e07-bbc-2005-08-02-cnooc
+    title: 中国海洋石油公司撤出美国投标
+    publisher: BBC 中文
+    date: 2005-08-02
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4730000/newsid_4739200/4739231.stm
+    excerpt: true
+    keep: [ 傅成玉表示, 董事会已经批准了雪佛龙公司的投标 ]
+  # --- 2006 上海社保案 ---
+  - id: e07-cctv-2006-08-11-zhu-junyi
+    title: 沪劳保局长祝均一涉嫌违规拆借社保金32亿被免职
+    publisher: 央视网
+    date: 2006-08-11
+    voice: official
+    url: http://news.cctv.cn/china/20060811/100116.shtml
+    excerpt: true
+    keep: [ 成为上海改革开放以来级别最高的出事官员, 韩正向上海市人大常委会通报称 ]
+  - id: e07-bbc-2007-03-02-pension-expelled
+    title: 上海社保案9名官员落马 被“双开”
+    publisher: BBC 中文
+    date: 2007-03-02
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6400000/newsid_6409700/6409799.stm
+    excerpt: true
+    keep: [ 这9名涉案中共党员是, 前国家统计局长邱晓华 ]
+  - id: e07-bbc-2007-09-24-zhu-junyi
+    title: 上海社保案 祝均一获刑18年
+    publisher: BBC 中文
+    date: 2007-09-24
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7000000/newsid_7009800/7009844.stm
+    excerpt: true
+    keep: [ 判有期徒刑18年, 法院认定祝均一受贿160万元, 共涉及27名嫌疑人 ]
+  # --- 2006 刘志华 ---
+  - id: e07-bbc-2006-06-11-liu-zhihua
+    title: 北京副市长刘志华被免职
+    publisher: BBC 中文
+    date: 2006-06-11
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_5070000/newsid_5070000/5070096.stm
+    excerpt: true
+    keep: [ 生活腐化堕落, 中央纪委、监察部决定对其立案审查, 同时主管北京奥运的建设工程, 刘志华是因为贪污问题而被双规的 ]
+  # --- 2006 陈光诚 ---
+  - id: e07-bbc-2006-08-24-chen-guangcheng
+    title: 失明的维权人士陈光诚被判刑4年多
+    publisher: BBC 中文
+    date: 2006-08-24
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_5280000/newsid_5282400/5282426.stm
+    excerpt: true
+    keep: [ 判处双目失明的法律活动人士陈光诚, 故意损坏财物、聚众扰乱交通秩序, 强迫妇女进行人工流产和绝育 ]
+  # --- 2006 朝核 ---
+  - id: e07-cyol-2006-10-10-dprk-test
+    title: 中国外交部就朝鲜实施核试验发表声明
+    publisher: 新华社（中国青年报）
+    date: 2006-10-09
+    voice: doc
+    url: http://zqb.cyol.com/content/2006-10/10/content_1532706.htm
+    start: 10月9日，朝鲜民主主义人民共和国
+    end: 中方将为此继续做出不懈的努力。
+  # --- 2006 工行上市 ---
+  - id: e07-bbc-2006-10-19-icbc
+    title: 工行上市创全球最大集资纪录
+    publisher: BBC 中文
+    date: 2006-10-19
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6060000/newsid_6065200/6065262.stm
+    excerpt: true
+    keep: [ 创下了全球最大的集资纪录, 工行也是第一家分别发行A股和H股 ]
+  - id: e07-xinhua-2006-10-27-icbc
+    title: 中国最大国有商业银行在香港和内地同步上市（新华网，新浪转载）
+    publisher: 新华社
+    date: 2006-10-27
+    voice: official
+    url: https://finance.sina.com.cn/roll/20061027/17341005429.shtml
+    excerpt: true
+    keep: [ 27日在香港和上海两地同步挂牌上市, 首次公开募股筹资约215亿美元, 尚未实行股份制改造 ]
+  # --- 2007 习近平赴沪 ---
+  - id: e07-chinanews-2007-03-24-xi-shanghai
+    title: 贺国强：中央认为习近平任上海市委书记是合适的
+    publisher: 中国新闻网
+    date: 2007-03-24
+    voice: official
+    url: https://www.chinanews.com.cn/gn/news/2007/03-24/899401.shtml
+    excerpt: true
+    keep: [ 贺国强在会上宣布中央关于习近平同志任中共上海市委书记的决定, 中央对上海这段时间的工作是满意的 ]
+  - id: e07-bbc-2007-03-24-xi-shanghai
+    title: 习近平调任上海市委书记
+    publisher: BBC 中文
+    date: 2007-03-24
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_6490000/newsid_6490800/6490897.stm
+    excerpt: true
+    keep: [ 新华社只用一句话报道了这一消息, 舆论认为，此次人事调动 ]
+  # --- 2007 太湖蓝藻 ---
+  - id: e07-bbc-2007-05-31-taihu
+    title: 太湖蓝藻成灾 无锡饮水吃紧
+    publisher: BBC 中文
+    date: 2007-05-31
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6700000/newsid_6706700/6706767.stm
+    excerpt: true
+    keep: [ 无锡市自来水水源从星期二开始受到污染, 无锡市民从星期二已经开始抢购瓶装水 ]
+  - id: e07-bbc-2007-10-taihu-cleanup
+    title: 中国斥资140亿美元治理太湖污染
+    publisher: BBC 中文
+    date: 2007-10-24
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7060000/newsid_7065100/7065105.stm
+    excerpt: true
+    keep: [ 无锡市被迫断水六天, 被誉为“太湖卫士”的江苏农民吴立红, 但今年八月吴立红 ]
+  - id: e07-cyol-2007-08-11-wu-lihong
+    title: 江苏农民吴立红被判刑3年
+    publisher: 新华社（中国青年报）
+    date: 2007-08-10
+    voice: official
+    url: http://zqb.cyol.com/content/2007-08/11/content_1856946.htm
+    excerpt: true
+    keep: [ 决定执行有期徒刑3年 ]
+  # --- 2007 人大决定2017普选 ---
+  - id: e07-bbc-2007-12-29-hk-2017
+    title: 全国人大：2017年香港可普选
+    publisher: BBC 中文
+    date: 2007-12-29
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7160000/newsid_7164100/7164148.stm
+    excerpt: true
+    keep: [ 2017年是实行普选的最早时间, 中国全国人大常委当天决定, 全国人大还决定，2012年香港不会实行双普选, 修改行政长官产生办法的法案 ]
+  # --- 2008 杨佳 ---
+  - id: e07-bbc-2008-11-26-yang-jia
+    title: 上海袭警案凶手杨佳被处决
+    publisher: BBC 中文
+    date: 2008-11-26
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7740000/newsid_7749400/7749470.stm
+    excerpt: true
+    keep: [ 造成6名警察死亡, 中国社会出现很多同情杨佳的声音, 在派出所遭警察殴打, 被带回派出所 ]
+  - id: e07-voa-2008-11-26-yang-jia
+    title: 杨佳案令民众对司法公正疑惑加重
+    publisher: 美国之音
+    date: 2008-11-26
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2008-11-26-voa46-58971967/1105325.html
+    excerpt: true
+    keep: [ 我不说杨佳是什么英雄 ]
+  # --- 2008 孟连 ---
+  - id: e07-bbc-2008-07-20-menglian
+    title: 云南孟连警民冲突两人被警察打死
+    publisher: BBC 中文
+    date: 2008-07-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7510000/newsid_7515800/7515894.stm
+    excerpt: true
+    keep: [ 造成两名村民死亡, 被迫使用防暴枪自卫”，造成多名村民受伤, 地方政府强迫胶农以低于市价40% ]
+  - id: e07-cyol-2008-07-24-menglian
+    title: 云南孟连警民冲突事件调查
+    publisher: 中国青年报
+    date: 2008-07-24
+    voice: official
+    url: http://zqb.cyol.com/content/2008-07/24/content_2277541.htm
+    excerpt: true
+    keep: [ 表面上看是警民冲突, 冲突中，41名民警和19名群众受伤 ]
+  - id: e07-people-2008-09-04-menglian
+    title: 云南严处孟连事件责任人 责令普洱政法书记辞职（人民网，凤凰网转载）
+    publisher: 人民网
+    date: 2008-09-04
+    voice: official
+    url: https://news.ifeng.com/mainland/200809/0904_17_765138.shtml
+    excerpt: true
+    keep: [ 给予胡文彬同志撤销党内职务处分, 给予谢丕坤同志责令辞职的问责 ]
+  # --- 2008 喀什 ---
+  - id: e07-xinhua-2008-08-04-kashgar
+    title: 新疆喀什市发生一起严重暴力袭警案件 16人死亡（新华社，凤凰网转载）
+    publisher: 新华社
+    date: 2008-08-04
+    voice: official
+    url: https://news.ifeng.com/mil/2/200808/0804_340_693880.shtml
+    excerpt: true
+    keep: [ 已造成16名干警死亡, 一名男子驾驶一辆自卸式货车从后面猛冲过来 ]
+  - id: e07-chinanews-2008-08-05-kashgar
+    title: 新疆警方将召开新闻发布会通报喀什暴力袭击案
+    publisher: 中国新闻网
+    date: 2008-08-05
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2008/08-05/1336289.shtml
+    start: 新疆警方今日通报说
+    end: 部分宣扬“圣战”内容的宣传品。
+  - id: e07-chinaorg-2008-08-06-kashgar
+    title: E. Turkistan group 'behind' terror attack
+    publisher: China.org.cn
+    date: 2008-08-06
+    voice: official
+    lang: en
+    url: http://www.china.org.cn/government/focus_news/2008-08/06/content_16142375.htm
+    excerpt: true
+    keep: [ No sufficient evidence has been found, was a terrorist attack ]
+  # --- 2008 襄汾溃坝 ---
+  - id: e07-xinhua-2008-09-14-xiangfen
+    title: 党中央国务院对山西“9·8”特别重大尾矿库溃坝事故负有领导责任人员作出严肃处理
+    publisher: 新华社（经济日报）
+    date: 2008-09-14
+    voice: official
+    url: http://paper.ce.cn/jjrb/html/2008-09/15/content_29641.htm
+    start: 新华社北京9月14日电
+    end: 当地政府及有关部门监督管理不得力。
+  # --- 2008 陈云林访台 ---
+  - id: e07-bbc-2008-11-04-chen-jiang
+    title: “陈江会谈”在台湾正式举行
+    publisher: BBC 中文
+    date: 2008-11-04
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7700000/newsid_7707500/7707538.stm
+    excerpt: true
+    keep: [ 台北圆山饭店正式举行, 四项协议, 陈云林是自1949年以来到访台湾的最高级大陆官员 ]
+  - id: e07-bbc-2008-11-06-ma-chen
+    title: 马英九和陈云林进行短暂历史性会晤
+    publisher: BBC 中文
+    date: 2008-11-06
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7710000/newsid_7712300/7712362.stm
+    excerpt: true
+    keep: [ 突然提前五个小时进行会晤, 遭到群众的包围而受困酒店 ]
+  - id: e07-wiki-wild-strawberry
+    title: 野草莓运动（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/野草莓运动
+    excerpt: true
+    keep: [ 野草莓运动或称野草莓学运 ]
+  # --- 2008 陈水扁收押 ---
+  - id: e07-bbc-2008-11-12-chen-detained
+    title: 法院裁定羁押禁见 陈水扁进看守所
+    publisher: BBC 中文
+    date: 2008-11-12
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7720000/newsid_7723700/7723718.stm
+    excerpt: true
+    keep: [ 裁定羁押禁见，且被移送台北看守所关押, 第一位遭到收押的卸任总统, 已认定陈水扁涉嫌 ]
+  - id: e07-bbc-2008-11-11-chen-arrest
+    title: 台前总统陈水扁遭到声请收押
+    publisher: BBC 中文
+    date: 2008-11-11
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7720000/newsid_7721900/7721987.stm
+    excerpt: true
+    keep: [ 陈水扁指控执政的国民党政治迫害, 高举戴上手铐的双手 ]
+  # --- 2008 胡六点 ---
+  - id: e07-chinanews-2008-12-31-hu-six
+    title: 胡锦涛提出进一步发展两岸关系六点意见
+    publisher: 中国新闻网
+    date: 2008-12-31
+    voice: official
+    url: http://www.chinanews.com.cn/tw/kong/news/2008/12-31/1510294.shtml
+    excerpt: true
+    keep: [ 纪念《告台湾同胞书》发表30周年座谈会31日上午, 进一步发展两岸关系的六点意见 ]
+  - id: e07-xinhua-2008-12-31-hu-speech
+    title: 携手推动两岸关系和平发展 同心实现中华民族伟大复兴——在纪念《告台湾同胞书》发表30周年座谈会上的讲话
+    publisher: 新华网（中国台湾网）
+    date: 2008-12-31
+    voice: doc
+    url: https://lib.taiwan.cn/2008doc/201109/t20110921_2074155.htm
+    excerpt: true
+    keep: [ 两岸可以就在国家尚未统一的特殊情况下的政治关系展开务实探讨, 探讨建立军事安全互信机制问题 ]
+  # --- 2008 黄松有 ---
+  - id: e07-chinadaily-2010-01-19-huang-songyou
+    title: 最高人民法院原副院长黄松有一审被判处无期徒刑
+    publisher: 中国日报网
+    date: 2010-01-19
+    voice: official
+    url: https://web.archive.org/web/2015/http://www.chinadaily.com.cn/dfpd/2010-01/19/content_9343356.htm
+    start: 中国日报网消息
+    end: 廊坊市中级人民法院遂依法作出上述判决。
+  # --- 2008 重庆出租车罢运 ---
+  - id: e07-eeo-2008-11-10-chongqing-taxi
+    title: 薄熙来：“份儿钱”确实多了
+    publisher: 经济观察网
+    date: 2008-11-10
+    voice: zh
+    url: http://www.eeo.com.cn/eobserve/Politics/new_policy/2008/11/10/119818.shtml
+    excerpt: true
+    keep: [ 11月3日，重庆市主城区发生出租车罢运事件, 政府首先要检讨我们的工作, 重庆出租车“份儿钱”确实是不合理的 ]
+  # --- 党史大事记 2003 / 2008 ---
+  - id: e07-cpc-dsj-2003
+    title: 中国共产党大事记·2003年（新浪转载）
+    publisher: 中国共产党新闻网（人民网）
+    voice: history
+    url: https://news.sina.com.cn/c/2006-06-26/135810256593.shtml
+    excerpt: true
+    keep: [ 中国共产党第十六届中央委员会第二次全体会议，于2003年2月24日至26日在北京举行, 建议国务院根据这个意见形成《国务院机构改革方案》, 中国共产党第十六届中央委员会第三次全体会议，于2003年10月11日至14日, 全会听取和讨论了胡锦涛受中央政治局委托作的工作报告，审议通过了《中共中央关于完善社会主义市场经济体制若, 审议通过了《中共中央关于修改宪法部分内容的建议》 ]
+  - id: e07-cpc-dsj-2008
+    title: 中国共产党大事记·2008年
+    publisher: 中国共产党新闻网（人民网）
+    voice: history
+    url: http://cpc.people.com.cn/GB/64162/64164/8701770.html
+    excerpt: true
+    keep: [ 十七届二中全会, 十七届三中全会, 国务院机构改革方案 ]
+  # --- 2009 邓玉娇 ---
+  - id: e07-voa-2009-06-16-deng-yujiao
+    title: 邓玉娇刺官案一审判决有罪免刑罚
+    publisher: 美国之音
+    date: 2009-06-16
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2009-06-16-voa54-61274032/1020457.html
+    excerpt: true
+    keep: [ 将她当庭释放, 属于防卫过当，邓玉娇故意伤害致人死亡, 邓玉娇免于刑事处罚 ]
+  - id: e07-people-2009-06-16-deng-yujiao
+    title: 邓玉娇刺死官员案一审被判免除处罚当庭释放（人民网，央视网转载）
+    publisher: 人民网
+    date: 2009-06-16
+    voice: official
+    url: http://news.cctv.cn/china/20090616/106586.shtml
+    excerpt: true
+    keep: [ 法院宣判：邓玉娇的行为构成故意伤害罪 ]
+  # --- 2009 通钢 ---
+  - id: e07-xinhua-2009-07-31-tonghua
+    title: 吉林警方成立专案组侦查通钢事件中陈国君被打死案（新华网，央视网转载）
+    publisher: 新华社
+    date: 2009-07-31
+    voice: official
+    url: http://news.cctv.cn/china/20090731/111039.shtml
+    excerpt: true
+    keep: [ 以前皆写作“陈国军”, 反对河北建龙集团对通钢集团进行增资扩股 ]
+  - id: e07-bbc-2009-07-27-tonghua
+    title: 建龙钢铁取消收购吉林通钢计划
+    publisher: BBC 中文
+    date: 2009-07-27
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8170000/newsid_8170000/8170072.stm
+    excerpt: true
+    keep: [ 建龙集团将永不参与通钢集团重组, 通钢事件反映出中国国企工人民怨之多 ]
+  # --- 2009 十七届四中 ---
+  - id: e07-cctv-2009-09-18-4th-plenum
+    title: 中国共产党第十七届中央委员会第四次全体会议公报
+    publisher: 新华社（央视网）
+    date: 2009-09-18
+    voice: doc
+    url: http://news.cctv.com/china/20090918/104816.shtml
+    excerpt: true
+    keep: [ 审议通过了《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》, 党内也存在不少不适应新形势新任务要求 ]
+  - id: e07-bbc-2009-09-18-4th-plenum
+    title: 中共十七届四中全会结束
+    publisher: BBC 中文
+    date: 2009-09-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2009/09/090918_ccp_conference
+    excerpt: true
+    keep: [ 官方媒体并未公布习近平担任中共中央军委副主席的消息 ]
+  # --- 2009 乌鲁木齐针刺 ---
+  - id: e07-bbc-2009-09-06-li-zhi
+    title: 乌鲁木齐市委书记栗智被免职
+    publisher: BBC 中文
+    date: 2009-09-06
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8230000/newsid_8239600/8239603.stm
+    excerpt: true
+    keep: [ 乌鲁木齐市委书记栗智已被免职, 严重的恐怖犯罪行为 ]
+  - id: e07-voa-2009-09-05-li-zhi
+    title: 中共乌鲁木齐市委书记栗智被免职
+    publisher: 美国之音
+    date: 2009-09-05
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-2009-09-05-voa26-60904137/1015907.html
+    excerpt: true
+    keep: [ 有五人在星期四的暴力抗议事件中死亡 ]
+  # --- 2009 钓鱼执法 ---
+  - id: e07-bbc-2009-10-26-fishing
+    title: 上海承认“钓鱼执法”并道歉
+    publisher: BBC 中文
+    date: 2009-10-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2009/10/091026_shanghai_phishing
+    excerpt: true
+    keep: [ 使用了“不正当取证手段”, 误导了公众和舆论 ]
+  # --- 2009 唐福珍 ---
+  - id: e07-chinanews-2009-12-02-tang-fuzhen
+    title: 成都拆迁户与城管对峙3小时后自焚身亡（中国新闻网，华商网转载）
+    publisher: 中国新闻网
+    date: 2009-12-02
+    voice: official
+    url: https://news.hsw.cn/system/2009/12/02/050377492.shtml
+    excerpt: true
+    keep: [ 唐福珍情绪失控 ]
+  - id: e07-xjb-2009-12-08-five-scholars
+    title: 北大5位学者建言人大审查拆迁条例 称与宪法抵触（新京报）
+    publisher: 新京报（中国台湾网转载）
+    date: 2009-12-08
+    voice: official
+    url: https://www.taiwan.cn/xwzx/jrbd/200912/t20091208_1166474.htm
+    excerpt: true
+    keep: [ 北大法学院五名学者通过特快专递的形式, 存在抵触 ]
+  # --- 2009 哥本哈根 ---
+  - id: e07-bbc-2009-12-21-copenhagen
+    title: 英国指责中国“挟持”气候峰会
+    publisher: BBC 中文
+    date: 2009-12-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/uk/2009/12/091221_uk_china_climate
+    excerpt: true
+    keep: [ 米利班德还指责中国阻挠会议通过, 中国外长杨洁篪说 ]
+  - id: e07-bbc-2009-12-22-copenhagen
+    title: 中国否认“挟持”气候峰会指责
+    publisher: BBC 中文
+    date: 2009-12-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2009/12/091222_china_uk_climate
+    excerpt: true
+    keep: [ 具有明显的政治图谋 ]
+  # --- 2010 共同社论 ---
+  - id: e07-bbc-2010-03-10-hukou-editorial
+    title: “共同社论”为何遭封杀
+    publisher: BBC 中文
+    date: 2010-03-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/03/100310_china_media
+    excerpt: true
+    keep: [ 题为《提请两会代表委员敦促加快户籍改革》, 前副总编辑张宏被解雇, 当局认为这种表达意见的形式超出了他们的控制 ]
+  # --- 2010 玉树 ---
+  - id: e07-embassy-2010-05-31-yushu
+    title: 玉树地震确认最终遇难人数2698人 失踪270人
+    publisher: 中国驻德国大使馆
+    date: 2010-05-31
+    voice: official
+    url: https://de.china-embassy.gov.cn/zytz/201005/t20100531_2825638.htm
+    excerpt: true
+    keep: [ 玉树地震已造成2698人遇难 ]
+  # --- 2010 新疆工作座谈会 ---
+  - id: e07-xinhua-2010-05-20-xinjiang-forum
+    title: 中共中央、国务院召开新疆工作座谈会（新华社，经济参考报）
+    publisher: 新华社
+    date: 2010-05-20
+    voice: official
+    url: http://jjckb.xinhuanet.com/gnyw/2010-05/21/content_222339.htm
+    excerpt: true
+    keep: [ 到2015年新疆人均地区生产总值达到全国平均水平, 将原油、天然气资源税由从量计征改为从价计征 ]
+  - id: e07-cnr-2010-06-23-aid-xinjiang
+    title: 对口支援 开启新一轮援疆
+    publisher: 中央人民广播电台
+    date: 2010-06-23
+    voice: official
+    url: https://www.cnr.cn/2010zhuanti/kyfzkxj/gdyjzcxhh/201006/t20100623_506623536.html
+    excerpt: true
+    keep: [ 19个省市承担对口支援新疆的任务 ]
+  # --- 2010 富士康 ---
+  - id: e07-bbc-2010-05-27-foxconn
+    title: 分析：富士康深圳员工自杀和生命尊严
+    publisher: BBC 中文
+    date: 2010-05-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/indepth/2010/05/100527_analysis_foxconn
+    excerpt: true
+    keep: [ 深圳富士康公司半年多内已有13人自杀, 他将其归咎于现在大陆年轻人心理承受能力不够, 富士康工会主席就是大老板郭台铭的秘书 ]
+  - id: e07-bbc-2010-06-02-foxconn
+    title: 富士康宣布员工加薪三成
+    publisher: BBC 中文
+    date: 2010-06-02
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/06/100602_china_taiwan_foxconn_wage
+    excerpt: true
+    keep: [ 将为富士康在中国的员工加薪30%, 富士康已发生12起员工自杀事件 ]
+  # --- 2010 南海本田 ---
+  - id: e07-bbc-2010-05-28-honda
+    title: 佛山本田员工：公司谈判没有诚意
+    publisher: BBC 中文
+    date: 2010-05-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/05/100528_china_honda_complain
+    excerpt: true
+    keep: [ 要求加薪800元，和重新选举工会主席, 中国工人投诉他们的工资只有约1500元人民币 ]
+  - id: e07-wenweipo-2010-06-06-honda
+    title: 資方允加薪34% 粵本田工潮平息
+    publisher: 香港文汇报
+    date: 2010-06-06
+    voice: zh
+    url: http://paper.wenweipo.com/2010/06/06/CH1006060018.htm
+    excerpt: true
+    keep: [ 提高34% ]
+  # --- 2010 香港政改 ---
+  - id: e07-bbc-2010-06-25-hk-reform
+    title: 香港立法會通過下屆立法會產生辦法
+    publisher: BBC 中文
+    date: 2010-06-25
+    voice: zh
+    url: https://web.archive.org/web/20100628093830/http://www.bbc.co.uk/zhongwen/trad/china/2010/06/100625_hongkong_legco.shtml
+    excerpt: true
+    keep: [ 46人投票支持決議案, 民主黨提出的改良方案建議, 困擾了香港政界多年的政改方案終於獲得通過 ]
+  - id: e07-hkgov-2010-06-21-tsang
+    title: 風雨同舟推動民主（曾荫权）
+    publisher: 香港特区政府新闻网
+    date: 2010-06-21
+    voice: official
+    url: https://www.news.gov.hk/isd/ebulletin/tc/category/ontherecord/100621/html/100621tc11004.htm
+    excerpt: true
+    keep: [ 民主黨提出的「1人兩票」模式 ]
+  # --- 2010 河内东盟论坛 ---
+  - id: e07-bbc-2010-07-25-yang-hanoi
+    title: 中国警告美国勿将南海问题国际化
+    publisher: BBC 中文
+    date: 2010-07-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/07/100725_south_chinasea_yang
+    excerpt: true
+    keep: [ 警告美国不要把南海问题多边化与国际化, 关系到美国的国家利益 ]
+  - id: e07-mfa-2010-07-25-yang-hanoi
+    title: 杨洁篪外长驳斥南海问题上的歪论
+    publisher: 外交部（驻毛里求斯使馆网站）
+    date: 2010-07-25
+    voice: official
+    url: https://mu.china-embassy.gov.cn/chn/zgxw/201007/t20100725_6353386.htm
+    excerpt: true
+    keep: [ 这种貌似公允的讲话实际上是在攻击中国 ]
+  # --- 2010 宜黄 ---
+  - id: e07-xinhua-2010-09-18-yihuang
+    title: 宜黄“9·10”拆迁自焚事件8人受处理 县长书记被立案调查
+    publisher: 新华社
+    date: 2010-09-18
+    voice: official
+    url: https://web.archive.org/web/20100921052000/http://news.xinhuanet.com/politics/2010-09/18/c_12583472.htm
+    excerpt: true
+    keep: [ 县长苏建国被立案调查, 因抢救无效死亡, 因拆迁引发的自焚事件 ]
+  - id: e07-chinanews-2010-10-10-yihuang
+    title: 江西宜黄县委书记邱建国因拆迁自焚事件被免职
+    publisher: 中国新闻网
+    date: 2010-10-10
+    voice: official
+    url: http://www.chinanews.com.cn/gn/2010/10-10/2576536.shtml
+    start: 中新网南昌10月10日电
+    end: 需按有关法律规定办理。
+  - id: e07-dzwww-2011-12-06-yihuang
+    title: 宜黄被免职官员复出 拷问干部责任追究机制
+    publisher: 大众网
+    date: 2011-12-06
+    voice: official
+    url: http://news.dzwww.com/guoneixinwen/201112/t20111206_6803008.htm
+    excerpt: true
+    keep: [ 两位官员近日复出, 时任县委书记邱建国率队在机场拦截 ]
+  # --- 2010 胶州路 ---
+  - id: e07-ce-2011-06-10-jiaozhou
+    title: 上海“11·15”特别重大火灾事故处理决定公布（新华社，经济日报）
+    publisher: 新华社（经济日报）
+    date: 2011-06-09
+    voice: official
+    url: http://paper.ce.cn/jjrb/html/2011-06/10/content_154250.htm
+    excerpt: true
+    keep: [ 造成58人死亡，71人受伤, 一是建设单位、投标企业、招标代理机构相互串通, 对54名事故责任人作出严肃处理 ]
+  # --- 2010 钱云会 ---
+  - id: e07-bbc-2011-02-01-qian-yunhui
+    title: 钱云会案肇事司机被判刑
+    publisher: BBC 中文
+    date: 2011-02-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2011/02/110201_qianyunhui_court
+    excerpt: true
+    keep: [ 有期徒刑3年半, 抗议土地被强征用于修建电厂, 法庭的判决仍难以消除人们的疑问 ]
+  - id: e07-chinanews-2010-12-30-qian-yunhui
+    title: 浙江乐清村主任之死：目击者称传言不实 猜测系谋杀
+    publisher: 中国新闻网（法制日报）
+    date: 2010-12-30
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2010/12-30/2756407.shtml
+    excerpt: true
+    keep: [ 认定为交通肇事案件 ]
+  # --- 2011 利比亚撤侨 ---
+  - id: e07-chinanews-2011-03-07-libya
+    title: 撤离在利同胞行动展示大国责任 获誉“最佳形象片”
+    publisher: 中国新闻网（北京日报）
+    date: 2011-03-07
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2011/03-07/2887729.shtml
+    excerpt: true
+    keep: [ 91架次民航包机、12架次军机、5艘货轮、1艘军舰, 这是新中国历史上最大规模的、有组织的撤离海外中国公民行动 ]
+  # --- 2011 增城 ---
+  - id: e07-bbc-2011-06-13-zengcheng
+    title: 骚乱过后中国军警进驻广州新塘
+    publisher: BBC 中文
+    date: 2011-06-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/06/110613_china_guangzhou_riot
+    excerpt: true
+    keep: [ 连续三晚发生骚乱后, 地方治安队长期对商户小贩勒索保护费, 至少25人被捕, 个别群众与治保人员纠纷引发的聚众滋事事件 ]
+  # --- 2011 赖昌星 ---
+  - id: e07-xinhua-2011-07-23-lai
+    title: 赖昌星被遣返表明中加维护法律尊严的态度和决心
+    publisher: 新华网
+    date: 2011-07-23
+    voice: official
+    url: https://web.archive.org/web/20170101003219/http://news.xinhuanet.com/legal/2011-07/23/c_121711402_2.htm
+    excerpt: true
+    keep: [ 被加拿大有关部门遣返回国, 依法向赖昌星宣布了逮捕令, 赖昌星畏罪自香港潜逃加拿大 ]
+  - id: e07-gov-2007-03-13-lai-no-death
+    title: 最高法：承诺不判处死刑是缉捕赖昌星的必要条件
+    publisher: 新华社（中国政府网）
+    date: 2007-03-13
+    voice: official
+    url: https://web.archive.org/web/2015/http://www.gov.cn/2007lh/content_550210.htm
+    excerpt: true
+    keep: [ 是国际合作途径缉捕赖昌星的必要条件 ]
+  # --- 2011 湄公河 ---
+  - id: e07-gov-2011-10-29-mekong
+    title: 九名泰国军人因涉嫌中国船员遇害案正在接受调查
+    publisher: 新华社（中国政府网）
+    date: 2011-10-28
+    voice: official
+    url: https://web.archive.org/web/2015/http://www.gov.cn/jrzg/2011-10/29/content_1981080.htm
+    excerpt: true
+    keep: [ 泰国陆军第三军区, 两艘货船在湄公河金三角水域遭不明身份武装人员袭击 ]
+  - id: e07-bbc-2011-10-29-mekong
+    title: 湄公河惨案真相仍“疑云重重”
+    publisher: BBC 中文
+    date: 2011-10-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/10/111029_china_mekong_doubts
+    excerpt: true
+    keep: [ 据不承认犯下谋杀和毁坏物证的指控, 9名泰国军人的归案并未使得惨案的真相大白于天下 ]
+  - id: e07-cyol-2013-03-02-naw-kham
+    title: 湄公河案四名罪犯被依法执行死刑
+    publisher: 中国青年报
+    date: 2013-03-01
+    voice: official
+    url: https://zqb.cyol.com/html/2013-03/02/nw.D110000zgqnb_20130302_3-02.htm
+    excerpt: true
+    keep: [ 依法对糯康、桑康·乍萨、依莱、扎西卡四名湄公河案罪犯执行了死刑 ]
+  # --- 2011 十七届六中 ---
+  - id: e07-cppcc-2011-10-18-6th-plenum
+    title: 中国共产党第十七届中央委员会第六次全体会议公报
+    publisher: 新华社（人民政协网）
+    date: 2011-10-18
+    voice: doc
+    url: http://www.cppcc.gov.cn/2011/10/20/ARTI1319079088234716.shtml
+    excerpt: true
+    keep: [ 审议通过了《中共中央关于深化文化体制改革、推动社会主义文化大发展大繁荣若干重大问题的决定》, 努力建设社会主义文化强国 ]
+  # --- 2012 吴英 ---
+  - id: e07-court-2012-04-20-wu-ying
+    title: 最高人民法院未核准吴英死刑
+    publisher: 最高人民法院
+    date: 2012-04-20
+    voice: doc
+    url: https://www.court.gov.cn/zixun/xiangqing/3911.html
+    excerpt: true
+    keep: [ 依法裁定不核准吴英死刑, 对吴英判处死刑，可不立即执行 ]
+  - id: e07-xinhua-2012-03-14-wen-wu-ying
+    title: 温家宝：民间金融与经济社会发展需求不适应
+    publisher: 新华社（中国金融信息网）
+    date: 2012-03-14
+    voice: official
+    url: https://www.cnfin.com/news-xh08/a/20120314/921422.shtml
+    excerpt: true
+    keep: [ 这件事情反映了民间金融的发展与我们经济社会发展的需求还不适应, 将温州的民间金融作为综合改革的试点之一 ]
+  # --- 2012 北京7·21暴雨 ---
+  - id: e07-chinanews-2012-08-06-beijing-rain
+    title: 北京“7.21”特大暴雨遇难者人数升至79人
+    publisher: 中国新闻网
+    date: 2012-08-06
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2012/08-06/4085857.shtml
+    excerpt: true
+    keep: [ 遇难者总人数升至79名, 其中66名遇难者身份已确认 ]
+  - id: e07-bbc-2012-07-26-beijing-rain
+    title: 中国媒体网民关注北京暴雨伤亡人数
+    publisher: BBC 中文
+    date: 2012-07-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120726_china_beijing_rain_criticism
+    excerpt: true
+    keep: [ 拒绝公布新的伤亡数字, 官方7月22日通报的死亡人数仍为37人, 死亡已经超过300人 ]
+  # --- 2012 唐慧 ---
+  - id: e07-people-2012-08-10-tang-hui
+    title: 唐慧的劳动教养决定经复议被依法撤销
+    publisher: 人民网（海外网）
+    date: 2012-08-10
+    voice: official
+    url: http://www.haiwainet.cn/n/2012/0810/c233162-17346101.html
+    excerpt: true
+    keep: [ 决定对其劳动教养一年六个月, 决定撤销永州市劳动教养管理委员会对唐慧的劳教决定 ]
+  - id: e07-bbc-2012-08-10-tang-hui
+    title: 湖南上访母亲唐慧被撤消劳教
+    publisher: BBC 中文
+    date: 2012-08-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/08/120810_china_hunan
+    excerpt: true
+    keep: [ 几乎都是一边倒的批评, 已成立调查组赴永州调查此案办理情况 ]
+  # --- 2012 莫言 ---
+  - id: e07-gov-2012-10-12-mo-yan
+    title: 外交部发言人就莫言获2012年诺贝尔文学奖等答问
+    publisher: 外交部（中国政府网）
+    date: 2012-10-12
+    voice: official
+    url: https://web.archive.org/web/2015/http://www.gov.cn/xwfb/2012-10/12/content_2242294.htm
+    excerpt: true
+    keep: [ 他的文学造诣有目共睹, 我们理所当然坚决反对 ]
+  - id: e07-xinhua-2012-10-12-li-changchun
+    title: 李长春致信中国作家协会祝贺莫言获诺贝尔文学奖
+    publisher: 新华社（央视网）
+    date: 2012-10-12
+    voice: official
+    url: http://news.cntv.cn/china/20121013/100372.shtml
+    excerpt: true
+    keep: [ 也是我国综合国力和国际影响力不断提升的体现 ]
+  - id: e07-bbc-2012-10-12-mo-yan-hk
+    title: 港媒分析莫言获奖文学与政治争议
+    publisher: BBC 中文
+    date: 2012-10-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/10/121012_hongkong_media_mo_yan
+    excerpt: true
+    keep: [ 对压抑创作自由负有重大责任, 际遇有天壤之别 ]
+  # --- 2012 宁波PX ---
+  - id: e07-cnnb-2012-10-28-ningbo
+    title: 宁波坚决不上PX项目
+    publisher: 中国宁波网
+    date: 2012-10-28
+    voice: official
+    url: https://web.archive.org/web/20121102024503/http://news.cnnb.com.cn/system/2012/10/28/007507423.shtml
+    excerpt: true
+    keep: [ 坚决不上PX项目 ]
+  - id: e07-bbc-2012-10-27-ningbo
+    title: 宁波镇海抗议继续 警民发生冲突
+    publisher: BBC 中文
+    date: 2012-10-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/10/121027_ningbo_protest
+    excerpt: true
+    keep: [ 有示威者高喊要求刘奇（宁波市长）辞职的口号, 大约有300多名警察在现场 ]

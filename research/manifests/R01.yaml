@@ -1,0 +1,596 @@
+# R01 传闻专项：北戴河会议、健康传闻、政变与权斗传闻、家族财富
+web:
+  # ---- 北戴河 ----
+  - id: r01-voa-2003-08-15-beidaihe
+    title: '取消北戴河办公不必小题大作'
+    publisher: 美国之音
+    date: 2003-08-15
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-a-2003-08-15-9-1-63300212/982021.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-epoch-2003-08-06-beidaihe
+    title: '中共取消北戴河暑期办公惯例赢得好评'
+    publisher: 大纪元
+    date: 2003-08-06
+    voice: zh
+    url: https://www.epochtimes.com/gb/3/8/6/n354306.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-epoch-2007-08-10-zhengming
+    title: '港媒﹕江泽民北戴河挨骂记'
+    publisher: 大纪元
+    date: 2007-08-10
+    voice: zh
+    url: https://www.epochtimes.com/gb/7/8/10/n1797326.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-epoch-2007-08-17-dongxiang
+    title: '17大前人事激戰 ：北戴河、西山疑雲'
+    publisher: 大纪元
+    date: 2007-08-17
+    voice: zh
+    url: https://www.epochtimes.com/b5/7/8/17/n1804391.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-rfa-2011-08-10-lin-baohua
+    title: '死去活来的北戴河会议（林保华）'
+    publisher: 自由亚洲电台
+    author: 林保华
+    date: 2011-08-10
+    voice: zh
+    url: https://www.rfa.org/mandarin/pinglun/linbaohua/lbh-08102011090448.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-bbc-2012-08-05-beidaihe
+    title: '英媒：中共北戴河开会敲定接班人选'
+    publisher: BBC 中文
+    date: 2012-08-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_analysis/2012/08/120805_china_party_meeting
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-bbc-2012-08-07-jp-beidaihe
+    title: '日媒披露北戴河会议权力斗争内幕'
+    publisher: BBC 中文
+    date: 2012-08-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world/2012/08/120807_jp_beidaihe_meeting
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-ntdtv-2012-08-26-beidaihe
+    title: '日媒：北戴河团派战胜江系 薄熙来将被刑事处罚'
+    publisher: 新唐人
+    date: 2012-08-26
+    voice: zh
+    url: https://www.ntdtv.com/gb/2012/08/26/a754025.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-bbc-2013-08-30-zhou
+    title: '中石油免职四干部“中央动手查周永康”'
+    publisher: BBC 中文
+    date: 2013-08-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/08/130830_cnpc_zhou_yongkang
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-ntdtv-2013-08-30-zhou
+    title: '港媒：习近平亲自下令“彻查周永康”'
+    publisher: 新唐人
+    date: 2013-08-30
+    voice: zh
+    url: https://www.ntdtv.com/gb/2013/08/30/a958645.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-rfi-2014-07-31-beidaihe
+    title: '习近平北戴河会议前办周永康是要排除元老干扰'
+    publisher: 法国国际广播电台
+    date: 2014-07-31
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20140731-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8C%97%E6%88%B4%E6%B2%B3%E4%BC%9A%E8%AE%AE%E5%89%8D%E5%8A%9E%E5%91%A8%E6%B0%B8%E5%BA%B7%E6%98%AF%E8%A6%81%E6%8E%92%E9%99%A4%E5%85%83%E8%80%81%E5%B9%B2%E6%89%B0
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-voa-2014-08-11-beidaihe
+    title: '中共北戴河会议将如何决定中国的走向？'
+    publisher: 美国之音
+    date: 2014-08-11
+    voice: zh
+    url: https://www.voachinese.com/a/cpc-policy-summit-20140811/2409863.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-nytcn-2015-08-07-beidaihe
+    title: '今年的北戴河会议谈什么？'
+    publisher: 纽约时报中文网
+    date: 2015-08-07
+    voice: zh
+    url: https://cn.nytimes.com/china/20150807/c07sino-beidaihe/
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-people-2015-08-10-renzou
+    title: '人民日报思想纵横：辩证看待“人走茶凉”'
+    publisher: 人民日报
+    date: 2015-08-10
+    voice: official
+    url: http://opinion.people.com.cn/n/2015/0810/c1003-27434178.html
+    excerpt: true
+    keep: [人走茶凉]
+  - id: r01-voa-2015-08-14-renzou
+    title: '焦点对话：官媒影射江泽民，习近平誓绝老人干政？'
+    publisher: 美国之音
+    date: 2015-08-14
+    voice: zh
+    url: https://www.voachinese.com/a/VOAWeishi-ProandCon-20150814-peoples-daily-criticizing-the-clout-of-retired-officials/2917911.html
+    excerpt: true
+    keep: [人走茶凉]
+  - id: r01-epoch-2015-08-12-beidaihe
+    title: '分析：北戴河出现了不好控制的系列情况'
+    publisher: 大纪元
+    date: 2015-08-12
+    voice: zh
+    url: https://www.epochtimes.com/gb/15/8/12/n4502032.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-zaobao-2016-08-10-beidaihe
+    title: '分析人士：北戴河商议十九大人事只是初步“酝酿”'
+    publisher: 联合早报
+    date: 2016-08-10
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20160810-652170
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-ntdtv-2016-08-04-beidaihe
+    title: '港媒：北戴河“小会办大事” 必涉19大人事'
+    publisher: 新唐人
+    date: 2016-08-03
+    voice: zh
+    url: https://www.ntdtv.com/gb/2016/08/04/a1279311.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-voa-2017-08-09-wu-guoguang
+    title: '习近平北戴河会议遭遇什么挑战？'
+    publisher: 美国之音
+    author: 吴国光
+    date: 2017-08-09
+    voice: zh
+    url: https://www.voachinese.com/a/wu-guoguang-bei-daihe-20170809/3979082.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-voa-2017-08-28-wang-qishan
+    title: '时事大家谈：十九大权力博弈，王岐山去留成谜'
+    publisher: 美国之音
+    date: 2017-08-28
+    voice: zh
+    url: https://www.voachinese.com/a/voaweishi-20170828-io-ccp-wang-qishan/4003828.html
+    excerpt: true
+    keep: [王岐山]
+  - id: r01-rfa-2018-08-10-beidaihe
+    title: '美中贸战升温 北戴河会议裂痕'
+    publisher: 自由亚洲电台
+    date: 2018-08-10
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql2-08102018100315.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-rfa-2018-08-09-beidaihe
+    title: '北戴河会议本周开幕聚焦贸易战'
+    publisher: 自由亚洲电台
+    date: 2018-08-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql2-08092018094008.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-rfa-2019-07-31-beidaihe
+    title: '香港局势 成“北戴河会议”重要议题'
+    publisher: 自由亚洲电台
+    date: 2019-07-31
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/gangtai/ql2-07312019070042.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-kzg-2019-08-20-beidaihe
+    title: '百万港人无惧威吓大集会 传习近平对港最高指令出炉(图) 反送中'
+    publisher: 看中国
+    date: 2019-08-20
+    voice: zh
+    url: https://kzg.io/news/gb/2019/08/20/904250.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-rfa-2020-08-10-beidaihe
+    title: '疫情下北戴河会议冷清 对内对外均强调两个稳定'
+    publisher: 自由亚洲电台
+    date: 2020-08-10
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql-08102020060229.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-rfi-2021-08-04-beidaihe
+    title: '胡锦涛后去北戴河只疗养不开会 炒作十来年？'
+    publisher: 法国国际广播电台
+    date: 2021-08-04
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210804-%E8%83%A1%E9%94%A6%E6%B6%9B%E5%90%8E%E5%8E%BB%E5%8C%97%E6%88%B4%E6%B2%B3%E5%8F%AA%E7%96%97%E5%85%BB%E4%B8%8D%E5%BC%80%E4%BC%9A-%E7%82%92%E4%BD%9C%E5%8D%81%E6%9D%A5%E5%B9%B4
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-secretchina-2021-08-05-beidaihe
+    title: '北戴河会议炒作十来年？台媒列精彩秘闻(图) 中共'
+    publisher: 看中国
+    date: 2021-08-05
+    voice: zh
+    url: https://www.secretchina.com/news/gb/2021/08/05/980120.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-rfa-2022-08-09-beidaihe
+    title: '中共七常委集体隐身近十天，今年北戴河会议备受关注'
+    publisher: 自由亚洲电台
+    date: 2022-08-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/gt-08092022045651.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-voa-2022-08-13-beidaihe
+    title: '台海危机波及北戴河会议？习总外交路线被指遭重挫'
+    publisher: 美国之音
+    date: 2022-08-13
+    voice: zh
+    url: https://www.voachinese.com/a/taiwan-strait-crisis-likely-to-backlash-xi-and-his-embattled-wolf-warrior-diplomacy-as-ccp-congress-draws-near-202200813/6700784.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-yomiuri-2022-08-30-beidaihe
+    title: '中国共産党大会、１０月１６日から北京で…習総書記は異例の３期目政権へ'
+    publisher: 読売新聞
+    date: 2022-08-30
+    voice: japan
+    lang: ja
+    url: https://www.yomiuri.co.jp/world/20220830-OYT1T50165/
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-cna-2024-08-03-beidaihe
+    title: '中共開啟北戴河暑休 蔡奇看望專家'
+    publisher: 中央社
+    date: 2024-08-03
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202408030231.aspx
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-epoch-2024-08-16-elders
+    title: '北戴河会议散场 中共政治老人的影响引关注'
+    publisher: 大纪元
+    date: 2024-08-16
+    voice: zh
+    url: https://www.epochtimes.com/gb/24/8/16/n14312369.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-cna-2025-08-03-beidaihe
+    title: '中共啟動北戴河暑休 習近平委託蔡奇看望專家'
+    publisher: 中央社
+    date: 2025-08-03
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202508030224.aspx
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-wenxuecity-2025-07-31-nikkei
+    title: '日经：解放军重新开始强调“集体领导” 风向似乎有变'
+    publisher: 文学城（转载日经中文网）
+    date: 2025-07-31
+    voice: japan
+    url: https://www.wenxuecity.com/news/2025/07/31/126269567.html
+    excerpt: true
+    keep: [北戴河]
+  - id: r01-gov-2026-08-03-cai-qi
+    title: '蔡奇看望慰问北戴河暑期休假专家'
+    publisher: 新华社（中国政府网）
+    date: 2026-08-03
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202608/content_7077413.htm
+    start: 新华社北戴河8月3日电
+    end: 参加看望活动。
+  - id: r01-secretchina-2026-08-04-beidaihe
+    title: '北戴河會議或已開啓 蔡奇看望暑期休假專家(圖) 習近平'
+    publisher: 看中国
+    date: 2026-08-04
+    voice: zh
+    url: https://www.secretchina.com/news/b5/2026/08/04/1102982.html
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-aboluowang-2026-08-29-zhang
+    title: '枪战、火拼疯传！张又侠官宣背后深藏谜团'
+    publisher: 阿波罗新闻网
+    date: 2026-08-29
+    voice: zh
+    url: https://www.aboluowang.com/2026/0829/2426712.html
+    excerpt: true
+    rumor: true
+    keep: [张又侠]
+  - id: r01-epoch-2026-08-31-li-yanming
+    title: '李燕铭：北戴河会后4大事件 胡温动向引关注'
+    publisher: 大纪元
+    author: 李燕铭
+    date: 2026-09-01
+    voice: zh
+    url: https://www.epochtimes.com/gb/26/8/31/n14840278.htm
+    excerpt: true
+    rumor: true
+    keep: [北戴河]
+  - id: r01-zaobao-2026-09-23-zhang-liu
+    title: 杨丹旭：五中全会前张又侠和刘振立案结论出炉
+    publisher: 联合早报
+    author: 杨丹旭
+    date: 2026-09-23
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260923-9718866
+    excerpt: true
+    keep: [审查结果也指, 根据通报，张、刘二人已被开除党籍, 官方对张又侠和刘振立问题的定性]
+  # ---- 健康传闻 ----
+  - id: r01-bbc-2014-09-08-jiang-rumour
+    title: '中国官方罕见回应江泽民去世传闻'
+    publisher: BBC 中文
+    date: 2014-09-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/09/140908_cn_jiangzemin
+    excerpt: true
+    keep: [华春莹, 膀胱癌, 博讯, 信报, 5月20日]
+  - id: r01-rfi-2017-05-28-jiang-appears
+    title: '19大前频传健康消息 江泽民今或访上海科技大'
+    publisher: 法国国际广播电台
+    date: 2017-05-28
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20170528-19%E5%A4%A7%E5%89%8D%E9%A2%91%E4%BC%A0%E5%81%A5%E5%BA%B7%E6%B6%88%E6%81%AF-%E6%B1%9F%E6%B3%BD%E6%B0%91%E7%96%91%E4%BB%8A%E8%AE%BF%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%A4%A7
+    excerpt: true
+    keep: [华山医院, 上海科技大]
+  - id: r01-voa-2017-05-30-jiang
+    title: '时事大家谈：江泽民的现身与露面，为何总是充满戏剧性？'
+    publisher: 美国之音
+    date: 2017-05-30
+    voice: zh
+    url: https://www.voachinese.com/a/voaweishi-io-20170530-cpc-jiang-zemin-public-appearance/3877255.html
+    excerpt: true
+    keep: [病危, 习惯性封杀]
+  - id: r01-epochhk-2019-10-03-jiang
+    title: '江澤民天安門上消失半小時惹關注 傳北京早有死亡預案'
+    publisher: 大纪元（香港）
+    date: 2019-10-03
+    voice: zh
+    url: https://hk.epochtimes.com/news/2019-10-03/46763582
+    excerpt: true
+    rumor: true
+    keep: [消失, 死亡預案]
+  - id: r01-sbs-2022-xi-aneurysm
+    title: '外媒傳習近平患「腦動脈瘤」'
+    publisher: SBS 中文
+    date: 2022-05-16
+    voice: zh
+    url: https://www.sbs.com.au/language/chinese/zh-hant/article/chinese-president-xi-jinping-suffering-from-brain-aneurysm-reports-claim/kht41j71m
+    excerpt: true
+    keep: [動脈瘤]
+  - id: r01-ntdtv-2025-09-03-xi-tremor
+    title: '九三阅兵 习近平身体异常 脑袋不自主颤抖'
+    publisher: 新唐人
+    date: 2025-09-03
+    voice: zh
+    url: https://www.ntdtv.com/gb/2025/09/03/a104016588.html
+    excerpt: true
+    rumor: true
+    keep: [习近平]
+  - id: r01-bannedbook-2025-08-24-xi
+    title: '习近平西藏作「健康」秀 央视遮掩反露马脚'
+    publisher: 禁闻网
+    date: 2025-08-24
+    voice: zh
+    url: https://www.bannedbook.org/bnews/ssgc/20250824/2226944.html
+    excerpt: true
+    rumor: true
+    keep: [习近平]
+  - id: r01-rfi-2026-03-30-wen
+    title: '温家宝罕见公开露面'
+    publisher: 法国国际广播电台
+    date: 2026-03-30
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260330-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%BD%95%E8%A7%81%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2
+    excerpt: true
+    keep: [温家宝]
+  - id: r01-udn-2026-03-wen
+    title: '民眾高喊「總理好」 溫家寶現身北京 傳達4政治信號'
+    publisher: 联合新闻网
+    date: 2026-03-30
+    voice: zh
+    url: https://udn.com/news/story/7332/9411397
+    excerpt: true
+    keep: [溫家寶]
+  - id: r01-aboluowang-2026-03-30-wen
+    title: '疯传温家宝现身中科大！现场视频释放多重信号'
+    publisher: 阿波罗新闻网
+    date: 2026-03-30
+    voice: zh
+    url: https://www.aboluowang.com/2026/0330/2365860.html
+    excerpt: true
+    rumor: true
+    keep: [温家宝]
+  - id: r01-aboluowang-2026-08-17-hu
+    title: '温家宝突现身 王岐山脱相！胡锦涛、李瑞环诡异缺席'
+    publisher: 阿波罗新闻网
+    date: 2026-08-17
+    voice: zh
+    url: https://www.aboluowang.com/2026/0817/2421865.html
+    excerpt: true
+    rumor: true
+    keep: [胡锦涛]
+  - id: r01-aboluowang-2026-08-18-hu
+    title: '胡锦涛送花圈，温家宝却被抹去！朱镕基追悼会曝异常'
+    publisher: 阿波罗新闻网
+    date: 2026-08-18
+    voice: zh
+    url: https://www.aboluowang.com/2026/0818/2422422.html
+    excerpt: true
+    rumor: true
+    keep: [胡锦涛]
+  # ---- 政变与权斗传闻 ----
+  - id: r01-orientaldaily-2013-12-07-zhou-plot
+    title: '習近平失蹤大揭秘中南海政變'
+    publisher: 东方日报（香港）
+    date: 2013-12-07
+    voice: zh
+    url: https://orientaldaily.on.cc/cnt/news/20131207/00174_001.html
+    excerpt: true
+    rumor: true
+    keep: [周永康]
+  - id: r01-secretchina-2013-12-07-zhou-plot
+    title: '放炸弹打毒针 周永康两次暗杀习近平失败(图)'
+    publisher: 看中国
+    date: 2013-12-07
+    voice: zh
+    url: https://www.secretchina.com/news/gb/2013/12/07/522700.html
+    excerpt: true
+    rumor: true
+    keep: [周永康]
+  - id: r01-ntdtv-2015-02-25-assassin
+    title: '再傳策劃暗殺 習近平加強安保 省級官也要查'
+    publisher: 新唐人
+    date: 2015-02-25
+    voice: zh
+    url: https://www.ntdtv.com/b5/2015/02/25/a1180009.html
+    excerpt: true
+    rumor: true
+    keep: [習近平]
+  - id: r01-rfi-2016-05-15-assassin
+    title: '习近平李克强遇暗杀？中共草木皆兵'
+    publisher: 法国国际广播电台
+    date: 2016-05-15
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20160515-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%8E%E5%85%8B%E5%BC%BA%E9%81%87%E6%9A%97%E6%9D%80%EF%BC%9F%E4%B8%AD%E5%85%B1%E8%8D%89%E6%9C%A8%E7%9A%86%E5%85%B5
+    excerpt: true
+    keep: [暗杀]
+  - id: r01-renminbao-2025-06-25-xi-retire
+    title: 内幕：習近平半退休 常委增至9人
+    publisher: 人民报
+    date: 2025-06-25
+    voice: zh
+    url: https://news.renminbao.com/rmb/articles/2025/6/25/91096b.html
+    excerpt: true
+    rumor: true
+    keep: [有關中共黨魁習近平軍權旁落, 蘇小和6月24號, 至於其他幾個人]
+  - id: r01-secretchina-2025-08-15-xi-retire
+    title: '习退位时间表爆光 无第四任期 (图) 北戴河'
+    publisher: 看中国
+    date: 2025-08-14
+    voice: zh
+    url: https://www.secretchina.com/news/gb/2025/08/15/1086686.html
+    excerpt: true
+    rumor: true
+    keep: [习近平]
+  # ---- 家族财富 ----
+  - id: r01-secretchina-2007-01-19-luneng
+    title: '驚天秘密:魯能700億國資被吞 胡舒立代胡錦濤出征'
+    publisher: 看中国
+    date: 2007-01-19
+    voice: zh
+    url: https://www.secretchina.com/news/b5/2007/01/19/181198.html
+    excerpt: true
+    rumor: true
+    keep: [魯能]
+  - id: r01-bbc-2009-07-20-nuctech
+    title: 威视公司涉嫌行贿在纳米比亚遭调查
+    publisher: BBC 中文
+    date: 2009-07-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8150000/newsid_8158700/8158759.stm
+    excerpt: true
+    keep: [胡海峰]
+  - id: r01-voa-2009-07-20-nuctech
+    title: '胡锦涛之子其公司卷入纳米比亚贿赂调查'
+    publisher: 美国之音
+    date: 2009-07-20
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-2009-07-20-voa114-60875887/1012914.html
+    excerpt: true
+    keep: [胡海峰]
+  - id: r01-rfa-2012-12-28-bloomberg-heirs
+    title: '彭博社报道太子党财产引发热议（图）'
+    publisher: 自由亚洲电台
+    date: 2012-12-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/xl2-12282012131324.html
+    excerpt: true
+    keep: [彭博]
+  - id: r01-nytcn-2013-11-14-jpmorgan
+    title: '摩根大通与温家宝女儿曾有商业往来'
+    publisher: 纽约时报中文网
+    date: 2013-11-14
+    voice: zh
+    url: https://cn.nytimes.com/business/20131114/c14chase/
+    excerpt: true
+    keep: [摩根]
+  - id: r01-voa-2013-11-14-jpmorgan
+    title: '纽约时报：摩根大通曾秘密雇用温家宝女儿温如春'
+    publisher: 美国之音
+    date: 2013-11-14
+    voice: zh
+    url: https://www.voachinese.com/a/china-jp-morgan-20131114/1789935.html
+    excerpt: true
+    keep: [摩根]
+  - id: r01-nytcn-2014-06-05-xiao-statement
+    title: '肖建华公司回应收购习近平家属股权'
+    publisher: 纽约时报中文网
+    date: 2014-06-05
+    voice: zh
+    url: https://cn.nytimes.com/china/20140605/c05elite/
+    excerpt: true
+    keep: [肖建华]
+  - id: r01-nytcn-2014-06-18-xi-assets
+    title: '习近平亲属退出多项商业投资'
+    publisher: 纽约时报中文网
+    date: 2014-06-18
+    voice: zh
+    url: https://cn.nytimes.com/china/20140618/c18assets/
+    excerpt: true
+    keep: [习近平]
+  - id: r01-rfa-2014-06-19-xi-assets
+    title: '习近平说服家人抛商业投资 “打老虎”或面临巨大压力'
+    publisher: 自由亚洲电台
+    date: 2014-06-19
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl1-06192014094127.html
+    excerpt: true
+    keep: [齐心]
+  - id: r01-bbc-2015-02-09-li-xiaolin
+    title: '“李鹏女儿李小琳曾拥248万美元汇丰存款”'
+    publisher: BBC 中文
+    date: 2015-02-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/02/150209_hsbc_tax_li_xiaolin
+    excerpt: true
+    keep: [李小琳]
+  - id: r01-nytcn-2015-02-11-li-xiaolin
+    title: '泄密文件曝李小琳在瑞士藏248万美元存款'
+    publisher: 纽约时报中文网
+    date: 2015-02-11
+    voice: zh
+    url: https://cn.nytimes.com/china/20150211/c11lixiaolin/
+    excerpt: true
+    keep: [李小琳]
+  - id: r01-voa-2021-10-05-pandora
+    title: '“潘多拉文件”上榜中共权贵寥寥无几，行事更收敛还是更狡猾？'
+    publisher: 美国之音
+    date: 2021-10-05
+    voice: zh
+    url: https://www.voachinese.com/a/pandora-papers-china-20211005/6258367.html
+    excerpt: true
+    keep: [潘多拉]
+  - id: r01-cna-2021-10-04-pandora
+    title: '潘朵拉文件揭密 董建華梁振英上榜'
+    publisher: 中央社
+    date: 2021-10-04
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202110040151.aspx
+    excerpt: true
+    keep: [董建華, 梁振英]

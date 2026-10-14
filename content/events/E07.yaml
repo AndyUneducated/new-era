@@ -1,0 +1,896 @@
+# E07：2000–2012 年事件扩充（第四轮）
+
+- id: e07-2000-hu-changqing
+  date: 2000-02-15
+  title: 江西原副省长胡长清一审被判死刑
+  lane: purge
+  summary: 2月15日，江西省南昌市中级人民法院对江西省人民政府原副省长胡长清受贿、行贿、巨额财产来源不明案作出一审判决，胡长清“因大肆收受、索取贿赂被判处死刑”，剥夺政治权利终身。此案被写入官方编纂的当年党史大事记，是江泽民时期惩处省部级腐败官员的标志性案件之一。
+  cites: [e01-cpc-dsj-2000]
+
+- id: e07-2000-fifth-plenum
+  date: 2000-10-09
+  end: 2000-10-11
+  title: 十五届五中全会通过“十五”计划建议
+  lane: econ
+  summary: 10月9日至11日，中共十五届五中全会在北京举行，审议通过《中共中央关于制定国民经济和社会发展第十个五年计划的建议》。全会评价改革开放二十多年特别是“九五”以来的成就，认为从新世纪开始，“我国将进入全面建设小康社会，加快推进现代化的新的发展阶段”，并提出“十五”期间现代化建设的总体部署。
+  people: [jiang-zemin]
+  concepts: [xiaokang]
+  cites: [e01-cpc-dsj-2000]
+
+- id: e07-2001-sino-russian-treaty
+  date: 2001-07-15
+  end: 2001-07-25
+  title: 中俄签署睦邻友好合作条约
+  lane: foreign
+  summary: 7月江泽民对俄罗斯、白俄罗斯、摩尔多瓦、乌克兰和马耳他进行国事访问。访俄期间，江泽民与普京在莫斯科签署“共25条、有效期为20年的《中华人民共和国和俄罗斯联邦睦邻友好合作条约》”，以法律形式确定两国“世代友好、永不为敌”的思想，规定两国今后在政治、经济、贸易、科技、文化和国际事务中合作的原则和方向。
+  people: [jiang-zemin]
+  cites: [e01-cpc-dsj-2001]
+
+- id: e07-2001-nandan
+  date: 2001-07-17
+  title: 广西南丹矿难与瞒报
+  lane: society
+  summary: 7月17日，广西南丹县龙泉矿冶总厂下属拉甲坡矿和龙山矿发生重大透水事故，据报300名矿工被困井下。矿主黎东明利用矿上保安和社会恶势力威胁知情者和遇难者家属、用钱收买，隐瞒事故，后与其保镖等15人被刑事拘留。新华网称“南丹的财政收入有70%是依赖开矿的税收”，官员与矿主勾结、疏于监管，致使事故被掩盖、救援不力。
+  cites: [e07-bbc-2001-08-07-nandan]
+
+- id: e07-2002-lanjisu
+  date: 2002-06-16
+  title: 北京“蓝极速”网吧大火与网吧整顿
+  lane: society
+  summary: 6月16日凌晨，北京海淀区学院路的“蓝极速”网吧起火，大门锁着、其他出口被铁条封住，造成至少24人死亡、13人受伤。北京市长刘淇当即下令关闭北京所有网吧进行整顿。随后全国开展网吧消防检查，公安部称截至6月底“共检查3.9万多家网吧，依法责令停业整改1.1万多家，依法取缔3100多家”。
+  people: [liu-qi]
+  cites: [e07-bbc-2002-06-16-lanjisu, e07-cctv-2002-07-26-netbar-crackdown]
+
+- id: e07-2003-second-plenum
+  date: 2003-02-24
+  end: 2003-02-26
+  title: 十六届二中全会部署国务院机构改革
+  lane: power
+  summary: 2月24日至26日，中共十六届二中全会在北京举行。这是十六大产生新一届中央委员会后的第二次全会，全会审议通过关于深化行政管理体制和机构改革的意见，建议国务院根据这个意见形成《国务院机构改革方案》，提交3月召开的十届全国人大一次会议审议，为国务院换届和机构改革作出部署。
+  cites: [e07-cpc-dsj-2003]
+
+- id: e07-2003-third-plenum
+  date: 2003-10-11
+  end: 2003-10-14
+  title: 十六届三中全会完善市场经济体制
+  lane: econ
+  summary: 10月11日至14日，中共十六届三中全会在北京举行，听取和讨论胡锦涛受中央政治局委托作的工作报告，审议通过《中共中央关于完善社会主义市场经济体制若干问题的决定》，并审议通过《中共中央关于修改宪法部分内容的建议》，决定提交十届全国人大常委会审议。
+  people: [hu-jintao]
+  cites: [e07-cpc-dsj-2003]
+
+- id: e07-2003-sun-dawu
+  date: 2003-10-30
+  title: 民营企业家孙大午案宣判
+  lane: society
+  summary: 河北大午农牧集团董事长孙大午5月被警方拘留、7月5日被逮捕。10月30日徐水县法院以“非法吸收公众存款罪”判处他有期徒刑3年、缓期4年执行，交纳10万元罚金。检方指大午公司向社会变相吸收存款1627单、共计1308万余元，涉及611人；辩方称资金用于生产经营和兴办教育。不少人认为他是“因言获罪”，刘晓波称此案是“恶法治国”。
+  people: [sun-dawu, liu-xiaobo, xu-zhiyong]
+  concepts: [liberals]
+  voices:
+    - voice: official
+      text: 有些知名经济学家曾公开为孙大午一案喊冤。
+      cite: e07-cyol-2003-10-31-sun-dawu
+      quote: true
+  cites: [e07-cyol-2003-10-31-sun-dawu, c04-bbc-2021-07-28-sun-dawu]
+
+- id: e07-2003-kaixian-blowout
+  date: 2003-12-23
+  title: 重庆开县井喷事故
+  lane: society
+  summary: 12月23日，中国石油天然气集团公司川东钻探公司在重庆开县的一口高含硫气井发生井喷，大量含高浓度硫化氢的有害气体喷出，事故导致200多人丧生。国家安全生产监督管理局副局长、调查组组长孙华山称，这是一起因现场作业人员违章违规造成的特大责任事故：有关人员拆除了防井喷的回压阀，井喷失控后又没有及时点火。
+  factions: [petroleum]
+  voices:
+    - voice: official
+      text: 有关人员违反有关规定拆除了在钻具中安装的回压阀，也就是防井喷的装置，导致了井喷的严重失控。
+      cite: e07-bbc-2004-01-02-kaixian
+      quote: true
+  cites: [e07-bbc-2004-01-02-kaixian, e07-chinanews-2004-04-14-ma-fucai]
+
+- id: e07-2004-ma-fucai-resigns
+  date: 2004-04-14
+  title: 中石油总经理马富才因开县井喷引咎辞职
+  lane: power
+  summary: 开县“12·23”井喷事故后，中石油总经理、党组书记马富才多次表示负有领导责任并提出引咎辞职。4月中央批准他辞去党组书记，国务院同意他辞去总经理职务，分管安全的副总经理任传俊被记大过。国资委称“安全生产责任重于泰山”。一年前非典疫情中，卫生部长张文康和北京市长孟学农已被免职，问责由此延伸到央企负责人。
+  people: [meng-xuenong]
+  factions: [petroleum]
+  voices:
+    - voice: official
+      text: 鉴于调查认定这起事故是一起责任事故，马富才同志负有主要领导责任
+      cite: e07-chinanews-2004-04-14-ma-fucai
+      quote: true
+  cites: [e07-chinanews-2004-04-14-ma-fucai, e01-bbc-2023-03-13-jiang-yanyong-obit]
+
+- id: e07-2004-fuyang-milk
+  date: 2004-04
+  end: 2004-05-16
+  title: 安徽阜阳劣质奶粉事件
+  lane: society
+  summary: 4月官方媒体报道，大量伪劣婴儿奶粉流入安徽阜阳农村，上百名婴儿严重营养不良，成为“大头娃娃”。国务院调查组5月核实，因食用劣质奶粉营养不良的婴儿229人，死亡婴儿共12人；阜阳市政府先前公布的13人中有3人死于其他疾病。55种不合格奶粉涉及10个省份的40家企业，警方刑事拘留47人、逮捕31人。
+  people: [wen-jiabao]
+  voices:
+    - voice: official
+      text: 阜阳市因食用劣质奶粉造成营养不良而死亡的婴儿共计12人。
+      cite: e07-chinanews-2004-05-16-fuyang
+      quote: true
+    - voice: zh
+      text: 造成当地上百名婴儿严重营养不良，而且陆续患上怪病，变成"大头娃娃"。其中至少8名婴孩已经夭折。
+      cite: e07-bbc-2004-04-20-fuyang
+      quote: true
+  cites: [e07-chinanews-2004-05-16-fuyang, e07-bbc-2004-04-20-fuyang]
+
+- id: e07-2004-tieben
+  date: 2004-04-30
+  title: 江苏铁本事件
+  lane: econ
+  major: true
+  summary: 国务院4月30日通报江苏铁本钢铁违规项目：设计能力840万吨钢、概算总投资105.9亿元，被“化整为零”拆分成22个项目报批，实际占用土地6541亩，2004年3月被责令全面停工。常州市委书记范燕青等8名官员和银行负责人受处分，铁本法人代表戴国芳等10人被刑事拘留。通报借此要求整肃过热投资，确保宏观调控“政令畅通”。
+  concepts: [scientific-development]
+  voices:
+    - voice: doc
+      text: 铁本公司项目是一起典型的地方政府有关部门严重失职违规、企业涉嫌违法犯罪的固定资产投资项目。
+      cite: e07-gov-2004-tieben
+      quote: true
+  cites: [e07-gov-2004-tieben]
+
+- id: e07-2004-audit-storm
+  date: 2004-06
+  title: 李金华审计报告与“审计风暴”
+  lane: econ
+  summary: 审计署自2003年开始公布年度审计报告，被中国媒体称为“审计风暴”。2004年6月审计长李金华向全国人大常委会提交2003年度报告，点名国家体育总局动用中国奥委会专项资金1.31亿元、国防科工委年初预留预算比例达38.8%，并揭出长江堤防“豆腐渣”工程、挤占挪用救灾资金等。据外媒报道，李金华被中国媒体选为2004年“年度人物”。
+  voices:
+    - voice: official
+      text: 国家体育总局动用中国奥委会专项资金1.31亿元，其中用于建设职工住宅小区1.09亿元
+      cite: e07-cctv-2004-06-24-audit
+      quote: true
+    - voice: zh
+      text: 他坚持将"审计利剑"指向位高权重中央部门，赢得了人民英雄形象。
+      cite: e07-bbc-2005-06-29-audit
+      quote: true
+  cites: [e07-cctv-2004-06-24-audit, e07-bbc-2005-06-29-audit]
+
+- id: e07-2004-southern-metropolis-case
+  date: 2004-06-15
+  end: 2004-08-31
+  title: 《南方都市报》高层获刑案
+  lane: ideo
+  summary: 《南方都市报》曾报道孙志刚被打死案、孙大午案和广州非典疫情，使地方政府极为尴尬。随后该报多名高层以经济罪受审：喻华峰6月15日被判八年，南方日报报业集团社务委员李民英被判六年；前总编辑程益中被指贪污10万元，8月31日获广州东山区检察院以证据不足不起诉。BBC称外界认为这些案件含有政治动机。
+  voices:
+    - voice: zh
+      text: 《南方都市报》多名高层被判刑的事件引起了广泛的反响，人们认为这些案件含有政治动机。
+      cite: e07-bbc-2004-08-31-cheng-yizhong
+      quote: true
+  cites: [e07-bbc-2004-08-31-cheng-yizhong]
+
+- id: e07-2004-lang-gu
+  date: 2004-08-09
+  end: 2005-07-29
+  title: “郎顾之争”与国企产权改革争论
+  lane: econ
+  summary: 8月9日，香港中文大学教授郎咸平在复旦大学演讲，指格林柯尔董事长顾雏军用“七板斧”伎俩在“国退民进”中侵吞国有资产，顾雏军告其诽谤。郎咸平认为国有资产流失是最大威胁，呼吁停止国企改革，引发全国性的国企产权改革争论。2005年7月29日顾雏军因涉嫌挪用上市公司资金被捕，“郎顾之争”告一段落，但改革要不要触动产权的争论仍在继续。
+  concepts: [new-left]
+  cites: [e07-people-2014-05-04-langgu]
+
+- id: e07-2004-wanzhou
+  date: 2004-10-18
+  end: 2004-10-19
+  title: 重庆万州事件
+  lane: society
+  summary: 10月18日，重庆万州一名挑夫被打，当地警察处理不公激起民愤，民众追打警察、烧毁警车，与防暴武警对峙；19日上午人群再次包围区政府，重庆派出大批防暴武警用警棍和催泪瓦斯驱散，多人受伤，区政府门前广场全面戒严。同月四川汉源、陕西榆林、河南中牟也发生大规模冲突，引起高层重视。
+  concepts: [stability-maintenance]
+  cites: [e07-bbc-2004-12-review-2]
+
+- id: e07-2004-hanyuan
+  date: 2004-10
+  end: 2004-11
+  title: 四川汉源瀑布沟移民抗议
+  lane: society
+  major: true
+  summary: 瀑布沟水电站至少需移民10多万人，汉源县移民不满征地补偿过低，指地方官贪污挪用搬迁费。10月底到11月初，数万名农民与当地政府和军警发生流血冲突。四川省委书记张学忠赴现场时一度被人群扣作人质，上万名武警出动，数百人被捕。被控打死一名武警的村民陈滔2006年11月底被秘密处决。周永康称2004年群体事件由58,000起升至74,000起。
+  people: [zhou-yongkang]
+  concepts: [stability-maintenance]
+  voices:
+    - voice: zh
+      text: 很多当地民众指责地方官蒙骗中央，贪污挪用大坝搬迁费、克扣搬迁居民的应得补偿。
+      cite: e07-bbc-2004-11-07-hanyuan
+      quote: true
+  cites: [e07-bbc-2004-11-07-hanyuan, e07-bbc-2006-12-hanyuan-execution]
+
+- id: e07-2005-split-share-reform
+  date: 2005-04-29
+  title: 启动上市公司股权分置改革
+  lane: econ
+  major: true
+  summary: 经国务院批准，证监会4月29日发布通知，启动上市公司股权分置改革试点，着手解决非流通股与流通股并存的股权分置问题。方案由试点公司股东自主决定，但须经参加表决的股东及流通股股东所持表决权各三分之二以上通过；非流通股获得流通权后“至少在十二个月内不上市交易或者转让”，大股东此后还须分步减持。
+  cites: [e07-chinanews-2005-04-29-split-share]
+
+- id: e07-2005-hu-soong
+  date: 2005-05-12
+  title: 胡锦涛与宋楚瑜会谈公报
+  lane: hkmt
+  summary: 继连战访问之后，亲民党主席宋楚瑜5月5日至13日率团访问大陆，这是中共与亲民党首次两党交流对话。5月12日胡锦涛与宋楚瑜在北京会谈并发表公报，提出在“九二共识”基础上尽速恢复两岸平等谈判、坚决反对“台独”、推动结束敌对状态、加强经贸交流等六点，并筹设“两岸民间菁英论坛”。宋楚瑜在会见时重申亲民党三点基本立场。
+  people: [hu-jintao, zeng-qinghong]
+  voices:
+    - voice: official
+      text: 这是中国共产党与亲民党之间首次进行两党交流对话，具有重要意义。
+      cite: e07-gwytb-2005-05-12-hu-soong
+      quote: true
+    - voice: zh
+      text: 我们从来不认为‘台独’应该是台湾的选项，因为那只能带来灾难和战争
+      cite: e07-bbc-2005-05-12-soong
+      quote: true
+  cites: [e07-gwytb-2005-05-12-hu-soong, e07-bbc-2005-05-12-soong]
+
+- id: e07-2005-dingzhou
+  date: 2005-06-11
+  end: 2005-07
+  title: 河北定州绳油村血案
+  lane: society
+  summary: 定州绳油村村民抗议国华定洲电厂征地建贮灰场补偿不足。6月11日清晨，200多名身穿迷彩服、手持刀枪棍棒的男子袭击抗议村民，造成六人死亡、48人受伤。新华社事后称河北省和保定市“决定不再征用该村土地”，电厂另行选址；警方以“6·11”案逮捕31人、刑事拘留131人。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 河北省政府和保定市政府决定不再征用该村土地，电厂贮灰场用地将另行选址。
+      cite: e07-bbc-2005-07-21-dingzhou
+      quote: true
+  cites: [e07-bbc-2005-06-16-dingzhou, e07-bbc-2005-07-21-dingzhou]
+
+- id: e07-2005-cnooc-unocal
+  date: 2005-06
+  end: 2005-08-02
+  title: 中海油收购优尼科受挫
+  lane: foreign
+  summary: 中海油提出以总价一百八十五亿美元现金收购美国优尼科公司全部流通股，比雪佛龙竞价高约十亿美元。6月30日美国众议院以398票赞成、15票反对，要求布什政府检讨这项收购。8月2日中海油宣布撤回要约，董事长傅成玉称美方给予不公平待遇；优尼科董事会接受雪佛龙173亿美元的出价。中海油称竞购宣布后美国出现“前所未有的政治上的反对声音”。
+  voices:
+    - voice: official
+      text: 我们竞购交易宣布后，在美国出现了前所未有的政治上的反对声音
+      cite: e07-chinanews-2005-08-03-cnooc
+      quote: true
+    - voice: zh
+      text: 中国经济迅速发展，而美国对华贸易赤字高达1600亿美元；此外，北京的政治和军事实力开始崛起。
+      cite: e07-bbc-2005-07-03-cnooc
+      quote: true
+  cites: [e07-chinanews-2005-08-03-cnooc, e07-bbc-2005-07-03-cnooc, e07-bbc-2005-08-02-cnooc]
+
+- id: e07-2005-taishi
+  date: 2005-09
+  end: 2005-12
+  title: 广东番禺太石村罢免风波
+  lane: society
+  major: true
+  summary: 番禺太石村村民指村主任未经同意把土地卖给开发商并盗用村款，发起罢免；9月100多名村民在区民政局门口绝食抗议。584名签名村民中有396人随后不再支持，9月29日罢免动议因人数不足全村1502名选民的五分之一而“自然失效”。被指协助村民示威的异议人士郭飞雄被拘，年底获释，当局未提起诉。
+  people: [guo-feixiong]
+  concepts: [stability-maintenance]
+  voices:
+    - voice: zh
+      text: 鉴于584名曾经签署提出罢免村委会主任动议的村民当中，有396名村民不再支持这项罢免动议
+      cite: e07-voa-2005-10-02-taishi
+      quote: true
+  cites: [e07-voa-2005-10-02-taishi, e07-bbc-2005-12-27-taishi]
+
+- id: e07-2005-fifth-plenum
+  date: 2005-10-08
+  end: 2005-10-11
+  title: 十六届五中全会通过“十一五”规划建议
+  lane: econ
+  summary: 10月8日至11日，中共十六届五中全会审议通过《中共中央关于制定国民经济和社会发展第十一个五年规划的建议》，“计划”改称“规划”。全会提出“十一五”主要目标：实现“2010年人均国内生产总值比2000年翻一番”，单位国内生产总值能耗比“十五”期末降低20％左右，社会保障体系比较健全，构建和谐社会取得新进步。
+  people: [hu-jintao]
+  concepts: [harmonious-society, scientific-development]
+  cites: [e01-cpc-dsj-2005]
+
+- id: e07-2006-liu-zhihua
+  date: 2006-06-11
+  title: 北京副市长刘志华被免职
+  lane: purge
+  summary: 6月11日官方媒体报道，57岁的北京市副市长刘志华因“生活腐化堕落”被免去职务，中央纪委、监察部决定对其立案审查。刘志华负责城市建设，同时主管北京奥运的建设工程。中国政府消息人士向路透社透露，他是因为贪污问题而被“双规”的，与官方公布的理由不同。
+  voices:
+    - voice: official
+      text: 生活腐化堕落
+      cite: e07-bbc-2006-06-11-liu-zhihua
+    - voice: west
+      text: 刘志华是因为贪污问题而被双规的。
+      cite: e07-bbc-2006-06-11-liu-zhihua
+      quote: true
+  cites: [e07-bbc-2006-06-11-liu-zhihua]
+
+- id: e07-2006-zhu-junyi
+  date: 2006-08-09
+  end: 2007-09
+  title: 上海社保基金案发：祝均一被免职
+  lane: purge
+  major: true
+  summary: 8月9日，上海市长韩正在市人大常委会上通报，劳动和社会保障局局长祝均一涉嫌社保基金违规使用和收受贿赂，被免去局长职务，成为上海改革开放以来级别最高的出事官员。此案随后牵出陈良宇、前国家统计局长邱晓华等，前上海首富周正毅再次被捕，祝均一等9人被“双开”。2007年9月祝均一以受贿160万元、挪用公款10亿元等罪被判18年。
+  people: [han-zheng, chen-liangyu]
+  factions: [jiang-shanghai]
+  cites: [e07-cctv-2006-08-11-zhu-junyi, e07-bbc-2007-03-02-pension-expelled, e07-bbc-2007-09-24-zhu-junyi]
+
+- id: e07-2006-chen-guangcheng-sentenced
+  date: 2006-08-24
+  title: 陈光诚被判刑
+  lane: society
+  summary: 8月24日新华社报道，山东一家法院以“故意损坏财物、聚众扰乱交通秩序”罪名判处双目失明的法律活动人士陈光诚4年零3个月监禁。支持者说，当局罗织罪名是为了惩罚他协助村民起诉有关官员强迫妇女进行人工流产和绝育；人权团体称罪名是捏造的。他2012年出走美国大使馆一事另见条目。
+  people: [chen-guangcheng]
+  concepts: [stability-maintenance]
+  cites: [e07-bbc-2006-08-24-chen-guangcheng]
+
+- id: e07-2006-dprk-nuclear-test
+  date: 2006-10-09
+  title: 朝鲜首次核试验与中方“悍然”表态
+  lane: foreign
+  summary: 10月9日朝鲜进行核试验。中国政府当天发表声明，称朝鲜无视国际社会的普遍反对，“悍然实施核试验，中国政府对此表示坚决反对”，重申实现半岛无核化、反对核扩散的立场，强烈要求朝方信守无核化承诺，停止一切可能导致局势进一步恶化的行动，重新回到六方会谈的轨道上来。
+  voices:
+    - voice: doc
+      text: 中方强烈要求朝方信守无核化承诺，停止一切可能导致局势进一步恶化的行动，重新回到六方会谈的轨道上来。
+      cite: e07-cyol-2006-10-10-dprk-test
+      quote: true
+  cites: [e07-cyol-2006-10-10-dprk-test]
+
+- id: e07-2006-icbc-ipo
+  date: 2006-10-27
+  title: 工商银行A+H同步上市
+  lane: econ
+  summary: 10月27日，中国最大国有商业银行工商银行在香港和上海两地同步挂牌上市，成为第一家同时发行A股和H股、两地同时招股上市的公司。新华社称首次公开募股筹资约215亿美元，其中H股约156亿美元、A股约59亿美元；BBC称集资额逾1400亿港元，创下全球最大的集资纪录。农业银行决策层则表示最终会“择机上市”。
+  voices:
+    - voice: official
+      text: 27日在香港和上海两地同步挂牌上市，进行全球最大规模的首次公开募股。
+      cite: e07-xinhua-2006-10-27-icbc
+      quote: true
+  cites: [e07-xinhua-2006-10-27-icbc, e07-bbc-2006-10-19-icbc]
+
+- id: e07-2007-xi-shanghai
+  date: 2007-03-24
+  title: 习近平调任上海市委书记
+  lane: power
+  major: true
+  summary: 陈良宇落马半年后，3月24日中组部长贺国强在上海党政负责干部大会上宣布，习近平任上海市委书记，称“习近平同志担任上海市委书记是合适的”，并肯定代理书记韩正半年来的工作。新华社只用一句话报道这一任命，没有说明中央何时作出决定。BBC指上海市委书记按惯例是政治局委员，舆论认为此举与十七大的领导层布局有关。
+  people: [xi-jinping, he-guoqiang, han-zheng, chen-liangyu]
+  factions: [jiang-shanghai, princelings]
+  voices:
+    - voice: official
+      text: 中央对上海这段时间的工作是满意的，对韩正同志这段时间的工作是肯定的
+      cite: e07-chinanews-2007-03-24-xi-shanghai
+      quote: true
+  cites: [e07-chinanews-2007-03-24-xi-shanghai, e07-bbc-2007-03-24-xi-shanghai]
+
+- id: e07-2007-taihu-algae
+  date: 2007-05-29
+  end: 2007-08-10
+  title: 太湖蓝藻与吴立红案
+  lane: society
+  summary: 5月底太湖爆发蓝藻，无锡自来水水源受污染，市民抢购瓶装水，全市断水六天，230多万居民饮水出了问题。多年收集太湖水样、警告污染的“太湖卫士”吴立红，4月已被宜兴警方刑事拘留；8月10日宜兴市法院认定他自称“环保卫士”向企业索要钱财，以敲诈勒索罪和诈骗罪数罪并罚判处有期徒刑3年。
+  cites: [e07-bbc-2007-05-31-taihu, e07-bbc-2007-10-taihu-cleanup, e07-cyol-2007-08-11-wu-lihong]
+
+- id: e07-2007-labor-contract-law
+  date: 2007-06-29
+  title: 《劳动合同法》通过
+  lane: econ
+  summary: 2005年国务院向全国人大提出劳动合同法等7部法律议案。2007年6月29日，十届全国人大常委会第二十八次会议通过《中华人民共和国劳动合同法》。2008年政府工作报告要求“认真贯彻实施就业促进法和劳动合同法”，督促各类企业同劳动者依法签订并履行劳动合同，加强劳动争议处理和劳动保障监察，严厉打击非法用工。
+  people: [wen-jiabao]
+  concepts: [harmonious-society]
+  cites: [e01-cpc-dsj-2007, i02-gov-2006-gwr, i02-gov-2008-gwr]
+
+- id: e07-2007-hk-2017-decision
+  date: 2007-12-29
+  title: 人大常委会决定香港2017年可普选行政长官
+  lane: hkmt
+  summary: 12月29日全国人大常委会决定，2012年香港不实行行政长官和立法会“双普选”，但2017年行政长官可以由普选产生，随后2020年立法会选举也可普选产生；修改产生办法须经立法会三分之二多数通过、行政长官同意并报全国人大常委会批准。人大常委会副秘书长乔晓阳称，2017年是实行普选的最早时间。
+  voices:
+    - voice: official
+      text: 在2012年香港行政长官和立法会不实行“双普选”的情况下，2017年是实行普选的最早时间。
+      cite: e07-bbc-2007-12-29-hk-2017
+      quote: true
+  cites: [e07-bbc-2007-12-29-hk-2017]
+
+- id: e07-2008-super-ministry
+  date: 2008-02-25
+  end: 2008-03-18
+  title: 十七届二中全会与“大部制”改革
+  lane: power
+  summary: 2月25日至27日，中共十七届二中全会通过《关于深化行政管理体制改革的意见》和《国务院机构改革方案》。3月十一届全国人大一次会议批准方案，探索实行职能有机统一的大部门体制，调整变动机构15个，减少正部级机构4个，国务院组成部门设置27个；会议选举胡锦涛为国家主席、习近平为国家副主席，决定温家宝为总理。
+  people: [hu-jintao, xi-jinping, wen-jiabao, wu-bangguo]
+  cites: [e07-cpc-dsj-2008]
+
+- id: e07-2008-yang-jia
+  date: 2008-07-01
+  end: 2008-11-26
+  title: 杨佳袭警案
+  lane: society
+  summary: 北京青年杨佳2007年10月在上海骑自行车时遭巡逻民警盘查，因态度不配合被带回派出所，有传言称他遭殴打，上海警方否认。2008年7月1日他持刀在闸北公安分局袭击警察和保安，造成6名警察死亡、3名警察和1名保安受伤。他被判处死刑，经最高法院核准于11月26日被处决，但中国社会出现很多同情他的声音。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: zh
+      text: 我不说杨佳是什么英雄，但是我总觉得，他是一个真正维护自己尊严的人。
+      cite: e07-voa-2008-11-26-yang-jia
+      quote: true
+  cites: [e07-bbc-2008-11-26-yang-jia, e07-voa-2008-11-26-yang-jia]
+
+- id: e07-2008-menglian
+  date: 2008-07-19
+  end: 2008-09
+  title: 云南孟连胶农冲突
+  lane: society
+  summary: 7月19日，云南孟连县警方强制传唤5名胶农后，500多名胶农与民警冲突，官方称民警“被迫使用防暴枪自卫”，两人死亡，41名民警和19名群众受伤。海外人权组织称地方政府强迫胶农以低于市价40%出售收成。云南省委事后认定县委书记胡文彬把利益纠纷“错误定性”为恶势力问题，撤销其党内职务，普洱市委政法委书记谢丕坤被责令辞职。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 表面上看是警民冲突，实质上是胶农与企业的经济利益长期纠纷所引发的
+      cite: e07-cyol-2008-07-24-menglian
+      quote: true
+  cites: [e07-bbc-2008-07-20-menglian, e07-cyol-2008-07-24-menglian, e07-people-2008-09-04-menglian]
+
+- id: e07-2008-kashgar-attack
+  date: 2008-08-04
+  title: 喀什袭警案
+  lane: ethnic
+  major: true
+  summary: 北京奥运开幕前四天，8月4日早晨，两名男子驾驶自卸式货车冲向正在出操的喀什公安边防支队队伍，又引爆爆炸装置、持刀行凶，造成16名干警死亡、16名受伤。警方称两人为28岁和33岁的出租车司机和菜贩，现场缴获自制爆炸装置9枚和宣扬“圣战”的宣传品。喀什官员称这是恐怖袭击，但也表示尚无充分证据断定“东伊运”是幕后主使。
+  voices:
+    - voice: official
+      text: 已造成16名干警死亡，另有16名干警受伤。
+      cite: e07-xinhua-2008-08-04-kashgar
+      quote: true
+    - voice: official
+      text: No sufficient evidence has been found to say for sure that ETIM was behind Monday's deadly attack
+      cite: e07-chinaorg-2008-08-06-kashgar
+      quote: true
+  cites: [e07-xinhua-2008-08-04-kashgar, e07-chinanews-2008-08-05-kashgar, e07-chinaorg-2008-08-06-kashgar]
+
+- id: e07-2008-xiangfen
+  date: 2008-09-08
+  end: 2008-09-14
+  title: 山西襄汾溃坝与孟学农二度下台
+  lane: society
+  major: true
+  summary: 9月8日，山西襄汾县新塔矿业公司尾矿库溃坝，泥沙流经2公里，截至14日确认254人死亡、34人受伤，调查认定是一起特别重大责任事故。9月14日中央同意孟学农引咎辞去山西省长职务，副省长张建民被免职。孟学农2003年曾因应对非典不力被免去北京市长，这是他第二次因问责下台。
+  people: [meng-xuenong]
+  cites: [e07-xinhua-2008-09-14-xiangfen, b04-bbc-2018-03-17-wang-vp]
+
+- id: e07-2008-third-plenum
+  date: 2008-10-09
+  end: 2008-10-12
+  title: 十七届三中全会推进农村改革
+  lane: econ
+  summary: 10月9日至12日，中共十七届三中全会通过《中共中央关于推进农村改革发展若干重大问题的决定》，对进一步推进农村改革发展作出全面部署。次年政府工作报告据此提出“现有土地承包关系要保持稳定并长久不变”，赋予农民更加充分而有保障的土地承包经营权，流转须坚持依法自愿有偿，并严守18亿亩耕地红线。
+  people: [hu-jintao]
+  concepts: [scientific-development]
+  cites: [e07-cpc-dsj-2008, i02-gov-2009-gwr]
+
+- id: e07-2008-chongqing-taxi-strike
+  date: 2008-11-03
+  title: 重庆出租车罢运
+  lane: society
+  summary: 11月3日，重庆市主城区发生出租车罢运，市交委派出12个工作组进驻各出租车公司，督促车辆上路营运。市委书记薄熙来随后反思说，“这次出租车停运是事出有因，政府首先要检讨我们的工作”，要研究政府哪里做得不足或有官僚主义，并承认重庆出租车“份儿钱”确实不合理，应加以调整。
+  people: [bo-xilai]
+  cites: [e07-eeo-2008-11-10-chongqing-taxi]
+
+- id: e07-2008-chen-yunlin-taipei
+  date: 2008-11-03
+  end: 2008-11-07
+  title: 陈云林首次访台与“野草莓”学运
+  lane: hkmt
+  major: true
+  summary: 11月初海协会会长陈云林访台，4日与海基会董事长江丙坤在圆山饭店会谈，签署空运、海运、邮件和食品安全四项协议。BBC称他是1949年以来到访台湾的最高级大陆官员。5日晚他出席吴伯雄晚宴时遭群众包围、受困晶华酒店，凌晨两点多才脱身；6日与马英九的会面突然提前五个小时。大学生自6日起发起“野草莓运动”，抗议行政滥权。
+  people: [chen-yunlin, ma-yingjiu]
+  voices:
+    - voice: zh
+      text: 陈云林是自1949年以来到访台湾的最高级大陆官员。
+      cite: e07-bbc-2008-11-04-chen-jiang
+      quote: true
+  cites: [e07-bbc-2008-11-04-chen-jiang, e07-bbc-2008-11-06-ma-chen, e07-wiki-wild-strawberry]
+
+- id: e07-2008-chen-shuibian-detained
+  date: 2008-11-11
+  end: 2008-11-12
+  title: 陈水扁被羁押禁见
+  lane: hkmt
+  summary: 卸任不到半年的陈水扁11月11日经检察官近七个小时侦讯后被声请收押禁见，他高举戴上手铐的双手高喊政治迫害，并誓言持续追求台湾独立。特侦组认定他涉嫌侵占公款、诈取财物、收贿及洗钱。12日台北地方法院裁定羁押禁见，他成为台湾司法史上第一位遭到收押的卸任总统。
+  people: [chen-shuibian]
+  voices:
+    - voice: zh
+      text: 陈水扁指控执政的国民党政治迫害，并誓言持续追求台湾独立。
+      cite: e07-bbc-2008-11-11-chen-arrest
+      quote: true
+  cites: [e07-bbc-2008-11-11-chen-arrest, e07-bbc-2008-11-12-chen-detained]
+
+- id: e07-2008-hu-six-points
+  date: 2008-12-31
+  title: 胡锦涛对台“六点意见”
+  lane: hkmt
+  major: true
+  summary: 12月31日，胡锦涛在纪念《告台湾同胞书》发表30周年座谈会上讲话，提出恪守一个中国、推进经济合作、弘扬中华文化、加强人员往来、维护国家主权、结束敌对状态六点意见。讲话提出两岸可以就“在国家尚未统一的特殊情况下的政治关系展开务实探讨”，并可适时就军事问题接触交流，探讨建立军事安全互信机制。
+  people: [hu-jintao]
+  voices:
+    - voice: doc
+      text: 两岸可以就在国家尚未统一的特殊情况下的政治关系展开务实探讨。
+      cite: e07-xinhua-2008-12-31-hu-speech
+      quote: true
+  cites: [e07-xinhua-2008-12-31-hu-speech, e07-chinanews-2008-12-31-hu-six]
+
+- id: e07-2009-xu-zongheng
+  date: 2009-06-08
+  end: 2011-05-09
+  title: 深圳市长许宗衡落马
+  lane: purge
+  summary: 6月8日中央纪委证实，深圳市委副书记、市长许宗衡涉嫌严重违纪，正在接受组织调查。香港《南华早报》称他因牵涉国美电器创办人黄光裕的贿赂案被调查。2011年5月9日郑州市中级法院一审认定，2001年至2009年他利用组织部长、副市长、市长等职务便利受贿共计折合3318万余元，判处死刑缓期二年执行，没收个人全部财产。
+  voices:
+    - voice: zh
+      text: 许宗衡是因为牵涉在国美电器创办人黄光裕的贿赂案而被调查的。
+      cite: e07-bbc-2009-06-08-xu-zongheng
+      quote: true
+  cites: [e07-chinanews-2009-06-08-xu-zongheng, e07-bbc-2009-06-08-xu-zongheng, e07-chinanews-2011-05-09-xu-zongheng]
+
+- id: e07-2009-deng-yujiao
+  date: 2009-05
+  end: 2009-06-16
+  title: 邓玉娇案
+  lane: society
+  summary: 湖北巴东县“邓玉娇刺死官员案”喧腾一个月后，6月16日巴东县法院一审宣判：认定邓玉娇在遭受邓、黄两人无理纠缠、拉扯推搡、言词侮辱等不法侵害下实施反击，具有防卫性质但防卫过当，构成故意伤害罪；因她主动投案自首，且经鉴定属部分（限定）刑事责任能力，免于刑事处罚，当庭释放。有律师认为舆论起了一定作用。
+  cites: [e07-voa-2009-06-16-deng-yujiao, e07-people-2009-06-16-deng-yujiao]
+
+- id: e07-2009-shishou
+  date: 2009-06-17
+  end: 2009-06-25
+  title: 湖北石首事件
+  lane: society
+  major: true
+  summary: 6月17日晚，石首永隆大酒店23岁厨师涂远高从三楼坠亡，警方称是自杀，家属认为死因可疑。19日起大约四万名市民与警察冲突，阻止警方从酒店移走尸体，并设置路障阻断交通，约两百名居民受伤。25日石首市政府称公安部和同济医学院法医认定涂远高系高坠自杀，遗书为本人所写，尸体已火化。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 认定涂远高系高坠自杀死亡
+      cite: e07-cctv-2009-06-25-shishou
+      quote: true
+    - voice: zh
+      text: 家属认为涂远高死因可疑，因为涂远高耳鼻内有干血块，但尸体落下的地方却无一点血迹。
+      cite: e07-bbc-2009-06-20-shishou
+      quote: true
+  cites: [e07-bbc-2009-06-20-shishou, e07-cctv-2009-06-25-shishou]
+
+- id: e07-2009-tonghua-steel
+  date: 2009-07-24
+  title: 吉林通钢事件
+  lane: econ
+  summary: 7月24日，吉林通钢集团部分职工在厂区聚集上访，反对河北建龙集团对通钢增资扩股，围殴建龙新派驻的通钢股份公司总经理陈国君致死（新华社事后更正此前“陈国军”的写法）。吉林省国资委当天宣布建龙集团永不参与通钢重组。中国劳工通讯的蔡崇国对BBC说，国企工人民怨多又无处申诉，此类群体性事件会越来越多、越来越暴力。
+  voices:
+    - voice: official
+      text: 反对河北建龙集团对通钢集团进行增资扩股，并将矛盾集中在建龙集团新派驻通化钢铁股份公司的总经理陈国君身上
+      cite: e07-xinhua-2009-07-31-tonghua
+      quote: true
+  cites: [e07-xinhua-2009-07-31-tonghua, e07-bbc-2009-07-27-tonghua]
+
+- id: e07-2009-chenzhou
+  date: 2009-08-14
+  title: 郴州腐败窝案终审
+  lane: purge
+  summary: 2006年下半年起，湖南郴州市委书记李大伦、市长周政坤、纪委书记曾锦春等接连落马，外界称“在监狱里可以召开市委常委会了”。曾锦春被抓后城区响起鞭炮声。8月14日湖南高院驳回上诉，维持李大伦死缓、曾锦春死刑的一审判决。李大伦案发前4年的常委会记录本“一年比一年薄”，最后只剩他一人的一句话。
+  voices:
+    - voice: official
+      text: 驳回一审被告人李大伦、曾锦春上诉，维持长沙市中级人民法院一审判决。
+      cite: e07-cctv-2009-08-14-chenzhou
+      quote: true
+  cites: [e07-cctv-2009-08-14-chenzhou, e07-moa-2009-09-chenzhou]
+
+- id: e07-2009-urumqi-syringe
+  date: 2009-09-03
+  end: 2009-09-05
+  title: 乌鲁木齐“针刺事件”与栗智被免
+  lane: ethnic
+  summary: 七五事件两个月后，乌鲁木齐发生一系列注射针头袭击事件，引发暴力抗议，9月3日抗议中五人死亡、14人受伤，数千名安全部队设卡巡逻。乌鲁木齐市委书记栗智和自治区公安厅长柳耀华随后被免职。官方称针刺事件是“严重的恐怖犯罪行为，目的是制造民族隔阂，挑起民族对立”。
+  voices:
+    - voice: official
+      text: 严重的恐怖犯罪行为，目的是制造民族隔阂，挑起民族对立
+      cite: e07-bbc-2009-09-06-li-zhi
+      quote: true
+  cites: [e07-bbc-2009-09-06-li-zhi, e07-voa-2009-09-05-li-zhi]
+
+- id: e07-2009-fourth-plenum
+  date: 2009-09-18
+  title: 十七届四中全会：党建决定与习近平未进军委
+  lane: power
+  summary: 9月18日闭幕的中共十七届四中全会审议通过《中共中央关于加强和改进新形势下党的建设若干重大问题的决定》，习近平就决定讨论稿向全会作说明。全会承认党内存在“严重削弱党的创造力、凝聚力、战斗力”的问题。外界关注习近平能否在此次全会出任中央军委副主席，但官方媒体并未公布这一消息。
+  people: [xi-jinping, hu-jintao]
+  voices:
+    - voice: doc
+      text: 党内也存在不少不适应新形势新任务要求、不符合党的性质和宗旨的问题。
+      cite: e07-cctv-2009-09-18-4th-plenum
+      quote: true
+    - voice: zh
+      text: 不过官方媒体并未公布习近平担任中共中央军委副主席的消息。
+      cite: e07-bbc-2009-09-18-4th-plenum
+      quote: true
+  cites: [e07-cctv-2009-09-18-4th-plenum, e07-bbc-2009-09-18-4th-plenum]
+
+- id: e07-2009-pudong-entrapment
+  date: 2009-10-14
+  end: 2009-10-26
+  title: 上海浦东“钓鱼执法”事件
+  lane: society
+  summary: 10月14日，上海浦东新区城管交通执法大队对来自河南的18岁青年司机孙中界进行“钓鱼”执法，事件曝光后引起舆论强烈关注。10月26日浦东新区召开记者会，承认执法中使用了“不正当取证手段”。区长姜樑说，城管局此前的错误结论“误导了公众和舆论”，并代表区政府向社会公众公开道歉。
+  concepts: [rule-of-law]
+  cites: [e07-bbc-2009-10-26-fishing]
+
+- id: e07-2009-tang-fuzhen
+  date: 2009-11
+  end: 2009-12-07
+  title: 唐福珍自焚与五学者上书
+  lane: society
+  summary: 成都拆迁户唐福珍在自家楼顶与城管执法人员对峙近三小时后，向身上倾倒汽油点火自焚，后不治身亡。12月7日，北京大学法学院姜明安、沈岿、王锡锌、钱明星和陈端洪五位学者以特快专递向全国人大常委会递交建议，认为《城市房屋拆迁管理条例》与宪法和物权法保护公民房屋的规定相抵触，请求审查并撤销或修改。
+  concepts: [rule-of-law]
+  cites: [e07-chinanews-2009-12-02-tang-fuzhen, e07-xjb-2009-12-08-five-scholars]
+
+- id: e07-2009-copenhagen
+  date: 2009-12
+  end: 2009-12-22
+  title: 哥本哈根气候大会与中英交锋
+  lane: foreign
+  summary: 12月哥本哈根气候变化大会结束后，英国气候大臣米利班德指责中国阻挠会议通过在2050年前全球减排50%、最发达国家减排80%的方案。中国外长杨洁篪则称大会取得了“重要而积极”的成果。外交部发言人姜瑜反驳说，英方指责“具有明显的政治图谋”，目的是“推卸其应该履行的对发展中国家的义务”。
+  people: [yang-jiechi]
+  cites: [e07-bbc-2009-12-21-copenhagen, e07-bbc-2009-12-22-copenhagen]
+
+- id: e07-2010-huang-songyou
+  date: 2010-01-19
+  title: 最高法院前副院长黄松有被判无期
+  lane: purge
+  summary: 1月19日，廊坊市中级法院以受贿罪、贪污罪判处最高人民法院原副院长黄松有无期徒刑。法院认定2005年至2008年他为律师陈卓伦等五人在案件审判、执行中谋利，收受钱款折合390万余元；1997年任湛江中院院长时还伙同他人骗取公款308万元，个人分得120万元。判决称他“身为最高人民法院大法官，知法犯法”。
+  concepts: [rule-of-law]
+  cites: [e07-chinadaily-2010-01-19-huang-songyou]
+
+- id: e07-2010-hukou-editorial
+  date: 2010-03-01
+  title: 13家报纸联合社论呼吁户籍改革
+  lane: ideo
+  summary: 两会前夕，13家报社3月1日联合发表“共同社论”《提请两会代表委员敦促加快户籍改革》。据香港《明报》报道，在中宣部推动下，发起此事的《经济观察报》高层受到整肃，负责起草社论的经济观察网前副总编辑张宏被解雇。《南方都市报》媒体研究院的长平认为，社论遭封杀主要是因为当局视这种表达形式为失控。
+  voices:
+    - voice: zh
+      text: 当局认为这种表达意见的形式超出了他们的控制。
+      cite: e07-bbc-2010-03-10-hukou-editorial
+      quote: true
+  cites: [e07-bbc-2010-03-10-hukou-editorial]
+
+- id: e07-2010-yushu-quake
+  date: 2010-04-14
+  end: 2010-05-30
+  title: 青海玉树地震
+  lane: society
+  summary: 4月14日青海玉树发生强烈地震。青海省政府5月底公布，截至5月30日18时，经民政、公安部门和玉树州政府核准，地震造成2698人遇难，其中已确认身份2687人、无名尸体11具，另有270人失踪；已确认身份者中玉树籍2537人、省内非玉树籍54人、外省籍96人，遇难学生199人。
+  cites: [e07-embassy-2010-05-31-yushu]
+
+- id: e07-2010-foxconn-suicides
+  date: 2010-01
+  end: 2010-06-02
+  title: 富士康连环跳楼
+  lane: society
+  major: true
+  summary: 2010年上半年，深圳富士康员工接连跳楼，BBC 5月27日称半年多内已有13人自杀。郭台铭否认这与工作压力和企业管理有关，归咎于大陆年轻人心理承受能力不够；劳工组织SACOM指富士康工会主席就是郭台铭的秘书。6月鸿海宣布为富士康在中国的员工加薪30%，BBC此时称当年已发生12起员工自杀事件、其中10人身亡。
+  cites: [e07-bbc-2010-05-27-foxconn, e07-bbc-2010-06-02-foxconn]
+
+- id: e07-2010-nanhai-honda-strike
+  date: 2010-05
+  end: 2010-06-04
+  title: 南海本田罢工
+  lane: society
+  summary: 5月广东南海本田零部件厂中国工人罢工，公开信要求加薪800元并重新选举工会主席，称中国员工月薪约1500元，日籍员工却有5万元。工人推选16人谈判代表团，广汽集团总经理曾庆洪和人民大学教授常凯居间斡旋，6月4日劳资政三方达成协议，工资提高34%，每月约增加500元，但“重整工会”诉求没有结果。业界预计珠三角将面临加薪潮。
+  cites: [e07-bbc-2010-05-28-honda, e07-wenweipo-2010-06-06-honda]
+
+- id: e07-2010-xinjiang-forum
+  date: 2010-05-17
+  end: 2010-05-19
+  title: 首次中央新疆工作座谈会
+  lane: ethnic
+  major: true
+  summary: 七五事件后，中共中央、国务院5月17日至19日召开新疆工作座谈会，胡锦涛称新疆工作具有特殊重要的战略地位，提出到2015年新疆人均地区生产总值达到全国平均水平。中央决定在新疆率先把原油、天然气资源税由从量计征改为从价计征，对困难地区企业给予“两免三减半”所得税优惠。此前3月已确定19个省市对口援疆。
+  people: [hu-jintao, wen-jiabao]
+  cites: [e07-xinhua-2010-05-20-xinjiang-forum, e07-cnr-2010-06-23-aid-xinjiang]
+
+- id: e07-2010-hk-political-reform
+  date: 2010-06-21
+  end: 2010-06-25
+  title: 香港2012政改方案通过
+  lane: hkmt
+  summary: 6月21日，特区政府宣布接纳民主党提出的“1人两票”改良方案，2012年新增的5个功能界别议席改由区议会功能组别产生。立法会随后表决，60名议员中有46人支持、12人反对，困扰香港政界多年的政改方案终获通过。这是2007年全国人大常委会决定普选时间表后，香港首次通过政制改革方案。
+  people: [zeng-yinquan]
+  cites: [e07-hkgov-2010-06-21-tsang, e07-bbc-2010-06-25-hk-reform, e07-bbc-2007-12-29-hk-2017]
+
+- id: e07-2010-hanoi-arf
+  date: 2010-07-23
+  end: 2010-07-25
+  title: 河内东盟地区论坛南海交锋
+  lane: foreign
+  summary: 在河内举行的东盟地区论坛外长会议上，美国国务卿克林顿大谈南海与美国国家利益的关系，称亚洲公海的进出权与自由航运权关系到美国的国家利益，并反对在南海问题上“胁迫”。杨洁篪随后发表谈话，称这种讲话“实际上是在攻击中国”，并警告美国不要把南海问题多边化与国际化。
+  people: [yang-jiechi]
+  voices:
+    - voice: official
+      text: 这种貌似公允的讲话实际上是在攻击中国
+      cite: e07-mfa-2010-07-25-yang-hanoi
+      quote: true
+    - voice: zh
+      text: 拥有在亚洲公海的进出权与自由航运权关系到美国的国家利益
+      cite: e07-bbc-2010-07-25-yang-hanoi
+      quote: true
+  cites: [e07-mfa-2010-07-25-yang-hanoi, e07-bbc-2010-07-25-yang-hanoi]
+
+- id: e07-2010-yihuang
+  date: 2010-09-10
+  end: 2011-12
+  title: 江西宜黄强拆自焚事件
+  lane: society
+  summary: 9月10日，江西宜黄县凤冈镇因拆迁发生自焚事件，3人重伤，79岁的叶忠诚18日死亡。事后县委书记邱建国率队在机场拦截欲赴京受访的拆迁户家属，县长苏建国率人到医院抢夺死者尸体，舆论哗然。两人先被立案调查，10月被免职；2011年12月新华社报道两人已复出，网民批评调查没有下文就复出是对民意的漠视。
+  voices:
+    - voice: official
+      text: 在曾经的“立案调查”没有下文的情况下，就让被免职官员复出，这是对民意的漠视。
+      cite: e07-dzwww-2011-12-06-yihuang
+      quote: true
+  cites: [e07-xinhua-2010-09-18-yihuang, e07-chinanews-2010-10-10-yihuang, e07-dzwww-2011-12-06-yihuang]
+
+- id: e07-2010-jiaozhou-fire
+  date: 2010-11-15
+  end: 2011-06-09
+  title: 上海胶州路公寓大火
+  lane: society
+  summary: 11月15日，上海静安区胶州路728号公寓大楼起火，造成58人死亡、71人受伤，直接经济损失1.58亿元。国务院调查组认定，节能改造施工中有人违规在10层窗外电焊，熔融物引燃9层脚手架上的聚氨酯保温材料；建设、投标、招标代理单位相互串通、虚假招标和违法分包。2011年6月对54名责任人作出处理，其中26人被移送司法机关。
+  people: [yu-zhengsheng, han-zheng]
+  cites: [e07-ce-2011-06-10-jiaozhou]
+
+- id: e07-2010-qian-yunhui
+  date: 2010-12-25
+  end: 2011-02-01
+  title: 浙江乐清钱云会之死
+  lane: society
+  summary: 12月25日，53岁的乐清蒲岐镇寨桥村前村委会主任钱云会被车碾压致死。他多年坚持为村民上访，抗议土地被强征用于修建电厂，死讯引发谋杀质疑。温州警方按交通肇事和命案两套程序侦查，宣布完全排除“谋杀”可能。2011年2月1日司机费良玉以交通肇事罪被判3年半，BBC引述记者说判决仍难以消除人们的疑问。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 乐清蒲岐“12·25”案件完全排除“谋杀”可能,认定为交通肇事案件。
+      cite: e07-chinanews-2010-12-30-qian-yunhui
+      quote: true
+    - voice: zh
+      text: 从法律角度，没有证据证明钱云会是被谋杀的，但是法庭的判决仍难以消除人们的疑问。
+      cite: e07-bbc-2011-02-01-qian-yunhui
+      quote: true
+  cites: [e07-chinanews-2010-12-30-qian-yunhui, e07-bbc-2011-02-01-qian-yunhui]
+
+- id: e07-2011-libya-evacuation
+  date: 2011-02-22
+  end: 2011-03-05
+  title: 利比亚大撤侨
+  lane: foreign
+  major: true
+  summary: 利比亚局势动荡后，中国政府在12天内调派91架次民航包机、12架次军机、5艘货轮和1艘军舰，租用35架次外航包机、11艘次外籍邮轮和100余班次客车，共撤出35860人，全部回国。外交部官员称这是新中国历史上最大规模的有组织撤侨，首次采用海陆空联动、首次把人员摆渡至第三国再撤回国。
+  voices:
+    - voice: official
+      text: 这是新中国历史上最大规模的、有组织的撤离海外中国公民行动
+      cite: e07-chinanews-2011-03-07-libya
+      quote: true
+  cites: [e07-chinanews-2011-03-07-libya]
+
+- id: e07-2011-zengcheng
+  date: 2011-06-10
+  end: 2011-06-13
+  title: 广东增城新塘事件
+  lane: society
+  summary: 6月，四川籍孕妇王联梅在增城新塘镇街头摆卖时遭驱赶，引发外来民工连续三晚骚乱，至少25人被捕，当地派驻大批军警戒备。市长叶牛平称这是“个别群众与治保人员纠纷引发的聚众滋事事件”，王联梅丈夫也出面说妻子和胎儿“都没事”；但外省民工控诉当地治安队长期勒索保护费、借故殴打外省民工。
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 个别群众与治保人员纠纷引发的聚众滋事事件
+      cite: e07-bbc-2011-06-13-zengcheng
+      quote: true
+    - voice: zh
+      text: 当地外省民工控诉称，地方治安队长期对商户小贩勒索保护费，并借故殴打外省民工，引起民愤。
+      cite: e07-bbc-2011-06-13-zengcheng
+      quote: true
+  cites: [e07-bbc-2011-06-13-zengcheng]
+
+- id: e07-2011-lai-changxing
+  date: 2011-07-23
+  title: 赖昌星被加拿大遣返
+  lane: purge
+  summary: 厦门特大走私案首要嫌犯赖昌星1999年8月自香港潜逃加拿大并申请难民资格，被驳回后，7月23日被遣返回国，公安机关在首都机场向他宣布逮捕令。最高法院2007年曾表示，承诺不判他死刑是国际合作缉捕的必要条件。BBC引述分析称，曾主政福建的贾庆林会特别受到关注，但评论人刘锐绍认为当局对远华案已经划线。
+  people: [jia-qinglin]
+  voices:
+    - voice: official
+      text: 承诺不判处赖昌星死刑，是国际合作途径缉捕赖昌星的必要条件
+      cite: e07-gov-2007-03-13-lai-no-death
+      quote: true
+    - voice: zh
+      text: 中共已有对远华案划线的做法，即副部级以上的高官不受牵连
+      cite: b02-bbc-2011-07-22-lai-politics
+      quote: true
+  cites: [e07-xinhua-2011-07-23-lai, e07-gov-2007-03-13-lai-no-death, b02-bbc-2011-07-22-lai-politics]
+
+- id: e07-2011-dalian-px
+  date: 2011-08-14
+  end: 2011-08-15
+  title: 大连PX“集体散步”
+  lane: society
+  major: true
+  summary: 8月初台风“梅花”冲垮大连福佳大化石化厂的防波堤，民众担心有毒的对二甲苯（PX）泄漏。网上呼吁“集体散步”后，8月14日新华社称12000多名市民上街，在市政府前要求工厂搬出大连。市委书记唐军到广场对话并承诺搬迁，但群众不为所动。路透社称次日工厂不顾禁令照常运转。2007年厦门PX抗议也以取消建厂告终。
+  concepts: [stability-maintenance]
+  cites: [e07-bbc-2011-08-14-dalian, e07-bbc-2011-08-15-dalian]
+
+- id: e07-2011-mekong-massacre
+  date: 2011-10-05
+  end: 2013-03-01
+  title: 湄公河惨案
+  lane: foreign
+  summary: 10月5日，两艘中国货船在湄公河金三角水域遭武装人员袭击，13名中国船员遇害。泰国警察总监28日说，泰国陆军第三军区的9名军人涉嫌此案正在接受调查，但这些军人拒不承认谋杀和毁坏物证的指控。2013年3月1日，昆明市中级法院对糯康等四名湄公河案罪犯执行死刑。
+  voices:
+    - voice: official
+      text: 负责泰国北部防务的泰国陆军第三军区的９名军人因涉嫌“１０·５”中国船员遇害案正在接受调查。
+      cite: e07-gov-2011-10-29-mekong
+      quote: true
+    - voice: zh
+      text: 9名泰国军人的归案并未使得惨案的真相大白于天下，反倒使案件早先的几个疑点更为突出。
+      cite: e07-bbc-2011-10-29-mekong
+      quote: true
+  cites: [e07-gov-2011-10-29-mekong, e07-bbc-2011-10-29-mekong, e07-cyol-2013-03-02-naw-kham]
+
+- id: e07-2011-sixth-plenum
+  date: 2011-10-18
+  title: 十七届六中全会提出“文化强国”
+  lane: ideo
+  summary: 10月18日闭幕的中共十七届六中全会审议通过《中共中央关于深化文化体制改革、推动社会主义文化大发展大繁荣若干重大问题的决定》，李长春向全会作说明。全会提出以建设社会主义核心价值体系为根本任务，培养文化自觉和文化自信，增强国家文化软实力，“努力建设社会主义文化强国”。
+  people: [li-changchun, hu-jintao]
+  concepts: [scientific-development]
+  cites: [e07-cppcc-2011-10-18-6th-plenum]
+
+- id: e07-2012-wu-ying
+  date: 2012-03-14
+  end: 2012-04-20
+  title: 吴英集资诈骗案死刑复核
+  lane: econ
+  summary: 浙江吴英集资诈骗案死刑复核期间引起广泛关注。3月14日温家宝答记者问说，“这件事情反映了民间金融的发展与我们经济社会发展的需求还不适应”，表示要允许民间资本进入金融领域，并透露温州民间金融正被考虑作为综合改革试点。4月20日最高法院裁定不核准吴英死刑，发回浙江高院重审。
+  people: [wen-jiabao]
+  voices:
+    - voice: official
+      text: 吴英归案后，如实供述所犯罪行，并供述了其贿赂多名公务人员的事实，综合全案考虑，对吴英判处死刑，可不立即执行。
+      cite: e07-court-2012-04-20-wu-ying
+      quote: true
+  cites: [e07-xinhua-2012-03-14-wen-wu-ying, e07-court-2012-04-20-wu-ying]
+
+- id: e07-2012-beijing-rainstorm
+  date: 2012-07-21
+  end: 2012-08-06
+  title: 北京“7·21”特大暴雨
+  lane: society
+  summary: 7月21日北京遭遇特大暴雨山洪泥石流灾害，房山区为重灾区。官方7月22日通报死亡37人，25日的新闻会拒绝公布新的伤亡数字，引起媒体和网民批评，网上有死亡超过300人的说法。7月26日北京市防汛办改称发现77具遇难者遗体，8月6日遇难者总数升至79人。
+  voices:
+    - voice: zh
+      text: 中国媒体和网民批评北京官方周三（7月25日）晚上就暴雨发布的新闻会拒绝公布新的伤亡数字。
+      cite: e07-bbc-2012-07-26-beijing-rain
+      quote: true
+  cites: [e07-chinanews-2012-08-06-beijing-rain, e07-bbc-2012-07-26-beijing-rain]
+
+- id: e07-2012-tang-hui
+  date: 2012-08-02
+  end: 2012-08-10
+  title: 唐慧被劳教引发舆论
+  lane: society
+  summary: 湖南永州唐慧的女儿被强奸和强迫卖淫，她为指控民警包庇、要求判处被告人死刑，多次到法院和有关单位上访。8月2日永州市劳教委以扰乱社会秩序为由对她劳动教养一年六个月，永州公安微博的说明转发评论逼近七万，几乎一边倒批评。湖南省委政法委派出调查组，省劳教委复议后撤销了这一劳教决定。
+  concepts: [stability-maintenance, rule-of-law]
+  cites: [e07-people-2012-08-10-tang-hui, e07-bbc-2012-08-10-tang-hui]
+
+- id: e07-2012-mo-yan-nobel
+  date: 2012-10-11
+  end: 2012-10-12
+  title: 莫言获诺贝尔文学奖
+  lane: ideo
+  summary: 10月11日莫言获诺贝尔文学奖。李长春致贺信，称这“也是我国综合国力和国际影响力不断提升的体现”；外交部发言人说莫言“文学造诣有目共睹”，同时重申两年前坚决反对把和平奖授予刘晓波。香港《明报》称两人际遇有天壤之别；莫言的中国作协副主席背景也引发争议，反对者认为他对压抑创作自由负有重大责任。
+  people: [li-changchun, liu-xiaobo]
+  voices:
+    - voice: official
+      text: 也是我国综合国力和国际影响力不断提升的体现
+      cite: e07-xinhua-2012-10-12-li-changchun
+      quote: true
+    - voice: zh
+      text: 一些反对莫言获奖的中国人士认为他对压抑创作自由负有重大责任，没有资格获奖。
+      cite: e07-bbc-2012-10-12-mo-yan-hk
+      quote: true
+  cites: [e07-xinhua-2012-10-12-li-changchun, e07-gov-2012-10-12-mo-yan, e07-bbc-2012-10-12-mo-yan-hk]
+
+- id: e07-2012-ningbo-px
+  date: 2012-10
+  end: 2012-10-28
+  title: 宁波镇海PX抗议
+  lane: society
+  summary: 10月下旬，宁波市民抗议镇海炼化一体化项目中的PX装置，示威者高举“PX滚出宁波”标语，高喊要求市长刘奇辞职，与在场的300多名警察发生冲突，一些人被带走。10月28日宁波市政府宣布，经与投资方研究决定“坚决不上PX项目”，炼化一体化项目前期工作停止推进，再作科学论证。
+  concepts: [stability-maintenance]
+  cites: [e07-cnnb-2012-10-28-ningbo, e07-bbc-2012-10-27-ningbo]

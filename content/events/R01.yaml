@@ -1,0 +1,1034 @@
+# R01 传闻专项：北戴河会议、健康传闻、政变与权斗传闻、家族财富。
+# 传闻来源在 research/manifests/R01.yaml 中标 rumor: true；summary 首句交代放话者。
+
+# ---------- 北戴河 ----------
+- id: r01-2003-beidaihe-cancelled
+  date: 2003-08
+  title: 胡锦涛取消北戴河暑期办公
+  lane: power
+  summary: '香港《文汇报》2003年8月报道，中共中央、国务院、全国人大、全国政协和中央军委五大领导系统当年夏天不到北戴河办公，港媒多解读为胡锦涛简朴务实的新作风。大纪元转载美国之音报道，刘晓波认为此举有使党内议事正规化、制度化的打算；北京作家于杰则提醒海外不必对此评价过高。'
+  people: [hu-jintao, wen-jiabao]
+  voices:
+    - voice: zh
+      text: '文汇报说，中央已决定，中共中央、国务院、全国人大、全国政协及中央军委五大领导系统，今年夏季将不到北戴河办公，中央各部委负责人在此期间外出和休假，均需严格按照有关规定执行，不得擅去北戴河等避暑胜地。'
+      cite: r01-voa-2003-08-15-beidaihe
+      quote: true
+    - voice: zh
+      text: '那么，胡锦涛把它取消，有这方面的打算，使中共党内议事规则，程序方面更加正规化、制度化。'
+      cite: r01-epoch-2003-08-06-beidaihe
+      quote: true
+    - voice: zh
+      text: '特别是海外不可因此给胡锦涛太高的评价，这固然有他务实的一面，对一个有思路和大气派的政治家来说，这些事并不是最重要的，海外不可对这些小事做无限的扩大。'
+      cite: r01-voa-2003-08-15-beidaihe
+      quote: true
+    - voice: zh
+      text: '但胡锦涛执政后，2003年已宣布中央五大班子不到北戴河办公，现任总书记习近平上台后，更弱化了北戴河的政治功能。'
+      cite: r01-rfi-2021-08-04-beidaihe
+      quote: true
+  cites: [r01-voa-2003-08-15-beidaihe, r01-epoch-2003-08-06-beidaihe, r01-rfi-2021-08-04-beidaihe]
+
+- id: r01-2007-beidaihe-jiang-criticised
+  date: 2007-07-15
+  end: 2007-08
+  title: 传北戴河会议重开、江泽民遭元老批评
+  lane: power
+  summary: '香港《争鸣》月刊2007年8月报道，退休高干7月15日在北戴河开组织生活会，乔石、尉健行等严厉批评江泽民，大纪元转载。《动向》杂志另称建军节后党政军要人赴北戴河开会敲定十七大人事，但评论人张伟国认为在北京西山开会的可能性更大。这些说法都没有官方证实；林保华2011年撰文称北戴河会议2007年重开，便于江泽民发挥影响力。'
+  people: [jiang-zemin, wei-jianxing, li-ruihuan, hu-jintao, zeng-qinghong]
+  voices:
+    - voice: zh
+      text: '七月十五日，已退休高干在北戴河召开了今年第三次组织生活会议。乔石、尉健行等对江泽民下台后种种忘乎所以的丑态给予严厉的批评，使江恼羞成怒。'
+      cite: r01-epoch-2007-08-10-zhengming
+      quote: true
+    - voice: zh
+      text: '張偉國認為，因此，胡對北京地區的控制遠遠超過對河北的控制。任何重大決策在北京做比北戴河的安全係數都要高。所以，北京西山會議可能性大一些，而北戴河會議很可能是外界依照原來的思維定勢所作的推測。'
+      cite: r01-epoch-2007-08-17-dongxiang
+      quote: true
+    - voice: zh
+      text: '不论怎样，北戴河会议停了4年后，在2007年重开，因为那年秋天召开17大，需要做最后的人事安排，利用这个会议便于江泽民发挥影响力'
+      cite: r01-rfa-2011-08-10-lin-baohua
+      quote: true
+  cites: [r01-epoch-2007-08-10-zhengming, r01-epoch-2007-08-17-dongxiang, r01-rfa-2011-08-10-lin-baohua]
+
+- id: r01-2011-beidaihe-revived
+  date: 2011-08
+  title: 林保华：北戴河会议“死去活来”
+  lane: power
+  summary: '评论人林保华2011年8月在自由亚洲电台撰文，称境外媒体揭露副总理张德江在温州动车事故现场停留约4小时后赶回北戴河，为争取十八大入常而斗争。他推测当年北戴河会议破例召开，可能与江泽民7月初被误报死讯有关，但这只是推测。自由亚洲电台2020年另一篇报道则称该制度直到2012年才恢复，两种说法不一。'
+  people: [zhang-dejiang, jiang-zemin, hu-jintao]
+  voices:
+    - voice: zh
+      text: '此后又没有北戴河会议的消息，一直到今年7月23日发生追撞事故，副总理张德江24日在温州现身4个小时，下达尽快通车的命令后就匆匆离开，被境外媒体揭露，原来赶回北戴河，为争取18大进入政治局常委而斗争。'
+      cite: r01-rfa-2011-08-10-lin-baohua
+      quote: true
+    - voice: zh
+      text: '然而今年却破例召开，这个“死去活来”是否与江泽民7月初的“死去活来”有关？'
+      cite: r01-rfa-2011-08-10-lin-baohua
+      quote: true
+    - voice: zh
+      text: '2002年胡锦涛出任中共中央总书记后，该制度曾一度被废除十年之久，直至2012年习近平出任总书记后才重新恢复。'
+      cite: r01-rfa-2020-08-10-beidaihe
+      quote: true
+  cites: [r01-rfa-2011-08-10-lin-baohua, r01-rfa-2020-08-10-beidaihe]
+
+- id: r01-2012-beidaihe-succession
+  date: 2012-08-03
+  title: 外媒：北戴河会议敲定交接与薄熙来处置
+  lane: power
+  major: true
+  summary: '英国《金融时报》2012年8月5日报道，中共领导层正在北戴河开会，最后敲定向新一代领导人交接权力的计划；日本《朝日新闻》《产经新闻》等称新旧常委陆续抵达，薄熙来的处置是焦点。新唐人引述《朝日新闻》称会上准备剥夺薄熙来的人大代表资格，胡锦涛派系占了优势。官方只报道习近平在北戴河会见专家；台湾《上报》后来还流传胡锦涛不悦离场的说法。'
+  people: [hu-jintao, xi-jinping, jiang-zemin, bo-xilai, li-yuanchao, liu-yandong, ling-jihua]
+  factions: [tuanpai, jiang-shanghai]
+  voices:
+    - voice: zh
+      text: '英国《金融时报》周日（5日）报道，中共领导阶层正在北戴河开会，这次保密性及高的会议预计进行1个月，将最后敲定向新一代领导人交接权力的计划。'
+      cite: r01-bbc-2012-08-05-beidaihe
+      quote: true
+    - voice: zh
+      text: '而右派报纸《产经新闻》则以“权力斗争的舞台走向司法”为题，引述中共消息来源称，北戴河会议上，前重庆市委书记薄熙来的处置问题是一大焦点。'
+      cite: r01-bbc-2012-08-07-jp-beidaihe
+      quote: true
+    - voice: zh
+      text: '报导说，剥夺薄熙来党籍的决定，显示了在北戴河中共为十八大推出新领导层的权力斗争中，胡锦涛派系占了优势，而处于下风的江泽民派系虽试图以处分问题让步做筹码，换取新领导层人事妥协，但看来江泽民一派已显示其凝聚力低下。'
+      cite: r01-ntdtv-2012-08-26-beidaihe
+      quote: true
+    - voice: zh
+      text: '据中共官方中央电视台报道，国家副主席习近平在北戴河接见官员和针对经济改革向政府提供建言的学者。'
+      cite: r01-bbc-2012-08-05-beidaihe
+      quote: true
+    - voice: zh
+      text: '在8月的北戴河会议，江泽民与时任中共总书记胡锦涛围绕着十八大人事安排的斗争到了白热化阶段，最后胡锦涛不悦，离开北戴河会议会场。'
+      cite: r01-secretchina-2021-08-05-beidaihe
+      quote: true
+  cites: [r01-bbc-2012-08-05-beidaihe, r01-bbc-2012-08-07-jp-beidaihe, r01-ntdtv-2012-08-26-beidaihe, r01-secretchina-2021-08-05-beidaihe]
+
+- id: r01-2013-beidaihe-zhou-decision
+  date: 2013-08-30
+  title: 《南华早报》：北戴河会议敲定调查周永康
+  lane: power
+  summary: '香港《南华早报》2013年8月30日引述消息人士称，中共在刚结束的北戴河会议上敲定对周永康展开调查，BBC中文网转述；新唐人还称习近平亲自下令官员彻查到底。官方直到2014年7月29日才宣布对周永康立案审查，北戴河会上是否作出这一决定从未得到官方说明。'
+  people: [zhou-yongkang, xi-jinping]
+  voices:
+    - voice: zh
+      text: '《南华早报》的消息人士称，有鉴于中共党内对周永康家族敛财之巨已达怒火中烧的地步，出席北戴河会议的新旧中共领导人决定对他进行调查。'
+      cite: r01-bbc-2013-08-30-zhou
+      quote: true
+    - voice: zh
+      text: '习近平亲自下令官员“彻查到底”。'
+      cite: r01-ntdtv-2013-08-30-zhou
+      quote: true
+    - voice: zh
+      text: '据信，2013年的北戴河会议就做出拿下周永康的决定。'
+      cite: r01-voa-2014-08-11-beidaihe
+      quote: true
+    - voice: official
+      text: '鉴于周永康涉嫌严重违纪，中共中央决定，依据《中国共产党章程》和《中国共产党纪律检查机关案件检查工作条例》的有关规定，由中共中央纪律检查委员会对其立案审查。'
+      cite: b03-gov-2014-07-29-zhou-probe
+      quote: true
+  cites: [r01-bbc-2013-08-30-zhou, r01-ntdtv-2013-08-30-zhou, r01-voa-2014-08-11-beidaihe, b03-gov-2014-07-29-zhou-probe]
+
+- id: r01-2014-beidaihe-zhou-announced
+  date: 2014-07-30
+  end: 2014-08
+  title: 港媒：北戴河会议前公布周永康案为“封口”
+  lane: power
+  summary: '香港中通社和《明报》2014年7月30日引述消息人士称，当局选在北戴河会议前公布周永康案，是为排除元老干扰、主导会议议题，法广转述。美国之音8月报道引述何频称退休元老会借北戴河反扑，鲍彤则认为拿下周永康巩固了习近平的威望。北戴河是否开会、讨论什么，官方均未披露。'
+  people: [zhou-yongkang, xi-jinping, wang-qishan]
+  voices:
+    - voice: zh
+      text: '中国半官方的香港中通社30日在其“北京观察”专栏引述消息人士披露，中纪委对周永康的调查已历时许久，而选在今年的北戴河会议之前公布蕴含深意，“有助于使北戴河会议排除干扰、集中讨论重要议题”。'
+      cite: r01-rfi-2014-07-31-beidaihe
+      quote: true
+    - voice: scholar
+      text: '他相信这不是一个妥协的结果，而是对决的结果。'
+      cite: r01-rfi-2014-07-31-beidaihe
+      quote: true
+    - voice: zh
+      text: '政治局常委退休来的元老们会利用北戴河的机会来进行反扑。'
+      cite: r01-voa-2014-08-11-beidaihe
+      quote: true
+    - voice: zh
+      text: '他说，反腐败必然会遇到很大阻力，习近平主席力主拿下周永康，展示了他的魄力和决心，巩固了他在党内的威望。'
+      cite: r01-voa-2014-08-11-beidaihe
+      quote: true
+  cites: [r01-rfi-2014-07-31-beidaihe, r01-voa-2014-08-11-beidaihe]
+
+- id: r01-2015-beidaihe-no-meeting
+  date: 2015-08
+  title: “北戴河无会”与《人民日报》“人走茶凉”评论
+  lane: power
+  major: true
+  summary: '2015年8月初，微信文章《别等了，北戴河无会》称当年不开北戴河会议，《纽约时报》报道北京的流言说习近平不想给“老同志”参与政事的机会。8月10日《人民日报》刊文批评一些干部退下多年仍不愿撒手，美国之音、大纪元引述分析人士解读为影射江泽民；大纪元还转述放风消息说江泽民提前到了北戴河却少有人登门。官方文章没有点名任何人。'
+  people: [xi-jinping, jiang-zemin, liu-yunshan, li-yuanchao]
+  voices:
+    - voice: zh
+      text: '其中一个传言是，习近平今年不想开北戴河会议，因为他不想给“老同志”提供参与政事的机会。'
+      cite: r01-nytcn-2015-08-07-beidaihe
+      quote: true
+    - voice: official
+      text: '然而，也有的领导干部不仅在位时安插“亲信”，为日后发挥“余权”创造条件；而且退下多年后，对原单位的重大问题还是不愿撒手。'
+      cite: r01-people-2015-08-10-renzou
+      quote: true
+    - voice: zh
+      text: '许多分析人士认为，这一波媒体动向，矛头直指江泽民。'
+      cite: r01-voa-2015-08-14-renzou
+      quote: true
+    - voice: zh
+      text: '8月初，也有放风消息称，江泽民提前到了北戴河，不过比往年反常的是，他已在那里住了好几天，却少有登门拜访者。'
+      cite: r01-epoch-2015-08-12-beidaihe
+      quote: true
+  cites: [r01-nytcn-2015-08-07-beidaihe, r01-people-2015-08-10-renzou, r01-voa-2015-08-14-renzou, r01-epoch-2015-08-12-beidaihe]
+
+- id: r01-2016-beidaihe-19th-personnel
+  date: 2016-08
+  title: 北戴河会议商议十九大人事的传闻
+  lane: power
+  summary: '法新社和香港《东方日报》2016年8月称，北戴河会议将讨论十九大后的常委人选、王岐山留任乃至习近平任期，新唐人转述并引用废除政治局常委会的流传说法。《联合早报》引述北京人士称，北戴河只是非正式的“休假式聚会”，即使涉及人事也只是初步“酝酿”。'
+  people: [xi-jinping, wang-qishan, liu-yunshan]
+  voices:
+    - voice: zh
+      text: '据法新社昨天报道，这次北戴河会议可能讨论十九大后中共政治局常委会组成人选，习近平作为中共总书记的任期有可能超过10年。'
+      cite: r01-zaobao-2016-08-10-beidaihe
+      quote: true
+    - voice: zh
+      text: '文章表示，如果北京当局真的如外界早前流传的说法，废除政治局常委会这一层级，做大中央书记处，那么“王岐山留任及立储问题都迎刃而解”。'
+      cite: r01-ntdtv-2016-08-04-beidaihe
+      quote: true
+    - voice: zh
+      text: '今年的北戴河会议即使涉及人事议题，也只是初步“酝酿”，不可能今年就敲定明年十九大的人事安排。'
+      cite: r01-zaobao-2016-08-10-beidaihe
+      quote: true
+  cites: [r01-zaobao-2016-08-10-beidaihe, r01-ntdtv-2016-08-04-beidaihe]
+
+- id: r01-2017-beidaihe-wang-qishan
+  date: 2017-08
+  title: 日媒报道王岐山不在十九大常委名单
+  lane: power
+  summary: '2017年8月北戴河会期后，日本两家有影响的媒体先后报道王岐山将退出政治局常委会，美国之音节目中陈奎德、章立凡认为报道有相当准确性，但强调要等十九大名单。学者吴国光此前对美国之音说，郭文贵的爆料使王岐山去留仍有变数。'
+  people: [wang-qishan, xi-jinping, guo-wengui, han-zheng, chen-miner]
+  voices:
+    - voice: zh
+      text: '日本有影响的两家媒体分别推出王岐山政治局常委出局的报道之后，引发中国海内外各界对北京权力博弈的强烈关注'
+      cite: r01-voa-2017-08-28-wang-qishan
+      quote: true
+    - voice: scholar
+      text: '但章立凡再次强调，这不是最终的结果，最终结果还是要等十九大名单出来。'
+      cite: r01-voa-2017-08-28-wang-qishan
+      quote: true
+    - voice: scholar
+      text: '另外，他还说，由于中国富商郭文贵的爆料，王岐山的去留仍有变数。'
+      cite: r01-voa-2017-08-09-wu-guoguang
+      quote: true
+  cites: [r01-voa-2017-08-28-wang-qishan, r01-voa-2017-08-09-wu-guoguang]
+
+- id: r01-2018-beidaihe-trade-war
+  date: 2018-08-06
+  title: 路透社：贸易战致北戴河会议出现裂痕
+  lane: power
+  summary: '路透社2018年8月9日引述两名消息人士称，美中贸易战升温使中共党内出现裂痕，反弹矛头可能指向王沪宁，自由亚洲电台转述，并注意到王沪宁没有露面会见专家。台湾《上报》后来罗列的秘闻里还有元老逼宫、网上推汪洋代习的说法。这些说法都没有官方证实。'
+  people: [wang-huning, xi-jinping, wang-yang, chen-xi, hu-chunhua]
+  voices:
+    - voice: zh
+      text: '据路透社8月9日报道引述两名熟悉领导圈子的消息人士透露，中国政府高层已感受到这股强烈反弹，反弹的矛头很可能指向习近平的亲密助手、操盘意识形态与战略的政治局常委王沪宁。'
+      cite: r01-rfa-2018-08-10-beidaihe
+      quote: true
+    - voice: zh
+      text: '但接替刘云山的王沪宁，这次没有露面，引起外界揣测。'
+      cite: r01-rfa-2018-08-09-beidaihe
+      quote: true
+    - voice: zh
+      text: '于是北戴河会议再度爆出元老逼宫消息，网上出现“大海（指汪洋）领军”的暗号，要推汪洋代替习。'
+      cite: r01-secretchina-2021-08-05-beidaihe
+      quote: true
+    - voice: zh
+      text: '据新华社报道，邀请专家暑期到北戴河休假，是党和国家重视和关心专家人才的一项制度性安排。'
+      cite: r01-rfa-2018-08-10-beidaihe
+      quote: true
+  cites: [r01-rfa-2018-08-10-beidaihe, r01-rfa-2018-08-09-beidaihe, r01-secretchina-2021-08-05-beidaihe]
+
+- id: r01-2019-beidaihe-hong-kong
+  date: 2019-08
+  title: 北戴河会议讨论香港“反送中”的传闻
+  lane: power
+  summary: '香港《苹果日报》《明报》和评论人陈破空等2019年8月称，北戴河会议上元老与习近平在香港问题上有分歧，会后中南海决定暂时“按兵不动”，看中国汇总转载，并承认这些消息“真假难辨”。自由亚洲电台会前引述评论称，香港问题会被放在首位。官方没有披露会议内容。'
+  people: [xi-jinping, wang-huning]
+  voices:
+    - voice: zh
+      text: '有未经证实的最新消息称，习近平一返回北京，马上急令一特别小组赶赴香港，传达北戴河会议上有关对香港的最高指令称“中南海已达成共识暂时‘按兵不动’”。'
+      cite: r01-kzg-2019-08-20-beidaihe
+      quote: true
+    - voice: zh
+      text: '其中政治老人都不赞成对香港动武和镇压。'
+      cite: r01-kzg-2019-08-20-beidaihe
+      quote: true
+    - voice: zh
+      text: '在中共密室政治之下，北戴河会议内斗消息纷纭，真假难辨。'
+      cite: r01-kzg-2019-08-20-beidaihe
+      quote: true
+    - voice: zh
+      text: '不少评论都认为，鉴于当前香港的紧张局势，北戴河会议将把如何处理好香港问题放在首位。'
+      cite: r01-rfa-2019-07-31-beidaihe
+      quote: true
+  cites: [r01-kzg-2019-08-20-beidaihe, r01-rfa-2019-07-31-beidaihe]
+
+- id: r01-2020-beidaihe-quiet
+  date: 2020-08-01
+  title: 疫情下“最短”的北戴河会议
+  lane: power
+  summary: '自由亚洲电台2020年8月引述消息来源称，当年北戴河会议是六十多年来最短的一次，去的离休干部明显减少且谨言慎行，会议决定确保经济运行和美中关系稳定。有评论称各派想借经济衰退逼最高层让位，但受访学者认为这些意见汇聚成力量的可能性不大。'
+  people: [xi-jinping, li-zhanshu]
+  voices:
+    - voice: zh
+      text: '据说这是六十多年来中共最短的一次北戴河会议，不少官员受疫情困扰，没有前往北戴河。'
+      cite: r01-rfa-2020-08-10-beidaihe
+      quote: true
+    - voice: zh
+      text: '据海外知情人士说，此次会议期间，中共高层主要讨论国内经济形势和中美两国关系发展。'
+      cite: r01-rfa-2020-08-10-beidaihe
+      quote: true
+    - voice: scholar
+      text: '但是这一次这么低调，我估计可能大家私下有很多意见，但是这些意见在北戴河能否汇聚成力量，可能性不是特别大。'
+      cite: r01-rfa-2020-08-10-beidaihe
+      quote: true
+  cites: [r01-rfa-2020-08-10-beidaihe]
+
+- id: r01-2021-beidaihe-hype
+  date: 2021-08-04
+  title: 星岛：“北戴河会议”是凭空炒作
+  lane: power
+  summary: '香港《星岛日报》2021年8月4日刊文称，胡锦涛执政后领导人已不到北戴河开会，外界所说的北戴河会议只是“凭空炒作”，法广和看中国转述并提出疑问。看中国同时转载台湾《上报》罗列的历年北戴河“秘闻”，以及陈破空对二十大前闭门对决的预测。'
+  people: [hu-jintao, xi-jinping, wang-dongfeng]
+  voices:
+    - voice: zh
+      text: '香港星岛日报今天指出，中共前总书记胡锦涛执政后，北京领导人已不到北戴河开会，今天的北戴河只是休假的地方，没有会议；外界迄今所说的「北戴河会议」，只是「凭空炒作」。'
+      cite: r01-rfi-2021-08-04-beidaihe
+      quote: true
+    - voice: zh
+      text: '也有观察指，中国党政高层会议保密严格，会议时间地点内容都由官方严控，外界无从知晓真正内幕。'
+      cite: r01-rfi-2021-08-04-beidaihe
+      quote: true
+    - voice: zh
+      text: '旅美时评人士陈破空日前表示，因涉及明年中共二十大权力重组，中共高层和政治老人将汇集北戴河，进行一场激烈的闭门对决。'
+      cite: r01-secretchina-2021-08-05-beidaihe
+      quote: true
+  cites: [r01-rfi-2021-08-04-beidaihe, r01-secretchina-2021-08-05-beidaihe]
+
+- id: r01-2022-beidaihe-third-term
+  date: 2022-08-08
+  title: 台海危机与北戴河会议
+  lane: power
+  summary: '2022年8月佩洛西访台后，自由亚洲电台、美国之音引述评论人士称，北戴河会议将讨论台海局势，反对者可能借机挑战习近平连任。日本《读卖新闻》8月30日引述党内人士称，习近平在北戴河等地与现任领导人和元老交换下届人事意见时，没有出现强烈反对。10月二十届一中全会上习近平再次当选总书记。'
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: '最终决定中共最高领导人连任的问题，还会决定是否对台湾动武等，这个会开完才能出现清晰的政策。'
+      cite: r01-rfa-2022-08-09-beidaihe
+      quote: true
+    - voice: zh
+      text: '这对于那些反对习近平的人是个好机会。所以，在北戴河会议，我估计，他们就开始发难了。'
+      cite: r01-voa-2022-08-13-beidaihe
+      quote: true
+    - voice: japan
+      text: '米中対立の長期化や台湾海峡情勢の緊張化を踏まえて党内の団結が求められている中、習氏が引き続き政権を担うことについては、強い反対は出なかったとの情報がある。'
+      zh: 有消息说，在美中对立长期化、台海局势紧张、党内需要团结的情况下，对习近平继续执政没有出现强烈反对。
+      cite: r01-yomiuri-2022-08-30-beidaihe
+      quote: true
+    - voice: official
+      text: '习近平同志主持会议并在当选中共中央委员会总书记后作了重要讲话。'
+      cite: e04-gov-2022-10-23-1st-plenum
+      quote: true
+  cites: [r01-rfa-2022-08-09-beidaihe, r01-voa-2022-08-13-beidaihe, r01-yomiuri-2022-08-30-beidaihe, e04-gov-2022-10-23-1st-plenum]
+
+- id: r01-2024-beidaihe-elders-opinions
+  date: 2024-08-03
+  end: 2024-08-16
+  title: 传元老在北戴河向习近平提30条意见
+  lane: power
+  summary: '大纪元2024年8月16日报道，北戴河会期间有消息说政治老人向习近平提出30条意见，人民大学退休教授冷杰甫则在公开信中称从微信得知习近平病重。中央社报道蔡奇8月3日受习近平委托在北戴河看望专家，并指出外界对北戴河是否仍开会看法不一。上述传闻均未获证实。'
+  people: [xi-jinping, cai-qi, zhang-youxia, he-weidong]
+  voices:
+    - voice: zh
+      text: '8月15日，党媒发习的署名文章强调得到党内政治老人支持，同一天有消息说政治老人向习提30条意见，包括撤销公安部特勤局。'
+      cite: r01-epoch-2024-08-16-elders
+      quote: true
+    - voice: zh
+      text: '冷杰甫说从微信得知习近平病得很重、不能工作，党政军的全盘工作落在两名军委副主席张又侠和何卫东身上，所以希望获得两人支持。'
+      cite: r01-epoch-2024-08-16-elders
+      quote: true
+    - voice: zh
+      text: '曾有看法指出，北戴河會議已不復存在，成為純粹的度假性質；但也有媒體不時傳出中共高層仍在度假時開會，並就某些重大問題作出決定。'
+      cite: r01-cna-2024-08-03-beidaihe
+      quote: true
+  cites: [r01-epoch-2024-08-16-elders, r01-cna-2024-08-03-beidaihe]
+
+- id: r01-2025-beidaihe-collective-leadership
+  date: 2025-07-31
+  end: 2025-08-15
+  title: 日经：北戴河会前解放军重提“集体领导”
+  lane: power
+  summary: '《日经》2025年7月底分析称，解放军重新强调“集体领导”，北戴河会议前风向似乎有变，文学城转载。看中国8月14日汇总自媒体人蒋罔正的爆料，称北戴河会期间曾庆红代表老干部写信、托蔡奇转交习近平。中央社报道蔡奇8月3日在北戴河看望专家，并指习近平上台后已无“北戴河会议”的说法。'
+  people: [xi-jinping, cai-qi, zeng-qinghong]
+  voices:
+    - voice: japan
+      text: '这一趋势也出现在一个政治敏感时期，即中共北戴河会议即将召开之际。'
+      cite: r01-wenxuecity-2025-07-31-nikkei
+      quote: true
+    - voice: zh
+      text: '近期北戴河会议期间，曾庆红代表老干部写了一封信，让蔡奇转交习近平。'
+      cite: r01-secretchina-2025-08-15-xi-retire
+      quote: true
+    - voice: zh
+      text: '不過在胡錦濤時代取消赴北戴河開會後，習近平更弱化了北戴河的政治功能，他上台後已無「北戴河會議」的說法。'
+      cite: r01-cna-2025-08-03-beidaihe
+      quote: true
+    - voice: zh
+      text: '去年北戴河暑休前後，他有21天消失於公眾視野。'
+      cite: r01-cna-2025-08-03-beidaihe
+      quote: true
+  cites: [r01-wenxuecity-2025-07-31-nikkei, r01-secretchina-2025-08-15-xi-retire, r01-cna-2025-08-03-beidaihe]
+
+- id: r01-2026-beidaihe-zhang-case
+  date: 2026-08-01
+  end: 2026-08-16
+  title: 2026年北戴河会期与张又侠案传闻
+  lane: power
+  summary: '看中国2026年8月4日称，蔡奇现身北戴河标志会议或已开始，如何处理张又侠、刘振立、马兴瑞或成焦点；大纪元评论人李燕铭9月称会议内容包括二十一大人事布局，会后元老密集露面显示高层可能暂时妥协。自媒体人蒋罔正另称张又侠父子被关押在中纪委北戴河培训中心，阿波罗网转载。官方只报道蔡奇受习近平委托看望专家；8月28日全国人大常委会免去张又侠、刘振立的国家军委职务。'
+  people: [cai-qi, zhang-youxia, liu-zhenli, ma-xingrui, shi-taifeng, hu-jintao, wen-jiabao]
+  factions: [zhang-liu]
+  voices:
+    - voice: official
+      text: '新华社北戴河8月3日电 受习近平总书记委托，中共中央政治局常委、中央书记处书记蔡奇3日在北戴河看望暑期休假专家，代表党中央、国务院向全国各条战线、各个领域的广大专家人才致以诚挚问候。'
+      cite: r01-gov-2026-08-03-cai-qi
+      quote: true
+    - voice: zh
+      text: '而關於如何處理已經落馬的中共軍委副主席張又俠、軍委聯合參謀部參謀長劉振立、原新疆黨委書記馬興瑞的問題，或許也將成爲北戴河會議討論的焦點。'
+      cite: r01-secretchina-2026-08-04-beidaihe
+      quote: true
+    - voice: zh
+      text: '2026年6月下旬又爆料称，张又侠与其子张莘目前被共同拘禁在中纪委驻北戴河培训中心的一号别墅内。'
+      cite: r01-aboluowang-2026-08-29-zhang
+      quote: true
+    - voice: zh
+      text: '迹象显示，中共高层很可能就一些重大案件与人事议题暂时达成妥协。'
+      cite: r01-epoch-2026-08-31-li-yanming
+      quote: true
+    - voice: official
+      text: '免去张又侠的中华人民共和国中央军事委员会副主席职务。'
+      cite: b08-xinhua-2026-08-28-zhang-liu-removed
+      quote: true
+  cites: [r01-gov-2026-08-03-cai-qi, r01-secretchina-2026-08-04-beidaihe, r01-aboluowang-2026-08-29-zhang, r01-epoch-2026-08-31-li-yanming, b08-xinhua-2026-08-28-zhang-liu-removed]
+
+# ---------- 健康传闻 ----------
+- id: r01-2006-huang-ju-cancer-rumour
+  date: 2006-02-22
+  end: 2006-06-05
+  title: 黄菊患胰腺癌传闻
+  lane: power
+  summary: '香港《南华早报》2006年2月引述未具名人士称，副总理黄菊在常规体检中发现胰腺癌住院、预计辞职，美国之音转述。黄菊消失四个多月后于6月5日露面，《中国时报》引述知情人士称他妆容浓厚、显得憔悴。黄菊2007年6月2日病逝。'
+  people: [huang-ju, jiang-zemin, hu-jintao]
+  voices:
+    - voice: zh
+      text: '香港南华早报援引没有透露姓名的人士的话说，黄菊在进行常规体检时被发现有胰腺癌并住进医院。'
+      cite: c10-voa-2006-02-22-huang-cancer
+      quote: true
+    - voice: zh
+      text: '四個多月來消失於公眾視線之外的中共國務院副總理黃菊，周一正式露面。'
+      cite: c10-chinatimes-2006-06-06-huang-makeup
+      quote: true
+    - voice: official
+      text: '因病医治无效，于２００７年６月２日２时０３分在北京逝世，享年６９岁。'
+      cite: k01-xinhua-2007-06-02-huang-ju-death
+      quote: true
+  cites: [c10-voa-2006-02-22-huang-cancer, c10-chinatimes-2006-06-06-huang-makeup, k01-xinhua-2007-06-02-huang-ju-death]
+
+- id: r01-2014-jiang-death-rumour
+  date: 2014-09-06
+  end: 2014-09-30
+  title: 江泽民“膀胱癌去世”传闻
+  lane: power
+  summary: '2014年9月初，微博、微信流传“江泽民因为膀胱癌去世”的消息，称出自301医院；日本《东京新闻》此前报道江泽民8月初住院。外交部发言人华春莹回应“第一次听到有关消息，无法证实”，博讯则称日本报道纯属谣言、是失势一派故意放风。9月30日江泽民出席国务院国庆招待会。'
+  people: [jiang-zemin, guo-boxiong, zeng-qinghong]
+  voices:
+    - voice: zh
+      text: '中国外交部发言人华春莹在回答记者提问时表示，“第一次听到有关消息，无法证实”。'
+      cite: r01-bbc-2014-09-08-jiang-rumour
+      quote: true
+    - voice: zh
+      text: '而在8月30日，日本《东京新闻》曾经报道说，中共前总书记江泽民因身体极度不适，在8月初住院治疗。'
+      cite: r01-bbc-2014-09-08-jiang-rumour
+      quote: true
+    - voice: zh
+      text: '博讯网的报道还指出，江泽民生病的假消息，应该是目前中共内斗升级的结果，而且是正在失势的某派故意放风。'
+      cite: r01-bbc-2014-09-08-jiang-rumour
+      quote: true
+    - voice: zh
+      text: '中国国务院30日晚在人民大会堂举办国庆招待会，前国家主席江泽民、胡锦涛，前国务院总理李鹏、朱镕基、温家宝，以及前国家副主席曾庆红等均有出席。'
+      cite: b01-rfi-2014-10-01-zeng-appears
+      quote: true
+  cites: [r01-bbc-2014-09-08-jiang-rumour, b01-rfi-2014-10-01-zeng-appears]
+
+- id: r01-2017-jiang-critical-rumour
+  date: 2017-05
+  end: 2017-05-28
+  title: 江泽民病危传闻与上海科技大学照片
+  lane: power
+  summary: '2017年5月初，海外中文媒体多次传出江泽民病危、入住上海华山医院的消息；5月28日网上流传江泽民在长子江绵恒任校长的上海科技大学参观的照片，帖子随后被删，法广引述东网和《苹果日报》报道。美国之音节目讨论当局对江泽民消息的“习惯性封杀”。大纪元2019年又称江泽民在国庆阅兵时离座约30分钟，未获证实。'
+  people: [jiang-zemin, jiang-mianheng]
+  voices:
+    - voice: zh
+      text: '海外中文媒体在本月初曾经多次传出江泽民病危的消息，更指他入住上海华山医院，「附近街道戒严」、「大批记者在医院外守候」'
+      cite: r01-rfi-2017-05-28-jiang-appears
+      quote: true
+    - voice: zh
+      text: '如果照片是真的，江泽民的现身打破了稍早有关他病危甚至病逝的传闻；如果不是真的，发照的目的何在？'
+      cite: r01-voa-2017-05-30-jiang
+      quote: true
+    - voice: zh
+      text: '外界發現，上午廣場上正在進行輕型坦克方隊檢閱的關鍵時刻，江詭秘「消失」約30分鐘，引起輿論關注。'
+      cite: r01-epochhk-2019-10-03-jiang
+      quote: true
+  cites: [r01-rfi-2017-05-28-jiang-appears, r01-voa-2017-05-30-jiang, r01-epochhk-2019-10-03-jiang]
+
+- id: r01-2017-bo-xilai-cancer-rumour
+  date: 2017-06-27
+  title: 薄熙来患肝癌、保外就医传闻
+  lane: power
+  summary: '自由亚洲电台2017年6月27日引述接近薄熙来家族的人士称，薄熙来在秦城监狱确诊肝癌，已获准保外就医，到大连棒棰岛治疗，但该台无法从第三方证实。新唐人8月转述多维报道称，薄熙来减刑的传言至今没有进展。'
+  people: [bo-xilai]
+  voices:
+    - voice: zh
+      text: '据接近薄熙来家族的人士披露，被判处无期徒刑、正在北京秦城监狱服刑的中共前政治局委员、重庆市委书记薄熙来因患肝癌，不久前申请保外就医已获当局批准，目前正在大连棒棰岛治疗及疗养。'
+      cite: c10-rfa-2017-06-27-bo-cancer
+      quote: true
+    - voice: zh
+      text: '目前，本台记者无法从第三方证实薄熙来获保外就医的消息'
+      cite: c10-rfa-2017-06-27-bo-cancer
+      quote: true
+    - voice: zh
+      text: '8月13日，亲北京的多维报导称，此前有传言称，原中共重庆市委书记薄熙来有机会获减刑，但至今仍无任何进展。'
+      cite: c10-ntdtv-2017-08-14-bo
+      quote: true
+  cites: [c10-rfa-2017-06-27-bo-cancer, c10-ntdtv-2017-08-14-bo]
+
+- id: r01-2022-xi-aneurysm-rumour
+  date: 2022-05
+  title: 外媒传习近平患脑动脉瘤
+  lane: power
+  summary: '印度亚洲新闻国际（ANI）和英国《太阳报》2022年5月报道称，习近平2021年底患脑动脉瘤并曾入院检查，不愿动大手术而选择传统医学治疗，澳洲SBS中文转述。报道只引述匿名知情人士，未获任何证实。'
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: '亞洲新聞國際（Asian News International）報道，習近平去年2021年底，患上「腦動脈瘤」，英國的太陽報（The Sun）報道，據報習近平曾經緊急入醫院檢查，之後習近平不願意進行重大手術，希望透過傳統醫學來治療。'
+      cite: r01-sbs-2022-xi-aneurysm
+      quote: true
+  cites: [r01-sbs-2022-xi-aneurysm]
+
+- id: r01-2025-xi-health-rumours
+  date: 2025-08-20
+  end: 2025-09-03
+  title: 西藏行与九三阅兵期间的习近平健康传闻
+  lane: power
+  summary: '人民报（禁闻网转载）2025年8月称，习近平赴西藏时央视刻意不播他下舷梯的镜头，评论人陈破空说这是“告别式”；新唐人9月3日称阅兵时习近平头部多次不自主颤抖。这些说法依据电视画面和网络议论，没有医疗证据。德国之声评论人邓聿文指出各类谣言至今没有兑现；10月四中全会公报仍由总书记习近平作重要讲话。'
+  people: [xi-jinping, wang-huning]
+  voices:
+    - voice: zh
+      text: '央视有意忽略习近平下舷梯的镜头，被指是欲盖弥彰，反而证实了72岁的习近平身体状态不佳，需要扶著把手才能走下舷梯。'
+      cite: r01-bannedbook-2025-08-24-xi
+      quote: true
+    - voice: zh
+      text: '陈破空分析，与其说习近平是高调露面，不如说是最后的告别，几乎就是习近平政治上的回光返照。'
+      cite: r01-bannedbook-2025-08-24-xi
+      quote: true
+    - voice: zh
+      text: '此外，他的脑袋多次不自主颤抖，但直播画面很快闪过。'
+      cite: r01-ntdtv-2025-09-03-xi-tremor
+      quote: true
+    - voice: scholar
+      text: '没错，中国社会不满习统治的人很多，党内和社会反习的力量似乎很强大，如果只看到这一面，习倒台指日可待，然而，为什么各类“谣言”至今没有兑现？'
+      cite: c10-dw-2025-xi-power-not-weakened
+      quote: true
+    - voice: doc
+      text: '全会由中央政治局主持。中央委员会总书记习近平作了重要讲话。'
+      cite: i01-fmprc-2025-10-23-fourth-plenum-communique
+      quote: true
+  cites: [r01-bannedbook-2025-08-24-xi, r01-ntdtv-2025-09-03-xi-tremor, c10-dw-2025-xi-power-not-weakened, i01-fmprc-2025-10-23-fourth-plenum-communique]
+
+- id: r01-2026-zhu-rongji-death-rumour
+  date: 2026-01
+  end: 2026-08-12
+  title: 朱镕基“秘不发丧”传闻
+  lane: power
+  summary: '2026年1月社交平台流传朱镕基已在上海华东医院去世、秘不发丧，时评人蔡慎坤回应称不至于如此，大纪元8月报道时回顾了这一传闻。新华社公布朱镕基于2026年8月12日在北京逝世；大纪元评论人李燕铭称官方选在北戴河会期公布，时间点敏感。'
+  people: [zhu-rongji]
+  voices:
+    - voice: zh
+      text: '2026年1月，社交平台再次流传朱镕基在上海华东医院去世、秘不发丧。'
+      cite: c10-epoch-2026-08-12-zhu-death
+      quote: true
+    - voice: zh
+      text: '除非中共中央下令拔管子，那就是讣告内容都商量好了，不至于像外界所传的秘不发丧。'
+      cite: c10-epoch-2026-08-12-zhu-death
+      quote: true
+    - voice: official
+      text: '朱镕基同志因病于2026年8月12日11时06分在北京逝世，享年98岁。'
+      cite: b02-gov-2026-08-18-zhu-rongji-farewell
+      quote: true
+    - voice: zh
+      text: '朱镕基去世的官方公布时间被安排在中共北戴河会议期间，时间点敏感，应该是中共高层作出的决定。'
+      cite: r01-epoch-2026-08-31-li-yanming
+      quote: true
+  cites: [c10-epoch-2026-08-12-zhu-death, b02-gov-2026-08-18-zhu-rongji-farewell, r01-epoch-2026-08-31-li-yanming]
+
+- id: r01-2026-wen-arrest-rumour
+  date: 2026-01-24
+  end: 2026-03-29
+  title: 温家宝“被抓”传闻与中科院露面
+  lane: power
+  summary: '阿波罗网2026年3月汇总称，张又侠1月落马后网上传言温家宝在北京的家被特勤局包围，3月两会前后又热炒温家宝与妻子张蓓莉被习近平抓捕囚禁。3月下旬网传视频显示温家宝在北京中科院机构出入、向民众挥手，法广、联合新闻网引述分析称这驳斥了他“即将被抓”的传闻；官媒没有报道此行。8月17日温家宝出席江泽民百年诞辰纪念大会。'
+  people: [wen-jiabao, zhang-peili, wen-yunsong, zhang-youxia, xi-jinping]
+  voices:
+    - voice: zh
+      text: '今年1月24日张又侠被官宣落马之后，网上有传言温家宝在京城的家被特勤局警员包围。'
+      cite: r01-aboluowang-2026-03-30-wen
+      quote: true
+    - voice: zh
+      text: '今年3月，中共召开“两会”前后，网络上第二次热炒温家宝因为反对武统台湾，和其妻子张蓓莉一起被中共党魁习近平抓捕囚禁，还有说法称温家宝全家都被控制，只剩下儿子温云松独自逃到美国。'
+      cite: r01-aboluowang-2026-03-30-wen
+      quote: true
+    - voice: zh
+      text: '据台湾自由时报3月30日引述分析人士指出，83岁的温家宝此次公开露面，传递多项关键信号，包括驳斥他「即将被抓」、「失联」以及元老派被习近平压制的传闻。'
+      cite: r01-rfi-2026-03-30-wen
+      quote: true
+    - voice: zh
+      text: '不過，中科院及相關單位至今未發布任何通報，溫家寶此次到訪時間與目的仍不明。'
+      cite: r01-udn-2026-03-wen
+      quote: true
+    - voice: zh
+      text: '当中以下月满84岁的温家宝的官方排名顺序最靠前'
+      cite: b02-zaobao-2026-08-17-jiang-centenary
+      quote: true
+  cites: [r01-aboluowang-2026-03-30-wen, r01-rfi-2026-03-30-wen, r01-udn-2026-03-wen, b02-zaobao-2026-08-17-jiang-centenary]
+
+- id: r01-2026-hu-jintao-health-rumour
+  date: 2026-08-12
+  end: 2026-08-18
+  title: 胡锦涛病重传闻
+  lane: power
+  summary: '旅澳前中共官员蒋罔正2026年8月12日爆料称胡锦涛病情严重、出不来，阿波罗网转述；胡锦涛8月17日没有出席江泽民百年诞辰纪念大会，网上另有病危、中毒乃至身亡的说法，阿波罗网也承认均未获证实。新华社报道朱镕基遗体18日火化时称胡锦涛送了花圈；大纪元则统计胡锦涛会后11天内三次以类似方式“露面”。'
+  people: [hu-jintao, zhu-rongji, li-ruihuan, wen-jiabao]
+  voices:
+    - voice: zh
+      text: '胡锦涛"出不来"，身体病情严重，基本不可能再公开露面'
+      cite: r01-aboluowang-2026-08-18-hu
+      quote: true
+    - voice: zh
+      text: '胡锦涛病危、中毒或身亡的传闻均未获证实。'
+      cite: r01-aboluowang-2026-08-17-hu
+      quote: true
+    - voice: zh
+      text: '胡锦涛目前是官方排序最靠前的中共元老。他曾在2022年中共二十大闭幕会中途离场，官方解释他当时身体不适。'
+      cite: b02-zaobao-2026-08-17-jiang-centenary
+      quote: true
+    - voice: official
+      text: '胡锦涛送花圈，对朱镕基同志逝世表示哀悼。'
+      cite: b02-gov-2026-08-18-zhu-rongji-farewell
+      quote: true
+    - voice: zh
+      text: '中共北戴河会期结束后，2026年8月18日至28日，11天内，胡锦涛有三次“露面”'
+      cite: r01-epoch-2026-08-31-li-yanming
+      quote: true
+  cites: [r01-aboluowang-2026-08-18-hu, r01-aboluowang-2026-08-17-hu, b02-zaobao-2026-08-17-jiang-centenary, b02-gov-2026-08-18-zhu-rongji-farewell, r01-epoch-2026-08-31-li-yanming]
+
+# ---------- 政变与权斗传闻 ----------
+- id: r01-2013-zhou-assassination-plot-rumour
+  date: 2013-12-06
+  title: 博讯：周永康两次谋刺习近平
+  lane: power
+  summary: '博讯2013年12月引述接近中南海的消息称，周永康在北戴河会议前后至少两次企图暗杀习近平，一次在会议室放置计时炸弹，一次趁习近平在301医院体检时打毒针，香港《东方日报》和看中国转述。两家转述对时间说法不一：《东方日报》说是2012年8月北戴河会议前后，看中国则放在2013年北戴河会议决定调查周永康之后。消息来源单一、无法核实；官方2014年7月的立案通报只称周永康涉嫌严重违纪。'
+  people: [zhou-yongkang, xi-jinping, bo-xilai, tan-hong]
+  voices:
+    - voice: zh
+      text: '報道稱，在北戴河會議前後，周至少兩次試圖暗殺習近平。一次是在會議室放置計時炸彈，另外一次是趁習在301醫院做體檢時打毒針。'
+      cite: r01-orientaldaily-2013-12-07-zhou-plot
+      quote: true
+    - voice: zh
+      text: '這些暗殺均由周的助理和警衞譚紅實施，而譚紅已在本月一日被中央警衞局逮捕。'
+      cite: r01-orientaldaily-2013-12-07-zhou-plot
+      quote: true
+    - voice: zh
+      text: '今年8月，中共高层在北戴河会议上一致决定对周永康本人展开调查。而据博讯网引述「接近中南海」的消息，周认为末日来临，于是孤注一掷、策划暗杀。'
+      cite: r01-secretchina-2013-12-07-zhou-plot
+      quote: true
+    - voice: official
+      text: '鉴于周永康涉嫌严重违纪，中共中央决定，依据《中国共产党章程》和《中国共产党纪律检查机关案件检查工作条例》的有关规定，由中共中央纪律检查委员会对其立案审查。'
+      cite: b03-gov-2014-07-29-zhou-probe
+      quote: true
+  cites: [r01-orientaldaily-2013-12-07-zhou-plot, r01-secretchina-2013-12-07-zhou-plot, b03-gov-2014-07-29-zhou-probe]
+
+- id: r01-2014-xi-six-assassinations-rumour
+  date: 2014-08
+  end: 2016-05-15
+  title: “习近平六次遇刺”传闻
+  lane: power
+  summary: '香港《动向》杂志2014年8月引述中共高层消息称，习近平2012年9月在石家庄考察时遭冷枪暗杀，此后又在多地遭遇5次暗杀，新唐人2015年2月转述，并称有落马贪官购买美国狙击步枪。2016年5月《外参》主编贺兰若对法广说，这些暗杀传闻被北京接近高层的人士斥为无稽之谈。'
+  people: [xi-jinping, meng-jianzhu, li-zhanshu, li-keqiang, peng-liyuan]
+  voices:
+    - voice: zh
+      text: '2014年8月，《動向》雜誌援引中共高層消息稱，習近平在中共十八大召開前兩個月，即2012年9月中旬，以中央書記處書記身份到河北石家莊考察時，遭遇冷槍暗殺。'
+      cite: r01-ntdtv-2015-02-25-assassin
+      quote: true
+    - voice: zh
+      text: '有消息稱，有落馬貪官甚至購買美國狙擊步槍策劃暗殺，以至於對習近平的保安措施不得不再次加強。'
+      cite: r01-ntdtv-2015-02-25-assassin
+      quote: true
+    - voice: zh
+      text: '这些传闻皆被上述北京接近高层的人士斥为无稽之谈。'
+      cite: r01-rfi-2016-05-15-assassin
+      quote: true
+    - voice: zh
+      text: '有熟悉中共高层政治的评论家对《外参》分析说，李克强在四川差点被撞出车祸的消息一看就是假的。'
+      cite: r01-rfi-2016-05-15-assassin
+      quote: true
+  cites: [r01-ntdtv-2015-02-25-assassin, r01-rfi-2016-05-15-assassin]
+
+- id: r01-2015-tianjin-blast-plot-rumour
+  date: 2015-08-14
+  end: 2015-09-09
+  title: 天津港爆炸“政治阴谋”传闻
+  lane: power
+  summary: '美国之音2015年8月14日引述评论人陈破空称，天津港大爆炸不排除有政治原因，是否有人为制造爆炸转移视线“值得怀疑”。大纪元9月转引林和立文章称，爆炸后北京最高领导人与亲信开紧急会议研究灾难背后的政治动机，并称习近平怀疑几十名军中将领涉案。这些说法均无证据支持。'
+  people: [xi-jinping, jiang-zemin]
+  voices:
+    - voice: zh
+      text: '会不会有人为放火、制造爆炸与混乱，转移视线？值得怀疑。'
+      cite: e06-voa-2015-08-14-tianjin
+      quote: true
+    - voice: zh
+      text: '据称，爆炸发生后，习近平与亲信召开紧急会议，分析这场灾难背后的政治意图；习怀疑几十名中共军中高级将领涉爆炸案。'
+      cite: e06-epoch-2015-09-09-tianjin
+      quote: true
+    - voice: zh
+      text: '9月8日，美国之音报导，外界普遍猜测，中共高层政治内斗可能是调查工作迟缓的一个原因。'
+      cite: e06-epoch-2015-09-09-tianjin
+      quote: true
+  cites: [e06-voa-2015-08-14-tianjin, e06-epoch-2015-09-09-tianjin]
+
+- id: r01-2014-guo-boxiong-taken-rumour
+  date: 2014-04
+  end: 2015-07-30
+  title: 博讯：郭伯雄清明后被带走
+  lane: army
+  summary: '博讯2014年4月称前军委副主席郭伯雄清明节后在家中被带走调查，新唐人转述，并加上包养情妇、上百套房产等细节。郭伯雄当年9月30日仍出席国务院国庆招待会，法广注意到他此前一度盛传受查。官方后来公布，中共中央2015年4月9日才决定对郭伯雄组织调查，7月30日开除其党籍。'
+  people: [guo-boxiong, zeng-qinghong]
+  voices:
+    - voice: zh
+      text: '日前，据海外媒体博讯网披露，现年72岁的前中共中央军委副主席郭伯雄因涉贪，已于清明节后在家中被军纪委和中共中央办公厅人员带走调查。'
+      cite: c10-ntdtv-2014-04-17-guo
+      quote: true
+    - voice: zh
+      text: '出席的还包括前中央军委副主席郭伯雄，以及中央军委前委员兼总后勤部长廖锡龙。'
+      cite: b01-rfi-2014-10-01-zeng-appears
+      quote: true
+    - voice: official
+      text: '2015年4月9日，中共中央依照党的纪律条例，决定对郭伯雄进行组织调查。'
+      cite: e03-nea-2015-07-31-guo-boxiong
+      quote: true
+  cites: [c10-ntdtv-2014-04-17-guo, b01-rfi-2014-10-01-zeng-appears, e03-nea-2015-07-31-guo-boxiong]
+
+- id: r01-2021-sun-lijun-coup-rumour
+  date: 2021-10-21
+  end: 2022-09-23
+  title: 孙力军“政变集团”传闻
+  lane: power
+  summary: '看中国2021年10月引述知情人称，孙力军落马的真正原因是参与对习近平的政变；大纪元2022年1月又引述袁红冰称，孙力军家中私藏的枪支可装备一个排。2022年9月长春中级法院判决认定孙力军受贿6.46亿余元、操纵证券市场、非法持有枪支2支，判决未提政变。'
+  people: [sun-lijun, xi-jinping, zhou-yongkang, bo-xilai]
+  voices:
+    - voice: zh
+      text: '知情人表示，孙力军被拿下的真正原因是参与对习近平政变。'
+      cite: c10-secretchina-2021-10-21-sun-coup
+      quote: true
+    - voice: zh
+      text: '據知情人說就像個小軍火庫一樣，隨時可以裝備一個排的兵力。'
+      cite: c10-epoch-2022-01-14-sun-armory
+      quote: true
+    - voice: doc
+      text: '孙力军还违反枪支管理规定，非法持有枪支2支。'
+      cite: c03-xinhua-2022-09-23-sun-lijun-verdict
+      quote: true
+  cites: [c10-secretchina-2021-10-21-sun-coup, c10-epoch-2022-01-14-sun-armory, c03-xinhua-2022-09-23-sun-lijun-verdict]
+
+- id: r01-2022-hu-chunhua-premier-rumour
+  date: 2022-10-13
+  end: 2022-10-23
+  title: 中泽克二：胡春华或接任总理
+  lane: power
+  summary: '《日本经济新闻》前中国分社社长中泽克二2022年10月撰文称，有传闻指胡春华将成为下任总理，胡锦涛可能要在李克强留任常委和胡春华接任总理之间取舍，新唐人转述。10月23日二十届一中全会产生的七名政治局常委是习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希。'
+  people: [hu-chunhua, li-keqiang, hu-jintao, li-qiang]
+  factions: [tuanpai]
+  voices:
+    - voice: zh
+      text: '尽管中共内部有严格的信息控制，但仍有传闻指现任国务院副总理的胡春华将成为下一任总理。'
+      cite: c10-ntdtv-2022-10-13-hu-chunhua
+      quote: true
+    - voice: zh
+      text: '如果他把胡春华当上总理视为重中之重，李克强可能就无法继续担任常委。'
+      cite: c10-ntdtv-2022-10-13-hu-chunhua
+      quote: true
+    - voice: official
+      text: '习近平 李强 赵乐际 王沪宁 蔡奇 丁薛祥 李希'
+      cite: e04-gov-2022-10-23-1st-plenum
+      quote: true
+  cites: [c10-ntdtv-2022-10-13-hu-chunhua, e04-gov-2022-10-23-1st-plenum]
+
+- id: r01-2025-fourth-plenum-retirement-rumour
+  date: 2025-06-24
+  end: 2025-10-23
+  title: 习近平四中全会“退休”传闻
+  lane: power
+  major: true
+  summary: '人民报2025年6月引述时评人苏小和称，习近平将在四中全会辞去总书记、保留国家主席，张又侠入常，常委增至9人；看中国8月转述自媒体人蒋罔正的“三中交、四中隐、五中卸、六中退”和老灯称丁薛祥接任总书记等爆料；另有自媒体称李强、蔡奇、王沪宁、李希四常委将出局。德国之声评论人邓聿文指这些说法都没有得到验证。10月23日四中全会公报仍称习近平为中央委员会总书记，人事上只增补张升民为军委副主席。'
+  people: [xi-jinping, zhang-youxia, ding-xuexiang, li-qiang, cai-qi, wang-huning, li-xi, hu-chunhua, chen-jining, zhang-shengmin]
+  voices:
+    - voice: zh
+      text: '旅居美國的中國經濟學者、時評人士蘇小和6月24號在其個人頻道表示，他從北京聽到的內幕消息稱，習近平將在四中全會有所動作，據說可能是宣布半退休，或者三分之一退休，也就是習將辭去中共總書記，保留國家主席的稱謂，一直幹到二十一大為止。'
+      cite: r01-renminbao-2025-06-25-xi-retire
+      quote: true
+    - voice: zh
+      text: '另一位知名反共博主老灯则爆料说，习派与反习派在北戴河达成了协议。'
+      cite: r01-secretchina-2025-08-15-xi-retire
+      quote: true
+    - voice: zh
+      text: '李强、蔡奇、王沪宁、李希这四位被视为习近平最核心的亲信，被指将在四中全会上同时退出常委和政治局，这被视为“习家军骨干的团灭”。'
+      cite: c10-cnc-2025-four-psc-out
+      quote: true
+    - voice: scholar
+      text: '有人甚至言之凿凿预测习近平四中全会下台。但是迄今为止，所有关于习的权力弱化的说法都没有得到验证。'
+      cite: c10-dw-2025-xi-power-assess
+      quote: true
+    - voice: doc
+      text: '全会决定，增补张升民为中共中央军事委员会副主席。'
+      cite: i01-fmprc-2025-10-23-fourth-plenum-communique
+      quote: true
+  cites: [r01-renminbao-2025-06-25-xi-retire, r01-secretchina-2025-08-15-xi-retire, c10-cnc-2025-four-psc-out, c10-dw-2025-xi-power-assess, i01-fmprc-2025-10-23-fourth-plenum-communique]
+
+- id: r01-2025-wang-yang-comeback-rumour
+  date: 2025-06
+  end: 2025-09-02
+  title: 汪洋“代理总书记”与复出传闻
+  lane: power
+  summary: '独立时评人“晓说家”2025年6月在自媒体上称汪洋已秘密出山、代理习近平的总书记职务，大纪元转述；看中国9月引述知情人士称，后习时代胡春华在明处、汪洋在暗处操盘。早在2021年北戴河会后已有汪洋接班的传言，法广当时引述有人怀疑是习派放出来混淆视听。这些说法都没有官方印证，10月四中全会公报仍由习近平以总书记身份讲话。'
+  people: [wang-yang, hu-chunhua, xi-jinping, wang-huning]
+  voices:
+    - voice: zh
+      text: '独立时评人“晓说家”在其自媒体中爆料称，汪洋已秘密出山，目前正在代理习近平的总书记职务。'
+      cite: c10-epoch-2025-06-10-wang-yang
+      quote: true
+    - voice: zh
+      text: '「在後習時代，看到的是明暗兩條線，胡春華在明處，頻頻釋放信號昭告天下；汪洋在暗處操盤，左右大局做很多事。」'
+      cite: c10-secretchina-2025-09-02-wang-yang
+      quote: true
+    - voice: zh
+      text: '甚至有人怀疑根本是习派释放出来混淆美国视听之用。'
+      cite: c10-rfi-2021-08-23-wang-yang
+      quote: true
+    - voice: doc
+      text: '全会由中央政治局主持。中央委员会总书记习近平作了重要讲话。'
+      cite: i01-fmprc-2025-10-23-fourth-plenum-communique
+      quote: true
+  cites: [c10-epoch-2025-06-10-wang-yang, c10-secretchina-2025-09-02-wang-yang, c10-rfi-2021-08-23-wang-yang, i01-fmprc-2025-10-23-fourth-plenum-communique]
+
+- id: r01-2026-zhang-coup-confession-rumour
+  date: 2026-07-16
+  end: 2026-09-21
+  title: “张又侠承认逼宫”传闻
+  lane: army
+  summary: '时评人蔡慎坤2026年7月16日在X上称，办案人员以张又侠的儿子为突破口后，张又侠已承认曾试图发动政变、逼习近平交权，并得到王岐山、曾庆红等支持，阿波罗网8月转述，同时列出张又侠在党校、京西宾馆、八一大楼等处被抓的多个版本。9月21日中共政治局审议的审查结果称两人“政治问题和经济问题交织”、涉案金额特别巨大，没有使用政变的说法，《联合早报》注意到也未再用“严重践踏破坏军委主席负责制”。'
+  people: [zhang-youxia, liu-zhenli, xi-jinping, wang-qishan, zeng-qinghong]
+  factions: [zhang-liu]
+  voices:
+    - voice: zh
+      text: '据说张又侠已承认曾试图发动政变，逼习近平交权等一系列问题。'
+      cite: r01-aboluowang-2026-08-29-zhang
+      quote: true
+    - voice: zh
+      text: '目前，张又侠到底如何被抓捕，真实细节仍是谜。'
+      cite: r01-aboluowang-2026-08-29-zhang
+      quote: true
+    - voice: zh
+      text: '审查结果也指，两人“政治问题和经济问题交织，贪腐敛财与失职渎职并存，涉案金额特别巨大，性质极其严重，影响极为恶劣”。'
+      cite: r01-zaobao-2026-09-23-zhang-liu
+      quote: true
+    - voice: zh
+      text: '官方对张又侠和刘振立问题的定性，虽然没有再次使用“严重践踏破坏军委主席负责制”的说法'
+      cite: r01-zaobao-2026-09-23-zhang-liu
+      quote: true
+  cites: [r01-aboluowang-2026-08-29-zhang, r01-zaobao-2026-09-23-zhang-liu]
+
+# ---------- 家族财富 ----------
+- id: r01-2007-luneng-privatisation
+  date: 2007-01-08
+  title: 《财经》“谁的鲁能”与曾伟传闻
+  lane: econ
+  summary: '《财经》杂志2007年1月8日发表《谁的鲁能》，披露总资产738亿元的鲁能集团91.6%股权以约37.3亿元转入两家北京私企，文章随即被各大网站撤下。看中国转引多维称背后有最高层要人，影射曾庆红；法广2014年称，据海外媒体和《财经》等报道，所谓“曾先生”应指曾庆红之子曾伟。明天系2014年声明承认参与鲁能重组，但称“曾先生”从没有介入。'
+  people: [zeng-qinghong, zeng-wei, xiao-jianhua, yu-zhengsheng, hu-jintao]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: '過去名不見經傳的兩家北京私人企業「北京首大能源集團有限公司」和「北京國源聯合有限公司」，竟以37.3億的收購價，獲得總資產高達738.05 億的魯能集團91.6％的股份，而新公司大部分董事仍為國企時的高層。'
+      cite: r01-secretchina-2007-01-19-luneng
+      quote: true
+    - voice: zh
+      text: '中央最高權力層只有唯一一位姓曾的，就是曾慶紅；而余姓實為「俞」姓，即指中央政治局委員、湖北省委書記俞正聲。'
+      cite: r01-secretchina-2007-01-19-luneng
+      quote: true
+    - voice: zh
+      text: '（明天集团）发言人郑重声明，文中所称曾先生从没有介入过鲁能重组。'
+      cite: c09-rfi-2014-06-27-tomorrow-luneng
+      quote: true
+    - voice: zh
+      text: '根据海外媒体以及《财经》等报道，应该指的是曾庆红的儿子曾伟。'
+      cite: c09-rfi-2014-06-27-tomorrow-luneng
+      quote: true
+  cites: [r01-secretchina-2007-01-19-luneng, c09-rfi-2014-06-27-tomorrow-luneng]
+
+- id: r01-2009-nuctech-namibia
+  date: 2009-07-20
+  title: 纳米比亚调查同方威视行贿案
+  lane: foreign
+  summary: '英国《每日电讯报》2009年7月引述纳米比亚反贪委员会主任诺亚称，胡锦涛之子胡海峰曾执掌的威视公司卷入当地采购诈骗和行贿调查，调查人员希望向胡海峰问话，但强调他不是嫌疑人；BBC中文网和美国之音转述。威视驻纳米比亚代表等三人已被当地逮捕。'
+  people: [hu-haifeng, hu-jintao]
+  voices:
+    - voice: zh
+      text: '诺亚强调胡海峰并非嫌疑人，但希望通过与威视公司管理人员的对话更多地了解中国的商业运作程序和手段。'
+      cite: r01-bbc-2009-07-20-nuctech
+      quote: true
+    - voice: zh
+      text: '如果他能抽身来我当然会很高兴。我想知道他们在中国是怎么做生意的。'
+      cite: r01-voa-2009-07-20-nuctech
+      quote: true
+    - voice: zh
+      text: '威视驻纳米比亚的一名代表以及另外两名当地人因涉及诈欺、贪污和行贿于上周被当局逮捕。'
+      cite: c05-voa-2009-07-22-hu-haifeng-namibia
+      quote: true
+  cites: [r01-bbc-2009-07-20-nuctech, r01-voa-2009-07-20-nuctech, c05-voa-2009-07-22-hu-haifeng-namibia]
+
+- id: r01-2012-bloomberg-red-heirs
+  date: 2012-12-26
+  title: 彭博社：八大元老后代的财富
+  lane: econ
+  summary: '美国彭博新闻社2012年12月26日报道，追查中共“八老”的103名后代，称其中26人运营或主管国有企业，王震之子王军、邓小平女婿贺平、陈云之子陈元三人领导的公司2011年总市值1.6万亿美元，BBC中文网、自由亚洲电台转述。彭博网站自6月报道习近平家族财富后一直在中国大陆被屏蔽。'
+  people: [chen-yuan, deng-xiaoping, chen-yun, xi-jinping]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: '彭博新闻社的报道说，“八老”后代中有26人运营主导经济的国有企业，或担任这些企业的高管，其中王震之子王军、邓小平女婿贺平和陈云之子陈元三人领导和运营的公司2011年的总市值为1.6万亿美元，相当于中国年度经济产出的五分之一强。'
+      cite: f06-bbc-2012-12-27-bloomberg-heirs
+      quote: true
+    - voice: zh
+      text: '报道还说，即使在“八老”后代之中也有人对他们所称的太子党集团的贪婪感到担忧。'
+      cite: f06-bbc-2012-12-27-bloomberg-heirs
+      quote: true
+    - voice: zh
+      text: '中共十八大后，习近平本人大力鼓吹反腐，但彭博通讯社的网站6月起遭中国大陆官方屏蔽，被指与该社此前披露了习近平家族巨额财富的报道有关。'
+      cite: r01-rfa-2012-12-28-bloomberg-heirs
+      quote: true
+  cites: [f06-bbc-2012-12-27-bloomberg-heirs, r01-rfa-2012-12-28-bloomberg-heirs]
+
+- id: r01-2013-jpmorgan-wen-ruchun
+  date: 2013-11-14
+  title: 《纽约时报》：摩根大通曾付费给温家宝女儿的公司
+  lane: econ
+  summary: '《纽约时报》2013年11月14日报道，摩根大通2006至2008年向温家宝之女温如春以化名“常丽丽”经营的咨询公司Fullmark共支付180万美元，美国当局正调查摩根大通在华聘用权贵子女的问题，美国之音转述。报道也说，所查文件没有显示温如春为摩根大通与温家相关企业牵线；摩根大通无可奉告，中美政府均未回应。'
+  people: [wen-jiabao, wen-yunsong, zhang-peili]
+  voices:
+    - voice: zh
+      text: '不过，摩根大通驻香港的高层，以及其他一些大公司的部分高管知道，“常丽丽”并不是她的真名，而是当时的国务院总理温家宝唯一的女儿温如春的化名。'
+      cite: r01-nytcn-2013-11-14-jpmorgan
+      quote: true
+    - voice: zh
+      text: '《纽约时报》查阅的文件并没有显示，温如春充当中间人，在摩根大通和那些与她的家庭相关的企业之间，安排了交易或投资。'
+      cite: r01-nytcn-2013-11-14-jpmorgan
+      quote: true
+    - voice: zh
+      text: '摩根大通拒绝对纽约时报的报道发表评论。中国和美国政府也没有对该报道做出反应。'
+      cite: r01-voa-2013-11-14-jpmorgan
+      quote: true
+  cites: [r01-nytcn-2013-11-14-jpmorgan, r01-voa-2013-11-14-jpmorgan]
+
+- id: r01-2014-xi-relatives-divest
+  date: 2014-06-18
+  title: 《纽约时报》：习近平亲属退出多项投资
+  lane: econ
+  summary: '《纽约时报》2014年6月18日报道，习近平的姐姐齐桥桥和姐夫邓家贵2012年至2014年退出至少10家公司的投资，此前肖建华的明天集团发表声明，称收购习家所持股份是为帮习家尽快处理资产。香港《经济日报》称是习母齐心召开家族会议，要求直系亲属不得经商，自由亚洲电台转述。报道称习近平本人及其妻女没有直接牵涉投资利益，但齐桥桥一家仍持有价值数千万美元的股份和房产。'
+  people: [xi-jinping, qi-qiaoqiao, xiao-jianhua]
+  voices:
+    - voice: zh
+      text: '从2012年到今年，习近平的姐姐齐桥桥和姐夫邓家贵退出了在至少10家公司的投资，主要集中在采矿业和房地产业。'
+      cite: r01-nytcn-2014-06-18-xi-assets
+      quote: true
+    - voice: zh
+      text: '肖建华通过他的女发言人表示，习近平家族之所以决意出售投资公司的股份，哪怕遭受损失也在所不惜，是为了尽快处理掉这笔资产。'
+      cite: r01-nytcn-2014-06-05-xiao-statement
+      quote: true
+    - voice: zh
+      text: '据香港《经济日报》周四报道，习近平增补为中央军委副主席之后，他的母亲齐心立刻从深圳返回北京，并召开家族会议做出连串部署，其中一项就是为免给政敌口实，所有直系亲属在十八大前不得经商。'
+      cite: r01-rfa-2014-06-19-xi-assets
+      quote: true
+    - voice: zh
+      text: '记录显示，齐桥桥和丈夫邓家贵及女儿张燕南依然持有价值数千万美元的公司股份和房地产，其中包括一栋俯瞰香港浅水湾的顶级地段别墅。'
+      cite: r01-nytcn-2014-06-18-xi-assets
+      quote: true
+  cites: [r01-nytcn-2014-06-18-xi-assets, r01-nytcn-2014-06-05-xiao-statement, r01-rfa-2014-06-19-xi-assets]
+
+- id: r01-2015-swissleaks-li-xiaolin
+  date: 2015-02-09
+  title: 瑞士汇丰泄密：李小琳曾有248万美元存款
+  lane: econ
+  summary: '国际调查记者同盟（ICIJ）2015年2月公布汇丰瑞士私人银行的泄密资料，称李鹏之女李小琳及丈夫2006至2007年通过一家巴拿马公司持有的账户存款最高248万美元，BBC中文网和《纽约时报》中文网报道。ICIJ说多次联系李小琳均未获回应，并强调被公开者不一定涉及不法。'
+  people: [li-xiaolin, li-peng]
+  voices:
+    - voice: zh
+      text: '根据国际調查記者同盟（ICIJ）取得的资料显示，中国前总理李鹏的女儿李小琳及丈夫曾经在汇丰银行（HSBC）瑞士分行拥有248万美元存款。'
+      cite: r01-bbc-2015-02-09-li-xiaolin
+      quote: true
+    - voice: zh
+      text: '国际调查记者同盟还表示，曾多次要求李小琳就有关账户事宜作出回应，但一直未收到任何回复。'
+      cite: r01-bbc-2015-02-09-li-xiaolin
+      quote: true
+    - voice: zh
+      text: '但组织也强调，这些被公开的人士，并不代表他们一定涉及不法行为。'
+      cite: r01-bbc-2015-02-09-li-xiaolin
+      quote: true
+    - voice: zh
+      text: '周二在李小琳担任董事长的国有电力公司接听电话的人，拒绝将电话转接给她，也拒绝提供如何联系她的信息。'
+      cite: r01-nytcn-2015-02-11-li-xiaolin
+      quote: true
+  cites: [r01-bbc-2015-02-09-li-xiaolin, r01-nytcn-2015-02-11-li-xiaolin]
+
+- id: r01-2021-pandora-papers
+  date: 2021-10-03
+  title: 潘多拉文件中的董建华、梁振英
+  lane: hkmt
+  summary: '国际调查记者同盟（ICIJ）2021年10月3日公布“潘多拉文件”，美国之音指已公开资料中几乎没有中共高官，与中国有关的只有全国人大代表冯琪雅和两位前香港特首、全国政协副主席董建华、梁振英。据合作媒体《立场新闻》，董建华家族涉至少72家离岸公司；ICIJ向董建华查询未获具体回应，梁振英则称按申报制度无须申报，并称报道有误导成分。'
+  people: [dong-jianhua, liang-zhenying]
+  voices:
+    - voice: zh
+      text: '不过在“潘多拉文件”现有公开的资料当中，几乎没有中国高级官员的身影。'
+      cite: r01-voa-2021-10-05-pandora
+      quote: true
+    - voice: zh
+      text: '据参与“潘多拉文件”合作调查的唯一香港媒体《立场新闻》报道，董建华及家族成员涉足至少72家离岸公司，其中董建华本人拥有2005年3月卸任特首后设立的7家，包括1家拟用作开设汇丰银行帐户，处理估计价值100万美元的流动资产。'
+      cite: r01-voa-2021-10-05-pandora
+      quote: true
+    - voice: zh
+      text: 'ICIJ曾透過前任特首辦向董建華查詢他本人及家族所涉的離岸公司用途為何，與其政協職務是否相關，但未獲具體回應。'
+      cite: r01-cna-2021-10-04-pandora
+      quote: true
+    - voice: zh
+      text: '梁振英今天在臉書發聲明回應說，申報制度的要求是申報直接持有的公司股權，下面各級子公司的股權持有及股權變動不必申報'
+      cite: r01-cna-2021-10-04-pandora
+      quote: true
+    - voice: scholar
+      text: '高光俊也认为，“潘多拉文件”没有曝光出来，并不代表中共官员就是清白的，而有可能是一些运作变得更难以被发现。'
+      cite: r01-voa-2021-10-05-pandora
+      quote: true
+  cites: [r01-voa-2021-10-05-pandora, r01-cna-2021-10-04-pandora]

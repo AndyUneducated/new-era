@@ -1,0 +1,204 @@
+# R01 传闻专项：北戴河、健康传闻、权斗传闻、家族财富。传闻来源在 manifest 中标 rumor: true。
+
+xi-jinping:
+  - voice: zh
+    text: 家族财富：据彭博社2012年6月报道，习近平亲属在多家公司持有大量资产，大部分属于他的姐姐齐桥桥和姐夫邓家贵；报道没有追查到习近平本人名下的资产。彭博网站随后在中国大陆被屏蔽。
+    cite: c05-bbc-2012-06-29-bloomberg-xi
+  - voice: zh
+    text: 家族财富：据《纽约时报》2014年6月报道，习近平升任高层后，齐桥桥夫妇在2012年至2014年间退出了至少10家公司的投资，报道称习近平本人及其妻女没有直接牵涉投资利益。
+    cite: r01-nytcn-2014-06-18-xi-assets
+  - voice: zh
+    text: 家族财富：据国际调查记者同盟2016年巴拿马文件，莫萨克·冯赛卡公司帮助习近平的姐夫邓家贵在英属维尔京群岛设立了三家离岸公司。
+    cite: c05-bbc-2016-04-06-panama-china
+  - voice: zh
+    quote: true
+    text: 亞洲新聞國際（Asian News International）報道，習近平去年2021年底，患上「腦動脈瘤」，英國的太陽報（The Sun）報道，據報習近平曾經緊急入醫院檢查，之後習近平不願意進行重大手術，希望透過傳統醫學來治療。
+    cite: r01-sbs-2022-xi-aneurysm
+  - voice: zh
+    quote: true
+    text: 此外，他的脑袋多次不自主颤抖，但直播画面很快闪过。
+    cite: r01-ntdtv-2025-09-03-xi-tremor
+  - voice: zh
+    quote: true
+    text: 这些传闻皆被上述北京接近高层的人士斥为无稽之谈。
+    cite: r01-rfi-2016-05-15-assassin
+  - voice: zh
+    quote: true
+    text: 旅居美國的中國經濟學者、時評人士蘇小和6月24號在其個人頻道表示，他從北京聽到的內幕消息稱，習近平將在四中全會有所動作，據說可能是宣布半退休，或者三分之一退休，也就是習將辭去中共總書記，保留國家主席的稱謂，一直幹到二十一大為止。
+    cite: r01-renminbao-2025-06-25-xi-retire
+
+qi-qiaoqiao:
+  - voice: zh
+    quote: true
+    text: 报道说，大部分资产都是习近平的姐姐齐桥桥和姐夫邓家贵拥有。
+    cite: c05-bbc-2012-06-29-bloomberg-xi
+  - voice: zh
+    text: 家族财富：据《纽约时报》2014年6月报道，齐桥桥和邓家贵退出了至少10家公司的投资，但与女儿张燕南仍持有价值数千万美元的公司股份和房地产，其中包括香港浅水湾的一栋别墅。
+    cite: r01-nytcn-2014-06-18-xi-assets
+  - voice: zh
+    text: 家族财富：据《纽约时报》2014年6月报道，肖建华通过发言人表示，习家决意出售所持投资公司股份、哪怕亏损也在所不惜，是为了尽快处理掉这笔资产。
+    cite: r01-nytcn-2014-06-05-xiao-statement
+
+wen-jiabao:
+  - voice: zh
+    text: 家族财富：据《纽约时报》2012年10月报道，温家宝的亲属掌控巨额资产，其中以他母亲杨志云名义持有的一项金融企业投资5年前价值1.2亿美元；调查没有发现温家宝名下有任何财产。
+    cite: b02-nytcn-2012-10-26-wen-wealth
+  - voice: zh
+    quote: true
+    text: 声明写道：“温家宝从未在家人的经营活动中起任何作用，更没有因家人从事经营活动对他制定和执行政策产生任何影响。
+    cite: b02-nytcn-2012-10-29-wen-response
+  - voice: zh
+    text: 家族财富：据《纽约时报》2013年11月报道，摩根大通曾向温家宝之女温如春以化名经营的咨询公司付费；摩根大通不予置评，中美政府均未回应。
+    cite: r01-nytcn-2013-11-14-jpmorgan
+  - voice: zh
+    quote: true
+    text: 据台湾自由时报3月30日引述分析人士指出，83岁的温家宝此次公开露面，传递多项关键信号，包括驳斥他「即将被抓」、「失联」以及元老派被习近平压制的传闻。
+    cite: r01-rfi-2026-03-30-wen
+
+zhang-peili:
+  - voice: zh
+    quote: true
+    text: 他的妻子张蓓莉是中国珠宝与宝石领域的权威人士之一，自己本身就是一位成功的女商人。
+    cite: b02-nytcn-2012-10-26-wen-wealth
+  - voice: zh
+    quote: true
+    text: 今年3月，中共召开“两会”前后，网络上第二次热炒温家宝因为反对武统台湾，和其妻子张蓓莉一起被中共党魁习近平抓捕囚禁，还有说法称温家宝全家都被控制，只剩下儿子温云松独自逃到美国。
+    cite: r01-aboluowang-2026-03-30-wen
+
+wen-yunsong:
+  - voice: zh
+    text: 家族财富：据《纽约时报》2013年11月报道，摩根大通持有温云松参与创办的私募股权公司新天域资本的股份；报道没有发现温如春在摩根大通与温家相关企业之间牵线的证据。
+    cite: r01-nytcn-2013-11-14-jpmorgan
+
+hu-haifeng:
+  - voice: zh
+    text: 家族财富：据英国《每日电讯报》2009年7月报道，胡海峰曾执掌的威视公司在纳米比亚卷入采购诈骗和行贿调查，当地反贪委员会希望向他问话，但强调他不是嫌疑人。
+    cite: r01-bbc-2009-07-20-nuctech
+
+hu-jintao:
+  - voice: zh
+    quote: true
+    text: 那么，胡锦涛把它取消，有这方面的打算，使中共党内议事规则，程序方面更加正规化、制度化。
+    cite: r01-epoch-2003-08-06-beidaihe
+  - voice: zh
+    quote: true
+    text: 在8月的北戴河会议，江泽民与时任中共总书记胡锦涛围绕着十八大人事安排的斗争到了白热化阶段，最后胡锦涛不悦，离开北戴河会议会场。
+    cite: r01-secretchina-2021-08-05-beidaihe
+  - voice: zh
+    quote: true
+    text: 胡锦涛病危、中毒或身亡的传闻均未获证实。
+    cite: r01-aboluowang-2026-08-17-hu
+
+li-xiaolin:
+  - voice: zh
+    text: 家族财富：据国际调查记者同盟2015年2月公布的汇丰瑞士泄密资料，李小琳及丈夫曾在汇丰瑞士私人银行拥有最高248万美元存款；ICIJ多次请她回应未获答复，并强调被公开者不一定涉及不法。
+    cite: r01-bbc-2015-02-09-li-xiaolin
+  - voice: zh
+    text: 家族财富：据巴拿马文件，李小琳和丈夫拥有1994年在英属维尔京群岛组建的Cofic Investments公司，她的律师称资金来自协助欧洲向中国出口工业设备；李小琳没有回应置评请求。
+    cite: c05-voa-2016-04-06-panama-red
+  - voice: zh
+    quote: true
+    text: 李小琳否认了这个说法，并说她与任何保险公司都没有个人关系。
+    cite: r01-nytcn-2015-02-11-li-xiaolin
+
+li-peng:
+  - voice: zh
+    text: 家族财富：据国际调查记者同盟2014年1月报告，至少5名现任或前任政治局常委的亲属在离岸金融中心持有公司，其中包括李鹏。
+    cite: e06-bbc-2014-01-22-icij
+
+jiang-zemin:
+  - voice: zh
+    quote: true
+    text: 七月十五日，已退休高干在北戴河召开了今年第三次组织生活会议。乔石、尉健行等对江泽民下台后种种忘乎所以的丑态给予严厉的批评，使江恼羞成怒。
+    cite: r01-epoch-2007-08-10-zhengming
+  - voice: zh
+    quote: true
+    text: 中国外交部发言人华春莹在回答记者提问时表示，“第一次听到有关消息，无法证实”。
+    cite: r01-bbc-2014-09-08-jiang-rumour
+  - voice: zh
+    quote: true
+    text: 许多分析人士认为，这一波媒体动向，矛头直指江泽民。
+    cite: r01-voa-2015-08-14-renzou
+  - voice: zh
+    quote: true
+    text: 如果照片是真的，江泽民的现身打破了稍早有关他病危甚至病逝的传闻；如果不是真的，发照的目的何在？
+    cite: r01-voa-2017-05-30-jiang
+
+zhou-yongkang:
+  - voice: zh
+    quote: true
+    text: 《南华早报》的消息人士称，有鉴于中共党内对周永康家族敛财之巨已达怒火中烧的地步，出席北戴河会议的新旧中共领导人决定对他进行调查。
+    cite: r01-bbc-2013-08-30-zhou
+  - voice: zh
+    quote: true
+    text: 報道稱，在北戴河會議前後，周至少兩次試圖暗殺習近平。一次是在會議室放置計時炸彈，另外一次是趁習在301醫院做體檢時打毒針。
+    cite: r01-orientaldaily-2013-12-07-zhou-plot
+
+wang-qishan:
+  - voice: zh
+    quote: true
+    text: 日本有影响的两家媒体分别推出王岐山政治局常委出局的报道之后，引发中国海内外各界对北京权力博弈的强烈关注
+    cite: r01-voa-2017-08-28-wang-qishan
+  - voice: scholar
+    quote: true
+    text: 另外，他还说，由于中国富商郭文贵的爆料，王岐山的去留仍有变数。
+    cite: r01-voa-2017-08-09-wu-guoguang
+
+wang-huning:
+  - voice: zh
+    quote: true
+    text: 据路透社8月9日报道引述两名熟悉领导圈子的消息人士透露，中国政府高层已感受到这股强烈反弹，反弹的矛头很可能指向习近平的亲密助手、操盘意识形态与战略的政治局常委王沪宁。
+    cite: r01-rfa-2018-08-10-beidaihe
+
+zhang-youxia:
+  - voice: zh
+    quote: true
+    text: 据说张又侠已承认曾试图发动政变，逼习近平交权等一系列问题。
+    cite: r01-aboluowang-2026-08-29-zhang
+  - voice: zh
+    quote: true
+    text: 官方对张又侠和刘振立问题的定性，虽然没有再次使用“严重践踏破坏军委主席负责制”的说法
+    cite: r01-zaobao-2026-09-23-zhang-liu
+
+zeng-qinghong:
+  - voice: zh
+    quote: true
+    text: 中央最高權力層只有唯一一位姓曾的，就是曾慶紅；而余姓實為「俞」姓，即指中央政治局委員、湖北省委書記俞正聲。
+    cite: r01-secretchina-2007-01-19-luneng
+  - voice: zh
+    quote: true
+    text: 近期北戴河会议期间，曾庆红代表老干部写了一封信，让蔡奇转交习近平。
+    cite: r01-secretchina-2025-08-15-xi-retire
+
+zeng-wei:
+  - voice: zh
+    text: 家族财富：据法广2014年转述海外媒体和《财经》等报道，2007年鲁能集团低价转入私企一事中的“曾先生”应指曾庆红之子曾伟；明天系声明称曾先生从没有介入过鲁能重组。
+    cite: c09-rfi-2014-06-27-tomorrow-luneng
+
+xiao-jianhua:
+  - voice: zh
+    quote: true
+    text: 肖建华通过他的女发言人表示，习近平家族之所以决意出售投资公司的股份，哪怕遭受损失也在所不惜，是为了尽快处理掉这笔资产。
+    cite: r01-nytcn-2014-06-05-xiao-statement
+
+dong-jianhua:
+  - voice: zh
+    text: 家族财富：据参与潘多拉文件调查的香港《立场新闻》2021年10月报道，董建华及家族成员涉及至少72家离岸公司，其中7家由他本人在卸任特首后设立；ICIJ查询其用途未获具体回应。
+    cite: r01-voa-2021-10-05-pandora
+
+liang-zhenying:
+  - voice: zh
+    text: 家族财富：据《立场新闻》参与的潘多拉文件调查，梁振英任特首期间透过两间离岸公司迂回持有戴德梁行日本业务公司3成股权；梁振英在脸书回应称，申报制度只要求申报直接持有的公司股权，股权已放入信托，并称报道有误导成分、已交律师处理。
+    cite: r01-cna-2021-10-04-pandora
+
+zhang-dejiang:
+  - voice: zh
+    quote: true
+    text: 此后又没有北戴河会议的消息，一直到今年7月23日发生追撞事故，副总理张德江24日在温州现身4个小时，下达尽快通车的命令后就匆匆离开，被境外媒体揭露，原来赶回北戴河，为争取18大进入政治局常委而斗争。
+    cite: r01-rfa-2011-08-10-lin-baohua
+
+zhu-rongji:
+  - voice: zh
+    quote: true
+    text: 朱镕基去世的官方公布时间被安排在中共北戴河会议期间，时间点敏感，应该是中共高层作出的决定。
+    cite: r01-epoch-2026-08-31-li-yanming

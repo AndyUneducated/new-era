@@ -1,0 +1,963 @@
+# E08 events, 2013 to 2026: discipline, online controls, platforms, property, zero-COVID, PLA, US-China, HK/Taiwan, ethnicity and religion
+
+# ---- 纪检与要案 ----
+- id: e08-2013-ccdi-second-plenum
+  date: 2013-01-22
+  title: 十八届中纪委二次全会：“老虎”“苍蝇”一起打
+  lane: purge
+  major: true
+  summary: 2013年1月22日，习近平在十八届中央纪委二次全会上讲话，称反腐败斗争形势依然严峻，要求“有腐必反、有贪必肃”，坚持“老虎”、“苍蝇”一起打，并要求加强对权力运行的制约和监督，“把权力关进制度的笼子里”，形成不敢腐、不能腐、不易腐的机制。王岐山主持会议，并代表中纪委常委会作工作报告。
+  people: [xi-jinping, wang-qishan]
+  concepts: [eight-point-rules]
+  voices:
+    - voice: official
+      text: 要坚持“老虎”、“苍蝇”一起打，既坚决查处领导干部违纪违法案件，又切实解决发生在群众身边的不正之风和腐败问题。
+      cite: e08-gov-2013-01-22-ccdi-plenum
+      quote: true
+  cites: [e08-gov-2013-01-22-ccdi-plenum]
+
+- id: e08-2013-liu-tienan
+  date: 2013-05-12
+  end: 2014-12-10
+  title: 刘铁男落马：十八大后首个被“双开”的省部级官员
+  lane: purge
+  summary: 2013年5月，中纪委宣布国家发改委副主任、国家能源局原局长刘铁男涉嫌严重违纪接受组织调查，8月被开除党籍和公职。他是十八大后首个被中纪委立案调查并“双开”的省部级官员，此前媒体人罗昌平曾实名举报其伪造学历、与商人结成官商同盟。2014年12月10日，刘铁男因受贿3558万余元一审被判无期徒刑；此案还牵出能源系统20多名官员和国企高管落马。
+  people: [liu-tienan]
+  cites: [c03-jjckb-2013-05-12-liu-tienan-probe, c03-ccdi-2013-08-08-liu-tienan-expel, c03-chinacourt-2014-12-10-liu-tienan-verdict]
+
+- id: e08-2013-jiang-jiemin
+  date: 2013-09-01
+  end: 2015-10-12
+  title: 国资委主任蒋洁敏被查，后获刑十六年
+  lane: purge
+  summary: 2013年9月1日，中纪委宣布国务院国资委主任、中石油集团原董事长蒋洁敏涉嫌严重违纪接受组织调查，他长期在胜利油田、青海石油管理局和中石油系统任职。2015年10月12日，湖北汉江中院以受贿、巨额财产来源不明、国有公司人员滥用职权罪判处其有期徒刑十六年，认定他受贿1403万余元，并在2004至2008年间“在周永康指使或授意下”违规为他人经营活动提供帮助。
+  people: [jiang-jiemin, zhou-yongkang]
+  factions: [petroleum, zhou-clique]
+  cites: [c03-12371-2013-09-01-jiang-jiemin-probe, c03-xinhua-2015-10-12-jiang-jiemin-verdict]
+
+- id: e08-2014-su-rong
+  date: 2014-06-14
+  end: 2017-01-23
+  title: 全国政协副主席苏荣落马
+  lane: purge
+  summary: 2014年6月14日，中纪委宣布全国政协副主席苏荣涉嫌严重违纪违法接受组织调查。2015年2月中纪委通报称其大肆卖官鬻爵，支持、纵容亲属利用其特殊身份擅权干政，对江西省出现的严重腐败问题负有主要领导责任，决定开除其党籍和公职。2017年1月23日，济南中院认定他受贿1.16亿余元，以受贿、滥用职权、巨额财产来源不明罪判处无期徒刑。
+  people: [su-rong]
+  cites: [c03-ccdi-2014-06-14-su-rong-probe, c03-ccdi-2015-02-16-su-rong-expel, c03-people-2017-01-23-su-rong-verdict]
+
+- id: e08-2015-skynet-red-notices
+  date: 2015-04-22
+  title: “天网”行动与百名红色通缉令
+  lane: purge
+  summary: 2015年4月22日晚，国际刑警组织中国国家中心局集中公布100名外逃国家工作人员和重要腐败案件涉案人的红色通缉令，人民网称这在中国尚属首次。名单之首是浙江省建设厅原副厅长、“第一女巨贪”杨秀珠，还有“逃跑书记”杨湘洪和河北省委原书记程维高之子程慕阳。此前中央反腐败协调小组国际追逃追赃工作办公室已决定启动“天网”行动。
+  cites: [e08-people-2015-04-23-red-notice]
+
+- id: e08-2016-huang-xingguo
+  date: 2016-09-10
+  end: 2017-09-25
+  title: 天津市委代理书记黄兴国落马
+  lane: purge
+  summary: 2016年9月10日，中纪委宣布天津市委代理书记、市长黄兴国涉嫌严重违纪接受组织调查。2017年1月中纪委通报称他“妄议中央大政方针，破坏党的集中统一”，搞迷信活动、打探涉及本人的问题线索、对抗组织审查，“严重破坏了天津的政治生态”，开除其党籍和公职。同年9月25日，石家庄中院以受贿4003万余元判处其有期徒刑十二年。
+  people: [huang-xingguo]
+  cites: [c03-ccdi-2016-09-10-huang-xingguo-probe, c03-ccdi-2017-01-04-huang-xingguo-expel, c03-xinhua-2017-09-25-huang-xingguo-verdict]
+
+- id: e08-2017-chongqing-inspection-revisit
+  date: 2017-02-11
+  title: 中央巡视组对重庆“回头看”反馈：清除薄王遗毒不彻底
+  lane: purge
+  summary: 2017年2月11日，中央第十一巡视组向重庆市委反馈巡视“回头看”情况，组长徐令义当面向政治局委员、市委书记孙政才指出，重庆存在党的领导弱化、选人用人把关不严、一些干部带病提拔等问题，上轮巡视整改不到位，清除薄熙来、王立军思想遗毒不彻底。这轮“回头看”于2016年11月至2017年1月进行，反馈会由中央巡视工作领导小组成员姜信治主持。
+  people: [sun-zhengcai, bo-xilai, wang-lijun]
+  voices:
+    - voice: official
+      text: 上轮巡视发现的一些重点问题整改不到位，清除“薄、王”思想遗毒不彻底
+      cite: b07-ccdi-2017-02-13-chongqing-inspection
+      quote: true
+  cites: [b07-ccdi-2017-02-13-chongqing-inspection]
+
+- id: e08-2017-lu-wei
+  date: 2017-11-21
+  title: 前网信办主任鲁炜落马
+  lane: purge
+  summary: 2017年11月21日，中纪委宣布中宣部原副部长鲁炜涉嫌严重违纪接受组织审查，他是十九大后落马的首位正部级官员。鲁炜2013年起任国家网信办主任，曾与潘石屹等十多位“大V”座谈并达成“七条底线”共识，乌镇世界互联网大会被视为他的政治遗产，BBC称他是中国互联网审查的捍卫者。中央巡视组此前指网信办“存在小圈子”等问题。
+  people: [lu-wei]
+  voices:
+    - voice: witness
+      text: 他很聪明，知道网络发达了他的权力也大了，他给了网络媒体一些空间，而他的继任者还是在沿用管制传统媒体那一套方法。
+      cite: b12-bbc-2017-11-22-lu-wei
+      quote: true
+  cites: [c03-ccdi-2017-11-21-lu-wei-probe, b12-bbc-2017-11-22-lu-wei]
+
+- id: e08-2018-national-supervision-commission
+  date: 2018-03-20
+  end: 2018-03-23
+  title: 《监察法》通过，国家监察委员会挂牌
+  lane: purge
+  major: true
+  summary: 2018年3月20日，十三届全国人大一次会议表决通过《监察法》，此前已选举杨晓渡为国家监察委员会主任；23日国家监委揭牌，赵乐际称这“标志着中国特色国家监察体制已经形成”。监察法以“留置”取代党纪检查中的“两规”，留置最长不得超过半年，期间不允许律师介入；BBC称“双规”长期以来一直遭到外界批评。
+  people: [yang-xiaodu, zhao-leji]
+  voices:
+    - voice: official
+      text: 纪委监委作为党内监督、国家监察的专责机关
+      cite: e08-xinhua-2018-03-23-ncs
+      quote: true
+    - voice: zh
+      text: 留置过程中最引起外界关注的是，期间不允许律师介入。
+      cite: e08-bbc-2018-03-20-supervision-law
+      quote: true
+  cites: [e08-xinhua-2018-03-23-ncs, e08-bbc-2018-03-20-supervision-law]
+
+- id: e08-2020-sun-lijun-probe
+  date: 2020-04-19
+  title: 公安部副部长孙力军被查
+  lane: purge
+  summary: 2020年4月19日，中纪委国家监委宣布公安部副部长孙力军接受审查调查。他曾任孟建柱秘书和公安部安全保卫局局长，兼管港澳台事务，2月还作为中央指导组成员赴武汉督导疫情防控。公安部连夜表态，罕见要求“肃清周永康、孟宏伟、孙力军等人流毒影响”。BBC指他毕业于澳大利亚新南威尔士大学，西方院校背景在中国安全官员中较为罕见。
+  people: [sun-lijun, meng-jianzhu, zhou-yongkang, meng-hongwei]
+  factions: [sun-lijun-gang]
+  cites: [c03-ccdi-2020-04-19-sun-lijun-probe, b12-bbc-2020-04-20-sun-lijun]
+
+- id: e08-2021-lai-xiaomin-executed
+  date: 2021-01-29
+  title: 华融原董事长赖小民被执行死刑
+  lane: purge
+  summary: 2021年1月5日，天津二中院以受贿、贪污、重婚罪判处中国华融原董事长赖小民死刑，认定其受贿17.88亿余元，其中1.04亿余元属未遂，并伙同特定关系人侵吞公款2513万余元。经最高法院核准，1月29日赖小民被执行死刑。BBC指近年中国对经济类犯罪判处死刑较为少见，白恩培、魏鹏远等人均被判死缓及终身监禁。
+  people: [lai-xiaomin]
+  voices:
+    - voice: official
+      text: 赖小民受贿数额特别巨大，犯罪情节特别严重，社会影响特别恶劣
+      cite: c03-xinhua-2021-01-29-lai-xiaomin-executed
+      quote: true
+    - voice: west
+      text: 因受贿等金融犯罪对赖小民处以死刑，是骇人听闻和不可接受的，显然违背了中国对尊重国际人权标准的承诺。
+      cite: b12-bbc-2021-01-07-lai-xiaomin
+      quote: true
+  cites: [c03-court-2021-01-05-lai-xiaomin-verdict, c03-xinhua-2021-01-29-lai-xiaomin-executed, b12-bbc-2021-01-07-lai-xiaomin]
+
+- id: e08-2021-zhengfa-rectification
+  date: 2021-02-27
+  title: 全国政法队伍教育整顿启动
+  lane: purge
+  summary: 2021年2月27日，全国政法队伍教育整顿动员部署会议召开，中央政法委秘书长陈一新称教育整顿是“刮骨疗毒式的自我革命”和激浊扬清式的延安整风，提出筑牢政治忠诚、清除害群之马、整治顽瘴痼疾、弘扬英模精神四大任务，其中清除害群之马被称为“政法战线刀刃向内”的重要体现。整顿按中央意见和第一批指导方案分批推进。
+  people: [chen-yixin]
+  factions: [zhengfa]
+  concepts: [self-revolution]
+  cites: [e08-chinapeace-2021-02-28-zhengfa-rectify]
+
+- id: e08-2022-ccdi-sixth-plenum
+  date: 2022-01-18
+  title: 十九届中纪委六次全会：自我革命是“第二个答案”
+  lane: purge
+  summary: 2022年1月18日，习近平在十九届中央纪委六次全会上讲话，再次阐述自我革命是中共跳出治乱兴衰历史周期率的“第二个答案”，以“九个坚持”概括新时代全面从严治党经验，并称“腐败和反腐败较量还在激烈进行，并呈现出一些新的阶段性特征”，首个任重道远是防范形形色色的利益集团成伙作势、围猎腐蚀。
+  people: [xi-jinping]
+  concepts: [self-revolution, third-resolution]
+  cites: [i01-xinhua-2022-01-19-second-answer]
+
+- id: e08-2022-fu-sun-verdicts
+  date: 2022-09-22
+  end: 2022-09-23
+  title: 傅政华、孙力军被判死缓并终身监禁
+  lane: purge
+  summary: 2022年9月22日和23日，长春中院先后宣判司法部原部长傅政华和公安部原副部长孙力军。傅政华受贿1.17亿余元，并在任北京市公安局局长时隐瞒其弟付卫华涉嫌严重犯罪的线索；孙力军受贿6.46亿余元，另犯操纵证券市场、非法持有枪支罪。二人均被判死缓，期满减为无期徒刑后终身监禁、不得减刑假释。官方通报称他们均属孙力军“政治团伙”。
+  people: [fu-zhenghua, sun-lijun]
+  factions: [sun-lijun-gang, zhengfa]
+  voices:
+    - voice: scholar
+      text: 在二十大前夕审判傅政华和孙力军，反映中共党内权力斗争加剧，习近平意图给潜在的政治对手释放一些信号，让他们不敢轻举妄动。
+      cite: f03-bbc-2022-09-27-fu-sun
+      quote: true
+  cites: [c03-xinhua-2022-09-22-fu-zhenghua-verdict, c03-xinhua-2022-09-23-sun-lijun-verdict, f03-bbc-2022-09-27-fu-sun]
+
+- id: e08-2024-tang-renjian
+  date: 2024-05-18
+  end: 2025-09-28
+  title: 农业农村部部长唐仁健落马，后被判死缓
+  lane: purge
+  summary: 2024年5月18日，中纪委国家监委宣布农业农村部部长唐仁健接受审查调查。11月通报称他贯彻“三农”决策部署不力，“在脱贫攻坚中搞盲目决策”，违规干预和插手司法活动、家风不正，开除其党籍和公职。2025年9月28日，长春中院认定他在2007至2024年间受贿2.68亿余元，以受贿罪判处死刑缓期二年执行。
+  people: [tang-renjian]
+  cites: [c03-ccdi-2024-05-18-tang-renjian-probe, c03-xinhua-2024-11-15-tang-renjian-expel, c03-xinhua-2025-09-28-tang-renjian-verdict]
+
+- id: e08-2026-ccdi-fifth-plenum
+  date: 2026-01-12
+  title: 二十届中纪委五次全会：2025年查处中管干部181人
+  lane: purge
+  summary: 2026年1月12日，李希在二十届中央纪委五次全会上作工作报告，称2025年中央纪委国家监委立案审查调查金湘军、蓝天立、王莉霞、毕井泉、齐扎拉、蒋超良、刘慧、易会满等中管干部181人，全国纪检监察机关立案101.2万件，留置4.7万人，处分98.3万人，2.6万人主动投案，追回外逃人员963人。其中山西省长金湘军于2025年4月、证监会原主席易会满于9月被查。
+  people: [li-xi, jin-xiangjun, yi-huiman]
+  cites: [b06-xinhua-2026-01-12-li-xi-ccdi-report, c03-xinhua-2025-04-12-jin-xiangjun-probe, c03-xinhua-2025-09-06-yi-huiman-probe]
+
+- id: e08-2026-three-ministers-probed
+  date: 2026-01-29
+  end: 2026-02-10
+  title: 孙绍骋、王祥喜、易炼红半月内相继被查
+  lane: purge
+  summary: 二十届中纪委五次全会后不久，中纪委国家监委半个月内连续宣布三名部级官员接受审查调查：1月29日为十四届全国人大社会建设委员会副主任委员孙绍骋，1月31日为应急管理部党委书记、部长王祥喜，2月10日为十四届全国人大财政经济委员会副主任委员易炼红。三人中王祥喜是在任正部长，另两人已转任人大专门委员会副职。
+  people: [sun-shaocheng, wang-xiangxi, yi-lianhong]
+  cites: [c03-xinhua-2026-01-29-sun-shaocheng-probe, c03-xinhua-2026-01-31-wang-xiangxi-probe, c03-ccdi-2026-02-10-yi-lianhong-probe]
+
+# ---- 意识形态与网络管控 ----
+- id: e08-2013-mass-line-campaign
+  date: 2013-06-18
+  title: 群众路线教育实践活动与反“四风”
+  lane: ideo
+  summary: 2013年6月18日，习近平在党的群众路线教育实践活动工作会议上讲话，称党内脱离群众现象大量存在，集中表现为形式主义、官僚主义、享乐主义和奢靡之风“四风”，要求以“照镜子、正衣冠、洗洗澡、治治病”为总要求，对作风之弊“来一次大排查、大检修、大扫除”。这场自上而下的教育实践活动随即在全党展开。
+  people: [xi-jinping]
+  concepts: [eight-point-rules]
+  cites: [e08-xinhua-2013-06-18-mass-line]
+
+- id: e08-2013-online-defamation-rule
+  date: 2013-09
+  title: “转发500次”诽谤司法解释与薛蛮子案
+  lane: ideo
+  summary: 2013年秋，最高法、最高检发布网络诽谤司法解释，规定同一诽谤信息实际被点击、浏览5000次以上或被转发500次以上，即可认定为诽谤罪的“情节严重”。BBC称时任网信办主任鲁炜被外界视为这一解释的始作俑者。同期网络大V薛蛮子被查处，网信办负责人称其被查与“大V”身份无关，系因嫖娼等违法行为，并称媒体对500次标准的解读有偏差。
+  people: [lu-wei]
+  voices:
+    - voice: official
+      text: 显然，根据这一规定，被转发500次的对象是特定的诽谤信息，而不是其他信息。
+      cite: e08-cac-2014-02-25-rumor
+      quote: true
+  cites: [e08-cac-2014-02-25-rumor, b12-bbc-2017-11-22-lu-wei]
+
+- id: e08-2014-cyber-leading-group
+  date: 2014-02-27
+  title: 中央网络安全和信息化领导小组成立
+  lane: ideo
+  major: true
+  summary: 2014年2月27日，中央网络安全和信息化领导小组召开第一次会议，习近平任组长，李克强、刘云山任副组长。习近平称“没有网络安全就没有国家安全，没有信息化就没有现代化”，要求把握网上舆论引导的时、度、效，“使网络空间清朗起来”，并抓紧完善互联网信息内容管理等法律法规。同年5月，鲁炜任领导小组办公室主任兼国家网信办主任。
+  people: [xi-jinping, li-keqiang, liu-yunshan, lu-wei]
+  cites: [e08-gov-2014-02-27-cyber-group, c03-ccdi-2017-11-21-lu-wei-probe]
+
+- id: e08-2014-arts-forum
+  date: 2014-10-15
+  title: 文艺工作座谈会：“文艺不能当市场的奴隶”
+  lane: ideo
+  summary: 2014年10月15日，习近平在人民大会堂主持文艺工作座谈会，批评文艺创作有数量缺质量、有高原缺高峰，存在抄袭模仿、千篇一律等问题，称“文艺不能当市场的奴隶”、低俗不是通俗，要求把社会效益放在首位。讲到网络文学时，他询问在场的两位网络作家，周小平、花千芳起身示意，习近平会后勉励他们“创作更多具有正能量的作品”。
+  people: [xi-jinping, liu-yunshan]
+  cites: [e08-thepaper-2014-10-15-arts-forum, e08-xinhua-2014-10-15-arts-forum]
+
+- id: e08-2015-national-security-law
+  date: 2015-07-01
+  title: 新《国家安全法》通过
+  lane: ideo
+  major: true
+  summary: 2015年7月1日，全国人大常委会以154票赞成、0票反对、1票弃权通过新《国家安全法》，取代1993年的旧法，覆盖范围从惩治叛国、分裂国家、煽动颠覆政权扩展到金融经济、粮食、能源、网络信息、宗教乃至外太空、国际海底和极地，并首次将香港和澳门纳入其中。香港评论人刘锐绍认为，新法是透过立法包装党的意志、实施全方位控制。
+  concepts: [holistic-security]
+  voices:
+    - voice: scholar
+      text: 现在这个国家安全法所说的‘国家安全’实际上是‘政权安全’
+      cite: e08-bbc-2015-07-01-nsl
+      quote: true
+  cites: [e08-bbc-2015-07-01-nsl]
+
+- id: e08-2016-media-forum
+  date: 2016-02-19
+  title: 新闻舆论工作座谈会：党媒“必须姓党”
+  lane: ideo
+  summary: 2016年2月19日，习近平到人民日报社、新华社、中央电视台调研，并主持党的新闻舆论工作座谈会，称党和政府主办的媒体必须姓党，要做到爱党、护党、为党。央视当天在大楼电子屏打出“央视姓党 绝对忠诚 请您检阅”标语，有网友称“令人有生活在朝鲜的错觉”；新华社一名编辑部副主任发表诗作《总书记，您的背影我的目光》，同样引发哗然。
+  people: [xi-jinping]
+  voices:
+    - voice: official
+      text: 党和政府主办的媒体是党和政府的宣传阵地，必须姓党。
+      cite: e08-gov-2016-02-19-media-forum
+      quote: true
+  cites: [e08-gov-2016-02-19-media-forum, e08-voa-2016-02-19-cctv-loyal]
+
+- id: e08-2016-overseas-ngo-law
+  date: 2016-04-28
+  title: 《境外非政府组织境内活动管理法》通过
+  lane: ideo
+  summary: 2016年4月28日，全国人大常委会通过《境外非政府组织境内活动管理法》，自2017年1月1日起实施。包括慈善及环保团体在内的境外NGO须向警方登记才可在华工作，警方有权调查，并可将涉嫌颠覆国家政权、分裂国家的组织列入不受欢迎名单。美国对此“深表关切”，国际特赦组织称新法目的是进一步扼杀公民社会，必须废止。
+  voices:
+    - voice: west
+      text: 中国当局，尤其是警方，将拥有无限制的权力来打击非政府组织，限制他们的活动，最终扼杀公民社会。
+      cite: e08-bbc-2016-04-28-ngo-law
+      quote: true
+  cites: [e08-bbc-2016-04-28-ngo-law]
+
+- id: e08-2016-cybersecurity-law
+  date: 2016-11-07
+  title: 《网络安全法》通过
+  lane: ideo
+  major: true
+  summary: 2016年11月7日，十二届全国人大常委会第二十四次会议经三次审议，以154票赞成、1票弃权通过《网络安全法》，2017年6月1日起施行。法律禁止发表损害国家团结、扰乱经济秩序或企图推翻社会主义制度的内容，要求关键信息基础设施运营商在境内储存个人信息和重要商业数据。此前46家国际企业团体联名致函李克强表示严重关切。
+  concepts: [holistic-security]
+  voices:
+    - voice: official
+      text: 这是我国网络领域的基础性法律，明确加强对个人信息保护，打击网络诈骗。
+      cite: e08-cac-2016-11-07-cyber-law
+      quote: true
+    - voice: official
+      text: 制定网络安全法是落实国家总体安全观的重要举措
+      cite: e08-bbc-2016-11-07-cyber-law
+      quote: true
+    - voice: zh
+      text: 新法很多条款实际上是“贸易壁垒”，严重削弱国际企业在中国市场竞争力，也无益于加强网络安全。
+      cite: e08-bbc-2016-11-07-cyber-law
+      quote: true
+  cites: [e08-cac-2016-11-07-cyber-law, e08-bbc-2016-11-07-cyber-law]
+
+# ---- 高层政治 ----
+- id: e08-2019-fourth-plenum
+  date: 2019-10-31
+  title: 十九届四中全会：推进国家治理体系和治理能力现代化
+  lane: power
+  summary: 2019年10月31日闭幕的十九届四中全会审议通过《中共中央关于坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化若干重大问题的决定》，提出到建党一百年时制度更加成熟更加定型，2035年基本实现、新中国成立一百年时全面实现国家治理体系和治理能力现代化，要求各级领导干部“带头维护制度权威”，坚定制度自信。
+  people: [xi-jinping]
+  concepts: [four-confidences]
+  cites: [e08-xinhua-2019-10-31-4th-plenum]
+
+- id: e08-2025-shi-li-swap
+  date: 2025-04-03
+  title: 石泰峰、李干杰对调中组部与统战部
+  lane: power
+  summary: 2025年4月初，中共高层出现罕见人事调整：中央统战部部长石泰峰改任中央组织部部长，中组部部长李干杰则执掌中央统战部。此前3月31日中央政治局会议通稿提到会议“还研究了其他事项”。石泰峰曾在中央党校工作25年，后任宁夏、内蒙古党委书记；李干杰长期在环保系统工作，2023年4月起执掌中组部。
+  people: [shi-taifeng, li-ganjie]
+  cites: [c02-zaobao-2025-04-03-shi-li-swap]
+
+# ---- 军队 ----
+- id: e08-2016-cmc-organs-reorganized
+  date: 2016-01-11
+  title: 四总部撤销，军委机关改为15个职能部门
+  lane: army
+  major: true
+  summary: 2016年1月11日，国防部举行专题新闻发布会，宣布军委机关调整组建：原总参谋部、总政治部、总后勤部、总装备部四总部，改为7个部（厅）、3个委员会、5个直属机构共15个职能部门，包括军委联合参谋部、政治工作部、后勤保障部、装备发展部、训练管理部、国防动员部，以及军委纪委、政法委、科技委和审计署等。
+  cites: [e08-xinhua-2016-01-11-cmc-organs]
+
+- id: e08-2016-five-theater-commands
+  date: 2016-02-01
+  title: 五大战区成立，取代七大军区
+  lane: army
+  major: true
+  summary: 2016年2月1日，解放军战区成立大会在八一大楼举行，习近平向东部、南部、西部、北部、中部战区授予军旗并发布训令，称这是“构建我军联合作战体系的历史性进展”。五大战区取代北京、沈阳、济南、南京、广州、成都、兰州七大军区，西部战区首任司令员为赵宗岐。美国之音引述分析称，军改将逐渐抛弃苏联式指挥体系、向美国模式转型。
+  people: [xi-jinping, zhao-zongqi]
+  voices:
+    - voice: zh
+      text: 裁军和军改也引起很大争议。官方的《解放军报》此前曾发表一系列评论文章，向反对改革的声音发出警告。
+      cite: e08-voa-2016-02-01-theaters
+      quote: true
+  cites: [e08-gov-2016-02-01-theaters, e08-voa-2016-02-01-theaters]
+
+- id: e08-2017-zhurihe-parade
+  date: 2017-07-30
+  title: 朱日和沙场阅兵
+  lane: army
+  summary: 2017年7月30日，为庆祝建军90周年，解放军在内蒙古朱日和训练基地举行阅兵，习近平身穿迷彩服检阅受阅官兵12000人、地面装备600余套，要求军队永远听党的话、“党指向哪里、就打到哪里”。阅兵不安排踢正步、没有军乐团、不安排群众观摩。距十九大不到三个月，评论员刘锐绍认为阅兵的政治意义大于军事意义。
+  people: [xi-jinping]
+  voices:
+    - voice: scholar
+      text: 这是习近平在展示力量，目的是为了警告其政敌和党内其他派系：他的权力非常稳固，他是大老板，他在十九大上可以任意处理人事问题
+      cite: e08-bbc-2017-07-31-zhurihe-press
+      quote: true
+  cites: [e08-bbc-2017-07-30-zhurihe, e08-bbc-2017-07-31-zhurihe-press]
+
+- id: e08-2017-zhang-yang-suicide
+  date: 2017-11-23
+  title: 前军委政治工作部主任张阳自缢
+  lane: army
+  summary: 2017年11月28日新华社披露，原中央军委政治工作部主任张阳上将已于23日在家中自缢身亡。他自8月28日起被中央军委组织谈话，调查其涉郭伯雄、徐才厚等案问题线索，期间一直在家中居住，官方称其涉嫌行贿受贿、巨额财产来源不明犯罪。张阳是十八大后首位被确认落马的在任军委委员，港媒称其为“徐才厚嫡系”。
+  people: [zhang-yang, guo-boxiong, xu-caihou, fang-fenghui]
+  cites: [c02-xinhua-2017-11-28-zhang-yang, f02-bbc-2017-11-28-zhang-yang]
+
+- id: e08-2019-fang-fenghui-sentenced
+  date: 2019-02-20
+  title: 前联合参谋部参谋长房峰辉被判无期
+  lane: army
+  summary: 2019年2月20日，军事法院以受贿、行贿、巨额财产来源不明罪判处中央军委联合参谋部原参谋长房峰辉无期徒刑，剥夺政治权利终身，并处没收个人全部财产。房峰辉2017年4月还曾陪同习近平与特朗普首次会面，同年8月被剥夺公职、从公众视野中消失；BBC指他与2017年11月自缢身亡的张阳关系密切。
+  people: [fang-fenghui, zhang-yang]
+  cites: [c02-court-2019-02-20-fang-fenghui, b13-bbc-2019-02-20-fang-sentence]
+
+- id: e08-2024-yanan-political-work-conference
+  date: 2024-06-17
+  end: 2024-06-19
+  title: 延安中央军委政治工作会议
+  lane: army
+  summary: 2024年6月17日至19日，中央军委政治工作会议在延安召开。习近平称十八大以来召开古田全军政治工作会议、以整风精神推进政治整训，全面从严治军“决心之大前所未有，力度之大前所未有”，并概括新时代政治建军方略，明确“枪杆子要始终掌握在对党忠诚可靠的人手中”、“军中绝不能有腐败分子藏身之地”。
+  people: [xi-jinping]
+  concepts: [self-revolution]
+  cites: [e08-gov-2024-06-19-yanan]
+
+- id: e08-2024-generals-removed-as-deputies
+  date: 2024-09-13
+  end: 2024-12-25
+  title: 邓志平、尤海涛、李鹏程等将领被罢免人大代表
+  lane: army
+  summary: 2024年9月13日全国人大常委会公告，陆军原副司令员邓志平中将因涉嫌严重违纪违法，已于6月6日被陆军军人代表大会罢免全国人大代表职务。12月25日又公布，陆军原副司令员尤海涛（尤太忠之子）和南部战区海军司令员李鹏程被罢免，二人均为官方首次披露涉嫌严重违纪违法。法广统计，十四届全国人大代表已从2977人降至2931人。
+  people: [deng-zhiping, you-haitao, li-pengcheng]
+  cites: [f10-caixin-2024-09-13-deng-zhiping, f10-rfi-2024-12-25-you-li]
+
+- id: e08-2025-miao-hua-deputy-removed
+  date: 2025-03-14
+  title: 苗华被罢免全国人大代表，官方首提“违法”
+  lane: army
+  summary: 2025年5月15日公布的全国人大常委会公报显示，中央军委政治工作部已于3月14日召开军人代表大会，以涉嫌严重违纪违法为由罢免苗华的第十四届全国人大代表职务，这是官方首度明确提到苗华涉嫌违法。苗华此前于2024年11月被停职检查。外媒同期报道军委副主席何卫东可能已被查，国防部发言人在3月和4月记者会上均未证实或反驳。
+  people: [miao-hua, he-weidong]
+  cites: [b08-rfi-2025-06-27-miao]
+
+- id: e08-2026-five-generals-deputies-removed
+  date: 2026-02-26
+  title: 李桥铭等五名上将被罢免人大代表
+  lane: army
+  summary: 2026年2月26日，全国人大常委会罢免19人的全国人大代表职务，其中9名为解放军代表，包括陆军原司令员李桥铭、海军原司令员沈金龙、海军原政委秦生祥、空军原政委于忠福、信息支援部队原政委李伟5名上将。德国之声统计两年多来已有约36名解放军人大代表被罢免，包括16名上将；1月被立案的张又侠、刘振立则仍在代表名单上。
+  people: [li-qiaoming, shen-jinlong, qin-shengxiang, yu-zhongfu, zhang-youxia, liu-zhenli]
+  voices:
+    - voice: scholar
+      text: 按正常惯例，应该会让退休将领当完这届人大代表，下一届才换掉。这个时候换，特别是那些快70岁被拿下的，说明出事的可能性还是比较大。
+      cite: f10-zaobao-2026-02-27-five-generals
+      quote: true
+  cites: [f09-dw-2026-02-26-pla-deputies, f10-zaobao-2026-02-27-five-generals]
+
+- id: e08-2026-zhao-zongqi-cppcc-removed
+  date: 2026-08-26
+  title: 赵宗岐上将被撤销全国政协委员资格
+  lane: army
+  summary: 2026年8月26日，全国政协常委会会议决定免去西部战区原司令员赵宗岐上将的全国政协常委、民族和宗教委员会副主任职务，并撤销其委员资格，同时增补中纪委前副书记傅奎为全国政协委员。赵宗岐曾任第14集团军军长、济南军区司令员，2016年军改后任西部战区司令员，2021年退居二线，是十八届、十九届中央委员。
+  people: [zhao-zongqi]
+  cites: [f10-zaobao-2026-08-26-zhao-zongqi]
+
+- id: e08-2026-zhang-liu-state-cmc-removed
+  date: 2026-08-28
+  title: 人大常委会免去张又侠、刘振立国家军委职务
+  lane: army
+  summary: 2026年8月28日，全国人大常委会免去张又侠的国家中央军委副主席职务和刘振立的国家中央军委委员职务，二人同时被终止全国人大代表资格，这是他们1月被立案后首次完成国家机构层面的免职。曾长期担任习近平贴身秘书、2013年起任军委办公厅主任的钟绍军也被终止代表资格。美国之音指国家中央军委公开在任成员只剩习近平和张升民。
+  people: [zhang-youxia, liu-zhenli, zhong-shaojun, zhang-shengmin, xi-jinping]
+  factions: [zhang-liu]
+  voices:
+    - voice: scholar
+      text: 张又侠被正式免职并不令人意外，但同时被处理的其他军官可能反映出习近平正在清除张又侠在解放军领导层中的人脉网络
+      cite: b08-voa-2026-08-28-zhang-liu
+      quote: true
+  cites: [b08-voa-2026-08-28-zhang-liu]
+
+# ---- 经济、平台与房地产 ----
+- id: e08-2016-circuit-breaker
+  date: 2016-01-07
+  title: A股熔断机制四天即暂停
+  lane: econ
+  summary: 2016年1月4日起A股实施指数熔断机制，4个交易日内熔断被触发4次，导致两日提前收盘；1月7日沪深300开盘15分钟即跌5%，复牌后又跌至7%触发二次熔断，全天交易仅14分钟，千股跌停。当晚证监会宣布自1月8日起暂停熔断机制，称其“没有达到预期效果”，并有接近阈值时加速触发的“磁吸效应”。
+  voices:
+    - voice: official
+      text: 权衡利弊，目前负面影响大于正面效应。因此，为维护市场稳定，证监会决定暂停熔断机制。
+      cite: e08-thepaper-2016-01-07-circuit-breaker
+      quote: true
+  cites: [e08-bbc-2016-01-07-circuit-breaker, e08-thepaper-2016-01-07-circuit-breaker]
+
+- id: e08-2016-housing-not-for-speculation
+  date: 2016-12-16
+  title: “房子是用来住的，不是用来炒的”
+  lane: econ
+  major: true
+  summary: 2016年12月16日闭幕的中央经济工作会议提出，坚持“房子是用来住的，不是用来炒的”定位，综合运用金融、土地、财税、投资、立法等手段建立长效机制，既抑制房地产泡沫，又防止大起大落，并要求在宏观上管住货币、严格限制信贷流向投资投机性购房。新华社称当年部分一二线热点城市房价一度迅猛上涨，与巨额资金涌入楼市直接相关。
+  cites: [e08-xinhua-2016-12-16-housing]
+
+- id: e08-2020-three-red-lines
+  date: 2020-08-20
+  title: 房企融资“三条红线”
+  lane: econ
+  major: true
+  summary: 2020年8月20日，住建部和人民银行召开重点房地产企业座谈会，对12家房企出台资金监测和融资管理规则，即业内所称“三条红线”：剔除预收款后资产负债率不超过70%、净负债率不超过100%、现金短债比不小于1。房企按踩线数量分四档，三项全部踩线者有息负债不得增加。界面新闻引述统计称，有多达56家房企已踩了三条红线，包括恒大、融创、华夏幸福等。
+  cites: [e08-jjckb-2020-08-28-three-red-lines, e08-jiemian-2020-08-23-three-red-lines]
+
+- id: e08-2021-alibaba-antitrust-fine
+  date: 2021-04-10
+  title: 阿里巴巴被罚182.28亿元
+  lane: econ
+  summary: 2021年4月10日，市场监管总局认定阿里巴巴集团自2015年以来滥用在中国境内网络零售平台服务市场的支配地位，要求平台内商家“二选一”，依据反垄断法处以其2019年境内销售额4557.12亿元4%的罚款，计182.28亿元，并要求其连续三年提交自查合规报告。此案于2020年12月立案，是平台经济反垄断整顿中金额最大的罚单之一。
+  people: [ma-yun]
+  cites: [b10-xinhua-2021-04-10-alibaba-fine]
+
+- id: e08-2021-didi-cybersecurity-review
+  date: 2021-07-02
+  end: 2022-07-21
+  title: 滴滴赴美上市后遭网络安全审查并被罚80.26亿元
+  lane: econ
+  major: true
+  summary: 2021年7月，滴滴在美国上市未及48小时，网信办即宣布对其实施网络安全审查，又过48小时要求滴滴App下架、停止新用户注册，随后满帮集团旗下“运满满”“货车帮”和BOSS直聘也被启动审查。2022年7月21日，网信办认定滴滴违反网络安全法、数据安全法和个人信息保护法，“情节严重、性质恶劣”，罚款80.26亿元，对程维、柳青各罚100万元。
+  voices:
+    - voice: official
+      text: 违法违规行为事实清楚、证据确凿、情节严重、性质恶劣
+      cite: e08-cac-2022-07-21-didi-fine
+      quote: true
+  cites: [e08-bbc-2021-07-06-didi, e08-cac-2022-07-21-didi-fine]
+
+- id: e08-2023-country-garden-default-risk
+  date: 2023-08-07
+  end: 2023-08-14
+  title: 碧桂园美元债利息逾期
+  lane: econ
+  summary: 2023年8月，上半年仍居中国房企销售面积第一的碧桂园未能按期支付两笔美元债共2250万美元利息，进入30天宽限期；10日发布盈利预警称上半年将净亏损450亿至550亿元，14日旗下11支境内债券暂停交易、涉及157亿元。碧桂园负债1.43万亿元，BBC称其体量与负债2.43万亿的恒大相近，但拿地集中在三四线城市。
+  voices:
+    - voice: scholar
+      text: 与此前的政策因素、疫情因素等外部影响不同，房地产市场本身的不断下行，是碧桂园难以支撑的根本因素
+      cite: e08-bbc-2023-08-15-country-garden
+      quote: true
+  cites: [e08-bbc-2023-08-15-country-garden]
+
+- id: e08-2023-xu-jiayin-detained
+  date: 2023-09-28
+  title: 许家印被采取强制措施
+  lane: econ
+  summary: 2023年9月28日，中国恒大在港交所公告，董事局主席许家印因涉嫌违法犯罪已被依法采取强制措施，公司股票停牌。许家印2017年曾为中国首富，恒大身背2.4万亿元债务，据中国媒体估算留下162万套“烂尾楼”、涉及600万业主。BBC指恒大财富通过向员工层层摊派销售理财产品集资400亿元，是许家印最可能涉罪的部分之一。
+  people: [xu-jiayin]
+  cites: [b14-xinhua-2023-09-28-xu-detained, b14-bbc-2023-09-29-xu-probe]
+
+- id: e08-2024-evergrande-fraud-penalty
+  date: 2024-03-18
+  end: 2024-05-31
+  title: 恒大地产两年财务造假5640亿元被重罚
+  lane: econ
+  summary: 2024年3月18日披露的证监会处罚事先告知书认定，恒大地产通过提前确认收入的方式，在2019、2020两年虚增收入5640亿元、虚增利润919亿元，许家印决策并组织实施财务造假，“手段特别恶劣，情节特别严重”。5月31日证监会正式决定对恒大地产罚款41.75亿元，对许家印顶格罚款4700万元并终身禁入证券市场，称这是债券市场统一执法以来的最严尺度。
+  people: [xu-jiayin]
+  cites: [b14-bjd-2024-03-18-evergrande-fraud, b14-xinhua-2024-05-31-evergrande-penalty]
+
+- id: e08-2024-hidden-debt-swap
+  date: 2024-11-08
+  title: 6万亿元地方隐性债务置换
+  lane: econ
+  major: true
+  summary: 2024年11月8日，十四届全国人大常委会第十二次会议批准国务院议案，增加6万亿元地方政府债务限额，用于置换存量隐性债务。全国人大预算工作委员会主任许宏才介绍，新增限额全部安排为专项债务限额，“一次报批，分三年实施”，2024年末地方政府专项债务限额将由29.52万亿元增至35.52万亿元。
+  cites: [e08-gov-2024-11-08-debt-swap]
+
+- id: e08-2025-private-enterprise-symposium
+  date: 2025-02-17
+  title: 习近平出席民营企业座谈会
+  lane: econ
+  summary: 2025年2月17日，习近平出席民营企业座谈会并讲话，称党和国家对民营经济发展的基本方针政策已经纳入中国特色社会主义制度体系，“不能变，也不会变”，民营企业和民营企业家“大显身手正当其时”。会上华为任正非、比亚迪王传福、新希望刘永好、韦尔半导体虞仁荣、宇树科技王兴兴、小米雷军先后发言。
+  people: [xi-jinping, ren-zhengfei]
+  cites: [b14-gov-2025-02-17-private-symposium]
+
+- id: e08-2026-xu-jiayin-life-sentence
+  date: 2026-08-20
+  title: 许家印一审被判无期徒刑
+  lane: econ
+  summary: 2026年8月20日，深圳中院一审宣判恒大案：许家印以非法吸收公众存款、集资诈骗、欺诈发行证券、单位行贿、职务侵占等八项罪名数罪并罚，被判无期徒刑并没收个人全部财产；恒大集团和恒大地产分别被判罚金88.2亿元和70亿元。法院认定2016至2021年间恒大以“持续性、大规模财务造假”虚增资产、隐瞒负债。BBC称恒大爆雷事件至今已导致56人被判刑。
+  people: [xu-jiayin]
+  cites: [c04-xinhua-2026-08-20-xu-jiayin, c04-bbc-2026-08-20-xu-jiayin]
+
+# ---- 社会与清零 ----
+- id: e08-2018-jasic-workers
+  date: 2018-07
+  end: 2018-08-24
+  title: 深圳佳士工人维权与左翼学生声援团
+  lane: society
+  summary: 2018年夏，深圳佳士科技工人维权引来各地大学生组成的声援团，成员多为二三十岁的左翼青年，岳昕、沈梦雨等“90后”自称马克思主义者；8月6日的集会还有40多名来自左翼网站乌有之乡的党员和退休干部到场。8月24日，深圳警方暴力清场声援团驻地，包括岳昕在内的五十多名大学生和工人被捕，岳昕此后下落不明。
+  concepts: [maoist-left]
+  voices:
+    - voice: scholar
+      text: 此次行动由工人自发，随后得到高校学生和国内的一些左派人士的支援，并不是由国内左派人士主导。
+      cite: i02-bbc-2018-08-16-jasic
+      quote: true
+  cites: [i02-bbc-2018-08-16-jasic, c09-rfi-2018-10-23-yue-xin]
+
+- id: e08-2018-changsheng-vaccine-scandal
+  date: 2018-07
+  end: 2018-10-16
+  title: 长春长生疫苗造假案
+  lane: society
+  summary: 2018年7月，长春长生生物被查出冻干人用狂犬病疫苗生产记录造假，自媒体文章《疫苗之王》随即刷屏，披露其25万支不达标百白破疫苗已打入儿童体内。正在国外访问的习近平作出指示，称其“性质恶劣，令人触目惊心”，要求一查到底。10月16日，监管部门认定其勾兑原液、编造记录、销毁证据等八项违法行为，作出91亿元顶格罚款并吊销药品生产许可证。
+  people: [xi-jinping, li-keqiang]
+  voices:
+    - voice: zh
+      text: 疫苗“效价不合格”应该算是“质量问题”，与“上市销售使用疫苗未发现质量问题”显然相互矛盾。
+      cite: e08-bbc-2018-07-22-vaccine
+      quote: true
+  cites: [e08-cctv-2018-07-23-vaccine-xi, e08-gov-2018-10-16-vaccine-fine, e08-bbc-2018-07-22-vaccine]
+
+- id: e08-2020-human-transmission-confirmed
+  date: 2020-01-20
+  title: 钟南山确认“人传人”，习近平首次作出指示
+  lane: society
+  summary: 2020年1月20日，国家卫健委高级别专家组组长钟南山在央视采访中说“现在可以说，肯定有人传人现象”，并举广东两个未去过武汉的病例为证。同日习近平作出重要指示，称疫情“必须引起高度重视”，李克强要求落实早发现、早报告、早隔离、早治疗。此前武汉方面长期称“没有明显人传人的证据”。三天后武汉封城。
+  people: [xi-jinping, li-keqiang]
+  concepts: [dynamic-zero]
+  cites: [e08-caixin-2020-01-20-zhong-nanshan, e08-xinhua-2020-01-20-xi-directive]
+
+- id: e08-2020-wuhan-reopens
+  date: 2020-04-08
+  title: 武汉解封
+  lane: society
+  summary: 2020年4月8日零时，武汉解除离汉离鄂通道管控，有序恢复对外交通，持健康“绿码”的人员可以离开，为历时76天的封城划上句号，当天约有200班航班离开武汉。新华社称这是“注定将载入史册的重要时刻”，湖北保卫战、武汉保卫战“进入了一个新的阶段”；武汉政府则强调各级政府部门必须维持戒备。
+  concepts: [dynamic-zero]
+  cites: [e08-bbc-2020-04-08-wuhan-unlock, e08-xinhua-2020-04-08-wuhan-unlock]
+
+- id: e08-2022-xian-miscarriage
+  date: 2022-01-01
+  end: 2022-01-06
+  title: 西安封城中孕妇被拒诊流产
+  lane: society
+  summary: 2022年1月，西安封城已超过半个月，1月1日晚一名怀孕八个月的孕妇因核酸证明超出有效期几个小时，被高新医院拒于门外，等候两小时后才获准入院，胎儿已经死亡，引发舆论愤怒。陕西省和西安市卫健委5日认定事件为责任事故，医院总经理范郁会被停职，西安市卫健委主任刘顺智等受党内警告处分，西安卫健委主任6日公开鞠躬道歉。
+  concepts: [dynamic-zero]
+  voices:
+    - voice: official
+      text: 认定该事件是一起责任事故
+      cite: e08-xinhua-2022-01-06-xian
+      quote: true
+    - voice: zh
+      text: 人们纷纷指责当地教条和僵硬的防疫规定
+      cite: e08-bbc-2022-01-06-xian
+      quote: true
+  cites: [e08-bbc-2022-01-06-xian, e08-xinhua-2022-01-06-xian]
+
+- id: e08-2022-guizhou-quarantine-bus
+  date: 2022-09-18
+  title: 贵州隔离转运大巴侧翻27死
+  lane: society
+  summary: 2022年9月18日凌晨2时40分左右，贵州黔南州一辆转运贵阳涉疫隔离人员的客车侧翻，造成27人遇难。贵阳此前已向市外转运7396人，出事车辆目的地距贵阳约250公里，而相关规范规定长途客运车辆凌晨2时至5时停止运行。贵阳市副市长林刚当晚在发布会上道歉，网民质疑为何在疫情不严重时仍深夜大规模转运。
+  concepts: [dynamic-zero]
+  cites: [e08-bbc-2022-09-19-guizhou-bus]
+
+- id: e08-2022-foxconn-exodus
+  date: 2022-10-30
+  title: 郑州富士康工人徒步出逃
+  lane: society
+  summary: 2022年10月下旬，苹果在中国最大的iPhone组装厂郑州富士康因疫情封闭管理，大量工人从厂区逃离，一名22岁工人对《金融时报》说，宿舍里“一片混乱”，“我们跳过栅栏围墙逃出了工厂”。富士康声明称园区实施闭环管理、点对点通勤和每日核酸，并从10月30日起与政府统一组织有返乡意愿的员工点对点返乡。
+  concepts: [dynamic-zero]
+  cites: [e08-bbc-2022-10-31-foxconn]
+
+- id: e08-2022-foxconn-protest
+  date: 2022-11-23
+  title: 郑州富士康新员工抗议
+  lane: society
+  summary: 2022年11月23日，网上疯传视频显示郑州富士康园区爆发工人示威，有新员工称公司更改了合同承诺，另一人说看到“有一个人头部流血躺在地上”。鸿海声明称部分新进员工“对工作津贴认知疑虑”提出诉求，并否认安排新员工与确诊者混住。同日郑州宣布主城区25日至29日实行“流动性管理”，被广泛解读为封城。
+  concepts: [dynamic-zero]
+  cites: [e08-bbc-2022-11-24-foxconn]
+
+- id: e08-2023-decisive-victory
+  date: 2023-02-16
+  title: 政治局常委会宣布防疫“重大决定性胜利”
+  lane: society
+  summary: 2023年2月16日，中共中央政治局常委会听取疫情防控汇报，宣布“取得疫情防控重大决定性胜利”，称2022年11月以来2亿多人得到诊治、近80万重症患者得到有效救治、新冠死亡率保持全球最低，“创造了人类文明史上人口大国成功走出疫情大流行的奇迹”。BBC引述学者称，这是在两会前为疫情正式划下句号、统一舆论。
+  people: [xi-jinping]
+  concepts: [dynamic-zero]
+  voices:
+    - voice: official
+      text: 实践证明，党中央对疫情形势的重大判断、对防控工作的重大决策、对防控策略的重大调整是完全正确的，措施是有力的，群众是认可的，成效是巨大的。
+      cite: e08-gov-2023-02-16-decisive-victory
+      quote: true
+    - voice: scholar
+      text: 此时为疫情工作定下全胜的调子，是要维护习权威，也是警告任何对新班子有怀疑态度的党内外人士
+      cite: e08-bbc-2023-02-17-decisive-victory
+      quote: true
+  cites: [e08-gov-2023-02-16-decisive-victory, e08-bbc-2023-02-17-decisive-victory]
+
+# ---- 港澳台 ----
+- id: e08-2014-npc-august-31-decision
+  date: 2014-08-31
+  title: 人大“8·31决定”框定香港特首普选
+  lane: hkmt
+  major: true
+  summary: 2014年8月31日，全国人大常委会通过关于香港特首普选问题的决定：从2017年开始特首可由普选产生，但须由一个有广泛代表性的提名委员会按民主程序提名二至三名候选人，每人须获全体委员半数以上支持；提委会维持1200人和四大界别构成，公民提名、政党提名等方案被排除。若普选办法未获通过，则继续适用上一任特首的产生办法。
+  concepts: [one-country-two-systems]
+  voices:
+    - voice: doc
+      text: 提名委员会按民主程序提名产生二至三名行政长官候选人。每名候选人均须获得提名委员会全体委员半数以上的支持。
+      cite: e08-ocmfa-2014-08-31-npc-831
+      quote: true
+    - voice: zh
+      text: 这也就意味着，此前有人建议的公民提名、政党提名和机构提名等提名香港特首候选人的方式都被排除在外了。
+      cite: e08-bbc-2014-08-31-npc-831
+      quote: true
+  cites: [e08-ocmfa-2014-08-31-npc-831, e08-bbc-2014-08-31-npc-831]
+
+- id: e08-2016-tsai-ing-wen-elected
+  date: 2016-01-16
+  title: 蔡英文当选台湾首位女总统
+  lane: hkmt
+  summary: 2016年1月16日，民进党蔡英文以6894744票大胜国民党朱立伦和亲民党宋楚瑜，成为台湾史上首位女总统，民进党在立法院获68席，投票率约65%。选前一天，艺人周子瑜因被指“台独”被迫录影道歉，被认为激出更多不满国民党的选票。国台办当晚表示对台大政方针“不因台湾地区的选举结果而改变”，谈话未提蔡英文之名。
+  people: [cai-yingwen]
+  voices:
+    - voice: official
+      text: 我们将继续坚持“九二共识”，坚决反对任何形式的“台独”分裂活动。
+      cite: e08-voa-2016-01-16-tao-response
+      quote: true
+  cites: [e08-bbc-2016-01-16-tsai-elected, e08-voa-2016-01-16-tao-response]
+
+- id: e08-2016-mong-kok-clash
+  date: 2016-02-08
+  end: 2016-02-09
+  title: 旺角警民冲突
+  lane: hkmt
+  summary: 2016年2月8日大年初一深夜，香港警方在旺角取缔无照熟食摊贩，与数百名本土派示威者爆发激烈冲突，持续至9日早晨，警员对空鸣枪示警，并动用警棍和胡椒粉。特首梁振英将事件定义为“暴乱”，称最少几百名“暴徒”袭击执行公务的警员和记者；警方称这是有组织有预谋的“暴力事件”。示威者则称要阻止当局驱赶春节期间的摊贩。
+  people: [liang-zhenying]
+  cites: [e08-bbc-2016-02-09-mongkok, e08-bbc-2018-06-11-edward-leung]
+
+- id: e08-2016-oath-interpretation
+  date: 2016-11-07
+  end: 2016-11-30
+  title: 人大就宣誓风波释法，梁颂恒、游蕙祯被取消议员资格
+  lane: hkmt
+  summary: 2016年10月，青年新政梁颂恒、游蕙祯在立法会宣誓时把“CHINA”读成“支那”，并披上写有港独字样的布条。11月7日，张德江主持全国人大常委会会议通过对基本法第104条的解释，规定以“不真诚、不庄重”方式宣誓即属拒绝宣誓、丧失公职；15日香港高院取消二人议员资格，30日上诉庭以释法具追溯力为由驳回上诉。
+  people: [zhang-dejiang]
+  concepts: [one-country-two-systems]
+  voices:
+    - voice: zh
+      text: 每一次的释法对香港的制度来说，都是很沉重的破坏
+      cite: e08-bbc-2016-11-30-oath-appeal
+      quote: true
+  cites: [e08-cna-2016-11-15-oath-ruling, e08-bbc-2016-11-30-oath-appeal]
+
+- id: e08-2018-edward-leung-sentenced
+  date: 2018-06-11
+  title: 梁天琦因旺角冲突被判监六年
+  lane: hkmt
+  summary: 2018年6月11日，香港高等法院就2016年旺角冲突判处本土派代表人物、27岁的梁天琦六年监禁。他被控一项煽惑暴动罪、一项袭警罪及两项暴动罪，法院5月裁定煽惑暴动罪不成立、其中一项暴动罪成立，连同他已承认的袭警罪一并判刑。BBC指暴动罪检控在香港极其罕见。
+  cites: [e08-bbc-2018-06-11-edward-leung]
+
+- id: e08-2020-tsai-reelected
+  date: 2020-01-11
+  title: 蔡英文以817万票连任
+  lane: hkmt
+  summary: 2020年1月11日，蔡英文以超过817万票连任台湾总统，创台湾总统选举史上最高得票数，得票率超过57%，投票率74.9%，国民党韩国瑜获超过552万票。2018年地方选举失利后蔡英文选情一度不被看好，但在习近平2019年初重提“一国两制”台湾方案和香港反送中运动爆发后支持率回升。国台办称北京坚持“和平统一、一国两制”方针。
+  people: [cai-yingwen, xi-jinping]
+  concepts: [one-country-two-systems]
+  cites: [e08-bbc-2020-01-11-tsai-reelected]
+
+- id: e08-2021-primaries-mass-arrest
+  date: 2021-01-06
+  title: 民主派初选53人被捕
+  lane: hkmt
+  summary: 2021年1月6日，香港警方以涉嫌违反《香港国安法》颠覆国家政权罪，拘捕53名曾参与2020年民主派立法会初选的人士，包括前议员胡志伟、涂谨申和初选组织者戴耀廷、美籍律师关尚义，并搜查民意研究所，是国安法实施以来拘捕人数最多的行动。保安局局长李家超称所谓“35+”和揽炒十步曲计划是瘫痪政府的歹毒图谋。
+  people: [dai-yaoting, li-jiachao]
+  cites: [e08-bbc-2021-01-06-primaries-arrests, e08-hkgov-2021-01-06-subversion]
+
+- id: e08-2022-john-lee-elected
+  date: 2022-05-08
+  title: 李家超作为唯一候选人当选特首
+  lane: hkmt
+  summary: 2022年5月8日，香港在“完善选举制度”后举行首次特首选举，前政务司司长李家超作为唯一候选人，在出席投票的1428名选委中获1416票当选，港澳办称得票率99.16%。舆论认为这次选举与澳门的“一人模式”雷同。浸会大学教授陈家洛认为，北京选择2019年负责修例的主要官员李家超，“宛若在香港的伤口上撒盐”。
+  people: [li-jiachao]
+  cites: [c04-bbc-2022-05-08-john-lee]
+
+- id: e08-2023-joint-sword
+  date: 2023-04-08
+  end: 2023-04-10
+  title: “联合利剑”环台演习
+  lane: hkmt
+  summary: 2023年4月8日至10日，东部战区在台湾海峡和台岛北部、南部、以东海空域组织环台岛战备警巡和“联合利剑”演习，称是对“台独”分裂势力与外部势力勾连挑衅的严重警告，起因是蔡英文在加州会晤美国众议院议长麦卡锡。演习重点为“模拟联合火力打击”，但没有进行实弹发射，国际航班和船运均未受干扰，BBC引述分析称其雷声大雨点小。
+  people: [cai-yingwen]
+  voices:
+    - voice: scholar
+      text: 北京使用闻所未闻的“联合利剑”名称，是为了让解放军任意填充内容。
+      cite: e08-bbc-2023-04-11-joint-sword
+      quote: true
+  cites: [e08-xinhua-2023-04-08-joint-sword, e08-bbc-2023-04-11-joint-sword]
+
+- id: e08-2023-district-council-election
+  date: 2023-12-10
+  title: 区议会“整顿”后首选，投票率27.54%
+  lane: hkmt
+  summary: 2023年12月10日，香港举行区议会整顿后的首次选举，直选议席只占20%，候选人须获政府任命的委员会提名，是1982年首届区议会直选以来首次没有任何民主派人士参选。官方公布投票率27.54%，为有区议会选举以来最低，比2019年低43.69个百分点；投票因电子登记系统故障延长至午夜，李家超仍称“整个选举都很成功”。
+  people: [li-jiachao]
+  voices:
+    - voice: official
+      text: 当然整个选举都很成功……我们也不应因为一个系统故障而抹煞了整个选举
+      cite: e08-bbc-2023-12-11-dc-election
+      quote: true
+    - voice: zh
+      text: 候选人需从政府任命的委员会中获得提名，实际上排除了所有亲民主派团体。
+      cite: e08-dw-2023-12-11-dc-election
+      quote: true
+  cites: [e08-bbc-2023-12-11-dc-election, e08-dw-2023-12-11-dc-election]
+
+- id: e08-2024-joint-sword-b
+  date: 2024-10-14
+  title: “联合利剑-2024B”与海警首度环台
+  lane: hkmt
+  summary: 2024年10月14日，赖清德发表双十演说四天后，东部战区开展“联合利剑-2024B”演习，范围涵盖台湾全岛，演练要港要域封控、对海对陆打击等，历时约13小时。中国海警同日派4个编队首度环台岛执法巡查，称是“按一个中国原则依法管控台岛的实际行动”。台方称单日侦获125架次军机、17艘军舰和17艘公务船，创绕台军机单日纪录。
+  people: [lai-qingde]
+  voices:
+    - voice: zh
+      text: 这次军演和以往最大的不同，是‘灰色舰队’加‘白色舰队’的联合进行。
+      cite: e08-bbc-2024-10-14-joint-sword-b
+      quote: true
+  cites: [e08-bbc-2024-10-14-joint-sword-b, e08-taiwancn-2024-10-15-joint-sword-b]
+
+- id: e08-2025-strait-thunder
+  date: 2025-04-01
+  end: 2025-04-02
+  title: “海峡雷霆-2025A”演练
+  lane: hkmt
+  summary: 2025年3月13日，赖清德首次将中国大陆定位为“境外敌对势力”，提出17项因应国安及统战威胁策略并恢复军事审判制度。4月1日起东部战区在台岛周边开展联合演训，2日在台湾海峡中部、南部海域组织“海峡雷霆-2025A”演练，实施查证识别、警告驱离、拦截扣押等科目。中新社引述学者称，代号变化说明解放军遏独的军事选项十分丰富。
+  people: [lai-qingde]
+  voices:
+    - voice: official
+      text: 对此，我们决不容忍、决不姑息，必须坚决反制、严厉惩戒。
+      cite: e08-bjd-2025-04-02-strait-thunder
+      quote: true
+  cites: [e08-rfa-2025-03-13-lai-17, e08-chinanews-2025-04-02-strait-thunder, e08-bjd-2025-04-02-strait-thunder]
+
+# ---- 民族与宗教 ----
+- id: e08-2014-second-xinjiang-work-forum
+  date: 2014-05-28
+  end: 2014-05-29
+  title: 第二次中央新疆工作座谈会
+  lane: ethnic
+  major: true
+  summary: 2014年5月28日至29日，第二次中央新疆工作座谈会召开，习近平称“社会稳定和长治久安是新疆工作的总目标”，要求把严厉打击暴力恐怖活动作为当前斗争重点，“筑起铜墙铁壁、构建天罗地网”，推进双语教育、建立嵌入式社区，有序扩大新疆少数民族到内地教育、就业、居住的规模。BBC指相较2010年首次座谈会的跨越式发展，重心已转向社会稳定。
+  people: [xi-jinping, li-keqiang]
+  concepts: [stability-maintenance]
+  cites: [e08-gov-2014-05-29-xinjiang-forum, e08-bbc-2014-05-29-xinjiang-forum]
+
+- id: e08-2014-zhejiang-cross-removals
+  date: 2014-04
+  end: 2014-07
+  title: 浙江“三改一拆”中强拆教堂和十字架
+  lane: ethnic
+  summary: 2014年，浙江以“三改一拆”整治违章建筑为名，在温州等地拆除教堂和十字架。4月永嘉县三江教堂被认定为违章建筑面临强拆，约三千名教徒曾前往抵制；7月平阳县水头镇救恩堂清拆十字架引发冲突。当地信徒认为起因是省委书记夏宝龙考察时对教堂之多不满。对华援助协会称年初以来已有160多处教堂和十字架被强拆，全国基督教两会也发声明表示不安。
+  people: [xia-baolong]
+  voices:
+    - voice: doc
+      text: 如果没有超越当初建造时的设计标准、也不存在安全隐患而被随意地强行拆除或移位，我们认为这样做是极不妥当的，应当立即停止！
+      cite: e08-bbc-2014-07-23-crosses
+      quote: true
+  cites: [e08-bbc-2014-04-24-sanjiang, e08-bbc-2014-07-23-crosses]
+
+- id: e08-2016-religious-work-conference
+  date: 2016-04-22
+  end: 2016-04-23
+  title: 全国宗教工作会议提出宗教“中国化方向”
+  lane: ethnic
+  summary: 2016年4月22日至23日，全国宗教工作会议在北京召开，习近平称积极引导宗教与社会主义社会相适应，“一个重要的任务就是支持我国宗教坚持中国化方向”，要用社会主义核心价值观引领宗教界人士和信教群众，支持各宗教深入挖掘教义教规中有利于社会和谐的内容，对教规教义作出符合当代中国发展进步要求、符合中华优秀传统文化的阐释。
+  people: [xi-jinping]
+  cites: [e08-xinhua-2016-04-23-religion-conf]
+
+- id: e08-2018-vatican-provisional-agreement
+  date: 2018-09-22
+  title: 中梵签署主教任命临时性协议
+  lane: ethnic
+  summary: 2018年9月22日，中国外交部副部长王超与教廷代表卡米莱利在北京签署关于主教任命的临时性协议，教廷承认八位由中国当局任命的主教，包括一名去年逝世的主教，由此获得在中国主教任命中的发言权。香港前枢机主教陈日君在社交媒体上批评教廷“负卖教会”；BBC称梵中双方都在主教任命这个核心争议问题上做出让步。
+  voices:
+    - voice: official
+      text: 该项临时性协议是一个循序渐进和相互靠近的成果，是经过漫长过程的慎重商讨后签署的
+      cite: e08-vaticannews-2018-09-22-agreement
+      quote: true
+  cites: [e08-bbc-2018-09-22-vatican, e08-vaticannews-2018-09-22-agreement]
+
+- id: e08-2020-inner-mongolia-language-protests
+  date: 2020-08-26
+  end: 2020-09
+  title: 内蒙古统编教材引发蒙古族罢课抗议
+  lane: ethnic
+  summary: 2020年8月26日，内蒙古教育厅发布方案，规定民族语言授课学校小学一年级和初中一年级从秋季开学起使用国家统编语文教材，此后两年政治、历史课也逐步改用汉语授课。官方称原有课时、教材和体制不变，但8月28日起通辽、鄂尔多斯、呼和浩特等地爆发示威，有家长拒送孩子上学，一所中学千名学生仅剩约10人；警方以“寻衅滋事”罪名悬赏通缉上百人。
+  cites: [e08-bbc-2020-08-31-inner-mongolia, e08-bbc-2020-09-03-inner-mongolia]
+
+- id: e08-2021-us-genocide-determination
+  date: 2021-01-19
+  title: 美国认定中国在新疆犯下种族灭绝罪
+  lane: ethnic
+  summary: 2021年1月19日，即将卸任的美国国务卿蓬佩奥宣布认定中国在新疆对维吾尔族等穆斯林少数民族犯下种族灭绝和反人类罪，指其囚禁超过一百万人并强制劳动、节育，BBC称这是首度有国家作出这一认定。次日中国外交部发言人华春莹称，该认定“就是废纸一张”，是反华反共势力“蓄意炮制的耸人听闻的伪命题”。
+  voices:
+    - voice: official
+      text: 过去不曾、现在没有、将来也不会发生在中国大地上
+      cite: e08-xinhua-2021-01-20-hua-pompeo
+      quote: true
+  cites: [e08-bbc-2021-01-19-genocide, e08-xinhua-2021-01-20-hua-pompeo]
+
+- id: e08-2022-un-xinjiang-assessment
+  date: 2022-08-31
+  title: 联合国人权高专办发布新疆评估报告
+  lane: ethnic
+  major: true
+  summary: 2022年8月31日，联合国人权事务高级专员巴切莱特在四年任期最后一天发布新疆人权评估报告，认定有关酷刑、强迫医疗、恶劣拘留条件和性暴力的指称是可信的，对维吾尔族等群体的任意拘留“可能构成国际罪行，特别是危害人类罪”。巴切莱特此前承认承受着“发表或不发表报告的巨大压力”。中国常驻日内瓦代表团称报告是西方和反华势力策划的闹剧。
+  voices:
+    - voice: official
+      text: 这次的评估完全是西方国家和反华势力策划的闹剧，是一份罔顾事实的政治化文件
+      cite: e08-bbc-2022-09-01-xinjiang-report
+      quote: true
+  cites: [e08-un-2022-09-01-xinjiang-report, e08-bbc-2022-09-01-xinjiang-report]
+
+- id: e08-2025-dalai-lama-succession
+  date: 2025-07-02
+  title: 达赖喇嘛宣布转世制度延续，北京坚持金瓶掣签
+  lane: ethnic
+  summary: 2025年7月2日，达赖喇嘛在达兰萨拉宗教领袖会议上通过视频宣布“达赖喇嘛制度将会延续”，由噶丹颇章信托基金会依循传统寻找和认证转世，“没有人有权干预这项事务”，并一再表示继任者不会出生在中国。中国外交部发言人毛宁当天回应，十五世达赖喇嘛的转世“必须得到中央政府的批准”，须按国内寻访、金瓶掣签、中央政府批准的程序产生。
+  cites: [e08-bbc-2025-07-02-dalai-lama, e08-voa-2025-07-02-dalai-lama]
+
+# ---- 外交 ----
+- id: e08-2013-sunnylands-summit
+  date: 2013-06-07
+  end: 2013-06-08
+  title: 安纳伯格庄园习奥会
+  lane: foreign
+  major: true
+  summary: 2013年6月7日至8日，习近平在美国加州安纳伯格庄园与奥巴马会晤，这是他3月接任国家主席后两人首次会面。习近平称“宽广的太平洋有足够空间容纳中美两个大国”，杨洁篪介绍双方同意共同努力构建相互尊重、合作共赢的新型大国关系。奥巴马提出网络安全问题，习近平强调中国也是网络攻击受害者；BBC称双方在网络安全上的分歧仍然很尖锐。
+  people: [xi-jinping, yang-jiechi]
+  voices:
+    - voice: official
+      text: 中美应该也可以走出一条不同于历史上大国冲突对抗的新路
+      cite: e08-gov-2013-06-09-sunnylands
+      quote: true
+  cites: [e08-bbc-2013-06-08-sunnylands, e08-gov-2013-06-09-sunnylands, e08-bbc-2013-06-09-sunnylands-press]
+
+- id: e08-2018-meng-wanzhou-arrest
+  date: 2018-12
+  end: 2021-09-25
+  title: 孟晚舟在加拿大被捕至获释回国
+  lane: foreign
+  summary: 2018年12月，温哥华警方应美国要求逮捕华为首席财务官孟晚舟，不久中国拘留加拿大公民康明凯和斯帕弗，指二人从事间谍活动，否认是报复。2021年9月孟晚舟与美国司法部达成暂缓起诉协议，25日乘中国政府包机抵达深圳，称“经过1000多天的煎熬”回到祖国，两名加拿大人同日获释。中国外交部称此案是“针对中国公民的政治迫害事件”。
+  voices:
+    - voice: west
+      text: 孟晚舟的获释让人严重质疑拜登总统应对华为和中国共产党构成的威胁的能力和意愿。
+      cite: b14-bbc-2021-09-25-meng-release
+      quote: true
+  cites: [b14-bbc-2021-09-25-meng-release]
+
+- id: e08-2019-huawei-entity-list
+  date: 2019-05-15
+  title: 华为被列入美国“实体清单”
+  lane: foreign
+  summary: 2019年5月中旬，美国商务部宣布将华为及70家关联企业列入“实体清单”，此后若没有美国政府批准，华为将无法向美国企业购买元器件。华为回应称，限制华为“不会让美国更安全，也不会使美国更强大”，只会迫使美国使用劣质而昂贵的替代设备、在5G网络建设中落后，最终伤害美国企业和消费者利益。
+  people: [ren-zhengfei]
+  cites: [b14-bbc-2019-05-16-entity-list]
+
+- id: e08-2020-phase-one-deal
+  date: 2020-01-15
+  title: 中美签署第一阶段经贸协议
+  lane: foreign
+  summary: 2020年1月15日，特朗普与中国副总理刘鹤在白宫东厅签署中美第一阶段贸易协议，历时18个月的贸易战暂时停火。中国承诺在2020至2021年两年内大量进口美国商品与服务，总额2000亿美元，其中近500亿为农产品。刘鹤在仪式上宣读习近平的口信：“我们有一千条理由把中美关系搞好，没有一条理由把它搞坏。”
+  people: [liu-he, xi-jinping]
+  cites: [b09-bbc-2020-01-16-phase-one]
+
+- id: e08-2021-anchorage-talks
+  date: 2021-03-18
+  title: 安克雷奇会谈：“中国人不吃这一套”
+  lane: foreign
+  major: true
+  summary: 2021年3月18日，拜登政府上台后中美首次高层面对面会谈在阿拉斯加安克雷奇举行。美方开场后，杨洁篪长篇发言，称“美国没有资格居高临下同中国说话，中国人不吃这一套”，批评美国在人权等方面存在很多问题、应当管好自己的事；王毅告诫美方放弃干涉中国内政。双方还就何时让媒体离场争执，开场演变为罕见的公开交锋。
+  people: [yang-jiechi, wang-yi]
+  concepts: [wolf-warrior]
+  voices:
+    - voice: zh
+      text: 你们没有资格在中国的面前说，你们从实力的地位出发，跟中国谈话……中国人是不吃这一套的。
+      cite: b11-bbc-2021-03-20-anchorage-close
+      quote: true
+  cites: [b11-mfa-2021-03-19-yang-anchorage, e08-bbc-2021-03-19-anchorage, b11-bbc-2021-03-20-anchorage-close]
+
+- id: e08-2022-us-chip-export-controls
+  date: 2022-10-07
+  title: 美国全面限制对华出口先进芯片
+  lane: foreign
+  major: true
+  summary: 2022年10月7日，拜登政府宣布限制向中国出售半导体技术的全面新措施，企业若无特别许可证不得向中国供应先进计算芯片、芯片制造设备等产品，美方官员称大部分许可申请将遭拒，中芯国际、长江存储和长鑫存储等将受打击。中国商务部10日回应称这是“典型的科技霸凌做法”，美方同时将31家中国实体列入“未经验证清单”。
+  voices:
+    - voice: official
+      text: 不仅违背双方合作精神、罔顾双方合作事实，而且严重阻碍中美企业间正常经贸往来，严重破坏市场规则和国际经贸秩序
+      cite: e08-chinanews-2022-10-10-chip-response
+      quote: true
+  cites: [e08-nytcn-2022-10-08-chip-controls, e08-chinanews-2022-10-10-chip-response]
+
+- id: e08-2023-spy-balloon
+  date: 2023-02-03
+  end: 2023-02-04
+  title: 中国气球事件与布林肯推迟访华
+  lane: foreign
+  summary: 2023年2月初，一个中国高空气球进入美国领空，美方称其为侦察气球，国务卿布林肯以此为不负责任的行为为由推迟访华行程。中国外交部称飞艇属民用性质、用于气象等科研，因不可抗力误入，并称“中美双方都没有宣布过什么访问”。2月4日美军F-22在美东海岸附近击落气球，中方称美方“明显反应过度，严重违反国际惯例”。
+  voices:
+    - voice: official
+      text: 该飞艇属民用性质，用于气象等科研。受西风带影响，且自身控制能力有限，该飞艇严重偏离预定航线。
+      cite: e08-mfa-2023-02-04-balloon
+      quote: true
+  cites: [e08-bbc-2023-02-05-balloon, e08-mfa-2023-02-04-balloon]
+
+- id: e08-2024-lima-xi-biden
+  date: 2024-11-16
+  title: 利马习拜会：最后一次会晤与“4条红线”
+  lane: foreign
+  summary: 2024年11月16日，习近平与拜登在秘鲁利马亚太经合组织会议期间会晤，这是拜登任内两人第三次也是最后一次面对面会谈。习近平称台湾问题、民主人权、道路制度、发展权利是中方的“4条红线，不容挑战”；两国元首确认应维持由人类控制核武器使用的决定。BBC称习近平借此表示愿与即将上任的特朗普合作。
+  people: [xi-jinping]
+  cites: [e08-gov-2024-11-16-lima, e08-bbc-2024-11-18-lima]

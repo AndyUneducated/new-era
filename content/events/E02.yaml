@@ -514,6 +514,15 @@
   lane: power
   summary: 9月上旬，国家副主席习近平连续约两周没有公开露面，其间取消了与来访的美国国务卿希拉里的会谈，也取消了会见新加坡总理和丹麦总理，引起各种揣测。9月15日，习近平在北京参加科普活动，重新公开亮相，两个月后在十八大上接任总书记。
   people: [xi-jinping]
+  voices:
+    - voice: west
+      text: 路透社此前曾引述消息人士称，习近平月初在游泳时伤了背部，他一直遵医嘱多卧床休息，并接受理疗。
+      cite: c10-bbc-2012-09-15-xi-reappears
+      quote: true
+    - voice: zh
+      text: 2014年8月，《動向》雜誌援引中共高層消息稱，習近平在中共十八大召開前兩個月，即2012年9月中旬，以中央書記處書記身份到河北石家莊考察時，遭遇冷槍暗殺。
+      cite: r01-ntdtv-2015-02-25-assassin
+      quote: true
   cites: [e02-bbc-2012-09-10-xi-absence, e02-voa-2012-09-15-xi-reappears, e02-xinhua-2012-11-15-plenum1]
 
 - id: e2012-hk-national-education
