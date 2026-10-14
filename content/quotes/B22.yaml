@@ -1,0 +1,123 @@
+# B22: person id → quotes. Every text is checked verbatim against its cite.
+deng-xiaoping:
+  - text: 发展才是硬道理
+    cite: b22-reformdata-1992-01-18-southern-talks
+    kind: public
+    date: 1992-01
+    occasion: 南方谈话（武昌、深圳、珠海、上海等地谈话要点）
+    star: true
+  - text: 计划多一点还是市场多一点，不是社会主义与资本主义的本质区别
+    cite: b22-reformdata-1992-01-18-southern-talks
+    kind: public
+    date: 1992-01
+    occasion: 南方谈话
+  - text: 不坚持社会主义，不改革开放，不发展经济，不改善人民生活，只能是死路一条
+    cite: b22-reformdata-1992-01-18-southern-talks
+    kind: public
+    date: 1992-01
+    occasion: 南方谈话
+  - text: 不搞争论，是我的一个发明
+    cite: b22-reformdata-1992-01-18-southern-talks
+    kind: public
+    date: 1992-01
+    occasion: 南方谈话
+  - text: 我坚持退下来，就是不要在老年的时候犯错误
+    cite: b22-reformdata-1992-01-18-southern-talks
+    kind: public
+    date: 1992-01
+    occasion: 南方谈话
+  - text: 这些方面的制度好可以使坏人无法任意横行，制度不好可以使好人无法充分做好事，甚至会走向反面
+    cite: b22-reformdata-1980-08-18-leadership-reform
+    kind: public
+    date: 1980-08-18
+    occasion: 《党和国家领导制度的改革》，中央政治局扩大会议讲话
+
+hu-yaobang:
+  - text: 心在人民，原无论大事小事；利归天下，何必争多得少得
+    cite: b22-gov-2025-11-20-xi-hu-110
+    kind: public
+    occasion: 胡耀邦题写的对联，习近平在诞辰 110 周年座谈会上引用
+    star: true
+  - text: 凡是冤假错案都要实事求是地坚决平反昭雪，不论谁说的，谁定的
+    cite: b14-nytcn-2015-11-22-hu-yaobang
+    kind: adlib
+    date: 1977-12
+    occasion: 任中组部部长时对齐心谈习仲勋案，据习仲勋官方传记
+  - text: 党风好不好，是党能不能站得住，能不能存在和发展的问题
+    cite: b22-gov-2025-11-20-xi-hu-110
+    kind: public
+    occasion: 习近平在诞辰 110 周年座谈会上引用
+  - text: 凡属符合人民利益和时代要求的新思想、新创造、新经验，我们都应该乐于吸收；凡属不符合新的历史任务和革命实践要求的老框框、老套套、老调调，我们都应该敢于抛弃
+    cite: b22-gov-2025-11-20-xi-hu-110
+    kind: public
+    occasion: 习近平在诞辰 110 周年座谈会上引用
+  - text: 共产党人是给人民办事的，不是给一家一族办事的
+    cite: c09-gov-2015-11-20-xi-hu-yaobang-100
+    kind: adlib
+    occasion: 谈对自己和家人的要求，习近平在诞辰 100 周年座谈会上引用
+
+chen-yun:
+  - text: 不唯上、不唯书、只唯实，交换、比较、反复
+    cite: b22-people-2015-06-12-xi-chen-110
+    kind: public
+    occasion: “十五字诀”，习近平在诞辰 110 周年座谈会上引用
+    star: true
+  - text: 执政党的党风问题是有关党的生死存亡的问题
+    cite: b22-people-2015-06-12-xi-chen-110
+    kind: public
+    occasion: 任中纪委第一书记时的论断
+  - text: 鸟不能捏在手里，捏在手里会死，要让它飞，但只能让它在笼子里飞。没有笼子，它就飞跑了。
+    cite: b22-jiemian-2015-06-chen-yun
+    kind: public
+    date: 1982-11
+    occasion: “鸟笼”比喻，1982 年 11、12 月间多次讲
+  - text: 不解决实际问题谈为人民服务，则是空话一句
+    cite: b22-cctv-2005-06-13-hu-chen-100
+    kind: public
+    occasion: 胡锦涛在诞辰 100 周年纪念大会上引用
+  - text: 党性原则和党的纪律不存在‘松绑’的问题。没有好的党风，改革是搞不好的。
+    cite: b22-news-2025-06-13-xi-chen-120
+    kind: public
+    occasion: 针对“经济要搞活，纪律要松绑”的说法
+  - text: 个人名利淡如水，党的事业重如山
+    cite: b22-people-2015-06-12-xi-chen-110
+    kind: adlib
+    occasion: 习近平称陈云“常说”
+
+song-ping:
+  - text: 一切从实际出发，按客观规律办事
+    cite: f05-xinhua-2026-03-10-song-ping
+    kind: public
+    occasion: 主政甘肃时在《人民日报》发表的长篇文章题目，支持真理标准讨论
+    star: true
+  - text: 对一切事物都要敢于采取实事求是的态度，采取历史唯物主义和辩证唯物主义的态度
+    cite: f05-xinhua-2026-03-10-song-ping
+    kind: public
+    occasion: 主政甘肃时，据官方生平
+  - text: 组工干部既要当办事员、又要当研究员
+    cite: f05-xinhua-2026-03-10-song-ping
+    kind: public
+    occasion: 任中组部部长时，据官方生平
+  - text: 尽量少言多思，少干预多支持
+    cite: b22-aboluowang-2026-01-22-song-letter
+    kind: rumor
+    date: 2026-01
+    occasion: 网传署名宋平致习近平的信，未获证实
+
+li-jianguo:
+  - text: 习仲勋同志的一生，是革命的一生，光辉战斗的一生，全心全意为人民服务的一生
+    cite: c05-gov-2013-10-15-xi-zhongxun-centenary
+    kind: public
+    date: 2013-10-15
+    occasion: 纪念习仲勋诞辰 100 周年座谈会讲话
+    star: true
+  - text: 坚定不移地走中国特色社会主义工会发展道路
+    cite: b22-xinhua-2013-03-01-li-jianguo-acftu
+    kind: public
+    date: 2013-03-01
+    occasion: 当选全国总工会主席后讲话
+  - text: 相信在以习近平同志为核心的党中央英明领导下，在王东明同志主持下，新时代工会工作一定能够展现新气象新作为
+    cite: b22-xinhua-2018-03-22-wang-dongming-acftu
+    kind: public
+    date: 2018-03-22
+    occasion: 卸任全国总工会主席时讲话

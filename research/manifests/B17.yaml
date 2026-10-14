@@ -1,0 +1,361 @@
+# B17: sources for the full biographies of Wang Xiaohong, Liu Jinguo, Guo Shengkun, Yang Xiaodu, Zhang Chunxian, You Quan.
+web:
+  # --- shared ---
+  - id: b17-xinhua-2026-02-14-old-comrades
+    title: 中央领导同志看望老同志
+    publisher: 新华社（宁夏纪委监委网站转载）
+    date: 2026-02-14
+    voice: official
+    url: http://www.nxjjjc.gov.cn/xbnxjw/tbgz/202602/t20260214_1088480.html
+    start: 春节前夕，中共中央总书记
+    end: 民族复兴伟业新局面。
+  - id: b17-zaobao-2026-08-17-jiang-centenary
+    title: 陈希等卸任中共政治局委员出席江泽民百年诞辰纪念大会
+    publisher: 联合早报
+    date: 2026-08-17
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260817-9529998
+    excerpt: true
+    keep: [ 中央纪律检查委员会前副书记杨晓渡 ]
+  # --- Wang Xiaohong ---
+  - id: b17-fznews-2022-06-28-wang-xiaohong-cv
+    title: 王小洪已任中央政法委副书记！4天前刚任公安部部长（附简历）
+    publisher: 福州新闻网
+    date: 2022-06-28
+    voice: official
+    url: https://m.fznews.com.cn/gngj/20220628/cUh972t46c.shtml
+    start: 此前，据中国人大网24日消息
+    end: 中共十九届中央委员。
+  - id: b17-diplomat-2015-04-fujian-clique
+    title: The Rise of a Fujian Clique in Chinese Politics
+    publisher: The Diplomat
+    date: 2015-04
+    voice: west
+    lang: en
+    url: https://thediplomat.com/2015/04/the-rise-of-a-fujian-clique-in-chinese-politics/
+    excerpt: true
+    keep: [ "A native of Fujian, Wang spent almost four decades", "His career stalled after the departure", "fortune has been on the rise since Xi became" ]
+  - id: b17-cna-2025-05-10-wang-geneva
+    title: 習近平指定公安部長出席美中會談 芬太尼問題成焦點
+    publisher: 中央社
+    date: 2025-05-10
+    voice: zh
+    url: https://www.cna.com.tw/news/aopl/202505100017.aspx
+    excerpt: true
+    keep: [ 習近平指定公安部長王小洪赴瑞士, 身兼國務委員的王小洪, 習近平指定王小洪負責近期與華府的磋商 ]
+  - id: b17-upmedia-2025-05-22-wang-drug-tsar
+    title: 美中關稅戰硝煙暫歇 中國「毒品沙皇」王小洪扮演關鍵角色
+    publisher: 上報
+    date: 2025-05-22
+    voice: zh
+    url: https://www.upmedia.mg/tw/international/headlines/230862
+    excerpt: true
+    keep: [ 似乎在談判期間扮演了關鍵角色, 少數真正能夠信任的老朋友 ]
+  - id: b17-gov-2025-01-08-wang-gupta
+    title: 王小洪同美国白宫国家禁毒政策办公室主任视频通话
+    publisher: 新华社（中国政府网）
+    date: 2025-01-08
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202501/content_6996879.htm
+    start: 新华社北京1月7日电
+    end: 继续保持合作交流。
+  - id: b17-kzg-2026-04-10-wang-rumor
+    title: 王小洪隐身24天 海外热传出事
+    publisher: 看中国
+    date: 2026-04-10
+    voice: zh
+    rumor: true
+    url: https://kzg.io/news/gb/2026/04/10/1097594.html
+    excerpt: true
+    keep: [ 至今已经24天没有公开露面, 疑似已被秘密控制 ]
+  - id: b17-gov-2026-05-19-wang-astana
+    title: 中国－中亚公安内务部长会晤机制第二次会议举行 王小洪出席并作主旨发言
+    publisher: 新华社（中国政府网）
+    date: 2026-05-19
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202605/content_7069456.htm
+    start: 新华社阿斯塔纳5月19日电
+    end: 乌兹别克斯坦内务部部长会见交流。
+  - id: b17-gov-2026-09-07-wang-central-asia
+    title: 中国－中亚公安内务部长会晤机制非正式会晤举行 王小洪主持并作主旨讲话
+    publisher: 新华社（中国政府网）
+    date: 2026-09-07
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7080367.htm
+    start: 新华社北京9月7日电
+    end: 双方签署有关合作文件。
+  # --- Liu Jinguo ---
+  - id: b17-xinhua-2015-05-26-liu-jinguo-cv
+    title: 刘金国不再担任610办公室主任（图|简历）
+    publisher: 中国经济网（新华网转载）
+    date: 2015-05-26
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-05/26/c_127843253.htm
+    start: 中央纪委监察部网站“领导机构”栏目
+    end: 选举刘金国为中央纪委常委、副书记。
+  - id: b17-chinanews-2014-10-25-liu-ccdi
+    title: 刘金国出任中纪委副书记 曾被评为感动中国人物
+    publisher: 中新网（转载《新京报》）
+    date: 2014-10-25
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2014/10-25/6716896.shtml
+    excerpt: true
+    keep: [ 刘金国成为近年来第二位政法系统出身的中纪委副书记, 即使犯罪分子逃到天涯海角, 就没想活着回去, 爱人一直是临时工, 直接在一张纸上写下四条, 1974年高中毕业之后回村担任民兵连副连长 ]
+  - id: b17-chinanews-2014-10-28-liu-family
+    title: 中纪委副书记刘金国曾明确称不关照家人：都别怨我
+    publisher: 中新网（转载《法制晚报》）
+    date: 2014-10-28
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2014/10-28/6725933.shtml
+    excerpt: true
+    keep: [ 刘家兄妹六人, 最后是贷款40万元, 此前有媒体报道称刘金国的妻子长期是临时工 ]
+  - id: b17-cntv-2012-02-06-liu-touching-china
+    title: 公安部副部长刘金国：感动中国
+    publisher: 中国网络电视台（转载人民网）
+    date: 2012-02-06
+    voice: official
+    url: http://news.cntv.cn/20120206/101098.shtml
+    excerpt: true
+    keep: [ 贼有未曾经我缚, 刘金国在前沿连续指挥了七个小时, 从废墟中搜救出被埋压人员8335人, 搬家时他的全部家当只有半卡车旧家具 ]
+  - id: b17-cntv-2012-02-14-liu-hometown
+    title: 刘金国老家探访：老母理解儿子，兄弟依旧贫穷
+    publisher: 中国网络电视台（转载中新网）
+    date: 2012-02-14
+    voice: official
+    url: http://news.cntv.cn/20120214/107184.shtml
+    excerpt: true
+    keep: [ 这是刘金国对全国人民的承诺, 那我就‘装’到死, 我只有管好自己家里人了 ]
+  - id: b17-scmp-2014-11-08-liu-many-hats
+    title: "Rising 'anti-corruption star' Liu Jinguo: a man of many hats but no vulnerable past"
+    publisher: South China Morning Post
+    date: 2014-11-08
+    voice: zh
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/article/1634591/liu-jinguo-man-many-hats-no-vulnerable-past-exploit
+    excerpt: true
+    keep: [ seemingly incorruptible law enforcer, one of the busiest men in Beijing, Considered a political rising star ]
+  - id: b17-gov-2023-03-11-liu-ncs
+    title: Liu Jinguo elected director of National Commission of Supervision
+    publisher: 新华社（中国政府网英文版）
+    date: 2023-03-11
+    voice: official
+    lang: en
+    url: https://english.www.gov.cn/news/topnews/202303/11/content_WS640bf445c6d0a757729e7fe8.html
+    start: BEIJING, March 11
+    end: joined the CPC in September 1975.
+  - id: b17-zaobao-2023-03-12-ncs-heads
+    title: 国家监委和“两高”更换一把手
+    publisher: 联合早报
+    date: 2023-03-12
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230312-1371609
+    excerpt: true
+    keep: [ 原是国家监委副主任的刘金国 ]
+  - id: b17-cbfau-2015-liu-wang-qishan
+    title: 刘金国：王岐山的新“狠角”
+    publisher: 澳洲《中国报》网站
+    date: 2015
+    voice: zh
+    rumor: true
+    url: http://www.cbfau.com/cbf-201516895.html
+    excerpt: true
+    keep: [ 港媒曾披露称, 港媒还传言说, 他亦担任过前中央政治局常委周永康专案组副组长 ]
+  # --- Guo Shengkun ---
+  - id: b17-people-2012-12-30-guo-mps
+    title: 郭声琨同志任公安部部长（图/简历）
+    publisher: 人民网－人民日报
+    date: 2012-12-30
+    voice: official
+    url: http://renshi.people.com.cn/n/2012/1230/c139617-20056803.html
+    start: 免去孟建柱兼任的公安部部长职务
+    end: 十八届中央委员
+  - id: b17-scmp-2012-12-29-guo-divides
+    title: Naming of Guo Shengkun as security minister divides opinion
+    publisher: South China Morning Post
+    date: 2012-12-29
+    voice: zh
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/article/1114732/naming-guo-shengkun-security-minister-divides-opinion
+    excerpt: true
+    keep: [ once described himself as a politician with a background in business, remains to be seen whether that background, maximisation of interests ]
+  - id: b17-hxw-2017-11-03-guo-zhengfa
+    title: 郭声琨任中央政法委书记
+    publisher: 中国共产党新闻网（湖南省委组织部红星网转载）
+    date: 2017-11-01
+    voice: official
+    url: http://www.hxw.gov.cn/content/2017/11/03/1441794.html
+    start: 中国共产党新闻网北京11月1日电
+    end: 十九届中央政治局委员、中央书记处书记。
+  - id: b17-voa-2018-09-21-guo-xinjiang
+    title: 面对国际社会强烈批评 郭声琨称要继续在新疆加强“教育改造”
+    publisher: 美国之音
+    date: 2018-09-21
+    voice: zh
+    url: https://www.voachinese.com/a/news-top-china-official-urges-reform-through-education-for-xinjiang-prisoners-20180921/4581276.html
+    excerpt: true
+    keep: [ 主管中国各级司法机构的中国政法委书记郭声琨, 17日至20日到新疆调研 ]
+  - id: b17-court-2021-02-guo-rectification
+    title: 郭声琨在全国政法队伍教育整顿动员部署会议上强调 扎实开展全国政法队伍教育整顿
+    publisher: 新华社（最高人民法院网转载）
+    date: 2021-02-27
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/288231.html
+    start: 2月27日，中共中央政治局委员
+    end: 在各地分会场参加会议。
+  - id: b17-spp-2021-04-06-guo-rectification
+    title: 郭声琨：认真对标对表党中央决策部署 推动政法队伍教育整顿走深走实
+    publisher: 新华社（澎湃新闻转载）
+    date: 2021-04-06
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_12069774
+    start: 新华社北京4月6日消息
+    end: 赵克志、周强、张军出席。
+  # --- Yang Xiaodu ---
+  - id: b17-12371-2017-10-19-yang-presser
+    title: 中纪委副书记杨晓渡就全面从严治党相关情况等答记者问
+    publisher: 共产党员网
+    date: 2017-10-19
+    voice: official
+    url: http://www.12371.cn/2017/10/19/ARTI1508406057370176.shtml
+    start: 10月19日，十九大新闻中心举行记者招待会
+    end: 也就会更多地减少。
+  - id: b17-xinhua-2023-09-20-cdpf
+    title: 中国残联第八次全国代表大会选举产生新一届领导机构
+    publisher: 新华社
+    date: 2023-09-20
+    voice: official
+    url: http://www.news.cn/politics/2023-09/20/c_1129873426.htm
+    start: 新华社北京9月20日电
+    end: 李冬生（女）
+  # --- Zhang Chunxian ---
+  - id: b17-chinanews-2006-03-07-zhang-hunan
+    title: 张春贤：不喜欢新官上任“三把火” 最担心人祸
+    publisher: 中新网（转载《第一财经日报》）
+    date: 2006-03-07
+    voice: official
+    url: http://www.chinanews.com.cn/news/2006/2006-03-07/8/699668.shtml
+    excerpt: true
+    keep: [ 我最担心人祸, 我不喜欢烧新官上任后的, 原来他一吃辣椒就说不出话 ]
+  - id: b17-people-2014-03-06-zhang-terror
+    title: 张春贤：反恐要标本兼治 根本还在争取民心
+    publisher: 人民网（转载《北京青年报》）
+    date: 2014-03-06
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0306/c70731-24541723.html
+    excerpt: true
+    keep: [ 但根本还在争取民心, 是安全的，放心去吧, 尽管‘7·5’事件后民族隔阂大大加深 ]
+  - id: b17-people-2014-03-07-zhang-sixteen-minutes
+    title: 两会特写：张春贤的“十六分钟”与“四年”
+    publisher: 人民网（中新社稿）
+    date: 2014-03-07
+    voice: official
+    url: http://lianghui.people.com.cn/2014npc/n/2014/0307/c376088-24562086.html
+    excerpt: true
+    keep: [ 这位曾被香港媒体称之为内地“最开放官员”, 现在新疆的暴恐，90%是‘翻墙’, 这确实不是民族问题，也不是宗教问题, 唯有大力发展民生, 不严打就不发生 ]
+  - id: b17-bbc-2016-01-01-zhang-religion
+    title: 张春贤：新疆“宗教极端氛围明显淡化”
+    publisher: BBC 中文
+    date: 2016-01-01
+    voice: zh
+    url: https://web.archive.org/web/20160330224230/http://www.bbc.com/zhongwen/simp/china/2016/01/160101_xinjiang_zhangchunxian_religion
+    excerpt: true
+    keep: [ 深入推进‘去极端化’, 坚持打击的一手要硬 ]
+  - id: b17-bbc-2016-08-29-xinjiang-change
+    title: 新疆维吾尔自治区党委书记换人引发臆测
+    publisher: BBC 中文
+    date: 2016-08-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/08/160829_china_xinjiang_official
+    excerpt: true
+    keep: [ 被分析人士认为是, 今年五月，多名新疆维吾尔自治区的中共官员, 互联网很快便被解封 ]
+  - id: b17-zaobao-2016-10-17-zhang-not-negated
+    title: 卸任新疆党委书记首度亮相显示 张春贤治疆策略未遭否定
+    publisher: 联合早报
+    date: 2016-10-17
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20161017-678651
+    excerpt: true
+    keep: [ 他在新疆的政绩和柔性治疆策略并未遭高层否定, 预示着张春贤在政坛已被, 与前任过于依靠强力打压不同 ]
+  - id: b17-rfi-2015-03-25-li-xiuping
+    title: 张春贤妻李修平退下《新闻联播》主播改任幕后工作
+    publisher: 法国国际广播电台
+    date: 2015-03-25
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20150325-%E5%BC%A0%E6%98%A5%E8%B4%A4%E5%A6%BB%E5%BE%90%E4%BF%AE%E5%B9%B3%E9%80%80%E4%B8%8B%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E4%B8%BB%E6%92%AD%E6%94%B9%E4%BB%BB%E5%B9%95%E5%90%8E%E5%B7%A5%E4%BD%9C
+    excerpt: true
+    keep: [ 新疆自治区党委书记张春贤的妻子李修平, 主播满52周岁要退到幕后工作 ]
+  # --- You Quan ---
+  - id: b17-people-2012-12-20-you-fujian
+    title: 中央决定：尤权同志任福建省委委员、常委、书记
+    publisher: 人民网
+    date: 2012-12-20
+    voice: official
+    url: http://renshi.people.com.cn/n/2012/1220/c139617-19957497.html
+    start: 19日，福建省召开领导干部大会
+    end: 参加会议。（记者 兰锋 周琳）
+  - id: b17-people-2017-11-07-you-ufwd
+    title: 尤权任中央统战部部长（图/简历）
+    publisher: 中国共产党新闻网
+    date: 2017-11-07
+    voice: official
+    url: http://renshi.people.com.cn/n1/2017/1107/c139617-29632388.html
+    start: 中国共产党新闻网北京11月7日电
+    end: 十九届中央书记处书记。
+  - id: b17-scmp-2017-11-07-you-ufwd
+    title: China's new non-party liaison chief aims to boost support from Hong Kong business groups
+    publisher: South China Morning Post
+    date: 2017-11-07
+    voice: zh
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/policies-politics/article/2118815/chinas-new-non-party-liaison-chief-aims-boost-support
+    excerpt: true
+    keep: [ has a broad portfolio that ranges from courting elites, has little direct experience dealing with ethnic and religious issues, rallying support from business elites in Hong Kong ]
+  - id: b17-hxnews-2014-09-22-you-putian
+    title: 尤权与莆田民营企业代表座谈
+    publisher: 海峡都市报（福建日报稿）
+    date: 2014-09-22
+    voice: official
+    url: https://dzb.hxnews.com/2014-09/22/content_234932.htm
+    excerpt: true
+    keep: [ 表扬政府的话就不说了, 你们只管放手干, 直率和坦诚的开场白 ]
+  - id: b17-gov-2014-11-02-xi-fujian
+    title: 习近平在福建调研时强调 全面深化改革全面推进依法治国
+    publisher: 新华社（中国政府网）
+    date: 2014-11-02
+    voice: official
+    url: https://www.gov.cn/xinwen/2014-11/02/content_2774179.htm
+    start: 新华社福州11月2日电
+    end: 分别陪同参加考察活动。
+  - id: b17-xinhua-2018-04-04-you-religion
+    title: 尤权：深入研究解决宗教工作中的突出问题 持续推进我国宗教中国化
+    publisher: 新华社
+    date: 2018-04-04
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018-04/04/c_1122639879.htm
+    start: 新华社合肥4月4日电
+    end: 为推动经济社会发展作出新贡献。
+  - id: b17-people-2019-11-26-you-united-front
+    title: 坚持大统战工作格局
+    publisher: 人民日报
+    author: 尤权
+    date: 2019-11-26
+    voice: doc
+    url: http://theory.people.com.cn/n1/2019/1126/c40531-31474052.html
+    start: 统一战线历来是党的总路线
+    end: 实现新时代统一战线持续健康发展。
+  - id: b17-rfi-2021-01-15-sanctions
+    title: 美国再制裁6名中港官员
+    publisher: 法国国际广播电台
+    date: 2021-01-15
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210115-%E7%BE%8E%E5%9B%BD%E5%86%8D%E5%88%B6%E8%A3%816%E5%90%8D%E4%B8%AD%E6%B8%AF%E5%AE%98%E5%91%98
+    excerpt: true
+    keep: [ 制裁中共中央港澳工作协调小组副组长尤权, 受制裁官员包含兼任中共中央统战部部长尤权 ]
+  - id: b17-minge-2022-10-26-you-briefing
+    title: 尤权受中共中央委托向党外人士通报中共二十大精神
+    publisher: 新华社（民革中央网站转载）
+    date: 2022-10-26
+    voice: official
+    url: http://www.minge.gov.cn/n1/2022/1026/c415139-32551963.html
+    start: 10月25日，受中共中央委托
+    end: 中央统战部有关负责同志参加会议。

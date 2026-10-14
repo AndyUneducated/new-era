@@ -237,30 +237,6 @@
   ids: { wikidata: Q957744 }
   cites: [wd-Q957744, c01-ifeng-2007-10-22-hui-liangyu, c01-gov-2018-03-19-state-council-history]
 
-- id: liu-qi
-  name: 刘淇
-  gender: m
-  ethnicity: 汉族
-  born: 1942-11-03
-  birthplace: 江苏武进
-  joinedParty: 1975-09
-  roles: [pb, cc, minister, prov]
-  status: retired
-  statusNote: 2012 年 7 月卸任北京市委书记，同年 11 月十八大退出政治局；2013 年任中国志愿服务联合会会长。
-  tier: 2
-  headline: 北京市委书记（2002–2012）、北京奥组委主席
-  bio: >-
-    炼铁工程师出身，在武钢从高炉瓦斯工、炉前工做到公司经理，1993 年任冶金工业部部长。1998 年调任北京，1999 年任市长，2002–2012 年任北京市委书记。
-    兼任北京奥组委主席，主持 2008 年奥运会筹办；2002–2012 年为政治局委员。
-  positions:
-    - { title: 武汉钢铁公司经理, sys: other, place: 湖北, from: 1990, to: 1993, cite: c01-people-2013-12-06-liu-qi }
-    - { title: 冶金工业部部长, sys: gov, from: 1993, to: 1998, cite: c01-people-2013-12-06-liu-qi }
-    - { title: 北京市市长, sys: gov, place: 北京, from: 1999, to: 2002, cite: c01-people-2013-12-06-liu-qi }
-    - { title: 北京市委书记, sys: party, place: 北京, from: 2002, to: 2012-07, cite: c01-people-2013-12-06-liu-qi }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-people-2013-12-06-liu-qi }
-    - { title: 中央文明委副主任, sys: party, from: 2012-07, cite: c01-people-2013-12-06-liu-qi }
-  ids: { wikidata: Q699246 }
-  cites: [wd-Q699246, c01-people-2013-12-06-liu-qi]
 
 - id: zhang-lichang
   name: 张立昌
@@ -591,28 +567,6 @@
   cites: [wd-Q842394, c01-people-2012-11-12-jing-zhiyuan]
 
 
-- id: wu-shengli
-  name: 吴胜利
-  gender: m
-  ethnicity: 汉族
-  born: 1945-08
-  birthplace: 河北吴桥
-  roles: [cmc, cc, general]
-  status: retired
-  statusNote: 2017 年 1 月卸任海军司令员，同年十九大退出中央军委。
-  tier: 2
-  headline: 海军司令员（2006–2017）
-  bio: >-
-    据《环球人物》，他“出生在一个中共高级干部家庭”，1964 年考入军校后一直在海军，当过 8 年驱逐舰、护卫舰舰长。历任东海舰队副司令员、南海舰队司令员、副总参谋长。
-    2006–2017 年任海军司令员，2007 年进入中央军委。
-  positions:
-    - { title: 东海舰队副司令员, sys: army, from: 1999, to: 2002-01, cite: c01-people-2012-09-26-wu-shengli }
-    - { title: 广州军区副司令员兼南海舰队司令员, sys: army, from: 2002-01, to: 2004-07, cite: c01-people-2012-09-26-wu-shengli }
-    - { title: 副总参谋长, sys: army, from: 2004-07, to: 2006-08, cite: c01-people-2012-09-26-wu-shengli }
-    - { title: 海军司令员, sys: army, from: 2006-08, to: 2017-01, cite: c01-people-2012-09-26-wu-shengli }
-    - { title: 中央军委委员, sys: army, from: 2007-10, to: 2017-10, cite: c01-people-2012-09-26-wu-shengli }
-  ids: { wikidata: Q717014 }
-  cites: [wd-Q717014, c01-people-2012-09-26-wu-shengli]
 
 - id: xie-fei
   name: 谢非

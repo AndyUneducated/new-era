@@ -1,0 +1,629 @@
+# B21: full biographies. Each entry below starts as the dossier card written in round 1 (C01/C02); expand it to tier 1.
+- id: wu-shengli
+  name: 吴胜利
+  pinyin: Wú Shènglì
+  gender: m
+  ethnicity: 汉族
+  born: 1945-08
+  birthplace: 河北吴桥
+  education:
+    - { school: 中国人民解放军测绘学院海测系, from: 1964 }
+  joinedWork: 1964-08
+  roles: [cmc, cc, general]
+  status: retired
+  statusNote: 2017 年 1 月到龄卸任海军司令员，同年十九大退出中央军委。
+  tier: 1
+  headline: 海军司令员（2006–2017）、中央军委委员（2007–2017）
+  bio: >-
+    高级干部子弟，父亲吴宪做过杭州市委书记、浙江省副省长。1964 年考入解放军测绘学院后一辈子在海军，当过 8 年驱逐舰、护卫舰舰长，据 The Diplomat 还参加过 1988 年赤瓜礁海战。
+    历任福建基地司令员、东海舰队副司令员、南海舰队司令员、副总参谋长，2006 年接替因健康原因离任的张定发任海军司令员，2007 年进入中央军委。
+    十八大时同龄的军种将领都退了，他却留任，主政海军近 11 年，是仅次于萧劲光的任职最久的海军司令员；任内辽宁舰入列，南沙岛礁大规模建设，他是军方在南海问题上的强硬发言人。
+    2017 年 1 月到龄卸任。退休后海外中文媒体屡传他被查、被审计（传闻），官方未通报。
+  positions:
+    - { title: 海军福建基地司令员, sys: army, from: 1997-10, to: 1999, cite: c01-people-2012-09-26-wu-shengli }
+    - { title: 东海舰队副司令员, sys: army, from: 1999, to: 2002-01, cite: c01-people-2012-09-26-wu-shengli }
+    - { title: 广州军区副司令员兼南海舰队司令员, sys: army, from: 2002-01, to: 2004-07, cite: c01-people-2012-09-26-wu-shengli }
+    - { title: 副总参谋长, sys: army, from: 2004-07, to: 2006-08, cite: c01-people-2012-09-26-wu-shengli }
+    - { title: 海军司令员, sys: army, from: 2006-08, to: 2017-01, cite: b21-thepaper-2017-01-20-wu-11-years }
+    - { title: 中央军委委员, sys: army, from: 2007-10, to: 2017-10, cite: c01-people-2012-09-26-wu-shengli }
+  factions:
+    - f: princelings
+      cite: b21-diplomat-2017-01-erickson-wu
+      quote: Wu’s father’s status as a former vice governor of Zhejiang province, made the admiral, like Xi, one of China’s “princelings.”
+  life:
+    - h: 高干子弟
+      from: 1945
+      to: 1964
+      text: >-
+        1945 年 8 月生于河北吴桥。据《环球人物》，他“出生在一个中共高级干部家庭，父亲是位老革命”。维基百科记载，父亲吴宪参加过一二·九运动，1938 年入党，解放战争时任解放军第三十五军政治部主任，建国后历任杭州市委书记兼市长、浙江省委书记处书记、浙江省副省长和省政协副主席。
+        1964 年 8 月，他从地方高考考入解放军测绘学院海测系，同时入伍，从此再没离开海军。
+      cites: [c01-people-2012-09-26-wu-shengli, b21-wiki-wu-shengli]
+    - h: 八年舰长
+      from: 1968
+      to: 1997
+      text: >-
+        毕业后他先后在 4 艘驱逐舰、护卫舰上任职，1974 年起历任水面舰艇副航海长、护卫舰副舰长和舰长、驱逐舰舰长，当了 8 年舰长。
+        The Diplomat 2017 年的文章称，他参加过 1988 年 3 月 14 日中越赤瓜礁海战，因此是解放军海军中少有的有海上实战经历的将领；中国官方简历和《环球人物》的长篇介绍都没有提到这一段。
+      cites: [c01-people-2012-09-26-wu-shengli, b21-wiki-wu-shengli, b21-diplomat-2017-02-pla-reshuffle]
+    - h: 从东海到南海
+      from: 1997
+      to: 2006
+      text: >-
+        1997 年 10 月回到东海舰队任福建基地司令员，两年后升东海舰队副司令员。2002 年 1 月调任广州军区副司令员兼南海舰队司令员，2003 年晋海军中将。2004 年 7 月任副总参谋长。
+        2006 年 8 月，由于时任海军司令员张定发的健康问题，由他接任。2007 年 7 月晋海军上将，同年十七届一中全会进入中央军委。
+      cites: [c01-people-2012-09-26-wu-shengli, b21-thepaper-2017-01-20-wu-11-years]
+    - h: 海军司令员
+      from: 2006
+      to: 2012
+      text: >-
+        据《环球人物》，出任海军司令员后，他加大海军武器装备自主创新力度，也注重引进国外先进技术，海军五大兵种逐步向信息化转型。2008 年底海军开始亚丁湾护航。
+        2012 年 9 月 25 日，中国第一艘航空母舰辽宁舰交接入列，郭伯雄宣布舰名舷号，他在仪式上发言。十八大时，同龄的军种级将领都被要求退休，他却留任并连任军委委员；海军学者易思安（Andrew Erickson）认为，这显示领导层把海军现代化放在优先位置，也对他本人格外信任。
+      cites: [c01-people-2012-09-26-wu-shengli, e02-ce-2012-09-25-liaoning, b21-diplomat-2017-01-erickson-wu]
+    - h: 南海岛礁
+      from: 2014
+      to: 2016
+      text: >-
+        习近平时期，他是南沙岛礁建设的军方代言人。2016 年 1 月与美国海军作战部长理查德森视频通话时，他说永暑礁新机场的校验试飞是为了检验民航标准，岛礁上的防御设施不是军事化，“我们绝不会谋求岛礁军事化，但也绝不会不设防”。
+        同年 7 月 18 日理查德森访华，他一口气说了五个“绝不会”，要美方“不要指望我们在领土主权上作出让步”，并说不管什么国家施加什么压力，“中方都会按计划推进并完成岛礁建设”。
+      cites: [b21-xinhua-2016-01-20-wu-richardson, b21-cri-2016-07-18-wu-five-nevers]
+    - h: 到龄卸任
+      from: 2016-12
+      to: 2017-10
+      text: >-
+        2016 年 12 月，他登上辽宁舰指导空中加油和空战对抗训练；2017 年 1 月 11 日辽宁舰编队绕台湾航行，易思安称这是他卸任前的“告别曲”。据《环球时报》，1 月 17 日他到龄退役，原南海舰队司令员沈金龙接任。从 2006 年 8 月算起，他主政海军近 11 年，是除首任司令员萧劲光外任职最长的海军司令员。这一年他步入 72 岁，已到军委委员最高任职年限，仍保留军委委员到 10 月十九大。
+      cites: [b21-diplomat-2017-01-erickson-wu, b21-thepaper-2017-01-20-wu-11-years, b21-xinhua-2017-09-02-three-services]
+    - h: 退休后的传闻
+      from: 2015
+      to: 2020
+      text: >-
+        据看中国（传闻），2015 年就有军纪委巡视组进驻海军大院、海军原政委刘晓江实名举报他贪腐的说法；日本共同社 2017 年 9 月报道他“涉嫌违纪”正在接受调查。据大纪元（传闻），党史学者高文谦在美国之音节目中称他退休“事出有因”；2020 年 6 月，红二代蔡小心在微博贴出一张“军队审计公告”照片，称军委审计署对他任海军司令员期间履行经济责任情况进行审计。
+        看中国又称，2020 年国庆招待会的新闻联播画面里，他身穿白色海军制服出席。官方从未通报对他立案。
+      cites: [b21-secretchina-2020-10-01-wu-reception, b21-epoch-2020-06-26-wu-audit]
+  assess:
+    - voice: official
+      quote: true
+      text: 这是海军成立以来除了首任海军司令员开国元勋萧劲光之外任职最长的海军司令员。
+      cite: b21-thepaper-2017-01-20-wu-11-years
+    - voice: scholar
+      quote: true
+      text: Wu’s retention in October 2012, when all other service-grade military leaders of his age were forced to retire, suggested both the Chinese leadership’s prioritization of naval modernization and its particular confidence in him.
+      zh: 2012 年 10 月，所有同龄的军种级将领都被迫退休，吴胜利却得以留任，这既说明中国领导层把海军现代化放在优先位置，也说明对他本人格外信任。
+      cite: b21-diplomat-2017-01-erickson-wu
+    - voice: scholar
+      quote: true
+      text: Here Wu has made a name for himself that will be remembered and ultimately rediscovered by all who follow Chinese naval developments, in his case as a leading career-long naval officer who took his service far out to sea.
+      zh: 吴胜利在这方面留下了自己的名字，所有关注中国海军发展的人都会记住并重新发现他——一位终身服役海军、把这支军种带向远海的领军人物。
+      cite: b21-diplomat-2017-01-erickson-wu
+    - voice: west
+      quote: true
+      text: He was thus one of the few PLAN admirals who had actual combat experience at sea.
+      zh: 因此，他是解放军海军中少数有过海上实战经历的将领之一。
+      cite: b21-diplomat-2017-02-pla-reshuffle
+  family:
+    - name: 吴宪
+      rel: 父亲
+      text: >-
+        据维基百科，参加过一二·九运动，1938 年入党，后任解放军第三十五军政治部主任；建国后历任杭州市委书记兼市长、浙江省委书记处书记、浙江省副省长、浙江省政协副主席。
+        自由亚洲电台和看中国称他为“前浙江省委书记”，易思安称他做过浙江副省长，各家说法不一。
+      cites: [b21-wiki-wu-shengli, f04-rfa-2017-11-07-princelings, b21-diplomat-2017-01-erickson-wu]
+  ids: { wikidata: Q717014 }
+  cites: [wd-Q717014, c01-people-2012-09-26-wu-shengli, b21-thepaper-2017-01-20-wu-11-years, b21-wiki-wu-shengli, b21-diplomat-2017-01-erickson-wu, b21-xinhua-2016-01-20-wu-richardson]
+
+- id: ma-xiaotian
+  name: 马晓天
+  pinyin: Mǎ Xiǎotiān
+  gender: m
+  ethnicity: 汉族
+  born: 1949-08
+  birthplace: 河南巩义
+  education:
+    - { school: 国防大学基本系, from: 1993-05, to: 1994-04 }
+  joinedParty: 1969-07
+  joinedWork: 1965-07
+  roles: [cmc, cc, general]
+  status: retired
+  statusNote: 2017 年 8 月卸任空军司令员，十九大退出中央军委，2018 年 3 月退休。
+  tier: 1
+  headline: 空军司令员（2012–2017）、中央军委委员
+  bio: >-
+    开国大校马载尧之子，不满 16 岁进航校，25 岁成为空军最年轻的飞行副团长，49 岁还驾驶苏-30 参加珠海航展。
+    历任空十军军长、兰州和南京军区空军司令员、空军副司令员，2006 年任国防大学校长，2007 年任副总参谋长，分管外事及情报工作，2010 年公开表态坚决反对美韩在黄海军演，被媒体称为“鹰派上将”；2009 年与刘源、张海阳同日晋上将，学者视三人为军中太子党。
+    2012 年接替许其亮任空军司令员并入军委，2017 年说“日本海不是日本的海”。同年 8 月由丁来杭接任，2018 年退休。
+  positions:
+    - { title: 空军第十军参谋长、军长, sys: army, from: 1994-04, to: 1997-03, cite: f06-sohu-2009-07-20-three-generals }
+    - { title: 空军副参谋长, sys: army, from: 1997-03, to: 1998-08, cite: f06-sohu-2009-07-20-three-generals }
+    - { title: 广州军区空军参谋长, sys: army, from: 1998-08, to: 1999-06, cite: f06-sohu-2009-07-20-three-generals }
+    - { title: 兰州军区副司令员兼军区空军司令员, sys: army, from: 1999-06, to: 2001-01, cite: f06-sohu-2009-07-20-three-generals }
+    - { title: 南京军区副司令员兼军区空军司令员, sys: army, from: 2001-01, to: 2003-07, cite: c02-wiki-ma-xiaotian }
+    - { title: 空军副司令员, sys: army, from: 2003-07, to: 2006-08, cite: c02-wiki-ma-xiaotian }
+    - { title: 国防大学校长, sys: army, from: 2006-08, to: 2007-09, cite: c02-wiki-ma-xiaotian }
+    - { title: 副总参谋长, sys: army, from: 2007-09, to: 2012-10, cite: c02-wiki-ma-xiaotian }
+    - { title: 空军司令员, sys: army, from: 2012-10, to: 2017-08, cite: c02-caixin-2012-10-23-pla-reshuffle }
+    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+  life:
+    - h: 将门之子
+      from: 1949
+      to: 1972
+      text: >-
+        1949 年 8 月生于河南巩义。父亲马载尧是开国大校、解放军政治学院原教育长，长期做部队干部政治培训。《环球人物》记载，三年困难时期马载尧的老战友请他全家吃饭，十一二岁的马晓天问：“伯伯，我们今天可以吃饱饭吗？”
+        1965 年 7 月不满 16 岁入伍，先后在空军第二航空预备学校、第十二航空学校、第五航空学校学习，当过飞行教员，被纪录片称为“塔台上的儿童团长”；1969 年 7 月入党。
+      cites: [f06-sohu-2009-07-20-three-generals, b21-hqrw-2012-11-06-ma]
+    - h: 飞行员
+      from: 1972
+      to: 1999
+      text: >-
+        1972 年 1 月成为空军飞行员，历任中队长、副大队长、副团长、团长。据《南方周末》，他 25 岁就成为空军最年轻的飞行团副团长，那一年央视为他拍了电视片《共和国同龄人：塔台上的儿童团》；他和后来接替他的丁来杭一样出自空 24 师。1983 年任航空兵师副师长、师长。
+        1993–1994 年在国防大学基本系学习，此后任空军第十军参谋长、军长，1995 年晋少将；1997 年任空军副参谋长，1998 年任广州军区空军参谋长。同年珠海航展上，49 岁的他亲自驾驶苏-30 战斗机飞行。
+      cites: [f06-sohu-2009-07-20-three-generals, b21-infzm-2017-09-three-services, b21-hqrw-2012-11-06-ma]
+    - h: 大军区空军与国防大学
+      from: 1999
+      to: 2007
+      text: >-
+        1999 年 6 月任兰州军区副司令员兼军区空军司令员，2000 年晋空军中将；2001 年 1 月调任南京军区副司令员兼军区空军司令员，2002 年当选中共十六届中央委员。
+        2003 年 7 月任空军副司令员，2006 年 8 月出任国防大学校长，执掌最高军事学府，2007 年 9 月转任副总参谋长。《环球人物》说他经历了野战部队、空军机关、军校、军委总部多个关键岗位，多次指挥上海合作组织的联合军演。
+      cites: [f06-sohu-2009-07-20-three-generals, c02-wiki-ma-xiaotian, b21-hqrw-2012-11-06-ma]
+    - h: 副总参谋长
+      from: 2007
+      to: 2012
+      text: >-
+        据《环球人物》，任副总参谋长期间他分管外事及情报工作，多次代表军方强硬表态。2010 年 7 月 1 日，美韩准备在黄海联合军演，他对凤凰卫视说：“因为是在黄海，距离中国领海很近，举行这样的演习，我们是非常反对的。”韩国《中央日报》称这是解放军最高层首次公开表态。美国之音采访的旅美学者张鹤慈认为，军方通常以鹰派姿态示人，与军需和军费要求有关，中国高层在对美问题上的分歧并不大，只是愿意借个人之口让外界听到声音；《环球人物》也说他放“狠话”的同时强调和平发展是中国郑重的战略选择。2011 年 7 月中日防务安全磋商中，他批评日本“正走向危险的方向”。
+        2009 年 7 月，他与刘源、张海阳同日晋上将；布鲁金斯学会的李成指出三人全是太子党，认为胡锦涛借此向军中太子党发出讯息。
+      cites: [b21-hqrw-2012-11-06-ma, b21-cntv-2010-07-03-ma-yellow-sea, b21-voa-2010-07-04-yellow-sea, f06-sohu-2009-07-20-three-generals, f04-brookings-2010-06-29-military]
+    - h: 空军司令员
+      from: 2012
+      to: 2017-08
+      text: >-
+        2012 年 10 月接替许其亮任空军司令员，是空军第十一任司令员，11 月十八届一中全会进入中央军委，2013 年 3 月任国家军委委员。《环球人物》称他被媒体誉为“共和国史上最帅空军司令”。
+        2017 年 8 月，日本防卫白皮书对中国空军在日本海的活动表示担忧，他在长春空军开放日上回答记者：“我们发展我们的，他担忧什么”，“日本海不是日本的海，不是不能去。”
+      cites: [b21-hqrw-2012-11-06-ma, c02-caixin-2012-10-23-pla-reshuffle, c02-wiki-ma-xiaotian, b21-cnr-2017-08-11-ma-japan-sea]
+    - h: 卸任与退休
+      from: 2017-08
+      to: 2026
+      text: >-
+        2017 年 9 月 1 日，丁来杭首次以空军司令员身份公开亮相，新京报称此前空军司令员由中央军委委员马晓天担任。他当年 68 岁，十九大退出中央军委，2018 年 3 月退休。ETtoday 引述中国官媒称，他的儿子张昊是空军飞行员，在朱日和阅兵中驾驶歼-20 受阅。
+        退休后他偶尔出席官方活动，据联合早报引星岛网，2026 年 9 月 30 日国庆招待会的新闻联播画面中仍可见到他。
+      cites: [b21-xinhua-2017-09-02-three-services, b21-ettoday-2017-09-02-ding-ma, c02-wiki-ma-xiaotian, b21-zaobao-2026-09-30-reception]
+  assess:
+    - voice: official
+      quote: true
+      text: 其实，外界称马晓天上述言论为“狠话”并以此为依据称他为军方“鹰派”，有过度解读、妄加猜测和以偏概全之嫌。
+      cite: b21-hqrw-2012-11-06-ma
+    - voice: zh
+      quote: true
+      text: 中美关系离战争边缘还很远，不过是双方都因为内政的原因而打牌和做姿态。而军方通常以鹰派姿态示人，这也基于军需和军费要求。
+      cite: b21-voa-2010-07-04-yellow-sea
+    - voice: scholar
+      quote: true
+      text: 这3名军官（马晓天、张海阳和刘源）全都是太子党。通过这一举措，胡锦涛向军方的太子党发出了一项重要讯息：他会像他的前任江泽民（也是太子党）一样照顾他们。
+      cite: f04-brookings-2010-06-29-military
+  family:
+    - name: 马载尧
+      rel: 父亲
+      text: 开国大校，解放军政治学院原教育长。1949 年调任四十九军青年干部学校副教育长后，做了 30 多年部队干部政治培训工作，老战友说他“思虑周全，语言与文字表达皆属上乘，个人涵养尤其好”。
+      cites: [b21-hqrw-2012-11-06-ma, f06-sohu-2009-07-20-three-generals]
+    - name: 张昊
+      rel: 儿子
+      text: 据 ETtoday 引中国官媒，空军飞行员，2017 年朱日和阅兵中驾驶歼-20 隐身战机受阅。自由亚洲电台另称马晓天的岳父曾为解放军中将，未具名。
+      cites: [b21-ettoday-2017-09-02-ding-ma, f04-rfa-2017-11-07-princelings]
+  ids: { wikidata: Q2213506 }
+  cites: [wd-Q2213506, c02-caixin-2012-10-23-pla-reshuffle, c02-xinhua-2013-03-15-npc-cmc, c02-wiki-ma-xiaotian, f06-sohu-2009-07-20-three-generals, b21-hqrw-2012-11-06-ma, b21-cnr-2017-08-11-ma-japan-sea]
+
+- id: li-zuocheng
+  name: 李作成
+  pinyin: Lǐ Zuòchéng
+  gender: m
+  ethnicity: 汉族
+  born: 1953-10
+  birthplace: 湖南安化
+  education:
+    - { school: 广西师范大学马克思主义理论与思想政治教育专业, degree: 研究生 }
+  joinedParty: 1972
+  joinedWork: 1970-12
+  roles: [cmc, cc, general]
+  status: retired
+  statusNote: 2022 年 10 月二十大后卸任中央军委委员、联合参谋部参谋长，退休；2026 年 9 月仍出席国庆招待会。
+  tier: 1
+  headline: 中央军委联合参谋部参谋长（2017–2022）、首任陆军司令员
+  bio: >-
+    1979 年对越作战的战斗英雄，带全连血战 26 个昼夜，连队被命名为“尖刀英雄连”，29 岁就入选中共十二大主席团。此后在广西边防和第 41 集团军一路做到 45 岁的全军最年轻集团军军长，却在正军级停留近 10 年。
+    习近平掌军后他快速上升：2013 年以非中央委员身份出任成都军区司令员，2015 年晋上将，年底任新组建的陆军首任司令员，2017 年接替落马的房峰辉任联合参谋部参谋长并进入中央军委。
+    任内他代表军方宣示对台“不承诺放弃使用武力”，也是美军参联会主席米利 2020–2021 年两次秘密致电的中方对象。2022 年二十大到龄退出军委。
+  positions:
+    - { title: 第 41 集团军军长, sys: army, from: 1998-04, to: 2002-01, cite: c02-wiki-li-zuocheng }
+    - { title: 广州军区副参谋长, sys: army, from: 2002-01, to: 2007-12, cite: c02-wiki-li-zuocheng }
+    - { title: 成都军区副司令员, sys: army, from: 2007-12, to: 2013-07, cite: b21-caixin-2013-08-06-li-chengdu }
+    - { title: 成都军区司令员, sys: army, from: 2013-07, to: 2015-12, cite: b21-people-2013-07-10-li-chengdu }
+    - { title: 陆军司令员, sys: army, from: 2015-12, to: 2017-08, cite: b21-gxnu-2016-01-04-li-army }
+    - { title: 中央军委联合参谋部参谋长, sys: army, from: 2017-08, to: 2022-10, cite: b21-rfi-2017-08-28-li-joint-staff }
+    - { title: 中央军委委员, sys: army, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+  life:
+    - h: 尖刀英雄连
+      from: 1953
+      to: 1979
+      text: >-
+        1953 年 10 月生于湖南安化，1970 年 12 月入伍，1972 年入党。1979 年对越自卫还击战时，他是广西军区边防独立师 3 团 8 连连长，率连队与敌血战 26 昼夜。他后来在演讲里说，全连和兄弟连队一起“共毙敌194人”，连队被中央军委授予“尖刀英雄连”称号，25 岁的他被记一等功并获“战斗英雄”称号。
+        一名 41 集团军老兵说他打仗不要命，“有湖南人的霸蛮，有湘军的血性”；他自己回忆曾用左手抓住敌人发烫的枪管、右手提冲锋枪射击，击毙敌人后才发现抓枪管的手烫满血泡；右臂被子弹打穿，顾不上包扎仍继续战斗。
+      cites: [b21-gxnu-2016-01-04-li-army, b21-hunantoday-2017-08-li, b21-people-2013-07-10-li-chengdu]
+    - h: 英模与边防
+      from: 1980
+      to: 1997
+      text: >-
+        战后他作为作战英模报告团成员在全国巡回演讲，1982 年 29 岁入选中共十二大主席团。他在演讲中讲到 1984 年东兴镇炮战，全团官兵在灌满水的猫耳洞里蹲了一个多月。
+        此后逐级任营长、团长、师参谋长，1991 年任广州军区守备第三师师长，1992 年 12 月该师撤销后任第 41 集团军步兵第 123 师师长，1994 年率部抗击广西洪灾；1995 年被评为全国“百佳公仆”，升副军长，1997 年授少将。
+      cites: [b21-gxnu-2016-01-04-li-army, b21-people-2013-07-10-li-chengdu, c02-wiki-li-zuocheng]
+    - h: 正军级十年
+      from: 1998
+      to: 2012
+      text: >-
+        1998 年 4 月，45 岁的他接替欧金谷任第 41 集团军军长，是当时全军最年轻的集团军军长，同年率部转战湖南、湖北抗洪。
+        此后他在正军级“原地踏步”近 10 年：2002 年任广州军区副参谋长，2007 年底首次跨大军区调任成都军区副司令员，成为当时唯一被授予过“战斗英雄”称号的大军区副司令员，2009 年晋中将。界面新闻转述有人透露的说法，他遭遇瓶颈的重要原因是一身正气、不搞“歪门斜道”。
+      cites: [b21-caixin-2013-08-06-li-chengdu, b21-jiemian-2015-12-li-army, c02-wiki-li-zuocheng]
+    - h: 成都军区与陆军
+      from: 2013
+      to: 2017
+      text: >-
+        2013 年 7 月，并非中央委员或候补委员的他接替到龄的李世明任成都军区司令员，在副大军区职上待了五年半后一步跨到正职，标志十八大后七大军区主官调整完成；8 月《西藏日报》报道他在拉萨视察民兵训练，内地官媒首次确认这一任命。2015 年 7 月 31 日在八一大楼由习近平颁发命令状晋上将，界面新闻称他由此成为 38 位现役上将之一。
+        同年 12 月 31 日，习近平在八一大楼向新成立的陆军领导机构授旗，他成为首任陆军司令员。法广评论称，2013 年起他在习近平器重下连串高升，成为“习近平军中改革的重要左右手”。
+      cites: [b21-people-2013-07-10-li-chengdu, b21-caixin-2013-08-06-li-chengdu, c02-wiki-li-zuocheng, b21-jiemian-2015-12-li-army, b21-gxnu-2016-01-04-li-army, b21-rfi-2017-08-28-li-joint-staff]
+    - h: 联合参谋部参谋长
+      from: 2017-08
+      to: 2020
+      text: >-
+        2017 年 8 月房峰辉被带走调查，他接任中央军委联合参谋部参谋长，掌管作战计划、战略、后勤和训练；10 月当选十九届中央委员并进入中央军委，2018 年 3 月任国家军委委员。
+        2020 年 5 月《反分裂国家法》实施 15 周年座谈会上，他说如果和平统一的可能性完全丧失，人民军队将“采取一切必要措施”，又说“我们不承诺放弃使用武力，保留采取一切必要措施的选项”。
+      cites: [b21-rfi-2017-08-28-li-joint-staff, c02-wiki-li-zuocheng, c02-xinhua-2017-10-25-19-1-plenum, b21-gwytb-2020-05-29-li-taiwan]
+    - h: 米利的电话
+      from: 2020-10
+      to: 2022-07
+      text: >-
+        据美联社和 BBC 转述的新书内容，美军参联会主席米利在 2020 年 10 月 30 日大选前四天和 2021 年 1 月 8 日国会山骚乱两天后，两次致电李作成，保证美国不会突然对华开战；第二通电话里米利说“民主有时候就是有点乱”，书中称李作成“仍有些不安”。
+        2022 年 7 月，他与米利视频通话时说，中方在事关国家核心利益问题上“没有任何妥协退让的余地”，要求美方停止美台军事勾连。
+      cites: [b21-ap-2021-09-14-milley, b21-bbc-2021-09-15-milley-li, b21-mod-2022-07-08-li-milley]
+    - h: 退休
+      from: 2022-10
+      to: 2026
+      text: >-
+        2022 年 10 月二十大，69 岁的他与许其亮、魏凤和一起届龄退出中央军委。美国之音称新入军委的刘振立是“循现任军委联合参谋部参谋长李作成的模式升迁”，也可望接任他的参谋长一职。
+        据联合早报，他缺席了 2026 年 8 月 17 日的江泽民诞辰 100 周年大会，但 9 月 30 日仍出席国庆招待会。
+      cites: [b21-voa-2022-10-23-cmc, b21-zaobao-2026-09-30-reception]
+  assess:
+    - voice: official
+      quote: true
+      text: 李作成这个名字，可谓家喻户晓。
+      cite: b21-gxnu-2016-01-04-li-army
+    - voice: official
+      quote: true
+      text: 曾有人透露，李作成遭遇“瓶颈”的重要原因，是一身正气，不搞“歪门斜道”。
+      cite: b21-jiemian-2015-12-li-army
+    - voice: zh
+      quote: true
+      text: 自2013年开始，在习近平的器重之下，李作成连串高升，当年他被任命为前成都军区司令员，2015年晋升为上将，成为了习近平军中改革的重要左右手。
+      cite: b21-rfi-2017-08-28-li-joint-staff
+    - voice: west
+      quote: true
+      text: Chairman of the Joint Chiefs of Staff Mark Milley told Gen. Li Zuocheng of the People’s Liberation Army that the United States would not strike.
+      zh: 参谋长联席会议主席马克·米利告诉解放军的李作成上将，美国不会发动打击。
+      cite: b21-ap-2021-09-14-milley
+  ids: { wikidata: Q8316069 }
+  cites: [wd-Q8316069, c02-wiki-li-zuocheng, c02-xinhua-2017-10-25-19-1-plenum, b21-gxnu-2016-01-04-li-army, b21-people-2013-07-10-li-chengdu, b21-gwytb-2020-05-29-li-taiwan]
+
+- id: zhang-yang
+  name: 张阳
+  pinyin: Zhāng Yáng
+  gender: m
+  ethnicity: 汉族
+  born: 1951-08
+  died: 2017-11-23
+  birthplace: 河北武强
+  education:
+    - { school: 国防大学基本系, from: 1991-10, to: 1992 }
+    - { school: 中共中央党校行政管理专业, to: 1996 }
+  joinedParty: 1969-05
+  joinedWork: 1968
+  roles: [cmc, cc, general, tiger]
+  status: dead
+  statusNote: 2017 年 11 月 23 日在接受组织谈话期间于家中自缢身亡；2018 年 10 月被开除党籍，此前已被开除军籍、取消上将军衔。
+  fall:
+    - { date: 2017-08-28, text: 中央军委决定对其进行组织谈话，调查其涉郭伯雄、徐才厚等案问题线索, cite: c02-xinhua-2017-11-28-zhang-yang }
+    - { date: 2017-11-23, text: 在家中自缢死亡；新华社称其涉嫌行贿受贿、巨额财产来源不明犯罪, cite: c02-xinhua-2017-11-28-zhang-yang }
+    - { date: 2018-10-16, text: 新华社通报，经中共中央批准，中央军委审查认定其涉嫌行贿、受贿、巨额财产来源不明犯罪，决定开除党籍、依纪依法追缴涉案财物；此前已被开除军籍、取消上将军衔, cite: b21-xinhua-2018-10-16-zhang-yang-expel }
+  tier: 1
+  headline: 总政治部主任、军委政治工作部主任（2012–2017），2017 年调查中自杀
+  bio: >-
+    一辈子做政治工作，从河北武强入伍的战士做到第 42 集团军政委、广州军区政委，2010 年晋上将。
+    2012 年接替李继耐任总政治部主任并进入中央军委，2016 年军委机关改革后任军委政治工作部首任主任，是总政最后一任、政工部第一任主官。任内他是肃清郭伯雄、徐才厚“流毒”的主要执行者，屡次公开批判郭徐；但港媒称他本人是“徐才厚的嫡系”。
+    2017 年 8 月被组织谈话，11 月 23 日在家中自缢，是十九大后首名落马的上将；2018 年被追开除党籍、军籍。2021 年历史决议把他与郭伯雄、徐才厚、房峰辉并列点名。
+  positions:
+    - { title: 第 42 集团军政治部主任, sys: army, from: 1999-09, to: 2002, cite: c02-wiki-zhang-yang }
+    - { title: 第 42 集团军政治委员, sys: army, from: 2002, to: 2004-12, cite: c02-wiki-zhang-yang }
+    - { title: 广州军区政治部主任, sys: army, from: 2004-12, to: 2007-09, cite: c02-wiki-zhang-yang }
+    - { title: 广州军区政治委员, sys: army, from: 2007-09, to: 2012-10, cite: c02-wiki-zhang-yang }
+    - { title: 总政治部主任, sys: army, from: 2012-10, to: 2016-01, cite: c02-sina-2012-10-25-pla-hq }
+    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+    - { title: 中央军委政治工作部主任, sys: army, from: 2016-01, to: 2017-08, cite: b21-sina-2017-11-28-zhang-xu }
+  factions:
+    - f: guo-xu
+      cite: c02-zaobao-2018-01-10-fang-fenghui
+      quote: 张阳则是徐才厚的嫡系
+  life:
+    - h: 武强的兵
+      from: 1951
+      to: 1999
+      text: >-
+        1951 年 8 月生于河北武强县孙庄乡，1968 年 17 岁入伍，次年 5 月入党。他从战士做起，历任班长、技师、政治指导员、政治教导员、团政治处主任、团政委，军旅生涯大部分在政工岗位上。
+        1991 年 10 月进国防大学基本系学习，一年后任炮兵一师政治部主任、副政委；1996 年任第 42 集团军第 163 师政委，同年从中央党校行政管理专业毕业。
+      cites: [b21-sina-2017-11-28-zhang-xu, c02-wiki-zhang-yang, b21-rfa-2017-11-28-zhang-yang]
+    - h: 广州军区
+      from: 1999
+      to: 2012
+      text: >-
+        1999 年 9 月任第 42 集团军政治部主任，2001 年晋少将，2002 年升集团军政委。据《环球人物》，所属摩托化步兵师改编机械化步兵师时，他们叫响了“宁可让人才等装备，也不能让装备等人才”的口号。
+        2004 年 12 月任广州军区政治部主任，与时任军区参谋长房峰辉搭档近 3 年，2012 年两人分掌总政、总参，“重新成为搭档”；2007 年 9 月接替杨德清任军区政委，七年内从副军职升到正大军区职。2008 年南方冰冻灾害时到韶关乳源一线指挥抢险。2010 年 7 月与房峰辉等 11 人同批晋上将，时年 58 岁。
+      cites: [c02-wiki-zhang-yang, b21-sina-2017-11-28-zhang-xu]
+    - h: 总政治部主任
+      from: 2012-10
+      to: 2015
+      text: >-
+        2012 年 10 月四总部同步换将，61 岁的他接替李继耐任总政治部主任，11 月当选中央军委委员；任命公布前四天，他还紧随徐才厚观看话剧《生命宣言》。2013 年他在《求是》撰文，要求坚决抵制“军队非党化、非政治化”和“军队国家化”等错误政治观点。
+        徐才厚 2014 年落马后，他反复批判郭徐：政知圈统计仅 2015 年 1 至 3 月他就至少在 6 个公开场合提到“肃清徐才厚案的影响”，维基百科汇集的媒体统计说他被谈话前不下 13 次痛批徐才厚。
+      cites: [b21-sina-2017-11-28-zhang-xu, b21-sina-2013-04-16-zhang-article, c02-wiki-zhang-yang, c02-sina-2012-10-25-pla-hq]
+    - h: 政治工作部
+      from: 2016-01
+      to: 2017-08
+      text: >-
+        2016 年 1 月军委机关由四总部改为 15 个职能部门，他任军委政治工作部主任，成为总政最后一任、政工部第一任主任（维基百科作 2015 年 11 月）。
+        2016 年 8 月 26 日，他以全军贯彻落实古田政工会精神领导小组组长身份讲话，要求以领导干部为重点，“做到情感上憎恨、政治上决裂，切实与郭徐的圈子、品行、套路、作风等彻底划清界限”。2017 年 8 月 7 日随中央代表团赴内蒙古，是他最后一次公开露面。
+      cites: [b21-sina-2017-11-28-zhang-xu, b21-cnr-2016-08-27-zhang-gutian, c02-wiki-zhang-yang]
+    - h: 组织谈话与自缢
+      from: 2017-08
+      to: 2017-11
+      text: >-
+        2017 年 8 月 28 日，经党中央批准，中央军委决定对他组织谈话，调查其涉郭伯雄、徐才厚等案问题线索。9 月公布的军队十九大代表名单里没有他和房峰辉，国防部不确认也不否认。联合早报说坊间传言他在广州军区任职时与多名商人有不当往来；BBC 转述星岛日报，调查由习近平“亲自下令”。
+        10 月十九大后，他和房峰辉都卸任中央军委委员，自由亚洲电台说两人此前已传出涉嫌违纪被查。谈话期间他一直住在家中，11 月 23 日上午自缢身亡，终年 66 岁。据香港01综合海外媒体报道，军纪委人员当天上门，他说要先去“换衣服”，随即上吊。纽约时报指出，中国高官自杀几乎闻所未闻。
+      cites: [c02-xinhua-2017-11-28-zhang-yang, b13-voa-2017-09-07-fang-zhang, b21-zaobao-2017-11-29-zhang-yang, f02-bbc-2017-11-28-zhang-yang, b21-rfa-2017-11-28-zhang-yang, b21-hk01-2017-11-28-zhang-details, b21-nyt-2017-11-28-zhang-yang]
+    - h: 身后定性
+      from: 2017-11
+      to: 2021
+      text: >-
+        新华社五天后才公布死讯。同日，解放军报旗下的钧正平工作室发文称“张阳畏罪自杀！”，说这个上将“以这种可耻的方式结束了自己的一生”，是嘴上喊忠诚、背后搞贪腐的典型“两面人”。察时局公号援引党内规定指出，当事人死亡并不必然免于追究党纪。
+        2018 年 10 月 16 日新华社通报，他被开除党籍、追缴涉案财物，此前已被开除军籍、取消上将军衔。2021 年的第三个历史决议写入“坚决查处郭伯雄、徐才厚、房峰辉、张阳等严重违纪违法案件”。
+      cites: [b21-nyt-2017-11-28-zhang-yang, b21-81cn-2017-11-28-zhang-commentary, b21-dw-2017-11-28-zhang-yang, b21-xinhua-2018-10-16-zhang-yang-expel, b04-gov-2021-11-16-resolution]
+    - h: 传闻
+      from: 2004
+      to: 2018
+      text: >-
+        据大纪元（传闻），他在广州军区任职时就被冠以“麻袋政委”“张麻袋”的绰号，意思是找他买官得装一麻袋钱才能见面。香港01 综合海外媒体报道称，他别墅装修花费的 300 多万元人民币全部由他人支付。这些细节都没有得到官方证实，官方通报只认定他涉嫌行贿、受贿和巨额财产来源不明。
+      cites: [b21-epoch-2018-10-16-zhang-yang, b21-hk01-2017-11-28-zhang-details, b21-xinhua-2018-10-16-zhang-yang-expel]
+  assess:
+    - voice: official
+      quote: true
+      text: 张阳对党不忠诚不老实，搞两面派做两面人，政治蜕变、经济贪婪、生活腐化、品行低劣
+      cite: b21-xinhua-2018-10-16-zhang-yang-expel
+    - voice: history
+      quote: true
+      text: 坚决查处郭伯雄、徐才厚、房峰辉、张阳等严重违纪违法案件并彻底肃清其流毒影响
+      cite: b04-gov-2021-11-16-resolution
+    - voice: west
+      quote: true
+      text: Suicides by top officials are almost unheard-of in China, and the ruling Communist Party appeared uncertain how to handle the death.
+      zh: 高官自杀在中国几乎闻所未闻，执政的共产党似乎不知该如何处理这起死亡。
+      cite: b21-nyt-2017-11-28-zhang-yang
+    - voice: zh
+      quote: true
+      text: 他被捕入狱已是势在必行，这或许是他自缢身亡的原因。
+      cite: b21-zaobao-2017-11-29-zhang-yang
+  ids: { wikidata: Q27826 }
+  cites: [wd-Q27826, c02-sina-2012-10-25-pla-hq, c02-xinhua-2017-11-28-zhang-yang, c02-wiki-zhang-yang, b21-xinhua-2018-10-16-zhang-yang-expel, b21-sina-2017-11-28-zhang-xu]
+
+- id: guo-jinlong
+  name: 郭金龙
+  pinyin: Guō Jīnlóng
+  gender: m
+  ethnicity: 汉族
+  born: 1947-07
+  birthplace: 江苏南京
+  education:
+    - { school: 南京大学物理系声学专业, from: 1964, to: 1969 }
+  joinedParty: 1979-04
+  joinedWork: 1969-08
+  roles: [pb, cc, prov]
+  status: retired
+  statusNote: 2017 年 5 月卸任北京市委书记，转任中央文明委副主任，十九大后退出政治局；2018 年 7 月起任两岸企业家峰会大陆方面理事长，2025 年 12 月仍以此身份出席峰会年会。
+  tier: 1
+  headline: 北京市委书记（2012–2017）、政治局委员；西藏自治区党委书记（2000–2004）
+  bio: >-
+    南京大学物理系毕业后分到四川忠县，从水电局干部、体委教练做到县长，再从乐山市委书记升到四川省委副书记。1993 年进藏，任常务副书记、书记共 11 年，2000 年上任时宣示把打击分离主义放在首位。
+    2004 年起主政安徽，2007 年底接替王岐山任北京市长、奥组委执行主席，主持奥运会城市运行。BBC 等外媒视他为胡锦涛的政治盟友。2012 年 7 月北京特大暴雨后不久由市长转任市委书记，十八大进入政治局，任内推动疏解非首都功能。
+    2017 年 5 月由蔡奇接任，退休后任两岸企业家峰会大陆方面理事长。
+  positions:
+    - { title: 四川省忠县县委副书记、县长, sys: gov, place: 四川, from: 1983, to: 1985, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 四川省乐山市委书记, sys: party, place: 四川, from: 1990, to: 1992, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 四川省委副书记, sys: party, place: 四川, from: 1993, to: 1993, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 西藏自治区党委常务副书记, sys: party, place: 西藏, from: 1994, to: 2000, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 西藏自治区党委书记, sys: party, place: 西藏, from: 2000-09, to: 2004-12, cite: wd-Q1368232 }
+    - { title: 安徽省委书记, sys: party, place: 安徽, from: 2004-12, to: 2007-11, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 安徽省人大常委会主任, sys: gov, place: 安徽, from: 2005, to: 2007, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 北京市市长, sys: gov, place: 北京, from: 2007-11, to: 2012-07, cite: wd-Q1368232 }
+    - { title: 北京奥组委执行主席, sys: other, place: 北京, from: 2007, to: 2009-08, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 2012-07, to: 2017-05, cite: wd-Q1368232 }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+    - { title: 中央精神文明建设指导委员会副主任, sys: party, from: 2017-05, cite: b21-xinhua-2017-05-27-guo-cai }
+    - { title: 两岸企业家峰会大陆方面理事长, sys: other, from: 2018-07, cite: b21-cna-2018-07-18-guo-summit }
+  life:
+    - h: 忠县十五年
+      from: 1947
+      to: 1985
+      text: >-
+        1947 年 7 月生于南京，1964–1969 年在南京大学物理系声学专业学习，留校待分配一年后，1970 年分到四川省忠县水电局当电力股干部，1973–1979 年任县体委教练。1979 年 4 月入党，此后任县委宣传部理论教员、文教局副局长、文化局局长，1983 年任忠县县委副书记、县长。从 1970 年分配到忠县到 1985 年调往成都，他在这个川东县城工作了十五年，从电力股干部一路做到县长。
+      cites: [c02-cyol-2012-11-16-18th-cvs]
+    - h: 四川
+      from: 1985
+      to: 1993
+      text: >-
+        1985 年调任四川省委农村政策研究室副主任、省农村经济委员会副主任，1987 年任乐山市委副书记，1990 年升市委书记，1992 年进入四川省委常委，1993 年任省委副书记，同年调往西藏任自治区党委副书记。
+        据万维读者网（传闻），一位采访过他的记者说他喜欢体育，会拉二胡，围棋下得不错，讲话稿干净简洁，除了特别正式的大会基本都即兴发言。
+      cites: [c02-cyol-2012-11-16-18th-cvs, b21-creaders-2012-06-15-guo]
+    - h: 西藏
+      from: 1993
+      to: 2004
+      text: >-
+        1994 年起任西藏自治区党委常务副书记，2000 年接替陈奎元任党委书记。BBC 报道，53 岁的他是在噶玛巴活佛出走印度后的紧张局势中上任的，首次讲话就表示会继续把打击分离主义活动放在首位。
+        2001 年 7 月和平解放 50 周年大会上，他在胡锦涛率领的中央代表团面前说：“没有共产党，就没有新西藏。只有社会主义才能发展西藏。”万维读者网（传闻）称，正是这段经历让被视为胡锦涛人马的他踏上仕途快车道。
+      cites: [c02-cyol-2012-11-16-18th-cvs, b21-bbc-2000-10-31-guo-tibet, b21-sina-2001-07-20-tibet-50, b21-creaders-2012-06-15-guo]
+    - h: 安徽
+      from: 2004-12
+      to: 2007-11
+      text: >-
+        2004 年 12 月任安徽省委书记，2005 年起兼省人大常委会主任。据万维读者网（传闻），这是胡锦涛主政一年后把他调到自己的老家安徽；该文说他先任人大主任、后任书记，与官方简历顺序相反。2007 年 11 月 30 日，十七大刚开过，他调任北京市副市长、代市长，接替王岐山，同一文章称胡锦涛是把这位“爱将”调到了北京。
+        当时距奥运会不到一年，据万维读者网（传闻），北京政坛有人为王岐山“喊冤”，说王在奥运来临之际离开，“如同操办了一场满汉全席，却眼睁睁地看着别人享用”。
+      cites: [c02-cyol-2012-11-16-18th-cvs, p01-wiki-beijing-gov, b21-creaders-2012-06-15-guo]
+    - h: 奥运市长
+      from: 2008
+      to: 2012-06
+      text: >-
+        2008 年 1 月正式当选北京市长，兼北京奥组委执行主席、党组副书记，负责奥运会城市运行，2009 年 8 月免去奥组委职务。此后近五年，北京的书记、市长一直是刘淇和他，据新唐人（传闻），香港《明报》当时援引北京消息说，考虑到施政连续性，刘淇将在十八大时退休，由市长郭金龙接替。据中央社，他任北京市长、市委书记期间曾赴台访问，与台湾政商界人士交流。
+      cites: [c02-cyol-2012-11-16-18th-cvs, p01-wiki-beijing-gov, b21-ntdtv-2012-07-03-guo-liu, b21-cna-2018-07-18-guo-summit]
+    - h: 暴雨中接班
+      from: 2012-07
+      to: 2012-11
+      text: >-
+        2012 年 7 月 3 日北京市委十一届一次全会选他接替刘淇任市委书记，他说要“满腔热忱地为人民群众排忧解难”。BBC 称据信他是胡锦涛的政治盟友，路透社分析这一任命可让胡锦涛交班后保留一定政治影响。
+        7 月 21 日特大暴雨致近 40 人死亡，25 日北京市人大接受他辞去市长。学者高瑜认为这“实际是郭金龙进政治局的一个程序”，评论员张伟国则说胡锦涛多年把心腹推上此位，不可能让他因暴雨引咎辞职。11 月十八大他进入政治局。
+      cites: [b21-ce-2012-07-03-liu-qi-out, b21-bbc-2012-07-03-guo-beijing, b21-bbc-2012-07-25-guo-mayor, b21-rfa-2012-07-26-beijing-rain, c02-xinhua-2012-11-15-18-1-plenum]
+    - h: 疏解非首都功能
+      from: 2014
+      to: 2017
+      text: >-
+        习近平 2014 年 2 月视察北京后，京津冀协同发展成为国家战略。他把疏解非首都功能称为北京的必由之路，说“一个浮肿的巨人，必然是步履艰难，很难走远的”，“疏解非首都功能，我们没有退路！”
+        2015 年 7 月他又说，北京的人口资源环境矛盾和“大城市病”已成为“我们不能释怀的最大焦虑”，强调 2300 万的人口控制目标是必须守住的底线，要加快通州市行政副中心建设。
+      cites: [b21-people-2015-04-30-guo-no-retreat, b21-cntv-2015-07-13-guo-big-test]
+    - h: 卸任与两岸
+      from: 2017-05
+      to: 2026
+      text: >-
+        2017 年 5 月 27 日，中央宣布他任中央精神文明建设指导委员会副主任，不再兼任北京市委书记，由蔡奇接任，新华社称这次调整是中央“通盘考虑、慎重研究决定的”。
+        2018 年 7 月 18 日，两岸企业家峰会第 2 届会员大会由他出任陆方理事长。2025 年 12 月在南京年会上，他呼吁两岸企业家坚持“拉手”而不是“松手”，说“越是风高浪急，越要同舟共济”。2026 年 8 月 17 日，他以前政治局委员身份出席江泽民诞辰 100 周年纪念大会。
+      cites: [b21-xinhua-2017-05-27-guo-cai, b21-cna-2018-07-18-guo-summit, b21-chinanews-2025-12-16-guo-summit, b17-zaobao-2026-08-17-jiang-centenary]
+  assess:
+    - voice: zh
+      quote: true
+      text: 据信，郭金龙是中国国家主席胡锦涛的政治盟友。
+      cite: b21-bbc-2012-07-03-guo-beijing
+    - voice: zh
+      quote: true
+      text: 張偉國認為，這樣做主要是因為胡錦濤已經花了很多年時間把心腹郭金龍推上現在這個位置，就是為了在十八大上讓他進常委，所以不可能因為北京暴雨死人而讓他引咎辭職。
+      cite: b21-bbc-2012-07-25-guo-mayor
+    - voice: zh
+      quote: true
+      text: 为了十八大进政治局，因为北京市书记肯定要进政治局，实际是郭金龙进政治局的一个程序
+      cite: b21-rfa-2012-07-26-beijing-rain
+    - voice: official
+      quote: true
+      text: 称这次调整是中央从大局出发，根据工作需要和北京市领导班子建设实际，通盘考虑、慎重研究决定的。
+      cite: b21-xinhua-2017-05-27-guo-cai
+  ids: { wikidata: Q1368232 }
+  cites: [wd-Q1368232, c02-cyol-2012-11-16-18th-cvs, c02-xinhua-2012-11-15-18-1-plenum, b21-bbc-2012-07-03-guo-beijing, b21-xinhua-2017-05-27-guo-cai, b21-people-2015-04-30-guo-no-retreat]
+
+- id: liu-qi
+  name: 刘淇
+  pinyin: Liú Qí
+  gender: m
+  ethnicity: 汉族
+  born: 1942-11-03
+  birthplace: 江苏武进
+  education:
+    - { school: 北京钢铁学院冶金系钢铁冶金专业, from: 1959, to: 1964 }
+    - { school: 北京钢铁学院冶金系炼铁专业, degree: 研究生, from: 1964, to: 1968 }
+  joinedParty: 1975-09
+  joinedWork: 1968-06
+  roles: [pb, cc, minister, prov]
+  status: retired
+  statusNote: 2012 年 7 月卸任北京市委书记，转任中央文明委副主任，同年 11 月十八大退出政治局；2013 年 12 月任新成立的中国志愿服务联合会首任会长。
+  tier: 1
+  headline: 北京市委书记（2002–2012）、北京奥组委主席
+  bio: >-
+    炼铁工程师出身，在武钢从高炉瓦斯工、炉前工做到公司经理，1993 年任冶金工业部部长，1996 年宣布中国钢产量突破一亿吨。
+    1998 年调任北京，1999–2003 年任市长，2002–2012 年任市委书记并为政治局委员，兼北京奥组委主席，主持 2008 年奥运会筹办，在开闭幕式上致辞。2003 年非典疫情中他作自我批评，市长孟学农被撤换，王岐山到京任市长；2006 年《纽约时报》称他可能是北京反腐调查的目标之一，新唐人（传闻）称他是江泽民亲信。
+    2012 年 7 月由郭金龙接任，转任中央文明委副主任，次年出任中国志愿服务联合会首任会长。
+  positions:
+    - { title: 武汉钢铁公司第一副经理, sys: other, place: 湖北, from: 1985, to: 1990, cite: c01-people-2013-12-06-liu-qi }
+    - { title: 武汉钢铁公司经理, sys: other, place: 湖北, from: 1990, to: 1993, cite: c01-people-2013-12-06-liu-qi }
+    - { title: 冶金工业部部长, sys: gov, from: 1993, to: 1998, cite: c01-people-2013-12-06-liu-qi }
+    - { title: 北京市委副书记, sys: party, place: 北京, from: 1998-03, to: 2002-10, cite: b21-chinaorg-2007-05-23-liu-qi }
+    - { title: 北京市市长, sys: gov, place: 北京, from: 1999-02, to: 2003-01, cite: p01-wiki-beijing-gov }
+    - { title: 北京奥组委主席, sys: other, place: 北京, from: 2001, to: 2009, cite: b21-ce-2012-07-03-liu-qi-out }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 2002-10, to: 2012-07, cite: c01-people-2013-12-06-liu-qi }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-people-2013-12-06-liu-qi }
+    - { title: 中央文明委副主任, sys: party, from: 2012-07, to: 2013, cite: b21-cntv-2012-07-13-liu-qi-wenming }
+  factions:
+    - f: jiang-shanghai
+      cite: b21-ntdtv-2012-07-03-guo-liu
+      quote: 之前由于江泽民亲信刘淇任北京市委书记，使胡、温政府一直难以对北京进行实际管控。
+      rank: periphery
+  life:
+    - h: 武钢炉前工
+      from: 1942
+      to: 1993
+      text: >-
+        1942 年 11 月生于江苏武进，1959–1964 年在北京钢铁学院冶金系学钢铁冶金，1964–1968 年读炼铁专业研究生。1968 年 6 月分配到武汉钢铁公司炼铁厂，在二高炉当了十年瓦斯工、炉前工、工长，1975 年 9 月入党。
+        1978 年起任三高炉技术员、副炉长，1983 年升炼铁厂副厂长、公司生产部部长，1985 年任武钢第一副经理、公司党委常委，1990 年任经理。从入厂到调任部长，他在这家钢厂待了 25 年，职称是教授级高级工程师。
+      cites: [c01-people-2013-12-06-liu-qi, b21-ce-2012-07-03-liu-qi-out]
+    - h: 冶金部长
+      from: 1993
+      to: 1999
+      text: >-
+        1993 年出任冶金工业部部长、党组书记，是十四届中央候补委员、十五届中央委员。1996 年 12 月 31 日，他宣布当年全国钢产量突破一亿吨，产量达到世界第一位。
+        1998 年 3 月他调任北京市委副书记、副市长，在市委书记贾庆林手下工作；1999 年 2 月接替贾庆林任北京市长，至 2003 年 1 月。
+      cites: [c01-people-2013-12-06-liu-qi, e01-cpc-dsj-1996, b21-chinaorg-2007-05-23-liu-qi, p01-wiki-beijing-gov]
+    - h: 市长
+      from: 1999
+      to: 2002
+      text: >-
+        2001 年起他兼任北京奥组委主席、党组副书记。美国国会研究处报告称，2002 年他途经旧金山前往盐湖城冬奥会时被法轮功学员起诉并送达法律文书，2004 年 12 月旧金山联邦地区法院裁定他因侵犯法轮功学员人权违反了美国、国际和中国法律，不享有主权豁免，原告未获赔偿。
+        2002 年 6 月北京蓝极速网吧火灾致至少 24 人死亡后，他下令立即关闭全市网吧整顿。同年 10 月接替贾庆林任市委书记，11 月十六大进入政治局。
+      cites: [b21-ce-2012-07-03-liu-qi-out, b21-crs-2006-falun-gong, e07-bbc-2002-06-16-lanjisu, p01-wiki-beijing-sec, c01-people-2013-12-06-liu-qi]
+    - h: 非典
+      from: 2003-01
+      to: 2003-04
+      text: >-
+        2003 年 1 月孟学农接任市长。春天非典疫情在北京蔓延，4 月 20 日的全市领导干部大会上，中组部长贺国强宣布王岐山接替孟学农，批评北京“没有及时准确地上报疫情”，同时说王岐山将在以刘淇为“班长”的市委领导下工作。
+        刘淇在会上承认信息不畅、疫情统计数字不准确、防治基础薄弱、切断传染链不力等问题，说：“我作为市委书记，负有领导责任，我诚恳地作自我批评。”他宣布由北京统管全市防治工作，要求二、三级医院实行首诊负责制，拒收病人的医院要坚决处分。他保住了书记职位。
+      cites: [b21-sina-2003-04-21-beijing-cadres, p01-wiki-beijing-gov]
+    - h: 北京反腐风波
+      from: 2006
+      to: 2007
+      text: >-
+        2006 年北京市政府高层腐败调查展开时，《纽约时报》报道，被视为调查可能目标的包括前北京市委书记、政治局常委贾庆林和现任书记刘淇，而到当时为止被牵涉的人几乎都被视为江泽民的亲信，或曾抵制胡锦涛的政策。
+        新唐人（传闻）后来称，正因为“江泽民亲信刘淇”任北京市委书记，胡温一直难以对北京进行实际管控。调查没有触及他的职位，2007 年 5 月北京市委十届一次全会上他连任市委书记。新华社报道，他在会上说奥运会是中华民族的夙愿，并定下未来五年 GDP 年均增长 9%、人均 GDP 从 6000 美元提高到 1 万美元的目标。
+      cites: [b21-nyt-2006-10-27-beijing-inquiry, b21-ntdtv-2012-07-03-guo-liu, b21-chinaorg-2007-05-23-liu-qi]
+    - h: 北京奥运
+      from: 2007
+      to: 2008
+      text: >-
+        2007 年《时代》周刊把他列入年度百位最具影响力人物，序言提到他参加北京“排队日”，发起改变市民随地吐痰、学英语、保持厕所清洁的运动。2008 年 6 月他到朝阳区社区和信访部门调研，提出“平安奥运”重于泰山，要依靠群众“群防群治”，把每个社区都当作奥运非竞赛场馆，把社会矛盾化解在基层。
+        8 月 8 日开幕式上，他致辞说“举办奥运会是中华儿女的百年梦想”，提到四川地震后国际社会的援助；24 日闭幕式上，他说 16 天里运动员打破 38 项世界纪录、85 项奥运会纪录，“熊熊燃烧的奥运圣火即将熄灭，但中国人民拥抱世界的热情之火将永远燃烧”。
+      cites: [b21-bbc-2007-05-04-time100, b21-chinanews-2008-06-15-safe-olympics, b21-gmw-2008-08-09-liu-qi-opening, b21-cctv-2008-08-24-liu-qi-closing]
+    - h: 交班
+      from: 2012
+      to: 2013
+      text: >-
+        据新唐人（传闻），香港《明报》此前援引北京消息称，考虑施政连续性，他将在十八大时退休，由市长郭金龙接替。2012 年 7 月 3 日北京市委十一届一次全会选出郭金龙任书记。7 月 12 日他首次以中央文明委副主任身份亮相，与中宣部长刘云山一同出席道德领域突出问题专项教育和治理座谈会；文明委主任是政治局常委李长春，这是一个议事机构。11 月十八大退出政治局。
+        2013 年 12 月，在中央文明委指导下成立的中国志愿服务联合会经民政部批准登记，他任首任会长，此时官方已称他为“中央文明委原副主任”。
+      cites: [b21-ntdtv-2012-07-03-guo-liu, b21-ce-2012-07-03-liu-qi-out, b21-cntv-2012-07-13-liu-qi-wenming, c01-people-2013-12-06-liu-qi]
+  assess:
+    - voice: zh
+      quote: true
+      text: 北京市委書記、奧組委主席劉淇似乎憑借北京奧運之風闖進"百強"。
+      cite: b21-bbc-2007-05-04-time100
+    - voice: west
+      quote: true
+      text: Among those seen as likely targets of the inquiry are Jia Qinglin, a member of the nine-member Politburo Standing Committee and a former party secretary of Beijing, as well as the current Beijing party secretary, Liu Qi, who is a regular member of the Politburo.
+      zh: 被视为这次调查可能目标的人包括九人政治局常委之一、前北京市委书记贾庆林，以及现任北京市委书记、政治局委员刘淇。
+      cite: b21-nyt-2006-10-27-beijing-inquiry
+    - voice: scholar
+      quote: true
+      text: In December 2004, a U.S. District Court in San Francisco ruled that Beijing Party Secretary and former Beijing mayor Liu Qi had broken U.S., international, and PRC law for his role in violating the human rights of Falun Gong practitioners.
+      zh: 2004 年 12 月，旧金山的美国联邦地区法院裁定，北京市委书记、前北京市长刘淇因其在侵犯法轮功学员人权中的角色，违反了美国法律、国际法和中国法律。
+      cite: b21-crs-2006-falun-gong
+  ids: { wikidata: Q699246 }
+  cites: [wd-Q699246, c01-people-2013-12-06-liu-qi, b21-ce-2012-07-03-liu-qi-out, b21-sina-2003-04-21-beijing-cadres, b21-gmw-2008-08-09-liu-qi-opening, b21-nyt-2006-10-27-beijing-inquiry]

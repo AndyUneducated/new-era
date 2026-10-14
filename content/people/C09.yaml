@@ -309,52 +309,7 @@
   cites: [b01-smh-2010-10-12-zeng-wei, b01-smh-2014-06-19-zeng-wei-mansion, c09-rfi-2014-06-27-tomorrow-luneng, wd-Q16905236]
 
 # --- 前史人物 ---
-- id: deng-xiaoping
-  name: 邓小平
-  gender: m
-  born: 1904-08-22
-  died: 1997-02-19
-  birthplace: 四川广安
-  roles: [psc, cmc]
-  status: dead
-  tier: 2
-  headline: 中共第二代领导核心，改革开放“总设计师”
-  ids: { wikidata: Q16977 }
-  bio: >-
-    中共称他为“党的第二代中央领导集体的核心”和改革开放的“总设计师”，1989 年主导镇压民运。他选定江泽民接班，又“隔代指定”胡锦涛，
-    BBC 2001 年写道“胡锦涛则是邓小平生前预先安排的第四代领导班子的核心”。中央社 2022 年认为，习近平不安排接班人，摧毁了这套隔代接班制度。
-  positions:
-    - { title: 中共中央书记处总书记, sys: party, from: 1956-09, to: 1966-08, cite: wd-Q16977 }
-    - { title: 中央政治局常委, sys: party, from: 1977-07-21, to: 1987-11-02, cite: wd-Q16977 }
-    - { title: 全国政协主席, sys: gov, from: 1978-03-08, to: 1983-06-22, cite: wd-Q16977 }
-    - { title: 中共中央军委主席, sys: army, from: 1981-06-28, to: 1989-11-09, cite: wd-Q16977 }
-    - { title: 国家中央军委主席, sys: army, from: 1983-06-06, to: 1990-03-21, cite: wd-Q16977 }
-  cites: [c09-gov-2024-08-22-xi-deng-120, c09-bbc-2001-hu-dragon-chair, c09-cna-2022-10-08-deng-succession, b07-voa-2014-07-03-xu-hu, wd-Q16977]
 
-- id: hu-yaobang
-  name: 胡耀邦
-  gender: m
-  born: 1915-11-20
-  died: 1989-04-15
-  birthplace: 湖南浏阳
-  roles: [psc, sec]
-  status: dead
-  tier: 2
-  headline: 中共中央主席、总书记（1981–1987）
-  ids: { wikidata: Q99850 }
-  bio: >-
-    长期主持共青团中央，改革初期推动真理标准讨论和平反冤假错案，1981–1987 年任中共中央主席、总书记，1987 年因被指“纵容自由化”下台。1989 年 4 月病逝，成为六四民运的导火索。
-    2005 年诞辰 90 周年时胡锦涛未出席纪念活动；2015 年习近平出席百年座谈会，称他是“长期担任党的重要领导职务的卓越领导人”。
-  positions:
-    - { title: 共青团中央书记处书记、第一书记, sys: party, from: 1952, cite: c09-gov-2015-11-20-xi-hu-yaobang-100 }
-    - { title: 中央宣传部部长, sys: party, from: 1978-12-25, to: 1980-03-12, cite: wd-Q99850 }
-    - { title: 中央书记处总书记, sys: party, from: 1980-02, to: 1982-09, cite: wd-Q99850 }
-    - { title: 中央政治局常委, sys: party, from: 1980-02-29, to: 1987-11-02, cite: wd-Q99850 }
-    - { title: 中共中央主席, sys: party, from: 1981-06-28, to: 1982-09-11, cite: wd-Q99850 }
-    - { title: 中共中央总书记, sys: party, from: 1982-09-12, to: 1987-01-15, cite: wd-Q99850 }
-  fall:
-    - { date: 1987-01, text: 被指“纵容自由化”而遭整肃，辞去总书记职务, cite: c09-bbc-2015-11-20-hu-yaobang-100 }
-  cites: [c09-gov-2015-11-20-xi-hu-yaobang-100, c09-bbc-2015-11-20-hu-yaobang-100, wd-Q99850]
 
 - id: chen-xitong
   name: 陈希同

@@ -1,0 +1,565 @@
+# Batch N01 (round 5): ten formulas and labels from the round-5 concept list.
+# one-country-two-systems, wolf-warrior, honor-disgrace, socialist-market-economy and harmonious-world are already in I03.
+# Official formulas cite the first document or speech in the library; unofficial labels (great-firewall) cite who
+# coined the name and give the floor to outside media and scholars.
+# Sources: research/manifests/N01.yaml plus shared b/d/e/i sources.
+
+# ---------------- Hong Kong ----------------
+- id: patriots-governing-hong-kong
+  name: 爱国者治港
+  en: Patriots Administering Hong Kong
+  kind: formula
+  parent: one-country-two-systems
+  by: [deng-xiaoping, xi-jinping, xia-baolong, wang-chen]
+  first:
+    date: 1984-06-22
+    text: 邓小平1984年6月会见香港工商界访京团时说，港人治港的标准是由以爱国者为主体的港人治理香港；“爱国者治港”作为独立原则的提法，出自习近平2021年1月27日听取林郑月娥述职时的讲话。
+    cite: i03-locpg-1984-06-22-deng-octs
+    quote: 港人治港有个界线和标准，就是必须由以爱国者为主体的港人来治理香港。
+  codified:
+    - date: 2021-03-11
+      where: 全国人大《关于完善香港特别行政区选举制度的决定》
+      cite: e04-gov-2021-03-11-hk-electoral
+      quote: 确保以爱国者为主体的“港人治港”
+    - date: 2021-11-11
+      where: 十九届六中全会《关于党的百年奋斗重大成就和历史经验的决议》
+      cite: b04-gov-2021-11-16-resolution
+      quote: 完善香港特别行政区选举制度，落实“爱国者治港”原则
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 落实“爱国者治港”、“爱国者治澳”原则
+  summary: “爱国者治港”指香港的管治权必须掌握在北京认定的爱国者手中。它源自邓小平1984年对“港人治港”的限定；十九大报告和2019年四中全会决定的写法仍是以爱国者为主体的“港人治港”。2021年1月27日习近平听取林郑月娥述职时，把它提升为“事关香港长期繁荣稳定的根本原则”。2月22日国务院港澳办主任夏宝龙给出标准：反对中国共产党、触犯国安法、乞求外国制裁的人都不是爱国者。3月11日全国人大据此作出完善香港选举制度的决定，此后写入2021年历史决议和二十大报告，但没有写入党章或宪法。2023年区议会选举后，李家超称这是落实这一原则的最后一块拼图。BBC 中文报道说，民主派认为它扭曲了“港人治港”的本义，等于把选举变成政治审查。
+  quote:
+    text: 坚持“爱国者治港”，这不是高标准，而是在香港特别行政区实行“港人治港”的最低标准。
+    cite: n01-consulate-2021-02-22-xia-baolong
+  terms: [爱国者治港]
+  related: [one-country-two-systems, holistic-security]
+  voices:
+    - voice: official
+      text: 一个人如果声称拥护“一国两制”，却反对“一国两制”的创立者和领导者，那岂不是自相矛盾？
+      cite: n01-consulate-2021-02-22-xia-baolong
+      quote: true
+    - voice: official
+      text: 我们强调“爱国者治港”，绝不是要搞“清一色”。
+      cite: n01-consulate-2021-02-22-xia-baolong
+      quote: true
+    - voice: doc
+      text: 必须始终坚持“爱国者治港”；这是事关国家主权、安全、发展利益，事关香港长期繁荣稳定的根本原则
+      cite: b19-people-2021-03-05-wang-hk-election
+      quote: true
+    - voice: zh
+      text: 盛传北京即将出台的整顿香港选举措施形同一套“政治品格审查制度”。
+      cite: n01-bbc-2021-02-23-patriots
+      quote: true
+    - voice: zh
+      text: 北京是要建立“可被操控的选举方式，以包装实质委任制”。
+      cite: n01-bbc-2021-02-23-patriots
+      quote: true
+    - voice: zh
+      text: 谁是“爱国者”的解释权在北京手中，“今天能让你当选，明天可以DQ你”。
+      cite: n01-bbc-2021-02-23-patriots
+      quote: true
+  cites:
+    - i03-locpg-1984-06-22-deng-octs
+    - i01-gov-2017-10-18-19th-report
+    - b19-people-2021-03-05-wang-hk-election
+    - n01-consulate-2021-02-22-xia-baolong
+    - n01-bbc-2021-02-23-patriots
+    - e04-gov-2021-03-11-hk-electoral
+    - b04-gov-2021-11-16-resolution
+    - i01-gov-2022-10-16-20th-report
+    - e08-dw-2023-12-11-dc-election
+
+# ---------------- discipline and supervision ----------------
+- id: four-winds
+  name: 四风
+  en: The Four Undesirable Work Styles
+  kind: formula
+  by: [xi-jinping]
+  first:
+    date: 2013-06-18
+    text: 习近平在党的群众路线教育实践活动工作会议上，把党员干部脱离群众的表现归纳为形式主义、官僚主义、享乐主义和奢靡之风这“四风”。
+    cite: e08-xinhua-2013-06-18-mass-line
+    quote: 党内脱离群众的现象大量存在，集中表现在形式主义、官僚主义、享乐主义和奢靡之风这“四风”上。
+  codified:
+    - date: 2013-11-12
+      where: 十八届三中全会《关于全面深化改革若干重大问题的决定》
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: 反对形式主义、官僚主义、享乐主义和奢靡之风
+    - date: 2017-10-24
+      where: 党章（十九大修正，二十大沿用）
+      cite: d01-12371-2017-10-28-party-charter
+      quote: 反对形式主义、官僚主义、享乐主义和奢靡之风
+  summary: “四风”指形式主义、官僚主义、享乐主义和奢靡之风，是2013年群众路线教育实践活动要整治的对象。习近平在6月18日的动员会上要求党员干部“照镜子、正衣冠、洗洗澡、治治病”，这一说法同八项规定一起构成十八大后作风整顿的主线。它先写入2013年三中全会决定和2016年六中全会通过的党内政治生活准则，2017年十九大把“反对形式主义、官僚主义、享乐主义和奢靡之风”写进党章对党员干部的要求，取代2012年党章只反对官僚主义的写法；二十大党章沿用。此后历年中纪委全会报告都以“四风”反弹回潮为警戒。自由亚洲电台当天就报道，网民批评这番讲话是空话套话，有分析人士说每届新领导人都要整风；纽约时报中文网则把随之而来的批评与自我批评会比作毛时代做法的复兴。
+  quote:
+    text: 我们要对作风之弊、行为之垢来一次大排查、大检修、大扫除。
+    cite: e08-xinhua-2013-06-18-mass-line
+  terms: [四风]
+  related: [eight-point-rules, self-revolution]
+  voices:
+    - voice: doc
+      text: 决不让“四风”反弹回潮
+      cite: b04-gov-2017-10-29-ccdi-report
+      quote: true
+    - voice: zh
+      text: 原中国国务院办公厅秘书、政治分析人士俞梅荪先生表示，中国每届新领导人上台都会开展整风运动，结果党员干部的风气是越整越糟糕。
+      cite: n01-rfa-2013-06-18-four-winds
+      quote: true
+    - voice: zh
+      text: 但批评人士说，往好处说，这只是一场流于表面的运动，往坏处说，则是早年间让整个国家举步维艰的毛氏策略的危险复兴。
+      cite: n01-nytcn-2013-12-21-criticism
+      quote: true
+    - voice: zh
+      text: 都是假的，大家都在演戏
+      cite: n01-nytcn-2013-12-21-criticism
+      quote: true
+  cites:
+    - e08-xinhua-2013-06-18-mass-line
+    - i04-rmrb-2013-06-19-editorial
+    - e03-gov-2013-11-15-reform-decision
+    - i01-cpc-2016-10-27-6th-plenum-communique
+    - d01-neac-2012-11-19-party-charter
+    - d01-12371-2017-10-28-party-charter
+    - i01-12371-2022-10-22-party-charter
+    - b04-gov-2017-10-29-ccdi-report
+    - n01-rfa-2013-06-18-four-winds
+    - n01-nytcn-2013-12-21-criticism
+
+- id: liuzhi
+  name: 留置
+  en: Liuzhi (supervisory detention)
+  kind: formula
+  by: [xi-jinping, wang-qishan, yang-xiaodu]
+  first:
+    date: 2016-12-25
+    text: 全国人大常委会决定在北京、山西、浙江试点国家监察体制改革，列明监察委员会可以采取的十二项措施，留置是最后一项。
+    cite: n01-people-2016-12-26-supervision-pilot
+    quote: 监察委员会可以采取谈话、讯问、询问、查询、冻结、调取、查封、扣押、搜查、勘验检查、鉴定、留置等措施
+  codified:
+    - date: 2018-03-20
+      where: 《中华人民共和国监察法》
+      cite: n01-ccdi-2018-03-supervision-law
+      quote: 留置时间不得超过三个月。在特殊情况下，可以延长一次，延长时间不得超过三个月。
+    - date: 2024-12-25
+      where: 《监察法》修正（2025年6月1日起施行）
+      cite: n01-lyjjw-2024-12-supervision-law-revised
+      quote: 留置时间重新计算以一次为限。
+  summary: 留置是监察委员会对涉嫌严重职务违法或职务犯罪的公职人员采取的羁押措施，用来取代党纪检机关的“双规”。2016年底三省市试点时首次列为调查措施，十九大报告宣布用留置取代“两规”措施，2018年3月宪法修正案设立监察委员会，同月通过的监察法作出具体规定：留置在特定场所，最长三个月，可延长一次，24小时内通知单位和家属，但有碍调查的除外。宪法本身没有写“留置”二字。2024年修法新增责令候查和管护，并允许在发现另有重大职务犯罪时重新计算一次留置期限。2025年全国纪检监察机关留置4.7万人。BBC 中文报道说，双规因缺乏合法性和在押死亡事件长期受批评；学者认为留置给反腐败一个合法出口，但留置期间律师不能介入，这一点始终是争议焦点。
+  quote:
+    text: 用留置取代“两规”措施
+    cite: i01-gov-2017-10-18-19th-report
+  terms: [留置]
+  related: [self-revolution, rule-of-law]
+  voices:
+    - voice: doc
+      text: 对被调查人采取留置措施后，应当在二十四小时以内，通知被留置人员所在单位和家属，但有可能毁灭、伪造证据，干扰证人作证或者串供等有碍调查情形的除外。
+      cite: n01-ccdi-2018-03-supervision-law
+      quote: true
+    - voice: west
+      text: 监察法草案规定，留置时间最长不得超过半年，但此前的“双规”并无期限可言，有的公职人员甚至被关了三、五年。
+      cite: e08-bbc-2018-03-20-supervision-law
+      quote: true
+    - voice: zh
+      text: 习主席把他的反腐败运动建立在侵犯人权的非法拘押制度之上
+      cite: n01-bbc-2017-10-19-liuzhi
+      quote: true
+    - voice: scholar
+      text: 北京大学廉政建设研究中心主任李成言说，过去外界一直质疑中共“双规”的合法性，这次的改革让反腐败有一个合法的出口，但很多具体措施仍不明朗。
+      cite: n01-bbc-2017-10-19-liuzhi
+      quote: true
+    - voice: west
+      text: 留置过程中最引起外界关注的是，期间不允许律师介入。
+      cite: e08-bbc-2018-03-20-supervision-law
+      quote: true
+  cites:
+    - n01-people-2016-12-26-supervision-pilot
+    - i01-gov-2017-10-18-19th-report
+    - n01-bbc-2017-10-19-liuzhi
+    - b04-gov-2017-10-29-ccdi-report
+    - i01-gov-2018-03-11-constitution
+    - n01-ccdi-2018-03-supervision-law
+    - e08-bbc-2018-03-20-supervision-law
+    - n01-lyjjw-2024-12-supervision-law-revised
+    - b06-xinhua-2026-01-12-li-xi-ccdi-report
+
+# ---------------- property ----------------
+- id: housing-not-speculation
+  name: 房住不炒
+  en: Housing Is for Living In, Not for Speculation
+  kind: formula
+  by: [xi-jinping, ni-hong]
+  first:
+    date: 2016-12-16
+    text: 2016年中央经济工作会议提出“房子是用来住的，不是用来炒的”定位，作为2017年楼市的方向。
+    cite: e08-xinhua-2016-12-16-housing
+    quote: 坚持“房子是用来住的，不是用来炒的”的定位
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 坚持房子是用来住的、不是用来炒的定位，加快建立多主体供给、多渠道保障、租购并举的住房制度
+    - date: 2021-11-11
+      where: 十九届六中全会历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 坚持房子是用来住的、不是用来炒的定位
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 坚持房子是用来住的、不是用来炒的定位
+  summary: “房住不炒”是“房子是用来住的、不是用来炒的”的简称，2016年12月中央经济工作会议首次提出，此后写入十九大报告、2021年历史决议和二十大报告，但没有写入党章或宪法。2020年8月出台的房企融资“三道红线”被看作它最有力的落实手段，BBC 中文说它由此几乎成了一个当代成语。楼市在2021年后下行，政策随之转向：2023年7月政治局会议不再提这一说法，2023、2024年政府工作报告在部署当年工作时也都没有再提（2023年报告只在回顾过去五年时提到）。2024年3月，住建部长倪虹在人大记者会上又把它放在首位重申。
+  quote:
+    text: 此后“房住不炒”几乎变为一个当代成语，代表政府对楼市最强力的监管。
+    cite: n01-bbc-2024-05-21-housing
+  terms: [房住不炒, 不是用来炒的]
+  related: [three-red-lines, supply-side, common-prosperity]
+  voices:
+    - voice: doc
+      text: 坚持房子是用来住的、不是用来炒的定位，建立实施房地产长效机制
+      cite: i02-gov-2023-gwr
+      quote: true
+    - voice: zh
+      text: 2023年的政府工作报告中，不再有“坚持房子是用来住的、不是用来炒的定位”表述
+      cite: n01-zaobao-2024-03-05-housing
+      quote: true
+    - voice: zh
+      text: 倪虹在会上阐述如何构建房地产发展新模式时首先强调，要始终坚持房子是用来住的、不是用来炒的定位。
+      cite: n01-zaobao-2024-03-09-ni-hong
+      quote: true
+    - voice: zh
+      text: 2023年7月的政治局会议，没有再提“房住不炒”，政策取向开始掉头，但此后刺激政策一直不温不火。
+      cite: n01-bbc-2024-05-21-housing
+      quote: true
+    - voice: zh
+      text: 在官方“三条红线”和“房住不炒”的高压政策下，这个模式不再奏效
+      cite: b14-zaobao-2022-03-09-xu-cppcc
+      quote: true
+  cites:
+    - e08-xinhua-2016-12-16-housing
+    - i01-gov-2017-10-18-19th-report
+    - b04-gov-2021-11-16-resolution
+    - i01-gov-2022-10-16-20th-report
+    - i02-gov-2023-gwr
+    - n01-zaobao-2024-03-05-housing
+    - n01-zaobao-2024-03-09-ni-hong
+    - n01-bbc-2024-05-21-housing
+    - b14-zaobao-2022-03-09-xu-cppcc
+
+- id: three-red-lines
+  name: 三道红线
+  en: Three Red Lines
+  kind: formula
+  by: []
+  first:
+    date: 2020-08-20
+    text: 住房城乡建设部和人民银行8月20日在北京召开重点房地产企业座谈会，明确了此前传闻已久的房企融资管理规则。
+    cite: e08-jjckb-2020-08-28-three-red-lines
+    quote: 房企剔除预收款后的资产负债率不得大于70%；房企的净负债率不得大于100%
+  summary: “三道红线”（也称“三条红线”）是2020年8月监管部门给重点房企定的融资规则：剔除预收款后的资产负债率不超过70%，净负债率不超过100%，现金短债比不小于1。踩线越多，有息负债的增速上限越低。规则一直以监管口径执行，没有以正式文件公布，也没有写入任何法律或党的文件。界面新闻当时统计有56家房企三条全踩，恒大在列；此后恒大、碧桂园等相继违约，恒大2024年被香港法院清盘。外媒和学者普遍把它看作这轮楼市下行的起点：德国之声采访的金融学者认为，正是它让恒大的问题提前爆发。2026年1月中国媒体报道，监管部门已不再要求房企按月报送这些指标。
+  quote:
+    text: “三道红线”出台被外界视为本轮中国楼市下行的起点。
+    cite: n01-zaobao-2026-01-29-red-lines-fade
+  terms: [三道红线, 三条红线]
+  related: [housing-not-speculation, supply-side]
+  voices:
+    - voice: zh
+      text: 以“三道红线”为标准，有多达56家房企已踩了三条红线，包括泰禾、华夏幸福、融创、恒大、富力、绿地、金融街等
+      cite: e08-jiemian-2020-08-23-three-red-lines
+      quote: true
+    - voice: scholar
+      text: 因为中国政府公布了房地产公司的“三条红线”，负债率过高之后不能融资，这条把恒大卡死了。
+      cite: n01-dw-2021-09-21-evergrande
+      quote: true
+    - voice: west
+      text: 2020年，中国对重点房企融资提出“三道红线”，随即房企们纷纷出现债务违约，其中恒大最为显著
+      cite: b14-bbc-2023-03-xu-cppcc
+      quote: true
+    - voice: zh
+      text: 随着房地产风险逐步释放及出清，“三道红线”政策目标已经实现，继续实施已无实际意义。
+      cite: n01-zaobao-2026-01-29-red-lines-fade
+      quote: true
+  cites:
+    - e08-jjckb-2020-08-28-three-red-lines
+    - e08-jiemian-2020-08-23-three-red-lines
+    - n01-dw-2021-09-21-evergrande
+    - b14-bbc-2023-03-xu-cppcc
+    - n01-zaobao-2026-01-29-red-lines-fade
+
+# ---------------- religion ----------------
+- id: sinicization-of-religion
+  name: 宗教中国化
+  en: Sinicization of Religion
+  kind: formula
+  by: [xi-jinping, you-quan]
+  first:
+    date: 2015-05-20
+    text: 习近平在中央统战工作会议上说，引导宗教与社会主义社会相适应，必须坚持中国化方向。
+    cite: n01-xinhua-2015-05-20-united-front
+    quote: 积极引导宗教与社会主义社会相适应，必须坚持中国化方向，必须提高宗教工作法治化水平
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 坚持我国宗教的中国化方向
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 坚持我国宗教中国化方向，积极引导宗教与社会主义社会相适应
+    - date: 2024-07-18
+      where: 二十届三中全会《关于进一步全面深化改革 推进中国式现代化的决定》
+      cite: i01-gov-2024-07-18-third-plenum-decision
+      quote: 系统推进我国宗教中国化，加强宗教事务治理法治化
+  summary: “宗教中国化”要求各宗教在政治上认同党的领导和社会主义制度，在教义、礼仪和建筑上融入中国文化，摆脱外国影响。2015年5月中央统战工作会议首次提出，2016年4月全国宗教工作会议展开，2018年宗教事务改由中央统战部管理，十九大、二十大报告和2021年历史决议都写入了这一方向，2024年三中全会决定改为“系统推进”。新疆的去极端化条例也写明要坚持宗教中国化。党章只写“全面贯彻党的宗教工作基本方针”，没有“中国化”的字样；宪法也没有。德国之声报道把它解读为宗教必须摆脱外国影响；美国国会及行政当局中国委员会把拆十字架、关闭家庭教会和新疆拘押都算作这场运动的代价。
+  quote:
+    text: 积极引导宗教与社会主义社会相适应，一个重要的任务就是支持我国宗教坚持中国化方向。
+    cite: e08-xinhua-2016-04-23-religion-conf
+  terms: [宗教中国化, 中国化方向]
+  related: [holistic-security, rule-of-law]
+  voices:
+    - voice: official
+      text: 坚持我国宗教的中国化方向
+      cite: b17-xinhua-2018-04-04-you-religion
+      quote: true
+    - voice: doc
+      text: 去极端化应当坚持党的宗教工作基本方针，坚持宗教中国化、法治化方向
+      cite: e03-xjpcsc-2018-10-09-deextremification
+      quote: true
+    - voice: zh
+      text: 中国国家主席习近平本周三（5月20日）在中央统战工作会议强调宗教工作必须“坚持独立自主自办原则”，必须“坚持中国化方向”，意指宗教必须摆脱外国影响。
+      cite: n01-dw-2015-05-20-sinicization
+      quote: true
+    - voice: scholar
+      text: 想影响外国，自己又不受外国影响，这怎么可能呢？
+      cite: n01-dw-2015-05-20-sinicization
+      quote: true
+    - voice: west
+      text: resulting in unprecedented efforts to manage, control, and even transform the religious practices of tens of millions of China
+      zh: 导致前所未有的努力去管理、控制乃至改造数千万中国公民的宗教活动
+      cite: n01-cecc-2018-religious-crackdown
+      quote: true
+  cites:
+    - n01-xinhua-2015-05-20-united-front
+    - n01-dw-2015-05-20-sinicization
+    - e08-xinhua-2016-04-23-religion-conf
+    - i01-gov-2017-10-18-19th-report
+    - b17-xinhua-2018-04-04-you-religion
+    - e03-xjpcsc-2018-10-09-deextremification
+    - n01-cecc-2018-religious-crackdown
+    - b04-gov-2021-11-16-resolution
+    - i01-gov-2022-10-16-20th-report
+    - i01-12371-2022-10-22-party-charter
+    - i01-gov-2024-07-18-third-plenum-decision
+
+# ---------------- internet and propaganda ----------------
+- id: great-firewall
+  name: 防火长城
+  en: Great Firewall
+  kind: formula
+  by: [li-changchun]
+  first:
+    date: 1997-06
+    text: 澳大利亚学者白杰明（Geremie Barmé）和桑晔1997年6月在《连线》杂志发表《The Great Firewall of China》，通常被认为是这个名字的出处；文中说官方叫“防火墙”，民间叫“网关”。
+    cite: n01-wired-1997-06-great-firewall
+    quote: The Great Firewall of China
+  summary: “防火长城”（Great Firewall，GFW）是外界和中国网民对中国国家级互联网过滤系统的称呼，借长城比喻阻隔境外网站。名字出自1997年白杰明和桑晔在《连线》杂志的文章；官方从不使用这个名字。北京邮电大学前校长方滨兴被视为它的主要设计者，被网民称为“防火墙之父”。他2011年对《环球时报》说，世界上约180个国家都监控互联网，又承认防火墙常因技术局限把含敏感词的网站整个屏蔽。《卫报》称李长春是“防火长城”背后的人。翻墙一直被按1996年的规定，以“擅自建立、使用非法定信道国际联网”为由处罚；2017年工信部清理无资质的VPN，称在中国经营这类业务须申请许可。没有任何法律或党的文件使用这个名字。
+  quote:
+    text: The computer cordon sanitaire that Chinese authorities are trying to build around China is called the fanghuo qiang, or "firewall," a direct translation from English.
+    cite: n01-wired-1997-06-great-firewall
+  terms: [防火长城, 防火墙, 翻墙]
+  related: [stability-maintenance, holistic-security, positive-energy]
+  voices:
+    - voice: west
+      text: Under construction since last year, what's officially known as the "firewall" is designed to keep Chinese cyberspace free of pollutants of all sorts
+      zh: 这道官方所称的“防火墙”去年开始修建，目的是让中国网络空间不受各种污染。
+      cite: n01-wired-1997-06-great-firewall
+      quote: true
+    - voice: official
+      text: As far as I know, about 180 countries including South Korea and the US monitor the Internet as well.
+      zh: 据我所知，包括韩国和美国在内约180个国家也在监控互联网。（方滨兴）
+      cite: n01-chinaorg-2011-02-18-fang-binxing
+      quote: true
+    - voice: official
+      text: So far, the GFW is lagging behind and still needs improvement
+      zh: 到目前为止，防火长城还落后一步，仍需改进。（方滨兴）
+      cite: n01-chinaorg-2011-02-18-fang-binxing
+      quote: true
+    - voice: zh
+      text: 中國互聯網「長城防火牆」設計者、被稱為「中國防火牆之父」的方濱興承認，曾翻越防火牆去訪問被他屏蔽的網站。
+      cite: n01-bbc-2011-02-18-fang-binxing
+      quote: true
+    - voice: official
+      text: 在中国经营相关业务应该按照中国的法律法规来进行申请许可，这实际上在全世界很多国家都是这样做的。
+      cite: n01-cnr-2017-07-25-miit-vpn
+      quote: true
+    - voice: zh
+      text: 官方给出的所有处罚原因均为“擅自建立、使用非法定信道国际联网”，这条于1996年实施的暂行规定如今已成为惩戒翻墙行为的万能依据。
+      cite: e09-cdt-space-fanqiang
+      quote: true
+    - voice: west
+      text: the man behind the "great firewall of China"
+      zh: “中国防火长城”背后的人（指李长春）
+      cite: b03-guardian-2010-12-05-li-google
+      quote: true
+  cites:
+    - n01-wired-1997-06-great-firewall
+    - b03-guardian-2010-12-05-li-google
+    - n01-chinaorg-2011-02-18-fang-binxing
+    - n01-bbc-2011-02-18-fang-binxing
+    - e09-cdt-space-fanqiang
+    - n01-cnr-2017-07-25-miit-vpn
+
+- id: positive-energy
+  name: 正能量
+  en: Positive Energy
+  kind: formula
+  by: [lu-wei, xi-jinping]
+  first:
+    date: 2012
+    text: 英国心理学家理查德·怀斯曼的《Rip It Up》2012年以《正能量》为名出版中译本，“正能量”当年年底被《咬文嚼字》评为十大网络流行语之首；同年9月北京市宣传部门的座谈会上已用它谈宣传。
+    cite: n01-cmp-2015-12-15-positive-energy
+    quote: thanks to the 2012 publication of his self-help book Rip It Up, rendered in Chinese translation as Positive Energy
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 主旋律更加响亮，正能量更加强劲
+    - date: 2021-11-11
+      where: 十九届六中全会历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 唱响了主旋律、弘扬了正能量
+  summary: “正能量”原是2012年一本英国自助书的中文书名，当年迅速成为网络流行语，随后被宣传系统吸收，用来指要求媒体和网民传播的积极、拥护性的内容。北京市委宣传部长鲁炜在2012年9月的座谈会上已拿它谈宣传；他出任国家网信办主任后，2013年8月要求网络名人凝聚正能量。2014年10月习近平在文艺工作座谈会上希望网络作家创作更多具有正能量的作品，此后它成为官方常用语，十九大报告和2021年历史决议都写入了，但没有写入党章或宪法。中国传媒研究计划指出，这个词听上去像心灵鸡汤，实质是网络舆论管控的核心口号；中国数字时代收录的网民段子说，同一块写着“自由、平等”的牌子，放在公园里是正能量，举上街就成了负能量。
+  quote:
+    text: 希望你们创作更多具有正能量的作品。
+    cite: e08-thepaper-2014-10-15-arts-forum
+  terms: [正能量]
+  related: [chinese-dream, little-pink, great-firewall]
+  voices:
+    - voice: official
+      text: 网络名人应自觉维护国家利益，积极发挥凝聚正能量作用，鼓舞更多网民为中华民族伟大复兴做出贡献。
+      cite: b12-xinhua-2013-08-12-lu-wei-bigv
+      quote: true
+    - voice: scholar
+      text: is now at the very heart of political discourse in the Xi Jinping era, having direct implications for media and Internet control
+      zh: 如今已处在习近平时代政治话语的核心，直接关系到媒体与互联网管控。
+      cite: n01-cmp-2015-12-15-positive-energy
+      quote: true
+    - voice: scholar
+      text: Behind the feel-good vibe, of course, this is all about control.
+      zh: 在令人愉悦的气氛背后，这当然全是为了控制。
+      cite: n01-cmp-2015-12-15-positive-energy
+      quote: true
+    - voice: zh
+      text: 2012年末，“正能量”被《咬文嚼字》选为中国2012年度十大网络流行语，并位居榜首。
+      cite: e09-cdt-space-zhengnengliang
+      quote: true
+    - voice: zh
+      text: 比如一块‘自由、平等、公正、法治’的牌子，放在公园里就是正能量，拿起来上街那就是负能量
+      cite: e09-cdt-space-zhengnengliang
+      quote: true
+  cites:
+    - n01-cmp-2015-12-15-positive-energy
+    - e09-cdt-space-zhengnengliang
+    - b12-xinhua-2013-08-12-lu-wei-bigv
+    - e08-thepaper-2014-10-15-arts-forum
+    - i01-gov-2017-10-18-19th-report
+    - b04-gov-2021-11-16-resolution
+
+# ---------------- government and society ----------------
+- id: super-ministry
+  name: 大部制
+  en: Super-Ministry Reform
+  kind: formula
+  by: [hu-jintao, wen-jiabao]
+  first:
+    date: 2007-10-15
+    text: 十七大报告在加快行政管理体制改革一节提出探索大部门体制。
+    cite: b02-npc-2007-10-24-17th-report
+    quote: 加大机构整合力度，探索实行职能有机统一的大部门体制，健全部门间协调配合机制。
+  codified:
+    - date: 2008-03-15
+      where: 十一届全国人大一次会议批准国务院机构改革方案
+      cite: e07-cpc-dsj-2008
+      quote: 批准国务院机构改革方案，探索实行职能有机统一的大部门体制
+  summary: “大部制”是“大部门体制”的简称，指把职能相近的部委合并成少数大部，以减少职责交叉和多头管理。十七大报告首次提出，2008年2月十七届二中全会讨论方案，3月十一届全国人大一次会议批准，组建工业和信息化部、交通运输部、人力资源和社会保障部、环境保护部、住房和城乡建设部，国务院组成部门减为27个。2013年政府工作报告称已初步建立大部门体制框架；广东在汪洋主政时把它推广到地方。它是行政体制改革的提法，没有写入党章或宪法。清华学者王名对BBC说它是解决部门利益的关键一步；美国之音采访的评论人则认为，合并部委牵涉利益集团，阻力很大，会反复。
+  quote:
+    text: 推进政府机构改革，初步建立职能统一的大部门体制框架
+    cite: i02-gov-2013-gwr
+  terms: [大部制, 大部门体制]
+  related: [scientific-development]
+  voices:
+    - voice: doc
+      text: 探索实行职能有机统一的大部门体制；针对职责交叉、权责脱节问题，明确界定部门分工和权限
+      cite: i02-gov-2008-gwr
+      quote: true
+    - voice: scholar
+      text: 他说，大部制的一个出发点是解决部门的问题，解决部门所有制问题，通过大部制的改革形成一种行政权力和公共资源的重新配置格局。
+      cite: n01-bbc-2008-02-25-super-ministry
+      quote: true
+    - voice: zh
+      text: 不过，有分析人士指出，中国的部委改革进行过多次，由于牵涉到很多利益集团，面临很大的阻力。
+      cite: n01-voa-2008-02-19-super-ministry
+      quote: true
+    - voice: zh
+      text: 多维网的负责人何频认为，要落实大部制，可能需要几年时间，还会出现多次反复。
+      cite: n01-voa-2008-02-19-super-ministry
+      quote: true
+    - voice: official
+      text: 继续完善推广大部门体制改革
+      cite: b05-gd-2012-05-09-wang-yang-report
+      quote: true
+  cites:
+    - b02-npc-2007-10-24-17th-report
+    - n01-voa-2008-02-19-super-ministry
+    - n01-bbc-2008-02-25-super-ministry
+    - i02-gov-2008-gwr
+    - e07-cpc-dsj-2008
+    - b05-gd-2012-05-09-wang-yang-report
+    - i02-gov-2013-gwr
+
+- id: mass-incidents
+  name: 群体性事件
+  en: Mass Incidents
+  kind: formula
+  by: [luo-gan, he-guoqiang]
+  first:
+    date: 2003-03-05
+    text: 本站所收文献中最早见于2003年政府工作报告对过去五年维护稳定工作的回顾。
+    cite: i02-gov-2003-gwr
+    quote: 正确处理新形势下的人民内部矛盾。妥善处理突发性、群体性事件，努力把矛盾和纠纷解决在基层，消除在萌芽状态。
+  summary: “群体性事件”是官方对集体上访、示威、堵路、围攻政府机关和骚乱等集体抗争的统称，属于“人民内部矛盾”的说法，是维稳体制的主要处置对象。2003年起它多次出现在政府工作报告里，2005、2009年的报告都要求积极预防和妥善处置。政法委书记罗干2006年在《求是》撰文称它已成为影响社会稳定的突出问题。官方很少公布总数：BBC 引述公安部估计，2004年有7.4万起；《洛杉矶时报》引中国武警学院的数据说，1993年为8700起，2006年升到9万起；社会学家孙立平推算2010年至少18万起。几个数字口径不同，不能直接比较。典型事件包括汉源、东洲、瓮安、通钢、乌坎和什邡。这个说法从未写入党章或宪法。
+  quote:
+    text: 人民内部矛盾以及由此引发的群体性事件,已成为影响社会稳定的突出问题
+    cite: b03-reformdata-2006-luo-qiushi
+  terms: [群体性事件]
+  related: [stability-maintenance, harmonious-society]
+  voices:
+    - voice: doc
+      text: 积极预防和妥善处置群体性事件
+      cite: i02-gov-2005-gwr
+      quote: true
+    - voice: west
+      text: 中国公安部估计，2004年发生了7万4千起民众暴力冲突事件，参与的人多达370多万。
+      cite: e01-bbc-2005-12-11-dongzhou
+      quote: true
+    - voice: zh
+      text: 清华大学的社会学教授孙立平推算，2010年的群体性事件至少有18万起。
+      cite: n01-rfa-2011-10-09-mass-incidents
+      quote: true
+    - voice: zh
+      text: 大多数抗议民众并没有要求改变现有的一党专制
+      cite: n01-rfa-2011-10-09-mass-incidents
+      quote: true
+    - voice: west
+      text: 中国将会出现越来越多的这类群体性事件，而且会越来越暴力
+      cite: e07-bbc-2009-07-27-tonghua
+      quote: true
+  cites:
+    - i02-gov-2003-gwr
+    - i02-gov-2005-gwr
+    - e01-bbc-2005-12-11-dongzhou
+    - b03-reformdata-2006-luo-qiushi
+    - i02-gov-2009-gwr
+    - e07-bbc-2009-07-27-tonghua
+    - e07-xinhua-2009-07-31-tonghua
+    - n01-rfa-2011-10-09-mass-incidents
+    - b03-people-2014-01-05-he-mass-incidents

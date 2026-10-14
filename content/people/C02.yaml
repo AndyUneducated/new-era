@@ -55,75 +55,8 @@
   ids: { wikidata: Q194157 }
   cites: [wd-Q194157, c02-cyol-2012-11-16-18th-cvs, c02-gov-2018-03-14-cppcc-leaders, c02-sun-2012-11-28-liu-qibao]
 
-- id: li-jianguo
-  name: 李建国
-  gender: m
-  ethnicity: 汉族
-  born: 1946-04-18
-  birthplace: 山东鄄城
-  roles: [pb, cc, prov]
-  status: retired
-  statusNote: 2018 年 3 月卸任全国人大常委会副委员长后退休。
-  tier: 2
-  headline: 全国人大常委会副委员长（2008–2018）、政治局委员（2012–2017）
-  bio: >-
-    天津起家，1990 年代任天津市委副书记，1997–2007 年任陕西省委书记十年，随后短暂主政山东。
-    2008 年进京任全国人大常委会副委员长兼秘书长，2012 年进入政治局，一直在人大系统工作到 2018 年退休。
-  positions:
-    - { title: 天津市委副书记, sys: party, place: 天津, from: 1992, to: 1997, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 陕西省委书记, sys: party, place: 陕西, from: 1997-08, to: 2007-03, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 山东省委书记, sys: party, place: 山东, from: 2007-03, to: 2008-03, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 全国人大常委会副委员长, sys: other, from: 2008-03, to: 2018-03, cite: wd-Q211384 }
-    - { title: 全国人大常委会秘书长, sys: other, from: 2008-03, to: 2013-03, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-  ids: { wikidata: Q211384 }
-  cites: [wd-Q211384, c02-cyol-2012-11-16-18th-cvs, c02-xinhua-2012-11-15-18-1-plenum]
 
-- id: zhang-chunxian
-  name: 张春贤
-  gender: m
-  ethnicity: 汉族
-  born: 1953-05-01
-  birthplace: 河南禹州
-  roles: [pb, cc, prov, minister]
-  status: retired
-  statusNote: 2023 年 3 月卸任全国人大常委会副委员长后退休。
-  tier: 2
-  headline: 新疆维吾尔自治区党委书记（2010–2016）、政治局委员（2012–2017）
-  bio: >-
-    机械工业系统出身，2002 年任交通部部长，2005 年主政湖南。2009 年乌鲁木齐七五事件后，2010 年接替王乐泉主政新疆六年多。
-    2012 年进入政治局，2016 年由陈全国接任新疆书记，2018–2023 年任全国人大常委会副委员长。
-  positions:
-    - { title: 交通部部长, sys: gov, from: 2002-11, to: 2005-12, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2005-12, to: 2010-04, cite: wd-Q715988 }
-    - { title: 新疆维吾尔自治区党委书记, sys: party, place: 新疆, from: 2010-04, to: 2016-08, cite: wd-Q715988 }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 全国人大常委会副委员长, sys: other, from: 2018-03, to: 2023-03, cite: c02-xinhua-2018-03-17-npc-leaders }
-  ids: { wikidata: Q715988 }
-  cites: [wd-Q715988, c02-cyol-2012-11-16-18th-cvs, c02-xinhua-2018-03-17-npc-leaders]
 
-- id: guo-jinlong
-  name: 郭金龙
-  gender: m
-  ethnicity: 汉族
-  born: 1947-07
-  birthplace: 江苏南京
-  roles: [pb, cc, prov]
-  status: retired
-  statusNote: 2017 年 5 月卸任北京市委书记，十九大后退出政治局。
-  tier: 2
-  headline: 北京市委书记（2012–2017）、政治局委员
-  bio: >-
-    长期在四川工作，2000–2004 年任西藏自治区党委书记，随后主政安徽。2007 年任北京市长，主持 2008 年奥运会的城市运行。
-    2012 年接替刘淇任北京市委书记并进入政治局，2017 年 5 月由蔡奇接任。
-  positions:
-    - { title: 西藏自治区党委书记, sys: party, place: 西藏, from: 2000-09, to: 2004-12, cite: wd-Q1368232 }
-    - { title: 安徽省委书记, sys: party, place: 安徽, from: 2004-12, to: 2007-11, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 北京市市长, sys: gov, place: 北京, from: 2007-11, to: 2012-07, cite: wd-Q1368232 }
-    - { title: 北京市委书记, sys: party, place: 北京, from: 2012-07, to: 2017-05, cite: wd-Q1368232 }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-  ids: { wikidata: Q1368232 }
-  cites: [wd-Q1368232, c02-cyol-2012-11-16-18th-cvs, c02-xinhua-2012-11-15-18-1-plenum]
 
 - id: du-qinglin
   name: 杜青林
@@ -196,36 +129,6 @@
   ids: { wikidata: Q2650507 }
   cites: [wd-Q2650507, c02-cyol-2012-11-16-18th-cvs, c02-chinanews-2013-03-16-state-council, c02-gov-2018-02-24-yang-jing]
 
-- id: zhang-yang
-  name: 张阳
-  gender: m
-  ethnicity: 汉族
-  born: 1951-08
-  died: 2017-11-23
-  birthplace: 河北武强
-  roles: [cmc, cc, general, tiger]
-  status: dead
-  statusNote: 2017 年 11 月 23 日在接受组织谈话期间于家中自缢身亡。
-  fall:
-    - { date: 2017-08-28, text: 中央军委决定对其进行组织谈话，调查其涉郭伯雄、徐才厚等案问题线索, cite: c02-xinhua-2017-11-28-zhang-yang }
-    - { date: 2017-11-23, text: 在家中自缢死亡；新华社称其涉嫌行贿受贿、巨额财产来源不明犯罪, cite: c02-xinhua-2017-11-28-zhang-yang }
-  tier: 2
-  headline: 总政治部主任、军委政治工作部主任（2012–2017），2017 年调查中自杀
-  bio: >-
-    广州军区政工干部出身，历任第 42 集团军政委、广州军区政治部主任，2007 年任广州军区政委。
-    2012 年接替李继耐任总政治部主任并入军委，在任内多次批判徐才厚；2015 年任军委政治工作部首任主任。2017 年 8 月被组织谈话，11 月在家中自缢。
-  positions:
-    - { title: 广州军区政治部主任, sys: army, from: 2004-12, to: 2007-09, cite: c02-wiki-zhang-yang }
-    - { title: 广州军区政治委员, sys: army, from: 2007-09, to: 2012-10, cite: c02-wiki-zhang-yang }
-    - { title: 总政治部主任, sys: army, from: 2012-10, to: 2015-11, cite: c02-sina-2012-10-25-pla-hq }
-    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 中央军委政治工作部主任, sys: army, from: 2015-11, to: 2017-08, cite: c02-wiki-zhang-yang }
-  factions:
-    - f: guo-xu
-      cite: c02-zaobao-2018-01-10-fang-fenghui
-      quote: 张阳则是徐才厚的嫡系
-  ids: { wikidata: Q27826 }
-  cites: [wd-Q27826, c02-sina-2012-10-25-pla-hq, c02-xinhua-2017-11-28-zhang-yang, c02-wiki-zhang-yang]
 
 - id: zhao-keshi
   name: 赵克石
@@ -251,29 +154,6 @@
   ids: { wikidata: Q5950419 }
   cites: [wd-Q5950419, c02-sina-2012-10-25-pla-hq, c02-xinhua-2013-03-15-npc-cmc, c02-wiki-zhao-keshi]
 
-- id: ma-xiaotian
-  name: 马晓天
-  gender: m
-  ethnicity: 汉族
-  born: 1949-08
-  birthplace: 河南巩义
-  roles: [cmc, cc, general]
-  status: retired
-  statusNote: 2017 年 8 月卸任空军司令员，2018 年 3 月退休。
-  tier: 2
-  headline: 空军司令员（2012–2017）、中央军委委员
-  bio: >-
-    空军飞行员出身，历任兰州、南京军区空军司令员、空军副司令员，2006 年任国防大学校长，2007 年任副总参谋长，分管外事。
-    2012 年接替许其亮任空军司令员并入军委，2017 年 8 月由丁来杭接任，2018 年退休。
-  positions:
-    - { title: 南京军区副司令员兼军区空军司令员, sys: army, from: 2001-01, to: 2003-07, cite: c02-wiki-ma-xiaotian }
-    - { title: 空军副司令员, sys: army, from: 2003-07, to: 2006-08, cite: c02-wiki-ma-xiaotian }
-    - { title: 国防大学校长, sys: army, from: 2006-08, to: 2007-09, cite: c02-wiki-ma-xiaotian }
-    - { title: 副总参谋长, sys: army, from: 2007-09, to: 2012-10, cite: c02-wiki-ma-xiaotian }
-    - { title: 空军司令员, sys: army, from: 2012-10, to: 2017-08, cite: c02-caixin-2012-10-23-pla-reshuffle }
-    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-  ids: { wikidata: Q2213506 }
-  cites: [wd-Q2213506, c02-caixin-2012-10-23-pla-reshuffle, c02-xinhua-2013-03-15-npc-cmc, c02-wiki-ma-xiaotian]
 
 - id: wang-chen
   name: 王晨
@@ -300,101 +180,6 @@
   cites: [wd-Q3427716, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2018-03-17-npc-leaders]
 
 
-- id: yang-xiaodu
-  name: 杨晓渡
-  gender: m
-  ethnicity: 汉族
-  born: 1953-10
-  birthplace: 上海
-  roles: [pb, sec, ccdi, cc, minister]
-  status: retired
-  statusNote: 2023 年 3 月卸任国家监委主任后退休。
-  tier: 2
-  headline: 首任国家监察委员会主任（2018–2023）、政治局委员
-  bio: >-
-    上海人，大学毕业后在西藏工作近二十年，2001 年回上海任副市长，后任上海市委常委、统战部长、纪委书记。
-    2014 年任中纪委副书记，2016 年兼监察部部长，主持监察体制改革试点；2018 年国家监委成立后任首任主任，2023 年退休。
-  positions:
-    - { title: 上海市副市长, sys: gov, place: 上海, from: 2001, to: 2006, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 上海市委常委、纪委书记, sys: party, place: 上海, from: 2012, to: 2014, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中纪委副书记, sys: party, from: 2014-01, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 监察部部长, sys: gov, from: 2016-12, to: 2018-03, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 国家监察委员会主任, sys: gov, from: 2018-03, to: 2023-03, cite: wd-Q9080691 }
-  ids: { wikidata: Q9080691 }
-  cites: [wd-Q9080691, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum]
-
-- id: guo-shengkun
-  name: 郭声琨
-  gender: m
-  ethnicity: 汉族
-  born: 1954-10
-  birthplace: 江西兴国
-  roles: [pb, sec, cc, prov, minister]
-  status: retired
-  statusNote: 二十大后卸任中央政法委书记，由陈文清接任。
-  tier: 2
-  headline: 中央政法委书记（2017–2022）、政治局委员、前公安部部长
-  bio: >-
-    冶金与有色金属系统出身，2001 年任中国铝业总经理，2007–2012 年任广西自治区党委书记。
-    2012 年底接任公安部部长，2013 年兼国务委员；十九大进入政治局和书记处，执掌中央政法委，主持政法队伍教育整顿，二十大后退休。
-  positions:
-    - { title: 中国铝业公司总经理, sys: other, from: 2001, to: 2004, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2007-11, to: 2012-12, cite: wd-Q4276774 }
-    - { title: 公安部部长, sys: gov, from: 2012-12, to: 2017-11, cite: wd-Q4276774 }
-    - { title: 国务委员, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 中央政法委书记, sys: party, from: 2017-10, to: 2022-10, cite: wd-Q4276774 }
-  ids: { wikidata: Q4276774 }
-  cites: [wd-Q4276774, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council]
-
-- id: you-quan
-  name: 尤权
-  gender: m
-  ethnicity: 汉族
-  born: 1954-01-23
-  birthplace: 北京
-  origin: 河北卢龙
-  roles: [sec, cc, prov, minister]
-  status: retired
-  statusNote: 二十大后卸任中央统战部部长和书记处书记，由石泰峰接任统战部长。
-  tier: 2
-  headline: 中央统战部部长（2017–2022）、书记处书记
-  bio: >-
-    经济学研究生，长期在国务院办公厅工作，2006 年任电监会主席，2008 年任国务院副秘书长。
-    2012–2017 年主政福建，十九大进入书记处并执掌中央统战部，主管宗教中国化与民族政策，二十大后退休。
-  positions:
-    - { title: 国家电力监管委员会主席, sys: gov, from: 2006, to: 2008, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 国务院副秘书长, sys: gov, from: 2008, to: 2012, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 福建省委书记, sys: party, place: 福建, from: 2012-11, to: 2017-10, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 中央统战部部长, sys: party, from: 2017-11, to: 2022-10, cite: wd-Q4276510 }
-  ids: { wikidata: Q4276510 }
-  cites: [wd-Q4276510, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum]
-
-- id: li-zuocheng
-  name: 李作成
-  gender: m
-  ethnicity: 汉族
-  born: 1953-10
-  birthplace: 湖南安化
-  roles: [cmc, cc, general]
-  status: retired
-  statusNote: 2022 年二十大后卸任中央军委委员、联合参谋部参谋长。
-  tier: 2
-  headline: 中央军委联合参谋部参谋长（2017–2022）、首任陆军司令员
-  bio: >-
-    1979 年对越作战战斗英雄，长期在广州军区第 41 集团军任职，1998 年任军长，2007 年调成都军区副司令员。
-    2013 年以非中央委员身份越级出任成都军区司令员，2015 年底任陆军首任司令员，2017 年接替房峰辉任联合参谋部参谋长并入军委，2022 年退休。
-  positions:
-    - { title: 第 41 集团军军长, sys: army, from: 1998-04, to: 2002-01, cite: c02-wiki-li-zuocheng }
-    - { title: 成都军区副司令员, sys: army, from: 2007-12, to: 2013-07, cite: c02-wiki-li-zuocheng }
-    - { title: 成都军区司令员, sys: army, from: 2013-07, to: 2015-12, cite: c02-wiki-li-zuocheng }
-    - { title: 陆军司令员, sys: army, from: 2015-12, to: 2017-08, cite: c02-wiki-li-zuocheng }
-    - { title: 中央军委联合参谋部参谋长, sys: army, from: 2017-08, to: 2022-10, cite: wd-Q8316069 }
-    - { title: 中央军委委员, sys: army, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-  ids: { wikidata: Q8316069 }
-  cites: [wd-Q8316069, c02-wiki-li-zuocheng, c02-xinhua-2017-10-25-19-1-plenum]
 
 
 
@@ -405,57 +190,7 @@
 
 
 
-- id: liu-jinguo
-  name: 刘金国
-  gender: m
-  ethnicity: 汉族
-  born: 1955-04
-  birthplace: 河北昌黎
-  joinedParty: 1975-09
-  joinedWork: 1976-12
-  roles: [sec, ccdi, cc, minister]
-  status: active
-  statusNote: 中央书记处书记、中纪委副书记、国家监委主任，2026 年 8 月仍以此身份公开活动。
-  tier: 2
-  headline: 国家监察委员会主任（2023– ）、中央书记处书记、中纪委副书记
-  bio: >-
-    河北公安系统出身，曾任秦皇岛市公安局长、河北省委政法委书记，2005 年任公安部副部长，2014 年任常务副部长。
-    2014 年起任中纪委副书记，二十大进入书记处并任中纪委排名第一的副书记，2023 年接替杨晓渡任国家监委主任。
-  positions:
-    - { title: 河北省委常委、政法委书记, sys: party, place: 河北, from: 2002-01, to: 2005-03, cite: c02-wiki-liu-jinguo }
-    - { title: 公安部副部长, sys: gov, from: 2005-03, to: 2014-10, cite: c02-wiki-liu-jinguo }
-    - { title: 中纪委副书记, sys: party, from: 2014-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 国家监察委员会主任, sys: gov, from: 2023-03, cite: c02-zmdsjw-2026-08-27-liu-jinguo }
-  ids: { wikidata: Q8990812 }
-  cites: [wd-Q8990812, c02-gov-2022-10-23-20th-cvs, c02-wiki-liu-jinguo, c02-zmdsjw-2026-08-27-liu-jinguo]
 
-- id: wang-xiaohong
-  name: 王小洪
-  gender: m
-  ethnicity: 汉族
-  born: 1957-07-11
-  birthplace: 福建福州
-  joinedParty: 1982-12
-  joinedWork: 1974-07
-  roles: [sec, cc, minister]
-  status: active
-  statusNote: 中央书记处书记、国务委员、公安部部长，2026 年 9 月仍以此身份公开活动。
-  tier: 2
-  headline: 公安部部长（2022– ）、国务委员、中央书记处书记
-  bio: >-
-    福建公安系统出身，1993 年任福州市公安局副局长，在时任福州市委书记习近平手下工作。2013 年调河南任公安厅长，2015 年任北京市副市长兼公安局长。
-    2016 年任公安部副部长，2022 年 6 月接替赵克志任部长，二十大进入书记处，2023 年兼国务委员。
-  positions:
-    - { title: 福州市公安局副局长、局长, sys: gov, place: 福建, from: 1993-08, to: 2002, cite: c02-wiki-wang-xiaohong }
-    - { title: 河南省公安厅厅长, sys: gov, place: 河南, from: 2013-08, to: 2015-03, cite: c02-wiki-wang-xiaohong }
-    - { title: 北京市副市长兼公安局局长, sys: gov, place: 北京, from: 2015-03, to: 2016, cite: c02-wiki-wang-xiaohong }
-    - { title: 公安部部长, sys: gov, from: 2022-06, cite: wd-Q18109475 }
-    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 国务委员, sys: gov, from: 2023-03, cite: c01-gov-2018-03-19-state-council-history }
-  factions:
-    - f: fujian
-      cite: c02-rfa-2022-06-24-wang-xiaohong
-      quote: 王小洪是中共总书记习近平的福州旧部
-  ids: { wikidata: Q18109475 }
-  cites: [wd-Q18109475, c02-gov-2022-10-23-20th-cvs, c02-wiki-wang-xiaohong, c01-gov-2018-03-19-state-council-history, c02-gov-2026-09-10-wang-xiaohong, c02-gov-2026-09-22-wang-xiaohong]
+
+
+

@@ -1,0 +1,162 @@
+# B21: quotes, person id → list. Every text is checked verbatim against its cite.
+wu-shengli:
+  - text: 我们绝不会谋求岛礁军事化，但也绝不会不设防，防御设施的多少完全取决于我们受到威胁的程度。
+    cite: b21-xinhua-2016-01-20-wu-richardson
+    kind: public
+    date: 2016-01-20
+    occasion: 与美国海军作战部长理查德森视频通话，谈永暑礁机场试飞与南沙岛礁建设
+    star: true
+  - text: 中国海军有决心有能力保卫南沙岛礁的主权和安全。
+    cite: b21-xinhua-2016-01-20-wu-richardson
+    kind: public
+    date: 2016-01-20
+    occasion: 同一次视频通话
+  - text: 我们绝不会牺牲南海主权权益，这是中国的核心利益……不要指望我们在领土主权上作出让步
+    cite: b21-cri-2016-07-18-wu-five-nevers
+    kind: public
+    date: 2016-07-18
+    occasion: 在北京会见来访的理查德森，连说五个“绝不会”
+  - text: 不管是什么国家，还是什么人，施加什么压力，中方都会按计划推进并完成岛礁建设
+    cite: b21-cri-2016-07-18-wu-five-nevers
+    kind: public
+    date: 2016-07-18
+    occasion: 同一次会见
+  - text: 那些企图通过展示军事肌肉迫使我们屈服的做法，结果只能适得其反
+    cite: b21-cri-2016-07-18-wu-five-nevers
+    kind: public
+    date: 2016-07-18
+    occasion: 同一次会见，谈岛礁防御设施
+ma-xiaotian:
+  - text: 因为是在黄海，距离中国领海很近，举行这样的演习，我们是非常反对的。
+    cite: b21-cntv-2010-07-03-ma-yellow-sea
+    kind: interview
+    date: 2010-07-01
+    occasion: 以副总参谋长身份接受凤凰卫视采访，谈美韩黄海联合军演
+    star: true
+  - text: （对于）他们的演习我们已经明确地表达了我们的态度，坚决反对。
+    cite: b21-cntv-2010-07-03-ma-yellow-sea
+    kind: interview
+    date: 2010-07-01
+    occasion: 同一次采访
+  - text: 南海问题是（中国同周边国家间）两国之间的问题，和美国没有关系
+    cite: b21-hqrw-2012-11-06-ma
+    kind: public
+    date: 2011-07-26
+    occasion: 中日防务安全磋商，据日本《读卖新闻》报道
+  - text: 我们发展我们的，他担忧什么，中国海上训练必要搞，中国空军不能光守在陆上不出去。
+    cite: b21-cnr-2017-08-11-ma-japan-sea
+    kind: adlib
+    date: 2017-08-10
+    occasion: 在长春空军航空开放日回答记者提问，回应日本防卫白皮书
+  - text: 日本海不是日本的海，不是不能去。
+    cite: b21-cnr-2017-08-11-ma-japan-sea
+    kind: adlib
+    date: 2017-08-10
+    occasion: 同一次答记者问
+li-zuocheng:
+  - text: 如果和平统一的可能性完全丧失，人民军队将与全国人民包括台湾人民一道，采取一切必要措施，坚决粉碎任何分裂图谋和行径
+    cite: b21-gwytb-2020-05-29-li-taiwan
+    kind: public
+    date: 2020-05-29
+    occasion: 《反分裂国家法》实施 15 周年座谈会发言
+    star: true
+  - text: 我们不承诺放弃使用武力，保留采取一切必要措施的选项
+    cite: b21-gwytb-2020-05-29-li-taiwan
+    kind: public
+    date: 2020-05-29
+    occasion: 同一次发言
+  - text: 今天的中国不是孱弱的旧中国，综合国力、军事实力都已经发生了翻天覆地的变化。
+    cite: b21-gwytb-2020-05-29-li-taiwan
+    kind: public
+    date: 2020-05-29
+    occasion: 同一次发言，谈台湾问题不容外来势力干涉
+  - text: 中方在事关国家核心利益问题上，没有任何妥协退让的余地，如果有人肆意挑衅，就必然遭到中国人民坚定的反制回击。
+    cite: b21-mod-2022-07-08-li-milley
+    kind: public
+    date: 2022-07-07
+    occasion: 与美军参联会主席米利视频通话
+  - text: 1979年，我是广西边防部队某团的一个连长，带领全连参加了自卫还击作战。
+    cite: b21-gxnu-2016-01-04-li-army
+    kind: public
+    occasion: 上世纪八十年代在英模报告团的演讲《祖国在我心中》
+zhang-yang:
+  - text: 以领导干部为重点进一步搞好揭批反思，做到情感上憎恨、政治上决裂，切实与郭徐的圈子、品行、套路、作风等彻底划清界限
+    cite: b21-cnr-2016-08-27-zhang-gutian
+    kind: public
+    date: 2016-08-26
+    occasion: 以全军贯彻落实古田政工会精神领导小组组长身份讲话，部署肃清郭伯雄、徐才厚流毒
+    star: true
+  - text: 把肃清工作作为严肃的政治任务紧抓在手、推进到底
+    cite: b21-cnr-2016-08-27-zhang-gutian
+    kind: public
+    date: 2016-08-26
+    occasion: 同一次讲话
+  - text: 坚决抵制“军队非党化、非政治化”和“军队国家化”等错误政治观点，引导官兵保持政治定力、站稳正确立场
+    cite: b21-sina-2013-04-16-zhang-article
+    kind: public
+    date: 2013-04
+    occasion: 以总政治部主任身份在《求是》2013 年第 8 期发表的文章
+  - text: 确保枪杆子始终掌握在忠于党的可靠的人手中
+    cite: b21-sina-2013-04-16-zhang-article
+    kind: public
+    date: 2013-04
+    occasion: 同一篇文章，谈从政治上考察和使用干部
+guo-jinlong:
+  - text: 一个浮肿的巨人，必然是步履艰难，很难走远的。
+    cite: b21-people-2015-04-30-guo-no-retreat
+    kind: public
+    date: 2015-04-29
+    occasion: 北京市委常委会研究一季度经济形势，谈疏解非首都功能
+    star: true
+  - text: 疏解非首都功能，我们没有退路！
+    cite: b21-people-2015-04-30-guo-no-retreat
+    kind: public
+    date: 2015-04-29
+    occasion: 同一次会议
+  - text: 过去说“不是金刚钻，别揽瓷器活”，现在瓷器活就摆在面前了，我们的干部就要成为金刚钻。
+    cite: b21-people-2015-04-30-guo-no-retreat
+    kind: public
+    date: 2015-04-29
+    occasion: 同一次会议，谈干部要“长新的本领”
+  - text: 北京的人口资源环境矛盾和“大城市病”问题，已经成为人民群众的高度关切，成为我们不能释怀的最大焦虑。
+    cite: b21-cntv-2015-07-13-guo-big-test
+    kind: public
+    date: 2015-07-10
+    occasion: 北京市委十一届七次全会
+  - text: 没有共产党，就没有新西藏。只有社会主义才能发展西藏。
+    cite: b21-sina-2001-07-20-tibet-50
+    kind: public
+    date: 2001-07-19
+    occasion: 以西藏自治区党委书记身份在庆祝西藏和平解放 50 周年大会上讲话
+  - text: 越是风高浪急，越要同舟共济。
+    cite: b21-chinanews-2025-12-16-guo-summit
+    kind: public
+    date: 2025-12-16
+    occasion: 以两岸企业家峰会大陆方面理事长身份在南京年会上致辞
+liu-qi:
+  - text: 举办奥运会是中华儿女的百年梦想。
+    cite: b21-gmw-2008-08-09-liu-qi-opening
+    kind: public
+    date: 2008-08-08
+    occasion: 以北京奥组委主席身份在北京奥运会开幕式上致辞
+    star: true
+  - text: 熊熊燃烧的奥运圣火即将熄灭，但中国人民拥抱世界的热情之火将永远燃烧。
+    cite: b21-cctv-2008-08-24-liu-qi-closing
+    kind: public
+    date: 2008-08-24
+    occasion: 北京奥运会闭幕式致辞
+  - text: “平安奥运”重于泰山，奥运平安人人有责
+    cite: b21-chinanews-2008-06-15-safe-olympics
+    kind: public
+    date: 2008-06-14
+    occasion: 调研化解社会矛盾、维护社会稳定工作
+  - text: “平安奥运”的基础是社会稳定，社会稳定取决于民心稳定。
+    cite: b21-chinanews-2008-06-15-safe-olympics
+    kind: public
+    date: 2008-06-14
+    occasion: 同一次调研
+  - text: 我作为市委书记，负有领导责任，我诚恳地作自我批评。
+    cite: b21-sina-2003-04-21-beijing-cadres
+    kind: public
+    date: 2003-04-20
+    occasion: 非典疫情中宣布撤换市长孟学农的北京市领导干部大会

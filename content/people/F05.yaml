@@ -340,37 +340,6 @@
   cites: [wd-Q18340688, f05-chinanews-2015-08-14-zhao-shaolin, f05-scmp-2015-08-14-zhao-shaolin]
 
 # --- conservatives and elders ---
-- id: chen-yun
-  name: 陈云
-  gender: m
-  born: 1905-06-13
-  died: 1995-04-10
-  birthplace: 上海青浦
-  roles: [psc, ccdi]
-  status: dead
-  statusNote: 1995年4月10日在北京逝世。
-  tier: 2
-  headline: 中共元老，曾任中央副主席、中纪委第一书记，改革开放时期保守派代表人物
-  ids: { wikidata: Q557233 }
-  bio: >-
-    中共第一代经济工作领导人，1950年代任国务院副总理、中央副主席和政治局常委，文革后复出任政治局常委、中纪委书记。改革开放时期主张计划经济为主、对市场化改革持保留态度，BBC称当时元老大致分为以邓小平为代表的改革派和以陈云为代表的保守派。李鹏被视为他的门生。
-  positions:
-    - { title: 国务院副总理, sys: gov, from: 1954, to: 1965, cite: wd-Q557233 }
-    - { title: 中共中央副主席, sys: party, from: 1956-09, to: 1966-08, cite: wd-Q557233 }
-    - { title: 中央政治局常委, sys: party, from: 1956-09, to: 1969-04, cite: wd-Q557233 }
-    - { title: 中央政治局常委, sys: party, from: 1978-12, to: 1987-11, cite: wd-Q557233 }
-    - { title: 中央纪律检查委员会书记, sys: party, from: 1978-12, to: 1987-10, cite: wd-Q557233 }
-  factions:
-    - f: conservatives
-      cite: f05-bbc-2007-01-16-bo-yibo
-      quote: '幕后干政的元老中间大致分为以邓小平为代表的改革派和以陈云为代表的保守派'
-      rank: elder
-      rankQuote: '以陈云为代表的保守派'
-    - f: conservatives
-      cite: b01-bbc-2019-07-23-li-peng-obit
-      quote: '他的政绩平平，但获得以陈云为代表的中共保守派鼎力扶持'
-      rank: elder
-  cites: [wd-Q557233, f05-bbc-2007-01-16-bo-yibo, f03-latimes-1987-11-25-li-peng]
 
 - id: bo-yibo
   name: 薄一波
@@ -428,26 +397,3 @@
       rankQuote: '保守派为了让他得到晋升而进行游说'
   cites: [wd-Q8296502, f05-xinhua-2015-02-17-deng-liqun, f05-nytcn-2015-02-13-deng-liqun]
 
-- id: song-ping
-  name: 宋平
-  gender: m
-  born: 1917-04-24
-  died: 2026-03-04
-  birthplace: 山东莒县
-  roles: [psc]
-  status: dead
-  statusNote: 2026年3月4日在北京逝世，享年109岁。
-  tier: 2
-  headline: 原中央政治局常委、中组部部长，曾在甘肃提拔胡锦涛、温家宝
-  ids: { wikidata: Q618323 }
-  bio: >-
-    长期从事计划工作，1972年起主政甘肃，1981年回国家计委，1983年任国务委员兼国家计委主任，1987年任中组部部长、政治局委员，1989年六四后增补为政治局常委，1992年十四大退出。联合早报称他在甘肃和中组部任职时提拔举荐过胡锦涛、温家宝等人，被称为中国政坛最大伯乐。
-  positions:
-    - { title: 甘肃省委书记, sys: party, place: 甘肃, from: 1972, to: 1977, cite: f05-xinhua-2026-03-10-song-ping }
-    - { title: 甘肃省委第一书记, sys: party, place: 甘肃, from: 1977, to: 1981-01, cite: f05-xinhua-2026-03-10-song-ping }
-    - { title: 国家计划委员会副主任, sys: gov, from: 1981-01, to: 1983-06, cite: f05-xinhua-2026-03-10-song-ping }
-    - { title: 国务委员兼国家计划委员会主任, sys: gov, from: 1983-06, to: 1988-04, cite: wd-Q618323 }
-    - { title: 中央组织部部长, sys: party, from: 1987-05, cite: f05-xinhua-2026-03-10-song-ping }
-    - { title: 中央政治局委员, sys: party, from: 1987-11, to: 1989-06, cite: f05-xinhua-2026-03-10-song-ping }
-    - { title: 中央政治局常委, sys: party, from: 1989-06, to: 1992-10, cite: f05-xinhua-2026-03-10-song-ping }
-  cites: [wd-Q618323, f05-xinhua-2026-03-10-song-ping, f05-zaobao-2026-03-04-song-ping]

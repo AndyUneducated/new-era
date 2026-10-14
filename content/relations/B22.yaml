@@ -1,0 +1,66 @@
+# B22: ties of 邓小平、胡耀邦、李建国 not yet in the data; a is the senior side.
+- a: deng-xiaoping
+  b: hu-yaobang
+  kind: patron
+  text: 纽约时报 1989 年称胡耀邦是邓小平的长期门生，70 年代后期帮他巩固权力；1987 年邓小平又让他下台
+  from: 1977
+  to: 1987-01
+  cite: b22-nytcn-1989-04-15-hu-obit
+  quote: '胡耀邦是邓小平的长期门生'
+- a: deng-xiaoping
+  b: zhao-ziyang
+  kind: patron
+  text: 邓小平选定的可能接班人，1989 年因同情示威者在镇压前夕被撤职
+  to: 1989-06
+  cite: b22-nyt-1997-02-20-deng-obit
+  quote: 'Zhao Ziyang, the party chief tapped by Mr. Deng as a possible successor'
+- a: deng-xiaoping
+  b: jiang-zemin
+  kind: patron
+  text: 邓小平指定江泽民为第三代核心，“隔代指定接班”制度的第一任
+  from: 1989-06
+  cite: c09-cna-2022-10-08-deng-succession
+  quote: '鄧小平指定江澤民、胡錦濤2名先後上位的領導人'
+- a: deng-xiaoping
+  b: hu-jintao
+  kind: patron
+  text: 邓小平生前隔代指定胡锦涛为第四代领导核心
+  from: 1992
+  cite: c09-bbc-2001-hu-dragon-chair
+  quote: '胡锦涛则是邓小平生前预先安排的第四代领导班子的核心'
+- a: deng-xiaoping
+  b: deng-pufang
+  kind: kin
+  text: 父子
+  cite: k03-wiki-deng-pufang
+  quote: '中央军委前主席邓小平之子'
+- a: deng-xiaoping
+  b: deng-nan
+  kind: kin
+  text: 父女
+  cite: k04-wiki-deng-nan
+  quote: '邓小平之女'
+- a: hu-yaobang
+  b: wen-jiabao
+  kind: colleague
+  text: 1986 年初温家宝刚任中办副主任，负责组织胡耀邦的贵州、云南、广西考察；2010 年任总理时撰文怀念
+  from: 1986-02
+  to: 1986-02
+  cite: b22-people-2010-04-15-wen-xingyi
+  quote: '耀邦同志让我具体负责组织这次考察访问工作'
+- a: hu-yaobang
+  b: xi-zhongxun
+  kind: colleague
+  text: 胡耀邦任中组部部长时为习仲勋平反；1987 年批判胡耀邦的会议上习仲勋为他说话
+  from: 1977-12
+  to: 1987-01
+  cite: b14-nytcn-2015-11-22-hu-yaobang
+  quote: '在帮助习近平的父亲、同为老党员的习仲勋摆脱被毛泽东打倒的政治泥淖方面，胡耀邦起到了重要作用'
+- a: li-ruihuan
+  b: li-jianguo
+  kind: secretary
+  text: 李瑞环主政天津时，李建国在市委办公厅任副主任、主任和市委秘书长，被称为李瑞环的秘书
+  from: 1982
+  to: 1989
+  cite: b22-bbc-2013-01-29-li-jianguo
+  quote: '李建国原是中共前政治局常委李瑞环的秘书'

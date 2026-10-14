@@ -1,0 +1,208 @@
+# N01 (round 5): sources for ten concept entries (patriots-governing-hong-kong, four-winds, liuzhi, three-red-lines,
+# housing-not-speculation, sinicization-of-religion, great-firewall, positive-energy, super-ministry, mass-incidents).
+# The other five on the N01 list (one-country-two-systems, wolf-warrior, honor-disgrace, socialist-market-economy,
+# harmonious-world) already have entries in content/concepts/I03.yaml.
+# npc.gov.cn returned "Website Filtered"; the supervision texts come from people.com.cn / ccdi / lyjjw mirrors.
+web:
+  # ---- great-firewall ----
+  - id: n01-wired-1997-06-great-firewall
+    title: The Great Firewall of China
+    publisher: Wired（Geremie R. Barmé、Sang Ye）
+    date: 1997-06-01
+    voice: west
+    url: https://www.wired.com/1997/06/china-3/
+    excerpt: true
+    keep: [ The Great Firewall of China, Under construction since last year, The computer cordon sanitaire ]
+  - id: n01-chinaorg-2011-02-18-fang-binxing
+    title: Great Firewall father speaks out（《环球时报》英文版，中国网转载第2页）
+    publisher: 中国网（Global Times）
+    date: 2011-02-18
+    voice: official
+    url: http://www.china.org.cn/china/2011-02/18/content_21951602_2.htm
+    start: Patient and rational
+    end: just play with what they have.
+  - id: n01-bbc-2011-02-18-fang-binxing
+    title: 中国“防火墙之父”方滨兴翻墙访问屏蔽网站
+    publisher: BBC 中文
+    date: 2011-02-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2011/02/110218_china_web
+    excerpt: true
+    keep: [ 方濱興承認, 防火牆似乎略輸一籌, 每次連接被重置 ]
+  - id: n01-cnr-2017-07-25-miit-vpn
+    title: 工信部回应“禁用VPN”：清理对象是无资质者
+    publisher: 央广网（中国新闻网）
+    date: 2017-07-25
+    voice: official
+    url: https://tech.cnr.cn/techgd/20170725/t20170725_523867736.shtml
+    start: 中新网7月25日电
+    end: 同时我们也会关注老百姓的一些需求。但是通过网络来传播有害甚至是暴恐信息，是中国法律所不允许的。
+  # ---- positive-energy ----
+  - id: n01-cmp-2015-12-15-positive-energy
+    title: The CCP's "positive energy" obsession
+    publisher: China Media Project（香港大学）
+    date: 2015-12-15
+    voice: scholar
+    url: https://chinamediaproject.org/2015/12/15/chinas-obsession-with-positive-energy/
+    excerpt: true
+    keep: [ Richard Wiseman may have done just that, is now at the very heart of political discourse, The first public use of positive energy, Division of what was then still SARFT, Behind the feel-good vibe ]
+  # ---- sinicization-of-religion ----
+  - id: n01-xinhua-2015-05-20-united-front
+    title: 习近平：巩固发展最广泛的爱国统一战线（中央统战工作会议）
+    publisher: 新华网
+    date: 2015-05-20
+    voice: official
+    url: https://www.xinhuanet.com/politics/2015-05/20/c_1115351358.htm
+    start: 新华网北京5月20日电
+    end: 以及军队有关单位负责同志参加会议。
+  - id: n01-dw-2015-05-20-sinicization
+    title: 宗教必须摆脱外国影响？
+    publisher: 德国之声中文网
+    date: 2015-05-20
+    voice: zh
+    url: https://www.dw.com/zh/%E5%AE%97%E6%95%99%E5%BF%85%E9%A1%BB%E6%91%86%E8%84%B1%E5%A4%96%E5%9B%BD%E5%BD%B1%E5%93%8D/a-18464363
+    excerpt: true
+    keep: [ 意指宗教必须摆脱外国影响, 美联社在报道中指出, 普渡大学 ]
+  - id: n01-cecc-2018-religious-crackdown
+    title: Chairs' Statement on Religious Crackdown in China Targeting Christian Churches
+    publisher: 美国国会及行政当局中国委员会（CECC）
+    date: 2018-12-19
+    voice: west
+    url: http://www.cecc.gov/media-center/press-releases/chairs%E2%80%99-statement-on-religious-crackdown-in-china-targeting-christian
+    excerpt: true
+    keep: [ are taking a devastating human toll, campaign, resulting in unprecedented efforts ]
+  # ---- liuzhi ----
+  - id: n01-people-2016-12-26-supervision-pilot
+    title: 全国人大常委会关于在北京市、山西省、浙江省开展国家监察体制改革试点工作的决定
+    publisher: 人民网（中国人大新闻）
+    date: 2016-12-25
+    voice: doc
+    url: http://npc.people.com.cn/n1/2016/1226/c14576-28975256.html
+    start: 根据党中央确定的
+    end: 本决定自2016年12月26日起施行。
+  - id: n01-ccdi-2018-03-supervision-law
+    title: 中华人民共和国监察法（2018年3月20日第十三届全国人民代表大会第一次会议通过）
+    publisher: 中央纪委国家监委网站
+    date: 2018-03-20
+    voice: doc
+    url: https://m.ccdi.gov.cn/content/8a/6a/25541.html
+    start: （2018年3月20日第十三届全国人民代表大会第一次会议通过）
+    end: 《中华人民共和国行政监察法》同时废止。
+  - id: n01-lyjjw-2024-12-supervision-law-revised
+    title: 《监察法》全文（2024年12月修正版，2025年6月1日起施行）
+    publisher: 临沂市纪委监委网站
+    date: 2024-12-25
+    voice: doc
+    url: https://www.lyjjw.gov.cn/sitesources/lysjwjcw/page_pc/xsqjw/xgq/djfg/article75666ce8bb8a44a38b1b7bd174f420ac.html
+    start: 《全国人民代表大会常务委员会关于修改
+    end: 《中华人民共和国行政监察法》同时废止。
+  - id: n01-bbc-2017-10-19-liuzhi
+    title: 十九大报告明确“留置”取代“两规” 能消除争议吗？
+    publisher: BBC 中文
+    date: 2017-10-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41681387
+    excerpt: true
+    keep: [ 今后将组建各级监察委员会, 因其强制性及缺乏合法性, 习主席把他的反腐败运动建立在, 这次的改革让反腐败有一个合法的出口, 留置的一大关键问题在于是否允许律师介入 ]
+  # ---- patriots-governing-hong-kong ----
+  - id: n01-bbc-2021-02-23-patriots
+    title: 香港修改议员宣誓法规，新“爱国者治港”定义引发对民主选举的担忧
+    publisher: BBC 中文
+    date: 2021-02-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-56165503
+    excerpt: true
+    keep: [ 夏宝龙并未明言不得反对中共, 盛传北京即将出台的整顿香港选举措施, 可被操控的选举方式, 的解释权在北京手中 ]
+  - id: n01-consulate-2021-02-22-xia-baolong
+    title: 夏宝龙：全面落实“爱国者治港”原则 推进“一国两制”实践行稳致远
+    publisher: 中国驻旧金山总领事馆网站（转载国务院港澳办主任讲话）
+    date: 2021-02-22
+    voice: official
+    url: https://sanfrancisco.china-consulate.gov.cn/lqyw/202103/t20210303_9509069.htm
+    start: 专题研讨会2月22日在北京举行
+    end: 走得更远！
+  # ---- super-ministry ----
+  - id: n01-bbc-2008-02-25-super-ministry
+    title: 中共领导人讨论行政改革整合部委
+    publisher: BBC 中文
+    date: 2008-02-25
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7260000/newsid_7263100/7263105.stm
+    excerpt: true
+    keep: [ 也称大部制改革, 他说，大部制的一个出发点, 并不是强化党对政府控制的机制 ]
+  - id: n01-voa-2008-02-19-super-ministry
+    title: 中国大部制改革 专家谈难点阻力
+    publisher: 美国之音
+    date: 2008-02-19
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2008-02-19-voa3-58932352/1103702.html
+    excerpt: true
+    keep: [ 由于牵涉到很多利益集团, 升官容易降职难, 要落实大部制，可能需要几年时间 ]
+  # ---- mass-incidents ----
+  - id: n01-rfa-2011-10-09-mass-incidents
+    title: 《洛杉矶时报》：中国的群体性事件增多，政府不得不倾听民众的呼声
+    publisher: 自由亚洲电台
+    date: 2011-10-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/yl-10092011191359.html
+    excerpt: true
+    keep: [ 中国武警学院公布的数据显示, 大多数抗议民众并没有要求改变现有的一党专制 ]
+  # ---- three-red-lines ----
+  - id: n01-dw-2021-09-21-evergrande
+    title: 专访：出现第二个恒大是可能的
+    publisher: 德国之声中文网
+    date: 2021-09-21
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%93%E8%AE%BF%E5%87%BA%E7%8E%B0%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%81%92%E5%A4%A7%E6%98%AF%E5%8F%AF%E8%83%BD%E7%9A%84/a-59260420
+    excerpt: true
+    keep: [ 这条把恒大卡死了, 让恒大的问题提前爆发了 ]
+  - id: n01-zaobao-2026-01-29-red-lines-fade
+    title: 房企“三道红线”悄然淡出 分析：政策已无实施意义
+    publisher: 联合早报
+    date: 2026-01-29
+    voice: zh
+    url: https://www.zaobao.com.sg/finance/china/story20260129-8216548
+    excerpt: true
+    keep: [ 悄然退出历史舞台, 政策已经基本退出房地产行业发展舞台, 要求房企剔除预收款的资产负债率, 被外界视为本轮中国楼市下行的起点, 政策目标已经实现 ]
+  # ---- housing-not-speculation ----
+  - id: n01-zaobao-2024-03-05-housing
+    title: 中国政府工作报告连续两年未提“房住不炒”
+    publisher: 联合早报
+    date: 2024-03-05
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20240305-1472147
+    excerpt: true
+    keep: [ 面对持续低迷的楼市, 2023年的政府工作报告中，不再有 ]
+  - id: n01-zaobao-2024-03-09-ni-hong
+    title: 中国官方再提房住不炒 强调失能房企“该破产的破产”
+    publisher: 联合早报
+    date: 2024-03-09
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240309-3133762
+    excerpt: true
+    keep: [ 倪虹在会上阐述如何构建房地产发展新模式时首先强调, 今年的中国政府工作报告连续第二年在部署工作时 ]
+  - id: n01-bbc-2024-05-21-housing
+    title: 中国出台“历史性”措施刺激房地产：未来楼市何去何从
+    publisher: BBC 中文
+    date: 2024-05-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/business-69038196
+    excerpt: true
+    keep: [ 中共十九大报告中首次出现, 几乎变为一个当代成语, 2023年7月的政治局会议 ]
+  # ---- four-winds ----
+  - id: n01-rfa-2013-06-18-four-winds
+    title: 习近平整顿“四风”，洗澡能治病？
+    publisher: 自由亚洲电台
+    date: 2013-06-18
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/aw-06182013145203.html
+    excerpt: true
+    keep: [ 又被民间舆论批为, 海外中文媒体从习近平讲话嗅出新动向, 中国每届新领导人上台都会开展整风运动 ]
+  - id: n01-nytcn-2013-12-21-criticism
+    title: 中共复兴毛时代自我批评运动
+    publisher: 纽约时报中文网
+    date: 2013-12-21
+    voice: zh
+    url: https://cn.nytimes.com/world/20131221/c23criticism/
+    excerpt: true
+    keep: [ 往好处说，这只是一场流于表面的运动, 都是假的，大家都在演戏, 全军和武警共清理出 ]

@@ -1,0 +1,321 @@
+# B22: sources for the tier-1 biographies of 邓小平、胡耀邦、陈云、宋平、李建国
+web:
+  # ---- 邓小平 ----
+  - id: b22-gov-2014-08-20-xi-deng-110
+    title: 在纪念邓小平同志诞辰110周年座谈会上的讲话
+    publisher: 中国政府网（新华社）
+    author: 习近平
+    date: 2014-08-20
+    voice: doc
+    url: https://www.gov.cn/xinwen/2014-08/20/content_2737608.htm
+    start: 同志们，朋友们：
+    end: 赢得更伟大的历史性胜利！
+  - id: b22-reformdata-1997-02-19-deng-obit
+    title: 中共中央、全国人大常委会、国务院、全国政协、中央军委告全党全军全国各族人民书
+    publisher: 中国改革信息库（新华社）
+    date: 1997-02-19
+    voice: doc
+    url: http://www.reformdata.org/1997/0219/4462.shtml
+    start: （一九九七年二月十九日）
+    end: 邓小平同志永垂不朽！
+  - id: b22-reformdata-1992-01-18-southern-talks
+    title: 在武昌、深圳、珠海、上海等地的谈话要点
+    publisher: 中国改革信息库（《邓小平文选》第三卷）
+    author: 邓小平
+    date: 1992-01-18
+    voice: doc
+    url: http://www.reformdata.org/1992/0118/1801.shtml
+    start: 邓小平文选第三卷
+    end: 责任大啊！
+  - id: b22-reformdata-1980-08-18-leadership-reform
+    title: 党和国家领导制度的改革
+    publisher: 中国改革信息库（《邓小平文选》第二卷）
+    author: 邓小平
+    date: 1980-08-18
+    voice: doc
+    url: http://www.reformdata.org/1980/0818/5189.shtml
+    start: 邓小平文选第二卷
+    end: 政治局讨论通过。
+  - id: b22-nyt-1997-02-20-deng-obit
+    title: Deng Xiaoping, Architect of Modern China, Dies at 92
+    publisher: The New York Times
+    author: Patrick E. Tyler
+    date: 1997-02-20
+    voice: west
+    lang: en
+    url: https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/bday/0822.html
+    excerpt: true
+    keep: [ Few if any figures, Tiananmen Square, Hu Yaobang, Zhao Ziyang, Jiang Zemin ]
+  - id: b22-voa-2024-08-21-deng-120
+    title: 中共如何纪念邓小平诞辰120周年
+    publisher: 美国之音
+    date: 2024-08-21
+    voice: zh
+    url: https://www.voachinese.com/a/how-china-commemorates-deng-xiaoping-s-120th-birthday-anniversary-20240821/7751302.html
+    excerpt: true
+    keep: [ 张弘远, 放权让利, 集权兴利 ]
+  - id: b22-bbc-2024-08-22-deng-120
+    title: 邓小平诞辰120周年：习近平如何重新诠释邓的遗产
+    publisher: BBC中文
+    date: 2024-08-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-69287787
+    excerpt: true
+    keep: [ 余茂春, 韬光养晦, 默萨 ]
+  - id: b22-nytcn-2014-08-29-deng-drama
+    title: 电视剧《邓小平》引发争议
+    publisher: 纽约时报中文网
+    date: 2014-08-29
+    voice: zh
+    url: https://cn.nytimes.com/china/20140829/c29drama/
+    excerpt: true
+    keep: [ 华国锋, 历史转折中的邓小平, 潘佐夫 ]
+  - id: b22-bbc-2014-08-15-deng-tv
+    title: 卫报：中国官方电视剧为邓小平立碑
+    publisher: BBC中文
+    date: 2014-08-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/08/140815_press_dengtv_guardian
+    excerpt: true
+    keep: [ 历史转折中的邓小平, 华国锋, 卫报 ]
+  - id: b22-xinhua-2009-07-29-zhuo-lin
+    title: 卓琳同志逝世
+    publisher: 新华网
+    date: 2009-07-29
+    voice: official
+    url: https://web.archive.org/web/20160303175633/http:/news.xinhuanet.com/politics/2009-07/29/content_11793498.htm
+    start: 新华网北京７月２９日电
+    end: 独立功勋荣誉章。
+  # ---- 胡耀邦 ----
+  - id: b22-people-2005-11-18-zeng-hu-90
+    title: 在纪念胡耀邦同志诞辰90周年座谈会上的讲话
+    publisher: 人民网（新华社）
+    author: 曾庆红
+    date: 2005-11-18
+    voice: doc
+    url: http://dangshi.people.com.cn/n/2013/0412/c85037-21118362.html
+    start: 同志们，朋友们：
+    end: 而努力奋斗！
+  - id: b22-bbc-2005-11-18-hu-90
+    title: 中国领导人举行仪式纪念胡耀邦诞辰
+    publisher: BBC中文网
+    date: 2005-11-18
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4440000/newsid_4448000/4448024.stm
+    excerpt: true
+    keep: [ 不公开的纪念活动, 部分敏感人物被剔除, 16年来不曾有过任何纪念活动, 或许希望借此抬高自己 ]
+  - id: b22-bbc-2009-04-15-hu-20th
+    title: 胡耀邦的尴尬
+    publisher: BBC中文网
+    date: 2009-04-15
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7990000/newsid_7998800/7998868.stm
+    excerpt: true
+    keep: [ 年轻一代几乎遗忘, 西藏应主要由藏族人自己管, 唯一对中共在西藏的统治表示歉意, 被迫辞职下台，引起, 这一禁就是16年, 在最后一刻决定不出席, 哪怕是毛泽东批的 ]
+  - id: b22-people-2010-04-15-wen-xingyi
+    title: 再回兴义忆耀邦
+    publisher: 人民日报
+    author: 温家宝
+    date: 2010-04-15
+    voice: witness
+    url: https://web.archive.org/web/20100417180759/http:/politics.people.com.cn/GB/1024/11370436.html
+    excerpt: true
+    keep: [ 情不自禁地想起24年前, 1986年年初，耀邦同志决定, 我刚调任中央办公厅副主任不久 ]
+  - id: b22-nytcn-1989-04-15-hu-obit
+    title: 胡耀邦逝世，终年73岁
+    publisher: 纽约时报中文网（1989年讣闻译文）
+    date: 1989-04-15
+    voice: zh
+    url: https://cn.nytimes.com/china/20160603/c03hu-obit/
+    excerpt: true
+    keep: [ 门生, 检讨 ]
+  - id: b22-gov-2025-11-20-xi-hu-110
+    title: 在纪念胡耀邦同志诞辰110周年座谈会上的讲话
+    publisher: 中国政府网（新华社）
+    author: 习近平
+    date: 2025-11-20
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202511/content_7049113.htm
+    start: 同志们，朋友们：
+    end: 变成美好现实。
+  - id: b22-gov-2025-11-20-hu-110-meeting
+    title: 中共中央举行纪念胡耀邦同志诞辰110周年座谈会
+    publisher: 中国政府网（新华社）
+    date: 2025-11-20
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202511/content_7049111.htm
+    start: 新华社北京11月20日电
+    end: 家乡代表等参加座谈会。
+  - id: b22-rfa-2017-03-13-li-zhao
+    title: 胡德华：家属期待母亲与父亲胡耀邦合葬共青城
+    publisher: 自由亚洲电台
+    date: 2017-03-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-03132017104516.html
+    excerpt: true
+    keep: [ 李昭本名李淑秀, 已故中共前总书记胡耀邦的妻子李昭 ]
+  # ---- 陈云 ----
+  - id: b22-cctv-2005-06-13-hu-chen-100
+    title: 在陈云同志诞辰100周年纪念大会上的讲话
+    publisher: 央视国际（新华社）
+    author: 胡锦涛
+    date: 2005-06-13
+    voice: doc
+    url: https://news.cctv.com/news/china/20050613/102442.shtml
+    start: 新华社北京６月１３日电
+    end: 广阔道路上奋勇前进！
+  - id: b22-people-2015-06-12-xi-chen-110
+    title: 在纪念陈云同志诞辰110周年座谈会上的讲话
+    publisher: 人民网（新华社）
+    author: 习近平
+    date: 2015-06-12
+    voice: doc
+    url: http://politics.people.com.cn/n/2015/0612/c1024-27147607.html
+    start: 同志们，朋友们：
+    end: 最好纪念。
+  - id: b22-news-2025-06-13-xi-chen-120
+    title: 在纪念陈云同志诞辰120周年座谈会上的讲话
+    publisher: 新华网
+    author: 习近平
+    date: 2025-06-13
+    voice: doc
+    url: https://www.news.cn/politics/leaders/20250613/b4fc217af5184df19580c815e4949feb/c.html
+    start: 同志们，朋友们：
+    end: 而不懈奋斗！
+  - id: b22-nyt-1995-04-12-chen-yun-obit
+    title: Chen Yun, Who Slowed China's Shift to Market, Dies at 89
+    publisher: The New York Times
+    author: Patrick E. Tyler
+    date: 1995-04-12
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2023/https://www.nytimes.com/1995/04/12/obituaries/chen-yun-who-slowed-china-s-shift-to-market-dies-at-89.html
+    excerpt: true
+    keep: [ Chen Yun, bird cage, Deng ]
+  - id: b22-jiemian-2015-06-chen-yun
+    title: 陈云与邓小平：一个大胆向前，一个小心向前
+    publisher: 界面（《中国新闻周刊》）
+    date: 2015-06-12
+    voice: official
+    url: https://www.jiemian.com/article/318747.html
+    excerpt: true
+    keep: [ 傅高义, 鸟笼, 笼子 ]
+  - id: b22-zjrb-2006-03-07-yu-ruomu
+    title: 于若木同志逝世
+    publisher: 浙江日报（新华社）
+    date: 2006-03-07
+    voice: official
+    url: https://zjrb.zjol.com.cn/html/2006-03/07/content_54753.htm
+    start: 据新华社北京3月6日电
+    end: 全国政协委员。
+  # ---- 宋平 ----
+  - id: b22-gov-2026-03-04-song-ping-death
+    title: 宋平同志逝世
+    publisher: 中国政府网（新华社）
+    date: 2026-03-04
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202603/content_7060428.htm
+    start: 新华社北京3月4日电
+    end: 享年109岁。
+  - id: b22-gov-2026-03-10-song-ping-farewell
+    title: 宋平同志遗体在京火化
+    publisher: 中国政府网（新华社）
+    date: 2026-03-10
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202603/content_7061906.htm
+    start: 新华社北京3月10日电
+    end: 家乡代表也前往送别。
+  - id: b22-st-2026-03-04-song-ping-reuters
+    title: Chinese Communist Party elder Song Ping dies aged 109
+    publisher: The Straits Times（Reuters）
+    date: 2026-03-04
+    voice: west
+    lang: en
+    url: https://www.straitstimes.com/asia/chinese-communist-party-elder-song-ping-dies-aged-109
+    excerpt: true
+    keep: [ Hu Jintao, Song, 109 ]
+  - id: b22-cna-2026-03-04-song-ping
+    title: 中共元老宋平逝世 享壽109歲
+    publisher: 中央通讯社
+    date: 2026-03-04
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202603040359.aspx
+    excerpt: true
+    keep: [ 宋平, 胡錦濤 ]
+  - id: b22-aboluowang-2026-01-22-song-letter
+    title: 网传中共元老宋平给习近平的一封信
+    publisher: 阿波罗新闻网
+    date: 2026-01-22
+    voice: zh
+    rumor: true
+    url: https://www.aboluowang.com/2026/0122/2338068.html
+    excerpt: true
+    keep: [ 一个108岁的老党员, 实际上等同于被软禁在家 ]
+  - id: b22-chinanews-2019-08-03-chen-shunyao
+    title: 宋平夫人、清华大学原副书记陈舜瑶去世 享年102岁
+    publisher: 中国新闻网
+    date: 2019-08-03
+    voice: official
+    url: https://www.chinanews.com/gn/2019/08-03/8915967.shtml
+    excerpt: true
+    keep: [ 宋平夫人陈舜瑶同志, 1953年初 ]
+  # ---- 李建国 ----
+  - id: b22-people-2013-03-18-li-jianguo-resume
+    title: 李建国简历
+    publisher: 人民网（新华社）
+    date: 2013-03-18
+    voice: official
+    url: http://npc.people.com.cn/n/2013/0318/c15257-20820773.html
+    start: 李建国 男，汉族
+    end: （人民网资料，2013年3月）
+  - id: b22-xinhua-2013-03-01-li-jianguo-acftu
+    title: 李建国当选中华全国总工会主席
+    publisher: 新华网
+    date: 2013-03-01
+    voice: official
+    url: https://web.archive.org/web/20130305112410/http:/news.xinhuanet.com/politics/2013lh/2013-03/01/c_114857590.htm
+    start: 新华网北京３月１日电
+    end: 充分发挥工会组织的作用。
+  - id: b22-xinhua-2018-03-22-wang-dongming-acftu
+    title: 王东明当选中华全国总工会主席
+    publisher: 新华网
+    date: 2018-03-22
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018-03/22/c_1122577886.htm
+    start: 新华社北京3月22日电
+    end: 李玉赋主持会议。
+  - id: b22-ifeng-2007-03-27-li-jianguo-shandong
+    title: 李建国：不辜负党中央重托和山东父老期望
+    publisher: 凤凰网（大众日报）
+    date: 2007-03-27
+    voice: official
+    url: https://news.ifeng.com/mainland/200703/0327_17_93608.shtml
+    start: 今天下午，中共山东省委召开全省领导干部会议
+    end: 衷心祝愿山东人民幸福安康！
+  - id: b22-bbc-2013-01-29-li-jianguo
+    title: 中国官媒报道李建国露面意在辟谣
+    publisher: BBC中文
+    date: 2013-01-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/01/130129_china_anticorruption_news
+    excerpt: true
+    keep: [ 李建国, 李瑞环 ]
+  - id: b22-rfa-2019-02-04-gaoxin-li-jianguo
+    title: 赵正永之后的“大概率事件”是李建国落马？
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2019-02-04
+    voice: zh
+    rumor: true
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02042019150105.html
+    excerpt: true
+    keep: [ 担任陕西省委一把手持续时间最长的是李建国, 等于是李瑞环的大管家, 一秘“出身, 姪女李茜, 已经退休的李建国被适时抛出 ]
+  - id: b22-rfi-2012-12-17-li-jianguo-report
+    title: 全國人大副委員長李建國被網友舉報違反人事制度提拔親戚
+    publisher: 法国国际广播电台
+    author: 曹國星
+    date: 2012-12-17
+    voice: zh
+    url: https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20121217-%E5%85%A8%E5%9C%8B%E4%BA%BA%E5%A4%A7%E5%89%AF%E5%A7%94%E5%93%A1%E9%95%B7%E6%9D%8E%E5%BB%BA%E5%9C%8B%E8%A2%AB%E7%B6%B2%E5%8F%8B%E8%88%89%E5%A0%B1%E9%81%95%E5%8F%8D%E4%BA%BA%E4%BA%8B%E5%88%B6%E5%BA%A6%E6%8F%90%E6%8B%94%E8%A6%AA%E6%88%9A
+    excerpt: true
+    keep: [ 韓寵光, 外甥女婿, 李瑞環的秘書, 陝西政壇人士 ]

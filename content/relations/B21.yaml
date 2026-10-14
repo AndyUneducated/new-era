@@ -1,0 +1,85 @@
+# B21: relations for the army (II) and Beijing biographies.
+- a: fang-fenghui
+  b: zhang-yang
+  kind: colleague
+  text: 2004 年 12 月起房峰辉任广州军区参谋长、张阳任军区政治部主任，在一个班子里搭档近 3 年；2012 年起两人分掌总参、总政，2017 年几乎同时落马。
+  from: 2004-12
+  to: 2017-08
+  cite: b21-sina-2017-11-28-zhang-xu
+  quote: 两人在一个班子里搭档了近3年
+- a: liu-xiaojiang
+  b: wu-shengli
+  kind: rival
+  text: 据看中国（传闻），海军原政委刘晓江 2015 年实名举报吴胜利贪腐；官方未证实。
+  from: 2015
+  cite: b21-secretchina-2020-10-01-wu-reception
+  quote: 海军刚退的上将政委刘晓江（胡耀邦的女婿）实名举报吴胜利贪腐
+- a: wu-shengli
+  b: miao-hua
+  kind: colleague
+  text: 2014 年 12 月苗华接替刘晓江任海军政委，与海军司令员吴胜利搭档至 2017 年 1 月。
+  from: 2014-12
+  to: 2017-01
+  cite: f06-thepaper-2015-02-27-generals-npc
+  quote: 中央军委委员、海军司令员吴胜利与第18、19批护航编队视频通话，海军政治委员苗华主持
+- a: ma-xiaotian
+  b: ding-laihang
+  kind: colleague
+  text: 两人都出自空军航空兵第 24 师；2017 年 8 月丁来杭接替马晓天任空军司令员。
+  cite: b21-infzm-2017-09-three-services
+  quote: 丁来杭和马晓天一样，都出自空24师
+- a: hu-jintao
+  b: guo-jinlong
+  kind: patron
+  text: BBC 称据信郭金龙是胡锦涛的政治盟友；2012 年 7 月郭金龙接任北京市委书记，路透社分析这可让胡锦涛交班后保留影响。
+  from: 2000
+  to: 2012
+  cite: b21-bbc-2012-07-03-guo-beijing
+  quote: 据信，郭金龙是中国国家主席胡锦涛的政治盟友。
+- a: liu-qi
+  b: guo-jinlong
+  kind: colleague
+  text: 2007 年 11 月至 2012 年 7 月，刘淇任北京市委书记，郭金龙任代市长、市长；2012 年 7 月郭金龙接替刘淇任市委书记。
+  from: 2007-11
+  to: 2012-07
+  cite: b21-ce-2012-07-03-liu-qi-out
+  quote: 刘淇不再担任北京市委书记
+- a: liu-qi
+  b: wang-qishan
+  kind: colleague
+  text: 2003 年 4 月非典疫情中王岐山接替孟学农任北京市长，在以刘淇为“班长”的市委领导下工作，至 2007 年 11 月。
+  from: 2003-04
+  to: 2007-11
+  cite: b21-sina-2003-04-21-beijing-cadres
+  quote: 在以刘淇同志为“班长”的市委领导下
+- a: liu-qi
+  b: meng-xuenong
+  kind: colleague
+  text: 2003 年 1–4 月孟学农任北京市长、刘淇任市委书记；4 月 20 日中央以非典处置不力撤换孟学农，刘淇主持会议并作自我批评。
+  from: 2003-01
+  to: 2003-04
+  cite: b21-sina-2003-04-21-beijing-cadres
+  quote: 免去孟学农同志的北京市委副书记、常委、委员职务
+- a: jia-qinglin
+  b: liu-qi
+  kind: colleague
+  text: 1998 年 3 月至 2002 年 10 月刘淇任北京市委副书记，市委书记是贾庆林；2002 年 10 月刘淇接任书记。2006 年《纽约时报》把两人同列为北京反腐调查的可能目标。
+  from: 1998-03
+  to: 2002-10
+  cite: b21-nyt-2006-10-27-beijing-inquiry
+  quote: a former party secretary of Beijing, as well as the current Beijing party secretary, Liu Qi
+- a: guo-jinlong
+  b: ji-lin
+  kind: colleague
+  text: 吉林任北京市副市长，2012 年 7 月 25 日北京市人大在暴雨后同时接受郭金龙辞去市长、吉林辞去副市长。
+  to: 2012-07
+  cite: b21-bbc-2012-07-25-guo-mayor
+  quote: 北京市人大常委會周三（25日）接受北京市長郭金龍和副市長吉林的辭職
+- a: guo-jinlong
+  b: cai-qi
+  kind: colleague
+  text: 2016 年 10 月蔡奇任北京市代市长、2017 年 1 月任市长，在市委书记郭金龙手下工作；2017 年 5 月接替郭金龙任市委书记。
+  from: 2016-10
+  to: 2017-05
+  cite: b21-xinhua-2017-05-27-guo-cai
+  quote: 2016年10月任北京市代市长，2017年1月任北京市市长
