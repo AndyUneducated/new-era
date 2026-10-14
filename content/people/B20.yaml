@@ -1,0 +1,532 @@
+# B20: full biographies of five generals who served as defence minister or chief of the general staff, copied from C01 and expanded to tier 1.
+- id: chi-haotian
+  name: 迟浩田
+  pinyin: Chí Hàotián
+  gender: m
+  ethnicity: 汉族
+  born: 1929-07-09
+  birthplace: 山东招远
+  education:
+    - { school: 解放军总高级步兵学校, from: 1958, to: 1959 }
+    - { school: 解放军军事学院合成系, degree: 大专, from: 1959, to: 1960 }
+  joinedParty: 1946-10
+  joinedWork: 1944-06
+  roles: [pb, cmc, cc, general, minister]
+  status: retired
+  statusNote: 2002 年 11 月卸任政治局委员和党的军委副主席，2003 年 3 月卸任国家军委副主席和国务委员兼国防部长后退休；2026 年 2 月仍在新华社春节看望老同志名单中。
+  tier: 1
+  headline: 中央军委副主席、国务委员兼国防部长（1993–2003）
+  bio: >-
+    山东招远人，1945 年入伍，在胶东战场当过战斗模范，后随第 27 军入朝，是政工干部出身。
+    文革后期先后进入《解放军报》和《人民日报》领导班子，1977 年任副总参谋长，1987 年任总参谋长。1989 年北京戒严时，他是戒严部队指挥部成员。
+    1993 年起任国务委员兼国防部长十年，1995 年增补为军委副主席，1997 年进入政治局，此后与张万年同为江泽民身边的两名军人副主席。
+    1996 年 12 月访美时，他在美国国防大学说天安门广场上没有一个人丧生，这句话一直被外界引用。2003 年退休。
+  positions:
+    - { title: 陆军第 27 军第 81 师政委, sys: army, from: 1970, to: 1973, cite: c01-people-2013-02-26-chi-haotian }
+    - { title: 北京军区副政委, sys: army, from: 1973-12, to: 1977-10, cite: b20-wiki-chi-haotian }
+    - { title: 人民日报社负责人、副总编辑, sys: other, from: 1976-10, to: 1977, cite: b20-wiki-chi-haotian }
+    - { title: 解放军副总参谋长, sys: army, from: 1977-10, to: 1985-05, cite: b20-wiki-chi-haotian }
+    - { title: 济南军区政委, sys: army, from: 1985-05, to: 1987-11, cite: b20-wiki-chi-haotian }
+    - { title: 解放军总参谋长, sys: army, from: 1987-11, to: 1992, cite: c01-people-2013-02-26-chi-haotian }
+    - { title: 中央军委委员, sys: army, from: 1988, to: 1995-09, cite: c01-people-2013-02-26-chi-haotian }
+    - { title: 国务委员兼国防部部长, sys: gov, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-chi-haotian }
+    - { title: 中央军委副主席, sys: army, from: 1995-09, to: 2003-03, cite: c01-people-2013-02-26-chi-haotian }
+    - { title: 中央政治局委员, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-chi-haotian }
+  life:
+    - h: 胶东小兵
+      from: 1929
+      to: 1950
+      text: >-
+        1929 年 7 月生于山东招远，1944 年 6 月在家乡区中队当文书，1945 年 7 月入伍，1946 年 10 月入党。
+        维基百科记载，1946 年 6 月攻打胶县县城时，他从城墙上跳下追俘三名敌兵，战后向连队汇报说“我感到打仗很有意思，要想获胜就得往上冲，不怕死！”，后来被评为战斗模范。
+        此后他在华东九纵和三野第 27 军第 79 师第 235 团当连队文书、指导员，随军南下。
+      cites: [c01-people-2013-02-26-chi-haotian, b20-wiki-chi-haotian]
+    - h: 第二十七军
+      from: 1950
+      to: 1970
+      text: >-
+        1950 年随志愿军第 27 军入朝，任第 235 团三营教导员、团政治处副主任，1952 年荣立一等功。回国后历任第 235 团政治处主任、副政委、团政委，第 79 师政治部主任、副政委和第 27 军政治部副主任；
+        其间 1958 至 1960 年先后在总高级步兵学校和军事学院合成系学习。人民网的简历说他喜爱读中外文学名著、鲁迅著作和军事书籍，擅长游泳、骑马、摔跤，还当过中国摔跤协会名誉主席。
+      cites: [c01-people-2013-02-26-chi-haotian]
+    - h: 两报
+      from: 1970
+      to: 1977
+      text: >-
+        1970 年任第 27 军第 81 师政委。维基百科称，九一三事件后他调入《解放军报》社任核心小组成员、副总编辑，分管政工；1973 年 12 月任北京军区副政委，1976 年率北京军区部队参加唐山大地震救灾。
+        1976 年 10 月“四人帮”被捕后，他兼任《人民日报》社工作组组长、第一总编辑，前后一年零二十天。官方简历把这几年合写为“北京军区副政委，《人民日报》社负责人、副总编辑”。
+      cites: [c01-people-2013-02-26-chi-haotian, b20-wiki-chi-haotian]
+    - h: 总参谋长
+      from: 1977
+      to: 1992
+      text: >-
+        1977 年 10 月任副总参谋长兼总参政治部主任，1982 年免去兼职，1985 年 5 月任济南军区政委。1987 年 11 月任总参谋长，次年进入中央军委，1988 年 9 月恢复军衔制时被授予上将。
+        1989 年 5 月北京戒严，维基百科称戒严部队在总指挥刘华清、副指挥迟浩田的指挥下进行了清场。据华夏文摘刊载的《六四军人列传》（传闻），戒严部队指挥部由刘华清、迟浩田和北京军区司令员周衣冰组成，他是“三巨头”之一。
+      cites: [c01-people-2013-02-26-chi-haotian, b20-wiki-chi-haotian, b20-cnd-2009-05-19-pla-1989]
+    - h: 国防部长
+      from: 1993
+      to: 1997
+      text: >-
+        1993 年 3 月任国务委员兼国防部长，10 月兼任国防法起草委员会主任。1995 年 9 月十四届五中全会增补他为军委副主席。
+        1996 年 12 月他访问华盛顿，在美国国防大学的演讲会上被问到六四，回答说可以负责任地、认真地讲，当时天安门广场上没有一个人丧生。《洛杉矶时报》评论说，中国领导人说的“天安门广场”只指围栏以内的区域；北京没有证明围栏内无人死亡，外国人也没有证明有人死在里面。
+      cites: [c01-people-2013-02-26-chi-haotian, b20-latimes-1996-12-27-tiananmen]
+    - h: 政治局委员
+      from: 1997
+      to: 2003
+      text: >-
+        1997 年 9 月十五大当选政治局委员，与张万年同任军委副主席，1998 年 3 月连任国防部长。2000 年 3 月在人大解放军代表团发言时，他要求全军“坚决维护以江泽民同志为核心的党中央、中央军委的权威”。
+        2001 年 8 月在北戴河会见美国参议员拜登，说美国发展导弹防御系统“美国的理由是站不住脚的”。2002 年 11 月十六届一中全会后，74 岁的他卸任政治局委员和党的军委副主席，2003 年 3 月卸任国家职务退休，国防部长由曹刚川接任。
+      cites: [k01-xinhua-1997-09-19-15-1-plenum, b20-rmrb-2000-03-07-chi-npc, b20-rmrb-2001-08-09-chi-biden, b20-wiki-chi-haotian, k06-wiki-dong-jun]
+    - h: 退休以后
+      from: 2003
+      to: 2026
+      text: >-
+        退休后他以老同志身份出席重大场合，2008 年北京奥运会开幕式、2012 年十八大期间胡锦涛会见军队代表时都在列。
+        据大纪元 2005 年的一档节目（传闻），网上流传过两篇署名迟浩田的内部讲话《战争正在向我们走来》和《战争离我们不远，它是中华世纪的产婆》，节目主持人也承认很多人怀疑其真实性，官方从未承认这两篇讲话。
+        2009 年解放军出版社出版《迟浩田军事文选》。2023 年 6 月夫人姜青萍去世；2026 年 2 月新华社春节看望老同志的名单里仍有他。
+      cites: [e02-consulate-2008-08-08-olympics, b02-people-2012-11-18-cmc-meeting, b20-epoch-2005-08-25-chi-speech, b20-wiki-chi-haotian, b20-thepaper-2023-06-05-jiang-qingping, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: official
+      quote: true
+      text: 身居高位之后，迟浩田尤其注意对家人的严格要求，从不让家人享受任何特殊照顾。
+      cite: b20-thepaper-2023-06-05-jiang-qingping
+    - voice: west
+      quote: true
+      text: When China’s leaders claim that no one died “in Tiananmen Square,” they mean the area inside the fence. And while Beijing has not proved that no one died inside the fence, foreigners have not proved that anyone did.
+      zh: 中国领导人说“天安门广场”上没有人死亡时，指的是围栏以内的区域。北京没有证明围栏内无人死亡，外国人也没有证明有人死在里面。
+      cite: b20-latimes-1996-12-27-tiananmen
+    - voice: wiki
+      quote: true
+      text: 长久以来，迟浩田都被指是六四天安门事件的关键人物。
+      cite: b20-wiki-chi-haotian
+  family:
+    - name: 姜青萍
+      rel: 妻子
+      text: 江苏常州人，海军总医院医生，原总参谋部管理局第二服务处副主任医师，专业技术五级离休干部。澎湃新闻称她有 50 年党龄、军龄，退休时只是海军医院放射科主任。2023 年 6 月 4 日病逝，享年 90 岁。
+      cites: [b20-thepaper-2023-06-05-jiang-qingping, b20-wiki-chi-haotian]
+    - name: 迟星北
+      rel: 儿子
+      text: 1957 年 9 月生，2008 年晋升少将。维基百科称他历任总参通信部政治部主任、南京陆军指挥学院政治部主任、总装备部陆军装备科研订购部政委，2016 年 2 月任陆军首任后勤部政委。
+      cites: [b20-wiki-chi-haotian]
+    - name: 迟星红
+      rel: 女儿
+      text: 维基百科只列出姓名，未见公开职务。
+      cites: [b20-wiki-chi-haotian]
+  ids: { wikidata: Q983848 }
+  cites: [wd-Q983848, c01-people-2013-02-26-chi-haotian, b20-thepaper-2023-06-05-jiang-qingping, b20-latimes-1996-12-27-tiananmen, b19-xinhua-2026-02-13-old-comrades]
+
+- id: cao-gangchuan
+  name: 曹刚川
+  pinyin: Cáo Gāngchuān
+  gender: m
+  ethnicity: 汉族
+  born: 1935-12-09
+  birthplace: 河南舞钢
+  education:
+    - { school: 解放军南京第三炮兵军械技术学校、第一军械技术学校, from: 1954-07, to: 1956-11 }
+    - { school: 解放军大连俄语专科学校, from: 1956-11, to: 1957-09 }
+    - { school: 苏联炮兵军事工程学院, degree: 大学, from: 1957-09, to: 1963-10 }
+  joinedParty: 1956-07
+  joinedWork: 1954-07
+  roles: [pb, cmc, cc, general, minister]
+  status: retired
+  statusNote: 2007 年十七大退出政治局和军委，2008 年 3 月卸任国务委员兼国防部长；2026 年 2 月仍在新华社春节看望老同志名单中。
+  tier: 1
+  headline: 中央军委副主席（2002–2007）、国防部长（2003–2008）
+  bio: >-
+    河南舞钢人，1954 年入伍学军械，在苏联炮兵军事工程学院读了六年，回国后在总后、总参的军械和装备部门干了近三十年，是解放军中少见的技术装备型将领。
+    1990 年起主管军品贸易，后任副总参谋长、国防科工委主任，1998 年任新组建的总装备部部长并进入军委，同时是载人航天工程总指挥。
+    2002 年十六大成为政治局委员、军委副主席，次年接替迟浩田任国防部长。任内在北京接待美国国防部长拉姆斯菲尔德；2007 年反卫星试验后，他对日方表示中国没有再做类似试验的计划。2008 年退休。
+  positions:
+    - { title: 解放军总参谋部装备部副部长, sys: army, from: 1982-08, to: 1989-07, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 解放军总参谋部军务部部长, sys: army, from: 1989-07, to: 1990-08, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 中央军委军品贸易办公室主任, sys: army, from: 1990-08, to: 1992-11, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 解放军副总参谋长, sys: army, from: 1992-11, to: 1996-11, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 国防科学技术工业委员会主任, sys: army, from: 1996-11, to: 1998-04, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 解放军总装备部部长, sys: army, from: 1998-04, to: 2002-11, cite: b20-xinhua-2002-11-16-cao-cv }
+    - { title: 中央军委委员, sys: army, from: 1998-10, to: 2002-11, cite: k01-xinhua-1998-10-14-15-3-plenum }
+    - { title: 中央军委副主席, sys: army, from: 2002-11, to: 2007-10, cite: k01-xinhua-2002-11-15-16-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: k01-xinhua-2002-11-15-16-1-plenum }
+    - { title: 国务委员兼国防部部长, sys: gov, from: 2003-03, to: 2008-03, cite: c01-gov-2018-03-19-state-council-history }
+  factions:
+    - f: equipment-system
+      cite: b20-xinhua-2002-11-16-cao-cv
+      quote: 中央军委委员，解放军总装备部部长、党委书记
+      rank: backbone
+  life:
+    - h: 留苏
+      from: 1935
+      to: 1963
+      text: >-
+        1935 年 12 月生于河南舞钢，1954 年 7 月入伍，先后在南京第三炮兵军械技术学校和第一军械技术学校学习，1956 年留校当教员，同年 7 月入党。
+        随后进大连俄语专科学校学俄语，1957 年 9 月赴苏联炮兵军事工程学院留学，1963 年 10 月回国。胡佛研究所《中国领导观察》的 James Mulvenon 写道，他是被挑出来专门学俄语、准备赴苏深造六年的人。
+      cites: [b20-xinhua-2002-11-16-cao-cv, b20-hoover-cao-biography]
+    - h: 军械与装备
+      from: 1963
+      to: 1990
+      text: >-
+        回国后在总后勤部军械部弹药处、装备部兵工处当了十二年助理员，整个文革都在这个岗位上。1975 年 10 月转到总参谋部装备部，从综合计划处参谋、副处长做起，1982 年 8 月升任装备部副部长，1989 年 7 月任总参军务部部长。
+        Mulvenon 引述接近曹刚川的人士说，他在装备部任职期间经常随采购代表团去欧洲和俄国。
+      cites: [b20-xinhua-2002-11-16-cao-cv, b20-hoover-cao-biography]
+    - h: 军品贸易
+      from: 1990
+      to: 1998
+      text: >-
+        1990 年 8 月出任中央军委军品贸易办公室主任。Mulvenon 认为，1989 年之后，正是他在这个位置上直接主管对外军品买卖。
+        1992 年 11 月升任副总参谋长，1996 年 11 月调任国防科学技术工业委员会主任。1998 年 4 月解放军组建总装备部，他出任部长；10 月十五届三中全会增补他为中央军委委员。
+      cites: [b20-xinhua-2002-11-16-cao-cv, b20-hoover-cao-biography, k01-xinhua-1998-10-14-15-3-plenum]
+    - h: 总装与航天
+      from: 1998
+      to: 2002
+      text: >-
+        总装备部统管全军武器装备的发展计划、科研试验和订购，也负责载人航天和卫星发射。他是载人航天工程的第二任总指挥，前任是丁衡高，后由李继耐接任。
+        2002 年 11 月十六大上他当选政治局委员，十六届一中全会决定他与郭伯雄同任中央军委副主席；新华社当时公布的简历仍写他兼任总装备部部长、党委书记。
+      cites: [f10-wiki-xu-xueqiang, b20-xinhua-2002-11-16-cao-cv, k01-xinhua-2002-11-15-16-1-plenum]
+    - h: 国防部长
+      from: 2003
+      to: 2006
+      text: >-
+        2003 年 3 月接替迟浩田任国务委员兼国防部长。2004 年 7 月建军节招待会上，他说台独没有和平、分裂没有稳定，“中国的主权和领土完整是至高无上的”，如果台独势力一意孤行，解放军有决心、有能力粉碎任何台独图谋。
+        2005 年 10 月 19 日他在八一大楼与美国国防部长拉姆斯菲尔德会谈。BBC 报道，拉姆斯菲尔德是 39 年来第一个获准参观二炮部队的外国访客，曹刚川则坚持中国当年公布的 302 亿美元就是实际国防预算。
+      cites: [k06-wiki-dong-jun, b20-sina-2004-07-31-cao-taidu, b20-sina-2005-10-19-cao-rumsfeld, b20-bbc-2005-10-20-rumsfeld]
+    - h: 反卫星试验
+      from: 2007-01
+      to: 2007-02
+      text: >-
+        2007 年 1 月 11 日，中国用弹道导弹击毁一颗旧气象卫星，近两周后才承认。2 月 12 日他会见日本前防卫厅长官额贺福志郎，据额贺转述，他说这次试验不针对任何国家，中国没有再次进行类似实验的计划。
+        美国之音注意到新华社报道这次会见时对这一表态只字不提；旧金山大学的乌海利教授认为这很反常，或许说明中国高层在这个问题上意见不一。
+      cites: [b20-bbc-2007-02-12-cao-asat, b20-voa-2007-02-12-cao-asat]
+    - h: 退休
+      from: 2007
+      to: 2026
+      text: >-
+        2007 年 10 月十七大退出政治局和军委。Mulvenon 分析十七大军队人事时记下，他把军委副主席一职交给了前总政治部主任徐才厚，国防部长一职很可能交给即将卸任总参谋长的梁光烈；2008 年 3 月梁光烈果然接任国防部长。
+        此后他以老同志身份出席北京奥运会开幕式、十八大期间会见军队代表等场合；2026 年 2 月新华社春节看望老同志的名单中仍有他。
+      cites: [b20-docslib-2008-clm23-mulvenon, k06-wiki-dong-jun, e02-consulate-2008-08-08-olympics, b02-people-2012-11-18-cmc-meeting, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: scholar
+      quote: true
+      text: During this period, sources close to General Cao confirm that he often traveled to Europe and Russia on procurement delegations. After Tiananmen in 1989, General Cao directly oversaw this commerce as director of the Office of Military Trade under the Central Military Commission.
+      zh: 接近曹将军的消息人士证实，这一时期他经常随采购代表团前往欧洲和俄国。1989 年天安门事件之后，曹将军以中央军委军品贸易办公室主任的身份直接主管这类买卖。
+      cite: b20-hoover-cao-biography
+    - voice: zh
+      quote: true
+      text: 旧金山大学的乌海利教授说，曹刚川的最新表态本来是很有新闻价值的事件，但新华社在报导中却对这一表态只字不提。他认为，这是一种很反常的现象，或许意味着中国高层内部在这个问题上的观点存在分歧。
+      cite: b20-voa-2007-02-12-cao-asat
+  ids: { wikidata: Q709846 }
+  cites: [wd-Q709846, c01-ce-2007-05-21-cao-gangchuan, c01-gov-2018-03-19-state-council-history, b20-xinhua-2002-11-16-cao-cv, b20-hoover-cao-biography, b20-bbc-2007-02-12-cao-asat, b19-xinhua-2026-02-13-old-comrades]
+
+- id: liang-guanglie
+  name: 梁光烈
+  pinyin: Liáng Guāngliè
+  gender: m
+  ethnicity: 汉族
+  born: 1940-12-09
+  died: 2024-11-12
+  birthplace: 四川三台
+  joinedParty: 1959-11
+  joinedWork: 1958-01
+  roles: [cmc, cc, general, minister]
+  status: dead
+  statusNote: 2024 年 11 月 12 日在北京病逝，享年 84 岁。
+  tier: 1
+  headline: 国务委员兼国防部长（2008–2013）、总参谋长（2002–2007）
+  bio: >-
+    四川三台贫农之子，1958 年初入伍即赴朝鲜，后在武汉军区作战部近十年，1979 年随前指上过对越战场。
+    从第 20 军师长、军长做到第 54 集团军军长，再任北京军区参谋长、沈阳和南京军区司令员，1998 年在东北带十余万官兵抗洪，在南京主抓对台军事斗争准备。
+    2002 年任总参谋长并进入军委，2008 年接替曹刚川任国务委员兼国防部长。2009 年他对日本防卫相说中国“不能永远没有航母”，2011 年成为第一个出席香格里拉对话会的中国国防部长。2013 年退休，2024 年 11 月在北京病逝。
+  positions:
+    - { title: 武汉军区作战部副部长, sys: army, from: 1974-12, to: 1979-07, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 陆军第 20 军第 58 师师长, sys: army, from: 1981-02, to: 1983-05, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 第 20 集团军军长, sys: army, from: 1985-08, to: 1990-06, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 第 54 集团军军长, sys: army, from: 1990-06, to: 1993-12, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 北京军区参谋长, sys: army, from: 1993-12, to: 1995-07, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 北京军区副司令员, sys: army, from: 1995-07, to: 1997-11, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 沈阳军区司令员, sys: army, from: 1997-11, to: 1999-12, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 南京军区司令员, sys: army, from: 1999-12, to: 2002-10, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 解放军总参谋长, sys: army, from: 2002-10, to: 2007, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 中央军委委员, sys: army, from: 2002-11, to: 2012-11, cite: c01-gov-2024-11-18-liang-guanglie-life }
+    - { title: 国务委员兼国防部部长, sys: gov, from: 2008-03, to: 2013-03, cite: c01-gov-2024-11-18-liang-guanglie-life }
+  life:
+    - h: 入朝新兵
+      from: 1940
+      to: 1970
+      text: >-
+        1940 年 12 月 9 日生于四川三台县新生镇太建村一个贫苦农民家庭。1957 年 11 月报名参军，次年 1 月成为陆军第 1 军第 1 师第 2 团战士，一入伍就到了停战后的朝鲜，1959 年 11 月入党。
+        此后在第 1 军当工兵连副排长、排长，1963 年起任团作训股参谋，1966 年先后任第 1 师工兵科和作训科参谋，长期在一线抓训练。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life]
+    - h: 武汉军区作战部
+      from: 1970
+      to: 1979
+      text: >-
+        1970 年 2 月调任武汉军区作战部作战科参谋，1974 年 12 月任作战部副部长，前后近十年，参与组织部队调防、徐海地区战役勘察和冬季千里野营拉练。
+        1979 年 2 月对越自卫反击战，他以武汉军区作战部副部长身份与第 43 军第 127 师前指一起行动，亲历战场。《南华早报》的讣闻说他战时是第 20 军的副师长，与官方生平不符：官方生平记他 1979 年 7 月才任第 58 师副师长。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life, b20-scmp-2024-11-13-liang-death]
+    - h: 二十军到五十四军
+      from: 1979
+      to: 1993
+      text: >-
+        1979 年 7 月任第 20 军第 58 师副师长，1981 年 2 月任师长，1983 年 5 月任第 20 军副军长，1985 年 8 月任第 20 集团军军长。
+        官方生平说，他在这里推行新兵训练体制改革试点，实行“先训后补”，把集团军做成全军训练改革的“试验田”。1990 年 6 月改任第 54 集团军军长，试点新纲目训练和夜训，抓应急机动作战部队建设。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life]
+    - h: 三大军区
+      from: 1993
+      to: 2002
+      text: >-
+        1993 年 12 月任北京军区参谋长，1995 年 7 月任副司令员。1997 年 11 月任沈阳军区司令员，带部队完成总参交给的“辽阳集训”；1998 年嫩江、松花江特大洪灾，他在一线带领军区十余万官兵抗洪。
+        当时葛振峰任沈阳军区参谋长、副司令员，维基百科称两人工作关系密切。1999 年 12 月调任南京军区司令员，面对台海紧张局势，组织大规模海上练兵，推进反“台独”军事斗争准备。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life, k03-wiki-ge-zhenfeng]
+    - h: 总参谋长
+      from: 2002
+      to: 2008
+      text: >-
+        2002 年 5 月授上将，10 月任总参谋长，11 月进入中央军委。官方生平称他主持拟制体制编制调整改革方案、军队信息化建设规划纲要，组织“和平使命－2005”“和平使命－2007”等中外联合演习。
+        Mulvenon 2008 年引述一家中国官方背景报纸说，新一届中央委员中有九名上将曾在南京军区任要职、熟悉对台作战，梁光烈“内定”为下一任国防部长。2007 年十七大前后，总参谋长一职由陈炳德接任。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life, b20-docslib-2008-clm23-mulvenon]
+    - h: 国防部长
+      from: 2008
+      to: 2013
+      text: >-
+        2008 年 3 月任国务委员兼国防部长，是第一位兼任国家边海防委员会主任的军队领导，做了 56 天边海防调研，推动出台第一部《国防动员法》。
+        2009 年 3 月会见日本防卫相滨田靖一时，据共同社报道，他说“大国中没有航母的只有中国”。2011 年 6 月他率团出席香格里拉对话会，这是中国国防部长第一次与会；有日本代表当场质疑中国“说一套做的却是另一套”。2012 年 5 月他访问五角大楼，是九年来中国国防部长首次访美。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life, b20-bbc-2009-03-21-liang-carrier, b20-bbc-2011-06-05-liang-shangri-la, b20-cntv-2011-06-07-liang-kissinger, b20-cntv-2012-05-09-liang-us]
+    - h: 晚年
+      from: 2013
+      to: 2024
+      text: >-
+        2013 年 3 月卸任，国防部长由常万全接任。官方生平说，他退下来以后“坚定支持党风廉政建设和反腐败斗争”。
+        2024 年 11 月 12 日凌晨在北京病逝，享年 84 岁；新华社的生平称他“待人宽厚、严于律己、清正廉洁”。《南华早报》的讣闻按周岁说他享年 83 岁，概括他打过对越战争，并在美国重返亚洲时处理过中美两军关系。
+      cites: [c01-gov-2024-11-18-liang-guanglie-life, k06-wiki-dong-jun, b20-scmp-2024-11-13-liang-death]
+  assess:
+    - voice: official
+      quote: true
+      text: 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，我国国防建设和军队军事工作的杰出领导人
+      cite: c01-gov-2024-11-18-liang-guanglie-life
+    - voice: west
+      quote: true
+      text: Liang Guanglie, a former Chinese defence minister who fought for China against Vietnam and navigated military ties with the US when it shifted its focus back to Asia early this century, has died at the age of 83.
+      zh: 曾为中国在对越战争中作战、并在本世纪初美国重返亚洲时处理两军关系的前国防部长梁光烈去世，享年 83 岁。
+      cite: b20-scmp-2024-11-13-liang-death
+    - voice: scholar
+      quote: true
+      text: nine high-ranking generals in the new Central Committee have held important posts in Nanjing Military Region and have a good command of and are familiar with Taiwan-related military combat; these include Liang Guanglie, internally designated as the next minister of national defense
+      zh: 新一届中央委员会中有九名上将曾在南京军区担任要职，熟悉并精通涉台军事作战；其中包括内定为下一任国防部长的梁光烈。（Mulvenon 转引中国官方背景报纸）
+      cite: b20-docslib-2008-clm23-mulvenon
+  ids: { wikidata: Q929373 }
+  cites: [wd-Q929373, c01-gov-2024-11-18-liang-guanglie-life, b20-bbc-2009-03-21-liang-carrier, b20-scmp-2024-11-13-liang-death]
+
+- id: chen-bingde
+  name: 陈炳德
+  pinyin: Chén Bǐngdé
+  gender: m
+  ethnicity: 汉族
+  born: 1941-07
+  birthplace: 江苏南通
+  education:
+    - { school: 解放军军事学院基本系, degree: 大专, from: 1979-09, to: 1981-01 }
+    - { school: 解放军军事学院高级指挥班, from: 1983-09, to: 1985-07 }
+  joinedParty: 1962-03
+  joinedWork: 1958-09
+  roles: [cmc, cc, general]
+  status: retired
+  statusNote: 2012 年十八大退出中央军委。2023 年 10 月仍在北京家中接待南通市委来访并捐赠藏品。
+  tier: 1
+  headline: 解放军总参谋长（2007–2012）
+  bio: >-
+    江苏南通人，1961 年当兵，从战士、团长做到集团军军长，两度出任陆军院校院长，1996 年起先后任南京、济南军区司令员。
+    2004 年进入军委任总装备部部长，兼载人航天工程总指挥，2005 年 10 月宣布神舟六号发射成功。2007 年任总参谋长。
+    2011 年 5 月访美时公开说中美军力有 20 年差距，“中国没这个文化，中国也没这个能力”挑战美国；同年 7 月又当着来访的美军参联会主席马伦，批评美军在南海演习和在中国近海侦察。2012 年十八大前由房峰辉接任，退出军委。
+  positions:
+    - { title: 南昌陆军学院院长, sys: army, from: 1990-06, to: 1992-08, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 陆军指挥学院院长, sys: army, from: 1992-08, to: 1993-02, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 南京军区参谋长, sys: army, from: 1993-12, to: 1996-01, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 南京军区司令员, sys: army, from: 1996-01, to: 1999-12, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 济南军区司令员, sys: army, from: 1999-12, to: 2004-09, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 解放军总装备部部长, sys: army, from: 2004-09, to: 2007, cite: c01-people-2008-03-17-chen-bingde }
+    - { title: 中央军委委员, sys: army, from: 2004-09, to: 2012-11, cite: k01-xinhua-2004-09-19-16-4-plenum }
+    - { title: 解放军总参谋长, sys: army, from: 2007, to: 2012-10, cite: c01-people-2008-03-17-chen-bingde }
+  factions:
+    - f: equipment-system
+      cite: c01-people-2008-03-17-chen-bingde
+      quote: 中国人民解放军总装备部部长、党委书记
+      rank: periphery
+  life:
+    - h: 南通兵
+      from: 1941
+      to: 1979
+      text: >-
+        1941 年 7 月生于江苏南通，1958 年 9 月参加工作，1961 年 4 月入伍，从战士、副班长、班长当起，1962 年 3 月入党。
+        1964 年任排长，1965 年起在军司令部作训处当参谋六年，其后任师作训科副科长、科长，团参谋长、师副参谋长，1977 年 5 月任团长。官方简历只写“陆军”某军某师，没有公开部队番号。
+      cites: [c01-people-2008-03-17-chen-bingde, b20-0513-2023-10-20-chen-donation]
+    - h: 军长与院长
+      from: 1979
+      to: 1999
+      text: >-
+        1979 年任师参谋长，其间在军事学院基本系学习；1982 年任师长，1983 年任副军长并入军事学院高级指挥班，1985 年任集团军副军长兼参谋长，1988 年 9 月授少将。
+        1990 年 6 月任南昌陆军学院院长，1992 年 8 月任陆军指挥学院院长，1993 年 2 月回部队任集团军军长，同年 12 月任南京军区参谋长；1995 年 7 月晋中将，1996 年 1 月升任南京军区司令员。
+      cites: [c01-people-2008-03-17-chen-bingde, b20-0513-2023-10-20-chen-donation]
+    - h: 济南到总装
+      from: 1999
+      to: 2005
+      text: >-
+        1999 年 12 月任济南军区司令员，2002 年 6 月晋上将。2004 年 9 月十六届四中全会胡锦涛接任军委主席，同时增补陈炳德、乔清晨、张定发、靖志远为军委委员，他随即接任总装备部部长、党委书记，2005 年 3 月任国家军委委员。
+        他同时兼任中国载人航天工程总指挥，2005 年的神舟六号载人飞行由他统筹。
+      cites: [c01-people-2008-03-17-chen-bingde, b20-0513-2023-10-20-chen-donation, k01-xinhua-2004-09-19-16-4-plenum, b20-sohu-2005-10-08-chen-guarantee]
+    - h: 神舟六号
+      from: 2005-10
+      to: 2007
+      text: >-
+        2005 年 10 月发射神舟六号前，他在酒泉听取汇报时说已三次向党中央、国务院保证发射万无一失，又要求各项目负责人“请不要说可能、大概之类不确定、不负责、不讲党性的话”。
+        10 月 12 日上午，他宣布“我现在郑重宣布，神舟六号载人飞船发射取得圆满成功”。2007 年 1 月中国用导弹击毁一颗旧气象卫星时，他仍在总装备部任上；同年他接替梁光烈任总参谋长，总装备部部长由常万全接任。
+      cites: [b20-sohu-2005-10-08-chen-guarantee, b20-sina-2005-10-12-chen-shenzhou6, b20-bbc-2007-02-12-cao-asat, b20-docslib-2008-clm23-mulvenon]
+    - h: 访美
+      from: 2011-05
+      to: 2011-05
+      text: >-
+        2011 年 5 月他率团访美一周，18 日在五角大楼与马伦举行联合记者会，说解放军在台湾沿海“只有驻防部署没有作战部署”，又问“台湾是中国领土，美国人凭什么售台武器”。
+        同日在美国国防大学演讲，他说中美军力有 20 年差距，“中国没这个文化，中国也没这个能力”挑战美国；人民网报道他坦言看到美军先进感到“很难过”，但又说中国军队在装备落后的情况下也能打胜仗。
+      cites: [b20-bbc-2011-05-19-chen-us, b20-cyol-2011-05-20-chen-us, b20-sina-2011-05-20-chen-20years, b20-fox-2011-05-18-chen-ndu]
+    - h: 与马伦交锋
+      from: 2011-07
+      to: 2011-07
+      text: >-
+        2011 年 7 月马伦回访北京，两人在联合记者会上针锋相对。陈炳德说美国在南海与菲律宾、越南搞军演，“在这个时候搞军事演习，是极不妥当的”；他还说美军无人侦察机离中国海岸线最近只有 16 海里，并问美国花这么多钱搞军事“是否给纳税人太大压力了”。
+        马伦回应说，美国几十年来一直与地区盟友联合演习，“美国将继续这样做”。
+      cites: [b20-voa-2011-07-11-chen-mullen, b20-sina-2011-07-12-chen-recon]
+    - h: 退出军委
+      from: 2012
+      to: 2023
+      text: >-
+        2012 年 10 月十八大前夕，北京军区司令员房峰辉接替他任总参谋长；11 月十八大期间他仍以老同志身份出席胡锦涛、习近平会见军队代表的场合。
+        2023 年 10 月 17 日，南通市委常委、宣传部部长陈冬梅到北京登门拜访，他把珍藏多年的神舟六号火箭模型、返回舱模型、发射录像和汶川大地震救灾纪实书籍等十余件藏品捐给南通群英馆，捐赠清单由他的秘书傅岩松大校签署。
+      cites: [c02-wiki-fang-fenghui, b02-people-2012-11-18-cmc-meeting, b20-0513-2023-10-20-chen-donation]
+  assess:
+    - voice: official
+      quote: true
+      text: 戎马一生利社稷，桑梓情深系通城。
+      cite: b20-0513-2023-10-20-chen-donation
+    - voice: west
+      quote: true
+      text: '"I can tell you that China does not have the capability to challenge the United States," he said, adding that China''s wealth and military strength pales in comparison with that of the United States.'
+      zh: 他说：“我可以告诉你们，中国没有能力挑战美国。”他还说，中国的财富和军事实力与美国相比相形见绌。（美联社记述）
+      cite: b20-fox-2011-05-18-chen-ndu
+    - voice: scholar
+      quote: true
+      text: nine high-ranking generals in the new Central Committee have held important posts in Nanjing Military Region and have a good command of and are familiar with Taiwan-related military combat; these include……Chief of Staff Chen Bingde
+      zh: 新一届中央委员会中有九名上将曾在南京军区担任要职，熟悉并精通涉台军事作战；其中包括……总参谋长陈炳德。（Mulvenon 转引中国官方背景报纸）
+      cite: b20-docslib-2008-clm23-mulvenon
+  ids: { wikidata: Q701017 }
+  cites: [wd-Q701017, c01-people-2008-03-17-chen-bingde, b20-cyol-2011-05-20-chen-us, b20-sohu-2005-10-08-chen-guarantee, b20-fox-2011-05-18-chen-ndu]
+
+- id: chang-wanquan
+  name: 常万全
+  pinyin: Cháng Wànquán
+  gender: m
+  ethnicity: 汉族
+  born: 1949-01
+  birthplace: 河南南阳
+  education:
+    - { school: 陕西省渭南师范专科学校（函授）, degree: 在职大专, from: 1985, to: 1987 }
+    - { school: 国防大学基本系, from: 1994-03, to: 1995-01 }
+  joinedParty: 1968-11
+  joinedWork: 1968-03
+  roles: [cmc, cc, general, minister]
+  status: retired
+  statusNote: 2018 年 3 月卸任国防部长。据《南华早报》2019 年 7 月引述接近解放军的消息人士报道（德国之声、法广、美国之音转述），他因与郭伯雄、徐才厚关系密切被降两级为副大军区级；官方从未公布，也没有找到其他独立来源证实。2026 年 2 月他仍列入新华社春节看望老同志名单，9 月 30 日出席国庆招待会。
+  tier: 1
+  headline: 国务委员兼国防部长（2013–2018）
+  bio: >-
+    河南南阳人，1968 年入伍，在第 47 军和兰州军区从警卫连战士做到军长、军区参谋长，2004 年起任沈阳军区司令员。
+    2007 年进入军委任总装备部部长，兼载人航天工程总指挥，2012 年主持辽宁舰交接入列仪式。十八大前他被普遍看好升任军委副主席，结果被范长龙越过，2013 年改任国务委员兼国防部长。
+    任内对美表态中国在领土主权问题上“不会妥协，不会退让，不会交易”，又提出打赢海上人民战争。2018 年退休后，《南华早报》报道他因与郭伯雄、徐才厚关系密切被降两级，官方从未证实。
+  positions:
+    - { title: 兰州军区司令部作战部部长, sys: army, from: 1990, to: 1992, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 陆军第 21 集团军第 61 师师长, sys: army, from: 1992, to: 1994, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 第 47 集团军参谋长, sys: army, from: 1994, to: 1998, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 国防大学战役教研室主任, sys: army, from: 1998, to: 2000, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 第 47 集团军军长, sys: army, from: 2000, to: 2002, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 兰州军区参谋长, sys: army, from: 2002, to: 2003, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 北京军区参谋长, sys: army, from: 2003, to: 2004, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 沈阳军区司令员, sys: army, from: 2004, to: 2007, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 解放军总装备部部长, sys: army, from: 2007, to: 2012, cite: c01-ce-2013-03-16-chang-wanquan }
+    - { title: 中央军委委员, sys: army, from: 2007-10, to: 2017-10, cite: k01-xinhua-2007-10-22-17-1-plenum }
+    - { title: 国务委员兼国防部部长, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
+  factions:
+    - f: guo-xu
+      cite: v01-scmp-2019-07-11-chang-wanquan
+      quote: was demoted two grades to a deputy regional commander-level officer because of his close relationship with former commission vice-chairmen Guo Boxiong and Xu Caihou
+      zh: 因与前军委副主席郭伯雄、徐才厚关系密切，被降两级为副大军区级军官。
+      rank: periphery
+  life:
+    - h: 第四十七军
+      from: 1968
+      to: 1990
+      text: >-
+        1949 年 1 月生于河南南阳，1968 年 3 月入伍，在第 47 军第 140 师独立警卫连当战士、班长、排长，同年 11 月入党。
+        此后长期做作训参谋，1978 年在兰州军区司令部作战部和办公室秘书科当过参谋、秘书，1980 年回第 47 军任作训处副处长、处长，1983 年任第 140 师参谋长，1985 年任第 47 集团军第 139 师副师长，其间函授读完渭南师范专科学校。
+      cites: [c01-ce-2013-03-16-chang-wanquan]
+    - h: 师长到军长
+      from: 1990
+      to: 2002
+      text: >-
+        1990 年任兰州军区司令部作战部部长，1992 年任第 21 集团军第 61 师师长，1994 年任第 47 集团军参谋长，并在国防大学基本系学习近一年。
+        1998 年任国防大学战役教研室主任，2000 年回任第 47 集团军军长。到 2002 年为止，他三十多年的军旅生涯除了在国防大学的几年，都在兰州军区第 47 军和第 21 集团军系统度过。
+      cites: [c01-ce-2013-03-16-chang-wanquan]
+    - h: 三大军区
+      from: 2002
+      to: 2007
+      text: >-
+        2002 年任兰州军区参谋长，2003 年调北京军区参谋长，2004 年升任沈阳军区司令员，三年里跨了三个大军区。
+        2007 年十七大前后，Mulvenon 记录他由沈阳军区司令员升任总装备部部长，接替调任总参谋长的陈炳德；十七届一中全会他进入中央军委，次年 3 月十一届全国人大任命他为国家军委委员。
+      cites: [c01-ce-2013-03-16-chang-wanquan, b20-docslib-2008-clm23-mulvenon, k01-xinhua-2007-10-22-17-1-plenum]
+    - h: 总装备部
+      from: 2007
+      to: 2012
+      text: >-
+        总装备部部长兼任载人航天工程总指挥。2012 年 6 月 16 日他在酒泉宣布神舟九号发射成功，6 月 29 日又宣布天宫一号与神舟九号载人交会对接任务圆满成功。
+        2012 年 9 月 25 日第一艘航空母舰交接入列，郭伯雄宣布舰名舷号，仪式由“中央军委委员、总装备部部长常万全主持”。同年他的总装备部部长一职由张又侠接任。
+      cites: [b20-cmse-2012-06-16-shenzhou9, e02-ce-2012-09-25-liaoning, b08-dw-2026-01-zhang-who]
+    - h: 落选副主席
+      from: 2012-11
+      to: 2013-03
+      text: >-
+        十八大前，外界长期预计他会升任军委副主席。詹姆斯敦基金会分析说，他升任副主席本来符合只从现任军委委员中提拔的惯例，结果 65 岁的济南军区司令员范长龙越过 63 岁的他，成为排名第一的军人副主席。
+        他留任军委委员，2013 年 3 月改任国务委员兼国防部长。
+      cites: [b13-jamestown-2012-11-high-command, e02-xinhua-2012-11-15-plenum1, c02-chinanews-2013-03-16-state-council]
+    - h: 国防部长
+      from: 2013
+      to: 2016
+      text: >-
+        2014 年 4 月美国国防部长哈格尔访华，他在联合记者会上说中国在领土主权问题上“不会妥协，不会退让，不会交易”，军队只要党和人民需要，“召之即来，来之能战，战之必胜”；又说“我和哈格尔部长都是上过战场的人，深知战争的危害”。
+        2016 年 7 月海牙仲裁庭就南海作出裁决，8 月初他在浙江调研国防动员时强调要“充分发挥海上人民战争威力”，美国之音报道称，他说中国应当准备打一场“海上人民战争”。
+      cites: [b20-people-2014-04-09-chang-hagel, b20-chinanews-2014-04-09-chang-battlefield, b20-gov-2016-08-02-chang-zhejiang, b20-voa-2016-08-02-people-war]
+    - h: 十九大与退休
+      from: 2017
+      to: 2018
+      text: >-
+        2017 年 10 月十九大解放军代表团讨论时，他说这五年“习主席顶天立地的历史担当托起伟大梦想”，接连用了五个“天”字排比，称习近平成为众望所归的领导核心。
+        据看中国（传闻），这段话在军方媒体 21 日公布的全文中被删掉了。十九大上他退出中央军委，2018 年 3 月国防部长由魏凤和接任。
+      cites: [b20-cdt-2017-10-chang-xi-praise, b20-secretchina-2017-10-22-chang-deleted, k06-wiki-dong-jun]
+    - h: 降级传闻
+      from: 2019-07
+      to: 2026
+      text: >-
+        2019 年 7 月 11 日《南华早报》引述一名接近解放军的消息人士说，他因与郭伯雄、徐才厚关系密切被降两级为副大军区级，依据是退休待遇下调；法广转述说他的住所被迁到北京海淀区的前装甲兵大楼。各家都指出官方没有公布。美国之音分析说，如果消息准确，说明他的问题足以连降两级，又不至于倒台。
+        据看中国（传闻），明镜新闻网早在 2014 年就说他被内部调查。但 2026 年 2 月新华社春节看望老同志的名单里仍有他，9 月 30 日他还现身国庆招待会。
+      cites: [v01-scmp-2019-07-11-chang-wanquan, v01-rfi-2019-07-12-chang-wanquan, c01-dw-2019-07-12-chang-wanquan, b20-voa-2019-07-generals-demoted, b20-kzg-2019-07-12-chang-demoted, b19-xinhua-2026-02-13-old-comrades, b21-zaobao-2026-09-30-reception]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Chang had long been expected to become vice chairman, and his promotion would have followed the pattern of only elevating existing CMC members to that body’s top posts.
+      zh: 外界早就预计常万全会成为军委副主席，而且提拔他也符合只把现任军委委员擢升到军委最高职位的惯例。
+      cite: b13-jamestown-2012-11-high-command
+    - voice: west
+      quote: true
+      text: There had not been an official announcement of Chang’s demotion, but military insiders said that the downgrading of his retirement benefits indicated his reduction in military rank.
+      zh: 官方没有宣布常万全被降级，但军内人士说，他的退休待遇被下调，表明他的军衔级别已被降低。
+      cite: v01-scmp-2019-07-11-chang-wanquan
+    - voice: zh
+      quote: true
+      text: 如果这一消息准确，那就说明这位前国务委员的问题严重到足以连降两级，而没有严重到需要更严厉处分甚至倒台的地步，或者问题虽很严重，但习近平当局“怀柔”处理，让他软着陆。
+      cite: b20-voa-2019-07-generals-demoted
+  ids: { wikidata: Q27503 }
+  cites: [wd-Q27503, c01-ce-2013-03-16-chang-wanquan, v01-scmp-2019-07-11-chang-wanquan, c01-dw-2019-07-12-chang-wanquan, v01-rfi-2019-07-12-chang-wanquan, b20-people-2014-04-09-chang-hagel, b19-xinhua-2026-02-13-old-comrades]

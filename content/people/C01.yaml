@@ -80,29 +80,6 @@
   ids: { wikidata: Q712485 }
   cites: [wd-Q712485, c01-cctv-2003-li-tieying]
 
-- id: chi-haotian
-  name: 迟浩田
-  gender: m
-  ethnicity: 汉族
-  born: 1929-07-09
-  birthplace: 山东招远
-  joinedParty: 1946-10
-  roles: [pb, cmc, cc, general, minister]
-  status: retired
-  statusNote: 2003 年卸任军委副主席和国防部长。
-  tier: 2
-  headline: 中央军委副主席、国务委员兼国防部长（1993–2003）
-  bio: >-
-    1945 年入伍，参加过解放战争和抗美援朝，1970 年代曾任《人民日报》社负责人。1987–1992 年任总参谋长，1993 年起任国务委员兼国防部长。
-    1995 年增补为中央军委副主席，1997 年进入政治局，2003 年退休。
-  positions:
-    - { title: 人民日报社负责人、副总编辑, sys: other, from: 1973, to: 1977, cite: c01-people-2013-02-26-chi-haotian }
-    - { title: 解放军总参谋长, sys: army, from: 1987-11, to: 1992, cite: c01-people-2013-02-26-chi-haotian }
-    - { title: 国务委员兼国防部部长, sys: gov, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-chi-haotian }
-    - { title: 中央军委副主席, sys: army, from: 1995-09, to: 2002-11, cite: c01-people-2013-02-26-chi-haotian }
-    - { title: 中央政治局委员, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-chi-haotian }
-  ids: { wikidata: Q983848 }
-  cites: [wd-Q983848, c01-people-2013-02-26-chi-haotian]
 
 - id: zhang-wannian
   name: 张万年
@@ -310,30 +287,6 @@
   ids: { wikidata: Q168386 }
   cites: [wd-Q168386, c01-cctv-2007-09-25-zhang-lichang, c01-xinhua-2008-01-10-zhang-lichang-death]
 
-- id: cao-gangchuan
-  name: 曹刚川
-  gender: m
-  ethnicity: 汉族
-  born: 1935-12-09
-  birthplace: 河南舞钢
-  joinedParty: 1956-07
-  roles: [pb, cmc, cc, general, minister]
-  status: retired
-  statusNote: 2007 年十七大退出政治局和军委，2008 年 3 月卸任国防部长。
-  tier: 2
-  headline: 中央军委副主席（2002–2007）、国防部长（2003–2008）
-  bio: >-
-    军械专业出身，留学苏联炮兵军事工程学院，长期在总参装备部门工作，1992 年任副总参谋长。1996 年任国防科工委主任，1998 年任首任总装备部部长并进入军委。
-    2002 年任军委副主席、政治局委员，2003–2008 年兼任国务委员、国防部长。
-  positions:
-    - { title: 副总参谋长, sys: army, from: 1992, to: 1996, cite: c01-ce-2007-05-21-cao-gangchuan }
-    - { title: 国防科学技术工业委员会主任, sys: army, from: 1996, to: 1998, cite: c01-ce-2007-05-21-cao-gangchuan }
-    - { title: 解放军总装备部部长, sys: army, from: 1998, to: 2002, cite: c01-ce-2007-05-21-cao-gangchuan }
-    - { title: 中央军委副主席, sys: army, from: 2002-11, to: 2007-10, cite: c01-ce-2007-05-21-cao-gangchuan }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: c01-ce-2007-05-21-cao-gangchuan }
-    - { title: 国务委员兼国防部部长, sys: gov, from: 2003-03, to: 2008-03, cite: c01-ce-2007-05-21-cao-gangchuan }
-  ids: { wikidata: Q709846 }
-  cites: [wd-Q709846, c01-ce-2007-05-21-cao-gangchuan, c01-gov-2018-03-19-state-council-history]
 
 
 - id: wang-gang
@@ -515,31 +468,6 @@
   ids: { wikidata: Q7929520 }
   cites: [wd-Q7929520, c01-xinhua-2018-12-12-wang-ruilin-death]
 
-- id: liang-guanglie
-  name: 梁光烈
-  gender: m
-  ethnicity: 汉族
-  born: 1940-12-09
-  died: 2024-11-12
-  birthplace: 四川三台
-  joinedParty: 1959-11
-  roles: [cmc, cc, general, minister]
-  status: dead
-  statusNote: 2024 年 11 月 12 日在北京病逝。
-  tier: 2
-  headline: 国务委员兼国防部长（2008–2013）、总参谋长（2002–2007）
-  bio: >-
-    1958 年入伍，对越自卫反击战时以武汉军区作战部副部长身份随前指行动。历任 20 集团军、54 集团军军长，沈阳、南京军区司令员。
-    2002 年任总参谋长并进入中央军委，2008–2013 年任国务委员兼国防部长。2024 年逝世。
-  positions:
-    - { title: 第54集团军军长, sys: army, from: 1990-06, to: 1993-12, cite: c01-gov-2024-11-18-liang-guanglie-life }
-    - { title: 沈阳军区司令员, sys: army, from: 1997-11, to: 1999-12, cite: c01-gov-2024-11-18-liang-guanglie-life }
-    - { title: 南京军区司令员, sys: army, from: 1999-12, to: 2002-10, cite: c01-gov-2024-11-18-liang-guanglie-life }
-    - { title: 解放军总参谋长, sys: army, from: 2002-10, to: 2007, cite: c01-gov-2024-11-18-liang-guanglie-life }
-    - { title: 中央军委委员, sys: army, from: 2002-11, to: 2012-11, cite: c01-gov-2024-11-18-liang-guanglie-life }
-    - { title: 国务委员兼国防部部长, sys: gov, from: 2008-03, to: 2013-03, cite: c01-gov-2024-11-18-liang-guanglie-life }
-  ids: { wikidata: Q929373 }
-  cites: [wd-Q929373, c01-gov-2024-11-18-liang-guanglie-life]
 
 - id: li-jinai
   name: 李继耐
@@ -590,29 +518,6 @@
   ids: { wikidata: Q3090408 }
   cites: [wd-Q3090408, c01-gov-2026-01-29-liao-xilong-death]
 
-- id: chen-bingde
-  name: 陈炳德
-  gender: m
-  ethnicity: 汉族
-  born: 1941-07
-  birthplace: 江苏南通
-  joinedParty: 1962-03
-  roles: [cmc, cc, general]
-  status: retired
-  statusNote: 2012 年十八大退出中央军委。
-  tier: 2
-  headline: 解放军总参谋长（2007–2012）
-  bio: >-
-    1961 年入伍的陆军指挥员，做过南昌陆军学院、陆军指挥学院院长，历任南京军区参谋长、司令员，1999–2004 年任济南军区司令员。
-    2004 年任总装备部部长并进入中央军委，2007–2012 年任总参谋长，2012 年十八大退休。
-  positions:
-    - { title: 南京军区司令员, sys: army, from: 1996-01, to: 1999-12, cite: c01-people-2008-03-17-chen-bingde }
-    - { title: 济南军区司令员, sys: army, from: 1999-12, to: 2004-09, cite: c01-people-2008-03-17-chen-bingde }
-    - { title: 解放军总装备部部长, sys: army, from: 2004-09, to: 2007, cite: c01-people-2008-03-17-chen-bingde }
-    - { title: 中央军委委员, sys: army, from: 2004-09, to: 2012-11, cite: c01-people-2008-03-17-chen-bingde }
-    - { title: 解放军总参谋长, sys: army, from: 2007, to: 2012-10, cite: c01-people-2008-03-17-chen-bingde }
-  ids: { wikidata: Q701017 }
-  cites: [wd-Q701017, c01-people-2008-03-17-chen-bingde]
 
 - id: qiao-qingchen
   name: 乔清晨
@@ -685,35 +590,6 @@
   ids: { wikidata: Q842394 }
   cites: [wd-Q842394, c01-people-2012-11-12-jing-zhiyuan]
 
-- id: chang-wanquan
-  name: 常万全
-  gender: m
-  ethnicity: 汉族
-  born: 1949-01
-  birthplace: 河南南阳
-  joinedParty: 1968-11
-  roles: [cmc, cc, general, minister]
-  status: retired
-  statusNote: 2018 年 3 月卸任国防部长。据《南华早报》2019 年 7 月引述接近解放军的消息人士报道（德国之声、法广转述），他被降两级为副大军区级；官方从未公布。
-  tier: 2
-  headline: 国务委员兼国防部长（2013–2018）
-  bio: >-
-    从兰州军区第 47 军起家，历任兰州军区参谋长、北京军区参谋长，2004–2007 年任沈阳军区司令员，2007 年任总装备部部长并进入中央军委。
-    2013–2018 年任国务委员兼国防部长。2019 年 7 月《南华早报》引述接近解放军的消息人士称，他因与郭伯雄、徐才厚关系密切被降两级，依据是其退休待遇已降至副大军区级；该报和法广都指出官方没有公布此事。
-  positions:
-    - { title: 兰州军区参谋长, sys: army, from: 2002, to: 2003, cite: c01-ce-2013-03-16-chang-wanquan }
-    - { title: 北京军区参谋长, sys: army, from: 2003, to: 2004, cite: c01-ce-2013-03-16-chang-wanquan }
-    - { title: 沈阳军区司令员, sys: army, from: 2004, to: 2007, cite: c01-ce-2013-03-16-chang-wanquan }
-    - { title: 解放军总装备部部长, sys: army, from: 2007, to: 2012, cite: c01-ce-2013-03-16-chang-wanquan }
-    - { title: 中央军委委员, sys: army, from: 2007-10, to: 2017-10, cite: c01-ce-2013-03-16-chang-wanquan }
-    - { title: 国务委员兼国防部部长, sys: gov, from: 2013-03, to: 2018-03, cite: c01-ce-2013-03-16-chang-wanquan }
-  factions:
-    - f: guo-xu
-      cite: v01-scmp-2019-07-11-chang-wanquan
-      quote: was demoted two grades to a deputy regional commander-level officer because of his close relationship with former commission vice-chairmen Guo Boxiong and Xu Caihou
-      zh: 因与前军委副主席郭伯雄、徐才厚关系密切，被降两级为副大军区级军官。
-  ids: { wikidata: Q27503 }
-  cites: [wd-Q27503, c01-ce-2013-03-16-chang-wanquan, v01-scmp-2019-07-11-chang-wanquan, c01-dw-2019-07-12-chang-wanquan, v01-rfi-2019-07-12-chang-wanquan]
 
 - id: wu-shengli
   name: 吴胜利

@@ -1,0 +1,337 @@
+# B20 full biographies of five generals: Chi Haotian, Cao Gangchuan, Liang Guanglie, Chen Bingde, Chang Wanquan.
+web:
+  # --- 迟浩田 ---
+  - id: b20-latimes-1996-12-27-tiananmen
+    title: "'Tiananmen Square Massacre': a Chilling Game of Semantics"
+    publisher: Los Angeles Times
+    date: 1996-12-27
+    voice: west
+    lang: en
+    url: https://www.latimes.com/archives/la-xpm-1996-12-27-mn-12996-story.html
+    excerpt: true
+    keep: [ not a single person lost his life in Tiananmen Square, they mean the area inside the fence ]
+  - id: b20-thepaper-2023-06-05-jiang-qingping
+    title: 离休干部、迟浩田上将夫人姜青萍逝世，享年90岁
+    publisher: 澎湃新闻
+    author: 岳怀让
+    date: 2023-06-05
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_23359645
+    excerpt: true
+    keep: [ 因病医治无效, 从不让家人享受任何特殊照顾 ]
+  - id: b20-wiki-chi-haotian
+    title: 迟浩田（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/迟浩田
+    excerpt: true
+    keep: [ 刘华清担任总指挥, 九一三事件后调入, 兼任《人民日报》社工作组组长, 1977年10月，任中国人民解放军副总参谋长, 2002年11月15日，74岁的迟浩田, 迟星北，1957年9月出生, 《迟浩田军事文选》, 姜青萍，江苏常州人, 女儿：迟星红, 我感到打仗很有意思 ]
+  - id: b20-cnd-2009-05-19-pla-1989
+    title: 黄河清：六四军人列传
+    publisher: 华夏文摘（CND）
+    author: 黄河清
+    date: 2009-05-19
+    voice: zh
+    rumor: true
+    url: http://hx.cnd.org/2009/05/19/%e9%bb%84%e6%b2%b3%e6%b8%85%ef%bc%9a%e5%85%ad%e5%9b%9b%e5%86%9b%e4%ba%ba%e5%88%97%e4%bc%a0/
+    excerpt: true
+    keep: [ 戒严部队指挥部由军委副主席刘华清, 1989年北京戒严部队指挥部三巨头之一 ]
+  - id: b20-epoch-2005-08-25-chi-speech
+    title: 【热点互动】战争离我们有多远（续三）
+    publisher: 大纪元
+    date: 2005-08-25
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/5/8/25/n1029913.htm
+    excerpt: true
+    keep: [ 迟浩田的讲话是在网上流传的, 博讯网2005年初出来的 ]
+  - id: b20-rmrb-2001-08-09-chi-biden
+    title: 迟浩田会见美国客人
+    publisher: 人民日报（新华社电）
+    date: 2001-08-09
+    voice: official
+    url: https://cn.govopendata.com/renminribao/2001/08/09/4/
+    excerpt: true
+    keep: [ 中国说话是算数的, 美国的理由是站不住脚的 ]
+  - id: b20-rmrb-2000-03-07-chi-npc
+    title: 迟浩田参加解放军代表团审议时强调 开创国防和军队现代化建设新局面
+    publisher: 人民日报（新华社电）
+    date: 2000-03-07
+    voice: official
+    url: https://cn.govopendata.com/renminribao/2000/03/07/4/
+    excerpt: true
+    keep: [ 迟浩田强调说，要把“三讲”教育, 我军是人民民主专政的坚强柱石 ]
+  # --- 曹刚川 ---
+  - id: b20-xinhua-2002-11-16-cao-cv
+    title: 十六大授权报道：曹刚川同志简历
+    publisher: 新华网
+    date: 2002-11-16
+    voice: official
+    url: https://web.archive.org/web/20071124093648/http://news.xinhuanet.com/newscenter/2002-11/16/content_631577.htm
+    start: "曹刚川，男，汉族"
+    end: "十六届中央政治局委员。"
+  - id: b20-hoover-cao-biography
+    title: "Cao Gangchuan: A Political Biography"
+    publisher: Hoover Institution, China Leadership Monitor No. 4
+    author: James Mulvenon
+    date: 2002-10-30
+    voice: scholar
+    lang: en
+    url: https://www.hoover.org/research/cao-gangchuan-political-biography
+    excerpt: true
+    keep: [ procurement delegations, Office of Military Trade ]
+  - id: b20-sina-2005-10-19-cao-rumsfeld
+    title: 曹刚川与拉姆斯菲尔德会谈
+    publisher: 新华网（新浪转载）
+    date: 2005-10-19
+    voice: official
+    url: http://news.sina.com.cn/c/2005-10-19/15467210212s.shtml
+    excerpt: true
+    keep: [ 在八一大楼与美国国防部长唐纳德, 曹刚川说 ]
+  - id: b20-bbc-2005-10-20-rumsfeld
+    title: 美国防长走访中国战略导弹中心
+    publisher: BBC 中文网
+    date: 2005-10-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4350000/newsid_4359100/4359134.stm
+    excerpt: true
+    keep: [ 302亿美元的数字是实际的预算, 过去39年来最先获准参观 ]
+  - id: b20-bbc-2007-02-12-cao-asat
+    title: 中国将不再进行摧毁卫星实验
+    publisher: BBC 中文网
+    date: 2007-02-12
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6350000/newsid_6355600/6355683.stm
+    excerpt: true
+    keep: [ 中国进行的这次科技实验, 事发近两周后, 额贺 ]
+  - id: b20-voa-2007-02-12-cao-asat
+    title: 中国停试反卫星武器高层或存分歧
+    publisher: 美国之音
+    date: 2007-02-12
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2007-02-12-voa44-58581902/1091374.html
+    excerpt: true
+    keep: [ 新华社在报导中却对这一表态只字不提, 额贺福志郎 ]
+  - id: b20-sina-2004-07-31-cao-taidu
+    title: 曹刚川：解放军有决心有能力粉碎台独分裂图谋
+    publisher: 中国新闻网（新浪转载）
+    author: 孙宇挺
+    date: 2004-07-31
+    voice: official
+    url: http://news.sina.com.cn/o/2004-07-31/19563257235s.shtml
+    excerpt: true
+    keep: [ “台独”没有和平，分裂没有稳定, 我们必须居安思危 ]
+  # --- 梁光烈 ---
+  - id: b20-bbc-2009-03-21-liang-carrier
+    title: 日媒：梁光烈表明中国将建造航母
+    publisher: BBC 中文网
+    date: 2009-03-21
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7950000/newsid_7957000/7957079.stm
+    excerpt: true
+    keep: [ 大国中没有航母的只有中国, 首次明确表示将建造航母 ]
+  - id: b20-bbc-2011-06-05-liang-shangri-la
+    title: 中国防长：中国不搞军事扩张
+    publisher: BBC 中文网
+    author: 蒋锐
+    date: 2011-06-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/06/110605_china_singapore_security
+    excerpt: true
+    keep: [ 中国国防部长首次率团与会, 人为制造敌人, 言行不一 ]
+  - id: b20-sina-2011-06-05-liang-shangri-la
+    title: 梁光烈称南海磋商和谈判渠道畅通 局势总体稳定
+    publisher: 新华网（新浪军事转载）
+    date: 2011-06-05
+    voice: official
+    url: http://mil.news.sina.com.cn/2011-06-05/2054650604.html
+    excerpt: true
+    keep: [ 中国过去不称霸 ]
+  - id: b20-cntv-2011-06-07-liang-kissinger
+    title: 日本质疑中国造航母仅用作防御 梁光烈正面回应
+    publisher: 联合早报（中国网络电视台转载）
+    date: 2011-06-06
+    voice: zh
+    url: http://news.cntv.cn/military/20110607/101939.shtml
+    excerpt: true
+    keep: [ 差美国20年, 而在于它奉行何种政策, 说一套做的却是另一套 ]
+  - id: b20-cntv-2012-05-09-liang-us
+    title: 中国防长九年来首次访美 美国防长下半年将访华
+    publisher: 中国青年报（中国网络电视台转载）
+    date: 2012-05-09
+    voice: official
+    url: http://news.cntv.cn/china/20120509/103090.shtml
+    excerpt: true
+    keep: [ 摒弃“大国对抗”的传统思维, 两军关系的一个“转返” ]
+  - id: b20-scmp-2024-11-13-liang-death
+    title: Former Chinese defence minister and military leader Liang Guanglie dies aged 83
+    publisher: South China Morning Post
+    author: Sylvie Zhuang
+    date: 2024-11-13
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/military/article/3286274/former-chinese-defence-minister-and-military-leader-liang-guanglie-dies-aged-83
+    excerpt: true
+    keep: [ navigated military ties with the US, wrote about campaigns around Taiwan, outstanding leader in China’s national defence, fought in the Sino-Vietnamese War in 1979 ]
+  - id: b20-docslib-2008-clm23-mulvenon
+    title: "Chinese Military Leadership After the 17th Congress: Hu's Guys or Whose Guys?"
+    publisher: Hoover Institution, China Leadership Monitor No. 23（DocsLib 转载）
+    author: James Mulvenon
+    date: 2008-01-23
+    voice: scholar
+    lang: en
+    url: https://docslib.org/doc/1008457/chinese-military-leadership-after-the-17th-congress-hu-s-guys-or-whose-guys
+    excerpt: true
+    keep: [ internally designated as the next minister, who replaced Liang Guanglie as the Chief of the General Staff ]
+  # --- 陈炳德 ---
+  - id: b20-bbc-2011-05-19-chen-us
+    title: 陈炳德：中国无意挑战美国军力
+    publisher: BBC 中文网
+    date: 2011-05-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world/2011/05/110519_us_china_military_taiwan
+    excerpt: true
+    keep: [ 美国人凭什么售台武器, 解放军没有能力挑战美军, 只有驻防部署没有作战部署 ]
+  - id: b20-cyol-2011-05-20-chen-us
+    title: 陈炳德：军事挑战美国？中国没有这个能力
+    publisher: 中国青年报
+    date: 2011-05-20
+    voice: official
+    url: https://zqb.cyol.com/html/2011-05/20/nw.D110000zgqnb_20110520_2-04.htm
+    excerpt: true
+    keep: [ 中国没这个文化，中国也没这个能力 ]
+  - id: b20-sina-2011-05-20-chen-20years
+    title: 陈炳德坦言中美军力差距20年 解放军仍可打胜仗
+    publisher: 人民网（新浪军事转载）
+    author: 马小宁
+    date: 2011-05-19
+    voice: official
+    url: http://mil.news.sina.com.cn/2011-05-20/1046648102.html
+    excerpt: true
+    keep: [ 感到“很难过”, 在装备落后的情况下 ]
+  - id: b20-fox-2011-05-18-chen-ndu
+    title: China general says his military no match for US
+    publisher: Fox News（美联社稿）
+    date: 2011-05-18
+    voice: west
+    lang: en
+    url: https://www.foxnews.com/us/china-general-says-his-military-no-match-for-us
+    excerpt: true
+    keep: [ a gaping gap between you and us remains, 20 years behind ]
+  - id: b20-voa-2011-07-11-chen-mullen
+    title: 马伦和陈炳德在联合军演问题上针锋相对
+    publisher: 美国之音
+    date: 2011-07-11
+    voice: zh
+    url: https://www.voachinese.com/a/article-20110711-us-china-125355068/784419.html
+    excerpt: true
+    keep: [ 在这个时候搞军事演习, 美国将继续这样做 ]
+  - id: b20-sina-2011-07-12-chen-recon
+    title: 陈炳德要求美军停止对近海侦察活动
+    publisher: 新浪军事
+    date: 2011-07-12
+    voice: official
+    url: http://mil.news.sina.com.cn/2011-07-12/0823656476.html
+    excerpt: true
+    keep: [ 是否给纳税人太大压力了, 距离中国海岸线最近只有16海里 ]
+  - id: b20-0513-2023-10-20-chen-donation
+    title: 陈冬梅代表南通市委、市政府赴京登门拜访南通籍将军陈炳德上将
+    publisher: 南通日报（江海明珠网）
+    date: 2023-10-20
+    voice: official
+    url: https://zhengwu.0513.org/news/detail/23727
+    excerpt: true
+    keep: [ 神舟六号火箭模型, 戎马一生利社稷, 1961年4月入伍, 陈炳德将军当时是中国载人航天工程总指挥 ]
+  - id: b20-sina-2005-10-12-chen-shenzhou6
+    title: 载人航天总指挥宣布神六发射成功(全文)
+    publisher: 国际在线（新浪转载）
+    date: 2005-10-12
+    voice: official
+    url: http://news.sina.com.cn/c/2005-10-12/10197985302.shtml
+    excerpt: true
+    keep: [ 我现在郑重宣布，神舟六号载人飞船发射取得圆满成功 ]
+  - id: b20-sohu-2005-10-08-chen-guarantee
+    title: 总指挥陈炳德3次向中央保证：神六发射确保成功
+    publisher: 南京晨报（搜狐转载）
+    date: 2005-10-08
+    voice: official
+    url: https://news.sohu.com/20051008/n227140537.shtml
+    excerpt: true
+    keep: [ 中国载人航天总指挥、总装备部部长陈炳德, 请不要说可能、大概之类不确定 ]
+  # --- 常万全 ---
+  - id: b20-people-2014-04-09-chang-hagel
+    title: 中美国防部长共同会见记者 常万全就热点问题阐述中方立场
+    publisher: 新华网（人民网转载）
+    date: 2014-04-09
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0409/c70731-24853841.html
+    excerpt: true
+    keep: [ 不会妥协，不会退让，不会交易, 召之即来，来之能战，战之必胜 ]
+  - id: b20-chinanews-2014-04-09-chang-battlefield
+    title: 常万全谈及战场经历 称中美两军应不冲突不对抗
+    publisher: 中国新闻网
+    date: 2014-04-09
+    voice: official
+    url: https://www.chinanews.com.cn/mil/2014/04-09/6041185.shtml
+    excerpt: true
+    keep: [ 都是上过战场的人 ]
+  - id: b20-cmse-2012-06-16-shenzhou9
+    title: 中国载人航天工程总指挥常万全宣布神舟九号飞船发射成功
+    publisher: 中国载人航天工程网
+    date: 2012-06-16
+    voice: official
+    url: https://www.cmse.gov.cn/fxrw/tgyhyszjh/dtyw_621/201206/t20120616_23094.html
+    excerpt: true
+    keep: [ 载人航天工程总指挥、任务总指挥部总指挥长、总装备部部长常万全 ]
+  - id: b20-gov-2016-08-02-chang-zhejiang
+    title: 常万全在浙江调研时强调 认清形势任务 强化责任担当 更加深入扎实做好海上方向动员准备
+    publisher: 新华社（中国政府网）
+    date: 2016-08-02
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2016-08/02/content_5096983.htm
+    excerpt: true
+    keep: [ 充分发挥海上人民战争威力, 必须把打赢新形势下海上人民战争 ]
+  - id: b20-voa-2016-08-02-people-war
+    title: 中国防长称要“准备打一场海上人民战争”
+    publisher: 美国之音
+    date: 2016-08-03
+    voice: zh
+    url: https://www.voachinese.com/a/south-china-sea-20160802/3446148.html
+    excerpt: true
+    keep: [ 上个月，海牙仲裁庭裁定, 常万全 ]
+  - id: b20-cdt-2017-10-chang-xi-praise
+    title: 常万全称习近平“顶天立地”“经天纬地”
+    publisher: 中国数字时代
+    date: 2017-10-20
+    voice: zh
+    url: https://chinadigitaltimes.net/chinese/570619.html
+    excerpt: true
+    keep: [ 顶天立地的历史担当托起伟大梦想 ]
+  - id: b20-secretchina-2017-10-22-chang-deleted
+    title: 中共国防部长十九大对习发“过火”言论 遭删除
+    publisher: 看中国
+    author: 李文隆
+    date: 2017-10-22
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/b5/2017/10/22/838973.html
+    excerpt: true
+    keep: [ 在軍方媒體21日的全文公布中被刪除, 出力扳倒郭伯雄 ]
+  - id: b20-voa-2019-07-generals-demoted
+    title: 中国有些将领出事，传常万全等人降级
+    publisher: 美国之音
+    date: 2019-07
+    voice: zh
+    url: https://www.voachinese.com/a/4999613.html
+    excerpt: true
+    keep: [ 如果这一消息准确, 拖累了他的部下钱卫平, 搬家 ]
+  - id: b20-kzg-2019-07-12-chang-demoted
+    title: 前国防部长常万全传遭降级
+    publisher: 看中国
+    author: 林中宇
+    date: 2019-07-12
+    voice: zh
+    rumor: true
+    url: https://kzg.io/news/b5/2019/07/12/899985.html
+    excerpt: true
+    keep: [ 明鏡新聞網引述消息說, 策劃政變 ]

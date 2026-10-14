@@ -1,0 +1,128 @@
+# B20: quotes, person id → list. Every text is checked verbatim against its cite.
+chi-haotian:
+  - text: I can tell you in a responsible and serious manner that at that time not a single person lost his life in Tiananmen Square.
+    zh: 我可以负责任地、严肃地告诉大家，当时天安门广场上没有一个人丧生。
+    cite: b20-latimes-1996-12-27-tiananmen
+    kind: public
+    date: 1996-12
+    occasion: 以国防部长身份访问华盛顿，在美国国防大学演讲后回答关于六四的提问
+    star: true
+  - text: 我感到打仗很有意思，要想获胜就得往上冲，不怕死！
+    cite: b20-wiki-chi-haotian
+    kind: leaked
+    date: 1946-06
+    occasion: 胶县战斗后向连队汇报，据维基百科记载
+  - text: 我军是人民民主专政的坚强柱石，担负着保卫国家安全和维护社会稳定的神圣使命。
+    cite: b20-rmrb-2000-03-07-chi-npc
+    kind: public
+    date: 2000-03-05
+    occasion: 九届全国人大三次会议解放军代表团审议政府工作报告
+  - text: 中国严格遵守国际上达成的协议和自己作出的承诺，中国说话是算数的。
+    cite: b20-rmrb-2001-08-09-chi-biden
+    kind: public
+    date: 2001-08-08
+    occasion: 在北戴河会见美国参议院外交关系委员会主席拜登，谈防扩散问题
+cao-gangchuan:
+  - text: 中国进行的这次科技实验，不针对任何国家，也不会给任何国家造成威胁。中国没有再次进行类似实验的计划。
+    cite: b20-bbc-2007-02-12-cao-asat
+    kind: leaked
+    date: 2007-02-12
+    occasion: 会见日本前防卫厅长官额贺福志郎时谈 1 月的反卫星试验，由额贺向日本媒体转述
+    star: true
+  - text: 中国的主权和领土完整是至高无上的，十三亿中国人民的意志是不可违背的。
+    cite: b20-sina-2004-07-31-cao-taidu
+    kind: public
+    date: 2004-07-31
+    occasion: 国防部庆祝建军 77 周年招待会祝酒辞
+  - text: 如果“台独”分裂势力一意孤行，中国人民解放军有决心、有能力，坚决粉碎任何“台独”分裂图谋。
+    cite: b20-sina-2004-07-31-cao-taidu
+    kind: public
+    date: 2004-07-31
+    occasion: 同一篇祝酒辞
+  - text: 当前，中美关系总体发展良好。
+    cite: b20-sina-2005-10-19-cao-rumsfeld
+    kind: public
+    date: 2005-10-19
+    occasion: 在八一大楼与美国国防部长拉姆斯菲尔德会谈
+liang-guanglie:
+  - text: 大国中没有航母的只有中国，中国不能永远没有航母。
+    cite: b20-bbc-2009-03-21-liang-carrier
+    kind: leaked
+    date: 2009-03-20
+    occasion: 在北京会晤日本防卫相滨田靖一，据日本共同社报道
+    star: true
+  - text: 中国过去不称霸，现在不称霸，将来发展了也不称霸。
+    cite: b20-sina-2011-06-05-liang-shangri-la
+    kind: public
+    date: 2011-06-05
+    occasion: 第十届香格里拉对话会演讲，中国国防部长首次与会
+  - text: 观察一个国家是否对世界和平构成威胁，主要不在于其国力、军力和强弱，而在于它奉行何种政策。
+    cite: b20-cntv-2011-06-07-liang-kissinger
+    kind: public
+    date: 2011-06-05
+    occasion: 同一场香格里拉对话会主旨演讲
+  - text: 美国前国务卿基辛格前几年访问我们一个比较先进的机械化步兵旅，他说'你们这个装备，差美国20年'。恐怕我们现在就是这个水平。
+    cite: b20-cntv-2011-06-07-liang-kissinger
+    kind: adlib
+    date: 2011-06-05
+    occasion: 香格里拉对话会答问，回应与会者对中国军力扩张的疑虑
+chen-bingde:
+  - text: 中国没这个文化，中国也没这个能力。
+    cite: b20-cyol-2011-05-20-chen-us
+    kind: public
+    date: 2011-05-18
+    occasion: 访美期间在美国国防大学演讲，回应“中国军事威胁论”
+    star: true
+  - text: Although China's defense and military development has come a long way in recent years, a gaping gap between you and us remains
+    zh: 虽然中国的国防和军队建设近年来有了长足进步，但你们和我们之间仍有巨大差距。
+    cite: b20-fox-2011-05-18-chen-ndu
+    kind: public
+    date: 2011-05-18
+    occasion: 同一场美国国防大学演讲（美联社记述）
+  - text: 台湾是中国领土，美国人凭什么售台武器
+    cite: b20-bbc-2011-05-19-chen-us
+    kind: interview
+    date: 2011-05-18
+    occasion: 与美军参联会主席马伦在五角大楼联合记者会，回答美国对台军售问题
+  - text: 美方多次表示无意介入南海争端，但美方无论是在什么形式上，是在实质性里发出了与之相反的信号，在南海和菲律宾及越南搞军事演习，尽管过去也搞，但是在这个时候搞军事演习，是极不妥当的。
+    cite: b20-voa-2011-07-11-chen-mullen
+    kind: interview
+    date: 2011-07-11
+    occasion: 马伦访华，两人在北京举行联合记者会
+  - text: 我知道美国正从金融危机中恢复，在这种情况下，美国还在军事上投入这么多金钱，是否给纳税人太大压力了？
+    cite: b20-sina-2011-07-12-chen-recon
+    kind: interview
+    date: 2011-07-11
+    occasion: 同一场记者会，批评美国军费开支和近海侦察
+  - text: 请不要说可能、大概之类不确定、不负责、不讲党性的话。
+    cite: b20-sohu-2005-10-08-chen-guarantee
+    kind: public
+    date: 2005-10-07
+    occasion: 以载人航天工程总指挥身份在酒泉听取神舟六号任务汇报
+chang-wanquan:
+  - text: 中国军队肩负维护国家主权安全和领土完整的使命，我们时刻做好应对各种威胁和挑战的准备，只要党和人民需要，就能召之即来，来之能战，战之必胜。
+    cite: b20-people-2014-04-09-chang-hagel
+    kind: interview
+    date: 2014-04-08
+    occasion: 与来访的美国国防部长哈格尔共同会见记者，谈钓鱼岛和南海
+    star: true
+  - text: 中国在领土主权问题上不会妥协，不会退让，不会交易，更不允许受到一丝一毫的侵犯。
+    cite: b20-people-2014-04-09-chang-hagel
+    kind: interview
+    date: 2014-04-08
+    occasion: 同一场记者会
+  - text: 我和哈格尔部长都是上过战场的人，深知战争的危害。
+    cite: b20-chinanews-2014-04-09-chang-battlefield
+    kind: interview
+    date: 2014-04-08
+    occasion: 同一场记者会，谈中美两军不冲突不对抗
+  - text: 海上方向是事关国家安全和发展全局的重要战略空间，必须把打赢新形势下海上人民战争，作为重大现实课题认真研究探索。
+    cite: b20-gov-2016-08-02-chang-zhejiang
+    kind: public
+    date: 2016-08
+    occasion: 南海仲裁案裁决后在浙江调研国防动员工作
+  - text: 习主席顶天立地的历史担当托起伟大梦想，经天纬地的雄才大略引领前进方向，战天斗地的革命精神令人心驰神往，翻天覆地的开新图强铸就巨变沧桑，感天动地的领袖情怀彰显大爱无疆
+    cite: b20-cdt-2017-10-chang-xi-praise
+    kind: public
+    date: 2017-10-18
+    occasion: 十九大解放军代表团分组讨论

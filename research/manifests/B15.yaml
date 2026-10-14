@@ -1,0 +1,269 @@
+# B15: full biographies — Li Ganjie, Zhang Guoqing, Chen Jining, Li Shulei, Yuan Jiajun
+web:
+  # ---- shared
+  - id: b15-zaobao-2020-09-01-jungong-zj-ln
+    title: “军工系”大将袁家军张国清出掌浙江辽宁
+    publisher: 联合早报
+    date: 2020-09-01
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20200901-1081532
+    excerpt: true
+    keep: [ 分别晋升中共浙江省委书记和辽宁省委书记, 均年满65岁, 仕途备受看好, 当时只有37岁的袁家军名声大噪, 2013年4月任宁夏自治区政府常务副主席, 已成为中国全国最年轻的省级党委书记, 曾驻伊朗等中东国家, 空降”重庆, 一方面是对军工成就的褒奖 ]
+  - id: b15-rfa-2022-10-28-technocrats
+    title: 北上广官场易人 “忠诚度”比拼技术官僚
+    publisher: 自由亚洲电台
+    date: 2022-10-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/cm-10282022103458.html
+    excerpt: true
+    keep: [ 被外界视为“技术性官僚”, 张扬（Yang Zhang）, 王庆民就对本台表示, 专业性只是一个手段, 在他的大框框内跳舞 ]
+  - id: b15-jamestown-2022-20th-leadership
+    title: "The 20th Party Congress: Xi Set to Score Big in Composition of Next Leadership Corps"
+    publisher: Jamestown Foundation
+    author: Willy Wo-Lap Lam
+    date: 2022-08-12
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/the-20th-party-congress-xi-set-to-score-big-in-composition-of-next-leadership-corps/
+    excerpt: true
+    keep: [ well-known scholar Li Shulei, Another rising star from the same sector ]
+  - id: b15-thinkchina-2022-12-21-tan-kong-yam
+    title: Xi Jinping set on realising China dream after 20th Party Congress
+    publisher: ThinkChina（联合早报）
+    author: Tan Kong Yam
+    date: 2022-12-21
+    voice: scholar
+    lang: en
+    url: https://www.thinkchina.sg/politics/xi-jinping-set-realising-china-dream-after-20th-party-congress
+    excerpt: true
+    keep: [ The mastermind behind both the Two Establishes, Li Shulei is trusted by Xi Jinping, I have been watching him, were both former chief commanders ]
+  # ---- li-ganjie
+  - id: b15-tsinghua-2007-01-11-li-ganjie
+    title: 李干杰被任命为国家环保总局党组成员、副局长
+    publisher: 清华校友总会
+    date: 2007-01-11
+    voice: official
+    url: https://www.tsinghua.org.cn/info/1014/8667.htm
+    start: 1月11日，国家环保总局召开会议
+    end: 并兼国家核安全局局长。
+  - id: b15-guancha-2020-07-21-li-ganjie-governor
+    title: 李干杰当选山东省人民政府省长（附简历）
+    publisher: 齐鲁网（观察者网转载）
+    date: 2020-07-21
+    voice: official
+    url: https://www.guancha.cn/politics/2020_07_21_558384.shtml
+    start: 齐鲁网·闪电新闻7月21日讯
+    end: （人民网资料 截至2020年4月）
+  - id: b15-people-2019-03-11-li-ganjie-presser
+    title: 李干杰：坚决反对、坚决制止“一刀切”现象
+    publisher: 人民网
+    date: 2019-03-11
+    voice: official
+    url: http://lianghui.people.com.cn/2019npc/n1/2019/0311/c425476-30970108.html
+    start: 人民网北京3月11日电
+    end: 推动企业实现绿色发展、高质量发展。
+  - id: b15-dw-2025-04-02-swap
+    title: 中共高层罕见对调：组织部长和统战部长换位
+    publisher: 德国之声中文网
+    date: 2025-04-02
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E7%BD%95%E8%A7%81%E5%AF%B9%E8%B0%83%E7%BB%84%E7%BB%87%E9%83%A8%E9%95%BF%E5%92%8C%E7%BB%9F%E6%88%98%E9%83%A8%E9%95%BF%E6%8D%A2%E4%BD%8D/a-72117510
+    excerpt: true
+    keep: [ 职务出现罕见的对调, 中央统战部部长李干杰主持会议, 这是官方首次披露 ]
+  - id: b15-epoch-2025-04-02-swap
+    title: 官方证实石泰峰李干杰职位对调 或涉习甩锅？
+    publisher: 大纪元
+    date: 2025-04-02
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/25/4/2/n14473227.htm
+    excerpt: true
+    keep: [ 或将用人责任甩锅给, 宋文棣表示, 似乎与习的关系不够紧密 ]
+  # ---- zhang-guoqing
+  - id: b15-people-2013-04-24-zhang-guoqing-cv
+    title: 张国清同志简历
+    publisher: 中国共产党新闻网
+    date: 2013-04-24
+    voice: official
+    url: http://cpc.people.com.cn/n/2013/0424/c123804-21257635.html
+    start: 张国清，男，汉族，1964年8月出生
+    end: 中国兵器工业集团公司总经理、党组副书记。
+  - id: b15-cctv-2021-01-31-zhang-guoqing-cv
+    title: 人物简历：张国清
+    publisher: 人民网（央视网转载）
+    date: 2021-01-31
+    voice: official
+    url: https://news.cctv.com/2021/01/31/ARTItM0XcZqUVg8KQ0MsguaH210131.shtml
+    start: 张国清，男，汉族，1964年8月生
+    end: （简历来源：辽宁日报）
+  - id: b15-xinhua-2023-08-05-zhang-tianjin-flood
+    title: 张国清在天津指导防汛抗洪救灾时强调 抓紧加固堤防 确保安全行洪 坚决打赢防汛抗洪救灾遭遇战
+    publisher: 新华社
+    date: 2023-08-05
+    voice: official
+    url: http://www.news.cn/politics/leaders/2023-08/06/c_1129788639.htm
+    start: 新华社天津8月5日电
+    end: 确保人心安定、社会稳定。
+  - id: b15-xinhua-2023-05-31-zhang-safety-month
+    title: 张国清在全国“安全生产月”活动启动仪式上强调 扎实开展风险隐患排查整治 切实筑牢全社会安全生产防线
+    publisher: 新华社
+    date: 2023-05-31
+    voice: official
+    url: http://www.news.cn/politics/2023-05/31/c_1129660080.htm
+    start: 新华社北京5月31日电
+    end: 的社会氛围。
+  - id: b15-epoch-2026-03-12-zhang-iran
+    title: 【独家】北京军工支援德黑兰的背后
+    publisher: 大纪元
+    date: 2026-03-12
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/26/3/12/n14717195.htm
+    excerpt: true
+    keep: [ 密集现身各类国际与国内场合, 直接受命于习近平, 伊朗通 ]
+  # ---- chen-jining
+  - id: b15-cernet-2012-02-21-chen-jining-cv
+    title: 清华大学第十八任校长陈吉宁同志简介
+    publisher: 新华网（中国教育和科研计算机网转载）
+    date: 2012-02-21
+    voice: official
+    url: https://www.cernet.edu.cn/edu/gao_deng/gao_jiao_news/201202/t20120221_742549.shtml
+    start: 陈吉宁，男，汉族，1964年2月出生
+    end: （简历来源：清华大学新闻网）
+  - id: b15-bjnews-2015-03-01-chen-chaijing
+    title: 环保部部长：已看过《穹顶之下》 短信感谢了柴静
+    publisher: 新京报
+    date: 2015-03-01
+    voice: official
+    url: http://www.bjnews.com.cn/news/2015/03/01/354712.html
+    excerpt: true
+    keep: [ 已经完整看过《穹顶之下》, 从公众和健康的视角, 寂静的春天 ]
+  - id: b15-bbc-2015-03-01-chen-chaijing
+    title: 中国环保部部长：鼓励柴静式关注环境
+    publisher: BBC 中文
+    date: 2015-03-01
+    voice: zh
+    url: https://web.archive.org/web/20250709065504/https://www.bbc.com/zhongwen/simp/china/2015/03/150301_chaijing_smog_documentary
+    excerpt: true
+    keep: [ 中国新任环保部部长陈吉宁周日, 要用积极和善意的态度, 自费拍摄纪录片 ]
+  - id: b15-zaobao-2017-05-27-chen-mayor
+    title: 蔡奇任北京市委书记 陈吉宁接代市长
+    publisher: 联合早报
+    date: 2017-05-27
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20170527-765066
+    excerpt: true
+    keep: [ 少年得志, 受到该校党委书记, 2006年曾帮助解决东北松花江, 缺乏主政地方的行政经验 ]
+  - id: b15-zaobao-2022-10-29-chen-shanghai
+    title: 陈吉宁接任上海市委书记 黄坤明调任广东省委书记
+    publisher: 联合早报
+    date: 2022-10-29
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221029-1327522
+    excerpt: true
+    keep: [ 持续推进缓解空气污染, 外界原本预计陈吉宁将接替蔡奇, 上海市委书记向来是“入常”热门人选, 我将无我 ]
+  # ---- li-shulei
+  - id: b15-thepaper-2020-12-li-shulei-cv
+    title: 李书磊任中央党校分管日常工作的副校长（正部长级）
+    publisher: 澎湃新闻
+    date: 2020-12-23
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_10549789
+    excerpt: true
+    keep: [ 已经出任中央党校, 1978.10, 1982.09, 1984.12, 1986.09, 1989.12, 1993.05, 1996.04, 1996.06, 1999.01, 2001.04, 2002.02, 2008.06, 2008.12, 2009.12, 2014.01, 2015.12, 2016.0, 2017.0, 2018.0, 2019.03, 2020.07, 2020.12, 增选为中央纪委常委 ]
+  - id: b15-fznews-2022-06-05-li-shulei
+    title: 李书磊履新中宣部常务副部长，曾任福建省委常委、宣传部部长（附简历）
+    publisher: 福州新闻网
+    date: 2022-06-05
+    voice: official
+    url: https://news.fznews.com.cn/gngj/20220605/c04y89GJ1L.shtml
+    excerpt: true
+    keep: [ 中宣部分管日常工作的副部长李书磊宣布, 李书磊此前担任 ]
+  - id: b15-pku-2016-li-shulei-prodigy
+    title: 北京新纪委书记李书磊：14岁上北大，曾有“神童”之称
+    publisher: 北京大学校友网
+    date: 2016-01
+    voice: official
+    url: https://www.pku.org.cn/info/1013/1878.htm
+    excerpt: true
+    keep: [ 他正在黄河滩上放羊, 年仅44岁的李书磊出任中央党校副校长, 李书磊几乎不喝酒 ]
+  - id: b15-people-2014-11-12-party-jargon
+    title: 习式讲话再造官方话语体系 善用短、实、新文风抒发情怀
+    publisher: 人民网
+    date: 2014-11-12
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1112/c1001-26011290.html
+    excerpt: true
+    keep: [ 主流话语常常显出较为明显的党八股色彩, 教书匠, 那就应是它奋起从思想上与体制上反对党八股的时候了 ]
+  - id: b15-people-2022-11-10-li-shulei-article
+    title: 增强实现中华民族伟大复兴的精神力量（认真学习宣传贯彻党的二十大精神）
+    publisher: 人民日报
+    author: 李书磊
+    date: 2022-11-10
+    voice: official
+    url: http://politics.people.com.cn/n1/2022/1110/c1001-32562718.html
+    start: 文化是一个国家、一个民族的灵魂。
+    end: 推动中华文化更好走向世界。
+  - id: b15-scmp-2022-10-26-li-shulei
+    title: Politburo newcomer and Xi protégé confirmed as China’s new propaganda chief before presenting summary of party congress
+    publisher: South China Morning Post
+    date: 2022-10-26
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/20260423023118/https://www.scmp.com/news/china/politics/article/3197419/politburo-newcomer-and-xi-protege-confirmed-chinas-new-propaganda-chief-presenting-summary-20th
+    excerpt: true
+    keep: [ Politburo newcomer and Xi Jinping protégé Li Shulei, His promotion to the top job, In his new capacity, Li will enforce ]
+  - id: b15-secretchina-2022-10-26-li-shulei
+    title: 李书磊首次以中宣部长身份亮相
+    publisher: 看中国
+    date: 2022-10-26
+    voice: zh
+    rumor: true
+    url: https://m.secretchina.com/news/gb/2022/10/26/1020159.html
+    excerpt: true
+    keep: [ 习近平旧部李书磊出掌中宣部, 据称习在党内的一些讲话稿亦出自其手, 荷兰 ]
+  # ---- yuan-jiajun
+  - id: b15-cctv-2020-12-01-yuan-jiajun-cv
+    title: 人物简历：袁家军
+    publisher: 人民网（央视网转载）
+    date: 2020-12-01
+    voice: official
+    url: https://news.cctv.com/2020/12/01/ARTIdXamAYkm8UQljjIdfIum201201.shtml
+    start: 袁家军，男，汉族，1962年9月生
+    end: （人民网资料 截至2020年9月）
+  - id: b15-xinhua-2021-06-10-yuan-common-prosperity
+    title: 高质量发展建设共同富裕示范区——访浙江省委书记袁家军
+    publisher: 新华社
+    date: 2021-06-10
+    voice: official
+    url: http://www.xinhuanet.com/politics/2021-06/10/c_1127551960.htm
+    start: 新华社记者何玲玲、袁震宇、商意盈
+    end: 塑造社会新风尚。
+  - id: b15-zaobao-2022-12-08-yuan-chongqing
+    title: 袁家军接替陈敏尔出任中共重庆市委书记
+    publisher: 联合早报
+    date: 2022-12-08
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221208-1341459
+    excerpt: true
+    keep: [ “航天系”官员代表袁家军接替陈敏尔, 33岁的袁家军成为神舟一号, 2012年，袁家军从航天系统空降地方 ]
+  - id: b15-scmp-2017-05-04-aerospace-elite
+    title: Why China’s aerospace experts have become Xi Jinping’s new political elite
+    publisher: South China Morning Post
+    author: Jun Mai
+    date: 2017-05-04
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/policies-politics/article/2092940/how-leaders-chinas-space-programme-entered-political
+    excerpt: true
+    keep: [ have the right stuff for promotion, Last week, former China Academy of Space Technology president Yuan Jiajun ]
+  - id: b15-scmp-2022-12-08-yuan-chongqing
+    title: Rocket scientist Yuan Jiajun named China’s Communist Party chief for mega city Chongqing
+    publisher: South China Morning Post
+    author: Mimi Lau
+    date: 2022-12-08
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/politics/article/3202482/rocket-scientist-yuan-jiajun-named-chinas-communist-party-chief-mega-city-chongqing
+    excerpt: true
+    keep: [ spearheaded President Xi Jinping, often sees incumbents further raised ]

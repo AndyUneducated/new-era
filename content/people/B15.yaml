@@ -1,0 +1,519 @@
+# B15: full biographies. Each entry below starts as the dossier card from C02 (round 1); expanded to tier 1.
+- id: li-ganjie
+  name: 李干杰
+  pinyin: Lǐ Gànjié
+  gender: m
+  ethnicity: 汉族
+  born: 1964-11-11
+  birthplace: 湖南长沙
+  education:
+    - { school: 清华大学工程物理系核反应堆工程专业, degree: 学士, from: 1981, to: 1986 }
+    - { school: 清华大学核反应堆工程与安全专业, degree: 工学硕士, from: 1986, to: 1989 }
+  joinedParty: 1984-12
+  joinedWork: 1989-07
+  roles: [pb, sec, cc, prov, minister]
+  status: active
+  statusNote: 中央政治局委员、书记处书记、中央统战部部长（2025 年 4 月官方证实与石泰峰对调），2026 年 9 月仍以统战部长身份公开活动。
+  tier: 1
+  headline: 中央统战部部长（2025– ）、政治局委员、书记处书记、前中组部部长
+  bio: >-
+    清华核反应堆工程硕士，从国家核安全局北京核安全中心的助理工程师干起，在核安全和环保系统工作近三十年，42 岁任国家环保总局副局长兼国家核安全局局长，此后任环保部副部长近十年。
+    2016 年外放河北任省委副书记，次年回任环保部部长，2018 年机构改革后任生态环境部部长。2020 年调任山东省长，2021 年升省委书记，是当时最年轻的省级党委书记。
+    二十大以本届最年轻政治局委员的身份进入书记处，2023 年接替陈希执掌中组部；2025 年 4 月与统战部长石泰峰罕见对调，改任统战部长。
+  positions:
+    - { title: 国家环保总局副局长、国家核安全局局长, sys: gov, from: 2006-12, to: 2008-03, cite: b15-tsinghua-2007-01-11-li-ganjie }
+    - { title: 环境保护部副部长、国家核安全局局长, sys: gov, from: 2008-03, to: 2016-10, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { title: 河北省委副书记, sys: party, place: 河北, from: 2016-10, to: 2017-05, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { title: 环境保护部部长, sys: gov, from: 2017-06, to: 2018-03, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { title: 生态环境部部长, sys: gov, from: 2018-03, to: 2020-04, cite: c02-rmzxw-2018-03-19-state-council }
+    - { title: 山东省省长, sys: gov, place: 山东, from: 2020-04, to: 2021-09, cite: p01-xinhua-2020-04-17-li-ganjie }
+    - { title: 山东省委书记, sys: party, place: 山东, from: 2021-09, to: 2022-12, cite: p01-xinhua-2022-12-29-lin-wu }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央组织部部长, sys: party, from: 2023-04, to: 2025-04, cite: b09-zaobao-2023-04-26-chen-xi-out }
+    - { title: 中央统战部部长, sys: party, from: 2025-04, cite: b15-dw-2025-04-02-swap }
+  life:
+    - h: 清华核工程
+      from: 1964
+      to: 1989
+      text: >-
+        1964 年 11 月生，湖南人；2007 年清华校友网和 2020 年人民网资料记籍贯为湖南望城，2021、2022 年的新华社通稿则写作湖南长沙（望城今为长沙市辖区）。
+        1981 年考入清华大学工程物理系核反应堆工程专业，1984 年 12 月入党，1986、1989 年先后获学士、硕士学位。亚洲协会政策研究院的研究提到，他是清华校友，两个学位都是核工程。
+      cites: [b15-tsinghua-2007-01-11-li-ganjie, b15-guancha-2020-07-21-li-ganjie-governor, p01-xinhua-2021-09-30-li-ganjie, f01-asiasociety-tsinghua]
+    - h: 核安全系统
+      from: 1989
+      to: 2006
+      text: >-
+        1989 年 7 月到国家核安全局北京核安全中心任助理工程师，1991 年 9 月起赴法国核安全与辐射防护研究院进修（人民网资料记到 1992 年 12 月，清华校友网记到 1993 年 1 月）。
+        回国后在核安全局核反应堆处由主任科员升至处长；1998 年 1 月至 1999 年 1 月挂任湖南平江县委副书记、科技部驻湘科技扶贫团团长，随即出任驻法国使馆科技处一等秘书。
+        2000 年回国家环保总局任核安全与辐射环境管理司副司长，2001 年任核安全中心主任（正局级），2002 年任核安全司司长，2005—2006 年在中央党校一年制中青年干部培训班学习。
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor, b15-tsinghua-2007-01-11-li-ganjie]
+    - h: 环保部副部长十年
+      from: 2006-12
+      to: 2016-10
+      text: >-
+        2006 年 12 月任国家环保总局副局长、党组成员，兼国家核安全局局长，时年 42 岁；2008 年 3 月环保总局改为环境保护部后，他任副部长并继续兼任国家核安全局局长，在这个位置上一直做到 2016 年。
+        联合早报日后回顾他的履历时说，他是高级工程师，长期在环保系统工作。自由亚洲电台的评论也提到，他是从国家核安全局北京核安全中心助理工程师干起，在核安全局和环保总局一路晋升。
+      cites: [b15-tsinghua-2007-01-11-li-ganjie, b15-guancha-2020-07-21-li-ganjie-governor, c02-zaobao-2025-04-03-shi-li-swap, f02-rfa-2023-02-13-jungong]
+    - h: 河北与生态环境部
+      from: 2016-10
+      to: 2020-04
+      text: >-
+        2016 年 10 月外放河北任省委副书记，不到一年即回京，2017 年 5 月任环境保护部党组书记，6 月任部长；2018 年 3 月国务院机构改革组建生态环境部，他任首任部长。自由亚洲电台的评论说，他在担任环保部长期间被习近平指定“抓紧培养”。
+        2019 年 3 月两会记者会上被问到环保督察中的“一刀切”，他说对于“一刀切”，“我们的态度一直是非常鲜明的，坚决反对，坚决制止，严格禁止”，并称这是生态环境领域形式主义和官僚主义的典型表现，要坚持“双查”，既查不作为、慢作为，也查乱作为、滥作为。
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor, c02-rmzxw-2018-03-19-state-council, f02-rfa-2023-02-13-jungong, b15-people-2019-03-11-li-ganjie-presser]
+    - h: 主政山东
+      from: 2020-04
+      to: 2022-12
+      text: >-
+        2020 年 4 月 17 日山东省人大常委会接受龚正辞职，任命他为副省长、代理省长，7 月 21 日当选省长。2021 年 9 月接替因年龄原因卸任的刘家义任山东省委书记，中组部副部长傅兴国到济南宣布中央决定；
+        他由此成为时任最年轻的省级行政区党委书记，同年 10 月当选省人大常委会主任。二十大后他以政治局委员身份兼任山东省委书记，直到 2022 年 12 月 29 日由林武接任，宣布这一决定的仍是中组部部长陈希。
+      cites: [p01-xinhua-2020-04-17-li-ganjie, b15-guancha-2020-07-21-li-ganjie-governor, p01-xinhua-2021-09-30-li-ganjie, p01-wiki-li-ganjie, p01-xinhua-2022-12-29-lin-wu]
+    - h: 接替陈希掌中组部
+      from: 2022-10
+      to: 2025-04
+      text: >-
+        2022 年 10 月二十届一中全会当选政治局委员、书记处书记，是本届最年轻的政治局委员。2023 年 4 月官媒首次披露他的中组部部长身份，正式接替陈希主管党内组织和人事工作。
+        亚洲协会政策研究院的吴国光把他看作陈希的接班人，称陈希十年来扮演“清华新军”教父的角色，如今李干杰是他的副手。海外媒体还把他和刘国中、张国清、袁家军、马兴瑞并称“军工五人帮”，但自由亚洲电台的评论认为他的军工背景“多少有些牵强”。
+      cites: [b08-wikisource-2022-10-23-20-1-plenum, b09-zaobao-2023-04-26-chen-xi-out, f01-asiasociety-tsinghua, f02-rfa-2023-02-13-jungong]
+    - h: 与石泰峰对调
+      from: 2025-04
+      text: >-
+        2025 年 4 月 2 日官方媒体证实，他与中央统战部部长石泰峰职务对调，当天他以统战部长身份主持各民主党派中央长江生态环境保护民主监督工作座谈会；德国之声说“这是官方首次披露两名高官都换到了新的岗位”，中央社称这次对调原因不明，引起外界揣测。
+        据大纪元（传闻），大西洋理事会研究员宋文棣认为这说明习近平觉得中组部审查高层候选人做得不够好，时评人李林一则称他与习的关系不够紧密。2026 年 9 月他仍以统战部长身份出席民族团结进步宣传周主场活动。
+      cites: [b15-dw-2025-04-02-swap, c02-cna-2025-04-02-shi-li-swap, c02-zaobao-2025-04-03-shi-li-swap, b15-epoch-2025-04-02-swap, c02-zytzb-2026-09-22-li-ganjie]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Chen has for a decade played a godfather-like role for the Tsinghua new army, now with Li serving as his lieutenant.
+      zh: 十年来陈希一直扮演着“清华新军”教父般的角色，如今李干杰是他的副手。
+      cite: f01-asiasociety-tsinghua
+    - voice: zh
+      quote: true
+      text: 唯有最年轻的二十届中央政治局委员李干杰的“军工背景”多少有些牵强。
+      cite: f02-rfa-2023-02-13-jungong
+    - voice: zh
+      quote: true
+      text: 這項職務對調被認為是中共黨內罕見的高層人事調動，原因不明，引起外界揣測。
+      cite: c02-cna-2025-04-02-shi-li-swap
+  ids: { wikidata: Q16076530 }
+  cites: [wd-Q16076530, c02-gov-2022-10-23-20th-cvs, b15-guancha-2020-07-21-li-ganjie-governor, b15-tsinghua-2007-01-11-li-ganjie, b15-people-2019-03-11-li-ganjie-presser, b09-zaobao-2023-04-26-chen-xi-out, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, b15-dw-2025-04-02-swap, f01-asiasociety-tsinghua, f02-rfa-2023-02-13-jungong, c02-zytzb-2026-09-22-li-ganjie]
+
+- id: li-shulei
+  name: 李书磊
+  pinyin: Lǐ Shūlěi
+  gender: m
+  ethnicity: 汉族
+  born: 1964-01-21
+  birthplace: 河南原阳
+  education:
+    - { school: 北京大学图书馆学系图书馆学专业, from: 1978, to: 1982 }
+    - { school: 北京大学中文系中国现代文学专业, degree: 文学硕士, from: 1982, to: 1984 }
+    - { school: 北京大学中文系中国现代文学专业, degree: 博士研究生（结业）, from: 1986, to: 1989 }
+  joinedParty: 1986-09
+  joinedWork: 1984-12
+  roles: [pb, sec, ccdi, cc]
+  status: active
+  statusNote: 中央政治局委员、书记处书记、中宣部部长，2026 年 9 月仍以此身份出席亚太媒体高端论坛和北京文化论坛。
+  tier: 1
+  headline: 中央宣传部部长（2022– ）、政治局委员、书记处书记、习近平在中央党校的副手
+  bio: >-
+    14 岁考入北大，有“北大神童”之称，北大中文系现代文学硕士毕业后进中央党校，从文史教研室教员做到教务部主任，在党校工作二十多年。
+    2008 年底任中央党校副校长，给时任校长习近平当副手，外界视他为习的“文胆”。2014 年外放福建任宣传部长，2015 年转入纪检系统任北京市纪委书记，2017 年起任中纪委副书记、国家监委副主任。
+    2020 年回党校主持日常工作，2022 年年中转任中宣部常务副部长，二十大从中纪委常委直接跃入政治局和书记处，接替黄坤明任中宣部部长。
+  positions:
+    - { title: 中央党校文史教研部主任, sys: party, from: 1999-01, to: 2002-02, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 中央党校培训部主任, sys: party, from: 2002-02, to: 2008-06, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 中央党校副校长, sys: party, from: 2008-12, to: 2014-01, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 福建省委常委、宣传部部长, sys: party, place: 福建, from: 2014-01, to: 2015-12, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 北京市委常委、市纪委书记, sys: party, place: 北京, from: 2015-12, to: 2016-12, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 中纪委副书记, sys: party, from: 2017-01, to: 2020-12, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 国家监委副主任, sys: gov, from: 2018-03, to: 2020-12, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 中央党校（国家行政学院）分管日常工作的副校（院）长, sys: party, from: 2020-12, to: 2022-06, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { title: 中央宣传部分管日常工作的副部长, sys: party, from: 2022-06, to: 2022-10, cite: b15-fznews-2022-06-05-li-shulei }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央宣传部部长, sys: party, from: 2022-10, cite: b15-scmp-2022-10-26-li-shulei }
+  life:
+    - h: 黄河滩上的神童
+      from: 1964
+      to: 1984
+      text: >-
+        1964 年 1 月生于河南原阳。1978 年 14 岁考入北京大学图书馆学系；北大校友会的文章说，他考完并不多想，回家干活，录取通知书来时正在黄河滩上放羊，姐姐拿着通知书去找他，他把羊鞭甩进黄河，“当时就想，这下子终于不用放羊了。”
+        1982 年转读北大中文系中国现代文学专业硕士，1984 年毕业。看中国说他 21 岁获当代文学硕士，与官方简历的“现代文学”不同。南洋理工大学的陈抗（Tan Kong Yam）称他以“北大天才”闻名。
+      cites: [b15-pku-2016-li-shulei-prodigy, b15-thepaper-2020-12-li-shulei-cv, b15-secretchina-2022-10-26-li-shulei, b15-thinkchina-2022-12-21-tan-kong-yam]
+    - h: 党校教书匠
+      from: 1984-12
+      to: 2008-12
+      text: >-
+        1984 年 12 月进中央党校文史教研室任教员，1986—1989 年回北大读现代文学博士（简历注“结业”），其间 1986 年入党。此后历任语文教研室主任、文史教研部副主任、主任、培训部主任、教务部主任，其间挂职河北青龙满族自治县委副书记和西安市委副书记。
+        人民网 2014 年的文章引述他当“教书匠”时的文字，批评主流话语常带党八股色彩、自说自话，并说执政党若因党八股之困危及自身与民族生存，“那就应是它奋起从思想上与体制上反对党八股的时候了”。
+      cites: [b15-thepaper-2020-12-li-shulei-cv, b15-people-2014-11-12-party-jargon, f08-caixin-2023-03-06-hu-heping]
+    - h: 习近平的副校长
+      from: 2008-12
+      to: 2014-01
+      text: >-
+        2008 年 12 月 44 岁任中央党校副校长，官至副部级，校长正是时任政治局常委、书记处书记习近平。联合早报说他辅助习近平，被视为习的“文胆”；詹姆斯敦基金会的林和立称他 2007—2012 年在党校给习当副手，也是习的讲稿撰写人（官方简历记他 2008 年底才任副校长）。
+        据看中国（传闻），习在党内的一些讲话稿出自他手；该网还称他六四后曾在荷兰莱顿大学待过数年，官方简历这段时间记为在党校任教。
+      cites: [b15-pku-2016-li-shulei-prodigy, c02-zaobao-2022-11-11-li-shulei, b15-jamestown-2022-20th-leadership, b15-secretchina-2022-10-26-li-shulei, b15-thepaper-2020-12-li-shulei-cv]
+    - h: 福建宣传与北京纪委
+      from: 2014-01
+      to: 2017-01
+      text: >-
+        2014 年 1 月离开党校，任福建省委常委、宣传部部长。2015 年 12 月跨界进入纪检系统，任北京市委常委、市纪委书记；一年后成为中央纪委副书记候选人，2017 年 1 月在十八届中纪委全会上增选为中纪委常委、副书记。
+        据大纪元（传闻）的一篇派系分析，他属于“党校帮”，也曾到福建工作过。
+      cites: [b15-thepaper-2020-12-li-shulei-cv, c02-zaobao-2022-11-11-li-shulei, f07-epoch-2023-11-09-five-cliques]
+    - h: 中纪委副书记
+      from: 2017-01
+      to: 2020-12
+      text: >-
+        2017 年十九大连任中纪委常委、副书记，同年 11 月兼任中国纪检监察学院院长；2018 年 3 月国家监察委员会成立，任国家监委副主任，2020 年 7 月又兼中央纪委国家监委机关党委书记。
+        他在纪检系统前后五年，却始终不是中央委员或候补委员。BBC 中文后来把他和何卫东相提并论，说两人都是从非中央候补委员直接进入政治局，是二十大后备受关注的政治新星，“一个拿笔、一个拿枪”。
+      cites: [b15-thepaper-2020-12-li-shulei-cv, c02-xinhua-2017-10-25-19-1-plenum, b04-bbc-2025-10-nine-generals]
+    - h: 回党校与入中宣部
+      from: 2020-12
+      to: 2022-10
+      text: >-
+        2020 年 12 月回中央党校（国家行政学院）任分管日常工作的副校（院）长，正部长级。2022 年 6 月 5 日，他已以中宣部分管日常工作的副部长身份出席六五环境日国家主场活动。
+        南华早报指出，他在二十大前四个月升为中宣部二号人物，因此接掌部长并不意外；林和立在大会前就预测，接替黄坤明主管宣传的会是这位“知名学者”。陈抗则称他是“两个确立”“两个维护”背后的主要设计者，起草了习近平的许多重要讲话和党内文件。
+      cites: [b15-thepaper-2020-12-li-shulei-cv, b15-fznews-2022-06-05-li-shulei, b15-scmp-2022-10-26-li-shulei, b15-jamestown-2022-20th-leadership, b15-thinkchina-2022-12-21-tan-kong-yam]
+    - h: 中宣部部长
+      from: 2022-10
+      text: >-
+        二十届一中全会当选政治局委员、书记处书记，10 月 26 日首次以中宣部部长身份公开亮相。11 月他在人民日报撰文阐释二十大报告的文化部分，一面说“要发扬学术民主、艺术民主，鼓励解放思想、大胆探索”，一面说要“旗帜鲜明反对和抵制各种错误观点”，并强调新闻舆论工作处在意识形态斗争最前沿。
+        2023 年 10 月全国宣传思想文化工作会议上，他就贯彻习近平文化思想作工作布置。2026 年 9 月他先后在亚太媒体高端论坛和北京文化论坛发表主旨演讲。
+      cites: [b08-wikisource-2022-10-23-20-1-plenum, b15-secretchina-2022-10-26-li-shulei, b15-people-2022-11-10-li-shulei-article, i03-gov-2023-10-08-culture-thought, c02-xinhua-2026-09-05-apac-media, c02-cyol-2026-09-23-beijing-forum]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Li Shulei is trusted by Xi Jinping and has been the key drafter of many of Xi's major speeches and party documents.
+      zh: 李书磊深得习近平信任，是习近平许多重要讲话和党内文件的主要起草者。
+      cite: b15-thinkchina-2022-12-21-tan-kong-yam
+    - voice: west
+      quote: true
+      text: In his new capacity, Li will enforce Xi’s vision on ideology, films, the internet and the media.
+      zh: 在新的岗位上，李书磊将在意识形态、电影、互联网和媒体领域贯彻习近平的意志。
+      cite: b15-scmp-2022-10-26-li-shulei
+    - voice: zh
+      quote: true
+      text: 他们两人也在“二十大”后成为两个备受关注的政治新星：一个拿笔、一个拿枪。
+      cite: b04-bbc-2025-10-nine-generals
+    - voice: zh
+      quote: true
+      text: 辅助时任中共政治局常委、中央党校校长习近平，被视为习近平的“文胆”。
+      cite: c02-zaobao-2022-11-11-li-shulei
+  factions:
+    - f: xi-jiajun
+      cite: c02-zaobao-2022-11-11-li-shulei
+      quote: 辅助时任中共政治局常委、中央党校校长习近平，被视为习近平的“文胆”。
+  ids: { wikidata: Q15931195 }
+  cites: [wd-Q15931195, c02-gov-2022-10-23-20th-cvs, b15-thepaper-2020-12-li-shulei-cv, b15-pku-2016-li-shulei-prodigy, b15-people-2014-11-12-party-jargon, b15-fznews-2022-06-05-li-shulei, b15-people-2022-11-10-li-shulei-article, c02-zaobao-2022-11-11-li-shulei, b15-scmp-2022-10-26-li-shulei, b15-jamestown-2022-20th-leadership, b15-thinkchina-2022-12-21-tan-kong-yam, b04-bbc-2025-10-nine-generals, c02-xinhua-2026-09-05-apac-media]
+
+- id: zhang-guoqing
+  name: 张国清
+  pinyin: Zhāng Guóqīng
+  gender: m
+  ethnicity: 汉族
+  born: 1964-08-13
+  birthplace: 河南罗山
+  education:
+    - { school: 长春光学精密机械学院电子工程系光学电子技术专业, from: 1981, to: 1985 }
+    - { school: 华东工学院（今南京理工大学）管理工程系工业外贸专业, from: 1985, to: 1987 }
+    - { school: 清华大学经济管理学院数量经济学专业（在职）, degree: 经济学博士, from: 2000, to: 2004 }
+  joinedParty: 1984-07
+  joinedWork: 1985-09
+  roles: [pb, cc, prov, minister, biz]
+  status: active
+  statusNote: 中央政治局委员、国务院副总理，2026 年 9 月仍以此身份出席全国食品安全宣传周活动。
+  tier: 1
+  headline: 国务院副总理（2023– ）、政治局委员、前兵器工业集团总经理
+  bio: >-
+    河南罗山人，学光电出身，1987 年进中国北方工业公司做军贸，二十五六岁派驻伊朗德黑兰，32 岁升北方工业副总裁，此后在兵器工业集团做到总经理，任内集团营收率先突破 3000 亿元，得了“兵工少帅”的外号。
+    2013 年空降重庆任市委副书记，2017 年初接替黄奇帆任重庆市长，年底转任天津市长，2020 年任辽宁省委书记，是当时最年轻的省委书记。
+    二十大进入政治局，2023 年任国务院副总理，公开活动多涉安全生产、防汛救灾和食品安全，海外媒体视他为“军工系”在国务院的代表。
+  positions:
+    - { title: 中国北方工业公司副总裁, sys: other, from: 1996-07, to: 2004-04, cite: b15-people-2013-04-24-zhang-guoqing-cv }
+    - { title: 中国兵器工业集团副总经理（2007 年起任党组书记）, sys: other, from: 1999-06, to: 2008-10, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { title: 中国兵器工业集团总经理, sys: other, from: 2008-10, to: 2013-04, cite: c02-wiki-zhang-guoqing }
+    - { title: 重庆市委副书记, sys: party, place: 重庆, from: 2013-04, to: 2017-12, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { title: 重庆市市长, sys: gov, place: 重庆, from: 2016-12, to: 2017-12, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { title: 天津市委副书记, sys: party, place: 天津, from: 2017-12, to: 2020-08, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { title: 天津市市长, sys: gov, place: 天津, from: 2018-01, to: 2020-09, cite: wd-Q8292210 }
+    - { title: 辽宁省委书记, sys: party, place: 辽宁, from: 2020-08, to: 2022-12, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: c02-wiki-zhang-guoqing }
+  life:
+    - h: 罗山到北方工业
+      from: 1964
+      to: 1989
+      text: >-
+        1964 年 8 月生于河南罗山县灵山镇。1981—1985 年在长春光学精密机械学院（今长春理工大学）电子工程系学光电技术，1984 年 7 月入党；1985—1987 年在华东工学院（今南京理工大学）管理工程系读对外经济贸易专业。
+        1987 年 7 月进入中国北方工业公司，从成套项目与技术出口处的项目经理做起，后任中东地区部地区经理。詹姆斯敦基金会的林和立说，他几乎整个职业生涯都在北方工业（Norinco）系统度过，并称之为中国最大的军火制造商。
+      cites: [b15-people-2013-04-24-zhang-guoqing-cv, b15-cctv-2021-01-31-zhang-guoqing-cv, f02-jamestown-2018-xi-faction-regions]
+    - h: 驻德黑兰的军贸生涯
+      from: 1989-10
+      to: 1999-06
+      text: >-
+        1989 年 10 月至 1993 年 2 月任北方工业驻伊朗德黑兰代表处总代表助理。联合早报说，他年轻时作为北方工业的代表，曾驻伊朗等中东国家推销中国军工产品。
+        回国后任中东地区处副处长、处长，1995 年任国际贸易一部副总经理，1996 年 7 月升任北方工业副总裁并兼中国万宝工程公司总经理。詹姆斯敦基金会的林和立指出，他当上副总裁时才 32 岁。1998 年底兼任北方工业党委书记。
+      cites: [b15-people-2013-04-24-zhang-guoqing-cv, b15-zaobao-2020-09-01-jungong-zj-ln, f02-jamestown-2018-xi-faction-regions]
+    - h: 兵工少帅
+      from: 1999-06
+      to: 2013-04
+      text: >-
+        1999 年 6 月任中国兵器工业集团副总经理、党组成员，仍兼管北方工业，其间在清华经管学院在职读数量经济学博士，2001 年秋到哈佛商学院参加高级管理培训。2004 年任北方工业总裁，2007 年 6 月 43 岁任集团党组书记，同年十七大当选中央候补委员。
+        2008 年 10 月任集团总经理。他任内兵器工业集团在 2011 年成为首家营业收入迈上 3000 亿元台阶的军工集团，2012 年列世界 500 强第 205 位，他因此被誉为“兵工少帅”；同年十八大当选中央委员。
+      cites: [b15-people-2013-04-24-zhang-guoqing-cv, b15-cctv-2021-01-31-zhang-guoqing-cv, c02-wiki-zhang-guoqing, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - h: 空降重庆
+      from: 2013-04
+      to: 2017-12
+      text: >-
+        2013 年 4 月从兵器集团总经理任上空降重庆，任市委副书记兼市委党校校长，成为市委书记孙政才的副手。中国经济周刊记下他临行前的话：今后不管走到哪里，兵器工业永远是他的“娘家”，会经常回来汇报工作。
+        2016 年 12 月 30 日接替黄奇帆任代市长，2017 年 1 月 19 日当选市长。联合早报说，他由此成为当时最年轻的直辖市政府主官；中国经济周刊称他是业界著名的军工少帅。
+      cites: [c02-wiki-zhang-guoqing, f08-chinanews-2017-02-07-jungong, c07-ifeng-2026-10-13-huang-qifan, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - h: 天津与辽宁
+      from: 2017-12
+      to: 2022-12
+      text: >-
+        2017 年 12 月调任天津市委副书记，2018 年 1 月 2 日任代市长，成为市委书记李鸿忠的副手，1 月 29 日当选市长。林和立当时写道，他是党内所谓“国防—航天派”最有名的成员之一。
+        2020 年 8 月任辽宁省委书记（官方简历记 8 月，新华社 9 月 1 日发布），成为时任最年轻的省委书记，至此有了两个直辖市和一个工业大省的主政履历；2021 年 1 月兼省人大常委会主任，在辽宁主打优化营商环境、“数字辽宁、智造强省”。
+      cites: [c02-wiki-zhang-guoqing, f02-jamestown-2018-xi-faction-regions, b15-cctv-2021-01-31-zhang-guoqing-cv, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - h: 国务院副总理
+      from: 2023-03
+      text: >-
+        二十届一中全会当选政治局委员；2023 年 1 月在西藏当选全国人大代表，3 月 12 日经李强提名当选国务院副总理，排名第三。
+        5 月 31 日他在全国“安全生产月”启动仪式上说，必须时刻绷紧安全生产这根弦。8 月京津冀遭遇极端强降雨，他受习近平委派紧急赶赴天津指导防汛，要求“坚决打赢当前防汛抗洪救灾这场遭遇战”，确保风险区域人员应撤尽撤、不落一人。2026 年 9 月他出席全国食品安全宣传周主场活动并讲话。
+      cites: [c02-wiki-zhang-guoqing, b15-xinhua-2023-05-31-zhang-safety-month, b15-xinhua-2023-08-05-zhang-tianjin-flood, c02-gov-2026-09-22-zhang-guoqing]
+    - h: 军工系副总理
+      from: 2023
+      text: >-
+        海外媒体把他和刘国中、袁家军、马兴瑞、李干杰并称二十届政治局里的“军工五人帮”。据大纪元（传闻），国务院五名副总理“都是习家军，但分属五个不同帮派”，他属于军工帮；
+        大纪元 2026 年 3 月的另一篇报道（传闻）引三名体制内消息人士说，伊朗局势紧张后他直接受命于习近平，协调军工供应链，被视为“伊朗通”。2026 年 7 月同属军工航天系的马兴瑞被官宣落马，BBC 中文说二十大周期内已有三名在任政治局委员落马。
+      cites: [f02-rfa-2023-02-13-jungong, f07-epoch-2023-11-09-five-cliques, b15-epoch-2026-03-12-zhang-iran, b08-bbc-2026-07-14-ma]
+  assess:
+    - voice: scholar
+      quote: true
+      text: One of the most famous members of this so-called Defense-Aerospace Faction in party politics is Zhang Guoqing
+      zh: 党内政治中这个所谓“国防—航天派”最有名的成员之一是张国清。
+      cite: f02-jamestown-2018-xi-faction-regions
+    - voice: official
+      quote: true
+      text: 出生于1964年的重庆市代市长张国清曾任中国兵器工业集团公司总经理，是业界著名的军工少帅
+      cite: f08-chinanews-2017-02-07-jungong
+    - voice: zh
+      quote: true
+      text: 中共高层大力提拔“军工系”的高官，一方面是对军工成就的褒奖，另一方面也是要为政坛注入更多新风气。
+      cite: b15-zaobao-2020-09-01-jungong-zj-ln
+  factions:
+    - f: aerospace
+      cite: f02-zaobao-2022-10-24-aerospace
+      quote: 例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景。
+  ids: { wikidata: Q8292210 }
+  cites: [wd-Q8292210, c02-gov-2022-10-23-20th-cvs, b15-people-2013-04-24-zhang-guoqing-cv, b15-cctv-2021-01-31-zhang-guoqing-cv, c02-wiki-zhang-guoqing, b15-zaobao-2020-09-01-jungong-zj-ln, f02-jamestown-2018-xi-faction-regions, f08-chinanews-2017-02-07-jungong, b15-xinhua-2023-08-05-zhang-tianjin-flood, c02-gov-2026-09-22-zhang-guoqing]
+
+- id: chen-jining
+  name: 陈吉宁
+  pinyin: Chén Jíníng
+  gender: m
+  ethnicity: 汉族
+  born: 1964-02-04
+  birthplace: 辽宁盖州
+  origin: 吉林梨树
+  education:
+    - { school: 清华大学土木与环境工程系, degree: 学士, from: 1981, to: 1986 }
+    - { school: 清华大学环境工程系, degree: 硕士研究生, from: 1986, to: 1988 }
+    - { school: 英国帝国理工医学院土木系, degree: 博士, from: 1989, to: 1993 }
+  joinedParty: 1984-04
+  joinedWork: 1998-04
+  roles: [pb, cc, prov, minister, scholar]
+  status: active
+  statusNote: 中央政治局委员、上海市委书记，2026 年 9 月仍以此身份主持市委常委会议。
+  tier: 1
+  headline: 上海市委书记（2022– ）、政治局委员、前北京市长、前清华大学校长
+  bio: >-
+    清华环境工程出身，英国帝国理工学院博士，在英国做了几年博士后和研究员，1998 年回清华任教，2006 年任副校长，2012 年出任清华大学校长，被称为 1949 年以来最年轻的清华校长。
+    2015 年任环境保护部部长，上任后第一次见媒体就公开称赞柴静的雾霾纪录片《穹顶之下》。2017 年接替蔡奇任北京市长，主持冬奥会筹办，任内经历大兴火灾后的大清理。
+    二十大进入政治局，接替李强任上海市委书记；外界多视他为“技术型”官员和清华系的代表人物。
+  positions:
+    - { title: 清华大学环境工程系主任, sys: other, from: 1999-07, to: 2006-02, cite: b15-cernet-2012-02-21-chen-jining-cv }
+    - { title: 清华大学副校长（2007 年起任常务副校长）, sys: other, from: 2006-02, to: 2012-01, cite: b15-cernet-2012-02-21-chen-jining-cv }
+    - { title: 清华大学校长, sys: other, from: 2012-01, to: 2015-01, cite: p01-xinhua-2022-10-28-chen-jining }
+    - { title: 环境保护部部长, sys: gov, from: 2015-02, to: 2017-06, cite: c02-wiki-chen-jining }
+    - { title: 北京市市长, sys: gov, place: 北京, from: 2017-05, to: 2022-10, cite: p01-xinhua-2022-10-28-chen-jining }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2022-10, cite: p01-xinhua-2022-10-28-chen-jining }
+  life:
+    - h: 清华与留英
+      from: 1964
+      to: 1998
+      text: >-
+        1964 年 2 月生，籍贯吉林梨树。1981 年考入清华大学土木与环境工程系，1986 年本科毕业，接着读环境工程硕士；清华简历记他 1984 年 4 月入党，2022 年官方简历则记为 1984 年 6 月。
+        1988 年 10 月赴英国布鲁耐尔大学读博，1989 年 7 月转到帝国理工医学院土木系，1993 年获博士学位，此前一年起已在帝国理工做博士后，1994 年任助理研究员。The Diplomat 的文章说，他和胡和平都是 1980 年代初进清华读本科、读完硕士再出国读博的。
+      cites: [b15-cernet-2012-02-21-chen-jining-cv, c02-gov-2022-10-23-20th-cvs, f08-diplomat-2015-04-27-tsinghua]
+    - h: 回清华
+      from: 1998-03
+      to: 2012-01
+      text: >-
+        1998 年 3 月回清华任教，任环境工程系副主任，次年任系主任。2006 年 2 月与胡和平同时出任清华副校长，2007 年 12 月任常务副校长兼秘书长，2010 年兼研究生院院长。
+        联合早报说，他参与过多项国家重大环境工程攻关，2006 年曾帮助处理东北松花江化学污染问题；还说“有消息说”他在清华时受到党委书记陈希的欣赏。The Diplomat 的薄智跃则直接把他和胡和平称作陈希在清华的门生。
+      cites: [b15-cernet-2012-02-21-chen-jining-cv, b15-zaobao-2017-05-27-chen-mayor, f08-diplomat-2015-04-27-tsinghua]
+    - h: 清华校长
+      from: 2012-01
+      to: 2015-01
+      text: >-
+        2012 年初出任清华大学校长（新华社和清华简历记 1 月，维基百科和 The Diplomat 记 2 月），是 1949 年以来最年轻的清华校长；因为没有院士头衔，在校内外引起不小争议，也有人认为管理水平不能与学术水平等同。
+        薄智跃 2015 年写道，他是国务院高层职位和政治局委员的合适人选。据大纪元（传闻），学者沈栋称陈希并不喜欢他，真正提拔他的很可能是温家宝时期的副总理刘延东。
+      cites: [p01-xinhua-2022-10-28-chen-jining, b15-cernet-2012-02-21-chen-jining-cv, c02-wiki-chen-jining, f08-diplomat-2015-04-27-tsinghua, f08-epoch-2022-10-28-tsinghua]
+    - h: 环保部长与《穹顶之下》
+      from: 2015-01
+      to: 2017-05
+      text: >-
+        2015 年 1 月 28 日接替周生贤任环境保护部党组书记，2 月 27 日 51 岁任部长，是当时国务院最年轻的部长。3 月 1 日第一次见媒体，他说前一晚完整看完了柴静的雾霾纪录片《穹顶之下》，并发短信向她致谢，称赞她从公众和健康的视角唤起关注，“值得我们敬佩”，还拿它比《寂静的春天》。
+        BBC 中文报道，他说对柴静的报道要用积极和善意的态度鼓励。联合早报说，他任内推出被称为“史上最严”的新环保法。
+      cites: [c02-wiki-chen-jining, b15-bjnews-2015-03-01-chen-chaijing, b15-bbc-2015-03-01-chen-chaijing, b15-zaobao-2017-05-27-chen-mayor]
+    - h: 北京市长
+      from: 2017-05
+      to: 2022-10
+      text: >-
+        2017 年 5 月 27 日任北京市代市长，接替升任市委书记的蔡奇；联合早报说，与蔡奇的“大器晚成”不同，他属于“少年得志”，但长期在学校工作，缺乏主政地方的行政经验。2018 年 1 月当选市长，后兼北京冬奥组委执行主席。
+        2017 年 11 月 18 日大兴西红门镇火灾造成 19 人死亡，他与蔡奇连夜赶到现场；随后的安全隐患大清理中，他要求取缔违法场所、拆除违法建筑，“倒逼安全隐患突出的低端业态疏解腾退”。
+      cites: [c02-wiki-chen-jining, b15-zaobao-2017-05-27-chen-mayor, c02-gov-2022-10-23-20th-cvs, b06-people-2017-11-20-cai-fire]
+    - h: 主政上海
+      from: 2022-10
+      text: >-
+        2022 年 10 月 23 日当选政治局委员，28 日由中组部部长陈希在上海宣布，他接替升任政治局常委的李强任上海市委书记。联合早报说，外界原本预计他会接替蔡奇主政北京，而上海市委书记向来是“入常”热门人选。
+        他表态要以“我将无我”的担当和“时时放心不下”的责任感埋头苦干，次日瞻仰中共一大会址。此后他一直主政上海，2026 年 9 月还主持市委常委会扩大会议，部署巩固树立和践行正确政绩观学习教育成果。
+      cites: [p01-xinhua-2022-10-28-chen-jining, b15-zaobao-2022-10-29-chen-shanghai, c02-wiki-chen-jining, c02-shgov-2026-09-08-chen-jining]
+    - h: 技术官僚与接班猜测
+      from: 2022-10
+      text: >-
+        自由亚洲电台说，他被外界视为“技术性官僚”。美利坚大学的张扬在推特上希望他和李干杰两位新任政治局委员继续关注环境治理；旅欧学者王庆民则认为，专业性只是手段，最终还要受限于体制。
+        大纪元（传闻）引张杨说，他和李干杰双双提拔与习近平和陈希有关。据看中国（传闻），前内蒙古自治区政府法律顾问室执行主任杜文 2025 年称，如果习近平 2027 年退休，二号接班人（总理）是陈吉宁。
+      cites: [b15-rfa-2022-10-28-technocrats, f08-epoch-2022-10-28-tsinghua, r01-secretchina-2025-08-15-xi-retire]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Chen Jining is a good candidate for a senior position in the State Council and also a good candidate for a membership on the Politburo.
+      zh: 陈吉宁是国务院高层职位的合适人选，也是政治局委员的合适人选。
+      cite: f08-diplomat-2015-04-27-tsinghua
+    - voice: zh
+      quote: true
+      text: 陈吉宁长期在学校工作，缺乏主政地方的行政经验，出任北京市长后，他将面临如何驾驭官僚体系等诸多挑战。
+      cite: b15-zaobao-2017-05-27-chen-mayor
+    - voice: zh
+      quote: true
+      text: 专业性只是一个手段，最终还是要受限于体制，被政治的指挥棒指挥。
+      cite: b15-rfa-2022-10-28-technocrats
+    - voice: zh
+      quote: true
+      text: 上海市委书记向来是“入常”热门人选，作为新一届政治局中最年轻的委员之一，陈吉宁此次出任上海“一把手”，预示着仕途还有进一步上升空间。
+      cite: b15-zaobao-2022-10-29-chen-shanghai
+  ids: { wikidata: Q9364514 }
+  cites: [wd-Q9364514, c02-gov-2022-10-23-20th-cvs, b15-cernet-2012-02-21-chen-jining-cv, c02-wiki-chen-jining, p01-xinhua-2022-10-28-chen-jining, b15-bjnews-2015-03-01-chen-chaijing, b15-bbc-2015-03-01-chen-chaijing, b15-zaobao-2017-05-27-chen-mayor, b15-zaobao-2022-10-29-chen-shanghai, b15-rfa-2022-10-28-technocrats, f08-diplomat-2015-04-27-tsinghua, c02-shgov-2026-09-08-chen-jining]
+
+- id: yuan-jiajun
+  name: 袁家军
+  pinyin: Yuán Jiājūn
+  gender: m
+  ethnicity: 汉族
+  born: 1962-09
+  birthplace: 吉林通化
+  education:
+    - { school: 北京航空学院飞机设计与应用力学系固体力学专业, degree: 学士, from: 1980, to: 1984 }
+    - { school: 航空航天工业部第五研究院 501 部空间飞行器设计专业, degree: 硕士研究生, from: 1984, to: 1987 }
+    - { school: 北京航空航天大学飞行器设计专业（在职）, degree: 工学博士, from: 2001, to: 2006 }
+  joinedParty: 1992-11
+  joinedWork: 1987-07
+  roles: [pb, cc, prov, biz]
+  status: active
+  statusNote: 中央政治局委员、重庆市委书记，2026 年 9 月仍以此身份主持市委常委会议。
+  tier: 1
+  headline: 重庆市委书记（2022– ）、政治局委员、前浙江省委书记、神舟飞船前总指挥
+  bio: >-
+    北京航空学院毕业后进航天五院，在航天系统干了 28 年，33 岁任神舟一号飞船系统常务副总指挥，此后担任神舟二号至五号飞船系统总指挥，2003 年任五院院长，2007 年任中国航天科技集团副总经理，有“航天少帅”之称。
+    2012 年下放宁夏，2014 年调浙江任常务副省长，2017 年任省长，2020 年接替车俊任浙江省委书记，主持“共同富裕示范区”建设。
+    二十大进入政治局，接替陈敏尔主政重庆；2026 年曾与他同在航天科技集团领导层的马兴瑞落马后，他仍在重庆任上。
+  positions:
+    - { title: 中国空间技术研究院（航天五院）副院长, sys: other, from: 1996-05, to: 2003-01, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 中国空间技术研究院（航天五院）院长, sys: other, from: 2003-01, to: 2007-11, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 中国航天科技集团副总经理, sys: other, from: 2007-11, to: 2012-03, cite: c02-wiki-yuan-jiajun }
+    - { title: 宁夏回族自治区党委常委、宁东能源化工基地党工委书记, sys: party, place: 宁夏, from: 2012-03, to: 2014-07, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 宁夏回族自治区政府副主席（2013 年 4 月起常务）, sys: gov, place: 宁夏, from: 2013-01, to: 2014-07, cite: c02-wiki-yuan-jiajun }
+    - { title: 浙江省委常委、常务副省长, sys: gov, place: 浙江, from: 2014-08, to: 2016-11, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 浙江省委副书记（2017 年 7 月前兼政法委书记）, sys: party, place: 浙江, from: 2016-10, to: 2020-08, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 浙江省代省长、省长, sys: gov, place: 浙江, from: 2017-04, to: 2020-08, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 浙江省委书记, sys: party, place: 浙江, from: 2020-08, to: 2022-12, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2022-12, cite: p02-xinhua-2022-12-08-chongqing-sec }
+  life:
+    - h: 北航与五院
+      from: 1962
+      to: 1995
+      text: >-
+        1962 年 9 月生于吉林通化。1980—1984 年在北京航空学院飞机设计与应用力学系读固体力学，随后到航空航天工业部第五研究院（航天五院）501 部读空间飞行器设计硕士，1987 年 7 月留在 501 部结构室当助理工程师，1992 年 11 月入党。
+        此后由工程师、主任助理升至结构室副主任、501 部副主任。联合早报说他毕业后在航天系统一干就是 28 年。
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - h: 神舟总指挥
+      from: 1995
+      to: 2007
+      text: >-
+        1995 年 5 月 33 岁任五院院长助理、神舟一号飞船系统常务副总指挥（人民网另一篇文章说他自 1992 年载人航天工程启动起就任飞船系统第一副总指挥），1996 年任五院副院长。1999 年 11 月神舟一号首飞成功，联合早报说时年 37 岁的他名声大噪。
+        此后他担任神舟二号至五号飞船系统总指挥，2003 年任五院院长，在职读完北航飞行器设计博士。人民网称他曾被外界认为是“中国航天工程的领航人物”，与张庆伟是老搭档。
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, f08-people-2016-12-07-aerospace, b15-zaobao-2020-09-01-jungong-zj-ln, b15-zaobao-2022-12-08-yuan-chongqing]
+    - h: 航天科技副总经理
+      from: 2007-10
+      to: 2012-03
+      text: >-
+        2007 年 10 月十七大当选中央候补委员，11 月 45 岁出任中国航天科技集团副总经理、党组成员，主管宇航业务，与总经理马兴瑞共事；2008 年兼任探月工程二期副总指挥和中俄联合探测火星工程副总指挥，2009 年在中央党校中青年干部培训班学习。
+        他还先后任第七、八届中国科协副主席，调任地方后仍保留这一兼职。
+      cites: [c02-wiki-yuan-jiajun, b15-zaobao-2022-12-08-yuan-chongqing, b15-cctv-2020-12-01-yuan-jiajun-cv, f08-chinanews-2017-02-07-jungong]
+    - h: 下放宁夏
+      from: 2012-03
+      to: 2014-07
+      text: >-
+        2012 年 3 月离开航天系统，任宁夏回族自治区党委常委、宁东能源化工基地党工委书记、管委会主任。2013 年起兼自治区政府副主席，同年升任常务副主席（人民网资料记为 2013 年 1 月即任常务副主席，维基百科和联合早报记为 2013 年 4 月）。
+        人民网 2016 年统计，近五年至少有六名航天系统中央干部空降地方担任主要领导，他是其中之一，同批还有张庆伟、陈求发、马兴瑞、许达哲等人。
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, c02-wiki-yuan-jiajun, b15-zaobao-2020-09-01-jungong-zj-ln, f08-people-2016-12-07-aerospace]
+    - h: 浙江省长
+      from: 2014-07
+      to: 2020-08
+      text: >-
+        2014 年 7 月调浙江，8 月任省委常委、常务副省长兼浙江行政学院院长；2016 年 10 月任省委副书记、政法委书记。2017 年 4 月任代省长，南华早报说浙江是民营经济重镇、习近平的权力基地，航天系老兵被党认定具备主政要省的条件。
+        2017 年 7 月正式任省长（2018 年 1 月新一届省人大再次选举他为省长），同年 10 月十九大当选中央委员。2020 年 8 月接替年满 65 岁的车俊任浙江省委书记，联合早报说他“仕途备受看好”。
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, c02-wiki-yuan-jiajun, b15-scmp-2017-05-04-aerospace-elite, p01-xinhua-2018-01-30-yuan-jiajun, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - h: 共同富裕示范区
+      from: 2021-06
+      to: 2022-10
+      text: >-
+        2021 年 6 月 10 日中共中央、国务院发文支持浙江建设共同富裕示范区。他接受新华社专访说，“共同富裕不仅是社会发展概念，更是一场以缩小地区差距、城乡差距、收入差距为标志的社会变革”，浙江将按“每年有新突破、5年有大进展、15年基本建成”推进，到 2025 年率先基本形成以中等收入群体为主体的橄榄型社会结构，并以数字化改革撬动体制机制突破。
+        南华早报称他以浙江省委书记身份牵头推行习近平的“共同富裕”运动；林和立此前就认为他是下一届政治局的有力竞争者。
+      cites: [b15-xinhua-2021-06-10-yuan-common-prosperity, b15-scmp-2022-12-08-yuan-chongqing, b15-jamestown-2022-20th-leadership]
+    - h: 主政重庆
+      from: 2022-10
+      text: >-
+        2022 年 10 月当选政治局委员，12 月 8 日由陈希在重庆宣布，他接替调任天津的陈敏尔任重庆市委书记。南华早报说，重庆市委书记这一职位的在任者常常被进一步提拔进入国家最高领导层。
+        2026 年 7 月，与他同期任航天科技集团副总经理的马兴瑞被官宣落马，BBC 中文说两人当年都在二十大成为政治局委员，被视为“航天系”技术官僚的从政顶峰。2026 年 9 月他仍以市委书记身份主持市委常委会扩大会议。
+      cites: [p02-xinhua-2022-12-08-chongqing-sec, b15-scmp-2022-12-08-yuan-chongqing, b08-bbc-2026-07-14-ma, c02-cqnews-2026-09-19-yuan-jiajun]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Since Zhejiang is a key power base of President Xi, Yuan, another alumni of the CASC, is a strong contender for the Politburo five years later
+      zh: 由于浙江是习主席的重要权力基地，同样出身航天科技集团的袁家军是五年后进入政治局的有力竞争者。
+      cite: b15-jamestown-2022-20th-leadership
+    - voice: west
+      quote: true
+      text: China’s Communist Party has decided that veterans of the country’s space programme have the right stuff for promotion to important political roles in key provinces.
+      zh: 中国共产党认定，国家航天项目的老兵具备被提拔到关键省份担任重要政治职务的素质。
+      cite: b15-scmp-2017-05-04-aerospace-elite
+    - voice: official
+      quote: true
+      text: 袁家军曾被外界认为是中国航天工程的领航人物。
+      cite: f08-people-2016-12-07-aerospace
+    - voice: zh
+      quote: true
+      text: 马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰。
+      cite: b08-bbc-2026-07-14-ma
+  factions:
+    - f: aerospace
+      cite: f02-zaobao-2022-10-24-aerospace
+      quote: 例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景。
+  ids: { wikidata: Q8292172 }
+  cites: [wd-Q8292172, c02-gov-2022-10-23-20th-cvs, b15-cctv-2020-12-01-yuan-jiajun-cv, c02-wiki-yuan-jiajun, b15-zaobao-2020-09-01-jungong-zj-ln, b15-zaobao-2022-12-08-yuan-chongqing, b15-xinhua-2021-06-10-yuan-common-prosperity, b15-scmp-2017-05-04-aerospace-elite, b15-scmp-2022-12-08-yuan-chongqing, b15-jamestown-2022-20th-leadership, p02-xinhua-2022-12-08-chongqing-sec, c02-cqnews-2026-09-19-yuan-jiajun]
