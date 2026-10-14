@@ -1,0 +1,115 @@
+# 首页滚动叙事（decisions #35）。叙述是编者的话；每一步列出所涉事件与人物，右侧舞台随滚动切换。
+# 舞台：seats 政治局席位图（focus 高亮）；falls 落马者散点（按首次被查年份）；doc 公文原文（strike 划去，逐字核对）；
+# cmc 军委成员（at 日期前落马的盖朱印）。
+
+- id: hu-wen
+  title: 胡温共治
+  years: 2002—2012
+  steps:
+    - text: 2002 年十六大，胡锦涛接任总书记。九名常委里，外媒多认为过半出自江泽民一系；江泽民本人留任中央军委主席，到 2004 年才交出。
+      events: [e2002-16th-congress, e06-2002-hu-defers-to-jiang]
+      people: [hu-jintao, jiang-zemin]
+      stage: { kind: seats, n: 16, frame: classic, focus: [hu-jintao, wen-jiabao] }
+    - text: 2006 年，上海市委书记陈良宇因社保基金案被免职，是胡锦涛任内第一个落马的在任政治局委员。
+      events: [e2006-chen-liangyu, e2008-chen-liangyu-sentenced]
+      people: [chen-liangyu]
+      stage: { kind: seats, n: 16, frame: classic, focus: [chen-liangyu] }
+    - text: 2007 年十七大，习近平、李克强同时入常，下一代的接班格局初定。会前，中央第一次在党内做了政治局人选的“民主推荐”。
+      events: [e2007-17th-congress, e06-2007-straw-poll]
+      people: [xi-jinping, li-keqiang]
+      stage: { kind: seats, n: 17, frame: classic, focus: [xi-jinping, li-keqiang] }
+
+- id: bo-xilai
+  title: 薄熙来事件
+  years: 2011—2013
+  steps:
+    - text: 重庆市委书记薄熙来以“唱红打黑”声名大噪，被视为十八大入常的有力竞争者。
+      events: [e2011-bo-xilai-red-songs]
+      people: [bo-xilai]
+      stage: { kind: seats, n: 17, frame: classic, focus: [bo-xilai] }
+    - text: 2012 年 2 月，重庆副市长、前公安局长王立军闯入美国驻成都总领事馆；一个月后薄熙来被免职。坊间随即流传薄熙来与周永康密谋的说法。
+      events: [e2012-wang-lijun-consulate, e2012-bo-xilai-removed, e06-2012-wang-lijun-documents]
+      people: [wang-lijun, bo-xilai, zhou-yongkang]
+      stage: { kind: seats, n: 17, frame: classic, focus: [bo-xilai, zhou-yongkang] }
+    - text: 9 月，即将接班的习近平两周没有公开露面，猜测四起；同月薄熙来被开除党籍，次年一审判处无期徒刑。
+      events: [e2012-xi-disappearance, e2012-bo-xilai-expelled, e03-2013-bo-xilai-verdict]
+      people: [xi-jinping, bo-xilai]
+      stage: { kind: seats, n: 17, frame: classic, focus: [xi-jinping, bo-xilai] }
+
+- id: eighteenth
+  title: 十八大
+  years: 2012
+  steps:
+    - text: 十八大把常委从九人减为七人。习近平接任总书记，同时接任中央军委主席——江泽民 2002 年没有做到的“全面交班”，这次一步完成。
+      events: [e2012-18th-party-congress]
+      people: [xi-jinping]
+      stage: { kind: seats, n: 18, frame: xi, focus: [xi-jinping, li-keqiang, zhang-dejiang, yu-zhengsheng, liu-yunshan, wang-qishan, zhang-gaoli] }
+    - text: 三周后，中央政治局通过八项规定；12 月，四川省委副书记李春城成为十八大后第一个落马的省部级官员。
+      events: [e2012-eight-point-rules, e2012-li-chuncheng-investigated]
+      people: [wang-qishan]
+      stage: { kind: falls, from: 2012, to: 2013, focus: [li-chuncheng] }
+
+- id: tigers
+  title: 打虎
+  years: 2013—2017
+  steps:
+    - text: 2014 年，前军委副主席徐才厚、前常委周永康相继被查，打破了“刑不上常委”的惯例。
+      events: [e03-2014-xu-caihou-expelled, e03-2014-zhou-yongkang-investigated, e03-2015-zhou-yongkang-sentenced]
+      people: [zhou-yongkang, xu-caihou]
+      stage: { kind: falls, from: 2012, to: 2017, focus: [zhou-yongkang, xu-caihou] }
+    - text: 胡锦涛的前中办主任令计划、前军委副主席郭伯雄随后落马；2017 年，在任政治局委员、重庆市委书记孙政才在十九大前三个月被拿下。
+      events: [e03-2014-ling-jihua-investigated, e03-2015-guo-boxiong-expelled, e03-2017-sun-zhengcai-purged]
+      people: [ling-jihua, guo-boxiong, sun-zhengcai]
+      stage: { kind: falls, from: 2012, to: 2017, focus: [ling-jihua, guo-boxiong, sun-zhengcai] }
+    - text: 清洗没有随第一个任期结束。每个点是本站收录的一名落马者，放在他第一次被查的年份。
+      events: []
+      people: []
+      stage: { kind: falls, from: 2012, to: 2026, focus: [] }
+
+- id: term-limits
+  title: 修宪
+  years: 2018
+  steps:
+    - text: 2018 年 3 月 11 日，十三届全国人大一次会议以 2958 票赞成、2 票反对、3 票弃权通过宪法修正案，删去国家主席、副主席任期的两届限制。
+      events: [e03-2018-term-limits-removed]
+      people: [xi-jinping]
+      stage:
+        kind: doc
+        head: 宪法修正案（2018 年）第四十五条
+        text: 宪法第七十九条第三款“中华人民共和国主席、副主席每届任期同全国人民代表大会每届任期相同，连续任职不得超过两届。”修改为：“中华人民共和国主席、副主席每届任期同全国人民代表大会每届任期相同。”
+        strike: 连续任职不得超过两届。
+        cite: e03-xinhua-2018-03-11-amendment
+
+- id: twentieth
+  title: 二十大清场
+  years: 2022
+  steps:
+    - text: 十九届常委里，李克强、汪洋都只有 67 岁，按“七上八下”的惯例本可留任；政治局委员胡春华 59 岁，曾被看作接班人选。
+      events: []
+      people: [li-keqiang, wang-yang, hu-chunhua]
+      stage: { kind: seats, n: 19, frame: xi, focus: [li-keqiang, wang-yang, hu-chunhua] }
+    - text: 二十大闭幕会上，前总书记胡锦涛被人带离主席台。次日一中全会：三人都不在新的政治局常委里，新常委被外媒普遍视为习近平的旧部或亲信。
+      events: [hu-jintao-escorted-out, first-plenum-20th, charter-two-establishes]
+      people: [hu-jintao, li-qiang, cai-qi, ding-xuexiang, li-xi]
+      stage: { kind: seats, n: 20, frame: xi, focus: [li-qiang, cai-qi, ding-xuexiang, li-xi] }
+
+- id: army
+  title: 军队清洗
+  years: 2023—2026
+  steps:
+    - text: 二十届中央军委七人：主席习近平，副主席张又侠、何卫东。上一排是十九届军委，其中四人留任。
+      events: [first-plenum-20th]
+      people: [zhang-youxia, he-weidong]
+      stage: { kind: cmc, n: [19, 20], at: 2022-10-23 }
+    - text: 2023 年夏，国防部长李尚福从公众视野消失，10 月被免职；次年 6 月，他与前任魏凤和一起被开除党籍。
+      events: [e06-2023-li-shangfu-missing, li-shangfu-removed, li-wei-expelled]
+      people: [li-shangfu, wei-fenghe]
+      stage: { kind: cmc, n: [19, 20], at: 2024-06-27 }
+    - text: 政治工作部主任苗华 2024 年 11 月被停职；军委副主席何卫东 2025 年 3 月起不再露面，10 月与另外八名上将一起被开除党籍。
+      events: [miao-hua-suspended, e06-2025-he-weidong-missing, nine-generals-expelled]
+      people: [miao-hua, he-weidong]
+      stage: { kind: cmc, n: [19, 20], at: 2025-10-17 }
+    - text: 2026 年 1 月，军委第一副主席张又侠与联合参谋部参谋长刘振立被立案审查，9 月被开除党籍。
+      events: [zhang-youxia-investigated, zhang-liu-expelled]
+      people: [zhang-youxia, liu-zhenli]
+      stage: { kind: cmc, n: [19, 20], at: 2026-09-21 }

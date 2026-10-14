@@ -1,6 +1,8 @@
 import { useMemo, useState } from 'react'
 import { Portrait, Section, Src } from '../components/bits'
 import { Hemicycle, layout } from '../components/Hemicycle'
+import { Seal } from '../components/Seal'
+import { Story } from '../components/story/Story'
 import { FRAMES, type Frame } from '../data/schema'
 import { short, today } from '../lib/dates'
 import { cnNum, congressName } from '../lib/cn'
@@ -39,17 +41,39 @@ export function Home() {
 
   return (
     <>
+      <section className="cover lattice">
+        <div className="cover-inner">
+          <div className="eyebrow">China&apos;s politics since 2000 · 2000 年以来的中国大陆政治</div>
+          <h1>
+            新<i>时</i>代
+          </h1>
+          <p className="lede">
+            从江泽民交班到习近平第三个任期：谁坐在政治局里，各国媒体说他们属于哪一派，发生了什么，官方提出了什么思想。每一句引文都可以点回原始出处；传闻来源单独标出。
+          </p>
+          <div className="cover-docno">
+            <span>政治档案</span>
+            <b className="tnum">〔2002—{today().slice(0, 4)}〕</b>
+            <span>{cnNum(a.db.story.length)}章</span>
+          </div>
+          <div className="cover-cue" aria-hidden>
+            向下滚动
+            <i />
+          </div>
+        </div>
+        <span className="cover-seal" aria-hidden>
+          <Seal text="新时代" size={118} tilt={-12} />
+        </span>
+      </section>
+
+      <Story />
+
       <section className="hero lattice">
         <div className="hero-inner">
           <div className="hero-title">
             <div>
-              <div className="eyebrow">China&apos;s politics since 2000 · 2000 年以来的中国大陆政治</div>
-              <h1>
-                新<i>时</i>代
-              </h1>
-              <p className="lede">
-                从江泽民交班到习近平第三个任期：谁坐在政治局里，各国媒体说他们属于哪一派，发生了什么，官方提出了什么思想。每一句引文都可以点回原始出处。
-              </p>
+              <div className="eyebrow">Seats</div>
+              <h2 className="h1" style={{ margin: '6px 0 0' }}>逐届席位</h2>
+              <p className="lede">十五届到二十届政治局，按所选框架里各家媒体的派系标注着色；点人进入传记。</p>
             </div>
             <div className="hero-controls">
               <div className="seg" role="tablist" aria-label="届别">

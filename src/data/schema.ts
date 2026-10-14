@@ -379,6 +379,30 @@ export const PressTermSchema = z.object({
 })
 export type PressTerm = z.infer<typeof PressTermSchema>
 
+// the home page's scroll story: chapters of short editorial narration; each step names the events and
+// people it is about and the picture the sticky stage shows while it is read
+const Ids = z.array(z.string()).default([])
+export const StageSchema = z.discriminatedUnion('kind', [
+  // a Politburo hemicycle, the `focus` seats lit and the rest dimmed
+  z.object({ kind: z.literal('seats'), n: z.number().int(), frame: z.enum(Object.keys(FRAMES) as [Frame, ...Frame[]]), focus: Ids }),
+  // every fallen person in the data as a dot in the year of the first step against them
+  z.object({ kind: z.literal('falls'), from: z.number().int(), to: z.number().int(), focus: Ids }),
+  // a passage of an official text, `strike` crossed out; `text` is checked against the source
+  z.object({ kind: z.literal('doc'), head: z.string(), text: z.string(), strike: z.string().optional(), cite: Cite }),
+  // the military commissions of the listed congresses, a seal on everyone who has fallen by `at`
+  z.object({ kind: z.literal('cmc'), n: z.array(z.number().int()).min(1), at: PartialDate }),
+])
+export type Stage = z.infer<typeof StageSchema>
+export const ChapterSchema = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  title: z.string(),
+  years: z.union([z.string(), z.number()]).transform(String),
+  steps: z
+    .array(z.object({ text: z.string(), events: Ids, people: Ids, stage: StageSchema }))
+    .min(1),
+})
+export type Chapter = z.infer<typeof ChapterSchema>
+
 export const PhotoSchema = z.object({
   file: z.string().optional(),
   url: z.string().optional(),

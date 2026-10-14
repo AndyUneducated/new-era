@@ -28,6 +28,18 @@ for (const r of routes.length ? routes : ['']) {
     await page.waitForTimeout(1500)
   }
   const name = `${(r || 'home').replace(/[/?=&]/g, '_')}${dark ? '-dark' : ''}${phone ? '-phone' : ''}.png`
+  // --steps=0,4,9 scrolls each home story step to the middle of the screen and shoots it
+  const steps = args.find((a) => a.startsWith('--steps='))?.slice(8).split(',')
+  if (steps) {
+    for (const i of steps) {
+      await page.locator(`.step[data-i="${i}"]`).evaluate((e) => e.scrollIntoView({ block: 'center' }))
+      await page.waitForTimeout(1800)
+      const n = name.replace('.png', `-s${i}.png`)
+      await page.screenshot({ path: `${out}/${n}` })
+      console.log(`${out}/${n}`)
+    }
+    continue
+  }
   if (el) await page.locator(el).first().screenshot({ path: `${out}/${name}` })
   else await page.screenshot({ path: `${out}/${name}`, fullPage: args.includes('--full') })
   console.log(`${out}/${name}`)

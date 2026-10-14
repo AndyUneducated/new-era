@@ -51,10 +51,12 @@ export function layout(c: Congress, get: (id: string) => PersonR | undefined): S
 
 const rings = (c: Congress) => (c.pb.length <= 12 ? [215, 370] : [215, 330, 425])
 
-export function Hemicycle({ c, frame }: { c: Congress; frame: Frame }) {
+// `focus` lights those seats and dims the rest (the home page story)
+export function Hemicycle({ c, frame, focus }: { c: Congress; frame: Frame; focus?: string[] }) {
   const a = useAtlas()
   const tip = useTip()
   const seats = layout(c, (id) => a.person.get(id))
+  const lit = focus?.length ? new Set(focus) : undefined
   const gone = new Map(c.changes.filter((x) => x.kind !== 'in').map((x) => [x.person, x]))
   const colorOf = (p: PersonR) => a.factionIn(p, frame)?.color
 
@@ -80,8 +82,12 @@ export function Hemicycle({ c, frame }: { c: Congress; frame: Frame }) {
           return (
             <g
               key={s.p.id}
-              className="seat"
-              style={{ transform: `translate(${s.x}px, ${s.y}px)`, transition: 'transform 0.7s cubic-bezier(.2,.8,.2,1)' }}
+              className={lit?.has(s.p.id) ? 'seat lit' : 'seat'}
+              style={{
+                transform: `translate(${s.x}px, ${s.y}px)`,
+                opacity: lit && !lit.has(s.p.id) ? 0.22 : 1,
+                transition: 'transform 0.7s cubic-bezier(.2,.8,.2,1), opacity 0.5s',
+              }}
               onClick={() => go(personHref(s.p.id))}
               onMouseMove={(e) => tip.show(e, <SeatTip p={s.p} c={c} frame={frame} out={out?.text} />)}
               onMouseLeave={tip.hide}
@@ -90,6 +96,7 @@ export function Hemicycle({ c, frame }: { c: Congress; frame: Frame }) {
               aria-label={s.p.name}
               onKeyDown={(e) => e.key === 'Enter' && go(personHref(s.p.id))}
             >
+              {lit?.has(s.p.id) && <circle className="seat-halo" r={s.r + 10} fill="none" stroke="var(--gold)" strokeWidth={2} />}
               <circle r={s.r + 4} fill={color ?? 'var(--rule-2)'} opacity={color ? 1 : 0.6} />
               <circle r={s.r + 1} fill="var(--card)" />
               <clipPath id={clip}>

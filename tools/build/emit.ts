@@ -66,6 +66,7 @@ export function compile(d: Data) {
     isms: d.isms.map((m) => ({ ...m, carriers: m.carriers.filter((id) => known.has(id)), concept: m.concept && cids.has(m.concept) ? m.concept : undefined })),
     line: [...d.line].sort((a, b) => a.at.localeCompare(b.at)),
     press: d.press,
+    story: d.story,
     sources,
   }
 }

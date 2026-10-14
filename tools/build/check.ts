@@ -16,7 +16,7 @@ export function check(d: Data) {
   const people = unique('person', d.people.map((p) => p.id))
   const factions = unique('faction', d.factions.map((f) => f.id))
   const concepts = unique('concept', d.concepts.map((c) => c.id))
-  unique('event', d.events.map((e) => e.id))
+  const events = unique('event', d.events.map((e) => e.id))
   // batches running in parallel cannot see each other's manifests, so they may register the same page twice;
   // a batch re-registering a page that is already integrated should cite the existing id instead
   const own = BATCH ? `${BATCH.toLowerCase()}-` : undefined
@@ -205,4 +205,20 @@ export function check(d: Data) {
     if (t.cite) cite(t.cite, w)
     if (new Set(t.hits.map((h) => h.year)).size !== t.hits.length) errors.push(`${w}: a year is entered twice`)
   }
+  unique('chapter', d.story.map((c) => c.id))
+  const congresses = new Set(d.congresses.map((c) => c.n))
+  for (const c of d.story)
+    c.steps.forEach((s, i) => {
+      const w = `story ${c.id} step ${i}`
+      for (const id of s.events) ref(events, 'event', id, w)
+      const st = s.stage
+      prose(s.text, [...d.events.filter((e) => s.events.includes(e.id)).flatMap((e) => e.cites), ...(st.kind === 'doc' ? [st.cite] : [])], w)
+      for (const id of [...s.people, ...(st.kind === 'seats' || st.kind === 'falls' ? st.focus : [])]) ref(people, 'person', id, w)
+      for (const n of st.kind === 'seats' ? [st.n] : st.kind === 'cmc' ? st.n : []) if (!congresses.has(n)) errors.push(`${w}: no congress ${n}`)
+      if (st.kind === 'doc') {
+        cite(st.cite, w)
+        quote(st.cite, st.text, w)
+        if (st.strike && !st.text.includes(st.strike)) errors.push(`${w}: strike "${st.strike}" is not in the text`)
+      }
+    })
 }
