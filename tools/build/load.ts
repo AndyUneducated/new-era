@@ -23,7 +23,7 @@ import {
   type Quote,
   type Source,
 } from '../../src/data/schema.ts'
-import { errors, exists, load, otherInflight, path, read, yamlFiles } from './io.ts'
+import { errors, exists, load, otherInflight, path, read, warnings, yamlFiles } from './io.ts'
 
 export type Data = ReturnType<typeof loadAll>
 
@@ -81,7 +81,15 @@ function loadSources() {
 }
 
 function loadPeople() {
-  const people = yamlFiles('content', 'people').flatMap((p) => load(PersonSchema, read(...p), p.join('/')))
+  const all = yamlFiles('content', 'people').flatMap((p) => load(PersonSchema, read(...p), p.join('/')))
+  // a biography batch writes the full entry in its own file under the card's id rather than editing the file
+  // that holds the card; the full entry wins until integration deletes the card
+  const full = new Set(all.filter((p) => p.tier === 1).map((p) => p.id))
+  const people = all.filter((p) => {
+    if (p.tier === 1 || !full.has(p.id)) return true
+    warnings.push(`person ${p.id}: card superseded by a full biography, delete the card`)
+    return false
+  })
   // quotes are kept apart from the biographies: content/quotes/*.yaml maps person id → quotes
   const quotes = new Map<string, Quote[]>()
   for (const f of yamlFiles('content', 'quotes'))
