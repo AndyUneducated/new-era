@@ -8,11 +8,13 @@ export type Row =
   | { kind: 'added'; text: string }
   | { kind: 'removed'; text: string }
 
-export const paragraphs = (text: string) =>
-  text
-    .split(/\n\s*\n|\r?\n/)
-    .map((s) => s.trim())
-    .filter(Boolean)
+// older web editions space out headings (总 纲, 第一章 党 员) and write the zero of 一八四〇 three ways
+const CJK = '\\u3400-\\u9fff'
+const SPACED = new RegExp(`(?<=[${CJK}])(?<![条章节编])[ \\u3000]+(?=[${CJK}])`, 'g')
+const ZERO = /(?<=[一二三四五六七八九〇])[○０]|[○０](?=[一二三四五六七八九〇])/g
+const tidy = (s: string) => s.trim().replace(SPACED, '').replace(/[ \u3000]+/g, ' ').replace(ZERO, '〇')
+
+export const paragraphs = (text: string) => text.split(/\n\s*\n|\r?\n/).map(tidy).filter(Boolean)
 
 // 第一百二十三条 and 第三节 move when an article is inserted earlier; compared without them by default
 const NUM = /^第[一二三四五六七八九十百零〇○]+[条节]\s*/

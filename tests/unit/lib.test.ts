@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { age, fmt, fy } from '../../src/lib/dates'
 import { cnNum } from '../../src/lib/cn'
 import { quoted, quoteMisses } from '../../src/lib/quotes'
-import { chars, diff } from '../../src/lib/diff'
+import { chars, diff, paragraphs } from '../../src/lib/diff'
 
 describe('diff', () => {
   it('marks the struck clause of the 2018 amendment', () => {
@@ -16,6 +16,9 @@ describe('diff', () => {
     const rows = diff(a, b)
     expect(rows.map((r) => r.kind)).toEqual(['same', 'same', 'added', 'same', 'changed'])
     expect(rows[3]).toMatchObject({ renumbered: ['第二条', '第三条'] })
+  })
+  it('reads spaced-out headings and variant zeros as the same text', () => {
+    expect(paragraphs('总 纲\n\n第一章　党 员\n\n一八四０年')).toEqual(['总纲', '第一章 党员', '一八四〇年'])
   })
 })
 
