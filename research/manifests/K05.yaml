@@ -1,0 +1,214 @@
+# K05: dossier cards for people first on the 19th Central Committee lists (full or alternate).
+web:
+  - { id: k05-wiki-19th-cc-list, title: 中国共产党第十九届中央委员会委员列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党第十九届中央委员会委员列表, excerpt: true, keep: [ 递补, 逝世, 开除, 留党察看, 被查 ] }
+  - { id: k05-wiki-19th-cca-list, title: 中国共产党第十九届中央委员会候补委员列表（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/中国共产党第十九届中央委员会候补委员列表, excerpt: true, keep: [ 递补, 逝世, 开除 ] }
+  # falls: case notices, expulsions, sentences
+  - { id: k05-chinanews-2026-05-17-wang-xiaodong, title: 十四届全国政协常委、农业和农村委员会副主任王晓东被查, publisher: 中国新闻网, date: 2026-05-17, voice: official, url: https://www.chinanews.com.cn/gn/2026/05-17/10622826.shtml, start: "中新网5月17日电", end: "纪律审查和监察调查。" }
+  - { id: k05-chinanews-2025-07-22-qi-zhala, title: 十四届全国政协原常委齐扎拉被“双开”, publisher: 中国新闻网, date: 2025-07-22, voice: official, url: https://www.chinanews.com.cn/gn/2025/07-22/10451756.shtml, start: "中新社北京7月22日电", end: "所涉财物一并移送。(完)" }
+  - { id: k05-chinanews-2026-06-05-qi-zhala, title: 受贿1.58亿余元 十四届全国政协原常委齐扎拉一审被判无期徒刑, publisher: 中国新闻网, date: 2026-06-05, voice: official, url: https://www.chinanews.com.cn/gn/2026/06-05/10634872.shtml, start: "2026年6月5日，重庆市第一中级人民法院", end: "并当庭表示认罪悔罪。" }
+  - { id: k05-xinhua-2025-12-08-bi-jingquan, title: 十四届全国政协原常委、经济委员会原副主任毕井泉严重违纪违法被开除党籍和公职, publisher: 新华网, date: 2025-12-08, voice: official, url: https://www.news.cn/20251208/45222d6ae5ff4ea785bbbc6a6f4c48ee/c.html, start: "新华社北京12月8日电", end: "所涉财物一并移送。" }
+  - { id: k05-chinanews-2026-09-15-bi-jingquan, title: 十四届全国政协原常委、经济委员会原副主任毕井泉一审获刑14年, publisher: 中国新闻网, date: 2026-09-15, voice: official, url: https://www.chinanews.com.cn/gn/2026/09-15/10696988.shtml, start: "中新社北京9月15日电", end: "毕井泉当庭表示认罪悔罪。(完)" }
+  - { id: k05-xinhua-2024-12-10-wu-yingjie, title: 十四届全国政协原常委、文化文史和学习委员会原主任吴英杰严重违纪违法被开除党籍和公职, publisher: 新华网, date: 2024-12-10, voice: official, url: http://www.news.cn/legal/20241210/7cde51b1ef1b44ca80dba36aa3c21ed3/c.html, start: "新华社北京12月10日电", end: "所涉财物一并移送。" }
+  - { id: k05-chinanews-2025-07-16-wu-yingjie, title: 十四届全国政协原常委吴英杰一审被判死缓, publisher: 中国新闻网, date: 2025-07-16, voice: official, url: https://www.chinanews.com/gn/2025/07-16/10448934.shtml, start: "中新社北京7月16日电", end: "法庭遂作出上述判决。(完)" }
+  - { id: k05-chinanews-2025-12-08-gou-zhongwen, title: 苟仲文一审被判死缓 曾任国家体育总局局长等职, publisher: 中国新闻网, date: 2025-12-08, voice: official, url: https://www.chinanews.com.cn/gn/2025/12-08/10529325.shtml, start: "中新社北京12月8日电", end: "苟仲文当庭表示认罪悔罪。(完)" }
+  - { id: k05-chinanews-2024-10-29-sun-zhigang, title: 受贿8.13亿余元 贵州省委原书记孙志刚一审被判死缓, publisher: 中国新闻网, date: 2024-10-29, voice: official, url: https://www.chinanews.com.cn/gn/2024/10-29/10310068.shtml, start: "中新社北京10月29日电", end: "法庭遂作出上述判决。(完)" }
+  - { id: k05-xinhua-2025-06-05-wu-cunrong, title: 山西省政协原党组书记、主席吴存荣严重违纪违法被开除党籍和公职, publisher: 新华网, date: 2025-06-05, voice: official, url: https://www.xinhuanet.com/politics/20250605/01f4341c7ae44e6880980acc32185ba0/c.html, start: "经中共中央批准，中央纪委国家监委对山西省政协原党组书记", end: "所涉财物一并移送。" }
+  - { id: k05-chinanews-2026-03-20-wu-cunrong, title: 受贿1.27亿余元 山西省政协原党组书记、主席吴存荣一审被判无期, publisher: 中国新闻网, date: 2026-03-20, voice: official, url: https://www.chinanews.com.cn/gn/2026/03-20/10590079.shtml, start: "2026年3月20日，北京市第二中级人民法院", end: "冀成海)" }
+  - { id: k05-chinanews-2026-01-07-wu-shenghua, title: 毕节市委原书记吴胜华被“双开” 被指结交政治骗子等, publisher: 中国新闻网, date: 2026-01-07, voice: official, url: https://www.chinanews.com.cn/gn/2026/01-07/10547805.shtml, start: "中新社北京1月7日电", end: "待召开中央委员会全体会议时予以追认。(完)" }
+  - { id: k05-chinanews-2023-03-17-jiang-zhigang, title: 宁夏回族自治区党委原副书记、银川市委原书记姜志刚被查, publisher: 中国新闻网, date: 2023-03-17, voice: official, url: https://www.chinanews.com.cn/gn/2023/03-17/9973502.shtml, start: "中新社北京3月17日电", end: "姜志刚不再担任上述职务。(完)" }
+  - { id: k05-rmrb-2023-08-31-jiang-zhigang, title: 宁夏回族自治区党委原副书记、银川市委原书记姜志刚严重违纪违法被开除党籍和公职, publisher: 人民日报, date: 2023-08-31, voice: official, url: https://paper.people.com.cn/rmrb/html/2023-08/31/nw.D110000renmrb_20230831_6-07.htm, start: "本报北京8月30日电", end: "所涉财物一并移送。" }
+  - { id: k05-xinhua-2024-10-23-jiang-zhigang, title: 宁夏回族自治区党委原副书记、银川市委原书记姜志刚受贿案一审宣判, publisher: 新华网, date: 2024-10-23, voice: official, url: http://www.news.cn/20241023/b3f5cf0f1e714faa9c62add94ef39a96/c.html, start: "新华社石家庄10月23日电", end: "法庭遂作出上述判决。" }
+  - { id: k05-thepaper-2024-12-21-kou-wei, title: 大唐集团原总经理寇伟退休2年后被查，曾任国家电网公司董事长, publisher: 澎湃新闻, date: 2024-12-21, voice: official, url: https://www.thepaper.cn/newsDetail_forward_29716356, start: "中央纪委国家监委网站12月21日午间发布消息", end: "纪律审查和监察调查。" }
+  - { id: k05-chinanews-2025-06-06-kou-wei, title: 中国大唐原党组副书记、总经理寇伟严重违纪违法被开除党籍, publisher: 中国新闻网, date: 2025-06-06, voice: official, url: https://www.chinanews.com.cn/gn/2025/06-06/10427899.shtml, start: "据中央纪委国家监委网站消息，经中共中央批准", end: "所涉财物一并移送。" }
+  - { id: k05-chinanews-2026-04-01-kou-wei, title: 受贿数额特别巨大 中国大唐原总经理寇伟一审被判死缓, publisher: 中国新闻网, date: 2026-04-01, voice: official, url: https://www.chinanews.com.cn/gn/2026/04-01/10596709.shtml, start: "2026年4月1日，内蒙古自治区兴安盟中级人民法院", end: "旁听了庭审。" }
+  - { id: k05-xinhua-2026-04-12-ding-yexian, title: 西藏自治区人大常委会原党组副书记、副主任丁业现接受审查调查, publisher: 新华网, date: 2026-04-12, voice: official, url: http://www.news.cn/20260412/2ea81b6b9cb74989b1660521de12e79d/c.html, start: "新华社北京4月12日电", end: "纪律审查和监察调查。" }
+  - { id: k05-xinhua-2026-10-09-ding-yexian, title: 西藏自治区人大常委会原党组副书记、副主任丁业现严重违纪违法被开除党籍, publisher: 新华网, date: 2026-10-09, voice: official, url: https://www.news.cn/20261009/b3552e08f224495c80dab2d4c15a0c4e/c.html, start: "新华社北京10月9日电", end: "所涉财物一并移送。" }
+  - { id: k05-xinhua-2026-02-12-wang-lixia, title: 内蒙古自治区党委原副书记、自治区政府原主席王莉霞严重违纪违法被开除党籍和公职, publisher: 新华网, date: 2026-02-12, voice: official, url: http://www.news.cn/20260212/12031494f49e47e1b880b53a12590435/c.html, start: "新华社北京2月12日电", end: "待召开中央委员会全体会议时予以追认。" }
+  - { id: k05-chinanews-2026-06-03-wang-lixia, title: 内蒙古自治区政府原主席王莉霞涉嫌受贿被公诉, publisher: 中国新闻网, date: 2026-06-03, voice: official, url: https://www.chinanews.com.cn/gn/2026/06-03/10633477.shtml, start: "中新社北京6月3日电", end: "“对家属失管失教”等。(完)" }
+  - { id: k05-ccdi-2019-05-19-liu-shiyu, title: 中华全国供销合作总社党组副书记、理事会主任刘士余同志配合审查调查, publisher: 中央纪委国家监委网站, date: 2019-05-19, voice: official, url: https://m.ccdi.gov.cn/content/72/31/43821.html, start: "中华全国供销合作总社党组副书记、理事会主任刘士余同志涉嫌违纪违法", end: "（简历摘自中国共产党新闻网）" }
+  - { id: k05-cctv-2019-10-04-liu-shiyu, title: 证监会原主席刘士余受到留党察看二年、政务撤职处分, publisher: 央视网, date: 2019-10-04, voice: official, url: https://news.cctv.com/2019/10/04/ARTI4dTmKrrCRZvARITij0kq191004.shtml, start: "日前，经中共中央批准", end: "（简历综合自中国共产党新闻网）" }
+  - { id: k05-nbd-2019-10-31-4th-plenum, title: 中国共产党第十九届中央委员会第四次全体会议审议并通过关于刘士余同志严重违纪违法问题的审查报告, publisher: 每日经济新闻, date: 2019-10-31, voice: official, url: https://m.nbd.com.cn/articles/2019-10-31/1382671.html, start: "新华社消息，中国共产党第十九届中央委员会第四次全体会议", end: "留党察看二年的处分。" }
+  - { id: k05-chinanews-2021-12-01-zhang-jinghua, title: 江苏省委原副书记张敬华接受审查调查, publisher: 中国新闻网, date: 2021-12-01, voice: official, url: https://www.chinanews.com.cn/gn/2021/12-01/9620184.shtml, start: "中新社北京12月1日电", end: "张敬华参加了审议。(完)" }
+  - { id: k05-xinhua-2022-05-31-zhang-jinghua, title: 江苏省委原副书记张敬华严重违纪违法被开除党籍和公职, publisher: 新华网, date: 2022-05-31, voice: official, url: http://js.news.cn/2022-05/31/c_1128700640.htm, start: "日前，经中共中央批准", end: "待召开中央委员会全体会议时予以追认。" }
+  - { id: k05-xinhua-2023-11-21-zhang-jinghua, title: 江苏省委原副书记张敬华受贿案一审宣判, publisher: 新华网, date: 2023-11-21, voice: official, url: http://www.news.cn/politics/2023-11/21/c_1129986318.htm, start: "新华社武汉11月21日电", end: "法庭遂作出上述判决。" }
+  # missing: membership revoked or dropped from lists, no case notice
+  - { id: k05-xinhua-2026-03-02-cppcc, title: 全国政协十四届常委会第十五次会议闭幕 王沪宁主持并讲话, publisher: 新华网, date: 2026-03-02, voice: official, url: https://www.news.cn/20260302/2e2f918d66d0421c8db93abc3df07b9f/c.html, start: "新华社北京3月2日电", end: "何松第十四届全国政协委员资格的决定。" }
+  - { id: k05-cna-2025-12-24-cppcc, title: 8名中國全國政協委員被撤銷資格 多人去職未露面, publisher: 中央通讯社, date: 2025-12-24, voice: zh, url: https://www.cna.com.tw/news/acn/202512240351.aspx, excerpt: true, keep: [ 馬正武, 曹建國 ] }
+  - { id: k05-zaobao-2026-03-20-cas, title: 中央军委科技委前主任刘国治 被除去中科院院士名衔, publisher: 联合早报, date: 2026-03-20, voice: zh, url: https://www.zaobao.com.sg/news/china/story20260320-8766205, excerpt: true, keep: [ 刘国治, 杨伟 ] }
+  - { id: k05-cna-2022-09-27-20th-delegates, title: 中共20大代表4人因故除名 才公布最終名單, publisher: 中央通讯社, date: 2022-09-27, voice: zh, url: https://www.cna.com.tw/news/acn/202209270173.aspx, excerpt: true, keep: [ 尚宏 ] }
+  - { id: k05-zaobao-2023-08-03-shang-hong, title: 解放军战略支援部队司令巨乾生上将缺席建军96周年招待会, publisher: 联合早报, date: 2023-08-03, voice: zh, url: https://www.zaobao.com.sg/realtime/china/story20230803-1420298, excerpt: true, keep: [ 尚宏 ] }
+  - { id: k05-cna-2026-07-03-air-force, title: 共軍反腐震盪後 張曙光、王剛晉升上將, publisher: 中央通讯社, date: 2026-07-03, voice: zh, url: https://www.cna.com.tw/news/acn/202607030306.aspx, excerpt: true, keep: [ 常丁求 ] }
+  # deaths
+  - { id: k05-xinhua-2018-10-21-zheng-xiaosong, title: 澳门中联办主任郑晓松坠楼身亡, publisher: 新华网, date: 2018-10-21, voice: official, url: https://www.xinhuanet.com/politics/2018-10/21/c_1123590190.htm, start: "中央人民政府驻澳门特别行政区联络办公室主任郑晓松同志", end: "慰问郑晓松同志亲属。" }
+  - { id: k05-xinhua-2020-03-18-guan-qing, title: 官庆同志逝世, publisher: 新华网, date: 2020-03-18, voice: official, url: https://www.xinhuanet.com/politics/2020-03/18/c_1125731547.htm, start: "新华社北京3月18日电", end: "第十九届中央委员会候补委员。" }
+  # official résumés
+  - { id: k05-ce-2021-08-20-bu-xiaolin, title: "内蒙古自治区原主席布小林任全国人大环资委副主任委员(图|简历)", publisher: 中国经济网, date: 2021-08-20, voice: official, url: http://www.ce.cn/xwzx/gnsz/gdxw/202108/20/t20210820_36829319.shtml, start: "中国经济网北京8月20日综合报道", end: "十九届中央委员，十二届全国人大代表。" }
+  - { id: k05-xinhua-2023-06-14-xu-qin, title: 许勤, publisher: 新华网, date: 2023-06-14, voice: official, url: http://hlj.news.cn/20230614/0990a741581a497ba30681f5a0a328bb/c.html, start: "许勤，男，1961年10月生", end: "黑龙江省委书记、省人大常委会主任" }
+  - { id: k05-people-zhou-naixiang, title: 周乃翔 简历, publisher: 人民网, date: 2021-11-03, voice: official, url: https://web.archive.org/web/20211103003858/https:/ldzl.people.com.cn/dfzlk/front/personPage19609.htm, start: "周乃翔，男，汉族", end: "第十九届中央候补委员。" }
+  - { id: k05-xinhua-2023-10-28-tang-dengjie, title: 山西省委主要负责同志职务调整 唐登杰任山西省委书记, publisher: 新华网, date: 2023-10-28, voice: official, url: https://www.news.cn/politics/2023-10/28/c_1129945020.htm, start: "新华网太原10月28日电", end: "二十届中央委员。" }
+  - { id: k05-xinhua-2017-03-03-zhang-gong, title: "张工任北京市常务副市长(图|简历)", publisher: 新华网, date: 2017-03-03, voice: official, url: http://news.xinhuanet.com/politics/2017-03/03/c_1120566607.htm, start: "据江西日报消息", end: "市政府党组副书记、常务副市长。" }
+  - { id: k05-tjgov-zhang-gong, title: 天津市人民政府市长张工简介, publisher: 天津市人民政府, voice: official, url: https://www.tj.gov.cn/zwgk/szfld/shizhang/zg/, start: "张工，男，汉族", end: "分管审计工作。" }
+  - { id: k05-xinhua-2026-09-22-hu-changsheng, title: 西藏自治区党委主要负责同志职务调整 胡昌升任西藏自治区党委书记, publisher: 新华网, date: 2026-09-22, voice: official, url: https://www.news.cn/politics/20260922/1fafc3c3bbe84b0facdca5b7cefef6a8/c.html, start: "新华网拉萨9月22日电", end: "不再担任区党委书记职务。" }
+  - { id: k05-people-2017-05-31-yan-zhichan, title: 严植婵任广东省委统战部部长(图/简历), publisher: 人民网, date: 2017-05-31, voice: official, url: http://renshi.people.com.cn/n1/2017/0531/c139617-29308173.html, start: "中国共产党新闻网北京5月31日电", end: "2017年5月任广东省委常委、统战部部长。" }
+  - { id: k05-thepaper-2018-song-dan, title: 宋丹中将已担任中央军委政法委书记, publisher: 澎湃新闻, voice: official, url: https://web.archive.org/web/20201215070035/http:/www.thepaper.cn/newsDetail_forward_2028659, start: "军方权威媒体近日的公开新闻报道披露", end: "宋丹是十三届全国人大代表。" }
+  - { id: k05-cctv-2022-01-19-tang-liangzhi, title: 人物简历：唐良智, publisher: 央视网, date: 2022-01-19, voice: official, url: https://news.cctv.com/2018/01/04/ARTIsxvoRg56dZ4ffYYpGBKm180104.shtml, start: "唐良智，男，汉族，1960年6月生", end: "（简历来源：综合安徽新闻联播等信息）" }
+  - { id: k05-zaobao-2026-02-08-tang-liangzhi, title: 重庆前市长唐良智卸任安徽政协主席 预计到龄退休, publisher: 联合早报, date: 2026-02-08, voice: zh, url: https://www.zaobao.com.sg/news/china/story20260208-8378023, excerpt: true, keep: [ 唐良智 ] }
+  - { id: k05-xinhua-2022-12-07-yin-hong, title: 江西省委主要负责同志职务调整 尹弘任江西省委书记, publisher: 新华网, date: 2022-12-07, voice: official, url: http://www.news.cn/politics/2022-12/07/c_1129189583.htm, excerpt: true, keep: [ 尹弘 ] }
+  - { id: k05-jxnews-yin-hong, title: 尹弘个人简历, publisher: 江西新闻网, date: 2026-10-14, voice: official, url: https://jiangxi.jxnews.com.cn/lead/yh/, excerpt: true, keep: [ 尹弘，男, 现任 ] }
+  - { id: k05-xinhua-2024-01-27-xin-changxing, title: 信长星简历, publisher: 新华网江苏频道, date: 2024-01-27, voice: official, url: http://js.news.cn/20240127/3e80946579df4a31a89305d525598ec7/c.html, excerpt: true, keep: [ 信长星, 部长, 书记, 省长, 中央 ] }
+  - { id: k05-cnnb-2024-07-05-shi-xiaolin, title: 施小琳任四川代省长 她是宁波余姚人, publisher: 中国宁波网, date: 2024-07-05, voice: official, url: http://news.cnnb.com.cn/system/2024/07/05/030598350.shtml, excerpt: true, keep: [ 施小琳 ] }
+  # --- generated by research/scripts/K05-manifest.ts: Wikipedia (basic career facts only) ---
+  - { id: k05-wiki-ding-xuedong, title: 丁学东（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/丁学东", excerpt: true, keep: [ 丁学东, 年 ] }
+  - { id: k05-wiki-wang-ercheng, title: 王尔乘（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王尔乘", excerpt: true, keep: [ 王尔乘, 年 ] }
+  - { id: k05-wiki-wang-jianwu, title: 王建武（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王建武", excerpt: true, keep: [ 王建武, 年 ] }
+  - { id: k05-wiki-wang-xiaohui, title: 王晓晖（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王晓晖", excerpt: true, keep: [ 王晓晖, 年 ] }
+  - { id: k05-wiki-wang-jiasheng, title: 王家胜（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王家胜", excerpt: true, keep: [ 王家胜, 年 ] }
+  - { id: k05-wiki-wang-menghui, title: 王蒙徽（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王蒙徽", excerpt: true, keep: [ 王蒙徽, 年 ] }
+  - { id: k05-wiki-aligen-yiminbahai, title: 艾力更·依明巴海（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/艾力更·依明巴海", excerpt: true, keep: [ 艾力更·依明巴海, 年 ] }
+  - { id: k05-wiki-bi-jingquan, title: 毕井泉（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/毕井泉", excerpt: true, keep: [ 毕井泉, 年 ] }
+  - { id: k05-wiki-qu-qingshan, title: 曲青山（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/曲青山", excerpt: true, keep: [ 曲青山, 年 ] }
+  - { id: k05-wiki-liu-shiyu, title: 刘士余（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘士余", excerpt: true, keep: [ 刘士余, 年 ] }
+  - { id: k05-wiki-liu-wanlong, title: 刘万龙（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘万龙", excerpt: true, keep: [ 刘万龙, 年 ] }
+  - { id: k05-wiki-liu-guozhi, title: 刘国治（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘国治", excerpt: true, keep: [ 刘国治, 年 ] }
+  - { id: k05-wiki-liu-jieyi, title: 刘结一（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘结一", excerpt: true, keep: [ 刘结一, 年 ] }
+  - { id: k05-wiki-an-zhaoqing, title: 安兆庆（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/安兆庆", excerpt: true, keep: [ 安兆庆, 年 ] }
+  - { id: k05-wiki-xu-yousheng, title: 许又声（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/许又声", excerpt: true, keep: [ 许又声, 年 ] }
+  - { id: k05-wiki-li-yi, title: 李屹（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李屹", excerpt: true, keep: [ 李屹, 年 ] }
+  - { id: k05-wiki-li-yufu, title: 李玉赋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李玉赋", excerpt: true, keep: [ 李玉赋, 年 ] }
+  - { id: k05-wiki-li-xiaohong, title: 李晓红（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李晓红", excerpt: true, keep: [ 李晓红, 年 ] }
+  - { id: k05-wiki-wu-shezhou, title: 吴社洲（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴社洲", excerpt: true, keep: [ 吴社洲, 年 ] }
+  - { id: k05-wiki-wu-yingjie, title: 吴英杰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴英杰", excerpt: true, keep: [ 吴英杰, 年 ] }
+  - { id: k05-wiki-song-dan, title: 宋丹（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/宋丹_(中将)", excerpt: true, keep: [ 宋丹, 年 ] }
+  - { id: k05-wiki-zhang-jinan, title: 张纪南（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张纪南", excerpt: true, keep: [ 张纪南, 年 ] }
+  - { id: k05-wiki-gou-zhongwen, title: 苟仲文（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/苟仲文", excerpt: true, keep: [ 苟仲文, 年 ] }
+  - { id: k05-wiki-fan-xiaojun, title: 范骁骏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/范骁骏", excerpt: true, keep: [ 范骁骏, 年 ] }
+  - { id: k05-wiki-shang-hong, title: 尚宏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/尚宏_(解放军)", excerpt: true, keep: [ 尚宏, 年 ] }
+  - { id: k05-wiki-zheng-xiaosong, title: 郑晓松（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郑晓松", excerpt: true, keep: [ 郑晓松, 年 ] }
+  - { id: k05-wiki-meng-xiangfeng, title: 孟祥锋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孟祥锋", excerpt: true, keep: [ 孟祥锋, 年 ] }
+  - { id: k05-wiki-xin-chunying, title: 信春鹰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/信春鹰", excerpt: true, keep: [ 信春鹰, 年 ] }
+  - { id: k05-wiki-yuan-yubai, title: 袁誉柏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/袁誉柏", excerpt: true, keep: [ 袁誉柏, 年 ] }
+  - { id: k05-wiki-yuan-shuhong, title: 袁曙宏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/袁曙宏", excerpt: true, keep: [ 袁曙宏, 年 ] }
+  - { id: k05-wiki-nie-chenxi, title: 聂辰席（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/聂辰席", excerpt: true, keep: [ 聂辰席, 年 ] }
+  - { id: k05-wiki-qian-xiaoqian, title: 钱小芊（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/钱小芊", excerpt: true, keep: [ 钱小芊, 年 ] }
+  - { id: k05-wiki-xu-anxiang, title: 徐安祥（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/徐安祥", excerpt: true, keep: [ 徐安祥, 年 ] }
+  - { id: k05-wiki-huang-ming, title: 黄明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄明_(1957年)", excerpt: true, keep: [ 黄明, 年 ] }
+  - { id: k05-wiki-huang-shouhong, title: 黄守宏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄守宏", excerpt: true, keep: [ 黄守宏, 年 ] }
+  - { id: k05-wiki-sheng-bin, title: 盛斌（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/盛斌_(解放军)", excerpt: true, keep: [ 盛斌, 年 ] }
+  - { id: k05-wiki-li-huohui, title: 黎火辉（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黎火辉", excerpt: true, keep: [ 黎火辉, 年 ] }
+  - { id: k05-wiki-pan-ligang, title: 潘立刚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/潘立刚", excerpt: true, keep: [ 潘立刚, 年 ] }
+  - { id: k05-wiki-mu-hong, title: 穆虹（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/穆虹", excerpt: true, keep: [ 穆虹, 年 ] }
+  - { id: k05-wiki-ma-zhengwu, title: 马正武（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/马正武", excerpt: true, keep: [ 马正武, 年 ] }
+  - { id: k05-wiki-ma-guoqiang, title: 马国强（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/马国强", excerpt: true, keep: [ 马国强, 年 ] }
+  - { id: k05-wiki-wang-yongkang, title: 王永康（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王永康_(1963年11月)", excerpt: true, keep: [ 王永康, 年 ] }
+  - { id: k05-wiki-wang-xudong-palace, title: 王旭东（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王旭东_(1967年)", excerpt: true, keep: [ 王旭东, 年 ] }
+  - { id: k05-wiki-wang-junzheng, title: 王君正（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王君正_(政治人物)", excerpt: true, keep: [ 王君正, 年 ] }
+  - { id: k05-wiki-feng-jianhua, title: 冯建华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/冯建华_(1958年)", excerpt: true, keep: [ 冯建华, 年 ] }
+  - { id: k05-wiki-qumu-shiha, title: 曲木史哈（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/曲木史哈", excerpt: true, keep: [ 曲木史哈, 年 ] }
+  - { id: k05-wiki-liu-faqing, title: 刘发庆（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘发庆", excerpt: true, keep: [ 刘发庆, 年 ] }
+  - { id: k05-wiki-yan-zhichan, title: 严植婵（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/严植婵", excerpt: true, keep: [ 严植婵, 年 ] }
+  - { id: k05-wiki-li-jinghao, title: 李景浩（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李景浩", excerpt: true, keep: [ 李景浩, 年 ] }
+  - { id: k05-wiki-yang-ning, title: 杨宁（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨宁_(1963年)", excerpt: true, keep: [ 杨宁, 年 ] }
+  - { id: k05-wiki-yang-wei, title: 杨伟（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨伟_(1963年5月)", excerpt: true, keep: [ 杨伟, 年 ] }
+  - { id: k05-wiki-xiao-yingzi, title: 肖莺子（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/肖莺子", excerpt: true, keep: [ 肖莺子, 年 ] }
+  - { id: k05-wiki-wu-qiang, title: 吴强（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴强_(1966年)", excerpt: true, keep: [ 吴强, 年 ] }
+  - { id: k05-wiki-wu-cunrong, title: 吴存荣（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴存荣", excerpt: true, keep: [ 吴存荣, 年 ] }
+  - { id: k05-wiki-wu-jieming, title: 吴杰明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴杰明", excerpt: true, keep: [ 吴杰明, 年 ] }
+  - { id: k05-wiki-wu-shenghua, title: 吴胜华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴胜华", excerpt: true, keep: [ 吴胜华, 年 ] }
+  - { id: k05-wiki-zou-ming, title: 邹铭（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/邹铭", excerpt: true, keep: [ 邹铭, 年 ] }
+  - { id: k05-wiki-shen-chunyao, title: 沈春耀（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/沈春耀", excerpt: true, keep: [ 沈春耀, 年 ] }
+  - { id: k05-wiki-song-guoquan, title: 宋国权（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/宋国权", excerpt: true, keep: [ 宋国权, 年 ] }
+  - { id: k05-wiki-zhang-guangjun, title: 张广军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张广军", excerpt: true, keep: [ 张广军, 年 ] }
+  - { id: k05-wiki-zhang-yuzhuo, title: 张玉卓（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/張玉卓", excerpt: true, keep: [ 张玉卓, 年 ] }
+  - { id: k05-wiki-zhang-zhifen, title: 张志芬（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张志芬", excerpt: true, keep: [ 张志芬, 年 ] }
+  - { id: k05-wiki-zhang-jinghua, title: 张敬华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张敬华_(1962年)", excerpt: true, keep: [ 张敬华, 年 ] }
+  - { id: k05-wiki-chen-haibo, title: 陈海波（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈海波_(1962年)", excerpt: true, keep: [ 陈海波, 年 ] }
+  - { id: k05-wiki-lin-shaochun, title: 林少春（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/林少春", excerpt: true, keep: [ 林少春, 年 ] }
+  - { id: k05-wiki-hang-yihong, title: 杭义洪（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杭义洪", excerpt: true, keep: [ 杭义洪, 年 ] }
+  - { id: k05-wiki-ouyang-xiaoping, title: 欧阳晓平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/欧阳晓平", excerpt: true, keep: [ 欧阳晓平, 年 ] }
+  - { id: k05-wiki-luobu-dunzhu, title: 罗布顿珠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/罗布顿珠", excerpt: true, keep: [ 罗布顿珠, 年 ] }
+  - { id: k05-wiki-luo-hongjiang, title: 罗红江（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/罗红江", excerpt: true, keep: [ 罗红江, 年 ] }
+  - { id: k05-wiki-luo-qingyu, title: 罗清宇（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/罗清宇", excerpt: true, keep: [ 罗清宇, 年 ] }
+  - { id: k05-wiki-zhou-bo, title: 周波（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/周波_(1962年)", excerpt: true, keep: [ 周波, 年 ] }
+  - { id: k05-wiki-zhou-qi, title: 周琪（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/周琪_(生物学家)", excerpt: true, keep: [ 周琪, 年 ] }
+  - { id: k05-wiki-guan-qing, title: 官庆（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/官庆", excerpt: true, keep: [ 官庆, 年 ] }
+  - { id: k05-wiki-zhao-deming, title: 赵德明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/赵德明_(1963年)", excerpt: true, keep: [ 赵德明, 年 ] }
+  - { id: k05-wiki-hao-ping, title: 郝平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郝平_(官员)", excerpt: true, keep: [ 郝平, 年 ] }
+  - { id: k05-wiki-hu-wenrong, title: 胡文容（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/胡文容", excerpt: true, keep: [ 胡文容, 年 ] }
+  - { id: k05-wiki-yu-guang, title: 禹光（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/禹光", excerpt: true, keep: [ 禹光, 年 ] }
+  - { id: k05-wiki-jiang-zhigang, title: 姜志刚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/姜志刚", excerpt: true, keep: [ 姜志刚, 年 ] }
+  - { id: k05-wiki-he-dongfeng, title: 贺东风（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/贺东风", excerpt: true, keep: [ 贺东风, 年 ] }
+  - { id: k05-wiki-he-junke, title: 贺军科（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/贺军科", excerpt: true, keep: [ 贺军科, 年 ] }
+  - { id: k05-wiki-jia-yumei, title: 贾玉梅（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/贾玉梅", excerpt: true, keep: [ 贾玉梅, 年 ] }
+  - { id: k05-wiki-xu-hairong, title: 徐海荣（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/徐海荣", excerpt: true, keep: [ 徐海荣, 年 ] }
+  - { id: k05-wiki-xu-xinrong, title: 徐新荣（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/徐新荣", excerpt: true, keep: [ 徐新荣, 年 ] }
+  - { id: k05-wiki-guo-dongming, title: 郭东明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郭东明", excerpt: true, keep: [ 郭东明, 年 ] }
+  - { id: k05-wiki-huang-minqiang, title: 黄民强（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄民强", excerpt: true, keep: [ 黄民强, 年 ] }
+  - { id: k05-wiki-huang-guoxian, title: 黄国显（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄国显", excerpt: true, keep: [ 黄国显, 年 ] }
+  - { id: k05-wiki-huang-xiaowei, title: 黄晓薇（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄晓薇", excerpt: true, keep: [ 黄晓薇, 年 ] }
+  - { id: k05-wiki-cao-jianguo, title: 曹建国（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/曹建国_(航空发动机专家)", excerpt: true, keep: [ 曹建国, 年 ] }
+  - { id: k05-wiki-chang-dingqiu, title: 常丁求（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/常丁求", excerpt: true, keep: [ 常丁求, 年 ] }
+  - { id: k05-wiki-cui-yuzhong, title: 崔玉忠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/崔玉忠", excerpt: true, keep: [ 崔玉忠, 年 ] }
+  - { id: k05-wiki-ma-zhenjun, title: 麻振军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/麻振军", excerpt: true, keep: [ 麻振军, 年 ] }
+  - { id: k05-wiki-liang-tiangeng, title: 梁田庚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/梁田庚", excerpt: true, keep: [ 梁田庚, 年 ] }
+  - { id: k05-wiki-kou-wei, title: 寇伟（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/寇伟_(大唐集团)", excerpt: true, keep: [ 寇伟, 年 ] }
+  - { id: k05-wiki-peng-jinhui, title: 彭金辉（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/彭金辉", excerpt: true, keep: [ 彭金辉, 年 ] }
+  - { id: k05-wiki-cheng-lianyuan, title: 程连元（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/程连元", excerpt: true, keep: [ 程连元, 年 ] }
+  - { id: k05-wiki-fu-xingguo, title: 傅兴国（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/傅兴国", excerpt: true, keep: [ 傅兴国, 年 ] }
+  - { id: k05-wiki-xie-chuntao, title: 谢春涛（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/谢春涛", excerpt: true, keep: [ 谢春涛, 年 ] }
+  - { id: k05-wiki-cai-jianjiang, title: 蔡剑江（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/蔡剑江", excerpt: true, keep: [ 蔡剑江, 年 ] }
+  - { id: k05-wiki-tan-zuojun, title: 谭作钧（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/谭作钧", excerpt: true, keep: [ 谭作钧, 年 ] }
+  - { id: k05-wiki-dai-houliang, title: 戴厚良（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/戴厚良", excerpt: true, keep: [ 戴厚良, 年 ] }
+  - { id: k05-wiki-yu-shaoliang, title: 于绍良（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/于绍良", excerpt: true, keep: [ 于绍良, 年 ] }
+  - { id: k05-wiki-wang-hong, title: 王宏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王宏_(1963年)", excerpt: true, keep: [ 王宏, 年 ] }
+  - { id: k05-wiki-wang-zhaoli, title: 王兆力（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王兆力", excerpt: true, keep: [ 王兆力, 年 ] }
+  - { id: k05-wiki-wang-jingqing, title: 王京清（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王京清", excerpt: true, keep: [ 王京清, 年 ] }
+  - { id: k05-wiki-wang-xiaoyun, title: 王晓云（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王晓云", excerpt: true, keep: [ 王晓云, 年 ] }
+  - { id: k05-wiki-wang-endong, title: 王恩东（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王恩东", excerpt: true, keep: [ 王恩东, 年 ] }
+  - { id: k05-wiki-fang-xiang, title: 方向（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/方向_(中将)", excerpt: true, keep: [ 方向, 年 ] }
+  - { id: k05-wiki-kong-changsheng, title: 孔昌生（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孔昌生", excerpt: true, keep: [ 孔昌生, 年 ] }
+  - { id: k05-wiki-deng-xiaogang-pla, title: 邓小刚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/邓小刚_(流体力学家)", excerpt: true, keep: [ 邓小刚, 年 ] }
+  - { id: k05-wiki-shi-zhenglu, title: 石正露（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/石正露", excerpt: true, keep: [ 石正露, 年 ] }
+  - { id: k05-wiki-shen-changyu, title: 申长雨（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/申长雨", excerpt: true, keep: [ 申长雨, 年 ] }
+  - { id: k05-wiki-feng-zhenglin, title: 冯正霖（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/冯正霖", excerpt: true, keep: [ 冯正霖, 年 ] }
+  - { id: k05-wiki-lyu-jun, title: 吕军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吕军", excerpt: true, keep: [ 吕军, 年 ] }
+  - { id: k05-wiki-li-xiaobo, title: 李晓波（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李晓波_(1963年)", excerpt: true, keep: [ 李晓波, 年 ] }
+  - { id: k05-wiki-yang-guangyue, title: 杨光跃（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨光跃", excerpt: true, keep: [ 杨光跃, 年 ] }
+  - { id: k05-wiki-wu-zhaohui, title: 吴朝晖（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴朝晖", excerpt: true, keep: [ 吴朝晖, 年 ] }
+  - { id: k05-wiki-he-yaling, title: 何雅玲（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/何雅玲", excerpt: true, keep: [ 何雅玲, 年 ] }
+  - { id: k05-wiki-zhang-jiangting, title: 张江汀（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张江汀", excerpt: true, keep: [ 张江汀, 年 ] }
+  - { id: k05-wiki-chen-siqing, title: 陈四清（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈四清", excerpt: true, keep: [ 陈四清, 年 ] }
+  - { id: k05-wiki-fan-ruiping, title: 范锐平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/范锐平", excerpt: true, keep: [ 范锐平, 年 ] }
+  - { id: k05-wiki-zhao-huan, title: 赵欢（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/赵欢", excerpt: true, keep: [ 赵欢, 年 ] }
+  - { id: k05-wiki-zhong-denghua, title: 钟登华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/钟登华", excerpt: true, keep: [ 钟登华, 年 ] }
+  - { id: k05-wiki-tang-huajun, title: 唐华俊（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/唐华俊", excerpt: true, keep: [ 唐华俊, 年 ] }
+  - { id: k05-wiki-huang-zhixian, title: 黄志贤（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄志贤_(政治人物)", excerpt: true, keep: [ 黄志贤, 年 ] }
+  - { id: k05-wiki-cheng-lihua, title: 程丽华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/程丽华", excerpt: true, keep: [ 程丽华, 年 ] }
+  - { id: k05-wiki-fu-ziying, title: 傅自应（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/傅自应", excerpt: true, keep: [ 傅自应, 年 ] }
+  - { id: k05-wiki-jiao-yanlong, title: 焦彦龙（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/焦彦龙", excerpt: true, keep: [ 焦彦龙, 年 ] }
+  - { id: k05-wiki-lei-fanpei, title: 雷凡培（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/雷凡培", excerpt: true, keep: [ 雷凡培, 年 ] }
+  - { id: k05-wiki-cai-songtao, title: 蔡松涛（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/蔡松涛", excerpt: true, keep: [ 蔡松涛, 年 ] }
+  - { id: k05-wiki-yan-xiaodong, title: 颜晓东（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/颜晓东", excerpt: true, keep: [ 颜晓东, 年 ] }
+  - { id: k05-wiki-ma-tingli, title: 马廷礼（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/马廷礼", excerpt: true, keep: [ 马廷礼, 年 ] }
+  - { id: k05-wiki-wang-hai, title: 王海（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王海_(海军)", excerpt: true, keep: [ 王海, 年 ] }
+  - { id: k05-wiki-wang-xi, title: 王曦（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王曦_(材料科学家)", excerpt: true, keep: [ 王曦, 年 ] }
+  - { id: k05-wiki-wang-yinfang, title: 王印芳（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王印芳", excerpt: true, keep: [ 王印芳, 年 ] }
+  - { id: k05-wiki-wang-yanling, title: 王艳玲（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王艳玲", excerpt: true, keep: [ 王艳玲, 年 ] }
+  - { id: k05-wiki-tian-guoli, title: 田国立（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/田国立", excerpt: true, keep: [ 田国立, 年 ] }
+  - { id: k05-wiki-le-yucheng, title: 乐玉成（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/乐玉成", excerpt: true, keep: [ 乐玉成, 年 ] }
+  - { id: k05-wiki-sun-dawei, title: 孙大伟（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孙大伟_(1963年)", excerpt: true, keep: [ 孙大伟, 年 ] }
+  - { id: k05-wiki-yin-hejun, title: 阴和俊（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/阴和俊", excerpt: true, keep: [ 阴和俊, 年 ] }
+  - { id: k05-wiki-chen-qing, title: 陈青（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈青", excerpt: true, keep: [ 陈青, 年 ] }
+  - { id: k05-wiki-miao-jianmin, title: 缪建民（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/缪建民", excerpt: true, keep: [ 缪建民, 年 ] }
+  - { id: k05-wiki-wei-gang, title: 魏钢（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/魏钢_(海军中将)", excerpt: true, keep: [ 魏钢, 年 ] }
+  - { id: k05-wiki-wang-jiong, title: 王炯（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王炯_(1964年)", excerpt: true, keep: [ 王炯, 年 ] }
+  - { id: k05-wiki-deng-xiaogang-sichuan, title: 邓小刚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/邓小刚_(1967年)", excerpt: true, keep: [ 邓小刚, 年 ] }
+  - { id: k05-wiki-li-jing, title: 李静（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李静_(1962年)", excerpt: true, keep: [ 李静, 年 ] }
+  - { id: k05-wiki-li-yinghong, title: 李应红（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李应红", excerpt: true, keep: [ 李应红, 年 ] }
+  - { id: k05-wiki-wu-xiaoguang, title: 吴晓光（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴晓光", excerpt: true, keep: [ 吴晓光, 年 ] }
+  - { id: k05-wiki-song-yushui, title: 宋鱼水（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/宋鱼水", excerpt: true, keep: [ 宋鱼水, 年 ] }
+  - { id: k05-wiki-pan-yue, title: 潘岳（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/潘岳_(1960年)", excerpt: true, keep: [ 潘岳, 年 ] }
+  - { id: k05-wiki-ding-yexian, title: 丁业现（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/丁业现", excerpt: true, keep: [ 丁业现, 年 ] }
+  - { id: k05-wiki-ning-jizhe, title: 宁吉喆（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/宁吉喆", excerpt: true, keep: [ 宁吉喆, 年 ] }
+  - { id: k05-wiki-yang-jincheng, title: 杨金成（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨金成", excerpt: true, keep: [ 杨金成, 年 ] }
+  - { id: k05-wiki-shu-qing, title: 舒庆（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/舒庆", excerpt: true, keep: [ 舒庆, 年 ] }
+  - { id: k05-wiki-yao-zengke, title: 姚增科（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/姚增科", excerpt: true, keep: [ 姚增科, 年 ] }
