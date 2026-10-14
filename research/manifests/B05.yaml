@@ -1,16 +1,6 @@
 # B05: the 18th-19th standing committee (Zhang Gaoli, Li Zhanshu, Wang Yang, Wang Huning, Zhao Leji).
 web:
   # --- shared: 19th standing committee profiles, status in 2026 ---
-  - id: b05-brookings-2017-new-politburo
-    title: China's new Politburo and Politburo Standing Committee
-    publisher: Brookings Institution
-    author: Cheng Li
-    date: 2017-10
-    voice: scholar
-    lang: en
-    url: https://www.brookings.edu/articles/chinas-new-politburo-standing-committee/
-    excerpt: true
-    keep: [Li Zhanshu is one of Xi Jinping, Wang was born into a family of humble means, Wang Huning is one of only a few leaders, Like Xi Jinping, Zhao Leji has a strong]
   - id: b05-bbc-2017-10-25-psc-profiles
     title: 中共十九大七常委档案：细看中国最有权势的七个人
     publisher: BBC 中文
@@ -18,7 +8,12 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-41745184
     excerpt: true
-    keep: [这也意味着中共十八届中央的五名常委, 汪洋先后主政重庆和广东, 由前中共中央总书记江泽民钦点进京]
+    keep:
+      - 这也意味着中共十八届中央的五名常委
+      - 汪洋先后主政重庆和广东
+      - 由前中共中央总书记江泽民钦点进京
+      - 韩正的主要政治生涯都在上海度过
+      - 2012年中共十八大后，韩正升任中共上海市委书记
   - id: b05-zaobao-2017-10-25-seven
     title: 他们是中国最有权力的7个人
     publisher: 联合早报
@@ -26,7 +21,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20171025-805827
     excerpt: true
-    keep: [新的七位常委名单正如, 常委中排名第三的栗战书, 有舆论指，赵乐际和习近平同属陕西籍]
+    keep: [ 新的七位常委名单正如, 常委中排名第三的栗战书, 有舆论指，赵乐际和习近平同属陕西籍 ]
   - id: b05-zaobao-2026-08-17-jiang-centenary
     title: 胡锦涛李瑞环吴官正罗干未现身江泽民百年诞辰纪念大会
     publisher: 联合早报
@@ -34,7 +29,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20260817-9529502
     excerpt: true
-    keep: [出席大会的中共元老在主席台第一排就坐]
+    keep: [ 出席大会的中共元老在主席台第一排就坐 ]
   - id: b05-zaobao-2025-09-03-parade
     title: 胡锦涛朱镕基宋平未亮相九三阅兵
     publisher: 联合早报
@@ -42,15 +37,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20250903-7456025
     excerpt: true
-    keep: [15人中有七人曾在中共总书记习近平掌舵]
-  - id: b05-bbc-2022-10-22-cc-list
-    title: 中共二十大闭幕：李克强汪洋韩正栗战书未名列中央委员，胡锦涛提前退场
-    publisher: BBC 中文
-    date: 2022-10-22
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-63355764
-    excerpt: true
-    keep: [现年67岁的总理李克强, 新一届中央委员会不包括李克强或汪洋]
+    keep: [ 15人中有七人曾在中共总书记习近平掌舵 ]
   # --- Zhang Gaoli ---
   - id: b05-gov-2013-03-16-zhang-gaoli-resume
     title: 张高丽同志简历
@@ -92,7 +79,7 @@ web:
     lang: en
     url: https://jamestown.org/the-rise-of-the-energy-faction-in-chinese-politics/
     excerpt: true
-    keep: [Equally significant is the fact that two Politburo members, has produced the first major CCP faction]
+    keep: [ Equally significant is the fact that two Politburo members, has produced the first major CCP faction ]
   - id: b05-orientaldaily-2021-11-04-zhang
     title: 张高丽面貌严肃　桃色风波震惊外界
     publisher: 马来西亚东方日报
@@ -100,16 +87,7 @@ web:
     voice: zh
     url: https://www.orientaldaily.com.my/news/international/2021/11/04/447968
     excerpt: true
-    keep: [由于在石油系统任职达14年, 张高丽最常被贴上的标签, 2006年5月，已退休的江泽民]
-  - id: b05-bbc-2021-11-04-peng-shuai
-    title: 彭帅指控张高丽#MeToo：有学者认为不应只聚焦政治层面
-    publisher: BBC 中文
-    author: 叶靖斯
-    date: 2021-11-04
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-59161194
-    excerpt: true
-    keep: [中国女子职业网球名将彭帅在微博称, 北京时间11月2日22:07, 这篇帖文据悉在微博上发表了约20分钟后被删除]
+    keep: [ 由于在石油系统任职达14年, 张高丽最常被贴上的标签, 2006年5月，已退休的江泽民 ]
   - id: b05-voa-2021-11-04-peng-shuai
     title: 中国网球名将彭帅指控前中共政治局常委张高丽性侵
     publisher: 美国之音
@@ -117,7 +95,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/china-tennis-star-peng-says-ex-vice-premier-forced-her-into-sex-20211103/6298592.html
     excerpt: true
-    keep: [中国网球名将彭帅星期二, 中国外交部发言人汪文斌]
+    keep: [ 中国网球名将彭帅星期二, 中国外交部发言人汪文斌 ]
   - id: b05-guardian-2021-12-01-wta
     title: WTA suspends tournaments in China amid concern for Peng Shuai
     publisher: The Guardian
@@ -126,7 +104,7 @@ web:
     lang: en
     url: https://www.theguardian.com/sport/2021/dec/01/wta-suspends-tournaments-china-peng-shuai-tennis
     excerpt: true
-    keep: [has announced the suspension of all tournaments in China, In good conscience]
+    keep: [ has announced the suspension of all tournaments in China, In good conscience ]
   - id: b05-zaobao-2021-12-20-peng-shuai
     title: 接受《联合早报》独家采访 彭帅：从未说过写过遭任何人性侵
     publisher: 联合早报
@@ -134,7 +112,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20211220-1224718
     excerpt: true
-    keep: [当记者问到有关性侵的传闻时, 我从未说过、写过任何人性侵我]
+    keep: [ 当记者问到有关性侵的传闻时, 我从未说过、写过任何人性侵我 ]
   - id: b05-wta-2023-04-13-china-return
     title: The WTA to resume tournaments in China this fall
     publisher: WTA
@@ -143,7 +121,7 @@ web:
     lang: en
     url: https://www.wtatennis.com/news/3147537/the-wta-to-resume-tournaments-in-china-this-fall
     excerpt: true
-    keep: [After 16 months of suspended tennis competition, assured she is living safely]
+    keep: [ After 16 months of suspended tennis competition, assured she is living safely ]
   - id: b05-nytcn-2021-11-25-zhang
     title: 彭帅事件打破张高丽朴素低调的高官形象
     publisher: 纽约时报中文网
@@ -151,7 +129,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20211125/china-peng-shuai-zhang-gaoli/
     excerpt: true
-    keep: [严肃、低调、不苟言笑, 张高丽于2018年退休后, 中国外交部发言人赵立坚表示]
+    keep: [ 严肃、低调、不苟言笑, 张高丽于2018年退休后, 中国外交部发言人赵立坚表示 ]
   - id: b05-voa-2022-10-17-zhang-congress
     title: 遭彭帅指控性骚扰的张高丽现身中共二十大主席台
     publisher: 美国之音
@@ -159,25 +137,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/china-ex-official-zhang-makes-first-appearance-since-sexual-assault-claim-20221016/6792215.html
     excerpt: true
-    keep: [中共前政治局常委、前副总理张高丽星期天]
-  - id: b05-guardian-2016-04-06-panama
-    title: Panama Papers reveal offshore secrets of China's red nobility
-    publisher: The Guardian
-    date: 2016-04-06
-    voice: west
-    lang: en
-    url: https://www.theguardian.com/news/2016/apr/06/panama-papers-reveal-offshore-secrets-china-red-nobility-big-business
-    excerpt: true
-    keep: [the son-in-law of Zhang Gaoli, There is nothing in the documents to suggest]
-  - id: b05-icij-2016-04-06-china
-    title: Leaked Files Offer Many Clues To Offshore Dealings by Top Chinese
-    publisher: ICIJ
-    date: 2016-04-06
-    voice: west
-    lang: en
-    url: https://www.icij.org/investigations/panama-papers/20160406-china-red-nobility-offshore-dealings/
-    excerpt: true
-    keep: [has a son-in-law named Lee Shing Put]
+    keep: [ 中共前政治局常委、前副总理张高丽星期天 ]
   # --- Li Zhanshu ---
   - id: b05-xinhua-2018-03-17-li-zhanshu-resume
     title: 第十三届全国人民代表大会常务委员会委员长简历（栗战书简历）
@@ -194,7 +154,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20171023-804996
     excerpt: true
-    keep: [他在河北省无极县担任县委书记, 据称他们为人处世的理念相契合, 这短短两年为栗战书, 香港《明报》曾披露, 他曾自称, 栗战书在担任中办主任初期, 习近平的内巡和外访活动中]
+    keep: [ 他在河北省无极县担任县委书记, 据称他们为人处世的理念相契合, 这短短两年为栗战书, 香港《明报》曾披露, 他曾自称, 栗战书在担任中办主任初期, 习近平的内巡和外访活动中 ]
   - id: b05-rfi-2012-09-02-li-zhongban
     title: 栗战书任中办主任
     publisher: RFI 法广
@@ -203,7 +163,7 @@ web:
     voice: zh
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20120902-%E6%A0%97%E6%88%98%E4%B9%A6%E4%BB%BB%E4%B8%AD%E5%8A%9E%E4%B8%BB%E4%BB%BB
     excerpt: true
-    keep: [总书记胡锦涛心腹令计划, 根据资料，栗战书是团派人马]
+    keep: [ 总书记胡锦涛心腹令计划, 根据资料，栗战书是团派人马 ]
   - id: b05-bbc-2018-03-20-li-zhanshu-npc
     title: 中国两会闭幕：栗战书称习近平为“人民领袖”、“国家掌舵者”
     publisher: BBC 中文
@@ -211,7 +171,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-43467996
     excerpt: true
-    keep: [中国人大常委会委员长栗战书在主持闭幕式时, 习近平同志全票当选, 栗战书在十九届中共政治局常委中排名第三, 跟习近平一样，栗战书也出生于红色家庭, 《南华早报》曾经刊登]
+    keep: [ 中国人大常委会委员长栗战书在主持闭幕式时, 习近平同志全票当选, 栗战书在十九届中共政治局常委中排名第三, 跟习近平一样，栗战书也出生于红色家庭, 《南华早报》曾经刊登 ]
   - id: b05-dw-2022-09-li-russia
     title: 内外有别：栗战书在莫斯科公开支持俄战争
     publisher: 德国之声中文网
@@ -219,7 +179,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB%E6%A0%97%E6%88%98%E4%B9%A6%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E4%BF%84%E6%88%98%E4%BA%89/a-63117882
     excerpt: true
-    keep: [以罕见口吻公开表达对俄罗斯侵略乌克兰的支持, 在涉及俄罗斯核心利益, 现在的乌克兰问题, 这是北京迄今为止, 据新华社的报道]
+    keep: [ 以罕见口吻公开表达对俄罗斯侵略乌克兰的支持, 在涉及俄罗斯核心利益, 现在的乌克兰问题, 这是北京迄今为止, 据新华社的报道 ]
   # --- Wang Yang ---
   - id: b05-xinhua-2018-03-14-wang-yang-resume
     title: 汪洋简历
@@ -244,7 +204,7 @@ web:
     voice: official
     url: http://finance.people.com.cn/n/2013/0711/c1004-22156985.html
     excerpt: true
-    keep: [新人来主持新一轮的中美经济对话, 不过，中美经济关系有点像夫妻, 我们两家不能走离婚的路, 在华盛顿召开的第五轮中美战略与经济对话]
+    keep: [ 新人来主持新一轮的中美经济对话, 不过，中美经济关系有点像夫妻, 我们两家不能走离婚的路, 在华盛顿召开的第五轮中美战略与经济对话 ]
   - id: b05-rfi-2011-07-15-cake
     title: 「蛋糕论」薄熙来汪洋公开斗法
     publisher: RFI 法广
@@ -252,7 +212,7 @@ web:
     voice: zh
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20110715-%E3%80%8C%E8%9B%8B%E7%B3%95%E8%AE%BA%E3%80%8D%E8%96%84%E7%86%99%E6%9D%A5%E6%B1%AA%E6%B4%8B%E5%85%AC%E5%BC%80%E6%96%97%E6%B3%95
     excerpt: true
-    keep: [瑜亮情结, 广州《新快报》日前引述汪洋说, 但薄熙来却刚巧提出相反的论调, 两人的分别是, 骂娘论]
+    keep: [ 瑜亮情结, 广州《新快报》日前引述汪洋说, 但薄熙来却刚巧提出相反的论调, 两人的分别是, 骂娘论 ]
   - id: b05-bbc-2011-08-23-cake
     title: 点评中国：中国的“两种蛋糕论”
     publisher: BBC 中文
@@ -261,7 +221,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/focus_on_china/2011/08/110823_cr_caketheory_byzhanglun
     excerpt: true
-    keep: [7月11日广东省委书记汪洋在省委十届九次会议上]
+    keep: [ 7月11日广东省委书记汪洋在省委十届九次会议上 ]
   - id: b05-chinastory-2012-cake
     title: "Chapter 2: Symbolic Cities and the 'Cake Debate'"
     publisher: The China Story Yearbook 2012 (Australian Centre on China in the World, ANU)
@@ -270,7 +230,7 @@ web:
     lang: en
     url: https://www.thechinastory.org/yearbooks/yearbook-2012/chapter-2-symbolic-cities-and-the-cake-debate/
     excerpt: true
-    keep: [In 2011, the symbolic politics of the two places]
+    keep: [ In 2011, the symbolic politics of the two places ]
   - id: b05-zaobao-2022-10-22-wang-yang-exit
     title: 汪洋未当选中央委员 确定将卸任政治局常委
     publisher: 联合早报
@@ -278,7 +238,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20221022-1325364
     excerpt: true
-    keep: [现任政治局常委、全国政协主席汪洋没有进入, 汪洋今年67岁, 汪洋自2007年就进入中共政治局]
+    keep: [ 现任政治局常委、全国政协主席汪洋没有进入, 汪洋今年67岁, 汪洋自2007年就进入中共政治局 ]
   - id: b05-voa-2022-10-22-congress
     title: 中共二十大报道：党代会落幕 李克强、汪洋意外出局 胡锦涛被请离席
     publisher: 美国之音
@@ -287,7 +247,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/ccp-congress-concluded-with-li-keqiang-wang-yang-out-of-the-central-committee-20221022/6800826.html
     excerpt: true
-    keep: [原来呼声很高的被认为是改革派和团派领军人物, 属于团派的原常委李克强和汪洋两人都是67岁]
+    keep: [ 原来呼声很高的被认为是改革派和团派领军人物, 属于团派的原常委李克强和汪洋两人都是67岁 ]
   # --- Wang Huning ---
   - id: b05-xinhua-2017-10-25-wang-huning-resume
     title: 王沪宁同志简历
@@ -328,7 +288,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20171024-805285
     excerpt: true
-    keep: [正是在1995年，王沪宁离开校园, 他在2012年中共十八大后进入中央政治局, 如今，北京的观察家们早已不再纠结]
+    keep: [ 正是在1995年，王沪宁离开校园, 他在2012年中共十八大后进入中央政治局, 如今，北京的观察家们早已不再纠结 ]
   - id: b05-bbc-2017-11-wang-huning-op
     title: 观点：王沪宁是“强人政治的解药”
     publisher: BBC 中文
@@ -337,7 +297,7 @@ web:
     voice: scholar
     url: https://www.bbc.com/zhongwen/simp/chinese-news-41855751
     excerpt: true
-    keep: [取得硕士学位后, 他被称为江泽民“三个代表”, 王沪宁的作风，恰如中国古代, 此文根据作者英文原文]
+    keep: [ 取得硕士学位后, 他被称为江泽民“三个代表”, 王沪宁的作风，恰如中国古代, 此文根据作者英文原文 ]
   - id: b05-newyorker-wang-huning
     title: How a Book About America's History Foretold China's Future
     publisher: The New Yorker
@@ -345,7 +305,7 @@ web:
     lang: en
     url: https://www.newyorker.com/books/second-read/how-a-book-about-americas-history-foretold-chinas-future
     excerpt: true
-    keep: [Chinese netizens call him guoshi, established Wang as, If Tocqueville located the virtues of America, Wang looked askance at American democracy]
+    keep: [ Chinese netizens call him guoshi, established Wang as, If Tocqueville located the virtues of America, Wang looked askance at American democracy ]
   - id: b05-lrb-2023-wang-huning
     title: Against America
     publisher: London Review of Books
@@ -355,7 +315,7 @@ web:
     lang: en
     url: https://www.lrb.co.uk/the-paper/v45/n05/barclay-bram/against-america
     excerpt: true
-    keep: [Wang is credited with shaping the ideology, Many looked to America as a roadmap, academic work of the late 1980s and early 1990s]
+    keep: [ Wang is credited with shaping the ideology, Many looked to America as a roadmap, academic work of the late 1980s and early 1990s ]
   # --- Zhao Leji ---
   - id: b05-xinhua-2017-10-25-zhao-leji-resume
     title: 赵乐际同志简历
@@ -413,14 +373,6 @@ web:
     url: https://www.news.cn/politics/leaders/20260924/d75da6ef51be460ca5fec25004a78326/c.html
     start: 9月21日至24日
     end: 同人大代表座谈交流。
-  - id: b05-voa-2022-10-24-psc
-    title: 简析中共中央政治局七名新常委：绝大多数都是习家军
-    publisher: 美国之音
-    date: 2022-10-24
-    voice: zh
-    url: https://www.voachinese.com/a/a-look-at-the-7-men-slated-to-lead-china-s-communist-party-20221023/6801970.html
-    excerpt: true
-    keep: [赵乐际是此次政治局常委中三位留任者之一, 被一些观察家视为习近平的“陕西帮”成员]
   - id: b05-rfi-2019-01-16-zhao
     title: 陕西省委两位赵书记 一个升起来一个倒下去
     publisher: RFI 法广
@@ -428,4 +380,4 @@ web:
     voice: zh
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20190116-%E9%99%95%E8%A5%BF%E7%9C%81%E4%B8%A4%E4%BD%8D%E8%B5%B5%E4%B9%A6%E8%AE%B0-%E4%B8%80%E4%B8%AA%E5%8D%87%E8%B5%B7%E6%9D%A5%E4%B8%80%E4%B8%AA%E5%80%92%E4%B8%8B%E5%8E%BB
     excerpt: true
-    keep: [陕西进入多事之秋, 赵正永被查后，有文章指出, 赵乐际2007年至2012年年末, 因此秦岭别墅违建问题屡屡爆发]
+    keep: [ 陕西进入多事之秋, 赵正永被查后，有文章指出, 赵乐际2007年至2012年年末, 因此秦岭别墅违建问题屡屡爆发 ]

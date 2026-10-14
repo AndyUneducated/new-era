@@ -9,14 +9,18 @@ export const ROOT = fileURLToPath(new URL('../..', import.meta.url))
 export const path = (...p: string[]) => join(ROOT, ...p)
 export const exists = (...p: string[]) => existsSync(path(...p))
 export const read = (...p: string[]) => parse(readFileSync(path(...p), 'utf8'))
-// --batch=B04 checks one batch in isolation: under content/, only files named after the batch are read
-// (plus the M0 exemplar), so half-written files of other batches running in parallel do not get in the way
+// --batch=B11 checks one batch in isolation: the files of the other batches listed in research/round.yaml
+// (the ones still running in parallel) are skipped, so their half-written files do not get in the way.
+// Everything already integrated is read, so a batch can cite earlier sources, people and factions.
 export const BATCH = process.argv.find((a) => a.startsWith('--batch='))?.slice(8)
+const inflight: string[] = BATCH && exists('research', 'round.yaml') ? ((read('research', 'round.yaml') ?? {}).inflight ?? []) : []
+const skipped = (p: string[], f: string) =>
+  (p[0] === 'content' || p[1] === 'manifests') && inflight.some((b) => b !== BATCH && f.startsWith(b))
 export const yamlFiles = (...p: string[]) =>
   exists(...p)
     ? readdirSync(path(...p))
         .filter((f) => f.endsWith('.yaml'))
-        .filter((f) => !BATCH || (p[0] !== 'content' && p[1] !== 'manifests') || f.startsWith(BATCH) || f.startsWith('00-'))
+        .filter((f) => !skipped(p, f))
         .sort()
         .map((f) => [...p, f])
     : []

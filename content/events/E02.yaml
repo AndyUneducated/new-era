@@ -142,7 +142,7 @@
   lane: folk
   summary: 胡锦涛在纪念十一届三中全会30周年大会上说，“只要我们不动摇、不懈怠、不折腾”，就一定能实现宏伟蓝图。“不折腾”随即流行。12月30日国务院新闻办发布会上，翻译干脆按拼音念作bu zheteng，引来笑声。联合早报评论说官方权威解释缺席，网上有人大赞，也有网民不买账。
   people: [hu-jintao]
-  cites: [e02-12371-2008-12-18-hu-30th, e02-sina-2009-01-02-buzheteng]
+  cites: [b02-12371-2008-12-18-hu-30th, e02-sina-2009-01-02-buzheteng]
 
 - id: e2008-gulf-of-aden-escort
   date: 2008-12-26
@@ -264,7 +264,7 @@
   lane: ideo
   summary: 深圳经济特区建立30周年之际，温家宝在深圳听取工作汇报时说，“不仅要推进经济体制改革，还要推进政治体制改革”，没有政治体制改革的保障，经济体制改革的成果就会得而复失。他还提出要从制度上解决权力过分集中又得不到制约的问题。BBC引述批评人士说，对领导人讲话重要的不是听其言，而是观其行。
   people: [wen-jiabao, wang-yang]
-  cites: [e02-gov-2010-08-21-wen-shenzhen, e02-bbc-2010-08-22-wen-shenzhen]
+  cites: [b02-gov-2010-08-21-wen-shenzhen, e02-bbc-2010-08-22-wen-shenzhen]
 
 - id: e2010-diaoyu-trawler
   date: 2010-09-07
@@ -285,13 +285,13 @@
   voices:
     - voice: official
       text: 诺委会把和平奖授予这样一个人，完全违背了该奖项的宗旨，也是对和平奖的亵渎。
-      cite: e02-mfa-2010-10-08-nobel
+      cite: b10-mfa-2010-10-08-liu-nobel
       quote: true
     - voice: zh
       text: 长期以来以非暴力方式在中国争取基本人权的斗争
       cite: e02-bbc-2010-10-08-liu-nobel
       quote: true
-  cites: [e02-mfa-2010-10-08-nobel, e02-bbc-2010-10-08-liu-nobel, e02-bbc-2009-12-25-liu-sentenced]
+  cites: [b10-mfa-2010-10-08-liu-nobel, e02-bbc-2010-10-08-liu-nobel, e02-bbc-2009-12-25-liu-sentenced]
 
 - id: e2010-xi-cmc-vice-chair
   date: 2010-10-15
@@ -399,7 +399,7 @@
   lane: ethnic
   summary: 1月6日，四川阿坝格尔登寺附近一名藏族男子自焚，维权组织称这是一年内中国藏区第13起自焚。自2011年3月年轻僧人平措自焚后，四川藏区已有9名僧人和2名尼姑自焚抗议，至少7人死亡，有自焚者呼喊要求达赖喇嘛返回西藏。温家宝3月表示年轻僧人是无辜的，不赞成以极端行为破坏社会和谐。
   people: [wen-jiabao]
-  cites: [e02-bbc-2012-01-06-tibet-immolation, e02-sina-2012-03-14-wen-presser]
+  cites: [e02-bbc-2012-01-06-tibet-immolation, b02-sina-2012-03-14-wen-presser]
 
 - id: e2012-ma-ying-jeou-reelected
   date: 2012-01-14
@@ -424,7 +424,7 @@
   lane: power
   summary: 温家宝在任内最后一次人大闭幕记者会上说，“文革”错误的遗毒和封建的影响并没有完全清除，没有政治体制改革的成功，“文化大革命”这样的历史悲剧还有可能重新发生。被问及王立军事件时，他说现任重庆市委和市政府必须反思，认真吸取教训。次日，中央宣布薄熙来不再兼任重庆市委书记。
   people: [wen-jiabao, bo-xilai, wang-lijun]
-  cites: [e02-sina-2012-03-14-wen-presser, e02-xinhua-2012-03-15-chongqing-secretary]
+  cites: [b02-sina-2012-03-14-wen-presser, e02-xinhua-2012-03-15-chongqing-secretary]
 
 - id: e2012-ling-gu-ferrari-crash
   date: 2012-03-18
@@ -461,7 +461,7 @@
   lane: hkmt
   summary: 香港第四任行政长官选举中，梁振英在选举委员会投票中获689票，超过600张有效选票，选举主任依《行政长官选举条例》宣布他当选；唐英年得285票，何俊仁得76票。梁振英被视为受北京支持的候选人，此前有选委和报章称中联办官员施加压力，要求他们支持梁振英。
   people: [liang-zhenying]
-  cites: [e02-govhk-2012-03-25-ce-election, e02-bbc-2012-03-25-leung-elected, e02-sina-2012-03-14-wen-presser]
+  cites: [e02-govhk-2012-03-25-ce-election, e02-bbc-2012-03-25-leung-elected, b02-sina-2012-03-14-wen-presser]
 
 - id: e2012-chen-guangcheng
   date: 2012-05-02
@@ -479,7 +479,7 @@
   summary: 彭博社6月29日发表报道，称习近平的亲属拥有价值数亿美元的资产，主要由其姐姐齐桥桥和姐夫邓家贵持有，在多家公司中的资产总额达3.76亿美元，包括一家稀土公司18%的间接股份。彭博社网站随后在中国被屏蔽，BBC称这显示高层领导人家人的财富问题对北京十分敏感。
   people: [xi-jinping, qi-qiaoqiao]
   factions: [princelings]
-  cites: [e02-bbc-2012-06-29-bloomberg-xi]
+  cites: [c05-bbc-2012-06-29-bloomberg-xi]
 
 - id: e2012-shifang-protest
   date: 2012-07-02
@@ -496,7 +496,7 @@
   lane: purge
   summary: 合肥市中级人民法院8月20日一审以故意杀人罪判处薄谷开来死刑、缓期二年执行，张晓军被判有期徒刑九年。法院认定，薄谷开来与英国人尼尔·伍德因经济利益发生矛盾，认为对方威胁其子安全，2011年11月在重庆一家酒店以氰化物将其毒杀。两人当庭表示不上诉。
   people: [gu-kailai, bo-xilai]
-  cites: [e02-chinanews-2012-08-20-gu-kailai-verdict]
+  cites: [b07-xinhua-2012-08-20-gu-kailai-sentence]
 
 - id: e2012-ling-jihua-demoted
   date: 2012-09-01
@@ -577,13 +577,13 @@
   voices:
     - voice: zh
       text: 他们掌控了价值不低于27亿美元（约合170亿元人民币）的资产。
-      cite: e02-nyt-2012-10-26-wen-wealth
+      cite: b02-nytcn-2012-10-26-wen-wealth
       quote: true
     - voice: official
       text: 有关媒体的报道抹黑中国，别有用心。
-      cite: e02-nyt-2012-10-29-wen-response
+      cite: b02-nytcn-2012-10-29-wen-response
       quote: true
-  cites: [e02-nyt-2012-10-26-wen-wealth, e02-nyt-2012-10-29-wen-response]
+  cites: [b02-nytcn-2012-10-26-wen-wealth, b02-nytcn-2012-10-29-wen-response]
 
 - id: e2012-18th-party-congress
   date: 2012-11-08
@@ -611,7 +611,7 @@
   summary: 11月29日，习近平和新一届政治局常委到国家博物馆参观《复兴之路》展览。习近平说，“实现中华民族伟大复兴，就是中华民族近代以来最伟大的梦想”，现在比历史上任何时期都更接近这个目标；他还说道路决定命运，落后就要挨打，并提出空谈误国，实干兴邦。
   people: [xi-jinping, li-keqiang, zhang-dejiang, yu-zhengsheng, liu-yunshan, wang-qishan, zhang-gaoli]
   concepts: [chinese-dream]
-  cites: [e02-xinhua-2012-11-29-chinese-dream]
+  cites: [b04-xinhua-2012-11-29-china-dream]
 
 - id: e2012-eight-point-rules
   date: 2012-12-04

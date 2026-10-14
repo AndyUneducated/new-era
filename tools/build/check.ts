@@ -1,7 +1,7 @@
 // Stage 2: unique ids, references between records, cited sources, verbatim quotes.
 import { FACTION_VOICES } from '../../src/data/schema.ts'
 import { quoteMisses } from '../../src/lib/quotes.ts'
-import { errors, warnings } from './io.ts'
+import { BATCH, errors, warnings } from './io.ts'
 import type { Data } from './load.ts'
 
 export function check(d: Data) {
@@ -17,10 +17,17 @@ export function check(d: Data) {
   const factions = unique('faction', d.factions.map((f) => f.id))
   const concepts = unique('concept', d.concepts.map((c) => c.id))
   unique('event', d.events.map((e) => e.id))
-  // parallel batches cannot see each other's manifests, so the same page may be registered twice
+  // batches running in parallel cannot see each other's manifests, so they may register the same page twice;
+  // a batch re-registering a page that is already integrated should cite the existing id instead
+  const own = BATCH ? `${BATCH.toLowerCase()}-` : undefined
   const byUrl = new Map<string, string[]>()
   for (const s of d.sources) if (!s.id.startsWith('wd-')) byUrl.set(s.url, [...(byUrl.get(s.url) ?? []), s.id])
-  for (const [url, ids] of byUrl) if (ids.length > 1) warnings.push(`one page, several sources: ${ids.join(', ')} (${url})`)
+  for (const [url, ids] of byUrl) {
+    if (ids.length < 2) continue
+    const earlier = ids.filter((id) => !own || !id.startsWith(own))
+    if (own && earlier.length && earlier.length < ids.length) errors.push(`${ids.filter((id) => id.startsWith(own)).join(', ')}: already registered as ${earlier[0]}, cite that (${url})`)
+    else warnings.push(`one page, several sources: ${ids.join(', ')} (${url})`)
+  }
 
   const planned = new Set(d.roster.map((r) => r.id))
   for (const r of d.roster) if (!people.has(r.id)) warnings.push(`roster: ${r.id} (${r.batch}) has no entry yet`)

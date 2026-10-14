@@ -49,7 +49,7 @@ web:
     voice: official
     url: http://news.sina.com.cn/c/nd/2016-09-20/doc-ifxvyqvy6902544.shtml
     excerpt: true
-    keep: [果断决定在拉萨市实行戒严, 46岁的胡锦涛从贵州省委书记任上]
+    keep: [ 果断决定在拉萨市实行戒严, 46岁的胡锦涛从贵州省委书记任上 ]
   - id: b02-bbc-2012-11-12-scmp-hu-cmc
     title: 港媒：胡锦涛不留任中央军委主席
     publisher: BBC 中文
@@ -57,7 +57,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121112_scmp_
     excerpt: true
-    keep: [江泽民在卸任中共最高领导人职务后曾经留任中央军委主席一职两年]
+    keep: [ 江泽民在卸任中共最高领导人职务后曾经留任中央军委主席一职两年 ]
   - id: b02-bbc-2012-11-16-sea-press-hu
     title: 新马泰报章：胡锦涛成了跛脚鸭
     publisher: BBC 中文
@@ -65,7 +65,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/world/2012/11/121116_china_cpc_singapore_press
     excerpt: true
-    keep: [留下的最大政治遗产, 跛脚鸭]
+    keep: [ 留下的最大政治遗产, 跛脚鸭 ]
   - id: b02-bbc-2012-10-29-hu-era
     title: 点评中国：绕着走的胡锦涛时代
     publisher: BBC 中文
@@ -73,25 +73,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/focus_on_china/2012/10/121029_cr_hu_era
     excerpt: true
-    keep: [或可用这样一句话来概括, 迅速地沦为]
-  - id: b02-brookings-power-shift
-    title: The Power Shift in China
-    publisher: Brookings Institution
-    author: Cheng Li（李成）
-    voice: scholar
-    url: https://www.brookings.edu/articles/the-power-shift-in-china/
-    lang: en
-    excerpt: true
-    keep: [one party, two coalitions, who comprise Hu’s power base]
-  - id: b02-brookings-two-coalitions
-    title: One Party, Two Coalitions in China's Politics
-    publisher: Brookings Institution
-    author: Cheng Li（李成）
-    voice: scholar
-    url: https://www.brookings.edu/articles/one-party-two-coalitions-in-chinas-politics/
-    lang: en
-    excerpt: true
-    keep: [The Populist Coalition is currently led by, The Populist coalition is more focused on social cohesion]
+    keep: [ 或可用这样一句话来概括, 迅速地沦为 ]
   - id: b02-bbc-2022-10-22-hu-escorted
     title: 胡锦涛“被离场”引发诸多猜测 新华社英文推特回应原因
     publisher: BBC 中文
@@ -99,16 +81,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-63164916
     excerpt: true
-    keep: [在英文推特官方账号, 会议期间身体不适, 中国国内媒体并未报道, 伸手出去好像要去拿, 高度脚本化]
-  - id: b02-guardian-2022-10-23-hu-jintao
-    title: Hu Jintao 'not feeling well' when he left China congress, says state media
-    publisher: The Guardian
-    date: 2022-10-23
-    voice: west
-    url: https://www.theguardian.com/world/2022/oct/23/hu-jintao-not-feeling-well-when-he-left-china-congress-says-state-media
-    lang: en
-    excerpt: true
-    keep: [insisted on attending the closing session, When he was not feeling well during the session]
+    keep: [ 在英文推特官方账号, 会议期间身体不适, 中国国内媒体并未报道, 伸手出去好像要去拿, 高度脚本化 ]
   - id: b02-zaobao-2024-01-16-hu-haifeng
     title: 胡锦涛之子胡海峰履新民政副部长
     publisher: 联合早报
@@ -116,7 +89,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20240116-1462522
     excerpt: true
-    keep: [浙江丽水市委书记胡海峰星期二履新中国民政部副部长, 其独子胡海峰才踏入政界]
+    keep: [ 浙江丽水市委书记胡海峰星期二履新中国民政部副部长, 其独子胡海峰才踏入政界 ]
   - id: b02-gov-2026-08-18-zhu-rongji-farewell
     title: 朱镕基同志遗体在京火化 习近平等到八宝山革命公墓送别
     publisher: 新华社（中国政府网）
@@ -132,7 +105,15 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20260817-9532336
     excerpt: true
-    keep: [未列席的中共元老, 胡锦涛目前是官方排序最靠前的中共元老, 胡锦涛最后一次公开亮相, 吴官正去年也曾登上北京天安门城楼, 当中以下月满84岁的温家宝, 两位中国全国政协前主席贾庆林]
+    keep:
+      - 未列席的中共元老
+      - 胡锦涛目前是官方排序最靠前的中共元老
+      - 胡锦涛最后一次公开亮相
+      - 吴官正去年也曾登上北京天安门城楼
+      - 当中以下月满84岁的温家宝
+      - 两位中国全国政协前主席贾庆林
+      - 李瑞环则未现身
+      - 李岚清
   # ---- 温家宝 ----
   - id: b02-gov-2008-03-16-wen-resume
     title: 温家宝（简历）
@@ -158,7 +139,21 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20121026/c26princeling/
     excerpt: true
-    keep: [掌控了价值不低于27亿美元, 没有发现温家宝名下有任何财产, 现年90岁的总理母亲杨志云, 他的妻子张蓓莉是中国珠宝与宝石领域的权威人士之一, 总理的独子温云松坐在, 他的英文名是温斯顿, 在温云松的领导下，新天域迅速蹿升, 他转而加入了国有的中国卫星通信集团公司, 温云松拒绝接受采访, 约有80%是由温家宝的母亲]
+    keep:
+      - 掌控了价值不低于27亿美元
+      - 没有发现温家宝名下有任何财产
+      - 现年90岁的总理母亲杨志云
+      - 他的妻子张蓓莉是中国珠宝与宝石领域的权威人士之一
+      - 总理的独子温云松坐在
+      - 他的英文名是温斯顿
+      - 在温云松的领导下，新天域迅速蹿升
+      - 他转而加入了国有的中国卫星通信集团公司
+      - 温云松拒绝接受采访
+      - 约有80%是由温家宝的母亲
+      - 总理的独子温云松
+      - 还没有几个太子党像
+      - 温云松的领导下，新天域
+      - 中国卫星通信集团公司
   - id: b02-nytcn-2012-10-29-wen-response
     title: 温家宝家人回应《纽约时报》报道
     publisher: 纽约时报中文网
@@ -166,7 +161,12 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20121029/c29wen/
     excerpt: true
-    keep: [是不存在的, 抹黑中国，别有用心, 两个自称代理温家宝总理家人的律师, 温家宝的母亲除了按规定领取的工资, 温家宝从未在家人的经营活动中起任何作用]
+    keep:
+      - 是不存在的
+      - 抹黑中国，别有用心
+      - 两个自称代理温家宝总理家人的律师
+      - 温家宝的母亲除了按规定领取的工资
+      - 温家宝从未在家人的经营活动中起任何作用
   - id: b02-nytcn-2014-06-04-june-fourth
     title: 备忘“六四”
     publisher: 纽约时报中文网
@@ -175,7 +175,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20140604/cc04daiqing/
     excerpt: true
-    keep: [时任中央办公厅主任温家宝（右二）]
+    keep: [ 时任中央办公厅主任温家宝（右二） ]
   - id: b02-chinanews-2008-05-23-duonan-xingbang
     title: 温家宝北川中学安置点看望师生 题词“多难兴邦”
     publisher: 中国新闻网
@@ -199,7 +199,7 @@ web:
     voice: official
     url: http://www.chinanews.com/hb/2012/03-15/3746242_2.shtml
     excerpt: true
-    keep: [不负他“平民总理”的封号]
+    keep: [ 不负他“平民总理”的封号 ]
   - id: b02-bbc-2013-03-05-wen-decade
     title: 学者：温家宝的十年功与过
     publisher: BBC 中文
@@ -207,7 +207,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/03/130305_iv_zhangwei_wenjiabao
     excerpt: true
-    keep: [他在总理任期内一直保持亲民形象, 他多次呼吁政改]
+    keep: [ 他在总理任期内一直保持亲民形象, 他多次呼吁政改 ]
   - id: b02-bbc-2021-04-19-wen-mother
     title: 中国前总理温家宝撰文忆母谈公平正义 遭禁止转发
     publisher: BBC 中文
@@ -215,7 +215,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-56800702
     excerpt: true
-    keep: [撰文四篇回忆悼念过世的母亲, 我同情穷人、同情弱者, 在中国社交平台被限制转发分享, 选择在胡耀邦去世纪念日附近发表文章]
+    keep: [ 撰文四篇回忆悼念过世的母亲, 我同情穷人、同情弱者, 在中国社交平台被限制转发分享, 选择在胡耀邦去世纪念日附近发表文章 ]
   - id: b02-dw-2021-04-19-wen-mother-blocked
     title: 是谁“敢”屏蔽温家宝的文章？
     publisher: 德国之声中文网
@@ -223,7 +223,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/%E6%98%AF%E8%B0%81%E6%95%A2%E5%B1%8F%E8%94%BD%E6%B8%A9%E5%AE%B6%E5%AE%9D%E7%9A%84%E6%96%87%E7%AB%A0/a-57250178
     excerpt: true
-    keep: [违反《微信公众平台运营规范》, 404 抱歉, 被“扔鞋”]
+    keep: [ 违反《微信公众平台运营规范》, 404 抱歉, 被“扔鞋” ]
   # ---- 吴邦国 ----
   - id: b02-gov-2024-10-14-wu-bangguo-life
     title: 吴邦国同志生平
@@ -257,7 +257,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/yataibaodao/shehui/kw-wu-bangguo-deceased-chinese-technocrats-10082024120749.html
     excerpt: true
-    keep: [以"上海帮"身份进入中共权力核心, 从来就没有准备进行政治体制改革]
+    keep: [ 以"上海帮"身份进入中共权力核心, 从来就没有准备进行政治体制改革 ]
   - id: b02-rfi-2024-10-08-wu-five-nos
     title: 五不搞委员长吴邦国
     publisher: 法国国际广播电台
@@ -265,7 +265,7 @@ web:
     voice: zh
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20241008-%E4%BA%94%E4%B8%8D%E6%90%9E%E5%A7%94%E5%91%98%E9%95%BF%E5%90%B4%E9%82%A6%E5%9B%BD
     excerpt: true
-    keep: [虽然吴邦国是江泽民的亲信, 名副其实的“表决机器”]
+    keep: [ 虽然吴邦国是江泽民的亲信, 名副其实的“表决机器” ]
   # ---- 贾庆林 ----
   - id: b02-chinanews-2007-10-22-jia-resume
     title: 贾庆林简历
@@ -282,7 +282,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/hi/chinese/news/newsid_2793000/27936511.stm
     excerpt: true
-    keep: [林幼芳]
+    keep: [ 林幼芳 ]
   - id: b02-bbc-2003-03-13-jia-cppcc
     title: 贾庆林当选中国政协主席
     publisher: BBC 中文
@@ -290,7 +290,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/hi/chinese/news/newsid_2846000/28465351.stm
     excerpt: true
-    keep: [江泽民的亲密的政治盟友, 没有受到任何处罚]
+    keep: [ 江泽民的亲密的政治盟友, 没有受到任何处罚 ]
   - id: b02-bbc-2011-07-22-lai-politics
     title: 分析：赖昌星回国受审和高层政治
     publisher: BBC 中文
@@ -298,7 +298,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/07/110722_liuruishao_laichangxing
     excerpt: true
-    keep: [副部级以上的高官不受牵连, 曾经主政福建的贾庆林会特别受到关注]
+    keep: [ 副部级以上的高官不受牵连, 曾经主政福建的贾庆林会特别受到关注 ]
   - id: b02-irishtimes-2000-jia-wife
     title: Jiang backs key comrade whose wife is implicated in corruption
     publisher: The Irish Times
@@ -307,16 +307,7 @@ web:
     url: https://www.irishtimes.com/news/jiang-backs-key-comrade-whose-wife-is-implicated-in-corruption-1.237868
     lang: en
     excerpt: true
-    keep: [has been detained for questioning, prepared to protect the Beijing chief]
-  - id: b02-guardian-2016-04-06-panama-china
-    title: Panama Papers reveal offshore secrets of China's red nobility
-    publisher: The Guardian
-    date: 2016-04-06
-    voice: west
-    url: https://www.theguardian.com/news/2016/apr/06/panama-papers-reveal-offshore-secrets-china-red-nobility-big-business
-    lang: en
-    excerpt: true
-    keep: [The documents show the granddaughter of a powerful Chinese leader]
+    keep: [ has been detained for questioning, prepared to protect the Beijing chief ]
   - id: b02-cntv-2010-06-20-jia-straits-forum
     title: 第二届海峡论坛大会在厦门举行 贾庆林致辞（全文）
     publisher: 中国网络电视台
@@ -358,7 +349,7 @@ web:
     voice: official
     url: http://paper.people.com.cn/hqrw/html/2014-01/16/content_1378441.htm
     excerpt: true
-    keep: [2002年党的十六大上，吴官正出任中纪委书记, 就在巡视组成立的第二年]
+    keep: [ 2002年党的十六大上，吴官正出任中纪委书记, 就在巡视组成立的第二年 ]
   - id: b02-xinhua-2006-09-25-chen-liangyu
     title: 中共中央决定对陈良宇同志严重违纪问题立案检查
     publisher: 新华社（中国青年报转载）
@@ -390,7 +381,7 @@ web:
     voice: zh
     url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_2770000/newsid_2774700/2774765.stm
     excerpt: true
-    keep: [极端危害性, 并不能看到多少具体的反腐败新计划]
+    keep: [ 极端危害性, 并不能看到多少具体的反腐败新计划 ]
   - id: b02-bbc-2007-10-27-ccdi-500k
     title: 中纪委：过去5年查处50万党员
     publisher: BBC 中文
@@ -398,4 +389,4 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7060000/newsid_7065000/7065042.stm
     excerpt: true
-    keep: [51.8万党员受到党纪处分, 似乎并不明显]
+    keep: [ 51.8万党员受到党纪处分, 似乎并不明显 ]

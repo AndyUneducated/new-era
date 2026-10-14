@@ -132,7 +132,7 @@
       cite: b08-bbc-2023-10-26-li-qin
       quote: 路透社上月报道称，李尚福因涉嫌与装备采购和研发相关的腐败问题而受到调查。
     - f: equipment-system
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
       quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
   bio: >-
     航天发射场出身的工程师将军，从西昌卫星发射中心主任一路升到总装备部副部长，2017 年接替张又侠任中央军委装备发展部部长，2022 年进入中央军委，2023 年 3 月出任国务委员兼国防部长。
@@ -302,7 +302,7 @@
       text: >-
         詹姆斯敦基金会认为，九名将领中许多人在东部战区和原第 31 集团军有共同服役经历，围绕何卫东和苗华形成了“不正当网络”，并追问：如果习近平连福建第 31 集团军的旧部都不能信任，他还能信任谁？
         BBC 介绍了海外流行的“两派”说法：张又侠为首的“西北-装备系”与苗华、何卫东的“东南-政工系”相互争斗。德国之声则引熟悉体制者称，张又侠与何卫东之间存在相互制衡的关系，何卫东落马后这种平衡被打破。这些说法都没有官方证据。
-      cites: [b08-jamestown-2025-10-cronyism, b08-jamestown-2025-11-purification, b08-bbc-2026-zhang-youxia-analysis, b08-dw-2026-01-zhang-who]
+      cites: [b08-jamestown-2025-10-cronyism, b08-jamestown-2025-11-purification, f01-bbc-2026-01-27-zhang-youxia, b08-dw-2026-01-zhang-who]
   assess:
     - voice: official
       quote: true
@@ -321,7 +321,7 @@
     - voice: zh
       quote: true
       text: 相比之下，三个月前何卫东落马时为“五宗罪”，且措辞和定性都要比张又侠弱得多。
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
   cites: [b08-xinhua-2022-10-23-he-weidong-cv, b08-mod-2025-10-17-nine-generals, b08-wikisource-2025-10-23-20-4-plenum, b08-xinhua-2025-10-28-zhang-shengmin, b08-wiki-he-weidong, b08-jamestown-2025-10-cronyism, wd-Q28409057]
 
 - id: zhang-youxia
@@ -343,14 +343,14 @@
   ids: { wikidata: Q705140 }
   factions:
     - f: army-princelings
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
       quote: 这位75岁的解放军最高现役将领、习近平的“红二代”陕西老乡突然倒台，让最了解中国政治的人士也感到震惊。
     - f: shaanxi
       cite: b08-jamestown-2025-11-purification
       quote: Zhang Youxia is a putative member of the “Shaanxi gang,” which refers to officials who either grew up or spent portions of their career in Shaanxi Province.
       zh: 张又侠被认为是“陕西帮”成员，这个说法指在陕西长大或在陕西工作过的官员。
     - f: equipment-system
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
       quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
     - f: zhang-liu
       cite: b08-mod-2026-01-24-zhang-liu-probe
@@ -388,7 +388,7 @@
       text: >-
         生于北京，籍贯陕西渭南。父亲张宗逊是中共开国上将，BBC 写道他“曾与习近平的父亲习仲勋并肩作战”；德国之声称两人父辈 1947 年在西北野战军共事，“习张两家可谓世交”，但又指出两人年轻时交集不多。
         1968 年 12 月入伍，在陆军第十四军四十师从战士干起，次年入党。
-      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who]
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b04-bbc-2026-01-zhang-youxia, b08-dw-2026-01-zhang-who]
     - h: 两次对越作战
       from: 1979
       to: 1994
@@ -415,21 +415,21 @@
       text: >-
         2017 年十九届一中全会进入政治局、任中央军委副主席。2022 年二十大，他以 72 岁打破“七上八下”惯例留任，排名第一；德国之声称他被视为推动习近平在二十大连任的“主要功臣”。2023 年 10 月他在香山论坛上说，台湾问题是“中国核心利益中的核心”。
         何卫东、苗华落马后，外界一度认为他在军中权势更大。
-      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who, b08-xinhua-2023-10-30-zhang-xiangshan]
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b04-bbc-2026-01-zhang-youxia, b08-dw-2026-01-zhang-who, b08-xinhua-2023-10-30-zhang-xiangshan]
     - h: 立案与开除
       from: 2026-01
       to: 2026-09
       text: >-
         2026 年 1 月 24 日国防部宣布对张又侠、刘振立立案，次日《解放军报》社论用一连串“严重”定性，称两人“严重践踏破坏军委主席负责制”。BBC 指出，这比对何卫东、苗华的“破坏”多了“践踏”二字，并把问题定为“政治和腐败问题”。
         8 月 28 日人大常委会免去其国家军委副主席并终止其人大代表资格；9 月 21 日政治局会议决定开除党籍，通报称两人“政治问题和经济问题交织”。至此，2022 年产生的七人中央军委只剩习近平和张升民。
-      cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-bbc-2026-zhang-youxia-analysis, b08-xinhua-2026-08-28-zhang-liu-removed, b08-voa-2026-08-28-zhang-liu, b08-mod-2026-09-21-zhang-liu-expelled]
+      cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, f01-bbc-2026-01-27-zhang-youxia, b08-xinhua-2026-08-28-zhang-liu-removed, b08-voa-2026-08-28-zhang-liu, b08-mod-2026-09-21-zhang-liu-expelled]
     - h: 各方解读
       from: 2026
       to: 2026
       text: >-
         CSIS 的文章提到，据报道张又侠还被指控就中国核机密为美国中情局从事间谍活动，作者认为这一指控很可能站不住脚，只是向军官解释为何拿下一位受尊敬的将领的政治工具。BBC 引牛犇称，北京更可能是为正当化清洗而编造最重的罪名，真实原因只是腐败和不忠；台湾学者林颖佑对德国之声说，腐败指控只是清洗的借口。
         自由亚洲电台在立案后不久引知情人士称，内部通报指两人“搞团团伙伙”，9 月的官方通报也用了这一说法。前中情局分析员韦德宁对美国之音说，同时被处理的其他军官可能反映出习近平在清除张又侠在军中的人脉。
-      cites: [b08-csis-2026-02-purges, b08-bbc-2026-zhang-youxia-analysis, b08-dw-2026-01-why-xi, b08-rfa-2026-01-27-zhang, b08-mod-2026-09-21-zhang-liu-expelled, b08-voa-2026-08-28-zhang-liu]
+      cites: [b08-csis-2026-02-purges, f01-bbc-2026-01-27-zhang-youxia, b08-dw-2026-01-why-xi, b08-rfa-2026-01-27-zhang, b08-mod-2026-09-21-zhang-liu-expelled, b08-voa-2026-08-28-zhang-liu]
   assess:
     - voice: official
       quote: true
@@ -452,13 +452,13 @@
     - voice: zh
       quote: true
       text: 牛犇认为，更可信的解释是北京为了正当化对张又侠的清洗，编造了最严重的罪名，即便真实原因只是严重的腐败和不忠。
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
   family:
     - name: 张宗逊
       rel: 父亲
       text: 中共开国上将，曾任解放军总后勤部部长；BBC 称他曾与习近平之父习仲勋并肩作战。
-      cites: [b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who]
-  cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-mod-2026-09-21-zhang-liu-expelled, b08-bbc-2026-01-24-zhang-youxia, b08-csis-2026-02-purges, wd-Q705140]
+      cites: [b04-bbc-2026-01-zhang-youxia, b08-dw-2026-01-zhang-who]
+  cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-mod-2026-09-21-zhang-liu-expelled, b04-bbc-2026-01-zhang-youxia, b08-csis-2026-02-purges, wd-Q705140]
 
 - id: miao-hua
   name: 苗华
@@ -479,7 +479,7 @@
   ids: { wikidata: Q8317097 }
   factions:
     - f: fujian-generals
-      cite: b08-bbc-2026-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
       quote: 另一方是苗华、何卫东为核心的“东南-政工系”，扎根福建第31集团军。
     - f: fujian
       cite: b08-jamestown-2025-11-purification
@@ -539,7 +539,7 @@
       text: >-
         2017 年 8 月任中央军委政治工作部主任，同年 10 月进入中央军委，2018 年当选十三届全国人大代表和国家中央军委委员，2022 年连任。BBC 归纳的海外说法称，2022 年 67 岁的他未能升任军委副主席，资历更浅的何卫东得以上位。
         詹姆斯敦基金会指出，他从 2017 年起掌管全军的干部管理和晋升，直到 2024 年 11 月被停职；同案九名将领中，除何卫东和王春宁外，其余六人都是在他主管人事期间从少将升为上将的。
-      cites: [b08-wiki-miao-hua, b08-jamestown-2025-10-cronyism, b08-wikisource-2022-10-23-20-1-plenum, b08-bbc-2026-zhang-youxia-analysis]
+      cites: [b08-wiki-miao-hua, b08-jamestown-2025-10-cronyism, b08-wikisource-2022-10-23-20-1-plenum, f01-bbc-2026-01-27-zhang-youxia]
     - h: 停职、罢免与开除
       from: 2024-11
       to: 2025-10
@@ -553,7 +553,7 @@
       text: >-
         BBC 归纳海外流行的说法：2017 年苗华接掌政工后与分管政工的张又侠权力重叠；2022 年苗华未能升任军委副主席，“东南政工系”转而推出何卫东；2023 年李尚福落马，2024 年苗华被停职，被解读为张又侠的反击。
         詹姆斯敦基金会则认为，九人中七人在原南京军区担任过要职，其中何卫东、苗华、林向阳、秦树桐、王秀斌都出自原第 31 集团军；何卫东、苗华、何宏军把持人事选拔，为自己的关系网谋利，而他们与习近平的福建渊源可能让他们自以为不可撼动。该文还指出，国防部长董军被认为与苗华有关系，至今没有进入军委。
-      cites: [b08-bbc-2026-zhang-youxia-analysis, b08-jamestown-2025-11-purification]
+      cites: [f01-bbc-2026-01-27-zhang-youxia, b08-jamestown-2025-11-purification]
   assess:
     - voice: official
       quote: true
@@ -861,7 +861,7 @@
       text: >-
         BBC 分析指出，《解放军报》社论特意写了对“战斗力建设造成极大破坏”，对何卫东、苗华则没有这一条：苗华长期负责政工，而刘振立作为总参谋长负责具体的作战指挥，问题直接触及备战打仗的核心能力。BBC 还指出，他落马后解放军自实行军衔制以来首次没有一名陆军上将，剩下的四名上将分属火箭军、海军和空军。
         CSIS 认为，张、刘两人的倒台让军委失去了仅有的实战经验；联合参谋部等全军级关键部门也出现了空缺或刚刚补人的情况，军委里已不再有作战系统出身的领导人。
-      cites: [b08-bbc-2026-zhang-youxia-analysis, b08-csis-2026-02-purges]
+      cites: [f01-bbc-2026-01-27-zhang-youxia, b08-csis-2026-02-purges]
   assess:
     - voice: official
       quote: true
@@ -875,5 +875,5 @@
     - voice: zh
       quote: true
       text: 苗华长期负责政工，而刘振立作为总参谋长，负责具体的作战指挥
-      cite: b08-bbc-2026-zhang-youxia-analysis
-  cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-xinhua-2026-08-28-zhang-liu-removed, b08-mod-2026-09-21-zhang-liu-expelled, b08-wiki-liu-zhenli, b08-csis-2026-02-purges, b08-bbc-2026-zhang-youxia-analysis, wd-Q10897586]
+      cite: f01-bbc-2026-01-27-zhang-youxia
+  cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-xinhua-2026-08-28-zhang-liu-removed, b08-mod-2026-09-21-zhang-liu-expelled, b08-wiki-liu-zhenli, b08-csis-2026-02-purges, f01-bbc-2026-01-27-zhang-youxia, wd-Q10897586]

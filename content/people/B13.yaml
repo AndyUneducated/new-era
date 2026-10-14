@@ -1,0 +1,139 @@
+# B13: full biographies. Each entry below starts as the dossier card written in round 1; expand it to tier 1.
+- id: fang-fenghui
+  name: 房峰辉
+  gender: m
+  ethnicity: 汉族
+  born: 1951-04
+  birthplace: 陕西旬邑
+  roles: [cmc, cc, general, tiger]
+  status: detained
+  statusNote: 2019 年 2 月被军事法院判处无期徒刑，在押服刑。
+  fall:
+    - { date: 2018-10-16, text: 新华社通报其涉嫌行贿、受贿、巨额财产来源不明犯罪，开除党籍，此前已开除军籍、取消上将军衔, cite: c02-xinhua-2018-10-16-fang-fenghui }
+    - { date: 2019-02-20, text: 军事法院以受贿罪、行贿罪、巨额财产来源不明罪判处无期徒刑, cite: c02-court-2019-02-20-fang-fenghui }
+  tier: 2
+  headline: 总参谋长、联合参谋部参谋长（2012–2017），2019 年被判无期徒刑
+  bio: >-
+    兰州军区出身，2003 年任广州军区参谋长，2007 年任北京军区司令员，担任 2009 年国庆阅兵总指挥。
+    2012 年由北京军区直升总参谋长并任军委委员，2015 年改任联合参谋部首任参谋长，2017 年 8 月被免职调查，2019 年被判无期徒刑。
+  positions:
+    - { title: 广州军区参谋长, sys: army, from: 2003-12, to: 2007-07, cite: c02-wiki-fang-fenghui }
+    - { title: 北京军区司令员, sys: army, from: 2007-07, to: 2012-10, cite: c02-wiki-fang-fenghui }
+    - { title: 总参谋长, sys: army, from: 2012-10, to: 2015-11, cite: c02-sina-2012-10-25-pla-hq }
+    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+    - { title: 中央军委联合参谋部参谋长, sys: army, from: 2015-11, to: 2017-08, cite: c02-wiki-fang-fenghui }
+  factions:
+    - f: guo-xu
+      cite: c02-zaobao-2018-01-10-fang-fenghui
+      quote: 房峰辉是郭伯雄的老乡兼旧部
+    - f: shaanxi
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任。
+  ids: { wikidata: Q5433787 }
+  cites: [wd-Q5433787, c02-sina-2012-10-25-pla-hq, c02-xinhua-2013-03-15-npc-cmc, c02-xinhua-2018-10-16-fang-fenghui, c02-court-2019-02-20-fang-fenghui, c02-wiki-fang-fenghui]
+
+- id: wei-fenghe
+  name: 魏凤和
+  gender: m
+  ethnicity: 汉族
+  born: 1954-02
+  birthplace: 山东茌平
+  roles: [cmc, cc, general, minister, tiger]
+  status: detained
+  statusNote: 2026 年 5 月被军事法院以受贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2023-09-21, text: 军委纪委监委对其严重违纪违法问题立案审查调查, cite: c02-gov-2024-06-27-wei-fenghe-expelled }
+    - { date: 2024-06-27, text: 中央政治局会议决定开除党籍，移送军事检察机关审查起诉；此前已被开除军籍、取消上将军衔, cite: c02-gov-2024-06-27-wei-fenghe-expelled }
+    - { date: 2026-05-07, text: 军事法院以受贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁，不得减刑、假释, cite: b08-gov-2026-05-07-wei-li-sentenced }
+  tier: 2
+  headline: 国防部部长（2018–2023）、首任火箭军司令员，2026 年被判死缓
+  bio: >-
+    二炮导弹兵出身，从五十四基地战士做到二炮参谋长，2010 年任副总参谋长，2012 年任二炮司令员并入军委，2015 年改任火箭军首任司令员。
+    2018–2023 年任国务委员兼国防部部长。2023 年火箭军腐败案中落马，2024 年被开除党籍，2026 年被判死缓并终身监禁。
+  positions:
+    - { title: 第二炮兵参谋长, sys: army, from: 2006, to: 2010, cite: c02-gov-2018-03-19-wei-fenghe-cv }
+    - { title: 副总参谋长, sys: army, from: 2010, to: 2012, cite: c02-gov-2018-03-19-wei-fenghe-cv }
+    - { title: 第二炮兵司令员, sys: army, from: 2012, to: 2015-12, cite: c02-gov-2018-03-19-wei-fenghe-cv }
+    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+    - { title: 火箭军司令员, sys: army, from: 2015-12, to: 2017, cite: c02-gov-2018-03-19-wei-fenghe-cv }
+    - { title: 国务委员兼国防部部长, sys: gov, from: 2018-03, to: 2023-03, cite: c02-rmzxw-2018-03-19-state-council }
+  factions:
+    - f: rocket-equipment
+      cite: f02-zaobao-2024-06-27-li-wei
+      quote: 这显示魏凤和可能在他主管火箭军以及担任中央军委委员、国务委员兼国防部长期间，违规提拔火箭军高官，甚至推荐李尚福接替自己职位。
+  ids: { wikidata: Q7929529 }
+  cites: [wd-Q7929529, c02-gov-2018-03-19-wei-fenghe-cv, c02-rmzxw-2018-03-19-state-council, c02-gov-2024-06-27-wei-fenghe-expelled, b08-gov-2026-05-07-wei-li-sentenced]
+
+- id: fan-changlong
+  name: 范长龙
+  gender: m
+  ethnicity: 汉族
+  born: 1947-05
+  birthplace: 辽宁丹东
+  roles: [pb, cmc, cc, general]
+  status: retired
+  statusNote: 2018 年 3 月卸任国家军委副主席后退休。
+  tier: 2
+  headline: 中央军委副主席（2012–2017）、政治局委员、上将
+  bio: >-
+    沈阳军区系统出身，历任第 16 集团军军长、沈阳军区参谋长、总参谋长助理，2004–2012 年任济南军区司令员。
+    十八大由大军区司令员直升中央军委副主席并进入政治局，与许其亮共同协助习近平推进 2015 年起的军队改革，2018 年退休。
+  positions:
+    - { title: 第 16 集团军军长, sys: army, from: 1995, to: 2000, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 沈阳军区参谋长, sys: army, from: 2000, to: 2003, cite: c02-wiki-fan-changlong }
+    - { title: 总参谋长助理, sys: army, from: 2003-12, to: 2004-09, cite: c02-wiki-fan-changlong }
+    - { title: 济南军区司令员, sys: army, from: 2004-09, to: 2012-11, cite: c02-wiki-fan-changlong }
+    - { title: 中央军委副主席, sys: army, from: 2012-11, to: 2018-03, cite: c02-xinhua-2012-11-15-18-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+  ids: { wikidata: Q348143 }
+  cites: [wd-Q348143, c02-cyol-2012-11-16-18th-cvs, c02-wiki-fan-changlong]
+
+- id: xu-qiliang
+  name: 许其亮
+  gender: m
+  ethnicity: 汉族
+  born: 1950-03-29
+  died: 2025-06-02
+  birthplace: 山东临朐
+  joinedParty: 1967-07
+  roles: [pb, cmc, cc, general]
+  status: dead
+  statusNote: 2023 年 3 月卸任，2025 年 6 月 2 日在北京病逝。
+  tier: 2
+  headline: 中央军委副主席（2012–2023）
+  bio: >-
+    飞行员出身，1994 年任空军参谋长，1999 年任沈阳军区空军司令员，2004 年任副总参谋长，2007 年任空军司令员并进入中央军委。
+    2012 年十八大升任军委副主席、政治局委员，2017 年起协助习近平负责军委日常工作，参与主持军队改革，2023 年卸任，2025 年病逝。
+  positions:
+    - { title: 空军参谋长, sys: army, from: 1994-10, to: 1999-02, cite: c01-news-2025-06-08-xu-qiliang-life }
+    - { title: 沈阳军区副司令员兼沈阳军区空军司令员, sys: army, from: 1999-02, to: 2004-06, cite: c01-news-2025-06-08-xu-qiliang-life }
+    - { title: 副总参谋长, sys: army, from: 2004-06, to: 2007-09, cite: c01-news-2025-06-08-xu-qiliang-life }
+    - { title: 空军司令员, sys: army, from: 2007-09, to: 2012-11, cite: c01-news-2025-06-08-xu-qiliang-life }
+    - { title: 中央军委副主席, sys: army, from: 2012-11, to: 2023-03, cite: c01-news-2025-06-08-xu-qiliang-life }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2022-10, cite: c01-news-2025-06-08-xu-qiliang-life }
+  ids: { wikidata: Q276049 }
+  cites: [wd-Q276049, c01-news-2025-06-08-xu-qiliang-life]
+
+- id: gu-junshan
+  name: 谷俊山
+  gender: m
+  born: 1956-10
+  birthplace: 河南濮阳
+  roles: [tiger, general]
+  status: detained
+  statusNote: 2015 年 8 月被军事法院判处死缓，剥夺中将军衔。
+  fall:
+    - { date: 2012, text: 因涉贪被查, cite: c03-bbc-2015-08-10-gu-junshan }
+    - { date: 2015-08-10, text: 军事法院以贪污、受贿、挪用公款、行贿、滥用职权罪判处死缓，剥夺中将军衔, cite: c03-xinhua-2015-08-10-gu-junshan-verdict }
+  tier: 2
+  headline: 总后勤部原副部长，中将
+  ids: { wikidata: Q8317191 }
+  bio: >-
+    解放军总后勤部原副部长，中将。据 BBC，他 2009 年起任总后勤部副部长，2012 年因涉贪被查。2015 年 8 月 10 日，军事法院以贪污、受贿、挪用公款、行贿、滥用职权五罪判处他死刑缓期二年执行，没收个人全部财产，剥夺中将军衔。BBC 称他被捕后“供出徐才厚之犯罪详情，间接将徐拉下马”。
+  positions:
+    - { title: 解放军总后勤部副部长, sys: army, from: 2009, to: 2012, cite: c03-bbc-2015-08-10-gu-junshan }
+  factions:
+    - f: guo-xu
+      cite: c03-bbc-2015-08-10-gu-junshan
+      quote: 谷俊山与已故中央军委前副主席徐才厚关系密切，谷俊山涉贪被捕后，供出徐才厚之犯罪详情，间接将徐拉下马。
+  cites: [wd-Q8317191, c03-xinhua-2015-08-10-gu-junshan-verdict, c03-bbc-2015-08-10-gu-junshan]

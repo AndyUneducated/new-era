@@ -24,7 +24,7 @@
     - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
     - { title: 国务院副总理, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
   ids: { wikidata: Q134543 }
-  cites: [wd-Q134543, c02-cyol-2012-11-16-18th-cvs, c02-chinanews-2013-03-16-state-council, c02-gov-2018-03-19-state-council-history]
+  cites: [wd-Q134543, c02-cyol-2012-11-16-18th-cvs, c02-chinanews-2013-03-16-state-council, c01-gov-2018-03-19-state-council-history]
 
 - id: liu-qibao
   name: 刘奇葆
@@ -54,31 +54,6 @@
       quote: 劉奇葆則是正兒八經的團派大將，被稱為胡錦濤的「十八羅漢」之一。
   ids: { wikidata: Q194157 }
   cites: [wd-Q194157, c02-cyol-2012-11-16-18th-cvs, c02-gov-2018-03-14-cppcc-leaders, c02-sun-2012-11-28-liu-qibao]
-
-- id: sun-chunlan
-  name: 孙春兰
-  gender: f
-  ethnicity: 汉族
-  born: 1950-05-24
-  birthplace: 河北饶阳
-  roles: [pb, cc, prov, minister]
-  status: retired
-  statusNote: 2023 年 3 月卸任国务院副总理后退休。
-  tier: 2
-  headline: 国务院副总理（2018–2023）、政治局委员（2012–2022）
-  bio: >-
-    鞍山工人出身，在辽宁历任省委副书记、大连市委书记，2005 年任全国总工会第一书记，2009 年起先后主政福建、天津。
-    2014 年接替令计划任中央统战部部长，2018–2023 年任副总理，分管教科文卫，新冠疫情期间多次坐镇武汉、上海等地督导防控。
-  positions:
-    - { title: 辽宁省委副书记、大连市委书记, sys: party, place: 辽宁, from: 1997, to: 2005, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 全国总工会副主席、第一书记, sys: other, from: 2005, to: 2009, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 福建省委书记, sys: party, place: 福建, from: 2009-11, to: 2012-11, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 天津市委书记, sys: party, place: 天津, from: 2012-11, to: 2014-12, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 中央统战部部长, sys: party, from: 2014-12, to: 2017-11, cite: wd-Q195379 }
-    - { title: 国务院副总理, sys: gov, from: 2018-03, to: 2023-03, cite: c02-rmzxw-2018-03-19-state-council }
-  ids: { wikidata: Q195379 }
-  cites: [wd-Q195379, c02-cyol-2012-11-16-18th-cvs, c02-gov-2017-10-25-19th-cvs, c02-rmzxw-2018-03-19-state-council]
 
 - id: li-jianguo
   name: 李建国
@@ -126,58 +101,6 @@
     - { title: 全国人大常委会副委员长, sys: other, from: 2018-03, to: 2023-03, cite: c02-xinhua-2018-03-17-npc-leaders }
   ids: { wikidata: Q715988 }
   cites: [wd-Q715988, c02-cyol-2012-11-16-18th-cvs, c02-xinhua-2018-03-17-npc-leaders]
-
-- id: fan-changlong
-  name: 范长龙
-  gender: m
-  ethnicity: 汉族
-  born: 1947-05
-  birthplace: 辽宁丹东
-  roles: [pb, cmc, cc, general]
-  status: retired
-  statusNote: 2018 年 3 月卸任国家军委副主席后退休。
-  tier: 2
-  headline: 中央军委副主席（2012–2017）、政治局委员、上将
-  bio: >-
-    沈阳军区系统出身，历任第 16 集团军军长、沈阳军区参谋长、总参谋长助理，2004–2012 年任济南军区司令员。
-    十八大由大军区司令员直升中央军委副主席并进入政治局，与许其亮共同协助习近平推进 2015 年起的军队改革，2018 年退休。
-  positions:
-    - { title: 第 16 集团军军长, sys: army, from: 1995, to: 2000, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 沈阳军区参谋长, sys: army, from: 2000, to: 2003, cite: c02-wiki-fan-changlong }
-    - { title: 总参谋长助理, sys: army, from: 2003-12, to: 2004-09, cite: c02-wiki-fan-changlong }
-    - { title: 济南军区司令员, sys: army, from: 2004-09, to: 2012-11, cite: c02-wiki-fan-changlong }
-    - { title: 中央军委副主席, sys: army, from: 2012-11, to: 2018-03, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-  ids: { wikidata: Q348143 }
-  cites: [wd-Q348143, c02-cyol-2012-11-16-18th-cvs, c02-wiki-fan-changlong]
-
-- id: meng-jianzhu
-  name: 孟建柱
-  gender: m
-  ethnicity: 汉族
-  born: 1947-07-28
-  birthplace: 江苏吴县
-  roles: [pb, cc, prov, minister]
-  status: retired
-  statusNote: 2017 年 10 月十九大后卸任中央政法委书记。
-  tier: 2
-  headline: 中央政法委书记（2012–2017）、政治局委员
-  bio: >-
-    上海郊县基层干部出身，1990 年代任上海副市长、市委副书记，2001 年外放江西任省委书记六年。
-    2007 年接替周永康任公安部部长，2008 年兼国务委员；十八大后接掌中央政法委，政法委书记不再兼任常委，在任内处理周永康案后的政法系统整顿。
-  positions:
-    - { title: 上海市副市长, sys: gov, place: 上海, from: 1993, to: 1996, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 上海市委副书记, sys: party, place: 上海, from: 1996, to: 2001, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 江西省委书记, sys: party, place: 江西, from: 2001-04, to: 2007-10, cite: c02-chubun-2008-09-04-meng-jianzhu }
-    - { title: 公安部部长, sys: gov, from: 2007-10, to: 2012-12, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: wd-Q1365182 }
-    - { title: 中央政治局委员、中央政法委书记, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-  factions:
-    - f: jiang-shanghai
-      cite: c02-chubun-2008-09-04-meng-jianzhu
-      quote: 这位早年失意上海官场，被排挤到江西的“上海帮”成员
-  ids: { wikidata: Q1365182 }
-  cites: [wd-Q1365182, c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu]
 
 - id: guo-jinlong
   name: 郭金龙
@@ -273,39 +196,6 @@
   ids: { wikidata: Q2650507 }
   cites: [wd-Q2650507, c02-cyol-2012-11-16-18th-cvs, c02-chinanews-2013-03-16-state-council, c02-gov-2018-02-24-yang-jing]
 
-- id: fang-fenghui
-  name: 房峰辉
-  gender: m
-  ethnicity: 汉族
-  born: 1951-04
-  birthplace: 陕西旬邑
-  roles: [cmc, cc, general, tiger]
-  status: detained
-  statusNote: 2019 年 2 月被军事法院判处无期徒刑，在押服刑。
-  fall:
-    - { date: 2018-10-16, text: 新华社通报其涉嫌行贿、受贿、巨额财产来源不明犯罪，开除党籍，此前已开除军籍、取消上将军衔, cite: c02-xinhua-2018-10-16-fang-fenghui }
-    - { date: 2019-02-20, text: 军事法院以受贿罪、行贿罪、巨额财产来源不明罪判处无期徒刑, cite: c02-court-2019-02-20-fang-fenghui }
-  tier: 2
-  headline: 总参谋长、联合参谋部参谋长（2012–2017），2019 年被判无期徒刑
-  bio: >-
-    兰州军区出身，2003 年任广州军区参谋长，2007 年任北京军区司令员，担任 2009 年国庆阅兵总指挥。
-    2012 年由北京军区直升总参谋长并任军委委员，2015 年改任联合参谋部首任参谋长，2017 年 8 月被免职调查，2019 年被判无期徒刑。
-  positions:
-    - { title: 广州军区参谋长, sys: army, from: 2003-12, to: 2007-07, cite: c02-wiki-fang-fenghui }
-    - { title: 北京军区司令员, sys: army, from: 2007-07, to: 2012-10, cite: c02-wiki-fang-fenghui }
-    - { title: 总参谋长, sys: army, from: 2012-10, to: 2015-11, cite: c02-sina-2012-10-25-pla-hq }
-    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 中央军委联合参谋部参谋长, sys: army, from: 2015-11, to: 2017-08, cite: c02-wiki-fang-fenghui }
-  factions:
-    - f: guo-xu
-      cite: c02-zaobao-2018-01-10-fang-fenghui
-      quote: 房峰辉是郭伯雄的老乡兼旧部
-    - f: shaanxi
-      cite: c02-rfa-2019-02-22-shaanxi
-      quote: 陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任。
-  ids: { wikidata: Q5433787 }
-  cites: [wd-Q5433787, c02-sina-2012-10-25-pla-hq, c02-xinhua-2013-03-15-npc-cmc, c02-xinhua-2018-10-16-fang-fenghui, c02-court-2019-02-20-fang-fenghui, c02-wiki-fang-fenghui]
-
 - id: zhang-yang
   name: 张阳
   gender: m
@@ -385,38 +275,6 @@
   ids: { wikidata: Q2213506 }
   cites: [wd-Q2213506, c02-caixin-2012-10-23-pla-reshuffle, c02-xinhua-2013-03-15-npc-cmc, c02-wiki-ma-xiaotian]
 
-- id: wei-fenghe
-  name: 魏凤和
-  gender: m
-  ethnicity: 汉族
-  born: 1954-02
-  birthplace: 山东茌平
-  roles: [cmc, cc, general, minister, tiger]
-  status: detained
-  statusNote: 2026 年 5 月被军事法院以受贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁。
-  fall:
-    - { date: 2023-09-21, text: 军委纪委监委对其严重违纪违法问题立案审查调查, cite: c02-gov-2024-06-27-wei-fenghe-expelled }
-    - { date: 2024-06-27, text: 中央政治局会议决定开除党籍，移送军事检察机关审查起诉；此前已被开除军籍、取消上将军衔, cite: c02-gov-2024-06-27-wei-fenghe-expelled }
-    - { date: 2026-05-07, text: 军事法院以受贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁，不得减刑、假释, cite: c02-gov-2026-05-07-wei-fenghe-sentenced }
-  tier: 2
-  headline: 国防部部长（2018–2023）、首任火箭军司令员，2026 年被判死缓
-  bio: >-
-    二炮导弹兵出身，从五十四基地战士做到二炮参谋长，2010 年任副总参谋长，2012 年任二炮司令员并入军委，2015 年改任火箭军首任司令员。
-    2018–2023 年任国务委员兼国防部部长。2023 年火箭军腐败案中落马，2024 年被开除党籍，2026 年被判死缓并终身监禁。
-  positions:
-    - { title: 第二炮兵参谋长, sys: army, from: 2006, to: 2010, cite: c02-gov-2018-03-19-wei-fenghe-cv }
-    - { title: 副总参谋长, sys: army, from: 2010, to: 2012, cite: c02-gov-2018-03-19-wei-fenghe-cv }
-    - { title: 第二炮兵司令员, sys: army, from: 2012, to: 2015-12, cite: c02-gov-2018-03-19-wei-fenghe-cv }
-    - { title: 中央军委委员, sys: army, from: 2012-11, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 火箭军司令员, sys: army, from: 2015-12, to: 2017, cite: c02-gov-2018-03-19-wei-fenghe-cv }
-    - { title: 国务委员兼国防部部长, sys: gov, from: 2018-03, to: 2023-03, cite: c02-rmzxw-2018-03-19-state-council }
-  factions:
-    - f: rocket-equipment
-      cite: c02-zaobao-2024-06-27-li-wei
-      quote: 这显示魏凤和可能在他主管火箭军以及担任中央军委委员、国务委员兼国防部长期间，违规提拔火箭军高官，甚至推荐李尚福接替自己职位。
-  ids: { wikidata: Q7929529 }
-  cites: [wd-Q7929529, c02-gov-2018-03-19-wei-fenghe-cv, c02-rmzxw-2018-03-19-state-council, c02-gov-2024-06-27-wei-fenghe-expelled, c02-gov-2026-05-07-wei-fenghe-sentenced]
-
 - id: wang-chen
   name: 王晨
   gender: m
@@ -461,33 +319,10 @@
     - { title: 湖北省省长, sys: gov, place: 湖北, from: 2007-12, to: 2010-12, cite: c02-gov-2017-10-25-19th-cvs }
     - { title: 湖北省委书记, sys: party, place: 湖北, from: 2010-12, to: 2016-09, cite: wd-Q1822563 }
     - { title: 天津市委书记, sys: party, place: 天津, from: 2016-09, to: 2022-12, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 全国人大常委会副委员长, sys: other, from: 2023-03, cite: c02-gov-2023-03-10-npc-leaders }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2023-03, cite: b06-gov-2023-03-10-state-leaders }
   ids: { wikidata: Q1822563 }
-  cites: [wd-Q1822563, c02-gov-2017-10-25-19th-cvs, c02-gov-2023-03-10-npc-leaders, c02-people-2026-09-24-li-hongzhong]
-
-- id: yang-jiechi
-  name: 杨洁篪
-  gender: m
-  ethnicity: 汉族
-  born: 1950-05-01
-  birthplace: 上海
-  roles: [pb, cc, minister]
-  status: retired
-  statusNote: 二十大后退出政治局，卸任中央外办主任，由王毅接任。
-  tier: 2
-  headline: 中央外办主任（2013–2022）、政治局委员（2017–2022）、前外交部部长
-  bio: >-
-    职业外交官，英语翻译出身，长期从事对美工作，2001–2005 年任驻美大使，2007–2013 年任外交部部长。
-    2013 年起任国务委员兼中央外办主任，统筹外事工作；十九大进入政治局，二十大后退休，由王毅接任外办主任。
-  positions:
-    - { title: 驻美国大使, sys: gov, from: 2001, to: 2005, cite: wd-Q58211 }
-    - { title: 外交部部长, sys: gov, from: 2007-04, to: 2013-03, cite: wd-Q58211 }
-    - { title: 国务委员, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
-    - { title: 中央外事工作领导小组（委员会）办公室主任, sys: party, from: 2013, to: 2022, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-  ids: { wikidata: Q58211 }
-  cites: [wd-Q58211, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council]
+  cites: [wd-Q1822563, c02-gov-2017-10-25-19th-cvs, b06-gov-2023-03-10-state-leaders, c02-people-2026-09-24-li-hongzhong]
 
 - id: yang-xiaodu
   name: 杨晓渡
@@ -513,35 +348,6 @@
   ids: { wikidata: Q9080691 }
   cites: [wd-Q9080691, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum]
 
-- id: chen-miner
-  name: 陈敏尔
-  gender: m
-  ethnicity: 汉族
-  born: 1960-09-29
-  birthplace: 浙江诸暨
-  roles: [pb, cc, prov]
-  status: active
-  statusNote: 中央政治局委员、天津市委书记，2026 年 10 月仍以市委书记身份公开活动。
-  tier: 2
-  headline: 天津市委书记（2022– ）、政治局委员（2017– ）
-  bio: >-
-    浙江绍兴起家，习近平主政浙江时任省委常委、宣传部长，被视为之江新军核心成员。2007 年任浙江副省长，2012 年调贵州，先后任省长、省委书记。
-    2017 年接替落马的孙政才主政重庆，十九大进入政治局；2022 年二十大后转任天津市委书记。
-  positions:
-    - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2002, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 浙江省副省长, sys: gov, place: 浙江, from: 2007, to: 2012, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 贵州省省长, sys: gov, place: 贵州, from: 2012-12, to: 2015-10, cite: wd-Q4504692 }
-    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2015-07, to: 2017-07, cite: wd-Q4504692 }
-    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2017-07, to: 2022-12, cite: wd-Q4504692 }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 天津市委书记, sys: party, place: 天津, from: 2022-12, cite: c02-tjnews-2026-10-13-chen-miner }
-  factions:
-    - f: zhijiang
-      cite: c02-rfa-2020-11-16-zhijiang
-      quote: 习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔。
-  ids: { wikidata: Q4504692 }
-  cites: [wd-Q4504692, c02-gov-2017-10-25-19th-cvs, c02-gov-2022-10-23-20th-cvs, c02-tjnews-2026-10-13-chen-miner]
-
 - id: guo-shengkun
   name: 郭声琨
   gender: m
@@ -565,39 +371,6 @@
     - { title: 中央政法委书记, sys: party, from: 2017-10, to: 2022-10, cite: wd-Q4276774 }
   ids: { wikidata: Q4276774 }
   cites: [wd-Q4276774, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council]
-
-- id: huang-kunming
-  name: 黄坤明
-  gender: m
-  ethnicity: 汉族
-  born: 1956-11
-  birthplace: 福建上杭
-  roles: [pb, sec, cc, prov]
-  status: active
-  statusNote: 中央政治局委员、广东省委书记，2026 年 9 月仍以此身份出席亚太媒体高端论坛。
-  tier: 2
-  headline: 广东省委书记（2022– ）、前中宣部部长（2017–2022）
-  bio: >-
-    福建起家，1999 年调浙江，在习近平主政浙江时任嘉兴市委书记，后任浙江宣传部长、杭州市委书记，被视为之江新军成员。
-    2013 年进京任中宣部副部长，2014 年主持常务工作；十九大进入政治局和书记处并执掌中宣部，二十大后外放广东任省委书记。
-  positions:
-    - { title: 嘉兴市委书记, sys: party, place: 浙江, from: 2003, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2007-06, to: 2010-01, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 杭州市委书记, sys: party, place: 浙江, from: 2010-01, to: 2013-10, cite: wd-Q8292452 }
-    - { title: 中央宣传部常务副部长, sys: party, from: 2014, to: 2017-10, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央宣传部部长、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: wd-Q8292452 }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 广东省委书记, sys: party, place: 广东, from: 2022-10, cite: c02-xinhua-2026-09-05-apac-media }
-  factions:
-    - f: zhijiang
-      cite: c02-rfa-2020-11-16-zhijiang
-      quote: 习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔。
-    - f: fujian
-      cite: c02-jiia-2019-04-huang-kunming
-      quote: 黄坤明は習近平「閩江旧部」の一員とも言われる
-      zh: 黄坤明也被认为是习近平“闽江旧部”的一员
-  ids: { wikidata: Q8292452 }
-  cites: [wd-Q8292452, c02-gov-2017-10-25-19th-cvs, c02-jiia-2019-04-huang-kunming, c02-xinhua-2026-09-05-apac-media]
 
 - id: you-quan
   name: 尤权
@@ -668,7 +441,7 @@
     - { title: 四川省委专职副书记, sys: party, place: 四川, from: 2015-03, to: 2016-01, cite: c02-wiki-yin-li }
     - { title: 四川省省长, sys: gov, place: 四川, from: 2016-01, to: 2020-11, cite: c02-wiki-yin-li }
     - { title: 福建省委书记, sys: party, place: 福建, from: 2020-11, to: 2022-11, cite: c02-wiki-yin-li }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 北京市委书记, sys: party, place: 北京, from: 2022-11, cite: c02-cyol-2026-09-23-beijing-forum }
   ids: { wikidata: Q19825407 }
   cites: [wd-Q19825407, c02-gov-2022-10-23-20th-cvs, c02-wiki-yin-li, c02-cyol-2026-09-23-beijing-forum]
@@ -695,11 +468,11 @@
     - { title: 宁夏回族自治区党委书记, sys: party, place: 宁夏, from: 2017-04, to: 2019-10, cite: wd-Q8292435 }
     - { title: 内蒙古自治区党委书记, sys: party, place: 内蒙古, from: 2019-10, to: 2022-04, cite: c02-zaobao-2025-04-03-shi-li-swap }
     - { title: 中国社会科学院院长, sys: other, from: 2022-04, to: 2022-12, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 中央统战部部长, sys: party, from: 2022-10, to: 2025-03, cite: c02-zaobao-2025-04-03-shi-li-swap }
     - { title: 中央组织部部长, sys: party, from: 2025-03, cite: c02-xinhua-2026-09-18-shi-taifeng }
   ids: { wikidata: Q8292435 }
-  cites: [wd-Q8292435, c02-gov-2022-10-23-20th-cvs, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, c02-xinhua-2026-09-24-cppcc-chairs, c02-xinhua-2026-09-18-shi-taifeng]
+  cites: [wd-Q8292435, c02-gov-2022-10-23-20th-cvs, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, b05-xinhua-2026-09-24-wang-huning-cppcc, c02-xinhua-2026-09-18-shi-taifeng]
 
 - id: liu-guozhong
   name: 刘国中
@@ -722,11 +495,11 @@
     - { title: 吉林省省长, sys: gov, place: 吉林, from: 2016-12, to: 2017-12, cite: wd-Q8989779 }
     - { title: 陕西省省长, sys: gov, place: 陕西, from: 2018-01, to: 2020-08, cite: wd-Q8989779 }
     - { title: 陕西省委书记, sys: party, place: 陕西, from: 2020-07, to: 2022-12, cite: c02-wiki-liu-guozhong }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: c02-gov-2018-03-19-state-council-history }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: c01-gov-2018-03-19-state-council-history }
   factions:
     - f: aerospace
-      cite: c02-rfa-2023-02-13-jungong
+      cite: f02-rfa-2023-02-13-jungong
       quote: 中国境外的新闻媒体中陆续出现了“军工五人帮”的说法……具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人。
   ids: { wikidata: Q8989779 }
   cites: [wd-Q8989779, c02-gov-2022-10-23-20th-cvs, c02-wiki-liu-guozhong, c02-gov-2026-09-23-liu-guozhong]
@@ -753,11 +526,11 @@
     - { title: 生态环境部部长, sys: gov, from: 2018-03, to: 2020-04, cite: c02-rmzxw-2018-03-19-state-council }
     - { title: 山东省省长, sys: gov, place: 山东, from: 2020-04, to: 2021-09, cite: c02-zaobao-2025-04-03-shi-li-swap }
     - { title: 山东省委书记, sys: party, place: 山东, from: 2021-09, to: 2022-10, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 中央组织部部长, sys: party, from: 2023-04, to: 2025-03, cite: c02-zaobao-2023-04-26-li-ganjie }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央组织部部长, sys: party, from: 2023-04, to: 2025-03, cite: b09-zaobao-2023-04-26-chen-xi-out }
     - { title: 中央统战部部长, sys: party, from: 2025-03, cite: c02-zytzb-2026-09-22-li-ganjie }
   ids: { wikidata: Q16076530 }
-  cites: [wd-Q16076530, c02-gov-2022-10-23-20th-cvs, c02-zaobao-2023-04-26-li-ganjie, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, c02-zytzb-2026-09-22-li-ganjie]
+  cites: [wd-Q16076530, c02-gov-2022-10-23-20th-cvs, b09-zaobao-2023-04-26-chen-xi-out, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, c02-zytzb-2026-09-22-li-ganjie]
 
 - id: li-shulei
   name: 李书磊
@@ -781,7 +554,7 @@
     - { title: 北京市委常委、市纪委书记, sys: party, place: 北京, from: 2015, to: 2016, cite: c02-zaobao-2022-11-11-li-shulei }
     - { title: 中纪委副书记, sys: party, from: 2016, to: 2020, cite: c02-xinhua-2017-10-25-19-1-plenum }
     - { title: 中央党校常务副校长, sys: party, from: 2020, to: 2022, cite: c02-zaobao-2022-11-11-li-shulei }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 中央宣传部部长, sys: party, from: 2022-10, cite: wd-Q15931195 }
   factions:
     - f: xi-jiajun
@@ -812,11 +585,11 @@
     - { title: 重庆市市长, sys: gov, place: 重庆, from: 2016-12, to: 2017-12, cite: wd-Q8292210 }
     - { title: 天津市市长, sys: gov, place: 天津, from: 2018-01, to: 2020-09, cite: wd-Q8292210 }
     - { title: 辽宁省委书记, sys: party, place: 辽宁, from: 2020-09, to: 2022-12, cite: c02-wiki-zhang-guoqing }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 国务院副总理, sys: gov, from: 2023-03, cite: c02-wiki-zhang-guoqing }
   factions:
     - f: aerospace
-      cite: c02-zaobao-2022-10-24-aerospace
+      cite: f02-zaobao-2022-10-24-aerospace
       quote: 例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景。
   ids: { wikidata: Q8292210 }
   cites: [wd-Q8292210, c02-gov-2022-10-23-20th-cvs, c02-wiki-zhang-guoqing, c02-gov-2026-09-22-zhang-guoqing]
@@ -841,7 +614,7 @@
     - { title: 福建省委常委、省纪委书记, sys: party, place: 福建, from: 2006-08, to: 2012-11, cite: c02-wiki-chen-wenqing }
     - { title: 中纪委副书记, sys: party, from: 2012-11, to: 2015-04, cite: c02-xinhua-2012-11-15-18-1-plenum }
     - { title: 国家安全部部长, sys: gov, from: 2016-11, to: 2022-10, cite: c02-wiki-chen-wenqing }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 中央政法委书记, sys: party, from: 2022-10, cite: c02-court-2026-01-19-zhengfa-meeting }
   ids: { wikidata: Q8340313 }
   cites: [wd-Q8340313, c02-gov-2022-10-23-20th-cvs, c02-wiki-chen-wenqing, c02-rmzxw-2018-03-19-state-council, c02-court-2026-01-19-zhengfa-meeting]
@@ -867,7 +640,7 @@
     - { title: 清华大学校长, sys: other, from: 2012-02, to: 2015-01, cite: c02-wiki-chen-jining }
     - { title: 环境保护部部长, sys: gov, from: 2015-02, to: 2017-06, cite: c02-wiki-chen-jining }
     - { title: 北京市市长, sys: gov, place: 北京, from: 2017-05, to: 2022-10, cite: wd-Q9364514 }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 上海市委书记, sys: party, place: 上海, from: 2022-10, cite: c02-shgov-2026-09-08-chen-jining }
   ids: { wikidata: Q9364514 }
   cites: [wd-Q9364514, c02-gov-2022-10-23-20th-cvs, c02-wiki-chen-jining, c02-shgov-2026-09-08-chen-jining]
@@ -893,11 +666,11 @@
     - { title: 宁夏回族自治区党委常委、常务副主席, sys: gov, place: 宁夏, from: 2012-03, to: 2014-08, cite: c02-wiki-yuan-jiajun }
     - { title: 浙江省省长, sys: gov, place: 浙江, from: 2017-04, to: 2020-08, cite: c02-wiki-yuan-jiajun }
     - { title: 浙江省委书记, sys: party, place: 浙江, from: 2020-08, to: 2022-12, cite: c02-wiki-yuan-jiajun }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 重庆市委书记, sys: party, place: 重庆, from: 2022-12, cite: c02-cqnews-2026-09-19-yuan-jiajun }
   factions:
     - f: aerospace
-      cite: c02-zaobao-2022-10-24-aerospace
+      cite: f02-zaobao-2022-10-24-aerospace
       quote: 例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景。
   ids: { wikidata: Q8292172 }
   cites: [wd-Q8292172, c02-gov-2022-10-23-20th-cvs, c02-wiki-yuan-jiajun, c02-cqnews-2026-09-19-yuan-jiajun]
@@ -922,7 +695,7 @@
     - { title: 河北省委常委、政法委书记, sys: party, place: 河北, from: 2002-01, to: 2005-03, cite: c02-wiki-liu-jinguo }
     - { title: 公安部副部长, sys: gov, from: 2005-03, to: 2014-10, cite: c02-wiki-liu-jinguo }
     - { title: 中纪委副书记, sys: party, from: 2014-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
+    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
     - { title: 国家监察委员会主任, sys: gov, from: 2023-03, cite: c02-zmdsjw-2026-08-27-liu-jinguo }
   ids: { wikidata: Q8990812 }
   cites: [wd-Q8990812, c02-gov-2022-10-23-20th-cvs, c02-wiki-liu-jinguo, c02-zmdsjw-2026-08-27-liu-jinguo]
@@ -948,11 +721,11 @@
     - { title: 河南省公安厅厅长, sys: gov, place: 河南, from: 2013-08, to: 2015-03, cite: c02-wiki-wang-xiaohong }
     - { title: 北京市副市长兼公安局局长, sys: gov, place: 北京, from: 2015-03, to: 2016, cite: c02-wiki-wang-xiaohong }
     - { title: 公安部部长, sys: gov, from: 2022-06, cite: wd-Q18109475 }
-    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: c02-xinhua-2022-10-23-20-1-plenum }
-    - { title: 国务委员, sys: gov, from: 2023-03, cite: c02-gov-2018-03-19-state-council-history }
+    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国务委员, sys: gov, from: 2023-03, cite: c01-gov-2018-03-19-state-council-history }
   factions:
     - f: fujian
       cite: c02-rfa-2022-06-24-wang-xiaohong
       quote: 王小洪是中共总书记习近平的福州旧部
   ids: { wikidata: Q18109475 }
-  cites: [wd-Q18109475, c02-gov-2022-10-23-20th-cvs, c02-wiki-wang-xiaohong, c02-gov-2018-03-19-state-council-history, c02-gov-2026-09-10-wang-xiaohong, c02-gov-2026-09-22-wang-xiaohong]
+  cites: [wd-Q18109475, c02-gov-2022-10-23-20th-cvs, c02-wiki-wang-xiaohong, c01-gov-2018-03-19-state-council-history, c02-gov-2026-09-10-wang-xiaohong, c02-gov-2026-09-22-wang-xiaohong]

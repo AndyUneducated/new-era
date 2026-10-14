@@ -195,7 +195,7 @@
   ids: { wikidata: Q1048838 }
   bio: >-
     诗人、摄影师和画家，诺贝尔和平奖得主刘晓波的妻子。2010 年刘晓波获奖后，她在没有任何罪名的情况下被软禁在北京家中近八年。2018 年 7 月 10 日获准飞抵柏林，外交部称她“按照其本人意愿前往德国接受治疗”。弟弟刘晖 2013 年被判刑 11 年。
-  cites: [wd-Q1048838, c04-bbc-2018-07-10-liu-xia]
+  cites: [wd-Q1048838, b10-bbc-2018-07-10-liu-xia]
 
 - id: guo-feixiong
   name: 郭飞雄
@@ -431,21 +431,6 @@
   cites: [wd-Q229087, c04-dw-2023-09-peng-shuai]
 
 # --- entrepreneurs ---
-- id: ren-zhengfei
-  name: 任正非
-  gender: m
-  born: 1944-10-25
-  birthplace: 贵州镇宁
-  roles: [biz]
-  status: active
-  tier: 2
-  headline: 华为创始人
-  ids: { wikidata: Q712802 }
-  positions:
-    - { title: 华为技术有限公司创始人, sys: other, place: 广东, cite: c04-bbc-2019-02-18-ren-zhengfei-interview }
-  bio: >-
-    华为创始人，作风深居简出。2018 年 12 月女儿、华为首席财务官孟晚舟应美国要求在温哥华被捕，他称这带有政治动机。2019 年接受 BBC 专访，称美国“不可能扼杀掉”华为，并否认公司会参与间谍活动或安装后门；BBC 认为采访仍揭示出他与政府密切联系的一些迹象。
-  cites: [wd-Q712802, c04-bbc-2019-02-18-ren-zhengfei-interview, c04-bbc-2019-02-19-ren-zhengfei]
 
 - id: wang-jianlin
   name: 王健林
@@ -463,27 +448,6 @@
   bio: >-
     大连万达集团董事长，2013 至 2016 年连续位居胡润百富榜榜首。《纽约时报》2015 年报道，习近平的姐姐齐桥桥夫妇和温家宝、贾庆林、王兆国的亲属或商业伙伴曾持有万达股份；王健林回应称齐桥桥夫妇在上市前已卖出，证明习近平“治家更严”。近年万达债务缠身、大量变卖资产。
   cites: [wd-Q2105413, c04-nyt-2015-04-28-wang-jianlin, c04-bbc-2015-10-30-wang-jianlin, c04-jiemian-2025-09-wang-jianlin]
-
-- id: xu-jiayin
-  name: 许家印
-  gender: m
-  born: 1958-10-09
-  birthplace: 河南太康
-  roles: [biz]
-  status: detained
-  statusNote: 2026 年 8 月一审被判无期徒刑。
-  fall:
-    - { date: 2023-09, text: 被抓捕, cite: c04-bbc-2026-08-20-xu-jiayin }
-    - { date: 2024-03, text: 被罚款 4700 万元并终身禁入中国资本市场, cite: c04-bbc-2026-08-20-xu-jiayin }
-    - { date: 2026-08-20, text: 深圳中院一审判处无期徒刑，没收个人全部财产, cite: c04-xinhua-2026-08-20-xu-jiayin }
-  tier: 2
-  headline: 恒大集团创始人，一审被判无期徒刑
-  ids: { wikidata: Q1454895 }
-  positions:
-    - { title: 恒大地产董事长, sys: other, place: 广东, cite: c04-xinhua-2026-08-20-xu-jiayin }
-  bio: >-
-    恒大集团创始人和实际控制人，2017 年曾以约 425 亿美元身家成为亚洲首富。恒大爆雷后于 2023 年 9 月被抓捕。2026 年 8 月 20 日深圳中院认定恒大 2016 至 2021 年大规模财务造假，以集资诈骗、职务侵占、单位行贿等八项罪名判处他无期徒刑，没收个人全部财产。
-  cites: [wd-Q1454895, c04-bbc-2026-08-20-xu-jiayin, c04-xinhua-2026-08-20-xu-jiayin]
 
 - id: sun-dawu
   name: 孙大午
@@ -544,26 +508,6 @@
   bio: >-
     安邦保险集团原董事长。《纽约时报》报道他与邓小平外孙女卓苒结婚，但 BBC 引述知情人士称他与邓家关系并不密切。2017 年 6 月被带走，2018 年 5 月被上海一中院以集资诈骗罪、职务侵占罪判处有期徒刑 18 年、没收财产 105 亿元，法院认定其实际骗取 652 亿余元；8 月二审维持原判。
   cites: [wd-Q18233674, c04-bbc-2018-05-10-wu-xiaohui, c04-zaobao-2018-08-17-wu-xiaohui]
-
-- id: guo-wengui
-  name: 郭文贵
-  aka: [郭浩云, Miles Guo]
-  gender: m
-  born: 1967-02-02
-  birthplace: 山东莘县
-  roles: [biz, dissent]
-  status: detained
-  statusNote: 在美国服刑，2026 年 6 月被判 30 年监禁。
-  fall:
-    - { date: 2023-03, text: 在美国被捕, cite: c04-voa-2026-06-30-guo-wengui }
-    - { date: 2024-07-16, text: 陪审团认定串谋敲诈勒索、电汇欺诈、证券欺诈及洗钱等罪成立, cite: c04-voa-2026-06-30-guo-wengui }
-    - { date: 2026-06-29, text: 纽约南区联邦法院判处 30 年监禁, cite: c04-bbc-2026-06-30-guo-wengui }
-  tier: 2
-  headline: 流亡美国的地产商，诈骗罪被判 30 年
-  ids: { wikidata: Q19840320 }
-  bio: >-
-    房地产商人，早年与中国政府关系良好，2014 年离开中国，在美国以揭露中共高层腐败的形象积累大批追随者，并与班农发起“新中国联邦”。2023 年 3 月被捕，2024 年 7 月被陪审团认定敲诈勒索、欺诈和洗钱等罪成立，2026 年 6 月被判 30 年监禁、没收 8.89 亿美元。
-  cites: [wd-Q19840320, c04-voa-2026-06-30-guo-wengui, c04-bbc-2026-06-30-guo-wengui]
 
 - id: ye-jianming
   name: 叶简明
@@ -680,7 +624,7 @@
     - { title: 全国政协副主席, sys: other, from: 2017-03-13, cite: c04-bbc-2017-03-14-cy-leung-cppcc }
   bio: >-
     回归后长期任行政会议召集人，2012 年 3 月当选特首，任内发生 2014 年“占中”和 2016 年旺角骚乱。2016 年 12 月以家庭原因放弃连任，2017 年 3 月当选全国政协副主席，民主党涂谨申认为有“安慰奖”性质。2023 年再次当选十四届全国政协副主席。
-  cites: [wd-Q15023, c04-bbc-2016-12-09-cy-leung, c04-bbc-2017-03-14-cy-leung-cppcc, c04-gov-2023-03-10-cppcc-leaders]
+  cites: [wd-Q15023, c04-bbc-2016-12-09-cy-leung, c04-bbc-2017-03-14-cy-leung-cppcc, b05-gov-2023-03-10-wang-huning-cppcc]
 
 - id: li-jiachao
   name: 李家超
@@ -791,7 +735,7 @@
     - { title: 全国政协副主席, sys: other, from: 2010-03-13, cite: c04-bbc-2010-03-13-edmund-ho }
   bio: >-
     出身澳门三大家族之一的何贤家族，1999 年至 2009 年连任两届澳门特区行政长官。卸任后于 2010 年 3 月当选全国政协副主席，澳门中联办主任称这是肯定他任特首期间的贡献。他此后一直连任，2023 年 3 月再次当选十四届全国政协副主席。
-  cites: [wd-Q3048127, c04-bbc-2010-03-13-edmund-ho, c04-bbc-2019-ho-iat-seng, c04-gov-2023-03-10-cppcc-leaders]
+  cites: [wd-Q3048127, c04-bbc-2010-03-13-edmund-ho, c04-bbc-2019-ho-iat-seng, b05-gov-2023-03-10-wang-huning-cppcc]
 
 - id: cui-shian
   name: 崔世安

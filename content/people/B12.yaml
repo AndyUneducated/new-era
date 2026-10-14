@@ -1,0 +1,127 @@
+# B12: full biographies. Each entry below starts as the dossier card written in round 1; expand it to tier 1.
+- id: sun-lijun
+  name: 孙力军
+  gender: m
+  born: 1969-01
+  birthplace: 山东青岛
+  roles: [tiger]
+  status: detained
+  statusNote: 2022 年 9 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2020-04-19, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2020-04-19-sun-lijun-probe }
+    - { date: 2021-09-30, text: 被开除党籍、开除公职, cite: c03-ccdi-2021-09-30-sun-lijun-expel }
+    - { date: 2022-09-23, text: 长春中院以受贿、操纵证券市场、非法持有枪支罪判处死缓并终身监禁, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+  tier: 2
+  headline: 公安部原副部长，“孙力军政治团伙”头目
+  ids: { wikidata: Q92378949 }
+  bio: >-
+    早年任上海市卫生局外事处副处长、上海市外办处长，后入公安部，历任办公厅副主任、国内安全保卫局局长、公安部副部长。2020 年 4 月落马，2021 年 9 月被开除党籍和公职，通报称他“政治野心极度膨胀”，“在党内大搞团团伙伙、拉帮结派、培植个人势力”。2022 年 9 月被判死缓并终身监禁，受贿 6.46 亿余元。
+  positions:
+    - { title: 上海市卫生局外事处副处长, sys: gov, place: 上海, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 上海市人民政府外事办公室综合业务处处长, sys: gov, place: 上海, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部办公厅副主任, sys: gov, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部国内安全保卫局局长, sys: gov, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部党委委员、副部长, sys: gov, to: 2020-04, cite: c03-ccdi-2020-04-19-sun-lijun-probe }
+  cites: [wd-Q92378949, c03-ccdi-2020-04-19-sun-lijun-probe, c03-ccdi-2021-09-30-sun-lijun-expel, c03-xinhua-2022-09-23-sun-lijun-verdict]
+
+- id: fu-zhenghua
+  name: 傅政华
+  gender: m
+  born: 1955-03
+  birthplace: 河北滦县
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2022 年 9 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2021-10-02, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2021-10-02-fu-zhenghua-probe }
+    - { date: 2022-03-31, text: 被开除党籍、开除公职, cite: c03-ccdi-2022-03-31-fu-zhenghua-expel }
+    - { date: 2022-09-22, text: 长春中院以受贿、徇私枉法罪判处死缓并终身监禁, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+  tier: 2
+  headline: 司法部原部长、北京市公安局原局长
+  ids: { wikidata: Q15733195 }
+  bio: >-
+    曾任北京市公安局局长、北京市委常委、公安部副部长，2018 年至 2020 年任司法部部长。2021 年 10 月落马，2022 年 3 月被开除党籍和公职，通报称他“政治野心极度膨胀”，“参加孙力军政治团伙”。2022 年 9 月被判死缓并终身监禁；判决认定他任北京市公安局局长时对其弟涉嫌严重犯罪的线索隐瞒不报。
+  positions:
+    - { title: 北京市公安局局长, sys: gov, place: 北京, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 北京市委常委, sys: party, place: 北京, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 公安部副部长, sys: gov, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 司法部部长, sys: gov, from: 2018-03, to: 2020-04, cite: wd-Q15733195 }
+    - { title: 全国政协社会和法制委员会副主任, sys: gov, to: 2021-10, cite: c03-ccdi-2021-10-02-fu-zhenghua-probe }
+  cites: [wd-Q15733195, c03-ccdi-2021-10-02-fu-zhenghua-probe, c03-ccdi-2022-03-31-fu-zhenghua-expel, c03-xinhua-2022-09-22-fu-zhenghua-verdict]
+
+- id: su-rong
+  name: 苏荣
+  gender: m
+  born: 1948-10-29
+  birthplace: 吉林洮南
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2017 年 1 月一审被判无期徒刑，当庭表示不上诉。
+  fall:
+    - { date: 2014-06-14, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2014-06-14-su-rong-probe }
+    - { date: 2015-02-16, text: 被开除党籍、开除公职, cite: c03-ccdi-2015-02-16-su-rong-expel }
+    - { date: 2017-01-23, text: 济南中院以受贿、滥用职权、巨额财产来源不明罪判处无期徒刑, cite: c03-people-2017-01-23-su-rong-verdict }
+  tier: 2
+  headline: 全国政协原副主席，曾任三省省委书记，被判无期
+  ids: { wikidata: Q1059126 }
+  bio: >-
+    全国政协副主席，此前历任青海、甘肃、江西省委书记。2014 年 6 月落马，2015 年 2 月被开除党籍和公职，中纪委通报称他“大肆卖官鬻爵”，“支持、纵容亲属利用其特殊身份擅权干政”，对江西省的严重腐败问题负有主要领导责任。2017 年 1 月被济南中院判处无期徒刑，受贿 1.16 亿余元。
+  positions:
+    - { title: 青海省委书记, sys: party, place: 青海, cite: wd-Q1059126 }
+    - { title: 甘肃省委书记, sys: party, place: 甘肃, cite: wd-Q1059126 }
+    - { title: 江西省委书记, sys: party, place: 江西, cite: wd-Q1059126 }
+    - { title: 全国政协副主席, sys: gov, from: 2013-03, to: 2014-06, cite: wd-Q1059126 }
+  cites: [wd-Q1059126, c03-ccdi-2014-06-14-su-rong-probe, c03-ccdi-2015-02-16-su-rong-expel, c03-people-2017-01-23-su-rong-verdict]
+
+- id: lu-wei
+  name: 鲁炜
+  gender: m
+  born: 1960-01
+  birthplace: 安徽巢湖
+  roles: [tiger, minister]
+  status: detained
+  statusNote: 2019 年 3 月被判有期徒刑 14 年，当庭表示不上诉。
+  fall:
+    - { date: 2017-11-21, text: 中纪委宣布其涉嫌严重违纪，接受组织审查, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { date: 2018-02-13, text: 被开除党籍、开除公职, cite: c03-xinhua-2018-02-13-lu-wei-expel }
+    - { date: 2019-03-26, text: 宁波中院以受贿罪判处有期徒刑 14 年, cite: c03-xinhua-2019-03-26-lu-wei-verdict }
+  tier: 2
+  headline: 中央网信办原主任、中宣部原副部长
+  ids: { wikidata: Q15733214 }
+  bio: >-
+    新华社记者出身，曾任新华社副社长、北京市委宣传部部长，2013 年起执掌国家互联网信息办公室，2014 年兼任中央网信办主任、中宣部副部长。2017 年 11 月落马，2018 年 2 月被开除党籍和公职，通报称他“阳奉阴违、欺骗中央”，“野心膨胀，公器私用”。2019 年 3 月被宁波中院以受贿罪判处有期徒刑 14 年。
+  positions:
+    - { title: 新华社广西分社社长, sys: other, place: 广西, from: 1997-11, to: 2001-10, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 新华社副社长, sys: other, from: 2004-05, to: 2011-03, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 北京市委常委、宣传部部长，北京市副市长, sys: party, place: 北京, from: 2011-03, to: 2013-04, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 国家互联网信息办公室主任, sys: gov, from: 2013-04, to: 2016-06, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 中央网络安全和信息化领导小组办公室主任, sys: party, from: 2014-05, to: 2016-06, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 中共中央宣传部副部长, sys: party, from: 2014-05, to: 2017-11, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+  cites: [wd-Q15733214, c03-ccdi-2017-11-21-lu-wei-probe, c03-xinhua-2018-02-13-lu-wei-expel, c03-xinhua-2019-03-26-lu-wei-verdict]
+
+- id: lai-xiaomin
+  name: 赖小民
+  gender: m
+  born: 1962-07-21
+  died: 2021-01-29
+  birthplace: 江西瑞金
+  roles: [tiger]
+  status: dead
+  statusNote: 2021 年 1 月 5 日被判死刑，同月 29 日在天津被执行死刑。
+  fall:
+    - { date: 2018-04-17, text: 中纪委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { date: 2018-10-15, text: 被开除党籍、开除公职, cite: c03-ccdi-2018-10-15-lai-xiaomin-expel }
+    - { date: 2021-01-05, text: 天津二中院以受贿、贪污、重婚罪判处死刑, cite: c03-court-2021-01-05-lai-xiaomin-verdict }
+    - { date: 2021-01-29, text: 经最高人民法院核准被执行死刑, cite: c03-xinhua-2021-01-29-lai-xiaomin-executed }
+  tier: 2
+  headline: 中国华融原董事长，受贿 17.88 亿被处决
+  ids: { wikidata: Q16907225 }
+  bio: >-
+    曾任北京银监局局长、银监会办公厅主任，2012 年 9 月起任中国华融资产管理公司党委书记、董事长。2018 年 4 月落马，10 月被开除党籍和公职，通报称其“盲目扩张、无序经营导致公司严重偏离主责主业”，“与多名女性搞权色交易”。2021 年 1 月被判死刑，受贿 17.88 亿余元，同月 29 日被执行死刑。
+  positions:
+    - { title: 中国人民银行银行监管二司副司长, sys: gov, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 北京银监局局长、党委书记, sys: gov, place: 北京, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国银监会办公厅主任、首席新闻发言人, sys: gov, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国华融资产管理公司党委副书记、总裁, sys: other, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国华融资产管理股份有限公司党委书记、董事长, sys: other, from: 2012-09, to: 2018-04, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+  cites: [wd-Q16907225, c03-ccdi-2018-04-17-lai-xiaomin-probe, c03-ccdi-2018-10-15-lai-xiaomin-expel, c03-court-2021-01-05-lai-xiaomin-verdict, c03-xinhua-2021-01-29-lai-xiaomin-executed]

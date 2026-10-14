@@ -33,7 +33,7 @@
   lane: purge
   summary: 2013年9月22日，济南市中级人民法院对中共中央政治局原委员、重庆市委原书记薄熙来受贿、贪污、滥用职权案作出一审判决，数罪并罚决定执行无期徒刑，剥夺政治权利终身，没收个人全部财产。法院认定其受贿2044万余元、贪污500万元，并认定他在薄谷开来杀害英国公民尼尔·伍德案的查处和王立军叛逃事件中滥用职权，造成特别恶劣的社会影响。
   people: [bo-xilai, gu-kailai, wang-lijun]
-  cites: [e03-people-2013-09-22-bo-verdict]
+  cites: [b07-xinhua-2013-09-22-bo-sentence]
 
 - id: e03-2013-silk-road-economic-belt
   date: 2013-09-07
@@ -43,7 +43,7 @@
   summary: 2013年9月7日，习近平在哈萨克斯坦纳扎尔巴耶夫大学演讲，倡议用创新的合作模式共同建设“丝绸之路经济带”，“以点带面，从线到片，逐步形成区域大合作”，并提出加强政策沟通、道路联通、贸易畅通、货币流通、民心相通。答问时他还说“绿水青山就是金山银山”。这一倡议此后发展为“一带一路”，2015年写入十八届五中全会公报。
   people: [xi-jinping]
   concepts: [belt-and-road, ecological-civilization]
-  cites: [e03-gov-2013-09-07-silk-road, e03-ccdi-2015-10-29-5th-plenum]
+  cites: [b04-gov-2013-09-07-xi-nazarbayev, e03-ccdi-2015-10-29-5th-plenum]
 
 - id: e03-2013-third-plenum-reform-decision
   date: 2013-11-12
@@ -99,7 +99,7 @@
   summary: 2014年6月30日，中共中央政治局会议听取中央军委纪委关于徐才厚严重违纪案的审查报告，决定给予徐才厚开除党籍处分，将其涉嫌受贿犯罪问题及线索移送最高人民检察院授权军事检察机关处理。通报称中央已于3月15日决定对他进行组织调查，查明他利用职务便利为他人晋升职务提供帮助，直接和通过家人收受贿赂。
   people: [xu-caihou]
   factions: [guo-xu]
-  cites: [e03-people-2014-06-30-xu-caihou]
+  cites: [b07-xinhua-2014-06-30-xu-expulsion]
 
 - id: e03-2014-zhou-yongkang-investigated
   date: 2014-07-29
@@ -109,7 +109,7 @@
   summary: 2014年7月29日，新华社播发消息：鉴于周永康涉嫌严重违纪，中共中央决定依据党章和《中国共产党纪律检查机关案件检查工作条例》，由中央纪委对其立案审查。通报全文仅一句。此后案件进入司法程序，2015年6月11日，天津市第一中级人民法院以受贿罪、滥用职权罪、故意泄露国家秘密罪判处周永康无期徒刑。
   people: [zhou-yongkang]
   factions: [zhou-clique, petroleum, zhengfa]
-  cites: [e03-gov-2014-07-29-zhou-yongkang, e03-xinhua-2015-06-11-zhou-verdict]
+  cites: [b03-gov-2014-07-29-zhou-probe, e03-xinhua-2015-06-11-zhou-verdict]
 
 - id: e03-2014-ilham-tohti-sentenced
   date: 2014-09-23
@@ -117,7 +117,7 @@
   lane: ethnic
   summary: 2014年9月23日，乌鲁木齐市中级人民法院以分裂国家罪一审判处中央民族大学学者伊力哈木·土赫提无期徒刑、剥夺政治权利终身，并没收个人全部财产。新华社称法庭查明他以“维吾尔在线”网站为平台、利用大学教师身份传播民族分裂思想，形成以他为首要分子的犯罪集团。BBC中文网指出，他2006年创办该网站，因经常发表捍卫维吾尔人权利的言论而遭当局长期监控。
   people: [yilihamu-tuheti]
-  cites: [e03-bbc-2014-09-23-ilham-tohti]
+  cites: [c04-bbc-2014-09-23-ilham-tohti]
 
 - id: e03-2014-occupy-central-begins
   date: 2014-09-28
@@ -152,7 +152,7 @@
   summary: 2014年12月22日，新华网发布消息，全国政协副主席、中共中央统战部部长令计划“涉嫌严重违纪，目前正接受组织调查”。2015年10月十八届五中全会确认对他开除党籍的处分。2016年7月4日，天津市第一中级人民法院以受贿罪、非法获取国家秘密罪、滥用职权罪判处其无期徒刑；因案件涉及国家秘密，庭审不公开进行。令计划当庭表示服从判决、不上诉。
   people: [ling-jihua]
   factions: [xishanhui, tuanpai]
-  cites: [e03-ce-2014-12-22-ling-jihua, e03-ccdi-2015-10-29-5th-plenum, e03-gov-2016-07-04-ling-verdict]
+  cites: [b07-xinhua-2014-12-22-ling-investigation, e03-ccdi-2015-10-29-5th-plenum, b07-court-2016-07-04-ling-sentence]
 
 # 2015
 - id: e03-2015-zhou-yongkang-sentenced
@@ -247,7 +247,7 @@
   summary: 2015年11月10日，习近平主持中央财经领导小组第十一次会议，研究经济结构性改革和城市工作。他提出“在适度扩大总需求的同时，着力加强供给侧结构性改革，着力提高供给体系质量和效率”，并要求实行宏观政策要稳、产业政策要准、微观政策要活、改革政策要实、社会政策要托底的政策。2016年十八届六中全会公报把供给侧结构性改革列为取得重大进展的领域之一。
   people: [xi-jinping]
   concepts: [supply-side]
-  cites: [e03-xinhua-2015-11-10-supply-side, e03-xinhua-2016-10-27-6th-plenum]
+  cites: [e03-xinhua-2015-11-10-supply-side, b04-xinhua-2016-10-27-6th-plenum]
 
 - id: e03-2015-military-reform-conference
   date: 2015-11-24
@@ -327,7 +327,7 @@
   summary: 2016年10月24日至27日，十八届六中全会在北京举行，审议通过《关于新形势下党内政治生活的若干准则》和《中国共产党党内监督条例》，并决定召开十九大。全会公报使用了“以习近平同志为核心的党中央”的表述，而2015年十八届五中全会公报的提法还是“以习近平同志为总书记的党中央”。
   people: [xi-jinping]
   concepts: [core]
-  cites: [e03-xinhua-2016-10-27-6th-plenum, e03-ccdi-2015-10-29-5th-plenum]
+  cites: [b04-xinhua-2016-10-27-6th-plenum, e03-ccdi-2015-10-29-5th-plenum]
 
 # 2017
 - id: e03-2017-liu-xiaobo-dies
@@ -337,7 +337,7 @@
   summary: 2017年7月13日，诺贝尔和平奖得主刘晓波病逝，终年61岁。他是《零八宪章》的发起者和起草者，2009年以煽动颠覆国家政权罪被判处有期徒刑11年，2010年获诺贝尔和平奖，2017年6月确诊肝癌晚期后获保外就医。沈阳市司法局公告称他因多脏器功能衰竭抢救无效死亡；挪威诺贝尔委员会称中国政府对他的过早死亡负有重大责任。
   people: [liu-xiaobo]
   concepts: [charter-08]
-  cites: [e03-bbc-2017-07-13-liu-xiaobo, e03-voa-2017-07-13-shenyang, e03-bbc-2017-07-13-liu-reactions]
+  cites: [b10-bbc-2017-07-13-liu-obit, e03-voa-2017-07-13-shenyang, e03-bbc-2017-07-13-liu-reactions]
 
 - id: e03-2017-winnie-the-pooh
   date: 2017-07-16
@@ -354,7 +354,7 @@
   lane: purge
   summary: 2017年7月14日，中共中央决定将孙政才调离重庆市委书记岗位，由中央纪委对他进行纪律审查，7月24日中央政治局会议决定对其立案审查。9月29日，政治局会议决定给予孙政才开除党籍、开除公职处分，通报称他“严重违反党的政治纪律和政治规矩”，选人用人唯亲唯利、收受巨额财物、搞权色交易，涉嫌犯罪问题移送司法机关。
   people: [sun-zhengcai]
-  cites: [e03-gov-2017-09-29-sun-zhengcai]
+  cites: [b07-xinhua-2017-09-29-sun-expulsion]
 
 - id: e03-2017-xi-thought-in-charter
   date: 2017-10-24
@@ -382,19 +382,19 @@
   voices:
     - voice: official
       text: 说专项行动是在驱赶“低端人口”，这是不负责任、毫无根据的，没有“低端人口”一说。
-      cite: e03-bjyouth-2017-11-26-anweihui
+      cite: b06-qq-2017-11-26-no-low-end
       quote: true
     - voice: zh
       text: BBC中文网报道，网络流传北京多个地区出现租户被逼迁的情况，有租户被警告将断水断电，不得不露宿街头，网民质疑当局借机清理外来人口。
       cite: e03-bbc-2017-11-24-low-end
-  cites: [e03-bjyouth-2017-11-26-anweihui, e03-bbc-2017-11-28-daxing, e03-bbc-2017-11-24-low-end]
+  cites: [b06-qq-2017-11-26-no-low-end, e03-bbc-2017-11-28-daxing, e03-bbc-2017-11-24-low-end]
 
 - id: e03-2017-low-end-population
   date: 2017-11
   title: “低端人口”
   lane: folk
   summary: “低端人口”一词在2017年11月北京大兴火灾后的清理整治中成为网络争议焦点。据BBC中文网梳理，2016年8月《人民日报海外版》引述学者顾宝昌称一些城市用政策强逼“低端人口”离开，并认为这样做不一定有好处；多家官媒转载时把标题改为“专家：政策清理低端人口”，使它成为贬义词。北京官方称没有“低端人口”一说，批评者则认为这一说法侮辱了为城市作出贡献的外地打工者。
-  cites: [e03-bbc-2017-11-24-low-end, e03-bbc-2017-11-28-daxing, e03-bjyouth-2017-11-26-anweihui]
+  cites: [e03-bbc-2017-11-24-low-end, e03-bbc-2017-11-28-daxing, b06-qq-2017-11-26-no-low-end]
 
 - id: e03-2017-liangjiahe
   date: 2017-10

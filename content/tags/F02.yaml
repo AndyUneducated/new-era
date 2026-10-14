@@ -3,7 +3,7 @@
 
 xi-jinping:
   - f: princelings
-    cite: f02-brookings-2017-pb
+    cite: f01-brookings-2017-new-politburo
     quote: 'Xi is a princeling, the son of Xi Zhongxun'
     zh: '习近平是太子党，是习仲勋之子'
   - f: princelings
@@ -18,7 +18,7 @@ xi-jinping:
     quote: 'The younger Zhang and Xi, now 75 and 72, are both “princelings” — a term describing the children of revolutionary leaders who have benefitted from their family connections'
     zh: '年轻一辈的张（又侠）与习，如今分别75岁和72岁，都是“太子党”——指受益于家庭关系的革命领导人子女'
   - f: jiang-shanghai
-    cite: f02-brookings-2017-pb
+    cite: f01-brookings-2017-new-politburo
     quote: 'Xi Jinping is widely considered to be a protégé of both former PRC president Jiang Zemin and former PRC vice-president Zeng Qinghong'
     zh: '习近平被普遍认为是前国家主席江泽民和前国家副主席曾庆红二人的门生'
   - f: jiang-shanghai
@@ -32,7 +32,7 @@ li-qiang:
     cite: f02-bbc-2022-09-29-20th-five-questions
     quote: '习近平担任中国领导人后，曾提拔一批他在浙江和上海任职时的下属。这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强'
   - f: zhijiang
-    cite: f02-bbc-2022-10-22-20th-cc
+    cite: b09-bbc-2022-10-22-20th-close
     quote: '上海市委书记李强……他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属'
   - f: zhijiang
     cite: f02-rfa-2020-11-16-zhijiang
@@ -55,13 +55,13 @@ cai-qi:
     cite: f02-bbc-2022-09-29-20th-five-questions
     quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇'
   - f: zhijiang
-    cite: f02-bbc-2022-10-22-20th-cc
+    cite: b09-bbc-2022-10-22-20th-close
     quote: '会前颇受各界关注的北京市委书记蔡奇……他们被外界称为“之江新军”或“习家军”'
   - f: zhijiang
     cite: f02-rfa-2020-11-16-zhijiang
     quote: '所谓“之江新军”的最典型代表蔡奇'
   - f: fujian
-    cite: f02-bbc-2022-10-23-psc
+    cite: b06-bbc-2022-10-23-psc
     quote: '蔡奇同样是习近平在福建和浙江的旧部'
   - f: fujian
     cite: f02-reuters-2022-10-24-elites
@@ -85,10 +85,10 @@ ding-xuexiang:
     cite: f02-bbc-2022-09-29-20th-five-questions
     quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强、重庆市委书记陈敏尔、广东省委书记李希以及中央办公厅主任丁薛祥'
   - f: mishu
-    cite: f02-bbc-2022-10-23-psc
+    cite: b06-bbc-2022-10-23-psc
     quote: '长期扮演习近平秘书角色的丁薛祥'
   - f: xi-shanghai
-    cite: f02-bbc-2022-10-23-psc
+    cite: b06-bbc-2022-10-23-psc
     quote: '2007年，45岁的他任中共上海市委常委、秘书长，成为时任上海市委书记习近平的政治秘书'
   - f: xi-shanghai
     cite: f02-reuters-2022-10-24-elites
@@ -121,10 +121,10 @@ li-xi:
 
 li-zhanshu:
   - f: xi-jiajun
-    cite: f02-bbc-2017-10-25-psc
+    cite: b04-bbc-2017-10-25-19th-psc
     quote: '常委中“习家军”占了两席，分别是习近平和栗战书'
   - f: shaanxi
-    cite: f02-brookings-2017-pb
+    cite: f01-brookings-2017-new-politburo
     quote: 'Li is also widely seen as a member of the “Shaanxi Gang,” Xi’s most important power base'
     zh: '栗战书也被普遍视为“陕西帮”成员，这是习近平最重要的权力基础'
   - f: xi-jiajun
@@ -134,7 +134,7 @@ li-zhanshu:
 
 zhao-leji:
   - f: shaanxi
-    cite: f02-brookings-2017-pb
+    cite: f01-brookings-2017-new-politburo
     quote: 'Some analysts have characterized him as the “spokesperson” of Xi Jinping’s Shaanxi Gang'
     zh: '一些分析人士称他为习近平“陕西帮”的“代言人”'
   - f: xi-jiajun
@@ -177,7 +177,7 @@ chen-miner:
     cite: f02-bbc-2022-09-29-20th-five-questions
     quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强、重庆市委书记陈敏尔'
   - f: zhijiang
-    cite: f02-bbc-2022-10-22-20th-cc
+    cite: b09-bbc-2022-10-22-20th-close
     quote: '重庆市委书记陈敏尔……他们被外界称为“之江新军”或“习家军”'
   - f: zhijiang
     cite: f02-bbc-2017-09-26-psc-candidates
@@ -234,7 +234,7 @@ he-lifeng:
     cite: f02-voa-2022-03-16-he-lifeng
     quote: '何立峰出线的唯一资格就是他是习近平的“福建帮”亲信'
   - f: fujian
-    cite: f02-voa-2023-11-he-lifeng
+    cite: b09-voa-2023-11-he-lifeng
     quote: '隶属于习近平“福建帮”人马的何立峰'
 
 li-shulei:
@@ -245,7 +245,7 @@ li-shulei:
 
 ying-yong:
   - f: zhijiang
-    cite: f02-bbc-2022-10-22-20th-cc
+    cite: b09-bbc-2022-10-22-20th-close
     quote: '全国人大宪法和法律委员会副主任委员应勇都入选了中央委员。他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属'
 
 xia-baolong:
@@ -287,7 +287,7 @@ xu-qiliang:
 
 wang-xiaohong:
   - f: fujian
-    cite: f02-rfa-2022-06-24-wang-xiaohong
+    cite: c02-rfa-2022-06-24-wang-xiaohong
     quote: '王小洪是中共总书记习近平的福州旧部'
 
 chen-yixin:
@@ -304,7 +304,7 @@ ma-xingrui:
     cite: f02-rfa-2023-02-13-jungong
     quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
   - f: aerospace
-    cite: f02-bbc-2026-07-ma-xingrui
+    cite: b08-bbc-2026-07-14-ma
     quote: '马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰'
   - f: aerospace
     cite: f02-cna-2026-07-14-ma-xingrui
@@ -318,7 +318,7 @@ yuan-jiajun:
     cite: f02-rfa-2023-02-13-jungong
     quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
   - f: aerospace
-    cite: f02-bbc-2026-07-ma-xingrui
+    cite: b08-bbc-2026-07-14-ma
     quote: '马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰'
   - f: aerospace
     cite: f02-cna-2026-07-14-ma-xingrui
@@ -369,16 +369,16 @@ zhang-youxia:
     quote: 'Some notable princelings to emerge include Zhang Youxia, a military leader and a politburo member'
     zh: '崛起的知名太子党包括军队领导人、政治局委员张又侠'
   - f: army-princelings
-    cite: f02-dw-2026-01-zhang-youxia
+    cite: f01-dw-2026-01-26-zhang-youxia
     quote: '张又侠因此被视为在军队根基深厚的“红二代”'
   - f: army-princelings
-    cite: f02-bbc-2026-zhang-youxia-analysis
+    cite: f01-bbc-2026-01-27-zhang-youxia
     quote: '这位75岁的解放军最高现役将领、习近平的“红二代”陕西老乡突然倒台'
   - f: shaanxi
     cite: f02-voa-2024-04-princelings
     quote: '张又侠的父亲张宗逊是习仲勋的陕西同乡……他们同属以高岗、刘志丹、习仲勋为首的“陕北帮”或者“西北帮”'
   - f: equipment-system
-    cite: f02-bbc-2026-zhang-youxia-analysis
+    cite: f01-bbc-2026-01-27-zhang-youxia
     quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
   - f: zhang-liu
     cite: f02-zaobao-2026-01-24-zhang-liu
@@ -395,7 +395,7 @@ liu-zhenli:
 
 he-weidong:
   - f: fujian-generals
-    cite: f02-bbc-2025-10-17-nine-generals
+    cite: b04-bbc-2025-10-nine-generals
     quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
   - f: fujian-generals
     cite: f02-dw-2025-10-20-nine-generals
@@ -407,7 +407,7 @@ he-weidong:
 
 miao-hua:
   - f: fujian-generals
-    cite: f02-bbc-2025-10-17-nine-generals
+    cite: b04-bbc-2025-10-nine-generals
     quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
   - f: fujian-generals
     cite: f02-dw-2025-10-20-nine-generals
@@ -418,25 +418,25 @@ miao-hua:
 
 lin-xiangyang:
   - f: fujian-generals
-    cite: f02-bbc-2025-10-17-nine-generals
+    cite: b04-bbc-2025-10-nine-generals
     quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
 
 qin-shutong:
   - f: fujian-generals
-    cite: f02-bbc-2025-10-17-nine-generals
+    cite: b04-bbc-2025-10-nine-generals
     quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
 
 wang-xiubin:
   - f: fujian-generals
-    cite: f02-bbc-2025-10-17-nine-generals
+    cite: b04-bbc-2025-10-nine-generals
     quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
 
 li-shangfu:
   - f: equipment-system
-    cite: f02-dw-2026-01-zhang-youxia
+    cite: f01-dw-2026-01-26-zhang-youxia
     quote: '2023年落马的前国防部长李尚福就曾任解放军总装备部副部长，并于2017年9月接任中央军委装备发展部部长'
   - f: equipment-system
-    cite: f02-bbc-2026-zhang-youxia-analysis
+    cite: f01-bbc-2026-01-27-zhang-youxia
     quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
   - f: rocket-equipment
     cite: f02-zaobao-2024-06-27-li-wei
@@ -459,7 +459,7 @@ bo-xilai:
     quote: 'Below are some of the high and low points of the princelings...Bo Xilai, a son of late vice premier Bo Yibo, was voted out'
     zh: '以下是太子党们的一些高光与低谷……薄熙来，已故副总理薄一波之子，（在十五大中央委员选举中）落选'
   - f: new-gang-of-four
-    cite: f02-bbc-2014-12-22-ling-jihua
+    cite: f01-bbc-2014-12-22-ling-jihua
     quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
   - f: new-gang-of-four
     cite: f02-voa-2014-12-05-zhou-coup
@@ -491,7 +491,7 @@ zhou-yongkang:
     cite: f02-bjnews-2015-10-14-zhou-disciples
     quote: '其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙'
   - f: new-gang-of-four
-    cite: f02-bbc-2014-12-22-ling-jihua
+    cite: f01-bbc-2014-12-22-ling-jihua
     quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
   - f: new-gang-of-four
     cite: f02-voa-2014-12-05-zhou-coup
@@ -502,7 +502,7 @@ zhou-yongkang:
 
 ling-jihua:
   - f: new-gang-of-four
-    cite: f02-bbc-2014-12-22-ling-jihua
+    cite: f01-bbc-2014-12-22-ling-jihua
     quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
   - f: new-gang-of-four
     cite: f02-voa-2014-12-05-zhou-coup
@@ -568,7 +568,7 @@ xu-caihou:
     cite: f02-rmrb-2020-12-03-guo-xu
     quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
   - f: new-gang-of-four
-    cite: f02-bbc-2014-12-22-ling-jihua
+    cite: f01-bbc-2014-12-22-ling-jihua
     quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
   - f: new-gang-of-four
     cite: f02-voa-2014-12-05-zhou-coup
@@ -587,7 +587,7 @@ fang-fenghui:
     cite: f02-rmrb-2020-12-03-guo-xu
     quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
   - f: guo-xu
-    cite: f02-zaobao-2018-01-10-fang-fenghui
+    cite: c02-zaobao-2018-01-10-fang-fenghui
     quote: '据悉，房峰辉是郭伯雄的老乡兼旧部，张阳则是徐才厚的嫡系'
 
 zhang-yang:
@@ -595,7 +595,7 @@ zhang-yang:
     cite: f02-rmrb-2020-12-03-guo-xu
     quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
   - f: guo-xu
-    cite: f02-zaobao-2018-01-10-fang-fenghui
+    cite: c02-zaobao-2018-01-10-fang-fenghui
     quote: '据悉，房峰辉是郭伯雄的老乡兼旧部，张阳则是徐才厚的嫡系'
   - f: guo-xu
     cite: f02-bbc-2017-11-28-zhang-yang

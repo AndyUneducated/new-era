@@ -26,10 +26,10 @@
       cite: b03-people-2014-12-06-zhou-expelled
     - date: 2015-04-03
       text: 天津市人民检察院第一分院以受贿、滥用职权、故意泄露国家秘密罪向天津市第一中级人民法院提起公诉；5 月 22 日不公开开庭审理。
-      cite: b03-xinhua-2015-06-11-zhou-verdict
+      cite: e03-xinhua-2015-06-11-zhou-verdict
     - date: 2015-06-11
       text: 天津市第一中级人民法院一审宣判：受贿罪判处无期徒刑，滥用职权罪判处有期徒刑七年，故意泄露国家秘密罪判处有期徒刑四年，决定执行无期徒刑，剥夺政治权利终身，并处没收个人财产。
-      cite: b03-xinhua-2015-06-11-zhou-verdict
+      cite: e03-xinhua-2015-06-11-zhou-verdict
   tier: 1
   headline: 中央政治局常委、中央政法委书记（2007–2012），2015 年以受贿等罪被判无期徒刑
   ids: { wikidata: Q198042 }
@@ -115,7 +115,7 @@
       text: >-
         2014 年 7 月 29 日，新华社只用一句话宣布对其立案审查，消息中没有头衔，也没有“同志”称呼。12 月中央通报他严重违反政治纪律、组织纪律、保密纪律，直接或通过家人收受巨额贿赂，滥用职权帮助亲属、情妇、朋友经营获利，泄露党和国家机密，并“与多名女性通奸并进行权色、钱色交易”，开除党籍并移送司法。
         2015 年 6 月 11 日天津一中院宣判：认定其受贿共计折合 1.29772113 亿元，大部分由其子周滨、妻子贾晓晔收受并事后告知他；滥用职权使周滨等人非法获利 21.36 亿余元；把 5 份绝密级、1 份机密级文件交给不应知悉的曹永正。法院以三罪并罚决定执行无期徒刑。
-      cites: [b03-gov-2014-07-29-zhou-probe, b03-bbc-2015-06-11-zhou-profile, b03-people-2014-12-06-zhou-expelled, b03-xinhua-2015-06-11-zhou-verdict]
+      cites: [b03-gov-2014-07-29-zhou-probe, b03-bbc-2015-06-11-zhou-profile, b03-people-2014-12-06-zhou-expelled, e03-xinhua-2015-06-11-zhou-verdict]
     - h: 从“腐败”到“政治阴谋”
       from: 2014
       to: 2017
@@ -150,18 +150,18 @@
       rel: 妻子
       text: >-
         曾在中央电视台工作（新京报报道李东生通过这层关系结识周永康）。法院认定周滨、贾晓晔收受吴兵、丁雪峰等人财物并事后告知周永康。2016 年 6 月被湖北宜昌中院以受贿罪、利用影响力受贿罪判处有期徒刑九年，并处罚金 100 万元（纽约时报中文网）。BBC 转述路透社报道时写作“贾晓烨”。
-      cites: [b03-cnr-2015-10-15-zhou-disciples, b03-xinhua-2015-06-11-zhou-verdict, b03-nytcn-2016-06-15-zhou-family, b03-bbc-2014-03-30-zhou-assets]
+      cites: [b03-cnr-2015-10-15-zhou-disciples, e03-xinhua-2015-06-11-zhou-verdict, b03-nytcn-2016-06-15-zhou-family, b03-bbc-2014-03-30-zhou-assets]
     - name: 周滨
       rel: 长子
       text: >-
         法院认定他与父亲共同受贿 9804.66 万元，另利用其父影响力受贿 1.24 亿余元，并犯非法经营罪。2016 年 6 月 15 日宜昌中院判处有期徒刑十八年，并处罚金 3.502 亿元，他当庭表示不上诉。周永康案判决书称，蒋洁敏、李春城曾按周的要求为周滨等人的经营提供帮助。
-      cites: [b03-court-2016-06-15-zhou-bin, b03-xinhua-2015-06-11-zhou-verdict]
+      cites: [b03-court-2016-06-15-zhou-bin, e03-xinhua-2015-06-11-zhou-verdict]
     - name: 周元青
       rel: 弟弟
       text: >-
         周永康案判决书所列因周滥用职权而获利的人员之一。路透社 2014 年 3 月引述消息来源称（BBC 转述），周元青一家与周滨夫妇、贾晓烨等十余名亲属已被拘押。
-      cites: [b03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2014-03-30-zhou-assets]
-  cites: [b03-bjreview-2007-10-23-zhou-resume, b03-people-2014-12-06-zhou-expelled, b03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2015-06-11-zhou-profile, wd-Q198042]
+      cites: [e03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2014-03-30-zhou-assets]
+  cites: [b03-bjreview-2007-10-23-zhou-resume, b03-people-2014-12-06-zhou-expelled, e03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2015-06-11-zhou-profile, wd-Q198042]
 
 - id: luo-gan
   name: 罗干

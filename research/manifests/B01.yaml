@@ -39,25 +39,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/a-21-a-2002-11-02-1-1-58335882/1076375.html
     excerpt: true
-    keep: [从幕后紧紧把持大权, 不会掌握多少实权]
-  - id: b01-bbc-2002-11-15-jiang-shadow
-    title: 分析：江泽民仍影响深重
-    publisher: BBC 中文
-    author: 马庆龙
-    date: 2002-11-15
-    voice: zh
-    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_2480000/24800631.stm
-    excerpt: true
-    keep: [至少四位常委都和江泽民, 顾问与心腹, 忠实助手黄菊, 也就开始形成聚拢了]
-  - id: b01-bbc-2002-10-17-shanghai-gang
-    title: 分析：十六大与“上海帮”
-    publisher: BBC 中文
-    author: 魏城
-    date: 2002-10-17
-    voice: zh
-    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_2300000/newsid_2308000/2308055.stm
-    excerpt: true
-    keep: [这个说法并不确切, 用上海话决定的]
+    keep: [ 从幕后紧紧把持大权, 不会掌握多少实权 ]
   - id: b01-bbc-2004-09-19-jiang-resigns
     title: 江泽民辞去中央军委主席职务
     publisher: BBC 中文
@@ -65,7 +47,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_3660000/newsid_3668000/3668008.stm
     excerpt: true
-    keep: [坐到2007年, 效仿邓小平的榜样]
+    keep: [ 坐到2007年, 效仿邓小平的榜样 ]
   - id: b01-bbc-2004-09-20-overseas-media
     title: 分析：海外媒体看中国权力交替
     publisher: BBC 中文
@@ -74,7 +56,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3670000/newsid_3671700/3671762.stm
     excerpt: true
-    keep: [而非得到江泽民扶持的曾庆红]
+    keep: [ 而非得到江泽民扶持的曾庆红 ]
   - id: b01-bbc-2022-11-30-jiang-obit
     title: 江泽民逝世：站上中国权力最高峰的红色工程师，享年96岁
     publisher: BBC 中文
@@ -82,7 +64,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-49417214
     excerpt: true
-    keep: [12时13分在上海去世, 江泽民并没有如过往数届般露面, 幕后操控中国政局的绝对人物, 年迈的江泽民也愈加低调, 作为一名长者, 人生的经验, too young, too simple, 始终代表中国先进社会生产力, 政治遗产显得十分薄弱, 安插了来自上海的亲信]
+    keep: [ 12时13分在上海去世, 江泽民并没有如过往数届般露面, 幕后操控中国政局的绝对人物, 年迈的江泽民也愈加低调, 作为一名长者, 人生的经验, too young, too simple, 始终代表中国先进社会生产力, 政治遗产显得十分薄弱, 安插了来自上海的亲信 ]
   - id: b01-zaobao-2022-11-30-too-young
     title: 【视频】江泽民22年前斥香港女记者：too young too simple
     publisher: 联合早报
@@ -90,7 +72,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20221130-1338940
     excerpt: true
-    keep: [张宝华, 图样图森破]
+    keep: [ 张宝华, 图样图森破 ]
   - id: b01-ettoday-2022-11-30-jiang-reporter
     title: 江泽民曾与女记者激烈交锋！走出来“撂英文”呛：simple、naive
     publisher: ETtoday 新闻云
@@ -98,7 +80,7 @@ web:
     voice: zh
     url: https://www.ettoday.net/news/20221130/2021798.htm
     excerpt: true
-    keep: [悶聲大發財, 你們畢竟too young]
+    keep: [ 悶聲大發財, 你們畢竟too young ]
   - id: b01-bbc-2014-09-29-jiang-concert
     title: 江泽民出席中国国庆65周年音乐会
     publisher: BBC 中文
@@ -106,7 +88,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/09/140929_china_jiang
     excerpt: true
-    keep: [前任领导人江泽民、李鹏和曾庆红等也在场, 第一次听到有关消息]
+    keep: [ 前任领导人江泽民、李鹏和曾庆红等也在场, 第一次听到有关消息 ]
   - id: b01-brookings-2007-17th-preview
     title: "Leadership Change at the 17th Party Congress: A Preview"
     publisher: Brookings Institution
@@ -116,7 +98,7 @@ web:
     lang: en
     url: https://www.brookings.edu/articles/leadership-change-at-the-17th-party-congress-a-preview/
     excerpt: true
-    keep: [elitist coalition]
+    keep: [ elitist coalition ]
   # --- Zhu Rongji ---
   - id: b01-gov-2026-08-18-zhu-life
     title: 朱镕基同志生平
@@ -133,7 +115,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cp839rnw40po/simp
     excerpt: true
-    keep: [朱嘴一张, 1500万人, 朱云来, 朱燕来, 经济集权主义者, 右派, 经济沙皇]
+    keep: [ 朱嘴一张, 1500万人, 朱云来, 朱燕来, 经济集权主义者, 右派, 经济沙皇 ]
   - id: b01-bbc-2026-08-zhu-taiwan-hk
     title: 朱镕基逝世：台湾记住“搞台独没好下场”　香港感念金融风暴“挺港功臣”
     publisher: BBC 中文
@@ -141,7 +123,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cm2gpjxyxzgo/simp
     excerpt: true
-    keep: [官方讣告称98岁, 没有好下场]
+    keep: [ 官方讣告称98岁, 没有好下场 ]
   - id: b01-zaobao-2026-08-12-zhu-quotes
     title: “准备好一百口棺材，也有我的一口” 回顾朱镕基经典语录
     publisher: 联合早报
@@ -149,7 +131,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20260812-9509217
     excerpt: true
-    keep: [100口棺材, 一百口棺材]
+    keep: [ 100口棺材, 一百口棺材 ]
   - id: b01-chinaqw-1998-03-19-zhu-presser
     title: 朱镕基总理等答中外记者问（1998 年 3 月 19 日，新华社电）
     publisher: 中国侨网
@@ -182,7 +164,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-49084536
     excerpt: true
-    keep: [周恩来养子, 公认的中共党内高层强硬派, 中共保守派鼎力扶持, 是不理智的, 宣布北京戒严，其措辞强硬, 我也做了最坏的估计, 1767票赞成, 电老虎, 李小琳曾担任, 技术官僚，政治上不会别的, 出版终止]
+    keep: [ 周恩来养子, 公认的中共党内高层强硬派, 中共保守派鼎力扶持, 是不理智的, 宣布北京戒严，其措辞强硬, 我也做了最坏的估计, 1767票赞成, 电老虎, 李小琳曾担任, 技术官僚，政治上不会别的, 出版终止 ]
   - id: b01-nyt-2019-07-23-li-peng
     title: 中国前总理李鹏去世，因六四事件被称为“北京屠夫”
     publisher: 纽约时报中文网
@@ -191,7 +173,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20190723/li-peng-dead/
     excerpt: true
-    keep: [面无表情的“北京屠夫”, 广大的革命先烈用鲜血创造出来的, 在撤退中没有死一人, 天安门事件的替罪羊, 没有李鹏的倡导, 他的家人一直受到腐败指控, 他是邓小平一个小兵]
+    keep: [ 面无表情的“北京屠夫”, 广大的革命先烈用鲜血创造出来的, 在撤退中没有死一人, 天安门事件的替罪羊, 没有李鹏的倡导, 他的家人一直受到腐败指控, 他是邓小平一个小兵 ]
   - id: b01-voa-2019-07-23-li-peng
     title: 因六四镇压和三峡工程引发争议的中国前总理李鹏去世
     publisher: 美国之音
@@ -199,7 +181,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/li-peng-tiananmen-movement-butcher-student-protest-diary-hu-yaobang-20190723/5011952.html
     excerpt: true
-    keep: [六四屠夫, 真实性没有得到证实]
+    keep: [ 六四屠夫, 真实性没有得到证实 ]
   - id: b01-icij-2016-04-06-red-nobility
     title: Leaked Files Offer Many Clues To Offshore Dealings by Top Chinese
     publisher: ICIJ
@@ -208,7 +190,9 @@ web:
     lang: en
     url: https://www.icij.org/investigations/panama-papers/20160406-china-red-nobility-offshore-dealings/
     excerpt: true
-    keep: [Cofic Investments]
+    keep:
+      - Cofic Investments
+      - has a son-in-law named Lee Shing Put
   # --- Zeng Qinghong ---
   - id: b01-cpc-zeng-resume
     title: 曾庆红简历
@@ -242,7 +226,7 @@ web:
     lang: en
     url: https://jamestown.org/hus-impasse-at-the-17th-party-congress/
     excerpt: true
-    keep: [two heads of the still-powerful Shanghai Faction, hatchet man]
+    keep: [ two heads of the still-powerful Shanghai Faction, hatchet man ]
   - id: b01-rfa-2016-06-16-xi-bole
     title: 习近平的“伯乐”是江泽民还是曾庆红？
     publisher: 自由亚洲电台
@@ -251,7 +235,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-06162016164258.html
     excerpt: true
-    keep: [分别是由两个“太子党”成员, 首先提名习近平的人就是, 他是曾山的儿子]
+    keep: [ 分别是由两个“太子党”成员, 首先提名习近平的人就是, 他是曾山的儿子 ]
   - id: b01-rfa-2016-06-21-xi-zeng-blood
     title: 习近平与曾庆红的关系是血浓于水
     publisher: 自由亚洲电台
@@ -260,7 +244,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-06212016102229.html
     excerpt: true
-    keep: [大内总管]
+    keep: [ 大内总管 ]
   - id: b01-bbc-2007-10-21-zeng-retires
     title: 中共十七大闭幕 曾庆红退下
     publisher: BBC 中文
@@ -268,7 +252,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7050000/newsid_7054900/7054908.stm
     excerpt: true
-    keep: [曾庆红、罗干和吴官正都不在名单上]
+    keep: [ 曾庆红、罗干和吴官正都不在名单上 ]
   - id: b01-bbc-2007-10-22-zeng-hk
     title: 分析：曾庆红退下对港澳事务的影响
     publisher: BBC 中文
@@ -277,7 +261,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7050000/newsid_7055000/7055048.stm
     excerpt: true
-    keep: [由曾庆红担任组长, 很难与北京沟通, 个人游, 脚痛下台]
+    keep: [ 由曾庆红担任组长, 很难与北京沟通, 个人游, 脚痛下台 ]
   - id: b01-rfi-2014-10-01-zeng-appears
     title: 盛传受查郭伯雄及曾庆红出席国庆招待会
     publisher: 法国国际广播电台
@@ -286,7 +270,7 @@ web:
     voice: zh
     url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20141001-%E7%9B%9B%E4%BC%A0%E5%8F%97%E6%9F%A5%E9%83%AD%E4%BC%AF%E9%9B%84%E5%8F%8A%E6%9B%BE%E5%BA%86%E7%BA%A2%E5%87%BA%E5%B8%AD%E5%9B%BD%E5%BA%86%E6%8B%9B%E5%BE%85%E4%BC%9A
     excerpt: true
-    keep: [一度盛传受到当局调查, 曾庆红]
+    keep: [ 一度盛传受到当局调查, 曾庆红 ]
   - id: b01-smh-2010-10-12-zeng-wei
     title: Mystery developer is son of former Chinese vice-president, says lawyer
     publisher: The Sydney Morning Herald
@@ -295,7 +279,7 @@ web:
     lang: en
     url: https://www.smh.com.au/business/companies/mystery-developer-is-son-of-former-chinese-vice-president-says-lawyer-20101012-16gs7.html
     excerpt: true
-    keep: [loose faction, I believe so]
+    keep: [ loose faction, I believe so ]
   - id: b01-smh-2014-06-19-zeng-wei-mansion
     title: Son of China's former vice-president Zeng Qinghong remakes Sydney mansion
     publisher: The Sydney Morning Herald
@@ -305,7 +289,7 @@ web:
     lang: en
     url: https://www.smh.com.au/national/son-of-chinas-former-vicepresident-zeng-qinghong-remakes-sydney-mansion-20140619-zsf19.html
     excerpt: true
-    keep: [32.4 million, Little is known about Zeng]
+    keep: [ 32.4 million, Little is known about Zeng ]
   - id: b01-guardian-2016-04-06-red-nobility
     title: Panama Papers reveal offshore secrets of China's red nobility
     publisher: The Guardian
@@ -314,7 +298,13 @@ web:
     lang: en
     url: https://www.theguardian.com/news/2016/apr/06/panama-papers-reveal-offshore-secrets-china-red-nobility-big-business
     excerpt: true
-    keep: [Zeng Qinghuai, brother of former vice-president Zeng Qinghong, Li Xiaolin]
+    keep:
+      - Zeng Qinghuai
+      - brother of former vice-president Zeng Qinghong
+      - Li Xiaolin
+      - the son-in-law of Zhang Gaoli
+      - There is nothing in the documents to suggest
+      - The documents show the granddaughter of a powerful Chinese leader
   # --- Huang Ju ---
   - id: b01-chinanews-2007-06-05-huang-ju-life
     title: 黄菊同志生平
@@ -347,7 +337,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6710000/newsid_6714500/6714573.stm
     excerpt: true
-    keep: [江派人物, 黄菊普遍被视为江泽民的亲信, 胰腺癌, 余慧文]
+    keep: [ 江派人物, 黄菊普遍被视为江泽民的亲信, 胰腺癌, 余慧文 ]
   - id: b01-bbc-2007-06-02-huang-dies-en
     title: Chinese Vice-Premier Huang dies
     publisher: BBC News
@@ -356,7 +346,7 @@ web:
     lang: en
     url: http://news.bbc.co.uk/2/hi/asia-pacific/6714343.stm
     excerpt: true
-    keep: [Shanghai Gang, closest allies]
+    keep: [ Shanghai Gang, closest allies ]
   - id: b01-bbc-2007-08-03-wang-weigong
     title: 上海社保案扩大 又有高官落马
     publisher: BBC 中文
@@ -364,4 +354,4 @@ web:
     voice: zh
     url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_6930000/newsid_6930500/6930583.stm
     excerpt: true
-    keep: [王维工, 瓦解]
+    keep: [ 王维工, 瓦解 ]

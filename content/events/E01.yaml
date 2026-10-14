@@ -304,9 +304,9 @@
   voices:
     - voice: official
       text: 在１９８９年春夏之交的政治风波中赵紫阳同志犯了严重错误。
-      cite: e01-xinhua-2005-01-29-zhao-ziyang
+      cite: c05-xinhua-2005-01-29-zhao-ziyang
       quote: true
-  cites: [e01-xinhua-2005-01-29-zhao-ziyang, e01-cpc-dsj-1989]
+  cites: [c05-xinhua-2005-01-29-zhao-ziyang, e01-cpc-dsj-1989]
 
 - id: e2007-17th-congress
   date: 2007-10-15
@@ -353,9 +353,9 @@
       quote: true
     - voice: scholar
       text: 不可否认，陈良宇下台这里面有权力斗争的影子，因为所谓的上海帮以陈良宇和黄菊为代表的都是江泽民提拔的人。
-      cite: e01-voa-2006-09-27-chen-liangyu
+      cite: b07-voa-2006-09-27-chen-qiu
       quote: true
-  cites: [e01-cpc-dsj-2006, e01-bbc-2006-09-25-chen-liangyu, e01-bbc-2006-09-29-chen-liangyu-ft, e01-voa-2006-09-27-chen-liangyu]
+  cites: [e01-cpc-dsj-2006, e01-bbc-2006-09-25-chen-liangyu, e01-bbc-2006-09-29-chen-liangyu-ft, b07-voa-2006-09-27-chen-qiu]
 
 - id: e2007-zheng-xiaoyu
   date: 2007-07-10

@@ -19,11 +19,11 @@
   ids: { wikidata: Q15031 }
   factions:
     - f: princelings
-      cite: b04-brookings-2013-princelings
+      cite: f01-brookings-2013-02-10-princelings
       quote: Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan
       zh: 政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山
     - f: elitist
-      cite: b04-brookings-2013-princelings
+      cite: f01-brookings-2013-02-10-princelings
       quote: the “elitist coalition,” which emerged in the Jiang Zemin era and used to be headed by Jiang and is currently led by Xi Jinping
       zh: “精英联盟”形成于江泽民时代，过去由江泽民领导，目前由习近平领导
     - f: xi-jiajun
@@ -120,7 +120,7 @@
         2016 年 10 月十八届六中全会公报写入“以习近平同志为核心的党中央”。2017 年十九大把他的思想写入党章，新一届常委会没有安排接班人，BBC 引述的观察人士认为集体领导“可能将进一步削弱”。
         2018 年 3 月 11 日，全国人大以 2958 票赞成、2 票反对、3 票弃权通过修宪，删除国家主席连任不得超过两届的规定，多名学者形容这是“政治的大倒退”。
         2021 年 11 月，十九届六中全会通过《关于党的百年奋斗重大成就和历史经验的决议》，称他是“习近平新时代中国特色社会主义思想的主要创立者”，并写明“党确立习近平同志党中央的核心、全党的核心地位”。2022 年 10 月二十大，他开启历史性的第三任期，宋文笛说新常委“完全由习近平的门徒和坚定盟友组成”，史宗瀚则说“他的行为就像一位没有任何权力限制的领导人”。
-      cites: [b04-xinhua-2016-10-27-6th-plenum, b04-bbc-2017-10-25-19th-psc, b04-bbc-2018-03-11-term-limits, b04-gov-2021-11-16-resolution, b04-bbc-2022-10-23-third-term]
+      cites: [b04-xinhua-2016-10-27-6th-plenum, b04-bbc-2017-10-25-19th-psc, b04-bbc-2018-03-11-term-limits, b04-gov-2021-11-16-resolution, b06-bbc-2022-10-23-psc]
     - h: 清零与转向
       from: 2022
       to: 2022
@@ -169,7 +169,7 @@
     - voice: zh
       quote: true
       text: 他的行为就像一位没有任何权力限制的领导人。
-      cite: b04-bbc-2022-10-23-third-term
+      cite: b06-bbc-2022-10-23-psc
   family:
     - name: 习仲勋
       rel: 父亲
@@ -328,7 +328,7 @@
   ids: { wikidata: Q18113 }
   factions:
     - f: princelings
-      cite: b04-brookings-2013-princelings
+      cite: f01-brookings-2013-02-10-princelings
       quote: Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan
       zh: 政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山
   bio: >-
@@ -380,7 +380,7 @@
       text: >-
         2003 年非典疫情暴发，北京市长孟学农因应对不力被免职，到海南才 5 个月的他于 4 月 22 日“火线”就任北京代市长，当天就去批发市场、菜市场和医药大楼查看物资短缺。第三天，他召开只开了 30 分钟的市政府常务会议部署防治，会后小汤山医院当日开工。新华社说他在半年里体重下降了 10 公斤。
         次年任市长，兼北京奥组委执行主席。2007 年进入政治局，2008 年任国务院副总理，主管金融和商贸，兼任 2010 年上海世博会组委会主任，主持了同美国和俄罗斯的一系列经贸谈判，是中美战略与经济对话的中方牵头人之一。
-      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-bbc-2012-11-14-wang-ccdi, b04-brookings-2013-princelings, b04-gov-2012-12-25-wang-profile]
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-bbc-2012-11-14-wang-ccdi, f01-brookings-2013-02-10-princelings, b04-gov-2012-12-25-wang-profile]
     - h: 打虎队长
       from: 2012
       to: 2017
@@ -408,7 +408,7 @@
       quote: true
       text: Wang, whose nickname is “the chief of the fire brigade,” is arguably the most competent policy maker in economic and financial affairs in the Chinese leadership.
       zh: 外号“救火队长”的王岐山，可以说是中国领导层中经济和金融事务上最能干的决策者。
-      cite: b04-brookings-2013-princelings
+      cite: f01-brookings-2013-02-10-princelings
     - voice: zh
       quote: true
       text: 过去五年，王岐山为习近平的反腐运动所贡献的力量为习近平在普通老百姓中收获了不少好名声。
@@ -524,7 +524,7 @@
       quote: true
       text: Some Chinese analysts argue that due to their princeling background, these leaders have more political capital and resources than did their predecessors Hu Jintao and Wen Jiabao
       zh: 一些中国分析人士认为，由于太子党背景，这几位领导人比出身寒微的前任胡锦涛、温家宝拥有更多政治资本和资源。
-      cite: b04-brookings-2013-princelings
+      cite: f01-brookings-2013-02-10-princelings
   family:
     - name: 黄敬（俞启威）
       rel: 父亲
@@ -546,7 +546,7 @@
       text: >-
         国家安全部官员，1985 年叛逃美国，导致中国间谍金无怠暴露被捕。BBC 2007 年称他两年后在南美被暗杀，美国之音 2015 年采访的前联邦调查局官员否认这一说法。
       cites: [b04-bbc-2012-06-01-state-security, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng]
-  cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng, b04-bbc-2013-03-12-cppcc-princelings, b04-cppcc-2018-03-14-wang-yang, b04-brookings-2013-princelings, wd-Q115671]
+  cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng, b04-bbc-2013-03-12-cppcc-princelings, b04-cppcc-2018-03-14-wang-yang, f01-brookings-2013-02-10-princelings, wd-Q115671]
 
 - id: liu-yunshan
   name: 刘云山

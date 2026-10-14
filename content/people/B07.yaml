@@ -150,7 +150,7 @@
       cite: b07-bbc-2015-07-20-ling-expulsion
       quote: 他与胡锦涛一样，都是共青团出身，因此深受胡绵涛重用。
     - f: xishanhui
-      cite: b07-hqrw-2015-01-06-xishanhui
+      cite: f02-hqrw-2015-01-06-xishanhui
       quote: 多家媒体称，令计划正是“西山会”的“执牛耳者”
     - f: new-gang-of-four
       cite: b07-bbc-2014-12-23-hk-press-ling
@@ -173,28 +173,28 @@
       text: >-
         1956 年生于山西平陆，父亲是山西一名处级干部，按报上常见的词给五个子女取名路线、政策、方针、计划、完成。早年下过乡，在印刷厂当过工人，1975 年进入平陆县团委。
         1979 年调入团中央，历任宣传部理论处副处长、宣传部部长。《纽约时报》称，他早年就得到胡锦涛的庇护；胡锦涛 80 年代初领导共青团，1995 年把他安排进中央办公厅。
-      cites: [b07-bjnews-2014-12-22-ling-resume, b07-bbc-2015-07-20-ling-expulsion, b07-nyt-2012-12-05-ferrari-crash]
+      cites: [b07-bjnews-2014-12-22-ling-resume, b07-bbc-2015-07-20-ling-expulsion, c05-nytcn-2012-12-05-ling-gu]
     - h: 中办大管家
       from: 1995
       to: 2012
       text: >-
         在中办从调研室三组负责人做起，历任调研室主任、中编办副主任，2007 年 9 月任中办主任，同年进入中央书记处。
         《纽约时报》引一名组织部官员说：“官员们说，令计划打的电话就相当于胡锦涛的电话。”2012 年 1 月，他以中直机关工委书记身份要求中直机关做好“保持党的纯洁性”各项工作，以迎接十八大。
-      cites: [b07-bjnews-2014-12-22-ling-resume, wd-Q497091, b07-nyt-2012-12-05-ferrari-crash, b07-xinhua-2012-01-16-ling-purity]
+      cites: [b07-bjnews-2014-12-22-ling-resume, wd-Q497091, c05-nytcn-2012-12-05-ling-gu, b07-xinhua-2012-01-16-ling-purity]
     - h: 法拉利事件与降职
       from: 2012-03
       to: 2012-11
       text: >-
         据《纽约时报》报道，2012 年 3 月 18 日凌晨，一辆黑色法拉利 Spider 在北京四环撞上护墙、车身裂成两半，令谷当场死亡，同车两名年轻藏族女子重伤。党内知情人士称，令计划动用中央警卫局协助掩盖。
         7 月讨论十八大人事时，党内元老提出此事，称“这个人不具备进入政治局的资格”。9 月 1 日他卸任中办主任，改任实权较小的统战部长；十八大仅当选中央委员。
-      cites: [b07-nyt-2012-12-05-ferrari-crash, b07-nyt-2012-09-04-ling-demotion, wd-Q497091, b07-bbc-2015-07-20-ling-expulsion]
+      cites: [c05-nytcn-2012-12-05-ling-gu, e02-nyt-2012-09-04-ling-ferrari, wd-Q497091, b07-bbc-2015-07-20-ling-expulsion]
     - h: 西山会与“新四人帮”之说
       from: 2007
       to: 2014
       text: >-
         人民网旗下的《环球人物》引媒体人罗昌平的《打铁记》说，“西山会”出现不晚于 2007 年，成员主要是山西籍高官，也有个别山西籍商人，令计划被称为其“执牛耳者”，成员还包括令政策、陈川平、刘志军、丁书苗、刘铁男、申维辰等。
         BBC 称媒体报道牵出令计划、周永康与薄熙来的“三角政治同盟”；香港《苹果日报》称“新四人帮”曾计划在十八大前发动政变，因薄熙来被捕而流产。
-      cites: [b07-hqrw-2015-01-06-xishanhui, b07-bbc-2015-07-20-ling-expulsion, b07-bbc-2014-12-23-hk-press-ling]
+      cites: [f02-hqrw-2015-01-06-xishanhui, b07-bbc-2015-07-20-ling-expulsion, b07-bbc-2014-12-23-hk-press-ling]
     - h: 落马
       from: 2013-03
       to: 2015-07
@@ -217,7 +217,7 @@
     - voice: zh
       quote: true
       text: 他是胡锦涛关系最紧密的亲信，也是胡锦涛的政治掮客
-      cite: b07-nyt-2012-12-05-ferrari-crash
+      cite: c05-nytcn-2012-12-05-ling-gu
     - voice: zh
       quote: true
       text: 被视为胡锦涛的“心腹”，甚至一度有望进入最高领导核心
@@ -236,7 +236,7 @@
       rel: 子
       text: >-
         令计划与谷丽萍的独生子。2012 年 3 月 18 日在北京驾驶法拉利撞车身亡。法院认定他曾向魏新等人索取财物，令计划事后知情未予退还。
-      cites: [b07-hqrw-2015-01-06-xishanhui, b07-nyt-2012-12-05-ferrari-crash, b07-court-2016-07-04-ling-sentence]
+      cites: [f02-hqrw-2015-01-06-xishanhui, c05-nytcn-2012-12-05-ling-gu, b07-court-2016-07-04-ling-sentence]
     - name: 令政策
       rel: 兄
       text: >-
@@ -247,7 +247,7 @@
       text: >-
         经商，别名“王诚”，是业余高尔夫好手。《纽约时报》2015 年 8 月报道他已到美国，在加州有住宅，美国官员称他若寻求庇护，“将可能成为中华人民共和国历史上最具破坏力的叛逃者”。2016 年 1 月中方首次承认他住在美国，称“中方正在处理，也在和美国进行沟通”。
       cites: [b07-bjnews-2014-12-22-ling-resume, b07-nyt-2015-08-04-ling-wancheng, b07-nyt-2016-01-18-ling-wancheng-us]
-  cites: [b07-bjnews-2014-12-22-ling-resume, b07-xinhua-2015-07-20-ling-expulsion, b07-court-2016-07-04-ling-sentence, b07-nyt-2012-12-05-ferrari-crash, b07-bbc-2014-12-23-hk-press-ling, b07-hqrw-2015-01-06-xishanhui, wd-Q497091]
+  cites: [b07-bjnews-2014-12-22-ling-resume, b07-xinhua-2015-07-20-ling-expulsion, b07-court-2016-07-04-ling-sentence, c05-nytcn-2012-12-05-ling-gu, b07-bbc-2014-12-23-hk-press-ling, f02-hqrw-2015-01-06-xishanhui, wd-Q497091]
 
 - id: xu-caihou
   name: 徐才厚

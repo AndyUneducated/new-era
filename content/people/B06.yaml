@@ -34,7 +34,7 @@
     - { title: 上海市副市长, sys: gov, place: 上海, from: 1998-02, to: 2003-02, cite: b06-chinanews-2006-09-25-han-acting }
     - { title: 上海市市长, sys: gov, place: 上海, from: 2003-02, to: 2012, cite: b06-chinanews-2006-09-25-han-acting }
     - { title: 上海市委代理书记, sys: party, place: 上海, from: 2006-09, to: 2007-03, cite: b06-chinanews-2006-09-25-han-acting }
-    - { title: 上海市委书记, sys: party, place: 上海, from: 2012-11, to: 2017-10, cite: b06-bbc-2017-10-25-19th-psc }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2012-11, to: 2017-10, cite: b05-bbc-2017-10-25-psc-profiles }
     - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: b06-xinhua-2018-03-19-han-resume }
     - { title: 中央政治局常委, sys: party, from: 2017-10, to: 2022-10, cite: b06-xinhua-2018-03-19-han-resume }
     - { title: 国务院副总理, sys: gov, from: 2018-03, to: 2023-03, cite: b06-xinhua-2018-03-19-han-resume }
@@ -67,7 +67,7 @@
       text: >-
         习近平调京后，俞正声接任上海市委书记，韩正继续任市长。2012 年十八大后，他升任上海市委书记并进入政治局，任内推动中国首个自贸区和科技创新中心建设。
         BBC 中文 2014 年引评论人士高新的话说，有人把他视为上海帮今天的代表人物，但他在习近平、俞正声先后主政上海时期已经“考验过关了”。台湾中央广播电台则说，习近平掌权后在上海持续清理江派，而韩正始终未被撼动。
-      cites: [b06-bbc-2017-10-25-19th-psc, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai, b06-xinhua-2018-03-19-han-resume]
+      cites: [b05-bbc-2017-10-25-psc-profiles, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai, b06-xinhua-2018-03-19-han-resume]
     - h: 常委与常务副总理
       from: 2017
       to: 2023
@@ -94,7 +94,7 @@
     - voice: zh
       quote: true
       text: 韩正的主要政治生涯都在上海度过，其主要政绩集中在经济改革、城市治理领域。
-      cite: b06-bbc-2017-10-25-19th-psc
+      cite: b05-bbc-2017-10-25-psc-profiles
   cites: [b06-xinhua-2018-03-19-han-resume, b06-gov-2023-03-10-han-vp, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai, wd-Q48405]
 
 - id: li-qiang
@@ -287,7 +287,7 @@
       text: >-
         2017 年 11 月 18 日晚，大兴区西红门镇新建二村发生火灾，19 人死亡、8 人受伤，死者中有 8 名儿童。蔡奇当晚赶赴现场，次日带领全体市领导在火灾现场开会，称火灾是安全生产的“灰犀牛”，部署为期 40 天的安全隐患大排查，要求“一家一家、一村一村地毯式摸排”；市长陈吉宁则要求“倒逼安全隐患突出的低端业态疏解腾退”。
         一周之内全市排查上账的安全隐患达 25395 处，大批违章出租公寓的租户、主要是外来务工者，在寒冬中被要求搬离。网民认为这是在借机清理“低端人口”；北京市安委会负责人回应称这种说法“不负责任、毫无根据”，并称没有“低端人口”一说。《纽约时报》指出，批评者认为当局是以火灾为借口加速驱赶外来人口，而压减人口本是 2014 年习近平给北京定下的任务。
-      cites: [b06-people-2017-11-20-cai-fire, b06-qq-2017-11-26-no-low-end, b06-bbc-2017-11-28-beijing-evictions, b06-nytcn-2017-12-01-beijing-migrants]
+      cites: [b06-people-2017-11-20-cai-fire, b06-qq-2017-11-26-no-low-end, e03-bbc-2017-11-28-daxing, b06-nytcn-2017-12-01-beijing-migrants]
     - h: 冬奥与党代会
       from: 2018
       to: 2022

@@ -27,7 +27,7 @@
     - { title: 外交部部长, sys: gov, from: 2013-03, to: 2022, cite: b09-zaobao-2022-10-23-wang-yi-cc }
     - { title: 国务委员, sys: gov, from: 2018-03, to: 2023-03, cite: b09-xinhua-2018-03-19-wang-yi-cv }
     - { title: 中央政治局委员、中央外事工作委员会办公室主任, sys: party, from: 2022-10, cite: b09-zaobao-2022-10-23-wang-yi-pb }
-    - { title: 外交部部长（再任）, sys: gov, from: 2023-07, cite: b09-gov-2023-07-25-order-8 }
+    - { title: 外交部部长（再任）, sys: gov, from: 2023-07, cite: b08-gov-2023-07-25-order-8 }
   life:
     - h: 兵团知青与日语
       from: 1953
@@ -52,7 +52,7 @@
       to: 2022
       text: >-
         王毅第一个外长任期里，中国外交风格明显转向强硬。澳大利亚广播公司评论说，“王毅因此被外界视为战狼外交的主要实践者”，他在这十年里也“一度被视为习近平的传话人”。2018年起他升任国务委员兼外长。新加坡国立大学学者吴木銮2023年初对德国之声说，中国战狼外交的特点仍很明显，“现在只是由秦刚来扮演温和派角色，而王毅则会继续坚持强硬立场”。学者高树超对BBC中文说，王毅过去在“战狼”外交上表现良好，他的破格留任预示今后的重点是“斗争”。
-      cites: [b09-abc-2023-07-25-wang-yi, b09-dw-2023-01-wolf-warrior, b09-bbc-2022-10-25-pb-24, b09-xinhua-2018-03-19-wang-yi-cv]
+      cites: [b09-abc-2023-07-25-wang-yi, b09-dw-2023-01-wolf-warrior, f01-bbc-2022-10-28-pb-24, b09-xinhua-2018-03-19-wang-yi-cv]
     - h: 二十大破格入局
       from: 2022
       to: 2022
@@ -64,7 +64,7 @@
       to: 2023
       text: >-
         2023年7月25日，全国人大常委会免去秦刚的外长职务，同日国家主席令第八号任命王毅为外交部部长；秦刚上任只有半年多，免职原因未作说明。王毅由此同时担任党和政府的最高外交职务，开始第三个外长任期。学者杨大利认为此举是“为了救火”；BBC中文网引述的评论说，“王毅的回巢给中国外交注入了稳定性和持续性”，也有分析担心中国外交官会再次倾向更具侵略性的“战狼”风格。受访学者当时多认为这是过渡安排，但他此后一直留任。
-      cites: [b09-gov-2023-07-25-order-8, b09-bbc-2023-07-26-qin-wang, b09-abc-2023-07-25-wang-yi, b09-mfa-2026-03-08-wang-presser]
+      cites: [b08-gov-2023-07-25-order-8, b09-bbc-2023-07-26-qin-wang, b09-abc-2023-07-25-wang-yi, b09-mfa-2026-03-08-wang-presser]
     - h: 慕尼黑、青岛与记者会
       from: 2023
       to: 2026
@@ -87,8 +87,8 @@
     - voice: zh
       quote: true
       text: 高树超认为，王毅过去在“战狼”外交上表现良好，张又侠则有参加越南战争的实战经验，这预示未来的重中之重是“斗争”。
-      cite: b09-bbc-2022-10-25-pb-24
-  cites: [b09-xinhua-2018-03-19-wang-yi-cv, b09-xinhua-2022-10-23-wang-yi-cv, b09-gov-2023-07-25-order-8, b09-zaobao-2022-10-23-wang-yi-pb, b09-abc-2023-07-25-wang-yi, wd-Q701801]
+      cite: f01-bbc-2022-10-28-pb-24
+  cites: [b09-xinhua-2018-03-19-wang-yi-cv, b09-xinhua-2022-10-23-wang-yi-cv, b08-gov-2023-07-25-order-8, b09-zaobao-2022-10-23-wang-yi-pb, b09-abc-2023-07-25-wang-yi, wd-Q701801]
 
 - id: liu-he
   name: 刘鹤
@@ -213,7 +213,7 @@
     - { title: 中央组织部常务副部长, sys: party, from: 2013-04, to: 2017-10, cite: b09-zaobao-2017-10-24-chen-xi }
     - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: b09-people-2018-04-chen-xi-cv }
     - { title: 中央组织部部长, sys: party, from: 2017-10, to: 2023-04, cite: b09-zaobao-2023-04-26-chen-xi-out }
-    - { title: 中央党校（国家行政学院）校长, sys: party, from: 2017-10, to: 2026, cite: b09-cna-2026-06-06-cai-qi-school }
+    - { title: 中央党校（国家行政学院）校长, sys: party, from: 2017-10, to: 2026, cite: b06-cna-2026-06-06-cai-party-school }
   life:
     - h: 工人与工农兵学员
       from: 1953
@@ -256,7 +256,7 @@
       to: 2026
       text: >-
         交出中组部后，陈希仍保留中央党校（国家行政学院）校长一职。2026年6月5日，政治局常委蔡奇首次以中央党校校长身份出席毕业典礼；中央社引港媒《星岛日报》说，陈希卸任中组部长后仍担任党校校长，“至此番卸任”，党校校长重新由政治局常委兼任。联合新闻网统计，陈希任校长长达9年。此后未见他担任其他公开职务。
-      cites: [b09-cna-2026-06-06-cai-qi-school, b09-udn-2026-06-06-cai-qi-school]
+      cites: [b06-cna-2026-06-06-cai-party-school, b09-udn-2026-06-06-cai-qi-school]
   assess:
     - voice: zh
       quote: true
@@ -275,7 +275,7 @@
       quote: true
       text: 打破了長達28年中央黨校校長由中央政治局常委兼任的慣例
       cite: b09-udn-2026-06-06-cai-qi-school
-  cites: [b09-people-2018-04-chen-xi-cv, b09-zaobao-2017-10-24-chen-xi, b09-zaobao-2023-04-26-chen-xi-out, b09-cna-2026-06-06-cai-qi-school, wd-Q8293788]
+  cites: [b09-people-2018-04-chen-xi-cv, b09-zaobao-2017-10-24-chen-xi, b09-zaobao-2023-04-26-chen-xi-out, b06-cna-2026-06-06-cai-party-school, wd-Q8293788]
 
 - id: hu-chunhua
   name: 胡春华
@@ -347,7 +347,7 @@
       to: 2022
       text: >-
         2022年10月二十大，59岁的胡春华仍当选中央委员，却没有进入24人的新一届政治局，而他主管的脱贫攻坚一年多前才被宣布“全面胜利”。法新社的说法是，这位“一度被外界看好的中共政治明星”不但没有入常，“甚至没有进入二十届政治局委员会”。中央社说他从曾经的“太子”沦为“出局”，并引分析以“灭团”形容团派处境；BBC中文网把胡锦涛、李克强、胡春华并列为团派代表，认为团派在习近平主政时期已“逐步退场”。
-      cites: [b09-zaobao-2022-10-23-hu-out, b09-cna-2022-10-23-hu-chunhua, b09-bbc-2022-10-25-pb-24, b09-bbc-2022-10-22-20th-close]
+      cites: [b09-zaobao-2022-10-23-hu-out, b09-cna-2022-10-23-hu-chunhua, f01-bbc-2022-10-28-pb-24, b09-bbc-2022-10-22-20th-close]
     - h: 政协“新兵”
       from: 2023
       to: 2026
@@ -422,7 +422,7 @@
       to: 2019
       text: >-
         2016年8月陈全国调任新疆党委书记兼兵团第一政委。2017年2月，他在乌鲁木齐万人反恐维稳誓师大会上宣称“危害不除，新疆难安”，要求对暴恐分子“追着打、压着打、挖着打”。同年10月他进入中央政治局。《纽约时报》2019年11月根据403页泄露的内部文件报道，陈全国上任后新疆的拘禁营迅速扩大，他发布了“应收尽收”的命令；同月国际调查记者同盟公布“中国电文”，其中一份文件显示2017年仅一周就有1.5万人被送往再教育营。
-      cites: [b09-xinhua-2017-10-25-chen-quanguo-cv, b09-chinanews-2017-02-28-chen-rally, b09-nyt-2019-11-16-xinjiang-papers, b09-bbc-2019-11-25-china-cables]
+      cites: [b09-xinhua-2017-10-25-chen-quanguo-cv, b09-chinanews-2017-02-28-chen-rally, b09-nyt-2019-11-16-xinjiang-papers, e03-bbc-2019-11-25-china-cables]
     - h: 铁腕治疆
       from: 2016-08
       to: 2021-12
@@ -440,7 +440,7 @@
       to: 2022-05
       text: >-
         2022年5月，BBC等多家国际媒体发布“新疆公安文件”，其中收录了陈全国对军队和警察系统高级干部的讲话：“对于一些人，甚至5年的再教育可能是不够的”；“这些人一旦放出去，问题又会重新出现，这就是新疆的现实。”BBC认为，这似乎承认只要维吾尔人继续忠于自己的民族身份或信仰，打压就不会停止。这批文件是BBC等媒体当年早些时候收到的，经过数月调查和真伪鉴定才发表。
-      cites: [b09-bbc-2022-05-24-police-files, b09-cna-2022-06-15-chen-rural]
+      cites: [e04-bbc-2022-05-25-xinjiang-police-files, b09-cna-2022-06-15-chen-rural]
     - h: 闲职与退出
       from: 2022-06
       to: 2022-10
@@ -464,7 +464,7 @@
       quote: true
       text: 他因在任内通过铁腕政策压制该地区的维吾尔族和其他穆斯林少数民族成为西方国家制裁的目标
       cite: b09-bbc-2021-12-26-chen-leaves
-  cites: [b09-xinhua-2017-10-25-chen-quanguo-cv, b09-thepaper-2022-06-14-chen-rural, b09-nyt-2019-11-16-xinjiang-papers, b09-bbc-2022-05-24-police-files, wd-Q551462]
+  cites: [b09-xinhua-2017-10-25-chen-quanguo-cv, b09-thepaper-2022-06-14-chen-rural, b09-nyt-2019-11-16-xinjiang-papers, e04-bbc-2022-05-25-xinjiang-police-files, wd-Q551462]
 
 - id: he-lifeng
   name: 何立峰

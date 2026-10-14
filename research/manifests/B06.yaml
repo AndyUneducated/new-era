@@ -31,6 +31,15 @@ web:
       - 成为时任上海市委书记习近平的政治秘书
       - 不久后又被授予习近平个人办公室主任的新头衔
       - 被视为是习近平的“左膀右臂”
+      - 习近平一如所料
+      - 新一任常委中没有较年轻的潜在接班人
+      - 他的行为就像一位没有任何权力限制的领导人
+      - 完全由习近平的门徒和坚定盟友组成
+      - 不仅所有政治局常委都来自习近平派系
+      - 赢家通吃的政治时代已经来临
+      - 政治秘书
+      - 秘书角色
+      - 福建和浙江的旧部
   - id: b06-bbc-2022-09-psc-candidates
     title: 中共二十大：谁有可能跻身新一届政治局常委
     publisher: BBC 中文
@@ -101,16 +110,6 @@ web:
       - 成為上海50多年來最年輕的市長
       - 2007年3月，原任中共浙江省委書記的習近平調任上海市委書記
       - 習近平2012年掌權後，在上海清理江派的動作從未停過
-  - id: b06-bbc-2017-10-25-19th-psc
-    title: 中共十九大七常委档案：细看中国最有权势的七个人
-    publisher: BBC 中文
-    date: 2017-10-25
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-41745184
-    excerpt: true
-    keep:
-      - 韩正的主要政治生涯都在上海度过
-      - 2012年中共十八大后，韩正升任中共上海市委书记
   - id: b06-xinhua-2019-11-06-han-lam
     title: 韩正会见香港特别行政区行政长官林郑月娥
     publisher: 新华社
@@ -315,18 +314,6 @@ web:
     url: https://web.archive.org/web/20171127013247/https://news.qq.com/a/20171126/000757.htm
     start: 本报讯 11月18日晚
     end: 建立起长久的城市安全保障机制。
-  - id: b06-bbc-2017-11-28-beijing-evictions
-    title: 大批北京租户遭驱离后引反思：如何处理外来人口问题？
-    publisher: BBC 中文
-    date: 2017-11-28
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-42134392
-    excerpt: true
-    keep:
-      - 北京大兴区大火吞噬了19人生命后
-      - 有网民认为官方这是在借机
-      - 争议最多的就是“低端人口”一词
-      - 而不是去驱赶人
   - id: b06-nytcn-2017-12-01-beijing-migrants
     title: 北京驱逐外来务工者，数万人寒冬中流离失所
     publisher: 纽约时报中文网
@@ -379,6 +366,7 @@ web:
       - 這也意味著中共中央黨校校長再次由政治局常委級別領導人兼任
       - 路透社報導引述蘇黎世大學
       - 是習近平實際上的幕僚長
+      - 陳希仍擔任中共中央黨校校長
   - id: b06-mfa-2026-09-23-xi-us-trip
     title: 习近平离京对美国进行国事访问
     publisher: 外交部

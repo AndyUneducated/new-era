@@ -59,7 +59,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/06/140630_china_officals
     excerpt: true
-    keep: [周永康关系密切]
+    keep: [ 周永康关系密切 ]
   # 李东生
   - id: c03-mos-2013-12-20-li-dongsheng-probe
     title: 公安部副部长李东生接受组织调查
@@ -159,7 +159,7 @@ web:
     voice: zh
     url: http://www.bbc.com/zhongwen/simp/china/2015/07/150724_china_hebei_provincial_zhoubenshun
     excerpt: true
-    keep: [周永康]
+    keep: [ 周永康 ]
   - id: c03-ccdi-2015-08-18-yang-dongliang-probe
     title: 国家安全生产监督管理总局局长杨栋梁接受组织调查
     publisher: 中央纪委监察部网站
@@ -317,7 +317,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/08/150810_china_gujunshan_sentence
     excerpt: true
-    keep: [供出徐才厚之犯罪详情, 总后勤部副部长]
+    keep: [ 供出徐才厚之犯罪详情, 总后勤部副部长 ]
   # 刘铁男
   - id: c03-jjckb-2013-05-12-liu-tienan-probe
     title: 国家能源局原局长刘铁男接受组织调查
@@ -375,7 +375,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/10/151012_lichuncheng_sentence
     excerpt: true
-    keep: [周永康的亲信, 被提拔为享受副省级待遇的成都市长]
+    keep: [ 周永康的亲信, 被提拔为享受副省级待遇的成都市长 ]
   # 万庆良
   - id: c03-ccdi-2014-06-27-wan-qingliang-probe
     title: 广东省委常委、广州市委书记万庆良接受组织调查
@@ -849,7 +849,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20260623-9250598
     excerpt: true
-    keep: [今年65岁的魏小东, 2016年，魏小东出任]
+    keep: [ 今年65岁的魏小东, 2016年，魏小东出任 ]
   # 徐留平
   - id: c03-xinhua-2026-05-23-xu-liuping-probe
     title: 中华全国总工会党组书记、副主席、书记处第一书记徐留平接受审查调查
@@ -884,15 +884,6 @@ web:
     url: http://www.xinhuanet.com/politics/2018-07/20/c_1123155908.htm
     start: "近日，中央批准：张硕辅同志任广东省委"
     end: "2018.07—，广东省委常委、广州市委书记"
-  # 2025 年十月被开除的上将
-  - id: c03-mod-2025-10-17-nine-generals
-    title: 何卫东、苗华等9人严重违纪违法被开除党籍军籍
-    publisher: 国防部网
-    date: 2025-10-17
-    voice: official
-    url: http://www.mod.gov.cn/gfbw/qwfb/16416031.html
-    start: "10月17日下午，国防部新闻发言人张"
-    end: "纯洁巩固、更具强大凝聚力战斗力。"
   - id: c03-xinhua-2025-10-28-npc-notice-13
     title: 全国人民代表大会常务委员会公告〔十四届〕第十三号
     publisher: 新华网
@@ -901,14 +892,6 @@ web:
     url: http://www.news.cn/politics/20251028/5fdcc325574f48c0b7f7e9f56f76284c/c.html
     start: "&emsp;&emsp;广西壮族自治"
     end: "emsp;&emsp;特此公告。"
-  - id: c03-bbc-2025-10-nine-generals
-    title: 中共四中全会：解放军九上将同时官宣落马背后的潜在逻辑和补缺悬念
-    publisher: BBC中文网
-    date: 2025-10
-    voice: zh
-    url: https://www.bbc.com/zhongwen/articles/cd042g90z48o/simp
-    excerpt: true
-    keep: [都出身于31集团军, 显著的“派系标签”, 王春宁虽然不属于, 何宏军曾在兰州军区]
   - id: c03-zaobao-2025-10-18-nine-generals
     title: 何卫东等九名上将齐被开除 四中全会或增补军委副主席和委员
     publisher: 联合早报
@@ -916,7 +899,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20251018-7682295
     excerpt: true
-    keep: [秦树桐和王春宁曾长期任职于原南京军区]
+    keep: [ 秦树桐和王春宁曾长期任职于原南京军区 ]
   - id: c03-xinhua-2020-12-18-generals-promoted
     title: 中央军委举行晋升上将军衔警衔仪式（2020年12月）
     publisher: 新华网
@@ -982,7 +965,7 @@ web:
     lang: en
     url: https://www.straitstimes.com/asia/chinas-communist-party-removes-ex-foreign-defence-ministers-from-top-body
     excerpt: true
-    keep: [shake-up of the Rocket Force leadership]
+    keep: [ shake-up of the Rocket Force leadership ]
   - id: c03-zaobao-2023-07-28-rocket-force
     title: 港媒：中国火箭军现任和前任司令员接受反腐败调查
     publisher: 联合早报
@@ -990,7 +973,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20230728-1418465
     excerpt: true
-    keep: [李玉超]
+    keep: [ 李玉超 ]
   # 赵正永
   - id: c03-ccdi-2019-01-15-zhao-zhengyong-probe
     title: 陕西省委原书记赵正永涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查
@@ -1065,7 +1048,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-38459576
     excerpt: true
-    keep: [周永康的亲信, 1969年参军入伍, 转任中国军方副总参谋长]
+    keep: [ 周永康的亲信, 1969年参军入伍, 转任中国军方副总参谋长 ]
   - id: c03-xinhua-2016-07-09-tian-xiusi-probe
     title: 空军原政委田修思因涉嫌严重违纪被立案审查
     publisher: 新华网（中国军网稿）
@@ -1081,4 +1064,4 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/07/160709_china_anticorruption_tianxiusi
     excerpt: true
-    keep: [郭伯雄两位上将级高官, 南疆军区政委]
+    keep: [ 郭伯雄两位上将级高官, 南疆军区政委 ]

@@ -19,11 +19,11 @@
   ids: { wikidata: Q15029 }
   factions:
     - f: tuanpai
-      cite: b02-brookings-power-shift
+      cite: f01-brookings-2012-04-16-power-shift
       quote: the populist coalition consists of former Chinese Communist Youth League officials, known as tuanpai, who comprise Hu’s power base
       zh: 民粹联盟由前共青团官员组成，即所谓“团派”，他们是胡锦涛的权力基础。
     - f: populist
-      cite: b02-brookings-power-shift
+      cite: f01-brookings-2012-04-16-power-shift
       quote: 'The two factions can be labeled the “populist coalition,” led by Hu'
       zh: 两派可称为由胡锦涛领导的“民粹联盟”……
   bio: >-
@@ -75,7 +75,7 @@
       text: >-
         布鲁金斯学会的李成把胡温时期的高层政治描述为“一党两联盟”：以胡锦涛为首、以团派为核心的“民粹联盟”强调社会公正与社会凝聚，与江泽民时代形成的“精英联盟”相互制衡；他认为两派张力使决策更冗长，甚至可能陷入僵局。
         批评者的评价更为尖锐。BBC 中文网 2012 年的一篇评论把胡锦涛时代的施政风格概括为“绕着走”，认为他以“社会和谐”回避政治体制改革，同时强化维稳机器，结果“和谐”在网络上沦为“河蟹”，成了讥讽的对象。
-      cites: [b02-brookings-power-shift, b02-brookings-two-coalitions, b02-bbc-2012-10-29-hu-era]
+      cites: [f01-brookings-2012-04-16-power-shift, f01-brookings-2009-one-party-two-coalitions, b02-bbc-2012-10-29-hu-era]
     - h: 十八大“裸退”
       from: 2012
       to: 2013
@@ -89,7 +89,7 @@
       text: >-
         2022 年 10 月 22 日二十大闭幕会，媒体获准入场后不久，坐在习近平身旁的胡锦涛被工作人员搀扶离开主席台。BBC 记录，他离场前曾伸手去拿习近平面前的文件，习近平随即按住卷宗；BBC 还写道，党代会通常高度脚本化，“这让人们猜测胡锦涛离开的时机可能并非突发事件”。
         当晚新华社只在英文推特上回应，称胡锦涛近来在休养，仍坚持出席闭幕会，“会议期间身体不适，工作人员为了他的健康，陪他到会场旁的房间休息”，并说他“现在好多了”。BBC 指出，“中国国内媒体并未报道该事件”，这一说法也没有出现在新华社中文网站。
-      cites: [b02-bbc-2022-10-22-hu-escorted, b02-guardian-2022-10-23-hu-jintao]
+      cites: [b02-bbc-2022-10-22-hu-escorted, e04-guardian-2022-10-23-hu-jintao]
     - h: 元老现状
       from: 2022
       to: 2026
@@ -106,7 +106,7 @@
       quote: true
       text: The elitist coalition tends to emphasize economic efficiency and GDP growth, while the populist coalition stands for social justice and social cohesion.
       zh: 精英联盟倾向于强调经济效率和 GDP 增长，民粹联盟则主张社会公正与社会凝聚。
-      cite: b02-brookings-power-shift
+      cite: f01-brookings-2012-04-16-power-shift
     - voice: zh
       text: BBC 中文网评论认为胡锦涛时代是“绕着走”的十年：并非看不到问题，而是在强人离去、江系掣肘之下步步小心，回避政改，以社会和谐论代替制度改革。
       cite: b02-bbc-2012-10-29-hu-era
@@ -123,7 +123,7 @@
     - b02-gov-2008-03-16-hu-resume
     - b02-npc-2007-10-24-17th-report
     - b02-people-2012-11-18-cmc-meeting
-    - b02-brookings-power-shift
+    - f01-brookings-2012-04-16-power-shift
     - b02-bbc-2022-10-22-hu-escorted
     - b02-zaobao-2026-08-17-jiang-centenary
     - wd-Q15029
@@ -149,7 +149,7 @@
   ids: { wikidata: Q16628 }
   factions:
     - f: populist
-      cite: b02-brookings-two-coalitions
+      cite: f01-brookings-2009-one-party-two-coalitions
       quote: The Populist Coalition is currently led by President Hu Jintao and Premier Wen Jiabao.
       zh: 民粹联盟目前由国家主席胡锦涛和总理温家宝领导。
   bio: >-
@@ -277,7 +277,7 @@
   ids: { wikidata: Q360563 }
   factions:
     - f: elitist
-      cite: b02-brookings-power-shift
+      cite: f01-brookings-2012-04-16-power-shift
       quote: the “elitist coalition,” which emerged in the Jiang era and is currently led by Wu Bangguo, chairman of the national legislature
       zh: “精英联盟”形成于江泽民时代，目前由全国人大委员长吴邦国领导。
     - f: jiang-shanghai
@@ -363,7 +363,7 @@
     - b02-gov-2024-10-14-wu-bangguo-life
     - b02-npc-2011-03-10-npcsc-report
     - b02-chinanews-2009-03-09-wu-west
-    - b02-brookings-power-shift
+    - f01-brookings-2012-04-16-power-shift
     - b02-rfa-2024-10-08-wu-death
     - b02-rfi-2024-10-08-wu-five-nos
     - wd-Q360563
@@ -452,7 +452,7 @@
       text: >-
         2016 年 4 月，《卫报》根据“巴拿马文件”报道，贾庆林的孙女 Jasmine Li 在 2010 年 12 月刚进入斯坦福大学读书时，就成为两家英属维尔京群岛公司的唯一股东，当时她的祖父是中国排名第四的领导人。
         退休后贾庆林很少露面。2026 年 8 月 17 日江泽民诞辰百年纪念大会上，他与俞正声等前任政协主席一同坐在主席台第一排。
-      cites: [b02-guardian-2016-04-06-panama-china, b02-zaobao-2026-08-17-jiang-centenary]
+      cites: [b01-guardian-2016-04-06-red-nobility, b02-zaobao-2026-08-17-jiang-centenary]
   assess:
     - voice: west
       quote: true
@@ -477,13 +477,13 @@
       rel: 孙女
       text: >-
         据《卫报》2016 年 4 月 6 日根据“巴拿马文件”所作的报道，她在 2010 年 12 月入读斯坦福大学之初，成为两家英属维尔京群岛公司的唯一股东。
-      cites: [b02-guardian-2016-04-06-panama-china]
+      cites: [b01-guardian-2016-04-06-red-nobility]
   cites:
     - b02-chinanews-2007-10-22-jia-resume
     - b02-bbc-2003-03-13-jia-cppcc
     - b02-irishtimes-2000-jia-wife
     - b02-bbc-2011-07-22-lai-politics
-    - b02-guardian-2016-04-06-panama-china
+    - b01-guardian-2016-04-06-red-nobility
     - b02-zaobao-2026-08-17-jiang-centenary
     - wd-Q380590
 

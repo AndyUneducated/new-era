@@ -15,6 +15,9 @@
 - **不要改**别的批次的文件、`src/`、`tools/`、`research/roster.yaml`、`*-plan.yaml`。需要新的人物、派系、概念 id 时，在最终回报里提出。
 - **抓取时总是写明 id**：`node tools/fetch-web.ts --report=<批次> id1 id2 ...`。不带 id 会把所有批次的待抓来源一起抓。
 - **校验只校验自己：** `node tools/build-data.ts --batch=<批次>`。完整报告写在 `.probe/build-report-<批次>.txt`（UTF-8；控制台中文会乱码，读这个文件）。必须做到 **0 error**。warning 中“planned but has no entry yet”是正常的（别的批次还没写完）。
+- **第二轮起，已整合的内容都能看到、都能引用。** `--batch` 只跳过 `research/round.yaml` 里本轮其他批次的文件，前几轮的人物、派系、事件、概念、来源全部加载。所以：
+  - **登记来源前先查是否已有。** 在 `research/manifests/*.yaml` 里 Grep 网址（或网址的一段、标题关键词）。已登记的直接引用原 id，它的存档文本在 `sources/text/<id>.txt`，引文从那里复制。同一网址用本批次前缀再登记一次会**报错**。已有 id 的存档只是摘录、缺你要的段落时，在回报里写明“请给 <id> 加 keep: …”，自己另找来源，不要重复登记。
+  - 引用别的批次的人物、派系、事件 id 前，先在 `content/` 里 Grep 确认存在（或在 roster / plan 里）。
 - 不要 `git commit`，不要 `npm install`，不要启动 dev server。
 
 ## 2. 来源

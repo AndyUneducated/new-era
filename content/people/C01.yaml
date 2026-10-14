@@ -21,7 +21,7 @@
     - { title: 中央书记处书记, sys: party, from: 1989-06, to: 1992-10, cite: c01-people-2013-02-26-li-ruihuan }
     - { title: 全国政协主席, sys: other, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-ruihuan }
   ids: { wikidata: Q704916 }
-  cites: [wd-Q704916, c01-people-2013-02-26-li-ruihuan, c01-zaobao-2026-08-17-jiang-centenary]
+  cites: [wd-Q704916, c01-people-2013-02-26-li-ruihuan, b02-zaobao-2026-08-17-jiang-centenary]
 
 - id: wei-jianxing
   name: 尉健行
@@ -72,7 +72,7 @@
     - { title: 国务院副总理, sys: gov, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-lanqing }
     - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-li-lanqing }
   ids: { wikidata: Q388125 }
-  cites: [wd-Q388125, c01-people-2013-02-26-li-lanqing, c01-zaobao-2026-08-17-jiang-centenary]
+  cites: [wd-Q388125, c01-people-2013-02-26-li-lanqing, b02-zaobao-2026-08-17-jiang-centenary]
 
 - id: ding-guangen
   name: 丁关根
@@ -855,32 +855,6 @@
     - { title: 中央军委委员, sys: army, from: 2007-10, to: 2017-10, cite: c01-people-2012-09-26-wu-shengli }
   ids: { wikidata: Q717014 }
   cites: [wd-Q717014, c01-people-2012-09-26-wu-shengli]
-
-- id: xu-qiliang
-  name: 许其亮
-  gender: m
-  ethnicity: 汉族
-  born: 1950-03-29
-  died: 2025-06-02
-  birthplace: 山东临朐
-  joinedParty: 1967-07
-  roles: [pb, cmc, cc, general]
-  status: dead
-  statusNote: 2023 年 3 月卸任，2025 年 6 月 2 日在北京病逝。
-  tier: 2
-  headline: 中央军委副主席（2012–2023）
-  bio: >-
-    飞行员出身，1994 年任空军参谋长，1999 年任沈阳军区空军司令员，2004 年任副总参谋长，2007 年任空军司令员并进入中央军委。
-    2012 年十八大升任军委副主席、政治局委员，2017 年起协助习近平负责军委日常工作，参与主持军队改革，2023 年卸任，2025 年病逝。
-  positions:
-    - { title: 空军参谋长, sys: army, from: 1994-10, to: 1999-02, cite: c01-news-2025-06-08-xu-qiliang-life }
-    - { title: 沈阳军区副司令员兼沈阳军区空军司令员, sys: army, from: 1999-02, to: 2004-06, cite: c01-news-2025-06-08-xu-qiliang-life }
-    - { title: 副总参谋长, sys: army, from: 2004-06, to: 2007-09, cite: c01-news-2025-06-08-xu-qiliang-life }
-    - { title: 空军司令员, sys: army, from: 2007-09, to: 2012-11, cite: c01-news-2025-06-08-xu-qiliang-life }
-    - { title: 中央军委副主席, sys: army, from: 2012-11, to: 2023-03, cite: c01-news-2025-06-08-xu-qiliang-life }
-    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2022-10, cite: c01-news-2025-06-08-xu-qiliang-life }
-  ids: { wikidata: Q276049 }
-  cites: [wd-Q276049, c01-news-2025-06-08-xu-qiliang-life]
 
 - id: xie-fei
   name: 谢非

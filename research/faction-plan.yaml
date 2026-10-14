@@ -30,3 +30,10 @@
 - { id: fujian-generals, name: 东南系 / 第 31 集团军旧部, frame: army }
 - { id: equipment-system, name: 总装 / 装备发展部系, frame: army }
 - { id: northwest-army, name: 西北军系（原兰州军区）, frame: army }
+# round 2 (F03)
+- { id: conservatives, name: 保守派（李鹏、陈云系）, frame: classic }
+- { id: hebei-zhengding, name: 河北 / 正定旧部, frame: xi }
+- { id: sun-lijun-gang, name: 孙力军政治团伙, frame: purged }
+- { id: he-miao, name: 何卫东、苗华案（2024–）, frame: purged }
+- { id: southwest-army, name: 西南军系（原成都军区、第 14 集团军）, frame: army }
+- { id: dongbei-army, name: 东北军系（原沈阳军区）, frame: army }

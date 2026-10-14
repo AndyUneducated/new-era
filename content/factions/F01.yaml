@@ -61,7 +61,7 @@
     - voice: zh
       text: >-
         分析人士认为，刘亚洲案不仅是习近平整肃清洗军中异己、排挤和边缘化潜在政敌的一部分，也标志着习近平与曾经帮助他稳固大位的“红二代”“太子党”彻底决裂。
-      cite: f01-voa-2024-04-04-princelings
+      cite: c05-voa-2024-04-04-princelings
       quote: true
     - voice: scholar
       text: >-
@@ -73,7 +73,7 @@
     - f01-brookings-zh-team-of-rivals
     - f01-brookings-2013-02-10-princelings
     - f01-voa-2012-11-04-who-is-who
-    - f01-voa-2024-04-04-princelings
+    - c05-voa-2024-04-04-princelings
     - f01-thinkchina-2022-09-27-factions
 
 - id: petroleum
@@ -91,7 +91,7 @@
     - voice: official
       text: >-
         据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
-      cite: f01-cnr-2015-10-15-zhou-disciples
+      cite: b03-cnr-2015-10-15-zhou-disciples
       quote: true
     - voice: scholar
       text: >-
@@ -99,8 +99,8 @@
       cite: f01-bbc-2014-07-30-zhou-analysis
       quote: true
   cites:
-    - f01-cnr-2015-10-15-zhou-disciples
-    - f01-bbc-2015-06-11-zhou-profile
+    - b03-cnr-2015-10-15-zhou-disciples
+    - b03-bbc-2015-06-11-zhou-profile
     - f01-bbc-2014-07-30-zhou-analysis
 
 - id: zhengfa
@@ -119,16 +119,16 @@
     - voice: zh
       text: >-
         其实权之大非中共其他政治局常委可比，被人称为“政法王”。
-      cite: f01-bbc-2015-06-11-zhou-profile
+      cite: b03-bbc-2015-06-11-zhou-profile
       quote: true
     - voice: official
       text: >-
         周本顺也曾是周永康政法系统的“身边人”
-      cite: f01-cnr-2015-10-15-zhou-disciples
+      cite: b03-cnr-2015-10-15-zhou-disciples
       quote: true
   cites:
-    - f01-bbc-2015-06-11-zhou-profile
-    - f01-cnr-2015-10-15-zhou-disciples
+    - b03-bbc-2015-06-11-zhou-profile
+    - b03-cnr-2015-10-15-zhou-disciples
     - f01-bbc-2014-07-30-zhou-analysis
     - f01-brookings-2013-02-10-princelings
 
@@ -222,12 +222,12 @@
     - voice: zh
       text: >-
         而刘锐绍认为，习近平在2014年初集中权力以后，中国只有一个派，就是“习派”。
-      cite: f01-bbc-2017-10-25-19th-psc
+      cite: b04-bbc-2017-10-25-19th-psc
       quote: true
     - voice: scholar
       text: >-
         新常委阵容传达了一个明确信号——赢家通吃的政治时代已经来临。
-      cite: f01-bbc-2022-10-23-20th-psc
+      cite: b06-bbc-2022-10-23-psc
       quote: true
     - voice: scholar
       text: >-
@@ -242,9 +242,9 @@
       quote: true
   cites:
     - f01-rfa-2019-02-22-shaanxi
-    - f01-bbc-2017-10-25-19th-psc
+    - b04-bbc-2017-10-25-19th-psc
     - f01-voa-2022-10-24-xi-jiajun
-    - f01-bbc-2022-10-23-20th-psc
+    - b06-bbc-2022-10-23-psc
     - f01-dw-2023-03-12-xi-jiajun
     - f01-bbc-2022-10-28-pb-24
     - f01-thinkchina-2022-09-27-factions
@@ -350,7 +350,7 @@
     - f01-brookings-2017-new-politburo
     - f01-rfa-2019-02-22-shaanxi
     - f01-voa-2022-10-24-xi-jiajun
-    - f01-voa-2024-04-04-princelings
+    - c05-voa-2024-04-04-princelings
 
 - id: xi-shanghai
   name: 上海旧部
@@ -444,12 +444,12 @@
     - voice: zh
       text: >-
         马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰。
-      cite: f01-bbc-2026-07-14-ma-xingrui
+      cite: b08-bbc-2026-07-14-ma
       quote: true
   cites:
     - f01-zaobao-2022-10-24-aerospace
     - f01-cna-2022-10-27-military-industry
-    - f01-bbc-2026-07-14-ma-xingrui
+    - b08-bbc-2026-07-14-ma
     - f01-bbc-2022-10-28-pb-24
 
 - id: mishu
@@ -476,12 +476,12 @@
     - voice: official
       text: >-
         其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙
-      cite: f01-cnr-2015-10-15-zhou-disciples
+      cite: b03-cnr-2015-10-15-zhou-disciples
       quote: true
   cites:
     - f01-bbc-2002-shanghai-gang
     - f01-rfi-2013-10-15-xishanhui
-    - f01-cnr-2015-10-15-zhou-disciples
+    - b03-cnr-2015-10-15-zhou-disciples
     - f01-bbc-2013-05-17-ding-xuexiang
     - f01-voa-2022-10-24-xi-jiajun
     - f01-dw-2023-03-12-xi-jiajun
@@ -504,7 +504,7 @@
     - voice: official
       text: >-
         周永康、薄熙来、郭伯雄、徐才厚、令计划等人，不仅经济上贪婪、生活上腐化，而且政治上野心膨胀，大搞阳奉阴违、结党营私、拉帮结派等政治阴谋活动。
-      cite: f01-xinhua-2017-01-01-xi-speech
+      cite: b03-xinhua-2017-01-01-xi-6th-plenum
       quote: true
     - voice: zh
       text: >-
@@ -518,9 +518,9 @@
       quote: true
   cites:
     - f01-bbc-2014-12-22-ling-jihua
-    - f01-xinhua-2017-01-01-xi-speech
+    - b03-xinhua-2017-01-01-xi-6th-plenum
     - f01-nyt-2016-01-28-conspiracy
-    - f01-bbc-2017-01-03-conspiracy
+    - b03-bbc-2017-01-02-xi-conspiracy
 
 - id: zhou-clique
   name: 周永康系（石油、四川、政法）
@@ -537,12 +537,12 @@
     - voice: official
       text: >-
         起自大庆油田六七三厂地质队的周永康，仕途生涯历经中石油总经理、四川省委书记、公安部部长、中央政法委书记等重要岗位，其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙。
-      cite: f01-cnr-2015-10-15-zhou-disciples
+      cite: b03-cnr-2015-10-15-zhou-disciples
       quote: true
     - voice: zh
       text: >-
         一年时间内，周永康在四川、石油和政法系统的亲信人马纷纷因“严重违纪”而下台受调查。
-      cite: f01-bbc-2015-06-11-zhou-profile
+      cite: b03-bbc-2015-06-11-zhou-profile
       quote: true
     - voice: zh
       text: >-
@@ -550,8 +550,8 @@
       cite: f01-bbc-2014-07-30-zhou-analysis
       quote: true
   cites:
-    - f01-cnr-2015-10-15-zhou-disciples
-    - f01-bbc-2015-06-11-zhou-profile
+    - b03-cnr-2015-10-15-zhou-disciples
+    - b03-bbc-2015-06-11-zhou-profile
     - f01-bbc-2014-07-30-zhou-analysis
 
 - id: xishanhui
@@ -605,7 +605,7 @@
       quote: true
   cites:
     - f01-thepaper-2017-guo-xu
-    - f01-xinhua-2017-01-01-xi-speech
+    - b03-xinhua-2017-01-01-xi-6th-plenum
 
 - id: rocket-equipment
   name: 火箭军与装备系统（2023–）
@@ -632,14 +632,14 @@
     - voice: scholar
       text: >-
         此前的火箭军窝案，是因近年对战略核武器大量投资涉及庞大资金，使一批军官在更少监督下腐化
-      cite: f01-bbc-2025-10-23-nine-generals
+      cite: b04-bbc-2025-10-nine-generals
       quote: true
   cites:
     - f01-bbc-2023-08-01-rocket-force
     - f01-xinhua-2024-06-27-li-shangfu
     - f01-xinhua-2024-06-27-wei-fenghe
-    - f01-bbc-2026-07-14-ma-xingrui
-    - f01-bbc-2025-10-23-nine-generals
+    - b08-bbc-2026-07-14-ma
+    - b04-bbc-2025-10-nine-generals
 
 - id: zhang-liu
   name: 张又侠、刘振立案（2026）
@@ -673,7 +673,7 @@
     - f01-xinhua-2026-09-21-zhang-liu
     - f01-bbc-2026-01-27-zhang-youxia
     - f01-dw-2026-01-26-zhang-youxia
-    - f01-voa-2024-04-04-princelings
+    - c05-voa-2024-04-04-princelings
 
 # --- army ---
 - id: army-princelings
@@ -690,12 +690,12 @@
     - voice: zh
       text: >-
         刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物。
-      cite: f01-voa-2024-04-04-princelings
+      cite: c05-voa-2024-04-04-princelings
       quote: true
     - voice: zh
       text: >-
         在习近平的执政团队中，硕果仅存的“太子党”就是张又侠，尽管已经超龄，仍然留任中央军委副主席。
-      cite: f01-voa-2024-04-04-princelings
+      cite: c05-voa-2024-04-04-princelings
       quote: true
     - voice: scholar
       text: >-
@@ -704,7 +704,7 @@
       cite: f01-thinkchina-2022-09-27-factions
       quote: true
   cites:
-    - f01-voa-2024-04-04-princelings
+    - c05-voa-2024-04-04-princelings
     - f01-thinkchina-2022-09-27-factions
     - f01-dw-2026-01-26-zhang-youxia
 
@@ -723,7 +723,7 @@
     - voice: zh
       text: >-
         随着与 31 军有关的派系在军改之后强势崛起，“31 军”也成为习近平时代军队内部一个显著的“派系标签”。
-      cite: f01-bbc-2025-10-23-nine-generals
+      cite: b04-bbc-2025-10-nine-generals
       quote: true
     - voice: zh
       text: >-
@@ -733,10 +733,10 @@
     - voice: scholar
       text: >-
         但还有些人不仅因腐败，而是变得太有野心
-      cite: f01-bbc-2025-10-23-nine-generals
+      cite: b04-bbc-2025-10-nine-generals
       quote: true
   cites:
-    - f01-bbc-2025-10-23-nine-generals
+    - b04-bbc-2025-10-nine-generals
     - f01-bbc-2026-01-27-zhang-youxia
 
 - id: equipment-system
@@ -779,7 +779,7 @@
     - voice: zh
       text: >-
         他们同属以高岗、刘志丹、习仲勋为首的“陕北帮”或者“西北帮”。
-      cite: f01-voa-2024-04-04-princelings
+      cite: c05-voa-2024-04-04-princelings
       quote: true
     - voice: zh
       text: >-
@@ -792,6 +792,6 @@
       cite: f01-rfa-2019-02-22-shaanxi
       quote: true
   cites:
-    - f01-voa-2024-04-04-princelings
+    - c05-voa-2024-04-04-princelings
     - f01-bbc-2026-01-27-zhang-youxia
     - f01-rfa-2019-02-22-shaanxi

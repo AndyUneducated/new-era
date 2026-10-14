@@ -8,7 +8,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-63626897
     excerpt: true
-    keep: [高智晟, 耿和]
+    keep: [ 高智晟, 耿和 ]
   - id: c04-cna-2021-08-14-gao-zhisheng
     title: 中國律師高智晟失蹤4年 妻：活要見人死要見屍
     publisher: 中央社
@@ -16,7 +16,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202108140065.aspx
     excerpt: true
-    keep: [高智晟]
+    keep: [ 高智晟 ]
   - id: c04-bbc-2016-04-14-pu-zhiqiang
     title: 维权人士浦志强：从今天开始我不再是律师
     publisher: BBC 中文
@@ -24,7 +24,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/04/160414_china_pu_zhiqiang_lawyer_licence_revoked
     excerpt: true
-    keep: [浦志强]
+    keep: [ 浦志强 ]
   - id: c04-bbc-2023-04-10-ding-jiaxi
     title: 中国维权人士许志永、丁家喜颠覆国家政权罪成 获重刑
     publisher: BBC 中文
@@ -32,7 +32,14 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-65225154
     excerpt: true
-    keep: [丁家喜]
+    keep:
+      - 丁家喜
+      - 剥夺政治权利8年
+      - 不公开审理
+      - 2014年他因聚众扰乱公共场所秩序罪
+      - 李翘楚
+      - 北京大学法学博士
+      - 劝退书
   - id: c04-dw-2023-11-24-ding-jiaxi-appeal
     title: 許志永丁家喜案二審維持原判十餘年重刑
     publisher: 德国之声
@@ -40,7 +47,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh-hant/許志永丁家喜案二審維持原判十餘年重刑/a-67546144
     excerpt: true
-    keep: [丁家喜]
+    keep: [ 丁家喜 ]
   - id: c04-bbc-2025-07-09-709-decade
     title: 709大抓捕十周年：王全璋出狱五年仍遭监视
     publisher: BBC 中文
@@ -48,7 +55,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/c0m8lyv98mno/simp
     excerpt: true
-    keep: [王全璋, 李和平, 王峭岭]
+    keep: [ 王全璋, 李和平, 王峭岭 ]
   - id: c04-dw-2025-07-09-709-decade
     title: 709十周年：他们是深切地相信他们的国家可以变得更好
     publisher: 德国之声
@@ -56,7 +63,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/709十周年他们是深切地相信他们的国家可以变得更好/a-73200620
     excerpt: true
-    keep: [王全璋, 李和平]
+    keep: [ 王全璋, 李和平 ]
   - id: c04-bbc-2017-11-21-jiang-tianyong
     title: 维权律师江天勇获刑两年 其妻称绝不接受
     publisher: BBC 中文
@@ -64,7 +71,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-42061672
     excerpt: true
-    keep: [江天勇]
+    keep: [ 江天勇 ]
   - id: c04-voa-2019-02-28-jiang-tianyong
     title: 维权律师江天勇刑满出狱 去向不明引发关注
     publisher: 美国之音
@@ -72,7 +79,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/jiang-tianyong-out-of-jail-20190228/4807382.html
     excerpt: true
-    keep: [江天勇]
+    keep: [ 江天勇 ]
   - id: c04-dw-2019-10-jiang-tianyong
     title: 江天勇获释后续遭软禁 妻批中国法律是“废纸”
     publisher: 德国之声
@@ -80,7 +87,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/江天勇获释后续遭软禁-妻批中国法律是废纸/a-50818274
     excerpt: true
-    keep: [江天勇]
+    keep: [ 江天勇 ]
   - id: c04-bbc-2017-04-28-li-heping
     title: 维权律师李和平被控颠覆国家政权罪获刑3年
     publisher: BBC 中文
@@ -88,7 +95,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-39746854
     excerpt: true
-    keep: [李和平]
+    keep: [ 李和平 ]
   - id: c04-cna-2026-04-14-yu-wensheng
     title: 煽動罪被囚3年 中國維權律師余文生出獄
     publisher: 中央社
@@ -96,7 +103,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202604140031.aspx
     excerpt: true
-    keep: [余文生]
+    keep: [ 余文生 ]
   - id: c04-rfa-2026-07-08-yu-wensheng
     title: 709余波 余文生出境受阻
     publisher: 自由亚洲电台
@@ -104,7 +111,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/zhengzhi/renquan/2026/07/08/china-human-rights-lawyer-709/
     excerpt: true
-    keep: [余文生]
+    keep: [ 余文生 ]
   - id: c04-bbc-2014-09-23-ilham-tohti
     title: 新疆法院一审判处伊力哈木无期徒刑
     publisher: BBC 中文
@@ -112,7 +119,11 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/09/140923_china_ilham_tohti_sentence
     excerpt: true
-    keep: [伊力哈木]
+    keep:
+      - 伊力哈木
+      - 判处无期徒刑
+      - 维吾尔在线
+      - 法庭审理查明
   - id: c04-bbc-2014-11-21-ilham-tohti-appeal
     title: 伊力哈木二审维持无期 家人批秘密宣判
     publisher: BBC 中文
@@ -120,7 +131,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/11/141121_china_ilham_final_sentence
     excerpt: true
-    keep: [伊力哈木, 华春莹]
+    keep: [ 伊力哈木, 华春莹 ]
   - id: c04-bbc-2012-05-20-chen-guangcheng
     title: 陈光诚纽约大学讲话感谢美国帮助
     publisher: BBC 中文
@@ -128,7 +139,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/world/2012/05/120520_nyu_chen_remarks
     excerpt: true
-    keep: [陈光诚]
+    keep: [ 陈光诚 ]
   - id: c04-bbc-2012-05-02-chen-guangcheng
     title: 新华社：陈光诚离开美国大使馆
     publisher: BBC 中文
@@ -136,7 +147,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese_news/2012/05/120502_chenguangcheng
     excerpt: true
-    keep: [陳光誠, 劉為民]
+    keep: [ 陳光誠, 劉為民 ]
   - id: c04-bbc-2008-04-03-hu-jia
     title: 维权人士胡佳被判处三年半徒刑
     publisher: BBC 中文
@@ -144,7 +155,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7320000/newsid_7327700/7327759.stm
     excerpt: true
-    keep: [胡佳]
+    keep: [ 胡佳 ]
   - id: c04-voa-2023-03-02-hu-jia
     title: 胡佳：强制离京避两会成惯例 不堪忍受无法为病危老父送终
     publisher: 美国之音
@@ -152,7 +163,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/hu-jia-wishes-to-stay-with-his-seriously-sick-father-instead-of-being-escorted-out-of-beijing-during-two-sessions-20230302/6986365.html
     excerpt: true
-    keep: [胡佳]
+    keep: [ 胡佳 ]
   - id: c04-voa-2024-03-16-hu-jia
     title: 家狱囚徒胡佳 电话独白
     publisher: 美国之音
@@ -160,7 +171,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/long-time-confined-at-home-under-de-factor-house-arrest-hu-jia-monologue-20240316/7530512.html
     excerpt: true
-    keep: [胡佳]
+    keep: [ 胡佳 ]
   - id: c04-dw-2015-11-26-gao-yu
     title: 高瑜案二审改判5年 暂予监外执行
     publisher: 德国之声
@@ -168,15 +179,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/高瑜案二审改判5年暂予监外执行/a-18877419
     excerpt: true
-    keep: [高瑜]
-  - id: c04-bbc-2018-07-10-liu-xia
-    title: 刘晓波遗孀刘霞抵达柏林
-    publisher: BBC 中文
-    date: 2018-07-10
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-44776137
-    excerpt: true
-    keep: [刘霞]
+    keep: [ 高瑜 ]
   - id: c04-rfa-2023-05-11-guo-feixiong
     title: 郭飞雄“煽颠”罪成判囚八年
     publisher: 自由亚洲电台
@@ -184,7 +187,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-05112023075152.html
     excerpt: true
-    keep: [郭飞雄]
+    keep: [ 郭飞雄 ]
   - id: c04-voa-2023-05-19-wu-gan
     title: 维权人士“屠夫”吴淦被中共释放 父亲表示老家已被监控
     publisher: 美国之音
@@ -192,7 +195,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/china-human-rights-activist-wu-gan-released-20230519/7100138.html
     excerpt: true
-    keep: [吴淦]
+    keep: [ 吴淦 ]
   - id: c04-bbc-2019-12-30-wang-yi
     title: 中国牧师王怡获刑9年 学者指北京意图警告其他教会
     publisher: BBC 中文
@@ -200,7 +203,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-50948041
     excerpt: true
-    keep: [王怡]
+    keep: [ 王怡 ]
   # --- intellectuals, writers, others ---
   - id: c04-voa-2016-02-15-yang-jisheng
     title: 著名记者杨继绳被禁出国领奖
@@ -209,7 +212,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/voa-news-chinese-journalist-banned-from-flying-to-us-to-accept-a-prize-20160215/3191677.html
     excerpt: true
-    keep: [杨继绳]
+    keep: [ 杨继绳 ]
   - id: c04-voa-2024-01-17-mao-yushi
     title: 自由派学者茅于轼95高龄移居海外引发关注
     publisher: 美国之音
@@ -217,7 +220,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/prominent-liberal-economist-mao-yushi-moved-to-the-free-world-after-being-silenced-for-years-in-china-20240117/7443987.html
     excerpt: true
-    keep: [茅于轼]
+    keep: [ 茅于轼 ]
   - id: c04-dw-2017-05-he-weifang
     title: 賀衛方從此在社群網站不再發聲
     publisher: 德国之声
@@ -225,7 +228,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh-hant/賀衛方從此在社群網站不再發聲/a-38999225
     excerpt: true
-    keep: [賀衛方]
+    keep: [ 賀衛方 ]
   - id: c04-bbc-2020-07-13-xu-zhangrun
     title: 清华大学教授许章润获释回家 公众质疑“嫖娼”传言“污名化”
     publisher: BBC 中文
@@ -233,7 +236,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-53390912
     excerpt: true
-    keep: [许章润]
+    keep: [ 许章润 ]
   - id: c04-rfa-2020-07-18-xu-zhangrun
     title: 清华大学向许章润发出开除处分文件 称其违反教师行为准则
     publisher: 自由亚洲电台
@@ -241,7 +244,10 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/Xinwen/6-07182020123909.html
     excerpt: true
-    keep: [许章润]
+    keep:
+      - 许章润
+      - 关于给许章润开除处分的决定
+      - 十项准则》有关规定
   - id: c04-nyt-2015-12-29-qin-hui
     title: 秦晖新作的封杀与走不出的秦制
     publisher: 纽约时报中文网
@@ -249,7 +255,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/culture/20151229/cc29qinhui/
     excerpt: true
-    keep: [秦晖, 走出帝制]
+    keep: [ 秦晖, 走出帝制 ]
   - id: c04-zhwiki-qin-hui
     title: 秦晖（维基百科）
     publisher: 维基百科
@@ -257,7 +263,7 @@ web:
     voice: wiki
     url: https://zh.wikipedia.org/zh-hans/秦晖
     excerpt: true
-    keep: [2018年8月, 金雁, 南宁]
+    keep: [ 2018年8月, 金雁, 南宁 ]
   - id: c04-bbc-2020-11-26-fang-fang
     title: 作家方方专访：“我的记录中，无非同情了个体，批评了政府”
     publisher: BBC 中文
@@ -265,7 +271,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-55054088
     excerpt: true
-    keep: [方方]
+    keep: [ 方方 ]
   - id: c04-udn-2021-09-chen-qiushi
     title: 從公民記者下崗的格鬥家？陳秋實「武漢消失601天」後重新現身
     publisher: 聯合報轉角國際
@@ -273,7 +279,7 @@ web:
     voice: zh
     url: https://global.udn.com/global_vision/story/8662/5785314
     excerpt: true
-    keep: [陳秋實]
+    keep: [ 陳秋實 ]
   - id: c04-bbc-2020-08-18-cai-xia
     title: 蔡霞专访：有“原罪”的红二代中共党校教授 被开除党籍“很高兴”
     publisher: BBC 中文
@@ -281,7 +287,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-53845811
     excerpt: true
-    keep: [蔡霞]
+    keep: [ 蔡霞 ]
   - id: c04-voa-2020-08-17-cai-xia
     title: 中央党校开除退休教授蔡霞党籍
     publisher: 美国之音
@@ -289,7 +295,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/retired-professor-cai-xia-expelled-from-party-20200817/5546531.html
     excerpt: true
-    keep: [蔡霞]
+    keep: [ 蔡霞 ]
   - id: c04-dw-2023-09-peng-shuai
     title: WTA重返中国，彭帅事件不了了之？
     publisher: 德国之声
@@ -297,7 +303,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/wta重返中国彭帅事件不了了之/a-66831249
     excerpt: true
-    keep: [彭帅]
+    keep: [ 彭帅 ]
   # --- entrepreneurs ---
   - id: c04-bbc-2019-02-19-ren-zhengfei
     title: 华为创始人任正非：美国无法扼杀我们
@@ -306,7 +312,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-47288785
     excerpt: true
-    keep: [任正非]
+    keep: [ 任正非 ]
   - id: c04-bbc-2019-02-18-ren-zhengfei-interview
     title: 华为任正非接受BBC独家专访：“这世界离不开我们”
     publisher: BBC 中文
@@ -314,7 +320,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-47288135
     excerpt: true
-    keep: [任正非]
+    keep: [ 任正非 ]
   - id: c04-nyt-2015-04-28-wang-jianlin
     title: 万达帝国王健林：游刃于商业与权贵之间
     publisher: 纽约时报中文网
@@ -322,7 +328,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20150428/c28wang/
     excerpt: true
-    keep: [齐桥桥, 温如春, 王兆国]
+    keep: [ 齐桥桥, 温如春, 王兆国 ]
   - id: c04-bbc-2015-10-30-wang-jianlin
     title: 王健林首次回应习近平家人入股万达传闻
     publisher: BBC 中文
@@ -330,7 +336,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/10/151030_wang-jianlin_first_responses
     excerpt: true
-    keep: [齐桥桥, 治家更严]
+    keep: [ 齐桥桥, 治家更严 ]
   - id: c04-jiemian-2025-09-wang-jianlin
     title: 王健林被限高“一日游”背后：万达还剩多少家底
     publisher: 界面新闻
@@ -338,7 +344,7 @@ web:
     voice: official
     url: https://www.jiemian.com/article/13416419.html
     excerpt: true
-    keep: [王健林]
+    keep: [ 王健林 ]
   - id: c04-bbc-2026-08-20-xu-jiayin
     title: 恒大许家印被判处无期徒刑 集团罚款近160亿元人民币
     publisher: BBC 中文
@@ -346,7 +352,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/simp
     excerpt: true
-    keep: [许家印]
+    keep: [ 许家印 ]
   - id: c04-xinhua-2026-08-20-xu-jiayin
     title: 恒大集团、恒大地产、许家印等案一审宣判
     publisher: 新华社
@@ -354,7 +360,7 @@ web:
     voice: official
     url: https://www.xinhuanet.com/20260820/3ba9f6d0fb564d7383a63542fdb734eb/c.html
     excerpt: true
-    keep: [许家印]
+    keep: [ 许家印 ]
   - id: c04-bbc-2021-07-28-sun-dawu
     title: 中国企业家孙大午因妨害公务罪等八罪名 被判刑18年
     publisher: BBC 中文
@@ -362,7 +368,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-57085524
     excerpt: true
-    keep: [孙大午]
+    keep: [ 孙大午 ]
   - id: c04-bbc-2022-08-19-xiao-jianhua
     title: 肖建华案：上海法院判监13年 明天控股罚款550亿元人民币 中国否定其加拿大国籍
     publisher: BBC 中文
@@ -370,7 +376,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-62603731
     excerpt: true
-    keep: [肖建华]
+    keep: [ 肖建华 ]
   - id: c04-bbc-2018-05-10-wu-xiaohui
     title: 吴小晖案水落石出 获刑18年没收财产超百亿创纪录
     publisher: BBC 中文
@@ -378,7 +384,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-44064096
     excerpt: true
-    keep: [吴小晖]
+    keep: [ 吴小晖 ]
   - id: c04-zaobao-2018-08-17-wu-xiaohui
     title: 安邦保险前董事长吴小晖上诉被驳回维持原判
     publisher: 联合早报
@@ -386,7 +392,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20180817-883894
     excerpt: true
-    keep: [吴小晖]
+    keep: [ 吴小晖 ]
   - id: c04-voa-2026-06-30-guo-wengui
     title: 中国流亡商人郭文贵被判30年监禁 涉逾10亿美元欺诈案
     publisher: 美国之音
@@ -394,7 +400,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/exiled-chinese-businessman-miles-guo-sentenced-to-30-years-in-prison-20260630/8166497.html
     excerpt: true
-    keep: [郭文贵]
+    keep: [ 郭文贵 ]
   - id: c04-bbc-2026-06-30-guo-wengui
     title: 郭文贵美国诈骗案以判囚30年告一段落
     publisher: BBC 中文
@@ -402,7 +408,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cy8dpl03e3xo/simp
     excerpt: true
-    keep: [郭文贵]
+    keep: [ 郭文贵 ]
   - id: c04-bbc-2018-03-02-ye-jianming
     title: 25岁创业37岁执掌世界500强 叶简明的财富神话
     publisher: BBC 中文
@@ -410,7 +416,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-43246605
     excerpt: true
-    keep: [叶简明]
+    keep: [ 叶简明 ]
   - id: c04-zaobao-2018-03-01-ye-jianming
     title: 财新：中国华信董事局主席叶简明被查 曾卷入何志平案
     publisher: 联合早报
@@ -418,7 +424,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20180301-839059
     excerpt: true
-    keep: [叶简明]
+    keep: [ 叶简明 ]
   - id: c04-zaobao-2024-02-02-bao-fan
     title: 华兴资本创始人包凡辞去首席执行官等职务
     publisher: 联合早报
@@ -426,7 +432,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20240202-1465909
     excerpt: true
-    keep: [包凡]
+    keep: [ 包凡 ]
   - id: c04-zaobao-2025-08-09-bao-fan
     title: 被带走调查逾两年 华兴资本创始人包凡获释
     publisher: 联合早报
@@ -434,7 +440,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/news/china/story20250809-7328105
     excerpt: true
-    keep: [包凡]
+    keep: [ 包凡 ]
   - id: c04-zaobao-2022-09-07-pan-shiyi
     title: SOHO中国：潘石屹已辞去董事会主席
     publisher: 联合早报
@@ -442,7 +448,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20220907-1310559
     excerpt: true
-    keep: [潘石屹]
+    keep: [ 潘石屹 ]
   - id: c04-udn-2026-09-pan-shiyi
     title: 潘石屹飯局影音流出炸網 談留在美國與任志強案有關
     publisher: 聯合新聞網
@@ -450,7 +456,7 @@ web:
     voice: zh
     url: https://udn.com/news/story/7331/9781638
     excerpt: true
-    keep: [潘石屹]
+    keep: [ 潘石屹 ]
   # --- Hong Kong ---
   - id: c04-xinhua-2026-09-09-dong-jianhua
     title: 董建华先生逝世
@@ -459,7 +465,7 @@ web:
     voice: official
     url: https://www1.xinhuanet.com/politics/20260909/81bb8a95544a4b8593b531d6128d2fb9/c.html
     excerpt: true
-    keep: [董建华]
+    keep: [ 董建华 ]
   - id: c04-cna-2026-09-09-dong-jianhua
     title: 香港首任特首董建華89歲逝世 任內因23條立法提前卸任
     publisher: 中央社
@@ -467,7 +473,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202609090020.aspx
     excerpt: true
-    keep: [董建華]
+    keep: [ 董建華 ]
   - id: c04-bbc-2019-06-26-donald-tsang
     title: 曾荫权渎职案：香港终审法院驳回前特首行为失当定罪
     publisher: BBC 中文
@@ -475,7 +481,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-48767938
     excerpt: true
-    keep: [曾荫权]
+    keep: [ 曾荫权 ]
   - id: c04-bbc-2016-12-09-cy-leung
     title: 梁振英放弃参选下任香港特首 港澳办回应
     publisher: BBC 中文
@@ -483,7 +489,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-38260630
     excerpt: true
-    keep: [梁振英]
+    keep: [ 梁振英 ]
   - id: c04-bbc-2017-03-14-cy-leung-cppcc
     title: 分析：梁振英当选中国政协副主席引发争议
     publisher: BBC 中文
@@ -491,15 +497,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-39252702
     excerpt: true
-    keep: [梁振英]
-  - id: c04-gov-2023-03-10-cppcc-leaders
-    title: 政协第十四届全国委员会选出领导人 王沪宁当选全国政协主席
-    publisher: 新华社（中国政府网）
-    date: 2023-03-10
-    voice: official
-    url: https://www.gov.cn/xinwen/2023-03/10/content_5745935.htm
-    excerpt: true
-    keep: [副主席是]
+    keep: [ 梁振英 ]
   - id: c04-bbc-2022-05-08-john-lee
     title: 香港特首选举：唯一候选人李家超当选新任行政长官
     publisher: BBC 中文
@@ -507,7 +505,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-61368630
     excerpt: true
-    keep: [李家超]
+    keep: [ 李家超 ]
   - id: c04-bbc-2024-11-19-hk47-a
     title: 香港“47人案”：戴耀廷被判囚10年，积极参与者量刑起点为7年监禁
     publisher: BBC 中文
@@ -515,7 +513,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/c5yxl30rg5no/simp
     excerpt: true
-    keep: [戴耀廷, 黄之锋]
+    keep: [ 戴耀廷, 黄之锋 ]
   - id: c04-bbc-2024-11-19-hk47-b
     title: 香港“47人案”宣判：首宗颠覆国家政权案 戴耀廷判囚10年、黄之锋56个月
     publisher: BBC 中文
@@ -523,7 +521,11 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cvg40g82z1vo/simp
     excerpt: true
-    keep: [戴耀廷, 黄之锋]
+    keep:
+      - 戴耀廷
+      - 黄之锋
+      - 首要被告戴耀廷被判10年监禁
+      - 首宗颠覆国家政权罪案件
   - id: c04-bbc-2026-09-02-joshua-wong
     title: 黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身
     publisher: BBC 中文
@@ -531,7 +533,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/simp
     excerpt: true
-    keep: [黄之锋]
+    keep: [ 黄之锋 ]
   - id: c04-bbc-2023-12-03-agnes-chow
     title: 香港社运人士周庭宣布“弃保”：“大概一辈子不会回去了”
     publisher: BBC 中文
@@ -539,7 +541,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-67611437
     excerpt: true
-    keep: [周庭]
+    keep: [ 周庭 ]
   - id: c04-cna-2023-12-29-agnes-chow
     title: 周庭正式放棄保釋 港警指會全力追捕
     publisher: 中央社
@@ -547,7 +549,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202312290053.aspx
     excerpt: true
-    keep: [周庭]
+    keep: [ 周庭 ]
   - id: c04-bbc-2020-05-martin-lee
     title: 香港民主党创党主席李柱铭专访：“新一国两制”在破坏邓小平当年的承诺
     publisher: BBC 中文
@@ -555,7 +557,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-52518929
     excerpt: true
-    keep: [李柱铭]
+    keep: [ 李柱铭 ]
   - id: c04-cna-2024-12-28-martin-lee
     title: 香港民主黨創黨主席李柱銘被撤銷太平紳士頭銜
     publisher: 中央社
@@ -563,7 +565,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202412280102.aspx
     excerpt: true
-    keep: [李柱銘]
+    keep: [ 李柱銘 ]
   # --- Macau ---
   - id: c04-bbc-2010-03-13-edmund-ho
     title: 何厚铧获选全国政协副主席
@@ -572,7 +574,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/03/100313_ho_cppcc
     excerpt: true
-    keep: [何厚铧]
+    keep: [ 何厚铧 ]
   - id: c04-bbc-2019-ho-iat-seng
     title: 贺一诚作为唯一候选人当选澳门第三位特首
     publisher: BBC 中文
@@ -580,7 +582,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-49160696
     excerpt: true
-    keep: [贺一诚, 崔世安, 何厚铧]
+    keep: [ 贺一诚, 崔世安, 何厚铧 ]
   - id: c04-cppcc-2024-12-19-ho-iat-seng
     title: 习近平会见贺一诚
     publisher: 新华社（人民政协网）
@@ -588,7 +590,7 @@ web:
     voice: official
     url: http://www.cppcc.gov.cn/zxww/2024/12/19/ARTI1734570464776116.shtml
     excerpt: true
-    keep: [贺一诚]
+    keep: [ 贺一诚 ]
   - id: c04-govmo-2025-12-ho-iat-seng-medal
     title: 贺一诚：荣誉属于所有为澳门特区发展凝心聚力、贡献良多的各界人士
     publisher: 澳门特区政府入口网站
@@ -596,7 +598,7 @@ web:
     voice: official
     url: https://www.gov.mo/zh-hans/news/883566/
     excerpt: true
-    keep: [贺一诚]
+    keep: [ 贺一诚 ]
   # --- Taiwan ---
   - id: c04-bbc-2024-05-18-tsai-ing-wen
     title: 蔡英文卸任前BBC专访 谈执政成就台湾面临危机与国际情势
@@ -605,7 +607,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-69025165
     excerpt: true
-    keep: [蔡英文]
+    keep: [ 蔡英文 ]
   - id: c04-bbc-2024-05-19-lai-ching-te
     title: 520赖清德就职：两岸难见关系缓冲期，延续蔡英文路线能抵御北京压力吗？
     publisher: BBC 中文
@@ -613,7 +615,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-69014382
     excerpt: true
-    keep: [赖清德, 九二共识]
+    keep: [ 赖清德, 九二共识 ]
   - id: c04-president-2024-05-20-inauguration
     title: 中華民國第16任總統副總統宣誓就職典禮
     publisher: 中華民國總統府
@@ -621,7 +623,7 @@ web:
     voice: official
     url: https://www.president.gov.tw/NEWS/28424
     excerpt: true
-    keep: [賴清德]
+    keep: [ 賴清德 ]
   - id: c04-bbc-2024-04-10-ma-ying-jeou
     title: “习马会”北京展开：时机与地点的考量
     publisher: BBC 中文
@@ -629,7 +631,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-68779452
     excerpt: true
-    keep: [马英九]
+    keep: [ 马英九 ]
   - id: c04-bbc-2015-11-07-xi-ma
     title: “习马会”：两岸领导人66年后首次会面
     publisher: BBC 中文
@@ -637,7 +639,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/11/151107_china_taiwan_xi_ma_meeting
     excerpt: true
-    keep: [马英九]
+    keep: [ 马英九 ]
   - id: c04-cna-2026-05-24-ma-ying-jeou
     title: 馬英九不認同調查結果 稱將循訴訟程序追究蕭旭岑、王光慈責任
     publisher: 中央社
@@ -645,7 +647,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/aipl/202605240106.aspx
     excerpt: true
-    keep: [馬英九]
+    keep: [ 馬英九 ]
   - id: c04-bbc-2005-04-29-lien-chan
     title: 连战记者会公布两党会谈新闻公报
     publisher: BBC 中文
@@ -653,7 +655,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4490000/newsid_4497900/4497909.stm
     excerpt: true
-    keep: [连战]
+    keep: [ 连战 ]
   - id: c04-cna-2026-04-21-lien-chan
     title: 連家兄弟赴漳州祭祖
     publisher: 中央社
@@ -661,4 +663,4 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/acn/202604210047.aspx
     excerpt: true
-    keep: [連戰]
+    keep: [ 連戰 ]

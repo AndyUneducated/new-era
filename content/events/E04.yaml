@@ -17,9 +17,9 @@
       quote: true
     - voice: zh
       text: 有迹象显示涉及李文亮之死的言论遭到删查
-      cite: e04-bbc-2020-02-07-li-wenliang
+      cite: b10-bbc-2020-02-07-li-death
       quote: true
-  cites: [e04-gov-2020-06-07-covid-whitepaper, e04-bbc-2020-02-07-li-wenliang]
+  cites: [e04-gov-2020-06-07-covid-whitepaper, b10-bbc-2020-02-07-li-death]
 
 - id: li-wenliang-death
   date: 2020-02-07
@@ -31,13 +31,13 @@
   voices:
     - voice: official
       text: 由于中南路派出所出具训诫书不当，执法程序不规范，调查组已建议湖北省武汉市监察机关对此事进行监督纠正，督促公安机关撤销训诫书并追究有关人员责任
-      cite: e04-xinhua-2020-03-19-li-wenliang-report
+      cite: b10-xinhua-2020-03-19-li-report
       quote: true
     - voice: zh
       text: “武汉政府欠李文亮医生一个道歉”和“我们要言论自由”等周四在微博网站短暂流传之后，迅即消失
-      cite: e04-bbc-2020-02-07-li-wenliang
+      cite: b10-bbc-2020-02-07-li-death
       quote: true
-  cites: [e04-bbc-2020-02-07-li-wenliang, e04-xinhua-2020-03-19-li-wenliang-report]
+  cites: [b10-bbc-2020-02-07-li-death, b10-xinhua-2020-03-19-li-report]
   verify: true
 
 - id: galwan-clash
@@ -398,7 +398,7 @@
   summary: 中央军委晋升王厚斌、徐西盛为上将，分别任火箭军司令员与政治委员，间接证实失踪数月的李玉超、徐忠波已离职。两名新主官分别来自海军和空军，从未在火箭军服役，被视为近十年来军方领导层最大的一次意外改组。
   people: [xi-jinping, li-yuchao]
   factions: [rocket-equipment]
-  cites: [e04-gov-2023-07-31-rocket-force, e04-bbc-2023-08-01-rocket-force]
+  cites: [e04-gov-2023-07-31-rocket-force, f01-bbc-2023-08-01-rocket-force]
 
 - id: youth-unemployment-suspended
   date: 2023-08-15
@@ -419,7 +419,7 @@
       text: 這些人即便是習近平的親信，他需要的時候可以任意罷免
       cite: e04-bbc-2023-10-26-li-shangfu
       quote: true
-  cites: [e04-gov-2023-10-24-li-shangfu, e04-bbc-2023-10-26-li-shangfu]
+  cites: [b08-gov-2023-10-24-order-14, e04-bbc-2023-10-26-li-shangfu]
 
 - id: li-keqiang-death
   date: 2023-10-27
@@ -512,7 +512,7 @@
   summary: 中央政治局会议决定给予前国防部长李尚福、魏凤和开除党籍处分，移送军事检察机关；两人此前已被开除军籍，分别被取消陆军和火箭军上将军衔。公告披露，二人分别于2023年8月31日和9月21日被立案。
   people: [li-shangfu, wei-fenghe]
   factions: [rocket-equipment]
-  cites: [e04-gov-2024-06-27-li-shangfu-expelled, e04-gov-2024-06-27-wei-fenghe-expelled]
+  cites: [b08-gov-2024-06-27-li-shangfu-expelled, c02-gov-2024-06-27-wei-fenghe-expelled]
 
 - id: third-plenum-20th
   date: 2024-07-15
@@ -523,7 +523,7 @@
   summary: 二十届三中全会通过进一步全面深化改革、推进中国式现代化的决定，设定到2029年完成改革任务的时间表。全会接受秦刚辞职申请，确认对李尚福、李玉超、孙金明的开除党籍处分。
   people: [xi-jinping, qin-gang, li-shangfu, li-yuchao]
   concepts: [chinese-modernization]
-  cites: [e04-gov-2024-07-18-3rd-plenum, e04-bbc-2024-07-18-3rd-plenum]
+  cites: [c03-gov-2024-07-18-third-plenum, b08-bbc-2024-07-18-third-plenum]
 
 - id: retirement-age-raised
   date: 2024-09-13
@@ -546,7 +546,7 @@
   lane: hkmt
   summary: 香港47名民主派人士被控串谋颠覆国家政权案宣判，首要被告戴耀廷被判10年监禁，前学运领袖黄之锋被判56个月，其余被告刑期约50至90多个月不等。这是《香港国安法》实施后首宗颠覆国家政权罪案件，也是至今规模最大的国安案。
   people: [dai-yaoting, huang-zhifeng]
-  cites: [e04-bbc-2024-11-19-hk47]
+  cites: [c04-bbc-2024-11-19-hk47-b]
 
 - id: miao-hua-suspended
   date: 2024-11-28
@@ -586,7 +586,7 @@
   lane: ethnic
   summary: 新华社发布，马兴瑞不再兼任新疆维吾尔自治区党委书记、常委、委员职务，另有任用，陈小江任新疆维吾尔自治区党委委员、常委、书记。马兴瑞此后保留政治局委员身份，转任中央农村工作领导小组副组长，2026年4月以该职务被宣布接受审查调查。
   people: [ma-xingrui]
-  cites: [e04-news-2025-07-01-ma-xingrui-xinjiang, e04-news-2026-04-03-ma-xingrui]
+  cites: [e04-news-2025-07-01-ma-xingrui-xinjiang, b08-xinhua-2026-04-03-ma-probe]
 
 - id: victory-day-parade-2025
   date: 2025-09-03
@@ -606,13 +606,13 @@
   voices:
     - voice: official
       text: 经查，这9人严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
-      cite: e04-mod-2025-10-17-nine-generals
+      cite: b08-mod-2025-10-17-nine-generals
       quote: true
     - voice: scholar
       text: 由于腐败与廉洁问题被认为是解放军整肃的主因，因此由现任军中纪律沙皇出任新的政治与人事主管，似乎再适合不过。
       cite: e04-bbc-2025-10-23-4th-plenum
       quote: true
-  cites: [e04-mod-2025-10-17-nine-generals, e04-bbc-2025-10-23-4th-plenum]
+  cites: [b08-mod-2025-10-17-nine-generals, e04-bbc-2025-10-23-4th-plenum]
   verify: true
 
 - id: fourth-plenum-20th
@@ -670,16 +670,16 @@
   voices:
     - voice: official
       text: 严重践踏破坏军委主席负责制
-      cite: e04-bbc-2026-01-24-zhang-youxia
+      cite: b04-bbc-2026-01-zhang-youxia
       quote: true
     - voice: scholar
       text: 牛犇（Neil Thomas）在邮件中分析，官方公告称，张又侠和刘振立是“经党中央研究”后被清洗的，据他所知，这种措辞在军队清洗公告中是前所未有的。
-      cite: e04-bbc-2026-01-zhang-youxia-analysis
+      cite: f01-bbc-2026-01-27-zhang-youxia
       quote: true
     - voice: west
       text: 《华尔街日报》援引知情人士称，张又侠被控向美国泄露核武器计划核心技术数据，并收受巨额贿赂换取官员晋升；该说法未获官方证实。
-      cite: e04-bbc-2026-01-zhang-youxia-analysis
-  cites: [e04-cctv-2026-01-24-zhang-liu, e04-bbc-2026-01-24-zhang-youxia, e04-bbc-2026-01-zhang-youxia-analysis]
+      cite: f01-bbc-2026-01-27-zhang-youxia
+  cites: [k01-mod-2026-01-24-zhang-youxia-liu-zhenli, b04-bbc-2026-01-zhang-youxia, f01-bbc-2026-01-27-zhang-youxia]
 
 - id: jimmy-lai-sentenced
   date: 2026-02-09
@@ -690,13 +690,13 @@
   voices:
     - voice: official
       text: 黎智英罪行滔天，惡貫滿盈，被重判入獄20年，彰顯法治，伸張正義，大快人心。
-      cite: e04-hkgov-2026-02-09-jimmy-lai
+      cite: b10-hkgov-2026-02-09-lai-sentence
       quote: true
     - voice: west
       text: 实际上等同于死刑，如此严厉的判决既残酷又极不公正。
-      cite: e04-bbc-2026-02-09-jimmy-lai
+      cite: b10-bbc-2026-02-09-jimmy-lai
       quote: true
-  cites: [e04-bbc-2026-02-09-jimmy-lai, e04-hkgov-2026-02-09-jimmy-lai]
+  cites: [b10-bbc-2026-02-09-jimmy-lai, b10-hkgov-2026-02-09-lai-sentence]
 
 - id: work-report-2026
   date: 2026-03-05
@@ -704,7 +704,7 @@
   lane: econ
   summary: 李强在十四届全国人大四次会议上作政府工作报告，把年度经济增长目标定为4.5%至5%，城镇调查失业率5.5%左右；赤字率按4%左右安排，拟发行超长期特别国债1.3万亿元，一般公共预算支出首次达到30万亿元。
   people: [li-qiang]
-  cites: [e04-gov-2026-03-05-work-report]
+  cites: [i02-gov-2026-gwr]
 
 - id: npc-2026-fyp
   date: 2026-03-12
@@ -728,7 +728,7 @@
   lane: purge
   summary: 新华社宣布，中央政治局委员、中央农村工作领导小组副组长马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。马兴瑞2025年7月卸任新疆维吾尔自治区党委书记，是继军委副主席何卫东、张又侠之后又一名被查的二十届中央政治局委员。
   people: [ma-xingrui, he-weidong, zhang-youxia]
-  cites: [e04-news-2026-04-03-ma-xingrui, e04-news-2025-07-01-ma-xingrui-xinjiang, e04-mod-2025-10-17-nine-generals, e04-cctv-2026-01-24-zhang-liu]
+  cites: [b08-xinhua-2026-04-03-ma-probe, e04-news-2025-07-01-ma-xingrui-xinjiang, b08-mod-2025-10-17-nine-generals, k01-mod-2026-01-24-zhang-youxia-liu-zhenli]
 
 - id: xi-meets-cheng-li-wun
   date: 2026-04-10
@@ -753,7 +753,7 @@
   lane: purge
   summary: 中共中央决定给予马兴瑞开除党籍、开除公职处分，指其在组织函询时不如实说明，搞权色、钱色交易，大搞家族腐败，涉嫌受贿罪移送审查起诉。按惯例，开除党籍待中央全会追认。
   people: [ma-xingrui]
-  cites: [e04-news-2026-07-14-ma-xingrui-expelled]
+  cites: [b08-xinhua-2026-07-14-ma-expelled]
 
 - id: zhang-liu-expelled
   date: 2026-09-21
@@ -782,7 +782,7 @@
   summary: 中央政治局9月21日开会，决定二十届五中全会于10月26日至29日在北京召开，议程为研究持之以恒推进全面从严治党重大问题。7月30日政治局会议已决定于10月召开。全会尚未举行；按处分公告，马兴瑞以及张又侠、刘振立的开除党籍处分都待召开中央全会时予以追认。
   people: [xi-jinping, ma-xingrui, zhang-youxia, liu-zhenli]
   concepts: [self-revolution]
-  cites: [e04-news-2026-09-21-5th-plenum-set, e04-gov-2026-07-30-politburo, e04-news-2026-07-14-ma-xingrui-expelled, e04-people-2026-09-22-zhang-liu-expelled]
+  cites: [e04-news-2026-09-21-5th-plenum-set, e04-gov-2026-07-30-politburo, b08-xinhua-2026-07-14-ma-expelled, e04-people-2026-09-22-zhang-liu-expelled]
 
 - id: xi-us-state-visit
   date: 2026-09-23

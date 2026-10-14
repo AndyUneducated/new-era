@@ -101,7 +101,7 @@
       person: chen-liangyu
       kind: out
       text: 中央政治局会议后中央决定对陈良宇立案检查，免去其上海市委书记职务，停止其政治局委员、中央委员职务（9月25日公布）。
-      cite: k01-xinhua-2006-09-25-chen-liangyu
+      cite: b02-xinhua-2006-09-25-chen-liangyu
     - date: 2006-12-14
       person: zhang-dingfa
       kind: died
@@ -170,8 +170,8 @@
       person: sun-zhengcai
       kind: out
       text: 中共中央决定由中纪委对政治局委员孙政才立案审查。
-      cite: k01-xinhua-2017-07-24-sun-zhengcai
-  cites: [k01-xinhua-2012-11-15-18-1-plenum]
+      cite: b07-ccdi-2017-07-24-sun-investigation
+  cites: [c02-xinhua-2012-11-15-18-1-plenum]
 
 - n: 19
   opened: 2017-10-25
@@ -188,7 +188,7 @@
     - { id: li-zuocheng, title: 委员 }
     - { id: miao-hua, title: 委员 }
     - { id: zhang-shengmin, title: 委员 }
-  cites: [k01-xinhua-2017-10-25-19-1-plenum]
+  cites: [c02-xinhua-2017-10-25-19-1-plenum]
 
 - n: 20
   opened: 2022-10-23
@@ -209,22 +209,22 @@
       person: li-shangfu
       kind: out
       text: 十四届全国人大常委会第六次会议免去李尚福的国家中央军事委员会委员职务。
-      cite: k01-xinhua-2023-10-24-li-shangfu-cmc
+      cite: b08-xinhua-2023-10-24-li-cmc-removed
     - date: 2024-11-28
       person: miao-hua
       kind: out
       text: 国防部宣布，中央军委委员、军委政治工作部主任苗华涉嫌严重违纪，被停职检查。
-      cite: k01-mod-2024-11-28-miao-hua
+      cite: b08-mod-2024-11-28-miao-suspended
     - date: 2025-10-17
       person: he-weidong
       kind: out
       text: 国防部宣布，政治局委员、军委副主席何卫东与苗华等9人被开除党籍、军籍，待中央全会追认。
-      cite: k01-mod-2025-10-17-he-weidong
+      cite: b08-mod-2025-10-17-nine-generals
     - date: 2025-10-23
       person: zhang-shengmin
       kind: in
       text: 二十届四中全会决定增补张升民为中央军事委员会副主席。
-      cite: k01-xinhua-2025-10-23-20-4-plenum
+      cite: b08-wikisource-2025-10-23-20-4-plenum
     - date: 2026-01-24
       person: zhang-youxia
       kind: out
@@ -239,5 +239,5 @@
       person: ma-xingrui
       kind: out
       text: 新华社宣布，政治局委员马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委审查调查。
-      cite: k01-xinhua-2026-04-03-ma-xingrui
-  cites: [k01-xinhua-2022-10-23-20-1-plenum]
+      cite: b08-xinhua-2026-04-03-ma-probe
+  cites: [b08-wikisource-2022-10-23-20-1-plenum]

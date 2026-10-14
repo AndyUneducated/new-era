@@ -72,7 +72,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/03/120315_boxilai_profile
     excerpt: true
-    keep: [中共元老薄一波的儿子, 他曾担任大连市长, 城市像欧洲, 他从商业部被调到重庆, 3000多人被捕, 对建立法制社会努力的严重背离]
+    keep: [ 中共元老薄一波的儿子, 他曾担任大连市长, 城市像欧洲, 他从商业部被调到重庆, 3000多人被捕, 对建立法制社会努力的严重背离 ]
   - id: b07-guardian-2013-09-22-bo-line
     title: China tries to draw line under political scandal with life sentence for Bo Xilai
     publisher: The Guardian
@@ -81,7 +81,7 @@ web:
     lang: en
     url: https://www.theguardian.com/world/2013/sep/22/china-life-sentence-bo-xilai
     excerpt: true
-    keep: [striking the black, the outcome of a political trial]
+    keep: [ striking the black, the outcome of a political trial ]
   - id: b07-gov-2005-11-27-chen-relocation
     title: 上海市委市政府召开动拆迁工作推进会议
     publisher: 中国政府网
@@ -89,7 +89,7 @@ web:
     voice: official
     url: https://web.archive.org/web/20150610194903/http://www.gov.cn/gzdt/2005-11/27/content_110165.htm
     excerpt: true
-    keep: [视发展机遇为生命, 大动迁是城市大发展的需要]
+    keep: [ 视发展机遇为生命, 大动迁是城市大发展的需要 ]
   - id: b07-nyt-2012-09-29-bo-bribery
     title: 薄熙来涉嫌巨额受贿
     publisher: 纽约时报中文网
@@ -97,7 +97,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20120929/c29boxilai/
     excerpt: true
-    keep: [也是太子党, 曾支持薄熙来的江泽民]
+    keep: [ 也是太子党, 曾支持薄熙来的江泽民 ]
   - id: b07-bbc-2012-04-30-bo-family
     title: 小资料：薄熙来家庭背景
     publisher: BBC 中文
@@ -105,7 +105,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/04/120430_boxilai_family
     excerpt: true
-    keep: [薄熙来前妻李丹宇, 开始与谷开来交往, 儿子薄瓜瓜是哈佛大学学生, 生有三女四子]
+    keep: [ 薄熙来前妻李丹宇, 开始与谷开来交往, 儿子薄瓜瓜是哈佛大学学生, 生有三女四子 ]
   - id: b07-bbc-2012-03-15-bo-commentary
     title: 评论：薄熙来事件和政治改革
     publisher: BBC 中文
@@ -113,7 +113,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/03/120315_commentary_boxilai
     excerpt: true
-    keep: [文革式的危险尝试, 权力斗争的看法, 路线斗争的高度]
+    keep: [ 文革式的危险尝试, 权力斗争的看法, 路线斗争的高度 ]
   - id: b07-voa-2012-03-09-bo-presser
     title: 薄熙来首次就王立军事件公开表态
     publisher: 美国之音
@@ -121,7 +121,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/article-20120309-bo-xilai-142036213/946046.html
     excerpt: true
-    keep: [红色法拉利, 他用人失察, 没有刑讯逼供]
+    keep: [ 红色法拉利, 他用人失察, 没有刑讯逼供 ]
   - id: b07-bbc-2013-08-23-bo-trial
     title: 济南审判第二天 薄熙来：谷开来疯了
     publisher: BBC 中文
@@ -129,7 +129,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/08/130823_bo_xilai_fight_back
     excerpt: true
-    keep: [她疯了, 荆轲刺秦王]
+    keep: [ 她疯了, 荆轲刺秦王 ]
   - id: b07-bbc-2013-08-26-bo-trial-wrap
     title: 薄熙来最后陈述：此事在劫难逃 只剩余生
     publisher: BBC 中文
@@ -137,7 +137,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/08/130826_china_bo_trial_wrap
     excerpt: true
-    keep: [我自知我是很不完善的人, 一个巴掌能打出一个叛国者, 严重失实的, 连自己庭前自书和供词也予以推翻]
+    keep: [ 我自知我是很不完善的人, 一个巴掌能打出一个叛国者, 严重失实的, 连自己庭前自书和供词也予以推翻 ]
   - id: b07-bbc-2013-09-22-bo-sentence-politics
     title: 评论：薄熙来被判无期 难以“去政治化”
     publisher: BBC 中文
@@ -145,7 +145,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/09/130922_boxilai_sentencing_politicizing
     excerpt: true
-    keep: [政治审判, 避重就轻, 恢复毛泽东时代的做法]
+    keep: [ 政治审判, 避重就轻, 恢复毛泽东时代的做法 ]
   - id: b07-guardian-2012-08-09-heywood-questions
     title: "Neil Heywood death: the unanswered questions"
     publisher: The Guardian
@@ -154,7 +154,7 @@ web:
     lang: en
     url: https://www.theguardian.com/uk/2012/aug/09/neil-heywood-death-unanswered-questions
     excerpt: true
-    keep: [doubts about the official account remain, closer to Bo Guagua]
+    keep: [ doubts about the official account remain, closer to Bo Guagua ]
   # ---- shared ----
   - id: b07-bbc-2014-12-23-hk-press-ling
     title: 港媒：令计划落马预示还有老虎“入闸”
@@ -163,7 +163,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/12/141223_hk_press_lingjihua
     excerpt: true
-    keep: [新四人帮, 《明报》的报道指出, 家族帮]
+    keep: [ 新四人帮, 《明报》的报道指出, 家族帮 ]
   - id: b07-people-2016-11-03-xi-explanation
     title: 习近平：关于《关于新形势下党内政治生活的若干准则》和《中国共产党党内监督条例》的说明
     publisher: 新华社（人民网转载）
@@ -179,7 +179,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-43739723
     excerpt: true
-    keep: [阴谋篡党夺权。这些案件, 我是咎由自取、罪有应得, 孙政才和薄熙来把对党忠诚当成口号喊, 第六代领导人候选人]
+    keep: [ 阴谋篡党夺权。这些案件, 我是咎由自取、罪有应得, 孙政才和薄熙来把对党忠诚当成口号喊, 第六代领导人候选人 ]
   - id: b07-ccdi-2017-02-13-chongqing-inspection
     title: 中央第十一巡视组向重庆市委反馈巡视“回头看”情况
     publisher: 中央纪委监察部网站（中国经济网转载）
@@ -236,7 +236,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/07/160704_lingjihua_case
     excerpt: true
-    keep: [负荆请罪, 7708.5383万元, 谷丽萍也通过录像指证, 合谋”传闻]
+    keep: [ 负荆请罪, 7708.5383万元, 谷丽萍也通过录像指证, 合谋”传闻 ]
   - id: b07-bbc-2015-07-20-ling-expulsion
     title: 令计划被开除党籍公职移送司法处理
     publisher: BBC 中文
@@ -244,31 +244,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/07/150720_china_lingjihua_update
     excerpt: true
-    keep: [都是共青团出身, 法拉利事件, 三角政治同盟, 令路线、令政策, 但在党内的位置已大不如前]
-  - id: b07-nyt-2012-09-04-ling-demotion
-    title: 法拉利车祸与令计划降职
-    publisher: 纽约时报中文网
-    date: 2012-09-04
-    voice: zh
-    url: https://cn.nytimes.com/china/20120904/c04party/
-    excerpt: true
-    keep: [这名男子是中国权力最大的人物之一, 突然被降职]
-  - id: b07-nyt-2012-12-05-ferrari-crash
-    title: 法拉利车祸改变中共换届进程
-    publisher: 纽约时报中文网
-    date: 2012-12-05
-    voice: zh
-    url: https://cn.nytimes.com/china/20121205/c05crash/
-    excerpt: true
-    keep: [黑色法拉利Spider, 一手策划了掩盖其子死亡真相, 中央警卫局来协助掩盖, 老同志们提出了这个问题, 在共青团体系之内逐步升迁]
-  - id: b07-hqrw-2015-01-06-xishanhui
-    title: 令计划的“西山会”
-    publisher: 环球人物（人民日报社）
-    date: 2015-01-06
-    voice: official
-    url: http://paper.people.com.cn/hqrw/html/2015-01/06/content_1556021.htm
-    excerpt: true
-    keep: [执牛耳者, 令谷之死]
+    keep: [ 都是共青团出身, 法拉利事件, 三角政治同盟, 令路线、令政策, 但在党内的位置已大不如前 ]
   - id: b07-nyt-2015-08-04-ling-wancheng
     title: 令计划之弟令完成身在美国
     publisher: 纽约时报中文网
@@ -276,7 +252,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20150804/c04defector/
     excerpt: true
-    keep: [最具破坏力的叛逃者, 令完成是令计划最小的弟弟, 他之前从一名专业篮球运动员]
+    keep: [ 最具破坏力的叛逃者, 令完成是令计划最小的弟弟, 他之前从一名专业篮球运动员 ]
   - id: b07-nyt-2016-01-18-ling-wancheng-us
     title: 中国首次承认令完成身在美国
     publisher: 纽约时报中文网
@@ -284,7 +260,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20160118/c18china/
     excerpt: true
-    keep: [中国首次承认, 中方正在处理]
+    keep: [ 中国首次承认, 中方正在处理 ]
   - id: b07-zaobao-2016-09-19-ling-zhengce
     title: 令计划兄长令政策被提起公诉
     publisher: 联合早报
@@ -292,7 +268,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/realtime/china/story20160919-668070
     excerpt: true
-    keep: [已经被正式起诉, 令政策在2015年8月被开除党籍]
+    keep: [ 已经被正式起诉, 令政策在2015年8月被开除党籍 ]
   # ---- Xu Caihou ----
   - id: b07-xinhua-2008-07-23-xu-speech
     title: 徐才厚出席国防大学2008年夏季毕业典礼
@@ -341,7 +317,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20140630/cc30xucaihou/
     excerpt: true
-    keep: [第四名受到公开司法调查的, 谷俊山中将被查, 他的主要靠山正是]
+    keep: [ 第四名受到公开司法调查的, 谷俊山中将被查, 他的主要靠山正是 ]
   - id: b07-bbc-2014-06-30-xu-expulsion
     title: 徐才厚被開除黨籍 人民日報評刑上大夫
     publisher: BBC 中文
@@ -349,7 +325,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/china/2014/06/140630_china_general_expulsion
     excerpt: true
-    keep: [其妻子、女兒, 谷俊山後台, 人脈最深厚]
+    keep: [ 其妻子、女兒, 谷俊山後台, 人脈最深厚 ]
   - id: b07-voa-2014-07-03-xu-hu
     title: 徐才厚与胡锦涛
     publisher: 美国之音
@@ -357,7 +333,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/xucaihou-part2-20140703/1950026.html
     excerpt: true
-    keep: [跟徐才厚所效忠的前领导核心江泽民叫板, 显然是为了增加对胡的掣肘, “东北虎”, 没有显赫的家世背景]
+    keep: [ 跟徐才厚所效忠的前领导核心江泽民叫板, 显然是为了增加对胡的掣肘, “东北虎”, 没有显赫的家世背景 ]
   - id: b07-hoover-clm-guo-xu-poison
     title: "“Scraping Poison off the Bone”: An Examination of the Campaign to “Eliminate the Baneful Influence of Guo Boxiong and Xu Caihou”"
     publisher: China Leadership Monitor (Hoover Institution)
@@ -367,7 +343,7 @@ web:
     lang: en
     url: https://www.hoover.org/research/scraping-poison-bone-examination-campaign-eliminate-baneful-influence-guo-boxiong-and-xu
     excerpt: true
-    keep: [Guo and Xu are the highest-ranking]
+    keep: [ Guo and Xu are the highest-ranking ]
   # ---- Guo Boxiong ----
   - id: b07-xinhua-2008-07-24-guo-speech
     title: 郭伯雄在驻南京地区部队调研时强调从严治军
@@ -424,7 +400,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/07/150730_china_military_guo_xu
     excerpt: true
-    keep: [1999年江泽民出任中央军委主席时, 买官卖官问题的严重性, 郭正钢因涉贪腐被查, 首次出现两位同期的中央军委副主席]
+    keep: [ 1999年江泽民出任中央军委主席时, 买官卖官问题的严重性, 郭正钢因涉贪腐被查, 首次出现两位同期的中央军委副主席 ]
   - id: b07-dw-2016-07-25-guo-sentence
     title: 军中老虎郭伯雄一审被判无期徒刑
     publisher: 德国之声
@@ -432,7 +408,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/军中老虎郭伯雄一审被判无期徒刑/a-19425460
     excerpt: true
-    keep: [势力范围, 实际受贿金额远远超过]
+    keep: [ 势力范围, 实际受贿金额远远超过 ]
   - id: b07-nyt-2016-07-25-guo-conviction
     title: 前军委副主席郭伯雄被判无期徒刑
     publisher: 纽约时报中文网
@@ -440,7 +416,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20160725/china-guoboxiong-conviction/
     excerpt: true
-    keep: [西北狼, 骇人听闻, 郭伯雄之子郭正钢]
+    keep: [ 西北狼, 骇人听闻, 郭伯雄之子郭正钢 ]
   # ---- Sun Zhengcai ----
   - id: b07-mj-2012-11-16-sun-resume
     title: 孙政才同志简历
@@ -489,7 +465,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20121126/c26leaders/
     excerpt: true
-    keep: [贾庆林的门生, 放在我的钱包里, 两人都不是太子党, 两张欠条]
+    keep: [ 贾庆林的门生, 放在我的钱包里, 两人都不是太子党, 两张欠条 ]
   - id: b07-nyt-2017-07-24-sun-fall
     title: 孙政才，从中共“明日之星”到政治牺牲品
     publisher: 纽约时报中文网
@@ -497,7 +473,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20170724/china-xi-jinping-sun-zhengcai-chongqing-/
     excerpt: true
-    keep: [高超的政治智慧, 孙政才是个牺牲品, 错误的人出现在了在错误的地方]
+    keep: [ 高超的政治智慧, 孙政才是个牺牲品, 错误的人出现在了在错误的地方 ]
   - id: b07-nyt-2017-07-25-sun-xi
     title: 孙政才被立案调查
     publisher: 纽约时报中文网
@@ -505,7 +481,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20170725/china-xi-jinping-sun-zhengcai/
     excerpt: true
-    keep: [有可能在未来担任总理, 清除薄熙来“流毒”]
+    keep: [ 有可能在未来担任总理, 清除薄熙来“流毒” ]
   - id: b07-zaobao-2017-07-16-sun
     title: 陈敏尔接掌重庆“一把手” 原市委书记孙政才卸任未现身领导干部会议
     publisher: 联合早报
@@ -513,7 +489,7 @@ web:
     voice: zh
     url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20170716-779369
     excerpt: true
-    keep: [官方通报未提及孙政才“另有任用”, 何挺传出, 谨慎、温和的作风]
+    keep: [ 官方通报未提及孙政才“另有任用”, 何挺传出, 谨慎、温和的作风 ]
   - id: b07-bbc-2017-09-29-sun-expulsion
     title: 「接班人」孫政才雙開 為19大召開"祭旗"
     publisher: BBC 中文
@@ -521,7 +497,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese-news-41452906
     excerpt: true
-    keep: [薄王遺毒, 何挺也是孫政才的老鄉]
+    keep: [ 薄王遺毒, 何挺也是孫政才的老鄉 ]
   - id: b07-bbc-2018-05-08-sun-sentence
     title: 前重庆市委书记孙政才被判无期 曾被指阴谋篡党夺权
     publisher: BBC 中文
@@ -529,7 +505,7 @@ web:
     voice: zh
     url: https://web.archive.org/web/20180508100032/http://www.bbc.com/zhongwen/simp/chinese-news-44035920
     excerpt: true
-    keep: [我将认真地接受改造]
+    keep: [ 我将认真地接受改造 ]
   - id: b07-guardian-2017-09-30-sun
     title: Xi curbs dissent as Communist party expels former rising star
     publisher: The Guardian
@@ -538,7 +514,7 @@ web:
     lang: en
     url: https://www.theguardian.com/world/2017/sep/30/xi-curbs-dissent-as-communist-party-expels-former-rising-star
     excerpt: true
-    keep: [failure to profess full loyalty, tasked with erasing Bo]
+    keep: [ failure to profess full loyalty, tasked with erasing Bo ]
   # ---- Chen Liangyu ----
   - id: b07-xinhua-2002-11-16-chen-resume
     title: 陈良宇简历
@@ -579,7 +555,7 @@ web:
     voice: official
     url: https://www.gmw.cn/01wzb/2008-04/27/content_766915.htm
     excerpt: true
-    keep: [我对不起党，对不起上海人民, 陈的妻子黄毅玲]
+    keep: [ 我对不起党，对不起上海人民, 陈的妻子黄毅玲 ]
   - id: b07-bbc-2006-10-08-chen-shanghai-gang
     title: 六中全会 胡锦涛将进一步巩固权力
     publisher: BBC 中文
@@ -587,7 +563,7 @@ web:
     voice: zh
     url: http://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4800000/newsid_4802100/4802165.stm
     excerpt: true
-    keep: [上海帮, 江泽民的根据地, 江泽民时代已经结束]
+    keep: [ 上海帮, 江泽民的根据地, 江泽民时代已经结束 ]
   - id: b07-voa-2006-09-27-chen-qiu
     title: 陈良宇下台与权力斗争
     publisher: 美国之音
@@ -595,7 +571,11 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/a-21-w2006-09-27-voa15-63056307/1044955.html
     excerpt: true
-    keep: [否认陈良宇下台与高层权力斗争有关, 都是江泽民提拔的人, 公开顶撞温家宝]
+    keep:
+      - 否认陈良宇下台与高层权力斗争有关
+      - 都是江泽民提拔的人
+      - 公开顶撞温家宝
+      - 上海帮以陈良宇和黄菊为代表
   - id: b07-reuters-2008-04-11-chen-jailed
     title: Ex-Shanghai Party boss jailed for 18 years
     publisher: Reuters
@@ -604,4 +584,4 @@ web:
     lang: en
     url: https://web.archive.org/web/2020/https://www.reuters.com/article/world/ex-shanghai-party-boss-jailed-for-18-years-idUSSP170882/
     excerpt: true
-    keep: [widely seen as a close associate of former president Jiang Zemin, cleared Chen of a charge of dereliction of duty, misuse of social security funds]
+    keep: [ widely seen as a close associate of former president Jiang Zemin, cleared Chen of a charge of dereliction of duty, misuse of social security funds ]

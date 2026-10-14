@@ -119,7 +119,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-42470602
     excerpt: true
-    keep: [至少一万人, 两百名平民, 几百至一千多不等]
+    keep: [ 至少一万人, 两百名平民, 几百至一千多不等 ]
   - id: e01-voa-2017-12-22-june4-toll
     title: 英国解密六四外交档案：约1万平民死亡
     publisher: 美国之音
@@ -127,7 +127,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/declassified-documents-china-june-4th-20171221/4174528.html
     excerpt: true
-    keep: [六四事件的死亡人数有许多不同版本]
+    keep: [ 六四事件的死亡人数有许多不同版本 ]
   # 1999 Falun Gong
   - id: e01-bbc-2000-04-25-falungong-year
     title: 法轮功示威周年回顾
@@ -136,7 +136,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_725000/7255061.stm
     excerpt: true
-    keep: [最大威胁, 一万多名法轮功学员, 三万五千名, 一千五百人]
+    keep: [ 最大威胁, 一万多名法轮功学员, 三万五千名, 一千五百人 ]
   # 2000 Cheng Kejie
   - id: e01-chinanews-2000-09-14-cheng-kejie
     title: 成克杰严重受贿犯罪案件警示录
@@ -145,7 +145,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/2000-09-14/26/46471.html
     excerpt: true
-    keep: [四千余万元, 职务最高的领导干部, 一致同意撤销成克杰]
+    keep: [ 四千余万元, 职务最高的领导干部, 一致同意撤销成克杰 ]
   # 2000 Taiwan
   - id: e01-bbc-2000-03-18-chen-shuibian
     title: 陈水扁当选为台湾总统
@@ -154,7 +154,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_680000/newsid_682100/682139.stm
     excerpt: true
-    keep: [39.3%, 国务院台湾办公室的声明]
+    keep: [ 39.3%, 国务院台湾办公室的声明 ]
   # 2002 16th CC first plenum
   - id: e01-ccphistory-2002-11-15-16cc-plenum1
     title: 中国共产党第十六届中央委员会第一次全体会议公报
@@ -163,7 +163,7 @@ web:
     voice: doc
     url: https://www.ccphistory.org.cn/shds/zggcddslcqgdbdh/content/c9fc56f6-dd35-4e7e-85f2-a94758de96a1.html
     excerpt: true
-    keep: [出席会议的有中央委员, 胡锦涛 吴邦国 温家宝]
+    keep: [ 出席会议的有中央委员, 胡锦涛 吴邦国 温家宝 ]
   # 2003 SARS
   - id: e01-xinhua-2003-04-20-sars-dismissals
     title: 中共中央决定：免去张文康、孟学农的党内职务
@@ -172,7 +172,7 @@ web:
     voice: official
     url: https://news.sohu.com/85/85/news208638585.shtml
     excerpt: true
-    keep: [免去张文康的卫生部党组书记职务]
+    keep: [ 免去张文康的卫生部党组书记职务 ]
   - id: e01-bbc-2003-04-09-jiang-yanyong
     title: 中国军医斥当局隐瞒疫情
     publisher: BBC 中文
@@ -180,7 +180,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_2930000/newsid_2931000/2931017.stm
     excerpt: true
-    keep: [单是解放军309医院, 北京只有19个, 军方医院不在张文康的管辖范围]
+    keep: [ 单是解放军309医院, 北京只有19个, 军方医院不在张文康的管辖范围 ]
   - id: e01-bbc-2023-03-13-jiang-yanyong-obit
     title: 蒋彦永：率先揭露中国SARS真相的军医去世，曾持续呼吁平反“六四”
     publisher: BBC 中文
@@ -188,7 +188,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-64937357
     excerpt: true
-    keep: [官员竭力淡化, 存在较大疏漏]
+    keep: [ 官员竭力淡化, 存在较大疏漏 ]
   # 2003 Sun Zhigang
   - id: e01-bbc-2003-06-27-sun-zhigang
     title: 法院驳回孙志刚案刑犯上诉
@@ -197,7 +197,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_3020000/newsid_3025200/3025222.stm
     excerpt: true
-    keep: [判处主要被告乔燕琴死刑, 错误收容, 行之21年]
+    keep: [ 判处主要被告乔燕琴死刑, 错误收容, 行之21年 ]
   - id: e01-bbc-2003-05-sun-zhigang-petition
     title: 三名法学博士上书人大 要求审查收容遣送办法
     publisher: BBC 中文
@@ -205,7 +205,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_2930000/newsid_2933300/2933334.stm
     excerpt: true
-    keep: [许志永, 违宪审查]
+    keep: [ 许志永, 违宪审查 ]
   # 2003 Hong Kong
   - id: e01-bbc-2003-07-01-hk-march
     title: 香港数十万人游行反国安法
@@ -214,7 +214,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_3030000/newsid_3034000/3034014.stm
     excerpt: true
-    keep: [民间人权阵线, 35万人]
+    keep: [ 民间人权阵线, 35万人 ]
   - id: e01-bbc-2024-03-19-hk-art23-history
     title: 香港“23条”的前世今生：三十年来民意与权力当局较量的五个节点
     publisher: BBC 中文
@@ -222,7 +222,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-68634200
     excerpt: true
-    keep: [钱其琛催促, 只好撤回草案, 人心未回归]
+    keep: [ 钱其琛催促, 只好撤回草案, 人心未回归 ]
   # 2003 Six-Party Talks
   - id: e01-chinanews-2003-08-27-six-party
     title: 朝核问题六方会谈第一天 各方表达各自态度
@@ -231,7 +231,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/n/2003-08-27/26/340092.html
     excerpt: true
-    keep: [北京钓鱼台国宾馆正式开始, 三方会谈的延续和扩大]
+    keep: [ 北京钓鱼台国宾馆正式开始, 三方会谈的延续和扩大 ]
   # 2004 Hong Kong interpretation
   - id: e01-locpg-2004-04-06-npcsc-interpretation
     title: 全国人民代表大会常务委员会关于《中华人民共和国香港特别行政区基本法》附件一第七条和附件二第三条的解释
@@ -240,16 +240,7 @@ web:
     voice: doc
     url: http://www.locpg.gov.cn/flfg/2004-04/06/c_118817286.htm
     excerpt: true
-    keep: [含二○○七年, 如果不作修改, 提出报告, 予以确定]
-  # 2005
-  - id: e01-xinhua-2005-01-29-zhao-ziyang
-    title: 赵紫阳同志遗体在京火化 贾庆林等为遗体送别
-    publisher: 新华网（Wayback 存档）
-    date: 2005-01-29
-    voice: official
-    url: https://web.archive.org/web/20170304193441/http://news.xinhuanet.com/newscenter/2005-01/29/content_2522658.htm
-    excerpt: true
-    keep: [终年８５岁, 犯了严重错误, 曾庆红同志代表中央领导同志]
+    keep: [ 含二○○七年, 如果不作修改, 提出报告, 予以确定 ]
   - id: e01-gov-2005-03-12-tung-resign
     title: 批准董建华辞去香港行政长官职务（国务院令第433号）
     publisher: 中国政府网
@@ -257,7 +248,7 @@ web:
     voice: doc
     url: https://www.gov.cn/zwgk/2005-05/23/content_273.htm
     excerpt: true
-    keep: [第 433 号, 于2005年3月12日离职]
+    keep: [ 第 433 号, 于2005年3月12日离职 ]
   - id: e01-xinhua-2005-03-12-tung-report
     title: 董建华关于请辞香港行政长官职务的报告（全文）
     publisher: 新华网（新浪转载）
@@ -265,7 +256,7 @@ web:
     voice: official
     url: http://news.sina.com.cn/c/2005-03-12/18216068935.shtml
     excerpt: true
-    keep: [健康状况大不如前]
+    keep: [ 健康状况大不如前 ]
   - id: e01-bbc-2005-04-09-antijapan-beijing
     title: 北京数千民众举行反日大游行
     publisher: BBC 中文
@@ -273,7 +264,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4420000/newsid_4427100/4427161.stm
     excerpt: true
-    keep: [反对日本成为安理会常任理事国, 至少有1000人, 成都发生了一次事故]
+    keep: [ 反对日本成为安理会常任理事国, 至少有1000人, 成都发生了一次事故 ]
   - id: e01-bbc-2005-04-16-antijapan-shanghai
     title: 中国上海发生大规模反日示威
     publisher: BBC 中文
@@ -281,7 +272,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4450000/newsid_4450900/4450943.stm
     excerpt: true
-    keep: [大约有5000人, 首次获准举行大规模游行]
+    keep: [ 大约有5000人, 首次获准举行大规模游行 ]
   - id: e01-bbc-2005-08-27-super-girl
     title: “超级女声”歌唱比赛风靡中国
     publisher: BBC 中文
@@ -289,7 +280,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4190000/newsid_4190400/4190478.stm
     excerpt: true
-    keep: [15万人前来参加, 获得了350万票, 民主的真谛]
+    keep: [ 15万人前来参加, 获得了350万票, 民主的真谛 ]
   - id: e01-bbc-2005-08-super-girl-politics
     title: 透视中国：“超女”粉丝的非政治化娱乐
     publisher: BBC 中文
@@ -297,7 +288,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4190000/newsid_4194200/4194280.stm
     excerpt: true
-    keep: [民主启蒙, 颜色革命]
+    keep: [ 民主启蒙, 颜色革命 ]
   - id: e01-cyol-2005-12-03-songhua
     title: 国家环保总局局长解振华因松花江水污染事件辞职
     publisher: 中国青年报（新华社稿）
@@ -305,7 +296,7 @@ web:
     voice: official
     url: http://zqb.cyol.com/content/2005-12/03/content_1212524.htm
     excerpt: true
-    keep: [双苯厂发生爆炸事故, 对可能产生的严重后果估计不足]
+    keep: [ 双苯厂发生爆炸事故, 对可能产生的严重后果估计不足 ]
   - id: e01-bbc-2005-12-11-dongzhou
     title: 广东汕尾警民冲突下令开枪官员被拘
     publisher: BBC 中文
@@ -313,7 +304,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_4510000/newsid_4518300/4518398.stm
     excerpt: true
-    keep: [现场指挥员处置失当, 3人死亡、8人受伤, 多达20人, 7万4千起]
+    keep: [ 现场指挥员处置失当, 3人死亡、8人受伤, 多达20人, 7万4千起 ]
   # 2006
   - id: e01-chinanews-2006-01-23-mantou
     title: 《无极》网上变身“馒头血案”：中国影迷的自娱自乐
@@ -322,7 +313,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/news/2006/2006-01-23/8/681997.shtml
     excerpt: true
-    keep: [2005年的最后一天, 百度电影搜索榜]
+    keep: [ 2005年的最后一天, 百度电影搜索榜 ]
   - id: e01-chinanews-2006-02-14-mantou-suit
     title: 陈凯歌柏林发飙 要对“馒头血案”作者一告到底
     publisher: 中国新闻网（新闻晨报稿）
@@ -330,7 +321,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/news/2006/2006-02-14/8/689908.shtml
     excerpt: true
-    keep: [对作者胡戈一告到底, 侵犯著作权一项]
+    keep: [ 对作者胡戈一告到底, 侵犯著作权一项 ]
   - id: e01-bbc-2006-01-25-bingdian
     title: 中国媒体遭寒流 “冰点”被停刊
     publisher: BBC 中文
@@ -338,7 +329,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4640000/newsid_4648800/4648842.stm
     excerpt: true
-    keep: [突然被勒令停刊整顿, 1月11日发表中山大学教授袁伟时]
+    keep: [ 突然被勒令停刊整顿, 1月11日发表中山大学教授袁伟时 ]
   - id: e01-bbc-2006-02-16-bingdian-return
     title: 冰点即将复刊 主编和副主编被免职
     publisher: BBC 中文
@@ -346,7 +337,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4720000/newsid_4721100/4721114.stm
     excerpt: true
-    keep: [将在3月1日复刊, 严重违背历史事实]
+    keep: [ 将在3月1日复刊, 严重违背历史事实 ]
   - id: e01-bbc-2006-09-25-chen-liangyu
     title: 中共上海市委书记陈良宇被革职
     publisher: BBC 中文
@@ -354,7 +345,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_5370000/newsid_5376900/5376972.stm
     excerpt: true
-    keep: [违规使用社保资金, 不论是谁, 被撤换的最高层官员]
+    keep: [ 违规使用社保资金, 不论是谁, 被撤换的最高层官员 ]
   - id: e01-bbc-2006-09-29-chen-liangyu-ft
     title: 陈良宇案暴露中国政治体制问题（报摘）
     publisher: BBC 中文
@@ -362,15 +353,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_5390000/newsid_5393000/5393044.stm
     excerpt: true
-    keep: [政治暗杀, 进一步巩固了他的权力]
-  - id: e01-voa-2006-09-27-chen-liangyu
-    title: 陈良宇倒台应有中共权力斗争背景
-    publisher: 美国之音
-    date: 2006-09-27
-    voice: zh
-    url: https://www.voachinese.com/a/a-21-w2006-09-27-voa15-63056307/1044955.html
-    excerpt: true
-    keep: [否认陈良宇下台与高层权力斗争有关, 上海帮以陈良宇和黄菊为代表]
+    keep: [ 政治暗杀, 进一步巩固了他的权力 ]
   # 2007
   - id: e01-chinanews-2007-01-23-asat
     title: 中方进行外空试验 强调不参加任何外空军备竞赛
@@ -379,7 +362,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2007/01-23/859780.shtml
     excerpt: true
-    keep: [不针对任何国家, 包括美国、日本在内, 卫星, 军备竞赛]
+    keep: [ 不针对任何国家, 包括美国、日本在内, 卫星, 军备竞赛 ]
   - id: e01-bbc-2007-04-02-nail-house
     title: “最牛钉子户”房屋夜幕下被拆除
     publisher: BBC 中文
@@ -387,7 +370,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6520000/newsid_6520100/6520175.stm
     excerpt: true
-    keep: [易地实物安置, 该区280户陆续迁走, 刚刚通过不久]
+    keep: [ 易地实物安置, 该区280户陆续迁走, 刚刚通过不久 ]
   - id: e01-bbc-2007-06-02-xiamen-px
     title: 厦门民众示威 政府缓建化工厂
     publisher: BBC 中文
@@ -395,7 +378,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6710000/newsid_6714400/6714425.stm
     excerpt: true
-    keep: [上千名市民游行到市政府大楼外, 宣布缓建由台商投资, 通过正常渠道]
+    keep: [ 上千名市民游行到市政府大楼外, 宣布缓建由台商投资, 通过正常渠道 ]
   - id: e01-chinanews-2007-06-15-brick-kilns
     title: 黑砖窑现“奴工” 山西开展打击非法用工专项行动
     publisher: 中国新闻网
@@ -403,7 +386,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2007/06-15/958400.shtml
     excerpt: true
-    keep: [一百六十二名, 九人为智障人员]
+    keep: [ 一百六十二名, 九人为智障人员 ]
   - id: e01-cctv-2007-07-18-brick-kiln-verdicts
     title: 山西公布“黑砖窑”案第1批判决结果：主犯被判死刑
     publisher: 央视国际（中国政府网稿）
@@ -411,7 +394,7 @@ web:
     voice: official
     url: http://news.cctv.com/special/C16652/20070718/103798.shtml
     excerpt: true
-    keep: [主犯赵延兵被判处死刑, ２９名被告人]
+    keep: [ 主犯赵延兵被判处死刑, ２９名被告人 ]
   - id: e01-cctv-2007-07-10-zheng-xiaoyu
     title: 郑筱萸落马始末：受贿649万滥发药品文号
     publisher: 央视国际（新华社稿）
@@ -419,7 +402,7 @@ web:
     voice: official
     url: https://news.cctv.com/china/20070710/105868.shtml
     excerpt: true
-    keep: [款物合计649万余元, 两罪并罚]
+    keep: [ 款物合计649万余元, 两罪并罚 ]
   - id: e01-cctv-2008-12-23-hhhbl
     title: 2008网络流行语：很黄很暴力
     publisher: 央视网
@@ -427,7 +410,7 @@ web:
     voice: official
     url: http://www.cctv.com/special/C22314/20081223/107148.shtml
     excerpt: true
-    keep: [净化网络视听, 很好很强大]
+    keep: [ 净化网络视听, 很好很强大 ]
   - id: e01-chinanews-2008-06-29-tiger
     title: 陕西省通报“华南虎照事件”中周正龙造假细节
     publisher: 中国新闻网
@@ -435,7 +418,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2008/06-29/1296403.shtml
     excerpt: true
-    keep: [用老虎画拍摄的假虎照, 两万元人民币奖金]
+    keep: [ 用老虎画拍摄的假虎照, 两万元人民币奖金 ]
   - id: e01-chinanews-2008-06-29-tiger-timeline
     title: 新闻资料：陕西“华南虎”照片事件发展过程回顾
     publisher: 中国新闻网
@@ -443,7 +426,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2008/06-29/1296173.shtml
     excerpt: true
-    keep: [10月12日，陕西省林业厅宣布]
+    keep: [ 10月12日，陕西省林业厅宣布 ]
   - id: e01-chinanews-2008-06-29-tiger-officials
     title: 陕西通报对“华南虎照事件”13责任人处理情况
     publisher: 中国新闻网
@@ -451,4 +434,4 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2008/06-29/1296392.shtml
     excerpt: true
-    keep: [十三名责任人]
+    keep: [ 十三名责任人 ]

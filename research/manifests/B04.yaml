@@ -199,6 +199,8 @@ web:
       - No assets were traced to Xi
       - Most of the extended Xi family
       - is the founding chairman of an energy advisory body
+      - Qi Qiaoqiao, 63
+      - Xi Yuanping, is the founding chairman
   - id: b04-bbc-2012-06-29-bloomberg-blocked
     title: China blocks access to Bloomberg and Businessweek sites
     publisher: BBC News
@@ -264,19 +266,9 @@ web:
       - 集体领导可能会进一步削弱
       - 十九大又将自己的思想写入党章
       - 中国只有一个派
-  - id: b04-bbc-2022-10-23-third-term
-    title: 中共二十届政治局常委：习近平开启历史性第三任期 李强预计出任总理 胡春华未入局
-    publisher: BBC 中文
-    date: 2022-10-23
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-63362555
-    excerpt: true
-    keep:
-      - 七位中共中央政治局常委按照出场顺序
-      - 习近平一如所料
-      - 新一任常委中没有较年轻的潜在接班人
-      - 他的行为就像一位没有任何权力限制的领导人
-      - 完全由习近平的门徒和坚定盟友组成
+      - 占了两席
+      - 团派、上海帮被大幅削弱
+      - 习家军
   - id: b04-bbc-2022-12-covid-turn
     title: 中国疫情政策大转向：糟糕的时间点，缺席的路线图和流失的信任
     publisher: BBC 中文
@@ -318,6 +310,14 @@ web:
       - 31集团军军部驻福建厦门同安
       - 形容“非常令人困惑”
       - 他们试图建立威胁军内权力平衡的权力基础
+      - 都出身于31集团军
+      - 显著的“派系标签”
+      - 王春宁虽然不属于
+      - 何宏军曾在兰州军区
+      - 派系标签
+      - 不仅因腐败，而是变得太有野心
+      - 31集团军
+      - 不属于
   - id: b04-bbc-2026-01-zhang-youxia
     title: 中国调查解放军最高级将领张又侠 官媒批其“造成极大破坏”
     publisher: BBC 中文
@@ -331,20 +331,11 @@ web:
       - 仅隔三个月
       - 严重践踏破坏军委主席负责制
       - 原有的六名将领已有五人相继落马
-  - id: b04-brookings-2013-princelings
-    title: Rule of the Princelings
-    publisher: Brookings
-    author: Cheng Li
-    voice: scholar
-    lang: en
-    url: https://www.brookings.edu/articles/rule-of-the-princelings/
-    excerpt: true
-    keep:
-      - currently led by Xi Jinping
-      - six out of the seven seats
-      - Four princeling leaders on the PSC
-      - the chief of the fire brigade
-      - Is it driven merely by factional interest
+      - 张宗逊
+      - 五人相继落马
+      - 落马比例达到了25%
+      - 少数几位拥有实战经验
+      - 72岁之龄
   - id: b04-npr-2025-05-28-torigian
     title: In 'The Party's Interests Come First,' Joseph Torigian tries to understand Xi Jinping through his father
     publisher: NPR

@@ -8,7 +8,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2013/01/130107_southern_weekends_review
     excerpt: true
-    keep: [新年献词, 庹震, 官方微博, 经济部全体编采人员]
+    keep: [ 新年献词, 庹震, 官方微博, 经济部全体编采人员 ]
   - id: e03-gov-2013-03-14-npc-election
     title: 十二届全国人大一次会议选举产生新一届国家领导人 批准国务院机构改革和职能转变方案
     publisher: 新华社（中国政府网）
@@ -16,7 +16,7 @@ web:
     voice: official
     url: https://www.gov.cn/2013lh/content_2353925.htm
     excerpt: true
-    keep: [第四次全体会议, 应出席代表, 新当选的国家主席, 新当选的全国人大常委会委员长]
+    keep: [ 第四次全体会议, 应出席代表, 新当选的国家主席, 新当选的全国人大常委会委员长 ]
   - id: e03-bbc-2013-05-13-document-9
     title: 中共下发意识形态文件 通报神龙不见首尾
     publisher: BBC 中文
@@ -24,7 +24,11 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/05/130513_china_politics_ideology
     excerpt: true
-    keep: [中办发, 七个方面, 七不讲, 普世价值]
+    keep:
+      - 中办发
+      - 七个方面
+      - 七不讲
+      - 普世价值
   - id: e03-nytcn-2013-08-20-document-9
     title: 中央秘密文件视宪政与人权为威胁
     publisher: 纽约时报中文网
@@ -33,22 +37,10 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20130820/c20document/
     excerpt: true
-    keep: [七大危险, 9号文件, 四名接近中共高级官员]
-  - id: e03-people-2013-09-22-bo-verdict
-    title: 薄熙来一审被判处无期徒刑
-    publisher: 新华社（人民网）
-    date: 2013-09-22
-    voice: official
-    url: http://politics.people.com.cn/n/2013/0922/c1001-22990622.html
-    start: 新华网济南
-    end: 依法作出上述判决。
-  - id: e03-gov-2013-09-07-silk-road
-    title: 习近平在哈萨克斯坦纳扎尔巴耶夫大学发表重要演讲
-    publisher: 新华社（中国政府网）
-    date: 2013-09-07
-    voice: official
-    url: https://www.gov.cn/ldhd/2013-09/07/content_2483425.htm
-    start: 新华社阿斯塔纳
+    keep:
+      - 七大危险
+      - 9号文件
+      - 四名接近中共高级官员
   - id: e03-gov-2013-11-15-reform-decision
     title: 中共中央关于全面深化改革若干重大问题的决定
     publisher: 新华社（中国政府网）
@@ -64,7 +56,7 @@ web:
     voice: official
     url: https://www.chinanews.com.cn/mil/2013/11-23/5538398.shtml
     excerpt: true
-    keep: [宣布划设东海防空识别区, 具体范围为]
+    keep: [ 宣布划设东海防空识别区, 具体范围为 ]
   - id: e03-bbc-2013-12-28-baozi
     title: 习近平亲民秀 排队端盘买包子
     publisher: BBC 中文
@@ -72,7 +64,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/12/131228_xijinping_beijing_baozi
     excerpt: true
-    keep: [新华视点, 一共消费了21元, 取消特供制度, 亲民]
+    keep: [ 新华视点, 一共消费了21元, 取消特供制度, 亲民 ]
   - id: e03-bbc-2013-12-29-baozi-reaction
     title: 习近平买包子余波未了“主席套餐”脱销
     publisher: BBC 中文
@@ -80,7 +72,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2013/12/131229_xi_steamed_buns_reaction
     excerpt: true
-    keep: [主席套餐, 脱销]
+    keep: [ 主席套餐, 脱销 ]
   # 2014
   - id: e03-bbc-2014-01-26-xu-zhiyong
     title: 许志永一审被判刑四年
@@ -89,7 +81,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/01/140126_china_xu_verdict
     excerpt: true
-    keep: [聚众扰乱公共场所秩序, 官员财产公开, 丁家喜]
+    keep: [ 聚众扰乱公共场所秩序, 官员财产公开, 丁家喜 ]
   - id: e03-court-2014-11-01-kunming
     title: “3·01”严重暴恐案二审当庭宣判
     publisher: 人民法院报（最高人民法院网）
@@ -97,7 +89,7 @@ web:
     voice: official
     url: https://www.court.gov.cn/fabu/xiangqing/8405.html
     excerpt: true
-    keep: [二审公开开庭审理, 致31人死亡]
+    keep: [ 二审公开开庭审理, 致31人死亡 ]
   - id: e03-bbc-2014-03-03-kunming
     title: 中国警方追捕在逃昆明袭击者
     publisher: BBC 中文
@@ -105,7 +97,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/03/140303_kunming_attack
     excerpt: true
-    keep: [至少29名, 新疆分裂分子, 两会即将召开]
+    keep: [ 至少29名, 新疆分裂分子, 两会即将召开 ]
   - id: e03-bbc-2014-03-19-sunflower
     title: 特稿：服贸协议何以成为台湾政治风暴？
     publisher: BBC 中文
@@ -113,31 +105,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/03/140319_taiwan_parliament
     excerpt: true
-    keep: [冲进了台湾的立法院, 张庆忠, 逐条、逐项]
-  - id: e03-people-2014-06-30-xu-caihou
-    title: 中共中央决定给予徐才厚开除党籍处分
-    publisher: 新华社（人民网）
-    date: 2014-06-30
-    voice: official
-    url: http://politics.people.com.cn/n/2014/0630/c1001-25220218.html
-    start: 新华网北京6月30日电
-    end: 影响恶劣。
-  - id: e03-gov-2014-07-29-zhou-yongkang
-    title: 中共中央决定对周永康严重违纪问题立案审查
-    publisher: 新华社（中国政府网）
-    date: 2014-07-29
-    voice: official
-    url: https://www.gov.cn/xinwen/2014-07/29/content_2726631.htm
-    start: 新华社北京7月29日电
-    end: 对其立案审查。
-  - id: e03-bbc-2014-09-23-ilham-tohti
-    title: 新疆法院一审判处伊力哈木无期徒刑
-    publisher: BBC 中文
-    date: 2014-09-23
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/china/2014/09/140923_china_ilham_tohti_sentence
-    excerpt: true
-    keep: [判处无期徒刑, 维吾尔在线, 法庭审理查明]
+    keep: [ 冲进了台湾的立法院, 张庆忠, 逐条、逐项 ]
   - id: e03-bbc-2014-09-28-occupy
     title: 香港警方多次向占中示威者释放催泪弹
     publisher: BBC 中文
@@ -145,7 +113,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/09/140928_hk_live
     excerpt: true
-    keep: [正式启动, 撤回人大决定, 占中是违法运动, 26人送院]
+    keep: [ 正式启动, 撤回人大决定, 占中是违法运动, 26人送院 ]
   - id: e03-bbc-2014-09-29-teargas
     title: 香港警方：周日共发射87枚催泪弹
     publisher: BBC 中文
@@ -153,7 +121,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2014/09/140929_hong_kong_police
     excerpt: true
-    keep: [87枚催泪弹, 记者协会]
+    keep: [ 87枚催泪弹, 记者协会 ]
   - id: e03-gov-2014-10-28-rule-of-law
     title: 中共中央关于全面推进依法治国若干重大问题的决定
     publisher: 新华社（中国政府网）
@@ -169,14 +137,6 @@ web:
     voice: official
     url: https://www.gov.cn/xinwen/2014-11/01/content_2773991.htm
     start: 新华社福建上杭古田
-  - id: e03-ce-2014-12-22-ling-jihua
-    title: 令计划涉嫌严重违纪正接受组织调查
-    publisher: 新华网（中国经济网）
-    date: 2014-12-22
-    voice: official
-    url: http://www.ce.cn/xwzx/gnsz/szyw/201412/22/t20141222_4178110.shtml
-    start: 新华网北京12月22日电
-    end: 正接受组织调查。
   # 2015
   - id: e03-xinhua-2015-06-11-zhou-verdict
     title: 周永康一审被判处无期徒刑
@@ -192,7 +152,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/business/2015/07/150708_china_share_market_plunge
     excerpt: true
-    keep: [恐慌情绪, 1200亿, 国资委, 拆借]
+    keep: [ 恐慌情绪, 1200亿, 国资委, 拆借 ]
   - id: e03-bbc-2015-07-06-stock-review
     title: 点评中国：股灾拯救了中国超级牛市
     publisher: BBC 中文
@@ -200,7 +160,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/07/150706_cr_chinese_stock_markets
     excerpt: true
-    keep: [5166.35, 杠杆]
+    keep: [ 5166.35, 杠杆 ]
   - id: e03-jjckb-2015-08-15-csf
     title: 证监会：证金暂不退出 汇金接手部分股票
     publisher: 经济参考报（新华社）
@@ -208,7 +168,7 @@ web:
     voice: official
     url: http://www.jjckb.cn/2015-08/15/c_134519638.htm
     excerpt: true
-    keep: [第21号公告, 不会退出, 协议转让]
+    keep: [ 第21号公告, 不会退出, 协议转让 ]
   - id: e03-bbc-2015-07-11-lawyers
     title: 中国大批维权律师及相关人士“遭当局抓捕”
     publisher: BBC 中文
@@ -216,7 +176,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/07/150711_china_lawyers
     excerpt: true
-    keep: [王宇周四, 57名, 锋锐律师事务所就已经有多人, 没有任何解释]
+    keep: [ 王宇周四, 57名, 锋锐律师事务所就已经有多人, 没有任何解释 ]
   - id: e03-xinhua-2015-07-11-weiquan
     title: 揭开“维权”事件的黑幕
     publisher: 新华网
@@ -225,7 +185,7 @@ web:
     voice: official
     url: http://www.xinhuanet.com/politics/2015-07/11/c_128010249.htm
     excerpt: true
-    keep: [在公安部的部署指挥下, 维权圈, 刑事拘留]
+    keep: [ 在公安部的部署指挥下, 维权圈, 刑事拘留 ]
   - id: e03-voa-2016-01-13-fengrui-arrests
     title: 北京律师周世锋王宇等批捕 涉“颠覆国家政权”
     publisher: 美国之音中文网
@@ -233,7 +193,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/beijing-rights-lawyer-arrested-20160113/3142998.html
     excerpt: true
-    keep: [颠覆国家政权罪, 指定监视居住半年期满]
+    keep: [ 颠覆国家政权罪, 指定监视居住半年期满 ]
   - id: e03-nea-2015-07-31-guo-boxiong
     title: 中共中央决定给予郭伯雄开除党籍处分
     publisher: 新华网（国家能源局网站转载）
@@ -241,7 +201,7 @@ web:
     voice: official
     url: http://www.nea.gov.cn/2015-07/31/c_134465494.htm
     excerpt: true
-    keep: [7月30日，中共中央政治局会议, 2015年4月9日]
+    keep: [ 7月30日，中共中央政治局会议, 2015年4月9日 ]
   - id: e03-xinhua-2016-02-05-tianjin-report
     title: 天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告公布
     publisher: 新华社
@@ -249,7 +209,7 @@ web:
     voice: official
     url: http://www.xinhuanet.com/politics/2016-02/05/c_1118005206.htm
     excerpt: true
-    keep: [国务院近日批复, 造成165人遇难]
+    keep: [ 国务院近日批复, 造成165人遇难 ]
   - id: e03-xinhua-2015-09-03-troop-cut
     title: 习近平在纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会上的讲话
     publisher: 新华社
@@ -271,7 +231,7 @@ web:
     voice: official
     url: https://www.gov.cn/xinwen/2015-11/07/content_5006010.htm
     excerpt: true
-    keep: [新华社新加坡11月7日电, 九二共识, 共进晚餐]
+    keep: [ 新华社新加坡11月7日电, 九二共识, 共进晚餐 ]
   - id: e03-bbc-2015-11-07-ma-statement
     title: “习马会”：马英九讲话全文
     publisher: BBC 中文
@@ -279,7 +239,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2015/11/151107_ma_ying-jeou_statement
     excerpt: true
-    keep: [穿越66年的时空, 以对话取代对立]
+    keep: [ 穿越66年的时空, 以对话取代对立 ]
   - id: e03-xinhua-2015-11-10-supply-side
     title: 习近平主持召开中央财经领导小组第十一次会议
     publisher: 新华网
@@ -287,7 +247,7 @@ web:
     voice: official
     url: https://www.xinhuanet.com/politics/2015-11/10/c_1117099915.htm
     excerpt: true
-    keep: [供给侧结构性改革, 宏观政策要稳]
+    keep: [ 供给侧结构性改革, 宏观政策要稳 ]
   - id: e03-gov-2015-11-26-military-reform
     title: 习近平：全面实施改革强军战略 坚定不移走中国特色强军之路
     publisher: 新华社（中国政府网）
@@ -295,7 +255,7 @@ web:
     voice: official
     url: https://www.gov.cn/xinwen/2015-11/26/content_5017385.htm
     excerpt: true
-    keep: [中央军委改革工作会议11月24日至26日, 军委管总、战区主战、军种主建]
+    keep: [ 中央军委改革工作会议11月24日至26日, 军委管总、战区主战、军种主建 ]
   - id: e03-xinhua-2015-11-27-mod-16
     title: 国防部详解深化国防和军队改革的十六个问题
     publisher: 新华网
@@ -303,7 +263,7 @@ web:
     voice: official
     url: http://www.xinhuanet.com/mil/2015-11/27/c_1117283565.htm
     excerpt: true
-    keep: [里程碑意义, 落实裁减军队员额]
+    keep: [ 里程碑意义, 落实裁减军队员额 ]
   - id: e03-bbc-2016-06-16-causeway-bay
     title: 书店店长爆“被失踪”内幕 香港各界反应
     publisher: BBC 中文
@@ -311,7 +271,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/06/160616_hongkong_bookstore_reactions
     excerpt: true
-    keep: [中央专案组, 违反“一国两制”, 无权执法, 相继“失踪”]
+    keep: [ 中央专案组, 违反“一国两制”, 无权执法, 相继“失踪” ]
   - id: e03-gov-2015-08-11-rmb-fixing
     title: 人民银行决定完善人民币兑美元汇率中间价报价
     publisher: 新华社（中国政府网，Wayback）
@@ -319,7 +279,7 @@ web:
     voice: official
     url: https://web.archive.org/web/20200924195519/http://www.gov.cn/xinwen/2015-08/11/content_2911052.htm
     excerpt: true
-    keep: [中国人民银行11日宣布, 当前人民币对美元汇率中间价的形成方式]
+    keep: [ 中国人民银行11日宣布, 当前人民币对美元汇率中间价的形成方式 ]
   - id: e03-mission-2015-08-pbc-qa
     title: 中国人民银行新闻发言人就完善人民币汇率中间价报价问题答记者问
     publisher: 中国驻欧盟使团网站（转载人民银行）
@@ -327,7 +287,7 @@ web:
     voice: official
     url: https://eu.china-mission.gov.cn/zclc/201508/t20150819_8341445.htm
     excerpt: true
-    keep: [接近2%的变化, 偏离市场汇率幅度较大]
+    keep: [ 接近2%的变化, 偏离市场汇率幅度较大 ]
   - id: e03-ce-2015-08-11-rmb-1000
     title: 汇率制度迎重大变革：央行大幅下调人民币中间价逾1000点
     publisher: 中国日报网（中国经济网）
@@ -335,15 +295,7 @@ web:
     voice: official
     url: http://finance1.ce.cn/rolling/201508/11/t20150811_6190753.shtml
     excerpt: true
-    keep: [6.2298, 1136]
-  - id: e03-gov-2016-07-04-ling-verdict
-    title: 令计划一审被判处无期徒刑
-    publisher: 最高人民法院网
-    date: 2016-07-04
-    voice: official
-    url: https://www.court.gov.cn/zixun/xiangqing/23001.html
-    excerpt: true
-    keep: [2016年7月4日，天津市第一中级人民法院, 不公开开庭审理, 受贿数额特别巨大]
+    keep: [ 6.2298, 1136 ]
   # 2016
   - id: e03-xinhua-2016-01-16-aiib
     title: 习近平出席亚洲基础设施投资银行开业仪式并致辞
@@ -352,7 +304,7 @@ web:
     voice: official
     url: http://www.xinhuanet.com/politics/2016-01/16/c_1117796274.htm
     excerpt: true
-    keep: [新华社北京1月16日电, 57个创始成员国, 卓越的领导力]
+    keep: [ 新华社北京1月16日电, 57个创始成员国, 卓越的领导力 ]
   - id: e03-mfa-2016-01-16-aiib-speech
     title: 习近平在亚洲基础设施投资银行开业仪式上的致辞
     publisher: 外交部
@@ -360,7 +312,7 @@ web:
     voice: doc
     url: https://www.mfa.gov.cn/web/ziliao_674904/zyjh_674906/201601/t20160116_9869782.shtml
     excerpt: true
-    keep: [这是见证历史的时刻, 2013年10月，中国提出筹建亚投行的倡议, 首批22个意向创始成员国]
+    keep: [ 这是见证历史的时刻, 2013年10月，中国提出筹建亚投行的倡议, 首批22个意向创始成员国 ]
   - id: e03-bbc-2016-01-21-diba
     title: 台湾选后：中国网民“翻墙洗版”引两岸论战
     publisher: BBC 中文
@@ -368,7 +320,12 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/01/160121_china_china_netizens_vpn_fb_sticker_war
     excerpt: true
-    keep: [网军, 李毅吧, 三小时内]
+    keep:
+      - 网军
+      - 李毅吧
+      - 三小时内
+      - 这场“‘网军’攻击直播”
+      - 原名叫做“李毅吧”
   - id: e03-voa-2016-01-21-diba
     title: 中国大陆网民翻墙围攻蔡英文脸书
     publisher: 美国之音中文网
@@ -376,7 +333,10 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/tsai-facebook-account-20160121/3155694.html
     excerpt: true
-    keep: [帝吧fb出征, 八荣八耻, 只反“台独”]
+    keep:
+      - 帝吧fb出征
+      - 八荣八耻
+      - 只反“台独”
   - id: e03-rfa-2016-04-29-xidada
     title: 中央发文禁用“习大大”
     publisher: 自由亚洲电台
@@ -384,7 +344,7 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/xl1-04292016100501.html
     excerpt: true
-    keep: [停止使用“习大大”, 学习粉丝团, 五行缺爹]
+    keep: [ 停止使用“习大大”, 学习粉丝团, 五行缺爹 ]
   - id: e03-nytcn-2014-10-24-xidada
     title: 又“杠”又“横”的习大大
     publisher: 纽约时报中文网
@@ -392,7 +352,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20141024/c24xi/
     excerpt: true
-    keep: [习伯伯, 至少23次]
+    keep: [ 习伯伯, 至少23次 ]
   - id: e03-bbc-2016-07-19-yanhuang
     title: 抗议当局强行改组 《炎黄春秋》宣布停刊
     publisher: BBC 中文
@@ -400,7 +360,11 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2016/07/160719_yanhuangchunqiu_shut_down
     excerpt: true
-    keep: [自由派时政杂志, 杜导正签名, 中国艺术研究院的通知, 宁为玉碎不为瓦全]
+    keep:
+      - 自由派时政杂志
+      - 杜导正签名
+      - 中国艺术研究院的通知
+      - 宁为玉碎不为瓦全
   - id: e03-mfa-2016-07-12-scs-statement
     title: 中华人民共和国外交部关于应菲律宾共和国请求建立的南海仲裁案仲裁庭所作裁决的声明
     publisher: 外交部
@@ -416,23 +380,7 @@ web:
     voice: official
     url: https://www.xinhuanet.com/politics/2016-08/29/c_1119473886.htm
     excerpt: true
-    keep: [陈全国, 张春贤]
-  - id: e03-xinhua-2016-10-27-6th-plenum
-    title: 中国共产党第十八届中央委员会第六次全体会议公报
-    publisher: 新华社
-    date: 2016-10-27
-    voice: doc
-    url: http://www.xinhuanet.com/politics/2016-10/27/c_1119801528.htm
-    start: （2016年10月27日中国共产党第十八届中央委员会第六次全体会议通过）
-  # 2017
-  - id: e03-bbc-2017-07-13-liu-xiaobo
-    title: 逝者：无法领奖的诺贝尔和平奖得主刘晓波
-    publisher: BBC 中文
-    date: 2017-07-13
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese-news-40516593
-    excerpt: true
-    keep: [终年61岁, 首位居住在中国境内, 保外就医]
+    keep: [ 陈全国, 张春贤 ]
   - id: e03-voa-2017-07-13-shenyang
     title: 沈阳官网短暂公告刘晓波病亡
     publisher: 美国之音中文网
@@ -440,7 +388,9 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/news-shenyang-gov-says-liu-xiaobo-died-20170713/3942765.html
     excerpt: true
-    keep: [多脏器功能衰竭, 已无法浏览]
+    keep:
+      - 多脏器功能衰竭
+      - 已无法浏览
   - id: e03-bbc-2017-07-13-liu-reactions
     title: 中国异议人士刘晓波病逝 国际社会强烈反应
     publisher: BBC 中文
@@ -448,7 +398,9 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-40600292
     excerpt: true
-    keep: [重大责任, 零八宪章]
+    keep:
+      - 重大责任
+      - 零八宪章
   - id: e03-bbc-2017-07-17-pooh
     title: 观察：小熊维尼在中国动了谁的蜜糖被封杀？
     publisher: BBC 中文
@@ -456,7 +408,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-40634827
     excerpt: true
-    keep: [禁用语, 跳跳虎, 红旗牌汽车, 封杀似乎并不彻底]
+    keep: [ 禁用语, 跳跳虎, 红旗牌汽车, 封杀似乎并不彻底 ]
   - id: e03-cna-2017-07-16-pooh
     title: 像习近平惹祸？小熊维尼疑成陆敏感词
     publisher: 中央社
@@ -464,15 +416,7 @@ web:
     voice: zh
     url: https://www.cna.com.tw/news/firstnews/201707160030.aspx
     excerpt: true
-    keep: [評論失敗, 表情包已經被下架]
-  - id: e03-gov-2017-09-29-sun-zhengcai
-    title: 中共中央决定给予孙政才开除党籍、开除公职处分 将孙政才涉嫌犯罪问题及线索移送司法机关依法处理
-    publisher: 新华社（中国政府网）
-    date: 2017-09-29
-    voice: official
-    url: https://www.gov.cn/xinwen/2017-09/29/content_5228628.htm
-    start: 新华社北京9月29日电
-    end: 予以追认。
+    keep: [ 評論失敗, 表情包已經被下架 ]
   - id: e03-gov-2017-10-24-charter-resolution
     title: 中国共产党第十九次全国代表大会关于《中国共产党章程（修正案）》的决议
     publisher: 新华社（中国政府网）
@@ -494,7 +438,16 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-42134392
     excerpt: true
-    keep: [吞噬了19人生命, 为期40日, 毫无根据, 过于焦急, 争议最多]
+    keep:
+      - 吞噬了19人生命
+      - 为期40日
+      - 毫无根据
+      - 过于焦急
+      - 争议最多
+      - 北京大兴区大火吞噬了19人生命后
+      - 有网民认为官方这是在借机
+      - 争议最多的就是“低端人口”一词
+      - 而不是去驱赶人
   - id: e03-bbc-2017-11-24-low-end
     title: 北京大兴大火后安全整治 官媒否认借机清理“低端人口”
     publisher: BBC 中文
@@ -502,15 +455,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/world-42113608
     excerpt: true
-    keep: [质疑当局借机, 错误认识, 2016年8月, 顾宝昌]
-  - id: e03-bjyouth-2017-11-26-anweihui
-    title: 北京安委会：说专项行动是驱赶“低端人口”毫无根据
-    publisher: 北京青年报（腾讯网转载，Wayback）
-    date: 2017-11-26
-    voice: official
-    url: https://web.archive.org/web/20171127013247/https://news.qq.com/a/20171126/000757.htm
-    excerpt: true
-    keep: [19人死亡, 不负责任、毫无根据]
+    keep: [ 质疑当局借机, 错误认识, 2016年8月, 顾宝昌 ]
   # 2018
   - id: e03-people-2018-03-16-amazing-china
     title: 《厉害了，我的国》票房过３亿元 愈受青年观众喜爱
@@ -519,7 +464,7 @@ web:
     voice: official
     url: http://politics.people.com.cn/n1/2018/0316/c1001-29872815.html
     excerpt: true
-    keep: [纪录电影票房冠军]
+    keep: [ 纪录电影票房冠军 ]
   - id: e03-bbc-2018-08-20-amazing-china
     title: 中美贸易战引发议论：中国真“厉害了”吗？
     publisher: BBC 中文
@@ -527,7 +472,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-45240548
     excerpt: true
-    keep: [票房近5亿, 厉害了]
+    keep: [ 票房近5亿, 厉害了 ]
   - id: e03-xinhua-2018-03-11-amendment
     title: 中华人民共和国宪法修正案（2018年3月11日第十三届全国人民代表大会第一次会议通过）
     publisher: 新华社
@@ -542,7 +487,7 @@ web:
     voice: official
     url: https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2018/art_5110b22fad914fd7b7c8d08d1800442a.html
     excerpt: true
-    keep: [迄今为止经济史上规模最大的贸易战]
+    keep: [ 迄今为止经济史上规模最大的贸易战 ]
   - id: e03-bbc-2018-07-06-trade-war
     title: 美中开启“史上最大贸易战” 冲击波全面解析
     publisher: BBC 中文
@@ -550,7 +495,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/world-44737822
     excerpt: true
-    keep: [340亿美元, 545, 5000亿]
+    keep: [ 340亿美元, 545, 5000亿 ]
   - id: e03-cctv-2018-06-28-liangjiahe
     title: 习近平：我人生第一步所学到的都是在梁家河
     publisher: 中国之声（央视网）
@@ -558,7 +503,7 @@ web:
     voice: official
     url: https://news.cctv.com/2018/06/28/ARTIs5Ns2R8TBVWYWPeSUNnY180628.shtml
     excerpt: true
-    keep: [有大学问的地方, 12集广播纪实文学]
+    keep: [ 有大学问的地方, 12集广播纪实文学 ]
   - id: e03-nytcn-2017-10-09-liangjiahe
     title: “朝圣”梁家河：习近平的政治创世神话
     publisher: 纽约时报中文网
@@ -566,7 +511,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20171009/xi-jinping-china-propaganda-village/
     excerpt: true
-    keep: [热门旅游景点, 语焉不详, 习近平的七年知青岁月]
+    keep: [ 热门旅游景点, 语焉不详, 习近平的七年知青岁月 ]
   - id: e03-xjpcsc-2018-10-09-deextremification
     title: 新疆维吾尔自治区去极端化条例（2018年10月9日修正）
     publisher: 新疆维吾尔自治区人大常委会（Wayback）
@@ -581,7 +526,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-45810759
     excerpt: true
-    keep: [首次以立法的形式, 囚禁百万]
+    keep: [ 首次以立法的形式, 囚禁百万 ]
   - id: e03-people-2018-10-08-meng-hongwei
     title: 节日“打虎”不手软 公安部副部长孟宏伟接受调查
     publisher: 中国共产党新闻网
@@ -589,7 +534,7 @@ web:
     voice: official
     url: http://fanfu.people.com.cn/n1/2018/1008/c64371-30327871.html
     excerpt: true
-    keep: [正接受国家监委监察调查, 尚属首例, 咎由自取]
+    keep: [ 正接受国家监委监察调查, 尚属首例, 咎由自取 ]
   - id: e03-nytcn-2018-10-08-meng-hongwei
     title: 国际刑警组织主席孟宏伟遭中共调查
     publisher: 纽约时报中文网
@@ -597,7 +542,7 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20181008/china-interpol-men-hongwei/
     excerpt: true
-    keep: [立即生效, 报失踪, 首位中国负责人]
+    keep: [ 立即生效, 报失踪, 首位中国负责人 ]
   # 2019
   - id: e03-people-2019-01-02-xuexi
     title: “学习强国”学习平台上线仪式在京举行
@@ -606,7 +551,7 @@ web:
     voice: official
     url: http://m.people.cn/n4/2019/0102/c190-12127397.html
     excerpt: true
-    keep: [宣布平台正式上线, 两大终端]
+    keep: [ 宣布平台正式上线, 两大终端 ]
   - id: e03-bbc-2019-02-16-xuexi
     title: “学习强国”：习近平“红宝书”登上App排行榜首
     publisher: BBC 中文
@@ -614,7 +559,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-47250294
     excerpt: true
-    keep: [党员被要求下载, 下载量最大, 学习积分]
+    keep: [ 党员被要求下载, 下载量最大, 学习积分 ]
   - id: e03-gov-2019-01-02-taiwan-speech
     title: 习近平：为实现民族伟大复兴 推进祖国和平统一而共同奋斗——在《告台湾同胞书》发表40周年纪念会上的讲话
     publisher: 国务院公报（中国政府网）
@@ -629,7 +574,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-47824716
     excerpt: true
-    keep: [生病了会被送到ICU, 17万次, 黑名单, 存在违规内容]
+    keep: [ 生病了会被送到ICU, 17万次, 黑名单, 存在违规内容 ]
   - id: e03-ce-2019-04-15-996
     title: 程序员掀起“反击战” 互联网行业何时告别“996”
     publisher: 北京日报（中国经济网）
@@ -637,7 +582,7 @@ web:
     voice: official
     url: http://www.ce.cn/xwzx/shgj/gdxw/201904/15/t20190415_31853069.shtml
     excerpt: true
-    keep: [修来的福报, 不能强制员工]
+    keep: [ 修来的福报, 不能强制员工 ]
   - id: e03-bbc-2019-06-09-hk-march
     title: 逃犯条例争议：破纪录百万人游行后 警员与示威者爆发冲突
     publisher: BBC 中文
@@ -645,7 +590,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-48571676
     excerpt: true
-    keep: [103万人, 移交到中国大陆受审]
+    keep: [ 103万人, 移交到中国大陆受审 ]
   - id: e03-bbc-2019-06-25-hk-numbers
     title: 香港游行人数统计和舆论“制高点”之争
     publisher: BBC 中文（Wayback）
@@ -653,7 +598,7 @@ web:
     voice: zh
     url: https://web.archive.org/web/20190701060314/https://www.bbc.com/zhongwen/trad/chinese-news-48754602
     excerpt: true
-    keep: [33.8萬人]
+    keep: [ 33.8萬人 ]
   - id: e03-xinhua-2019-07-29-hkmao
     title: 国务院港澳办：希望香港社会反对暴力、守护法治、尽快走出政治纷争
     publisher: 新华网
@@ -661,7 +606,7 @@ web:
     voice: official
     url: http://www.xinhuanet.com/politics/2019-07/29/c_1124813228.htm
     excerpt: true
-    keep: [杨光、徐露颖, 绝对不能容忍, 坚决支持香港警方严正执法]
+    keep: [ 杨光、徐露颖, 绝对不能容忍, 坚决支持香港警方严正执法 ]
   - id: e03-bbc-2019-11-29-polyu
     title: 香港理工大学“围城”解除封锁：一文看懂13天里发生了什么
     publisher: BBC 中文
@@ -669,7 +614,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-50586178
     excerpt: true
-    keep: [11月17日警方封锁校园, 逾千人被困, 解除封鎖]
+    keep: [ 11月17日警方封锁校园, 逾千人被困, 解除封鎖 ]
   - id: e03-bbc-2019-11-25-dc-election
     title: 香港区议会选举民主派大胜 林郑月娥称会“认真反思”
     publisher: BBC 中文
@@ -677,7 +622,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-50541443
     excerpt: true
-    keep: [71.2%, 建制派取得59席, 认真反思]
+    keep: [ 71.2%, 建制派取得59席, 认真反思 ]
   - id: e03-gov-2019-10-01-70th
     title: 庆祝中华人民共和国成立70周年大会隆重举行 天安门广场举行盛大阅兵和群众游行
     publisher: 新华社（中国政府网）
@@ -685,7 +630,7 @@ web:
     voice: official
     url: https://www.gov.cn/xinwen/2019-10/01/content_5435777.htm
     excerpt: true
-    keep: [新华社北京10月1日电, 近15000名受阅官兵]
+    keep: [ 新华社北京10月1日电, 近15000名受阅官兵 ]
   - id: e03-gov-2019-08-16-xinjiang-whitepaper
     title: 新疆的职业技能教育培训工作（白皮书）
     publisher: 国务院新闻办公室（中国政府网）
@@ -700,4 +645,10 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese-news-50542613
     excerpt: true
-    keep: [中国电文, 朱海仑, 戒备森严的监狱, 1.5万人]
+    keep:
+      - 中国电文
+      - 朱海仑
+      - 戒备森严的监狱
+      - 1.5万人
+      - “中国电文”（China Cables）
+      - 仅一周就有1.5万人

@@ -19,7 +19,7 @@
   ids: { wikidata: Q16597 }
   factions:
     - f: jiang-shanghai
-      cite: b01-bbc-2002-11-15-jiang-shadow
+      cite: f01-bbc-2002-11-16-jiang-shadow
       quote: 从江泽民坐上了中共第一把交椅开始，“上海帮”也就开始形成聚拢了。
     - f: elitist
       cite: b01-brookings-2007-17th-preview
@@ -59,7 +59,7 @@
       text: >-
         1985 年任上海市市长，1987 年任市委书记并进入政治局，支持开发开放浦东。1989 年春夏之交，官方称他“有力维护上海稳定”。
         BBC 中文评论写道，自从江泽民在“六四”后被中共元老从上海召到北京、推上总书记的位子以来，有关他经营“上海帮”的说法便一直没断；但也有人认为“这个说法并不确切”。
-      cites: [b01-xinhua-2022-12-02-jiang-life, b01-bbc-2002-10-17-shanghai-gang]
+      cites: [b01-xinhua-2022-12-02-jiang-life, f01-bbc-2002-shanghai-gang]
     - h: 总书记十三年
       from: 1989
       to: 2002
@@ -81,7 +81,7 @@
       text: >-
         2002 年十六大退出中央委员会，胡锦涛接任总书记，但十六届一中全会决定江泽民继续担任中央军委主席。会前美国之音即引述分析称，“江泽民将继续从幕后紧紧把持大权”；
         新一届常委中，BBC 指出“至少四位常委都和江泽民的长期政治据点上海有关”，包括曾庆红、黄菊。“垂帘听政”之说由此流行。
-      cites: [b01-xinhua-2022-12-02-jiang-life, b01-voa-2002-11-02-jiang-regency, b01-bbc-2002-11-15-jiang-shadow]
+      cites: [b01-xinhua-2022-12-02-jiang-life, b01-voa-2002-11-02-jiang-regency, f01-bbc-2002-11-16-jiang-shadow]
     - h: 辞去军委主席
       from: 2004
       to: 2005
@@ -163,7 +163,7 @@
       text: >-
         1979 年起在国家经委任处长、局长，1983 年任经委副主任。1987 年 12 月至 1991 年 4 月历任上海市委副书记、市长、市委书记，推动开设上海证券交易所，
         在全国率先推行住房公积金制度，并推动浦东开发开放进入实质性启动阶段。BBC 把他列为与上海有渊源、受江泽民重用的高官之一，但也指出“上海帮”之说未必确切。
-      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2022-11-30-jiang-obit, b01-bbc-2002-10-17-shanghai-gang]
+      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2022-11-30-jiang-obit, f01-bbc-2002-shanghai-gang]
     - h: “经济沙皇”
       from: 1991
       to: 1998
@@ -407,7 +407,7 @@
       text: >-
         1989 年随江泽民进京任中央办公厅副主任，1993 年任主任，1997 年进入书记处并任政治局候补委员。高新称他“已经以"大内总管"和书记处书记兼中组部长的身份辅佐了江泽民十三年多”；
         学者林和立形容他是江泽民的“hatchet man”（打手）。BBC 在十六大后把他列为江的“顾问与心腹”。
-      cites: [b01-cpc-zeng-resume, b01-rfa-2016-06-21-xi-zeng-blood, b01-jamestown-2007-hu-impasse, b01-bbc-2002-11-15-jiang-shadow]
+      cites: [b01-cpc-zeng-resume, b01-rfa-2016-06-21-xi-zeng-blood, b01-jamestown-2007-hu-impasse, f01-bbc-2002-11-16-jiang-shadow]
     - h: 中组部与常委会
       from: 1999
       to: 2004
@@ -536,7 +536,7 @@
       text: >-
         1991 年接替朱镕基任上海市市长，推动国企技改、上市和兼并；1994 年 9 月升任市委书记并增选为政治局委员，主政上海八年，建立社会保障体系和城市社区管理新机制。
         官方生平称他以浦东开发为契机，努力实现邓小平对上海“一年一个样，三年大变样”的要求。十六大后 BBC 分析新一届常委，称他为江泽民的“忠实助手”。
-      cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, b01-bbc-2002-11-15-jiang-shadow]
+      cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, f01-bbc-2002-11-16-jiang-shadow]
     - h: 常务副总理
       from: 2002
       to: 2006
@@ -578,4 +578,4 @@
       quote: true
       text: 不过有观察家称，黄菊进京在中央很受排挤，实权不大。
       cite: b01-bbc-2007-06-02-huang-ju-shanghai
-  cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, b01-bbc-2002-11-15-jiang-shadow, wd-Q505710]
+  cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, f01-bbc-2002-11-16-jiang-shadow, wd-Q505710]

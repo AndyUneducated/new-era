@@ -176,7 +176,7 @@ web:
     voice: witness
     url: https://web.archive.org/web/20110126094426/http://www.ce.cn/xwzx/gnsz/szyw/201004/26/t20100426_21325486.shtml
     excerpt: true
-    keep: [主管科研的副所长]
+    keep: [ 主管科研的副所长 ]
   - id: c01-cppcc-2011-06-27-wang-gang
     title: 王刚（简历）
     publisher: 中国政协网
@@ -305,7 +305,7 @@ web:
     voice: official
     url: http://paper.people.com.cn/hqrw/html/2012-09/26/content_1135522.htm
     excerpt: true
-    keep: [河北吴桥人, 出任海军司令员, 回到东海舰队]
+    keep: [ 河北吴桥人, 出任海军司令员, 回到东海舰队 ]
   - id: c01-news-2025-06-08-xu-qiliang-life
     title: 许其亮同志生平
     publisher: 新华社
@@ -330,15 +330,6 @@ web:
     url: https://www.gov.cn/guoqing/2018-03/19/content_5275549.htm
     start: "2023年3月-今"
     end: "(1949年10月19日中央人民政府委员会第三次会议通过任命)"
-  # media and scholars
-  - id: c01-zaobao-2026-08-17-jiang-centenary
-    title: 纪念江泽民百年诞辰大会温家宝亮相 胡锦涛李瑞环未现身
-    publisher: 联合早报
-    date: 2026-08-17
-    voice: zh
-    url: https://www.zaobao.com.sg/news/china/story20260817-9532336
-    excerpt: true
-    keep: [李瑞环则未现身, 李岚清]
   - id: c01-dw-2019-07-12-chang-wanquan
     title: 媒体：中国前国防部长常万全被降级
     publisher: 德国之声中文网
@@ -346,7 +337,7 @@ web:
     voice: zh
     url: https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%B8%B8%E4%B8%87%E5%85%A8%E8%A2%AB%E9%99%8D%E7%BA%A7/a-49556132
     excerpt: true
-    keep: [降两级, 中国官方没有公布]
+    keep: [ 降两级, 中国官方没有公布 ]
   - id: c01-jamestown-2006-cheng-li-two-factions
     title: "China's Inner-Party Democracy: Toward a System of \"One Party, Two Factions\"?"
     publisher: Jamestown Foundation, China Brief
@@ -356,7 +347,7 @@ web:
     lang: en
     url: https://jamestown.org/chinas-inner-party-democracy-toward-a-system-of-one-party-two-factions/
     excerpt: true
-    keep: [Liu Yandong]
+    keep: [ Liu Yandong ]
   - id: c01-rfa-2015-02-10-gao-xin-tuanpai-princelings
     title: 习近平与“团委派太子党”依然也是“血浓于水”
     publisher: 自由亚洲电台
@@ -365,4 +356,4 @@ web:
     voice: zh
     url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02102015160517.html
     excerpt: true
-    keep: [团派太子党]
+    keep: [ 团派太子党 ]

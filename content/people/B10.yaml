@@ -69,7 +69,7 @@
       text: >-
         2017 年 6 月 26 日，辽宁省监狱管理局公布他确诊肝癌、获准保外就医；BBC 称他 5 月 23 日已被确诊为肝癌晚期。沈阳市司法局 7 月 13 日公告说，医院曾邀请“美、德权威肝癌治疗专家参加会诊”，他当晚“因多脏器功能衰竭，经抢救无效死亡”。
         外交部发言人耿爽次日称，处理刘晓波案“纯属中国内政，外国无权说三道四”。诺贝尔委员会主席贝安德森则说，他在病情进入晚期前没有被送往能获得适当治疗的机构，“中国政府对他的过早死亡负有重大责任”。
-      cites: [b10-bbc-2017-07-13-liu-obit, b10-voa-2017-07-13-shenyang, b10-dw-2017-07-14-mfa-liu, b10-bbc-2017-07-13-liu-reactions]
+      cites: [b10-bbc-2017-07-13-liu-obit, e03-voa-2017-07-13-shenyang, b10-dw-2017-07-14-mfa-liu, e03-bbc-2017-07-13-liu-reactions]
   assess:
     - voice: doc
       quote: true
@@ -87,7 +87,7 @@
     - voice: zh
       quote: true
       text: 中国政府对他的过早死亡负有重大责任
-      cite: b10-bbc-2017-07-13-liu-reactions
+      cite: e03-bbc-2017-07-13-liu-reactions
     - voice: witness
       quote: true
       text: 我没有敌人，也没有仇恨
@@ -98,7 +98,7 @@
       text: >-
         诗人、摄影师和画家。刘晓波在最后陈述中写她“你在无形的心狱中等待”。他获奖后她在没有任何罪名的情况下被软禁八年，2018 年 7 月 10 日获准经赫尔辛基飞抵柏林；外交部发言人华春莹称她是“按照其本人意愿前往德国接受治疗”。其弟刘晖 2013 年被以欺诈罪判刑 11 年，未能同行。
       cites: [b10-bbc-2018-07-10-liu-xia, b10-bbc-2010-12-10-liu-final-statement]
-  cites: [b10-dw-2009-12-28-liu-verdict, b10-mfa-2010-10-08-liu-nobel, b10-dw-2017-07-14-mfa-liu, b10-bbc-2017-07-13-liu-reactions, b10-bbc-2017-07-13-liu-obit, b10-voa-2017-07-13-shenyang, wd-Q41617]
+  cites: [b10-dw-2009-12-28-liu-verdict, b10-mfa-2010-10-08-liu-nobel, b10-dw-2017-07-14-mfa-liu, e03-bbc-2017-07-13-liu-reactions, b10-bbc-2017-07-13-liu-obit, e03-voa-2017-07-13-shenyang, wd-Q41617]
 
 - id: xu-zhiyong
   name: 许志永
@@ -116,7 +116,7 @@
     - { date: 2013-07-16, text: 以涉嫌聚众扰乱公共场所秩序罪被刑事拘留, cite: b10-court-2014-01-26-xu-verdict }
     - { date: 2014-01-26, text: 北京市第一中级人民法院判处有期徒刑四年, cite: b10-court-2014-01-26-xu-verdict }
     - { date: 2020-02-15, text: 逃亡数月后在广州被警方带走, cite: b10-voa-2023-04-10-xu-ding }
-    - { date: 2023-04-10, text: 据维权网与家属消息，以颠覆国家政权罪被判有期徒刑 14 年, cite: b10-bbc-2023-04-10-xu-ding }
+    - { date: 2023-04-10, text: 据维权网与家属消息，以颠覆国家政权罪被判有期徒刑 14 年, cite: c04-bbc-2023-04-10-ding-jiaxi }
     - { date: 2023-11-24, text: 二审驳回上诉、维持原判, cite: b10-cna-2023-11-24-xu-appeal }
   tier: 1
   headline: 法学博士，新公民运动发起人
@@ -140,7 +140,7 @@
       text: >-
         2003 年大学生孙志刚在广州收容站被殴打致死，他与俞江、滕彪三名法学博士联名上书全国人大常委会，要求审查《城市流浪乞讨人员收容遣送办法》，对该办法的废止起到推动作用。同年他与滕彪等人创办“阳光宪政社会科学研究中心”，11 月当选海淀区人大代表，2006 年连任。
         2005 年机构改名公盟，为上访者、三聚氰胺奶粉受害者提供法律援助。2009 年 7 月公盟被取缔，他以“偷税罪”被捕，后取保候审。
-      cites: [b10-wiki-xu-zhiyong, b10-bbc-2023-04-10-xu-ding]
+      cites: [b10-wiki-xu-zhiyong, c04-bbc-2023-04-10-ding-jiaxi]
     - h: 新公民运动
       from: 2010
       to: 2013
@@ -161,14 +161,14 @@
       text: >-
         2019 年 12 月，他与丁家喜等二十多名维权律师和朋友在厦门聚会，当局随后大举抓捕，官方称“厦门聚会案”。他在中国南方流亡数月，2020 年初发表致习近平的公开信《劝退书》，BBC 概括其内容为“文中指习近平不是政治家，无能力处理重大危机，劝其让位”。
         2 月 15 日他在广州被警方带走。女友李翘楚此后披露，他在羁押中曾被限制饮食，“每餐只有一个馒头”；BBC 称未能核实这些说法。
-      cites: [b10-voa-2023-04-10-xu-ding, b10-bbc-2023-04-10-xu-ding]
+      cites: [b10-voa-2023-04-10-xu-ding, c04-bbc-2023-04-10-ding-jiaxi]
     - h: 十四年
       from: 2021
       to: 2023
       text: >-
         2021 年初，他和丁家喜的“煽动颠覆国家政权”案被拆分，罪名升级为“颠覆国家政权”。2022 年 6 月，山东临沂市临沭县法院不公开审理此案。2023 年 4 月 10 日，据维权网报道并经丁家喜妻子罗胜春向 BBC 确认，他被判有期徒刑 14 年、剥夺政治权利 8 年，丁家喜被判 12 年；美国之音称审判闭门进行，“被指充满程序问题和虐待嫌疑人”。
         法院没有公开判决书。同年 11 月 24 日二审驳回上诉、维持原判，中央社报道他当庭斥判决荒谬。
-      cites: [b10-bbc-2023-04-10-xu-ding, b10-voa-2023-04-10-xu-ding, b10-cna-2023-11-24-xu-appeal]
+      cites: [c04-bbc-2023-04-10-ding-jiaxi, b10-voa-2023-04-10-xu-ding, b10-cna-2023-11-24-xu-appeal]
   assess:
     - voice: doc
       quote: true
@@ -191,8 +191,8 @@
       rel: 女友
       text: >-
         劳工维权人士。许志永 2020 年被捕后她一度被带走、监视居住，获释后公开披露他在羁押中遭受的待遇；2022 年 3 月她本人也以涉嫌煽动颠覆国家政权罪被起诉。
-      cites: [b10-bbc-2023-04-10-xu-ding, b10-wiki-xu-zhiyong]
-  cites: [b10-court-2014-01-26-xu-verdict, b10-bbc-2023-04-10-xu-ding, b10-voa-2023-04-10-xu-ding, b10-wiki-xu-zhiyong, b10-rfi-2014-01-22-xu-statement, wd-Q3571070]
+      cites: [c04-bbc-2023-04-10-ding-jiaxi, b10-wiki-xu-zhiyong]
+  cites: [b10-court-2014-01-26-xu-verdict, c04-bbc-2023-04-10-ding-jiaxi, b10-voa-2023-04-10-xu-ding, b10-wiki-xu-zhiyong, b10-rfi-2014-01-22-xu-statement, wd-Q3571070]
 
 - id: ma-yun
   name: 马云
@@ -323,14 +323,14 @@
       to: 2014
       text: >-
         1951 年 3 月生，籍贯山东，父亲任泉生曾任商业部副部长。他长期执掌北京国有企业华远集团，做房地产生意致富，曾当选北京市西城区人大代表和北京市政协委员。2011 年 4 月他被上级免去华远集团董事长职务，但仍担任旗下地产上市公司董事长，三年后才在微博宣布正式退休。美国之音引述评论称，他集“红二代”、地产富豪、权贵密友和公共知识分子四重身份于一身。
-      cites: [b10-voa-2020-09-22-ren, b10-bbc-2020-09-22-ren-verdict]
+      cites: [b10-voa-2020-09-22-ren, e04-bbc-2020-09-22-ren-zhiqiang]
     - h: “任大炮”
       from: 2010
       to: 2016
       text: >-
         微博兴起后他成为拥有大量粉丝的“大V”。2016 年 2 月习近平视察中央电视台，央视打出“央视姓党，绝对忠诚，请您检阅”的标语，他在微博质疑“官媒姓党”，写道“当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了”。
         《纽约时报》概括说，他因为宣称中国的新闻媒体应该为人民而不是为党服务，“违背了习近平的高调讲话而受到审查”。2 月 28 日国家网信办责令关闭他的微博账号，指其“持续公开发布违法信息”；三个月后，西城区委以他“多次在微博、博客等网络平台和其他公开场合公开发表违背四项基本原则、违背党的路线方针政策等方面的错误言论”为由，给予他留党察看一年处分。
-      cites: [b10-bbc-2020-09-22-ren-verdict, b10-voa-2020-09-22-ren, b10-nyt-2020-03-16-ren]
+      cites: [e04-bbc-2020-09-22-ren-zhiqiang, b10-voa-2020-09-22-ren, b10-nyt-2020-03-16-ren]
     - h: “剥光了衣服的小丑”
       from: 2020-02
       to: 2020-03
@@ -350,7 +350,7 @@
       text: >-
         9 月 11 日北京市第二中级人民法院开庭。法院称公开审理，美国之音则报道只有“特别邀请的人”才能旁听。9 月 22 日宣判：法院认定他 2003 至 2017 年间贪污公款 4974 万余元、受贿 125 万余元、挪用公款 6120 万元，滥用职权致国有控股企业损失 1.167 亿余元；鉴于他“自愿如实供述自己的全部罪行”，数罪并罚判处有期徒刑十八年，并处罚金 420 万元。法院称他当庭表示服从判决、不上诉。
         这一年他 69 岁。官方通报只谈贪污、受贿等经济罪行，没有提到那篇网文；BBC 报道，他的友人认为对他的处理是政治迫害。
-      cites: [b10-bjjw-2020-09-22-ren-verdict, b10-voa-2020-09-22-ren, b10-bbc-2020-09-22-ren-verdict]
+      cites: [b10-bjjw-2020-09-22-ren-verdict, b10-voa-2020-09-22-ren, e04-bbc-2020-09-22-ren-zhiqiang]
   assess:
     - voice: official
       quote: true
@@ -363,7 +363,7 @@
     - voice: zh
       quote: true
       text: 他的友人曾表示，中共对任志强的处理是“政治迫害”
-      cite: b10-bbc-2020-09-22-ren-verdict
+      cite: e04-bbc-2020-09-22-ren-zhiqiang
     - voice: zh
       quote: true
       text: 他的言论提供了一个窗口，让人们看到中国知识分子和企业家对习近平日益专制的统治不断增长的失望情绪
@@ -382,7 +382,7 @@
       text: >-
         BBC 引知情人士称，2020 年 4 月任志强接受调查时他的儿子也被带走调查；纪委通报指任志强“伙同子女大肆敛财”。
       cites: [b10-bbc-2020-04-07-ren-probe, b10-bjjw-2020-07-23-ren-expelled]
-  cites: [b10-bjjw-2020-07-23-ren-expelled, b10-bjjw-2020-09-22-ren-verdict, b10-dw-2020-03-13-ren-missing, b10-bbc-2020-09-22-ren-verdict, b10-nyt-2020-03-16-ren, b10-voa-2020-09-22-ren, wd-Q9028218]
+  cites: [b10-bjjw-2020-07-23-ren-expelled, b10-bjjw-2020-09-22-ren-verdict, b10-dw-2020-03-13-ren-missing, e04-bbc-2020-09-22-ren-zhiqiang, b10-nyt-2020-03-16-ren, b10-voa-2020-09-22-ren, wd-Q9028218]
 
 - id: li-zhiying
   name: 黎智英
@@ -397,7 +397,7 @@
   fall:
     - { date: 2020-08-10, text: 依《香港国安法》在家中被捕，《苹果日报》大楼被搜查, cite: b10-bbc-2026-02-09-jimmy-lai }
     - { date: 2020-12-03, text: 因欺诈案被拒保释，此后一直羁押, cite: b10-wiki-li-zhiying }
-    - { date: 2021-06-24, text: 资产被冻结后《苹果日报》最后一次出版, cite: b10-bbc-2021-06-24-apple-daily }
+    - { date: 2021-06-24, text: 资产被冻结后《苹果日报》最后一次出版, cite: e04-bbc-2021-06-24-apple-daily }
     - { date: 2025-12-15, text: 被裁定两项串谋勾结外国势力罪及串谋发布煽动刊物罪成立, cite: b10-hkgov-2025-12-15-lai-verdict }
     - { date: 2026-02-09, text: 被判监禁 20 年, cite: b10-hkgov-2026-02-09-lai-sentence }
   tier: 1
@@ -409,7 +409,7 @@
   positions:
     - { title: 佐丹奴创办人, sys: other, place: 香港, from: 1981, cite: b10-wiki-li-zhiying }
     - { title: 壹传媒集团创办人, sys: other, place: 香港, from: 1990, cite: b10-wiki-li-zhiying }
-    - { title: 《苹果日报》创办人, sys: other, place: 香港, from: 1995-06-20, to: 2021-06-24, cite: b10-bbc-2021-06-24-apple-daily }
+    - { title: 《苹果日报》创办人, sys: other, place: 香港, from: 1995-06-20, to: 2021-06-24, cite: e04-bbc-2021-06-24-apple-daily }
   life:
     - h: 偷渡客与佐丹奴
       from: 1947
@@ -423,7 +423,7 @@
       text: >-
         他说六四事件对他影响深远，“没有六四就没有《壹周刊》和《苹果日报》”。1989 年佐丹奴印制大量民运 T 恤，1994 年他在《壹周刊》发表痛骂李鹏的公开信，自称此后佐丹奴在内地遭封杀，被迫出售股份；维基百科引佐丹奴年报指出，其内地门店在 1994、1995 年仍快速增长，无法证实封杀之说。
         1990 年他创办壹传媒和《壹周刊》，1995 年 6 月 20 日创办《苹果日报》，2001 年进军台湾。他后来在庭上说，六四后创办传媒是想传递自由的讯息，“越知情越自由”。
-      cites: [b10-wiki-li-zhiying, b10-bbc-2021-06-24-apple-daily, b10-voa-2024-11-20-lai-testimony]
+      cites: [b10-wiki-li-zhiying, e04-bbc-2021-06-24-apple-daily, b10-voa-2024-11-20-lai-testimony]
     - h: 《苹果》与民主派
       from: 1995
       to: 2020
@@ -437,7 +437,7 @@
       text: >-
         2020 年 8 月 10 日，警方以涉嫌勾结外国或者境外势力危害国家安全等罪名在家中拘捕他，并搜查《苹果日报》总部。12 月 3 日他因欺诈案被拒绝保释，此后一直羁押，同月被加控勾结外国势力罪，成为首名被控此罪的人。《人民日报》称他是“祸港四人帮”之首，无国界记者则授予他年度新闻自由奖。
         报社资产和银行账户被冻结后，《苹果日报》于 2021 年 6 月 24 日最后一次出版，“终年”26 年又四日。
-      cites: [b10-wiki-li-zhiying, b10-bbc-2026-02-09-jimmy-lai, b10-bbc-2021-06-24-apple-daily]
+      cites: [b10-wiki-li-zhiying, b10-bbc-2026-02-09-jimmy-lai, e04-bbc-2021-06-24-apple-daily]
     - h: 国安法审判
       from: 2023
       to: 2025
@@ -482,7 +482,7 @@
       rel: 女儿
       text: 2026 年 2 月判刑后，她说过去五年看到父亲的健康状况急剧恶化，若刑期执行，他将“在狱中殉难而死”。
       cites: [b10-bbc-2026-02-09-jimmy-lai]
-  cites: [b10-hkgov-2025-12-15-lai-verdict, b10-hkgov-2026-02-09-lai-sentence, b10-bbc-2026-02-09-jimmy-lai, b10-bbc-2025-12-15-lai-profile, b10-bbc-2021-06-24-apple-daily, b10-wiki-li-zhiying, wd-Q1447095]
+  cites: [b10-hkgov-2025-12-15-lai-verdict, b10-hkgov-2026-02-09-lai-sentence, b10-bbc-2026-02-09-jimmy-lai, b10-bbc-2025-12-15-lai-profile, e04-bbc-2021-06-24-apple-daily, b10-wiki-li-zhiying, wd-Q1447095]
 
 - id: lin-zheng-yuee
   name: 林郑月娥

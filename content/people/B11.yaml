@@ -1,0 +1,138 @@
+# B11: full biographies. Each entry below starts as the dossier card written in round 1; expand it to tier 1.
+- id: yang-jiechi
+  name: 杨洁篪
+  gender: m
+  ethnicity: 汉族
+  born: 1950-05-01
+  birthplace: 上海
+  roles: [pb, cc, minister]
+  status: retired
+  statusNote: 二十大后退出政治局，卸任中央外办主任，由王毅接任。
+  tier: 2
+  headline: 中央外办主任（2013–2022）、政治局委员（2017–2022）、前外交部部长
+  bio: >-
+    职业外交官，英语翻译出身，长期从事对美工作，2001–2005 年任驻美大使，2007–2013 年任外交部部长。
+    2013 年起任国务委员兼中央外办主任，统筹外事工作；十九大进入政治局，二十大后退休，由王毅接任外办主任。
+  positions:
+    - { title: 驻美国大使, sys: gov, from: 2001, to: 2005, cite: wd-Q58211 }
+    - { title: 外交部部长, sys: gov, from: 2007-04, to: 2013-03, cite: wd-Q58211 }
+    - { title: 国务委员, sys: gov, from: 2013-03, to: 2018-03, cite: c02-chinanews-2013-03-16-state-council }
+    - { title: 中央外事工作领导小组（委员会）办公室主任, sys: party, from: 2013, to: 2022, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+  ids: { wikidata: Q58211 }
+  cites: [wd-Q58211, c02-gov-2017-10-25-19th-cvs, c02-chinanews-2013-03-16-state-council]
+
+- id: meng-jianzhu
+  name: 孟建柱
+  gender: m
+  ethnicity: 汉族
+  born: 1947-07-28
+  birthplace: 江苏吴县
+  roles: [pb, cc, prov, minister]
+  status: retired
+  statusNote: 2017 年 10 月十九大后卸任中央政法委书记。
+  tier: 2
+  headline: 中央政法委书记（2012–2017）、政治局委员
+  bio: >-
+    上海郊县基层干部出身，1990 年代任上海副市长、市委副书记，2001 年外放江西任省委书记六年。
+    2007 年接替周永康任公安部部长，2008 年兼国务委员；十八大后接掌中央政法委，政法委书记不再兼任常委，在任内处理周永康案后的政法系统整顿。
+  positions:
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 1993, to: 1996, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 1996, to: 2001, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 江西省委书记, sys: party, place: 江西, from: 2001-04, to: 2007-10, cite: c02-chubun-2008-09-04-meng-jianzhu }
+    - { title: 公安部部长, sys: gov, from: 2007-10, to: 2012-12, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: wd-Q1365182 }
+    - { title: 中央政治局委员、中央政法委书记, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+  factions:
+    - f: jiang-shanghai
+      cite: c02-chubun-2008-09-04-meng-jianzhu
+      quote: 这位早年失意上海官场，被排挤到江西的“上海帮”成员
+  ids: { wikidata: Q1365182 }
+  cites: [wd-Q1365182, c02-cyol-2012-11-16-18th-cvs, c02-chubun-2008-09-04-meng-jianzhu]
+
+- id: sun-chunlan
+  name: 孙春兰
+  gender: f
+  ethnicity: 汉族
+  born: 1950-05-24
+  birthplace: 河北饶阳
+  roles: [pb, cc, prov, minister]
+  status: retired
+  statusNote: 2023 年 3 月卸任国务院副总理后退休。
+  tier: 2
+  headline: 国务院副总理（2018–2023）、政治局委员（2012–2022）
+  bio: >-
+    鞍山工人出身，在辽宁历任省委副书记、大连市委书记，2005 年任全国总工会第一书记，2009 年起先后主政福建、天津。
+    2014 年接替令计划任中央统战部部长，2018–2023 年任副总理，分管教科文卫，新冠疫情期间多次坐镇武汉、上海等地督导防控。
+  positions:
+    - { title: 辽宁省委副书记、大连市委书记, sys: party, place: 辽宁, from: 1997, to: 2005, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 全国总工会副主席、第一书记, sys: other, from: 2005, to: 2009, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 福建省委书记, sys: party, place: 福建, from: 2009-11, to: 2012-11, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 天津市委书记, sys: party, place: 天津, from: 2012-11, to: 2014-12, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+    - { title: 中央统战部部长, sys: party, from: 2014-12, to: 2017-11, cite: wd-Q195379 }
+    - { title: 国务院副总理, sys: gov, from: 2018-03, to: 2023-03, cite: c02-rmzxw-2018-03-19-state-council }
+  ids: { wikidata: Q195379 }
+  cites: [wd-Q195379, c02-cyol-2012-11-16-18th-cvs, c02-gov-2017-10-25-19th-cvs, c02-rmzxw-2018-03-19-state-council]
+
+- id: chen-miner
+  name: 陈敏尔
+  gender: m
+  ethnicity: 汉族
+  born: 1960-09-29
+  birthplace: 浙江诸暨
+  roles: [pb, cc, prov]
+  status: active
+  statusNote: 中央政治局委员、天津市委书记，2026 年 10 月仍以市委书记身份公开活动。
+  tier: 2
+  headline: 天津市委书记（2022– ）、政治局委员（2017– ）
+  bio: >-
+    浙江绍兴起家，习近平主政浙江时任省委常委、宣传部长，被视为之江新军核心成员。2007 年任浙江副省长，2012 年调贵州，先后任省长、省委书记。
+    2017 年接替落马的孙政才主政重庆，十九大进入政治局；2022 年二十大后转任天津市委书记。
+  positions:
+    - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2002, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 浙江省副省长, sys: gov, place: 浙江, from: 2007, to: 2012, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 贵州省省长, sys: gov, place: 贵州, from: 2012-12, to: 2015-10, cite: wd-Q4504692 }
+    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2015-07, to: 2017-07, cite: wd-Q4504692 }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2017-07, to: 2022-12, cite: wd-Q4504692 }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 天津市委书记, sys: party, place: 天津, from: 2022-12, cite: c02-tjnews-2026-10-13-chen-miner }
+  factions:
+    - f: zhijiang
+      cite: f02-rfa-2020-11-16-zhijiang
+      quote: 习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔。
+  ids: { wikidata: Q4504692 }
+  cites: [wd-Q4504692, c02-gov-2017-10-25-19th-cvs, c02-gov-2022-10-23-20th-cvs, c02-tjnews-2026-10-13-chen-miner]
+
+- id: huang-kunming
+  name: 黄坤明
+  gender: m
+  ethnicity: 汉族
+  born: 1956-11
+  birthplace: 福建上杭
+  roles: [pb, sec, cc, prov]
+  status: active
+  statusNote: 中央政治局委员、广东省委书记，2026 年 9 月仍以此身份出席亚太媒体高端论坛。
+  tier: 2
+  headline: 广东省委书记（2022– ）、前中宣部部长（2017–2022）
+  bio: >-
+    福建起家，1999 年调浙江，在习近平主政浙江时任嘉兴市委书记，后任浙江宣传部长、杭州市委书记，被视为之江新军成员。
+    2013 年进京任中宣部副部长，2014 年主持常务工作；十九大进入政治局和书记处并执掌中宣部，二十大后外放广东任省委书记。
+  positions:
+    - { title: 嘉兴市委书记, sys: party, place: 浙江, from: 2003, to: 2007, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 浙江省委常委、宣传部部长, sys: party, place: 浙江, from: 2007-06, to: 2010-01, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 杭州市委书记, sys: party, place: 浙江, from: 2010-01, to: 2013-10, cite: wd-Q8292452 }
+    - { title: 中央宣传部常务副部长, sys: party, from: 2014, to: 2017-10, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 中央宣传部部长、书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: wd-Q8292452 }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 广东省委书记, sys: party, place: 广东, from: 2022-10, cite: c02-xinhua-2026-09-05-apac-media }
+  factions:
+    - f: zhijiang
+      cite: f02-rfa-2020-11-16-zhijiang
+      quote: 习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔。
+    - f: fujian
+      cite: c02-jiia-2019-04-huang-kunming
+      quote: 黄坤明は習近平「閩江旧部」の一員とも言われる
+      zh: 黄坤明也被认为是习近平“闽江旧部”的一员
+  ids: { wikidata: Q8292452 }
+  cites: [wd-Q8292452, c02-gov-2017-10-25-19th-cvs, c02-jiia-2019-04-huang-kunming, c02-xinhua-2026-09-05-apac-media]

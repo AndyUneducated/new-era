@@ -7,7 +7,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/02/120209_wanglijun_confirm
     excerpt: true
-    keep: [美国驻成都总领事馆, 休假式的治疗, 守口如瓶]
+    keep: [ 美国驻成都总领事馆, 休假式的治疗, 守口如瓶 ]
   - id: e02-xinhua-2012-03-15-chongqing-secretary
     title: 重庆市委负责同志职务调整 张德江兼任重庆书记（新华网，新浪转载）
     publisher: 新华社
@@ -24,14 +24,6 @@ web:
     url: http://news.sina.com.cn/c/2012-04-10/230024249875.shtml
     start: 新华社北京4月10日电
     end: 对其立案调查。
-  - id: e02-chinanews-2012-08-20-gu-kailai-verdict
-    title: 薄谷开来、张晓军故意杀人案一审宣判
-    publisher: 新华社（中新网转载）
-    date: 2012-08-20
-    voice: official
-    url: https://www.chinanews.com.cn/fz/2012/08-20/4118973.shtml
-    start: 2012年8月20日，安徽省合肥市中级人民法院
-    end: 送达刑事判决书。
   - id: e02-chinanews-2012-09-28-bo-expelled
     title: 中共中央决定给予薄熙来开除党籍、开除公职处分
     publisher: 新华社（中新网转载）
@@ -47,7 +39,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/04/120420_from_wanglijun_to_boxilai_
     excerpt: true
-    keep: [4月10日，中国政府免去, 8月20日，安徽合肥, 9月19日，新华社, 9月28日，薄熙来]
+    keep: [ 4月10日，中国政府免去, 8月20日，安徽合肥, 9月19日，新华社, 9月28日，薄熙来 ]
   - id: e02-bbc-2012-04-11-bo-frontpages
     title: 薄熙来落马消息占据中国各报头版
     publisher: BBC 中文
@@ -55,7 +47,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/04/120411_boxilai_china
     excerpt: true
-    keep: [这不亚于四人帮倒台啊, 被禁止搜索的敏感词]
+    keep: [ 这不亚于四人帮倒台啊, 被禁止搜索的敏感词 ]
   - id: e02-nyt-2012-09-04-ling-ferrari
     title: 法拉利车祸与令计划左迁
     publisher: 纽约时报中文网
@@ -63,7 +55,12 @@ web:
     voice: zh
     url: https://cn.nytimes.com/china/20120904/c04party/
     excerpt: true
-    keep: [令计划的儿子, 统战部长的职责, 环球时报]
+    keep:
+      - 令计划的儿子
+      - 统战部长的职责
+      - 环球时报
+      - 这名男子是中国权力最大的人物之一
+      - 突然被降职
   - id: e02-bbc-2012-09-04-ling-crash-press
     title: 英媒：车祸丑闻冲击中共十八大布局
     publisher: BBC 中文
@@ -71,7 +68,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120904_press_carcrash_china_leadership
     excerpt: true
-    keep: [3月18日在北京四环, 统战部部长, 栗战书]
+    keep: [ 3月18日在北京四环, 统战部部长, 栗战书 ]
   - id: e02-xinhua-2012-09-01-ling-ufwd
     title: 令计划兼任中央统战部部长 栗战书任中央办公厅主任（新华网，映象网转载）
     publisher: 新华社
@@ -80,31 +77,6 @@ web:
     url: http://www.hnr.cn/news/gnxw/201209/t20120901_183677.html
     start: 日前，中共中央决定：令计划
     end: 栗战书同志任中央办公厅主任。
-  - id: e02-nyt-2012-10-26-wen-wealth
-    title: 总理家人隐秘的财富
-    publisher: 纽约时报中文网
-    author: 张大卫（David Barboza）
-    date: 2012-10-26
-    voice: zh
-    url: https://cn.nytimes.com/china/20121026/c26princeling/
-    excerpt: true
-    keep: [掌控了价值不低于27亿美元, 没有发现温家宝名下有任何财产]
-  - id: e02-nyt-2012-10-29-wen-response
-    title: 温家宝家人回应《纽约时报》报道
-    publisher: 纽约时报中文网
-    date: 2012-10-29
-    voice: zh
-    url: https://cn.nytimes.com/china/20121029/c29wen/
-    excerpt: true
-    keep: [是不存在的, 抹黑中国，别有用心]
-  - id: e02-bbc-2012-06-29-bloomberg-xi
-    title: 彭博在中国被屏蔽与报道习近平有关
-    publisher: BBC 中文
-    date: 2012-06-29
-    voice: zh
-    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/06/120629_bloomberg_china
-    excerpt: true
-    keep: [齐桥桥和姐夫邓家贵, 3.76亿美元, 敏感内容]
   - id: e02-xinhua-2012-11-15-plenum1
     title: 中国共产党第十八届中央委员会第一次全体会议公报
     publisher: 新华社
@@ -152,7 +124,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/xi-jinping-makes-his-first-apperance-in-public-20120915/1508523.html
     excerpt: true
-    keep: [9月15日在北京亮相]
+    keep: [ 9月15日在北京亮相 ]
   - id: e02-sina-2012-12-06-li-chuncheng
     title: 中纪委证实李春城涉嫌严重违纪正接受调查（新华网，新浪转载）
     publisher: 新华社
@@ -184,7 +156,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/china/2010/07/100707_china_chongqing
     excerpt: true
-    keep: [經最高法院核准, 1176人]
+    keep: [ 經最高法院核准, 1176人 ]
   - id: e02-bbc-2010-03-31-bo-anti-triad
     title: 薄熙来“打黑”和“没良心”的批评
     publisher: BBC 中文
@@ -192,7 +164,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/03/100331_anti_triad
     excerpt: true
-    keep: [异想天开，没事找事, 就象过去文革搞运动一样, 立即铲除黑势力]
+    keep: [ 异想天开，没事找事, 就象过去文革搞运动一样, 立即铲除黑势力 ]
   - id: e02-voa-2011-04-30-bo-red-songs
     title: 薄熙来回应对“唱红打黑”的指责
     publisher: 美国之音
@@ -200,15 +172,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/article-20110430-bo-xilai-121019159/781209.html
     excerpt: true
-    keep: [决非搞社会意识形态的政治运动]
-  - id: e02-sina-2012-03-14-wen-presser
-    title: 温家宝总理答中外记者问（全文，新浪转载）
-    publisher: 新华社
-    date: 2012-03-14
-    voice: official
-    url: https://news.sina.com.cn/c/2012-03-14/222924115881.shtml
-    start: 这些年我多次谈到政治体制改革
-    end: 并认真从王立军事件中吸取教训。
+    keep: [ 决非搞社会意识形态的政治运动 ]
   - id: e02-cntv-2011-03-10-wu-bangguo
     title: 吴邦国：中国不搞多党轮流执政 不搞“三权鼎立”
     publisher: 中国网络电视台
@@ -217,14 +181,6 @@ web:
     url: http://news.cntv.cn/china/20110310/102165.shtml
     start: 中国网络电视台消息：
     end: 正确方向奋勇前进。
-  - id: e02-gov-2010-08-21-wen-shenzhen
-    title: 温家宝在深圳考察工作（新华社，经济日报转载）
-    publisher: 新华社
-    date: 2010-08-21
-    voice: official
-    url: http://paper.ce.cn/jjrb/html/2010-08/22/content_117098.htm
-    start: 今年是深圳经济特区建立30周年
-    end: 我们不能有丝毫的动摇。
   - id: e02-bbc-2010-08-22-wen-shenzhen
     title: 温家宝视察深圳再提政治体制改革
     publisher: BBC 中文
@@ -232,7 +188,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/08/100822_wen_shenzhen
     excerpt: true
-    keep: [不仅要推进经济改革, 观其行, 中国影帝温家宝]
+    keep: [ 不仅要推进经济改革, 观其行, 中国影帝温家宝 ]
   - id: e02-bbc-2008-12-09-charter08
     title: 国际人权日前 中国拘留人权活跃者
     publisher: BBC 中文
@@ -240,7 +196,11 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7770000/newsid_7773300/7773394.stm
     excerpt: true
-    keep: [周一晚上被北京公安带走, 获得了303名, 普世价值, 鲍彤]
+    keep:
+      - 周一晚上被北京公安带走
+      - 获得了303名
+      - 普世价值
+      - 鲍彤
   - id: e02-bbc-2009-12-25-liu-sentenced
     title: 中国异议人士刘晓波判囚11年
     publisher: BBC 中文
@@ -248,15 +208,10 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2009/12/091225_china_liu_appeal
     excerpt: true
-    keep: [剥夺政治权利两年, 充分保障, 曾参与起草]
-  - id: e02-mfa-2010-10-08-nobel
-    title: 外交部发言人马朝旭答记者问（2010-10-08）
-    publisher: 外交部
-    date: 2010-10-08
-    voice: official
-    url: https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/201010/t20101008_5431720.shtml
-    start: 问：10月8日诺贝尔委员会
-    end: 也会给中挪关系带来损害。
+    keep:
+      - 剥夺政治权利两年
+      - 充分保障
+      - 曾参与起草
   - id: e02-bbc-2010-10-08-liu-nobel
     title: 异见人士刘晓波狱中获得诺贝尔和平奖
     publisher: BBC 中文
@@ -264,15 +219,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/10/101008_liu_nobel_preaceprize
     excerpt: true
-    keep: [长期以来以非暴力方式在中国争取基本人权的斗争, 会损害]
-  - id: e02-xinhua-2012-11-29-chinese-dream
-    title: 习近平：承前启后 继往开来 继续朝着中华民族伟大复兴目标奋勇前进
-    publisher: 新华社
-    date: 2012-11-29
-    voice: official
-    url: http://www.xinhuanet.com/politics/2012-11/29/c_113852724.htm
-    start: 百年奋斗铸就历史辉煌
-    end: 空谈误国，实干兴邦。
+    keep: [ 长期以来以非暴力方式在中国争取基本人权的斗争, 会损害 ]
   - id: e02-ce-2012-11-08-18th-congress
     title: 中国共产党第十八次全国代表大会在京开幕 胡锦涛代表第十七届中央委员会向大会作报告（新华社，中国经济网转载）
     publisher: 新华社
@@ -288,7 +235,7 @@ web:
     voice: official
     url: https://web.archive.org/web/20080228023927/http://www.mca.gov.cn/article/zwgk/mzyw/200802/20080200011960.shtml
     excerpt: true
-    keep: [死亡, 直接经济损失]
+    keep: [ 死亡, 直接经济损失 ]
   - id: e02-ce-2008-03-22-lhasa-xinhua
     title: 拉萨“3·14”打砸抢烧事件真相（新华社，经济日报转载）
     publisher: 新华社
@@ -296,7 +243,7 @@ web:
     voice: official
     url: http://paper.ce.cn/jjrb/html/2008-03/22/content_7524.htm
     excerpt: true
-    keep: [被烧死或砍死, 有组织、有预谋、精心策划煽动]
+    keep: [ 被烧死或砍死, 有组织、有预谋、精心策划煽动 ]
   - id: e02-bbc-2008-03-17-lhasa-toll
     title: 拉萨骚乱死亡人数说法不一
     publisher: BBC 中文
@@ -304,7 +251,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7300000/newsid_7300000/7300002.stm
     excerpt: true
-    keep: [流亡政府, 死亡]
+    keep: [ 流亡政府, 死亡 ]
   - id: e02-bbc-2008-03-22-ma-elected
     title: 台湾中选会：马英九当选总统
     publisher: BBC 中文
@@ -312,7 +259,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7300000/newsid_7309400/7309424.stm
     excerpt: true
-    keep: [马萧配的得票率为58.45%, 结束民进党8年执政]
+    keep: [ 马萧配的得票率为58.45%, 结束民进党8年执政 ]
   - id: e02-bbc-2008-04-carrefour
     title: 抵制家乐福与火炬传递风波
     publisher: BBC 中文
@@ -320,7 +267,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7340000/newsid_7348200/7348222.stm
     excerpt: true
-    keep: [金晶, 家乐福]
+    keep: [ 金晶, 家乐福 ]
   - id: e02-chinanews-2008-09-25-wenchuan
     title: 汶川地震遇难69227人 失踪17923人
     publisher: 中新社
@@ -328,7 +275,7 @@ web:
     voice: official
     url: https://www.chinanews.com/gn/news/2008/09-25/1394600.shtml
     excerpt: true
-    keep: [69227, 17923]
+    keep: [ 69227, 17923 ]
   - id: e02-voa-2008-06-06-dujiangyan
     title: 都江堰遇难学生家长抗议校舍质量
     publisher: 美国之音
@@ -336,7 +283,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/a-21-w2008-06-06-voa18-63174672/962654.html
     excerpt: true
-    keep: [都江堰, 家长]
+    keep: [ 都江堰, 家长 ]
   - id: e02-bbc-2010-02-09-tan-zuoren
     title: 四川维权人士谭作人被判五年
     publisher: BBC 中文
@@ -344,7 +291,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/china/2010/02/100209_tanzuoren
     excerpt: true
-    keep: [譚作人, 艾未未]
+    keep: [ 譚作人, 艾未未 ]
   - id: e02-chinanews-2008-07-02-wengan
     title: 贵州省公布瓮安“6·28”事件真相（中新网）
     publisher: 中新社
@@ -352,7 +299,7 @@ web:
     voice: official
     url: https://www.chinanews.com/gn/news/2008/07-02/1299327.shtml
     excerpt: true
-    keep: [第三个俯卧撑, 打砸抢烧]
+    keep: [ 第三个俯卧撑, 打砸抢烧 ]
   - id: e02-bbc-2008-07-wengan-accountability
     title: 瓮安事件与官员问责
     publisher: BBC 中文
@@ -360,7 +307,7 @@ web:
     voice: zh
     url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7520000/newsid_7528300/7528364.stm
     excerpt: true
-    keep: [不明真相的群众闹事, 俯卧撑, 石宗源]
+    keep: [ 不明真相的群众闹事, 俯卧撑, 石宗源 ]
   - id: e02-consulate-2008-08-08-olympics
     title: 北京奥运会开幕（新华社，驻福冈总领馆网站转载）
     publisher: 新华社
@@ -368,7 +315,7 @@ web:
     voice: official
     url: https://fukuoka.china-consulate.gov.cn/ggxw/200808/t20080809_5570220.htm
     excerpt: true
-    keep: [开幕式, 胡锦涛]
+    keep: [ 开幕式, 胡锦涛 ]
   - id: e02-olympiccn-2008-08-24-golds
     title: 第29届奥运会中国代表团成绩
     publisher: 中国奥委会
@@ -376,7 +323,7 @@ web:
     voice: official
     url: https://www.olympic.cn/games/summer/summer/2010/0210/24918.html
     excerpt: true
-    keep: [51枚金牌, 金牌]
+    keep: [ 51枚金牌, 金牌 ]
   - id: e02-taiwancn-2008-09-13-melamine
     title: 国务院启动国家重大食品安全事故I级响应（新华社，中国台湾网转载）
     publisher: 新华社
@@ -384,7 +331,7 @@ web:
     voice: official
     url: https://www.taiwan.cn/sy/rdxw/200809/t20080913_745627.htm
     excerpt: true
-    keep: [三鹿, 免费]
+    keep: [ 三鹿, 免费 ]
   - id: e02-chinanews-2008-11-09-four-trillion
     title: 国务院常务会议确定扩大内需十项措施（中新网）
     publisher: 中新社
@@ -392,7 +339,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/cj/kong/news/2008/11-09/1442625.shtml
     excerpt: true
-    keep: [4万亿元, 十项措施, 保障性安居工程, 灾后恢复重建]
+    keep: [ 4万亿元, 十项措施, 保障性安居工程, 灾后恢复重建 ]
   - id: e02-taiwancn-2008-12-15-three-links
     title: 两岸连线：记者亲历“三通”启动（新华社，中国台湾网转载）
     publisher: 新华社
@@ -400,15 +347,7 @@ web:
     voice: official
     url: http://www.taiwan.cn/xwzx/la/200812/t20081215_798631.htm
     excerpt: true
-    keep: [两岸空运直航、海运直航与直接通邮15日正式启动, 第一封通过直接通邮方式]
-  - id: e02-12371-2008-12-18-hu-30th
-    title: 胡锦涛在纪念党的十一届三中全会召开30周年大会上的讲话
-    publisher: 共产党员网
-    date: 2008-12-18
-    voice: doc
-    url: https://news.12371.cn/2012/07/25/ARTI1343192939456366.shtml
-    start: 我们的伟大目标是，到我们党成立100年时
-    end: 就一定能够胜利实现这一宏伟蓝图和奋斗目标。
+    keep: [ 两岸空运直航、海运直航与直接通邮15日正式启动, 第一封通过直接通邮方式 ]
   - id: e02-sina-2009-01-02-buzheteng
     title: 胡锦涛报告“不折腾”翻译方法难倒国际媒体（联合早报，中新网、新浪转载）
     publisher: 联合早报
@@ -416,7 +355,7 @@ web:
     voice: zh
     url: http://news.sina.com.cn/c/2009-01-02/101316965679.shtml
     excerpt: true
-    keep: [bu zheteng, 的确有现实针对性]
+    keep: [ bu zheteng, 的确有现实针对性 ]
   - id: e02-chinanews-2008-12-26-aden
     title: 三舰官兵军歌声中开赴护航之旅（中新社）
     publisher: 中新社
@@ -424,7 +363,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2008/12-26/1504981.shtml
     excerpt: true
-    keep: [首次使用军事力量赴海外维护国家战略利益, 今天下午从三亚启航]
+    keep: [ 首次使用军事力量赴海外维护国家战略利益, 今天下午从三亚启航 ]
   - id: e02-bbc-2009-02-27-duomaomao
     title: 云南政府公布“躲猫猫”事件真相
     publisher: BBC 中文
@@ -432,7 +371,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7910000/newsid_7916000/7916059.stm
     excerpt: true
-    keep: [玩游戏为名, 躲猫猫]
+    keep: [ 玩游戏为名, 躲猫猫 ]
   - id: e02-chinanews-2009-02-24-duomaomao-netizens
     title: “躲猫猫”事件：网民从幕后走向前台遭遇法规瓶颈（中新网）
     publisher: 中新社
@@ -440,7 +379,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/gn/news/2009/02-24/1576343.shtml
     excerpt: true
-    keep: [网民调查团, 70余万个, 不能安排会见]
+    keep: [ 网民调查团, 70余万个, 不能安排会见 ]
   - id: e02-bbc-2009-03-grass-mud-horse
     title: 泥马战河蟹 草根斗权威
     publisher: BBC 中文
@@ -448,7 +387,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7940000/newsid_7948300/7948369.stm
     excerpt: true
-    keep: [草泥马, 河蟹]
+    keep: [ 草泥马, 河蟹 ]
   - id: e02-govcn-2009-07-urumqi
     title: 乌鲁木齐“7·5”打砸抢烧严重暴力犯罪事件（中国政府网，Wayback）
     publisher: 新华社
@@ -456,7 +395,7 @@ web:
     voice: official
     url: https://web.archive.org/web/20220615112627/http://www.gov.cn/zmyw200907c/content_1369230.htm
     excerpt: true
-    keep: [暴力犯罪, 热比娅]
+    keep: [ 暴力犯罪, 热比娅 ]
   - id: e02-bbc-2009-07-urumqi-wuc
     title: 世维会驳斥中国政府对乌鲁木齐骚乱的指控
     publisher: BBC 中文
@@ -464,7 +403,7 @@ web:
     voice: zh
     url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8130000/newsid_8135100/8135188.stm
     excerpt: true
-    keep: [迪里夏提, 韶关]
+    keep: [ 迪里夏提, 韶关 ]
   - id: e02-sina-2009-10-01-parade
     title: 隆重庆祝中华人民共和国成立60周年 首都举行盛大阅兵仪式和群众游行（新华社，新浪转载）
     publisher: 新华社
@@ -472,7 +411,7 @@ web:
     voice: official
     url: http://mil.news.sina.com.cn/2009-10-02/1014568953.html
     excerpt: true
-    keep: [90%是第一次公开展示, 20万军民, 检阅受阅部队，并发表重要讲话]
+    keep: [ 90%是第一次公开展示, 20万军民, 检阅受阅部队，并发表重要讲话 ]
   - id: e02-infzm-2010-01-13-weiguan
     title: 关注就是力量 围观改变中国（南方周末，中国数字时代转载）
     publisher: 南方周末
@@ -481,7 +420,7 @@ web:
     voice: witness
     url: https://chinadigitaltimes.net/chinese/110427.html
     excerpt: true
-    keep: [关注就是力量，围观就是压力, 亿万人的围观，亿万人的目光]
+    keep: [ 关注就是力量，围观就是压力, 亿万人的围观，亿万人的目光 ]
   - id: e02-bbc-2010-03-22-google
     title: 最新消息：谷歌关闭中国大陆搜索引擎
     publisher: BBC 中文
@@ -489,7 +428,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/03/100322_bn_google_china_shutdown
     excerpt: true
-    keep: [谷歌, 香港]
+    keep: [ 谷歌, 香港 ]
   - id: e02-xinhua-2010-04-24-xinjiang-secretary
     title: 新疆维吾尔自治区党委主要领导同志职务调整（新华网，Wayback）
     publisher: 新华社
@@ -497,7 +436,7 @@ web:
     voice: official
     url: https://web.archive.org/web/20111003174332/http://news.xinhuanet.com/politics/2010-04/24/c_1253737.htm
     excerpt: true
-    keep: [张春贤同志任新疆维吾尔自治区党委委员、常委、书记, 近20年]
+    keep: [ 张春贤同志任新疆维吾尔自治区党委委员、常委、书记, 近20年 ]
   - id: e02-chinanews-2010-06-29-ecfa
     title: 《海峡两岸经济合作框架协议》在重庆签署（中新社）
     publisher: 中新社
@@ -505,7 +444,7 @@ web:
     voice: official
     url: http://www.chinanews.com.cn/tw/2010/06-29/2370735.shtml
     excerpt: true
-    keep: [5章16条, 两岸经济合作委员会, 在重庆签署了《海峡两岸经济合作框架协议》]
+    keep: [ 5章16条, 两岸经济合作委员会, 在重庆签署了《海峡两岸经济合作框架协议》 ]
   - id: e02-bbc-2010-09-07-trawler
     title: 钓鱼台撞船事件 中日两国相互提抗议
     publisher: BBC 中文
@@ -513,7 +452,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/09/100907_china_japan_diaoyu_crash
     excerpt: true
-    keep: [与那国, 姜瑜]
+    keep: [ 与那国, 姜瑜 ]
   - id: e02-bbc-2010-09-24-captain-release
     title: 分析：日本释放中国船长或使纷争告一段落
     publisher: BBC 中文
@@ -522,7 +461,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/indepth/2010/09/100924_chinajapan
     excerpt: true
-    keep: [稀土, 詹其雄]
+    keep: [ 稀土, 詹其雄 ]
   - id: e02-bbc-2010-11-18-ligang
     title: 河北校园飙车案“李刚赔46万元”
     publisher: BBC 中文
@@ -530,7 +469,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2010/11/101118_china_ligang
     excerpt: true
-    keep: [我爸是李刚, 46万元, 李刚当时是保定公安局的副局长, 迫于警方压力]
+    keep: [ 我爸是李刚, 46万元, 李刚当时是保定公安局的副局长, 迫于警方压力 ]
   - id: e02-cntv-2010-10-22-ligang
     title: “官二代”校内醉驾撞飞女生 其父李刚哽咽道歉（中国网络电视台）
     publisher: 中国网络电视台
@@ -538,7 +477,7 @@ web:
     voice: official
     url: http://news.cntv.cn/society/20101022/100379.shtml
     excerpt: true
-    keep: [造句大赛, 哽咽]
+    keep: [ 造句大赛, 哽咽 ]
   - id: e02-bbc-2011-01-11-j20
     title: 盖茨：胡锦涛证实中国隐形战机首次试飞
     publisher: BBC 中文
@@ -546,7 +485,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2011/01/110111_gates_china_stealth
     excerpt: true
-    keep: [歼20, 事先计划]
+    keep: [ 歼20, 事先计划 ]
   - id: e02-cntv-2011-02-14-gdp
     title: 日本2010年GDP被中国超过（中国网络电视台）
     publisher: 中国网络电视台
@@ -554,7 +493,7 @@ web:
     voice: official
     url: http://news.cntv.cn/world/20110214/109527.shtml
     excerpt: true
-    keep: [第二大经济体]
+    keep: [ 第二大经济体 ]
   - id: e02-bbc-2011-02-20-jasmine
     title: 中国多个城市出现“茉莉花革命”集会号召
     publisher: BBC 中文
@@ -562,7 +501,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2011/02/110220_china_jasmine_revolution
     excerpt: true
-    keep: [王府井, 茉莉花]
+    keep: [ 王府井, 茉莉花 ]
   - id: e02-bbc-2011-04-03-aiweiwei
     title: 艺术家艾未未在北京机场被带走
     publisher: BBC 中文
@@ -570,7 +509,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/china/2011/04/110403_china_ai_weiwei
     excerpt: true
-    keep: [艾未未]
+    keep: [ 艾未未 ]
   - id: e02-voa-2011-06-22-aiweiwei-bail
     title: 艾未未获取保候审
     publisher: 美国之音
@@ -578,7 +517,7 @@ web:
     voice: zh
     url: https://www.voachinese.com/a/article-20110622-ai-weiwei-released-124364869/827566.html
     excerpt: true
-    keep: [取保候审, 逃税]
+    keep: [ 取保候审, 逃税 ]
   - id: e02-bbc-2012-01-06-tibet-immolation
     title: 四川阿坝周五再次发生藏人自焚抗议
     publisher: BBC 中文
@@ -586,7 +525,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/01/120106_china_tibet_protests
     excerpt: true
-    keep: [第13起自焚, 平措, 9名僧人和2名尼姑, 达赖喇嘛返回西藏]
+    keep: [ 第13起自焚, 平措, 9名僧人和2名尼姑, 达赖喇嘛返回西藏 ]
   - id: e02-zjol-2011-12-28-wenzhou-report
     title: “7·23”甬温线特别重大铁路交通事故调查报告
     publisher: 国务院“7·23”事故调查组
@@ -594,7 +533,7 @@ web:
     voice: doc
     url: http://www.mem.gov.cn/gk/sgcc/tbzdsgdcbg/2011/201112/t20111228_245242.shtml
     excerpt: true
-    keep: [造成40人死亡、172人受伤，中断行车, 是一起因列控中心设备存在严重设计缺陷, 刘志军，铁道部原部长、党组书记]
+    keep: [ 造成40人死亡、172人受伤，中断行车, 是一起因列控中心设备存在严重设计缺陷, 刘志军，铁道部原部长、党组书记 ]
   - id: e02-bbc-2011-07-25-wang-yongping
     title: 评论：温州动车追尾事故
     publisher: BBC 中文
@@ -602,7 +541,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/comments_on_china/2011/07/110725_coc_trainaccident1
     excerpt: true
-    keep: [我反正是信的, 王勇平]
+    keep: [ 我反正是信的, 王勇平 ]
   - id: e02-bbc-2011-12-21-wukan
     title: 广东官员会见乌坎村民代表
     publisher: BBC 中文
@@ -610,7 +549,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/rolling_news/2011/12/111221_rolling_wukan
     excerpt: true
-    keep: [朱明國, 薛錦波]
+    keep: [ 朱明國, 薛錦波 ]
   - id: e02-bbc-2012-03-02-wukan-election
     title: 乌坎村民选举村委会
     publisher: BBC 中文
@@ -618,7 +557,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese_news/2012/03/120302_wukan_election
     excerpt: true
-    keep: [林祖, 選舉]
+    keep: [ 林祖, 選舉 ]
   - id: e02-bbc-2012-01-14-ma-reelected
     title: 马英九连任台湾总统 绿营沉痛落败
     publisher: BBC 中文
@@ -626,7 +565,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/01/120114_taiwan_react
     excerpt: true
-    keep: [马英九以接近80万张选票击败民进党候选人蔡英文, 维护中华民国的主权, 辞去民进党党主席一职, 深化与大陆的合作与互信]
+    keep: [ 马英九以接近80万张选票击败民进党候选人蔡英文, 维护中华民国的主权, 辞去民进党党主席一职, 深化与大陆的合作与互信 ]
   - id: e02-govhk-2012-03-25-ce-election
     title: 行政長官選舉結果
     publisher: 香港特區政府新聞處
@@ -634,7 +573,7 @@ web:
     voice: official
     url: https://www.info.gov.hk/gia/general/201203/25/P201203250287.htm
     excerpt: true
-    keep: [選舉主任潘兆初法官]
+    keep: [ 選舉主任潘兆初法官 ]
   - id: e02-bbc-2012-03-25-leung-elected
     title: 梁振英当选香港下任特首
     publisher: BBC 中文
@@ -642,7 +581,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese_news/2012/03/120325_leung_hk_ce
     excerpt: true
-    keep: [以689票當選香港下任特首, 中聯辦官員, 唐英年則僅得到285票]
+    keep: [ 以689票當選香港下任特首, 中聯辦官員, 唐英年則僅得到285票 ]
   - id: e02-bbc-2012-05-03-chen-guangcheng
     title: 陈光诚事件加深美国外交困境
     publisher: BBC 中文
@@ -650,7 +589,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/05/120503_chenguangcheng_us_china_delicate
     excerpt: true
-    keep: [希望离开中国, 美国使馆, 希拉里]
+    keep: [ 希望离开中国, 美国使馆, 希拉里 ]
   - id: e02-bbc-2012-05-19-chen-to-us
     title: 美媒透露陈光诚出发离京赴美细节
     publisher: BBC 中文
@@ -658,7 +597,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese_news/2012/05/120519_china_chenguangcheng_us_nyt
     excerpt: true
-    keep: [UA88, 紐約大學法學院]
+    keep: [ UA88, 紐約大學法學院 ]
   - id: e02-bbc-2012-07-02-shifang
     title: 什邡民众抗议建冶炼厂被特警驱散
     publisher: BBC 中文
@@ -666,7 +605,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/07/120702_china_demo_pollution
     excerpt: true
-    keep: [催泪气体, 钼铜]
+    keep: [ 催泪气体, 钼铜 ]
   - id: e02-cntv-2012-07-03-shifang
     title: 四川什邡市委、市政府决定：今后不再建设钼铜项目（人民网，中国网络电视台转载）
     publisher: 人民网
@@ -674,7 +613,7 @@ web:
     voice: official
     url: http://news.cntv.cn/20120703/117702.shtml
     excerpt: true
-    keep: [什邡今后不再建设这个项目]
+    keep: [ 什邡今后不再建设这个项目 ]
   - id: e02-bbc-2012-09-08-hk-education
     title: 港府让步 取消国民教育三年死限
     publisher: BBC 中文
@@ -682,7 +621,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/trad/chinese_news/2012/09/120908_hk_education
     excerpt: true
-    keep: [三年死限, 洗腦, 分三年在中小學推行國民教育, 集會、罷課、絕食]
+    keep: [ 三年死限, 洗腦, 分三年在中小學推行國民教育, 集會、罷課、絕食 ]
   - id: e02-govhk-2012-09-08-ce-education
     title: 行政長官記者會開場發言
     publisher: 香港特區政府新聞處
@@ -690,7 +629,7 @@ web:
     voice: official
     url: https://www.info.gov.hk/gia/general/201209/08/P201209080506_print.htm
     excerpt: true
-    keep: [不存在三年後必須推行此科]
+    keep: [ 不存在三年後必須推行此科 ]
   - id: e02-mfa-2012-09-10-diaoyu
     title: 中华人民共和国外交部声明（2012-09-10）
     publisher: 外交部
@@ -706,7 +645,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120915_china_japan_violentdemo
     excerpt: true
-    keep: [平和堂, 佳世客, 至少28个城市]
+    keep: [ 平和堂, 佳世客, 至少28个城市 ]
   - id: e02-bbc-2012-09-21-biaoge
     title: 表哥下台显示微博能量引热议
     publisher: BBC 中文
@@ -714,7 +653,7 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120921_china_weibo_media
     excerpt: true
-    keep: [表哥杨达才被撤职, 微博反腐, 微笑局长, 名表]
+    keep: [ 表哥杨达才被撤职, 微博反腐, 微笑局长, 名表 ]
   - id: e02-ce-2012-09-25-liaoning
     title: 我国首艘航母正式交付海军 胡锦涛登舰视察（中国军网，中国经济网转载）
     publisher: 中国军网
@@ -722,7 +661,7 @@ web:
     voice: official
     url: https://www.ce.cn/xwzx/gnsz/szyw/201209/25/t20120925_23712561.shtml
     excerpt: true
-    keep: [正式交付海军, 宣读了党中央、国务院、中央军委的贺电, 郭伯雄]
+    keep: [ 正式交付海军, 宣读了党中央、国务院、中央军委的贺电, 郭伯雄 ]
   - id: e02-wiki-fuwocheng
     title: 俯卧撑 (网络用语)
     publisher: 维基百科
@@ -730,7 +669,7 @@ web:
     voice: wiki
     url: https://zh.wikipedia.org/zh-cn/%E4%BF%AF%E5%8D%A7%E6%92%91_(%E7%BD%91%E7%BB%9C%E7%94%A8%E8%AF%AD)
     excerpt: true
-    keep: [天涯社区, 不便或不愿发表意见]
+    keep: [ 天涯社区, 不便或不愿发表意见 ]
   - id: e02-bbc-2012-09-10-xi-absence
     title: 习近平一周没有露面引起各种揣测
     publisher: BBC 中文
@@ -738,4 +677,4 @@ web:
     voice: zh
     url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120910_speculations_xijinping
     excerpt: true
-    keep: [希拉里, 露面]
+    keep: [ 希拉里, 露面 ]
