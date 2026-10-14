@@ -95,7 +95,7 @@ export function Ledger({ year, frame, pick, onPick, onYear }: { year: number; fr
             </g>
           )
         })}
-        <line x1={x(year + 0.5)} x2={x(year + 0.5)} y1={14} y2={H - 4} stroke="var(--accent)" strokeWidth={1.6} style={{ transition: 'x1 .4s, x2 .4s' }} />
+        <line x1={x(year + 0.5)} x2={x(year + 0.5)} y1={14} y2={H - 4} stroke="var(--red)" strokeWidth={1.6} style={{ transition: 'x1 .4s, x2 .4s' }} />
       </svg>
       {tip.node}
     </div>

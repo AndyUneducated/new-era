@@ -1,3 +1,4 @@
+import * as d3 from 'd3'
 import { PersonChip, Portrait, Prose, RumorMark, Section, Src, Srcs, Status, VoiceTag } from '../components/bits'
 import { SeatShare } from '../components/charts'
 import { CoWork } from '../components/CoWork'
@@ -5,8 +6,10 @@ import { Galaxy } from '../components/Galaxy'
 import { OriginMap } from '../components/OriginMap'
 import { PatronTree } from '../components/PatronTree'
 import { Rise } from '../components/Rise'
+import { Subway } from '../components/Subway'
+import type { PersonR } from '../data/db'
 import { FRAMES, RANKS, VOICES, type Voice } from '../data/schema'
-import { centre, membersOf, RING_ORDER } from '../lib/faction'
+import { centre, level, membersOf, RING_ORDER } from '../lib/faction'
 import { short, span } from '../lib/dates'
 import { quoted } from '../lib/quotes'
 import { eventHref, factionHref, href, personHref } from '../lib/router'
@@ -38,6 +41,12 @@ export function FactionPage({ id }: { id: string }) {
   }
   const events = (a.eventsOf.get(f.id) ?? []).slice().sort((x, y) => x.date.localeCompare(y.date))
   const siblings = a.db.factions.filter((x) => x.frame === f.frame && x.id !== f.id)
+  const lines = [...new Set([centre(f), ...ranked.map((m) => m.p.id)])]
+    .map((pid) => pid && a.person.get(pid))
+    .filter((p): p is PersonR => !!p && p.positions.filter((x) => x.from).length >= 3)
+    .sort((x, y) => Number(y.id === centre(f)) - Number(x.id === centre(f)) || level(a, y) - level(a, x) || y.positions.length - x.positions.length)
+    .slice(0, 8)
+    .map((p, i) => ({ p, color: d3.schemeTableau10[i] }))
 
   return (
     <div className="page">
@@ -125,6 +134,14 @@ export function FactionPage({ id }: { id: string }) {
           <Section title="发迹地图" note="成员任过职的省份，以及中心人物的任职路线">
             <OriginMap f={f} />
           </Section>
+
+          {lines.length >= 2 && (
+            <Section title="履历地铁图" note="级别最高的几位成员，一人一条线：同一条横线是同一地方，线在哪里交汇就是在哪里共事；圈粗的站是主官职位">
+              <div className="card pad">
+                <Subway people={lines} labels="names" />
+              </div>
+            </Section>
+          )}
 
           <Section title="成员" note="按分层排列；每人附上作出判断的来源原句">
             <div className="members">

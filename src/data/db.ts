@@ -43,6 +43,13 @@ export class Atlas {
   // central committee terms by person, from the name lists
   ccOf = new Map<string, { n: number; alt: boolean }[]>()
   ism = new Map<string, Ism>()
+  // unique names only; namesakes map to null
+  private byName = new Map<string, string | null>()
+
+  // a name on a central committee list; the lists keep disambiguating notes for namesakes: 张军（国家机关）
+  ccId(name: string): string | undefined {
+    return this.byName.get(name) ?? this.byName.get(name.replace(/（[^）]*）$/, '')) ?? undefined
+  }
 
   constructor(db: DB) {
     this.db = db
@@ -57,13 +64,11 @@ export class Atlas {
       push(this.ties, r.a, r)
       push(this.ties, r.b, r)
     }
-    const byName = new Map<string, string | null>()
-    for (const p of db.people) byName.set(p.name, byName.has(p.name) ? null : p.id)
+    for (const p of db.people) this.byName.set(p.name, this.byName.has(p.name) ? null : p.id)
     for (const c of db.congresses)
       for (const [list, alt] of [[c.cc ?? [], false], [c.cca ?? [], true]] as const)
         for (const name of list) {
-          // the lists keep disambiguating notes for namesakes: 张军（国家机关）
-          const id = byName.get(name) ?? byName.get(name.replace(/（[^）]*）$/, ''))
+          const id = this.ccId(name)
           if (id) push(this.ccOf, id, { n: c.n, alt })
         }
     for (const f of db.factions) this.faction.set(f.id, f)

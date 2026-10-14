@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Portrait, Section, Src } from '../components/bits'
+import { CcFalls } from '../components/CcFalls'
 import { Hemicycle, layout } from '../components/Hemicycle'
 import { Seal } from '../components/Seal'
 import { Story } from '../components/story/Story'
@@ -129,10 +130,17 @@ export function Home() {
           ))}
         </div>
 
+        <Section title="各届中委落马率" note="十五届以来每一位中央委员与候补委员一格，按落马时间排在前面；任内落马指在下一届党代会召开之前">
+          <div className="card pad">
+            <CcFalls />
+          </div>
+        </Section>
+
         <section className="section pillars">
           {[
             ['people', '人物', '常委、政治局、军委、落马官员、异见者、企业家与港澳台人物。传记、履历、名言与照片。'],
             ['factions', '派系', '五套框架并列：团派与太子党、精英与民粹、习家军、被清洗集团、军中派系。标签注明出自哪家媒体。'],
+            ['provinces', '诸侯', '三十一省的书记与省长逐年着色：谁的旧部坐满了哪片地图，哪些省份的主官接连落马。'],
             ['timeline', '时间线', '十一条泳道，从 1989 年的前史到当下：人事、清洗、军队、意识形态、经济、社会、港澳台、外交与民间话语。'],
             ['ideas', '思想', '从“三个代表”到习近平思想：提法何时出现、何时写入党章，以及历次报告中的词频起落。'],
           ].map(([k, t, d], i) => (

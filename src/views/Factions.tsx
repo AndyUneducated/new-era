@@ -2,7 +2,9 @@ import { useState } from 'react'
 import { Portrait, Section } from '../components/bits'
 import { AgeRule, SeatShare } from '../components/charts'
 import { Constellation } from '../components/Constellation'
+import { FactionRiver } from '../components/FactionRiver'
 import { FrameFlow } from '../components/FrameFlow'
+import { MediaSplit } from '../components/MediaSplit'
 import { Overlap } from '../components/Overlap'
 import { FRAMES, type Frame } from '../data/schema'
 import { factionHref } from '../lib/router'
@@ -74,6 +76,18 @@ export function Factions() {
         })}
         {!list.length && <div className="empty">此框架下暂无派系</div>}
       </div>
+
+      <Section title="派系河流" note={`在任中央委员按「${FRAMES[frame].name}」的派系分流，每季度一格：党代会换届时河道改线，任内有人落马时变窄。只计本站已有档案的委员`}>
+        <div className="card pad">
+          <FactionRiver frame={frame} />
+        </div>
+      </Section>
+
+      <Section title="媒体判断对照" note="同一个人，各家媒体与学者分到哪一派：一列一家来源，悬停看原话">
+        <div className="card pad">
+          <MediaSplit frame={frame} />
+        </div>
+      </Section>
 
       <Section title="框架之间的流向" note="同一批人，换一种分法会落到哪里：左边一种框架的派系，右边另一种">
         <FrameFlow />

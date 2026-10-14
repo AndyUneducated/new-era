@@ -1,22 +1,49 @@
-// A person's positions on a time axis, one band per system (party, government, army), packed into rows.
+// A person's positions on a time axis: as a subway line through the places served, or one band per system
+// (party, government, army) packed into rows.
 import { scaleLinear } from 'd3'
+import { useState } from 'react'
 import type { PersonR } from '../data/db'
 import { SYSTEMS, type Sys } from '../data/schema'
 import { fy, span, today } from '../lib/dates'
+import { province } from '../lib/faction'
 import { useWidth } from '../lib/useSize'
 import { useTip } from './bits'
+import { Subway } from './Subway'
 
 const ROW = 22
 const GAP = 4
 
 export function Career({ p }: { p: PersonR }) {
+  const places = new Set(p.positions.filter((x) => x.from).map((x) => province(x.place) ?? '中央')).size
+  const [view, setView] = useState<'bands' | 'subway'>(places >= 3 ? 'subway' : 'bands')
+  if (p.positions.filter((x) => x.from).length < 2) return null
+  return (
+    <div className="card pad" style={{ marginTop: 20 }}>
+      <div className="career-head">
+        <div className="h3">履历</div>
+        {places >= 2 && (
+          <div className="seg">
+            <button className={view === 'subway' ? 'on' : undefined} onClick={() => setView('subway')}>
+              地铁
+            </button>
+            <button className={view === 'bands' ? 'on' : undefined} onClick={() => setView('bands')}>
+              时段
+            </button>
+          </div>
+        )}
+      </div>
+      {view === 'subway' ? <Subway people={[{ p, color: 'var(--red)' }]} /> : <Bands p={p} />}
+    </div>
+  )
+}
+
+function Bands({ p }: { p: PersonR }) {
   const [ref, w] = useWidth<HTMLDivElement>()
   const tip = useTip()
   const end = fy(p.died ?? today())!
   const items = p.positions
     .filter((x) => x.from)
     .map((x) => ({ ...x, a: fy(x.from)!, b: Math.max(fy(x.to) ?? end, fy(x.from)! + 0.15) }))
-  if (items.length < 2) return null
 
   const lo = Math.floor(Math.min(...items.map((x) => x.a)))
   const hi = Math.ceil(Math.max(end, ...items.map((x) => x.b)))
@@ -46,8 +73,7 @@ export function Career({ p }: { p: PersonR }) {
   for (let t = Math.ceil(lo / step) * step; t <= hi; t += step) ticks.push(t)
 
   return (
-    <div className="card pad" style={{ marginTop: 20 }}>
-      <div className="h3">履历</div>
+    <>
       <div ref={ref}>
       <svg className="career" width={w} height={H} viewBox={`0 0 ${w} ${H}`}>
         {ticks.map((t) => (
@@ -84,7 +110,7 @@ export function Career({ p }: { p: PersonR }) {
       </svg>
       </div>
       {tip.node}
-    </div>
+    </>
   )
 }
 
