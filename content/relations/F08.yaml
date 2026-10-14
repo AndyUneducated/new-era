@@ -1,14 +1,6 @@
 # F08 (round 3): ties inside xi-shanghai, qinghua, aerospace and mishu
 
 # --- secretaries and chiefs of staff ---
-- a: xi-jinping
-  b: ding-xuexiang
-  kind: secretary
-  text: 2007 年习近平任上海市委书记，丁薛祥任市委常委、秘书长；2013 年起任中办副主任兼总书记办公室主任，2017 年起任中办主任。
-  from: 2007-03
-  to: 2023-03
-  cite: f08-voa-2022-11-08-ding
-  quote: 丁薛祥和习近平在上海的工作关系只有七个月
 - a: han-zheng
   b: ding-xuexiang
   kind: secretary
@@ -22,27 +14,6 @@
   cite: f08-voa-2022-11-08-ding
   quote: 服务过三位中共中央政治局常委，即韩正、俞正声和习近平
 - a: xi-jinping
-  b: zhong-shaojun
-  kind: secretary
-  text: 钟绍军 2006 年起任习近平贴身秘书，随其由浙江到上海、再进北京。
-  from: 2006-04
-  cite: b08-voa-2026-08-28-zhang-liu
-  quote: 钟绍军曾长期担任习近平在浙江、上海及中央工作时期的贴身秘书
-- a: xi-jinping
-  b: li-qiang
-  kind: secretary
-  text: 李强 2004–2007 年任浙江省委秘书长，是时任省委书记习近平的幕僚长。
-  from: 2004
-  to: 2007
-  cite: b06-guardian-2022-10-24-li-qiang
-  quote: Li was his chief of staff and his de facto top personal aide from 2004 until 2007
-- a: xi-jinping
-  b: xu-lingyi
-  kind: secretary
-  text: 习近平主政浙江时把徐令义调任省委第一副秘书长，高新称之为习的“二秘”。
-  cite: f07-rfa-2020-11-20-xu-lingyi
-  quote: 那么徐令义就是习近平的二秘
-- a: xi-jinping
   b: shu-guozeng
   kind: secretary
   text: 舒国增任浙江省委办公厅副主任时常随习近平出行；2014 年进京任中央财办副主任。
@@ -50,13 +21,6 @@
   to: 2007
   cite: f08-xinshishe-2014-12-zhijiang
   quote: 时任浙江省委办公厅副主任舒国增就是省委书记习近平的左膀右臂
-- a: xi-jinping
-  b: shu-guozeng
-  kind: patron
-  text: 舒国增 2014 年由浙江省委副秘书长升任中央财办副主任，2017 年转任中央纪委驻中办纪检组长。
-  from: 2014-11
-  cite: f08-caixin-2017-08-24-shu-guozeng
-  quote: 曾为习近平老部下的舒国增
 - a: ding-xuexiang
   b: cai-qi
   kind: colleague
@@ -78,20 +42,6 @@
   to: 2007
   cite: f08-xinshishe-2014-12-zhijiang
   quote: 李强、舒国增是陪同频率最多的人
-- a: li-qiang
-  b: xu-lingyi
-  kind: colleague
-  text: 习近平主政浙江时，李强任省委秘书长，徐令义任省委第一副秘书长，二人均从温州官场出道。
-  cite: f07-rfa-2020-11-20-xu-lingyi
-  quote: 当时的省委秘书长是也和徐令义一样，从温州官场出道的李强
-- a: xi-jinping
-  b: li-zhanshu
-  kind: colleague
-  text: 1980 年代两人分任河北正定、无极县委书记，同属石家庄地区；栗战书后任习近平的中办主任。
-  from: 1982
-  to: 1985
-  cite: f01-brookings-2017-new-politburo
-  quote: Li Zhanshu is one of Xi Jinping’s most trusted long-time friends
 
 # --- Shanghai 2007 ---
 - a: xi-jinping
@@ -154,23 +104,11 @@
   cite: f08-orientaldaily-2016-09-16-new-shanghai
   quote: 上海市委副書記應勇出任副市長
 - a: xi-jinping
-  b: shen-haixiong
-  kind: patron
-  text: 慎海雄曾任新华社上海分社社长，十八大后升任新华社副社长，后任中宣部副部长、中央广播电视总台台长。
-  cite: f08-orientaldaily-2016-09-16-new-shanghai
-  quote: 新華社上海分社社長慎海雄升任新華社副社長
-- a: xi-jinping
   b: li-xi
   kind: patron
   text: 博谈网称李希调任上海得益于与习近平的渊源；十八大后李希出任辽宁省长、省委书记。
   cite: f08-botanwang-2014-10-new-shanghai
   quote: 李希、杨振武二人之所以能调到上海工作，绝非偶然，而是得益于与习近平的密切渊源
-- a: xi-jinping
-  b: yang-zhenwu
-  kind: colleague
-  text: 1980 年代杨振武任人民日报河北记者站记者时，与在正定任县委书记的习近平熟识。
-  cite: f08-botanwang-2014-10-new-shanghai
-  quote: 早在上世纪80年代在人民日报河北记者站当记者时，就与在附近担任县委书记的习近平、栗战书熟识
 - a: li-zhanshu
   b: yang-zhenwu
   kind: colleague

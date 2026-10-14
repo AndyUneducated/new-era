@@ -1,12 +1,6 @@
 # F10 (round 3): ties inside and between the army factions; a is the senior side
 # Zhang Youxia and the equipment chain
 - a: zhang-youxia
-  b: li-shangfu
-  kind: patron
-  text: 李尚福曾是张又侠在总装备部的副手，2017 年接任装备发展部部长；《华尔街日报》援引知情人士称，张又侠被控推动李尚福 2023 年升任国防部长。
-  cite: f01-bbc-2026-01-27-zhang-youxia
-  quote: 最引人注目的案例是推动李尚福在2023年升任国防部长
-- a: zhang-youxia
   b: xu-xueqiang
   kind: patron
   text: 詹姆斯敦基金会把许学强等六名将领 2026 年 6 月的落马，解读为继续清除张又侠庇护网络中的人。
@@ -130,22 +124,6 @@
   quote: a power struggle between the CMC’s first-ranked vice chairman, Zhang Youxia, and the ambitious up-from-the-troops ordinary soldiers, He Weidong and Miao Hua
 # Miao Hua's network
 - a: miao-hua
-  b: he-hongjun
-  kind: patron
-  text: BBC 称何宏军曾在兰州军区和军委政治工作部担任苗华的下属或副手。
-  cite: b04-bbc-2025-10-nine-generals
-  quote: 何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手
-- a: miao-hua
-  b: yuan-huazhi
-  kind: patron
-  text: BBC 称袁华智是苗华任海军政委时提拔的旧部。
-  cite: b04-bbc-2025-10-nine-generals
-- a: miao-hua
-  b: wang-houbin
-  kind: patron
-  text: BBC 称王厚斌是苗华的海军旧部，后跨军种升任火箭军司令员。
-  cite: b04-bbc-2025-10-nine-generals
-- a: miao-hua
   b: li-hanjun
   kind: colleague
   text: 2014 年苗华任海军政委后主持晋衔仪式，时任 92403 部队司令员的李汉军在仪式上晋升少将；维基百科称李汉军是苗华旧部。
@@ -221,11 +199,6 @@
   cite: f10-ntdtv-2015-01-11-31st-army
   quote: 而王宁在福建31集团军工作期间，就与时任福建省领导的习近平熟识。
 - a: he-weidong
-  b: lin-xiangyang
-  kind: colleague
-  text: 《外交家》文章称林向阳与何卫东一样在第 31 集团军有长期履历，两人同时被开除党籍。
-  cite: f10-diplomat-2025-10-power-struggle
-- a: he-weidong
   b: wang-xiubin
   kind: colleague
   text: 《外交家》文章称王秀斌与何卫东一样在第 31 集团军有长期履历，两人同时被开除党籍。
@@ -249,12 +222,6 @@
   text: 《南华早报》称田修思是郭伯雄、徐才厚的亲信；田修思参加过郭伯雄负责统筹的老山作战。
   cite: f02-zaobao-2016-07-09-tian-xiusi
   quote: 香港《南华早报》指田修思是已落马的郭伯雄与徐才厚的亲信
-- a: xu-caihou
-  b: fan-changlong
-  kind: patron
-  text: 美国之音称范长龙被视为徐才厚的嫡系，两人是辽宁同乡，也是上下级。
-  cite: b13-voa-2018-01-25-fan-rumor
-  quote: 70岁的范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级。
 - a: yu-yongbo
   b: xu-caihou
   kind: secretary
@@ -295,22 +262,6 @@
   from: 2022-03
   cite: c03-gov-2024-07-18-third-plenum
   quote: 确认中央政治局之前作出的给予李尚福、李玉超、孙金明开除党籍的处分
-- a: zhou-yaning
-  b: li-yuchao
-  kind: colleague
-  text: 德国之声称周亚宁、李玉超都曾任火箭军司令员，两人 2023 年 12 月同被罢免全国人大代表。
-  cite: f10-dw-2023-12-29-nine-generals
-- a: li-yuchao
-  b: lyu-hong
-  kind: colleague
-  text: 吕宏曾任火箭军装备部部长，与时任火箭军司令员的李玉超同在火箭军，2023 年 12 月同被罢免全国人大代表。
-  cite: f10-dw-2023-12-29-nine-generals
-- a: zhang-zhenzhong
-  b: li-chuanguang
-  kind: colleague
-  text: 德国之声称张振中曾任火箭军副司令员，李传广曾任火箭军参谋长、副司令员，两人同被罢免全国人大代表。
-  cite: f10-dw-2023-12-29-nine-generals
-  quote: 张振中（中将）曾任的主要职务包括火箭军副司令员
 - a: wang-zhibin
   b: zhang-fengzhong
   kind: colleague
