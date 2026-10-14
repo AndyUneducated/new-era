@@ -14,6 +14,8 @@ const ERA: Record<string, string> = {
   'xi-thought': '习近平',
 }
 
+const FOLD = 8
+
 const CORPUS_KINDS: [string, string, CorpusR['kind'][]][] = [
   ['congress', '党代会报告', ['congress']],
   ['gov', '政府工作报告', ['gov']],
@@ -23,6 +25,13 @@ const CORPUS_KINDS: [string, string, CorpusR['kind'][]][] = [
 export function Ideas() {
   const a = useAtlas()
   const [ck, setCk] = useState('congress')
+  const [open, setOpen] = useState<Set<string>>(new Set())
+  const toggle = (id: string) => setOpen((s) => {
+    const n = new Set(s)
+    if (n.has(id)) n.delete(id)
+    else n.add(id)
+    return n
+  })
   const guiding = a.db.concepts.filter((c) => c.kind === 'guiding').sort((x, y) => (x.first?.date ?? '').localeCompare(y.first?.date ?? ''))
   const rootOf = useMemo(() => {
     const m = new Map<string, string>()
@@ -66,7 +75,7 @@ export function Ideas() {
                     {g.codified[0] && ` · ${g.codified[0].date.slice(0, 4)} ${g.codified[0].where}`}
                   </span>
                 </a>
-                {kids.map((c) => (
+                {(open.has(g.id) ? kids : kids.slice(0, FOLD)).map((c) => (
                   <a key={c.id} className="card ccard" href={conceptHref(c.id)}>
                     <b>{c.name}</b>
                     <span>
@@ -75,6 +84,11 @@ export function Ideas() {
                     </span>
                   </a>
                 ))}
+                {kids.length > FOLD && (
+                  <button className="chip fold" onClick={() => toggle(g.id)} aria-expanded={open.has(g.id)}>
+                    {open.has(g.id) ? '收起' : `展开其余 ${kids.length - FOLD} 项`}
+                  </button>
+                )}
               </div>
             )
           })}

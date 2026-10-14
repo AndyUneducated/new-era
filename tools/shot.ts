@@ -1,4 +1,4 @@
-// Screenshots for review and the README: node tools/shot.ts [--dark] [--phone] [--out=dir] route…
+// Screenshots for review and the README: node tools/shot.ts [--dark] [--phone] [--full] [--el=selector] [--out=dir] route…
 // Expects a server on 4189 (npm run dev -- --port 4189 or npm run preview -- --port 4189).
 import { mkdirSync } from 'node:fs'
 import { chromium } from '@playwright/test'
@@ -7,6 +7,8 @@ const args = process.argv.slice(2)
 const dark = args.includes('--dark')
 const phone = args.includes('--phone')
 const out = args.find((a) => a.startsWith('--out='))?.slice(6) ?? '.probe/shots'
+// --el=.network shoots one element instead of the viewport
+const el = args.find((a) => a.startsWith('--el='))?.slice(5)
 const routes = args.filter((a) => !a.startsWith('--'))
 mkdirSync(out, { recursive: true })
 
@@ -21,7 +23,8 @@ for (const r of routes.length ? routes : ['']) {
   await page.waitForSelector('.main', { timeout: 20000 }).catch(() => errors.push(`${r}: no .main`))
   await page.waitForTimeout(1200)
   const name = `${(r || 'home').replace(/[/?=&]/g, '_')}${dark ? '-dark' : ''}${phone ? '-phone' : ''}.png`
-  await page.screenshot({ path: `${out}/${name}`, fullPage: args.includes('--full') })
+  if (el) await page.locator(el).first().screenshot({ path: `${out}/${name}` })
+  else await page.screenshot({ path: `${out}/${name}`, fullPage: args.includes('--full') })
   console.log(`${out}/${name}`)
 }
 if (errors.length) console.log(`ERRORS\n${errors.join('\n')}`)

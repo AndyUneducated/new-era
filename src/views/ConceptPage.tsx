@@ -2,6 +2,7 @@ import { PersonChip, Prose, Section, Src, Srcs, VoiceTag } from '../components/b
 import { Bars } from '../components/Heat'
 import { CONCEPT_KINDS } from '../data/schema'
 import { fmt, short } from '../lib/dates'
+import { quoted } from '../lib/quotes'
 import { conceptHref, eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -54,7 +55,7 @@ export function ConceptPage({ id }: { id: string }) {
           )}
           {c.quote && (
             <blockquote className="starquote">
-              “{c.quote.text}”
+              {quoted(c.quote.text)}
               <footer>
                 <Src cite={c.quote.cite} />
               </footer>
@@ -82,7 +83,7 @@ export function ConceptPage({ id }: { id: string }) {
                       <small>{fmt(s.date)}</small>
                     </h4>
                     {s.text && <p>{s.text}</p>}
-                    {s.quote && <p className="serif" style={{ color: 'var(--ink-2)' }}>“{s.quote}”</p>}
+                    {s.quote && <p className="serif" style={{ color: 'var(--ink-2)' }}>{quoted(s.quote)}</p>}
                     <div className="small">
                       <Src cite={s.cite} />
                     </div>
@@ -115,7 +116,7 @@ export function ConceptPage({ id }: { id: string }) {
                 {c.voices.map((v, i) => (
                   <div key={i} className={`vcard${v.quote ? ' q' : ''}`} style={{ borderLeftColor: `var(--v-${v.voice})` }}>
                     <VoiceTag v={v.voice} /> <Src cite={v.cite} />
-                    <p>{v.quote ? `“${v.text}”` : v.text}</p>
+                    <p>{v.quote ? quoted(v.text) : v.text}</p>
                     {v.zh && <div className="small muted">{v.zh}</div>}
                   </div>
                 ))}

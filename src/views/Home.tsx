@@ -4,6 +4,7 @@ import { Hemicycle, layout } from '../components/Hemicycle'
 import { FRAMES, LANES, type Frame } from '../data/schema'
 import { short, today } from '../lib/dates'
 import { cnNum, congressName } from '../lib/cn'
+import { quoted } from '../lib/quotes'
 import { eventHref, href, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -128,7 +129,7 @@ export function Home() {
                 <Portrait p={quote.p} size={72} />
               </a>
               <div>
-                <div className="serif" style={{ fontSize: 20, lineHeight: 1.6 }}>“{quote.q.text}”</div>
+                <div className="serif" style={{ fontSize: 20, lineHeight: 1.6 }}>{quoted(quote.q.text)}</div>
                 <div className="small muted" style={{ marginTop: 6 }}>
                   — <a href={personHref(quote.p.id)}>{quote.p.name}</a>
                   {quote.q.date && `，${short(quote.q.date)}`}

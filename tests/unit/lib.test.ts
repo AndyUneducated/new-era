@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { age, fmt, fy } from '../../src/lib/dates'
 import { cnNum } from '../../src/lib/cn'
-import { quoteMisses } from '../../src/lib/quotes'
+import { quoted, quoteMisses } from '../../src/lib/quotes'
 
 describe('dates', () => {
   it('reads partial dates', () => {
@@ -34,5 +34,13 @@ describe('quoteMisses', () => {
   })
   it('reports what is missing', () => {
     expect(quoteMisses(body, '改革是硬道理')).toEqual(['改革是硬道理'])
+  })
+})
+
+describe('quoted', () => {
+  it('nests inner quotes as single quotes', () => {
+    expect(quoted('“惩前毖后”，治病救人')).toBe('“‘惩前毖后’，治病救人”')
+    expect(quoted('发展是硬道理')).toBe('“发展是硬道理”')
+    expect(quoted('“发展是硬道理”')).toBe('“发展是硬道理”')
   })
 })

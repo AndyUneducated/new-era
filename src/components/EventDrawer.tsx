@@ -2,6 +2,7 @@
 import { useEffect } from 'react'
 import { LANES } from '../data/schema'
 import { fmt } from '../lib/dates'
+import { quoted } from '../lib/quotes'
 import { conceptHref, go, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 import { FactionChip, PersonChip, Prose, Src, Srcs, VoiceTag } from './bits'
@@ -54,7 +55,7 @@ export function EventDrawer({ id }: { id: string }) {
             {e.voices.map((v, i) => (
               <div key={i} className={`vcard${v.quote ? ' q' : ''}`} style={{ borderLeftColor: `var(--v-${v.voice})` }}>
                 <VoiceTag v={v.voice} /> <Src cite={v.cite} />
-                <p>{v.quote ? `“${v.text}”` : v.text}</p>
+                <p>{v.quote ? quoted(v.text) : v.text}</p>
                 {v.zh && <div className="small muted">{v.zh}</div>}
               </div>
             ))}

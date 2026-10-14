@@ -2,6 +2,7 @@ import { PersonChip, Portrait, Prose, Section, Src, Srcs, Status, VoiceTag } fro
 import { SeatShare } from '../components/charts'
 import { FRAMES, VOICES, type Voice } from '../data/schema'
 import { short, span } from '../lib/dates'
+import { quoted } from '../lib/quotes'
 import { eventHref, factionHref, href, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -89,7 +90,7 @@ export function FactionPage({ id }: { id: string }) {
                 {f.voices.map((v, i) => (
                   <div key={i} className={`vcard${v.quote ? ' q' : ''}`} style={{ borderLeftColor: `var(--v-${v.voice})` }}>
                     <VoiceTag v={v.voice} /> <Src cite={v.cite} />
-                    <p>{v.quote ? `“${v.text}”` : v.text}</p>
+                    <p>{v.quote ? quoted(v.text) : v.text}</p>
                     {v.zh && <div className="small muted">{v.zh}</div>}
                   </div>
                 ))}
@@ -115,7 +116,7 @@ export function FactionPage({ id }: { id: string }) {
                       <div className="small muted">{p.headline}</div>
                       {tags.map(({ tag }, i) => (
                         <div key={i}>
-                          {tag.quote && <div className="q">“{tag.quote}”</div>}
+                          {tag.quote && <div className="q">{quoted(tag.quote)}</div>}
                           {tag.zh && <div className="q muted">{tag.zh}</div>}
                           <div className="small">
                             — <Src cite={tag.cite} />

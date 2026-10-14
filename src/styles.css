@@ -367,6 +367,17 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; justify-content: center; margin: 4px 0 0; font-size: 12.5px; color: var(--ink-2); }
 .legend span { display: inline-flex; align-items: center; gap: 6px; cursor: default; }
 .legend i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.hemicycle .seat > * { animation: seat-in 0.6s cubic-bezier(.2,.8,.2,1) both; }
+@keyframes seat-in { from { opacity: 0; transform: scale(0.6); } }
+
+.network svg { width: 100%; max-width: 560px; display: block; margin: 0 auto; overflow: visible; }
+.network .net-node { cursor: pointer; }
+.network .net-node:hover circle:first-child { filter: brightness(1.15); }
+.network .net-name { font-size: 12px; fill: var(--ink); font-weight: 600; paint-order: stroke; stroke: var(--card); stroke-width: 3px; }
+.network .legend { margin-top: 10px; }
+.net-key { width: 18px !important; height: 0 !important; border-radius: 0 !important; border-top: 3px solid var(--red); }
+.net-key.faction { border-top: 2px solid; border-image: linear-gradient(90deg, #2f5d8a, #b48728, #6a3d9a) 1; }
+.net-key.event { border-top: 2px dashed var(--muted); }
 .cmc-strip { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 18px auto 0; max-width: 960px; }
 .cmc-strip a { display: flex; align-items: center; gap: 8px; padding: 4px 12px 4px 4px; border-radius: 999px; border: 1px solid var(--rule); background: var(--card); font-size: 12.5px; }
 .cmc-strip a.out { opacity: 0.75; text-decoration: line-through; text-decoration-color: var(--red); }
@@ -578,6 +589,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .ccard { padding: 10px 14px; margin-bottom: 8px; display: block; }
 .ccard b { font-family: var(--serif); font-size: 14.5px; font-weight: 700; }
 .ccard span { display: block; font-size: 11.5px; color: var(--muted); }
+.era-col .fold { width: 100%; justify-content: center; }
 .heat { width: 100%; overflow-x: auto; }
 .heat svg { display: block; }
 .heat text { font-size: 11.5px; fill: var(--ink-2); font-family: var(--sans); }

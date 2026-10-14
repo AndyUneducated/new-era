@@ -1,9 +1,11 @@
 import { Career } from '../components/Career'
+import { Network } from '../components/Network'
 import { FactionChip, Portrait, Prose, Section, Src, Srcs, Status, VoiceTag } from '../components/bits'
 import { SEATS } from '../data/db'
 import { QUOTE_KINDS, ROLES } from '../data/schema'
 import { age, fmt, short, span } from '../lib/dates'
 import { congressName } from '../lib/cn'
+import { quoted } from '../lib/quotes'
 import { eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -99,7 +101,7 @@ export function PersonPage({ id }: { id: string }) {
           </div>
           {star && (
             <blockquote className="starquote">
-              “{star.text}”
+              {quoted(star.text)}
               <footer>
                 {star.date && `${short(star.date)} · `}
                 {star.occasion && `${star.occasion} · `}
@@ -166,6 +168,8 @@ export function PersonPage({ id }: { id: string }) {
             </Section>
           )}
 
+          <Network p={p} />
+
           {p.quotes.length > 0 && (
             <Section title="名言" note="“流传”类未经证实，仅注明出自哪篇报道">
               <div className="quotes">
@@ -191,7 +195,7 @@ export function PersonPage({ id }: { id: string }) {
                 {p.assess.map((v, i) => (
                   <div key={i} className={`vcard${v.quote ? ' q' : ''}`} style={{ borderLeftColor: `var(--v-${v.voice})` }}>
                     <VoiceTag v={v.voice} /> <Src cite={v.cite} />
-                    <p>{v.quote ? `“${v.text}”` : v.text}</p>
+                    <p>{v.quote ? quoted(v.text) : v.text}</p>
                     {v.zh && <div className="small muted">{v.zh}</div>}
                   </div>
                 ))}
@@ -241,7 +245,7 @@ export function PersonPage({ id }: { id: string }) {
                 return (
                   <div key={i} className="tagline">
                     <FactionChip f={f} />
-                    {t.quote && <div className="q">“{t.quote}”</div>}
+                    {t.quote && <div className="q">{quoted(t.quote)}</div>}
                     {t.zh && <div className="zh">{t.zh}</div>}
                     <div className="small">
                       — <Src cite={t.cite} />

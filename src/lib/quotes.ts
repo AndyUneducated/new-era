@@ -8,6 +8,14 @@ const norm = (s: string) =>
     .replace(/[“”‘’「」『』"'\u2032\u0091-\u0094]/g, '"')
     .replace(/\s+/g, ' ')
 
+// a quotation set in “”: double quotes inside it become single (“惩前毖后” → ‘惩前毖后’), and
+// text that is already one quotation is left as it is
+export function quoted(s: string) {
+  const t = s.trim()
+  if (/^“[^“”]*”$/.test(t)) return t
+  return `“${t.replace(/“/g, '‘').replace(/”/g, '’')}”`
+}
+
 // the parts of `quote` (split at …… or ...) that do not occur in `body`; empty when the quote checks out
 export function quoteMisses(body: string, quote: string): string[] {
   const hay = norm(body)
