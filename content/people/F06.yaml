@@ -1,0 +1,665 @@
+# F06 dossier cards: Shanghai Gang cadres, princelings, the petroleum clique and Zhou Yongkang's political-legal men.
+
+# --- 江派 / 上海帮 ---
+
+- id: chen-zhili
+  name: 陈至立
+  gender: f
+  born: 1942-11
+  birthplace: 福建仙游
+  roles: [cc, minister]
+  status: retired
+  statusNote: 2013 年卸任全国人大常委会副委员长和全国妇联主席。
+  tier: 2
+  headline: 国务委员（2003–2008）、教育部部长（1998–2003）
+  ids: { wikidata: Q707900 }
+  bio: >-
+    物理学出身，在中科院上海硅酸盐研究所工作多年，1984 年转入上海市委，历任宣传部长、市委副书记，前后在上海市委任职十余年。1997 年调任国家教委党组书记，次年任教育部部长，2003 年升任国务委员，2008 年转任全国人大常委会副委员长、全国妇联主席。BBC 2002 年谈江氏上海帮时，把她与江泽民、曾庆红、黄菊、王沪宁等并列为西方媒体眼中的政坛明星。
+  positions:
+    - { title: 上海市委宣传部部长, sys: party, place: 上海, from: 1984, to: 1991, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 1989, to: 1997, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 国家教委党组书记、副主任, sys: gov, from: 1997, to: 1998, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 教育部部长, sys: gov, from: 1998, to: 2003, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 国务委员, sys: gov, from: 2003, to: 2008, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 全国人大常委会副委员长, sys: gov, from: 2008, to: 2013-03, cite: f06-gov-2008-03-15-chen-zhili-cv }
+    - { title: 全国妇联主席, sys: other, from: 2008, to: 2013-05, cite: f06-gov-2008-03-15-chen-zhili-cv }
+  factions:
+    - f: jiang-shanghai
+      cite: f06-bbc-2002-10-17-shanghai-gang-trad
+      quote: 江澤民、朱鎔基、曾慶紅、吳邦國、黃菊、陳至立、王滬寧......隨便想一想，就能舉出這些被西方媒體稱為中國政壇當代明星或明日新星的人物
+      rank: backbone
+  cites: [wd-Q707900, f06-gov-2008-03-15-chen-zhili-cv, f06-bbc-2002-10-17-shanghai-gang-trad]
+
+- id: hua-jianmin
+  name: 华建敏
+  gender: m
+  born: 1940-01
+  birthplace: 江苏无锡
+  roles: [cc, minister]
+  status: retired
+  statusNote: 2008 年起任十一届全国人大常委会副委员长；本批未收录其卸任报道。
+  tier: 2
+  headline: 国务委员兼国务院秘书长（2003–2008）
+  ids: { wikidata: Q3429283 }
+  bio: >-
+    清华大学动力系毕业，在上海汽轮机和发电设备系统工作二十余年，1987 年起任上海申能电力开发公司总经理、上海市计委主任，1994 年任上海市委常委、副市长。1996 年调入中央财经领导小组办公室，1998 年任办公室主任，2003 年任国务委员兼国务院秘书长。《星岛日报》称他曾长期担任江泽民的机要秘书，但官方简历中没有这段经历。
+  positions:
+    - { title: 上海申能电力开发公司总经理, sys: other, place: 上海, from: 1987, to: 1992, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 上海市计委主任, sys: gov, place: 上海, from: 1993, to: 1994, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 上海市委常委、副市长, sys: gov, place: 上海, from: 1994, to: 1996, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 中央财经领导小组办公室副主任, sys: party, from: 1996, to: 1998, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 中央财经领导小组副秘书长、办公室主任, sys: party, from: 1998, to: 2003, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 国务委员兼国务院秘书长, sys: gov, from: 2003, to: 2008, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { title: 全国人大常委会副委员长, sys: gov, from: 2008, cite: f06-cpc-2008-hua-jianmin-cv }
+  factions:
+    - f: jiang-shanghai
+      cite: f06-secretchina-2003-03-09-hua-jianmin
+      quote: 但他的来头并不小，他曾长期担任江泽民的机要秘书，九十年代中一度挂职上海，任副市长兼市计委主任
+      rank: backbone
+  cites: [wd-Q3429283, f06-cpc-2008-hua-jianmin-cv, f06-secretchina-2003-03-09-hua-jianmin]
+
+- id: wang-zongnan
+  name: 王宗南
+  gender: m
+  born: 1955
+  roles: [tiger, biz]
+  status: detained
+  statusNote: 2015 年一审被判有期徒刑十八年。
+  fall:
+    - { date: 2014, text: BBC 报道王岐山的工作组抵沪不久，光明食品集团前董事长王宗南即被立案侦查, cite: b06-bbc-2014-09-23-shanghai-gang }
+    - { date: 2015-08-11, text: 上海市第二中级人民法院以挪用公款罪、受贿罪判处其有期徒刑十八年, cite: f06-thepaper-2015-08-11-wang-zongnan }
+  tier: 2
+  headline: 上海光明食品集团原董事长、联华超市原董事长
+  ids: { wikidata: Q17502185 }
+  bio: >-
+    上海国企高管，曾在黄浦区任陈良宇的副手，后任上海友谊集团总经理、联华超市董事长和光明食品集团董事长。2014 年王岐山派出的巡视工作组抵沪后不久被立案侦查，BBC 称他被认为是江泽民的心腹之一。2015 年 8 月，上海二中院认定他在 2001 至 2006 年间伙同他人挪用联华超市公款 1.95 亿余元，又为复星集团谋利、收受贿赂 269 万余元，判处有期徒刑十八年。
+  positions:
+    - { title: 上海市黄浦区领导（陈良宇副手）, sys: gov, place: 上海, cite: b06-bbc-2014-09-23-shanghai-gang }
+    - { title: 上海友谊（集团）有限公司总经理, sys: other, place: 上海, cite: f06-thepaper-2015-08-11-wang-zongnan }
+    - { title: 上海联华超市股份有限公司董事长, sys: other, place: 上海, cite: f06-thepaper-2015-08-11-wang-zongnan }
+    - { title: 上海光明食品集团公司董事长, sys: other, place: 上海, cite: b06-bbc-2014-09-23-shanghai-gang }
+  factions:
+    - f: jiang-shanghai
+      cite: b06-bbc-2014-09-23-shanghai-gang
+      quote: 王被认为是江泽民的心腹之一，并曾在上海黄浦区担任前中共政治局委员陈良宇的副手。
+      rank: periphery
+  cites: [wd-Q17502185, f06-thepaper-2015-08-11-wang-zongnan, b06-bbc-2014-09-23-shanghai-gang]
+
+- id: wang-weigong
+  name: 王维工
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2007 年 7 月因涉嫌受贿被捕；本批未找到审判结果的报道。
+  fall:
+    - { date: 2007-07, text: 《财经》报道其因涉嫌上海社保基金案受贿被捕, cite: b01-bbc-2007-08-03-wang-weigong }
+  tier: 2
+  headline: 黄菊前秘书、上海申能集团原副总
+  bio: >-
+    长期在上海工作，黄菊任上海市委书记期间出任市委副秘书长，被视为黄菊亲信；十六大后随黄菊上调北京，在国务院办公厅任黄菊秘书，后回任上海申能集团副总。2007 年 7 月因上海社保基金案被捕，《财经》称他是把社保案主角张荣坤介绍到上海的关键人物。英国《金融时报》认为，逮捕他说明社保案已牵扯到中共权力核心。
+  positions:
+    - { title: 上海市委副秘书长, sys: party, place: 上海, cite: b01-bbc-2007-08-03-wang-weigong }
+    - { title: 国务院办公厅黄菊秘书, sys: gov, from: 2002, cite: b01-bbc-2007-08-03-wang-weigong }
+    - { title: 上海申能集团公司副总经理, sys: other, place: 上海, to: 2007, cite: b01-bbc-2007-08-03-wang-weigong }
+  factions:
+    - f: jiang-shanghai
+      cite: b01-bbc-2007-08-03-wang-weigong
+      quote: 王维工曾长期在上海工作，在黄菊担任上海市委书记期间，他出任市委副秘书长，是黄菊亲信。
+      rank: periphery
+  cites: [b01-bbc-2007-08-03-wang-weigong]
+
+- id: jia-tingan
+  name: 贾廷安
+  gender: m
+  born: 1952-09
+  birthplace: 河南叶县
+  roles: [general, cc]
+  status: retired
+  statusNote: 本批未找到其卸任总政治部副主任的官方报道。
+  tier: 2
+  headline: 总政治部原副主任，上将，长年任江泽民秘书
+  ids: { wikidata: Q8291856 }
+  bio: >-
+    长年担任江泽民的秘书，后任中央军委办公厅主任、总政治部副主任，2011 年 7 月晋升上将，是十八届中央委员。2012 年日本媒体称，经过胡锦涛政权的清理，军中 38 名上将里只有 6 人属江泽民派系，十八大后将只剩下贾廷安一人。
+  positions:
+    - { title: 江泽民秘书, sys: party, cite: f06-bbc-2012-11-01-jiang-office }
+    - { title: 中央军委办公厅主任, sys: army, cite: wd-Q8291856 }
+    - { title: 总政治部副主任, sys: army, cite: f06-sina-2011-07-23-six-generals }
+    - { title: 第十八届中央委员, sys: party, from: 2012-11, cite: k02-xinhua-2012-11-14-18-cc }
+  factions:
+    - f: jiang-shanghai
+      cite: f06-bbc-2012-11-01-jiang-office
+      quote: 现在中国军方38名上将中，只有6人是江泽民派系，而且在来临的十八大还预定大部分引退，只剩下长年出任江泽民秘书的总政治部副主任贾廷安。
+      rank: backbone
+  cites: [wd-Q8291856, f06-sina-2011-07-23-six-generals, f06-bbc-2012-11-01-jiang-office, k02-xinhua-2012-11-14-18-cc]
+
+# --- 太子党 ---
+
+- id: chen-yuan
+  name: 陈元
+  gender: m
+  born: 1945-01
+  birthplace: 上海
+  roles: [acc, biz, family]
+  status: retired
+  statusNote: 2013 年起任第十二届全国政协副主席。
+  tier: 2
+  headline: 国家开发银行原董事长（1998–2013）、全国政协副主席（2013– ），陈云之子
+  ids: { wikidata: Q82260 }
+  bio: >-
+    中共元老陈云之子，清华大学自动控制系毕业，1982 年起任北京市西城区委书记、北京市委常委，1988 年任中国人民银行副行长，1998 年起执掌国家开发银行十五年，2013 年任全国政协副主席。彭博社统计，王震之子王军、邓小平女婿贺平和陈元三人领导的公司 2011 年总市值相当于中国年度经济产出的五分之一强。
+  positions:
+    - { title: 北京市西城区委书记, sys: party, place: 北京, from: 1983, to: 1984, cite: f06-people-2013-03-12-chen-yuan-cv }
+    - { title: 北京市委常委, sys: party, place: 北京, from: 1984, to: 1988, cite: f06-people-2013-03-12-chen-yuan-cv }
+    - { title: 中国人民银行副行长, sys: gov, from: 1988, to: 1998, cite: f06-people-2013-03-12-chen-yuan-cv }
+    - { title: 国家开发银行行长, sys: other, from: 1998, to: 2008, cite: f06-people-2013-03-12-chen-yuan-cv }
+    - { title: 国家开发银行董事长, sys: other, from: 2008, to: 2013, cite: f06-people-2013-03-12-chen-yuan-cv }
+    - { title: 全国政协副主席, sys: other, from: 2013, cite: f06-people-2013-03-12-chen-yuan-cv }
+  factions:
+    - f: princelings
+      cite: f04-rfa-2017-11-07-princelings
+      quote: 还有出任政协副主席的陈元（前中共元老陈云之子）。
+      rank: backbone
+  cites: [wd-Q82260, f06-people-2013-03-12-chen-yuan-cv, f04-rfa-2017-11-07-princelings, f06-bbc-2012-12-27-bloomberg-heirs]
+
+- id: wang-jun-citic
+  name: 王军
+  gender: m
+  born: 1941-04
+  died: 2019-06-10
+  birthplace: 湖南浏阳
+  roles: [biz, family]
+  status: dead
+  statusNote: 2019 年 6 月 10 日在广州病逝。
+  tier: 2
+  headline: 中信集团原董事长（1995–2006），王震之子
+  bio: >-
+    原国家副主席王震的长子，早年在海军和总参装备部任职，1979 年起借调中国国际信托投资公司，1995 年起任中信董事长，2006 年由孔丹接任，是中共十五大、十六大代表。BBC 转述彭博社报道，把他与邓小平女婿贺平、陈云之子陈元并列为执掌国企的元老后代。新浪财经称，王军是孔丹自小的老大哥，曾极力邀请孔丹加入中信。
+  positions:
+    - { title: 总参装备部海军处参谋、军贸处副处长, sys: army, from: 1977, cite: f06-xinhua-2019-06-19-wang-jun }
+    - { title: 中国国际信托投资公司副总经理、总经理, sys: other, from: 1986, to: 1995, cite: f06-xinhua-2019-06-19-wang-jun }
+    - { title: 中国国际信托投资公司董事长, sys: other, from: 1995, to: 2002, cite: f06-xinhua-2019-06-19-wang-jun }
+    - { title: 中国中信集团公司董事长、党委书记, sys: other, from: 2002, to: 2006, cite: f06-xinhua-2019-06-19-wang-jun }
+  factions:
+    - f: princelings
+      cite: f06-bbc-2012-12-27-bloomberg-heirs
+      quote: 彭博新闻社的报道说，“八老”后代中有26人运营主导经济的国有企业，或担任这些企业的高管，其中王震之子王军、邓小平女婿贺平和陈云之子陈元三人领导和运营的公司2011年的总市值为1.6万亿美元
+      rank: periphery
+    - f: princelings
+      cite: f06-cdt-2010-05-04-princeling-list
+      quote: 王 军——中国中信集团董事长（湖南浏阳人，原国家副主席王震之长子）
+  cites: [f06-xinhua-2019-06-19-wang-jun, f06-bbc-2012-12-27-bloomberg-heirs, f06-cdt-2010-05-04-princeling-list, f06-sina-2014-08-06-kong-dan]
+
+- id: zhang-haiyang
+  name: 张海阳
+  gender: m
+  born: 1949-07
+  birthplace: 湖南平江
+  roles: [general, cc, family]
+  status: retired
+  statusNote: 2014 年 12 月到龄退役，2015 年 2 月任全国人大法律委员会副主任委员。
+  tier: 2
+  headline: 第二炮兵原政委（2009–2014），上将，张震之子
+  ids: { wikidata: Q3369461 }
+  bio: >-
+    原中央军委副主席张震上将之子，长期在第 21 军任职，后任第 27 集团军政委、北京军区副政委、成都军区政委。2009 年 7 月与刘源、马晓天同日晋升上将，搜狐转载的报道称三人均系名门之后；同年底任第二炮兵政委，与父亲成为解放军首对父子上将。布鲁金斯学会把他列为军中太子党。
+  positions:
+    - { title: 第27集团军政治委员, sys: army, from: 1996-08, to: 2002-01, cite: f06-thepaper-2015-02-27-generals-npc }
+    - { title: 北京军区副政治委员, sys: army, from: 2002-01, to: 2005-12, cite: f06-thepaper-2015-02-27-generals-npc }
+    - { title: 成都军区政治委员, sys: army, place: 四川, from: 2005-12, to: 2009-12, cite: f06-thepaper-2015-02-27-generals-npc }
+    - { title: 第二炮兵政治委员, sys: army, from: 2009-12, to: 2014-12, cite: f06-thepaper-2015-02-27-generals-npc }
+    - { title: 全国人大法律委员会副主任委员, sys: gov, from: 2015-02, cite: f06-thepaper-2015-02-27-generals-npc }
+  factions:
+    - f: princelings
+      cite: f04-brookings-2010-06-29-military
+      quote: 这3名军官（马晓天、张海阳和刘源）全都是太子党
+      rank: backbone
+    - f: princelings
+      cite: f06-sohu-2009-07-20-three-generals
+      quote: 解放军新晋三上将均系名门之后。除刘源为前国家主席刘少奇之子早为人所知之外，马晓天为开国大校、解放军政治学院前教育长马载尧之子，张海阳为前中央军委副主席张震上将之子。
+  cites: [wd-Q3369461, f06-thepaper-2015-02-27-generals-npc, f06-sohu-2009-07-20-three-generals, f04-brookings-2010-06-29-military]
+
+- id: liu-xiaojiang
+  name: 刘晓江
+  gender: m
+  born: 1949-12
+  birthplace: 陕西西安
+  roles: [general, cc]
+  status: retired
+  statusNote: 2014 年 12 月到龄退役，2015 年 2 月任全国人大外事委员会副主任委员。
+  tier: 2
+  headline: 海军原政委（至 2014），上将
+  ids: { wikidata: Q3369506 }
+  bio: >-
+    海军政工将领，2011 年 7 月以海军政治委员身份晋升上将，与贾廷安、张又侠等同批授衔，是十七届、十八届中央委员。2014 年底由苗华接任海军政委，次年转任全国人大外事委员会副主任委员。布鲁金斯学会 2010 年把他与吴胜利、马晓天、张海阳、章沁生、张又侠一起列为下届军委候选人中的六名太子党。
+  positions:
+    - { title: 海军政治委员, sys: army, to: 2014-12, cite: f06-sina-2011-07-23-six-generals }
+    - { title: 第十七届中央委员, sys: party, from: 2007-10, cite: k02-xinhua-2007-10-21-17-cc }
+    - { title: 第十八届中央委员, sys: party, from: 2012-11, cite: k02-xinhua-2012-11-14-18-cc }
+    - { title: 全国人大外事委员会副主任委员, sys: gov, from: 2015-02, cite: f06-thepaper-2015-02-27-generals-npc }
+  factions:
+    - f: princelings
+      cite: f04-brookings-2010-06-29-military
+      quote: 有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）
+      rank: backbone
+  cites: [wd-Q3369506, f06-sina-2011-07-23-six-generals, f06-thepaper-2015-02-27-generals-npc, f04-brookings-2010-06-29-military, k02-xinhua-2007-10-21-17-cc]
+
+- id: zhang-qinsheng
+  name: 章沁生
+  gender: m
+  born: 1948-05
+  birthplace: 山西孝义
+  roles: [general, cc]
+  status: retired
+  statusNote: 本批未找到其卸任副总参谋长的官方报道。
+  tier: 2
+  headline: 解放军第一副总参谋长（2009– ）、广州军区原司令员
+  ids: { wikidata: Q5941874 }
+  bio: >-
+    1968 年入伍，历任国防大学教育长、总参作战部部长、总参谋长助理、副总参谋长和广州军区司令员，2009 年 12 月接替葛振峰出任排名第一的副总参谋长，是十七届中央委员。中新网称他被视为军中战略意识、现代意识和改革意识甚强的将领。布鲁金斯学会把他列入军中太子党，但本批未找到其家世的报道。
+  positions:
+    - { title: 国防大学教育长, sys: army, cite: f06-chinanews-2009-12-31-zhang-qinsheng }
+    - { title: 总参谋部作战部部长, sys: army, cite: f06-chinanews-2009-12-31-zhang-qinsheng }
+    - { title: 总参谋长助理, sys: army, cite: f06-chinanews-2009-12-31-zhang-qinsheng }
+    - { title: 广州军区司令员, sys: army, place: 广东, to: 2009-12, cite: f06-chinanews-2009-12-31-zhang-qinsheng }
+    - { title: 副总参谋长（排名第一）, sys: army, from: 2009-12, cite: f06-chinanews-2009-12-31-zhang-qinsheng }
+  factions:
+    - f: princelings
+      cite: f04-brookings-2010-06-29-military
+      quote: 有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）
+      rank: backbone
+  cites: [wd-Q5941874, f06-chinanews-2009-12-31-zhang-qinsheng, f04-brookings-2010-06-29-military]
+
+- id: chen-xiaolu
+  name: 陈小鲁
+  gender: m
+  born: 1946
+  died: 2018-02-28
+  roles: [biz, family]
+  status: dead
+  statusNote: 2018 年 2 月 28 日因大面积心梗去世。
+  tier: 2
+  headline: 标准国际投资管理公司董事长，陈毅之子
+  ids: { wikidata: Q15907640 }
+  bio: >-
+    元帅陈毅之子，1950 年随父迁居中南海。参军后入党提干，曾任中国驻英国大使馆副武官，获上校军衔，后在中央政治体制改革小组办公室工作。1992 年任海南亚龙湾投资公司总经理，之后回北京与友人成立标准国际投资管理公司。晚年卷入安邦股权疑云。BBC 称他是现今最著名的红二代之一。
+  positions:
+    - { title: 中国驻英国大使馆副武官, sys: army, cite: f06-bbc-2018-03-01-chen-xiaolu }
+    - { title: 中央政治体制改革小组办公室成员, sys: party, cite: f06-bbc-2018-03-01-chen-xiaolu }
+    - { title: 海南亚龙湾投资公司总经理, sys: other, place: 海南, from: 1992, cite: f06-bbc-2018-03-01-chen-xiaolu }
+    - { title: 标准国际投资管理公司董事长, sys: other, place: 北京, cite: f06-cdt-2010-05-04-princeling-list }
+  factions:
+    - f: princelings
+      cite: f06-bbc-2018-03-01-chen-xiaolu
+      quote: 陈小鲁是中国开国元帅之一陈毅的儿子，是现今最著名的红二代之一。
+      rank: periphery
+  cites: [wd-Q15907640, f06-bbc-2018-03-01-chen-xiaolu, f06-cdt-2010-05-04-princeling-list]
+
+- id: ye-xuanning
+  name: 叶选宁
+  gender: m
+  born: 1938-10
+  died: 2016-07-10
+  birthplace: 香港
+  roles: [general, biz, family]
+  status: dead
+  statusNote: 2016 年 7 月 10 日病逝，享年 79 岁。
+  tier: 2
+  headline: 总政治部联络部原部长，少将，叶剑英之子
+  ids: { wikidata: Q8321129 }
+  bio: >-
+    元帅叶剑英次子，1978 年任国家经委康世恩秘书，1984 年任中国国际友好联络会副会长并参军，任总政联络部副部长，1988 年授少将，1990 年升任部长，1993 年兼任凯利实业董事长，1997 年退役。联合早报称他在红二代中具颇大影响力，甚至有人形容他是红二代的精神领袖；据说十八大前他明确支持调查薄熙来，并力挺习近平接班。
+  positions:
+    - { title: 中国国际友好联络会副会长, sys: other, from: 1984, cite: f06-zaobao-2016-07-11-ye-xuanning }
+    - { title: 总政治部联络部副部长, sys: army, from: 1984, to: 1990, cite: f06-zaobao-2016-07-11-ye-xuanning }
+    - { title: 总政治部联络部部长, sys: army, from: 1990, to: 1997, cite: f06-zaobao-2016-07-11-ye-xuanning }
+    - { title: 凯利实业董事长、总裁, sys: other, from: 1993, cite: f06-zaobao-2016-07-11-ye-xuanning }
+  factions:
+    - f: princelings
+      cite: f06-zaobao-2016-07-11-ye-xuanning
+      quote: 1938年生于香港的叶选宁有少将军衔，在中共“红二代”之中具颇大影响力。
+      rank: elder
+      rankQuote: 甚至有人形容他是“红二代”的“精神领袖”
+  cites: [wd-Q8321129, f06-zaobao-2016-07-11-ye-xuanning, f06-cdt-2010-05-04-princeling-list]
+
+- id: kong-dan
+  name: 孔丹
+  gender: m
+  born: 1947
+  roles: [biz, family]
+  status: retired
+  statusNote: 2010 年卸任中信集团董事长、党委书记。
+  tier: 2
+  headline: 中信集团原董事长（2006–2010），孔原之子
+  ids: { wikidata: Q6429115 }
+  bio: >-
+    原中央调查部部长孔原之子，文革初任北京四中首都红卫兵西城纠察队（西纠）总部司令。后在中信、光大之间选择了光大，从负责沿海城市业务部开始，在光大工作 16 年。2000 年调任中信副董事长兼总经理，时任中组部长曾庆红找他谈话，要他配合王军的工作；2006 年接替王军任中信董事长，2010 年卸任。新浪财经称他与秦晓都是北京四中出身的高干子弟。
+  positions:
+    - { title: 中国光大集团（自沿海城市业务部起）, sys: other, from: 1984, to: 2000, cite: f06-sina-2014-08-06-kong-dan }
+    - { title: 中信集团副董事长兼总经理, sys: other, from: 2000-07, to: 2006, cite: f06-sina-2014-08-06-kong-dan }
+    - { title: 中信集团董事长、党委书记, sys: other, from: 2006-07, to: 2010, cite: f06-sina-2014-08-06-kong-dan }
+  factions:
+    - f: princelings
+      cite: f06-sina-2014-08-06-kong-dan
+      quote: 他们两人是北京四中的同学，都是高干子弟，都是当年为数不多的中学生党员。
+      rank: periphery
+    - f: princelings
+      cite: f06-cdt-2010-05-04-princeling-list
+      quote: 孔 丹——中国中信集团副董事长、总经理（江西萍乡人，原中央调查部部长孔原之子）
+  cites: [wd-Q6429115, f06-sina-2014-08-06-kong-dan, f06-cdt-2010-05-04-princeling-list]
+
+# --- 石油帮 ---
+
+- id: li-hualin
+  name: 李华林
+  gender: m
+  born: 1962-10
+  birthplace: 湖北天门
+  roles: [tiger, biz]
+  status: purged
+  statusNote: 2013 年 8 月被宣布接受组织调查；央广网 2015 年称尚未通报调查结果，本批未找到审判报道。
+  fall:
+    - { date: 2013-08-27, text: 国务院国资委宣布中石油集团副总经理李华林涉嫌严重违纪接受组织调查；中石油公告他已于 26 日辞去股份公司职务, cite: f06-chinanews-2013-08-28-cnpc-three }
+  tier: 2
+  headline: 中石油集团原副总经理、周永康前秘书（1988–1992）
+  ids: { wikidata: Q16336193 }
+  bio: >-
+    1983 年毕业于西南石油大学物探专业，1988 至 1992 年任周永康在中石油时的秘书，此后长期在中石油任职，2009 年起兼任中石油股份董事会秘书和昆仑能源董事会主席，常以发言人身份面对媒体。2013 年 7 月升任中石油集团副总经理，任期未满一个月即与冉新权、王道富同日被调查，是周永康案中最早被查的秘书之一。
+  positions:
+    - { title: 周永康秘书, sys: other, from: 1988, to: 1992, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { title: 中石油股份副总裁、董事会秘书, sys: other, from: 2009-06, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 昆仑能源有限公司董事会主席, sys: other, from: 2010-03, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 中石油集团副总经理、党组成员, sys: other, from: 2013-07, to: 2013-08, cite: f06-chinanews-2013-08-28-li-hualin }
+  factions:
+    - f: petroleum
+      cite: f02-bbc-2014-02-26-zhou-watch
+      quote: “中油帮”的高官蒋洁敏、王永春、李华林等人
+      rank: backbone
+    - f: petroleum
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
+  cites: [wd-Q16336193, f06-chinanews-2013-08-28-cnpc-three, f06-chinanews-2013-08-28-li-hualin, b03-cnr-2015-10-15-zhou-disciples, b03-bbc-2013-08-30-zhou-clique, f02-bbc-2014-02-26-zhou-watch]
+
+- id: ran-xinquan
+  name: 冉新权
+  gender: m
+  roles: [tiger, biz]
+  status: purged
+  statusNote: 2013 年 8 月被宣布接受组织调查；本批未找到审判报道。
+  fall:
+    - { date: 2013-08-27, text: 国务院国资委宣布中石油股份副总裁兼长庆油田分公司总经理冉新权涉嫌严重违纪接受组织调查, cite: f06-chinanews-2013-08-28-cnpc-three }
+  tier: 2
+  headline: 中石油股份原董事、副总裁兼长庆油田分公司总经理
+  bio: >-
+    西南石油大学油气田开发工程博士，在中石油工作近二十年，2008 年 2 月任长庆油田分公司总经理，2011 年任中石油股份董事、副总裁。长庆油田是全国第三大油田。2013 年 8 月与李华林、王道富同日被宣布调查，三人都是西南石油大学校友，北京青年报称这并不完全是巧合。央广网把他列为周永康在石油系统的门徒之一。
+  positions:
+    - { title: 长庆油田分公司总经理, sys: other, place: 陕西, from: 2008-02, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 中石油股份董事、副总裁, sys: other, from: 2011, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+  factions:
+    - f: petroleum
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
+      rank: periphery
+  cites: [f06-chinanews-2013-08-28-cnpc-three, f06-chinanews-2013-08-28-li-hualin, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: wang-daofu
+  name: 王道富
+  gender: m
+  born: 1955
+  birthplace: 四川
+  roles: [tiger, biz]
+  status: purged
+  statusNote: 2013 年 8 月被宣布接受组织调查；本批未找到审判报道。
+  fall:
+    - { date: 2013-08-27, text: 国务院国资委宣布中石油股份总地质师兼勘探开发研究院院长王道富涉嫌严重违纪接受组织调查, cite: f06-chinanews-2013-08-28-cnpc-three }
+  tier: 2
+  headline: 中石油股份原总地质师、勘探开发研究院原院长
+  ids: { wikidata: Q16949670 }
+  bio: >-
+    四川人，西南石油大学地质专业 77 级，在中石油工作二十余年，曾任长庆油田分公司总经理，与后任冉新权在长庆有三年交集，2008 年 5 月任中石油股份总地质师，兼勘探开发研究院院长。2013 年 8 月与李华林、冉新权同日被宣布调查。央广网把他与蒋洁敏、王永春等并列为周永康在石油系统的门徒。
+  positions:
+    - { title: 长庆油田分公司总经理, sys: other, place: 陕西, to: 2008, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 中石油股份总地质师, sys: other, from: 2008-05, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 中石油勘探开发研究院院长, sys: other, to: 2013-08, cite: f06-chinanews-2013-08-28-cnpc-three }
+  factions:
+    - f: petroleum
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
+      rank: periphery
+  cites: [wd-Q16949670, f06-chinanews-2013-08-28-cnpc-three, f06-chinanews-2013-08-28-li-hualin, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: wen-qingshan
+  name: 温青山
+  gender: m
+  born: 1958
+  roles: [tiger, biz]
+  status: purged
+  statusNote: 2013 年 12 月被传协助调查并辞去上市公司职务，此后未再公开露面；本批未找到官方立案通报或审判报道。
+  fall:
+    - { date: 2013-12-16, text: 中石油内部人士证实总会计师、党组成员温青山被传协助调查；次日中石油公告他已辞去股份公司监事, cite: f06-cnr-2013-12-19-wen-qingshan }
+  tier: 2
+  headline: 中石油集团原总会计师，蒋洁敏的“大账房”
+  bio: >-
+    中国人民大学会计学专业毕业，在中石油财务系统工作近三十年，1999 年起任集团财务资产部副主任、主任，2002 年起兼任中石油股份监事，2013 年 7 月任集团总会计师、党组成员，8 月被推荐接替李华林任昆仑能源董事会主席，还兼任昆仑银行董事、昆仑信托董事长。央广网称他被业内称为蒋洁敏的大账房；2015 年周永康判决书写明他曾通过周滨夫妇向周行贿。
+  positions:
+    - { title: 中石油集团财务资产部主任, sys: other, from: 2002-05, cite: f06-cnr-2013-12-19-wen-qingshan }
+    - { title: 中石油股份监事, sys: other, from: 2002-11, to: 2013-12, cite: f06-cnr-2013-12-19-wen-qingshan }
+    - { title: 中石油集团副总会计师, sys: other, from: 2007-11, to: 2013-07, cite: f06-chinanews-2013-08-28-cnpc-three }
+    - { title: 中石油集团总会计师、党组成员, sys: other, from: 2013-07, to: 2013-12, cite: f06-bbc-2013-12-16-wen-qingshan }
+  factions:
+    - f: petroleum
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 中石油原总会计师温青山跟周的牵连也不浅。
+      rank: periphery
+  cites: [f06-bbc-2013-12-16-wen-qingshan, f06-cnr-2013-12-19-wen-qingshan, f06-chinanews-2013-08-28-cnpc-three, b03-cnr-2015-10-15-zhou-disciples]
+
+- id: liao-yongyuan
+  name: 廖永远
+  gender: m
+  born: 1962
+  roles: [tiger, biz]
+  status: detained
+  statusNote: 2017 年 1 月一审被判有期徒刑十五年。
+  fall:
+    - { date: 2015-03-16, text: 中央纪委宣布中石油集团总经理廖永远涉嫌严重违纪违法接受组织调查, cite: f06-bbc-2015-03-16-liao-yongyuan }
+    - { date: 2017-01-19, text: 山东德州中院以受贿罪、巨额财产来源不明罪判处其有期徒刑十五年, cite: f06-xinhua-2017-01-20-liao-sentence }
+  tier: 2
+  headline: 中石油集团原总经理（2013–2015），“西北虎”
+  bio: >-
+    长期在塔里木油田任职，历任塔里木油田勘探开发指挥部常务副指挥、指挥和塔里木油田分公司总经理，后任四川石油管理局局长、中石油总经理助理、副总经理，2013 年 5 月在蒋洁敏转任国资委主任后出任中石油总经理。他与同年出生的苏树林被原石油部老部长们并称为东西二虎。2015 年 3 月被查，2017 年 1 月被判十五年。
+  positions:
+    - { title: 塔里木油田勘探开发指挥部常务副指挥、指挥, sys: other, place: 新疆, from: 1997, cite: f06-xinhua-2017-01-20-liao-sentence }
+    - { title: 中国石油塔里木油田分公司总经理, sys: other, place: 新疆, cite: f06-xinhua-2017-01-20-liao-sentence }
+    - { title: 四川石油管理局局长, sys: other, place: 四川, cite: f06-xinhua-2017-01-20-liao-sentence }
+    - { title: 中石油集团总经理助理、副总经理, sys: other, cite: f06-xinhua-2017-01-20-liao-sentence }
+    - { title: 中石油集团总经理, sys: other, from: 2013-05, to: 2015-03, cite: f06-bbc-2015-03-16-liao-yongyuan }
+  factions:
+    - f: petroleum
+      cite: f06-bbc-2015-10-07-su-shulin
+      quote: 与此同时，石油系统当年被称为“东西二虎”的廖永远、苏树林已双双落马。
+      rank: backbone
+    - f: petroleum
+      cite: f06-ntd-2016-11-04-liao-yongyuan
+      quote: 廖永远在石油界有“西北虎”之称，他与被称为“东北虎”的苏树林，同是一手打造“石油帮”的中共前国家副主席曾庆红的亲信。
+  cites: [f06-bbc-2015-03-16-liao-yongyuan, f06-xinhua-2017-01-20-liao-sentence, f06-bbc-2015-10-07-su-shulin, f06-ntd-2016-11-04-liao-yongyuan]
+
+- id: su-shulin
+  name: 苏树林
+  gender: m
+  born: 1962-03
+  birthplace: 山东东阿
+  roles: [tiger, cc, prov, biz]
+  status: detained
+  statusNote: 2018 年 7 月一审被判有期徒刑十六年。
+  fall:
+    - { date: 2015-10-07, text: 中纪委网站通报福建省委副书记、省长苏树林涉嫌严重违纪接受组织调查，成为十八大后首个在任上被查的省长, cite: f06-people-2015-10-07-su-shulin }
+    - { date: 2018-07-26, text: 上海二中院以受贿罪、国有企业人员滥用职权罪判处其有期徒刑十六年，并处罚金三百万元, cite: f06-court-2018-07-26-su-shulin }
+  tier: 2
+  headline: 福建省原省长（2011–2015）、中石化原总经理，“东北虎”
+  ids: { wikidata: Q2361332 }
+  bio: >-
+    大庆石油学院毕业，在大庆油田由基层做起，1999 年任大庆石油管理局局长，随后任中石油集团副总经理，2006 年转任辽宁省委组织部长，2007 年任中石化总经理，2011 年任福建省长，是十八届中央委员。2015 年 10 月被查，法院认定他在中石化任上收购海外项目时滥用职权。新京报引述中石化内部人士称，他在大庆时与周永康走得很近。
+  positions:
+    - { title: 大庆石油管理局局长, sys: other, place: 黑龙江, from: 1999-01, to: 1999-11, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 大庆油田有限责任公司董事长、总经理, sys: other, place: 黑龙江, from: 1999-11, to: 2003-12, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 中石油集团副总经理、党组成员, sys: other, from: 2000-08, to: 2006-09, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 辽宁省委常委、组织部部长, sys: party, place: 辽宁, from: 2006-10, to: 2007-06, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 中国石油化工集团公司总经理、党组书记, sys: other, from: 2007-06, to: 2011-03, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 福建省委副书记, sys: party, place: 福建, from: 2011-03, to: 2015-10, cite: f06-people-2015-10-07-su-shulin }
+    - { title: 福建省省长, sys: gov, place: 福建, from: 2011-04, to: 2015-10, cite: f06-people-2015-10-07-su-shulin }
+  factions:
+    - f: petroleum
+      cite: f06-bbc-2015-10-07-su-shulin
+      quote: 与此同时，石油系统当年被称为“东西二虎”的廖永远、苏树林已双双落马。
+      rank: backbone
+    - f: jiang-shanghai
+      cite: f06-kzg-2018-07-27-su-shulin
+      quote: 苏树林被认为是江派在石油系统埋伏的重要成员，除了作为曾庆红和周永康的马仔，还被江泽民点名“人才难得”。
+      rank: periphery
+  cites: [wd-Q2361332, f06-people-2015-10-07-su-shulin, f06-court-2018-07-26-su-shulin, f06-bbc-2015-10-07-su-shulin, f06-rmzxw-2015-12-09-su-shulin, f06-kzg-2018-07-27-su-shulin]
+
+# --- 政法系 ---
+
+- id: liang-ke
+  name: 梁克
+  gender: m
+  birthplace: 吉林吉林市
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 2 月被免职；本批未找到官方立案通报或审判报道。
+  fall:
+    - { date: 2014-02-21, text: 北京市人大常委会会议宣布免去其北京市国家安全局局长职务，官方未公布原因；《纽约时报》称他上月已被中纪委收审, cite: f06-bbc-2014-02-22-zhou-arrests-trad }
+  tier: 2
+  headline: 北京市国家安全局原局长（2008–2014）
+  ids: { wikidata: Q16260382 }
+  bio: >-
+    2008 年 4 月起任北京市国家安全局局长，同时兼任北京市委政法委副书记。2014 年 2 月 21 日，42 岁的他在北京市人大常委会会议上被突然免职，由北京市公安局原副局长李东接任，官方未公布原因。《纽约时报》引述消息来源称，梁克落马是中共清肃周永康在国安系统亲信的最新动作。BBC 把他列入政法国安帮。
+  positions:
+    - { title: 北京市国家安全局局长, sys: gov, place: 北京, from: 2008-04, to: 2014-02, cite: f06-bbc-2014-02-22-zhou-arrests-trad }
+    - { title: 北京市委政法委副书记, sys: party, place: 北京, from: 2008-04, to: 2014-02, cite: f06-bbc-2014-02-22-zhou-arrests-trad }
+  factions:
+    - f: zhengfa
+      cite: f02-bbc-2014-02-26-zhou-watch
+      quote: “政法国安帮”高官梁克、李东生、吴永文等
+      rank: periphery
+    - f: zhengfa
+      cite: f06-bbc-2014-02-22-zhou-arrests-trad
+      quote: 《紐約時報》引述消息來源稱，梁克落馬是中共清肅周永康在國安系統親信的最新動作。
+  cites: [wd-Q16260382, f06-bbc-2014-02-22-zhou-arrests-trad, f02-bbc-2014-02-26-zhou-watch, b03-bbc-2014-02-22-zhou-secretaries]
+
+- id: wu-yongwen
+  name: 吴永文
+  gender: m
+  born: 1952-06
+  birthplace: 湖北荆门
+  roles: [tiger, prov]
+  status: purged
+  statusNote: 2013 年初被报道带走调查；本批未找到官方处分通报或审判报道。
+  fall:
+    - { date: 2013-01-12, text: 大公网报道湖北省人大常委会副主任吴永文被有关部门带走调查；一周后他未出现在新一届省人大代表名单中, cite: f06-ifeng-2013-01-18-wu-yongwen }
+  tier: 2
+  headline: 湖北省委原常委、政法委书记兼公安厅长（2007–2012）
+  ids: { wikidata: Q9063448 }
+  bio: >-
+    湖北荆门人，2003 年起任湖北省劳动和社会保障厅厅长三年，2006 年任鄂州市委书记，2007 年 9 月转任湖北省委常委、政法委书记，并兼省公安厅长。2012 年 1 月当选省人大常委会副主任，此后陆续卸去政法职务；2013 年 1 月大公网报道他被有关部门带走调查。BBC 把他与李东生并列为周永康政法系统的落马高官。
+  positions:
+    - { title: 湖北省劳动和社会保障厅厅长, sys: gov, place: 湖北, from: 2003, to: 2006, cite: f06-ifeng-2013-01-18-wu-yongwen }
+    - { title: 鄂州市委书记, sys: party, place: 湖北, from: 2006, to: 2007-09, cite: f06-ifeng-2013-01-18-wu-yongwen }
+    - { title: 湖北省委常委、政法委书记, sys: party, place: 湖北, from: 2007-09, to: 2012-07, cite: f06-ifeng-2013-01-18-wu-yongwen }
+    - { title: 湖北省公安厅厅长, sys: gov, place: 湖北, to: 2012-09, cite: f06-ifeng-2013-01-18-wu-yongwen }
+    - { title: 湖北省人大常委会副主任, sys: gov, place: 湖北, from: 2012-01, cite: f06-ifeng-2013-01-18-wu-yongwen }
+  factions:
+    - f: zhengfa
+      cite: b03-bbc-2015-06-11-zhou-profile
+      quote: 以及政法系统高官李东生、吴永文等
+      rank: backbone
+    - f: zhengfa
+      cite: f06-epoch-2015-05-05-wu-yongwen
+      quote: 前湖北政法委书记、公安厅厅长吴永文是周永康的铁杆亲信。
+  cites: [wd-Q9063448, f06-ifeng-2013-01-18-wu-yongwen, b03-bbc-2015-06-11-zhou-profile, f02-bbc-2014-02-26-zhou-watch, f06-epoch-2015-05-05-wu-yongwen]
+
+- id: zhang-yue
+  name: 张越
+  gender: m
+  born: 1961-06
+  birthplace: 山东广饶
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2018 年 7 月一审被判有期徒刑十五年，当庭表示不上诉。
+  fall:
+    - { date: 2016-04-16, text: 中央纪委监察部网站通报河北省委常委、政法委书记张越涉嫌严重违纪接受组织调查, cite: f06-thepaper-2016-04-16-zhang-yue }
+    - { date: 2016-07-28, text: 被开除党籍、开除公职并移送司法机关，官方称他执行重大任务期间擅离职守, cite: f06-bbc-2016-07-28-zhang-yue }
+    - { date: 2018-07-12, text: 江苏常州中院以受贿罪判处其有期徒刑十五年，并处罚金五百万元, cite: f06-hk01-2018-07-12-zhang-yue }
+  tier: 2
+  headline: 河北省委原常委、政法委书记（2008–2016）、公安部反邪教局原局长
+  ids: { wikidata: Q19825431 }
+  bio: >-
+    北京市公安局国保系统出身，2001 年任北京市公安局副局长，2003 年上调公安部任二十六局（反邪教局）局长，时任部长为周永康。2007 年底空降河北执掌省公安厅，2008 年任省委常委、政法委书记。法院认定他受贿逾 1.5 亿元。法广引述财新称，他与郭文贵、国安部副部长马建结成攫财同盟。
+  positions:
+    - { title: 北京市公安局副局长, sys: gov, place: 北京, from: 2001-04, to: 2003-11, cite: f06-thepaper-2016-04-16-zhang-yue }
+    - { title: 公安部二十六局（反邪教局）局长, sys: gov, from: 2003-11, to: 2007-12, cite: f06-thepaper-2016-04-16-zhang-yue }
+    - { title: 河北省公安厅厅长、党委书记, sys: gov, place: 河北, from: 2008-01, to: 2015-03, cite: f06-thepaper-2016-04-16-zhang-yue }
+    - { title: 河北省委常委、政法委书记, sys: party, place: 河北, from: 2008-06, to: 2016-04, cite: f06-thepaper-2016-04-16-zhang-yue }
+  factions:
+    - f: zhengfa
+      cite: f06-rfi-2016-04-17-zhang-yue
+      quote: 與馬建和郭文貴等人過從甚密的另一位出身“隱蔽戰線”的政法系幹將張越也將落馬
+      rank: backbone
+      rankQuote: 政法系幹將張越
+    - f: zhengfa
+      cite: f06-bbc-2016-07-28-zhang-yue
+      quote: 有分析人士指出，張越是中共前政治局常委周永康的追隨者，他遭到查處可能同周永康的垮台有牽連。
+  cites: [wd-Q19825431, f06-thepaper-2016-04-16-zhang-yue, f06-bbc-2016-07-28-zhang-yue, f06-hk01-2018-07-12-zhang-yue, f06-rfi-2016-04-17-zhang-yue]
+
+- id: yang-huanning
+  name: 杨焕宁
+  gender: m
+  born: 1957-03
+  birthplace: 山东安丘
+  roles: [tiger, cc, minister]
+  status: purged
+  statusNote: 2017 年 7 月受留党察看二年、行政撤职处分，降为副局级非领导职务。
+  fall:
+    - { date: 2017-07-31, text: 中央纪委通报给予其留党察看二年处分、行政撤职，降为副局级非领导职务，终止其十八大代表资格, cite: f06-ccdi-2017-07-31-yang-huanning }
+  tier: 2
+  headline: 公安部原常务副部长（2008–2015）、国家安监总局原局长
+  ids: { wikidata: Q8292145 }
+  bio: >-
+    西南政法学院刑侦专业毕业，1983 年进入公安部，2001 年任公安部副部长，2005 年外放黑龙江任省委常委、政法委书记，2008 年 5 月回任公安部常务副部长（正部长级），次年兼中央维稳办主任，是十八届中央委员。2015 年 10 月调任国家安监总局局长，2017 年 7 月被处分降级。法广引述博讯称，他因是周永康爱将而被调离公安部。
+  positions:
+    - { title: 公安部部长助理兼办公厅主任, sys: gov, from: 1996-05, to: 2001-01, cite: f06-ccdi-2017-07-31-yang-huanning }
+    - { title: 公安部副部长, sys: gov, from: 2001-01, to: 2005-01, cite: f06-ccdi-2017-07-31-yang-huanning }
+    - { title: 黑龙江省委常委、政法委书记, sys: party, place: 黑龙江, from: 2005-01, to: 2008-05, cite: f06-ccdi-2017-07-31-yang-huanning }
+    - { title: 公安部常务副部长, sys: gov, from: 2008-05, to: 2015-10, cite: f06-ccdi-2017-07-31-yang-huanning }
+    - { title: 国家安全生产监督管理总局局长, sys: gov, from: 2015-10, to: 2017, cite: f06-ccdi-2017-07-31-yang-huanning }
+  factions:
+    - f: zhengfa
+      cite: f06-rfi-2017-05-09-yang-huanning
+      quote: 楊煥寧被指屬於周永康親信，被調離原公安部副部長一職。
+      rank: backbone
+  cites: [wd-Q8292145, f06-ccdi-2017-07-31-yang-huanning, f06-rfi-2017-05-09-yang-huanning]
+
+- id: ma-jian
+  name: 马建
+  gender: m
+  born: 1956
+  roles: [tiger, minister]
+  status: detained
+  statusNote: 2018 年 12 月一审被判无期徒刑，当庭表示不上诉。
+  fall:
+    - { date: 2015, text: 法广称国安部副部长马建 2015 年初被中纪委带走, cite: f06-rfi-2016-04-17-zhang-yue }
+    - { date: 2016, text: BBC 称新华社 2016 年发布消息，其因严重违纪被立案审查并开除党籍, cite: b14-bbc-2018-12-27-ma-jian }
+    - { date: 2018-12-27, text: 辽宁大连中院以受贿罪、强迫交易罪、内幕交易罪判处其无期徒刑，三项罪名均与郭文贵有关, cite: f06-court-2018-12-27-ma-jian }
+  tier: 2
+  headline: 国家安全部原副部长（2006–2015）
+  bio: >-
+    长期在国安系统工作，历任副处长、处长、副局长、局长、部长助理，2006 年起任国家安全部副部长。法院认定他在 1999 至 2014 年间为郭文贵及其控制的政泉公司提供帮助，收受财物 1.09 亿余元，并与郭文贵共谋强迫他人转让民族证券股份。法广引述财新称，张越把他介绍给郭文贵；新唐人则称他是曾庆红在国安系统的人马。
+  positions:
+    - { title: 国家安全部部长助理, sys: gov, cite: b14-bbc-2018-12-27-ma-jian }
+    - { title: 国家安全部副部长, sys: gov, from: 2006, to: 2015, cite: b14-bbc-2018-12-27-ma-jian }
+  factions:
+    - f: zhengfa
+      cite: f06-rfi-2016-04-17-zhang-yue
+      quote: 2015年初，國安部副部長馬建被中紀委帶走後，各方均預測，與馬建和郭文貴等人過從甚密的另一位出身“隱蔽戰線”的政法系幹將張越也將落馬。
+      rank: backbone
+  cites: [f06-court-2018-12-27-ma-jian, b14-bbc-2018-12-27-ma-jian, f06-rfi-2016-04-17-zhang-yue, f06-ntd-2016-11-04-liao-yongyuan]

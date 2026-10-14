@@ -1,0 +1,338 @@
+# F06 round 3: 胡温框架·江系与太子党 (jiang-shanghai, elitist, princelings, petroleum, zhengfa).
+web:
+  # --- 江派 / 上海帮 ---
+  - id: f06-bbc-2002-10-17-shanghai-gang-trad
+    title: 十六大與上海幫（繁體版）
+    publisher: BBC 中文
+    author: 魏城
+    date: 2002-10-17
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/trad/hi/newsid_2300000/newsid_2308000/2308055.stm
+    excerpt: true
+    keep: [ 陳至立, 這個說法並不確切 ]
+  - id: f06-bbc-2011-07-07-jiang-influence
+    title: 分析：江澤民到底還有多大影響力？
+    publisher: BBC 中文
+    date: 2011-07-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/indepth/2011/07/110707_ana_jiang_influence
+    excerpt: true
+    keep: [ 元老級, 太子黨的領袖, 失去了強有力的後台 ]
+  - id: f06-bbc-2012-11-01-jiang-office
+    title: 日媒：中国军委撤销江泽民办公室
+    publisher: BBC 中文
+    author: 童倩
+    date: 2012-11-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121101_jiang_office
+    excerpt: true
+    keep: [ 贾廷安, 构筑自己在军方的大派阀 ]
+  - id: f06-gov-2008-03-15-chen-zhili-cv
+    title: 陈至立（简历）
+    publisher: 中国政府网（新华社）
+    date: 2008-03-15
+    voice: official
+    url: https://web.archive.org/web/20201109153304/http://www.gov.cn/gjjg/2008-03/15/content_6721.htm
+  - id: f06-cpc-2008-hua-jianmin-cv
+    title: 华建敏同志简历
+    publisher: 中国共产党新闻网
+    date: 2008-03-15
+    voice: official
+    url: https://web.archive.org/web/20130511184147/http://cpc.people.com.cn/GB/64192/98978/6131753.html
+  - id: f06-thepaper-2015-08-11-wang-zongnan
+    title: 光明原董事长王宗南一审获刑18年：被控挪用公款1.95亿
+    publisher: 澎湃新闻
+    date: 2015-08-11
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1362725
+  - id: f06-sina-2011-07-23-six-generals
+    title: 中央军委授予孙建国等6名军官上将军衔（新华网）
+    publisher: 新华网（新浪转载）
+    date: 2011-07-23
+    voice: official
+    url: http://mil.news.sina.com.cn/2011-07-23/1443658229.html
+  - id: f06-rfi-2020-01-06-luo-huining
+    title: 法媒：撤换王志民 北京承认误判 任命骆惠宁 习近平与曾氏人马妥协
+    publisher: 法广 RFI
+    date: 2020-01-06
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20200106-法媒撤换王志民-北京承认误判-任命骆惠宁-习近平与曾氏人马妥协
+    excerpt: true
+    keep: [ 曾庆红 ]
+  - id: f06-rfa-2020-01-28-cheng-xiaonong
+    title: 程晓农：港澳系统人事调整的背后
+    publisher: 自由亚洲电台
+    author: 程晓农
+    date: 2020-01-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/pinglun/chengxiaonong/chengxiaonong-01282020132628.html
+    excerpt: true
+    keep: [ 曾氏人马一直控制着香港和澳门事务 ]
+  - id: f06-secretchina-2003-03-09-hua-jianmin
+    title: 江泽民秘书 升任国务院大管家
+    publisher: 看中国（转述星岛日报）
+    date: 2003-03-09
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2003/03/09/36578.html
+    excerpt: true
+    keep: [ 华建敏 ]
+  # --- 精英联盟 ---
+  - id: f06-shukla-2012-01-who-after-hu
+    title: Who after Hu... and Wen?
+    publisher: Business Standard（Broadsword 博客转载）
+    author: Ajai Shukla
+    date: 2012-01-17
+    voice: west
+    lang: en
+    url: https://www.ajaishukla.com/2012/01/who-after-hu-and-wen.html
+    excerpt: true
+    keep: [ elitist ]
+  # --- 太子党 ---
+  - id: f06-bbc-2012-12-27-bloomberg-heirs
+    title: 美国媒体披露中共元老后代敛财细节
+    publisher: BBC 中文
+    date: 2012-12-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/12/121227_china_corruption_bloomberg
+    excerpt: true
+    keep: [ 王震之子王军, 太子党集团 ]
+  - id: f06-cdt-2010-05-04-princeling-list
+    title: 中国太子党不完全名录
+    publisher: 中国数字时代（转载网文）
+    date: 2010-05-04
+    voice: zh
+    rumor: true
+    url: https://chinadigitaltimes.net/chinese/66535.html
+    excerpt: true
+    keep: [ 王震之长子, 孔原之子, 陈毅之子, 叶剑英之子, 周建南之子, 胡耀邦长子, 李维汉之长子, 黄镇女婿, 谷牧之女 ]
+  - id: f06-bbc-2018-03-01-chen-xiaolu
+    title: 陈小鲁：争议中去世的红二代
+    publisher: BBC 中文
+    date: 2018-03-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43261604
+    excerpt: true
+    keep: [ 最著名的红二代之一, 因大面积心梗骤然离世, 中国驻英国大使馆副武官, 中央政治体制改革小组办公室一员, 标准国际投资管理公司, 陈小鲁出生于1946年 ]
+  - id: f06-zaobao-2016-07-11-ye-xuanning
+    title: 叶剑英之子叶选宁病逝
+    publisher: 联合早报
+    date: 2016-07-11
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20160711-639692
+    excerpt: true
+    keep: [ 具颇大影响力, 精神领袖, 升任总政治部联络部部长, 出任中国国际友好联络会副会长, 力挺现任中共总书记习近平 ]
+  - id: f06-people-2013-03-12-chen-yuan-cv
+    title: 陈元简历
+    publisher: 人民网
+    date: 2013-03-12
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0312/c351134-20762501.html
+  - id: f06-xinhua-2019-06-19-wang-jun
+    title: 王军同志逝世
+    publisher: 新华网
+    date: 2019-06-19
+    voice: official
+    url: http://www.xinhuanet.com/politics/2019-06/19/c_1124642212.htm
+  - id: f06-sohu-2009-07-20-three-generals
+    title: 马晓天、刘源、张海阳获上将军衔
+    publisher: 搜狐新闻（新华社）
+    date: 2009-07-20
+    voice: official
+    url: https://web.archive.org/web/20190502152252/http://news.sohu.com/20090720/n265352673.shtml
+  - id: f06-thepaper-2015-02-27-generals-npc
+    title: 4名解放军退役上将进全国人大任职，包括二炮原政委张海阳等
+    publisher: 澎湃新闻
+    date: 2015-02-27
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1306348
+  - id: f06-sina-2014-08-06-kong-dan
+    title: 孔丹在王岐山催促下完成口述史
+    publisher: 新浪财经
+    date: 2014-08-06
+    voice: zh
+    url: http://finance.sina.com.cn/leadership/crz/20140806/111819928799.shtml
+    excerpt: true
+    keep: [ 都是高干子弟, 曾庆红找孔丹谈话, 孔丹接替王军担任中信集团董事长, 孔丹自小的老大哥王军, 从中信集团董事长、党委书记的位置上退下来, 从负责沿海城市业务部开始 ]
+  # --- 石油帮 ---
+  - id: f06-bbc-2015-03-16-liao-yongyuan
+    title: 中石油天然气集团公司总经理廖永远被查
+    publisher: BBC 中文
+    date: 2015-03-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/03/150316_china_anticorruption_liao_yongyuan
+    excerpt: true
+    keep: [ 廖永远 ]
+  - id: f06-bbc-2013-12-16-wen-qingshan
+    title: 中石油“总会计师被传协助调查”
+    publisher: BBC 中文
+    date: 2013-12-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/12/131216_wenqingshan
+    excerpt: true
+    keep: [ 温青山 ]
+  - id: f06-cnr-2013-12-19-wen-qingshan
+    title: “大帐房”温青山同时任监事 中石油疑违公司法
+    publisher: 央广网
+    date: 2013-12-19
+    voice: official
+    url: http://finance.cnr.cn/a/zqgd/201312/t20131219_514440902.shtml
+    excerpt: true
+    keep: [ 温青山 ]
+  - id: f06-xinhua-2017-01-20-liao-sentence
+    title: 中石油天然气原总经理廖永远一审获刑15年
+    publisher: 新华网
+    date: 2017-01-20
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-01/20/c_1120348615.htm
+  - id: f06-bbc-2015-10-07-su-shulin
+    title: 福建省长苏树林涉严重违纪遭调查
+    publisher: BBC 中文
+    date: 2015-10-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/10/151007_china_fujian_corruption
+    excerpt: true
+    keep: [ 东西二虎, 现年53岁的苏树林 ]
+  - id: f06-people-2015-10-07-su-shulin
+    title: 福建省委副书记、省长苏树林涉嫌严重违纪被查
+    publisher: 人民网
+    date: 2015-10-07
+    voice: official
+    url: http://politics.people.com.cn/n/2015/1007/c1001-27669026.html
+  - id: f06-court-2018-07-26-su-shulin
+    title: 福建原省长苏树林一审获刑十六年罚金300万元
+    publisher: 最高人民法院
+    date: 2018-07-26
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/109641.html
+  - id: f06-rmzxw-2015-12-09-su-shulin
+    title: 起底苏树林的中石化生意 亲属插手油库项目
+    publisher: 人民政协网（新京报）
+    date: 2015-12-09
+    voice: official
+    url: https://www.rmzxw.com.cn/c/2015-12-09/644984.shtml
+  - id: f06-chinanews-2013-08-28-cnpc-three
+    title: 中石油三高管涉严重违纪同时落马 均为校友已辞职
+    publisher: 中新网
+    date: 2013-08-28
+    voice: official
+    url: https://www.chinanews.com/gn/2013/08-28/5213557.shtml
+  - id: f06-chinanews-2013-08-28-li-hualin
+    title: 中石油两天四高管被查 李华林任副总尚未满月
+    publisher: 中新网（新京报）
+    date: 2013-08-28
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2013/08-28/5213491.shtml
+  - id: f06-ntd-2016-11-04-liao-yongyuan
+    title: 号称曾庆红座下“西北虎” 廖永远受审案涉3500万
+    publisher: 新唐人
+    date: 2016-11-04
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2016/11/04/a1294811.html
+    excerpt: true
+    keep: [ 他与被称为, 海外中文媒体则披露 ]
+  - id: f06-kzg-2018-07-27-su-shulin
+    title: 曾获江泽民大赞 石油虎苏树林判16年
+    publisher: 看中国
+    date: 2018-07-27
+    voice: zh
+    rumor: true
+    url: https://kzg.io/news/gb/2018/07/27/865839.html
+    excerpt: true
+    keep: [ 江派在石油系统埋伏的重要成员, 石油帮帮主, 海外明镜曾披露 ]
+  - id: f06-epoch-2016-09-18-petroleum-gang
+    title: 【内幕】围猎曾庆红 习近平扫荡石油帮
+    publisher: 大纪元
+    date: 2016-09-18
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/16/9/18/n8313189.htm
+    excerpt: true
+    keep: [ 一手打造石油帮的却是曾庆红, 卫留成, 全面安插 ]
+  # --- 政法系 ---
+  - id: f06-bbc-2016-07-28-zhang-yue
+    title: 中共河北政法委書記張越因嚴重違紀被查
+    publisher: BBC 中文
+    date: 2016-07-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2016/07/160728_china_anticorruption_zhang_yue
+    excerpt: true
+    keep: [ 周永康的追隨者, 被開除黨籍 ]
+  - id: f06-rfi-2016-04-17-zhang-yue
+    title: 國保出身的河北政法委書記張越落馬
+    publisher: 法广 RFI
+    author: 曹國星
+    date: 2016-04-17
+    voice: zh
+    url: https://www.rfi.fr/tw/中國/20160417-國保出身的河北政法委書記張越落馬
+    excerpt: true
+    keep: [ 政法沙皇周永康的親信, 上調至公安部, 政法系幹將, 攫財同盟 ]
+  - id: f06-court-2018-12-27-ma-jian
+    title: 国家安全部原副部长马建受贿、强迫交易、内幕交易案一审宣判
+    publisher: 最高人民法院（大连中院）
+    date: 2018-12-27
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/137401.html
+  - id: f06-hk01-2018-07-12-zhang-yue
+    title: 河北政法委原書記張越受賄罪成判囚15年
+    publisher: 香港01
+    date: 2018-07-12
+    voice: zh
+    url: https://www.hk01.com/即時中國/210011/河北政法委原書記張越受賄罪成判囚15年-被指涉周永康郭文貴案
+    excerpt: true
+    keep: [ 張越 ]
+  - id: f06-chinanews-2009-12-31-zhang-qinsheng
+    title: 原广州军区司令员章沁生调任第一副总参谋长
+    publisher: 中国新闻网
+    date: 2009-12-31
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2009/12-31/2049581.shtml
+    excerpt: true
+    keep: [ 章沁生 ]
+  - id: f06-thepaper-2016-04-16-zhang-yue
+    title: 曾任周永康下属，张越被指获其帮助从公安部空降执掌河北公安
+    publisher: 澎湃新闻
+    date: 2016-04-16
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1457286
+  - id: f06-ccdi-2017-07-31-yang-huanning
+    title: 国家安全监管总局原党组书记、局长杨焕宁因严重违纪受到留党察看二年、行政撤职处分
+    publisher: 中央纪委国家监委网站
+    date: 2017-07-31
+    voice: official
+    url: http://m.ccdi.gov.cn/content/4f/a3/18640.html
+  - id: f06-rfi-2017-05-09-yang-huanning
+    title: 周永康"餘黨"楊煥寧傳遭逮捕
+    publisher: 法广 RFI（转述博讯）
+    date: 2017-05-09
+    voice: zh
+    rumor: true
+    url: https://www.rfi.fr/tw/中國/20170509-周永康餘黨楊煥寧傳遭逮捕
+    excerpt: true
+    keep: [ 被指屬於周永康親信, 愛將 ]
+  - id: f06-bbc-2014-02-22-zhou-arrests-trad
+    title: 順藤摸瓜動作加速 周永康“橋頭堡”接連被破（繁體版）
+    publisher: BBC 中文
+    date: 2014-02-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2014/02/140222_zhou_yongkang_more_arrests
+    excerpt: true
+    keep: [ 梁克, 政法系統高官李東生 ]
+  - id: f06-ifeng-2013-01-18-wu-yongwen
+    title: 港媒：湖北省人大常委会副主任涉嫌包养情人被调查
+    publisher: 凤凰网（21世纪经济报道）
+    date: 2013-01-18
+    voice: zh
+    url: https://web.archive.org/web/20190508181610/http://news.ifeng.com/mainland/special/fanfu/content-3/detail_2013_01/18/21317273_0.shtml
+    excerpt: true
+    keep: [ 吴永文曾官至湖北省委常委, 大公网报道称, 吴永文从湖北省委常委, 劳动和社会保障厅厅长后, 不再担任省公安厅厅长职务 ]
+  - id: f06-epoch-2015-05-05-wu-yongwen
+    title: 原湖北政法书记落马 传三前常委勾连鄂利益
+    publisher: 大纪元
+    date: 2015-05-05
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/15/5/5/n4427204.htm
+    excerpt: true
+    keep: [ 铁杆亲信, 政法王 ]
