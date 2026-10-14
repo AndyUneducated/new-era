@@ -1,0 +1,827 @@
+# E04 events, 2020-2026
+web:
+  # 2020
+  - id: e04-gov-2020-06-07-covid-whitepaper
+    title: 《抗击新冠肺炎疫情的中国行动》白皮书
+    publisher: 国务院新闻办公室（中国政府网）
+    date: 2020-06-07
+    voice: doc
+    url: https://www.gov.cn/zhengce/2020-06/07/content_5517737.htm
+    excerpt: true
+    keep: [12月27日, 离汉离鄂通道, 人传人, 1月23日]
+  - id: e04-xinhua-2020-03-19-li-wenliang-report
+    title: 国家监察委员会调查组发布关于群众反映的涉及李文亮医生有关情况调查的通报
+    publisher: 新华社
+    date: 2020-03-19
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-03/19/c_1125737457.htm
+    excerpt: true
+    keep: [训诫书不当, 执法程序不规范, 撤销训诫书]
+  - id: e04-bbc-2020-02-07-li-wenliang
+    title: 李文亮去世：国际舆论关注其引发的“愤怒、悲恸和要求言论自由的呼声”
+    publisher: BBC 中文
+    date: 2020-02-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-51414480
+    excerpt: true
+    keep: [删查, 武汉政府欠李文亮医生一个道歉, 34岁]
+  - id: e04-bbc-2021-06-01-galwan
+    title: 中印加勒万河谷冲突
+    publisher: BBC 中文
+    date: 2021-06-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-57340325
+    excerpt: true
+    keep: [加勒万, 2月19日, 20名]
+  - id: e04-gov-2020-06-30-hk-nsl
+    title: 十三届全国人大常委会第二十次会议表决通过香港特别行政区维护国家安全法 习近平签署主席令予以公布
+    publisher: 新华社（中国政府网）
+    date: 2020-06-30
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-06/30/content_5522972.htm
+    start: 新华社北京6月30日电
+    end: 决定免去侯凯的国家监察委员会委员职务。
+  - id: e04-bbc-2020-09-22-ren-zhiqiang
+    title: 任志强被判刑18年
+    publisher: BBC 中文
+    date: 2020-09-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-54115615
+    excerpt: true
+    keep: [皇帝的小丑, 18年, 420万]
+  - id: e04-xinhua-2020-10-29-5th-plenum
+    title: 中国共产党第十九届中央委员会第五次全体会议公报
+    publisher: 新华社
+    date: 2020-10-29
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2020-10/29/c_1126674147.htm
+    start: 中国共产党第十九届中央委员会第五次全体会议，于2020年10月26日至29日在北京举行
+    end: 夺取全面建设社会主义现代化国家新胜利！
+  - id: e04-bbc-2020-11-03-ant-ipo
+    title: 蚂蚁集团暂缓上市
+    publisher: BBC 中文
+    date: 2020-11-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-54798910
+    excerpt: true
+    keep: [暂缓, 约谈, 马云]
+  - id: e04-xinhua-2020-12-04-buzzwords
+    title: 《咬文嚼字》发布2020年十大流行语
+    publisher: 新华社
+    date: 2020-12-04
+    voice: official
+    url: http://www.xinhuanet.com/politics/2020-12/05/c_1126825006.htm
+    excerpt: true
+    keep: [内卷, 打工人]
+  # 2021
+  - id: e04-gov-2021-03-11-hk-electoral
+    title: 全国人民代表大会关于完善香港特别行政区选举制度的决定
+    publisher: 新华社（中国政府网）
+    date: 2021-03-11
+    voice: doc
+    url: https://www.gov.cn/xinwen/2021-03/11/content_5592268.htm
+    start: 第十三届全国人民代表大会第四次会议审议了
+    end: 九、本决定自公布之日起施行。
+  - id: e04-bbc-2021-03-25-xinjiang-cotton
+    title: H&M和新疆棉：国际服装快消巨头陷入中国抨击漩涡
+    publisher: BBC 中文
+    date: 2021-03-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-56520316
+    excerpt: true
+    keep: [旧声明, 制裁了四名中国官员, 终止和H&M合作]
+  - id: e04-bbc-2021-06-01-tangping
+    title: 躺平：中国年轻人的消极抵抗
+    publisher: BBC 中文
+    date: 2021-06-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-57304453
+    excerpt: true
+    keep: [躺平]
+  - id: e04-xinhua-2021-05-20-tangping
+    title: 新华时评：“躺平”不可取
+    publisher: 新华网
+    date: 2021-05-20
+    voice: official
+    url: http://www.xinhuanet.com/2021-05/20/c_1127467232.htm
+    excerpt: true
+    keep: [躺平]
+  - id: e04-bbc-2021-06-24-apple-daily
+    title: 香港《苹果日报》停刊与国安法：在喧闹中诞生，在风浪中逝去
+    publisher: BBC 中文
+    date: 2021-06-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-57590729
+    excerpt: true
+    keep: [最后一次出版, 保护绝大多数香港居民]
+  - id: e04-gov-2021-07-01-centenary-speech
+    title: 习近平：在庆祝中国共产党成立100周年大会上的讲话
+    publisher: 新华社（中国政府网）
+    date: 2021-07-01
+    voice: doc
+    url: https://www.gov.cn/xinwen/2021-07/01/content_5621847.htm
+    excerpt: true
+    keep: [全面建成了小康社会, 头破血流]
+  - id: e04-gov-2021-07-24-double-reduction
+    title: 中共中央办公厅 国务院办公厅印发《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》
+    publisher: 新华社（中国政府网）
+    date: 2021-07-24
+    voice: doc
+    url: https://www.gov.cn/zhengce/2021-07/24/content_5627132.htm
+    excerpt: true
+    keep: [不得上市融资, 非营利性机构, 一律不得]
+  - id: e04-gov-2021-08-17-common-prosperity
+    title: 习近平主持召开中央财经委员会第十次会议
+    publisher: 新华社（中国政府网）
+    date: 2021-08-17
+    voice: official
+    url: https://www.gov.cn/xinwen/2021-08/17/content_5631780.htm
+    excerpt: true
+    keep: [合理调节高收入, 三次分配, 共同富裕是社会主义的本质要求]
+  - id: e04-bbc-2021-11-03-peng-shuai
+    title: 彭帅发文指控张高丽
+    publisher: BBC 中文
+    date: 2021-11-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59161194
+    excerpt: true
+    keep: [张高丽, 删除, 微博]
+  - id: e04-bbc-2021-11-15-peng-shuai-wta
+    title: 彭帅下落引发关注
+    publisher: BBC 中文
+    date: 2021-11-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59286903
+    excerpt: true
+    keep: [女子网球协会, WTA]
+  - id: e04-bbc-2021-12-02-peng-shuai-wta-suspend
+    title: 女子網球協會暫停在中國賽事（網頁存檔）
+    publisher: BBC 中文
+    date: 2021-12-02
+    voice: zh
+    url: https://web.archive.org/web/20211202120543/https://www.bbc.com/zhongwen/trad/chinese-news-59501212
+    excerpt: true
+    keep: [政治化, 暫停]
+  - id: e04-gov-2021-11-11-6th-plenum
+    title: 中国共产党第十九届中央委员会第六次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2021-11-11
+    voice: doc
+    url: https://www.gov.cn/xinwen/2021-11/11/content_5650329.htm
+    start: 中国共产党第十九届中央委员会第六次全体会议，于2021年11月8日至11日在北京举行
+    end: 必将在新时代新征程上赢得更加伟大的胜利和荣光！
+  - id: e04-nytcn-2021-12-10-evergrande
+    title: 恒大被惠誉宣布违约
+    publisher: 纽约时报中文网
+    date: 2021-12-10
+    voice: zh
+    url: https://cn.nytimes.com/business/20211210/china-evergrande-default/
+    excerpt: true
+    keep: [惠誉, 违约]
+  # 2022
+  - id: e04-gov-2022-02-04-sino-russian
+    title: 中华人民共和国和俄罗斯联邦关于新时代国际关系和全球可持续发展的联合声明
+    publisher: 新华社（中国政府网）
+    date: 2022-02-04
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-02/04/content_5672025.htm
+    excerpt: true
+    keep: [没有止境, 北约]
+  - id: e04-news-2022-02-23-fengxian
+    title: 江苏省委省政府调查组发布“丰县生育八孩女子”事件调查处理情况通报
+    publisher: 新华社
+    date: 2022-02-23
+    voice: official
+    url: https://www.news.cn/politics/2022-02/23/c_1128408553.htm
+    excerpt: true
+    keep: [对17人进行问责, 小花梅系董某更]
+  - id: e04-bbc-2022-04-19-shanghai-lockdown
+    title: 上海封城下的“外地人”：从焦虑、质疑到自救、憧憬
+    publisher: BBC 中文
+    date: 2022-04-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-61147745
+    excerpt: true
+    keep: [自3月27日上海宣布实施严厉的, 自发性大规模批评]
+  - id: e04-bbc-2022-04-23-voices-of-april
+    title: 《四月之聲》
+    publisher: BBC 中文
+    date: 2022-04-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-61207922
+    excerpt: true
+    keep: [四月之聲]
+  - id: e04-rfi-2022-05-12-last-generation
+    title: 上海男子一句“我们是最后一代”意外惊爆网络
+    publisher: 法国国际广播电台（RFI）
+    date: 2022-05-12
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20220512-上海男子一句我们是最后一代意外惊爆网络
+    excerpt: true
+    keep: [最后一代]
+  - id: e04-bbc-2022-05-25-xinjiang-police-files
+    title: “新疆公安文件”：中国拘留营中维吾尔人的面孔
+    publisher: BBC 中文
+    author: 沙磊（John Sudworth）
+    date: 2022-05-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-61564262
+    excerpt: true
+    keep: [中国新疆警方电脑系统外泄大量资料, 至少有2884人已被拘留, 本质上是打击恐怖主义暴力, 甚至5年的再教育可能是不够的]
+  - id: e04-bbc-2022-06-run-xue
+    title: 润学
+    publisher: BBC 中文
+    date: 2022-06-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-61760256
+    excerpt: true
+    keep: [润学]
+  - id: e04-news-2022-08-04-pelosi-drills
+    title: 东部战区位台岛周边开展规模空前的实战化联合演训
+    publisher: 新华社
+    date: 2022-08-04
+    voice: official
+    url: http://www.news.cn/2022-08/05/c_1128891075.htm
+    start: 新华社南京8月4日电
+    end: 检验了参演部队精确打击和区域拒止能力。
+  - id: e04-bbc-2022-08-04-pelosi-drills
+    title: 佩洛西访台：中国环绕台湾展开实弹军事演习
+    publisher: BBC 中文
+    date: 2022-08-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-62417911
+    excerpt: true
+    keep: [12海里之内, 11枚东风系列导弹, 1996年]
+  - id: e04-bbc-2022-10-13-sitong
+    title: 北京四通桥横幅
+    publisher: BBC 中文
+    date: 2022-10-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63243044
+    excerpt: true
+    keep: [四通桥, 横幅]
+  - id: e04-bbc-2022-10-28-sitong-spread
+    title: 四通桥标语在海内外流传
+    publisher: BBC 中文
+    date: 2022-10-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63412359
+    excerpt: true
+    keep: [四通桥, 厕所]
+  - id: e04-nytcn-2022-10-23-sitong-overseas
+    title: 中国年轻人在海外寻找表达异议的方式
+    publisher: 纽约时报中文网
+    date: 2022-10-23
+    voice: zh
+    url: https://cn.nytimes.com/china/20221023/young-chinese-find-ways-to-express-dissent-outside-of-the-country/
+    excerpt: true
+    keep: [200多所大学]
+  - id: e04-guardian-2022-10-23-hu-jintao
+    title: Hu Jintao 'not feeling well' when he left China congress, says state media
+    publisher: The Guardian
+    date: 2022-10-23
+    voice: west
+    url: https://www.theguardian.com/world/2022/oct/23/hu-jintao-not-feeling-well-when-he-left-china-congress-says-state-media
+    lang: en
+    excerpt: true
+    keep: [not feeling well, Xinhua]
+  - id: e04-xinhua-2022-10-22-charter-resolution
+    title: 中国共产党第二十次全国代表大会关于《中国共产党章程（修正案）》的决议
+    publisher: 新华社
+    date: 2022-10-22
+    voice: doc
+    url: http://www.xinhuanet.com/politics/cpc20/2022-10/22/c_1129075493.htm
+    excerpt: true
+    keep: [两个确立, 决定性意义]
+  - id: e04-gov-2022-10-23-1st-plenum
+    title: 中国共产党第二十届中央委员会第一次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2022-10-23
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-10/23/content_5720983.htm
+    start: 中国共产党第二十届中央委员会第一次全体会议，于2022年10月23日在北京举行
+    end: 穆红玉（女）
+  - id: e04-bbc-2022-11-26-urumqi-fire
+    title: 乌鲁木齐火灾引发抗议
+    publisher: BBC 中文
+    date: 2022-11-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63771595
+    excerpt: true
+    keep: [乌鲁木齐, 10人]
+  - id: e04-bbc-2022-11-28-white-paper
+    title: 白纸成为抗议象征
+    publisher: BBC 中文
+    date: 2022-11-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63784127
+    excerpt: true
+    keep: [白纸]
+  - id: e04-gov-2022-11-30-jiang-zemin
+    title: 中共中央 全国人大常委会 国务院 全国政协 中央军委告全党全军全国各族人民书
+    publisher: 新华社（中国政府网）
+    date: 2022-11-30
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-11/30/content_5729659.htm
+    excerpt: true
+    keep: [12时13分, 享年96岁]
+  - id: e04-gov-2022-12-07-new-ten
+    title: 关于进一步优化落实新冠肺炎疫情防控措施的通知
+    publisher: 国务院联防联控机制综合组（中国政府网）
+    date: 2022-12-07
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-12/07/content_5730443.htm
+    excerpt: true
+    keep: [不再对跨地区流动人员查验核酸检测阴性证明, 居家隔离]
+  # 2023
+  - id: e04-gov-2023-03-11-li-qiang
+    title: 中华人民共和国主席令（第一号）
+    publisher: 新华社（中国政府网）
+    date: 2023-03-11
+    voice: doc
+    url: https://www.gov.cn/xinwen/2023-03/12/content_5746210.htm
+    start: 根据中华人民共和国第十四届全国人民代表大会第一次会议的决定
+    end: 任命李强为中华人民共和国国务院总理。
+  - id: e04-bbc-2023-06-27-kong-yiji
+    title: 脱下“孔乙己的长衫”：中国就业形势愈发严峻，年轻人从“蓝领”工作寻出路
+    publisher: BBC 中文
+    date: 2023-06-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-65995537
+    excerpt: true
+    keep: [孔乙己的长衫, 1158万]
+  - id: e04-gov-2023-07-25-qin-gang
+    title: 全国人民代表大会常务委员会决定任免的名单（2023年7月25日）
+    publisher: 新华社（中国政府网）
+    date: 2023-07-25
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6894265.htm
+    start: 一、免去秦刚兼任的外交部部长职务
+    end: 任命潘功胜为中国人民银行行长。
+  - id: e04-bbc-2023-07-25-qin-gang
+    title: 秦刚：中国人大常委会决定免去其外交部长一职，任命王毅为外长
+    publisher: BBC 中文
+    date: 2023-07-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66276701
+    excerpt: true
+    keep: [并没有说明原因, 健康原因, 任职时间最短]
+  - id: e04-gov-2023-07-31-rocket-force
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 新华社（中国政府网）
+    date: 2023-07-31
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6895718.htm
+    start: 新华社北京7月31日电
+    end: 习近平等领导同志同晋升上将军衔的军官合影。
+  - id: e04-bbc-2023-08-01-rocket-force
+    title: 中国任命火箭军新领导层 引发军中“清洗”猜测
+    publisher: BBC 中文
+    date: 2023-08-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66371405
+    excerpt: true
+    keep: [间接证实, 从未在火箭军服役]
+  - id: e04-stats-2023-08-15-youth-unemployment
+    title: 国家统计局新闻发言人就2023年7月份国民经济运行情况答记者问
+    publisher: 国家统计局
+    date: 2023-08-15
+    voice: official
+    url: https://www.stats.gov.cn/sj/sjjd/202308/t20230815_1942020.html
+    excerpt: true
+    keep: [暂停发布]
+  - id: e04-bbc-2023-08-15-youth-unemployment
+    title: 失业率：中国停止发布青年失业数据，今年以来屡创历史新高
+    publisher: BBC 中文
+    date: 2023-08-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66506966
+    excerpt: true
+    keep: [21.3%]
+  - id: e04-gov-2023-10-24-li-shangfu
+    title: 中华人民共和国主席令（第十四号）
+    publisher: 新华社（中国政府网）
+    date: 2023-10-24
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202310/content_6911374.htm
+    start: 根据中华人民共和国第十四届全国人民代表大会常务委员会第六次会议
+    end: 任命蓝佛安为财政部部长。
+  - id: e04-bbc-2023-10-26-li-shangfu
+    title: 李尚福與秦剛雙雙遭罷免，對習近平意味著什麼？
+    publisher: BBC 中文
+    date: 2023-10-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-67203607
+    excerpt: true
+    keep: [官方沒有交代原因, 親信, 執行者]
+  - id: e04-voa-2023-10-26-li-keqiang-netizens
+    title: 李克强心脏病逝世 中国网民悼念 海外网民质疑死因
+    publisher: 美国之音中文网
+    date: 2023-10-26
+    voice: zh
+    url: https://www.voachinese.com/a/netizens-reaction-to-li-keqiang-s-death-20231026/7329251.html
+    excerpt: true
+    keep: [苍天有眼, 可惜不是你, 评论区]
+  - id: e04-bbc-2023-11-01-li-keqiang-hefei
+    title: 「他贏得民心」——李克強家鄉悼念者絡繹不絕
+    publisher: BBC 中文
+    date: 2023-11-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-67296731
+    excerpt: true
+    keep: [紅星路, 便衣, 贏得民心]
+  - id: e04-gov-2023-11-15-woodside
+    title: 习近平同美国总统拜登举行中美元首会晤
+    publisher: 新华社（中国政府网）
+    date: 2023-11-15
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202311/content_6915560.htm
+    start: 新华社旧金山11月15日电
+    end: 两国元首同意继续保持经常性联系。
+  - id: e04-bjd-2023-12-29-npc-generals
+    title: 张振中、张育林、饶文敏、鞠新春、丁来杭、吕宏、李玉超、李传广、周亚宁被罢免全国人大代表职务
+    publisher: 新华社（京报网）
+    date: 2023-12-29
+    voice: official
+    url: https://news.bjd.com.cn/2023/12/29/10662643.shtml
+    excerpt: true
+    keep: [罢免, 代表资格终止]
+  - id: e04-zaobao-2023-12-30-npc-generals
+    title: 九名中国军方人大代表被免职　分析：火箭军和装备系统腐败窝案波及广泛
+    publisher: 联合早报
+    date: 2023-12-30
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20231230-1459005
+    excerpt: true
+    keep: [三名上将和四名中将, 未透露罢免九名人大代表的原因]
+  # 2024
+  - id: e04-bbc-2024-01-13-lai-elected
+    title: 台灣大選2024：賴清德當選總統 民進黨未能控制立法院
+    publisher: BBC 中文
+    date: 2024-01-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-67971619
+    excerpt: true
+    keep: [558萬票, 沒有任何政黨獲得席位超過半數]
+  - id: e04-bbc-2024-02-02-evergrande-liquidation
+    title: 恒大：香港法院勒令清盘，上百万套烂尾楼苦主还能指望交楼吗
+    publisher: BBC 中文
+    date: 2024-02-02
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-68166246
+    excerpt: true
+    keep: [颁布对中国恒大集团的清盘令, 严重资不抵债]
+  - id: e04-bbc-2024-03-05-premier-presser
+    title: 中國兩會2024：總理記者會被取消 打破30年慣例
+    publisher: BBC 中文
+    date: 2024-03-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-68476105
+    excerpt: true
+    keep: [本屆全國人大後幾年也不再舉行總理記者會, 1993年起]
+  - id: e04-news-2024-03-19-art23
+    title: 香港立法会全票通过《维护国家安全条例》
+    publisher: 新华社
+    date: 2024-03-19
+    voice: official
+    url: http://www.news.cn/gangao/20240319/7c89f2668abc4ce59041716b3fc00a8f/c.html
+    excerpt: true
+    keep: [三读全票通过, 条例正文由9部分组成]
+  - id: e04-bbc-2024-03-19-art23
+    title: 「23條」立法通過：「維護國安」為什麼引起一些香港人的不安
+    publisher: BBC 中文
+    date: 2024-03-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-68573104
+    excerpt: true
+    keep: [域外效力, 奉公守法的人不會誤墮法網]
+  - id: e04-mod-2024-05-23-joint-sword-2024a
+    title: 东部战区位台岛周边开展“联合利剑—2024A”演习
+    publisher: 国防部网
+    date: 2024-05-23
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16310654.html
+    excerpt: true
+    keep: [东部战区新闻发言人李熹海军大校表示]
+  - id: e04-gov-2024-06-27-li-shangfu-expelled
+    title: 中央军委原委员、原国务委员兼国防部长李尚福受到开除党籍处分
+    publisher: 新华社（中国政府网）
+    date: 2024-06-27
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202406/content_6959715.htm
+    start: 新华社北京6月27日电
+    end: 取消其陆军上将军衔。
+  - id: e04-gov-2024-06-27-wei-fenghe-expelled
+    title: 中央军委原委员、原国务委员兼国防部长魏凤和受到开除党籍处分
+    publisher: 新华社（中国政府网）
+    date: 2024-06-27
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202406/content_6959716.htm
+    start: 新华社北京6月27日电
+    end: 取消其火箭军上将军衔。
+  - id: e04-gov-2024-07-18-3rd-plenum
+    title: 中国共产党第二十届中央委员会第三次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2024-07-18
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202407/content_6963409.htm
+    start: 中国共产党第二十届中央委员会第三次全体会议，于2024年7月15日至18日在北京举行
+    end: 而努力奋斗！
+  - id: e04-bbc-2024-07-18-3rd-plenum
+    title: 中共二十届三中全会：2029年完成改革任务，秦刚辞去中央委员仍是“同志”
+    publisher: BBC 中文
+    date: 2024-07-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-69202066
+    excerpt: true
+    keep: [在10年前的三中全会公报中并未设定时间节点, 依然保留了“同志”的称谓]
+  - id: e04-gov-2024-09-13-retirement
+    title: 全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定
+    publisher: 新华社（中国政府网）
+    date: 2024-09-13
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202409/content_6974294.htm
+    excerpt: true
+    keep: [用十五年时间, 本决定自2025年1月1日起施行]
+  - id: e04-gov-2024-09-26-politburo-economy
+    title: 中共中央政治局召开会议 分析研究当前经济形势和经济工作
+    publisher: 新华社（中国政府网）
+    date: 2024-09-26
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202409/content_6976686.htm
+    excerpt: true
+    keep: [止跌回稳, 实施有力度的降息]
+  - id: e04-bbc-2024-11-19-hk47
+    title: 香港“47人案”：首宗颠覆国家政权案宣判 戴耀廷判囚10年、黄之锋56个月
+    publisher: BBC 中文
+    date: 2024-11-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cvg40g82z1vo/simp
+    excerpt: true
+    keep: [首要被告戴耀廷被判10年监禁, 首宗颠覆国家政权罪案件]
+  - id: e04-news-2024-11-28-miao-hua
+    title: 国防部新闻发言人发布信息并就近期涉军问题答记者问
+    publisher: 新华社
+    date: 2024-11-28
+    voice: official
+    url: https://www.news.cn/20241128/9af1739aae934aec8f66e003676d8b60/c.html
+    excerpt: true
+    keep: [决定对苗华停职检查]
+  # 2025
+  - id: e04-bbc-2025-01-28-deepseek
+    title: DeepSeek：这是一家什么公司？为何突然引发美国科技股暴跌？
+    publisher: BBC 中文
+    date: 2025-01-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/ce854jy1j5go/simp
+    excerpt: true
+    keep: [600万美元, 16.9%]
+  - id: e04-bbc-2025-04-tariffs
+    title: 中美关税战：145%与125%
+    publisher: BBC 中文
+    date: 2025-04-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cdjll0dyxzgo/simp
+    excerpt: true
+    keep: [145%, 125%]
+  - id: e04-gov-2025-05-12-geneva
+    title: 中美日内瓦经贸会谈联合声明
+    publisher: 新华社（中国政府网）
+    date: 2025-05-12
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202505/content_7023399.htm
+    excerpt: true
+    keep: [90天, 24%]
+  - id: e04-news-2025-07-01-ma-xingrui-xinjiang
+    title: 新疆维吾尔自治区党委主要负责同志职务调整
+    publisher: 新华社
+    date: 2025-07-01
+    voice: official
+    url: https://www.news.cn/politics/20250701/d978dfe395904ad98d5f7cc6a2e15103/c.html
+    excerpt: true
+    keep: [马兴瑞同志不再兼任新疆维吾尔自治区党委书记]
+  - id: e04-gov-2025-09-03-parade
+    title: 中国举行盛大阅兵纪念抗战胜利80周年
+    publisher: 新华社（中国政府网）
+    date: 2025-09-03
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202509/content_7038997.htm
+    excerpt: true
+    keep: [第二次在天安门广场举行胜利日阅兵, 正义必胜]
+  - id: e04-gov-2025-09-03-parade-guests
+    title: 纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在京隆重举行
+    publisher: 新华社（中国政府网）
+    date: 2025-09-03
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202509/content_7038994.htm
+    excerpt: true
+    keep: [俄罗斯总统普京]
+  - id: e04-mod-2025-10-17-nine-generals
+    title: 何卫东、苗华等9人严重违纪违法被开除党籍军籍
+    publisher: 国防部网
+    date: 2025-10-17
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16416031.html
+    excerpt: true
+    keep: [9人立案审查调查, 开除军籍处分]
+  - id: e04-gov-2025-10-23-4th-plenum
+    title: 中国共产党第二十届中央委员会第四次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2025-10-23
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202510/content_7045444.htm
+    start: 中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日至23日在北京举行
+    end: 民族复兴伟业新局面。
+  - id: e04-bbc-2025-10-23-4th-plenum
+    title: 中共四中全会：张升民增补为军委副主席
+    publisher: BBC 中文
+    date: 2025-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c24lq1r208lo/simp
+    excerpt: true
+    keep: [张升民, 纪律]
+  - id: e04-news-2025-10-30-busan
+    title: 习近平同美国总统特朗普在釜山举行会晤
+    publisher: 新华社
+    date: 2025-10-30
+    voice: official
+    url: https://www.news.cn/politics/leaders/20251030/a09e49594f9e467ab67a6f9001a464b1/c.html
+    excerpt: true
+    keep: [新华社韩国釜山10月30日电, 特朗普期待明年早些时候访华]
+  - id: e04-bbc-2025-11-takaichi
+    title: 高市早苗「台灣有事」言論引發中日爭端
+    publisher: BBC 中文
+    date: 2025-11-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cg7v90v97nmo/trad
+    excerpt: true
+    keep: [存亡危機事態, 高市]
+  - id: e04-bbc-2025-11-tai-po-fire
+    title: 香港大埔宏福苑火災
+    publisher: BBC 中文
+    date: 2025-11-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/simp
+    excerpt: true
+    keep: [宏福苑]
+  - id: e04-rthk-2026-01-15-tai-po-toll
+    title: 宏福苑火災死亡人數
+    publisher: 香港電台
+    date: 2026-01-15
+    voice: zh
+    url: https://news.rthk.hk/rthk/ch/component/k2/1840037-20260115.htm
+    excerpt: true
+    keep: [168]
+  - id: e04-mod-2025-12-29-justice-mission
+    title: 东部战区位台岛周边开展“正义使命-2025”演习
+    publisher: 国防部网
+    date: 2025-12-29
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16429616.html
+    excerpt: true
+    keep: [正义使命]
+  # 2026
+  - id: e04-cctv-2026-01-24-zhang-liu
+    title: 张又侠、刘振立涉嫌严重违纪违法接受审查调查
+    publisher: 央视网（转国防部网）
+    date: 2026-01-24
+    voice: official
+    url: https://news.cctv.com/2026/01/24/ARTIkH6aij24XwYGf6e68BgZ260124.shtml
+    excerpt: true
+    keep: [决定对张又侠、刘振立立案审查调查]
+  - id: e04-bbc-2026-01-24-zhang-youxia
+    title: 中国调查解放军最高级将领张又侠 官媒批其“造成极大破坏”
+    publisher: BBC 中文
+    date: 2026-01-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cx2k4pxdyyzo/simp
+    excerpt: true
+    keep: [严重践踏破坏军委主席负责制, 原有的六名将领已有五人相继落马]
+  - id: e04-bbc-2026-01-zhang-youxia-analysis
+    title: 张又侠“七宗罪”和“红二代”世交神话的破灭——分析
+    publisher: BBC 中文
+    date: 2026-01-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cp80pl999gjo/simp
+    excerpt: true
+    keep: [前所未有的, 华尔街日报]
+  - id: e04-bbc-2026-02-09-jimmy-lai
+    title: 黎智英被判囚20年
+    publisher: BBC 中文
+    date: 2026-02-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cr450w2v112o/simp
+    excerpt: true
+    keep: [20年]
+  - id: e04-hkgov-2026-02-09-jimmy-lai
+    title: 行政長官就黎智英案判刑的回應
+    publisher: 香港特區政府新聞公報
+    date: 2026-02-09
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202602/09/P2026020900363.htm
+    excerpt: true
+    keep: [大快人心]
+  - id: e04-gov-2026-03-05-work-report
+    title: 2026年政府工作报告
+    publisher: 中国政府网（国务院公报）
+    date: 2026-03-05
+    voice: doc
+    url: https://www.gov.cn/gongbao/2026/issue_12646/202603/content_7064134.html
+    excerpt: true
+    keep: [4.5%—5%, 赤字率]
+  - id: e04-gov-2026-03-12-15th-fyp
+    title: 十四届全国人大四次会议批准“十五五”规划纲要
+    publisher: 新华社（中国政府网）
+    date: 2026-03-12
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202603/content_7062501.htm
+    excerpt: true
+    keep: [十五五]
+  - id: e04-miit-2026-03-12-npc-closing
+    title: 十四届全国人大四次会议闭幕
+    publisher: 新华社（工业和信息化部网站）
+    date: 2026-03-12
+    voice: official
+    url: https://www.miit.gov.cn/xwfb/szyw/art/2026/art_0beb2b7605f9401ca9c6ae75d41cfc2c.html
+    excerpt: true
+    keep: [民族团结进步促进法, 生态环境法典]
+  - id: e04-news-2026-04-03-ma-xingrui
+    title: 马兴瑞涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华社
+    date: 2026-04-03
+    voice: official
+    url: https://www.news.cn/20260403/599f6de42b0c4d9aa9b2bd43d62114ca/c.html
+    excerpt: true
+    keep: [马兴瑞涉嫌严重违纪违法]
+  - id: e04-xinhua-2026-04-10-cheng-li-wun
+    title: 习近平会见中国国民党主席郑丽文
+    publisher: 新华社
+    date: 2026-04-10
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/20260410/2993d2023b9c4048a8bbfbabe965348e/c.html
+    excerpt: true
+    keep: [郑丽文, 时隔10年]
+  - id: e04-mfa-2026-05-14-trump-beijing
+    title: 习近平同美国总统特朗普举行会谈
+    publisher: 外交部
+    date: 2026-05-14
+    voice: official
+    url: https://www.mfa.gov.cn/web/zyxw/202605/t20260514_11910264.shtml
+    excerpt: true
+    keep: [建设性战略稳定关系, 国事访问]
+  - id: e04-news-2026-07-14-ma-xingrui-expelled
+    title: 马兴瑞严重违纪违法被开除党籍和公职
+    publisher: 新华社
+    date: 2026-07-14
+    voice: official
+    url: https://www.news.cn/20260714/4d99c47e9d31440c8a2ff9a19623b326/c.html
+    excerpt: true
+    keep: [大搞家族腐败, 开除党籍]
+  - id: e04-gov-2026-07-30-politburo
+    title: 中共中央政治局召开会议 决定召开二十届五中全会
+    publisher: 新华社（中国政府网）
+    date: 2026-07-30
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202607/content_7077056.htm
+    excerpt: true
+    keep: [第五次全体会议]
+  - id: e04-people-2026-09-22-zhang-liu-expelled
+    title: 张又侠、刘振立严重违纪违法被开除党籍
+    publisher: 人民日报
+    date: 2026-09-22
+    voice: official
+    url: https://paper.people.com.cn/rmrb/pc/content/202609/22/content_30182384.html
+    excerpt: true
+    keep: [搞团团伙伙, 政治问题和经济问题交织, 开除军籍处分]
+  - id: e04-news-2026-09-21-5th-plenum-set
+    title: 中共中央政治局召开会议 决定10月26日至29日召开二十届五中全会
+    publisher: 新华社
+    date: 2026-09-21
+    voice: official
+    url: https://www.news.cn/politics/20260921/f4717ffcaca041aca87806099ec0138e/c.html
+    excerpt: true
+    keep: [第五次全体会议, 持之以恒推进全面从严治党]
+  - id: e04-bbc-2026-09-21-cmc-two-left
+    title: 张又侠刘振立被开除党籍 中央军委只剩两人
+    publisher: BBC 中文
+    date: 2026-09-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/simp
+    excerpt: true
+    keep: [只剩习近平和张升民两人]
+  - id: e04-news-2026-09-28-xi-us-visit
+    title: 习近平对美国进行国事访问
+    publisher: 新华社
+    date: 2026-09-28
+    voice: official
+    url: https://www.news.cn/20260928/30aabdc550f949b0a718d5f420acf775/c.html
+    excerpt: true
+    keep: [时隔11年, 建设性战略稳定关系]
+  - id: e04-news-2026-10-13-huang-qifan
+    title: 重庆市委原副书记、市政府原市长黄奇帆接受审查调查
+    publisher: 新华社
+    date: 2026-10-13
+    voice: official
+    url: https://www.news.cn/20261013/7fba81a3e9a940cca80f09986a53a069/c.html
+    excerpt: true
+    keep: [黄奇帆涉嫌严重违纪违法]

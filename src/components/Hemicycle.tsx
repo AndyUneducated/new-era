@@ -37,15 +37,19 @@ export function layout(c: Congress, get: (id: string) => PersonR | undefined): S
   const psc = lineup(c.psc.filter((id) => id !== c.gs).map(get).filter((p): p is PersonR => !!p))
   arc(psc.length, 215).forEach(([x, y], i) => out.push({ p: psc[i], x, y, r: 36, seat: 'psc' }))
   const pb = c.pb.map(get).filter((p): p is PersonR => !!p)
-  // one outer arc up to 18 seats, two staggered arcs beyond
-  if (pb.length <= 18) arc(pb.length, 370).forEach(([x, y], i) => out.push({ p: pb[i], x, y, r: 29, seat: 'pb' }))
+  // one outer arc up to 12 seats; beyond that the labels under steep-side seats hit the next seat,
+  // so alternate members between two staggered arcs
+  if (pb.length <= 12) arc(pb.length, 370).forEach(([x, y], i) => out.push({ p: pb[i], x, y, r: 29, seat: 'pb' }))
   else {
-    const inner = Math.floor(pb.length / 2)
-    arc(inner, 335).forEach(([x, y], i) => out.push({ p: pb[i], x, y, r: 25, seat: 'pb' }))
-    arc(pb.length - inner, 420).forEach(([x, y], i) => out.push({ p: pb[inner + i], x, y, r: 25, seat: 'pb' }))
+    const inner = pb.filter((_, i) => i % 2 === 1)
+    const outer = pb.filter((_, i) => i % 2 === 0)
+    arc(inner.length, 330).forEach(([x, y], i) => out.push({ p: inner[i], x, y, r: 26, seat: 'pb' }))
+    arc(outer.length, 425).forEach(([x, y], i) => out.push({ p: outer[i], x, y, r: 26, seat: 'pb' }))
   }
   return out
 }
+
+const rings = (c: Congress) => (c.pb.length <= 12 ? [215, 370] : [215, 330, 425])
 
 export function Hemicycle({ c, frame }: { c: Congress; frame: Frame }) {
   const a = useAtlas()
@@ -64,7 +68,7 @@ export function Hemicycle({ c, frame }: { c: Congress; frame: Frame }) {
           </radialGradient>
         </defs>
         <path d={`M ${-460} 0 A 460 460 0 0 1 460 0 Z`} fill="url(#podium)" />
-        {[215, 370].map((r) => (
+        {rings(c).map((r) => (
           <path key={r} d={`M ${-r} 0 A ${r} ${r} 0 0 1 ${r} 0`} fill="none" stroke="var(--gold)" strokeOpacity="0.28" strokeDasharray="2 6" />
         ))}
         <line x1={-480} x2={480} y1={36} y2={36} stroke="var(--gold)" strokeOpacity="0.5" />

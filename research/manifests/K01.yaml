@@ -1,0 +1,180 @@
+# K01 congress backbone: first-plenum communiques (name lists) and the notices for changes during each term.
+web:
+  # first-plenum communiques and the plenums that changed the Military Commission (Wikisource transcriptions)
+  - id: k01-xinhua-1997-09-19-15-1-plenum
+    title: 中国共产党第十五届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 1997-09-19
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十五届中央委员会第一次全体会议公报
+    start: 中国共产党第十五届中央委员会第一次全体会议，于1997年9月19日
+    end: 傅 杰
+  - id: k01-xinhua-1998-10-14-15-3-plenum
+    title: 中国共产党第十五届中央委员会第三次全体会议公报
+    publisher: 新华社（人民网·中国共产党新闻网）
+    date: 1998-10-14
+    voice: doc
+    url: http://cpc.people.com.cn/GB/64162/64168/64568/65402/4429278.html
+    start: 中国共产党第十五届中央委员会第三次全体会议，于
+    end: 全面推进建设有中国特色社会主义伟大事业！
+  - id: k01-xinhua-1999-09-22-15-4-plenum
+    title: 中国共产党第十五届中央委员会第四次全体会议公报
+    publisher: 新华社（改革大数据服务平台转载）
+    date: 1999-09-22
+    voice: doc
+    url: http://www.reformdata.org/1999/0922/20507.shtml
+    start: 中国共产党第十五届中央委员会第四次全体会议，于1999年9月19日至22日
+    end: 全面推向21世纪。
+  - id: k01-xinhua-2002-11-15-16-1-plenum
+    title: 中国共产党第十六届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2002-11-15
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十六届中央委员会第一次全体会议公报
+    start: 中国共产党第十六届中央委员会第一次全体会议，于2002年11月15日
+    end: 解厚铨
+  - id: k01-xinhua-2004-09-19-16-4-plenum
+    title: 中国共产党第十六届中央委员会第四次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2004-09-19
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十六届中央委员会第四次全体会议公报
+    start: （2004年9月19日中国共产党第十六届中央委员会第四次全体会议通过）
+    end: 实现中华民族的伟大复兴而不懈奋斗！
+  - id: k01-xinhua-2007-10-22-17-1-plenum
+    title: 中国共产党第十七届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2007-10-22
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十七届中央委员会第一次全体会议公报
+    start: 中国共产党第十七届中央委员会第一次全体会议，于
+    end: 蔡继华
+  - id: k01-xinhua-2010-10-18-17-5-plenum
+    title: 中国共产党第十七届中央委员会第五次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2010-10-18
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十七届中央委员会第五次全体会议公报
+    start: （2010年10月18日中国共产党第十七届中央委员会第五次全体会议通过）
+    end: 经济社会发展目标任务而奋斗！
+  - id: k01-xinhua-2012-11-15-18-1-plenum
+    title: 中国共产党第十八届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2012-11-15
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十八届中央委员会第一次全体会议公报
+    start: 中国共产党第十八届中央委员会第一次全体会议，于
+    end: 崔少鹏
+  - id: k01-xinhua-2017-10-25-19-1-plenum
+    title: 中国共产党第十九届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2017-10-25
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十九届中央委员会第一次全体会议公报
+    start: （2017年10月25日中国共产党第十九届中央委员会第一次全体会议通过）
+    end: 凌激 崔鹏
+  - id: k01-xinhua-2022-10-23-20-1-plenum
+    title: 中国共产党第二十届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2022-10-23
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第一次全体会议公报
+    start: 中国共产党第二十届中央委员会第一次全体会议，于2022年10月23日
+    end: 穆红玉（女）
+  - id: k01-xinhua-2025-10-23-20-4-plenum
+    title: 中国共产党第二十届中央委员会第四次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2025-10-23
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第四次全体会议公报
+    start: 中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日至23日
+    end: 民族复兴伟业新局面。
+  # notices for changes during a term
+  - id: k01-xinhua-1999-10-28-xie-fei-death
+    title: 谢非同志在广州逝世
+    publisher: 新华社（生活时报转载，光明网）
+    date: 1999-10-28
+    voice: official
+    url: https://www.gmw.cn/01shsb/1999-10/28/GB/shsb%5E1145%5E0%5ESH7-2810.htm
+    start: 新华社北京10月27日电
+    end: 享年67岁。
+  - id: k01-xinhua-2006-09-25-chen-liangyu
+    title: 中共中央决定对陈良宇同志严重违纪问题立案检查
+    publisher: 新华社（中国青年报转载）
+    date: 2006-09-25
+    voice: official
+    url: http://zqb.cyol.com/content/2006-09/26/content_1522771.htm
+    start: 新华社北京9月25日电
+    end: 不断推向前进。
+  - id: k01-xinhua-2006-12-22-zhang-dingfa-death
+    title: 海军原司令员张定发海军上将在北京逝世
+    publisher: 新华社（新浪转载）
+    date: 2006-12-22
+    voice: official
+    url: http://jczs.news.sina.com.cn/2006-12-22/2243421578.html
+    start: 新华网北京12月22日电
+    end: 以及于永波、王瑞林等。
+  - id: k01-xinhua-2007-06-02-huang-ju-death
+    title: 讣告：黄菊同志因病医治无效在北京逝世
+    publisher: 新华社（中国政府网）
+    date: 2007-06-02
+    voice: official
+    url: https://www.gov.cn/ldhd/2007-06/02/content_633757.htm
+    start: 新华社北京6月2日电
+    end: 享年６９岁。
+  - id: k01-xinhua-2012-04-10-bo-xilai
+    title: 授权发布：中共中央决定对薄熙来同志严重违纪问题立案调查
+    publisher: 新华社（Wayback 快照）
+    date: 2012-04-10
+    voice: official
+    url: https://web.archive.org/web/20120413044009/http://news.xinhuanet.com/politics/2012-04/10/c_111761745.htm
+    start: 新华社北京４月１０日电
+    end: 对其立案调查。
+  - id: k01-xinhua-2017-07-24-sun-zhengcai
+    title: 孙政才同志涉嫌严重违纪 中共中央决定对其立案审查
+    publisher: 新华社
+    date: 2017-07-24
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-07/24/c_1121372319.htm
+    start: 新华社北京7月24日电
+    end: 对其立案审查。
+  - id: k01-xinhua-2023-10-24-li-shangfu-cmc
+    title: （受权发布）全国人民代表大会常务委员会决定免职的名单
+    publisher: 新华社
+    date: 2023-10-24
+    voice: doc
+    url: http://www.news.cn/politics/2023-10/24/c_1129936106.htm
+    start: 新华社北京10月24日电
+    end: 委员职务。
+  - id: k01-mod-2024-11-28-miao-hua
+    title: 中央军委委员、军委政治工作部上将主任苗华被停职检查
+    publisher: 国防部网
+    date: 2024-11-28
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16354907.html
+    start: 中央军委委员、军委政治工作部上将主任苗华涉嫌
+    end: 停职检查。
+  - id: k01-mod-2025-10-17-he-weidong
+    title: 何卫东、苗华等9人严重违纪违法被开除党籍军籍
+    publisher: 国防部网
+    date: 2025-10-17
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16416031.html
+    start: 10月17日下午，国防部新闻发言人
+    end: 凝聚力战斗力。
+  - id: k01-mod-2026-01-24-zhang-youxia-liu-zhenli
+    title: 张又侠、刘振立涉嫌严重违纪违法被立案审查调查
+    publisher: 国防部网（央视网转载）
+    date: 2026-01-24
+    voice: official
+    url: https://news.cctv.com/2026/01/24/ARTIkH6aij24XwYGf6e68BgZ260124.shtml
+    start: 中央政治局委员、中央军委副主席张又侠
+    end: 立案审查调查。
+  - id: k01-xinhua-2026-04-03-ma-xingrui
+    title: 马兴瑞涉嫌严重违纪违法正接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华社
+    date: 2026-04-03
+    voice: official
+    url: https://www.news.cn/20260403/599f6de42b0c4d9aa9b2bd43d62114ca/c.html
+    start: 新华社北京4月3日电
+    end: 监察调查。

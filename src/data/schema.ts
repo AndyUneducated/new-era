@@ -61,6 +61,7 @@ export const ROLES = {
   biz: '企业家',
   hkmt: '港澳台',
   scholar: '学者',
+  media: '媒体人',
   family: '家属',
 } as const
 export type Role = keyof typeof ROLES
@@ -70,6 +71,8 @@ export const STATUS = {
   retired: '退休',
   purged: '落马',
   detained: '在押',
+  // released or never charged, but under watch, house arrest or travel bans
+  watched: '受监控',
   exiled: '流亡',
   missing: '下落不明',
   dead: '去世',

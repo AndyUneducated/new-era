@@ -50,8 +50,8 @@
 字段定义见 `src/data/schema.ts` 的 `PersonSchema`，样例见 `00-exemplar.yaml`。要点：
 
 - `id`、`name` 按 `research/roster.yaml`，不要改。
-- `roles`：`psc pb sec cmc cc acc ccdi prov minister general tiger dissent biz hkmt scholar family`，可多选。
-- `status`：`active`（在任）、`retired`、`purged`（落马：被立案或开除）、`detained`（在押服刑）、`exiled`、`missing`、`dead`。今天是 **2026-10-13**，状态写今天的状态；`statusNote` 一句话说明。
+- `roles`：`psc pb sec cmc cc acc ccdi prov minister general tiger dissent biz hkmt scholar media family`，可多选。
+- `status`：`active`（在任）、`retired`、`purged`（落马：被立案或开除）、`detained`（在押服刑）、`watched`（获释或未起诉，但受监控、软禁、限制出境）、`exiled`、`missing`、`dead`。今天是 **2026-10-13**，状态写今天的状态；`statusNote` 一句话说明。
 - `fall`：落马经过，每步一条（立案、开除党籍、判决），`date` + `text` + `cite`（中纪委、新华社通报）。
 - `positions`：主要职务，`sys` 为 `party`/`gov`/`army`/`other`，地方职务写 `place`（省级名称，如 `浙江`），`from`/`to` 写到月。每条最好有 `cite`。
 - `factions`：`{ f: <派系 id>, cite: <来源 id>, quote: <来源中给出该标签的原句> }`。派系 id 见 `research/faction-plan.yaml`。**只写媒体或学者明确这样说过的**，一条标签一个来源。找不到就不写。

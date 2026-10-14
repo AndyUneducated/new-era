@@ -1,0 +1,611 @@
+# I02: government work reports 2000–2026 (corpus) and sources for the document and trend concepts.
+web:
+  # ---- 政府工作报告 2000–2026 (corpus, full text)
+  - id: i02-gov-2000-gwr
+    title: 2000 年政府工作报告
+    publisher: 中国政府网
+    date: 2000-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160404082341id_/http://www.gov.cn/test/2006-02/16/content_201153.htm
+    start: "各位代表："
+    end: "为把改革开放和社会主义现代化事业全面推向新世纪而奋斗！"
+  - id: i02-gov-2001-gwr
+    title: 2001 年政府工作报告
+    publisher: 中国政府网
+    date: 2001-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160404032649id_/http://www.gov.cn/test/2006-02/16/content_201157.htm
+    start: "各位代表："
+    end: "为把我国建设成为富强民主文明的社会主义现代化国家而努力奋斗！"
+  - id: i02-gov-2002-gwr
+    title: 2002 年政府工作报告
+    publisher: 中国政府网
+    date: 2002-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160404080123id_/http://www.gov.cn/test/2006-02/16/content_201164.htm
+    start: "各位代表："
+    end: "为夺取改革开放和现代化建设的新胜利而努力奋斗!"
+  - id: i02-gov-2003-gwr
+    title: 2003 年政府工作报告
+    publisher: 中国政府网
+    date: 2003-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160324052125id_/http://www.gov.cn/test/2006-02/16/content_201173.htm
+    start: "各位代表:"
+    end: "一定能够把中国特色社会主义事业不断推向前进，从胜利走向更大的胜利!"
+  - id: i02-gov-2004-gwr
+    title: 2004 年政府工作报告
+    publisher: 中国政府网
+    date: 2004-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160304111350id_/http://www.gov.cn/test/2006-02/16/content_201193.htm
+    start: "各位代表："
+    end: "一定能够克服各种艰难险阻，不断把改革开放和社会主义现代化事业推向前进！"
+  - id: i02-gov-2005-gwr
+    title: 2005 年政府工作报告
+    publisher: 中国政府网
+    date: 2005-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160324044123id_/http://www.gov.cn/test/2006-02/16/content_201218.htm
+    start: "各位代表："
+    end: "奋发图强，不断夺取改革开放和现代化建设事业的新胜利！"
+  - id: i02-gov-2006-gwr
+    title: 2006 年政府工作报告
+    publisher: 中国政府网
+    date: 2006-03-05
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2006/content_268721.htm
+    start: "各位代表："
+    end: "我们的目标一定要达到！我们的目标一定能够达到！"
+  - id: i02-gov-2007-gwr
+    title: 2007 年政府工作报告
+    publisher: 中国政府网
+    date: 2007-03-05
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2007/content_595132.htm
+    start: "各位代表："
+    end: "万众一心，开拓进取，奋力把改革开放和社会主义现代化事业推向前进！"
+  - id: i02-gov-2008-gwr
+    title: 2008 年政府工作报告
+    publisher: 中国政府网
+    date: 2008-03-05
+    voice: doc
+    url: http://www.moa.gov.cn/xw/zwdt/200803/t20080320_997767.htm
+    start: "各位代表："
+    end: "解放思想，改革创新，扎实工作，为夺取全面建设小康社会新胜利而努力奋斗！"
+  - id: i02-gov-2009-gwr
+    title: 2009 年政府工作报告
+    publisher: 中国政府网
+    date: 2009-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160304200204id_/http://www.gov.cn/2009lh/content_1259471.htm
+    start: "各位代表："
+    end: "奋力把改革开放和现代化建设伟大事业推向前进，迎接中华人民共和国成立６０周年！"
+  - id: i02-gov-2010-gwr
+    title: 2010 年政府工作报告
+    publisher: 中国政府网
+    date: 2010-03-05
+    voice: doc
+    url: https://web.archive.org/web/20160404033021id_/http://www.gov.cn/2010lh/content_1555767.htm
+    start: "各位代表："
+    end: "全面完成“十一五”规划的各项任务，不断夺取改革开放和社会主义现代化建设事业的新胜利！"
+  - id: i02-gov-2011-gwr
+    title: 2011 年政府工作报告
+    publisher: 中国政府网
+    date: 2011-03-05
+    voice: doc
+    url: https://web.archive.org/web/20250901132347id_/https://www.gov.cn/2011lh/content_1825233.htm
+    start: "各位代表："
+    end: "努力实现“十二五”时期良好开局，把中国特色社会主义伟大事业继续推向前进！"
+  - id: i02-gov-2012-gwr
+    title: 2012 年政府工作报告
+    publisher: 中国政府网
+    date: 2012-03-05
+    voice: doc
+    url: https://web.archive.org/web/20250908214347id_/https://www.gov.cn/test/2012-03/15/content_2067314.htm
+    start: "各位代表："
+    end: "解放思想，开拓创新，扎实工作，奋力开创社会主义现代化建设新局面！"
+  - id: i02-gov-2013-gwr
+    title: 2013 年政府工作报告
+    publisher: 中国政府网
+    date: 2013-03-05
+    voice: doc
+    url: https://www.gov.cn/test/2013-03/19/content_2357136.htm
+    start: "各位代表："
+    end: "万众一心，奋发图强，为全面建成小康社会、实现中华民族的伟大复兴而奋斗！"
+  - id: i02-gov-2014-gwr
+    title: 2014 年政府工作报告
+    publisher: 中国政府网
+    date: 2014-03-05
+    voice: doc
+    url: https://www.gov.cn/guowuyuan/2014-03/14/content_2638989.htm
+    start: "各位代表："
+    end: "建成富强民主文明和谐的社会主义现代化国家、实现中华民族伟大复兴的中国梦而努力奋斗！"
+  - id: i02-gov-2015-gwr
+    title: 2015 年政府工作报告
+    publisher: 中国政府网
+    date: 2015-03-05
+    voice: doc
+    url: https://www.gov.cn/guowuyuan/2015-03/16/content_2835101.htm
+    start: "各位代表："
+    end: "建成富强民主文明和谐的社会主义现代化国家、实现中华民族伟大复兴的中国梦作出新的更大贡献！"
+  - id: i02-gov-2016-gwr
+    title: 2016 年政府工作报告
+    publisher: 中国政府网
+    date: 2016-03-05
+    voice: doc
+    url: https://web.archive.org/web/20250917085049id_/https://www.gov.cn/guowuyuan/2016-03/05/content_5049372.htm
+    start: "各位代表："
+    end: "确保全面建成小康社会决胜阶段良好开局，为建成富强民主文明和谐的社会主义现代化国家、实现中华民族伟大复兴的中国梦作出新的贡献！"
+  - id: i02-gov-2017-gwr
+    title: 2017 年政府工作报告
+    publisher: 中国政府网
+    date: 2017-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2017-03/16/content_5177940.htm
+    start: "各位代表："
+    end: "为实现“两个一百年”宏伟目标、建设富强民主文明和谐的社会主义现代化国家、实现中华民族伟大复兴的中国梦而不懈奋斗！"
+  - id: i02-gov-2018-gwr
+    title: 2018 年政府工作报告
+    publisher: 中国政府网
+    date: 2018-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2018-03/22/content_5276608.htm
+    start: "各位代表："
+    end: "促进经济社会持续健康发展，为决胜全面建成小康社会、夺取新时代中国特色社会主义伟大胜利，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国、实现中华民族伟大复兴的中国梦作出新的贡献！"
+  - id: i02-gov-2019-gwr
+    title: 2019 年政府工作报告
+    publisher: 中国政府网
+    date: 2019-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2019-03/16/content_5374314.htm
+    start: "各位代表："
+    end: "以经济社会发展的优异成绩迎接中华人民共和国成立70周年，为决胜全面建成小康社会、夺取新时代中国特色社会主义伟大胜利，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国、实现中华民族伟大复兴的中国梦不懈奋斗！"
+  - id: i02-gov-2020-gwr
+    title: 2020 年政府工作报告
+    publisher: 中国政府网
+    date: 2020-05-22
+    voice: doc
+    url: https://www.gov.cn/premier/2020-05/29/content_5516072.htm
+    start: "各位代表："
+    end: "统筹推进疫情防控和经济社会发展，努力完成全年目标任务，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国、实现中华民族伟大复兴的中国梦不懈奋斗！"
+  - id: i02-gov-2021-gwr
+    title: 2021 年政府工作报告
+    publisher: 中国政府网
+    date: 2021-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2021-03/12/content_5592671.htm
+    start: "各位代表："
+    end: "以优异成绩庆祝中国共产党百年华诞，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国、实现中华民族伟大复兴的中国梦不懈奋斗！"
+  - id: i02-gov-2022-gwr
+    title: 2022 年政府工作报告
+    publisher: 中国政府网
+    date: 2022-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2022-03/12/content_5678750.htm
+    start: "各位代表："
+    end: "以实际行动迎接党的二十大胜利召开，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国、实现中华民族伟大复兴的中国梦不懈奋斗！"
+  - id: i02-gov-2023-gwr
+    title: 2023 年政府工作报告
+    publisher: 中国政府网
+    date: 2023-03-05
+    voice: doc
+    url: https://www.gov.cn/premier/2023-03/14/content_5746704.htm
+    start: "各位代表："
+    end: "为全面建设社会主义现代化国家、全面推进中华民族伟大复兴，为把我国建设成为富强民主文明和谐美丽的社会主义现代化强国不懈奋斗！"
+  - id: i02-gov-2024-gwr
+    title: 2024 年政府工作报告
+    publisher: 中国政府网
+    date: 2024-03-05
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202403/content_6939153.htm
+    start: "各位代表："
+    end: "努力完成全年经济社会发展目标任务，为以中国式现代化全面推进强国建设、民族复兴伟业不懈奋斗！"
+  - id: i02-gov-2025-gwr
+    title: 2025 年政府工作报告
+    publisher: 中国政府网
+    date: 2025-03-05
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202503/content_7013163.htm
+    start: "各位代表："
+    end: "确保“十四五”规划圆满收官，为以中国式现代化全面推进强国建设、民族复兴伟业不懈奋斗！"
+  - id: i02-gov-2026-gwr
+    title: 2026 年政府工作报告
+    publisher: 中国政府网（国务院公报 2026 年第 9 号）
+    date: 2026-03-05
+    voice: doc
+    url: https://www.gov.cn/gongbao/2026/issue_12646/202603/content_7064134.html
+    start: "各位代表："
+    end: "确保“十五五”良好开局，为以中国式现代化全面推进强国建设、民族复兴伟业不懈奋斗！"
+
+  # ---- copies of other batches' sources (same pages), so the batch validates on its own
+  - id: i02-bbc-2013-05-13-document-9
+    title: 中共下发意识形态文件 通报神龙不见首尾
+    publisher: BBC 中文
+    date: 2013-05-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/05/130513_china_politics_ideology
+    excerpt: true
+    keep: [中办发, 七个方面, 七不讲, 普世价值]
+  - id: i02-nytcn-2013-08-20-document-9
+    title: 中央秘密文件视宪政与人权为威胁
+    publisher: 纽约时报中文网
+    author: 储百亮
+    date: 2013-08-20
+    voice: west
+    url: https://cn.nytimes.com/china/20130820/c20document/
+    excerpt: true
+    keep: [七大危险, 9号文件, 四名接近中共高级官员]
+  - id: i02-gov-2021-11-11-third-resolution
+    title: 中共中央关于党的百年奋斗重大成就和历史经验的决议（摘录）
+    publisher: 中国政府网
+    date: 2021-11-11
+    voice: doc
+    url: https://www.gov.cn/zhengce/2021-11/16/content_5651269.htm
+    excerpt: true
+    keep: [一九四五年党的六届七中全会通过的《关于若干历史问题的决议》, 中国特色社会主义进入新时代。, 党确立习近平同志党中央的核心、全党的核心地位, 必须警惕和防范西方所谓, 形势发生全局性、根本性转变]
+  - id: i02-bbc-2008-12-09-charter08
+    title: 国际人权日前 中国拘留人权活跃者
+    publisher: BBC 中文
+    date: 2008-12-09
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7770000/newsid_7773300/7773394.stm
+    excerpt: true
+    keep: [周一晚上被北京公安带走, 获得了303名, 普世价值, 鲍彤]
+  - id: i02-bbc-2009-12-25-liu-sentenced
+    title: 中国异议人士刘晓波判囚11年
+    publisher: BBC 中文
+    date: 2009-12-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2009/12/091225_china_liu_appeal
+    excerpt: true
+    keep: [剥夺政治权利两年, 曾参与起草]
+  - id: i02-bbc-2017-07-13-liu-xiaobo
+    title: 逝者：无法领奖的诺贝尔和平奖得主刘晓波
+    publisher: BBC 中文
+    date: 2017-07-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-40516593
+    excerpt: true
+    keep: [终年61岁, 首位居住在中国境内, 辽宁省监狱管理局批准其保外就医]
+  - id: i02-bbc-2016-07-19-yanhuang
+    title: 抗议当局强行改组 《炎黄春秋》宣布停刊
+    publisher: BBC 中文
+    date: 2016-07-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/07/160719_yanhuangchunqiu_shut_down
+    excerpt: true
+    keep: [自由派时政杂志, 杜导正签名, 中国艺术研究院的通知]
+  - id: i02-bbc-2016-01-21-diba
+    title: 台湾选后：中国网民“翻墙洗版”引两岸论战
+    publisher: BBC 中文
+    date: 2016-01-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/01/160121_china_china_netizens_vpn_fb_sticker_war
+    excerpt: true
+    keep: [这场“‘网军’攻击直播”, 原名叫做“李毅吧”, 三小时内]
+  - id: i02-voa-2016-01-21-diba
+    title: 中国大陆网民翻墙围攻蔡英文脸书
+    publisher: 美国之音中文网
+    date: 2016-01-21
+    voice: zh
+    url: https://www.voachinese.com/a/tsai-facebook-account-20160121/3155694.html
+    excerpt: true
+    keep: [帝吧fb出征, 八荣八耻, 只反“台独”]
+
+  # ---- document-9
+  - id: i02-chinafile-2013-11-08-document-9
+    title: "Document 9: A ChinaFile Translation"
+    publisher: ChinaFile
+    date: 2013-11-08
+    voice: west
+    lang: en
+    url: https://www.chinafile.com/document-9-chinafile-translation
+    excerpt: true
+    keep: [Mingjing Magazine, "April 22, 2013", General Office in April, "1. Promoting Western Constitutional Democracy", "2. Promoting “universal values”", "3. Promoting civil society", "4. Promoting", "5. Promoting", "6. Promoting", "7. Questioning"]
+  - id: i02-chinafile-2023-document-9-10-years
+    title: "Document 9, 10 Years Later"
+    publisher: ChinaFile
+    date: 2023-03-06
+    voice: west
+    lang: en
+    url: https://www.chinafile.com/reporting-opinion/notes-chinafile/document-9-10-years-later
+    excerpt: true
+    keep: [heralded the tone, separation of three powers, Mingjing Magazine]
+  - id: i02-bbc-2015-04-17-gao-yu
+    title: 高瑜涉“为境外非法提供国家秘密罪”被判七年
+    publisher: BBC 中文
+    date: 2015-04-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/04/150417_china_gaoyu_sentence
+    excerpt: true
+    keep: [北京第三中级人民法院被判7年, 为境外人员非法提供机密级国家秘密, 2014年11月21日]
+  - id: i02-chinanews-2015-04-17-gao-yu
+    title: 高瑜因为境外非法提供国家秘密罪被判有期徒刑7年
+    publisher: 中国新闻网（Wayback）
+    date: 2015-04-17
+    voice: official
+    url: https://web.archive.org/web/20211213035630id_/https://www.chinanews.com.cn/fz/2015/04-17/7214134.shtml
+    excerpt: true
+    keep: [判处被告人高瑜有期徒刑七年, 某境外网站全文刊发了一份中央机密文件]
+  - id: i02-rfa-2015-11-26-gao-yu-appeal
+    title: 高瑜二审改判为五年 监外执行
+    publisher: 自由亚洲电台
+    date: 2015-11-26
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql1-11262015100758.html
+    excerpt: true
+    keep: [明镜网, 二审宣判有期徒刑5年]
+
+  # ---- third-resolution
+  - id: i02-bbc-2021-11-12-third-resolution
+    title: 中共六中全会通过第三个历史性决议，巩固习近平地位
+    publisher: BBC 中文
+    date: 2021-11-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59257745
+    excerpt: true
+    keep: [第三份此类决议, 最恢宏的史诗, 与过去决裂]
+  - id: i02-bbc-2021-11-19-resolution-analysis
+    title: 中共第三份历史决议为习近平权威“封印”，确立中国“新极权主义体制”
+    publisher: BBC 中文
+    date: 2021-11-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59333887
+    excerpt: true
+    keep: [封印, 极权主义体制, 六四]
+  - id: i02-abc-2021-11-12-resolution
+    title: 中共十九届六中全会通过历史决议 为习近平明年连任铺路
+    publisher: ABC 中文
+    date: 2021-11-12
+    voice: zh
+    url: https://www.abc.net.au/chinese/2021-11-12/ccp-historic-resolution-xi-jinping/100611674
+    excerpt: true
+    keep: [冯崇义, 黄介正, 路线问题]
+
+  # ---- charter-08
+  - id: i02-rfa-2016-07-13-charter08-text
+    title: 零八宪章全文（刘晓波等）
+    publisher: 自由亚洲电台
+    date: 2016-07-13
+    voice: witness
+    url: https://www.rfa.org/mandarin/pinglun/liuxiaobopinglunzhuanji/lxb-07132017104422.html
+    excerpt: true
+    keep: [是人类共同的普世价值, 1、修改宪法, 2、分权制衡, 4、司法独立, 联邦共和]
+  - id: i02-mfa-2010-10-08-liu-nobel
+    title: 外交部发言人马朝旭答记者问（2010 年 10 月 8 日）
+    publisher: 外交部
+    date: 2010-10-08
+    voice: official
+    url: https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/201010/t20101008_5431720.shtml
+    start: 问：10月8日诺贝尔委员会
+    end: 也会给中挪关系带来损害。
+  - id: i02-nobel-2010-10-08-press-release
+    title: The Nobel Peace Prize 2010 – Press release
+    publisher: Norwegian Nobel Committee
+    date: 2010-10-08
+    voice: west
+    lang: en
+    url: https://www.nobelprize.org/prizes/peace/2010/press-release/
+    excerpt: true
+    keep: [long and non-violent struggle, Charter 08]
+
+  # ---- liberals
+  - id: i02-bbc-2016-10-03-gongshi
+    title: 中国“共识网”无法访问 创始人称未来不容乐观
+    publisher: BBC 中文
+    date: 2016-10-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/10/161003_china_21ccom-net_suspended
+    excerpt: true
+    keep: [从上周六（10月1号）无法访问, 2009年9月创立, 丢失可以公开发表言论的空间]
+  - id: i02-rfi-2016-10-02-gongshi
+    title: 中国 “共识网”被令关闭
+    publisher: 法国国际广播电台
+    date: 2016-10-02
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20161002-%E4%B8%AD%E5%9B%BD-%E2%80%9C%E5%85%B1%E8%AF%86%E7%BD%91%E2%80%9D%E9%81%AD%E4%BB%A4%E5%85%B3%E9%97%AD
+    excerpt: true
+    keep: [传递错误思想]
+  - id: i02-bbc-2019-08-30-unirule
+    title: 天则经济研究所被取缔 中国著名自由派智库如何一步步被扼杀
+    publisher: BBC 中文
+    date: 2019-08-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-49510421
+    excerpt: true
+    keep: [昌平区民政局, 茅于轼、张曙光、盛洪, 秦晖, 难的是如何让大家相信]
+  - id: i02-rfa-2019-08-28-unirule
+    title: 意识形态回归毛时代 自由派阵地天则研究所面临被取缔
+    publisher: 自由亚洲电台
+    date: 2019-08-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/gf1-08282019071701.html
+    excerpt: true
+    keep: [被视为自由派阵地, 在意识形态上向毛时代回归]
+  - id: i02-bbc-2020-07-06-xu-zhangrun
+    title: 清华大学教授许章润被警方带走 曾多次发文批评中国当局
+    publisher: BBC 中文
+    date: 2020-07-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-53306020
+    excerpt: true
+    keep: [我们当下的恐惧与期待, 2019年3月，清华大学让许章润停职, 愤怒的人民不再恐惧]
+  - id: i02-rfa-2020-07-18-xu-zhangrun
+    title: 清华大学向许章润发出开除处分文件 称其违反教师行为准则
+    publisher: 自由亚洲电台
+    date: 2020-07-18
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/6-07182020123909.html
+    excerpt: true
+    keep: [关于给许章润开除处分的决定, 十项准则》有关规定]
+
+  - id: i02-rfa-2019-09-27-he-weifang
+    title: 贺卫方微信被封 自由派再遭噤声
+    publisher: 自由亚洲电台
+    date: 2019-09-27
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/meiti/cc-09272019113658.html
+    excerpt: true
+    keep: [主张民主宪政和司法独立的自由派知名学者, 转向整肃大学内自由派学者]
+
+  # ---- new-left
+  - id: i02-nbc-2009-new-left
+    title: For China’s new left, old values
+    publisher: NBC News
+    date: 2009-04-19
+    voice: west
+    lang: en
+    url: https://www.nbcnews.com/id/wbna30290632
+    excerpt: true
+    keep: [state power can redress, Cui Zhiyuan, 47, misguided socialism, Utopia bookstore]
+  - id: i02-cbr-2024-05-16-new-left-state
+    title: How China’s New Left Embraced the State
+    publisher: China Books Review
+    author: David Ownby
+    date: 2024-05-16
+    voice: scholar
+    lang: en
+    url: https://chinabooksreview.com/2024/05/16/how-chinas-new-left-embraced-the-state/
+    excerpt: true
+    keep: [one turning point through which the New Left, Wang Shaoguang, regime critics because they feared]
+  - id: i02-bbc-2012-02-27-chongqing-trends
+    title: 点评中国：王立军、重庆模式与中国思潮转变
+    publisher: BBC 中文
+    date: 2012-02-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/focus_on_china/2012/02/120227_cr_wanglijun_chongqing_style
+    excerpt: true
+    keep: [新老左派, 新左学人]
+  - id: i02-wiki-new-left
+    title: 中国新左派（维基百科）
+    publisher: 维基百科
+    date: 2026-10-13
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-cn/%E4%B8%AD%E5%9C%8B%E6%96%B0%E5%B7%A6%E6%B4%BE
+    excerpt: true
+    keep: [1994年7月21日, 当代中国的思想状况与现代性问题, 给别人戴帽子的方式]
+
+  # ---- maoist-left
+  - id: i02-bbc-2012-04-06-utopia
+    title: 中国左翼网站“乌有之乡”遭封杀
+    publisher: BBC 中文
+    date: 2012-04-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/04/120406_china_wuyouzhixiang
+    excerpt: true
+    keep: [关闭整改一个月, 妄议十八大, 支持薄熙来]
+  - id: i02-voa-2012-04-06-utopia
+    title: 左派网站政治宕机 被指恶意攻击
+    publisher: 美国之音中文网
+    date: 2012-04-06
+    voice: zh
+    url: https://www.voachinese.com/a/article-20120406-china-maoist-website-146463505/951484.html
+    excerpt: true
+    keep: [毛泽东左派舆论大本营, 毛左舆论大将张宏良]
+  - id: i02-rfi-2012-04-06-utopia
+    title: 乌有之乡网站因“妄议十八大”被关闭整顿一个月
+    publisher: 法国国际广播电台
+    date: 2012-04-06
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20120406-%E4%B9%8C%E6%9C%89%E4%B9%8B%E4%B9%A1%E7%BD%91%E7%AB%99%E5%9B%A0%E2%80%9C%E5%A6%84%E8%AE%AE%E5%8D%81%E5%85%AB%E5%A4%A7%E2%80%9D%E8%A2%AB%E5%85%B3%E9%97%AD%E6%95%B4%E9%A1%BF%E4%B8%80%E4%B8%AA%E6%9C%88
+    excerpt: true
+    keep: [国新办九局, 删除直接支持薄熙来和“重庆模式”的文章]
+  - id: i02-bbc-2018-08-16-jasic
+    title: 深圳佳士工人维权：左翼青年与政治诉求
+    publisher: BBC 中文
+    date: 2018-08-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-45204596
+    excerpt: true
+    keep: [不少参与者是马克思主义者, 来自左翼网站“乌有之乡”, 并不是由国内左派人士主导]
+  - id: i02-bbc-2018-12-28-left-youth
+    title: 中国左翼青年的崛起和官方的打压
+    publisher: BBC 中文
+    date: 2018-12-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-46616052
+    excerpt: true
+    keep: [带走包括她在内的数十名左翼维权者, 仍然有29位声援团成员]
+
+  # ---- statism
+  - id: i02-aisixiang-xu-jilin-statism
+    title: 近十年来中国国家主义思潮之批判
+    publisher: 爱思想
+    author: 许纪霖
+    date: 2011
+    voice: scholar
+    url: https://www.aisixiang.com/data/41945.html
+    excerpt: true
+    keep: [施米特主义在中国政治论述中的代表, 政府是必要的善, 高适应性]
+  - id: i02-bbc-2018-08-03-hu-angang
+    title: 胡鞍钢被讽“给帝王唱赞歌” 千人联名要求清华将其开除
+    publisher: BBC 中文
+    date: 2018-08-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-45058201
+    excerpt: true
+    keep: [1.15倍, 堪称误国误民]
+  - id: i02-dw-2018-08-03-hu-angang
+    title: 胡鞍钢、中美贸易战与“厉害了，我的国”
+    publisher: 德国之声中文网
+    date: 2018-08-03
+    voice: zh
+    url: https://www.dw.com/zh/%E8%83%A1%E9%9E%8D%E9%92%A2%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E4%B8%8E%E5%8E%89%E5%AE%B3%E4%BA%86%E6%88%91%E7%9A%84%E5%9B%BD/a-44945985
+    excerpt: true
+    keep: [过度的实力自信, 我觉得应该是毛泽东]
+  - id: i02-gov-2021-06-01-politburo-30th
+    title: 习近平主持中共中央政治局第三十次集体学习并讲话
+    publisher: 新华社（中国政府网）
+    date: 2021-06-01
+    voice: official
+    url: https://www.gov.cn/xinwen/2021-06/01/content_5614684.htm
+    excerpt: true
+    keep: [复旦大学张维为教授就这个问题进行讲解, 新华社北京6月1日电]
+
+  # ---- industrial-party
+  - id: i02-guancha-2018-10-25-gongyedang
+    title: “工业党”是怎样炼成的？
+    publisher: 观察者网（原载《文化纵横》）
+    author: 吴靖、卢南峰
+    date: 2018-10-25
+    voice: scholar
+    url: https://www.guancha.cn/wujing/2018_10_25_476802.shtml
+    excerpt: true
+    keep: [这一命名最早出自王小东2011, 第一个明确的‘工业党’思维, 只不过是一种思想倾向, 临高启明》起源于2006年]
+  - id: i02-guancha-2019-06-17-gongyedang-pink
+    title: “工业党”与“小粉红”有什么不同
+    publisher: 观察者网
+    author: 吴靖
+    date: 2019-06-17
+    voice: scholar
+    url: https://www.guancha.cn/wujing/2019_06_17_505894.shtml
+    excerpt: true
+    keep: [生产力和技术至上理念, 以“帝吧出征”为主要节点, 更加积极地参与消费文化]
+  - id: i02-coso-wang-xiaodong-industrial-party
+    title: A Study of the “Industrial Party” and the “Sentimental Party”（王小东文英译）
+    publisher: China Open Source Observatory
+    author: Tanner Greer（译介）
+    voice: scholar
+    lang: en
+    url: https://chinaopensourceobservatory.org/publications/a-study-of-the-industrial-party-and-the-sentimental-party/a-study-of-the-industrial-party-and-the-sentimental-party
+    excerpt: true
+    keep: [ardent techno-nationalist, the only divide that really matters]
+
+  # ---- little-pink
+  - id: i02-initium-fang-kecheng-pink
+    title: “小粉红”：一个“张冠李戴”的标签
+    publisher: 端传媒（中国数字时代转载）
+    author: 方可成
+    voice: zh
+    url: https://chinadigitaltimes.net/chinese/571257.html
+    excerpt: true
+    keep: [至少从2008年开始, 凤仪美食论坛, 自从2015年夏天开始, 肤白貌美三观正]
+  - id: i02-dw-2021-12-16-hu-xijin
+    title: 中国战狼式媒体人、《环时》总编胡锡进宣布退休
+    publisher: 德国之声中文网
+    date: 2021-12-16
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%88%98%E7%8B%BC%E5%BC%8F%E5%AA%92%E4%BD%93%E4%BA%BA%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E6%80%BB%E7%BC%96%E8%83%A1%E9%94%A1%E8%BF%9B%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91/a-60145976
+    excerpt: true
+    keep: [强烈民族主义的主要代言人, 胡侃]

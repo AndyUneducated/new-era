@@ -1,0 +1,879 @@
+# B08: the fallen of 2023-2026 and the Central Military Commission.
+- id: qin-gang
+  name: 秦刚
+  pinyin: Qín Gāng
+  gender: m
+  ethnicity: 汉族
+  born: 1966-03-19
+  birthplace: 天津
+  origin: 河北怀来
+  education:
+    - { school: 国际关系学院国际政治系, to: 1988 }
+  joinedParty: 1986-11
+  joinedWork: 1988-08
+  roles: [cc, minister]
+  status: missing
+  statusNote: 2023 年 6 月下旬起不再公开露面，先后失去外长、国务委员、人大代表和中央委员职务；官方从未说明原因，也未宣布党纪处分，去向只有媒体零星报道。
+  tier: 1
+  headline: 外交部部长（2022–2023）、国务委员（2023）
+  ids: { wikidata: Q7216297 }
+  factions:
+    - f: xi-jiajun
+      cite: b08-bbc-2023-10-26-li-qin
+      quote: 对于李尚福和秦刚被免职，另一个引发猜想的原因是二人都曾被视为习近平的亲信，但都是上任不到一年就宣告被撤换。
+  bio: >-
+    职业外交官，做过外交部发言人和礼宾司司长，被外界视为习近平亲手提拔的外交新星：2021 年出任驻美大使，2022 年底以 56 岁出任外交部部长，2023 年 3 月再升国务委员。
+    同年 6 月下旬起从公众视野消失，7 月被免去外长，10 月被免去国务委员，2024 年先后辞去人大代表和中央委员。官方始终没有说明原因；据《华尔街日报》报道，他在驻美期间的婚外情和在美国出生的孩子是去职缘由，调查重点是是否危及国家安全。
+    与同年落马的李尚福不同，中共至今仍称他“同志”，没有给予公开的党纪处分。
+  positions:
+    - { title: 外交部新闻司副司长、外交部发言人, sys: gov, from: 2005-01, cite: b08-wiki-qin-gang }
+    - { title: 外交部礼宾司司长, sys: gov, from: 2015-01, to: 2018-09, cite: b08-wiki-qin-gang }
+    - { title: 外交部副部长, sys: gov, from: 2018-09, to: 2021-07, cite: wd-Q7216297 }
+    - { title: 驻美国大使, sys: gov, from: 2021-07, to: 2022-12, cite: wd-Q7216297 }
+    - { title: 中央委员, sys: party, from: 2022-10, to: 2024-07, cite: b08-wikisource-2024-07-18-20-3-plenum }
+    - { title: 外交部部长, sys: gov, from: 2022-12, to: 2023-07, cite: b08-gov-2023-07-25-order-8 }
+    - { title: 国务委员, sys: gov, from: 2023-03, to: 2023-10, cite: b08-gov-2023-10-24-order-14 }
+  fall:
+    - date: 2023-07-25
+      text: 全国人大常委会第四次会议决定免去秦刚兼任的外交部部长职务，任命王毅为外交部部长（主席令第八号），未说明原因。
+      cite: b08-gov-2023-07-25-order-8
+    - date: 2023-10-24
+      text: 全国人大常委会第六次会议免去秦刚的国务委员职务（主席令第十四号），与李尚福同日去职。
+      cite: b08-gov-2023-10-24-order-14
+    - date: 2024-02
+      text: 全国人大常委会公报称秦刚辞去全国人大代表职务，用的是“辞去”而不是“罢免”。
+      cite: b08-bbc-2024-07-18-third-plenum
+    - date: 2024-07-18
+      text: 二十届三中全会“接受秦刚同志辞职申请，免去秦刚同志中央委员会委员职务”，未提任何违纪问题。
+      cite: b08-wikisource-2024-07-18-20-3-plenum
+  life:
+    - h: 早年与外交部
+      from: 1966
+      to: 2014
+      text: >-
+        生于天津，籍贯河北怀来，1986 年入党，国际关系学院国际政治系毕业。1988 年起在北京外交人员服务局当中文秘书，1992 年进入外交部，长期在西欧司和驻英国使馆工作。
+        2005 年 1 月任新闻司副司长、外交部发言人，后任驻英国大使馆公使、新闻司司长。BBC 写道，他做发言人时多次言辞犀利地回击西方对中国的质疑，因此“被一些人称为‘战狼’”。
+      cites: [b08-xinhua-2023-03-13-state-councilor-cv, b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang]
+    - h: 礼宾司与驻美大使
+      from: 2015
+      to: 2022
+      text: >-
+        2015 年 1 月任礼宾司司长，2017 年兼部长助理，2018 年 9 月升副部长。BBC 指出，礼宾司长任上的他“被视为是深得习近平信赖的助手，多次陪同习近平外访”。
+        2021 年 7 月赴美出任驻美大使。2022 年 10 月当选二十届中央委员，12 月 30 日接替王毅任外交部部长，BBC 形容这是“火箭式”提拔。
+      cites: [b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang, wd-Q7216297]
+    - h: 外长与国务委员
+      from: 2023-01
+      to: 2023-06
+      text: >-
+        2023 年 3 月 7 日在十四届全国人大一次会议记者会上，他警告美国“再多的护栏也挡不住脱轨翻车”，并称“战狼外交”是“一个话语陷阱”。3 月 12 日人大任命他为国务委员，三个月内从副部长级升到副国级。
+        当时官方简历写他“现任中共二十届中央委员，国务委员、国务院党组成员，外交部部长”。
+      cites: [b08-mfa-2023-03-07-qin-presser, b08-xinhua-2023-03-13-state-councilor-cv, b08-bbc-2024-07-18-third-plenum]
+    - h: 消失与免职
+      from: 2023-06
+      to: 2023-10
+      text: >-
+        6 月下旬最后一次出席外事活动后，秦刚从公众视野消失，官方没有解释。7 月 25 日人大常委会突然开会免去其外长职务，外交部网站数小时内“删除了所有与秦刚有关的报道”。
+        他暂时保住了国务委员头衔，澳大利亚国立大学学者宋文笛当时对《卫报》说，这表明他的职业生涯可能结束了，“但他在政治上还没有死”。10 月 24 日，国务委员职务也被免去。
+      cites: [b08-bbc-2023-07-25-qin-gang, b08-gov-2023-07-25-order-8, b08-gov-2023-10-24-order-14]
+    - h: 婚外情报道
+      from: 2023-07
+      to: 2023-10
+      text: >-
+        网上早有他与一名女电视主播有染的传言。2023 年 9 月 19 日，据《华尔街日报》报道（联合早报转述），中共向高级官员通报，秦刚遭免职的正式原因是“生活作风问题”，调查发现他在驻美期间有婚外情，并有一个在美国出生的孩子，调查重点是是否损害国家安全。
+        BBC 另引《金融时报》称，对象是凤凰卫视前主持人傅晓田，孩子在美国代孕出生。上述说法均未获官方证实。
+      cites: [b08-zaobao-2023-09-19-qin-affair, b08-bbc-2023-10-26-li-qin, b08-bbc-2023-07-25-qin-gang]
+    - h: 辞职与下落
+      from: 2024
+      to: 2026
+      text: >-
+        2024 年 2 月他辞去全国人大代表，7 月三中全会以“辞职申请”免去其中央委员，公报仍称其为“同志”。芝加哥大学学者杨大利认为，这说明他的问题或许不会被视为犯罪；宋文笛则认为，秦刚的升迁与习近平捆绑在一起，让他体面退场是为了不让习近平难堪。
+        2024 年 9 月，据《华盛顿邮报》报道（德国之声转述），他名义上被安排到外交部下属世界知识出版社任低阶职务；维基百科汇总的《明报》报道则称出版社那人只是同名同姓，2026 年 3 月《明报》又称他已降为副部级并提前退休。官方没有回应任何一种说法。
+      cites: [b08-bbc-2024-07-18-third-plenum, b08-wikisource-2024-07-18-20-3-plenum, b08-dw-2024-09-09-qin-publisher, b08-wiki-qin-gang]
+  assess:
+    - voice: doc
+      quote: true
+      text: 全会决定，接受秦刚同志辞职申请，免去秦刚同志中央委员会委员职务。
+      cite: b08-wikisource-2024-07-18-20-3-plenum
+    - voice: zh
+      quote: true
+      text: 由于这两个举动都出自中国领导人，这一事件将被视为高层令人尴尬的用人失察。
+      cite: b08-bbc-2023-07-25-qin-gang
+    - voice: zh
+      quote: true
+      text: 也就是说，秦和习的形象在某种程度上是捆绑在一起的——没有办法在让习不出丑的情况下让秦出丑。
+      cite: b08-bbc-2024-07-18-third-plenum
+    - voice: zh
+      quote: true
+      text: 这些人即便是习近平的亲信，他需要的时候可以任意罢免
+      cite: b08-bbc-2023-10-26-li-qin
+  cites: [b08-xinhua-2023-03-13-state-councilor-cv, b08-gov-2023-07-25-order-8, b08-gov-2023-10-24-order-14, b08-wikisource-2024-07-18-20-3-plenum, b08-bbc-2024-07-18-third-plenum, b08-zaobao-2023-09-19-qin-affair, wd-Q7216297]
+
+- id: li-shangfu
+  name: 李尚福
+  pinyin: Lǐ Shàngfú
+  gender: m
+  ethnicity: 汉族
+  born: 1958-02
+  birthplace: 四川成都
+  origin: 江西兴国
+  education:
+    - { school: 国防科技大学, to: 1982 }
+    - { school: 重庆大学控制理论与控制工程专业, degree: 工学博士（在职） }
+  joinedParty: 1980-06
+  joinedWork: 1974-05
+  roles: [cmc, cc, minister, general, tiger]
+  status: detained
+  statusNote: 2026 年 5 月 7 日被军事法院以受贿罪、行贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁，不得减刑、假释。
+  tier: 1
+  headline: 国务委员兼国防部长（2023）、中央军委装备发展部部长（2017–2022）
+  ids: { wikidata: Q19825651 }
+  factions:
+    - f: rocket-equipment
+      cite: b08-bbc-2023-10-26-li-qin
+      quote: 路透社上月报道称，李尚福因涉嫌与装备采购和研发相关的腐败问题而受到调查。
+    - f: equipment-system
+      cite: b08-bbc-2026-zhang-youxia-analysis
+      quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
+  bio: >-
+    航天发射场出身的工程师将军，从西昌卫星发射中心主任一路升到总装备部副部长，2017 年接替张又侠任中央军委装备发展部部长，2022 年进入中央军委，2023 年 3 月出任国务委员兼国防部长。
+    上任半年即消失，2023 年 10 月被免职。官方后来公布，军委纪委早在 2023 年 8 月 31 日就对他立案，罪名是受贿、行贿，并称他“严重污染军队装备领域政治生态和行业领域风气”。2024 年被开除党籍、军籍，2026 年 5 月与前任魏凤和同日被判死缓、终身监禁。他的案子是 2023 年起席卷火箭军和装备系统的清洗的开端之一。
+  positions:
+    - { title: 西昌卫星发射中心主任, sys: army, from: 2003-12, cite: b08-wiki-li-shangfu }
+    - { title: 总装备部司令部参谋长, sys: army, from: 2013-09, to: 2014-12, cite: b08-wiki-li-shangfu }
+    - { title: 总装备部副部长, sys: army, from: 2014-12, to: 2016-01, cite: b08-wiki-li-shangfu }
+    - { title: 战略支援部队副司令员兼参谋长, sys: army, from: 2016-01, to: 2017-09, cite: b08-zaobao-2023-09-15-li }
+    - { title: 中央军委装备发展部部长, sys: army, from: 2017-09, to: 2022-10, cite: b08-zaobao-2023-09-15-li }
+    - { title: 中央军委委员, sys: army, from: 2022-10, to: 2023-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国务委员兼国防部长, sys: gov, from: 2023-03, to: 2023-10, cite: b08-gov-2023-10-24-order-14 }
+  fall:
+    - date: 2023-08-31
+      text: 军委纪委监委对李尚福严重违纪违法问题立案审查调查（2024 年 6 月通报时披露）。
+      cite: b08-gov-2024-06-27-li-shangfu-expelled
+    - date: 2023-10-24
+      text: 全国人大常委会免去其国务委员、国防部部长职务，并免去其国家中央军委委员职务，均未说明原因。
+      cite: b08-gov-2023-10-24-order-14
+    - date: 2024-06-27
+      text: 中央政治局会议决定开除党籍，移送军事检察机关；通报称他涉嫌受贿罪、行贿罪，此前已被开除军籍、取消上将军衔。
+      cite: b08-gov-2024-06-27-li-shangfu-expelled
+    - date: 2024-07-18
+      text: 二十届三中全会确认开除其党籍的处分。
+      cite: b08-wikisource-2024-07-18-20-3-plenum
+    - date: 2026-05-07
+      text: 军事法院一审以受贿罪、行贿罪数罪并罚，判处死刑缓期二年执行，期满减为无期徒刑后终身监禁，不得减刑、假释。
+      cite: b08-gov-2026-05-07-wei-li-sentenced
+  life:
+    - h: 航天发射场
+      from: 1958
+      to: 2013
+      text: >-
+        生于成都，籍贯江西兴国，1974 年参加工作，1980 年入党。1982 年从国防科技大学毕业，分配到西昌卫星发射中心，2003 年 12 月任中心主任，后任嫦娥二号任务发射场区指挥部指挥长；在职取得重庆大学工学博士学位。
+        BBC 称他是“一名航天工程师，职业生涯始于卫星和火箭发射中心”。
+      cites: [b08-wiki-li-shangfu, b08-xinhua-2023-03-13-state-councilor-cv, b08-bbc-2023-10-26-li-qin, b08-zaobao-2023-09-15-li]
+    - h: 总装与装备发展部
+      from: 2013
+      to: 2022
+      text: >-
+        2013 年 9 月接替调任酒泉卫星发射中心司令员的尚宏，任总装备部司令部参谋长，2014 年任总装备部副部长；2016 年 1 月军改后任新成立的战略支援部队副司令员兼参谋长。2017 年 9 月接替张又侠出任中央军委装备发展部部长，2018 年当选十三届全国人大代表，2019 年 7 月晋升上将。
+        2018 年，他领导的装备部门因购买俄罗斯战机和武器受到美国政府制裁。
+      cites: [b08-wiki-li-shangfu, b08-zaobao-2023-09-15-li, b08-bbc-2023-10-26-li-qin]
+    - h: 防长任上
+      from: 2022-10
+      to: 2023-08
+      text: >-
+        2022 年 10 月进入二十届中央军委，2023 年 3 月任国家中央军委委员和国务委员兼国防部长。6 月 4 日他首次出席香格里拉对话会，以“中国的新安全倡议”为题作大会发言，称民进党当局“挟洋谋独”、外部势力“以台制华”，如果有人胆敢把台湾从中国分裂出去，中国军队“不会有丝毫迟疑”。
+        答问环节被问及中美关系时，他表示对两军交流持开放态度，但“如果相互尊重都做不到，交流对话不会有好的效果”。BBC 后来写道，他在 2023 年 10 月被免职前两个月就突然从公共视野中消失。
+      cites: [b08-wikisource-2022-10-23-20-1-plenum, b08-xinhua-2023-03-11-cmc-announcement, b08-chinanews-2023-06-04-li-shangri-la, b08-chinanews-2023-06-04-li-shangri-la-qa, b08-bbc-2026-05-07-wei-li]
+    - h: 消失与装备系统调查
+      from: 2023-07
+      to: 2023-10
+      text: >-
+        2023 年 7 月，装备发展部罕见地公开征集“2017年10月以来装备采购招标评审活动中专家违规违纪问题线索”，联合早报指出这个时间点与李尚福接掌该部高度重合。
+        9 月，据路透社报道（法广转述），对他的调查与军事装备采购有关，他在 2017 至 2022 年领导的装备发展部另有八名高级官员也在接受调查。10 月 24 日他被免去全部国家职务，官方没有交代原因。
+        同年被撤换的秦刚和他都曾被视为习近平的亲信、都上任不到一年。新加坡学者庄嘉颖对 BBC 说：“这些人即便是习近平的亲信，他需要的时候可以任意罢免。”
+      cites: [b08-zaobao-2023-09-15-li, b08-rfi-2023-09-15-li-probe, b08-gov-2023-10-24-order-14, b08-xinhua-2023-10-24-li-cmc-removed, b08-bbc-2023-10-26-li-qin]
+    - h: 开除与判决
+      from: 2024
+      to: 2026
+      text: >-
+        2024 年 6 月 27 日的通报列出他对抗组织审查、违规为本人和他人谋取人事利益、收受巨额钱款并向他人行贿，开除党籍并移送军事检察机关，三中全会予以确认。
+        2026 年 5 月 7 日，军事法院对他和前任防长魏凤和同日宣判：魏凤和犯受贿罪，李尚福犯受贿罪、行贿罪，两人都被判死缓、剥夺政治权利终身、没收个人全部财产，缓刑期满减为无期徒刑后终身监禁。宋文笛分析，提拔李尚福的责任可以推给已被清洗的魏凤和，所以对他的处理远比对秦刚严厉。
+      cites: [b08-gov-2024-06-27-li-shangfu-expelled, b08-wikisource-2024-07-18-20-3-plenum, b08-gov-2026-05-07-wei-li-sentenced, b08-bbc-2024-07-18-third-plenum]
+  assess:
+    - voice: official
+      quote: true
+      text: 李尚福身为党和军队高级领导干部，背弃初心使命、丧失党性原则，其行为辜负党中央、中央军委信任重托，严重污染军队装备领域政治生态和行业领域风气
+      cite: b08-gov-2024-06-27-li-shangfu-expelled
+    - voice: zh
+      quote: true
+      text: 提拔李尚福的决定可以归咎于他的前任、前国防部长魏凤和（他已经被清洗了）。当一个人和他的政治靠山已经倒台时，踢他一脚就容易多了。
+      cite: b08-bbc-2024-07-18-third-plenum
+    - voice: zh
+      quote: true
+      text: 自上台以来，习近平已多次发起反腐运动，批评人士指出，这些行动同时也被用作清洗政治对手的工具。
+      cite: b08-bbc-2026-05-07-wei-li
+  cites: [b08-xinhua-2023-03-13-state-councilor-cv, b08-gov-2024-06-27-li-shangfu-expelled, b08-gov-2026-05-07-wei-li-sentenced, b08-bbc-2023-10-26-li-qin, b08-zaobao-2023-09-15-li, wd-Q19825651]
+
+- id: he-weidong
+  name: 何卫东
+  pinyin: Hé Wèidōng
+  gender: m
+  ethnicity: 汉族
+  born: 1957-05
+  origin: 江苏东台
+  education:
+    - { school: 陆军指挥学院, from: 1978, to: 1981 }
+  joinedParty: 1978-11
+  roles: [pb, cmc, cc, general, tiger]
+  status: purged
+  statusNote: 2025 年 10 月 17 日被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关，四中全会已确认；至今未见起诉或审判消息。
+  tier: 1
+  headline: 中央政治局委员、中央军委副主席（2022–2025）
+  ids: { wikidata: Q28409057 }
+  factions:
+    - f: fujian-generals
+      cite: b08-jamestown-2025-10-cronyism
+      quote: Many of the officers shared prior service ties in the Eastern Theater Command area and the former 31st Group Army, forming an improper network around He and Miao.
+      zh: 这些将领中许多人在东部战区地区和原第 31 集团军有共同服役经历，围绕何卫东和苗华形成了一个不正当的关系网。
+    - f: fujian
+      cite: b08-jamestown-2025-11-purification
+      quote: The article specifically called out He Weidong, Miao Hua, and He Hongjun, who enjoyed connections to Xi Jinping from his time as a Fujian provincial official
+      zh: 文章点名何卫东、苗华、何宏军，他们与习近平在福建任职时期就有交情。
+  bio: >-
+    在驻福建的第 31 集团军从侦察兵干到副军长，此后历任南京军区副参谋长、上海警备区司令员、西部战区陆军司令员、东部战区司令员。2022 年二十大上，他没有当过军委委员就直接进入政治局并出任中央军委副主席，被视为习近平破格提拔的“福建旧部”。
+    2025 年 3 月后从公众视野消失，10 月 17 日与苗华等九名上将同时被开除党籍军籍，成为文革后第一位在任上落马的现任军委副主席。分析人士多把他和苗华看成一个以第 31 集团军为纽带的网络，他的落马也让习近平用人的可信度受到质疑。
+  positions:
+    - { title: 陆军第 31 集团军参谋长, sys: army, from: 2007-06, to: 2008-07, cite: b08-wiki-he-weidong }
+    - { title: 陆军第 31 集团军副军长, sys: army, from: 2008-07, to: 2013-01, cite: b08-wiki-he-weidong }
+    - { title: 南京军区副参谋长, sys: army, from: 2013-01, to: 2013-07, cite: b08-wiki-he-weidong }
+    - { title: 江苏省军区司令员, sys: army, place: 江苏, from: 2013-07, to: 2014-03, cite: b08-wiki-he-weidong }
+    - { title: 上海警备区司令员, sys: army, place: 上海, from: 2014-03, to: 2016-05, cite: b08-wiki-he-weidong }
+    - { title: 上海市委常委, sys: party, place: 上海, from: 2015-02, to: 2016-05, cite: b08-wiki-he-weidong }
+    - { title: 西部战区副司令员兼战区陆军司令员, sys: army, from: 2016-05, to: 2019-12, cite: b08-wiki-he-weidong }
+    - { title: 东部战区司令员, sys: army, from: 2019-12, to: 2022, cite: b08-wiki-he-weidong }
+    - { title: 中央政治局委员、中共中央军委副主席, sys: party, from: 2022-10, to: 2025-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国家中央军委副主席, sys: army, from: 2023-03, to: 2025-10, cite: b08-xinhua-2023-03-11-cmc-announcement }
+  fall:
+    - date: 2025-10-17
+      text: 国防部宣布，经立案审查调查，何卫东与苗华等九名将领“严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大”，被开除党籍、军籍，移送军事检察机关；立案日期未公布。
+      cite: b08-mod-2025-10-17-nine-generals
+    - date: 2025-10-23
+      text: 二十届四中全会确认中央政治局此前给予何卫东开除党籍的处分。
+      cite: b08-wikisource-2025-10-23-20-4-plenum
+    - date: 2025-10-28
+      text: 全国人大常委会免去其国家中央军委副主席职务，由张升民接任。
+      cite: b08-xinhua-2025-10-28-zhang-shengmin
+  life:
+    - h: 第 31 集团军
+      from: 1972
+      to: 2013
+      text: >-
+        江苏东台人，1972 年 12 月在福建南平初中毕业后入伍，编入第 31 集团军第 91 师侦察连，1978 年入党并提干，1981 年陆军指挥学院毕业。此后在 31 集团军历任侦察参谋、侦察营教导员、91 师参谋长、92 摩步旅旅长、86 摩步师师长，2007 年任集团军参谋长，2008 年任副军长并晋升少将。
+      cites: [b08-wiki-he-weidong, b08-xinhua-2022-10-23-he-weidong-cv]
+    - h: 军区与战区
+      from: 2013
+      to: 2019
+      text: >-
+        2013 年升任南京军区副参谋长，随即转任江苏省军区司令员；2014 年任上海警备区司令员，2015 年 2 月进入上海市委常委会。2016 年军改后调任西部战区副司令员兼战区陆军司令员，2017 年 7 月晋升中将。
+      cites: [b08-wiki-he-weidong, b08-jamestown-2025-10-cronyism]
+    - h: 东部战区与破格进入军委
+      from: 2019
+      to: 2022
+      text: >-
+        2019 年 12 月晋升上将、任东部战区司令员，当时已 62 岁，接近副战区级退役年龄。2022 年他开始佩戴“中央军委联合作战指挥中心”臂章，9 月起不再以东部战区司令员身份露面。二十届一中全会上，他没有当过军委委员就直接成为政治局委员和军委副主席。
+        德国之声写道，“习近平提拔重用的军委副主席何卫东和军委政治工作部主任苗华都出身原31集团军”，而这支部队长期驻防厦门，与在福建工作 17 年的习近平渊源很深。
+      cites: [b08-wiki-he-weidong, b08-wikisource-2022-10-23-20-1-plenum, b08-dw-2026-01-why-xi]
+    - h: 军委副主席
+      from: 2022-10
+      to: 2025-03
+      text: >-
+        2023 年 3 月当选国家中央军委副主席。他在军委分管政治与纪律事务；2024 年 3 月两会上，他要求全军“贯彻军委主席负责制，深入推进政治整训、正风反腐，赓续人民军队纯洁光荣”。
+        詹姆斯敦基金会的文章指出，他在二十大后的人事和晋升推荐出了大问题，许多将领一提拔就被查出腐败。
+      cites: [b08-xinhua-2023-03-11-cmc-announcement, b08-xinhua-2024-03-05-pla-delegation, b08-jamestown-2025-04-he-weidong]
+    - h: 消失与开除
+      from: 2025-03
+      to: 2025-10
+      text: >-
+        2025 年 3 月两会后，他缺席了 4 月 2 日的军委首都义务植树、4 月 8 日的中央周边工作会议等场合。《华盛顿时报》《金融时报》相继报道他可能已被查，国防部发言人既不证实也不否认。
+        10 月 17 日国防部宣布他与苗华、何宏军、林向阳等九人被开除党籍军籍，10 月 23 日四中全会确认，10 月 28 日人大常委会免去其国家军委职务，主管纪检的张升民接任军委副主席。
+      cites: [b08-wiki-he-weidong, b08-rfi-2025-06-27-miao, b08-mod-2025-10-17-nine-generals, b08-wikisource-2025-10-23-20-4-plenum, b08-xinhua-2025-10-28-zhang-shengmin]
+    - h: 派系解读
+      from: 2025
+      to: 2026
+      text: >-
+        詹姆斯敦基金会认为，九名将领中许多人在东部战区和原第 31 集团军有共同服役经历，围绕何卫东和苗华形成了“不正当网络”，并追问：如果习近平连福建第 31 集团军的旧部都不能信任，他还能信任谁？
+        BBC 介绍了海外流行的“两派”说法：张又侠为首的“西北-装备系”与苗华、何卫东的“东南-政工系”相互争斗。德国之声则引熟悉体制者称，张又侠与何卫东之间存在相互制衡的关系，何卫东落马后这种平衡被打破。这些说法都没有官方证据。
+      cites: [b08-jamestown-2025-10-cronyism, b08-jamestown-2025-11-purification, b08-bbc-2026-zhang-youxia-analysis, b08-dw-2026-01-zhang-who]
+  assess:
+    - voice: official
+      quote: true
+      text: 经查，这9人严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+      cite: b08-mod-2025-10-17-nine-generals
+    - voice: scholar
+      quote: true
+      text: "The key question is this: if Xi Jinping can no longer trust the confidants who came up with him in the old 31st Group Army in Fujian Province, who can he still trust?"
+      zh: 关键问题是：如果习近平连在福建原第 31 集团军跟他一起成长起来的亲信都不能信任，他还能信任谁？
+      cite: b08-jamestown-2025-10-cronyism
+    - voice: scholar
+      quote: true
+      text: That was the same month that CMC Vice Chairman He Weidong—who has had a large role in organizing military exercises around Taiwan—was last seen in public, and he was likely purged then too.
+      zh: 同一个月，在组织环台军演中发挥重要作用的军委副主席何卫东最后一次公开露面，他很可能也在那时被清洗。
+      cite: b08-csis-2026-02-purges
+    - voice: zh
+      quote: true
+      text: 相比之下，三个月前何卫东落马时为“五宗罪”，且措辞和定性都要比张又侠弱得多。
+      cite: b08-bbc-2026-zhang-youxia-analysis
+  cites: [b08-xinhua-2022-10-23-he-weidong-cv, b08-mod-2025-10-17-nine-generals, b08-wikisource-2025-10-23-20-4-plenum, b08-xinhua-2025-10-28-zhang-shengmin, b08-wiki-he-weidong, b08-jamestown-2025-10-cronyism, wd-Q28409057]
+
+- id: zhang-youxia
+  name: 张又侠
+  pinyin: Zhāng Yòuxiá
+  gender: m
+  ethnicity: 汉族
+  born: 1950-07
+  birthplace: 北京
+  origin: 陕西渭南
+  education:
+    - { school: 军事学院基本系, from: 1984-09, to: 1986-07 }
+  joinedParty: 1969-05
+  roles: [pb, cmc, cc, general, tiger]
+  status: purged
+  statusNote: 2026 年 9 月 21 日被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关；开除党籍待中央全会追认，尚无起诉或审判消息。
+  tier: 1
+  headline: 中央政治局委员、中央军委副主席（2017–2026）
+  ids: { wikidata: Q705140 }
+  factions:
+    - f: army-princelings
+      cite: b08-bbc-2026-zhang-youxia-analysis
+      quote: 这位75岁的解放军最高现役将领、习近平的“红二代”陕西老乡突然倒台，让最了解中国政治的人士也感到震惊。
+    - f: shaanxi
+      cite: b08-jamestown-2025-11-purification
+      quote: Zhang Youxia is a putative member of the “Shaanxi gang,” which refers to officials who either grew up or spent portions of their career in Shaanxi Province.
+      zh: 张又侠被认为是“陕西帮”成员，这个说法指在陕西长大或在陕西工作过的官员。
+    - f: equipment-system
+      cite: b08-bbc-2026-zhang-youxia-analysis
+      quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
+    - f: zhang-liu
+      cite: b08-mod-2026-01-24-zhang-liu-probe
+      quote: 经党中央研究，决定对张又侠、刘振立立案审查调查。
+  bio: >-
+    开国上将张宗逊之子，两次参加对越作战，是解放军最后一批有实战经历的高级将领之一。历任第 13 集团军军长、沈阳军区司令员，2012 年起掌管总装备部和装备发展部，2017 年任中央军委副主席，2022 年以 72 岁超龄留任，排名仅次于习近平。
+    张、习两家父辈在西北野战军共事，他长期被看作习近平在军中最信任的人。2026 年 1 月 24 日突然与联合参谋部参谋长刘振立一同被立案，《解放军报》指他“严重践踏破坏军委主席负责制”；8 月被免去国家军委副主席，9 月被开除党籍军籍。CSIS 称这是习近平清洗解放军领导层“最戏剧性的一步”。
+  positions:
+    - { title: 陆军第十四集团军四十师师长, sys: army, from: 1990, to: 1994, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 陆军第十三集团军副军长, sys: army, from: 1994, to: 2000, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 陆军第十三集团军军长, sys: army, from: 2000, to: 2005, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 北京军区副司令员, sys: army, from: 2005, to: 2007, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 沈阳军区司令员, sys: army, from: 2007, to: 2012, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 中央军委委员、总装备部部长, sys: army, from: 2012, to: 2015, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 中央军委装备发展部部长, sys: army, from: 2015, to: 2017, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 中央政治局委员、中共中央军委副主席, sys: party, from: 2017-10, to: 2026-09, cite: b08-people-2017-10-25-zhang-youxia-cv }
+    - { title: 国家中央军委副主席, sys: army, to: 2026-08, cite: b08-xinhua-2026-08-28-zhang-liu-removed }
+  fall:
+    - date: 2026-01-24
+      text: 国防部宣布，张又侠、刘振立“涉嫌严重违纪违法，经党中央研究”，被立案审查调查。
+      cite: b08-mod-2026-01-24-zhang-liu-probe
+    - date: 2026-01-25
+      text: 《解放军报》社论称两人“严重践踏破坏军委主席负责制”，对军队战斗力建设“造成极大破坏”。
+      cite: b08-mod-2026-01-24-pla-daily-editorial
+    - date: 2026-08-28
+      text: 全国人大常委会免去其国家中央军委副主席职务，未说明原因，也未宣布接替人选。
+      cite: b08-xinhua-2026-08-28-zhang-liu-removed
+    - date: 2026-09-21
+      text: 经中央军委常务会议研究并报中央政治局会议审议，给予开除党籍处分，终止其二十大代表资格，移送军事检察机关；通报称他“搞团团伙伙”、收受巨额钱款，“涉案金额特别巨大”，此前已被开除军籍。
+      cite: b08-mod-2026-09-21-zhang-liu-expelled
+  life:
+    - h: 将门之子
+      from: 1950
+      to: 1979
+      text: >-
+        生于北京，籍贯陕西渭南。父亲张宗逊是中共开国上将，BBC 写道他“曾与习近平的父亲习仲勋并肩作战”；德国之声称两人父辈 1947 年在西北野战军共事，“习张两家可谓世交”，但又指出两人年轻时交集不多。
+        1968 年 12 月入伍，在陆军第十四军四十师从战士干起，次年入党。
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who]
+    - h: 两次对越作战
+      from: 1979
+      to: 1994
+      text: >-
+        1979 年对越战争时他在第 14 军 40 师任职，德国之声转引 2014 年中国媒体的报道说，他带兵迂回攻下阵地后被提升为团长；1984 年又以 119 团团长身份参加老山战役，同年升任副师长。1984 至 1986 年在军事学院基本系学习，1990 年任 40 师师长。
+        詹姆斯敦基金会指出，张又侠与刘振立是军委中仅有的两名有作战经历的成员，都打过 1984 年的老山之战。
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-dw-2026-01-zhang-who, b08-jamestown-2025-11-purification]
+    - h: 集团军与大军区
+      from: 1994
+      to: 2012
+      text: >-
+        1994 年任第十三集团军副军长，2000 年升军长；2005 年任北京军区副司令员，2007 年任沈阳军区司令员，2011 年晋升上将。2007 年起连任第十七、十八、十九届中央委员。
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-dw-2026-01-zhang-who]
+    - h: 总装备部
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年十八大前夕，他接替常万全任总装备部部长，因父亲曾任总后勤部部长而被称为“子承父业”；十八届一中全会进入中央军委。2015 年军改后任装备发展部部长，2017 年由李尚福接任。
+        德国之声指出，装备部门掌握巨额采购权，长期被视为“肥缺”；习近平后来下令彻查总装，但这把火“一直没烧到也曾任总装备部长的张又侠”。
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-dw-2026-01-zhang-who]
+    - h: 第一副主席
+      from: 2017
+      to: 2025
+      text: >-
+        2017 年十九届一中全会进入政治局、任中央军委副主席。2022 年二十大，他以 72 岁打破“七上八下”惯例留任，排名第一；德国之声称他被视为推动习近平在二十大连任的“主要功臣”。2023 年 10 月他在香山论坛上说，台湾问题是“中国核心利益中的核心”。
+        何卫东、苗华落马后，外界一度认为他在军中权势更大。
+      cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who, b08-xinhua-2023-10-30-zhang-xiangshan]
+    - h: 立案与开除
+      from: 2026-01
+      to: 2026-09
+      text: >-
+        2026 年 1 月 24 日国防部宣布对张又侠、刘振立立案，次日《解放军报》社论用一连串“严重”定性，称两人“严重践踏破坏军委主席负责制”。BBC 指出，这比对何卫东、苗华的“破坏”多了“践踏”二字，并把问题定为“政治和腐败问题”。
+        8 月 28 日人大常委会免去其国家军委副主席并终止其人大代表资格；9 月 21 日政治局会议决定开除党籍，通报称两人“政治问题和经济问题交织”。至此，2022 年产生的七人中央军委只剩习近平和张升民。
+      cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-bbc-2026-zhang-youxia-analysis, b08-xinhua-2026-08-28-zhang-liu-removed, b08-voa-2026-08-28-zhang-liu, b08-mod-2026-09-21-zhang-liu-expelled]
+    - h: 各方解读
+      from: 2026
+      to: 2026
+      text: >-
+        CSIS 的文章提到，据报道张又侠还被指控就中国核机密为美国中情局从事间谍活动，作者认为这一指控很可能站不住脚，只是向军官解释为何拿下一位受尊敬的将领的政治工具。BBC 引牛犇称，北京更可能是为正当化清洗而编造最重的罪名，真实原因只是腐败和不忠；台湾学者林颖佑对德国之声说，腐败指控只是清洗的借口。
+        自由亚洲电台在立案后不久引知情人士称，内部通报指两人“搞团团伙伙”，9 月的官方通报也用了这一说法。前中情局分析员韦德宁对美国之音说，同时被处理的其他军官可能反映出习近平在清除张又侠在军中的人脉。
+      cites: [b08-csis-2026-02-purges, b08-bbc-2026-zhang-youxia-analysis, b08-dw-2026-01-why-xi, b08-rfa-2026-01-27-zhang, b08-mod-2026-09-21-zhang-liu-expelled, b08-voa-2026-08-28-zhang-liu]
+  assess:
+    - voice: official
+      quote: true
+      text: 严重辜负党中央、中央军委信任重托，严重践踏破坏军委主席负责制，严重助长影响党对军队绝对领导、危害党的执政根基的政治和腐败问题
+      cite: b08-mod-2026-01-24-pla-daily-editorial
+    - voice: official
+      quote: true
+      text: 政治问题和经济问题交织，贪腐敛财与失职渎职并存，涉案金额特别巨大，性质极其严重，影响极为恶劣
+      cite: b08-mod-2026-09-21-zhang-liu-expelled
+    - voice: scholar
+      quote: true
+      text: The downfall of these two senior generals marks the most dramatic move yet in Xi Jinping's years-long campaign to gut the leadership of the People's Liberation Army (PLA).
+      zh: 这两名高级将领的倒台，是习近平多年来掏空解放军领导层的运动中迄今最戏剧性的一步。
+      cite: b08-csis-2026-02-purges
+    - voice: scholar
+      quote: true
+      text: Zhang was also accused of conducting espionage for the CIA regarding China's nuclear secrets. This charge is likely specious.
+      zh: 张又侠还被指控为中情局刺探中国核机密。这一指控很可能站不住脚。
+      cite: b08-csis-2026-02-purges
+    - voice: zh
+      quote: true
+      text: 牛犇认为，更可信的解释是北京为了正当化对张又侠的清洗，编造了最严重的罪名，即便真实原因只是严重的腐败和不忠。
+      cite: b08-bbc-2026-zhang-youxia-analysis
+  family:
+    - name: 张宗逊
+      rel: 父亲
+      text: 中共开国上将，曾任解放军总后勤部部长；BBC 称他曾与习近平之父习仲勋并肩作战。
+      cites: [b08-bbc-2026-01-24-zhang-youxia, b08-dw-2026-01-zhang-who]
+  cites: [b08-people-2017-10-25-zhang-youxia-cv, b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-mod-2026-09-21-zhang-liu-expelled, b08-bbc-2026-01-24-zhang-youxia, b08-csis-2026-02-purges, wd-Q705140]
+
+- id: miao-hua
+  name: 苗华
+  pinyin: Miáo Huá
+  gender: m
+  ethnicity: 汉族
+  born: 1955-11
+  birthplace: 福建福州
+  origin: 江苏如皋
+  education:
+    - { school: 国防科技大学管理工程专业 }
+  joinedParty: 1973-09
+  roles: [cmc, cc, general, tiger]
+  status: purged
+  statusNote: 2025 年 10 月 17 日被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关，四中全会已确认；至今未见起诉或审判消息。
+  tier: 1
+  headline: 中央军委委员、军委政治工作部主任（2017–2024）
+  ids: { wikidata: Q8317097 }
+  factions:
+    - f: fujian-generals
+      cite: b08-bbc-2026-zhang-youxia-analysis
+      quote: 另一方是苗华、何卫东为核心的“东南-政工系”，扎根福建第31集团军。
+    - f: fujian
+      cite: b08-jamestown-2025-11-purification
+      quote: The article specifically called out He Weidong, Miao Hua, and He Hongjun, who enjoyed connections to Xi Jinping from his time as a Fujian provincial official
+      zh: 文章点名何卫东、苗华、何宏军，他们与习近平在福建任职时期就有交情。
+  bio: >-
+    生于福州的陆军政工干部，前三十年几乎都在驻福建的第 31 集团军，此后转任兰州军区政委、海军政委，2015 年晋升海军上将，2017 年起任中央军委政治工作部主任、军委委员，掌管全军干部人事七年。
+    2024 年 11 月被停职检查，2025 年 10 月与何卫东等九名将领一同被开除党籍军籍。詹姆斯敦基金会认为，被查的九人中多数是在他主管人事期间晋升上将的，形成了以他和何卫东为中心的关系网；海外流行的说法则把他视为与张又侠“西北-装备系”对立的“东南-政工系”首领。
+  positions:
+    - { title: 陆军第 31 集团军政治部主任, sys: army, from: 1999-08, to: 2005-07, cite: b08-wiki-miao-hua }
+    - { title: 陆军第 12 集团军政治委员, sys: army, from: 2005-07, to: 2010-12, cite: b08-wiki-miao-hua }
+    - { title: 兰州军区政治部主任, sys: army, from: 2010-12, to: 2012-07, cite: b08-wiki-miao-hua }
+    - { title: 兰州军区政治委员, sys: army, from: 2014-06, to: 2014-12, cite: b08-wiki-miao-hua }
+    - { title: 海军政治委员, sys: army, from: 2014-12, to: 2017-08, cite: b08-wiki-miao-hua }
+    - { title: 中央军委政治工作部主任, sys: army, from: 2017-08, to: 2024-11, cite: b08-wiki-miao-hua }
+    - { title: 中共中央军委委员, sys: party, from: 2017-10, to: 2025-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国家中央军委委员, sys: army, from: 2018-03, to: 2025-06, cite: b08-xinhua-2025-06-27-miao-removed }
+  fall:
+    - date: 2024-11-28
+      text: 国防部宣布，苗华“涉嫌严重违纪，经党中央研究，决定对苗华停职检查”。
+      cite: b08-mod-2024-11-28-miao-suspended
+    - date: 2025-03-14
+      text: 中央军委政治工作部召开军人代表大会，以“涉嫌严重违纪违法”罢免其全国人大代表职务，这是官方首次提到他涉嫌“违法”。
+      cite: b08-rfi-2025-06-27-miao
+    - date: 2025-06-27
+      text: 全国人大常委会免去其国家中央军委委员职务。
+      cite: b08-xinhua-2025-06-27-miao-removed
+    - date: 2025-10-17
+      text: 国防部宣布苗华与何卫东等九人被开除党籍、军籍，移送军事检察机关。
+      cite: b08-mod-2025-10-17-nine-generals
+    - date: 2025-10-23
+      text: 二十届四中全会确认开除其党籍的处分。
+      cite: b08-wikisource-2025-10-23-20-4-plenum
+  life:
+    - h: 第 31 集团军的政工干部
+      from: 1969
+      to: 2005
+      text: >-
+        生于福州，籍贯江苏如皋，1969 年 12 月入伍，1973 年入党。此后长期在南京军区陆军第 31 集团军做政治工作，在 92 师 274 团从战士、班长干到营教导员；1983 年任 276 团政治处主任，1985 年任 91 师 271 团政委，1987 年回任 274 团政委，1991 年任 93 师政治部主任，1995 年任 91 师政委，1999 年 8 月任集团军政治部主任。国防科技大学管理工程专业本科毕业。
+        第 31 集团军长期驻防厦门，而习近平 1985 至 2002 年在福建工作了 17 年，德国之声称这支部队与习近平关系紧密，甚至被视为他的嫡系部队。
+      cites: [b08-wiki-miao-hua, b08-rfi-2025-06-27-miao, b08-dw-2026-01-why-xi]
+    - h: 兰州军区
+      from: 2005
+      to: 2014
+      text: >-
+        2005 年调任第 12 集团军政委，2010 年任兰州军区政治部主任，2012 年任副政委兼纪委书记，2014 年 6 月接替到龄退休的李长才任兰州军区政委。
+      cites: [b08-wiki-miao-hua]
+    - h: 海军上将
+      from: 2014
+      to: 2017
+      text: >-
+        2014 年 12 月，陆军出身的他调任海军政委；2015 年 7 月晋升海军上将，此时担任正大军区职不到两年、晋升中将不到四年，升迁之快在将领中少见。
+      cites: [b08-wiki-miao-hua]
+    - h: 掌管全军人事
+      from: 2017
+      to: 2024
+      text: >-
+        2017 年 8 月任中央军委政治工作部主任，同年 10 月进入中央军委，2018 年当选十三届全国人大代表和国家中央军委委员，2022 年连任。BBC 归纳的海外说法称，2022 年 67 岁的他未能升任军委副主席，资历更浅的何卫东得以上位。
+        詹姆斯敦基金会指出，他从 2017 年起掌管全军的干部管理和晋升，直到 2024 年 11 月被停职；同案九名将领中，除何卫东和王春宁外，其余六人都是在他主管人事期间从少将升为上将的。
+      cites: [b08-wiki-miao-hua, b08-jamestown-2025-10-cronyism, b08-wikisource-2022-10-23-20-1-plenum, b08-bbc-2026-zhang-youxia-analysis]
+    - h: 停职、罢免与开除
+      from: 2024-11
+      to: 2025-10
+      text: >-
+        2024 年 11 月 28 日，国防部在例行记者会上宣布他“涉嫌严重违纪”被停职检查，他是二十届军委中继李尚福之后第二个出事的成员。2025 年 3 月 14 日，军委政治工作部召开军人代表大会罢免其全国人大代表职务；法广注意到，5 月公布的人大常委会公报写的是“涉嫌严重违纪违法”，这是官方首次提到他涉嫌违法。6 月 27 日他被免去国家军委委员。
+        10 月 17 日，国防部发言人张晓刚宣布对何卫东、苗华、何宏军、王秀斌、林向阳、秦树桐、袁华智、王厚斌、王春宁九人开除党籍、移送军事检察机关，此前他们已被开除军籍；其中八名中央委员的处分由 10 月 23 日的四中全会确认。
+      cites: [b08-mod-2024-11-28-miao-suspended, b08-rfi-2025-06-27-miao, b08-xinhua-2025-06-27-miao-removed, b08-mod-2025-10-17-nine-generals, b08-wikisource-2025-10-23-20-4-plenum]
+    - h: 派系解读
+      from: 2017
+      to: 2026
+      text: >-
+        BBC 归纳海外流行的说法：2017 年苗华接掌政工后与分管政工的张又侠权力重叠；2022 年苗华未能升任军委副主席，“东南政工系”转而推出何卫东；2023 年李尚福落马，2024 年苗华被停职，被解读为张又侠的反击。
+        詹姆斯敦基金会则认为，九人中七人在原南京军区担任过要职，其中何卫东、苗华、林向阳、秦树桐、王秀斌都出自原第 31 集团军；何卫东、苗华、何宏军把持人事选拔，为自己的关系网谋利，而他们与习近平的福建渊源可能让他们自以为不可撼动。该文还指出，国防部长董军被认为与苗华有关系，至今没有进入军委。
+      cites: [b08-bbc-2026-zhang-youxia-analysis, b08-jamestown-2025-11-purification]
+  assess:
+    - voice: official
+      quote: true
+      text: 对何卫东、苗华、何宏军等人的严肃查处，再次表明了党中央、中央军委将反腐败斗争进行到底的坚定决心
+      cite: b08-mod-2025-10-17-nine-generals
+    - voice: scholar
+      quote: true
+      text: The nine appear to have formed an improper network centered around Miao Hua and He Weidong. Among them, Miao Hua advanced the fastest.
+      zh: 这九人似乎形成了一个以苗华和何卫东为中心的不正当网络，其中苗华升得最快。
+      cite: b08-jamestown-2025-10-cronyism
+    - voice: zh
+      quote: true
+      text: 这是中国官方首度明确提到苗华涉嫌“违法”。
+      cite: b08-rfi-2025-06-27-miao
+  cites: [b08-mod-2024-11-28-miao-suspended, b08-xinhua-2025-06-27-miao-removed, b08-mod-2025-10-17-nine-generals, b08-wikisource-2025-10-23-20-4-plenum, b08-rfi-2025-06-27-miao, b08-wiki-miao-hua, wd-Q8317097]
+
+- id: ma-xingrui
+  name: 马兴瑞
+  pinyin: Mǎ Xīngruì
+  gender: m
+  ethnicity: 汉族
+  born: 1959-10
+  birthplace: 黑龙江双鸭山
+  origin: 山东郓城
+  education:
+    - { school: 阜新矿业学院 }
+    - { school: 天津大学力学系, degree: 硕士 }
+    - { school: 哈尔滨工业大学, degree: 工学博士 }
+  joinedParty: 1988-01
+  joinedWork: 1988-03
+  roles: [pb, cc, prov, tiger]
+  status: purged
+  statusNote: 2026 年 7 月 14 日公布被开除党籍、公职，涉嫌受贿犯罪移送检察机关；尚无起诉或审判消息。
+  tier: 1
+  headline: 中央政治局委员（2022–2026）、新疆维吾尔自治区党委书记（2021–2025）
+  ids: { wikidata: Q8293914 }
+  factions:
+    - f: aerospace
+      cite: b08-bbc-2026-07-14-ma
+      quote: 马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰。
+  bio: >-
+    力学博士出身的航天技术官僚，曾任中国航天科技集团总经理、国家航天局局长，被称为“航天少帅”；2013 年转入政界，历任深圳市委书记、广东省长，2021 年接替陈全国任新疆党委书记，2022 年进入政治局。
+    2025 年 7 月调离新疆后再无新职公布，2026 年 4 月被宣布接受审查，7 月被“双开”。他是二十届政治局继何卫东、张又侠之后第三名落马的委员。与两位军委副主席不同，官方对他的指控集中在本人、亲属和身边人员的贪腐，没有“搞团团伙伙”一类政治罪名；学者多认为他的案子与航天军工系统的连环清查有关。
+  positions:
+    - { title: 中国空间技术研究院副院长, sys: other, from: 1996, cite: b08-bbc-2026-07-14-ma }
+    - { title: 中国航天科技集团公司总经理, sys: other, from: 2007, to: 2013-03, cite: b08-bbc-2026-07-14-ma }
+    - { title: 工业和信息化部副部长、国家航天局局长、国防科工局局长, sys: gov, from: 2013-03, to: 2013-11, cite: b08-xinhua-2021-12-25-ma-xinjiang }
+    - { title: 广东省委副书记、政法委书记、深圳市委书记, sys: party, place: 广东, from: 2013-11, to: 2017-01, cite: b08-xinhua-2021-12-25-ma-xinjiang }
+    - { title: 广东省省长, sys: gov, place: 广东, from: 2017-01, to: 2021-12, cite: wd-Q8293914 }
+    - { title: 新疆维吾尔自治区党委书记, sys: party, place: 新疆, from: 2021-12, to: 2025-07, cite: b08-xinhua-2021-12-25-ma-xinjiang }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, to: 2026-07, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央农村工作领导小组副组长, sys: party, to: 2026-04, cite: b08-xinhua-2026-04-03-ma-probe }
+  fall:
+    - date: 2026-04-03
+      text: 新华社宣布，中央政治局委员、中央农村工作领导小组副组长马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委审查调查。
+      cite: b08-xinhua-2026-04-03-ma-probe
+    - date: 2026-06
+      text: 全国人大代表资格被终止。
+      cite: b08-zaobao-2026-07-14-ma
+    - date: 2026-07-14
+      text: 新华社公布，6 月 30 日政治局会议审议通过中纪委报告，给予马兴瑞开除党籍、开除公职处分，通报称他“搞权色、钱色交易”“大搞家族腐败”，涉嫌受贿犯罪移送检察机关。
+      cite: b08-xinhua-2026-07-14-ma-expelled
+  life:
+    - h: 力学博士
+      from: 1959
+      to: 1996
+      text: >-
+        籍贯山东郓城，生于东北。1977 年恢复高考后考入阜新矿业学院，后在天津大学读力学硕士、在哈尔滨工业大学读博士，是国家学位制度建立后培养的首批博士之一。1988 年入党、留哈工大任教，34 岁成为该校最年轻的博士生导师，37 岁任副校长。
+      cites: [b08-zaobao-2026-04-03-ma, b08-bbc-2026-07-14-ma, b08-xinhua-2022-10-23-ma-xingrui-cv]
+    - h: 航天少帅
+      from: 1996
+      to: 2013
+      text: >-
+        1996 年调任中国空间技术研究院（航天五院）副院长，后入中国航天科技集团，2007 年接替张庆伟任总经理，任中国载人航天工程副总指挥，参与“神舟”飞船研制，被誉为“航天少帅”。2008 年当选央视年度十大经济人物。
+        联合早报引台湾学者丁树范称，他 2000 年还被聘为总装备部科技委兼职委员。
+      cites: [b08-bbc-2026-07-14-ma, b08-zaobao-2026-04-03-ma]
+    - h: 部委与广东
+      from: 2013
+      to: 2021
+      text: >-
+        2012 年当选十八届中央委员；2013 年 3 月任工信部副部长、国家航天局局长、国防科工局局长，同年 11 月空降广东任省委副书记、政法委书记，后兼深圳市委书记，2017 年 1 月任广东省长。BBC 写道，推动粤港澳大湾区成为国家战略等都发生在他任上。
+      cites: [b08-xinhua-2021-12-25-ma-xinjiang, b08-bbc-2026-07-14-ma, wd-Q8293914]
+    - h: 新疆
+      from: 2021-12
+      to: 2025-07
+      text: >-
+        2021 年 12 月 25 日接替陈全国任新疆党委书记，次年进入二十届政治局。BBC 引《星岛日报》说，他“改变了之前的杀气腾腾氛围”，以发展经济、改善民生为主要任务。
+        2025 年 7 月 1 日由陈小江接任，官方只说他“将另有任用”。
+      cites: [b08-xinhua-2021-12-25-ma-xinjiang, b08-wikisource-2022-10-23-20-1-plenum, b08-bbc-2026-07-14-ma, b08-xinhua-2025-07-01-ma-leaves-xinjiang]
+    - h: 消失与落马
+      from: 2025-07
+      to: 2026-07
+      text: >-
+        离开新疆后他仍出席了九三阅兵和四中全会，但 2025 年 11 月 29 日政治局集体学习起接连缺席。他任深圳市委书记时的“大秘”郭永航 2026 年 3 月落马。4 月 3 日官方宣布他被查，才首次披露他离疆后任中央农村工作领导小组副组长。
+        7 月 14 日的通报称他纵容身边人员违纪、帮助亲属低价购房、“大搞家族腐败”，本人或伙同亲属、特定关系人收受巨额财物。
+      cites: [b08-bbc-2026-07-14-ma, b08-zaobao-2026-07-14-ma, b08-xinhua-2026-04-03-ma-probe, b08-xinhua-2026-07-14-ma-expelled]
+    - h: 解读
+      from: 2026
+      to: 2026
+      text: >-
+        台湾学者寇健文对联合早报说，三名落马政治局委员中马兴瑞“情节最为单纯”，对他的指控没有影射搞团团伙伙等政治问题；他对中央社说，“航天帮”如今只剩袁家军还在，像是一起集体大案。学者陈澄对 BBC 说，他的落马意味着军工反腐已延伸到国防工业最高层，因为航天与火箭军关系极为紧密。宋文笛则提醒，反腐容易成为政治工具。
+      cites: [b08-zaobao-2026-07-14-ma, b08-cna-2026-04-04-ma, b08-bbc-2026-07-14-ma]
+  assess:
+    - voice: official
+      quote: true
+      text: 马兴瑞完全背离党性原则，严重违背党中央对高级干部提出的政治要求，其行为严重违反党的纪律，构成职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手
+      cite: b08-xinhua-2026-07-14-ma-expelled
+    - voice: zh
+      quote: true
+      text: 相比此前《解放军报》批张又侠“严重践踏破坏军委主席负责制”，对马兴瑞的指控主要集中在他个人、亲属和部下的贪腐问题
+      cite: b08-zaobao-2026-07-14-ma
+    - voice: zh
+      quote: true
+      text: 「航天幫」中只剩重慶市委書記袁家軍還在，顯示這是集體大案
+      cite: b08-cna-2026-04-04-ma
+    - voice: zh
+      quote: true
+      text: 马的落马将意味着这场行动已经延伸至中国国防工业的最高层级重量级人物
+      cite: b08-bbc-2026-07-14-ma
+  family:
+    - name: 马兴全
+      rel: 弟弟
+      text: 联合早报转述媒体报道称，马兴瑞在广东任职期间不少广东企业到黑龙江双鸭山投资，而其胞弟马兴全时任双鸭山市人大代表。官方通报只笼统指他纵容亲属谋利、“大搞家族腐败”，未点名。
+      cites: [b08-zaobao-2026-07-14-ma, b08-xinhua-2026-07-14-ma-expelled]
+  cites: [b08-xinhua-2022-10-23-ma-xingrui-cv, b08-xinhua-2021-12-25-ma-xinjiang, b08-xinhua-2026-04-03-ma-probe, b08-xinhua-2026-07-14-ma-expelled, b08-bbc-2026-07-14-ma, b08-zaobao-2026-04-03-ma, wd-Q8293914]
+
+- id: zhang-shengmin
+  name: 张升民
+  pinyin: Zhāng Shēngmín
+  gender: m
+  ethnicity: 汉族
+  born: 1958-08
+  origin: 陕西武功
+  education:
+    - { school: 中央党校, degree: 研究生 }
+  joinedParty: 1979-07
+  roles: [cmc, cc, ccdi, general]
+  status: active
+  statusNote: 中央军委副主席；张又侠、刘振立被免职后，他是中央军委中除习近平外唯一在任的成员；2026 年 7 月起不再兼任军委纪委书记。
+  tier: 1
+  headline: 中央军委副主席（2025– ）、中央军委纪委书记（2017–2026）
+  ids: { wikidata: Q19825604 }
+  factions:
+    - f: shaanxi
+      cite: b08-dw-2025-10-23-zhang-shengmin
+      quote: 张升民来自陕西省，这是习近平的祖籍，习近平在那里有深厚的家族和政治人脉。
+  bio: >-
+    政工出身的火箭军上将，在第二炮兵当过多个导弹基地的政委和政治部主任，2017 年起任中央军委纪委书记，主持了 2023 年以来对火箭军、装备系统直至军委成员的整肃。
+    他曾任职的二炮和后勤保障部都是反腐重点，本人却未受波及。2025 年 10 月四中全会增补为中央军委副主席（未进政治局），接替被开除的何卫东；2026 年张又侠、刘振立落马后，二十届中央军委只剩他和习近平两人。2026 年 7 月由张曙光接任军委纪委书记。
+  positions:
+    - { title: 第二炮兵基地政治部主任、政治委员, sys: army, from: 2004-06, to: 2012-06, cite: b08-wiki-zhang-shengmin }
+    - { title: 第二炮兵指挥学院政治委员, sys: army, from: 2012-06, to: 2013-09, cite: b08-wiki-zhang-shengmin }
+    - { title: 第二炮兵政治部主任, sys: army, from: 2014-12, to: 2015-11, cite: b08-zaobao-2025-10-23-fourth-plenum }
+    - { title: 中央军委训练管理部政治委员, sys: army, from: 2015-11, to: 2016-07, cite: b08-wiki-zhang-shengmin }
+    - { title: 中央军委后勤保障部政治委员, sys: army, from: 2016-07, to: 2017-01, cite: b08-wiki-zhang-shengmin }
+    - { title: 中央军委纪委书记, sys: army, from: 2017-01, to: 2026-07, cite: b08-zaobao-2026-07-03-zhang-shuguang }
+    - { title: 中央纪委副书记, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中共中央军委委员, sys: party, from: 2017-10, to: 2025-10, cite: b08-wiki-zhang-shengmin }
+    - { title: 中共中央军委副主席, sys: party, from: 2025-10, cite: b08-wikisource-2025-10-23-20-4-plenum }
+    - { title: 国家中央军委副主席, sys: army, from: 2025-10, cite: b08-xinhua-2025-10-28-zhang-shengmin }
+  life:
+    - h: 兰州军区政工
+      from: 1978
+      to: 2004
+      text: >-
+        陕西武功人，1978 年 2 月入伍，1979 年入党。在陆军第四十七军一四一师从炮兵团指挥连战士干起，当过火箭炮营排长，此后一直做政治工作，历任团、师政治机关干事、股长，兰州军区政治部政研室副主任，总政治部办公厅政研室主任。中央党校研究生学历。
+        德国之声引大西洋理事会学者宋文迪说，他来自习近平的祖籍陕西，这可能加深了习近平对他的信任；詹姆斯敦基金会则把他归入军中的“陕西帮”。
+      cites: [b08-wiki-zhang-shengmin, b08-xinhua-2025-10-23-zhang-shengmin-cv, b08-dw-2025-10-23-zhang-shengmin, b08-jamestown-2025-11-purification]
+    - h: 第二炮兵
+      from: 2004
+      to: 2015
+      text: >-
+        2004 年转入第二炮兵，先后任湖南怀化 55 基地政治部主任，云南昆明 53 基地、青海西宁 56 基地政委，2012 年任二炮指挥学院政委，2014 年底任第二炮兵政治部主任。联合早报指出，他曾在时任二炮司令员魏凤和领导下工作。
+      cites: [b08-wiki-zhang-shengmin, b08-zaobao-2025-10-23-fourth-plenum]
+    - h: 军改与纪委书记
+      from: 2015
+      to: 2022
+      text: >-
+        2015 年军改中任新组建的军委训练管理部首任政委，2016 年任后勤保障部政委并晋升中将，2017 年 1 月任中央军委纪委书记。同年十九大当选中央纪委副书记、进入中央军委，并晋升上将；2022 年二十大连任。
+        德国之声指出，他待过的火箭军（二炮）和后勤保障部都是后来习近平军队反腐的重点，他本人却没有受到波及。
+      cites: [b08-wiki-zhang-shengmin, b08-zaobao-2025-10-23-fourth-plenum, b08-wikisource-2022-10-23-20-1-plenum, b08-dw-2025-10-23-zhang-shengmin]
+    - h: 主持清洗
+      from: 2023
+      to: 2025
+      text: >-
+        联合早报写道，他担任军委纪委书记超过八年，“操盘查处了一大批涉嫌腐败的高级将领”。2025 年 3 月两会上，他说军队纪检机关要“持续加压加力纵深推进正风肃纪反腐”。
+        德国之声引大西洋理事会学者宋文迪说，在过去两年对二炮的清洗中，他对习近平的个人忠诚得到彻底检验。
+      cites: [b08-zaobao-2025-10-23-fourth-plenum, b08-xinhua-2025-03-06-pla-delegation, b08-dw-2025-10-23-zhang-shengmin]
+    - h: 军委副主席
+      from: 2025-10
+      to: 2026
+      text: >-
+        2025 年 10 月 23 日四中全会增补他为中央军委副主席，他是这次全会唯一获提拔的军队高级将领；10 月 28 日人大常委会任命他为国家军委副主席，接替何卫东。联合早报指出，2022 年产生的七人军委此时只剩四人，全会也没有增补新委员；按惯例全会不增补政治局委员，他能否入局要等 2027 年二十一大。CSIS 称军委副主席不兼政治局委员是毛以后少有的例外。12 月 27 日，人大常委会批准他兼任解放军选举委员会副主任。
+        2026 年 3 月两会上，他称人民军队“在反腐败斗争中经受革命性锻造”，要求全军“坚决听习主席指挥、对习主席负责、让习主席放心”。7 月 3 日他主持上将晋衔仪式，宣读习近平签署的命令，官方同时首次披露陆军纪委书记张曙光已接任军委纪委书记；联合早报指出，张曙光 2017 年就在他手下任军委纪委监察局局长。
+      cites: [b08-wikisource-2025-10-23-20-4-plenum, b08-zaobao-2025-10-23-fourth-plenum, b08-xinhua-2025-10-28-zhang-shengmin, b08-csis-2026-02-purges, b08-wiki-zhang-shengmin, b08-mod-2026-03-05-zhang-shengmin-npc, b08-zaobao-2026-07-03-zhang-shuguang]
+    - h: 仅存的将领
+      from: 2026-01
+      to: 2026-10
+      text: >-
+        2026 年 1 月张又侠、刘振立被查后，CSIS 指出中央军委已不能作为有效的决策机构运转，实际只剩习近平和这位“反腐沙皇”；军委里不再有作战系统出身的领导人，而他是政工干部，难以统领联合作战和跨战区作战。德国之声也指出他缺乏实战经验。
+        8 月 28 日两人被正式免去国家军委职务，美国之音写道，国家中央军委公开在任的成员只剩习近平和张升民，官方没有宣布接替人选。詹姆斯敦基金会 2025 年 11 月曾认为军中“陕西帮”在派系角力中占了上风；此后被该文列入这一圈子的张又侠、刘振立相继落马，留在军委的只有他一人。
+      cites: [b08-csis-2026-02-purges, b08-voa-2026-08-28-zhang-liu, b08-dw-2025-10-23-zhang-shengmin, b08-jamestown-2025-11-purification]
+  assess:
+    - voice: zh
+      quote: true
+      text: 过去两年对二炮的清洗中，他对习近平的个人忠诚得到彻底检验，二炮是腐败的一个主要温床。
+      cite: b08-dw-2025-10-23-zhang-shengmin
+    - voice: zh
+      quote: true
+      text: 分析人士认为，张升民担任中央军委纪委书记超过八年，操盘查处了一大批涉嫌腐败的高级将领。
+      cite: b08-zaobao-2025-10-23-fourth-plenum
+    - voice: scholar
+      quote: true
+      text: Besides Xi, only Vice Chairman General Zhang Shengmin—the officer overseeing the investigations that have ensnared all of his erstwhile CMC colleagues—has been left untouched.
+      zh: 除习近平外，只有军委副主席张升民上将安然无恙——正是他在主持那些把昔日军委同僚一网打尽的调查。
+      cite: b08-csis-2026-02-purges
+    - voice: scholar
+      quote: true
+      text: Vice Chairman Zhang Shengmin is a political commissar and is ill equipped to oversee joint and cross-theater operations.
+      zh: 军委副主席张升民是政工干部，难以统领联合作战和跨战区作战。
+      cite: b08-csis-2026-02-purges
+  cites: [b08-xinhua-2025-10-23-zhang-shengmin-cv, b08-wikisource-2025-10-23-20-4-plenum, b08-xinhua-2025-10-28-zhang-shengmin, b08-zaobao-2025-10-23-fourth-plenum, b08-dw-2025-10-23-zhang-shengmin, b08-wiki-zhang-shengmin, wd-Q19825604]
+
+- id: liu-zhenli
+  name: 刘振立
+  pinyin: Liú Zhènlì
+  gender: m
+  ethnicity: 汉族
+  born: 1964-08
+  birthplace: 河北栾城
+  joinedParty: 1984-04
+  roles: [cmc, cc, general, tiger]
+  status: purged
+  statusNote: 2026 年 9 月 21 日被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关；开除党籍待中央全会追认，尚无起诉或审判消息。
+  tier: 1
+  headline: 中央军委委员、联合参谋部参谋长（2023–2026）
+  ids: { wikidata: Q10897586 }
+  factions:
+    - f: zhang-liu
+      cite: b08-mod-2026-01-24-zhang-liu-probe
+      quote: 经党中央研究，决定对张又侠、刘振立立案审查调查。
+    - f: shaanxi
+      cite: b08-jamestown-2025-11-purification
+      quote: Beyond Zhang, it also includes Xi Jinping himself, as well as CMC member Zhang Shengmin (张升民), and Liu Zhenli (刘振立)
+      zh: 除张又侠外，“陕西帮”还包括习近平本人，以及军委委员张升民和刘振立。
+  bio: >-
+    侦察兵出身的陆军将领，1986 年参加对越轮战并立一等功，是解放军最后一批有实战经历的高级将领之一。历任第 65、第 38 集团军军长、武警参谋长、首任陆军参谋长和陆军司令员，2022 年进入中央军委，2023 年起任联合参谋部参谋长，负责全军作战筹划和联合作战指挥。
+    2026 年 1 月与张又侠同日被立案，8 月被免去国家军委委员，9 月被开除党籍军籍。CSIS 指出，两人的落马抹去了中央军委仅有的实战经验；此后解放军已没有在任的陆军上将。
+  positions:
+    - { title: 陆军第六十五集团军参谋长, sys: army, from: 2009-12, to: 2012-02, cite: b08-wiki-liu-zhenli }
+    - { title: 陆军第六十五集团军军长, sys: army, from: 2012-02, to: 2014-03, cite: b08-wiki-liu-zhenli }
+    - { title: 陆军第三十八集团军军长, sys: army, from: 2014-03, to: 2015-07, cite: b08-wiki-liu-zhenli }
+    - { title: 武警部队参谋长, sys: army, from: 2015-07, to: 2015-12, cite: b08-wiki-liu-zhenli }
+    - { title: 陆军参谋长, sys: army, from: 2015-12, to: 2021-06, cite: b08-wiki-liu-zhenli }
+    - { title: 陆军司令员, sys: army, from: 2021-06, to: 2023-03, cite: b08-wiki-liu-zhenli }
+    - { title: 中共中央军委委员, sys: party, from: 2022-10, to: 2026-09, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央军委联合参谋部参谋长, sys: army, from: 2023-03, to: 2026-01, cite: b08-wiki-liu-zhenli }
+    - { title: 国家中央军委委员, sys: army, from: 2023-03, to: 2026-08, cite: b08-xinhua-2026-08-28-zhang-liu-removed }
+  fall:
+    - date: 2026-01-24
+      text: 国防部宣布，张又侠、刘振立涉嫌严重违纪违法，经党中央研究，被立案审查调查。
+      cite: b08-mod-2026-01-24-zhang-liu-probe
+    - date: 2026-08-28
+      text: 全国人大常委会免去其国家中央军委委员职务，未说明原因，也未宣布接替人选。
+      cite: b08-xinhua-2026-08-28-zhang-liu-removed
+    - date: 2026-09-21
+      text: 经中央军委常务会议研究并报中央政治局会议审议，给予开除党籍处分，终止其二十大代表资格，移送军事检察机关；此前已被开除军籍。
+      cite: b08-mod-2026-09-21-zhang-liu-expelled
+  life:
+    - h: 侦察兵与两山轮战
+      from: 1983
+      to: 1990
+      text: >-
+        河北栾城人，1983 年 9 月入伍，编入陆军第 112 师侦察连，1984 年入党。1986 年 4 月 30 日起作为第十二侦察大队一员编入兰州军区对越轮战部队，参加两山战役，在前线一年多，击退越军 36 次进攻，获一等战功。
+        詹姆斯敦基金会指出，他与张又侠是军委里仅有的两名有作战经历的人，两人当连长时都打过老山之战（该文写作 1984 年），亲眼见过解放军面对人数更少的越军时表现不佳；文章认为，这种亲身经历可能让他们在筹划对台作战时更倾向于联合火力打击。
+      cites: [b08-wiki-liu-zhenli, b08-jamestown-2025-11-purification]
+    - h: 北京军区的集团军
+      from: 1990
+      to: 2015
+      text: >-
+        此后历任学员、排长、副连长、连长、副营职参谋、营长、副处长、处长、旅参谋长、军炮兵指挥部主任，升任第 38 集团军 112 机械化步兵师师长。2009 年 12 月任北京军区第 65 集团军参谋长，2012 年 2 月任军长，2014 年 3 月调任第 38 集团军军长。
+      cites: [b08-wiki-liu-zhenli]
+    - h: 武警与陆军
+      from: 2015
+      to: 2023
+      text: >-
+        2015 年 7 月任武警部队参谋长，同年 12 月军改时进入新组建的陆军领导机构，任首任陆军参谋长。2021 年 6 月升任陆军司令员，次月晋升上将；2022 年 10 月二十届一中全会进入中央军委。
+      cites: [b08-wiki-liu-zhenli, b08-wikisource-2022-10-23-20-1-plenum]
+    - h: 联合参谋部
+      from: 2023
+      to: 2026-01
+      text: >-
+        2023 年 3 月调任中央军委联合参谋部参谋长，并在十四届全国人大一次会议上当选国家中央军委委员。同年 10 月出席张又侠致辞的香山论坛开幕式。
+        2025 年 3 月两会上，他在解放军代表团称过去一年“面对外部压力加大、内部困难增多的复杂严峻形势”，要求持续深化政治整训、聚力提高备战打仗质效，“坚定灵活开展军事斗争，坚决完成党中央、中央军委和习主席赋予的各项任务”。
+      cites: [b08-wiki-liu-zhenli, b08-xinhua-2023-03-11-cmc-announcement, b08-xinhua-2023-10-30-zhang-xiangshan, b08-xinhua-2025-03-06-pla-delegation]
+    - h: 落马
+      from: 2026-01
+      to: 2026-09
+      text: >-
+        2026 年 1 月 24 日与张又侠同时被立案，国防部只说“经党中央研究”。次日《解放军报》社论把两人并列，称他们“严重践踏破坏军委主席负责制”“严重影响军委班子形象威信”，对军队政治建军、政治生态和战斗力建设“造成极大破坏”。8 月 28 日人大常委会免去他的国家军委委员职务并终止其人大代表资格；美国之音指出，此时官方仍未公开免去两人的党内军委职务。9 月 21 日被开除党籍军籍，通报称两人“搞团团伙伙，对党不忠诚不老实”。
+      cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-mod-2026-01-24-pla-daily-editorial, b08-xinhua-2026-08-28-zhang-liu-removed, b08-voa-2026-08-28-zhang-liu, b08-mod-2026-09-21-zhang-liu-expelled]
+    - h: 解读
+      from: 2026
+      to: 2026
+      text: >-
+        BBC 分析指出，《解放军报》社论特意写了对“战斗力建设造成极大破坏”，对何卫东、苗华则没有这一条：苗华长期负责政工，而刘振立作为总参谋长负责具体的作战指挥，问题直接触及备战打仗的核心能力。BBC 还指出，他落马后解放军自实行军衔制以来首次没有一名陆军上将，剩下的四名上将分属火箭军、海军和空军。
+        CSIS 认为，张、刘两人的倒台让军委失去了仅有的实战经验；联合参谋部等全军级关键部门也出现了空缺或刚刚补人的情况，军委里已不再有作战系统出身的领导人。
+      cites: [b08-bbc-2026-zhang-youxia-analysis, b08-csis-2026-02-purges]
+  assess:
+    - voice: official
+      quote: true
+      text: 严重违反政治纪律和政治规矩，搞团团伙伙，对党不忠诚不老实
+      cite: b08-mod-2026-09-21-zhang-liu-expelled
+    - voice: scholar
+      quote: true
+      text: Zhang Youxia and Liu Zhenli rose to their roles on the CMC in part thanks to their rare experience fighting on the battlefield. Their downfall has wiped that from the CMC.
+      zh: 张又侠和刘振立能进入军委，部分是因为他们少有的实战经历。他们的倒台把这点经验从军委中抹去了。
+      cite: b08-csis-2026-02-purges
+    - voice: zh
+      quote: true
+      text: 苗华长期负责政工，而刘振立作为总参谋长，负责具体的作战指挥
+      cite: b08-bbc-2026-zhang-youxia-analysis
+  cites: [b08-mod-2026-01-24-zhang-liu-probe, b08-xinhua-2026-08-28-zhang-liu-removed, b08-mod-2026-09-21-zhang-liu-expelled, b08-wiki-liu-zhenli, b08-csis-2026-02-purges, b08-bbc-2026-zhang-youxia-analysis, wd-Q10897586]

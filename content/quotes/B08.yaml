@@ -1,0 +1,73 @@
+# B08: quotes, person id → list. Every text is checked verbatim against its cite.
+qin-gang:
+  - text: 如果美方不踩刹车，继续沿着错误道路狂飙下去，再多的护栏也挡不住脱轨翻车，必然陷入冲突对抗。
+    cite: b08-mfa-2023-03-07-qin-presser
+    kind: interview
+    date: 2023-03-07
+    occasion: 十四届全国人大一次会议记者会，首次以外长身份回答中外记者提问
+    star: true
+  - text: 其实，所谓“战狼外交”就是一个话语陷阱，制造这个话语陷阱的人，要么不懂中国和中国外交，要么无视事实，别有用心。
+    cite: b08-mfa-2023-03-07-qin-presser
+    kind: interview
+    date: 2023-03-07
+    occasion: 同一场记者会，回答关于“战狼外交”的提问
+  - text: 中国外交有足够的厚道与善意，但当豺狼挡道、恶狼来袭，中国的外交官必须“与狼共舞”，保家卫国。
+    cite: b08-mfa-2023-03-07-qin-presser
+    kind: interview
+    date: 2023-03-07
+    occasion: 同一场记者会，回答关于“战狼外交”的提问
+  - text: 台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础，是中美关系第一条不可跨越的红线。
+    cite: b08-mfa-2023-03-07-qin-presser
+    kind: interview
+    date: 2023-03-07
+    occasion: 同一场记者会，谈中美关系
+li-shangfu:
+  - text: 如果有人胆敢把台湾从中国分裂出去，中国军队不会有丝毫迟疑，不畏惧任何对手，不管付出多大代价，都将坚决维护国家主权和领土完整。
+    cite: b08-chinanews-2023-06-04-li-shangri-la
+    kind: public
+    date: 2023-06-04
+    occasion: 第二十届香格里拉对话会大会发言，他作为防长的首次多边亮相
+    star: true
+  - text: 如果相互尊重都做不到，交流对话不会有好的效果。
+    cite: b08-chinanews-2023-06-04-li-shangri-la-qa
+    kind: interview
+    date: 2023-06-04
+    occasion: 香格里拉对话会发言后回答中美防务交流的提问
+he-weidong:
+  - text: 贯彻军委主席负责制，深入推进政治整训、正风反腐，赓续人民军队纯洁光荣
+    cite: b08-xinhua-2024-03-05-pla-delegation
+    kind: public
+    date: 2024-03-05
+    occasion: 十四届全国人大二次会议解放军和武警部队代表团全体会议发言
+    star: true
+zhang-youxia:
+  - text: 台湾问题是中国核心利益中的核心，一个中国原则是国际社会的普遍共识，无论谁想把台湾以任何形式从中国分裂出去，中国军队都决不答应、决不手软。
+    cite: b08-xinhua-2023-10-30-zhang-xiangshan
+    kind: public
+    date: 2023-10-30
+    occasion: 第十届北京香山论坛开幕式致辞，当时防长李尚福已被免职
+    star: true
+  - text: 全面深入贯彻军委主席负责制，抓好民主集中制贯彻执行，推进政治整训走深走实。
+    cite: b08-xinhua-2024-03-05-pla-delegation
+    kind: public
+    date: 2024-03-05
+    occasion: 十四届全国人大二次会议解放军和武警部队代表团全体会议发言
+zhang-shengmin:
+  - text: 坚决听习主席指挥、对习主席负责、让习主席放心
+    cite: b08-mod-2026-03-05-zhang-shengmin-npc
+    kind: public
+    date: 2026-03-05
+    occasion: 十四届全国人大四次会议解放军和武警部队代表团全体会议，以军委副主席身份发言
+    star: true
+  - text: 持续加压加力纵深推进正风肃纪反腐，一体推进不敢腐、不能腐、不想腐
+    cite: b08-xinhua-2025-03-06-pla-delegation
+    kind: public
+    date: 2025-03-06
+    occasion: 十四届全国人大三次会议解放军和武警部队代表团全体会议，以军委纪委书记身份发言
+liu-zhenli:
+  - text: 坚定灵活开展军事斗争，坚决完成党中央、中央军委和习主席赋予的各项任务
+    cite: b08-xinhua-2025-03-06-pla-delegation
+    kind: public
+    date: 2025-03-06
+    occasion: 十四届全国人大三次会议解放军和武警部队代表团全体会议发言
+    star: true

@@ -1,0 +1,840 @@
+# C05 dossier cards: families, economy, law and security, diplomacy, opinion, elders
+- id: xi-zhongxun
+  name: 习仲勋
+  gender: m
+  born: 1913-10-15
+  died: 2002-05-24
+  birthplace: 陕西富平
+  roles: [pb, family]
+  status: dead
+  statusNote: 2002 年 5 月 24 日在北京逝世，享年 89 岁。
+  tier: 2
+  headline: 中共元老，国务院原副总理，习近平之父
+  ids: { wikidata: Q301282 }
+  bio: >-
+    陕甘边根据地的主要创建者之一，1959 年任国务院副总理兼秘书长，1962 年因所谓“《刘志丹》小说问题”受审查、关押前后长达 16 年。1978 年后主政广东，率先请求让广东在改革开放中先走一步，促成经济特区；后任中央书记处书记、全国人大常委会副委员长。
+    2002 年去世。2013 年 10 月的百年诞辰座谈会上，已任总书记的习近平以亲属身份出席。
+  positions:
+    - { title: 国务院副总理兼秘书长, sys: gov, from: 1959-04, to: 1962-09, cite: c05-chinanews-2002-05-30-xi-zhongxun-life }
+    - { title: 广东省委第二书记、第一书记, sys: party, place: 广东, from: 1978-04, to: 1980, cite: c05-chinanews-2002-05-30-xi-zhongxun-life }
+    - { title: 全国人大常委会副委员长, sys: other, from: 1980-09, to: 1993-03, cite: c05-chinanews-2002-05-30-xi-zhongxun-life }
+    - { title: 中央书记处书记, sys: party, from: 1981-06, to: 1987-11, cite: c05-chinanews-2002-05-30-xi-zhongxun-life }
+    - { title: 中央政治局委员, sys: party, from: 1982-09, to: 1987-11, cite: c05-chinanews-2002-05-30-xi-zhongxun-life }
+  cites: [c05-chinanews-2002-05-30-xi-zhongxun-life, c05-gov-2013-10-15-xi-zhongxun-centenary, c05-people-2013-10-12-xi-yuanping, wd-Q301282]
+
+- id: qi-qiaoqiao
+  name: 齐桥桥
+  gender: f
+  born: 1949-03-01
+  birthplace: 陕西延安
+  roles: [family, biz]
+  status: active
+  statusNote: 无公职；习仲勋之女，习近平的姐姐。
+  tier: 2
+  headline: 商人，习近平之姐
+  ids: { wikidata: Q1441290 }
+  bio: >-
+    习仲勋之女、习近平的姐姐。彭博社 2012 年 6 月 29 日报道，其追踪到的习氏亲属资产大部分由齐桥桥、丈夫邓家贵和女儿张燕南持有，所投资公司总资产达 3.76 亿美元；报道同时说未发现资产与习近平夫妇及女儿有关，也无迹象显示习近平介入亲属生意。报道刊出后彭博网站在中国被屏蔽。
+  family:
+    - name: 邓家贵
+      rel: 丈夫
+      text: >-
+        据美国之音 2016 年 4 月 6 日报道，巴拿马文件显示邓家贵 2004 年通过莫萨克·冯赛卡律所购买一家离岸公司，2009 年又购入两家；《纽约时报》同日报道，律所当时并未确认他与习近平的关系。
+      cites: [c05-voa-2016-04-06-panama-red, c05-nytcn-2016-04-06-panama-china]
+  cites: [c05-bloomberg-2012-06-29-xi-family, c05-bbc-2012-06-29-bloomberg-xi, wd-Q1441290]
+
+- id: xi-mingze
+  name: 习明泽
+  gender: f
+  born: 1992-06-25
+  birthplace: 福建福州
+  roles: [family]
+  status: active
+  statusNote: 无公职，公开信息极少。
+  tier: 2
+  headline: 习近平与彭丽媛之女
+  ids: { wikidata: Q8044049 }
+  bio: >-
+    习近平与彭丽媛的独生女。美国之音 2015 年 3 月报道，哈佛大学荣休教授傅高义证实她 2014 年从哈佛毕业后已经回国，并说她在校期间没有受到特别对待。彭博社 2012 年调查习氏家族资产时，称未追踪到任何属于她的资产。
+  cites: [c05-voa-2015-03-11-xi-mingze, c05-bloomberg-2012-06-29-xi-family, wd-Q8044049]
+
+- id: xi-yuanping
+  name: 习远平
+  gender: m
+  born: 1956-11
+  roles: [family]
+  status: active
+  statusNote: 无党政职务。
+  tier: 2
+  headline: 习仲勋之子，习近平之弟
+  ids: { wikidata: Q4119708 }
+  bio: >-
+    习仲勋之子、习近平的弟弟。彭博社 2012 年报道称他是能源咨询机构国际节能环保协会的创会会长，但据该机构一名员工说他并不参与实际事务。2013 年 10 月习仲勋百年诞辰前夕，他在陕西纪念座谈会上代表家属讲话，回顾父亲在广东推动建立经济特区的经历。
+  positions:
+    - { title: 国际节能环保协会创会会长, sys: other, cite: c05-bloomberg-2012-06-29-xi-family }
+  cites: [c05-bloomberg-2012-06-29-xi-family, c05-people-2013-10-12-xi-yuanping, wd-Q4119708]
+
+- id: wen-yunsong
+  name: 温云松
+  gender: m
+  roles: [family, biz]
+  status: active
+  statusNote: 温家宝之子，商人；近年情况未见主流媒体报道。
+  tier: 2
+  headline: 私募投资人，温家宝之子
+  ids: { wikidata: Q3380941 }
+  factions:
+    - f: princelings
+      cite: c05-nytcn-2012-10-26-wen-wealth
+      quote: 还没有几个太子党像年届不惑的温云松这样有魄力
+  bio: >-
+    温家宝的独子。《纽约时报》2012 年 10 月 26 日调查称温家宝亲属掌控至少 27 亿美元资产，温云松领导的新天域迅速跻身私募股权前列，他后来出任国有的中国卫星通信集团董事长；调查未发现温家宝本人名下有财产。温家发表声明否认报道，外交部称报道“抹黑中国，别有用心”。
+  positions:
+    - { title: 新天域资本负责人, sys: other, cite: c05-nytcn-2012-10-26-wen-wealth }
+    - { title: 中国卫星通信集团公司董事长, sys: other, cite: c05-nytcn-2012-10-26-wen-wealth }
+  cites: [c05-nytcn-2012-10-26-wen-wealth, c05-nytcn-2012-10-29-wen-response, wd-Q3380941]
+
+- id: zhang-peili
+  name: 张培莉
+  gender: f
+  born: 1941
+  birthplace: 甘肃兰州
+  roles: [family]
+  status: retired
+  statusNote: 温家宝夫人，早年主管国有珠宝企业，现无公职。
+  tier: 2
+  headline: 地质学家、珠宝业人士，温家宝夫人
+  ids: { wikidata: Q4122281 }
+  bio: >-
+    温家宝的妻子，地质学家，长期在珠宝与宝石领域任职。《纽约时报》2012 年 10 月 26 日报道称，她通过管理后来被私有化的国有钻石公司，帮助亲属把少数股权扩充为十亿美元级的投资组合；报道所列 27 亿美元资产约八成在温家宝母亲、弟弟和她两名兄弟等亲属名下。温家发表声明称所谓“隐秘财富”不存在。该报中文网把她的名字写作张蓓莉。
+  cites: [c05-nytcn-2012-10-26-wen-wealth, c05-nytcn-2012-10-29-wen-response, wd-Q4122281]
+
+- id: hu-haifeng
+  name: 胡海峰
+  gender: m
+  born: 1972-11
+  origin: 安徽绩溪
+  roles: [family]
+  status: active
+  statusNote: 2024 年 1 月起任民政部副部长。
+  tier: 2
+  headline: 民政部副部长（2024– ），胡锦涛之子
+  ids: { wikidata: Q262261 }
+  bio: >-
+    胡锦涛之子，清华控股系统出身，曾任同方威视总裁。2009 年纳米比亚调查同方威视采购弊案，该国反腐委员会表示要向他了解情况，但强调他不是疑犯。2013 年到浙江嘉兴任职，2016 年任嘉兴市长，2018 年任丽水市委书记，2024 年 1 月调任民政部副部长。
+  positions:
+    - { title: 同方威视技术股份有限公司总裁, sys: other, cite: c05-sina-2024-01-16-hu-haifeng }
+    - { title: 浙江清华长三角研究院党委书记, sys: other, place: 浙江, from: 2010, cite: c05-sina-2024-01-16-hu-haifeng }
+    - { title: 嘉兴市委副书记, sys: party, place: 浙江, from: 2013-05, cite: c05-sina-2024-01-16-hu-haifeng }
+    - { title: 嘉兴市市长, sys: gov, place: 浙江, from: 2016-03, to: 2018-07, cite: c05-sina-2024-01-16-hu-haifeng }
+    - { title: 丽水市委书记, sys: party, place: 浙江, from: 2018-07, to: 2024-01, cite: c05-sina-2024-01-16-hu-haifeng }
+    - { title: 民政部副部长, sys: gov, from: 2024-01, cite: c05-sina-2024-01-16-hu-haifeng }
+  cites: [c05-sina-2024-01-16-hu-haifeng, c05-voa-2009-07-22-hu-haifeng-namibia, wd-Q262261]
+
+- id: jiang-mianheng
+  name: 江绵恒
+  gender: m
+  born: 1951-04-01
+  roles: [family, scholar]
+  status: active
+  statusNote: 2024 年 6 月卸任上海科技大学校长，改任校务委员会主任。
+  tier: 2
+  headline: 上海科技大学校务委员会主任，江泽民长子
+  ids: { wikidata: Q4120678 }
+  bio: >-
+    江泽民长子，美国卓克索大学电机工程博士。1994 年创办上海联和投资并任董事长，1999 年至 2011 年任中国科学院副院长，曾任神舟五号、七号副总指挥。2015 年 1 月以“年龄原因”卸任中科院上海分院院长，BBC 指此事正值反腐风暴的敏感时刻。2014 年起任上海科技大学首任校长，2024 年卸任。
+  positions:
+    - { title: 上海联和投资有限公司董事长, sys: other, place: 上海, from: 1994, cite: c05-bbc-2015-01-08-jiang-mianheng }
+    - { title: 中国科学院上海冶金研究所所长, sys: other, place: 上海, from: 1997-07, cite: c05-bbc-2015-01-08-jiang-mianheng }
+    - { title: 中国科学院副院长, sys: other, from: 1999, to: 2011, cite: c05-bbc-2015-01-08-jiang-mianheng }
+    - { title: 中国科学院上海分院院长, sys: other, place: 上海, to: 2015-01, cite: c05-bbc-2015-01-08-jiang-mianheng }
+    - { title: 上海科技大学校长, sys: other, place: 上海, from: 2014-02, to: 2024-06, cite: c05-cna-2024-06-05-jiang-mianheng }
+    - { title: 上海科技大学校务委员会主任, sys: other, place: 上海, from: 2024-06, cite: c05-cna-2024-06-05-jiang-mianheng }
+  cites: [c05-bbc-2015-01-08-jiang-mianheng, c05-cna-2024-06-05-jiang-mianheng, wd-Q4120678]
+
+- id: li-xiaolin
+  name: 李小琳
+  gender: f
+  born: 1961-06
+  roles: [family, biz]
+  status: retired
+  statusNote: 2018 年 5 月从中国大唐集团副总经理任上提前退休。
+  tier: 2
+  headline: 中国大唐集团原副总经理，李鹏之女
+  ids: { wikidata: Q709111 }
+  bio: >-
+    李鹏之女，长期在电力行业任职，人称“电力一姐”，曾任中国电力国际公司负责人、中国大唐集团副总经理和两届全国政协委员。《纽约时报》与美国之音 2016 年 4 月 6 日报道，巴拿马文件显示她与丈夫刘智源通过列支敦士登基金会持有英属维尔京群岛公司 Cofic Investments，她未回应置评请求。2018 年 5 月提前退休。
+  positions:
+    - { title: 中国电力国际公司负责人, sys: other, cite: c05-voa-2016-04-06-panama-red }
+    - { title: 全国政协委员, sys: other, to: 2018-03, cite: c05-cna-2018-05-26-li-xiaolin }
+    - { title: 中国大唐集团公司副总经理, sys: other, to: 2018-05, cite: c05-cna-2018-05-26-li-xiaolin }
+  cites: [c05-cna-2018-05-26-li-xiaolin, c05-voa-2016-04-06-panama-red, c05-nytcn-2016-04-06-panama-china, wd-Q709111]
+
+- id: li-xiaopeng
+  name: 李小鹏
+  gender: m
+  born: 1959-06
+  origin: 四川成都
+  roles: [minister, acc, family]
+  status: active
+  statusNote: 2024 年 10 月起任全国政协经济委员会副主任，11 月卸任交通运输部部长。
+  tier: 2
+  headline: 交通运输部原部长（2016–2024），李鹏之子
+  ids: { wikidata: Q698688 }
+  bio: >-
+    李鹏之子，电力系统出身，2002 年至 2008 年任中国华能集团总经理。2008 年转任山西，历任副省长、常务副省长，2013 年至 2016 年任山西省长，同年 9 月任交通运输部部长，任职八年。2024 年 10 月任全国政协经济委员会副主任，11 月卸任部长，由刘伟接任。
+  positions:
+    - { title: 中国华能集团公司总经理, sys: other, from: 2002-12, to: 2008-05, cite: c05-chinanews-2016-09-03-li-xiaopeng }
+    - { title: 山西省副省长, sys: gov, place: 山西, from: 2008-06, to: 2012-12, cite: c05-chinanews-2016-09-03-li-xiaopeng }
+    - { title: 山西省省长, sys: gov, place: 山西, from: 2013-01, to: 2016-08, cite: c05-chinanews-2016-09-03-li-xiaopeng }
+    - { title: 交通运输部部长, sys: gov, from: 2016-09, to: 2024-11, cite: c05-gov-2024-11-08-li-xiaopeng-removed }
+    - { title: 全国政协经济委员会副主任, sys: other, from: 2024-10, cite: c05-cppcc-2024-10-11-li-xiaopeng }
+  cites: [c05-chinanews-2016-09-03-li-xiaopeng, c05-gov-2024-11-08-li-xiaopeng-removed, c05-cppcc-2024-10-11-li-xiaopeng, wd-Q698688]
+
+- id: zhu-yunlai
+  name: 朱云来
+  gender: m
+  born: 1957
+  roles: [family, biz]
+  status: retired
+  statusNote: 2014 年 10 月辞去中金公司总裁兼首席执行官。
+  tier: 2
+  headline: 中金公司原总裁兼首席执行官（2004–2014），朱镕基之子
+  ids: { wikidata: Q6687392 }
+  bio: >-
+    朱镕基长子，美国威斯康星大学大气科学博士，曾在安达信、瑞士信贷第一波士顿任职。1998 年加入中金公司香港办事处，2004 年起任中金公司总裁兼首席执行官，中金称在他带领下形成了以研究为基础的全方位投行业务布局。2014 年 10 月辞职，中金称系个人原因。
+  positions:
+    - { title: 中国国际金融公司总裁兼首席执行官, sys: other, from: 2004, to: 2014-10, cite: c05-bbc-2014-10-14-zhu-yunlai }
+  cites: [c05-bbc-2014-10-14-zhu-yunlai, c05-people-2014-10-16-zhu-yunlai, wd-Q6687392]
+
+- id: gu-kailai
+  name: 谷开来
+  aka: [薄谷开来]
+  gender: f
+  born: 1958-11-15
+  roles: [family]
+  status: detained
+  statusNote: 在司法部燕城监狱服刑，2015 年 12 月由死缓减为无期徒刑。
+  tier: 2
+  headline: 薄熙来之妻，2012 年以故意杀人罪被判死缓
+  ids: { wikidata: Q2499132 }
+  bio: >-
+    薄熙来之妻。2012 年 8 月，安徽合肥市中级人民法院以谋杀英国人海伍德的故意杀人罪判处她死刑缓期二年执行；王立军案庭审中披露他曾对她秘密录音。2015 年 12 月 11 日，北京市高级人民法院以其死缓期间没有故意犯罪为由，裁定减为无期徒刑。
+  fall:
+    - { date: 2012-08, text: 合肥市中级人民法院以故意杀人罪判处死刑，缓期二年执行, cite: c05-bbc-2015-12-14-gu-kailai }
+    - { date: 2015-12-11, text: 北京市高级人民法院裁定减为无期徒刑，附加刑不变, cite: c05-cnr-2015-12-14-gu-kailai }
+  cites: [c05-cnr-2015-12-14-gu-kailai, c05-bbc-2015-12-14-gu-kailai, c05-chinanews-2012-09-24-wang-lijun, wd-Q2499132]
+
+- id: wang-lijun
+  name: 王立军
+  gender: m
+  born: 1959-12-26
+  roles: [tiger]
+  status: detained
+  statusNote: 2012 年 9 月被判有期徒刑 15 年，未见出狱的公开报道。
+  tier: 2
+  headline: 重庆市原副市长、公安局长，2012 年“王立军事件”当事人
+  ids: { wikidata: Q713232 }
+  bio: >-
+    薄熙来主政重庆时的公安局长、副市长。李源潮称 2012 年重庆市委班子调整是鉴于王立军事件的政治影响。同年 9 月 24 日，成都市中级人民法院以徇私枉法、滥用职权、叛逃和受贿 305 万元判处他有期徒刑 15 年，其全国人大代表资格此前已被终止。
+  fall:
+    - { date: 2012-09-24, text: 成都市中级人民法院以徇私枉法、滥用职权、叛逃、受贿罪数罪并罚，判处有期徒刑 15 年, cite: c05-chinanews-2012-09-24-wang-lijun }
+  positions:
+    - { title: 重庆市公安局局长, sys: gov, place: 重庆, cite: wd-Q713232 }
+    - { title: 重庆市副市长, sys: gov, place: 重庆, cite: c05-chinanews-2012-09-24-wang-lijun }
+    - { title: 全国人大代表, sys: other, from: 2011-01, to: 2012-06, cite: wd-Q713232 }
+  cites: [c05-chinanews-2012-09-24-wang-lijun, wd-Q713232]
+
+- id: zhou-bin
+  name: 周滨
+  gender: m
+  born: 1972-01
+  roles: [family, biz]
+  status: detained
+  statusNote: 2016 年 6 月被判有期徒刑 18 年。
+  tier: 2
+  headline: 周永康之子，2016 年被判刑 18 年
+  ids: { wikidata: Q15904745 }
+  bio: >-
+    周永康长子，商人。2016 年 6 月 15 日，湖北宜昌市中级人民法院认定他作为周永康受贿共犯收受财物 9804.66 万元，另犯利用影响力受贿罪和非法经营罪，数罪并罚判处有期徒刑 18 年，并处罚金 3.502 亿元。他当庭表示接受判决，不上诉。
+  fall:
+    - { date: 2016-06-15, text: 宜昌市中级人民法院以受贿罪、利用影响力受贿罪、非法经营罪判处有期徒刑十八年，并处罚金 3.502 亿元, cite: c05-court-2016-06-15-zhou-bin }
+  cites: [c05-court-2016-06-15-zhou-bin, wd-Q15904745]
+
+- id: ling-gu
+  name: 令谷
+  gender: m
+  born: 1988
+  died: 2012-03-18
+  roles: [family]
+  status: dead
+  statusNote: 2012 年 3 月 18 日凌晨在北京一起法拉利车祸中身亡。
+  tier: 2
+  headline: 令计划之子，2012 年法拉利车祸身亡
+  ids: { wikidata: Q8460707 }
+  bio: >-
+    令计划之子，以化名“王子云”就读北京大学。2012 年 3 月 18 日凌晨，一辆法拉利在北京四环路撞上护墙，令谷当场死亡，车上两名女乘客重伤。《纽约时报》2012 年 12 月报道，事后有人冒用他的化名发帖辟谣，车祸与拙劣的掩盖行为改变了十八大领导层换届的进程，令计划随后左迁。
+  cites: [c05-nytcn-2012-12-05-ling-gu, wd-Q8460707]
+
+- id: liu-yuan
+  name: 刘源
+  gender: m
+  born: 1951-02
+  birthplace: 北京
+  roles: [general, cc, family]
+  status: retired
+  statusNote: 2015 年底退役，2016 年任全国人大财经委副主任委员，美国之音称他已淡出政坛。
+  tier: 2
+  headline: 解放军上将，原总后勤部政委，刘少奇之子
+  ids: { wikidata: Q702757 }
+  factions:
+    - f: princelings
+      cite: c05-voa-2024-04-04-princelings
+      quote: 刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物
+  bio: >-
+    刘少奇之子，曾任河南省副省长，1998 年入武警任副政委，后任总后勤部副政委、军事科学院政委，2010 年任总后勤部政委，2009 年晋升上将。美国之音称他曾协助胡锦涛拿下谷俊山，也曾是习近平扫除军中贪腐最有力的盟友，却在 2015 年底退役，转任全国人大财经委副主任委员。
+  positions:
+    - { title: 河南省副省长, sys: gov, place: 河南, cite: c05-caixin-2016-02-26-liu-yuan }
+    - { title: 武警部队副政委, sys: army, from: 1998, to: 2003, cite: c05-caixin-2016-02-26-liu-yuan }
+    - { title: 总后勤部副政委, sys: army, from: 2003, to: 2005, cite: c05-caixin-2016-02-26-liu-yuan }
+    - { title: 军事科学院政委, sys: army, from: 2005, to: 2010, cite: c05-caixin-2016-02-26-liu-yuan }
+    - { title: 总后勤部政委, sys: army, from: 2010, to: 2015-12, cite: c05-caixin-2016-02-26-liu-yuan }
+    - { title: 全国人大财政经济委员会副主任委员, sys: other, from: 2016-02, cite: c05-caixin-2016-02-26-liu-yuan }
+  cites: [c05-caixin-2016-02-26-liu-yuan, c05-voa-2024-04-04-princelings, wd-Q702757]
+
+- id: liu-yazhou
+  name: 刘亚洲
+  gender: m
+  born: 1952-10
+  roles: [general, cc, family]
+  status: missing
+  statusNote: 据美国之音 2024 年 3 月报道已被判无期徒刑，官方未作任何通报。
+  tier: 2
+  headline: 解放军空军上将，原国防大学政委，李先念女婿
+  ids: { wikidata: Q5948643 }
+  factions:
+    - f: princelings
+      cite: c05-voa-2024-03-23-liu-yazhou
+      quote: 对具有太子党身份的退役空军上将刘亚洲的处置备受瞩目
+  bio: >-
+    军旅作家出身，1979 年与李先念之女李小林结婚，2012 年晋升空军上将并当选中央委员，曾任国防大学政委，2017 年退休。《联合早报》2023 年 4 月引述《星岛日报》称他已被开除党籍、移交军队司法机关；美国之音 2024 年 3 月引述王军涛称他已被判无期徒刑，并说至今没有任何官方通报或证实。
+  positions:
+    - { title: 中央委员, sys: party, from: 2012-11, cite: c05-zaobao-2023-04-14-liu-yazhou }
+    - { title: 国防大学政委, sys: army, to: 2017, cite: c05-zaobao-2023-04-14-liu-yazhou }
+  cites: [c05-zaobao-2023-04-14-liu-yazhou, c05-voa-2024-03-23-liu-yazhou, c05-voa-2024-04-04-princelings, wd-Q5948643]
+
+- id: zhou-xiaochuan
+  name: 周小川
+  gender: m
+  born: 1948-01
+  origin: 江苏宜兴
+  roles: [minister, cc]
+  status: retired
+  statusNote: 2018 年 3 月卸任中国人民银行行长和全国政协副主席。
+  tier: 2
+  headline: 中国人民银行行长（2002–2018）
+  ids: { wikidata: Q198026 }
+  bio: >-
+    清华大学工学博士，1980 年代参与国务院体改方案研讨，此后历任中国银行副行长、国家外汇管理局局长、建设银行行长和证监会主席。2002 年起任中国人民银行行长，历经胡温、习李两届政府，2018 年 3 月由易纲接任；2013 年至 2018 年兼任全国政协副主席。
+  positions:
+    - { title: 中国银行副行长, sys: other, from: 1991, to: 1995, cite: c05-cppcc-2013-03-11-zhou-xiaochuan }
+    - { title: 国家外汇管理局局长, sys: gov, from: 1995, to: 1998, cite: c05-cppcc-2013-03-11-zhou-xiaochuan }
+    - { title: 中国建设银行行长, sys: other, from: 1998, to: 2000, cite: c05-cppcc-2013-03-11-zhou-xiaochuan }
+    - { title: 中国证券监督管理委员会主席, sys: gov, from: 2000, to: 2002, cite: c05-cppcc-2013-03-11-zhou-xiaochuan }
+    - { title: 中国人民银行行长, sys: gov, from: 2002-12, to: 2018-03, cite: wd-Q198026 }
+    - { title: 全国政协副主席, sys: other, from: 2013-03, to: 2018-03, cite: wd-Q198026 }
+  cites: [c05-cppcc-2013-03-11-zhou-xiaochuan, c05-people-2018-03-27-yi-gang, wd-Q198026]
+
+- id: yi-gang
+  name: 易纲
+  gender: m
+  born: 1958-03-05
+  roles: [minister, acc]
+  status: retired
+  statusNote: 2023 年 7 月卸任中国人民银行行长。
+  tier: 2
+  headline: 中国人民银行行长（2018–2023）
+  ids: { wikidata: Q4743711 }
+  bio: >-
+    留美经济学者，在美国印第安纳大学任教期间获终身教职，1994 年回国与林毅夫等创办北京大学中国经济研究中心。1997 年进入央行，历任货币政策司司长、副行长兼国家外汇管理局局长，2018 年 3 月接替周小川任行长，2023 年 7 月由潘功胜接任。
+  positions:
+    - { title: 中国人民银行货币政策司司长, sys: gov, from: 2003-10, to: 2004-07, cite: c05-people-2018-03-27-yi-gang }
+    - { title: 中国人民银行副行长, sys: gov, from: 2007-12, to: 2018-03, cite: c05-people-2018-03-27-yi-gang }
+    - { title: 国家外汇管理局局长, sys: gov, from: 2009-07, to: 2015-12, cite: c05-people-2018-03-27-yi-gang }
+    - { title: 中国人民银行行长, sys: gov, from: 2018-03, to: 2023-07, cite: c05-news-2023-07-25-pboc-order }
+  cites: [c05-people-2018-03-27-yi-gang, c05-news-2023-07-25-pboc-order, wd-Q4743711]
+
+- id: lou-jiwei
+  name: 楼继伟
+  gender: m
+  born: 1950-12
+  origin: 浙江义乌
+  roles: [minister, cc]
+  status: retired
+  statusNote: 2019 年 4 月被免去全国社保基金理事会理事长职务。
+  tier: 2
+  headline: 财政部部长（2013–2016）
+  ids: { wikidata: Q346725 }
+  bio: >-
+    长期任财政部副部长，2007 年起组建并执掌中国投资有限责任公司，2013 年任财政部长，2016 年 11 月转任全国社保基金理事会理事长。美国之音称他是朱镕基的爱将、以敢言著称，他公开批评“中国制造2025”和“行政运动式”的供给侧改革，2019 年 4 月被免去社保基金职务，外界将两者联系起来。
+  positions:
+    - { title: 贵州省副省长, sys: gov, place: 贵州, from: 1995-09, to: 1998-03, cite: c05-xinhua-2016-11-28-lou-jiwei }
+    - { title: 财政部副部长, sys: gov, from: 1998-03, to: 2007-02, cite: c05-xinhua-2016-11-28-lou-jiwei }
+    - { title: 中国投资有限责任公司董事长, sys: other, from: 2007-09, to: 2013-03, cite: c05-xinhua-2016-11-28-lou-jiwei }
+    - { title: 财政部部长, sys: gov, from: 2013-03, to: 2016-11, cite: c05-xinhua-2016-11-28-lou-jiwei }
+    - { title: 全国社会保障基金理事会理事长, sys: gov, from: 2016-11, to: 2019-04, cite: c05-voa-2019-04-07-lou-jiwei }
+  cites: [c05-xinhua-2016-11-28-lou-jiwei, c05-voa-2019-04-07-lou-jiwei, wd-Q346725]
+
+- id: pan-gongsheng
+  name: 潘功胜
+  gender: m
+  born: 1963-07-08
+  roles: [minister]
+  status: active
+  statusNote: 2023 年 7 月起任中国人民银行行长。
+  tier: 2
+  headline: 中国人民银行行长（2023– ）
+  ids: { wikidata: Q9309080 }
+  bio: >-
+    中国人民大学经济学博士，在工商银行工作十五年，曾任股份制改革办公室主任、董事会秘书。2012 年任中国人民银行副行长，2016 年起兼任国家外汇管理局局长。2023 年 7 月 1 日任央行党委书记，7 月 25 日接替易纲任行长。
+  positions:
+    - { title: 中国工商银行董事会秘书, sys: other, to: 2008-04, cite: c05-jiemian-2023-07-pan-gongsheng }
+    - { title: 中国人民银行副行长, sys: gov, from: 2012-06, to: 2023-07, cite: c05-jiemian-2023-07-pan-gongsheng }
+    - { title: 国家外汇管理局局长, sys: gov, from: 2016-01, cite: c05-jiemian-2023-07-pan-gongsheng }
+    - { title: 中国人民银行党委书记, sys: party, from: 2023-07, cite: c05-jiemian-2023-07-pan-gongsheng }
+    - { title: 中国人民银行行长, sys: gov, from: 2023-07, cite: c05-news-2023-07-25-pboc-order }
+  cites: [c05-jiemian-2023-07-pan-gongsheng, c05-news-2023-07-25-pboc-order, wd-Q9309080]
+
+- id: zhou-qiang
+  name: 周强
+  gender: m
+  born: 1960-04
+  origin: 湖北黄梅
+  roles: [cc, prov]
+  status: active
+  statusNote: 2023 年 3 月起任全国政协副主席。
+  tier: 2
+  headline: 全国政协副主席（2023– ），最高人民法院原院长
+  ids: { wikidata: Q198003 }
+  bio: >-
+    西南政法学院民法硕士，司法部出身，1998 年至 2006 年任共青团中央第一书记，随后到湖南任代省长、省长、省委书记。2013 年至 2023 年任最高人民法院院长、首席大法官，2023 年 3 月当选十四届全国政协副主席。
+  positions:
+    - { title: 共青团中央书记处第一书记, sys: party, from: 1998, to: 2006, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 湖南省省长, sys: gov, place: 湖南, from: 2006, to: 2010, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2010, to: 2013, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 最高人民法院院长, sys: gov, from: 2013-03, to: 2023-03, cite: wd-Q198003 }
+    - { title: 全国政协副主席, sys: other, from: 2023-03, cite: c05-cppcc-2023-03-11-zhou-qiang }
+  cites: [c05-people-2018-03-19-zhou-zhang, c05-cppcc-2023-03-11-zhou-qiang, c05-cppcc-2024-10-11-li-xiaopeng, wd-Q198003]
+
+- id: zhang-jun
+  name: 张军
+  gender: m
+  born: 1956-10
+  origin: 山东博兴
+  roles: [cc, ccdi, minister]
+  status: active
+  statusNote: 2023 年 3 月起任最高人民法院院长。
+  tier: 2
+  headline: 最高人民法院院长（2023– ）
+  ids: { wikidata: Q8340349 }
+  bio: >-
+    刑法学博士，长期在最高人民法院任职，两度出任副院长。2012 年 11 月增选为中央纪委副书记，至 2017 年 2 月；此后任司法部长，2018 年任最高人民检察院检察长，2023 年 3 月转任最高人民法院院长、首席大法官，先后执掌“两高”。
+  positions:
+    - { title: 最高人民法院副院长, sys: gov, from: 2005, to: 2012, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 中央纪委副书记, sys: party, from: 2012-11, to: 2017-02, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 司法部部长, sys: gov, from: 2017-02, to: 2018-03, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 最高人民检察院检察长, sys: gov, from: 2018-03, to: 2023-03, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 最高人民法院院长, sys: gov, from: 2023-03, cite: c05-gov-2023-03-12-zhang-jun }
+  cites: [c05-people-2018-03-19-zhou-zhang, c05-gov-2023-03-12-zhang-jun, wd-Q8340349]
+
+- id: ying-yong
+  name: 应勇
+  gender: m
+  born: 1957-11
+  origin: 浙江仙居
+  roles: [cc, prov]
+  status: active
+  statusNote: 2023 年 3 月起任最高人民检察院检察长。
+  tier: 2
+  headline: 最高人民检察院检察长（2023– ）
+  ids: { wikidata: Q9134379 }
+  bio: >-
+    浙江公安系统出身，曾任浙江省纪委副书记、省高级人民法院院长。2008 年调任上海市高级人民法院院长，2013 年任上海市委组织部长，2017 年至 2020 年任上海市长；2020 年 2 月调任湖北省委书记，2022 年 3 月卸任。2023 年 3 月任最高人民检察院检察长、首席大检察官。
+  positions:
+    - { title: 浙江省高级人民法院院长, sys: gov, place: 浙江, from: 2006-01, to: 2007-11, cite: c05-cctv-2020-02-13-ying-yong }
+    - { title: 上海市高级人民法院院长, sys: gov, place: 上海, from: 2008-01, to: 2013-04, cite: c05-cctv-2020-02-13-ying-yong }
+    - { title: 上海市委组织部部长, sys: party, place: 上海, from: 2013-04, to: 2014-07, cite: c05-cctv-2020-02-13-ying-yong }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 2017-01, to: 2020-02, cite: c05-cctv-2020-02-13-ying-yong }
+    - { title: 湖北省委书记, sys: party, place: 湖北, from: 2020-02, to: 2022-03, cite: c05-cctv-2020-02-13-ying-yong }
+    - { title: 最高人民检察院检察长, sys: gov, from: 2023-03, cite: c05-news-2023-03-12-ying-yong }
+  cites: [c05-cctv-2020-02-13-ying-yong, c05-news-2023-03-12-ying-yong, wd-Q9134379]
+
+- id: cao-jianming
+  name: 曹建明
+  gender: m
+  born: 1955-09-24
+  origin: 江苏南通
+  roles: [cc]
+  status: retired
+  statusNote: 2023 年 3 月十三届全国人大常委会任满后退出领导岗位。
+  tier: 2
+  headline: 最高人民检察院检察长（2008–2018）
+  ids: { wikidata: Q702356 }
+  bio: >-
+    国际法学者出身，曾任华东政法学院院长。1999 年调任最高人民法院副院长，2008 年至 2018 年任最高人民检察院检察长十年；2018 年至 2023 年任全国人大常委会副委员长。
+  positions:
+    - { title: 华东政法学院院长, sys: other, place: 上海, from: 1997, to: 1999, cite: c05-xinhua-2018-03-17-cao-jianming }
+    - { title: 最高人民法院副院长, sys: gov, from: 1999, to: 2008, cite: c05-xinhua-2018-03-17-cao-jianming }
+    - { title: 最高人民检察院检察长, sys: gov, from: 2008, to: 2018, cite: c05-xinhua-2018-03-17-cao-jianming }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2018-03, to: 2023-03, cite: c05-xinhua-2018-03-17-cao-jianming }
+  cites: [c05-xinhua-2018-03-17-cao-jianming, wd-Q702356]
+
+- id: li-zhaoxing
+  name: 李肇星
+  gender: m
+  born: 1940-10-20
+  roles: [minister]
+  status: retired
+  statusNote: 2007 年 4 月卸任外交部长。
+  tier: 2
+  headline: 外交部部长（2003–2007）
+  ids: { wikidata: Q463697 }
+  bio: >-
+    职业外交官，1985 年至 1990 年任外交部新闻司司长、发言人，1993 年至 1995 年任常驻联合国代表，1998 年至 2001 年任驻美国大使，2001 年回任外交部副部长。2003 年 3 月出任外交部长，2007 年 4 月卸任。素有“诗人外交家”之称。
+  positions:
+    - { title: 外交部新闻司司长、外交部发言人, sys: gov, from: 1985, to: 1990, cite: c05-sina-2006-03-05-li-zhaoxing }
+    - { title: 中国常驻联合国代表, sys: gov, from: 1993, to: 1995, cite: c05-sina-2006-03-05-li-zhaoxing }
+    - { title: 外交部副部长, sys: gov, from: 1995, to: 1998, cite: c05-sina-2006-03-05-li-zhaoxing }
+    - { title: 中国驻美国大使, sys: gov, from: 1998, to: 2001, cite: c05-sina-2006-03-05-li-zhaoxing }
+    - { title: 外交部部长, sys: gov, from: 2003-03, to: 2007-04, cite: wd-Q463697 }
+  cites: [c05-sina-2006-03-05-li-zhaoxing, wd-Q463697]
+
+- id: tang-jiaxuan
+  name: 唐家璇
+  gender: m
+  born: 1938-01-17
+  origin: 江苏镇江
+  roles: [minister, cc]
+  status: retired
+  statusNote: 2008 年 3 月卸任国务委员。
+  tier: 2
+  headline: 外交部部长（1998–2003）、国务委员（2003–2008）
+  ids: { wikidata: Q463926 }
+  bio: >-
+    北京大学日语专业毕业，长期从事对日工作，两度派驻日本使馆，曾任公使。1993 年任外交部副部长，1998 年至 2003 年任外交部长，2003 年至 2008 年任国务委员，十五届、十六届中央委员。
+  positions:
+    - { title: 驻日本使馆公使衔参赞、公使, sys: gov, from: 1988, to: 1991, cite: c05-sina-2003-03-17-tang-jiaxuan }
+    - { title: 外交部副部长, sys: gov, from: 1993, to: 1998, cite: c05-sina-2003-03-17-tang-jiaxuan }
+    - { title: 外交部部长, sys: gov, from: 1998-03, to: 2003-03, cite: wd-Q463926 }
+    - { title: 国务委员, sys: gov, from: 2003-03, to: 2008-03, cite: c05-sina-2003-03-17-tang-jiaxuan }
+  cites: [c05-sina-2003-03-17-tang-jiaxuan, wd-Q463926]
+
+- id: dai-bingguo
+  name: 戴秉国
+  gender: m
+  ethnicity: 土家族
+  born: 1941-03-31
+  origin: 贵州印江
+  roles: [minister, cc]
+  status: retired
+  statusNote: 2013 年 3 月卸任国务委员。
+  tier: 2
+  headline: 国务委员（2008–2013），中央外办主任
+  ids: { wikidata: Q1134304 }
+  bio: >-
+    俄语专业出身，长期从事对苏联东欧工作，曾任外交部苏欧司司长、驻匈牙利大使。1997 年至 2003 年任中联部部长，2003 年回外交部任党委书记，2005 年起兼任中央外事工作领导小组办公室主任，2008 年至 2013 年任国务委员。
+  positions:
+    - { title: 驻匈牙利大使, sys: gov, from: 1989, to: 1991, cite: c05-chinanews-2008-03-17-dai-bingguo }
+    - { title: 中央对外联络部部长, sys: party, from: 1997, to: 2003, cite: c05-chinanews-2008-03-17-dai-bingguo }
+    - { title: 外交部党委书记、副部长, sys: gov, from: 2003, to: 2007, cite: c05-chinanews-2008-03-17-dai-bingguo }
+    - { title: 中央外事工作领导小组办公室主任, sys: party, from: 2005, cite: c05-chinanews-2008-03-17-dai-bingguo }
+    - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: wd-Q1134304 }
+  cites: [c05-chinanews-2008-03-17-dai-bingguo, wd-Q1134304]
+
+- id: hu-xijin
+  name: 胡锡进
+  gender: m
+  born: 1960-04-07
+  roles: [media]
+  status: retired
+  statusNote: 2021 年 12 月退休，转任《环球时报》特约评论员，仍在微博发文。
+  tier: 2
+  headline: 《环球时报》原总编辑（2005–2021）
+  ids: { wikidata: Q5924784 }
+  bio: >-
+    人民日报国际部出身，曾任驻南斯拉夫记者，2005 年起任《环球时报》总编辑，以微博评论著称，德国之声称他“被看作是强烈民族主义的主要代言人”。2021 年 12 月退休。2024 年 7 月他称赞党内经济会议将平等对待民营企业的微博遭极左派批评后停更；据《联合早报》，2025 年 10 月他仍在发文。
+  positions:
+    - { title: 《环球时报》副总编辑, sys: other, from: 1996, to: 2005, cite: c05-bjd-2021-12-16-hu-xijin }
+    - { title: 《环球时报》总编辑, sys: other, from: 2005, to: 2021-12, cite: c05-bjd-2021-12-16-hu-xijin }
+    - { title: 《环球时报》特约评论员, sys: other, from: 2021-12, cite: c05-bjd-2021-12-16-hu-xijin }
+  cites: [c05-bjd-2021-12-16-hu-xijin, c05-dw-2021-12-16-hu-xijin, c05-nytcn-2024-08-07-hu-xijin, c05-zaobao-2025-10-14-hu-xijin, wd-Q5924784]
+
+- id: zhang-weiwei
+  name: 张维为
+  gender: m
+  born: 1957-12-23
+  birthplace: 上海
+  roles: [scholar]
+  status: active
+  statusNote: 复旦大学中国研究院院长。
+  tier: 2
+  headline: 复旦大学中国研究院院长
+  ids: { wikidata: Q16240059 }
+  bio: >-
+    青年时代曾为邓小平当英语口译员，现任复旦大学中国研究院院长，主持东方卫视政论节目《这就是中国》，是“中国模式”“文明型国家”论述的代表人物。《纽约时报》2015 年报道，据中国学者和官员私下说，习近平读过他的《中国震撼》并向外宾推荐。
+  positions:
+    - { title: 复旦大学中国研究院院长, sys: other, place: 上海, cite: c05-fudan-zhang-weiwei }
+  cites: [c05-fudan-zhang-weiwei, c05-nytcn-2015-06-15-zhang-weiwei, wd-Q16240059]
+
+- id: jin-canrong
+  name: 金灿荣
+  gender: m
+  born: 1962-12-26
+  birthplace: 湖北武汉
+  roles: [scholar]
+  status: active
+  statusNote: 中国人民大学国际关系学院教授。
+  tier: 2
+  headline: 中国人民大学国际关系学院副院长
+  ids: { wikidata: Q10564015 }
+  bio: >-
+    美国政治与中美关系学者，任中国人民大学国际关系学院副院长、教授。美国之音称他为“中国著名鹰派学者”，并说他的鹰派观点迎合民族主义网民；2022 年初他对《日经亚洲》说中国“已经具备在一周内统一台湾的能力”。
+  positions:
+    - { title: 中国人民大学国际关系学院副院长, sys: other, cite: c05-dw-2016-06-jin-canrong }
+  cites: [c05-voa-2022-01-31-jin-canrong, c05-dw-2016-06-jin-canrong, wd-Q10564015]
+
+- id: hu-angang
+  name: 胡鞍钢
+  gender: m
+  born: 1953-04-27
+  birthplace: 辽宁鞍山
+  roles: [scholar]
+  status: active
+  statusNote: 清华大学国情研究院院长。
+  tier: 2
+  headline: 清华大学国情研究院院长
+  ids: { wikidata: Q5924632 }
+  bio: >-
+    国情研究学者，清华大学国情研究院院长。2017 年 6 月发布报告称中国已进入全面赶超、主体超越美国的时期，综合国力世界第一。2018 年 8 月中美贸易战期间，上千名清华校友联署要求解除他的职务，称其研究“堪称误国误民”。
+  positions:
+    - { title: 清华大学国情研究院院长, sys: other, place: 北京, cite: c05-bbc-2018-08-03-hu-angang }
+  cites: [c05-bbc-2018-08-03-hu-angang, wd-Q5924632]
+
+- id: xia-baolong
+  name: 夏宝龙
+  gender: m
+  born: 1952-12
+  origin: 天津
+  roles: [cc, prov, hkmt]
+  status: active
+  statusNote: 中央港澳工作办公室主任、国务院港澳事务办公室主任。
+  tier: 2
+  headline: 中央港澳办、国务院港澳办主任（2020– ）
+  ids: { wikidata: Q2516786 }
+  bio: >-
+    天津共青团出身，曾任天津市副市长。2003 年调任浙江省委副书记，2012 年至 2017 年任浙江省委书记。2018 年任全国政协副主席兼秘书长，2020 年 2 月兼任国务院港澳办主任，后任中央港澳工作办公室主任，2026 年 9 月仍以此身份在大湾区调研。
+  positions:
+    - { title: 天津市副市长, sys: gov, place: 天津, from: 1997, to: 2003, cite: c05-people-2020-02-13-xia-baolong }
+    - { title: 浙江省委副书记, sys: party, place: 浙江, from: 2003, to: 2012, cite: c05-people-2020-02-13-xia-baolong }
+    - { title: 浙江省省长, sys: gov, place: 浙江, from: 2011, to: 2012, cite: c05-people-2020-02-13-xia-baolong }
+    - { title: 浙江省委书记, sys: party, place: 浙江, from: 2012-12, to: 2017-04, cite: wd-Q2516786 }
+    - { title: 全国政协副主席, sys: other, from: 2018-03, to: 2023-03, cite: c05-people-2020-02-13-xia-baolong }
+    - { title: 国务院港澳事务办公室主任, sys: gov, from: 2020-02, cite: c05-gov-2020-02-13-hmo }
+    - { title: 中央港澳工作办公室主任, sys: party, from: 2023, cite: c05-hmo-2026-09-09-xia-baolong }
+  cites: [c05-people-2020-02-13-xia-baolong, c05-gov-2020-02-13-hmo, c05-hmo-2026-09-09-xia-baolong, wd-Q2516786]
+
+- id: luo-huining
+  name: 骆惠宁
+  gender: m
+  born: 1954-10-05
+  origin: 浙江义乌
+  roles: [cc, prov, hkmt]
+  status: retired
+  statusNote: 2023 年 1 月卸任香港中联办主任和国务院港澳办副主任。
+  tier: 2
+  headline: 香港中联办原主任（2020–2023）
+  ids: { wikidata: Q1652530 }
+  bio: >-
+    安徽起家，曾任安徽省委宣传部长，2003 年调任青海，历任省委副书记、省长、省委书记，2016 年任山西省委书记。2020 年 1 月出任香港中联办主任，次月兼任国务院港澳办副主任，2023 年 1 月由郑雁雄接任。
+  positions:
+    - { title: 安徽省委常委、宣传部部长, sys: party, place: 安徽, from: 1999-12, to: 2003-04, cite: c05-people-2020-01-06-luo-huining }
+    - { title: 青海省省长, sys: gov, place: 青海, from: 2010-01, to: 2013-03, cite: c05-people-2020-01-06-luo-huining }
+    - { title: 青海省委书记, sys: party, place: 青海, from: 2013-03, to: 2016-06, cite: c05-people-2020-01-06-luo-huining }
+    - { title: 山西省委书记, sys: party, place: 山西, from: 2016-06, to: 2019-11, cite: c05-people-2020-01-06-luo-huining }
+    - { title: 中央人民政府驻香港特别行政区联络办公室主任, sys: gov, from: 2020-01, to: 2023-01, cite: c05-news-2023-01-14-hk-liaison }
+    - { title: 国务院港澳事务办公室副主任, sys: gov, from: 2020-02, to: 2023-01, cite: c05-gov-2020-02-13-hmo }
+  cites: [c05-people-2020-01-06-luo-huining, c05-gov-2020-02-13-hmo, c05-news-2023-01-14-hk-liaison, wd-Q1652530]
+
+- id: zheng-yanxiong
+  name: 郑雁雄
+  gender: m
+  born: 1963-08-25
+  roles: [hkmt]
+  status: active
+  statusNote: 2025 年 6 月起任全国人大教育科学文化卫生委员会副主任委员。
+  tier: 2
+  headline: 香港中联办原主任（2023–2025），首任驻港国安公署署长
+  ids: { wikidata: Q18744423 }
+  bio: >-
+    广东干部，曾任汕尾市委书记、广东省委常委兼秘书长。2020 年 7 月出任中央驻港国安公署首任署长，2023 年 1 月升任香港中联办主任。2025 年 5 月 30 日被免职、由周霁接任，中央社称他是近年任期最短的中联办主任之一；同年 6 月任全国人大教科文卫委员会副主任委员。
+  positions:
+    - { title: 汕尾市委书记, sys: party, place: 广东, cite: c05-cna-2025-05-31-zheng-yanxiong }
+    - { title: 广东省委常委、秘书长, sys: party, place: 广东, cite: c05-cna-2025-05-31-zheng-yanxiong }
+    - { title: 中央人民政府驻香港特别行政区维护国家安全公署署长, sys: gov, from: 2020-07, to: 2023-01, cite: c05-cna-2025-05-31-zheng-yanxiong }
+    - { title: 中央人民政府驻香港特别行政区联络办公室主任, sys: gov, from: 2023-01, to: 2025-05, cite: c05-bjnews-2025-06-27-zheng-yanxiong }
+    - { title: 全国人大教育科学文化卫生委员会副主任委员, sys: other, from: 2025-06, cite: c05-bjnews-2025-06-27-zheng-yanxiong }
+  cites: [c05-cna-2025-05-31-zheng-yanxiong, c05-bjnews-2025-06-27-zheng-yanxiong, c05-news-2023-01-14-hk-liaison, wd-Q18744423]
+
+- id: zhao-kezhi
+  name: 赵克志
+  gender: m
+  born: 1953-12
+  origin: 山东莱西
+  roles: [cc, minister, prov]
+  status: retired
+  statusNote: 2022 年 6 月卸任公安部长，2023 年 3 月卸任国务委员。
+  tier: 2
+  headline: 国务委员（2018–2023）、公安部部长（2017–2022）
+  ids: { wikidata: Q197445 }
+  bio: >-
+    山东基层干部出身，曾任德州市委书记、山东和江苏副省长。2010 年起主政贵州，历任省长、省委书记，2015 年任河北省委书记。2017 年任公安部长，2018 年起兼任国务委员，2022 年 6 月卸任公安部长，2023 年 3 月卸任国务委员。
+  positions:
+    - { title: 山东省副省长, sys: gov, place: 山东, from: 2001, to: 2006, cite: c05-chinanews-2018-03-19-zhao-kezhi }
+    - { title: 贵州省省长, sys: gov, place: 贵州, from: 2010, to: 2012, cite: c05-chinanews-2018-03-19-zhao-kezhi }
+    - { title: 贵州省委书记, sys: party, place: 贵州, from: 2012, to: 2015, cite: c05-chinanews-2018-03-19-zhao-kezhi }
+    - { title: 河北省委书记, sys: party, place: 河北, from: 2015, to: 2017, cite: c05-chinanews-2018-03-19-zhao-kezhi }
+    - { title: 公安部部长, sys: gov, from: 2017-11, to: 2022-06, cite: wd-Q197445 }
+    - { title: 国务委员, sys: gov, from: 2018-03, to: 2023-03, cite: wd-Q197445 }
+  cites: [c05-chinanews-2018-03-19-zhao-kezhi, wd-Q197445]
+
+- id: chen-yixin
+  name: 陈一新
+  gender: m
+  born: 1959-09
+  origin: 浙江泰顺
+  roles: [cc, minister]
+  status: active
+  statusNote: 2022 年 10 月起任国家安全部部长。
+  tier: 2
+  headline: 国家安全部部长（2022– ）
+  ids: { wikidata: Q18977835 }
+  factions:
+    - f: zhijiang
+      cite: c05-voa-2022-10-29-chen-yixin
+      quote: 陈一新2003年7月被提拔为省委副秘书长，2006年6月起兼任省委政策研究室主任，直接为习近平服务，与后来大权独揽的习近平建立了紧密关系
+  bio: >-
+    浙江干部，习近平主政浙江时任省委副秘书长、政策研究室主任，美国之音称他“直接为习近平服务”。此后历任金华、温州市委书记，中央深改办专职副主任，武汉市委书记，2018 年 3 月任中央政法委秘书长，2022 年 10 月任国家安全部部长。
+  positions:
+    - { title: 浙江省委副秘书长, sys: party, place: 浙江, from: 2003-07, to: 2011-12, cite: c05-people-2018-04-03-chen-yixin }
+    - { title: 温州市委书记, sys: party, place: 浙江, from: 2013-06, to: 2015-11, cite: c05-people-2018-04-03-chen-yixin }
+    - { title: 中央全面深化改革领导小组办公室专职副主任, sys: party, from: 2015-11, to: 2016-12, cite: c05-people-2018-04-03-chen-yixin }
+    - { title: 武汉市委书记, sys: party, place: 湖北, from: 2016-12, to: 2018-03, cite: c05-people-2018-04-03-chen-yixin }
+    - { title: 中央政法委秘书长, sys: party, from: 2018-03, cite: c05-people-2018-04-03-chen-yixin }
+    - { title: 国家安全部部长, sys: gov, from: 2022-10, cite: c05-gov-2022-10-30-chen-yixin }
+  cites: [c05-people-2018-04-03-chen-yixin, c05-gov-2022-10-30-chen-yixin, c05-voa-2022-10-29-chen-yixin, wd-Q18977835]
+
+- id: wu-jinglian
+  name: 吴敬琏
+  gender: m
+  born: 1930-01-24
+  birthplace: 江苏南京
+  roles: [scholar]
+  status: active
+  statusNote: 经济学家。
+  tier: 2
+  headline: 经济学家，市场化改革倡导者
+  ids: { wikidata: Q837451 }
+  bio: >-
+    《纽约时报》称他为中国最著名的经济学家之一。2013 年 11 月十八届三中全会前，他公开警告只有推进市场化改革并加快民主化、法治化，经济增长模式转型才可能实现，“舍此绝无他途”，并主张建立更独立的司法体系来约束党的权力。
+  cites: [c05-nytcn-2013-11-09-wu-jinglian, wd-Q837451]
+
+- id: li-yining
+  name: 厉以宁
+  gender: m
+  born: 1930-11-22
+  died: 2023-02-27
+  birthplace: 江苏南京
+  origin: 江苏仪征
+  roles: [scholar]
+  status: dead
+  statusNote: 2023 年 2 月 27 日在北京逝世，享年 92 岁。
+  tier: 2
+  headline: 经济学家，北京大学光华管理学院创始院长
+  ids: { wikidata: Q8460642 }
+  bio: >-
+    北京大学经济学家，官方称他是社会主义市场经济理论的重要开拓者，推动国有企业改革和民营经济发展。曾任光华管理学院院长、民盟中央副主席，七至九届全国人大常委、十至十二届全国政协常委。2018 年获“改革先锋”称号，2023 年 2 月去世。
+  positions:
+    - { title: 北京大学经济管理系主任、光华管理学院院长, sys: other, place: 北京, from: 1985, to: 2007, cite: c05-xinhua-2023-03-08-li-yining }
+    - { title: 中国民主同盟中央副主席, sys: other, cite: c05-xinhua-2023-03-08-li-yining }
+    - { title: 全国人大常委会委员（七至九届）, sys: other, cite: c05-xinhua-2023-03-08-li-yining }
+    - { title: 全国政协常委（十至十二届）, sys: other, cite: c05-xinhua-2023-03-08-li-yining }
+  cites: [c05-xinhua-2023-03-08-li-yining, wd-Q8460642]
+
+- id: zhao-ziyang
+  name: 赵紫阳
+  gender: m
+  born: 1919-10-17
+  died: 2005-01-17
+  birthplace: 河南滑县
+  roles: [psc, pb, cc]
+  status: dead
+  statusNote: 2005 年 1 月 17 日在北京逝世，终年 85 岁。
+  tier: 2
+  headline: 中共中央总书记（1987–1989）、国务院总理
+  ids: { wikidata: Q99829 }
+  bio: >-
+    改革开放前期主持经济改革，1980 年进入政治局常委会，1987 年任总书记。1989 年天安门运动期间因同情学生失去邓小平信任而下台。2005 年 1 月去世前，曾庆红代表中央领导前往医院看望；新华社称他在 1989 年“政治风波中”犯了严重错误。其秘密录音整理成的回忆录中文版《改革历程》2009 年在香港出版。
+  positions:
+    - { title: 广东省委书记, sys: party, place: 广东, from: 1974, to: 1975, cite: wd-Q99829 }
+    - { title: 国务院总理, sys: gov, from: 1980-09, to: 1987-11, cite: wd-Q99829 }
+    - { title: 中央政治局常委, sys: party, from: 1980-02, to: 1989-06, cite: wd-Q99829 }
+    - { title: 中共中央总书记, sys: party, from: 1987-01, to: 1989-06, cite: wd-Q99829 }
+  cites: [c05-xinhua-2005-01-29-zhao-ziyang, c05-chinanews-2005-01-17-zhao-ziyang, c05-bbc-2009-05-29-zhao-memoir, c05-bbc-2022-11-10-bao-tong, wd-Q99829]
+
+- id: bao-tong
+  name: 鲍彤
+  gender: m
+  born: 1932-11-05
+  died: 2022-11-09
+  origin: 浙江海宁
+  roles: [cc, dissent]
+  status: dead
+  statusNote: 2022 年 11 月 9 日去世，终年 90 岁。
+  tier: 2
+  headline: 赵紫阳政治秘书，中央政治体制改革研究室原主任
+  ids: { wikidata: Q2529263 }
+  bio: >-
+    赵紫阳的政治秘书，曾任国家体改委副主任、中央政治体制改革研究室主任和十三届中央委员，是因六四入狱的最高级别官员。1989 年 5 月 28 日被捕，1992 年被开除党籍、判刑七年，1996 年获释后长期受监控，仍持续撰文主张民主宪政，并推动赵紫阳录音整理出版。2022 年去世。
+  fall:
+    - { date: 1989-05-28, text: 在北京被捕, cite: c05-rfa-2022-11-09-bao-tong }
+    - { date: 1992, text: 被开除党籍，以泄露国家秘密罪和反革命宣传煽动罪判处有期徒刑 7 年, cite: c05-rfa-2022-11-09-bao-tong }
+    - { date: 1996, text: 刑满释放，此后长期处于监控之下, cite: c05-bbc-2022-11-10-bao-tong }
+  positions:
+    - { title: 中央委员, sys: party, from: 1987-11, to: 1992-03, cite: wd-Q2529263 }
+    - { title: 国家经济体制改革委员会副主任, sys: gov, cite: c05-bbc-2022-11-10-bao-tong }
+    - { title: 中共中央政治体制改革研究室主任, sys: party, cite: c05-bbc-2022-11-10-bao-tong }
+  cites: [c05-bbc-2022-11-10-bao-tong, c05-rfa-2022-11-09-bao-tong, wd-Q2529263]
+
+- id: hu-deping
+  name: 胡德平
+  gender: m
+  born: 1942-11
+  roles: [family]
+  status: retired
+  statusNote: 已退出领导岗位；2013 年时任全国政协常委。
+  tier: 2
+  headline: 全国工商联原党组书记，胡耀邦长子
+  ids: { wikidata: Q382318 }
+  bio: >-
+    胡耀邦长子，曾任全国工商联党组书记、全国政协常委兼经济委员会副主任。BBC 报道，他在十八大前几个月曾到习近平家中恳谈，随后撰文《改革不可废 承诺不可弃》，主张破除国企垄断、落实宪政法治，批评“权大于法”。2013 年他又呼吁中共在宪法范围内活动，学者汪玉凯称其观点代表改革派的呼声。
+  family:
+    - name: 胡德华
+      rel: 弟弟
+      text: >-
+        BBC 2016 年 4 月 6 日报道，巴拿马文件显示胡耀邦三子胡德华是一家离岸公司的董事和股东。
+      cites: [c05-bbc-2016-04-06-panama-china]
+  positions:
+    - { title: 全国工商联党组书记, sys: party, cite: c05-voa-2013-04-03-hu-deping }
+    - { title: 全国政协常委, sys: other, cite: c05-voa-2013-04-03-hu-deping }
+    - { title: 全国政协经济委员会副主任, sys: other, cite: c05-voa-2013-04-03-hu-deping }
+  cites: [c05-bbc-2012-11-03-hu-deping, c05-voa-2013-04-03-hu-deping, wd-Q382318]

@@ -1,0 +1,654 @@
+# B04: Xi Jinping, Peng Liyuan, and the 18th standing committee members Wang Qishan, Yu Zhengsheng, Liu Yunshan.
+- id: xi-jinping
+  name: 习近平
+  pinyin: Xí Jìnpíng
+  gender: m
+  ethnicity: 汉族
+  born: 1953-06-15
+  birthplace: 北京
+  origin: 陕西富平
+  education:
+    - { school: 清华大学化工系基本有机合成专业, from: 1975, to: 1979 }
+    - { school: 清华大学人文社会学院马克思主义理论与思想政治教育专业, degree: 法学博士（在职）, from: 1998, to: 2002 }
+  joinedParty: 1974-01
+  joinedWork: 1969-01
+  roles: [psc, pb, sec, cmc, cc, prov]
+  status: active
+  tier: 1
+  headline: 中共中央总书记、国家主席、中央军委主席（2012– ）
+  ids: { wikidata: Q15031 }
+  factions:
+    - f: princelings
+      cite: b04-brookings-2013-princelings
+      quote: Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan
+      zh: 政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山
+    - f: elitist
+      cite: b04-brookings-2013-princelings
+      quote: the “elitist coalition,” which emerged in the Jiang Zemin era and used to be headed by Jiang and is currently led by Xi Jinping
+      zh: “精英联盟”形成于江泽民时代，过去由江泽民领导，目前由习近平领导
+    - f: xi-jiajun
+      cite: b04-bbc-2017-10-25-19th-psc
+      quote: 常委中“习家军”占了两席，分别是习近平和栗战书
+  bio: >-
+    中共元老习仲勋之子，文革中下放陕北梁家河七年，此后在河北正定、福建、浙江、上海任职二十余年，2007 年进入政治局常委会成为接班人。
+    2012 年起任中共中央总书记、中央军委主席，2013 年起任国家主席。执政后发动中共建政以来规模最大的反腐运动，2016 年被确立为“核心”，2018 年修宪取消国家主席任期限制，2022 年开启第三任期。
+    2023 年以来，他提拔的外长秦刚、国防部长李尚福，以及军委副主席何卫东、张又侠等高级将领相继落马。
+  positions:
+    - { title: 延川县梁家河大队知青、党支部书记, sys: party, place: 陕西, from: 1969, to: 1975, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 国务院办公厅、中央军委办公厅秘书（现役）, sys: army, from: 1979, to: 1982, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 正定县委副书记, sys: party, place: 河北, from: 1982, to: 1983, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 正定县委书记, sys: party, place: 河北, from: 1983, to: 1985, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 厦门市委常委、副市长, sys: gov, place: 福建, from: 1985, to: 1988, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 宁德地委书记, sys: party, place: 福建, from: 1988, to: 1990, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 福州市委书记, sys: party, place: 福建, from: 1990, to: 1996, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 福建省委副书记, sys: party, place: 福建, from: 1995, to: 2002, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 福建省代省长、省长, sys: gov, place: 福建, from: 1999, to: 2002, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 浙江省代省长, sys: gov, place: 浙江, from: 2002, to: 2003, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 浙江省委书记, sys: party, place: 浙江, from: 2002, to: 2007, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2007, to: 2007, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中央政治局常委, sys: party, from: 2007, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中央书记处书记, sys: party, from: 2007, to: 2012, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中央党校校长, sys: party, from: 2007, to: 2012, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 国家副主席, sys: gov, from: 2008, to: 2013, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中央军委副主席, sys: army, from: 2010, to: 2012, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中共中央总书记, sys: party, from: 2012, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 中央军委主席, sys: army, from: 2012, cite: b04-xinhua-2018-03-17-xi-resume }
+    - { title: 国家主席, sys: gov, from: 2013, cite: b04-xinhua-2018-03-17-xi-resume }
+  life:
+    - h: 家世与文革
+      from: 1953
+      to: 1968
+      text: >-
+        1953 年 6 月生于北京，是习仲勋的第六个孩子，籍贯陕西富平。习仲勋是陕甘边区革命根据地的创建者之一，1952 年已任中共中央宣传部长，后任国务院秘书长、副总理。
+        BBC 写道，童年的习近平在北京高干家庭中过着特权生活。1960 年代初，习仲勋被指控为“反党”集团成员，遭开除党籍、下放工厂；文革中再遭清洗入狱，全家受株连，同父异母的姐姐习和平很可能在文革中不堪迫害自杀。
+        习近平 13 岁时，北京学校“停课闹革命”，他的学业就此中断；作为“反革命分子”之子，他被送进再教育机构。
+      cites: [b04-bbc-xi-lost-princeling, b04-bbc-xi-cave-to-summit, b04-bbc-2012-09-04-psc-profiles, b04-cctv-2020-10-21-xi-geng-biao, b04-xinhua-2018-03-17-xi-resume]
+    - h: 梁家河七年
+      from: 1969
+      to: 1975
+      text: >-
+        1969 年 1 月，15 岁的习近平随北京知青专列赴陕北，落户延川县文安驿公社梁家河大队，在窑洞里住了七年，从事耕种、挑粪、挖沟等劳动。他 2004 年回忆，出发时车上人人都哭，“就是我在笑”，因为留在北京“有命没命我都不知道了”。
+        因父亲蹲监狱、家人受迫害，他多次申请入党被拒，1974 年 1 月终获入党，并任大队党支部书记。他后来常说：“我永远是黄土地的儿子”；BBC 记者凯瑞则指出，这段经历在官方叙事中“经过仔细净化消毒”，梁家河已成为党员朝圣之地。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-xi-lost-princeling, b04-bbc-xi-cave-to-summit]
+    - h: 清华与耿飚秘书
+      from: 1975
+      to: 1982
+      text: >-
+        1975 年离开农村，进入清华大学化工系基本有机合成专业学习。1979 年春毕业后被任命为国务院副总理耿飚的秘书；耿飚随即调任中央军委秘书长，习近平也转入中央军委工作，定为副连级，官方称这是他军旅生涯的起点，简历记为“国务院办公厅、中央军委办公厅秘书（现役）”。
+        1978 年习仲勋获平反，出任广东省委书记。维基解密公布的美国外交电文引述他少年时的朋友说，文革结束后他“为了求生存，选择比红还红”，并且从一开始就在规划升迁。1982 年，中央军委精简机关，他转业到地方。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-cctv-2020-10-21-xi-geng-biao, b04-bbc-xi-cave-to-summit]
+    - h: 正定
+      from: 1982
+      to: 1985
+      text: >-
+        1982 年出任河北正定县委副书记，次年升任县委书记，兼县武装部第一政委。1985 年，他随一个农业代表团访问美国艾奥瓦州，在当地一户人家借住；这段经历日后被中国官方媒体大篇幅报道，用来凸显他与美国的私人渊源。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-xi-lost-princeling, b04-bbc-xi-cave-to-summit]
+    - h: 福建十七年
+      from: 1985
+      to: 2002
+      text: >-
+        1985 年调任厦门市委常委、副市长，此后历任宁德地委书记、福州市委书记、福建省委副书记，1999 年任代省长，次年任省长，在福建一共工作十七年。1986 年经人介绍认识军旅歌唱家彭丽媛，次年结婚。
+        1998 至 2002 年，他在清华大学在职攻读马克思主义理论与思想政治教育专业，获法学博士学位。驻厦门同安的 31 集团军与他渊源颇深；BBC 指出，2025 年落马的何卫东、苗华、林向阳、秦树桐、王秀斌等上将都出身该集团军。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-2010-10-14-xi-profile, b04-bbc-2012-11-15-peng-profile, b04-bbc-2025-10-nine-generals]
+    - h: 浙江与上海
+      from: 2002
+      to: 2007
+      text: >-
+        2002 年调任浙江，先任代省长，同年任省委书记，2003 年起兼省人大常委会主任。他在浙江的一批旧部后来被称为“之江新军”，陈敏尔、蔡奇都是其中成员。
+        2007 年，上海市委书记陈良宇因社保基金案下台，他短暂接任上海市委书记。BBC 评论说，由于他主政的福建、浙江、上海都是经济发展最快的地区，外界视他为市场经济改革的支持者，但对他的政治主张了解甚少。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-2010-10-14-xi-profile, b04-bbc-2017-10-xi-anticorruption]
+    - h: 接班人
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年十七大上进入政治局常委会，兼任中央书记处书记、中央党校校长，被视为第五代接班人；2008 年任国家副主席，2010 年十七届五中全会增补为中央军委副主席，BBC 认为这是接任总书记的“最后一步准备工作”。
+        2009 年 2 月访问墨西哥时，他对华侨说：“有些吃饱了没事干的外国人，对我们的事情指手画脚。”据美国之音引述《南华早报》，官方媒体随后接到指示，撤下这番讲话的报道和视频。
+        2012 年 6 月，彭博社报道他的姐姐齐桥桥一家拥有大量商业资产，但未发现资产在习近平本人、彭丽媛或女儿名下，也无迹象显示他干预亲属的生意；报道发出后，彭博网站在中国大陆被屏蔽。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-2010-10-14-xi-profile, b04-cctv-2009-02-13-xi-mexico, b04-voa-2009-02-14-xi-mexico, b04-bloomberg-2012-06-29-xi-family, b04-bbc-2012-06-29-bloomberg-blocked]
+    - h: 打虎
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年 11 月十八届一中全会当选中共中央总书记、中央军委主席，2013 年任国家主席。首次亮相时他说：“人民对美好生活的向往，就是我们的奋斗目标。”又说党员干部中的贪污腐败等问题“必须下大气力解决”，“打铁还需自身硬”。半个月后参观《复兴之路》展览时，他提出了“中国梦”。
+        随后由王岐山主持中纪委，掀起中共建政以来规模最大的反腐运动。据十八届中纪委的报告，五年间立案审查中管干部 440 人，全国立案 154.5 万件、处分 153.7 万人。前政治局常委周永康 2015 年被判无期徒刑，成为 1949 年以来因腐败被查处的最高级别官员；徐才厚、郭伯雄、令计划、孙政才等也相继落马。BBC 统计，五年中被整肃的中央委员和候补委员有 35 人，与 1949 至 2012 年间的总数相当；批评者指出，被整肃的高官多是他的反对者或江泽民、胡锦涛的支持者。
+        他在 2012 年底的内部讲话中把苏共垮台归因于理想信念动摇，说苏共“竟无一人是男儿，没什么人出来抗争”。
+      cites: [b04-xinhua-2018-03-17-xi-resume, b04-gov-2012-11-15-xi-press, b04-xinhua-2012-11-29-china-dream, b04-gov-2017-10-29-ccdi-report, b04-bbc-2017-10-xi-anticorruption, b04-bbc-xi-cave-to-summit, b04-nytcn-2013-02-15-xi-soviet]
+    - h: 定于一尊
+      from: 2016
+      to: 2022
+      text: >-
+        2016 年 10 月十八届六中全会公报写入“以习近平同志为核心的党中央”。2017 年十九大把他的思想写入党章，新一届常委会没有安排接班人，BBC 引述的观察人士认为集体领导“可能将进一步削弱”。
+        2018 年 3 月 11 日，全国人大以 2958 票赞成、2 票反对、3 票弃权通过修宪，删除国家主席连任不得超过两届的规定，多名学者形容这是“政治的大倒退”。
+        2021 年 11 月，十九届六中全会通过《关于党的百年奋斗重大成就和历史经验的决议》，称他是“习近平新时代中国特色社会主义思想的主要创立者”，并写明“党确立习近平同志党中央的核心、全党的核心地位”。2022 年 10 月二十大，他开启历史性的第三任期，宋文笛说新常委“完全由习近平的门徒和坚定盟友组成”，史宗瀚则说“他的行为就像一位没有任何权力限制的领导人”。
+      cites: [b04-xinhua-2016-10-27-6th-plenum, b04-bbc-2017-10-25-19th-psc, b04-bbc-2018-03-11-term-limits, b04-gov-2021-11-16-resolution, b04-bbc-2022-10-23-third-term]
+    - h: 清零与转向
+      from: 2022
+      to: 2022
+      text: >-
+        2022 年 11 月，上海、北京等地爆发大规模抗议，反对严苛的新冠封控措施，有抗议者喊出让习近平下台的口号。12 月 7 日，官方发布防疫“十条”大幅放松管控，坚持许久的“清零”一词随即从官方会议和文件中消失。
+        学者陈澄对 BBC 说，仓促转向“肯定会伤害社会对政府的信任”。
+      cites: [b04-bbc-2022-12-covid-turn]
+    - h: 清洗自己的提拔者
+      from: 2023
+      to: 2026
+      text: >-
+        第三任期内，落马者越来越多是他本人提拔的人。2023 年 7 月，他提拔的外交部长秦刚上任仅半年多即被免职；同年升任国务委员的国防部长李尚福也很快被罢免。
+        2025 年 10 月，国防部一次公布开除军委副主席何卫东、军委政治工作部主任苗华等九名上将的党籍军籍，何卫东是近 60 年来首位在任期间遭到清洗的军委副主席。BBC 统计，他上台后已有 22 名上将被开除党籍军籍，其中 14 人是他任内提拔的。
+        2026 年 1 月，军委副主席张又侠、联合参谋部参谋长刘振立被立案审查，《解放军报》社论指二人“严重践踏破坏军委主席负责制”，9 月 21 日二人被开除党籍。至此，2022 年组成的本届军委中，除他以外的六名将领已有五人落马。7 月，马兴瑞也被开除党籍和公职，通报称其“大搞家族腐败”。
+        对将领成批落马，史宗瀚认为其中一些人不仅因为腐败，而是“变得太有野心”。
+      cites: [b04-bbc-2023-07-25-qin-gang, b04-bbc-2025-10-nine-generals, b04-bbc-2026-01-zhang-youxia, b04-chinanews-2026-09-21-zhang-liu-expelled, b04-xinhua-2026-07-14-ma-xingrui]
+    - h: 再访华盛顿
+      from: 2026
+      to: 2026
+      text: >-
+        2026 年 9 月下旬，他偕彭丽媛对美国进行国事访问，这是他时隔 11 年再次到访华盛顿，也是对特朗普当年访华的回访。9 月 24 日特朗普在白宫举行欢迎仪式，次日茶叙时两国元首同意构建“基于尊重、公平、对等的建设性战略稳定关系”。
+        BBC 写道，73 岁、执政近 14 年的习近平已不再是当年那位对艾奥瓦州农场感到好奇的县级官员。
+      cites: [b04-mfa-2026-09-24-xi-white-house, b04-xinhua-2026-09-25-xi-trump-tea, b04-bbc-xi-lost-princeling]
+  assess:
+    - voice: history
+      quote: true
+      text: 习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华，实现了马克思主义中国化新的飞跃
+      cite: b04-gov-2021-11-16-resolution
+    - voice: zh
+      quote: true
+      text: 批评人士指责习近平鼓励个人崇拜，他们指出，被整顿的大多数高级官员都曾是其反对者的支持者，或前国家主席江泽民和胡锦涛的支持者。
+      cite: b04-bbc-2017-10-xi-anticorruption
+    - voice: zh
+      quote: true
+      text: 犹如习近平自编、自导、自演了一场戏，有些人说他今次修宪差不多是政变，因为没有一个科学、透明的咨询。
+      cite: b04-bbc-2018-03-11-term-limits
+    - voice: zh
+      quote: true
+      text: 习近平今年64岁，属于中共太子党。在上台之前，他的一些亲戚拥有巨大财富。但没有证据显示他为家族谋取过商业利益。
+      cite: b04-bbc-xi-cave-to-summit
+    - voice: scholar
+      quote: true
+      text: Xi Jinping stands out for his devotion to the party and his skepticism of materialism – traits that suggest he believes that he is taking the revolutionary baton from his father.
+      zh: 习近平突出之处在于他对党的忠诚和对物质主义的怀疑——这些特质表明，他相信自己是在从父亲手中接过革命的接力棒。
+      cite: b04-npr-2025-05-28-torigian
+    - voice: zh
+      quote: true
+      text: 他的行为就像一位没有任何权力限制的领导人。
+      cite: b04-bbc-2022-10-23-third-term
+  family:
+    - name: 习仲勋
+      rel: 父亲
+      text: >-
+        中共元老，陕甘边区革命根据地的主要创建者和领导者之一，曾任中宣部长、国务院秘书长、副总理。1960 年代初被指控为“反党”集团成员，文革中入狱，1978 年平反后出任广东省委书记。
+        历史学者托里吉安（Joseph Torigian）在习仲勋传记中认为，把习仲勋看作开明改革派的形象建立在选择性解读和事后神话之上，他的一生更多由对党的忠诚塑造。
+      cites: [b04-bbc-xi-lost-princeling, b04-bbc-2012-09-04-psc-profiles, b04-bbc-xi-cave-to-summit, b04-arb-2025-torigian]
+    - name: 彭丽媛
+      rel: 妻子
+      text: >-
+        军旅民族歌唱家，1986 年经人介绍与时任厦门副市长的习近平相识，1987 年结婚。
+      cites: [b04-bbc-2012-11-15-peng-profile, b04-abc-2022-10-28-peng]
+    - name: 习明泽
+      rel: 女儿
+      text: >-
+        1992 年出生，是两人唯一的孩子，外界对她所知甚少。ABC 称她在哈佛大学学习心理学直到 2014 年，这一细节在中国从未被报道。
+      cites: [b04-bbc-xi-lost-princeling, b04-abc-2022-10-28-peng]
+    - name: 柯玲玲
+      rel: 前妻
+      text: >-
+        前中国驻英国大使柯华之女。BBC 2026 年的报道说两人 1979 年结婚、三年后离婚；BBC 2012 年引述中国媒体则说婚姻始于 1980 年代初，两三年后因感情不和离婚，没有孩子。
+      cites: [b04-bbc-xi-lost-princeling, b04-bbc-2012-11-15-peng-profile]
+    - name: 习和平
+      rel: 同父异母的姐姐
+      text: >-
+        据 BBC 报道，她很可能在文革中不堪迫害自杀。
+      cites: [b04-bbc-xi-cave-to-summit]
+    - name: 齐桥桥
+      rel: 姐姐
+      text: >-
+        彭博社 2012 年 6 月报道，它追溯到的习氏家族资产大多在齐桥桥、丈夫邓家贵和女儿张燕南名下，包括总资产 3.76 亿美元的公司投资、一家资产 17.3 亿美元的稀土公司 18% 的间接股份等，这些数字未扣除负债。报道同时说，没有资产追溯到习近平夫妇和女儿名下，也没有迹象显示习近平介入亲属的商业交易。
+      cites: [b04-bloomberg-2012-06-29-xi-family, b04-bbc-2012-06-29-bloomberg-blocked]
+    - name: 习远平
+      rel: 弟弟
+      text: >-
+        据彭博社 2012 年报道，任一家名为国际节能环保协会的能源咨询团体的创会会长，但并不实际参与运作。
+      cites: [b04-bloomberg-2012-06-29-xi-family]
+  cites: [b04-xinhua-2018-03-17-xi-resume, b04-bbc-xi-lost-princeling, b04-bbc-xi-cave-to-summit, b04-bbc-2017-10-xi-anticorruption, b04-bbc-2023-07-25-qin-gang, b04-bbc-2025-10-nine-generals, b04-bbc-2026-01-zhang-youxia, b04-xinhua-2016-10-27-6th-plenum, wd-Q15031]
+
+- id: peng-liyuan
+  name: 彭丽媛
+  pinyin: Péng Lìyuán
+  gender: f
+  ethnicity: 汉族
+  born: 1962-11-20
+  birthplace: 山东郓城
+  education:
+    - { school: 山东艺术学院中专部 }
+    - { school: 中国音乐学院, degree: 声乐硕士, to: 1990 }
+  joinedParty: 1985
+  roles: [family]
+  status: active
+  tier: 1
+  headline: 歌唱家、解放军少将，习近平夫人
+  ids: { wikidata: Q430911 }
+  bio: >-
+    民族声乐歌唱家，1980 年代初以《在希望的田野上》成名，长期在总政歌舞团演出，官至总政歌舞团团长、解放军艺术学院院长，少将军衔。
+    1987 年与时任厦门副市长的习近平结婚，在丈夫成名前比他更广为人知。2013 年成为第一夫人后频繁随访出镜，打破历任第一夫人低调的惯例，兼任世卫组织结核病和艾滋病防治亲善大使、联合国教科文组织女童和妇女教育特使。外媒认为她在塑造习近平亲民形象、维系他与军队的关系上作用显著。
+  positions:
+    - { title: 总政歌舞团团长, sys: army, cite: b04-bbc-2012-11-15-peng-profile }
+    - { title: 解放军艺术学院院长, sys: army, cite: b04-abc-2022-10-28-peng }
+    - { title: 世界卫生组织结核病和艾滋病防治亲善大使, sys: other, from: 2011-06, cite: b04-who-goodwill-ambassadors }
+    - { title: 联合国教科文组织促进女童和妇女教育特使, sys: other, from: 2014-03, cite: b04-people-2014-03-28-peng-unesco }
+  life:
+    - h: 郓城与山东艺校
+      from: 1962
+      to: 1980
+      text: >-
+        1962 年出生在山东郓城一个文化之家，父亲曾任县文化馆馆长，母亲是县剧团的主要演员。14 岁考入山东艺术学院中专部，专攻民族声乐，四年后加入解放军，成为文艺兵。
+      cites: [b04-bbc-2012-11-15-peng-profile]
+    - h: 成名
+      from: 1980
+      to: 1990
+      text: >-
+        1980 年代初以歌曲《在希望的田野上》一举成名。BBC 写道，她凭借每年在央视春节联欢晚会上的演出成为家喻户晓的人物，观众多达数亿。1984 年加入总政治部歌舞团，这个团资源丰富、演出机会多，向来是中国顶级音乐家和艺术家的去处。1985 年入党，后入中国音乐学院深造，1990 年获声乐硕士学位。据 ABC 报道，她曾为 1989 年 6 月镇压天安门广场抗议的部队演出。
+      cites: [b04-bbc-2012-11-15-peng-profile, b04-abc-2022-10-28-peng, b04-bbc-xi-lost-princeling]
+    - h: 结识习近平
+      from: 1986
+      to: 1992
+      text: >-
+        1986 年经朋友介绍，24 岁的她与 33 岁、已离过一次婚的厦门副市长习近平见面。据 ABC 描述，习近平问她“有多少种唱法”，令她觉得自己的才华受到重视；习近平后来对她说：“和你相见不到40分钟，我就认定你是我的妻子了。”不过据 BBC 转述《国际先驱论坛报》，她起初对他印象并不太好，觉得他看上去有点老、有点土气，后来才觉得他特别聪明。
+        两人 1987 年结婚，1992 年女儿习明泽出生。她 2007 年接受一家中国杂志采访时说，习近平在她眼中只是一位普通的丈夫，喜欢游泳和爬山，有时熬夜看电视上的体育比赛。
+      cites: [b04-abc-2022-10-28-peng, b04-bbc-2012-11-15-peng-profile, b04-bbc-2013-03-25-peng-first-lady]
+    - h: 将军歌唱家
+      from: 1990
+      to: 2012
+      text: >-
+        她在军中逐级晋升，2009 年已是少将军衔，丈夫成为领导人时她任总政歌舞团团长、解放军艺术学院院长。她领导过多次提高公众对艾滋病认识的活动，2011 年 6 月 3 日被世卫组织总干事陈冯富珍任命为结核病和艾滋病防治亲善大使。
+        学者郭学治对 ABC 说，她在军中的人望对习近平 2010 年进入军委领导层很有帮助。这些年里她的名气远在丈夫之上，BBC 记者凯瑞写道，外界多年来开玩笑说：“习近平是谁？是彭丽媛的老公。”
+      cites: [b04-abc-2022-10-28-peng, b04-bbc-2012-11-15-peng-profile, b04-who-goodwill-ambassadors, b04-bbc-xi-cave-to-summit]
+    - h: 第一夫人首秀
+      from: 2013
+      to: 2013
+      text: >-
+        2013 年 3 月 22 日起，她陪同习近平出访俄罗斯、坦桑尼亚、南非和刚果，这是她第一次以国家主席夫人身份出访。在莫斯科，她探望一所孤儿寄宿学校，对孩子们说“我代表中国千千万万个母亲来看望你们”；在坦桑尼亚，她参观总统夫人创办的妇女与发展基金会，赠送缝纫机和书包；在南非德班，她参观一所教残疾人学音乐的学校。人民日报海外版称她“亲和、亲民的形象获得了广泛好评”。
+        BBC 转述英国报纸说，中国媒体这时关注的不是习近平，而是她衣服的颜色、品牌和手袋；《国际先驱论坛报》说她的名人效应不亚于英国的凯特王妃，《每日电讯报》则把她比作让戈尔巴乔夫看上去更有人情味的赖莎。
+      cites: [b04-people-2013-03-30-peng-first-trip, b04-bbc-2013-03-25-peng-first-lady]
+    - h: 公益与争议
+      from: 2014
+      to: 2026
+      text: >-
+        2014 年 3 月，她在北京接待美国第一夫人米歇尔·奥巴马，陪同参观北师大二附中和故宫，还当场写下“厚德载物”相赠。同月 27 日，她在巴黎被联合国教科文组织授予促进女童和妇女教育特使称号，致辞说“我愿尽我所能，帮助更多孩子，为更多姐妹争取接受教育权利”。ABC 指出，中共宣传部门利用两人的爱情故事来缓和习近平的形象，民间称她“彭妈妈”。
+        2017 年 1 月，她在日内瓦获世卫组织续聘亲善大使，致辞说爱心是抗击疾病最好的疫苗。2022 年 1 月，一段被铁链锁住女子的视频在网上疯传，数十名异见人士致信联合国，要求撤销她的教科文组织特使职务。2026 年 9 月，她随习近平访问美国，与特朗普夫妇在白宫茶叙。
+      cites: [b04-bbc-2014-03-21-peng-michelle, b04-people-2014-03-28-peng-unesco, b04-abc-2022-10-28-peng, b04-xinhua-2017-01-19-peng-geneva, b04-xinhua-2026-09-25-xi-trump-tea]
+  assess:
+    - voice: west
+      quote: true
+      text: 她一直被视为润滑习近平和人民解放军之间顺利关系的最重要人物之一
+      cite: b04-abc-2022-10-28-peng
+    - voice: west
+      quote: true
+      text: 自从2013年习近平成为中国最有权势的人以来，中共宣传部门利用他与彭丽媛的关系来缓和他的形象。
+      cite: b04-abc-2022-10-28-peng
+    - voice: official
+      quote: true
+      text: 这个奖既是颁给中国国家主席夫人，也是颁给中国政府
+      cite: b04-xinhua-2017-01-19-peng-geneva
+    - voice: official
+      quote: true
+      text: 这些带有公益性和个人特色的活动同样为习近平的这次出访加分添彩，展现了开放包容的中国女性魅力。
+      cite: b04-people-2013-03-30-peng-first-trip
+    - voice: west
+      quote: true
+      text: 由于彭丽媛的文艺背景和名人效应，无疑将会给习近平加分。
+      cite: b04-bbc-2013-03-25-peng-first-lady
+  family:
+    - name: 习近平
+      rel: 丈夫
+      text: >-
+        1986 年相识，1987 年结婚。见“习近平”条。
+      cites: [b04-bbc-2012-11-15-peng-profile]
+    - name: 习明泽
+      rel: 女儿
+      text: >-
+        1992 年出生，曾在美国哈佛大学就读。
+      cites: [b04-bbc-xi-lost-princeling, b04-abc-2022-10-28-peng]
+  cites: [b04-bbc-2012-11-15-peng-profile, b04-abc-2022-10-28-peng, b04-who-goodwill-ambassadors, b04-bbc-xi-lost-princeling, b04-bbc-2013-03-25-peng-first-lady, b04-people-2013-03-30-peng-first-trip, b04-people-2014-03-28-peng-unesco, wd-Q430911]
+
+- id: wang-qishan
+  name: 王岐山
+  pinyin: Wáng Qíshān
+  gender: m
+  ethnicity: 汉族
+  born: 1948-07-19
+  birthplace: 山东青岛
+  origin: 山西天镇
+  education:
+    - { school: 西北大学历史系, from: 1973, to: 1976 }
+  joinedParty: 1983-02
+  joinedWork: 1969-01
+  roles: [psc, pb, ccdi, cc, prov]
+  status: retired
+  statusNote: 2017 年十九大到龄退出常委会，2018 至 2023 年任国家副主席。
+  tier: 1
+  headline: 中纪委书记（2012–2017）、国家副主席（2018–2023）
+  ids: { wikidata: Q18113 }
+  factions:
+    - f: princelings
+      cite: b04-brookings-2013-princelings
+      quote: Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan
+      zh: 政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山
+  bio: >-
+    历史学出身的经济官员，元老姚依林的女婿。1980 年代参与农村改革文件起草，此后长期在银行和金融系统任职，在广东、海南收拾金融和房地产残局，2003 年非典疫情中临危出任北京市长，有“救火队长”之称。
+    2008 年任副总理主管金融商贸。2012 至 2017 年任政治局常委、中纪委书记，主持习近平的反腐运动，被称为“打虎队长”。2017 年按“七上八下”惯例退出常委会，次年以非中央委员身份出任国家副主席，2023 年卸任。
+  positions:
+    - { title: 中国农村信托投资公司总经理, sys: other, from: 1988, to: 1989, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中国人民建设银行副行长, sys: other, from: 1989, to: 1993, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中国人民银行副行长, sys: gov, from: 1993, to: 1994, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中国（人民）建设银行行长, sys: other, from: 1994, to: 1997, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 广东省委常委、副省长, sys: gov, place: 广东, from: 1997, to: 2000, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 国务院经济体制改革办公室主任, sys: gov, from: 2000, to: 2002, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 海南省委书记, sys: party, place: 海南, from: 2002, to: 2003, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 北京市代市长、市长, sys: gov, place: 北京, from: 2003, to: 2007, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中央政治局委员, sys: party, from: 2007, to: 2012, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 国务院副总理, sys: gov, from: 2008, to: 2013, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中央政治局常委, sys: party, from: 2012, to: 2017, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 中央纪律检查委员会书记, sys: party, from: 2012, to: 2017, cite: b04-xinhua-2018-03-17-wang-resume }
+    - { title: 国家副主席, sys: gov, from: 2018-03, to: 2023-03, cite: b04-zaobao-2023-03-11-han-zheng-vp }
+  life:
+    - h: 知青与历史学徒
+      from: 1948
+      to: 1982
+      text: >-
+        1948 年 7 月生，籍贯山西天镇。1969 年，22 岁的他被分配到陕西延安县冯庄公社插队，1971 年起在陕西省博物馆工作，1973 至 1976 年在西北大学历史系学习，1979 年回到北京，任中国社会科学院近代史研究所实习研究员。
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp]
+    - h: 农村改革的幕僚
+      from: 1982
+      to: 1988
+      text: >-
+        1982 年进入中央书记处农村政策研究室、国务院农村发展研究中心，直接参与起草 1980 年代连续多个关于农村问题的中央一号文件。同年，他的岳父姚依林当选中央书记处书记；BBC 写道，他由此“离开历史专业，开始接触中国经济，并步入仕途”。
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-bbc-2012-11-14-wang-ccdi]
+    - h: 银行家
+      from: 1988
+      to: 1997
+      text: >-
+        1988 年起历任中国农村信托投资公司总经理、人民建设银行副行长、人民银行副行长、建设银行行长，任内推动建行与摩根士丹利合作，成立中国第一家合资投资银行中国国际金融有限公司并兼任董事长。新华社说，他在建行提出“特色就是魅力，要一心一意办银行”。
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-people-2012-12-25-wang-profile-2]
+    - h: 金融救火队长
+      from: 1997
+      to: 2003
+      text: >-
+        1997 年调任广东省委常委、副省长。时值亚洲金融危机，“广国投”和“粤海”的巨额债务接踵而至，广东地方非银行金融机构有 1000 亿元人民币的支付缺口。他拿出“广国投”破产、“粤海”重组的方案，并处置 843 家农金会、150 家城信社等地方中小金融机构，新华社称他用三年时间化解了这一缺口；BBC 则说他避免了一场可能的银行业危机。
+        2000 年任国务院体改办主任，2002 年任海南省委书记，处理房地产泡沫破裂的遗留问题。中国媒体因此给他起了“救火队长”“解困高手”等绰号。
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-people-2012-12-25-wang-profile-2]
+    - h: 北京市长与副总理
+      from: 2003
+      to: 2012
+      text: >-
+        2003 年非典疫情暴发，北京市长孟学农因应对不力被免职，到海南才 5 个月的他于 4 月 22 日“火线”就任北京代市长，当天就去批发市场、菜市场和医药大楼查看物资短缺。第三天，他召开只开了 30 分钟的市政府常务会议部署防治，会后小汤山医院当日开工。新华社说他在半年里体重下降了 10 公斤。
+        次年任市长，兼北京奥组委执行主席。2007 年进入政治局，2008 年任国务院副总理，主管金融和商贸，兼任 2010 年上海世博会组委会主任，主持了同美国和俄罗斯的一系列经贸谈判，是中美战略与经济对话的中方牵头人之一。
+      cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-bbc-2012-11-14-wang-ccdi, b04-brookings-2013-princelings, b04-gov-2012-12-25-wang-profile]
+    - h: 打虎队长
+      from: 2012
+      to: 2017
+      text: >-
+        十八大上，上届政治局委员中只有他同时进入中纪委，随即出任中纪委书记、政治局常委，成为习近平反腐运动的主帅。BBC 认为，他为反腐运动出的力为习近平在普通百姓中赢得了不少好名声。
+        上任半个月后的 2012 年 11 月 30 日，他召开专家学者座谈会，说反腐要“润物细无声”，不搞“三把火”，又说“信任不能代替监督”。据 BBC 报道，他这时期还在座谈会上向学者推荐托克维尔的《旧制度与大革命》，此书一度洛阳纸贵。2015 年会见外宾时，他说中国共产党的合法性“源自于历史，是人心向背决定的，是人民的选择”。
+        2017 年，流亡美国的富商郭文贵在网上指控他及家人隐藏巨额利益，中国媒体称已辟谣，他本人未作回应。
+      cites: [b04-bbc-2012-11-14-wang-ccdi, b04-bbc-2018-03-17-wang-vp, b04-people-2015-09-10-wang-legitimacy, b04-bbc-xi-cave-to-summit, b04-gov-2012-12-25-wang-profile]
+    - h: 五年战果
+      from: 2012
+      to: 2017
+      text: >-
+        据十八届中央纪委向十九大提交的工作报告，五年间经党中央批准立案审查的省军级以上党员干部及其他中管干部共 440 人，其中十八届中央委员、候补委员 43 人，中纪委委员 9 人；全国纪检监察机关立案 154.5 万件，处分 153.7 万人。
+        中央巡视组开展 12 轮巡视，覆盖 277 个党组织，报告称这是中共历史上首次在一届任期内实现巡视全覆盖，中纪委审查的案件超过六成线索来自巡视。2014 年起，“天网行动”从 90 多个国家和地区追回外逃人员 3453 名。
+      cites: [b04-gov-2017-10-29-ccdi-report]
+    - h: 退而复出
+      from: 2017
+      to: 2023
+      text: >-
+        2017 年十九大时他已 69 岁，未当选新一届中央委员和中纪委委员；早前外传他可能打破“七上八下”留任，联合早报认为他的卸任表明这一不成文规定依然有效。
+        但他随即当选十三届全国人大代表，2018 年 3 月 17 日以 2969 票赞成、1 票反对当选国家副主席，以非中央委员身份出任此职较为罕见，主要协助习近平从事外事活动。2023 年 3 月由韩正接任。
+      cites: [b04-zaobao-2017-10-25-wang-exit, b04-bbc-2018-03-17-wang-vp, b04-zaobao-2023-03-11-han-zheng-vp]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Wang, whose nickname is “the chief of the fire brigade,” is arguably the most competent policy maker in economic and financial affairs in the Chinese leadership.
+      zh: 外号“救火队长”的王岐山，可以说是中国领导层中经济和金融事务上最能干的决策者。
+      cite: b04-brookings-2013-princelings
+    - voice: zh
+      quote: true
+      text: 过去五年，王岐山为习近平的反腐运动所贡献的力量为习近平在普通老百姓中收获了不少好名声。
+      cite: b04-bbc-2018-03-17-wang-vp
+    - voice: west
+      text: 法新社引述悉尼大学的布郎教授说，让一位以同美国打交道著称的经济专家主管反腐，显示中共为强调打击腐败做出了调整。
+      cite: b04-bbc-2012-11-14-wang-ccdi
+  family:
+    - name: 姚依林
+      rel: 岳父
+      text: >-
+        中共元老，1982 年当选中央政治局候补委员和中央书记处书记。
+      cites: [b04-bbc-2012-11-14-wang-ccdi]
+  cites: [b04-xinhua-2018-03-17-wang-resume, b04-bbc-2018-03-17-wang-vp, b04-bbc-2012-11-14-wang-ccdi, b04-zaobao-2017-10-25-wang-exit, b04-gov-2012-12-25-wang-profile, b04-gov-2017-10-29-ccdi-report, wd-Q18113]
+
+- id: yu-zhengsheng
+  name: 俞正声
+  pinyin: Yú Zhèngshēng
+  gender: m
+  ethnicity: 汉族
+  born: 1945-04
+  birthplace: 陕西延安
+  origin: 浙江绍兴
+  education:
+    - { school: 哈尔滨军事工程学院导弹工程系, from: 1963, to: 1968 }
+  joinedParty: 1964-11
+  joinedWork: 1963-08
+  roles: [psc, pb, cc, prov, minister]
+  status: retired
+  statusNote: 2017 年十九大退出中央委员会，2018 年 3 月卸任全国政协主席。
+  tier: 1
+  headline: 全国政协主席（2013–2018）
+  ids: { wikidata: Q115671 }
+  factions:
+    - f: princelings
+      cite: b04-bbc-2007-10-27-yu-shanghai
+      quote: 与习近平一样，俞正声也属“太子党”
+  bio: >-
+    中共早期领导人黄敬与范瑾之子，导弹专业出身，从电子工业部门起步，历任烟台、青岛主官、建设部长、湖北和上海市委书记。1985 年其兄、国家安全部官员俞强声叛逃美国，他的仕途并未因此中断。
+    2007 年接替习近平主政上海，2012 年进入政治局常委会，2013 至 2018 年任全国政协主席。BBC 和布鲁金斯学会学者李成都把他与习近平同列为“太子党”。
+  positions:
+    - { title: 烟台市委副书记、市长, sys: party, place: 山东, from: 1985, to: 1989, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 青岛市委副书记、市长, sys: gov, place: 山东, from: 1989, to: 1994, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 青岛市委书记, sys: party, place: 山东, from: 1992, to: 1997, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 建设部部长, sys: gov, from: 1998, to: 2001, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 湖北省委书记, sys: party, place: 湖北, from: 2001, to: 2007, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 中央政治局委员, sys: party, from: 2002, to: 2012, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2007, to: 2012-11, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 中央政治局常委, sys: party, from: 2012, to: 2017, cite: b04-xinhua-2013-03-11-yu-resume }
+    - { title: 全国政协主席, sys: other, from: 2013-03, to: 2018-03, cite: b04-cppcc-2018-03-14-wang-yang }
+  life:
+    - h: 红色家庭
+      from: 1945
+      to: 1963
+      text: >-
+        1945 年 4 月生于延安，籍贯浙江绍兴，是黄敬与范瑾的次子。父亲黄敬原名俞启威，是江青的前夫和她入党的介绍人，1949 年后任天津市首任市长；母亲范瑾是历史学家范文澜的妹妹，曾任《北京日报》社长、北京市副市长。
+        谈到家庭的影响，他对新华社说：“他们就是希望我们做一个正直的人，不要有特权，不要谋求特权。”
+      cites: [b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng, b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile]
+    - h: 导弹专业与电子工业
+      from: 1963
+      to: 1985
+      text: >-
+        1963 年入哈尔滨军事工程学院导弹工程系，学习弹道式导弹自动控制，1968 年分配到河北张家口无线电厂当技术员。1975 年进入第四机械工业部电子技术推广应用研究所，此后升至电子工业部计划司副司长，前后做了 16 年技术工作。1984 年转任中国残疾人福利基金会副理事长。多年后他在上海视察电站设备基地时提了许多专业问题，企业负责人以为他是清华电站设备专业出身。
+      cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile]
+    - h: 兄长叛逃
+      from: 1985
+      to: 1985
+      text: >-
+        1985 年，他的哥哥、国家安全部官员俞强声叛逃美国，并向美方揭发了中情局分析员金无怠为中国间谍的身份，金无怠随即被捕，1986 年在狱中自杀。
+        俞强声的下落众说纷纭：BBC 2007 年称他两年后在南美被中共特工暗杀，美国之音 2015 年采访的前联邦调查局官员则否认了这一说法。美国之音还提到，坊间传言因邓朴方力保，俞家才屹立不倒，俞正声也才得以官至政治局常委。
+      cites: [b04-bbc-2012-06-01-state-security, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng]
+    - h: 山东与建设部
+      from: 1985
+      to: 2001
+      text: >-
+        叛逃事件同年，他出任山东烟台市委副书记，1987 年任市长；1989 年调青岛，1992 至 1997 年任山东省委常委、青岛市委书记。1997 年进京任建设部党组书记，1998 至 2001 年任建设部部长。
+        据新华社介绍，他任烟台市长时在全国率先推行房改；在青岛重视工业品牌，海尔、海信、澳柯玛由此在全国出名，他也得了“品牌市长”的称号，还曾通过电视公布自己的收入、住房和收受礼品的处理情况。到建设部后，他把“抓质量”定为第一中心工作。
+      cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile]
+    - h: 湖北
+      from: 2001
+      to: 2007
+      text: >-
+        2001 年任湖北省委书记，次年进入政治局。他在湖北主推武汉城市圈和县域经济这“两大抓手”。2007 年 10 月调离时，中组部副部长沈跃跃评价他在湖北的六年是湖北“经济社会发展最快、最好”的时期之一。
+      cites: [b04-xinhua-2013-03-11-yu-resume, b04-bbc-2007-10-27-yu-shanghai, b04-gov-2012-12-24-yu-profile]
+    - h: 上海
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年 10 月调任上海市委书记，接替升任常委的习近平。到任不久，市委公开纳谏，宣布“言论无禁区，只要有建设性即可”，新华社称之为“俞式风格”。任内南汇并入浦东，上海在全国率先试点营业税改增值税；他兼任世博会执委会主任，2010 年世博会半年吸引 7300 多万人次参观。
+        2008 年上海两会上他说“上海没出马云我们多少有问题”，引发“上海为何出不了马云”的讨论；2012 年初他又坦言，转型就要接受增速和财政收入下降。2012 年 11 月 20 日，他卸任上海市委书记。
+      cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile, b04-cntv-2012-01-12-yu-transition]
+    - h: 政协主席
+      from: 2012
+      to: 2018
+      text: >-
+        2012 年十八大进入政治局常委会，同年 12 月下旬与习近平一起在一天半内登门走访 8 个民主党派中央和全国工商联。2013 年 3 月当选十二届全国政协主席，是第八位全国政协主席。日本《产经新闻》当时报道称，这次人事变动令政协成了“太子党俱乐部”，认为政协可能成为习近平的势力范围。
+        2017 年十九大，他与张德江、刘云山、张高丽一起未进入新一届中央委员会，告别政坛；2018 年 3 月 14 日，汪洋当选全国政协主席，接替了他。
+      cites: [b04-xinhua-2013-03-11-yu-resume, b04-xinhua-2013-03-11-yu-profile, b04-bbc-2013-03-12-cppcc-princelings, b04-zaobao-2017-10-25-wang-exit, b04-cppcc-2018-03-14-wang-yang]
+  assess:
+    - voice: official
+      quote: true
+      text: 言谈举止中透着儒雅之风的俞正声，是位学者型领导，有着从中央到地方多个领导岗位的丰富从政经历。
+      cite: b04-gov-2012-12-24-yu-profile
+    - voice: official
+      quote: true
+      text: 俞正声在湖北的六年，是湖北改革开放以来全省经济社会发展最快、最好，老百姓得到实惠最多的时期之一
+      cite: b04-bbc-2007-10-27-yu-shanghai
+    - voice: japan
+      quote: true
+      text: 刚当选全国政协主席的俞正声，其父是前天津市委书记的中共长老黄敬，所以俞正声是太子党成员之一。
+      cite: b04-bbc-2013-03-12-cppcc-princelings
+    - voice: scholar
+      quote: true
+      text: Some Chinese analysts argue that due to their princeling background, these leaders have more political capital and resources than did their predecessors Hu Jintao and Wen Jiabao
+      zh: 一些中国分析人士认为，由于太子党背景，这几位领导人比出身寒微的前任胡锦涛、温家宝拥有更多政治资本和资源。
+      cite: b04-brookings-2013-princelings
+  family:
+    - name: 黄敬（俞启威）
+      rel: 父亲
+      text: >-
+        1930 年代在上海投身中共，是江青的前夫和入党介绍人，1949 年后任天津市首任市长。
+      cites: [b04-voa-2015-12-11-yu-qiangsheng, b04-bbc-2007-10-27-yu-shanghai]
+    - name: 范瑾
+      rel: 母亲
+      text: >-
+        历史学家范文澜的妹妹，曾任天津日报社总编辑、《北京日报》社长、北京市副市长。
+      cites: [b04-bbc-2007-10-27-yu-shanghai]
+    - name: 张志凯
+      rel: 妻子
+      text: >-
+        前国防科工委副主任张震寰之女，已退休。两人育有一子。
+      cites: [b04-bbc-2007-10-27-yu-shanghai, b04-gov-2012-12-24-yu-profile]
+    - name: 俞强声
+      rel: 哥哥
+      text: >-
+        国家安全部官员，1985 年叛逃美国，导致中国间谍金无怠暴露被捕。BBC 2007 年称他两年后在南美被暗杀，美国之音 2015 年采访的前联邦调查局官员否认这一说法。
+      cites: [b04-bbc-2012-06-01-state-security, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng]
+  cites: [b04-xinhua-2013-03-11-yu-resume, b04-gov-2012-12-24-yu-profile, b04-bbc-2007-10-27-yu-shanghai, b04-voa-2015-12-11-yu-qiangsheng, b04-bbc-2013-03-12-cppcc-princelings, b04-cppcc-2018-03-14-wang-yang, b04-brookings-2013-princelings, wd-Q115671]
+
+- id: liu-yunshan
+  name: 刘云山
+  pinyin: Liú Yúnshān
+  gender: m
+  ethnicity: 汉族
+  born: 1947-07
+  birthplace: 内蒙古土默特右旗
+  origin: 山西忻州
+  education:
+    - { school: 内蒙古集宁师范学校, from: 1964, to: 1968 }
+    - { school: 中央党校函授学院党政管理专业, from: 1989, to: 1992 }
+  joinedParty: 1971-04
+  joinedWork: 1966-09
+  roles: [psc, pb, sec, cc]
+  status: retired
+  statusNote: 2017 年十九大未进入新一届中央委员会，退出政坛。
+  tier: 1
+  headline: 中宣部长（2002–2012）、政治局常委（2012–2017）
+  ids: { wikidata: Q553121 }
+  bio: >-
+    内蒙古出身的宣传系统官员，新华社记者起家，1985 年 38 岁即当选候补中委。1993 年进京任中宣部副部长，2002 至 2012 年任中宣部长，主导文化体制改革，官方誉之为“操盘手”，外媒则多强调他任内对媒体和网络的管控。
+    2012 年进入政治局常委会，仍任中央书记处书记；2017 年十九大退出中央委员会。
+  positions:
+    - { title: 新华社内蒙古分社记者, sys: other, place: 内蒙古, from: 1975, to: 1982, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 共青团内蒙古自治区委员会副书记, sys: party, place: 内蒙古, from: 1982, to: 1984, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 内蒙古自治区党委宣传部部长, sys: party, place: 内蒙古, from: 1986, to: 1987, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 内蒙古自治区党委秘书长, sys: party, place: 内蒙古, from: 1987, to: 1991, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 赤峰市委书记, sys: party, place: 内蒙古, from: 1991, to: 1993, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 中央宣传部副部长, sys: party, from: 1993, to: 2002, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 中央宣传部部长, sys: party, from: 2002, to: 2012-11, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2002, to: 2012-11, cite: b04-gov-2012-11-15-liu-resume }
+    - { title: 中央政治局常委、中央书记处书记, sys: party, from: 2012-11, to: 2017-10, cite: b04-gov-2012-11-15-liu-resume }
+  life:
+    - h: 内蒙古教师与记者
+      from: 1947
+      to: 1982
+      text: >-
+        1947 年 7 月生于内蒙古土默特右旗一个普通农民家庭，祖籍山西忻州。1964 至 1968 年就读集宁师范学校，BBC 指出这所学校“远不是一所名校”。毕业后当过农村教师、在公社劳动锻炼，1969 年起任土默特右旗旗委宣传部干事。
+        1975 至 1982 年任新华社内蒙古分社农牧组记者，所写通讯《夜宿车马店》被官方称为中国新闻界的范文。
+      cites: [b04-gov-2012-11-15-liu-resume, b04-chinanews-2012-12-25-liu-profile, b04-bbc-2012-09-04-psc-profiles]
+    - h: 从团干部到中宣部
+      from: 1982
+      to: 2002
+      text: >-
+        1982 年中共提倡提拔年轻干部，他调任内蒙古团委副书记，此后任自治区党委宣传部副部长、部长；1985 年中共全国代表会议上，年仅 38 岁的他当选候补中央委员。此后历任自治区党委秘书长、赤峰市委书记、自治区党委副书记。据新华社的人物特稿，1986 年任自治区党委宣传部长时，他为调研农村思想政治工作，独自坐火车、乘汽车、搭拖拉机下乡，进农家、住帐篷。
+        1993 年首次离开内蒙古，进京任中宣部副部长、常务副部长，1997 年起兼任中央精神文明建设指导委员会办公室主任。
+      cites: [b04-gov-2012-11-15-liu-resume, b04-chinanews-2012-12-25-liu-profile, b04-bbc-2012-09-04-psc-profiles]
+    - h: 中宣部长十年
+      from: 2002
+      to: 2012
+      text: >-
+        2002 年出任中宣部长，十六届一中全会上当选政治局委员、书记处书记。他把宣传工作概括为“坚持重在建设”，称中宣部实际上是个“建设部”，并常用“接地气才能有底气、长灵气”要求下属。
+        作为中央宣传思想工作领导小组副组长，他推动 2004 年启动的马克思主义理论研究和建设工程，设 160 多个课题组、3000 多名专家直接参与。十六大后的文化体制改革由他分管，国有经营性文化单位基本完成转企改制，他被官方誉为“操盘手”；新华社还称，他提出的“文化自觉、文化自信、文化自强”得到文化界、理论界的高度认同。公务之余他常写散文随笔，2011 年出访非洲后写的《文化的非洲》曾在文化界引起热议。
+      cites: [b04-gov-2012-11-15-liu-resume, b04-chinanews-2012-12-25-liu-profile]
+    - h: 管媒体与管网络
+      from: 2002
+      to: 2012
+      text: >-
+        新华社称，“传播力决定影响力，话语权决定主动权，透明度决定公信度”这句话出自他。2008 年汶川地震发生十几分钟后，他亲自打电话给央视台长，要求不间断直播；此后定下的“及时准确、公开透明、有序开放、有效管理、正确引导”二十字方针，成为官方媒体报道突发事件的原则。他还推动新闻界“走基层、转作风、改文风”，提倡“善待媒体、善用媒体、善管媒体”，主张媒体监督应是“建设性监督”。
+      cites: [b04-chinanews-2012-12-25-liu-profile]
+    - h: 管网络
+      from: 2002
+      to: 2012
+      text: >-
+        新华社称，他对互联网“始终持开放态度”，每天上网浏览资讯；他的说法是要大胆积极利用，同时依法管理，“管理是为了促进网络信息自由、有序、安全流动”。
+        2011 年 9 月会见日韩记者时，他说：“中宣部不可能完全管理五亿网民，批评是过高评价中宣部了”。日本《读卖新闻》认为，这番话显示中国将以新的法律措施来限制网络自由。半岛电视台则评论说，他任内收紧了对国内媒体的控制，同时推动大型官媒向海外扩张。
+      cites: [b04-chinanews-2012-12-25-liu-profile, b04-bbc-2011-09-08-liu-netizens, b04-aljazeera-2012-11-15-new-leaders]
+    - h: 常委与退休
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年十八大进入政治局常委会，在七名常委中排名第五，仍任中央书记处书记，并兼任中央党校校长，2013 年 1 月首次以这一身份出现在官方报道中。半岛电视台称他被普遍视为新领导层中较保守的一员。
+        2015 年 10 月，他率团赴平壤出席朝鲜劳动党成立 70 周年庆典，与金正恩一起观看阅兵。BBC 指出，这是金正恩 2011 年底掌权后首次会见中共最高层领导人，此行意在恢复因朝鲜核导问题而冷却的两党两国往来；金正恩在庆典上举起他的手向人群致意。他还到安州祭扫了中国人民志愿军烈士陵园。
+        2017 年十九大，他与张德江、俞正声、张高丽一起如外界所料未进入新一届中央委员会，告别政坛。
+      cites: [b04-gov-2012-11-15-liu-resume, b04-gov-2012-11-15-xi-press, b04-people-2013-01-15-liu-party-school, b04-aljazeera-2012-11-15-new-leaders, b04-gov-2015-10-11-liu-dprk, b04-bbc-2015-10-09-liu-dprk, b04-bbc-2015-10-11-dprk-kim, b04-zaobao-2017-10-25-wang-exit]
+  assess:
+    - voice: official
+      quote: true
+      text: 刘云山作为分管这项工作的领导，被誉为文化体制改革的“操盘手”。
+      cite: b04-chinanews-2012-12-25-liu-profile
+    - voice: official
+      quote: true
+      text: 从北疆边陲到首都北京，从新华社记者到中宣部部长，刘云山一路走来，始终给人谦和务实稳健的印象。
+      cite: b04-chinanews-2012-12-25-liu-profile
+    - voice: zh
+      quote: true
+      text: 刘云山的从政经历可以简单地划分为两段，1993年之前在内蒙古，1993年担任中共中央宣传部副部长，进入中央。
+      cite: b04-bbc-2012-09-04-psc-profiles
+    - voice: west
+      quote: true
+      text: As head of the party’s propaganda, 65-year-old Liu has tightened controls over domestic media, even as he encouraged big state media to expand overseas to push the government’s line on issues of the day.
+      zh: 作为党的宣传主管，65 岁的刘云山收紧了对国内媒体的控制，同时鼓励大型官方媒体向海外扩张，在时事议题上宣传政府立场。
+      cite: b04-aljazeera-2012-11-15-new-leaders
+    - voice: japan
+      quote: true
+      text: 刘云山的发言是显示中国将以新的法律措施来限制网络自由
+      cite: b04-bbc-2011-09-08-liu-netizens
+  family:
+    - name: 李素芳
+      rel: 妻子
+      text: >-
+        已退休。两人育有二子。
+      cites: [b04-chinanews-2012-12-25-liu-profile]
+  cites: [b04-gov-2012-11-15-liu-resume, b04-chinanews-2012-12-25-liu-profile, b04-people-2013-01-15-liu-party-school, b04-bbc-2011-09-08-liu-netizens, b04-aljazeera-2012-11-15-new-leaders, b04-gov-2015-10-11-liu-dprk, b04-bbc-2015-10-09-liu-dprk, wd-Q553121]

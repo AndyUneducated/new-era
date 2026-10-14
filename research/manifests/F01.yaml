@@ -1,0 +1,439 @@
+# F01: factions (content/factions/F01.yaml) and classic/binary faction tags (content/tags/F01.yaml).
+web:
+  # --- Cheng Li (Brookings): "one party, two coalitions" ---
+  - id: f01-brookings-2009-one-party-two-coalitions
+    title: One Party, Two Coalitions in China's Politics
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2009-08-16
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/one-party-two-coalitions-in-chinas-politics/
+    excerpt: true
+    keep: [two almost equally powerful coalitions, The Populist Coalition is currently led, The Elitist Coalition includes]
+  - id: f01-brookings-zh-team-of-rivals
+    title: 中国的“政敌团队”
+    publisher: 布鲁金斯学会
+    author: 李成
+    date: 2009-04-29
+    voice: scholar
+    url: https://www.brookings.edu/zh/articles/%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%94%BF%E6%95%8C%E5%9B%A2%E9%98%9F/
+    excerpt: true
+    keep: [目前由胡锦涛主席和温家宝总理领导, 胡锦涛本人也是团派的一员, 诞生于江泽民时代, 他们实际上分属两个互相竞争的派系, 一个政党，两种派别]
+  - id: f01-brookings-2012-04-16-power-shift
+    title: The Power Shift in China
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2012-04-16
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/the-power-shift-in-china/
+    excerpt: true
+    keep: [what can be called, The elitist coalition consists of princelings, Factional leaders with scandals]
+  - id: f01-brookings-2012-11-powerful-factions
+    title: The Powerful Factions Among China's Rulers
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2012-11-05
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/the-powerful-factions-among-chinas-rulers/
+    excerpt: true
+    keep: [is currently led by both Wu Bangguo, four-to-five split, garnered the label tuanpai, a rising star in the tuanpai faction, two-to-five]
+  - id: f01-bbc-2012-11-06-cheng-li-factions
+    title: 观点：中国统治者中的权力派系
+    publisher: BBC 中文
+    author: 李成
+    date: 2012-11-06
+    voice: scholar
+    url: https://www.bbc.com/zhongwen/simp/indepth/2012/11/121106_analysis_china_power
+    excerpt: true
+    keep: [这两派之一是以胡锦涛和温家宝为首的, 现在的政治局九名常委中, 最严重的危机之一是属于]
+  - id: f01-brookings-2013-02-10-princelings
+    title: Rule of the Princelings
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2013-02-10
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/rule-of-the-princelings/
+    excerpt: true
+    keep:
+      - the Jiang camp won a landslide victory
+      - is currently led by Xi Jinping
+      - dual identities as both princeling and tuanpai
+      - all were tuanpai leaders
+      - Four princeling leaders on the PSC
+      - a heavyweight leader in the Jiang camp
+      - Prominent tuanpai leaders
+      - a prominent princeling, then PSC member
+      - Ling has long served
+  - id: f01-brookings-2017-new-politburo
+    title: China's new Politburo and Politburo Standing Committee
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2017-10
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/chinas-new-politburo-standing-committee/
+    excerpt: true
+    keep: [Xi is a princeling, Li is widely considered to be a protégé of Hu Jintao, most important power base, spokesperson, earned membership in the, Han has been widely recognized, with whom he developed strong patron-client ties]
+  # --- media around the 16th-18th congresses ---
+  - id: f01-bbc-2002-shanghai-gang
+    title: 分析：十六大与“上海帮”
+    publisher: BBC 中文
+    author: 魏城
+    date: 2002-10-17
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_2300000/newsid_2308000/2308055.stm
+    excerpt: true
+    keep: [并不一定都是指生在上海的干部, 这个说法并不确切, 目前中共内部的其它派别, 秘书党]
+  - id: f01-bbc-2002-11-15-new-team
+    title: 胡锦涛为首中共新班子诞生
+    publisher: BBC 中文
+    date: 2002-11-15
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_2470000/newsid_2479100/2479143.stm
+    excerpt: true
+    keep: [新常委中其余六人都是江泽民的亲信, 李鹏的亲信罗干, 朱镕基的亲信温家宝]
+  - id: f01-bbc-2002-11-15-psc-profiles
+    title: 中共政治局常委人数增至9人
+    publisher: BBC 中文
+    date: 2002-11-15
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_2479000/24799411.stm
+    excerpt: true
+    keep: [被视为是江泽民的亲信, 江泽民的另一名亲信, 江泽民最信赖的左右手, 64岁，江泽民的亲信, 据信也是江泽民的亲信]
+  - id: f01-bbc-2002-11-16-jiang-shadow
+    title: 分析：江泽民仍影响深重
+    publisher: BBC 中文
+    author: 马庆龙
+    date: 2002-11-15
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_2480000/24800631.stm
+    excerpt: true
+    keep: [至少四位常委都和江泽民的长期政治据点上海有关, 顾问与心腹, 老朋友贾庆林, 忠实助手黄菊, 江泽民亲自提拔的李长春, 也就开始形成聚拢了]
+  - id: f01-bbc-2007-10-23-succession
+    title: 分析：十七大引发的接班人谜思
+    publisher: BBC 中文
+    author: 尤翠茵
+    date: 2007-10-23
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7050000/newsid_7057700/7057785.stm
+    excerpt: true
+    keep: [等名称便会出现, 被视为胡锦涛亲信, 李长春和贾庆林仍然留在政治局常委, 未来中共领导政治的]
+  - id: f01-voa-2012-05-25-factions
+    title: 中共高层有几派？几派分权中南海？
+    publisher: 美国之音
+    author: 丁力
+    date: 2012-05-25
+    voice: zh
+    url: https://www.voachinese.com/a/china-leadership-factions-2012/1615924.html
+    excerpt: true
+    keep: [松散联盟, 这一派的名人为李克强, 既不准确也易误导, 一个政党，两个联盟]
+  - id: f01-bbc-2012-09-22-xi-factions
+    title: 分析：中共党内斗争习近平位置何在
+    publisher: BBC 中文
+    date: 2012-09-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120922_ccp18th_xi_china_leadership
+    excerpt: true
+    keep: [由中共总书记兼国家主席胡锦涛所领导的, 习近平便常被认定与, 单纯地以派系标签, 他同时也在中共党内拥有多方面且跨派系的政治资本和联系, 同样身为]
+  - id: f01-voa-2012-11-04-who-is-who
+    title: 红色群雄谱：18大谁上谁下？
+    publisher: 美国之音
+    author: 王南
+    date: 2012-11-04
+    voice: zh
+    url: https://www.voachinese.com/a/chinese-communist-party-leadership-who-is-who-20121104/1538917.html
+    excerpt: true
+    keep: [江派, 太子党, 团派]
+  - id: f01-dw-2012-11-07-psc-rumours
+    title: 十八大常委传言乱象（中国数字时代转载）
+    publisher: 德国之声
+    author: 张平
+    date: 2012-11-07
+    voice: zh
+    url: https://chinadigitaltimes.net/chinese/261673.html
+    excerpt: true
+    keep: [前四个确定的入选者中, 这些划分并没有得到公认]
+  - id: f01-nyt-2012-11-20-reformists
+    title: 谁是中共“改革派”？
+    publisher: 纽约时报中文网
+    author: 高昱
+    date: 2012-11-20
+    voice: zh
+    url: https://cn.nytimes.com/china/20121120/cc20gaoyu/
+    excerpt: true
+    keep: [属于前中共总书记胡锦涛的, 江派里则既有王岐山, 一直占据主导地位的, 目前党内两大主要派别江派和胡派]
+  # --- 19th and 20th congresses, Xi-era networks ---
+  - id: f01-bbc-2017-10-25-19th-psc
+    title: 中共新政治局常委揭晓 集体领导或被削弱
+    publisher: BBC 中文
+    date: 2017-10-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41752378
+    excerpt: true
+    keep: [占了两席, 团派、上海帮被大幅削弱, 中国只有一个派]
+  - id: f01-bbc-2022-10-23-20th-psc
+    title: 中共二十届政治局常委：习近平开启历史性第三任期
+    publisher: BBC 中文
+    date: 2022-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63362555
+    excerpt: true
+    keep: [不仅所有政治局常委都来自习近平派系, 赢家通吃的政治时代已经来临]
+  - id: f01-bbc-2022-10-28-pb-24
+    title: 中共二十大：解读政治局24人名单背后六种政治意涵
+    publisher: BBC 中文
+    author: 陈岩
+    date: 2022-10-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63422621
+    excerpt: true
+    keep: [指江泽民提拔曾在上海的僚属, 逐步退场, 派系在中国政治中的作用被过分强调, 每个人都在, 唯一重要的派系是, 未来派系竞争不会围绕]
+  - id: f01-reuters-2022-10-26-youth-league
+    title: China's Xi deals knockout blow to once-powerful Youth League faction
+    publisher: Reuters
+    author: Martin Quin Pollard
+    date: 2022-10-26
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2022/https://www.reuters.com/world/china/chinas-xi-deals-knockout-blow-once-powerful-youth-league-faction-2022-10-26/
+    excerpt: true
+    keep: [all rose through its Youth League, Premier Li Keqiang and Vice Premier Wang Yang, On Hu Chunhua, Youth League veteran, They are completely defeated, Shanghai Gang, Zhijiang New Army, after one particular faction is eliminated]
+  - id: f01-voa-2022-10-24-xi-jiajun
+    title: 简析中共中央政治局七名新常委：绝大多数都是习家军
+    publisher: 美国之音
+    author: 松仁
+    date: 2022-10-24
+    voice: zh
+    url: https://www.voachinese.com/a/a-look-at-the-7-men-slated-to-lead-china-s-communist-party-20221023/6801970.html
+    excerpt: true
+    keep: [新入常的四人则全是, 因此被称为, 陕西帮, 并担任他的政治秘书]
+  - id: f01-dw-2022-10-24-xi-jiajun
+    title: 习近平大权独揽 “习家军”四大重点分析
+    publisher: 德国之声
+    author: 叶家均
+    date: 2022-10-24
+    voice: zh
+    url: https://www.dw.com/zh/a-63536203
+    excerpt: true
+    keep: [赢者全拿, 团派势力, 团派全军覆灭]
+  - id: f01-dw-2023-03-12-xi-jiajun
+    title: 新一届政府组建完毕 习家军“一统天下”
+    publisher: 德国之声
+    date: 2023-03-12
+    voice: zh
+    url: https://www.dw.com/zh/%E6%96%B0%E4%B8%80%E5%B1%8A%E6%94%BF%E5%BA%9C%E7%BB%84%E5%BB%BA%E5%AE%8C%E6%AF%95-%E4%B9%A0%E5%AE%B6%E5%86%9B%E4%B8%80%E7%BB%9F%E5%A4%A9%E4%B8%8B/a-64959961
+    excerpt: true
+    keep: [习近平的亲信几乎接管了所有重要部门, 长年担任习近平首席秘书及幕僚长的丁薛祥]
+  - id: f01-rfa-2019-02-22-shaanxi
+    title: 赵乐际二十大上还有前途吗？（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2019-02-22
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02222019144012.html
+    excerpt: true
+    keep: [山头主义用人路线, 主要由以下三部分官员所构成, 之江新军, 人称]
+  - id: f01-bbc-2013-05-17-ding-xuexiang
+    title: 前上海官员丁薛祥出任习近平大管家
+    publisher: BBC 中文
+    date: 2013-05-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/05/130517_china_dingxuexiang
+    excerpt: true
+    keep: [扮演类似当年令计划的角色, 成为习的大管家]
+  - id: f01-asiasociety-tsinghua
+    title: The Rise of CCP Young Elites and Xi Jinping's "Tsinghua New Army"
+    publisher: Asia Society Policy Institute
+    author: Guoguang Wu
+    date: 2025-02-12
+    voice: scholar
+    lang: en
+    url: https://asiasociety.org/policy-institute/rise-ccp-young-elites-and-xi-jinpings-tsinghua-new-army
+    excerpt: true
+    keep: [takes the lead, Tsinghua clique, godfather-like role, intensify factional competition]
+  - id: f01-thinkchina-2022-09-27-factions
+    title: "[Party and the man] Factions and fence-sitters in Xi Jinping's China"
+    publisher: ThinkChina（联合早报）
+    author: Bo Zhiyue
+    date: 2022-09-27
+    voice: scholar
+    lang: en
+    url: https://www.thinkchina.sg/politics/party-and-man-factions-and-fence-sitters-xi-jinpings-china
+    excerpt: true
+    keep: [factions are a political label prepared for losers, these are not necessarily functional factions in real politics, Xi has developed his own faction, military princelings, has successfully pushed them into one loosely connected]
+  - id: f01-zaobao-2022-10-24-aerospace
+    title: 新型态技术官僚获重用 航天航太军工干部密集进入中共高层
+    publisher: 联合早报
+    author: 缪宗翰
+    date: 2022-10-24
+    voice: zh
+    url: https://web.archive.org/web/20221115131058/https://www.zaobao.com.sg/news/china/story20221024-1325900
+    excerpt: true
+    keep: [航天、航太或军工背景, 宇宙帮]
+  - id: f01-cna-2022-10-27-military-industry
+    title: 政治局加入軍工幹部 分析：折射習近平用人標準
+    publisher: 中央社
+    author: 張謙
+    date: 2022-10-27
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210270161.aspx
+    excerpt: true
+    keep: [是軍工系出身的幹部, 軍工系幹部是, 嚴格來說, 軍工三子]
+  - id: f01-bbc-2026-07-14-ma-xingrui
+    title: 马兴瑞被“双开”：习时代“技术官僚”代表陨落
+    publisher: BBC 中文
+    date: 2026-07-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp
+    excerpt: true
+    keep: [的从政顶峰, 技术官僚2.0, 一网打尽]
+  # --- purged groups ---
+  - id: f01-xinhua-2017-01-01-xi-speech
+    title: 习近平在党的十八届六中全会第二次全体会议上的讲话（节选）
+    publisher: 新华社
+    date: 2017-01-01
+    voice: doc
+    url: https://www.xinhuanet.com/politics/2017-01/01/c_1120228200.htm
+    excerpt: true
+    keep: [等政治阴谋活动, 搞团团伙伙、拉帮结派的有之]
+  - id: f01-bbc-2014-12-22-ling-jihua
+    title: 观察：令计划落马与习近平的打虎行动
+    publisher: BBC 中文
+    date: 2014-12-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/12/141222_li_jihua_
+    excerpt: true
+    keep: [新四人帮]
+  - id: f01-nyt-2016-01-28-conspiracy
+    title: 习近平内部讲话出版，首度公开抨击政治阴谋
+    publisher: 纽约时报中文网
+    date: 2016-01-28
+    voice: zh
+    url: https://cn.nytimes.com/china/20160128/c28chinaletter/
+    excerpt: true
+    keep: [首次正式公开宣布, 政变企图的暗语, 其实就是政变活动]
+  - id: f01-bbc-2017-01-03-conspiracy
+    title: 习近平指中共落马高官搞“政治阴谋活动”
+    publisher: BBC 中文
+    date: 2017-01-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-38496935
+    excerpt: true
+    keep: [似乎显示导致他们下台的是党内权力斗争而不是腐败]
+  - id: f01-bbc-2015-06-11-zhou-profile
+    title: 新闻人物：周永康
+    publisher: BBC 中文
+    date: 2015-06-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/06/150611_profile_zhouyongkang
+    excerpt: true
+    keep: [自石油系统带去四川, 政法王, 在四川、石油和政法系统的亲信人马, 石油系统的高官蒋洁敏]
+  - id: f01-bbc-2014-07-30-zhou-analysis
+    title: 分析：拿下周永康，巩固习近平时代的势力
+    publisher: BBC 中文
+    date: 2014-07-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/07/140730_ana_zhou_yongkang_treatment
+    excerpt: true
+    keep: [一层一层的将周永康的羽翼逐一击破, 石油帮]
+  - id: f01-cnr-2015-10-15-zhou-disciples
+    title: 周永康“众门徒”的结局
+    publisher: 央广网
+    date: 2015-10-15
+    voice: official
+    url: https://m.cnr.cn/news/20151015/t20151015_520149322.html
+    excerpt: true
+    keep: [形成了四川系、石油帮、政法系、秘书帮等团团伙伙, 的重要成员, 在石油系统培植了大量, 一直在宣传系统工作的李东生, 周本顺也曾是周永康政法系统]
+  - id: f01-rfi-2013-10-15-xishanhui
+    title: 罗昌平《打铁记》揭秘山西籍高官同乡会组织“西山会”
+    publisher: 法国国际广播电台
+    date: 2013-10-15
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20131015-%E7%BD%97%E6%98%8C%E5%B9%B3%E3%80%8A%E6%89%93%E9%93%81%E8%AE%B0%E3%80%8B%E6%8F%AD%E7%A7%98%E5%B1%B1%E8%A5%BF%E7%B1%8D%E9%AB%98%E5%AE%98%E5%90%8C%E4%B9%A1%E4%BC%9A%E7%BB%84%E7%BB%87%E2%80%9C%E8%A5%BF%E5%B1%B1%E4%BC%9A%E2%80%9D
+    excerpt: true
+    keep: [不晚于2007年, 这个派系，以山西平陆籍, 西山会虽然并非明确的政党]
+  - id: f01-thepaper-2017-guo-xu
+    title: 军纪委少将从纪检角度辨析郭徐流毒影响：严重迟滞了军改进程
+    publisher: 澎湃新闻
+    date: 2017-03
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1650433
+    excerpt: true
+    keep: [彻底肃清郭徐（郭伯雄、徐才厚）流毒影响, 三是严重违反军委主席负责制, 这是郭徐严重违纪违法最突出的要害, 表面五湖四海，背后拉帮结派]
+  - id: f01-bbc-2023-08-01-rocket-force
+    title: 中国任命火箭军新领导层 引发军中“清洗”猜测
+    publisher: BBC 中文
+    date: 2023-08-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66371405
+    excerpt: true
+    keep: [引发有关北京对这一掌管, 间接证实, 装备采购招标评审]
+  - id: f01-xinhua-2024-06-27-li-shangfu
+    title: 中央军委原委员、原国务委员兼国防部长李尚福受到开除党籍处分
+    publisher: 新华社
+    date: 2024-06-27
+    voice: official
+    url: https://www.news.cn/20240627/f929f9248c9f40bc8f9afe791c6a716f/c.html
+    excerpt: true
+    keep: [现已查明，李尚福, 严重污染军队装备领域政治生态]
+  - id: f01-xinhua-2024-06-27-wei-fenghe
+    title: 中央军委原委员、原国务委员兼国防部长魏凤和受到开除党籍处分
+    publisher: 新华社
+    date: 2024-06-27
+    voice: official
+    url: https://www.news.cn/politics/20240627/05994521863f4f89979be5f99e445845/c.html
+    excerpt: true
+    keep: [现已查明，魏凤和, 严重污染部队政治生态, 取消其火箭军上将军衔]
+  - id: f01-xinhua-2026-01-24-zhang-liu
+    title: 张又侠、刘振立涉嫌严重违纪违法被立案审查调查
+    publisher: 新华社（国防部网站）
+    date: 2026-01-24
+    voice: official
+    url: https://www.news.cn/20260124/d0526e74a7004ca6b29f7431c3b7c623/c.html
+    excerpt: true
+    keep: [决定对张又侠、刘振立立案审查调查]
+  - id: f01-xinhua-2026-09-21-zhang-liu
+    title: 张又侠、刘振立严重违纪违法被开除党籍军籍
+    publisher: 新华社
+    date: 2026-09-21
+    voice: official
+    url: https://www.news.cn/politics/20260921/ed84cef8e5ad411e9ebf80c5f43e375e/c.html
+    excerpt: true
+    keep: [搞团团伙伙，对党不忠诚不老实, 决定给予张又侠、刘振立开除党籍处分]
+  - id: f01-bbc-2026-01-27-zhang-youxia
+    title: 分析：张又侠“七宗罪”和“红二代”世交神话的破灭
+    publisher: BBC 中文
+    date: 2026-01-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cp80pl999gjo/simp
+    excerpt: true
+    keep: [陕西老乡突然倒台, 震中, 前所未有的, 牛犇认为最可能的解释是, 在摧毁了何卫东的派系之后, 西北-装备系, 张又侠阵营, 都是陕西籍的西北军领袖]
+  - id: f01-dw-2026-01-26-zhang-youxia
+    title: 张又侠其人？为何落马？
+    publisher: 德国之声
+    date: 2026-01-26
+    voice: zh
+    url: https://www.dw.com/zh/%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%85%B6%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%90%BD%E9%A9%AC/a-75665911
+    excerpt: true
+    keep: [在军队根基深厚的, 肥缺, 相互制衡的竞争关系, 中央军委只剩下两名成员]
+  # --- army ---
+  - id: f01-bbc-2025-10-23-nine-generals
+    title: 中共四中全会：解放军九上将同时官宣落马背后的潜在逻辑和补缺悬念
+    publisher: BBC 中文
+    date: 2025-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cd042g90z48o/simp
+    excerpt: true
+    keep: [都出身于31集团军, 派系标签, 不仅因腐败，而是变得太有野心]
+  - id: f01-voa-2024-04-04-princelings
+    title: 习近平决裂“太子党”
+    publisher: 美国之音
+    date: 2024-04-04
+    voice: zh
+    url: https://www.voachinese.com/a/xis-breakup-with-princelings-20240404/7557120.html
+    excerpt: true
+    keep: [彻底决裂, 刘亚洲本身就是, 中的顶级人物, 硕果仅存的, 西北帮]

@@ -1,0 +1,508 @@
+# B06: the 19th-20th standing committee (Han Zheng, Li Qiang, Cai Qi, Ding Xuexiang, Li Xi).
+web:
+  # --- shared
+  - id: b06-cppcc-2022-10-23-20th-resumes
+    title: 中共二十届中央领导机构成员简历
+    publisher: 新华社（全国政协网转载）
+    date: 2022-10-23
+    voice: official
+    url: http://www.cppcc.gov.cn/zxww/2022/10/24/ARTI1666573333950103.shtml
+    start: 新华社北京10月23日电
+    end: 现任中央书记处书记，公安部部长、党委书记，中央政法委员会副书记，总警监。
+  - id: b06-bbc-2022-10-23-psc
+    title: 中共二十届政治局常委：习近平开启历史性第三任期 李强预计出任总理 胡春华未入局
+    publisher: BBC 中文
+    date: 2022-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63362555
+    excerpt: true
+    keep:
+      - 七位中共中央政治局常委按照出场顺序
+      - 李强曾是一名工人
+      - 1992年，他成为省民政厅副厅长
+      - 2016年，李强被调往江苏任省委书记
+      - 上海爆发的新冠疫情为李强的继续升迁带来质疑
+      - 李强当上总理，确实令人惊讶
+      - 蔡奇同样是习近平在福建和浙江的旧部
+      - 2014年，他被调至中央
+      - 但蔡奇已宣布成为中央书记处书记
+      - 长期扮演习近平秘书角色的丁薛祥
+      - 宋文笛进一步表示
+      - 成为时任上海市委书记习近平的政治秘书
+      - 不久后又被授予习近平个人办公室主任的新头衔
+      - 被视为是习近平的“左膀右臂”
+  - id: b06-bbc-2022-09-psc-candidates
+    title: 中共二十大：谁有可能跻身新一届政治局常委
+    publisher: BBC 中文
+    date: 2022-09-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-62873631
+    excerpt: true
+    keep:
+      - 是“二十大”上进入常委会的关键人选
+      - 北京市委书记蔡奇同样是习近平在福建和浙江的旧部
+      - 他在2017年10月的“十九大”上
+      - 北京在疫情中成功举办了冬奥会
+  # --- Han Zheng
+  - id: b06-xinhua-2018-03-19-han-resume
+    title: 韩正简历
+    publisher: 新华社
+    date: 2018-03-19
+    voice: official
+    url: https://www.xinhuanet.com/politics/leaders/2018-03/19/c_1122560837.htm
+    start: 韩正，男，汉族
+    end: （新华社北京3月19日电）
+  - id: b06-gov-2023-03-10-han-vp
+    title: 中华人民共和国全国人民代表大会公告（第三号）
+    publisher: 新华社（中国政府网）
+    date: 2023-03-10
+    voice: doc
+    url: https://www.gov.cn/xinwen/2023-03/10/content_5745918.htm
+    start: 新华社北京3月10日电
+    end: 2023年3月10日于北京
+  - id: b06-gov-2023-03-10-state-leaders
+    title: 十四届全国人大一次会议选举产生新一届国家领导人
+    publisher: 新华社（中国政府网）
+    date: 2023-03-10
+    voice: official
+    url: https://www.gov.cn/xinwen/2023-03/10/content_5745910.htm
+    start: 习近平全票当选国家主席中央军委主席
+    end: 新当选的全国人大常委会副委员长、秘书长进行了集体宣誓。
+  - id: b06-chinanews-2006-09-25-han-acting
+    title: 中共中央日前决定韩正代理中共上海市委书记职务
+    publisher: 中新社
+    date: 2006-09-25
+    voice: official
+    url: http://www.chinanews.com.cn/other/news/2006/09-25/795575.shtml
+    start: 中新社上海九月二十五日电
+    end: 是中共十六届中央委员。
+  - id: b06-bbc-2014-09-23-shanghai-gang
+    title: 分析：习近平欲清盘“上海帮”？
+    publisher: BBC 中文
+    date: 2014-09-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/09/140923_shanghai_gang
+    excerpt: true
+    keep:
+      - 王岐山的工作组抵沪不久
+      - 江泽民出任中共总书记后
+      - 2006年9月24日
+      - 有人把现任上海市委书记韩正视为是
+  - id: b06-rti-2017-han-shanghai
+    title: 上海協助習近平 韓正受重視
+    publisher: 中央广播电台（Rti）
+    date: 2017-10-01
+    voice: zh
+    url: https://archive.news.rti.org.tw/news/view/id/371756.html
+    excerpt: true
+    keep:
+      - 國務院前總理朱鎔基的提拔
+      - 1987年，韓正在上海膠鞋廠
+      - 成為上海50多年來最年輕的市長
+      - 2007年3月，原任中共浙江省委書記的習近平調任上海市委書記
+      - 習近平2012年掌權後，在上海清理江派的動作從未停過
+  - id: b06-bbc-2017-10-25-19th-psc
+    title: 中共十九大七常委档案：细看中国最有权势的七个人
+    publisher: BBC 中文
+    date: 2017-10-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41745184
+    excerpt: true
+    keep:
+      - 韩正的主要政治生涯都在上海度过
+      - 2012年中共十八大后，韩正升任中共上海市委书记
+  - id: b06-xinhua-2019-11-06-han-lam
+    title: 韩正会见香港特别行政区行政长官林郑月娥
+    publisher: 新华社
+    date: 2019-11-06
+    voice: official
+    url: http://www.xinhuanet.com/politics/2019-11/06/c_1125200904.htm
+    start: 新华社北京11月6日电
+    end: 促进香港经济稳定发展。
+  - id: b06-xinhua-2025-01-20-han-vance
+    title: 韩正会见美国当选副总统万斯
+    publisher: 新华社
+    date: 2025-01-19
+    voice: official
+    url: http://www.news.cn/world/20250120/3503080c314e47cc99056d128ad1eff8/c.html
+    start: 新华社华盛顿1月19日电
+    end: 共同促进世界和平稳定。
+  - id: b06-gov-2025-01-21-han-inauguration
+    title: 韩正出席美国总统就职典礼
+    publisher: 新华社（中国政府网）
+    date: 2025-01-21
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202501/content_7000181.htm
+    start: 新华社华盛顿1月20日电
+    end: 愿继续为此发挥积极作用。
+  - id: b06-embassy-2026-03-25-han-kenya
+    title: 韩正访问肯尼亚
+    publisher: 新华社（中国驻肯尼亚大使馆转载）
+    date: 2026-03-25
+    voice: official
+    url: https://ke.china-embassy.gov.cn/zxyw/202603/t20260325_11880847.htm
+    start: 当地时间2026年3月22日至25日
+    end: （来源：新华社，记者朱超、刘万利）
+  - id: b06-xinhua-2026-05-18-han-summit
+    title: 韩正出席2026年全球贸易投资促进峰会开幕式并致辞
+    publisher: 新华社
+    date: 2026-05-18
+    voice: official
+    url: https://www.news.cn/20260518/78f548c5fb874d15b655878f3685c587/c.html
+    start: 新华社北京5月18日电
+    end: 劳动与社会经济大臣迪亚斯。
+  - id: b06-mfa-2026-09-26-han-un
+    title: 韩正会见联合国秘书长古特雷斯 出席全球发展倡议5周年高级别对话会
+    publisher: 外交部
+    date: 2026-09-26
+    voice: official
+    url: https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/xgxw_674683/202609/t20260926_12031595.shtml
+    start: 当地时间2026年9月25日，国家副主席韩正
+    end: 以普惠发展成果回应世界人民之盼。
+  # --- Li Qiang
+  - id: b06-xinhua-2017-10-25-li-qiang-resume
+    title: 李强同志简历
+    publisher: 新华社
+    date: 2017-10-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-10/25/c_1121856440.htm
+    start: 李强，男，汉族
+    end: 十九届中央政治局委员。
+  - id: b06-gov-2023-03-12-li-qiang-resume
+    title: 李强同志简历
+    publisher: 中国政府网
+    date: 2023-03-12
+    voice: official
+    url: https://www.gov.cn/guoqing/2023-03/12/content_5746205.htm
+    start: 李强，男，汉族
+    end: 国务院总理、党组书记。
+  - id: b06-gov-2023-03-13-li-qiang-presser
+    title: 最全！李强总理记者会文字实录
+    publisher: 中国政府网
+    date: 2023-03-13
+    voice: doc
+    url: https://app.www.gov.cn/govdata/gov/202303/13/497945/article.html
+    start: 3月13日上午十四届全国人大一次会议闭幕后
+    end: 总理记者会到此结束。谢谢！
+  - id: b06-cctv-2022-04-17-shanghai-zero
+    title: 上海：同心抗疫 坚持“动态清零”总方针不动摇
+    publisher: 央视网（新华网转载）
+    date: 2022-04-17
+    voice: official
+    url: http://www.xinhuanet.com/2022-04/17/c_1128568803.htm
+    start: 央视网消息（新闻联播）
+    end: 形成攻坚克难、同心抗疫的强大合力。
+  - id: b06-voa-2022-10-23-li-qiang
+    title: 李强跃升常委第二将任总理 对习忠诚高于一切
+    publisher: 美国之音
+    date: 2022-10-23
+    voice: zh
+    url: https://www.voachinese.com/a/xi-s-promotion-of-shanghai-chief-puts-loyalty-over-everything-20221023/6801875.html
+    excerpt: true
+    keep:
+      - 在上海，许多人相信是中央政府而非李强主导上海封城的决定
+      - 2004年11月，李强迎来仕途上重大的转折点
+      - 2012年12月21日，李强接替夏宝龙
+  - id: b06-guardian-2022-10-24-li-qiang
+    title: Who is Li Qiang, the man poised to become China’s next premier?
+    publisher: The Guardian
+    date: 2022-10-24
+    voice: west
+    lang: en
+    url: https://www.theguardian.com/world/2022/oct/24/who-is-li-qiang-the-man-poised-to-become-chinas-next-premier
+    excerpt: true
+    keep:
+      - Li’s reputation also took a beating
+      - Li’s appointment demonstrates that Xi places loyalty
+      - “He is someone close to Xi and has his trust,”
+      - Li Qiang’s ties with the president go back
+      - Li, together with Cai Qi and Li Xi
+      - “The premier’s role in relation to Xi
+      - “Li has had no special political achievement
+      - Willy Lam, a senior fellow at Jamestown Foundation
+  - id: b06-bbc-2023-03-04-li-qiang-deputy
+    title: 中国两会：习近平将有一位新的副手，这为何很重要？
+    publisher: BBC 中文
+    date: 2023-03-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-64847262
+    excerpt: true
+    keep:
+      - 去年，作为中国金融之都上海的市委书记
+      - 由于这个原因，当他被提拔为中国共产党的二号人物时
+      - 两人常常工作到深夜
+      - 他与阿里巴巴创始人马云
+  - id: b06-nytcn-2023-03-14-li-qiang
+    title: 李强的难题：如何平衡对习近平的忠诚和重振经济任务
+    publisher: 纽约时报中文网
+    date: 2023-03-14
+    voice: zh
+    url: https://web.archive.org/web/20250209070416/https://cn.nytimes.com/china/20230314/china-premier-xi-jinping/
+    excerpt: true
+    keep:
+      - 但随着疫情的蔓延，北京的中央政府进行了干预
+      - 李强在上海防疫上的转向显示出他对习近平的忠诚
+      - 2012年，习近平在成为中国最高领导人后仅两个月
+      - 他没能说服习近平放弃
+  - id: b06-zaobao-2024-03-04-no-presser
+    title: 中国取消总理记者会 分析：开放倒退将冲击信心
+    publisher: 联合早报
+    date: 2024-03-04
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240304-1472102
+    excerpt: true
+    keep:
+      - 今年中国全国人大会议闭幕后不再举行总理记者会
+      - 当局做出这个决定，事前毫无征兆
+      - 统筹考虑以上安排
+      - 取消总理记者会代表高层持续收紧
+  - id: b06-cna-2024-03-04-no-presser
+    title: 中國取消兩會總理記者會 超過30年傳統中斷
+    publisher: 中央社
+    date: 2024-03-04
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202403043001.aspx
+    excerpt: true
+    keep:
+      - 最早的一次，是1988年
+      - 演都不演了
+  - id: b06-gov-2025-11-13-li-qiang-trip
+    title: 外交部发言人就李强总理将出访答记者问
+    publisher: 新华社（中国政府网）
+    date: 2025-11-13
+    voice: official
+    url: https://www.gov.cn/lianbo/fabu/202511/content_7048440.htm
+    start: 新华社北京11月13日电
+    end: 促进发展合作等方面凝聚共识。
+  - id: b06-gov-2026-03-05-gwr-digest
+    title: 李强作的政府工作报告（摘登）
+    publisher: 新华社（中国政府网）
+    date: 2026-03-05
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202603/content_7060692.htm
+    start: 十四届全国人大四次会议5日上午9时在人民大会堂开幕
+    end: 民族复兴伟业不懈奋斗！
+  - id: b06-mfa-2026-06-24-li-davos
+    title: 李强出席2026年夏季达沃斯论坛开幕式并致辞
+    publisher: 外交部
+    date: 2026-06-24
+    voice: official
+    url: https://www.fmprc.gov.cn/web/zyxw/202606/t20260624_11951365.shtml
+    start: 2026年6月24日上午，国务院总理李强
+    end: 吴政隆参加活动。
+  # --- Cai Qi
+  - id: b06-people-2017-10-25-cai-resume
+    title: 蔡奇同志简历
+    publisher: 新华社（人民网转载）
+    date: 2017-10-25
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/1025/c1001-29608950.html
+    start: 蔡奇，男，汉族
+    end: （新华社北京10月25日电）
+  - id: b06-people-2017-11-20-cai-fire
+    title: 蔡奇：开展安全隐患大排查大清理大整治
+    publisher: 北京日报（人民网转载）
+    date: 2017-11-20
+    voice: official
+    url: http://cpc.people.com.cn/n1/2017/1120/c64102-29656390.html
+    start: 18日晚，大兴区西红门镇新建二村
+    end: 倒逼安全隐患突出的低端业态疏解腾退。
+  - id: b06-qq-2017-11-26-no-low-end
+    title: 北京安委会：说专项行动是驱赶“低端人口”毫无根据
+    publisher: 北京青年报（腾讯网转载）
+    date: 2017-11-26
+    voice: official
+    url: https://web.archive.org/web/20171127013247/https://news.qq.com/a/20171126/000757.htm
+    start: 本报讯 11月18日晚
+    end: 建立起长久的城市安全保障机制。
+  - id: b06-bbc-2017-11-28-beijing-evictions
+    title: 大批北京租户遭驱离后引反思：如何处理外来人口问题？
+    publisher: BBC 中文
+    date: 2017-11-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-42134392
+    excerpt: true
+    keep:
+      - 北京大兴区大火吞噬了19人生命后
+      - 有网民认为官方这是在借机
+      - 争议最多的就是“低端人口”一词
+      - 而不是去驱赶人
+  - id: b06-nytcn-2017-12-01-beijing-migrants
+    title: 北京驱逐外来务工者，数万人寒冬中流离失所
+    publisher: 纽约时报中文网
+    date: 2017-12-01
+    voice: zh
+    url: https://cn.nytimes.com/china/20171201/china-beijing-migrants/
+    excerpt: true
+    keep:
+      - 北京市委书记蔡奇下令进行为期40天的专项行动
+      - 批评北京市这项行动的人在文章和公开信中
+      - 2014年，国家主席习近平要求北京市解决其庞大的人口问题
+  - id: b06-bj-2022-07-05-13th-congress-report
+    title: 北京市第十三次党代会报告全文
+    publisher: 北京市地方金融监督管理局（转载北京日报）
+    date: 2022-06-27
+    voice: doc
+    url: https://jrj.beijing.gov.cn/jrgzdt/202207/t20220705_2763206.html
+    start: 在习近平新时代中国特色社会主义思想指引下奋力谱写
+    end: 为谱写全面建设社会主义现代化国家的北京篇章而不懈奋斗！
+  - id: b06-zaobao-2023-03-20-cai-general-office
+    title: 中共政治局常委蔡奇出任中办主任
+    publisher: 联合早报
+    date: 2023-03-20
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20230320-1374514
+    excerpt: true
+    keep:
+      - 成为一名兼具常委身份的中南海“大内总管”
+      - 这相信是蔡奇第一次以中办主任身份公开亮相
+      - 在七名中央书记处书记中排名第一
+      - 由政治局常委兼任中办主任的安排极为罕见
+  - id: b06-gov-2026-06-18-cai-nsa
+    title: 国务院任免国家工作人员（2026年6月18日）
+    publisher: 人力资源社会保障部（中国政府网）
+    date: 2026-06-18
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202606/content_7072668.htm
+    start: 国务院任免国家工作人员。
+    end: 免去王志勇的国家中医药管理局副局长职务。
+  - id: b06-cna-2026-06-06-cai-party-school
+    title: 蔡奇出任中共中央黨校校長 分析：黨內影響力提升
+    publisher: 中央社
+    date: 2026-06-06
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202606060049.aspx
+    excerpt: true
+    keep:
+      - 中共中央辦公廳主任蔡奇已出任
+      - 首次以中央黨校校長身分出席畢業典禮
+      - 這也意味著中共中央黨校校長再次由政治局常委級別領導人兼任
+      - 路透社報導引述蘇黎世大學
+      - 是習近平實際上的幕僚長
+  - id: b06-mfa-2026-09-23-xi-us-trip
+    title: 习近平离京对美国进行国事访问
+    publisher: 外交部
+    date: 2026-09-23
+    voice: official
+    url: https://www.fmprc.gov.cn/wjdt_674879/gjldrhd_674881/202609/t20260923_12029740.shtml
+    start: 2026年9月23日下午，国家主席习近平
+    end: 外交部部长王毅等。
+  # --- Ding Xuexiang
+  - id: b06-people-2017-10-25-ding-resume
+    title: 丁薛祥同志简历
+    publisher: 新华社（人民网转载）
+    date: 2017-10-25
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/1025/c1001-29608896.html
+    start: 丁薛祥，男，汉族
+    end: （新华社北京10月25日电）
+  - id: b06-cna-2023-03-12-ding-vp
+    title: 丁薛祥領銜出任國務院副總理 昔為習近平幕僚長
+    publisher: 中央社
+    date: 2023-03-12
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202303120148.aspx
+    excerpt: true
+    keep:
+      - 習近平的長期幕僚、中共政治局常委丁薛祥一如預期
+      - 丁薛祥現年60歲，長期在中共中央辦公廳工作
+      - 丁薛祥雖然長期擔任幕僚工作
+      - 近年，習出訪或接見外賓時
+  - id: b06-voa-2023-03-12-vice-premiers
+    title: 习近平继续安插亲信担任国务院副总理及国务委员要职
+    publisher: 美国之音
+    date: 2023-03-12
+    voice: zh
+    url: https://www.voachinese.com/a/china-s-new-defense-minister-is-a-general-the-us-sanctioned-03122023/7001235.html
+    excerpt: true
+    keep:
+      - 这次人大会议任命60岁的现任政治局常委的丁薛祥
+  - id: b06-gov-2024-06-25-ding-tech
+    title: 丁薛祥在全国科技大会和两院院士大会第二次全体会议上强调
+    publisher: 新华社（中国政府网）
+    date: 2024-06-25
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202406/content_6959245.htm
+    start: 新华社北京6月25日电
+    end: 全国科技大会代表、两院院士大会代表参加会议。
+  - id: b06-cna-2024-06-26-ding-tech
+    title: 丁薛祥兼任中央科技委員會主任 強調舉國體制
+    publisher: 中央社
+    date: 2024-06-26
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202406260262.aspx
+    excerpt: true
+    keep:
+      - 中國國務院副總理丁薛祥有新職務
+      - 中央科技委員會職責包括
+  - id: b06-gov-2025-01-21-ding-davos
+    title: 丁薛祥在世界经济论坛2025年年会上的特别致辞（全文）
+    publisher: 新华社（中国政府网）
+    date: 2025-01-21
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202501/content_7000355.htm
+    start: 新华社瑞士达沃斯1月21日电
+    end: 谢谢大家！
+  - id: b06-embassy-2026-04-18-ding-turkmenistan
+    title: 丁薛祥访问土库曼斯坦、作为习近平主席特别代表出席复兴气田四期项目开工仪式
+    publisher: 新华社（中国驻印度大使馆转载）
+    date: 2026-04-18
+    voice: official
+    url: https://in.china-embassy.gov.cn/zgyw/202604/t20260418_11894644.htm
+    start: 当地时间2026年4月15日至17日
+    end: 土库曼斯坦鲁班工坊揭牌仪式。
+  - id: b06-gov-2026-09-05-ding-putin
+    title: 丁薛祥会见俄罗斯总统普京并与俄方共同主持中俄双边机制性会议
+    publisher: 新华社（中国政府网）
+    date: 2026-09-05
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7080270.htm
+    start: 新华社符拉迪沃斯托克9月5日电
+    end: 诺瓦克致辞。
+  # --- Li Xi
+  - id: b06-xinhua-2017-10-25-li-xi-resume
+    title: 李希同志简历
+    publisher: 新华社
+    date: 2017-10-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/2017-10/25/c_1121856438.htm
+    start: 李希，男，汉族
+    end: （更新时间：2018年1月31日）
+  - id: b06-voa-2022-10-23-li-xi
+    title: 习近平亲信李希任中纪委书记掌握中共反腐生杀大权
+    publisher: 美国之音
+    date: 2022-10-23
+    voice: zh
+    url: https://www.voachinese.com/a/li-xi-gets-graft-busting-role-on-china-s-new-standing-committee-20221023/6801783.html
+    excerpt: true
+    keep:
+      - 被西方研究中国的学者和媒体认为
+      - 现年66岁的李希出生于甘肃省
+      - 有消息说，梁家河2007年写给习近平的信
+      - 香港明报报道，李希在广东强势反腐治贪
+      - 今年5月，李希作省委工作报告时
+      - 二十大新一届中纪委的副书记分别是
+  - id: b06-gd-2022-05-22-li-xi-report
+    title: 李希同志在中国共产党广东省第十三次代表大会上的报告
+    publisher: 中共广东省委组织部
+    date: 2022-05-22
+    voice: doc
+    url: https://www.gdzz.gov.cn/zgxc/gdyw/content/post_15786.html
+    start: 奋力在全面建设社会主义现代化国家
+    end: 实现中华民族伟大复兴的中国梦作出新的更大贡献！
+  - id: b06-gov-2026-01-14-ccdi-5th
+    title: 中国共产党第二十届中央纪律检查委员会第五次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2026-01-14
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202601/content_7054741.htm
+    start: 新华社北京1月14日电
+    end: 为以中国式现代化全面推进强国建设、民族复兴伟业作出更大贡献。
+  - id: b06-xinhua-2026-01-12-li-xi-ccdi-report
+    title: 李希在二十届中央纪委五次全会上的工作报告
+    publisher: 新华社（湖南省纪委监委网站转载）
+    date: 2026-01-12
+    voice: doc
+    url: https://www.sxfj.gov.cn/tou_tiao/778829136367685.shtml
+    start: 以更高标准、更实举措推进全面从严治党
+    end: 持续推进新时代新征程纪检监察工作高质量发展，为以中国式现代化全面推进强国建设、民族复兴伟业作出更大贡献。

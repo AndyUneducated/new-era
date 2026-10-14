@@ -1,0 +1,439 @@
+# I01: the ideology corpus (congress reports, resolutions, charter, constitution, plenums) and the sources for the concept entries.
+web:
+  # --- corpus: full official texts ---
+  - id: i01-wenming-1997-09-12-15th-report
+    title: 高举邓小平理论伟大旗帜，把建设有中国特色社会主义事业全面推向二十一世纪——江泽民在中国共产党第十五次全国代表大会上的报告
+    publisher: 中国文明网（营口）
+    date: 1997-09-12
+    voice: doc
+    url: http://yk.wenming.cn/18_1/2012_18_1/guanghuilicheng/swd/201211/t20121120_425697.shtml
+    start: 现在，我代表第十四届中央委员会向大会作报告。
+    end: 伟大事业全面推向二十一世纪！
+  - id: i01-jszx-2002-11-08-16th-report
+    title: 全面建设小康社会，开创中国特色社会主义事业新局面——江泽民在中国共产党第十六次全国代表大会上的报告
+    publisher: 江苏省政协（转载新华网）
+    date: 2002-11-08
+    voice: doc
+    url: http://www.jszx.gov.cn/ztzl/xy20dtxgdz/wxzl/202205/t20220520_50870.html
+    start: 现在,我代表第十五届中央委员会向大会作报告。
+    end: 共同创造我们的幸福生活和美好未来!
+  - id: i01-moa-2007-10-15-17th-report
+    title: 高举中国特色社会主义伟大旗帜 为夺取全面建设小康社会新胜利而奋斗——胡锦涛在中国共产党第十七次全国代表大会上的报告
+    publisher: 农业农村部网站（新华社电）
+    date: 2007-10-15
+    voice: doc
+    url: https://www.moa.gov.cn/xw/zwdt/200710/t20071025_909482.htm
+    start: 现在，我代表第十六届中央委员会向大会作报告。
+    end: 谱写人民美好生活新篇章而努力奋斗！
+  - id: i01-wsyu-2012-11-08-18th-report
+    title: 坚定不移沿着中国特色社会主义道路前进 为全面建成小康社会而奋斗——胡锦涛在中国共产党第十八次全国代表大会上的报告
+    publisher: 武昌首义学院党建网（转载新华社）
+    date: 2012-11-08
+    voice: doc
+    url: https://djzx.wsyu.edu.cn/2012/1108/c649a60965/pagem.htm
+    start: 现在，我代表第十七届中央委员会向大会作报告。
+    end: 共同创造中国人民和中华民族更加幸福美好的未来！
+  - id: i01-gov-2017-10-18-19th-report
+    title: 决胜全面建成小康社会 夺取新时代中国特色社会主义伟大胜利——习近平在中国共产党第十九次全国代表大会上的报告
+    publisher: 中国政府网
+    date: 2017-10-18
+    voice: doc
+    url: https://www.gov.cn/zhuanti/2017-10/27/content_5234876.htm
+    start: 现在，我代表第十八届中央委员会向大会作报告。
+    end: 实现人民对美好生活的向往继续奋斗！
+  - id: i01-gov-2022-10-16-20th-report
+    title: 高举中国特色社会主义伟大旗帜 为全面建设社会主义现代化国家而团结奋斗——习近平在中国共产党第二十次全国代表大会上的报告
+    publisher: 中国政府网
+    date: 2022-10-16
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm
+    start: 现在，我代表第十九届中央委员会向大会作报告。
+    end: 全面推进中华民族伟大复兴而团结奋斗！
+  - id: i01-gov-2021-11-11-third-resolution
+    title: 中共中央关于党的百年奋斗重大成就和历史经验的决议
+    publisher: 中国政府网
+    date: 2021-11-11
+    voice: doc
+    url: https://www.gov.cn/zhengce/2021-11/16/content_5651269.htm
+    start: （2021年11月11日中国共产党第十九届中央委员会第六次全体会议通过）
+    end: 必将在新时代新征程上赢得更加伟大的胜利和荣光！
+  - id: i01-12371-2022-10-22-party-charter
+    title: 中国共产党章程（中国共产党第二十次全国代表大会部分修改，2022年10月22日通过）
+    publisher: 共产党员网（新华社电）
+    date: 2022-10-22
+    voice: doc
+    url: https://www.12371.cn/2022/10/26/ARTI1666788342244946.shtml
+    start: 中国共产党是中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队，是中国特色社会主义事业的领导核心
+    end: 要按照规定制作和使用党徽党旗。
+  - id: i01-gov-2018-03-11-constitution
+    title: 中华人民共和国宪法（2018年3月11日第十三届全国人民代表大会第一次会议通过的《中华人民共和国宪法修正案》修正）
+    publisher: 中国政府网
+    date: 2018-03-11
+    voice: doc
+    url: https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm
+    start: （1982年12月4日第五届全国人民代表大会第五次会议通过
+    end: 中华人民共和国首都是北京。
+  - id: i01-gov-2024-07-18-third-plenum-decision
+    title: 中共中央关于进一步全面深化改革 推进中国式现代化的决定
+    publisher: 中国政府网
+    date: 2024-07-18
+    voice: doc
+    url: https://www.gov.cn/zhengce/202407/content_6963770.htm
+    start: （2024年7月18日中国共产党第二十届中央委员会第三次全体会议通过）
+    end: 以中国式现代化全面推进中华民族伟大复兴而努力奋斗。
+  - id: i01-fmprc-2025-10-23-fourth-plenum-communique
+    title: 中国共产党第二十届中央委员会第四次全体会议公报
+    publisher: 外交部网站（新华社电）
+    date: 2025-10-23
+    voice: doc
+    url: https://www.fmprc.gov.cn/wjdt_674879/gjldrhd_674881/202510/t20251023_11739370.shtml
+    start: （2025年10月23日中国共产党第二十届中央委员会第四次全体会议通过）
+    end: 民族复兴伟业新局面。
+
+  # --- concepts: codification documents ---
+  - id: i01-12371-1997-09-18-15th-charter-resolution
+    title: 关于《中国共产党章程修正案》的决议（1997年9月18日十五大通过）
+    publisher: 共产党员网（新华网）
+    date: 1997-09-18
+    voice: doc
+    url: https://fuwu.12371.cn/2012/09/27/ARTI1348726660711333.shtml
+    start: 中国共产党第十五次全国代表大会审议并一致通过
+    end: 具有重大而深远的意义。
+  - id: i01-chinanews-2002-11-14-16th-charter-resolution
+    title: 中国共产党第十六次全国代表大会关于《中国共产党章程（修正案）》的决议
+    publisher: 中国新闻网（新华社电）
+    date: 2002-11-14
+    voice: doc
+    url: http://www.chinanews.com.cn/2002-11-14/26/243752.html
+    start: (2002年11月14日中国共产党第十六次全国代表大会通过)
+    end: 始终保持蓬勃的生机和活力。
+  - id: i01-gov-2004-03-14-constitution-amendment
+    title: 中华人民共和国宪法修正案（2004年3月14日第十届全国人民代表大会第二次会议通过）
+    publisher: 中国政府网（国务院公报）
+    date: 2004-03-14
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2004/content_75645.htm
+    start: (2004年3月14日第十届全国人民代表大会第二次会议
+    end: 中华人民共和国国歌是《义勇军进行曲》。
+  - id: i01-gov-2007-10-21-17th-charter-resolution
+    title: 中国共产党第十七次全国代表大会关于《中国共产党章程（修正案）》的决议
+    publisher: 中国政府网（Wayback 存档，新华社电）
+    date: 2007-10-21
+    voice: doc
+    url: https://web.archive.org/web/20200330223746/http:/www.gov.cn/ztzl/17da/content_781170.htm
+    start: （2007年10月21日中国共产党第十七次全国代表大会通过）
+    end: 开创中国特色社会主义事业新局面而不懈奋斗！
+  - id: i01-gov-2012-11-14-18th-charter-resolution
+    title: 中国共产党第十八次全国代表大会关于《中国共产党章程（修正案）》的决议
+    publisher: 中国政府网（新华社电）
+    date: 2012-11-14
+    voice: doc
+    url: https://www.gov.cn/jrzg/2012-11/14/content_2265770.htm
+    start: （２０１２年１１月１４日中国共产党第十八次全国代表大会通过）
+    end: 为全面建成小康社会而奋斗。
+  - id: i01-gov-2017-10-24-19th-charter-resolution
+    title: 中国共产党第十九次全国代表大会关于《中国共产党章程（修正案）》的决议
+    publisher: 中国政府网（新华社电）
+    date: 2017-10-24
+    voice: doc
+    url: https://www.gov.cn/xinwen/2017-10/24/content_5234152.htm
+    start: （2017年10月24日中国共产党第十九次全国代表大会通过）
+    end: 实现人民对美好生活的向往继续奋斗！
+  - id: i01-cpc-2016-10-27-6th-plenum-communique
+    title: 中国共产党第十八届中央委员会第六次全体会议公报
+    publisher: 中国共产党新闻网（新华社电）
+    date: 2016-10-27
+    voice: doc
+    url: http://cpc.people.com.cn/n1/2016/1027/c64094-28814120.html
+    start: （2016年10月27日中国共产党第十八届中央委员会第六次全体会议通过）
+    end: 不断开创中国特色社会主义事业新局面。
+  - id: i01-wikisource-2004-09-19-governing-capacity-decision
+    title: 中共中央关于加强党的执政能力建设的决定（2004年9月19日中国共产党第十六届中央委员会第四次全体会议通过）
+    publisher: 维基文库
+    date: 2004-09-19
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中共中央关于加强党的执政能力建设的决定
+    start: （2004年9月19日中国共产党第十六届中央委员会第四次全体会议通过）
+    end: 实现中华民族的伟大复兴而不懈奋斗！
+  - id: i01-moe-2015-10-29-5th-plenum-communique
+    title: 中国共产党第十八届中央委员会第五次全体会议公报
+    publisher: 教育部网站（新华网）
+    date: 2015-10-29
+    voice: doc
+    url: http://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/201510/t20151030_216609.html
+    start: 中国共产党第十八届中央委员会第五次全体会议，于2015年10月26日至29日在北京举行。
+    end: （新华社北京10月29日电）
+
+  # --- concepts: first appearances (official reports and speeches) ---
+  - id: i01-cpc-2000-02-three-represents-guangdong
+    title: 江泽民在广东考察工作时提出“三个代表”
+    publisher: 中国共产党新闻网
+    voice: history
+    url: http://cpc.people.com.cn/GB/33837/2535092.html
+    start: 2000年2月，江泽民在广东考察工作期间
+    end: 迅速掀起了学习和实践“三个代表”精神的热潮。
+  - id: i01-cma-2012-12-17-scientific-development
+    title: 科学发展观形成的背景与基础
+    publisher: 中国气象局网站（转载人民网）
+    author: 王炳林
+    date: 2012-12-17
+    voice: history
+    url: https://www.cma.gov.cn/2011xzt/2012zhuant/20121214/2012121406/201212/t20121217_197443.html
+    start: 科学发展观是马克思主义中国化的最新成果
+    end: （来源：人民网 作者：王炳林）
+  - id: i01-gov-2012-11-29-fuxing-zhilu
+    title: 习近平：承前启后 继往开来 继续朝着中华民族伟大复兴目标奋勇前进
+    publisher: 中国政府网（新华社电）
+    date: 2012-11-29
+    voice: official
+    url: https://www.gov.cn/ldhd/2012-11/29/content_2278733.htm
+    start: 新华社北京１１月２９日电（记者 李斌）
+    end: 中华民族伟大复兴的梦想一定能实现。
+  - id: i01-most-2012-12-04-eight-point-rules
+    title: 中共中央政治局会议审议关于改进工作作风等规定
+    publisher: 科学技术部网站（中国政府网）
+    date: 2012-12-04
+    voice: official
+    url: https://www.most.gov.cn/szyw/yw/201212/t20121205_98295.html
+    start: 中共中央政治局12月4日召开会议
+    end: 会议还研究了其他事项。
+  - id: i01-fmprc-2013-09-07-nazarbayev-speech
+    title: 弘扬人民友谊 共创美好未来——习近平在纳扎尔巴耶夫大学的演讲
+    publisher: 外交部网站
+    date: 2013-09-07
+    voice: doc
+    url: https://www.fmprc.gov.cn/ziliao_674904/zyjh_674906/201309/t20130908_9869126.shtml
+    start: 尊敬的纳扎尔巴耶夫总统，
+    end: 谢谢大家。
+  - id: i01-gov-2014-04-15-holistic-security
+    title: 习近平：坚持总体国家安全观 走中国特色国家安全道路
+    publisher: 中国政府网（新华社电）
+    date: 2014-04-15
+    voice: official
+    url: https://www.gov.cn/xinwen/2014-04/15/content_2659641.htm
+    start: 新华社北京4月15日电
+    end: 中央和国家有关部门负责同志列席会议。
+  - id: i01-xinhua-2014-12-14-jiangsu-four-comprehensives
+    title: 习近平在江苏调研时强调 主动把握和积极适应经济发展新常态 推动改革开放和现代化建设迈上新台阶
+    publisher: 新华网
+    date: 2014-12-14
+    voice: official
+    url: http://www.xinhuanet.com/politics/2014-12/14/c_1113636703.htm
+    start: 新华网南京12月14日电
+    end: 王沪宁、栗战书和中央有关部门负责同志参加考察活动。
+  - id: i01-cpc-2015-11-10-supply-side
+    title: 习近平主持召开中央财经领导小组第十一次会议
+    publisher: 中国共产党新闻网（新华社电）
+    date: 2015-11-10
+    voice: official
+    url: http://cpc.people.com.cn/n/2015/1110/c64094-27799893.html
+    start: 中共中央总书记、国家主席、中央军委主席、中央财经领导小组组长习近平11月10日上午
+    end: 中央和国家有关部门负责同志列席会议。
+  - id: i01-cpc-2016-01-29-four-consciousness
+    title: 中共中央政治局召开会议 审议《中央政治局常委会听取和研究全国人大常委会、国务院、全国政协、最高人民法院、最高人民检察院党组工作汇报和中央书记处工作报告的综合情况报告》
+    publisher: 中国共产党新闻网（新华社电）
+    date: 2016-01-29
+    voice: official
+    url: http://cpc.people.com.cn/n1/2016/0129/c64094-28097175.html
+    start: 中共中央政治局1月29日召开会议
+    end: （新华社北京1月29日电）
+  - id: i01-cpc-2016-07-01-95th-anniversary
+    title: 习近平：中国共产党、中华人民共和国、中华民族最有理由自信
+    publisher: 中国共产党新闻网
+    date: 2016-07-01
+    voice: official
+    url: http://cpc.people.com.cn/n1/2016/0701/c405440-28515954.html
+    start: 中国共产党新闻网北京7月1日电
+    end: 不能有丝毫动摇。
+  - id: i01-jhsjk-2019-11-02-whole-process-democracy
+    title: 习近平：中国的民主是一种全过程的民主
+    publisher: 习近平系列重要讲话数据库（人民网，新华社电）
+    date: 2019-11-03
+    voice: official
+    url: http://jhsjk.people.cn/article/31434694
+    start: 正在上海考察的习近平总书记2日下午
+    end: （文字记者：张晓松 摄影记者：鞠鹏、谢环驰）
+  - id: i01-gov-2020-05-14-dual-circulation
+    title: 中共中央政治局常务委员会召开会议 分析国内外新冠肺炎疫情防控形势 研究部署抓好常态化疫情防控措施落地见效 研究提升产业链供应链稳定性和竞争力
+    publisher: 中国政府网（新华社电）
+    date: 2020-05-14
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-05/14/content_5511638.htm
+    start: 新华社北京5月14日电
+    end: 会议还研究了其他事项。
+  - id: i01-xinhua-2021-08-17-common-prosperity
+    title: 习近平主持召开中央财经委员会第十次会议强调 在高质量发展中促进共同富裕 统筹做好重大金融风险防范化解工作
+    publisher: 新华网
+    date: 2021-08-17
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/2021-08/17/c_1127770343.htm
+    start: 新华社北京8月17日电
+    end: 中央和国家机关有关部门负责同志列席会议。
+  - id: i01-dangshi-2021-11-15-two-establishes
+    title: “两个确立”的决定性意义
+    publisher: 人民网党史学习教育官网（中国纪检监察报）
+    date: 2021-11-15
+    voice: official
+    url: http://dangshi.people.cn/n1/2021/1115/c436975-32282784.html
+    start: 党的十九届六中全会公报指出
+    end: （本报记者 薛鹏）
+  - id: i01-xinhua-2021-12-01-dynamic-zero
+    title: 人民至上，坚持“动态清零”策略不动摇——国家卫生健康委主任马晓伟谈当前疫情精准防控
+    publisher: 新华网
+    date: 2021-12-01
+    voice: official
+    url: http://www.news.cn/politics/2021-12/01/c_1128121527.htm
+    start: 新冠病毒变异株奥密克戎的出现
+    end: 就是对国际抗疫的最大贡献。
+  - id: i01-gov-2022-01-18-self-revolution
+    title: 习近平在十九届中央纪委六次全会上发表重要讲话
+    publisher: 中国政府网（新华社电）
+    date: 2022-01-18
+    voice: official
+    url: https://www.gov.cn/xinwen/2022-01/18/content_5669161.htm
+    start: 新华社北京1月18日电
+    end: 设分会场。
+  - id: i01-xinhua-2022-01-19-second-answer
+    title: 第一观察丨习近平总书记中央纪委全会重要讲话释放三个信号
+    publisher: 新华网
+    date: 2022-01-19
+    voice: official
+    url: http://www.news.cn/politics/leaders/2022-01/19/c_1128279994.htm
+    start: 1月18日，习近平总书记在十九届中央纪委六次全会上发表重要讲话，再次谈及
+    end: 才能确保党和人民的事业不断从胜利走向新的胜利。
+  - id: i01-gov-2023-09-08-new-quality-productive-forces
+    title: 习近平在黑龙江考察时强调 牢牢把握在国家发展大局中的战略定位 奋力开创黑龙江高质量发展新局面
+    publisher: 中国政府网（新华社电）
+    date: 2023-09-08
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202309/content_6903032.htm
+    start: 新华社哈尔滨9月8日电
+    end: 主题教育中央第四巡回指导组负责同志参加汇报会。
+  - id: i01-cpc-2019-02-22-two-safeguards
+    title: 如何正确理解“两个维护”？
+    publisher: 中国共产党新闻网（黑龙江《党的生活》）
+    author: 薛万博
+    date: 2019-02-22
+    voice: official
+    url: http://cpc.people.com.cn/n1/2019/0222/c123889-30897358.html
+    start: 1194栋违规别墅
+    end: （黑龙江《党的生活》杂志授权人民网－中国共产党新闻发布，请勿转载）
+  - id: i01-chinanews-2004-04-08-peaceful-rise
+    title: “中国和平崛起”成热门话题 媒体披露产生过程
+    publisher: 中国新闻网
+    date: 2004-04-08
+    voice: official
+    url: http://www.chinanews.com.cn/n/2004-04-08/26/422973.html
+    start: 中国的和平崛起是当今中国和世界的一个热门话题。
+    end: 也是中华民族对世界的贡献。
+
+  # --- concepts: party-history articles ---
+  - id: i01-cpc-2022-10-31-deng-modernization
+    title: 邓小平与中国式现代化道路
+    publisher: 中国共产党新闻网（中央党史和文献研究院网站）
+    author: 卢佳
+    date: 2022-10-31
+    voice: history
+    url: http://cpc.people.com.cn/n1/2022/1031/c69113-32555893.html
+    start: 改革开放以来，邓小平以巨大的理论勇气
+    end: 来源：中央党史和文献研究院网站
+  - id: i01-dangshi-2022-02-21-common-prosperity
+    title: 从百年党史看共同富裕
+    publisher: 人民网党史学习教育官网（学习时报）
+    date: 2022-02-21
+    voice: history
+    url: http://dangshi.people.com.cn/n1/2022/0221/c436975-32355967.html
+    start: 中国共产党的百年史，一定意义上说
+    end: 这个郑重承诺继续兑现好。
+  - id: i01-ifeng-2012-10-28-taoguang
+    title: 冷静观察、沉着应付、韬光养晦、决不当头、有所作为
+    publisher: 凤凰网（Wayback 存档；转载人民网，摘自陈俊宏《中国特色社会主义理论核心观点解读》）
+    date: 2012-10-28
+    voice: history
+    url: https://web.archive.org/web/20200110222711/http:/news.ifeng.com/gundong/detail_2012_10/28/18618908_0.shtml
+    excerpt: true
+    keep: [韬光养晦]
+  - id: i01-qstheory-2020-08-14-lvshui-qingshan
+    title: “绿水青山就是金山银山”理念提出15年
+    publisher: 求是网（学而时习工作室）
+    date: 2020-08-14
+    voice: official
+    url: https://www.qstheory.cn/zhuanqu/2020-08/14/c_1126370170.htm
+    start: “绿水青山就是金山银山”，这句深富内涵
+    end: 来源：学而时习工作室
+
+  # --- concepts: media and scholarly readings (excerpts) ---
+  - id: i01-bbc-2016-10-27-xi-core
+    title: 中共首次形容习近平领导为“核心”
+    publisher: BBC News 中文
+    date: 2016-10-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/10/161027_china_xi_core
+    excerpt: true
+    keep: [首次以“核心”形容, 一般仅承认有过三个, 以胡锦涛和习近平为首, 许多观察家认为]
+  - id: i01-bbc-2017-10-24-xi-thought-charter
+    title: 习近平新时代中国特色社会主义思想入党章 权力比肩毛邓？
+    publisher: BBC News 中文
+    date: 2017-10-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41732749
+    excerpt: true
+    keep: [林和立, 至高无上]
+  - id: i01-bbc-2013-01-04-nanfang-zhoumo
+    title: 《南方周末》元旦献辞两版本比较
+    publisher: BBC News 中文
+    date: 2013-01-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2013/01/130104_nanfangzhoumo_newyear
+    excerpt: true
+    keep: [宪政梦, 庹震撤换]
+  - id: i01-bbc-2013-12-02-taoguang
+    title: 点评中国：大国外交—习近平扬弃“韬光养晦”
+    publisher: BBC News 中文
+    author: 王建伟（澳门大学政府与行政学系教授）
+    date: 2013-12-02
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/focus_on_china/2013/12/131202_cr_xijinping_diplomacy
+    excerpt: true
+    keep: [韬光养晦]
+  - id: i01-bbc-2013-03-06-weiwen-budget
+    title: 解读中国预算的“维稳费用”
+    publisher: BBC News 中文
+    date: 2013-03-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/03/130306_budget_military_security
+    excerpt: true
+    keep: [维稳, 公共安全]
+  - id: i01-bbc-2021-08-20-common-prosperity
+    title: 习近平提“共同富裕”和“三次分配” 大型私企或成为中国贫富不均“替罪羊”
+    publisher: BBC News 中文
+    date: 2021-08-20
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-58265470
+    excerpt: true
+    keep: [夏明, 杀鸡取卵, 共同富裕]
+  - id: i01-bbc-2022-12-07-new-ten-rules
+    title: 中国“新十条”新冠防疫措施：未提坚持清零 首次明确具备条件可居家隔离
+    publisher: BBC News 中文
+    date: 2022-12-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63883937
+    excerpt: true
+    keep: [新十条, 动态清零]
+  - id: i01-bbc-2023-09-belt-and-road
+    title: “一带一路”倡议十周年 改变世界的成败与未来
+    publisher: BBC News 中文
+    date: 2023-09-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66762882
+    excerpt: true
+    keep: [债务陷阱, 最大债主, 中老铁路耗资, 类似的争议还发生在斯里兰卡]
+  - id: i01-yaleglobal-2004-peaceful-rise
+    title: China Debates Its "Peaceful Rise" Strategy
+    publisher: YaleGlobal Online
+    date: 2004-06
+    voice: scholar
+    url: https://archive-yaleglobal.yale.edu/content/china-debates-its-peaceful-rise-strategy
+    lang: en
+    excerpt: true
+    keep: [Many opposed the use of the term, turning point in the debate]

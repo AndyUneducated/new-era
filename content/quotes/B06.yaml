@@ -1,0 +1,125 @@
+# B06 quotes. Every text is checked verbatim against its cite.
+han-zheng:
+  - text: 止暴制乱、恢复秩序仍然是香港当前最重要的任务，也是香港行政、立法、司法机关的共同责任
+    cite: b06-xinhua-2019-11-06-han-lam
+    kind: public
+    date: 2019-11-06
+    occasion: 在钓鱼台国宾馆会见香港特区行政长官林郑月娥
+    star: true
+  - text: 中美两国都是伟大的国家，中美两国人民都是伟大的人民，当前我们都在努力实现各自发展目标和梦想
+    cite: b06-xinhua-2025-01-20-han-vance
+    kind: public
+    date: 2025-01-19
+    occasion: 作为习近平主席特别代表在华盛顿会见美国当选副总统万斯（新华社转述）
+  - text: 当前国际形势变乱交织，全球经贸秩序遭受严重冲击
+    cite: b06-xinhua-2026-05-18-han-summit
+    kind: public
+    date: 2026-05-18
+    occasion: 2026 年全球贸易投资促进峰会开幕式致辞（新华社转述）
+  - text: 今年是新中国恢复联合国合法席位55周年。55年来，中国始终坚持真正的多边主义，支持联合国在国际事务中发挥核心作用
+    cite: b06-mfa-2026-09-26-han-un
+    kind: public
+    date: 2026-09-25
+    occasion: 在纽约出席联大期间会见联合国秘书长古特雷斯（外交部转述）
+
+li-qiang:
+  - text: 我相信历史会记住为这座城市坚守和付出的所有人
+    cite: b06-cctv-2022-04-17-shanghai-zero
+    kind: interview
+    date: 2022-04
+    occasion: 上海封城期间接受《新闻联播》采访
+    star: true
+  - text: 我长期在地方工作，有一个很深的感受：坐在办公室碰到的都是问题，深入基层看到的全是办法。高手在民间
+    cite: b06-gov-2023-03-13-li-qiang-presser
+    kind: interview
+    date: 2023-03-13
+    occasion: 十四届全国人大一次会议闭幕后的总理记者会
+  - text: 不能光踩刹车、不踩油门；不能尽设路障、不设路标
+    cite: b06-gov-2023-03-13-li-qiang-presser
+    kind: interview
+    date: 2023-03-13
+    occasion: 总理记者会上谈政府部门的审批和管理
+  - text: 确实，去年有段时间，社会上有一些不正确的议论，使一些民营企业家内心感到忧虑
+    cite: b06-gov-2023-03-13-li-qiang-presser
+    kind: interview
+    date: 2023-03-13
+    occasion: 总理记者会上回答《联合早报》记者关于民营经济的提问
+  - text: 中国开放的大门会越开越大、环境会越来越好、服务会越来越优
+    cite: b06-gov-2023-03-13-li-qiang-presser
+    kind: interview
+    date: 2023-03-13
+    occasion: 总理记者会上回答中阿卫视记者关于对外开放的提问
+
+cai-qi:
+  - text: 火灾是安全生产的“灰犀牛”，全市都必须警醒起来，痛下决心，采取断然措施
+    cite: b06-people-2017-11-20-cai-fire
+    kind: public
+    date: 2017-11-19
+    occasion: 大兴火灾后部署全市安全隐患大排查大清理大整治专项行动
+  - text: 一家一家、一村一村地毯式摸排，坚决遏制重特大安全事故发生
+    cite: b06-people-2017-11-20-cai-fire
+    kind: public
+    date: 2017-11-19
+    occasion: 同上
+  - text: 总书记非凡的雄才大略、远见卓识和领袖风范，让我们深受感召
+    cite: b06-bj-2022-07-05-13th-congress-report
+    kind: public
+    date: 2022-06-27
+    occasion: 北京市第十三次党代会报告
+    star: true
+  - text: 首都工作每前进一步、京华大地的发展变化，都凝结着总书记的亲切关怀和殷殷教诲
+    cite: b06-bj-2022-07-05-13th-congress-report
+    kind: public
+    date: 2022-06-27
+    occasion: 北京市第十三次党代会报告
+
+ding-xuexiang:
+  - text: 中国开放的大门不会关闭，只会越开越大，营商环境只会越来越好
+    cite: b06-gov-2025-01-21-ding-davos
+    kind: public
+    date: 2025-01-21
+    occasion: 世界经济论坛 2025 年年会特别致辞
+    star: true
+  - text: 我们不追求贸易顺差，愿意进口更多国外有竞争力的优质产品和服务，促进贸易平衡发展
+    cite: b06-gov-2025-01-21-ding-davos
+    kind: public
+    date: 2025-01-21
+    occasion: 世界经济论坛 2025 年年会特别致辞
+  - text: 搞保护主义没有出路，打贸易战没有赢家
+    cite: b06-gov-2025-01-21-ding-davos
+    kind: public
+    date: 2025-01-21
+    occasion: 世界经济论坛 2025 年年会特别致辞
+  - text: 要以新型举国体制推进科技创新
+    cite: b06-gov-2024-06-25-ding-tech
+    kind: public
+    date: 2024-06-25
+    occasion: 首次以中央科技委员会主任身份在全国科技大会上作总结讲话（新华社转述）
+
+li-xi:
+  - text: 归根到底靠的是习近平总书记、党中央坚强领导，靠的是习近平新时代中国特色社会主义思想科学指引，靠的是总书记定于一尊、一锤定音的权威，靠的是总书记山高水长的关怀厚爱
+    cite: b06-gd-2022-05-22-li-xi-report
+    kind: public
+    date: 2022-05-22
+    occasion: 广东省第十三次党代会报告
+    star: true
+  - text: 有习近平新时代中国特色社会主义思想的科学指引，我们就有了思想上的“定盘星”、行动上的“指南针”
+    cite: b06-gd-2022-05-22-li-xi-report
+    kind: public
+    date: 2022-05-22
+    occasion: 广东省第十三次党代会报告
+  - text: 腐败是我们党面临的最大风险、最大威胁、最大挑战，是党和国家事业发展进程中的拦路虎、绊脚石
+    cite: b06-xinhua-2026-01-12-li-xi-ccdi-report
+    kind: public
+    date: 2026-01-12
+    occasion: 二十届中央纪委五次全会工作报告
+  - text: 一刻不能停、半步不能退，矢志不移把反腐败斗争进行到底
+    cite: b06-xinhua-2026-01-12-li-xi-ccdi-report
+    kind: public
+    date: 2026-01-12
+    occasion: 二十届中央纪委五次全会工作报告
+  - text: 坚决清除心怀二志、言行不一的“两面人”
+    cite: b06-xinhua-2026-01-12-li-xi-ccdi-report
+    kind: public
+    date: 2026-01-12
+    occasion: 二十届中央纪委五次全会工作报告

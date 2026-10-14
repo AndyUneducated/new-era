@@ -1,0 +1,472 @@
+﻿# F01: classic and binary labels (江派/上海帮, 团派, 太子党, 石油帮, 政法系, 精英联盟, 民粹联盟) for 15th–18th Politburo and Hu-era figures.
+# Every quote is the sentence in the cited source that makes the label. Quotes from the two BBC 2012 pages skip quoted terms
+# with …… because the source stores the quote marks as control characters.
+
+# --- 江泽民、胡锦涛、温家宝 ---
+jiang-zemin:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-16-jiang-shadow
+    quote: '从江泽民坐上了中共第一把交椅开始，“上海帮”也就开始形成聚拢了'
+  - f: jiang-shanghai
+    cite: f01-bbc-2012-09-22-xi-factions
+    quote: '由前任中共总书记江泽民率领的……上海帮'
+  - f: jiang-shanghai
+    cite: f01-bbc-2022-10-28-pb-24
+    quote: '如“上海帮”，指江泽民提拔曾在上海的僚属'
+  - f: jiang-shanghai
+    cite: f01-reuters-2022-10-26-youth-league
+    quote: 'They famously included the so-called "Shanghai Gang" of former leader Jiang Zemin, who is now 96'
+    zh: '其中著名的有前领导人江泽民（现年96岁）的所谓“上海帮”'
+  - f: elitist
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'the “elitist coalition,” which emerged in the Jiang Zemin era and used to be headed by Jiang and is currently led by Xi Jinping'
+    zh: '“精英联盟”在江泽民时代兴起，曾由江泽民领导，现由习近平领导'
+
+hu-jintao:
+  - f: populist
+    cite: f01-brookings-2009-one-party-two-coalitions
+    quote: 'The Populist Coalition is currently led by President Hu Jintao and Premier Wen Jiabao'
+    zh: '民粹联盟目前由胡锦涛主席和温家宝总理领导'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '“平民派”目前由胡锦涛主席和温家宝总理领导'
+  - f: populist
+    cite: f01-brookings-2012-11-powerful-factions
+    quote: 'One of the two intra-party groups in China is the “populist coalition”, which is led by President Hu Jintao and Premier Wen Jiabao'
+    zh: '中国党内两大群体之一是“民粹联盟”，由胡锦涛主席和温家宝总理领导'
+  - f: populist
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: '这两派之一是以胡锦涛和温家宝为首的……民粹主义者联盟'
+  - f: populist
+    cite: f01-voa-2012-05-25-factions
+    quote: '一派是胡锦涛领导的民粹联盟'
+  - f: tuanpai
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '团派的领导人都被视为胡锦涛的心腹，胡锦涛本人也是团派的一员'
+  - f: tuanpai
+    cite: f01-bbc-2012-09-22-xi-factions
+    quote: '由中共总书记兼国家主席胡锦涛所领导的……共青团派'
+  - f: tuanpai
+    cite: f01-bbc-2022-10-28-pb-24
+    quote: '再比如“团派”，指共青团出身的高官，如胡锦涛、李克强、胡春华等'
+  - f: tuanpai
+    cite: f01-reuters-2022-10-26-youth-league
+    quote: 'Xi''s predecessor, Hu Jintao, who is 79 and a Youth League veteran'
+    zh: '习近平的前任、79岁的共青团元老胡锦涛'
+
+wen-jiabao:
+  - f: populist
+    cite: f01-brookings-2009-one-party-two-coalitions
+    quote: 'The Populist Coalition is currently led by President Hu Jintao and Premier Wen Jiabao'
+    zh: '民粹联盟目前由胡锦涛主席和温家宝总理领导'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '“平民派”目前由胡锦涛主席和温家宝总理领导'
+  - f: populist
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: '这两派之一是以胡锦涛和温家宝为首的……民粹主义者联盟'
+
+# --- 16th–17th Standing Committee ---
+zeng-qinghong:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-15-psc-profiles
+    quote: '曾庆红：63岁，过去10年来一直是江泽民最信赖的左右手'
+  - f: princelings
+    cite: f01-bbc-2012-09-22-xi-factions
+    quote: '同样身为……太子党……的曾庆红据称在促成习近平被选为继任领导人上担当着关键角色'
+
+wu-bangguo:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-15-psc-profiles
+    quote: '吴邦国：61岁，政治局委员，国务院副总理。被视为是江泽民的亲信'
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '入常前曾任上海市委书记和副总理，被认为有“江派”背景'
+  - f: jiang-shanghai
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Wu Bangguo, the second-highest ranking leader in the previous PSC and a heavyweight leader in the Jiang camp'
+    zh: '吴邦国，上届政治局常委中排名第二的领导人，江派的重量级人物'
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '“精英派”诞生于江泽民时代。尽管该派的两位领导人——人大委员长吴邦国和政协主席贾庆林——很少为国外所知'
+  - f: elitist
+    cite: f01-brookings-2012-04-16-power-shift
+    quote: 'the “elitist coalition,” which emerged in the Jiang era and is currently led by Wu Bangguo, chairman of the national legislature'
+    zh: '“精英联盟”兴起于江泽民时代，目前由全国人大委员长吴邦国领导'
+  - f: elitist
+    cite: f01-brookings-2012-11-powerful-factions
+    quote: 'currently led by both Wu Bangguo, chairman of the national legislature, and Jia Qinglin, head of a national political advisory body'
+    zh: '（精英联盟）目前由全国人大委员长吴邦国和全国政协主席贾庆林共同领导'
+  - f: elitist
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: '现在以人大委员长吴邦国和政协主席贾庆林为首的……精英联盟'
+  - f: elitist
+    cite: f01-voa-2012-05-25-factions
+    quote: '一派是产生于江泽民时代而如今由吴邦国领导的精英联盟'
+
+jia-qinglin:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-15-psc-profiles
+    quote: '贾庆林：62岁，江泽民的另一名亲信'
+  - f: jiang-shanghai
+    cite: f01-bbc-2007-10-23-succession
+    quote: '像被视为"江派"的李长春和贾庆林仍然留在政治局常委'
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '工程师出身的贾被视为具有“江派”背景'
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '“精英派”诞生于江泽民时代。尽管该派的两位领导人——人大委员长吴邦国和政协主席贾庆林——很少为国外所知'
+  - f: elitist
+    cite: f01-brookings-2012-11-powerful-factions
+    quote: 'currently led by both Wu Bangguo, chairman of the national legislature, and Jia Qinglin, head of a national political advisory body'
+    zh: '（精英联盟）目前由全国人大委员长吴邦国和全国政协主席贾庆林共同领导'
+  - f: elitist
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: '现在以人大委员长吴邦国和政协主席贾庆林为首的……精英联盟'
+
+huang-ju:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-15-psc-profiles
+    quote: '黄菊：64岁，江泽民的亲信。1994-2002年担任上海市委书记'
+
+li-changchun:
+  - f: jiang-shanghai
+    cite: f01-bbc-2002-11-15-psc-profiles
+    quote: '李长春：58岁，据信也是江泽民的亲信'
+  - f: jiang-shanghai
+    cite: f01-bbc-2007-10-23-succession
+    quote: '像被视为"江派"的李长春和贾庆林仍然留在政治局常委'
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '李为工程师出身，被认为有“江派”背景'
+
+he-guoqiang:
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '工程师出身的贺国强被视为有“江派”背景'
+
+zhou-yongkang:
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '周为工程师出身，早年在石油部门任职，人常前为国务委员兼公安部长。他被视为有“江派”背景'
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '江派里则既有王岐山这样1980年代就崭露头脚的改革大将，也有曾执掌政法机器的周永康'
+  - f: petroleum
+    cite: f01-cnr-2015-10-15-zhou-disciples
+    quote: '从1967年到1998年，周永康在石油系统工作了31年，官至中国石油天然气总公司总经理、党组书记'
+  - f: petroleum
+    cite: f01-bbc-2014-07-30-zhou-analysis
+    quote: '关于周永康与其关系良好的“石油帮”、“政法系统”、“四川帮”等官员'
+  - f: zhengfa
+    cite: f01-cnr-2015-10-15-zhou-disciples
+    quote: '其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙'
+  - f: zhengfa
+    cite: f01-bbc-2015-06-11-zhou-profile
+    quote: '其实权之大非中共其他政治局常委可比，被人称为“政法王”'
+
+# --- 18th Standing Committee and Politburo ---
+xi-jinping:
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '习被视为“太子党”，其父为已故中共元老习仲勋'
+  - f: princelings
+    cite: f01-bbc-2007-10-23-succession
+    quote: '围绕在被视为是"太子党"习近平和"团派"李克强的身上'
+  - f: princelings
+    cite: f01-bbc-2012-09-22-xi-factions
+    quote: '习近平作为……太子党……一份子'
+  - f: princelings
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来，他们都被称为“太子党”'
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan'
+    zh: '政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山'
+  - f: princelings
+    cite: f01-voa-2022-10-24-xi-jiajun
+    quote: '习近平是中共老一代领导人之一习仲勋之子，因此被称为“太子党”'
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来'
+  - f: elitist
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'the “elitist coalition,” which emerged in the Jiang Zemin era and used to be headed by Jiang and is currently led by Xi Jinping'
+    zh: '“精英联盟”在江泽民时代兴起，曾由江泽民领导，现由习近平领导'
+  - f: jiang-shanghai
+    cite: f01-bbc-2012-09-22-xi-factions
+    quote: '习近平便常被认定与……上海帮……关系密切'
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '前四个确定的入选者中，习近平和张德江属于江派'
+
+li-keqiang:
+  - f: tuanpai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '在共青团系统担任过官职，被视为有“团派”背景'
+  - f: tuanpai
+    cite: f01-bbc-2007-10-23-succession
+    quote: '围绕在被视为是"太子党"习近平和"团派"李克强的身上'
+  - f: tuanpai
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋，人们将之称为“团派”'
+  - f: tuanpai
+    cite: f01-voa-2012-05-25-factions
+    quote: '第二派是“团派”，由胡锦涛支持者组成……这一派的名人为李克强'
+  - f: tuanpai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '李克强和王岐山属于团派'
+  - f: tuanpai
+    cite: f01-bbc-2017-10-25-19th-psc
+    quote: '团派有李克强和汪洋'
+  - f: tuanpai
+    cite: f01-bbc-2022-10-28-pb-24
+    quote: '再比如“团派”，指共青团出身的高官，如胡锦涛、李克强、胡春华等'
+  - f: tuanpai
+    cite: f01-reuters-2022-10-26-youth-league
+    quote: 'all rose through its Youth League and were considered members of a once-powerful faction……Premier Li Keqiang and Vice Premier Wang Yang'
+    zh: '都是从共青团起家，被视为一个曾经强大的派系的成员……国务院总理李克强和副总理汪洋'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+  - f: populist
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'The other is the “populist coalition,” which was led by President Hu Jintao prior to the 18th Party Congress and is now headed by his protégé Li Keqiang'
+    zh: '另一派是“民粹联盟”，十八大前由胡锦涛主席领导，现由他的门生李克强领导'
+
+zhang-dejiang:
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan'
+    zh: '政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山'
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '张从朝鲜金日成大学获得经济学位。他被认为具有“江派”背景'
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '前四个确定的入选者中，习近平和张德江属于江派'
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '则是金日成综合大学毕业的张德江和表情拘谨的张高丽，他们都属于前总书记江泽民的“江派”'
+
+yu-zhengsheng:
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '俞被视为“太子党”人物，他的父亲是中共建政时的高级官员'
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan'
+    zh: '政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山'
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '后五个待选者中，张高丽、刘云山、俞正声被划归江派'
+
+liu-yunshan:
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '后五个待选者中，张高丽、刘云山、俞正声被划归江派'
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '刘云山表面上是团派，实则为江派效力'
+
+wang-qishan:
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '王是已故政治局常委、副总理姚依林的女婿，因此被很多人视为“太子党”'
+  - f: princelings
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来，他们都被称为“太子党”'
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan'
+    zh: '政治局常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山'
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来'
+  - f: tuanpai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '李克强和王岐山属于团派'
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '江派里则既有王岐山这样1980年代就崭露头脚的改革大将'
+
+zhang-gaoli:
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '张为经济专家出身，据说有“江派”背景'
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '后五个待选者中，张高丽、刘云山、俞正声被划归江派'
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '则是金日成综合大学毕业的张德江和表情拘谨的张高丽，他们都属于前总书记江泽民的“江派”'
+
+li-yuanchao:
+  - f: tuanpai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '本人在共青团系统任过职，既是“太子党”，又有“团派”背景'
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '李的父亲是中共高干李干成，本人在共青团系统任过职，既是“太子党”'
+  - f: tuanpai
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋，人们将之称为“团派”'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+  - f: tuanpai
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'Prominent tuanpai leaders such as the aforementioned Li Yuanchao and Wang Yang will still be eligible in terms of age for the next PSC in five years'
+    zh: '前面提到的李源潮、汪洋等著名团派领导人，五年后在年龄上仍有资格进入下一届常委会'
+  - f: tuanpai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '李源潮及汪洋被列入团派'
+  - f: tuanpai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '“改革派”汪洋、李源潮属于前中共总书记胡锦涛的“团派”或称“胡派”'
+  - f: tuanpai
+    cite: f01-thinkchina-2022-09-27-factions
+    quote: 'from the Youth League group such as Li Yuanchao, Liu Qibao and Lu Hao'
+    zh: '来自团派的李源潮、刘奇葆、陆昊等人'
+
+wang-yang:
+  - f: tuanpai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '据信他有胡锦涛“团派”背景，也深得总理温家宝信任'
+  - f: tuanpai
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋，人们将之称为“团派”'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+  - f: tuanpai
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'all were tuanpai leaders……These include the only woman candidate, State Councilor Liu Yandong, and two rising stars, the aforementioned Wang Yang, and former head of the CPC Organization Department Li Yuanchao'
+    zh: '他们都是团派领导人……其中包括唯一的女性候选人国务委员刘延东，以及两位政治新星——前面提到的汪洋和前中组部长李源潮'
+  - f: tuanpai
+    cite: f01-brookings-2017-new-politburo
+    quote: 'Wang is widely considered a……of Hu Jintao, with whom he developed strong patron-client ties in the early 1980s, when Hu was head of the CCYL'
+    zh: '汪洋被普遍视为胡锦涛的门生，两人在1980年代初胡锦涛主管共青团时建立了紧密的庇护关系'
+  - f: tuanpai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '李源潮及汪洋被列入团派'
+  - f: tuanpai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '“改革派”汪洋、李源潮属于前中共总书记胡锦涛的“团派”或称“胡派”'
+  - f: tuanpai
+    cite: f01-bbc-2017-10-25-19th-psc
+    quote: '团派有李克强和汪洋'
+
+liu-yandong:
+  - f: tuanpai
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '她在共青团系统起家，被视为胡锦涛“团派”成员'
+  - f: tuanpai
+    cite: f01-brookings-2013-02-10-princelings
+    quote: 'all were tuanpai leaders……These include the only woman candidate, State Councilor Liu Yandong'
+    zh: '他们都是团派领导人……其中包括唯一的女性候选人国务委员刘延东'
+
+bo-xilai:
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    quote: '薄熙来是已故中共元老薄一波之子，他是 “太子党”领军人物之一'
+  - f: princelings
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来，他们都被称为“太子党”'
+  - f: princelings
+    cite: f01-brookings-2012-11-powerful-factions
+    quote: 'The most serious one has centred on Bo Xilai, a prominent princeling'
+    zh: '最严重的一起（危机）围绕着著名的太子党薄熙来'
+  - f: princelings
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: '最严重的危机之一是属于……太子党……的薄熙来'
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来'
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    quote: '江派里则既有王岐山……唱红打黑的薄熙来据说也跻身其中'
+
+ling-jihua:
+  - f: tuanpai
+    cite: f01-brookings-2012-11-powerful-factions
+    quote: 'Another case is Ling Jihua, Hu Jintao’s former chief of staff and up until recently a rising star in the tuanpai faction'
+    zh: '另一起是令计划，胡锦涛的前幕僚长，直到不久前还是团派的政治新星'
+
+# --- Xi era: Shanghai Gang holdovers and the Youth League's end ---
+han-zheng:
+  - f: jiang-shanghai
+    cite: f01-brookings-2017-new-politburo
+    quote: 'Han has been widely recognized as a member of the Jiang Zemin-Zeng Qinghong “Shanghai Gang.”'
+    zh: '韩正被普遍认为是江泽民—曾庆红“上海帮”的成员'
+
+wang-huning:
+  - f: jiang-shanghai
+    cite: f01-brookings-2017-new-politburo
+    quote: 'he established his patron-mentor relationship with Jiang Zemin and Zeng Qinghong, who were then top leaders in Shanghai, and thus he earned membership in the “Shanghai Gang.”'
+    zh: '他与当时的上海领导人江泽民、曾庆红建立了师承关系，由此成为“上海帮”的一员'
+
+hu-chunhua:
+  - f: tuanpai
+    cite: f01-reuters-2022-10-26-youth-league
+    quote: '"On Hu Chunhua, I think this has been Xi Jinping''s main tactic of shutting down the youth league faction," said Victor Shih'
+    zh: '“在胡春华的问题上，我认为这一直是习近平关停团派的主要手法。”史宗瀚说'
+  - f: tuanpai
+    cite: f01-dw-2022-10-24-xi-jiajun
+    quote: '原先各界看好的热门总理人选、团派代表的胡春华不仅未能入常，连政治局委员都未能保住'
+  - f: tuanpai
+    cite: f01-bbc-2022-10-28-pb-24
+    quote: '再比如“团派”，指共青团出身的高官，如胡锦涛、李克强、胡春华等'
+
+liu-qibao:
+  - f: tuanpai
+    cite: f01-thinkchina-2022-09-27-factions
+    quote: 'from the Youth League group such as Li Yuanchao, Liu Qibao and Lu Hao'
+    zh: '来自团派的李源潮、刘奇葆、陆昊等人'
+
+# --- Zhou Yongkang's petroleum and political-legal networks ---
+jiang-jiemin:
+  - f: petroleum
+    cite: f01-cnr-2015-10-15-zhou-disciples
+    quote: '据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等'
+  - f: petroleum
+    cite: f01-bbc-2015-06-11-zhou-profile
+    quote: '还有石油系统的高官蒋洁敏、王永春、李华林等人'
+
+li-dongsheng:
+  - f: zhengfa
+    cite: f01-bbc-2015-06-11-zhou-profile
+    quote: '以及政法系统高官李东生、吴永文等'
+  - f: zhengfa
+    cite: f01-cnr-2015-10-15-zhou-disciples
+    quote: '李东生、郭永祥、王永春、蒋洁敏、李春城、冀文林等，为四川系、石油系、政法系、秘书帮的重要成员'
+
+zhou-benshun:
+  - f: zhengfa
+    cite: f01-cnr-2015-10-15-zhou-disciples
+    quote: '周本顺也曾是周永康政法系统的“身边人”'
+
+# --- military princelings ---
+liu-yuan:
+  - f: princelings
+    cite: f01-voa-2024-04-04-princelings
+    quote: '刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物'
+  - f: princelings
+    cite: f01-thinkchina-2022-09-27-factions
+    quote: 'especially military princelings such as General Liu Yuan and General Liu Yazhou'
+    zh: '尤其是刘源上将、刘亚洲上将等军中太子党'
+
+liu-yazhou:
+  - f: princelings
+    cite: f01-voa-2024-04-04-princelings
+    quote: '刘亚洲本身就是“红二代”，而且可说是前中国国家主席李先念的“乘龙快婿”。他被判重刑是习近平和“太子党”决裂的最新一幕'
+  - f: princelings
+    cite: f01-thinkchina-2022-09-27-factions
+    quote: 'especially military princelings such as General Liu Yuan and General Liu Yazhou'
+    zh: '尤其是刘源上将、刘亚洲上将等军中太子党'
+
+zhang-youxia:
+  - f: princelings
+    cite: f01-voa-2024-04-04-princelings
+    quote: '在习近平的执政团队中，硕果仅存的“太子党”就是张又侠'

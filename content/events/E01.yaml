@@ -1,0 +1,833 @@
+# E01 timeline: 1989-1999 prelude and 2000-2007 events. Sources in research/manifests/E01.yaml.
+
+# ---------- prelude 1989-1999 ----------
+- id: e1989-hu-yaobang-death-protests
+  date: 1989-04-15
+  end: 1989-05-20
+  title: 胡耀邦逝世与八九学潮
+  lane: prelude
+  summary: 4月15日，前总书记、政治局委员胡耀邦在北京逝世，终年73岁。悼念活动期间北京等大城市出现大规模学潮。4月26日《人民日报》发表社论《必须旗帜鲜明地反对动乱》，将事态定性为否定党的领导的动乱；5月20日起，国务院在北京部分地区实行戒严，命令由总理李鹏签署。
+  people: [zhao-ziyang, li-peng]
+  cites: [e01-cpc-dsj-1989]
+
+- id: e1989-june-fourth
+  date: 1989-06-04
+  title: 六四镇压
+  lane: prelude
+  major: true
+  summary: 6月3日夜至4日凌晨，戒严部队奉命进入北京城区并对天安门广场清场。官方当时定性为平息反革命暴乱，6月底通报约200名平民和数十名安保人员死亡；中国红十字会、北京市长陈希同报告与英美解密文件给出的数字从200余人到上万人不等。后来的官方党史以政治风波概称这一事件。
+  people: [li-peng, zhao-ziyang]
+  voices:
+    - voice: official
+      text: 一个多月来极少数人在北京制造的动乱，发展成为一场反革命暴乱。
+      cite: e01-cpc-dsj-1989
+      quote: true
+    - voice: history
+      text: 春夏之交 北京和其他一些城市发生政治风波，党和政府依靠人民，旗帜鲜明地反对动乱，平息在北京发生的反革命暴乱
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: true
+    - voice: zh
+      text: 英国最新解密的文档显示，"六四"事件中，中国军方杀害了至少一万人。
+      cite: e01-bbc-2017-12-21-june4-toll
+      quote: true
+    - voice: zh
+      text: 六四事件的死亡人数有许多不同版本：中国红十字会在“六四”早晨公布的医院统计死亡人数约为2700人
+      cite: e01-voa-2017-12-22-june4-toll
+      quote: true
+  cites: [e01-cpc-dsj-1989, e01-gov-2021-06-28-cpc-100y, e01-bbc-2017-12-21-june4-toll, e01-voa-2017-12-22-june4-toll]
+
+- id: e1989-fourth-plenum-jiang
+  date: 1989-06-23
+  end: 1989-06-24
+  title: 十三届四中全会：赵紫阳被撤职，江泽民任总书记
+  lane: prelude
+  major: true
+  summary: 十三届四中全会通过关于赵紫阳在动乱中所犯错误的报告，认定其犯了支持动乱和分裂党的错误，撤销其总书记、政治局常委、政治局委员、中央委员和军委第一副主席职务，并对其继续审查。全会选举江泽民为总书记，增选江泽民、宋平、李瑞环为政治局常委，免去胡启立的常委职务。
+  people: [jiang-zemin, zhao-ziyang, li-ruihuan, li-peng]
+  cites: [e01-cpc-dsj-1989]
+
+- id: e1989-deng-cmc-to-jiang
+  date: 1989-11-09
+  title: 邓小平辞去军委主席，江泽民接任
+  lane: prelude
+  summary: 9月4日邓小平致信政治局请求辞去中央军委主席。十三届五中全会（11月6日至9日）同意其辞职，决定江泽民为中央军委主席、杨尚昆为第一副主席。1990年3月七届全国人大三次会议又接受邓小平辞去国家军委主席，选举江泽民接任，江泽民由此集党、军最高职务于一身。
+  people: [jiang-zemin]
+  cites: [e01-cpc-dsj-1989, e01-gov-2021-06-28-cpc-100y]
+
+- id: e1990-hk-basic-law
+  date: 1990-04-04
+  title: 全国人大通过《香港特别行政区基本法》
+  lane: prelude
+  summary: 1990年3月20日至4月4日举行的七届全国人大三次会议通过《中华人民共和国香港特别行政区基本法》及关于设立香港特别行政区的决定，为1997年回归后的一国两制安排确定法律框架。同一次会议接受邓小平辞去国家中央军委主席职务，选举江泽民为国家中央军委主席。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1990-shanghai-stock-exchange
+  date: 1990-12-19
+  title: 上海证券交易所开业
+  lane: prelude
+  summary: 1990年11月26日，新中国成立以来在中国大陆开业的第一家证券交易所上海证券交易所正式成立，12月19日正式开业；1991年7月3日深圳证券交易所开业。同一时期中央正以三年或更长时间推进治理整顿，两家交易所是这一时期少数延续下来的改革试点。
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1992-southern-tour
+  date: 1992-01-18
+  end: 1992-02-21
+  title: 邓小平南方谈话
+  lane: prelude
+  major: true
+  summary: 邓小平视察武昌、深圳、珠海、上海等地并发表谈话，提出基本路线要管一百年，判断姓社姓资主要看是否有利于发展生产力、增强综合国力、提高人民生活水平，强调发展才是硬道理，计划多一点还是市场多一点不是社会主义与资本主义的本质区别。官方称之为把改革开放推进到新阶段的又一个解放思想、实事求是的宣言书。
+  concepts: [deng-theory]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1992-14th-congress
+  date: 1992-10-12
+  end: 1992-10-18
+  title: 中共十四大确立社会主义市场经济目标
+  lane: prelude
+  summary: 中共十四大正式代表1989人，代表5100多万党员。江泽民所作报告确定经济体制改革的目标是建立社会主义市场经济体制，提出用邓小平建设有中国特色社会主义的理论武装全党；修改后的党章写入这一理论和社会主义初级阶段基本路线。这是江泽民作为总书记主持的第一次党代会。
+  people: [jiang-zemin]
+  concepts: [deng-theory]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1992-consensus
+  date: 1992-11
+  title: 九二共识
+  lane: prelude
+  summary: 1992年11月，大陆海峡两岸关系协会与台湾海峡交流基金会就事务性商谈中如何表述坚持一个中国原则的问题达成共识，官方表述为海峡两岸同属一个中国，共同努力谋求国家统一，后被称为九二共识。此后它成为北京处理两岸关系、与国民党往来的政治基础。
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1993-jiang-state-president
+  date: 1993-03
+  title: 江泽民当选国家主席
+  lane: prelude
+  summary: 1993年3月15日至31日举行的八届全国人大一次会议选举江泽民为国家主席、国家中央军委主席，乔石为全国人大常委会委员长，决定李鹏为国务院总理。会议通过的宪法修正案写入国家实行社会主义市场经济，并通过澳门基本法。江泽民自此兼任党、国家、军队三项最高职务。
+  people: [jiang-zemin, li-peng]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1993-tax-sharing
+  date: 1993-12-15
+  title: 分税制改革
+  lane: prelude
+  summary: 1993年12月15日，国务院作出《关于实行分税制财政管理体制的决定》，确定从1994年1月1日起改革地方财政包干体制，对各省、自治区、直辖市以及计划单列市实行分税制财政管理体制。改革以税种划分中央与地方收入，取代此前各地向中央包干上缴的办法。
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1995-jiang-eight-points
+  date: 1995-01-30
+  title: 江八点
+  lane: prelude
+  summary: 1995年1月30日，江泽民发表《为促进祖国统一大业的完成而继续奋斗》讲话，提出现阶段发展两岸关系、推进祖国和平统一进程的八项主张，通称江八点。这是江泽民在九二共识基础上提出的对台政策纲领，此后被官方长期引用为对台工作的基本方针之一。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1995-chen-xitong
+  date: 1995-04-27
+  title: 陈希同案
+  lane: prelude
+  summary: 1995年4月27日，中央批准北京市委书记陈希同引咎辞职，由尉健行接任。同年9月十四届五中全会认定他对副市长王宝森的违法犯罪负有重大责任并收受贵重物品，撤销其政治局委员和中央委员职务；1997年8月被开除党籍，1998年7月31日以受贿罪和玩忽职守罪被判处有期徒刑十六年。
+  people: [wei-jianxing, hu-jintao, jiang-zemin]
+  cites: [e01-cpc-dsj-1995]
+
+- id: e1996-taiwan-strait-missiles
+  date: 1996-03-08
+  end: 1996-03-25
+  title: 台海导弹演习
+  lane: prelude
+  summary: 1996年3月8日至25日，解放军向东海、南海进行发射导弹训练和海空实弹演习，并在台湾海峡举行陆海空军联合演习，官方称意在显示维护统一的决心、震慑台独势力。1998年6月30日美国总统克林顿访华时在上海公开重申，美国不支持台湾独立，不支持一中一台、两个中国，不支持台湾加入须由主权国家参加的国际组织。
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e1997-deng-death
+  date: 1997-02-19
+  title: 邓小平逝世
+  lane: prelude
+  major: true
+  summary: 1997年2月19日，邓小平在北京病逝，享年93岁。中共中央等发出《告全党全军全国各族人民书》，称其为改革开放和现代化建设的总设计师。2月25日追悼大会上江泽民致悼词，强调更高地举起邓小平建设有中国特色社会主义理论的伟大旗帜；遵照本人及亲属意愿，3月2日骨灰撒入大海。同年9月十五大把邓小平理论写入党章。
+  people: [jiang-zemin]
+  concepts: [deng-theory]
+  cites: [e01-cpc-dsj-1997, e01-gov-2021-06-28-cpc-100y]
+
+- id: e1997-hk-handover
+  date: 1997-07-01
+  title: 香港回归
+  lane: prelude
+  major: true
+  summary: 1997年6月30日午夜至7月1日凌晨，中英两国政府香港政权交接仪式在香港举行，国家主席江泽民宣告中国对香港恢复行使主权，香港特别行政区成立，特区政府宣誓就职；解放军驻港部队7月1日零时起履行防务职责。香港自此按基本法实行一国两制。
+  people: [jiang-zemin]
+  cites: [e01-cpc-dsj-1997, e01-gov-2021-06-28-cpc-100y]
+
+- id: e1997-chongqing-municipality
+  date: 1997-03-14
+  title: 设立重庆直辖市
+  lane: prelude
+  summary: 1997年3月1日至14日举行的八届全国人大五次会议通过《关于批准设立重庆直辖市的决定》，同时通过新修订的刑法和国防法。李鹏的政府工作报告把国有企业改革定为当年经济体制改革的重点，提出规范破产、鼓励兼并、推进再就业。重庆自此升格为直辖市。
+  people: [li-peng]
+  cites: [e01-cpc-dsj-1997]
+
+- id: e1997-15th-congress
+  date: 1997-09-12
+  end: 1997-09-19
+  title: 中共十五大：邓小平理论入党章
+  lane: prelude
+  major: true
+  summary: 十五大正式代表2048人，代表5800多万党员。大会把邓小平理论确立为指导思想写入党章，明确公有制为主体、多种所有制共同发展是基本经济制度，提出依法治国，并宣布三年内再裁军50万。9月19日一中全会选出江泽民、李鹏、朱镕基、李瑞环、胡锦涛、尉健行、李岚清七人常委，张万年、迟浩田任军委副主席。
+  people: [jiang-zemin, li-peng, zhu-rongji, li-ruihuan, hu-jintao, wei-jianxing, li-lanqing, zhang-wannian, chi-haotian]
+  concepts: [deng-theory, rule-of-law]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-1997]
+
+- id: e1998-zhu-premier-restructuring
+  date: 1998-03
+  title: 朱镕基任总理，国务院机构改革
+  lane: prelude
+  summary: 1998年3月九届全国人大一次会议决定朱镕基为国务院总理，选举江泽民连任国家主席、李鹏为人大常委会委员长、胡锦涛为国家副主席，李岚清、钱其琛、吴邦国、温家宝为副总理。会议批准机构改革方案，撤并直接管理经济的专业部门，国务院部委由40个减为29个。
+  people: [zhu-rongji, jiang-zemin, li-peng, hu-jintao, li-lanqing, qian-qichen, wu-bangguo, wen-jiabao]
+  cites: [e01-cpc-dsj-1998, e01-gov-2021-06-28-cpc-100y]
+
+- id: e1998-soe-layoffs
+  date: 1998-06-09
+  title: 国企三年脱困与下岗职工
+  lane: prelude
+  summary: 中央提出用三年左右时间使大多数国有大中型亏损企业摆脱困境，1998年4月朱镕基为首批稽察特派员开班。6月9日中共中央、国务院发出关于做好国有企业下岗职工基本生活保障和再就业工作的通知，提出用五年左右时间初步建立适应市场经济的社会保障体系和就业机制。
+  people: [zhu-rongji]
+  cites: [e01-cpc-dsj-1998]
+
+- id: e1998-army-out-of-business
+  date: 1998-07-22
+  title: 军队、武警和政法机关停止经商
+  lane: prelude
+  summary: 1998年7月21日至22日解放军四总部联合召开会议，江泽民宣布中央决定，军队和武警部队对所属经营性公司要认真清理，今后一律不再从事经商活动；地方政法部门所属公司同样清理、不再经商。同月全国打击走私工作会议决定组建缉私警察。此举针对军队经商和走私泛滥。
+  people: [jiang-zemin, zhu-rongji]
+  cites: [e01-cpc-dsj-1998]
+
+- id: e1998-floods
+  date: 1998-08
+  title: 1998年特大洪水
+  lane: prelude
+  summary: 1998年6月起长江发生继1954年以来第二次全流域性大洪水，松花江、嫩江、西江、闽江也出现特大洪水，百万军民上堤抗洪，江泽民8月16日命令沿线部队全部上堤。8月底全国人大常委会批准增发1000亿元国债用于基础设施，中央财政赤字由460亿元扩大到960亿元。
+  people: [jiang-zemin, zhu-rongji, wen-jiabao]
+  cites: [e01-cpc-dsj-1998]
+
+- id: e1999-belgrade-embassy
+  date: 1999-05-08
+  title: 北约轰炸中国驻南斯拉夫使馆
+  lane: prelude
+  summary: 北京时间1999年5月8日凌晨5时左右，以美国为首的北约飞机用导弹袭击中国驻南斯拉夫大使馆，造成人员伤亡。全国各地爆发集会游行；5月9日国家副主席胡锦涛发表电视讲话谴责，10日外长唐家璇向美方提出公开道歉、全面调查、公布结果、严惩肇事者四项要求，中方推迟两军高层交往和人权对话。
+  people: [hu-jintao, tang-jiaxuan, jiang-zemin]
+  cites: [e01-cpc-dsj-1999]
+
+- id: e1999-falun-gong-ban
+  date: 1999-07-22
+  title: 取缔法轮功
+  lane: prelude
+  major: true
+  summary: 1999年4月一万多名法轮功学员在中南海外静坐。7月19日中共中央发出共产党员不准修炼的通知，22日民政部取缔法轮大法研究会；10月《人民日报》称其为邪教，全国人大常委会通过取缔邪教组织的决定。据BBC引官方统计，到1999年底至少三万五千名学员被拘捕；官方则指法轮功导致一千五百人丧生。
+  people: [jiang-zemin]
+  voices:
+    - voice: official
+      text: 《人民日报》发表特约评论员文章《“法轮功”就是邪教》。
+      cite: e01-cpc-dsj-1999
+      quote: true
+    - voice: zh
+      text: 中国政府将法轮功视为1989年天安门民主示威运动以来对共产党政权的最大威胁。
+      cite: e01-bbc-2000-04-25-falungong-year
+      quote: true
+    - voice: zh
+      text: 据官方统计，到去年年底，至少三万五千名法轮功学员被拘捕。
+      cite: e01-bbc-2000-04-25-falungong-year
+      quote: true
+  cites: [e01-cpc-dsj-1999, e01-bbc-2000-04-25-falungong-year]
+
+- id: e1999-two-states-theory
+  date: 1999-07-09
+  title: 李登辉两国论
+  lane: prelude
+  summary: 1999年7月9日，台湾领导人李登辉接受德国之声采访，称两岸关系是国家与国家、至少是特殊的国与国的关系。7月11日中台办、国台办发言人严正警告台湾分裂势力悬崖勒马；海协会会长汪道涵指出，这种说法使两岸接触、交流、对话的基础不复存在。大陆各界团体随即举行座谈会批驳两国论。
+  cites: [e01-cpc-dsj-1999]
+
+- id: e1999-hu-cmc-vice-chair
+  date: 1999-10-31
+  title: 胡锦涛任军委副主席
+  lane: prelude
+  summary: 1999年10月31日，九届全国人大常委会第十二次会议根据国家军委主席江泽民的提名，任命国家副主席胡锦涛为中华人民共和国中央军事委员会副主席；同一次会议通过关于取缔邪教组织的决定。胡锦涛此时已是政治局常委和国家副主席，兼任军委副主席使他在党、政、军三方面都处于接班位置。
+  people: [hu-jintao, jiang-zemin]
+  cites: [e01-cpc-dsj-1999, e01-cpc-dsj-1997, e01-cpc-dsj-1998]
+
+- id: e1999-us-wto-deal
+  date: 1999-11-15
+  title: 中美达成入世双边协议
+  lane: prelude
+  summary: 1999年11月15日，中美两国政府在北京签署关于中国加入世界贸易组织的双边协议并发表新闻公报，被官方称为入世迈出的重要一步；同日召开的中央经济工作会议仍以国企改革和扩大内需为重点。2000年5月19日中国又与欧盟达成入世双边协议，入世谈判进入最后阶段。
+  cites: [e01-cpc-dsj-1999, e01-cpc-dsj-2000]
+
+- id: e1999-macau-handover
+  date: 1999-12-20
+  title: 澳门回归
+  lane: prelude
+  summary: 1999年12月19日午夜至20日凌晨，中葡两国政府澳门政权交接仪式在澳门举行，江泽民宣告中国政府对澳门恢复行使主权，澳门特别行政区成立，特区政府宣誓就职；解放军驻澳部队20日零时起履行防务职责。北京在京举行首都各界庆祝澳门回归大会。
+  people: [jiang-zemin]
+  cites: [e01-cpc-dsj-1999, e01-gov-2021-06-28-cpc-100y]
+
+# ---------- 2000-2007 ----------
+# power
+- id: e2002-16th-congress
+  date: 2002-11-08
+  end: 2002-11-15
+  title: 中共十六大：胡锦涛接任总书记
+  lane: power
+  major: true
+  summary: 十六大正式代表2114人，代表6600多万党员，提出全面建设小康社会目标，把三个代表重要思想写入党章。11月15日一中全会选举胡锦涛为总书记，常委扩为胡锦涛、吴邦国、温家宝、贾庆林、曾庆红、黄菊、吴官正、李长春、罗干九人，江泽民留任中央军委主席，吴官正任中纪委书记。
+  people: [hu-jintao, jiang-zemin, wu-bangguo, wen-jiabao, jia-qinglin, zeng-qinghong, huang-ju, wu-guanzheng, li-changchun, luo-gan]
+  concepts: [three-represents, xiaokang]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-ccphistory-2002-11-15-16cc-plenum1]
+
+- id: e2003-10th-npc
+  date: 2003-03
+  title: 十届人大：胡锦涛任国家主席，温家宝任总理
+  lane: power
+  summary: 2003年3月5日至18日十届全国人大一次会议选举胡锦涛为国家主席，江泽民为国家中央军委主席，吴邦国为全国人大常委会委员长，决定温家宝为国务院总理；此前的全国政协十届一次会议选举贾庆林为政协主席。国家职务交接完成，但军权仍在江泽民手中。
+  people: [hu-jintao, jiang-zemin, wu-bangguo, wen-jiabao, jia-qinglin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2004-jiang-hands-over-cmc
+  date: 2004-09-19
+  title: 江泽民交出中央军委主席
+  lane: power
+  major: true
+  summary: 2004年9月16日至19日中共十六届四中全会通过《关于加强党的执政能力建设的决定》，同意江泽民辞去中央军委主席职务，决定胡锦涛为中央军委主席。2005年3月十届人大三次会议选举胡锦涛为国家中央军委主席。至此胡锦涛在十六大后近两年才集党、政、军最高职务于一身。
+  people: [jiang-zemin, hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2005-zhao-ziyang-death
+  date: 2005-01-17
+  title: 赵紫阳逝世
+  lane: power
+  summary: 1989年被撤销全部职务的前总书记赵紫阳于2005年1月17日在北京逝世，终年85岁；1月29日遗体在八宝山火化，贾庆林等送别。新华社简短报道肯定他在改革开放前期为党和人民的事业作出过有益的贡献，同时重申他在1989年春夏之交的政治风波中犯了严重错误，弥留时曾庆红代表中央领导前往医院看望。
+  people: [zhao-ziyang, jia-qinglin, zeng-qinghong]
+  voices:
+    - voice: official
+      text: 在１９８９年春夏之交的政治风波中赵紫阳同志犯了严重错误。
+      cite: e01-xinhua-2005-01-29-zhao-ziyang
+      quote: true
+  cites: [e01-xinhua-2005-01-29-zhao-ziyang, e01-cpc-dsj-1989]
+
+- id: e2007-17th-congress
+  date: 2007-10-15
+  end: 2007-10-22
+  title: 中共十七大：习近平、李克强入常
+  lane: power
+  major: true
+  summary: 十七大正式代表2213人，代表7300多万党员，把科学发展观写入党章，选出中央委员204名、候补委员167名。10月22日一中全会选出胡锦涛、吴邦国、温家宝、贾庆林、李长春、习近平、李克强、贺国强、周永康九名常委，贺国强任中纪委书记。与十六届常委相比，曾庆红、黄菊、吴官正、罗干不在新名单中，习近平、李克强、贺国强、周永康新入常。
+  people: [hu-jintao, wu-bangguo, wen-jiabao, jia-qinglin, li-changchun, xi-jinping, li-keqiang, he-guoqiang, zhou-yongkang]
+  concepts: [scientific-development]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2007, e01-ccphistory-2002-11-15-16cc-plenum1]
+
+# purge
+- id: e2000-cheng-kejie
+  date: 2000-09-14
+  title: 成克杰被执行死刑
+  lane: purge
+  summary: 全国人大常委会副委员长成克杰利用职权伙同情妇收受贿赂，款物合计四千余万元。2000年4月中纪委宣布将其开除党籍，人大常委会撤销其副委员长职务；7月31日北京一中院以受贿罪判处死刑，9月14日经最高法院核准执行。官方称这是新中国成立以来职务最高的领导干部因受贿犯罪被处以极刑。
+  cites: [e01-cpc-dsj-2000, e01-chinanews-2000-09-14-cheng-kejie]
+
+- id: e2001-shi-zhaobin-li-jiating
+  date: 2001-09-26
+  title: 石兆彬、李嘉廷被开除党籍
+  lane: purge
+  summary: 2001年9月24日至26日中共十五届六中全会通过《关于加强和改进党的作风建设的决定》，提出八个坚持、八个反对；全会同时审议中纪委关于石兆彬、李嘉廷问题的审查报告，撤销二人中央候补委员职务并开除党籍。这是十五届中央委员会在全会上处理的又一起在任中央候补委员违纪案。
+  cites: [e01-cpc-dsj-2001]
+
+- id: e2006-chen-liangyu
+  date: 2006-09-24
+  title: 上海市委书记陈良宇落马
+  lane: purge
+  major: true
+  summary: 2006年9月24日政治局决定由中纪委对政治局委员、上海市委书记陈良宇立案检查，免去其上海职务，官方列举的问题包括上海社保资金违规使用、为不法企业主谋利、袒护身边人员。2007年7月26日被开除党籍并移送司法。这是胡锦涛执政后撤换的最高层官员，外界普遍从中央与上海帮的权力关系解读此案。
+  people: [chen-liangyu, hu-jintao, huang-ju, jiang-zemin, zeng-qinghong, wu-bangguo]
+  factions: [jiang-shanghai]
+  voices:
+    - voice: official
+      text: 不论是谁，不论其职务多高，只要触犯党纪国法，都要受到严肃追究和严厉惩处。
+      cite: e01-bbc-2006-09-25-chen-liangyu
+      quote: true
+    - voice: zh
+      text: 把陈良宇拉下马与其说是由于腐败，还不如说是一次政治暗杀。
+      cite: e01-bbc-2006-09-29-chen-liangyu-ft
+      quote: true
+    - voice: scholar
+      text: 不可否认，陈良宇下台这里面有权力斗争的影子，因为所谓的上海帮以陈良宇和黄菊为代表的都是江泽民提拔的人。
+      cite: e01-voa-2006-09-27-chen-liangyu
+      quote: true
+  cites: [e01-cpc-dsj-2006, e01-bbc-2006-09-25-chen-liangyu, e01-bbc-2006-09-29-chen-liangyu-ft, e01-voa-2006-09-27-chen-liangyu]
+
+- id: e2007-zheng-xiaoyu
+  date: 2007-07-10
+  title: 原药监局长郑筱萸被执行死刑
+  lane: purge
+  summary: 原国家食品药品监督管理局局长郑筱萸近十年间直接或通过妻、子多次受贿，款物合计649万余元，并擅自同意降低药品审批标准、滥发药品文号。2007年7月10日经最高人民法院核准，他以受贿罪、玩忽职守罪两罪并罚被执行死刑。新华社报道称他是共和国的原最高药监官。
+  cites: [e01-cctv-2007-07-10-zheng-xiaoyu]
+
+# army
+- id: e2003-troop-cut-200k
+  date: 2003-09-01
+  title: 再裁军20万
+  lane: army
+  summary: 十五大宣布的三年裁军50万完成后，2003年9月1日中央军委主席江泽民在国防科学技术大学成立50周年大会上宣布，在九五期间裁减50万的基础上，2005年前再裁减员额20万。此前1980年代已裁减军队员额100万。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2004-informatized-war
+  date: 2004-06
+  title: 军事斗争准备基点转向信息化条件下局部战争
+  lane: army
+  summary: 1993年1月中央军委扩大会议制定新时期积极防御军事战略方针，把军事斗争准备的基点放在打赢现代技术特别是高技术条件下的局部战争。2004年6月召开的中央军委扩大会议提出，必须明确把基点放到打赢信息化条件下的局部战争上。三个月后江泽民辞去中央军委主席。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2004-new-historic-missions
+  date: 2004-12-24
+  title: 胡锦涛提出军队新的历史使命
+  lane: army
+  summary: 接任军委主席三个月后，胡锦涛2004年12月24日在中央军委扩大会议上提出新世纪新阶段解放军的历史使命：为党巩固执政地位提供重要力量保证，为维护重要战略机遇期提供坚强安全保障，为维护国家利益提供有力战略支撑，为维护世界和平与促进共同发展发挥重要作用。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2005-civilian-staff
+  date: 2005-06-23
+  title: 军队实行文职人员制度
+  lane: army
+  summary: 2005年6月23日，国务院、中央军委公布《中国人民解放军文职人员条例》，决定在全军实行文职人员制度。条例出台时正值2003年宣布的2005年前再裁减员额20万临近完成，也是胡锦涛2004年9月接任中央军委主席后的军队人事制度调整。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2007-pla-80th
+  date: 2007-08-01
+  title: 建军80周年讲话
+  lane: army
+  summary: 2007年8月1日，胡锦涛在庆祝解放军建军80周年暨全军英雄模范代表大会上讲话，把人民解放军80年来形成的优良革命传统概括为听党指挥、服务人民、英勇善战。2008年12月他又在中央军委扩大会议上提出忠诚于党、热爱人民、报效国家、献身使命、崇尚荣誉的当代革命军人核心价值观。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+# ideo
+- id: e2000-three-represents
+  date: 2000-02-25
+  title: 江泽民提出“三个代表”
+  lane: ideo
+  major: true
+  summary: 2000年2月25日江泽民在广东考察时提出，党要始终代表中国先进生产力的发展要求、先进文化的前进方向、最广大人民的根本利益。5月14日他在上海进一步称“三个代表”是党的立党之本、执政之基、力量之源。同年12月胡锦涛部署在全国农村开展学习教育活动；2002年写入党章，2004年写入宪法。
+  people: [jiang-zemin, hu-jintao]
+  concepts: [three-represents]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2000, e01-cpc-dsj-2004]
+
+- id: e2001-july-first-speech
+  date: 2001-07-01
+  title: 建党80周年“七一”讲话
+  lane: ideo
+  summary: 2001年7月1日庆祝建党80周年大会上，江泽民发表讲话，总结党80年的奋斗业绩和基本经验，系统阐述三个代表重要思想。9月十五届六中全会称这篇讲话是一篇马克思主义的纲领性文献，并确定十六大于2002年下半年召开。讲话为三个代表写入党章做了理论铺垫。
+  people: [jiang-zemin]
+  concepts: [three-represents]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2001]
+
+- id: e2002-xibaipo
+  date: 2002-12-05
+  end: 2002-12-06
+  title: 胡锦涛率书记处赴西柏坡
+  lane: ideo
+  summary: 当选总书记不到一个月，胡锦涛于2002年12月5日至6日带领中央书记处成员到河北西柏坡学习考察，重温毛泽东关于两个务必的重要论述。12月26日十六届政治局进行第一次集体学习，到2007年9月共集体学习44次。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2003-scientific-development
+  date: 2003-08-28
+  title: 胡锦涛提出科学发展观
+  lane: ideo
+  major: true
+  summary: 非典过后，胡锦涛7月在防治非典工作会议上提出要切实抓好经济社会协调发展，8月28日至9月1日在江西考察时明确提出协调发展、全面发展、可持续发展的科学发展观；10月十六届三中全会写入坚持以人为本。科学发展观成为胡温时期的标志性理论，2007年写入党章。
+  people: [hu-jintao]
+  concepts: [scientific-development]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2004-constitution-amendment
+  date: 2004-03
+  title: 修宪：人权、私有财产入宪
+  lane: ideo
+  summary: 2004年3月十届全国人大二次会议通过宪法修正案，确立三个代表重要思想在国家政治和社会生活中的指导地位，增加国家尊重和保障人权的规定，完善对私有财产保护和土地征用的规定，增加建立健全社会保障制度、紧急状态和国歌等条款，并在统一战线表述中加入社会主义事业的建设者。3月18日胡锦涛主持常委会部署学习宪法。
+  people: [hu-jintao]
+  concepts: [three-represents]
+  cites: [e01-cpc-dsj-2004]
+
+- id: e2004-advanced-nature-campaign
+  date: 2004-11-07
+  title: 保持共产党员先进性教育活动
+  lane: ideo
+  summary: 2004年11月7日，中共中央印发《关于在全党开展以实践三个代表重要思想为主要内容的保持共产党员先进性教育活动的意见》。2005年1月至2006年6月，这一教育活动在全党开展。活动在胡锦涛接任中央军委主席两个月后启动，主题仍是江泽民提出的三个代表。
+  people: [hu-jintao]
+  concepts: [three-represents]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2006-freezing-point
+  date: 2006-01-24
+  title: 《冰点》周刊被停刊
+  lane: ideo
+  summary: 《中国青年报》冰点周刊因1月11日刊发中山大学教授袁伟时谈历史教科书的文章，于2006年1月下旬被勒令停刊整顿。外交部发言人称该文严重违背历史事实。冰点3月1日复刊，主编李大同、副主编卢跃刚被免职，复刊首期刊登批驳袁伟时的文章。BBC认为此事显示当局正在加强媒体控制。
+  cites: [e01-bbc-2006-01-25-bingdian, e01-bbc-2006-02-16-bingdian-return]
+
+- id: e2006-honor-disgrace
+  date: 2006-03-04
+  title: 社会主义荣辱观（八荣八耻）
+  lane: ideo
+  summary: 2006年3月4日，胡锦涛在全国政协十届四次会议民盟、民进联组讨论时讲话，强调引导干部群众特别是青少年树立以八荣八耻为主要内容的社会主义荣辱观。5月19日中央文明委发出学习实践荣辱观的意见。8月胡锦涛把它与科学发展、和谐社会等并列为十六大以来的重大战略思想。
+  people: [hu-jintao]
+  cites: [e01-cpc-dsj-2006, e01-gov-2021-06-28-cpc-100y]
+
+- id: e2006-jiang-selected-works
+  date: 2006-08-10
+  title: 《江泽民文选》出版
+  lane: ideo
+  summary: 2006年8月10日，《江泽民文选》第一至三卷出版发行；13日中共中央作出关于学习文选的决定，15日胡锦涛在学习报告会上讲话，称文选为学习三个代表重要思想提供了最好的教材。他同时列举十六大以来提出的以人为本、科学发展、和谐社会、荣辱观、和谐世界等重大战略思想。一个多月后陈良宇被免职。
+  people: [jiang-zemin, hu-jintao]
+  concepts: [three-represents]
+  cites: [e01-cpc-dsj-2006, e01-gov-2021-06-28-cpc-100y]
+
+- id: e2006-harmonious-society
+  date: 2006-10-11
+  title: 十六届六中全会：构建社会主义和谐社会
+  lane: ideo
+  summary: 2006年10月8日至11日中共十六届六中全会通过《关于构建社会主义和谐社会若干重大问题的决定》，称社会和谐是中国特色社会主义的本质属性，提出民主法治、公平正义、诚信友爱、充满活力、安定有序、人与自然和谐相处的总要求，推动社会建设与经济、政治、文化建设协调发展。
+  people: [hu-jintao]
+  concepts: [harmonious-society]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+# econ
+- id: e2000-western-development
+  date: 2000-01-24
+  title: 西部大开发
+  lane: econ
+  summary: 1999年6月江泽民在西安提出实施西部大开发；2000年1月国务院西部地区开发领导小组召开会议，朱镕基阐述战略意义，提出加快基础设施建设、保护生态环境、调整产业结构等重点。当年西部新开工十大工程，10月26日国务院发出关于实施西部大开发若干政策措施的通知。
+  people: [jiang-zemin, zhu-rongji]
+  cites: [e01-cpc-dsj-2000, e01-gov-2021-06-28-cpc-100y]
+
+- id: e2001-wto-accession
+  date: 2001-12-11
+  title: 中国加入世界贸易组织
+  lane: econ
+  major: true
+  summary: 2001年11月10日，在多哈举行的世贸组织第四届部长级会议以协商一致方式通过中国加入世贸组织的决定，结束了长达15年的复关和入世进程；外经贸部长石广生次日签署入世议定书。12月11日中国正式成为世贸组织第143个成员，官方称中国对外开放进入新的阶段。
+  people: [jiang-zemin, zhu-rongji]
+  cites: [e01-cpc-dsj-2001, e01-gov-2021-06-28-cpc-100y]
+
+- id: e2003-northeast-revitalization
+  date: 2003-10-05
+  title: 振兴东北与中部崛起
+  lane: econ
+  summary: 继1999年提出西部大开发之后，2003年10月5日中共中央、国务院印发《关于实施东北地区等老工业基地振兴战略的若干意见》；2006年4月15日又印发《关于促进中部地区崛起的若干意见》。连同西部大开发，形成西部、东北、中部分别有专门政策的区域发展格局。
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2005-exchange-rate-reform
+  date: 2005-07-21
+  title: 人民币汇率形成机制改革
+  lane: econ
+  summary: 2005年7月21日，经国务院批准，中国人民银行发布完善人民币汇率形成机制改革的公告，宣布自当日起实行以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度。这是入世后对人民币汇率形成机制的一次重大调整；次年12月首次中美战略经济对话在北京举行。
+  cites: [e01-cpc-dsj-2005, e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2006]
+
+- id: e2006-agricultural-tax-abolished
+  date: 2006-01-01
+  title: 废止农业税
+  lane: econ
+  major: true
+  summary: 农村税费改革从2004年起加速：当年黑龙江、吉林先行免征农业税，12个粮食主产省区降低税率一个百分点。2005年12月29日十届全国人大常委会第十九次会议决定，自2006年1月1日起废止《农业税条例》，官方称在中国延续两千多年的农业税正式成为历史。两天后中共中央、国务院印发关于推进社会主义新农村建设的意见。
+  people: [wen-jiabao]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2004, e01-cpc-dsj-2005]
+
+- id: e2007-property-law
+  date: 2007-03-16
+  title: 《物权法》通过
+  lane: econ
+  summary: 2007年3月16日十届全国人大五次会议通过《物权法》和《企业所得税法》。此前2004年宪法修正案已完善对私有财产保护的规定。物权法通过不久即发生重庆最牛钉子户事件，网民、法律专家和官员围绕拆迁与物权保护展开辩论。
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-bbc-2007-04-02-nail-house, e01-cpc-dsj-2004]
+
+# society
+- id: e2003-sars
+  date: 2003-04-20
+  title: 非典疫情与瞒报问责
+  lane: society
+  major: true
+  summary: 2003年春非典在多地暴发。4月初卫生部长张文康称北京只有19例，退休军医蒋彦永向媒体披露仅309医院就收治60例、7人死亡。4月20日官方承认统计存在较大疏漏，北京病例增至339例；同日中央免去张文康、孟学农党内职务，王岐山调任北京。官方党史称夺取了防治非典工作的重大胜利。
+  people: [wang-qishan]
+  voices:
+    - voice: history
+      text: 全党全国人民在中共中央、国务院领导下，坚持一手抓防治非典，一手抓经济建设，夺取了防治非典工作的重大胜利。
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: true
+    - voice: zh
+      text: 单是解放军309医院，直到上周四已经接收了60个感染严重急性呼吸系统综合症的病人住院，其中七人死亡。
+      cite: e01-bbc-2003-04-09-jiang-yanyong
+      quote: true
+    - voice: zh
+      text: 2003年春天，SARS（非典/萨斯）疫情在中国多地爆发，但官员竭力淡化这种传染病的威胁
+      cite: e01-bbc-2023-03-13-jiang-yanyong-obit
+      quote: true
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-xinhua-2003-04-20-sars-dismissals, e01-bbc-2003-04-09-jiang-yanyong, e01-bbc-2023-03-13-jiang-yanyong-obit]
+
+- id: e2003-sun-zhigang
+  date: 2003-03-20
+  title: 孙志刚案与收容遣送制度废止
+  lane: society
+  major: true
+  summary: 2003年3月17日晚，孙志刚因未携带证件外出，被广州警方错误收容，其间遭殴打致死。许志永等三名法学博士以公民名义上书全国人大，要求对收容遣送办法进行违宪审查，学者称这是公民个人首次提出此类审查。6月9日一审判处主犯乔燕琴死刑；行之21年的收容遣送办法随后被救助管理办法取代。
+  people: [xu-zhiyong]
+  cites: [e01-bbc-2003-06-27-sun-zhigang, e01-bbc-2003-05-sun-zhigang-petition]
+
+- id: e2005-songhua-river
+  date: 2005-11-13
+  title: 松花江水污染事件
+  lane: society
+  summary: 2005年11月13日，中石油吉林石化公司双苯厂爆炸，大量苯类污染物进入松花江，沿岸大中城市生活受到严重影响。12月初中央通报称国家环保总局对事件重视不够、对后果估计不足，局长解振华向党中央、国务院申请辞去局长职务，获得批准。通报称胡锦涛、温家宝等作出一系列指示。
+  cites: [e01-cyol-2005-12-03-songhua]
+
+- id: e2005-dongzhou
+  date: 2005-12-06
+  title: 汕尾东洲开枪事件
+  lane: society
+  summary: 2005年12月6日，广东汕尾东洲坑村发生警民冲突，警方开枪。官方称3人死亡、8人受伤，现场指挥员处置失当已被刑事拘留；当地居民称多达20人被打死。BBC称若属实，将是1989年以来开枪杀死平民最多的一次。公安部估计2004年全国发生7万4千起群体性事件。
+  concepts: [stability-maintenance]
+  cites: [e01-bbc-2005-12-11-dongzhou]
+
+- id: e2007-black-brick-kilns
+  date: 2007-06-15
+  title: 山西黑砖窑奴工事件
+  lane: society
+  summary: 2007年，山西洪洞县曹生村黑砖窑解救出31名被强迫劳动的农民工，来自12个省区市，其中9人为智障人员。山西随后开展打击非法用工和黑砖窑专项行动，至6月15日共解救162人。7月17日洪洞曹生村砖窑案等首批7起案件宣判，29名被告人获刑，主犯赵延兵被判死刑，包工头衡庭汉被判无期徒刑。
+  cites: [e01-chinanews-2007-06-15-brick-kilns, e01-cctv-2007-07-18-brick-kiln-verdicts]
+
+- id: e2007-xiamen-px
+  date: 2007-06-01
+  title: 厦门PX项目散步
+  lane: society
+  summary: 厦门市政府在市民和环保人士反对下，于2007年5月30日宣布缓建台商投资的海沧PX石油化工项目。6月1日上千名市民仍游行到市政府大楼外抗议；市政府大量发送手机短信，促请广大人民群众包括新闻界的朋友通过正常渠道反映意见和建议。这是一起由市民和环保人士推动、政府最终让步的环境抗议。
+  cites: [e01-bbc-2007-06-02-xiamen-px]
+
+# ethnic
+- id: e2000-three-forces-xinjiang
+  date: 2000-10-11
+  title: 江泽民部署打击新疆三股势力
+  lane: ethnic
+  summary: 2000年10月11日，江泽民在十五届五中全会闭幕后的讲话中结合新疆的历史和现实，全面阐述打击民族分裂势力、宗教极端势力、恐怖势力，维护新疆稳定的各项工作，强调保持民族地区、边疆地区稳定和发展是一个很大的政治、很重要的大局，对国家长治久安具有十分重要的意义。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2001-tibet-50th
+  date: 2001-07-19
+  title: 胡锦涛率团出席西藏和平解放50周年庆典
+  lane: ethnic
+  summary: 2001年7月17日，国家副主席胡锦涛率中央代表团抵达拉萨，向西藏自治区赠送江泽民题名的民族团结宝鼎，出席和平解放纪念碑奠基仪式；19日庆祝大会在拉萨举行，胡锦涛向自治区赠送金匾并讲话；7月24日西藏和平解放50周年成就展开幕。同月中共中央文献研究室等编辑的《毛泽东西藏工作文选》出版。
+  people: [hu-jintao, jiang-zemin]
+  cites: [e01-cpc-dsj-2001]
+
+- id: e2005-ethnic-work-decision
+  date: 2005-05-31
+  title: 关于进一步加强民族工作的决定
+  lane: ethnic
+  summary: 2003年3月胡锦涛提出各民族共同团结奋斗、共同繁荣发展是新世纪新阶段民族工作的主题。2005年5月31日中共中央、国务院作出《关于进一步加强民族工作加快少数民族和民族地区经济社会发展的决定》，此前江泽民在1992年中央民族工作会议上强调坚持和完善民族区域自治制度。
+  people: [hu-jintao, jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2006-qinghai-tibet-railway
+  date: 2006-07-01
+  title: 青藏铁路通车
+  lane: ethnic
+  summary: 青藏铁路格尔木至拉萨段于2001年6月29日开工，全长1142公里，其中新建1110公里，设计工期6年；西宁至格尔木814公里此前已于1984年投入运营。2006年7月1日青藏铁路全线建成通车。开工时江泽民致信祝贺，朱镕基出席开工典礼。
+  people: [zhu-rongji, jiang-zemin]
+  cites: [e01-cpc-dsj-2001, e01-gov-2021-06-28-cpc-100y]
+
+# hkmt
+- id: e2000-chen-shuibian-elected
+  date: 2000-03-18
+  title: 陈水扁当选台湾领导人
+  lane: hkmt
+  summary: 2000年3月18日台湾选举，民进党候选人、台北市前市长陈水扁获39.3%选票当选；没有政党支援、独立参选的原国民党秘书长宋楚瑜得36.59%，国民党候选人连战仅得23.34%。北京反应低调：新华社先发简讯，几小时后发表国台办声明，称不管选举结果如何，台湾是中国一部分的事实没有改变。
+  people: [lian-zhan]
+  cites: [e01-bbc-2000-03-18-chen-shuibian]
+
+- id: e2003-hk-july-1-march
+  date: 2003-07-01
+  title: 香港七一大游行与23条立法撤回
+  lane: hkmt
+  major: true
+  summary: 2003年7月1日，民间人权阵线发起反对基本法23条国家安全立法的游行，主办方估计超过50万人次，警方统计35万人，是1989年以来最大规模游行。此前副总理钱其琛曾催促港府尽快立法。自由党倒戈后港府无法确保过半票数，只好撤回草案，主要推手叶刘淑仪下台，董建华两年后辞职。
+  people: [dong-jianhua, qian-qichen]
+  voices:
+    - voice: zh
+      text: 2003年一役被视为香港公民社会的胜利。但事件让北京大惊
+      cite: e01-bbc-2024-03-19-hk-art23-history
+      quote: true
+  cites: [e01-bbc-2003-07-01-hk-march, e01-bbc-2024-03-19-hk-art23-history]
+
+- id: e2003-cepa
+  date: 2003-06-29
+  title: 内地与香港签署CEPA
+  lane: hkmt
+  summary: 2003年6月29日，正值非典过后、七一游行前夕，内地与香港签署《内地与香港关于建立更紧密经贸关系的安排》（CEPA）；10月17日内地与澳门签署同类安排。两天后的七一，香港爆发反对23条立法的大游行。
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-bbc-2003-07-01-hk-march]
+
+- id: e2004-npcsc-interpretation
+  date: 2004-04-06
+  title: 人大释法：香港政改须经中央
+  lane: hkmt
+  summary: 2004年4月6日，全国人大常委会解释香港基本法附件一第七条和附件二第三条，明确二○○七年以后含二○○七年；是否需要修改行政长官和立法会产生办法，由行政长官向人大常委会提出报告，由人大常委会根据实际情况和循序渐进原则确定；如果不作修改，则沿用原有办法。释法使香港政改的启动须先经中央确定。
+  cites: [e01-locpg-2004-04-06-npcsc-interpretation]
+
+- id: e2005-anti-secession-law
+  date: 2005-03-14
+  title: 《反分裂国家法》
+  lane: hkmt
+  major: true
+  summary: 2005年3月14日十届全国人大三次会议通过《反分裂国家法》，明确国家绝不允许台独分裂势力以任何名义、任何方式把台湾从中国分裂出去。同一次会议选举胡锦涛为国家中央军委主席。一个多月后国民党主席连战访问大陆，与胡锦涛举行国共两党60年来首次主要领导人会谈。
+  people: [hu-jintao, lian-zhan]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2005-tung-resigns
+  date: 2005-03-12
+  title: 董建华辞去香港特首
+  lane: hkmt
+  summary: 2005年3月董建华以健康状况大不如前为由，向中央政府请辞香港行政长官。国务院第433号令批准其辞职，于2005年3月12日离职。董建华在辞职报告中称香港经济已出现良好复苏势头。BBC回顾23条风波时，把他两年后以健康理由辞任列为这场风波的后续之一。
+  people: [dong-jianhua]
+  cites: [e01-gov-2005-03-12-tung-resign, e01-xinhua-2005-03-12-tung-report, e01-bbc-2024-03-19-hk-art23-history]
+
+- id: e2005-lien-chan-visit
+  date: 2005-04-29
+  title: 连战访问大陆，胡连会
+  lane: hkmt
+  summary: 2005年4月26日至5月3日，国民党主席连战应胡锦涛邀请率团访问南京、北京、西安、上海。4月29日胡锦涛与连战在北京会谈，并发布两岸和平发展共同愿景，这是60年来国共两党主要领导人首次会谈。5月和7月，胡锦涛又分别会见亲民党主席宋楚瑜和新党主席郁慕明。
+  people: [hu-jintao, lian-zhan]
+  cites: [e01-cpc-dsj-2005, e01-gov-2021-06-28-cpc-100y]
+
+- id: e2007-hk-10th-anniversary
+  date: 2007-07-01
+  title: 香港回归十周年讲话
+  lane: hkmt
+  summary: 2007年7月1日，胡锦涛在庆祝香港回归10周年大会暨第三届特区政府就职典礼上讲话，称一国两制是完整的概念，一国和两制不能相互割裂，更不能相互对立；一国是维护中央依法享有的权力和国家主权、统一、安全，两制是保障特区依法享有的高度自治权。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+# foreign
+- id: e2001-ep3-incident
+  date: 2001-04-01
+  title: 南海撞机事件
+  lane: foreign
+  summary: 2001年4月1日，美国EP-3侦察机在海南岛东南上空与中国军机相撞，中方飞行员王伟牺牲，美机未经许可降落陵水机场。外交部要求美方承担全部责任，4月3日江泽民要求美国停止在中国沿海空域的侦察飞行；中央军委授予王伟海空卫士称号。中美关系随之陷入紧张，直到同年九一一事件后转向反恐合作。
+  people: [jiang-zemin]
+  cites: [e01-cpc-dsj-2001]
+
+- id: e2001-sco-founded
+  date: 2001-06-15
+  title: 上海合作组织成立
+  lane: foreign
+  summary: 2001年6月15日，中国、俄罗斯、哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、乌兹别克斯坦六国元首签署《上海合作组织成立宣言》，在上海五国机制基础上正式建立上合组织，把以互信、互利、平等、协商、尊重多样文明、谋求共同发展为内容的上海精神写入宣言。
+  people: [jiang-zemin]
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+- id: e2001-olympic-bid
+  date: 2001-07-13
+  title: 北京申办2008年奥运成功
+  lane: foreign
+  summary: 2001年7月13日晚，北京申办2008年奥运会成功的消息传来，群众聚集在中华世纪坛和天安门广场欢呼，江泽民、李鹏、朱镕基、李瑞环、胡锦涛、尉健行等与群众共庆，江泽民致电在莫斯科的李岚清祝贺。此前一年的悉尼奥运会上，中国代表团获28枚金牌，名列金牌榜第三。
+  people: [jiang-zemin, li-lanqing, li-peng, zhu-rongji, li-ruihuan, hu-jintao, wei-jianxing]
+  cites: [e01-cpc-dsj-2001, e01-cpc-dsj-2000]
+
+- id: e2001-september-11
+  date: 2001-09-11
+  title: 九一一后中国加入反恐合作
+  lane: foreign
+  summary: 2001年9月11日美国遭袭当天，江泽民致电布什表示慰问，外交部称中国一贯谴责和反对一切恐怖主义暴力行动。此后江泽民两次与布什通话，表示愿提供必要支援，并与普京、希拉克、布莱尔、穆沙拉夫等通话。中方同时表示反对恐怖主义需要国际社会合作，打击时应避免伤及无辜。撞机事件后紧张的中美关系由此转入反恐合作。
+  people: [jiang-zemin, qian-qichen, zhu-rongji]
+  cites: [e01-cpc-dsj-2001]
+
+- id: e2003-six-party-talks
+  date: 2003-08-27
+  title: 首轮朝核六方会谈在北京举行
+  lane: foreign
+  summary: 2003年8月27日，中、朝、美、韩、俄、日六方会谈在北京钓鱼台国宾馆开幕，会期三天。副外长王毅称，此次会谈是4月北京三方会谈的延续和扩大，更是一个新的开始，标志着和平解决朝核问题进程向前迈出重要一步。时任副外长王毅后来出任外交部长。
+  people: [wang-yi]
+  cites: [e01-chinanews-2003-08-27-six-party]
+
+- id: e2005-anti-japan-protests
+  date: 2005-04-09
+  end: 2005-04-16
+  title: 反日游行
+  lane: foreign
+  summary: 2005年4月，多地民众抗议日本审定有争议的历史教科书、反对日本成为安理会常任理事国。此前成都有日资超市橱窗被砸；4月9日北京游行，新华社称至少1000人参加；4月16日上海约5000人示威，警方允许向日本领馆投掷鸡蛋和水瓶。美联社称这是1999年使馆被炸后首次获准举行的大规模游行，也成为青年人发泄不满的机会。
+  cites: [e01-bbc-2005-04-09-antijapan-beijing, e01-bbc-2005-04-16-antijapan-shanghai]
+
+- id: e2005-harmonious-world
+  date: 2005-04-22
+  title: 胡锦涛提出和谐世界
+  lane: foreign
+  summary: 2005年4月22日，胡锦涛在雅加达亚非峰会上提出，推动不同文明友好相处、平等对话、发展繁荣，共同构建一个和谐世界。这一提法与次年提出的构建社会主义和谐社会相呼应；2006年8月胡锦涛把推动建设和谐世界列入十六大以来的重大战略思想。
+  people: [hu-jintao]
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2006]
+
+- id: e2006-un-human-rights-council
+  date: 2006-05-09
+  title: 中国当选联合国人权理事会首届成员
+  lane: foreign
+  summary: 2006年5月9日，中国当选新成立的联合国人权理事会首届成员。此前2004年宪法修正案已增加国家尊重和保障人权的规定；2006年2月中国还成为《联合国反腐败公约》缔约国，该公约由中国政府2003年12月签署、全国人大常委会2005年10月批准。
+  cites: [e01-cpc-dsj-2006, e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2004]
+
+- id: e2006-focac-summit
+  date: 2006-11-04
+  end: 2006-11-05
+  title: 中非合作论坛北京峰会
+  lane: foreign
+  summary: 2006年11月4日至5日，中非合作论坛北京峰会举行，通过《中非合作论坛北京峰会宣言》和《中非合作论坛－北京行动计划（2007－2009年）》。同年5月中国当选联合国人权理事会首届成员；12月14日至15日，首次中美战略经济对话也在北京举行。
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2006]
+
+- id: e2007-asat-test
+  date: 2007-01-11
+  title: 外空试验（反卫星试验）
+  lane: foreign
+  summary: 2007年1月中方进行的一次外空试验引起美、日等国关切。1月23日外交部发言人刘建超确认进行了外空试验，称试验不针对任何国家，也不对任何国家构成威胁，中方已向包括美国、日本在内的有关国家通报情况，并表示中国不参加任何形式的外空军备竞赛。
+  verify: true
+  cites: [e01-chinanews-2007-01-23-asat]
+
+# folk
+- id: e2005-super-girl
+  date: 2005-08-26
+  title: 超级女声
+  lane: folk
+  summary: 2005年超级女声五大唱区吸引15万人参赛，前5场总决选观众约1.95亿。观众以手机短信投票，8月26日成都赛区21岁的李宇春以350万票夺冠，周笔畅327万票、张靓颖135万票。评论两极：有人称手机投票是民主启蒙，另一种声音批评它低俗，把全民娱乐与颜色革命和西方民主宣传联系起来。
+  voices:
+    - voice: zh
+      text: 这一民主举动就是民主启蒙。这是中国媒体第一次成功而公开将共产党和政府晾在一边，应该为之欢呼。
+      cite: e01-bbc-2005-08-super-girl-politics
+      quote: true
+    - voice: zh
+      text: 如今一些人打着‘全民娱乐’的幌子宣扬西方的资产阶级民主、人权、新闻自由，进而否定国体和政体。
+      cite: e01-bbc-2005-08-super-girl-politics
+      quote: true
+  cites: [e01-bbc-2005-08-27-super-girl, e01-bbc-2005-08-super-girl-politics]
+
+- id: e2006-mantou-parody
+  date: 2006-01
+  title: 一个馒头引发的血案
+  lane: folk
+  summary: 2005年最后一天，31岁的上海音乐人胡戈把用陈凯歌电影《无极》剪辑的20分钟短片《一个馒头引发的血案》上传网络，十几小时内成为热门下载，在百度电影搜索榜上力压《无极》居首。2月陈凯歌在柏林表示要以侵犯著作权对胡戈一告到底。胡戈被媒体称为2006年网络走红第一人，网友还为短片建立贴吧和QQ群。
+  cites: [e01-chinanews-2006-01-23-mantou, e01-chinanews-2006-02-14-mantou-suit]
+
+- id: e2007-nail-house
+  date: 2007-04-02
+  title: 重庆最牛钉子户
+  lane: folk
+  summary: 重庆九龙坡区2004年开发重建，280户陆续迁走，只剩杨武、吴苹一家拒绝搬迁，被网民称为最牛钉子户。2007年4月2日双方达成协议，吴苹夫妇接受在沙坪坝区易地实物安置，房屋当夜被拆除。事件恰在物权法通过后不久，网民、法律专家、学者和官员卷入关于拆迁的辩论。
+  cites: [e01-bbc-2007-04-02-nail-house]
+
+- id: e2007-south-china-tiger
+  date: 2007-10-12
+  title: 华南虎照事件
+  lane: folk
+  summary: 2007年10月12日，陕西省林业厅宣布镇坪县村民周正龙拍到野生华南虎，周当场获奖金两万元，但网友随即质疑是纸老虎。2008年6月29日陕西省通报，照片是用老虎画拍摄的假虎照，目的是骗取钱财，13名相关责任人受到处理。事件从网友质疑纸老虎开始，历时八个多月才由官方认定造假。
+  cites: [e01-chinanews-2008-06-29-tiger-timeline, e01-chinanews-2008-06-29-tiger, e01-chinanews-2008-06-29-tiger-officials]
+
+- id: e2007-very-yellow-very-violent
+  date: 2007-12-27
+  title: 很黄很暴力
+  lane: folk
+  summary: 2007年12月27日央视新闻联播播出关于净化网络视听的报道，一名小学生在采访中说，上网查资料时突然弹出一个网页，很黄很暴力，赶紧把它关了。这句话出自小学生之口，又让人联想到猫扑网广告语很好很强大，因而在网上广为流传，被央视网列入2008年网络流行语。
+  cites: [e01-cctv-2008-12-23-hhhbl]

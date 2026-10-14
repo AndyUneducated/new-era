@@ -1,0 +1,1169 @@
+# C03 dossier cards: fallen "tigers" (CCDI cases 2012–2026, Zhou Yongkang and Sun Lijun networks, PLA generals).
+
+# --- 18th Congress era: provincial and ministerial cases ---
+- id: su-rong
+  name: 苏荣
+  gender: m
+  born: 1948-10-29
+  birthplace: 吉林洮南
+  roles: [tiger, prov]
+  status: detained
+  statusNote: 2017 年 1 月一审被判无期徒刑，当庭表示不上诉。
+  fall:
+    - { date: 2014-06-14, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2014-06-14-su-rong-probe }
+    - { date: 2015-02-16, text: 被开除党籍、开除公职, cite: c03-ccdi-2015-02-16-su-rong-expel }
+    - { date: 2017-01-23, text: 济南中院以受贿、滥用职权、巨额财产来源不明罪判处无期徒刑, cite: c03-people-2017-01-23-su-rong-verdict }
+  tier: 2
+  headline: 全国政协原副主席，曾任三省省委书记，被判无期
+  ids: { wikidata: Q1059126 }
+  bio: >-
+    全国政协副主席，此前历任青海、甘肃、江西省委书记。2014 年 6 月落马，2015 年 2 月被开除党籍和公职，中纪委通报称他“大肆卖官鬻爵”，“支持、纵容亲属利用其特殊身份擅权干政”，对江西省的严重腐败问题负有主要领导责任。2017 年 1 月被济南中院判处无期徒刑，受贿 1.16 亿余元。
+  positions:
+    - { title: 青海省委书记, sys: party, place: 青海, cite: wd-Q1059126 }
+    - { title: 甘肃省委书记, sys: party, place: 甘肃, cite: wd-Q1059126 }
+    - { title: 江西省委书记, sys: party, place: 江西, cite: wd-Q1059126 }
+    - { title: 全国政协副主席, sys: gov, from: 2013-03, to: 2014-06, cite: wd-Q1059126 }
+  cites: [wd-Q1059126, c03-ccdi-2014-06-14-su-rong-probe, c03-ccdi-2015-02-16-su-rong-expel, c03-people-2017-01-23-su-rong-verdict]
+
+- id: jiang-jiemin
+  name: 蒋洁敏
+  gender: m
+  born: 1955-10
+  birthplace: 山东阳信
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2015 年 10 月被判有期徒刑 16 年，当庭表示服判。
+  fall:
+    - { date: 2013-09-01, text: 中纪委宣布其涉嫌严重违纪，接受组织调查, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+    - { date: 2014-06-30, text: 被开除党籍、行政开除, cite: c03-cyol-2014-07-01-jiang-li-expel }
+    - { date: 2015-10-12, text: 汉江中院以受贿、巨额财产来源不明、国有公司人员滥用职权罪判处有期徒刑 16 年, cite: c03-xinhua-2015-10-12-jiang-jiemin-verdict }
+  tier: 2
+  headline: 中石油原董事长、国资委原主任
+  ids: { wikidata: Q981617 }
+  bio: >-
+    胜利油田出身，曾任青海省委副书记，后任中石油集团总经理、董事长，2013 年任国务院国资委主任。同年 9 月落马，2014 年 6 月被开除党籍，通报称其“索取、收受巨额贿赂”。2015 年 10 月被判有期徒刑 16 年，判决认定他曾“在周永康指使或授意下”违规为他人经营活动提供帮助。
+  positions:
+    - { title: 青海石油管理局局长、党委书记, sys: other, place: 青海, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+    - { title: 青海省副省长、省委常委、省委副书记, sys: party, place: 青海, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+    - { title: 中石油集团公司总经理、党组书记兼中石油股份公司董事长, sys: other, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+    - { title: 中石油集团公司董事长、党组书记, sys: other, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+    - { title: 国务院国资委主任、党委副书记, sys: gov, to: 2013-09, cite: c03-12371-2013-09-01-jiang-jiemin-probe }
+  factions:
+    - f: zhou-clique
+      cite: c03-bbc-2014-06-30-four-expelled
+      quote: 另外三位被认为与周永康关系密切的高官也遭清算
+  cites: [wd-Q981617, c03-12371-2013-09-01-jiang-jiemin-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2015-10-12-jiang-jiemin-verdict, c03-bbc-2014-06-30-four-expelled]
+
+- id: li-dongsheng
+  name: 李东生
+  gender: m
+  born: 1955-12
+  birthplace: 山东诸城
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2016 年 1 月被判有期徒刑 15 年。
+  fall:
+    - { date: 2013-12-20, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-mos-2013-12-20-li-dongsheng-probe }
+    - { date: 2014-06-30, text: 被开除党籍、行政开除, cite: c03-cyol-2014-07-01-jiang-li-expel }
+    - { date: 2016-01-12, text: 天津二中院以受贿罪判处有期徒刑 15 年, cite: c03-xinhua-2016-01-12-li-dongsheng-verdict }
+  tier: 2
+  headline: 公安部原副部长、中央防范和处理邪教问题领导小组办公室原主任
+  ids: { wikidata: Q15410384 }
+  bio: >-
+    复旦大学新闻系毕业，曾任中央电视台副台长，后任中央政法委员会委员、公安部副部长（正部长级），兼中央防范和处理邪教问题领导小组副组长、办公室主任。2013 年 12 月落马，2014 年 6 月被开除党籍，通报称其“索取、收受巨额贿赂”。2016 年 1 月被天津二中院以受贿罪判处有期徒刑 15 年。
+  positions:
+    - { title: 中央电视台副台长, sys: gov, cite: c03-xinhua-2016-01-12-li-dongsheng-verdict }
+    - { title: 公安部副部长、党委副书记（正部长级）, sys: gov, to: 2013-12, cite: c03-xinhua-2016-01-12-li-dongsheng-verdict }
+    - { title: 中央政法委员会委员, sys: party, cite: c03-xinhua-2016-01-12-li-dongsheng-verdict }
+    - { title: 中央防范和处理邪教问题领导小组副组长、办公室主任, sys: party, to: 2013-12, cite: c03-mos-2013-12-20-li-dongsheng-probe }
+  factions:
+    - f: zhou-clique
+      cite: c03-bbc-2014-06-30-four-expelled
+      quote: 另外三位被认为与周永康关系密切的高官也遭清算
+  cites: [wd-Q15410384, c03-mos-2013-12-20-li-dongsheng-probe, c03-cyol-2014-07-01-jiang-li-expel, c03-xinhua-2016-01-12-li-dongsheng-verdict, c03-bbc-2014-06-30-four-expelled]
+
+- id: bai-enpei
+  name: 白恩培
+  gender: m
+  born: 1946-09
+  birthplace: 陕西清涧
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2016 年 10 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2014-08-29, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-people-2014-08-29-bai-enpei-probe }
+    - { date: 2015-01-13, text: 被开除党籍、开除公职, cite: c03-people-2015-01-13-bai-enpei-expel }
+    - { date: 2016-10-09, text: 安阳中院以受贿、巨额财产来源不明罪判处死缓并终身监禁, cite: c03-people-2016-10-09-bai-enpei-verdict }
+  tier: 2
+  headline: 云南省委原书记，被判死缓并终身监禁
+  ids: { wikidata: Q710112 }
+  bio: >-
+    陕西延安起家，1999 年任青海省委书记，2001 年至 2011 年任云南省委书记，后转任全国人大环境与资源保护委员会副主任委员。2014 年 8 月落马，2015 年 1 月被开除党籍和公职，通报称其“利用职务上的便利为他人谋取利益，收受巨额贿赂”。2016 年 10 月被判死缓，期满减为无期徒刑后终身监禁。
+  positions:
+    - { title: 内蒙古自治区党委副书记, sys: party, place: 内蒙古, from: 1992-03, to: 1997-02, cite: c03-people-2014-08-29-bai-enpei-probe }
+    - { title: 青海省省长, sys: gov, place: 青海, from: 1998-01, to: 1999-08, cite: c03-people-2014-08-29-bai-enpei-probe }
+    - { title: 青海省委书记, sys: party, place: 青海, from: 1999-06, to: 2001-10, cite: c03-people-2014-08-29-bai-enpei-probe }
+    - { title: 云南省委书记, sys: party, place: 云南, from: 2001-10, to: 2011-08, cite: c03-people-2014-08-29-bai-enpei-probe }
+    - { title: 全国人大环境与资源保护委员会副主任委员, sys: gov, from: 2011-08, to: 2014-08, cite: c03-people-2014-08-29-bai-enpei-probe }
+  cites: [wd-Q710112, c03-people-2014-08-29-bai-enpei-probe, c03-people-2015-01-13-bai-enpei-expel, c03-people-2016-10-09-bai-enpei-verdict]
+
+- id: wang-min
+  name: 王珉
+  gender: m
+  born: 1950-03
+  birthplace: 安徽淮南
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2017 年 8 月被判无期徒刑。
+  fall:
+    - { date: 2016-03-04, text: 中纪委宣布其涉嫌严重违纪，接受组织调查, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { date: 2016-08-10, text: 被开除党籍、开除公职, cite: c03-ccdi-2016-08-10-wang-min-expel }
+    - { date: 2017-08-04, text: 洛阳中院以受贿、贪污、玩忽职守罪判处无期徒刑, cite: c03-people-2017-08-05-wang-min-verdict }
+  tier: 2
+  headline: 辽宁省委原书记，辽宁贿选案主要责任人
+  ids: { wikidata: Q3377052 }
+  bio: >-
+    工学博士，南京航空航天大学副校长出身，曾任江苏省副省长、苏州市委书记，2004 年调任吉林，先后任省长、省委书记，2009 年至 2015 年任辽宁省委书记。2016 年 3 月落马，8 月被开除党籍和公职，通报称他“对辽宁省有关选举发生拉票贿选问题负有主要领导责任和直接责任”。2017 年 8 月被判无期徒刑。
+  positions:
+    - { title: 江苏省副省长, sys: gov, place: 江苏, from: 1996-12, to: 2002-05, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { title: 江苏省委常委、苏州市委书记, sys: party, place: 江苏, from: 2002-05, to: 2004-10, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { title: 吉林省省长, sys: gov, place: 吉林, from: 2005-01, to: 2006-11, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { title: 吉林省委书记, sys: party, place: 吉林, from: 2006-11, to: 2009-11, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { title: 辽宁省委书记、省人大常委会主任, sys: party, place: 辽宁, from: 2009-11, to: 2015-05, cite: c03-ccdi-2016-03-04-wang-min-probe }
+    - { title: 全国人大教育科学文化卫生委员会副主任委员, sys: gov, to: 2016-03, cite: c03-ccdi-2016-03-04-wang-min-probe }
+  cites: [wd-Q3377052, c03-ccdi-2016-03-04-wang-min-probe, c03-ccdi-2016-08-10-wang-min-expel, c03-people-2017-08-05-wang-min-verdict]
+
+- id: zhou-benshun
+  name: 周本顺
+  gender: m
+  born: 1953-02
+  birthplace: 湖南溆浦
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2017 年 2 月被判有期徒刑 15 年。
+  fall:
+    - { date: 2015-07-24, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { date: 2015-10-16, text: 被开除党籍、开除公职, cite: c03-ccdi-2015-10-16-zhou-yang-expel }
+    - { date: 2017-02-15, text: 厦门中院以受贿罪判处有期徒刑 15 年, cite: c03-xinhua-2017-02-15-zhou-benshun-verdict }
+  tier: 2
+  headline: 中央政法委原秘书长、河北省委原书记
+  ids: { wikidata: Q8294036 }
+  bio: >-
+    曾任湖南省公安厅厅长、省委政法委书记，2003 年进入中央政法委，2008 年至 2013 年任秘书长，2013 年起任河北省委书记。2015 年 7 月落马，10 月被开除党籍和公职，通报称他“在重大问题上发表违背中央精神的言论”，并“私存涉密资料，泄露党和国家秘密”。2017 年 2 月被判有期徒刑 15 年。
+  positions:
+    - { title: 湖南省邵阳市委书记, sys: party, place: 湖南, from: 1995-08, to: 2000-11, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { title: 湖南省公安厅厅长, sys: gov, place: 湖南, from: 2000-11, to: 2001-11, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { title: 湖南省委常委、政法委书记, sys: party, place: 湖南, from: 2001-11, to: 2003-11, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { title: 中央政法委员会副秘书长, sys: party, from: 2003-11, to: 2008-03, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { title: 中央政法委员会委员、秘书长, sys: party, from: 2008-03, to: 2013-03, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+    - { title: 河北省委书记、省人大常委会主任, sys: party, place: 河北, from: 2013-03, to: 2015-07, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+  factions:
+    - f: zhou-clique
+      cite: c03-bbc-2015-07-24-zhou-benshun
+      quote: 因此有媒体报道称，周本顺的落马与周永康有关。
+  cites: [wd-Q8294036, c03-ccdi-2015-07-24-zhou-benshun-probe, c03-ccdi-2015-10-16-zhou-yang-expel, c03-xinhua-2017-02-15-zhou-benshun-verdict, c03-bbc-2015-07-24-zhou-benshun]
+
+- id: yang-dongliang
+  name: 杨栋梁
+  gender: m
+  born: 1954-01
+  birthplace: 河北青县
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2017 年 2 月被判有期徒刑 15 年，当庭表示服判。
+  fall:
+    - { date: 2015-08-18, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+    - { date: 2015-10-16, text: 被开除党籍、行政开除, cite: c03-ccdi-2015-10-16-zhou-yang-expel }
+    - { date: 2017-02-21, text: 北京二中院以受贿、贪污罪判处有期徒刑 15 年, cite: c03-people-2017-02-22-yang-dongliang-verdict }
+  tier: 2
+  headline: 国家安监总局原局长
+  ids: { wikidata: Q8294030 }
+  bio: >-
+    华北油田钻工出身，1994 年调入天津，历任市经委主任、副市长、市委常委，曾分管政府常务工作，2012 年 5 月起任国家安全生产监督管理总局局长。2015 年 8 月落马，10 月被开除党籍和公职，通报称他“进行非组织政治活动，干扰、妨碍组织审查”。2017 年 2 月被北京二中院以受贿、贪污罪判处有期徒刑 15 年。
+  positions:
+    - { title: 中原石油勘探局钻井一公司党委书记、经理, sys: other, from: 1987-09, to: 1991-07, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+    - { title: 天津市委工业工委副书记、市经委主任, sys: gov, place: 天津, from: 1998-06, to: 2001-03, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+    - { title: 天津市副市长, sys: gov, place: 天津, from: 2001-03, to: 2005-12, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+    - { title: 天津市委常委、副市长, sys: party, place: 天津, from: 2005-12, to: 2012-05, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+    - { title: 国家安全生产监督管理总局局长、党组书记, sys: gov, from: 2012-05, to: 2015-08, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+  cites: [wd-Q8294030, c03-ccdi-2015-08-18-yang-dongliang-probe, c03-ccdi-2015-10-16-zhou-yang-expel, c03-people-2017-02-22-yang-dongliang-verdict]
+
+- id: zhu-mingguo
+  name: 朱明国
+  gender: m
+  born: 1957-05
+  birthplace: 海南五指山
+  roles: [tiger, acc]
+  status: detained
+  statusNote: 2016 年 11 月被判死缓。
+  fall:
+    - { date: 2014-11-28, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2014-11-28-zhu-mingguo-probe }
+    - { date: 2015-02-17, text: 被开除党籍、开除公职, cite: c03-ccdi-2015-02-17-zhu-mingguo-expel }
+    - { date: 2016-11-11, text: 柳州中院以受贿、巨额财产来源不明罪判处死缓, cite: c03-cyol-2016-11-12-zhu-mingguo-verdict }
+  tier: 2
+  headline: 广东省政协原主席、原纪委书记
+  ids: { wikidata: Q8292910 }
+  bio: >-
+    曾任重庆市公安局局长，后任广东省委常委、副书记，兼任省纪委书记、政法委书记，再任广东省政协主席。2014 年 11 月落马，2015 年 2 月被开除党籍和公职，通报称其收受巨额贿赂，并“严重违反计划生育政策”。2016 年 11 月被柳州中院判处死缓，受贿折合 1.41 亿余元，另有 9104 万余元财产不能说明来源。
+  positions:
+    - { title: 重庆市公安局局长, sys: gov, place: 重庆, cite: c03-cyol-2016-11-12-zhu-mingguo-verdict }
+    - { title: 广东省委常委、纪委书记, sys: party, place: 广东, cite: c03-cyol-2016-11-12-zhu-mingguo-verdict }
+    - { title: 广东省委副书记、政法委书记, sys: party, place: 广东, cite: c03-cyol-2016-11-12-zhu-mingguo-verdict }
+    - { title: 广东省政协主席, sys: gov, place: 广东, to: 2014-11, cite: c03-ccdi-2014-11-28-zhu-mingguo-probe }
+  cites: [wd-Q8292910, c03-ccdi-2014-11-28-zhu-mingguo-probe, c03-ccdi-2015-02-17-zhu-mingguo-expel, c03-cyol-2016-11-12-zhu-mingguo-verdict]
+
+- id: huang-xingguo
+  name: 黄兴国
+  gender: m
+  born: 1954-10
+  birthplace: 浙江象山
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2017 年 9 月被判有期徒刑 12 年。
+  fall:
+    - { date: 2016-09-10, text: 中纪委宣布其涉嫌严重违纪，接受组织调查, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+    - { date: 2017-01-04, text: 被开除党籍、开除公职, cite: c03-ccdi-2017-01-04-huang-xingguo-expel }
+    - { date: 2017-09-25, text: 石家庄中院以受贿罪判处有期徒刑 12 年, cite: c03-xinhua-2017-09-25-huang-xingguo-verdict }
+  tier: 2
+  headline: 天津市原市长、代理书记
+  ids: { wikidata: Q5925757 }
+  bio: >-
+    在浙江历任台州市委书记、宁波市委书记，2003 年调任天津市委副书记，2008 年起任天津市长，2014 年 12 月起代理市委书记。2016 年 9 月落马，2017 年 1 月被开除党籍和公职，通报称他“妄议中央大政方针，破坏党的集中统一”，“搞迷信活动”。2017 年 9 月被石家庄中院以受贿罪判处有期徒刑 12 年。
+  positions:
+    - { title: 浙江省台州地委书记、台州市委书记, sys: party, place: 浙江, from: 1990-09, to: 1996-08, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+    - { title: 浙江省委常委、宁波市委书记, sys: party, place: 浙江, from: 1998-11, to: 2003-11, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+    - { title: 天津市委副书记、副市长, sys: party, place: 天津, from: 2003-11, to: 2007-06, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+    - { title: 天津市委副书记、市长, sys: gov, place: 天津, from: 2008-01, to: 2014-12, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+    - { title: 天津市委代理书记、市长, sys: party, place: 天津, from: 2014-12, to: 2016-09, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+  cites: [wd-Q5925757, c03-ccdi-2016-09-10-huang-xingguo-probe, c03-ccdi-2017-01-04-huang-xingguo-expel, c03-xinhua-2017-09-25-huang-xingguo-verdict, c03-xinhua-2017-10-14-seventh-plenum]
+
+- id: wang-sanyun
+  name: 王三运
+  gender: m
+  born: 1952-12
+  birthplace: 山东单县
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2019 年 4 月被判有期徒刑 12 年。
+  fall:
+    - { date: 2017-07-11, text: 中纪委宣布其涉嫌严重违纪，接受组织审查, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { date: 2017-09-22, text: 被开除党籍、开除公职, cite: c03-ccdi-2017-09-22-wang-sanyun-expel }
+    - { date: 2019-04-11, text: 郑州中院以受贿罪判处有期徒刑 12 年, cite: c03-gmw-2019-04-12-wang-sanyun-verdict }
+  tier: 2
+  headline: 甘肃省委原书记
+  ids: { wikidata: Q376449 }
+  bio: >-
+    曾任共青团贵州省委书记、贵阳市委书记、贵州省委副书记，2002 年任福建省委副书记，2008 年起任安徽省长，2011 年至 2017 年任甘肃省委书记。2017 年 7 月落马，9 月被开除党籍和公职，通报称他“妄议党中央大政方针，长期搞迷信活动”，“严重污染甘肃省政治生态”。2019 年 4 月被判有期徒刑 12 年。
+  positions:
+    - { title: 共青团贵州省委书记, sys: party, place: 贵州, from: 1990-07, to: 1992-12, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { title: 贵州省委副书记, sys: party, place: 贵州, from: 1998-08, to: 2001-07, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { title: 福建省委副书记, sys: party, place: 福建, from: 2002-10, to: 2007-11, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { title: 安徽省委副书记、省长, sys: gov, place: 安徽, from: 2008-01, to: 2011-12, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { title: 甘肃省委书记、省人大常委会主任, sys: party, place: 甘肃, from: 2011-12, to: 2017-04, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+    - { title: 全国人大教育科学文化卫生委员会副主任委员, sys: gov, from: 2017-04, to: 2017-07, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+  cites: [wd-Q376449, c03-ccdi-2017-07-11-wang-sanyun-probe, c03-ccdi-2017-09-22-wang-sanyun-expel, c03-gmw-2019-04-12-wang-sanyun-verdict, c03-xinhua-2017-10-14-seventh-plenum]
+
+- id: lu-wei
+  name: 鲁炜
+  gender: m
+  born: 1960-01
+  birthplace: 安徽巢湖
+  roles: [tiger, minister]
+  status: detained
+  statusNote: 2019 年 3 月被判有期徒刑 14 年，当庭表示不上诉。
+  fall:
+    - { date: 2017-11-21, text: 中纪委宣布其涉嫌严重违纪，接受组织审查, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { date: 2018-02-13, text: 被开除党籍、开除公职, cite: c03-xinhua-2018-02-13-lu-wei-expel }
+    - { date: 2019-03-26, text: 宁波中院以受贿罪判处有期徒刑 14 年, cite: c03-xinhua-2019-03-26-lu-wei-verdict }
+  tier: 2
+  headline: 中央网信办原主任、中宣部原副部长
+  ids: { wikidata: Q15733214 }
+  bio: >-
+    新华社记者出身，曾任新华社副社长、北京市委宣传部部长，2013 年起执掌国家互联网信息办公室，2014 年兼任中央网信办主任、中宣部副部长。2017 年 11 月落马，2018 年 2 月被开除党籍和公职，通报称他“阳奉阴违、欺骗中央”，“野心膨胀，公器私用”。2019 年 3 月被宁波中院以受贿罪判处有期徒刑 14 年。
+  positions:
+    - { title: 新华社广西分社社长, sys: other, place: 广西, from: 1997-11, to: 2001-10, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 新华社副社长, sys: other, from: 2004-05, to: 2011-03, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 北京市委常委、宣传部部长，北京市副市长, sys: party, place: 北京, from: 2011-03, to: 2013-04, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 国家互联网信息办公室主任, sys: gov, from: 2013-04, to: 2016-06, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 中央网络安全和信息化领导小组办公室主任, sys: party, from: 2014-05, to: 2016-06, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { title: 中共中央宣传部副部长, sys: party, from: 2014-05, to: 2017-11, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+  cites: [wd-Q15733214, c03-ccdi-2017-11-21-lu-wei-probe, c03-xinhua-2018-02-13-lu-wei-expel, c03-xinhua-2019-03-26-lu-wei-verdict]
+
+- id: xiang-junbo
+  name: 项俊波
+  gender: m
+  born: 1957-01
+  birthplace: 重庆
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2020 年 6 月被判有期徒刑 11 年，当庭表示不上诉。
+  fall:
+    - { date: 2017-04-09, text: 中纪委宣布其涉嫌严重违纪，接受组织审查, cite: c03-ccdi-2017-04-09-xiang-junbo-probe }
+    - { date: 2017-09-23, text: 被开除党籍、开除公职, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+    - { date: 2020-06-16, text: 常州中院以受贿罪判处有期徒刑 11 年, cite: c03-rmzxw-2020-06-16-xiang-junbo-verdict }
+  tier: 2
+  headline: 中国保监会原主席
+  ids: { wikidata: Q8044137 }
+  bio: >-
+    曾任审计署副审计长，2004 年任人民银行副行长，2007 年起任农业银行行长、董事长，2011 年 10 月起任中国保监会主席。2017 年 4 月落马，9 月被开除党籍和公职，通报称他“为谋取个人政治利益，滥用审批权和监管权”，“搞权钱交易、权色交易”。2020 年 6 月被常州中院以受贿罪判处有期徒刑 11 年。
+  positions:
+    - { title: 审计署副审计长, sys: gov, from: 2002-02, to: 2004-07, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+    - { title: 中国人民银行副行长兼上海总部主任, sys: gov, from: 2004-07, to: 2007-06, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+    - { title: 中国农业银行行长、党委书记, sys: other, from: 2007-06, to: 2008-12, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+    - { title: 中国农业银行董事长、党委书记, sys: other, from: 2008-12, to: 2011-10, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+    - { title: 中国保险监督管理委员会主席、党委书记, sys: gov, from: 2011-10, to: 2017-04, cite: c03-ccdi-2017-09-23-xiang-junbo-expel }
+  cites: [wd-Q8044137, c03-ccdi-2017-04-09-xiang-junbo-probe, c03-ccdi-2017-09-23-xiang-junbo-expel, c03-rmzxw-2020-06-16-xiang-junbo-verdict, c03-xinhua-2017-10-14-seventh-plenum]
+
+- id: gu-junshan
+  name: 谷俊山
+  gender: m
+  born: 1956-10
+  birthplace: 河南濮阳
+  roles: [tiger, general]
+  status: detained
+  statusNote: 2015 年 8 月被军事法院判处死缓，剥夺中将军衔。
+  fall:
+    - { date: 2012, text: 因涉贪被查, cite: c03-bbc-2015-08-10-gu-junshan }
+    - { date: 2015-08-10, text: 军事法院以贪污、受贿、挪用公款、行贿、滥用职权罪判处死缓，剥夺中将军衔, cite: c03-xinhua-2015-08-10-gu-junshan-verdict }
+  tier: 2
+  headline: 总后勤部原副部长，中将
+  ids: { wikidata: Q8317191 }
+  bio: >-
+    解放军总后勤部原副部长，中将。据 BBC，他 2009 年起任总后勤部副部长，2012 年因涉贪被查。2015 年 8 月 10 日，军事法院以贪污、受贿、挪用公款、行贿、滥用职权五罪判处他死刑缓期二年执行，没收个人全部财产，剥夺中将军衔。BBC 称他被捕后“供出徐才厚之犯罪详情，间接将徐拉下马”。
+  positions:
+    - { title: 解放军总后勤部副部长, sys: army, from: 2009, to: 2012, cite: c03-bbc-2015-08-10-gu-junshan }
+  factions:
+    - f: guo-xu
+      cite: c03-bbc-2015-08-10-gu-junshan
+      quote: 谷俊山与已故中央军委前副主席徐才厚关系密切，谷俊山涉贪被捕后，供出徐才厚之犯罪详情，间接将徐拉下马。
+  cites: [wd-Q8317191, c03-xinhua-2015-08-10-gu-junshan-verdict, c03-bbc-2015-08-10-gu-junshan]
+
+- id: liu-tienan
+  name: 刘铁男
+  gender: m
+  born: 1954-10
+  birthplace: 北京
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年 12 月被判无期徒刑。
+  fall:
+    - { date: 2013-05-12, text: 中纪委宣布其涉嫌严重违纪，接受组织调查, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+    - { date: 2013-08-08, text: 被开除党籍、行政开除, cite: c03-ccdi-2013-08-08-liu-tienan-expel }
+    - { date: 2014-12-10, text: 廊坊中院以受贿罪判处无期徒刑, cite: c03-chinacourt-2014-12-10-liu-tienan-verdict }
+  tier: 2
+  headline: 国家发改委原副主任、国家能源局原局长
+  ids: { wikidata: Q8990814 }
+  bio: >-
+    曾任驻日本大使馆经济参赞、发改委工业司司长，2008 年任发改委副主任，2011 年起兼任国家能源局局长。2013 年 5 月落马，8 月被开除党籍并行政开除，通报称其“本人及其亲属收受巨额钱物”。2014 年 12 月被廊坊中院以受贿罪判处无期徒刑。他是十八大后首个被中纪委立案调查并双开的省部级官员。
+  positions:
+    - { title: 中国驻日本大使馆经济参赞, sys: gov, from: 1996, to: 1999, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+    - { title: 国家发展计划委员会产业发展司司长, sys: gov, from: 1999, to: 2003-04, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+    - { title: 国家发展和改革委员会工业司司长, sys: gov, from: 2003-04, to: 2008-03, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+    - { title: 国家发展和改革委员会党组成员、副主任, sys: gov, from: 2008-03, to: 2013-05, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+    - { title: 国家能源局局长, sys: gov, from: 2011-01, to: 2013-05, cite: c03-jjckb-2013-05-12-liu-tienan-probe }
+  cites: [wd-Q8990814, c03-jjckb-2013-05-12-liu-tienan-probe, c03-ccdi-2013-08-08-liu-tienan-expel, c03-chinacourt-2014-12-10-liu-tienan-verdict]
+
+- id: li-chuncheng
+  name: 李春城
+  gender: m
+  born: 1956-04
+  birthplace: 辽宁海城
+  roles: [tiger, acc]
+  status: purged
+  statusNote: 2015 年 10 月被判有期徒刑 13 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2012-12-06, text: 中纪委证实其涉嫌严重违纪，接受组织调查, cite: c03-ccdi-2012-12-06-li-chuncheng-probe }
+    - { date: 2014-04-29, text: 被开除党籍、开除公职, cite: c03-xinhua-2014-04-29-li-chuncheng-expel }
+    - { date: 2015-10-12, text: 咸宁中院以受贿、滥用职权罪判处有期徒刑 13 年, cite: c03-people-2015-10-13-li-chuncheng-verdict }
+  tier: 2
+  headline: 四川省委原副书记、成都市委原书记
+  ids: { wikidata: Q8291727 }
+  bio: >-
+    长期在成都任职，历任成都市副市长、泸州市委书记、成都市长、成都市委书记，后任四川省委副书记。2012 年 12 月落马，2014 年 4 月被开除党籍和公职，通报称他“滥用职权进行封建迷信活动，造成国家财政资金巨额损失”。2015 年 10 月被咸宁中院判处有期徒刑 13 年。BBC 称他“据信是”周永康的亲信。
+  positions:
+    - { title: 成都市副市长, sys: gov, place: 四川, cite: c03-people-2015-10-13-li-chuncheng-verdict }
+    - { title: 泸州市委书记, sys: party, place: 四川, cite: c03-people-2015-10-13-li-chuncheng-verdict }
+    - { title: 成都市市长, sys: gov, place: 四川, cite: c03-people-2015-10-13-li-chuncheng-verdict }
+    - { title: 成都市委书记, sys: party, place: 四川, cite: c03-people-2015-10-13-li-chuncheng-verdict }
+    - { title: 四川省委副书记, sys: party, place: 四川, to: 2012-12, cite: c03-ccdi-2012-12-06-li-chuncheng-probe }
+  factions:
+    - f: zhou-clique
+      cite: c03-bbc-2015-10-12-li-chuncheng
+      quote: 李春城据信是原中共中央政治局常委、中央政法委原书记周永康的亲信。
+  cites: [wd-Q8291727, c03-ccdi-2012-12-06-li-chuncheng-probe, c03-xinhua-2014-04-29-li-chuncheng-expel, c03-people-2015-10-13-li-chuncheng-verdict, c03-bbc-2015-10-12-li-chuncheng]
+
+- id: wan-qingliang
+  name: 万庆良
+  gender: m
+  born: 1964-02-12
+  birthplace: 广东五华
+  roles: [tiger, acc]
+  status: detained
+  statusNote: 2016 年 9 月被判无期徒刑。
+  fall:
+    - { date: 2014-06-27, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2014-06-27-wan-qingliang-probe }
+    - { date: 2014-10-09, text: 被开除党籍、开除公职, cite: c03-ccdi-2014-10-09-wan-qingliang-expel }
+    - { date: 2016-09-30, text: 南宁中院以受贿罪判处无期徒刑, cite: c03-court-2016-09-30-wan-qingliang-verdict }
+  tier: 2
+  headline: 广州市委原书记
+  ids: { wikidata: Q7967019 }
+  bio: >-
+    历任共青团广东省委书记、揭阳市长和市委书记、广东省副省长，2010 年任广州市长，后任广东省委常委、广州市委书记。2014 年 6 月落马，10 月被开除党籍和公职，通报称其“索取、收受巨额贿赂”，“多次出入私人会所”。2016 年 9 月被南宁中院以受贿罪判处无期徒刑，受贿折合 1.11 亿余元。
+  positions:
+    - { title: 共青团广东省委书记, sys: party, place: 广东, cite: c03-court-2016-09-30-wan-qingliang-verdict }
+    - { title: 揭阳市长、市委书记, sys: party, place: 广东, cite: c03-court-2016-09-30-wan-qingliang-verdict }
+    - { title: 广东省副省长, sys: gov, place: 广东, cite: c03-court-2016-09-30-wan-qingliang-verdict }
+    - { title: 广州市市长, sys: gov, place: 广东, from: 2010-04, to: 2011-12, cite: wd-Q7967019 }
+    - { title: 广东省委常委、广州市委书记, sys: party, place: 广东, to: 2014-06, cite: c03-ccdi-2014-06-27-wan-qingliang-probe }
+  cites: [wd-Q7967019, c03-ccdi-2014-06-27-wan-qingliang-probe, c03-ccdi-2014-10-09-wan-qingliang-expel, c03-court-2016-09-30-wan-qingliang-verdict]
+
+- id: qiu-he
+  name: 仇和
+  gender: m
+  born: 1957-01
+  birthplace: 江苏滨海
+  roles: [tiger, acc]
+  status: detained
+  statusNote: 2016 年 12 月被判有期徒刑 14 年 6 个月。
+  fall:
+    - { date: 2015-03-15, text: 中纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: c03-ccdi-2015-03-15-qiu-he-probe }
+    - { date: 2015-07-31, text: 被开除党籍、开除公职, cite: c03-ccdi-2015-07-31-qiu-he-expel }
+    - { date: 2016-12-15, text: 贵阳中院以受贿罪判处有期徒刑 14 年 6 个月, cite: c03-xinhua-2016-12-15-qiu-he-verdict }
+  tier: 2
+  headline: 云南省委原副书记、昆明市委原书记
+  ids: { wikidata: Q8292661 }
+  bio: >-
+    第十八届中央候补委员，曾任云南省委常委、昆明市委书记，后任云南省委副书记。2015 年 3 月落马，7 月被开除党籍和公职，通报称他“利用职务上的便利为亲属的经营活动谋取利益”，且“党的十八大后仍不收敛、不收手”。2016 年 12 月被贵阳中院以受贿罪判处有期徒刑 14 年 6 个月，受贿 2433.98 万元。
+  positions:
+    - { title: 云南省委常委、昆明市委书记, sys: party, place: 云南, cite: c03-xinhua-2016-12-15-qiu-he-verdict }
+    - { title: 云南省委副书记, sys: party, place: 云南, to: 2015-03, cite: c03-ccdi-2015-03-15-qiu-he-probe }
+    - { title: 第十八届中央候补委员, sys: party, to: 2015-07, cite: c03-ccdi-2015-07-31-qiu-he-expel }
+  cites: [wd-Q8292661, c03-ccdi-2015-03-15-qiu-he-probe, c03-ccdi-2015-07-31-qiu-he-expel, c03-xinhua-2016-12-15-qiu-he-verdict]
+
+# --- 19th Congress era ---
+- id: lai-xiaomin
+  name: 赖小民
+  gender: m
+  born: 1962-07-21
+  died: 2021-01-29
+  birthplace: 江西瑞金
+  roles: [tiger]
+  status: dead
+  statusNote: 2021 年 1 月 5 日被判死刑，同月 29 日在天津被执行死刑。
+  fall:
+    - { date: 2018-04-17, text: 中纪委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { date: 2018-10-15, text: 被开除党籍、开除公职, cite: c03-ccdi-2018-10-15-lai-xiaomin-expel }
+    - { date: 2021-01-05, text: 天津二中院以受贿、贪污、重婚罪判处死刑, cite: c03-court-2021-01-05-lai-xiaomin-verdict }
+    - { date: 2021-01-29, text: 经最高人民法院核准被执行死刑, cite: c03-xinhua-2021-01-29-lai-xiaomin-executed }
+  tier: 2
+  headline: 中国华融原董事长，受贿 17.88 亿被处决
+  ids: { wikidata: Q16907225 }
+  bio: >-
+    曾任北京银监局局长、银监会办公厅主任，2012 年 9 月起任中国华融资产管理公司党委书记、董事长。2018 年 4 月落马，10 月被开除党籍和公职，通报称其“盲目扩张、无序经营导致公司严重偏离主责主业”，“与多名女性搞权色交易”。2021 年 1 月被判死刑，受贿 17.88 亿余元，同月 29 日被执行死刑。
+  positions:
+    - { title: 中国人民银行银行监管二司副司长, sys: gov, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 北京银监局局长、党委书记, sys: gov, place: 北京, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国银监会办公厅主任、首席新闻发言人, sys: gov, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国华融资产管理公司党委副书记、总裁, sys: other, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+    - { title: 中国华融资产管理股份有限公司党委书记、董事长, sys: other, from: 2012-09, to: 2018-04, cite: c03-ccdi-2018-04-17-lai-xiaomin-probe }
+  cites: [wd-Q16907225, c03-ccdi-2018-04-17-lai-xiaomin-probe, c03-ccdi-2018-10-15-lai-xiaomin-expel, c03-court-2021-01-05-lai-xiaomin-verdict, c03-xinhua-2021-01-29-lai-xiaomin-executed]
+
+- id: meng-hongwei
+  name: 孟宏伟
+  gender: m
+  born: 1953-11
+  birthplace: 黑龙江哈尔滨
+  roles: [tiger]
+  status: detained
+  statusNote: 2020 年 1 月被判有期徒刑 13 年 6 个月，当庭表示不上诉。
+  fall:
+    - { date: 2018-10-07, text: 国家监委宣布其涉嫌违法，接受监察调查, cite: c03-ccdi-2018-10-07-meng-hongwei-probe }
+    - { date: 2019-03-27, text: 被开除党籍、开除公职, cite: c03-ccdi-2019-03-27-meng-hongwei-expel }
+    - { date: 2020-01-21, text: 天津一中院以受贿罪判处有期徒刑 13 年 6 个月, cite: c03-xinhua-2020-01-21-meng-hongwei-verdict }
+  tier: 2
+  headline: 公安部原副部长、国际刑警组织原主席
+  ids: { wikidata: Q9126923 }
+  bio: >-
+    公安部原党委委员、副部长，曾兼任中国海警局局长，2016 年 11 月当选国际刑警组织主席。2018 年 10 月被国家监委立案调查，2019 年 3 月被开除党籍和公职，通报称他“拒不执行党中央决定”，“利用职务影响为其妻谋取职务”。2020 年 1 月被天津一中院以受贿罪判处有期徒刑 13 年 6 个月。
+  positions:
+    - { title: 公安部党委委员、副部长, sys: gov, to: 2018-10, cite: c03-xinhua-2020-01-21-meng-hongwei-verdict }
+    - { title: 中国海警局局长, sys: gov, cite: c03-xinhua-2020-01-21-meng-hongwei-verdict }
+    - { title: 国际刑警组织主席, sys: other, from: 2016-11, to: 2018-10, cite: wd-Q9126923 }
+  cites: [wd-Q9126923, c03-ccdi-2018-10-07-meng-hongwei-probe, c03-ccdi-2019-03-27-meng-hongwei-expel, c03-xinhua-2020-01-21-meng-hongwei-verdict]
+
+- id: zhao-zhengyong
+  name: 赵正永
+  gender: m
+  born: 1951-03
+  birthplace: 安徽马鞍山
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2020 年 7 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2019-01-15, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2019-01-15-zhao-zhengyong-probe }
+    - { date: 2020-01-04, text: 被开除党籍，取消其享受的待遇, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+    - { date: 2020-07-31, text: 天津一中院以受贿罪判处死缓并终身监禁, cite: c03-xinhua-2020-07-31-zhao-zhengyong-verdict }
+  tier: 2
+  headline: 陕西省委原书记，受贿 7.17 亿
+  ids: { wikidata: Q4356267 }
+  bio: >-
+    曾任安徽省公安厅厅长，2001 年调任陕西省委政法委书记，2011 年起任陕西省长，2012 年至 2016 年任省委书记，后任全国人大内务司法委员会副主任委员。2019 年 1 月落马，2020 年 1 月被开除党籍，通报称他“培植个人势力，搞团团伙伙”。2020 年 7 月被判死缓并终身监禁，受贿 7.17 亿余元。
+  positions:
+    - { title: 安徽省公安厅厅长, sys: gov, place: 安徽, from: 1998-04, to: 2001-06, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+    - { title: 陕西省委常委、政法委书记, sys: party, place: 陕西, from: 2001-06, to: 2010-05, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+    - { title: 陕西省委副书记、省长, sys: gov, place: 陕西, from: 2010-06, to: 2012-12, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+    - { title: 陕西省委书记、省人大常委会主任, sys: party, place: 陕西, from: 2012-12, to: 2016-03, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+    - { title: 全国人大内务司法委员会副主任委员, sys: gov, from: 2016-04, cite: c03-ccdi-2020-01-04-zhao-zhengyong-expel }
+  cites: [wd-Q4356267, c03-ccdi-2019-01-15-zhao-zhengyong-probe, c03-ccdi-2020-01-04-zhao-zhengyong-expel, c03-xinhua-2020-07-31-zhao-zhengyong-verdict]
+
+- id: qin-guangrong
+  name: 秦光荣
+  gender: m
+  born: 1950-12
+  birthplace: 湖南永州
+  roles: [tiger, cc, prov]
+  status: purged
+  statusNote: 2021 年 1 月被判有期徒刑七年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2019-04-06, text: 主动到中央纪委国家监委投案, cite: c03-ccdi-2021-01-19-qin-guangrong-verdict }
+    - { date: 2019-05-09, text: 中纪委宣布其主动投案，接受审查调查, cite: c03-ccdi-2019-05-09-qin-guangrong-probe }
+    - { date: 2019-09-26, text: 被开除党籍，取消其享受的待遇, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+    - { date: 2021-01-19, text: 成都中院以受贿罪判处有期徒刑七年, cite: c03-ccdi-2021-01-19-qin-guangrong-verdict }
+  tier: 2
+  headline: 云南省委原书记，首个投案的原省部级一把手
+  ids: { wikidata: Q382480 }
+  bio: >-
+    湖南零陵起家，曾任长沙市委书记，1999 年调任云南，历任省委政法委书记、组织部部长、省长，2011 年至 2014 年任云南省委书记。2019 年 4 月主动投案，9 月被开除党籍，通报称他“对党不忠诚不老实，做两面人”。2021 年 1 月被成都中院以受贿罪判处有期徒刑七年；法院称他是第一个投案自首的原省部级一把手。
+  positions:
+    - { title: 湖南省委常委、长沙市委书记, sys: party, place: 湖南, from: 1994-12, to: 1998-02, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+    - { title: 云南省委常委、组织部部长, sys: party, place: 云南, from: 2001-03, to: 2003-04, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+    - { title: 云南省委副书记、省长, sys: gov, place: 云南, from: 2007-01, to: 2011-08, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+    - { title: 云南省委书记、省人大主任, sys: party, place: 云南, from: 2011-08, to: 2014-10, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+    - { title: 全国人大内务司法委员会副主任委员, sys: gov, from: 2014-11, cite: c03-ccdi-2019-09-26-qin-guangrong-expel }
+  cites: [wd-Q382480, c03-ccdi-2019-05-09-qin-guangrong-probe, c03-ccdi-2019-09-26-qin-guangrong-expel, c03-ccdi-2021-01-19-qin-guangrong-verdict]
+
+# --- Sun Lijun "political gang" (public security) ---
+- id: sun-lijun
+  name: 孙力军
+  gender: m
+  born: 1969-01
+  birthplace: 山东青岛
+  roles: [tiger]
+  status: detained
+  statusNote: 2022 年 9 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2020-04-19, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2020-04-19-sun-lijun-probe }
+    - { date: 2021-09-30, text: 被开除党籍、开除公职, cite: c03-ccdi-2021-09-30-sun-lijun-expel }
+    - { date: 2022-09-23, text: 长春中院以受贿、操纵证券市场、非法持有枪支罪判处死缓并终身监禁, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+  tier: 2
+  headline: 公安部原副部长，“孙力军政治团伙”头目
+  ids: { wikidata: Q92378949 }
+  bio: >-
+    早年任上海市卫生局外事处副处长、上海市外办处长，后入公安部，历任办公厅副主任、国内安全保卫局局长、公安部副部长。2020 年 4 月落马，2021 年 9 月被开除党籍和公职，通报称他“政治野心极度膨胀”，“在党内大搞团团伙伙、拉帮结派、培植个人势力”。2022 年 9 月被判死缓并终身监禁，受贿 6.46 亿余元。
+  positions:
+    - { title: 上海市卫生局外事处副处长, sys: gov, place: 上海, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 上海市人民政府外事办公室综合业务处处长, sys: gov, place: 上海, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部办公厅副主任, sys: gov, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部国内安全保卫局局长, sys: gov, cite: c03-xinhua-2022-09-23-sun-lijun-verdict }
+    - { title: 公安部党委委员、副部长, sys: gov, to: 2020-04, cite: c03-ccdi-2020-04-19-sun-lijun-probe }
+  cites: [wd-Q92378949, c03-ccdi-2020-04-19-sun-lijun-probe, c03-ccdi-2021-09-30-sun-lijun-expel, c03-xinhua-2022-09-23-sun-lijun-verdict]
+
+- id: fu-zhenghua
+  name: 傅政华
+  gender: m
+  born: 1955-03
+  birthplace: 河北滦县
+  roles: [tiger, cc, minister]
+  status: detained
+  statusNote: 2022 年 9 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2021-10-02, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2021-10-02-fu-zhenghua-probe }
+    - { date: 2022-03-31, text: 被开除党籍、开除公职, cite: c03-ccdi-2022-03-31-fu-zhenghua-expel }
+    - { date: 2022-09-22, text: 长春中院以受贿、徇私枉法罪判处死缓并终身监禁, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+  tier: 2
+  headline: 司法部原部长、北京市公安局原局长
+  ids: { wikidata: Q15733195 }
+  bio: >-
+    曾任北京市公安局局长、北京市委常委、公安部副部长，2018 年至 2020 年任司法部部长。2021 年 10 月落马，2022 年 3 月被开除党籍和公职，通报称他“政治野心极度膨胀”，“参加孙力军政治团伙”。2022 年 9 月被判死缓并终身监禁；判决认定他任北京市公安局局长时对其弟涉嫌严重犯罪的线索隐瞒不报。
+  positions:
+    - { title: 北京市公安局局长, sys: gov, place: 北京, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 北京市委常委, sys: party, place: 北京, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 公安部副部长, sys: gov, cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict }
+    - { title: 司法部部长, sys: gov, from: 2018-03, to: 2020-04, cite: wd-Q15733195 }
+    - { title: 全国政协社会和法制委员会副主任, sys: gov, to: 2021-10, cite: c03-ccdi-2021-10-02-fu-zhenghua-probe }
+  cites: [wd-Q15733195, c03-ccdi-2021-10-02-fu-zhenghua-probe, c03-ccdi-2022-03-31-fu-zhenghua-expel, c03-xinhua-2022-09-22-fu-zhenghua-verdict]
+
+- id: wang-like
+  name: 王立科
+  gender: m
+  born: 1964-12
+  birthplace: 山东蓬莱
+  roles: [tiger]
+  status: detained
+  statusNote: 2022 年 9 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2020-10-24, text: 中纪委宣布其主动投案，接受审查调查, cite: c03-ccdi-2020-10-24-wang-like-probe }
+    - { date: 2021-09-22, text: 被开除党籍、开除公职, cite: c03-ccdi-2021-09-22-wang-like-expel }
+    - { date: 2022-09-22, text: 长春中院以受贿、行贿、包庇纵容黑社会性质组织、伪造身份证件罪判处死缓并终身监禁, cite: c03-xinhua-2022-09-22-wang-like-verdict }
+  tier: 2
+  headline: 江苏省委原政法委书记
+  ids: { wikidata: Q22099739 }
+  bio: >-
+    辽宁基层民警出身，曾任大连市副市长、公安局局长，2013 年调任江苏省公安厅厅长，后任江苏省副省长、省委常委、政法委书记。2020 年 10 月主动投案，2021 年 9 月被开除党籍和公职，通报称他“参与在党内搞团团伙伙”。2022 年 9 月被判死缓并终身监禁；判决认定他曾向孙力军等人行贿 9731 万余元。
+  positions:
+    - { title: 辽宁省葫芦岛市副市长、市公安局局长, sys: gov, place: 辽宁, from: 2007-08, to: 2008-09, cite: c03-ccdi-2020-10-24-wang-like-probe }
+    - { title: 辽宁省大连市副市长、市公安局局长, sys: gov, place: 辽宁, from: 2010-04, to: 2013-03, cite: c03-ccdi-2020-10-24-wang-like-probe }
+    - { title: 江苏省公安厅厅长, sys: gov, place: 江苏, from: 2013-03, to: 2017-09, cite: c03-ccdi-2020-10-24-wang-like-probe }
+    - { title: 江苏省副省长, sys: gov, place: 江苏, from: 2013-12, to: 2015-11, cite: c03-ccdi-2020-10-24-wang-like-probe }
+    - { title: 江苏省委常委、政法委书记, sys: party, place: 江苏, from: 2015-11, to: 2020-10, cite: c03-ccdi-2020-10-24-wang-like-probe }
+  cites: [wd-Q22099739, c03-ccdi-2020-10-24-wang-like-probe, c03-ccdi-2021-09-22-wang-like-expel, c03-xinhua-2022-09-22-wang-like-verdict]
+
+- id: gong-daoan
+  name: 龚道安
+  gender: m
+  born: 1964-11
+  birthplace: 湖南澧县
+  roles: [tiger]
+  status: detained
+  statusNote: 2022 年 9 月被判无期徒刑。
+  fall:
+    - { date: 2020-08-18, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-people-2020-08-18-gong-daoan-probe }
+    - { date: 2021-02-10, text: 被开除党籍、开除公职, cite: c03-people-2021-02-10-gong-daoan-expel }
+    - { date: 2022-09-21, text: 唐山中院以受贿罪判处无期徒刑, cite: c03-xinhua-2022-09-21-gong-daoan-verdict }
+  tier: 2
+  headline: 上海市原副市长、市公安局原局长
+  ids: { wikidata: Q97348689 }
+  bio: >-
+    湖北公安系统出身，曾任湖北省公安厅经济犯罪侦查总队总队长、咸宁市委常委、政法委书记，后任公安部技术侦察局（十二局）局长，再任上海市副市长、市公安局局长。2020 年 8 月落马，2021 年 2 月被开除党籍和公职，通报称他“参与在党内搞团团伙伙，造成严重政治危害和恶劣政治影响”。2022 年 9 月被判无期徒刑。
+  positions:
+    - { title: 湖北省公安厅经济犯罪侦查总队总队长, sys: gov, place: 湖北, cite: c03-people-2021-02-10-gong-daoan-expel }
+    - { title: 湖北省咸宁市委常委、政法委书记、市公安局局长, sys: party, place: 湖北, cite: c03-people-2021-02-10-gong-daoan-expel }
+    - { title: 公安部十二局（技术侦察局）局长, sys: gov, cite: c03-xinhua-2022-09-21-gong-daoan-verdict }
+    - { title: 上海市副市长、市公安局局长, sys: gov, place: 上海, to: 2020-08, cite: c03-people-2020-08-18-gong-daoan-probe }
+  cites: [wd-Q97348689, c03-people-2020-08-18-gong-daoan-probe, c03-people-2021-02-10-gong-daoan-expel, c03-xinhua-2022-09-21-gong-daoan-verdict]
+
+- id: deng-huilin
+  name: 邓恢林
+  gender: m
+  born: 1965-03
+  birthplace: 湖北武汉
+  roles: [tiger]
+  status: detained
+  statusNote: 2022 年 9 月被判有期徒刑 15 年。
+  fall:
+    - { date: 2020-06-14, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { date: 2021-01-04, text: 被开除党籍、开除公职, cite: c03-xinhua-2021-01-04-deng-huilin-expel }
+    - { date: 2022-09-21, text: 保定中院以受贿罪判处有期徒刑 15 年, cite: c03-cnr-2022-09-21-deng-huilin-verdict }
+  tier: 2
+  headline: 重庆市原副市长、市公安局原局长
+  ids: { wikidata: Q97194106 }
+  bio: >-
+    曾任宜昌市委常委、市公安局局长，2015 年起任中央政法委办公室主任，2017 年调任重庆市公安局局长，2018 年起兼任重庆市副市长。2020 年 6 月落马，2021 年 1 月被开除党籍和公职，通报称他“参与在党内搞团团伙伙，捞取政治资本，热衷政治投机”。2022 年 9 月被保定中院以受贿罪判处有期徒刑 15 年。
+  positions:
+    - { title: 湖北省经济委员会副主任, sys: gov, place: 湖北, from: 2006-01, to: 2009-07, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { title: 湖北省宜昌市委常委、市公安局局长, sys: gov, place: 湖北, from: 2010-10, to: 2014-10, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { title: 湖北省公安厅副厅长, sys: gov, place: 湖北, from: 2014-10, to: 2015-06, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { title: 中央政法委办公室主任兼反分裂指导协调室负责人, sys: party, from: 2015-08, to: 2017-07, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { title: 重庆市公安局局长, sys: gov, place: 重庆, from: 2017-08, to: 2020-06, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+    - { title: 重庆市副市长, sys: gov, place: 重庆, from: 2018-01, to: 2020-06, cite: c03-ccdi-2020-06-14-deng-huilin-probe }
+  cites: [wd-Q97194106, c03-ccdi-2020-06-14-deng-huilin-probe, c03-xinhua-2021-01-04-deng-huilin-expel, c03-cnr-2022-09-21-deng-huilin-verdict]
+
+- id: liu-yanping
+  name: 刘彦平
+  gender: m
+  born: 1955
+  birthplace: 河北唐山丰南
+  roles: [tiger]
+  status: detained
+  statusNote: 2023 年 1 月被判死缓，期满减为无期徒刑后终身监禁。
+  fall:
+    - { date: 2022-03-12, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2022-03-12-liu-yanping-probe }
+    - { date: 2022-09-01, text: 被开除党籍、开除公职, cite: c03-people-2022-09-01-liu-yanping-expel }
+    - { date: 2023-01-10, text: 长春中院以受贿罪判处死缓并终身监禁, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+  tier: 2
+  headline: 驻国家安全部纪检监察组原组长
+  ids: { wikidata: Q16336486 }
+  bio: >-
+    长期在公安部警卫局任职，曾任警卫局局长、公安部部长助理、副部长，后任国家安全部纪委书记、中央纪委国家监委驻国家安全部纪检监察组组长。2022 年 3 月落马，9 月被开除党籍和公职，通报称他“参加孙力军政治团伙”，“滥用公安警卫权力”。2023 年 1 月被判死缓并终身监禁，受贿 2.34 亿余元。
+  positions:
+    - { title: 公安部警卫局局长, sys: gov, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+    - { title: 公安部部长助理、副部长, sys: gov, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+    - { title: 国家安全部党委委员、纪委书记, sys: party, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+    - { title: 中央纪委国家监委驻国家安全部纪检监察组组长, sys: party, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+    - { title: 十九届中央第五轮巡视第十四组组长, sys: party, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+  cites: [wd-Q16336486, c03-ccdi-2022-03-12-liu-yanping-probe, c03-people-2022-09-01-liu-yanping-expel, c03-xinhua-2023-01-10-liu-yanping-verdict]
+
+# --- Zhejiang, ministries, provinces (2021–2026) ---
+- id: zhou-jiangyong
+  name: 周江勇
+  gender: m
+  born: 1967-09
+  birthplace: 浙江宁波
+  roles: [tiger]
+  status: detained
+  statusNote: 2023 年 7 月被判死缓。
+  fall:
+    - { date: 2021-08-21, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+    - { date: 2022-01-26, text: 被开除党籍、开除公职, cite: c03-ccdi-2022-01-26-zhou-jiangyong-expel }
+    - { date: 2023-07-25, text: 滁州中院以受贿罪判处死缓, cite: c03-xinhua-2023-07-25-zhou-jiangyong-verdict }
+  tier: 2
+  headline: 杭州市委原书记
+  ids: { wikidata: Q20687968 }
+  bio: >-
+    浙江宁波人，从鄞县共青团干部做起，历任象山县委书记、宁波市委常委、舟山市委书记、温州市委书记，后任浙江省委常委、杭州市委书记。2021 年 8 月落马，2022 年 1 月被开除党籍和公职，通报称他“与资本勾连，支持资本无序扩张”，“搞家族式腐败”。2023 年 7 月被滁州中院以受贿罪判处死缓，受贿 1.82 亿余元。
+  positions:
+    - { title: 浙江省象山县委书记, sys: party, place: 浙江, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+    - { title: 宁波市委常委、宁波杭州湾新区党工委书记, sys: party, place: 浙江, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+    - { title: 舟山市委书记、市长, sys: party, place: 浙江, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+    - { title: 浙江省委常委、温州市委书记, sys: party, place: 浙江, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+    - { title: 浙江省委常委、杭州市委书记, sys: party, place: 浙江, to: 2021-08, cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe }
+  cites: [wd-Q20687968, c03-ccdi-2021-08-21-zhou-jiangyong-probe, c03-ccdi-2022-01-26-zhou-jiangyong-expel, c03-xinhua-2023-07-25-zhou-jiangyong-verdict]
+
+- id: tang-renjian
+  name: 唐仁健
+  gender: m
+  born: 1962-08-04
+  birthplace: 重庆
+  roles: [tiger, cc, minister, prov]
+  status: detained
+  statusNote: 2025 年 9 月一审被判死缓。
+  fall:
+    - { date: 2024-05-18, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2024-05-18-tang-renjian-probe }
+    - { date: 2024-11-15, text: 被开除党籍、开除公职, cite: c03-xinhua-2024-11-15-tang-renjian-expel }
+    - { date: 2025-09-28, text: 长春中院以受贿罪一审判处死缓, cite: c03-xinhua-2025-09-28-tang-renjian-verdict }
+  tier: 2
+  headline: 农业农村部原部长、甘肃省原省长
+  ids: { wikidata: Q20063077 }
+  bio: >-
+    曾任中央财经领导小组办公室副主任、广西壮族自治区副主席、中央农村工作领导小组办公室主任、甘肃省长，2020 年 12 月起任农业农村部部长。2024 年 5 月落马，11 月被开除党籍和公职，通报称他“在脱贫攻坚中搞盲目决策，违规干预和插手司法活动”。2025 年 9 月一审被判死缓，受贿 2.68 亿余元。
+  positions:
+    - { title: 中央财经领导小组办公室副主任、中央农村工作领导小组办公室副主任, sys: party, cite: c03-xinhua-2025-09-28-tang-renjian-verdict }
+    - { title: 广西壮族自治区党委常委、自治区人民政府副主席, sys: gov, place: 广西, cite: c03-xinhua-2025-09-28-tang-renjian-verdict }
+    - { title: 中央农村工作领导小组副组长兼办公室主任, sys: party, cite: c03-xinhua-2025-09-28-tang-renjian-verdict }
+    - { title: 甘肃省委副书记、省长, sys: gov, place: 甘肃, cite: c03-xinhua-2025-09-28-tang-renjian-verdict }
+    - { title: 农业农村部党组书记、部长, sys: gov, from: 2020-12, to: 2024-05, cite: wd-Q20063077 }
+  cites: [wd-Q20063077, c03-ccdi-2024-05-18-tang-renjian-probe, c03-xinhua-2024-11-15-tang-renjian-expel, c03-xinhua-2025-09-28-tang-renjian-verdict]
+
+- id: yi-huiman
+  name: 易会满
+  gender: m
+  born: 1964-12
+  birthplace: 浙江苍南
+  roles: [tiger, cc, minister]
+  status: purged
+  statusNote: 2026 年 9 月被青岛市检察院提起公诉，尚未宣判。
+  fall:
+    - { date: 2025-09-06, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2025-09-06-yi-huiman-probe }
+    - { date: 2026-04-30, text: 被开除党籍、开除公职, cite: c03-xinhua-2026-04-30-yi-huiman-expel }
+    - { date: 2026-09-30, text: 最高检披露青岛市检察院已以受贿罪提起公诉, cite: c03-xinhua-2026-09-30-yi-huiman-indict }
+  tier: 2
+  headline: 中国证监会原主席、工商银行原董事长
+  ids: { wikidata: Q28501074 }
+  bio: >-
+    工商银行出身，历任工行江苏省分行行长、工行行长、董事长，后任中国证监会主席，卸任后任全国政协经济委员会副主任。2025 年 9 月落马，2026 年 4 月被开除党籍和公职，通报称他“贯彻落实党中央关于资本市场的重大决策部署阳奉阴违、推诿卸责，搞迷信活动”。2026 年 9 月被青岛市检察院以受贿罪提起公诉。
+  positions:
+    - { title: 中国工商银行江苏省分行党委书记、行长, sys: other, place: 江苏, cite: c03-xinhua-2026-09-30-yi-huiman-indict }
+    - { title: 中国工商银行党委副书记、行长, sys: other, cite: c03-xinhua-2026-09-30-yi-huiman-indict }
+    - { title: 中国工商银行党委书记、董事长, sys: other, cite: c03-xinhua-2026-09-30-yi-huiman-indict }
+    - { title: 中国证券监督管理委员会党委书记、主席, sys: gov, cite: c03-xinhua-2026-09-30-yi-huiman-indict }
+    - { title: 十四届全国政协经济委员会副主任, sys: gov, to: 2025-09, cite: c03-xinhua-2025-09-06-yi-huiman-probe }
+  cites: [wd-Q28501074, c03-xinhua-2025-09-06-yi-huiman-probe, c03-xinhua-2026-04-30-yi-huiman-expel, c03-xinhua-2026-09-30-yi-huiman-indict]
+
+- id: jin-xiangjun
+  name: 金湘军
+  gender: m
+  born: 1964
+  birthplace: 湖南江华
+  roles: [tiger, cc, prov]
+  status: detained
+  statusNote: 2026 年 9 月一审被判死缓。
+  fall:
+    - { date: 2025-04-12, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2025-04-12-jin-xiangjun-probe }
+    - { date: 2025-10-10, text: 被开除党籍、开除公职, cite: c03-xinhua-2025-10-10-jin-xiangjun-expel }
+    - { date: 2026-09-08, text: 信阳中院以受贿罪一审判处死缓, cite: c03-xinhua-2026-09-08-jin-xiangjun-verdict }
+  tier: 2
+  headline: 山西省原省长
+  ids: { wikidata: Q16921347 }
+  bio: >-
+    曾任广西玉林市长、市委书记和防城港市委书记，后任天津市副市长、市委副书记，再任山西省委副书记、省长。2025 年 4 月落马，10 月被开除党籍和公职，通报称他“落实党中央决策部署打折扣、搞变通、敷衍应付”，并“搞权色、钱色交易”。2026 年 9 月被信阳中院以受贿罪一审判处死缓，受贿 1.48 亿余元。
+  positions:
+    - { title: 广西玉林市长、市委书记, sys: party, place: 广西, cite: c03-xinhua-2026-09-08-jin-xiangjun-verdict }
+    - { title: 广西防城港市委书记, sys: party, place: 广西, cite: c03-xinhua-2026-09-08-jin-xiangjun-verdict }
+    - { title: 天津市副市长、市委副书记, sys: party, place: 天津, cite: c03-xinhua-2026-09-08-jin-xiangjun-verdict }
+    - { title: 山西省委副书记、省长, sys: gov, place: 山西, to: 2025-04, cite: c03-xinhua-2025-04-12-jin-xiangjun-probe }
+  cites: [wd-Q16921347, c03-xinhua-2025-04-12-jin-xiangjun-probe, c03-xinhua-2025-10-10-jin-xiangjun-expel, c03-xinhua-2026-09-08-jin-xiangjun-verdict]
+
+- id: sun-shaocheng
+  name: 孙绍骋
+  gender: m
+  born: 1960
+  birthplace: 山东海阳
+  roles: [tiger, cc, minister]
+  status: purged
+  statusNote: 2026 年 9 月被开除党籍和公职，涉嫌受贿犯罪问题已移送检察机关。
+  fall:
+    - { date: 2026-01-29, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-01-29-sun-shaocheng-probe }
+    - { date: 2026-09-09, text: 被开除党籍、开除公职, cite: c03-xinhua-2026-09-09-sun-shaocheng-expel }
+  tier: 2
+  headline: 退役军人事务部原部长
+  ids: { wikidata: Q16077060 }
+  bio: >-
+    第二十届中央委员，2018 年至 2022 年任退役军人事务部部长，落马时任十四届全国人大社会建设委员会副主任委员。2026 年 1 月落马，9 月被开除党籍和公职，通报称他“贯彻落实党中央重大决策部署打折扣、搞变通”，“纵容、默许子女利用其职务影响谋取私利”，并“违规干预和插手司法活动”。
+  positions:
+    - { title: 退役军人事务部部长, sys: gov, from: 2018-03, to: 2022-06, cite: wd-Q16077060 }
+    - { title: 第二十届中央委员, sys: party, to: 2026-09, cite: c03-xinhua-2026-09-09-sun-shaocheng-expel }
+    - { title: 十四届全国人大社会建设委员会副主任委员, sys: gov, to: 2026-01, cite: c03-xinhua-2026-01-29-sun-shaocheng-probe }
+  cites: [wd-Q16077060, c03-xinhua-2026-01-29-sun-shaocheng-probe, c03-xinhua-2026-09-09-sun-shaocheng-expel]
+
+- id: yi-lianhong
+  name: 易炼红
+  gender: m
+  born: 1959-09
+  birthplace: 湖南涟源
+  roles: [tiger, prov]
+  status: purged
+  statusNote: 2026 年 4 月被罢免全国人大代表职务；截至 2026 年 10 月未见开除党籍通报。
+  fall:
+    - { date: 2026-02-10, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-ccdi-2026-02-10-yi-lianhong-probe }
+    - { date: 2026-04-30, text: 被浙江省人大常委会罢免全国人大代表职务，人大财经委副主任委员职务相应撤销, cite: c03-xinhua-2026-04-30-npc-notice-17 }
+  tier: 2
+  headline: 浙江省委原书记、江西省委原书记
+  ids: { wikidata: Q33127829 }
+  bio: >-
+    2021 年 10 月任江西省委书记，2022 年 12 月起任浙江省委书记，2024 年 10 月卸任，后任十四届全国人大财政经济委员会副主任委员。2026 年 2 月被宣布接受中央纪委国家监委审查调查，4 月被浙江省人大常委会罢免全国人大代表职务。截至 2026 年 10 月未见开除党籍通报。
+  positions:
+    - { title: 江西省委书记, sys: party, place: 江西, from: 2021-10, cite: c03-xinhua-2021-10-19-five-provinces }
+    - { title: 浙江省委书记, sys: party, place: 浙江, from: 2022-12, to: 2024-10, cite: c03-xinhua-2024-10-28-zhejiang-secretary }
+    - { title: 十四届全国人大财政经济委员会副主任委员, sys: gov, to: 2026-04, cite: c03-xinhua-2026-04-30-npc-notice-17 }
+  cites: [wd-Q33127829, c03-ccdi-2026-02-10-yi-lianhong-probe, c03-xinhua-2026-04-30-npc-notice-17, c03-xinhua-2021-10-19-five-provinces, c03-xinhua-2024-10-28-zhejiang-secretary]
+
+- id: wang-xiangxi
+  name: 王祥喜
+  gender: m
+  born: 1962-08
+  birthplace: 湖北仙桃
+  roles: [tiger, cc, minister]
+  status: purged
+  statusNote: 2026 年 9 月被开除党籍和公职，涉嫌受贿犯罪问题已移送检察机关。
+  fall:
+    - { date: 2026-01-31, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-01-31-wang-xiangxi-probe }
+    - { date: 2026-09-08, text: 被开除党籍、开除公职, cite: c03-xinhua-2026-09-08-wang-xiangxi-expel }
+  tier: 2
+  headline: 应急管理部原部长
+  ids: { wikidata: Q16906160 }
+  bio: >-
+    第二十届中央委员，2022 年 7 月接替黄明任应急管理部党委书记，后任部长。2026 年 1 月在部长任上落马，9 月被开除党籍和公职，通报称他“将公权力异化为谋取私利的工具”，“利用职务上的影响为特定关系人经营活动谋取利益”，并利用职务便利在工程项目承揽、职务晋升等方面为他人谋利。
+  positions:
+    - { title: 应急管理部党委书记, sys: party, from: 2022-07, to: 2026-01, cite: c03-mem-2022-07-29-wang-xiangxi }
+    - { title: 应急管理部部长, sys: gov, to: 2026-01, cite: c03-xinhua-2026-01-31-wang-xiangxi-probe }
+    - { title: 第二十届中央委员, sys: party, to: 2026-09, cite: c03-xinhua-2026-09-08-wang-xiangxi-expel }
+  cites: [wd-Q16906160, c03-xinhua-2026-01-31-wang-xiangxi-probe, c03-xinhua-2026-09-08-wang-xiangxi-expel, c03-mem-2022-07-29-wang-xiangxi]
+
+- id: hu-henghua
+  name: 胡衡华
+  gender: m
+  born: 1963-06
+  birthplace: 湖南衡南
+  roles: [tiger, prov]
+  status: purged
+  statusNote: 2026 年 6 月被罢免全国人大代表职务；截至 2026 年 10 月未见开除党籍通报。
+  fall:
+    - { date: 2026-03-20, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-03-20-hu-henghua-probe }
+    - { date: 2026-06-26, text: 被重庆市人大常委会罢免全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 重庆市原市长
+  ids: { wikidata: Q8970937 }
+  bio: >-
+    湖南衡南人，历任益阳市长、长沙市长、湖南省委常委，2020 年 10 月调任陕西省委副书记，2021 年 12 月任重庆市代市长，2022 年 1 月起任市长。2026 年 3 月 20 日被宣布接受审查调查，中新社称他四天前仍公开主持会议；6 月被重庆市人大常委会罢免全国人大代表职务。截至 2026 年 10 月未见开除党籍通报。
+  positions:
+    - { title: 湖南省益阳市委副书记、市长, sys: gov, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
+    - { title: 湖南省长沙市委副书记、市长, sys: gov, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
+    - { title: 湖南省委常委、省国资委党委书记, sys: party, place: 湖南, cite: c03-chinanews-2026-03-20-hu-henghua }
+    - { title: 陕西省委副书记, sys: party, place: 陕西, from: 2020-10, to: 2021-12, cite: c03-chinanews-2026-03-20-hu-henghua }
+    - { title: 重庆市委副书记、市长, sys: gov, place: 重庆, from: 2022-01, to: 2026-03, cite: c03-chinanews-2026-03-20-hu-henghua }
+  cites: [wd-Q8970937, c03-xinhua-2026-03-20-hu-henghua-probe, c03-chinanews-2026-03-20-hu-henghua, c03-xinhua-2026-06-26-npc-notice-18]
+
+- id: wei-xiaodong
+  name: 魏小东
+  gender: m
+  born: 1961
+  birthplace: 福建漳州
+  roles: [tiger]
+  status: purged
+  statusNote: 2026 年 6 月被宣布接受审查调查；截至 2026 年 10 月未见开除党籍通报。
+  fall:
+    - { date: 2026-06-06, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-06-06-wei-xiaodong-probe }
+  tier: 2
+  headline: 北京市政协原主席
+  ids: { wikidata: Q16908322 }
+  bio: >-
+    福建漳州人，长期在劳动人事部、中央编办任职，2010 年到河南，曾任鹤壁市长、市委书记和商丘市委书记，2016 年任中央编办副主任，翌年任北京市委常委、组织部部长，2022 年当选北京市政协主席。2026 年 6 月 6 日以北京市政协党组书记、主席身份被宣布接受审查调查。
+  positions:
+    - { title: 河南省鹤壁市长、市委书记, sys: party, place: 河南, cite: c03-zaobao-2026-06-23-wei-xiaodong }
+    - { title: 河南省商丘市委书记, sys: party, place: 河南, cite: c03-zaobao-2026-06-23-wei-xiaodong }
+    - { title: 中央机构编制委员会办公室副主任, sys: party, from: 2016, to: 2017, cite: c03-zaobao-2026-06-23-wei-xiaodong }
+    - { title: 北京市委常委、组织部部长, sys: party, place: 北京, from: 2017, cite: c03-zaobao-2026-06-23-wei-xiaodong }
+    - { title: 北京市政协党组书记、主席, sys: gov, place: 北京, from: 2022, to: 2026-06, cite: c03-zaobao-2026-06-23-wei-xiaodong }
+  cites: [wd-Q16908322, c03-xinhua-2026-06-06-wei-xiaodong-probe, c03-zaobao-2026-06-23-wei-xiaodong]
+
+- id: xu-liuping
+  name: 徐留平
+  gender: m
+  born: 1964-10
+  birthplace: 江苏扬中
+  roles: [tiger, acc]
+  status: purged
+  statusNote: 2026 年 5 月被宣布接受审查调查；截至 2026 年 10 月未见开除党籍通报。
+  fall:
+    - { date: 2026-05-23, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-05-23-xu-liuping-probe }
+  tier: 2
+  headline: 全国总工会原党组书记、一汽原董事长
+  ids: { wikidata: Q51106050 }
+  bio: >-
+    兵器装备集团出身，曾兼任重庆长安汽车董事长、党委书记，后任兵器装备集团总经理，2017 年任中国一汽董事长、党委书记，2023 年 2 月起任中华全国总工会党组书记。第二十届中央候补委员。2026 年 5 月 23 日以全总党组书记、副主席、书记处第一书记身份被宣布接受审查调查。
+  positions:
+    - { title: 中国兵器装备集团公司副总经理兼重庆长安汽车股份有限公司董事长, sys: other, cite: c03-ce-2023-02-23-xu-liuping }
+    - { title: 中国兵器装备集团公司董事、总经理, sys: other, cite: c03-ce-2023-02-23-xu-liuping }
+    - { title: 中国第一汽车集团公司董事长、党委书记, sys: other, from: 2017, to: 2023-02, cite: c03-ce-2023-02-23-xu-liuping }
+    - { title: 中华全国总工会党组书记、副主席, sys: other, from: 2023-02, to: 2026-05, cite: c03-ce-2023-02-23-xu-liuping }
+  cites: [wd-Q51106050, c03-xinhua-2026-05-23-xu-liuping-probe, c03-ce-2023-02-23-xu-liuping]
+
+- id: zhang-shuofu
+  name: 张硕辅
+  gender: m
+  born: 1965-08
+  birthplace: 湖南长沙
+  roles: [tiger]
+  status: purged
+  statusNote: 2026 年 10 月 8 日被宣布接受审查调查。
+  fall:
+    - { date: 2026-10-08, text: 中纪委宣布其涉嫌严重违纪违法，接受审查调查, cite: c03-xinhua-2026-10-08-zhang-shuofu-probe }
+  tier: 2
+  headline: 广州市委原书记、北京市纪委原书记
+  ids: { wikidata: Q9091577 }
+  bio: >-
+    湖南水利系统出身，曾任湖南省水利厅厅长、娄底市长、永州市委书记、湖南省副省长，2015 年起先后任云南省纪委书记、北京市纪委书记，2018 年 7 月起任广东省委常委、广州市委书记，后任广东省人大常委会副主任。2026 年 10 月 8 日被宣布接受审查调查。
+  positions:
+    - { title: 湖南省永州市委书记, sys: party, place: 湖南, from: 2011-06, to: 2013-01, cite: c03-xinhua-2018-07-20-zhang-shuofu }
+    - { title: 湖南省副省长, sys: gov, place: 湖南, from: 2013-01, to: 2015-04, cite: c03-xinhua-2018-07-20-zhang-shuofu }
+    - { title: 云南省委常委、省纪委书记, sys: party, place: 云南, from: 2015-04, to: 2016-12, cite: c03-xinhua-2018-07-20-zhang-shuofu }
+    - { title: 北京市委常委、市纪委书记、市监察委员会主任, sys: party, place: 北京, from: 2016-12, to: 2018-07, cite: c03-xinhua-2018-07-20-zhang-shuofu }
+    - { title: 广东省委常委、广州市委书记, sys: party, place: 广东, from: 2018-07, cite: c03-xinhua-2018-07-20-zhang-shuofu }
+    - { title: 广东省人大常委会副主任, sys: gov, place: 广东, to: 2026-10, cite: c03-xinhua-2026-10-08-zhang-shuofu-probe }
+  cites: [wd-Q9091577, c03-xinhua-2026-10-08-zhang-shuofu-probe, c03-xinhua-2018-07-20-zhang-shuofu]
+
+# --- PLA generals ---
+- id: wang-jianping
+  name: 王建平
+  gender: m
+  born: 1953-12
+  birthplace: 辽宁抚顺
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2016 年 12 月被军事检察机关立案侦查，2017 年 10 月被确认开除党籍；此后情况未见可靠报道。
+  fall:
+    - { date: 2016-12-29, text: 国防部证实其因涉嫌受贿犯罪被军事检察机关立案侦查, cite: c03-mod-2016-12-29-wang-jianping }
+    - { date: 2017-10-14, text: 十八届七中全会确认开除其党籍, cite: c03-xinhua-2017-10-14-seventh-plenum }
+  tier: 2
+  headline: 武警部队原司令员、联合参谋部原副参谋长，上将
+  ids: { wikidata: Q8292112 }
+  bio: >-
+    1969 年参军，1992 年任陆军第 40 集团军 120 师师长，此后约 18 年在武警任职，曾任武警部队司令员，2012 年 7 月晋升上将，2014 年转任副总参谋长，军改后任联合参谋部副参谋长。2016 年 12 月国防部证实他“因涉嫌受贿犯罪”被军事检察机关立案侦查，2017 年 10 月十八届七中全会确认开除其党籍。
+  positions:
+    - { title: 陆军第 40 集团军 120 师师长, sys: army, from: 1992, cite: c03-bbc-2016-12-29-wang-jianping }
+    - { title: 武警西藏总队总队长, sys: army, place: 西藏, cite: c03-bbc-2016-12-29-wang-jianping }
+    - { title: 武警部队司令员, sys: army, to: 2014, cite: c03-bbc-2016-12-29-wang-jianping }
+    - { title: 副总参谋长, sys: army, from: 2014, cite: c03-bbc-2016-12-29-wang-jianping }
+    - { title: 中央军委联合参谋部副参谋长, sys: army, to: 2016, cite: c03-mod-2016-12-29-wang-jianping }
+  factions:
+    - f: zhou-clique
+      cite: c03-bbc-2016-12-29-wang-jianping
+      quote: 他被指是已经落马的前中央政法委书记周永康的亲信
+  cites: [wd-Q8292112, c03-mod-2016-12-29-wang-jianping, c03-xinhua-2017-10-14-seventh-plenum, c03-bbc-2016-12-29-wang-jianping]
+
+- id: tian-xiusi
+  name: 田修思
+  gender: m
+  born: 1950-02
+  birthplace: 河南孟州
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2016 年 7 月被立案审查，2017 年 10 月被确认开除党籍；此后情况未见可靠报道。
+  fall:
+    - { date: 2016-07-09, text: 新华社报道其因涉嫌严重违纪被军委纪委立案审查, cite: c03-xinhua-2016-07-09-tian-xiusi-probe }
+    - { date: 2017-10-14, text: 十八届七中全会确认开除其党籍, cite: c03-xinhua-2017-10-14-seventh-plenum }
+  tier: 2
+  headline: 空军原政委，上将
+  ids: { wikidata: Q7800143 }
+  bio: >-
+    第十七、十八届中央委员，曾任南疆军区政委、成都军区政委、空军政委，2015 年 8 月转任全国人大外事委员会副主任委员。2016 年 7 月新华社报道他因涉嫌严重违纪被立案审查，2017 年 10 月十八届七中全会确认开除其党籍。BBC 称他与徐才厚、郭伯雄两位落马上将以及薄熙来“均曾有不少往来”。
+  positions:
+    - { title: 南疆军区政治委员, sys: army, place: 新疆, cite: c03-bbc-2016-07-09-tian-xiusi }
+    - { title: 成都军区政治委员, sys: army, cite: c03-bbc-2016-07-09-tian-xiusi }
+    - { title: 空军政治委员, sys: army, to: 2015-08, cite: c03-bbc-2016-07-09-tian-xiusi }
+    - { title: 全国人大外事委员会副主任委员, sys: gov, from: 2015-08, cite: c03-bbc-2016-07-09-tian-xiusi }
+  factions:
+    - f: guo-xu
+      cite: c03-bbc-2016-07-09-tian-xiusi
+      quote: 中国媒体注意到，田修思曾与已经落马的中央军委前副主席徐才厚、郭伯雄两位上将级高官，以及前中央政治局委员薄熙来等均曾有不少往来。
+  cites: [wd-Q7800143, c03-xinhua-2016-07-09-tian-xiusi-probe, c03-xinhua-2017-10-14-seventh-plenum, c03-bbc-2016-07-09-tian-xiusi]
+
+- id: li-yuchao
+  name: 李玉超
+  gender: m
+  born: 1962-11
+  birthplace: 河南睢县
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 7 月被确认开除党籍；未见审判报道。
+  fall:
+    - { date: 2023-07-28, text: 联合早报引述南华早报称其被军委纪委调查人员带走, cite: c03-zaobao-2023-07-28-rocket-force }
+    - { date: 2023-12-29, text: 被火箭军军人代表大会罢免全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2024-07-18, text: 二十届三中全会确认中央政治局此前给予其开除党籍的处分, cite: c03-gov-2024-07-18-third-plenum }
+  tier: 2
+  headline: 火箭军原司令员，上将
+  ids: { wikidata: Q97929129 }
+  bio: >-
+    2022 年 1 月以火箭军司令员身份晋升上将。2023 年 7 月，联合早报引述《南华早报》称，他与火箭军副司令员刘光斌、前副司令员张振中被军委纪委调查人员带走；同年 12 月被火箭军军人代表大会罢免全国人大代表职务。2024 年 7 月二十届三中全会确认中央政治局此前给予他开除党籍的处分。
+  positions:
+    - { title: 火箭军司令员, sys: army, to: 2023-07, cite: c03-xinhua-2022-01-21-generals-promoted }
+  factions:
+    - f: rocket-equipment
+      cite: c03-st-2024-07-18-li-yuchao
+      quote: Mr Li Yuchao was replaced last July during a shake-up of the Rocket Force leadership, which also saw its political commissar dismissed.
+  cites: [wd-Q97929129, c03-zaobao-2023-07-28-rocket-force, c03-xinhua-2023-12-29-npc-notice-2, c03-gov-2024-07-18-third-plenum, c03-st-2024-07-18-li-yuchao, c03-xinhua-2022-01-21-generals-promoted]
+
+- id: he-hongjun
+  name: 何宏军
+  gender: m
+  born: 1961-08
+  birthplace: 陕西洋县
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+  tier: 2
+  headline: 军委政治工作部原常务副主任，上将
+  ids: { wikidata: Q47667415 }
+  bio: >-
+    中央军委政治工作部原常务副主任，2024 年 7 月晋升上将。联合早报称他是苗华的副手；BBC 称他曾在兰州军区、军委政治工作部担任苗华的下属或副手。2025 年 10 月 17 日，国防部宣布他与何卫东、苗华等 9 人被立案审查调查并开除党籍，称“这9人严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大”。
+  positions:
+    - { title: 中央军委政治工作部常务副主任, sys: army, to: 2025, cite: c03-xinhua-2024-07-09-generals-promoted }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  cites: [wd-Q47667415, c03-mod-2025-10-17-nine-generals, c03-xinhua-2024-07-09-generals-promoted, c03-zaobao-2025-10-18-nine-generals, c03-bbc-2025-10-nine-generals]
+
+- id: wang-xiubin
+  name: 王秀斌
+  gender: m
+  born: 1964-03
+  birthplace: 江苏如东
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+  tier: 2
+  headline: 军委联合作战指挥中心原常务副主任，上将
+  ids: { wikidata: Q47670137 }
+  bio: >-
+    中央军委联合作战指挥中心原常务副主任。BBC 称他与何卫东、苗华、林向阳、秦树桐同出身于第 31 集团军；联合早报则称他长期在原南京军区第 1 集团军任职。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍，涉嫌犯罪问题移送军事检察机关依法审查起诉。
+  positions:
+    - { title: 原南京军区第 1 集团军任职, sys: army, cite: c03-zaobao-2025-10-18-nine-generals }
+    - { title: 中央军委联合作战指挥中心常务副主任, sys: army, to: 2025, cite: c03-mod-2025-10-17-nine-generals }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  factions:
+    - f: fujian-generals
+      cite: c03-bbc-2025-10-nine-generals
+      quote: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军
+  cites: [wd-Q47670137, c03-mod-2025-10-17-nine-generals, c03-zaobao-2025-10-18-nine-generals, c03-bbc-2025-10-nine-generals]
+
+- id: lin-xiangyang
+  name: 林向阳
+  gender: m
+  born: 1964-10
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+  tier: 2
+  headline: 东部战区原司令员，上将
+  ids: { wikidata: Q47665609 }
+  bio: >-
+    2021 年 9 月以中部战区司令员身份晋升上将，后任东部战区司令员。BBC 称他与何卫东、苗华等同出身于驻福建的第 31 集团军。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍，称“这9人严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大”。
+  positions:
+    - { title: 中部战区司令员, sys: army, from: 2021, cite: c03-xinhua-2021-09-06-generals-promoted }
+    - { title: 东部战区司令员, sys: army, to: 2025, cite: c03-mod-2025-10-17-nine-generals }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  factions:
+    - f: fujian-generals
+      cite: c03-bbc-2025-10-nine-generals
+      quote: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军
+  cites: [wd-Q47665609, c03-mod-2025-10-17-nine-generals, c03-xinhua-2021-09-06-generals-promoted, c03-bbc-2025-10-nine-generals]
+
+- id: qin-shutong
+  name: 秦树桐
+  gender: m
+  born: 1963-11
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+  tier: 2
+  headline: 陆军原政委，上将
+  ids: { wikidata: Q56570188 }
+  bio: >-
+    陆军原政治委员，2022 年 1 月晋升上将。联合早报称他长期任职于原南京军区；BBC 称他与何卫东、苗华、林向阳等同出身于第 31 集团军。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍，涉嫌犯罪问题移送军事检察机关依法审查起诉。
+  positions:
+    - { title: 陆军政治委员, sys: army, to: 2025, cite: c03-xinhua-2022-01-21-generals-promoted }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  factions:
+    - f: fujian-generals
+      cite: c03-bbc-2025-10-nine-generals
+      quote: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军
+  cites: [wd-Q56570188, c03-mod-2025-10-17-nine-generals, c03-xinhua-2022-01-21-generals-promoted, c03-zaobao-2025-10-18-nine-generals, c03-bbc-2025-10-nine-generals]
+
+- id: yuan-huazhi
+  name: 袁华智
+  gender: m
+  born: 1961-10
+  birthplace: 湖北仙桃
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+    - { date: 2025-10-28, text: 被海军军人代表大会罢免全国人大代表职务, cite: c03-xinhua-2025-10-28-npc-notice-13 }
+  tier: 2
+  headline: 海军原政委，上将
+  ids: { wikidata: Q60995511 }
+  bio: >-
+    海军原政治委员，2022 年 1 月晋升上将，此前曾任东部战区空军政委。BBC 称他长期在海军政治工作部门服役，是苗华任海军政委时提拔的旧部。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍；同月被海军军人代表大会罢免全国人大代表职务。
+  positions:
+    - { title: 东部战区空军政治委员, sys: army, cite: c03-zaobao-2025-10-18-nine-generals }
+    - { title: 海军政治委员, sys: army, to: 2025, cite: c03-xinhua-2022-01-21-generals-promoted }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  cites: [wd-Q60995511, c03-mod-2025-10-17-nine-generals, c03-xinhua-2025-10-28-npc-notice-13, c03-xinhua-2022-01-21-generals-promoted, c03-zaobao-2025-10-18-nine-generals, c03-bbc-2025-10-nine-generals]
+
+- id: wang-chunning
+  name: 王春宁
+  gender: m
+  born: 1963-03
+  birthplace: 江苏南京
+  roles: [tiger, cc, general]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
+  fall:
+    - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: c03-mod-2025-10-17-nine-generals }
+  tier: 2
+  headline: 武警部队原司令员，上将
+  ids: { wikidata: Q104382536 }
+  bio: >-
+    2020 年 1 月任北京市委常委，同年 12 月以武警部队司令员身份晋升上将。联合早报称他长期任职于原南京军区，BBC 称他虽不属于第 31 集团军，但同属原南京军区。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍，涉嫌犯罪问题移送军事检察机关依法审查起诉。
+  positions:
+    - { title: 北京市委常委, sys: party, place: 北京, from: 2020-01, cite: c03-people-2020-01-22-wang-chunning }
+    - { title: 武警部队司令员, sys: army, from: 2020, to: 2025, cite: c03-xinhua-2020-12-18-generals-promoted }
+    - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: c03-mod-2025-10-17-nine-generals }
+  cites: [wd-Q104382536, c03-mod-2025-10-17-nine-generals, c03-people-2020-01-22-wang-chunning, c03-xinhua-2020-12-18-generals-promoted, c03-zaobao-2025-10-18-nine-generals, c03-bbc-2025-10-nine-generals]

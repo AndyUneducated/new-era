@@ -1,0 +1,371 @@
+# F02: sources for faction labels (content/tags/F02.yaml).
+web:
+  # --- Xi's own networks ---
+  - id: f02-bbc-2022-09-29-20th-five-questions
+    title: 中共二十大：观察人事布局的五大热点问题
+    publisher: BBC 中文
+    date: 2022-09-29
+    voice: zh
+    url: https://web.archive.org/web/20221024151157/https://www.bbc.com/zhongwen/simp/chinese-news-62899418
+    excerpt: true
+    keep: [之江新军]
+  - id: f02-bbc-2022-10-22-20th-cc
+    title: 中共二十大闭幕：李克强汪洋韩正栗战书未名列中央委员，胡锦涛提前退场
+    publisher: BBC 中文
+    date: 2022-10-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63355764
+    excerpt: true
+    keep: [之江新军]
+  - id: f02-bbc-2022-10-23-psc
+    title: 中共二十届政治局常委：习近平开启历史性第三任期 李强预计出任总理 胡春华未入局
+    publisher: BBC 中文
+    date: 2022-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63362555
+    excerpt: true
+    keep: [政治秘书, 秘书角色, 福建和浙江的旧部]
+  - id: f02-reuters-2022-10-24-elites
+    title: China's new political elites and their connection to Xi
+    publisher: Reuters
+    date: 2022-10-24
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2022/https://www.reuters.com/world/china/chinas-new-political-elites-their-connection-xi-2022-10-24/
+    excerpt: true
+    keep: ["Xi's army", "Li Qiang, 63", "Cai Qi, 66", "Ding Xuexiang, 60", "He Weidong, 65", "He Lifeng, 65", "Huang Kunming, 65", "Chen Miner, 62", "Li Hongzhong, 66", "Li Shulei, 58", "Liu Guozhong, 60", "Wang Yi, 69", "Chen Wenqing, 62"]
+  - id: f02-reuters-2022-10-23-cai-qi
+    title: Beijing party chief Cai, Xi loyalist, vaults to top rank
+    publisher: Reuters
+    date: 2022-10-23
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2022/https://www.reuters.com/world/china/beijing-party-chief-cai-uses-loyalty-xi-vault-top-rank-2022-10-23/
+    excerpt: true
+    keep: [Fujian]
+  - id: f02-rfa-2020-11-16-zhijiang
+    title: 夜话中南海：习近平的“之江新军”原来是这样炼成的
+    publisher: 自由亚洲电台
+    date: 2020-11-16
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-11162020163832.html
+    excerpt: true
+    keep: [之江新军, 夏宝龙是习近平, 直接政治亲信]
+  - id: f02-bbc-2017-09-26-psc-candidates
+    title: 中共十九大：谁会跻身政治局常委？
+    publisher: BBC 中文
+    date: 2017-09-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41411542
+    excerpt: true
+    keep: [之江新军]
+  - id: f02-bbc-2017-10-25-psc
+    title: 中共新政治局常委揭晓 集体领导或被削弱
+    publisher: BBC 中文
+    date: 2017-10-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41752378
+    excerpt: true
+    keep: [习家军]
+  - id: f02-brookings-2017-pb
+    title: China's new Politburo and Politburo Standing Committee
+    publisher: Brookings Institution
+    author: Cheng Li
+    date: 2017-10-26
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/chinas-new-politburo-standing-committee/
+    excerpt: true
+    keep: [Shaanxi Gang, Xi is a princeling]
+  - id: f02-jamestown-2017-emperor
+    title: Has Xi Jinping Become "Emperor for Life"?
+    publisher: Jamestown Foundation China Brief
+    author: Willy Wo-Lap Lam
+    date: 2017-11-10
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/xi-jinping-become-emperor-life/
+    excerpt: true
+    keep: [prominent faction members]
+  - id: f02-jamestown-2018-xi-faction-regions
+    title: The Xi Jinping Faction Dominates Regional Appointments After the 19th Party Congress
+    publisher: Jamestown Foundation China Brief
+    author: Willy Wo-Lap Lam
+    date: 2018-01-23
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/xi-jinping-faction-dominates-regional-appointments-19th-party-congress/
+    excerpt: true
+    keep: [Sub-sets of the Faction, Highest-ranked Xi cronies, Defense-Aerospace Faction]
+  - id: f02-orf-2021-xi-gang
+    title: "The Rise of the Xi Gang: Factional politics in the Chinese Communist Party"
+    publisher: Observer Research Foundation
+    author: Srijan Shukla
+    date: 2021-02-12
+    voice: scholar
+    lang: en
+    url: https://www.orfonline.org/research/the-rise-of-the-xi-gang-factional-politics-in-the-chinese-communist-party
+    excerpt: true
+    keep: [seven distinct groups, notable princelings, political elites to rise from Fujian, a member of the Shanghai Gang had replaced Hu]
+  - id: f02-rfa-2017-10-30-li-xi
+    title: 李希出掌广东省委书记 原中共陕甘宁边区派后人
+    publisher: 自由亚洲电台
+    date: 2017-10-30
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-10302017104631.html
+    excerpt: true
+    keep: [陕甘宁边区派]
+  - id: f02-voa-2022-03-16-he-lifeng
+    title: 习之亲信何立峰被传将接续刘鹤，中国经济方向或持续左倾
+    publisher: 美国之音
+    date: 2022-03-16
+    voice: zh
+    url: https://www.voachinese.com/a/why-is-he-lifeng-tapped-to-be-china-s-next-economic-czar-20220316/6487798.html
+    excerpt: true
+    keep: [福建帮]
+  - id: f02-voa-2023-11-he-lifeng
+    title: 习近平之下 新“经济沙皇”何立峰能有多少作为?
+    publisher: 美国之音
+    date: 2023-11-01
+    voice: zh
+    url: https://www.voachinese.com/a/7340905.html
+    excerpt: true
+    keep: [福建帮]
+  - id: f02-rfa-2022-06-24-wang-xiaohong
+    title: 握紧“刀把子” 习近平旧部王小洪将任中国公安部长
+    publisher: 自由亚洲电台
+    date: 2022-06-24
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/4-06242022111728.html
+    excerpt: true
+    keep: [福州旧部]
+  - id: f02-zaobao-2022-10-31-chen-yixin
+    title: 陈一新接替陈文清出任中国国安部长
+    publisher: 联合早报
+    date: 2022-10-31
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221031-1328127
+    excerpt: true
+    keep: [在浙江的旧部]
+  # --- aerospace / defence industry ---
+  - id: f02-zaobao-2022-10-24-aerospace
+    title: 新型态技术官僚获重用 航天航太军工干部密集进入中共高层
+    publisher: 联合早报
+    date: 2022-10-24
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221024-1325900
+    excerpt: true
+    keep: [航天, 宇宙帮]
+  - id: f02-rfa-2023-02-13-jungong
+    title: 夜话中南海：张庆伟为何输给了自己的老部下马兴瑞和袁家军？
+    publisher: 自由亚洲电台
+    date: 2023-02-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02132023162856.html
+    excerpt: true
+    keep: [军工五人帮, 具体指的是, 多少有些牵强]
+  - id: f02-bbc-2026-07-ma-xingrui
+    title: 马兴瑞被“双开”：习时代“技术官僚”代表陨落，政治局三名委员落马
+    publisher: BBC 中文
+    date: 2026-07-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp
+    excerpt: true
+    keep: [航天系]
+  - id: f02-cna-2026-07-14-ma-xingrui
+    title: 马兴瑞被“双开” 中共军工系统陨落
+    publisher: 中央社
+    date: 2026-07-14
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202607140308.aspx
+    excerpt: true
+    keep: [軍工系統]
+  # --- princelings ---
+  - id: f02-reuters-2012-11-princelings-factbox
+    title: "Factbox: Scandals and successes of China's princelings"
+    publisher: Reuters (via Capital Gazette)
+    date: 2012-11-25
+    voice: west
+    lang: en
+    url: https://www.capitalgazette.com/2012/11/25/factbox-scandals-and-successes-of-chinas-princelings/
+    excerpt: true
+    keep: [high and low points of the princelings, Yu Zhengsheng, a son of late vice premier Xi Zhongxun, son-in-law of late vice premier Yao Yilin, a son of late president Liu Shaoqi, a son of former premier and parliament chief Li Peng]
+  - id: f02-bbc-2017-11-princelings
+    title: 摆平太子党：沙特中共手段不同风险一样
+    publisher: BBC 中文
+    date: 2017-11-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-42146474
+    excerpt: true
+    keep: [唯一的, 张又侠上将]
+  - id: f02-voa-2024-04-princelings
+    title: 习近平决裂“太子党”
+    publisher: 美国之音
+    date: 2024-04-04
+    voice: zh
+    url: https://web.archive.org/web/20250301070110/https://www.voachinese.com/a/xis-breakup-with-princelings-20240404/7557120.html
+    excerpt: true
+    keep: [名副其实, 乘龙快婿, 刘源上将的关系, 顶级人物, 硕果仅存, 西北帮]
+  - id: f02-taipeitimes-2026-02-05-zhang-youxia
+    title: "Zhang Youxia: veteran princeling caught in China's military purge"
+    publisher: Taipei Times (AFP)
+    date: 2026-02-05
+    voice: west
+    lang: en
+    url: https://www.taipeitimes.com/News/feat/archives/2026/02/05/2003851793
+    excerpt: true
+    keep: [princelings]
+  # --- army ---
+  - id: f02-bbc-2025-10-17-nine-generals
+    title: 中共四中全会：解放军九上将同时官宣落马背后的潜在逻辑和补缺悬念
+    publisher: BBC 中文
+    date: 2025-10-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cd042g90z48o/simp
+    excerpt: true
+    keep: [31集团军, 派系标签, 不属于]
+  - id: f02-dw-2025-10-20-nine-generals
+    title: 中国军中反腐大动作：何卫东、苗华等9人被开除军籍党籍
+    publisher: 德国之声中文网
+    date: 2025-10-20
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%B8%AD%E5%8F%8D%E8%85%90%E5%A4%A7%E5%8A%A8%E4%BD%9C%E4%BD%95%E5%8D%AB%E4%B8%9C%E8%8B%97%E5%8D%8E%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%86%9B%E7%B1%8D%E5%85%9A%E7%B1%8D/a-74401427
+    excerpt: true
+    keep: [第31集团军, 驻福建的军队]
+  - id: f02-rfi-2018-10-25-southeast-army
+    title: 解放军近年崛起“东南军”和“西南军”两大势力
+    publisher: 法国国际广播电台
+    date: 2018-10-25
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20181025-%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%91%E5%B9%B4%E5%B4%9B%E8%B5%B7%E4%B8%9C%E5%8D%97%E5%86%9B%E5%92%8C%E8%A5%BF%E5%8D%97%E5%86%9B%E4%B8%A4%E5%A4%A7%E5%8A%BF%E5%8A%9B
+    excerpt: true
+    keep: [西北军, 出身原31集团军]
+  - id: f02-dw-2026-01-zhang-youxia
+    title: 张又侠其人？为何落马？
+    publisher: 德国之声中文网
+    date: 2026-01-26
+    voice: zh
+    url: https://www.dw.com/zh/%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%85%B6%E4%BA%BA%E4%B8%BA%E4%BD%95%E8%90%BD%E9%A9%AC/a-75665911
+    excerpt: true
+    keep: [红二代, 总装备部副部长, 交集并不多]
+  - id: f02-bbc-2026-zhang-youxia-analysis
+    title: 分析：张又侠“七宗罪”和 “红二代”世交神话的破灭
+    publisher: BBC 中文
+    date: 2026-01-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cp80pl999gjo/simp
+    excerpt: true
+    keep: [陕西老乡突然倒台, 西北-装备系, 并无交集]
+  - id: f02-zaobao-2026-01-24-zhang-liu
+    title: 张又侠刘振立落马 分析：或涉团团伙伙 台海短期趋稳定
+    publisher: 联合早报
+    date: 2026-01-24
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260124-8161344
+    excerpt: true
+    keep: [团团伙伙]
+  - id: f02-zaobao-2024-06-27-li-wei
+    title: 李尚福、魏凤和被开除中共党籍 料难逃牢狱之灾
+    publisher: 联合早报
+    date: 2024-06-27
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240627-3988273
+    excerpt: true
+    keep: [军工企业高层窝案, 可能有关联之处, 违规提拔火箭军高官, 火箭军两任司令员]
+  # --- purged networks ---
+  - id: f02-bbc-2014-02-26-zhou-watch
+    title: 分析：“周永康沸点”与中国官方的沉默
+    publisher: BBC 中文
+    date: 2014-02-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/02/140226_zhou_yongkang_watch
+    excerpt: true
+    keep: [四川帮, 党羽亲信]
+  - id: f02-bjnews-2015-10-14-zhou-disciples
+    title: 周永康“众门徒”的结局
+    publisher: 新京报
+    date: 2015-10-14
+    voice: official
+    url: http://www.bjnews.com.cn/news/2015/10/14/380410.html
+    excerpt: true
+    keep: [门徒, 四川系, 身边人]
+  - id: f02-bbc-2014-12-22-ling-jihua
+    title: 观察：令计划落马与习近平的打虎行动
+    publisher: BBC 中文
+    date: 2014-12-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/12/141222_li_jihua_
+    excerpt: true
+    keep: [新四人帮]
+  - id: f02-voa-2014-12-05-zhou-coup
+    title: 周永康案是中共建政以来最大政变案？
+    publisher: 美国之音
+    date: 2014-12-05
+    voice: zh
+    url: https://www.voachinese.com/a/zhouyongkang-case-20141205/2547874.html
+    excerpt: true
+    keep: [新四人帮, 秦光荣, 勾结在一起]
+  - id: f02-hqrw-2015-01-06-xishanhui
+    title: 令计划的隐秘权力世界（环球人物）
+    publisher: 环球人物（人民日报社）
+    date: 2015-01-06
+    voice: official
+    url: http://paper.people.com.cn/hqrw/html/2015-01/06/content_1556021.htm
+    excerpt: true
+    keep: [西山会]
+  - id: f02-nytcn-2018-10-24-meng-hongwei
+    title: 孟宏伟案为何丢不了中国的面子
+    publisher: 纽约时报中文网
+    date: 2018-10-24
+    voice: west
+    url: https://cn.nytimes.com/op-ed/20181024/china-interpol-meng-hongwei/
+    excerpt: true
+    keep: [周永康]
+  - id: f02-bbc-2016-08-26-wang-jianping
+    title: 涉周永康案 中国军队副总长王建平被捕
+    publisher: BBC 中文
+    date: 2016-08-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/08/160826_china_military_corruption_wangjianping
+    excerpt: true
+    keep: [周永康亲信, 属下共犯]
+  - id: f02-rmrb-2020-12-03-guo-xu
+    title: 人民日报 2020-12-03 第1版
+    publisher: 人民日报
+    date: 2020-12-03
+    voice: official
+    url: http://paper.people.com.cn/rmrbwap/html/2020-12/03/nw.D110000renmrb_20201203_1-01.htm
+    excerpt: true
+    keep: [流毒影响]
+  - id: f02-zaobao-2018-01-10-fang-fenghui
+    title: 星岛：涉贿房峰辉是郭伯雄老乡兼旧部 习近平亲自下令调查
+    publisher: 联合早报
+    date: 2018-01-10
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20180110-825765
+    excerpt: true
+    keep: [老乡兼旧部]
+  - id: f02-bbc-2017-11-28-zhang-yang
+    title: 解放军上将张阳家中自杀 媒体挖出哪些细节
+    publisher: BBC 中文
+    date: 2017-11-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-42149744
+    excerpt: true
+    keep: [徐才厚]
+  - id: f02-bbc-2015-08-10-gu-junshan
+    title: 新聞人物：中國軍內「老虎」谷俊山
+    publisher: BBC 中文
+    date: 2015-08-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2015/08/150810_gu_junshan_profile
+    excerpt: true
+    keep: [關係密切]
+  - id: f02-zaobao-2016-07-09-tian-xiusi
+    title: 中国空军原政委田修思被查
+    publisher: 联合早报
+    date: 2016-07-09
+    voice: zh
+    url: https://www.zaobao.com.sg/news/advance/story20160709-639285
+    excerpt: true
+    keep: [亲信]

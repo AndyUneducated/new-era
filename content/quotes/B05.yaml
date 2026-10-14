@@ -1,0 +1,117 @@
+# B05 quotes. Every text is checked verbatim against its cite.
+zhang-gaoli:
+  - text: 一分部署，九分落实
+    cite: b05-gov-2014-09-04-zhang-jjj
+    kind: public
+    date: 2014-09-04
+    occasion: 京津冀协同发展领导小组第三次会议
+    star: true
+  - text: 作为一个负责任的大国，今后中国将以更大力度和更好效果应对气候变化，主动承担与自身国情、发展阶段和实际能力相符的国际义务
+    cite: b05-people-2014-09-24-zhang-climate
+    kind: public
+    date: 2014-09-23
+    occasion: 以习近平特使身份在纽约联合国气候峰会全会上讲话
+  - text: 要全面落实绿色办奥、共享办奥、开放办奥、廉洁办奥理念
+    cite: b05-gov-2017-10-10-zhang-olympics
+    kind: public
+    date: 2017-10-10
+    occasion: 第 24 届冬奥会工作领导小组第四次全体会议
+
+li-zhanshu:
+  - text: 习近平同志是全党拥护、人民爱戴、当之无愧的党的核心、军队统帅、人民领袖，是新时代中国特色社会主义国家掌舵者、人民的领路人
+    cite: b05-bbc-2018-03-20-li-zhanshu-npc
+    kind: public
+    date: 2018-03-20
+    occasion: 主持十三届全国人大一次会议闭幕会
+    star: true
+  - text: 不整人、不耍滑、不偷懒
+    cite: b05-zaobao-2017-10-23-li-zhanshu
+    kind: leaked
+    occasion: 《联合早报》转述的自我评价
+  - text: 在涉及俄罗斯核心利益和一些重大关键问题上，中方对俄罗斯表示充分的理解和支持
+    cite: b05-dw-2022-09-li-russia
+    kind: public
+    date: 2022-09
+    occasion: 访问莫斯科期间与俄方会谈（德国之声据流出的讲话报道，新华社通稿未载）
+  - text: 俄罗斯被逼到了墙角，为维护国家核心利益而采取了一次反击
+    cite: b05-dw-2022-09-li-russia
+    kind: public
+    date: 2022-09
+    occasion: 同上
+
+wang-yang:
+  - text: 分蛋糕不是重点工作，做蛋糕是重点，这点是有针对性的。这不是新话，但是在这个时候强调它就有新意
+    cite: b05-rfi-2011-07-15-cake
+    kind: public
+    date: 2011-07
+    occasion: 广东省委十届九次全会，经广州《新快报》报道
+    star: true
+  - text: 为什么领导能骂娘，群众就不能骂娘
+    cite: b05-rfi-2011-07-15-cake
+    kind: adlib
+    date: 2011
+    occasion: 与网民在线对话
+  - text: 我们必须破除人民幸福是党和政府恩赐的错误认识
+    cite: b05-gd-2012-05-09-wang-yang-report
+    kind: public
+    date: 2012-05
+    occasion: 广东省第十一次党代会报告
+  - text: 我们两家不能走离婚的路，像邓文迪和默多克，代价太大了。
+    cite: b05-people-2013-07-11-wang-yang-sed
+    kind: adlib
+    date: 2013-07-10
+    occasion: 华盛顿第五轮中美战略与经济对话框架下的经济对话，脱稿致辞
+
+wang-huning:
+  - text: "If you want to overwhelm the Americans, you must do one thing: surpass them in science and technology."
+    zh: 要想压倒美国人，就得做一件事：在科学技术上超过他们。
+    cite: b05-newyorker-wang-huning
+    kind: public
+    date: 1991
+    occasion: 《美国反对美国》，据《纽约客》英译
+    star: true
+  - text: it is not the people who master the technology, but the technology that masters the people.
+    zh: 不是人驾驭技术，而是技术驾驭人。
+    cite: b05-newyorker-wang-huning
+    kind: public
+    date: 1991
+    occasion: 《美国反对美国》论美国人对技术的依赖，据《纽约客》英译
+  - text: For a society to have long-term stability, it must have a good political system,
+    zh: 一个社会要长治久安，必须有好的政治制度。
+    cite: b05-lrb-2023-wang-huning
+    kind: public
+    date: 1994
+    occasion: 1994 年日记，据《伦敦书评》英译
+  - text: 要坚持一个中国原则和“九二共识”，团结广大台湾同胞，坚定支持岛内爱国统一力量，坚决打击“台独”分裂势力、反对外部势力干涉，维护台海和平稳定
+    cite: b05-xinhua-2026-02-10-wang-huning-taiwan
+    kind: public
+    date: 2026-02-10
+    occasion: 2026 年对台工作会议
+  - text: 坚持为人民出政绩、以实干出政绩
+    cite: b05-xinhua-2026-09-24-wang-huning-cppcc
+    kind: public
+    date: 2026-09-24
+    occasion: 政协十四届全国委员会第五十六次主席会议
+
+zhao-leji:
+  - text: 腐败是我们党面临的最大威胁
+    cite: b05-ccdi-2020-01-zhao-leji-report
+    kind: public
+    date: 2020-01-13
+    occasion: 十九届中央纪委四次全会工作报告
+    star: true
+  - text: 坚持无禁区、全覆盖、零容忍，坚持重遏制、强高压、长震慑，坚持受贿行贿一起查
+    cite: b05-ccdi-2020-01-zhao-leji-report
+    kind: public
+    date: 2020-01-13
+    occasion: 同上
+  - text: 中朝友谊是两党两国老一辈革命家亲手缔造和培育的，经受住国际风云变幻的种种考验，是我们共同的宝贵财富
+    cite: b05-xinhua-2024-04-13-zhao-kim
+    kind: public
+    date: 2024-04-13
+    occasion: 在平壤会见朝鲜劳动党总书记金正恩
+  - text: 坚持好、完善好、运行好人民代表大会制度，稳中求进推动人大工作高质量发展
+    cite: b05-gov-2026-03-15-npc-report
+    kind: public
+    date: 2026-03-09
+    occasion: 十四届全国人大四次会议上的全国人大常委会工作报告

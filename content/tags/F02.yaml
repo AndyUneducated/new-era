@@ -1,0 +1,612 @@
+# F02: faction labels for Xi-era leaders, generals and the fallen of 2012–2026. person id → labels.
+# Every quote is the sentence in the cited source that makes the label.
+
+xi-jinping:
+  - f: princelings
+    cite: f02-brookings-2017-pb
+    quote: 'Xi is a princeling, the son of Xi Zhongxun'
+    zh: '习近平是太子党，是习仲勋之子'
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...Current party chief Xi Jinping, a son of late vice premier Xi Zhongxun'
+    zh: '以下是太子党们的一些高光与低谷……现任党的总书记习近平，已故副总理习仲勋之子'
+  - f: princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '习近平是名副其实的“太子党”'
+  - f: princelings
+    cite: f02-taipeitimes-2026-02-05-zhang-youxia
+    quote: 'The younger Zhang and Xi, now 75 and 72, are both “princelings” — a term describing the children of revolutionary leaders who have benefitted from their family connections'
+    zh: '年轻一辈的张（又侠）与习，如今分别75岁和72岁，都是“太子党”——指受益于家庭关系的革命领导人子女'
+  - f: jiang-shanghai
+    cite: f02-brookings-2017-pb
+    quote: 'Xi Jinping is widely considered to be a protégé of both former PRC president Jiang Zemin and former PRC vice-president Zeng Qinghong'
+    zh: '习近平被普遍认为是前国家主席江泽民和前国家副主席曾庆红二人的门生'
+  - f: jiang-shanghai
+    cite: f02-orf-2021-xi-gang
+    quote: 'Xi, a member of the Shanghai Gang had replaced Hu, the leader of the CCYL'
+    zh: '身为上海帮成员的习接替了团派领袖胡（锦涛）'
+
+# --- 20th Standing Committee and Xi's provincial networks ---
+li-qiang:
+  - f: xi-jiajun
+    cite: f02-bbc-2022-09-29-20th-five-questions
+    quote: '习近平担任中国领导人后，曾提拔一批他在浙江和上海任职时的下属。这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强'
+  - f: zhijiang
+    cite: f02-bbc-2022-10-22-20th-cc
+    quote: '上海市委书记李强……他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属'
+  - f: zhijiang
+    cite: f02-rfa-2020-11-16-zhijiang
+    quote: '习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔'
+  - f: zhijiang
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Former Xi subordinates are sometimes referred to in political circle as "Xi''s army"...Li Qiang, 63, Xi''s chief of staff when Xi was Zhejiang party chief'
+    zh: '习近平的旧部有时在政界被称为“习家军”……李强，63岁，习任浙江省委书记时的“大管家”（省委秘书长）'
+  - f: zhijiang
+    cite: f02-jamestown-2018-xi-faction-regions
+    quote: 'Highest-ranked Xi cronies who have benefitted from the latest reshuffles are Shanghai Party Secretary Li Qiang (born 1959)...Li Qiang spent the bulk of his career in Zhejiang'
+    zh: '在这轮调整中受益的级别最高的习近平亲信是上海市委书记李强（1959年生）……李强大半仕途在浙江度过'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following: the Party Secretaries (PS) of Chongqing, Beijing, Shanghai and Tianjin, respectively Chen Min’er, Cai Qi, Li Qiang and Li Hongzhong'
+    zh: '进入政治局的（习近平派系）重要成员包括：重庆、北京、上海、天津的党委书记陈敏尔、蔡奇、李强和李鸿忠'
+
+cai-qi:
+  - f: xi-jiajun
+    cite: f02-bbc-2022-09-29-20th-five-questions
+    quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇'
+  - f: zhijiang
+    cite: f02-bbc-2022-10-22-20th-cc
+    quote: '会前颇受各界关注的北京市委书记蔡奇……他们被外界称为“之江新军”或“习家军”'
+  - f: zhijiang
+    cite: f02-rfa-2020-11-16-zhijiang
+    quote: '所谓“之江新军”的最典型代表蔡奇'
+  - f: fujian
+    cite: f02-bbc-2022-10-23-psc
+    quote: '蔡奇同样是习近平在福建和浙江的旧部'
+  - f: fujian
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Cai Qi, 66, Xi''s former subordinate in Fujian'
+    zh: '蔡奇，66岁，习近平在福建的旧部'
+  - f: fujian
+    cite: f02-reuters-2022-10-23-cai-qi
+    quote: 'he is seen as one of Xi''s closest political allies, having worked with him for 20 years in the coastal provinces of Fujian and Zhejiang'
+    zh: '他被视为习近平最亲密的政治盟友之一，曾在沿海的福建、浙江两省与习共事20年'
+  - f: fujian
+    cite: f02-orf-2021-xi-gang
+    quote: 'The most significant political elites to rise from Fujian include Cai Qi'
+    zh: '从福建崛起的最重要政治精英包括蔡奇'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following: the Party Secretaries (PS) of Chongqing, Beijing, Shanghai and Tianjin, respectively Chen Min’er, Cai Qi, Li Qiang and Li Hongzhong'
+    zh: '进入政治局的（习近平派系）重要成员包括：重庆、北京、上海、天津的党委书记陈敏尔、蔡奇、李强和李鸿忠'
+
+ding-xuexiang:
+  - f: xi-jiajun
+    cite: f02-bbc-2022-09-29-20th-five-questions
+    quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强、重庆市委书记陈敏尔、广东省委书记李希以及中央办公厅主任丁薛祥'
+  - f: mishu
+    cite: f02-bbc-2022-10-23-psc
+    quote: '长期扮演习近平秘书角色的丁薛祥'
+  - f: xi-shanghai
+    cite: f02-bbc-2022-10-23-psc
+    quote: '2007年，45岁的他任中共上海市委常委、秘书长，成为时任上海市委书记习近平的政治秘书'
+  - f: xi-shanghai
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Ding Xuexiang, 60, Xi''s chief of staff over past five years and previously in Shanghai'
+    zh: '丁薛祥，60岁，过去五年任习近平的“大管家”，此前在上海'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the new Director of the General Office of the Central Committee Ding Xuexiang'
+    zh: '进入政治局的（习近平派系）重要成员包括……新任中央办公厅主任丁薛祥'
+
+li-xi:
+  - f: xi-jiajun
+    cite: f02-bbc-2022-09-29-20th-five-questions
+    quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强、重庆市委书记陈敏尔、广东省委书记李希'
+  - f: shaanxi
+    cite: f02-jamestown-2018-xi-faction-regions
+    quote: 'Sub-sets of the Faction consist of cadres who have worked in his home province of Shaanxi...Li Xi served in Shaanxi from 2004 to 2011, during which he cultivated good ties Xi’s relatives in the central China province'
+    zh: '（习近平）派系的分支包括曾在其家乡陕西任职的干部……李希2004至2011年在陕西任职，期间与习近平在当地的亲属建立了良好关系'
+  - f: shaanxi
+    cite: f02-orf-2021-xi-gang
+    quote: 'The second category is Shaanxi, where Xi spent six years working in the fields during the Cultural Revolution and the most prominent leader in this group is Li Xi'
+    zh: '第二类是陕西——习近平文革时在那里务农六年——这一群体中最突出的领导人是李希'
+  - f: shaanxi
+    cite: f02-rfa-2017-10-30-li-xi
+    quote: '知情人士还说，李希与习近平的直接联系时间并不长，但其属于“陕甘宁边区派”'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the PS of Guangdong Province and Xinjiang Uyghur Autonomous Region, Li Xi and Chen Quanguo'
+    zh: '进入政治局的（习近平派系）重要成员包括……广东省委书记李希、新疆自治区党委书记陈全国'
+
+li-zhanshu:
+  - f: xi-jiajun
+    cite: f02-bbc-2017-10-25-psc
+    quote: '常委中“习家军”占了两席，分别是习近平和栗战书'
+  - f: shaanxi
+    cite: f02-brookings-2017-pb
+    quote: 'Li is also widely seen as a member of the “Shaanxi Gang,” Xi’s most important power base'
+    zh: '栗战书也被普遍视为“陕西帮”成员，这是习近平最重要的权力基础'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'Not counting PBSC members Li Zhanshu, Zhao Leji and Wang Huning, prominent faction members who have made it to the Politburo include the following'
+    zh: '不算政治局常委栗战书、赵乐际和王沪宁，进入政治局的（习近平派系）重要成员包括'
+
+zhao-leji:
+  - f: shaanxi
+    cite: f02-brookings-2017-pb
+    quote: 'Some analysts have characterized him as the “spokesperson” of Xi Jinping’s Shaanxi Gang'
+    zh: '一些分析人士称他为习近平“陕西帮”的“代言人”'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'Not counting PBSC members Li Zhanshu, Zhao Leji and Wang Huning, prominent faction members who have made it to the Politburo include the following'
+    zh: '不算政治局常委栗战书、赵乐际和王沪宁，进入政治局的（习近平派系）重要成员包括'
+
+wang-huning:
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'Not counting PBSC members Li Zhanshu, Zhao Leji and Wang Huning, prominent faction members who have made it to the Politburo include the following'
+    zh: '不算政治局常委栗战书、赵乐际和王沪宁，进入政治局的（习近平派系）重要成员包括'
+
+wang-qishan:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...Wang Qishan, a son-in-law of late vice premier Yao Yilin'
+    zh: '以下是太子党们的一些高光与低谷……王岐山，已故副总理姚依林的女婿'
+  - f: princelings
+    cite: f02-bbc-2017-11-princelings
+    quote: '十九大后，被看成习近平的左膀右臂的王岐山退出后，习近平成了新政治局7人常委中唯一的“红二代”。王岐山的岳父是中共元老姚依林'
+  - f: princelings
+    cite: f02-orf-2021-xi-gang
+    quote: 'Qishan is a princeling and had forged a close relationship with Xi during their time in Shaanxi'
+    zh: '王岐山是太子党，两人在陕西时期就结下了密切关系'
+  - f: shaanxi
+    cite: f02-orf-2021-xi-gang
+    quote: 'Qishan is a princeling and had forged a close relationship with Xi during their time in Shaanxi'
+    zh: '王岐山是太子党，两人在陕西时期就结下了密切关系'
+
+yu-zhengsheng:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...Yu Qiangsheng, an intelligence official and a son of a former party boss of Tianjin, defected to the United States in the mid-1980s...Yu’s brother, Yu Zhengsheng, however overcame the scandal to eke his way into the party’s seven-member decision-making politburo standing committee'
+    zh: '以下是太子党们的一些高光与低谷……俞强声，情报官员、天津前市委书记之子，1980年代中期叛逃美国……其弟俞正声却克服了这桩丑闻，挤进了七人政治局常委会'
+
+# --- 19th/20th Politburo ---
+chen-miner:
+  - f: xi-jiajun
+    cite: f02-bbc-2022-09-29-20th-five-questions
+    quote: '这些人被称为“之江新军”或“习家军”，包括北京市委书记蔡奇、上海市委书记李强、重庆市委书记陈敏尔'
+  - f: zhijiang
+    cite: f02-bbc-2022-10-22-20th-cc
+    quote: '重庆市委书记陈敏尔……他们被外界称为“之江新军”或“习家军”'
+  - f: zhijiang
+    cite: f02-bbc-2017-09-26-psc-candidates
+    quote: '自习近平2012年执政开始，其在浙江共事过的一批部下仕途都不断看涨，被称为“之江新军”，其中最引人关注的就是现任重庆市委书记陈敏尔'
+  - f: zhijiang
+    cite: f02-rfa-2020-11-16-zhijiang
+    quote: '习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔'
+  - f: zhijiang
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Former Xi subordinates are sometimes referred to in political circle as "Xi''s army"...Chen Miner, 62, Chongqing party chief. Xi''s propaganda chief in Zhejiang in 2000s'
+    zh: '习近平的旧部有时在政界被称为“习家军”……陈敏尔，62岁，重庆市委书记，2000年代任习在浙江的宣传部长'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following: the Party Secretaries (PS) of Chongqing, Beijing, Shanghai and Tianjin, respectively Chen Min’er, Cai Qi, Li Qiang and Li Hongzhong'
+    zh: '进入政治局的（习近平派系）重要成员包括：重庆、北京、上海、天津的党委书记陈敏尔、蔡奇、李强和李鸿忠'
+
+huang-kunming:
+  - f: zhijiang
+    cite: f02-rfa-2020-11-16-zhijiang
+    quote: '习近平当年主政浙江时期的直接政治亲信就一次安排进去了四个，除了蔡奇和黄坤明，还有李强和陈敏尔'
+  - f: fujian
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Huang Kunming, 65, head of propaganda. Worked with Xi in Fujian and Zhejiang provinces'
+    zh: '黄坤明，65岁，中宣部部长，曾与习近平在福建、浙江两省共事'
+  - f: zhijiang
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Huang Kunming, 65, head of propaganda. Worked with Xi in Fujian and Zhejiang provinces'
+    zh: '黄坤明，65岁，中宣部部长，曾与习近平在福建、浙江两省共事'
+  - f: fujian
+    cite: f02-orf-2021-xi-gang
+    quote: 'The most significant political elites to rise from Fujian include Cai Qi, now party secretary of Beijing and considered among the rising stars of the CCP, and Huang Kunming'
+    zh: '从福建崛起的最重要政治精英包括现任北京市委书记、被视为中共政坛新星之一的蔡奇，以及黄坤明'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the just-promoted heads of the Organization and Propaganda Departments, respectively Chen Xi and Huang Kunming'
+    zh: '进入政治局的（习近平派系）重要成员包括……新晋的中组部、中宣部部长陈希和黄坤明'
+
+li-hongzhong:
+  - f: xi-jiajun
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Li Hongzhong, 66, Tianjin party chief. No known long-term connection, but a close ally considered to be in "Xi''s army"'
+    zh: '李鸿忠，66岁，天津市委书记。没有已知的长期渊源，但作为亲密盟友被视为“习家军”成员'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following: the Party Secretaries (PS) of Chongqing, Beijing, Shanghai and Tianjin, respectively Chen Min’er, Cai Qi, Li Qiang and Li Hongzhong'
+    zh: '进入政治局的（习近平派系）重要成员包括：重庆、北京、上海、天津的党委书记陈敏尔、蔡奇、李强和李鸿忠'
+
+he-lifeng:
+  - f: fujian
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'He Lifeng, 65, state planner chief. Worked under Xi in Fujian province in the 1980s'
+    zh: '何立峰，65岁，国家发改委主任，1980年代在福建省做过习近平的下属'
+  - f: fujian
+    cite: f02-voa-2022-03-16-he-lifeng
+    quote: '何立峰出线的唯一资格就是他是习近平的“福建帮”亲信'
+  - f: fujian
+    cite: f02-voa-2023-11-he-lifeng
+    quote: '隶属于习近平“福建帮”人马的何立峰'
+
+li-shulei:
+  - f: xi-jiajun
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'Former Xi subordinates are sometimes referred to in political circle as "Xi''s army"...Li Shulei, 58, deputy head of propaganda. Worked for Xi at the Central Party School in late 2000s'
+    zh: '习近平的旧部有时在政界被称为“习家军”……李书磊，58岁，中宣部副部长，2000年代后期在中央党校为习工作'
+
+ying-yong:
+  - f: zhijiang
+    cite: f02-bbc-2022-10-22-20th-cc
+    quote: '全国人大宪法和法律委员会副主任委员应勇都入选了中央委员。他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属'
+
+xia-baolong:
+  - f: zhijiang
+    cite: f02-rfa-2020-11-16-zhijiang
+    quote: '现任全国政协副主席夏宝龙是习近平主政浙江时的省委副书记兼政法委书记……习近平的“之江新军”人数众多'
+
+chen-quanguo:
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the PS of Guangdong Province and Xinjiang Uyghur Autonomous Region, Li Xi and Chen Quanguo'
+    zh: '进入政治局的（习近平派系）重要成员包括……广东省委书记李希、新疆自治区党委书记陈全国'
+
+liu-he:
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...Xi’s chief adviser on economic matters, Liu He'
+    zh: '进入政治局的（习近平派系）重要成员包括……习近平的首席经济顾问刘鹤'
+  - f: princelings
+    cite: f02-orf-2021-xi-gang
+    quote: 'Some notable princelings to emerge include Zhang Youxia, a military leader and a politburo member and Liu He'
+    zh: '崛起的知名太子党包括军队领导人、政治局委员张又侠，以及刘鹤'
+
+chen-xi:
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the just-promoted heads of the Organization and Propaganda Departments, respectively Chen Xi and Huang Kunming'
+    zh: '进入政治局的（习近平派系）重要成员包括……新晋的中组部、中宣部部长陈希和黄坤明'
+  - f: qinghua
+    cite: f02-orf-2021-xi-gang
+    quote: 'categorises these politicians into seven distinct groups based on their nature of connection with Xi: princelings, Shaanxi, Tsinghua University, Hebei, Fujian, Zhejiang, and Shanghai...During Xi’s time at Tsinghua University, he established close ties with Chen Xi'
+    zh: '按与习近平的关系性质将这些政治人物分为七个群体：太子党、陕西、清华大学、河北、福建、浙江和上海……习在清华期间与陈希建立了密切关系'
+
+xu-qiliang:
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the two Vice-Chairmen of the Central Military Commission, Generals Xu Qiliang and Zhang Youxia'
+    zh: '进入政治局的（习近平派系）重要成员包括……两位中央军委副主席许其亮上将和张又侠上将'
+
+wang-xiaohong:
+  - f: fujian
+    cite: f02-rfa-2022-06-24-wang-xiaohong
+    quote: '王小洪是中共总书记习近平的福州旧部'
+
+chen-yixin:
+  - f: zhijiang
+    cite: f02-zaobao-2022-10-31-chen-yixin
+    quote: '63岁的陈一新是浙江泰顺人，是中共总书记习近平在浙江的旧部'
+
+# --- aerospace and defence-industry technocrats ---
+ma-xingrui:
+  - f: aerospace
+    cite: f02-zaobao-2022-10-24-aerospace
+    quote: '例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景……李成将这些背景的官员形容为“宇宙帮”'
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
+  - f: aerospace
+    cite: f02-bbc-2026-07-ma-xingrui
+    quote: '马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰'
+  - f: aerospace
+    cite: f02-cna-2026-07-14-ma-xingrui
+    quote: '習近平在2022年中共20大中大力提拔軍工系統人物，一口氣將4名軍工系統出身者推進政治局，包含曾任中國航天科技集團總經理的馬興瑞'
+
+yuan-jiajun:
+  - f: aerospace
+    cite: f02-zaobao-2022-10-24-aerospace
+    quote: '例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景……李成将这些背景的官员形容为“宇宙帮”'
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
+  - f: aerospace
+    cite: f02-bbc-2026-07-ma-xingrui
+    quote: '马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰'
+  - f: aerospace
+    cite: f02-cna-2026-07-14-ma-xingrui
+    quote: '一口氣將4名軍工系統出身者推進政治局，包含曾任中國航天科技集團總經理的馬興瑞，曾任中國航天科技集團副總經理、神舟飛船總指揮的袁家軍'
+
+zhang-guoqing:
+  - f: aerospace
+    cite: f02-zaobao-2022-10-24-aerospace
+    quote: '例如，新任政治局委员马兴瑞、张国清、袁家军等人都具有航天、航太或军工背景……李成将这些背景的官员形容为“宇宙帮”'
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
+  - f: aerospace
+    cite: f02-cna-2026-07-14-ma-xingrui
+    quote: '一口氣將4名軍工系統出身者推進政治局……曾任中國兵器工業集團總經理的張國清'
+  - f: aerospace
+    cite: f02-jamestown-2018-xi-faction-regions
+    quote: 'One of the most famous members of this so-called Defense-Aerospace Faction in party politics is Zhang Guoqing (born 1964)'
+    zh: '这个所谓“国防航天派”在党内政治中最著名的成员之一是张国清（1964年生）'
+
+liu-guozhong:
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
+  - f: aerospace
+    cite: f02-cna-2026-07-14-ma-xingrui
+    quote: '一口氣將4名軍工系統出身者推進政治局……曾任職中國兵器工業集團的劉國中'
+
+li-ganjie:
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    quote: '具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人'
+
+# --- the Military Commission ---
+zhang-youxia:
+  - f: princelings
+    cite: f02-taipeitimes-2026-02-05-zhang-youxia
+    quote: 'The younger Zhang and Xi, now 75 and 72, are both “princelings” — a term describing the children of revolutionary leaders who have benefitted from their family connections'
+    zh: '年轻一辈的张（又侠）与习，如今分别75岁和72岁，都是“太子党”——指受益于家庭关系的革命领导人子女'
+  - f: princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '在习近平的执政团队中，硕果仅存的“太子党”就是张又侠'
+  - f: princelings
+    cite: f02-bbc-2017-11-princelings
+    quote: '25人的政治局委员中有一位“红二代”是中央军委副主席张又侠上将'
+  - f: princelings
+    cite: f02-orf-2021-xi-gang
+    quote: 'Some notable princelings to emerge include Zhang Youxia, a military leader and a politburo member'
+    zh: '崛起的知名太子党包括军队领导人、政治局委员张又侠'
+  - f: army-princelings
+    cite: f02-dw-2026-01-zhang-youxia
+    quote: '张又侠因此被视为在军队根基深厚的“红二代”'
+  - f: army-princelings
+    cite: f02-bbc-2026-zhang-youxia-analysis
+    quote: '这位75岁的解放军最高现役将领、习近平的“红二代”陕西老乡突然倒台'
+  - f: shaanxi
+    cite: f02-voa-2024-04-princelings
+    quote: '张又侠的父亲张宗逊是习仲勋的陕西同乡……他们同属以高岗、刘志丹、习仲勋为首的“陕北帮”或者“西北帮”'
+  - f: equipment-system
+    cite: f02-bbc-2026-zhang-youxia-analysis
+    quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
+  - f: zhang-liu
+    cite: f02-zaobao-2026-01-24-zhang-liu
+    quote: '受访学者评估，张又侠和刘振立同时被官宣落马，政治问题或大于经济问题，不排除涉团团伙伙'
+  - f: xi-jiajun
+    cite: f02-jamestown-2017-emperor
+    quote: 'prominent faction members who have made it to the Politburo include the following...the two Vice-Chairmen of the Central Military Commission, Generals Xu Qiliang and Zhang Youxia'
+    zh: '进入政治局的（习近平派系）重要成员包括……两位中央军委副主席许其亮上将和张又侠上将'
+
+liu-zhenli:
+  - f: zhang-liu
+    cite: f02-zaobao-2026-01-24-zhang-liu
+    quote: '受访学者评估，张又侠和刘振立同时被官宣落马，政治问题或大于经济问题，不排除涉团团伙伙'
+
+he-weidong:
+  - f: fujian-generals
+    cite: f02-bbc-2025-10-17-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
+  - f: fujian-generals
+    cite: f02-dw-2025-10-20-nine-generals
+    quote: '何卫东曾长期在南京军区第31集团军担任要职'
+  - f: fujian-generals
+    cite: f02-reuters-2022-10-24-elites
+    quote: 'He Weidong, 65, vice chairman of the Central Military Commission. Served in a Fujian-based army unit when Xi was party chief there'
+    zh: '何卫东，65岁，中央军委副主席。习近平主政福建时曾在驻闽部队服役'
+
+miao-hua:
+  - f: fujian-generals
+    cite: f02-bbc-2025-10-17-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
+  - f: fujian-generals
+    cite: f02-dw-2025-10-20-nine-generals
+    quote: '他曾长期在驻福建的军队中担任政工干部……习近平在福建任职期间，苗华可能同习近平建立起了“密切的关系”'
+  - f: fujian-generals
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '“东南军”是指原31集团军（现陆军73集团军）……出身原31集团军的现任高级将领有中央军委委员兼军委政工部主任苗华'
+
+lin-xiangyang:
+  - f: fujian-generals
+    cite: f02-bbc-2025-10-17-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
+
+qin-shutong:
+  - f: fujian-generals
+    cite: f02-bbc-2025-10-17-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
+
+wang-xiubin:
+  - f: fujian-generals
+    cite: f02-bbc-2025-10-17-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军，31集团军军部驻福建厦门同安……“31 军”也成为习近平时代军队内部一个显著的“派系标签”'
+
+li-shangfu:
+  - f: equipment-system
+    cite: f02-dw-2026-01-zhang-youxia
+    quote: '2023年落马的前国防部长李尚福就曾任解放军总装备部副部长，并于2017年9月接任中央军委装备发展部部长'
+  - f: equipment-system
+    cite: f02-bbc-2026-zhang-youxia-analysis
+    quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
+  - f: rocket-equipment
+    cite: f02-zaobao-2024-06-27-li-wei
+    quote: '有消息指李尚福牵涉火箭军以及部分军工企业高层窝案，被立案调查'
+
+wei-fenghe:
+  - f: rocket-equipment
+    cite: f02-zaobao-2024-06-27-li-wei
+    quote: '分析人士指出，从官方对李尚福、魏凤和案件的定性看，两人案件可能有关联之处……这显示魏凤和可能在他主管火箭军以及担任中央军委委员、国务委员兼国防部长期间，违规提拔火箭军高官，甚至推荐李尚福接替自己职位'
+
+li-yuchao:
+  - f: rocket-equipment
+    cite: f02-zaobao-2024-06-27-li-wei
+    quote: '2023年12月，中国全国人大常委会罢免涉嫌严重违纪违法的九名军方高级将领的全国人大代表资格，其中包括火箭军两任司令员李玉超、周亚宁等火箭军将领'
+
+# --- other princelings ---
+bo-xilai:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...Bo Xilai, a son of late vice premier Bo Yibo, was voted out'
+    zh: '以下是太子党们的一些高光与低谷……薄熙来，已故副总理薄一波之子，（在十五大中央委员选举中）落选'
+  - f: new-gang-of-four
+    cite: f02-bbc-2014-12-22-ling-jihua
+    quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
+  - f: new-gang-of-four
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: '周永康为首的周、令、薄、徐‘新四人帮’，是中共1949年建政以来真正的朋党政变集团'
+
+liu-yuan:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...General Liu Yuan, political commissar of the People’s Liberation Army’s General Logistics Department and a son of late president Liu Shaoqi'
+    zh: '以下是太子党们的一些高光与低谷……刘源上将，解放军总后勤部政委，已故国家主席刘少奇之子'
+  - f: army-princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物'
+
+liu-yazhou:
+  - f: army-princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '刘亚洲本身就是“红二代”，而且可说是前中国国家主席李先念的“乘龙快婿”'
+
+li-xiaopeng:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    quote: 'Below are some of the high and low points of the princelings...Li Xiaopeng, 53, a son of former premier and parliament chief Li Peng'
+    zh: '以下是太子党们的一些高光与低谷……李小鹏，53岁，前总理、前全国人大委员长李鹏之子'
+
+# --- the fallen: Zhou Yongkang, Ling Jihua, Bo Xilai, Guo–Xu ---
+zhou-yongkang:
+  - f: zhou-clique
+    cite: f02-bjnews-2015-10-14-zhou-disciples
+    quote: '其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙'
+  - f: new-gang-of-four
+    cite: f02-bbc-2014-12-22-ling-jihua
+    quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
+  - f: new-gang-of-four
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: '周永康为首的周、令、薄、徐‘新四人帮’，是中共1949年建政以来真正的朋党政变集团'
+  - f: jiang-shanghai
+    cite: f02-nytcn-2018-10-24-meng-hongwei
+    quote: '周永康是前中共中央总书记江泽民的门生，江泽民被认为是中国国家主席习近平的劲敌'
+
+ling-jihua:
+  - f: new-gang-of-four
+    cite: f02-bbc-2014-12-22-ling-jihua
+    quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
+  - f: new-gang-of-four
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: '周永康为首的周、令、薄、徐‘新四人帮’，是中共1949年建政以来真正的朋党政变集团'
+  - f: xishanhui
+    cite: f02-hqrw-2015-01-06-xishanhui
+    quote: '多家媒体称，令计划正是“西山会”的“执牛耳者”'
+
+liu-tienan:
+  - f: xishanhui
+    cite: f02-hqrw-2015-01-06-xishanhui
+    quote: '多家媒体称，令计划正是“西山会”的“执牛耳者”，其他成员还包括令计划兄长、山西省政协原副主席令政策，山西省委原常委、太原市委原书记陈川平，铁道部原部长刘志军，女富豪丁书苗，国家发改委原副主任刘铁男'
+
+li-chuncheng:
+  - f: zhou-clique
+    cite: f02-bbc-2014-02-26-zhou-watch
+    quote: '周永康在四川、石油和政法、国安系统的党羽亲信纷纷因“严重违纪”而下台受调查……这些落马高级官员包括所谓“四川帮”的前四川省高官李春城'
+  - f: zhou-clique
+    cite: f02-bjnews-2015-10-14-zhou-disciples
+    quote: '李东生、郭永祥、王永春、蒋洁敏、李春城、冀文林等，为四川系、石油系、政法系、秘书帮的重要成员'
+
+jiang-jiemin:
+  - f: zhou-clique
+    cite: f02-bbc-2014-02-26-zhou-watch
+    quote: '周永康在四川、石油和政法、国安系统的党羽亲信纷纷因“严重违纪”而下台受调查……“中油帮”的高官蒋洁敏'
+  - f: zhou-clique
+    cite: f02-bjnews-2015-10-14-zhou-disciples
+    quote: '李东生、郭永祥、王永春、蒋洁敏、李春城、冀文林等，为四川系、石油系、政法系、秘书帮的重要成员'
+
+li-dongsheng:
+  - f: zhou-clique
+    cite: f02-bbc-2014-02-26-zhou-watch
+    quote: '周永康在四川、石油和政法、国安系统的党羽亲信纷纷因“严重违纪”而下台受调查……“政法国安帮”高官梁克、李东生'
+  - f: zhou-clique
+    cite: f02-bjnews-2015-10-14-zhou-disciples
+    quote: '李东生、郭永祥、王永春、蒋洁敏、李春城、冀文林等，为四川系、石油系、政法系、秘书帮的重要成员'
+
+zhou-benshun:
+  - f: zhou-clique
+    cite: f02-bjnews-2015-10-14-zhou-disciples
+    quote: '周本顺也曾是周永康政法系统的“身边人”'
+
+qin-guangrong:
+  - f: zhou-clique
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: '原云南省委书记秦光荣被免职，实际上是与周案经济上政治上有关系'
+
+meng-hongwei:
+  - f: zhou-clique
+    cite: f02-nytcn-2018-10-24-meng-hongwei
+    quote: '他有罪的更多证据是他与名誉扫地的前政治局常委周永康有牵连……孟宏伟是在周永康担任公安部部长期间被提拔到最后那个职位上的'
+
+wang-jianping:
+  - f: zhou-clique
+    cite: f02-bbc-2016-08-26-wang-jianping
+    quote: '他是已落马的前中央政法委书记周永康亲信'
+  - f: guo-xu
+    cite: f02-bbc-2016-08-26-wang-jianping
+    quote: '第二个消息来源表示，王建平是周永康、郭伯雄和徐才厚的属下共犯'
+
+xu-caihou:
+  - f: guo-xu
+    cite: f02-rmrb-2020-12-03-guo-xu
+    quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
+  - f: new-gang-of-four
+    cite: f02-bbc-2014-12-22-ling-jihua
+    quote: '在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”'
+  - f: new-gang-of-four
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: '周永康为首的周、令、薄、徐‘新四人帮’，是中共1949年建政以来真正的朋党政变集团'
+
+guo-boxiong:
+  - f: guo-xu
+    cite: f02-rmrb-2020-12-03-guo-xu
+    quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
+  - f: northwest-army
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '与郭伯雄、徐才厚代表的西北军（原兰州军区）、东北军（原沈阳军区）的没落形成鲜明对照'
+
+fang-fenghui:
+  - f: guo-xu
+    cite: f02-rmrb-2020-12-03-guo-xu
+    quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
+  - f: guo-xu
+    cite: f02-zaobao-2018-01-10-fang-fenghui
+    quote: '据悉，房峰辉是郭伯雄的老乡兼旧部，张阳则是徐才厚的嫡系'
+
+zhang-yang:
+  - f: guo-xu
+    cite: f02-rmrb-2020-12-03-guo-xu
+    quote: '全面彻底肃清郭伯雄、徐才厚、房峰辉、张阳流毒影响'
+  - f: guo-xu
+    cite: f02-zaobao-2018-01-10-fang-fenghui
+    quote: '据悉，房峰辉是郭伯雄的老乡兼旧部，张阳则是徐才厚的嫡系'
+  - f: guo-xu
+    cite: f02-bbc-2017-11-28-zhang-yang
+    quote: '报道形容张阳为“徐才厚的嫡系”'
+
+gu-junshan:
+  - f: guo-xu
+    cite: f02-bbc-2015-08-10-gu-junshan
+    quote: '谷俊山與中央軍委前副主席徐才厚關係密切'
+
+tian-xiusi:
+  - f: guo-xu
+    cite: f02-zaobao-2016-07-09-tian-xiusi
+    quote: '香港《南华早报》指田修思是已落马的郭伯雄与徐才厚的亲信'

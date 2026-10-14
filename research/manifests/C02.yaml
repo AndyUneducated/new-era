@@ -1,0 +1,519 @@
+# C02 dossier cards: 18th-20th Politburo, Secretariat and Military Commission members.
+web:
+  # --- resumes published at each congress (full text, official) ---
+  - id: c02-cyol-2012-11-16-18th-cvs
+    title: 中共十八届中央领导机构成员简历
+    publisher: 新华社（中国青年报转载）
+    date: 2012-11-15
+    voice: official
+    url: https://zqb.cyol.com/html/2012-11/16/nw.D110000zgqnb_20121116_1-03.htm
+    start: 习近平同志简历
+    end: （新华社北京11月15日电）
+  - id: c02-gov-2017-10-25-19th-cvs
+    title: 中共十九届中央领导机构成员简历
+    publisher: 新华社（中国政府网）
+    date: 2017-10-25
+    voice: official
+    url: https://www.gov.cn/zhuanti/2017-10/25/content_5234457.htm
+    start: 习近平同志简历
+    end: 第十七届中央候补委员，十八届、十九届中央委员，十九届中央书记处书记。
+  - id: c02-gov-2022-10-23-20th-cvs
+    title: 中共二十届中央领导机构成员简历
+    publisher: 新华社（中国政府网）
+    date: 2022-10-23
+    voice: official
+    url: https://www.gov.cn/xinwen/2022-10/23/content_5721019.htm
+    start: 新华社北京10月23日电
+    end: 中央政法委员会副书记，总警监。
+  - id: c02-gov-2018-03-19-wei-fenghe-cv
+    title: 魏凤和同志简历
+    publisher: 新华社（中国政府网，Wayback 存档）
+    date: 2018-03-19
+    voice: official
+    url: https://web.archive.org/web/20200713223527/http://www.gov.cn/guoqing/2018-03/19/content_5275628.htm
+    start: 魏凤和，男，汉族
+    end: （更新时间：2018年3月19日）
+  # --- appointments ---
+  - id: c02-sina-2012-10-25-pla-hq
+    title: 解放军四总部领导调整：房峰辉任总参谋长
+    publisher: 中国军网（新浪军事转载）
+    date: 2012-10-25
+    voice: official
+    url: http://mil.news.sina.com.cn/2012-10-25/1109704743.html
+    start: 中国军网北京10月25日电据中华人民共和国国防部网最新信息披露，房峰辉
+    end: 总装备部部长已更新为张又侠(上将)。
+  - id: c02-caixin-2012-10-23-pla-reshuffle
+    title: 军队调整多名高级将领职务
+    publisher: 财新网
+    date: 2012-10-23
+    voice: zh
+    url: https://china.caixin.com/2012-10-23/100454093.html
+    excerpt: true
+    keep: [原副总参谋长马晓天任空军司令员]
+  - id: c02-xinhua-2013-03-15-npc-cmc
+    title: 常万全、房峰辉、张阳、赵克石、张又侠、吴胜利、马晓天、魏凤和为中央军委委员
+    publisher: 新华社（Wayback 存档）
+    date: 2013-03-15
+    voice: official
+    url: https://web.archive.org/web/20130518192534/http://news.xinhuanet.com/2013lh/2013-03/15/c_132235398.htm
+    start: 3月15日（星期五）上午9时
+    end: 中华人民共和国中央军事委员会委员。
+  - id: c02-chinanews-2013-03-16-state-council
+    title: 中华人民共和国主席令（第二号）
+    publisher: 新华社（中国新闻网）
+    date: 2013-03-16
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2013/03-16/4649801.shtml
+    start: 中华人民共和国主席令
+    end: 2013年3月16日
+  - id: c02-gov-2018-03-14-cppcc-leaders
+    title: 政协第十三届全国委员会选出领导人
+    publisher: 新华社（中国政府网）
+    date: 2018-03-14
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-03/14/content_5274181.htm
+    start: 新华社北京3月14日电
+    end: 高云龙。
+  - id: c02-xinhua-2018-03-17-npc-leaders
+    title: 十三届全国人大一次会议选举产生新一届国家领导人
+    publisher: 新华社
+    date: 2018-03-17
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018lh/2018-03/17/c_1122550851.htm
+    start: 新华社北京3月17日电
+    end: 全国人民代表大会常务委员会副委员长。
+  - id: c02-rmzxw-2018-03-19-state-council
+    title: 中华人民共和国主席令（第二号）
+    publisher: 新华社（人民政协网）
+    date: 2018-03-19
+    voice: official
+    url: https://www.rmzxw.com.cn/c/2018-03-19/1999254.shtml
+    start: 新华社北京3月19日电
+    end: 2018年3月19日（完）
+  - id: c02-gov-2023-03-10-npc-leaders
+    title: 十四届全国人大一次会议选举产生新一届国家领导人
+    publisher: 新华社（中国政府网）
+    date: 2023-03-10
+    voice: official
+    url: https://www.gov.cn/xinwen/2023-03/10/content_5745910.htm
+    start: 新华社北京3月10日电
+    end: 全国人民代表大会常务委员会副委员长。
+  # --- falls ---
+  - id: c02-xinhua-2017-11-28-zhang-yang
+    title: 张阳自杀身亡
+    publisher: 新华社
+    date: 2017-11-28
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-11/28/c_1122023059.htm
+    start: 新华社北京11月28日电
+    end: 张阳在家中自缢死亡。
+  - id: c02-gov-2018-02-24-yang-jing
+    title: 杨晶因严重违纪受到留党察看一年、行政撤职处分
+    publisher: 新华社（中国政府网）
+    date: 2018-02-24
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-02/24/content_5268484.htm
+    start: 新华社北京2月24日电
+    end: 按程序办理。
+  - id: c02-xinhua-2018-10-16-fang-fenghui
+    title: 中共中央决定给予房峰辉开除党籍处分 将房峰辉涉嫌严重违法犯罪案移送审查起诉
+    publisher: 新华社
+    date: 2018-10-16
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018-10/16/c_1123567979.htm
+    start: 新华社北京10月16日电
+    end: 取消其上将军衔。
+  - id: c02-court-2019-02-20-fang-fenghui
+    title: 中央军委联合参谋部原参谋长房峰辉被判无期
+    publisher: 新华社（最高人民法院网）
+    date: 2019-02-20
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/142652.html
+    start: 2019年2月20日，军事法院
+    end: 追缴的赃款赃物上缴国库。
+  # --- 2023 and 2025 Organization / United Front moves ---
+  - id: c02-zaobao-2023-04-26-li-ganjie
+    title: 二十大后中共高层人事调整收官 李干杰接替陈希出掌中组部
+    publisher: 联合早报
+    date: 2023-04-26
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230426-1387678
+    excerpt: true
+    keep: [李干杰正式接替陈希, 这是官媒首次披露李干杰中组部部长的身份]
+  - id: c02-zaobao-2025-04-03-shi-li-swap
+    title: 中共高层出现罕见人事调整 中组部统战部对调一把手
+    publisher: 联合早报
+    date: 2025-04-03
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20250403-6109102
+    excerpt: true
+    keep: [两大职能部门对调一把手, 星期一（3月31日）召开会议, 石泰峰曾在中共中央党校工作长达25年, 2017年任宁夏回族自治区党委书记, 他在隔年3月出任全国政协第一副主席, 2008年出任环保部副部长]
+  - id: c02-cna-2025-04-02-shi-li-swap
+    title: 中共官方證實 石泰峰李干杰部長職務對調
+    publisher: 中央社
+    date: 2025-04-02
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202504020353.aspx
+    excerpt: true
+    keep: [擁有中共中央政治局委員身分的石泰峰、李干杰兩人職務對調, 成為首名與中組部長、中宣部長平起平坐的中央統戰部長]
+  # --- 2026 activity reports confirming current posts ---
+  - id: c02-xinhua-2026-09-05-apac-media
+    title: 亚太媒体高端论坛在深圳举办 李书磊出席开幕式并发表主旨演讲
+    publisher: 新华社
+    date: 2026-09-05
+    voice: official
+    url: https://www.news.cn/politics/leaders/20260905/472ea844b2d14e448f9f7ecdd6b1ce0c/c.html
+    start: 新华社深圳9月5日电
+    end: 黄坤明出席并致辞。
+  - id: c02-cyol-2026-09-23-beijing-forum
+    title: 2026北京文化论坛开幕 李书磊出席并发表主旨演讲
+    publisher: 新华社（中国青年报转载）
+    date: 2026-09-22
+    voice: official
+    url: https://zqb.cyol.com/pc/content/202609/23/content_431105.html
+    start: 新华社北京9月22日电
+    end: 北京市委书记尹力出席并致辞。
+  - id: c02-tjnews-2026-10-13-chen-miner
+    title: 陈敏尔会见出席2026年国际议员友好交流论坛的各国议员
+    publisher: 天津日报（新华网天津频道）
+    date: 2026-10-13
+    voice: official
+    url: http://tj.news.cn/20261013/9317bed951654e029baa91851701d784/c.html
+    start: 10月12日，市委书记陈敏尔
+    end: 预祝论坛取得圆满成功。
+  - id: c02-cqnews-2026-09-19-yuan-jiajun
+    title: 市委常委会举行扩大会议 市委书记袁家军主持并讲话
+    publisher: 重庆日报（新华网重庆频道）
+    date: 2026-09-19
+    voice: official
+    url: http://cq.news.cn/20260919/2bb2ff5f74ef4032aba0bdf6a4ee8ca1/c.html
+    start: 9月18日下午，市委常委会举行扩大会议
+    end: 市委书记袁家军主持会议并讲话。
+  - id: c02-shgov-2026-09-08-chen-jining
+    title: 陈吉宁主持市委常委会扩大会议暨市委党的建设工作领导小组会议
+    publisher: 解放日报（上海市政府网）
+    date: 2026-09-08
+    voice: official
+    url: https://www.shanghai.gov.cn/nw4411/20260908/e073bcc8c7c446f38e26ccb46eec7bdf.html
+    start: 市委常委会扩大会议暨市委党的建设工作领导小组会议昨天举行
+    end: 陈吉宁主持会议并讲话。
+  - id: c02-court-2026-01-19-zhengfa-meeting
+    title: 中央政法工作会议在京召开 陈文清出席会议并讲话
+    publisher: 新华社（最高人民法院知识产权法庭网）
+    date: 2026-01-19
+    voice: official
+    url: https://ipc.court.gov.cn/zh-cn/news/view-5273.html
+    start: 新华社北京1月19日电
+    end: 张军、应勇出席会议。
+  - id: c02-gov-2026-09-10-wang-xiaohong
+    title: 全球公共安全合作论坛（连云港）2026年大会举行 王小洪出席并致辞
+    publisher: 新华社（中国政府网）
+    date: 2026-09-09
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7080578.htm
+    start: 新华社南京9月9日电
+    end: 王小洪出席并致辞。
+  - id: c02-gov-2026-09-22-wang-xiaohong
+    title: 王小洪在全国公安机关视频会议上强调 坚决扛牢守百姓幸福护家国平安重任
+    publisher: 新华社（中国政府网）
+    date: 2026-09-22
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7081810.htm
+    start: 新华社北京9月22日电
+    end: 王小洪出席并讲话。
+  - id: c02-zmdsjw-2026-08-27-liu-jinguo
+    title: 中央纪委国家监委机关第二次党员代表大会召开 刘金国出席会议并讲话
+    publisher: 中央纪委国家监委网站（驻马店市纪委监委网转载）
+    date: 2026-08-26
+    voice: official
+    url: http://www.zmdsjw.gov.cn/sitesources/zmdjw/page_pc/lzyw/xwtt/article20300e7d38d446bcac9d75a04cc2f2f8.html
+    start: 8月26日，中国共产党中央纪委国家监委机关第二次党员代表大会召开
+    end: 刘金国出席会议并讲话。
+  - id: c02-gov-2026-09-22-zhang-guoqing
+    title: 张国清出席2026年全国食品安全宣传周主场活动
+    publisher: 新华社（中国政府网）
+    date: 2026-09-22
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7081767.htm
+    start: 新华社北京9月22日电
+    end: 国务院副总理张国清出席并讲话。
+  - id: c02-gov-2026-09-23-liu-guozhong
+    title: 刘国中出席2026年中国农民丰收节全国主场活动
+    publisher: 新华社（中国政府网）
+    date: 2026-09-23
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7081893.htm
+    start: 新华社武汉9月23日电
+    end: 并出席2026年中国农民丰收节全国主场活动。
+  - id: c02-people-2026-09-24-li-hongzhong
+    title: 李鸿忠在粮食安全保障法执法检查组会议上强调 推动法律全面有效实施
+    publisher: 新华社（中国共产党新闻网）
+    date: 2026-09-24
+    voice: official
+    url: https://cpc.people.com.cn/n1/2026/0924/c64094-40805246.html
+    start: 新华社北京9月24日电
+    end: 第二次全体会议并讲话。
+  - id: c02-xinhua-2026-09-18-shi-taifeng
+    title: 石泰峰在学习贯彻习近平关于基层工作方法的重要论述座谈会上强调
+    publisher: 新华社
+    date: 2026-09-18
+    voice: official
+    url: https://www.news.cn/politics/leaders/20260918/cbbcc08176794d7ea8928da83bc38c15/c.html
+    start: 新华社北京9月18日电
+    end: 中央组织部部长石泰峰出席会议并讲话
+  - id: c02-zytzb-2026-09-22-li-ganjie
+    title: 2026年民族团结进步宣传周主场活动在京举行 李干杰出席并宣布宣传周启动
+    publisher: 新华社（中央统战部网站）
+    date: 2026-09-21
+    voice: official
+    url: https://www.zytzb.gov.cn/zytzb/2026-09/22/article_15924.shtml
+    start: 新华社北京9月21日电
+    end: 出席并宣布宣传周启动。
+  # --- media and scholars (excerpts) ---
+  - id: c02-chubun-2008-09-04-meng-jianzhu
+    title: 新任公安部长孟建柱其人其事
+    publisher: 中文导报（日本，Wayback 存档）
+    date: 2008-09-04
+    voice: japan
+    url: https://web.archive.org/web/20170918202319/http://www.chubun.com/modules/article/view.article.php/c95/83209
+    excerpt: true
+    keep: [被排挤到江西的, 1986年，他年近, 2001年4月他被任命为江西省委委员]
+  - id: c02-jiia-2019-04-huang-kunming
+    title: 中国新指導部の"プロファイリング"⑧：黄坤明 習近平の宣伝部長
+    publisher: 日本国際問題研究所（JIIA）China Report Vol. 39
+    date: 2019-04
+    voice: scholar
+    lang: ja
+    url: http://www.jiia.or.jp/column/ChinaReport39.html
+    excerpt: true
+    keep: [湖州市長（2000-2003, 黄坤明は陳敏爾や蔡奇と並んで, 「閩江旧部」の一員, 2013年に中央宣伝部副部長として北京に移り]
+  - id: c02-zaobao-2022-11-11-li-shulei
+    title: 新任中宣部部长发出正面信号 李书磊鼓励解放思想发扬学术艺术民主
+    publisher: 联合早报
+    date: 2022-11-11
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221111-1331915
+    excerpt: true
+    keep: [文胆, 2014年，李书磊调任中共福建省委常委]
+  - id: c02-sun-2012-11-28-liu-qibao
+    title: 鐵筆錚錚：團派拿下宣傳陣地
+    publisher: 太陽報（香港）
+    date: 2012-11-28
+    voice: zh
+    url: http://the-sun.on.cc/cnt/news/20121128/00418_004.html
+    excerpt: true
+    keep: [團派大將]
+  # --- encyclopedic fallback for careers not in the official resumes ---
+  - id: c02-wiki-fang-fenghui
+    title: 房峰辉（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/房峰辉
+    excerpt: true
+    keep: [2007年7月，调升北京军区司令员, 2015年11月，任新成立的中央军委联合参谋部首任参谋长]
+  - id: c02-wiki-zhang-yang
+    title: 张阳（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/张阳_(上将)
+    excerpt: true
+    keep: [2004年12月，任广州军区政治部主任, 2007年9月，任广州军区政治委员, 2015年11月，任新组建的中央军事委员会政治工作部首任主任]
+  - id: c02-wiki-zhao-keshi
+    title: 赵克石（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/赵克石
+    excerpt: true
+    keep: [2007年中，任南京军区司令员]
+  - id: c02-wiki-ma-xiaotian
+    title: 马晓天（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/马晓天
+    excerpt: true
+    keep: [2007年9月，任中国人民解放军副总参谋长, 2018年3月退休]
+  - id: c02-wiki-li-zuocheng
+    title: 李作成（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/李作成
+    excerpt: true
+    keep: [1998年4月，李作成升任第41集团军军长, 2013年7月，非中央委员, 2015年12月31日，出任新成立]
+  - id: c02-wiki-fan-changlong
+    title: 范长龙（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/范长龙
+    excerpt: true
+    keep: [2004年9月，转任济南军区司令员, 范长龙在十三届全国人大一次会议后卸任]
+  - id: c02-wiki-yin-li
+    title: 尹力（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/尹力_(1962年)
+    excerpt: true
+    keep: [2012年2月任国家食品药品监督管理局, 2015年3月，任中共四川省委专职副书记, 中共中央决定尹力调任中共福建省委书记, 尹力卸任福建省委书记]
+  - id: c02-wiki-zhang-guoqing
+    title: 张国清（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/张国清
+    excerpt: true
+    keep: [2008年10月，升任兵工集团总经理, 2013年4月，调任中共重庆市委副书记, 2018年1月2日，任天津市代市长, 2020年9月1日，任中共辽宁省委书记, 张国清在十四届全国人大一次会议上当选国务院副总理]
+  - id: c02-wiki-liu-guozhong
+    title: 刘国中（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/刘国中
+    excerpt: true
+    keep: [2004年，任中共鹤岗市委书记, 2016年12月，任中共吉林省委副书记, 2020年7月，接替胡和平, 2023年3月12日，获任命为国务院副总理]
+  - id: c02-wiki-chen-wenqing
+    title: 陈文清（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/陈文清
+    excerpt: true
+    keep: [2006年8月，任中共福建省委常委, 2012年11月，被增选为, 2016年11月7日，任国家安全部部长, 陈文清接替退休的郭声琨]
+  - id: c02-wiki-chen-jining
+    title: 陈吉宁（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/陈吉宁
+    excerpt: true
+    keep: [2012年2月任清华大学校长, 2015年1月28日, 2017年5月27日，陈吉宁被任命为, 陈吉宁接替晋升政治局常委的李强]
+  - id: c02-wiki-yuan-jiajun
+    title: 袁家军（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/袁家军
+    excerpt: true
+    keep: [2007年11月，任中国航天科技集团公司副总经理, 2012年3月，下放地方, 2017年4月28日，任浙江省人民政府, 2020年8月31日，升任中共浙江省委书记, 接替调任天津市委书记的陈敏尔]
+  - id: c02-wiki-liu-jinguo
+    title: 刘金国（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/刘金国
+    excerpt: true
+    keep: [2002年1月，出任中共河北省委政法委书记, 2005年3月，50岁的刘金国, 2014年1月，58岁的刘金国出任, 被增选为中纪委常委、副书记, 刘金国在十四届全国人大一次会议上接替杨晓渡]
+  - id: c02-wiki-wang-xiaohong
+    title: 王小洪（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/王小洪
+    excerpt: true
+    keep: [1993年8月，任福州市公安局副局长, 2013年8月，任河南省人民政府省长助理, 2015年3月26日，任北京市人民政府副市长, 2022年6月24日，担任公安部部长]
+  # --- plenum communiqués and lineups (same texts as other batches, registered for C02) ---
+  - id: c02-xinhua-2012-11-15-18-1-plenum
+    title: 中国共产党第十八届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2012-11-15
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十八届中央委员会第一次全体会议公报
+    start: 中国共产党第十八届中央委员会第一次全体会议，于
+    end: 崔少鹏
+  - id: c02-xinhua-2017-10-25-19-1-plenum
+    title: 中国共产党第十九届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2017-10-25
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第十九届中央委员会第一次全体会议公报
+    start: （2017年10月25日中国共产党第十九届中央委员会第一次全体会议通过）
+    end: 凌激 崔鹏
+  - id: c02-xinhua-2022-10-23-20-1-plenum
+    title: 中国共产党第二十届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2022-10-23
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第一次全体会议公报
+    start: 中国共产党第二十届中央委员会第一次全体会议，于2022年10月23日
+    end: 穆红玉（女）
+  - id: c02-gov-2018-03-19-state-council-history
+    title: 历届国务院领导机构
+    publisher: 中国政府网
+    date: 2018-03-19
+    voice: official
+    url: https://www.gov.cn/guoqing/2018-03/19/content_5275549.htm
+    start: "2023年3月-今"
+    end: "(1949年10月19日中央人民政府委员会第三次会议通过任命)"
+  - id: c02-xinhua-2026-09-24-cppcc-chairs
+    title: 王沪宁主持召开全国政协主席会议
+    publisher: 新华社
+    date: 2026-09-24
+    voice: official
+    url: https://www.news.cn/politics/leaders/20260924/02fcb42c590f4cf7b16abacda2dd25d2/c.html
+    start: 新华社北京9月24日电
+    end: 秦博勇、朱永新、杨震出席会议。
+  - id: c02-gov-2024-06-27-wei-fenghe-expelled
+    title: 中央军委原委员、原国务委员兼国防部长魏凤和受到开除党籍处分
+    publisher: 新华社（中国政府网）
+    date: 2024-06-27
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202406/content_6959716.htm
+    start: 新华社北京6月27日电
+    end: 取消其火箭军上将军衔。
+  - id: c02-gov-2026-05-07-wei-fenghe-sentenced
+    title: 魏凤和案、李尚福案一审宣判
+    publisher: 中国政府网（新华社）
+    date: 2026-05-07
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202605/content_7067998.htm
+    start: 新华社北京5月7日电
+    end: 【我要纠错】
+  # --- faction labels (media) ---
+  - id: c02-zaobao-2018-01-10-fang-fenghui
+    title: 星岛：涉贿房峰辉是郭伯雄老乡兼旧部 习近平亲自下令调查
+    publisher: 联合早报
+    date: 2018-01-10
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20180110-825765
+    excerpt: true
+    keep: [老乡兼旧部]
+  - id: c02-rfa-2019-02-22-shaanxi
+    title: 赵乐际二十大上还有前途吗？（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2019-02-22
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02222019144012.html
+    excerpt: true
+    keep: [陕籍上将]
+  - id: c02-rfa-2020-11-16-zhijiang
+    title: 夜话中南海：习近平的“之江新军”原来是这样炼成的
+    publisher: 自由亚洲电台
+    date: 2020-11-16
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-11162020163832.html
+    excerpt: true
+    keep: [直接政治亲信]
+  - id: c02-rfa-2022-06-24-wang-xiaohong
+    title: 握紧“刀把子” 习近平旧部王小洪将任中国公安部长
+    publisher: 自由亚洲电台
+    date: 2022-06-24
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/4-06242022111728.html
+    excerpt: true
+    keep: [福州旧部]
+  - id: c02-zaobao-2022-10-24-aerospace
+    title: 新型态技术官僚获重用 航天航太军工干部密集进入中共高层
+    publisher: 联合早报
+    date: 2022-10-24
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221024-1325900
+    excerpt: true
+    keep: [张国清、袁家军等人都具有]
+  - id: c02-rfa-2023-02-13-jungong
+    title: 夜话中南海：张庆伟为何输给了自己的老部下马兴瑞和袁家军？
+    publisher: 自由亚洲电台
+    date: 2023-02-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-02132023162856.html
+    excerpt: true
+    keep: [具体指的是, 多少有些牵强]
+  - id: c02-zaobao-2024-06-27-li-wei
+    title: 李尚福、魏凤和被开除中共党籍 料难逃牢狱之灾
+    publisher: 联合早报
+    date: 2024-06-27
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240627-3988273
+    excerpt: true
+    keep: [违规提拔火箭军高官]

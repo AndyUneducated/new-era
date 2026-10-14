@@ -1,0 +1,121 @@
+# person id → quotes. Every text is checked verbatim against its cite.
+zhou-yongkang:
+  - text: 我接受检方指控，基本事实清楚，我表示认罪悔罪；有关人员对我家人的贿赂，实际上是冲着我的权力来的，我应负主要责任
+    cite: b03-xinhua-2015-06-11-zhou-verdict
+    kind: public
+    date: 2015-05-22
+    occasion: 天津市第一中级人民法院庭审中的最后陈述（新华社报道）
+    star: true
+  - text: 社会管理，说到底是对人的管理和服务。
+    cite: b03-xatu-2011-05-01-zhou-qiushi
+    kind: public
+    date: 2011-02-20
+    occasion: 省部级主要领导干部社会管理及其创新专题研讨班讲话（《求是》2011 年第 9 期）
+  - text: 建立以公民身份号码为唯一代码的国家人口基础信息库，实现对所有人口底数清、情况明、管得住、服务好
+    cite: b03-xatu-2011-05-01-zhou-qiushi
+    kind: public
+    date: 2011-02-20
+    occasion: 同一篇讲话，谈实有人口动态管理
+  - text: 打击、铲除黑恶势力，是让老百姓过上安定日子的‘民心工程’
+    cite: b03-bbc-2015-06-11-zhou-profile
+    kind: public
+    date: 2010
+    occasion: 视察重庆、评价“打黑”（BBC 中文网转述）
+
+luo-gan:
+  - text: 有效防范敌对势力和别有用心的人插手和利用人民内部矛盾问题制造事端，打着“维权”幌子进行破坏活动，利用“法轮功”等邪教组织捣乱滋事
+    cite: b03-reformdata-2006-luo-qiushi
+    kind: public
+    date: 2006-04-11
+    occasion: 社会主义法治理念研讨班讲话
+    star: true
+  - text: 社会主义法治理念可以概括为依法治国、执法为民、公平正义、服务大局、党的领导五个方面的内容
+    cite: b03-reformdata-2006-luo-qiushi
+    kind: public
+    date: 2006-04-11
+    occasion: 社会主义法治理念研讨班讲话
+  - text: 也有一些别有用心的人，企图打着依法治国的幌子否定党对政法工作的领导，打着司法改革的旗号否定社会主义制度
+    cite: b03-reformdata-2006-luo-qiushi
+    kind: public
+    date: 2006-04-11
+    occasion: 社会主义法治理念研讨班讲话
+  - text: 什么犯罪突出，就重点打击什么犯罪，什么问题突出就重点解决什么问题
+    cite: b03-reformdata-2006-luo-qiushi
+    kind: public
+    date: 2006-04-11
+    occasion: 社会主义法治理念研讨班讲话，谈“严打”方针
+  - text: 政法干警既是党的忠诚卫士，人民的忠诚卫士，也是法律的忠诚卫士。
+    cite: b03-reformdata-2006-luo-qiushi
+    kind: public
+    date: 2006-04-11
+    occasion: 社会主义法治理念研讨班讲话
+
+li-changchun:
+  - text: 传播力决定影响力。当今时代，谁的传播手段先进、传播能力强大，谁的思想文化和价值观念就能更广泛地流传，谁就能更有力地影响世界。
+    cite: b03-gmw-2008-12-23-li-cctv
+    kind: public
+    date: 2008-12-20
+    occasion: 中央电视台建台 50 周年大会讲话
+    star: true
+  - text: 谁占领了新兴媒体阵地，谁的传播手段就更先进、传播能力就更强大
+    cite: b03-cntv-2009-12-28-li-cntv
+    kind: public
+    date: 2009-12-28
+    occasion: 中国网络电视台开播仪式
+  - text: 增强辨别是非的能力，自觉抵御西方敌对势力对我实施西化分化的政治图谋
+    cite: b03-bbc-2009-11-09-li-journalists
+    kind: public
+    date: 2009-11-08
+    occasion: 记者节，对新闻工作者的要求（BBC 中文网转述）
+  - text: 是党和人民完全可以信赖的优秀队伍
+    cite: b03-gmw-2008-12-23-li-cctv
+    kind: public
+    date: 2008-12-20
+    occasion: 中央电视台建台 50 周年大会讲话，评价央视队伍
+
+he-guoqiang:
+  - text: “惩前毖后”，惩前是为了毖后；“治病救人”，治病是为了救人。
+    cite: b03-12371-2014-01-04-he-cases
+    kind: public
+    occasion: 全国查办案件工作会议讲话（《党建研究》转载）
+    star: true
+  - text: 不管是什么人，不论职务多高，只要搞腐败，就要一查到底，决不姑息，决不手软
+    cite: b03-12371-2014-01-04-he-cases
+    kind: public
+    occasion: 全国查办案件工作会议讲话
+  - text: 不该去的地方坚决不去，不该吃的饭坚决不吃，不该说的话坚决不说
+    cite: b03-12371-2014-01-04-he-cases
+    kind: public
+    occasion: 全国查办案件工作会议讲话，对纪检办案人员的要求
+  - text: 穿上你们做的鞋，走路“踏实”
+    cite: b03-sina-2011-03-21-he-chongqing
+    kind: adlib
+    date: 2011-03
+    occasion: 在重庆看望结对帮扶的“穷亲”时
+  - text: 腐败现象是一个具有复杂社会历史根源、古今中外都存在的世界性难题
+    cite: b03-sina-2011-03-21-he-chongqing
+    kind: adlib
+    date: 2011-03
+    occasion: 在重庆大学回答学生提问
+
+zhang-dejiang:
+  - text: 中央与香港特别行政区的权力关系是授权与被授权的关系，而不是分权关系，在任何情况下都不允许以“高度自治”为名对抗中央的权力
+    cite: b03-xinhua-2017-05-27-zhang-hk
+    kind: public
+    date: 2017-05-27
+    occasion: 纪念香港基本法实施 20 周年座谈会讲话
+    star: true
+  - text: 中央对香港特别行政区拥有全面管治权
+    cite: b03-xinhua-2017-05-27-zhang-hk
+    kind: public
+    date: 2017-05-27
+    occasion: 纪念香港基本法实施 20 周年座谈会讲话
+  - text: 我们的干部无论职务多高，都是群众中的一员，心里要时刻装着老百姓。
+    cite: b03-people-2012-12-25-zhang-feature
+    kind: interview
+    occasion: 任吉林省委副书记时接受专访（新华社 2012 年人物特稿引述）
+  - text: 重庆在我心中，我祝福重庆！
+    cite: b03-people-2012-12-25-zhang-feature
+    kind: public
+    date: 2012-11-20
+    occasion: 卸任重庆市委书记时

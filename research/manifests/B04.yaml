@@ -1,0 +1,731 @@
+# B04: Xi Jinping and the 18th standing committee (Xi, Peng Liyuan, Wang Qishan, Yu Zhengsheng, Liu Yunshan).
+web:
+  # --- Xi Jinping: official
+  - id: b04-xinhua-2018-03-17-xi-resume
+    title: 中华人民共和国主席、中华人民共和国中央军事委员会主席简历（习近平简历）
+    publisher: 新华社
+    date: 2018-03-17
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018lh/2018-03/17/c_1122551729.htm
+  - id: b04-cctv-2020-10-21-xi-geng-biao
+    title: 天天学习丨多年前，习近平为何写下这首饱含深情的诗？
+    publisher: 央视网
+    date: 2020-10-21
+    voice: official
+    url: https://news.cctv.com/2020/10/21/ARTIS9Hwpsz0wgloE7BYF6Kn201021.shtml
+  - id: b04-gov-2012-11-15-xi-press
+    title: 习近平等十八届中共中央政治局常委同中外记者见面
+    publisher: 新华社（中国政府网）
+    date: 2012-11-15
+    voice: official
+    url: https://www.gov.cn/ldhd/2012-11/15/content_2266858.htm
+  - id: b04-xinhua-2012-11-29-china-dream
+    title: 习近平：承前启后 继往开来 继续朝着中华民族伟大复兴目标奋勇前进
+    publisher: 新华网
+    date: 2012-11-29
+    voice: official
+    url: http://www.xinhuanet.com/politics/2012-11/29/c_113852724.htm
+  - id: b04-gov-2013-09-07-xi-nazarbayev
+    title: 习近平在哈萨克斯坦纳扎尔巴耶夫大学发表重要演讲
+    publisher: 新华社（中国政府网）
+    date: 2013-09-07
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-09/07/content_2483425.htm
+  - id: b04-cctv-2009-02-13-xi-mexico
+    title: 习近平痛批少数外国人对中国事务指手画脚
+    publisher: 央视网（转人民网，原为深圳卫视报道）
+    date: 2009-02-13
+    voice: official
+    url: https://news.cctv.com/china/20090213/102301.shtml
+  - id: b04-xinhua-2016-10-27-6th-plenum
+    title: 中国共产党第十八届中央委员会第六次全体会议公报
+    publisher: 新华社
+    date: 2016-10-27
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2016-10/27/c_1119801528.htm
+  - id: b04-gov-2021-11-16-resolution
+    title: 中共中央关于党的百年奋斗重大成就和历史经验的决议
+    publisher: 新华社（中国政府网）
+    date: 2021-11-16
+    voice: history
+    url: https://www.gov.cn/zhengce/2021-11/16/content_5651269.htm
+  - id: b04-gov-2017-10-29-ccdi-report
+    title: 十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告
+    publisher: 新华社（中国政府网）
+    date: 2017-10-29
+    voice: doc
+    url: https://www.gov.cn/zhuanti/2017-10/29/content_5235228.htm
+  - id: b04-chinanews-2026-09-21-zhang-liu-expelled
+    title: 张又侠、刘振立严重违纪违法被开除党籍军籍
+    publisher: 新华社（中新网）
+    date: 2026-09-21
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2026/09-21/10700958.shtml
+  - id: b04-xinhua-2026-07-14-ma-xingrui
+    title: 中共中央决定给予马兴瑞开除党籍、开除公职处分
+    publisher: 新华社
+    date: 2026-07-14
+    voice: official
+    url: https://www.xinhuanet.com/legal/20260714/4594beb590b8411d83176e50f1f8501f/c.html
+  - id: b04-mfa-2026-09-24-xi-white-house
+    title: 习近平出席美国总统特朗普在白宫举行的欢迎仪式
+    publisher: 外交部
+    date: 2026-09-24
+    voice: official
+    url: https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202609/t20260925_12031112.shtml
+  - id: b04-xinhua-2026-09-25-xi-trump-tea
+    title: 习近平和彭丽媛同美国总统特朗普夫妇茶叙
+    publisher: 新华社
+    date: 2026-09-25
+    voice: official
+    url: https://www.xinhuanet.com/politics/leaders/20260926/ad9273a6cd2446b3b94f584fb1a15cc7/c.html
+  # --- Xi Jinping: media and scholars
+  - id: b04-bbc-2010-10-14-xi-profile
+    title: 新闻人物：习近平
+    publisher: BBC 中文
+    date: 2010-10-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/lg/china/2010/10/101014_profile_xi_jinping
+    excerpt: true
+    keep:
+      - 中国共产党第十七届中央委员会第五次会议已于10月18日闭幕
+      - 1979年从清华大学毕业后
+      - 2007年，习近平进入中国最高权力中心
+      - 从1985年至2002年，习近平在福建任职十七年
+      - 习近平2002年离开福建调任浙江
+      - 由于他所主政的福建、浙江、上海
+      - 2009年2月，习近平在墨西哥会见华侨时
+      - 这一措辞直白的讲话
+  - id: b04-bbc-xi-cave-to-summit
+    title: 从窑洞到巅峰 习近平思想的发展历程
+    publisher: BBC 中文
+    author: 凯瑞（Carrie Gracie）
+    date: 2017-10-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/resources/idt-sh/Thoughts_Chairman_Xi_chinese
+    excerpt: true
+    keep:
+      - 只有15岁的习近平来到陕北
+      - 他的人生经历都经过仔细净化消毒
+      - 我永远是黄土地的儿子
+      - 15岁来到黄土地时
+      - 几乎从不曾有过权力的人
+      - 童年时代，父亲习仲勋是中共革命英雄
+      - 习近平同父异母的姐姐习和平
+      - 因为父亲蹲监狱以及家人遭受迫害
+      - 习近平25岁那年，父亲习仲勋获得平反
+      - 他先是在1970年代末担任军官
+      - 为了求生存，选择比红还红
+      - 习近平1985年曾随一个农业代表团到访美国爱荷华州
+      - 另一个下马的老虎是薄熙来
+      - 他的妻子是一名中国高级外交官的女儿
+      - 他引起外界注意的唯一一件事
+      - 习近平上任5年，建立了全面个人崇拜
+      - 他是习近平开展反腐运动中落马的最高级别官员
+      - 习近平今年64岁，属于中共太子党
+      - 郭文贵躲在纽约曼哈顿
+      - 郭指责王岐山和其他高官
+      - 竟无一人是男儿
+      - 有些吃饱了没事干的外国人
+  - id: b04-bbc-xi-lost-princeling
+    title: 习近平：从失去一切的“太子”到中国最有权势的领导人
+    publisher: BBC 中文
+    author: 肖恩·袁（Shawn Yuan）、刘睿正
+    date: 2026-09-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c98r687436nvo/simp
+    excerpt: true
+    keep:
+      - 这将是他11年来首次对美国进行国事访问
+      - 四十年前，习近平还只是
+      - 他在艾奥瓦州
+      - 中国官方媒体大篇幅报道了他的这段寄宿经历
+      - 现年73岁的习近平
+      - 当习近平本星期重返华盛顿时
+      - 他1953年出生于北京
+      - 习仲勋是共产党革命家
+      - 1960年代初，习近平的父亲被指控
+      - 15岁的习近平与数以百万计
+      - 去延安的专列上
+      - 他最终落脚于中国西部陕西省
+      - 他22岁时离开农村
+      - 其父在毛泽东逝世后获得平反
+      - 习近平于1979年与前中国驻英国大使之女柯玲玲
+      - 一位共同的朋友将习近平介绍给彭丽媛
+      - 两人的女儿、也是唯一的孩子习明泽
+      - 2007年，习近平在短暂出任上海市委书记后
+      - 他提出了以自己名字命名的思想理论
+      - 习近平还从宪法中取消了国家主席任期限制
+      - 在习近平治下，中国更加强调安全与政治稳定
+  - id: b04-voa-2009-02-14-xi-mexico
+    title: 中国官媒撤下习近平批西方言论
+    publisher: 美国之音
+    date: 2009-02-14
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2009-02-14-voa21-61309607/1022294.html
+    excerpt: true
+    keep:
+      - 中国大陆的官方媒体昨天把
+      - 他们分别接到上级指示
+      - 中国多家媒体热报了
+      - 这番斥责在一定程度上显示习近平对西方国家缺乏好感
+      - 习近平这番言论不像是经过高层集体讨论的口径
+  - id: b04-nytcn-2013-02-15-xi-soviet
+    title: 习近平警告中共记取前苏联教训
+    publisher: 纽约时报中文网
+    author: 储百亮（Chris Buckley）
+    date: 2013-02-15
+    voice: zh
+    url: https://cn.nytimes.com/world/20130215/c15xi/
+    excerpt: true
+    keep:
+      - 去年12月在广东视察时
+      - 苏联为什么会解体
+      - 最后戈尔巴乔夫轻轻一句话
+      - 高瑜是第一个公开习近平这些讲话的人
+      - 要把权力关进制度的笼子里
+      - 他不会成为第二个戈尔巴乔夫
+  - id: b04-bloomberg-2012-06-29-xi-family
+    title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+    publisher: Bloomberg
+    date: 2012-06-29
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/20150108064509/http://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+    excerpt: true
+    keep:
+      - Rein in your spouses
+      - Those interests include investments
+      - No assets were traced to Xi
+      - Most of the extended Xi family
+      - is the founding chairman of an energy advisory body
+  - id: b04-bbc-2012-06-29-bloomberg-blocked
+    title: China blocks access to Bloomberg and Businessweek sites
+    publisher: BBC News
+    date: 2012-06-29
+    voice: west
+    lang: en
+    url: https://www.bbc.com/news/technology-18648050
+    excerpt: true
+    keep:
+      - Web users in mainland China are unable
+      - Our Bloomberg.com and Businessweek.com
+      - The fortune amounts to investments
+  - id: b04-bbc-2017-10-xi-anticorruption
+    title: 习近平的反腐运动：范围有多广？目标是什么？
+    publisher: BBC 中文
+    date: 2017-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41719314
+    excerpt: true
+    keep:
+      - 超过一百万官员被整肃
+      - 超过170名部级及副部级官员
+      - 有人认为反腐运动是针对内部反对者
+      - 35名中央委员和候补委员被整肃
+      - 有134万高级与低级官员
+      - 是第四名被开除出共产党的在任政治局委员
+      - 他因受贿、滥用职权及泄露国家秘密被判处无期徒刑
+      - 徐才厚是中国军方最高级别官员之一
+      - 郭伯雄曾与徐才厚一同工作
+      - 令计划是胡锦涛信任的一名顾问
+      - 超过60名将军被调查
+      - 被称为"之江新军"
+      - 成员是蔡奇
+      - 他重要的盟友王岐山
+      - 批评人士指责习近平鼓励个人崇拜
+      - 习近平的支持者则称
+  - id: b04-bbc-2018-03-11-term-limits
+    title: 一片噤声中人大近全票通过修宪 海内外学者表忧虑批评
+    publisher: BBC 中文
+    date: 2018-03-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43362348
+    excerpt: true
+    keep:
+      - 以2958票赞成
+      - 洪振快以电邮回复
+      - 此次修宪使上述的宪法原则
+      - 当局全面禁制反对声音
+      - 犹如习近平自编、自导、自演了一场戏
+      - 陈澄认为毛泽东轻视党的制度与官僚
+  - id: b04-bbc-2017-10-25-19th-psc
+    title: 中共新政治局常委揭晓 集体领导或被削弱
+    publisher: BBC 中文
+    date: 2017-10-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-41752378
+    excerpt: true
+    keep:
+      - 政治局常委名单揭晓
+      - 观察人士认为，目前中国领导团队成员
+      - 现在没有安排接班人
+      - 分别是习近平和栗战书
+      - 集体领导可能会进一步削弱
+      - 十九大又将自己的思想写入党章
+      - 中国只有一个派
+  - id: b04-bbc-2022-10-23-third-term
+    title: 中共二十届政治局常委：习近平开启历史性第三任期 李强预计出任总理 胡春华未入局
+    publisher: BBC 中文
+    date: 2022-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63362555
+    excerpt: true
+    keep:
+      - 七位中共中央政治局常委按照出场顺序
+      - 习近平一如所料
+      - 新一任常委中没有较年轻的潜在接班人
+      - 他的行为就像一位没有任何权力限制的领导人
+      - 完全由习近平的门徒和坚定盟友组成
+  - id: b04-bbc-2022-12-covid-turn
+    title: 中国疫情政策大转向：糟糕的时间点，缺席的路线图和流失的信任
+    publisher: BBC 中文
+    date: 2022-12-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-64048685
+    excerpt: true
+    keep:
+      - 有抗议者甚至喊出让习近平下台的口号
+      - 这个名词也从官方会议和文件中瞬间消失
+      - 12月7日，发布防疫
+      - 原本支持放开的人已经对政府不满
+  - id: b04-bbc-2023-07-25-qin-gang
+    title: 秦刚“消失”满月后被免职中国外长 距离上任仅半年
+    publisher: BBC 中文
+    date: 2023-07-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66305730
+    excerpt: true
+    keep:
+      - 在中国领导人习近平提拔秦刚
+      - 此前，秦刚已从公众视线中消失
+  - id: b04-bbc-2025-10-nine-generals
+    title: 解放军九上将同时官宣落马背后的潜在逻辑和补缺悬念
+    publisher: BBC 中文
+    date: 2025-10-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cd042g90z48o/simp
+    excerpt: true
+    keep:
+      - 公布了九名上将的处理决定
+      - 被处理的九名上将分别是
+      - 何卫东是近60年来首位
+      - 习近平上台后，已有
+      - 都是他任内提拔
+      - 在习近平执政时代经历了快速提拔
+      - 上任半年多就被罢免
+      - 时甚至不是中央委员或候补委员
+      - 31集团军军部驻福建厦门同安
+      - 形容“非常令人困惑”
+      - 他们试图建立威胁军内权力平衡的权力基础
+  - id: b04-bbc-2026-01-zhang-youxia
+    title: 中国调查解放军最高级将领张又侠 官媒批其“造成极大破坏”
+    publisher: BBC 中文
+    date: 2026-01-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cx2k4pxdyyzo/simp
+    excerpt: true
+    keep:
+      - 中国当局宣布调查中央军委副主席张又侠
+      - 现年75岁的张又侠是除习近平之外
+      - 仅隔三个月
+      - 严重践踏破坏军委主席负责制
+      - 原有的六名将领已有五人相继落马
+  - id: b04-brookings-2013-princelings
+    title: Rule of the Princelings
+    publisher: Brookings
+    author: Cheng Li
+    voice: scholar
+    lang: en
+    url: https://www.brookings.edu/articles/rule-of-the-princelings/
+    excerpt: true
+    keep:
+      - currently led by Xi Jinping
+      - six out of the seven seats
+      - Four princeling leaders on the PSC
+      - the chief of the fire brigade
+      - Is it driven merely by factional interest
+  - id: b04-npr-2025-05-28-torigian
+    title: In 'The Party's Interests Come First,' Joseph Torigian tries to understand Xi Jinping through his father
+    publisher: NPR
+    date: 2025-05-28
+    voice: scholar
+    lang: en
+    url: https://www.npr.org/2025/05/28/g-s1-68411/in-the-partys-interests-come-first-joseph-torigian-tries-to-understand-xi-jinping-through-his-father
+    excerpt: true
+    keep:
+      - constant tension within him
+      - Xi Jinping stands out for his devotion
+  - id: b04-arb-2025-torigian
+    title: '"The Party''s Interests Come First" by Joseph Torigian'
+    publisher: Asian Review of Books
+    date: 2025-08-25
+    voice: scholar
+    lang: en
+    url: https://asianreviewofbooks.com/the-partys-interests-come-first-by-joseph-torigian/
+    excerpt: true
+    keep:
+      - Commentators and historians have often characterised
+      - this liberal image of Xi Zhongxun
+  # --- Peng Liyuan
+  - id: b04-bbc-2012-11-15-peng-profile
+    title: 彭丽媛：从歌唱家到中国第一夫人
+    publisher: BBC 中文
+    date: 2012-11-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121115_peng_liyuan_profile
+    excerpt: true
+    keep:
+      - 将于11月20日年满50周岁
+      - 彭丽媛1962年出生在山东省郓城县
+      - 彭丽媛14岁考入山东艺术学院
+      - 1980年代初，彭丽媛以歌曲
+      - 彭丽媛于1985年加入中国共产党
+      - 1986年经人介绍彭丽媛
+      - 习近平此前曾于1980年代初
+  - id: b04-who-goodwill-ambassadors
+    title: 亲善大使
+    publisher: 世界卫生组织
+    voice: official
+    url: https://www.who.int/zh/about/collaboration/goodwill-ambassadors
+    excerpt: true
+    keep:
+      - 世卫组织结核病和艾滋病防治亲善大使彭丽媛
+      - 2011年6月3日，世卫组织总干事陈冯富珍博士任命
+  - id: b04-xinhua-2017-01-19-peng-geneva
+    title: 彭丽媛：爱心是我们抗击疾病最好的疫苗
+    publisher: 新华网
+    date: 2017-01-19
+    voice: official
+    url: http://www.xinhuanet.com/world/2017-01/19/c_129452933.htm
+  - id: b04-abc-2022-10-28-peng
+    title: 彭丽媛：为中国国家主席习近平铺设权力之路的著名歌唱家
+    publisher: ABC 中文
+    author: Kate Wong
+    date: 2022-10-28
+    voice: west
+    url: https://www.abc.net.au/chinese/2022-10-28/peng-liyuan-china-first-lady-pave-way-to-xi-jinping/101563786
+    excerpt: true
+    keep:
+      - 在1999年接受一个香港脱口秀节目的采访时
+      - 我嫁给他十几年了
+      - 她加入了中国人民解放军总政治部歌舞团
+      - 据报道，她曾为1989年6月
+      - 2009年已经是少将军衔
+      - 以提高中国公众对艾滋病
+      - 她一直被视为润滑习近平和人民解放军
+      - 特别是在他2010年第一次进入军队的中央领导层时
+      - 中共宣传部门利用他与彭丽媛的关系
+      - 1986年，当时24岁的彭丽媛
+      - 和你相见不到40分钟
+      - 有多少种唱法
+      - 两人于1987年结婚
+      - 在哈佛大学学习心理学直到2014年
+      - 并担任联合国教科文组织女童和妇女教育特使
+      - 要求撤销彭丽媛作为联合国教科文组织
+      - 在中国，人们称呼彭丽媛为
+  # --- Wang Qishan
+  - id: b04-xinhua-2018-03-17-wang-resume
+    title: 中华人民共和国副主席简历（王岐山简历）
+    publisher: 新华社
+    date: 2018-03-17
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018lh/2018-03/17/c_1122551737.htm
+  - id: b04-people-2015-09-10-wang-legitimacy
+    title: 王岐山会见出席“2015中国共产党与世界对话会”外方代表
+    publisher: 人民日报
+    date: 2015-09-10
+    voice: official
+    url: https://cpc.people.com.cn/n/2015/0910/c64094-27565064.html
+  - id: b04-bbc-2018-03-17-wang-vp
+    title: 从知青到政治家：王岐山以一票反对当选中国国家副主席
+    publisher: BBC 中文
+    date: 2018-03-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43440065
+    excerpt: true
+    keep:
+      - 王岐山以2969票赞成
+      - 以非中央委员身份担任国家副主席
+      - 郭文贵在Twitter和Youtube
+      - 王岐山为人强硬，个性张扬
+      - 过去五年，王岐山为习近平的反腐运动
+      - 22岁的王岐山被分配到
+      - 1982年，他进入了中央书记处农村政策研究室
+      - 中国国际金融有限公司
+      - 1997年底，王岐山出任广东省副省长
+      - 2002年，王岐山担任海南省委书记
+      - 向专家推荐托克维尔
+  - id: b04-bbc-2012-11-14-wang-ccdi
+    title: 中共新领导成型 王岐山执掌中纪委
+    publisher: BBC 中文
+    date: 2012-11-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121114_ccp_wang_qishan
+    excerpt: true
+    keep:
+      - 王岐山一人同时成为中央纪律检查委员会委员
+      - 这一结果表明，王岐山将出任
+      - 王岐山的岳父姚依林
+      - 从此离开历史专业
+      - 王岐山在2008年出任国务院副总理
+      - 布郎教授
+  - id: b04-zaobao-2017-10-25-wang-exit
+    title: 王岐山退出政坛
+    publisher: 联合早报
+    date: 2017-10-25
+    voice: zh
+    url: https://www.zaobao.com.sg/znews/greater-china/story20171025-805591
+    excerpt: true
+    keep:
+      - 王岐山确认退出政坛
+      - 没有当选新一届中央委员和中纪委委员
+      - 七上八下
+      - 张德江、俞正声、刘云山、张高丽
+  - id: b04-zaobao-2023-03-11-han-zheng-vp
+    title: 韩正全票当选中国国家副主席
+    publisher: 联合早报
+    date: 2023-03-11
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230311-1371307
+    excerpt: true
+    keep:
+      - 成为继王岐山后
+      - 上任国家副主席王岐山的主要职责
+  # --- Yu Zhengsheng
+  - id: b04-xinhua-2013-03-11-yu-resume
+    title: 中国人民政治协商会议第十二届全国委员会主席简历（俞正声简历）
+    publisher: 新华社（新浪转载）
+    date: 2013-03-11
+    voice: official
+    url: http://news.sina.com.cn/c/2013-03-11/183226499033.shtml
+    start: 俞正声，男，汉族
+    end: 第十二届全国政协主席。
+  - id: b04-xinhua-2013-03-11-yu-profile
+    title: “坦诚相见才能肝胆相照”——记全国政协主席俞正声
+    publisher: 新华网
+    date: 2013-03-11
+    voice: official
+    url: http://www.xinhuanet.com/politics/2013-03/11/c_114984623.htm
+  - id: b04-cntv-2012-01-12-yu-transition
+    title: 俞正声直面科技创新“硬伤”：要转型速度要降一点
+    publisher: 中新社（央视网转载）
+    date: 2012-01-12
+    voice: official
+    url: http://jingji.cntv.cn/20120112/124090.shtml
+  - id: b04-cppcc-2018-03-14-wang-yang
+    title: 政协第十三届全国委员会选出领导人 汪洋当选全国政协主席
+    publisher: 新华社（全国政协网）
+    date: 2018-03-14
+    voice: official
+    url: http://www.cppcc.gov.cn/zxww/2018/03/14/ARTI1521028785783658.shtml
+    excerpt: true
+    keep:
+      - 当选全国政协主席。会议同时选出
+      - 十二届全国政协主席俞正声来到大会会场
+  - id: b04-bbc-2007-10-27-yu-shanghai
+    title: 俞正声出任上海市委书记
+    publisher: BBC 中文
+    date: 2007-10-27
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_7060000/newsid_7065200/7065219.stm
+    excerpt: true
+    keep:
+      - 赴任上海市委书记，接替17大
+      - 高度评价俞正声在湖北的执政
+      - 俞正声也属
+      - 俞正声是黄、范的次子
+      - 其妻张志凯
+      - 俞正声的哥哥俞强声也非寻常人物
+  - id: b04-bbc-2012-06-01-state-security
+    title: 中国安全部官员被指为美国间谍被捕
+    publisher: BBC 中文
+    date: 2012-06-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/06/120601_state_security_cia
+    excerpt: true
+    keep:
+      - 1985年国家安全部官员俞强声叛逃美国
+      - 俞强声叛逃后对美国揭发了
+  - id: b04-voa-2015-12-11-yu-qiangsheng
+    title: 解密时刻：中情局里的红色间谍
+    publisher: 美国之音
+    date: 2015-12-11
+    voice: zh
+    url: https://www.voachinese.com/a/red-spy-20151211/3099328.html
+    excerpt: true
+    keep:
+      - 1985年10月前后，那个为中央情报局和联邦调查局提供情报的线人
+      - 俞强声1985年叛逃前在中国国家安全部工作
+      - 坊间有不少有关俞强声叛逃后的传闻
+      - 甚至还有人说他在南美洲被中国特工暗杀了
+      - 我可以戳穿那样的说法
+  - id: b04-bbc-2013-03-12-cppcc-princelings
+    title: 日媒质疑政协成太子党俱乐部
+    publisher: BBC 中文
+    date: 2013-03-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/03/130312_japan_china_cppcc
+    excerpt: true
+    keep:
+      - 日本媒体称俞正声领导的政协
+      - 日本《产经新闻》周二
+      - 政协名符其实地成了太子党俱乐部
+      - 习近平所属的太子党现在是中共党内三大势力之一
+      - 政协就可能成为习近平的禁卫队
+  # --- Liu Yunshan
+  - id: b04-gov-2012-11-15-liu-resume
+    title: 刘云山（简历）
+    publisher: 新华社（中国政府网）
+    date: 2012-11-15
+    voice: official
+    url: https://www.gov.cn/gjjg/2012-11/15/content_2267338.htm
+  - id: b04-chinanews-2012-12-25-liu-profile
+    title: “接地气才能有底气”——记中央政治局常委刘云山
+    publisher: 中新网
+    date: 2012-12-25
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2012/12-25/4437342.shtml
+  - id: b04-bbc-2011-09-08-liu-netizens
+    title: 中宣部长刘云山承认管不了五亿网民
+    publisher: BBC 中文
+    date: 2011-09-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/09/110908_china_netizens_control
+    excerpt: true
+    keep:
+      - 中宣部长刘云山周三
+      - 新媒体和传统媒体无境界化
+      - 赞成网络自由发展
+      - 《读卖新闻》说
+      - 《日本经济新闻》也指出
+  - id: b04-bbc-2012-09-04-psc-profiles
+    title: 新闻资料：中共十八大入常热门人选
+    publisher: BBC 中文
+    date: 2012-09-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120904_ccp_profiles
+    excerpt: true
+    keep:
+      - 习近平的父亲习仲勋是中共主要领导人之一
+      - 刘云山的从政经历可以简单地划分为两段
+      - 集宁师范学校远不是一所名校
+      - 土默特右旗旗委宣传部当干事
+      - 刘云山在1993年首次离开内蒙古
+  - id: b04-aljazeera-2012-11-15-new-leaders
+    title: 'Profiles: China''s new leaders'
+    publisher: Al Jazeera
+    date: 2012-11-15
+    voice: west
+    lang: en
+    url: https://www.aljazeera.com/news/2012/11/15/profiles-chinas-new-leaders
+    excerpt: true
+    keep:
+      - Liu has been the party propaganda chief since 2002
+      - tightened controls over domestic media, even as
+      - A former reporter for state news agency Xinhua
+      - Liu is widely viewed as among the more conservative
+  - id: b04-gov-2012-12-25-wang-profile
+    title: “求真务实 尽责奉献”——记中共中央政治局常委王岐山
+    publisher: 新华社（国务院台湾事务办公室网站）
+    date: 2012-12-25
+    voice: official
+    url: https://www.gwytb.gov.cn/wyly/201212/t20121228_3500308.htm
+    start: 新华社北京１２月２５日电
+    end: 共同铸就了上海世博会的辉煌！”
+  - id: b04-people-2012-12-25-wang-profile-2
+    title: “求真务实 尽责奉献”——记中共中央政治局常委王岐山【2】
+    publisher: 新华社（人民网）
+    date: 2012-12-25
+    voice: official
+    url: http://cpc.people.com.cn/n/2012/1225/c64094-20013620-2.html
+    start: 果敢务实
+    end: 治标是为治本赢得时间。
+  - id: b04-gov-2012-12-24-yu-profile
+    title: “多做实事不图虚名”——记中共中央政治局常委俞正声
+    publisher: 新华社（中国政府网）
+    date: 2012-12-24
+    voice: official
+    url: https://www.gov.cn/ldhd/2012-12/25/content_2298346.htm
+    start: 新华社北京１２月２４日电
+    end: 他们育有一子。
+  - id: b04-people-2014-03-28-peng-unesco
+    title: 习近平会见联合国教科文组织总干事
+    publisher: 人民日报（人民网）
+    date: 2014-03-28
+    voice: official
+    url: https://cpc.people.com.cn/n/2014/0328/c64094-24759341.html
+    start: 人民网巴黎3月27日电
+    end: 表示期待双方开展合作。
+  - id: b04-bbc-2013-03-25-peng-first-lady
+    title: 英媒：彭丽媛作为第一夫人形象亮丽
+    publisher: BBC 中文
+    date: 2013-03-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/press_review/2013/03/130325_press_review_peng_liyuan
+    excerpt: true
+    keep:
+      - 中国终于有了一位美丽的第一夫人。
+      - 在彭丽媛首次陪同中国国家主席习近平出访四国之际
+      - 名人效应不亚于英国的凯特王妃
+      - 彭丽媛的出现好像是及时雨
+      - 无疑将会给习近平加分
+      - 彭丽媛在刚认识习近平时印象并不太好
+      - 彭丽媛在2007年接受中国一家杂志的采访时
+  - id: b04-bbc-2014-03-21-peng-michelle
+    title: 彭丽媛陪同米歇尔参观故宫并访问中学
+    publisher: BBC 中文
+    date: 2014-03-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/03/140321_michelle_beijing_pengliyuan
+    excerpt: true
+    keep:
+      - 正在中国访问的美国第一夫人米歇尔
+      - 彭丽媛在学生的邀请下也展现了自己的书法
+      - 米歇尔此次中国之行被普遍认为不具备任何政治色彩
+  - id: b04-people-2013-03-30-peng-first-trip
+    title: 习近平主席夫人彭丽媛的首访风采
+    publisher: 人民日报海外版
+    author: 叶晓楠、王越、何进俐
+    date: 2013-03-30
+    voice: official
+    url: http://paper.people.com.cn/rmrbhwb/html/2013-03/30/content_1219240.htm
+    start: 从3月22日起
+    end: 展现了开放包容的中国女性魅力。
+  - id: b04-people-2013-01-15-liu-party-school
+    title: 刘云山任中央党校校长（图/简历）
+    publisher: 中国共产党新闻网（人民网）
+    date: 2013-01-15
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/0115/c139617-20210562.html
+    start: 中国共产党新闻网北京1月15日电
+    end: （中国共产党新闻网资料，2012年11月）
+  - id: b04-gov-2015-10-11-liu-dprk
+    title: 刘云山出席朝鲜劳动党成立70周年庆祝活动并赴安州祭扫中国人民志愿军烈士陵园
+    publisher: 新华社（中国政府网）
+    date: 2015-10-11
+    voice: official
+    url: https://www.gov.cn/xinwen/2015-10/11/content_2945102.htm
+    start: 新华社平壤10月11日电
+    end: 全国政协副主席、中联部部长王家瑞参加了上述活动。
+  - id: b04-bbc-2015-10-09-liu-dprk
+    title: 刘云山访问朝鲜会见金正恩“力求沟通”
+    publisher: BBC 中文
+    date: 2015-10-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/10/151009_korea_liu_yunshan
+    excerpt: true
+    keep:
+      - 这是自从金正恩2011年12月掌权以来首次同中共最高层领导人会面
+      - 据料刘云山此行也是为了同朝鲜沟通
+  - id: b04-bbc-2015-10-11-dprk-kim
+    title: 韩国学者：金正恩演说显示朝中关系步入重整
+    publisher: BBC 中文
+    author: 杨虔豪
+    date: 2015-10-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world/2015/10/151011_north_korea_china_kim
+    excerpt: true
+    keep:
+      - 金正恩还举起来访平壤出席仪式的中共政治局常委刘云山的手
+      - 刘云山访朝，结果朝方也没有发射飞弹

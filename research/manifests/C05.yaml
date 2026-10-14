@@ -1,0 +1,610 @@
+# C05 dossier cards: families, economy, law and security, diplomacy, opinion, elders
+web:
+  # 习仲勋
+  - id: c05-chinanews-2002-05-30-xi-zhongxun-life
+    title: 习仲勋同志生平
+    publisher: 新华社（中新网转载）
+    date: 2002-05-30
+    voice: doc
+    url: https://www.chinanews.com.cn/2002-05-30/26/190328.html
+    start: 中国共产党的优秀党员
+  - id: c05-gov-2013-10-15-xi-zhongxun-centenary
+    title: 纪念习仲勋同志诞辰100周年座谈会在京举行
+    publisher: 新华社（中国政府网）
+    date: 2013-10-15
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-10/15/content_2507425.htm
+    start: 新华社北京10月15日电
+  # 习近平家族
+  - id: c05-bloomberg-2012-06-29-xi-family
+    title: Xi Jinping Millionaire Relations Reveal Fortunes of Elite
+    publisher: Bloomberg
+    date: 2012-06-29
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/20150108064509/http://www.bloomberg.com/news/2012-06-29/xi-jinping-millionaire-relations-reveal-fortunes-of-elite.html
+    excerpt: true
+    keep: ["Rein in your spouses", "No assets were traced to Xi", "Qi Qiaoqiao, 63", "Xi Yuanping, is the founding chairman"]
+  - id: c05-bbc-2012-06-29-bloomberg-xi
+    title: 彭博社报道习近平家人财富后网站被屏蔽
+    publisher: BBC 中文
+    date: 2012-06-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/06/120629_bloomberg_china
+    excerpt: true
+    keep: [齐桥桥和姐夫邓家贵, 3.76亿美元, 敏感内容]
+  - id: c05-nytcn-2016-04-06-panama-china
+    title: 巴拿马文件揭示中国权贵海外资产
+    publisher: 纽约时报中文网
+    date: 2016-04-06
+    voice: zh
+    url: https://cn.nytimes.com/china/20160406/c06chinapanama/
+    excerpt: true
+    keep: [邓家贵, 李小琳, 刘智源]
+  - id: c05-bbc-2016-04-06-panama-china
+    title: 巴拿马文件：中国领导人亲属的海外公司
+    publisher: BBC 中文
+    date: 2016-04-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/04/160406_panama_papers_china_capital_outflows
+    excerpt: true
+    keep: [邓家贵, 胡德华]
+  - id: c05-voa-2015-03-11-xi-mingze
+    title: 傅高义谈习近平女儿习明泽
+    publisher: 美国之音
+    date: 2015-03-11
+    voice: zh
+    url: https://www.voachinese.com/a/vogel-on-xi-daughter-20150310/2674935.html
+    excerpt: true
+    keep: [习明泽, 哈佛]
+  - id: c05-people-2013-10-12-xi-yuanping
+    title: 习远平在陕西纪念习仲勋诞辰100周年座谈会上的讲话
+    publisher: 人民网
+    date: 2013-10-12
+    voice: official
+    url: http://dangshi.people.com.cn/n/2013/1012/c85037-23172077.html
+    start: 今年10月15日，就是我父亲习仲勋的百年诞辰
+    end: 作出自己的应有贡献！
+  # 温家宝家族
+  - id: c05-nytcn-2012-10-26-wen-wealth
+    title: 温家宝家族隐秘财富调查
+    publisher: 纽约时报中文网
+    date: 2012-10-26
+    voice: zh
+    url: https://cn.nytimes.com/china/20121026/c26princeling/
+    excerpt: true
+    keep: [掌控了价值不低于27亿美元, 没有发现温家宝名下有任何财产, 他的妻子张蓓莉是中国珠宝与宝石领域的权威人士之一, 总理的独子温云松, 还没有几个太子党像, 温云松的领导下，新天域, 中国卫星通信集团公司, 约有80%是由温家宝的母亲]
+  - id: c05-nytcn-2012-10-29-wen-response
+    title: 温家宝家人通过律师回应《纽约时报》报道
+    publisher: 纽约时报中文网
+    date: 2012-10-29
+    voice: zh
+    url: https://cn.nytimes.com/china/20121029/c29wen/
+    excerpt: true
+    keep: [是不存在的, 抹黑中国，别有用心]
+  # 胡海峰
+  - id: c05-sina-2024-01-16-hu-haifeng
+    title: 胡海峰任民政部副部长（简历）
+    publisher: 新浪新闻
+    date: 2024-01-16
+    voice: official
+    url: https://news.sina.com.cn/c/2024-01-16/doc-inactkkz4191897.shtml
+    excerpt: true
+    keep: [胡海峰]
+  - id: c05-voa-2009-07-22-hu-haifeng-namibia
+    title: 纳米比亚调查同方威视案
+    publisher: 美国之音
+    date: 2009-07-22
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-2009-07-22-voa103-60884882/1013942.html
+    excerpt: true
+    keep: [胡海峰, 纳米比亚]
+  # 江绵恒
+  - id: c05-bbc-2015-01-08-jiang-mianheng
+    title: 江绵恒卸任中科院上海分院院长
+    publisher: BBC 中文
+    date: 2015-01-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/01/150108_jiang_zemin_son_shanghai
+    excerpt: true
+    keep: [江绵恒]
+  - id: c05-cna-2024-06-05-jiang-mianheng
+    title: 江绵恒卸任上海科技大学校长
+    publisher: 中央社
+    date: 2024-06-05
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202406050338.aspx
+    excerpt: true
+    keep: [江綿恆卸任該校校長職務, 江綿恆現年73歲]
+  # 李小琳、李小鹏
+  - id: c05-cna-2018-05-26-li-xiaolin
+    title: 李小琳退休
+    publisher: 中央社
+    date: 2018-05-26
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201805260135.aspx
+    excerpt: true
+    keep: [李小琳]
+  - id: c05-voa-2016-04-06-panama-red
+    title: 巴拿马文件：中国红色贵族海外公司
+    publisher: 美国之音
+    date: 2016-04-06
+    voice: zh
+    url: https://www.voachinese.com/a/panama-papers-china-red-nobility-20160406/3273672.html
+    excerpt: true
+    keep: [李小琳, 邓家贵]
+  - id: c05-chinanews-2016-09-03-li-xiaopeng
+    title: 李小鹏任交通运输部部长（简历）
+    publisher: 新华社（中新网转载）
+    date: 2016-09-03
+    voice: doc
+    url: https://www.chinanews.com.cn/gn/2016/09-03/7992946.shtml
+    start: 全国人大常委会3日经表决
+    end: (人民网资料 截至2016年8月)
+  - id: c05-gov-2024-11-08-li-xiaopeng-removed
+    title: 全国人民代表大会常务委员会决定任免的名单（2024年11月8日）
+    publisher: 新华社（中国政府网）
+    date: 2024-11-08
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202411/content_6985746.htm
+    start: 新华社北京11月8日电
+    end: 任命刘伟为交通运输部部长。
+  - id: c05-cppcc-2024-10-11-li-xiaopeng
+    title: 全国政协十四届常委会第九次会议闭幕 王沪宁主持并讲话
+    publisher: 新华社（中国政协网）
+    date: 2024-10-11
+    voice: official
+    url: http://www.cppcc.gov.cn/zxww/2024/10/11/ARTI1728636858728318.shtml
+    start: 新华社北京10月11日电
+    end: 王光谦、秦博勇、朱永新、杨震出席。
+  # 朱云来
+  - id: c05-bbc-2014-10-14-zhu-yunlai
+    title: 朱镕基之子朱云来卸任中金公司总裁
+    publisher: BBC 中文
+    date: 2014-10-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/10/141014_zhurongjison
+    excerpt: true
+    keep: [朱云来]
+  - id: c05-people-2014-10-16-zhu-yunlai
+    title: 朱云来辞任中金公司总裁
+    publisher: 人民网
+    date: 2014-10-16
+    voice: official
+    url: http://finance.people.com.cn/n/2014/1016/c1004-25843153.html
+    excerpt: true
+    keep: [朱云来]
+  # 薄王案
+  - id: c05-cnr-2015-12-14-gu-kailai
+    title: 薄谷开来死缓减为无期徒刑
+    publisher: 央广网
+    date: 2015-12-14
+    voice: official
+    url: https://m.cnr.cn/news/20151214/t20151214_520792101_tt.html
+    excerpt: true
+    keep: [谷开来]
+  - id: c05-bbc-2015-12-14-gu-kailai
+    title: 薄谷开来获减刑为无期徒刑
+    publisher: BBC 中文
+    date: 2015-12-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/12/151214_china_reduced_sentence
+    excerpt: true
+    keep: [谷开来]
+  - id: c05-chinanews-2012-09-24-wang-lijun
+    title: 王立军一审被判处有期徒刑15年
+    publisher: 中新网
+    date: 2012-09-24
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2012/09-24/4205797.shtml
+    excerpt: true
+    keep: [王立军]
+  # 周滨、令谷
+  - id: c05-court-2016-06-15-zhou-bin
+    title: 周滨一审被判处有期徒刑十八年
+    publisher: 最高人民法院
+    date: 2016-06-15
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/22011.html
+    excerpt: true
+    keep: [周滨]
+  - id: c05-nytcn-2012-12-05-ling-gu
+    title: 令计划之子法拉利车祸
+    publisher: 纽约时报中文网
+    date: 2012-12-05
+    voice: zh
+    url: https://cn.nytimes.com/china/20121205/c05crash/
+    excerpt: true
+    keep: [令谷, 法拉利]
+  # 刘源、刘亚洲
+  - id: c05-caixin-2016-02-26-liu-yuan
+    title: 刘源任全国人大财经委副主任委员
+    publisher: 财新网
+    date: 2016-02-26
+    voice: zh
+    url: https://web.archive.org/web/20160301044831/http:/china.caixin.com/2016-02-26/100913281.html
+    excerpt: true
+    keep: [刘源]
+  - id: c05-voa-2024-04-04-princelings
+    title: 习近平与太子党分道扬镳
+    publisher: 美国之音
+    date: 2024-04-04
+    voice: zh
+    url: https://www.voachinese.com/a/xis-breakup-with-princelings-20240404/7557120.html
+    excerpt: true
+    keep: [刘源, 刘亚洲]
+  - id: c05-zaobao-2023-04-14-liu-yazhou
+    title: 港媒：刘亚洲被开除党籍移送军事司法机关
+    publisher: 联合早报
+    date: 2023-04-14
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230414-1382780
+    excerpt: true
+    keep: [刘亚洲]
+  - id: c05-voa-2024-03-23-liu-yazhou
+    title: 刘亚洲据报被判无期徒刑
+    publisher: 美国之音
+    date: 2024-03-23
+    voice: zh
+    url: https://www.voachinese.com/a/pla-retired-general-liu-yazhou-life-sentence-20240323/7538931.html
+    excerpt: true
+    keep: [刘亚洲]
+  # 央行、财政
+  - id: c05-cppcc-2013-03-11-zhou-xiaochuan
+    title: 中国人民政治协商会议第十二届全国委员会副主席周小川（简历）
+    publisher: 新华社（中国政协网）
+    date: 2013-03-11
+    voice: doc
+    url: http://www.cppcc.gov.cn/zxww/2013/03/11/ARTI1363006444186982.shtml
+    start: 周小川,男,汉族
+    end: 第十二届全国政协副主席。
+  - id: c05-people-2018-03-27-yi-gang
+    title: 中国人民银行主要领导调整 郭树清任党委书记（附易纲简历）
+    publisher: 人民网
+    date: 2018-03-27
+    voice: doc
+    url: https://web.archive.org/web/20201105115217/http:/renshi.people.com.cn/n1/2018/0327/c139617-29890421.html
+    start: 中国共产党新闻网北京3月27日电
+    end: 十二届全国政协委员。
+  - id: c05-news-2023-07-25-pboc-order
+    title: 中华人民共和国主席令（第八号）
+    publisher: 新华社
+    date: 2023-07-25
+    voice: doc
+    url: http://www.news.cn/2023-07/25/c_1129767582.htm
+    start: 新华社北京7月25日电
+    end: 任命潘功胜为中国人民银行行长。
+  - id: c05-jiemian-2023-07-pan-gongsheng
+    title: 潘功胜任中国人民银行行长（简历）
+    publisher: 界面新闻
+    date: 2023-07-25
+    voice: zh
+    url: https://www.jiemian.com/article/9806759.html
+    excerpt: true
+    keep: [潘功胜]
+  - id: c05-xinhua-2016-11-28-lou-jiwei
+    title: 楼继伟任全国社会保障基金理事会理事长（简历）
+    publisher: 新华网
+    date: 2016-11-28
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2016-11/28/c_1120002658.htm
+    start: 国务院任免国家工作人员。
+    end: （简历来源：全国社会保障基金理事会网站）
+  - id: c05-voa-2019-04-07-lou-jiwei
+    title: 敢言的楼继伟被免社保基金理事长
+    publisher: 美国之音
+    date: 2019-04-07
+    voice: zh
+    url: https://www.voachinese.com/a/lou-jiwei-china-outspoken-20190406/4865231.html
+    excerpt: true
+    keep: [楼继伟]
+  # 政法
+  - id: c05-people-2018-03-19-zhou-zhang
+    title: 周强、张军简历
+    publisher: 人民网
+    date: 2018-03-18
+    voice: doc
+    url: http://lianghui.people.com.cn/2018npc/n1/2018/0319/c417507-29874361.html
+    start: 周 强
+    end: （新华社北京3月18日电）
+  - id: c05-cppcc-2023-03-11-zhou-qiang
+    title: 中国人民政治协商会议第十四届全国委员会副主席周强（简历）
+    publisher: 中国政协网
+    date: 2023-03-11
+    voice: doc
+    url: http://www.cppcc.gov.cn/zxww/2023/03/11/ARTI1678473356386682.shtml
+    start: 周强，男，汉族
+    end: 十四届全国政协副主席。
+  - id: c05-gov-2023-03-12-zhang-jun
+    title: 最高人民法院院长张军简历
+    publisher: 新华社（中国政府网）
+    date: 2023-03-12
+    voice: doc
+    url: https://www.gov.cn/xinwen/2023-03/12/content_5746221.htm
+    start: 新华社北京3月11日电
+    end: 首席大法官。
+  - id: c05-cctv-2020-02-13-ying-yong
+    title: 应勇任湖北省委书记（简历）
+    publisher: 央视网
+    date: 2020-02-13
+    voice: official
+    url: https://news.cctv.com/2020/02/13/ARTIS9VfJnhxNEiabWRbvrsC200213.shtml
+    start: 应勇，男，1957年11月出生
+    end: （人民网资料 截至2022年4月）
+  - id: c05-news-2023-03-12-ying-yong
+    title: 最高人民检察院检察长应勇简历
+    publisher: 新华社
+    date: 2023-03-12
+    voice: doc
+    url: http://www.news.cn/politics/2023lh/2023-03/12/c_1129427337.htm
+    start: 新华社北京3月11日电
+    end: 首席大检察官。
+  - id: c05-xinhua-2018-03-17-cao-jianming
+    title: 十三届全国人大常委会副委员长曹建明简历
+    publisher: 新华网
+    date: 2018-03-17
+    voice: doc
+    url: https://www.xinhuanet.com/politics/2018lh/2018-03/17/c_1122552084.htm
+    start: 曹建明，男，汉族
+    end: （新华社北京3月17日电）
+  - id: c05-chinanews-2018-03-19-zhao-kezhi
+    title: 国务委员赵克志简历
+    publisher: 中新网
+    date: 2018-03-19
+    voice: doc
+    url: https://www.chinanews.com/gn/2018/03-19/8471423.shtml
+    start: 赵克志，男，汉族
+    end: (新华社北京3月19日电)
+  - id: c05-people-2018-04-03-chen-yixin
+    title: 陈一新简历
+    publisher: 人民网
+    date: 2018-04-03
+    voice: doc
+    url: http://renshi.people.com.cn/n1/2018/0403/c139617-29905494.html
+    start: 中国共产党新闻网北京4月3日电
+    end: 2018.03 中央政法委委员、秘书长。
+  - id: c05-gov-2022-10-30-chen-yixin
+    title: 中华人民共和国主席令（第一百二十五号）
+    publisher: 新华社（中国政府网）
+    date: 2022-10-30
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-10/30/content_5722603.htm
+    start: 新华社北京10月30日电
+    end: 任命陈一新为国家安全部部长。
+  - id: c05-voa-2022-10-29-chen-yixin
+    title: 习近平嫡系陈一新任国安部长 亲信陈文清控制“刀把子”政法委
+    publisher: 美国之音
+    date: 2022-10-29
+    voice: zh
+    url: https://www.voachinese.com/a/china-names-chen-yixin-as-state-security-min-20221029/6811708.html
+    excerpt: true
+    keep: [作为习近平嫡系亲信, 直接为习近平服务]
+  # 外交
+  - id: c05-sina-2006-03-05-li-zhaoxing
+    title: 李肇星简历
+    publisher: 新华网（新浪转载）
+    date: 2006-03-05
+    voice: doc
+    url: http://news.sina.com.cn/c/2006-03-05/16409270173.shtml
+    start: 1940年10月生，山东省人
+    end: 《青春中国》。
+  - id: c05-sina-2003-03-17-tang-jiaxuan
+    title: 唐家璇简历
+    publisher: 新华网（新浪转载）
+    date: 2003-03-17
+    voice: doc
+    url: http://news.2008.sina.com.cn/c/2003-03-17/1807951030.shtml
+    start: 男，汉族，1938年1月生
+    end: 中共第十五届、十六届中央委员。
+  - id: c05-chinanews-2008-03-17-dai-bingguo
+    title: 国务委员戴秉国简历
+    publisher: 中新网
+    date: 2008-03-17
+    voice: doc
+    url: http://www.chinanews.com.cn/gn/news/2008/03-17/1194328.shtml
+    start: 戴秉国，男，土家族
+    end: 中共第十五届、十六届、十七届中央委员。
+  # 舆论
+  - id: c05-bjd-2021-12-16-hu-xijin
+    title: 胡锡进：我已办理退休，不再担任环球时报总编辑
+    publisher: 北京日报
+    date: 2021-12-16
+    voice: official
+    url: https://news.bjd.com.cn/2021/12/16/10018288.shtml
+    excerpt: true
+    keep: [老胡转过年就62岁了, 1960年4月出生, 2005年起担任环球时报总编辑]
+  - id: c05-dw-2021-12-16-hu-xijin
+    title: 中国战狼式媒体人、《环时》总编胡锡进宣布退休
+    publisher: 德国之声
+    date: 2021-12-16
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%88%98%E7%8B%BC%E5%BC%8F%E5%AA%92%E4%BD%93%E4%BA%BA%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E6%80%BB%E7%BC%96%E8%83%A1%E9%94%A1%E8%BF%9B%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91/a-60145976
+    excerpt: true
+    keep: [强烈民族主义的主要代言人, 吴绮敏]
+  - id: c05-nytcn-2024-08-07-hu-xijin
+    title: 中国民族主义评论员胡锡进沉寂
+    publisher: 纽约时报中文网
+    date: 2024-08-07
+    voice: zh
+    url: https://cn.nytimes.com/china/20240807/china-nationalist-hu-xijin-silent/
+    excerpt: true
+    keep: [胡锡进]
+  - id: c05-zaobao-2025-10-14-hu-xijin
+    title: 胡锡进相关报道
+    publisher: 联合早报
+    date: 2025-10-14
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20251014-7660713
+    excerpt: true
+    keep: [胡锡进]
+  - id: c05-fudan-zhang-weiwei
+    title: 张维为（院长）
+    publisher: 复旦大学中国研究院
+    date: 2024
+    voice: official
+    url: https://cifu.fudan.edu.cn/14/1d/c521a136221/page.htm
+    excerpt: true
+    keep: [复旦大学特聘教授, 这就是中国]
+  - id: c05-nytcn-2015-06-15-zhang-weiwei
+    title: 张维为：“中国模式”必将引领中国走向成功
+    publisher: 纽约时报中文网
+    date: 2015-06-15
+    voice: zh
+    url: https://cn.nytimes.com/china/20150615/c15zhangweiwei/
+    excerpt: true
+    keep: [中国震撼, 给邓小平当过英语口译员]
+  - id: c05-dw-2016-06-jin-canrong
+    title: 专访：“吵吵闹闹但总体可控”
+    publisher: 德国之声
+    date: 2016-06-03
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%93%E8%AE%BF%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%90%B5%E5%90%B5%E9%97%B9%E9%97%B9%E4%BD%86%E6%80%BB%E4%BD%93%E5%8F%AF%E6%8E%A7/a-19304311
+    excerpt: true
+    keep: [采访对象简介, 两国之间的摩擦还会继续增加]
+  - id: c05-voa-2022-01-31-jin-canrong
+    title: 中国鹰派学者金灿荣口出狂言，2027年将用时一周时间“武统台湾”
+    publisher: 美国之音
+    date: 2022-01-31
+    voice: zh
+    url: https://www.voachinese.com/a/china-can-take-taiwan-in-a-week-and-that-can-happen-by-2027-says-beijing-adviser-20220131/6420369.html
+    excerpt: true
+    keep: [中国著名鹰派学者金灿荣, 中国已经具备在一周内统一台湾的能力, 金灿荣是北京人民大学国际关系学院副院长]
+  - id: c05-bbc-2018-08-03-hu-angang
+    title: 胡鞍钢被讽“给帝王唱赞歌” 千人联名要求清华将其开除
+    publisher: BBC 中文
+    date: 2018-08-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-45058201
+    excerpt: true
+    keep: [清华大学国情研究院院长, 综合国力世界第一, 堪称误国误民]
+  # 港澳
+  - id: c05-gov-2020-02-13-hmo
+    title: 国务院任免国家工作人员（2020年2月13日）
+    publisher: 中国政府网
+    date: 2020-02-13
+    voice: doc
+    url: https://web.archive.org/web/20200213042750/http:/www.gov.cn/xinwen/2020-02/13/content_5478067.htm
+    excerpt: true
+    keep: [夏宝龙兼任国务院港澳事务办公室主任]
+  - id: c05-people-2020-02-13-xia-baolong
+    title: 夏宝龙兼任国务院港澳事务办公室主任（简历）
+    publisher: 人民网
+    date: 2020-02-13
+    voice: doc
+    url: http://renshi.people.com.cn/n1/2020/0213/c139617-31585432.html
+    start: 夏宝龙，男，汉族
+    end: 第十三届全国政协副主席。
+  - id: c05-hmo-2026-09-09-xia-baolong
+    title: 港澳办夏宝龙主任活动报道
+    publisher: 国务院港澳事务办公室
+    date: 2026-09-09
+    voice: official
+    url: https://www.hmo.gov.cn/2026/09/09/ARTI6TYlQ1T48fRdUQkzv1yv260909.shtml
+    excerpt: true
+    keep: [夏宝龙]
+  - id: c05-people-2020-01-06-luo-huining
+    title: 骆惠宁任中央人民政府驻香港特别行政区联络办公室主任（简历）
+    publisher: 人民网
+    date: 2020-01-06
+    voice: doc
+    url: http://renshi.people.com.cn/n1/2020/0106/c139617-31535461.html
+    start: 中国共产党新闻网北京1月6日电
+    end: 十七届中央候补委员，十八、十九届中央委员
+  - id: c05-news-2023-01-14-hk-liaison
+    title: 国务院任免国家工作人员（2023年1月14日）
+    publisher: 新华社
+    date: 2023-01-14
+    voice: doc
+    url: http://www.news.cn/politics/2023-01/14/c_1129284639.htm
+    excerpt: true
+    keep: [任命郑雁雄, 免去骆惠宁]
+  - id: c05-bjnews-2025-06-27-zheng-yanxiong
+    title: 郑雁雄任全国人大教科文卫委员会副主任委员
+    publisher: 新京报
+    date: 2025-06-27
+    voice: official
+    url: https://www.bjnews.com.cn/detail/1751010519129214.html
+    excerpt: true
+    keep: [郑雁雄]
+  - id: c05-cna-2025-05-31-zheng-yanxiong
+    title: 周霁接替郑雁雄任香港中联办主任
+    publisher: 中央社
+    date: 2025-05-31
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202505310040.aspx
+    excerpt: true
+    keep: [鄭雁雄不再擔任此職, 被免去職務的鄭雁雄是廣東人]
+  # 经济学者
+  - id: c05-nytcn-2013-11-09-wu-jinglian
+    title: 吴敬琏：经济改革需消除体制障碍
+    publisher: 纽约时报中文网
+    date: 2013-11-09
+    voice: zh
+    url: https://cn.nytimes.com/china/20131109/c09plenum/
+    excerpt: true
+    keep: [中国最著名的经济学家之一, 舍此绝无他途, 更独立的司法体系]
+  - id: c05-xinhua-2023-03-08-li-yining
+    title: 厉以宁同志逝世
+    publisher: 新华社
+    date: 2023-03-08
+    voice: doc
+    url: http://www.news.cn/2023-03/08/c_1129421321.htm
+    start: 新华社北京3月8日电
+    end: 2018年荣获“改革先锋”称号。
+  # 元老
+  - id: c05-chinanews-2005-01-17-zhao-ziyang
+    title: 赵紫阳逝世
+    publisher: 新华社（中新网转载）
+    date: 2005-01-17
+    voice: doc
+    url: https://www.chinanews.com/news/2005/2005-01-17/26/529051.shtml
+    start: 赵紫阳同志长期患呼吸系统
+    end: 终年85岁。
+  - id: c05-xinhua-2005-01-29-zhao-ziyang
+    title: 赵紫阳同志遗体在京火化
+    publisher: 新华社
+    date: 2005-01-29
+    voice: doc
+    url: https://web.archive.org/web/20170304193441/http://news.xinhuanet.com/newscenter/2005-01/29/content_2522658.htm
+    excerpt: true
+    keep: [终年８５岁, 犯了严重错误, 曾庆红同志代表中央领导同志]
+  - id: c05-bbc-2009-05-29-zhao-memoir
+    title: 赵紫阳回忆录中文版《改革历程》香港发售
+    publisher: BBC 中文
+    date: 2009-05-29
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8070000/newsid_8073700/8073755.stm
+    excerpt: true
+    keep: [改革历程]
+  - id: c05-bbc-2022-11-10-bao-tong
+    title: 鲍彤去世
+    publisher: BBC 中文
+    date: 2022-11-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63579737
+    excerpt: true
+    keep: [鲍彤]
+  - id: c05-rfa-2022-11-09-bao-tong
+    title: 赵紫阳政治秘书鲍彤去世
+    publisher: 自由亚洲电台
+    date: 2022-11-09
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/1-11092022101136.html
+    excerpt: true
+    keep: [鲍彤]
+  - id: c05-bbc-2012-11-03-hu-deping
+    title: 胡耀邦之子胡德平十八大前谈改革
+    publisher: BBC 中文
+    date: 2012-11-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121103_hu_deping_reform
+    excerpt: true
+    keep: [胡德平是已故中共领导人胡耀邦的长子, 改革不可废 承诺不可弃, 权大于法]
+  - id: c05-voa-2013-04-03-hu-deping
+    title: 胡德平：中共需改革并在宪法内活动
+    publisher: 美国之音
+    date: 2013-04-03
+    voice: zh
+    url: https://www.voachinese.com/a/hudeping-20130403/1633016.html
+    excerpt: true
+    keep: [胡德平, 改革派]

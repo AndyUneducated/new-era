@@ -1,0 +1,639 @@
+# B10: outside the system — Liu Xiaobo, Xu Zhiyong, Ma Yun, Ren Zhiqiang, Jimmy Lai, Carrie Lam, Ai Weiwei, Li Wenliang
+web:
+  # ---- liu-xiaobo
+  - id: b10-dw-2009-12-28-liu-verdict
+    title: 北京市第一中级人民法院刑事判决书（2009）一中刑初字第3901号（刘晓波案，德国之声转载全文）
+    publisher: 北京市第一中级人民法院（德国之声中文网转载）
+    date: 2009-12-25
+    voice: doc
+    url: https://web.archive.org/web/20231003023727/https://www.dw.com/zh/%E5%88%98%E6%99%93%E6%B3%A2%E5%88%A4%E5%86%B3%E4%B9%A6%E5%85%A8%E6%96%87/a-5065283
+    excerpt: true
+    keep: [刑事判决书, 煽动颠覆国家政权罪，判处有期徒刑, 超出言论自由的范畴, 零八宪章]
+  - id: b10-bbc-2010-12-10-liu-final-statement
+    title: 刘晓波：我没有敌人——我的最后陈述（2009 年 12 月 23 日）
+    publisher: BBC 中文
+    author: 刘晓波
+    date: 2009-12-23
+    voice: witness
+    url: https://www.bbc.com/zhongwen/simp/china/2010/12/101210_my_last_statement
+    excerpt: true
+    keep: [我没有敌人，也没有仇恨, 仇恨会腐蚀一个人的智慧和良知, 我是文革后恢复高考的第一届大学生, 即使我被碾成粉末, 文字狱, 我期待我的国家是一片可以自由表达的土地, 表达自由，人权之基, 1989年6月是我生命的重大转折时刻, 以爱化解恨]
+  - id: b10-mfa-2010-10-08-liu-nobel
+    title: 外交部发言人马朝旭就诺贝尔委员会将 2010 年和平奖授予刘晓波答记者问
+    publisher: 外交部
+    date: 2010-10-08
+    voice: official
+    url: https://www.mfa.gov.cn/fyrbt_673021/dhdw_673027/201010/t20101008_5431720.shtml
+    start: 问：10月8日诺贝尔委员会
+    end: 也会给中挪关系带来损害。
+  - id: b10-nobel-2010-10-08-press-release
+    title: The Nobel Peace Prize 2010 – Press release
+    publisher: Norwegian Nobel Committee
+    date: 2010-10-08
+    voice: west
+    lang: en
+    url: https://www.nobelprize.org/prizes/peace/2010/press-release/
+    excerpt: true
+    keep: [long and non-violent struggle, Charter 08]
+  - id: b10-bbc-2017-07-13-liu-obit
+    title: 逝者：无法领奖的诺贝尔和平奖得主刘晓波
+    publisher: BBC 中文
+    date: 2017-07-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-40516593
+    excerpt: true
+    keep: [终年61岁, 刘晓波于1955年12月28日生于吉林长春, 1977至1982年, 天安门四君子, 1989年6月6日, 1996年至1999年, 2008年，刘晓波发起并起草了《零八宪章》, 2010年5月26日, 首位居住在中国境内, 刘晓波是触犯中国法律而被判刑的罪犯, 2017年6月26日, 5月23日被确诊, 他是因为言论自由被判刑, 刘晓波入狱后，他的妻子刘霞一直生活在软禁状态中, 独立中文笔会]
+  - id: b10-bbc-2018-07-10-liu-xia
+    title: 刘霞获准离开中国抵达德国
+    publisher: BBC 中文
+    date: 2018-07-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-44776137
+    excerpt: true
+    keep: [刘霞]
+  - id: b10-voa-2017-07-13-shenyang
+    title: 沈阳市司法局宣布刘晓波病逝
+    publisher: 美国之音
+    date: 2017-07-13
+    voice: zh
+    url: https://www.voachinese.com/a/news-shenyang-gov-says-liu-xiaobo-died-20170713/3942765.html
+    excerpt: true
+    keep: [多脏器功能衰竭]
+  - id: b10-dw-2017-07-14-mfa-liu
+    title: 中国警告外国别“说三道四”
+    publisher: 德国之声中文网
+    date: 2017-07-14
+    voice: zh
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%A4%96%E5%9B%BD%E5%88%AB%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B/a-39684862
+    excerpt: true
+    keep: [外国无权说三道四, 因触犯中国法律而被判刑的罪犯]
+  - id: b10-bbc-2017-07-13-liu-reactions
+    title: 中国异议人士刘晓波病逝 国际社会强烈反应
+    publisher: BBC 中文
+    date: 2017-07-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-40600292
+    excerpt: true
+    keep: [重大责任]
+
+  # ---- xu-zhiyong
+  - id: b10-court-2014-01-26-xu-verdict
+    title: 许志永一审被判处有期徒刑四年（附一审判决书）
+    publisher: 北京市第一中级人民法院
+    date: 2014-01-26
+    voice: doc
+    url: https://web.archive.org/web/20140201180902/http://bj1zy.chinacourt.org/public/detail.php?id=951
+    excerpt: true
+    keep: [依法判处许志永有期徒刑四年, 无视国家法律对于公民正当行使权利的规范, 犯聚众扰乱公共场所秩序罪，判处有期徒刑四年, 自2013年7月16日起]
+  - id: b10-rfi-2014-01-22-xu-statement
+    title: 许志永法庭陈词：为了自由·公义·爱
+    publisher: 法国国际广播电台
+    author: 许志永
+    date: 2014-01-22
+    voice: witness
+    url: https://www.rfi.fr/cn/%E9%A6%96%E9%A1%B5/20140122-%E8%AE%B8%E5%BF%97%E6%B0%B8%E6%B3%95%E5%BA%AD%E9%99%88%E8%AF%8D%EF%BC%9A%E6%9C%80%E5%90%8E%E4%B8%BA%E4%BA%86%E8%87%AA%E7%94%B1%C2%B7%E5%85%AC%E4%B9%89%C2%B7%E7%88%B1
+    excerpt: true
+    keep: [新公民运动倡导每个中国人堂堂正正做公民, 自由、公义、爱，这就是我们的新公民精神, 我是公民，我们是公民, 恐惧一个正在到来的自由社会, 彻底告别了敌人、江山、推翻、打倒的专制意识, 从跪倒的臣民成长为堂堂正正的公民]
+  - id: b10-bbc-2014-01-26-xu-verdict
+    title: 許志永一審被判刑四年
+    publisher: BBC 中文
+    date: 2014-01-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2014/01/140126_china_xu_verdict
+    excerpt: true
+    keep: [新公民運動的發起者之一, 官員財產公開與教育平權, 國際特赦]
+  - id: b10-bbc-2023-04-10-xu-ding
+    title: 中国维权人士许志永、丁家喜颠覆国家政权罪成 获重刑
+    publisher: BBC 中文
+    date: 2023-04-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-65225154
+    excerpt: true
+    keep: [剥夺政治权利8年, 不公开审理, 2014年他因聚众扰乱公共场所秩序罪, 李翘楚, 北京大学法学博士, 劝退书]
+  - id: b10-voa-2023-04-10-xu-ding
+    title: 中国维权律师许志永、丁家喜以“颠覆国家政权罪”遭重判14年与12年
+    publisher: 美国之音
+    date: 2023-04-10
+    voice: zh
+    url: https://www.voachinese.com/a/china-sentences-legal-activists-xu-and-ding-20230410/7043572.html
+    excerpt: true
+    keep: [厦门聚会, 2020年2月15日在广州, 闭门进行, 林昭纪念奖]
+  - id: b10-cna-2023-11-24-xu-appeal
+    title: 中國維權人士許志永丁家喜遭重判 二審駁回上訴
+    publisher: 中央社
+    date: 2023-11-24
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202311240219.aspx
+    excerpt: true
+    keep: [駁回兩人上訴, 2034年2月]
+  - id: b10-wiki-xu-zhiyong
+    title: 许志永（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-cn/%E8%AE%B8%E5%BF%97%E6%B0%B8
+    excerpt: true
+    keep: [孙志刚, 海淀区人大代表, 公盟, 1990年就读于兰州大学法律系, 2017年7月15日许志永刑满出狱, 2020年1月，许志永发表给习近平的公开信]
+
+  # ---- ma-yun
+  - id: b10-sina-2020-10-24-bund-speech
+    title: 马云外滩金融峰会演讲全文：中国金融业还是青少年
+    publisher: 新浪科技
+    author: 马云
+    date: 2020-10-24
+    voice: witness
+    url: https://finance.sina.com.cn/tech/2020-10-24/doc-iiznezxr7824300.shtml
+    excerpt: true
+    keep: [好的创新不怕监管, 必须改掉金融的当铺思想, 把风险控制为零才是最大的风险, 青少年, 巴塞尔协议比较象一个老年人俱乐部]
+  - id: b10-csrc-2020-11-02-ant-interview
+    title: 四部门联合约谈蚂蚁集团有关人员
+    publisher: 中国证监会
+    date: 2020-11-02
+    voice: official
+    url: https://www.csrc.gov.cn/csrc/c100028/c1000675/content.shtml
+    excerpt: true
+    keep: [进行了监管约谈]
+  - id: b10-sse-2020-11-03-ant-ipo
+    title: 关于暂缓蚂蚁科技集团股份有限公司科创板上市的决定
+    publisher: 上海证券交易所
+    date: 2020-11-03
+    voice: doc
+    url: https://www.sse.com.cn/disclosure/announcement/general/c/c_20201103_5253315.shtml
+    start: 蚂蚁科技集团股份有限公司：
+    end: 二○二○年十一月三日
+  - id: b10-xinhua-2021-04-10-alibaba-fine
+    title: 市场监管总局依法对阿里巴巴集团控股有限公司在中国境内网络零售平台服务市场实施“二选一”垄断行为作出行政处罚
+    publisher: 新华社
+    date: 2021-04-10
+    voice: official
+    url: http://www.xinhuanet.com/2021-04/10/c_1127314195.htm
+    start: 新华社北京4月10日电
+    end: 提交自查合规报告。
+  - id: b10-stcn-2023-01-07-ant-control
+    title: 蚂蚁集团重磅调整！马云退出实控人位置
+    publisher: 证券时报
+    date: 2023-01-07
+    voice: official
+    url: https://www.stcn.com/article/detail/770328.html
+    excerpt: true
+    keep: [6.208%, 不再存在任何直接或间接股东单一或共同控制蚂蚁集团的情形]
+  - id: b10-voa-2023-05-01-ma-tokyo
+    title: 阿里巴巴创始人马云出任东京大学客座教授
+    publisher: 美国之音
+    date: 2023-05-01
+    voice: zh
+    url: https://www.voachinese.com/a/jack-ma-takes-up-professorship-at-tokyo-university-20230501/7073281.html
+    excerpt: true
+    keep: [东京学院, 时运倒转的象征, 3月27日现身杭州]
+  - id: b10-bbc-2025-02-17-symposium
+    title: 习近平时隔六年多再晤民企：除了马云“过关”还有哪些关注点
+    publisher: BBC 中文
+    date: 2025-02-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cj3e3l3r2exo/simp
+    excerpt: true
+    keep: [炮轰监管, 华尔街日报, 政治风向标, 当铺思维, 马云不再拥有实际控制权, 长居日本，偶尔现身泰国, 马云参会的消息带动, 资本无序扩张]
+  - id: b10-bt-2026-08-25-ma-shares
+    title: Jack Ma buys Alibaba stock in show of support for AI buildout
+    publisher: The Business Times（Bloomberg）
+    date: 2026-08-25
+    voice: west
+    lang: en
+    url: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/jack-ma-buys-alibaba-stock-show-support-ai-buildout
+    excerpt: true
+    keep: [HK$600 million, biggest follow-on share offering, Ma has in recent years played a more active role, joined senior executives in picking up company stock]
+  - id: b10-36kr-2026-03-03-ma-yungu
+    title: 马云现身杭州云谷学校，谈AI
+    publisher: 36氪（界面新闻）
+    date: 2026-03-03
+    voice: zh
+    url: https://www.36kr.com/p/3708479341343112
+    excerpt: true
+    keep: [核心管理层罕见全部聚齐, AI时代已经快速到来]
+  - id: b10-wiki-ma-yun
+    title: 马云（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-cn/%E9%A9%AC%E4%BA%91
+    excerpt: true
+    keep: [杭州师范学院, 1999年, 2019年9月10日, 阿里巴巴]
+
+  # ---- ren-zhiqiang
+  - id: b10-bjjw-2020-07-23-ren-expelled
+    title: 北京市华远集团原党委副书记、董事长任志强严重违纪违法被开除党籍
+    publisher: 北京市西城区纪委区监委
+    date: 2020-07-23
+    voice: official
+    url: http://www.bjsupervision.gov.cn/ttxw/202007/t20200723_70290.html
+    start: 日前，北京市西城区纪委区监委
+    end: 所涉财物随案移送。
+  - id: b10-bjjw-2020-09-22-ren-verdict
+    title: 任志强涉嫌贪污、受贿、挪用公款、国有公司人员滥用职权一案依法公开宣判
+    publisher: 北京市第二中级人民法院
+    date: 2020-09-22
+    voice: official
+    url: https://www.bjsupervision.gov.cn/ttxw/202009/t20200922_71087.html
+    start: 2020年
+    end: 不上诉。
+  - id: b10-dw-2020-03-13-ren-missing
+    title: 任志强疑似失联 或因网文炮轰习近平
+    publisher: 德国之声中文网
+    date: 2020-03-13
+    voice: zh
+    url: https://www.dw.com/zh/%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%96%91%E4%BC%BC%E5%A4%B1%E8%81%94-%E6%88%96%E5%9B%A0%E7%BD%91%E6%96%87%E7%82%AE%E8%BD%B0%E4%B9%A0%E8%BF%91%E5%B9%B3/a-52781588
+    excerpt: true
+    keep: [剥光了衣服也要坚持当皇帝的小丑, 我们很多朋友都在找他, 执政危机, 从3月12日起]
+  - id: b10-nyt-2020-03-16-ren
+    title: 任志强失联，曾撰文批评习近平
+    publisher: 纽约时报中文网
+    date: 2020-03-16
+    voice: zh
+    url: https://cn.nytimes.com/china/20200316/china-ren-zhiqiang/
+    excerpt: true
+    keep: [任大炮, 留党察看一年, 而不是为党服务, 我会继续寻找他的下落]
+  - id: b10-bbc-2020-04-07-ren-probe
+    title: 北京地产大亨任志强被纪委调查 此前曾发文批习近平
+    publisher: BBC 中文
+    date: 2020-04-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-52205058
+    excerpt: true
+    keep: [8500字, 用各种谎言来当遮羞布, 3月12日晚上, 西城区纪委监委的通告称, 任志强的儿子也被带走调查]
+  - id: b10-rti-2020-03-09-ren
+    title: 疑似任志強發文：習近平是堅持當皇帝的小丑
+    publisher: 中央廣播電臺（中央社）
+    date: 2020-03-09
+    voice: zh
+    url: https://archive.news.rti.org.tw/news/view/id/2054673.html
+    excerpt: true
+    keep: [媒體有了姓, 十日文革]
+  - id: b10-voa-2020-09-22-ren
+    title: 曾大胆批评习近平 任志强被重判18年
+    publisher: 美国之音
+    date: 2020-09-22
+    voice: zh
+    url: https://www.voachinese.com/a/ren-zhiqiang-sentenced-20200922/5592883.html
+    excerpt: true
+    keep: [特别邀请的人, 生于1951年3月, 2011年4月，任志强被上级免去, 2016年2月28日, 四重身份]
+  - id: b10-bbc-2020-09-22-ren-verdict
+    title: 北京地产大亨任志强获刑18年 贪污受贿等四罪成立
+    publisher: BBC 中文
+    date: 2020-09-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-54115615
+    excerpt: true
+    keep: [坚决拒绝律师, 红二代, 任泉生, 当所有的媒体有了姓, 关闭任志强微博账号]
+
+  # ---- li-zhiying
+  - id: b10-hkgov-2025-12-15-lai-verdict
+    title: 原訟法庭裁定黎智英「串謀勾結外國或者境外勢力危害國家安全罪」及「串謀發布煽動刊物罪」罪成
+    publisher: 香港特區政府新聞公報
+    date: 2025-12-15
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202512/15/P2025121500391.htm
+    excerpt: true
+    keep: [謀求中國共產黨倒台, 外部勢力攻擊抹黑不攻自破]
+  - id: b10-hkgov-2026-02-09-lai-sentence
+    title: 原訟法庭就「黎智英案」的判刑彰顯公義
+    publisher: 香港特區政府新聞公報
+    date: 2026-02-09
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202602/09/P2026020900363.htm
+    excerpt: true
+    keep: [總刑期為20年, 罪行滔天]
+  - id: b10-bbc-2025-12-15-lai-profile
+    title: 黎智英國安案勾結及煽動罪成 他如何成為北京眼中的「犯罪主腦」？
+    publisher: BBC 中文
+    date: 2025-12-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cvg1v3dg3eyo/trad
+    excerpt: true
+    keep: [佐丹奴, 反對派報紙, 156日]
+  - id: b10-udn-2026-02-09-lai-sentence
+    title: 黎智英重判20年 支持者法庭內外高聲呼喊表達不滿（中央社）
+    publisher: 聯合新聞網（中央社）
+    date: 2026-02-09
+    voice: zh
+    url: https://udn.com/news/story/7331/9318451
+    excerpt: true
+    keep: [重判入獄20年, 前律師助理陳梓華]
+  - id: b10-bbc-2021-06-24-apple-daily
+    title: 香港《苹果日报》停刊与国安法：在喧闹中诞生，在风浪中逝去
+    publisher: BBC 中文
+    date: 2021-06-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-57590729
+    excerpt: true
+    keep: [最后一次出版]
+  - id: b10-bbc-2026-02-09-jimmy-lai
+    title: 黎智英被判囚20年
+    publisher: BBC 中文
+    date: 2026-02-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cr450w2v112o/simp
+    excerpt: true
+    keep: [20年, 欺诈案, 伊莲·皮尔森, 驻港国家安全公署发言人, 黎采, 单独囚禁也是他自行申请]
+  - id: b10-cna-2023-04-21-lai-doc
+    title: 從偷渡客到傳媒大亨 黎智英無悔為香港犧牲爭取民主自由
+    publisher: 中央社
+    date: 2023-04-21
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202304210269.aspx
+    excerpt: true
+    keep: [那時他只有12歲, 選擇就是自由, 我們要為最後一根稻草而戰, 我的一生都將致力於自由]
+  - id: b10-voa-2024-11-20-lai-testimony
+    title: 香港传媒大亨黎智英国安案首次亲自出庭作供
+    publisher: 美国之音
+    date: 2024-11-20
+    voice: zh
+    url: https://www.voachinese.com/a/detained-hk-jimmy-lai-first-testify-in-4-years-at-his-nsl-trial-20241120/7870910.html
+    excerpt: true
+    keep: [越知情越自由, 人民选择自由的威力比任何力量都要强大, 唯一的一篇社论]
+  - id: b10-zaobao-2024-11-20-lai-testimony
+    title: 黎智英首次出庭亲自作供 否认试图影响美国对华政策
+    publisher: 联合早报
+    date: 2024-11-20
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20241120-5377437
+    excerpt: true
+    keep: [我认为主张港独是阴谋, 香港监察, 回答“从未”]
+  - id: b10-bbc-2026-02-26-lai-fraud
+    title: 黎智英欺诈案上诉得直：定罪及刑罚被撤销，出狱时间提前
+    publisher: BBC 中文
+    date: 2026-02-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c9dnxn569epo/simp
+    excerpt: true
+    keep: [两宗欺诈罪获撤罪, 仍要服刑至2040年, 没有一丝一毫悔意]
+  - id: b10-hkgov-2026-02-26-lai-fraud
+    title: 有關上訴法庭就「黎智英欺詐案」的判決
+    publisher: 香港特區政府新聞公報
+    date: 2026-02-26
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202602/26/P2026022600434.htm
+    excerpt: true
+    keep: [無改黎智英公器私用這客觀事實, 宣判被告上訴得直]
+  - id: b10-hkfp-2026-03-06-lai-no-appeal
+    title: Jimmy Lai will not appeal nat. security conviction, 20-year jail term, lawyer says
+    publisher: Hong Kong Free Press
+    date: 2026-03-06
+    voice: west
+    lang: en
+    url: https://hongkongfp.com/2026/03/06/breaking-hong-kong-media-tycoon-jimmy-lai-will-not-appeal-nat-security-conviction-20-year-jail-term-lawyer-says/
+    excerpt: true
+    keep: [clear and definitive instructions, longest jail term]
+  - id: b10-independent-2026-10-01-lai-trump
+    title: Trump says he had ‘fruitful discussions’ about Jimmy Lai’s release with Xi Jinping
+    publisher: The Independent
+    date: 2026-10-01
+    voice: west
+    lang: en
+    url: https://www.independent.co.uk/asia/china/donald-trump-jimmy-lai-discuss-xi-jinping-b3059653.html
+    excerpt: true
+    keep: [fruitful discussions, tough one]
+  - id: b10-wiki-li-zhiying
+    title: 黎智英（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-cn/%E9%BB%8E%E6%99%BA%E8%8B%B1
+    excerpt: true
+    keep: [1947年, 偷渡, 佐丹奴, 壹周刊, 欺诈]
+
+  # ---- lin-zheng-yuee
+  - id: b10-gov-2017-03-26-lam-elected
+    title: 林郑月娥当选香港特别行政区第五任行政长官人选
+    publisher: 新华社
+    date: 2017-03-26
+    voice: official
+    url: https://web.archive.org/web/2017/https://www.gov.cn/xinwen/2017-03/26/content_5180970.htm
+    start: 新华社香港3月26日电
+    end: 2022年6月30日。
+  - id: b10-voa-2017-03-01-ce-candidates
+    title: 香港特首选举 三名候选人出线
+    publisher: 美国之音
+    date: 2017-03-01
+    voice: zh
+    url: https://www.voachinese.com/a/news-hk-ce-election-20170301/3744901.html
+    excerpt: true
+    keep: [1957年5月13日, 获特区政府颁授大紫荆勋章, 林兆波]
+  - id: b10-reuters-2019-09-02-lam-audio
+    title: Hong Kong leader says she would ‘quit’ if she could, fears her ability to end crisis ‘very limited’
+    publisher: Reuters
+    date: 2019-09-02
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2019/https://www.reuters.com/investigates/special-report/hongkong-protests-lam-audio/
+    excerpt: true
+    keep: [the first thing is to quit, unforgivable]
+  - id: b10-bt-2019-09-03-lam-transcript
+    title: 'HK chief executive has to serve two masters: Carrie Lam full transcript'
+    publisher: The Business Times（Reuters）
+    date: 2019-09-03
+    voice: west
+    lang: en
+    url: https://www.businesstimes.com.sg/international/hk-chief-executive-has-serve-two-masters-carrie-lam-full-transcript
+    excerpt: true
+    keep: [the first thing is to quit, unforgivable, two masters]
+  - id: b10-hkgov-2019-09-03-lam-presser
+    title: 行政長官於行政會議前會見傳媒開場發言和答問內容
+    publisher: 香港特區政府新聞公報
+    date: 2019-09-03
+    voice: official
+    url: https://www.info.gov.hk/gia/general/201909/03/P2019090300524.htm
+    excerpt: true
+    keep: [私人、閉門的聚會, 請辭]
+  - id: b10-bbc-2019-09-03-lam-denies
+    title: 林郑月娥：香港特首称从未向北京辞职，没有安排过录音
+    publisher: BBC 中文
+    date: 2019-09-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-49561247
+    excerpt: true
+    keep: [孔诰峰, 故意流出, 林郑月娥在录音中以英语发言, 行政长官在宪制上需要同时向香港市民和中国中央政府负责, 三名曾经参加会面的人确认, 林和立也认为, 第一件要做的事就是辞职]
+  - id: b10-hkgov-2019-09-04-lam-address
+    title: 行政長官向全港市民發表講話
+    publisher: 香港特區政府新聞公報
+    date: 2019-09-04
+    voice: doc
+    url: https://www.info.gov.hk/gia/general/201909/04/P2019090400664.htm
+    excerpt: true
+    keep: [正式撤回條例草案, 暫緩, 而不應該另設獨立調查委員會, 我現在提出四項行動, 以對話代替對立]
+  - id: b10-bbc-2019-09-04-withdraw
+    title: 林郑月娥宣布撤回《逃犯条例》修订 “四项行动”回应“五大诉求”
+    publisher: BBC 中文
+    date: 2019-09-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-49576610
+    excerpt: true
+    keep: [6月16日宣布暂缓修例建议, 独立调查委员会]
+  - id: b10-bbc-2020-08-07-lam-sanction
+    title: 美国宣布制裁11名中港官员，林郑月娥首当其冲
+    publisher: BBC 中文
+    date: 2020-08-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-53700444
+    excerpt: true
+    keep: [施行北京打压自由和民主程序的政策, 不发签证就不去]
+  - id: b10-hkgov-2022-04-04-not-run
+    title: 行政長官抗疫記者會開場發言及答問內容
+    publisher: 香港特區政府新聞公報
+    date: 2022-04-04
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202204/04/P2022040400390.htm
+    excerpt: true
+    keep: [本人將不會參加第六屆行政長官選舉, 修例風波]
+  - id: b10-zaobao-2022-11-10-lam-retire
+    title: 林郑卸任后首访：回归普通生活无需新岗位
+    publisher: 联合早报
+    date: 2022-11-10
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221110-1331690
+    excerpt: true
+    keep: [这个就是家庭主妇, 讲讲“一国两制”]
+  - id: b10-udn-2026-07-06-lam-youth
+    title: 前香港特首林鄭月娥 協助推動青少年工作（中央社）
+    publisher: 聯合新聞網（中央社）
+    date: 2026-07-06
+    voice: zh
+    url: https://udn.com/news/story/7331/9609905
+    excerpt: true
+    keep: [港澳青年浙江行]
+
+  # ---- ai-weiwei
+  - id: b10-reuters-2011-04-07-ai-mfa
+    title: 中国外交部证实艾未未因涉嫌经济犯罪而接受调查
+    publisher: 路透中文网
+    date: 2011-04-07
+    voice: zh
+    url: https://web.archive.org/web/20180206190310/https://cn.reuters.com/article/idCNCHINA-4101420110407
+    excerpt: true
+    keep: [与人权或言论自由没有任何关系, 涉嫌经济犯罪，正在接受公安机关的依法调查]
+  - id: b10-voa-2011-04-07-ai
+    title: 中国：艾未未因涉嫌经济犯罪接受调查
+    publisher: 美国之音
+    date: 2011-04-07
+    voice: zh
+    url: https://www.voachinese.com/a/article-20110407-china-artist-119375019/780287.html
+    excerpt: true
+    keep: [鸟巢]
+  - id: b10-rfa-2011-06-22-ai-bail
+    title: 艾未未被取保候审
+    publisher: 自由亚洲电台
+    date: 2011-06-22
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/ai-06222011142646.html
+    excerpt: true
+    keep: [鉴于艾未未认罪态度好, 八十一天]
+  - id: b10-rfi-2012-09-27-ai-tax
+    title: 艾未未课税案终极败诉 责法庭耻辱
+    publisher: 法国国际广播电台
+    date: 2012-09-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20120927-%E8%89%BE%E6%9C%AA%E6%9C%AA%E8%AF%BE%E7%A8%8E%E6%A1%88%E7%BB%88%E6%9E%81%E8%B4%A5%E8%AF%89-%E8%B4%A3%E6%B3%95%E5%BA%AD%E8%80%BB%E8%BE%B1
+    excerpt: true
+    keep: [耻辱，你们都将被记住, 1522万]
+  - id: b10-bbc-2009-05-ai-quake-list
+    title: 四川地震遇难者名单背后的疑问
+    publisher: BBC 中文
+    date: 2009-05
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8030000/newsid_8032700/8032736.stm
+    excerpt: true
+    keep: [公民调查, 5161人]
+  - id: b10-voa-2009-08-12-ai-chengdu
+    title: 中国警方拘留地震维权人士支持者
+    publisher: 美国之音
+    date: 2009-08-12
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-2009-08-12-voa51-60891232/1014608.html
+    excerpt: true
+    keep: [警察殴打他的脸, 收集地震死难儿童的名单]
+  - id: b10-rfi-2021-06-03-ai-portugal
+    title: 艾未未里斯本展览会周五开幕 艺术家向居住国葡萄牙致敬
+    publisher: 法国国际广播电台
+    date: 2021-06-03
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210603-%E8%89%BE%E6%9C%AA%E6%9C%AA%E9%87%8C%E6%96%AF%E6%9C%AC%E5%B1%95%E8%A7%88%E4%BC%9A%E5%91%A8%E4%BA%94%E5%BC%80%E5%B9%95-%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%90%91%E5%B1%85%E4%BD%8F%E5%9B%BD%E8%91%A1%E8%90%84%E7%89%99%E8%87%B4%E6%95%AC
+    excerpt: true
+    keep: [欢迎来到我的国家]
+  - id: b10-dw-2026-01-ai-passport
+    title: 艾未未：中國護照是我的「胎記」
+    publisher: 德国之声中文网
+    date: 2026-01
+    voice: zh
+    url: https://www.dw.com/zh-hant/%E8%89%BE%E6%9C%AA%E6%9C%AA%E4%B8%AD%E5%9C%8B%E8%AD%B7%E7%85%A7%E6%98%AF%E6%88%91%E7%9A%84%E8%83%8E%E8%A8%98/a-75505890
+    excerpt: true
+    keep: [93歲的母親, 它就像胎記, 艾未未是著名詩人艾青之子, 2019年他和家人遷居英國]
+  - id: b10-cna-2026-01-16-ai
+    title: 艾未未返國後態度丕變「揚中抑歐」引熱議
+    publisher: 中央社
+    date: 2026-01-16
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202601160103.aspx
+    excerpt: true
+    keep: [中國從未追求擴張, 吳祚來]
+
+  # ---- li-wenliang
+  - id: b10-xinhua-2020-03-19-li-report
+    title: 关于群众反映的涉及李文亮医生有关情况调查的通报
+    publisher: 新华社（国家监委调查组）
+    date: 2020-03-19
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-03/19/c_1125737457.htm
+    start: 新华社北京3月19日电
+    end: 及时向社会公布处理结果。
+  - id: b10-paper-2020-03-19-wuhan-police
+    title: 武汉市公安局：撤销对李文亮训诫书，并就此错误向当事人家属郑重道歉
+    publisher: 澎湃新闻（武汉市公安局通报）
+    date: 2020-03-19
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_6601587
+    excerpt: true
+    keep: [武汉市公安局决定撤销训诫书]
+  - id: b10-xinhua-2020-03-19-wuhan-police-discipline
+    title: 武汉市公安局对李文亮医生被训诫一案相关责任人作出处理
+    publisher: 新华网（平安武汉微博）
+    date: 2020-03-19
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-03/19/c_1125737967.htm
+    start: 根据公安机关人民警察相关纪律规定
+    end: 给予其行政警告处分。
+  - id: b10-xinhua-2020-04-02-martyrs
+    title: 湖北14名新冠肺炎疫情防控一线牺牲人员被评定为首批烈士
+    publisher: 新华社
+    date: 2020-04-02
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-04/02/c_1125806371.htm
+    excerpt: true
+    keep: [评定王兵, 5.李文亮]
+  - id: b10-cdt-2020-01-31-caixin-li
+    title: 新冠肺炎“吹哨人”李文亮：真相最重要（财新网 2020 年 1 月 31 日，中国数字时代存档）
+    publisher: 财新网（中国数字时代存档）
+    date: 2020-01-31
+    voice: witness
+    url: https://chinadigitaltimes.net/chinese/640969.html
+    excerpt: true
+    keep: [一个健康的社会不该只有一种声音, 我觉得不算造谣, 而现在是否给他平反已经不那么重要, 李文亮报考了武汉大学临床医学七年制专业, 不签的话怕不能脱身, 此前一天的第三次核酸检测有了结果]
+  - id: b10-nyt-2020-02-08-li-interview
+    title: 对话疫情“吹哨人”：李文亮医生生前采访实录
+    publisher: 纽约时报中文网
+    date: 2020-02-08
+    voice: zh
+    url: https://cn.nytimes.com/china/20200208/li-wenliang-china-coronavirus/
+    excerpt: true
+    keep: [如果官方提前公布疫情信息我想会好很多, 明明出于好意, 认为我造谣]
+  - id: b10-bbc-2020-02-07-li-death
+    title: 李文亮去世：国际舆论关注其引发的“愤怒、悲恸和要求言论自由的呼声”
+    publisher: BBC 中文
+    date: 2020-02-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-51414480
+    excerpt: true
+    keep: [武汉政府欠李文亮医生一个道歉, 34岁, 死了两次, 有迹象显示涉及李文亮之死的言论遭到删查]
+  - id: b10-cna-2020-04-02-li-martyr
+    title: 更改定性 李文亮等14人被湖北省封為烈士
+    publisher: 中央社
+    date: 2020-04-02
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202004020258.aspx
+    excerpt: true
+    keep: [被公眾視為「吹哨者」, 8人被警方通報為造謠]

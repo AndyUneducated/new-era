@@ -1,0 +1,12 @@
+# I01: the party's ideology corpus (congress reports 1997–2022, the 2021 resolution, the charter, the constitution, the 2024–2025 plenums), full text, for the frequency view.
+- { id: i01-wenming-1997-09-12-15th-report, short: 十五大报告, kind: congress, date: 1997-09-12 }
+- { id: i01-jszx-2002-11-08-16th-report, short: 十六大报告, kind: congress, date: 2002-11-08 }
+- { id: i01-moa-2007-10-15-17th-report, short: 十七大报告, kind: congress, date: 2007-10-15 }
+- { id: i01-wsyu-2012-11-08-18th-report, short: 十八大报告, kind: congress, date: 2012-11-08 }
+- { id: i01-gov-2017-10-18-19th-report, short: 十九大报告, kind: congress, date: 2017-10-18 }
+- { id: i01-gov-2022-10-16-20th-report, short: 二十大报告, kind: congress, date: 2022-10-16 }
+- { id: i01-gov-2021-11-11-third-resolution, short: 第三个历史决议, kind: resolution, date: 2021-11-11 }
+- { id: i01-12371-2022-10-22-party-charter, short: 党章（2022）, kind: charter, date: 2022-10-22 }
+- { id: i01-gov-2018-03-11-constitution, short: 宪法（2018）, kind: constitution, date: 2018-03-11 }
+- { id: i01-gov-2024-07-18-third-plenum-decision, short: 二十届三中全会决定, kind: plenum, date: 2024-07-18 }
+- { id: i01-fmprc-2025-10-23-fourth-plenum-communique, short: 二十届四中全会公报, kind: plenum, date: 2025-10-23 }

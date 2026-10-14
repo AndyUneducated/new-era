@@ -1,0 +1,802 @@
+# E04 events, 2020-01 to 2026-10. Sources in research/manifests/E04.yaml.
+
+# ---------- 2020 ----------
+- id: wuhan-lockdown-2020
+  date: 2020-01-23
+  end: 2020-04-08
+  title: 武汉“封城”
+  lane: society
+  major: true
+  summary: 国务院新闻办白皮书记载，2019年12月27日湖北省中西医结合医院上报不明原因肺炎，2020年1月19日深夜高级别专家组确认人传人。1月23日10时起武汉离汉通道关闭，4月8日解除持续76天的离汉离鄂管控。早期通报是否延误，至今是中外争议焦点。
+  people: [xi-jinping, li-wenliang]
+  concepts: [dynamic-zero]
+  voices:
+    - voice: doc
+      text: 19日深夜，高级别专家组经认真研判，明确新冠病毒出现人传人现象。
+      cite: e04-gov-2020-06-07-covid-whitepaper
+      quote: true
+    - voice: zh
+      text: 有迹象显示涉及李文亮之死的言论遭到删查
+      cite: e04-bbc-2020-02-07-li-wenliang
+      quote: true
+  cites: [e04-gov-2020-06-07-covid-whitepaper, e04-bbc-2020-02-07-li-wenliang]
+
+- id: li-wenliang-death
+  date: 2020-02-07
+  end: 2020-03-19
+  title: 李文亮去世与国家监委调查
+  lane: society
+  summary: 早期因谈论不明肺炎而被武汉中南路派出所训诫的医生李文亮感染新冠去世，年仅34岁。微博上“武汉政府欠李文亮医生一个道歉”等言论短暂流传后消失。3月19日国家监委调查组通报，认定训诫书不当，建议撤销并追究责任。
+  people: [li-wenliang]
+  voices:
+    - voice: official
+      text: 由于中南路派出所出具训诫书不当，执法程序不规范，调查组已建议湖北省武汉市监察机关对此事进行监督纠正，督促公安机关撤销训诫书并追究有关人员责任
+      cite: e04-xinhua-2020-03-19-li-wenliang-report
+      quote: true
+    - voice: zh
+      text: “武汉政府欠李文亮医生一个道歉”和“我们要言论自由”等周四在微博网站短暂流传之后，迅即消失
+      cite: e04-bbc-2020-02-07-li-wenliang
+      quote: true
+  cites: [e04-bbc-2020-02-07-li-wenliang, e04-xinhua-2020-03-19-li-wenliang-report]
+  verify: true
+
+- id: galwan-clash
+  date: 2020-06-15
+  title: 中印加勒万河谷冲突
+  lane: army
+  summary: 中印两军在拉达克与阿克赛钦之间的加勒万河谷爆发数十年来最严重的冲突，虽未开一枪，据BBC报道仍造成双方至少24名军人丧生。中方直到八个月后的2021年2月19日，才由《解放军报》等官方媒体首次披露有4名军人阵亡。
+  cites: [e04-bbc-2021-06-01-galwan]
+
+- id: hk-national-security-law
+  date: 2020-06-30
+  title: 全国人大常委会通过《香港国安法》
+  lane: hkmt
+  major: true
+  summary: 十三届全国人大常委会第二十次会议全票通过《中华人民共和国香港特别行政区维护国家安全法》，由国家主席习近平以第49号主席令公布，并列入基本法附件三在港实施。此后港人以举白纸方式表达抗议，香港政治生态随之改变。
+  people: [xi-jinping, li-zhanshu, lin-zheng-yuee]
+  concepts: [holistic-security]
+  cites: [e04-gov-2020-06-30-hk-nsl, e04-bbc-2022-11-28-white-paper]
+
+- id: ren-zhiqiang-sentenced
+  date: 2020-09-22
+  title: 任志强被判刑十八年
+  lane: purge
+  summary: 北京市第二中级人民法院一审认定地产大亨任志强贪污罪、受贿罪、挪用公款罪、国有公司人员滥用职权罪成立，判处有期徒刑十八年，并处罚金420万元。他此前撰文批评当局抗疫，文中称某人是“剥光了衣服也要坚持当皇帝的小丑”。
+  people: [ren-zhiqiang, xi-jinping]
+  cites: [e04-bbc-2020-09-22-ren-zhiqiang]
+
+- id: fifth-plenum-19th
+  date: 2020-10-26
+  end: 2020-10-29
+  title: 十九届五中全会
+  lane: power
+  summary: 十九届五中全会审议通过关于制定“十四五”规划和二〇三五年远景目标的建议，提出立足新发展阶段、贯彻新发展理念、构建新发展格局。全会并称预计二〇二〇年国内生产总值突破一百万亿元，五千五百七十五万农村贫困人口实现脱贫。
+  people: [xi-jinping]
+  concepts: [new-development-philosophy, dual-circulation]
+  cites: [e04-xinhua-2020-10-29-5th-plenum]
+
+- id: ant-ipo-halted
+  date: 2020-11-03
+  title: 蚂蚁集团上市被叫停
+  lane: econ
+  summary: 人民银行、银保监会、证监会和外汇局联合约谈马云等蚂蚁集团高管后，上海证券交易所突然宣布暂停蚂蚁集团上市，蚂蚁随即暂缓在港H股上市。外界普遍认为与马云10月24日在外滩金融峰会上的讲话有关，他当时称“我们必须改掉金融的当铺思想”。
+  people: [ma-yun]
+  cites: [e04-bbc-2020-11-03-ant-ipo]
+
+- id: neijuan-dagongren
+  date: 2020-12-04
+  title: “内卷”“打工人”入选年度流行语
+  lane: folk
+  summary: 《咬文嚼字》编辑部12月4日在上海公布2020年十大流行语，“内卷”和“打工人”入选。前者原为社会学术语，在网络上被用来形容无意义的过度竞争；后者是年轻上班族带有自嘲意味的自称，反映职场压力下的集体情绪。
+  cites: [e04-xinhua-2020-12-04-buzzwords]
+
+# ---------- 2021 ----------
+- id: hk-electoral-overhaul
+  date: 2021-03-11
+  title: 全国人大改革香港选举制度
+  lane: hkmt
+  summary: 十三届全国人大四次会议通过关于完善香港特别行政区选举制度的决定，选举委员会扩为五个界别共1500人，立法会议员定为每届90人，并设立候选人资格审查委员会，以确保以爱国者为主体的“港人治港”。
+  people: [lin-zheng-yuee, xia-baolong]
+  cites: [e04-gov-2021-03-11-hk-electoral]
+
+- id: xinjiang-cotton-sanctions
+  date: 2021-03-22
+  end: 2021-03-25
+  title: 欧盟涉疆制裁与新疆棉风波
+  lane: ethnic
+  summary: 欧盟以新疆维吾尔族人权问题为由，制裁四名中国官员及新疆生产建设兵团公安局，中国随即宣布制裁欧盟10名个人和实体。H&M一则关于新疆棉花的旧声明随后在中国网络遭猛烈抨击，耐克、阿迪达斯等品牌也被卷入，多名中国艺人宣布终止与H&M合作。
+  cites: [e04-bbc-2021-03-25-xinjiang-cotton]
+
+- id: tangping
+  date: 2021-04
+  end: 2021-06
+  title: “躺平”
+  lane: folk
+  summary: 2021年4月，百度贴吧一篇《躺平即是正义》的帖子获大量转发，主张以退出竞争回应无意义的努力，“躺平”与“内卷”一起成为90后、00后的口头禅。《光明日报》《南方日报》等官方媒体发文批评甚至谴责，学者项飙则把它视为年轻人对内卷的反抗。
+  concepts: [common-prosperity]
+  voices:
+    - voice: official
+      text: 在压力面前选择“躺平”不仅不正义，还是可耻的
+      cite: e04-xinhua-2021-05-20-tangping
+      quote: true
+    - voice: scholar
+      text: 躺平是年轻人对“内卷”的一种反抗
+      cite: e04-bbc-2021-06-01-tangping
+      quote: true
+  cites: [e04-bbc-2021-06-01-tangping, e04-xinhua-2021-05-20-tangping]
+  verify: true
+
+- id: apple-daily-closes
+  date: 2021-06-24
+  title: 《苹果日报》停刊
+  lane: hkmt
+  summary: 创办人黎智英及多名高层依《香港国安法》被捕、公司资产遭冻结后，香港《苹果日报》于2021年6月24日最后一次出版，“终年”26年又四日。英美等国和新闻自由组织谴责打压新闻自由，北京与港府则称是打击危害国家安全的犯罪。
+  people: [li-zhiying]
+  cites: [e04-bbc-2021-06-24-apple-daily]
+
+- id: cpc-centenary
+  date: 2021-07-01
+  title: 建党一百周年大会
+  lane: ideo
+  major: true
+  summary: 习近平在天安门广场庆祝中国共产党成立100周年大会上宣告，实现了第一个百年奋斗目标，在中华大地上全面建成了小康社会，历史性地解决了绝对贫困问题，并警告外来势力将“碰得头破血流”，开启第二个百年奋斗目标新征程。
+  people: [xi-jinping]
+  concepts: [xiaokang, chinese-dream]
+  cites: [e04-gov-2021-07-01-centenary-speech]
+
+- id: double-reduction
+  date: 2021-07-24
+  title: “双减”整顿校外培训
+  lane: society
+  summary: 中办、国办印发关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见，要求现有学科类培训机构统一登记为非营利性机构，学科类培训机构一律不得上市融资，严禁资本化运作，外资也不得控股或参股学科类培训机构。
+  cites: [e04-gov-2021-07-24-double-reduction]
+
+- id: common-prosperity-meeting
+  date: 2021-08-17
+  title: 中央财经委会议部署共同富裕
+  lane: econ
+  summary: 习近平主持中央财经委员会第十次会议，强调共同富裕是社会主义的本质要求，是中国式现代化的重要特征，要构建初次分配、再分配、三次分配协调配套的基础性制度安排，扩大中等收入群体比重，合理调节高收入，取缔非法收入，形成中间大、两头小的橄榄型分配结构。
+  people: [xi-jinping]
+  concepts: [common-prosperity, chinese-modernization]
+  cites: [e04-gov-2021-08-17-common-prosperity]
+
+- id: peng-shuai
+  date: 2021-11-02
+  end: 2021-12-01
+  title: 彭帅发文指控张高丽
+  lane: society
+  summary: 北京时间11月2日晚，网球名将彭帅的认证微博发长文，称曾与已退休的前国务院副总理张高丽发生性关系并描述当时的恐惧，帖子约20分钟后被删除，相关讨论遭审查。国际女子网球协会要求彭帅声音被听到，12月1日宣布暂停在华全部赛事；中国外交部称事件不应被政治化。
+  people: [peng-shuai, zhang-gaoli]
+  voices:
+    - voice: zh
+      text: 这篇帖文据悉在微博上发表了约20分钟后被删除
+      cite: e04-bbc-2021-11-03-peng-shuai
+      quote: true
+    - voice: west
+      text: 国际女子网球协会要求彭帅的指控得到全面、公正、透明的调查，称她的声音应当“被听到，而不是被审查”。
+      cite: e04-bbc-2021-11-15-peng-shuai-wta
+    - voice: official
+      text: 中國外交部發言人趙立堅11月23日首度開腔，他稱該事件「不應被政治化」
+      cite: e04-bbc-2021-12-02-peng-shuai-wta-suspend
+      quote: true
+  cites: [e04-bbc-2021-11-03-peng-shuai, e04-bbc-2021-11-15-peng-shuai-wta, e04-bbc-2021-12-02-peng-shuai-wta-suspend]
+
+- id: sixth-plenum-19th
+  date: 2021-11-08
+  end: 2021-11-11
+  title: 十九届六中全会与第三个历史决议
+  lane: ideo
+  major: true
+  summary: 十九届六中全会审议通过《中共中央关于党的百年奋斗重大成就和历史经验的决议》，习近平就决议讨论稿向全会作说明；全会并审议通过关于召开党的二十大的决议，决定二十大于2022年下半年在北京召开。出席全会的有中央委员197人、候补中央委员151人。
+  people: [xi-jinping]
+  concepts: [third-resolution, two-establishes, xi-thought]
+  cites: [e04-gov-2021-11-11-6th-plenum]
+
+- id: evergrande-default
+  date: 2021-12-09
+  title: 恒大被评级机构认定违约
+  lane: econ
+  summary: 恒大在最后期限过去三天后仍未回应是否已向债券持有人支付8200万美元，惠誉评级随即将其列入“限制性违约”类别，同日把佳兆业也列入该类别。在对房地产行业借贷的广泛收紧下，当年已有超过11家房企出现债券违约。
+  people: [xu-jiayin]
+  cites: [e04-nytcn-2021-12-10-evergrande]
+
+# ---------- 2022 ----------
+- id: sino-russian-statement
+  date: 2022-02-04
+  title: 中俄“合作没有禁区”联合声明
+  lane: foreign
+  summary: 中俄发表关于新时代国际关系和全球可持续发展的联合声明，称中俄新型国家间关系超越冷战时期的军事政治同盟模式，“两国友好没有止境，合作没有禁区”；双方反对北约继续扩张，并高度警惕美国“印太战略”的消极影响。
+  people: [xi-jinping]
+  cites: [e04-gov-2022-02-04-sino-russian]
+
+- id: feng-county-chained-woman
+  date: 2022-02-23
+  title: 丰县“铁链女”事件调查结果
+  lane: society
+  summary: 江苏丰县一名被铁链锁住的生育八孩女子的视频引发全网追问。江苏省委省政府调查组2月23日发布通报，认定小花梅于1998年被他人介绍花钱买来，对17人进行问责，给予丰县县委书记娄海撤销党内职务、政务撤职处分。
+  cites: [e04-news-2022-02-23-fengxian]
+
+- id: shanghai-lockdown
+  date: 2022-03-27
+  title: 上海封城
+  lane: society
+  major: true
+  summary: 3月27日上海宣布实施严厉的封城措施。从被强制入住方舱医院的感染者和密接者，到在医院前求助无门的病患，大批市民在网上分享遭遇、批评不合理的防疫手段，许多文章很快被删。BBC指出，网民针对重要公共政策自发大规模批评的现象在中国并不常见。
+  people: [li-qiang]
+  concepts: [dynamic-zero]
+  cites: [e04-bbc-2022-04-19-shanghai-lockdown]
+
+- id: voices-of-april
+  date: 2022-04-22
+  title: 《四月之声》
+  lane: folk
+  summary: 一段记录上海封城期间市民声音的视频《四月之声》，4月22日起在微博和微信广传，片中能听到一名女士抱怨所住方舱医院都还没有封顶。周末起互联网公司和有关当局试图将其删除，与不断复制、制作新版本的网民反复拉锯。
+  cites: [e04-bbc-2022-04-23-voices-of-april]
+
+- id: last-generation
+  date: 2022-05-11
+  title: “我们是最后一代”
+  lane: folk
+  summary: 5月11日起网络疯传一段视频：上海一对核酸阴性的年轻夫妇被“大白”强拉转运，对方威胁处罚会影响他的三代，男子回答“这是我们最后一代，谢谢!”。这句话被称为史诗级对白，道出许多年轻人的心声；微博随后屏蔽了相关话题。
+  cites: [e04-rfi-2022-05-12-last-generation]
+
+- id: xinjiang-police-files
+  date: 2022-05
+  title: “新疆公安文件”外泄
+  lane: ethnic
+  summary: BBC等媒体发布由学者郑国恩转交的新疆警方外泄资料，包括数千张维吾尔被拘留者照片、拘留营警卫指令和陈全国等官员讲话，至少2884人可证实已被拘留。发布恰逢联合国人权高专巴切莱特访华；中国驻美使馆称涉疆问题本质是反恐。
+  people: [chen-quanguo, zhao-kezhi, xi-jinping]
+  voices:
+    - voice: zh
+      text: “对于一些人，甚至5年的再教育可能是不够的，”陈全国向军队和警察系统高级干部表示。
+      cite: e04-bbc-2022-05-25-xinjiang-police-files
+      quote: true
+    - voice: official
+      text: 新疆有关问题本质上是打击恐怖主义暴力、激进化和分裂主义的问题，而不是人权或宗教问题
+      cite: e04-bbc-2022-05-25-xinjiang-police-files
+      quote: true
+  cites: [e04-bbc-2022-05-25-xinjiang-police-files]
+
+- id: run-xue
+  date: 2022-06
+  title: “润学”
+  lane: folk
+  summary: 上海封城期间，网民用“润”字的拼音谐音英文run，指移民离开中国，有关润的种种讨论与分析被戏称为“润学”，专门讨论润的网站也吸引成千上万网民参与。BBC把它看作内卷之后年轻人开始考虑移民的信号。
+  cites: [e04-bbc-2022-06-run-xue]
+
+- id: pelosi-taiwan-drills
+  date: 2022-08-04
+  end: 2022-08-07
+  title: 佩洛西访台与环台军演
+  lane: hkmt
+  summary: 美国众议院议长佩洛西8月2日访台后，解放军东部战区在台岛周边举行规模空前的联合演训，划定的演习范围部分处于台湾岛周边12海里之内，台湾国防部称共有11枚东风系列导弹射向台湾周边海域。BBC指出，1996年台海危机时的禁区全部在台湾领海之外。
+  people: [cai-yingwen]
+  cites: [e04-news-2022-08-04-pelosi-drills, e04-bbc-2022-08-04-pelosi-drills]
+
+- id: sitong-bridge
+  date: 2022-10-13
+  title: 四通桥标语
+  lane: folk
+  summary: 二十大开幕前三天，一名抗议者在北京四通桥挂出两条横幅，一条写有“不要核酸要吃饭，不要封控要自由”等六句口号，另一条要求习近平下台。相关搜索在微博被清空，口号却以厕所涂鸦等形式在国内流传，并出现在至少20个国家的200多所大学的公告栏上。
+  voices:
+    - voice: zh
+      text: 不要核酸要吃饭，不要封控要自由，不要谎言要尊严，不要文革要改革，不要领袖要选票，不做奴才做公民。
+      cite: e04-bbc-2022-10-13-sitong
+      quote: true
+  cites: [e04-bbc-2022-10-13-sitong, e04-bbc-2022-10-28-sitong-spread, e04-nytcn-2022-10-23-sitong-overseas]
+
+- id: charter-two-establishes
+  date: 2022-10-22
+  title: 二十大修改党章写入“两个确立”精神
+  lane: ideo
+  summary: 中共二十大通过党章修正案决议，把十九大以来习近平新时代中国特色社会主义思想新发展写入党章，并要求全党深刻领悟“两个确立”的决定性意义，称其从根本上确保民族复兴进入不可逆转的历史进程。
+  people: [xi-jinping]
+  concepts: [two-establishes, xi-thought, two-safeguards]
+  cites: [e04-xinhua-2022-10-22-charter-resolution]
+
+- id: hu-jintao-escorted-out
+  date: 2022-10-22
+  title: 胡锦涛在二十大闭幕会上被带离
+  lane: power
+  major: true
+  summary: 二十大闭幕会进行中，前总书记胡锦涛在镜头前被两名工作人员搀扶离场，离场时跟习近平打了招呼，并轻拍李克强左肩。新华社当晚在推特上称他坚持出席闭幕会，因身体不适被陪同到隔壁房间休息；BBC则把他称为团派的代表人物，这一幕至今没有更多官方解释。
+  people: [hu-jintao, xi-jinping, li-keqiang, li-zhanshu]
+  factions: [tuanpai]
+  voices:
+    - voice: official
+      text: When he was not feeling well during the session, his staff, for his health, accompanied him to a room next to the meeting venue for a rest. Now, he is much better.
+      zh: 他在会议期间感到身体不适，工作人员为了他的健康，陪同他到会场隔壁房间休息。现在他已好多了。
+      cite: e04-guardian-2022-10-23-hu-jintao
+      quote: true
+    - voice: zh
+      text: 据二十大闭幕会场现场画面，代表“团派”的中共前总书记胡锦涛在会议中途突然被两名工作人员搀扶离场，离场时跟习近平打了个招呼，也轻拍了一下李克强左肩。
+      cite: bbc-2023-10-27-li-keqiang
+      quote: true
+  cites: [e04-guardian-2022-10-23-hu-jintao, bbc-2023-10-27-li-keqiang]
+
+- id: first-plenum-20th
+  date: 2022-10-23
+  title: 二十届一中全会：习近平第三任期
+  lane: power
+  major: true
+  summary: 二十届一中全会选举习近平第三次担任中央委员会总书记，新一届政治局常委为习近平、李强、赵乐际、王沪宁、蔡奇、丁薛祥、李希，李克强、汪洋未连任，胡春华退出政治局。中央军委副主席为张又侠、何卫东，委员李尚福、刘振立、苗华、张升民。
+  people: [xi-jinping, li-qiang, zhao-leji, wang-huning, cai-qi, ding-xuexiang, li-xi, zhang-youxia, he-weidong, li-shangfu, liu-zhenli, miao-hua, zhang-shengmin]
+  factions: [xi-jiajun]
+  cites: [e04-gov-2022-10-23-1st-plenum]
+
+- id: urumqi-fire
+  date: 2022-11-24
+  title: 乌鲁木齐高楼火灾
+  lane: society
+  summary: 新疆乌鲁木齐一栋被长期封控的住宅楼发生火灾，造成10人死亡，网民质疑防疫封控阻碍了逃生与救援。当局次日罕见公开道歉，乌鲁木齐民众深夜上街要求解封，上海等地随即出现悼念集会，成为全国性抗议的导火索。
+  concepts: [dynamic-zero]
+  cites: [e04-bbc-2022-11-26-urumqi-fire]
+
+- id: white-paper-protests
+  date: 2022-11-26
+  end: 2022-11-27
+  title: 白纸运动
+  lane: folk
+  major: true
+  summary: 上海为乌鲁木齐火灾死难者守夜的人群和北京清华大学的学生举起白纸，抗议严苛的新冠封控，一张白纸成为这波示威的象征。据BBC引述，数千万条帖子被从搜索结果中过滤，有网民留言说，如果连一张白纸都怕，那是软弱。
+  concepts: [dynamic-zero, stability-maintenance]
+  voices:
+    - voice: witness
+      text: 26岁的北京示威者Johnny告诉路透社，白纸“代表了我们想说但不能说的一切”。
+      cite: e04-bbc-2022-11-28-white-paper
+      quote: true
+  cites: [e04-bbc-2022-11-28-white-paper, e04-bbc-2022-11-26-urumqi-fire]
+
+- id: jiang-zemin-death
+  date: 2022-11-30
+  title: 江泽民逝世
+  lane: power
+  summary: 中共中央等五机构发布告全党全军全国各族人民书，宣布江泽民因白血病合并多脏器功能衰竭，于2022年11月30日12时13分在上海逝世，享年96岁。他的去世恰在白纸抗议数日之后。
+  people: [jiang-zemin]
+  factions: [jiang-shanghai]
+  cites: [e04-gov-2022-11-30-jiang-zemin]
+
+- id: new-ten-measures
+  date: 2022-12-07
+  title: “新十条”与动态清零结束
+  lane: society
+  major: true
+  summary: 国务院联防联控机制发布进一步优化防控的“新十条”，不再按行政区域开展全员核酸，除特殊场所外不查验健康码，无症状和轻症可居家隔离。也不再查验跨地区流动人员的核酸证明和健康码。持续近三年的动态清零在白纸抗议后不到两周即告结束。
+  concepts: [dynamic-zero]
+  cites: [e04-gov-2022-12-07-new-ten]
+
+# ---------- 2023 ----------
+- id: li-qiang-premier
+  date: 2023-03-11
+  title: 李强出任国务院总理
+  lane: power
+  summary: 国家主席习近平签署主席令，根据十四届全国人大一次会议的决定，任命李强为中华人民共和国国务院总理，接替任满两届的李克强。在二十届一中全会公布的政治局常委名单中，李强紧随习近平位列第二。
+  people: [li-qiang, li-keqiang, xi-jinping]
+  factions: [zhijiang]
+  cites: [e04-gov-2023-03-11-li-qiang, e04-gov-2022-10-23-1st-plenum]
+  verify: true
+
+- id: kong-yiji-gown
+  date: 2023
+  title: “孔乙己的长衫”
+  lane: folk
+  summary: 2023年中国高校毕业生预计达1158万人，是2000年的十倍多。网民借鲁迅笔下落魄书生的长衫比喻学历，热议大学生是否应脱下长衫去做外卖员等蓝领工作，折射青年就业困难与学历贬值。
+  cites: [e04-bbc-2023-06-27-kong-yiji]
+
+- id: qin-gang-removed
+  date: 2023-07-25
+  title: 秦刚被免去外交部长
+  lane: purge
+  summary: 6月25日后从公众视野中消失一个月的外交部长秦刚，被全国人大常委会免去外交部部长职务，王毅重新兼任外长，官方未说明原因。秦刚上任仅半年多，成为中共建政以来任期最短的外长。
+  people: [qin-gang, wang-yi]
+  cites: [e04-gov-2023-07-25-qin-gang, e04-bbc-2023-07-25-qin-gang]
+
+- id: rocket-force-reshuffle
+  date: 2023-07-31
+  title: 火箭军领导层被整体撤换
+  lane: army
+  summary: 中央军委晋升王厚斌、徐西盛为上将，分别任火箭军司令员与政治委员，间接证实失踪数月的李玉超、徐忠波已离职。两名新主官分别来自海军和空军，从未在火箭军服役，被视为近十年来军方领导层最大的一次意外改组。
+  people: [xi-jinping, li-yuchao]
+  factions: [rocket-equipment]
+  cites: [e04-gov-2023-07-31-rocket-force, e04-bbc-2023-08-01-rocket-force]
+
+- id: youth-unemployment-suspended
+  date: 2023-08-15
+  title: 统计局暂停发布青年失业率
+  lane: econ
+  summary: 国家统计局宣布自8月起暂停发布全国青年人等分年龄段的城镇调查失业率，称在校学生是否纳入统计等问题需进一步研究。此前16至24岁青年失业率逐月攀升，6月已达21.3%，屡创2018年有统计以来新高。
+  cites: [e04-stats-2023-08-15-youth-unemployment, e04-bbc-2023-08-15-youth-unemployment]
+
+- id: li-shangfu-removed
+  date: 2023-10-24
+  title: 李尚福被免去国防部长
+  lane: purge
+  summary: 消失两个月的国防部长李尚福被全国人大常委会免去国务委员、国防部部长职务，秦刚同时被免去国务委员职务，官方均未说明原因。两人都被视为习近平亲信，却上任不到一年就被撤换。
+  people: [li-shangfu, qin-gang, xi-jinping]
+  factions: [rocket-equipment]
+  voices:
+    - voice: scholar
+      text: 這些人即便是習近平的親信，他需要的時候可以任意罷免
+      cite: e04-bbc-2023-10-26-li-shangfu
+      quote: true
+  cites: [e04-gov-2023-10-24-li-shangfu, e04-bbc-2023-10-26-li-shangfu]
+
+- id: li-keqiang-death
+  date: 2023-10-27
+  title: 李克强猝逝
+  lane: power
+  summary: 卸任总理仅七个月的李克强因突发心脏病，于2023年10月27日0时10分在上海逝世，享年68岁。官方讣告称他坚决维护习近平的核心地位；民间则自发悼念，合肥故居前鲜花堆积如山。
+  people: [li-keqiang]
+  factions: [tuanpai]
+  cites: [xinhua-2023-11-02-li-keqiang-life, e04-bbc-2023-11-01-li-keqiang-hefei]
+
+- id: ren-zai-gan
+  date: 2023-10-27
+  end: 2023-11-02
+  title: “人在干，天在看”：悼念李克强
+  lane: folk
+  summary: 李克强去世消息登上微博热搜，但多数媒体评论区被管控。网民转发他卸任告别时“人在干，天在看，苍天有眼”的讲话和2020年直言6亿人月收入只有1000元左右的片段，或以歌曲《可惜不是你》寄意；合肥故居前悼念者络绎不绝，便衣人员在旁维持秩序。
+  people: [li-keqiang, xi-jinping]
+  voices:
+    - voice: witness
+      text: 他贏得民心。
+      cite: e04-bbc-2023-11-01-li-keqiang-hefei
+      quote: true
+  cites: [e04-voa-2023-10-26-li-keqiang-netizens, e04-bbc-2023-11-01-li-keqiang-hefei]
+
+- id: woodside-summit
+  date: 2023-11-15
+  title: 习拜旧金山会晤
+  lane: foreign
+  summary: 习近平与拜登在旧金山斐洛里庄园会晤，同意恢复两军高层沟通，成立禁毒合作工作组，建立人工智能政府间对话。习近平称这个地球容得下中美两国；拜登重申美国不寻求新冷战、不支持“台湾独立”。
+  people: [xi-jinping]
+  cites: [e04-gov-2023-11-15-woodside]
+
+- id: generals-npc-removed
+  date: 2023-12-29
+  title: 九名将领被罢免人大代表
+  lane: army
+  summary: 张振中、张育林、饶文敏、鞠新春、丁来杭、吕宏、李玉超、李传广、周亚宁九名将领被各自军人代表大会罢免全国人大代表职务，包括三名上将、四名中将，多数来自火箭军和装备系统，官方未说明原因。
+  people: [li-yuchao]
+  factions: [rocket-equipment, equipment-system]
+  cites: [e04-bjd-2023-12-29-npc-generals, e04-zaobao-2023-12-30-npc-generals]
+
+# ---------- 2024 ----------
+- id: lai-ching-te-elected
+  date: 2024-01-13
+  title: 赖清德当选台湾地区领导人
+  lane: hkmt
+  summary: 台湾举行2024年选举，民进党候选人赖清德以超过558万票当选，打破八年政党轮替惯例。但立法院中无政党过半，民进党比国民党少一席，柯文哲领导的民众党获8席，可能成为台湾政坛的关键少数。
+  people: [lai-qingde]
+  cites: [e04-bbc-2024-01-13-lai-elected]
+
+- id: evergrande-liquidation
+  date: 2024-01-29
+  title: 香港法院颁令恒大清盘
+  lane: econ
+  summary: 香港高等法院应佳盛环球的呈请，对中国恒大集团颁布清盘令。判决书认定恒大严重资不抵债、无力偿债，此前的重组计划因销售不及预期、恒大地产被立案调查及集团主席许家印的控制权问题而无法推进。
+  people: [xu-jiayin]
+  cites: [e04-bbc-2024-02-02-evergrande-liquidation]
+
+- id: no-premier-presser
+  date: 2024-03
+  title: 取消两会总理记者会
+  lane: power
+  summary: 全国人大发言人娄勤俭宣布，十四届全国人大二次会议闭幕后不举行总理记者会，本届后几年也不再举行。这一始于1991年李鹏、1993年起成为两会常态的总理记者会就此中止，外界失去了每年一次直接向总理提问的机会。
+  people: [li-qiang, li-peng]
+  cites: [e04-bbc-2024-03-05-premier-presser]
+
+- id: hk-article-23
+  date: 2024-03-19
+  title: 香港通过《维护国家安全条例》
+  lane: hkmt
+  summary: 香港立法会三读全票通过《维护国家安全条例》，落实基本法第23条，距草案提交仅11天。条例涵盖叛国、煽动、国家秘密与境外干预等罪行，部分罪行可判终身监禁并具域外效力；特区政府称守法者不会误堕法网。
+  people: [li-jiachao]
+  concepts: [holistic-security]
+  cites: [e04-news-2024-03-19-art23, e04-bbc-2024-03-19-art23]
+
+- id: joint-sword-2024a
+  date: 2024-05-23
+  end: 2024-05-24
+  title: “联合利剑—2024A”演习
+  lane: army
+  summary: 赖清德就职三天后，东部战区组织陆海空及火箭军在台岛周边举行联合利剑演习，演练联合夺取战场综合控制权、联合精打要害目标等科目，官方称是对台独分裂势力的有力惩戒、对外部势力干涉挑衅的严重警告。
+  people: [lai-qingde]
+  cites: [e04-mod-2024-05-23-joint-sword-2024a]
+
+- id: li-wei-expelled
+  date: 2024-06-27
+  title: 两任国防部长李尚福、魏凤和被开除党籍
+  lane: purge
+  major: true
+  summary: 中央政治局会议决定给予前国防部长李尚福、魏凤和开除党籍处分，移送军事检察机关；两人此前已被开除军籍，分别被取消陆军和火箭军上将军衔。公告披露，二人分别于2023年8月31日和9月21日被立案。
+  people: [li-shangfu, wei-fenghe]
+  factions: [rocket-equipment]
+  cites: [e04-gov-2024-06-27-li-shangfu-expelled, e04-gov-2024-06-27-wei-fenghe-expelled]
+
+- id: third-plenum-20th
+  date: 2024-07-15
+  end: 2024-07-18
+  title: 二十届三中全会
+  lane: power
+  major: true
+  summary: 二十届三中全会通过进一步全面深化改革、推进中国式现代化的决定，设定到2029年完成改革任务的时间表。全会接受秦刚辞职申请，确认对李尚福、李玉超、孙金明的开除党籍处分。
+  people: [xi-jinping, qin-gang, li-shangfu, li-yuchao]
+  concepts: [chinese-modernization]
+  cites: [e04-gov-2024-07-18-3rd-plenum, e04-bbc-2024-07-18-3rd-plenum]
+
+- id: retirement-age-raised
+  date: 2024-09-13
+  title: 延迟法定退休年龄
+  lane: society
+  summary: 全国人大常委会决定，用十五年时间逐步把男职工法定退休年龄从六十岁延至六十三岁，女职工从五十岁、五十五岁分别延至五十五岁、五十八岁，决定自2025年1月1日起施行。
+  cites: [e04-gov-2024-09-13-retirement]
+
+- id: politburo-stimulus-2024
+  date: 2024-09-26
+  title: 九月政治局会议加码稳经济
+  lane: econ
+  summary: 中央政治局会议分析经济形势，要求加大财政货币政策逆周期调节力度，降低存款准备金率，实施有力度的降息，促进房地产市场止跌回稳，调整住房限购、降低存量房贷利率，并努力提振资本市场，引导中长期资金入市。
+  people: [xi-jinping]
+  cites: [e04-gov-2024-09-26-politburo-economy]
+
+- id: hk47-sentenced
+  date: 2024-11-19
+  title: “香港47人案”判刑
+  lane: hkmt
+  summary: 香港47名民主派人士被控串谋颠覆国家政权案宣判，首要被告戴耀廷被判10年监禁，前学运领袖黄之锋被判56个月，其余被告刑期约50至90多个月不等。这是《香港国安法》实施后首宗颠覆国家政权罪案件，也是至今规模最大的国安案。
+  people: [dai-yaoting, huang-zhifeng]
+  cites: [e04-bbc-2024-11-19-hk47]
+
+- id: miao-hua-suspended
+  date: 2024-11-28
+  title: 苗华被停职检查
+  lane: purge
+  summary: 国防部发言人宣布，中央军委委员、军委政治工作部主任苗华上将涉嫌严重违纪，经党中央研究决定对其停职检查。苗华是二十届一中全会产生的中央军委委员，在李尚福之后成为本届军委第二名出事的成员；公告同样使用了经党中央研究的措辞。
+  people: [miao-hua, li-shangfu]
+  cites: [e04-news-2024-11-28-miao-hua, e04-gov-2022-10-23-1st-plenum]
+
+# ---------- 2025 ----------
+- id: deepseek-shock
+  date: 2025-01-27
+  title: DeepSeek冲击美国科技股
+  lane: econ
+  summary: 中国AI公司DeepSeek（深度求索）的应用引发美国科技股暴跌，其研究人员称开发仅花费600万美元，远低于美国人工智能公司花费的数十亿美元。英伟达股价当日下跌16.9%，博通跌17.4%，欧洲ASML跌逾7%，引发对美国AI投资与芯片出口管制效果的重估。
+  concepts: [new-quality-productive-forces]
+  cites: [e04-bbc-2025-01-28-deepseek]
+
+- id: tariff-war-145
+  date: 2025-04-09
+  end: 2025-04-12
+  title: 中美关税战升至145%和125%
+  lane: foreign
+  summary: 特朗普宣布对其他国家暂缓90天高额对等关税，却把对华加征关税提高到125%，加上此前20%实际达145%；中方自4月12日起把对美商品加征税率由84%提高至125%。全球股市剧烈震荡。
+  cites: [e04-bbc-2025-04-tariffs]
+
+- id: geneva-truce
+  date: 2025-05-12
+  title: 中美日内瓦经贸会谈联合声明
+  lane: foreign
+  summary: 中美在日内瓦经贸会谈后发表联合声明，双方各自取消4月以来加征的大部分关税，24%的关税暂停90天，保留10%；中方同时暂停或取消自4月2日起的非关税反制措施。关税战暂时降温。
+  cites: [e04-gov-2025-05-12-geneva]
+
+- id: ma-xingrui-leaves-xinjiang
+  date: 2025-07-01
+  title: 马兴瑞卸任新疆党委书记
+  lane: ethnic
+  summary: 新华社发布，马兴瑞不再兼任新疆维吾尔自治区党委书记、常委、委员职务，另有任用，陈小江任新疆维吾尔自治区党委委员、常委、书记。马兴瑞此后保留政治局委员身份，转任中央农村工作领导小组副组长，2026年4月以该职务被宣布接受审查调查。
+  people: [ma-xingrui]
+  cites: [e04-news-2025-07-01-ma-xingrui-xinjiang, e04-news-2026-04-03-ma-xingrui]
+
+- id: victory-day-parade-2025
+  date: 2025-09-03
+  title: 抗战胜利80周年阅兵
+  lane: army
+  summary: 纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会在北京举行，天安门广场举行新中国第二次胜利日阅兵。出席的外国贵宾包括俄罗斯总统普京、朝鲜劳动党总书记金正恩、伊朗总统佩泽希齐扬、白俄罗斯总统卢卡申科等二十多位国家元首和政府首脑。
+  people: [xi-jinping]
+  cites: [e04-gov-2025-09-03-parade, e04-gov-2025-09-03-parade-guests]
+
+- id: nine-generals-expelled
+  date: 2025-10-17
+  title: 何卫东、苗华等九名上将被开除党籍
+  lane: purge
+  major: true
+  summary: 国防部宣布，军委副主席何卫东、军委委员苗华及何宏军、王秀斌、林向阳、秦树桐、袁华智、王厚斌、王春宁九人严重违纪、涉嫌严重职务犯罪，被开除党籍和军籍，移送军事检察机关。其中八人是中央委员，开除党籍待中央全会追认；何卫东是在任的中央政治局委员、军委副主席。
+  people: [he-weidong, miao-hua, he-hongjun, wang-xiubin, lin-xiangyang, qin-shutong, yuan-huazhi, wang-chunning]
+  voices:
+    - voice: official
+      text: 经查，这9人严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+      cite: e04-mod-2025-10-17-nine-generals
+      quote: true
+    - voice: scholar
+      text: 由于腐败与廉洁问题被认为是解放军整肃的主因，因此由现任军中纪律沙皇出任新的政治与人事主管，似乎再适合不过。
+      cite: e04-bbc-2025-10-23-4th-plenum
+      quote: true
+  cites: [e04-mod-2025-10-17-nine-generals, e04-bbc-2025-10-23-4th-plenum]
+  verify: true
+
+- id: fourth-plenum-20th
+  date: 2025-10-20
+  end: 2025-10-23
+  title: 二十届四中全会
+  lane: power
+  major: true
+  summary: 二十届四中全会通过关于制定“十五五”规划的建议，增补张升民为中央军委副主席，确认对何卫东、苗华等14人的开除党籍处分。出席的中央委员为168人，而一中全会时为203人。
+  people: [xi-jinping, zhang-shengmin, he-weidong, miao-hua]
+  concepts: [chinese-modernization, two-establishes]
+  cites: [e04-gov-2025-10-23-4th-plenum, e04-bbc-2025-10-23-4th-plenum, e04-gov-2022-10-23-1st-plenum]
+
+- id: busan-meeting
+  date: 2025-10-30
+  title: 习特釜山会晤
+  lane: foreign
+  summary: 习近平在韩国釜山与美国总统特朗普举行会晤，这是双方在4月关税战和5月日内瓦休战之后的元首会面。两国元首同意保持经常性交往，特朗普表示期待明年早些时候访华，并邀请习近平访问美国，为2026年的互访埋下伏笔。
+  people: [xi-jinping]
+  cites: [e04-news-2025-10-30-busan, e04-gov-2025-05-12-geneva, e04-mfa-2026-05-14-trump-beijing]
+
+- id: takaichi-taiwan-contingency
+  date: 2025-11-07
+  end: 2025-11-18
+  title: 高市早苗“台湾有事”言论与中日对立
+  lane: foreign
+  summary: 日本首相高市早苗11月7日在国会答询时称，台湾有事可能构成日本的存亡危机事态。北京强烈反弹，几天内接连暂停日本水产进口、停止牛肉进口磋商、发布赴日旅游和留学警告，中日关系从政冷经热转向政经俱冷。
+  cites: [e04-bbc-2025-11-takaichi]
+
+- id: tai-po-fire
+  date: 2025-11-26
+  title: 香港大埔宏福苑大火
+  lane: hkmt
+  summary: 香港大埔宏福苑八座大厦中七座受波及，官方最终确认168人死亡，包括一名殉职消防员。独立委员会听证披露，维修工程使用不阻燃棚网，工地吸烟屡被投诉而劳工处从未发出禁烟令，承建商被指事后试图隐瞒。
+  people: [li-jiachao]
+  cites: [e04-bbc-2025-11-tai-po-fire, e04-rthk-2026-01-15-tai-po-toll]
+
+- id: justice-mission-2025
+  date: 2025-12-29
+  title: “正义使命-2025”演习
+  lane: army
+  summary: 东部战区组织陆海空及火箭军在台湾海峡、台岛北部、西南、东南和以东海域举行正义使命演习，演练要港要域封控、外线立体慑阻等科目，官方称是对台独分裂势力和外部干涉势力的严重警告。
+  people: [lai-qingde]
+  cites: [e04-mod-2025-12-29-justice-mission]
+
+# ---------- 2026 ----------
+- id: zhang-youxia-investigated
+  date: 2026-01-24
+  title: 张又侠、刘振立被立案审查
+  lane: purge
+  major: true
+  summary: 官方宣布，中央政治局委员、军委副主席张又侠和军委联合参谋部参谋长刘振立涉嫌严重违纪违法，经党中央研究立案审查调查。官媒社论称二人“严重践踏破坏军委主席负责制”。至此2022年产生的军委中，除习近平外原有六名将领已有五人落马。BBC分析称，张又侠与习家红二代世交的背景未能保护他。
+  people: [zhang-youxia, liu-zhenli, xi-jinping]
+  factions: [zhang-liu, army-princelings]
+  voices:
+    - voice: official
+      text: 严重践踏破坏军委主席负责制
+      cite: e04-bbc-2026-01-24-zhang-youxia
+      quote: true
+    - voice: scholar
+      text: 牛犇（Neil Thomas）在邮件中分析，官方公告称，张又侠和刘振立是“经党中央研究”后被清洗的，据他所知，这种措辞在军队清洗公告中是前所未有的。
+      cite: e04-bbc-2026-01-zhang-youxia-analysis
+      quote: true
+    - voice: west
+      text: 《华尔街日报》援引知情人士称，张又侠被控向美国泄露核武器计划核心技术数据，并收受巨额贿赂换取官员晋升；该说法未获官方证实。
+      cite: e04-bbc-2026-01-zhang-youxia-analysis
+  cites: [e04-cctv-2026-01-24-zhang-liu, e04-bbc-2026-01-24-zhang-youxia, e04-bbc-2026-01-zhang-youxia-analysis]
+
+- id: jimmy-lai-sentenced
+  date: 2026-02-09
+  title: 黎智英被判囚20年
+  lane: hkmt
+  summary: 78岁的壹传媒创办人黎智英被控串谋勾结外国势力等国安罪成，判囚20年，是《香港国安法》实施后刑期最高的被告；《苹果日报》多名前员工判囚6年9个月至10年。特首李家超称判决彰显法治，英国政府与人权组织则批评是政治起诉。
+  people: [li-zhiying, li-jiachao]
+  voices:
+    - voice: official
+      text: 黎智英罪行滔天，惡貫滿盈，被重判入獄20年，彰顯法治，伸張正義，大快人心。
+      cite: e04-hkgov-2026-02-09-jimmy-lai
+      quote: true
+    - voice: west
+      text: 实际上等同于死刑，如此严厉的判决既残酷又极不公正。
+      cite: e04-bbc-2026-02-09-jimmy-lai
+      quote: true
+  cites: [e04-bbc-2026-02-09-jimmy-lai, e04-hkgov-2026-02-09-jimmy-lai]
+
+- id: work-report-2026
+  date: 2026-03-05
+  title: 2026年政府工作报告：增长目标4.5%至5%
+  lane: econ
+  summary: 李强在十四届全国人大四次会议上作政府工作报告，把年度经济增长目标定为4.5%至5%，城镇调查失业率5.5%左右；赤字率按4%左右安排，拟发行超长期特别国债1.3万亿元，一般公共预算支出首次达到30万亿元。
+  people: [li-qiang]
+  cites: [e04-gov-2026-03-05-work-report]
+
+- id: npc-2026-fyp
+  date: 2026-03-12
+  title: 全国人大批准“十五五”规划纲要
+  lane: power
+  summary: 十四届全国人大四次会议闭幕，批准政府工作报告和国民经济和社会发展第十五个五年规划纲要，通过生态环境法典、民族团结进步促进法、国家发展规划法，习近平签署第70至73号主席令。
+  people: [xi-jinping, zhao-leji]
+  concepts: [chinese-modernization]
+  cites: [e04-miit-2026-03-12-npc-closing, e04-gov-2026-03-12-15th-fyp]
+
+- id: ethnic-unity-law
+  date: 2026-03-12
+  title: 《民族团结进步促进法》通过
+  lane: ethnic
+  summary: 十四届全国人大四次会议通过民族团结进步促进法，自2026年7月1日起施行，与生态环境法典、国家发展规划法同日表决，由国家主席习近平签署主席令公布。这是专门以民族团结进步为名的国家法律，委员长赵乐际在闭幕会上点名提及。
+  cites: [e04-miit-2026-03-12-npc-closing]
+
+- id: ma-xingrui-investigated
+  date: 2026-04-03
+  title: 政治局委员马兴瑞被查
+  lane: purge
+  summary: 新华社宣布，中央政治局委员、中央农村工作领导小组副组长马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。马兴瑞2025年7月卸任新疆维吾尔自治区党委书记，是继军委副主席何卫东、张又侠之后又一名被查的二十届中央政治局委员。
+  people: [ma-xingrui, he-weidong, zhang-youxia]
+  cites: [e04-news-2026-04-03-ma-xingrui, e04-news-2025-07-01-ma-xingrui-xinjiang, e04-mod-2025-10-17-nine-generals, e04-cctv-2026-01-24-zhang-liu]
+
+- id: xi-meets-cheng-li-wun
+  date: 2026-04-10
+  title: 习近平会见国民党主席郑丽文
+  lane: hkmt
+  summary: 习近平在北京会见郑丽文率领的中国国民党访问团，称国共两党领导人时隔10年再次会面。郑丽文表示两岸同为炎黄子孙，国共两党要坚持九二共识、反对台独，推进两岸各领域交流。
+  people: [xi-jinping]
+  cites: [e04-xinhua-2026-04-10-cheng-li-wun]
+
+- id: trump-beijing-visit
+  date: 2026-05-14
+  title: 特朗普访华与“建设性战略稳定关系”
+  lane: foreign
+  major: true
+  summary: 特朗普对中国进行国事访问，与习近平在人民大会堂会谈。双方赞同将构建“中美建设性战略稳定关系”作为两国关系新定位，作为未来三年乃至更长时间的战略指引。特朗普称两人建立了历史上美中元首之间最长久和最良好的关系。
+  people: [xi-jinping]
+  cites: [e04-mfa-2026-05-14-trump-beijing]
+
+- id: ma-xingrui-expelled
+  date: 2026-07-14
+  title: 马兴瑞被开除党籍公职
+  lane: purge
+  summary: 中共中央决定给予马兴瑞开除党籍、开除公职处分，指其在组织函询时不如实说明，搞权色、钱色交易，大搞家族腐败，涉嫌受贿罪移送审查起诉。按惯例，开除党籍待中央全会追认。
+  people: [ma-xingrui]
+  cites: [e04-news-2026-07-14-ma-xingrui-expelled]
+
+- id: zhang-liu-expelled
+  date: 2026-09-21
+  title: 张又侠、刘振立被开除党籍
+  lane: purge
+  major: true
+  summary: 官方公布对张又侠、刘振立的处分，称二人搞团团伙伙，对党不忠诚不老实，涉嫌严重职务犯罪，被开除党籍和军籍，移送军事检察机关。2022年产生的七人军委如今只剩习近平和张升民两人。
+  people: [zhang-youxia, liu-zhenli, xi-jinping, zhang-shengmin]
+  factions: [zhang-liu]
+  voices:
+    - voice: official
+      text: 政治问题和经济问题交织，贪腐敛财与失职渎职并存
+      cite: e04-people-2026-09-22-zhang-liu-expelled
+      quote: true
+    - voice: zh
+      text: 本届中央军委原有七名成员，如今只剩习近平和张升民两人，其余先后落马。
+      cite: e04-bbc-2026-09-21-cmc-two-left
+      quote: true
+  cites: [e04-people-2026-09-22-zhang-liu-expelled, e04-bbc-2026-09-21-cmc-two-left]
+  verify: true
+
+- id: fifth-plenum-20th-announced
+  date: 2026-09-21
+  title: 二十届五中全会定于10月26日至29日召开
+  lane: power
+  summary: 中央政治局9月21日开会，决定二十届五中全会于10月26日至29日在北京召开，议程为研究持之以恒推进全面从严治党重大问题。7月30日政治局会议已决定于10月召开。全会尚未举行；按处分公告，马兴瑞以及张又侠、刘振立的开除党籍处分都待召开中央全会时予以追认。
+  people: [xi-jinping, ma-xingrui, zhang-youxia, liu-zhenli]
+  concepts: [self-revolution]
+  cites: [e04-news-2026-09-21-5th-plenum-set, e04-gov-2026-07-30-politburo, e04-news-2026-07-14-ma-xingrui-expelled, e04-people-2026-09-22-zhang-liu-expelled]
+
+- id: xi-us-state-visit
+  date: 2026-09-23
+  end: 2026-09-25
+  title: 习近平对美国进行国事访问
+  lane: foreign
+  summary: 习近平时隔11年再次对美国进行国事访问，在华盛顿停留约43小时。双方发表八点成果共识，同意在5月北京会晤基础上构建“基于尊重、公平、对等的中美建设性战略稳定关系”，并确认相互支持办好2026年APEC与G20峰会。
+  people: [xi-jinping]
+  cites: [e04-news-2026-09-28-xi-us-visit]
+
+- id: huang-qifan-investigated
+  date: 2026-10-13
+  title: 重庆原市长黄奇帆被查
+  lane: purge
+  summary: 中央纪委国家监委宣布，重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法，正接受纪律审查和监察调查，通报未说明具体问题。此案在二十届五中全会召开前约两周公布，五中全会的议程正是研究持之以恒推进全面从严治党。
+  cites: [e04-news-2026-10-13-huang-qifan]
+  verify: true

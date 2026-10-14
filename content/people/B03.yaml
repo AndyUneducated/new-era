@@ -1,0 +1,581 @@
+# B03: Hu-era standing committee members (tier 1).
+- id: zhou-yongkang
+  name: 周永康
+  pinyin: Zhōu Yǒngkāng
+  aka: [周元根]
+  gender: m
+  ethnicity: 汉族
+  born: 1942-12
+  birthplace: 江苏无锡
+  education:
+    - { school: 北京石油学院勘探系地球物理勘探专业, from: 1961, to: 1966 }
+  joinedParty: 1964-11
+  joinedWork: 1966-09
+  roles: [psc, pb, sec, cc, minister, prov, tiger]
+  status: detained
+  statusNote: 2015 年 6 月被天津市第一中级人民法院判处无期徒刑，当庭表示不上诉，此后在押服刑；官方未公布服刑地点。
+  fall:
+    - date: 2013-12-01
+      text: 中央政治局常委会听取中央纪委在查办案件中发现的周永康违纪线索汇报，决定“开展相应核查工作”（这一步当时未公布，2014 年 12 月的通报才披露）。
+      cite: b03-people-2014-12-06-zhou-expelled
+    - date: 2014-07-29
+      text: 中央政治局会议听取核查情况汇报，决定立案审查；新华社当天发布消息，由中央纪委对其立案审查。
+      cite: b03-gov-2014-07-29-zhou-probe
+    - date: 2014-12-05
+      text: 中央政治局会议审议通过中央纪委审查报告，给予开除党籍处分，将涉嫌犯罪问题及线索移送司法机关；新华社 12 月 6 日零时发布。
+      cite: b03-people-2014-12-06-zhou-expelled
+    - date: 2015-04-03
+      text: 天津市人民检察院第一分院以受贿、滥用职权、故意泄露国家秘密罪向天津市第一中级人民法院提起公诉；5 月 22 日不公开开庭审理。
+      cite: b03-xinhua-2015-06-11-zhou-verdict
+    - date: 2015-06-11
+      text: 天津市第一中级人民法院一审宣判：受贿罪判处无期徒刑，滥用职权罪判处有期徒刑七年，故意泄露国家秘密罪判处有期徒刑四年，决定执行无期徒刑，剥夺政治权利终身，并处没收个人财产。
+      cite: b03-xinhua-2015-06-11-zhou-verdict
+  tier: 1
+  headline: 中央政治局常委、中央政法委书记（2007–2012），2015 年以受贿等罪被判无期徒刑
+  ids: { wikidata: Q198042 }
+  factions:
+    - f: petroleum
+      cite: b03-bbc-2013-08-30-zhou-clique
+      quote: 似乎显示周永康在石油系统和四川的利益集团正在逐一被清洗
+    - f: zhengfa
+      cite: b03-cnr-2015-10-15-zhou-disciples
+      quote: 其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙
+    - f: zhou-clique
+      cite: b03-bbc-2015-06-11-zhou-profile
+      quote: 一年时间内，周永康在四川、石油和政法系统的亲信人马纷纷因“严重违纪”而下台受调查
+    - f: jiang-shanghai
+      cite: b03-bbc-2014-07-30-taiwan-media
+      quote: 周的仕途顺遂并非因其能力出众，而是背后有江泽民支持
+    - f: new-gang-of-four
+      cite: b03-bbc-2014-07-30-taiwan-media
+      quote: 其它成员包括前重庆市委书记薄熙来、中共中央军委前副主席徐才厚、现任中国全国政协副主席令计划
+  bio: >-
+    石油系统出身的技术官僚，在中石油、四川和公安部一路升迁，2007 年进入政治局常委会并出任中央政法委书记，统辖公安、检察、法院、国安和武警，是胡锦涛时期“维稳”体制的掌舵人。
+    他主政政法系统期间，公共安全预算超过国防预算，外界称其为“政法王”。2012 年薄熙来事件后，外媒报道他曾为薄说项，失势传闻随之而起。十八大退休后，他在石油、四川、政法和秘书系统的旧部相继落马；2014 年 7 月被立案审查，打破了改革开放后“刑不上常委”的惯例，2015 年 6 月被判无期徒刑。
+    官方后来把他与薄熙来、郭伯雄、徐才厚、令计划并列，指其从事“政治阴谋活动”。
+  positions:
+    - { title: 辽河石油勘探局局长, sys: other, place: 辽宁, from: 1983, to: 1985, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 盘锦市长, sys: gov, place: 辽宁, from: 1983, to: 1985, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 石油工业部副部长, sys: gov, from: 1985, to: 1988, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 中国石油天然气总公司副总经理, sys: other, from: 1988, to: 1996, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 中国石油天然气总公司总经理、党组书记, sys: other, from: 1996, to: 1998, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 国土资源部部长, sys: gov, from: 1998, to: 1999, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 四川省委书记, sys: party, place: 四川, from: 1999, to: 2002, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2002-11, to: 2007-10, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 公安部部长, sys: gov, from: 2002-12, to: 2007-10, cite: wd-Q198042 }
+    - { title: 国务委员, sys: gov, from: 2003-03, to: 2008-03, cite: b03-bjreview-2007-10-23-zhou-resume }
+    - { title: 中央政治局常委, sys: party, from: 2007-10, to: 2012-11, cite: wd-Q198042 }
+    - { title: 中央政法委书记, sys: party, from: 2007-10, to: 2012-11, cite: b03-bbc-2012-11-19-zhou-zhengfa }
+  life:
+    - h: 石油系统三十年
+      from: 1942
+      to: 1998
+      text: >-
+        1942 年生于江苏无锡，BBC 称其原名周元根。1961 年考入北京石油学院勘探系，1966 年毕业，1967 年起在大庆油田六七三厂地质队当实习员。此后长期在辽河油田工作，从技术员、大队长做到辽河石油勘探局局长，1983–1985 年兼任辽宁盘锦市长。
+        1985 年任石油工业部副部长，1988 年起任中国石油天然气总公司副总经理，其间兼任塔里木石油会战指挥、胜利石油管理局局长和山东东营市委书记，1996 年升任总经理、党组书记。新京报统计他在石油系统工作了 31 年，BBC 则称 32 年；据媒体报道，他在这一时期培植了蒋洁敏、王永春、李华林等大批“门徒”。
+      cites: [b03-bjreview-2007-10-23-zhou-resume, b03-bbc-2015-06-11-zhou-profile, b03-cnr-2015-10-15-zhou-disciples]
+    - h: 国土资源部与四川
+      from: 1998
+      to: 2002
+      text: >-
+        1998 年国务院机构改革中出任首任国土资源部部长，一年后调任四川省委书记。他在四川只待了三年，但被认为在当地留下一张人事网：1980 年代在胜利油田给他当秘书、此后随他到中石油和国土资源部任职的郭永祥，2000 年随他入川任省委副秘书长、秘书长，后升至副省长；李崇禧、谭力被报道为获其提拔，李春城则被视为他在四川官场的代表人物。
+        新京报报道称，他离开四川后仍“继续插手四川官场”；2015 年时任四川省委书记王东明说，“周长期插手四川事务，给四川政治生态造成的恶劣影响不可低估”。
+      cites: [b03-bjreview-2007-10-23-zhou-resume, b03-cnr-2015-10-15-zhou-disciples, b03-bbc-2013-08-30-zhou-clique]
+    - h: 公安部长
+      from: 2002
+      to: 2007
+      text: >-
+        2002 年十六大进入政治局和书记处，任中央政法委副书记（书记为罗干），年底接任公安部长；BBC 称这是华国锋之后首位以政治局委员身份兼任公安部长的人。2003 年起兼任国务委员，并任武警部队第一政委。
+        2007 年十七大升任常委后，全国人大常委会 10 月 28 日免去其公安部长职务，由孟建柱接任。BBC 当时分析，孟建柱接任而不进入政治局和书记处，“是有意降低公安在权力架构中的权重”。
+      cites: [b03-bjreview-2007-10-23-zhou-resume, b03-bbc-2015-06-11-zhou-profile, b03-bbc-2007-10-28-meng-replaces-zhou]
+    - h: 政法委书记与维稳体制
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年接替罗干任中央政法委书记，以常委身份统管公、检、法、国安和武警，BBC 写道其“实权之大非中共其他政治局常委可比”。据美国之音引述的财政预算，2011 年公共安全支出预算 6244.21 亿元，首次超过国防预算的 6011.56 亿元；BBC 称到 2012 年维稳经费已逾 7000 亿元，超过军费开支。
+        2011 年 2 月他在省部级“社会管理”研讨班上提出建立覆盖全部实有人口的国家人口基础信息库、建立互联网“综合管理格局”、加强对境外非政府组织的管理。BBC 报道称他在任期间极大扩大了警察系统的权力，并负责镇压异议人士及新疆、西藏的分裂活动；维权律师浦志强评论说，他的维稳思维讲究社会治安综合治理，“法律的权威则被放在一边”。
+      cites: [b03-bbc-2015-06-11-zhou-profile, b03-voa-2011-05-13-weiwen, b03-xatu-2011-05-01-zhou-qiushi, b03-bbc-2012-11-19-zhou-zhengfa]
+    - h: 与薄熙来
+      from: 2010
+      to: 2012
+      text: >-
+        薄熙来在重庆“唱红打黑”期间，周永康 2010 年到重庆视察，称打黑除恶是“让老百姓过上安定日子的‘民心工程’”。2012 年 3 月王立军事件后，他是唯一出席重庆代表团会议的常委，3 月 8 日与薄熙来一同露面并高调肯定重庆。薄熙来受审时说，王立军出走后曾收到中央政法委的“六点指示”。
+        英国《金融时报》5 月报道（BBC 转述），他因在薄下台后仍为其游说，已把实权移交孟建柱，并在常委会上为替薄辩护道歉；BBC 另称他在“反薄”中一开始犹豫不决。同年 3 月网上流传“政变”之说，BBC 英文网报道称，传言指周可能试图把胡锦涛、温家宝赶下台，但同时强调并无证据显示发生过政变。周是否为薄的靠山，BBC 称目前还无从考证。
+      cites: [b03-bbc-2015-06-11-zhou-profile, b03-bbc-2012-05-13-zhou-ft, b03-bbc-2012-11-19-zhou-zhengfa, b03-bbcen-2012-03-23-coup-rumours]
+    - h: 退休与旧部落马
+      from: 2012
+      to: 2014
+      text: >-
+        2012 年十八大退休，政法委书记改由政治局委员孟建柱兼任，不再进入常委会，BBC 称这反映领导层对该职位权力过大的担忧。此后一年多里，他的旧部成批落马：四川的李春城、郭永祥、李崇禧，石油系统的蒋洁敏、王永春、李华林、冉新权、王道富，政法系统的李东生，以及先后为他当过秘书的李华林、沈定成、冀文林、郭永祥、余刚、谈红。
+        2013 年 12 月 1 日，常委会决定对其违纪线索开展核查。路透社 2014 年 3 月引述消息来源称（BBC 转述），已有逾 300 名亲友和亲信被拘押或问话，没收财产至少 900 亿元，周本人坚称遭到“政治迫害”。
+      cites: [b03-bbc-2012-11-19-zhou-zhengfa, b03-cnr-2015-10-15-zhou-disciples, b03-bbc-2014-02-22-zhou-secretaries, b03-people-2014-12-06-zhou-expelled, b03-bbc-2014-03-30-zhou-assets]
+    - h: 立案、开除与判刑
+      from: 2014
+      to: 2015
+      text: >-
+        2014 年 7 月 29 日，新华社只用一句话宣布对其立案审查，消息中没有头衔，也没有“同志”称呼。12 月中央通报他严重违反政治纪律、组织纪律、保密纪律，直接或通过家人收受巨额贿赂，滥用职权帮助亲属、情妇、朋友经营获利，泄露党和国家机密，并“与多名女性通奸并进行权色、钱色交易”，开除党籍并移送司法。
+        2015 年 6 月 11 日天津一中院宣判：认定其受贿共计折合 1.29772113 亿元，大部分由其子周滨、妻子贾晓晔收受并事后告知他；滥用职权使周滨等人非法获利 21.36 亿余元；把 5 份绝密级、1 份机密级文件交给不应知悉的曹永正。法院以三罪并罚决定执行无期徒刑。
+      cites: [b03-gov-2014-07-29-zhou-probe, b03-bbc-2015-06-11-zhou-profile, b03-people-2014-12-06-zhou-expelled, b03-xinhua-2015-06-11-zhou-verdict]
+    - h: 从“腐败”到“政治阴谋”
+      from: 2014
+      to: 2017
+      text: >-
+        判决只涉及经济和泄密罪名，但官方此后的定性逐步升级。2016 年 10 月习近平在十八届六中全会上说，周永康、薄熙来、郭伯雄、徐才厚、令计划等人“政治上野心膨胀”，大搞“结党营私、拉帮结派等政治阴谋活动”；BBC 认为这“似乎显示导致他们下台的是党内权力斗争”。2017 年十九大期间，证监会主席刘士余在分组讨论中称这些人“阴谋篡党夺权”，自由亚洲电台指出此话未见于大陆媒体，学者洪振快则说审判材料中“并没有正式指控他们篡党夺权或者阴谋政变”。
+        更早的 2014 年，台湾《苹果日报》报道称，据传周组建以他为首的“新四人帮”并图谋政变（BBC 转述），这类说法均未获官方证实。
+      cites: [b03-xinhua-2017-01-01-xi-6th-plenum, b03-bbc-2017-01-02-xi-conspiracy, b03-rfa-2017-10-20-liu-shiyu, b03-bbc-2014-07-30-taiwan-media]
+  assess:
+    - voice: doc
+      quote: true
+      text: 周永康的所作所为完全背离党的性质和宗旨，严重违反党的纪律，极大损害党的形象，给党和人民事业造成重大损失，影响极其恶劣。
+      cite: b03-people-2014-12-06-zhou-expelled
+    - voice: doc
+      quote: true
+      text: 不仅经济上贪婪、生活上腐化，而且政治上野心膨胀，大搞阳奉阴违、结党营私、拉帮结派等政治阴谋活动。
+      cite: b03-xinhua-2017-01-01-xi-6th-plenum
+    - voice: zh
+      quote: true
+      text: 而作为中央政法委书记，周永康的权力涵盖中国公、检、法、国安和武警系统。其实权之大非中共其他政治局常委可比，被人称为“政法王”。
+      cite: b03-bbc-2015-06-11-zhou-profile
+    - voice: west
+      quote: true
+      text: a hardliner with a reputation for dealing firmly with dissent
+      zh: 以强硬对付异见闻名的强硬派
+      cite: b03-guardian-2010-12-05-li-google
+    - voice: zh
+      quote: true
+      text: 周永康被视为已被同样判处终身监禁的前中共高官薄熙来的亲密盟友，专家认为这也是周永康落马的原因之一。
+      cite: b03-dw-2015-06-11-zhou-verdict
+  family:
+    - name: 贾晓晔
+      rel: 妻子
+      text: >-
+        曾在中央电视台工作（新京报报道李东生通过这层关系结识周永康）。法院认定周滨、贾晓晔收受吴兵、丁雪峰等人财物并事后告知周永康。2016 年 6 月被湖北宜昌中院以受贿罪、利用影响力受贿罪判处有期徒刑九年，并处罚金 100 万元（纽约时报中文网）。BBC 转述路透社报道时写作“贾晓烨”。
+      cites: [b03-cnr-2015-10-15-zhou-disciples, b03-xinhua-2015-06-11-zhou-verdict, b03-nytcn-2016-06-15-zhou-family, b03-bbc-2014-03-30-zhou-assets]
+    - name: 周滨
+      rel: 长子
+      text: >-
+        法院认定他与父亲共同受贿 9804.66 万元，另利用其父影响力受贿 1.24 亿余元，并犯非法经营罪。2016 年 6 月 15 日宜昌中院判处有期徒刑十八年，并处罚金 3.502 亿元，他当庭表示不上诉。周永康案判决书称，蒋洁敏、李春城曾按周的要求为周滨等人的经营提供帮助。
+      cites: [b03-court-2016-06-15-zhou-bin, b03-xinhua-2015-06-11-zhou-verdict]
+    - name: 周元青
+      rel: 弟弟
+      text: >-
+        周永康案判决书所列因周滥用职权而获利的人员之一。路透社 2014 年 3 月引述消息来源称（BBC 转述），周元青一家与周滨夫妇、贾晓烨等十余名亲属已被拘押。
+      cites: [b03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2014-03-30-zhou-assets]
+  cites: [b03-bjreview-2007-10-23-zhou-resume, b03-people-2014-12-06-zhou-expelled, b03-xinhua-2015-06-11-zhou-verdict, b03-bbc-2015-06-11-zhou-profile, wd-Q198042]
+
+- id: luo-gan
+  name: 罗干
+  pinyin: Luó Gàn
+  gender: m
+  ethnicity: 汉族
+  born: 1935-07-18
+  birthplace: 山东济南
+  education:
+    - { school: 北京钢铁工业学院压力加工系, from: 1953, to: 1954 }
+    - { school: 民主德国富莱堡矿冶学院机械铸造专业, from: 1956, to: 1962 }
+  joinedParty: 1960-06
+  joinedWork: 1962-05
+  roles: [psc, pb, sec, cc, minister]
+  status: retired
+  statusNote: 2007 年十七大退出中央委员会后退休；2026 年 8 月纪念江泽民诞辰 100 周年大会公布的出席名单中有多位退休常委，未见罗干，官方未发布其逝世消息。
+  tier: 1
+  headline: 中央政治局常委、中央政法委书记（2002–2007；任政法委书记 1998–2007）
+  ids: { wikidata: Q705248 }
+  bio: >-
+    工程师出身、留学东德的技术官僚，经李鹏提携在国务院系统升迁，1988–1998 年任国务院秘书长，1998–2007 年任中央政法委书记，2002–2007 年为政治局常委中年龄最大的一位。
+    他主管政法委近十年，统筹公、检、法、国安和对外情报工作：外媒说他推行“严打”、处决人数急升；他本人提出“社会主义法治理念”，要求政法队伍警惕借“维权”和“依法治国”之名否定党的领导。2007 年他把政法委交给副手周永康后退休，后者在此基础上把维稳体制推向顶峰。
+  positions:
+    - { title: 河南省副省长、省委书记, sys: gov, place: 河南, from: 1981, to: 1983, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 全国总工会副主席、书记处书记, sys: other, from: 1983, to: 1988, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 劳动部部长, sys: gov, from: 1988-04, to: 1988-12, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 国务院秘书长, sys: gov, from: 1988-12, to: 1998-03, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 国务委员, sys: gov, from: 1993-03, to: 2003-03, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 中央政法委副书记, sys: party, from: 1993, to: 1998, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 1997-09, to: 2002-11, cite: b03-theorychina-2012-08-04-luo-resume }
+    - { title: 中央政法委书记, sys: party, from: 1998-03, to: 2007-10, cite: wd-Q705248 }
+    - { title: 中央政治局常委, sys: party, from: 2002-11, to: 2007-10, cite: wd-Q705248 }
+  life:
+    - h: 济南与东德
+      from: 1935
+      to: 1962
+      text: >-
+        1935 年 7 月生于山东济南。1953 年入北京钢铁工业学院压力加工系，次年被派往民主德国，先在莱比锡卡尔·马克思大学学德语，在莱比锡钢铁厂、金属铸造厂实习，1956–1962 年在富莱堡矿冶学院学机械铸造，1960 年 6 月在留学期间入党。
+        BBC 2002 年的人物简介称他在莱比锡的钢厂工作了八年，与官方简历所列的学习经历有出入；按官方简历，他在东德前后九年，1962 年 5 月回国参加工作。
+      cites: [b03-theorychina-2012-08-04-luo-resume, b03-bbcen-2002-luo-profile]
+    - h: 机械部与河南
+      from: 1962
+      to: 1983
+      text: >-
+        1962 年回国，在第一机械工业部机械科学研究院任课题组组长、技术员，文革中下放“五七”干校劳动。1970 年代在一机部机械研究院漯河筹备处和郑州机械研究所工作，升至副所长。
+        1980 年转入地方政府，任河南省进出口委员会副主任、省科委主任，1981–1983 年任河南省副省长、省委书记（简历注明当时河南另设第一书记）。BBC 把这段经历概括为在河南出任党的领导职务，这也是他唯一的地方主政经历。
+      cites: [b03-theorychina-2012-08-04-luo-resume, b03-bbcen-2002-luo-profile]
+    - h: 李鹏的国务院秘书长
+      from: 1983
+      to: 1993
+      text: >-
+        1983–1988 年任全国总工会副主席、书记处书记。1988 年 4 月任劳动部部长，8 个月后改任国务院秘书长，兼中央国家机关工委书记，在李鹏两届政府中主管国务院日常运转。
+        BBC 写道，“his friendship with senior leader Li Peng”（他与李鹏的交情）才是他快速上升的原因，并称两人的关系在 1989 年巩固：天安门学生运动期间，他代表李鹏向武警下达指示。《南华早报》也说，两人在 1989 年镇压期间及其后协调警察和情报机构。官方简历对这一时期只列职务。
+      cites: [b03-theorychina-2012-08-04-luo-resume, b03-bbcen-2002-luo-profile, b03-scmp-2002-11-16-luo-gan]
+    - h: 国务委员与政法委书记
+      from: 1993
+      to: 2002
+      text: >-
+        1993 年起任国务委员（仍兼国务院秘书长）、中央政法委副书记；1997 年十五大进入政治局和书记处；1998 年卸任秘书长，出任中央政法委书记。BBC 称他入政治局后分管社会治安以及对外情报和反间谍工作。
+        他主持推行“严打”，BBC 引国际特赦组织数字说，2001 年中国处决了 2468 人，超过世界其他国家的总和。法轮功同样在他主管的范围内：他在 2006 年的讲话中把“利用‘法轮功’等邪教组织捣乱滋事”与“三股势力”并列为政法机关的打击对象。
+      cites: [b03-theorychina-2012-08-04-luo-resume, b03-bbcen-2002-luo-profile, b03-reformdata-2006-luo-qiushi]
+    - h: 常委与“社会主义法治理念”
+      from: 2002
+      to: 2007
+      text: >-
+        2002 年十六大，67 岁的他成为常委会中年龄最大的成员，继续兼任政法委书记，周永康任副书记兼公安部长。《南华早报》称李鹏为保护自己“groomed Mr Luo to be his man”（把罗干培养成自己在常委会里的人），但罗干未能拿到中纪委书记一职，显示李鹏的影响力在减弱。
+        2006 年 4 月他在研讨班上提出“社会主义法治理念”，概括为依法治国、执法为民、公平正义、服务大局、党的领导五个方面，批评有人“打着依法治国的幌子否定党对政法工作的领导”，要求防范有人“打着‘维权’幌子进行破坏活动”。同一篇讲话也写了党的领导要“不插手、不干预司法机关的正常司法活动”。
+      cites: [b03-scmp-2002-11-16-luo-gan, b03-theorychina-2012-08-04-luo-resume, b03-bjreview-2007-10-23-zhou-resume, b03-reformdata-2006-luo-qiushi]
+    - h: 维稳的框架
+      from: 2006
+      to: 2007
+      text: >-
+        同一篇讲话勾勒了后来被称作“维稳”的工作框架。他判断中国正处在“人民内部矛盾凸显、刑事犯罪高发、对敌斗争复杂的时期”，说群体性事件“已成为影响社会稳定的突出问题”，点名企业改制、农村征地、城市拆迁、水库移民等领域，要求对矛盾多发的重点地区、领域、行业、人群逐一排查，领导干部到一线处置群体性事件。
+        他把政法委的职责写成“加强对维护国家安全和社会稳定工作的统筹协调”，并要求推进社会治安综合治理，抓平安乡村、平安社区、平安校园等基层创建；讲话还把境外非政府组织在华活动列为需要“加强管理”的新问题。这些提法后来在周永康任内被扩展为覆盖全国的维稳体系。
+      cites: [b03-reformdata-2006-luo-qiushi, b03-bbc-2012-11-19-zhou-zhengfa]
+    - h: 交棒与退休
+      from: 2007
+      to: 2026
+      text: >-
+        2007 年 10 月，72 岁的罗干未进入十七届中央委员会，随即卸任常委和政法委书记，由周永康接任。他交出的政法委在周永康手中继续扩权，直到 2012 年十八大，政法委书记改由政治局委员兼任、不再进入常委会，BBC 称这反映了领导层对该职位权力过大的担忧。
+        2026 年 8 月 17 日纪念江泽民诞辰 100 周年大会，新华社公布的出席名单包括李岚清、曾庆红、李长春、贺国强等退休常委，未列罗干；官方迄今未发布他的逝世消息。
+      cites: [wd-Q705248, b03-bbc-2015-06-11-zhou-profile, b03-bbc-2012-11-19-zhou-zhengfa, b03-gov-2026-08-17-jiang-centenary]
+  assess:
+    - voice: west
+      quote: true
+      text: >-
+        He has implemented China's "strike hard" anti-crime campaign, which has seen the number of executions in the country soar.
+      zh: 他推行了中国的“严打”运动，使全国处决人数激增。
+      cite: b03-bbcen-2002-luo-profile
+    - voice: west
+      quote: true
+      text: >-
+        He is a loyal backer of Mr Li, and is known to be a trusted trouble-shooter for the departing second-ranked leader in the party hierarchy.
+      zh: 他是李鹏的忠实支持者，被认为是这位即将离任的党内二号人物信赖的“救火队员”。
+      cite: b03-scmp-2002-11-16-luo-gan
+  cites: [b03-theorychina-2012-08-04-luo-resume, b03-reformdata-2006-luo-qiushi, b03-bbcen-2002-luo-profile, b03-scmp-2002-11-16-luo-gan, wd-Q705248]
+
+- id: li-changchun
+  name: 李长春
+  pinyin: Lǐ Chángchūn
+  gender: m
+  ethnicity: 汉族
+  born: 1944-02
+  birthplace: 辽宁大连
+  education:
+    - { school: 哈尔滨工业大学电机工程系工业企业自动化专业, from: 1961, to: 1966 }
+  joinedParty: 1965-09
+  joinedWork: 1966-09
+  roles: [psc, pb, cc, prov]
+  status: retired
+  statusNote: 2012 年十八大退休；2026 年 8 月仍出席纪念江泽民诞辰 100 周年大会。
+  tier: 1
+  headline: 中央政治局常委（2002–2012），主管宣传和意识形态
+  ids: { wikidata: Q560391 }
+  factions:
+    - f: jiang-shanghai
+      cite: b03-rfa-2007-10-16-li-career
+      quote: 路透社说，李长春晋升政治局常委，是因为得到前中共领导人江泽民的提拔
+  bio: >-
+    从沈阳开关厂技术员起步，39 岁任沈阳市长，此后历任辽宁省长、河南省委书记和广东省委书记，是改革开放后最年轻的一批省级主官之一。
+    2002–2012 年任政治局常委，主管宣传、意识形态和精神文明建设，任内推动央视、新华社等官方媒体“走出去”和向互联网扩张，同时被外界视为网络审查与“防火长城”的总负责人。2010 年维基解密公开的美国外交电报称他主导了针对谷歌的施压与攻击。他在河南任职期间的艾滋病疫情问题也一再被追问。路透社称他靠江泽民提拔进入常委会，也有学者不认同这一说法。
+  positions:
+    - { title: 沈阳市委书记、市长, sys: party, place: 辽宁, from: 1983, to: 1985, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 辽宁省长, sys: gov, place: 辽宁, from: 1986, to: 1990, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 河南省长, sys: gov, place: 河南, from: 1990, to: 1992, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 河南省委书记, sys: party, place: 河南, from: 1992, to: 1998, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 中央政治局委员, sys: party, from: 1997-09, to: 2002-11, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 广东省委书记, sys: party, place: 广东, from: 1998, to: 2002, cite: b03-bjreview-2007-10-23-li-resume }
+    - { title: 中央政治局常委, sys: party, from: 2002-11, to: 2012-11, cite: wd-Q560391 }
+    - { title: 中央宣传思想工作领导小组组长, sys: party, from: 2002, to: 2012, cite: wd-Q560391 }
+  life:
+    - h: 大连、哈工大与沈阳
+      from: 1944
+      to: 1985
+      text: >-
+        1944 年 2 月生于辽宁大连。1961–1966 年在哈尔滨工业大学电机工程系学工业企业自动化，1965 年入党，毕业后留校待分配两年。1968 年到沈阳市开关厂当技术员，此后在沈阳电器工业公司、电器控制设备工业公司任经理、党委副书记，1980 年任沈阳市机电工业局副局长。
+        1982 年任沈阳市副市长兼经委主任，1983 年 39 岁时出任沈阳市委书记、市长，在当时是罕见的年轻省会主官。
+      cites: [b03-bjreview-2007-10-23-li-resume]
+    - h: 辽宁省长
+      from: 1985
+      to: 1990
+      text: >-
+        1985 年任辽宁省委副书记仍兼沈阳市委书记，1986 年任代省长，1987 年正式当选辽宁省长，至 1990 年。官方简历显示他在辽宁从工厂一路做到省长，前后二十余年未离开这一个省份。
+        从 1968 年进沈阳开关厂到 1990 年离开辽宁，他用二十二年从技术员做到省长，中间做过企业经理、市局副局长、副市长、市长和市委书记。1990 年他被调往河南，此后再也没有回到东北任职。
+      cites: [b03-bjreview-2007-10-23-li-resume]
+    - h: 河南与“血浆经济”
+      from: 1990
+      to: 1998
+      text: >-
+        1990 年调河南任代省长，1991 年任省长，1992 年起任河南省委书记，1993 年兼省人大常委会主任，1997 年十五大进入政治局。
+        1990 年代河南在政府倡导下大办“血浆经济”，农民卖血致大批人感染艾滋病毒。2010 年，前中国健康教育研究所所长陈秉中发表致胡锦涛的公开信，指李长春、李克强在河南任职时“封锁疫情，拒绝向上正式报告河南省发生的严重问题”，要求两人认错道歉（BBC 报道）。自由亚洲电台 2007 年转述，路透社一篇报道的标题是“尽管河南省艾滋病疫情丑闻缠身，李长春却得以在政坛存活”。
+      cites: [b03-bjreview-2007-10-23-li-resume, b03-bbc-2010-12-01-aids-letter, b03-rfa-2007-10-16-li-career]
+    - h: 广东与入常
+      from: 1998
+      to: 2002
+      text: >-
+        1998 年以政治局委员身份调任广东省委书记，主政广东四年，2002 年十六大进入政治局常委会。
+        自由亚洲电台 2007 年引述路透社称，他进入常委会是得到江泽民的提拔；美国西东大学学者杨力宇则认为“李长春好象过去跟江泽民并没有什么太大的渊源”。旅美评论人李洪宽说他“最早是江泽民的人”，后又很快赢得胡锦涛信任，是官场上“比较典型的骑墙派”。这些都是海外媒体与评论人的看法，官方没有派系说法。
+      cites: [b03-bjreview-2007-10-23-li-resume, b03-rfa-2007-10-16-li-career]
+    - h: 主管宣传
+      from: 2002
+      to: 2012
+      text: >-
+        2002–2012 年他在常委会主管宣传和意识形态，兼任中央宣传思想工作领导小组组长、中央精神文明建设指导委员会主任。2008 年央视建台 50 周年时他提出“传播力决定影响力”，要把央视等中央媒体“打造成具有世界影响的国际一流媒体”；香港媒体报道当局为此拨款 450 亿元扩大官方媒体的海外影响（BBC 转述）。2009 年记者节，他要求记者“自觉抵御西方敌对势力对我实施西化分化的政治图谋”。同年 12 月他点击开通中国网络电视台，称主流媒体向互联网延伸是大势所趋。
+        西方观察者多把这一时期意识形态的收紧与他联系在一起；杨力宇则认为他“是一个执行者”，宣传方针的松紧并不由他决定。
+      cites: [wd-Q560391, b03-gmw-2008-12-23-li-cctv, b03-bbc-2009-11-09-li-journalists, b03-cntv-2009-12-28-li-cntv, b03-rfa-2007-10-16-li-career]
+    - h: 谷歌事件与维基解密
+      from: 2009
+      to: 2010
+      text: >-
+        2010 年 1 月，谷歌承认其系统遭到攻击，但没有说明认为谁应负责。
+        同年 12 月维基解密公开的美国使馆电报显示：据一名消息灵通的中国人士，中国政府协调了对谷歌系统的入侵，行动由政治局常委会指挥，李长春负责“the oversight”（监督），周永康协助。电报还记录，北京不满的起因是谷歌拒绝从受审查的 Google.cn 删除通往 Google.com 的链接；2009 年 5 月使馆人员获悉李长春用 Google.com 搜索过自己，看到批评他的文章。BBC 中文网报道，电报引述消息人士称攻击“100%出于政治目的”，但也指出美方未能确定中国高层领导人是否牵涉其中。
+      cites: [b03-guardian-2010-12-05-li-google, b03-bbc-2010-12-05-google]
+    - h: 退休
+      from: 2012
+      to: 2026
+      text: >-
+        2012 年 11 月十八大时，68 岁的李长春与同届多数常委一起退休，退出常委会。他主管宣传的十年，恰好覆盖了官方媒体海外扩张和互联网管控体系成形的阶段。
+        2026 年 8 月 17 日，他与温家宝、贾庆林、曾庆红、贺国强、刘云山等退休领导人一同出席纪念江泽民诞辰 100 周年大会，出席名单由新华社公布。
+      cites: [wd-Q560391, b03-gov-2026-08-17-jiang-centenary]
+  assess:
+    - voice: west
+      quote: true
+      text: >-
+        A member of China's ruling politburo, he is the individual in charge of propaganda and censorship and the man behind the "great firewall of China".
+      zh: 作为中国执政的政治局成员，他负责宣传与审查，是“防火长城”背后的那个人。
+      cite: b03-guardian-2010-12-05-li-google
+    - voice: zh
+      quote: true
+      text: 美国西东大学著名学者杨力宇说，主管意识形态的李长春给很多人以思想僵化的印象，份内的宣传工作没有作好。
+      cite: b03-rfa-2007-10-16-li-career
+    - voice: zh
+      quote: true
+      text: 中国健康教育研究所前所长陈秉中教授在世界艾滋病日前夕发表致中共领导人胡锦涛公开信，举报现任中共政治局常委李长春和李克强在担任河南省领导时严重失职，导致血浆经济引发大规模艾滋病流行。
+      cite: b03-bbc-2010-12-01-aids-letter
+  cites: [b03-bjreview-2007-10-23-li-resume, b03-gmw-2008-12-23-li-cctv, b03-guardian-2010-12-05-li-google, b03-rfa-2007-10-16-li-career, wd-Q560391]
+
+- id: he-guoqiang
+  name: 贺国强
+  pinyin: Hè Guóqiáng
+  gender: m
+  ethnicity: 汉族
+  born: 1943-10
+  birthplace: 湖南湘乡
+  education:
+    - { school: 北京化工学院无机化工系无机物工学专业, from: 1961, to: 1966 }
+  joinedParty: 1966-01
+  joinedWork: 1966-09
+  roles: [psc, pb, sec, cc, ccdi, prov]
+  status: retired
+  statusNote: 2012 年十八大退休；2026 年 8 月仍出席纪念江泽民诞辰 100 周年大会。
+  tier: 1
+  headline: 中央政治局常委、中央纪委书记（2007–2012），此前任中组部长（2002–2007）
+  ids: { wikidata: Q737894 }
+  factions:
+    - f: jiang-shanghai
+      cite: b03-bbcen-2007-he-profile
+      quote: Scores of senior officials were implicated, but Mr He survived - possibly because of his close relationship with Jiang Zemin, who was president at the time.
+      zh: 数十名高官牵涉其中，但贺国强安然无恙——可能因为他与时任国家主席江泽民关系密切。
+  bio: >-
+    化工技术员出身，在山东化肥厂工作十余年后进入政界，历任济南市委书记、化工部副部长、福建省长、重庆市委书记，2002–2007 年任中组部长，2007–2012 年以政治局常委身份任中央纪委书记。
+    他主持中纪委的五年处在胡锦涛时期反腐的“常态”阶段：强调依纪依法、“惩前毖后、治病救人”，兼顾“经济发展、政治稳定、社会和谐”。BBC 称他多次在丑闻中全身而退，可能与江泽民的关系有关。2011 年他赴重庆观看薄熙来推动的“唱读讲传”演出。退休后，《南华早报》报道其长子贺锦涛一度接受调查。
+  positions:
+    - { title: 鲁南化肥厂副厂长, sys: other, place: 山东, from: 1978, to: 1980, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 山东省化学石油工业厅厅长, sys: gov, place: 山东, from: 1984, to: 1986, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 济南市委书记, sys: party, place: 山东, from: 1987, to: 1991, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 化学工业部副部长, sys: gov, from: 1991, to: 1996, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 福建省长, sys: gov, place: 福建, from: 1996, to: 1999, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 1999, to: 2002, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2002-11, to: 2007-10, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 中央组织部部长, sys: party, from: 2002, to: 2007, cite: b03-chinanews-2007-10-22-he-resume }
+    - { title: 中央政治局常委, sys: party, from: 2007-10, to: 2012-11, cite: wd-Q737894 }
+    - { title: 中央纪委书记, sys: party, from: 2007-10, to: 2012-11, cite: b03-chinanews-2007-10-22-he-resume }
+  life:
+    - h: 湘乡与化肥厂
+      from: 1943
+      to: 1982
+      text: >-
+        1943 年 10 月生于湖南湘乡。1961–1966 年在北京化工学院无机化工系学无机物工学，1966 年 1 月入党，毕业后留校待分配一年。1967 年分到山东鲁南化肥厂合成车间，当了十一年技术员、车间主任和车间党支部书记，1978 年升任副厂长兼副总工程师。
+        1980 年调山东省化学石油工业厅任调度室主任。BBC 介绍他时说，他是受过训练的化学工程师，七八十年代在化肥厂做过多份工作后，才开始在党内逐级上升。
+      cites: [b03-chinanews-2007-10-22-he-resume, b03-bbcen-2007-he-profile]
+    - h: 山东与化工部
+      from: 1982
+      to: 1996
+      text: >-
+        1982 年任山东省化学石油工业厅副厅长，1984 年任厅长。1986 年进入山东省委常委会，兼济南市委副书记，1987–1991 年任济南市委书记，主政省会四年。
+        1991 年调回北京任化学工业部副部长、党组副书记，在部里工作五年。这段时间他的履历仍是典型的行业技术官僚：从工厂、厅局到部委，前后三十年都在化工一个系统里，直到 1996 年才第一次被派去主政一个省份。
+      cites: [b03-chinanews-2007-10-22-he-resume]
+    - h: 福建与重庆
+      from: 1996
+      to: 2002
+      text: >-
+        1996 年任福建省委副书记、代省长，1997–1999 年任省长。BBC 写道，中共党史上最大的走私案正是在他任福建省委副书记时爆发，数十名高官牵连，他却安然无恙，“possibly because of his close relationship with Jiang Zemin”（可能因为与江泽民关系密切）。
+        1999–2002 年任重庆市委书记，BBC 称他被普遍认为在招商引资上颇有成绩，但任内又出了挪用三峡工程资金的腐败丑闻，他再次全身而退。2011 年他重访重庆，看望在重庆工作时结对帮扶的两户“穷亲”，说“穿上你们做的鞋，走路‘踏实’”。
+      cites: [b03-chinanews-2007-10-22-he-resume, b03-bbcen-2007-he-profile, b03-sina-2011-03-21-he-chongqing]
+    - h: 中组部长
+      from: 2002
+      to: 2007
+      text: >-
+        2002 年十六大进入政治局和书记处，接任中央组织部部长，掌管全国干部的考察任用。BBC 解释说，这个看似不起眼的部门负责在官员提拔前对其进行考察，因此握有相当的影响力和权力。
+        他在中组部任职的五年正是胡锦涛接班后的第一个任期。2007 年 10 月十七大，他由中组部长直接进入政治局常委会，同时当选中央纪委书记。BBC 当时评论说，他数次与丑闻擦身而过，显示他有政治上的生存之道。
+      cites: [b03-chinanews-2007-10-22-he-resume, b03-bbcen-2007-he-profile]
+    - h: 中纪委书记
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年 10 月起任中纪委书记。他在全国查办案件工作会议上通报，2002 年 12 月以来全国纪检监察机关共处分党员干部 86 万余人，其中省部级干部 94 人；他要求“不管是什么人，不论职务多高，只要搞腐败，就要一查到底”，同时强调依纪依法、安全文明办案，要把案件查处与“经济发展、政治稳定、社会和谐等因素统一起来”。
+        他提出“惩前毖后”“治病救人”，要求查办案件发挥“治本”功能。在中央纪委监察部机关的一次座谈会上，他把重大责任事故和群体性事件称为“影响社会和谐稳定的一个突出因素”，认为重要原因是一些领导干部“对群众的利益和疾苦漠不关心、麻木不仁”，有的甚至为不法经营“大开绿灯”；他要求在追究直接责任人的同时追究有关领导的责任，并深挖其背后为非法生产经营充当“保护伞”的问题。
+        这些讲话后来收入 2014 年 1 月由人民出版社、党建读物出版社出版的《贺国强党建工作文集》。
+      cites: [b03-12371-2014-01-04-he-cases, b03-people-2014-01-05-he-mass-incidents]
+    - h: 重庆“唱读讲传”
+      from: 2011
+      to: 2011
+      text: >-
+        2011 年 3 月 17 日至 21 日，他以常委、中纪委书记身份到重庆黔江、彭水、武隆和主城区调研，听取重庆市委、市政府和市纪委汇报，“对重庆近年来的工作给予充分肯定”，参观重庆市廉政教育基地并观看“唱读讲传”汇报演出，时任重庆市委书记薄熙来全程陪同。
+        在重庆大学，他回答学生关于腐败的提问时说，腐败是“古今中外都存在的世界性难题”。一年后的 2012 年 3 月，薄熙来被免去重庆市委书记职务。
+      cites: [b03-sina-2011-03-21-he-chongqing, b03-bbc-2015-06-11-zhou-profile]
+    - h: 退休与家人
+      from: 2012
+      to: 2026
+      text: >-
+        2012 年十八大退休，中纪委书记由王岐山接任。2014 年 5 月《南华早报》引述四名消息人士称，中共高层已批准对其长子贺锦涛展开腐败调查，贺锦涛被软禁，王岐山曾向贺国强通报初步调查结果；消息人士同时说，调查并不意味着贺国强本人涉案。官方从未就此发布通报。
+        2026 年 8 月 17 日，他出席纪念江泽民诞辰 100 周年大会，出现在新华社公布的出席名单中，与李长春、曾庆红等退休常委并列。
+      cites: [b03-scmp-2014-05-26-he-jintao, b03-gov-2026-08-17-jiang-centenary]
+  assess:
+    - voice: west
+      quote: true
+      text: And he has survived several brushes with scandal - suggesting that he has a knack for political survival.
+      zh: 他数次与丑闻擦身而过，显示他有政治上的生存之道。
+      cite: b03-bbcen-2007-he-profile
+    - voice: west
+      quote: true
+      text: >-
+        This apparently obscure department is in charge of investigating officials before they are promoted, so it has influence and power.
+      zh: 这个看似不起眼的部门负责在官员提拔前对其进行考察，因此握有影响力和权力。
+      cite: b03-bbcen-2007-he-profile
+  family:
+    - name: 贺锦涛
+      rel: 长子
+      text: >-
+        《南华早报》2014 年 5 月 26 日引述四名知情人士称，中共高层批准对他展开腐败调查，他已被软禁；王岐山向贺国强通报了初步调查结果。报道称不清楚次子贺锦雷是否也受调查，并称调查不意味着贺国强本人涉案。官方未公布任何调查结果。
+      cites: [b03-scmp-2014-05-26-he-jintao]
+  cites: [b03-chinanews-2007-10-22-he-resume, b03-12371-2014-01-04-he-cases, b03-bbcen-2007-he-profile, wd-Q737894]
+
+- id: zhang-dejiang
+  name: 张德江
+  pinyin: Zhāng Déjiāng
+  gender: m
+  ethnicity: 汉族
+  born: 1946-11-04
+  birthplace: 辽宁台安
+  education:
+    - { school: 延边大学朝鲜语系朝鲜语专业, from: 1972, to: 1975 }
+    - { school: 朝鲜金日成综合大学经济系, from: 1978, to: 1980 }
+  joinedParty: 1971-01
+  joinedWork: 1968-11
+  roles: [psc, pb, cc, prov, hkmt]
+  status: retired
+  statusNote: 2018 年 3 月卸任全国人大常委会委员长后退休；2026 年 8 月仍出席纪念江泽民诞辰 100 周年大会。
+  tier: 1
+  headline: 中央政治局常委（2012–2017）、全国人大常委会委员长（2013–2018）
+  ids: { wikidata: Q197178 }
+  factions:
+    - f: jiang-shanghai
+      cite: b03-qz-2016-05-zhang-sars
+      quote: better known for his loyal allegiance to former President Jiang Zemin than for his reformist qualities
+      zh: 他更以对前国家主席江泽民的忠诚而非改革作风闻名
+  bio: >-
+    知青出身、在延边学朝鲜语并留学平壤金日成综合大学的官员，先后主政吉林、浙江、广东三省，2008 年任副总理，2012 年 3 月薄熙来下台后接掌重庆，同年 11 月进入政治局常委会，2013–2018 年任全国人大常委会委员长并主管港澳工作。
+    他在广东任内遇上 2003 年 SARS，外媒普遍批评广东当局起初封锁消息、延误应对。任委员长期间，他代表北京阐述“中央对香港特别行政区拥有全面管治权”。外媒把他视为江泽民一系的官员，也形容他是中央危机时可以依靠的“铁腕”人物。
+  positions:
+    - { title: 延边大学副校长, sys: other, place: 吉林, from: 1980, to: 1983, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 民政部副部长, sys: gov, from: 1986, to: 1990, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 延边州委书记, sys: party, place: 吉林, from: 1990, to: 1995, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 吉林省委书记, sys: party, place: 吉林, from: 1995, to: 1998, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 浙江省委书记, sys: party, place: 浙江, from: 1998, to: 2002, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: wd-Q197178 }
+    - { title: 广东省委书记, sys: party, place: 广东, from: 2002, to: 2007, cite: b03-gov-2013-03-14-zhang-resume }
+    - { title: 国务院副总理, sys: gov, from: 2008-03, to: 2013-03, cite: wd-Q197178 }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2012-03, to: 2012-11, cite: wd-Q197178 }
+    - { title: 中央政治局常委, sys: party, from: 2012-11, to: 2017-10, cite: wd-Q197178 }
+    - { title: 全国人大常委会委员长, sys: gov, from: 2013-03, to: 2018-03, cite: wd-Q197178 }
+    - { title: 中央港澳工作协调小组组长, sys: party, cite: b03-bbc-2016-05-13-zhang-hk }
+  life:
+    - h: 知青、延边与平壤
+      from: 1946
+      to: 1983
+      text: >-
+        1946 年 11 月生于辽宁台安。1968 年到吉林汪清县罗子沟公社当知青，1970 年进县革委会宣传组，1971 年入党。1972–1975 年在延边大学学朝鲜语，毕业后留校任系党总支副书记、校革委会副主任。
+        1978–1980 年赴朝鲜金日成综合大学经济系留学，任留学生党支部书记，回国后任延边大学副校长。《基督教科学箴言报》评论说，他的朝鲜语能力让他得以在中朝边境的延边任职，而他成功遏止非法移民潮也引起北京的注意。
+      cites: [b03-gov-2013-03-14-zhang-resume, b03-csm-2012-11-14-zhang]
+    - h: 延边、民政部与吉林
+      from: 1983
+      to: 1998
+      text: >-
+        1983 年起任延吉市委副书记、延边州委常委，1985 年任延边州委副书记。1986–1990 年调任民政部副部长，1990 年回吉林任省委副书记兼延边州委书记，1995–1998 年任吉林省委书记、省人大常委会主任。
+        新华社 2012 年的人物特稿引用他二十多年前任吉林省委副书记时接受专访说的话：“我们的干部无论职务多高，都是群众中的一员，心里要时刻装着老百姓。”BBC 则把他介绍为对中国“最古老的盟友”朝鲜最在行的领导人。
+      cites: [b03-gov-2013-03-14-zhang-resume, b03-people-2012-12-25-zhang-feature, b03-bbcen-2012-03-05-zhang-profile]
+    - h: 浙江与广东
+      from: 1998
+      to: 2005
+      text: >-
+        1998–2002 年任浙江省委书记，2002 年进入政治局，调任广东省委书记。上任不久，SARS 在广东暴发。BBC 写道，政府反应迟缓，身为省委书记的他“was heavily criticised”（饱受批评）；《基督教科学箴言报》说他试图把疫情当作秘密，正如上级所期望的，却使疫情恶化，一年后报道此事的本地报纸编辑和出版人还以腐败罪被起诉。
+        Quartz 引用学者 Tony Saich 的研究称，他主导了最初的掩盖：2003 年 2 月 11 日让卫生官员开记者会宣布疫情已受控制，此后不准媒体再报道。香港最终有 299 人死于 SARS。
+      cites: [b03-gov-2013-03-14-zhang-resume, b03-bbcen-2012-03-05-zhang-profile, b03-csm-2012-11-14-zhang, b03-qz-2016-05-zhang-sars]
+    - h: 汕尾东洲事件
+      from: 2005
+      to: 2007
+      text: >-
+        2005 年 12 月 6 日，广东汕尾东洲村发生警民冲突，武警开枪镇压，事后村子仍被警察包围。新华社称警方“鸣枪警告时造成3人死亡、8人受伤”；法新社引述当地居民说有 30 人被警方开枪打死，《纽约时报》引述的说法是“多达20人”。BBC 称国际媒体将其形容为 1989 年天安门事件以来当局开枪镇压示威者“杀死最多平民的一次”。
+        事件发生时他正任广东省委书记；BBC 当时的报道没有提及他本人在处置中的角色。2007 年他卸任广东，转任中央。
+      cites: [b03-bbc-2005-12-dongzhou, b03-gov-2013-03-14-zhang-resume]
+    - h: 副总理
+      from: 2008
+      to: 2012
+      text: >-
+        2008 年任国务院副总理，分管工业、交通、社保，兼国务院安全生产委员会主任。据新华社特稿，2010 年王家岭煤矿透水事故后他连夜赶赴现场；2011 年 2 月利比亚撤侨中任总指挥，12 天撤回 3.5 万多人；同年“7·23”甬温线事故后他赶到现场，官方报道称他明确指示“残骸不能埋”。
+        2011 年 7 月他率团访问朝鲜并回母校金日成综合大学参观；BBC 称他同年 11 月还去见过金正日，就在金正日去世前不久。
+      cites: [b03-people-2012-12-25-zhang-feature, b03-bbcen-2012-03-05-zhang-profile]
+    - h: 接管重庆
+      from: 2012
+      to: 2012
+      text: >-
+        2012 年 3 月薄熙来被免职，他以副总理兼任重庆市委书记。《基督教科学箴言报》形容他是被派去“restore the party’s grip on the mega-city”（恢复党对这座特大城市的控制），并称他是中国领导人信任的危机处理者，“a safe pair of hands, in iron gloves”（戴着铁手套的稳妥之手）。
+        新华社称他“临危受命”，八个月里“稳定了大局，理清了发展思路”。11 月十八大当选政治局常委，11 月 20 日卸任重庆市委书记时说：“重庆在我心中，我祝福重庆！”
+      cites: [b03-csm-2012-11-14-zhang, b03-people-2012-12-25-zhang-feature, wd-Q197178]
+    - h: 人大委员长与港澳
+      from: 2013
+      to: 2018
+      text: >-
+        2013 年 3 月当选全国人大常委会委员长，至 2018 年 3 月。他同时任中央港澳工作协调小组组长，主管港澳事务。2016 年 5 月他访港出席“一带一路”论坛，是 2012 年以来首位访港的常委，香港动用三千至五千警力，并在他视线以外设立示威区（BBC）。Quartz 写道，他一到香港就提起与香港合作抗击 SARS，但多数港人对那段时间没有好的记忆。
+        2017 年 5 月纪念基本法实施 20 周年座谈会上，他说“中央对香港特别行政区拥有全面管治权”，中央与特区是“授权与被授权的关系，而不是分权关系”。他点名批评香港社会有人鼓吹“固有权力”“自主权力”乃至“本土自决”“香港独立”，说其实质是“企图把香港变成一个独立、半独立的政治实体”，要求特区“切实履行基本法关于立法维护国家安全的宪制性责任”。他同时强调“一国两制”既要保持香港、澳门长期繁荣稳定，也要维护国家主权、安全和发展利益。
+      cites: [wd-Q197178, b03-bbc-2016-05-13-zhang-hk, b03-qz-2016-05-zhang-sars, b03-xinhua-2017-05-27-zhang-hk]
+    - h: 退休
+      from: 2017
+      to: 2026
+      text: >-
+        2017 年十九大退出常委会，2018 年 3 月卸任人大委员长。2026 年 8 月 17 日他出席纪念江泽民诞辰 100 周年大会，在新华社公布的出席名单中排在温家宝、贾庆林之后，位列其他退休常委之前。
+        外界对他的评价两极：官方称他“敢于负责 勇挑重担”，外媒则更多记得 SARS 时的掩盖与他在香港问题上的强硬表态。
+      cites: [wd-Q197178, b03-gov-2026-08-17-jiang-centenary, b03-people-2012-12-25-zhang-feature]
+  assess:
+    - voice: official
+      quote: true
+      text: 在临危受命主政重庆期间，他不负重托，稳定了大局，理清了发展思路，推动了经济社会科学发展。
+      cite: b03-people-2012-12-25-zhang-feature
+    - voice: west
+      quote: true
+      text: Zhang Dejiang has a reputation as the sort of man that China’s leaders trust to take care of a crisis – and to do whatever it takes in the process.
+      zh: 张德江以危机时刻能让中国领导人放心交托、且为此不惜一切代价著称。
+      cite: b03-csm-2012-11-14-zhang
+    - voice: west
+      quote: true
+      text: >-
+        As Tony Saich writes in “SARS in China”, Zhang oversaw much of the initial cover-up
+      zh: 正如 Tony Saich 在《中国的 SARS》中所写，最初的掩盖大部分由张德江主导。
+      cite: b03-qz-2016-05-zhang-sars
+  cites: [b03-gov-2013-03-14-zhang-resume, b03-people-2012-12-25-zhang-feature, b03-xinhua-2017-05-27-zhang-hk, b03-qz-2016-05-zhang-sars, wd-Q197178]

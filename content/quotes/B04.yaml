@@ -1,0 +1,116 @@
+﻿# B04: person id → quotes. Every text is checked verbatim against its cite.
+xi-jinping:
+  - text: 人民对美好生活的向往，就是我们的奋斗目标。
+    cite: b04-gov-2012-11-15-xi-press
+    kind: public
+    date: 2012-11-15
+    occasion: 十八届中央政治局常委同中外记者见面
+    star: true
+  - text: 全党必须警醒起来。打铁还需自身硬。
+    cite: b04-gov-2012-11-15-xi-press
+    kind: public
+    date: 2012-11-15
+    occasion: 十八届中央政治局常委同中外记者见面，谈党内贪污腐败等问题
+  - text: 实现中华民族伟大复兴，就是中华民族近代以来最伟大的梦想。
+    cite: b04-xinhua-2012-11-29-china-dream
+    kind: public
+    date: 2012-11-29
+    occasion: 参观国家博物馆《复兴之路》展览时的讲话
+  - text: 我们既要绿水青山，也要金山银山。宁要绿水青山，不要金山银山，而且绿水青山就是金山银山。
+    cite: b04-gov-2013-09-07-xi-nazarbayev
+    kind: public
+    date: 2013-09-07
+    occasion: 在哈萨克斯坦纳扎尔巴耶夫大学回答学生关于环境保护的提问
+  - text: 有些吃饱了没事干的外国人，对我们的事情指手画脚。中国一不输出革命，二不输出饥饿和贫困，三不去折腾你们，还有什么好说的。
+    cite: b04-cctv-2009-02-13-xi-mexico
+    kind: adlib
+    date: 2009-02-11
+    occasion: 以国家副主席身份访问墨西哥时会见华侨；据美国之音引述《南华早报》，官方媒体随后奉命撤下相关报道
+  - text: 最后戈尔巴乔夫轻轻一句话，宣布苏联共产党解散，偌大一个党就没了……最后，竟无一人是男儿，没什么人出来抗争。
+    cite: b04-nytcn-2013-02-15-xi-soviet
+    kind: leaked
+    date: 2012-12
+    occasion: 视察广东时对党内人士的讲话；据纽约时报，出自在官员中传阅、未经官方媒体公开的讲话总结稿
+  - text: 去延安的专列上，我记得很清楚，那是1969年的1月份，全部都哭啊，那整个专列上没有不哭的，就是我在笑
+    cite: b04-bbc-xi-lost-princeling
+    kind: interview
+    date: 2004
+    occasion: 2004 年接受访谈时回忆赴陕北插队，BBC 2026 年引述
+  - text: 要把权力关进制度的笼子里
+    cite: b04-nytcn-2013-02-15-xi-soviet
+    kind: public
+    occasion: 执政之初的讲话，纽约时报中文网引述
+peng-liyuan:
+  - text: 过去11年的经历使我认识到，爱心是我们抗击疾病最好的疫苗
+    cite: b04-xinhua-2017-01-19-peng-geneva
+    kind: public
+    date: 2017-01-18
+    occasion: 在日内瓦出席世卫组织结核病和艾滋病防治亲善大使任期续延暨颁奖仪式（英文致辞，新华网译文）
+    star: true
+  - text: 我嫁给他十几年了，他肯定是很成功的。
+    cite: b04-abc-2022-10-28-peng
+    kind: interview
+    date: 1999
+    occasion: 接受香港一档脱口秀节目采访，被问及丈夫是否符合她的择偶要求，ABC 2022 年引述
+  - text: 事业有成、雄心壮志、能驾驭你的人
+    cite: b04-abc-2022-10-28-peng
+    kind: interview
+    date: 1999
+    occasion: 同一采访中谈理想的丈夫，ABC 2022 年引述
+wang-qishan:
+  - text: 中国共产党的合法性源自于历史，是人心向背决定的，是人民的选择。
+    cite: b04-people-2015-09-10-wang-legitimacy
+    kind: public
+    date: 2015-09
+    occasion: 会见出席“2015中国共产党与世界对话会”的外方代表
+    star: true
+  - text: 办好中国的事情，就要看人民高兴不高兴、满意不满意、答应不答应。
+    cite: b04-people-2015-09-10-wang-legitimacy
+    kind: public
+    date: 2015-09
+    occasion: 同一场会见
+  - text: 我们现在很多的学者看的是后资本主义时期的书，应该看一下前期的东西，希望大家看一下《旧制度与大革命》。
+    cite: b04-bbc-2018-03-17-wang-vp
+    kind: public
+    date: 2012-11
+    occasion: 十八大后不久任中纪委书记时在座谈会上向专家荐书，BBC 引述
+yu-zhengsheng:
+  - text: 有问题，提出来，在哪里发生的什么事，有什么顾虑，告诉我们，坦诚相见才能肝胆相照。
+    cite: b04-xinhua-2013-03-11-yu-profile
+    kind: public
+    occasion: 新华社 2013 年当选全国政协主席时的人物特稿引述
+    star: true
+  - text: 转型发展不是件容易的事，要转型，速度要降一点，财政收入要降一点，过去习惯的工作方式、方法要变一变，如果整天只考虑脸面问题会妨碍我们的学习。
+    cite: b04-cntv-2012-01-12-yu-transition
+    kind: public
+    date: 2012-01
+    occasion: 任上海市委书记时出席上海市政协专题会议
+  - text: 上海没出马云我们多少有问题
+    cite: b04-cntv-2012-01-12-yu-transition
+    kind: public
+    date: 2008
+    occasion: 2008 年上海“两会”期间
+  - text: 你做一个地方的领导，老想自己历史上留点什么，别人怎么评价自己，就会妨碍你做出正确的决策，你该触及的矛盾你不敢触及了，应该长远做的事情，非要挪到当前来。我不希望做这样的领导。
+    cite: b04-gov-2012-12-24-yu-profile
+    kind: public
+    occasion: 谈“虚名不可图”，新华社 2012 年入常人物特稿引述
+liu-yunshan:
+  - text: 接地气才能有底气、长灵气
+    cite: b04-chinanews-2012-12-25-liu-profile
+    kind: public
+    occasion: 中新网称这是他常用来要求下属的话
+    star: true
+  - text: 中宣部不可能完全管理五亿网民，批评是过高评价中宣部了
+    cite: b04-bbc-2011-09-08-liu-netizens
+    kind: interview
+    date: 2011-09-07
+    occasion: 在人民大会堂会见出席“中日韩媒体圆桌论坛”的日韩记者
+  - text: 赞成网络自由发展，但必须有秩序和安全
+    cite: b04-bbc-2011-09-08-liu-netizens
+    kind: interview
+    date: 2011-09-07
+    occasion: 同一场会见，据日本媒体报道
+  - text: 新闻记者应该经常在路上、在基层、在现场，说短话、说新话、说老百姓的话。
+    cite: b04-chinanews-2012-12-25-liu-profile
+    kind: public
+    occasion: 任中宣部长时针对新闻报道中的“官话、套话、大话”，新华社人物特稿引述

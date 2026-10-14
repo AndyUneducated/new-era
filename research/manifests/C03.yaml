@@ -1,0 +1,1084 @@
+# C03: dossier cards for fallen officials ("tigers"), 2012-2026
+# www.ccdi.gov.cn answers scripted requests with a captcha page, so its notices are taken from
+# Wayback raw snapshots (id_) or from Xinhua / People's Daily reprints of the same text.
+web:
+  # 苏荣
+  - id: c03-ccdi-2014-06-14-su-rong-probe
+    title: 全国政协副主席苏荣接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-06-14
+    voice: official
+    url: https://web.archive.org/web/20160816231809id_/http://www.ccdi.gov.cn/yw/201406/t20140614_36928.html
+    start: "中国人民政治协商会议第十二届全国委员"
+    end: "重违纪违法，目前正接受组织调查。"
+  - id: c03-ccdi-2015-02-16-su-rong-expel
+    title: 全国政协原副主席苏荣严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-02-16
+    voice: official
+    url: https://web.archive.org/web/20160305012713id_/http://www.ccdi.gov.cn/xwtt/201502/t20150216_51531.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "及所涉款物移送司法机关依法处理。"
+  - id: c03-people-2017-01-23-su-rong-verdict
+    title: 全国政协原副主席苏荣受贿、滥用职权、巨额财产来源不明案一审宣判
+    publisher: 新华社（人民网转载）
+    date: 2017-01-23
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0123/c1001-29044794.html
+    start: "新华社济南1月23日电 2017年1"
+    end: "其从轻处罚。法庭遂作出上述判决。"
+  # 蒋洁敏
+  - id: c03-12371-2013-09-01-jiang-jiemin-probe
+    title: 国务院国资委主任蒋洁敏接受组织调查
+    publisher: 新华社（共产党员网转载）
+    date: 2013-09-01
+    voice: official
+    url: http://news.12371.cn/2013/09/01/ARTI1378004694763907.shtml
+    start: "记者从中央纪委获悉，国务院国资委主任"
+    end: "党组书记兼中石油股份公司董事长。"
+  - id: c03-cyol-2014-07-01-jiang-li-expel
+    title: 蒋洁敏、李东生严重违纪违法被开除党籍
+    publisher: 新华社（中国青年报转载）
+    date: 2014-07-01
+    voice: official
+    url: https://zqb.cyol.com/html/2014-07/01/nw.D110000zgqnb_20140701_7-06.htm
+    start: "新华社北京6月30日电 日前，经中共"
+    end: "王永春的上述行为已构成严重违纪，其中受贿问题涉嫌违法犯罪。依据《中国共产党纪律处分条例》等有关规定，经中央纪委常委会议研究并报中共中央政治局会议审议，决定给予王永春开除党籍处分，待召开中央委员会全体会议时予以追认；由监察部报请国务院批准给予其行政开除处分；将其涉嫌犯罪问题及线索移送司法机关依法处理。"
+  - id: c03-xinhua-2015-10-12-jiang-jiemin-verdict
+    title: 蒋洁敏受贿、巨额财产来源不明、国有公司人员滥用职权案一审宣判
+    publisher: 新华网
+    date: 2015-10-12
+    voice: official
+    url: https://web.archive.org/web/20160420104040id_/http://news.xinhuanet.com/legal/2015-10/12/c_1116799453.htm
+    start: "新华网湖北仙桃10月12日电（记者李"
+    end: "员和各界人士70余人参加了旁听。"
+  - id: c03-bbc-2014-06-30-four-expelled
+    title: 中共开除徐才厚党籍 另三高官遭清算
+    publisher: BBC中文网
+    date: 2014-06-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/06/140630_china_officals
+    excerpt: true
+    keep: [周永康关系密切]
+  # 李东生
+  - id: c03-mos-2013-12-20-li-dongsheng-probe
+    title: 公安部副部长李东生接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2013-12-20
+    voice: official
+    url: https://web.archive.org/web/20131223182014id_/http://www.mos.gov.cn/xwyw/201312/t20131220_15573.html
+    start: "中央防范和处理邪教问题领导小组副组长"
+    end: "重违纪违法，目前正接受组织调查。"
+  - id: c03-xinhua-2016-01-12-li-dongsheng-verdict
+    title: 公安部原副部长李东生受贿案一审宣判
+    publisher: 新华网
+    date: 2016-01-12
+    voice: official
+    url: http://www.xinhuanet.com/politics/2016-01/12/c_1117745032.htm
+    start: "新华社天津１月１２日电（记者李靖、王"
+    end: "警监警衔。第十一届全国人大代表。"
+  # 白恩培
+  - id: c03-people-2014-08-29-bai-enpei-probe
+    title: 全国人大环资委副主任委员白恩培接受组织调查
+    publisher: 人民网
+    date: 2014-08-29
+    voice: official
+    url: https://web.archive.org/web/20150113174710id_/http://sc.people.com.cn/n/2014/0829/c345454-22156004.html
+    start: "据中央纪委监察部网站消息，十二届全国"
+    end: "十七届中央委员。(简历据新华网)"
+  - id: c03-people-2015-01-13-bai-enpei-expel
+    title: 白恩培严重违纪违法被开除党籍
+    publisher: 新华社（人民网转载）
+    date: 2015-01-13
+    voice: official
+    url: https://web.archive.org/web/20191012064126id_/http://politics.people.com.cn/n/2015/0113/c1001-26377297.html
+    start: "人民网北京1月13日电 据中央纪委监"
+    end: "恩培等人的问题系通过巡视发现的。"
+  - id: c03-people-2016-10-09-bai-enpei-verdict
+    title: 白恩培受贿、巨额财产来源不明案一审宣判
+    publisher: 新华社（人民网转载）
+    date: 2016-10-09
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2016/1009/c64371-28762754.html
+    start: "河南省安阳市中级人民法院９日公开宣判"
+    end: "判决。（新华社郑州１０月９日电）"
+  # 王珉
+  - id: c03-ccdi-2016-03-04-wang-min-probe
+    title: 全国政协教科文卫体委员会副主任王珉接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2016-03-04
+    voice: official
+    url: https://web.archive.org/web/20160604053632id_/http://www.ccdi.gov.cn/xwtt/201603/t20160304_75426.html
+    start: "十二届全国人大教育科学文化卫生委员会副主任委员王珉涉嫌严重违纪，目前正接"
+    end: "中央委员。（简历摘自中国政府网）"
+  - id: c03-ccdi-2016-08-10-wang-min-expel
+    title: 辽宁省委原书记王珉严重违纪被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2016-08-10
+    voice: official
+    url: https://web.archive.org/web/20160811070559id_/http://www.ccdi.gov.cn/xwtt/201608/t20160810_85213.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-people-2017-08-05-wang-min-verdict
+    title: 辽宁省委原书记王珉受贿、玩忽职守案一审宣判
+    publisher: 新华社（人民网转载）
+    date: 2017-08-04
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0805/c64371-29451429.html
+    start: "4日，河南省洛阳市中级人民法院公开宣"
+    end: "述判决。（新华社郑州8月4日电）"
+  # 周本顺、杨栋梁
+  - id: c03-ccdi-2015-07-24-zhou-benshun-probe
+    title: 河北省委书记周本顺接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-07-24
+    voice: official
+    url: https://web.archive.org/web/20201017194212id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115869.html
+    start: "河北省委书记、省人大常委会主任周本顺涉嫌严重违纪违法"
+    end: "主任（简历摘自“河北人大”网站）"
+  - id: c03-ccdi-2015-10-16-zhou-yang-expel
+    title: 周本顺、杨栋梁严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-10-16
+    voice: official
+    url: https://web.archive.org/web/20170930155206id_/http://www.ccdi.gov.cn/xwtt/201510/t20151016_63604.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "杨栋梁身为中央委员，理想信念丧失，严重违反党的纪律，且党的十八大后仍不收敛、不收手，性质恶劣、情节特别严重。依据《中国共产党纪律处分条例》等有关规定，经中央纪委常委会议研究并报中共中央政治局会议审议，决定给予杨栋梁开除党籍处分；由监察部报国务院批准，给予其行政开除处分；收缴其违纪所得；将其涉嫌犯罪问题、线索及所涉款物移送司法机关依法处理。给予其开除党籍的处分，待召开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2017-02-15-zhou-benshun-verdict
+    title: 河北省委原书记周本顺一审被判处有期徒刑15年
+    publisher: 新华网（中新网稿）
+    date: 2017-02-15
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-02/15/c_129480440.htm
+    start: "据厦门市中级人民法院官方微博消息，2"
+    end: "财物及其孳息予以追缴，上缴国库。"
+  - id: c03-bbc-2015-07-24-zhou-benshun
+    title: 河北省委书记周本顺落马 疑涉周永康案
+    publisher: BBC中文网
+    date: 2015-07-24
+    voice: zh
+    url: http://www.bbc.com/zhongwen/simp/china/2015/07/150724_china_hebei_provincial_zhoubenshun
+    excerpt: true
+    keep: [周永康]
+  - id: c03-ccdi-2015-08-18-yang-dongliang-probe
+    title: 国家安全生产监督管理总局局长杨栋梁接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-08-18
+    voice: official
+    url: https://web.archive.org/web/20160613223457id_/http://www.ccdi.gov.cn/xwtt/201508/t20150818_60754.html
+    start: "国家安全生产监督管理总局局长、党组书记杨栋梁涉嫌严重"
+    end: "自国家安全生产监督管理总局网站）"
+  - id: c03-people-2017-02-22-yang-dongliang-verdict
+    title: 国家安监总局原局长杨栋梁受贿案一审宣判
+    publisher: 人民网
+    date: 2017-02-21
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0222/c64371-29098385.html
+    start: "人民网北京2月21日电 （记者徐隽）"
+    end: "以从轻处罚。法庭遂作出上述判决。"
+  # 朱明国
+  - id: c03-ccdi-2014-11-28-zhu-mingguo-probe
+    title: 广东省政协主席朱明国接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-11-28
+    voice: official
+    url: https://web.archive.org/web/20141202001351id_/http://www.ccdi.gov.cn/ajcc/201411/t20141128_32138.html
+    start: "广东省政协主席朱明国涉嫌严重违纪违法，目前正接受组织"
+    end: "重违纪违法，目前正接受组织调查。"
+  - id: c03-ccdi-2015-02-17-zhu-mingguo-expel
+    title: 广东省政协原主席朱明国严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-02-17
+    voice: official
+    url: https://web.archive.org/web/20160623162312id_/http://www.ccdi.gov.cn/yw/201502/t20150217_51611.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-cyol-2016-11-12-zhu-mingguo-verdict
+    title: 广东省政协原主席朱明国受贿、巨额财产来源不明案一审宣判
+    publisher: 新华社（中国青年报转载）
+    date: 2016-11-11
+    voice: official
+    url: http://zqb1.cyol.com/html/2016-11/12/nw.D110000zgqnb_20161112_2-04.htm
+    start: "新华社南宁11月11日电 11日，广"
+    end: "柳州市中级人民法院认为，被告人朱明国身为国家工作人员，利用职务上的便利，为他人谋取利益，或利用本人职权和地位形成的便利条件，通过其他国家工作人员的职务行为，为他人谋取不正当利益，非法收受他人财物，数额特别巨大，严重侵害了国家工作人员职务行为的廉洁性，并使国家和人民利益遭受特别重大损失，其行为构成受贿罪；朱明国本人及家庭财产、支出明显超过合法收入，差额特别巨大，不能说明来源，其行为又构成巨额财产来源不明罪，均应依法惩处。鉴于朱明国归案后能够如实供述自己罪行，认罪悔罪，积极退赃，涉案赃款赃物已全部追缴，具有法定和酌定从轻处罚情节，对其受贿犯罪，判处死刑，可不立即执行。法庭遂作出上述判决。"
+  # 黄兴国
+  - id: c03-ccdi-2016-09-10-huang-xingguo-probe
+    title: 天津市委代理书记、市长黄兴国接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2016-09-10
+    voice: official
+    url: https://web.archive.org/web/20160912090157id_/http://www.ccdi.gov.cn/xwtt/201609/t20160910_86574.html
+    start: "天津市委代理书记、市长黄兴国涉嫌严重违纪，目前正接受"
+    end: "员会委员。（简历摘自天津政务网）"
+  - id: c03-ccdi-2017-01-04-huang-xingguo-expel
+    title: 天津市委原代理书记、市长黄兴国严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2017-01-04
+    voice: official
+    url: https://web.archive.org/web/20170111151205id_/http://www.ccdi.gov.cn/xwtt/201701/t20170104_92252.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2017-09-25-huang-xingguo-verdict
+    title: 天津市委原代理书记、市长黄兴国受贿案一审宣判
+    publisher: 新华网
+    date: 2017-09-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-09/25/c_1121721973.htm
+    start: "新华社石家庄９月２５日电 河北省石家"
+    end: "法庭遂作出上述判决。"
+  # 王三运
+  - id: c03-ccdi-2017-07-11-wang-sanyun-probe
+    title: 十二届全国人大教育科学文化卫生委员会副主任委员王三运接受组织审查
+    publisher: 中央纪委监察部网站
+    date: 2017-07-11
+    voice: official
+    url: https://web.archive.org/web/20170716153710id_/http://www.ccdi.gov.cn/jlsc/zggb/jlsc_zggb/201707/t20170711_102668.html
+    start: "十二届全国人大教育科学文化卫生委员会副主任委员王三运涉嫌严重违纪，目前正"
+    end: "八届中央委员。（简历摘自人民网）"
+  - id: c03-ccdi-2017-09-22-wang-sanyun-expel
+    title: 甘肃省委原书记王三运严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2017-09-22
+    voice: official
+    url: https://web.archive.org/web/20170922075149id_/http://www.ccdi.gov.cn/xwtt/201709/t20170922_107655.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "八届中央委员。（简历摘自人民网）"
+  - id: c03-gmw-2019-04-12-wang-sanyun-verdict
+    title: 甘肃省委原书记王三运受贿案一审宣判
+    publisher: 新华社（光明日报转载）
+    date: 2019-04-11
+    voice: official
+    url: https://epaper.gmw.cn/gmrb/html/2019-04/12/nw.D110000gmrb_20190412_3-03.htm
+    start: "新华社郑州4月11日电 河南省郑州市"
+    end: "以从轻处罚。法庭遂作出上述判决。"
+  # 鲁炜
+  - id: c03-ccdi-2017-11-21-lu-wei-probe
+    title: 中央宣传部原副部长鲁炜接受组织审查
+    publisher: 中央纪委监察部网站
+    date: 2017-11-21
+    voice: official
+    url: https://web.archive.org/web/20171214200132id_/http://www.ccdi.gov.cn/xwtt/201711/t20171121_112203.html
+    start: "中共中央宣传部原副部长鲁炜涉嫌严重违纪，目前正接受组"
+    end: "长。（简历摘自中国共产党新闻网）"
+  - id: c03-xinhua-2018-02-13-lu-wei-expel
+    title: 中央宣传部原副部长鲁炜严重违纪被开除党籍和公职
+    publisher: 新华网
+    date: 2018-02-13
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018-02/13/c_1122415612.htm
+    start: "新华社北京2月13日电 日前，经中共"
+    end: "涉款物移送有关国家机关依法处理。"
+  - id: c03-xinhua-2019-03-26-lu-wei-verdict
+    title: 中央宣传部原副部长鲁炜受贿案一审宣判
+    publisher: 新华网
+    date: 2019-03-26
+    voice: official
+    url: https://web.archive.org/web/20200812124947id_/http://www.xinhuanet.com/2019-03/26/c_1124285790.htm
+    start: "新华社杭州3月26日电 浙江省宁波市"
+    end: "其从轻处罚。法庭遂作出上述判决。"
+  # 项俊波
+  - id: c03-ccdi-2017-04-09-xiang-junbo-probe
+    title: 中国保险监督管理委员会主席项俊波接受组织审查
+    publisher: 中央纪委监察部网站
+    date: 2017-04-09
+    voice: official
+    url: https://web.archive.org/web/20201104054855id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201704/t20170409_115913.html
+    start: "中国保险监督管理委员会党委书记、主席项俊波涉嫌严重违"
+    end: "嫌严重违纪，目前正接受组织审查。"
+  - id: c03-ccdi-2017-09-23-xiang-junbo-expel
+    title: 中国保监会原主席项俊波严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2017-09-23
+    voice: official
+    url: https://web.archive.org/web/20190124093221id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201709/t20170923_116076.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "第十八届中央委员（简历摘自人民网）"
+  - id: c03-rmzxw-2020-06-16-xiang-junbo-verdict
+    title: 原保监会主席项俊波受贿案一审宣判
+    publisher: 新华社（人民政协网转载）
+    date: 2020-06-16
+    voice: official
+    url: http://www.rmzxw.com.cn/c/2020-06-16/2593867.shtml
+    start: "新华社南京6月16日电 2020年6"
+    end: "以从轻处罚。法庭遂作出上述判决。"
+  # 谷俊山
+  - id: c03-xinhua-2015-08-10-gu-junshan-verdict
+    title: 谷俊山一审被判处死刑缓期二年执行 剥夺中将军衔
+    publisher: 新华网
+    date: 2015-08-10
+    voice: official
+    url: https://web.archive.org/web/20171217102713id_/http://news.xinhuanet.com/legal/2015-08/10/c_1116205389.htm
+    start: "新华网北京8月10日电 2015年8"
+    end: "事检察院补充起诉谷俊山犯行贿罪。"
+  - id: c03-bbc-2015-08-10-gu-junshan
+    title: 中国军内“老虎”谷俊山判死缓剥夺中将军衔
+    publisher: BBC中文网
+    date: 2015-08-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/08/150810_china_gujunshan_sentence
+    excerpt: true
+    keep: [供出徐才厚之犯罪详情, 总后勤部副部长]
+  # 刘铁男
+  - id: c03-jjckb-2013-05-12-liu-tienan-probe
+    title: 国家能源局原局长刘铁男接受组织调查
+    publisher: 新华社（经济参考报转载）
+    date: 2013-05-12
+    voice: official
+    url: http://jjckb.xinhuanet.com/2013-05/12/content_444187.htm
+    start: "记者从中央纪委获悉，国家发展和改革委"
+    end: "财政金融司。"
+  - id: c03-ccdi-2013-08-08-liu-tienan-expel
+    title: 刘铁男严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-08-08
+    voice: official
+    url: https://web.archive.org/web/20150104150453id_/http://www.ccdi.gov.cn/jlsc/201308/t20130809_41696.html
+    start: "新华网北京８月８日电 日前，中共中央"
+    end: "嫌犯罪问题移送司法机关依法处理。"
+  - id: c03-chinacourt-2014-12-10-liu-tienan-verdict
+    title: 国家发改委原副主任刘铁男受贿案一审宣判
+    publisher: 中国法院网
+    date: 2014-12-10
+    voice: official
+    url: https://web.archive.org/web/20150104135914id_/http://www.chinacourt.org/article/detail/2014/12/id/1524194.shtml
+    start: "国家发改委原副主任、国家能源局原局长"
+    end: "员和国企高管因腐败问题“落马”。"
+  # 李春城
+  - id: c03-ccdi-2012-12-06-li-chuncheng-probe
+    title: 四川省委副书记李春城接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2012-12-06
+    voice: official
+    url: https://web.archive.org/web/20160417111326id_/http://www.ccdi.gov.cn/jlsc/201307/t20130720_41660.html
+    start: "新华网北京12月6日电 据中央纪委有"
+    end: "嫌严重违纪，目前正接受组织调查。"
+  - id: c03-xinhua-2014-04-29-li-chuncheng-expel
+    title: 李春城严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2014-04-29
+    voice: official
+    url: https://web.archive.org/web/20170512103446id_/http://news.xinhuanet.com/politics/2014-04/29/c_1110473851.htm
+    start: "新华网北京4月29日电 日前，经中共"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-people-2015-10-13-li-chuncheng-verdict
+    title: 四川省委原副书记李春城一审被判处有期徒刑13年
+    publisher: 新华社（人民网转载）
+    date: 2015-10-12
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/1013/c64371-27691744.html
+    start: "据湖北省咸宁市中级人民法院官方微博消息"
+    end: "城当庭表示服从法院判决，不上诉。"
+  - id: c03-bbc-2015-10-12-li-chuncheng
+    title: 李春城因受贿罪被判13年徒刑
+    publisher: BBC中文网
+    date: 2015-10-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/10/151012_lichuncheng_sentence
+    excerpt: true
+    keep: [周永康的亲信, 被提拔为享受副省级待遇的成都市长]
+  # 万庆良
+  - id: c03-ccdi-2014-06-27-wan-qingliang-probe
+    title: 广东省委常委、广州市委书记万庆良接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-06-27
+    voice: official
+    url: https://web.archive.org/web/20140630234323id_/http://www.ccdi.gov.cn/xwtt/201406/t20140627_24615.html
+    start: "广东省委常委、广州市委书记万庆良涉嫌"
+    end: "重违纪违法，目前正接受组织调查。"
+  - id: c03-ccdi-2014-10-09-wan-qingliang-expel
+    title: 广州市委原书记万庆良严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-10-09
+    voice: official
+    url: https://web.archive.org/web/20160305012534id_/http://www.ccdi.gov.cn/jlsc/201410/t20141009_42351.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-court-2016-09-30-wan-qingliang-verdict
+    title: 广州市委原书记万庆良受贿案一审宣判
+    publisher: 最高人民法院网站
+    date: 2016-09-30
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/33201.html
+    start: "9月30日，广西壮族自治区南宁市中级"
+    end: "庭遂作出上述判决。（记者罗书臻）"
+  # 仇和
+  - id: c03-ccdi-2015-03-15-qiu-he-probe
+    title: 云南省委副书记仇和接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-03-15
+    voice: official
+    url: https://web.archive.org/web/20150923224044id_/http://www.ccdi.gov.cn/xwtt/201503/t20150315_53328.html
+    start: "云南省委副书记仇和涉嫌严重违纪违法，"
+    end: "重违纪违法，目前正接受组织调查。"
+  - id: c03-ccdi-2015-07-31-qiu-he-expel
+    title: 云南省委原副书记仇和严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-07-31
+    voice: official
+    url: https://web.archive.org/web/20150803232145id_/http://www.ccdi.gov.cn/jlsc/201507/t20150731_60041.html
+    start: "日前，经中共中央批准，中共中央纪委对"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2016-12-15-qiu-he-verdict
+    title: 云南省委原副书记仇和受贿案一审宣判
+    publisher: 新华网
+    date: 2016-12-15
+    voice: official
+    url: https://web.archive.org/web/20161220160037id_/http://news.xinhuanet.com/legal/2016-12/15/c_1120126520.htm
+    start: "新华社贵阳12月15日电 贵州省贵阳"
+    end: "以从轻处罚。法庭遂作出上述判决。"
+  # 赖小民
+  - id: c03-ccdi-2018-04-17-lai-xiaomin-probe
+    title: 中国华融资产管理股份有限公司原党委书记、董事长赖小民接受纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2018-04-17
+    voice: official
+    url: https://web.archive.org/web/20190628092449id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201804/t20180417_170141.html
+    start: "中国华融资产管理股份有限公司党委书记、董事长赖小民个人涉嫌严重违纪违法，"
+    end: "国华融资产管理股份有限公司网站）"
+  - id: c03-ccdi-2018-10-15-lai-xiaomin-expel
+    title: 中国华融原党委书记、董事长赖小民严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站
+    date: 2018-10-15
+    voice: official
+    url: https://web.archive.org/web/20200126194750id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201810/t20181015_181425.html
+    start: "日前，中央纪委国家监委对中国华融资产"
+    end: "依法审查起诉，所涉财物随案移送。"
+  - id: c03-court-2021-01-05-lai-xiaomin-verdict
+    title: 华融公司原董事长赖小民受贿、贪污、重婚案一审宣判
+    publisher: 最高人民法院网站
+    date: 2021-01-05
+    voice: official
+    url: https://web.archive.org/web/20210129140703id_/http://www.court.gov.cn/fabu-xiangqing-283031.html
+    start: "2021年1月5日，天津市第二中级人"
+    end: "庭遂作出上述判决。（记者 孙航）"
+  - id: c03-xinhua-2021-01-29-lai-xiaomin-executed
+    title: 华融公司原董事长赖小民被执行死刑
+    publisher: 新华网
+    date: 2021-01-29
+    voice: official
+    url: https://www.xinhuanet.com/legal/2021-01/29/c_1127043054.htm
+    start: "新华社天津1月29日电 经最高人民法"
+    end: "前，赖小民与其近亲属进行了会见。"
+  # 孟宏伟
+  - id: c03-ccdi-2018-10-07-meng-hongwei-probe
+    title: 公安部副部长孟宏伟接受国家监委监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2018-10-07
+    voice: official
+    url: https://web.archive.org/web/20190628084805id_/http://www.ccdi.gov.cn/toutiao/201810/t20181007_180936.html
+    start: "公安部副部长孟宏伟涉嫌违法，目前正接"
+    end: "法，目前正接受国家监委监察调查。"
+  - id: c03-ccdi-2019-03-27-meng-hongwei-expel
+    title: 公安部原副部长孟宏伟严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站
+    date: 2019-03-27
+    voice: official
+    url: https://web.archive.org/web/20190327115754id_/http://www.ccdi.gov.cn/toutiao/201903/t20190327_191256.html
+    start: "日前，经中共中央批准，国家监委对公安"
+    end: "依法审查起诉，所涉财物随案移送。"
+  - id: c03-xinhua-2020-01-21-meng-hongwei-verdict
+    title: 公安部原副部长孟宏伟受贿案一审宣判
+    publisher: 新华网
+    date: 2020-01-21
+    voice: official
+    url: https://web.archive.org/web/20220312023744id_/http://www.xinhuanet.com/politics/2020-01/21/c_1125490273.htm
+    start: "新华社天津1月21日电 2020年1"
+    end: "缴等情节，法庭依法作出上述判决。"
+  # 傅政华
+  - id: c03-ccdi-2021-10-02-fu-zhenghua-probe
+    title: 全国政协社会和法制委员会副主任傅政华接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2021-10-02
+    voice: official
+    url: https://web.archive.org/web/20211002122359id_/https://www.ccdi.gov.cn/toutiao/202110/t20211002_251687.html
+    start: "中央纪委国家监委网站讯 全国政协社会"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-ccdi-2022-03-31-fu-zhenghua-expel
+    title: 全国政协社会和法制委员会原副主任傅政华严重违纪违法被开除党籍
+    publisher: 中央纪委国家监委网站
+    date: 2022-03-31
+    voice: official
+    url: https://web.archive.org/web/20220512164201id_/https://www.ccdi.gov.cn/toutiaon/202203/t20220331_183485.html
+    start: "中央纪委国家监委网站讯 日前，经中共"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2022-09-22-fu-zhenghua-verdict
+    title: 司法部原部长傅政华受贿、徇私枉法案一审宣判
+    publisher: 新华网
+    date: 2022-09-22
+    voice: official
+    url: http://www.news.cn/legal/2022-09/22/c_1129022848.htm
+    start: "新华社长春9月22日电 2022年9"
+    end: "减刑、假释。法庭遂作出上述判决。"
+  # 孙力军
+  - id: c03-ccdi-2020-04-19-sun-lijun-probe
+    title: 公安部党委委员、副部长孙力军接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2020-04-19
+    voice: official
+    url: https://web.archive.org/web/20200421151847id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202004/t20200419_215645.html
+    start: "公安部党委委员、副部长孙力军涉嫌严重"
+    end: "警监警衔。（简历摘自公安部官网）"
+  - id: c03-ccdi-2021-09-30-sun-lijun-expel
+    title: 公安部原党委委员、副部长孙力军严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站
+    date: 2021-09-30
+    voice: official
+    url: https://web.archive.org/web/20220121193743id_/https://www.ccdi.gov.cn/toutiao/202109/t20210930_251638.html
+    start: "中央纪委国家监委网站讯 日前，经中共"
+    end: "依法审查起诉，所涉财物一并移送。"
+  - id: c03-xinhua-2022-09-23-sun-lijun-verdict
+    title: 公安部原副部长孙力军受贿、操纵证券市场、非法持有枪支案一审宣判
+    publisher: 新华网
+    date: 2022-09-23
+    voice: official
+    url: http://www.news.cn/legal/2022-09/23/c_1129026017.htm
+    start: "新华社长春9月23日电 2022年9"
+    end: "减刑、假释。法庭遂作出上述判决。"
+  # 王立科
+  - id: c03-ccdi-2020-10-24-wang-like-probe
+    title: 江苏省政协党组成员、副主席王立科接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2020-10-24
+    voice: official
+    url: https://web.archive.org/web/20201104100804id_/http://www.ccdi.gov.cn/toutiao/202010/t20201024_227860.html
+    start: "江苏省委常委、政法委书记王立科涉嫌严"
+    end: "摘自人民网，截至2017年9月）"
+  - id: c03-ccdi-2021-09-22-wang-like-expel
+    title: 江苏省政协原党组成员、副主席王立科严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站
+    date: 2021-09-22
+    voice: official
+    url: https://web.archive.org/web/20210925114917id_/https://www.ccdi.gov.cn/toutiao/202109/t20210922_251015.html
+    start: "中央纪委国家监委网站讯 日前，经中共"
+    end: "依法审查起诉，所涉财物一并移送。"
+  - id: c03-xinhua-2022-09-22-wang-like-verdict
+    title: 江苏省政协原副主席王立科受贿案一审宣判
+    publisher: 新华网
+    date: 2022-09-22
+    voice: official
+    url: https://www.news.cn/legal/2022-09/22/c_1129024006.htm
+    start: "新华社长春9月22日电 2022年9"
+    end: "减刑、假释。法庭遂作出上述判决。"
+  # 龚道安、邓恢林
+  - id: c03-people-2020-08-18-gong-daoan-probe
+    title: 上海市副市长、市公安局局长龚道安接受中央纪委国家监委纪律审查和监察调查
+    publisher: 人民网
+    date: 2020-08-18
+    voice: official
+    url: https://web.archive.org/web/20220304034854id_/http://fanfu.people.com.cn/n1/2020/0818/c64371-31826943.html
+    start: "上海市副市长、市公安局局长龚道安涉嫌"
+    end: "。（简历摘自上海市人民政府网站）"
+  - id: c03-people-2021-02-10-gong-daoan-expel
+    title: 上海市原副市长、市公安局原局长龚道安严重违纪违法被开除党籍和公职
+    publisher: 人民网
+    date: 2021-02-10
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2021/0210/c64371-32028405.html
+    start: "日前，经中共中央批准，中央纪委国家监"
+    end: "、督察长，上海公安学院院长等职。"
+  - id: c03-xinhua-2022-09-21-gong-daoan-verdict
+    title: 上海市原副市长、市公安局原局长龚道安受贿案一审宣判
+    publisher: 新华网
+    date: 2022-09-21
+    voice: official
+    url: http://www.news.cn/2022-09/21/c_1129020162.htm
+    start: "新华社石家庄9月21日电 2022年"
+    end: "以从轻处罚。法庭遂作出上述判决。"
+  - id: c03-ccdi-2020-06-14-deng-huilin-probe
+    title: 重庆市副市长、市公安局局长邓恢林接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2020-06-14
+    voice: official
+    url: https://web.archive.org/web/20201104133157id_/http://www.ccdi.gov.cn/toutiao/202006/t20200614_220067.html
+    start: "重庆市副市长、公安局局长邓恢林涉嫌严"
+    end: "（简历摘自重庆市人民政府网站）"
+  - id: c03-xinhua-2021-01-04-deng-huilin-expel
+    title: 重庆市原副市长、市公安局原局长邓恢林严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2021-01-04
+    voice: official
+    url: http://www.xinhuanet.com/2021-01/04/c_1126943744.htm
+    start: "新华社北京1月4日电 日前，经中共中"
+    end: "依法审查起诉，所涉财物一并移送。"
+  - id: c03-cnr-2022-09-21-deng-huilin-verdict
+    title: 重庆市原副市长、市公安局原局长邓恢林受贿案一审宣判
+    publisher: 新华社（央广网转载）
+    date: 2022-09-21
+    voice: official
+    url: https://web.archive.org/web/20220921030604id_/http://news.cnr.cn/native/gd/20220921/t20220921_526015850.shtml
+    start: "2022年9月21日，河北省保定市中"
+    end: "法庭遂作出上述判决。"
+  # 刘彦平
+  - id: c03-ccdi-2022-03-12-liu-yanping-probe
+    title: 中央纪委国家监委驻应急管理部纪检监察组原组长刘彦平接受审查调查
+    publisher: 中央纪委国家监委网站
+    date: 2022-03-12
+    voice: official
+    url: https://web.archive.org/web/20220403215819id_/https://www.ccdi.gov.cn/toutiaon/202203/t20220312_177414_m.html
+    start: "中央纪委国家监委网站讯 中央纪委国家"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-people-2022-09-01-liu-yanping-expel
+    title: 中央纪委国家监委驻应急管理部纪检监察组原组长刘彦平严重违纪违法被开除党籍和公职
+    publisher: 新华社（人民网转载）
+    date: 2022-09-01
+    voice: official
+    url: https://web.archive.org/web/20220928175625id_/http://politics.people.com.cn/n1/2022/0901/c1001-32517177.html
+    start: "中央纪委国家监委网站讯 日前，经中共"
+    end: "依法审查起诉，所涉财物一并移送。"
+  - id: c03-xinhua-2023-01-10-liu-yanping-verdict
+    title: 中央纪委国家监委驻应急管理部纪检监察组原组长刘彦平受贿案一审宣判
+    publisher: 新华网
+    date: 2023-01-10
+    voice: official
+    url: http://www.news.cn/legal/2023-01/10/c_1129271210.htm
+    start: "新华社长春1月10日电 2023年1"
+    end: "减刑、假释。法庭遂作出上述判决。"
+  # 周江勇
+  - id: c03-ccdi-2021-08-21-zhou-jiangyong-probe
+    title: 浙江省委常委、杭州市委书记周江勇接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2021-08-21
+    voice: official
+    url: https://web.archive.org/web/20210822042714id_/https://www.ccdi.gov.cn/scdc/zggb/zjsc/202108/t20210821_248708.html
+    start: "中央纪委国家监委网站讯 浙江省委常委"
+    end: "简历摘自杭州市人民政府门户网站）"
+  - id: c03-ccdi-2022-01-26-zhou-jiangyong-expel
+    title: 浙江省委原常委、杭州市委原书记周江勇严重违纪违法被开除党籍和公职
+    publisher: 中央纪委国家监委网站
+    date: 2022-01-26
+    voice: official
+    url: https://web.archive.org/web/20220126132541id_/https://www.ccdi.gov.cn/scdcn/zggb/djcf/202201/t20220126_167205.html
+    start: "中央纪委国家监委网站讯 日前，经中共"
+    end: "依法审查起诉，所涉财物一并移送。"
+  - id: c03-xinhua-2023-07-25-zhou-jiangyong-verdict
+    title: 浙江省委原常委、杭州市委原书记周江勇受贿案一审宣判
+    publisher: 新华网
+    date: 2023-07-25
+    voice: official
+    url: http://www.news.cn/legal/2023-07/25/c_1129767465.htm
+    start: "新华社合肥7月25日电 2023年7"
+    end: "（安徽省滁州市中级人民法院供图）"
+  # 唐仁健
+  - id: c03-ccdi-2024-05-18-tang-renjian-probe
+    title: 农业农村部党组书记、部长唐仁健接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2024-05-18
+    voice: official
+    url: https://web.archive.org/web/20240518140924id_/https://www.ccdi.gov.cn/toutiaon/202405/t20240518_348855.html
+    start: "中央纪委国家监委网站讯 农业农村部党"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2024-11-15-tang-renjian-expel
+    title: 农业农村部原党组书记、部长唐仁健严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2024-11-15
+    voice: official
+    url: http://www.news.cn/politics/20241115/098f5407dd454aec9f7eff592561c23b/c.html
+    start: "&emsp;&emsp;日前，经中共"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2025-09-28-tang-renjian-verdict
+    title: 农业农村部原部长唐仁健受贿案一审宣判
+    publisher: 新华网
+    date: 2025-09-28
+    voice: official
+    url: https://www.xinhuanet.com/20250928/be546b8d06c4470c8fff7db25f18dcb5/c.html
+    start: "&emsp;&emsp;新华社长春9"
+    end: "员和各界群众四十余人旁听了庭审。"
+  # 易会满
+  - id: c03-xinhua-2025-09-06-yi-huiman-probe
+    title: 十四届全国政协经济委员会副主任易会满接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网
+    date: 2025-09-06
+    voice: official
+    url: http://www.news.cn/legal/20250906/ab76dd2699754ade90ac92fec09b2726/c.html
+    start: "&emsp;&emsp;十四届全国政"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2026-04-30-yi-huiman-expel
+    title: 中国证监会原党委书记、主席易会满严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-04-30
+    voice: official
+    url: https://www.news.cn/20260430/29a35a4020424ff5864eff7cc14cd591/c.html
+    start: "&emsp;&emsp;新华社北京4"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2026-09-30-yi-huiman-indict
+    title: 中国证监会原党委书记、主席易会满被提起公诉
+    publisher: 新华网
+    date: 2026-09-30
+    voice: official
+    url: https://www.news.cn/20260930/c9790e0afbdf46b78df0924dcb5825a0/c.html
+    start: "新华社北京9月30日电 记者9月30"
+    end: "依法应当以受贿罪追究其刑事责任。"
+  # 金湘军
+  - id: c03-xinhua-2025-04-12-jin-xiangjun-probe
+    title: 山西省委副书记、省长金湘军接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网
+    date: 2025-04-12
+    voice: official
+    url: http://www.news.cn/20250412/fbda92fbcc2640aeada6ccd3017c5987/c.html
+    start: "&emsp;&emsp;新华社北京4"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2025-10-10-jin-xiangjun-expel
+    title: 山西省委原副书记、省长金湘军严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2025-10-10
+    voice: official
+    url: https://www.news.cn/20251010/d1cc85cfd9f84d0989895d8802d237ee/c.html
+    start: "&emsp;&emsp;新华社北京1"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-xinhua-2026-09-08-jin-xiangjun-verdict
+    title: 山西省原省长金湘军受贿案一审宣判
+    publisher: 新华网
+    date: 2026-09-08
+    voice: official
+    url: https://www.xinhuanet.com/20260908/edf956bb57584c4ca4662e13458a7752/c.html
+    start: "&emsp;&emsp;9月8日，河"
+    end: "员和各界群众20余人旁听了庭审。"
+  # 孙绍骋
+  - id: c03-xinhua-2026-01-29-sun-shaocheng-probe
+    title: 孙绍骋接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网
+    date: 2026-01-29
+    voice: official
+    url: https://www.news.cn/legal/20260129/b0f730bd20d749958078d1fefebe586b/c.html
+    start: "&emsp;&emsp;新华社北京1"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2026-09-09-sun-shaocheng-expel
+    title: 孙绍骋严重违纪违法被开除党籍
+    publisher: 新华网
+    date: 2026-09-09
+    voice: official
+    url: https://www.news.cn/20260909/eb1a97006dbc495da89cc1cf4257f147/c.html
+    start: "&emsp;&emsp;新华社北京9"
+    end: "开中央委员会全体会议时予以追认。"
+  # 易炼红
+  - id: c03-ccdi-2026-02-10-yi-lianhong-probe
+    title: 十四届全国人大财政经济委员会副主任委员易炼红接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2026-02-10
+    voice: official
+    url: https://web.archive.org/web/20260211093852id_/https://www.ccdi.gov.cn/toutiaon/202602/t20260210_474784.html
+    start: "中央纪委国家监委网站讯 十四届全国人"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2026-04-30-npc-notice-17
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十七号
+    publisher: 新华网
+    date: 2026-04-30
+    voice: official
+    url: https://www.news.cn/politics/20260430/46d9547d44444529a6943e84af621d2f/c.html
+    start: "&emsp;&emsp;浙江省人大常"
+    end: "emsp;&emsp;特此公告。"
+  - id: c03-xinhua-2021-10-19-five-provinces
+    title: 黑龙江等5省区党委主要负责同志职务调整
+    publisher: 新华网
+    date: 2021-10-19
+    voice: official
+    url: http://www.news.cn/politics/2021-10/19/c_1127971635.htm
+    start: "许勤同志任黑龙江省委委员、常委、书记"
+    end: "自治区党委书记、常委、委员职务。"
+  - id: c03-xinhua-2024-10-28-zhejiang-secretary
+    title: 浙江省委主要负责同志职务调整
+    publisher: 新华网
+    date: 2024-10-28
+    voice: official
+    url: http://www.news.cn/politics/20241028/e7e98b0a7176484ead72b8b2a87cf0a9/c.html
+    start: "&emsp;&emsp;新华社北京1"
+    end: "任浙江省委书记、常委、委员职务。"
+  # 王祥喜
+  - id: c03-xinhua-2026-01-31-wang-xiangxi-probe
+    title: 应急管理部党委书记、部长王祥喜接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网
+    date: 2026-01-31
+    voice: official
+    url: https://www.news.cn/20260131/f556f5960b5a4f87a75d6234a1cbf62c/c.html
+    start: "新华社北京1月31日电 应急管理部党"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2026-09-08-wang-xiangxi-expel
+    title: 应急管理部原党委书记、部长王祥喜严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-09-08
+    voice: official
+    url: https://www.news.cn/legal/20260908/e920988b35ca4b23acf4dad287f4e2ba/c.html
+    start: "&emsp;&emsp;经中共中央批"
+    end: "开中央委员会全体会议时予以追认。"
+  - id: c03-mem-2022-07-29-wang-xiangxi
+    title: 王祥喜同志任应急管理部党委书记
+    publisher: 应急管理部网站
+    date: 2022-07-29
+    voice: official
+    url: https://web.archive.org/web/20220803202412id_/https://www.mem.gov.cn/xw/yjyw/202207/t20220729_419340.shtml
+    start: "2022年7月29日下午， 中央组织"
+    end: "明同志的应急管理部党委书记职务。"
+  # 胡衡华
+  - id: c03-xinhua-2026-03-20-hu-henghua-probe
+    title: 重庆市委副书记、市长胡衡华接受审查调查
+    publisher: 新华网
+    date: 2026-03-20
+    voice: official
+    url: https://www.news.cn/politics/20260320/d88ecfb6ab9d411c8d20ff105640053c/c.html
+    start: "新华社北京3月20日电 重庆市委副书"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-chinanews-2026-03-20-hu-henghua
+    title: 重庆市委副书记、市长胡衡华任上被查
+    publisher: 中国新闻网
+    date: 2026-03-20
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2026/03-20/10590003.shtml
+    start: "中新社北京3月20日电 中国官方20"
+    end: "会议召开，胡衡华主持会议。(完)"
+  - id: c03-xinhua-2026-06-26-npc-notice-18
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十八号
+    publisher: 新华网
+    date: 2026-06-26
+    voice: official
+    url: https://www.xinhuanet.com/politics/20260626/d5ebd6b6c0834c17b0918475b6402522/c.html
+    start: "&emsp;&emsp;安徽省人大常"
+    end: "emsp;&emsp;特此公告。"
+  # 魏小东
+  - id: c03-xinhua-2026-06-06-wei-xiaodong-probe
+    title: 北京市政协党组书记、主席魏小东接受审查调查
+    publisher: 新华网
+    date: 2026-06-06
+    voice: official
+    url: https://www.xinhuanet.com/20260606/15b1cd6763c74e9aacd48e2e329491d3/c.html
+    start: "新华社北京6月6日电 北京市政协党组"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-zaobao-2026-06-23-wei-xiaodong
+    title: 北京政协前主席魏小东被撤销政协委员资格
+    publisher: 联合早报
+    date: 2026-06-23
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260623-9250598
+    excerpt: true
+    keep: [今年65岁的魏小东, 2016年，魏小东出任]
+  # 徐留平
+  - id: c03-xinhua-2026-05-23-xu-liuping-probe
+    title: 中华全国总工会党组书记、副主席、书记处第一书记徐留平接受审查调查
+    publisher: 新华网
+    date: 2026-05-23
+    voice: official
+    url: https://www.xinhuanet.com/20260523/81e64e5f1c2246d98c2c2014dfeff806/c.html
+    start: "&emsp;&emsp;新华社北京5"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-ce-2023-02-23-xu-liuping
+    title: 徐留平任全国总工会党组书记 此前担任中国一汽董事长（简历）
+    publisher: 中国经济网
+    date: 2023-02-23
+    voice: official
+    url: http://m.ce.cn/yw/gd/202302/23/t20230223_38409078.shtml
+    start: "中国经济网北京2月23日综合报道 据"
+    end: "中国第一汽车集团公司董事长、党委书记等职。"
+  # 张硕辅
+  - id: c03-xinhua-2026-10-08-zhang-shuofu-probe
+    title: 广东省人大常委会党组成员、副主任张硕辅接受审查调查
+    publisher: 新华网
+    date: 2026-10-08
+    voice: official
+    url: http://www.xinhuanet.com/20261008/ddf4ea86951a4899829b5eb79eacacc2/c.html
+    start: "&emsp;&emsp;新华社北京1"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-xinhua-2018-07-20-zhang-shuofu
+    title: 张硕辅任广东省委常委、广州市委书记（简历）
+    publisher: 新华网（南方日报稿）
+    date: 2018-07-20
+    voice: official
+    url: http://www.xinhuanet.com/politics/2018-07/20/c_1123155908.htm
+    start: "近日，中央批准：张硕辅同志任广东省委"
+    end: "2018.07—，广东省委常委、广州市委书记"
+  # 2025 年十月被开除的上将
+  - id: c03-mod-2025-10-17-nine-generals
+    title: 何卫东、苗华等9人严重违纪违法被开除党籍军籍
+    publisher: 国防部网
+    date: 2025-10-17
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16416031.html
+    start: "10月17日下午，国防部新闻发言人张"
+    end: "纯洁巩固、更具强大凝聚力战斗力。"
+  - id: c03-xinhua-2025-10-28-npc-notice-13
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十三号
+    publisher: 新华网
+    date: 2025-10-28
+    voice: official
+    url: http://www.news.cn/politics/20251028/5fdcc325574f48c0b7f7e9f56f76284c/c.html
+    start: "&emsp;&emsp;广西壮族自治"
+    end: "emsp;&emsp;特此公告。"
+  - id: c03-bbc-2025-10-nine-generals
+    title: 中共四中全会：解放军九上将同时官宣落马背后的潜在逻辑和补缺悬念
+    publisher: BBC中文网
+    date: 2025-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cd042g90z48o/simp
+    excerpt: true
+    keep: [都出身于31集团军, 显著的“派系标签”, 王春宁虽然不属于, 何宏军曾在兰州军区]
+  - id: c03-zaobao-2025-10-18-nine-generals
+    title: 何卫东等九名上将齐被开除 四中全会或增补军委副主席和委员
+    publisher: 联合早报
+    date: 2025-10-18
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251018-7682295
+    excerpt: true
+    keep: [秦树桐和王春宁曾长期任职于原南京军区]
+  - id: c03-xinhua-2020-12-18-generals-promoted
+    title: 中央军委举行晋升上将军衔警衔仪式（2020年12月）
+    publisher: 新华网
+    date: 2020-12-18
+    voice: official
+    url: https://web.archive.org/web/20210818035943id_/http://www.xinhuanet.com/politics/leaders/2020-12/18/c_1126879375.htm
+    start: "中央军委晋升上将军衔警衔仪式18日在"
+    end: "式。（记者：李宣良 摄影：李刚）"
+  - id: c03-xinhua-2021-09-06-generals-promoted
+    title: 中央军委举行晋升上将军衔仪式（2021年9月）
+    publisher: 新华网
+    date: 2021-09-06
+    voice: official
+    url: https://web.archive.org/web/20210911130525id_/http://www.news.cn/politics/leaders/2021-09/06/c_1127833575.htm
+    start: "新华社北京9月6日电（记者梅常伟）中"
+    end: "京大单位主要领导等参加晋衔仪式。"
+  - id: c03-xinhua-2022-01-21-generals-promoted
+    title: 中央军委举行晋升上将军衔警衔仪式（2022年1月）
+    publisher: 新华网
+    date: 2022-01-21
+    voice: official
+    url: https://web.archive.org/web/20220122222655id_/http://www.news.cn/politics/leaders/2022-01/21/c_1128288122.htm
+    start: "新华社北京1月21日电（记者梅常伟）"
+    end: "部门主要负责同志等参加晋衔仪式。"
+  - id: c03-xinhua-2024-07-09-generals-promoted
+    title: 中央军委举行晋升上将军衔仪式（2024年7月）
+    publisher: 新华网
+    date: 2024-07-09
+    voice: official
+    url: https://web.archive.org/web/20240710130616id_/http://www.news.cn/20240709/3f7ba8d67f5a4e1e99d45aee5250b161/c.html
+    start: "&emsp;&emsp;7月9日，中"
+    end: "单位主要负责同志等参加晋衔仪式。"
+  - id: c03-people-2020-01-22-wang-chunning
+    title: 王春宁任北京市委常委
+    publisher: 人民网
+    date: 2020-01-22
+    voice: official
+    url: https://web.archive.org/web/20200125083923id_/http://leaders.people.com.cn/GB/n1/2020/0122/c58278-31559689.html
+    start: "近日，中共中央批准：王春宁同志任北京"
+    end: "不再担任北京市委常委、委员职务。"
+  # 李玉超
+  - id: c03-xinhua-2023-12-29-npc-notice-2
+    title: 全国人民代表大会常务委员会公告〔十四届〕第二号
+    publisher: 新华网
+    date: 2023-12-29
+    voice: official
+    url: http://www.news.cn/politics/20231229/008dddc4119c42c48e7046cf1ca191bc/c.html
+    start: "&emsp;&emsp;山西省第十四"
+    end: "emsp;&emsp;特此公告。"
+  - id: c03-gov-2024-07-18-third-plenum
+    title: 中国共产党第二十届中央委员会第三次全体会议公报
+    publisher: 新华社（中国政府网转载）
+    date: 2024-07-18
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202407/content_6963409.htm
+    start: "（2024年7月18日中国共产党第二"
+    end: "而努力奋斗！"
+  - id: c03-st-2024-07-18-li-yuchao
+    title: China’s Communist Party removes ex-foreign, defence ministers from top body
+    publisher: The Straits Times (Reuters)
+    date: 2024-07-18
+    voice: west
+    lang: en
+    url: https://www.straitstimes.com/asia/chinas-communist-party-removes-ex-foreign-defence-ministers-from-top-body
+    excerpt: true
+    keep: [shake-up of the Rocket Force leadership]
+  - id: c03-zaobao-2023-07-28-rocket-force
+    title: 港媒：中国火箭军现任和前任司令员接受反腐败调查
+    publisher: 联合早报
+    date: 2023-07-28
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230728-1418465
+    excerpt: true
+    keep: [李玉超]
+  # 赵正永
+  - id: c03-ccdi-2019-01-15-zhao-zhengyong-probe
+    title: 陕西省委原书记赵正永涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-15
+    voice: official
+    url: https://web.archive.org/web/20201104100800id_/http://www.ccdi.gov.cn/toutiao/201901/t20190115_187173.html
+    start: "陕西省委原书记赵正永涉嫌严重违纪违法，目前正接受中央"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-ccdi-2020-01-04-zhao-zhengyong-expel
+    title: 全国人大原内务司法委员会副主任委员、陕西省委原书记赵正永严重违纪违法被开除党籍
+    publisher: 中央纪委国家监委网站
+    date: 2020-01-04
+    voice: official
+    url: https://web.archive.org/web/20201104101854id_/http://www.ccdi.gov.cn/toutiao/202001/t20200104_207142.html
+    start: "日前，经中共中央批准，中央纪委国家监"
+    end: "人民网资料 截至2016年4月）"
+  - id: c03-xinhua-2020-07-31-zhao-zhengyong-verdict
+    title: 中共陕西省委原书记赵正永受贿案一审宣判
+    publisher: 新华网
+    date: 2020-07-31
+    voice: official
+    url: http://www.xinhuanet.com/politics/2020-07/31/c_1126309532.htm
+    start: "新华社天津7月31日电 2020年7"
+    end: "减刑、假释。法庭遂作出上述判决。"
+  # 秦光荣
+  - id: c03-ccdi-2019-05-09-qin-guangrong-probe
+    title: 云南省委原书记秦光荣接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2019-05-09
+    voice: official
+    url: https://web.archive.org/web/20190513121549id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201905/t20190509_193606.html
+    start: "云南省委原书记秦光荣涉嫌严重违纪违法"
+    end: "纪委国家监委纪律审查和监察调查。"
+  - id: c03-ccdi-2019-09-26-qin-guangrong-expel
+    title: 云南省委原书记秦光荣严重违纪违法被开除党籍
+    publisher: 中央纪委国家监委网站
+    date: 2019-09-26
+    voice: official
+    url: https://web.archive.org/web/20191026035438id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201909/t20190926_201274.html
+    start: "日前，经中共中央批准，中央纪委国家监"
+    end: "自人民网，截至2014年11月）"
+  - id: c03-ccdi-2021-01-19-qin-guangrong-verdict
+    title: 秦光荣一审获刑7年
+    publisher: 中央纪委国家监委网站
+    date: 2021-01-19
+    voice: official
+    url: https://web.archive.org/web/20210128042129id_/http://www.ccdi.gov.cn/yaowen/202101/t20210119_234226.html
+    start: "2021年1月19日，四川省成都市中"
+    end: "见予以认可。法庭遂作出上述判决。"
+  # 王建平、田修思
+  - id: c03-mod-2016-12-29-wang-jianping
+    title: 王建平涉嫌受贿犯罪，军事检察机关已立案侦查
+    publisher: 国防部网
+    date: 2016-12-29
+    voice: official
+    url: https://web.archive.org/web/20161229171418id_/http://www.mod.gov.cn/info/2016-12/29/content_4768558.htm
+    start: "12月29日下午，国防部举行例行记者"
+    end: "度笼子，为强军兴军提供有力保障。"
+  - id: c03-xinhua-2017-10-14-seventh-plenum
+    title: 中国共产党第十八届中央委员会第七次全体会议公报
+    publisher: 新华网
+    date: 2017-10-14
+    voice: doc
+    url: https://web.archive.org/web/20171014124956id_/http://news.xinhuanet.com/politics/2017-10/14/c_1121803301.htm
+    start: "（2017年10月14日中国共产党第"
+    end: "十九次全国代表大会作了充分准备。"
+  - id: c03-bbc-2016-12-29-wang-jianping
+    title: 中国军方确认前武警司令王建平涉嫌犯罪
+    publisher: BBC中文网
+    date: 2016-12-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-38459576
+    excerpt: true
+    keep: [周永康的亲信, 1969年参军入伍, 转任中国军方副总参谋长]
+  - id: c03-xinhua-2016-07-09-tian-xiusi-probe
+    title: 空军原政委田修思因涉嫌严重违纪被立案审查
+    publisher: 新华网（中国军网稿）
+    date: 2016-07-09
+    voice: official
+    url: http://www.xinhuanet.com/mil/2016-07/09/c_1119191755.htm
+    start: "近日，空军原政委田修思因涉嫌严重违纪"
+    end: "强军目标提供有力纪律支持和保证。"
+  - id: c03-bbc-2016-07-09-tian-xiusi
+    title: 中国军方查处前空军政委田修思上将
+    publisher: BBC中文网
+    date: 2016-07-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/07/160709_china_anticorruption_tianxiusi
+    excerpt: true
+    keep: [郭伯雄两位上将级高官, 南疆军区政委]

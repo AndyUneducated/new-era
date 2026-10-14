@@ -8,7 +8,7 @@ import { useWidth } from '../lib/useSize'
 import { useAtlas } from '../state'
 import { useTip } from '../components/bits'
 
-const LANE_H = 46
+const LANE_H = 52
 const TOP = 30
 const LEFT = 104
 const ERAS: [string, string, string][] = [
@@ -162,16 +162,17 @@ function Lanes({ lanes, events }: { lanes: Lane[]; events: Event[] }) {
           {lanes.map((l, i) => {
             const cy = TOP + i * LANE_H + LANE_H / 2
             const list = events.filter((e) => e.lane === l)
-            // majors claim label space first
-            const labelled = new Set<string>()
-            const spans: [number, number][] = []
+            // labels sit in a row above or below the dots so they never cover one; majors claim space first
+            const row = new Map<string, 0 | 1>()
+            const spans: [number, number][][] = [[], []]
             for (const e of [...list].sort((m, n) => Number(!!n.major) - Number(!!m.major))) {
-              const x0 = x(day(e.date)) + 9
-              const x1 = x0 + Math.min(e.title.length, 16) * 12
-              if (x0 < LEFT || x0 > w) continue
-              if (spans.some(([s0, s1]) => x0 < s1 + 8 && x1 > s0 - 8)) continue
-              spans.push([x0, x1])
-              labelled.add(e.id)
+              const x0 = x(day(e.date)) - 4
+              const x1 = x0 + Math.min(e.title.length, 16) * 11.5
+              if (x0 < LEFT - 4 || x0 > w) continue
+              const free = ([0, 1] as const).find((r) => !spans[r].some(([s0, s1]) => x0 < s1 + 10 && x1 > s0 - 10))
+              if (free === undefined) continue
+              spans[free].push([x0, x1])
+              row.set(e.id, free)
             }
             return (
               <g key={l}>
@@ -188,8 +189,8 @@ function Lanes({ lanes, events }: { lanes: Lane[]; events: Event[] }) {
                     >
                       {end !== undefined && end - ex > 2 && <rect x={ex} y={cy - 3} width={end - ex} height={6} rx={3} fill={LANE_COLOR[l]} opacity={0.3} />}
                       <circle cx={ex} cy={cy} r={e.major ? 6.5 : 4.5} fill={e.major ? LANE_COLOR[l] : 'var(--card)'} stroke={LANE_COLOR[l]} strokeWidth={2} />
-                      {labelled.has(e.id) && (
-                        <text x={ex + 9} y={cy + 4} style={{ fontWeight: e.major ? 700 : 400 }}>
+                      {row.has(e.id) && (
+                        <text x={ex - 4} y={row.get(e.id) ? cy + 19 : cy - 10} style={{ fontWeight: e.major ? 700 : 400 }}>
                           {e.title.length > 16 ? `${e.title.slice(0, 15)}…` : e.title}
                         </text>
                       )}

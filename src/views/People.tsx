@@ -16,7 +16,8 @@ const GROUPS: [string, Role[]][] = [
   ['体制外与异见者', ['dissent']],
   ['企业家', ['biz']],
   ['港澳台', ['hkmt']],
-  ['学者与家属', ['scholar', 'family']],
+  ['学者与媒体人', ['scholar', 'media']],
+  ['家属', ['family']],
 ]
 
 const groupOf = (p: PersonR) => GROUPS.findIndex(([, rs]) => rs.some((r) => p.roles.includes(r)))

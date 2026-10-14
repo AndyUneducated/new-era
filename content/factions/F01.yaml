@@ -1,0 +1,797 @@
+# F01: every planned faction except tuanpai (00-exemplar). Labels are as named by media and scholars (decisions #4).
+# frame: classic | binary | xi | purged | army
+
+# --- classic: the Hu-Wen era vocabulary ---
+- id: jiang-shanghai
+  name: 江派 / 上海帮
+  en: Jiang faction / Shanghai Gang
+  aka: [江系, 上海帮, Shanghai Gang]
+  frame: classic
+  color: '#2f5d8a'
+  from: 1989
+  to: 2022
+  core: [jiang-zemin, zeng-qinghong, wu-bangguo, huang-ju, jia-qinglin, li-changchun, chen-liangyu]
+  basis: 江泽民在上海的旧部及其提拔、信任的干部，曾庆红为主要操盘者
+  summary: >-
+    指江泽民在上海任职时的僚属及其后提拔的亲信。江泽民1989年由上海市委书记调任总书记后，上海市领导人一个接一个上调中央。BBC报道，十六大九名常委中，除胡锦涛、温家宝、罗干外的六人都被视为江泽民的亲信，曾庆红、吴邦国、贾庆林、黄菊、李长春均在其列，确保江“退下”后仍能制衡胡锦涛。2006年上海市委书记陈良宇落马，被李成视为“弱领导、强派系”的例证。十八大前，德国之声把张德江、张高丽、刘云山、俞正声等也划入江派，但同时指出这些划分并没有得到公认。习近平时期，韩正、王沪宁等仍被李成归入上海帮，BBC则认为上海帮与团派在二十大前已逐步退场。BBC记者魏城也提醒，中共高层的上海干部未必同舟共济，江氏“上海帮”的说法并不确切。
+  voices:
+    - voice: zh
+      text: >-
+        从江泽民坐上了中共第一把交椅开始，“上海帮”也就开始形成聚拢了。
+      cite: f01-bbc-2002-11-16-jiang-shadow
+      quote: true
+    - voice: zh
+      text: >-
+        有人认为，江氏“上海帮”这个说法并不确切，因为中共高层中来自上海的干部并不一定就是同舟共济的“帮友”，也并不一定都是缘于江泽民的提携。
+      cite: f01-bbc-2002-shanghai-gang
+      quote: true
+    - voice: scholar
+      text: >-
+        Han has been widely recognized as a member of the Jiang Zemin-Zeng Qinghong “Shanghai Gang.”
+      zh: 韩正被普遍认为是江泽民—曾庆红“上海帮”的成员。
+      cite: f01-brookings-2017-new-politburo
+      quote: true
+  cites:
+    - f01-bbc-2002-11-15-new-team
+    - f01-bbc-2002-11-15-psc-profiles
+    - f01-bbc-2002-11-16-jiang-shadow
+    - f01-bbc-2002-shanghai-gang
+    - f01-brookings-2012-04-16-power-shift
+    - f01-dw-2012-11-07-psc-rumours
+    - f01-brookings-2017-new-politburo
+    - f01-bbc-2022-10-28-pb-24
+
+- id: princelings
+  name: 太子党
+  en: Princelings
+  aka: [红二代, 太子派, 高干子弟]
+  frame: classic
+  color: '#b48728'
+  core: [xi-jinping, bo-xilai, wang-qishan, yu-zhengsheng, zeng-qinghong, liu-yuan, liu-yazhou, zhang-youxia]
+  basis: 中共元老或高级干部的子女（含女婿），按家庭出身而非任职经历划分
+  summary: >-
+    指中共元老和高级干部的子女。李成认为太子党是江泽民时代形成的精英联盟的主体，多从沿海发达地区起家，代表企业家利益；习近平、王岐山、薄熙来被他列为第五代太子党的核心。十八大七名常委中，李成数出习近平、张德江、俞正声、王岐山四名太子党，并称有中国分析人士认为，太子党出身让他们比胡锦涛、温家宝拥有更多政治资本。但这个标签并不意味着结盟：同为太子党的薄熙来2012年在十八大前落马；美国之音2024年则称，习近平上台后与“红二代”决裂，刘源被边缘化，刘亚洲被判重刑，执政团队中硕果仅存的太子党只剩张又侠，而张又侠2026年也被开除党籍。ThinkChina的薄智跃提醒，太子党这类按出身划分的群体，并不一定是现实政治中协同行动的派系。
+  voices:
+    - voice: scholar
+      text: >-
+        Four princeling leaders on the PSC—Xi Jinping, Zhang Dejiang, Yu Zhengsheng, and Wang Qishan—all have decades of experience and high levels of competence in economic and financial affairs.
+      zh: 常委中的四位太子党领导人——习近平、张德江、俞正声和王岐山——都在经济和金融事务上有数十年经验和很强的能力。
+      cite: f01-brookings-2013-02-10-princelings
+      quote: true
+    - voice: zh
+      text: >-
+        分析人士认为，刘亚洲案不仅是习近平整肃清洗军中异己、排挤和边缘化潜在政敌的一部分，也标志着习近平与曾经帮助他稳固大位的“红二代”“太子党”彻底决裂。
+      cite: f01-voa-2024-04-04-princelings
+      quote: true
+    - voice: scholar
+      text: >-
+        However, these are not necessarily functional factions in real politics.
+      zh: 然而，这些（太子党、上海帮、团派、清华帮等群体）在现实政治中并不一定是起作用的派系。
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-brookings-zh-team-of-rivals
+    - f01-brookings-2013-02-10-princelings
+    - f01-voa-2012-11-04-who-is-who
+    - f01-voa-2024-04-04-princelings
+    - f01-thinkchina-2022-09-27-factions
+
+- id: petroleum
+  name: 石油帮
+  en: Petroleum clique
+  aka: [石油系, 中石油系]
+  frame: classic
+  color: '#7a6a58'
+  to: 2015
+  core: [zhou-yongkang, jiang-jiemin]
+  basis: 中国石油天然气集团（中石油）系统出身，以周永康为靠山
+  summary: >-
+    指以周永康为靠山的中石油系统官员。周永康1967年起在石油系统工作三十余年，官至中国石油天然气总公司总经理，此后历任四川省委书记、公安部长和中央政法委书记。央广网2015年称，他在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。2013年起，前国资委主任、中石油董事长蒋洁敏等人相继落马，BBC等媒体把这一轮调查称为打击“石油帮”，视之为拿下周永康的外围步骤；人民大学教授张鸣对BBC说，当局是一层一层地剪除周永康的羽翼。这个标签连官方媒体也在用，但成员多为央企高管，进入政治局的只有周永康一人，也有人把它看作周永康个人网络的一支，而非独立派系。
+  voices:
+    - voice: official
+      text: >-
+        据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
+      cite: f01-cnr-2015-10-15-zhou-disciples
+      quote: true
+    - voice: scholar
+      text: >-
+        张鸣分析，习近平的做法是通过薄熙来案件，一层一层的将周永康的羽翼逐一击破，再拿下周永康本人，彻底削弱周的集团影响力，扫除“习李新政”改革阻碍。
+      cite: f01-bbc-2014-07-30-zhou-analysis
+      quote: true
+  cites:
+    - f01-cnr-2015-10-15-zhou-disciples
+    - f01-bbc-2015-06-11-zhou-profile
+    - f01-bbc-2014-07-30-zhou-analysis
+
+- id: zhengfa
+  name: 政法系
+  en: Political-legal clique
+  aka: [政法帮, 政法系统]
+  frame: classic
+  color: '#6a3d9a'
+  from: 2002
+  to: 2015
+  core: [zhou-yongkang, li-dongsheng, zhou-benshun]
+  basis: 周永康任公安部长（2002–2007）和中央政法委书记（2007–2012）期间的公安、政法系统部属
+  summary: >-
+    指周永康主管公安和政法系统时的部属。周永康2002年任公安部长，2007年起以政治局常委身份任中央政法委书记，统管法院、检察院、公安和国安，并主导“维稳”，BBC称他实权之大非其他常委可比，被人称为“政法王”。外媒报道周永康案时，常把“政法系统”与“石油帮”“四川帮”并列为他的关系网。周永康落马前后，公安部副部长李东生、曾任中央政法委秘书长的河北省委书记周本顺等先后被查；央广网把“政法系”与石油帮、四川系、秘书帮并列为周永康的“团团伙伙”。与石油帮一样，这个标签几乎专指周永康的人脉，而非整个政法系统；十八大后政法委书记不再由常委担任，孟建柱、郭声琨、陈文清相继出任。
+  voices:
+    - voice: zh
+      text: >-
+        其实权之大非中共其他政治局常委可比，被人称为“政法王”。
+      cite: f01-bbc-2015-06-11-zhou-profile
+      quote: true
+    - voice: official
+      text: >-
+        周本顺也曾是周永康政法系统的“身边人”
+      cite: f01-cnr-2015-10-15-zhou-disciples
+      quote: true
+  cites:
+    - f01-bbc-2015-06-11-zhou-profile
+    - f01-cnr-2015-10-15-zhou-disciples
+    - f01-bbc-2014-07-30-zhou-analysis
+    - f01-brookings-2013-02-10-princelings
+
+# --- binary: Cheng Li's "one party, two coalitions" ---
+- id: elitist
+  name: 精英联盟
+  en: Elitist coalition
+  aka: [精英派, 蓝队, Blue Team]
+  frame: binary
+  color: '#1f4e9c'
+  from: 2002
+  core: [jiang-zemin, wu-bangguo, jia-qinglin, xi-jinping, wang-qishan, bo-xilai]
+  basis: 李成“一党两派”框架中的一派：太子党、上海帮及沿海发达地区出身的领导人
+  summary: >-
+    布鲁金斯学会学者李成提出的“一党两派”（one party, two coalitions）框架中的一派。李成认为，胡锦涛时期中共高层由势均力敌的两大联盟分享权力：精英联盟形成于江泽民时代，由太子党、上海帮、企业家和海归组成，多在沿海发达地区起家，侧重经济效率和GDP增长；江泽民之后由吴邦国、贾庆林领导，十八大后由习近平领导。他计算十七届常委为五比四，精英联盟占五席；十八大七名常委中江派得六席，李成称派系平衡已被打破。这一框架在西方和中文媒体中影响很大，但也被批评过于简化，作家王力雄就认为分“江派”“胡派”停留表面、缺乏分析。2017年后，习近平集权使两派制衡的前提不复存在。
+  voices:
+    - voice: scholar
+      text: >-
+        The Elitist Coalition includes the ‘princelings’ (children of high ranking officials), the ‘Shanghai Mafia’, entrepreneurs and capitalists, returnee’s (foreign educated Chinese nationals, or what the Chinese call the ‘sea turtles’), and urban leaders from China’s coastal region (China’s Blue Team).
+      zh: 精英联盟包括“太子党”（高官子女）、“上海帮”、企业家和资本家、海归（在国外受教育的中国人，即所谓“海龟”），以及沿海地区的城市领导人（中国的“蓝队”）。
+      cite: f01-brookings-2009-one-party-two-coalitions
+      quote: true
+    - voice: scholar
+      text: >-
+        One of the two intra-party groups in China is the “elitist coalition,” which emerged in the Jiang Zemin era and used to be headed by Jiang and is currently led by Xi Jinping.
+      zh: 中国党内两大群体之一是“精英联盟”，它在江泽民时代兴起，曾由江泽民领导，现由习近平领导。
+      cite: f01-brookings-2013-02-10-princelings
+      quote: true
+    - voice: zh
+      text: >-
+        中国作家和评论家王力雄也说：“外界把中共分为‘团派’和‘太子派’，既不准确也易误导，另一种分‘江派’、‘胡派’则是停留表面，缺乏分析。”
+      cite: f01-voa-2012-05-25-factions
+      quote: true
+  cites:
+    - f01-brookings-2009-one-party-two-coalitions
+    - f01-brookings-2012-04-16-power-shift
+    - f01-brookings-2012-11-powerful-factions
+    - f01-brookings-2013-02-10-princelings
+    - f01-voa-2012-05-25-factions
+
+- id: populist
+  name: 民粹联盟
+  en: Populist coalition
+  aka: [平民派, 民粹派, 红队, Red Team]
+  frame: binary
+  color: '#e8a317'
+  from: 2002
+  to: 2022
+  core: [hu-jintao, wen-jiabao, li-keqiang, li-yuanchao, wang-yang]
+  basis: 李成“一党两派”框架中的另一派：以团派为核心，多出身内陆省份
+  summary: >-
+    李成“一党两派”框架中与精英联盟对立的一派，由胡锦涛、温家宝领导，核心是团派，即经共青团系统晋升的干部，此外还有党务干部、新左派知识分子和内陆省份领导人，李成称之为中国的“红队”。他认为团派成员擅长组织和宣传工作，但欠缺处理国际经济事务的经验；十七大后李克强、李源潮、汪洋被他视为第五代核心。十八大七名常委中只有李克强一人属于此派，由他接掌此派；刘延东、汪洋、李源潮三名符合年龄的团派政治局委员都未能入常，李成称派系平衡已被打破。二十大李克强、汪洋未进中央委员会，胡春华落出政治局，路透社引述李成的话说他们已彻底失败。中文媒体多称这一派为“团派”或“胡派”，很少用“民粹”一词。
+  voices:
+    - voice: scholar
+      text: >-
+        The Populist Coalition is currently led by President Hu Jintao and Premier Wen Jiabao.
+      zh: 民粹联盟目前由胡锦涛主席和温家宝总理领导。
+      cite: f01-brookings-2009-one-party-two-coalitions
+      quote: true
+    - voice: scholar
+      text: >-
+        “平民派”目前由胡锦涛主席和温家宝总理领导。这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋，人们将之称为“团派”，因为他们都是通过中国共青团而步入高层政治生涯的。
+      cite: f01-brookings-zh-team-of-rivals
+      quote: true
+    - voice: scholar
+      text: >-
+        "They are completely defeated," said Cheng Li, a specialist on the transformation of political leaders in China, referring to the sidelining of the Youth League faction.
+      zh: “他们彻底失败了。”研究中国政治领导人转型的专家李成在谈到团派被边缘化时说。
+      cite: f01-reuters-2022-10-26-youth-league
+      quote: true
+  cites:
+    - f01-brookings-2009-one-party-two-coalitions
+    - f01-brookings-zh-team-of-rivals
+    - f01-brookings-2012-11-powerful-factions
+    - f01-brookings-2013-02-10-princelings
+    - f01-reuters-2022-10-26-youth-league
+
+# --- xi: Xi-era career networks ---
+- id: xi-jiajun
+  name: 习家军（总称）
+  en: Xi's faction ("Xi family army")
+  aka: [习派, 习家军]
+  frame: xi
+  color: '#b8860b'
+  from: 2012
+  core: [xi-jinping, li-qiang, cai-qi, ding-xuexiang, li-xi, zhao-leji, li-zhanshu, he-lifeng, chen-miner, huang-kunming, chen-xi]
+  basis: 与习近平有过共事、同学、同乡或家族渊源而获提拔的官员的总称
+  summary: >-
+    外界对习近平提拔的亲信、旧部的总称，按来源又分为浙江的之江新军、福建旧部、陕西帮、上海旧部和清华同学等。杨光2016年的文章（自由亚洲电台专栏转述）把习家军分为老朋友、浙江和上海旧部、陕西籍官员三类，并称这是山头主义用人路线。十九大时，章立凡对BBC说常委中习家军只占习近平、栗战书两席；二十大新入常的四人被美国之音称为“全是与习近平有过亲密工作关系的习家军”，史宗瀚认为所有常委都来自习近平派系，宋文笛说习觉得没有必要给其他派系分配名额。不少评论者和学者因此认为2014年或2017年后中共只剩一个派，即习派（刘锐绍、唐志学、牛犇）；牛犇预计，随着习近平年龄增长，未来会看到习派子集团围绕接班互相竞争。
+  voices:
+    - voice: zh
+      text: >-
+        而刘锐绍认为，习近平在2014年初集中权力以后，中国只有一个派，就是“习派”。
+      cite: f01-bbc-2017-10-25-19th-psc
+      quote: true
+    - voice: scholar
+      text: >-
+        新常委阵容传达了一个明确信号——赢家通吃的政治时代已经来临。
+      cite: f01-bbc-2022-10-23-20th-psc
+      quote: true
+    - voice: scholar
+      text: >-
+        牛犇也认为，当前中国政治中唯一重要的派系是“习派”。
+      cite: f01-bbc-2022-10-28-pb-24
+      quote: true
+    - voice: scholar
+      text: >-
+        Having tried to eliminate all the other factions in the past ten years, he has successfully pushed them into one loosely connected "anti-Xi faction".
+      zh: 过去十年里，他试图消灭所有其他派系，结果成功地把它们推进了一个松散的“反习派”。
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-rfa-2019-02-22-shaanxi
+    - f01-bbc-2017-10-25-19th-psc
+    - f01-voa-2022-10-24-xi-jiajun
+    - f01-bbc-2022-10-23-20th-psc
+    - f01-dw-2023-03-12-xi-jiajun
+    - f01-bbc-2022-10-28-pb-24
+    - f01-thinkchina-2022-09-27-factions
+
+- id: zhijiang
+  name: 之江新军（浙江旧部）
+  en: Zhijiang New Army
+  aka: [之江新军, 浙江帮, Zhijiang New Army]
+  frame: xi
+  color: '#c23b22'
+  from: 2002
+  core: [li-qiang, cai-qi, chen-miner, huang-kunming, ying-yong]
+  basis: 习近平任浙江省委书记（2002–2007）期间的省委班子成员和部属
+  summary: >-
+    “之江”是钱塘江的别称，习近平主政浙江时在《浙江日报》开设“之江新语”专栏，他的浙江旧部因此被称为之江新军。路透社称，习近平的派系即所谓之江新军，是在他2002至2007年任浙江省委书记期间形成的。杨光的文章指出，习近平在福建工作时尚无人事权，到浙江、上海任一把手才有荐拔部属的权力，浙江旧部黄坤明、蔡奇、陈敏尔、李强、应勇、楼阳生等在十八大后获越级提拔，分量在各旧部中最重。二十大时，曾任浙江省委秘书长的李强升任总理，蔡奇入常，黄坤明、陈敏尔进入政治局，之江新军达到顶峰；薄智跃同样把陈敏尔、蔡奇、李强列为习近平的浙江同僚。黄兴国2016年落马，说明旧部身份并不保证安全。
+  voices:
+    - voice: west
+      text: >-
+        Xi's faction, the so-called "Zhijiang New Army", was forged during his years as party chief of the eastern province of Zhejiang between 2002 and 2007.
+      zh: 习近平的派系，即所谓“之江新军”，是在他2002年至2007年担任东部浙江省党委书记期间锻造出来的。
+      cite: f01-reuters-2022-10-26-youth-league
+      quote: true
+    - voice: zh
+      text: >-
+        其二，习近平主政浙江、上海时的亲信旧部，尤以浙江旧部“之江新军”分量最重。
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: true
+    - voice: scholar
+      text: >-
+        with his colleagues from Zhejiang such as Chen Min'er, Beijing party secretary Cai Qi, and Shanghai party secretary Li Qiang among many others
+      zh: （习近平的派系包括）他在浙江的同僚，如陈敏尔、北京市委书记蔡奇、上海市委书记李强等许多人
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-reuters-2022-10-26-youth-league
+    - f01-rfa-2019-02-22-shaanxi
+    - f01-thinkchina-2022-09-27-factions
+    - f01-bbc-2022-10-28-pb-24
+
+- id: fujian
+  name: 闽系（福建旧部）
+  en: Fujian clique
+  aka: [福建帮, 福建旧部]
+  frame: xi
+  color: '#2f7f6f'
+  from: 1985
+  core: [he-lifeng, cai-qi, huang-kunming, wang-xiaohong]
+  basis: 习近平在福建工作17年（1985–2002）期间的同事和部属
+  summary: >-
+    习近平1985年至2002年在福建工作17年，历任厦门市副市长、宁德地委书记、福州市委书记、福建省委副书记和省长。BBC称，习近平主政时期他在福建、浙江、上海任职的僚属在一次次政治轮替中得到晋升，被冠以“福建帮”“之江新军”“新上海帮”等名称。杨光的文章认为，习在福建时还没有人事权，但福建“朋友圈”中的中联部长宋涛、发改委副主任何立峰等在十八大后获重要升迁；薄智跃列出的福建同僚是何立峰和公安部长王小洪。蔡奇、黄坤明都是福建人，在福建起步后转到浙江，常被同时归入两个网络。军中出身驻闽第31集团军的将领另有东南系之称，单列为军队派系。
+  voices:
+    - voice: zh
+      text: >-
+        到了习近平主政时期，直至“二十大”，“上海帮”和“团派”逐步退场，而他在福建、浙江、上海任职的僚属在一次次政治轮替中得到晋升。
+      cite: f01-bbc-2022-10-28-pb-24
+      quote: true
+    - voice: zh
+      text: >-
+        习在福建工作时的“朋友圈”中也有多人在十八大后获得重要升迁，如中联部长宋涛、发改委副主任何立峰。
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: true
+    - voice: scholar
+      text: >-
+        with his colleagues from Fujian such as Minister He Lifeng of the National Development and Reform Commission (NDRC) and Minister of Public Security Wang Xiaohong
+      zh: （习近平的派系包括）他在福建的同僚，如国家发改委主任何立峰和公安部长王小洪
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-bbc-2022-10-28-pb-24
+    - f01-rfa-2019-02-22-shaanxi
+    - f01-thinkchina-2022-09-27-factions
+    - f01-brookings-2017-new-politburo
+
+- id: shaanxi
+  name: 陕西帮 / 西北帮
+  en: Shaanxi Gang
+  aka: [陕军, 西北帮, Shaanxi Gang]
+  frame: xi
+  color: '#8a5a2b'
+  core: [li-zhanshu, zhao-leji, li-xi, zhang-youxia]
+  basis: 陕西籍或长期在陕西任职、与习家有乡谊或世交的官员
+  summary: >-
+    习近平祖籍陕西富平，青年时在陕北延川插队，其父习仲勋是陕甘根据地和西北野战军的领导人之一。李成认为陕西帮是习近平最重要的权力基础，栗战书被普遍视为其成员，赵乐际被一些分析人士称为陕西帮的“代言人”，他2007至2012年任陕西省委书记，随后进京执掌中组部。杨光的文章称陕籍官员人称“陕军”，栗战书、赵乐际是头领，李希等人在十八大后获关键提拔，陕籍上将张又侠、房峰辉也颇受信任。美国之音2022年称，一些观察家视赵乐际为习近平陕西帮的成员。这个网络在军中的一翼源于父辈：张又侠之父张宗逊与习仲勋同在西北野战军，美国之音称两家同属“西北帮”。房峰辉2019年被判无期，张又侠2026年被开除党籍，陕西帮的军中一翼几乎尽失。
+  voices:
+    - voice: scholar
+      text: >-
+        Li is also widely seen as a member of the “Shaanxi Gang,” Xi’s most important power base.
+      zh: 栗战书也被普遍视为“陕西帮”的成员，而陕西帮是习近平最重要的权力基础。
+      cite: f01-brookings-2017-new-politburo
+      quote: true
+    - voice: scholar
+      text: >-
+        Some analysts have characterized him as the “spokesperson” of Xi Jinping’s Shaanxi Gang.
+      zh: 一些分析人士把赵乐际形容为习近平陕西帮的“代言人”。
+      cite: f01-brookings-2017-new-politburo
+      quote: true
+    - voice: zh
+      text: >-
+        栗战书、赵乐际是“陕军”头领，李希（辽宁省委书记）、王东峰（天津市代市长）、高选民（中组部副部长兼秘书长）、景俊海（中宣部副部长，以扩建习仲勋陵墓而闻名）等人均在十八大后获得关键性提拔，陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任。
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: true
+  cites:
+    - f01-brookings-2017-new-politburo
+    - f01-rfa-2019-02-22-shaanxi
+    - f01-voa-2022-10-24-xi-jiajun
+    - f01-voa-2024-04-04-princelings
+
+- id: xi-shanghai
+  name: 上海旧部
+  en: Xi's Shanghai associates
+  aka: [新上海帮]
+  frame: xi
+  color: '#2f5d8a'
+  from: 2007
+  core: [ding-xuexiang]
+  basis: 习近平2007年任上海市委书记期间的市委班子成员和身边工作人员
+  summary: >-
+    习近平2007年3月至10月任上海市委书记，时间虽短，却带出一批亲信。时任上海市委秘书长丁薛祥由此成为他的“大管家”，2013年进京任中办副主任，此后升任中办主任、政治局常委和第一副总理；BBC引述香港媒体说，他扮演类似当年令计划的角色。杨光的文章列出的上海旧部还有钟绍军（时任中央军委办公厅副主任）、杜家毫、陈豪、徐麟等，称他们都在十八大后突出上位。BBC把这批人与福建、浙江旧部并列，称为“新上海帮”，以区别于江泽民时代的上海帮；薄智跃则只把丁薛祥列为习近平的上海同僚。由于习在上海任职不足一年，这个网络规模远小于浙江旧部，也与秘书帮大幅重叠。
+  voices:
+    - voice: zh
+      text: >-
+        香港媒体说，“丁薛祥据悉将是习近平的‘大管家’，扮演类似当年令计划的角色”。
+      cite: f01-bbc-2013-05-17-ding-xuexiang
+      quote: true
+    - voice: zh
+      text: >-
+        上海旧部丁薛祥（中央办公厅常务副主任）、钟绍军（中央军委办公厅副主任）、杜家毫（湖南省委书记）、陈豪（云南省委书记）、徐麟（中宣部副部长兼网信办主任），这些人都是十八大之后突出上位的
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: true
+    - voice: scholar
+      text: >-
+        with his colleagues from Shanghai such as director Ding Xuexiang of the General Office of the CCP Central Committee
+      zh: （习近平的派系包括）他在上海的同僚，如中共中央办公厅主任丁薛祥
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-bbc-2013-05-17-ding-xuexiang
+    - f01-rfa-2019-02-22-shaanxi
+    - f01-bbc-2022-10-28-pb-24
+    - f01-thinkchina-2022-09-27-factions
+
+- id: qinghua
+  name: 清华帮
+  en: Tsinghua clique / "Tsinghua New Army"
+  aka: [清华系, 清华新军, Tsinghua clique]
+  frame: xi
+  color: '#7b4fa6'
+  core: [chen-xi, li-ganjie, chen-jining]
+  basis: 清华大学校友，特别是习近平的同学陈希提携的清华出身干部
+  summary: >-
+    “清华帮”一词早在江、胡时期就有：BBC 2002年把它与团派、太子党并列为中共内部的派别，胡锦涛、吴邦国、黄菊等高层都出身清华。习近平时代的清华新军则是另一批人。亚洲协会学者吴国光认为，习近平的清华新军与胡锦涛的清华帮、江泽民上海帮中由朱镕基和吴邦国带领的清华分支无关，核心人物是习近平在清华的室友陈希：他后任清华党委书记、中组部长和中央党校校长，十年来为清华新军扮演“教父”角色，接任中组部长的李干杰是他的副手；曾任清华校长的陈吉宁也是清华出身的政治局委员。吴国光认为，这种校友网络必然加剧党内的派系竞争。薄智跃则提醒，清华帮这类按校友划分的群体，并不一定在现实政治中协同行动。
+  voices:
+    - voice: scholar
+      text: >-
+        Xi’s Tsinghua new army, however, is unrelated to Hu’s “Tsinghua clique” or the Tsinghua subgroups led by Zhu Rongji and Wu Bangguo within Jiang Zemin’s “Shanghai gang.”
+      zh: 不过，习近平的“清华新军”与胡锦涛的“清华帮”，以及江泽民“上海帮”中由朱镕基和吴邦国带领的清华分支都无关。
+      cite: f01-asiasociety-tsinghua
+      quote: true
+    - voice: scholar
+      text: >-
+        Chen has for a decade played a godfather-like role for the Tsinghua new army, now with Li serving as his lieutenant.
+      zh: 十年来，陈希一直为清华新军扮演教父般的角色，如今由李干杰担任他的副手。
+      cite: f01-asiasociety-tsinghua
+      quote: true
+    - voice: zh
+      text: >-
+        目前中共内部的其它派别，如所谓的“团派”、“太子党”、“清华帮”等等，其“凝聚力”的标准也不仅仅限于地域。
+      cite: f01-bbc-2002-shanghai-gang
+      quote: true
+  cites:
+    - f01-asiasociety-tsinghua
+    - f01-bbc-2002-shanghai-gang
+    - f01-bbc-2002-11-15-psc-profiles
+    - f01-thinkchina-2022-09-27-factions
+
+- id: aerospace
+  name: 军工航天系
+  en: Aerospace and defence-industry technocrats ("Cosmos Club")
+  aka: [宇宙帮, 航天系, 军工系]
+  frame: xi
+  color: '#1f8fa3'
+  core: [ma-xingrui, yuan-jiajun, zhang-guoqing, liu-guozhong]
+  basis: 航天、兵器等军工央企出身后转任地方的技术官僚
+  summary: >-
+    指出身航天和军工央企、后转入地方任职的技术官僚。二十大政治局24人中，马兴瑞（原航天科技集团总经理）、袁家军（原航天科技集团副总经理）、张国清（原兵器工业集团总经理）三人有军工背景，加上早年在航空炸弹工厂工作的刘国中，被《星岛日报》称为“三个半”军工系人物。李成称之为“宇宙帮”，认为他们地方势力牵扯少，又可借航天竞争激发民族情绪，是习近平第三任期的“技术官僚2.0”。BBC称马兴瑞与袁家军进入政治局是航天系技术官僚的从政顶峰。2023年火箭军反腐展开后，清查扩展到军工央企，BBC引述博主说法称11家副部级军工集团负责人被一网打尽；2026年7月马兴瑞被“双开”，BBC称这是习时代技术官僚代表的陨落，这一群体的前景随之存疑。
+  voices:
+    - voice: scholar
+      text: >-
+        李成将这些背景的官员形容为“宇宙帮”，并认为他们一方面没有太多地方势力牵扯，又可以藉由航太科技国际竞争激发民族情绪，进入中共权力结构符合当前政治需求。
+      cite: f01-zaobao-2022-10-24-aerospace
+      quote: true
+    - voice: zh
+      text: >-
+        因此，嚴格來說，中共中央政治局有「三個半」軍工系人物。
+      cite: f01-cna-2022-10-27-military-industry
+      quote: true
+    - voice: zh
+      text: >-
+        马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰。
+      cite: f01-bbc-2026-07-14-ma-xingrui
+      quote: true
+  cites:
+    - f01-zaobao-2022-10-24-aerospace
+    - f01-cna-2022-10-27-military-industry
+    - f01-bbc-2026-07-14-ma-xingrui
+    - f01-bbc-2022-10-28-pb-24
+
+- id: mishu
+  name: 秘书帮
+  en: Secretaries' clique
+  aka: [秘书党, 大内总管, 大管家]
+  frame: xi
+  color: '#c0577e'
+  core: [ding-xuexiang, li-zhanshu]
+  basis: 担任最高领导人秘书、中办主任等“管家”职务而晋升的干部
+  summary: >-
+    中共高层历来有“秘书党”之说，BBC 2002年回顾邓小平时代有“秘书党”“幕僚党”争宠。秘书和中办主任掌握领导人的日程与信息：胡锦涛的中办主任令计划被罗昌平称为“大内管家”；周永康的秘书群体被央广网称为“秘书帮”，冀文林等人随他落马。习近平时期，丁薛祥2007年任上海市委秘书长时担任习的政治秘书，2013年进京，2017年任中办主任，2022年入常，2023年任第一副总理；德国之声称他长年担任习近平首席秘书及幕僚长。十九大前任中办主任的栗战书被李成称为习的幕僚长，随后入常。钟绍军则以习的浙江、上海旧部身份执掌军委办公厅。这些人的共同点是没有独立的地方权力基础，完全依附于领导人。
+  voices:
+    - voice: zh
+      text: >-
+        长年担任习近平首席秘书及幕僚长的丁薛祥当选第一副总理
+      cite: f01-dw-2023-03-12-xi-jiajun
+      quote: true
+    - voice: zh
+      text: >-
+        最早于2007年在上海担任中共上海市委秘书长时与时任上海市委书记的习近平相识，并担任他的政治秘书
+      cite: f01-voa-2022-10-24-xi-jiajun
+      quote: true
+    - voice: official
+      text: >-
+        其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙
+      cite: f01-cnr-2015-10-15-zhou-disciples
+      quote: true
+  cites:
+    - f01-bbc-2002-shanghai-gang
+    - f01-rfi-2013-10-15-xishanhui
+    - f01-cnr-2015-10-15-zhou-disciples
+    - f01-bbc-2013-05-17-ding-xuexiang
+    - f01-voa-2022-10-24-xi-jiajun
+    - f01-dw-2023-03-12-xi-jiajun
+    - f01-brookings-2017-new-politburo
+
+# --- purged: groups named after a purge ---
+- id: new-gang-of-four
+  name: 新四人帮（周薄令徐）
+  en: '"New Gang of Four"'
+  aka: [新四人帮, 政治阴谋集团]
+  frame: purged
+  color: '#5b2c6f'
+  from: 2012
+  to: 2015
+  core: [zhou-yongkang, bo-xilai, ling-jihua, xu-caihou, guo-boxiong]
+  basis: 海外中文媒体对十八大前后落马的周永康、薄熙来、令计划、徐才厚的合称；官方称其搞政治阴谋活动
+  summary: >-
+    海外中文媒体对周永康、薄熙来、徐才厚、令计划四人的合称，借文革“四人帮”之名，暗指他们曾结成同盟、图谋干预十八大接班。BBC 2014年报道，随着薄、徐、周先后落马，外界猜测令计划将是“新四人帮”的最后一名落网者，令计划当月即被立案。官方从不使用这个名称，但习近平2016年在十八届六中全会上点名周永康、薄熙来、郭伯雄、徐才厚、令计划，称他们“政治上野心膨胀，大搞阳奉阴违、结党营私、拉帮结派等政治阴谋活动”；北航教授任建明对纽约时报中文网说，所谓阴谋活动其实就是政变活动。BBC认为这显示导致他们下台的是党内权力斗争而不是腐败。不过，几人是否真有共同计划，至今只有传闻，没有公开证据。
+  voices:
+    - voice: official
+      text: >-
+        周永康、薄熙来、郭伯雄、徐才厚、令计划等人，不仅经济上贪婪、生活上腐化，而且政治上野心膨胀，大搞阳奉阴违、结党营私、拉帮结派等政治阴谋活动。
+      cite: f01-xinhua-2017-01-01-xi-speech
+      quote: true
+    - voice: zh
+      text: >-
+        在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”。
+      cite: f01-bbc-2014-12-22-ling-jihua
+      quote: true
+    - voice: scholar
+      text: >-
+        但从事‘阴谋活动’、‘破坏分裂党’，其实就是政变活动，因为它是执政党。
+      cite: f01-nyt-2016-01-28-conspiracy
+      quote: true
+  cites:
+    - f01-bbc-2014-12-22-ling-jihua
+    - f01-xinhua-2017-01-01-xi-speech
+    - f01-nyt-2016-01-28-conspiracy
+    - f01-bbc-2017-01-03-conspiracy
+
+- id: zhou-clique
+  name: 周永康系（石油、四川、政法）
+  en: Zhou Yongkang network
+  aka: [周系, 四川帮]
+  frame: purged
+  color: '#922b21'
+  to: 2015
+  core: [zhou-yongkang, jiang-jiemin, li-chuncheng, li-dongsheng, zhou-benshun]
+  basis: 周永康在石油、四川、公安政法三段仕途及其秘书圈中培植的部属
+  summary: >-
+    周永康的仕途横跨石油、四川和政法三个系统，每个阶段都留下部属。央广网2015年称，他形成了四川系、石油帮、政法系、秘书帮等团团伙伙，李东生、郭永祥、王永春、蒋洁敏、李春城、冀文林等是重要成员。十八大后，从成都市委书记李春城起，四川、石油、政法三线的亲信在一年多内纷纷被查，BBC称周永康的羽翼被一层层剪除。2014年7月周永康本人被立案，成为首位因违纪被查的前政治局常委；2015年6月他以受贿、滥用职权和故意泄露国家秘密罪被判无期徒刑。判决书称他要求蒋洁敏、李春城为其子周滨经营提供帮助，造成公共财产损失14.86亿余元。这是习近平反腐中少数被官方媒体明确按“系”和“帮”描述的网络。
+  voices:
+    - voice: official
+      text: >-
+        起自大庆油田六七三厂地质队的周永康，仕途生涯历经中石油总经理、四川省委书记、公安部部长、中央政法委书记等重要岗位，其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙。
+      cite: f01-cnr-2015-10-15-zhou-disciples
+      quote: true
+    - voice: zh
+      text: >-
+        一年时间内，周永康在四川、石油和政法系统的亲信人马纷纷因“严重违纪”而下台受调查。
+      cite: f01-bbc-2015-06-11-zhou-profile
+      quote: true
+    - voice: zh
+      text: >-
+        官方媒体没有透露周永康涉及什么“违纪”事件，但不少媒体及外媒不时透过消息发放关于周永康与其关系良好的“石油帮”、“政法系统”、“四川帮”等官员，尤其是涉及薄熙来的关连消息。
+      cite: f01-bbc-2014-07-30-zhou-analysis
+      quote: true
+  cites:
+    - f01-cnr-2015-10-15-zhou-disciples
+    - f01-bbc-2015-06-11-zhou-profile
+    - f01-bbc-2014-07-30-zhou-analysis
+
+- id: xishanhui
+  name: 西山会（令计划与山西官员）
+  en: Xishan Society
+  aka: [西山会, 山西帮]
+  frame: purged
+  color: '#c26a1b'
+  from: 2007
+  to: 2015
+  core: [ling-jihua, liu-tienan]
+  basis: 进入或候补进入中央委员会的山西籍官员的饭局圈子，以令计划为首
+  summary: >-
+    调查记者罗昌平在举报刘铁男的网络书《打铁记》中披露，不晚于2007年，一个由进入或候补进入中央委员会的山西籍官员组成的高官圈子“西山会”悄然成型，以山西平陆籍的中办主任令计划为首。罗昌平称，令计划是这个圈子名副其实的“党鞭”，谁拿到西山饭局的门票，就像坐上了权力晋级的直梯；原发改委副主任刘铁男即借此仕途畅达，令计划还召集过三次拉票饭局。法广转述罗昌平的判断：西山会虽然并非明确的政党，但实际已有派系之分。2012年令计划被调离中办；2013年刘铁男落马，2014年起山西官场塌方式腐败，令计划本人2014年12月被查，2016年被判无期徒刑。这一说法主要来自罗昌平的叙述，官方从未使用西山会的名称。
+  voices:
+    - voice: zh
+      text: >-
+        不晚于2007年，一个名叫“西山会”的高官圈子悄然成型，由进入或候补进入中委的山西籍官员组成。
+      cite: f01-rfi-2013-10-15-xishanhui
+      quote: true
+    - voice: zh
+      text: >-
+        罗昌平认为，西山会虽然并非明确的政党，但实际已有派系之分，具备高度的身份认同感，存在一致的政治目标。
+      cite: f01-rfi-2013-10-15-xishanhui
+      quote: true
+  cites:
+    - f01-rfi-2013-10-15-xishanhui
+    - f01-bbc-2014-12-22-ling-jihua
+
+- id: guo-xu
+  name: 郭徐军中集团
+  en: Guo Boxiong–Xu Caihou network
+  aka: [郭徐, 郭徐流毒]
+  frame: purged
+  color: '#4d6b35'
+  to: 2016
+  core: [guo-boxiong, xu-caihou, gu-junshan]
+  basis: 胡锦涛时期两名军委副主席郭伯雄、徐才厚把持军队人事期间形成的部属网络
+  summary: >-
+    郭伯雄、徐才厚在胡锦涛时期任军委副主席近十年，分管军事和政治工作，掌握军队高级干部任免。2014年徐才厚被开除党籍，次年病逝；2015年郭伯雄被开除党籍，2016年被判无期徒刑。此后军方媒体反复要求彻底肃清郭徐流毒影响。澎湃新闻2017年转述的一篇军委国防动员部文章称，郭徐在位期间“表面五湖四海，背后拉帮结派”，搞小山头、小圈子，把谷俊山火箭般擢升为总后勤部副部长，甚至不惜改年龄、涂档案；其最突出的要害是严重违反军委主席负责制。习近平2016年的讲话也把郭伯雄、徐才厚与周永康、薄熙来、令计划并列为搞政治阴谋活动的人。郭徐因此成为少数被官方直接定性为结帮营私的军中网络。
+  voices:
+    - voice: official
+      text: >-
+        三是严重违反军委主席负责制。这是郭徐严重违纪违法最突出的要害。
+      cite: f01-thepaper-2017-guo-xu
+      quote: true
+    - voice: official
+      text: >-
+        表面五湖四海，背后拉帮结派，搞‘小山头’‘小圈子’，在圈内不讲原则讲关系，开口‘哥们’、闭口‘伙计’
+      cite: f01-thepaper-2017-guo-xu
+      quote: true
+  cites:
+    - f01-thepaper-2017-guo-xu
+    - f01-xinhua-2017-01-01-xi-speech
+
+- id: rocket-equipment
+  name: 火箭军与装备系统（2023–）
+  en: Rocket Force and equipment purge
+  aka: [火箭军窝案, 装备系统清查]
+  frame: purged
+  color: '#2f5d8a'
+  from: 2023
+  core: [li-shangfu, wei-fenghe, li-yuchao]
+  basis: 2023年起因火箭军和武器装备采购腐败被清洗的将领，含两任国防部长
+  summary: >-
+    2023年7月，火箭军司令员李玉超、政委徐忠波被撤换，由新晋上将王厚斌、徐西盛接任，BBC称此举引发对这支掌管核武器部队进行清洗的猜测；同月军委装备发展部开始清查2017年10月以来装备采购招标评审中的违规问题。同年李尚福、魏凤和两任国防部长先后被立案，2024年6月二人被开除党籍，官方称李尚福严重污染军队装备领域政治生态，魏凤和信仰坍塌、忠诚失节。李尚福曾任装备发展部部长，魏凤和是首任火箭军司令员，两案把火箭军与装备系统连在一起。此后清查扩展到航天、兵器等军工央企，BBC引述博主说法称11家军工集团负责人被一网打尽。史宗瀚认为，对战略核武器的大量投资使一批军官在较少监督下腐化。这批人的共同点是职务领域而非人脉，外界并不把他们视为一个派系。
+  voices:
+    - voice: official
+      text: >-
+        李尚福身为党和军队高级领导干部，背弃初心使命、丧失党性原则，其行为辜负党中央、中央军委信任重托，严重污染军队装备领域政治生态和行业领域风气
+      cite: f01-xinhua-2024-06-27-li-shangfu
+      quote: true
+    - voice: zh
+      text: >-
+        中国突然宣布更换解放军火箭军的两名领导人，引发有关北京对这一掌管中国核武器的精英部队进行清洗的猜测。
+      cite: f01-bbc-2023-08-01-rocket-force
+      quote: true
+    - voice: scholar
+      text: >-
+        此前的火箭军窝案，是因近年对战略核武器大量投资涉及庞大资金，使一批军官在更少监督下腐化
+      cite: f01-bbc-2025-10-23-nine-generals
+      quote: true
+  cites:
+    - f01-bbc-2023-08-01-rocket-force
+    - f01-xinhua-2024-06-27-li-shangfu
+    - f01-xinhua-2024-06-27-wei-fenghe
+    - f01-bbc-2026-07-14-ma-xingrui
+    - f01-bbc-2025-10-23-nine-generals
+
+- id: zhang-liu
+  name: 张又侠、刘振立案（2026）
+  en: Zhang Youxia–Liu Zhenli case
+  aka: [张又侠案]
+  frame: purged
+  color: '#8b5e3c'
+  from: 2026-01
+  core: [zhang-youxia, liu-zhenli]
+  basis: 2026年同案被查的军委副主席张又侠与联合参谋部参谋长刘振立
+  summary: >-
+    2026年1月24日，国防部宣布中央军委副主席张又侠、联合参谋部参谋长刘振立涉嫌严重违纪违法，经党中央研究被立案审查调查；9月21日二人被开除党籍、军籍，官方通报称他们搞团团伙伙，对党不忠诚不老实，涉案金额特别巨大。张又侠是解放军最高现役将领、习近平的红二代陕西老乡，两家父辈同在西北野战军，曾被视为习近平最信任的世交。牛犇对BBC指出，“经党中央研究”的措辞在军队清洗公告中前所未有，张又侠长期掌管的装备采购系统正是腐败丑闻的震中；前中情局分析师韦德宁则认为，张又侠在摧毁何卫东的派系之后在军中权势滔天。纽约时报称，此后军委只剩习近平和张升民两人。“团团伙伙”的定性说明，此案不只被当作贪腐，而是被当作派系问题处理。
+  voices:
+    - voice: official
+      text: >-
+        经查，张又侠、刘振立背弃初心使命、与党离心离德、丧失党性原则、逾越红线底线，严重违反政治纪律和政治规矩，搞团团伙伙，对党不忠诚不老实
+      cite: f01-xinhua-2026-09-21-zhang-liu
+      quote: true
+    - voice: scholar
+      text: >-
+        他长期掌管解放军装备采购系统——这正是腐败丑闻的“震中”。
+      cite: f01-bbc-2026-01-27-zhang-youxia
+      quote: true
+    - voice: zh
+      text: >-
+        随着这两名将领（张又侠、刘振立，编者）实际上被撤职，中央军委只剩下两名成员：主席习近平以及负责监督习近平军队清洗行动的张升民将军
+      cite: f01-dw-2026-01-26-zhang-youxia
+      quote: true
+  cites:
+    - f01-xinhua-2026-01-24-zhang-liu
+    - f01-xinhua-2026-09-21-zhang-liu
+    - f01-bbc-2026-01-27-zhang-youxia
+    - f01-dw-2026-01-26-zhang-youxia
+    - f01-voa-2024-04-04-princelings
+
+# --- army ---
+- id: army-princelings
+  name: 军中太子党
+  en: Military princelings
+  aka: [军中红二代]
+  frame: army
+  color: '#556b2f'
+  core: [zhang-youxia, liu-yuan, liu-yazhou]
+  basis: 出身中共元老家庭的将领
+  summary: >-
+    指出身中共元老家庭的将领。刘少奇之子刘源曾任总后勤部政委，美国之音称他是太子党中的顶级人物，但在郭伯雄、徐才厚落马后，他未能进入军委，随后退出军界。李先念的女婿刘亚洲曾任国防大学政委，2024年被确认判处重刑，美国之音称这标志着习近平与曾帮助他稳固大位的红二代、太子党彻底决裂。张宗逊之子张又侠被称为习近平执政团队中硕果仅存的太子党，2022年超龄留任军委副主席，2026年也被开除党籍。薄智跃认为，习近平已基本清除了来自太子党、尤其是军中太子党的潜在竞争者。至此，军中太子党在军委层面已无人留任。
+  voices:
+    - voice: zh
+      text: >-
+        刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物。
+      cite: f01-voa-2024-04-04-princelings
+      quote: true
+    - voice: zh
+      text: >-
+        在习近平的执政团队中，硕果仅存的“太子党”就是张又侠，尽管已经超龄，仍然留任中央军委副主席。
+      cite: f01-voa-2024-04-04-princelings
+      quote: true
+    - voice: scholar
+      text: >-
+        He has practically eliminated his potential competitors from princelings (especially military princelings such as General Liu Yuan and General Liu Yazhou) and from the Youth League group such as Li Yuanchao, Liu Qibao and Lu Hao.
+      zh: 他实际上已经清除了来自太子党（尤其是刘源上将、刘亚洲上将等军中太子党）和团派（如李源潮、刘奇葆、陆昊）的潜在竞争者。
+      cite: f01-thinkchina-2022-09-27-factions
+      quote: true
+  cites:
+    - f01-voa-2024-04-04-princelings
+    - f01-thinkchina-2022-09-27-factions
+    - f01-dw-2026-01-26-zhang-youxia
+
+- id: fujian-generals
+  name: 东南系 / 第 31 集团军旧部
+  en: Southeast clique / 31st Group Army
+  aka: [31军系, 东南军, 东南-政工系]
+  frame: army
+  color: '#2f7f6f'
+  to: 2025-10
+  core: [he-weidong, miao-hua, lin-xiangyang, qin-shutong, wang-xiubin]
+  basis: 出身驻福建厦门的原南京军区第31集团军，习近平在闽期间多次视察的部队
+  summary: >-
+    第31集团军军部驻福建厦门同安，习近平1985至2002年在福建工作期间曾14次视察该部队。2015年军改后，一批31军出身的将领火速晋升：苗华2017年任军委政治工作部主任，何卫东由东部战区司令员破格升任军委副主席，林向阳、秦树桐、王秀斌等也升任上将，BBC称“31军”成为习近平时代军内一个显著的派系标签。海外观察者常把军中斗争描述为张又侠为首的“西北-装备系”与苗华、何卫东为核心的“东南-政工系”之争。2024年苗华被停职；2025年10月，何卫东、苗华、林向阳、秦树桐、王秀斌等九名上将同时被开除党籍，何卫东由此成为落马的在任军委副主席。史宗瀚认为，其中一些人不只因为腐败，而是变得太有野心。
+  voices:
+    - voice: zh
+      text: >-
+        随着与 31 军有关的派系在军改之后强势崛起，“31 军”也成为习近平时代军队内部一个显著的“派系标签”。
+      cite: f01-bbc-2025-10-23-nine-generals
+      quote: true
+    - voice: zh
+      text: >-
+        一方是张又侠为首的“西北-装备系”，包括李尚福等人；另一方是苗华、何卫东为核心的“东南-政工系”，扎根福建第31集团军。
+      cite: f01-bbc-2026-01-27-zhang-youxia
+      quote: true
+    - voice: scholar
+      text: >-
+        但还有些人不仅因腐败，而是变得太有野心
+      cite: f01-bbc-2025-10-23-nine-generals
+      quote: true
+  cites:
+    - f01-bbc-2025-10-23-nine-generals
+    - f01-bbc-2026-01-27-zhang-youxia
+
+- id: equipment-system
+  name: 总装 / 装备发展部系
+  en: General Armament / Equipment Development Department network
+  aka: [总装系, 装备系, 西北-装备系]
+  frame: army
+  color: '#2f5d8a'
+  core: [zhang-youxia, li-shangfu]
+  basis: 原总装备部及其后身军委装备发展部的历任领导和部属
+  summary: >-
+    原总装备部设于1998年，负责全军武器装备的发展计划、科研试验和订购，还管载人航天和卫星发射，2016年军改后改为军委装备发展部。德国之声称，这个部门掌握上万亿的武器装备采购权，长期被视为军中油水极丰厚的肥缺，外部难以监督。张又侠2012至2017年任总装备部和装备发展部部长，继任者李尚福曾是他的副手，后升任国防部长。BBC称海外观察者把张又侠、李尚福一系称为“西北-装备系”，与以31集团军为根基的“东南-政工系”相对。2023年起的调查先拿下李尚福和一批军工企业负责人，牛犇认为张又侠也是被卷入装备采购系统的腐败丑闻而倒台。装备系是否构成派系主要来自外部观察，官方只称李尚福“严重污染军队装备领域政治生态”。
+  voices:
+    - voice: zh
+      text: >-
+        由于解放军原总装备部（现中央军委装备发展部）掌握上万亿的武器装备采购权，长期被视为军中“油水”极丰厚的“肥缺”部门，极易产生腐败，特别是在航天、兵器工业等领域。
+      cite: f01-dw-2026-01-26-zhang-youxia
+      quote: true
+    - voice: scholar
+      text: >-
+        牛犇认为最可能的解释是，张又侠被卷入了过去几年震动装备采购系统的腐败丑闻，这也是李尚福落马的原因。
+      cite: f01-bbc-2026-01-27-zhang-youxia
+      quote: true
+  cites:
+    - f01-dw-2026-01-26-zhang-youxia
+    - f01-bbc-2026-01-27-zhang-youxia
+    - f01-xinhua-2024-06-27-li-shangfu
+
+- id: northwest-army
+  name: 西北军系（原兰州军区）
+  en: Northwest army clique
+  aka: [西北系, 西北帮]
+  frame: army
+  color: '#a0522d'
+  core: [zhang-youxia, fang-fenghui]
+  basis: 以陕西籍和西北出身为纽带的将领，部分源于父辈在西北野战军的渊源
+  summary: >-
+    “西北”在中共军史中指以高岗、刘志丹、习仲勋为首的陕甘根据地，以及彭德怀的西北野战军。张又侠之父张宗逊曾任西北野战军副司令员，与副政委习仲勋是陕西同乡和世交，美国之音称两家同属“陕北帮”或“西北帮”；BBC也称两人的父辈都是陕西籍的西北军领袖。习近平时代，海外观察者把以张又侠为首、包括李尚福在内的一派称为“西北-装备系”；杨光的文章则把陕籍上将张又侠、房峰辉列为颇受习近平信任的“陕军”。房峰辉长期在兰州军区任职，后升任联合参谋部参谋长，2019年被判无期徒刑；张又侠2026年被开除党籍。这一标签的边界并不清楚：它有时指陕西籍将领，有时指原兰州军区出身者，常与装备系、陕西帮重叠。
+  voices:
+    - voice: zh
+      text: >-
+        他们同属以高岗、刘志丹、习仲勋为首的“陕北帮”或者“西北帮”。
+      cite: f01-voa-2024-04-04-princelings
+      quote: true
+    - voice: zh
+      text: >-
+        两人的父辈是革命战友，都是陕西籍的西北军领袖。
+      cite: f01-bbc-2026-01-27-zhang-youxia
+      quote: true
+    - voice: zh
+      text: >-
+        陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: true
+  cites:
+    - f01-voa-2024-04-04-princelings
+    - f01-bbc-2026-01-27-zhang-youxia
+    - f01-rfa-2019-02-22-shaanxi

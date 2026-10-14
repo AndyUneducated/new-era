@@ -1,0 +1,123 @@
+# B01 Jiang era: person id → quotes. Every text is checked verbatim against its cite.
+jiang-zemin:
+  - text: 作为一名长者……有必要告诉你们一点人生的经验……too young（太年轻）……too simple, sometimes naive（太简单，有时天真）
+    cite: b01-bbc-2022-11-30-jiang-obit
+    kind: adlib
+    date: 2000-10-27
+    occasion: 在中南海会见董建华前，回答香港有线电视记者张宝华关于特首连任是否“钦点”的追问（BBC 中文整理的片段）
+    star: true
+  - text: 你們畢竟too young（太年輕），明白我意思嗎？我告訴你，我是身經百戰了！
+    zh: 你们毕竟 too young（太年轻），明白我意思吗？我告诉你，我是身经百战了！
+    cite: b01-ettoday-2022-11-30-jiang-reporter
+    kind: adlib
+    date: 2000-10-27
+    occasion: 同一场与香港记者的交锋（ETtoday 据录像整理）
+  - text: 中國有一句話『悶聲大發財』，我就喜歡這句話，就是最好的
+    zh: 中国有一句话“闷声大发财”，我就喜欢这句话，就是最好的
+    cite: b01-ettoday-2022-11-30-jiang-reporter
+    kind: adlib
+    date: 2000-10-27
+    occasion: 同一场与香港记者的交锋；常被误传为“闷声发大财”
+  - text: 一句是坚定不移，毫不动摇；一句是全面执行，一以贯之
+    cite: b01-xinhua-2022-12-02-jiang-life
+    kind: public
+    date: 1989-06
+    occasion: 十三届四中全会当选总书记时，谈十一届三中全会以来的路线和基本政策
+  - text: 总能代表着中国先进社会生产力的发展要求，代表着中国先进文化的前进方向，代表着中国最广大人民的根本利益
+    cite: b01-cpc-2000-02-three-represents
+    kind: public
+    date: 2000-02
+    occasion: 在广东考察党建工作时首次提出，后归纳为“三个代表”
+  - text: 从党和人民事业的长远发展出发，我一直期望着从领导岗位上完全退下来。
+    cite: b01-chinanews-2004-09-19-jiang-letter
+    kind: public
+    date: 2004-09-01
+    occasion: 致中共中央政治局、请求辞去中央军委主席职务的信
+zhu-rongji:
+  - text: 不管前面是地雷阵还是万丈深渊，我都将一往无前，义无反顾，鞠躬尽瘁，死而后已。
+    cite: b01-chinaqw-1998-03-19-zhu-presser
+    kind: interview
+    date: 1998-03-19
+    occasion: 九届全国人大一次会议后首次以总理身份会见中外记者
+    star: true
+  - text: 对于外界称我为"中国的戈尔巴乔夫"、"经济沙皇"等，我都不高兴。
+    cite: b01-chinaqw-1998-03-19-zhu-presser
+    kind: interview
+    date: 1998-03-19
+    occasion: 同一场记者会，回答凤凰卫视记者提问
+  - text: 这一段经历对我的教育是很深刻的，但也是很不愉快的，因此我不想再提这件事情。
+    cite: b01-bbc-2026-08-12-zhu-obit
+    kind: interview
+    date: 1998-03-19
+    occasion: 履新总理的记者会上被外国记者问及当年被划为“右派”
+  - text: 谁要是搞台湾独立，你就没有好下场，因为你不得人心
+    cite: b01-gov-2000-03-15-zhu-presser
+    kind: interview
+    date: 2000-03-15
+    occasion: 九届全国人大三次会议记者会，台湾总统大选投票前三天
+  - text: 我只希望在我卸任以后，全国人民能说一句，他是一个清官，不是贪官，我就很满意了。如果他们再慷慨一点，说朱镕基还是办了一点实事，我就谢天谢地了。
+    cite: b01-gov-2000-03-15-zhu-presser
+    kind: interview
+    date: 2000-03-15
+    occasion: 同一场记者会，谈及自己的任期
+  - text: 反腐败就是要先打老虎后打狼，对老虎决不姑息手软。我这里准备了100口棺材，99口留给贪官，一口留给我自己。
+    cite: b01-zaobao-2026-08-12-zhu-quotes
+    kind: rumor
+    date: 1998
+    occasion: 据称在一次反腐会议上讲，未见官方实录；另有“准备好一百口棺材，也有我的一口”等版本
+li-peng:
+  - text: 广大的革命先烈用鲜血创造出来的中华人民共和国的前途和命运
+    cite: b01-nyt-2019-07-23-li-peng
+    kind: public
+    date: 1989-05-19
+    occasion: 宣布北京戒严的电视讲话（纽约时报中文网引述片段）
+    star: true
+  - text: 如果我们今天一味的要在这个问题上纠缠，我认为是不合适的，是不理智的。
+    cite: b01-bbc-2019-07-23-li-peng-obit
+    kind: adlib
+    date: 1989-05
+    occasion: 电视直播中与绝食学生代表对话，拒绝修改“四二六社论”的定性
+  - text: 动乱一开始，我也做了最坏的估计，就是赔上自己的身家性命，也不能让中国再度发生'文化大革命'那种悲剧。
+    cite: b01-bbc-2019-07-23-li-peng-obit
+    kind: leaked
+    date: 1989
+    occasion: 网络流传的《李鹏“六四”日记》，真实性未经证实
+  - text: 在撤退中没有死一人。至此，非法占领天安门广场的这个毒瘤已被全部清除。
+    cite: b01-nyt-2019-07-23-li-peng
+    kind: leaked
+    date: 1989-06-04
+    occasion: 《李鹏“六四”日记》记清场经过（纽约时报中文网引述），真实性未经证实
+zeng-qinghong:
+  - text: 事实充分证明，“一国两制”、“港人治港”、高度自治的方针是完全正确的，香港人是完全能够治理好香港的。
+    cite: b01-chinanews-2005-09-11-zeng-hk-speech
+    kind: public
+    date: 2005-09-11
+    occasion: 以国家副主席身份出席香港特区政府欢迎晚宴的致辞
+    star: true
+  - text: 在香港这个多元化社会实现社会和谐，关键在于求同存异、包容共济。
+    cite: b01-chinanews-2005-09-11-zeng-hk-speech
+    kind: public
+    date: 2005-09-11
+    occasion: 同一篇致辞
+  - text: 苏联、东欧国家的共产党丧失执政地位，尽管有多方面的原因，但很重要的一条是在长期执政条件下，执政体制僵化，执政能力衰退，执政成绩不能令人民满意，严重脱离了人民群众。
+    cite: b01-sina-2004-10-08-zeng-qiushi
+    kind: public
+    date: 2004-10-08
+    occasion: 署名文章《加强党的执政能力建设的纲领性文献》（《人民日报》）
+huang-ju:
+  - text: 所有重大决定都需要集体研究决定，绝对不能一个人说了算。
+    cite: b01-chinanews-2007-03-07-huang-shanghai
+    kind: leaked
+    date: 2007-03-07
+    occasion: 十届全国人大五次会议参加上海代表团审议，由在场代表向新民网转述；时值上海社保基金案后
+    star: true
+  - text: 通过社保案，相信上海会在制度建设上吸取教训。
+    cite: b01-chinanews-2007-03-07-huang-shanghai
+    kind: leaked
+    date: 2007-03-07
+    occasion: 同一次发言
+  - text: 高校毕业生是宝贵的人才资源，是全面建设小康社会的一支重要生力军。
+    cite: b01-cyol-2004-04-23-huang-graduates
+    kind: public
+    date: 2004-04-21
+    occasion: 全国高校毕业生就业工作电视电话会议讲话（新华社报道）

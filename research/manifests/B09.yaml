@@ -1,0 +1,610 @@
+# B09 Xi era Politburo figures: Wang Yi, Liu He, Chen Xi, Hu Chunhua, Chen Quanguo, He Lifeng, Li Yuanchao.
+web:
+  # --- resumes and appointments (full text) ---
+  - id: b09-xinhua-2022-10-23-wang-yi-cv
+    title: 中共二十届中央领导机构成员简历：王毅同志简历
+    publisher: 新华社
+    date: 2022-10-23
+    voice: official
+    url: http://www.news.cn/politics/cpc20/2022-10/23/c_1129076562_9.htm
+    start: 王毅，男，汉族
+    end: 外交部部长。
+  - id: b09-xinhua-2022-10-23-he-lifeng-cv
+    title: 中共二十届中央领导机构成员简历：何立峰同志简历
+    publisher: 新华社
+    date: 2022-10-23
+    voice: official
+    url: http://www.news.cn/politics/cpc20/2022-10/23/c_1129076562_17.htm
+    start: 何立峰，男，汉族
+    end: 国家发展和改革委员会主任、党组书记。
+  - id: b09-xinhua-2017-10-25-liu-he-cv
+    title: 刘鹤同志简历
+    publisher: 新华社
+    date: 2017-10-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/2017-10/25/c_1121856386.htm
+    start: 刘鹤，男，汉族
+    end: （新华社北京10月25日电）
+  - id: b09-xinhua-2017-10-25-chen-quanguo-cv
+    title: 陈全国同志简历
+    publisher: 新华社
+    date: 2017-10-25
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/2017-10/25/c_1121856509.htm
+    start: 陈全国，男，汉族
+    end: （新华社北京10月25日电）
+  - id: b09-people-2018-04-chen-xi-cv
+    title: 陈希同志简历（中国共产党新闻网资料，2018年4月）
+    publisher: 人民网
+    date: 2018-04
+    voice: official
+    url: https://cpc.people.com.cn/n1/2017/1025/c414940-29608823.html
+    start: 陈希，男，汉族
+  - id: b09-people-2018-03-hu-chunhua-cv
+    title: 胡春华同志简历（中国共产党新闻网资料）
+    publisher: 人民网
+    date: 2018-03
+    voice: official
+    url: http://cpc.people.com.cn/n1/2017/1025/c414940-29608827.html
+    start: 胡春华，男，汉族
+    end: 十八届、十九届中央政治局委员。
+  - id: b09-xinhua-2023-03-10-cppcc-vice-cv
+    title: （两会受权发布）中国人民政治协商会议第十四届全国委员会副主席简历
+    publisher: 新华社
+    date: 2023-03-10
+    voice: official
+    url: http://www.news.cn/2023-03/11/c_1129425603.htm
+    start: 胡春华，男，汉族
+    end: 十四届全国政协副主席。
+  - id: b09-gov-2013-03-14-li-yuanchao-cv
+    title: 中华人民共和国副主席李源潮简历
+    publisher: 中国政府网（新华社）
+    date: 2013-03-14
+    voice: official
+    url: https://www.gov.cn/gjjg/2013-03/14/content_2353906.htm
+    start: 李源潮,男,汉族
+    end: 当选为中华人民共和国副主席。
+  - id: b09-gov-2023-07-25-order-8
+    title: 中华人民共和国主席令（第八号）
+    publisher: 中国政府网（新华社）
+    date: 2023-07-25
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6894261.htm
+    start: 新华社北京7月25日电
+    end: 任命潘功胜为中国人民银行行长。
+  - id: b09-thepaper-2022-06-14-chen-rural
+    title: 陈全国已任中央农村工作领导小组副组长
+    publisher: 澎湃新闻
+    date: 2022-06-14
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_18571460
+    start: 据新华社6月14日报道
+    end: 据悉，陈全国同志将另有任用。
+  # --- speeches and statements (quotes) ---
+  - id: b09-xinhua-2016-06-03-wang-canada
+    title: 王毅怒斥加拿大记者现场直击：在场人鼓掌点赞
+    publisher: 新华网
+    date: 2016-06-03
+    voice: official
+    url: http://www.xinhuanet.com/world/2016-06/03/c_129039032.htm
+    start: 新华网北京6月3日电
+  - id: b09-xinhua-2016-06-03-wang-canada-p3
+    title: 王毅怒斥加拿大记者现场直击：在场人鼓掌点赞（第3页）
+    publisher: 新华网
+    date: 2016-06-03
+    voice: official
+    url: http://www.xinhuanet.com/world/2016-06/03/c_129039032_3.htm
+    start: 王毅然后转回身对康诺丽说
+    end: 但是我们拒绝无端的指责。”
+  - id: b09-mfa-2025-03-07-wang-presser
+    title: 中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问
+    publisher: 外交部
+    date: 2025-03-07
+    voice: doc
+    url: https://www.fmprc.gov.cn/web/wjbzhd/202503/t20250307_11570443.shtml
+    start: 2025年3月7日，十四届全国人大三次会议在梅地亚中心举行记者会
+  - id: b09-mfa-2026-03-08-wang-presser
+    title: 中共中央政治局委员、外交部长王毅就中国外交政策和对外关系回答中外记者提问
+    publisher: 外交部
+    date: 2026-03-08
+    voice: doc
+    url: https://www.fmprc.gov.cn/wjbzhd/202603/t20260308_11870706.shtml
+    start: 2026年3月8日，十四届全国人大四次会议在梅地亚中心举行记者会
+  - id: b09-ifeng-2023-07-04-wang-qingdao
+    title: 王毅：中日韩要知道自己的根在哪里，头发染得再黄、鼻子修得再尖也变不成西方人
+    publisher: 凤凰网（凤凰卫视）
+    date: 2023-07-04
+    voice: zh
+    url: https://news.ifeng.com/c/8R8v7AihJJg
+    excerpt: true
+    keep: [头发染得再黄, 2023年中日韩合作国际论坛7月3日]
+  - id: b09-gov-2019-05-11-liu-he-washington
+    title: 刘鹤：合作是正确选择 重大原则决不让步 坚决反对加征关税
+    publisher: 中国政府网（新华社）
+    date: 2019-05-11
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2019-05/11/content_5390742.htm
+    start: 新华社华盛顿5月11日电
+  - id: b09-xinhua-2017-11-16-chen-xi-article
+    title: 陈希：培养选拔干部必须突出政治标准
+    publisher: 新华网（人民日报）
+    date: 2017-11-16
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-11/16/c_1121964305.htm
+    start: 习近平总书记在党的十九大报告中指出
+    end: 最大限度调动干部的积极性、主动性、创造性。
+  - id: b09-xinhua-2019-09-03-hu-poverty
+    title: 胡春华强调 进一步深入推进深度贫困地区脱贫攻坚
+    publisher: 新华网
+    date: 2019-09-03
+    voice: official
+    url: https://www.xinhuanet.com/politics/2019-09/03/c_1124956677.htm
+    start: 新华社成都9月3日电
+    end: 不断加快深度贫困地区脱贫步伐。
+  - id: b09-xinhua-2020-06-18-hu-poverty
+    title: 胡春华出席会议 督战52个未摘帽贫困县脱贫攻坚工作
+    publisher: 新华网
+    date: 2020-06-18
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-06/18/c_1126132082.htm
+    start: 新华社北京6月18日电
+    end: 负责同志出席会议。
+  - id: b09-rmzxw-2023-04-03-hu-speech
+    title: 全国政协党组理论学习中心组2023年第一次集体学习发言摘编（一）胡春华同志的发言
+    publisher: 人民政协网（人民政协报）
+    date: 2023-04-03
+    voice: official
+    url: http://www.rmzxw.com.cn/c/2023-04-03/3323537.shtml
+    start: 全国政协十四届一次会议闭幕不久
+  - id: b09-chinanews-2017-02-28-chen-rally
+    title: 武警部队司令员王宁、新疆书记出席反恐维稳誓师大会
+    publisher: 中国新闻网
+    date: 2017-02-28
+    voice: official
+    url: https://www.chinanews.com.cn/m/gn/2017/02-28/8161114.shtml
+    start: 武警部队司令员王宁
+  - id: b09-gov-2025-05-12-he-geneva-presser
+    title: 中美经贸中方牵头人、国务院副总理何立峰出席新闻发布会表示 中美达成重要共识 会谈取得实质性进展
+    publisher: 中国政府网（新华社）
+    date: 2025-05-11
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202505/content_7023356.htm
+    start: 新华社日内瓦5月11日电
+    end: 为世界经济注入更多确定性和稳定性。
+  - id: b09-mofcom-2025-05-12-geneva-talks
+    title: 中美经贸高层会谈在瑞士日内瓦举行
+    publisher: 商务部（新华社）
+    date: 2025-05-11
+    voice: official
+    url: https://www.mofcom.gov.cn/xwfb/ldrhd/art/2025/art_bcd40072aead401ebe5459ee2b7a701a.html
+    start: 新华社日内瓦5月11日电
+    end: 就双方在经贸领域的各自关切保持沟通。
+  - id: b09-chinanews-2026-09-24-eighth-round
+    title: 中美第八轮经贸磋商达成多项共识
+    publisher: 中国新闻网
+    date: 2026-09-24
+    voice: official
+    url: https://www.chinanews.com.cn/cj/2026/09-24/10703173.shtml
+    start: 中新社北京9月24日电
+    end: (完)
+  - id: b09-taiwan-2009-11-21-li-cadres
+    title: 李源潮：把最优秀的干部用在最关键的岗位上
+    publisher: 中国台湾网（新华网）
+    date: 2009-11-21
+    voice: official
+    url: http://www.taiwan.cn/xwzx/jrbd/200911/t20091122_1150122.htm
+    start: 新华网北京11月21日电
+  - id: b09-xinhua-2018-03-19-wang-yi-cv
+    title: 王毅简历
+    publisher: 新华网
+    date: 2018-03-19
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018lh/2018-03/19/c_1122560948.htm
+    start: 王毅，男，汉族
+    end: （新华社北京3月19日电）
+  - id: b09-xinhua-2018-03-14-he-lifeng-cv
+    title: 何立峰简历
+    publisher: 新华网
+    date: 2018-03-14
+    voice: official
+    url: https://www.xinhuanet.com/politics/2018lh/2018-03/14/c_1122538515.htm
+    start: 何立峰，男，汉族
+  - id: b09-xinhua-2023-03-12-vice-premiers
+    title: （两会受权发布）国务院副总理简历
+    publisher: 新华网
+    date: 2023-03-12
+    voice: official
+    url: https://www.news.cn/politics/2023lh/2023-03/12/c_1129428795.htm
+    start: 新华社北京3月12日电
+    end: 国务院副总理、党组成员。
+  # --- media and scholars (excerpts) ---
+  - id: b09-zaobao-2022-10-23-wang-yi-pb
+    title: 新一届中央政治局委员名单出炉 王毅入局
+    publisher: 联合早报
+    date: 2022-10-23
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221023-1325637
+    excerpt: true
+    keep: [如预期进入新一届中共政治局，显示, 已经不再成立]
+  - id: b09-zaobao-2022-10-23-wang-yi-cc
+    title: 中共外事系统人事料大变动 王毅或破“七上八下”惯例接替杨洁篪职务
+    publisher: 联合早报
+    date: 2022-10-23
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221023-1325516
+    excerpt: true
+    keep: [王毅过去40年长期在中国外事系统工作, 中共二十大前已有不少分析预测]
+  - id: b09-rfa-2022-10-22-20th-cc
+    title: 二十大习近平打破惯例留任 习家军掌权 胡锦涛离场留下震惊一幕
+    publisher: 自由亚洲电台
+    date: 2022-10-22
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ec-10222022071217.html
+    excerpt: true
+    keep: [9名不再连任的政治局委员包括, 打破"七上八下"的惯例超龄留任]
+  - id: b09-bbc-2022-10-22-20th-close
+    title: 中共二十大闭幕：李克强汪洋韩正栗战书未名列中央委员，胡锦涛提前退场
+    publisher: BBC 中文
+    date: 2022-10-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63355764
+    excerpt: true
+    keep: [69岁的外长王毅, 他们被外界称为“之江新军”或“习家军”]
+  - id: b09-bbc-2022-10-25-pb-24
+    title: 中共二十大：解读政治局24人名单背后六种政治意涵
+    publisher: BBC 中文
+    date: 2022-10-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-63422621
+    excerpt: true
+    keep: [破格留任, 外界常用派系来概括, 逐步退场, 胡春华在二十届一中全会上未进入政治局]
+  - id: b09-bbc-2023-07-26-qin-wang
+    title: 秦刚：中国外长仕途大起大落，背后有何政治意涵
+    publisher: BBC 中文
+    date: 2023-07-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66323606
+    excerpt: true
+    keep: [重新任命王毅为外交部长, 同时担任党和政府最高外交职务, 更具侵略性, 过渡性质, 王毅的回巢]
+  - id: b09-abc-2023-07-25-wang-yi
+    title: 中国宣布免去秦刚外交部长职务 暂时留任国务委员
+    publisher: ABC 中文（澳大利亚广播公司）
+    date: 2023-07-25
+    voice: zh
+    url: https://www.abc.net.au/chinese/2023-07-25/china-foreign-minister-qin-gang-steps-down-wang-yi-appointed-xi/102647474
+    excerpt: true
+    keep: [战狼外交的主要实践者, 为了救火, 传话人, 第三个外交部长任期]
+  - id: b09-dw-2023-01-wolf-warrior
+    title: 中国即将告别“战狼外交”？
+    publisher: 德国之声中文网
+    date: 2023-01-11
+    voice: zh
+    url: https://www.dw.com/zh/中国即将告别战狼外交/a-64497015
+    excerpt: true
+    keep: [王毅则会继续坚持强硬立场, 赵立坚则被调任]
+  - id: b09-bbc-2016-06-03-canada
+    title: 中国外长训斥记者后加拿大政府表示不满
+    publisher: BBC 中文
+    date: 2016-06-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world/2016/06/160603_canada_china_dissatisfaction
+    excerpt: true
+    keep: [对我们的记者的遭遇我们非常不满, 王毅愤怒地表示]
+  - id: b09-rfi-2023-02-18-wang-munich
+    title: 王毅战狼作风依旧？
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2023-02-18
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20230218-王毅战狼作风依旧
+    excerpt: true
+    keep: [几乎是歇斯底里的, 战狼姿态]
+  - id: b09-bbc-2018-03-19-liu-he
+    title: 刘鹤出任副总理 重塑中国经济气质的“扫地僧”
+    publisher: BBC 中文
+    date: 2018-03-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43451244
+    excerpt: true
+    keep: [同在北京读中学, 福建省政府顾问, 新南巡, 哈佛大学肯尼迪政府学院]
+  - id: b09-dw-2018-03-19-liu-he
+    title: 少年知交到经济智囊：刘鹤升迁轨迹
+    publisher: 德国之声中文网
+    date: 2018-03-19
+    voice: zh
+    url: https://www.dw.com/zh/少年知交到经济智囊刘鹤升迁轨迹/a-43037514
+    excerpt: true
+    keep: [同班同学, 中国的萨默斯]
+  - id: b09-rfa-2021-05-21-liu-he-xi
+    title: 专栏 | 夜话中南海：刘鹤与习近平莫须有的“同窗之谊”
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2021-05-21
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-05212021160811.html
+    excerpt: true
+    keep: [一零一中学, 华尔街日报》2013年10月07日]
+  - id: b09-bbc-2020-01-16-phase-one
+    title: 中美贸易协议：关税未除，中国承诺两年进口2000亿美国商品
+    publisher: BBC 中文
+    date: 2020-01-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/business-51117695
+    excerpt: true
+    keep: [东厅签署了美中第一阶段贸易协议, 合则两利, 两年时间里大量进口美国商品]
+  - id: b09-bbc-2025-us-china-talks
+    title: 中美开启贸易谈判，对比七年前的三大不同：地点、人选、经济压力
+    publisher: BBC 中文
+    date: 2025-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cvgpg8m0vlko/simp
+    excerpt: true
+    keep: [历史或以不同的方式重演, 刘鹤长期在中央任职, 几乎没有履行, 二十大卸任后，刘鹤不再任实际职务]
+  - id: b09-zaobao-2017-10-24-chen-xi
+    title: 陈希是“入局”热门
+    publisher: 联合早报
+    date: 2017-10-24
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20171024-805288
+    excerpt: true
+    keep: [嫡系干将, 同住一间寝室, 入党介绍人之一, 幕后牵线安排, 从中国科协的闲职上]
+  - id: b09-rfa-2013-04-30-chen-xi
+    title: 陈希与习近平既是同窗更是同党（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2013-04-30
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-04302013112626.html
+    excerpt: true
+    keep: [内举不避亲, 与习近平一点关系都没有]
+  - id: b09-rfa-2023-05-26-age-rule
+    title: 专栏 | 夜话中南海：二十大远不是习近平为自己考虑“接班人”的时候
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2023-05-26
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-05262023143937.html
+    excerpt: true
+    keep: [上铺兄弟, 外交界代表王毅两人]
+  - id: b09-zaobao-2023-04-26-chen-xi-out
+    title: 二十大后中共高层人事调整收官 李干杰接替陈希出掌中组部
+    publisher: 联合早报
+    date: 2023-04-26
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230426-1387678
+    excerpt: true
+    keep: [以普通党员身份继续担任中组部部长, 3月29日至4月7日之间]
+  - id: b09-cna-2026-06-06-cai-qi-school
+    title: 蔡奇出任中共中央黨校校長 分析：黨內影響力提升
+    publisher: 中央社
+    date: 2026-06-06
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202606060049.aspx
+    excerpt: true
+    keep: [陳希仍擔任中共中央黨校校長, 首次以中央黨校校長身分出席畢業典禮]
+  - id: b09-udn-2026-06-06-cai-qi-school
+    title: 蔡奇以校長身分出席中共中央黨校畢典 再回到常委兼任慣例
+    publisher: 联合新闻网（联合报）
+    date: 2026-06-06
+    voice: zh
+    url: https://udn.com/news/story/7331/9549397
+    excerpt: true
+    keep: [打破了長達28年, 該慣例也因此中斷了9年]
+  - id: b09-voa-2017-11-16-chen-xi
+    title: 中组部部长：信鬼神、三权分立、对党不忠的干部不能要
+    publisher: 美国之音中文网
+    date: 2017-11-16
+    voice: zh
+    url: https://web.archive.org/web/20230312092113/https://www.voachinese.com/a/five-criteria-for-chian-cadres-20171116/4119184.html
+    excerpt: true
+    keep: [习近平的清华同窗, 政治野心家、阴谋家”。]
+  - id: b09-jiia-2020-01-chen-xi
+    title: 『China Report』Vol. 41 中国新指導部の“プロファイリング”⑩：陳希　習近平の同室親友
+    publisher: 日本国際問題研究所
+    date: 2020-01
+    voice: scholar
+    lang: ja
+    url: https://www.jiia.or.jp/jpn/report/2020/01/ChinaReport41.html
+    excerpt: true
+    keep: [寮で同室であった]
+  - id: b09-zaobao-2022-10-23-hu-out
+    title: 胡春华落选24人政治局委员会
+    publisher: 联合早报
+    date: 2022-10-23
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221023-1325635
+    excerpt: true
+    keep: [一度被外界看好的中共政治明星]
+  - id: b09-cna-2022-10-23-hu-chunhua
+    title: 曾經的太子胡春華 20大被無情「出局」
+    publisher: 中央社
+    date: 2022-10-23
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210230157.aspx
+    excerpt: true
+    keep: [從曾經的「太子」, 被外界視為「團派」的一員, 廢太子, 滅團, 扶貧開發領導小組組長]
+  - id: b09-rfi-2012-08-08-xiao-hu
+    title: 消息指胡锦涛正操控促其亲信胡春华进入18大政治局常委
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2012-08-08
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20120808-消息指胡锦涛正操控促其亲信胡春华进入18大政治局常委。
+    excerpt: true
+    keep: [之称。, 决心提拔他]
+  - id: b09-cna-2017-10-01-hu-chunhua
+    title: 胡春華行情下滑 從接班人跌到入常邊緣
+    publisher: 中央社
+    date: 2017-10-01
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201710010041.aspx
+    excerpt: true
+    keep: [有「小胡錦濤」之稱, 非我族類]
+  - id: b09-voa-2016-09-24-wukan
+    title: 传胡春华为19大入常下令镇压乌坎抗议
+    publisher: 美国之音中文网
+    date: 2016-09-24
+    voice: zh
+    url: https://www.voachinese.com/a/news-hu-chunhua-wukan-crackdown-20160924/3523358.html
+    excerpt: true
+    keep: [有消息说，广东省委书记胡春华下令镇压, 这对胡春华的能力是一个考验]
+  - id: b09-rfi-2023-04-07-hu-cppcc
+    title: 前储君胡春华表忠 自称政协新兵
+    publisher: 法国国际广播电台（RFI）中文网
+    author: 安德烈
+    date: 2023-04-07
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20230407-前储君胡春华表忠-自称政协新兵
+    excerpt: true
+    keep: [贬为政协副主席, 行文像小学生表态]
+  - id: b09-asiae-2023-01-18-hu-cppcc
+    title: “悲情小胡”胡春华，有望出任中国全国政协副主席
+    publisher: 亚洲经济（韩国）中文版
+    date: 2023-01-18
+    voice: zh
+    url: https://www.asiae.co.kr/cn/article/2023011814223138307
+    excerpt: true
+    keep: [礼节性职务, 从未被视为习家军]
+  - id: b09-bbc-2022-05-24-police-files
+    title: “新疆公安文件”：中国拘留营中维吾尔人的面孔
+    publisher: BBC 中文
+    author: 沙磊（John Sudworth）
+    date: 2022-05-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-61564262
+    excerpt: true
+    keep: [甚至5年的再教育可能是不够的, 这就是新疆的现实, 被称作“新疆公安文件”]
+  - id: b09-bbc-2019-11-25-china-cables
+    title: 新疆再教育营：文件披露维吾尔人如何被“洗脑”
+    publisher: BBC 中文
+    date: 2019-11-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-50542613
+    excerpt: true
+    keep: [“中国电文”（China Cables）, 仅一周就有1.5万人]
+  - id: b09-nyt-2019-11-16-xinjiang-papers
+    title: 泄露文件揭示中国如何组织对穆斯林大规模拘禁
+    publisher: 纽约时报中文网
+    author: Austin Ramzy、Chris Buckley
+    date: 2019-11-16
+    voice: zh
+    url: https://web.archive.org/web/20210720025023/https://www.nytimes.com/zh/2019/11/16/world/asia/xinjiang-documents-chinese.html
+    excerpt: true
+    keep: [敦促他们“应收尽收”, 发布了一条影响广泛的命令, 403页内部文件之一]
+  - id: b09-bbc-2020-07-09-sanctions
+    title: 美国宣布制裁多个侵犯新疆人权的中国官员及实体
+    publisher: BBC 中文
+    date: 2020-07-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-53358012
+    excerpt: true
+    keep: [受制裁的官员包括, 外界猜测作风强硬]
+  - id: b09-voa-2021-03-23-free-tibet
+    title: 自由西藏称西方对中国新疆官员的制裁避开了罪魁祸首陈全国
+    publisher: 美国之音中文网
+    date: 2021-03-23
+    voice: zh
+    url: https://www.voachinese.com/a/free-tibet-uyghur-genocide-sanctions-avoid-the-real-culprit-20210323/5825530.html
+    excerpt: true
+    keep: [英国和加拿大也随即公布了和欧盟一样的制裁名单, 为了避免发生更大的外交争端]
+  - id: b09-rfi-2016-12-13-chen-tibet
+    title: 中共新星陈全国治藏六道板斧照搬新疆
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2016-12-13
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20161213-中共新星陈全国治藏六道板斧照搬新疆
+    excerpt: true
+    keep: [6套维稳措施, 铁腕统治者, 156个便民警务站]
+  - id: b09-bbc-2021-12-26-chen-leaves
+    title: 新疆“铁腕”一把手陈全国卸任，中国的治疆政策会出现改变吗
+    publisher: BBC 中文
+    date: 2021-12-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59801067
+    excerpt: true
+    keep: [成为西方国家制裁的目标, 强硬手腕已经收获预期的成效]
+  - id: b09-dw-2021-12-chen-leaves
+    title: 新疆“一把手”陈全国调离 后续仕途受瞩目
+    publisher: 德国之声中文网
+    date: 2021-12-27
+    voice: zh
+    url: https://www.dw.com/zh/新疆一把手陈全国调离-后续仕途受瞩目/a-60260010
+    excerpt: true
+    keep: [第一个拥有西藏、新疆两地党委书记身份的高官, 没有稳定一切皆为零]
+  - id: b09-cna-2022-06-15-chen-rural
+    title: 陳全國履職中央農村工作領導小組 成胡春華副手
+    publisher: 中央社
+    date: 2022-06-15
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202206150198.aspx
+    excerpt: true
+    keep: [鐵腕治疆, 首次以新身分亮相]
+  - id: b09-bbc-2023-03-12-new-govt
+    title: 中国新一届政府领导班子的新老面孔
+    publisher: BBC 中文
+    date: 2023-03-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-64930050
+    excerpt: true
+    keep: [1980年代他曾是习近平的属下]
+  - id: b09-voa-2023-11-he-lifeng
+    title: 习近平之下 新“经济沙皇”何立峰能有多少作为?
+    publisher: 美国之音中文网
+    date: 2023-11
+    voice: zh
+    url: https://www.voachinese.com/a/7340905.html
+    excerpt: true
+    keep: [福建帮”人马的何立峰, 1984年踏入厦门政坛, 季恺文]
+  - id: b09-voa-2023-10-30-he-cfac
+    title: 习近平亲信何立峰出任位高权重的中共中央财办主任
+    publisher: 美国之音中文网
+    date: 2023-10-30
+    voice: zh
+    url: https://www.voachinese.com/a/he-lifeng-china-s-economy-tsar-made-director-of-key-party-commission-20231030/7332788.html
+    excerpt: true
+    keep: [官媒的报道]
+  - id: b09-zaobao-2017-10-28-li-yuanchao
+    title: 新闻人间：李源潮“退潮”
+    publisher: 联合早报
+    date: 2017-10-28
+    voice: zh
+    url: https://www.zaobao.com/forum/zaodian/people/story20171028-806446
+    excerpt: true
+    keep: [没有入选中共十九届中央委员会, 火箭般的速度, 他的政治巅峰期已经结束, 规划自己的养老生涯]
+  - id: b09-cna-2017-10-25-li-yuanchao
+    title: 李源潮張春賢劉奇葆 未屆齡退出政治局
+    publisher: 中央社
+    date: 2017-10-25
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/201710250192.aspx
+    excerpt: true
+    keep: [被歸為「團派」的李源潮, 被認為是中共總書記習近平對他及「團派」的補償, 在海外媒體傳播]
+  - id: b09-zaobao-2017-12-31-li-reappears
+    title: 十九大后首次露面 李源潮出席政协新年茶话会
+    publisher: 联合早报
+    date: 2017-12-31
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20171231-823038
+    excerpt: true
+    keep: [这是中共十九大10月落幕以来, 外界近期屡现有关他受查的传言, 兼具高干子弟与“团派”]
+  - id: b09-rfi-2020-11-15-li-yuanchao
+    title: 李源潮罕携太太上海公开露面
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2020-11-15
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20201115-李源潮罕携太太上海公开露面
+    excerpt: true
+    keep: [与太太高建进一同参观, 其父亲李干成, 团团伙伙]
+  - id: b09-voa-2017-10-13-19th
+    title: 权力洗牌：19大谁上谁下？
+    publisher: 美国之音中文网
+    date: 2017-10-13
+    voice: zh
+    url: https://www.voachinese.com/a/voanews-20171013-party-congress/4069291.html
+    excerpt: true
+    keep: [李源潮被视为“团派”]
+  - id: b09-wiki-li-yuanchao
+    title: 李源潮（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/李源潮
+    excerpt: true
+    keep: [卸任国家副主席职务后退休]

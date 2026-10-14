@@ -29,6 +29,9 @@ describe('quoteMisses', () => {
     expect(quoteMisses(body, '发展是硬道理')).toEqual([])
     expect(quoteMisses(body, '发展是硬道理……稳定压倒一切。')).toEqual([])
   })
+  it('reads Windows-1252 quotes served as control characters', () => {
+    expect(quoteMisses('他被称为\u0093太子党\u0094成员', '他被称为“太子党”成员')).toEqual([])
+  })
   it('reports what is missing', () => {
     expect(quoteMisses(body, '改革是硬道理')).toEqual(['改革是硬道理'])
   })

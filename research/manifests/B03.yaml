@@ -1,0 +1,410 @@
+# B03: Hu-era standing committee (Li Changchun, Luo Gan, He Guoqiang, Zhou Yongkang, Zhang Dejiang)
+web:
+  # --- Zhou Yongkang: official ---
+  - id: b03-bjreview-2007-10-23-zhou-resume
+    title: 周永康同志简历
+    publisher: 新华社（北京周报转载）
+    date: 2007-10-22
+    voice: official
+    url: http://www.beijingreview.com.cn/zhuanti/txt/2007-10/23/content_82480.htm
+    start: 周永康，男，汉族，1942年12月生
+    end: 十七届中央政治局委员、常委。
+  - id: b03-gov-2014-07-29-zhou-probe
+    title: 中共中央决定对周永康严重违纪问题立案审查
+    publisher: 新华社（中国政府网）
+    date: 2014-07-29
+    voice: doc
+    url: https://www.gov.cn/xinwen/2014-07/29/content_2726631.htm
+    start: 新华社北京7月29日电
+    end: 对其立案审查。
+  - id: b03-people-2014-12-06-zhou-expelled
+    title: 中共中央决定给予周永康开除党籍处分 将周永康涉嫌犯罪问题及线索移送司法机关依法处理
+    publisher: 新华社（人民日报海外版）
+    date: 2014-12-06
+    voice: doc
+    url: http://paper.people.com.cn/rmrbhwb/html/2014-12/06/content_1507185.htm
+    start: 新华社北京12月6日电
+    end: 将周永康涉嫌犯罪问题及线索移送司法机关依法处理。
+  - id: b03-xinhua-2015-06-11-zhou-verdict
+    title: 周永康一审被判处无期徒刑
+    publisher: 新华社
+    date: 2015-06-11
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2015-06/11/c_1115590304.htm
+    start: 新华网天津6月11日电
+    end: 各项诉讼权利。
+  - id: b03-cnr-2015-10-15-zhou-disciples
+    title: 周永康“众门徒”的结局
+    publisher: 新京报（央广网转载）
+    date: 2015-10-15
+    voice: official
+    url: https://m.cnr.cn/news/20151015/t20151015_520149322.html
+    start: 虽然周永康今年6月11日
+    end: “失去联系”状态。
+  - id: b03-xinhua-2017-01-01-xi-6th-plenum
+    title: 习近平在党的十八届六中全会第二次全体会议上的讲话（节选）
+    publisher: 新华社
+    date: 2017-01-01
+    voice: doc
+    url: https://www.xinhuanet.com/politics/2017-01/01/c_1120228200.htm
+    start: 这次全会开得很好。
+    end: 推动全党开创全面从严治党新局面。
+  - id: b03-xatu-2011-05-01-zhou-qiushi
+    title: 周永康：加强和创新社会管理 建立健全中国特色社会主义社会管理体系（《求是》2011 年第 9 期）
+    publisher: 《求是》（西安工业大学党委宣传部转载）
+    date: 2011-05-01
+    voice: doc
+    url: https://xcb.xatu.edu.cn/info/1383/40652.htm
+    start: 中央举办省部级主要领导干部社会管理及其创新专题研讨班
+    end: 来源：《求是》）
+  - id: b03-court-2016-06-15-zhou-bin
+    title: 周滨一审被判处有期徒刑十八年
+    publisher: 新华社（最高人民法院网站转载）
+    date: 2016-06-15
+    voice: doc
+    url: https://www.court.gov.cn/fabu/xiangqing/22011.html
+    start: 6月15日，湖北省宜昌市中级人民法院
+    end: （记者李鹏翔、梁建强）
+  # --- Zhou Yongkang: media ---
+  - id: b03-bbc-2015-06-11-zhou-profile
+    title: 新闻人物：周永康
+    publisher: BBC 中文
+    date: 2015-06-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/06/150611_profile_zhouyongkang
+    excerpt: true
+    keep: [原名周元根, 石油部门工作过32年, 前四川省委副书记李春城, 华国锋之后首位, 被人称为“政法王”, 维稳经费逾7000亿, 浦志强, 民心工程, 高调挺薄, 六点指示, 纷纷因“严重违纪”, 是否在薄熙来事发时]
+  - id: b03-bbc-2013-08-30-zhou-clique
+    title: 观察：清洗周永康利益集团？
+    publisher: BBC 中文
+    date: 2013-08-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/08/130830_zhouyongkang_next
+    excerpt: true
+    keep: [利益集团正在逐一被清洗, 北戴河会议, 心腹大秘, 得力助手, 曾是周永康中石油时的秘书]
+  - id: b03-bbc-2014-02-22-zhou-secretaries
+    title: 顺藤摸瓜动作加速 周永康“桥头堡”接连被破
+    publisher: BBC 中文
+    date: 2014-02-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/02/140222_zhou_yongkang_more_arrests
+    excerpt: true
+    keep: [四前秘, 都在不同时期担任过周永康的秘书, 专职秘书, 清肃周永康在国安系统亲信]
+  - id: b03-bbc-2012-11-19-zhou-zhengfa
+    title: 周永康不再任政法委书记引起揣测
+    publisher: BBC 中文
+    date: 2012-11-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/11/121119_china_politics_zhouyongkang
+    excerpt: true
+    keep: [政法委被降格, 权力过大的担忧, 维稳经费预算已高达, 犹豫不决, 极大的扩大警察系统权力, 18万起民众抗议]
+  - id: b03-bbc-2012-05-13-zhou-ft
+    title: 英媒：周永康权力移交孟建柱
+    publisher: BBC 中文
+    date: 2012-05-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/05/120513_press_zhouyongkang
+    excerpt: true
+    keep: [已全面移交权力, 为后者游说, 道歉, 强硬派则反对改革, 阴暗秘密]
+  - id: b03-bbcen-2012-03-23-coup-rumours
+    title: Damaging coup rumours ricochet across China
+    publisher: BBC News
+    date: 2012-03-23
+    voice: west
+    lang: en
+    url: https://www.bbc.co.uk/news/world-asia-china-17476760
+    excerpt: true
+    keep: [there has been no attempted coup, The fact is there is no evidence of a coup, powerful head of internal security, Supposedly it may have been an attempt, under house arrest]
+  - id: b03-bbc-2014-07-30-taiwan-media
+    title: 台湾媒体从周永康被查看中共权斗
+    publisher: BBC 中文
+    date: 2014-07-30
+    voice: zh
+    url: https://web.archive.org/web/20140802123917/http://www.bbc.co.uk/zhongwen/simp/china/2014/07/140730_zhou_yongkang_taiwan.shtml
+    excerpt: true
+    keep: [刑不上常委, 背后有江泽民支持, 推翻习近平接任, 新四人帮, 四项不轨计划, 杨大利]
+  - id: b03-bbc-2017-01-02-xi-conspiracy
+    title: 习近平指中共落马高官搞“政治阴谋活动”
+    publisher: BBC 中文
+    date: 2017-01-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-38496935
+    excerpt: true
+    keep: [似乎显示导致他们下台的是党内权力斗争, 章立凡说]
+  - id: b03-rfa-2017-10-20-liu-shiyu
+    title: 40年后再现 薄熙来周永康被指“阴谋篡党夺权”
+    publisher: 自由亚洲电台
+    date: 2017-10-20
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-10202017094204.html
+    excerpt: true
+    keep: [这是中共在毛泽东死后, 既巨贪又巨腐, 洪振快, 并没有正式指控他们篡党夺权, 并未见诸于大陆媒体]
+  - id: b03-bbc-2014-03-30-zhou-assets
+    title: 路透：周永康贪腐窝案涉逾900亿元
+    publisher: BBC 中文
+    date: 2014-03-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/03/140330_china_corruption_zhou
+    excerpt: true
+    keep: [超过300名周永康的亲友, 至少900亿元人民币, 专门负责调查周永康, 政治迫害, 贾晓烨]
+  - id: b03-nytcn-2016-06-15-zhou-family
+    title: 周永康妻儿双双获刑
+    publisher: 纽约时报中文网
+    date: 2016-06-15
+    voice: zh
+    url: https://cn.nytimes.com/china/20160615/zhou-yongkang-wife-and-son-sentenced/
+    excerpt: true
+    keep: [贾晓晔因受贿罪, 周滨因受贿和非法经营]
+  - id: b03-voa-2011-05-13-weiwen
+    title: 中国巨资维稳 超过国防开支
+    publisher: 美国之音
+    date: 2011-05-13
+    voice: zh
+    url: https://www.voachinese.com/a/article-20110513-china-maintain-stability-121801149/781747.html
+    excerpt: true
+    keep: [首次超过国防, 田奇庄, 张同新]
+  - id: b03-dw-2015-06-11-zhou-verdict
+    title: 周永康被判无期徒刑
+    publisher: 德国之声
+    date: 2015-06-11
+    voice: zh
+    url: https://www.dw.com/zh/%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91/a-18511041
+    excerpt: true
+    keep: [流传了将近两年, 亲密盟友]
+  - id: b03-bbc-2007-10-28-meng-replaces-zhou
+    title: 孟建柱接替周永康出任公安部长
+    publisher: BBC 中文
+    date: 2007-10-28
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_7060000/newsid_7066100/7066141.stm
+    excerpt: true
+    keep: [公安权力凌驾法院, 有意降低公安在权力架构中的权重]
+  # --- Luo Gan ---
+  - id: b03-theorychina-2012-08-04-luo-resume
+    title: 罗干（简历）
+    publisher: 中共中央党史和文献研究院（中国理论网）
+    date: 2012-08-04
+    voice: official
+    url: https://www.theorychina.org.cn/c/2012-08-04/1305971.shtml
+    start: 男，汉族，1935年7月生
+    end: 十六届中央政治局委员、常委。
+  - id: b03-reformdata-2006-luo-qiushi
+    title: 罗干：深入开展社会主义法治理念教育，切实加强政法队伍思想政治建设（2006 年 4 月 11 日在社会主义法治理念研讨班上的讲话，载《十六大以来重要文献选编》）
+    publisher: 改革大数据服务平台（转载《十六大以来重要文献选编》）
+    date: 2006-04-11
+    voice: doc
+    url: http://www.reformdata.org/2006/0411/5001.shtml
+    start: (二OO六年四月十一日)
+    end: 本文是罗干同志在社会主义法治理念研讨班上的讲话。
+  - id: b03-scmp-2002-11-16-luo-gan
+    title: "Luo Gan: Protege of Li Peng will face explosive issues"
+    publisher: South China Morning Post
+    date: 2002-11-16
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/article/397687/luo-gan-protege-li-peng-will-face-explosive-issues
+    excerpt: true
+    keep: [oldest member of the new Standing Committee, loyal backer of Mr Li, groomed Mr Luo]
+  - id: b03-bbcen-2002-luo-profile
+    title: "Leadership changes: Luo Gan, security chief"
+    publisher: BBC News
+    date: 2002-11-15
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/1/shared/spl/hi/asia_pac/02/china_party_congress/leadership_changes/html/luo_gan.stm
+    excerpt: true
+    keep: [friendship with senior leader Li Peng, on behalf of Mr Li, strike hard, "2,468"]
+  # --- Li Changchun ---
+  - id: b03-bjreview-2007-10-23-li-resume
+    title: 李长春同志简历
+    publisher: 新华社（北京周报转载）
+    date: 2007-10-22
+    voice: official
+    url: http://www.beijingreview.com.cn/zhuanti/txt/2007-10/23/content_82472.htm
+    start: 李长春，男，汉族，1944年2月生
+    end: 十七届中央政治局委员、常委。
+  - id: b03-gmw-2008-12-23-li-cctv
+    title: 李长春：在纪念中国电视事业诞生暨中央电视台建台50周年大会上的讲话
+    publisher: 光明日报（凤凰网转载）
+    date: 2008-12-20
+    voice: doc
+    url: https://news.ifeng.com/mainland/200812/1223_17_934711.shtml
+    start: （2008年12月20日）
+    end: 提供更加有力的舆论支持。
+  - id: b03-cntv-2009-12-28-li-cntv
+    title: 李长春：积极拓展互联网传播新领域 不断扩大主流媒体覆盖面和影响力
+    publisher: 新华社（央视网转载）
+    date: 2009-12-28
+    voice: official
+    url: http://news.cntv.cn/china/20091228/103985.shtml
+    start: 新华网北京12月28日电
+    end: 对中国网络电视台的开播表示祝贺。
+  - id: b03-guardian-2010-12-05-li-google
+    title: "WikiLeaks: Google attacks ordered by Li Changchun"
+    publisher: The Guardian
+    date: 2010-12-05
+    voice: west
+    lang: en
+    url: https://www.theguardian.com/world/2010/dec/05/the-us-embassy-cables-china
+    excerpt: true
+    keep: [fifth most powerful man, great firewall of China, co-ordinated the recent intrusions, had used the Google.com search, the oversight, declined to say who it believed]
+  - id: b03-bbc-2010-12-05-google
+    title: 维基解密：中共高层策动攻击谷歌
+    publisher: BBC 中文
+    date: 2010-12-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/12/101205_wikileaks_china_google
+    excerpt: true
+    keep: [100%出于政治目的, 恼羞成怒, 未能确定中国高层领导人是否牵涉在内]
+  - id: b03-bbc-2009-11-09-li-journalists
+    title: 李长春记者节强调舆论导向
+    publisher: BBC 中文
+    date: 2009-11-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2009/11/091109_china_media_lichangchun
+    excerpt: true
+    keep: [党和人民完全可以信赖的队伍, 西化分化, 争取话语权, 450亿元]
+  - id: b03-rfa-2007-10-16-li-career
+    title: 李长春的仕途为西方媒体所关注
+    publisher: 自由亚洲电台
+    date: 2007-10-16
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/lichangchun-20071016.html
+    excerpt: true
+    keep: [尽管河南省艾滋病疫情丑闻缠身, 杨力宇说，主管意识形态, 骑墙派, 江泽民的提拔, 并没有什么太大的渊源]
+  - id: b03-bbc-2010-12-01-aids-letter
+    title: 卫生专家：中国高层失职导致艾滋病流行
+    publisher: BBC 中文
+    date: 2010-12-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/12/101201_aids_open_letter
+    excerpt: true
+    keep: [陈秉中教授在世界艾滋病日前夕, 大办“血浆经济”, 封锁疫情, 认错道歉]
+  # --- He Guoqiang ---
+  - id: b03-chinanews-2007-10-22-he-resume
+    title: 贺国强简历
+    publisher: 新华社（中国新闻网转载）
+    date: 2007-10-22
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/10-22/1055967.shtml
+    start: 贺国强，男，汉族，1943年10月生
+    end: 十七大当选为中央纪委委员、常委、书记。
+  - id: b03-12371-2014-01-04-he-cases
+    title: 贺国强：办案是为了“惩前毖后”、“治病救人”（《贺国强党建工作文集》选）
+    publisher: 新华网（共产党员网转载）
+    date: 2014-01-04
+    voice: official
+    url: http://news.12371.cn/2014/01/04/ARTI1388793725584574.shtml
+    start: 本文选自《贺国强党建工作文集》
+    end: 旗帜鲜明地支持纪检监察机关秉公执纪。
+  - id: b03-people-2014-01-05-he-mass-incidents
+    title: 贺国强谈查处群体性事件背后隐藏的腐败问题（《贺国强党建工作文集》选）
+    publisher: 新华网（人民网转载）
+    date: 2014-01-05
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0105/c70731-24025374.html
+    start: 本文选自《贺国强党建工作文集》
+    end: 依纪依法严肃处理。
+  - id: b03-sina-2011-03-21-he-chongqing
+    title: 贺国强在重庆多地调研 观看唱读讲传汇报演出
+    publisher: 新华社（新浪网转载）
+    date: 2011-03-21
+    voice: official
+    url: http://news.sina.com.cn/c/2011-03-21/170722154330.shtml
+    start: 新华网重庆3月21日电
+    end: 薄熙来参加调研。
+  - id: b03-bbcen-2007-he-profile
+    title: "China's leaders: He Guoqiang"
+    publisher: BBC News
+    date: 2007-10-22
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/2/shared/spl/hi/in_depth/china_politics/leadership/html/8.stm
+    excerpt: true
+    keep: [rose to become head of the Communist Party's organisational department, investigating officials before they are promoted, knack for political survival, largest smuggling case, close relationship with Jiang Zemin, attracting huge investment, Three Gorges Dam project]
+  - id: b03-scmp-2014-05-26-he-jintao
+    title: Corruption probe into He Jintao, elder son of ex-Politburo man He Guoqiang
+    publisher: South China Morning Post
+    date: 2014-05-26
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/article/1519579/corruption-probe-he-jintao-elder-son-ex-politburo-man-he-guoqiang
+    excerpt: true
+    keep: [approved the launch of a corruption investigation, is now under house arrest, has briefed He Guoqiang, He Jinlei]
+  # --- Zhang Dejiang ---
+  - id: b03-gov-2013-03-14-zhang-resume
+    title: 张德江（简历）
+    publisher: 新华社（中国政府网）
+    date: 2013-03-14
+    voice: official
+    url: https://www.gov.cn/guoqing/2013-03/14/content_2583185.htm
+    start: 张德江,男,汉族,1946年11月生
+    end: 第十二届全国人大常委会委员长。
+  - id: b03-people-2012-12-25-zhang-feature
+    title: “心里要时刻装着老百姓”——记中共中央政治局常委张德江
+    publisher: 新华社（人民网转载）
+    date: 2012-12-24
+    voice: official
+    url: http://politics.people.com.cn/n/2012/1225/c1024-20008469.html
+    start: 新华社北京１２月２４日电
+    end: 回到母校金日成综合大学参观。
+  - id: b03-xinhua-2017-05-27-zhang-hk
+    title: 张德江：牢牢把握“一国两制”的根本宗旨
+    publisher: 新华社
+    date: 2017-05-27
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2017-05/27/c_1121049674.htm
+    start: 新华社北京５月２７日电
+    end: 维护特别行政区的长治久安。
+  - id: b03-bbcen-2012-03-05-zhang-profile
+    title: "China faces to watch: Zhang Dejiang"
+    publisher: BBC News
+    date: 2012-03-05
+    voice: west
+    lang: en
+    url: https://www.bbc.com/news/world-asia-china-17219632
+    excerpt: true
+    keep: [expert on a country that is perhaps China's oldest ally, studied at the Kim Il-sung University, travelling to visit Kim Jong-il, the government was slow to respond, heavily criticised]
+  - id: b03-csm-2012-11-14-zhang
+    title: "Who are China's next leaders? Zhang Dejiang"
+    publisher: Christian Science Monitor
+    date: 2012-11-14
+    voice: west
+    lang: en
+    url: https://www.csmonitor.com/World/Asia-Pacific/2012/1114/Who-are-China-s-next-leaders/Zhang-Dejiang
+    excerpt: true
+    keep: [take care of a crisis, stemming the tide, tried to keep that epidemic a secret, restore the party’s grip, iron gloves]
+  - id: b03-qz-2016-05-zhang-sars
+    title: How Zhang Dejiang helped create Hong Kong's fatal SARS epidemic
+    publisher: Quartz
+    date: 2016-05-17
+    voice: west
+    lang: en
+    url: https://qz.com/687706/how-zhang-dejiang-helped-create-hong-kongs-fatal-sars-epidemic
+    excerpt: true
+    keep: [299 people lost their lives, loyal allegiance to former President Jiang Zemin, On February 11, Tony Saich, cooperation with Hong Kong over SARS]
+  - id: b03-bbc-2016-05-13-zhang-hk
+    title: 五千警力护卫张德江访港 民主派议员获邀见面
+    publisher: BBC 中文
+    date: 2016-05-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/05/160513_zhandejiang_hk_visit_security
+    excerpt: true
+    keep: [首位访问香港的政治局常委, 3000到5000名警力, 设立了抗议区, 港澳工作协调小组组长]
+  - id: b03-bbc-2005-12-dongzhou
+    title: 中国证实广东汕尾警民冲突造成伤亡
+    publisher: BBC 中文
+    date: 2005-12-11
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4510000/newsid_4517700/4517748.stm
+    excerpt: true
+    keep: [首次证实广东汕尾6日发生警民冲突, 杀死最多平民的一次, 鸣枪警告时造成3人死亡, 有30人被警方开枪打死]
+  # --- shared ---
+  - id: b03-gov-2026-08-17-jiang-centenary
+    title: 纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2026-08-17
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202608/content_7078248.htm
+    start: 中央军委17日上午在人民大会堂隆重举行大会
+    end: 从领导职务上退下来的同志。

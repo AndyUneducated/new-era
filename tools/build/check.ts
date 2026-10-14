@@ -17,6 +17,10 @@ export function check(d: Data) {
   const factions = unique('faction', d.factions.map((f) => f.id))
   const concepts = unique('concept', d.concepts.map((c) => c.id))
   unique('event', d.events.map((e) => e.id))
+  // parallel batches cannot see each other's manifests, so the same page may be registered twice
+  const byUrl = new Map<string, string[]>()
+  for (const s of d.sources) if (!s.id.startsWith('wd-')) byUrl.set(s.url, [...(byUrl.get(s.url) ?? []), s.id])
+  for (const [url, ids] of byUrl) if (ids.length > 1) warnings.push(`one page, several sources: ${ids.join(', ')} (${url})`)
 
   const planned = new Set(d.roster.map((r) => r.id))
   for (const r of d.roster) if (!people.has(r.id)) warnings.push(`roster: ${r.id} (${r.batch}) has no entry yet`)
@@ -55,6 +59,15 @@ export function check(d: Data) {
       cite(v.cite, `${where} voice ${i}`)
       if (v.quote) quote(v.cite, v.text, `${where} voice ${i}`)
     })
+  const tags = (list: { f: string; cite: string; quote?: string }[], w: string) => {
+    for (const t of list) {
+      ref(factions, 'faction', t.f, w)
+      const s = cite(t.cite, `${w} faction ${t.f}`)
+      if (s && !FACTION_VOICES.includes(s.voice)) errors.push(`${w} faction ${t.f}: source ${s.id} is voice "${s.voice}", not allowed for faction labels`)
+      if (t.quote) quote(t.cite, t.quote, `${w} faction ${t.f}`)
+      else warnings.push(`${w} faction ${t.f}: no supporting sentence`)
+    }
+  }
 
   for (const p of d.people) {
     const w = `person ${p.id}`
@@ -71,18 +84,13 @@ export function check(d: Data) {
     prose(p.bio, p.cites, `${w} bio`)
     for (const x of p.fall) cite(x.cite, `${w} fall ${x.date}`)
     voiced(p.assess, w)
-    for (const t of p.factions) {
-      ref(factions, 'faction', t.f, w)
-      const s = cite(t.cite, `${w} faction ${t.f}`)
-      if (s && !FACTION_VOICES.includes(s.voice)) errors.push(`${w} faction ${t.f}: source ${s.id} is voice "${s.voice}", not allowed for faction labels`)
-      if (t.quote) quote(t.cite, t.quote, `${w} faction ${t.f}`)
-      else warnings.push(`${w} faction ${t.f}: no supporting sentence`)
-    }
+    tags(p.factions, w)
     if (p.tier === 1 && p.life.length === 0) errors.push(`${w}: tier 1 needs a biography (life)`)
   }
+  // tags and quotes for people whose entry is not written yet are still checked against their sources
+  for (const [id, list] of d.pendingTags) tags(list, `tags ${id}`)
   for (const [id, list] of d.quotes) {
     ref(people, 'person', id, 'quotes')
-    if (!people.has(id)) continue
     list.forEach((q, i) => {
       cite(q.cite, `quote ${id} #${i}`)
       quote(q.cite, q.text, `quote ${id} #${i}`)

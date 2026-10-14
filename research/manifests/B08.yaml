@@ -1,0 +1,533 @@
+# B08 the fallen, 2023-2026, and the military commission: Qin Gang, Li Shangfu, He Weidong, Zhang Youxia,
+# Miao Hua, Ma Xingrui, Zhang Shengmin, Liu Zhenli.
+web:
+  # --- plenum communiques (full text) ---
+  - id: b08-wikisource-2022-10-23-20-1-plenum
+    title: 中国共产党第二十届中央委员会第一次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2022-10-23
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第一次全体会议公报
+    start: 中国共产党第二十届中央委员会第一次全体会议，于2022年10月23日
+    end: 穆红玉（女）
+  - id: b08-wikisource-2024-07-18-20-3-plenum
+    title: 中国共产党第二十届中央委员会第三次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2024-07-18
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第三次全体会议公报
+    start: 中国共产党第二十届中央委员会第三次全体会议，于2024年7月15日
+    end: 以中国式现代化全面推进中华民族伟大复兴而努力奋斗！
+  - id: b08-wikisource-2025-10-23-20-4-plenum
+    title: 中国共产党第二十届中央委员会第四次全体会议公报
+    publisher: 新华社（维基文库录文）
+    date: 2025-10-23
+    voice: doc
+    url: https://zh.wikisource.org/wiki/中国共产党第二十届中央委员会第四次全体会议公报
+    start: 中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日
+    end: 民族复兴伟业新局面。
+  # --- resumes and appointments ---
+  - id: b08-people-2017-10-25-zhang-youxia-cv
+    title: 张又侠同志简历
+    publisher: 人民网（新华社）
+    date: 2017-10-25
+    voice: official
+    url: https://cpc.people.com.cn/19th/n1/2017/1025/c414305-29608922.html
+    start: 张又侠，男，汉族
+    end: （新华社北京10月25日电）
+  - id: b08-xinhua-2022-10-23-he-weidong-cv
+    title: 中共二十届中央领导机构成员简历：何卫东同志简历
+    publisher: 新华社
+    date: 2022-10-23
+    voice: official
+    url: http://www.news.cn/politics/cpc20/2022-10/23/c_1129076562_16.htm
+    start: 何卫东，男，汉族
+    end: 陆军上将军衔。
+  - id: b08-xinhua-2022-10-23-ma-xingrui-cv
+    title: 中共二十届中央领导机构成员简历：马兴瑞同志简历
+    publisher: 新华社
+    date: 2022-10-23
+    voice: official
+    url: http://www.news.cn/politics/cpc20/2022-10/23/c_1129076562_8.htm
+    start: 马兴瑞，男，汉族
+    end: 新疆生产建设兵团第一政委。
+  - id: b08-xinhua-2023-03-13-state-councilor-cv
+    title: （两会受权发布）国务委员简历
+    publisher: 新华社
+    date: 2023-03-12
+    voice: official
+    url: http://www.news.cn/politics/2023lh/2023-03/13/c_1129428798.htm
+    start: 新华社北京3月12日电 国务委员简历
+    end: 国务委员、国务院党组成员，外交部部长。
+  - id: b08-xinhua-2023-03-11-cmc-announcement
+    title: （两会受权发布）中华人民共和国全国人民代表大会公告（第五号）
+    publisher: 新华社
+    date: 2023-03-11
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2023-03/12/c_1129427309.htm
+    start: 新华社北京3月11日电
+    end: 2023年3月11日于北京
+  - id: b08-xinhua-2025-10-23-zhang-shengmin-cv
+    title: 中国共产党中央军事委员会副主席张升民简历
+    publisher: 新华社
+    date: 2025-10-23
+    voice: official
+    url: https://www.news.cn/20251023/46405d0ac9b84186af701a1544b50438/c.html
+    start: 张升民，男，汉族
+    end: 火箭军上将军衔。
+  - id: b08-xinhua-2021-12-25-ma-xinjiang
+    title: 新疆维吾尔自治区党委主要负责同志职务调整 马兴瑞任新疆维吾尔自治区党委书记
+    publisher: 新华社
+    date: 2021-12-25
+    voice: official
+    url: https://www.news.cn/politics/2021-12/25/c_1128200313.htm
+    start: 新华网乌鲁木齐12月25日电
+    end: 据悉，陈全国同志将另有任用。
+  - id: b08-xinhua-2025-07-01-ma-leaves-xinjiang
+    title: 新疆维吾尔自治区党委主要负责同志职务调整 陈小江任新疆维吾尔自治区党委书记
+    publisher: 新华社
+    date: 2025-07-01
+    voice: official
+    url: https://www.news.cn/20250701/276e41119eed45a3bf818532ff18be07/c.html
+    start: 新华网乌鲁木齐7月1日电
+    end: 据悉，马兴瑞同志将另有任用。
+  - id: b08-xinhua-2025-10-28-zhang-shengmin
+    title: 受权发布丨全国人民代表大会常务委员会决定任免的名单（2025年10月28日）
+    publisher: 新华社
+    date: 2025-10-28
+    voice: doc
+    url: https://www.news.cn/20251029/0d11cf61359e43afafc96ee5c3521b72/c.html
+    start: 新华社北京10月28日电
+    end: 免去何卫东的中华人民共和国中央军事委员会副主席职务。
+  # --- Qin Gang and Li Shangfu: removals, expulsion, sentence ---
+  - id: b08-gov-2023-07-25-order-8
+    title: 中华人民共和国主席令（第八号）
+    publisher: 中国政府网（新华社）
+    date: 2023-07-25
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6894261.htm
+    start: 新华社北京7月25日电
+    end: 任命潘功胜为中国人民银行行长。
+  - id: b08-gov-2023-10-24-order-14
+    title: 中华人民共和国主席令（第十四号）
+    publisher: 中国政府网（新华社）
+    date: 2023-10-24
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202310/content_6911374.htm
+    start: 新华社北京10月24日电
+    end: 任命蓝佛安为财政部部长。
+  - id: b08-xinhua-2023-10-24-li-cmc-removed
+    title: （受权发布）全国人民代表大会常务委员会决定免职的名单（免去李尚福的中央军委委员职务）
+    publisher: 新华社
+    date: 2023-10-24
+    voice: doc
+    url: http://www.news.cn/politics/2023-10/24/c_1129936106.htm
+    start: 新华社北京10月24日电
+    end: 中央军事委员会委员职务。
+  - id: b08-gov-2024-06-27-li-shangfu-expelled
+    title: 中央军委原委员、原国务委员兼国防部长李尚福受到开除党籍处分
+    publisher: 中国政府网（新华社）
+    date: 2024-06-27
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202406/content_6959715.htm
+    start: 新华社北京6月27日电
+    end: 取消其陆军上将军衔。
+  - id: b08-gov-2026-05-07-wei-li-sentenced
+    title: 魏凤和案、李尚福案一审宣判
+    publisher: 中国政府网（新华社）
+    date: 2026-05-07
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202605/content_7067998.htm
+    start: 新华社北京5月7日电
+    end: 【我要纠错】
+  # --- He Weidong, Miao Hua ---
+  - id: b08-mod-2024-11-28-miao-suspended
+    title: 中央军委委员、军委政治工作部上将主任苗华被停职检查
+    publisher: 国防部网
+    date: 2024-11-28
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16354907.html
+    start: 中央军委委员、军委政治工作部上将主任苗华涉嫌严重违纪
+    end: 决定对苗华停职检查。
+  - id: b08-xinhua-2025-06-27-miao-removed
+    title: 受权发布丨全国人民代表大会常务委员会决定免职的名单（2025年6月27日）
+    publisher: 新华社
+    date: 2025-06-27
+    voice: doc
+    url: https://www.news.cn/20250627/1c60b90886d84430bc945ab5f786c0ed/c.html
+    start: 新华社北京6月27日电
+    end: 免去苗华的中华人民共和国中央军事委员会委员职务。
+  - id: b08-mod-2025-10-17-nine-generals
+    title: 何卫东、苗华等9人严重违纪违法被开除党籍军籍
+    publisher: 国防部网
+    date: 2025-10-17
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16416031.html
+    start: 10月17日下午，国防部新闻发言人
+    end: 更具强大凝聚力战斗力。
+  # --- Zhang Youxia, Liu Zhenli ---
+  - id: b08-mod-2026-01-24-zhang-liu-probe
+    title: 张又侠、刘振立涉嫌严重违纪违法被立案审查调查
+    publisher: 国防部网
+    date: 2026-01-24
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16439106.html
+    start: 中央政治局委员、中央军委副主席张又侠，中央军委委员
+    end: 决定对张又侠、刘振立立案审查调查。
+  - id: b08-mod-2026-01-24-pla-daily-editorial
+    title: 解放军报社论：坚决打赢军队反腐败斗争攻坚战持久战总体战
+    publisher: 国防部网（新华社）
+    date: 2026-01-24
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16439154.html
+    start: 解放军报1月25日社论
+    end: （新华社北京1月24日电）
+  - id: b08-xinhua-2026-08-28-zhang-liu-removed
+    title: 受权发布丨全国人民代表大会常务委员会决定免职的名单（2026年8月28日）
+    publisher: 新华社
+    date: 2026-08-28
+    voice: doc
+    url: https://www.xinhuanet.com/20260828/bfeb9eb6b0264be9a6b796dd9e698ce5/c.html
+    start: 新华社北京8月28日电
+    end: 免去刘振立的中华人民共和国中央军事委员会委员职务。
+  - id: b08-mod-2026-09-21-zhang-liu-expelled
+    title: 张又侠、刘振立严重违纪违法被开除党籍军籍
+    publisher: 国防部网（新华社）
+    date: 2026-09-21
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16488072.html
+    start: 新华社北京9月21日电
+    end: 更具强大凝聚力战斗力。
+  # --- Ma Xingrui ---
+  - id: b08-xinhua-2026-04-03-ma-probe
+    title: 马兴瑞涉嫌严重违纪违法正接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华社
+    date: 2026-04-03
+    voice: official
+    url: https://www.news.cn/20260403/599f6de42b0c4d9aa9b2bd43d62114ca/c.html
+    start: 新华社北京4月3日电
+    end: 目前正接受中央纪委国家监委纪律审查和监察调查。
+  - id: b08-xinhua-2026-07-14-ma-expelled
+    title: 中共中央决定给予马兴瑞开除党籍、开除公职处分
+    publisher: 新华社
+    date: 2026-07-14
+    voice: official
+    url: https://www.news.cn/20260714/4d99c47e9d31440c8a2ff9a19623b326/c.html
+    start: 新华社北京7月14日电
+    end: 待召开中央委员会全体会议时予以追认。
+  # --- speeches (quotes) ---
+  - id: b08-mfa-2023-03-07-qin-presser
+    title: 外交部长秦刚就中国外交政策和对外关系回答中外记者提问
+    publisher: 外交部
+    date: 2023-03-07
+    voice: doc
+    url: https://www.fmprc.gov.cn/web/wjbz_673089/zyhd_673091/202303/t20230307_11037046.shtml
+    start: 2023年3月7日，十四届全国人大一次会议在梅地亚中心举行记者会
+    end: 祝大家节日快乐，万事顺意！
+  - id: b08-chinanews-2023-06-04-li-shangri-la
+    title: 李尚福在第20届香格里拉对话会上作大会发言
+    publisher: 中新网（国防部网）
+    date: 2023-06-04
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2023/06-04/10019043.shtml
+    start: 6月4日，国务委员兼国防部长李尚福
+    end: (国防部网)
+  - id: b08-chinanews-2023-06-04-li-shangri-la-qa
+    title: 直击中国防长“香会”发言：以礼开场 以理叙事 以诚促和
+    publisher: 中新社
+    date: 2023-06-04
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2023/06-04/10019201.shtml
+    start: 中新社新加坡6月4日电
+    end: (完)
+  - id: b08-xinhua-2023-10-30-zhang-xiangshan
+    title: 第十届北京香山论坛开幕 张又侠作主旨发言
+    publisher: 新华社
+    date: 2023-10-30
+    voice: official
+    url: http://www.news.cn/politics/leaders/2023-10/30/c_1129948367.htm
+    start: 新华社北京10月30日电
+    end: 张又侠出席并致辞。
+  - id: b08-xinhua-2024-03-05-pla-delegation
+    title: 两会受权发布丨解放军和武警部队代表团分组审议政府工作报告 张又侠何卫东参加审议
+    publisher: 新华社
+    date: 2024-03-05
+    voice: official
+    url: http://www.news.cn/politics/20240305/e24c2abd5a4648319f771221e164273f/c.html
+    start: 新华社北京3月5日电
+    end: 凝聚起奋进强军事业的磅礴力量。
+  - id: b08-xinhua-2025-03-06-pla-delegation
+    title: 两会受权发布丨解放军和武警部队代表团分组审议政府工作报告时表示 深入学习贯彻习近平强军思想 锚定实现建军一百年奋斗目标打好攻坚战
+    publisher: 新华社
+    date: 2025-03-06
+    voice: official
+    url: http://www.news.cn/politics/20250306/b3488b395c0a42838428ef14ce25eb18/c.html
+    start: 新华社北京3月6日电
+    end: 提供坚强作风和纪律保障。
+  - id: b08-mod-2026-03-05-zhang-shengmin-npc
+    title: 张升民代表在分组会上发言强调 强化政治引领 聚力备战攻坚 奋力实现“十五五”国防和军队建设良好开局
+    publisher: 国防部网（解放军报）
+    date: 2026-03-05
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16446526.html
+    start: 解放军报北京3月5日电
+    end: 提升军队建设发展整体质效。
+  # --- media and scholars (excerpts) ---
+  - id: b08-bbc-2023-07-25-qin-gang
+    title: 秦刚“消失”满月后遭免职：中国外交新星命运引发广泛猜测
+    publisher: BBC 中文
+    date: 2023-07-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-66311848
+    excerpt: true
+    keep: [深得习近平信赖的助手, 一手提拔的政治新星的秦刚, 女电视主播有染, 删除了所有与秦刚有关的报道, 被一些人称为, 火箭式, 用人失察, 他在政治上还没有死]
+  - id: b08-zaobao-2023-09-19-qin-affair
+    title: 《华尔街日报》：中国前外长秦刚因“生活作风问题”被免职
+    publisher: 联合早报
+    date: 2023-09-19
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20230919-1434968
+    excerpt: true
+    keep: [生活作风问题, 在美国出生的孩子, 损害中国的国家安全]
+  - id: b08-bbc-2023-10-26-li-qin
+    title: 李尚福与秦刚双双遭罢免，对习近平意味着什么？
+    publisher: BBC 中文
+    date: 2023-10-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-67203607
+    excerpt: true
+    keep: [他需要的时候可以任意罢免, 装备采购和研发, 都曾被视为习近平的亲信, 航天工程师, 受到美国政府制裁]
+  - id: b08-rfi-2023-09-15-li-probe
+    title: 路透社：李尚福及军委装备发展部8官员因采购遭调查
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2023-09-15
+    voice: zh
+    url: https://www.rfi.fr/cn/政治/20230915-路透社-李尚福及军委装备发展部8官员因采购遭调查
+    excerpt: true
+    keep: [与军事装备采购有关, 八名高级官员]
+  - id: b08-zaobao-2023-09-15-li
+    title: 中国防长李尚福逾两周未露面 据报因健康原因推迟与越官员会晤
+    publisher: 联合早报
+    date: 2023-09-15
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230915-1433815
+    excerpt: true
+    keep: [西昌卫星发射中心主任, 2017年10月以来, 高度重合]
+  - id: b08-bbc-2024-07-18-third-plenum
+    title: 中共二十届三中全会：2029年完成改革任务，秦刚辞去中央委员仍是“同志”
+    publisher: BBC 中文
+    date: 2024-07-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-69202066
+    excerpt: true
+    keep: [的称谓, 并未使用像针对其他, 锒铛入狱, 捆绑在一起, 更体面地退出]
+  - id: b08-dw-2024-09-09-qin-publisher
+    title: 美媒：秦刚被任命出版社低阶职务
+    publisher: 德国之声中文网
+    date: 2024-09-09
+    voice: zh
+    url: https://www.dw.com/zh/美媒秦刚被任命出版社低阶职务/a-70169099
+    excerpt: true
+    keep: [世界知识出版社, 不会坐牢, 下落不明]
+  - id: b08-jamestown-2025-04-he-weidong
+    title: He Weidong's Possible Downfall and Xi's Trust Deficit With the PLA
+    publisher: Jamestown Foundation China Brief
+    author: K. Tristan Tang
+    date: 2025-04-11
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/he-weidongs-possible-downfall-and-xis-trust-deficit-with-the-pla/
+    excerpt: true
+    keep: [came up through the Nanjing Military Region, personnel management and promotion recommendations]
+  - id: b08-rfi-2025-06-27-miao
+    title: 苗华被免去中央军委委员职务 官方首次公布涉嫌违法
+    publisher: 法国国际广播电台（RFI）中文网
+    date: 2025-06-27
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20250627-苗华被免去中央军委委员职务-官方首次公布涉嫌违法
+    excerpt: true
+    keep: [公开资料显示，苗华, 罢免苗华的第十四届, 华盛顿时报]
+  - id: b08-jamestown-2025-10-cronyism
+    title: "Cronyism and Failed Promotions: Xi's PLA Purge"
+    publisher: Jamestown Foundation China Brief
+    author: K. Tristan Tang
+    date: 2025-10-17
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/cronyism-and-failed-promotions-xis-pla-purge/
+    excerpt: true
+    keep: [forming an improper network around He and Miao, who can he still trust, spent extended periods, Miao Hua advanced the fastest]
+  - id: b08-jamestown-2025-11-purification
+    title: Political Purification and Strategic Realignment in the PLA
+    publisher: Jamestown Foundation China Brief
+    author: Gerui Zhang, Brandon Tran
+    date: 2025-11-14
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/political-purification-and-strategic-realignment-in-the-pla/
+    excerpt: true
+    keep: [may have seen themselves as unimpeachable, putative member of the, controlled personnel selection, has the upper hand in any factional struggle, Two Mountain Border War]
+  - id: b08-dw-2025-10-23-zhang-shengmin
+    title: 军队“反腐沙皇”张升民晋升军委副主席
+    publisher: 德国之声中文网
+    date: 2025-10-23
+    voice: zh
+    url: https://www.dw.com/zh/军队反腐沙皇张升民晋升军委副主席/a-74474125
+    excerpt: true
+    keep: [未受波及, 个人忠诚得到彻底检验, 来自陕西省, 缺乏实战经验, 原南京军区任职, 不同寻常的信任]
+  - id: b08-zaobao-2025-10-23-fourth-plenum
+    title: 四中全会未完成解放军高层人事变动
+    publisher: 联合早报
+    date: 2025-10-23
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251023-7708387
+    excerpt: true
+    keep: [唯一军队高级将领, 第二炮兵服役, 超过八年, 中央军委组成人员仅剩四人]
+  - id: b08-bbc-2026-01-24-zhang-youxia
+    title: 中国调查解放军最高级将领张又侠 官媒批其“造成极大破坏”
+    publisher: BBC 中文
+    date: 2026-01-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cx2k4pxdyyzo/simp
+    excerpt: true
+    keep: [张宗逊, 五人相继落马, 落马比例达到了25%, 少数几位拥有实战经验, 72岁之龄]
+  - id: b08-bbc-2026-zhang-youxia-analysis
+    title: 分析：张又侠“七宗罪”和“红二代”世交神话的破灭
+    publisher: BBC 中文
+    date: 2026-01-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cp80pl999gjo/simp
+    excerpt: true
+    keep: [五宗罪, 诸多人事变动也在佐证, 负责具体的作战指挥, 陕西老乡突然倒台, 西北-装备系, 长期掌管解放军装备采购系统, 而对张又侠则在, 编造了最严重的罪名, 解放军正陷入混乱, 陆军上将全部被清零]
+  - id: b08-dw-2026-01-zhang-who
+    title: 张又侠其人？为何落马？
+    publisher: 德国之声中文网
+    date: 2026-01-26
+    voice: zh
+    url: https://www.dw.com/zh/张又侠其人为何落马/a-75665911
+    excerpt: true
+    keep: [张又侠因为这次战斗被提升为团长, 2011年，张又侠晋升上将军衔, 推动习近平在20大连任的主要功臣, 习张两家可谓世交, 何张相互制衡的关系被打破, 张又侠被称为, 肥缺]
+  - id: b08-dw-2026-01-why-xi
+    title: 习近平为何不放过张又侠？
+    publisher: 德国之声中文网
+    date: 2026-01-29
+    voice: zh
+    url: https://www.dw.com/zh/习近平为何不放过张又侠/a-75696445
+    excerpt: true
+    keep: [腐败指控只不过是清洗的借口, 习近平的嫡系部队, 积累了太多的实权]
+  - id: b08-rfa-2026-01-27-zhang
+    title: 军委副主席张又侠被查 解放军指挥系统现震荡
+    publisher: 自由亚洲电台
+    date: 2026-01-27
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhengzhi/2026/01/27/china-pla-purge-zhangyouxia/
+    excerpt: true
+    keep: [本台获悉, 长期在军队系统内搞团团伙伙, 最后一次公开露面是在]
+  - id: b08-csis-2026-02-purges
+    title: "Assessing Xi's Unprecedented Purges of China's Military: Key Developments and Potential Implications"
+    publisher: CSIS
+    date: 2026-02-24
+    voice: scholar
+    lang: en
+    url: https://www.csis.org/analysis/assessing-xis-unprecedented-purges-chinas-military-key-developments-and-potential
+    excerpt: true
+    keep: [large role in organizing military exercises, ill equipped, most dramatic move yet, likely specious, anti-corruption czar Zhang Shengmin, almost completely decapitated, rare experience fighting on the battlefield]
+  - id: b08-zaobao-2026-04-03-ma
+    title: 马兴瑞落马——中国反腐刮骨疗伤牵动换届人事
+    publisher: 联合早报
+    date: 2026-04-03
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260403-8839858
+    excerpt: true
+    keep: [首批博士之一, 34岁成为哈工大最年轻的博士生导师, 转型为部委高官, 提前拿到新一届政治局入场券, 被誉为“航天少帅”, 航天系关联较大, 总装备部科技委兼职委员, 他担任中央农村工作领导小组副组长, 终于在清明假期前夕]
+  - id: b08-cna-2026-04-04-ma
+    title: 馬興瑞被查涉中共人事布局 學者：反腐將持續至年底
+    publisher: 中央社
+    date: 2026-04-04
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202604040143.aspx
+    excerpt: true
+    keep: [航天幫, 軍工的利益是最大的, 技術官僚的代表]
+  - id: b08-bbc-2026-05-07-wei-li
+    title: 魏凤和、李尚福被判死缓 中国两任前国防部长因贪污腐败下狱
+    publisher: BBC 中文
+    date: 2026-05-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cedplzg33qqo/simp
+    excerpt: true
+    keep: [突然从公共视野中消失, 清洗政治对手, 不得减刑或假释]
+  - id: b08-zaobao-2026-07-03-zhang-shuguang
+    title: 填补反腐风暴下解放军高层空缺 张曙光王刚晋升上将增至六人
+    publisher: 联合早报
+    date: 2026-07-03
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260703-9309382
+    excerpt: true
+    keep: [首度披露, 张曙光今年62岁, 张升民主持仪式]
+  - id: b08-bbc-2026-07-14-ma
+    title: 马兴瑞被“双开”：习时代“技术官僚”代表陨落，政治局三名委员落马
+    publisher: BBC 中文
+    date: 2026-07-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/cy472d80ewwo/simp
+    excerpt: true
+    keep: [1977年中国恢复高考后, 籍贯山东、东北出生, 年度十大经济人物, 粤港澳大湾区成为国家战略, 九三大阅兵, 政治局一次集体学习, 延伸至中国国防工业, 技术官僚的代表以及, 技术官僚的从政顶峰, 尤其是火箭军, 2007年接替张庆伟, 已有三名在任政治局委员落马, 反腐容易成为政治工具多过于廉政工具, 杀气腾腾氛围, 他的身份是中共中央政治局委员]
+  - id: b08-zaobao-2026-07-14-ma
+    title: 马兴瑞被双开 通报称涉权色交易与家族式腐败 学者：政治影响较低
+    publisher: 联合早报
+    date: 2026-07-14
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260714-9364381
+    excerpt: true
+    keep: [胞弟马兴全, 主要集中在他个人, 情节最为单纯, 郭永航，今年3月落马, 没有影射涉及搞团团伙伙, 人大代表资格被终止]
+  - id: b08-voa-2026-08-28-zhang-liu
+    title: 中国正式免去张又侠、刘振立国家军委职务；习近平军中亲信钟绍军首次被证实出事
+    publisher: 美国之音中文网
+    date: 2026-08-28
+    voice: zh
+    url: https://www.voachinese.com/a/china-formally-removes-zhang-youxia-and-liu-zhenli-from-state-central-military-commission-posts-20260828/8191566.html
+    excerpt: true
+    keep: [首次完成国家机构层面, 两人当天也被终止全国人大代表资格, 尚未被正式、公开免去, 只剩习近平和张升民, 钟绍军曾长期担任, 人脉网络]
+  # --- encyclopedic fallback for career details not in the official resumes ---
+  - id: b08-wiki-qin-gang
+    title: 秦刚（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/秦刚
+    excerpt: true
+    keep: [原副国级领导人, 北京外交人员服务局, 新闻司副司长, '礼宾司司长[12]', 升任外交部副部长，分管, 赴美履新, 明报》报道提及]
+  - id: b08-wiki-li-shangfu
+    title: 李尚福（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/李尚福
+    excerpt: true
+    keep: [西昌卫星发射中心工作]
+  - id: b08-wiki-he-weidong
+    title: 何卫东（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/何卫东
+    excerpt: true
+    keep: [编入陆军第三十一集团军, 陆军31集团军第91师, 任31集团军, 南京军区副参谋长, 江苏省军区司令员, 上海警备区司令员。, 接替朱生岭, 西部战区副司令员兼, 提任东部战区司令员, 意味着他已任职军委联指中心, 从公众视野中消失]
+  - id: b08-wiki-miao-hua
+    title: 苗华（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/苗华
+    excerpt: true
+    keep: [长期在南京军区陆军第三十一集团军, 九十二师二七六团, 兰州军区政治部主任, 任中国人民解放军海军政治委员, 晋升海军上将]
+  - id: b08-wiki-liu-zhenli
+    title: 刘振立（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/刘振立
+    excerpt: true
+    keep: [第112师侦察连, 之后历任学员, 第六十五集团军参谋长, '第三十八集团军军长[7]', '武装警察部队参谋长[8]', 首任陆军参谋长, 升任陆军司令员, 调任中央军委联合参谋部参谋长]
+  - id: b08-wiki-zhang-shengmin
+    title: 张升民（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/张升民
+    excerpt: true
+    keep: [陆军第四十七军, 第二炮兵96301, 第二炮兵指挥学院政委, 训练管理部首任政治委员, '后勤保障部政治委员[2]', 2017年1月，任中央军事委员会纪律检查委员会书记, 选举委员会副主任, 张曙光接任]

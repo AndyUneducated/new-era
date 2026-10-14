@@ -1,0 +1,722 @@
+# B07: the fallen of 2006–2017 (Bo Xilai, Ling Jihua, Xu Caihou, Guo Boxiong, Sun Zhengcai, Chen Liangyu)
+- id: bo-xilai
+  name: 薄熙来
+  pinyin: Bó Xīlái
+  gender: m
+  ethnicity: 汉族
+  born: 1949-07-03
+  birthplace: 北京
+  origin: 山西定襄
+  education:
+    - { school: 北京大学历史系世界史专业, from: 1978, to: 1979 }
+    - { school: 中国社会科学院研究生院国际新闻专业, degree: 文学硕士, from: 1979, to: 1982 }
+  joinedParty: 1980-10
+  joinedWork: 1968-01
+  roles: [pb, cc, prov, minister, tiger]
+  status: detained
+  statusNote: 2013 年 9 月一审被判无期徒刑，同年 10 月山东高院二审维持原判，在押服刑。
+  fall:
+    - { date: 2012-03-15, text: 被免去重庆市委书记职务, cite: b07-bbc-2012-03-15-bo-profile }
+    - { date: 2012-04-10, text: 中央决定停止其中央政治局委员、中央委员职务，由中央纪委立案调查, cite: b07-xinhua-2012-04-10-bo-investigation }
+    - { date: 2012-09-28, text: 中央政治局会议决定开除党籍、开除公职，移送司法机关, cite: b07-xinhua-2012-09-28-bo-expulsion }
+    - { date: 2013-09-22, text: 济南市中级人民法院以受贿、贪污、滥用职权罪一审判处无期徒刑、剥夺政治权利终身、没收个人全部财产, cite: b07-xinhua-2013-09-22-bo-sentence }
+    - { date: 2013-10-25, text: 山东省高级人民法院二审裁定驳回上诉、维持原判, cite: b07-xinhua-2013-10-25-bo-appeal }
+  tier: 1
+  headline: 中央政治局委员、重庆市委书记（2007–2012），2013 年被判无期徒刑
+  ids: { wikidata: Q21822 }
+  factions:
+    - f: princelings
+      cite: b07-nyt-2012-09-29-bo-bribery
+      quote: 人们认为他是党总书记和国家主席接班人习近平的潜在竞争对手，后者跟他一样，也是太子党。
+    - f: new-gang-of-four
+      cite: b07-bbc-2014-12-23-hk-press-ling
+      quote: 《苹果日报》则指令计划是中共党内高层“新四人帮”的最后一名落网成员，其他成员则包括中共前政治局常委周永康、前政治局委员薄熙来和前中央军委副主席徐才厚。
+  bio: >-
+    中共元老薄一波之子，历任大连市长、辽宁省长、商务部长，2007 年进入政治局并主政重庆，以“唱红打黑”和大规模修建公租房形成所谓“重庆模式”，一度被视为十八大常委的有力人选。
+    2012 年 2 月重庆公安局长王立军进入美国驻成都总领事馆，牵出其妻谷开来毒杀英国商人尼尔·海伍德一案，薄熙来随即被免职、立案、开除党籍，2013 年在济南以受贿、贪污、滥用职权罪被判无期徒刑。
+    官方把此案定性为腐败与违纪；不少媒体和学者则把它看作十八大前的高层权力与路线之争，香港媒体把他列入“新四人帮”。
+  positions:
+    - { title: 大连市市长, sys: gov, place: 辽宁, from: 1993, to: 2000, cite: b07-xinhua-2007-10-22-bo-resume }
+    - { title: 大连市委书记, sys: party, place: 辽宁, from: 1999, to: 2000, cite: b07-xinhua-2007-10-22-bo-resume }
+    - { title: 辽宁省代省长、省长, sys: gov, place: 辽宁, from: 2000, to: 2004, cite: b07-xinhua-2007-10-22-bo-resume }
+    - { title: 商务部部长, sys: gov, from: 2004, to: 2007, cite: b07-xinhua-2007-10-22-bo-resume }
+    - { title: 中央政治局委员, sys: party, from: 2007-10, to: 2012-04, cite: wd-Q21822 }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2007, to: 2012-03, cite: b07-bbc-2012-03-15-bo-profile }
+  life:
+    - h: 元老之子
+      from: 1949
+      to: 1982
+      text: >-
+        1949 年 7 月生，籍贯山西定襄，父亲薄一波是中共元老、后任国务院副总理。文革中薄一波被扣上“六十一个叛徒集团”的帽子入狱，BBC 说少年薄熙来和兄弟姐妹一下子都成了“黑五类”。
+        官方简历记载他 1968–1972 年进“学习班”劳动，此后在北京二轻局五金机修厂当了六年工人；1978 年入北大历史系，次年考入社科院研究生院国际新闻专业，获文学硕士。BBC 称这是“在父亲安排下”。
+      cites: [b07-xinhua-2007-10-22-bo-resume, b07-bbc-2012-04-30-bo-family]
+    - h: 大连、辽宁与商务部
+      from: 1984
+      to: 2007
+      text: >-
+        1982 年进入中央书记处研究室和中办，1984 年下放辽宁金县，历任县委书记、大连市委宣传部长、副市长，1993 年任大连市长，1999 年兼市委书记，2000 年调任辽宁代省长、次年任省长。BBC 记载，当时的省委书记闻世震据说讥讽大连的做法是城市像欧洲、农村像非洲。
+        2004 年任商务部部长，2007 年十七大进入政治局，年底调任重庆市委书记。法院后来认定，他在大连、辽宁和商务部任内收受唐肖林、大连实德徐明的财物。
+      cites: [b07-xinhua-2007-10-22-bo-resume, b07-bbc-2012-03-15-bo-profile, b07-xinhua-2013-09-22-bo-sentence]
+    - h: 重庆：唱红打黑
+      from: 2007
+      to: 2012
+      text: >-
+        在重庆，他推动经济增长、大量修建公租房，并高调开展“唱红”和打黑除恶，这些做法被称为“重庆模式”。BBC 记载，打黑专项行动导致三千多人被捕；批评者认为他要恢复毛泽东时代的做法，拥护者则认为改革开放造成了社会分化。
+        2012 年两会上他说，重庆打黑“负责任地讲，没有刑讯逼供”。《卫报》引政治学者张鸣的话说，薄熙来真正的问题出在打黑上，而打黑中酷刑被广泛使用。
+      cites: [b07-bbc-2013-09-22-bo-sentence-politics, b07-bbc-2012-03-15-bo-profile, b07-voa-2012-03-09-bo-presser, b07-guardian-2013-09-22-bo-line]
+    - h: 王立军事件与海伍德案
+      from: 2011-11
+      to: 2012-04
+      text: >-
+        据法院认定，2011 年 11 月 13 日谷开来与家中勤务人员张晓军在重庆南山丽景度假酒店毒杀英国人尼尔·伍德（海伍德）。2012 年 1 月 28 日王立军向薄熙来报告此事，薄熙来斥责他并打他耳光，随后主持常委会免去他的公安局长职务。
+        2 月 6 日王立军进入美国驻成都总领事馆，次日深夜离开。3 月 14 日温家宝在记者会上说“现任重庆市委和市政府必须反思”，次日薄熙来被免职；4 月 10 日被停止政治局委员职务、立案调查。
+      cites: [b07-xinhua-2013-09-22-bo-sentence, b07-xinhua-2012-09-24-wang-lijun-sentence, b07-cntv-2012-03-14-wen-presser, b07-xinhua-2012-04-10-bo-investigation]
+    - h: 审判
+      from: 2012-08
+      to: 2013-10
+      text: >-
+        2012 年 8 月谷开来在合肥被判死缓，法院称她“有完全刑事责任能力，但患有精神障碍”；9 月王立军在成都被判十五年；薄熙来被开除党籍。
+        2013 年 8 月济南中院开庭五天，并用微博直播庭审。薄熙来当庭推翻庭前供词，称谷开来“疯了”，说起诉书对他贪腐的指控“是严重失实的”。9 月 22 日一审认定受贿 2044 万余元、贪污 500 万元并滥用职权，判处无期徒刑；10 月 25 日二审维持原判。
+      cites: [b07-xinhua-2012-08-20-gu-kailai-sentence, b07-xinhua-2012-09-24-wang-lijun-sentence, b07-bbc-2013-08-23-bo-trial, b07-bbc-2013-08-26-bo-trial-wrap, b07-xinhua-2013-09-22-bo-sentence, b07-xinhua-2013-10-25-bo-appeal]
+    - h: 权力斗争还是腐败案
+      from: 2012
+      to: 2018
+      text: >-
+        BBC 评论认为，温家宝及中共最高层希望把事件提升到路线斗争的高度；判决后又说当局以贪腐罪审理，“避重就轻，避免再次引发政治路线的争议”。《纽约时报》称，同意严惩他的领导人中可能包括“曾支持薄熙来的江泽民”。
+        香港《苹果日报》称，周永康、薄熙来、令计划、徐才厚组成的“新四人帮”曾计划在十八大前夺权。官方后来也用政治语言定性：2016 年习近平称周、薄等人案件暴露出“在政治上也存在严重问题”，2018 年刘士余说他们“阴谋篡党夺权”。
+      cites: [b07-bbc-2012-03-15-bo-commentary, b07-bbc-2013-09-22-bo-sentence-politics, b07-nyt-2012-09-29-bo-bribery, b07-bbc-2014-12-23-hk-press-ling, b07-people-2016-11-03-xi-explanation, b07-bbc-2018-04-12-sun-trial]
+  assess:
+    - voice: doc
+      quote: true
+      text: 薄熙来的行为造成了严重后果，极大损害了党和国家声誉，在国内外产生了非常恶劣的影响，给党和人民的事业造成了重大损失
+      cite: b07-xinhua-2012-09-28-bo-expulsion
+    - voice: doc
+      quote: true
+      text: 周永康、薄熙来、郭伯雄、徐才厚、令计划等人严重违纪违法案件，不仅暴露出他们在经济上存在严重问题，而且暴露出他们在政治上也存在严重问题
+      cite: b07-people-2016-11-03-xi-explanation
+    - voice: zh
+      quote: true
+      text: 在薄熙来的同情者眼中，判薄熙来无期徒刑无疑印证了薄熙来接受的是政治审判，中共核心领导层才是幕后真正的法官和陪审团
+      cite: b07-bbc-2013-09-22-bo-sentence-politics
+    - voice: scholar
+      quote: true
+      text: "We all know Bo's real crime was to do with 'striking the black'……It is aimed at destroying his reputation"
+      zh: 我们都知道薄熙来真正的罪行与“打黑”有关……（以腐败定罪）是为了毁掉他的名声。（政治学者张鸣，《卫报》引述）
+      cite: b07-guardian-2013-09-22-bo-line
+  family:
+    - name: 薄一波
+      rel: 父
+      text: >-
+        中共元老，曾任国务院副总理；BBC 记载他生有三女四子。文革中被扣上叛徒集团的帽子入狱，文革后平反。BBC 写道，作为薄一波之子，薄熙来与习仲勋之子习近平一样被视为太子党成员。
+      cites: [b07-bbc-2012-04-30-bo-family, b07-bbc-2012-03-15-bo-profile]
+    - name: 谷开来（薄谷开来）
+      rel: 妻
+      text: >-
+        律师，薄熙来 2012 年称她在大连办律师所“搞得很成功”。2012 年 8 月以故意杀人罪被判死缓；法院认定她和儿子收受徐明财物 1933 万余元，薄熙来受审时她通过录像作证指控丈夫。
+      cites: [b07-voa-2012-03-09-bo-presser, b07-xinhua-2012-08-20-gu-kailai-sentence, b07-xinhua-2013-09-22-bo-sentence, b07-bbc-2016-07-04-ling-sentence]
+    - name: 薄瓜瓜
+      rel: 子
+      text: >-
+        与谷开来所生。BBC 记载他曾就读哈罗公学、牛津，2012 年是哈佛学生。薄熙来 2012 年否认他开红色法拉利，称学费来自全额奖学金。《卫报》引海伍德的朋友说，海伍德与他比与薄家其他人更亲近。
+      cites: [b07-bbc-2012-04-30-bo-family, b07-voa-2012-03-09-bo-presser, b07-guardian-2012-08-09-heywood-questions]
+    - name: 李丹宇
+      rel: 前妻
+      text: >-
+        1976 年与薄熙来结婚，生一子（BBC 写作薄望知）；父亲李雪峰曾任北京市委书记。BBC 称薄熙来后来与谷开来交往，这段婚姻随之结束。
+      cites: [b07-bbc-2012-04-30-bo-family]
+  cites: [b07-xinhua-2007-10-22-bo-resume, b07-xinhua-2012-09-28-bo-expulsion, b07-xinhua-2013-09-22-bo-sentence, b07-bbc-2012-03-15-bo-profile, b07-bbc-2013-09-22-bo-sentence-politics, wd-Q21822]
+
+- id: ling-jihua
+  name: 令计划
+  pinyin: Lìng Jìhuà
+  gender: m
+  ethnicity: 汉族
+  born: 1956-10-22
+  birthplace: 山西平陆
+  origin: 山西平陆
+  roles: [sec, cc, minister, tiger]
+  status: detained
+  statusNote: 2016 年 7 月被判无期徒刑，当庭表示不上诉，在押服刑。
+  fall:
+    - { date: 2014-12-22, text: 新华社宣布令计划涉嫌严重违纪接受组织调查, cite: b07-xinhua-2014-12-22-ling-investigation }
+    - { date: 2015-07-20, text: 中央政治局会议决定开除党籍、开除公职，移送司法机关, cite: b07-xinhua-2015-07-20-ling-expulsion }
+    - { date: 2016-06-07, text: 天津市第一中级人民法院因案涉国家秘密不公开开庭审理, cite: b07-court-2016-07-04-ling-sentence }
+    - { date: 2016-07-04, text: 以受贿、非法获取国家秘密、滥用职权罪一审判处无期徒刑，剥夺政治权利终身，没收个人全部财产, cite: b07-court-2016-07-04-ling-sentence }
+  tier: 1
+  headline: 中央办公厅主任（2007–2012）、全国政协副主席（2013–2014），2016 年被判无期徒刑
+  ids: { wikidata: Q497091 }
+  factions:
+    - f: tuanpai
+      cite: b07-bbc-2015-07-20-ling-expulsion
+      quote: 他与胡锦涛一样，都是共青团出身，因此深受胡绵涛重用。
+    - f: xishanhui
+      cite: b07-hqrw-2015-01-06-xishanhui
+      quote: 多家媒体称，令计划正是“西山会”的“执牛耳者”
+    - f: new-gang-of-four
+      cite: b07-bbc-2014-12-23-hk-press-ling
+      quote: 《苹果日报》则指令计划是中共党内高层“新四人帮”的最后一名落网成员，其他成员则包括中共前政治局常委周永康、前政治局委员薄熙来和前中央军委副主席徐才厚。
+  bio: >-
+    共青团出身，长期在胡锦涛身边工作，2007 年起任中办主任、中央书记处书记，被视为胡锦涛的“心腹”，一度有望进入最高领导层。
+    2012 年 3 月其子令谷驾驶法拉利跑车在北京撞车身亡，外媒报道他动用中央警卫局掩盖真相；同年 9 月被调任统战部长，十八大未能进入政治局。2014 年 12 月落马，2016 年以受贿、非法获取国家秘密、滥用职权罪被判无期徒刑。
+    港媒和官方系刊物称他是山西籍官员圈子“西山会”的核心，香港媒体把他列入“新四人帮”；其弟令完成出走美国。
+  positions:
+    - { title: 共青团中央宣传部部长, sys: party, cite: b07-bjnews-2014-12-22-ling-resume }
+    - { title: 中央办公厅调研室主任, sys: party, cite: b07-bjnews-2014-12-22-ling-resume }
+    - { title: 中央办公厅主任, sys: party, from: 2007-09, to: 2012-08, cite: wd-Q497091 }
+    - { title: 中央书记处书记, sys: party, from: 2007-10, to: 2012-11, cite: b07-bjnews-2014-12-22-ling-resume }
+    - { title: 中央统战部部长, sys: party, from: 2012-09, to: 2014-12, cite: wd-Q497091 }
+    - { title: 全国政协副主席, sys: other, from: 2013-03, to: 2015-01, cite: wd-Q497091 }
+  life:
+    - h: 平陆与团中央
+      from: 1956
+      to: 1995
+      text: >-
+        1956 年生于山西平陆，父亲是山西一名处级干部，按报上常见的词给五个子女取名路线、政策、方针、计划、完成。早年下过乡，在印刷厂当过工人，1975 年进入平陆县团委。
+        1979 年调入团中央，历任宣传部理论处副处长、宣传部部长。《纽约时报》称，他早年就得到胡锦涛的庇护；胡锦涛 80 年代初领导共青团，1995 年把他安排进中央办公厅。
+      cites: [b07-bjnews-2014-12-22-ling-resume, b07-bbc-2015-07-20-ling-expulsion, b07-nyt-2012-12-05-ferrari-crash]
+    - h: 中办大管家
+      from: 1995
+      to: 2012
+      text: >-
+        在中办从调研室三组负责人做起，历任调研室主任、中编办副主任，2007 年 9 月任中办主任，同年进入中央书记处。
+        《纽约时报》引一名组织部官员说：“官员们说，令计划打的电话就相当于胡锦涛的电话。”2012 年 1 月，他以中直机关工委书记身份要求中直机关做好“保持党的纯洁性”各项工作，以迎接十八大。
+      cites: [b07-bjnews-2014-12-22-ling-resume, wd-Q497091, b07-nyt-2012-12-05-ferrari-crash, b07-xinhua-2012-01-16-ling-purity]
+    - h: 法拉利事件与降职
+      from: 2012-03
+      to: 2012-11
+      text: >-
+        据《纽约时报》报道，2012 年 3 月 18 日凌晨，一辆黑色法拉利 Spider 在北京四环撞上护墙、车身裂成两半，令谷当场死亡，同车两名年轻藏族女子重伤。党内知情人士称，令计划动用中央警卫局协助掩盖。
+        7 月讨论十八大人事时，党内元老提出此事，称“这个人不具备进入政治局的资格”。9 月 1 日他卸任中办主任，改任实权较小的统战部长；十八大仅当选中央委员。
+      cites: [b07-nyt-2012-12-05-ferrari-crash, b07-nyt-2012-09-04-ling-demotion, wd-Q497091, b07-bbc-2015-07-20-ling-expulsion]
+    - h: 西山会与“新四人帮”之说
+      from: 2007
+      to: 2014
+      text: >-
+        人民网旗下的《环球人物》引媒体人罗昌平的《打铁记》说，“西山会”出现不晚于 2007 年，成员主要是山西籍高官，也有个别山西籍商人，令计划被称为其“执牛耳者”，成员还包括令政策、陈川平、刘志军、丁书苗、刘铁男、申维辰等。
+        BBC 称媒体报道牵出令计划、周永康与薄熙来的“三角政治同盟”；香港《苹果日报》称“新四人帮”曾计划在十八大前发动政变，因薄熙来被捕而流产。
+      cites: [b07-hqrw-2015-01-06-xishanhui, b07-bbc-2015-07-20-ling-expulsion, b07-bbc-2014-12-23-hk-press-ling]
+    - h: 落马
+      from: 2013-03
+      to: 2015-07
+      text: >-
+        2013 年 3 月任全国政协副主席，但 BBC 说他在党内的位置“已大不如前”。2014 年 6 月其兄、山西省政协副主席令政策被查；12 月 15 日《求是》还刊出他的署名文章，22 日新华社宣布他接受组织调查。
+        2015 年 7 月 20 日被开除党籍、公职，通报称他“违纪违法获取党和国家大量核心机密”，收受巨额贿赂，并“与多名女性通奸，进行权色交易”。
+      cites: [b07-bbc-2015-07-20-ling-expulsion, b07-bjnews-2014-12-22-ling-resume, b07-xinhua-2014-12-22-ling-investigation, b07-xinhua-2015-07-20-ling-expulsion]
+    - h: 天津受审
+      from: 2016-05
+      to: 2016-07
+      text: >-
+        2016 年 5 月被起诉，6 月 7 日天津一中院因案涉国家秘密不公开审理。法院认定他单独或与妻子谷丽萍收受楼忠福、崔晓玉、潘逸阳、魏新、李春城、白恩培等人财物共 7708.5383 万元；通过时任中办秘书局局长霍克等人非法获取大量国家秘密；为特定关系人调动工作、迁移户口提供帮助。
+        7 月 4 日数罪并罚判处无期徒刑；他当庭表示接受全部指控、不上诉。谷丽萍以录像方式作证。
+      cites: [b07-court-2016-07-04-ling-sentence, b07-bbc-2016-07-04-ling-sentence]
+  assess:
+    - voice: doc
+      quote: true
+      text: 令计划的行为完全背离了党的性质和宗旨，严重违反党的纪律，极大损害党的形象，社会影响极其恶劣
+      cite: b07-xinhua-2015-07-20-ling-expulsion
+    - voice: zh
+      quote: true
+      text: 他是胡锦涛关系最紧密的亲信，也是胡锦涛的政治掮客
+      cite: b07-nyt-2012-12-05-ferrari-crash
+    - voice: zh
+      quote: true
+      text: 被视为胡锦涛的“心腹”，甚至一度有望进入最高领导核心
+      cite: b07-bbc-2014-12-23-hk-press-ling
+    - voice: scholar
+      quote: true
+      text: 令计划等人是很明显的“家族帮”，他作为家族中官员级别最高的人，现在家族中不少人落马，如果没有“大树庇荫”是不可思议的
+      cite: b07-bbc-2014-12-23-hk-press-ling
+  family:
+    - name: 谷丽萍
+      rel: 妻
+      text: >-
+        法院认定她与令计划共同或单独收受楼忠福、崔晓玉、潘逸阳等人财物，庭审中公诉方播放了她的作证录像。通报称令计划“为其妻经营活动谋取利益”。
+      cites: [b07-court-2016-07-04-ling-sentence, b07-xinhua-2015-07-20-ling-expulsion]
+    - name: 令谷
+      rel: 子
+      text: >-
+        令计划与谷丽萍的独生子。2012 年 3 月 18 日在北京驾驶法拉利撞车身亡。法院认定他曾向魏新等人索取财物，令计划事后知情未予退还。
+      cites: [b07-hqrw-2015-01-06-xishanhui, b07-nyt-2012-12-05-ferrari-crash, b07-court-2016-07-04-ling-sentence]
+    - name: 令政策
+      rel: 兄
+      text: >-
+        家中次子，长期在山西发改系统任职，后任山西省政协副主席。2014 年 6 月被查，2015 年 8 月被开除党籍、公职，2016 年被起诉。
+      cites: [b07-bjnews-2014-12-22-ling-resume, b07-zaobao-2016-09-19-ling-zhengce]
+    - name: 令完成
+      rel: 弟
+      text: >-
+        经商，别名“王诚”，是业余高尔夫好手。《纽约时报》2015 年 8 月报道他已到美国，在加州有住宅，美国官员称他若寻求庇护，“将可能成为中华人民共和国历史上最具破坏力的叛逃者”。2016 年 1 月中方首次承认他住在美国，称“中方正在处理，也在和美国进行沟通”。
+      cites: [b07-bjnews-2014-12-22-ling-resume, b07-nyt-2015-08-04-ling-wancheng, b07-nyt-2016-01-18-ling-wancheng-us]
+  cites: [b07-bjnews-2014-12-22-ling-resume, b07-xinhua-2015-07-20-ling-expulsion, b07-court-2016-07-04-ling-sentence, b07-nyt-2012-12-05-ferrari-crash, b07-bbc-2014-12-23-hk-press-ling, b07-hqrw-2015-01-06-xishanhui, wd-Q497091]
+
+- id: xu-caihou
+  name: 徐才厚
+  pinyin: Xú Cáihòu
+  gender: m
+  ethnicity: 汉族
+  born: 1943-06
+  died: 2015-03-15
+  birthplace: 辽宁瓦房店
+  origin: 辽宁瓦房店
+  education:
+    - { school: 哈尔滨军事工程学院电子工程系, from: 1963, to: 1968 }
+  joinedParty: 1971-04
+  joinedWork: 1963-08
+  roles: [pb, sec, cmc, cc, general, tiger]
+  status: dead
+  statusNote: 2015 年 3 月 15 日在审查起诉阶段因膀胱癌病亡，军事检察院依法作出不起诉决定，未经审判。
+  fall:
+    - { date: 2014-03-15, text: 中共中央决定对徐才厚涉嫌违纪问题进行组织调查, cite: b07-xinhua-2014-06-30-xu-expulsion }
+    - { date: 2014-06-30, text: 中央政治局会议决定开除党籍，涉嫌受贿问题移送军事检察机关, cite: b07-xinhua-2014-06-30-xu-expulsion }
+    - { date: 2014-10-27, text: 军事检察院侦查终结，移送审查起诉, cite: b07-xinhua-2015-03-16-xu-death }
+    - { date: 2015-03-15, text: 因膀胱癌病亡；军事检察院作出不起诉决定，受贿所得依法处理, cite: b07-xinhua-2015-03-16-xu-death }
+  tier: 1
+  headline: 中央军委副主席（2004–2012）、中央政治局委员（2007–2012），2015 年病亡于审查起诉期间
+  ids: { wikidata: Q1335434 }
+  factions:
+    - f: jiang-shanghai
+      cite: b07-voa-2014-07-03-xu-hu
+      quote: 有评论认为，习近平打掉徐才厚这只军中大老虎，能借反贪之力加强手中军权，跟徐才厚所效忠的前领导核心江泽民叫板。
+    - f: guo-xu
+      cite: b07-xinhua-2016-10-11-guo-xu-poison
+      quote: 郭伯雄、徐才厚是我军建军以来因违纪违法被查处的职务最高的领导干部。
+    - f: new-gang-of-four
+      cite: b07-bbc-2014-12-23-hk-press-ling
+      quote: 《苹果日报》则指令计划是中共党内高层“新四人帮”的最后一名落网成员，其他成员则包括中共前政治局常委周永康、前政治局委员薄熙来和前中央军委副主席徐才厚。
+  bio: >-
+    辽宁瓦房店人，哈军工毕业，从连队副指导员起一直做军队政治工作，1999 年进入中央军委，2002 年任总政治部主任，2004 年起任军委副主席，2007 年进入政治局，长期掌管军官人事。
+    外媒普遍把他看作江泽民在军中的亲信，认为他在 2004 年升任军委副主席是为了掣肘胡锦涛。2014 年 3 月被调查、6 月被开除党籍，是习近平反腐中落马的最高级别军人之一；2015 年 3 月因膀胱癌病亡，未经审判。此后官方把肃清“郭伯雄、徐才厚流毒影响”列为全军政治任务。
+  positions:
+    - { title: 济南军区政委, sys: army, from: 1996, to: 1999, cite: b07-people-2014-06-30-xu-resume }
+    - { title: 中央军委委员、总政治部常务副主任, sys: army, from: 1999, to: 2002, cite: b07-people-2014-06-30-xu-resume }
+    - { title: 总政治部主任, sys: army, from: 2002, to: 2004, cite: b07-people-2014-06-30-xu-resume }
+    - { title: 中央书记处书记, sys: party, from: 2002, to: 2007, cite: b07-people-2014-06-30-xu-resume }
+    - { title: 中央军委副主席, sys: army, from: 2004-09, to: 2012-11, cite: b07-people-2014-06-30-xu-resume }
+    - { title: 中央政治局委员, sys: party, from: 2007-10, to: 2012-11, cite: b07-people-2014-06-30-xu-resume }
+  life:
+    - h: 哈军工与吉林
+      from: 1943
+      to: 1984
+      text: >-
+        1943 年 6 月生于辽宁瓦房店，美国之音说他“没有显赫的家世背景”。1963 年入伍、考入哈尔滨军事工程学院电子工程系，1968 年毕业后先在第三十九军农场劳动、吉林省军区独立师当兵锻炼。
+        1971 年入党，任沈阳军区守备第三师炮兵团副指导员，此后在吉林省军区政治部干部处工作十年，1983 年升任吉林省军区政治部副主任。
+      cites: [b07-people-2014-06-30-xu-resume, b07-voa-2014-07-03-xu-hu]
+    - h: 从集团军到总政
+      from: 1984
+      to: 1999
+      text: >-
+        1984 年任沈阳军区政治部群众工作部部长，1985 年任第十六集团军政治部主任，1990 年任政委。1992 年调入总政治部任主任助理并兼解放军报社社长，1993 年升总政副主任，1996 年出任济南军区政委。
+        从连队副指导员起三十多年，他一直从事政治工作，美国之音称他后来“平步青云一路高升”。
+      cites: [b07-people-2014-06-30-xu-resume, b07-voa-2014-07-03-xu-hu]
+    - h: 江泽民后期的升迁
+      from: 1999
+      to: 2004
+      text: >-
+        1999 年十五届四中全会增补为中央军委委员，任总政常务副主任，同年晋上将；2000 年兼军委纪委书记，2002 年十六大进入中央书记处并任总政治部主任。
+        2004 年 9 月江泽民把军委主席职务交给胡锦涛，徐才厚同时升任军委副主席。美国之音认为，这一安排“显然是为了增加对胡的掣肘”；BBC 也指出郭、徐两人都是 1999 年进入军委的。
+      cites: [b07-people-2014-06-30-xu-resume, b07-nyt-2014-06-30-xu-caihou, b07-voa-2014-07-03-xu-hu, b07-bbc-2015-07-30-guo-xu]
+    - h: 军委副主席
+      from: 2004
+      to: 2013
+      text: >-
+        2005 年任国家军委副主席，2007 年十七大进入政治局。BBC 引报道称，他掌管军中高层人事升迁十余年，是军中人脉最深的将领之一；美国之音说他在军中被称为“东北虎”。
+        2008 年他在国防大学毕业典礼上要求部队“坚决听从党中央、中央军委和胡主席指挥”。2012 年十八大卸任党的军委副主席，2013 年 3 月卸任国家军委副主席。
+      cites: [b07-people-2014-06-30-xu-resume, b07-bbc-2014-06-30-xu-expulsion, b07-voa-2014-07-03-xu-hu, b07-xinhua-2008-07-23-xu-speech]
+    - h: 谷俊山案与落马
+      from: 2012
+      to: 2014-06
+      text: >-
+        原总后勤部副部长谷俊山被查后，《纽约时报》报道调查转向他的“主要靠山”徐才厚。官方后来披露，徐才厚 2013 年 2 月已确诊膀胱癌。
+        2014 年 3 月 15 日中央决定对他组织调查；BBC 引匿名人士称，他在医院被带走，妻子、女儿和一名秘书也被带走调查。6 月 30 日他被开除党籍，通报称他“为他人晋升职务提供帮助，直接和通过家人收受贿赂”。
+      cites: [b07-nyt-2014-06-30-xu-caihou, b07-bbc-2014-06-30-xu-expulsion, b07-81cn-2015-03-16-xu-qa, b07-xinhua-2014-06-30-xu-expulsion]
+    - h: 病亡与“肃流毒”
+      from: 2014-10
+      to: 2016
+      text: >-
+        2014 年 10 月 27 日军事检察院侦查终结、移送审查起诉，认定他受贿数额特别巨大。2015 年 3 月 15 日他因膀胱癌终末期多器官衰竭死亡，军事检察院依刑事诉讼法第十五条作出不起诉决定。
+        2016 年起官方提出“全面彻底肃清郭伯雄、徐才厚流毒影响”。胡佛研究所学者 James Mulvenon 指出，这一新提法 2016 年 7 月开始出现在官方媒体。
+      cites: [b07-xinhua-2015-03-16-xu-death, b07-81cn-2015-03-16-xu-qa, b07-xinhua-2016-10-11-guo-xu-poison, b07-hoover-clm-guo-xu-poison]
+    - h: 从受贿案到政治案
+      from: 2014
+      to: 2018
+      text: >-
+        官方通报只列受贿，外界解读则偏重政治。美国之音认为，打掉这只“军中大老虎”能让习近平加强军权，并向徐才厚效忠的江泽民叫板；香港《苹果日报》把他与周永康、薄熙来、令计划并称“新四人帮”。
+        官方随后也改用政治语言：2016 年习近平在六中全会的说明中点名徐才厚等人，称其案件暴露出“在政治上也存在严重问题”；2018 年刘士余把他和薄熙来、孙政才等并列，说这些人“既巨贪又巨腐”。
+      cites: [b07-voa-2014-07-03-xu-hu, b07-bbc-2014-12-23-hk-press-ling, b07-people-2016-11-03-xi-explanation, b07-bbc-2018-04-12-sun-trial]
+  assess:
+    - voice: doc
+      quote: true
+      text: 徐才厚利用职务便利，为他人晋升职务提供帮助，直接和通过家人收受贿赂；利用职务影响为他人谋利，其家人收受他人财物，严重违反党的纪律并涉嫌受贿犯罪，情节严重，影响恶劣
+      cite: b07-xinhua-2014-06-30-xu-expulsion
+    - voice: official
+      quote: true
+      text: 他们的所作所为，彻底背离党的宗旨，严重践踏党纪国法，给党的事业造成严重损害，给军队建设带来严重危害
+      cite: b07-xinhua-2016-10-11-guo-xu-poison
+    - voice: zh
+      quote: true
+      text: 徐才厚被提升为中央军委副主席，显然是为了增加对胡的掣肘
+      cite: b07-voa-2014-07-03-xu-hu
+    - voice: scholar
+      quote: true
+      text: Guo and Xu are the highest-ranking Chinese military officers indicted in Xi Jinping’s ongoing anti-corruption purge
+      zh: 郭伯雄和徐才厚是习近平持续进行的反腐清洗中被起诉的最高级别中国军官。
+      cite: b07-hoover-clm-guo-xu-poison
+  family:
+    - name: 妻子与女儿（未具名）
+      rel: 妻、女
+      text: >-
+        BBC 2014 年引匿名知情人称，徐才厚被带走时，妻子、女儿和一名秘书也被带走调查。官方通报说他“直接和通过家人收受贿赂”，但没有公布家属姓名或处理结果。
+      cites: [b07-bbc-2014-06-30-xu-expulsion, b07-xinhua-2014-06-30-xu-expulsion]
+  cites: [b07-people-2014-06-30-xu-resume, b07-xinhua-2014-06-30-xu-expulsion, b07-xinhua-2015-03-16-xu-death, b07-voa-2014-07-03-xu-hu, b07-xinhua-2016-10-11-guo-xu-poison, wd-Q1335434]
+
+- id: guo-boxiong
+  name: 郭伯雄
+  pinyin: Guō Bóxióng
+  gender: m
+  ethnicity: 汉族
+  born: 1942-07
+  birthplace: 陕西礼泉
+  origin: 陕西礼泉
+  education:
+    - { school: 解放军军事学院, from: 1981, to: 1983 }
+  joinedParty: 1963-03
+  joinedWork: 1958-08
+  roles: [pb, cmc, cc, general, tiger]
+  status: detained
+  statusNote: 2016 年 7 月被军事法院判处无期徒刑并剥夺上将军衔，当庭表示不上诉，在押服刑。
+  fall:
+    - { date: 2015-04-09, text: 中共中央决定对郭伯雄进行组织调查, cite: b07-xinhua-2015-07-30-guo-expulsion }
+    - { date: 2015-07-30, text: 中央政治局会议决定开除党籍，涉嫌受贿问题移送军事检察机关, cite: b07-xinhua-2015-07-30-guo-expulsion }
+    - { date: 2016-04-05, text: 军事检察院侦查终结，移送审查起诉, cite: b07-cctv-2016-07-25-guo-recap }
+    - { date: 2016-07-25, text: 军事法院以受贿罪一审判处无期徒刑，剥夺政治权利终身，没收个人全部财产，剥夺上将军衔, cite: b07-xinhua-2016-07-25-guo-sentence }
+  tier: 1
+  headline: 中央军委副主席、中央政治局委员（2002–2012），2016 年被判无期徒刑
+  ids: { wikidata: Q1337947 }
+  factions:
+    - f: jiang-shanghai
+      cite: b07-dw-2016-07-25-guo-sentence
+      quote: 该报还曾报道说，郭伯雄和同样被开除党籍、去年3月病逝的前中央军委副主席、原上将徐才厚都曾是江泽民的亲信，是其控制军界的重要人物。
+    - f: northwest-army
+      cite: b07-dw-2016-07-25-guo-sentence
+      quote: 《南华早报》曾在早前的文章中称，原7大军区中最大的兰州军区是郭伯雄的势力范围。
+    - f: guo-xu
+      cite: b07-xinhua-2016-10-11-guo-xu-poison
+      quote: 郭伯雄、徐才厚是我军建军以来因违纪违法被查处的职务最高的领导干部。
+  bio: >-
+    陕西礼泉人，工人出身，1961 年入伍，前半生几乎都在第十九军和兰州军区度过，1997 年任兰州军区司令员，1999 年进入中央军委任常务副总参谋长，2002 年起任军委副主席、政治局委员十年。
+    2015 年 4 月被调查、7 月被开除党籍；2016 年 7 月军事法院以受贿罪判处无期徒刑并剥夺上将军衔。官方称他与徐才厚是“建军以来”被查处职务最高的军队领导干部；媒体称他是江泽民在军中的亲信，网上称他“西北狼”，兰州军区被视为他的势力范围。
+  positions:
+    - { title: 第四十七集团军军长, sys: army, from: 1990, to: 1993, cite: b07-xinhua-2015-07-30-guo-resume }
+    - { title: 北京军区副司令员, sys: army, from: 1993, to: 1997, cite: b07-xinhua-2015-07-30-guo-resume }
+    - { title: 兰州军区司令员, sys: army, from: 1997, to: 1999, cite: b07-xinhua-2015-07-30-guo-resume }
+    - { title: 中央军委委员、常务副总参谋长, sys: army, from: 1999, to: 2002, cite: b07-xinhua-2015-07-30-guo-resume }
+    - { title: 中央军委副主席, sys: army, from: 2002-11, to: 2012-11, cite: b07-xinhua-2015-07-30-guo-resume }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: wd-Q1337947 }
+  life:
+    - h: 工人与第十九军
+      from: 1942
+      to: 1983
+      text: >-
+        1942 年 7 月生于陕西礼泉，1958 年在兴平县四〇八厂当工人，1961 年入伍到陆军第十九军五十五师一六四团，从战士做到班长、排长，1963 年入党。
+        此后在团、军司令部的作训部门当参谋、股长、处长近二十年，1981 年起在解放军军事学院学习，任五十五师参谋长、兰州军区司令部作战部副部长。
+      cites: [b07-xinhua-2015-07-30-guo-resume]
+    - h: 兰州与北京
+      from: 1983
+      to: 1999
+      text: >-
+        1983 年任第十九军参谋长，1985 年任兰州军区副参谋长，1990 年任第四十七集团军军长，1993 年调任北京军区副司令员，1997 年回兰州任军区司令员。
+        德国之声引《南华早报》说，原七大军区中最大的兰州军区是他的“势力范围”。《纽约时报》说他在网上被称作“西北狼”，既因早年在西北服役，也因他贪婪的名声。
+      cites: [b07-xinhua-2015-07-30-guo-resume, b07-dw-2016-07-25-guo-sentence, b07-nyt-2016-07-25-guo-conviction]
+    - h: 中央军委
+      from: 1999
+      to: 2013
+      text: >-
+        1999 年十五届四中全会增补为军委委员，任常务副总参谋长；新华社简历记为 2002 年十六届一中全会任军委副主席并进入政治局，2003 年任国家军委副主席。
+        2008 年在南京调研时，他强调“从严治军是军队建设的铁律”，要求各级领导带头做从严治军的模范。2012 年十八大卸任，2013 年 3 月卸任国家军委副主席。美国之音指出，他也是在江泽民主政后期升任军委副主席的。
+      cites: [b07-xinhua-2015-07-30-guo-resume, b07-cctv-2016-07-25-guo-recap, b07-xinhua-2008-07-24-guo-speech, b07-voa-2014-07-03-xu-hu]
+    - h: 父子落马
+      from: 2015-02
+      to: 2015-07
+      text: >-
+        2015 年 2 月，其子、浙江省军区副政委郭正钢被军事检察机关立案侦查，BBC 说外界由此开始猜测郭伯雄也将被查。4 月 9 日中央决定对他组织调查，7 月 30 日开除党籍，通报称他“为他人谋取职务晋升等方面利益，直接或通过家人收受贿赂”。
+        BBC 指出，这是中共近年首次两位同期军委副主席先后落马，也“反映出中国军中买官卖官问题的严重性”。
+      cites: [b07-dw-2016-07-25-guo-sentence, b07-bbc-2015-07-30-guo-xu, b07-xinhua-2015-07-30-guo-expulsion]
+    - h: 军事法院宣判
+      from: 2016-04
+      to: 2016-07
+      text: >-
+        2016 年 4 月 5 日侦查终结移送起诉，官方称他“对涉嫌受贿犯罪事实供认不讳”。5 月 3 日军事法院立案，因部分证据涉及军事秘密不公开审理。7 月 25 日宣判：受贿数额特别巨大，判处无期徒刑，剥夺上将军衔，他当庭表示不上诉。
+        官方没有公布受贿金额；德国之声引《南华早报》消息说，实际受贿金额远超 8000 万元。
+      cites: [b07-cctv-2016-07-25-guo-recap, b07-xinhua-2016-07-25-guo-sentence, b07-dw-2016-07-25-guo-sentence]
+    - h: 郭徐“流毒”
+      from: 2016
+      to: 2016-10
+      text: >-
+        判决前后，官方把郭伯雄、徐才厚并列批判。《纽约时报》援引《解放军报》读本说，两人贪腐“骇人听闻”，但要害是“他们触犯了政治底线”。2016 年 10 月新华社文章称，两人的流毒影响“是全面的、深层次的”，要求全军全面彻底肃清。
+        胡佛研究所学者 James Mulvenon 认为，这场肃清运动关系到党军关系的走向。
+      cites: [b07-nyt-2016-07-25-guo-conviction, b07-xinhua-2016-10-11-guo-xu-poison, b07-hoover-clm-guo-xu-poison]
+    - h: 江泽民时代的军头
+      from: 1999
+      to: 2016
+      text: >-
+        BBC 指出，郭伯雄、徐才厚都是 1999 年进入中央军委，又先后在 2002 年和 2004 年以军方最高代表身份升任军委副主席。美国之音说，徐才厚在军中被称为“东北虎”，郭伯雄则有“西北狼”之称。
+        德国之声引《南华早报》报道，两人都曾是江泽民的亲信，是江泽民控制军界的重要人物。官方没有使用派系说法；2016 年习近平的六中全会说明把郭伯雄与周永康、薄熙来、徐才厚、令计划并列，称其案件暴露出政治问题。
+      cites: [b07-bbc-2015-07-30-guo-xu, b07-voa-2014-07-03-xu-hu, b07-dw-2016-07-25-guo-sentence, b07-people-2016-11-03-xi-explanation]
+  assess:
+    - voice: doc
+      quote: true
+      text: 郭伯雄受贿数额特别巨大，犯罪情节特别严重，归案后如实供述罪行，真诚认罪悔罪，赃款赃物全部追缴
+      cite: b07-xinhua-2016-07-25-guo-sentence
+    - voice: official
+      quote: true
+      text: 郭伯雄、徐才厚贪腐问题骇人听闻……但这还不是他们问题的要害，要害是他们触犯了政治底线
+      cite: b07-nyt-2016-07-25-guo-conviction
+    - voice: zh
+      quote: true
+      text: 也反映出中国军中买官卖官问题的严重性，而且难免令人对中共军中的腐败程度乍舌
+      cite: b07-bbc-2015-07-30-guo-xu
+    - voice: zh
+      quote: true
+      text: 军委纪检人员对郭伯雄受贿金额有遮掩，实际受贿金额远远超过8000万元人民币这个数字
+      cite: b07-dw-2016-07-25-guo-sentence
+  family:
+    - name: 郭正钢
+      rel: 子
+      text: >-
+        解放军少将，曾任浙江省军区副政委。德国之声报道他 2015 年 2 月被军事检察机关立案侦查；《纽约时报》称他可能是郭案中将要受审的其他嫌疑人之一。
+      cites: [b07-dw-2016-07-25-guo-sentence, b07-nyt-2016-07-25-guo-conviction, b07-bbc-2015-07-30-guo-xu]
+  cites: [b07-xinhua-2015-07-30-guo-resume, b07-xinhua-2015-07-30-guo-expulsion, b07-xinhua-2016-07-25-guo-sentence, b07-dw-2016-07-25-guo-sentence, b07-xinhua-2016-10-11-guo-xu-poison, wd-Q1337947]
+
+- id: sun-zhengcai
+  name: 孙政才
+  pinyin: Sūn Zhèngcái
+  gender: m
+  ethnicity: 汉族
+  born: 1963-09-25
+  origin: 山东荣成
+  education:
+    - { school: 莱阳农学院农学系, from: 1980, to: 1984 }
+    - { school: 北京市农林科学院、北京农业大学, degree: 硕士, from: 1984, to: 1987 }
+    - { school: 中国农业大学, degree: 农学博士, from: 1990, to: 1997 }
+  joinedParty: 1988-07
+  joinedWork: 1987-05
+  roles: [pb, cc, prov, minister, tiger]
+  status: detained
+  statusNote: 2018 年 5 月被判无期徒刑，当庭表示不上诉，在押服刑。
+  fall:
+    - { date: 2017-07-14, text: 中央决定将其调离重庆市委书记岗位，由中央纪委进行纪律审查, cite: b07-xinhua-2017-09-29-sun-expulsion }
+    - { date: 2017-07-24, text: 中央决定由中央纪委对其立案审查, cite: b07-ccdi-2017-07-24-sun-investigation }
+    - { date: 2017-09-29, text: 中央政治局会议决定开除党籍、开除公职，移送司法机关, cite: b07-xinhua-2017-09-29-sun-expulsion }
+    - { date: 2018-04-12, text: 天津市第一中级人民法院公开开庭审理, cite: b07-court-2018-04-12-sun-trial }
+    - { date: 2018-05-08, text: 以受贿罪一审判处无期徒刑，剥夺政治权利终身，没收个人全部财产, cite: b07-xinhua-2018-05-08-sun-sentence }
+  tier: 1
+  headline: 中央政治局委员、重庆市委书记（2012–2017），2018 年被判无期徒刑
+  ids: { wikidata: Q72870 }
+  bio: >-
+    农学博士出身，从北京市农林科学院、顺义区、北京市委秘书长做到农业部长、吉林省委书记，2012 年以 49 岁进入政治局并接掌薄熙来倒台后的重庆，与胡春华同被视为第六代领导人人选。
+    2017 年 2 月中央巡视组批评重庆清除“薄、王”遗毒不彻底；7 月，十九大前三个月，他突然被调离、立案，9 月被开除党籍；2018 年以受贿 1.7 亿余元被判无期徒刑。官方把他与薄熙来、周永康等并列；学者多认为他倒台的关键是未能充分效忠，这也打破了既定的接班次序。
+  positions:
+    - { title: 北京市顺义县（区）县长、区长, sys: gov, place: 北京, from: 1997, to: 2002, cite: b07-mj-2012-11-16-sun-resume }
+    - { title: 北京市委常委、秘书长, sys: party, place: 北京, from: 2002, to: 2006, cite: b07-mj-2012-11-16-sun-resume }
+    - { title: 农业部部长, sys: gov, from: 2006-12, to: 2009-12, cite: wd-Q72870 }
+    - { title: 吉林省委书记, sys: party, place: 吉林, from: 2009-11, to: 2012-11, cite: wd-Q72870 }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-09, cite: wd-Q72870 }
+    - { title: 重庆市委书记, sys: party, place: 重庆, from: 2012-11, to: 2017-07, cite: b07-xinhua-2017-09-29-sun-expulsion }
+  life:
+    - h: 玉米专家
+      from: 1963
+      to: 1997
+      text: >-
+        1963 年 9 月生，官方简历记籍贯山东荣成。1980–1984 年在莱阳农学院读农学，随后在北京市农林科学院、北京农业大学读作物栽培硕士，1987 年参加工作，任农科院作物所玉米研究室副主任，1988 年入党，1991 年到英国洛桑试验站做访问学者。
+        此后任土肥所所长、农科院副院长、常务副院长，1997 年获中国农业大学农学博士。
+      cites: [b07-mj-2012-11-16-sun-resume, wd-Q72870]
+    - h: 顺义与北京市委
+      from: 1997
+      to: 2006
+      text: >-
+        1997 年任顺义县代县长、县长，撤县设区后任区长，2002 年任顺义区委书记、北京市委常委，同年转任市委秘书长兼市直机关工委书记。法院后来认定，他的受贿从 2002 年任顺义区委书记时开始。
+        《纽约时报》引李成等分析人士说，他是与江泽民关系亲密的贾庆林的门生，也有人说温家宝可能是他的另一位庇护人。
+      cites: [b07-mj-2012-11-16-sun-resume, b07-xinhua-2018-05-08-sun-sentence, b07-nyt-2012-11-26-leaders]
+    - h: 农业部与吉林
+      from: 2006
+      to: 2012
+      text: >-
+        2006 年底任农业部部长，2009 年底调任吉林省委书记，次年兼任省人大常委会主任。2010 年夏吉林发生严重洪灾，造成 47 人遇难，他因此面临危机。
+        他常讲自己对农村的感情：2007 年在江西参观革命旧址时收到两张 1934 年红军向农民借粮的欠条，2009 年他对新华社记者说，从那以后一直把欠条放在钱包里。
+      cites: [b07-mj-2012-11-16-sun-resume, wd-Q72870, b07-nyt-2012-11-26-leaders]
+    - h: 重庆五年
+      from: 2012-11
+      to: 2016
+      text: >-
+        2012 年十八大进入政治局，成为少有的“60后”委员，11 月出任重庆市委书记。《纽约时报》指出他和胡春华都不是太子党，与习近平的关系也不清楚。
+        《联合早报》引评论人陈杰人说，他主政重庆五年作风谨慎、温和，让重庆“平稳过渡”，但经济社会发展并无特别突出的成就。
+      cites: [b07-bbc-2018-04-12-sun-trial, wd-Q72870, b07-nyt-2012-11-26-leaders, b07-zaobao-2017-07-16-sun]
+    - h: 巡视“回头看”
+      from: 2016-11
+      to: 2017-07
+      text: >-
+        2016 年 11 月至 2017 年 1 月，中央第十一巡视组对重庆开展巡视“回头看”。2 月反馈会上指出党的领导弱化、选人用人把关不严、上轮问题整改不到位、清除“薄、王”思想遗毒不彻底，孙政才表态“严肃对待、诚恳接受、照单全收、坚决整改”。
+        4 月底，与他关系要好的副市长何挺被查。据《纽约时报》报道，他被拿下前五天还公开表态效忠习近平。
+      cites: [b07-ccdi-2017-02-13-chongqing-inspection, b07-zaobao-2017-07-16-sun, b07-nyt-2017-07-24-sun-fall]
+    - h: 十九大前落马
+      from: 2017-07
+      to: 2017-09
+      text: >-
+        2017 年 7 月 14 日中央决定将他调离重庆，次日由习近平旧部陈敏尔接任；官方通报没有说他“另有任用”。7 月 24 日立案审查，9 月 29 日被开除党籍、公职，通报列举他“严重违反党的政治纪律和政治规矩”，“讲排场、搞特权”，泄露组织秘密，并“搞权色交易”。
+        学者林和立对《卫报》说，他的调查结束得异常快。
+      cites: [b07-xinhua-2017-09-29-sun-expulsion, b07-zaobao-2017-07-16-sun, b07-ccdi-2017-07-24-sun-investigation, b07-guardian-2017-09-30-sun]
+    - h: 天津受审
+      from: 2018-04
+      to: 2018-05
+      text: >-
+        2018 年 4 月 12 日天津一中院公开开庭，检方指控他 2002–2017 年单独或伙同特定关系人收受财物 1.7 亿余元。他在最后陈述中说自己“咎由自取、罪有应得”。开庭前两天，《重庆日报》称“孙政才和薄熙来把对党忠诚当成口号喊”。
+        5 月 8 日被判无期徒刑；法院称大部分财物由特定关系人直接收受，他主动交代了部分未掌握的事实。他当庭表示不上诉。
+      cites: [b07-court-2018-04-12-sun-trial, b07-bbc-2018-04-12-sun-trial, b07-xinhua-2018-05-08-sun-sentence, b07-bbc-2018-05-08-sun-sentence]
+    - h: 官方定性与外界解读
+      from: 2017
+      to: 2018
+      text: >-
+        官方把他与薄熙来、周永康、令计划、徐才厚、郭伯雄并列，刘士余称这些人“既巨贪又巨腐、又阴谋篡党夺权”。《卫报》指出，他到重庆的任务之一是清除薄熙来的影响，却在巡视中被点名未能完成。
+        学者吴强对《纽约时报》说，他“是个牺牲品”，习近平借此表明自己不受上一代领导人定下的晋升次序约束；傅士卓则说他只是在错误的地方出现的错误的人。
+      cites: [b07-bbc-2018-04-12-sun-trial, b07-guardian-2017-09-30-sun, b07-nyt-2017-07-24-sun-fall]
+  assess:
+    - voice: doc
+      quote: true
+      text: 孙政才的行为完全背离了党性原则，严重违背了党中央对高级干部提出的政治要求，辜负了党中央的信任和人民的期待
+      cite: b07-xinhua-2017-09-29-sun-expulsion
+    - voice: official
+      quote: true
+      text: 这些人在党内位高权重，既巨贪又巨腐、又阴谋篡党夺权
+      cite: b07-bbc-2018-04-12-sun-trial
+    - voice: scholar
+      quote: true
+      text: 孙政才是个牺牲品，这是向全党发出的信息
+      cite: b07-nyt-2017-07-24-sun-fall
+    - voice: scholar
+      quote: true
+      text: Sun Zhengcai’s major problem was not corruption or womanising but failure to profess full loyalty to Xi Jinping
+      zh: 孙政才的主要问题不是腐败或玩弄女性，而是没能对习近平表示完全的忠诚。（林和立）
+      cite: b07-guardian-2017-09-30-sun
+  cites: [b07-mj-2012-11-16-sun-resume, b07-xinhua-2017-09-29-sun-expulsion, b07-xinhua-2018-05-08-sun-sentence, b07-ccdi-2017-02-13-chongqing-inspection, b07-nyt-2017-07-24-sun-fall, wd-Q72870]
+
+- id: chen-liangyu
+  name: 陈良宇
+  pinyin: Chén Liángyǔ
+  gender: m
+  ethnicity: 汉族
+  born: 1946-10-24
+  birthplace: 上海
+  origin: 浙江宁波
+  education:
+    - { school: 解放军后勤工程学院建筑系结构专业, from: 1963, to: 1968 }
+    - { school: 英国伯明翰大学公共政策学院, from: 1992-01, to: 1992-09 }
+  joinedParty: 1980-04
+  joinedWork: 1963-08
+  roles: [pb, cc, prov, tiger]
+  status: purged
+  statusNote: 2008 年 4 月被判有期徒刑十八年；按刑期推算应已届满，但未见官方公布他获释的消息。
+  verify: true
+  fall:
+    - { date: 2006-09-24, text: 中央政治局会议决定免去上海市委书记职务，停止其政治局委员、中央委员职务，由中央纪委立案检查, cite: b07-xinhua-2006-09-25-chen-removal }
+    - { date: 2007-07-26, text: 中央政治局会议决定开除党籍、开除公职，移送司法机关, cite: b07-xinhua-2007-07-26-chen-expulsion }
+    - { date: 2007-10-12, text: 十六届七中全会确认开除党籍处分, cite: b07-xinhua-2008-04-11-chen-sentence }
+    - { date: 2008-03-25, text: 天津市第二中级人民法院开庭审理, cite: b07-xinhua-2008-04-11-chen-sentence }
+    - { date: 2008-04-11, text: 以受贿罪、滥用职权罪一审判处有期徒刑十八年，没收个人财产三十万元, cite: b07-xinhua-2008-04-11-chen-sentence }
+  tier: 1
+  headline: 中央政治局委员、上海市委书记（2002–2006），2008 年被判有期徒刑十八年
+  ids: { wikidata: Q715087 }
+  factions:
+    - f: jiang-shanghai
+      cite: b07-bbc-2006-10-08-chen-shanghai-gang
+      quote: '报道还评论认为，陈良宇下台严重削弱了所谓"上海帮" - 也就是江泽民的亲信和门徒的势力。'
+  bio: >-
+    籍贯浙江宁波，军队院校毕业后在上海工厂起家，历任黄浦区长、上海市委副书记、副市长、市长，2002 年任上海市委书记并进入政治局。
+    2006 年 9 月因上海社保基金违规案被免职、立案，2007 年被开除党籍，2008 年天津二中院以受贿、滥用职权罪判处有期徒刑十八年，是继陈希同之后第二位因腐败受审的政治局委员。
+    外媒普遍把他看作江泽民“上海帮”的干将，认为他下台是胡锦涛打击江系、巩固权力的一步；官方否认此案与高层权力斗争有关。
+  positions:
+    - { title: 上海市黄浦区区长, sys: gov, place: 上海, from: 1987-02, to: 1992-10, cite: b07-xinhua-2002-11-16-chen-resume }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 1992-12, to: 2002-10, cite: b07-xinhua-2002-11-16-chen-resume }
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 1996-10, to: 2001-12, cite: b07-xinhua-2002-11-16-chen-resume }
+    - { title: 上海市代市长、市长, sys: gov, place: 上海, from: 2001-12, to: 2003-02, cite: wd-Q715087 }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2002-10, to: 2006-09, cite: b07-xinhua-2002-11-16-chen-resume }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2006-09, cite: b07-xinhua-2006-09-25-chen-removal }
+  life:
+    - h: 军校与工厂
+      from: 1946
+      to: 1985
+      text: >-
+        1946 年 10 月生，籍贯浙江宁波。1963 年考入解放军后勤工程学院建筑系结构专业，1968 年到 6716 部队当兵锻炼，1970 年进入上海彭浦机器厂，从工人、设计员做到基建科副科长、副厂长，其间在同济大学进修，1980 年入党。
+        1983 年起先后任上海冶金矿山机械公司党委副书记、上海电器公司党委书记，1985 年调任市委老干部局副局长、局长。
+      cites: [b07-xinhua-2002-11-16-chen-resume, wd-Q715087]
+    - h: 黄浦区与市委
+      from: 1987
+      to: 2001
+      text: >-
+        1987 年任黄浦区委副书记、区长，主持旧城改造，1992 年曾到英国伯明翰大学学习，同年升任市委副秘书长、市委副书记，1996 年兼任副市长。
+        法院后来认定，他从 1988 年起就利用黄浦区长等职务为上海新黄浦集团、申花足球俱乐部等谋利；《光明网》转载的庭审纪实说，港商杨崧才在闽江饭店拆迁中靠他帮助获利 2100 万元，并多次向他行贿。
+      cites: [b07-xinhua-2002-11-16-chen-resume, b07-xinhua-2008-04-11-chen-sentence, b07-gmw-2008-04-27-chen-trial]
+    - h: 市长与市委书记
+      from: 2001-12
+      to: 2006
+      text: >-
+        2001 年 12 月任代市长，2002 年 2 月任市长，10 月接任市委书记，11 月十六大进入政治局。2005 年他在动拆迁会议上说，“大动迁是城市大发展的需要，也是执政为民的需要”，要求“视发展机遇为生命、待动迁居民如亲人”。
+        香港学者邱震海对美国之音说，据内部消息，2004 年他曾在政治局会议上公开顶撞温家宝的宏观调控，把上海搞成“独立王国”。
+      cites: [b07-xinhua-2002-11-16-chen-resume, b07-gov-2005-11-27-chen-relocation, b07-voa-2006-09-27-chen-qiu]
+    - h: 社保案与免职
+      from: 2006-07
+      to: 2006-09
+      text: >-
+        2006 年 7 月 5 日起，中纪委调查上海市劳动和社会保障局违规运营社保基金问题，发现时任市委书记的陈良宇涉嫌严重违纪；8 月 24 日政治局常委会决定初核。9 月 24 日政治局会议认定他涉及“违规使用社保资金、为一些不法企业主谋取利益”、袒护身边工作人员、为亲属谋利等问题，决定免职并立案检查。
+        庭审纪实说，这场社保风暴波及上海政要、国企高管和民营富豪近 30 人。
+      cites: [b07-xinhua-2007-07-26-chen-expulsion, b07-xinhua-2006-09-25-chen-removal, b07-gmw-2008-04-27-chen-trial]
+    - h: 开除党籍
+      from: 2007-07
+      to: 2007-10
+      text: >-
+        2007 年 7 月 24 日上海市人大常委会罢免他的全国人大代表职务，26 日中央政治局决定开除党籍、公职。中纪委副书记夏赞忠说，他支持社保局违规把巨额社保基金贷给不法企业主，帮助不法企业主收购国有股权，并“道德败坏，利用职权玩弄女性，搞权色交易”。
+        10 月，十六届七中全会确认开除党籍处分。
+      cites: [b07-xinhua-2007-07-26-chen-expulsion, b07-xinhua-2008-04-11-chen-sentence]
+    - h: 天津受审
+      from: 2008-03
+      to: 2008-04
+      text: >-
+        2008 年 3 月 25 日在天津二中院受审，庭审纪实说，现场没有媒体记者和家属，检方指控受贿、滥用职权、玩忽职守三项罪名。他在最后陈述中说：“我对不起党，对不起上海人民，对不起我的家人。”
+        4 月 11 日一审认定他受贿 239 万余元，违规让福禧投资低价收购路桥股权，为弟弟陈良军违规征地，并致 10 亿元社保基金被违规动用，判处有期徒刑十八年。路透社引其律师说，法院没有认定玩忽职守罪，他庭上对部分指控不认罪。
+      cites: [b07-gmw-2008-04-27-chen-trial, b07-xinhua-2008-04-11-chen-sentence, b07-reuters-2008-04-11-chen-jailed]
+    - h: 上海帮的挫败
+      from: 2006
+      to: 2008
+      text: >-
+        BBC 引述报道说，上海是江泽民的根据地，胡锦涛借此机会“铲除贪污腐败官员，安插自己的亲信”。香港城市大学郑宇硕说：“这意味着胡锦涛现在可以说是大权在握，江泽民时代已经结束。”
+        邱震海则认为不能完全用权力斗争解释此案，曾庆红、吴邦国等人仍在中央。官方舆论强调反腐决心，否认此事与高层权力斗争有关。
+      cites: [b07-bbc-2006-10-08-chen-shanghai-gang, b07-voa-2006-09-27-chen-qiu]
+  assess:
+    - voice: doc
+      quote: true
+      text: 陈良宇的行为严重违反了党纪政纪，给国家和人民的利益造成重大损失，给党的形象带来严重损害，社会影响极其恶劣
+      cite: b07-xinhua-2007-07-26-chen-expulsion
+    - voice: official
+      quote: true
+      text: 陈良宇被依法惩处，体现了中共中央加强党风廉政建设、坚决惩治腐败的坚强决心和鲜明态度
+      cite: b07-xinhua-2008-04-11-chen-sentence
+    - voice: scholar
+      quote: true
+      text: 不可否认，陈良宇下台这里面有权力斗争的影子，因为所谓的上海帮以陈良宇和黄菊为代表的都是江泽民提拔的人
+      cite: b07-voa-2006-09-27-chen-qiu
+    - voice: west
+      quote: true
+      text: Chen, widely seen as a close associate of former president Jiang Zemin, pleaded not guilty to some of the charges during his March 25 trial
+      zh: 普遍被视为前国家主席江泽民亲信的陈良宇，在 3 月 25 日的庭审中对部分指控不认罪。
+      cite: b07-reuters-2008-04-11-chen-jailed
+  family:
+    - name: 黄毅玲
+      rel: 妻
+      text: >-
+        庭审纪实说，她到了天津二中院，但“因为自身同案情有关联”，没能进入法庭。
+      cites: [b07-gmw-2008-04-27-chen-trial]
+    - name: 陈良军
+      rel: 弟
+      text: >-
+        法院认定，陈良宇明知弟弟不具备土地开发资质，仍同意有关部门为他违规征地 537 亩，陈良军最终违规获得 354 亩土地使用权，变相倒卖后非法获利 1.18 亿元，给国家造成直接损失 3441 万余元。
+      cites: [b07-xinhua-2008-04-11-chen-sentence]
+  cites: [b07-xinhua-2002-11-16-chen-resume, b07-xinhua-2006-09-25-chen-removal, b07-xinhua-2007-07-26-chen-expulsion, b07-xinhua-2008-04-11-chen-sentence, b07-bbc-2006-10-08-chen-shanghai-gang, wd-Q715087]

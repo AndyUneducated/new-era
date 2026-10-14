@@ -1,0 +1,517 @@
+# B06: the 19th-20th standing committee — Han Zheng, Li Qiang, Cai Qi, Ding Xuexiang, Li Xi.
+- id: han-zheng
+  name: 韩正
+  pinyin: Hán Zhèng
+  gender: m
+  ethnicity: 汉族
+  born: 1954-04-22
+  birthplace: 上海
+  origin: 浙江慈溪
+  education:
+    - { school: 华东师范大学国际问题研究所国际关系与世界经济专业, degree: 经济学硕士（在职）, from: 1991, to: 1994 }
+  joinedParty: 1979-05
+  joinedWork: 1975-12
+  roles: [psc, pb, cc]
+  status: active
+  statusNote: 2022 年二十大退出政治局常委会，2023 年 3 月当选国家副主席；2026 年 9 月仍以国家副主席身份出席联合国大会。
+  tier: 1
+  headline: 国家副主席（2023–）、前国务院常务副总理
+  ids: { wikidata: Q48405 }
+  factions:
+    - f: jiang-shanghai
+      cite: b06-bbc-2014-09-23-shanghai-gang
+      quote: 有人把现任上海市委书记韩正视为是“上海帮”今天的代表人物
+    - f: tuanpai
+      cite: b06-rti-2017-han-shanghai
+      quote: 但他入黨後曾在共青團系統工作，也被視為團派
+  bio: >-
+    从仓库管理员起步、四十多年不离上海的地方官员，团市委书记出身，2003 年起任上海市长近十年。2006 年陈良宇被查后代理市委书记，2007 年习近平到任后退回市长，2012 年再任市委书记。
+    外界常把他归入“上海帮”，但他先后与习近平、俞正声共事而未受清洗。2017 年入常，2018–2023 年任常务副总理，分管港澳；2022 年退出常委会后于 2023 年当选国家副主席，多次作为习近平特别代表出访。
+  positions:
+    - { title: 共青团上海市委书记, sys: party, place: 上海, from: 1991, to: 1992, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 上海市卢湾区区长, sys: gov, place: 上海, from: 1992, to: 1995, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 上海市计委主任, sys: gov, place: 上海, from: 1995, to: 1998, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 1998-02, to: 2003-02, cite: b06-chinanews-2006-09-25-han-acting }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 2003-02, to: 2012, cite: b06-chinanews-2006-09-25-han-acting }
+    - { title: 上海市委代理书记, sys: party, place: 上海, from: 2006-09, to: 2007-03, cite: b06-chinanews-2006-09-25-han-acting }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2012-11, to: 2017-10, cite: b06-bbc-2017-10-25-19th-psc }
+    - { title: 中央政治局委员, sys: party, from: 2012-11, to: 2017-10, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 中央政治局常委, sys: party, from: 2017-10, to: 2022-10, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 国务院副总理, sys: gov, from: 2018-03, to: 2023-03, cite: b06-xinhua-2018-03-19-han-resume }
+    - { title: 国家副主席, sys: gov, from: 2023-03, cite: b06-gov-2023-03-10-han-vp }
+  life:
+    - h: 工厂与共青团
+      from: 1975
+      to: 1992
+      text: >-
+        1975 年在上海徐汇起重安装队当仓库管理员，此后在化工系统做团的工作，边工作边读书，先后在复旦大学大专班、华东师大夜大学和研究生班学习。1987 年任上海胶鞋六厂党委书记、副厂长。
+        台湾中央广播电台引中央社报道说，时任上海市委书记、市长朱镕基到厂抽查时对他印象很好，随后提拔他任团市委副书记；1991 年他升任团市委书记。该报道因此认为，他虽被外界归为上海帮，也被视为团派。
+      cites: [b06-xinhua-2018-03-19-han-resume, b06-rti-2017-han-shanghai]
+    - h: 从卢湾到市长
+      from: 1992
+      to: 2006
+      text: >-
+        1992 年起任卢湾区代区长、区长，1995 年任市政府副秘书长兼市计委主任，1997 年进入市委常委会，1998 年当选副市长，2002 年任市委副书记、常务副市长。
+        2003 年 2 月在市人大会议上当选市长；据台湾中央广播电台报道，当时他不满 49 岁，是上海五十多年来最年轻的市长。任内兼任 2010 年上海世博会执行委员会负责人。
+      cites: [b06-xinhua-2018-03-19-han-resume, b06-chinanews-2006-09-25-han-acting, b06-rti-2017-han-shanghai]
+    - h: 陈良宇案与代理书记
+      from: 2006
+      to: 2007
+      text: >-
+        2006 年 9 月 24 日，政治局会议决定对上海市委书记陈良宇立案检查，指其涉及违规使用社保资金等问题；中央同时决定由市长韩正代理市委书记。BBC 中文指出，海外媒体把陈良宇被撤职视为胡锦涛以反腐为名对上海帮动手的开始。
+        2007 年 3 月习近平由浙江调任上海市委书记，韩正不再代理书记、回到市长岗位。台湾中央广播电台形容他处境尴尬，但全力配合习近平，两人共事约八个月。
+      cites: [b06-chinanews-2006-09-25-han-acting, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai]
+    - h: 上海市委书记
+      from: 2012
+      to: 2017
+      text: >-
+        习近平调京后，俞正声接任上海市委书记，韩正继续任市长。2012 年十八大后，他升任上海市委书记并进入政治局，任内推动中国首个自贸区和科技创新中心建设。
+        BBC 中文 2014 年引评论人士高新的话说，有人把他视为上海帮今天的代表人物，但他在习近平、俞正声先后主政上海时期已经“考验过关了”。台湾中央广播电台则说，习近平掌权后在上海持续清理江派，而韩正始终未被撼动。
+      cites: [b06-bbc-2017-10-25-19th-psc, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai, b06-xinhua-2018-03-19-han-resume]
+    - h: 常委与常务副总理
+      from: 2017
+      to: 2023
+      text: >-
+        2017 年十九大进入政治局常委会，2018 年 3 月任国务院副总理、党组副书记，即外界所说的常务副总理，此职位此前由张高丽担任。他分管港澳事务。
+        2019 年香港修例风波期间，他 11 月在北京会见林郑月娥，称“止暴制乱、恢复秩序仍然是香港当前最重要的任务”，并表示中央对林郑月娥和香港警队的表现“是充分肯定的”。他同时表示中央坚定支持特区政府采取更积极、更有效的举措，解决中低收入家庭和年轻人的住房、就业等民生问题。
+      cites: [b06-xinhua-2018-03-19-han-resume, b06-bbc-2022-10-23-psc, b06-xinhua-2019-11-06-han-lam]
+    - h: 国家副主席
+      from: 2022
+      text: >-
+        2022 年二十大，他未进入新一届常委会。2023 年 3 月 10 日，十四届全国人大一次会议选举他为国家副主席。
+        此后他多次作为习近平主席特别代表出访：2025 年 1 月在华盛顿出席特朗普就职典礼，会见当选副总统万斯和特斯拉首席执行官马斯克，对美国工商界代表说希望美国企业继续投资中国、扎根中国。
+        2026 年 3 月访问肯尼亚，会见总统鲁托，推介中方自 5 月 1 日起对 53 个非洲建交国全面实施的零关税措施；5 月在北京全球贸易投资促进峰会上提出维护多边贸易体制等 4 点建议；9 月在纽约出席联大期间会见联合国秘书长古特雷斯，并在全球发展倡议 5 周年高级别对话会上宣读习近平贺信。
+      cites: [b06-bbc-2022-10-23-psc, b06-gov-2023-03-10-han-vp, b06-gov-2023-03-10-state-leaders, b06-gov-2025-01-21-han-inauguration, b06-embassy-2026-03-25-han-kenya, b06-xinhua-2026-05-18-han-summit, b06-mfa-2026-09-26-han-un]
+  assess:
+    - voice: zh
+      quote: true
+      text: 高新说，有人把现任上海市委书记韩正视为是“上海帮”今天的代表人物。但韩正是在习近平、俞正声先后掌管上海市时期已经“考验过关了”的。
+      cite: b06-bbc-2014-09-23-shanghai-gang
+    - voice: zh
+      quote: true
+      text: 韓正被視為江派，不利他的傳聞也未間斷，但韓正至今屹立不搖，顯見其政治底蘊與智慧確有過人之處。
+      cite: b06-rti-2017-han-shanghai
+    - voice: zh
+      quote: true
+      text: 韩正的主要政治生涯都在上海度过，其主要政绩集中在经济改革、城市治理领域。
+      cite: b06-bbc-2017-10-25-19th-psc
+  cites: [b06-xinhua-2018-03-19-han-resume, b06-gov-2023-03-10-han-vp, b06-bbc-2014-09-23-shanghai-gang, b06-rti-2017-han-shanghai, wd-Q48405]
+
+- id: li-qiang
+  name: 李强
+  pinyin: Lǐ Qiáng
+  gender: m
+  ethnicity: 汉族
+  born: 1959-07-23
+  birthplace: 浙江瑞安
+  origin: 浙江瑞安
+  education:
+    - { school: 浙江农业大学宁波分校农机系农机化专业, from: 1978, to: 1982 }
+    - { school: 中央党校在职研究生班世界经济专业, from: 2001, to: 2004 }
+    - { school: 香港理工大学管理学院, degree: 高级管理人员工商管理硕士, from: 2003, to: 2005 }
+  joinedParty: 1983-04
+  joinedWork: 1976-07
+  roles: [psc, pb, cc]
+  status: active
+  statusNote: 2023 年 3 月起任国务院总理；2026 年 3 月作政府工作报告，6 月在大连出席夏季达沃斯论坛。
+  tier: 1
+  headline: 国务院总理（2023–）、中央政治局常委（排名第二）
+  ids: { wikidata: Q4414390 }
+  factions:
+    - f: zhijiang
+      cite: b06-voa-2022-10-23-li-qiang
+      quote: 担任时任省委书记习近平的省委秘书长，成为后来的习近平派系“之江新军”中的一员大将
+  bio: >-
+    温州瑞安人，工人出身，在浙江民政、工商系统和温州任职多年，2004 年起任习近平主政浙江时的省委秘书长，被视为“之江新军”的核心人物。
+    习近平掌权后，他先后任浙江省长、江苏和上海市委书记。2022 年主持上海约两个月的封城，外界普遍认为这会影响他的仕途，但同年他在二十大上排名第二，2023 年出任总理。他是没有中央工作经历、也未当过副总理而直接出任总理的少数例子。任内取消了延续三十多年的总理记者会。
+  positions:
+    - { title: 共青团瑞安县委书记, sys: party, place: 浙江, from: 1984, to: 1984, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 浙江省民政厅副厅长, sys: gov, place: 浙江, from: 1992, to: 1996, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 永康市委书记, sys: party, place: 浙江, from: 1996, to: 1998, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 浙江省工商行政管理局局长, sys: gov, place: 浙江, from: 2000, to: 2002, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 温州市委书记, sys: party, place: 浙江, from: 2002, to: 2004, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 浙江省委秘书长, sys: party, place: 浙江, from: 2004-11, to: 2012, cite: b06-voa-2022-10-23-li-qiang }
+    - { title: 浙江省省长, sys: gov, place: 浙江, from: 2012-12, to: 2016, cite: b06-voa-2022-10-23-li-qiang }
+    - { title: 江苏省委书记, sys: party, place: 江苏, from: 2016, to: 2017-10, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: b06-xinhua-2017-10-25-li-qiang-resume }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 2017-10, to: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 中央政治局常委, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 国务院总理, sys: gov, from: 2023-03, cite: b06-gov-2023-03-12-li-qiang-resume }
+  life:
+    - h: 瑞安的工人
+      from: 1976
+      to: 1984
+      text: >-
+        1976 年在瑞安县马屿区机电排灌站当职工，后到县工具三厂做工。1978 年考入浙江农业大学宁波分校农机系，1982 年毕业后回瑞安做团的工作，1984 年任团县委书记。BBC 中文介绍他时第一句就是：“李强曾是一名工人”。
+      cites: [b06-xinhua-2017-10-25-li-qiang-resume, b06-bbc-2022-10-23-psc]
+    - h: 民政厅到温州
+      from: 1984
+      to: 2004
+      text: >-
+        1984 年调浙江省民政厅，在农村救济处一路做到处长，1992 年任副厅长。1996 年任金华市委常委、永康市委书记，1998 年任省政府办公厅副主任，2000 年任省工商局局长，2002 年任温州市委书记。
+        温州是中国民营经济最发达的地方之一，2023 年记者会上新加坡《联合早报》记者提问时特别提到他这段经历。
+      cites: [b06-xinhua-2017-10-25-li-qiang-resume, b06-gov-2023-03-13-li-qiang-presser]
+    - h: 习近平的省委秘书长
+      from: 2004
+      to: 2012
+      text: >-
+        2004 年 11 月，他出任时任省委书记习近平的省委秘书长，次年进入省委常委会。美国之音称这是他仕途的重大转折点，他由此成为后来“之江新军”中的一员大将。BBC 中文写道，两人“常常工作到深夜，给上级留下深刻印象”。
+        《卫报》说，那几年他实际上是习近平最主要的私人助手，陪同习近平外出考察、修改讲稿。2007 年习近平调走后，他继续任秘书长至 2012 年，其间兼任省委副书记、政法委书记。
+      cites: [b06-voa-2022-10-23-li-qiang, b06-bbc-2023-03-04-li-qiang-deputy, b06-guardian-2022-10-24-li-qiang, b06-xinhua-2017-10-25-li-qiang-resume]
+    - h: 浙江省长与江苏
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年 12 月 21 日，他接替夏宝龙任浙江代省长，2013 年 1 月转正。《纽约时报》指出，这是习近平成为最高领导人仅两个月后作出的任命。2016 年他调任江苏省委书记。BBC 中文报道，他曾与阿里巴巴创始人马云等企业高管会面，就营商环境征求意见。
+      cites: [b06-voa-2022-10-23-li-qiang, b06-nytcn-2023-03-14-li-qiang, b06-bbc-2023-03-04-li-qiang-deputy]
+    - h: 上海与封城
+      from: 2017
+      to: 2022
+      text: >-
+        2017 年十九大进入政治局，任上海市委书记。2022 年春奥密克戎疫情暴发，上海坚持“动态清零”，将 2500 万人封控在家约两个月。4 月他在《新闻联播》上表示坚持“动态清零”总方针不动摇，又说“我相信历史会记住为这座城市坚守和付出的所有人”。
+        BBC 中文报道，封城导致上海民生危机频发，他在居民区视察时还罕见地被情绪激动的居民当面斥责。
+      cites: [b06-cctv-2022-04-17-shanghai-zero, b06-nytcn-2023-03-14-li-qiang, b06-bbc-2022-10-23-psc]
+    - h: 封城后反升总理
+      from: 2022
+      to: 2023
+      text: >-
+        外界原本认为封城会影响他的仕途，但 2022 年 10 月二十大上，他紧随习近平之后出场，排名第二。美国之音写道，上海许多人相信封城的决定是中央而非李强作出的，他只是忠实执行“清零”，而这份忠诚在二十大上得到回报。
+        《纽约时报》认为，他在上海防疫上的转向显示出对习近平的忠诚。BBC 中文引学者张扬指出，他将是第一个没有中央工作经验、从地方直接升任的总理，也是周恩来之后唯一没有当过副总理的总理。2023 年 3 月十四届全国人大一次会议上，他出任国务院总理。
+      cites: [b06-bbc-2022-10-23-psc, b06-voa-2022-10-23-li-qiang, b06-nytcn-2023-03-14-li-qiang, b06-guardian-2022-10-24-li-qiang, b06-gov-2023-03-12-li-qiang-resume]
+    - h: 总理任内与取消记者会
+      from: 2023
+      text: >-
+        2023 年 3 月 13 日首场记者会上，他说去年社会上“有一些不正确的议论”，使民营企业家感到忧虑，并要求官员“不能光踩刹车、不踩油门”。但这也是最后一场：2024 年 3 月 4 日，人大发言人娄勤俭宣布当年及本届人大余下几年都不再举行总理记者会。
+        《联合早报》称，这打破了延续 30 多年的惯例；据中央社梳理，这一做法始于 1988 年李鹏，1993 年起成为常态，中国网民讥讽为“演都不演了”。此后他继续主持国务院：外交部 2025 年 11 月宣布，他将出席莫斯科上合组织总理会议、访问赞比亚并赴约翰内斯堡出席 G20 峰会；2026 年 3 月的政府工作报告把当年增长目标定为 4.5%－5%；6 月在大连出席夏季达沃斯论坛。
+      cites: [b06-gov-2023-03-13-li-qiang-presser, b06-zaobao-2024-03-04-no-presser, b06-cna-2024-03-04-no-presser, b06-gov-2025-11-13-li-qiang-trip, b06-gov-2026-03-05-gwr-digest, b06-mfa-2026-06-24-li-davos]
+  assess:
+    - voice: west
+      quote: true
+      text: Li’s appointment demonstrates that Xi places loyalty and trustworthiness above all else, according to analysts.
+      zh: 分析人士认为，李强的任命表明习近平把忠诚和可靠放在高于一切的位置。
+      cite: b06-guardian-2022-10-24-li-qiang
+    - voice: scholar
+      quote: true
+      text: The premier’s role in relation to Xi has changed into that of an executor of his decisions. What (Xi) needs is a strong implementer, and during the Shanghai lockdown, Li has proven himself as a loyal enforcer of Xi’s zero-Covid policy
+      zh: 总理相对于习近平的角色已变成其决策的执行者。习需要的是一个强有力的执行人，而在上海封城期间，李强已证明自己是习近平清零政策的忠实执行者。（前上海政法学院教授陈道银）
+      cite: b06-guardian-2022-10-24-li-qiang
+    - voice: zh
+      quote: true
+      text: 李强在上海防疫上的转向显示出他对习近平的忠诚，这一点似乎让他在过去20年里一直与这位最高领导人保持着密切联系，并最终使他在周六被提拔到总理位置。
+      cite: b06-nytcn-2023-03-14-li-qiang
+    - voice: scholar
+      quote: true
+      text: 李强将成为华国锋下台后，首位权力基础不再独立于党领导人的总理，他的权力基础恰恰来自于党的领导人。
+      cite: b06-bbc-2022-10-23-psc
+    - voice: zh
+      quote: true
+      text: 取消总理记者会代表高层持续收紧对媒体和信息管控，让中国扩大开放的承诺大打折扣，必将进一步冲击在华外企信心。
+      cite: b06-zaobao-2024-03-04-no-presser
+  cites: [b06-xinhua-2017-10-25-li-qiang-resume, b06-gov-2023-03-12-li-qiang-resume, b06-voa-2022-10-23-li-qiang, b06-guardian-2022-10-24-li-qiang, b06-nytcn-2023-03-14-li-qiang, wd-Q4414390]
+
+- id: cai-qi
+  name: 蔡奇
+  pinyin: Cài Qí
+  gender: m
+  ethnicity: 汉族
+  born: 1955-12-05
+  birthplace: 福建尤溪
+  origin: 福建尤溪
+  education:
+    - { school: 福建师范大学政教系政教专业, from: 1975, to: 1978 }
+    - { school: 福建师范大学经济法律学院政治经济学专业, degree: 经济学博士（在职）, from: 1998, to: 2001 }
+  joinedParty: 1975-08
+  joinedWork: 1973-03
+  roles: [psc, pb, sec, cc]
+  status: active
+  statusNote: 中央书记处书记（排名第一）、中央办公厅主任，2026 年 6 月起兼任中央党校（国家行政学院）校长（院长）；2026 年 9 月仍以中办主任身份陪同习近平访美。
+  tier: 1
+  headline: 中央政治局常委、中央书记处书记（排名第一）、中央办公厅主任
+  ids: { wikidata: Q3370201 }
+  factions:
+    - f: fujian
+      cite: b06-bbc-2022-09-psc-candidates
+      quote: 北京市委书记蔡奇同样是习近平在福建和浙江的旧部
+    - f: zhijiang
+      cite: b06-guardian-2022-10-24-li-qiang
+      quote: Li, together with Cai Qi and Li Xi who also ascended to the powerful Standing Committee on Sunday, are part of the so-called “New Zhijiang Army” who worked under Xi in Zhejiang province
+      zh: 李强与同日进入常委会的蔡奇、李希，都属于所谓“之江新军”——习近平主政浙江时的部下
+    - f: xi-jiajun
+      cite: b06-cna-2026-06-06-cai-party-school
+      quote: 鞏固其作為中共總書記習近平親信的地位
+  bio: >-
+    在福建省委办公厅工作二十多年后调往浙江，历任衢州、台州、杭州主官和省委组织部长，前后与习近平在福建、浙江两地共事。2014 年调入中央国安办，2016 年起主政北京，2017 年未当过中央委员即直接进入政治局。
+    北京任内因大兴火灾后的清理行动引发“低端人口”争议，也主持了 2022 年冬奥会。二十大后进入常委会，任书记处第一书记，并以常委身份兼任中办主任，2026 年又兼任中央党校校长，被外媒称为习近平实际上的幕僚长。
+  positions:
+    - { title: 福建省委办公厅副主任, sys: party, place: 福建, from: 1993, to: 1996, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 三明市市长, sys: gov, place: 福建, from: 1997, to: 1999, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 衢州市市长, sys: gov, place: 浙江, from: 1999, to: 2002, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 衢州市委书记, sys: party, place: 浙江, from: 2002, to: 2004, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 台州市委书记, sys: party, place: 浙江, from: 2004, to: 2007, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 杭州市市长, sys: gov, place: 浙江, from: 2007, to: 2010, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 浙江省委组织部部长, sys: party, place: 浙江, from: 2010, to: 2013, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 浙江省副省长, sys: gov, place: 浙江, from: 2013, to: 2014, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 中央国家安全委员会办公室副主任, sys: party, from: 2014, to: 2016, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 北京市市长, sys: gov, place: 北京, from: 2016, to: 2017, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 2017, to: 2022-10, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: b06-people-2017-10-25-cai-resume }
+    - { title: 中央政治局常委, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 中央书记处书记, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 中央办公厅主任, sys: party, from: 2023-03, cite: b06-zaobao-2023-03-20-cai-general-office }
+    - { title: 中央党校（国家行政学院）校长（院长）, sys: party, from: 2026-06, cite: b06-cna-2026-06-06-cai-party-school }
+  life:
+    - h: 福建省委办公厅
+      from: 1973
+      to: 1999
+      text: >-
+        1973 年到永安县西洋公社插队，1975 年入福建师范大学政教系，毕业后留校在党委办公室工作。1983 年调福建省委办公厅，历任综合处副处长、正处级秘书、省委办公厅副主任，1994 年起到三明挂职，后任三明市长。
+        这一时期习近平也在福建任职，BBC 中文称他是习近平在福建和浙江的旧部。
+      cites: [b06-people-2017-10-25-cai-resume, b06-bbc-2022-09-psc-candidates]
+    - h: 浙江十五年
+      from: 1999
+      to: 2014
+      text: >-
+        1999 年调浙江任衢州市长，此后历任衢州、台州市委书记、杭州市长；2010 年任省委常委、组织部部长，2013 年任副省长。习近平 2002 至 2007 年主政浙江，正与他的浙江任期重叠。
+        《卫报》把他与李强、李希一并列入所谓“New Zhijiang Army”，即习近平主政浙江时的部下。
+      cites: [b06-people-2017-10-25-cai-resume, b06-guardian-2022-10-24-li-qiang]
+    - h: 国安办与北京
+      from: 2014
+      to: 2017
+      text: >-
+        2014 年调任新成立的中央国家安全委员会办公室副主任，2015 年主持常务工作，2016 年任北京市委副书记、代市长，次年任市长、市委书记。2017 年十九大上，他在并非中央委员或候补委员的情况下直接进入政治局。
+        BBC 中文形容他“曾有着火箭般的官场跃升速度”。
+      cites: [b06-people-2017-10-25-cai-resume, b06-bbc-2022-10-23-psc, b06-bbc-2022-09-psc-candidates]
+    - h: 大兴火灾与“低端人口”
+      from: 2017-11
+      to: 2017-12
+      text: >-
+        2017 年 11 月 18 日晚，大兴区西红门镇新建二村发生火灾，19 人死亡、8 人受伤，死者中有 8 名儿童。蔡奇当晚赶赴现场，次日带领全体市领导在火灾现场开会，称火灾是安全生产的“灰犀牛”，部署为期 40 天的安全隐患大排查，要求“一家一家、一村一村地毯式摸排”；市长陈吉宁则要求“倒逼安全隐患突出的低端业态疏解腾退”。
+        一周之内全市排查上账的安全隐患达 25395 处，大批违章出租公寓的租户、主要是外来务工者，在寒冬中被要求搬离。网民认为这是在借机清理“低端人口”；北京市安委会负责人回应称这种说法“不负责任、毫无根据”，并称没有“低端人口”一说。《纽约时报》指出，批评者认为当局是以火灾为借口加速驱赶外来人口，而压减人口本是 2014 年习近平给北京定下的任务。
+      cites: [b06-people-2017-11-20-cai-fire, b06-qq-2017-11-26-no-low-end, b06-bbc-2017-11-28-beijing-evictions, b06-nytcn-2017-12-01-beijing-migrants]
+    - h: 冬奥与党代会
+      from: 2018
+      to: 2022
+      text: >-
+        他兼任北京冬奥组委主席，BBC 中文认为北京在疫情中成功举办冬奥会可能成为他仕途上的加分项。2022 年 6 月北京市第十三次党代会上，他在报告中称颂习近平，说“总书记非凡的雄才大略、远见卓识和领袖风范，让我们深受感召”，并说“只要有总书记定向引航，我们就有无穷的信心、无尽的力量”。报告同时总结五年来北京拆除违法建设超过 2 亿平方米，城六区常住人口比 2014 年下降 15%。
+      cites: [b06-people-2017-10-25-cai-resume, b06-bbc-2022-09-psc-candidates, b06-bj-2022-07-05-13th-congress-report]
+    - h: 常委兼中办主任
+      from: 2022-10
+      text: >-
+        2022 年二十大，他进入常委会，排名第五，同时任中央书记处书记，在七名书记中排名第一。BBC 中文认为，这使丁薛祥的未来职务一度成疑。
+        2023 年 3 月 20 日，《新闻联播》报道习近平访俄时称他为“中央办公厅主任”，这是他首次以中办主任身份公开亮相。《联合早报》指出，由政治局常委兼任中办主任的安排极为罕见，他由此成为中南海的“大内总管”。
+      cites: [b06-cppcc-2022-10-23-20th-resumes, b06-zaobao-2023-03-20-cai-general-office, b06-bbc-2022-10-23-psc]
+    - h: 中央党校校长
+      from: 2026
+      text: >-
+        2026 年 6 月 5 日，他首次以中央党校校长身份出席毕业典礼，接替陈希；6 月 18 日国务院公布他兼任国家行政学院院长。中央社引路透社报道，苏黎世大学学者认为这项任命把党的组织、论述和行政职能集中到一位常委身上，“史无前例”。
+        9 月 23 日，他仍以中办主任身份陪同习近平对美国进行国事访问。
+      cites: [b06-cna-2026-06-06-cai-party-school, b06-gov-2026-06-18-cai-nsa, b06-mfa-2026-09-23-xi-us-trip]
+  assess:
+    - voice: scholar
+      quote: true
+      text: 透過這項任命，他將共產黨的組織、論述和行政職能，全數集中在一位政治局常委身上
+      cite: b06-cna-2026-06-06-cai-party-school
+    - voice: zh
+      quote: true
+      text: 蔡奇目前身兼中共中央辦公廳主任等多項黨內要職，是習近平實際上的幕僚長。
+      cite: b06-cna-2026-06-06-cai-party-school
+    - voice: zh
+      quote: true
+      text: 批评北京市这项行动的人在文章和公开信中，指责北京市政府以火灾为借口，加速驱赶外来人口，这次专项行动之前，市政府一直未能减缓北京市人口的增长速度。
+      cite: b06-nytcn-2017-12-01-beijing-migrants
+    - voice: official
+      quote: true
+      text: 说专项行动是在驱赶“低端人口”，这是不负责任、毫无根据的，没有“低端人口”一说。
+      cite: b06-qq-2017-11-26-no-low-end
+  cites: [b06-people-2017-10-25-cai-resume, b06-cppcc-2022-10-23-20th-resumes, b06-bbc-2022-09-psc-candidates, b06-zaobao-2023-03-20-cai-general-office, b06-cna-2026-06-06-cai-party-school, wd-Q3370201]
+
+- id: ding-xuexiang
+  name: 丁薛祥
+  pinyin: Dīng Xuēxiáng
+  gender: m
+  ethnicity: 汉族
+  born: 1962-09-13
+  birthplace: 江苏南通
+  origin: 江苏南通
+  education:
+    - { school: 东北重型机械学院机械工程系锻压工艺及设备专业, from: 1978, to: 1982 }
+    - { school: 复旦大学管理学院行政管理专业, degree: 理学硕士（在职）, from: 1989, to: 1994 }
+  joinedParty: 1984-10
+  joinedWork: 1982-08
+  roles: [psc, pb, sec, cc]
+  status: active
+  statusNote: 国务院副总理（排名第一）、中央科技委员会主任；2026 年 9 月在符拉迪沃斯托克会见普京。
+  tier: 1
+  headline: 国务院副总理（排名第一，2023–）、中央政治局常委
+  ids: { wikidata: Q8292421 }
+  factions:
+    - f: mishu
+      cite: b06-cna-2023-03-12-ding-vp
+      quote: 丁薛祥現年60歲，長期在中共中央辦公廳工作，被稱為中共總書記習近平的幕僚長
+    - f: xi-shanghai
+      cite: b06-voa-2023-03-12-vice-premiers
+      quote: 丁薛祥2007年起担任时任上海市委书记习近平的办公室主任
+  bio: >-
+    机械工程师出身，在上海材料研究所工作十七年后转入政界，当过闸北区长和上海市委组织部副部长。2007 年任上海市委秘书长，成为习近平在上海短暂任职期间的政治秘书。
+    习近平当上国家主席后，他调任中办副主任兼国家主席办公室主任，2017 年任中办主任，长期被称为习近平的幕僚长。2022 年进入常委会，2023 年起任排名第一的国务院副总理，兼任中央科技委员会主任。
+  positions:
+    - { title: 上海材料研究所所长, sys: other, place: 上海, from: 1996, to: 1999, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市科委副主任, sys: gov, place: 上海, from: 1999, to: 2001, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市闸北区区长, sys: gov, place: 上海, from: 2001, to: 2004, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市委组织部副部长、市人事局局长, sys: party, place: 上海, from: 2004, to: 2006, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市委副秘书长、办公厅主任, sys: party, place: 上海, from: 2006, to: 2007, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市委常委、秘书长, sys: party, place: 上海, from: 2007, to: 2012, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 上海市委政法委书记, sys: party, place: 上海, from: 2012, to: 2013, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 中央办公厅副主任兼国家主席办公室主任, sys: party, from: 2013, to: 2017, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 2017-10, to: 2022-10, cite: b06-people-2017-10-25-ding-resume }
+    - { title: 中央办公厅主任, sys: party, from: 2017, to: 2022, cite: b06-bbc-2022-10-23-psc }
+    - { title: 中央政治局常委, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: b06-cna-2023-03-12-ding-vp }
+    - { title: 中央科技委员会主任, sys: party, from: 2024-06, cite: b06-gov-2024-06-25-ding-tech }
+  life:
+    - h: 材料所的工程师
+      from: 1978
+      to: 1999
+      text: >-
+        1978 年考入东北重型机械学院学锻压工艺，1982 年毕业分配到上海材料研究所九室当科研人员，后任所办公室主任、团委书记，在职读完复旦大学行政管理硕士，1994 年任副所长，1996 年任党委副书记、所长。他有教授级高级工程师职称。
+      cites: [b06-people-2017-10-25-ding-resume]
+    - h: 上海仕途
+      from: 1999
+      to: 2007
+      text: >-
+        1999 年任上海市科委副主任，2001 年任闸北区代区长、区长；2004 年任市委组织部副部长兼市人事局局长，2006 年任市委副秘书长、办公厅主任。中央社指出，除了近三年的闸北区长外，他没有地方一、二把手的经验。
+      cites: [b06-people-2017-10-25-ding-resume, b06-cna-2023-03-12-ding-vp]
+    - h: 习近平的政治秘书
+      from: 2007
+      to: 2013
+      text: >-
+        2007 年习近平短暂主政上海，45 岁的丁薛祥任市委常委、秘书长，BBC 中文说他由此成为“时任上海市委书记习近平的政治秘书”。两人共事不到一年习近平就调入中央，但 BBC 认为这段经历为他赢得了习近平的信任。2012 年他转任上海市委政法委书记。
+      cites: [b06-people-2017-10-25-ding-resume, b06-bbc-2022-10-23-psc, b06-voa-2023-03-12-vice-premiers]
+    - h: 中办与“习办”
+      from: 2013
+      to: 2022
+      text: >-
+        2013 年习近平任国家主席后，他调任中央办公厅副主任兼国家主席办公室主任，BBC 中文称这是授予他的习近平个人办公室主任的新头衔，此后他多次陪同习近平出访。2015 年主持中办常务工作，2017 年进入政治局和书记处并任中办主任，被视为习近平的“左膀右臂”。到 2022 年，他还兼任中央和国家机关工作委员会书记；据美国之音，他同时仍兼任习近平办公室主任。中央社写道，习近平出访或接见外宾时，总能看见他的身影。
+      cites: [b06-people-2017-10-25-ding-resume, b06-bbc-2022-10-23-psc, b06-cna-2023-03-12-ding-vp, b06-cppcc-2022-10-23-20th-resumes, b06-voa-2023-03-12-vice-premiers]
+    - h: 入常与第一副总理
+      from: 2022
+      to: 2023
+      text: >-
+        2022 年二十大，他进入常委会，排名第六。BBC 中文引分析人士宋文笛说，他原本很可能在政治局委员层级再待一届，习近平却把常委席位给了他，显示有意把他培养成党内传统上可以接受的总理人选。宋文笛认为，习近平本可以把这个位置留给入常最后机会的黄坤明或李鸿忠，但没有这样做；考虑到李强的年龄，丁薛祥被看作下一届总理的可能人选。
+        BBC 也指出，往届常委中通常有一人出任常务副总理，如张高丽、韩正，而他的履历里没有主政一方的经历。蔡奇出任书记处排名第一的书记后，他于 2023 年 3 月转任排名第一的国务院副总理，即常务副总理。
+      cites: [b06-bbc-2022-10-23-psc, b06-cna-2023-03-12-ding-vp, b06-voa-2023-03-12-vice-premiers]
+    - h: 科技与经济外交
+      from: 2023
+      text: >-
+        2023 年机构改革新组建中央科技委员会，负责审议国家科技发展重大战略、统筹国家实验室等战略科技力量。2024 年 6 月 25 日他首次以委员会主任身份亮相，在全国科技大会上强调“要以新型举国体制推进科技创新”，加快关键核心技术攻关。
+        2025 年 1 月 21 日，他在达沃斯世界经济论坛年会致辞，说“关税战、贸易战阴云密布”，称中国“不追求贸易顺差”，外资准入负面清单已从 2013 年的 190 条压缩到 27 条；他也承认外资企业有时会遭遇“玻璃门”“弹簧门”问题，表示愿意一起解决。
+        2026 年 4 月作为习近平主席特别代表访问土库曼斯坦，出席复兴气田四期项目开工仪式，签署两国天然气合作基本原则总协议；9 月在符拉迪沃斯托克出席东方经济论坛期间会见普京，与俄方共同主持中俄投资合作委员会和能源合作委员会会议，并出席中俄能源商务论坛。
+      cites: [b06-cna-2024-06-26-ding-tech, b06-gov-2024-06-25-ding-tech, b06-gov-2025-01-21-ding-davos, b06-embassy-2026-04-18-ding-turkmenistan, b06-gov-2026-09-05-ding-putin]
+  assess:
+    - voice: scholar
+      quote: true
+      text: 相反他把这个位置给了丁，显示出他准备把丁培养成一个在党内传统上可以接受的总理人选。
+      cite: b06-bbc-2022-10-23-psc
+    - voice: zh
+      quote: true
+      text: 丁薛祥雖然長期擔任幕僚工作，但除了曾擔任近3年的上海市閘北區長外，沒有地方一、二把手經驗。
+      cite: b06-cna-2023-03-12-ding-vp
+    - voice: zh
+      quote: true
+      text: 尽管两个人共事时间不到一年，习近平就被调入中央，但这段时间仍可能为他赢得了习近平的信任。
+      cite: b06-bbc-2022-10-23-psc
+    - voice: zh
+      quote: true
+      text: 若按「七上八下」的年齡劃分未被全然打破，依照他的出生年齡，以及現在歷練副總理的全國性經驗，有機會接任下屆國務院總理，但仍需觀察是否被視為接班人選。
+      cite: b06-cna-2023-03-12-ding-vp
+  cites: [b06-people-2017-10-25-ding-resume, b06-cppcc-2022-10-23-20th-resumes, b06-bbc-2022-10-23-psc, b06-cna-2023-03-12-ding-vp, wd-Q8292421]
+
+- id: li-xi
+  name: 李希
+  pinyin: Lǐ Xī
+  gender: m
+  ethnicity: 汉族
+  born: 1956-10-16
+  birthplace: 甘肃两当
+  origin: 甘肃两当
+  education:
+    - { school: 西北师范学院中文系汉语言文学专业, from: 1978, to: 1982 }
+    - { school: 清华大学经济管理学院, degree: 高级管理人员工商管理硕士, from: 2008, to: 2011 }
+  joinedParty: 1982-01
+  joinedWork: 1975-07
+  roles: [psc, pb, cc, ccdi]
+  status: active
+  statusNote: 中央纪委书记；2026 年 1 月在二十届中央纪委五次全会上作工作报告。
+  tier: 1
+  headline: 中央纪委书记（2022–）、中央政治局常委
+  ids: { wikidata: Q8291894 }
+  bio: >-
+    甘肃两当人，早年给甘肃省委书记李子奇当秘书，在甘肃组织系统和地方任职近三十年。2004 年调陕西任省委秘书长，后任延安市委书记，据报道曾为习近平与梁家河村民传递书信。
+    此后历任上海市委组织部长、辽宁省长和省委书记，2017 年主政广东，任内有多名“老虎”落马，并在党代会报告中盛赞习近平“定于一尊、一锤定音的权威”。2022 年二十大以排名第七进入常委会，任中央纪委书记，主持习近平第三任期的反腐和党纪工作。
+  positions:
+    - { title: 兰州市委组织部部长, sys: party, place: 甘肃, from: 1996, to: 2001, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 张掖市委书记, sys: party, place: 甘肃, from: 2001, to: 2004, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 陕西省委常委、秘书长, sys: party, place: 陕西, from: 2004, to: 2006, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 延安市委书记, sys: party, place: 陕西, from: 2006, to: 2011, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 上海市委组织部部长, sys: party, place: 上海, from: 2011, to: 2013, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 2013, to: 2014, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 辽宁省省长, sys: gov, place: 辽宁, from: 2014, to: 2015, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 辽宁省委书记, sys: party, place: 辽宁, from: 2015, to: 2017, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 广东省委书记, sys: party, place: 广东, from: 2017-10, to: 2022-10, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: b06-xinhua-2017-10-25-li-xi-resume }
+    - { title: 中央政治局常委, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+    - { title: 中央纪律检查委员会书记, sys: party, from: 2022-10, cite: b06-cppcc-2022-10-23-20th-resumes }
+  life:
+    - h: 两当与李子奇的秘书
+      from: 1956
+      to: 1986
+      text: >-
+        生于甘肃陇南两当县。美国之音指出，两当是习仲勋等人 1932 年发动兵变的地方。他 1975 年在家乡云屏公社当知青，1978 至 1982 年读西北师范学院中文系。
+        毕业后在甘肃省委宣传部、办公厅工作，据美国之音，他到 1986 年一直担任时任甘肃省委书记李子奇的秘书；李子奇是习仲勋的老部下和陕西老乡。该报道还说，有报道称李希常陪李子奇去北京、深圳探望习仲勋，由此与习近平相熟。
+      cites: [b06-xinhua-2017-10-25-li-xi-resume, b06-voa-2022-10-23-li-xi]
+    - h: 甘肃组织系统
+      from: 1986
+      to: 2004
+      text: >-
+        1986 年起在甘肃省委组织部工作近十年，历任干部调配处副处长、党政干部处处长；1995 年任兰州市西固区委书记，1996 年任兰州市委组织部部长，1999 年兼市委副书记；2001 年任张掖地委（市委）书记，2004 年短暂任甘肃省委秘书长。从知青算起，他在甘肃工作了将近三十年，48 岁才第一次离开本省任职。
+      cites: [b06-xinhua-2017-10-25-li-xi-resume]
+    - h: 陕西与延安
+      from: 2004
+      to: 2011
+      text: >-
+        2004 年调陕西任省委常委、秘书长，2006 年任延安市委书记，期间在清华大学读 EMBA。延安延川县梁家河是习近平当年插队的地方。据美国之音转述的消息，梁家河村民 2007 年写给习近平的信及习近平的回信，是由李希转交的；2008 年，时任陕西省委书记赵乐际又委托他向梁家河转达习近平的问候。
+      cites: [b06-xinhua-2017-10-25-li-xi-resume, b06-voa-2022-10-23-li-xi]
+    - h: 上海与辽宁
+      from: 2011
+      to: 2017
+      text: >-
+        2011 年调任上海市委常委、组织部部长，2013 年升任市委副书记，兼任中国浦东干部学院第一副院长。2014 年任辽宁省代省长、省长，2015 年任省委书记，2017 年十九大进入政治局。
+      cites: [b06-xinhua-2017-10-25-li-xi-resume]
+    - h: 广东五年
+      from: 2017-10
+      to: 2022-10
+      text: >-
+        2017 年 10 月调任广东省委书记。美国之音引香港《明报》报道，他在广东大力反腐，深圳前市长陈如桂等多名“老虎”落马，全省立案调查省管干部 697 人。
+        2022 年 5 月广东省第十三次党代会上，他在报告中说习近平思想是思想上的“定盘星”、行动上的“指南针”，并称广东的成绩靠的是“总书记定于一尊、一锤定音的权威”和“山高水长的关怀厚爱”。报告还提到广州大规模迁移砍伐城市树木一事，称习近平就此作出重要指示，给予广东“最及时的纠偏、最深刻的警示警醒”。
+      cites: [b06-voa-2022-10-23-li-xi, b06-gd-2022-05-22-li-xi-report]
+    - h: 中纪委书记
+      from: 2022-10
+      text: >-
+        2022 年二十大，他以第七名进入常委会，出任中央纪委书记。美国之音写道，这让习近平掌握了党内反腐的生杀大权；新一届中纪委副书记中，还有他在广东时的“大秘”、广东省委秘书长张福海。
+        2026 年 1 月 12 日，他在二十届中央纪委五次全会上作工作报告：2025 年中央纪委国家监委立案审查调查中管干部 181 人，全国纪检监察机关立案 101.2 万件、留置 4.7 万人；报告称腐败是党面临的“最大风险、最大威胁、最大挑战”，要求“一刻不能停、半步不能退”。
+        报告列出的 2025 年落马中管干部包括金湘军、蓝天立、王莉霞、毕井泉、蒋超良、易会满等；全年有 2.6 万人主动投案，追回外逃人员 963 人；配合八项规定学习教育，全国查处享乐主义、奢靡之风问题 15 万起，并公开通报河南罗山等地的违规吃喝案例。2026 年的工作重点包括严明换届纪律、清除“两面人”、查处政商勾连和“退而不休”的领导干部。习近平出席了这次全会并讲话。
+      cites: [b06-cppcc-2022-10-23-20th-resumes, b06-bbc-2022-10-23-psc, b06-voa-2022-10-23-li-xi, b06-xinhua-2026-01-12-li-xi-ccdi-report, b06-gov-2026-01-14-ccdi-5th]
+  assess:
+    - voice: zh
+      quote: true
+      text: 从广东省委书记任上晋升为政治局常委排名第七的李希，出任可谓权高位重的中纪委书记，为习近平掌握中共内部所谓“反腐”的生杀大权。
+      cite: b06-voa-2022-10-23-li-xi
+    - voice: zh
+      quote: true
+      text: 有报道说，李希常陪伴李子奇到北京、深圳探望习仲勋，由此与习近平相熟。
+      cite: b06-voa-2022-10-23-li-xi
+    - voice: doc
+      quote: true
+      text: 审议通过了李希同志代表中央纪委常委会所作的《以更高标准、更实举措推进全面从严治党，为实现“十五五”时期目标任务提供坚强保障》工作报告
+      cite: b06-gov-2026-01-14-ccdi-5th
+  cites: [b06-xinhua-2017-10-25-li-xi-resume, b06-cppcc-2022-10-23-20th-resumes, b06-voa-2022-10-23-li-xi, b06-gd-2022-05-22-li-xi-report, b06-xinhua-2026-01-12-li-xi-ccdi-report, wd-Q8291894]

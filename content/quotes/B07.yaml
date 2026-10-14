@@ -1,0 +1,103 @@
+# B07 quotes. Every text is checked verbatim against its cite.
+bo-xilai:
+  - text: 我绝没有逼走王立军的意思，一个巴掌能打出一个叛国者？
+    cite: b07-bbc-2013-08-26-bo-trial-wrap
+    kind: public
+    date: 2013-08-26
+    occasion: 济南中院庭审最后陈述（据济南中院官方微博发布的庭审记录）
+    star: true
+  - text: 我自知我是很不完善的人，我主观主义，脾气暴躁，我有严重的过失和错误
+    cite: b07-bbc-2013-08-26-bo-trial-wrap
+    kind: public
+    date: 2013-08-26
+    occasion: 济南中院庭审最后陈述
+  - text: 薄谷开来变了，她疯了，经常说假话
+    cite: b07-bbc-2013-08-23-bo-trial
+    kind: public
+    date: 2013-08-23
+    occasion: 济南中院庭审中谈妻子谷开来的证词
+  - text: 甚至说到我儿子在外边学习，怎么开红色法拉利，一派胡言。我感到非常气愤。我和我夫人也没有任何个人资产
+    cite: b07-voa-2012-03-09-bo-presser
+    kind: interview
+    date: 2012-03-09
+    occasion: 全国两会重庆代表团开放日答记者问，王立军事件一个月后、被免职前六天
+  - text: 重庆在打黑除恶中，我了解的情况，负责任地讲，没有刑讯逼供
+    cite: b07-voa-2012-03-09-bo-presser
+    kind: interview
+    date: 2012-03-09
+    occasion: 同一场两会答记者问
+ling-jihua:
+  - text: 我再一次向组织，向办案机关负荆请罪。借此机会，我对法院今天的依法庭审和人文关怀表示感谢
+    cite: b07-bbc-2016-07-04-ling-sentence
+    kind: public
+    date: 2016-07-04
+    occasion: 中央电视台播出的庭审画面（BBC 转述）
+    star: true
+  - text: 我接受全部指控，服从判决，今天的庭审对我来说刻骨铭心
+    cite: b07-court-2016-07-04-ling-sentence
+    kind: public
+    date: 2016-06-07
+    occasion: 天津一中院不公开庭审中的最后陈述（法院通报转述）
+  - text: 中直机关各级党组织和广大党员干部一定要扎实做好保持党的纯洁性各项工作，始终坚持党的性质和宗旨，永葆共产党人政治本色
+    cite: b07-xinhua-2012-01-16-ling-purity
+    kind: public
+    date: 2012-01
+    occasion: 以中央书记处书记、中直机关工委书记身份在中直机关党的工作会议上讲话（新华社转述），儿子车祸前两个月
+xu-caihou:
+  - text: 要毫不动摇地坚持党对军队绝对领导的根本原则和制度，确保部队任何情况下都坚决听从党中央、中央军委和胡主席指挥
+    cite: b07-xinhua-2008-07-23-xu-speech
+    kind: public
+    date: 2008-07-23
+    occasion: 国防大学 2008 年夏季毕业典礼讲话（新华社转述）
+    star: true
+  - text: 要时刻牢记肩负的领导责任，立足本职建功立业
+    cite: b07-xinhua-2008-07-23-xu-speech
+    kind: public
+    date: 2008-07-23
+    occasion: 同一场毕业典礼讲话
+guo-boxiong:
+  - text: 从严治军是军队建设的铁律，是对部队政治建设、军事建设、后勤建设和装备建设的共同要求，必须贯彻落实到军队建设的方方面面和工作的全过程
+    cite: b07-xinhua-2008-07-24-guo-speech
+    kind: public
+    date: 2008-07
+    occasion: 在驻南京地区部队调研时的讲话（新华社转述）
+    star: true
+  - text: 各级领导和机关要带头做从严治军的模范，以实际行动影响和带动部队
+    cite: b07-xinhua-2008-07-24-guo-speech
+    kind: public
+    date: 2008-07
+    occasion: 同一次调研讲话
+sun-zhengcai:
+  - text: 我严重违纪违法，受到法律的庄严审判，我是咎由自取、罪有应得，我心服口服。我真诚地认罪悔罪，我真诚地服从法院的判决
+    cite: b07-bbc-2018-04-12-sun-trial
+    kind: public
+    date: 2018-04-12
+    occasion: 天津一中院庭审最后陈述（BBC 转引官方视频）
+    star: true
+  - text: 我真诚地认罪悔罪，接受法院的判决，不上诉，我将认真地接受改造
+    cite: b07-bbc-2018-05-08-sun-sentence
+    kind: public
+    date: 2018-05-08
+    occasion: 宣判后当庭表态（中央电视台视频，BBC 转述）
+  - text: 对巡视反馈的问题、整改意见和要求，市委严肃对待、诚恳接受、照单全收、坚决整改
+    cite: b07-ccdi-2017-02-13-chongqing-inspection
+    kind: public
+    date: 2017-02-11
+    occasion: 中央第十一巡视组巡视“回头看”反馈会上的表态，落马五个月前
+  - text: 从那以后，我就把它们放在我的钱包里。它们时刻提醒着我，中国的农民为中国革命、新中国建设做出了巨大的贡献
+    cite: b07-nyt-2012-11-26-leaders
+    kind: interview
+    date: 2009
+    occasion: 对新华社记者谈 2007 年在江西收到的两张 1934 年红军借粮欠条（《纽约时报》中文网转译）
+chen-liangyu:
+  - text: 我对不起党，对不起上海人民，对不起我的家人
+    cite: b07-gmw-2008-04-27-chen-trial
+    kind: public
+    date: 2008-03-25
+    occasion: 天津二中院庭审最后陈述（庭审纪实）
+    star: true
+  - text: 大动迁是城市大发展的需要，也是执政为民的需要
+    cite: b07-gov-2005-11-27-chen-relocation
+    kind: public
+    date: 2005-11-26
+    occasion: 上海市委、市政府动拆迁工作推进会议讲话（官方报道转述）

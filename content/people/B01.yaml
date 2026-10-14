@@ -1,0 +1,581 @@
+# B01 Jiang era: full biographies (tier 1).
+- id: jiang-zemin
+  name: 江泽民
+  pinyin: Jiāng Zémín
+  gender: m
+  born: 1926-08-17
+  died: 2022-11-30
+  birthplace: 江苏扬州
+  education:
+    - { school: 南京中央大学电机系, from: 1943 }
+    - { school: 上海交通大学电机系, to: 1947 }
+  joinedParty: 1946-04
+  joinedWork: 1947
+  roles: [psc, pb, cmc, cc, prov, minister]
+  status: dead
+  statusNote: 2022 年 11 月 30 日在上海病逝，享年 96 岁；2026 年 8 月 17 日中共中央举行纪念其诞辰 100 周年大会。
+  tier: 1
+  headline: 中共中央总书记（1989–2002）、国家主席（1993–2003）、中央军委主席（1989–2004）
+  ids: { wikidata: Q16597 }
+  factions:
+    - f: jiang-shanghai
+      cite: b01-bbc-2002-11-15-jiang-shadow
+      quote: 从江泽民坐上了中共第一把交椅开始，“上海帮”也就开始形成聚拢了。
+    - f: elitist
+      cite: b01-brookings-2007-17th-preview
+      quote: an “elitist coalition”, led by former President Jiang Zemin and current Vice-President Zeng Qinghong
+      zh: 以前国家主席江泽民和现任国家副主席曾庆红为首的“精英联盟”
+  bio: >-
+    电机工程师出身，历任一机部、电子工业部官员，1985 年起主政上海。1989 年“六四”后由上海市委书记直升中共中央总书记，此后十三年间兼任国家主席、中央军委主席，
+    被官方称为“第三代中央领导集体的核心”，提出“三个代表”。2002 年十六大交出总书记职务后仍留任军委主席至 2004 年，外媒普遍形容为“垂帘听政”；
+    外界所称“上海帮”以他为核心。习近平执政后日益淡出，2022 年在上海病逝。
+  positions:
+    - { title: 电子工业部第一副部长、部长, sys: gov, from: 1982-05, to: 1985, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 1985, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 1987, to: 1989-06, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 中央政治局委员, sys: party, from: 1987-11, to: 1989-06, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 中央政治局常委、中央委员会总书记, sys: party, from: 1989-06, to: 2002-11, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 中共中央军事委员会主席, sys: army, from: 1989-11, to: 2004-09, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 国家中央军事委员会主席, sys: army, from: 1990-03, to: 2005-03, cite: b01-xinhua-2022-12-02-jiang-life }
+    - { title: 国家主席, sys: gov, from: 1993-03, to: 2003-03, cite: b01-xinhua-2022-12-02-jiang-life }
+  life:
+    - h: 扬州与交大
+      from: 1926
+      to: 1947
+      text: >-
+        1926 年 8 月 17 日生于扬州一个知识分子家庭，就读扬州中学。1943 年考入南京中央大学电机系，抗战胜利后转入上海交通大学电机系。
+        1946 年 4 月加入中共，从事学生运动和地下工作，1947 年毕业。官方传记称他在扬州中学时常去史可法墓凭吊，吟诵“数点梅花亡国泪，二分明月故臣心”。
+      cites: [b01-xinhua-2022-12-02-jiang-life]
+    - h: 工程师与部委官员
+      from: 1947
+      to: 1985
+      text: >-
+        毕业后在上海工厂任工程师，1954 年调往长春参加兴建第一汽车制造厂，1955 年到莫斯科斯大林汽车制造厂实习。此后历任一机部上海电器科学研究所副所长、武汉热工机械研究所所长，
+        “文化大革命”中受到冲击。1980 年任国家进出口管理委员会、外国投资管理委员会副主任，参与筹建经济特区；1982 年任电子工业部第一副部长，次年任部长，同年当选中央委员。
+      cites: [b01-xinhua-2022-12-02-jiang-life]
+    - h: 主政上海
+      from: 1985
+      to: 1989
+      text: >-
+        1985 年任上海市市长，1987 年任市委书记并进入政治局，支持开发开放浦东。1989 年春夏之交，官方称他“有力维护上海稳定”。
+        BBC 中文评论写道，自从江泽民在“六四”后被中共元老从上海召到北京、推上总书记的位子以来，有关他经营“上海帮”的说法便一直没断；但也有人认为“这个说法并不确切”。
+      cites: [b01-xinhua-2022-12-02-jiang-life, b01-bbc-2002-10-17-shanghai-gang]
+    - h: 总书记十三年
+      from: 1989
+      to: 2002
+      text: >-
+        1989 年 6 月十三届四中全会上当选总书记，表态对改革开放路线“要十分明确地讲两句话”；11 月接任中央军委主席，1993 年任国家主席。
+        BBC 认为，到 1997 年邓小平去世时他已站稳脚跟，“在许多重要的岗位上安插了来自上海的亲信”，包括后来的总理朱镕基与国家副主席曾庆红。
+        任内确立社会主义市场经济体制目标，主持香港、澳门回归，2001 年中国加入世界贸易组织。
+      cites: [b01-xinhua-2022-12-02-jiang-life, b01-bbc-2022-11-30-jiang-obit]
+    - h: “三个代表”
+      from: 2000
+      to: 2002
+      text: >-
+        2000 年 2 月在广东考察时提出，中共之所以赢得拥护，是因为“总能代表着中国先进社会生产力的发展要求”、先进文化的前进方向和最广大人民的根本利益，此后归纳为“三个代表”，写入党章和宪法。
+        学者吴强对 BBC 表示，这一思想没有摆脱他技术官僚的局限性，“作为政治遗产显得十分薄弱”。
+      cites: [b01-cpc-2000-02-three-represents, b01-bbc-2022-11-30-jiang-obit]
+    - h: 交班与留任军委
+      from: 2002
+      to: 2004
+      text: >-
+        2002 年十六大退出中央委员会，胡锦涛接任总书记，但十六届一中全会决定江泽民继续担任中央军委主席。会前美国之音即引述分析称，“江泽民将继续从幕后紧紧把持大权”；
+        新一届常委中，BBC 指出“至少四位常委都和江泽民的长期政治据点上海有关”，包括曾庆红、黄菊。“垂帘听政”之说由此流行。
+      cites: [b01-xinhua-2022-12-02-jiang-life, b01-voa-2002-11-02-jiang-regency, b01-bbc-2002-11-15-jiang-shadow]
+    - h: 辞去军委主席
+      from: 2004
+      to: 2005
+      text: >-
+        2004 年 9 月 1 日致信中央政治局请辞军委主席，信中说“我一直期望着从领导岗位上完全退下来”，十六届四中全会同意由胡锦涛接任。
+        BBC 指出，他“原本可以在军委主席一席上坐到2007年”，但面临压力，要求他效仿邓小平；海外媒体注意到接任军委副主席的是徐才厚，“而非得到江泽民扶持的曾庆红”。2005 年 3 月辞去国家军委主席。
+      cites: [b01-chinanews-2004-09-19-jiang-letter, b01-bbc-2004-09-19-jiang-resigns, b01-bbc-2004-09-20-overseas-media, b01-xinhua-2022-12-02-jiang-life]
+    - h: 幕后与淡出
+      from: 2005
+      to: 2022
+      text: >-
+        退休后很少公开露面，但 BBC 写道，“即便在胡锦涛时代江泽民仍是幕后操控中国政局的绝对人物”；习近平时代，随着集权加强，“年迈的江泽民也愈加低调”。
+        2014 年网传他病逝，外交部发言人称“第一次听到有关消息，无法证实”，不久他出席国庆 65 周年音乐会。网络上，他的言行衍生出“膜蛤”文化。
+      cites: [b01-bbc-2022-11-30-jiang-obit, b01-bbc-2014-09-29-jiang-concert]
+    - h: 逝世
+      from: 2022
+      to: 2026
+      text: >-
+        2022 年 10 月中共二十大上，他没有像过往数届那样露面，引起外界对其健康的关注。11 月 30 日 12 时 13 分因白血病合并多器官衰竭在上海去世，享年 96 岁。
+        新华社发表长篇传记称他是“党的第三代中央领导集体的核心”。2026 年 8 月 17 日诞辰百年，习近平在纪念大会上讲话，称其“2004年主动提出辞去”军委主席职务。
+      cites: [b01-bbc-2022-11-30-jiang-obit, b01-xinhua-2022-12-02-jiang-life, b01-gov-2026-08-17-xi-jiang-centenary]
+  assess:
+    - voice: doc
+      quote: true
+      text: 中国特色社会主义伟大事业的杰出领导者，党的第三代中央领导集体的核心，“三个代表”重要思想的主要创立者
+      cite: b01-xinhua-2022-12-02-jiang-life
+    - voice: zh
+      quote: true
+      text: 外界普遍认为，即便在胡锦涛时代江泽民仍是幕后操控中国政局的绝对人物。
+      cite: b01-bbc-2022-11-30-jiang-obit
+    - voice: zh
+      quote: true
+      text: 吴强认为，江泽民的“三个代表”思想没有摆脱他技术官僚的局限性，没有从理论层面上有突破性的升华提高，作为政治遗产显得十分薄弱。
+      cite: b01-bbc-2022-11-30-jiang-obit
+  cites: [b01-xinhua-2022-12-02-jiang-life, b01-bbc-2022-11-30-jiang-obit, wd-Q16597]
+
+- id: zhu-rongji
+  name: 朱镕基
+  pinyin: Zhū Róngjī
+  gender: m
+  born: 1928-10-23
+  died: 2026-08-12
+  birthplace: 湖南长沙
+  education:
+    - { school: 清华大学电机系, from: 1947, to: 1951 }
+  joinedParty: 1949-10
+  joinedWork: 1948-12
+  roles: [psc, pb, cc, prov, minister]
+  status: dead
+  statusNote: 2026 年 8 月 12 日在北京逝世；官方生平称享年 98 岁，BBC 等外媒按周岁记为 97 岁。
+  tier: 1
+  headline: 国务院总理（1998–2003）
+  ids: { wikidata: Q18285 }
+  factions:
+    - f: jiang-shanghai
+      cite: b01-bbc-2022-11-30-jiang-obit
+      quote: 在许多重要的岗位上安插了来自上海的亲信，其中包括日后成为中国政府总理的朱镕基与最高官至国家副主席的曾庆红等人
+  bio: >-
+    清华电机系毕业的计划经济官员，1958 年被划为右派，1978 年获改正。1987 年底起主政上海，1991 年调任国务院副总理，主管经济并一度兼任央行行长，被称为“经济沙皇”。
+    1998–2003 年任总理，推行分税制、国企改革、机构精简，完成入世谈判；国企改革中大批工人下岗，民间褒贬不一。以敢言著称，“一百口棺材”等语录广为流传，但出处难考。2026 年 8 月逝世。
+  positions:
+    - { title: 国家经委副主任, sys: gov, from: 1983, to: 1987, cite: b01-gov-2026-08-18-zhu-life }
+    - { title: 上海市委副书记、市长、市委书记, sys: party, place: 上海, from: 1987-12, to: 1991-04, cite: b01-gov-2026-08-18-zhu-life }
+    - { title: 国务院副总理, sys: gov, from: 1991-04, to: 1998-03, cite: b01-gov-2026-08-18-zhu-life }
+    - { title: 中央政治局常委, sys: party, from: 1992-10, to: 2002-11, cite: b01-gov-2026-08-18-zhu-life }
+    - { title: 中国人民银行行长, sys: gov, from: 1993-06, cite: b01-gov-2026-08-18-zhu-life }
+    - { title: 国务院总理, sys: gov, from: 1998-03, to: 2003-03, cite: b01-gov-2026-08-18-zhu-life }
+  life:
+    - h: 清华与“右派”
+      from: 1928
+      to: 1978
+      text: >-
+        1928 年 10 月 23 日生于长沙，1947–1951 年就读清华大学电机系并参加“新民主主义青年联盟”，1949 年 10 月入党，毕业后在东北工业部短暂任职，1952 年进入国家计委。BBC 引述他 1988 年的回忆：“大鸣大放”时受同事鼓动在局里提了 3 分钟意见，
+        “到1958年1月就把我划为右派了”，被撤职、降级、开除党籍。1970–1975 年下放国家计委“五七”干校。1978 年错划问题获纠正，恢复党籍。官方生平未提此事。
+      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2026-08-12-zhu-obit]
+    - h: 经委与上海
+      from: 1979
+      to: 1991
+      text: >-
+        1979 年起在国家经委任处长、局长，1983 年任经委副主任。1987 年 12 月至 1991 年 4 月历任上海市委副书记、市长、市委书记，推动开设上海证券交易所，
+        在全国率先推行住房公积金制度，并推动浦东开发开放进入实质性启动阶段。BBC 把他列为与上海有渊源、受江泽民重用的高官之一，但也指出“上海帮”之说未必确切。
+      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2022-11-30-jiang-obit, b01-bbc-2002-10-17-shanghai-gang]
+    - h: “经济沙皇”
+      from: 1991
+      to: 1998
+      text: >-
+        1991 年 4 月调任国务院副总理兼国务院生产办公室主任，首先组织清理企业间的“三角债”；1992 年进入政治局常委会，负责国务院常务工作，1993 年兼任中国人民银行行长。
+        官方生平说他针对开发区热、房地产热、股票热，为扭转经济过热、抑制通货膨胀、实现“软着陆”做了大量工作，并主持分税制改革、实现人民币经常项目可兑换。BBC 称，副总理和总理任内的十二年间，“他是中国名副其实的‘经济沙皇’”。
+      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2026-08-12-zhu-obit]
+    - h: 总理任内
+      from: 1998
+      to: 2003
+      text: >-
+        1998 年 3 月出任总理，首场记者会上说“不管前面是地雷阵还是万丈深渊”都将一往无前。任内应对亚洲金融危机，坚持人民币不贬值、支持香港维护联系汇率，大幅精简国务院机构，
+        推动国企三年改革脱困，并主持完成加入世界贸易组织的谈判。2000 年台湾大选前，他在记者会上警告“谁要是搞台湾独立，你就没有好下场”，台湾舆论至今记得。
+      cites: [b01-chinaqw-1998-03-19-zhu-presser, b01-gov-2026-08-18-zhu-life, b01-gov-2000-03-15-zhu-presser, b01-bbc-2026-08-zhu-taiwan-hk]
+    - h: 下岗潮
+      from: 1998
+      to: 2003
+      text: >-
+        国企改革以“抓大放小”、债转股和减员增效推进。BBC 写道，在这一轮改革中“国有企业下岗工人达到1500万人”，下岗工人中流传“朱嘴一张，工人下岗”，
+        这一群体对他怨念颇深；官方生平则强调他建立下岗职工基本生活保障、失业保险和城镇居民最低生活保障的“三条保障线”制度。
+      cites: [b01-bbc-2026-08-12-zhu-obit, b01-gov-2026-08-18-zhu-life]
+    - h: 反腐语录与“棺材”之说
+      from: 1998
+      to: 2003
+      text: >-
+        他在 2000 年记者会上说，只希望卸任后人们说他“是一个清官，不是贪官”。流传最广的“一百口棺材”一说，联合早报的版本是 1998 年在反腐会议上讲的“我这里准备了100口棺材，99口留给贪官，一口留给我自己”，
+        另有“准备好一百口棺材，也有我的一口”等说法；目前未见官方实录，本站作为流传语录处理。
+      cites: [b01-gov-2000-03-15-zhu-presser, b01-zaobao-2026-08-12-zhu-quotes]
+    - h: 退休与逝世
+      from: 2003
+      to: 2026
+      text: >-
+        2003 年 3 月卸任总理，此后极少公开露面。官方生平称他将著书所得全部捐助用于扶贫助学。2026 年 8 月 12 日 11 时 06 分在北京逝世，
+        新华社 8 月 18 日发布生平称他“敢于说真话，不怕得罪人”，享年 98 岁；BBC 等外媒报道为 97 岁。财经作家吴晓波评价他是“经济集权主义者”。
+      cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2026-08-zhu-taiwan-hk, b01-bbc-2026-08-12-zhu-obit]
+  family:
+    - name: 朱云来
+      rel: 子
+      text: 曾任中国国际金融公司 CEO 十年，该公司承办了中国大型国企海内外融资上市业务。
+      cites: [b01-bbc-2026-08-12-zhu-obit]
+    - name: 朱燕来
+      rel: 女
+      text: BBC 报道，她于 2013 年 4 月任中国银行香港公司副总裁。
+      cites: [b01-bbc-2026-08-12-zhu-obit]
+  assess:
+    - voice: doc
+      quote: true
+      text: 他求真务实，开拓进取，敢于说真话，不怕得罪人，以强烈的责任担当主动挑重担子、啃硬骨头
+      cite: b01-gov-2026-08-18-zhu-life
+    - voice: zh
+      quote: true
+      text: 财经作家吴晓波在其书中评价，朱镕基既不是保守派，也不是自由派，但他确乎是一位倾力重塑中央权威的经济集权主义者。
+      cite: b01-bbc-2026-08-12-zhu-obit
+    - voice: zh
+      quote: true
+      text: 这些人无疑成为这一轮改革的牺牲品。以至于在下岗工人的口中流传：“朱嘴一张，工人下岗”，折射该群体对朱镕基怨念颇深。
+      cite: b01-bbc-2026-08-12-zhu-obit
+  cites: [b01-gov-2026-08-18-zhu-life, b01-bbc-2026-08-12-zhu-obit, wd-Q18285]
+
+- id: li-peng
+  name: 李鹏
+  pinyin: Lǐ Péng
+  gender: m
+  born: 1928-10-20
+  died: 2019-07-22
+  birthplace: 上海
+  origin: 四川成都
+  education:
+    - { school: 莫斯科动力学院水力发电系, from: 1948-09, to: 1955 }
+  joinedParty: 1945-11
+  joinedWork: 1941-03
+  roles: [psc, pb, sec, cc, minister]
+  status: dead
+  statusNote: 2019 年 7 月 22 日在北京病逝，官方讣告称享年 91 岁（纽约时报按周岁记为 90 岁）。
+  tier: 1
+  headline: 国务院总理（1987–1998）、全国人大常委会委员长（1998–2003）
+  ids: { wikidata: Q18301 }
+  bio: >-
+    中共烈士李硕勋之子，延安长大，留苏学水电，在电力系统起家，1983 年任副总理，1987 年起任总理十年，再任全国人大常委会委员长五年，长期是党内排名第二的人物。
+    1989 年学运中立场强硬，宣布北京戒严，被海外称为“六四屠夫”；官方称他“采取果断措施制止动乱”。力推三峡工程。其子女长期掌管电力企业，家族被称为“电老虎”。2019 年病逝。
+  positions:
+    - { title: 电力工业部副部长、部长，水利电力部副部长, sys: gov, from: 1979-04, to: 1983-06, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 国务院副总理, sys: gov, from: 1983-06, to: 1987-11, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 中央政治局委员、中央书记处书记, sys: party, from: 1985-09, to: 1987-11, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 中央政治局常委, sys: party, from: 1987-11, to: 2002-11, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 国务院代总理、总理, sys: gov, from: 1987-11, to: 1998-03, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 国家经济体制改革委员会主任, sys: gov, from: 1988, to: 1990, cite: b01-xinhua-2019-07-29-li-peng-life }
+    - { title: 全国人大常委会委员长, sys: gov, from: 1998-03, to: 2003-03, cite: b01-xinhua-2019-07-29-li-peng-life }
+  life:
+    - h: 烈士遗孤与延安
+      from: 1928
+      to: 1948
+      text: >-
+        1928 年 10 月 20 日生于上海，曾用名李远芃，四川成都人。父亲李硕勋曾任中央军委委员、江苏省委军委书记，李鹏三岁时遇害。BBC 指出，“外界认为李鹏后来成为周恩来养子”，但他在回忆录中否认。
+        1939 年在重庆育才学校学习，1941 年 3 月到延安，在自然科学院、延安中学读书，1945 年 11 月加入中共。
+      cites: [b01-xinhua-2019-07-29-li-peng-life, b01-bbc-2019-07-23-li-peng-obit]
+    - h: 留苏与电力系统
+      from: 1948
+      to: 1983
+      text: >-
+        1948 年赴苏联莫斯科动力学院水力发电系学习，任中国留苏学生总会主席。1955 年回国后历任丰满发电厂副厂长、阜新发电厂厂长、北京供电局负责人。
+        1979 年起任电力工业部副部长、部长和水利电力部副部长。官方称他是“我国电力工业的杰出领导人、核电事业的重要开创者”。
+      cites: [b01-xinhua-2019-07-29-li-peng-life]
+    - h: 副总理与总理
+      from: 1983
+      to: 1989
+      text: >-
+        1983 年任国务院副总理，分管能源、交通和重点建设项目，推动准格尔煤电开发和神府东胜煤田建设；1985 年增选为政治局委员、书记处书记，兼任国家教委主任。
+        1987 年 11 月进入政治局常委会并任代总理，1988 年 4 月任总理，主持“治理整顿”。BBC 评价他“政绩平平”，但“获得以陈云为代表的中共保守派鼎力扶持”。
+      cites: [b01-xinhua-2019-07-29-li-peng-life, b01-bbc-2019-07-23-li-peng-obit]
+    - h: 1989 年
+      from: 1989-04
+      to: 1989-06
+      text: >-
+        学运期间，他是“公认的中共党内高层强硬派”。电视直播与学生对话时，他拒绝修改“四二六社论”的定性；5 月 19 日发表讲话宣布北京戒严，称局势威胁到“广大的革命先烈用鲜血创造出来的中华人民共和国的前途和命运”。
+        官方生平称他“采取果断措施制止动乱，平息反革命暴乱”。鲍彤则认为他只是“邓小平一个小兵”。
+      cites: [b01-bbc-2019-07-23-li-peng-obit, b01-nyt-2019-07-23-li-peng, b01-xinhua-2019-07-29-li-peng-life]
+    - h: 第二任总理与三峡
+      from: 1989
+      to: 1998
+      text: >-
+        “六四”后仍任总理和常委，1993 年连任。他是三峡工程的最大推手：1992 年人大以 1767 票赞成、177 票反对、664 票弃权通过议案，BBC 称“通过票数之低历史罕见”。
+        学者李成说，“没有李鹏的倡导，三峡大坝可能永远不会建成”。马若德则认为，他是“天安门事件的替罪羊”，因而没能当上总书记。
+      cites: [b01-bbc-2019-07-23-li-peng-obit, b01-nyt-2019-07-23-li-peng]
+    - h: 外交、科教与财税
+      from: 1989
+      to: 1998
+      text: >-
+        他长期担任中央外事工作领导小组组长，官方生平称他在“六四”后西方制裁中“坚持原则、顶住压力”，逐步突破对华制裁。
+        他兼任国家教委主任、国家科技领导小组组长等职，组织实施“863”“973”计划和“211工程”，是载人航天工程的重要决策者；
+        官方还称他推动以分税制为核心的财政体制改革和汇率并轨，并积极推进重庆直辖市设立以安置三峡移民。
+      cites: [b01-xinhua-2019-07-29-li-peng-life]
+    - h: 人大委员长
+      from: 1998
+      to: 2003
+      text: >-
+        1998 年 3 月任全国人大常委会委员长，在党内地位仅次于江泽民。官方生平称，他主持 1999 年宪法修正案起草，确立邓小平理论指导地位和依法治国方略，
+        九届人大任内通过立法法、合同法、证券法等 113 件法律和决定。2002 年十六大卸任常委，2003 年 3 月卸任委员长。
+      cites: [b01-xinhua-2019-07-29-li-peng-life, b01-bbc-2019-07-23-li-peng-obit]
+    - h: “六四日记”与逝世
+      from: 2003
+      to: 2019
+      text: >-
+        2010 年香港出版商拟出版据信出自他手的“六四日记”，后以“版权问题”为由停止，外界普遍认为是当局施压；网络版本流传，美国之音称其“真实性没有得到证实”。
+        纽约时报写道，他在日记中把邓小平描述为做出动武决定的主导力量。2019 年 7 月 22 日在北京病逝。
+      cites: [b01-bbc-2019-07-23-li-peng-obit, b01-voa-2019-07-23-li-peng, b01-nyt-2019-07-23-li-peng, b01-xinhua-2019-07-29-li-peng-life]
+  family:
+    - name: 朱琳
+      rel: 妻
+      text: BBC 称她曾任华北电力局外事处负责人；纽约时报说她后来成为一名成功的商人。
+      cites: [b01-bbc-2019-07-23-li-peng-obit, b01-nyt-2019-07-23-li-peng]
+    - name: 李小鹏
+      rel: 长子
+      text: 曾任五大发电集团之一华能集团总经理，2016 年起任交通运输部部长。
+      cites: [b01-bbc-2019-07-23-li-peng-obit]
+    - name: 李小琳
+      rel: 女
+      text: >-
+        曾任大唐集团副总经理，有“电力女王”之称。巴拿马文件显示，她与丈夫拥有 1994 年在英属维尔京群岛注册的 Cofic Investments。
+      cites: [b01-bbc-2019-07-23-li-peng-obit, b01-icij-2016-04-06-red-nobility]
+    - name: 李小勇
+      rel: 次子
+      text: BBC 报道，他曾任武警水电指挥部政治部副主任，1998 年卷入一起金融诈骗案，后移民新加坡。
+      cites: [b01-bbc-2019-07-23-li-peng-obit]
+  assess:
+    - voice: doc
+      quote: true
+      text: 李鹏同志长期在电力系统工作，是我国电力工业的杰出领导人、核电事业的重要开创者。
+      cite: b01-xinhua-2019-07-29-li-peng-life
+    - voice: zh
+      quote: true
+      text: 李鹏是技术官僚，政治上不会别的只会听从党魁邓小平，结果铸成1989年'六四'的悲剧。
+      cite: b01-bbc-2019-07-23-li-peng-obit
+    - voice: zh
+      quote: true
+      text: 李鹏是天安门事件的替罪羊，这就是为什么他没得到总书记的职务
+      cite: b01-nyt-2019-07-23-li-peng
+  cites: [b01-xinhua-2019-07-29-li-peng-life, b01-bbc-2019-07-23-li-peng-obit, wd-Q18301]
+
+- id: zeng-qinghong
+  name: 曾庆红
+  pinyin: Zēng Qìnghóng
+  gender: m
+  ethnicity: 汉族
+  born: 1939-07
+  origin: 江西吉安
+  education:
+    - { school: 北京工业学院自动控制系, from: 1958, to: 1963 }
+  joinedParty: 1960-04
+  joinedWork: 1963-07
+  roles: [psc, pb, sec, cc]
+  status: retired
+  statusNote: 2007 年十七大退出政治局常委会，2008 年 3 月卸任国家副主席后退休。2014 年起多次传出受查消息，均未获官方证实。
+  tier: 1
+  headline: 中央政治局常委、国家副主席（2002/2003–2007/2008）
+  ids: { wikidata: Q189519 }
+  factions:
+    - f: jiang-shanghai
+      cite: b01-jamestown-2007-hu-impasse
+      quote: outgoing Vice President Zeng and former president Jiang Zemin, deemed the two heads of the still-powerful Shanghai Faction
+      zh: 即将卸任的副主席曾庆红和前国家主席江泽民，被视为仍有实力的上海帮的两位首领
+    - f: princelings
+      cite: b01-rfa-2016-06-16-xi-bole
+      quote: 分别是由两个“太子党”成员“辅佐”，前一个是曾庆红，后一个是习近平。
+    - f: elitist
+      cite: b01-brookings-2007-17th-preview
+      quote: an “elitist coalition”, led by former President Jiang Zemin and current Vice-President Zeng Qinghong
+      zh: 以前国家主席江泽民和现任国家副主席曾庆红为首的“精英联盟”
+  bio: >-
+    中共元老曾山之子，工程技术员出身，1984 年调上海任市委组织部长、副书记，1989 年随江泽民进京，掌管中央办公厅近十年，被外界称为江的“大内总管”；
+    1999 年任中组部长，2002 年进入政治局常委会，2003 年任国家副主席，分管港澳与党务。外媒和学者普遍认为他是江派与太子党之间的关键人物，2007 年退休时推举习近平接班。
+    退休后其子在悉尼购置豪宅、胞弟现身巴拿马文件，2014 年起数度传出受查，均未证实。
+  positions:
+    - { title: 上海市委组织部部长、市委秘书长, sys: party, place: 上海, from: 1984, to: 1986, cite: b01-cpc-zeng-resume }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 1986, to: 1989, cite: b01-cpc-zeng-resume }
+    - { title: 中央办公厅副主任, sys: party, from: 1989, to: 1993, cite: b01-cpc-zeng-resume }
+    - { title: 中央办公厅主任, sys: party, from: 1993, to: 1999, cite: b01-cpc-zeng-resume }
+    - { title: 中央政治局候补委员、中央书记处书记, sys: party, from: 1997, to: 2002, cite: b01-cpc-zeng-resume }
+    - { title: 中央组织部部长, sys: party, from: 1999, to: 2002, cite: b01-cpc-zeng-resume }
+    - { title: 中央政治局常委、中央书记处书记, sys: party, from: 2002, to: 2007, cite: b01-cpc-zeng-resume }
+    - { title: 中央党校校长, sys: party, from: 2002-12, to: 2007-12, cite: b01-cpc-zeng-resume }
+    - { title: 国家副主席, sys: gov, from: 2003-03, to: 2008-03, cite: b01-cpc-zeng-resume }
+  life:
+    - h: 红色家庭与技术员
+      from: 1939
+      to: 1979
+      text: >-
+        1939 年 7 月生，江西吉安人，父亲是曾任内务部长的中共元老曾山。1958–1963 年在北京工业学院自动控制系学习，此后在解放军部队、七机部二院任技术员，
+        1969–1970 年下放广州部队、湖南基地劳动，1973–1979 年在北京市国防工办任技术员。
+      cites: [b01-cpc-zeng-resume, b01-rfa-2016-06-16-xi-bole]
+    - h: 石油系统与上海
+      from: 1979
+      to: 1989
+      text: >-
+        1979 年任国家计委办公厅秘书，后到国家能委、石油部外事局和中国海洋石油总公司任职。1984 年调上海，历任市委组织部副部长、部长、市委秘书长，1986 年任市委副书记，成为江泽民的部下。
+        专栏作家高新写道，1989 年江泽民向陈云报告拟调曾庆红进中办时，陈云只回了一句“他是曾山的儿子”。
+      cites: [b01-cpc-zeng-resume, b01-rfa-2016-06-16-xi-bole]
+    - h: “大内总管”
+      from: 1989
+      to: 1999
+      text: >-
+        1989 年随江泽民进京任中央办公厅副主任，1993 年任主任，1997 年进入书记处并任政治局候补委员。高新称他“已经以"大内总管"和书记处书记兼中组部长的身份辅佐了江泽民十三年多”；
+        学者林和立形容他是江泽民的“hatchet man”（打手）。BBC 在十六大后把他列为江的“顾问与心腹”。
+      cites: [b01-cpc-zeng-resume, b01-rfa-2016-06-21-xi-zeng-blood, b01-jamestown-2007-hu-impasse, b01-bbc-2002-11-15-jiang-shadow]
+    - h: 中组部与常委会
+      from: 1999
+      to: 2004
+      text: >-
+        1999 年接任中组部长，2002 年十六大进入政治局常委会，任书记处常务书记和中央党校校长，2003 年任国家副主席。2003 年香港 50 万人游行后，中央成立港澳工作协调小组，“由曾庆红担任组长”。
+        2004 年江泽民辞去军委主席，接任军委副主席的是徐才厚，“而非得到江泽民扶持的曾庆红”。
+      cites: [b01-cpc-zeng-resume, b01-bbc-2007-10-22-zeng-hk, b01-bbc-2004-09-20-overseas-media]
+    - h: 港澳与“执政能力”
+      from: 2003
+      to: 2007
+      text: >-
+        作为港澳小组组长，他多次访港，2005 年在特区政府晚宴上说“香港人是完全能够治理好香港的”；BBC 指出，他任内中央开放内地居民赴港澳个人游、签署 CEPA，
+        董建华 2005 年“脚痛下台”，他还说天天高喊“平反六四”的部分人士“很难与北京沟通”。2004 年十六届四中全会后，他撰文阐释执政能力建设决定，
+        称苏联、东欧共产党丧失政权的重要原因是“执政体制僵化，执政能力衰退”。
+      cites: [b01-chinanews-2005-09-11-zeng-hk-speech, b01-bbc-2007-10-22-zeng-hk, b01-sina-2004-10-08-zeng-qiushi]
+    - h: 2007 年退休与习近平
+      from: 2007
+      to: 2008
+      text: >-
+        2007 年十七大，年满 68 岁的他未进入新一届中央委员会。林和立认为，习近平的突然上位由曾庆红和江泽民一手促成；高新写道，“首先提名习近平的人就是十七大上被习近平接替了职务的曾庆红”。
+        悉尼先驱晨报也称他据说促成了让习近平成为接班人的交易。2008 年 3 月卸任国家副主席。
+      cites: [b01-bbc-2007-10-21-zeng-retires, b01-jamestown-2007-hu-impasse, b01-rfa-2016-06-16-xi-bole, b01-smh-2010-10-12-zeng-wei]
+    - h: 退休后的家族报道
+      from: 2008
+      to: 2016
+      text: >-
+        悉尼先驱晨报报道，其子曾伟与妻子蒋梅 2008 年以 3240 万澳元购入悉尼 Point Piper 的豪宅，2014 年拆除重建。2016 年巴拿马文件显示，其弟曾庆淮担任一家先后注册于纽埃和萨摩亚的离岸公司董事。
+        2014 年习近平反腐期间，法广报道他与郭伯雄等“一度盛传受到当局调查”，但二人随后出席国庆招待会。传言迄今未获官方证实。
+      cites: [b01-smh-2010-10-12-zeng-wei, b01-smh-2014-06-19-zeng-wei-mansion, b01-guardian-2016-04-06-red-nobility, b01-rfi-2014-10-01-zeng-appears]
+  family:
+    - name: 曾山
+      rel: 父
+      text: 中共元老，曾任内务部长；高新称陈云对曾庆红的评语只有一句“他是曾山的儿子”。
+      cites: [b01-rfa-2016-06-16-xi-bole]
+    - name: 曾伟
+      rel: 子
+      text: >-
+        悉尼先驱晨报 2010 年经其律师确认他是曾庆红之子；他与妻子蒋梅 2008 年以 3240 万澳元买下悉尼海港豪宅 Craig-y-Mor，2014 年拆除重建。该报称外界对其个人和职业生涯所知甚少。
+      cites: [b01-smh-2010-10-12-zeng-wei, b01-smh-2014-06-19-zeng-wei-mansion]
+    - name: 曾庆淮
+      rel: 弟
+      text: 曾在香港任文化部派驻代表；巴拿马文件显示他是离岸公司 China Cultural Exchange Association 的董事。
+      cites: [b01-guardian-2016-04-06-red-nobility, b01-icij-2016-04-06-red-nobility]
+    - name: 周永康
+      rel: 姻亲（据报道）
+      text: 林和立 2007 年写道，即将出任政法委书记的周永康与曾庆红有姻亲关系。
+      cites: [b01-jamestown-2007-hu-impasse]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Zeng, who is widely regarded as the former president’s hatchet man
+      zh: 曾庆红被普遍视为前国家主席（江泽民）的打手
+      cite: b01-jamestown-2007-hu-impasse
+    - voice: west
+      quote: true
+      text: is said to have brokered the surprise deal that anointed Xi Jinping to be the likely next president of China
+      zh: 据说是他促成了那笔出人意料、让习近平成为下一任国家主席热门人选的交易
+      cite: b01-smh-2010-10-12-zeng-wei
+    - voice: zh
+      quote: true
+      text: 如今一说起曾庆红，外界媒体仍多以“江泽民的大内总管”称呼之。
+      cite: b01-rfa-2016-06-21-xi-zeng-blood
+  cites: [b01-cpc-zeng-resume, b01-jamestown-2007-hu-impasse, wd-Q189519]
+
+- id: huang-ju
+  name: 黄菊
+  pinyin: Huáng Jú
+  gender: m
+  born: 1938-09-28
+  died: 2007-06-02
+  birthplace: 上海
+  origin: 浙江嘉善
+  education:
+    - { school: 清华大学电机工程系, from: 1956-09 }
+  joinedParty: 1966-03
+  joinedWork: 1963-05
+  roles: [psc, pb, cc, prov]
+  status: dead
+  statusNote: 2007 年 6 月 2 日在北京病逝，享年 69 岁，在任政治局常委、国务院副总理。
+  tier: 1
+  headline: 中央政治局常委、国务院常务副总理（2002/2003–2007）
+  ids: { wikidata: Q505710 }
+  factions:
+    - f: jiang-shanghai
+      cite: b01-bbc-2007-06-02-huang-ju-shanghai
+      quote: 黄菊普遍被视为江泽民的亲信，也被视为是所谓“上海帮”的重要成员。
+  bio: >-
+    清华电机系毕业的工程师，在上海工作四十年，由工厂技术员升至市长、市委书记，1994 年进入政治局，被视为江泽民在上海的“忠实助手”；
+    官方称他“善于统揽全局，考虑问题全面，处事严谨稳妥”。
+    2002 年进入政治局常委会，次年任常务副总理，分管金融、工业和安全生产，但外界认为他在北京实权不大。2006 年起病重，上海社保基金案爆发后其前秘书被捕，
+    2007 年 6 月在任内病逝。BBC 认为，他的去世使“上海帮”在高层的力量更见薄弱。
+  positions:
+    - { title: 上海市委常委兼市工业工作党委书记、市委秘书长, sys: party, place: 上海, from: 1983-03, to: 1985-06, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 1985-06, to: 1994-09, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 上海市常务副市长, sys: gov, place: 上海, from: 1986-10, to: 1991-04, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 1991-04, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 上海市委书记, sys: party, place: 上海, from: 1994-09, to: 2002-10, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 中央政治局委员, sys: party, from: 1994-09, to: 2002-11, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 中央政治局常委, sys: party, from: 2002-11, to: 2007-06, cite: b01-chinanews-2007-06-05-huang-ju-life }
+    - { title: 国务院副总理（负责常务工作）, sys: gov, from: 2003-03, to: 2007-06, cite: b01-chinanews-2007-06-05-huang-ju-life }
+  life:
+    - h: 嘉善与清华
+      from: 1938
+      to: 1963
+      text: >-
+        1938 年 9 月 28 日生于上海，原籍浙江嘉善魏塘镇。1944 年起先后在嘉善益善小学、启东小学读书，1950–1956 年就读嘉善一中、嘉兴一中，1953 年加入共青团。
+        1956 年 9 月考入清华大学电机工程系电机制造专业，1963 年 5 月分配到上海人造板机器厂参加工作，此后在上海工作了 40 年。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life]
+    - h: 工厂技术员
+      from: 1963
+      to: 1983
+      text: >-
+        在上海人造板机器厂、中华冶金厂任技术员十余年，1966 年入党。官方生平称他研制出“我国第一台可控硅电炉自动配电装置”，并编写《小电炉变压器超功率运行》一书；“文化大革命”中受到冲击。
+        1977 年起任中华冶金厂副厂长，1978 年主持全厂工作时组织制定生产、质量等 10 项管理制度；1980 年任上海市石油化工通用机械制造公司副经理，其间被派往国外学习企业管理；1982 年任市第一机电工业局副局长。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life]
+    - h: 上海党政
+      from: 1983
+      to: 1991
+      text: >-
+        1983 年 3 月进入上海市委常委会兼市工业工作党委书记，1984 年任市委秘书长，1985 年任市委副书记分管宣传文化，官方称他在反对资产阶级自由化的斗争中“立场坚定，旗帜鲜明”。
+        1986 年兼任常务副市长，先后协助江泽民、朱镕基两任市长。1989 年春夏之交，他“努力维护市内交通，积极组织生产”，为保持上海稳定做了大量工作。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life]
+    - h: 市长与市委书记
+      from: 1991
+      to: 2002
+      text: >-
+        1991 年接替朱镕基任上海市市长，推动国企技改、上市和兼并；1994 年 9 月升任市委书记并增选为政治局委员，主政上海八年，建立社会保障体系和城市社区管理新机制。
+        官方生平称他以浦东开发为契机，努力实现邓小平对上海“一年一个样，三年大变样”的要求。十六大后 BBC 分析新一届常委，称他为江泽民的“忠实助手”。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, b01-bbc-2002-11-15-jiang-shadow]
+    - h: 常务副总理
+      from: 2002
+      to: 2006
+      text: >-
+        2002 年 11 月进入政治局常委会，2003 年 3 月任国务院副总理，负责常务工作，协助分管金融，并负责工业、交通和企业改革，兼任国务院安全生产委员会主任，推进电力、邮政和国资管理体制改革。
+        2004 年高校毕业生达 280 万人，他在全国电视电话会议上要求鼓励毕业生“到西部、到基层、到祖国最需要的地方去建功立业”。
+        BBC 写道，他“普遍被视为江泽民的亲信”，但有观察家称他进京后在中央很受排挤，实权不大。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-cyol-2004-04-23-huang-graduates, b01-bbc-2007-06-02-huang-ju-shanghai]
+    - h: 病重与社保案
+      from: 2006
+      to: 2007
+      text: >-
+        据报道，他 2006 年被诊断患有胰腺癌，此后少有露面。同年接任上海市委书记的陈良宇因社保基金案落马，BBC 称“有传言称黄菊的妻子余慧文也涉入社保基金案”。
+        2007 年 3 月 7 日，久未露面的他到全国人大上海代表团参加审议，据在场代表转述，他说“所有重大决定都需要集体研究决定，绝对不能一个人说了算”，上海要把好的制度恢复、完善和发展，相信上海会从社保案吸取教训。
+      cites: [b01-bbc-2007-06-02-huang-ju-shanghai, b01-chinanews-2007-03-07-huang-shanghai]
+    - h: 逝世与“上海帮”式微
+      from: 2007
+      to: 2007
+      text: >-
+        2007 年 6 月 2 日 2 时 03 分在北京病逝，享年 69 岁；官方生平称他生前留下遗愿，“要把遗体捐献给祖国的医学事业”，并嘱咐丧事从简。刘晓波对 BBC 说，“黄菊本是非常重要江派人物,可以制衡胡锦涛”。7 月，曾任其秘书的王维工因涉嫌社保案被捕；
+        BBC 写道，舆论普遍认为查处社保案、逮捕陈良宇是胡锦涛瓦解“上海帮”的举动。
+      cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, b01-bbc-2007-08-03-wang-weigong]
+  family:
+    - name: 余慧文
+      rel: 妻
+      text: BBC 中文 2007 年 6 月报道，有传言称她涉入陈良宇落马的上海社保基金案；此说未见官方回应或证实，本站仅作传闻记录。
+      cites: [b01-bbc-2007-06-02-huang-ju-shanghai]
+  assess:
+    - voice: doc
+      quote: true
+      text: 推动上海在经济实力、文化影响、城市环境、管理体制等方面取得了长足进步
+      cite: b01-chinanews-2007-06-05-huang-ju-life
+    - voice: west
+      quote: true
+      text: Huang was one of the closest allies of the former Communist Party of China (CCP) leader, Jiang Zemin
+      zh: 黄菊是前中共领导人江泽民最亲密的盟友之一
+      cite: b01-bbc-2007-06-02-huang-dies-en
+    - voice: zh
+      quote: true
+      text: 不过有观察家称，黄菊进京在中央很受排挤，实权不大。
+      cite: b01-bbc-2007-06-02-huang-ju-shanghai
+  cites: [b01-chinanews-2007-06-05-huang-ju-life, b01-bbc-2007-06-02-huang-ju-shanghai, b01-bbc-2002-11-15-jiang-shadow, wd-Q505710]

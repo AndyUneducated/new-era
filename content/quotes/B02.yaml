@@ -1,0 +1,121 @@
+# B02: person id → quotes. Every text is checked verbatim against its cite.
+hu-jintao:
+  - text: 只要我们不动摇、不懈怠、不折腾，坚定不移地推进改革开放，坚定不移地走中国特色社会主义道路，就一定能够胜利实现这一宏伟蓝图和奋斗目标
+    cite: b02-12371-2008-12-18-hu-30th
+    kind: public
+    date: 2008-12-18
+    occasion: 纪念党的十一届三中全会召开 30 周年大会
+    star: true
+  - text: 科学发展观，第一要义是发展，核心是以人为本，基本要求是全面协调可持续，根本方法是统筹兼顾
+    cite: b02-npc-2007-10-24-17th-report
+    kind: public
+    date: 2007-10-15
+    occasion: 中共十七大报告
+  - text: 社会和谐是中国特色社会主义的本质属性
+    cite: b02-npc-2007-10-24-17th-report
+    kind: public
+    date: 2007-10-15
+    occasion: 中共十七大报告
+  - text: 我们坚定不移高举中国特色社会主义伟大旗帜，既不走封闭僵化的老路、也不走改旗易帜的邪路
+    cite: b02-chinanews-2012-11-08-hu-18th-road
+    kind: public
+    date: 2012-11-08
+    occasion: 中共十八大报告
+  - text: 分裂主义势力也绝不会善罢甘休，他们会继续进行捣乱和破坏。因此我们必须树立长期斗争的思想准备
+    cite: b02-sina-2016-09-20-hu-wenxuan
+    kind: public
+    date: 1989
+    occasion: 任西藏自治区党委书记时、拉萨戒严期间的讲话，收入 2016 年出版的《胡锦涛文选》
+wen-jiabao:
+  - text: 没有政治体制改革的成功，经济体制改革不可能进行到底，已经取得的改革和建设成果还有可能得而复失，社会上新产生的问题也不能从根本上得到解决，“文化大革命”这样的历史悲剧还有可能重新发生
+    cite: b02-sina-2012-03-14-wen-presser
+    kind: interview
+    date: 2012-03-14
+    occasion: 十一届全国人大五次会议闭幕后的总理记者会（任内最后一次）
+    star: true
+  - text: 我曾经说过，公平正义比太阳还光辉
+    cite: b02-sina-2012-03-14-wen-presser
+    kind: interview
+    date: 2012-03-14
+    occasion: 同一场记者会
+  - text: 为了中国的改革开放事业，只要还有一口气，我就奋斗一天
+    cite: b02-sina-2012-03-14-wen-presser
+    kind: interview
+    date: 2012-03-14
+    occasion: 同一场记者会
+  - text: 不仅要推进经济体制改革，还要推进政治体制改革。没有政治体制改革的保障，经济体制改革的成果就会得而复失，现代化建设的目标就不可能实现
+    cite: b02-gov-2010-08-21-wen-shenzhen
+    kind: public
+    date: 2010-08-20
+    occasion: 深圳经济特区建立 30 周年之际听取广东省和深圳市工作汇报时的讲话
+  - text: 我们要昂起不屈的头颅，挺起不屈的脊梁，为了明天充满希望地向前迈进
+    cite: b02-chinanews-2008-05-23-duonan-xingbang
+    kind: adlib
+    date: 2008-05-23
+    occasion: 汶川地震后在北川中学安置点对学生讲话，并在黑板上写下“多难兴邦”
+  - text: 我同情穷人、同情弱者，反对欺侮和压迫。我心目中的中国应该是一个充满公平正义的国家，那里永远有对人心、人道和人的本质的尊重，永远有青春、自由、奋斗的气质
+    cite: b02-bbc-2021-04-19-wen-mother
+    kind: public
+    date: 2021-04
+    occasion: 在《澳门导报》发表的悼念母亲文章结尾，随后在中国社交平台被限制转发
+wu-bangguo:
+  - text: 从中国国情出发，郑重表明我们不搞多党轮流执政，不搞指导思想多元化，不搞“三权鼎立”和两院制，不搞联邦制，不搞私有化
+    cite: b02-npc-2011-03-10-npcsc-report
+    kind: public
+    date: 2011-03-10
+    occasion: 十一届全国人大四次会议上的全国人大常委会工作报告（“五不搞”）
+    star: true
+  - text: 要积极借鉴人类社会创造的文明成果包括政治文明的有益成果，但绝不照搬西方那一套，绝不搞多党轮流执政、“三权分立”、两院制
+    cite: b02-chinanews-2009-03-09-wu-west
+    kind: public
+    date: 2009-03-09
+    occasion: 十一届全国人大二次会议上的全国人大常委会工作报告
+  - text: 坚持中国特色社会主义道路，最重要的是坚持正确的政治方向，在涉及国家根本制度等重大原则问题上不动摇。动摇了，不仅社会主义现代化建设无从谈起，已经取得的发展成果也会失去，甚至国家可能陷入内乱的深渊
+    cite: b02-npc-2011-03-10-npcsc-report
+    kind: public
+    date: 2011-03-10
+    occasion: 同一份工作报告
+  - text: 中国是由人民代表大会统一行使国家权力，“一府两院”由人大产生，对人大负责，受人大监督
+    cite: b02-chinanews-2009-03-09-wu-west
+    kind: public
+    date: 2009-03-09
+    occasion: 2009 年全国人大常委会工作报告，论人大与西方议会的“本质区别”
+jia-qinglin:
+  - text: 两岸同胞是血脉相连的命运共同体，同属中华民族大家庭
+    cite: b02-cntv-2010-06-20-jia-straits-forum
+    kind: public
+    date: 2010-06-20
+    occasion: 第二届海峡论坛大会致辞
+    star: true
+  - text: 坚持中国共产党的领导，是人民政协存在和发展的根本前提，也是人民政协履行职能、发挥作用的根本保证
+    cite: b02-people-2013-03-13-cppcc-report
+    kind: public
+    date: 2013-03-03
+    occasion: 全国政协十二届一次会议上的十一届全国政协常委会工作报告（任内最后一次）
+  - text: 团结才有力量，民主才有活力
+    cite: b02-people-2013-03-13-cppcc-report
+    kind: public
+    date: 2013-03-03
+    occasion: 同一份工作报告
+wu-guanzheng:
+  - text: 早退晚退都要退，这把年纪了，晚下不如早下
+    cite: b02-people-2013-05-08-wu-book
+    kind: adlib
+    date: 2007-10-25
+    occasion: 卸任前与中办调研室工作人员的谈话，收入 2013 年出版的《闲来笔潭》
+    star: true
+  - text: 一个人上进不容易，但退下来并很快淡化，也是需要智慧和勇气的
+    cite: b02-people-2013-05-08-wu-book
+    kind: adlib
+    date: 2007-10-25
+    occasion: 同一次谈话
+  - text: 我退下来后，拥护党中央，支持中纪委，安度晚年，保持晚节
+    cite: b02-people-2013-05-08-wu-book
+    kind: adlib
+    date: 2007-10
+    occasion: 在最后一次中纪委常委会上的告别语，据其本人在《闲来笔潭》中的回忆
+  - text: 推进党的作风建设，核心是保持党同人民群众的血肉联系
+    cite: b02-chinanews-2003-01-14-wu-guanzheng
+    kind: public
+    date: 2003-01-14
+    occasion: 中央纪委、监察部召开的首都部分专家学者座谈会

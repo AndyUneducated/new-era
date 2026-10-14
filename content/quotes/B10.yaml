@@ -1,0 +1,206 @@
+# B10: person id → quotes. Every text is checked verbatim against its cite.
+liu-xiaobo:
+  - text: 我没有敌人，也没有仇恨。所有监控过我，捉捕过我、审讯过我的警察，起诉过我的检察官，判决过我的法官，都不是我的敌人
+    cite: b10-bbc-2010-12-10-liu-final-statement
+    kind: public
+    date: 2009-12-23
+    occasion: 煽动颠覆国家政权案庭审，《我没有敌人：我的最后陈述》
+    star: true
+  - text: 仇恨会腐蚀一个人的智慧和良知，敌人意识将毒化一个民族的精神
+    cite: b10-bbc-2010-12-10-liu-final-statement
+    kind: public
+    date: 2009-12-23
+    occasion: 同一份最后陈述
+  - text: 我期待，我将是中国绵绵不绝的文字狱的最后一个受害者，从此之后不再有人因言获罪
+    cite: b10-bbc-2010-12-10-liu-final-statement
+    kind: public
+    date: 2009-12-23
+    occasion: 同一份最后陈述
+  - text: 即使我被碾成粉末，我也会用灰烬拥抱你
+    cite: b10-bbc-2010-12-10-liu-final-statement
+    kind: public
+    date: 2009-12-23
+    occasion: 最后陈述中写给妻子刘霞的段落
+  - text: 表达自由，人权之基，人性之本，真理之母
+    cite: b10-bbc-2010-12-10-liu-final-statement
+    kind: public
+    date: 2009-12-23
+    occasion: 同一份最后陈述
+
+xu-zhiyong:
+  - text: 新公民运动倡导每个中国人堂堂正正做公民，把公民的身份当真，我们是公民，是国家的主人，不是臣民，顺民，草民，暴民
+    cite: b10-rfi-2014-01-22-xu-statement
+    kind: public
+    date: 2014-01-22
+    occasion: 聚众扰乱公共场所秩序案一审，法庭陈词（新公民运动授权发表全文）
+    star: true
+  - text: 我们是新时代的公民，理念上，彻底告别了敌人、江山、推翻、打倒的专制意识
+    cite: b10-rfi-2014-01-22-xu-statement
+    kind: public
+    date: 2014-01-22
+    occasion: 同一份法庭陈词
+  - text: 总有一天，我十三亿中华同胞将从跪倒的臣民成长为堂堂正正的公民
+    cite: b10-rfi-2014-01-22-xu-statement
+    kind: public
+    date: 2014-01-22
+    occasion: 同一份法庭陈词
+  - text: 我是公民，我们是公民
+    cite: b10-rfi-2014-01-22-xu-statement
+    kind: public
+    date: 2014-01-22
+    occasion: 法庭陈词的结尾
+
+ma-yun:
+  - text: 好的创新不怕监管，但是怕昨天的方式去监管，我们不能用管理火车站的办法来管机场，不能用昨天的办法来管未来
+    cite: b10-sina-2020-10-24-bund-speech
+    kind: public
+    date: 2020-10-24
+    occasion: 第二届外滩金融峰会演讲
+    star: true
+  - text: 做没有风险的创新，就是扼杀创新，这世界上没有没风险的创新。很多时候，把风险控制为零才是最大的风险
+    cite: b10-sina-2020-10-24-bund-speech
+    kind: public
+    date: 2020-10-24
+    occasion: 同一场演讲
+  - text: 金融的本质是信用管理，我们必须改掉金融的当铺思想，依靠信用体系
+    cite: b10-sina-2020-10-24-bund-speech
+    kind: public
+    date: 2020-10-24
+    occasion: 同一场演讲
+  - text: 巴塞尔协议比较象一个老年人俱乐部，要解决的是运转了几十年的金融体系老化的问题
+    cite: b10-sina-2020-10-24-bund-speech
+    kind: public
+    date: 2020-10-24
+    occasion: 同一场演讲
+  - text: AI时代已经快速到来，对社会的冲击超出想象，我们大家谁都没有做好足够的准备
+    cite: b10-36kr-2026-03-03-ma-yungu
+    kind: leaked
+    date: 2026-03-03
+    occasion: 与阿里巴巴、蚂蚁集团管理层在杭州云谷学校与教师座谈，据界面新闻转述
+
+ren-zhiqiang:
+  - text: 那里站着的不是一位皇帝在展示自己的新衣，而是一位剥光了衣服也要坚持当皇帝的小丑
+    cite: b10-dw-2020-03-13-ren-missing
+    kind: leaked
+    date: 2020-02
+    occasion: 署名任志强、批评 2 月 23 日疫情防控会议的网文，经中国数字时代刊出全文后由德国之声等转述；他本人未公开确认
+    star: true
+  - text: 从全文的开始到最后，我所能看到的都是在用各种谎言来当遮羞布，试图掩盖自己根本就没穿衣服的事实
+    cite: b10-bbc-2020-04-07-ren-probe
+    kind: leaked
+    date: 2020-02
+    occasion: 同一篇网文，BBC 中文引述
+  - text: 当所有的媒体有了姓，并且不代表人民的利益时，人民就被抛弃到被遗忘的角落了
+    cite: b10-bbc-2020-09-22-ren-verdict
+    kind: public
+    date: 2016-02
+    occasion: 微博，回应央视“央视姓党，绝对忠诚，请您检阅”标语
+
+li-zhiying:
+  - text: 我來到這裡（香港）時一無所有，我所有的一切就是這地方，這個地方給了我自由，我的一生都將致力於自由
+    cite: b10-cna-2023-04-21-lai-doc
+    kind: interview
+    date: 2023-04
+    occasion: 纪录片《香港人：黎智英为自由奋战》，中央社报道
+    star: true
+  - text: 如果我繼續賺錢，對我沒有任何意義，但如果我投身傳媒行業，然後提供資訊，這就是選擇，選擇就是自由
+    cite: b10-cna-2023-04-21-lai-doc
+    kind: interview
+    date: 2023-04
+    occasion: 同一部纪录片，谈 1989 年后转投传媒
+  - text: 我們要為最後一根稻草而戰，我們要奮戰，否則我們會失去自由，失去所有
+    cite: b10-cna-2023-04-21-lai-doc
+    kind: interview
+    date: 2023-04
+    occasion: 同一部纪录片，谈 2019 年反修例运动
+  - text: 在资讯透明的今日，人民选择自由的威力比任何力量都要强大
+    cite: b10-voa-2024-11-20-lai-testimony
+    kind: public
+    date: 1995-06-20
+    occasion: 《苹果日报》创刊社论《我们属于香港》，2024 年 11 月国安法案庭审中他确认为作者
+  - text: 我认为主张港独是阴谋，令你跌入陷阱之中，港独从来都不现实，想一想都觉得疯狂
+    cite: b10-zaobao-2024-11-20-lai-testimony
+    kind: public
+    date: 2024-11-20
+    occasion: 国安法案庭审首日作供（英语作答，联合早报中译）
+
+lin-zheng-yuee:
+  - text: If I have a choice, the first thing is to quit, having made a deep apology
+    cite: b10-bt-2019-09-03-lam-transcript
+    kind: leaked
+    date: 2019-08
+    occasion: 与商界人士的闭门会面录音，路透社 2019 年 9 月 2 日公布（据路透社全文稿）
+    zh: 如果我有选择，第一件事就是在深深道歉之后辞职。
+    star: true
+  - text: The room, the political room for the chief executive who, unfortunately, has to serve two masters by constitution, that is the central people's government and the people of Hong Kong, that political room for maneuvering is very, very, very limited
+    cite: b10-bt-2019-09-03-lam-transcript
+    kind: leaked
+    date: 2019-08
+    occasion: 同一段录音的路透社全文稿
+    zh: 不幸的是，行政长官在宪制上要侍奉两个主人——中央人民政府和香港市民，政治上的回旋空间非常、非常、非常有限。
+  - text: 由開始到現在，我並沒有向中央提出請辭，我希望這是一個很明確的信息
+    cite: b10-hkgov-2019-09-03-lam-presser
+    kind: interview
+    date: 2019-09-03
+    occasion: 行政会议前会见传媒，回应录音报道
+  - text: 不发签证就不去
+    cite: b10-bbc-2020-08-07-lam-sanction
+    kind: interview
+    date: 2020-08
+    occasion: 回应美国制裁
+  - text: 结束42年公务生涯后，有另一个角色等着我去进入，这个就是家庭主妇
+    cite: b10-zaobao-2022-11-10-lam-retire
+    kind: interview
+    date: 2022-11
+    occasion: 卸任后首次接受访问
+
+ai-weiwei:
+  - text: 耻辱，你们都将被记住
+    cite: b10-rfi-2012-09-27-ai-tax
+    kind: adlib
+    date: 2012-09-27
+    occasion: 发课公司税案终审败诉，当庭对审判长说
+    star: true
+  - text: 它就像胎記：並非選擇，而是與生俱來
+    cite: b10-dw-2026-01-ai-passport
+    kind: interview
+    date: 2026-01
+    occasion: 接受《柏林报》采访谈中国护照，德国之声转述
+  - text: 中國從未追求擴張，但在維護人民尊嚴和民族自豪感方面，中國絕不會妥協
+    cite: b10-cna-2026-01-16-ai
+    kind: interview
+    date: 2026-01
+    occasion: 回国探亲期间在北京接受《柏林报》采访，中央社转述
+  - text: 欢迎来到我的国家，葡萄牙
+    cite: b10-rfi-2021-06-03-ai-portugal
+    kind: adlib
+    date: 2021-06
+    occasion: 里斯本展览向媒体开放时对记者说
+
+li-wenliang:
+  - text: 我觉得一个健康的社会不该只有一种声音，不同意利用公权力过分干预
+    cite: b10-cdt-2020-01-31-caixin-li
+    kind: interview
+    date: 2020-01-30
+    occasion: 接受财新网实名采访
+    star: true
+  - text: 我觉得不算造谣，因为报告写得清清楚楚是SARS。而且我只是想提醒同学注意，并不想引起恐慌
+    cite: b10-cdt-2020-01-31-caixin-li
+    kind: interview
+    date: 2020-01-30
+    occasion: 同一次采访
+  - text: 大家不要外传，让家人亲人注意防范
+    cite: b10-xinhua-2020-03-19-li-report
+    kind: leaked
+    date: 2019-12-30
+    occasion: 在“武汉大学临床04级”微信群的留言，国家监委调查组通报引述
+  - text: 如果官方提前公布疫情信息我想会好很多
+    cite: b10-nyt-2020-02-08-li-interview
+    kind: interview
+    date: 2020-02
+    occasion: 去世前接受《纽约时报》采访
+  - text: 明明出于好意，而且报告上写的很清楚
+    cite: b10-nyt-2020-02-08-li-interview
+    kind: interview
+    date: 2020-02
+    occasion: 同一次采访，谈被训诫后的感受

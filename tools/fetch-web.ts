@@ -89,7 +89,8 @@ for (const e of entries) {
     }
   }
   writeFileSync(join(ROOT, 'sources', 'raw', `${e.id}.html`), html)
-  const text = paras.join('\n\n')
+  // Windows-1252 curly quotes served as C1 control characters
+  const text = paras.join('\n\n').replace(/[\u0091\u0092]/g, (c) => (c === '\u0091' ? '‘' : '’')).replace(/[\u0093\u0094]/g, (c) => (c === '\u0093' ? '“' : '”'))
   writeFileSync(textPath, text + '\n')
   appendFileSync(
     join(ROOT, 'research', 'fetch-log.jsonl'),
