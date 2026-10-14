@@ -1,0 +1,1519 @@
+# I03 主义谱系：官方正统（core）、党内路线（line）、民间思潮（trend）、外来·对立面（foreign）、罪名·标签（label）
+# 三轴：x 经济（-1 国家主导 ↔ +1 市场）；y 政治（-1 集中管控 ↔ +1 宽松多元）；z 对外（-1 韬光养晦·融入 ↔ +1 强硬·对抗）
+# 位置是编者对相对立场的判断；中央路线见 content/line/I03.yaml，同一时点的官方正统与中央路线取相近的值。
+
+# ======== core 官方正统 ========
+
+- id: mao-thought
+  name: 毛泽东思想
+  en: Mao Zedong Thought
+  kind: core
+  from: 1945
+  terms: [毛泽东思想]
+  carriers: []
+  summary: >-
+    1945 年七大写入党章的指导思想，1978 年后仍居指导思想之列，但十一届三中全会宣布大规模群众阶级斗争基本结束，
+    把全党工作着重点转向现代化建设，实际上告别了以阶级斗争为纲。1981 年历史决议区分毛泽东思想与毛泽东晚年错误，
+    使它既是改革的合法性来源，也成为毛左批评改革的旗帜。本图只把它当作 1978 年以后各条路线的源头。
+  pos:
+    - { at: 1978, x: -0.9, y: -0.8, z: 0.5, note: 计划经济、无产阶级专政下继续革命、反帝反修的毛时代路线，作为改革的起点 }
+  voices:
+    - voice: doc
+      text: 毛泽东思想是马克思列宁主义在中国的运用和发展，是被实践证明了的关于中国革命和建设的正确的理论原则和经验总结，是中国共产党集体智慧的结晶。
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+    - voice: doc
+      text: 大规模的急风暴雨式的群众阶级斗争已经基本结束
+      cite: i03-qingdao-1978-12-22-3rd-plenum
+      quote: true
+  cites: [i01-12371-2022-10-22-party-charter, i03-qingdao-1978-12-22-3rd-plenum]
+
+- id: four-cardinal-principles
+  name: 四项基本原则
+  short: 四个坚持
+  en: Four Cardinal Principles
+  kind: core
+  from: 1979-03
+  parents: [mao-thought]
+  against: [bourgeois-liberalization]
+  terms: [四项基本原则]
+  carriers: [deng-xiaoping, deng-liqun]
+  summary: >-
+    1979 年 3 月邓小平在理论工作务虚会上提出：坚持社会主义道路、无产阶级专政（后改人民民主专政）、共产党的领导、
+    马列主义毛泽东思想。它与改革开放并称党的基本路线中的两个基本点，划出了改革在政治上的边界。1989 年后邓小平把那场风波定性为
+    资产阶级自由化与四个坚持的对立，此后历次党章都写明坚持四项基本原则、反对资产阶级自由化。
+  pos:
+    - { at: 1979-03, x: -0.3, y: -0.6, z: -0.3, note: 政治上划红线、经济上不设限；对外仍在打开国门，故 z 偏负 }
+  voices:
+    - voice: doc
+      text: 中央认为，我们要在中国实现四个现代化，必须在思想政治上坚持四项基本原则。这是实现四个现代化的根本前提。
+      cite: i03-reformdata-1979-03-30-four-principles
+      quote: true
+    - voice: doc
+      text: 如果动摇了这四项基本原则中的任何一项，那就动摇了整个社会主义事业，整个现代化建设事业。
+      cite: i03-reformdata-1979-03-30-four-principles
+      quote: true
+    - voice: doc
+      text: 坚持社会主义道路、坚持人民民主专政、坚持中国共产党的领导、坚持马克思列宁主义毛泽东思想这四项基本原则，是我们的立国之本。
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+  cites: [i03-reformdata-1979-03-30-four-principles, i01-12371-2022-10-22-party-charter, e01-cpc-dsj-1989]
+
+- id: deng-theory
+  name: 邓小平理论
+  en: Deng Xiaoping Theory
+  kind: core
+  from: 1997-09
+  parents: [mao-thought, four-cardinal-principles]
+  terms: [邓小平理论]
+  carriers: [deng-xiaoping, jiang-zemin]
+  concept: deng-theory
+  summary: >-
+    十五大把邓小平建设有中国特色社会主义理论定名为邓小平理论并写入党章，内容包括社会主义初级阶段论、一个中心两个基本点、
+    计划与市场都是手段、一国两制、韬光养晦等。它在经济上为市场化开路，在政治上以四项基本原则设限，是 1978 年以来
+    各派都援引的共同出发点：改革派引南方谈话，保守派引反自由化。
+  pos:
+    - { at: 1992, x: 0.4, y: -0.45, z: -0.6, note: 南方谈话时的邓小平：经济大胆放开，政治坚持 1989 年后的收紧，对外韬光养晦 }
+  voices:
+    - voice: doc
+      text: 邓小平理论是当代中国的马克思主义，是马克思主义在中国发展的新阶段。
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: true
+    - voice: doc
+      text: 邓小平理论是马克思列宁主义的基本原理同当代中国实践和时代特征相结合的产物，是毛泽东思想在新的历史条件下的继承和发展
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+  cites: [i01-wenming-1997-09-12-15th-report, i01-12371-2022-10-22-party-charter]
+
+- id: socialist-market-economy
+  name: 社会主义市场经济
+  en: Socialist market economy
+  kind: core
+  from: 1992-10
+  parents: [deng-theory]
+  terms: [社会主义市场经济]
+  carriers: [jiang-zemin, zhu-rongji, deng-xiaoping]
+  concept: socialist-market-economy
+  summary: >-
+    十四大确定经济体制改革的目标是建立社会主义市场经济体制，让市场在国家宏观调控下对资源配置起基础性作用；
+    2013 年十八届三中全会把基础性改为决定性，同时要求更好发挥政府作用。这个提法本身的张力，市场与社会主义各占一半，
+    使它可以向两端解读：改革派强调市场，左派和后来的国进民退强调社会主义与公有制主体。
+  pos:
+    - { at: 1992-10, x: 0.4, y: -0.4, z: -0.6, note: 以市场为基础性配置手段，公有制为主体不变 }
+    - { at: 2013-11, x: 0.5, y: -0.55, z: 0.1, note: 决定性作用的提法比 1992 年更市场化，但同时设国安委、收紧政治 }
+  voices:
+    - voice: doc
+      text: 计划经济不等于社会主义，资本主义也有计划；市场经济不等于资本主义，社会主义也有市场。计划和市场都是经济手段。
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: true
+    - voice: doc
+      text: 市场决定资源配置是市场经济的一般规律，健全社会主义市场经济体制必须遵循这条规律，着力解决市场体系不完善、政府干预过多和监管不到位问题。
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: true
+    - voice: zh
+      text: 只有进一步推进市场化的经济体制改革和加快民主化、法治化的进程，经济增长模式转型才有可能实现，舍此绝无他途。
+      cite: c05-nytcn-2013-11-09-wu-jinglian
+      quote: true
+  cites: [i03-reformdata-1992-10-12-14th-report, e03-gov-2013-11-15-reform-decision]
+
+- id: three-represents
+  name: “三个代表”重要思想
+  short: 三个代表
+  en: Three Represents
+  kind: core
+  from: 2000-02
+  parents: [deng-theory]
+  terms: [三个代表]
+  carriers: [jiang-zemin]
+  concept: three-represents
+  summary: >-
+    江泽民 2000 年提出，党要始终代表先进生产力的发展要求、先进文化的前进方向、最广大人民的根本利益；2001 年七一讲话据此允许
+    私营企业主入党，2002 年十六大写入党章。它把党从阶级党进一步改写为执政党，是 1978 年以来官方正统在经济上最靠市场一端的时刻，
+    左派当时批评它背离工人阶级先锋队的性质。
+  pos:
+    - { at: 2002-11, x: 0.6, y: -0.3, z: -0.6, note: 吸收私营企业主入党、加入世贸，经济最市场化、对外最融入的一段 }
+  voices:
+    - voice: doc
+      text: 始终做到“三个代表”，是我们党的立党之本、执政之基、力量之源。
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+  cites: [i01-12371-2022-10-22-party-charter, i01-chinanews-2002-11-14-16th-charter-resolution]
+
+- id: scientific-development
+  name: 科学发展观
+  en: Scientific Outlook on Development
+  kind: core
+  from: 2003-10
+  parents: [three-represents]
+  terms: [科学发展观]
+  carriers: [hu-jintao, wen-jiabao]
+  concept: scientific-development
+  summary: >-
+    胡锦涛在非典之后提出，以人为本、全面协调可持续发展，2007 年十七大写入党章，2012 年十八大列为指导思想。
+    它是对江泽民时代单纯追求增长的修正，强调城乡、区域、经济社会和人与自然的统筹，经济上比三个代表略向国家调节回摆，
+    但政治与对外基本延续。
+  pos:
+    - { at: 2007-10, x: 0.3, y: -0.35, z: -0.5, note: 以人为本、统筹兼顾，社会政策加强，国企在 2008 年后扩张（国进民退之议即起于此时） }
+  voices:
+    - voice: doc
+      text: 科学发展观同马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想一道，是党必须长期坚持的指导思想。
+      cite: i01-cma-2012-12-17-scientific-development
+      quote: true
+  cites: [i01-cma-2012-12-17-scientific-development, i01-12371-2022-10-22-party-charter]
+
+- id: harmonious-society
+  name: 社会主义和谐社会
+  short: 和谐社会
+  en: Harmonious Society
+  kind: core
+  from: 2004-09
+  parents: [scientific-development]
+  terms: [和谐社会]
+  carriers: [hu-jintao]
+  concept: harmonious-society
+  summary: >-
+    2004 年十六届四中全会提出、2006 年十六届六中全会专门作出决定的胡温时代社会纲领：民主法治、公平正义、诚信友爱、
+    充满活力、安定有序、人与自然和谐相处。它一面加大社会保障与民生投入，一面以和谐为名强化维稳，网民后来用被和谐指代删帖。
+  pos:
+    - { at: 2006-10, x: 0.2, y: -0.4, z: -0.5, note: 民生投入与维稳并举；对外配套的是和谐世界 }
+  voices:
+    - voice: doc
+      text: 社会和谐是中国特色社会主义的本质属性。
+      cite: b02-npc-2007-10-24-17th-report
+      quote: true
+  cites: [b02-npc-2007-10-24-17th-report]
+
+- id: xi-thought
+  name: 习近平新时代中国特色社会主义思想
+  short: 习近平思想
+  en: Xi Jinping Thought
+  kind: core
+  from: 2017-10
+  parents: [deng-theory, scientific-development]
+  against: [western-constitutional-democracy, historical-nihilism]
+  terms: [习近平新时代中国特色社会主义思想]
+  carriers: [xi-jinping, wang-huning]
+  concept: xi-thought
+  summary: >-
+    十九大写入党章、2018 年写入宪法的指导思想，2021 年第三个历史决议称其实现了马克思主义中国化新的飞跃。它以党的全面领导为纲，
+    此后又在经济、强军、外交、生态、法治、文化各领域分出子思想（见本图同族条目）。与前任相比，它把政治集中、意识形态安全
+    与对外斗争放在更前的位置，经济上则从市场决定性作用的表述逐步转向安全与共同富裕。
+  pos:
+    - { at: 2017-10, x: 0.0, y: -0.7, z: 0.5, note: 十九大：党政军民学党是领导一切的，大国外交，经济上仍讲市场决定性作用 }
+    - { at: 2022-10, x: -0.4, y: -0.85, z: 0.75, note: 二十大：统筹发展和安全、斗争精神；此前已有平台整顿与共同富裕 }
+  voices:
+    - voice: doc
+      text: 习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华，实现了马克思主义中国化新的飞跃
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+    - voice: zh
+      text: 这次习近平的名字进去了，象征他是党内至高无上的领导人
+      cite: i01-bbc-2017-10-24-xi-thought-charter
+      quote: true
+    - voice: zh
+      text: 唯辛还表示，这份历史决议表明中国的体制已经完成转型，宣告过去三十年中共威权主义统治结束，确立了新的极权主义体制
+      cite: i02-bbc-2021-11-19-resolution-analysis
+      quote: true
+  cites: [i01-gov-2017-10-18-19th-report, b04-gov-2021-11-16-resolution, i01-12371-2022-10-22-party-charter]
+
+- id: xi-economic-thought
+  name: 习近平经济思想
+  en: Xi Jinping Thought on the Economy
+  kind: core
+  from: 2017-12
+  parents: [xi-thought, socialist-market-economy]
+  terms: [习近平经济思想, 习近平新时代中国特色社会主义经济思想]
+  carriers: [xi-jinping, liu-he]
+  summary: >-
+    2017 年 12 月中央经济工作会议首次提出，以新发展理念为主要内容，概括为七个坚持：第一条是党对经济工作的集中统一领导，
+    第四条仍是市场在资源配置中起决定性作用，并把供给侧结构性改革作为主线。七个坚持里党的领导与市场并列，
+    此后几年的实际侧重逐渐移向前者。
+  pos:
+    - { at: 2017-12, x: 0.1, y: -0.7, z: 0.4, note: 党领导经济与市场决定性作用并列写入，取两者之间 }
+  voices:
+    - voice: official
+      text: 坚持加强党对经济工作的集中统一领导，保证我国经济沿着正确方向发展
+      cite: i03-gov-2017-12-20-xi-economic-thought
+      quote: true
+    - voice: official
+      text: 坚持使市场在资源配置中起决定性作用，更好发挥政府作用，坚决扫除经济发展的体制机制障碍
+      cite: i03-gov-2017-12-20-xi-economic-thought
+      quote: true
+  cites: [i03-gov-2017-12-20-xi-economic-thought, i02-gov-2024-gwr]
+
+- id: xi-strong-army-thought
+  name: 习近平强军思想
+  en: Xi Jinping Thought on Strengthening the Military
+  kind: core
+  from: 2017-10
+  parents: [xi-thought]
+  terms: [习近平强军思想]
+  carriers: [xi-jinping]
+  summary: >-
+    十九大党章修正案写入：坚持党对军队的绝对领导，政治建军、改革强军、科技强军、依法治军，建设一支听党指挥、能打胜仗、
+    作风优良的人民军队，目标是世界一流军队。它与 2015 年起的军改和此后的军中反腐相配合，是新时代各子思想中对外取向最强硬的一支。
+  pos:
+    - { at: 2017-10, x: -0.2, y: -0.8, z: 0.8, note: 政治上绝对领导、对外以能打胜仗为目标 }
+  voices:
+    - voice: doc
+      text: 建设一支听党指挥、能打胜仗、作风优良的人民军队，把人民军队建设成为世界一流军队
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+  cites: [e03-gov-2017-10-24-charter-resolution, i01-12371-2022-10-22-party-charter]
+
+- id: xi-diplomacy-thought
+  name: 习近平外交思想
+  en: Xi Jinping Thought on Diplomacy
+  kind: core
+  from: 2018-06
+  parents: [xi-thought]
+  against: [taoguang-yanghui]
+  terms: [习近平外交思想]
+  carriers: [xi-jinping, yang-jiechi, wang-yi]
+  summary: >-
+    2018 年 6 月中央外事工作会议确立其指导地位。会议提出世界处于百年未有之大变局，要求外交大权在党中央，
+    以中国特色大国外交、推动构建人类命运共同体为主线。与韬光养晦相比，它强调主动塑造国际秩序，为此后的战狼式表态和东升西降判断提供了框架。
+  pos:
+    - { at: 2018-06, x: 0.0, y: -0.75, z: 0.6, note: 外交权力集中于党中央；从韬光养晦转向奋发有为 }
+  voices:
+    - voice: official
+      text: 这次会议最重要的成果是确立了习近平外交思想的指导地位
+      cite: i03-gov-2018-06-23-foreign-affairs-conference
+      quote: true
+    - voice: doc
+      text: 外交是国家意志的集中体现，必须坚持外交大权在党中央。
+      cite: i03-gov-2018-06-23-foreign-affairs-conference
+      quote: true
+    - voice: zh
+      text: 习近平治下的中国正在逐渐扬弃邓小平的“韬光养晦”战略思想，而转向“有所作为/大有作为”的新取向，一个新的中国外交大战略正在形成
+      cite: i01-bbc-2013-12-02-taoguang
+      quote: true
+  cites: [i03-gov-2018-06-23-foreign-affairs-conference]
+
+- id: xi-eco-thought
+  name: 习近平生态文明思想
+  en: Xi Jinping Thought on Ecological Civilization
+  kind: core
+  from: 2018-05
+  parents: [xi-thought]
+  terms: [习近平生态文明思想]
+  carriers: [xi-jinping]
+  concept: ecological-civilization
+  summary: >-
+    2018 年 5 月全国生态环境保护大会正式确立，核心是绿水青山就是金山银山。它以中央环保督察、限产关停等行政手段推进，
+    经济轴上偏国家主导；政治上以督察问责把地方纳入中央考核；对外则用于气候谈判中的大国形象。
+  pos:
+    - { at: 2018-05, x: -0.3, y: -0.7, z: 0.1, note: 环保督察以行政命令为主；对外立场中性 }
+  voices:
+    - voice: official
+      text: 大会最大的亮点就是正式确立习近平生态文明思想
+      cite: i03-mee-2018-05-22-eco-thought
+      quote: true
+  cites: [i03-mee-2018-05-22-eco-thought, i01-qstheory-2020-08-14-lvshui-qingshan]
+
+- id: xi-rule-of-law-thought
+  name: 习近平法治思想
+  en: Xi Jinping Thought on the Rule of Law
+  kind: core
+  from: 2020-11
+  parents: [xi-thought]
+  against: [western-constitutional-democracy]
+  terms: [习近平法治思想]
+  carriers: [xi-jinping]
+  concept: rule-of-law
+  summary: >-
+    2020 年 11 月中央全面依法治国工作会议首次提出。其要点首先是坚持党对全面依法治国的领导，法治是党领导的法治，
+    不走西方宪政、三权鼎立、司法独立的路。自由派法学者因此称之为以法治国（rule by law）而非法治（rule of law）。
+  pos:
+    - { at: 2020-11, x: 0.0, y: -0.75, z: 0.4, note: 制度化程度提高但以党领导为前提；明确拒斥西方宪政 }
+  voices:
+    - voice: official
+      text: 习近平法治思想是顺应实现中华民族伟大复兴时代要求应运而生的重大理论创新成果
+      cite: i03-gov-2020-11-17-rule-of-law-conference
+      quote: true
+    - voice: doc
+      text: 必须警惕和防范西方所谓“宪政”、多党轮流执政、“三权鼎立”等政治思潮的侵蚀影响。
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+  cites: [i03-gov-2020-11-17-rule-of-law-conference, b04-gov-2021-11-16-resolution]
+
+- id: xi-culture-thought
+  name: 习近平文化思想
+  en: Xi Jinping Thought on Culture
+  kind: core
+  from: 2023-10
+  parents: [xi-thought]
+  against: [historical-nihilism, universal-values]
+  terms: [习近平文化思想]
+  carriers: [xi-jinping, cai-qi]
+  summary: >-
+    2023 年 10 月全国宣传思想文化工作会议提出，称为习近平思想的文化篇。会议宣布十八大以来意识形态领域形势发生全局性、
+    根本性转变，要求巩固社会主义意识形态领导权、推动中华优秀传统文化创造性转化，并加强国际传播。它把传统文化纳入官方正统，
+    也吸收了大陆新儒家与民族主义的部分话语。
+  pos:
+    - { at: 2023-10, x: -0.2, y: -0.85, z: 0.6, note: 意识形态领导权与国际传播并重 }
+  voices:
+    - voice: official
+      text: 构成了习近平新时代中国特色社会主义思想的文化篇，形成了习近平文化思想。
+      cite: i03-gov-2023-10-08-culture-thought
+      quote: true
+    - voice: official
+      text: 意识形态领域形势发生全局性、根本性转变
+      cite: i03-gov-2023-10-08-culture-thought
+      quote: true
+  cites: [i03-gov-2023-10-08-culture-thought, i02-gov-2024-gwr]
+
+- id: chinese-modernization
+  name: 中国式现代化
+  en: Chinese path to modernization
+  kind: core
+  from: 2021-07
+  parents: [xi-thought]
+  against: [western-constitutional-democracy]
+  terms: [中国式现代化]
+  carriers: [xi-jinping]
+  concept: chinese-modernization
+  summary: >-
+    邓小平 1979 年曾用中国式的现代化指小康目标，2021 年后被重新提出，二十大报告把它定义为中国共产党领导的社会主义现代化，
+    列出人口规模巨大、共同富裕、物质文明与精神文明协调、人与自然和谐、走和平发展道路五个特征，明确现代化不等于西方化。
+  pos:
+    - { at: 2022-10, x: -0.3, y: -0.85, z: 0.7, note: 以党的领导界定现代化，与西方模式对立 }
+  voices:
+    - voice: doc
+      text: 中国式现代化，是中国共产党领导的社会主义现代化，既有各国现代化的共同特征，更有基于自己国情的中国特色。
+      cite: i01-gov-2022-10-16-20th-report
+      quote: true
+  cites: [i01-gov-2022-10-16-20th-report, i01-cpc-2022-10-31-deng-modernization]
+
+- id: whole-process-democracy
+  name: 全过程人民民主
+  en: Whole-process people's democracy
+  kind: core
+  from: 2019-11
+  parents: [xi-thought]
+  against: [western-constitutional-democracy, universal-values]
+  terms: [全过程人民民主]
+  carriers: [xi-jinping, wang-huning]
+  concept: whole-process-democracy
+  summary: >-
+    习近平 2019 年在上海虹桥街道提出，2021 年后成为官方民主论述的核心，二十大报告称其为社会主义民主政治的本质属性。
+    它把选举之外的协商、基层立法联系点等也算作民主，用来回应西方以竞争性选举定义民主的说法；批评者认为它并不改变一党领导的结构。
+  pos:
+    - { at: 2021-12, x: 0.0, y: -0.75, z: 0.6, note: 以官方定义的民主对抗西方民主话语，政治结构不变 }
+  voices:
+    - voice: doc
+      text: 全过程人民民主是社会主义民主政治的本质属性，是最广泛、最真实、最管用的民主。
+      cite: i01-gov-2022-10-16-20th-report
+      quote: true
+  cites: [i01-gov-2022-10-16-20th-report, b04-gov-2021-11-16-resolution]
+
+# ======== line 党内路线 ========
+
+- id: crossing-river
+  name: 摸着石头过河
+  en: Crossing the river by feeling the stones
+  kind: line
+  from: 1980-12
+  parents: [deng-theory]
+  terms: [摸着石头过河]
+  carriers: [chen-yun, deng-xiaoping]
+  summary: >-
+    陈云 1980 年提出、邓小平时代通行的改革方法论：不预设蓝图，先在特区与试点中试验，成功再推广。它容许地方先行先试，
+    也是 1980—2000 年代地方竞争式增长的制度来源。2013 年三中全会决定改为顶层设计和摸着石头过河相结合，重心由此移向中央统一设计。
+  pos:
+    - { at: 1992, x: 0.5, y: -0.3, z: -0.6, note: 地方试验空间大，政治上默许一定分权 }
+  voices:
+    - voice: doc
+      text: 胆子要大、步子要稳，加强顶层设计和摸着石头过河相结合
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: true
+  cites: [e03-gov-2013-11-15-reform-decision]
+
+- id: top-level-design
+  name: 顶层设计
+  en: Top-level design
+  kind: line
+  from: 2010-10
+  parents: [crossing-river]
+  against: [crossing-river]
+  terms: [顶层设计]
+  carriers: [xi-jinping, liu-he]
+  summary: >-
+    十二五规划建议首次在中央文件中使用这个词，习近平 2012 年 12 月在广东提出要拿出全面深化改革的顶层设计和总体规划，
+    2013 年设中央全面深化改革领导小组落实。它把改革决策权收归中央，地方从试验者变为执行者；历史决议把它列为新时代改革的特征之一。
+  pos:
+    - { at: 2013-11, x: 0.3, y: -0.6, z: 0.1, note: 改革议程本身仍偏市场，但决策高度集中 }
+  voices:
+    - voice: official
+      text: 在深入调查研究的基础上提出全面深化改革的顶层设计和总体规划
+      cite: e02-chinanews-2012-12-11-xi-guangdong
+      quote: true
+  cites: [e02-chinanews-2012-12-11-xi-guangdong, e03-gov-2013-11-15-reform-decision, b04-gov-2021-11-16-resolution]
+
+- id: market-reform
+  name: 市场化改革派
+  short: 市场派
+  en: Market reformers
+  kind: line
+  from: 1984
+  parents: [deng-theory, socialist-market-economy]
+  against: [guojin-mintui]
+  terms: [市场化改革]
+  carriers: [wu-jinglian, zhu-rongji, zhou-xiaochuan, li-yining, liu-he, li-keqiang]
+  summary: >-
+    党内与体制内经济学家、技术官僚中主张以价格、国企、金融改革走向市场经济的一路。1980 年代经济学界有吴市场之称的吴敬琏，
+    1990 年代朱镕基的分税制、国企改革与入世谈判，周小川的金融改革，都属于这一路。他们多主张政治改革应与经济改革同步，
+    但很少挑战四项基本原则；2008 年后在国进民退的争论中处于守势。
+  pos:
+    - { at: 1998, x: 0.8, y: -0.2, z: -0.6, note: 朱镕基时期：国企改制、入世，政治上不越线 }
+    - { at: 2013-11, x: 0.8, y: -0.1, z: -0.5, note: 三中全会决定性作用的提法被视为市场派的胜利，随后执行受阻 }
+  voices:
+    - voice: zh
+      text: 他呼吁政治改革要和经济改革同时推进，要建设一个能够为市场机制提供支持的制度平台。
+      cite: i03-infzm-2008-12-10-wu-market
+      quote: true
+    - voice: zh
+      text: “吴市场”，终于由贬词变成了美誉。
+      cite: i03-infzm-2008-12-10-wu-market
+      quote: true
+  cites: [i03-infzm-2008-12-10-wu-market, c05-nytcn-2013-11-09-wu-jinglian]
+
+- id: guojin-mintui
+  name: 国进民退
+  en: The state advances, the private sector retreats
+  kind: line
+  from: 2008-11
+  parents: [scientific-development]
+  against: [market-reform]
+  terms: [国进民退]
+  carriers: []
+  summary: >-
+    2008 年金融危机后四万亿刺激大量流向国企，舆论开始用国进民退形容国企扩张、民企收缩；2018 年民营上市公司被国资接盘时再起争论。
+    这是批评者给中央实际路线起的名字，官方否认存在这一趋势，央视网称国资接盘是正常的市场化行为。本图仍把它作为党内路线收录，
+    位置取批评者描述的实际政策取向。
+  pos:
+    - { at: 2009, x: -0.3, y: -0.4, z: -0.3, note: 四万亿后国企扩张；批评者如吴敬琏称改革停滞 }
+    - { at: 2018-10, x: -0.5, y: -0.75, z: 0.5, note: BBC 采访的吴伟称控制深入社会每一个细胞，是历史性倒退 }
+  voices:
+    - voice: zh
+      text: 可以说，从胡锦涛时代的后期，开始出现国进民退，这种现象在近几年加剧。
+      cite: i03-bbc-2018-09-14-guojin-mintui
+      quote: true
+    - voice: zh
+      text: 国进民退是事实，这一迹象从十八大以后就开始显露了。
+      cite: i03-bbc-2018-09-14-guojin-mintui
+      quote: true
+    - voice: official
+      text: 所谓的“国进民退”与当前的发展阶段、发展情况密切相关，是在当前环境下国企和民企的一种正常的市场化行为。
+      cite: i03-cctv-2018-10-22-guojin-mintui
+      quote: true
+  cites: [i03-bbc-2018-09-14-guojin-mintui, i03-cctv-2018-10-22-guojin-mintui, e02-chinanews-2008-11-09-four-trillion]
+
+- id: chongqing-model
+  name: 重庆模式
+  en: Chongqing model
+  kind: line
+  from: 2008
+  to: 2012-03
+  parents: [maoist-left, new-left]
+  against: [guangdong-model]
+  terms: [重庆模式, 唱红打黑]
+  carriers: [bo-xilai, huang-qifan, wang-lijun]
+  concept: cake-debate
+  summary: >-
+    薄熙来主政重庆期间的施政组合：唱红歌、打黑除恶、公租房与户籍改革，再加上国资主导的大规模投资。它得到毛派与新左派知识分子
+    背书，被视为与广东模式对垒的分蛋糕路线；批评者称其复辟文革、践踏法治。2012 年王立军事件后薄熙来落马，重庆模式随之终结。
+  pos:
+    - { at: 2010, x: -0.6, y: -0.8, z: 0.4, note: 国资主导、运动式打黑、红色宣传 }
+  voices:
+    - voice: zh
+      text: 他的民粹式“重庆模式”得到毛派知识分子与很多痛恨腐败与不公的普通民众拥护，但批评者说他复辟文革，践踏法治。
+      cite: f01-voa-2012-11-04-who-is-who
+      quote: true
+    - voice: zh
+      text: 许多人认为，“重庆模式”是文革式的危险尝试，孕育着危机，而“王立军事件”标志着危机的爆发。
+      cite: b07-bbc-2012-03-15-bo-commentary
+      quote: true
+    - voice: zh
+      text: 两人的分别是，薄熙来要更平均的分好蛋糕，达到公平公义，而汪洋认为只要将蛋糕做大，群众得到的好处就自然更多。
+      cite: b05-rfi-2011-07-15-cake
+      quote: true
+  cites: [f01-voa-2012-11-04-who-is-who, b07-bbc-2012-03-15-bo-commentary, e02-bbc-2010-03-31-bo-anti-triad, e02-voa-2011-04-30-bo-red-songs]
+
+- id: guangdong-model
+  name: 广东模式
+  en: Guangdong model
+  kind: line
+  from: 2008
+  to: 2012-12
+  parents: [market-reform]
+  against: [chongqing-model]
+  terms: [广东模式, 幸福广东]
+  carriers: [wang-yang]
+  concept: happy-guangdong
+  summary: >-
+    汪洋主政广东时的施政取向：腾笼换鸟、转型升级、建设幸福广东，强调先做大蛋糕，并对乌坎事件采取协商处理、放宽社会组织登记。
+    它被外界视为与重庆模式唱对台戏的改革派路线。2012 年两人一升一落，但十八大后两种模式都不再作为模式被提起。
+  pos:
+    - { at: 2011, x: 0.5, y: 0.0, z: -0.4, note: 市场导向、社会组织登记放宽、乌坎协商 }
+  voices:
+    - voice: official
+      text: 如果一提‘建设幸福广东’都只注意分蛋糕，而不注意如何转型升级，那么‘十二五’规划不可能实现，幸福广东就是无源之水、无本之木
+      cite: i03-cntv-2011-01-21-wang-yang-cake
+      quote: true
+    - voice: zh
+      text: 汪洋在广东提出以“建设幸福广东”作为广东省十二五计划的核心，但究竟如何提升人民的幸福感，却并没有看到他在政策上有什么突破。
+      cite: i03-rfa-2011-06-29-wang-bo
+      quote: true
+  cites: [f01-voa-2012-11-04-who-is-who, i03-chinanews-2011-01-06-happy-guangdong, i03-cntv-2011-01-21-wang-yang-cake]
+
+- id: political-reform
+  name: 政治体制改革派
+  short: 政改派
+  en: Political reformers within the party
+  kind: line
+  from: 1986
+  parents: [deng-theory]
+  against: [neo-authoritarianism]
+  terms: [政治体制改革]
+  carriers: [zhao-ziyang, hu-yaobang, bao-tong, wen-jiabao, du-daozheng, hu-deping]
+  summary: >-
+    党内主张党政分开、权力制约、扩大民主的一路。1986—1989 年赵紫阳、鲍彤主持政治体制改革研讨，十三大提出党政分开；
+    1989 年后这一路被清洗，只以炎黄春秋等刊物和退休老干部的形式存续。2010 年温家宝在深圳称没有政治体制改革的保障，
+    经济改革成果会得而复失，被视为这一路在高层的最后回声。
+  pos:
+    - { at: 1987-10, x: 0.5, y: 0.4, z: -0.6, note: 十三大党政分开 }
+    - { at: 2010-08, x: 0.4, y: 0.3, z: -0.5, note: 温家宝深圳讲话，但未获中央附和 }
+  voices:
+    - voice: official
+      text: 没有政治体制改革的保障，经济体制改革的成果就会得而复失，现代化建设的目标就不可能实现。
+      cite: b02-gov-2010-08-21-wen-shenzhen
+      quote: true
+    - voice: zh
+      text: 温家宝说，不仅要推进经济改革，还要推进政治体制改革。
+      cite: e02-bbc-2010-08-22-wen-shenzhen
+      quote: true
+  cites: [b02-gov-2010-08-21-wen-shenzhen, e02-bbc-2010-08-22-wen-shenzhen, b14-bbc-2005-01-17-zhao-profile]
+
+- id: taoguang-yanghui
+  name: 韬光养晦
+  en: Hide one's capabilities and bide one's time
+  kind: line
+  from: 1990-12
+  parents: [deng-theory]
+  terms: [韬光养晦]
+  carriers: [deng-xiaoping, jiang-zemin, hu-jintao]
+  concept: taoguang-yanghui
+  summary: >-
+    1989 年后邓小平提出的对外方针：冷静观察、稳住阵脚、沉着应付、韬光养晦、决不当头、有所作为。它主导了此后二十多年的低调外交，
+    配合入世与融入国际经济体系。官方从未正式废止这一提法，但 2013 年后外交话语转向奋发有为，学者普遍认为它已被扬弃。
+  pos:
+    - { at: 1992, x: 0.3, y: -0.45, z: -0.85, note: 以发展为先、决不当头 }
+  voices:
+    - voice: doc
+      text: 我们再韬光养晦地干些年，才能真正形成一个较大的政治力量，中国在国际上发言的分量就会不同。
+      cite: i01-ifeng-2012-10-28-taoguang
+      quote: true
+    - voice: zh
+      text: 习近平治下的中国正在逐渐扬弃邓小平的“韬光养晦”战略思想，而转向“有所作为/大有作为”的新取向，一个新的中国外交大战略正在形成
+      cite: i01-bbc-2013-12-02-taoguang
+      quote: true
+  cites: [i01-ifeng-2012-10-28-taoguang, i01-bbc-2013-12-02-taoguang]
+
+- id: peaceful-rise
+  name: 和平崛起 / 和平发展
+  short: 和平崛起
+  en: Peaceful rise / peaceful development
+  kind: line
+  from: 2003-11
+  parents: [taoguang-yanghui]
+  terms: [和平崛起, 和平发展道路]
+  carriers: [zheng-bijian, hu-jintao, wen-jiabao]
+  concept: peaceful-rise
+  summary: >-
+    郑必坚 2003 年在博鳌论坛提出，温家宝、胡锦涛随后采用；因崛起一词易引起邻国疑虑，2004 年后官方改称和平发展道路。
+    它与和谐世界一起，构成胡温时代以融入、合作为主的对外路线，是韬光养晦的延续而非替代。
+  pos:
+    - { at: 2004, x: 0.3, y: -0.35, z: -0.6, note: 崛起但不称霸；在韬光养晦之上略为主动 }
+  voices:
+    - voice: official
+      text: 第五，中国的崛起不会妨碍任何人，也不会威胁任何人。
+      cite: i01-chinanews-2004-04-08-peaceful-rise
+      quote: true
+    - voice: scholar
+      text: Hu’s non-use of the term “rise” indicates his agreement with analysts who favored a less confrontational phrase.
+      cite: i01-yaleglobal-2004-peaceful-rise
+      quote: true
+      zh: 胡锦涛不再使用崛起一词，表明他认同那些主张用较少对抗意味的说法的分析人士。
+    - voice: doc
+      text: 第三，坚持包容精神，共建和谐世界。文明多样性是人类社会的基本特征，也是人类文明进步的重要动力。
+      cite: i03-mfa-2005-09-15-hu-un
+      quote: true
+  cites: [i01-chinanews-2004-04-08-peaceful-rise, i01-yaleglobal-2004-peaceful-rise, i03-mfa-2005-09-15-hu-un]
+
+- id: wolf-warrior
+  name: 战狼外交
+  en: Wolf warrior diplomacy
+  kind: line
+  from: 2019
+  parents: [xi-diplomacy-thought, nationalism]
+  against: [taoguang-yanghui]
+  terms: [战狼外交]
+  carriers: [wang-yi, qin-gang]
+  concept: wolf-warrior
+  summary: >-
+    西方学者与媒体借电影《战狼》给 2019 年后中国外交官在社交媒体上对抗式发言起的名字，赵立坚是公认的代表人物。
+    外交部否认存在战狼外交，称这是话语陷阱，但王毅表示对蓄意中伤要有力回击。本图把它作为外交路线的实际取向收录。
+  pos:
+    - { at: 2020-05, x: 0.0, y: -0.8, z: 0.9, note: 公开对抗、以牙还牙的表态风格 }
+  voices:
+    - voice: zh
+      text: 与中国传统外交官的谨慎、保守相比，这些外交官倾向于主动展现对抗风格，并且多使用社交媒体Twitter发表言论，很多西方学者和观察家称之为“战狼”外交。
+      cite: i03-bbc-2020-05-13-wolf-warrior
+      quote: true
+    - voice: doc
+      text: 我们从来不会主动欺凌别人，但同时，中国人是有原则、有骨气的。对于蓄意的中伤，我们一定会作出有力回击，坚决捍卫国家的荣誉和民族尊严。
+      cite: i03-fmprc-2020-05-24-wang-yi-presser
+      quote: true
+    - voice: official
+      text: 显而易见，“战狼外交”实际上是“中国威胁论”的又一翻版，又一个“话语陷阱”，目的就是要让我们打不还手，骂不还口，放弃抗争。
+      cite: i03-fmprc-2020-12-05-le-yucheng
+      quote: true
+  cites: [i03-bbc-2020-05-13-wolf-warrior, i03-voa-2021-03-27-wolf-warrior, i03-fmprc-2020-05-24-wang-yi-presser]
+
+- id: east-rising-west-declining
+  name: 东升西降
+  en: The East is rising and the West is declining
+  kind: line
+  from: 2020-12
+  parents: [xi-diplomacy-thought]
+  terms: [东升西降]
+  carriers: [xi-jinping]
+  summary: >-
+    2020 年底至 2021 年初，地方官员传达习近平讲话时披露的国际形势判断：东升西降是大趋势，当今世界最大的乱源在美国；
+    同时也承认西强东弱仍未根本改变。外界把它与毛泽东的东风压倒西风相比，认为它为更强硬的对外路线提供了依据。
+  pos:
+    - { at: 2021-03, x: -0.3, y: -0.85, z: 0.85, note: 把美国定为最大威胁，判断西方衰落 }
+  voices:
+    - voice: zh
+      text: 认清东升西降的大趋势，中国之治和西方之乱的鲜明对比
+      cite: i03-nytcn-2021-03-04-dongsheng-xijiang
+      quote: true
+    - voice: west
+      text: 史剑道对美国之音说：“我发现‘东升西降’的说法非常滑稽，因为毛主席说的是‘东风压倒西风’。
+      cite: i03-voa-2021-03-14-dongsheng-xijiang
+      quote: true
+  cites: [i03-nytcn-2021-03-04-dongsheng-xijiang, i03-voa-2021-03-14-dongsheng-xijiang]
+
+- id: supply-side
+  name: 供给侧结构性改革
+  en: Supply-side structural reform
+  kind: line
+  from: 2015-11
+  parents: [xi-economic-thought]
+  terms: [供给侧结构性改革]
+  carriers: [xi-jinping, liu-he]
+  concept: supply-side
+  summary: >-
+    2015 年 11 月中央财经领导小组会议提出，任务是去产能、去库存、去杠杆、降成本、补短板。名称借自西方供给学派，
+    但去产能主要靠行政指标关停，受冲击最大的是民营钢厂煤矿，国企反而在行业集中中受益。
+  pos:
+    - { at: 2016, x: 0.1, y: -0.7, z: 0.3, note: 市场化名义、行政化执行 }
+  voices:
+    - voice: official
+      text: 在适度扩大总需求的同时，着力加强供给侧结构性改革，着力提高供给体系质量和效率
+      cite: i01-cpc-2015-11-10-supply-side
+      quote: true
+  cites: [i01-cpc-2015-11-10-supply-side, i03-gov-2017-12-20-xi-economic-thought]
+
+- id: dual-circulation
+  name: 双循环新发展格局
+  short: 双循环
+  en: Dual circulation
+  kind: line
+  from: 2020-05
+  parents: [xi-economic-thought]
+  terms: [双循环, 新发展格局]
+  carriers: [xi-jinping, liu-he]
+  concept: dual-circulation
+  summary: >-
+    2020 年 5 月政治局常委会提出，以国内大循环为主体、国内国际双循环相互促进。它是对贸易战与疫情中供应链断裂的回应，
+    把内需与自主可控放在首位，与新型举国体制配套，标志对外经济路线从融入全球化转向以安全为先。
+  pos:
+    - { at: 2020-05, x: -0.2, y: -0.8, z: 0.6, note: 以国内循环为主体、自主可控 }
+  voices:
+    - voice: official
+      text: 构建国内国际双循环相互促进的新发展格局
+      cite: i01-gov-2020-05-14-dual-circulation
+      quote: true
+    - voice: doc
+      text: 加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局
+      cite: i01-gov-2022-10-16-20th-report
+      quote: true
+  cites: [i01-gov-2020-05-14-dual-circulation, i01-gov-2022-10-16-20th-report]
+
+- id: common-prosperity
+  name: 共同富裕
+  en: Common prosperity
+  kind: line
+  from: 1985
+  parents: [deng-theory]
+  against: [disorderly-capital]
+  terms: [共同富裕]
+  carriers: [xi-jinping, deng-xiaoping]
+  concept: common-prosperity
+  summary: >-
+    邓小平在 1980 年代以让一部分人先富起来、最终共同富裕为改革辩护，此时它是远期目标。2021 年 8 月中央财经委员会第十次会议
+    把它提到社会主义本质要求的位置，与平台整顿、双减、三次分配同时推出，外界一度视为左转信号；2022 年后官方淡化、强调不搞平均主义。
+  pos:
+    - { at: 1992, x: 0.4, y: -0.45, z: -0.6, note: 先富带后富，共同富裕是远期目标 }
+    - { at: 2021-08, x: -0.6, y: -0.85, z: 0.7, note: 与整顿平台、双减同时推出；BBC 采访者称其可能杀鸡取卵 }
+  voices:
+    - voice: official
+      text: 共同富裕是社会主义的本质要求，是中国式现代化的重要特征
+      cite: i01-xinhua-2021-08-17-common-prosperity
+      quote: true
+    - voice: zh
+      text: 如果企业家投资乏力，企业扩张缓慢，不再继续创造就业，也不再扩展财富创造，那么从长远来看，目前所谓的共同富裕政策就会变成杀鸡取卵
+      cite: i01-bbc-2021-08-20-common-prosperity
+      quote: true
+  cites: [i01-xinhua-2021-08-17-common-prosperity, i01-bbc-2021-08-20-common-prosperity, e04-gov-2021-08-17-common-prosperity]
+
+- id: new-quality-productive-forces
+  name: 新质生产力
+  en: New quality productive forces
+  kind: line
+  from: 2023-09
+  parents: [xi-economic-thought]
+  terms: [新质生产力]
+  carriers: [xi-jinping, li-qiang]
+  concept: new-quality-productive-forces
+  summary: >-
+    2023 年 9 月习近平在黑龙江考察时提出，2024 年起成为政府工作报告的首要任务。它以科技创新引领产业为核心，
+    把资源导向半导体、新能源、人工智能等国家确定的战略产业，被视为产业政策与举国体制的新包装。
+  pos:
+    - { at: 2024-03, x: -0.4, y: -0.8, z: 0.6, note: 国家选定赛道、集中投入，服务于科技自立 }
+  voices:
+    - voice: official
+      text: 整合科技创新资源，引领发展战略性新兴产业和未来产业，加快形成新质生产力。
+      cite: i01-gov-2023-09-08-new-quality-productive-forces
+      quote: true
+  cites: [i01-gov-2023-09-08-new-quality-productive-forces, i02-gov-2024-gwr]
+
+- id: whole-nation-system
+  name: 新型举国体制
+  short: 举国体制
+  en: New whole-nation system
+  kind: line
+  from: 2011
+  parents: [dual-circulation]
+  terms: [举国体制]
+  carriers: [xi-jinping, ding-xuexiang]
+  summary: >-
+    源自计划经济时代两弹一星与体育举国体制的说法，2010 年代被改称新型举国体制，用于集中国家资源攻关关键核心技术。
+    2020 年后随中美科技脱钩成为科技政策主轴，2023 年国务院机构改革重组科技部、设中央科技委员会，把它制度化。
+  pos:
+    - { at: 2023-03, x: -0.7, y: -0.85, z: 0.7, note: 国家集中配置科技资源，以对抗外部封锁为目标 }
+  voices:
+    - voice: doc
+      text: 健全新型举国体制，强化国家战略科技力量
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+    - voice: official
+      text: 要发挥新型举国体制优势，加强科技创新和技术攻关
+      cite: i01-gov-2020-05-14-dual-circulation
+      quote: true
+  cites: [b04-gov-2021-11-16-resolution, e05-gov-2023-03-16-reform-plan, i01-gov-2020-05-14-dual-circulation]
+
+- id: dynamic-zero
+  name: 动态清零
+  en: Dynamic zero-COVID
+  kind: line
+  from: 2021-08
+  to: 2022-12
+  terms: [动态清零]
+  carriers: [xi-jinping, li-qiang]
+  concept: dynamic-zero
+  summary: >-
+    2021 年 8 月起的新冠防控总方针，以快速封控与全员核酸追求社会面清零，二十大报告仍写坚持动态清零不动摇。
+    2022 年上海封城与 11 月各地抗议后，12 月新十条宣告放开。它是新时代管控最严、对经济代价最不计较的一段，在本图 y 轴上处于最低处。
+  pos:
+    - { at: 2022-04, x: -0.5, y: -0.95, z: 0.5, note: 上海封城：社会控制达到峰值，经济让位于防疫 }
+  voices:
+    - voice: official
+      text: 现阶段我们仍将坚持“动态清零”策略不动摇。
+      cite: i01-xinhua-2021-12-01-dynamic-zero
+      quote: true
+    - voice: zh
+      text: 没有人能劝阻习近平放弃“动态清零”，他也不会聆听民间沮丧的声音
+      cite: i01-bbc-2022-12-07-new-ten-rules
+      quote: true
+  cites: [i01-xinhua-2021-12-01-dynamic-zero, i01-gov-2022-10-16-20th-report, i01-bbc-2022-12-07-new-ten-rules]
+
+# ======== trend 民间思潮 ========
+
+- id: neo-authoritarianism
+  name: 新权威主义
+  en: Neo-authoritarianism
+  kind: trend
+  from: 1986
+  against: [political-reform, liberals]
+  terms: [新权威主义]
+  carriers: [wang-huning]
+  concept: neo-authoritarianism
+  summary: >-
+    1986 年前后在上海、北京兴起的思潮，主张后发国家需要政治强人以集权推动市场化改革，民主放在现代化之后。
+    据赵紫阳回忆，邓小平听说后表示我就是这个主张。1989 年后它一度沉寂，萧功秦等人在 2010 年代把习近平的路线称为新权威主义 2.0。
+  pos:
+    - { at: 1988, x: 0.6, y: -0.4, z: -0.4, note: 集权以推动市场化，对外融入 }
+    - { at: 2013, x: 0.3, y: -0.6, z: 0.2, note: 萧功秦所说 2.0 版：集权程度更高，市场化退居其次 }
+  voices:
+    - voice: witness
+      text: 1988年有一次我去小平那里。……我说有一种新权威主义，就是政治强人稳定形势发展经济。他说：”我就是这个主张。但是不必用这个提法。”
+      cite: i03-ipkmedia-zhao-ziyang-yang-jisheng
+      quote: true
+    - voice: scholar
+      text: 如果邓小平是中国新权威主义的1.0版本，习近平就是中国新权威主义的2.0版本
+      cite: i03-aisixiang-2013-xiao-gongqin
+      quote: true
+    - voice: zh
+      text: 绝大部分观察家都能从1980年代末中国改革开放关键时期的赵紫阳时代的新权威主义模式和习近平目前的做法中找到许多共同之处
+      cite: i03-bbc-2014-03-18-xi-power
+      quote: true
+  cites: [i03-aisixiang-wu-jiaxiang-neo-authority, i03-ipkmedia-zhao-ziyang-yang-jisheng, i03-aisixiang-2013-xiao-gongqin]
+
+- id: new-left
+  name: 新左派
+  en: New Left
+  kind: trend
+  from: 1997
+  parents: [mao-thought]
+  against: [neoliberalism, liberals]
+  terms: [新左派]
+  carriers: [wang-hui, cui-zhiyuan, wang-shaoguang, gan-yang]
+  concept: new-left
+  summary: >-
+    1990 年代后期与自由派论战中形成的学院派，借西方左翼理论批评市场化、私有化与全球化造成的不公，主张以国家能力纠正市场。
+    2008—2012 年不少人为重庆模式背书，薄熙来落马后一度尴尬；此后逐渐从体制批评者变为体制支持者，与国家主义合流。
+  pos:
+    - { at: 2000, x: -0.5, y: 0.0, z: 0.3, note: 批评市场化，政治上要求经济民主与参与 }
+    - { at: 2010, x: -0.6, y: -0.5, z: 0.5, note: 为重庆模式提供理论论证 }
+    - { at: 2020, x: -0.5, y: -0.75, z: 0.7, note: 中国研究评论（CBR）称其已由体制批评者转为支持者 }
+  voices:
+    - voice: west
+      text: Their recommendations and criticisms are, instead, based on a belief that state power can redress the injustices created by free markets, privatization and globalization. Their views are also characterized by a fierce nationalism and criticism of the West.
+      cite: i02-nbc-2009-new-left
+      quote: true
+      zh: 他们的建议和批评基于这样一种信念：国家权力可以纠正自由市场、私有化和全球化造成的不公。他们的观点还带有强烈的民族主义和对西方的批判。
+    - voice: scholar
+      text: The Chongqing model and its unhappy fate was one turning point through which the New Left slowly transformed from regime critics to regime supporters.
+      cite: i02-cbr-2024-05-16-new-left-state
+      quote: true
+      zh: 重庆模式及其不幸的结局是一个转折点，新左派由此慢慢从体制批评者转变为体制支持者。
+    - voice: zh
+      text: 至于那些不遗余力地为重庆当局出谋划策，进行理论论证的新左学人们面临的尴尬可以说是不言而喻。
+      cite: i02-bbc-2012-02-27-chongqing-trends
+      quote: true
+  cites: [i02-nbc-2009-new-left, i02-cbr-2024-05-16-new-left-state, i02-bbc-2012-02-27-chongqing-trends]
+
+- id: maoist-left
+  name: 毛左
+  short: 毛派
+  en: Maoist left
+  kind: trend
+  from: 2003
+  parents: [mao-thought]
+  against: [market-reform, neoliberalism, liberals]
+  terms: [毛左, 毛派]
+  carriers: [zhang-hongliang, fan-jinggang]
+  concept: maoist-left
+  summary: >-
+    以乌有之乡等网站为大本营的民间毛泽东崇拜者，主张回到公有制与毛时代路线，批评改革是资本主义复辟，对外强烈反美。
+    他们是重庆模式最热烈的拥护者，2012 年薄熙来下台当天乌有之乡即开始宕机，随后被关闭；2018 年部分毛派学生声援佳士工人维权，也遭打压。
+    官方既借用其话语，又防范其自行组织。
+  pos:
+    - { at: 2010, x: -0.9, y: -0.6, z: 0.85, note: 公有制、反美；政治上崇尚大民主但拥护强力专政 }
+    - { at: 2018-08, x: -0.95, y: -0.4, z: 0.6, note: 佳士事件中自行组织工人，与官方冲突 }
+  voices:
+    - voice: zh
+      text: 被视为毛泽东左派舆论大本营的乌有之乡网站，早在薄熙来下台那天就开始宕机
+      cite: i02-voa-2012-04-06-utopia
+      quote: true
+  cites: [i02-voa-2012-04-06-utopia, i02-bbc-2018-08-16-jasic]
+
+- id: liberals
+  name: 自由派
+  en: Liberals
+  kind: trend
+  from: 1980
+  parents: [political-reform]
+  against: [neo-authoritarianism, new-left, maoist-left]
+  terms: [自由派]
+  carriers: [mao-yushi, he-weifang, qin-hui, xu-zhangrun, liu-xiaobo, bao-tong, du-daozheng]
+  concept: liberals
+  summary: >-
+    主张市场经济、宪政法治、人权与言论自由的知识分子群体，1980 年代与党内改革派相通，1990 年代后与新左派长期论战，
+    2008 年零八宪章是其政治主张最完整的表达。新时代以来其刊物与机构（炎黄春秋、天则所等）先后被关停，历史决议点名要防范西方宪政等思潮。
+  pos:
+    - { at: 2008-12, x: 0.8, y: 0.85, z: -0.7, note: 零八宪章；Pan & Xu (2018) 的问卷数据显示政治自由、亲市场、非民族主义三者同向 }
+  voices:
+    - voice: scholar
+      text: politically liberal, promarket, and nonnationalist preferences are more
+      cite: i03-yiqingxu-panxu-2018-replication
+      quote: true
+      zh: 政治自由、亲市场和非民族主义的偏好在受过教育、富裕和经济发达地区的人群中更为普遍（Pan & Xu 复现页）。
+    - voice: doc
+      text: 必须警惕和防范西方所谓“宪政”、多党轮流执政、“三权鼎立”等政治思潮的侵蚀影响。
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+  cites: [i03-yiqingxu-panxu-2018-replication, b04-gov-2021-11-16-resolution, e02-bbc-2008-12-09-charter08]
+
+- id: constitutionalism
+  name: 宪政思潮
+  short: 宪政派
+  en: Constitutionalism
+  kind: trend
+  from: 2003
+  parents: [liberals]
+  against: [neo-authoritarianism]
+  terms: [宪政]
+  except: [宪政民主]
+  carriers: [he-weifang, xu-zhangrun, hu-deping]
+  summary: >-
+    主张依据现行宪法限制权力、保障公民权利的思潮，2012—2013 年因习近平纪念现行宪法 30 周年讲话而一度高涨，南方周末新年献词
+    原题即为宪政梦。2013 年 5 月红旗文稿、人民日报海外版等刊文称宪政只属于资本主义，中国人民大学宪政网发文反驳，
+    称宪政不是资产阶级的专利；此后官方明确拒绝宪政一词，只讲依宪治国。
+  pos:
+    - { at: 2013-01, x: 0.5, y: 0.7, z: -0.4, note: 以现行宪法为依据，比自由派温和，部分人主张社会主义宪政 }
+  voices:
+    - voice: zh
+      text: 中国人本应就是自由人。中国梦本应就是宪政梦
+      cite: i01-bbc-2013-01-04-nanfang-zhoumo
+      quote: true
+    - voice: official
+      text: 宪政作为完整的制度架构并没有普适性
+      cite: i03-bbc-2013-05-21-constitutionalism
+      quote: true
+    - voice: scholar
+      text: 李林博士在文章中表示，宪政与民主、自由、平等、宪法、人权、共和等词语一样，不是资产阶级的专利，而是人类政治文明的共同财富，是社会主义的应有之义。
+      cite: i03-bbc-2013-05-23-scholars-constitutionalism
+      quote: true
+  cites: [i03-bbc-2013-05-21-constitutionalism, i03-bbc-2013-05-23-scholars-constitutionalism, i01-bbc-2013-01-04-nanfang-zhoumo]
+
+- id: democratic-socialism
+  name: 民主社会主义
+  en: Democratic socialism
+  kind: trend
+  from: 2007-02
+  parents: [political-reform]
+  against: [neo-authoritarianism, maoist-left]
+  terms: [民主社会主义]
+  carriers: [wu-si]
+  summary: >-
+    2007 年炎黄春秋刊出人民大学前副校长谢韬的文章，主张走瑞典式民主社会主义道路：民主宪政、混合所有制、社会市场经济、
+    福利保障，称其才是马克思主义正统。文章引起左派与部分退休官员群起攻之，官方媒体也发文反对。
+    它是党内老干部改革派在 1989 年后最系统的一次路线主张。
+  pos:
+    - { at: 2007-02, x: 0.1, y: 0.6, z: -0.5, note: 经济上混合所有制加福利国家，政治上多党竞争 }
+  voices:
+    - voice: zh
+      text: 中国人民大学前副校长谢韬的《民主社会主义模式与中国前途》文章对传统共产主义的基本理论提出挑战，认为中国应该走瑞典式的民主社会主义道路
+      cite: i03-rfa-2007-05-18-democratic-socialism
+      quote: true
+    - voice: scholar
+      text: 构成民主社会主义模式的是民主宪政、混合私有制、社会市场经济、福利保障制度。民主社会主义核心是民主。
+      cite: i03-secretchina-2007-07-15-xie-tao
+      quote: true
+  cites: [i03-rfa-2007-05-18-democratic-socialism, i03-secretchina-2007-07-15-xie-tao]
+
+- id: new-confucianism
+  name: 大陆新儒家
+  short: 新儒家
+  en: Mainland New Confucianism
+  kind: trend
+  from: 2004
+  against: [western-constitutional-democracy, liberals]
+  terms: [儒家宪政, 王道政治, 大陆新儒家]
+  carriers: []
+  summary: >-
+    2000 年代兴起的政治儒学，代表人物蒋庆主张以通儒院、国体院、庶民院三院制体现天道、历史、民意三重合法性的王道政治，
+    姚中秋（秋风）由自由派转向儒家宪政。它反对以西方民主为唯一正当的政治形式，政治上偏保守、精英主义，与官方复兴传统文化的方向部分重合。
+  pos:
+    - { at: 2012-07, x: 0.0, y: -0.3, z: 0.4, note: 反西方民主但也不认同一党体制的现状，故 y 只略偏负 }
+  voices:
+    - voice: zh
+      text: 蒋庆不承认民主政治是人类最完善最理想的政治，而是要用“王道政治”来克服民主政治的弊端
+      cite: i03-voa-2012-07-13-jiang-qing
+      quote: true
+    - voice: scholar
+      text: 我们提出“儒家宪政”命题和研究纲领，是想表达一个呼吁，呼吁我们有一个宪政的文明自觉
+      cite: i03-rujiazg-2015-11-03-yao-zhongqiu
+      quote: true
+  cites: [i03-voa-2012-07-13-jiang-qing, i03-rujiazg-2015-11-03-yao-zhongqiu]
+
+- id: statism
+  name: 国家主义
+  en: Statism
+  kind: trend
+  from: 2008
+  parents: [new-left, neo-authoritarianism]
+  against: [liberals]
+  terms: [国家主义]
+  carriers: [qiang-shigong, hu-angang, wang-shaoguang]
+  concept: statism
+  summary: >-
+    2008 年后在知识界上升的思潮，以国家强大为最高价值，认为强势政府是中国繁荣的前提；许纪霖称其为去政治化的政治。
+    常被归入这一思潮的有强世功、胡鞍钢等人；胡鞍钢的中国综合国力已超越美国之说 2018 年遭舆论嘲讽，反映出实力自信的边界。
+  pos:
+    - { at: 2015, x: -0.4, y: -0.85, z: 0.75, note: 国家至上，政治集中，对外自信 }
+  voices:
+    - voice: scholar
+      text: 国家主义是一种去政治化的政治，去价值的价值、去意识型态的意识型态。国家的价值目标变得无关紧要，唯一重要的只是国家自身的强大。
+      cite: i02-aisixiang-xu-jilin-statism
+      quote: true
+    - voice: zh
+      text: 舆论场对胡的批判反映出，过度的实力自信在中国没有市场
+      cite: i02-dw-2018-08-03-hu-angang
+      quote: true
+  cites: [i02-aisixiang-xu-jilin-statism, i02-dw-2018-08-03-hu-angang]
+
+- id: nationalism
+  name: 民间民族主义
+  short: 民族主义
+  en: Popular nationalism
+  kind: trend
+  from: 1996
+  against: [universal-values, taoguang-yanghui]
+  terms: [民族主义]
+  carriers: [wang-xiaodong-writer, hu-xijin]
+  summary: >-
+    1996 年《中国可以说不》开启的民间民族主义，1999 年炸馆、2008 年奥运火炬事件时高涨，2009 年《中国不高兴》提出惩罚外交。
+    环球时报与胡锡进是其最大的媒体代言人。它常比官方外交更强硬，官方时而借重、时而压制；按 Pan & Xu 的数据，
+    民族主义与政治保守、反市场倾向同向。
+  pos:
+    - { at: 1996, x: 0.0, y: -0.3, z: 0.8, note: 说不，但仍在融入时期 }
+    - { at: 2009, x: -0.2, y: -0.5, z: 0.9, note: 惩罚外交、反西方 }
+  voices:
+    - voice: zh
+      text: 和《中国可以说不》的相对内敛明显不同的是，《中国不高兴》开始提倡主动出击
+      cite: c09-bbc-2009-03-24-china-unhappy
+      quote: true
+    - voice: zh
+      text: 胡锡进在微博上拥有超过2400万粉丝，他被看作是强烈民族主义的主要代言人。
+      cite: i02-dw-2021-12-16-hu-xijin
+      quote: true
+    - voice: scholar
+      text: strongly correlated axes define China’s ideological spectrum as a
+      cite: i03-yiqingxu-panxu-2018-replication
+      quote: true
+      zh: Pan & Xu 复现页称，政治自由与非民族主义同向、政治保守与国家干预和民族主义同向，这几条高度相关的轴构成中国的意识形态谱系。
+  cites: [c09-bbc-2009-03-24-china-unhappy, i02-dw-2021-12-16-hu-xijin, i03-yiqingxu-panxu-2018-replication]
+
+- id: little-pink
+  name: 小粉红
+  en: Little Pinks
+  kind: trend
+  from: 2016-01
+  parents: [nationalism]
+  against: [universal-values]
+  terms: [小粉红]
+  carriers: [hu-xijin]
+  concept: little-pink
+  summary: >-
+    2016 年帝吧出征后广为人知的年轻网络民族主义者，熟悉流行文化与消费，常以集体刷屏方式攻击境外批评者和被认为辱华的品牌。
+    与工业党相比，他们更具全球中产的消费身份，政治上未必有系统主张，但在对外问题上最激烈。
+  pos:
+    - { at: 2016-01, x: 0.2, y: -0.6, z: 0.9, note: 消费文化上亲市场，对外最强硬 }
+  voices:
+    - voice: scholar
+      text: 半年之后，帝吧出征，这一称呼的影响力被迅速放大，成为几乎尽人皆知的标签。
+      cite: i02-initium-fang-kecheng-pink
+      quote: true
+    - voice: zh
+      text: 相对于“工业党”，“小粉红”群体更加积极地参与消费文化，更加具有多元文化和全球中产阶级的身份特征
+      cite: i02-guancha-2019-06-17-gongyedang-pink
+      quote: true
+  cites: [i02-initium-fang-kecheng-pink, i02-guancha-2019-06-17-gongyedang-pink]
+
+- id: industrial-party
+  name: 工业党
+  en: Industrial Party
+  kind: trend
+  from: 2011
+  parents: [statism, nationalism]
+  against: [liberals]
+  terms: [工业党]
+  carriers: []
+  summary: >-
+    2010 年代网络上以理工科背景为主的一群论者，信奉生产力与技术至上，认为工业化价值超越政治制度之争，
+    以产业升级与国家能力论证现行体制。他们对官方的产业政策与举国体制最为拥护，与重视道德和制度的情怀党相对。
+  pos:
+    - { at: 2016, x: -0.3, y: -0.6, z: 0.65, note: 技术国家主义，支持产业政策 }
+  voices:
+    - voice: zh
+      text: “工业党”信奉生产力与技术至上，认为工业化的价值超越政党、政权的更替、政治制度与一时的文化思潮。
+      cite: i02-guancha-2018-10-25-gongyedang
+      quote: true
+  cites: [i02-guancha-2018-10-25-gongyedang]
+
+- id: tangping
+  name: 躺平与润学
+  short: 躺平
+  en: Lying flat and "run" philosophy
+  kind: trend
+  from: 2021-04
+  terms: [躺平, 润学]
+  carriers: []
+  summary: >-
+    2021 年网帖《躺平即是正义》引发的青年退出竞争态度，被视为对内卷的消极抵抗；官方媒体称躺平可耻。
+    2022 年上海封城后，讨论移民出国的润学流行。两者都不是政治纲领，而是用脚投票式的退出；本图按官方批判者的描述放在
+    偏离奋斗叙事、略偏宽松与外向的位置。
+  pos:
+    - { at: 2021-06, x: 0.0, y: 0.2, z: -0.3, note: 退出而非对抗；官媒视为消极情绪 }
+    - { at: 2022-06, x: 0.4, y: 0.5, z: -0.6, note: 润学：用移民表达对管控的不满 }
+  voices:
+    - voice: scholar
+      text: 牛津大学教授项飙认为，躺平是年轻人对“内卷”的一种反抗，是以放弃他们认为无意义的努力来退出竞争。
+      cite: e04-bbc-2021-06-01-tangping
+      quote: true
+    - voice: official
+      text: 在压力面前选择“躺平”不仅不正义，还是可耻的
+      cite: e04-xinhua-2021-05-20-tangping
+      quote: true
+    - voice: zh
+      text: 有关“润”的种种讨论及分析，也被中国网民戏称为“润学”。
+      cite: e04-bbc-2022-06-run-xue
+      quote: true
+  cites: [e04-bbc-2021-06-01-tangping, e04-xinhua-2021-05-20-tangping, e04-bbc-2022-06-run-xue]
+
+# ======== foreign 外来 · 对立面 ========
+
+- id: western-constitutional-democracy
+  name: 西方宪政民主
+  en: Western constitutional democracy
+  kind: foreign
+  from: 2013-04
+  terms: [宪政民主]
+  carriers: []
+  concept: document-9
+  summary: >-
+    2013 年 4 月中办九号文件列出的七个错误思潮之首，指多党竞争、三权分立、司法独立等制度安排，文件称宣扬它意在否定党的领导。
+    此后历史决议、法治思想与全过程人民民主等官方论述都以它为对立面。
+  pos:
+    - { at: 2013-04, x: 0.7, y: 1.0, z: -0.8, note: 九号文件描述的对立面：多党、分权、亲西方 }
+  voices:
+    - voice: doc
+      text: 'Promoting Western Constitutional Democracy: An attempt to undermine the current leadership and the socialism with Chinese characteristics system of governance.'
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬西方宪政民主，企图否定当前党的领导，否定中国特色社会主义制度（据 ChinaFile 英译回译）。
+    - voice: zh
+      text: 七大危险以“西方宪政民主”为首
+      cite: e03-nytcn-2013-08-20-document-9
+      quote: true
+  cites: [i02-chinafile-2013-11-08-document-9, e03-nytcn-2013-08-20-document-9]
+
+- id: universal-values
+  name: 普世价值
+  en: Universal values
+  kind: foreign
+  from: 2008
+  terms: [普世价值]
+  carriers: [liu-xiaobo]
+  concept: charter-08
+  summary: >-
+    2008 年汶川地震后南方报系使用普世价值一词引发论战，同年零八宪章以自由、平等、人权为普世价值。九号文件将宣扬普世价值列为第二项，
+    称其意在动摇党的执政理论基础；官方此后以全人类共同价值作为替代说法。
+  pos:
+    - { at: 2013-04, x: 0.5, y: 0.9, z: -0.8, note: 按九号文件的描述 }
+  voices:
+    - voice: zh
+      text: 自由、平等、人权是人类共同的普世价值；民主、共和、宪政是现代政治的基本制度架构。
+      cite: i02-rfa-2016-07-13-charter08-text
+      quote: true
+    - voice: doc
+      text: Promoting “universal values” in an attempt to weaken the theoretical foundations of the Party’s leadership.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬普世价值，企图动摇党的执政思想理论基础。
+  cites: [i02-chinafile-2013-11-08-document-9, i02-rfa-2016-07-13-charter08-text, e03-bbc-2013-05-13-document-9]
+
+- id: civil-society
+  name: 公民社会
+  en: Civil society
+  kind: foreign
+  from: 2013-04
+  terms: [公民社会]
+  carriers: [xu-zhiyong]
+  summary: >-
+    九号文件第三项，指独立于党的社会组织、维权律师与公民运动。文件称宣扬公民社会意在瓦解党的执政社会基础。
+    此后新公民运动、709 维权律师和境外 NGO 管理法都可视为这一判断的落实。
+  pos:
+    - { at: 2013-04, x: 0.4, y: 0.9, z: -0.5, note: 按九号文件的描述 }
+  voices:
+    - voice: doc
+      text: Promoting civil society in an attempt to dismantle the ruling party’s social foundation.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬公民社会，企图瓦解党执政的社会基础。
+    - voice: zh
+      text: 据微博流传的消息指出，这……七个不要讲……的范畴包括……公民社会……党的错误历史……司法独立。
+      cite: e03-bbc-2013-05-13-document-9
+      quote: true
+  cites: [i02-chinafile-2013-11-08-document-9, e03-bbc-2013-05-13-document-9]
+
+- id: neoliberalism
+  name: 新自由主义
+  en: Neoliberalism
+  kind: foreign
+  from: 1997
+  terms: [新自由主义]
+  carriers: []
+  summary: >-
+    新左派自 1990 年代后期用来批评华盛顿共识式改革（私有化、放松管制）的名词，2013 年被九号文件列为第四项，称其意在改变基本经济制度。
+    它使市场化改革派在官方话语中失去名分：主张市场者须自称社会主义市场经济，而不能援引新自由主义。
+  pos:
+    - { at: 2013-04, x: 1.0, y: 0.4, z: -0.8, note: 按九号文件与新左派的描述：全面私有化、亲西方 }
+  voices:
+    - voice: doc
+      text: Promoting Neoliberalism, attempting to change China’s Basic Economic System.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬新自由主义，企图改变我国基本经济制度。
+    - voice: zh
+      text: 七大危险以“西方宪政民主”为首，其他则包括对人权“普世价值”的宣扬，诸如媒体独立和公民社会之类的西式概念，热衷于市场化的“新自由主义”，以及针对惨痛党史的“虚无主义”批评。
+      cite: e03-nytcn-2013-08-20-document-9
+      quote: true
+  cites: [i02-chinafile-2013-11-08-document-9, e03-nytcn-2013-08-20-document-9, c09-tsinghua-cui-zhiyuan]
+
+- id: western-journalism
+  name: 西方新闻观
+  en: Western view of journalism
+  kind: foreign
+  from: 2013-04
+  terms: [西方新闻观, 新闻自由]
+  carriers: []
+  summary: >-
+    九号文件第五项，指新闻独立、媒体作为社会公器监督权力的观念，文件称其挑战党管媒体的原则。2016 年习近平视察三大央媒，
+    提出媒体姓党，是对这一项的正面回答。
+  pos:
+    - { at: 2013-04, x: 0.3, y: 1.0, z: -0.6, note: 按九号文件的描述 }
+  voices:
+    - voice: doc
+      text: Promoting the West’s idea of journalism, challenging China’s principle that the media and publishing system should be subject to Party discipline.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬西方新闻观，挑战我国党管媒体原则和新闻出版管理制度。
+    - voice: zh
+      text: 网络盛传中共中央推出……禁令，要求教师不要与学生讨论……新闻自由……等议题。
+      cite: e03-bbc-2013-05-13-document-9
+      quote: true
+  cites: [i02-chinafile-2013-11-08-document-9, e03-bbc-2013-05-13-document-9]
+
+- id: color-revolution
+  name: 颜色革命
+  en: Color revolution
+  kind: foreign
+  from: 2004
+  parents: [peaceful-evolution]
+  terms: [颜色革命]
+  carriers: []
+  summary: >-
+    2003—2005 年格鲁吉亚、乌克兰等国的政权更替后，中共把颜色革命视为西方颠覆的新形式，此后用于定性维权律师、香港抗议与境外 NGO。
+    2016 年审判维权律师时警方微博打出警惕颜色革命标签；外交部至今用它批评美国在他国策动政权更迭。
+  pos:
+    - { at: 2016-08, x: 0.6, y: 1.0, z: -1.0, note: 按官方描述：亲西方、颠覆政权 }
+  voices:
+    - voice: zh
+      text: 包括北京市公安局在内的多地警方官博转发了周世锋出庭的消息，并辅以“警惕颜色革命”话题标签。
+      cite: c06-bbc-2016-08-04-zhou-shifeng
+      quote: true
+    - voice: official
+      text: 策划颜色革命、搞政权更迭不得人心。
+      cite: b09-mfa-2026-03-08-wang-presser
+      quote: true
+  cites: [c06-bbc-2016-08-04-zhou-shifeng, c06-dw-2016-08-02-wang-yu, b09-mfa-2026-03-08-wang-presser]
+
+- id: peaceful-evolution
+  name: 和平演变
+  en: Peaceful evolution
+  kind: foreign
+  from: 1959
+  terms: [和平演变]
+  carriers: []
+  summary: >-
+    源自杜勒斯 1950 年代的说法，毛泽东用以警告西方以非战争方式改变社会主义国家。1989 年与苏东剧变后它成为官方主要的敌情判断，
+    十四大报告仍写和平演变与反和平演变的斗争将长期存在，但同时批评把和平演变主要危险放在经济领域的左的观点。
+  pos:
+    - { at: 1992-10, x: 0.8, y: 0.9, z: -1.0, note: 按官方描述：西方借经济与思想渗透改变制度 }
+  voices:
+    - voice: doc
+      text: 在社会主义现代化建设过程中，和平演变与反和平演变的斗争将长期存在，决不能放松警惕。
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: true
+  cites: [i03-reformdata-1992-10-12-14th-report]
+
+# ======== label 罪名 · 标签 ========
+
+- id: bourgeois-liberalization
+  name: 资产阶级自由化
+  en: Bourgeois liberalization
+  kind: label
+  from: 1980-12
+  terms: [资产阶级自由化]
+  carriers: [zhao-ziyang, hu-yaobang]
+  summary: >-
+    1980 年代用来批判主张西方式民主、思想解放过头者的罪名，1987 年胡耀邦因反自由化不力下台，1989 年邓小平把那场风波定性为
+    资产阶级自由化与四个坚持的对立，十三届四中全会指赵紫阳消极对待反自由化。党章至今写着坚持四项基本原则、反对资产阶级自由化。
+  pos:
+    - { at: 1989-06, x: 0.6, y: 0.9, z: -0.8, note: 按批判者的描述：全盘西化、多党制 }
+  voices:
+    - voice: doc
+      text: 这次事件的性质，就是资产阶级自由化和四个坚持的对立。
+      cite: e01-cpc-dsj-1989
+      quote: true
+    - voice: doc
+      text: 特别是他主持中央工作以来，消极对待坚持四项基本原则、反对资产阶级自由化的方针
+      cite: e01-cpc-dsj-1989
+      quote: true
+    - voice: doc
+      text: 在社会主义现代化建设的整个过程中，必须坚持四项基本原则，反对资产阶级自由化。
+      cite: i01-12371-2022-10-22-party-charter
+      quote: true
+  cites: [e01-cpc-dsj-1989, i01-12371-2022-10-22-party-charter, b14-bbc-2005-01-17-zhao-profile]
+
+- id: historical-nihilism
+  name: 历史虚无主义
+  en: Historical nihilism
+  kind: label
+  from: 2013-04
+  terms: [历史虚无主义]
+  carriers: []
+  summary: >-
+    九号文件第六项，指否定党史与新中国史、质疑英雄人物与毛泽东地位的言论。2018 年英雄烈士保护法把诋毁英烈入刑，
+    历史决议把它与拜金主义、享乐主义并列为错误思潮，民间史学刊物与回忆录写作因此受限。
+  pos:
+    - { at: 2013-04, x: 0.4, y: 0.8, z: -0.6, note: 按批判者的描述：否定党史以动摇执政合法性 }
+  voices:
+    - voice: doc
+      text: Promoting historical nihilism, trying to undermine the history of the CCP and of New China.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 宣扬历史虚无主义，企图否定党的历史和新中国历史。
+    - voice: doc
+      text: 拜金主义、享乐主义、极端个人主义和历史虚无主义等错误思潮不时出现
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+  cites: [i02-chinafile-2013-11-08-document-9, b04-gov-2021-11-16-resolution]
+
+- id: questioning-reform
+  name: 否定改革开放（“左”）
+  short: 否定改革
+  en: Questioning reform and opening
+  kind: label
+  from: 1992-10
+  against: [crossing-river, socialist-market-economy]
+  terms: [否定改革开放, 质疑改革开放]
+  carriers: []
+  summary: >-
+    指向左边的罪名。十四大报告要求警惕右但主要防止左，把左的表现概括为否定改革开放、把和平演变的主要危险放在经济领域；
+    九号文件第七项质疑改革开放也主要针对毛派与反市场言论。它说明党的正统同时向左右两侧划线。
+  pos:
+    - { at: 1992-10, x: -0.8, y: -0.6, z: 0.5, note: 按批判者的描述：回到以阶级斗争为纲 }
+  voices:
+    - voice: doc
+      text: 右可以葬送社会主义，“左”也可以葬送社会主义。
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: true
+    - voice: doc
+      text: Questioning Reform and Opening and the socialist nature of socialism with Chinese characteristics.
+      cite: i02-chinafile-2013-11-08-document-9
+      quote: true
+      zh: 质疑改革开放，质疑中国特色社会主义的社会主义性质。
+  cites: [i03-reformdata-1992-10-12-14th-report, i02-chinafile-2013-11-08-document-9]
+
+- id: low-red-high-black
+  name: 低级红、高级黑
+  short: 低级红高级黑
+  en: Low-level red, high-level black
+  kind: label
+  from: 2019-01
+  terms: [低级红, 高级黑]
+  carriers: []
+  concept: two-safeguards
+  summary: >-
+    2019 年《中共中央关于加强党的政治建设的意见》写入。低级红指庸俗、过火的颂扬，高级黑指以颂扬为名的反讽，
+    二者都被认为损害领袖与党的形象。它是少见的指向过度效忠一侧的罪名，说明表态的分寸本身也被纳入政治纪律。
+  pos:
+    - { at: 2019-02, x: -0.2, y: -0.9, z: 0.7, note: 被批判的是过度颂扬、调门过高者，取极端效忠的位置 }
+  voices:
+    - voice: doc
+      text: 不得搞任何形式的“低级红”、“高级黑”，决不允许对党中央阳奉阴违做两面人、搞两面派、搞“伪忠诚”。
+      cite: i03-xinhua-2019-02-27-political-building
+      quote: true
+  cites: [i03-xinhua-2019-02-27-political-building]
+
+- id: two-faced-people
+  name: 两面人
+  en: Two-faced people
+  kind: label
+  from: 2016-10
+  terms: [两面人]
+  carriers: [zhou-yongkang, bo-xilai]
+  summary: >-
+    十八届六中全会前后用来定性落马高官的罪名，指表面忠诚、背后阳奉阴违、搞团团伙伙的干部，常与妄议中央、七个有之一起出现。
+    历史决议把清除两面人列为维护集中统一领导的成果。它针对的是忠诚而非路线，罪名本身不指明被告的政治立场。
+  pos:
+    - { at: 2017, x: 0.1, y: 0.3, z: -0.1, note: 指对中央不忠，路线立场不明，取略偏离中央的位置 }
+  voices:
+    - voice: doc
+      text: 清除“两面人”，保证全党在政治立场、政治方向、政治原则、政治道路上同党中央保持高度一致
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+    - voice: doc
+      text: 特别是高级干部中极少数人政治野心膨胀、权欲熏心，搞阳奉阴违、结党营私、团团伙伙、拉帮结派、谋取权位等政治阴谋活动。
+      cite: b07-people-2016-11-03-xi-explanation
+      quote: true
+  cites: [b04-gov-2021-11-16-resolution, b07-people-2016-11-03-xi-explanation, b12-bbc-2020-04-20-sun-lijun]
+
+- id: wangyi-zhongyang
+  name: 妄议中央
+  en: Improper discussion of the central leadership
+  kind: label
+  from: 2015-10
+  terms: [妄议中央]
+  carriers: [ren-zhiqiang, cai-xia]
+  summary: >-
+    2015 年修订的党纪处分条例写入，指党员公开发表反对或批评中央大政方针的言论。任志强、蔡霞等批评习近平的党内人士先后受党纪处分，
+    蔡霞被开除党籍后公开嘲讽这一罪名；历史决议把搞尾大不掉、妄议中央列为七个有之之一。
+  pos:
+    - { at: 2016-03, x: 0.6, y: 0.7, z: -0.5, note: 被追究者多为党内自由派与市场派 }
+  voices:
+    - voice: doc
+      text: 搞尾大不掉、妄议中央的也有之
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+    - voice: zh
+      text: 不支持实体经济，就成了罪名，然后妄议中央，就成了个罪名，对党不老实，这也叫罪名。
+      cite: c04-voa-2020-08-17-cai-xia
+      quote: true
+  cites: [b04-gov-2021-11-16-resolution, c04-voa-2020-08-17-cai-xia, i01-cpc-2019-02-22-two-safeguards]
+
+- id: disorderly-capital
+  name: 资本无序扩张
+  en: Disorderly expansion of capital
+  kind: label
+  from: 2020-12
+  terms: [资本无序扩张]
+  carriers: [ma-yun]
+  summary: >-
+    2020 年 11 月蚂蚁集团上市被叫停后，同年 12 月中央经济工作会议提出防止资本无序扩张，随后阿里巴巴被罚 182 亿元、
+    滴滴与教培行业被整顿。它是对平台巨头的罪名，2023 年后官方转而强调支持民营经济，2025 年民企座谈会上马云重新露面。
+  pos:
+    - { at: 2021-04, x: 0.9, y: 0.3, z: -0.3, note: 按批判者的描述：资本凌驾于监管与党的领导之上 }
+  voices:
+    - voice: doc
+      text: 强化市场监管和反垄断规制，防止资本无序扩张，维护市场秩序
+      cite: b04-gov-2021-11-16-resolution
+      quote: true
+  cites: [b04-gov-2021-11-16-resolution, e04-bbc-2020-11-03-ant-ipo, b10-xinhua-2021-04-10-alibaba-fine, b10-bbc-2025-02-17-symposium]

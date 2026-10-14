@@ -1,0 +1,77 @@
+# F06: how media, scholars and rumour outlets describe the Jiang camp, the elitist coalition, the princelings, the petroleum clique and the political-legal system.
+
+jiang-shanghai:
+  - voice: zh
+    text: '有人認為，江氏"上海幫"這個說法並不確切，因為中共高層中來自上海的幹部並不一定就是同舟共濟的"幫友"，也並不一定都是緣於江澤民的提攜。'
+    cite: f06-bbc-2002-10-17-shanghai-gang-trad
+    quote: true
+  - voice: zh
+    text: 假如太子黨和上海幫失去了強有力的後台，這可能會削弱他們在中央委員會，政治局和政治局常委中的勢力。
+    cite: f06-bbc-2011-07-07-jiang-influence
+    quote: true
+  - voice: zh
+    text: 佩耶特似乎认为，曾氏人马一直控制着香港和澳门事务。这个判断与许多分析中共高层官场的人的说法相似。
+    cite: f06-rfa-2020-01-28-cheng-xiaonong
+    quote: true
+
+elitist:
+  - voice: scholar
+    text: 这两派之一是以胡锦涛和温家宝为首的“民粹主义者联盟”，另一派是早在江泽民时代崛起，现在以人大委员长吴邦国和政协主席贾庆林为首的“精英联盟”。
+    cite: f01-bbc-2012-11-06-cheng-li-factions
+    quote: true
+  - voice: west
+    text: The CCP balances these two coalitions, marrying tuanpai expertise in rural administration, propaganda and organisation with elitist skills in economic policymaking, foreign trade and investment and banking.
+    zh: 中共在两个联盟之间求平衡，把团派在农村管理、宣传和组织上的专长，与精英派在经济决策、外贸投资和金融上的本领结合起来。
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: true
+  - voice: west
+    text: Of the seven “elitist” candidates --- Xi Jinping, Bo Xilai, Wang Qishan, Zhang Dejiang, Yu Zhengsheng, Zhang Gaoli and Meng Jianzhu --- five are princelings, while Zhang and Meng draw their power from Jiang Zemin.
+    zh: 七名“精英派”人选中有五人是太子党，张高丽和孟建柱的权力则来自江泽民。
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: true
+
+princelings:
+  - voice: zh
+    text: 报道还说，即使在“八老”后代之中也有人对他们所称的太子党集团的贪婪感到担忧。
+    cite: f06-bbc-2012-12-27-bloomberg-heirs
+    quote: true
+  - voice: scholar
+    text: 太子党出身的军方领导人数量日益增多，折射出太子党在文职领导层内的攀升。
+    cite: f04-brookings-2010-06-29-military
+    quote: true
+  - voice: zh
+    text: 而当时正是红二代大批转移香港扎根，曾的地位可以为他们提供保护伞，同时也方便他们从事商业和金融活动，因此很容易彼此信任。
+    cite: f06-rfa-2020-01-28-cheng-xiaonong
+    quote: true
+
+petroleum:
+  - voice: zh
+    text: 除“东西二虎”之外，曾任中国石油天然气总公司总经理、党组书记的周永康，曾任中石油集团董事长的蒋洁敏，曾任中石油集团副总经理的王永春、曾任中石化集团总经理的王天普等人已相继被查。
+    cite: f06-bbc-2015-10-07-su-shulin
+    quote: true
+  - voice: official
+    text: 从1967年到1998年，周永康在石油系统工作了31年，官至中国石油天然气总公司总经理、党组书记。离开石油系统后步步高升，最终走上正国级高位。
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    quote: true
+  - voice: zh
+    text: 中国石油系统曾长期把持在江派大佬曾庆红、周永康等人手中。曾、周在这里培植大量亲信输送到政界及经济领域。
+    cite: f06-kzg-2018-07-27-su-shulin
+    quote: true
+  - voice: zh
+    text: 周永康案发后，被外界封为“石油帮帮主”，但一手打造石油帮的却是曾庆红，连周永康都是曾庆红一手提拔的。
+    cite: f06-epoch-2016-09-18-petroleum-gang
+    quote: true
+
+zhengfa:
+  - voice: zh
+    text: 一年時間內，周永康在四川、石油和政法系統的親信人馬紛紛因「嚴重違紀」而下台受調查。
+    cite: f06-bbc-2014-02-22-zhou-arrests-trad
+    quote: true
+  - voice: zh
+    text: 馬建和張越等人從中分取利益，國家政法和安全力量被竊用為官商勾結的利器。
+    cite: f06-rfi-2016-04-17-zhang-yue
+    quote: true
+  - voice: zh
+    text: 亲习近平、胡锦涛阵营的消息人士牛泪在去年9月的文章曾披露，吴永文是周永康的铁杆亲信，周曾授意时任湖北省政法委书记、公安厅厅长吴永文发明了法西斯特色的“网格式监控管理制度”，用来监控民众
+    cite: f06-epoch-2015-05-05-wu-yongwen
+    quote: true

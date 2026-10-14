@@ -1,0 +1,33 @@
+# I03 中央路线：中央实际路线的转折点，三轴同 content/isms（x 经济、y 政治、z 对外）
+# 数值是编者对相对位置的判断，以转折点前后的变化方向为主；note 写依据。
+
+- { at: 1978-12, x: -0.4, y: -0.45, z: -0.3, label: 十一届三中全会, note: 工作着重点转向现代化建设，宣布大规模群众阶级斗争基本结束；经济仍以计划为主, cite: i03-qingdao-1978-12-22-3rd-plenum }
+- { at: 1979-03, x: -0.35, y: -0.6, z: -0.35, label: 四项基本原则, note: 邓小平在理论务虚会上为思想解放划出政治边界, cite: i03-reformdata-1979-03-30-four-principles }
+- { at: 1989-06, x: -0.1, y: -0.8, z: -0.4, label: 六四与十三届四中全会, note: 定性为资产阶级自由化与四个坚持的对立，赵紫阳下台，治理整顿, cite: e01-cpc-dsj-1989 }
+- { at: 1992-01, x: 0.3, y: -0.55, z: -0.6, label: 南方谈话, note: 计划与市场都是手段，重启市场化；政治不放松, cite: e01-gov-2021-06-28-cpc-100y }
+- { at: 1992-10, x: 0.4, y: -0.5, z: -0.6, label: 十四大, note: 确立社会主义市场经济体制目标，警惕右但主要防止左, cite: i03-reformdata-1992-10-12-14th-report }
+- { at: 1997-09, x: 0.5, y: -0.45, z: -0.6, label: 十五大, note: 邓小平理论写入党章，国企抓大放小、非公经济成为重要组成部分, cite: i01-wenming-1997-09-12-15th-report }
+- { at: 2001-12, x: 0.6, y: -0.4, z: -0.75, label: 加入世贸组织, note: 对外融入全球经济的高点, cite: e01-cpc-dsj-2001 }
+- { at: 2002-11, x: 0.6, y: -0.35, z: -0.65, label: 十六大, note: 三个代表写入党章，私营企业主可以入党, cite: i01-chinanews-2002-11-14-16th-charter-resolution }
+- { at: 2003-10, x: 0.4, y: -0.35, z: -0.6, label: 科学发展观, note: 胡温以人为本、统筹兼顾，社会政策加强、经济略向国家调节回摆, cite: i01-cma-2012-12-17-scientific-development }
+- { at: 2008-11, x: 0.1, y: -0.45, z: -0.4, label: 四万亿刺激, note: 资金主要流向国企与地方平台，国进民退之议由此而起；奥运后对外开始自信, cite: e02-chinanews-2008-11-09-four-trillion }
+- { at: 2012-11, x: 0.3, y: -0.5, z: -0.2, label: 十八大, note: 习近平接任；中国梦与反腐，经济上仍讲改革, cite: i01-wsyu-2012-11-08-18th-report }
+- { at: 2013-04, x: 0.3, y: -0.65, z: 0.0, label: 九号文件, note: 列出七个错误思潮，意识形态全面收紧, cite: i02-chinafile-2013-11-08-document-9 }
+- { at: 2013-11, x: 0.45, y: -0.65, z: 0.1, label: 十八届三中全会, note: 使市场在资源配置中起决定性作用；同时设国家安全委员会与全面深化改革领导小组, cite: e03-gov-2013-11-15-reform-decision }
+- { at: 2014-04, x: 0.35, y: -0.7, z: 0.3, label: 总体国家安全观, note: 安全概念扩展到政治、文化、网络等十一个领域, cite: i01-gov-2014-04-15-holistic-security }
+- { at: 2015-07, x: 0.05, y: -0.7, z: 0.3, label: 股灾救市, note: 国家队入市托底，市场化承诺打折, cite: e03-bbc-2015-07-06-stock-review }
+- { at: 2015-11, x: 0.1, y: -0.7, z: 0.3, label: 供给侧结构性改革, note: 去产能以行政手段为主, cite: i01-cpc-2015-11-10-supply-side }
+- { at: 2016-10, x: 0.05, y: -0.78, z: 0.35, label: 十八届六中全会, note: 确立习近平核心地位，从严治党、清除两面人, cite: i01-cpc-2016-10-27-6th-plenum-communique }
+- { at: 2017-10, x: 0.0, y: -0.78, z: 0.5, label: 十九大, note: 习近平思想写入党章；新时代、大国外交；经济转向高质量发展, cite: i01-gov-2017-10-18-19th-report }
+- { at: 2018-03, x: -0.05, y: -0.85, z: 0.55, label: 修宪取消国家主席任期限制, note: 最高权力的制度约束被移除, cite: e03-xinhua-2018-03-11-amendment }
+- { at: 2018-07, x: -0.1, y: -0.85, z: 0.65, label: 中美贸易战, note: 对外经济关系由融入转向对抗与自主, cite: e03-bbc-2018-07-06-trade-war }
+- { at: 2020-06, x: -0.2, y: -0.9, z: 0.75, label: 香港国安法, note: 一国两制向一国倾斜，对外不惜与西方冲突, cite: e04-gov-2020-06-30-hk-nsl }
+- { at: 2020-11, x: -0.4, y: -0.9, z: 0.75, label: 叫停蚂蚁上市, note: 平台经济整顿开始，资本无序扩张成为罪名, cite: b10-sse-2020-11-03-ant-ipo }
+- { at: 2021-08, x: -0.55, y: -0.9, z: 0.8, label: 共同富裕与双减, note: 中央财经委提出共同富裕，教培行业被整顿, cite: i01-xinhua-2021-08-17-common-prosperity }
+- { at: 2022-10, x: -0.45, y: -0.92, z: 0.85, label: 二十大, note: 统筹发展和安全、坚持动态清零；习近平第三任期开始, cite: i01-gov-2022-10-16-20th-report }
+- { at: 2022-12, x: -0.3, y: -0.85, z: 0.75, label: 放开防疫, note: 新十条后清零政策结束，经济重新优先, cite: i01-bbc-2022-12-07-new-ten-rules }
+- { at: 2023-09, x: -0.35, y: -0.85, z: 0.75, label: 新质生产力, note: 产业政策与举国体制成为经济主轴, cite: i01-gov-2023-09-08-new-quality-productive-forces }
+- { at: 2024-07, x: -0.2, y: -0.85, z: 0.7, label: 二十届三中全会, note: 重申市场作用与民营经济促进，但以构建高水平社会主义市场经济体制为名, cite: i01-gov-2024-07-18-third-plenum-decision }
+- { at: 2025-02, x: -0.05, y: -0.85, z: 0.7, label: 民营企业座谈会, note: 马云等企业家重新露面，政策转向安抚民企, cite: b10-bbc-2025-02-17-symposium }
+- { at: 2025-04, x: -0.05, y: -0.85, z: 0.85, label: 对美关税反制, note: 对美国加征关税全面对等反制, cite: e04-bbc-2025-04-tariffs }
+- { at: 2025-10, x: -0.15, y: -0.85, z: 0.8, label: 二十届四中全会, note: 审议十五五规划建议，强调科技自立与安全, cite: i01-fmprc-2025-10-23-fourth-plenum-communique }

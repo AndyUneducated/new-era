@@ -1,0 +1,384 @@
+# F06: ranks for existing members of jiang-shanghai, elitist, princelings, petroleum and zhengfa, plus new labels.
+# A repeated f + cite only adds the rank (and rankQuote) to the label already on the card.
+
+# --- jiang-shanghai (patron jiang-zemin) ---
+
+zeng-qinghong:
+  - f: jiang-shanghai
+    cite: f06-bbc-2011-07-07-jiang-influence
+    quote: 上海幫和太子黨還是有一些元老級的人物，比如說前國家副主席曾慶紅，他曾經當過中組部部長，也當過中央書記處副主任。他在背後的影響力還是很大的。
+    rank: elder
+    rankQuote: 還是有一些元老級的人物，比如說前國家副主席曾慶紅
+  - f: princelings
+    cite: f06-bbc-2011-07-07-jiang-influence
+    quote: 上海幫和太子黨還是有一些元老級的人物，比如說前國家副主席曾慶紅
+    rank: elder
+    rankQuote: 還是有一些元老級的人物，比如說前國家副主席曾慶紅
+  - f: elitist
+    cite: b01-brookings-2007-17th-preview
+    rank: elder
+    rankQuote: led by former President Jiang Zemin and current Vice-President Zeng Qinghong
+  - f: petroleum
+    cite: f06-kzg-2018-07-27-su-shulin
+    quote: 曾庆红被指为“石油帮帮主”，退休后，周永康被指为石油帮“第一掌门人”。
+    rank: elder
+    rankQuote: 曾庆红被指为“石油帮帮主”
+  - f: petroleum
+    cite: f06-epoch-2016-09-18-petroleum-gang
+    quote: 曾庆红才是真正的石油帮总帮主。
+
+wu-bangguo:
+  - f: jiang-shanghai
+    cite: f01-brookings-2013-02-10-princelings
+    rank: core
+    rankQuote: a heavyweight leader in the Jiang camp
+  - f: elitist
+    cite: f01-brookings-2012-04-16-power-shift
+    rank: core
+    rankQuote: currently led by Wu Bangguo
+  - f: elitist
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: The “elitist” coalition, headed by Wu Bangguo and Jia Qinglin, include the so-called princelings (descendents of powerful party elites) with successful careers in the economically developed industrial zones.
+
+huang-ju:
+  - f: jiang-shanghai
+    cite: b01-bbc-2007-06-02-huang-ju-shanghai
+    rank: core
+    rankQuote: 也被视为是所谓“上海帮”的重要成员
+
+chen-liangyu:
+  - f: jiang-shanghai
+    cite: b06-bbc-2014-09-23-shanghai-gang
+    quote: 2006年9月24日，“上海帮”要员之一的陈良宇被撤职。
+    rank: core
+    rankQuote: “上海帮”要员之一的陈良宇
+
+han-zheng:
+  - f: jiang-shanghai
+    cite: b06-bbc-2014-09-23-shanghai-gang
+    rank: core
+    rankQuote: “上海帮”今天的代表人物
+
+jia-qinglin:
+  - f: jiang-shanghai
+    cite: b02-bbc-2003-03-13-jia-cppcc
+    rank: core
+  - f: elitist
+    cite: f01-brookings-2012-11-powerful-factions
+    rank: core
+    rankQuote: currently led by both Wu Bangguo, chairman of the national legislature, and Jia Qinglin
+
+li-changchun:
+  - f: jiang-shanghai
+    cite: b03-rfa-2007-10-16-li-career
+    rank: core
+
+zhou-yongkang:
+  - f: jiang-shanghai
+    cite: f02-nytcn-2018-10-24-meng-hongwei
+    rank: core
+    rankQuote: 周永康是前中共中央总书记江泽民的门生
+
+he-guoqiang:
+  - f: jiang-shanghai
+    cite: f01-voa-2012-11-04-who-is-who
+    rank: core
+
+zhang-dejiang:
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    rank: core
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    rank: core
+    rankQuote: Four princeling leaders on the PSC
+  - f: elitist
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: Of the seven “elitist” candidates --- Xi Jinping, Bo Xilai, Wang Qishan, Zhang Dejiang, Yu Zhengsheng, Zhang Gaoli and Meng Jianzhu --- five are princelings, while Zhang and Meng draw their power from Jiang Zemin.
+    rank: backbone
+
+zhang-gaoli:
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    rank: core
+  - f: elitist
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: Of the seven “elitist” candidates --- Xi Jinping, Bo Xilai, Wang Qishan, Zhang Dejiang, Yu Zhengsheng, Zhang Gaoli and Meng Jianzhu --- five are princelings, while Zhang and Meng draw their power from Jiang Zemin.
+    rank: backbone
+  - f: petroleum
+    cite: b05-jamestown-2010-energy-faction
+    rank: core
+    rankQuote: two Politburo members began their careers in the oil-and-gas sector
+  - f: petroleum
+    cite: f06-epoch-2016-09-18-petroleum-gang
+    quote: 随着曾庆红权势日涨，石油系统出身的国务委员周永康、山东省委书记张高丽、海南省委书记卫留成、上海市委副书记王安顺等都获得重用，成为江泽民集团的重要成员。
+
+wang-huning:
+  - f: jiang-shanghai
+    cite: f01-brookings-2017-new-politburo
+    rank: core
+
+guo-boxiong:
+  - f: jiang-shanghai
+    cite: b07-dw-2016-07-25-guo-sentence
+    rank: core
+    rankQuote: 是其控制军界的重要人物
+
+xu-caihou:
+  - f: jiang-shanghai
+    cite: b07-voa-2014-07-03-xu-hu
+    rank: core
+
+meng-jianzhu:
+  - f: jiang-shanghai
+    cite: c02-chubun-2008-09-04-meng-jianzhu
+    rank: backbone
+  - f: elitist
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: Of the seven “elitist” candidates --- Xi Jinping, Bo Xilai, Wang Qishan, Zhang Dejiang, Yu Zhengsheng, Zhang Gaoli and Meng Jianzhu --- five are princelings, while Zhang and Meng draw their power from Jiang Zemin.
+    rank: backbone
+
+zhang-chunxian:
+  - f: jiang-shanghai
+    cite: f04-rfi-2016-03-09-xinjiang
+    rank: backbone
+
+luo-huining:
+  - f: jiang-shanghai
+    cite: f06-rfi-2020-01-06-luo-huining
+    quote: 根据多伦多大学中共党史专家佩耶特，骆惠宁升迁，与前任总书记江泽民以及前国家副主席曾庆红有很大关系，以及青海的“石油帮”有关联。
+    rank: periphery
+
+zhu-rongji:
+  - f: jiang-shanghai
+    cite: b01-bbc-2022-11-30-jiang-obit
+    rank: periphery
+
+xi-jinping:
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    rank: periphery
+  - f: princelings
+    cite: f06-bbc-2011-07-07-jiang-influence
+    quote: 而且習近平是太子黨的領袖，在軍隊裏，太子黨高級將領，比如少將以上的，可能有150個左右。
+    rank: core
+    rankQuote: 習近平是太子黨的領袖
+  - f: elitist
+    cite: f01-brookings-2013-02-10-princelings
+    rank: core
+    rankQuote: currently led by Xi Jinping
+
+wang-qishan:
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    rank: periphery
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    rank: core
+    rankQuote: Four princeling leaders on the PSC
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    rank: core
+    rankQuote: 第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来
+
+yu-zhengsheng:
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    rank: periphery
+  - f: princelings
+    cite: f01-brookings-2013-02-10-princelings
+    rank: core
+    rankQuote: Four princeling leaders on the PSC
+  - f: elitist
+    cite: f06-shukla-2012-01-who-after-hu
+    quote: Of the seven “elitist” candidates --- Xi Jinping, Bo Xilai, Wang Qishan, Zhang Dejiang, Yu Zhengsheng, Zhang Gaoli and Meng Jianzhu --- five are princelings, while Zhang and Meng draw their power from Jiang Zemin.
+    rank: backbone
+
+liu-yunshan:
+  - f: jiang-shanghai
+    cite: f01-dw-2012-11-07-psc-rumours
+    rank: periphery
+
+bo-xilai:
+  - f: jiang-shanghai
+    cite: f01-nyt-2012-11-20-reformists
+    rank: periphery
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    rank: core
+    rankQuote: “太子党”领军人物之一
+  - f: elitist
+    cite: f01-brookings-zh-team-of-rivals
+    rank: core
+    rankQuote: 第五代领导中的“精英派”核心成员包括习近平、副总理王岐山和重庆市委书记薄熙来
+
+sun-zhengcai:
+  - f: jiang-shanghai
+    cite: f04-bbc-2017-07-24-sun-zhengcai
+    rank: periphery
+
+huang-qifan:
+  - f: jiang-shanghai
+    cite: c07-ltn-2026-10-13-huang-qifan
+    rank: periphery
+
+# --- princelings (no patron) ---
+
+jiang-zemin:
+  - f: princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: 他会像他的前任江泽民（也是太子党）一样照顾他们
+    rank: elder
+
+zhang-youxia:
+  - f: princelings
+    cite: c05-voa-2024-04-04-princelings
+    rank: core
+    rankQuote: 在习近平的执政团队中，硕果仅存的“太子党”就是张又侠
+
+liu-yuan:
+  - f: princelings
+    cite: c05-voa-2024-04-04-princelings
+    rank: core
+    rankQuote: 是“太子党”中的顶级人物
+
+liu-he:
+  - f: princelings
+    cite: f02-orf-2021-xi-gang
+    rank: core
+
+li-yuanchao:
+  - f: princelings
+    cite: f01-voa-2012-11-04-who-is-who
+    rank: core
+
+liu-yandong:
+  - f: princelings
+    cite: c01-rfa-2015-02-10-gao-xin-tuanpai-princelings
+    rank: core
+
+li-zhanshu:
+  - f: princelings
+    cite: b05-zaobao-2017-10-23-li-zhanshu
+    quote: 香港《明报》曾披露，栗战书出生自中共革命家庭，也属于“红二代”。
+    rank: core
+
+li-tieying:
+  - f: princelings
+    cite: f06-cdt-2010-05-04-princeling-list
+    quote: 李铁映——全国人大副委员长（湖南长沙人，原全国人大副委员长李维汉之长子
+    rank: core
+
+li-xiaopeng:
+  - f: princelings
+    cite: f02-reuters-2012-11-princelings-factbox
+    rank: backbone
+
+liu-yazhou:
+  - f: princelings
+    cite: c05-voa-2024-04-04-princelings
+    rank: backbone
+
+wu-shengli:
+  - f: princelings
+    cite: f04-rfa-2017-11-07-princelings
+    quote: 吴胜利（前浙江省委书记吴宪之子，任海军司令员）
+    rank: backbone
+  - f: princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: 有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）
+
+ma-xiaotian:
+  - f: princelings
+    cite: f04-rfa-2017-11-07-princelings
+    quote: 马晓天（前解放军大校之子、岳父曾为解放军中将，任空军司令员）
+    rank: backbone
+  - f: princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: 这3名军官（马晓天、张海阳和刘源）全都是太子党
+
+li-jinai:
+  - f: princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: 因为目前中央军委中只有两人是太子党（李继耐和吴胜利）
+    rank: backbone
+
+zhou-xiaochuan:
+  - f: princelings
+    cite: f06-cdt-2010-05-04-princeling-list
+    quote: 周小川——中国人民银行行长（江苏宜兴人，原机械工业部、建设部部长周建南之子）
+    rank: backbone
+
+dai-bingguo:
+  - f: princelings
+    cite: f06-cdt-2010-05-04-princeling-list
+    quote: 戴秉国——外交部常务副部长（贵州人，原外交部副部长、文化部部长黄镇女婿
+    rank: backbone
+
+wen-yunsong:
+  - f: princelings
+    cite: b02-nytcn-2012-10-26-wen-wealth
+    rank: periphery
+
+li-xiaolin:
+  - f: princelings
+    cite: c05-cna-2018-05-26-li-xiaolin
+    quote: 有「電力一姐」之稱的「紅二代」李小琳18日自中國大唐集團副總經理職務申請退休
+    rank: periphery
+
+ren-zhiqiang:
+  - f: princelings
+    cite: b10-voa-2020-09-22-ren
+    quote: 父亲是大陆前商业部副部长任泉生，为典型的“红二代”。
+    rank: periphery
+
+hu-deping:
+  - f: princelings
+    cite: f06-cdt-2010-05-04-princeling-list
+    quote: 胡德平——全国工商联副主席、统战部党组书记兼副部长（湖南浏阳人，原中央总书记胡耀邦长子）
+    rank: periphery
+
+gu-kailai:
+  - f: princelings
+    cite: f06-cdt-2010-05-04-princeling-list
+    quote: 谷开来——薄熙来之妻（山东荣成人，前副总理谷牧之女）
+    rank: periphery
+
+# --- petroleum (patron zhou-yongkang) ---
+
+jiang-jiemin:
+  - f: petroleum
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    rank: core
+    rankQuote: 其中，蒋洁敏跟周牵连颇深。
+
+wang-yongchun:
+  - f: petroleum
+    cite: f02-bbc-2014-02-26-zhou-watch
+    rank: backbone
+
+# --- zhengfa (patron zhou-yongkang) ---
+
+li-dongsheng:
+  - f: zhengfa
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    rank: core
+    rankQuote: 为四川系、石油系、政法系、秘书帮的重要成员
+
+zhou-benshun:
+  - f: zhengfa
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    rank: core
+    rankQuote: 周本顺也曾是周永康政法系统的“身边人”
+
+wu-changshun:
+  - f: zhengfa
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    quote: 来自媒体的报道显示，公安部原副部长李东生、天津市公安局原局长武长顺都与周颇有交情。
+    rank: backbone
+
+meng-hongwei:
+  - f: zhengfa
+    cite: f02-nytcn-2018-10-24-meng-hongwei
+    quote: 孟宏伟是在周永康担任公安部部长期间被提拔到最后那个职位上的。
+    rank: periphery

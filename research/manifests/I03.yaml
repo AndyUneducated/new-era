@@ -239,3 +239,174 @@ web:
     url: https://cn.nytimes.com/china/20191119/china-xinjiang-muslims-leak/
     excerpt: true
     keep: [ 但他没有对泄露出来的403页内部文件的真实性提出质疑, 中国新疆自治区政府的声明 ]
+
+  # ======== round 3: isms and the central line ========
+  # ---- official sources
+  - id: i03-qingdao-1978-12-22-3rd-plenum
+    title: 中国共产党第十一届中央委员会第三次全体会议公报（一九七八年十二月二十二日通过）
+    publisher: 中共青岛市委党史研究院（转载《人民日报》）
+    date: 1978-12-22
+    voice: doc
+    url: http://dsyj.qingdao.gov.cn/lssj_87/dswx_87/202202/t20220216_4358827.shtml
+    start: 中国共产党第十一届中央委员会第三次全体会议，于一九七八年十二月十八日
+    end: 进行新的长征。
+  - id: i03-reformdata-1979-03-30-four-principles
+    title: 坚持四项基本原则（1979年3月30日，邓小平在党的理论工作务虚会上的讲话，载《邓小平文选》第二卷）
+    publisher: 改革大数据服务平台（中国改革信息库）
+    author: 邓小平
+    date: 1979-03-30
+    voice: doc
+    url: http://www.reformdata.org/1979/0330/5172.shtml
+    start: 同志们：
+    end: 这是邓小平同志在党的理论工作务虚会上的讲话。
+  - id: i03-gov-2017-12-20-xi-economic-thought
+    title: 中央经济工作会议首提习近平新时代中国特色社会主义经济思想
+    publisher: 新华社（中国政府网）
+    date: 2017-12-20
+    voice: official
+    url: https://www.gov.cn/xinwen/2017-12/20/content_5248943.htm
+    start: 新华社北京12月20日电（记者 韩洁
+    end: 必须长期坚持、不断丰富发展。
+  - id: i03-mee-2018-05-22-eco-thought
+    title: 生态环境部传达学习贯彻习近平生态文明思想和全国生态环境保护大会精神 坚决打好污染防治攻坚战
+    publisher: 生态环境部
+    date: 2018-05-21
+    voice: official
+    url: https://www.mee.gov.cn/xxgk2018/xxgk/xxgk15/201805/t20180522_630179.html
+    start: 全国生态环境保护大会5月18日至19日在北京召开。生态环境部
+    end: 作出应有的贡献。
+  - id: i03-gov-2018-06-23-foreign-affairs-conference
+    title: 习近平：努力开创中国特色大国外交新局面（中央外事工作会议）
+    publisher: 新华社（中国政府网）
+    date: 2018-06-23
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-06/23/content_5300807.htm
+    start: 新华社北京6月23日电 中央外事工作会议
+    end: 澳门公署特派员等参加会议。
+  - id: i03-xinhua-2019-02-27-political-building
+    title: 中共中央关于加强党的政治建设的意见（2019年1月31日）
+    publisher: 新华社
+    date: 2019-02-27
+    voice: doc
+    url: http://www.xinhuanet.com/politics/2019-02/27/c_1124171974.htm
+    start: 新华社北京2月27日电
+    end: 提出加强军队党的政治建设的具体意见。
+  - id: i03-gov-2020-11-17-rule-of-law-conference
+    title: 习近平在中央全面依法治国工作会议上发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2020-11-17
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-11/17/content_5562085.htm
+    start: 新华社北京11月17日电 中央全面依法治国工作会议
+    end: 主要负责同志等参加会议。
+  - id: i03-gov-2023-10-08-culture-thought
+    title: 习近平对宣传思想文化工作作出重要指示（全国宣传思想文化工作会议）
+    publisher: 新华社（中国政府网）
+    date: 2023-10-08
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202310/content_6907766.htm
+    start: 新华社北京10月8日电
+    end: 中央军委机关有关部门负责同志等参加会议。
+  - id: i03-cctv-2018-10-22-guojin-mintui
+    title: “国进民退”是真现实还是伪问题？
+    publisher: 央视网
+    author: 沐城
+    date: 2018-10-22
+    voice: official
+    url: https://news.cctv.com/2018/10/22/ARTIs7lXqT6AFEP55PFzYUz4181022.shtml
+    start: 核心提示：
+    end: 靠完善法律体系提供保障。
+  # ---- media and scholars
+  - id: i03-bbc-2018-09-14-guojin-mintui
+    title: “私企退场论”：国进民退加剧 中国民企惶恐情绪蔓延
+    publisher: BBC 中文
+    date: 2018-09-14
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-45522113
+    excerpt: true
+    keep: [ 国进民退是事实, 从胡锦涛时代的后期, 上世纪80、90年代的改革主张小政府 ]
+  - id: i03-nytcn-2021-03-04-dongsheng-xijiang
+    title: “东升西降”：习近平的后疫情时代中国崛起蓝图
+    publisher: 纽约时报中文网
+    date: 2021-03-04
+    voice: zh
+    url: https://cn.nytimes.com/china/20210304/xi-china-congress/
+    excerpt: true
+    keep: [ 东升西降, 当今世界最大的乱源在美国, 西强东弱 ]
+  - id: i03-voa-2021-03-14-dongsheng-xijiang
+    title: 习近平的“东升西降”世界观与现实的矛盾
+    publisher: 美国之音
+    date: 2021-03-14
+    voice: zh
+    url: https://www.voachinese.com/a/xi-nationalistic-rhetoric-and-its-implications-20210314/5813777.html
+    excerpt: true
+    keep: [ 东风压倒西风, 祁连县委宣传部 ]
+  - id: i03-rfa-2007-05-18-democratic-socialism
+    title: 专访《炎黄春秋》杂志社副社长吴思（谢韬《民主社会主义模式与中国前途》引发争议）
+    publisher: 自由亚洲电台
+    date: 2007-05-18
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/yanghuang-20070518.html
+    excerpt: true
+    keep: [ 民主社会主义模式与中国前途, 谢韬给民主社会主义模式下的定义 ]
+  - id: i03-secretchina-2007-07-15-xie-tao
+    title: 谢韬：只有民主社会主义才能救中国（转载《炎黄春秋》2007年第2期）
+    publisher: 看中国
+    author: 谢韬
+    date: 2007-07-15
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2007/07/15/203771.html
+    excerpt: true
+    keep: [ 构成民主社会主义模式的是 ]
+  - id: i03-voa-2012-07-13-jiang-qing
+    title: 儒学家《纽约时报》刊文批民主、提王道
+    publisher: 美国之音
+    date: 2012-07-13
+    voice: zh
+    url: https://www.voachinese.com/a/nyt-oped-on-confucian-politics-20120712/1403752.html
+    excerpt: true
+    keep: [ 中国的儒学宪政, 蒋庆不承认民主政治, 三重合法性 ]
+  - id: i03-rujiazg-2015-11-03-yao-zhongqiu
+    title: 宪政儒学的两个用意（姚中秋）
+    publisher: 儒家网（弘道书院）
+    author: 姚中秋
+    date: 2015-11-03
+    voice: scholar
+    url: https://www.rujiazg.com/index.php/article/6770
+    excerpt: true
+    keep: [ 笔名秋风, 我们提出“儒家宪政”命题和研究纲领 ]
+  - id: i03-bbc-2013-05-21-constitutionalism
+    title: 中共党刊发文称宪政属于资本主义
+    publisher: BBC 中文
+    date: 2013-05-21
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/05/130521_china_capitalism
+    excerpt: true
+    keep: [ 宪政的关键性制度元素和理念只属于资本主义, 宪政作为完整的制度架构并没有普适性, 依宪治国不是实行宪政 ]
+  - id: i03-bbc-2013-05-23-scholars-constitutionalism
+    title: 多名中国学者撰文反驳“宪政属资论”
+    publisher: BBC 中文
+    date: 2013-05-23
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/05/130523_china_scholar_argue
+    excerpt: true
+    keep: [ 不是资产阶级的专利, 中国宪政网 ]
+  - id: i03-infzm-2008-12-10-wu-market
+    title: 【1991】吴敬琏：“吴市场”从贬词变成美誉
+    publisher: 南方周末
+    author: 柳红
+    date: 2008-12-10
+    voice: zh
+    url: https://www.infzm.com/contents/21066
+    excerpt: true
+    keep: [ 有计划, 由贬词变成了美誉, 他呼吁政治改革要和经济改革同时推进 ]
+  - id: i03-yiqingxu-panxu-2018-replication
+    title: Replicating Pan and Xu (2018), "China's Ideological Spectrum"
+    publisher: Yiqing Xu（斯坦福大学）
+    author: Jinwen Wu, Yiqing Xu
+    voice: scholar
+    lang: en
+    url: https://yiqingxu.org/replications/panxu2018.html
+    excerpt: true
+    keep: [ "politically liberal, promarket, and nonnationalist preferences are more", "strongly correlated axes define China’s ideological spectrum as a" ]

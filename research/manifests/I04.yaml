@@ -1,0 +1,2239 @@
+# I04: 人民日报 press-term counts (method source) and the editorial sample 2000–2026, full text.
+web:
+  # ---- method: the corpus behind content/press/I04.yaml
+  - id: i04-ciallo-rmrb-corpus
+    title: "人民日报逐年词频的检索方法：CialloCorpus 人民日报全文数据集（Hugging Face Papersnake/people_daily_news，CC0）2000–2025 年逐年全文 + 人民日报电子版（paper.people.com.cn）2026-01-01 至 2026-10-13 逐日抓取；按篇计数（标题或正文去空白后含词即计 1 篇，同日同开头 200 字的重复稿只计一次）；脚本 research/scripts/I04-count.ts、I04-scrape-2026.ts；检索日期 2026-10-14"
+    publisher: CialloCorpus（GitHub prnake/CialloCorpus）
+    date: 2026-10-14
+    voice: doc
+    url: https://raw.githubusercontent.com/prnake/CialloCorpus/master/README.md
+    start: "## 人民日报"
+    end: "http://www.people.com.cn"
+  # ---- editorials: 社论, 任仲平, 本报评论员
+  # ---- 2000
+  - id: i04-rmrb-2000-05-22-editorial
+    title: "人民日报社论：全面加强党的建设的伟大纲领"
+    publisher: 人民日报
+    date: 2000-05-22
+    voice: doc
+    url: https://web.archive.org/web/20020112200757id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20000522/72079.html
+    start: "江泽民同志关于中国共产党"
+    end: "富强，更加兴旺发达。"
+  - id: i04-rmrb-2000-06-28-renzhongping
+    title: "任仲平：大力弘扬时代和民族精神的主旋律——论爱国主义、集体主义和社会主义"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2000-06-28
+    voice: doc
+    url: https://web.archive.org/web/20011031154811id_/http://www.people.com.cn/GB/channel7/498/20000628/121346.html
+    start: "（一）历史正在走向新的世"
+    end: "艰苦创业的强大动力。"
+  - id: i04-rmrb-2000-07-01-editorial
+    title: "人民日报社论：开创思想政治工作的新局面"
+    publisher: 人民日报
+    date: 2000-07-01
+    voice: doc
+    url: https://web.archive.org/web/20011031224013id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20000701/125586.html
+    start: "今天是中国共产党成立79"
+    end: "思想政治工作新局面。"
+  - id: i04-rmrb-2000-08-21-editorial
+    title: "人民日报社论：进一步加快干部人事制度改革步伐"
+    publisher: 人民日报
+    date: 2000-08-21
+    voice: doc
+    url: https://web.archive.org/web/20011031134325id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20000821/195159.html
+    start: "今天本报全文刊登《深化干"
+    end: "提供坚强的组织保证。"
+  - id: i04-rmrb-2000-08-29-editorial
+    title: "人民日报社论：高度重视老龄问题 切实加强老龄工作"
+    publisher: 人民日报
+    date: 2000-08-29
+    voice: doc
+    url: https://web.archive.org/web/20010830175158id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20000829/206555.html
+    start: "全国老龄工作会议在圆满完"
+    end: "龄事业不断向前发展。"
+  - id: i04-rmrb-2000-09-06-commentator
+    title: "人民日报评论员：把供销合作社的改革推向新阶段"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2000-09-06
+    voice: doc
+    url: https://web.archive.org/web/20021125131348id_/http://www.people.com.cn/GB/channel7/35/20000906/219313.html
+    start: "经国务院批准，中华全国供"
+    end: "的发展作出更大贡献。"
+  - id: i04-rmrb-2000-10-12-editorial
+    title: "人民日报社论：新世纪的伟大进军"
+    publisher: 人民日报
+    date: 2000-10-12
+    voice: doc
+    url: https://web.archive.org/web/20011031140616id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20001012/267730.html
+    start: "中国共产党第十五届中央委"
+    end: "的目标一定能够达到。"
+  - id: i04-rmrb-2000-10-30-renzhongping
+    title: "任仲平：新世纪伟大进军的根本思想武器"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2000-10-30
+    voice: doc
+    url: https://web.archive.org/web/20011031143434id_/http://www.people.com.cn/GB/channel7/1219/20001030/291736.html
+    start: "（一）党的十五届五中全会"
+    end: "锐意进取，阔步前进。"
+  - id: i04-rmrb-2000-12-01-editorial
+    title: "人民日报社论：努力实现“十五”计划的良好开局"
+    publisher: 人民日报
+    date: 2000-12-01
+    voice: doc
+    url: https://web.archive.org/web/20011031142358id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20001201/333343.html
+    start: "本世纪最后一次中央经济工"
+    end: "出坚实有力的第一步。"
+  - id: i04-rmrb-2000-12-04-editorial
+    title: "人民日报社论：统一战线是完成新世纪三大任务的重要保证"
+    publisher: 人民日报
+    date: 2000-12-04
+    voice: doc
+    url: https://web.archive.org/web/20010830123855id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20001204/336115.html
+    start: "在人类社会即将进入二十一"
+    end: "预祝会议圆满成功！"
+  # ---- 2001
+  - id: i04-rmrb-2001-01-06-editorial
+    title: "人民日报社论：新世纪更需加强农业基础"
+    publisher: 人民日报
+    date: 2001-01-06
+    voice: doc
+    url: https://web.archive.org/web/20011223091027id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010106/371862.html
+    start: "我们刚刚跨入新世纪的门槛"
+    end: "造中国农业的新辉煌。"
+  - id: i04-rmrb-2001-01-10-editorial
+    title: "人民日报社论：让旅游业大放光彩"
+    publisher: 人民日报
+    date: 2001-01-10
+    voice: doc
+    url: https://web.archive.org/web/20011223091105id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010110/374852.html
+    start: "全国旅游发展工作会议胜利"
+    end: "射出更加夺目的光芒！"
+  - id: i04-rmrb-2001-02-26-editorial
+    title: "人民日报社论：深入学习研究贯彻“三个代表”的重要思想"
+    publisher: 人民日报
+    date: 2001-02-26
+    voice: doc
+    url: https://web.archive.org/web/20011213232802id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010226/403187.html
+    start: "一年前，江泽民同志在广东"
+    end: "现代化建设蓬勃发展。"
+  - id: i04-rmrb-2001-03-03-editorial
+    title: "人民日报社论：团结就是力量 民主可收众益"
+    publisher: 人民日报
+    date: 2001-03-03
+    voice: doc
+    url: https://web.archive.org/web/20011223091119id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010303/407625.html
+    start: "俊彦荟萃，群贤毕集。全国"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2001-03-16-editorial
+    title: "人民日报社论：开创新世纪现代化建设新局面"
+    publisher: 人民日报
+    date: 2001-03-16
+    voice: doc
+    url: https://web.archive.org/web/20011223091301id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010316/418453.html
+    start: "绘就了新世纪中华民族伟大"
+    end: "新的更加壮美的篇章。"
+  - id: i04-rmrb-2001-04-04-editorial
+    title: "人民日报社论：开展“严打”整治斗争 加强社会治安工作"
+    publisher: 人民日报
+    date: 2001-04-04
+    voice: doc
+    url: https://web.archive.org/web/20011223091305id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010404/432476.html
+    start: "刚刚结束的全国社会治安工"
+    end: "化建设不断推向前进。"
+  - id: i04-rmrb-2001-04-05-editorial
+    title: "人民日报社论：动员起来坚决整顿规范市场经济秩序"
+    publisher: 人民日报
+    date: 2001-04-05
+    voice: doc
+    url: https://web.archive.org/web/20011223091310id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010405/433489.html
+    start: "全国整顿和规范市场经济秩"
+    end: "好的经济和社会环境。"
+  - id: i04-rmrb-2001-07-01-editorial
+    title: "人民日报社论：光荣属于中国共产党和中国人民"
+    publisher: 人民日报
+    date: 2001-07-01
+    voice: doc
+    url: https://web.archive.org/web/20011031162028id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20010701/501210.html
+    start: "中国共产党走过了80年的"
+    end: "国共产党和中国人民！"
+  - id: i04-rmrb-2001-08-24-renzhongping
+    title: "任仲平：中国共产党人新世纪的宣言和纲领"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2001-08-24
+    voice: doc
+    url: https://web.archive.org/web/20011201235023id_/http://www.people.com.cn/GB/guandian/26/20010824/542734.html
+    start: "（一）江泽民同志“七一”"
+    end: "大事业不断推向前进。"
+  - id: i04-rmrb-2001-08-31-renzhongping
+    title: "任仲平：用马克思主义的态度对待马克思主义"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2001-08-31
+    voice: doc
+    url: https://web.archive.org/web/20011217143403id_/http://www.people.com.cn/GB/guandian/26/20010831/548349.html
+    start: "（一）江泽民同志“七一”"
+    end: "的事业更加兴旺发达。"
+  # ---- 2002
+  - id: i04-rmrb-2002-01-10-editorial
+    title: "人民日报社论：开创新世纪环境保护工作的新局面"
+    publisher: 人民日报
+    date: 2002-01-10
+    voice: doc
+    url: https://web.archive.org/web/20021216175707id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020109/644968.html
+    start: "伴随着新年刚刚敲响的钟声"
+    end: "代化国家而努力奋斗！"
+  - id: i04-rmrb-2002-01-25-editorial
+    title: "人民日报社论：大力推进祖国和平统一进程"
+    publisher: 人民日报
+    date: 2002-01-25
+    voice: doc
+    url: https://web.archive.org/web/20021016014846id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020124/654994.html
+    start: "江泽民主席《为促进祖国统"
+    end: "复兴，作出新的努力。"
+  - id: i04-rmrb-2002-02-02-editorial
+    title: "人民日报社论：营造创新氛围 攀登科技高峰"
+    publisher: 人民日报
+    date: 2002-02-02
+    voice: doc
+    url: https://web.archive.org/web/20021216114942id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020201/660843.html
+    start: "昨天，党中央、国务院在京"
+    end: "就能永葆生机与活力。"
+  - id: i04-rmrb-2002-02-08-editorial
+    title: "人民日报社论：认清形势 坚定信心 进一步提高金融工作水平"
+    publisher: 人民日报
+    date: 2002-02-08
+    voice: doc
+    url: https://web.archive.org/web/20021216162608id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020207/665403.html
+    start: "在我们迎来新世纪第二个春"
+    end: "迎接党的十六大召开。"
+  - id: i04-rmrb-2002-03-03-editorial
+    title: "人民日报社论：谋发展大计创复兴伟业"
+    publisher: 人民日报
+    date: 2002-03-03
+    voice: doc
+    url: https://web.archive.org/web/20030423202331id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020303/678001.html
+    start: "金蛇狂舞去，龙马迎春来。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2002-03-05-editorial
+    title: "人民日报社论：毋忘发展重任、不负人民重托"
+    publisher: 人民日报
+    date: 2002-03-05
+    voice: doc
+    url: https://web.archive.org/web/20021216175740id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020305/679247.html
+    start: "九届全国人大五次会议今天"
+    end: "做出新的更大的贡献。"
+  - id: i04-rmrb-2002-07-01-editorial
+    title: "人民日报社论：以贯彻“三个代表”的新成就迎接十六大"
+    publisher: 人民日报
+    date: 2002-07-01
+    voice: doc
+    url: https://web.archive.org/web/20021216095348id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020630/764625.html
+    start: "在迎接党的十六大召开的日"
+    end: "全国代表大会的召开。"
+  - id: i04-rmrb-2002-08-26-editorial
+    title: "人民日报社论：以优异成绩迎接党的十六大"
+    publisher: 人民日报
+    date: 2002-08-26
+    voice: doc
+    url: https://web.archive.org/web/20021015184856id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20020826/807625.html
+    start: "中共中央政治局全体会议作"
+    end: "新贡献，迎接十六大。"
+  - id: i04-rmrb-2002-10-01-editorial
+    title: "人民日报社论：把伟大祖国建设得更美好"
+    publisher: 人民日报
+    date: 2002-10-01
+    voice: doc
+    url: https://web.archive.org/web/20021216175916id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20021001/835167.html
+    start: "在中国共产党第十六次全国"
+    end: "主义国家而努力奋斗。"
+  - id: i04-rmrb-2002-11-16-editorial
+    title: "人民日报社论：伟大的事业 美好的前程"
+    publisher: 人民日报
+    date: 2002-11-16
+    voice: doc
+    url: https://web.archive.org/web/20021201110818id_/http://www.people.com.cn/GB/guandian/183/2142/3677/20021116/867858.html
+    start: "中国共产党第十六次全国代"
+    end: "指引的方向奋勇前进。"
+  # ---- 2003
+  - id: i04-rmrb-2003-01-09-editorial
+    title: "人民日报社论：全面奔小康 重点在农村"
+    publisher: 人民日报
+    date: 2003-01-09
+    voice: doc
+    url: https://web.archive.org/web/20030819111035id_/http://www.people.com.cn/GB/guandian/26/20030108/904093.html
+    start: "辞旧迎新的钟声刚刚响过，"
+    end: "图一步一步变为现实。"
+  - id: i04-rmrb-2003-01-25-editorial
+    title: "人民日报社论：发展两岸关系 促进国家统一"
+    publisher: 人民日报
+    date: 2003-01-25
+    voice: doc
+    url: https://web.archive.org/web/20030220005018id_/http://www.people.com.cn/GB/guandian/26/20030124/914153.html
+    start: "江泽民主席《为促进祖国统"
+    end: "一天一定会早日到来！"
+  - id: i04-rmrb-2003-03-05-editorial
+    title: "人民日报社论：发扬光大雷锋精神"
+    publisher: 人民日报
+    date: 2003-03-05
+    voice: doc
+    url: https://web.archive.org/web/20031206122136id_/http://www.people.com.cn/GB/guandian/26/20030304/935993.html
+    start: "今天，是毛泽东同志“向雷"
+    end: "神之花开遍神州大地。"
+  - id: i04-rmrb-2003-03-15-editorial
+    title: "人民日报社论：发扬好传统 再创新辉煌"
+    publisher: 人民日报
+    date: 2003-03-15
+    voice: doc
+    url: https://web.archive.org/web/20031210054019id_/http://www.people.com.cn/GB/guandian/26/20030314/944082.html
+    start: "中国人民政治协商会议第十"
+    end: "，创造新的辉煌业绩。"
+  - id: i04-rmrb-2003-04-16-editorial
+    title: "人民日报社论：打响整顿和规范市场经济秩序新战役"
+    publisher: 人民日报
+    date: 2003-04-16
+    voice: doc
+    url: https://web.archive.org/web/20031012153406id_/http://www.people.com.cn/GB/guandian/26/20030415/972708.html
+    start: "维护正常的市场经济秩序，"
+    end: "宏伟目标做出新贡献！"
+  - id: i04-rmrb-2003-05-01-editorial
+    title: "人民日报社论：发扬光荣传统 站在时代前列"
+    publisher: 人民日报
+    date: 2003-05-01
+    voice: doc
+    url: https://web.archive.org/web/20031210085209id_/http://www.people.com.cn/GB/guandian/26/20030430/982997.html
+    start: "今天是“五一”国际劳动节"
+    end: "辉煌的新的历史篇章。"
+  - id: i04-rmrb-2003-05-15-renzhongping
+    title: "任仲平：筑起我们新的长城――论抗击非典的伟大精神"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2003-05-15
+    voice: doc
+    url: https://web.archive.org/web/20031228075950id_/http://www.people.com.cn/GB/guandian/26/20030515/992531.html
+    start: "（一）“把我们的血肉筑成"
+    end: "，永远屹立世界东方！"
+  - id: i04-rmrb-2003-06-05-editorial
+    title: "人民日报社论：依法推进国有资产管理体制改革"
+    publisher: 人民日报
+    date: 2003-06-05
+    voice: doc
+    url: https://web.archive.org/web/20031204061526id_/http://www.people.com.cn/GB/guandian/26/20030605/1008744.html
+    start: "《企业国有资产监督管理暂"
+    end: "改革进一步引向深入。"
+  - id: i04-rmrb-2003-08-21-renzhongping
+    title: "任仲平：发展是贯穿“三个代表”重要思想的主题"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2003-08-21
+    voice: doc
+    url: https://web.archive.org/web/20031205100757id_/http://www.people.com.cn/GB/news/2028308.html
+    start: "（一）中国需要发展，中国"
+    end: "奋斗中成为灿烂现实。"
+  - id: i04-rmrb-2003-10-01-editorial
+    title: "人民日报社论：满怀信心全面建设小康社会"
+    publisher: 人民日报
+    date: 2003-10-01
+    voice: doc
+    url: https://web.archive.org/web/20040409155026id_/http://www.people.com.cn/GB/guandian/1033/2118410.html
+    start: "金秋十月，硕果累累。在全"
+    end: "幸福生活和美好未来。"
+  # ---- 2004
+  - id: i04-rmrb-2004-01-01-editorial
+    title: "人民日报社论：奋进在全面建设小康社会征程上"
+    publisher: 人民日报
+    date: 2004-01-01
+    voice: doc
+    url: https://web.archive.org/web/20041031231947id_/http://www.people.com.cn/GB/guandian/2275266.html
+    start: "新年的钟声送走了令人难忘"
+    end: "设小康社会的新胜利。"
+  - id: i04-rmrb-2004-01-12-renzhongping
+    title: "任仲平：全面建设小康社会实践的升华"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2004-01-12
+    voice: doc
+    url: https://web.archive.org/web/20050123134015id_/http://www.people.com.cn/GB/guandian/2290776.html
+    start: "（一）带着胜利的喜悦和夺"
+    end: "脚步成为灿烂的现实。"
+  - id: i04-rmrb-2004-02-09-editorial
+    title: "人民日报社论：力争实现农民收入较快增长"
+    publisher: 人民日报
+    date: 2004-02-09
+    voice: doc
+    url: https://web.archive.org/web/20050122001801id_/http://www.people.com.cn/GB/jingji/1037/2326147.html
+    start: "今天本报全文发表了《中共"
+    end: "和农村发展的新局面。"
+  - id: i04-rmrb-2004-02-18-editorial
+    title: "人民日报社论：从严治党的重大举措"
+    publisher: 人民日报
+    date: 2004-02-18
+    voice: doc
+    url: https://web.archive.org/web/20041229202237id_/http://www.people.com.cn/GB/guoji/2345046.html
+    start: "中共中央颁布实施《中国共"
+    end: "实践创新和制度创新。"
+  - id: i04-rmrb-2004-03-13-editorial
+    title: "人民日报社论：同心同德 朝着全面建设小康社会宏伟目标阔步前进"
+    publisher: 人民日报
+    date: 2004-03-13
+    voice: doc
+    url: https://web.archive.org/web/20041207143458id_/http://www.people.com.cn/GB/guandian/1033/2388535.html
+    start: "全国政协十届二次会议完成"
+    end: "的宏伟目标阔步前进。"
+  - id: i04-rmrb-2004-03-15-editorial
+    title: "人民日报社论：团结稳定 为全面建设小康社会伟大事业努力奋斗"
+    publisher: 人民日报
+    date: 2004-03-15
+    voice: doc
+    url: https://web.archive.org/web/20041023090914id_/http://www.people.com.cn/GB/guandian/1033/2390397.html
+    start: "十届全国人大二次会议完成"
+    end: "的伟大事业推向前进。"
+  - id: i04-rmrb-2004-04-16-renzhongping
+    title: "任仲平：创造更加灿烂的先进文化"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2004-04-16
+    voice: doc
+    url: https://web.archive.org/web/20050208063201id_/http://www.people.com.cn/GB/shizheng/2450688.html
+    start: "（一）改革开放以来，特别"
+    end: "更加灿烂的先进文化。"
+  - id: i04-rmrb-2004-04-21-editorial
+    title: "人民日报社论：建设法治政府的纲领性文件"
+    publisher: 人民日报
+    date: 2004-04-21
+    voice: doc
+    url: https://web.archive.org/web/20050115082732id_/http://www.people.com.cn/GB/qiche/2459108.html
+    start: "3月22日，国务院发布了"
+    end: "建设法治政府的步伐。"
+  - id: i04-rmrb-2004-06-30-editorial
+    title: "人民日报社论：建设法治政府的重大举措"
+    publisher: 人民日报
+    date: 2004-06-30
+    voice: doc
+    url: https://web.archive.org/web/20041223010638id_/http://www.people.com.cn/GB/guandian/1033/2606051.html
+    start: "国务院28日召开全国依法"
+    end: "设事业不断推向前进。"
+  - id: i04-rmrb-2004-07-01-editorial
+    title: "人民日报社论：以提高执政能力为重点加强和改进党的建设"
+    publisher: 人民日报
+    date: 2004-07-01
+    voice: doc
+    url: https://web.archive.org/web/20050116235224id_/http://www.people.com.cn/GB/guandian/1033/2607987.html
+    start: "今天，是中国共产党成立８"
+    end: "义伟大事业推向前进。"
+  # ---- 2005
+  - id: i04-rmrb-2005-06-01-renzhongping
+    title: "任仲平：重大的战略任务 壮阔的历史征程"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2005-06-01
+    voice: doc
+    url: https://web.archive.org/web/20060101003048id_/http://opinion.people.com.cn/GB/40604/3433156.html
+    start: "（一）构建社会主义和谐社"
+    end: "当对得起历史和未来。"
+  - id: i04-rmrb-2005-06-01-editorial
+    title: "人民日报社论：花朵健康开放 未来充满希望"
+    publisher: 人民日报
+    date: 2005-06-01
+    voice: doc
+    url: https://web.archive.org/web/20060101003019id_/http://opinion.people.com.cn/GB/40604/3432629.html
+    start: "今天是六一国际儿童节，中"
+    end: "发展做出更大的贡献。"
+  - id: i04-rmrb-2005-07-05-editorial
+    title: "人民日报社论：面向基层 建功立业"
+    publisher: 人民日报
+    date: 2005-07-05
+    voice: doc
+    url: https://web.archive.org/web/20060101003520id_/http://opinion.people.com.cn/GB/40604/3517604.html
+    start: "近日，中共中央办公厅、国"
+    end: "小康社会的伟大事业。"
+  - id: i04-rmrb-2005-07-06-editorial
+    title: "人民日报社论：加快建设节约型社会"
+    publisher: 人民日报
+    date: 2005-07-06
+    voice: doc
+    url: https://web.archive.org/web/20060101003544id_/http://opinion.people.com.cn/GB/40604/3520485.html
+    start: "最近，国务院发出《关于做"
+    end: "社会做出应有的贡献。"
+  - id: i04-rmrb-2005-09-01-editorial
+    title: "人民日报社论：实现跨越发展 促进长治久安"
+    publisher: 人民日报
+    date: 2005-09-01
+    voice: doc
+    url: https://web.archive.org/web/20060101004323id_/http://opinion.people.com.cn/GB/40604/3658975.html
+    start: "今天是西藏自治区成立四十"
+    end: "伟大复兴而努力奋斗。"
+  - id: i04-rmrb-2005-09-30-editorial
+    title: "人民日报社论：加快发展步伐 保持团结稳定"
+    publisher: 人民日报
+    date: 2005-09-30
+    voice: doc
+    url: https://web.archive.org/web/20060101004941id_/http://opinion.people.com.cn/GB/40604/3739100.html
+    start: "在国庆佳节到来之际，我们"
+    end: "大复兴做出新的贡献。"
+  - id: i04-rmrb-2005-10-12-editorial
+    title: "人民日报社论：在新的发展起点上阔步前进"
+    publisher: 人民日报
+    date: 2005-10-12
+    voice: doc
+    url: https://web.archive.org/web/20060101005340id_/http://opinion.people.com.cn/GB/40604/3760297.html
+    start: "中国共产党第十六届中央委"
+    end: "五年规划而努力奋斗。"
+  - id: i04-rmrb-2005-10-12-editorial-2
+    title: "人民日报社论：体育的盛会 人民的节日"
+    publisher: 人民日报
+    date: 2005-10-12
+    voice: doc
+    url: https://web.archive.org/web/20060101005322id_/http://opinion.people.com.cn/GB/40604/3760138.html
+    start: "今天，第十届全国运动会在"
+    end: "全国运动会圆满成功。"
+  - id: i04-rmrb-2005-11-27-editorial
+    title: "人民日报社论：在全社会大力弘扬载人航天精神"
+    publisher: 人民日报
+    date: 2005-11-27
+    voice: doc
+    url: https://web.archive.org/web/20060101011541id_/http://opinion.people.com.cn/GB/40604/3892632.html
+    start: "庆祝神舟六号载人航天飞行"
+    end: "平与发展而努力奋斗！"
+  - id: i04-rmrb-2005-12-02-editorial
+    title: "人民日报社论：把经济社会发展切实转入科学发展轨道"
+    publisher: 人民日报
+    date: 2005-12-02
+    voice: doc
+    url: https://web.archive.org/web/20060101012403id_/http://opinion.people.com.cn/GB/40604/3908639.html
+    start: "刚刚闭幕的中央经济工作会"
+    end: "主义现代化的新胜利。"
+  # ---- 2006
+  - id: i04-rmrb-2006-01-09-editorial
+    title: "人民日报社论：努力建设创新型国家"
+    publisher: 人民日报
+    date: 2006-01-09
+    voice: doc
+    url: https://web.archive.org/web/20060919150739id_/http://opinion.people.com.cn/GB/40604/4008492.html
+    start: "全国科学技术大会今天在北"
+    end: "提供强大的科技支撑！"
+  - id: i04-rmrb-2006-02-22-editorial
+    title: "人民日报社论：扎实推进新农村建设的重大部署"
+    publisher: 人民日报
+    date: 2006-02-22
+    voice: doc
+    url: https://web.archive.org/web/20061215171338id_/http://opinion.people.com.cn/GB/40604/4129223.html
+    start: "春回大地，万象更新。"
+    end: "农民群众的民心工程。"
+  - id: i04-rmrb-2006-02-28-editorial
+    title: "人民日报社论：事关全局性根本性的战略决策"
+    publisher: 人民日报
+    date: 2006-02-28
+    voice: doc
+    url: https://web.archive.org/web/20061222154252id_/http://opinion.people.com.cn/GB/40604/4148204.html
+    start: "冬去春来，年年如此，今年"
+    end: "人民将记住这个春天。"
+  - id: i04-rmrb-2006-03-03-editorial
+    title: "人民日报社论：凝聚人民智慧 促进科学发展"
+    publisher: 人民日报
+    date: 2006-03-03
+    voice: doc
+    url: https://web.archive.org/web/20070204081833id_/http://opinion.people.com.cn/GB/40604/4160204.html
+    start: "沐浴着和煦的春风，全国政"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2006-03-05-editorial
+    title: "人民日报社论：在新的历史起点上团结奋进"
+    publisher: 人民日报
+    date: 2006-03-05
+    voice: doc
+    url: https://web.archive.org/web/20070116124620id_/http://opinion.people.com.cn/GB/40604/4165426.html
+    start: "十届全国人大四次会议在北"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2006-04-05-renzhongping
+    title: "任仲平：没有那么一股子气，不行"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2006-04-05
+    voice: doc
+    url: https://web.archive.org/web/20061209162622id_/http://opinion.people.com.cn/GB/40604/4270424.html
+    start: "（一）与“十一五”规划的"
+    end: "生气勃勃，大有希望。"
+  - id: i04-rmrb-2006-04-19-editorial
+    title: "人民日报社论：关键是加快实现“三个转变”"
+    publisher: 人民日报
+    date: 2006-04-19
+    voice: doc
+    url: https://web.archive.org/web/20061209162729id_/http://opinion.people.com.cn/GB/40604/4310503.html
+    start: "第六次全国环境保护大会，"
+    end: "的宏伟目标努力奋斗！"
+  - id: i04-rmrb-2006-05-01-editorial
+    title: "人民日报社论：辛勤劳动创造美好生活"
+    publisher: 人民日报
+    date: 2006-05-01
+    voice: doc
+    url: https://web.archive.org/web/20061113195226id_/http://opinion.people.com.cn/GB/40604/4346088.html
+    start: "劳动创造了人类，劳动改变"
+    end: "来属于伟大的劳动者。"
+  - id: i04-rmrb-2006-05-23-editorial
+    title: "人民日报社论：同心协力建设创新型国家"
+    publisher: 人民日报
+    date: 2006-05-23
+    voice: doc
+    url: https://web.archive.org/web/20061104223600id_/http://opinion.people.com.cn/GB/40604/4393617.html
+    start: "中国科学技术协会第七次全国代表大会今天在北京隆重开幕。"
+    end: "国家作出更大的贡献！"
+  - id: i04-rmrb-2006-07-01-editorial
+    title: "人民日报社论：先进性长在 生命力永存"
+    publisher: 人民日报
+    date: 2006-07-01
+    voice: doc
+    url: https://web.archive.org/web/20070214101053id_/http://opinion.people.com.cn/GB/40604/4550515.html
+    start: "在“十一五”规划的开局之"
+    end: "中华民族的伟大复兴。"
+  # ---- 2007
+  - id: i04-rmrb-2007-01-23-editorial
+    title: "人民日报社论：统筹解决人口问题 促进社会和谐发展"
+    publisher: 人民日报
+    date: 2007-01-23
+    voice: doc
+    url: https://web.archive.org/web/20110530090423id_/http://opinion.people.com.cn/GB/5314842.html
+    start: "党中央、国务院从落实科学"
+    end: "社会奠定坚实的基础。"
+  - id: i04-rmrb-2007-01-24-editorial
+    title: "人民日报社论：努力把金融改革发展推向新的阶段"
+    publisher: 人民日报
+    date: 2007-01-24
+    voice: doc
+    url: https://web.archive.org/web/20070906091022id_/http://opinion.people.com.cn/GB/5319564.html
+    start: "２００７年，是我国全面落"
+    end: "化建设做出更大贡献。"
+  - id: i04-rmrb-2007-03-05-editorial
+    title: "人民日报社论：在科学发展的道路上阔步前进"
+    publisher: 人民日报
+    date: 2007-03-05
+    voice: doc
+    url: https://web.archive.org/web/20110531011952id_/http://opinion.people.com.cn/GB/5436818.html
+    start: "春光明媚，春色宜人。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2007-05-28-renzhongping
+    title: "任仲平：越是文明进步，越要崇尚节约"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2007-05-28
+    voice: doc
+    url: https://web.archive.org/web/20071016220118id_/http://opinion.people.com.cn/GB/5785138.html
+    start: "（一）在我国改革、发展、"
+    end: "中，让我们行动起来。"
+  - id: i04-rmrb-2007-07-01-editorial
+    title: "人民日报社论：以党的建设的新成就迎接十七大"
+    publisher: 人民日报
+    date: 2007-07-01
+    voice: doc
+    url: https://web.archive.org/web/20070911181538id_/http://opinion.people.com.cn/GB/5931750.html
+    start: "7月1日是中国共产党成立"
+    end: "党的十七大胜利召开。"
+  - id: i04-rmrb-2007-07-01-editorial-2
+    title: "人民日报社论：伟大的构想 成功的实践"
+    publisher: 人民日报
+    date: 2007-07-01
+    voice: doc
+    url: https://web.archive.org/web/20070912002423id_/http://opinion.people.com.cn/GB/5931734.html
+    start: "今天是2007年7月1日"
+    end: "香港更加美好的明天！"
+  - id: i04-rmrb-2007-08-07-renzhongping
+    title: "任仲平：民族区域自治，中国特色社会主义的重要保证"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2007-08-07
+    voice: doc
+    url: https://web.archive.org/web/20071016220119id_/http://opinion.people.com.cn/GB/6078697.html
+    start: "（一）“蓝蓝的天上白云飘"
+    end: "团结的力量势不可挡！"
+  - id: i04-rmrb-2007-08-30-editorial
+    title: "人民日报社论：创造优异成绩 迎接党的十七大"
+    publisher: 人民日报
+    date: 2007-08-30
+    voice: doc
+    url: https://web.archive.org/web/20071209095730id_/http://opinion.people.com.cn/GB/6189206.html
+    start: "中共中央政治局会议作出决"
+    end: "义事业新局面而奋斗。"
+  - id: i04-rmrb-2007-10-15-editorial
+    title: "人民日报社论：坚定不移走中国特色社会主义伟大道路"
+    publisher: 人民日报
+    date: 2007-10-15
+    voice: doc
+    url: https://web.archive.org/web/20071229095029id_/http://opinion.people.com.cn/GB/40604/6376094.html
+    start: "今天，中国共产党第十七次全国代表大会隆重开幕。"
+    end: "道路必定越走越宽广。"
+  - id: i04-rmrb-2007-10-22-editorial
+    title: "人民日报社论：在中国特色社会主义伟大旗帜下奋勇前进"
+    publisher: 人民日报
+    date: 2007-10-22
+    voice: doc
+    url: https://web.archive.org/web/20071206074239id_/http://opinion.people.com.cn/GB/40604/6411404.html
+    start: "中国共产党第十七次全国代表大会完成了肩负的崇高使命"
+    end: "活新篇章而努力奋斗。"
+  # ---- 2008
+  - id: i04-rmrb-2008-01-01-editorial
+    title: "人民日报社论：喜迎伟大的二〇〇八年"
+    publisher: 人民日报
+    date: 2008-01-01
+    voice: doc
+    url: https://web.archive.org/web/20081225144857id_/http://opinion.people.com.cn/GB/6720891.html
+    start: "重大时间节点、重大历史事"
+    end: "００８年的光辉篇章。"
+  - id: i04-rmrb-2008-01-24-editorial
+    title: "人民日报社论：在新的历史起点上开创宣传思想工作新局面"
+    publisher: 人民日报
+    date: 2008-01-24
+    voice: doc
+    url: https://web.archive.org/web/20090208015305id_/http://opinion.people.com.cn/GB/6813924.html
+    start: "这次全国宣传思想工作会议"
+    end: "大繁荣作出新的贡献。"
+  - id: i04-rmrb-2008-02-20-editorial
+    title: "人民日报社论：以改革创新精神开创组织工作新局面"
+    publisher: 人民日报
+    date: 2008-02-20
+    voice: doc
+    url: https://web.archive.org/web/20090220025853id_/http://opinion.people.com.cn/GB/6898048.html
+    start: "刚刚结束的全国组织工作会"
+    end: "开创组织工作新局面。"
+  - id: i04-rmrb-2008-03-03-editorial
+    title: "人民日报社论：巩固团结合作 发展民主政治"
+    publisher: 人民日报
+    date: 2008-03-03
+    voice: doc
+    url: https://web.archive.org/web/20081225144832id_/http://opinion.people.com.cn/GB/40604/6945797.html
+    start: "冰雪梅中尽，春风柳上归。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2008-03-05-editorial
+    title: "人民日报社论：顺应人民期待 不负人民重托"
+    publisher: 人民日报
+    date: 2008-03-05
+    voice: doc
+    url: https://web.archive.org/web/20081225143933id_/http://npc.people.com.cn/GB/28320/116286/116599/6956848.html
+    start: "在这个富有生机、充满期待"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2008-06-02-renzhongping
+    title: "任仲平：灾难中挺立伟大的中国"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2008-06-02
+    voice: doc
+    url: https://web.archive.org/web/20081225173554id_/http://opinion.people.com.cn/GB/7326969.html
+    start: "（一）2008年5月12"
+    end: "希望与中国同在！"
+  - id: i04-rmrb-2008-07-01-editorial
+    title: "人民日报社论：风雨砥砺坚强伟大的党"
+    publisher: 人民日报
+    date: 2008-07-01
+    voice: doc
+    url: https://web.archive.org/web/20090407064116id_/http://opinion.people.com.cn/GB/7447547.html
+    start: "在抗震救灾取得重大阶段性"
+    end: "项事业不断推向前进。"
+  - id: i04-rmrb-2008-07-04-renzhongping
+    title: "任仲平：凝聚起民族复兴的力量"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2008-07-04
+    voice: doc
+    url: https://web.archive.org/web/20081225173559id_/http://opinion.people.com.cn/GB/7467405.html
+    start: "（一）若干年后，当人们回"
+    end: "为民族复兴的里程碑。"
+  - id: i04-rmrb-2008-10-01-editorial
+    title: "人民日报社论：祖国，巍然屹立在世界东方"
+    publisher: 人民日报
+    date: 2008-10-01
+    voice: doc
+    url: https://web.archive.org/web/20081226004615id_/http://opinion.people.com.cn/GB/40604/8125369.html
+    start: "神舟七号胜利返航了，三位"
+    end: "国各族人民幸福安康。"
+  - id: i04-rmrb-2008-10-13-editorial
+    title: "人民日报社论：掌握改革开放主动权 推动经济社会新发展"
+    publisher: 人民日报
+    date: 2008-10-13
+    voice: doc
+    url: https://web.archive.org/web/20081228095443id_/http://opinion.people.com.cn/GB/40604/8160404.html
+    start: "金秋时节，中国共产党第十"
+    end: "改革，推动全面发展。"
+  # ---- 2009
+  - id: i04-rmrb-2009-01-01-editorial
+    title: "人民日报社论：描绘更新更美的图画"
+    publisher: 人民日报
+    date: 2009-01-01
+    voice: doc
+    url: https://web.archive.org/web/20090218011641id_/http://opinion.people.com.cn/GB/40604/8611420.html
+    start: "我们以改革开放３０年的辉"
+    end: "新中国成立６０周年。"
+  - id: i04-rmrb-2009-02-02-editorial
+    title: "人民日报社论：越是面临困难越要重视农业"
+    publisher: 人民日报
+    date: 2009-02-02
+    voice: doc
+    url: https://web.archive.org/web/20090205090115id_/http://opinion.people.com.cn/GB/8731434.html
+    start: "春回大地，万物复苏。今天"
+    end: "三农”工作的新胜利。"
+  - id: i04-rmrb-2009-03-03-editorial
+    title: "人民日报社论：风雨同舟昌国运 和衷共济谱新篇"
+    publisher: 人民日报
+    date: 2009-03-03
+    voice: doc
+    url: https://web.archive.org/web/20110530094215id_/http://opinion.people.com.cn/GB/40604/8893532.html
+    start: "肩负着时代赋予的使命，今"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2009-03-26-renzhongping
+    title: "任仲平：世界人权史上的光辉篇章"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2009-03-26
+    voice: doc
+    url: https://web.archive.org/web/20100227071703id_/http://opinion.people.com.cn/GB/40604/9027144.html
+    start: "（一）在西藏漫长的历史进"
+    end: "祝福雪域高原的未来。"
+  - id: i04-rmrb-2009-04-07-editorial
+    title: "人民日报社论：逐步实现人人享有基本医疗卫生服务"
+    publisher: 人民日报
+    date: 2009-04-07
+    voice: doc
+    url: https://web.archive.org/web/20090914080318id_/http://opinion.people.com.cn/GB/9083141.html
+    start: "《中共中央国务院关于深化"
+    end: "健康水平而努力奋斗。"
+  - id: i04-rmrb-2009-04-30-renzhongping
+    title: "任仲平：“一切始于世博会”"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2009-04-30
+    voice: doc
+    url: https://web.archive.org/web/20090822221328id_/http://opinion.people.com.cn/GB/40604/9218811.html
+    start: "（一）在危机中蹒跚前行的"
+    end: "文明进步的辉煌乐章。"
+  - id: i04-rmrb-2009-05-01-editorial
+    title: "人民日报社论：劳动创造光荣和梦想"
+    publisher: 人民日报
+    date: 2009-05-01
+    voice: doc
+    url: https://web.archive.org/web/20090504095240id_/http://opinion.people.com.cn/GB/40604/9225593.html
+    start: "今天，我国工人阶级和广大"
+    end: "社会进步的不竭力量。"
+  - id: i04-rmrb-2009-07-01-editorial
+    title: "人民日报社论：始终为人民执好政掌好权"
+    publisher: 人民日报
+    date: 2009-07-01
+    voice: doc
+    url: https://web.archive.org/web/20100616024423id_/http://opinion.people.com.cn/GB/40604/9570648.html
+    start: "今天是我们党诞辰八十八周"
+    end: "绘出更新更美的图画。"
+  - id: i04-rmrb-2009-09-19-editorial
+    title: "人民日报社论：永远不辜负人民的信任和期望"
+    publisher: 人民日报
+    date: 2009-09-19
+    voice: doc
+    url: https://web.archive.org/web/20100329124251id_/http://opinion.people.com.cn/GB/40604/10080746.html
+    start: "在全国各族人民喜迎新中国"
+    end: "活新篇章而共同奋斗。"
+  - id: i04-rmrb-2009-09-30-editorial
+    title: "人民日报社论：高举各民族大团结的旗帜胜利前进"
+    publisher: 人民日报
+    date: 2009-09-30
+    voice: doc
+    url: https://web.archive.org/web/20100330190510id_/http://opinion.people.com.cn/GB/40604/10143095.html
+    start: "喜报传人间，花香满乾坤。"
+    end: "景一定会越来越灿烂。"
+  # ---- 2010
+  - id: i04-rmrb-2010-01-01-editorial
+    title: "人民日报社论：迎接奋发有为的二〇一〇年"
+    publisher: 人民日报
+    date: 2010-01-01
+    voice: doc
+    url: https://web.archive.org/web/20110901161846id_/http://opinion.people.com.cn/GB/40604/10692117.html
+    start: "充满挑战的2009年过去"
+    end: "发有为的2010年。"
+  - id: i04-rmrb-2010-01-21-editorial
+    title: "人民日报社论：上海世博会：再度开启“中国时间”"
+    publisher: 人民日报
+    date: 2010-01-21
+    voice: doc
+    url: https://web.archive.org/web/20110901163507id_/http://opinion.people.com.cn/GB/40604/10810091.html
+    start: "1月21日，距2010上"
+    end: "我们在黄浦江畔相聚。"
+  - id: i04-rmrb-2010-03-05-editorial
+    title: "人民日报社论：凝聚亿万人民的力量"
+    publisher: 人民日报
+    date: 2010-03-05
+    voice: doc
+    url: https://web.archive.org/web/20100511061303id_/http://2010lianghui.people.com.cn/GB/11077240.html
+    start: "又是一年春来早。十一届全"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2010-03-08-editorial
+    title: "人民日报社论：创造新业绩 谱写新篇章"
+    publisher: 人民日报
+    date: 2010-03-08
+    voice: doc
+    url: https://web.archive.org/web/20110901164810id_/http://opinion.people.com.cn/GB/40604/11090563.html
+    start: "百年探索奋斗，几代理想追"
+    end: "绽放更加夺目的光芒！"
+  - id: i04-rmrb-2010-04-02-renzhongping
+    title: "任仲平：人类文明发展的新驿站"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2010-04-02
+    voice: doc
+    url: https://web.archive.org/web/20110521154540id_/http://opinion.people.com.cn/GB/11281239.html
+    start: "（1）这是一场期待已久的"
+    end: "道主，正热切地期待。"
+  - id: i04-rmrb-2010-04-07-editorial
+    title: "人民日报社论：加强党的执政能力建设的伟大实践"
+    publisher: 人民日报
+    date: 2010-04-07
+    voice: doc
+    url: https://web.archive.org/web/20110901162927id_/http://opinion.people.com.cn/GB/40604/11305923.html
+    start: "这是一个充满生机、富有活"
+    end: "愧于人民的辉煌业绩。"
+  - id: i04-rmrb-2010-05-01-editorial
+    title: "人民日报社论：劳动最光荣 劳动者最伟大"
+    publisher: 人民日报
+    date: 2010-05-01
+    voice: doc
+    url: https://web.archive.org/web/20110901163845id_/http://opinion.people.com.cn/GB/40604/11502132.html
+    start: "“五一”国际劳动节是全世"
+    end: "创造新的光荣与梦想。"
+  - id: i04-rmrb-2010-07-01-editorial
+    title: "人民日报社论：争当时代先锋 永葆生机活力"
+    publisher: 人民日报
+    date: 2010-07-01
+    voice: doc
+    url: https://web.archive.org/web/20100710170951id_/http://opinion.people.com.cn/GB/12020429.html
+    start: "今天是我们党诞辰89周年"
+    end: "中华民族的出色业绩。"
+  - id: i04-rmrb-2010-10-19-editorial
+    title: "人民日报社论：为全面建成小康社会打下具有决定性意义的基础"
+    publisher: 人民日报
+    date: 2010-10-19
+    voice: doc
+    url: https://web.archive.org/web/20101023203155id_/http://opinion.people.com.cn/GB/40604/12985457.html
+    start: "一个国家的发展蓝图，一个"
+    end: "社会宏伟目标而奋斗。"
+  - id: i04-rmrb-2010-11-05-renzhongping
+    title: "任仲平：续写“成功、精彩、难忘”的新篇章"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2010-11-05
+    voice: doc
+    url: https://web.archive.org/web/20101122154141id_/http://opinion.people.com.cn/GB/13136533.html
+    start: "（一）黄浦江两岸5.28"
+    end: "的故事方能经久流传。"
+  # ---- 2011
+  - id: i04-rmrb-2011-01-01-editorial
+    title: "人民日报社论：在把握机遇中迎接下一个十年"
+    publisher: 人民日报
+    date: 2011-01-01
+    voice: doc
+    url: https://web.archive.org/web/20120102233715id_/http://opinion.people.com.cn/GB/40604/13635906.html
+    start: "新世纪第一个十年过去了。"
+    end: "道路上继续阔步前进。"
+  - id: i04-rmrb-2011-01-26-editorial
+    title: "人民日报社论：我国社会主义民主法制建设史上的重要里程碑"
+    publisher: 人民日报
+    date: 2011-01-26
+    voice: doc
+    url: https://web.archive.org/web/20120303220239id_/http://opinion.people.com.cn/GB/13815731.html
+    start: "新年伊始，世界再次瞩目中"
+    end: "作出新的更大的贡献！"
+  - id: i04-rmrb-2011-03-03-editorial
+    title: "人民日报社论：汇聚推动科学发展的强大合力"
+    publisher: 人民日报
+    date: 2011-03-03
+    voice: doc
+    url: https://web.archive.org/web/20120303211051id_/http://opinion.people.com.cn/GB/8213/214664/14047504.html
+    start: "全国政协十一届四次会议今"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2011-03-05-editorial
+    title: "人民日报社论：凝聚科学发展的共同意志"
+    publisher: 人民日报
+    date: 2011-03-05
+    voice: doc
+    url: https://web.archive.org/web/20120228054309id_/http://opinion.people.com.cn/GB/14066833.html
+    start: "承载着亿万人民的热切期待"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2011-05-01-editorial
+    title: "人民日报社论：勤奋劳动 诚实劳动 创新劳动"
+    publisher: 人民日报
+    date: 2011-05-01
+    voice: doc
+    url: https://web.archive.org/web/20120303212753id_/http://opinion.people.com.cn/GB/14523719.html
+    start: "平凡孕育伟大，劳动创造世"
+    end: "更加灿烂辉煌的篇章。"
+  - id: i04-rmrb-2011-05-04-editorial
+    title: "人民日报社论：用奋斗为民族赢得新光荣"
+    publisher: 人民日报
+    date: 2011-05-04
+    voice: doc
+    url: https://web.archive.org/web/20111213000510id_/http://opinion.people.com.cn/GB/14539298.html
+    start: "作为现代中国的青春记忆，"
+    end: "奋斗、奋斗、再奋斗！"
+  - id: i04-rmrb-2011-07-01-editorial
+    title: "人民日报社论：永远为人民而奋斗"
+    publisher: 人民日报
+    date: 2011-07-01
+    voice: doc
+    url: https://web.archive.org/web/20120102045357id_/http://opinion.people.com.cn/GB/15046738.html
+    start: "在党的９０华诞之际，回首"
+    end: "族的伟大复兴，前进！"
+  - id: i04-rmrb-2011-07-10-editorial
+    title: "人民日报社论：动员全党全社会力量 加快水利改革发展"
+    publisher: 人民日报
+    date: 2011-07-10
+    voice: doc
+    url: https://web.archive.org/web/20111219172452id_/http://opinion.people.com.cn/GB/15116212.html
+    start: "中央水利工作会议日前在京"
+    end: "现代化作出积极贡献。"
+  - id: i04-rmrb-2011-10-08-renzhongping
+    title: "任仲平：开启民族复兴的百年征程"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2011-10-08
+    voice: doc
+    url: https://web.archive.org/web/20111228154709id_/http://opinion.people.com.cn/GB/15818218.html
+    start: "（一）近年来，诸多重大历"
+    end: "复兴，同志仍需努力！"
+  - id: i04-rmrb-2011-10-19-editorial
+    title: "人民日报社论：迈向社会主义文化强国的伟大进军"
+    publisher: 人民日报
+    date: 2011-10-19
+    voice: doc
+    url: https://web.archive.org/web/20111222140904id_/http://opinion.people.com.cn/GB/40604/15940128.html
+    start: "中国共产党第十七届中央委"
+    end: "主义文化强国而奋斗。"
+  # ---- 2012
+  - id: i04-rmrb-2012-01-01-editorial
+    title: "人民日报社论：迈向充满希望的2012"
+    publisher: 人民日报
+    date: 2012-01-01
+    voice: doc
+    url: https://web.archive.org/web/20130127235721id_/http://opinion.people.com.cn/GB/40604/16778277.html
+    start: "在这辞旧迎新的时刻，回顾"
+    end: "社会主义事业新局面。"
+  - id: i04-rmrb-2012-01-08-editorial
+    title: "人民日报社论：努力开创金融工作新局面 更好服务经济社会新发展"
+    publisher: 人民日报
+    date: 2012-01-08
+    voice: doc
+    url: https://web.archive.org/web/20130127235633id_/http://opinion.people.com.cn/GB/40604/16819739.html
+    start: "在应对国际金融危机冲击、"
+    end: "化建设做出更大贡献。"
+  - id: i04-rmrb-2012-02-02-editorial
+    title: "人民日报社论：强化农业科技创新 确保农产品有效供给"
+    publisher: 人民日报
+    date: 2012-02-02
+    voice: doc
+    url: https://web.archive.org/web/20130128000003id_/http://opinion.people.com.cn/GB/16995717.html
+    start: "党的十六大以来，中央制定"
+    end: "业农村发展的新局面。"
+  - id: i04-rmrb-2012-03-02-editorial
+    title: "人民日报社论：书写我们时代的精神史诗"
+    publisher: 人民日报
+    date: 2012-03-02
+    voice: doc
+    url: https://web.archive.org/web/20130127235808id_/http://opinion.people.com.cn/GB/17270336.html
+    start: "“我要把有限的生命，投入"
+    end: "伟大时代的精神史诗！"
+  - id: i04-rmrb-2012-03-03-editorial
+    title: "人民日报社论：凝聚思想共识 合力攻坚克难"
+    publisher: 人民日报
+    date: 2012-03-03
+    voice: doc
+    url: https://web.archive.org/web/20130127235740id_/http://opinion.people.com.cn/GB/17281299.html
+    start: "伴着初春的暖意，来自各党"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2012-05-01-editorial
+    title: "人民日报社论：做改革发展稳定的主力军"
+    publisher: 人民日报
+    date: 2012-05-01
+    voice: doc
+    url: https://web.archive.org/web/20130128000013id_/http://opinion.people.com.cn/GB/40604/17782088.html
+    start: "劳动让生活更美好，让劳动"
+    end: "伟大祖国的壮美画卷。"
+  - id: i04-rmrb-2012-05-04-editorial
+    title: "人民日报社论：让青春之光闪耀复兴之路"
+    publisher: 人民日报
+    date: 2012-05-04
+    voice: doc
+    url: https://web.archive.org/web/20130127235754id_/http://opinion.people.com.cn/GB/17804114.html
+    start: "93年前，伟大的五四运动"
+    end: "党的十八大胜利召开。"
+  - id: i04-rmrb-2012-10-01-editorial
+    title: "人民日报社论：奋进在充满希望的中国道路上"
+    publisher: 人民日报
+    date: 2012-10-01
+    voice: doc
+    url: https://web.archive.org/web/20130116174727id_/http://opinion.people.com.cn/n/2012/1001/c1003-19161420.html
+    start: "２０１２，是不同寻常的一"
+    end: "祖国更加美好的明天。"
+  - id: i04-rmrb-2012-11-15-editorial
+    title: "人民日报社论：共同创造更加幸福美好的未来"
+    publisher: 人民日报
+    date: 2012-11-15
+    voice: doc
+    url: https://web.archive.org/web/20130116163138id_/http://opinion.people.com.cn/n/2012/1115/c1003-19583533.html
+    start: "圆满完成各项议程和崇高使"
+    end: "国共产党人的新光荣。"
+  - id: i04-rmrb-2012-11-16-editorial
+    title: "人民日报社论：担当历史使命的坚强领导集体"
+    publisher: 人民日报
+    date: 2012-11-16
+    voice: doc
+    url: https://web.archive.org/web/20130116165453id_/http://opinion.people.com.cn/n/2012/1116/c1003-19595908.html
+    start: "党的十六大以来，以胡锦涛"
+    end: "更加幸福美好的未来。"
+  # ---- 2013
+  - id: i04-rmrb-2013-03-03-editorial
+    title: "人民日报社论：团结就是力量 民主才有活力"
+    publisher: 人民日报
+    date: 2013-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0303/c1003-20655814.html
+    start: "在中国的政治生活坐标中，"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2013-03-05-editorial
+    title: "人民日报社论：凝聚起实现“中国梦”的强大力量"
+    publisher: 人民日报
+    date: 2013-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0305/c1003-20674709.html
+    start: "党的十八大开启全面建成小"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2013-04-01-renzhongping
+    title: "任仲平：筑就民族复兴的“中国梦”"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2013-04-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0401/c1003-20979482.html
+    start: "（一）北京。国家博物馆。"
+    end: "我们每一个人的脚下。"
+  - id: i04-rmrb-2013-05-01-editorial
+    title: "人民日报社论：用劳动创造托起中国梦"
+    publisher: 人民日报
+    date: 2013-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0501/c1003-21331749.html
+    start: "中国梦，劳动美。今天是“"
+    end: "更加值得期待的未来。"
+  - id: i04-rmrb-2013-06-17-editorial
+    title: "人民日报社论：为实现中国梦凝聚青春力量"
+    publisher: 人民日报
+    date: 2013-06-17
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0617/c1003-21855908.html
+    start: "中国共产主义青年团第十六"
+    end: "同享有中国梦的实现。"
+  - id: i04-rmrb-2013-06-19-editorial
+    title: "人民日报社论：始终保持与人民的血肉联系"
+    publisher: 人民日报
+    date: 2013-06-19
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0618/c1003-21885648.html
+    start: "按照党的十八大部署，以为"
+    end: "国梦汇聚起磅礴力量。"
+  - id: i04-rmrb-2013-07-01-editorial
+    title: "人民日报社论：永与人民同呼吸共命运"
+    publisher: 人民日报
+    date: 2013-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0701/c1003-22024692.html
+    start: "一部党的历史，就是一部与"
+    end: "道路就会越走越宽广。"
+  - id: i04-rmrb-2013-07-22-renzhongping
+    title: "任仲平：生态文明的中国觉醒"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2013-07-22
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0722/c1003-22270820.html
+    start: "（一）有两张地球的老照片"
+    end: "在每个人的努力之中。"
+  - id: i04-rmrb-2013-09-17-editorial
+    title: "人民日报社论：共圆中国梦 同写新篇章"
+    publisher: 人民日报
+    date: 2013-09-17
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/0917/c1003-22941454.html
+    start: "残疾人事业是崇高的人道主"
+    end: "中国梦、同写新篇章！"
+  - id: i04-rmrb-2013-11-13-editorial
+    title: "人民日报社论：让改革旗帜在中国道路上飘扬"
+    publisher: 人民日报
+    date: 2013-11-13
+    voice: doc
+    url: http://opinion.people.com.cn/n/2013/1113/c1003-23520848.html
+    start: "这次会议，是在我国改革开"
+    end: "复兴的中国梦而奋斗！"
+  # ---- 2014
+  - id: i04-rmrb-2014-01-01-editorial
+    title: "人民日报社论：让今天的改革为明天铺路"
+    publisher: 人民日报
+    date: 2014-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0101/c1003-23994517.html
+    start: "对于蓬勃向上、快速发展的"
+    end: "的未来、你我的明天。"
+  - id: i04-rmrb-2014-01-16-editorial
+    title: "人民日报社论：选拔好干部的制度保证"
+    publisher: 人民日报
+    date: 2014-01-16
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0116/c1003-24131709.html
+    start: "落实党的十八大提出的战略"
+    end: "梦提供坚强组织保证。"
+  - id: i04-rmrb-2014-03-03-editorial
+    title: "人民日报社论：为全面深化改革凝聚强大正能量"
+    publisher: 人民日报
+    date: 2014-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0303/c1003-24506247.html
+    start: "本届政协已履职整整一年。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2014-03-05-editorial
+    title: "人民日报社论：为全面深化改革提供有力制度保障"
+    publisher: 人民日报
+    date: 2014-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0305/c1003-24528674.html
+    start: "自去年3月履新以来，本届"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2014-04-14-renzhongping
+    title: "任仲平：标注现代化的新高度"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2014-04-14
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0414/c1003-24890189.html
+    start: "（一）繁花满树，逶迤而来"
+    end: "影响最为深远的变革。"
+  - id: i04-rmrb-2014-05-01-editorial
+    title: "人民日报社论：在改革大潮中彰显劳动的力量"
+    publisher: 人民日报
+    date: 2014-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0501/c1003-24963795.html
+    start: "劳动创造世界，实干成就未"
+    end: "民族复兴的雄浑乐章。"
+  - id: i04-rmrb-2014-07-01-editorial
+    title: "人民日报社论：锻造更为坚强的领导核心"
+    publisher: 人民日报
+    date: 2014-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0701/c1003-25220716.html
+    start: "感受七月的阳光，我们迎来"
+    end: "前所未有的美好前景。"
+  - id: i04-rmrb-2014-09-03-renzhongping
+    title: "任仲平：让历史照亮人类的明天"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2014-09-03
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0903/c1003-25591322.html
+    start: "（一）这是一个值得铭记的"
+    end: "朽，和平的光芒永在。"
+  - id: i04-rmrb-2014-09-30-editorial
+    title: "人民日报社论：汇聚中华民族大团结的磅礴力量"
+    publisher: 人民日报
+    date: 2014-09-30
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/0930/c1003-25763443.html
+    start: "伟大的事业，需要汇聚全民"
+    end: "族伟大复兴的中国梦。"
+  - id: i04-rmrb-2014-10-24-editorial
+    title: "人民日报社论：实现依法治国的历史跨越"
+    publisher: 人民日报
+    date: 2014-10-24
+    voice: doc
+    url: http://opinion.people.com.cn/n/2014/1024/c1003-25897474.html
+    start: "刚刚闭幕的党的十八届四中"
+    end: "建设法治中国而奋斗！"
+  # ---- 2015
+  - id: i04-rmrb-2015-01-01-editorial
+    title: "人民日报社论：为明天共筑长青基业"
+    publisher: 人民日报
+    date: 2015-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0101/c1003-26309651.html
+    start: "有梦想，有机会，有奋斗，"
+    end: "共创我们光明的未来。"
+  - id: i04-rmrb-2015-02-02-editorial
+    title: "人民日报社论：适应新常态 实现农业农村新发展"
+    publisher: 人民日报
+    date: 2015-02-02
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0202/c1003-26487930.html
+    start: "刚刚过去的2014年，我"
+    end: "新突破，再创新辉煌。"
+  - id: i04-rmrb-2015-03-03-editorial
+    title: "人民日报社论：民主广开言路 协商凝聚共识"
+    publisher: 人民日报
+    date: 2015-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0303/c1003-26623708.html
+    start: "2014年的中国，政通人"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2015-03-05-editorial
+    title: "人民日报社论：为协调推进“四个全面”凝心聚力"
+    publisher: 人民日报
+    date: 2015-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0305/c1003-26638104.html
+    start: "时光在回溯中尤显不凡。全"
+    end: "预祝大会圆满成功。"
+  - id: i04-rmrb-2015-04-20-renzhongping
+    title: "任仲平：凝聚当代中国的价值公约数"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2015-04-20
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0420/c1003-26869386.html
+    start: "（一）有些问题，越细想越"
+    end: "迎来伟大复兴的前景。"
+  - id: i04-rmrb-2015-05-10-renzhongping
+    title: "任仲平：让我们挽紧和平的臂膀"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2015-05-10
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0510/c1003-26975095.html
+    start: "5月的莫斯科，无名烈士墓"
+    end: "掌握在我们自己手中。"
+  - id: i04-rmrb-2015-07-01-editorial
+    title: "人民日报社论：干在实处 走在前列"
+    publisher: 人民日报
+    date: 2015-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0701/c1003-27233579.html
+    start: "今天是党的94岁生日。仰"
+    end: "愧于人民的崭新答卷。"
+  - id: i04-rmrb-2015-09-30-editorial
+    title: "人民日报社论：建设美丽新疆 共圆祖国梦想"
+    publisher: 人民日报
+    date: 2015-09-30
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/0930/c1003-27649434.html
+    start: "60年风雨砥砺，60年胼"
+    end: "新疆、共圆祖国梦想。"
+  - id: i04-rmrb-2015-10-01-editorial
+    title: "人民日报社论：向着我们既定的目标继续前进"
+    publisher: 人民日报
+    date: 2015-10-01
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/1001/c1003-27654088.html
+    start: "今天，当五星红旗又一次在"
+    end: "地开创新的时代伟业。"
+  - id: i04-rmrb-2015-10-30-editorial
+    title: "人民日报社论：奋力夺取全面建成小康社会的伟大胜利"
+    publisher: 人民日报
+    date: 2015-10-30
+    voice: doc
+    url: http://opinion.people.com.cn/n/2015/1030/c1003-27755923.html
+    start: "全会听取和讨论了习近平总"
+    end: "奠定更加坚实的基础。"
+  # ---- 2016
+  - id: i04-rmrb-2016-01-01-editorial
+    title: "人民日报社论：新开局要有新作为"
+    publisher: 人民日报
+    date: 2016-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0101/c1003-28002059.html
+    start: "当时针指向2016年，我"
+    end: "没有辜负历史的使命。"
+  - id: i04-rmrb-2016-01-28-editorial
+    title: "人民日报社论：以新理念引领农业农村新发展"
+    publisher: 人民日报
+    date: 2016-01-28
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0128/c1003-28090602.html
+    start: "“十二五”时期，是我国农"
+    end: "伟大胜利作出新贡献。"
+  - id: i04-rmrb-2016-02-20-editorial
+    title: "人民日报社论：担负起新闻舆论工作的职责和使命"
+    publisher: 人民日报
+    date: 2016-02-20
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0220/c1003-28136204.html
+    start: "“做好党的新闻舆论工作，"
+    end: "动力和有力舆论支持。"
+  - id: i04-rmrb-2016-03-03-editorial
+    title: "人民日报社论：为决胜全面小康汇聚力量"
+    publisher: 人民日报
+    date: 2016-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0303/c1003-28166495.html
+    start: "全国政协十二届四次会议今"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2016-03-05-editorial
+    title: "人民日报社论：厚植制度优势 决胜全面小康"
+    publisher: 人民日报
+    date: 2016-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0305/c1003-28173202.html
+    start: "时代催人奋进，使命激荡人"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2016-04-15-editorial
+    title: "人民日报社论：凝聚起维护国家安全的全民力量"
+    publisher: 人民日报
+    date: 2016-04-15
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0415/c1003-28277516.html
+    start: "今天，我们迎来了首个全民"
+    end: "中国梦筑起坚强堤坝。"
+  - id: i04-rmrb-2016-06-29-renzhongping
+    title: "任仲平：以信仰之光照亮奋斗之路"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2016-06-29
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0629/c1003-28505489.html
+    start: "（一）又一个7月来临，时"
+    end: "继续改变人类的未来。"
+  - id: i04-rmrb-2016-07-01-editorial
+    title: "人民日报社论：永葆党的生机活力"
+    publisher: 人民日报
+    date: 2016-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/0701/c1003-28513991.html
+    start: "历史在千百万人的奋斗中展"
+    end: "章书写在神州大地上。"
+  - id: i04-rmrb-2016-10-24-renzhongping
+    title: "任仲平：筑牢从严治党的政治根基"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2016-10-24
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/1024/c1003-28800829.html
+    start: "（一）最艰难的成功，不是"
+    end: "艰巨的任务仍在前方。"
+  - id: i04-rmrb-2016-10-28-editorial
+    title: "人民日报社论：坚定不移推进全面从严治党"
+    publisher: 人民日报
+    date: 2016-10-28
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2016/1028/c1003-28814356.html
+    start: "丙申金秋，硕果累累。中国"
+    end: "的中国梦而不懈奋斗。"
+  # ---- 2017
+  - id: i04-rmrb-2017-02-06-editorial
+    title: "人民日报社论：深入推进农业供给侧结构性改革"
+    publisher: 人民日报
+    date: 2017-02-06
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0206/c1003-29059339.html
+    start: "春节刚过，中共中央、国务"
+    end: "三农”发展新的春天。"
+  - id: i04-rmrb-2017-03-03-editorial
+    title: "人民日报社论：为中国特色社会主义伟大事业凝心聚力"
+    publisher: 人民日报
+    date: 2017-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0302/c1003-29119751.html
+    start: "早春时节，“两会时间”再"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2017-03-05-editorial
+    title: "人民日报社论：书写社会主义民主政治新篇章"
+    publisher: 人民日报
+    date: 2017-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0305/c1003-29123642.html
+    start: "万众瞩目中，十二届全国人"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2017-05-04-editorial
+    title: "人民日报社论：唱响新时代的青春之歌"
+    publisher: 人民日报
+    date: 2017-05-04
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0504/c1003-29252346.html
+    start: "青年朝气蓬勃，像早晨八九"
+    end: "春之光照亮奋进之路。"
+  - id: i04-rmrb-2017-06-29-renzhongping
+    title: "任仲平：同书写不朽香江名句"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2017-06-29
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0629/c1003-29369923.html
+    start: "（一）6月的维多利亚港，"
+    end: "同书写香江不朽名句。"
+  - id: i04-rmrb-2017-07-01-editorial
+    title: "人民日报社论：永葆共产党人的奋斗精神"
+    publisher: 人民日报
+    date: 2017-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0701/c1003-29376035.html
+    start: "武夷山下，“樵夫”廖俊波"
+    end: "交出更加优异的答卷。"
+  - id: i04-rmrb-2017-07-01-editorial-2
+    title: "人民日报社论：沿着“一国两制”正确方向行稳致远"
+    publisher: 人民日报
+    date: 2017-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/0701/c1003-29376021.html
+    start: "上世纪80年代初，邓小平"
+    end: "香港明天会更加美好！"
+  - id: i04-rmrb-2017-10-18-editorial
+    title: "人民日报社论：开辟中国特色社会主义新境界"
+    publisher: 人民日报
+    date: 2017-10-18
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/1018/c1003-29593086.html
+    start: "历史的画卷，总是在砥砺前"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2017-10-25-editorial
+    title: "人民日报社论：夺取新时代中国特色社会主义伟大胜利"
+    publisher: 人民日报
+    date: 2017-10-25
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/1025/c1003-29606897.html
+    start: "新思想引领新时代，新使命"
+    end: "生活的向往继续奋斗！"
+  - id: i04-rmrb-2017-12-05-renzhongping
+    title: "任仲平：领航，思想的力量开辟新时代"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2017-12-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2017/1205/c1003-29685473.html
+    start: "（一）政党的责任。"
+    end: "好、更值期待的明天。"
+  # ---- 2018
+  - id: i04-rmrb-2018-01-01-editorial
+    title: "人民日报社论：我们的新时代 历史的新光荣"
+    publisher: 人民日报
+    date: 2018-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0101/c1003-29738248.html
+    start: "当阳光再次唤醒大地，我们"
+    end: "想，不负伟大的时代。"
+  - id: i04-rmrb-2018-02-05-editorial
+    title: "人民日报社论：书写中华民族伟大复兴的“三农”新篇章"
+    publisher: 人民日报
+    date: 2018-02-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0205/c1003-29804815.html
+    start: "新春伊始，中共中央、国务"
+    end: "兴的“三农”新篇章。"
+  - id: i04-rmrb-2018-03-03-editorial
+    title: "人民日报社论：不负新时代的光荣使命"
+    publisher: 人民日报
+    date: 2018-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0303/c1003-29845087.html
+    start: "五年一个周期，五年一个台"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2018-03-05-editorial
+    title: "人民日报社论：凝聚新时代的奋斗伟力"
+    publisher: 人民日报
+    date: 2018-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0304/c1003-29846714.html
+    start: "春回大地，万象更新。举世"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2018-05-02-renzhongping
+    title: "任仲平：他的英名和事业永世长存"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2018-05-02
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0502/c1003-29959078.html
+    start: "（一）鳞次栉比的高楼，1"
+    end: "这片土地上永世长存。"
+  - id: i04-rmrb-2018-05-05-editorial
+    title: "人民日报社论：向人类最伟大的思想家致敬"
+    publisher: 人民日报
+    date: 2018-05-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0504/c1003-29966110.html
+    start: "科学的理论，跨越历史闪耀"
+    end: "大地上生动展现出来。"
+  - id: i04-rmrb-2018-06-26-editorial
+    title: "人民日报社论：谱写无愧于新时代的青春篇章"
+    publisher: 人民日报
+    date: 2018-06-26
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0626/c1003-30084652.html
+    start: "中国共产主义青年团第十八"
+    end: "于新时代的青春篇章。"
+  - id: i04-rmrb-2018-07-01-editorial
+    title: "人民日报社论：始终同人民想在一起、干在一起"
+    publisher: 人民日报
+    date: 2018-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0701/c1003-30097718.html
+    start: "时间砥砺信仰，岁月见证初"
+    end: "民事业继续推向前进。"
+  - id: i04-rmrb-2018-08-30-editorial
+    title: "人民日报社论：汇聚侨界力量 建功复兴伟业"
+    publisher: 人民日报
+    date: 2018-08-30
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/0830/c1003-30259603.html
+    start: "满怀憧憬，肩负使命。来自"
+    end: "历史进程谱写新篇章。"
+  - id: i04-rmrb-2018-12-14-renzhongping
+    title: "任仲平：创造历史的伟大变革"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2018-12-14
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2018/1214/c1003-30465911.html
+    start: "（一）12月，北京。中国"
+    end: "迎来更加美好的明天。"
+  # ---- 2019
+  - id: i04-rmrb-2019-01-01-editorial
+    title: "人民日报社论：创造无愧于伟大新时代的新辉煌"
+    publisher: 人民日报
+    date: 2019-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0101/c1003-30497612.html
+    start: "■回首2018，中国在奋"
+    end: "伟大新时代的新辉煌。"
+  - id: i04-rmrb-2019-02-20-editorial
+    title: "人民日报社论：决胜全面建成小康社会 推进乡村全面振兴"
+    publisher: 人民日报
+    date: 2019-02-20
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0220/c1003-30806225.html
+    start: "中国要强，农业必须强；中"
+    end: "村全面振兴的新篇章。"
+  - id: i04-rmrb-2019-03-03-editorial
+    title: "人民日报社论：同心建言资政 同向凝聚共识"
+    publisher: 人民日报
+    date: 2019-03-03
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0303/c1003-30953958.html
+    start: "草木蔓发，春山可望。来自"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2019-03-05-editorial
+    title: "人民日报社论：激发制度活力 凝聚复兴伟力"
+    publisher: 人民日报
+    date: 2019-03-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0305/c1003-30957881.html
+    start: "“阳和启蛰，品物皆春。”"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2019-05-01-editorial
+    title: "人民日报社论：书写新时代劳动者新的荣光"
+    publisher: 人民日报
+    date: 2019-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0501/c1003-31060800.html
+    start: "劳动光荣，成就梦想；劳动"
+    end: "时代劳动者新的荣光。"
+  - id: i04-rmrb-2019-07-01-editorial
+    title: "人民日报社论：牢记初心使命 奋进复兴征程"
+    publisher: 人民日报
+    date: 2019-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0701/c1003-31204333.html
+    start: "为中国人民谋幸福，为中华"
+    end: "驶向更加美好的明天。"
+  - id: i04-rmrb-2019-09-02-renzhongping
+    title: "任仲平：新长征路上重整行装再出发"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2019-09-02
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0902/c1003-31330238.html
+    start: "（一）1934年10月，"
+    end: "党将是不可战胜的。”"
+  - id: i04-rmrb-2019-09-29-renzhongping
+    title: "任仲平：奋斗创造人间奇迹"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2019-09-29
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/0929/c1003-31378511.html
+    start: "（一）1949年10月1"
+    end: "看的新的更大奇迹。”"
+  - id: i04-rmrb-2019-10-01-editorial
+    title: "人民日报社论：奋斗的史诗 复兴的伟力"
+    publisher: 人民日报
+    date: 2019-10-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/1001/c1003-31382263.html
+    start: "70年前的10月1日，第"
+    end: "华民族昂首走向复兴！"
+  - id: i04-rmrb-2019-11-01-editorial
+    title: "人民日报社论：为实现中华民族伟大复兴提供有力保证"
+    publisher: 人民日报
+    date: 2019-11-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2019/1101/c1003-31431737.html
+    start: "金秋时节，中国共产党第十"
+    end: "的中国梦而努力奋斗。"
+  # ---- 2020
+  - id: i04-rmrb-2020-02-06-editorial
+    title: "人民日报社论：奋力抓好“三农”工作 确保如期实现全面小康"
+    publisher: 人民日报
+    date: 2020-02-06
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0206/c1003-31573119.html
+    start: "新春伊始，中共中央、国务"
+    end: "社会作出应有的贡献！"
+  - id: i04-rmrb-2020-03-26-renzhongping
+    title: "任仲平：风雨无阻向前进"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2020-03-26
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0326/c1003-31648381.html
+    start: "（一）和大自然一样，人类"
+    end: "湖北必胜！中国必胜！"
+  - id: i04-rmrb-2020-05-01-editorial
+    title: "人民日报社论：凝心聚力决胜全面小康"
+    publisher: 人民日报
+    date: 2020-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0501/c1003-31695296.html
+    start: "人民创造历史，劳动开创未"
+    end: "兴的中国梦努力奋斗！"
+  - id: i04-rmrb-2020-05-28-editorial
+    title: "人民日报社论：决胜全面小康 共襄复兴伟业"
+    publisher: 人民日报
+    date: 2020-05-28
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0528/c1003-31726496.html
+    start: "同心同德谋良策，群策群力"
+    end: "小康，共襄复兴伟业！"
+  - id: i04-rmrb-2020-07-01-editorial
+    title: "人民日报社论：永远把人民放在最高位置"
+    publisher: 人民日报
+    date: 2020-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0701/c1003-31765560.html
+    start: "初心如磐，使命在肩。在决"
+    end: "历史检验的光荣业绩！"
+  - id: i04-rmrb-2020-09-03-editorial
+    title: "人民日报社论：凝聚实现民族复兴的磅礴力量"
+    publisher: 人民日报
+    date: 2020-09-03
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0903/c1003-31846932.html
+    start: "“正义必胜！和平必胜！人"
+    end: "定目标继续奋勇前进！"
+  - id: i04-rmrb-2020-09-07-renzhongping
+    title: "任仲平：千磨万击还坚劲"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2020-09-07
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/0907/c1003-31851170.html
+    start: "（一）“丁零零——”"
+    end: "上创造新的更大辉煌！"
+  - id: i04-rmrb-2020-10-14-editorial
+    title: "人民日报社论：树立新时代改革开放新标杆"
+    publisher: 人民日报
+    date: 2020-10-14
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/1014/c1003-31890664.html
+    start: "兴办经济特区，是我们党和"
+    end: "能创造新的更大奇迹。"
+  - id: i04-rmrb-2020-10-30-editorial
+    title: "人民日报社论：奋力夺取全面建设社会主义现代化国家新胜利"
+    publisher: 人民日报
+    date: 2020-10-30
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/1030/c1003-31911626.html
+    start: "金秋时节，中国共产党第十"
+    end: "上创造新的历史伟业！"
+  - id: i04-rmrb-2020-11-12-editorial
+    title: "人民日报社论：勇当新时代改革开放排头兵"
+    publisher: 人民日报
+    date: 2020-11-12
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2020/1112/c1003-31927711.html
+    start: "开发开放上海浦东，是我们"
+    end: "造开发开放的新奇迹。"
+  # ---- 2021
+  - id: i04-rmrb-2021-01-01-editorial
+    title: "人民日报社论：乘势而上开启新的伟大征程"
+    publisher: 人民日报
+    date: 2021-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0101/c1003-31986267.html
+    start: "日月其迈，岁律更新。历史"
+    end: "民族的伟大历史时间！"
+  - id: i04-rmrb-2021-01-22-renzhongping
+    title: "任仲平：征途漫漫从头越"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2021-01-22
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0122/c1003-32007952.html
+    start: "（一）时光的表盘上，总有"
+    end: "伟大的胜利还在前方！"
+  - id: i04-rmrb-2021-02-22-editorial
+    title: "人民日报社论：让广大农民过上更加美好的生活"
+    publisher: 人民日报
+    date: 2021-02-22
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0222/c1003-32033209.html
+    start: "在向第二个百年奋斗目标迈"
+    end: "起好步提供有力支撑。"
+  - id: i04-rmrb-2021-03-04-editorial
+    title: "人民日报社论：为“十四五”开好局起好步凝心聚力"
+    publisher: 人民日报
+    date: 2021-03-04
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0304/c1003-32041767.html
+    start: "阳春布德泽，万物生光辉。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2021-03-11-editorial
+    title: "人民日报社论：乘势而上开启崭新征程"
+    publisher: 人民日报
+    date: 2021-03-11
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0311/c1003-32048348.html
+    start: "“草木蔓发，春山可望。”"
+    end: "复兴的中国梦而奋斗！"
+  - id: i04-rmrb-2021-06-30-editorial
+    title: "人民日报社论：在民族复兴伟业中为党和人民建功立业"
+    publisher: 人民日报
+    date: 2021-06-30
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0630/c1003-32144336.html
+    start: "伟大时代呼唤伟大精神，崇"
+    end: "上铸就新的历史伟业！"
+  - id: i04-rmrb-2021-07-01-editorial
+    title: "人民日报社论：铸就百年辉煌 书写千秋伟业"
+    publisher: 人民日报
+    date: 2021-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0701/c1003-32145406.html
+    start: "一世纪风雨兼程，九万里风"
+    end: "伟大复兴而不懈奋斗！"
+  - id: i04-rmrb-2021-07-05-renzhongping
+    title: "任仲平：继往开来的世纪伟业"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2021-07-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0705/c1003-32148213.html
+    start: "（一）这是中华民族的伟大"
+    end: "未来，向着人类明天！"
+  - id: i04-rmrb-2021-08-09-editorial
+    title: "人民日报社论：书写奥运华章 创造新的辉煌"
+    publisher: 人民日报
+    date: 2021-08-09
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/0809/c1003-32185437.html
+    start: "奥运赛事已经结束，中国健"
+    end: "的伟大前程不断前进！"
+  - id: i04-rmrb-2021-11-12-editorial
+    title: "人民日报社论：在新时代新征程上赢得更加伟大的胜利和荣光"
+    publisher: 人民日报
+    date: 2021-11-12
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2021/1112/c1003-32280143.html
+    start: "11月8日至11日，中国"
+    end: "加伟大的胜利和荣光！"
+  # ---- 2022
+  - id: i04-rmrb-2022-03-04-editorial
+    title: "人民日报社论：携手共奋进，一起向未来"
+    publisher: 人民日报
+    date: 2022-03-04
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0304/c1003-32365547.html
+    start: "历史会镌刻这一笔，世界会"
+    end: "，让我们一起向未来！"
+  - id: i04-rmrb-2022-03-04-editorial-2
+    title: "人民日报社论：团结一心，凝聚起共同奋斗的力量"
+    publisher: 人民日报
+    date: 2022-03-04
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0304/c1003-32365546.html
+    start: "春阳抚照，万物滋荣。今天"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2022-05-01-editorial
+    title: "人民日报社论：团结奋斗，在新征程上创造新的历史伟业"
+    publisher: 人民日报
+    date: 2022-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0501/c1003-32412767.html
+    start: "奋斗创造历史，实干成就未"
+    end: "的历史伟业推向前进！"
+  - id: i04-rmrb-2022-05-01-commentator
+    title: "人民日报评论员：疫情要防住 经济要稳住 发展要安全"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2022-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0501/c1003-32412770.html
+    start: "当前，新冠肺炎疫情和乌克"
+    end: "劈波斩浪、行稳致远。"
+  - id: i04-rmrb-2022-07-08-commentator
+    title: "人民日报评论员：不断提升我国发展独立性、自主性、安全性"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2022-07-08
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0708/c1003-32469374.html
+    start: "关键核心技术是国之重器，"
+    end: "牢牢掌握在自己手中。"
+  - id: i04-rmrb-2022-09-29-renzhongping
+    title: "任仲平：掌握历史主动 凝聚奋进伟力"
+    publisher: 人民日报
+    author: 任仲平
+    date: 2022-09-29
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/0929/c1003-32536375.html
+    start: "（一）点火、发射、升空！"
+    end: "加伟大的胜利和荣光！"
+  - id: i04-rmrb-2022-11-24-commentator
+    title: "人民日报评论员：坚决压实安全生产责任"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2022-11-24
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/1124/c1003-32573026.html
+    start: "“河南等地接连发生火灾等"
+    end: "济社会发展行稳致远。"
+  - id: i04-rmrb-2022-12-06-editorial
+    title: "人民日报社论：缅怀功绩 继承遗志 团结奋斗"
+    publisher: 人民日报
+    date: 2022-12-06
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/1206/c1003-32581089.html
+    start: "2022年11月30日，"
+    end: "江泽民同志永垂不朽！"
+  - id: i04-rmrb-2022-12-25-editorial
+    title: "人民日报社论：铆足干劲，加快建设农业强国"
+    publisher: 人民日报
+    date: 2022-12-25
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2022/1225/c1003-32593072.html
+    start: "乘势而上创伟业，接续奋斗"
+    end: "农业强国而努力奋斗！"
+  # ---- 2023
+  - id: i04-rmrb-2023-01-01-editorial
+    title: "人民日报社论：锚定奋斗目标 创造新的伟业"
+    publisher: 人民日报
+    date: 2023-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/0101/c1003-32597768.html
+    start: "时间的长河奔涌向前，奋斗"
+    end: "伟大复兴而团结奋斗！"
+  - id: i04-rmrb-2023-01-05-commentator
+    title: "人民日报评论员：建设高素质专业化预备役人员队伍的法治保障"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2023-01-05
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/0105/c1003-32599956.html
+    start: "预备役部队是人民解放军的"
+    end: "梦强军梦的磅礴力量。"
+  - id: i04-rmrb-2023-02-14-editorial
+    title: "人民日报社论：全面推进乡村振兴 加快建设农业强国"
+    publisher: 人民日报
+    date: 2023-02-14
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/0214/c1003-32622989.html
+    start: "一年之计在于春。新春伊始"
+    end: "大复兴作出新的贡献。"
+  - id: i04-rmrb-2023-08-31-editorial
+    title: "人民日报社论：凝聚侨心侨力 谱写复兴华章"
+    publisher: 人民日报
+    date: 2023-08-31
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/0831/c1003-40067281.html
+    start: "今天，第十一次全国归侨侨"
+    end: "新贡献、谱写新华章。"
+  - id: i04-rmrb-2023-09-18-editorial
+    title: "人民日报社论：共创残疾人更加幸福美好生活"
+    publisher: 人民日报
+    date: 2023-09-18
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/0918/c1003-40079559.html
+    start: "今天，中国残疾人联合会第"
+    end: "伟大复兴而不懈奋斗。"
+  - id: i04-rmrb-2023-10-01-editorial
+    title: "人民日报社论：坚定不移朝着强国建设、民族复兴的宏伟目标奋勇前进"
+    publisher: 人民日报
+    date: 2023-10-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/1001/c1003-40088398.html
+    start: "宏伟蓝图鼓舞人心，时代号"
+    end: "大道上谱写时代华章。"
+  - id: i04-rmrb-2023-10-09-editorial
+    title: "人民日报社论：共创亚洲和平、团结、包容的美好未来"
+    publisher: 人民日报
+    date: 2023-10-09
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/1009/c1003-40090974.html
+    start: "10月8日晚，第十九届亚"
+    end: "容、清洁美丽的世界。"
+  - id: i04-rmrb-2023-11-06-commentator
+    title: "人民日报评论员：坚定推进高水平开放"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2023-11-06
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/1106/c1003-40110725.html
+    start: "“中国将始终是世界发展的"
+    end: "展带来新的光明前程。"
+  - id: i04-rmrb-2023-12-13-editorial
+    title: "人民日报社论：坚定信心、开拓奋进，巩固和增强经济回升向好态势"
+    publisher: 人民日报
+    date: 2023-12-13
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/1213/c1003-40137463.html
+    start: "奋进新征程，扬帆再出发。"
+    end: "业作出新的更大贡献。"
+  - id: i04-rmrb-2023-12-21-editorial
+    title: "人民日报社论：以加快农业农村现代化更好推进中国式现代化建设"
+    publisher: 人民日报
+    date: 2023-12-21
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2023/1221/c1003-40143459.html
+    start: "强国必先强农，农强方能国"
+    end: "农业强国而努力奋斗。"
+  # ---- 2024
+  - id: i04-rmrb-2024-01-01-editorial
+    title: "人民日报社论：满怀信心以中国式现代化全面推进强国建设、民族复兴伟业"
+    publisher: 人民日报
+    date: 2024-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0101/c1003-40150358.html
+    start: "岁月镌刻光荣梦想，奋斗绘"
+    end: "中国梦一定能够实现。"
+  - id: i04-rmrb-2024-01-11-commentator
+    title: "人民日报评论员：深入学习贯彻习近平总书记关于党的自我革命的重要思想"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2024-01-11
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0111/c1003-40156475.html
+    start: "二十届中央纪委三次全会，"
+    end: "兴伟业提供坚强保障。"
+  - id: i04-rmrb-2024-02-04-editorial
+    title: "人民日报社论：打好乡村全面振兴漂亮仗"
+    publisher: 人民日报
+    date: 2024-02-04
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0204/c1003-40172451.html
+    start: "民族要复兴，乡村必振兴。"
+    end: "业强国目标扎实迈进。"
+  - id: i04-rmrb-2024-07-01-editorial
+    title: "人民日报社论：凝聚推进中国式现代化的磅礴力量"
+    publisher: 人民日报
+    date: 2024-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0701/c1003-40267487.html
+    start: "历史见证壮阔的征程，时间"
+    end: "谱写更加绚丽的华章。"
+  - id: i04-rmrb-2024-08-12-editorial
+    title: "人民日报社论：激扬奋进力量 书写更大荣光"
+    publisher: 人民日报
+    date: 2024-08-12
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0812/c1003-40296721.html
+    start: "圆满完成参赛任务，我国体"
+    end: "贡献、书写更大荣光。"
+  - id: i04-rmrb-2024-09-14-editorial
+    title: "人民日报社论：坚持好、完善好、运行好人民代表大会制度"
+    publisher: 人民日报
+    date: 2024-09-14
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0914/c1003-40320083.html
+    start: "凝心聚力担使命，奋发进取"
+    end: "一定能变为美好现实。"
+  - id: i04-rmrb-2024-09-20-editorial
+    title: "人民日报社论：把人民政协制度坚持好 把人民政协事业发展好"
+    publisher: 人民日报
+    date: 2024-09-20
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/0920/c1003-40323906.html
+    start: "同心筑梦襄盛举，继往开来"
+    end: "业作出新的更大贡献。"
+  - id: i04-rmrb-2024-10-01-editorial
+    title: "人民日报社论：壮阔的行进 光明的前程"
+    publisher: 人民日报
+    date: 2024-10-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/1001/c1003-40332129.html
+    start: "春华秋实，岁物丰成。今天"
+    end: "复兴伟业而团结奋斗。"
+  - id: i04-rmrb-2024-12-19-editorial
+    title: "人民日报社论：奋发有为，开创乡村全面振兴新局面"
+    publisher: 人民日报
+    date: 2024-12-19
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/1219/c1003-40384973.html
+    start: "实现中国式现代化，必须加"
+    end: "乡村全面振兴新局面。"
+  - id: i04-rmrb-2024-12-20-editorial
+    title: "人民日报社论：不断开创澳门特色“一国两制”实践新局面"
+    publisher: 人民日报
+    date: 2024-12-20
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2024/1220/c1003-40385841.html
+    start: "莲花灼灼，熠熠生辉；濠江"
+    end: "光明，澳门未来可期！"
+  # ---- 2025
+  - id: i04-rmrb-2025-01-01-editorial
+    title: "人民日报社论：决胜“十四五” 奋发向前行"
+    publisher: 人民日报
+    date: 2025-01-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2025/0101/c1003-40393466.html
+    start: "岁序更替，华章日新。走过"
+    end: "成为时代的弄潮儿。”"
+  - id: i04-rmrb-2025-02-24-editorial
+    title: "人民日报社论：强农固本，为推进中国式现代化提供基础支撑"
+    publisher: 人民日报
+    date: 2025-02-24
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2025/0224/c1003-40423904.html
+    start: "春为一岁首，农为百事先。"
+    end: "业强国目标扎实迈进。"
+  - id: i04-rmrb-2025-03-04-editorial
+    title: "人民日报社论：凝聚广泛共识 汇聚强大合力"
+    publisher: 人民日报
+    date: 2025-03-04
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202503/04/content_30060076.html
+    start: "在春意盎然的美好时节，全"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2025-03-05-editorial
+    title: "人民日报社论：凝心聚力，打开改革发展新天地"
+    publisher: 人民日报
+    date: 2025-03-05
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202503/05/content_30060219.html
+    start: "春来东风劲，山河展新颜。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2025-04-28-editorial
+    title: "人民日报社论：做新时代挺膺担当的奋斗者"
+    publisher: 人民日报
+    date: 2025-04-28
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2025/0428/c1003-40469470.html
+    start: "在“五一”国际劳动节来临"
+    end: "风采、创造时代荣光。"
+  - id: i04-rmrb-2025-05-01-editorial
+    title: "人民日报社论：坚定信心 奋发有为 创新创造"
+    publisher: 人民日报
+    date: 2025-05-01
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202505/01/content_30070905.html
+    start: "劳动谱写时代华章，奋斗创"
+    end: "宏伟蓝图一定能实现。"
+  - id: i04-rmrb-2025-07-01-editorial
+    title: "人民日报社论：坚定信念信心 阔步复兴征程——热烈庆祝中国共产党成立一百零四周年"
+    publisher: 人民日报
+    date: 2025-07-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2025/0630/c1003-40512124.html
+    start: "时间镌刻传奇，奋斗创造历"
+    end: "新的更加优异的答卷。"
+  - id: i04-rmrb-2025-10-01-editorial
+    title: "人民日报社论：矢志不渝奋斗 推进复兴伟业"
+    publisher: 人民日报
+    date: 2025-10-01
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202510/01/content_30107867.html
+    start: "潮涌东方，气象焕新。在洋"
+    end: "光荣和梦想就在前方！"
+  - id: i04-rmrb-2025-10-24-editorial
+    title: "人民日报社论：奋力开创中国式现代化建设新局面"
+    publisher: 人民日报
+    date: 2025-10-24
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2025/1024/c1003-40588280.html
+    start: "凝心聚力，接续奋斗。10"
+    end: "交出更为优异的答卷！"
+  - id: i04-rmrb-2025-12-31-editorial
+    title: "人民日报社论：奋发进取 扎实推进乡村全面振兴"
+    publisher: 人民日报
+    date: 2025-12-31
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202512/31/content_30128227.html
+    start: "中国式现代化离不开农业农"
+    end: "民生活更加富裕美好。"
+  # ---- 2026
+  - id: i04-rmrb-2026-01-01-editorial
+    title: "人民日报社论：满怀信心 砥砺奋进 开创新局"
+    publisher: 人民日报
+    date: 2026-01-01
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202601/01/content_30128800.html
+    start: "迎着朝阳，再启新程。新的"
+    end: "向着壮阔的前程挺进！"
+  - id: i04-rmrb-2026-01-15-commentator
+    title: "人民日报评论员：更加清醒坚定地推进反腐败斗争——论学习贯彻习近平总书记二十届中央纪委五次全会重要讲话精神"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2026-01-15
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2026/0114/c461529-40645444.html
+    start: "“腐败是党和国家事业发展"
+    end: "反腐败斗争进行到底。"
+  - id: i04-rmrb-2026-02-04-editorial
+    title: "人民日报社论：夯实“压舱石”，加快农业农村现代化"
+    publisher: 人民日报
+    date: 2026-02-04
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202602/04/content_30138216.html
+    start: "农业农村现代化关系中国式"
+    end: "目标一步步变为现实。"
+  - id: i04-rmrb-2026-02-25-commentator
+    title: "人民日报评论员：以实干实绩书写中国式现代化新篇章"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2026-02-25
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2026/0225/c461529-40669433.html
+    start: "干事创业，政绩观至关重要"
+    end: "蓝图一步步变为现实。"
+  - id: i04-rmrb-2026-03-04-editorial
+    title: "人民日报社论：锚定奋斗目标 汇聚智慧力量"
+    publisher: 人民日报
+    date: 2026-03-04
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202603/04/content_30143315.html
+    start: "春潮涌动，万象更新。3月"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2026-03-05-editorial
+    title: "人民日报社论：坚定制度自信 实现良好开局"
+    publisher: 人民日报
+    date: 2026-03-05
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202603/05/content_30143534.html
+    start: "河山添锦绣，神州尽春晖。"
+    end: "预祝大会圆满成功！"
+  - id: i04-rmrb-2026-05-01-editorial
+    title: "人民日报社论：在新征程上团结奋斗不懈奋斗"
+    publisher: 人民日报
+    date: 2026-05-01
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2026/0501/c461529-40712400.html
+    start: "在亿万人民意气风发向着“"
+    end: "伟愿景变成美好现实。"
+  - id: i04-rmrb-2026-05-02-commentator
+    title: "人民日报评论员：坚定信心，进一步打牢科技强国建设根基"
+    publisher: 人民日报
+    author: 本报评论员
+    date: 2026-05-02
+    voice: doc
+    url: http://opinion.people.com.cn/n1/2026/0502/c461529-40712706.html
+    start: "“基础研究是整个科学体系"
+    end: "印朝着既定目标前行。"
+  - id: i04-rmrb-2026-07-01-editorial
+    title: "人民日报社论：砥砺初心使命 书写时代答卷"
+    publisher: 人民日报
+    date: 2026-07-01
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202607/01/content_30165870.html
+    start: "初心如磐，使命如炬。"
+    end: "我们这一代人的荣光！"
+  - id: i04-rmrb-2026-10-01-editorial
+    title: "人民日报社论：在新的伟大征程上接续奋斗再创辉煌"
+    publisher: 人民日报
+    date: 2026-10-01
+    voice: doc
+    url: https://paper.people.com.cn/rmrb/pc/content/202610/01/content_30184028.html
+    start: "金风送爽，山河锦绣。"
+    end: "代化更加壮丽的华章。"
