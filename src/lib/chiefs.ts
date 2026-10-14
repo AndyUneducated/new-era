@@ -6,7 +6,7 @@ import { fy } from './dates'
 import { NOW } from './faction'
 
 export type Post = Chief['post']
-export interface Tenure { prov: Province; post: Post; name: string; p?: PersonR; from: number; to: number; acting?: boolean; note?: string; cite?: string; derived?: boolean }
+export interface Tenure { prov: Province; post: Post; name: string; p?: PersonR; from: number; to: number; acting?: boolean; actingFrom?: boolean; note?: string; cite?: string; derived?: boolean }
 
 const SEC = /(省委|区党委|自治区党委|市委)书记$/
 const GOV = /(省长|自治区(人民政府)?主席|市长)$/
@@ -38,6 +38,21 @@ function derived(a: Atlas): Tenure[] {
   return out
 }
 
+// an acting spell (代省长) followed by election to the same post is one tenure; an acting holder never
+// elected keeps the mark
+function mergeActing(list: Tenure[]): Tenure[] {
+  const gone = new Set<Tenure>()
+  for (const t of list) {
+    if (!t.acting) continue
+    const next = list.find((n) => n !== t && !n.acting && n.prov === t.prov && n.post === t.post && n.name === t.name && Math.abs(n.from - t.to) < 0.3)
+    if (!next) continue
+    next.from = t.from
+    next.actingFrom = true
+    gone.add(t)
+  }
+  return list.filter((t) => !gone.has(t))
+}
+
 const memo = new WeakMap<Atlas, Tenure[]>()
 export function tenures(a: Atlas): Tenure[] {
   const hit = memo.get(a)
@@ -54,7 +69,7 @@ export function tenures(a: Atlas): Tenure[] {
     cite: c.cite,
   }))
   const covered = new Set(listed.map((t) => `${t.prov} ${t.post}`))
-  const all = [...listed, ...derived(a).filter((t) => !covered.has(`${t.prov} ${t.post}`))].sort((x, y) => x.from - y.from)
+  const all = mergeActing([...listed, ...derived(a).filter((t) => !covered.has(`${t.prov} ${t.post}`))].sort((x, y) => x.from - y.from))
   memo.set(a, all)
   return all
 }

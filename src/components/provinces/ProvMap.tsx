@@ -11,18 +11,22 @@ import { useTip } from '../bits'
 import { Face } from '../Face'
 import { TenureTip } from './TenureTip'
 
-// label nudges for the crowded east coast, in units of the map width
-const NUDGE: Partial<Record<Province, [number, number]>> = {
-  北京: [-0.012, -0.03],
-  天津: [0.03, 0.006],
-  河北: [-0.03, 0.03],
-  上海: [0.035, 0.008],
-  江苏: [-0.005, -0.012],
-  浙江: [0.004, 0.012],
-  海南: [0, 0.012],
-  宁夏: [-0.006, 0],
-  重庆: [0.008, 0.008],
-  广东: [0.004, -0.008],
+// faces pushed apart where the east coast is crowded, each tied to its province's centroid; the layout
+// depends on the map size only, so faces stay put while the year plays
+interface Spot extends d3.SimulationNodeDatum { prov: Province; cx: number; cy: number }
+function layout(centroid: Map<string, [number, number]>, r: number) {
+  const nodes: Spot[] = PROVINCES.flatMap((prov) => {
+    const c = centroid.get(prov)
+    return c ? [{ prov, cx: c[0], cy: c[1], x: c[0], y: c[1] }] : []
+  })
+  const sim = d3
+    .forceSimulation(nodes)
+    .force('x', d3.forceX<Spot>((d) => d.cx).strength(0.25))
+    .force('y', d3.forceY<Spot>((d) => d.cy).strength(0.25))
+    .force('gap', d3.forceCollide<Spot>(r + 13).strength(0.9))
+    .stop()
+  for (let i = 0; i < 240; i++) sim.tick()
+  return new Map(nodes.map((n) => [n.prov, n]))
 }
 
 export function ProvMap({ year, post, frame, pick, onPick }: { year: number; post: Post; frame: Frame; pick?: Province; onPick: (p: Province) => void }) {
@@ -41,6 +45,7 @@ export function ProvMap({ year, post, frame, pick, onPick }: { year: number; pos
     return { path, centroid: new Map(named.map((x) => [x.properties.name, path.centroid(x)] as const)) }
   }, [geo, W, H])
   const r = Math.max(9, Math.min(17, W / 62))
+  const spots = useMemo(() => layout(centroid, r), [centroid, r])
 
   const holder = (prov: Province) => holderAt(list, prov, post, year + 0.5)
   const colorOf = (t?: Tenure) => (t?.p ? a.factionIn(t.p, frame)?.color : undefined)
@@ -90,16 +95,23 @@ export function ProvMap({ year, post, frame, pick, onPick }: { year: number; pos
             )
           })}
           {PROVINCES.map((prov) => {
-            const c = centroid.get(prov)
+            const s = spots.get(prov)
+            if (!s || Math.hypot(s.x! - s.cx, s.y! - s.cy) < r) return null
+            return (
+              <g key={prov} className="pv-lead">
+                <line x1={s.cx} y1={s.cy} x2={s.x} y2={s.y} />
+                <circle cx={s.cx} cy={s.cy} r={1.8} />
+              </g>
+            )
+          })}
+          {PROVINCES.map((prov) => {
+            const s = spots.get(prov)
             const t = holder(prov)
-            if (!c || !t) return null
-            const [nx, ny] = NUDGE[prov] ?? [0, 0]
-            const x = c[0] + nx * W
-            const y = c[1] + ny * W
+            if (!s || !t) return null
             const fell = !!fellAfter(t)
             const id = `pv-f-${prov}`
             return (
-              <g key={prov} transform={`translate(${x},${y})`} className="pv-face" onClick={() => onPick(prov)} onMouseMove={(e) => show(e, prov)} onMouseLeave={tip.hide}>
+              <g key={prov} transform={`translate(${s.x},${s.y})`} className="pv-face" onClick={() => onPick(prov)} onMouseMove={(e) => show(e, prov)} onMouseLeave={tip.hide}>
                 <circle r={r + 2} fill="var(--card)" stroke={fell ? 'var(--seal)' : 'var(--card)'} strokeWidth={fell ? 2 : 1} />
                 <clipPath id={id}>
                   <circle r={r} />

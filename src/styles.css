@@ -1038,6 +1038,8 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .pv-prov { cursor: pointer; }
 .pv-prov:hover { fill-opacity: 1; filter: brightness(1.06); }
 .pv-face { cursor: pointer; }
+.pv-lead line { stroke: var(--ink-2); stroke-width: 0.8; opacity: 0.45; }
+.pv-lead circle { fill: var(--ink-2); opacity: 0.6; }
 .pv-face:hover > circle:first-child { stroke: var(--ink); stroke-width: 2; }
 .pv-initial { font-family: var(--serif); font-weight: 900; fill: var(--ink-2); }
 .pv-name { font-size: 10.5px; font-weight: 700; fill: var(--ink); font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
