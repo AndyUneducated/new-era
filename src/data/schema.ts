@@ -304,6 +304,8 @@ export const CongressSchema = z.object({
   // central committee full and alternate members by name, in the announced order; names with an entry link to it
   cc: z.array(z.string()).default([]),
   cca: z.array(z.string()).default([]),
+  // list name → person id, for names that several entries share
+  names: z.record(z.string(), z.string()).default({}),
   changes: z.array(z.object({ date: PartialDate, person: z.string(), kind: z.enum(['out', 'in', 'died']), text: z.string(), cite: Cite })).default([]),
   cites: z.array(Cite).min(1),
 })

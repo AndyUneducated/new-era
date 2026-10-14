@@ -159,6 +159,10 @@ export function check(d: Data) {
     const w = `congress ${g.n}`
     for (const id of [g.gs, ...g.psc, ...g.pb, ...g.alt, ...g.sec, ...g.cmc.map((x) => x.id), ...g.changes.map((x) => x.person)]) ref(people, 'person', id, w)
     g.cites.forEach((c) => cite(c, w))
+    for (const [name, id] of Object.entries(g.names)) {
+      ref(people, 'person', id, `${w} name ${name}`)
+      if (!g.cc.includes(name) && !g.cca.includes(name)) errors.push(`${w} name ${name}: not on the cc or cca list`)
+    }
     for (const x of g.changes) {
       cite(x.cite, `${w} change ${x.person}`)
       reliable(x.cite, `${w} change ${x.person}`)

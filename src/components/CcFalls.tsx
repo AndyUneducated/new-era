@@ -32,7 +32,7 @@ export function CcFalls() {
       const cells = (names: string[]): Cell[] =>
         names
           .map((name) => {
-            const id = a.ccId(name)
+            const id = a.ccId(name, c)
             const p = id ? a.person.get(id) : undefined
             const fell = p && fellOn(p)
             const t = fy(fell)

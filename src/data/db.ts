@@ -49,8 +49,8 @@ export class Atlas {
   private byName = new Map<string, string | null>()
 
   // a name on a central committee list; the lists keep disambiguating notes for namesakes: 张军（国家机关）
-  ccId(name: string): string | undefined {
-    return this.byName.get(name) ?? this.byName.get(name.replace(/（[^）]*）$/, '')) ?? undefined
+  ccId(name: string, c?: Congress): string | undefined {
+    return c?.names?.[name] ?? this.byName.get(name) ?? this.byName.get(name.replace(/（[^）]*）$/, '')) ?? undefined
   }
 
   constructor(db: DB) {
@@ -71,7 +71,7 @@ export class Atlas {
     for (const c of db.congresses)
       for (const [list, alt] of [[c.cc ?? [], false], [c.cca ?? [], true]] as const)
         for (const name of list) {
-          const id = this.ccId(name)
+          const id = this.ccId(name, c)
           if (id) push(this.ccOf, id, { n: c.n, alt })
         }
     for (const f of db.factions) this.faction.set(f.id, f)

@@ -130,6 +130,7 @@
       kind: died
       text: 政治局常委、国务院副总理黄菊在北京病逝。
       cite: k01-xinhua-2007-06-02-huang-ju-death
+  names: { 王刚: wang-gang, 王旭东: wang-xudong-1946 }
   cites: [k01-xinhua-2002-11-15-16-1-plenum, k02-xinhua-2002-11-14-16-cc, k02-xinhua-2002-11-14-16-cca]
 
 - n: 17
@@ -182,6 +183,7 @@
       kind: out
       text: 中央决定停止薄熙来的政治局委员、中央委员职务，由中纪委立案调查。
       cite: k01-xinhua-2012-04-10-bo-xilai
+  names: { 王刚: wang-gang, 王旭东: wang-xudong-1946, 王国生（军队）: wang-guosheng-pla, 王国生（江苏）: wang-guosheng, 刘伟: liu-wei }
   cites: [k01-xinhua-2007-10-22-17-1-plenum, k02-xinhua-2007-10-21-17-cc, k02-xinhua-2007-10-21-17-cca]
 
 - n: 18
@@ -229,6 +231,7 @@
       kind: out
       text: 中共中央决定由中纪委对政治局委员孙政才立案审查。
       cite: b07-ccdi-2017-07-24-sun-investigation
+  names: { 王国生: wang-guosheng, 李伟: li-wei-drc, 王宁: wang-ning-pap, 王军: wang-jun-tax, 王健: wang-jian-pla }
   cites: [c02-xinhua-2012-11-15-18-1-plenum, k02-xinhua-2012-11-14-18-cc, k02-xinhua-2012-11-14-18-cca]
 
 - n: 19
@@ -266,6 +269,9 @@
     信长星, 施小琳, 钱智民, 郭明义, 唐华俊, 唐良智, 黄志贤, 葛慧君, 景俊海, 程丽华, 傅自应, 焦彦龙, 雷凡培, 慎海雄, 蔡松涛, 颜晓东, 潘功胜, 马廷礼, 王海, 王曦,
     王印芳, 王艳玲, 毛万春, 乌兰, 尹弘, 田国立, 乐玉成, 刘石泉, 孙大伟, 阴和俊, 陈青, 胡昌升, 曹淑敏, 缪建民, 魏钢, 王炯, 王文涛, 毛伟明, 邓小刚（四川）, 任洪斌,
     李静, 李应红, 吴晓光, 宋鱼水, 庹震, 潘岳, 丁业现, 王莉霞, 宁吉喆, 杨金成, 舒庆, 姚增科]
+  names:
+    { 王宁（武警）: wang-ning-pap, 王军: wang-jun-tax, 王国生: wang-guosheng, 王宁（福建）: wang-ning-yunnan, 王旭东: wang-xudong-palace,
+      邓小刚（解放军）: deng-xiaogang-pla, 邓小刚（四川）: deng-xiaogang-sichuan, 陈旭: chen-xu }
   cites: [c02-xinhua-2017-10-25-19-1-plenum, k02-xinhua-2017-10-24-19-cc, k02-xinhua-2017-10-24-19-cca]
 
 - n: 20
@@ -338,4 +344,7 @@
       kind: out
       text: 新华社宣布，政治局委员马兴瑞涉嫌严重违纪违法，正接受中央纪委国家监委审查调查。
       cite: b08-xinhua-2026-04-03-ma-probe
+  names:
+    { 王宁: wang-ning-yunnan, 王凯（河南）: wang-kai-henan, 王凯（解放军）: wang-kai-pla, 刘伟: liu-wei-transport, 李伟: li-wei-pla, 陈旭: chen-xu,
+      王健: wang-jian-liaoning, 王旭东: wang-xudong-palace }
   cites: [b08-wikisource-2022-10-23-20-1-plenum, k02-xinhua-2022-10-22-20-cc, k02-xinhua-2022-10-22-20-cca]
