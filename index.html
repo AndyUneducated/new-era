@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="新时代 · New Era：2000 年以来的中国大陆政治专题。人物传记与档案、各国媒体的派系判断、历史大事时间线、官方思想的演变，每句引文均可溯源。" />
+    <title>新时代 · New Era — 2000 年以来的中国政治</title>
+    <script>
+      // set the theme before first paint so night readers never see a white flash
+      try {
+        var t = localStorage.getItem('ne-theme')
+        if (t !== 'dark' && t !== 'light') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        document.documentElement.dataset.theme = t
+      } catch (e) {}
+    </script>
+    <style>
+      html { background: #f7f2e8; }
+      html[data-theme='dark'] { background: #120d0b; }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
