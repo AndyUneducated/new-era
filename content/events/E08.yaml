@@ -87,6 +87,7 @@
   cites: [c03-ccdi-2017-11-21-lu-wei-probe, b12-bbc-2017-11-22-lu-wei]
 
 - id: e08-2018-national-supervision-commission
+  concepts: [liuzhi]
   date: 2018-03-20
   end: 2018-03-23
   title: 《监察法》通过，国家监察委员会挂牌
@@ -198,7 +199,7 @@
   lane: ideo
   summary: 2013年6月18日，习近平在党的群众路线教育实践活动工作会议上讲话，称党内脱离群众现象大量存在，集中表现为形式主义、官僚主义、享乐主义和奢靡之风“四风”，要求以“照镜子、正衣冠、洗洗澡、治治病”为总要求，对作风之弊“来一次大排查、大检修、大扫除”。这场自上而下的教育实践活动随即在全党展开。
   people: [xi-jinping]
-  concepts: [eight-point-rules]
+  concepts: [eight-point-rules, four-winds]
   cites: [e08-xinhua-2013-06-18-mass-line]
 
 - id: e08-2013-online-defamation-rule
@@ -224,6 +225,7 @@
   cites: [e08-gov-2014-02-27-cyber-group, c03-ccdi-2017-11-21-lu-wei-probe]
 
 - id: e08-2014-arts-forum
+  concepts: [positive-energy]
   date: 2014-10-15
   title: 文艺工作座谈会：“文艺不能当市场的奴隶”
   lane: ideo
@@ -438,6 +440,7 @@
   cites: [e08-bbc-2016-01-07-circuit-breaker, e08-thepaper-2016-01-07-circuit-breaker]
 
 - id: e08-2016-housing-not-for-speculation
+  concepts: [housing-not-speculation]
   date: 2016-12-16
   title: “房子是用来住的，不是用来炒的”
   lane: econ
@@ -446,6 +449,7 @@
   cites: [e08-xinhua-2016-12-16-housing]
 
 - id: e08-2020-three-red-lines
+  concepts: [three-red-lines]
   date: 2020-08-20
   title: 房企融资“三条红线”
   lane: econ
@@ -808,6 +812,7 @@
   cites: [e08-bbc-2014-04-24-sanjiang, e08-bbc-2014-07-23-crosses]
 
 - id: e08-2016-religious-work-conference
+  concepts: [sinicization-of-religion]
   date: 2016-04-22
   end: 2016-04-23
   title: 全国宗教工作会议提出宗教“中国化方向”

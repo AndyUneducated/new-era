@@ -82,7 +82,7 @@
   title: 贵州瓮安事件
   lane: society
   summary: 6月28日，贵州瓮安县上万民众围绕女生李树芬溺亡的死因争议，冲击并焚烧县委、县政府和公安局大楼，百余名民警受伤。官方最初的口径是“少数人煽动不明真相的群众闹事”；省委书记石宗源到当地调查后，承认当地长期侵犯群众利益、干部作风粗暴，先后三次道歉，县委书记、县长、公安局长等被撤职。
-  concepts: [stability-maintenance]
+  concepts: [stability-maintenance, mass-incidents]
   cites: [e02-chinanews-2008-07-02-wengan, e02-bbc-2008-07-wengan-accountability]
 
 - id: e2008-fuwocheng
@@ -384,6 +384,7 @@
   cites: [e02-bbc-2011-07-25-wang-yongping]
 
 - id: e2011-wukan
+  concepts: [mass-incidents]
   date: 2011-12-21
   end: 2012-03-03
   title: 乌坎事件
