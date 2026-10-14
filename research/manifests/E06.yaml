@@ -356,15 +356,6 @@ web:
     url: https://www.dw.com/zh/李尚福失踪或因军事采购腐败受调查/a-66832362
     excerpt: true
     keep: [ 据十名知情人士向路透社记者透露, 我不了解你提到的情况 ]
-  # ---- 2023-12 Qin Gang death report ----
-  - id: e06-voa-2023-12-07-qin-dead
-    title: Politico称秦刚已死 西方观察人士质疑
-    publisher: 美国之音
-    date: 2023-12-07
-    voice: zh
-    url: https://www.voachinese.com/a/china-on-twitter-qin-dead-20231207/7388749.html
-    excerpt: true
-    keep: [ 自杀或是“被折磨致死”, 读者需要注意，这些说法的消息源并不可靠 ]
   # ---- 2024-01 water-filled missiles ----
   - id: e06-dw-2024-01-07-water-missiles
     title: 注水导弹？美媒：情报称火箭军因腐败遭习近平整肃
