@@ -4,7 +4,9 @@ import { FactionChip, Portrait, Prose, Section, Src, Srcs, Status, VoiceTag } fr
 import { SEATS } from '../data/db'
 import { QUOTE_KINDS, ROLES } from '../data/schema'
 import { age, fmt, short, span } from '../lib/dates'
-import { congressName } from '../lib/cn'
+import { cnNum, congressName } from '../lib/cn'
+import { Seal } from '../components/Seal'
+import { SEAL_TEXT } from '../lib/fall'
 import { quoted } from '../lib/quotes'
 import { eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
@@ -26,6 +28,10 @@ export function PersonPage({ id }: { id: string }) {
   const pbTerms = new Set(seats.filter((s) => ['gs', 'psc', 'pb'].includes(s.seat)).map((s) => s.n)).size
   const star = p.quotes.find((q) => q.star) ?? p.quotes[0]
   const events = (a.eventsOf.get(p.id) ?? []).slice().sort((x, y) => x.date.localeCompare(y.date))
+  // the sources this file rests on
+  const filed = new Set(
+    [...p.cites, ...p.life.flatMap((x) => x.cites), ...p.fall.map((x) => x.cite), ...p.factions.map((t) => t.cite), ...p.assess.map((v) => v.cite), ...p.quotes.map((q) => q.cite)].map((c) => c.split('@')[0]),
+  ).size
   const dossier: [string, React.ReactNode][] = [
     ['出生', p.born && `${fmt(p.born)}${p.birthplace ? `，${p.birthplace}` : ''}`],
     ['逝世', p.died && fmt(p.died)],
@@ -55,6 +61,10 @@ export function PersonPage({ id }: { id: string }) {
           {p.name.slice(0, 1)}
         </span>
         <div style={{ position: 'relative' }}>
+          <div className="dossier-head">
+            <span>人物档案</span>
+            <span className="tnum">引据 {cnNum(Math.min(99, filed))} 件</span>
+          </div>
           <div className="eyebrow">
             <a href={href('people')}>人物</a> · {p.roles.slice(0, 3).map((r) => ROLES[r]).join(' / ')}
           </div>
@@ -112,6 +122,11 @@ export function PersonPage({ id }: { id: string }) {
         </div>
         <div className="frame">
           <Portrait p={p} w={260} h={320} square />
+          {SEAL_TEXT[p.status] && (
+            <span className="frame-seal">
+              <Seal text={SEAL_TEXT[p.status]} size={112} tilt={-11} stamp />
+            </span>
+          )}
           {p.photo && (
             <div className="credit">
               {p.photo.author && `摄影 ${p.photo.author} · `}

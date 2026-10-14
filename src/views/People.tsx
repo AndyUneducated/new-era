@@ -1,5 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Portrait, Status } from '../components/bits'
+import { Seal } from '../components/Seal'
+import { SEAL_TEXT } from '../lib/fall'
 import type { PersonR } from '../data/db'
 import { FRAMES, ROLES, STATUS, type Role, type Status as St } from '../data/schema'
 import { age } from '../lib/dates'
@@ -114,6 +116,11 @@ export function PersonCard({ p }: { p: PersonR }) {
   const yrs = age(p.born, p.died)
   return (
     <a className="card pcard" href={personHref(p.id)}>
+      {SEAL_TEXT[p.status] && (
+        <span className="pcard-seal" aria-hidden>
+          <Seal text={SEAL_TEXT[p.status]} size={40} tilt={-14} />
+        </span>
+      )}
       <Portrait p={p} size={60} />
       <div className="who" style={{ minWidth: 0 }}>
         <b>

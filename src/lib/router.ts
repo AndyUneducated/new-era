@@ -1,13 +1,51 @@
 // Hash routes: #/people/xi-jinping?e=event-id. The query carries overlays (the event drawer) so any
 // page can open one and the back button closes it.
 import { useSyncExternalStore } from 'react'
+import { flushSync } from 'react-dom'
 
 export interface Route { parts: string[]; q: URLSearchParams }
 
 const read = (): string => location.hash.replace(/^#\/?/, '')
+const pathOf = (h: string) => h.split('?')[0]
+
+// A change of page (not of the drawer query) runs as a view transition. The portrait and name inside the
+// link that was clicked take the names the person page gives its own, so the photo flies into place.
+let shown = pathOf(read())
+let clicked: { el: Element; at: number } | undefined
+addEventListener('click', (e) => {
+  const el = e.target instanceof Element ? e.target.closest('a[href^="#/"]') : null
+  if (el) clicked = { el, at: Date.now() }
+}, true)
+const still = () => matchMedia('(prefers-reduced-motion: reduce)').matches
+
+const listeners = new Set<() => void>()
+const notify = () => listeners.forEach((f) => f())
+addEventListener('hashchange', () => {
+  const next = pathOf(read())
+  const prev = shown
+  shown = next
+  if (next === prev || !document.startViewTransition || still()) return notify()
+  const named: HTMLElement[] = []
+  // from one person page to another the old page already holds the names
+  const person = /^people\/[^/]+$/
+  if (clicked && Date.now() - clicked.at < 800 && person.test(next) && !person.test(prev))
+    for (const [sel, name] of [['.portrait', 'hero-face'], ['b, .name', 'hero-name']] as const) {
+      const x = clicked.el.querySelector<HTMLElement>(sel)
+      if (x) {
+        x.style.viewTransitionName = name
+        named.push(x)
+      }
+    }
+  clicked = undefined
+  const t = document.startViewTransition(() => {
+    flushSync(notify)
+    scrollTo(0, 0)
+  })
+  t.finished.finally(() => named.forEach((x) => (x.style.viewTransitionName = '')))
+})
 const subscribe = (cb: () => void) => {
-  addEventListener('hashchange', cb)
-  return () => removeEventListener('hashchange', cb)
+  listeners.add(cb)
+  return () => listeners.delete(cb)
 }
 
 export function useRoute(): Route {
