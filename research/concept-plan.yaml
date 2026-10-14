@@ -1,0 +1,48 @@
+# Planned concept ids (the I01 batch writes content/concepts/*.yaml). Events may reference them first.
+# guiding
+- { id: deng-theory, name: 邓小平理论 }
+- { id: three-represents, name: “三个代表”重要思想 }
+- { id: scientific-development, name: 科学发展观 }
+- { id: xi-thought, name: 习近平新时代中国特色社会主义思想 }
+# components and formulas
+- { id: harmonious-society, name: 社会主义和谐社会 }
+- { id: new-era, name: 新时代 }
+- { id: chinese-dream, name: 中国梦 }
+- { id: four-comprehensives, name: 四个全面 }
+- { id: five-in-one, name: 五位一体 }
+- { id: new-development-philosophy, name: 新发展理念 }
+- { id: holistic-security, name: 总体国家安全观 }
+- { id: community-shared-future, name: 人类命运共同体 }
+- { id: belt-and-road, name: 一带一路 }
+- { id: supply-side, name: 供给侧结构性改革 }
+- { id: dual-circulation, name: 新发展格局 / 双循环 }
+- { id: common-prosperity, name: 共同富裕 }
+- { id: chinese-modernization, name: 中国式现代化 }
+- { id: new-quality-productive-forces, name: 新质生产力 }
+- { id: whole-process-democracy, name: 全过程人民民主 }
+- { id: self-revolution, name: 自我革命 }
+- { id: principal-contradiction, name: 社会主要矛盾的新表述 }
+- { id: ecological-civilization, name: 生态文明 / 绿水青山就是金山银山 }
+- { id: rule-of-law, name: 全面依法治国 }
+- { id: core, name: 核心（“习核心”） }
+- { id: two-establishes, name: 两个确立 }
+- { id: two-safeguards, name: 两个维护 }
+- { id: four-consciousness, name: 四个意识 }
+- { id: four-confidences, name: 四个自信 }
+- { id: eight-point-rules, name: 中央八项规定 }
+- { id: xiaokang, name: 全面建成小康社会 }
+- { id: taoguang-yanghui, name: 韬光养晦 }
+- { id: peaceful-rise, name: 和平崛起 / 和平发展 }
+- { id: stability-maintenance, name: 维稳 }
+- { id: dynamic-zero, name: 动态清零 }
+# documents
+- { id: document-9, name: 九号文件（“七不讲”） }
+- { id: third-resolution, name: 第三个历史决议 }
+- { id: charter-08, name: 零八宪章 }
+# trends
+- { id: liberals, name: 自由派 / 宪政派 }
+- { id: new-left, name: 新左派 }
+- { id: maoist-left, name: 毛左 }
+- { id: statism, name: 国家主义 }
+- { id: industrial-party, name: 工业党 }
+- { id: little-pink, name: 网络民族主义 / 小粉红 }

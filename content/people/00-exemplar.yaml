@@ -1,0 +1,82 @@
+# Exemplar of a full biography (tier 1). Every later batch follows this layout.
+- id: li-keqiang
+  name: 李克强
+  pinyin: Lǐ Kèqiáng
+  gender: m
+  ethnicity: 汉族
+  born: 1955-07-03
+  died: 2023-10-27
+  birthplace: 安徽合肥
+  origin: 安徽定远
+  education:
+    - { school: 北京大学法律系, from: 1978-03, to: 1982-02 }
+  joinedParty: 1976-05
+  roles: [psc, pb, cc]
+  status: dead
+  statusNote: 2023 年 10 月 27 日在上海因突发心脏病逝世，卸任总理七个月后。
+  tier: 1
+  headline: 国务院总理（2013–2023）
+  ids: { wikidata: Q18111 }
+  factions:
+    - f: tuanpai
+      cite: bbc-2023-10-27-li-keqiang
+      quote: 观察人士形容属“太子党”的习近平与来自“团派”的李克强关系并不密切
+  bio: >-
+    共青团出身的经济官员，胡锦涛时期被视为接班人选之一，2007 年与习近平同时进入政治局常委会，2012 年后排名第二，任国务院总理十年。
+    任内提出简政放权，“克强指数”“克强经济学”的说法在外界流行；外媒普遍认为他在习近平集权后被边缘化。2022 年二十大上未满“七上八下”的年龄线即退出中央委员会，2023 年 3 月卸任，同年 10 月猝逝于上海。
+  positions:
+    - { title: 共青团中央书记处第一书记, sys: party, from: 1993-03, to: 1998-06, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 河南省省长, sys: gov, place: 河南, from: 1998-06, to: 2004-12, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 河南省委书记, sys: party, place: 河南, from: 2002-12, to: 2004-12, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 辽宁省委书记, sys: party, place: 辽宁, from: 2004-12, to: 2007-10, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 中央政治局常委, sys: party, from: 2007-10, to: 2022-10, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 国务院副总理, sys: gov, from: 2008-03, to: 2013-03, cite: xinhua-2023-11-02-li-keqiang-life }
+    - { title: 国务院总理, sys: gov, from: 2013-03, to: 2023-03, cite: xinhua-2023-11-02-li-keqiang-life }
+  life:
+    - h: 早年与北大
+      from: 1955
+      to: 1982
+      text: >-
+        生于合肥，籍贯定远。1974 年到凤阳县大庙公社插队，1976 年入党并任大队党支部书记。1978 年恢复高考后入北京大学法律系，曾任校学生会负责人。
+      cites: [xinhua-2023-11-02-li-keqiang-life]
+    - h: 共青团
+      from: 1982
+      to: 1998
+      text: >-
+        毕业后留校任北大团委书记，随后进入团中央，1993 年任团中央书记处第一书记。BBC 指出，他在团中央是胡锦涛的下属，“十年后，李成为共青团中央书记处的第一书记，进一步夯实其团派背景”。
+      cites: [xinhua-2023-11-02-li-keqiang-life, bbc-2023-10-27-li-keqiang]
+    - h: 河南与辽宁
+      from: 1998
+      to: 2007
+      text: >-
+        1998 年调任河南，历任代省长、省长、省委书记；2004 年底调任辽宁省委书记，推动“五点一线”沿海经济带与棚户区改造。官方生平称他在河南“提出实现中原崛起的奋斗目标”。
+      cites: [xinhua-2023-11-02-li-keqiang-life]
+    - h: 常委与副总理
+      from: 2007
+      to: 2013
+      text: >-
+        2007 年十七届一中全会进入常委会，排名在习近平之后；2008 年任常务副总理，分管发改、财政、医改等，兼任国务院医改领导小组组长。
+      cites: [xinhua-2023-11-02-li-keqiang-life]
+    - h: 总理十年
+      from: 2013
+      to: 2023
+      text: >-
+        2013、2018 年两度出任总理。任初外界有“克强指数”“克强经济学”之说；BBC 写道，到 2016 年《人民日报》文章“已经放弃了‘李克强经济学’”。
+        2020 年 5 月 28 日记者会上他说中国“有6亿人每个月的收入也就1000元”，引起广泛讨论；中国政府网刊出的实录把这句话改写为“有6亿中低收入及以下人群”，国家统计局随后出面说明口径。
+      cites: [bbc-2023-10-27-li-keqiang, natcm-2020-06-01-li-keqiang-presser, gov-2020-05-29-li-keqiang-presser, people-2020-06-15-nbs-600m]
+    - h: 退出与猝逝
+      from: 2022
+      to: 2023
+      text: >-
+        2022 年二十大，年龄尚未到“七上八下”的他未进入新一届中央委员会，与汪洋一同退出常委会。2023 年 3 月卸任总理，10 月 27 日在上海逝世，享年 68 岁。
+      cites: [bbc-2023-10-27-li-keqiang, xinhua-2023-11-02-li-keqiang-life]
+  assess:
+    - voice: doc
+      quote: true
+      text: 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人
+      cite: xinhua-2023-11-02-li-keqiang-life
+    - voice: zh
+      quote: true
+      text: 英美投行巴克莱资本（Barclays Capital）又提出了“克强经济学”（Liconomics）的说法，他提倡简政放权，支持民营企业。
+      cite: bbc-2023-10-27-li-keqiang
+  cites: [xinhua-2023-11-02-li-keqiang-life, wd-Q18111]

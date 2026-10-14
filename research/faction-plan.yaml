@@ -1,0 +1,32 @@
+# Planned faction ids (the F01 batch writes content/factions.yaml). Other batches may tag people with
+# these ids before the faction entry exists; the build warns until it does. New ids: add here first.
+# classic: Hu-Wen era framework
+- { id: jiang-shanghai, name: 江派 / 上海帮, frame: classic }
+- { id: tuanpai, name: 团派, frame: classic }
+- { id: princelings, name: 太子党, frame: classic }
+- { id: petroleum, name: 石油帮, frame: classic }
+- { id: zhengfa, name: 政法系, frame: classic }
+# binary: Cheng Li's "one party, two coalitions"
+- { id: elitist, name: 精英联盟, frame: binary }
+- { id: populist, name: 民粹联盟, frame: binary }
+# xi: Xi-era career networks
+- { id: xi-jiajun, name: 习家军（总称）, frame: xi }
+- { id: zhijiang, name: 之江新军（浙江旧部）, frame: xi }
+- { id: fujian, name: 闽系（福建旧部）, frame: xi }
+- { id: shaanxi, name: 陕西帮 / 西北帮, frame: xi }
+- { id: xi-shanghai, name: 上海旧部, frame: xi }
+- { id: qinghua, name: 清华帮, frame: xi }
+- { id: aerospace, name: 军工航天系, frame: xi }
+- { id: mishu, name: 秘书帮, frame: xi }
+# purged: groups named after a purge
+- { id: new-gang-of-four, name: 新四人帮（周薄令徐）, frame: purged }
+- { id: zhou-clique, name: 周永康系（石油、四川、政法）, frame: purged }
+- { id: xishanhui, name: 西山会（令计划与山西官员）, frame: purged }
+- { id: guo-xu, name: 郭徐军中集团, frame: purged }
+- { id: rocket-equipment, name: 火箭军与装备系统（2023–）, frame: purged }
+- { id: zhang-liu, name: 张又侠、刘振立案（2026）, frame: purged }
+# army
+- { id: army-princelings, name: 军中太子党, frame: army }
+- { id: fujian-generals, name: 东南系 / 第 31 集团军旧部, frame: army }
+- { id: equipment-system, name: 总装 / 装备发展部系, frame: army }
+- { id: northwest-army, name: 西北军系（原兰州军区）, frame: army }

@@ -1,0 +1,13 @@
+# Factions as named by the media and scholars (decisions #4). One person may carry several labels.
+# frame: classic | binary | xi | purged | army
+- id: tuanpai
+  name: 团派
+  en: Tuanpai / Youth League faction
+  aka: [共青团派, 团系]
+  frame: classic
+  color: '#c0392b'
+  core: [li-keqiang]
+  basis: 共青团中央任职经历，以胡锦涛为中心
+  summary: >-
+    以共青团中央出身的干部为主体，胡锦涛时期被视为最重要的党内派系之一。外媒常把李克强、汪洋、胡春华、李源潮等归入此派；习近平时期团中央遭批评与缩编，团派在二十大后基本退出最高层。
+  cites: [bbc-2023-10-27-li-keqiang]

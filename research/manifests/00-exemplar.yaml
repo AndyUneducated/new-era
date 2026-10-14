@@ -1,0 +1,40 @@
+# M0 exemplar: one full biography (Li Keqiang) wired end to end.
+web:
+  - id: xinhua-2023-11-02-li-keqiang-life
+    title: 李克强同志生平
+    publisher: 新华社
+    date: 2023-11-02
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202311/content_6913256.htm
+    start: 中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的卓越领导人，中国共产党第十七届
+    end: 民族复兴伟业而团结奋斗。
+  - id: gov-2020-05-29-li-keqiang-presser
+    title: 李克强总理出席记者会并回答中外记者提问（中国政府网版）
+    publisher: 中国政府网
+    date: 2020-05-28
+    voice: doc
+    url: https://www.gov.cn/premier/2020-05/29/content_5515798.htm
+    start: 李克强总理出席记者会并回答中外记者提问
+  - id: natcm-2020-06-01-li-keqiang-presser
+    title: 李克强总理出席记者会并答中外记者问（实录全文，国家中医药管理局转载）
+    publisher: 国家中医药管理局
+    date: 2020-05-28
+    voice: doc
+    url: http://www.natcm.gov.cn/xinxifabu/guowuyuanxinxi/2020-06-01/15551.html
+    start: 李克强总理出席记者会并答中外记者问
+  - id: people-2020-06-15-nbs-600m
+    title: “6亿人每月人均收入1000元”？国家统计局回应
+    publisher: 人民网
+    date: 2020-06-15
+    voice: official
+    url: http://politics.people.com.cn/n1/2020/0615/c1001-31747507.html
+    start: 人民网北京6月15日电
+    end: 发展未有穷期。
+  - id: bbc-2023-10-27-li-keqiang
+    title: 李克强逝世：中国经济政策的务实主义者 官方评价为“卓越领导人”
+    publisher: BBC 中文
+    date: 2023-10-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-67235873
+    excerpt: true
+    keep: [团派, 七上八下, 太子党, 克强经济学]

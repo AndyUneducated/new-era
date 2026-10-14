@@ -1,0 +1,13 @@
+# person id → quotes. Every text is checked verbatim against its cite.
+li-keqiang:
+  - text: 中国是一个人口众多的发展中国家，我们人均年收入是3万元人民币，但是有6亿人每个月的收入也就1000元，1000元在一个中等城市可能租房都困难
+    cite: natcm-2020-06-01-li-keqiang-presser
+    kind: interview
+    date: 2020-05-28
+    occasion: 十三届全国人大三次会议闭幕后的记者会（当时转载的实录）
+    star: true
+  - text: 但是有6亿中低收入及以下人群，他们平均每个月的收入也就1000元左右
+    cite: gov-2020-05-29-li-keqiang-presser
+    kind: interview
+    date: 2020-05-28
+    occasion: 同一场记者会，中国政府网刊出的修订版实录
