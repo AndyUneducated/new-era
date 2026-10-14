@@ -241,6 +241,7 @@
 - B18：曾培炎“江系”核心标签只靠大纪元，偏弱；李岚清、尉健行、曾培炎正文略过 1500 字。尉健行、吴仪两句无出处背景已补来源或改写。
 - B15：五人都无 `family`；P01 把袁家军 2017-04 至 2018-01 记为代省长，央视与新华社称 2017-07 任省长，待核。建议补抓 `f01-bbc-2022-10-28-pb-24`、`b11-brookings-2022-10-16-20th-candidates` 的相关段落。建议 id：chai-jing、jiang-xinzhi、under-the-dome-2015、haihe-flood-2023。
 - B20：常万全“降级”无独立来源，且 2026 年仍以前国务委员身份出席活动，保持 retired。建议派系 `nanjing-mr`（南京军区/对台系，Mulvenon），人物 liu-huaqing、zhou-yibing、qian-weiping、ding-henggao、chi-xingbei。载人航天总指挥序列（`f10-wiki-xu-xueqiang`）漏了陈炳德。
+- B16：刘国中、陈文清、石泰峰、李鸿忠按汉字计略低于 1500（含标点 1836–2086），五人无 `family`。请补 keep：`p02-wiki-li-hongzhong`（李铁映秘书、黄丽满提拔，可建 li-tieying→li-hongzhong 关系）、`f02-reuters-2022-10-24-elites`（Yin Li、Shi Taifeng 段）、`f01-bbc-2022-10-28-pb-24`（尹力）。Brookings 2017 PDF 抓不下（抓取工具不解析 PDF）。建议 id：huang-liman。
 
 ## 审计（M6）
 
