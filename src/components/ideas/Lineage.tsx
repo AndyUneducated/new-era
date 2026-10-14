@@ -15,7 +15,8 @@ const HEAD = 26
 const LANE_PAD = 26
 
 interface Placed { m: Ism; row: number; y: number }
-const scale = (W: number) => d3.scaleLinear().domain([FIRST_YEAR, NOW]).range([12, W - 12])
+// isms older than the chart (Marxism-Leninism, liberalism) start at its left edge
+const scale = (W: number) => d3.scaleLinear().domain([FIRST_YEAR, NOW]).range([12, W - 12]).clamp(true)
 
 export function Lineage({ pick, onPick }: { pick: string | null; onPick: (id: string | null) => void }) {
   const a = useAtlas()

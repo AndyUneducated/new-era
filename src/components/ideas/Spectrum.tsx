@@ -55,6 +55,26 @@ export function Spectrum({ pick, onPick }: { pick: string | null; onPick: (id: s
   const pts = (ps: Record<Axis, number>[]) => ps.map((p) => `${X(p)},${Y(p)}`).join(' ')
   const focus = pick ? a.ism.get(pick) : undefined
 
+  // names placed greedily, the picked ism and the official canon first; a name with no free spot right,
+  // left, above or below its dot is left to the tooltip
+  const placed: [number, number, number, number][] = alive.map(({ p }) => [X(p) - 6, Y(p) - 6, 12, 12])
+  const spot = new Map<string, [number, number]>()
+  for (const { m, p } of [...alive].sort((q, r) => Number(r.m.id === pick) - Number(q.m.id === pick))) {
+    const w = (m.short ?? m.name).length * 11.5 + 2
+    const px = X(p)
+    const py = Y(p)
+    const tries: [number, number][] = [
+      [px + 9, py - 9],
+      [px - 9 - w, py - 9],
+      [px - w / 2, py - 22],
+      [px - w / 2, py + 8],
+    ]
+    const ok = tries.find(([x, y]) => x > 2 && x + w < S - 2 && !placed.some(([bx, by, bw, bh]) => x < bx + bw && bx < x + w && y < by + bh && by < y + 13))
+    if (!ok) continue
+    placed.push([ok[0], ok[1], w, 13])
+    spot.set(m.id, [ok[0] - px, ok[1] + 10 - py])
+  }
+
   return (
     <div className="card pad spectrum-v" ref={ref}>
       <div className="galaxy-bar">
@@ -126,9 +146,11 @@ export function Spectrum({ pick, onPick }: { pick: string | null; onPick: (id: s
               onMouseLeave={tip.hide}
             >
               <circle r={pick === m.id ? 8 : 6} fill={m.kind === 'label' ? 'var(--card)' : ismColor(m.kind)} stroke={ismColor(m.kind)} strokeWidth={m.kind === 'label' ? 2 : 1} strokeDasharray={m.kind === 'label' ? '2 1.5' : undefined} fillOpacity={0.85} />
-              <text x={X(p) > S * 0.72 ? -9 : 9} y={4} textAnchor={X(p) > S * 0.72 ? 'end' : 'start'} className={`sp-name${pick === m.id ? ' on' : ''}`}>
-                {m.short ?? m.name}
-              </text>
+              {spot.has(m.id) && (
+                <text x={spot.get(m.id)![0]} y={spot.get(m.id)![1]} className={`sp-name${pick === m.id ? ' on' : ''}`}>
+                  {m.short ?? m.name}
+                </text>
+              )}
             </g>
           ))}
           {now && t >= fy(line[0].at)! && (
