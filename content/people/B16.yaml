@@ -1,0 +1,547 @@
+# B16: full biographies (round 5). Each entry starts as the dossier card in C02.yaml, expanded to tier 1.
+- id: yin-li
+  name: 尹力
+  pinyin: Yǐn Lì
+  gender: m
+  ethnicity: 汉族
+  born: 1962-08
+  birthplace: 山东临邑
+  education:
+    - { school: 山东医科大学医学系医学专业, from: 1980, to: 1986 }
+    - { school: 山东医科大学卫生系社会医学与卫生事业管理专业, degree: 硕士研究生, from: 1986, to: 1988 }
+    - { school: 俄罗斯医学科学院社会卫生、经济与卫生事业管理研究所, degree: 医学博士, from: 1988, to: 1993 }
+  joinedParty: 1983-06
+  joinedWork: 1987-09
+  roles: [pb, cc, prov, minister]
+  status: active
+  statusNote: 中央政治局委员、北京市委书记，2026 年 9 月仍以此身份出席北京文化论坛。
+  tier: 1
+  headline: 北京市委书记（2022– ）、政治局委员
+  bio: >-
+    山东临邑人，学医出身，在俄罗斯医学科学院读完卫生经济与卫生事业管理博士，回国后进国务院研究室，2003 年转入卫生部，历任国际合作司司长、办公厅主任，2008 年升副部长，
+    2012 年兼任国家食品药品监督管理局局长，接手铬超标胶囊事件的善后。2015 年首次到地方，任四川省委副书记兼宣传部部长，2016–2020 年任四川省长，2020 年 11 月调任福建省委书记。
+    二十大进入政治局，2022 年 11 月接替蔡奇任北京市委书记，上任时正值北京疫情升温、防疫政策随即转向；2023 年夏又主持特大暴雨后的救灾和重建。
+  positions:
+    - { title: 卫生部国际合作司司长, sys: gov, from: 2003-10, to: 2006-07, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { title: 卫生部副部长, sys: gov, from: 2008-09, to: 2013-04, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { title: 国家食品药品监督管理局局长, sys: gov, from: 2012-02, to: 2013-04, cite: c02-wiki-yin-li }
+    - { title: 国家食品药品监督管理总局副局长、国家卫生和计划生育委员会副主任, sys: gov, from: 2013-04, to: 2015-03, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { title: 四川省委副书记（2015-04 起兼宣传部部长）, sys: party, place: 四川, from: 2015-03, to: 2016-01, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { title: 四川省省长, sys: gov, place: 四川, from: 2016-01, to: 2020-12, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { title: 福建省委书记, sys: party, place: 福建, from: 2020-11, to: 2022-11, cite: p01-xinhua-2022-11-13-yin-li }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 2022-11, cite: p01-xinhua-2022-11-13-yin-li }
+  life:
+    - h: 学医与留俄
+      from: 1962
+      to: 1993
+      text: >-
+        1962 年 8 月生于山东临邑。1980–1986 年在山东医科大学医学系读医学专业，接着在该校卫生系读社会医学与卫生事业管理专业硕士研究生，其间 1983 年入党，1987–1988 年在上海外国语学院出国留学预备人员培训部受训。
+        1988 年 11 月赴俄罗斯医学科学院社会卫生、经济与卫生事业管理研究所读博士，1993 年 11 月毕业，获医学博士学位。联合早报称他是“公共卫生领域的学者型官员”。
+      cites: [b16-cctv-2020-12-01-yin-li-cv, b16-zaobao-2022-11-14-yin-li-beijing]
+    - h: 国务院研究室与卫生部
+      from: 1993
+      to: 2012
+      text: >-
+        1993 年回国进国务院研究室教科文卫司，后转社会发展研究司，从干部做到处长、助理巡视员、巡视员，其间 2001 年在中央党校中央国家机关分校学习，2002–2003 年在美国哈佛大学做访问学者；联合早报的说法是他在哈佛大学公共卫生学院进修过。
+        2003 年 5 月调卫生部任办公厅副主任（正司级），10 月任国际合作司司长，2004–2005 年担任世界卫生组织执委并当选执委会副主席；2005–2006 年读中央党校一年制中青年干部培训班，2006 年任卫生部办公厅主任，2008 年 9 月升任卫生部副部长、党组成员，2009–2011 年兼任中央社会治安综合治理委员会委员，2012–2015 年还是中央保健委员会委员。
+      cites: [b16-cctv-2020-12-01-yin-li-cv, b16-zaobao-2022-11-13-yin-li-beijing]
+    - h: 药监局长
+      from: 2012
+      to: 2015
+      text: >-
+        2012 年 2 月兼任国家食品药品监督管理局局长、党组书记，此时铬超标胶囊事件刚过去不久。8 月他接受新华社采访说，问题出现后固然要“救火”，更重要的是完善制度，从源头“防火”；
+        新出台的药用辅料规定把辅料的生产和使用也纳入监管，他说过去这是“一个比较薄弱的环节”。维基百科称他任内妥善化解了企业用工业明胶生产胶囊问题。
+        2013 年 4 月机构改革后，任国家食品药品监督管理总局副局长、党组副书记，兼国家卫生和计划生育委员会副主任。
+      cites: [b16-xinhua-2012-08-03-yin-li-capsule, c02-wiki-yin-li, b16-cctv-2020-12-01-yin-li-cv]
+    - h: 四川
+      from: 2015
+      to: 2020
+      text: >-
+        2015 年 3 月首次到地方，任四川省委副书记，4 月起兼省委宣传部部长（维基百科记为“专职副书记”、5 月兼宣传部长）。2016 年 1 月任副省长、代省长，1 月 29 日当选四川省长，次日由省人大常委会补选为十二届全国人大代表，2018 年 2 月又当选十三届全国人大代表，省长一直做到 2020 年底。
+        他 2012 年十八大当选中央候补委员，2017 年十九大升为中央委员。联合早报记他“担任四川省长近四年后”于 2020 年 11 月转任福建；按官方简历，他实际当了将近五年省长。
+      cites: [b16-cctv-2020-12-01-yin-li-cv, c02-wiki-yin-li, b16-zaobao-2022-11-13-yin-li-beijing]
+    - h: 福建
+      from: 2020
+      to: 2022
+      text: >-
+        2020 年 11 月 30 日，中共中央决定尹力调任福建省委书记（新华社 2022 年的简历记为 2020 年 11 月，官方个人简历记为 12 月），2021 年 1 月当选福建省人大常委会主任。
+        南华早报指出福建是习近平的权力基地之一；希望之声和大纪元（均为传闻来源）把他归入“福建帮”，大纪元说他因 2020 年起任福建省委书记而被算作福建帮。二十大后，福建省委书记由人社部部长周祖翼接任。
+      cites: [p01-xinhua-2022-11-13-yin-li, c02-wiki-yin-li, b16-cctv-2020-12-01-yin-li-cv, b16-scmp-2022-11-13-yin-li-beijing, f07-soh-song-tao, f07-epoch-2023-11-09-five-cliques]
+    - h: 北京：疫情与转向
+      from: 2022-10
+      to: 2022-12
+      text: >-
+        2022 年 10 月二十届一中全会当选政治局委员。11 月 13 日，中组部部长陈希在北京宣布中央决定，尹力接替升任政治局常委的蔡奇兼任北京市委书记；南华早报说这项任命反映党的高层向技术官僚倾斜。
+        他上任时北京疫情升温，11 月 15 日以北京新冠肺炎疫情防控工作领导小组组长身份到市涉疫风险应急处置指挥部和市疾控中心调研，晚上在朝阳区主持会议，要求“尽快遏制疫情上升势头，坚决打赢疫情歼灭战”，
+        同时提出疫情要防住、经济要稳住、发展要安全，希望朝阳区“探索出高效统筹疫情防控与经济社会发展的新路子”。一个月后防疫政策急转，12 月 14 日他主持的市委常委会提出“进一步把工作重心从防控感染转到医疗救治上来”，以保健康、防重症为目标。
+      cites: [p01-xinhua-2022-11-13-yin-li, b16-scmp-2022-11-13-yin-li-beijing, b16-bjrb-2022-11-16-yin-li-covid, b16-beijing-2022-12-15-yin-li-covid]
+    - h: 北京：暴雨与重建
+      from: 2023
+      to: 2026
+      text: >-
+        2023 年 7 月底，受台风“杜苏芮”影响，北京遭遇极端降雨。据联合早报 8 月 1 日报道，京冀两地已至少 20 人死亡，其中北京 11 人，受灾最重的是门头沟区和房山区。
+        8 月 6 日他在全市领导干部会议上称这是“百年罕见的特大暴雨”，要求“以不获全胜决不收兵的干劲”打赢防汛救灾和恢复重建攻坚战，并定下“一年基本恢复、三年全面提升、长远可持续发展”的重建思路，对灾损最严重的 18 个山区乡镇建立“一对二”结对帮扶。
+        此后他继续以政治局委员、北京市委书记身份主政首都，2026 年 9 月出席北京文化论坛并致辞。
+      cites: [b16-zaobao-2023-08-01-beijing-flood, b16-beijing-2023-08-06-yin-li-flood, c02-cyol-2026-09-23-beijing-forum]
+  assess:
+    - voice: zh
+      quote: true
+      text: 今年60岁的尹力是公共卫生领域的学者型官员。
+      cite: b16-zaobao-2022-11-14-yin-li-beijing
+    - voice: west
+      quote: true
+      text: His appointment reflects a shift towards technocrats in the top ranks of the party
+      zh: 他的任命反映出党的高层正转向技术官僚。
+      cite: b16-scmp-2022-11-13-yin-li-beijing
+    - voice: wiki
+      quote: true
+      text: 任职期间妥善化解了企业用工业明胶生产胶囊问题
+      cite: c02-wiki-yin-li
+  ids: { wikidata: Q19825407 }
+  cites: [wd-Q19825407, c02-gov-2022-10-23-20th-cvs, c02-wiki-yin-li, c02-cyol-2026-09-23-beijing-forum, b16-cctv-2020-12-01-yin-li-cv, p01-xinhua-2022-11-13-yin-li, b16-scmp-2022-11-13-yin-li-beijing]
+
+- id: liu-guozhong
+  name: 刘国中
+  pinyin: Liú Guózhōng
+  gender: m
+  ethnicity: 汉族
+  born: 1962-07
+  birthplace: 黑龙江望奎
+  education:
+    - { school: 华东工程学院炮弹系触发引信设计与制造专业, from: 1978, to: 1982 }
+    - { school: 哈尔滨工业大学金属材料及工艺系压力加工专业, degree: 工学硕士, from: 1985, to: 1988 }
+    - { school: 哈尔滨工业大学管理学院系统工程专业, from: 1988, to: 1990 }
+  joinedParty: 1986-11
+  joinedWork: 1982-08
+  roles: [pb, cc, prov, minister]
+  status: active
+  statusNote: 中央政治局委员、国务院副总理，2026 年 9 月仍以此身份到湖北调研。
+  tier: 1
+  headline: 国务院副总理（2023– ）、政治局委员
+  bio: >-
+    黑龙江望奎人。本科读的是华东工程学院炮弹系的引信专业，毕业后在哈尔滨建成机械厂当了三年干部，再回哈尔滨工业大学读金属压力加工硕士。
+    此后在黑龙江省经委、省政府办公厅和研究室一路升迁，2004 年任鹤岗市委书记，2007 年进省委常委任秘书长，2011 年任副省长。2013 年调全国总工会任副主席，
+    2016 年起历任四川省委副书记、吉林省长、陕西省长，2020 年 7 月任陕西省委书记，任内遇上 2021 年底的西安封城。二十大进入政治局，2023 年 3 月任国务院副总理，公开活动以粮食、三农、防汛和卫生健康为主。
+  positions:
+    - { title: 鹤岗市委书记, sys: party, place: 黑龙江, from: 2004-10, to: 2007-04, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 黑龙江省委常委、秘书长, sys: party, place: 黑龙江, from: 2007-04, to: 2011-09, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 黑龙江省委常委、副省长, sys: gov, place: 黑龙江, from: 2011-09, to: 2013-10, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 中华全国总工会副主席、书记处书记, sys: other, from: 2013-10, to: 2016-02, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 四川省委副书记, sys: party, place: 四川, from: 2016-02, to: 2016-12, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 吉林省代省长、省长, sys: gov, place: 吉林, from: 2016-12, to: 2017-12, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { title: 陕西省省长, sys: gov, place: 陕西, from: 2018-01, to: 2020-08, cite: wd-Q8989779 }
+    - { title: 陕西省委书记, sys: party, place: 陕西, from: 2020-07, to: 2022-11, cite: p02-xinhua-2020-07-31-shaanxi-sec }
+    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: b16-gov-2023-03-12-vice-premiers }
+  life:
+    - h: 引信专业与军工厂
+      from: 1962
+      to: 1990
+      text: >-
+        1962 年 7 月生于黑龙江望奎。1978–1982 年在华东工程学院炮弹系学触发引信设计与制造，毕业后进哈尔滨建成机械厂当干部，1985–1988 年回哈尔滨工业大学读金属材料及工艺系压力加工专业硕士，之后又在哈工大管理学院学系统工程，1986 年入党。
+        官方简历只写工厂名；自由亚洲电台的文章说他“曾进入中国第一所航空炸弹制造工厂工作”，中央社则说他曾任职于中国兵器工业集团。
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv, f02-rfa-2023-02-13-jungong, f02-cna-2026-07-14-ma-xingrui]
+    - h: 黑龙江省府三十年
+      from: 1990
+      to: 2013
+      text: >-
+        1990 年进黑龙江省经委综合规划处，从科员做到主任科员；1993 年转省政府办公厅一处，在这个处待了七年，1996 年任副处长，1998 年任处长；2000 年任省政府研究室副主任，2003 年升主任。2004 年 10 月任鹤岗市委书记，
+        2007 年 4 月进黑龙江省委常委并任秘书长，2011 年 9 月改任省委常委、副省长（维基百科记为常务副省长）。从参加工作算起，他在黑龙江工作了约三十年。
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv, c02-wiki-liu-guozhong]
+    - h: 全总、四川、吉林
+      from: 2013
+      to: 2017
+      text: >-
+        2013 年 10 月调北京任中华全国总工会副主席、书记处书记、党组副书记；2016 年 2 月任四川省委副书记，12 月转任吉林省委副书记、副省长、代省长，晋升正部级，2017 年 1 月由吉林省人大选为省长。
+        2017 年 12 月调往陕西时，他仍兼着吉林省长，直到 2018 年 1 月。新华社 2020 年宣布他主政陕西时附的简历，同样列出了全总和四川这两段经历。2018 年 2 月他当选第十三届全国人大代表。
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv, c02-wiki-liu-guozhong, p02-xinhua-2020-07-31-shaanxi-sec]
+    - h: 陕西省长与书记
+      from: 2017
+      to: 2021
+      text: >-
+        2017 年 12 月调任陕西省委副书记、省政府党组书记。2018 年 1 月 4 日陕西省人大常委会接受胡和平辞去省长职务，任命他为副省长、代省长，1 月 30 日省人代会选他为省长。
+        2020 年 7 月 31 日，中组部副部长姜信治在陕西宣布中央决定，刘国中接替胡和平任陕西省委书记（官方简历记为 2020 年 8 月），8 月 25 日他又被补选为省人大常委会主任。
+      cites: [p02-xinhua-2018-01-04-liu-guozhong-acting, p02-xinhua-2018-01-30-liu-guozhong-elected, p02-xinhua-2020-07-31-shaanxi-sec, b16-cctv-2020-07-31-liu-guozhong-cv, c02-wiki-liu-guozhong]
+    - h: 西安封城
+      from: 2021-12
+      to: 2022-01
+      text: >-
+        2021 年 12 月西安暴发疫情，23 日起全城封闭管理。当天他在西安市疫情防控指挥部主持会议，要求落实“逢阳必报、逢阳即报、接报即查、先管后筛”。
+        联合早报报道，封闭管理期间食品短缺、物资配送不到位引发民怨，雁塔区两名主要官员被罢免；2022 年 1 月初他要求重点疫区“尽快扭转被动局面”，对风险人群“宁可范围大一些，也不能漏控一人”，
+        并要领导干部“身子往前扑，时间往前抢，工作往细做，服务往实做”。“西安买菜难”一度成为微博热搜词，他回应时提出要打通生活物资保障“最后一百米”。也有网友批评“社会面清零”是自欺欺人。
+      cites: [b16-cri-2021-12-24-liu-xian, b16-zaobao-2022-01-04-xian-villages, b16-zaobao-2022-01-04-liu-zero]
+    - h: 进入政治局
+      from: 2022-10
+      to: 2023-03
+      text: >-
+        二十大上进入政治局。路透社在新一届政治局名单公布后的介绍中说他与习近平没有已知的联系；希望之声（传闻来源）则认为，不管他本来与哪派接近，现在都已被收编进习家军，大纪元（传闻来源）把他归入“新陕西帮”。
+        自由亚洲电台介绍，境外媒体把他与张国清、袁家军、马兴瑞、李干杰并称“军工五人帮”。2022 年 11 月 27 日他不再兼任陕西省委书记，由赵一德接任；2023 年 3 月 12 日十四届全国人大一次会议决定他为国务院副总理。
+      cites: [f02-reuters-2022-10-24-elites, f07-soh-shaanxi, f07-epoch-2023-11-09-five-cliques, f02-rfa-2023-02-13-jungong, p02-xinhua-2022-11-27-shaanxi-sec, b16-gov-2023-03-12-vice-premiers]
+    - h: 分管三农与卫生健康
+      from: 2023
+      to: 2026
+      text: >-
+        任副总理后的公开活动以农业、粮食、防汛和卫生健康为主。2024 年 7 月在黑龙江调研时强调秋粮产量占全年粮食产量的四分之三，要严密防范洪涝、干旱等灾害；
+        2025 年 11 月在内蒙古、辽宁调研时要求扎实抓好“三农”和卫生健康重点工作，既讲秋粮收储、黑土地保护和防止规模性返贫，也讲传染病防控、紧密型县域医共体、育儿补贴和居民医保集中参保。2026 年 7 月同为军工出身的马兴瑞被“双开”，中央社引述 BBC 的专家分析，称习近平对军工系统的反腐已延伸到国防工业最高层级；
+        同年 9 月，他仍以副总理身份到湖北调研，出席中国农民丰收节全国主场活动。
+      cites: [b16-gov-2024-07-04-liu-heilongjiang, b16-gov-2025-11-05-liu-health, f02-cna-2026-07-14-ma-xingrui, c02-gov-2026-09-23-liu-guozhong]
+  assess:
+    - voice: west
+      quote: true
+      text: Liu Guozhong, 60, Shaanxi party chief. No known connection to Xi
+      zh: 刘国中，60 岁，陕西省委书记。与习近平没有已知的联系。
+      cite: f02-reuters-2022-10-24-elites
+    - voice: zh
+      quote: true
+      text: 可见不管刘国中本来与中共哪派接近些，现在是属于习收编进习家军的一员
+      cite: f07-soh-shaanxi
+    - voice: zh
+      quote: true
+      text: 西安地方政府的抗疫能力备受质疑
+      cite: b16-zaobao-2022-01-04-xian-villages
+  factions:
+    - f: aerospace
+      cite: f02-rfa-2023-02-13-jungong
+      quote: 中国境外的新闻媒体中陆续出现了“军工五人帮”的说法……具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人。
+  ids: { wikidata: Q8989779 }
+  cites: [wd-Q8989779, c02-gov-2022-10-23-20th-cvs, c02-wiki-liu-guozhong, c02-gov-2026-09-23-liu-guozhong, b16-cctv-2020-07-31-liu-guozhong-cv, p02-xinhua-2020-07-31-shaanxi-sec, b16-gov-2023-03-12-vice-premiers]
+
+- id: chen-wenqing
+  name: 陈文清
+  pinyin: Chén Wénqīng
+  gender: m
+  ethnicity: 汉族
+  born: 1960-01
+  birthplace: 四川仁寿
+  education:
+    - { school: 西南政法学院法律系法律专业, from: 1980, to: 1984 }
+    - { school: 四川联合大学管理学研究所企业管理专业研究生课程班, from: 1995, to: 1997 }
+  joinedParty: 1983-03
+  joinedWork: 1984-07
+  roles: [pb, sec, ccdi, cc, minister]
+  status: active
+  statusNote: 中央政治局委员、书记处书记、中央政法委书记，2026 年 1 月主持中央政法工作会议。
+  tier: 1
+  headline: 中央政法委书记（2022– ）、政治局委员、前国家安全部部长
+  bio: >-
+    四川仁寿人，西南政法学院毕业，从乐山的派出所民警干起，在四川公安、国家安全系统工作近二十年，1998 年任四川省国家安全厅厅长，2002 年任四川省检察长，联合早报称他是当时中国最年轻的省级检察长。
+    2006 年调福建任省纪委书记，2011 年升省委副书记；2012 年任中纪委副书记，在王岐山手下工作。2015 年国安部副部长马建落马后出任国安部党委书记，2016 年任部长。
+    二十大成为首个进入政治局的国安部长，随后接替郭声琨任中央政法委书记，是罗干之后首位不是公安部长出身的政法委书记。
+  positions:
+    - { title: 四川省乐山市公安局局长, sys: gov, place: 四川, from: 1992-12, to: 1994-08, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 四川省国家安全厅厅长, sys: gov, place: 四川, from: 1998-01, to: 2002-04, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 四川省人民检察院检察长, sys: other, place: 四川, from: 2002-04, to: 2006-08, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 福建省委常委、省纪委书记, sys: party, place: 福建, from: 2006-08, to: 2011-09, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 福建省委副书记, sys: party, place: 福建, from: 2011-05, to: 2012-11, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 中纪委副书记, sys: party, from: 2012-11, to: 2015-05, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 国家安全部党委书记, sys: party, from: 2015-04, to: 2022-10, cite: b16-zaobao-2022-10-30-chen-stability }
+    - { title: 国家安全部部长, sys: gov, from: 2016-11, to: 2022-10, cite: b16-chinanews-2016-11-07-chen-mss }
+    - { title: 中央国家安全委员会办公室副主任, sys: party, from: 2018-05, cite: b16-cna-2022-10-29-chen-zhengfa }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央政法委书记, sys: party, from: 2022-10, cite: b16-zaobao-2022-10-29-chen-zhengfa }
+  life:
+    - h: 派出所民警
+      from: 1960
+      to: 1994
+      text: >-
+        1960 年 1 月生于四川仁寿。1980–1984 年在西南政法学院法律系读法律专业，1983 年入党。毕业后到乐山市彭山县公安局谢家镇派出所当民警，不久任金口河区公安分局副局长；
+        1986 年起任五通桥区公安分局副局长、局长，1990 年任乐山市公安局副局长，1992 年底升局长。他从基层派出所一路做到地级市公安局长，联合早报说他曾长期在四川省公安、国安系统工作。
+      cites: [b16-chinanews-2016-11-07-chen-mss, b16-zaobao-2022-10-29-chen-zhengfa]
+    - h: 国安厅与检察长
+      from: 1994
+      to: 2006
+      text: >-
+        1994 年 8 月调任四川省国家安全厅副厅长，1997 年起兼党组副书记、书记，1998 年 1 月升厅长，同年 9 月兼省政府副秘书长；其间在四川联合大学读企业管理研究生课程班。
+        2002 年 4 月任四川省人民检察院检察长，跻身副省级，联合早报称他是当时中国最年轻的省级检察长（副省级），时年 42 岁。他在检察长任上做了四年多，直到 2006 年 8 月调离四川。
+      cites: [b16-chinanews-2016-11-07-chen-mss, b16-zaobao-2022-10-29-chen-zhengfa]
+    - h: 福建七年
+      from: 2006
+      to: 2012
+      text: >-
+        2006 年 8 月首次离开四川，任福建省委常委、省纪委书记（中央社记为“福建省政法委書記”，与官方简历不同），2007 年当选中纪委委员。2011 年 5 月升福建省委副书记，9 月卸下纪委书记一职；
+        2012 年 1 月起兼任福建陆军预备役高射炮兵师第一政治委员。联合早报指出，习近平 1996–1999 年也曾任福建省委副书记兼高炮预备役师第一政委，两人经历有相似之处。
+      cites: [b16-chinanews-2016-11-07-chen-mss, b16-cna-2022-10-29-chen-zhengfa, c02-wiki-chen-wenqing, b16-zaobao-2022-10-30-chen-stability]
+    - h: 中纪委副书记
+      from: 2012
+      to: 2015
+      text: >-
+        2012 年 11 月十八大前后，他被增选为十七届中纪委常委、副书记，明确为正部长级，随后当选十八届中纪委常委、副书记，在时任中纪委书记王岐山领导下工作，福建高炮预备役师第一政委一职则兼到 2013 年 4 月；2014 年 4 月他兼任中国纪检监察学院院长。
+        官方简历记他的中纪委副书记任期到 2015 年 5 月，中央社和联合早报则记他 2015 年 4 月已出任国家安全部党委书记。
+      cites: [b16-chinanews-2016-11-07-chen-mss, b16-zaobao-2022-10-29-chen-zhengfa, c02-wiki-chen-wenqing, b16-cna-2022-10-29-chen-zhengfa, b16-zaobao-2022-10-30-chen-stability]
+    - h: 国家安全部
+      from: 2015
+      to: 2022
+      text: >-
+        2015 年 1 月国安部副部长马建落马，同年 4 月他出任国安部党委书记，联合早报说这项任命当时被认为与纠正国安系统存在的问题有关。
+        2016 年 11 月 7 日，十二届全国人大常委会免去耿惠昌的国家安全部部长职务，任命陈文清接任，同日还任命了新的民政部长和财政部长；同月他任中央政法委委员，2018 年 5 月起兼任中央国家安全委员会办公室分管日常工作的副主任。
+      cites: [b16-zaobao-2022-10-30-chen-stability, b16-chinanews-2016-11-07-chen-mss, b16-cna-2022-10-29-chen-zhengfa]
+    - h: 执掌“刀把子”
+      from: 2022-10
+      to: 2022-10
+      text: >-
+        2022 年 10 月二十届一中全会上当选政治局委员、书记处书记。联合早报称他是首名从国安部长位置进入中共最高决策机构的人；维基百科说他是罗干之后 15 年来首位不是公安部长出身的政法委书记，
+        路透社也说这是间谍头子第一次出任这一最高安全职位。10 月 24 日他主持国安部党委会议，称国家安全机关作为“刀把子”，最重要的是领悟“两个确立”的决定性意义；
+        10 月 28 日接替郭声琨任中央政法委书记，30 日国安部长一职由陈一新接任。
+      cites: [b16-zaobao-2022-10-30-chen-stability, c02-wiki-chen-wenqing, b16-reuters-2022-10-30-chen-yixin, b16-zaobao-2022-10-29-chen-zhengfa, c05-voa-2022-10-29-chen-yixin]
+    - h: 政法委书记
+      from: 2022-11
+      to: 2026
+      text: >-
+        11 月 28 日他首次主持中央政法委员会全体会议，会议要求强化底线思维和斗争精神，“坚决依法打击敌对势力渗透破坏活动”，切实维护社会大局稳定，王小洪、周强、张军出席。新加坡国立大学学者吴木銮对联合早报分析，这次任命主要是为了加强维稳和对国内局面的控制。
+        2026 年 1 月的中央政法工作会议上，他要求落实国家安全责任制、维护社会稳定责任制，加快构建中国自主的法学知识体系、推进政法工作数字化平台建设，“锻造忠诚干净担当的新时代政法铁军”，会议由王小洪主持并作总结讲话。
+      cites: [b16-xinhua-2022-11-29-chen-plenary, b16-zaobao-2022-10-30-chen-stability, c02-court-2026-01-19-zhengfa-meeting]
+  assess:
+    - voice: west
+      quote: true
+      text: Chen Wenqing's promotion marked the first time that a spy chief was tapped to fill the top security position, which had typically been held by a former minister of public security.
+      zh: 陈文清的晋升，是间谍头子第一次被选来担任这一最高安全职位；这个职位通常由前公安部长担任。
+      cite: b16-reuters-2022-10-30-chen-yixin
+    - voice: west
+      quote: true
+      text: Chen Wenqing, 62, minister of state security. Does not have long-term Xi ties
+      zh: 陈文清，62 岁，国家安全部部长。与习近平没有长期渊源。
+      cite: f02-reuters-2022-10-24-elites
+    - voice: scholar
+      quote: true
+      text: 吴木銮认为，此次“刀把子”掌控人的任命，主要还是为了加强维稳工作及对国内局面的控制。
+      cite: b16-zaobao-2022-10-30-chen-stability
+    - voice: zh
+      quote: true
+      text: 这是首次有关键的国安官员或间谍头子进入中共最高决策机构，控制权力极大的政法委，表明习近平对国安问题的重视。
+      cite: c05-voa-2022-10-29-chen-yixin
+    - voice: zh
+      quote: true
+      text: 受访学者解读，此次执掌政法系统显示中共领导人对陈文清的高度信任。
+      cite: b16-zaobao-2022-10-30-chen-stability
+  ids: { wikidata: Q8340313 }
+  cites: [wd-Q8340313, c02-gov-2022-10-23-20th-cvs, c02-wiki-chen-wenqing, c02-rmzxw-2018-03-19-state-council, c02-court-2026-01-19-zhengfa-meeting, b16-chinanews-2016-11-07-chen-mss, b16-zaobao-2022-10-30-chen-stability]
+
+- id: shi-taifeng
+  name: 石泰峰
+  pinyin: Shí Tàifēng
+  gender: m
+  ethnicity: 汉族
+  born: 1956-09
+  birthplace: 山西榆社
+  education:
+    - { school: 北京大学法律系法律专业, from: 1978, to: 1982 }
+    - { school: 北京大学法律系法理学专业, degree: 法学硕士, from: 1982, to: 1985 }
+  joinedParty: 1982-06
+  joinedWork: 1974-05
+  roles: [pb, sec, cc, prov]
+  status: active
+  statusNote: 中央政治局委员、书记处书记、中央组织部部长（2025 年 3 月起）、全国政协副主席，2026 年 9 月仍以组织部长身份公开活动。
+  tier: 1
+  headline: 中央组织部部长（2025– ）、政治局委员、书记处书记
+  bio: >-
+    山西榆社人，知青、技校生和机床厂工人出身，1978 年考进北大法律系，读完法理学硕士即进中央党校，在党校工作 25 年，2001–2010 年任副校长。
+    2010 年外放江苏，历任组织部长、省委副书记、苏州市委书记和省长，2017 年起先后主政宁夏、内蒙古，2020 年在内蒙古推行蒙古语授课学校改用国家统编教材，引发蒙古族抗议。
+    2022 年 4 月转任社科院院长，外界一度以为他将退居二线，二十大却进入政治局，任书记处排名第二的书记和中央统战部部长，2023 年兼全国政协副主席；2025 年 3 月与李干杰对调，改任中组部部长。
+  positions:
+    - { title: 中央党校副校长, sys: party, from: 2001-07, to: 2010-09, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 江苏省委常委、组织部部长, sys: party, place: 江苏, from: 2010-09, to: 2011-08, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 江苏省委副书记, sys: party, place: 江苏, from: 2011-08, to: 2017-04, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 苏州市委书记, sys: party, place: 江苏, from: 2014-06, to: 2015-12, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 江苏省代省长、省长, sys: gov, place: 江苏, from: 2015-12, to: 2017-04, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 宁夏回族自治区党委书记, sys: party, place: 宁夏, from: 2017-04, to: 2019-10, cite: wd-Q8292435 }
+    - { title: 内蒙古自治区党委书记, sys: party, place: 内蒙古, from: 2019-10, to: 2022-04, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
+    - { title: 中国社会科学院院长, sys: other, from: 2022-04, to: 2022-12, cite: c02-zaobao-2025-04-03-shi-li-swap }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
+    - { title: 中央统战部部长, sys: party, from: 2022-10, to: 2025-03, cite: b16-cna-2022-10-28-shi-ufwd }
+    - { title: 全国政协副主席, sys: other, from: 2023-03, cite: b05-gov-2023-03-10-wang-huning-cppcc }
+    - { title: 中央组织部部长, sys: party, from: 2025-03, cite: c02-xinhua-2026-09-18-shi-taifeng }
+  life:
+    - h: 知青、工人与北大
+      from: 1956
+      to: 1985
+      text: >-
+        1956 年 9 月生于山西榆社。1974 年 5 月到榆社县大寨公社插队当知青，1975–1977 年读山西机床厂技工学校，之后在该厂第五车间当了一年工人。
+        恢复高考后，1978 年 9 月考入北京大学法律系读法律专业，1982 年入党，毕业后接着读北大法律系法理学专业硕士研究生，1985 年毕业，获法学硕士学位。二十大公布的简历把他的硕士专业写作法学基础理论。
+      cites: [b16-cctv-2019-10-26-shi-taifeng-cv, c02-gov-2022-10-23-20th-cvs]
+    - h: 党校法学教师
+      from: 1985
+      to: 2001
+      text: >-
+        1985 年 7 月进中央党校法学教研室任教，1987–1988 年挂职河北宁晋县委副书记，1991–1992 年在荷兰阿姆斯特丹大学法学院进修。
+        此后历任科学社会主义教研部法学室副主任、主任，1995 年 11 月评为教授，1996 年起任政法教研部副主任，1999 年升主任，同年 11 月进中央党校校务委员会，2000 年兼党校组织部部长。从讲台到校委，他用了十四年。
+      cites: [b16-cctv-2019-10-26-shi-taifeng-cv]
+    - h: 党校副校长
+      from: 2001
+      to: 2010
+      text: >-
+        2001 年 7 月升中央党校副校长，2002 年起专任副校长，2010 年 9 月离开党校，同时还是第十一届全国人大常委、法律委员会委员。
+        联合早报说他在党校工作长达 25 年，先后在胡锦涛、曾庆红、习近平三任校长手下工作；自由亚洲电台写他在习近平兼任党校校长期间（该台记为 2007 至 2012 年）是其副手，但官方简历显示他 2010 年已调离党校。
+      cites: [b16-cctv-2019-10-26-shi-taifeng-cv, c02-zaobao-2025-04-03-shi-li-swap, b16-rfa-2022-10-26-shi-ufwd]
+    - h: 江苏
+      from: 2010
+      to: 2017
+      text: >-
+        2010 年 9 月调任江苏省委常委、组织部部长，2011 年 8 月升省委副书记，9 月兼省委党校校长；2014 年 6 月兼任苏州市委书记。
+        2015 年 12 月任江苏省代省长（维基百科记为 2015 年 11 月，并称他由此晋升正部级），2016 年 1 月当选省长，同月补选为十二届全国人大代表，省长做到 2017 年 4 月。
+        他在江苏前后近七年，先管干部、再管党校、后到苏州和省政府；十八大上当选中央候补委员，十九大升为中央委员。
+      cites: [b16-cctv-2019-10-26-shi-taifeng-cv, p01-wiki-shi-taifeng]
+    - h: 宁夏与内蒙古
+      from: 2017
+      to: 2020
+      text: >-
+        2017 年 4 月任宁夏回族自治区党委书记，6 月兼自治区人大常委会主任；2019 年 10 月调任内蒙古自治区党委书记，2020 年 1 月兼人大常委会主任。
+        2020 年 8 月，内蒙古教育厅规定从秋季开学起，民族语言授课学校的小学一年级开始使用国家统编语文教材，此后政治、历史课也逐步改用汉语授课。
+        纽约时报中文网报道，数千名蒙古族人聚集在学校外抗议，活动人士称这是内蒙古自 2011 年以来规模最大的一次示威，几名抗议者遭殴打并被带走；教育厅则称“现有的双语教育体系并没有改变”。
+      cites: [b16-cctv-2019-10-26-shi-taifeng-cv, e08-bbc-2020-08-31-inner-mongolia, b16-nytcn-2020-09-01-mongolian]
+    - h: 民主生活会
+      from: 2020-10
+      to: 2022
+      text: >-
+        2020 年 10 月 23 日，他主持自治区党委常委会加强和改进民族工作专题民主生活会，中央第八巡视组组长宁延令到会指导。他带头作检视剖析，总结时称这是对双语教学改革问题的“一次再深思再反思”，
+        要求“绝不能在方向性、原则性问题上出现偏差”，同时“要坚定不移推进双语教学改革”。台湾政大国关中心主任寇健文后来说，他获习近平重用的因素之一正是在内蒙古推行汉语。2022 年 4 月他转任中国社会科学院院长。
+      cites: [b16-people-2020-10-24-shi-review, b16-rfa-2022-10-26-shi-ufwd, c02-zaobao-2025-04-03-shi-li-swap]
+    - h: 统战部长
+      from: 2022-10
+      to: 2025-03
+      text: >-
+        联合早报说，他转任社科院时外界一度以为他将退居二线，二十大上他却进入政治局，在书记处排名仅次于蔡奇。10 月 27 日他出任中央统战部部长，中央社说这“出乎各界预料”：
+        此前历任统战部长中只有乌兰夫、孙春兰有政治局委员资格。中央社 2025 年又称他是首名与中组部长、中宣部长平起平坐的统战部长。2023 年 3 月他当选全国政协副主席，联合早报称是第一副主席。
+      cites: [c02-zaobao-2025-04-03-shi-li-swap, b16-zaobao-2022-10-28-shi-ufwd, b16-cna-2022-10-28-shi-ufwd, c02-cna-2025-04-02-shi-li-swap, b05-gov-2023-03-10-wang-huning-cppcc]
+    - h: 中组部长
+      from: 2025-03
+      to: 2026
+      text: >-
+        2025 年 3 月底，他与中组部部长李干杰罕见地对调职务，改任中央组织部部长，李干杰执掌统战部；中央社说这次对调原因不明，引起外界揣测。
+        此后他以政治局委员、中组部部长身份公开活动，2026 年 9 月 18 日出席学习贯彻习近平关于基层工作方法的重要论述座谈会并讲话，同月仍以全国政协副主席身份出席全国政协会议。
+      cites: [c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, c02-xinhua-2026-09-18-shi-taifeng, b05-xinhua-2026-09-24-wang-huning-cppcc]
+  assess:
+    - voice: official
+      quote: true
+      text: 这次专题民主生活会是对习近平总书记关于民族工作的重要论述和推广普及国家通用语言文字工作的重要指示精神的一次再对标再对表，是对我区双语教学改革问题的一次再深思再反思
+      cite: b16-people-2020-10-24-shi-review
+    - voice: scholar
+      quote: true
+      text: 石泰峰获得习近平重用的因素之一是在内蒙古自治区党委书记任内，在蒙古族小学里面推行汉语。
+      cite: b16-rfa-2022-10-26-shi-ufwd
+    - voice: zh
+      quote: true
+      text: 但出任中央統戰部長，則出乎各界預料。
+      zh: 但出任中央统战部长，则出乎各界预料。
+      cite: b16-cna-2022-10-28-shi-ufwd
+    - voice: zh
+      quote: true
+      text: 分析指出，中央统战部在中共党内地位明显提升，显示中共下来将加强统战工作。
+      cite: b16-zaobao-2022-10-28-shi-ufwd
+  ids: { wikidata: Q8292435 }
+  cites: [wd-Q8292435, c02-gov-2022-10-23-20th-cvs, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, b05-xinhua-2026-09-24-wang-huning-cppcc, c02-xinhua-2026-09-18-shi-taifeng, b16-cctv-2019-10-26-shi-taifeng-cv]
+
+- id: li-hongzhong
+  name: 李鸿忠
+  pinyin: Lǐ Hóngzhōng
+  gender: m
+  ethnicity: 汉族
+  born: 1956-08
+  birthplace: 辽宁沈阳
+  origin: 山东昌乐
+  education:
+    - { school: 吉林大学历史系历史学专业, from: 1978, to: 1982 }
+  joinedParty: 1976-12
+  joinedWork: 1975-08
+  roles: [pb, cc, prov]
+  status: active
+  statusNote: 中央政治局委员、全国人大常委会副委员长，2026 年 9 月仍以此身份主持人大执法检查会议。
+  tier: 1
+  headline: 全国人大常委会副委员长（2023– ）、政治局委员（2017– ）
+  bio: >-
+    生于沈阳、祖籍山东昌乐，知青出身，吉林大学历史系毕业后在沈阳市政府、辽宁省委办公厅和电子工业部当秘书，1988 年挂职广东惠州，此后在广东近二十年，历任惠州市长、市委书记、广东副省长、深圳市长和市委书记。
+    2007 年底调湖北任省长，2010 年两会期间抢走追问邓玉娇案的记者的录音笔，媒体人联名要求他道歉辞职。2010 年底任湖北省委书记，2016 年 1 月率先公开称习近平是党中央的领导核心，
+    同年 9 月接替落马的黄兴国主政天津，十九大进入政治局。二十大连任政治局委员但未入常，2023 年转任全国人大常委会副委员长。
+  positions:
+    - { title: 惠州市委书记, sys: party, place: 广东, from: 2000, to: 2001-02, cite: b16-xinhua-2016-09-13-li-tianjin }
+    - { title: 广东省副省长, sys: gov, place: 广东, from: 2001-02, to: 2003, cite: b16-xinhua-2016-09-13-li-tianjin }
+    - { title: 深圳市代市长、市长, sys: gov, place: 广东, from: 2003, to: 2005, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 深圳市委书记, sys: party, place: 广东, from: 2005-03, to: 2007-11, cite: wd-Q1822563 }
+    - { title: 湖北省省长, sys: gov, place: 湖北, from: 2007-12, to: 2010-12, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 湖北省委书记, sys: party, place: 湖北, from: 2010-12, to: 2016-09, cite: wd-Q1822563 }
+    - { title: 天津市委书记, sys: party, place: 天津, from: 2016-09, to: 2022-12, cite: b16-xinhua-2016-09-13-li-tianjin }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2023-03, cite: b06-gov-2023-03-10-state-leaders }
+  life:
+    - h: 知青与秘书
+      from: 1956
+      to: 1988
+      text: >-
+        1956 年 8 月生于辽宁沈阳，祖籍山东昌乐。1975–1978 年在沈阳市苏家屯区姚千公社前陡大队插队，当过民兵连长、治保主任、团总支书记和革委会副主任，1976 年入党。
+        1978–1982 年读吉林大学历史系，毕业后进沈阳市政府办公厅秘书处，1985 年任辽宁省委办公厅秘书，同年转任电子工业部办公厅秘书，1987 年任部党组办公室副主任（正处级）。官方简历只写“秘书”，没有写为谁服务。
+      cites: [c02-gov-2017-10-25-19th-cvs]
+    - h: 惠州与深圳
+      from: 1988
+      to: 2007
+      text: >-
+        1988 年挂职广东惠州副市长，1990–1991 年兼大亚湾工业区管委会党组书记，1991 年 10 月定为副局级，1993–1995 年兼仲恺国家高新技术产业开发区管委会主任。1995 年任惠州市委副书记、代市长、市长，其间 1996–1997 年读中央党校一年制中青班，2000 年任惠州市委书记。2001 年 2 月任广东副省长，2002 年进省委常委，
+        2003 年调深圳任代市长、市长，2005 年起任深圳市委书记，兼市人大常委会主任。他是十六届、十七届中央候补委员，2012 年十八大升为中央委员。从挂职惠州到离开深圳，他在广东待了约十九年。
+      cites: [c02-gov-2017-10-25-19th-cvs, b16-xinhua-2016-09-13-li-tianjin]
+    - h: 湖北省长与录音笔事件
+      from: 2007
+      to: 2010
+      text: >-
+        2007 年底调湖北任代省长，2008 年 1 月任省长。2010 年 3 月全国两会期间，《京华时报》女记者刘杰追问前一年的邓玉娇案，据中国媒体报道，李鸿忠“大怒，训斥该记者并抢走她的录音笔”。
+        数十名媒体人联名致信全国人大，要求他道歉并辞职、启动调查及弹劾程序，人民日报前副总编辑周瑞金等五名学者也联名敦促他公开道歉。他对媒体说这只是误会，“不涉及道歉”，
+        又说刘杰“应该更开朗一些，大大方方的”。BBC 中文网发现，一些主要网站已删除转载公开信的博客。
+      cites: [c02-gov-2017-10-25-19th-cvs, b16-bbc-2010-03-13-li-openletter, b16-voa-2010-03-14-li-no-apology]
+    - h: 湖北书记与“习核心”
+      from: 2010
+      to: 2016
+      text: >-
+        2010 年 12 月升任湖北省委书记，次年兼省人大常委会主任。2016 年 1 月 15 日他主持湖北省委常委会，会议提出“习近平总书记是党中央的领导核心”，要“自觉维护习近平总书记这个领导核心”。
+        自由亚洲电台称这是地方诸侯首度公开喊出“习核心”；历史学者章立凡说他是揣摩领导心态抢先这么说，若中央不认可，“就是马屁拍到马腿上”。同年 10 月，十八届六中全会正式确立习近平的核心地位。
+      cites: [b16-rfa-2016-01-30-li-core, b16-bbc-2016-01-31-xi-core, b16-zaobao-2017-02-20-li-core, c02-gov-2017-10-25-19th-cvs]
+    - h: 接手天津
+      from: 2016
+      to: 2017
+      text: >-
+        2016 年 9 月，代理天津市委书记黄兴国落马，中央决定李鸿忠调任天津市委书记，中组部常务副部长陈希到天津宣布。联合早报说，这被认为是拿到了十九大后新一届政治局的“入场券”。
+        10 月的天津市委工作会议上，他说党中央的领导核心就是习近平，要以“成仁之心”示忠，“忠诚不绝对，就是绝对不忠诚”。2017 年 2 月他又称维护习近平的核心地位“是当代中国最大的政治”，并几次称习近平为“领袖”。
+      cites: [b16-xinhua-2016-09-13-li-tianjin, p01-wiki-huang-xingguo, b16-zaobao-2016-10-21-li-loyalty, b16-zaobao-2017-02-20-li-core]
+    - h: 政治局委员
+      from: 2017
+      to: 2022
+      text: >-
+        2017 年 10 月十九届一中全会进入政治局。詹姆斯敦基金会当时把他列为政治局里的习派成员；路透社 2022 年的介绍说他与习近平没有已知的长期联系，但被视为“习家军”里的亲密盟友；
+        《中国季刊》2021 年的一篇论文则按通常分类把他算作江泽民派系的地方大员。二十大前，BBC 中文引述分析人士宋文笛说，2022 年是他和黄坤明入常的最后时机，结果两人都留在政治局委员一级。
+        2022 年 12 月他不再兼任天津市委书记，由陈敏尔接任。
+      cites: [f02-jamestown-2017-emperor, f02-reuters-2022-10-24-elites, b16-cq-2021-06-21-dominant-faction, b06-bbc-2022-10-23-psc, b11-xinhua-2022-12-08-chen-tianjin]
+    - h: 全国人大副委员长
+      from: 2023
+      to: 2026
+      text: >-
+        2022 年 10 月二十届一中全会上他连任政治局委员。2023 年 3 月十四届全国人大一次会议选他为全国人大常委会副委员长；这届副委员长共 14 人，王东明、肖捷、郑建邦等人在列，他排在名单首位。此后他以政治局委员、副委员长身份主管人大的执法检查等工作，
+        2026 年 9 月 24 日在北京主持全国人大常委会粮食安全保障法执法检查组第二次全体会议并讲话。卸任天津市委书记后，他不再兼任地方职务。
+      cites: [b08-wikisource-2022-10-23-20-1-plenum, b06-gov-2023-03-10-state-leaders, c02-people-2026-09-24-li-hongzhong]
+  assess:
+    - voice: west
+      quote: true
+      text: 'Li Hongzhong, 66, Tianjin party chief. No known long-term connection, but a close ally considered to be in "Xi''s army"'
+      zh: 李鸿忠，66 岁，天津市委书记。与习近平没有已知的长期联系，但被视为“习家军”中的亲密盟友。
+      cite: f02-reuters-2022-10-24-elites
+    - voice: scholar
+      quote: true
+      text: "We therefore include the following five leaders in Jiang's faction as they are usually classified as Jiang's clients: Zhang Dejiang 张德江, Yu Zhengsheng 俞正声, Li Changchun 李长春, Li Hongzhong 李鸿忠 and Xi Jinping"
+      zh: 因此我们把下列五位通常被归为江泽民门生的领导人算入江派：张德江、俞正声、李长春、李鸿忠和习近平。
+      cite: b16-cq-2021-06-21-dominant-faction
+    - voice: scholar
+      quote: true
+      text: 历史学者章立凡数日前就此接受媒体采访时称，李鸿忠应该就是想“往上贴”
+      cite: b16-rfa-2016-01-30-li-core
+    - voice: zh
+      quote: true
+      text: 李鸿忠几次将习近平称作“领袖”，或许暗示习近平十九大前后有可能从“核心”上升为“领袖”。
+      cite: b16-zaobao-2017-02-20-li-core
+    - voice: zh
+      quote: true
+      text: 李氏表现，辜负民众信托，有损人大威仪，于国，于党，于民，流弊昭然
+      cite: b16-bbc-2010-03-13-li-openletter
+  factions:
+    - f: jiang-shanghai
+      cite: b16-cq-2021-06-21-dominant-faction
+      quote: "We therefore include the following five leaders in Jiang's faction as they are usually classified as Jiang's clients: Zhang Dejiang 张德江, Yu Zhengsheng 俞正声, Li Changchun 李长春, Li Hongzhong 李鸿忠 and Xi Jinping"
+      zh: 因此我们把下列五位通常被归为江泽民门生的领导人算入江派：张德江、俞正声、李长春、李鸿忠和习近平。
+      rank: periphery
+  ids: { wikidata: Q1822563 }
+  cites: [wd-Q1822563, c02-gov-2017-10-25-19th-cvs, b06-gov-2023-03-10-state-leaders, c02-people-2026-09-24-li-hongzhong, b16-xinhua-2016-09-13-li-tianjin, b16-rfa-2016-01-30-li-core]

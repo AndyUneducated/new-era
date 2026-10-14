@@ -1,0 +1,313 @@
+# B16: full biographies of 尹力、刘国中、陈文清、石泰峰、李鸿忠 (round 5)
+web:
+  # ---------- 尹力 ----------
+  - id: b16-cctv-2020-12-01-yin-li-cv
+    title: 人物简历：尹力
+    publisher: 央视网（人民网资料）
+    date: 2020-12-01
+    voice: official
+    url: https://news.cctv.com/2020/12/01/ARTIygVdp9Gg5efr48Og312I201201.shtml
+    start: 尹力，男，汉族，1962年8月生
+    end: 四川省十二届、十三届人大代表
+  - id: b16-xinhua-2012-08-03-yin-li-capsule
+    title: 尹力解读《加强药用辅料监督管理的有关规定》
+    publisher: 新华社（杭州网转载）
+    date: 2012-08-03
+    voice: official
+    url: https://news.hangzhou.com.cn/jjxw/content/2012-08/03/content_4320335.htm
+    start: 铬超标胶囊事件一度
+    end: 都会起到警钟长鸣的启示作用。
+  - id: b16-zaobao-2022-11-14-yin-li-beijing
+    title: 尹力出任北京市委书记 周祖翼接任福建省委书记
+    publisher: 联合早报
+    date: 2022-11-14
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221114-1332825
+    excerpt: true
+    keep: [ 公共卫生领域的学者型官员 ]
+  - id: b16-zaobao-2022-11-13-yin-li-beijing
+    title: 尹力接替蔡奇 出任北京市委书记
+    publisher: 联合早报
+    date: 2022-11-13
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221113-1332740
+    excerpt: true
+    keep: [ 早年在俄罗斯医学科学院获博士学位, 国家卫计委副主任, 担任四川省长近四年后 ]
+  - id: b16-scmp-2022-11-13-yin-li-beijing
+    title: China’s Communist Party names health expert Yin Li to top Beijing job
+    publisher: South China Morning Post（Wayback 存档）
+    author: Mimi Lau
+    date: 2022-11-13
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2022id_/https://www.scmp.com/news/china/politics/article/3199466/chinas-communist-party-names-health-expert-yin-li-top-beijing-job
+    excerpt: true
+    keep: [ reflects a shift towards technocrats, a power base for President Xi Jinping ]
+  - id: b16-bjrb-2022-11-16-yin-li-covid
+    title: 尹力：尽快遏制疫情上升势头 坚决打赢疫情歼灭战
+    publisher: 北京日报（人民网北京频道转载）
+    date: 2022-11-16
+    voice: official
+    url: http://bj.people.com.cn/n2/2022/1116/c82837-40196332.html
+    start: 本报讯（记者 祁梦竹 范俊生）
+    end: 市政府秘书长戴彬彬分别参加。
+  - id: b16-beijing-2022-12-15-yin-li-covid
+    title: 尹力主持市委常委会会议 研究当前疫情防控工作等事项
+    publisher: 北京日报（首都之窗转载）
+    date: 2022-12-15
+    voice: official
+    url: https://www.beijing.gov.cn/ywdt/hyxx/sw/202212/t20221215_2879454.html
+    start: 12月14日下午，市委常委会召开会议
+    end: 会议还研究了其他事项。
+  - id: b16-beijing-2023-08-06-yin-li-flood
+    title: 北京市召开全市领导干部会议 尹力强调一鼓作气打赢防汛救灾和恢复重建攻坚战
+    publisher: 北京日报（首都之窗转载）
+    date: 2023-08-06
+    voice: official
+    url: https://www.beijing.gov.cn/gongkai/ldhd/202308/t20230806_3216761.html
+    start: 8月6日上午，本市召开全市领导干部会议
+    end: 分别在主会场、分会场参会。
+  - id: b16-zaobao-2023-08-01-beijing-flood
+    title: 京冀连日强降雨 至少20人死亡近60万人受灾
+    publisher: 联合早报
+    date: 2023-08-01
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230801-1419686
+    excerpt: true
+    keep: [ 已造成至少20人死亡, 北京遇难11人中 ]
+  # ---------- 刘国中 ----------
+  - id: b16-cctv-2020-07-31-liu-guozhong-cv
+    title: 人物简历：刘国中
+    publisher: 央视网（人民网资料）
+    date: 2020-07-31
+    voice: official
+    url: http://news.cctv.com/2020/07/31/ARTInE9vqt9NJ7DHUdKvbfZA200731.shtml
+    start: 刘国中，男，汉族
+    end: 省十三届人大代表。
+  - id: b16-cri-2021-12-24-liu-xian
+    title: 刘国中在调度西安市疫情防控工作时强调 认清当前严峻形势抓住宝贵窗口时间
+    publisher: 陕西日报（国际在线转载）
+    date: 2021-12-24
+    voice: official
+    url: https://sn.cri.cn/2021-12-24/661c980d-a46f-be45-acf7-996ef62ff74a.html
+    start: 陕西省委、省政府23日在西安市疫情防控指挥部召开会议
+    end: 确保师生安全和考试安全。
+  - id: b16-zaobao-2022-01-04-xian-villages
+    title: 传封闭管理措施混乱惹民怨 西安或进一步收紧防疫措施
+    publisher: 联合早报
+    date: 2022-01-04
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20220104-1229355
+    excerpt: true
+    keep: [ 尽快扭转被动局面, 雁塔区委书记王斌, 最后一百米 ]
+  - id: b16-zaobao-2022-01-04-liu-zero
+    title: 陕西省委书记：攻坚拔寨推进社会面清零
+    publisher: 联合早报
+    date: 2022-01-04
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20220104-1229591
+    excerpt: true
+    keep: [ 奋力推进社会面清零, 只许成功, 宁可范围大一些, 身子往前扑, 自欺欺人 ]
+  - id: b16-gov-2023-03-12-vice-premiers
+    title: 快讯：大会经投票表决，决定丁薛祥、何立峰、张国清、刘国中为国务院副总理
+    publisher: 新华社（中国政府网）
+    date: 2023-03-12
+    voice: official
+    url: https://www.gov.cn/xinwen/2023-03/12/content_5746284.htm
+    start: 新华社快讯
+    end: 为国务院副总理。
+  - id: b16-gov-2024-07-04-liu-heilongjiang
+    title: 刘国中在黑龙江调研时强调：毫不放松抓好秋粮生产 奋力夺取全年粮食丰收
+    publisher: 新华社（中国政府网）
+    date: 2024-07-04
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202407/content_6961276.htm
+    start: 新华社哈尔滨7月4日电
+    end: 牢牢掌握抗灾夺丰收主动权。
+  - id: b16-gov-2025-11-05-liu-health
+    title: 刘国中在内蒙古、辽宁调研时强调：扎实抓好“三农”和卫生健康重点工作
+    publisher: 新华社（中国政府网）
+    date: 2025-11-05
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202511/content_7047196.htm
+    start: 新华社沈阳11月5日电
+    end: 保障医保基金平稳运行。
+  # ---------- 陈文清 ----------
+  - id: b16-chinanews-2016-11-07-chen-mss
+    title: 全国人大常委会任免国家安全部、民政部、财政部部长
+    publisher: 中国新闻网（新华社）
+    date: 2016-11-07
+    voice: official
+    url: https://www.chinanews.com.cn/m/gn/2016/11-07/8055106.shtml
+    start: 十二届全国人大常委会7日
+    end: 十八届中央纪委委员、常委、副书记。
+  - id: b16-zaobao-2022-10-29-chen-zhengfa
+    title: 中国国安部长陈文清任中共中央政法委书记
+    publisher: 联合早报
+    date: 2022-10-29
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221029-1327611
+    excerpt: true
+    keep: [ 最年轻的省级检察长, 王岐山领导下工作 ]
+  - id: b16-zaobao-2022-10-30-chen-stability
+    title: 国安部长陈文清出任政法委书记 学者：新届中共高层更重视维稳
+    publisher: 联合早报
+    date: 2022-10-30
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221030-1327820
+    excerpt: true
+    keep: [ 高度信任, 成为首名从国安部部长位置上进入中共最高决策机构, 最重要的是深刻领悟, 对内是维稳, 掌控人的任命，主要还是, 马建在2015年1月落马后, 习近平在1996年至1999年也曾担任 ]
+  - id: b16-cna-2022-10-29-chen-zhengfa
+    title: 陳文清接任中共中央政法委書記
+    publisher: 中央社
+    date: 2022-10-29
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210290052.aspx
+    excerpt: true
+    keep: [ 國家安全委員會辦公室, 符合外界預期 ]
+  - id: b16-xinhua-2022-11-29-chen-plenary
+    title: 陈文清主持召开中央政法委员会全体会议强调 以有力举措贯彻落实党的二十大精神 坚决维护国家安全和社会稳定
+    publisher: 新华社
+    date: 2022-11-29
+    voice: official
+    url: http://www.xinhuanet.com/2022-11/29/c_1129171537.htm
+    start: 新华社北京11月29日电
+    end: 王小洪、周强、张军出席会议。
+  - id: b16-reuters-2022-10-30-chen-yixin
+    title: China names Chen Yixin as state security minister
+    publisher: Reuters（Wayback 存档）
+    date: 2022-10-30
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2022id_/https://www.reuters.com/world/china/china-names-chen-yixin-state-security-minister-parliament-2022-10-30/
+    excerpt: true
+    keep: [ spy chief ]
+  # ---------- 石泰峰 ----------
+  - id: b16-cctv-2019-10-26-shi-taifeng-cv
+    title: 人物简历：石泰峰
+    publisher: 央视网（人民网资料）
+    date: 2019-10-26
+    voice: official
+    url: https://news.cctv.com/2019/10/26/ARTIciOzXMIuHi5IsXa1KjzQ191026.shtml
+    start: 石泰峰，男，汉族
+    end: 法律委员会委员。
+  - id: b16-nytcn-2020-09-01-mongolian
+    title: 中国在内蒙古推汉语教学引发抗议
+    publisher: 纽约时报中文网
+    author: Amy Qin
+    date: 2020-09-01
+    voice: zh
+    url: https://cn.nytimes.com/china/20200901/china-protest-mongolian-language-schools/
+    excerpt: true
+    keep: [ 数千名蒙古族人, 三门课程的教学语言, 现有的双语教育体系并没有改变, 自2011年以来规模最大, 几名抗议者遭到当局殴打 ]
+  - id: b16-people-2020-10-24-shi-review
+    title: 内蒙古自治区党委常委会召开加强和改进民族工作专题民主生活会 石泰峰主持
+    publisher: 内蒙古日报（人民网转载）
+    date: 2020-10-24
+    voice: official
+    url: http://cpc.people.com.cn/n1/2020/1024/c117005-31904502.html
+  - id: b16-imut-2020-10-24-shi-review
+    title: 自治区党委常委会召开加强和改进民族工作专题民主生活会 石泰峰主持
+    publisher: 内蒙古日报（内蒙古工业大学纪委网站转载）
+    date: 2020-10-24
+    voice: official
+    url: http://jiwei.imut.edu.cn/info/1009/1423.htm
+  - id: b16-zaobao-2020-10-25-shi-selfcriticism
+    title: 内蒙古党委自我批评：双语教学改革出现问题
+    publisher: 联合早报
+    date: 2020-10-25
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20201025-1095651
+    excerpt: true
+    keep: [ 绝不能把政治性很强的工作 ]
+  - id: b16-rfa-2022-10-26-shi-ufwd
+    title: 传石泰峰将任中央统战部长 曾在内蒙强推汉语
+    publisher: 自由亚洲电台
+    date: 2022-10-26
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/1-10262022104027.html
+    excerpt: true
+    keep: [ 寇健文, 习近平兼任中央党校校长期间 ]
+  - id: b16-cna-2022-10-28-shi-ufwd
+    title: 政治局委員石泰峰接任中共中央統戰部長
+    publisher: 中央社
+    date: 2022-10-28
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210280031.aspx
+    excerpt: true
+    keep: [ 烏蘭夫, 出乎各界預料, 統一戰線的首要政治任務 ]
+  - id: b16-zaobao-2022-10-28-shi-ufwd
+    title: 石泰峰出任中共中央统战部部长 分析：下来将加强统战工作
+    publisher: 联合早报
+    date: 2022-10-28
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221028-1327171
+    excerpt: true
+    keep: [ 地位明显提升, 排名仅次于 ]
+  # ---------- 李鸿忠 ----------
+  - id: b16-bbc-2010-03-13-li-openletter
+    title: 中国新闻界上书“弹劾”李鸿忠
+    publisher: BBC 中文
+    date: 2010-03-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/03/100313_lihongzhong_openletter
+    excerpt: true
+    keep: [ 要求湖北省长李鸿忠向新闻界及公众道歉并辞职, 录音笔事件是误会, 李鸿忠“大怒, 辜负民众信托, 已经删除了转载这一公开信的博客 ]
+  - id: b16-voa-2010-03-14-li-no-apology
+    title: 抢笔事件：省长拒道歉 批评续升温
+    publisher: 美国之音
+    date: 2010-03-14
+    voice: zh
+    url: https://www.voachinese.com/a/article-20100314-li-hongzhong-87615737/463870.html
+    excerpt: true
+    keep: [ 不涉及道歉, 应该更开朗一些, 周瑞金等五名学者, 素质低下 ]
+  - id: b16-rfa-2016-01-30-li-core
+    title: 湖北省委书记喊习核心 第四代“核心”呼之欲出
+    publisher: 自由亚洲电台
+    date: 2016-01-30
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-01302016113115.html
+    excerpt: true
+    keep: [ 据中共湖北省机关报《湖北日报》1月17日报道, 马屁拍到马腿上 ]
+  - id: b16-bbc-2016-01-31-xi-core
+    title: 观点：2016——中共“习核心”元年？
+    publisher: BBC 中文
+    date: 2016-01-31
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/indepth/2016/01/160131_viewpoint_xi_jinping_core
+    excerpt: true
+    keep: [ 列举了一系列的 ]
+  - id: b16-xinhua-2016-09-13-li-tianjin
+    title: 天津市委主要负责同志职务调整 李鸿忠任天津市委书记
+    publisher: 新华网
+    date: 2016-09-13
+    voice: official
+    url: http://www.xinhuanet.com/politics/2016-09/13/c_1119558526.htm
+    start: 新华网天津9月13日电
+    end: 十八届中央委员。
+  - id: b16-cq-2021-06-21-dominant-faction
+    title: From Power Balance to Dominant Faction in Xi Jinping's China
+    publisher: The China Quarterly
+    author: Eun Kyong Choi, John Wagner Givens, Andrew MacDonald
+    date: 2021-06-21
+    voice: scholar
+    lang: en
+    url: https://www.cambridge.org/core/journals/china-quarterly/article/from-power-balance-to-dominant-faction-in-xi-jinpings-china/C311C96EB52F5186599E67112E5CB821
+    excerpt: true
+    keep: [ as they are usually classified as Jiang's clients ]
+  - id: b16-zaobao-2016-10-21-li-loyalty
+    title: 李鸿忠：以“成仁之心”示忠
+    publisher: 联合早报
+    date: 2016-10-21
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20161021-680587
+    excerpt: true
+    keep: [ 必须要有领导核心, 成仁之心 ]
+  - id: b16-zaobao-2017-02-20-li-core
+    title: 李鸿忠：维护习近平核心地位是当代中国最大政治
+    publisher: 联合早报
+    date: 2017-02-20
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20170220-727091
+    excerpt: true
+    keep: [ 纵贯古今、指引方向、气贯长虹, 率先表态, 当代中国最大的政治、最重要的政治纪律, 几次将习近平称作 ]

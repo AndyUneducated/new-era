@@ -299,30 +299,6 @@
   ids: { wikidata: Q3427716 }
   cites: [wd-Q3427716, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2018-03-17-npc-leaders]
 
-- id: li-hongzhong
-  name: 李鸿忠
-  gender: m
-  ethnicity: 汉族
-  born: 1956-08
-  birthplace: 辽宁沈阳
-  origin: 山东昌乐
-  roles: [pb, cc, prov]
-  status: active
-  statusNote: 中央政治局委员、全国人大常委会副委员长，2026 年 9 月仍以此身份主持人大执法检查会议。
-  tier: 2
-  headline: 全国人大常委会副委员长（2023– ）、政治局委员（2017– ）
-  bio: >-
-    吉林大学历史系毕业，早年在辽宁工作，1988 年南下广东，2005 年任深圳市委书记，随后在湖北任省长、省委书记。
-    2016–2022 年主政天津，十九大进入政治局，二十大连任，2023 年转任全国人大常委会副委员长。
-  positions:
-    - { title: 深圳市委书记, sys: party, place: 广东, from: 2005-03, to: 2007-11, cite: wd-Q1822563 }
-    - { title: 湖北省省长, sys: gov, place: 湖北, from: 2007-12, to: 2010-12, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 湖北省委书记, sys: party, place: 湖北, from: 2010-12, to: 2016-09, cite: wd-Q1822563 }
-    - { title: 天津市委书记, sys: party, place: 天津, from: 2016-09, to: 2022-12, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 全国人大常委会副委员长, sys: other, from: 2023-03, cite: b06-gov-2023-03-10-state-leaders }
-  ids: { wikidata: Q1822563 }
-  cites: [wd-Q1822563, c02-gov-2017-10-25-19th-cvs, b06-gov-2023-03-10-state-leaders, c02-people-2026-09-24-li-hongzhong]
 
 - id: yang-xiaodu
   name: 杨晓渡
@@ -420,117 +396,12 @@
   ids: { wikidata: Q8316069 }
   cites: [wd-Q8316069, c02-wiki-li-zuocheng, c02-xinhua-2017-10-25-19-1-plenum]
 
-- id: yin-li
-  name: 尹力
-  gender: m
-  ethnicity: 汉族
-  born: 1962-08
-  birthplace: 山东临邑
-  joinedParty: 1983-06
-  joinedWork: 1987-09
-  roles: [pb, cc, prov, minister]
-  status: active
-  statusNote: 中央政治局委员、北京市委书记，2026 年 9 月仍以此身份出席北京文化论坛。
-  tier: 2
-  headline: 北京市委书记（2022– ）、政治局委员
-  bio: >-
-    俄罗斯医学科学院医学博士，卫生系统出身，曾任卫生部副部长，2012 年任国家食品药品监督管理局局长。
-    2015 年调四川任省委副书记，2016 年起任四川省长；2020 年底主政福建，二十大进入政治局并接替蔡奇任北京市委书记。
-  positions:
-    - { title: 国家食品药品监督管理局局长, sys: gov, from: 2012-02, to: 2013-04, cite: c02-wiki-yin-li }
-    - { title: 四川省委专职副书记, sys: party, place: 四川, from: 2015-03, to: 2016-01, cite: c02-wiki-yin-li }
-    - { title: 四川省省长, sys: gov, place: 四川, from: 2016-01, to: 2020-11, cite: c02-wiki-yin-li }
-    - { title: 福建省委书记, sys: party, place: 福建, from: 2020-11, to: 2022-11, cite: c02-wiki-yin-li }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 北京市委书记, sys: party, place: 北京, from: 2022-11, cite: c02-cyol-2026-09-23-beijing-forum }
-  ids: { wikidata: Q19825407 }
-  cites: [wd-Q19825407, c02-gov-2022-10-23-20th-cvs, c02-wiki-yin-li, c02-cyol-2026-09-23-beijing-forum]
-
-- id: shi-taifeng
-  name: 石泰峰
-  gender: m
-  ethnicity: 汉族
-  born: 1956-09
-  birthplace: 山西榆社
-  joinedParty: 1982-06
-  joinedWork: 1974-05
-  roles: [pb, sec, cc, prov]
-  status: active
-  statusNote: 中央政治局委员、书记处书记、中央组织部部长（2025 年 3 月起）、全国政协副主席，2026 年 9 月仍以组织部长身份公开活动。
-  tier: 2
-  headline: 中央组织部部长（2025– ）、政治局委员、书记处书记
-  bio: >-
-    北大法学硕士，在中央党校工作 25 年，2001–2010 年任副校长。2010 年调江苏，历任组织部长、苏州市委书记、省长，2017 年起先后主政宁夏、内蒙古。
-    2022 年任社科院院长，二十大进入政治局和书记处并任统战部长；2025 年 3 月与李干杰对调，改任中组部部长。
-  positions:
-    - { title: 中央党校副校长, sys: party, from: 2001, to: 2010, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 江苏省省长, sys: gov, place: 江苏, from: 2016, to: 2017-04, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 宁夏回族自治区党委书记, sys: party, place: 宁夏, from: 2017-04, to: 2019-10, cite: wd-Q8292435 }
-    - { title: 内蒙古自治区党委书记, sys: party, place: 内蒙古, from: 2019-10, to: 2022-04, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 中国社会科学院院长, sys: other, from: 2022-04, to: 2022-12, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 中央统战部部长, sys: party, from: 2022-10, to: 2025-03, cite: c02-zaobao-2025-04-03-shi-li-swap }
-    - { title: 中央组织部部长, sys: party, from: 2025-03, cite: c02-xinhua-2026-09-18-shi-taifeng }
-  ids: { wikidata: Q8292435 }
-  cites: [wd-Q8292435, c02-gov-2022-10-23-20th-cvs, c02-zaobao-2025-04-03-shi-li-swap, c02-cna-2025-04-02-shi-li-swap, b05-xinhua-2026-09-24-wang-huning-cppcc, c02-xinhua-2026-09-18-shi-taifeng]
-
-- id: liu-guozhong
-  name: 刘国中
-  gender: m
-  ethnicity: 汉族
-  born: 1962-07
-  birthplace: 黑龙江望奎
-  joinedParty: 1986-11
-  joinedWork: 1982-08
-  roles: [pb, cc, prov, minister]
-  status: active
-  statusNote: 中央政治局委员、国务院副总理，2026 年 9 月仍以此身份到湖北调研。
-  tier: 2
-  headline: 国务院副总理（2023– ）、政治局委员
-  bio: >-
-    哈工大金属材料专业出身，早年在军工企业工作，长期在黑龙江省政府系统任职，2004 年任鹤岗市委书记，后任黑龙江常务副省长。
-    2016 年起历任吉林省长、陕西省长，2020 年任陕西省委书记；二十大进入政治局，2023 年任国务院副总理，分管卫生健康与三农。
-  positions:
-    - { title: 鹤岗市委书记, sys: party, place: 黑龙江, from: 2004, to: 2007-04, cite: c02-wiki-liu-guozhong }
-    - { title: 吉林省省长, sys: gov, place: 吉林, from: 2016-12, to: 2017-12, cite: wd-Q8989779 }
-    - { title: 陕西省省长, sys: gov, place: 陕西, from: 2018-01, to: 2020-08, cite: wd-Q8989779 }
-    - { title: 陕西省委书记, sys: party, place: 陕西, from: 2020-07, to: 2022-12, cite: c02-wiki-liu-guozhong }
-    - { title: 中央政治局委员, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 国务院副总理, sys: gov, from: 2023-03, cite: c01-gov-2018-03-19-state-council-history }
-  factions:
-    - f: aerospace
-      cite: f02-rfa-2023-02-13-jungong
-      quote: 中国境外的新闻媒体中陆续出现了“军工五人帮”的说法……具体指的是中共二十大上产生的新一届中共中央政治局中的刘国中、张国清、袁家军、马兴瑞、李干杰五人。
-  ids: { wikidata: Q8989779 }
-  cites: [wd-Q8989779, c02-gov-2022-10-23-20th-cvs, c02-wiki-liu-guozhong, c02-gov-2026-09-23-liu-guozhong]
 
 
 
 
-- id: chen-wenqing
-  name: 陈文清
-  gender: m
-  ethnicity: 汉族
-  born: 1960-01
-  birthplace: 四川仁寿
-  joinedParty: 1983-03
-  joinedWork: 1984-07
-  roles: [pb, sec, ccdi, cc, minister]
-  status: active
-  statusNote: 中央政治局委员、书记处书记、中央政法委书记，2026 年 1 月主持中央政法工作会议。
-  tier: 2
-  headline: 中央政法委书记（2022– ）、政治局委员、前国家安全部部长
-  bio: >-
-    西南政法毕业，早年在四川公安和国家安全系统工作，2006 年任福建省纪委书记，2012 年任中纪委副书记。
-    2015 年回国安部，2016 年任部长；二十大成为首位进入政治局的国安部长，随后接替郭声琨任中央政法委书记。
-  positions:
-    - { title: 福建省委常委、省纪委书记, sys: party, place: 福建, from: 2006-08, to: 2012-11, cite: c02-wiki-chen-wenqing }
-    - { title: 中纪委副书记, sys: party, from: 2012-11, to: 2015-04, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 国家安全部部长, sys: gov, from: 2016-11, to: 2022-10, cite: c02-wiki-chen-wenqing }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2022-10, cite: b08-wikisource-2022-10-23-20-1-plenum }
-    - { title: 中央政法委书记, sys: party, from: 2022-10, cite: c02-court-2026-01-19-zhengfa-meeting }
-  ids: { wikidata: Q8340313 }
-  cites: [wd-Q8340313, c02-gov-2022-10-23-20th-cvs, c02-wiki-chen-wenqing, c02-rmzxw-2018-03-19-state-council, c02-court-2026-01-19-zhengfa-meeting]
+
+
 
 
 
