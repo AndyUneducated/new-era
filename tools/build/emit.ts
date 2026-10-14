@@ -67,6 +67,7 @@ export function compile(d: Data) {
     line: [...d.line].sort((a, b) => a.at.localeCompare(b.at)),
     press: d.press,
     story: d.story,
+    chiefs: d.chiefs.map((c) => (c.person && !known.has(c.person) ? { ...c, person: undefined } : c)).sort((a, b) => a.prov.localeCompare(b.prov) || a.post.localeCompare(b.post) || a.from.localeCompare(b.from)),
     sources,
   }
 }

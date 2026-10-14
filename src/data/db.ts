@@ -1,5 +1,5 @@
 // The shape of public/data/db.json (tools/build/emit.ts) and the lookups every view shares.
-import type { Chapter, Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Ism, LinePoint, Person, PressTerm, Quote, Relation, Source } from './schema'
+import type { Chapter, Chief, Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Ism, LinePoint, Person, PressTerm, Quote, Relation, Source } from './schema'
 
 export type PersonR = Person & { quotes: Quote[] }
 // counts: concept id → occurrences; isms and press the same for isms and press terms
@@ -19,6 +19,7 @@ export interface DB {
   line: LinePoint[]
   press: PressTerm[]
   story: Chapter[]
+  chiefs: Chief[]
   sources: SourceR[]
 }
 
@@ -49,6 +50,7 @@ export class Atlas {
     db.line ??= []
     db.press ??= []
     db.story ??= []
+    db.chiefs ??= []
     for (const m of db.isms) this.ism.set(m.id, m)
     for (const p of db.people) this.person.set(p.id, p)
     for (const r of db.relations ?? []) {

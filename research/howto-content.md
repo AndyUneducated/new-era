@@ -1,6 +1,6 @@
 # 内容批次操作手册
 
-每个内容批次（B01…、C01…、E01…、F01、I01、K01）按本手册独立工作。多个批次**同时**在同一仓库里工作，所以第 1 节的规则必须遵守。
+每个内容批次（B01…、C01…、E01…、F01、I01、K01、P01、T01…）按本手册独立工作。多个批次**同时**在同一仓库里工作，所以第 1 节的规则必须遵守。
 
 先读：`research/decisions.md`（用户的 21 项选择）、`research/methods.md`（来源与声部）、示范文件 `content/people/00-exemplar.yaml`、`content/quotes/00-exemplar.yaml`、`research/manifests/00-exemplar.yaml`、`src/data/schema.ts`（字段的权威定义）。
 
@@ -13,6 +13,7 @@
   - `content/tags/<批次>.yaml`：派系标签（人物 id → 列表），用于给**别的批次的人物**加标签；自己批次的人物直接写在人物条目的 `factions:` 里
   - `content/events/<批次>.yaml`、`content/concepts/<批次>.yaml`、`content/factions/<批次>.yaml`、`content/congresses/<批次>.yaml`、`content/corpus/<批次>.yaml`
   - 第三轮起：`content/relations/<批次>.yaml`（人物关系，§6）、`content/faction-voices/<批次>.yaml`（给已有派系补“各方说法”：派系 id → voices 列表，字段同派系条目的 `voices`）、`content/assess/<批次>.yaml`（给已有人物补评价、内幕、传闻：人物 id → 列表，字段同人物条目的 `assess`）、`research/roster/<批次>.yaml`（本批次新建的人物）
+  - 第四轮起：`content/chiefs/<批次>.yaml`（省级主官，§8）；一次性脚本放 `research/scripts/<批次>-*.ts`
 - **不要改**别的批次的文件、`src/`、`tools/`、`research/roster.yaml`、`*-plan.yaml`。需要新的人物、派系、概念 id 时，在最终回报里提出。
 - **抓取时总是写明 id**：`node tools/fetch-web.ts --report=<批次> id1 id2 ...`。不带 id 会把所有批次的待抓来源一起抓。
 - **校验只校验自己：** `node tools/build-data.ts --batch=<批次>`。完整报告写在 `.probe/build-report-<批次>.txt`（UTF-8；控制台中文会乱码，读这个文件）。必须做到 **0 error**。warning 中“planned but has no entry yet”是正常的（别的批次还没写完）。
@@ -158,6 +159,21 @@
 - `hits` 来自可检索的人民日报全文库，`cite` 指向一个记录检索方法与结果的来源（检索页、数据库说明或你保存的结果页）。数不全的年份不写，不要估。
 - 社论样本：人民日报社论、评论员文章、“任仲平”等署名重头文章全文入库，并在 `content/corpus/<批次>.yaml` 登记为 `kind: editorial`，构建时自动按年统计每个报刊词的每万字频率。
 
-## 8. 完成时回报
+## 8. 省级主官（诸侯图，P01 起）
+
+`content/chiefs/<批次>.yaml`，一个列表，每条是一任省级党委书记或行政首长（省长、自治区主席、直辖市市长）。字段见 `ChiefSchema`：
+
+```yaml
+- { prov: 浙江, post: sec, name: 习近平, person: xi-jinping, from: 2002-11, to: 2007-03, cite: p01-wiki-zhejiang-secretaries }
+- { prov: 浙江, post: gov, name: 习近平, person: xi-jinping, from: 2002-10, to: 2003-01, acting: true, note: 代省长, cite: ... }
+```
+
+- `prov` 用短名（`REGIONS` 里的 31 个：北京、内蒙古、广西、西藏、宁夏、新疆……），`post` 为 `sec`（党委书记）或 `gov`（省长 / 自治区主席 / 直辖市市长）。
+- 从 **2000 年 1 月 1 日在任的那一任**写起，直到今天（2026-10）在任的一任（`to` 省略）。代理期（代省长、代主席）单独一条，`acting: true`；转正后另起一条。
+- `from`/`to` 写到月（任免消息或名录上的月份）。同一职务前后两任不得重叠超过 2 个月（构建报错），空档超过 3 个月会有 warning——核对是否漏了代理期。
+- `name` 照录姓名；本站已有条目的写 `person`（Grep `content/people/`，`name` 必须与条目一致），没有的只写 `name`，**不要为此新建人物条目**。
+- 来源：维基百科“中国共产党某某省委员会书记”“某某省省长”列表页（`voice: wiki`，`excerpt: true`，`keep` 写 2000 年后各任的那几行）可作主来源；最近两任（2020 年后）再加一条新华社任免消息（`voice: official`）。名录与任免消息冲突的，以任免消息为准，`note` 写明。
+
+## 9. 完成时回报
 
 最终回复写：完成的条目数（传记、档案卡、名言、事件……）；`--batch` 校验结果（0 error）；未能完成的条目及原因；建议新增的 id（人物、派系、概念）；发现的事实冲突或存疑之处。

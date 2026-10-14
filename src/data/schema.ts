@@ -379,6 +379,33 @@ export const PressTermSchema = z.object({
 })
 export type PressTerm = z.infer<typeof PressTermSchema>
 
+// the 31 provincial-level units in the short form of the map, grouped by region (the 诸侯图 rows)
+export const REGIONS = {
+  华北: ['北京', '天津', '河北', '山西', '内蒙古'],
+  东北: ['辽宁', '吉林', '黑龙江'],
+  华东: ['上海', '江苏', '浙江', '安徽', '福建', '江西', '山东'],
+  中南: ['河南', '湖北', '湖南', '广东', '广西', '海南'],
+  西南: ['重庆', '四川', '贵州', '云南', '西藏'],
+  西北: ['陕西', '甘肃', '青海', '宁夏', '新疆'],
+} as const
+export type Province = (typeof REGIONS)[keyof typeof REGIONS][number]
+export const PROVINCES = Object.values(REGIONS).flat() as Province[]
+export const POSTS = { sec: '党委书记', gov: '省长 / 主席 / 市长' } as const
+// one tenure of a provincial party secretary or governor (acting periods included, marked `acting`);
+// `person` links an entry of the site, `name` is always written
+export const ChiefSchema = z.object({
+  prov: z.enum(PROVINCES as [Province, ...Province[]]),
+  post: z.enum(Object.keys(POSTS) as [keyof typeof POSTS, ...(keyof typeof POSTS)[]]),
+  name: z.string(),
+  person: z.string().optional(),
+  from: PartialDate,
+  to: PartialDate.optional(),
+  acting: z.boolean().optional(),
+  note: z.string().optional(),
+  cite: Cite,
+})
+export type Chief = z.infer<typeof ChiefSchema>
+
 // the home page's scroll story: chapters of short editorial narration; each step names the events and
 // people it is about and the picture the sticky stage shows while it is read
 const Ids = z.array(z.string()).default([])

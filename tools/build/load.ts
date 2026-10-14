@@ -3,6 +3,7 @@ import { readdirSync, readFileSync } from 'node:fs'
 import { z } from 'zod'
 import {
   ChapterSchema,
+  ChiefSchema,
   ConceptSchema,
   CongressSchema,
   CorpusDocSchema,
@@ -167,5 +168,6 @@ export function loadAll() {
     line: dir(LinePointSchema, 'line'),
     press: dir(PressTermSchema, 'press'),
     story: dir(ChapterSchema, 'story'),
+    chiefs: dir(ChiefSchema, 'chiefs'),
   }
 }

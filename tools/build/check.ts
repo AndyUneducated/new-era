@@ -205,6 +205,29 @@ export function check(d: Data) {
     if (t.cite) cite(t.cite, w)
     if (new Set(t.hits.map((h) => h.year)).size !== t.hits.length) errors.push(`${w}: a year is entered twice`)
   }
+  // provincial chiefs: linked people exist and carry the same name; one post has one holder at a time
+  const byPost = new Map<string, typeof d.chiefs>()
+  for (const c of d.chiefs) {
+    const w = `chief ${c.prov} ${c.post} ${c.name} ${c.from}`
+    cite(c.cite, w)
+    if (c.person) {
+      ref(people, 'person', c.person, w)
+      const p = d.people.find((x) => x.id === c.person)
+      if (p && p.name !== c.name) errors.push(`${w}: person ${c.person} is named ${p.name}`)
+    }
+    if (c.to && c.to < c.from) errors.push(`${w}: ends before it starts`)
+    byPost.set(`${c.prov} ${c.post}`, [...(byPost.get(`${c.prov} ${c.post}`) ?? []), c])
+  }
+  const month = (s: string) => Number(s.slice(0, 4)) * 12 + (s.length > 4 ? Number(s.slice(5, 7)) - 1 : 6)
+  for (const [k, list] of byPost) {
+    const s = [...list].sort((x, y) => x.from.localeCompare(y.from))
+    for (let i = 1; i < s.length; i++) {
+      const end = s[i - 1].to
+      if (!end) errors.push(`chief ${k}: ${s[i - 1].name} has no end but ${s[i].name} follows`)
+      else if (month(end) - month(s[i].from) > 2) errors.push(`chief ${k}: ${s[i - 1].name} (to ${end}) overlaps ${s[i].name} (from ${s[i].from})`)
+      else if (month(s[i].from) - month(end) > 3 && s[i].from > '2000') warnings.push(`chief ${k}: gap ${end} – ${s[i].from}`)
+    }
+  }
   unique('chapter', d.story.map((c) => c.id))
   const congresses = new Set(d.congresses.map((c) => c.n))
   for (const c of d.story)
