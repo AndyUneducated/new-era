@@ -1,0 +1,1630 @@
+# T01: centrally managed cadres put under investigation from 2012-11 to 2017-10 who never sat on the Central Committee.
+# Probe and expulsion dates come from the CCDI column lists (t01-ccdi-*-list-*), sentences from the verdict reports.
+# A term that, counted from the probe, would have run out by 2026-10 is left as purged with a note, since no release
+# was reported.
+
+# ---- 2013 ----
+- id: ni-fake
+  name: 倪发科
+  gender: m
+  born: 1954-01-22
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2015 年一审获刑十七年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-06-04, text: 中央纪委通报安徽省原副省长倪发科涉嫌严重违纪，接受调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2013-09-30, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2015-02-28, text: 山东东营中院一审以受贿罪、巨额财产来源不明罪判处有期徒刑十七年, cite: t01-chinacourt-2015-02-28-ni-fake-verdict }
+  tier: 2
+  headline: 安徽省原副省长
+  ids: { wikidata: Q9016875 }
+  bio: >-
+    2008 年起任安徽省副省长，分管国土资源。2013 年 6 月被中央纪委通报接受调查，9 月被开除党籍和公职，2015 年 2 月一审以受贿、巨额财产来源不明罪被判有期徒刑十七年。
+  positions:
+    - { title: 安徽省副省长, sys: gov, place: 安徽, from: 2008, cite: t01-chinacourt-2015-02-28-ni-fake-verdict }
+  cites: [wd-Q9016875, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2015-02-28-ni-fake-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: wang-suyi
+  name: 王素毅
+  gender: m
+  born: 1961
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2014 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2013-06-30, text: 中央纪委通报内蒙古统战部长王素毅涉嫌严重违纪，接受调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2013-09-04, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2014-07-17, text: 北京一中院一审以受贿罪判处无期徒刑, cite: t01-chinacourt-2014-07-17-wang-suyi-verdict }
+  tier: 2
+  headline: 内蒙古自治区党委原常委、统战部原部长
+  ids: { wikidata: Q9066523 }
+  bio: >-
+    曾任巴彦淖尔市市长、市委书记，后任内蒙古自治区党委常委、统战部部长。2013 年 6 月被查，9 月被开除党籍和公职，2014 年 7 月一审以受贿罪被判无期徒刑。
+  positions:
+    - { title: 巴彦淖尔市委副书记、市长, sys: gov, place: 内蒙古, cite: t01-chinacourt-2014-07-17-wang-suyi-verdict }
+    - { title: 巴彦淖尔市委书记, sys: party, place: 内蒙古, cite: t01-chinacourt-2014-07-17-wang-suyi-verdict }
+    - { title: 内蒙古自治区党委常委、统战部部长, sys: party, place: 内蒙古, to: 2013-06, cite: t01-chinacourt-2014-07-17-wang-suyi-verdict }
+  cites: [wd-Q9066523, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2014-07-17-wang-suyi-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: li-daqiu
+  name: 李达球
+  gender: m
+  born: 1953-10
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2014 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-07-06, text: 中央纪委通报广西政协副主席李达球涉嫌严重违纪，接受调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2013-09-04, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2014-10-13, text: 吉林延边中院一审以受贿罪判处有期徒刑十五年, cite: t01-chinacourt-2014-10-13-li-daqiu-verdict }
+  tier: 2
+  headline: 广西壮族自治区政协原副主席、区总工会原主席
+  ids: { wikidata: Q15740020 }
+  bio: >-
+    曾任贺州市委书记，后任广西政协副主席兼区总工会主席。2013 年 7 月被查，9 月被开除党籍和公职，2014 年 10 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 贺州市委书记, sys: party, place: 广西, cite: t01-chinacourt-2014-10-13-li-daqiu-verdict }
+    - { title: 广西壮族自治区政协副主席, sys: other, place: 广西, to: 2013-07, cite: t01-chinacourt-2014-10-13-li-daqiu-verdict }
+  cites: [wd-Q15740020, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2014-10-13-li-daqiu-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: liao-shaohua
+  name: 廖少华
+  gender: m
+  born: 1960-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2015 年一审获刑十六年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-10-28, text: 中央纪委通报贵州省委常委廖少华涉嫌严重违纪违法，接受调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2014-05-08, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2015-04-09, text: 陕西西安中院一审以受贿罪、滥用职权罪判处有期徒刑十六年, cite: t01-chinacourt-2015-04-09-liao-shaohua-verdict }
+  tier: 2
+  headline: 贵州省委原常委、遵义市委原书记
+  ids: { wikidata: Q8993310 }
+  bio: >-
+    历任黔东南州委书记、遵义市委书记，任贵州省委常委。2013 年 10 月被查，2014 年 5 月被开除党籍和公职，2015 年 4 月一审被判有期徒刑十六年。
+  positions:
+    - { title: 黔东南州委书记, sys: party, place: 贵州, cite: t01-chinacourt-2015-04-09-liao-shaohua-verdict }
+    - { title: 贵州省委常委、遵义市委书记, sys: party, place: 贵州, to: 2013-10, cite: t01-chinacourt-2015-04-09-liao-shaohua-verdict }
+  cites: [wd-Q8993310, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2015-04-09-liao-shaohua-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: chen-baihuai
+  name: 陈柏槐
+  gender: m
+  born: 1950-08
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2015 年一审获刑十七年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-11-19, text: 中央纪委通报湖北省政协原副主席陈柏槐涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2014-03-07, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2015-04-17, text: 福建福州中院一审以滥用职权罪、受贿罪判处有期徒刑十七年, cite: t01-chinacourt-2015-04-17-chen-baihuai-verdict }
+  tier: 2
+  headline: 湖北省政协原副主席
+  ids: { wikidata: Q15739749 }
+  bio: >-
+    曾任湖北省农业厅厅长，后任湖北省政协副主席，退职后于 2013 年 11 月被查。2014 年 3 月被开除党籍和公职，2015 年 4 月一审以滥用职权、受贿罪被判有期徒刑十七年。
+  positions:
+    - { title: 湖北省农业厅厅长, sys: gov, place: 湖北, cite: t01-chinacourt-2015-04-17-chen-baihuai-verdict }
+    - { title: 湖北省政协副主席, sys: other, place: 湖北, cite: t01-chinacourt-2015-04-17-chen-baihuai-verdict }
+  cites: [wd-Q15739749, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2015-04-17-chen-baihuai-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: guo-youming
+  name: 郭有明
+  gender: m
+  born: 1956-12
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2015 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-11-27, text: 中央纪委通报湖北省副省长郭有明涉嫌严重违纪违法，接受调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2014-04-22, text: 被开除党籍, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2015-12-09, text: 河南南阳中院一审以受贿罪判处有期徒刑十五年, cite: t01-thepaper-2015-guo-youming-verdict }
+  tier: 2
+  headline: 湖北省原副省长
+  ids: { wikidata: Q15739886 }
+  bio: >-
+    长期在宜昌任职，历任市长、市委书记，后任湖北省副省长。2013 年 11 月任上被查，2014 年 4 月被开除党籍，2015 年 12 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 宜昌市委副书记、市长, sys: gov, place: 湖北, cite: t01-thepaper-2015-guo-youming-verdict }
+    - { title: 宜昌市委书记, sys: party, place: 湖北, cite: t01-thepaper-2015-guo-youming-verdict }
+    - { title: 湖北省副省长, sys: gov, place: 湖北, to: 2013-11, cite: t01-thepaper-2015-guo-youming-verdict }
+  cites: [wd-Q15739886, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-thepaper-2015-guo-youming-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: chen-anzhong
+  name: 陈安众
+  gender: m
+  born: 1954-01-22
+  birthplace: 湖南长沙
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年一审获刑十二年，2014 年 5 月起被羁押；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2013-12-06, text: 中央纪委通报江西省人大常委会副主任陈安众接受组织调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2014-05-20, text: 被开除党籍和公职，同日被刑事拘留, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+    - { date: 2015-06, text: 安徽蚌埠中院一审以受贿罪判处有期徒刑十二年, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+  tier: 2
+  headline: 江西省人大常委会原副主任、省总工会原主席
+  ids: { wikidata: Q15739712 }
+  bio: >-
+    湖南衡阳起家，后调江西任景德镇市长、萍乡和九江市委书记、省政协副主席，再任省人大常委会副主任兼省总工会主席。2013 年 12 月被查，2014 年 5 月被开除党籍和公职，2015 年 6 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 衡阳市市长, sys: gov, place: 湖南, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+    - { title: 九江市委书记, sys: party, place: 江西, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+    - { title: 江西省政协副主席, sys: other, place: 江西, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+    - { title: 江西省人大常委会副主任、省总工会主席, sys: other, place: 江西, to: 2013-12, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
+  cites: [wd-Q15739712, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2015-06-chen-anzhong-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: tong-mingqian
+  name: 童名谦
+  gender: m
+  born: 1958-06-23
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2014 年一审以玩忽职守罪获刑五年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2013-12-18, text: 中央纪委通报湖南省政协副主席童名谦接受组织调查, cite: t01-ccdi-zjsc-list-p6 }
+    - { date: 2014-01-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
+    - { date: 2014-08-18, text: 北京二中院一审以玩忽职守罪判处有期徒刑五年, cite: t01-chinacourt-2014-08-tong-mingqian-verdict }
+  tier: 2
+  headline: 湖南省政协原副主席、衡阳市委原书记
+  ids: { wikidata: Q9052534 }
+  bio: >-
+    衡阳市委书记任内，衡阳市人大选举省人大代表时发生大面积贿选，后任湖南省政协副主席。2013 年 12 月被查，2014 年 1 月被开除党籍和公职，8 月以玩忽职守罪被判有期徒刑五年。
+  positions:
+    - { title: 衡阳市委书记, sys: party, place: 湖南, cite: t01-chinacourt-2014-08-tong-mingqian-verdict }
+    - { title: 湖南省政协副主席, sys: other, place: 湖南, to: 2013-12, cite: t01-ccdi-zjsc-list-p6 }
+  cites: [wd-Q9052534, t01-ccdi-zjsc-list-p6, t01-ccdi-djcf-list-p8, t01-chinacourt-2014-08-tong-mingqian-verdict, t01-people-2015-12-18-19-verdicts]
+
+# ---- 2014 ----
+- id: zhu-zuoli
+  name: 祝作利
+  gender: m
+  born: 1955-01
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-02-19, text: 中央纪委通报陕西省政协副主席祝作利涉嫌严重违纪违法，被立案调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-08-06, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2015-11-19, text: 河北廊坊中院一审以受贿罪判处有期徒刑十一年, cite: t01-xinhua-2015-11-19-zhu-zuoli-verdict }
+  tier: 2
+  headline: 陕西省政协原副主席
+  ids: { wikidata: Q15919854 }
+  bio: >-
+    曾任陕西省发改委副主任、主任，后任陕西省政协副主席。2014 年 2 月被立案调查，8 月被开除党籍和公职，2015 年 11 月一审以受贿罪被判有期徒刑十一年。
+  positions:
+    - { title: 陕西省发改委主任, sys: gov, place: 陕西, cite: t01-xinhua-2015-11-19-zhu-zuoli-verdict }
+    - { title: 陕西省政协副主席, sys: other, place: 陕西, to: 2014-02, cite: t01-xinhua-2015-11-19-zhu-zuoli-verdict }
+  cites: [wd-Q15919854, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-xinhua-2015-11-19-zhu-zuoli-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: jin-daoming
+  name: 金道铭
+  gender: m
+  born: 1953-12
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2014-02-27, text: 中央纪委通报山西省人大常委会副主任金道铭接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-12-22, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-10-14, text: 江苏镇江中院一审以受贿罪判处无期徒刑, cite: t01-chinanews-2016-10-14-jin-daoming-verdict }
+  tier: 2
+  headline: 山西省委原副书记、省人大常委会原副主任
+  ids: { wikidata: Q8297870 }
+  bio: >-
+    长期在中央纪检系统工作，后任山西省委常委、省纪委书记、省委副书记，2014 年初转任省人大常委会副主任，不久即被查。2014 年 12 月被开除党籍和公职，2016 年 10 月一审以受贿罪被判无期徒刑。
+  positions:
+    - { title: 山西省委常委、省纪委书记, sys: party, place: 山西, cite: t01-chinanews-2016-10-14-jin-daoming-verdict }
+    - { title: 山西省委副书记, sys: party, place: 山西, cite: t01-chinanews-2016-10-14-jin-daoming-verdict }
+    - { title: 山西省人大常委会副主任, sys: other, place: 山西, to: 2014-02, cite: t01-ccdi-zjsc-list-p5 }
+  cites: [wd-Q8297870, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p6, t01-chinanews-2016-10-14-jin-daoming-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: shen-peiping
+  name: 沈培平
+  gender: m
+  born: 1962-02
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-03-09, text: 中央纪委通报云南省副省长沈培平涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-08-06, text: 被开除党籍, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2015-12, text: 北京一中院一审以受贿罪判处有期徒刑十二年, cite: t01-chinacourt-2015-12-shen-peiping-verdict }
+  tier: 2
+  headline: 云南省原副省长
+  ids: { wikidata: Q15915228 }
+  bio: >-
+    云南省副省长任上于 2014 年 3 月被查，同年 8 月被开除党籍。2015 年 12 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 云南省副省长, sys: gov, place: 云南, to: 2014-03, cite: t01-ccdi-zjsc-list-p5 }
+  cites: [wd-Q15915228, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-chinacourt-2015-12-shen-peiping-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: yao-mugen
+  name: 姚木根
+  gender: m
+  born: 1957-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2015 年一审获刑十三年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-03-22, text: 中央纪委通报江西省副省长姚木根接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-08-05, text: 被开除党籍, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2015-12-18, text: 福建厦门中院一审以受贿罪判处有期徒刑十三年, cite: t01-163-2015-12-18-yao-mugen-verdict }
+  tier: 2
+  headline: 江西省原副省长
+  ids: { wikidata: Q9079833 }
+  bio: >-
+    江西省副省长任上于 2014 年 3 月被查，同年 8 月被开除党籍。2015 年 12 月一审以受贿罪被判有期徒刑十三年。
+  positions:
+    - { title: 江西省副省长, sys: gov, place: 江西, to: 2014-03, cite: t01-ccdi-zjsc-list-p5 }
+  cites: [wd-Q9079833, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-163-2015-12-18-yao-mugen-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: song-lin
+  name: 宋林
+  gender: m
+  born: 1963-02-03
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十四年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-04-17, text: 中央纪委通报华润集团董事长、党委书记宋林接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2015-09-11, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2017-06-01, text: 广东广州中院一审以贪污罪、受贿罪判处有期徒刑十四年, cite: t01-ccdi-2017-06-01-song-lin-verdict }
+  tier: 2
+  headline: 华润（集团）有限公司原董事长、党委书记
+  ids: { wikidata: Q9128733 }
+  bio: >-
+    历任华润创业总经理、华润万家董事长、华润集团总经理和董事长。2014 年 4 月被查，2015 年 9 月被开除党籍，2017 年 6 月一审以贪污、受贿罪被判有期徒刑十四年。
+  positions:
+    - { title: 华润创业有限公司总经理, sys: other, cite: t01-ccdi-2017-06-01-song-lin-verdict }
+    - { title: 华润（集团）有限公司总经理, sys: other, cite: t01-ccdi-2017-06-01-song-lin-verdict }
+    - { title: 华润（集团）有限公司董事长、党委书记, sys: other, to: 2014-04, cite: t01-ccdi-2017-06-01-song-lin-verdict }
+  cites: [wd-Q9128733, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p5, t01-ccdi-2017-06-01-song-lin-verdict]
+
+- id: mao-xiaobing
+  name: 毛小兵
+  gender: m
+  born: 1965-04
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2014-04-24, text: 中央纪委通报青海省委常委、西宁市委书记毛小兵接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-07-16, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2017-05-11, text: 甘肃兰州中院一审以受贿罪、挪用公款罪判处无期徒刑, cite: t01-qq-2017-05-11-mao-xiaobing-verdict }
+  tier: 2
+  headline: 青海省委原常委、西宁市委原书记
+  ids: { wikidata: Q9010506 }
+  bio: >-
+    矿业出身，任西部矿业董事长，2009 年转任西宁市长，2011 年任西宁市委书记、次年入青海省委常委。2014 年 4 月被查，7 月被开除党籍和公职，2017 年 5 月一审以受贿、挪用公款罪被判无期徒刑。
+  positions:
+    - { title: 西部矿业集团有限公司董事长, sys: other, place: 青海, from: 2006-09, to: 2009-04, cite: t01-qq-2017-05-11-mao-xiaobing-verdict }
+    - { title: 西宁市市长, sys: gov, place: 青海, from: 2009-04, to: 2011-12, cite: t01-qq-2017-05-11-mao-xiaobing-verdict }
+    - { title: 西宁市委书记, sys: party, place: 青海, from: 2011-12, to: 2014-04, cite: t01-qq-2017-05-11-mao-xiaobing-verdict }
+    - { title: 青海省委常委, sys: party, place: 青海, from: 2012-05, to: 2014-04, cite: t01-qq-2017-05-11-mao-xiaobing-verdict }
+  cites: [wd-Q9010506, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-qq-2017-05-11-mao-xiaobing-verdict]
+
+- id: tan-qiwei
+  name: 谭栖伟
+  gender: m
+  born: 1954-08
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-05-03, text: 中央纪委通报重庆市人大常委会副主任谭栖伟接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-09-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2016-01-07, text: 河北衡水中院一审以受贿罪判处有期徒刑十二年, cite: t01-chinacourt-2016-01-tan-qiwei-verdict }
+  tier: 2
+  headline: 重庆市人大常委会原副主任
+  ids: { wikidata: Q16746337 }
+  bio: >-
+    重庆市人大常委会副主任任上于 2014 年 5 月被查，9 月被开除党籍和公职。2016 年 1 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 重庆市人大常委会副主任, sys: other, place: 重庆, to: 2014-05, cite: t01-ccdi-zjsc-list-p5 }
+  cites: [wd-Q16746337, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-chinacourt-2016-01-tan-qiwei-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: yang-baohua
+  name: 阳宝华
+  gender: m
+  born: 1947-09
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-05-26, text: 中央纪委通报湖南省政协原党组副书记、副主席阳宝华接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-07-15, text: 被开除党籍, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2015-11-03, text: 广西桂林中院一审以受贿罪判处有期徒刑十一年, cite: t01-ce-2015-11-03-yang-baohua-verdict }
+  tier: 2
+  headline: 湖南省政协原党组副书记、副主席
+  ids: { wikidata: Q9082673 }
+  bio: >-
+    已从湖南省政协副主席任上退下，2014 年 5 月被查，7 月被开除党籍。2015 年 11 月一审以受贿罪被判有期徒刑十一年。
+  positions:
+    - { title: 湖南省政协党组副书记、副主席, sys: other, place: 湖南, cite: t01-ccdi-zjsc-list-p5 }
+  cites: [wd-Q9082673, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p7, t01-ce-2015-11-03-yang-baohua-verdict, t01-people-2015-12-18-19-verdicts]
+
+- id: du-shanxue
+  name: 杜善学
+  gender: m
+  born: 1956-02
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2014-06-19, text: 中央纪委通报山西省委常委、副省长杜善学接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2015-02-13, text: 被开除党籍, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-12-20, text: 江苏徐州中院一审以受贿罪、行贿罪、巨额财产来源不明罪判处无期徒刑, cite: t01-court-2016-12-20-du-shanxue-verdict }
+  tier: 2
+  headline: 山西省委原常委、副省长
+  ids: { wikidata: Q9211772 }
+  bio: >-
+    历任长治市长、市委书记、吕梁市委书记、山西省委秘书长，后任省委常委、副省长。2014 年 6 月被查，2015 年 2 月被开除党籍，2016 年 12 月一审被判无期徒刑。
+  positions:
+    - { title: 长治市市长, sys: gov, place: 山西, from: 2003-02, to: 2008-02, cite: wd-Q9211772 }
+    - { title: 吕梁市委书记, sys: party, place: 山西, cite: t01-court-2016-12-20-du-shanxue-verdict }
+    - { title: 山西省委常委、秘书长, sys: party, place: 山西, cite: t01-court-2016-12-20-du-shanxue-verdict }
+    - { title: 山西省委常委、副省长, sys: gov, place: 山西, to: 2014-06, cite: t01-court-2016-12-20-du-shanxue-verdict }
+  cites: [wd-Q9211772, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p6, t01-court-2016-12-20-du-shanxue-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: han-xiancong
+  name: 韩先聪
+  gender: m
+  born: 1955
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十六年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-07-12, text: 中央纪委通报安徽省政协副主席韩先聪接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
+    - { date: 2014-12-11, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-11-15, text: 福建南平中院一审以受贿罪、滥用职权罪判处有期徒刑十六年, cite: t01-people-2016-11-15-han-xiancong-verdict }
+  tier: 2
+  headline: 安徽省政协原副主席
+  ids: { wikidata: Q8971424 }
+  bio: >-
+    历任安庆、滁州市委书记和安徽省政府秘书长，后任安徽省政协副主席。2014 年 7 月被查，12 月被开除党籍和公职，2016 年 11 月一审以受贿、滥用职权罪被判有期徒刑十六年。
+  positions:
+    - { title: 安庆市委书记, sys: party, place: 安徽, cite: t01-people-2016-11-15-han-xiancong-verdict }
+    - { title: 滁州市委书记, sys: party, place: 安徽, cite: t01-people-2016-11-15-han-xiancong-verdict }
+    - { title: 安徽省人民政府秘书长, sys: gov, place: 安徽, cite: t01-people-2016-11-15-han-xiancong-verdict }
+    - { title: 安徽省政协副主席, sys: other, place: 安徽, to: 2014-07, cite: t01-people-2016-11-15-han-xiancong-verdict }
+  cites: [wd-Q8971424, t01-ccdi-zjsc-list-p5, t01-ccdi-djcf-list-p6, t01-people-2016-11-15-han-xiancong-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: chen-tiexin
+  name: 陈铁新
+  gender: m
+  born: 1955-04
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十三年九个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-07-24, text: 中央纪委通报辽宁省政协副主席陈铁新接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2014-10-28, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2016-11-22, text: 黑龙江哈尔滨中院一审以受贿罪判处有期徒刑十三年九个月, cite: t01-xinhua-2016-11-22-chen-tiexin-verdict }
+  tier: 2
+  headline: 辽宁省政协原副主席
+  ids: { wikidata: Q17498518 }
+  bio: >-
+    曾任朝阳市委书记，后任辽宁省政协副主席。2014 年 7 月被查，10 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑十三年九个月。
+  positions:
+    - { title: 朝阳市委书记, sys: party, place: 辽宁, cite: t01-xinhua-2016-11-22-chen-tiexin-verdict }
+    - { title: 辽宁省政协副主席, sys: other, place: 辽宁, to: 2014-07, cite: t01-ccdi-zjsc-list-p4 }
+  cites: [wd-Q17498518, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p7, t01-xinhua-2016-11-22-chen-tiexin-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: nie-chunyu
+  name: 聂春玉
+  gender: m
+  born: 1955-07
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-08-23, text: 中央纪委通报山西省委常委、秘书长聂春玉接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-10-19, text: 江苏南通中院一审以受贿罪判处有期徒刑十五年, cite: t01-ccdi-2016-10-19-nie-chunyu-verdict }
+  tier: 2
+  headline: 山西省委原常委、秘书长
+  ids: { wikidata: Q9427663 }
+  bio: >-
+    历任吕梁市长、市委书记，后任山西省委常委、统战部长、秘书长。2014 年 8 月被查，2015 年 2 月被开除党籍和公职，2016 年 10 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 吕梁市市长, sys: gov, place: 山西, cite: t01-ccdi-2016-10-19-nie-chunyu-verdict }
+    - { title: 吕梁市委书记, sys: party, place: 山西, cite: t01-ccdi-2016-10-19-nie-chunyu-verdict }
+    - { title: 山西省委常委、统战部长, sys: party, place: 山西, cite: t01-ccdi-2016-10-19-nie-chunyu-verdict }
+    - { title: 山西省委常委、秘书长, sys: party, place: 山西, to: 2014-08, cite: t01-ccdi-2016-10-19-nie-chunyu-verdict }
+  cites: [wd-Q9427663, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-ccdi-2016-10-19-nie-chunyu-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: bai-yun
+  name: 白云
+  gender: f
+  born: 1960-12
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-08-29, text: 中央纪委通报山西省委常委、统战部部长白云接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-10-19, text: 江苏南通中院一审以受贿罪判处有期徒刑十二年, cite: t01-ccdi-2016-10-19-bai-yun-verdict }
+  tier: 2
+  headline: 山西省委原常委、统战部原部长
+  ids: { wikidata: Q9318481 }
+  bio: >-
+    历任吕梁地委副书记、阳泉市长和市委书记，后任山西省委常委、统战部长。2014 年 8 月被查，2015 年 2 月被开除党籍和公职，2016 年 10 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 阳泉市市长, sys: gov, place: 山西, cite: t01-ccdi-2016-10-19-bai-yun-verdict }
+    - { title: 阳泉市委书记, sys: party, place: 山西, cite: t01-ccdi-2016-10-19-bai-yun-verdict }
+    - { title: 山西省委常委、统战部长, sys: party, place: 山西, to: 2014-08, cite: t01-ccdi-2016-10-19-bai-yun-verdict }
+  cites: [wd-Q9318481, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-ccdi-2016-10-19-bai-yun-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: ren-runhou
+  name: 任润厚
+  gender: m
+  born: 1957-10
+  roles: [prov, tiger]
+  status: dead
+  statusNote: 审查期间病亡，未进入审判；2017 年 7 月法院裁定没收其违法所得。
+  fall:
+    - { date: 2014-08-29, text: 中央纪委通报山西省副省长任润厚接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-04-13, text: 被开除党籍, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2017-07-25, text: 因其病亡，江苏扬州中院依检察机关申请裁定没收其受贿、贪污、巨额财产来源不明违法所得, cite: t01-people-2017-12-21-39-verdicts }
+  tier: 2
+  headline: 山西省原副省长
+  ids: { wikidata: Q9103132 }
+  bio: >-
+    山西省副省长任上于 2014 年 8 月被查，2015 年 4 月被开除党籍。其后病亡，案件未实质进入审判，2017 年 7 月扬州中院裁定没收其违法所得。
+  positions:
+    - { title: 山西省副省长, sys: gov, place: 山西, to: 2014-08, cite: t01-ccdi-zjsc-list-p4 }
+  cites: [wd-Q9103132, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-people-2017-12-21-39-verdicts]
+
+- id: sun-zhaoxue
+  name: 孙兆学
+  gender: m
+  born: 1962-09
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十六年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-09-15, text: 中央纪委通报中国铝业公司总经理孙兆学接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2014-12-23, text: 被开除党籍, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-12-27, text: 一审以受贿罪、巨额财产来源不明罪判处有期徒刑十六年, cite: t01-chinacourt-2016-12-sun-zhaoxue-verdict }
+  tier: 2
+  headline: 中国铝业公司原总经理
+  ids: { wikidata: Q18109398 }
+  bio: >-
+    曾任中铝山西分公司总经理、中国黄金集团总经理兼中金黄金董事长，后回任中国铝业公司总经理。2014 年 9 月被查，12 月被开除党籍，2016 年 12 月一审被判有期徒刑十六年。
+  positions:
+    - { title: 中国铝业股份有限公司山西分公司总经理, sys: other, place: 山西, cite: t01-chinacourt-2016-12-sun-zhaoxue-verdict }
+    - { title: 中国黄金集团公司总经理, sys: other, cite: t01-chinacourt-2016-12-sun-zhaoxue-verdict }
+    - { title: 中国铝业公司总经理, sys: other, to: 2014-09, cite: t01-ccdi-zjsc-list-p4 }
+  cites: [wd-Q18109398, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-chinacourt-2016-12-sun-zhaoxue-verdict]
+
+- id: qin-yuhai
+  name: 秦玉海
+  gender: m
+  born: 1953-03
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十三年六个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-09-21, text: 中央纪委通报河南省人大常委会党组书记秦玉海接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-02-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-11-28, text: 山东淄博中院一审以受贿罪判处有期徒刑十三年六个月, cite: t01-ccdi-2016-11-28-qin-yuhai-verdict }
+  tier: 2
+  headline: 河南省人大常委会原党组书记、副主任
+  ids: { wikidata: Q9201629 }
+  bio: >-
+    历任焦作市委书记、河南省副省长兼公安厅厅长，后任河南省人大常委会党组书记、副主任。2014 年 9 月被查，2015 年 2 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑十三年六个月。
+  positions:
+    - { title: 焦作市委书记, sys: party, place: 河南, cite: t01-ccdi-2016-11-28-qin-yuhai-verdict }
+    - { title: 河南省副省长、公安厅厅长, sys: gov, place: 河南, cite: t01-ccdi-2016-11-28-qin-yuhai-verdict }
+    - { title: 河南省人大常委会党组书记、副主任, sys: other, place: 河南, to: 2014-09, cite: t01-ccdi-2016-11-28-qin-yuhai-verdict }
+  cites: [wd-Q9201629, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-ccdi-2016-11-28-qin-yuhai-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: he-jiacheng
+  name: 何家成
+  gender: m
+  born: 1956
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑九年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-10-11, text: 中央纪委通报国家行政学院常务副院长何家成接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-11-11, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-02-28, text: 浙江宁波中院一审以受贿罪判处有期徒刑九年, cite: t01-ccdi-2017-02-28-he-jiacheng-verdict }
+  tier: 2
+  headline: 国家行政学院原常务副院长
+  ids: { wikidata: Q16336178 }
+  bio: >-
+    曾任华星物产集团总裁、国家国内贸易局副局长，后任国家行政学院常务副院长。2014 年 10 月被查，2015 年 11 月被开除党籍和公职，2017 年 2 月一审以受贿罪被判有期徒刑九年。
+  positions:
+    - { title: 华星物产集团有限公司总裁、董事长, sys: other, cite: t01-ccdi-2017-02-28-he-jiacheng-verdict }
+    - { title: 国家国内贸易局副局长, sys: gov, cite: t01-ccdi-2017-02-28-he-jiacheng-verdict }
+    - { title: 国家行政学院常务副院长, sys: gov, to: 2014-10, cite: t01-ccdi-jlsc-list-p3 }
+  cites: [wd-Q16336178, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p4, t01-ccdi-2017-02-28-he-jiacheng-verdict, t01-people-2017-04-19-11-verdicts]
+
+- id: liang-bin
+  name: 梁滨
+  gender: m
+  born: 1956
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑八年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-11-20, text: 中央纪委通报河北省委常委、组织部部长梁滨接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-01-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-11-25, text: 辽宁鞍山中院一审以受贿罪判处有期徒刑八年, cite: t01-sina-2016-11-25-liang-bin-verdict }
+  tier: 2
+  headline: 河北省委原常委、组织部原部长
+  ids: { wikidata: Q8297816 }
+  bio: >-
+    曾任山西省副省长、省委常委，后调任河北省委常委、组织部部长。2014 年 11 月被查，2015 年 1 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑八年。
+  positions:
+    - { title: 山西省副省长, sys: gov, place: 山西, cite: t01-sina-2016-11-25-liang-bin-verdict }
+    - { title: 山西省委常委, sys: party, place: 山西, cite: t01-sina-2016-11-25-liang-bin-verdict }
+    - { title: 河北省委常委、组织部部长, sys: party, place: 河北, to: 2014-11, cite: t01-sina-2016-11-25-liang-bin-verdict }
+  cites: [wd-Q8297816, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p6, t01-sina-2016-11-25-liang-bin-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: sui-fengfu
+  name: 隋凤富
+  gender: m
+  born: 1956-11
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2014-11-27, text: 中央纪委通报黑龙江省人大常委会副主任、省农垦总局党委书记隋凤富涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-02-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-12-19, text: 辽宁沈阳中院一审以受贿罪判处有期徒刑十一年, cite: t01-huanqiu-2016-12-sui-fengfu-verdict }
+  tier: 2
+  headline: 黑龙江省人大常委会原副主任、省农垦总局原党委书记
+  ids: { wikidata: Q9371508 }
+  bio: >-
+    长期在黑龙江农垦系统任职，历任九三分局局长、农垦总局局长和党委书记，后兼任黑龙江省人大常委会副主任。2014 年 11 月被查，2015 年 2 月被开除党籍和公职，2016 年 12 月一审以受贿罪被判有期徒刑十一年。
+  positions:
+    - { title: 黑龙江省农垦总局九三分局局长, sys: other, place: 黑龙江, cite: t01-huanqiu-2016-12-sui-fengfu-verdict }
+    - { title: 黑龙江省农垦总局局长、党委书记, sys: other, place: 黑龙江, cite: t01-huanqiu-2016-12-sui-fengfu-verdict }
+    - { title: 黑龙江省人大常委会副主任, sys: other, place: 黑龙江, to: 2014-11, cite: t01-huanqiu-2016-12-sui-fengfu-verdict }
+  cites: [wd-Q9371508, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-huanqiu-2016-12-sui-fengfu-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: han-xuejian
+  name: 韩学键
+  gender: m
+  born: 1961-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十二年六个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-12-22, text: 中央纪委通报黑龙江省委常委韩学键涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
+    - { date: 2015-04-30, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
+    - { date: 2016-11-16, text: 吉林辽源中院一审以受贿罪判处有期徒刑十二年六个月, cite: t01-court-2016-11-16-han-xuejian-verdict }
+  tier: 2
+  headline: 黑龙江省委原常委、大庆市委原书记
+  ids: { wikidata: Q8971436 }
+  bio: >-
+    曾任黑龙江省贸易局局长、大庆市市长，后任黑龙江省委常委、大庆市委书记。2014 年 12 月被查，2015 年 4 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑十二年六个月。
+  positions:
+    - { title: 黑龙江省贸易局局长, sys: gov, place: 黑龙江, cite: t01-court-2016-11-16-han-xuejian-verdict }
+    - { title: 大庆市市长, sys: gov, place: 黑龙江, cite: t01-court-2016-11-16-han-xuejian-verdict }
+    - { title: 黑龙江省委常委、大庆市委书记, sys: party, place: 黑龙江, cite: t01-court-2016-11-16-han-xuejian-verdict }
+  cites: [wd-Q8971436, t01-ccdi-zjsc-list-p4, t01-ccdi-djcf-list-p6, t01-court-2016-11-16-han-xuejian-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: sun-hongzhi
+  name: 孙鸿志
+  gender: m
+  born: 1965-09
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十八年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-12-26, text: 中央纪委通报国家工商总局副局长、党组成员孙鸿志接受调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-06-15, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2017-02-17, text: 山东泰安中院一审以受贿罪、贪污罪、巨额财产来源不明罪判处有期徒刑十八年, cite: t01-xinhua-2017-02-17-sun-hongzhi-verdict }
+  tier: 2
+  headline: 国家工商行政管理总局原副局长
+  ids: { wikidata: Q16904855 }
+  bio: >-
+    曾任吉林省煤炭工业局局长、松原市长，后任国家工商总局广告监督管理司司长、副局长。2014 年 12 月被查，2015 年 6 月被开除党籍，2017 年 2 月一审被判有期徒刑十八年。
+  positions:
+    - { title: 吉林省煤炭工业局局长, sys: gov, place: 吉林, cite: t01-xinhua-2017-02-17-sun-hongzhi-verdict }
+    - { title: 松原市市长, sys: gov, place: 吉林, cite: t01-xinhua-2017-02-17-sun-hongzhi-verdict }
+    - { title: 国家工商行政管理总局副局长, sys: gov, to: 2014-12, cite: t01-xinhua-2017-02-17-sun-hongzhi-verdict }
+  cites: [wd-Q16904855, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-xinhua-2017-02-17-sun-hongzhi-verdict, t01-people-2017-04-19-11-verdicts]
+
+- id: zhao-zhiyong
+  name: 赵智勇
+  gender: m
+  born: 1955-04
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2014 年被开除党籍、降为科员，2015 年退休；2023 年 11 月起接受江西省监委监察调查，本批次未查到后续处理报道。
+  fall:
+    - { date: 2014-07-16, text: 被开除党籍，降为科员, cite: t01-ccdi-djcf-list-p7 }
+    - { date: 2023-11-20, text: 以江西省政府驻北京办事处原科员身份，因涉嫌严重违法接受江西省监委监察调查, cite: t01-ce-2023-11-20-zhao-zhiyong-probe }
+  tier: 2
+  headline: 江西省委原常委、秘书长
+  ids: { wikidata: Q9095527 }
+  bio: >-
+    银行系统出身，曾任江西省委常委、秘书长。2014 年 7 月被开除党籍并降为科员，未被追究刑责，2015 年以驻京办科员身份退休；2023 年 11 月又因涉嫌严重违法接受江西省监委调查。
+  positions:
+    - { title: 江西省委常委、秘书长, sys: party, place: 江西, cite: t01-ccdi-djcf-list-p7 }
+    - { title: 江西省人民政府驻北京办事处科员, sys: gov, place: 江西, from: 2014-07, to: 2015-06, cite: t01-ce-2023-11-20-zhao-zhiyong-probe }
+  cites: [wd-Q9095527, t01-ccdi-djcf-list-p7, t01-ce-2023-11-20-zhao-zhiyong-probe]
+
+- id: zhang-tianxin
+  name: 张田欣
+  gender: m
+  born: 1955-07
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2014 年被开除党籍、降为副处级非领导职务，未见移送司法的报道。
+  fall:
+    - { date: 2014-07-16, text: 中央纪委认定其失职渎职造成国有资产损失、利用职务便利谋取私利，给予开除党籍处分，取消副省级待遇，降为副处级非领导职务, cite: t01-ccdi-2014-07-16-zhang-tianxin-expel }
+  tier: 2
+  headline: 云南省委原常委、昆明市委原书记
+  ids: { wikidata: Q8298103 }
+  bio: >-
+    曾任云南省委常委、昆明市委书记。2014 年 7 月被开除党籍，取消副省级待遇，降为副处级非领导职务，未见移送司法。
+  positions:
+    - { title: 云南省委常委、昆明市委书记, sys: party, place: 云南, cite: t01-ccdi-djcf-list-p7 }
+  cites: [wd-Q8298103, t01-ccdi-djcf-list-p7, t01-ccdi-2014-07-16-zhang-tianxin-expel]
+
+# ---- 2015 ----
+- id: lu-wucheng
+  name: 陆武成
+  gender: m
+  born: 1953-05
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十二年六个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-01-23, text: 中央纪委通报甘肃省人大常委会副主任、党组副书记陆武成接受调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-05-15, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-11-17, text: 陕西西安中院一审以受贿罪判处有期徒刑十二年六个月, cite: t01-ifeng-2016-11-18-lu-wucheng-verdict }
+  tier: 2
+  headline: 甘肃省人大常委会原副主任
+  ids: { wikidata: Q16907796 }
+  bio: >-
+    历任甘肃省副省长、省委常委兼兰州市委书记，后任甘肃省人大常委会副主任。2015 年 1 月被查，5 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑十二年六个月。
+  positions:
+    - { title: 甘肃省副省长, sys: gov, place: 甘肃, cite: t01-ifeng-2016-11-18-lu-wucheng-verdict }
+    - { title: 甘肃省委常委、兰州市委书记, sys: party, place: 甘肃, cite: t01-ifeng-2016-11-18-lu-wucheng-verdict }
+    - { title: 甘肃省人大常委会副主任, sys: other, place: 甘肃, to: 2015-01, cite: t01-ifeng-2016-11-18-lu-wucheng-verdict }
+  cites: [wd-Q16907796, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-ifeng-2016-11-18-lu-wucheng-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: si-xinliang
+  name: 斯鑫良
+  gender: m
+  born: 1950-01
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十三年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-02-16, text: 中央纪委通报浙江省政协原党组副书记、副主席斯鑫良接受组织调查, cite: t01-ccdi-2015-02-16-si-xinliang-probe }
+    - { date: 2015-06-19, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-12-13, text: 江西九江中院一审以受贿罪判处有期徒刑十三年, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  tier: 2
+  headline: 浙江省政协原副主席、浙江省委原组织部长
+  ids: { wikidata: Q18653520 }
+  bio: >-
+    历任湖州市委书记、浙江省委常委兼组织部长，后任浙江省政协副主席，已退休。2015 年 2 月被查，6 月被开除党籍，2016 年 12 月一审以受贿罪被判有期徒刑十三年。
+  positions:
+    - { title: 湖州市委书记, sys: party, place: 浙江, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+    - { title: 浙江省委常委、组织部长, sys: party, place: 浙江, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+    - { title: 浙江省政协副主席、党组副书记, sys: other, place: 浙江, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  cites: [wd-Q18653520, t01-ccdi-2015-02-16-si-xinliang-probe, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-ccdi-2016-12-13-si-xinliang-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: jing-chunhua
+  name: 景春华
+  gender: m
+  born: 1956-02
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十八年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-03-03, text: 中央纪委通报河北省委常委、秘书长景春华接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-05-08, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-12-23, text: 吉林长春中院一审以受贿罪、巨额财产来源不明罪判处有期徒刑十八年, cite: t01-chinacourt-2016-12-jing-chunhua-verdict }
+  tier: 2
+  headline: 河北省委原常委、秘书长
+  ids: { wikidata: Q8297912 }
+  bio: >-
+    历任承德市长、衡水市委书记，后任河北省委常委、秘书长。2015 年 3 月被查，5 月被开除党籍和公职，2016 年 12 月一审被判有期徒刑十八年。
+  positions:
+    - { title: 承德市市长, sys: gov, place: 河北, cite: t01-chinacourt-2016-12-jing-chunhua-verdict }
+    - { title: 衡水市委书记, sys: party, place: 河北, cite: t01-chinacourt-2016-12-jing-chunhua-verdict }
+    - { title: 河北省委常委、秘书长, sys: party, place: 河北, to: 2015-03, cite: t01-chinacourt-2016-12-jing-chunhua-verdict }
+  cites: [wd-Q8297912, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-chinacourt-2016-12-jing-chunhua-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: li-zhi
+  name: 栗智
+  gender: m
+  born: 1950-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十二年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-03-11, text: 中央纪委通报新疆维吾尔自治区人大常委会原副主任栗智接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-07-06, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-11-18, text: 青海西宁中院一审以受贿罪判处有期徒刑十二年, cite: t01-chinacourt-2016-11-li-zhi-verdict }
+  tier: 2
+  headline: 新疆维吾尔自治区人大常委会原副主任、乌鲁木齐市委原书记
+  ids: { wikidata: Q1055012 }
+  bio: >-
+    历任博州、昌吉州党委书记和乌鲁木齐市委书记，后任新疆人大常委会副主任，已退休。2015 年 3 月被查，7 月被开除党籍，2016 年 11 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 昌吉回族自治州党委书记, sys: party, place: 新疆, cite: t01-chinacourt-2016-11-li-zhi-verdict }
+    - { title: 乌鲁木齐市委书记, sys: party, place: 新疆, cite: t01-chinacourt-2016-11-li-zhi-verdict }
+    - { title: 新疆维吾尔自治区人大常委会副主任, sys: other, place: 新疆, cite: t01-chinacourt-2016-11-li-zhi-verdict }
+  cites: [wd-Q1055012, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-chinacourt-2016-11-li-zhi-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: xu-jianyi
+  name: 徐建一
+  gender: m
+  born: 1953-12
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑十一年六个月；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-03-15, text: 中央纪委通报中国第一汽车集团公司董事长、党委书记徐建一被调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-08-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2017-02-09, text: 北京一中院一审以受贿罪判处有期徒刑十一年六个月, cite: t01-people-2017-02-09-xu-jianyi-verdict }
+  tier: 2
+  headline: 中国第一汽车集团公司原董事长、党委书记
+  ids: { wikidata: Q9140862 }
+  bio: >-
+    曾任一汽集团副总经理、吉林省委常委兼吉林市委书记，后回一汽任总经理、董事长。2015 年 3 月被查，8 月被开除党籍和公职，2017 年 2 月一审以受贿罪被判有期徒刑十一年六个月。
+  positions:
+    - { title: 中国第一汽车集团公司副总经理, sys: other, cite: t01-people-2017-02-09-xu-jianyi-verdict }
+    - { title: 吉林省委常委、吉林市委书记, sys: party, place: 吉林, cite: t01-people-2017-02-09-xu-jianyi-verdict }
+    - { title: 中国第一汽车集团公司董事长、党委书记, sys: other, to: 2015-03, cite: t01-people-2017-02-09-xu-jianyi-verdict }
+  cites: [wd-Q9140862, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-people-2017-02-09-xu-jianyi-verdict, t01-people-2017-04-19-11-verdicts]
+
+- id: xu-gang
+  name: 徐钢
+  gender: m
+  born: 1958-12
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十三年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-03-20, text: 中央纪委通报福建省副省长徐钢涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-07-27, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-12-29, text: 安徽合肥中院一审以受贿罪判处有期徒刑十三年, cite: t01-chinacourt-2016-12-xu-gang-verdict }
+  tier: 2
+  headline: 福建省原副省长
+  ids: { wikidata: Q15935164 }
+  bio: >-
+    历任福建省政府副秘书长、省交通厅厅长、泉州市委书记，后任福建省副省长。2015 年 3 月被查，7 月被开除党籍，2016 年 12 月一审以受贿罪被判有期徒刑十三年。
+  positions:
+    - { title: 福建省交通厅厅长, sys: gov, place: 福建, cite: t01-chinacourt-2016-12-xu-gang-verdict }
+    - { title: 泉州市委书记, sys: party, place: 福建, cite: t01-chinacourt-2016-12-xu-gang-verdict }
+    - { title: 福建省副省长, sys: gov, place: 福建, to: 2015-03, cite: t01-ccdi-jlsc-list-p3 }
+  cites: [wd-Q15935164, t01-ccdi-jlsc-list-p3, t01-ccdi-djcf-list-p5, t01-chinacourt-2016-12-xu-gang-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: wang-tianpu
+  name: 王天普
+  gender: m
+  born: 1962-09
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十五年六个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-04-27, text: 中央纪委通报中国石油化工集团公司总经理王天普接受组织调查, cite: t01-ccdi-2015-04-27-wang-tianpu-probe }
+    - { date: 2015-09-18, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2017-01-24, text: 江西南昌中院一审以受贿罪、贪污罪判处有期徒刑十五年六个月, cite: t01-court-2017-01-24-wang-tianpu-verdict }
+  tier: 2
+  headline: 中国石油化工集团公司原总经理
+  ids: { wikidata: Q1108605 }
+  bio: >-
+    2001 年进入中石化党组，2011 年起任中石化集团总经理兼中石化股份副董事长、总裁。2015 年 4 月被查，9 月被开除党籍，2017 年 1 月一审以受贿、贪污罪被判有期徒刑十五年六个月。
+  positions:
+    - { title: 中国石油化工集团公司党组成员, sys: other, from: 2001-07, cite: t01-ccdi-2015-04-27-wang-tianpu-probe }
+    - { title: 中国石油化工股份有限公司副董事长、总裁, sys: other, cite: t01-court-2017-01-24-wang-tianpu-verdict }
+    - { title: 中国石油化工集团公司总经理, sys: other, from: 2011-08, to: 2015-04, cite: t01-ccdi-2015-04-27-wang-tianpu-probe }
+  cites: [wd-Q1108605, t01-ccdi-2015-04-27-wang-tianpu-probe, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p5, t01-court-2017-01-24-wang-tianpu-verdict]
+
+- id: xiao-tian
+  name: 肖天
+  gender: m
+  born: 1955
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑十年六个月；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-06-25, text: 中央纪委通报国家体育总局副局长肖天涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-jlsc-list-p2 }
+    - { date: 2015-09-24, text: 被开除党籍, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2016-12-26, text: 河南南阳中院一审以受贿罪判处有期徒刑十年六个月, cite: t01-chinacourt-2016-12-xiao-tian-verdict }
+  tier: 2
+  headline: 国家体育总局原副局长
+  ids: { wikidata: Q20267889 }
+  bio: >-
+    历任国家体育总局冬季运动管理中心主任、竞技体育司司长、局长助理，后任副局长。2015 年 6 月被查，9 月被开除党籍，2016 年 12 月一审以受贿罪被判有期徒刑十年六个月。
+  positions:
+    - { title: 国家体育总局冬季运动管理中心主任, sys: gov, cite: t01-chinacourt-2016-12-xiao-tian-verdict }
+    - { title: 国家体育总局竞技体育司司长, sys: gov, cite: t01-chinacourt-2016-12-xiao-tian-verdict }
+    - { title: 国家体育总局副局长, sys: gov, to: 2015-06, cite: t01-chinacourt-2016-12-xiao-tian-verdict }
+  cites: [wd-Q20267889, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-chinacourt-2016-12-xiao-tian-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: le-dake
+  name: 乐大克
+  gender: m
+  born: 1960
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2016 年一审获刑十三年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-06-26, text: 中央纪委通报西藏自治区人大常委会副主任乐大克涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-2015-06-26-le-dake-probe }
+    - { date: 2015-10-30, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2016-12-30, text: 河南郑州中院不公开审理后，一审以受贿罪判处有期徒刑十三年, cite: t01-people-2016-12-30-le-dake-verdict }
+  tier: 2
+  headline: 西藏自治区人大常委会原副主任、自治区国家安全厅原厅长
+  ids: { wikidata: Q20276054 }
+  bio: >-
+    曾任西藏自治区国家安全厅党委书记、厅长，后任自治区人大常委会副主任。2015 年 6 月被查，10 月被开除党籍和公职，2016 年 12 月因案涉国家秘密不公开审理，一审以受贿罪被判有期徒刑十三年。
+  positions:
+    - { title: 西藏自治区国家安全厅党委书记、厅长, sys: gov, place: 西藏, cite: t01-people-2016-12-30-le-dake-verdict }
+    - { title: 西藏自治区人大常委会副主任, sys: other, place: 西藏, to: 2015-06, cite: t01-people-2016-12-30-le-dake-verdict }
+  cites: [wd-Q20276054, t01-ccdi-2015-06-26-le-dake-probe, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-people-2016-12-30-le-dake-verdict, t01-people-2017-01-03-2016-verdicts]
+
+- id: xi-xiaoming
+  name: 奚晓明
+  gender: m
+  born: 1954-06
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2015-07-12, text: 中央纪委通报最高人民法院副院长、党组成员奚晓明接受组织调查, cite: t01-ccdi-2015-07-12-xi-xiaoming-probe }
+    - { date: 2015-09-29, text: 被开除党籍, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-02-16, text: 一审以受贿罪判处无期徒刑, cite: t01-people-2017-04-19-11-verdicts }
+  tier: 2
+  headline: 最高人民法院原副院长
+  ids: { wikidata: Q16336703 }
+  bio: >-
+    法学博士，曾任最高人民法院民二庭庭长，2004 年起任最高人民法院副院长。2015 年 7 月被查，9 月被开除党籍，2017 年 2 月一审以受贿罪被判无期徒刑。
+  positions:
+    - { title: 最高人民法院民事审判第二庭庭长, sys: gov, from: 2000-08, to: 2004-06, cite: t01-ccdi-2015-07-12-xi-xiaoming-probe }
+    - { title: 最高人民法院副院长, sys: gov, from: 2004-06, to: 2015-07, cite: t01-ccdi-2015-07-12-xi-xiaoming-probe }
+  cites: [wd-Q16336703, t01-ccdi-2015-07-12-xi-xiaoming-probe, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-people-2017-04-19-11-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: zhang-lijun
+  name: 张力军
+  gender: m
+  born: 1952-07
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2016 年一审获刑四年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-07-30, text: 中央纪委通报环境保护部原副部长、党组成员张力军接受组织调查, cite: t01-ccdi-2015-07-30-zhang-lijun-probe }
+    - { date: 2015-12-31, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2016-11-09, text: 一审以受贿罪判处有期徒刑四年, cite: t01-people-2017-01-03-2016-verdicts }
+  tier: 2
+  headline: 环境保护部原副部长
+  bio: >-
+    曾任吉林省环保局局长，2004 年起任国家环保总局副局长，2008 至 2013 年任环境保护部副部长。卸任后于 2015 年 7 月被查，12 月被开除党籍和公职，2016 年 11 月一审以受贿罪被判有期徒刑四年。
+  positions:
+    - { title: 吉林省环境保护局局长, sys: gov, place: 吉林, from: 1989, to: 1993, cite: t01-ccdi-2015-07-30-zhang-lijun-probe }
+    - { title: 国家环境保护总局副局长, sys: gov, from: 2004-12, to: 2008-03, cite: t01-ccdi-2015-07-30-zhang-lijun-probe }
+    - { title: 环境保护部副部长, sys: gov, from: 2008-03, to: 2013-02, cite: t01-ccdi-2015-07-30-zhang-lijun-probe }
+  cites: [t01-ccdi-2015-07-30-zhang-lijun-probe, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-people-2017-01-03-2016-verdicts]
+
+- id: gu-chunli
+  name: 谷春立
+  gender: m
+  born: 1957-07
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十二年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-08-01, text: 中央纪委通报吉林省副省长谷春立涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-jlsc-list-p2 }
+    - { date: 2015-10-30, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-03-31, text: 黑龙江哈尔滨中院一审以受贿罪判处有期徒刑十二年, cite: t01-xinhua-2017-03-31-gu-chunli-verdict }
+  tier: 2
+  headline: 吉林省原副省长
+  ids: { wikidata: Q15941175 }
+  bio: >-
+    历任沈阳铁西区委书记、鞍山市长和市委书记，后任吉林省副省长。2015 年 8 月被查，10 月被开除党籍和公职，2017 年 3 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 沈阳市委常委、铁西区委书记, sys: party, place: 辽宁, cite: t01-xinhua-2017-03-31-gu-chunli-verdict }
+    - { title: 鞍山市委书记, sys: party, place: 辽宁, cite: t01-xinhua-2017-03-31-gu-chunli-verdict }
+    - { title: 吉林省副省长, sys: gov, place: 吉林, to: 2015-08, cite: t01-xinhua-2017-03-31-gu-chunli-verdict }
+  cites: [wd-Q15941175, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-xinhua-2017-03-31-gu-chunli-verdict, t01-people-2017-04-19-11-verdicts]
+
+- id: deng-qilin
+  name: 邓崎琳
+  gender: m
+  born: 1951
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-08-29, text: 中央纪委通报武汉钢铁（集团）公司原董事长、党委书记邓崎琳被调查, cite: t01-ccdi-jlsc-list-p2 }
+    - { date: 2016-01-08, text: 被开除党籍, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-05-31, text: 广东佛山中院一审以受贿罪判处有期徒刑十五年, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 武汉钢铁（集团）公司原董事长、党委书记
+  ids: { wikidata: Q16907387 }
+  bio: >-
+    长期在武钢任职，历任副总经理、总经理、董事长和党委书记。2015 年 8 月被查，2016 年 1 月被开除党籍，2017 年 5 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 武汉钢铁（集团）公司总经理, sys: other, place: 湖北, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 武汉钢铁（集团）公司董事长、党委书记, sys: other, place: 湖北, cite: t01-people-2017-06-01-8-verdicts }
+  cites: [wd-Q16907387, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-people-2017-06-01-8-verdicts]
+
+- id: si-xianmin
+  name: 司献民
+  gender: m
+  born: 1957
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑十年六个月；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-11-04, text: 中央纪委通报南方航空集团公司党组副书记、总经理司献民接受调查, cite: t01-ccdi-jlsc-list-p2 }
+    - { date: 2016-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-04-28, text: 广东深圳中院一审以受贿罪判处有期徒刑十年六个月, cite: t01-qq-2017-04-28-si-xianmin-verdict }
+  tier: 2
+  headline: 中国南方航空集团公司原总经理
+  ids: { wikidata: Q10916566 }
+  bio: >-
+    任南航集团总经理、南航股份总经理和董事长。2015 年 11 月被查，2016 年 2 月被开除党籍和公职，2017 年 4 月一审以受贿罪被判有期徒刑十年六个月。
+  positions:
+    - { title: 中国南方航空集团公司总经理, sys: other, to: 2015-11, cite: t01-qq-2017-04-28-si-xianmin-verdict }
+    - { title: 中国南方航空股份有限公司董事长, sys: other, cite: t01-qq-2017-04-28-si-xianmin-verdict }
+  cites: [wd-Q10916566, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-qq-2017-04-28-si-xianmin-verdict]
+
+- id: bai-xueshan
+  name: 白雪山
+  gender: m
+  born: 1961-05
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-11-06, text: 中央纪委通报宁夏回族自治区政府副主席白雪山接受组织调查, cite: t01-ccdi-jlsc-list-p2 }
+    - { date: 2015-12-28, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-04-28, text: 陕西西安中院一审以受贿罪判处有期徒刑十五年, cite: t01-sina-2017-04-28-bai-xueshan-verdict }
+  tier: 2
+  headline: 宁夏回族自治区政府原副主席
+  ids: { wikidata: Q21405613 }
+  bio: >-
+    历任银川市长、吴忠市委书记，2013 年起任宁夏回族自治区政府副主席。2015 年 11 月被查，12 月被开除党籍和公职，2017 年 4 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 银川市市长, sys: gov, place: 宁夏, from: 2006-01, cite: t01-sina-2017-04-28-bai-xueshan-verdict }
+    - { title: 吴忠市委书记, sys: party, place: 宁夏, from: 2007-09, cite: t01-sina-2017-04-28-bai-xueshan-verdict }
+    - { title: 宁夏回族自治区政府副主席, sys: gov, place: 宁夏, from: 2013-01, to: 2015-11, cite: t01-sina-2017-04-28-bai-xueshan-verdict }
+  cites: [wd-Q21405613, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-sina-2017-04-28-bai-xueshan-verdict]
+
+- id: ai-baojun
+  name: 艾宝俊
+  gender: m
+  born: 1960-02
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十七年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-11-10, text: 中央纪委通报上海市委常委、副市长艾宝俊涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2015-11-10-ai-baojun-probe }
+    - { date: 2016-01-19, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-04-28, text: 福建漳州中院一审以受贿罪、贪污罪判处有期徒刑十七年, cite: t01-court-2017-04-28-ai-baojun-verdict }
+  tier: 2
+  headline: 上海市委原常委、副市长
+  ids: { wikidata: Q8920069 }
+  bio: >-
+    宝钢出身，曾任宝钢股份总经理，2007 年任上海市副市长，2012 年入市委常委，2013 年兼任上海自贸区管委会主任。2015 年 11 月被查，2016 年 1 月被开除党籍和公职，2017 年 4 月一审以受贿、贪污罪被判有期徒刑十七年。
+  positions:
+    - { title: 宝山钢铁股份有限公司总经理, sys: other, cite: t01-court-2017-04-28-ai-baojun-verdict }
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 2007-12, to: 2015-11, cite: t01-ccdi-2015-11-10-ai-baojun-probe }
+    - { title: 上海市委常委, sys: party, place: 上海, from: 2012-05, to: 2015-11, cite: t01-ccdi-2015-11-10-ai-baojun-probe }
+    - { title: 中国（上海）自由贸易试验区管委会主任, sys: gov, place: 上海, from: 2013-09, cite: t01-ccdi-2015-11-10-ai-baojun-probe }
+  cites: [wd-Q8920069, t01-ccdi-2015-11-10-ai-baojun-probe, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, t01-court-2017-04-28-ai-baojun-verdict]
+
+- id: gai-ruyin
+  name: 盖如垠
+  gender: m
+  born: 1953-03
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十四年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-12-08, text: 中央纪委通报黑龙江省人大常委会党组书记、副主任盖如垠接受组织调查, cite: t01-ccdi-2015-12-08-gai-ruyin-probe }
+    - { date: 2016-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
+    - { date: 2017-04-13, text: 一审以受贿罪判处有期徒刑十四年, cite: t01-people-2017-04-19-11-verdicts }
+  tier: 2
+  headline: 黑龙江省人大常委会原党组书记、副主任
+  ids: { wikidata: Q9319045 }
+  bio: >-
+    历任大庆市委书记、黑龙江省副省长、哈尔滨市委书记，2013 年起任黑龙江省人大常委会党组书记、副主任。2015 年 12 月被查，2016 年 2 月被开除党籍和公职，2017 年 4 月一审以受贿罪被判有期徒刑十四年。
+  positions:
+    - { title: 大庆市委书记, sys: party, place: 黑龙江, from: 2004-10, to: 2007-04, cite: t01-ccdi-2015-12-08-gai-ruyin-probe }
+    - { title: 黑龙江省副省长, sys: gov, place: 黑龙江, from: 2008-02, to: 2009-08, cite: t01-ccdi-2015-12-08-gai-ruyin-probe }
+    - { title: 哈尔滨市委书记, sys: party, place: 黑龙江, from: 2009-08, to: 2012-01, cite: t01-ccdi-2015-12-08-gai-ruyin-probe }
+    - { title: 黑龙江省人大常委会党组书记、副主任, sys: other, place: 黑龙江, from: 2013-01, to: 2015-12, cite: t01-ccdi-2015-12-08-gai-ruyin-probe }
+  cites: [wd-Q9319045, t01-ccdi-2015-12-08-gai-ruyin-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p4, t01-people-2017-04-19-11-verdicts]
+
+- id: chang-xiaobing
+  name: 常小兵
+  gender: m
+  born: 1957-03
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑六年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-12-27, text: 中央纪委通报中国电信党组书记、董事长常小兵涉嫌严重违纪被调查, cite: t01-ccdi-2015-12-27-chang-xiaobing-probe }
+    - { date: 2016-07-11, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 河北保定中院一审以受贿罪判处有期徒刑六年, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 中国电信集团公司原董事长、党组书记
+  ids: { wikidata: Q11060326 }
+  bio: >-
+    长期执掌中国联通，任联通董事长，2015 年 8 月调任中国电信董事长，数月后被查。2016 年 7 月被开除党籍，2017 年 5 月一审以受贿罪被判有期徒刑六年。
+  positions:
+    - { title: 中国联合网络通信集团有限公司董事长, sys: other, to: 2015-08, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 中国电信集团公司董事长、党组书记, sys: other, from: 2015-08, to: 2015-12, cite: t01-ccdi-2015-12-27-chang-xiaobing-probe }
+  cites: [wd-Q11060326, t01-ccdi-2015-12-27-chang-xiaobing-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: zhao-liping
+  name: 赵黎平
+  gender: m
+  born: 1951-08
+  died: 2017-05-26
+  roles: [prov, tiger]
+  status: dead
+  statusNote: 以故意杀人等罪被判死刑，2017 年 5 月 26 日在太原被执行死刑，是十八大后首个被执行死刑的省部级官员。
+  fall:
+    - { date: 2015-07-31, text: 被开除党籍, cite: t01-ccdi-djcf-list-p5 }
+    - { date: 2016-11-11, text: 山西太原中院一审以故意杀人罪、受贿罪、非法持有枪支弹药罪、非法储存爆炸物罪判处死刑, cite: t01-chinacourt-2016-11-zhao-liping-verdict }
+    - { date: 2017-05-26, text: 太原中院遵照最高法院院长签发的执行死刑命令，对其执行死刑, cite: t01-people-2017-12-21-39-verdicts }
+  tier: 2
+  headline: 内蒙古自治区政协原副主席、自治区公安厅原厅长
+  ids: { wikidata: Q19655381 }
+  bio: >-
+    2008 至 2010 年任内蒙古自治区公安厅厅长，后任自治区政协副主席。2015 年 3 月在赤峰持枪杀人，7 月被开除党籍，2016 年 11 月一审以故意杀人、受贿等罪被判死刑，2017 年 5 月被执行。
+  positions:
+    - { title: 内蒙古自治区公安厅厅长, sys: gov, place: 内蒙古, from: 2008, to: 2010, cite: t01-chinacourt-2016-11-zhao-liping-verdict }
+    - { title: 内蒙古自治区政协副主席, sys: other, place: 内蒙古, cite: t01-ccdi-djcf-list-p5 }
+  cites: [wd-Q19655381, t01-ccdi-djcf-list-p5, t01-chinacourt-2016-11-zhao-liping-verdict, t01-people-2017-01-03-2016-verdicts, t01-people-2017-12-21-39-verdicts]
+
+# ---- 2016 ----
+- id: chen-xuefeng
+  name: 陈雪枫
+  gender: m
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-01-16, text: 中央纪委通报河南省委常委、洛阳市委书记陈雪枫接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-06-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 湖北荆州中院一审以受贿罪、贪污罪、国有公司人员滥用职权罪判处无期徒刑, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 河南省委原常委、洛阳市委原书记
+  bio: >-
+    煤炭企业出身，曾任永城煤电集团董事长、河南煤业化工集团董事长，后任河南省副省长、省委常委兼洛阳市委书记。2016 年 1 月被查，6 月被开除党籍和公职，2017 年 5 月一审被判无期徒刑。
+  positions:
+    - { title: 河南煤业化工集团有限责任公司董事长, sys: other, place: 河南, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 河南省副省长, sys: gov, place: 河南, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 河南省委常委、洛阳市委书记, sys: party, place: 河南, to: 2016-01, cite: t01-ccdi-jlsc-list-p1 }
+  cites: [t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts]
+
+- id: gong-qinggai
+  name: 龚清概
+  gender: m
+  born: 1958-06
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-01-19, text: 中央纪委通报中共中央台办、国务院台办副主任龚清概接受组织调查, cite: t01-ccdi-2016-01-19-gong-qinggai-probe }
+    - { date: 2016-04-21, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-04-20, text: 河南安阳中院一审以受贿罪判处有期徒刑十五年, cite: t01-court-2017-04-20-gong-qinggai-verdict }
+  tier: 2
+  headline: 中央台办、国务院台办原副主任
+  ids: { wikidata: Q16908402 }
+  bio: >-
+    历任晋江市长、市委书记、南平市长和平潭综合实验区党工委书记，2013 年调任中央台办、国台办副主任。2016 年 1 月被查，4 月被开除党籍，2017 年 4 月一审以受贿罪被判有期徒刑十五年。
+  positions:
+    - { title: 晋江市委书记, sys: party, place: 福建, cite: t01-court-2017-04-20-gong-qinggai-verdict }
+    - { title: 南平市市长, sys: gov, place: 福建, from: 2007-06, to: 2010-02, cite: t01-ccdi-2016-01-19-gong-qinggai-probe }
+    - { title: 福建省委平潭综合实验区工委书记兼管委会主任, sys: party, place: 福建, from: 2010-02, cite: t01-ccdi-2016-01-19-gong-qinggai-probe }
+    - { title: 中央台办、国务院台办副主任, sys: party, from: 2013-10, to: 2016-01, cite: t01-ccdi-2016-01-19-gong-qinggai-probe }
+  cites: [wd-Q16908402, t01-ccdi-2016-01-19-gong-qinggai-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-court-2017-04-20-gong-qinggai-verdict]
+
+- id: wang-baoan
+  name: 王保安
+  gender: m
+  born: 1963-12
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-01-26, text: 中央纪委通报国家统计局党组书记、局长王保安接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-08-26, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 河北张家口中院一审以受贿罪判处无期徒刑, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 国家统计局原局长
+  ids: { wikidata: Q9312852 }
+  bio: >-
+    财政系统出身，历任财政部综合司司长、部长助理、副部长，后任国家统计局局长。2016 年 1 月被查，8 月被开除党籍，2017 年 5 月一审以受贿罪被判无期徒刑。
+  positions:
+    - { title: 财政部综合司司长, sys: gov, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 财政部副部长, sys: gov, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 国家统计局党组书记、局长, sys: gov, to: 2016-01, cite: t01-people-2017-06-01-8-verdicts }
+  cites: [wd-Q9312852, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: liu-zhigeng
+  name: 刘志庚
+  gender: m
+  born: 1956
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-02-04, text: 中央纪委通报广东省副省长刘志庚涉嫌严重违纪，接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-04-18, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 南宁铁路运输中级法院一审以受贿罪判处无期徒刑, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 广东省原副省长
+  ids: { wikidata: Q9110818 }
+  bio: >-
+    广东省副省长任上于 2016 年 2 月被查，4 月被开除党籍。2017 年 5 月一审以受贿罪被判无期徒刑，法院查明其受贿超过九千八百万元。
+  positions:
+    - { title: 广东省副省长, sys: gov, place: 广东, to: 2016-02, cite: t01-ccdi-jlsc-list-p1 }
+  cites: [wd-Q9110818, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: cai-xiyou
+  name: 蔡希有
+  gender: m
+  born: 1961
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十二年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-02-06, text: 中央纪委通报中化集团公司党组成员、董事、总经理蔡希有被调查, cite: t01-ccdi-2016-02-06-cai-xiyou-probe }
+    - { date: 2017-07-06, text: 中央纪委公布对其的处分, cite: t01-ccdi-djcf-list-p1 }
+    - { date: 2018-12-26, text: 山东泰安中院不公开审理后，一审以受贿罪判处有期徒刑十二年, cite: t01-people-2018-12-26-cai-xiyou-verdict }
+  tier: 2
+  headline: 中国中化集团公司原总经理
+  ids: { wikidata: Q28409933 }
+  bio: >-
+    长期在中石化系统任职，曾任中国国际石油化工联合公司总经理、中石化股份副总裁和中石化集团党组成员，2014 年转任中化集团总经理。2016 年 2 月被查，2018 年 12 月因案涉国家秘密不公开审理，一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 中国国际石油化工联合有限责任公司总经理, sys: other, cite: t01-people-2018-12-26-cai-xiyou-verdict }
+    - { title: 中国石油化工股份有限公司副总裁, sys: other, cite: t01-people-2018-12-26-cai-xiyou-verdict }
+    - { title: 中国中化集团公司总经理, sys: other, from: 2014-08, to: 2016-02, cite: t01-ccdi-2016-02-06-cai-xiyou-probe }
+  cites: [wd-Q28409933, t01-ccdi-2016-02-06-cai-xiyou-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p1, t01-people-2018-12-26-cai-xiyou-verdict]
+
+- id: lu-ziyue
+  name: 卢子跃
+  gender: m
+  born: 1962
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-03-16, text: 中央纪委通报浙江省宁波市委副书记、市长卢子跃接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-06-21, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 广东珠海中院一审以受贿罪判处无期徒刑, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 浙江省宁波市原市长
+  ids: { wikidata: Q13902293 }
+  bio: >-
+    历任义乌市长、丽水市长和市委书记、浙江省副省长，后任宁波市委副书记、市长。2016 年 3 月被查，6 月被开除党籍，2017 年 5 月一审以受贿罪被判无期徒刑，受贿近一亿五千万元。
+  positions:
+    - { title: 丽水市委书记, sys: party, place: 浙江, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 浙江省副省长, sys: gov, place: 浙江, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 宁波市委副书记、市长, sys: gov, place: 浙江, to: 2016-03, cite: t01-people-2017-06-01-8-verdicts }
+  cites: [wd-Q13902293, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: wang-yang-liaoning
+  name: 王阳
+  gender: m
+  born: 1957
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十六年六个月；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-03-16, text: 中央纪委通报辽宁省人大常委会副主任王阳接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-06-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 黑龙江大庆中院一审以受贿罪、破坏选举罪判处有期徒刑十六年六个月, cite: t01-court-2017-05-31-wang-yang-verdict }
+  tier: 2
+  headline: 辽宁省人大常委会原副主任
+  ids: { wikidata: Q17041160 }
+  bio: >-
+    历任抚顺、鞍山市长和阜新市委书记，2013 年初靠拉票贿选当选辽宁省人大常委会副主任，是辽宁贿选案的主要涉案人之一。2016 年 3 月被查，6 月被开除党籍和公职，2017 年 5 月一审以受贿、破坏选举罪被判有期徒刑十六年六个月。
+  positions:
+    - { title: 抚顺市市长, sys: gov, place: 辽宁, cite: t01-court-2017-05-31-wang-yang-verdict }
+    - { title: 鞍山市市长, sys: gov, place: 辽宁, cite: t01-court-2017-05-31-wang-yang-verdict }
+    - { title: 阜新市委书记, sys: party, place: 辽宁, to: 2013-01, cite: t01-court-2017-05-31-wang-yang-verdict }
+    - { title: 辽宁省人大常委会副主任, sys: other, place: 辽宁, from: 2013-01, to: 2016-03, cite: t01-court-2017-05-31-wang-yang-verdict }
+  cites: [wd-Q17041160, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-court-2017-05-31-wang-yang-verdict, t01-people-2017-06-01-8-verdicts, t01-people-2017-12-21-39-verdicts]
+
+- id: li-jia-zhuhai
+  name: 李嘉
+  gender: m
+  born: 1964-09
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十三年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-03-23, text: 中央纪委通报广东省委常委、珠海市委书记李嘉接受组织调查, cite: t01-ccdi-2016-03-23-li-jia-probe }
+    - { date: 2017-03-08, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2018-01-12, text: 福建漳州中院一审以受贿罪判处有期徒刑十三年, cite: t01-people-2018-01-12-li-jia-verdict }
+  tier: 2
+  headline: 广东省委原常委、珠海市委原书记
+  bio: >-
+    历任梅州市长、市委书记，2012 年任珠海市委书记并入广东省委常委。2016 年 3 月被查，2017 年 3 月被开除党籍和公职，2018 年 1 月一审以受贿罪被判有期徒刑十三年。
+  positions:
+    - { title: 梅州市市长, sys: gov, place: 广东, from: 2007-01, cite: t01-ccdi-2016-03-23-li-jia-probe }
+    - { title: 梅州市委书记, sys: party, place: 广东, from: 2011-01, cite: t01-ccdi-2016-03-23-li-jia-probe }
+    - { title: 珠海市委书记, sys: party, place: 广东, from: 2012-02, to: 2016-03, cite: t01-ccdi-2016-03-23-li-jia-probe }
+    - { title: 广东省委常委, sys: party, place: 广东, from: 2012-05, to: 2016-03, cite: t01-ccdi-2016-03-23-li-jia-probe }
+  cites: [t01-ccdi-2016-03-23-li-jia-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p2, t01-people-2018-01-12-li-jia-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: yang-luyu
+  name: 杨鲁豫
+  gender: m
+  born: 1957-03
+  roles: [tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十四年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-04-06, text: 中央纪委通报山东省济南市委副书记、市长杨鲁豫接受组织调查, cite: t01-ccdi-2016-04-06-yang-luyu-probe }
+    - { date: 2016-07-28, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-05, text: 河南平顶山中院一审以受贿罪判处有期徒刑十四年, cite: t01-xinhua-2017-05-05-yang-luyu-verdict }
+  tier: 2
+  headline: 山东省济南市原市长
+  ids: { wikidata: Q9080971 }
+  bio: >-
+    曾任泰安市委书记，2012 年起任济南市委副书记、市长。2016 年 4 月被查，7 月被开除党籍，2017 年 5 月一审以受贿罪被判有期徒刑十四年。
+  positions:
+    - { title: 泰安市委书记, sys: party, place: 山东, from: 2008-02, cite: t01-ccdi-2016-04-06-yang-luyu-probe }
+    - { title: 济南市委副书记、市长, sys: gov, place: 山东, from: 2012-03, to: 2016-04, cite: t01-ccdi-2016-04-06-yang-luyu-probe }
+  cites: [wd-Q9080971, t01-ccdi-2016-04-06-yang-luyu-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-xinhua-2017-05-05-yang-luyu-verdict]
+
+- id: su-hongzhang
+  name: 苏宏章
+  gender: m
+  born: 1959
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十四年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-04-06, text: 中央纪委通报辽宁省委常委、政法委书记苏宏章接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-07-25, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05, text: 黑龙江哈尔滨中院一审以受贿罪、行贿罪判处有期徒刑十四年, cite: t01-chinacourt-2017-05-su-hongzhang-verdict }
+  tier: 2
+  headline: 辽宁省委原常委、政法委原书记
+  ids: { wikidata: Q9043725 }
+  bio: >-
+    曾任沈阳市委副书记，后任辽宁省委常委、政法委书记，在省委换届中行贿以求当选。2016 年 4 月被查，7 月被开除党籍和公职，2017 年 5 月一审以受贿、行贿罪被判有期徒刑十四年。
+  positions:
+    - { title: 沈阳市委副书记, sys: party, place: 辽宁, cite: t01-chinacourt-2017-05-su-hongzhang-verdict }
+    - { title: 辽宁省委常委、政法委书记, sys: party, place: 辽宁, to: 2016-04, cite: t01-chinacourt-2017-05-su-hongzhang-verdict }
+  cites: [wd-Q9043725, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-chinacourt-2017-05-su-hongzhang-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: li-chengyun
+  name: 李成云
+  gender: m
+  born: 1955
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑十年；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2016-04-09, text: 中央纪委通报四川省原副省长李成云接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
+    - { date: 2016-07-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-31, text: 贵州六盘水中院一审以受贿罪判处有期徒刑十年, cite: t01-people-2017-06-01-8-verdicts }
+  tier: 2
+  headline: 四川省原副省长
+  ids: { wikidata: Q8994966 }
+  bio: >-
+    曾任德阳市委书记、四川省副省长，后任四川省决策咨询委员会副主任。2016 年 4 月被查，7 月被开除党籍和公职，2017 年 5 月一审以受贿罪被判有期徒刑十年。
+  positions:
+    - { title: 德阳市委书记, sys: party, place: 四川, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 四川省副省长, sys: gov, place: 四川, cite: t01-people-2017-06-01-8-verdicts }
+    - { title: 四川省决策咨询委员会副主任, sys: other, place: 四川, cite: t01-people-2017-06-01-8-verdicts }
+  cites: [wd-Q8994966, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-06-01-8-verdicts]
+
+- id: yang-zhenchao
+  name: 杨振超
+  gender: m
+  born: 1960-08
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-05-24, text: 中央纪委通报安徽省副省长杨振超涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2016-05-24-yang-zhenchao-probe }
+    - { date: 2016-07-26, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-03, text: 上海一中院一审以受贿罪、贪污罪、滥用职权罪判处无期徒刑, cite: t01-court-2017-05-03-yang-zhenchao-verdict }
+  tier: 2
+  headline: 安徽省原副省长
+  ids: { wikidata: Q15943120 }
+  bio: >-
+    曾任安徽省国资委主任、淮南市委书记，2013 年起任安徽省副省长。2016 年 5 月被查，7 月被开除党籍，2017 年 5 月一审以受贿、贪污、滥用职权罪被判无期徒刑。
+  positions:
+    - { title: 安徽省国资委主任, sys: gov, place: 安徽, from: 2004-02, cite: t01-ccdi-2016-05-24-yang-zhenchao-probe }
+    - { title: 淮南市委书记, sys: party, place: 安徽, from: 2007-07, cite: t01-ccdi-2016-05-24-yang-zhenchao-probe }
+    - { title: 安徽省副省长, sys: gov, place: 安徽, from: 2013-01, to: 2016-05, cite: t01-ccdi-2016-05-24-yang-zhenchao-probe }
+  cites: [wd-Q15943120, t01-ccdi-2016-05-24-yang-zhenchao-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-court-2017-05-03-yang-zhenchao-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: yao-zhongmin
+  name: 姚中民
+  gender: m
+  born: 1952
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十四年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-06-06, text: 中央纪委通报国家开发银行原监事长姚中民涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2016-06-06-yao-zhongmin-probe }
+    - { date: 2016-09-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-08-04, text: 河北保定中院一审以受贿罪判处有期徒刑十四年, cite: t01-people-2017-08-05-yao-zhongmin-verdict }
+  tier: 2
+  headline: 国家开发银行原党委副书记、监事长
+  ids: { wikidata: Q24836411 }
+  bio: >-
+    历任国家开发银行党委副书记、副行长，国开行改制后任党委副书记、监事长，已退休。2016 年 6 月被查，9 月被开除党籍和公职，2017 年 8 月一审以受贿罪被判有期徒刑十四年。
+  positions:
+    - { title: 国家开发银行党委副书记、副行长, sys: other, cite: t01-people-2017-08-05-yao-zhongmin-verdict }
+    - { title: 国家开发银行股份有限公司党委副书记、监事长, sys: other, cite: t01-people-2017-08-05-yao-zhongmin-verdict }
+  cites: [wd-Q24836411, t01-ccdi-2016-06-06-yao-zhongmin-probe, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p3, t01-people-2017-08-05-yao-zhongmin-verdict]
+
+- id: yin-hailin
+  name: 尹海林
+  gender: m
+  born: 1960-04
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年被开除党籍、行政撤职，降为副处级非领导职务，未见移送司法的报道。
+  fall:
+    - { date: 2016-08-22, text: 中央纪委通报天津市副市长尹海林涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2016-08-22-yin-hailin-probe }
+    - { date: 2017-01-20, text: 被开除党籍，行政撤职，降为副处级非领导职务, cite: t01-ccdi-2017-01-20-yin-hailin-expel }
+  tier: 2
+  headline: 天津市原副市长
+  ids: { wikidata: Q19849314 }
+  bio: >-
+    规划系统出身，2007 年任天津市规划局局长，2012 年 5 月起任天津市副市长。2016 年 8 月被查，2017 年 1 月被开除党籍、行政撤职并降为副处级非领导职务，未见移送司法。
+  positions:
+    - { title: 天津市规划局局长, sys: gov, place: 天津, from: 2007, cite: t01-ccdi-2016-08-22-yin-hailin-probe }
+    - { title: 天津市副市长, sys: gov, place: 天津, from: 2012-05, to: 2016-08, cite: t01-ccdi-2016-08-22-yin-hailin-probe }
+  cites: [wd-Q19849314, t01-ccdi-2016-08-22-yin-hailin-probe, t01-ccdi-2017-01-20-yin-hailin-expel, t01-ccdi-jlsc-list-p1, t01-ccdi-djcf-list-p2]
+
+- id: zheng-yuzhuo
+  name: 郑玉焯
+  gender: m
+  born: 1955
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑三年六个月；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2016-08-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
+    - { date: 2017-05-08, text: 山东淄博中院一审以破坏选举罪、受贿罪判处有期徒刑三年六个月, cite: t01-people-2017-05-08-zheng-yuzhuo-verdict }
+  tier: 2
+  headline: 辽宁省人大常委会原副主任、辽宁省财政厅原厅长
+  ids: { wikidata: Q28411558 }
+  bio: >-
+    辽宁省财政厅厅长任上，为当选省人大常委会副主任，利用职权向 76 名省人大代表拉票，是辽宁贿选案涉案人之一。2016 年 8 月被开除党籍和公职，2017 年 5 月一审以破坏选举、受贿罪被判有期徒刑三年六个月。
+  positions:
+    - { title: 辽宁省财政厅党组书记、厅长, sys: gov, place: 辽宁, cite: t01-people-2017-05-08-zheng-yuzhuo-verdict }
+    - { title: 辽宁省人大常委会副主任, sys: other, place: 辽宁, from: 2013-01, cite: t01-ccdi-djcf-list-p3 }
+  cites: [wd-Q28411558, t01-ccdi-djcf-list-p3, t01-people-2017-05-08-zheng-yuzhuo-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: chen-shulong
+  name: 陈树隆
+  gender: m
+  born: 1962-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2019 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2016-11-08, text: 中央纪委通报安徽省副省长陈树隆涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2016-11-08-chen-shulong-probe }
+    - { date: 2017-05-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2019-04-03, text: 福建厦门中院一审以受贿罪、滥用职权罪、内幕交易、泄露内幕信息罪判处无期徒刑, cite: t01-court-2019-04-03-chen-shulong-verdict }
+  tier: 2
+  headline: 安徽省委原常委、副省长
+  ids: { wikidata: Q8940992 }
+  bio: >-
+    历任安徽省信托投资公司总经理、合肥副市长、芜湖市长和市委书记，后任安徽省委常委、秘书长和副省长。2016 年 11 月被查，2017 年 5 月被开除党籍和公职，2019 年 4 月一审以受贿、滥用职权、内幕交易等罪被判无期徒刑。
+  positions:
+    - { title: 芜湖市市长, sys: gov, place: 安徽, cite: t01-court-2019-04-03-chen-shulong-verdict }
+    - { title: 芜湖市委书记, sys: party, place: 安徽, cite: t01-court-2019-04-03-chen-shulong-verdict }
+    - { title: 安徽省委常委、秘书长, sys: party, place: 安徽, cite: t01-court-2019-04-03-chen-shulong-verdict }
+    - { title: 安徽省副省长, sys: gov, place: 安徽, to: 2016-11, cite: t01-court-2019-04-03-chen-shulong-verdict }
+  cites: [wd-Q8940992, t01-ccdi-2016-11-08-chen-shulong-probe, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-court-2019-04-03-chen-shulong-verdict]
+
+- id: zhang-wenxiong
+  name: 张文雄
+  gender: m
+  born: 1962
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-11-08, text: 中央纪委通报湖南省委常委、宣传部部长张文雄涉嫌严重违纪，接受组织调查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-02-27, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2018-08-16, text: 广西桂林中院一审以受贿罪、巨额财产来源不明罪判处有期徒刑十五年, cite: t01-ccdi-2018-08-16-zhang-wenxiong-verdict }
+  tier: 2
+  headline: 湖南省委原常委、宣传部原部长
+  ids: { wikidata: Q9091132 }
+  bio: >-
+    历任湖南省委副秘书长、怀化和衡阳市委书记，后任湖南省委常委、宣传部部长。2016 年 11 月被查，2017 年 2 月被开除党籍和公职，2018 年 8 月一审以受贿、巨额财产来源不明罪被判有期徒刑十五年。
+  positions:
+    - { title: 怀化市委书记, sys: party, place: 湖南, cite: t01-ccdi-2018-08-16-zhang-wenxiong-verdict }
+    - { title: 衡阳市委书记, sys: party, place: 湖南, cite: t01-ccdi-2018-08-16-zhang-wenxiong-verdict }
+    - { title: 湖南省委常委、宣传部部长, sys: party, place: 湖南, to: 2016-11, cite: t01-ccdi-2018-08-16-zhang-wenxiong-verdict }
+  cites: [wd-Q9091132, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-ccdi-2018-08-16-zhang-wenxiong-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: wu-tianjun
+  name: 吴天君
+  gender: m
+  born: 1957-02
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十一年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-11-11, text: 中央纪委通报河南省委原常委、政法委书记吴天君接受组织调查, cite: t01-ccdi-2016-11-11-wu-tianjun-probe }
+    - { date: 2017-01-23, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2017-08-04, text: 湖北襄阳中院一审以受贿罪判处有期徒刑十一年, cite: t01-people-2017-08-05-wu-tianjun-verdict }
+  tier: 2
+  headline: 河南省委原常委、政法委原书记、郑州市委原书记
+  ids: { wikidata: Q9120391 }
+  bio: >-
+    历任新乡市长、市委书记，2011 年入河南省委常委，次年起任郑州市委书记，2016 年 5 月改任省委政法委书记。2016 年 11 月被查，2017 年 1 月被开除党籍和公职，8 月一审以受贿罪被判有期徒刑十一年。
+  positions:
+    - { title: 新乡市市长, sys: gov, place: 河南, from: 2001-12, cite: t01-ccdi-2016-11-11-wu-tianjun-probe }
+    - { title: 新乡市委书记, sys: party, place: 河南, from: 2006-03, cite: t01-ccdi-2016-11-11-wu-tianjun-probe }
+    - { title: 河南省委常委、郑州市委书记, sys: party, place: 河南, from: 2012-02, to: 2016-05, cite: t01-ccdi-2016-11-11-wu-tianjun-probe }
+    - { title: 河南省委常委、政法委书记, sys: party, place: 河南, from: 2016-05, to: 2016-11, cite: t01-ccdi-2016-11-11-wu-tianjun-probe }
+  cites: [wd-Q9120391, t01-ccdi-2016-11-11-wu-tianjun-probe, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-people-2017-08-05-wu-tianjun-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: lu-enguang
+  name: 卢恩光
+  gender: m
+  born: 1958
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十二年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2016-12-16, text: 中央纪委通报司法部党组成员、政治部主任卢恩光涉嫌严重违纪，接受组织调查, cite: t01-ccdi-2016-12-16-lu-enguang-probe }
+    - { date: 2017-05-25, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2018-10-30, text: 河南安阳中院一审以行贿罪、单位行贿罪判处有期徒刑十二年, cite: t01-people-2018-10-30-lu-enguang-verdict }
+  tier: 2
+  headline: 司法部原党组成员、政治部原主任
+  ids: { wikidata: Q28416780 }
+  bio: >-
+    山东阳谷乡镇企业主出身，经出版、残联和人社部系统转入司法部，2015 年 11 月任司法部政治部主任。2016 年 12 月被查，2017 年 5 月被开除党籍和公职，2018 年 10 月一审以行贿、单位行贿罪被判有期徒刑十二年，法院查明他为违规入党、职务提拔等事向多名国家工作人员行贿。
+  positions:
+    - { title: 中国残疾人福利基金会副理事长兼秘书长, sys: other, to: 2007-06, cite: t01-ccdi-2016-12-16-lu-enguang-probe }
+    - { title: 司法部政治部副主任, sys: gov, from: 2009-05, to: 2015-11, cite: t01-ccdi-2016-12-16-lu-enguang-probe }
+    - { title: 司法部党组成员、政治部主任, sys: gov, from: 2015-11, to: 2016-12, cite: t01-ccdi-2016-12-16-lu-enguang-probe }
+  cites: [wd-Q28416780, t01-ccdi-2016-12-16-lu-enguang-probe, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-people-2018-10-30-lu-enguang-verdict]
+
+# ---- 2017 ----
+- id: wang-yincheng
+  name: 王银成
+  gender: m
+  born: 1960
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十一年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2017-02-23, text: 中央纪委通报中国人民保险集团股份有限公司党委副书记、副董事长、总裁王银成接受组织审查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-07-05, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p1 }
+    - { date: 2018-05-24, text: 福建福州中院一审以受贿罪判处有期徒刑十一年, cite: t01-sina-2018-05-24-wang-yincheng-verdict }
+  tier: 2
+  headline: 中国人民保险集团原副董事长、总裁
+  ids: { wikidata: Q30946002 }
+  bio: >-
+    历任人保财险副总裁、党委书记、总裁，后任中国人保集团党委副书记、副董事长、总裁。2017 年 2 月被查，7 月被开除党籍和公职，2018 年 5 月一审以受贿罪被判有期徒刑十一年。
+  positions:
+    - { title: 中国人民财产保险股份有限公司总裁, sys: other, cite: t01-sina-2018-05-24-wang-yincheng-verdict }
+    - { title: 中国人民保险集团党委副书记、总裁, sys: other, to: 2017-02, cite: t01-sina-2018-05-24-wang-yincheng-verdict }
+  cites: [wd-Q30946002, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p1, t01-sina-2018-05-24-wang-yincheng-verdict]
+
+- id: li-wenke
+  name: 李文科
+  gender: m
+  born: 1956
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十六年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2017-02-28, text: 中央纪委通报辽宁省人大常委会副主任李文科涉嫌严重违纪，接受组织审查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-05-10, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2018-09-13, text: 吉林通化中院一审以受贿罪判处有期徒刑十六年, cite: t01-ce-2018-09-13-li-wenke-verdict }
+  tier: 2
+  headline: 辽宁省人大常委会原副主任
+  ids: { wikidata: Q28858143 }
+  bio: >-
+    历任辽宁省农业厅厅长、营口市长、铁岭市委书记，后任辽宁省人大常委会副主任。2017 年 2 月被查，5 月被开除党籍和公职，2018 年 9 月一审以受贿罪被判有期徒刑十六年。
+  positions:
+    - { title: 辽宁省农业厅厅长, sys: gov, place: 辽宁, cite: t01-ce-2018-09-13-li-wenke-verdict }
+    - { title: 营口市市长, sys: gov, place: 辽宁, cite: t01-ce-2018-09-13-li-wenke-verdict }
+    - { title: 铁岭市委书记, sys: party, place: 辽宁, cite: t01-ce-2018-09-13-li-wenke-verdict }
+    - { title: 辽宁省人大常委会副主任, sys: other, place: 辽宁, to: 2017-02, cite: t01-ce-2018-09-13-li-wenke-verdict }
+  cites: [wd-Q28858143, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-ce-2018-09-13-li-wenke-verdict, t01-people-2017-12-21-39-verdicts]
+
+- id: chen-xu-shanghai
+  name: 陈旭
+  gender: m
+  born: 1952-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-03-01, text: 中央纪委通报上海市人民检察院原检察长陈旭涉嫌严重违纪，接受组织审查, cite: t01-ccdi-2017-03-01-chen-xu-probe }
+    - { date: 2017-05-25, text: 被开除党籍, cite: t01-ccdi-djcf-list-p2 }
+    - { date: 2018-10-25, text: 广西南宁中院一审以受贿罪判处无期徒刑, cite: t01-court-2018-10-25-chen-xu-verdict }
+  tier: 2
+  headline: 上海市人民检察院原检察长
+  bio: >-
+    历任上海市委政法委副书记、市委副秘书长，2008 年起任上海市人民检察院检察长，卸任后于 2017 年 3 月被查。同年 5 月被开除党籍，2018 年 10 月一审以受贿罪被判无期徒刑。与中央委员陈旭同名，并非一人。
+  positions:
+    - { title: 上海市委政法委副书记, sys: party, place: 上海, cite: t01-court-2018-10-25-chen-xu-verdict }
+    - { title: 上海市委副秘书长, sys: party, place: 上海, cite: t01-court-2018-10-25-chen-xu-verdict }
+    - { title: 上海市人民检察院检察长, sys: gov, place: 上海, from: 2008-02, cite: t01-ccdi-2017-03-01-chen-xu-probe }
+  cites: [t01-ccdi-2017-03-01-chen-xu-probe, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p2, t01-court-2018-10-25-chen-xu-verdict]
+
+- id: zhou-chunyu
+  name: 周春雨
+  gender: m
+  born: 1968
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2019 年一审获刑二十年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2017-04-26, text: 中央纪委通报安徽省副省长周春雨涉嫌严重违纪，接受组织审查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-07-05, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p1 }
+    - { date: 2019-02-22, text: 山东济南中院一审以受贿罪、隐瞒境外存款罪、滥用职权罪、内幕交易罪判处有期徒刑二十年, cite: t01-sina-2019-02-22-zhou-chunyu-verdict }
+  tier: 2
+  headline: 安徽省原副省长
+  ids: { wikidata: Q28413709 }
+  bio: >-
+    历任马鞍山市长、蚌埠市长和市委书记，后任安徽省副省长。2017 年 4 月被查，7 月被开除党籍和公职，2019 年 2 月一审以受贿、内幕交易等罪被判有期徒刑二十年。
+  positions:
+    - { title: 马鞍山市市长, sys: gov, place: 安徽, cite: t01-sina-2019-02-22-zhou-chunyu-verdict }
+    - { title: 蚌埠市委书记, sys: party, place: 安徽, cite: t01-sina-2019-02-22-zhou-chunyu-verdict }
+    - { title: 安徽省副省长, sys: gov, place: 安徽, to: 2017-04, cite: t01-ccdi-jlsc-list-p0 }
+  cites: [wd-Q28413709, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p1, t01-sina-2019-02-22-zhou-chunyu-verdict]
+
+- id: wei-minzhou
+  name: 魏民洲
+  gender: m
+  born: 1956-08-24
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审被判无期徒刑；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-05-22, text: 中央纪委通报陕西省人大常委会党组副书记、副主任魏民洲接受组织审查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-08-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p1 }
+    - { date: 2018-11-20, text: 湖南郴州中院一审以受贿罪判处无期徒刑, cite: t01-ifeng-2018-11-20-wei-minzhou-verdict }
+  tier: 2
+  headline: 陕西省人大常委会原副主任、西安市委原书记
+  ids: { wikidata: Q9058010 }
+  bio: >-
+    历任商洛市长和市委书记、陕西省委秘书长、省委常委兼西安市委书记，后任陕西省人大常委会党组副书记、副主任。2017 年 5 月被查，8 月被开除党籍和公职，2018 年 11 月一审以受贿罪被判无期徒刑。
+  positions:
+    - { title: 商洛市委书记, sys: party, place: 陕西, cite: t01-ifeng-2018-11-20-wei-minzhou-verdict }
+    - { title: 陕西省委常委、秘书长, sys: party, place: 陕西, cite: t01-ifeng-2018-11-20-wei-minzhou-verdict }
+    - { title: 陕西省委常委、西安市委书记, sys: party, place: 陕西, cite: t01-ifeng-2018-11-20-wei-minzhou-verdict }
+    - { title: 陕西省人大常委会党组副书记、副主任, sys: other, place: 陕西, to: 2017-05, cite: t01-ifeng-2018-11-20-wei-minzhou-verdict }
+  cites: [wd-Q9058010, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p1, t01-ifeng-2018-11-20-wei-minzhou-verdict]
+
+- id: liu-shanqiao
+  name: 刘善桥
+  gender: m
+  born: 1956-11
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十二年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2017-06-26, text: 中央纪委通报湖北省政协副主席刘善桥涉嫌严重违纪，接受组织审查, cite: t01-ccdi-2017-06-26-liu-shanqiao-probe }
+    - { date: 2017-09-18, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p1 }
+    - { date: 2018-09-04, text: 河南南阳中院一审以受贿罪判处有期徒刑十二年, cite: t01-people-2018-09-04-liu-shanqiao-verdict }
+  tier: 2
+  headline: 湖北省政协原副主席、黄冈市委原书记
+  ids: { wikidata: Q9447687 }
+  bio: >-
+    2003 年任黄冈市长，2006 年任黄冈市委书记，2013 年起任湖北省政协副主席。2017 年 6 月被查，9 月被开除党籍和公职，2018 年 9 月一审以受贿罪被判有期徒刑十二年。
+  positions:
+    - { title: 黄冈市市长, sys: gov, place: 湖北, from: 2003-01, cite: t01-ccdi-2017-06-26-liu-shanqiao-probe }
+    - { title: 黄冈市委书记, sys: party, place: 湖北, from: 2006-07, cite: t01-ccdi-2017-06-26-liu-shanqiao-probe }
+    - { title: 湖北省政协副主席, sys: other, place: 湖北, from: 2013-01, to: 2017-06, cite: t01-ccdi-2017-06-26-liu-shanqiao-probe }
+  cites: [wd-Q9447687, t01-ccdi-2017-06-26-liu-shanqiao-probe, t01-ccdi-jlsc-list-p0, t01-ccdi-djcf-list-p1, t01-people-2018-09-04-liu-shanqiao-verdict]

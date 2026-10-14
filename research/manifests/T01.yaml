@@ -1,0 +1,847 @@
+# T01: dossier cards for centrally managed cadres investigated 2012-11 to 2017-10 who never sat on the CC.
+# www.ccdi.gov.cn answers scripted requests with a captcha page, so its column lists are taken from Wayback raw
+# snapshots (id_). Each list page gives the title and date of every notice in the column.
+web:
+  # CCDI column "审查调查 · 中管干部 · 执纪审查" (probes), oldest pages first
+  - id: t01-ccdi-zjsc-list-p6
+    title: 中央纪委网站“审查调查·中管干部·执纪审查”栏目列表第 7 页（2012-12 至 2013-12，2018-04-06 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2018-04-06
+    voice: official
+    url: https://web.archive.org/web/20180406163439id_/http://www.ccdi.gov.cn:80/scdc/zggb/zjsc/index_6.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-zjsc-list-p5
+    title: 中央纪委网站“审查调查·中管干部·执纪审查”栏目列表第 6 页（2013-12 至 2014-07，2018-04-06 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2018-04-06
+    voice: official
+    url: https://web.archive.org/web/20180406163434id_/http://www.ccdi.gov.cn:80/scdc/zggb/zjsc/index_5.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-zjsc-list-p4
+    title: 中央纪委网站“审查调查·中管干部·执纪审查”栏目列表第 5 页（2014-07 至 2014-12，2018-04-06 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2018-04-06
+    voice: official
+    url: https://web.archive.org/web/20180406163429id_/http://www.ccdi.gov.cn:80/scdc/zggb/zjsc/index_4.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-jlsc-list-p3
+    title: 中央纪委网站“纪律审查·中管干部”栏目列表第 4 页（2014-10 至 2015-04，2017-11-22 存档）
+    publisher: 中央纪委监察部网站
+    date: 2017-11-22
+    voice: official
+    url: https://web.archive.org/web/20171122062851id_/http://www.ccdi.gov.cn:80/jlsc/zggb/jlsc_zggb/index_3.html
+    start: "广东省纪委副书记、省监察厅厅长钟世坚接受组织调查"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-jlsc-list-p2
+    title: 中央纪委网站“纪律审查·中管干部”栏目列表第 3 页（2015-04 至 2015-11，2017-11-20 存档）
+    publisher: 中央纪委监察部网站
+    date: 2017-11-20
+    voice: official
+    url: https://web.archive.org/web/20171120053657id_/http://www.ccdi.gov.cn:80/jlsc/zggb/jlsc_zggb/index_2.html
+    start: "中国证券监督管理委员会党委委员、副主席姚刚被调查"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-jlsc-list-p1
+    title: 中央纪委网站“纪律审查·中管干部”栏目列表第 2 页（2015-11 至 2016-08，2017-11-20 存档）
+    publisher: 中央纪委监察部网站
+    date: 2017-11-20
+    voice: official
+    url: https://web.archive.org/web/20171120053654id_/http://www.ccdi.gov.cn:80/jlsc/zggb/jlsc_zggb/index_1.html
+    start: "天津市副市长尹海林涉嫌严重违纪接受组织调查"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-jlsc-list-p0
+    title: 中央纪委网站“纪律审查·中管干部”栏目列表第 1 页（2016-09 至 2017-08，2017-11-20 存档）
+    publisher: 中央纪委监察部网站
+    date: 2017-11-20
+    voice: official
+    url: https://web.archive.org/web/20171120130942id_/http://www.ccdi.gov.cn:80/jlsc/zggb/jlsc_zggb/index.html
+    start: "中央纪委驻财政部纪检组组长、财政部党组成员莫建成接受组织审查"
+    end: "©中共中央纪律检查委员会"
+  # CCDI column "审查调查 · 中管干部 · 党纪政务处分" (expulsions), 2019-01-29 snapshots
+  - id: t01-ccdi-djcf-list-p8
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 9 页（2013-02 至 2014-06，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129043502id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_8.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p7
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 8 页（2014-06 至 2014-12，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129025945id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_7.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p6
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 7 页（2014-12 至 2015-04，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129024611id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_6.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p5
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 6 页（2015-05 至 2015-09，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129024453id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_5.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p4
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 5 页（2015-09 至 2016-02，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129024402id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_4.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p3
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 4 页（2016-03 至 2016-12，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129022135id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_3.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p2
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 3 页（2017-01 至 2017-07，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129022332id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_2.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p1
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 2 页（2017-07 至 2018-02，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129022215id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index_1.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  - id: t01-ccdi-djcf-list-p0
+    title: 中央纪委网站“审查调查·中管干部·党纪政务处分”栏目列表第 1 页（2018-02 至 2019-01，2019-01-29 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-29
+    voice: official
+    url: https://web.archive.org/web/20190129022202id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/index.html
+    start: "首页 > 审查调查 > 中管干部"
+    end: "©中共中央纪律检查委员会"
+  # verdict round-ups (People's Daily Online tables)
+  - id: t01-people-2015-12-18-19-verdicts
+    title: 十八大以来落马“大老虎”19人获刑 仅1人低于10年
+    publisher: 人民网
+    date: 2015-12-18
+    voice: official
+    url: http://politics.people.com.cn/n1/2015/1218/c1001-27946339.html
+    start: "人民网北京12月18日电"
+    end: "按获刑时间倒序排列；更新至2015年12月18日"
+  - id: t01-people-2017-01-03-2016-verdicts
+    title: 2016年35名“大老虎”领刑 7人无期、首现死刑
+    publisher: 人民网
+    date: 2017-01-03
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0103/c1001-28994579.html
+    start: "2016年35名原省部级及以上官员获刑"
+    end: "对赵黎平执行死刑，剥夺政治权利终身。"
+  - id: t01-people-2017-04-19-11-verdicts
+    title: 今年11名“大老虎”已领刑 2人被判无期
+    publisher: 人民网
+    date: 2017-04-19
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0419/c1001-29221471.html
+    start: "2017年以来11名原省部级及以上官员获刑"
+    end: "均被判无期徒刑。"
+  - id: t01-people-2017-06-01-8-verdicts
+    title: 节后第一天 8名“大老虎”一审宣判 4人被判无期
+    publisher: 人民网
+    date: 2017-06-01
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0531/c1001-29309914.html
+    start: "人民网北京6月1日电"
+  - id: t01-people-2017-12-21-39-verdicts
+    title: 39名“大老虎”获刑创十八大以来之最
+    publisher: 人民网（法制日报）
+    date: 2017-12-21
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/1221/c1001-29719918.html
+    start: "最高人民检察院官方网站近日发布消息称"
+    end: "本报北京12月20日讯"
+  # per-person reports (generated by research/scripts/T01-spec.ts)
+  - id: t01-chinacourt-2015-02-28-ni-fake-verdict
+    title: 倪发科案报道（2015-02-28）
+    publisher: 中国法院网
+    date: 2015-02-28
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2015/02/id/1559049.shtml
+    start: "据山东省东营市中级人民法院官方微"
+    end: "向党和人民赎罪，向家人赎罪。"
+  - id: t01-chinacourt-2014-07-17-wang-suyi-verdict
+    title: 王素毅案报道（2014-07-17）
+    publisher: 中国法院网
+    date: 2014-07-17
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2014/07/id/1340433.shtml
+    start: "北京市第一中级人民法院17日对内"
+    end: "级人民法院依法作出上述判决。"
+  - id: t01-chinacourt-2014-10-13-li-daqiu-verdict
+    title: 李达球案报道（2014-10-13）
+    publisher: 中国法院网
+    date: 2014-10-13
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2014/10/id/1458784.shtml
+    start: "据中央电视台新闻中心官方微博“央"
+    end: "受贿罪追究李达球的刑事责任。"
+  - id: t01-chinacourt-2015-04-09-liao-shaohua-verdict
+    title: 廖少华案报道（2015-04-09）
+    publisher: 中国法院网
+    date: 2015-04-09
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2015/04/id/1580716.shtml
+    start: "陕西省西安市中级人民法院4月9日"
+    end: "多次参与和主持重要反腐会议。"
+  - id: t01-chinacourt-2015-04-17-chen-baihuai-verdict
+    title: 陈柏槐案报道（2015-04-17）
+    publisher: 中国法院网
+    date: 2015-04-17
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2015/04/id/1597129.shtml
+    start: "据福建省福州市中级人民法院官方微"
+    end: "定其受贿没有事实与法律依据。"
+  - id: t01-thepaper-2015-guo-youming-verdict
+    title: 郭有明案报道（2015-12）
+    publisher: 澎湃新闻
+    date: 2015-12
+    voice: official
+    url: http://web.archive.org/web/20151209090210id_/http://www.thepaper.cn/newsDetail_forward_1406697
+    start: "12月9日上午，河南省南阳市中级"
+    end: "，积极退赃，依法可从轻处罚。"
+  - id: t01-chinacourt-2015-06-chen-anzhong-verdict
+    title: 陈安众案报道（2015-06）
+    publisher: 中国法院网
+    date: 2015-06
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2015/06/id/1653132.shtml
+    start: "安徽省蚌埠市中级人民法院今日公开"
+    end: "省蚌埠市人民检察院审查起诉。"
+  - id: t01-chinacourt-2014-08-tong-mingqian-verdict
+    title: 童名谦案报道（2014-08）
+    publisher: 中国法院网
+    date: 2014-08
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2014/08/id/1366865.shtml
+    start: "新华社北京8月18日电 北京市第"
+    end: "人民法院遂依法作出上述判决。"
+  - id: t01-xinhua-2015-11-19-zhu-zuoli-verdict
+    title: 祝作利案报道（2015-11-19）
+    publisher: 新华网
+    date: 2015-11-19
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://news.xinhuanet.com/legal/2015-11/19/c_1117195272.htm
+    start: "新华网石家庄１１月１９日电（记者"
+    end: "部赃款赃物，依法可从轻处罚。"
+  - id: t01-chinacourt-2015-12-shen-peiping-verdict
+    title: 沈培平案报道（2015-12）
+    publisher: 中国法院网
+    date: 2015-12
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2015/12/id/1761006.shtml
+    start: "今天上午，北京市第一中级人民法院"
+    end: "共计折合人民币1615万元。"
+  - id: t01-ccdi-2017-06-01-song-lin-verdict
+    title: 宋林案报道（2017-06-01）
+    publisher: 中央纪委监察部网站
+    date: 2017-06-01
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201706/t20170601_100348.html
+    start: "广东省广州市中级人民法院1日公开"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-qq-2017-05-11-mao-xiaobing-verdict
+    title: 毛小兵案报道（2017-05-11）
+    publisher: 腾讯新闻
+    date: 2017-05-11
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://news.qq.com/a/20170511/035781.htm
+    start: "5月11日上午，甘肃省兰州市中级"
+    end: "施。案件侦查工作正在进行中。"
+  - id: t01-chinacourt-2016-01-tan-qiwei-verdict
+    title: 谭栖伟案报道（2016-01-07）
+    publisher: 中国法院网
+    date: 2016-01-07
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/01/id/1783870.shtml
+    start: "据河北省衡水市中级人民法院官方微"
+    end: "没收个人财产人民币一百万元。"
+  - id: t01-ce-2015-11-03-yang-baohua-verdict
+    title: 阳宝华案报道（2015-11-03）
+    publisher: 中国经济网
+    date: 2015-11-03
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201511/03/t20151103_6887230.shtml
+    start: "11月3日上午，广西桂林市中级人"
+    end: "宝华当庭表示服从判决不上诉。"
+  - id: t01-xinhua-2016-11-22-chen-tiexin-verdict
+    title: 陈铁新案报道（2016-11-22）
+    publisher: 新华网
+    date: 2016-11-22
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://news.xinhuanet.com/legal/2016-11/22/c_1119965996.htm
+    start: "新华社哈尔滨１１月２２日电 黑龙"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2016-10-19-nie-chunyu-verdict
+    title: 聂春玉案报道（2016-10-19）
+    publisher: 中央纪委监察部网站
+    date: 2016-10-19
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201610/t20161019_88165.html
+    start: "江苏省南通市中级人民法院19日公"
+    end: "处罚情节，依法可以从轻处罚。"
+  - id: t01-ccdi-2016-10-19-bai-yun-verdict
+    title: 白云案报道（2016-10-19）
+    publisher: 中央纪委监察部网站
+    date: 2016-10-19
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201610/t20161019_88170.html
+    start: "江苏省南通市中级人民法院19日公"
+    end: "处罚情节，依法可以从轻处罚。"
+  - id: t01-chinacourt-2016-12-sun-zhaoxue-verdict
+    title: 孙兆学案报道（2016-12）
+    publisher: 中国法院网
+    date: 2016-12
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/12/id/2495590.shtml
+    start: "27日，辽宁省铁岭市中级人民法院"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2016-11-28-qin-yuhai-verdict
+    title: 秦玉海案报道（2016-11-28）
+    publisher: 中央纪委监察部网站
+    date: 2016-11-28
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201611/t20161128_90260.html
+    start: "山东省淄博市中级人民法院28日公"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2017-02-28-he-jiacheng-verdict
+    title: 何家成案报道（2017-02-28）
+    publisher: 中央纪委监察部网站
+    date: 2017-02-28
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201702/t20170228_94820.html
+    start: "浙江省宁波市中级人民法院28日公"
+    end: "宽处罚。法庭遂作出上述判决。"
+  - id: t01-sina-2016-11-25-liang-bin-verdict
+    title: 梁滨案报道（2016-11-25）
+    publisher: 新浪新闻
+    date: 2016-11-25
+    voice: official
+    url: http://news.sina.com.cn/c/sz/2016-11-25/doc-ifxyawmp0152498.shtml
+    start: "新华社沈阳11月25日电辽宁省鞍"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-huanqiu-2016-12-sui-fengfu-verdict
+    title: 隋凤富案报道（2016-12-19）
+    publisher: 环球网
+    date: 2016-12-19
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://china.huanqiu.com/hot/2016-12/9831354.html
+    start: "央视新闻客户端12月19日消息，"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-xinhua-2017-02-17-sun-hongzhi-verdict
+    title: 孙鸿志案报道（2017-02-17）
+    publisher: 新华网
+    date: 2017-02-17
+    voice: official
+    url: http://web.archive.org/web/2018id_/http://news.xinhuanet.com/2017-02/17/c_1120486605.htm
+    start: "2017年2月17日，山东省泰安市中级人民法院"
+    end: "财产不能说明来源。"
+  - id: t01-ce-2023-11-20-zhao-zhiyong-probe
+    title: 赵智勇案报道（2023-11-20）
+    publisher: 中国经济网
+    date: 2023-11-20
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202311/20/t20231120_38798578.shtml
+    start: "江西省人民政府驻北京办事处原科员赵智勇（省委原常委"
+    end: "江西省人民政府驻北京办事处工作。"
+  - id: t01-ifeng-2016-11-18-lu-wucheng-verdict
+    title: 陆武成案报道（2016-11-17）
+    publisher: 凤凰网
+    date: 2016-11-17
+    voice: official
+    url: https://news.ifeng.com/a/20161118/50275599_0.shtml
+    start: "据新华社电 昨日，陕西省西安市中"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2016-12-13-si-xinliang-verdict
+    title: 斯鑫良案报道（2016-12-13）
+    publisher: 中央纪委监察部网站
+    date: 2016-12-13
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201612/t20161213_91064.html
+    start: "江西省九江市中级人民法院13日公"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-chinacourt-2016-12-jing-chunhua-verdict
+    title: 景春华案报道（2016-12-23）
+    publisher: 中国法院网
+    date: 2016-12-23
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/12/id/2493780.shtml
+    start: "吉林省长春市中级人民法院23日公"
+    end: "罚情节。法庭遂作出上述判决。"
+  - id: t01-chinacourt-2016-11-li-zhi-verdict
+    title: 栗智案报道（2016-11-18）
+    publisher: 中国法院网
+    date: 2016-11-18
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/11/id/2352556.shtml
+    start: "青海省西宁市中级人民法院18日公"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-chinacourt-2016-12-xu-gang-verdict
+    title: 徐钢案报道（2016-12-29）
+    publisher: 中国法院网
+    date: 2016-12-29
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/12/id/2500674.shtml
+    start: "安徽省合肥市中级人民法院29日公"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-chinacourt-2016-12-xiao-tian-verdict
+    title: 肖天案报道（2016-12-26）
+    publisher: 中国法院网
+    date: 2016-12-26
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/12/id/2494692.shtml
+    start: "2016年12月26日，河南省南"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2015-06-26-le-dake-probe
+    title: 乐大克案报道（2015-06-26）
+    publisher: 中央纪委监察部网站
+    date: 2015-06-26
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201506/t20150626_58494.html
+    start: "西藏自治区人大常委会副主任乐大克"
+    end: "纪违法，目前正接受组织调查。"
+  - id: t01-ccdi-2015-07-30-zhang-lijun-probe
+    title: 张力军案报道（2015-07-30）
+    publisher: 中央纪委监察部网站
+    date: 2015-07-30
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201507/t20150730_59960.html
+    start: "环境保护部原副部长、党组成员张力"
+    end: "部副部长。（简历摘自人民网）"
+  - id: t01-xinhua-2017-03-31-gu-chunli-verdict
+    title: 谷春立案报道（2017-03-31）
+    publisher: 新华网
+    date: 2017-03-31
+    voice: official
+    url: http://web.archive.org/web/2018id_/http://news.xinhuanet.com/legal/2017-03/31/c_1120734903.htm
+    start: "新华社哈尔滨3月31日电"
+    end: "谷春立表示接受判决，服判不上诉。"
+  - id: t01-qq-2017-04-28-si-xianmin-verdict
+    title: 司献民案报道（2017-04-28）
+    publisher: 腾讯新闻
+    date: 2017-04-28
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://news.qq.com/a/20170428/040641.htm
+    start: "4月28日下午，广东省深圳市中级"
+    end: "(央视记者 奚丹霓 官志伟)"
+  - id: t01-sina-2017-04-28-bai-xueshan-verdict
+    title: 白雪山案报道（2017-04-28）
+    publisher: 新浪新闻
+    date: 2017-04-28
+    voice: official
+    url: http://news.sina.com.cn/c/nd/2017-04-28/doc-ifyetwtf8769022.shtml
+    start: "2017年4月28日下午，陕西省"
+    end: "简历摘自宁夏回族自治区政府官网）"
+  - id: t01-chinacourt-2016-11-zhao-liping-verdict
+    title: 赵黎平案报道（2016-11-11）
+    publisher: 中国法院网
+    date: 2016-11-11
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2016/11/id/2347562.shtml
+    start: "11日上午，山西省太原市中级人民"
+    end: "会的危害程度，作出上述判决。"
+  - id: t01-ccdi-2016-02-06-cai-xiyou-probe
+    title: 蔡希有案报道（2016-02-06）
+    publisher: 中央纪委监察部网站
+    date: 2016-02-06
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201602/t20160206_74162.html
+    start: "中国中化集团公司党组成员、董事、"
+    end: "历摘自中国中化集团公司网站）"
+  - id: t01-ccdi-2016-03-23-li-jia-probe
+    title: 李嘉案报道（2016-03-23）
+    publisher: 中央纪委监察部网站
+    date: 2016-03-23
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201603/t20160323_76548.html
+    start: "广东省委常委、珠海市委书记李嘉涉"
+    end: "中国共产党珠海市委员会网站）"
+  - id: t01-ccdi-2016-04-06-yang-luyu-probe
+    title: 杨鲁豫案报道（2016-04-06）
+    publisher: 中央纪委监察部网站
+    date: 2016-04-06
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201604/t20160406_77173.html
+    start: "山东省济南市委副书记、市长杨鲁豫"
+    end: "简历摘自济南市政府门户网站）"
+  - id: t01-chinacourt-2017-05-su-hongzhang-verdict
+    title: 苏宏章案报道（2017-05）
+    publisher: 中国法院网
+    date: 2017-05
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.chinacourt.org/article/detail/2017/05/id/2870065.shtml
+    start: "中国法院网讯 (罗书臻) 今天，"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2016-05-24-yang-zhenchao-probe
+    title: 杨振超案报道（2016-05-24）
+    publisher: 中央纪委监察部网站
+    date: 2016-05-24
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201605/t20160524_79473.html
+    start: "安徽省副省长杨振超涉嫌严重违纪，"
+    end: "简历摘自安徽省人民政府网站）"
+  - id: t01-ccdi-2016-06-06-yao-zhongmin-probe
+    title: 姚中民案报道（2016-06-06）
+    publisher: 中央纪委监察部网站
+    date: 2016-06-06
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201606/t20160606_80021.html
+    start: "国家开发银行原监事长姚中民涉嫌严"
+    end: "重违纪，目前正接受组织调查。"
+  - id: t01-ccdi-2016-11-08-chen-shulong-probe
+    title: 陈树隆案报道（2016-11-08）
+    publisher: 中央纪委监察部网站
+    date: 2016-11-08
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.ccdi.gov.cn/xwtt/201611/t20161108_89306.html
+    start: "安徽省副省长陈树隆涉嫌严重违纪接"
+    end: "重违纪，目前正接受组织调查。"
+  - id: t01-ccdi-2018-08-16-zhang-wenxiong-verdict
+    title: 张文雄案报道（2018-08-16）
+    publisher: 中央纪委国家监委网站
+    date: 2018-08-16
+    voice: official
+    url: http://web.archive.org/web/2019id_/http://www.ccdi.gov.cn/yaowen/201808/t20180816_177876.html
+    start: "广西壮族自治区桂林市中级人民法院"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2016-11-11-wu-tianjun-probe
+    title: 吴天君案报道（2016-11-11）
+    publisher: 中央纪委监察部网站
+    date: 2016-11-11
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.ccdi.gov.cn/xwtt/201611/t20161111_89448.html
+    start: "河南省委原常委、政法委书记吴天君"
+    end: "省委委员。（简历摘自人民网）"
+  - id: t01-ccdi-2016-12-16-lu-enguang-probe
+    title: 卢恩光案报道（2016-12-16）
+    publisher: 中央纪委监察部网站
+    date: 2016-12-16
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201612/t20161216_91325.html
+    start: "司法部党组成员、政治部主任卢恩光"
+    end: "自中华人民共和国司法部网站）"
+  - id: t01-sina-2018-05-24-wang-yincheng-verdict
+    title: 王银成案报道（2018-05-24）
+    publisher: 新浪财经
+    date: 2018-05-24
+    voice: official
+    url: http://web.archive.org/web/2019id_/http://finance.sina.com.cn/money/insurance/bxyx/2018-05-24/doc-ihaysvix7852953.shtml
+    start: "新浪财经讯 5月24日消息，20"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ce-2018-09-13-li-wenke-verdict
+    title: 李文科案报道（2018-09-13）
+    publisher: 中国经济网
+    date: 2018-09-13
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201809/13/t20180913_30296585.shtml
+    start: "2018年9月13日，吉林省通化"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ccdi-2017-03-01-chen-xu-probe
+    title: 陈旭案报道（2017-03-01）
+    publisher: 中央纪委监察部网站
+    date: 2017-03-01
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201703/t20170301_94860.html
+    start: "上海市人民检察院原检察长陈旭涉嫌"
+    end: "党组书记。（简历摘自人民网）"
+  - id: t01-sina-2019-02-22-zhou-chunyu-verdict
+    title: 周春雨案报道（2019-02-22）
+    publisher: 新浪新闻
+    date: 2019-02-22
+    voice: official
+    url: https://news.sina.cn/2019-02-22/detail-ihrfqzka8220065.d.html
+    start: "2019年2月22日，山东省济南"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-ifeng-2018-11-20-wei-minzhou-verdict
+    title: 魏民洲案报道（2018-11-20）
+    publisher: 凤凰网
+    date: 2018-11-20
+    voice: official
+    url: http://web.archive.org/web/2019id_/http://news.ifeng.com/a/20181120/60168736_0.shtml
+    start: "2018年11月20日，湖南省郴"
+    end: "轻处罚。遂依法作出上述判决。"
+  - id: t01-ccdi-2017-06-26-liu-shanqiao-probe
+    title: 刘善桥案报道（2017-06-26）
+    publisher: 中央纪委监察部网站
+    date: 2017-06-26
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201706/t20170626_101730.html
+    start: "湖北省政协副主席刘善桥涉嫌严重违"
+    end: "。（简历摘自湖北省政协网站）"
+  - id: t01-163-2015-12-18-yao-mugen-verdict
+    title: 姚木根案报道（2015-12-18）
+    publisher: 网易新闻
+    date: 2015-12-18
+    voice: official
+    url: http://web.archive.org/web/20151222093136id_/http://news.163.com/15/1218/09/BB3VUDQ300014JB6.html
+    start: "中新网12月18日电 厦门中院今"
+    end: "没收个人财产人民币三百万元。"
+  - id: t01-ccdi-2015-02-16-si-xinliang-probe
+    title: 斯鑫良案报道（2015-02-16）
+    publisher: 中央纪委监察部网站
+    date: 2015-02-16
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201502/t20150216_51519.html
+    start: "浙江省政协原党组副书记、副主席斯"
+    end: "。（简历摘自浙江省政协网站）"
+  - id: t01-ccdi-2015-04-27-wang-tianpu-probe
+    title: 王天普案报道（2015-04-27）
+    publisher: 中央纪委监察部网站
+    date: 2015-04-27
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201504/t20150427_55436.html
+    start: "中国石油化工集团公司总经理王天普"
+    end: "理。（简历摘自中国石化网站）"
+  - id: t01-ccdi-2015-07-12-xi-xiaoming-probe
+    title: 奚晓明案报道（2015-07-12）
+    publisher: 中央纪委监察部网站
+    date: 2015-07-12
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201507/t20150712_59136.html
+    start: "最高人民法院副院长、党组成员奚晓"
+    end: "员（简历摘自最高人民法院网）"
+  - id: t01-ccdi-2015-11-10-ai-baojun-probe
+    title: 艾宝俊案报道（2015-11-10）
+    publisher: 中央纪委监察部网站
+    date: 2015-11-10
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201511/t20151110_64768.html
+    start: "上海市委常委、副市长艾宝俊涉嫌严"
+    end: "主任。（简历摘自中国上海网）"
+  - id: t01-ccdi-2015-12-08-gai-ruyin-probe
+    title: 盖如垠案报道（2015-12-08）
+    publisher: 中央纪委监察部网站
+    date: 2015-12-08
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201512/t20151208_69771.html
+    start: "黑龙江省人大常委会党组书记、副主"
+    end: "摘自黑龙江省人大常委会网站）"
+  - id: t01-ccdi-2015-12-27-chang-xiaobing-probe
+    title: 常小兵案报道（2015-12-27）
+    publisher: 中央纪委监察部网站
+    date: 2015-12-27
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201512/t20151227_71624.html
+    start: "中国联合网络通信集团有限公司原党"
+    end: "（简历摘自中国共产党新闻网）"
+  - id: t01-ccdi-2016-01-19-gong-qinggai-probe
+    title: 龚清概案报道（2016-01-19）
+    publisher: 中央纪委监察部网站
+    date: 2016-01-19
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/xwtt/201601/t20160119_73156.html
+    start: "中共中央台湾工作办公室、国务院台"
+    end: "共中央台办、国务院台办网站）"
+  - id: t01-ccdi-2016-08-22-yin-hailin-probe
+    title: 尹海林案报道（2016-08-22）
+    publisher: 中央纪委监察部网站
+    date: 2016-08-22
+    voice: official
+    url: http://web.archive.org/web/2017id_/http://www.ccdi.gov.cn/xwtt/201608/t20160822_85606.html
+    start: "天津市副市长尹海林涉嫌严重违纪，"
+    end: "局长。（简历摘自天津政务网）"
+  - id: t01-ccdi-2017-01-20-yin-hailin-expel
+    title: 尹海林案报道（2017-01-20）
+    publisher: 中央纪委监察部网站
+    date: 2017-01-20
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/yw/201701/t20170120_93090.html
+    start: "经查，尹海林身为党的高级领导干部"
+    end: "局长。（简历摘自天津政务网）"
+  - id: t01-court-2017-01-24-wang-tianpu-verdict
+    title: 王天普案报道（2017-01-25）
+    publisher: 最高人民法院网（人民法院报）
+    date: 2017-01-25
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/35392.html
+    start: "1月24日，江西省南昌市中级人民"
+    end: "者 姚晨奕 通讯员 王俊华）"
+  - id: t01-court-2017-04-28-ai-baojun-verdict
+    title: 艾宝俊案报道（2017-04-28）
+    publisher: 最高人民法院网（新华社）
+    date: 2017-04-28
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/42552.html
+    start: "福建省漳州市中级人民法院28日公"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-court-2017-04-20-gong-qinggai-verdict
+    title: 龚清概案报道（2017-04-20）
+    publisher: 最高人民法院网（新华社）
+    date: 2017-04-20
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/41262.html
+    start: "4月20日，河南省安阳市中级人民"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-people-2018-12-26-cai-xiyou-verdict
+    title: 蔡希有案报道（2018-12-26）
+    publisher: 人民网（新华网）
+    date: 2018-12-26
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2018/1226/c64371-30489740.html
+    start: "山东省泰安市中级人民法院26日公"
+    end: "（新华社济南12月26日电）"
+  - id: t01-xinhua-2017-05-05-yang-luyu-verdict
+    title: 杨鲁豫案报道（2017-05-05）
+    publisher: 新华网
+    date: 2017-05-05
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-05/05/c_1120925789.htm
+    start: "新华社郑州5月5日电 河南省平顶山市"
+    end: "法庭遂做出上述判决。"
+  - id: t01-people-2017-08-05-yao-zhongmin-verdict
+    title: 姚中民案报道（2017-08-05）
+    publisher: 人民网（新华社）
+    date: 2017-08-05
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0805/c64371-29451498.html
+    start: "４日上午，河北省保定市中级人民法"
+    end: "。（新华社石家庄８月５日电）"
+  - id: t01-court-2019-04-03-chen-shulong-verdict
+    title: 陈树隆案报道（2019-04-03）
+    publisher: 最高人民法院网（新华视点）
+    date: 2019-04-03
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/149592.html
+    start: "2019年4月3日，福建省厦门市"
+    end: "法庭遂作出上述判决。（罗沙）"
+  - id: t01-people-2017-08-05-wu-tianjun-verdict
+    title: 吴天君案报道（2017-08-05）
+    publisher: 人民网（新华社）
+    date: 2017-08-05
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0805/c64371-29451490.html
+    start: "４日，湖北省襄阳市中级人民法院公"
+    end: "决。（新华社武汉８月５日电）"
+  - id: t01-people-2018-10-30-lu-enguang-verdict
+    title: 卢恩光案报道（2018-10-30）
+    publisher: 人民网（新华网）
+    date: 2018-10-30
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2018/1030/c64371-30372069.html
+    start: "３０日上午，河南省安阳市中级人民"
+    end: "（新华社郑州１０月３０日电）"
+  - id: t01-court-2018-10-25-chen-xu-verdict
+    title: 陈旭案报道（2018-10-25）
+    publisher: 最高人民法院网（人民日报客户端）
+    date: 2018-10-25
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/124931.html
+    start: "2018年10月25日，广西壮族"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-people-2018-09-04-liu-shanqiao-verdict
+    title: 刘善桥案报道（2018-09-04）
+    publisher: 人民网（新华社）
+    date: 2018-09-04
+    voice: official
+    url: http://politics.people.com.cn/n1/2018/0904/c1001-30272051.html
+    start: "新华社郑州9月4日电 河南省南阳"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-people-2018-01-12-li-jia-verdict
+    title: 李嘉案报道（2018-01-12）
+    publisher: 人民网（新华社）
+    date: 2018-01-12
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2018/0112/c64371-29762370.html
+    start: "福建省漳州市中级人民法院１２日公"
+    end: "。（新华社福州１月１２日电）"
+  - id: t01-court-2017-05-03-yang-zhenchao-verdict
+    title: 杨振超案报道（2017-05-04）
+    publisher: 最高人民法院网（人民法院报）
+    date: 2017-05-04
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/42952.html
+    start: "5月3日，上海市第一中级人民法院"
+    end: "出上述判决。（记者 严剑漪）"
+  - id: t01-people-2017-05-08-zheng-yuzhuo-verdict
+    title: 郑玉焯案报道（2017-05-08）
+    publisher: 人民网
+    date: 2017-05-08
+    voice: official
+    url: http://web.archive.org/web/20181123022555id_/http://legal.people.com.cn/n1/2017/0508/c42510-29261611.html
+    start: "人民网北京5月8日电 据山东省淄"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-chinanews-2016-10-14-jin-daoming-verdict
+    title: 金道铭案报道（2016-10-14）
+    publisher: 中国新闻网（人民日报客户端）
+    date: 2016-10-14
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2016/10-14/8031414.shtml
+    start: "2016年10月14日，江苏省镇"
+    end: "处罚情节，依法可以从轻处罚。"
+  - id: t01-court-2016-12-20-du-shanxue-verdict
+    title: 杜善学案报道（2016-12-20）
+    publisher: 最高人民法院网
+    date: 2016-12-20
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/33461.html
+    start: "12月20日，江苏省徐州市中级人"
+    end: "民币8011.4686万元。"
+  - id: t01-people-2016-11-15-han-xiancong-verdict
+    title: 韩先聪案报道（2016-11-15）
+    publisher: 人民网（新华社）
+    date: 2016-11-15
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2016/1116/c64371-28871055.html
+    start: "福建省南平市中级人民法院１５日公"
+    end: "（新华社福州１１月１５日电）"
+  - id: t01-court-2016-11-16-han-xuejian-verdict
+    title: 韩学键案报道（2016-11-16）
+    publisher: 最高人民法院网
+    date: 2016-11-16
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/33231.html
+    start: "11月16日，吉林省辽源市中级人"
+    end: "作出上述判决。（记者罗书臻）"
+  - id: t01-people-2017-02-09-xu-jianyi-verdict
+    title: 徐建一案报道（2017-02-10）
+    publisher: 人民网（人民日报）
+    date: 2017-02-10
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0210/c64371-29070868.html
+    start: "人民网北京2月9日电 （记者徐隽"
+    end: "轻处罚。法庭遂作出上述判决。"
+  - id: t01-people-2016-12-30-le-dake-verdict
+    title: 乐大克案报道（2016-12-30）
+    publisher: 人民网
+    date: 2016-12-30
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/1230/c1001-28990567.html
+    start: "2016年12月30日，河南省郑"
+    end: "（央视记者 奚丹霓 官志伟）"
+  - id: t01-court-2017-05-31-wang-yang-verdict
+    title: 王阳案报道（2017-06-01）
+    publisher: 最高人民法院网（法制网）
+    date: 2017-06-01
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/46392.html
+    start: "5月31日，黑龙江省大庆市中级人"
+    end: "作出上述判决。（记者 周斌）"
+  - id: t01-ccdi-2014-07-16-zhang-tianxin-expel
+    title: 张田欣案报道（2014-07-16）
+    publisher: 中央纪委监察部网站
+    date: 2014-07-16
+    voice: official
+    url: http://web.archive.org/web/2016id_/http://www.ccdi.gov.cn/jlsc/201407/t20140716_42169.html
+    start: "经查，张田欣失职渎职造成国有资产"
+    end: "非领导职务；收缴其违纪所得。"
