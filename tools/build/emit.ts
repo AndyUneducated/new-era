@@ -50,9 +50,8 @@ function growthTargets(d: Data): Target[] {
 // a chief written by name only, because the card was being written in the same round: the one person of
 // that name whose career touches the province
 function chiefPerson(d: Data, c: Data['chiefs'][number]) {
-  const same = d.people.filter((p) => p.name === c.name)
-  const p = same.length === 1 ? same[0] : undefined
-  if (p && (p.positions.some((x) => x.place?.startsWith(c.prov) || x.title.startsWith(c.prov)) || p.bio.includes(c.prov))) return p.id
+  const here = d.people.filter((p) => p.name === c.name && (p.positions.some((x) => x.place?.startsWith(c.prov) || x.title.startsWith(c.prov)) || p.bio.includes(c.prov)))
+  if (here.length === 1) return here[0].id
 }
 
 // batches running in parallel enter the same tie; the browser gets one, the one with a quote if any
