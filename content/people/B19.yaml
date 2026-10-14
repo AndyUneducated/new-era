@@ -1,0 +1,621 @@
+# B19: full biographies (tier 1), expanded from the C01/C02 dossier cards.
+- id: wang-lequan
+  name: 王乐泉
+  pinyin: Wáng Lèquán
+  gender: m
+  ethnicity: 汉族
+  born: 1944-12
+  birthplace: 山东寿光
+  joinedParty: 1966-03
+  joinedWork: 1965-09
+  roles: [pb, cc, prov]
+  status: retired
+  statusNote: 2012 年十八大退出政治局；2013–2019 年任中国法学会会长，2026 年春节仍在中央看望的老同志名单上。
+  tier: 1
+  headline: 新疆维吾尔自治区党委书记（1995–2010）、政治局委员（2002–2012）
+  bio: >-
+    山东寿光人，公社干部出身，做过寿光县委书记、团省委副书记、聊城地委书记和山东副省长。1991 年调新疆，1995–2010 年任自治区党委书记兼兵团第一政委，2002–2012 年为政治局委员。习近平在宣布他离任时称赞他“牢固树立稳定压倒一切的思想”，海外媒体则称他是处理“疆独”问题的强硬派。
+    2009 年乌鲁木齐七五骚乱后，汉族示威者要求他下台，次年 4 月他调离新疆，改任中央政法委副书记，《卫报》说许多人视之为降级。2013–2019 年任中国法学会会长。
+  positions:
+    - { title: 寿光县委书记, sys: party, place: 山东, from: 1978, to: 1982, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 共青团山东省委副书记, sys: party, place: 山东, from: 1982, to: 1986, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 聊城地委书记, sys: party, place: 山东, from: 1988, to: 1989, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 山东省副省长, sys: gov, place: 山东, from: 1989, to: 1991, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 新疆维吾尔自治区党委代理书记, sys: party, place: 新疆, from: 1994, to: 1995, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 新疆维吾尔自治区党委书记, sys: party, place: 新疆, from: 1995, to: 2010-04, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-jjckb-2007-10-23-wang-lequan }
+    - { title: 中央政法委副书记, sys: party, from: 2010-04, to: 2012-11, cite: c01-cyol-2010-04-25-xinjiang-reshuffle }
+    - { title: 中国法学会会长, sys: other, from: 2013-11, to: 2019-03, cite: b19-caixin-2019-03-20-law-society }
+  life:
+    - h: 寿光县委书记
+      from: 1944
+      to: 1986
+      text: >-
+        1944 年 12 月生，山东寿光人。1965 年参加工作，先在胶南县搞“社教”，1966 年 3 月入党。此后在寿光县侯镇公社、城关公社任副社长、党委副书记等职，1975 年任寿光县委副书记，1978–1982 年任县委书记兼县革委会主任。
+        1982 年调任共青团山东省委副书记，其间 1983–1986 年在中央党校培训班学习。
+      cites: [c01-jjckb-2007-10-23-wang-lequan]
+    - h: 聊城与副省长
+      from: 1986
+      to: 1991
+      text: >-
+        1986 年任聊城地委副书记，1988 年升任地委书记，1989–1991 年任山东省副省长。
+        自由亚洲电台评论员高新后来把他和刘云山、汪洋一起，列为地方省级团委书记、副书记出身而进入十七届政治局的“青帮”人马，以说明团派在胡锦涛时代领导层中人数之多。
+      cites: [c01-jjckb-2007-10-23-wang-lequan, f05-rfa-2023-01-13-wang-zhaoguo-xi]
+    - h: 入疆
+      from: 1991
+      to: 1995
+      text: >-
+        他自述 1991 年 4 月从山东调到新疆，在自治区政府任常务副主席；官方简历记他同时任自治区党委常委，1992 年升党委副书记。他说自己从 1994 年起到自治区党委主持工作，1994–1995 年为党委代理书记，1995 年正式任自治区党委书记，兼新疆生产建设兵团第一政委。
+      cites: [c01-jjckb-2007-10-23-wang-lequan, b19-sina-2002-01-21-wang-lequan-interview]
+    - h: 主政十五年
+      from: 1995
+      to: 2009
+      text: >-
+        1997 年 2 月 5 日伊犁发生骚乱。2002 年初他接受法国《欧洲时报》等记者采访时说，闹事者“在境外是有背景的”，受“国际极端伊斯兰势力”影响；记者问是否与少数民族的文化习俗未获尊重有关，他答“跟这个问题是没有关系的”。
+        2002 年他进入政治局。按 2006 年施行的任期规定本应调离，但他在同年 10 月破例第三次当选自治区党委书记。美国之音转述港报说，他与王震、王恩茂并称“新疆三王”，以奉行强硬路线处理“疆独”问题著称。
+      cites: [b19-sina-2002-01-21-wang-lequan-interview, c01-jjckb-2007-10-23-wang-lequan, b19-wiki-wang-lequan, b19-voa-2009-09-06-xinjiang-reshuffle]
+    - h: 七五之后
+      from: 2009-07
+      to: 2009-11
+      text: >-
+        2009 年 7 月乌鲁木齐骚乱后，7 日部分汉族市民上街游行，他当天发表电视讲话，呼吁维护民族团结；9 月 3 日汉族市民再次游行，有人高喊要他下台。美国之音记者在新疆采访，无论维族还是汉族“几乎没有说他好话的”，还有人在集会上向他扔矿泉水瓶。
+        9 月初乌鲁木齐市委书记栗智被撤换。BBC 中文转引布鲁金斯学会李成的话说，北京想保住他，因为撤换政治局委员会发出错误信号。
+      cites: [b19-wiki-wang-lequan, b19-voa-2009-11-02-wang-lequan, b19-voa-2009-09-06-xinjiang-reshuffle, b19-bbc-2009-09-07-xinjiang-wang, b19-guardian-2010-04-25-xinjiang]
+    - h: 调离新疆
+      from: 2010-04
+      to: 2010-05
+      text: >-
+        2010 年 4 月 24 日，习近平到乌鲁木齐出席全区干部大会，李源潮宣布中央决定：他兼任中央政法委副书记，不再兼任自治区党委书记，由张春贤接任。习近平说“中央对王乐泉同志是充分肯定的”，他本人表示完全拥护中央决定。
+        官方没有说明调动原因。BBC 说分析人士注意到公众对他处理骚乱的方式强烈不满；《卫报》说许多人把新职位视为降级；BBC 中文引分析说，这显示中央对新疆的政策从铁腕统治转向大力发展经济。
+      cites: [b19-cntv-2010-04-25-xinjiang-meeting, b19-bbcen-2010-04-24-xinjiang, b19-guardian-2010-04-25-xinjiang, b19-bbc-2010-05-06-xinjiang-policy]
+    - h: 政法委与法学会
+      from: 2010
+      to: 2026
+      text: >-
+        2010–2012 年任中央政法委副书记，2012 年十八大退出政治局，2013 年 11 月当选中国法学会会长。2019 年 3 月中国法学会换届，政治局委员王晨接替 74 岁的他任会长，并在闭幕讲话中向他和第七届理事会致以崇高敬意。2026 年春节前，他在中央领导看望的老同志名单上。
+      cites: [c01-cyol-2010-04-25-xinjiang-reshuffle, c01-people-2013-11-30-wang-lequan-law-society, b19-caixin-2019-03-20-law-society, b19-chinalaw-2019-03-20-wang-chen-speech, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: official
+      quote: true
+      text: 乐泉同志交流到新疆工作近20年，担任自治区党委主要领导15年，为新疆的发展稳定作出了重要贡献。
+      cite: b19-cntv-2010-04-25-xinjiang-meeting
+    - voice: zh
+      quote: true
+      text: 王乐泉主政新疆十多年，维汉问题未得到缓解，反而愈益加剧。
+      cite: b19-voa-2009-09-06-xinjiang-reshuffle
+    - voice: zh
+      quote: true
+      text: 王樂泉是政治局委員，據信也是胡錦濤的盟友，15年來一直掌管新疆，對少數民族採取強硬政策。
+      cite: b19-bbc-2009-09-07-xinjiang-wang
+    - voice: west
+      quote: true
+      text: Wang Lequan's new position as deputy secretary of the party's political and legislative affairs committee was seen by many as a demotion, although his 15-year tenure as the region's top official was highly unusual.
+      zh: 王乐泉的新职务中央政法委副书记被许多人视为降级，不过他担任该地区最高官员长达 15 年，本身就极不寻常。
+      cite: b19-guardian-2010-04-25-xinjiang
+  family:
+    - name: 妻子及三个子女（姓名未见于来源）
+      rel: 妻子、子女
+      text: >-
+        他 2002 年对法国记者说，家里“除我的夫人外，还有三个孩子”，都已工作且都在新疆；前两个孩子先在山东参加工作，后来调到新疆。
+      cites: [b19-sina-2002-01-21-wang-lequan-interview]
+  factions:
+    - f: tuanpai
+      cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+      quote: 同为十七届中央政治局委员或中央书记处书记的的还有地方省级团委书记和副书记出身的刘云山、汪洋、王乐泉以及团中央部门负责人出身的令计划。
+  ids: { wikidata: Q715990 }
+  cites: [wd-Q715990, c01-jjckb-2007-10-23-wang-lequan, c01-cyol-2010-04-25-xinjiang-reshuffle, v01-bbc-2010-04-24-wang-lequan, c01-people-2013-11-30-wang-lequan-law-society, b19-sina-2002-01-21-wang-lequan-interview, b19-wiki-wang-lequan, b19-voa-2009-09-06-xinjiang-reshuffle, b19-bbc-2009-09-07-xinjiang-wang, b19-voa-2009-11-02-wang-lequan, b19-bbcen-2010-04-24-xinjiang, b19-guardian-2010-04-25-xinjiang, b19-cntv-2010-04-25-xinjiang-meeting, b19-bbc-2010-05-06-xinjiang-policy, b19-caixin-2019-03-20-law-society, b19-chinalaw-2019-03-20-wang-chen-speech, b19-xinhua-2026-02-13-old-comrades, f05-rfa-2023-01-13-wang-zhaoguo-xi]
+
+- id: wang-zhaoguo
+  name: 王兆国
+  pinyin: Wáng Zhàoguó
+  gender: m
+  ethnicity: 汉族
+  born: 1941-07-14
+  birthplace: 河北丰润
+  education:
+    - { school: 哈尔滨工业大学动力机械系, degree: 涡轮机专业, from: 1961, to: 1966 }
+  joinedParty: 1965-12
+  joinedWork: 1966-09
+  roles: [pb, sec, cc, prov, minister]
+  status: retired
+  statusNote: 2013 年 3 月卸任全国人大常委会副委员长和全国总工会主席，2026 年春节仍在中央看望的老同志名单上。
+  tier: 1
+  headline: 全国人大常委会副委员长（2003–2013）、全国总工会主席（2002–2013）
+  bio: >-
+    河北丰润人，哈工大涡轮机专业毕业，在第二汽车制造厂从技术员做到党委书记。1982 年任团中央第一书记，胡锦涛是他的副手；1984 年任中办主任，1985 年进入中央书记处。
+    1987 年他被调任福建省长、退出书记处，此后长期主管对台和统战，任国台办主任、中央统战部部长、全国政协副主席。2002–2012 年为政治局委员，2003–2013 年任全国人大常委会副委员长兼全国总工会主席，先后向人大作《反分裂国家法》《物权法》草案说明。
+  positions:
+    - { title: 第二汽车制造厂党委书记, sys: other, from: 1979, to: 1982, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 共青团中央书记处第一书记, sys: party, from: 1982, to: 1984, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 中央办公厅主任, sys: party, from: 1984, to: 1986, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 中央书记处书记, sys: party, from: 1985, to: 1987, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 福建省省长, sys: gov, place: 福建, from: 1987, to: 1990, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 国务院台湾事务办公室主任, sys: gov, from: 1990, to: 1996, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 中央统战部部长, sys: party, from: 1992, to: 2002, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 全国政协副主席, sys: other, from: 1993, to: 2003, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 全国人大常委会副委员长, sys: gov, from: 2003-03, to: 2013-03, cite: c01-people-2013-02-26-wang-zhaoguo }
+    - { title: 中华全国总工会主席, sys: other, from: 2002, to: 2013-03, cite: c01-people-2013-02-26-wang-zhaoguo }
+  life:
+    - h: 二汽
+      from: 1941
+      to: 1982
+      text: >-
+        1941 年 7 月生于河北丰润。1961–1966 年在哈尔滨工业大学动力机械系涡轮机专业学习，毕业后留校待分配两年，1968 年随第一汽车制造厂包建第二汽车制造厂，在车桥厂当技术员；1971 年起任车桥厂团委副书记、二汽团委书记，1979–1982 年任二汽副厂长、党委书记。
+        高新转述的说法是，邓小平 1980 年视察二汽时听说他在 1976 年“批邓”时坚决不批邓，召见后向中央推荐了他。
+      cites: [c01-people-2013-02-26-wang-zhaoguo, f05-rfa-2023-01-13-wang-zhaoguo-xi]
+    - h: 团中央与中办
+      from: 1982
+      to: 1987
+      text: >-
+        高新称胡耀邦视察湖北时也专门召见他，并安排他到中央党校受训。1982 年 12 月团十一大选举他为团中央书记处第一书记，兼中央团校校长，胡锦涛、刘延东等同时进入书记处，李源潮、李克强、刘奇葆后来增选。
+        1984 年 12 月他把第一书记交给胡锦涛，转任中共中央办公厅主任，高新说温家宝当时是他的副手；1985 年起又任中央书记处书记、中直机关党委书记。
+      cites: [c01-people-2013-02-26-wang-zhaoguo, f05-people-2013-06-21-cyl-secretaries, f05-rfa-2023-01-13-wang-zhaoguo-xi]
+    - h: 下放福建
+      from: 1987
+      to: 1990
+      text: >-
+        高新写道，1987 年 8 月主持十三大人事筹备的薄一波找他谈话，传达邓小平、陈云的意见，要他到福建接任省长，十三大上不再留任书记处书记，这等于把他从副国级降为正省级。于泽远则把这次调动与同年胡耀邦下台、团派受挫联系在一起。
+        他在福建任省委副书记、代省长、省长到 1990 年。高新称他在福建时曾在省委内部竭力推荐习近平。
+      cites: [f05-rfa-2023-01-13-wang-zhaoguo-xi, f05-thinkhk-2022-10-24-tuanpai, c01-people-2013-02-26-wang-zhaoguo]
+    - h: 对台与统战
+      from: 1990
+      to: 2002
+      text: >-
+        1990 年调回北京任国务院台湾事务办公室主任，1991 年兼中央台湾工作办公室主任，1992 年起任中央统战部部长，1993 年起兼任全国政协副主席。台办主任一职做到 1996 年，统战部长做到 2002 年。2002 年十六大进入政治局，同年任中华全国总工会主席。
+      cites: [c01-people-2013-02-26-wang-zhaoguo]
+    - h: 两部法律
+      from: 2003
+      to: 2008
+      text: >-
+        2003 年起任十届、十一届全国人大常委会副委员长、党组副书记。2005 年 3 月 8 日，他向十届人大三次会议作《反分裂国家法（草案）》说明，称采取非和平方式是“不得已作出的最后选择”。
+        2007 年 3 月 8 日他又作《物权法（草案）》说明，强调对国家、集体和私人的物权实行平等保护。《纽约时报》后来形容他“曾经带头支持一项保护私有财产的标志性法律”。
+      cites: [c01-people-2013-02-26-wang-zhaoguo, b19-chinanews-2005-03-08-anti-secession, b19-sina-2007-03-08-property-law, c04-nyt-2015-04-28-wang-jianlin]
+    - h: 算不算团派
+      from: 2002
+      to: 2012
+      text: >-
+        他是否算团派，说法不一。China Media Project 的钱钢 2007 年写道，他当过团中央第一书记，但没有人把他与“团派”联系在一起。高新则称他是“团派”出身，在十六届政治局“比选”接班人时，他没有把票投给同样做过团中央第一书记的李克强，而是投给了习近平。于泽远的文章称他为团派大将。
+      cites: [f05-cmp-2007-09-14-factions, f05-rfa-2023-01-13-wang-zhaoguo-xi, f05-thinkhk-2022-10-24-tuanpai]
+    - h: 卸任
+      from: 2012
+      to: 2026
+      text: >-
+        2012 年十八大退出政治局。2013 年 3 月 1 日，全总十五届七次执委会议选举李建国接任全国总工会主席，会议对他领导全总以来的工作给予高度评价；同月十二届全国人大换届，他卸任副委员长。2026 年春节前，他在中央领导看望的老同志名单上。
+      cites: [b19-people-2013-03-02-acftu, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: scholar
+      quote: true
+      text: Then there is Wang Zhaoguo (王兆国), who served formerly as first secretary of the youth league. No one associates Wang with the “Youth League faction.”
+      zh: 再如王兆国，他曾任团中央第一书记，但没有人把他与“团派”联系在一起。
+      cite: f05-cmp-2007-09-14-factions
+    - voice: zh
+      quote: true
+      text: 正是这个“团派”出身的王兆国，在福建省任职时即在省委内部竭力推荐习近平担当重任
+      cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    - voice: zh
+      quote: true
+      text: 1987年，胡耀邦因反對「自由化」不力，被迫辭去總書記職務，團派大將王兆國從中辦主任調任福建省長
+      cite: f05-thinkhk-2022-10-24-tuanpai
+    - voice: official
+      quote: true
+      text: 对王兆国同志领导中华全国总工会以来的工作给予高度评价
+      cite: b19-people-2013-03-02-acftu
+  family:
+    - name: 高秀芝
+      rel: 妻子
+      text: >-
+        维基百科记其妻子为高秀芝，未见其他公开信息。
+      cites: [b19-wiki-wang-zhaoguo]
+    - name: 王新宇
+      rel: 儿子
+      text: >-
+        《纽约时报》2015 年调查万达集团早期股东时报道，王兆国的儿子王新宇是一家北京公司的控股股东；据万达提交给政府的文件，该公司以不到 50 万美元买入万达股份，后来把股权转给一名叫杨欣的年轻女子，王兆国的堂兄弟王兆安说杨欣是王兆国的外甥女。报道称这笔股权当时价值已超过 6.4 亿美元。
+      cites: [c04-nyt-2015-04-28-wang-jianlin]
+  factions:
+    - f: tuanpai
+      cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+      quote: 还有“团派”出身的王兆国及其他当时已经身届高位的福建“老领导”们的加持
+  ids: { wikidata: Q711168 }
+  cites: [wd-Q711168, c01-people-2013-02-26-wang-zhaoguo, f05-rfa-2023-01-13-wang-zhaoguo-xi, f05-people-2013-06-21-cyl-secretaries, f05-thinkhk-2022-10-24-tuanpai, f05-cmp-2007-09-14-factions, b19-chinanews-2005-03-08-anti-secession, b19-sina-2007-03-08-property-law, b19-people-2013-03-02-acftu, b19-wiki-wang-zhaoguo, c04-nyt-2015-04-28-wang-jianlin, b19-xinhua-2026-02-13-old-comrades]
+
+- id: hui-liangyu
+  name: 回良玉
+  pinyin: Huí Liángyù
+  gender: m
+  ethnicity: 回族
+  born: 1944-10
+  birthplace: 吉林榆树
+  education:
+    - { school: 吉林省农业学校, from: 1961, to: 1964 }
+    - { school: 吉林省委党校函授班, degree: 党政干部基础专业（大专）, from: 1984, to: 1987 }
+  joinedParty: 1966-04
+  joinedWork: 1964-08
+  roles: [pb, cc, prov]
+  status: retired
+  statusNote: 2013 年 3 月卸任国务院副总理，2026 年春节仍在中央看望的老同志名单上。
+  tier: 1
+  headline: 国务院副总理（2003–2013）
+  bio: >-
+    回族，吉林榆树人。吉林省农业学校毕业后从榆树县农业局科员做起，在吉林农口干了二十多年，做到副省长。1990 年调任中央政策研究室副主任，此后历任湖北省委副书记、安徽省长和省委书记、江苏省委书记。
+    2002 年进入政治局，2003–2013 年任两届国务院副总理，主管农林水利，被媒体称为“农”副总理，也是两届温家宝政府中唯一连任的副总理。任内推动 2004 年关注农业的中央一号文件出台，并坐镇指挥玉树地震救灾。
+  positions:
+    - { title: 榆树县委副书记, sys: party, place: 吉林, from: 1974, to: 1977, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 吉林省委常委、省委农工部部长, sys: party, place: 吉林, from: 1985, to: 1987, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 吉林省副省长, sys: gov, place: 吉林, from: 1987, to: 1990, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 中央政策研究室副主任, sys: party, from: 1990, to: 1992, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 湖北省委副书记, sys: party, place: 湖北, from: 1992, to: 1994, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 湖北省政协主席, sys: other, place: 湖北, from: 1993, to: 1994, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 安徽省省长, sys: gov, place: 安徽, from: 1994, to: 1998, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 安徽省委书记, sys: party, place: 安徽, from: 1998, to: 1999, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 江苏省委书记, sys: party, place: 江苏, from: 1999, to: 2002, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-ifeng-2007-10-22-hui-liangyu }
+    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2013-03, cite: c01-gov-2018-03-19-state-council-history }
+  life:
+    - h: 榆树
+      from: 1944
+      to: 1977
+      text: >-
+        1944 年 10 月生，回族，吉林榆树人。1961–1964 年在吉林省农业学校学习，20 岁毕业后回到老家榆树县农业局当科员，1966 年 4 月入党。文革中下放县“五七”干校劳动一年，1969 年起在县革委会政治部、县委组织部任职，1972 年兼任于家公社党委书记，1974–1977 年任榆树县委副书记。
+      cites: [c01-ifeng-2007-10-22-hui-liangyu, b19-sina-2008-03-18-hui-profile]
+    - h: 吉林农口
+      from: 1977
+      to: 1990
+      text: >-
+        1977–1984 年任吉林省农业局副局长、省农牧厅副厅长，1984 年任白城地委副书记、行署专员。1985 年吉林省委班子调整，高狄升任省委书记，后来任国务院秘书长的王忠禹任副书记，他和杜青林、李德洙等人升任省委常委，兼省委农村政策研究室主任；1986 年改任恢复设立的省委农工部部长。
+        高新语带讥讽地提到，他这一时期在省委党校函授班拿到了大专学历。1987–1990 年任吉林省副省长。
+      cites: [c01-ifeng-2007-10-22-hui-liangyu, b19-rfa-2014-07-15-hui-gaoxin]
+    - h: 进京与外放
+      from: 1990
+      to: 1999
+      text: >-
+        高新称，六四后主管组织工作的政治局常委宋平主张在农村重搞“社会主义教育运动”，依据的正是他的“吉林经验”；在高狄推荐下，他被调进京任中央政策研究室副主任兼农村组组长，宋平要他“到中央来上班”。高新说，他随即投其所好，建议在中央政策研究室增设“农村社会主义思想教育联络组”。
+        1992 年他外放湖北任省委副书记，次年兼省政协主席；1994 年调安徽任代省长、省长，1998 年任安徽省委书记。
+      cites: [b19-rfa-2014-07-17-hui-conservatives, c01-ifeng-2007-10-22-hui-liangyu]
+    - h: 江苏
+      from: 1999
+      to: 2002
+      text: >-
+        官方简历记他 1999–2002 年任江苏省委书记，维基百科的历任书记表则作 2000 年 1 月至 2002 年 12 月；高新也说他和李源潮都是 2000 年初到江苏，一任书记、一任副书记。
+        2002 年十六大，他和李源潮、省长季允石同被列入中央委员预选名单，江苏代表团大量跑票，李源潮落选中委、只当选候补。十六届一中全会后他进入政治局，江苏省委书记由李源潮接任。高新还写道，后来落马的杨卫泽在他和李源潮主政江苏时继续升迁，但真正的推手是李源潮。
+      cites: [c01-ifeng-2007-10-22-hui-liangyu, p01-wiki-jiangsu-sec, f05-rfa-2015-01-08-yang-weize, k06-rfa-2024-04-15-yuan-jie]
+    - h: “农”副总理
+      from: 2003
+      to: 2008
+      text: >-
+        2003 年 3 月任国务院副总理，主管农林水利。人物素描说，他上任后第一件事是去产粮最多的河南，此后视察的也大多是中西部农业省份；2003 年 9 月他经调研并请示温家宝后，促成了 2004 年关注农业的中央一号文件。
+        2005 年两会在湖南代表团谈到农民工时，他感慨“农民工真不容易！”，还念起打工者的顺口溜“城市大楼我们盖，城市马路我们修”，最后却连工资都不给；他说下矿的矿工 80% 是农民工，“我们得带着感情看他们，善待他们”。
+      cites: [b19-sina-2008-03-18-hui-profile, c01-gov-2018-03-19-state-council-history]
+    - h: 第二任与救灾
+      from: 2008
+      to: 2026
+      text: >-
+        2008 年 3 月连任副总理，是新一届政府中唯一留任的副总理。2010 年 4 月 14 日青海玉树 7.1 级地震当天，他以国务院抗震救灾总指挥部总指挥身份飞抵结古镇，连夜主持会议作出十项部署，强调“当前抗震救灾工作第一位的任务是全力救人”，并要确保受灾群众有饭吃、不受冻。
+        2012 年 3 月在江苏徐州的全国春季农业生产工作会议上，他要求念好“好、抗、高、强、实”五字诀。2013 年 3 月卸任，2026 年春节前仍在中央看望的老同志名单上。
+      cites: [b19-sina-2008-03-18-hui-profile, b19-chinanews-2010-04-15-hui-yushu, b19-cntv-2012-03-23-hui-spring, c01-gov-2018-03-19-state-council-history, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: official
+      quote: true
+      text: 农业系统出身的回良玉为此倾注了诸多心血。
+      cite: b19-sina-2008-03-18-hui-profile
+    - voice: zh
+      quote: true
+      text: 农学专业出身的则只有回良玉一人。第二个理由是回良玉是回族人，他还可以充当那届中央领导集体中唯一一位少数民族代表。
+      cite: b19-rfa-2014-07-15-hui-gaoxin
+    - voice: zh
+      quote: true
+      text: 回良玉在高狄的推荐下能令江泽民相信是“不可多得的懂农业的干部”，从吉林奉调进京出任该研究室副主任兼农村组长，也还是因为他积极迎合了在“六四”事件之后升任政治局常委主管中央组织工作的宋平的极左思路。
+      cite: b19-rfa-2014-07-17-hui-conservatives
+  ids: { wikidata: Q957744 }
+  cites: [wd-Q957744, c01-ifeng-2007-10-22-hui-liangyu, c01-gov-2018-03-19-state-council-history, b19-sina-2008-03-18-hui-profile, b19-rfa-2014-07-15-hui-gaoxin, b19-rfa-2014-07-17-hui-conservatives, b19-chinanews-2010-04-15-hui-yushu, b19-cntv-2012-03-23-hui-spring, p01-wiki-jiangsu-sec, f05-rfa-2015-01-08-yang-weize, k06-rfa-2024-04-15-yuan-jie, b19-wiki-hui-liangyu, b19-xinhua-2026-02-13-old-comrades]
+
+- id: liu-yandong
+  name: 刘延东
+  pinyin: Liú Yándōng
+  gender: f
+  ethnicity: 汉族
+  born: 1945-11-22
+  birthplace: 江苏淮安
+  origin: 江苏南通
+  education:
+    - { school: 清华大学工程化学系, from: 1964, to: 1970 }
+    - { school: 中国人民大学社会学系, degree: 社会学硕士（在职）, from: 1990, to: 1994 }
+    - { school: 吉林大学行政学院, degree: 政治学理论专业法学博士（在职）, from: 1994, to: 1998 }
+  joinedParty: 1964-07
+  joinedWork: 1970-03
+  roles: [pb, cc, minister]
+  status: retired
+  statusNote: 2017 年十九大退出政治局，2018 年 3 月卸任副总理；2019–2023 年任国际儒学联合会会长，2026 年春节仍在中央看望的老同志名单上。
+  tier: 1
+  headline: 国务院副总理（2013–2018）、政治局委员（2007–2017）
+  bio: >-
+    清华大学工程化学系毕业，在唐山、北京的化工厂工作十年后转入北京市委组织部。1982–1991 年任共青团中央书记处书记、常务书记，先后与王兆国、胡锦涛共事；此后在中央统战部工作二十年，2002 年任部长，2003 年任全国政协副主席。
+    2007 年进入政治局，是继邓颖超之后第二位连任的女性政治局委员；2008 年任国务委员，2013–2018 年任国务院副总理，分管教育、卫生、体育等，兼任中国足球改革领导小组组长。2012 年未能进入常委。2019–2023 年任国际儒学联合会会长。
+  positions:
+    - { title: 共青团中央书记处书记、常务书记, sys: party, from: 1982, to: 1991, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 中央统战部副部长, sys: party, from: 1991, to: 2002, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 中央统战部部长, sys: party, from: 2002, to: 2007, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 全国政协副主席, sys: other, from: 2003, to: 2008, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 中央政治局委员, sys: party, from: 2007-10, to: 2017-10, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: c01-people-2013-03-16-liu-yandong }
+    - { title: 国务院副总理, sys: gov, from: 2013-03, to: 2018-03, cite: c01-gov-2018-03-19-state-council-history }
+    - { title: 国际儒学联合会会长, sys: other, from: 2019-11, to: 2023-11, cite: b19-ica-2019-11-20-liu-president }
+  life:
+    - h: 清华与化工厂
+      from: 1945
+      to: 1980
+      text: >-
+        1945 年 11 月生，籍贯江苏南通，维基百科记她生于淮安；父亲刘瑞龙，BBC 说他做过农业部副部长。1964 年考入清华大学工程化学系，同年 7 月入党，在校任年级政治辅导员。
+        1970 年到唐山开平化工厂当工人、技术员，1972 年调北京化工实验厂，从工人做到厂党委副书记。
+      cites: [c01-people-2013-03-16-liu-yandong, b19-wiki-liu-yandong, b19-bbcen-2012-03-05-liu-yandong]
+    - h: 团中央九年
+      from: 1980
+      to: 1991
+      text: >-
+        1980 年调北京市委组织部，1981 年任朝阳区委副书记。1982 年进入团中央，任书记处书记、常务书记，兼全国青联副主席、主席。1982 年 12 月团十一大，她与胡锦涛同时进入书记处，第一书记是王兆国；维基百科说她在团中央先后与王兆国、胡锦涛、宋德福三任负责人共事。高新称她和李源潮是胡锦涛在团中央书记处的左右臂膀。
+      cites: [c01-people-2013-03-16-liu-yandong, f05-people-2013-06-21-cyl-secretaries, b19-wiki-liu-yandong, f05-rfa-2023-01-13-wang-zhaoguo-xi]
+    - h: 统战部二十年
+      from: 1991
+      to: 2007
+      text: >-
+        1991 年转任中央统战部副秘书长，随后升副部长，兼中央社会主义学院党组书记、宋庆龄基金会副主席，其间在职读完人民大学社会学硕士和吉林大学政治学博士。2002 年任统战部部长，2003 年当选全国政协副主席。
+        詹姆斯敦基金会 2006 年刊登的李成文章，把她列为团派进入下一届领导层的四名热门人选之一。
+      cites: [c01-people-2013-03-16-liu-yandong, c01-jamestown-2006-cheng-li-two-factions]
+    - h: 国务委员
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年十七届一中全会进入政治局，2008 年 3 月任国务委员，兼北京奥运会组委会副主席、国家科技教育领导小组副组长。BBC 2012 年介绍她时说，她在中国高层政治中极为罕见，因为她是女性；她与胡锦涛有工作渊源，又是父辈为革命元老的“太子党”。BBC 还说，有分析人士据此把她看作改革派，但很难说她愿意接受多大的变革；她当时 66 岁，即便入常也大概只能做一届。
+        2012 年 8 月北戴河会期，BBC 中文转述日媒说，她与李源潮、令计划一同抵达，被看好进入新一届常委。
+      cites: [c01-people-2013-03-16-liu-yandong, b19-bbcen-2012-03-05-liu-yandong, r01-bbc-2012-08-07-jp-beidaihe]
+    - h: 副总理
+      from: 2012
+      to: 2018
+      text: >-
+        2012 年十八大她连任政治局委员但未进常委。布鲁金斯学会的李成指出，三名年龄合格却未能入常的上届政治局委员都是团派，她是唯一的女性人选。2013 年 3 月由李克强提名任副总理，是第四位女副总理。
+        任内分管教育、卫生、体育等，2015–2018 年任中国足球改革领导小组组长，2015 年 8 月在足球改革发展工作会议上要求打好振兴中国足球的攻坚战。2016 年 12 月她要求高校领导做“中国特色社会主义高校政治家、教育家”；同月与中医药高校教学名师座谈，说 60 年来中医药高等教育培养了近 200 万专门人才。
+      cites: [f01-brookings-2013-02-10-princelings, b19-wiki-liu-yandong, b19-sport-2015-08-17-liu-football, b19-gov-2016-12-09-liu-universities, b19-gov-2016-12-30-liu-tcm]
+    - h: 退休与儒联
+      from: 2017
+      to: 2026
+      text: >-
+        2017 年十九大，71 岁的她退出政治局，2018 年 3 月卸任副总理。詹姆斯敦基金会 2016 年曾预计她退休后会转任人大或政协职务，但她没有再任国家级职务。2019 年 11 月当选国际儒学联合会第六届会长，2023 年 11 月由孙春兰接任。2026 年春节前，她在中央领导看望的老同志名单上。
+      cites: [c01-gov-2018-03-19-state-council-history, f05-jamestown-2016-cyl-eclipse, b19-ica-2019-11-20-liu-president, b19-ica-2023-11-10-sun-succeeds, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: west
+      quote: true
+      text: She is also well-connected. She has work ties to the man in charge at the moment, President Hu Jintao, and is a "princeling", one of a group of senior leaders whose parents were important revolutionaries or officials.
+      zh: 她的人脉也很广：她与现任掌权者胡锦涛主席有工作渊源，又是“太子党”——父母是重要革命者或官员的一批高层领导人之一。
+      cite: b19-bbcen-2012-03-05-liu-yandong
+    - voice: scholar
+      quote: true
+      text: There were three eligible candidates who served on the previous politburo and met the age requirement but failed to be elevated to the PSC at the 18th Party Congress—all were tuanpai leaders. These include the only woman candidate, State Councilor Liu Yandong……All three, especially Wang and Li, are regarded as staunch advocates of political reform.
+      zh: 上届政治局中有三名符合年龄要求的候选人在十八大未能进入常委，全都是团派领导人，其中包括唯一的女性候选人、国务委员刘延东……三人（尤其是汪洋和李源潮）都被视为政治改革的坚定支持者。
+      cite: f01-brookings-2013-02-10-princelings
+    - voice: zh
+      quote: true
+      text: 所谓的“红色基因”决定了习近平与象刘延东，还有栗战书等“团派太子党”之间依然还是“血浓于水”。
+      cite: c01-rfa-2015-02-10-gao-xin-tuanpai-princelings
+  family:
+    - name: 刘瑞龙
+      rel: 父亲
+      text: >-
+        维基百科记其父为刘瑞龙；BBC 说她的父亲做过农业部副部长。
+      cites: [b19-wiki-liu-yandong, b19-bbcen-2012-03-05-liu-yandong]
+    - name: 杨元惺
+      rel: 丈夫
+      text: >-
+        维基百科记其丈夫杨元惺 1942 年生于成都，1961 年参军，毕业于解放军通讯工程学院，高级工程师，任中国艺术摄影学会主席；其父杨显东曾任农业部副部长。
+      cites: [b19-wiki-liu-yandong]
+    - name: 杨帆
+      rel: 女儿
+      text: >-
+        维基百科记其女儿名杨帆，未见其他可靠信息。
+      cites: [b19-wiki-liu-yandong]
+  factions:
+    - f: tuanpai
+      cite: c01-jamestown-2006-cheng-li-two-factions
+      quote: the so-called tuanpai who worked in the national or provincial leadership of the Youth League in the early 1980s when Hu Jintao was the head of the organization. Four front-runners……Liu Yandong (Director of the CCP United Front Work Department)
+      zh: 所谓团派，即 1980 年代初胡锦涛主持团中央时在团中央或省级团委任职者……刘延东（中央统战部部长）
+    - f: princelings
+      cite: c01-rfa-2015-02-10-gao-xin-tuanpai-princelings
+      quote: 这十一个人里，至少有三人既是“共青团”又是“太子党”，即李源潮、刘延东和栗占书。
+  ids: { wikidata: Q455700 }
+  cites: [wd-Q455700, c01-people-2013-03-16-liu-yandong, c01-gov-2018-03-19-state-council-history, c01-jamestown-2006-cheng-li-two-factions, c01-rfa-2015-02-10-gao-xin-tuanpai-princelings, b19-wiki-liu-yandong, b19-bbcen-2012-03-05-liu-yandong, f05-people-2013-06-21-cyl-secretaries, f05-rfa-2023-01-13-wang-zhaoguo-xi, r01-bbc-2012-08-07-jp-beidaihe, f01-brookings-2013-02-10-princelings, b19-sport-2015-08-17-liu-football, b19-gov-2016-12-09-liu-universities, b19-gov-2016-12-30-liu-tcm, f05-jamestown-2016-cyl-eclipse, b19-ica-2019-11-20-liu-president, b19-ica-2023-11-10-sun-succeeds, b19-xinhua-2026-02-13-old-comrades]
+
+- id: liu-qibao
+  name: 刘奇葆
+  pinyin: Liú Qíbǎo
+  gender: m
+  ethnicity: 汉族
+  born: 1953-01
+  birthplace: 安徽宿松
+  education:
+    - { school: 安徽师范大学历史系, from: 1972, to: 1974 }
+    - { school: 吉林大学, degree: 国民经济计划和管理专业经济学硕士（在职）, from: 1991, to: 1993 }
+  joinedParty: 1971-12
+  joinedWork: 1974-09
+  roles: [pb, sec, cc, prov]
+  status: retired
+  statusNote: 2023 年 3 月卸任全国政协副主席后退休，2026 年春节仍在中央看望的老同志名单上。
+  tier: 1
+  headline: 中宣部部长（2012–2017）、政治局委员、书记处书记
+  bio: >-
+    安徽宿松人，生产队指导员出身，安徽师大历史系毕业后在安徽省委宣传部、办公厅工作。1980 年转入共青团，1983 年任团安徽省委书记，1985–1993 年任团中央书记处书记，被视为胡锦涛的团派旧部。此后任人民日报副总编辑、国务院副秘书长，2000 年起在广西任副书记、书记，2007 年底调任四川省委书记，任内经历汶川地震和灾后重建。
+    十八大进入政治局和书记处，执掌中宣部五年；2017 年十九大未到年龄即退出政治局，2018–2023 年任全国政协副主席。
+  positions:
+    - { title: 共青团安徽省委书记, sys: party, place: 安徽, from: 1983, to: 1985, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 团中央书记处书记, sys: party, from: 1985, to: 1993, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 人民日报社副总编辑, sys: other, from: 1993, to: 1994, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 国务院副秘书长, sys: gov, from: 1994, to: 2000, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 广西壮族自治区党委副书记, sys: party, place: 广西, from: 2000-09, to: 2006-06, cite: b19-chinanews-2007-12-01-liu-sichuan }
+    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2006-06, to: 2007-11, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 四川省委书记, sys: party, place: 四川, from: 2007-12, to: 2012-11, cite: c02-cyol-2012-11-16-18th-cvs }
+    - { title: 中央政治局委员、书记处书记, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
+    - { title: 中央宣传部部长, sys: party, from: 2012-11, to: 2017-10, cite: wd-Q194157 }
+    - { title: 全国政协副主席, sys: other, from: 2018-03, to: 2023-03, cite: c02-gov-2018-03-14-cppcc-leaders }
+  life:
+    - h: 宿松与安徽省委
+      from: 1953
+      to: 1980
+      text: >-
+        1953 年 1 月生于安徽宿松，维基百科记其父为刘象成。1968 年起在宿松县洲头公社金坝大队任生产队指导员、大队团支部书记，1971 年 12 月入党。1972–1974 年在安徽师范大学历史系学习，毕业后进安徽省委宣传部理论研究室，1977 年调省委办公厅秘书处任秘书。他后来在职读吉林大学经济学硕士，2012 年的官方简历记为 1991–1993 年，2007 年中新社刊登的简历则记 1992 年 2 月获学位。
+      cites: [c02-cyol-2012-11-16-18th-cvs, b19-chinanews-2007-12-01-liu-sichuan, b19-wiki-liu-qibao]
+    - h: 共青团
+      from: 1980
+      to: 1993
+      text: >-
+        1980 年任团安徽省委宣传部副部长，1982 年任副书记，1983 年任团省委书记，1984–1985 年挂职宿州市长。1985 年 11 月进入团中央书记处，兼团中央机关党委书记，一做八年；团十一大后增选的书记处书记有李源潮、李克强和他。
+        台湾学者蔡文轩把他列为胡锦涛团中央时期的团派干部；香港《太阳报》称他是胡锦涛的“十八罗汉”之一。
+      cites: [c02-cyol-2012-11-16-18th-cvs, b19-chinanews-2007-12-01-liu-sichuan, f05-people-2013-06-21-cyl-secretaries, f05-sef-2012-10-tsai-fifth-gen, c02-sun-2012-11-28-liu-qibao]
+    - h: 人民日报、国务院与广西
+      from: 1993
+      to: 2007
+      text: >-
+        1993 年任人民日报社副总编辑，1994–2000 年任国务院副秘书长。据大纪元（传闻），这段经历使他成为时任国务院秘书长罗干的副手，因此“横跨团派和江派两大派系”。
+        2000 年 9 月调任广西壮族自治区党委副书记，年底兼区党委党校校长；2006 年 6 月接任自治区党委书记，2007 年 1 月兼任自治区人大常委会主任。香港《太阳报》说，他和李源潮一样在北京有过工作“发霉”的日子，胡锦涛掌权后把他们外放地方，才一路顺风顺水。
+      cites: [c02-cyol-2012-11-16-18th-cvs, b19-chinanews-2007-12-01-liu-sichuan, b19-epoch-2017-10-25-liu-out, c02-sun-2012-11-28-liu-qibao]
+    - h: 四川与汶川
+      from: 2007
+      to: 2012
+      text: >-
+        2007 年 12 月 1 日调任四川省委书记，接替杜青林，次年兼省人大常委会主任。2008 年 5 月汶川地震后任省抗震救灾指挥部指挥长。BBC 中文报道，约 7 千间教室或校舍倒塌，数千学生遇难，遇难学生家长认为豆腐渣工程和腐败是根源。
+        8 月底他到绵竹、什邡察看复课，绵竹中学 95% 的校舍已成危房，学生在板房里上课。他要求“决不让一个灾区孩子因灾失学、辍学”，并要求重建的永久校舍提高抗震设防标准，建成让学生、家长、社会放心的“安全岛”。
+      cites: [b19-chinanews-2007-12-01-liu-sichuan, c02-cyol-2012-11-16-18th-cvs, p02-wiki-sichuan-sec, b19-bbc-2008-06-20-school-parents, b19-sohu-2008-09-01-liu-schools]
+    - h: 中宣部长
+      from: 2012
+      to: 2017
+      text: >-
+        2012 年十八届一中全会当选政治局委员、书记处书记，出任中宣部部长；中央社说外界认为这是胡锦涛安排的结果。2017 年 9 月十九大前，他对新任省级宣传部长说，要“按照政治家的标准严格要求自己”，要“把导向、管阵地，不给错误思想提供传播渠道”。
+        香港01 称，他执掌的中宣部是过去五年间被外界诟病最多的中共部门，批评者说它舆论治理手段陈旧、跟不上习近平的思路，甚至有人说中宣部成了习近平的“高级黑”。另据大纪元（传闻）援引港媒，他出任中宣部长是周永康要刘云山推荐的。
+      cites: [c02-xinhua-2012-11-15-18-1-plenum, b19-cna-2017-10-25-three-exit, b19-people-2017-09-16-liu-propaganda, b11-hk01-2017-10-30-huang-propaganda, b19-epoch-2017-10-25-liu-out]
+    - h: 出局与政协
+      from: 2017
+      to: 2026
+      text: >-
+        2017 年十九大，64 岁的他与李源潮、张春贤一样未满 68 岁就退出政治局，但仍当选中央委员；中宣部由常务副部长黄坤明接掌。中央社分析，他作风低调，但团派背景不为习近平所喜。11 月他在《人民日报》撰文谈推动社会主义文化繁荣兴盛，说尊重差异、包容多样不是“无原则的尊重、无底线的包容”。
+        2018–2023 年任全国政协副主席，2026 年春节前仍在中央看望的老同志名单上。
+      cites: [b19-cna-2017-10-25-three-exit, b11-hk01-2017-10-30-huang-propaganda, b19-people-2017-11-13-liu-culture, c02-gov-2018-03-14-cppcc-leaders, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: zh
+      quote: true
+      text: 劉奇葆在任期間作風相對低調，但外界仍有習近平無法百分百掌握黨內宣傳系統的說法。
+      cite: b19-cna-2017-10-25-three-exit
+    - voice: zh
+      quote: true
+      text: 劉奇葆所執掌的中宣部，是過去5年間被外界詬病最多的中共部門
+      cite: b11-hk01-2017-10-30-huang-propaganda
+    - voice: scholar
+      quote: true
+      text: He has practically eliminated his potential competitors from princelings (especially military princelings such as General Liu Yuan and General Liu Yazhou) and from the Youth League group such as Li Yuanchao, Liu Qibao and Lu Hao.
+      zh: 他（习近平）几乎清除了太子党（尤其是刘源、刘亚洲等军中太子党）和共青团派（如李源潮、刘奇葆、陆昊）中的潜在竞争者。
+      cite: f01-thinkchina-2022-09-27-factions
+  family:
+    - name: 刘象成
+      rel: 父亲
+      text: >-
+        维基百科记其父为刘象成，已去世，未见其他公开信息。
+      cites: [b19-wiki-liu-qibao]
+  factions:
+    - f: tuanpai
+      cite: c02-sun-2012-11-28-liu-qibao
+      quote: 劉奇葆則是正兒八經的團派大將，被稱為胡錦濤的「十八羅漢」之一。
+  ids: { wikidata: Q194157 }
+  cites: [wd-Q194157, c02-cyol-2012-11-16-18th-cvs, c02-gov-2018-03-14-cppcc-leaders, c02-sun-2012-11-28-liu-qibao, c02-xinhua-2012-11-15-18-1-plenum, b19-wiki-liu-qibao, b19-chinanews-2007-12-01-liu-sichuan, f05-people-2013-06-21-cyl-secretaries, f05-sef-2012-10-tsai-fifth-gen, b19-epoch-2017-10-25-liu-out, p02-wiki-sichuan-sec, b19-bbc-2008-06-20-school-parents, b19-sohu-2008-09-01-liu-schools, b19-cna-2017-10-25-three-exit, b19-people-2017-09-16-liu-propaganda, b11-hk01-2017-10-30-huang-propaganda, b19-people-2017-11-13-liu-culture, f01-thinkchina-2022-09-27-factions, b19-xinhua-2026-02-13-old-comrades]
+
+- id: wang-chen
+  name: 王晨
+  pinyin: Wáng Chén
+  gender: m
+  ethnicity: 汉族
+  born: 1950-12
+  birthplace: 北京
+  education:
+    - { school: 中国社会科学院研究生院新闻系, degree: 新闻业务专业文学硕士, from: 1979, to: 1982 }
+  joinedParty: 1969-12
+  joinedWork: 1969-01
+  roles: [pb, cc]
+  status: retired
+  statusNote: 2023 年 3 月卸任全国人大常委会副委员长；2025 年 9 月仍以中国延安精神研究会会长身份出席活动，2026 年春节在中央看望的老同志名单上。
+  tier: 1
+  headline: 全国人大常委会副委员长（2013–2023）、政治局委员（2017–2022）
+  bio: >-
+    北京人，1969 年到陕西延安地区宜君县插队，后在县委、延安地委当干部。1974 年进光明日报当记者，读完社科院新闻系硕士后在光明日报做到总编辑，2001 年起任人民日报总编辑、社长。2008–2013 年任中宣部副部长兼国务院新闻办主任，2011 年起兼任首任国家网信办主任，法广称他是网络新闻管制的“沙皇”。
+    2013 年起任全国人大常委会副委员长兼秘书长，2017 年进入政治局，2020、2021 年先后向人大作香港国安立法和选举制度决定草案的说明，被美国制裁。2019 年起兼任中国法学会会长，2023 年退休。
+  positions:
+    - { title: 光明日报总编辑, sys: other, from: 1995, to: 2000, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 人民日报社社长, sys: other, from: 2002, to: 2008, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 中央外宣办、国务院新闻办主任, sys: party, from: 2008, to: 2013, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 国家互联网信息办公室主任, sys: gov, from: 2011-05, to: 2013, cite: b19-gov-2011-05-04-cac }
+    - { title: 全国人大常委会副委员长兼秘书长, sys: other, from: 2013-03, to: 2018-03, cite: c02-gov-2017-10-25-19th-cvs }
+    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2018-03, to: 2023-03, cite: c02-xinhua-2018-03-17-npc-leaders }
+    - { title: 中国法学会会长, sys: other, from: 2019-03, cite: b19-caixin-2019-03-20-law-society }
+    - { title: 中国延安精神研究会会长, sys: other, cite: b19-gscn-2025-09-10-wang-yanan }
+  life:
+    - h: 宜君知青
+      from: 1950
+      to: 1974
+      text: >-
+        1950 年 12 月生，北京人。1969 年 1 月到陕西延安地区宜君县下乡插队，同年 12 月入党，1970 年起任宜君县委宣传部、县委办公室干部，1973 年调延安地委办公室。
+        习近平同期在延安地区插队。自由亚洲电台的高新称王晨是习的“北京哥们”，并说习被推荐上大学时，是已在延安地委任职的王晨具体运作的；这一说法未见官方证实。
+      cites: [c02-gov-2017-10-25-19th-cvs, f04-rfa-2017-10-09-wang-chen]
+    - h: 光明日报与人民日报
+      from: 1974
+      to: 2008
+      text: >-
+        1974 年进光明日报社任国内部记者，1979–1982 年在中国社会科学院研究生院新闻系读硕士，回报社后历任政治经济部记者、群工部主任、总编室主任，1986 年任副总编辑，1995–2000 年任总编辑。
+        2000 年任中宣部副部长，2001 年调任人民日报社总编辑，兼全国记协副主席，2002 年起任社长兼总编辑，2003–2008 年专任社长。财新说他是记者出身，在新闻界和宣传主管部门工作三十多年。
+      cites: [c02-gov-2017-10-25-19th-cvs, b19-caixin-2019-03-20-law-society]
+    - h: 国新办与网信办
+      from: 2008
+      to: 2013
+      text: >-
+        2008 年任中宣部副部长、中央外宣办和国务院新闻办主任。2010 年 1 月谷歌退出中国风波期间，他发表讲话说“淫秽色情信息、黑客攻击、网络欺诈等是网络安全的主要威胁”，要把关闭违法违规网站的工作常态化，还要广泛发动公众举报、落实举报奖励制度；法广称他是中国网络新闻管制的沙皇，认为讲话意在为互联网审查辩护。
+        2011 年 5 月国务院设立国家互联网信息办公室，由他兼任主任。
+      cites: [c02-gov-2017-10-25-19th-cvs, b19-rfi-2010-01-14-wang-internet, b19-gov-2011-05-04-cac]
+    - h: 人大秘书长与法学会
+      from: 2013
+      to: 2019
+      text: >-
+        2013 年 3 月任十二届全国人大常委会副委员长兼秘书长、机关党组书记，2017 年十九届一中全会进入政治局，2018 年 3 月十三届全国人大连任副委员长，不再兼任秘书长。
+        2019 年 3 月他接替王乐泉当选中国法学会会长，财新说在兼任群团组织一把手的副国级领导人中，他是唯一的政治局委员。他在就职讲话中说，决不能走西方“宪政”“三权鼎立”“司法独立”的路子。
+      cites: [c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum, c02-xinhua-2018-03-17-npc-leaders, b19-caixin-2019-03-20-law-society, b19-chinalaw-2019-03-20-wang-chen-speech]
+    - h: 香港立法
+      from: 2020
+      to: 2021
+      text: >-
+        2020 年 5 月 22 日，他向十三届人大三次会议作建立健全香港维护国家安全法律制度和执行机制的决定草案说明，提出采取“决定+立法”的方式分两步推进：先由全国人大作决定并授权，再由人大常委会制定法律、列入基本法附件三。
+        2021 年 3 月 5 日他又作完善香港选举制度的决定草案说明，称香港现行选举制度“存在明显的漏洞和缺陷”，方案以重新构建选举委员会并增加赋权为核心，确保“爱国者治港”。
+        2021 年 3 月美国以香港问题制裁 24 名中港官员，CNN 报道他名列其中，并点明他是 25 人政治局的成员。
+      cites: [b19-xinhua-2020-05-22-wang-hk-nsl, b19-people-2021-03-05-wang-hk-election, b19-cnn-2021-03-17-hk-sanctions]
+    - h: 退休
+      from: 2022
+      to: 2026
+      text: >-
+        2022 年二十大，他与刘鹤、孙春兰等九人不再连任政治局委员，2023 年 3 月卸任人大副委员长。此后仍任中国延安精神研究会会长，2025 年 9 月在兰州出席该会工作经验交流会并讲话，要求把弘扬延安精神与弘扬抗战精神结合起来。2026 年春节前，他在中央领导看望的老同志名单上。
+      cites: [b09-rfa-2022-10-22-20th-cc, c02-xinhua-2018-03-17-npc-leaders, b19-gscn-2025-09-10-wang-yanan, b19-xinhua-2026-02-13-old-comrades]
+  assess:
+    - voice: official
+      quote: true
+      text: 王晨是记者出身，在新闻界和宣传主管部门工作30余年。
+      cite: b19-caixin-2019-03-20-law-society
+    - voice: zh
+      quote: true
+      text: 虽然通篇未直接谈及GOOGLE退出中国事件，但为中国的互联网审查管制制度辩护的用意明显。
+      cite: b19-rfi-2010-01-14-wang-internet
+    - voice: zh
+      quote: true
+      text: 习近平出任总书记的同时安排自己当年下乡插队时的“北京哥们”王歧山和王晨一个出任政治局常委兼中纪委书记，另一个以人大常委会副委员长身份从“政府”的角度为习近平把关宣传、严控网络媒体
+      cite: f04-rfa-2017-10-09-wang-chen
+    - voice: west
+      quote: true
+      text: Among those sanctioned are Wang Chen, a member of the 25-person Politburo, one of China’s top decision-making bodies
+      zh: 被制裁者包括王晨，他是中国最高决策机构之一、25 人的政治局的成员。
+      cite: b19-cnn-2021-03-17-hk-sanctions
+  factions:
+    - f: xi-jiajun
+      cite: f04-rfa-2017-10-09-wang-chen
+      quote: 习近平出任总书记的同时安排自己当年下乡插队时的“北京哥们”王歧山和王晨
+  ids: { wikidata: Q3427716 }
+  cites: [wd-Q3427716, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2017-10-25-19-1-plenum, c02-xinhua-2018-03-17-npc-leaders, f04-rfa-2017-10-09-wang-chen, b19-caixin-2019-03-20-law-society, b19-rfi-2010-01-14-wang-internet, b19-gov-2011-05-04-cac, b19-chinalaw-2019-03-20-wang-chen-speech, b19-xinhua-2020-05-22-wang-hk-nsl, b19-people-2021-03-05-wang-hk-election, b19-cnn-2021-03-17-hk-sanctions, b09-rfa-2022-10-22-20th-cc, b19-gscn-2025-09-10-wang-yanan, b19-xinhua-2026-02-13-old-comrades]

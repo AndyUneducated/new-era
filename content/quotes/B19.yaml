@@ -1,0 +1,138 @@
+# B19: person id → quotes. Every text is checked verbatim against its cite.
+wang-lequan:
+  - text: 跟这个问题是没有关系的。我们国家的民族政策、宗教政策应该说是非常好的，这是没有什么问题的。
+    cite: b19-sina-2002-01-21-wang-lequan-interview
+    kind: interview
+    date: 2002-01
+    occasion: 接受法国《欧洲时报》等记者采访，回应少数民族不满是否引发冲突的追问
+    star: true
+  - text: 这些人的情况是，他们在境外是有背景的。
+    cite: b19-sina-2002-01-21-wang-lequan-interview
+    kind: interview
+    date: 2002-01
+    occasion: 同上，谈 1997 年伊犁事件
+  - text: 我完全拥护中央关于自治区党委主要领导调整的决定。
+    cite: b19-cntv-2010-04-25-xinjiang-meeting
+    kind: public
+    date: 2010-04-24
+    occasion: 新疆全区干部大会，宣布其调离新疆
+  - text: 在新疆工作近20年，从心底里感谢新疆各族干部群众的信任、关心和支持。
+    cite: e02-xinhua-2010-04-24-xinjiang-secretary
+    kind: public
+    date: 2010-04-24
+    occasion: 同上
+  - text: 如果说我有什么爱好的话，我从来不睡懒觉，每天早上起来要快步走一个小时，走4.5至5公里。
+    cite: b19-sina-2002-01-21-wang-lequan-interview
+    kind: interview
+    date: 2002-01
+    occasion: 接受法国记者采访时谈个人生活
+wang-zhaoguo:
+  - text: 采取非和平方式制止分裂国家、捍卫国家主权和领土完整，是我们在和平统一的努力完全无效的情况下，不得已作出的最后选择。
+    cite: b19-chinanews-2005-03-08-anti-secession
+    kind: public
+    date: 2005-03-08
+    occasion: 向十届全国人大三次会议作《反分裂国家法（草案）》的说明
+    star: true
+  - text: 我们从来没有承诺过放弃使用武力。
+    cite: b19-chinanews-2005-03-08-anti-secession
+    kind: public
+    date: 2005-03-08
+    occasion: 同上
+  - text: 依据宪法和法律规定，对国家、集体和私人的物权实行平等保护的原则，同时针对国有财产流失的情况，加强对国有财产的保护
+    cite: b19-sina-2007-03-08-property-law
+    kind: public
+    date: 2007-03-08
+    occasion: 向十届全国人大五次会议作《物权法（草案）》的说明
+  - text: 通过制定物权法，明确并保护私人所有权、业主的建筑物区分所有权、土地承包经营权、宅基地使用权，以维护人民群众的切身利益，激发人们创造财富的活力，促进社会和谐。
+    cite: b19-sina-2007-03-08-property-law
+    kind: public
+    date: 2007-03-08
+    occasion: 同上
+hui-liangyu:
+  - text: 矿井中下矿的矿工80%是农民工。怎么承认他们？怎么给予他们合理的报酬？我们得带着感情看他们，善待他们。
+    cite: b19-sina-2008-03-18-hui-profile
+    kind: adlib
+    date: 2005-03
+    occasion: 全国两会期间参加湖南代表团审议
+    star: true
+  - text: 农民工真不容易！
+    cite: b19-sina-2008-03-18-hui-profile
+    kind: adlib
+    date: 2005-03
+    occasion: 同上
+  - text: 当前抗震救灾工作第一位的任务是全力救人
+    cite: b19-chinanews-2010-04-15-hui-yushu
+    kind: public
+    date: 2010-04-14
+    occasion: 青海玉树地震当晚在结古镇主持国务院抗震救灾总指挥部会议
+  - text: 关键是念好“好、抗、高、强、实”五字诀
+    cite: b19-cntv-2012-03-23-hui-spring
+    kind: public
+    date: 2012-03-22
+    occasion: 江苏徐州全国春季农业生产工作会议
+liu-yandong:
+  - text: 改革创新，开拓进取，打好振兴中国足球这一攻坚战，开创我国体育事业新局面。
+    cite: b19-sport-2015-08-17-liu-football
+    kind: public
+    date: 2015-08-17
+    occasion: 足球改革发展工作会议
+    star: true
+  - text: 要切实加强党对高等教育的领导，高校领导班子要不断提高思想政治素质和办学治校能力，做中国特色社会主义高校政治家、教育家。
+    cite: b19-gov-2016-12-09-liu-universities
+    kind: public
+    date: 2016-12
+    occasion: 教育部直属高校工作咨询委员会第 26 次全体会议
+  - text: 加强“通人文、读经典、重临床、强能力”的综合教育，坚持师承教育贯穿始终
+    cite: b19-gov-2016-12-30-liu-tcm
+    kind: public
+    date: 2016-12-29
+    occasion: 中医药高等教育 60 周年之际与中医药高等学校教学名师座谈
+  - text: 推动中医药走向世界，以中医宝库和中国智慧造福更多民众。
+    cite: b19-gov-2016-12-30-liu-tcm
+    kind: public
+    date: 2016-12-29
+    occasion: 同上
+liu-qibao:
+  - text: 要把导向、管阵地，不给错误思想提供传播渠道
+    cite: b19-people-2017-09-16-liu-propaganda
+    kind: public
+    date: 2017-09-15
+    occasion: 与新任党委宣传部部长研讨班学员座谈
+    star: true
+  - text: 确保学校安全复课是培育灾区的希望，一定要全力以赴保证灾区中小学校安安全全、干干净净开学，决不遗漏一个，决不让一个灾区孩子因灾失学、辍学。
+    cite: b19-sohu-2008-09-01-liu-schools
+    kind: public
+    date: 2008-08-29
+    occasion: 在绵竹、什邡察看地震灾区学校复课
+  - text: 真正把学校建成学生放心、家长放心、社会放心的“安全岛”
+    cite: b19-sohu-2008-09-01-liu-schools
+    kind: public
+    date: 2008-08-29
+    occasion: 同上，谈永久校舍重建
+  - text: 当然，我们讲尊重差异、包容多样，并不是无原则的尊重、无底线的包容，决不能让错误的东西、腐朽的东西、落后的东西滋生蔓延。
+    cite: b19-people-2017-11-13-liu-culture
+    kind: public
+    date: 2017-11-13
+    occasion: 《人民日报》署名文章《推动社会主义文化繁荣兴盛》
+wang-chen:
+  - text: 任何危害国家主权安全、挑战中央权力和香港基本法权威、利用香港对内地进行渗透破坏的活动，都是对底线的触碰，都是绝不能允许的。
+    cite: b19-xinhua-2020-05-22-wang-hk-nsl
+    kind: public
+    date: 2020-05-22
+    occasion: 向十三届全国人大三次会议作香港国安立法决定草案的说明
+    star: true
+  - text: 香港社会出现的一些乱象表明，香港特别行政区现行的选举制度机制存在明显的漏洞和缺陷，为反中乱港势力夺取香港特别行政区管治权提供了可乘之机。
+    cite: b19-people-2021-03-05-wang-hk-election
+    kind: public
+    date: 2021-03-05
+    occasion: 向十三届全国人大四次会议作完善香港选举制度决定草案的说明
+  - text: 淫秽色情信息、黑客攻击、网络欺诈等是网络安全的主要威胁
+    cite: b19-rfi-2010-01-14-wang-internet
+    kind: public
+    date: 2010-01-14
+    occasion: 以国务院新闻办主任身份谈互联网管理（谷歌退出中国风波期间）
+  - text: 决不能照搬别国模式和做法，决不能走西方“宪政”、“三权鼎立”、“司法独立”的路子。
+    cite: b19-chinalaw-2019-03-20-wang-chen-speech
+    kind: public
+    date: 2019-03-20
+    occasion: 当选中国法学会会长后在第八次全国会员代表大会闭幕式上讲话

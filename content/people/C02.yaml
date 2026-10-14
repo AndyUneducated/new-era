@@ -26,34 +26,6 @@
   ids: { wikidata: Q134543 }
   cites: [wd-Q134543, c02-cyol-2012-11-16-18th-cvs, c02-chinanews-2013-03-16-state-council, c01-gov-2018-03-19-state-council-history]
 
-- id: liu-qibao
-  name: 刘奇葆
-  gender: m
-  ethnicity: 汉族
-  born: 1953-01
-  birthplace: 安徽宿松
-  roles: [pb, sec, cc, prov]
-  status: retired
-  statusNote: 2023 年 3 月卸任全国政协副主席后退休。
-  tier: 2
-  headline: 中宣部部长（2012–2017）、政治局委员、书记处书记
-  bio: >-
-    团中央书记处书记出身，被视为胡锦涛的团派旧部。1990 年代任人民日报副总编、国务院副秘书长，随后主政广西、四川，四川任内经历汶川地震。
-    十八大进入政治局和书记处，执掌中宣部五年；十九大未连任政治局委员，转任全国政协副主席。
-  positions:
-    - { title: 团中央书记处书记, sys: party, from: 1985, to: 1993, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 国务院副秘书长, sys: gov, from: 1994, to: 2000, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2006-06, to: 2007-11, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 四川省委书记, sys: party, place: 四川, from: 2007-12, to: 2012-11, cite: c02-cyol-2012-11-16-18th-cvs }
-    - { title: 中央政治局委员、书记处书记, sys: party, from: 2012-11, to: 2017-10, cite: c02-xinhua-2012-11-15-18-1-plenum }
-    - { title: 中央宣传部部长, sys: party, from: 2012-11, to: 2017-10, cite: wd-Q194157 }
-    - { title: 全国政协副主席, sys: other, from: 2018-03, to: 2023-03, cite: c02-gov-2018-03-14-cppcc-leaders }
-  factions:
-    - f: tuanpai
-      cite: c02-sun-2012-11-28-liu-qibao
-      quote: 劉奇葆則是正兒八經的團派大將，被稱為胡錦濤的「十八羅漢」之一。
-  ids: { wikidata: Q194157 }
-  cites: [wd-Q194157, c02-cyol-2012-11-16-18th-cvs, c02-gov-2018-03-14-cppcc-leaders, c02-sun-2012-11-28-liu-qibao]
 
 
 
@@ -155,29 +127,6 @@
   cites: [wd-Q5950419, c02-sina-2012-10-25-pla-hq, c02-xinhua-2013-03-15-npc-cmc, c02-wiki-zhao-keshi]
 
 
-- id: wang-chen
-  name: 王晨
-  gender: m
-  ethnicity: 汉族
-  born: 1950-12
-  birthplace: 北京
-  roles: [pb, cc]
-  status: retired
-  statusNote: 2023 年 3 月卸任全国人大常委会副委员长；Wikidata 现标注其为中国延安精神研究会会长。
-  tier: 2
-  headline: 全国人大常委会副委员长（2013–2023）、政治局委员（2017–2022）
-  bio: >-
-    延安插队知青，长期在新闻宣传系统工作，历任光明日报总编辑、人民日报社社长，2008–2013 年任国务院新闻办公室主任。
-    2013 年起任全国人大常委会副委员长兼秘书长，十九大进入政治局，主管人大立法工作，2023 年退休。
-  positions:
-    - { title: 光明日报总编辑, sys: other, from: 1995, to: 2000, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 人民日报社社长, sys: other, from: 2002, to: 2008, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央外宣办、国务院新闻办主任, sys: party, from: 2008, to: 2013, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 全国人大常委会副委员长兼秘书长, sys: other, from: 2013-03, to: 2018-03, cite: c02-gov-2017-10-25-19th-cvs }
-    - { title: 中央政治局委员, sys: party, from: 2017-10, to: 2022-10, cite: c02-xinhua-2017-10-25-19-1-plenum }
-    - { title: 全国人大常委会副委员长, sys: other, from: 2018-03, to: 2023-03, cite: c02-xinhua-2018-03-17-npc-leaders }
-  ids: { wikidata: Q3427716 }
-  cites: [wd-Q3427716, c02-gov-2017-10-25-19th-cvs, c02-xinhua-2018-03-17-npc-leaders]
 
 
 

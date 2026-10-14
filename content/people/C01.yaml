@@ -160,82 +160,8 @@
   cites: [wd-Q469516, c01-people-2017-05-19-qian-qichen-life]
 
 
-- id: wang-lequan
-  name: 王乐泉
-  gender: m
-  ethnicity: 汉族
-  born: 1944-12
-  birthplace: 山东寿光
-  joinedParty: 1966-03
-  roles: [pb, cc, prov]
-  status: retired
-  statusNote: 2012 年十八大退出政治局，2013 年 11 月当选中国法学会会长。
-  tier: 2
-  headline: 新疆维吾尔自治区党委书记（1995–2010）
-  bio: >-
-    山东寿光的公社、县委干部出身，做过团省委副书记、聊城地委书记、山东副省长。1991 年赴新疆，1995–2010 年任自治区党委书记兼兵团第一政委长达十五年，2002 年进入政治局。
-    2010 年 4 月调离新疆，改任中央政法委副书记。BBC 称他自 2009 年乌鲁木齐骚乱以来一直受到下台压力，但当局没有解释调任是否与骚乱有关。
-  positions:
-    - { title: 寿光县委书记, sys: party, place: 山东, from: 1978, to: 1982, cite: c01-jjckb-2007-10-23-wang-lequan }
-    - { title: 共青团山东省委副书记, sys: party, place: 山东, from: 1982, to: 1986, cite: c01-jjckb-2007-10-23-wang-lequan }
-    - { title: 山东省副省长, sys: gov, place: 山东, from: 1989, to: 1991, cite: c01-jjckb-2007-10-23-wang-lequan }
-    - { title: 新疆维吾尔自治区党委书记, sys: party, place: 新疆, from: 1995, to: 2010-04, cite: c01-jjckb-2007-10-23-wang-lequan }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-jjckb-2007-10-23-wang-lequan }
-    - { title: 中央政法委副书记, sys: party, from: 2010-04, to: 2012-11, cite: c01-cyol-2010-04-25-xinjiang-reshuffle }
-  ids: { wikidata: Q715990 }
-  cites: [wd-Q715990, c01-jjckb-2007-10-23-wang-lequan, c01-cyol-2010-04-25-xinjiang-reshuffle, v01-bbc-2010-04-24-wang-lequan, c01-people-2013-11-30-wang-lequan-law-society]
 
-- id: wang-zhaoguo
-  name: 王兆国
-  gender: m
-  ethnicity: 汉族
-  born: 1941-07-14
-  birthplace: 河北丰润
-  joinedParty: 1965-12
-  roles: [pb, sec, cc, prov, minister]
-  status: retired
-  statusNote: 2013 年卸任全国人大常委会副委员长和全国总工会主席。
-  tier: 2
-  headline: 全国人大常委会副委员长（2003–2013）、全国总工会主席（2002–2013）
-  bio: >-
-    第二汽车制造厂团委书记、党委书记出身，1982 年任团中央第一书记，1984 年任中办主任，1985 年进入中央书记处。1987 年调任福建省长，此后长期主管对台与统战。
-    2002 年进入政治局，2003–2013 年任全国人大常委会副委员长兼全国总工会主席。
-  positions:
-    - { title: 共青团中央书记处第一书记, sys: party, from: 1982, to: 1984, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 中央办公厅主任, sys: party, from: 1984, to: 1986, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 中央书记处书记, sys: party, from: 1985, to: 1987, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 福建省省长, sys: gov, place: 福建, from: 1987, to: 1990, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 中央统战部部长, sys: party, from: 1992, to: 2002, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 全国人大常委会副委员长, sys: gov, from: 2003-03, to: 2013-03, cite: c01-people-2013-02-26-wang-zhaoguo }
-    - { title: 中华全国总工会主席, sys: other, from: 2002, to: 2013, cite: c01-people-2013-02-26-wang-zhaoguo }
-  ids: { wikidata: Q711168 }
-  cites: [wd-Q711168, c01-people-2013-02-26-wang-zhaoguo]
 
-- id: hui-liangyu
-  name: 回良玉
-  gender: m
-  ethnicity: 回族
-  born: 1944-10-01
-  birthplace: 吉林榆树
-  joinedParty: 1966-04
-  roles: [pb, cc, prov]
-  status: retired
-  statusNote: 2013 年 3 月卸任国务院副总理。
-  tier: 2
-  headline: 国务院副总理（2003–2013）
-  bio: >-
-    吉林农业系统干部出身，历任吉林副省长、中央政策研究室副主任、湖北省委副书记，1994 年起主政安徽，1999–2002 年任江苏省委书记。
-    2002 年进入政治局，2003–2013 年连任两届国务院副总理，主管农业、水利与扶贫。
-  positions:
-    - { title: 吉林省副省长, sys: gov, place: 吉林, from: 1987, to: 1990, cite: c01-ifeng-2007-10-22-hui-liangyu }
-    - { title: 安徽省省长, sys: gov, place: 安徽, from: 1994, to: 1998, cite: c01-ifeng-2007-10-22-hui-liangyu }
-    - { title: 安徽省委书记, sys: party, place: 安徽, from: 1998, to: 1999, cite: c01-ifeng-2007-10-22-hui-liangyu }
-    - { title: 江苏省委书记, sys: party, place: 江苏, from: 1999, to: 2002, cite: c01-ifeng-2007-10-22-hui-liangyu }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2012-11, cite: c01-ifeng-2007-10-22-hui-liangyu }
-    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2013-03, cite: c01-gov-2018-03-19-state-council-history }
-  ids: { wikidata: Q957744 }
-  cites: [wd-Q957744, c01-ifeng-2007-10-22-hui-liangyu, c01-gov-2018-03-19-state-council-history]
 
 
 - id: zhang-lichang
@@ -289,38 +215,6 @@
   ids: { wikidata: Q708761 }
   cites: [wd-Q708761, c01-cppcc-2011-06-27-wang-gang]
 
-- id: liu-yandong
-  name: 刘延东
-  gender: f
-  ethnicity: 汉族
-  born: 1945-11-22
-  birthplace: 江苏南通
-  joinedParty: 1964-07
-  roles: [pb, cc, minister]
-  status: retired
-  statusNote: 2017 年十九大退出政治局，2018 年 3 月卸任副总理。
-  tier: 2
-  headline: 国务院副总理（2013–2018）
-  bio: >-
-    清华工程化学系毕业，1982–1991 年任共青团中央书记处书记、常务书记，是胡锦涛在团中央时的副手。2002–2007 年任中央统战部部长。
-    2007 年进入政治局，2008 年任国务委员，2013–2018 年任国务院副总理，主管教育、科技与卫生。
-  positions:
-    - { title: 共青团中央书记处书记、常务书记, sys: party, from: 1982, to: 1991, cite: c01-people-2013-03-16-liu-yandong }
-    - { title: 中央统战部部长, sys: party, from: 2002, to: 2007, cite: c01-people-2013-03-16-liu-yandong }
-    - { title: 全国政协副主席, sys: other, from: 2003, to: 2008, cite: c01-people-2013-03-16-liu-yandong }
-    - { title: 中央政治局委员, sys: party, from: 2007-10, to: 2017-10, cite: c01-people-2013-03-16-liu-yandong }
-    - { title: 国务委员, sys: gov, from: 2008-03, to: 2013-03, cite: c01-people-2013-03-16-liu-yandong }
-    - { title: 国务院副总理, sys: gov, from: 2013-03, to: 2018-03, cite: c01-gov-2018-03-19-state-council-history }
-  factions:
-    - f: tuanpai
-      cite: c01-jamestown-2006-cheng-li-two-factions
-      quote: the so-called tuanpai who worked in the national or provincial leadership of the Youth League in the early 1980s when Hu Jintao was the head of the organization. Four front-runners……Liu Yandong (Director of the CCP United Front Work Department)
-      zh: 所谓团派，即 1980 年代初胡锦涛主持团中央时在团中央或省级团委任职者……刘延东（中央统战部部长）
-    - f: princelings
-      cite: c01-rfa-2015-02-10-gao-xin-tuanpai-princelings
-      quote: 这十一个人里，至少有三人既是“共青团”又是“太子党”，即李源潮、刘延东和栗占书。
-  ids: { wikidata: Q455700 }
-  cites: [wd-Q455700, c01-people-2013-03-16-liu-yandong, c01-gov-2018-03-19-state-council-history, c01-jamestown-2006-cheng-li-two-factions]
 
 - id: he-yong
   name: 何勇

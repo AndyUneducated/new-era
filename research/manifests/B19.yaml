@@ -1,0 +1,334 @@
+# B19: sources for the full biographies of Hui Liangyu, Liu Yandong, Wang Zhaoguo, Wang Lequan, Liu Qibao, Wang Chen.
+web:
+  # --- shared ---
+  - id: b19-xinhua-2026-02-13-old-comrades
+    title: 中央领导同志看望老同志
+    publisher: 新华社
+    date: 2026-02-13
+    voice: official
+    url: https://www.news.cn/politics/20260213/bb33ac95e4d14594991c31dcde3eebbc/c.html
+    start: 新华社北京2月13日电
+    end: 健康长寿。
+
+  - { id: b19-wiki-liu-yandong, title: 刘延东（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘延东, excerpt: true, keep: [ "亲属父亲：刘瑞龙", 和王兆国、胡锦涛、宋德福等三任团中央负责人共事, 成为继邓颖超之后，中共第二位连任的女性中央政治局委员, "丈夫：杨元惺", "女儿：杨帆", 至2018年3月任中国足球改革领导小组组长 ] }
+  - { id: b19-wiki-wang-zhaoguo, title: 王兆国（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王兆国, excerpt: true, keep: [ "妻子：高秀芝" ] }
+  - { id: b19-wiki-hui-liangyu, title: 回良玉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/回良玉, excerpt: true, keep: [ 是两届温家宝政府中，唯一连任的副总理, 被认为是中国高层少见的农业专家和理论人才 ] }
+  - { id: b19-wiki-wang-lequan, title: 王乐泉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王乐泉, excerpt: true, keep: [ 王乐泉破例第三次当选自治区党委书记, 期间有人高喊王乐泉下台, 2019年3月，王乐泉不再担任中国法学会会长 ] }
+  - { id: b19-wiki-liu-qibao, title: 刘奇葆（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘奇葆, excerpt: true, keep: [ "父亲：刘象成" ] }
+
+  # --- Wang Lequan ---
+  - id: b19-sina-2002-01-21-wang-lequan-interview
+    title: 王乐泉就打击民族分裂等坦率接受法国记者采访
+    publisher: 中新网（新浪转载）
+    date: 2002-01-21
+    voice: official
+    url: http://jczs.sina.com.cn/2002-01-21/51712.html
+    start: 中新网北京1月21日消息
+    end: 我也希望通过您，将这里的真实情况告诉外界。
+  - id: b19-voa-2009-09-06-xinjiang-reshuffle
+    title: 港报关注新疆人事变动 称丢卒保帅难平民愤
+    publisher: 美国之音
+    date: 2009-09-06
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-2009-09-06-voa27-60919122/1017294.html
+    excerpt: true
+    keep: [ 面对民众高呼, 程翔指出, 王乐泉的地位相当稳固, 新疆三王 ]
+  - id: b19-bbc-2009-09-07-xinjiang-wang
+    title: 新疆高層人士變動令人關注
+    publisher: BBC 中文
+    date: 2009-09-07
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/trad/hi/newsid_8240000/newsid_8244200/8244245.stm
+    excerpt: true
+    keep: [ 據信也是胡錦濤的盟友, 撤換栗智部分原因, 堅決不信任王樂泉 ]
+  - id: b19-voa-2009-11-02-wang-lequan
+    title: 新疆官员表示王乐泉近期不走
+    publisher: 美国之音
+    date: 2009-11-02
+    voice: zh
+    url: https://www.voachinese.com/a/xinjiang-wang-lequan-20091102-68526967/1007200.html
+    excerpt: true
+    keep: [ 几乎没有说他好话的, 矿泉水瓶子, 薄熙来成为他们期盼的人选之一 ]
+  - id: b19-bbcen-2010-04-24-xinjiang
+    title: China replaces top Communist boss in Xinjiang region
+    publisher: BBC News
+    date: 2010-04-24
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/2/hi/asia-pacific/8641443.stm
+    excerpt: true
+    keep: [ No reason was given for the move, "Last September, thousands of angry Han Chinese" ]
+  - id: b19-guardian-2010-04-25-xinjiang
+    title: China removes Xinjiang province leader
+    publisher: The Guardian
+    date: 2010-04-25
+    voice: west
+    lang: en
+    url: https://www.theguardian.com/world/2010/apr/25/china-removes-xinjiang-leader
+    excerpt: true
+    keep: [ China has removed the hardline, was seen by many as a demotion, Analysts suggested Beijing might also replace Wang ]
+  - id: b19-cntv-2010-04-25-xinjiang-meeting
+    title: 王乐泉兼任中央政法委副书记 张春贤任新疆自治区党委书记
+    publisher: 央视网（新疆日报）
+    date: 2010-04-25
+    voice: official
+    url: https://news.cntv.cn/china/20100425/102031.shtml
+    start: 4月24日上午，新疆自治区在新疆人民会堂
+    end: 希望同志们抓好对讲话的传达学习和贯彻落实。
+  - id: b19-bbc-2010-05-06-xinjiang-policy
+    title: 分析：中国的经济大餐能否安抚新疆？
+    publisher: BBC 中文
+    date: 2010-05-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/indepth/2010/05/100506_ana_xinjiang_policy
+    excerpt: true
+    keep: [ 从王乐泉的铁腕统治, 以张春贤取代王乐泉 ]
+  - id: b19-chinalaw-2019-03-20-wang-chen-speech
+    title: 王晨会长在中国法学会第八次全国会员代表大会闭幕式上的讲话
+    publisher: 中国法学会
+    date: 2019-03-20
+    voice: official
+    url: https://www.chinalaw.org.cn/portal/article/index.html?id=27075
+    start: 各位代表，同志们：
+    end: 以优异成绩庆祝中华人民共和国成立70周年！
+  - id: b19-caixin-2019-03-20-law-society
+    title: 人事观察｜中国法学会换届 王晨接棒王乐泉担任会长
+    publisher: 财新网
+    date: 2019-03-20
+    voice: official
+    url: https://china.caixin.com/2019-03-20/101394667.html
+    excerpt: true
+    keep: [ 接棒74岁的王乐泉, 王晨是其中唯一的中央政治局委员 ]
+
+  # --- Wang Zhaoguo ---
+  - id: b19-chinanews-2005-03-08-anti-secession
+    title: 王兆国关于《反分裂国家法（草案）》的说明
+    publisher: 中新社
+    date: 2005-03-08
+    voice: doc
+    url: http://www.chinanews.com.cn/news/2005/2005-03-08/26/547846.shtml
+    start: 中新社北京三月八日电
+    end: 《反分裂国家法(草案)》和以上说明，请审议。
+  - id: b19-sina-2007-03-08-property-law
+    title: 王兆国有关《物权法》草案的说明（实录）
+    publisher: 新华网（新浪转载）
+    date: 2007-03-08
+    voice: doc
+    url: http://news.sina.com.cn/c/2007-03-08/095612462756.shtml
+    start: 十届全国人大五次会议3月8日举行第二次全体会议
+    end: 草案共5编、19章、247条。
+  - id: b19-people-2013-03-02-acftu
+    title: 全总十五届七次执委会议闭幕 李建国当选中华全国总工会主席
+    publisher: 人民网
+    date: 2013-03-02
+    voice: official
+    url: https://cpc.people.com.cn/n/2013/0302/c64094-20652403.html
+    start: 人民网北京３月１日电
+    end: 充分发挥工会组织的作用。
+
+  # --- Hui Liangyu ---
+  - id: b19-sina-2008-03-18-hui-profile
+    title: 回良玉：曾促成一号惠农文件
+    publisher: 新浪网（转载）
+    date: 2008-03-18
+    voice: official
+    url: https://news.sina.com.cn/c/2008-03-18/023315167999.shtml
+    start: 回良玉，男，回族，1944年10月生
+    end: 把手都拍红了。
+  - id: b19-rfa-2014-07-15-hui-gaoxin
+    title: 习近平至今未敢惊动的回良玉
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2014-07-15
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-07152014152913.html
+    excerpt: true
+    keep: [ 农学专业出身的则只有回良玉一人, 函授 ]
+  - id: b19-rfa-2014-07-17-hui-conservatives
+    title: 回良玉当年被党内保守派集体看好
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2014-07-17
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-07172014103104.html
+    excerpt: true
+    keep: [ 在高狄的推荐下, 所谓“吉林经验”, 到中央来上班 ]
+  - id: b19-chinanews-2010-04-15-hui-yushu
+    title: 回良玉深入青海地震重灾区组织指挥抗震救灾工作
+    publisher: 新华社（中新网转载）
+    date: 2010-04-15
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2010/04-15/2226639.shtml
+    start: 14日上午青海玉树发生7.1级强烈地震
+    end: 已迅速分组、分头开展工作。
+  - id: b19-cntv-2012-03-23-hui-spring
+    title: 回良玉：千方百计夺取全年农业好收成
+    publisher: 新华社（央视网转载）
+    date: 2012-03-23
+    voice: official
+    url: http://news.cntv.cn/china/20120323/103168.shtml
+    start: 新华社南京３月２２日电
+    end: 认真安排好受灾群众和困难群众生活。
+
+  # --- Liu Yandong ---
+  - id: b19-bbcen-2012-03-05-liu-yandong
+    title: "China faces to watch: Liu Yandong"
+    publisher: BBC News
+    author: Michael Bristow
+    date: 2012-03-05
+    voice: west
+    lang: en
+    url: https://www.bbc.co.uk/news/world-asia-china-17219631
+    excerpt: true
+    keep: [ something extremely rare, She is also well-connected, father was a vice-minister, Some analysts suggest, At 66, she could ]
+  - id: b19-sport-2015-08-17-liu-football
+    title: 刘延东在出席足球改革发展工作会议时强调 打好振兴中国足球攻坚战
+    publisher: 新华社（国家体育总局网站）
+    date: 2015-08-17
+    voice: official
+    url: https://www.sport.gov.cn/n4/n10704/n10725/n15290/c320797/content.html
+    start: 新华社北京8月17日体育专电
+    end: 为推动经济社会发展和提高人民健康水平贡献力量。
+  - id: b19-gov-2016-12-09-liu-universities
+    title: 刘延东：办好中国特色社会主义高校 推动我国高等教育事业迈上新台阶
+    publisher: 新华社（中国政府网）
+    date: 2016-12-09
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2016-12/09/content_5145982.htm
+    start: 新华社北京12月9日电
+    end: 做中国特色社会主义高校政治家、教育家。
+  - id: b19-gov-2016-12-30-liu-tcm
+    title: 刘延东：深化教育改革 促进中医药振兴发展
+    publisher: 新华社（中国政府网）
+    date: 2016-12-30
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2016-12/30/content_5155054.htm
+    start: 新华社北京12月30日电 2016年
+    end: 营造中医药发展的良好环境。
+  - id: b19-ica-2019-11-20-liu-president
+    title: 纪念孔子诞辰2570周年国际学术研讨会暨国际儒学联合会第六届会员大会圆满举行
+    publisher: 国际儒学联合会
+    date: 2019-11-20
+    voice: official
+    url: https://www.ica.org.cn/2019-11/20/c_181996.htm
+    excerpt: true
+    keep: [ 大会选举刘延东为国际儒学联合会第六届会长, 中国国务院原副总理刘延东 ]
+  - id: b19-ica-2023-11-10-sun-succeeds
+    title: 第六届国际儒学联合会执行委员会会议在京召开
+    publisher: 国际儒学联合会
+    date: 2023-11-10
+    voice: official
+    url: https://www.ica.org.cn/2023-11/10/c_181859.htm
+    excerpt: true
+    keep: [ 并经执行委员会成员一致表决通过接任国际儒联会长 ]
+
+  # --- Liu Qibao ---
+  - id: b19-chinanews-2007-12-01-liu-sichuan
+    title: 刘奇葆任中共四川省委书记 杜青林另有重要任用
+    publisher: 中新网
+    date: 2007-12-01
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/12-01/1092855.shtml
+    start: 中新社成都十二月一日电
+    end: 补选为第十届全国人民代表大会代表。
+  - id: b19-sohu-2008-09-01-liu-schools
+    title: 确保学校安全复课是培育灾区的希望
+    publisher: 四川日报（搜狐转载）
+    date: 2008-09-01
+    voice: official
+    url: https://news.sohu.com/20080901/n259301849.shtml
+    start: 本报讯（记者方晓哺）
+    end: 副省长黄彦蓉及省直有关部门负责同志陪同察看。
+  - id: b19-bbc-2008-06-20-school-parents
+    title: 成都地震遇難學生家長靜坐討說法
+    publisher: BBC 中文
+    date: 2008-06-20
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/trad/hi/newsid_7460000/newsid_7465000/7465042.stm
+    excerpt: true
+    keep: [ 約有7千間教室, 豆腐渣工程以及腐敗 ]
+  - id: b19-people-2017-09-16-liu-propaganda
+    title: 刘奇葆与新任党委宣传部部长研讨班学员座谈强调
+    publisher: 新华社（人民日报海外版）
+    date: 2017-09-16
+    voice: official
+    url: https://paper.people.com.cn/rmrbhwb/html/2017-09/16/content_1805613.htm
+    start: 新华社北京9月15日电
+    end: 使宣传思想工作始终充满生机活力。
+  - id: b19-cna-2017-10-25-three-exit
+    title: 李源潮張春賢劉奇葆 未屆齡退出政治局
+    publisher: 中央社
+    author: 邱國強
+    date: 2017-10-25
+    voice: zh
+    url: https://web.archive.org/web/20171026000000/http://www.cna.com.tw/news/acn/201710250192-1.aspx
+    excerpt: true
+    keep: [ 年齡未滿68歲門檻即告卸任, 至於中共中央宣傳部長劉奇葆, 劉奇葆在任期間作風相對低調, 不為習近平所喜 ]
+  - id: b19-people-2017-11-13-liu-culture
+    title: 刘奇葆：推动社会主义文化繁荣兴盛
+    publisher: 人民日报
+    date: 2017-11-13
+    voice: official
+    url: http://cpc.people.com.cn/n1/2017/1113/c64094-29641456.html
+    start: 文化是一个国家、一个民族的灵魂。
+    end: 提高国家文化软实力。
+  - id: b19-epoch-2017-10-25-liu-out
+    title: 中宣部刘奇葆出局 习家军收回“笔杆子”
+    publisher: 大纪元
+    date: 2017-10-25
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/17/10/25/n9769572.htm
+    excerpt: true
+    keep: [ 刘奇葆横跨团派和江派两大派系, 据港媒披露 ]
+
+  # --- Wang Chen ---
+  - id: b19-rfi-2010-01-14-wang-internet
+    title: 中国官方：中国互联网是开放的 但是网上监控很有必要
+    publisher: 法广
+    date: 2010-01-14
+    voice: zh
+    url: https://web.archive.org/web/20100117183506/http://www.rfi.fr/actucn/articles/121/article_18774.asp
+    excerpt: true
+    keep: [ 中国网络新闻管制的沙皇, 淫秽色情信息、黑客攻击, 曝光、谴责、关闭违法违规网站 ]
+  - id: b19-gov-2011-05-04-cac
+    title: 国办通知设立国家互联网信息办公室 王晨任主任
+    publisher: 新华社（中国政府网）
+    date: 2011-05-04
+    voice: official
+    url: https://web.archive.org/web/20220330013127/http://www.gov.cn/rsrm/2011-05/04/content_1857301.htm
+    start: 新华社北京５月４日电 经国务院同意，国务院办公厅
+    end: 张新枫任国家互联网信息办公室兼职副主任。
+  - id: b19-xinhua-2020-05-22-wang-hk-nsl
+    title: 王晨作关于《全国人民代表大会关于建立健全香港特别行政区维护国家安全的法律制度和执行机制的决定（草案）》的说明
+    publisher: 新华社
+    date: 2020-05-22
+    voice: doc
+    url: http://lianghui.people.com.cn/2020npc/n1/2020/0522/c431623-31719672.html
+    start: 新华社北京5月22日电 十三届
+    end: 确保相关法律在香港特别行政区有效实施。
+  - id: b19-people-2021-03-05-wang-hk-election
+    title: 关于《全国人民代表大会关于完善香港特别行政区选举制度的决定（草案）》的说明
+    publisher: 新华社
+    date: 2021-03-05
+    voice: doc
+    url: http://lianghui.people.com.cn/2021npc/n1/2021/0305/c435267-32043633.html
+    start: 各位代表：
+    end: 和以上说明，请审议。
+  - id: b19-cnn-2021-03-17-hk-sanctions
+    title: US sanctions 24 Hong Kong and Chinese officials ahead of Blinken meeting with Beijing
+    publisher: CNN
+    date: 2021-03-17
+    voice: west
+    lang: en
+    url: https://www.cnn.com/2021/03/17/asia/us-hong-kong-china-sanctions-intl-hnk
+    excerpt: true
+    keep: [ Washington has sanctioned 24, Among those sanctioned are Wang Chen ]
+  - id: b19-gscn-2025-09-10-wang-yanan
+    title: “加强延安精神研究会能力建设 在新时代大力弘扬延安精神”工作经验交流会举行
+    publisher: 甘肃日报（中国甘肃网）
+    date: 2025-09-10
+    voice: official
+    url: https://gansu.gscn.com.cn/system/2025/09/10/013383066.shtml
+    start: 中国甘肃网9月10日讯
+    end: 让延安精神绽放出新的时代光芒。

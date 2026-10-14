@@ -1,0 +1,747 @@
+# P03: dossier cards for provincial chiefs (content/chiefs) who had no entry yet
+- id: yang-xiong
+  name: 杨雄
+  pinyin: Yang Xiong
+  gender: m
+  born: 1953-11
+  died: 2021-04-12
+  birthplace: 浙江杭州
+  roles: [prov]
+  status: dead
+  statusNote: 2021 年 4 月 12 日在上海病逝。
+  tier: 2
+  headline: 原上海市市长（2013—2017），2021 年病逝
+  ids: { wikidata: Q2117887 }
+  bio: >-
+    出身上海计委和市属投资、航空企业，2003 年起任上海市副市长近十年，参与筹办 2010 年世博会。2012 年底接替韩正任代市长，
+    2013 年 2 月当选市长，2017 年初卸任后转任全国人大财经委副主任委员、全国政协常委，2021 年 4 月病逝。
+  positions:
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 2003-02, to: 2012-12, cite: p03-xinhua-2021-05-06-yang-xiong }
+    - { title: 上海市委副书记、代市长, sys: gov, place: 上海, from: 2012-12, to: 2013-02, cite: p01-wiki-yang-xiong }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 2013-02, to: 2017-01, cite: p01-wiki-shanghai-gov }
+    - { title: 全国人大财政经济委员会副主任委员, sys: other, from: 2017-02, to: 2018-03, cite: p03-xinhua-2021-05-06-yang-xiong }
+    - { title: 全国政协常委、外事委员会副主任, sys: other, from: 2018-03, cite: p03-xinhua-2021-05-06-yang-xiong }
+  cites: [wd-Q2117887, p03-xinhua-2021-05-06-yang-xiong, p01-wiki-yang-xiong, p01-wiki-shanghai-gov]
+
+- id: zhu-zhongming
+  name: 朱忠明
+  pinyin: Zhu Zhongming
+  gender: m
+  born: 1972-04
+  birthplace: 浙江海宁
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 上海市市长（2026— ），财政系统出身
+  ids: { wikidata: Q97162698 }
+  bio: >-
+    长期在财政系统工作，2020 年任湖南省副省长，2021 年回京任财政部副部长，2024 年 7 月调任上海市委副书记并兼政法委书记。
+    2026 年 9 月接替龚正任代市长，同月 30 日当选上海市市长。
+  positions:
+    - { title: 湖南省副省长, sys: gov, place: 湖南, from: 2020-04, to: 2021-07, cite: p03-wiki-zhu-zhongming }
+    - { title: 财政部副部长, sys: gov, from: 2021-07, to: 2024-07, cite: p03-wiki-zhu-zhongming }
+    - { title: 上海市委副书记, sys: party, place: 上海, from: 2024-07, cite: p03-wiki-zhu-zhongming }
+    - { title: 上海市代市长, sys: gov, place: 上海, from: 2026-09, to: 2026-09, cite: p01-xinhua-2026-09-04-zhu-zhongming }
+    - { title: 上海市市长, sys: gov, place: 上海, from: 2026-09, cite: p01-xinhua-2026-09-30-zhu-zhongming }
+  cites: [wd-Q97162698, p03-wiki-zhu-zhongming, p01-xinhua-2026-09-04-zhu-zhongming, p01-xinhua-2026-09-30-zhu-zhongming]
+
+- id: li-jiating
+  name: 李嘉廷
+  pinyin: Li Jiating
+  gender: m
+  ethnicity: 彝族
+  born: 1944-04
+  birthplace: 云南石屏
+  roles: [prov, acc, tiger]
+  status: detained
+  statusNote: "2003 年终审维持死缓判决；未见减刑或释放的公开报道。"
+  fall:
+    - { date: 2001-09-26, text: 中共十五届六中全会撤销其中央候补委员职务并开除党籍。, cite: e01-cpc-dsj-2001 }
+    - { date: 2003-05-09, text: 北京市第二中级人民法院以受贿罪（1810 万余元）一审判处其死刑缓期二年执行。, cite: p03-chinanews-2003-05-09-li-jiating }
+    - { date: 2003-06-20, text: 北京市高级人民法院驳回上诉，维持原判。, cite: p03-chinanews-2003-06-20-li-jiating-appeal }
+  tier: 2
+  headline: 原云南省省长（1998—2001），2003 年以受贿罪被判死缓
+  ids: { wikidata: Q8291359 }
+  bio: >-
+    清华大学电机系毕业，在黑龙江官至哈尔滨市市长，1993 年调任云南副省长，1998 年任省长。2001 年落马，
+    法院认定其 1994 年至 2000 年间单独或伙同其子收受贿赂 1810 万余元，2003 年判处死缓。
+  positions:
+    - { title: 哈尔滨市市长, sys: gov, place: 黑龙江, cite: p03-wiki-li-jiating }
+    - { title: 云南省副省长、省委副书记, sys: gov, place: 云南, from: 1993, to: 1998-01, cite: p03-wiki-li-jiating }
+    - { title: 云南省省长, sys: gov, place: 云南, from: 1998-01, to: 2001-06, cite: p02-wiki-yunnan-gov }
+  cites: [wd-Q8291359, p03-wiki-li-jiating, p02-wiki-yunnan-gov, e01-cpc-dsj-2001, p03-chinanews-2003-05-09-li-jiating, p03-chinanews-2003-06-20-li-jiating-appeal]
+
+- id: linghu-an
+  name: 令狐安
+  pinyin: Linghu An
+  gender: m
+  born: 1946-10
+  birthplace: 山西平陆
+  roles: [prov, cc, ccdi]
+  status: retired
+  tier: 2
+  headline: 原云南省委书记（1997—2001），后任审计署副审计长、中纪委常委
+  ids: { wikidata: Q8340181 }
+  bio: >-
+    大连起家，1989 年任劳动部副部长，1993 年调任云南省委副书记，1997 年升任省委书记，任内云南举办 1999 年昆明世博会。
+    2001 年李嘉廷案后调任审计署副审计长（正部长级），后任中纪委常委、中央巡视组组长和全国人大常委。
+  positions:
+    - { title: 劳动部副部长, sys: gov, from: 1989-09, to: 1993-09, cite: p03-people-2014-07-30-linghu-an }
+    - { title: 云南省委副书记, sys: party, place: 云南, from: 1993-09, to: 1997-08, cite: p03-people-2014-07-30-linghu-an }
+    - { title: 云南省委书记, sys: party, place: 云南, from: 1997-08, to: 2001-10, cite: p03-people-2014-07-30-linghu-an }
+    - { title: 云南省政协主席, sys: other, place: 云南, from: 1998-01, cite: p03-people-2014-07-30-linghu-an }
+    - { title: 审计署副审计长（正部长级）, sys: gov, from: 2001-10, cite: p03-people-2014-07-30-linghu-an }
+    - { title: 中央纪委常委, sys: party, from: 2007-10, cite: p03-wiki-linghu-an }
+    - { title: 全国人大常委会委员、华侨委员会副主任委员, sys: other, from: 2013-03, cite: p03-wiki-linghu-an }
+  cites: [wd-Q8340181, p03-people-2014-07-30-linghu-an, p03-wiki-linghu-an, p02-wiki-yunnan-sec]
+
+- id: yun-bulong
+  name: 云布龙
+  pinyin: Yun Bulong
+  gender: m
+  ethnicity: 蒙古族
+  born: 1937-12
+  died: 2000-06-12
+  birthplace: 内蒙古土默特左旗
+  roles: [prov, cc]
+  status: dead
+  statusNote: 2000 年 6 月 12 日在锡林郭勒盟视察途中遇车祸殉职。
+  tier: 2
+  headline: 原内蒙古自治区主席（1998—2000），在任上车祸殉职
+  ids: { wikidata: Q10881219 }
+  bio: >-
+    太原工学院机械系毕业，1992 年任内蒙古自治区副主席，1994 年任自治区党委副书记兼纪委书记，1998 年当选自治区主席。
+    2000 年 6 月 12 日在锡林郭勒盟正蓝旗视察途中，座车在无人看守的铁路道口与火车相撞，因公殉职。
+  positions:
+    - { title: 内蒙古自治区高级人民法院副院长, sys: other, place: 内蒙古, from: 1990-08, to: 1992-05, cite: p03-wiki-yun-bulong }
+    - { title: 内蒙古自治区副主席, sys: gov, place: 内蒙古, from: 1992-05, to: 1998-01, cite: p03-wiki-yun-bulong }
+    - { title: 内蒙古自治区党委副书记兼纪委书记, sys: party, place: 内蒙古, from: 1994-12, cite: p03-wiki-yun-bulong }
+    - { title: 内蒙古自治区主席, sys: gov, place: 内蒙古, from: 1998-01, to: 2000-06, cite: p03-wiki-yun-bulong }
+  cites: [wd-Q10881219, p03-wiki-yun-bulong, p03-chinanews-2000-06-14-yun-bulong, p01-wiki-neimenggu-gov]
+
+- id: liu-mingzu
+  name: 刘明祖
+  pinyin: Liu Mingzu
+  gender: m
+  born: 1936-09
+  died: 2022-12-28
+  birthplace: 山东威海
+  roles: [prov, cc, acc]
+  status: dead
+  statusNote: 2022 年 12 月 28 日在山东威海病逝。
+  tier: 2
+  headline: 原内蒙古自治区党委书记（1994—2001），2022 年病逝
+  ids: { wikidata: Q8296056 }
+  bio: >-
+    山东威海人，在威海、烟台、临沂基层任职多年，1988 年起任广西壮族自治区党委副书记、自治区人大常委会主任。
+    1994 年调任内蒙古自治区党委书记，后兼自治区人大常委会主任，2002 年起任全国人大民族委员会副主任委员、农业与农村委员会主任委员。
+  positions:
+    - { title: 临沂地委书记, sys: party, place: 山东, to: 1988-12, cite: p03-rmrb-2023-01-14-liu-mingzu }
+    - { title: 广西壮族自治区党委副书记、自治区人大常委会主任, sys: party, from: 1988-12, to: 1994-08, cite: p03-rmrb-2023-01-14-liu-mingzu }
+    - { title: 内蒙古自治区党委书记, sys: party, place: 内蒙古, from: 1994-08, to: 2001-08, cite: p01-wiki-neimenggu-sec }
+    - { title: 内蒙古自治区人大常委会主任, sys: other, place: 内蒙古, from: 1997, to: 2002-04, cite: p03-wiki-liu-mingzu }
+    - { title: 全国人大民族委员会副主任委员、农业与农村委员会主任委员, sys: other, from: 2002-04, to: 2008-03, cite: p03-rmrb-2023-01-14-liu-mingzu }
+  cites: [wd-Q8296056, p03-rmrb-2023-01-14-liu-mingzu, p03-wiki-liu-mingzu, p01-wiki-neimenggu-sec]
+
+- id: wei-hong
+  name: 魏宏
+  pinyin: Wei Hong
+  gender: m
+  born: 1954-05
+  birthplace: 山东沂南
+  roles: [prov, tiger]
+  status: purged
+  statusNote: "2016 年受撤销党内职务、行政撤职处分；未见移送司法的报道。"
+  fall:
+    - { date: 2016-02-04, text: 中央纪委通报四川省原省长魏宏受到撤销党内职务、行政撤职处分。, cite: t01-ccdi-djcf-list-p4 }
+  tier: 2
+  headline: 原四川省省长（2013—2016），2016 年受撤职处分
+  ids: { wikidata: Q7929538 }
+  bio: >-
+    军人出身，长期在四川省委组织部任职，2002 年任省委常委、组织部部长，2007 年任常务副省长。李春城落马后升任省委副书记，
+    2013 年 1 月接替蒋巨峰任代省长、省长，2016 年初去职，同年 2 月被中央纪委给予撤销党内职务、行政撤职处分。
+  positions:
+    - { title: 四川省委常委、组织部部长, sys: party, place: 四川, from: 2002-12, to: 2007-05, cite: p03-chinanews-2013-01-29-wei-hong }
+    - { title: 四川省委常委、常务副省长, sys: gov, place: 四川, from: 2007-05, to: 2013-01, cite: p03-chinanews-2013-01-29-wei-hong }
+    - { title: 四川省代省长, sys: gov, place: 四川, from: 2013-01-05, to: 2013-01-29, cite: p03-chinanews-2013-01-29-wei-hong }
+    - { title: 四川省省长, sys: gov, place: 四川, from: 2013-01-29, to: 2016-01, cite: p02-wiki-wei-hong }
+  cites: [wd-Q7929538, p03-chinanews-2013-01-29-wei-hong, p02-wiki-wei-hong, t01-ccdi-djcf-list-p4]
+
+- id: xie-shijie
+  name: 谢世杰
+  pinyin: Xie Shijie
+  gender: m
+  born: 1934-09
+  birthplace: 四川梁山（今重庆梁平）
+  roles: [prov]
+  status: retired
+  tier: 2
+  headline: 原四川省委书记（1993—2000）
+  ids: { wikidata: Q8293737 }
+  bio: >-
+    西南农学院毕业，长期在雅安地区工作，1985 年调任四川省委常委、副省长，1992 年任省委副书记，次年升任省委书记，
+    1998 年兼任省人大常委会主任，2000 年由周永康接任书记。
+  positions:
+    - { title: 四川省委常委、副省长, sys: gov, place: 四川, from: 1985, to: 1992, cite: p03-wiki-xie-shijie }
+    - { title: 四川省委副书记, sys: party, place: 四川, from: 1992, to: 1993-04, cite: p03-wiki-xie-shijie }
+    - { title: 四川省委书记, sys: party, place: 四川, from: 1993-04, to: 2000-01, cite: p02-wiki-sichuan-sec }
+    - { title: 四川省人大常委会主任, sys: other, place: 四川, from: 1998, cite: p03-wiki-xie-shijie }
+  cites: [wd-Q8293737, p03-wiki-xie-shijie, p02-wiki-sichuan-sec]
+
+- id: liao-guoxun
+  name: 廖国勋
+  pinyin: Liao Guoxun
+  gender: m
+  ethnicity: 土家族
+  born: 1963-02-09
+  died: 2022-04-27
+  birthplace: 四川成都
+  roles: [prov, ccdi]
+  status: dead
+  statusNote: 2022 年 4 月 27 日在天津市长任上因突发疾病去世。
+  tier: 2
+  headline: 天津市市长（2020—2022），在任上突发疾病去世
+  ids: { wikidata: Q8993288 }
+  bio: >-
+    在贵州起家，任过铜仁地委书记、贵州省委秘书长，后历任浙江省委组织部部长、上海市纪委书记、上海市委副书记。
+    2020 年 9 月调任天津市代市长、市长，十九届中央纪委委员，2022 年 4 月 27 日因突发疾病去世，终年 59 岁。
+  positions:
+    - { title: 上海市委副书记、政法委书记, sys: party, place: 上海, from: 2020-02, to: 2020-08, cite: p03-tjrb-2022-04-28-liao-guoxun }
+    - { title: 天津市委副书记, sys: party, place: 天津, from: 2020-08, to: 2022-04, cite: p03-tjrb-2022-04-28-liao-guoxun }
+    - { title: 天津市代市长, sys: gov, place: 天津, from: 2020-09, to: 2020-09, cite: p01-xinhua-2020-09-03-liao-guoxun }
+    - { title: 天津市市长, sys: gov, place: 天津, from: 2020-09, to: 2022-04, cite: p01-wiki-liao-guoxun }
+  cites: [wd-Q8993288, p03-tjrb-2022-04-28-liao-guoxun, p01-xinhua-2020-09-03-liao-guoxun, p01-wiki-liao-guoxun]
+
+- id: mao-rubai
+  name: 毛如柏
+  pinyin: Mao Rubai
+  gender: m
+  born: 1938
+  birthplace: 江苏扬州
+  roles: [prov]
+  status: retired
+  tier: 2
+  headline: 原宁夏回族自治区党委书记（1997—2002）
+  ids: { wikidata: Q3287194 }
+  bio: >-
+    南京大学气象系毕业后在西藏工作二十多年，由气象局长升任西藏自治区党委副书记，1993 年任建设部副部长。
+    1997 年任宁夏回族自治区党委书记，后兼自治区人大常委会主任，2002 年起任全国人大环境与资源保护委员会副主任委员、主任委员。
+  positions:
+    - { title: 西藏自治区党委副书记、自治区副主席, sys: party, place: 西藏, from: 1984, to: 1993, cite: p03-nju-mao-rubai }
+    - { title: 建设部副部长, sys: gov, from: 1993, to: 1997, cite: p03-nju-mao-rubai }
+    - { title: 宁夏回族自治区党委书记, sys: party, place: 宁夏, from: 1997-08, to: 2002-03, cite: p02-wiki-ningxia-sec }
+    - { title: 宁夏回族自治区人大常委会主任, sys: other, place: 宁夏, from: 1998, cite: p03-wiki-mao-rubai }
+    - { title: 全国人大环境与资源保护委员会副主任委员、主任委员, sys: other, from: 2002, to: 2008, cite: p03-nju-mao-rubai }
+  cites: [wd-Q3287194, p03-nju-mao-rubai, p03-wiki-mao-rubai, p02-wiki-ningxia-sec]
+
+- id: xu-zhonglin
+  name: 许仲林
+  pinyin: Xu Zhonglin
+  gender: m
+  born: 1943-12
+  birthplace: 江苏武进
+  roles: [prov]
+  status: retired
+  statusNote: 2026 年 2 月仍在江苏省领导春节看望的正省级老同志之列。
+  tier: 2
+  headline: 原安徽省省长（2000—2002），后任江苏省政协主席
+  ids: { wikidata: Q9344693 }
+  bio: >-
+    解放军测绘学院出身，在徐州任至市长，1991 年任江苏省委组织部部长，1994 年任省委副书记。1999 年底调任安徽，
+    2000 年 1 月起任安徽省省长，2002 年 10 月回江苏任省委副书记，2003 年当选江苏省政协主席。
+  positions:
+    - { title: 江苏省委副书记, sys: party, place: 江苏, from: 1994-12, to: 1999-12, cite: p03-cctv-2007-12-17-xu-zhonglin }
+    - { title: 安徽省委副书记, sys: party, place: 安徽, from: 1999-12, to: 2002-10, cite: p03-cctv-2007-12-17-xu-zhonglin }
+    - { title: 安徽省省长, sys: gov, place: 安徽, from: 2000-01, to: 2002-10, cite: p01-chinanews-2002-10-16-xu-zhonglin }
+    - { title: 江苏省委副书记, sys: party, place: 江苏, from: 2002-10, cite: p03-cctv-2007-12-17-xu-zhonglin }
+    - { title: 江苏省政协主席, sys: other, place: 江苏, from: 2003-02, cite: p03-cctv-2007-12-17-xu-zhonglin }
+  cites: [wd-Q9344693, p03-cctv-2007-12-17-xu-zhonglin, p01-chinanews-2002-10-16-xu-zhonglin, p03-wiki-xu-zhonglin, p03-zgjssw-2026-02-13-jiangsu-elders]
+
+- id: wang-dongwei
+  name: 王东伟
+  pinyin: Wang Dongwei
+  gender: m
+  born: 1969-09
+  birthplace: 河南唐河
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 安徽省代省长（2026— ），在财政部工作多年
+  ids: { wikidata: Q30950349 }
+  bio: >-
+    上海财经大学毕业，长期在财政部工作，2017 年回河南任财政厅厅长，后任信阳市委书记、河南省委统战部部长。
+    2022 年重返财政部任副部长，2025 年 10 月调任安徽省委常委、常务副省长，2026 年 9 月接替王清宪任安徽省代省长。
+  positions:
+    - { title: 河南省财政厅厅长, sys: gov, place: 河南, from: 2017-03, to: 2021-07, cite: p03-wiki-wang-dongwei }
+    - { title: 河南省委常委、统战部部长, sys: party, place: 河南, from: 2021-11, to: 2022-07, cite: p03-wiki-wang-dongwei }
+    - { title: 财政部副部长, sys: gov, from: 2022-07, to: 2025-10, cite: p03-wiki-wang-dongwei }
+    - { title: 安徽省委常委、常务副省长, sys: gov, place: 安徽, from: 2025-10, to: 2026-09, cite: p03-wiki-wang-dongwei }
+    - { title: 安徽省委副书记、代省长, sys: gov, place: 安徽, from: 2026-09, cite: p01-xinhua-2026-09-23-wang-dongwei }
+  cites: [wd-Q30950349, p03-wiki-wang-dongwei, p03-jfdaily-2026-09-23-wang-dongwei, p01-xinhua-2026-09-23-wang-dongwei]
+
+- id: li-chunting
+  name: 李春亭
+  pinyin: Li Chunting
+  gender: m
+  born: 1936-10
+  died: 2024-08-05
+  birthplace: 山东栖霞
+  roles: [prov, cc, acc]
+  status: dead
+  statusNote: 2024 年 8 月 5 日在济南病逝。
+  tier: 2
+  headline: 原山东省省长（1995—2001），2024 年病逝
+  ids: { wikidata: Q8291360 }
+  bio: >-
+    农业技术员出身，历任栖霞县委副书记、烟台地委副书记和山东冶金系统负责人，1988 年任山东省副省长，后任省委副书记。
+    1995 年 2 月起任山东省省长，2001 年 12 月辞职，转任全国人大农业与农村委员会副主任委员，2024 年病逝。
+  positions:
+    - { title: 山东省副省长、省委副书记, sys: gov, place: 山东, from: 1988-02, to: 1995-02, cite: p03-xinhua-2024-08-28-li-chunting }
+    - { title: 山东省省长, sys: gov, place: 山东, from: 1995-02, to: 2001-12, cite: p03-xinhua-2024-08-28-li-chunting }
+    - { title: 全国人大农业与农村委员会副主任委员, sys: other, from: 2001-12, cite: p03-chinanews-2001-12-29-npc-jiang-li }
+  cites: [wd-Q8291360, p03-xinhua-2024-08-28-li-chunting, p03-chinanews-2001-12-29-npc-jiang-li, p03-wiki-li-chunting, p01-sdchorography-1998-2002-government]
+
+- id: han-yuqun
+  name: 韩寓群
+  pinyin: Han Yuqun
+  gender: m
+  born: 1943
+  birthplace: 江苏睢宁
+  roles: [prov]
+  status: retired
+  tier: 2
+  headline: 原山东省省长（2003—2007）
+  ids: { wikidata: Q8971443 }
+  bio: >-
+    历任济宁市长、市委书记和山东省委统战部部长，1995 年任山东省副省长。2002 年已近退休年龄卸任省委常委，
+    2003 年 1 月被中央重新起用为省委副书记、代省长，4 月当选省长，2007 年 6 月辞职，转任全国人大财经委副主任委员。
+  positions:
+    - { title: 山东省副省长, sys: gov, place: 山东, from: 1995-06, cite: p03-chinanews-2003-04-03-han-yuqun }
+    - { title: 山东省代省长, sys: gov, place: 山东, from: 2003-01, to: 2003-04, cite: p01-sdchorography-1998-2002-government }
+    - { title: 山东省省长, sys: gov, place: 山东, from: 2003-04, to: 2007-06, cite: p01-wiki-han-yuqun }
+    - { title: 全国人大常委会委员、财政经济委员会副主任委员, sys: other, from: 2007-06, cite: p01-wiki-han-yuqun }
+  cites: [wd-Q8971443, p03-chinanews-2003-04-03-han-yuqun, p01-sdchorography-1998-2002-government, p01-wiki-han-yuqun]
+
+- id: lu-ruihua
+  name: 卢瑞华
+  pinyin: Lu Ruihua
+  gender: m
+  born: 1938-11
+  died: 2025-05-13
+  birthplace: 广东潮州
+  roles: [prov, cc, acc]
+  status: dead
+  statusNote: 2025 年 5 月 13 日在广州病逝。
+  tier: 2
+  headline: 原广东省省长（1996—2003），2025 年病逝
+  ids: { wikidata: Q1093998 }
+  bio: >-
+    中山大学物理系研究生，从佛山分析仪器厂技术员做到厂长，1985 年任佛山市长，1991 年任广东省委常委、副省长。
+    1996 年至 2003 年任广东省省长，任内应对亚洲金融危机冲击，2003 年转任全国人大常委、华侨委员会副主任委员。
+  positions:
+    - { title: 佛山市委副书记、市长, sys: gov, place: 广东, from: 1985, to: 1991-07, cite: p03-nfrb-2025-05-19-lu-ruihua-life }
+    - { title: 广东省委常委、副省长, sys: gov, place: 广东, from: 1991-07, to: 1996-02, cite: p03-nfrb-2025-05-19-lu-ruihua-life }
+    - { title: 广东省省长, sys: gov, place: 广东, from: 1996-02, to: 2003-01, cite: p02-wiki-guangdong-gov }
+    - { title: 全国人大常委会委员、华侨委员会副主任委员, sys: other, from: 2003-03, cite: p03-nfrb-2025-05-19-lu-ruihua-life }
+  cites: [wd-Q1093998, p03-nfrb-2025-05-19-lu-ruihua-life, p03-wiki-lu-ruihua, p02-wiki-guangdong-gov]
+
+- id: liu-xiaotao
+  name: 刘小涛
+  pinyin: Liu Xiaotao
+  gender: m
+  born: 1970-07
+  origin: 广东兴宁
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 江苏省省长（2025— ），二十届中委会任期内首位非中委省长
+  ids: { wikidata: Q24834607 }
+  bio: >-
+    广东出身，任过汕头市长、潮州市委书记和广东省政府秘书长，2020 年调任浙江副省长，2021 年任温州市委书记，
+    2023 年转任江苏省委常委、苏州市委书记，2025 年升任省委副书记，同年 10 月接替许昆林任代省长、省长。
+  positions:
+    - { title: 浙江省副省长, sys: gov, place: 浙江, from: 2020-04, to: 2021-08, cite: p03-wiki-liu-xiaotao }
+    - { title: 浙江省委常委、温州市委书记, sys: party, place: 浙江, from: 2021-08, to: 2023-10, cite: p03-wiki-liu-xiaotao }
+    - { title: 江苏省委常委、苏州市委书记, sys: party, place: 江苏, from: 2023-10, to: 2025-09, cite: p03-wiki-liu-xiaotao }
+    - { title: 江苏省委副书记, sys: party, place: 江苏, from: 2025-05, cite: p03-wiki-liu-xiaotao }
+    - { title: 江苏省代省长, sys: gov, place: 江苏, from: 2025-10, to: 2025-10, cite: p01-xinhua-2025-10-09-liu-xiaotao }
+    - { title: 江苏省省长, sys: gov, place: 江苏, from: 2025-10, cite: p01-xinhua-2025-10-14-liu-xiaotao }
+  cites: [wd-Q24834607, p03-wiki-liu-xiaotao, p01-xinhua-2025-10-09-liu-xiaotao, p01-xinhua-2025-10-14-liu-xiaotao]
+
+- id: chen-huanyou
+  name: 陈焕友
+  pinyin: Chen Huanyou
+  gender: m
+  born: 1934-01
+  birthplace: 江苏南通
+  roles: [prov, cc]
+  status: retired
+  statusNote: 2026 年 2 月仍在江苏省领导春节看望的正省级老同志之列。
+  tier: 2
+  headline: 原江苏省委书记（1993—2000）、省长（1989—1994）
+  ids: { wikidata: Q3372375 }
+  bio: >-
+    吉林工业大学教师出身，后任无锡柴油机厂厂长，1983 年任江苏省副省长，1989 年当选省长，1992 年邓小平南巡途经南京时曾在月台与其交谈。
+    1993 年起任江苏省委书记，1998 年兼省人大常委会主任，2000 年卸任书记后专任省人大常委会主任至 2003 年。
+  positions:
+    - { title: 江苏省委副书记、常务副省长, sys: gov, place: 江苏, from: 1986-03, to: 1989-04, cite: p03-wiki-chen-huanyou }
+    - { title: 江苏省省长, sys: gov, place: 江苏, from: 1989-04, to: 1994-09, cite: p03-wiki-chen-huanyou }
+    - { title: 江苏省委书记, sys: party, place: 江苏, from: 1993-09, to: 2000-01, cite: p01-wiki-jiangsu-sec }
+    - { title: 江苏省人大常委会主任, sys: other, place: 江苏, from: 1998-02, to: 2003-02, cite: p03-wiki-chen-huanyou }
+  cites: [wd-Q3372375, p03-wiki-chen-huanyou, p01-wiki-jiangsu-sec, p03-zgjssw-2026-02-13-jiangsu-elders]
+
+- id: shu-shengyou
+  name: 舒圣佑
+  pinyin: Shu Shengyou
+  gender: m
+  born: 1936-12
+  died: 2025-03-17
+  birthplace: 江西玉山
+  roles: [prov, cc]
+  status: dead
+  statusNote: 2025 年 3 月 17 日在南昌病逝。
+  tier: 2
+  headline: 原江西省省长（1995—2001），2025 年病逝
+  ids: { wikidata: Q9033164 }
+  bio: >-
+    在景德镇工作三十余年，由市计委办事员做到市长，1990 年调任江西省长助理，后任省委常委、副省长。
+    1995 年 4 月任代省长、省长，2001 年卸任，转任全国政协常委，2025 年病逝。
+  positions:
+    - { title: 景德镇市委副书记、市长, sys: gov, place: 江西, to: 1990-04, cite: p03-xinhua-2025-04-03-shu-shengyou }
+    - { title: 江西省委常委、副省长, sys: gov, place: 江西, from: 1990-04, to: 1995-04, cite: p03-xinhua-2025-04-03-shu-shengyou }
+    - { title: 江西省代省长、省长, sys: gov, place: 江西, from: 1995-04, to: 2001-04, cite: p03-xinhua-2025-04-03-shu-shengyou }
+    - { title: 全国政协常委, sys: other, from: 2001, cite: p03-wiki-shu-shengyou }
+  cites: [wd-Q9033164, p03-xinhua-2025-04-03-shu-shengyou, p03-wiki-shu-shengyou, p01-wiki-jiangxi-gov]
+
+- id: shu-huiguo
+  name: 舒惠国
+  pinyin: Shu Huiguo
+  gender: m
+  born: 1938-07
+  birthplace: 江西靖安
+  roles: [prov, cc]
+  status: retired
+  tier: 2
+  headline: 原江西省委书记（1997—2001），后任人事部副部长
+  ids: { wikidata: Q6726169 }
+  bio: >-
+    浙江农业大学毕业的农艺师，长期在江西农业系统工作，1991 年任副省长，1993 年任省委组织部部长，1995 年任省委副书记。
+    1997 年接替吴官正任江西省委书记，2001 年调任人事部副部长（正部长级），2003 年起任全国人大农业与农村委员会副主任委员。
+  positions:
+    - { title: 江西省委常委、组织部部长, sys: party, place: 江西, from: 1993-08, to: 1995-04, cite: p03-sfncc-shu-huiguo }
+    - { title: 江西省委副书记, sys: party, place: 江西, from: 1995-04, to: 1997-04, cite: p03-sfncc-shu-huiguo }
+    - { title: 江西省委书记、省人大常委会主任, sys: party, place: 江西, from: 1997-04, to: 2001-04, cite: p03-sfncc-shu-huiguo }
+    - { title: 人事部副部长（正部长级）, sys: gov, from: 2001-04, to: 2003-04, cite: p03-sfncc-shu-huiguo }
+    - { title: 全国人大农业与农村委员会副主任委员, sys: other, from: 2003-03, to: 2008-03, cite: p03-sfncc-shu-huiguo }
+  cites: [wd-Q6726169, p03-sfncc-shu-huiguo, p03-wiki-shu-huiguo, p01-wiki-jiangxi-sec]
+
+- id: ye-liansong
+  name: 叶连松
+  pinyin: Ye Liansong
+  gender: m
+  born: 1935-03-04
+  birthplace: 山东莱阳
+  roles: [prov, cc, acc]
+  status: retired
+  statusNote: 2026 年 9 月仍以正省级老同志身份获河北省委书记看望。
+  tier: 2
+  headline: 原河北省委书记（1998—2000）、省长（1993—1998）
+  ids: { wikidata: Q8293303 }
+  bio: >-
+    上海交通大学船舶动力专业毕业后留校任教，1973 年到河北，历任石家庄柴油机厂总工程师、石家庄副市长、常务副省长。
+    1993 年任河北省长，1998 年任省委书记，2000 年卸任，后任全国政协常委，退休后仍著述不辍。
+  positions:
+    - { title: 河北省委常委、常务副省长, sys: gov, place: 河北, to: 1993-01, cite: p03-ysu-2020-10-28-ye-liansong }
+    - { title: 河北省委副书记、省长, sys: gov, place: 河北, from: 1993-01, to: 1998, cite: p03-ysu-2020-10-28-ye-liansong }
+    - { title: 河北省委书记, sys: party, place: 河北, from: 1998-10, to: 2000-06, cite: p01-wiki-hebei-sec }
+    - { title: 全国政协常委、经济委员会副主任, sys: other, cite: p03-ysu-2020-10-28-ye-liansong }
+  cites: [wd-Q8293303, p03-ysu-2020-10-28-ye-liansong, p03-wiki-ye-liansong, p01-wiki-hebei-sec, p03-thepaper-2026-09-04-ye-liansong]
+
+- id: wang-lujin
+  name: 王陆进
+  pinyin: Wang Lujin
+  gender: m
+  born: 1968-10
+  birthplace: 江苏丹阳
+  roles: [prov, ccdi]
+  status: active
+  tier: 2
+  headline: 河南省代省长（2026— ），纪检系统出身
+  ids: { wikidata: Q98764514 }
+  bio: >-
+    经济学博士，二十届中央纪委委员。2020 年任审计署副审计长，后任中央纪委国家监委驻国家金融监督管理总局纪检监察组组长，
+    2024 年任河北省委副书记，后兼政法委书记，2026 年 9 月调任河南省委副书记、代省长。
+  positions:
+    - { title: 审计署副审计长, sys: gov, from: 2020-08, cite: p03-wiki-wang-lujin }
+    - { title: 中央纪委国家监委驻国家金融监督管理总局纪检监察组组长, sys: party, to: 2024-06, cite: p03-bjnews-2026-09-24-wang-lujin }
+    - { title: 河北省委副书记, sys: party, place: 河北, from: 2024-06, to: 2026-09, cite: p03-wiki-wang-lujin }
+    - { title: 河南省委副书记、代省长, sys: gov, place: 河南, from: 2026-09-24, cite: p02-xinhua-2026-09-24-wang-lujin-acting }
+  cites: [wd-Q98764514, p03-wiki-wang-lujin, p03-bjnews-2026-09-24-wang-lujin, p02-xinhua-2026-09-24-wang-lujin-acting]
+
+- id: ma-zhongchen
+  name: 马忠臣
+  pinyin: Ma Zhongchen
+  gender: m
+  born: 1936-09
+  died: 2021-01-12
+  birthplace: 山东泰安
+  roles: [prov, cc, acc]
+  status: dead
+  statusNote: 2021 年 1 月 12 日在北京病逝。
+  tier: 2
+  headline: 原河南省委书记（1998—2000），2021 年病逝
+  ids: { wikidata: Q7929456 }
+  bio: >-
+    泰安基层出身，1986 年任山东省副省长，1990 年任农业部副部长，1992 年调任河南省委副书记、省长。
+    1998 年任河南省委书记，2000 年调任中央财经领导小组副秘书长、中央农村工作领导小组副组长，2021 年病逝。
+  positions:
+    - { title: 农业部副部长, sys: gov, from: 1990-11, to: 1992-11, cite: p03-xinhua-2021-01-20-ma-zhongchen }
+    - { title: 河南省委副书记、省长, sys: gov, place: 河南, from: 1992-11, to: 1998-07, cite: p03-xinhua-2021-01-20-ma-zhongchen }
+    - { title: 河南省委书记, sys: party, place: 河南, from: 1998-07, to: 2000-10, cite: p03-xinhua-2021-01-20-ma-zhongchen }
+    - { title: 中央财经领导小组副秘书长、中央农村工作领导小组副组长, sys: party, from: 2000-09, cite: p03-xinhua-2021-01-20-ma-zhongchen }
+  cites: [wd-Q7929456, p03-xinhua-2021-01-20-ma-zhongchen, p03-wiki-ma-zhongchen, p02-wiki-henan-sec]
+
+- id: jiang-zhuping
+  name: 蒋祝平
+  pinyin: Jiang Zhuping
+  gender: m
+  born: 1937-11
+  birthplace: 江苏宜兴
+  roles: [prov, cc]
+  status: retired
+  tier: 2
+  headline: 原湖北省委书记（2001）、省长（1995—2001）
+  ids: { wikidata: Q8975994 }
+  bio: >-
+    哈尔滨军事工程学院导弹工程系毕业，航空工业出身，任过江西省委副书记和中国民用航空局局长。1995 年任湖北省省长，
+    2001 年初接替贾志杰任省委书记，同年 12 月卸任，转任全国人大教科文卫委员会副主任委员。
+  positions:
+    - { title: 中国民用航空局局长, sys: gov, to: 1995-02, cite: p03-chinanews-2001-01-12-hubei-sec }
+    - { title: 湖北省委副书记、省长, sys: gov, place: 湖北, from: 1995-02, to: 2001-01, cite: p03-wiki-jiang-zhuping }
+    - { title: 湖北省委书记, sys: party, place: 湖北, from: 2001-01, to: 2001-12, cite: p03-chinanews-2001-01-12-hubei-sec }
+    - { title: 全国人大教育科学文化卫生委员会副主任委员, sys: other, from: 2001-12, to: 2008, cite: p03-chinanews-2001-12-29-npc-jiang-li }
+  cites: [wd-Q8975994, p03-chinanews-2001-01-12-hubei-sec, p03-chinanews-2001-12-07-jiang-zhuping, p03-chinanews-2001-12-29-npc-jiang-li, p03-wiki-jiang-zhuping, p02-wiki-hubei-sec]
+
+- id: zhang-guoguang
+  name: 张国光
+  pinyin: Zhang Guoguang
+  gender: m
+  born: 1945
+  roles: [prov, cc, tiger]
+  status: purged
+  statusNote: "2004 年以受贿罪被判有期徒刑十一年；按刑期推算应已届满，未见释放公告。"
+  fall:
+    - { date: 2004-02-24, text: 中央纪委给予其开除党籍处分，涉嫌犯罪问题移交司法机关。, cite: p03-zqb-2004-02-25-zhang-guoguang-expelled }
+    - { date: 2004-12-09, text: 天津市第二中级人民法院以受贿罪一审判处其有期徒刑十一年，本人未上诉，判决生效。, cite: p03-zqb-2004-12-25-zhang-guoguang-verdict }
+  tier: 2
+  headline: 原辽宁省省长（1998—2001）、湖北省省长（2001—2002），因慕马案牵连落马
+  ids: { wikidata: Q2884266 }
+  bio: >-
+    在辽宁任沈阳市委书记、省委副书记，1998 年任辽宁省省长。2001 年 1 月沈阳慕马案爆发后辞去省长，调任湖北省委副书记、省长，
+    2002 年去职。2004 年被开除党籍，法院认定其在辽宁任职期间受贿 57 万余元，判处有期徒刑十一年。
+  positions:
+    - { title: 沈阳市委书记、辽宁省委副书记, sys: party, place: 辽宁, to: 2001-01, cite: p03-zqb-2004-12-25-zhang-guoguang-verdict }
+    - { title: 辽宁省省长, sys: gov, place: 辽宁, from: 1998-01, to: 2001-01, cite: p01-wiki-liaoning-gov }
+    - { title: 湖北省委副书记, sys: party, place: 湖北, from: 2001-01, to: 2002-10, cite: p03-chinanews-2001-01-12-hubei-sec }
+    - { title: 湖北省代省长, sys: gov, place: 湖北, from: 2001-01, to: 2001-02, cite: p02-wiki-zhang-guoguang }
+    - { title: 湖北省省长, sys: gov, place: 湖北, from: 2001-02, to: 2002-10, cite: p02-wiki-zhang-guoguang }
+  cites: [wd-Q2884266, p02-wiki-zhang-guoguang, p01-wiki-liaoning-gov, p03-chinanews-2001-01-12-hubei-sec, p03-zqb-2004-02-25-zhang-guoguang-expelled, p03-zqb-2004-12-25-zhang-guoguang-verdict]
+
+- id: jia-zhijie
+  name: 贾志杰
+  pinyin: Jia Zhijie
+  gender: m
+  born: 1935
+  birthplace: 吉林扶余
+  roles: [prov]
+  status: retired
+  tier: 2
+  headline: 原湖北省委书记（1994—2001）、甘肃省省长
+  ids: { wikidata: Q16907213 }
+  bio: >-
+    留学苏联莫斯科石油学院，回国后在兰州石油化工机器厂做到厂长，1983 年任甘肃省委副书记，1986 年任甘肃省省长。
+    1992 年调任湖北，先后任代省长、省长、省委书记，2001 年初卸任书记，同年当选全国人大常委。
+  positions:
+    - { title: 甘肃省省长, sys: gov, place: 甘肃, from: 1986, to: 1992, cite: p03-wiki-jia-zhijie }
+    - { title: 湖北省委副书记、代省长、省长, sys: gov, place: 湖北, from: 1992, to: 1995-02, cite: p03-wiki-jia-zhijie }
+    - { title: 湖北省委书记, sys: party, place: 湖北, from: 1994-11, to: 2001-01, cite: p02-wiki-hubei-sec }
+    - { title: 全国人大常委会委员, sys: other, from: 2001-03, cite: p03-wiki-jia-zhijie }
+  cites: [wd-Q16907213, p03-wiki-jia-zhijie, p02-wiki-hubei-sec, p03-chinanews-2001-01-12-hubei-sec]
+
+- id: kong-shaoxun
+  name: 孔绍逊
+  pinyin: Kong Shaoxun
+  gender: m
+  born: 1969-02
+  birthplace: 宁夏中宁
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 甘肃省省长（2026— ），原中办副主任兼秘书局局长
+  ids: { wikidata: Q114810217 }
+  bio: >-
+    在宁夏任过自治区党委副秘书长、吴忠市委副书记，2010 年调入中共中央办公厅，官至中办副主任兼秘书局局长。
+    2022 年中共二十大闭幕会上，美联社记者从画面中认出他是劝离胡锦涛的工作人员之一。2026 年 8 月调任甘肃省委副书记，9 月任代省长、省长。
+  positions:
+    - { title: 中共中央办公厅副主任兼秘书局局长, sys: party, to: 2026-08, cite: p03-jfdaily-2026-09-02-kong-shaoxun }
+    - { title: 甘肃省委副书记, sys: party, place: 甘肃, from: 2026-08, cite: p03-wiki-kong-shaoxun }
+    - { title: 甘肃省代省长, sys: gov, place: 甘肃, from: 2026-09-02, to: 2026-09-29, cite: p02-xinhua-2026-09-02-kong-shaoxun-acting }
+    - { title: 甘肃省省长, sys: gov, place: 甘肃, from: 2026-09-29, cite: p02-xinhua-2026-09-29-kong-shaoxun-elected }
+  cites: [wd-Q114810217, p03-wiki-kong-shaoxun, p03-jfdaily-2026-09-02-kong-shaoxun, p02-xinhua-2026-09-02-kong-shaoxun-acting, p02-xinhua-2026-09-29-kong-shaoxun-elected, p03-voa-2022-10-23-hu-escorted]
+
+- id: sun-ying
+  name: 孙英
+  pinyin: Sun Ying
+  gender: m
+  born: 1936-12
+  died: 2025-07-06
+  birthplace: 天津宝坻
+  roles: [prov, cc]
+  status: dead
+  statusNote: 2025 年 7 月 6 日在北京病逝。
+  tier: 2
+  headline: 原甘肃省委书记（1998—2001），后任中央党史研究室主任
+  ids: { wikidata: Q9030915 }
+  bio: >-
+    山西大学、太原工学院政工干部出身，任过太原市委书记、山西省委常委，1992 年调任甘肃省委副书记，后任省长。
+    1998 年任甘肃省委书记，2000 年底调任中央党史研究室主任至 2005 年，2025 年病逝。
+  positions:
+    - { title: 山西省委常委、太原市委书记, sys: party, place: 山西, from: 1991-03, to: 1992-05, cite: p03-xinhua-2025-07-16-sun-ying }
+    - { title: 甘肃省委副书记、副省长、代省长、省长, sys: gov, place: 甘肃, from: 1992-05, to: 1998-03, cite: p03-xinhua-2025-07-16-sun-ying }
+    - { title: 甘肃省委书记, sys: party, place: 甘肃, from: 1998-03, to: 2001-01, cite: p03-xinhua-2025-07-16-sun-ying }
+    - { title: 中央党史研究室主任, sys: party, from: 2000-12, to: 2005-07, cite: p03-xinhua-2025-07-16-sun-ying }
+  cites: [wd-Q9030915, p03-xinhua-2025-07-16-sun-ying, p03-wiki-sun-ying, p02-wiki-gansu-sec]
+
+- id: chen-mingyi
+  name: 陈明义
+  pinyin: Chen Mingyi
+  gender: m
+  born: 1940-08
+  birthplace: 福建福州
+  roles: [prov, cc, acc]
+  status: retired
+  tier: 2
+  headline: 原福建省委书记（1996—2000）、省长（1994—1996）
+  ids: { wikidata: Q1306740 }
+  bio: >-
+    上海交通大学造船系毕业，做过厦门水产学院副院长、福建省科委主任，1985 年起任福建省委常委、组织部长。
+    1994 年任福建省省长，1996 年任省委书记，2001 年改任福建省政协主席，后任全国政协港澳台侨委员会副主任。
+  positions:
+    - { title: 福建省委副书记, sys: party, place: 福建, from: 1993-09, cite: p03-wiki-chen-mingyi }
+    - { title: 福建省省长, sys: gov, place: 福建, from: 1994-04, to: 1996-10, cite: p03-wiki-chen-mingyi }
+    - { title: 福建省委书记, sys: party, place: 福建, from: 1996-10, to: 2000-12, cite: p03-wiki-chen-mingyi }
+    - { title: 福建省政协主席, sys: other, place: 福建, from: 2001-01, to: 2003-01, cite: p03-wiki-chen-mingyi }
+    - { title: 全国政协港澳台侨委员会副主任, sys: other, from: 2008-03, to: 2013-03, cite: p03-wiki-chen-mingyi }
+  cites: [wd-Q1306740, p03-wiki-chen-mingyi, p01-wiki-fujian-sec]
+
+- id: liu-fangren
+  name: 刘方仁
+  pinyin: Liu Fangren
+  gender: m
+  born: 1936-01
+  birthplace: 陕西武功
+  roles: [prov, cc, acc, tiger]
+  status: detained
+  statusNote: "2004 年一审以受贿罪被判无期徒刑；未见减刑或释放的公开报道。"
+  fall:
+    - { date: 2004-06-29, text: 北京市第二中级人民法院以受贿罪（折合人民币 677 万余元）一审判处其无期徒刑，并处没收个人全部财产。, cite: p03-zqb-2004-06-30-liu-fangren }
+  tier: 2
+  headline: 原贵州省委书记（1993—2001），2004 年以受贿罪被判无期徒刑
+  ids: { wikidata: Q8341038 }
+  bio: >-
+    军工企业出身，1983 年任九江市委书记，后任江西省委副书记、江西省政协主席，1993 年调任贵州省委书记，1998 年兼省人大常委会主任。
+    法院认定其 1995 年至 2002 年间单独或伙同儿媳受贿 677 万余元，2004 年判处无期徒刑。
+  positions:
+    - { title: 江西省委副书记、江西省政协主席, sys: party, place: 江西, from: 1985-05, to: 1993-06, cite: p03-zqb-2004-06-30-liu-fangren }
+    - { title: 贵州省委书记, sys: party, place: 贵州, from: 1993-06, to: 2001-01, cite: p03-zqb-2004-06-30-liu-fangren }
+    - { title: 贵州省人大常委会主任, sys: other, place: 贵州, from: 1998, cite: p03-zqb-2004-06-30-liu-fangren }
+    - { title: 全国人大常委会农业和农村工作委员会副主任委员, sys: other, from: 2002-04, cite: p03-zqb-2004-06-30-liu-fangren }
+  cites: [wd-Q8341038, p03-zqb-2004-06-30-liu-fangren, p03-wiki-liu-fangren, p02-wiki-guizhou-sec]
+
+- id: bao-xuding
+  name: 包叙定
+  pinyin: Bao Xuding
+  gender: m
+  born: 1939-02
+  birthplace: 江苏无锡
+  roles: [prov, cc, minister]
+  status: retired
+  tier: 2
+  headline: 原重庆市市长（1999—2002）、机械工业部部长
+  ids: { wikidata: Q10901550 }
+  bio: >-
+    机械工业系统出身，1996 年任机械工业部部长，1998 年机构改革后任国家发展计划委员会副主任。1999 年 6 月中央调整重庆党政班子，
+    他出任重庆市代市长，2000 年当选市长，2002 年 10 月辞职，后任中国国际工程咨询公司总经理。
+  positions:
+    - { title: 机械工业部部长, sys: gov, from: 1996-03, to: 1998-03, cite: p03-chinanews-2002-10-14-bao-xuding }
+    - { title: 国家发展计划委员会副主任（正部级）, sys: gov, from: 1998, to: 1999-06, cite: p03-chinanews-2002-10-14-bao-xuding }
+    - { title: 重庆市委副书记、代市长, sys: gov, place: 重庆, from: 1999-06, to: 2000-01, cite: p03-chinanews-2002-10-14-bao-xuding }
+    - { title: 重庆市市长, sys: gov, place: 重庆, from: 2000-01, to: 2002-10, cite: p03-chinanews-2002-10-14-bao-xuding }
+    - { title: 中国国际工程咨询公司总经理, sys: other, cite: p03-wiki-bao-xuding }
+  cites: [wd-Q10901550, p03-chinanews-2002-10-14-bao-xuding, p03-wiki-bao-xuding, p02-wiki-chongqing-gov]
+
+- id: chen-xinwu
+  name: 陈新武
+  pinyin: Chen Xinwu
+  gender: m
+  born: 1968-07
+  birthplace: 湖北黄冈
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 重庆市市长（2026— ）
+  ids: { wikidata: Q97349884 }
+  bio: >-
+    美国俄亥俄大学工商管理硕士，2022 年任湖北省委常委、秘书长，2023 年调任重庆市委常委、秘书长，2024 年任常务副市长。
+    2025 年 10 月升任重庆市委副书记，2026 年 7 月任代市长，8 月当选市长。
+  positions:
+    - { title: 湖北省委常委、秘书长, sys: party, place: 湖北, from: 2022-09, to: 2023-07, cite: p03-thepaper-2026-08-19-chen-xinwu }
+    - { title: 重庆市委常委、秘书长, sys: party, place: 重庆, from: 2023-07, to: 2024-05, cite: p03-thepaper-2026-08-19-chen-xinwu }
+    - { title: 重庆市常务副市长, sys: gov, place: 重庆, from: 2024-05, to: 2026-01, cite: p03-thepaper-2026-08-19-chen-xinwu }
+    - { title: 重庆市委副书记, sys: party, place: 重庆, from: 2025-10, cite: p03-thepaper-2026-08-19-chen-xinwu }
+    - { title: 重庆市代市长, sys: gov, place: 重庆, from: 2026-07-31, to: 2026-08, cite: p02-xinhua-2026-07-31-chen-xinwu-acting }
+    - { title: 重庆市市长, sys: gov, place: 重庆, from: 2026-08, cite: p02-wiki-chen-xinwu }
+  cites: [wd-Q97349884, p03-thepaper-2026-08-19-chen-xinwu, p02-xinhua-2026-07-31-chen-xinwu-acting, p02-wiki-chen-xinwu]
+
+- id: cheng-andong
+  name: 程安东
+  pinyin: Cheng Andong
+  gender: m
+  born: 1936-10
+  birthplace: 安徽淮南
+  roles: [prov, cc, acc]
+  status: retired
+  tier: 2
+  headline: 原陕西省省长（1994—2002）
+  ids: { wikidata: Q8927055 }
+  bio: >-
+    煤矿系统出身的高级工程师，1990 年调任陕西，任省委常委、西安市委书记，1994 年任陕西省委副书记、省长，
+    2002 年 5 月辞去省长，2003 年当选全国政协常委、经济委员会副主任。
+  positions:
+    - { title: 陕西省委常委、西安市委书记, sys: party, place: 陕西, from: 1990, to: 1994, cite: p03-wiki-cheng-andong }
+    - { title: 陕西省委副书记、省长, sys: gov, place: 陕西, from: 1994-12, to: 2002-05, cite: p02-wiki-shaanxi-gov }
+    - { title: 全国政协常委、经济委员会副主任, sys: other, from: 2003-03, cite: p03-wiki-cheng-andong }
+  cites: [wd-Q8927055, p03-wiki-cheng-andong, p02-wiki-shaanxi-gov, p02-sohu-2002-05-20-jia-zhibang-acting, p03-cppcc-cheng-andong]
+
+- id: chen-gang-1965
+  name: 陈刚
+  pinyin: Chen Gang
+  gender: m
+  born: 1965-04
+  birthplace: 江苏高邮
+  roles: [prov, cc, acc]
+  status: active
+  tier: 2
+  headline: 广西壮族自治区党委书记（2024— ），原青海省委书记
+  ids: { wikidata: Q20984057 }
+  bio: >-
+    北京大学理学博士，在北京任过朝阳区委书记、市委常委，2013 年任贵阳市委书记，推动大数据产业，2017 年任河北省委常委、雄安新区党工委书记。
+    2020 年底任全国总工会党组书记，2023 年 1 月任青海省委书记，2024 年底改任广西壮族自治区党委书记。与同名的原北京市副市长陈刚（1966 年生）不是一人。
+  positions:
+    - { title: 贵州省委常委、贵阳市委书记, sys: party, place: 贵州, from: 2013-07, to: 2017-05, cite: p03-wiki-chen-gang-1965 }
+    - { title: 河北省委常委、雄安新区党工委书记, sys: party, place: 河北, from: 2017-05, to: 2020-12, cite: p03-wiki-chen-gang-1965 }
+    - { title: 全国总工会党组书记、副主席、书记处第一书记, sys: other, from: 2020-12, to: 2023-01, cite: p03-xinhua-2023-01-03-chen-gang-qinghai }
+    - { title: 青海省委书记, sys: party, place: 青海, from: 2023-01, to: 2024-12, cite: p03-xinhua-2023-01-03-chen-gang-qinghai }
+    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2024-12, cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
+    - { title: 广西壮族自治区人大常委会主任, sys: other, place: 广西, from: 2025-01, cite: p03-wiki-chen-gang-1965 }
+  cites: [wd-Q20984057, p03-xinhua-2023-01-03-chen-gang-qinghai, p03-wiki-chen-gang-1965, p02-xinhua-2024-12-31-henan-guangxi-sec, p02-xinhua-2024-12-31-hubei-qinghai-sec]
