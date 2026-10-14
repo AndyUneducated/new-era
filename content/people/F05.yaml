@@ -1,0 +1,453 @@
+# F05 (round 3): dossier cards for tuanpai, populist, conservatives and jiangsu-gang members.
+
+# --- tuanpai ---
+- id: zhang-baoshun
+  name: 张宝顺
+  gender: m
+  born: 1950-02-27
+  birthplace: 河北秦皇岛
+  roles: [cc, prov]
+  status: retired
+  statusNote: 曾任山西、安徽两省省委书记，已退出一线。
+  tier: 2
+  headline: 原山西省委书记、安徽省委书记，胡锦涛任职团中央时的书记处同事
+  ids: { wikidata: Q702803 }
+  bio: >-
+    1982年起任共青团中央书记处候补书记、书记，与胡锦涛、李克强、李源潮、刘延东同在团中央书记处。此后任新华社副社长，2001年调山西，历任省委副书记、省长、省委书记，2010年转任安徽省委书记。学者蔡文轩把他列为严格意义上的团派，詹姆斯敦基金会2006年称他与李克强等同为胡锦涛在团中央的副手。
+  positions:
+    - { title: 共青团中央书记处候补书记, sys: party, from: 1982-12, to: 1985-11, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 共青团中央书记处书记, sys: party, from: 1985-11, to: 1993-04, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 新华通讯社副社长, sys: other, from: 1993-04, to: 2001-09, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 山西省委副书记, sys: party, place: 山西, from: 2001-09, to: 2005-07, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 山西省省长, sys: gov, place: 山西, from: 2004-02, to: 2005-07, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 山西省委书记, sys: party, place: 山西, from: 2005-07, to: 2010-05, cite: f05-people-2013-01-29-zhang-baoshun }
+    - { title: 安徽省委书记, sys: party, place: 安徽, from: 2010-05, cite: f05-people-2013-01-29-zhang-baoshun }
+  factions:
+    - f: tuanpai
+      cite: f05-sef-2012-10-tsai-fifth-gen
+      quote: '精确的说，所谓的团派应该是在胡锦涛于一九八二年至一九八五年在共青团中央书记处任职时，在共青团任职的干部，如现任安徽省委书记张宝顺'
+      rank: backbone
+    - f: populist
+      cite: c01-jamestown-2006-cheng-li-two-factions
+      quote: 'The core faction of the populist coalition is the Chinese Communist Youth League (CCYL)……Zhang Baoshun (Shanxi Party Secretary)—all served as Hu’s deputies in the CCYL in the early 1980s'
+      zh: '民粹联盟的核心派别是中国共青团……张宝顺（山西省委书记）都在1980年代初担任胡锦涛在共青团的副手'
+      rank: backbone
+  cites: [wd-Q702803, f05-people-2013-01-29-zhang-baoshun, f05-sef-2012-10-tsai-fifth-gen]
+
+- id: yuan-chunqing
+  name: 袁纯清
+  gender: m
+  born: 1952-03
+  birthplace: 湖南汉寿
+  roles: [cc, prov]
+  status: retired
+  statusNote: 曾任陕西省长、山西省委书记，已退出一线。
+  tier: 2
+  headline: 原陕西省长、山西省委书记，团中央书记处书记出身
+  ids: { wikidata: Q935107 }
+  bio: >-
+    1992年至1997年任共青团中央书记处书记，时任第一书记为李克强。此后任中纪委常委、秘书长，2001年调陕西，历任省委副书记、西安市委书记、省长，2010年起任山西省委书记。蔡文轩把他列入胡锦涛团中央时期的团派干部；新唐人等海外媒体（传闻）称他为团派四大金刚之一。
+  positions:
+    - { title: 共青团中央书记处书记, sys: party, from: 1992-12, to: 1997-09, cite: f05-people-2013-01-29-yuan-chunqing }
+    - { title: 中央纪委常委、秘书长, sys: party, from: 1997-09, to: 2001-03, cite: f05-people-2013-01-29-yuan-chunqing }
+    - { title: 陕西省委副书记, sys: party, place: 陕西, from: 2001-03, cite: f05-people-2013-01-29-yuan-chunqing }
+    - { title: 陕西省委副书记、西安市委书记, sys: party, place: 陕西, from: 2004-01, cite: f05-people-2013-01-29-yuan-chunqing }
+    - { title: 陕西省省长, sys: gov, place: 陕西, from: 2006-06, to: 2010-06, cite: wd-Q935107 }
+    - { title: 山西省委书记, sys: party, place: 山西, from: 2010-05, cite: f05-people-2013-01-29-yuan-chunqing }
+  factions:
+    - f: tuanpai
+      cite: f05-sef-2012-10-tsai-fifth-gen
+      quote: '精确的说，所谓的团派应该是在胡锦涛于一九八二年至一九八五年在共青团中央书记处任职时，在共青团任职的干部，如现任安徽省委书记张宝顺、山西省委书记袁纯清'
+      rank: backbone
+    - f: tuanpai
+      cite: f05-ntd-2016-07-06-tuanpai-four
+      quote: '“团派四大金刚”——云南省委书记秦光荣、山西省委书记袁纯清、江苏省委书记罗志军、江西省委书记强卫等都“榜上有名”'
+      rank: backbone
+      rankQuote: '团派四大金刚'
+  cites: [wd-Q935107, f05-people-2013-01-29-yuan-chunqing, f05-sef-2012-10-tsai-fifth-gen]
+
+- id: qiang-wei
+  name: 强卫
+  gender: m
+  born: 1953-03
+  birthplace: 江苏无锡
+  roles: [cc, prov]
+  status: retired
+  statusNote: 2016年卸任江西省委书记后转任全国人大专门委员会副主任委员，已退出一线。
+  tier: 2
+  headline: 原青海省委书记、江西省委书记，共青团北京市委书记出身
+  ids: { wikidata: Q7267632 }
+  bio: >-
+    1987年至1990年任共青团北京市委书记，此后在北京任市委常委、政法委书记、市委副书记。2007年起任青海省委书记，2013年转任江西省委书记，2016年调全国人大内务司法委员会。蔡文轩认为他虽在共青团任职，但未与胡锦涛直接共事，与团派关系较远；中国传媒研究计划2007年则把他列入团派名单。
+  positions:
+    - { title: 共青团北京市委书记, sys: party, place: 北京, from: 1987-06, to: 1990-12, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 北京市委常委、政法委书记, sys: party, place: 北京, from: 1996-03, to: 1999-03, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 北京市委副书记, sys: party, place: 北京, from: 2002-05, to: 2004-04, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 青海省委书记, sys: party, place: 青海, from: 2007-03, to: 2013-03, cite: wd-Q7267632 }
+    - { title: 江西省委书记, sys: party, place: 江西, from: 2013-04, to: 2016-06, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 全国人大内务司法委员会副主任委员, sys: other, from: 2016-07, cite: f05-cri-2016-07-02-qiang-luo-npc }
+  factions:
+    - f: tuanpai
+      cite: f05-sef-2012-10-tsai-fifth-gen
+      quote: '有一些干部也曾在共青团任职，但未与胡锦涛直接共事。这类干部与团派的关系就较远……青海省委书记强卫等人'
+      rank: periphery
+      rankQuote: '这类干部与团派的关系就较远'
+    - f: tuanpai
+      cite: f05-cmp-2007-09-14-factions
+      quote: 'Qiang Wei (强卫)……Pundits have referred to the above-listed leaders as the “Youth League faction.”'
+      zh: '强卫……评论者把上述领导人称为“团派”。'
+  cites: [wd-Q7267632, f05-cri-2016-07-02-qiang-luo-npc, f05-sef-2012-10-tsai-fifth-gen]
+
+- id: shen-yueyue
+  name: 沈跃跃
+  gender: f
+  born: 1957-01-27
+  birthplace: 浙江宁波
+  roles: [cc, prov]
+  status: retired
+  statusNote: 2023年3月卸任全国人大常委会副委员长。
+  tier: 2
+  headline: 原全国人大常委会副委员长、全国妇联主席，曾长期主持中组部常务工作
+  ids: { wikidata: Q3373683 }
+  bio: >-
+    宁波人，浙江共青团系统出身，1991年至1993年任浙江团省委书记，后在浙江、安徽任组织部长、省委副书记。2002年调中央组织部，2007年起以正部长级主持中组部常务工作，2013年任全国人大常委会副委员长、全国妇联主席。蔡文轩把她列为团派；大纪元转载的《前哨》文章（传闻）称她是胡锦涛安插团派干部的操盘者。
+  positions:
+    - { title: 浙江团省委书记, sys: party, place: 浙江, from: 1991, to: 1993, cite: f05-people-2013-03-18-shen-yueyue }
+    - { title: 浙江省委常委、组织部部长, sys: party, place: 浙江, from: 1999, to: 2001, cite: f05-people-2013-03-18-shen-yueyue }
+    - { title: 安徽省委副书记, sys: party, place: 安徽, from: 2001, to: 2002, cite: f05-people-2013-03-18-shen-yueyue }
+    - { title: 中央组织部副部长, sys: party, from: 2002, to: 2007, cite: f05-people-2013-03-18-shen-yueyue }
+    - { title: 中央组织部主持常务工作的副部长（正部长级）, sys: party, from: 2007, to: 2013, cite: f05-people-2013-03-18-shen-yueyue }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2013-03, to: 2023-03, cite: wd-Q3373683 }
+    - { title: 全国妇联主席, sys: other, from: 2013, cite: f05-people-2013-03-18-shen-yueyue }
+  factions:
+    - f: tuanpai
+      cite: f05-sef-2012-10-tsai-fifth-gen
+      quote: '精确的说，所谓的团派应该是在胡锦涛于一九八二年至一九八五年在共青团中央书记处任职时，在共青团任职的干部……与中组部常务副部长沈跃跃等人'
+      rank: backbone
+    - f: tuanpai
+      cite: f05-epochtimes-2004-08-05-shen-yueyue
+      quote: '在这场团派官员卡位战中，在各省与中央各部委之中奔忙与操盘的，是年仅四十六岁的女强人、中共中央组织部常务副部长沈跃跃'
+      rank: backbone
+      rankQuote: '成为胡锦涛的「人事总管」'
+  cites: [wd-Q3373683, f05-people-2013-03-18-shen-yueyue, f05-sef-2012-10-tsai-fifth-gen]
+
+- id: ji-bingxuan
+  name: 吉炳轩
+  gender: m
+  born: 1951-11-17
+  birthplace: 河南孟津
+  roles: [cc, prov]
+  status: retired
+  statusNote: 2023年3月卸任全国人大常委会副委员长。
+  tier: 2
+  headline: 原黑龙江省委书记、全国人大常委会副委员长，团中央书记处书记出身
+  ids: { wikidata: Q902483 }
+  bio: >-
+    河南人，1987年至1990年任共青团河南省委书记，1993年至1995年在李克强任第一书记时任团中央书记处书记。此后任吉林省委宣传部长、中宣部常务副部长，2008年至2013年任黑龙江省委书记，2013年起任全国人大常委会副委员长。蔡文轩认为他未与胡锦涛直接共事，与团派关系较远。
+  positions:
+    - { title: 共青团河南省委书记, sys: party, place: 河南, from: 1987, to: 1990, cite: f05-people-2013-03-18-ji-bingxuan }
+    - { title: 共青团中央书记处书记, sys: party, from: 1993, to: 1995, cite: f05-people-2013-03-18-ji-bingxuan }
+    - { title: 吉林省委常委、宣传部部长, sys: party, place: 吉林, from: 1995, to: 1998, cite: f05-people-2013-03-18-ji-bingxuan }
+    - { title: 中央宣传部常务副部长, sys: party, from: 2003, to: 2008, cite: f05-people-2013-03-18-ji-bingxuan }
+    - { title: 黑龙江省委书记, sys: party, place: 黑龙江, from: 2008, to: 2013, cite: f05-people-2013-03-18-ji-bingxuan }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2013-03, to: 2023-03, cite: wd-Q902483 }
+  factions:
+    - f: tuanpai
+      cite: f05-sef-2012-10-tsai-fifth-gen
+      quote: '有一些干部也曾在共青团任职，但未与胡锦涛直接共事。这类干部与团派的关系就较远……黑龙江省委书记吉炳轩'
+      rank: periphery
+      rankQuote: '至少他们不算是最「根正苗红」的团派'
+  cites: [wd-Q902483, f05-people-2013-03-18-ji-bingxuan, f05-sef-2012-10-tsai-fifth-gen]
+
+- id: meng-xuenong
+  name: 孟学农
+  gender: m
+  born: 1949-08-08
+  birthplace: 山东蓬莱
+  roles: [cc, prov]
+  status: retired
+  statusNote: 曾任北京市长、山西省长，已退出一线。
+  tier: 2
+  headline: 原北京市长、山西省长，2003年因非典疫情被免职
+  ids: { wikidata: Q1138806 }
+  bio: >-
+    北京共青团系统出身，1983年任共青团北京市委副书记，1993年起任北京副市长，2003年1月当选北京市长，同年4月因非典疫情应对不力与卫生部长张文康一同被免职。半年后复出任国务院南水北调办副主任，2007年调任山西代省长，2008年1月当选省长。中国传媒研究计划2007年把他列入团派名单。
+  positions:
+    - { title: 共青团北京市委副书记, sys: party, place: 北京, from: 1983-11, cite: f05-cctv-2008-02-25-meng-xuenong }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 1993-02, to: 2003-01, cite: f05-cctv-2008-02-25-meng-xuenong }
+    - { title: 北京市市长, sys: gov, place: 北京, from: 2003-01, to: 2003-04, cite: wd-Q1138806 }
+    - { title: 国务院南水北调工程建设委员会办公室副主任（正部长级）, sys: gov, from: 2003-09, to: 2007-08, cite: f05-cctv-2008-02-25-meng-xuenong }
+    - { title: 山西省委副书记, sys: party, place: 山西, from: 2007-08, cite: f05-cctv-2008-02-25-meng-xuenong }
+    - { title: 山西省省长, sys: gov, place: 山西, from: 2007-09, cite: f05-cctv-2008-02-25-meng-xuenong }
+  factions:
+    - f: tuanpai
+      cite: f05-cmp-2007-09-14-factions
+      quote: 'These include: Li Keqiang (李克强)……and Meng Xuenong (孟学农).……Pundits have referred to the above-listed leaders as the “Youth League faction.”'
+      zh: '其中包括李克强……以及孟学农。……评论者把上述领导人称为“团派”。'
+      rank: backbone
+  cites: [wd-Q1138806, f05-cctv-2008-02-25-meng-xuenong, e01-xinhua-2003-04-20-sars-dismissals, f05-cmp-2007-09-14-factions]
+
+- id: luo-zhijun
+  name: 罗志军
+  gender: m
+  born: 1951-11-28
+  died: 2023-04-01
+  birthplace: 辽宁凌源
+  roles: [cc, prov]
+  status: dead
+  statusNote: 2023年4月1日在北京病逝，终年72岁。
+  tier: 2
+  headline: 原江苏省委书记（2010–2016），团中央实业发展部出身
+  ids: { wikidata: Q711065 }
+  bio: >-
+    曾任共青团中央常委、实业发展部部长，1995年调南京，历任副市长、市长、市委书记，2008年任江苏省长，2010年至2016年任江苏省委书记，此后转任全国人大环资委、全国政协农业和农村委员会。自由亚洲电台高新称他为胡锦涛的团派大将，并说他的升迁与李源潮有人事关连。2023年病逝。
+  positions:
+    - { title: 共青团中央常委、实业发展部部长, sys: party, from: 1993-02, to: 1995-09, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 南京市市长, sys: gov, place: 江苏, from: 2002-01, to: 2003-04, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 江苏省委常委、南京市委书记, sys: party, place: 江苏, from: 2003-04, to: 2007-12, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 江苏省省长, sys: gov, place: 江苏, from: 2008-01, to: 2010-12, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 江苏省委书记, sys: party, place: 江苏, from: 2010-12, to: 2016-06, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 全国人大环境与资源保护委员会副主任委员, sys: other, from: 2016-07, cite: f05-cri-2016-07-02-qiang-luo-npc }
+    - { title: 全国政协常委、农业和农村委员会主任, sys: other, cite: f05-people-2023-04-02-luo-zhijun-death }
+  factions:
+    - f: tuanpai
+      cite: f05-rfa-2015-01-08-yang-weize
+      quote: '杨卫泽的出事和被拿下，进一步牵扯到胡锦涛的“团派大将”──现任江苏省委书记罗志军'
+      rank: backbone
+      rankQuote: '胡锦涛的“团派大将”'
+    - f: tuanpai
+      cite: f05-ntd-2016-07-06-tuanpai-four
+      quote: '“团派四大金刚”——云南省委书记秦光荣、山西省委书记袁纯清、江苏省委书记罗志军、江西省委书记强卫等都“榜上有名”'
+    - f: jiangsu-gang
+      cite: f05-rfa-2015-01-08-yang-weize
+      quote: '已经迁入秦城监狱的前南京市长季建业和罗志军的迁升及发生问题都和李源潮这位江苏老书记有人事关连'
+      rank: backbone
+    - f: jiangsu-gang
+      cite: f05-secretchina-2016-07-03-three-secretaries
+      quote: '罗志军是江派“江苏帮”的主要成员'
+  cites: [wd-Q711065, f05-cri-2016-07-02-qiang-luo-npc, f05-people-2023-04-02-luo-zhijun-death, f05-rfa-2015-01-08-yang-weize]
+
+- id: chen-shiju
+  name: 陈世炬
+  gender: m
+  born: 1963
+  birthplace: 贵州六枝
+  roles: [minister]
+  status: active
+  statusNote: 2015年初以中央办公厅副主任身份明确为正部级，此后任职情况本批来源未载。
+  tier: 2
+  headline: 胡锦涛长期秘书、原国家主席办公室主任、中央办公厅副主任
+  ids: { wikidata: Q16260709 }
+  bio: >-
+    贵州大学教师出身，1980年代调贵州省委办公厅，成为刚从团中央调任贵州省委书记的胡锦涛的秘书，此后随胡锦涛到西藏和中央。2002年起任胡锦涛办公室主任，2013年胡锦涛卸任国家主席后调任中央办公厅副主任。法广称他与令计划同被视为胡锦涛的心腹，但行事低调。
+  positions:
+    - { title: 贵州省委办公厅干部、省委书记胡锦涛秘书, sys: party, place: 贵州, cite: f05-rfi-2015-01-08-chen-shiju }
+    - { title: 胡锦涛办公室主任, sys: party, from: 2002, to: 2013-03, cite: f05-rfi-2015-01-08-chen-shiju }
+    - { title: 中共中央办公厅副主任, sys: party, from: 2013-03, cite: f05-rfi-2015-01-08-chen-shiju }
+  cites: [wd-Q16260709, f05-rfi-2015-01-08-chen-shiju]
+
+# --- jiangsu-gang ---
+- id: yang-weize
+  name: 杨卫泽
+  gender: m
+  born: 1962
+  birthplace: 江苏南通
+  roles: [tiger, acc, prov]
+  status: detained
+  statusNote: 2016年12月以受贿罪被判处有期徒刑十二年零六个月。
+  fall:
+    - { date: 2015-01-04, text: 中纪委监察部网站宣布江苏省委常委、南京市委书记杨卫泽涉嫌严重违纪违法，接受组织调查。, cite: f05-rfi-2015-01-20-jiangsu-gang }
+    - { date: 2015-07-31, text: 中纪委通报杨卫泽严重违纪，给予开除党籍、开除公职处分，移送司法机关。, cite: f05-people-2015-07-31-yang-weize }
+    - { date: 2016-12-14, text: 宁波市中级人民法院以受贿罪判处杨卫泽有期徒刑十二年零六个月，并处没收个人财产200万元。, cite: f05-court-2016-12-14-yang-weize }
+  tier: 2
+  headline: 原江苏省委常委、南京市委书记，2015年落马
+  ids: { wikidata: Q8292858 }
+  bio: >-
+    长期在江苏交通系统任职，1998年任江苏省交通厅厅长，此后历任苏州市长、无锡市委书记，2011年起以省委常委身份任南京市委书记。2015年1月成为当年首个被查的副省部级官员，2016年被判刑十二年半。法广称他被视为李源潮的亲信，自由亚洲电台高新认为李源潮是他仕途的第一推手。
+  positions:
+    - { title: 江苏省交通厅厅长, sys: gov, place: 江苏, from: 1998-04, cite: f05-people-2015-07-31-yang-weize }
+    - { title: 苏州市市长, sys: gov, place: 江苏, from: 2001-01, cite: f05-people-2015-07-31-yang-weize }
+    - { title: 无锡市委书记, sys: party, place: 江苏, from: 2004-11, cite: f05-people-2015-07-31-yang-weize }
+    - { title: 江苏省委常委、无锡市委书记, sys: party, place: 江苏, from: 2006-11, to: 2011-03, cite: f05-people-2015-07-31-yang-weize }
+    - { title: 江苏省委常委、南京市委书记, sys: party, place: 江苏, from: 2011-03, to: 2015-01, cite: f05-people-2015-07-31-yang-weize }
+  factions:
+    - f: jiangsu-gang
+      cite: f05-rfi-2015-01-20-jiangsu-gang
+      quote: '被视为国家副主席李源潮亲信的江苏省委常委兼南京市委书记杨卫泽'
+      rank: core
+      rankQuote: '被视为国家副主席李源潮亲信'
+    - f: jiangsu-gang
+      cite: f05-rfa-2015-01-08-yang-weize
+      quote: '杨卫泽的官场继续发迹，而且被当成省长接班人培养的整个过程，李源潮绝对是第一推手'
+  cites: [wd-Q8292858, f05-people-2015-07-31-yang-weize, f05-court-2016-12-14-yang-weize, f05-rfi-2015-01-20-jiangsu-gang]
+
+- id: ji-jianye
+  name: 季建业
+  gender: m
+  born: 1957-01-28
+  birthplace: 江苏张家港
+  roles: [tiger]
+  status: detained
+  statusNote: 2015年4月以受贿罪被判处有期徒刑15年。
+  fall:
+    - { date: 2014-01-30, text: 中纪委通报季建业严重违纪违法，给予开除党籍处分，移送司法机关。, cite: f05-sdnews-2014-01-30-ji-jianye }
+    - { date: 2015-04-07, text: 烟台市中级人民法院以受贿罪判处季建业有期徒刑15年，并处没收个人财产200万元。, cite: f05-yicai-2015-04-07-ji-jianye }
+  tier: 2
+  headline: 原南京市长，2013年落马
+  ids: { wikidata: Q9127007 }
+  bio: >-
+    江苏张家港人，长期在苏南、苏中任职，2000年任昆山市委书记，2001年调扬州任市长、市委书记，2009年调任南京代市长，次年当选市长。2013年10月被查，2015年被判刑15年。自由亚洲电台高新认为，他的升迁与李源潮这位江苏老书记有人事关连。
+  positions:
+    - { title: 昆山市委书记, sys: party, place: 江苏, from: 2000-08, to: 2001-07, cite: f05-sdnews-2014-01-30-ji-jianye }
+    - { title: 扬州市市长, sys: gov, place: 江苏, from: 2001-07, to: 2004-07, cite: f05-sdnews-2014-01-30-ji-jianye }
+    - { title: 扬州市委书记, sys: party, place: 江苏, from: 2004-07, to: 2009-08, cite: f05-sdnews-2014-01-30-ji-jianye }
+    - { title: 南京市市长, sys: gov, place: 江苏, from: 2009-08, to: 2013-10, cite: wd-Q9127007 }
+  factions:
+    - f: jiangsu-gang
+      cite: f05-rfa-2015-01-08-yang-weize
+      quote: '已经迁入秦城监狱的前南京市长季建业和罗志军的迁升及发生问题都和李源潮这位江苏老书记有人事关连'
+      rank: backbone
+  cites: [wd-Q9127007, f05-sdnews-2014-01-30-ji-jianye, f05-yicai-2015-04-07-ji-jianye]
+
+- id: zhao-shaolin
+  name: 赵少麟
+  gender: m
+  born: 1946-10
+  birthplace: 山西原平
+  roles: [tiger]
+  status: purged
+  statusNote: 2015年8月被开除党籍，涉嫌犯罪问题移送司法机关。
+  fall:
+    - { date: 2015-08-14, text: 中纪委通报赵少麟在党内搞团团伙伙、拉拢腐蚀领导干部，给予开除党籍处分，移送司法机关。, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+  tier: 2
+  headline: 原江苏省委常委、秘书长（2000–2006），2015年被开除党籍
+  ids: { wikidata: Q18340688 }
+  bio: >-
+    共青团南京市委书记出身，曾任淮阴市委书记，1998年任江苏省委秘书长，2000年至2006年以省委常委身份任秘书长，先后为回良玉、李源潮两任省委书记的大管家。2015年被开除党籍，中纪委通报称他在党内搞团团伙伙。《南华早报》称他是国家副主席李源潮的亲信。
+  positions:
+    - { title: 共青团南京市委书记, sys: party, place: 江苏, from: 1982-08, to: 1984-03, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+    - { title: 淮阴市委书记, sys: party, place: 江苏, from: 1994-09, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+    - { title: 江苏省委秘书长, sys: party, place: 江苏, from: 1998-06, to: 2000-03, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+    - { title: 江苏省委常委、秘书长, sys: party, place: 江苏, from: 2000-03, to: 2006-11, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+    - { title: 中国老龄事业发展基金会第一副理事长, sys: other, from: 2006-12, cite: f05-chinanews-2015-08-14-zhao-shaolin }
+  factions:
+    - f: jiangsu-gang
+      cite: f05-scmp-2015-08-14-zhao-shaolin
+      quote: 'An associate of China''s Vice-President Li Yuanchao was on Friday expelled from the Communist Party for forming political factions'
+      zh: '中国国家副主席李源潮的一名亲信周五因结党营私被开除党籍'
+      rank: backbone
+      rankQuote: 'Zhao was a top aide to Li as well as former vice-premier Hui Liangyu when they headed the party in Jiangsu.'
+  cites: [wd-Q18340688, f05-chinanews-2015-08-14-zhao-shaolin, f05-scmp-2015-08-14-zhao-shaolin]
+
+# --- conservatives and elders ---
+- id: chen-yun
+  name: 陈云
+  gender: m
+  born: 1905-06-13
+  died: 1995-04-10
+  birthplace: 上海青浦
+  roles: [psc, ccdi]
+  status: dead
+  statusNote: 1995年4月10日在北京逝世。
+  tier: 2
+  headline: 中共元老，曾任中央副主席、中纪委第一书记，改革开放时期保守派代表人物
+  ids: { wikidata: Q557233 }
+  bio: >-
+    中共第一代经济工作领导人，1950年代任国务院副总理、中央副主席和政治局常委，文革后复出任政治局常委、中纪委书记。改革开放时期主张计划经济为主、对市场化改革持保留态度，BBC称当时元老大致分为以邓小平为代表的改革派和以陈云为代表的保守派。李鹏被视为他的门生。
+  positions:
+    - { title: 国务院副总理, sys: gov, from: 1954, to: 1965, cite: wd-Q557233 }
+    - { title: 中共中央副主席, sys: party, from: 1956-09, to: 1966-08, cite: wd-Q557233 }
+    - { title: 中央政治局常委, sys: party, from: 1956-09, to: 1969-04, cite: wd-Q557233 }
+    - { title: 中央政治局常委, sys: party, from: 1978-12, to: 1987-11, cite: wd-Q557233 }
+    - { title: 中央纪律检查委员会书记, sys: party, from: 1978-12, to: 1987-10, cite: wd-Q557233 }
+  factions:
+    - f: conservatives
+      cite: f05-bbc-2007-01-16-bo-yibo
+      quote: '幕后干政的元老中间大致分为以邓小平为代表的改革派和以陈云为代表的保守派'
+      rank: elder
+      rankQuote: '以陈云为代表的保守派'
+    - f: conservatives
+      cite: b01-bbc-2019-07-23-li-peng-obit
+      quote: '他的政绩平平，但获得以陈云为代表的中共保守派鼎力扶持'
+      rank: elder
+  cites: [wd-Q557233, f05-bbc-2007-01-16-bo-yibo, f03-latimes-1987-11-25-li-peng]
+
+- id: bo-yibo
+  name: 薄一波
+  gender: m
+  born: 1908-02-06
+  died: 2007-01-15
+  birthplace: 山西定襄
+  roles: [cc]
+  status: dead
+  statusNote: 2007年1月15日在北京逝世，享年98岁。
+  tier: 2
+  headline: 中共元老，曾任国务院副总理、中顾委常务副主任，薄熙来之父
+  ids: { wikidata: Q553682 }
+  bio: >-
+    建国初任中央人民政府第一任财政部部长，在陈云领导下主管财经工作，1956年任国务院副总理。文革后复出，1982年起任中顾委常务副主任，1987年主持十三大人事筹备。BBC称因胡耀邦是鲜明的改革派，薄一波自然被归入保守派，但他实际上同时受邓小平和陈云信任。其子薄熙来2012年落马。
+  positions:
+    - { title: 中央人民政府财政部部长, sys: gov, cite: f05-chinanews-2007-01-21-bo-yibo }
+    - { title: 国务院副总理, sys: gov, from: 1956-11, to: 1975-01, cite: wd-Q553682 }
+    - { title: 国务院副总理, sys: gov, from: 1979-07, cite: f05-chinanews-2007-01-21-bo-yibo }
+    - { title: 国家经济体制改革委员会第一副主任, sys: gov, from: 1982-05, cite: f05-chinanews-2007-01-21-bo-yibo }
+    - { title: 中央顾问委员会常务副主任, sys: party, from: 1982-09, cite: f05-chinanews-2007-01-21-bo-yibo }
+    - { title: 中央整党工作指导委员会常务副主任, sys: party, from: 1983-10, cite: f05-chinanews-2007-01-21-bo-yibo }
+  factions:
+    - f: conservatives
+      cite: f05-bbc-2007-01-16-bo-yibo
+      quote: '而因为胡耀邦无疑是鲜明的改革派，所以薄一波自然就成了保守派'
+      rank: elder
+      rankQuote: '幕后干政的元老中间'
+  cites: [wd-Q553682, f05-chinanews-2007-01-21-bo-yibo, f05-bbc-2007-01-16-bo-yibo]
+
+- id: deng-liqun
+  name: 邓力群
+  gender: m
+  born: 1915-11-27
+  died: 2015-02-10
+  birthplace: 湖南桂东
+  roles: [sec]
+  status: dead
+  statusNote: 2015年2月10日在北京逝世，享年99岁。
+  tier: 2
+  headline: 原中央书记处书记、中宣部部长，1980年代党内保守派理论家
+  ids: { wikidata: Q8296502 }
+  bio: >-
+    1977年邓小平复出后在其身边协助起草讲话，1982年至1985年任中宣部部长，1982年至1987年任中央书记处书记，主管意识形态。1980年代与胡耀邦、赵紫阳对立，反对自由化，1987年十三大落选中央委员。纽约时报称官方给他的赞誉是形容坚定守旧派的委婉说法，王震是他的保守派靠山。
+  positions:
+    - { title: 国务院政治研究室负责人, sys: gov, from: 1975-07, cite: f05-xinhua-2015-02-17-deng-liqun }
+    - { title: 中央宣传部部长, sys: party, from: 1982-04, to: 1985-07, cite: f05-xinhua-2015-02-17-deng-liqun }
+    - { title: 中央书记处书记, sys: party, from: 1982-09, to: 1987-10, cite: f05-xinhua-2015-02-17-deng-liqun }
+    - { title: 中央顾问委员会委员, sys: party, from: 1987-11, cite: f05-xinhua-2015-02-17-deng-liqun }
+  factions:
+    - f: conservatives
+      cite: f05-nytcn-2015-02-13-deng-liqun
+      quote: '历史学者杨继绳说，他的保守派靠山王震曾希望邓力群能在领导层中升到更高'
+      rank: core
+      rankQuote: '保守派为了让他得到晋升而进行游说'
+  cites: [wd-Q8296502, f05-xinhua-2015-02-17-deng-liqun, f05-nytcn-2015-02-13-deng-liqun]
+
+- id: song-ping
+  name: 宋平
+  gender: m
+  born: 1917-04-24
+  died: 2026-03-04
+  birthplace: 山东莒县
+  roles: [psc]
+  status: dead
+  statusNote: 2026年3月4日在北京逝世，享年109岁。
+  tier: 2
+  headline: 原中央政治局常委、中组部部长，曾在甘肃提拔胡锦涛、温家宝
+  ids: { wikidata: Q618323 }
+  bio: >-
+    长期从事计划工作，1972年起主政甘肃，1981年回国家计委，1983年任国务委员兼国家计委主任，1987年任中组部部长、政治局委员，1989年六四后增补为政治局常委，1992年十四大退出。联合早报称他在甘肃和中组部任职时提拔举荐过胡锦涛、温家宝等人，被称为中国政坛最大伯乐。
+  positions:
+    - { title: 甘肃省委书记, sys: party, place: 甘肃, from: 1972, to: 1977, cite: f05-xinhua-2026-03-10-song-ping }
+    - { title: 甘肃省委第一书记, sys: party, place: 甘肃, from: 1977, to: 1981-01, cite: f05-xinhua-2026-03-10-song-ping }
+    - { title: 国家计划委员会副主任, sys: gov, from: 1981-01, to: 1983-06, cite: f05-xinhua-2026-03-10-song-ping }
+    - { title: 国务委员兼国家计划委员会主任, sys: gov, from: 1983-06, to: 1988-04, cite: wd-Q618323 }
+    - { title: 中央组织部部长, sys: party, from: 1987-05, cite: f05-xinhua-2026-03-10-song-ping }
+    - { title: 中央政治局委员, sys: party, from: 1987-11, to: 1989-06, cite: f05-xinhua-2026-03-10-song-ping }
+    - { title: 中央政治局常委, sys: party, from: 1989-06, to: 1992-10, cite: f05-xinhua-2026-03-10-song-ping }
+  cites: [wd-Q618323, f05-xinhua-2026-03-10-song-ping, f05-zaobao-2026-03-04-song-ping]

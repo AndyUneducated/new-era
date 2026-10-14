@@ -1,0 +1,95 @@
+# F09 (round 3): voices on the purged groups. faction id → voices; quote: true is checked against the cite.
+
+new-gang-of-four:
+  - voice: zh
+    text: 在海外中文媒体上，更有人把令计划与薄熙来、徐才厚和周永康并称为中国的“新四人帮”。
+    cite: f01-bbc-2014-12-22-ling-jihua
+    quote: true
+  - voice: zh
+    text: 周永康是中共1949年建政以来规模最大、真正意义上的“政变集团头目”。
+    cite: f02-voa-2014-12-05-zhou-coup
+    quote: true
+
+zhou-clique:
+  - voice: official
+    text: 其几乎在每一个仕途阶段，都有不少“门徒”，形成了四川系、石油帮、政法系、秘书帮等团团伙伙。
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    quote: true
+  - voice: zh
+    text: 以周永康为核心，既有周滨、周玲英等特定关系人直接仗势敛财、化公为私，又有蒋洁敏、李东生、李春城等心腹首领把持山头
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: true
+  - voice: zh
+    text: 这些落马高级官员包括所谓“四川帮”的前四川省高官李春城、郭永祥和李崇禧，“中油帮”的高官蒋洁敏、王永春、李华林等人以及“政法国安帮”高官梁克、李东生、吴永文等。
+    cite: f02-bbc-2014-02-26-zhou-watch
+    quote: true
+
+xishanhui:
+  - voice: official
+    text: 多家媒体称，令计划正是“西山会”的“执牛耳者”
+    cite: f02-hqrw-2015-01-06-xishanhui
+    quote: true
+  - voice: official
+    text: 藉由一个个陈川平式的角色，令计划的人事布局从“西山会”一直延伸到山西各级。
+    cite: f02-hqrw-2015-01-06-xishanhui
+    quote: true
+
+guo-xu:
+  - voice: official
+    text: 将能力平平的郭正钢拔苗助长般地提升为全军为数不多的‘70后’将军，将品行低劣的谷俊山火箭般擢升为总后勤部副部长，甚至不惜改年龄、涂档案。
+    cite: f01-thepaper-2017-guo-xu
+    quote: true
+  - voice: zh
+    text: 除了以徐才厚为更大的“山”的谷俊山和郭正钢，以下10个落马“军老虎”都与郭、徐有不同程度交集。
+    cite: f09-hkcd-2016-07-12-guo-xu-tigers
+    quote: true
+  - voice: zh
+    text: 中共官媒曾证实郭伯雄之子郭正钢的一句狂言——军方一半以上将领是郭伯雄提拔的
+    cite: f09-kzg-2016-07-26-guo-family
+    quote: true
+
+rocket-equipment:
+  - voice: zh
+    text: 这显示魏凤和可能在他主管火箭军以及担任中央军委委员、国务委员兼国防部长期间，违规提拔火箭军高官，甚至推荐李尚福接替自己职位。
+    cite: f02-zaobao-2024-06-27-li-wei
+    quote: true
+  - voice: zh
+    text: 中国突然宣布更换解放军火箭军的两名领导人，引发有关北京对这一掌管中国核武器的精英部队进行清洗的猜测。
+    cite: f01-bbc-2023-08-01-rocket-force
+    quote: true
+
+zhang-liu:
+  - voice: zh
+    text: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: true
+  - voice: zh
+    text: 受访学者评估，张又侠和刘振立同时被官宣落马，政治问题或大于经济问题，不排除涉团团伙伙
+    cite: f02-zaobao-2026-01-24-zhang-liu
+    quote: true
+
+sun-lijun-gang:
+  - voice: official
+    text: 孙力军政治团伙案是政治问题和经济问题交织、极度腐化堕落的典型。
+    cite: b12-xinhua-2022-01-15-zero-tolerance-ep1
+    quote: true
+  - voice: zh
+    text: 前述涉案的这四个政法口的一把手，是经由孙的举荐、运作而提拔上位的。他们也积极给予孙回报，除了金钱利益的回馈外，重要的是违规提供孙无权知晓的信息。
+    cite: f03-dw-2022-01-18-deng-yuwen
+    quote: true
+
+he-miao:
+  - voice: zh
+    text: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军
+    cite: b04-bbc-2025-10-nine-generals
+    quote: true
+  - voice: scholar
+    text: >-
+      Many of the officers shared prior service ties in the Eastern Theater Command area and the former 31st Group Army, forming an improper network around He and Miao.
+    zh: 许多军官此前都在东部战区一带和原31集团军共事过，围绕何卫东和苗华形成了不正当的关系网。
+    cite: b08-jamestown-2025-10-cronyism
+    quote: true
+  - voice: zh
+    text: 苗华落马后，其嫡系海军同僚与旧部纷纷出事。
+    cite: f09-tnt-2026-hu-zhongming
+    quote: true

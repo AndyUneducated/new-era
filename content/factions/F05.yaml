@@ -1,0 +1,50 @@
+# F05: round-3 factions. Field layout follows F01.yaml; member labels are in content/people/F05.yaml and content/tags/F05.yaml.
+
+# --- purged ---
+- id: jiangsu-gang
+  name: 江苏帮（李源潮系）
+  en: Jiangsu clique (Li Yuanchao network)
+  aka: [ 江苏帮 ]
+  frame: purged
+  color: '#e07a5f'
+  from: 2002
+  to: 2017
+  core: [ li-yuanchao, yang-weize ]
+  patron: li-yuanchao
+  basis: 李源潮2000年至2007年在江苏任省委副书记、书记期间提拔或共事的江苏干部
+  summary: >-
+    指李源潮主政江苏期间（2002年底至2007年任省委书记，此前任副书记）提拔、倚重的一批江苏干部，2015年前后多人落马，媒体由此称之为江苏帮。法广援引总编辑金钟称，江苏原是李源潮的地盘，他调任中组部部长后人事权更大，江苏干部由此结成网络；自由亚洲电台高新认为李源潮在为团派培养干部的同时形成了以自己为龙头的江苏帮。2013年至2015年，南京市长季建业、原省委常委秘书长赵少麟、省委常委南京市委书记杨卫泽相继落马；《南华早报》称赵少麟是李源潮的亲信。省委书记罗志军2016年离任江苏。海外法轮功背景媒体则把江苏帮归入江泽民派系，说法不一。2017年原常务副省长李云峰被查后，大纪元称江苏帮已解体。
+  voices:
+    - voice: zh
+      text: >-
+        江苏省原先是李源潮的地盘，他当时任省委书记，建立起自己的人脉，后来他调到中央掌中组部，人事权力亦大到不可轻视，因此现在我们可以看出，江苏这块地盘后来组成了一个共同网络。
+      cite: f05-rfi-2015-01-20-jiangsu-gang
+      quote: true
+    - voice: zh
+      text: >-
+        李源潮不但為胡锦涛的“团派”大力培养提拔了一批官员，而且形成了一个以自己為龙头的“江苏帮”，在政坛冒起
+      cite: f05-rfa-2015-01-08-yang-weize
+      quote: true
+    - voice: west
+      text: >-
+        An associate of China's Vice-President Li Yuanchao was on Friday expelled from the Communist Party for forming political factions
+      zh: 中国国家副主席李源潮的一名亲信周五因结党营私被开除党籍。
+      cite: f05-scmp-2015-08-14-zhao-shaolin
+      quote: true
+    - voice: official
+      text: >-
+        经查，赵少麟严重违反党的政治纪律、政治规矩和组织纪律，在党内搞团团伙伙，大肆进行利益交换、利益输送，拉拢腐蚀领导干部
+      cite: f05-chinanews-2015-08-14-zhao-shaolin
+      quote: true
+    - voice: zh
+      text: >-
+        李云峰是江苏省第四只“大老虎”，随着江苏官场多名官员落马，“江苏帮”已解体。
+      cite: f05-epochtimes-2017-04-07-jiangsu-gang
+      quote: true
+  cites:
+    - f05-rfi-2015-01-20-jiangsu-gang
+    - f05-rfa-2015-01-08-yang-weize
+    - f05-scmp-2015-08-14-zhao-shaolin
+    - f05-chinanews-2015-08-14-zhao-shaolin
+    - f05-people-2015-07-31-yang-weize
+    - f05-epochtimes-2017-04-07-jiangsu-gang

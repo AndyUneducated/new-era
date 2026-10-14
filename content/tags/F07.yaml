@@ -1,0 +1,236 @@
+# F07 (round 3): ranks for existing members of the Xi factions, plus labels for people carded by other batches.
+# person id → labels. A label repeating an existing (f, cite) only adds rank/rankQuote to it.
+
+# ---------- xi-jiajun (patron xi-jinping, no rank) ----------
+li-zhanshu:
+  - { f: xi-jiajun, cite: b05-zaobao-2017-10-23-li-zhanshu, rank: core, rankQuote: 也成为外界判断他是“习家班”嫡系人马的主要依据 }
+  - { f: shaanxi, cite: f01-brookings-2017-new-politburo, rank: core }
+  - f: shaanxi
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 栗战书、赵乐际是“陕军”头领
+    rank: core
+    rankQuote: 栗战书、赵乐际是“陕军”头领
+  - { f: hebei-zhengding, cite: f01-brookings-2017-new-politburo, rank: core }
+  - f: hebei-zhengding
+    cite: f07-ntdtv-2014-12-18-zhengding
+    quote: 文章介绍，栗战书是习近平在正定执政期间最大的人事收获
+    rank: core
+    rankQuote: 栗战书是习近平在正定执政期间最大的人事收获
+wang-huning:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: periphery }
+zhao-leji:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: core }
+  - { f: shaanxi, cite: f01-voa-2022-10-24-xi-jiajun, rank: core }
+  - f: shaanxi
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 栗战书、赵乐际是“陕军”头领
+    rank: core
+    rankQuote: 栗战书、赵乐际是“陕军”头领
+li-qiang:
+  - { f: xi-jiajun, cite: f02-bbc-2022-09-29-20th-five-questions, rank: core }
+  - { f: zhijiang, cite: b06-voa-2022-10-23-li-qiang, rank: core, rankQuote: 成为后来的习近平派系“之江新军”中的一员大将 }
+cai-qi:
+  - { f: xi-jiajun, cite: b06-cna-2026-06-06-cai-party-school, rank: core, rankQuote: 鞏固其作為中共總書記習近平親信的地位 }
+  - { f: zhijiang, cite: f02-rfa-2020-11-16-zhijiang, rank: core, rankQuote: 所谓“之江新军”的最典型代表蔡奇 }
+  - { f: fujian, cite: f02-reuters-2022-10-23-cai-qi, rank: core, rankQuote: "he is seen as one of Xi's closest political allies" }
+ding-xuexiang:
+  - { f: xi-jiajun, cite: f02-bbc-2022-09-29-20th-five-questions, rank: core }
+  - f: zhijiang
+    cite: b09-bbc-2022-10-22-20th-close
+    quote: 中央办公厅主任丁薛祥……他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属
+    rank: periphery
+li-xi:
+  - { f: xi-jiajun, cite: f02-bbc-2022-09-29-20th-five-questions, rank: core }
+  - { f: shaanxi, cite: f02-orf-2021-xi-gang, rank: core, rankQuote: the most prominent leader in this group is Li Xi }
+  - f: zhijiang
+    cite: b09-bbc-2022-10-22-20th-close
+    quote: 广东省委书记李希……他们被外界称为“之江新军”或“习家军”，因为习近平担任中国领导人后，曾提拔这些他在浙江和上海任职时的下属
+    rank: periphery
+qin-gang:
+  - { f: xi-jiajun, cite: b08-bbc-2023-10-26-li-qin, rank: periphery }
+zhang-youxia:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: core }
+  - { f: shaanxi, cite: b08-jamestown-2025-11-purification, rank: core }
+liu-he:
+  - { f: xi-jiajun, cite: b09-dw-2018-03-19-liu-he, rank: core }
+chen-xi:
+  - { f: xi-jiajun, cite: b09-zaobao-2017-10-24-chen-xi, rank: core, rankQuote: 被视为总书记习近平嫡系干将的中组部常务副部长陈希 }
+  - f: fujian
+    cite: f07-ntdtv-2017-11-08-new-armies
+    quote: “闽江新军”则以福建官员为主，除中组部长陈希外
+    rank: core
+chen-quanguo:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: backbone }
+chen-miner:
+  - { f: xi-jiajun, cite: f02-bbc-2022-09-29-20th-five-questions, rank: core }
+  - { f: zhijiang, cite: f02-bbc-2017-09-26-psc-candidates, rank: core, rankQuote: 其中最引人关注的就是现任重庆市委书记陈敏尔 }
+huang-kunming:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: core }
+  - { f: zhijiang, cite: f02-rfa-2020-11-16-zhijiang, rank: core }
+  - { f: fujian, cite: c02-jiia-2019-04-huang-kunming, rank: core }
+xu-qiliang:
+  - { f: xi-jiajun, cite: f02-jamestown-2017-emperor, rank: backbone }
+wang-chen:
+  - { f: xi-jiajun, cite: f04-rfa-2017-10-09-wang-chen, rank: backbone }
+li-hongzhong:
+  - { f: xi-jiajun, cite: f02-reuters-2022-10-24-elites, rank: backbone }
+li-shulei:
+  - { f: xi-jiajun, cite: c02-zaobao-2022-11-11-li-shulei, rank: backbone }
+  - f: fujian
+    cite: f07-soh-song-tao
+    quote: 中央高层中还有多人有福建背景，他们不同程度上可以归入福建帮。如……中宣部长李书磊曾任福建省委宣传部长
+    rank: periphery
+    rankQuote: 他们不同程度上可以归入福建帮
+song-tao:
+  - { f: fujian, cite: f01-rfa-2019-02-22-shaanxi, rank: backbone }
+  - f: fujian
+    cite: f07-soh-song-tao
+    quote: 宋涛是福建帮代表人物
+    rank: backbone
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 习在福建工作时的“朋友圈”中也有多人在十八大后获得重要升迁，如中联部长宋涛
+    rank: backbone
+he-lifeng:
+  - { f: fujian, cite: b09-voa-2023-11-he-lifeng, rank: core }
+  - f: fujian
+    cite: f07-epoch-2024-10-29-fujian
+    quote: 副總理何立峰是廣東興寧人，生於福建省永定縣，早年在福建任職時就是習的鐵桿
+    rank: core
+    rankQuote: 早年在福建任職時就是習的鐵桿
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 习在福建工作时的“朋友圈”中也有多人在十八大后获得重要升迁，如中联部长宋涛、发改委副主任何立峰
+    rank: core
+wang-qishan:
+  - { f: shaanxi, cite: f02-orf-2021-xi-gang, rank: core }
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 王岐山亦是习近平早在青少年时代就已结识的知交，且王的“打虎”团队是习“治国理政”不可或缺的最强支持力量
+    rank: core
+    rankQuote: 王的“打虎”团队是习“治国理政”不可或缺的最强支持力量
+huang-xingguo:
+  - { f: zhijiang, cite: f01-rfa-2019-02-22-shaanxi, rank: backbone }
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……如习的浙江旧部黄兴国（前天津市代理书记）
+    rank: backbone
+ying-yong:
+  - { f: zhijiang, cite: b09-bbc-2022-10-22-20th-close, rank: backbone }
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……应勇（上海市常务副市长）
+    rank: backbone
+zhong-shaojun:
+  - { f: zhijiang, cite: b11-bbc-2015-07-31-chen-guizhou, rank: backbone }
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……上海旧部丁薛祥（中央办公厅常务副主任）、钟绍军（中央军委办公厅副主任）
+    rank: backbone
+du-jiahao:
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……杜家毫（湖南省委书记）
+    rank: backbone
+chen-hao:
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……陈豪（云南省委书记）
+    rank: backbone
+xu-lin:
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……徐麟（中宣部副部长兼网信办主任）
+    rank: backbone
+fang-fenghui:
+  - { f: shaanxi, cite: f01-rfa-2019-02-22-shaanxi, rank: periphery }
+  - f: xi-jiajun
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: 该文章分析 “习家军”主要由以下三部分官员所构成……陕籍上将张又侠、房峰辉虽年龄偏大，亦颇受习近平信任
+    rank: periphery
+liu-guozhong:
+  - f: xi-jiajun
+    cite: f07-soh-shaanxi
+    quote: 可见不管刘国中本来与中共哪派接近些，现在是属于习收编进习家军的一员
+    rank: backbone
+  - f: shaanxi
+    cite: f07-epoch-2023-11-09-five-cliques
+    quote: 中共国务院副总理刘国中曾任陕西省委书记，被认为是新陕西帮
+    rank: core
+zhang-guoqing:
+  - f: xi-jiajun
+    cite: f07-epoch-2023-11-09-five-cliques
+    quote: 副总理张国清是军工帮；副总理刘国中是新陕西帮。五人都是习家军，但分属五个不同帮派
+    rank: periphery
+
+# ---------- zhijiang ----------
+zhou-jiangyong:
+  - { f: zhijiang, cite: f04-rfa-2021-08-23-zhou-jiangyong, rank: backbone }
+xia-baolong:
+  - { f: zhijiang, cite: f02-rfa-2020-11-16-zhijiang, rank: backbone }
+chen-yixin:
+  - { f: zhijiang, cite: c05-voa-2022-10-29-chen-yixin, rank: backbone }
+  - f: zhijiang
+    cite: f07-diplomat-2021-04-chen-yixin
+    quote: Chen is a prominent member of Xi’s next generation power base, the Zhijiang New Army faction
+    zh: 陈一新是习近平下一代权力基础“之江新军”派系的重要成员
+    rank: backbone
+    rankQuote: Chen is a prominent member of Xi’s next generation power base
+zhao-hongzhu:
+  - f: zhijiang
+    cite: f07-rfa-2020-11-20-xu-lingyi
+    quote: 如此一来，赵洪祝自然会得到习近平的政治回报
+    rank: periphery
+
+# ---------- fujian ----------
+he-weidong:
+  - { f: fujian, cite: b08-jamestown-2025-11-purification, rank: core }
+miao-hua:
+  - { f: fujian, cite: b08-jamestown-2025-11-purification, rank: backbone }
+he-hongjun:
+  - f: fujian
+    cite: b08-jamestown-2025-11-purification
+    quote: The article specifically called out He Weidong, Miao Hua, and He Hongjun, who enjoyed connections to Xi Jinping from his time as a Fujian provincial official
+    zh: 文章点名何卫东、苗华和何宏军，三人与习近平任职福建时期有渊源
+    rank: backbone
+lin-xiangyang:
+  - f: fujian
+    cite: f07-soh-song-tao
+    quote: 中央委员、现任东部战区司令林向阳，福建人，是苗华的31军旧部
+    rank: backbone
+wang-xiaohong:
+  - { f: fujian, cite: c02-rfa-2022-06-24-wang-xiaohong, rank: core }
+  - f: fujian
+    cite: f07-timednews-2022-10-04
+    quote: 福建帮头号亲信是公安部长王小洪（福建人，在福建时负责习的安全警卫）
+    rank: core
+    rankQuote: 福建帮头号亲信是公安部长王小洪
+chen-wenqing:
+  - f: fujian
+    cite: f07-soh-song-tao
+    quote: 中央高层中还有多人有福建背景，他们不同程度上可以归入福建帮。如中央政法委书记陈文清曾任福建省委副书记
+    rank: periphery
+    rankQuote: 他们不同程度上可以归入福建帮
+yin-li:
+  - f: fujian
+    cite: f07-soh-song-tao
+    quote: 中央高层中还有多人有福建背景，他们不同程度上可以归入福建帮。如……北京市委书记尹力曾任福建省委书记
+    rank: periphery
+    rankQuote: 他们不同程度上可以归入福建帮
+
+# ---------- shaanxi ----------
+zhang-shengmin:
+  - { f: shaanxi, cite: b08-dw-2025-10-23-zhang-shengmin, rank: backbone }
+liu-zhenli:
+  - { f: shaanxi, cite: b08-jamestown-2025-11-purification, rank: backbone }
+xi-zhongxun:
+  - { f: shaanxi, cite: f02-voa-2024-04-princelings, rank: elder }
+li-ziqi:
+  - { f: shaanxi, cite: b06-voa-2022-10-23-li-xi, rank: elder }
+
+# ---------- hebei-zhengding ----------
+liu-yuan:
+  - f: hebei-zhengding
+    cite: f07-ntdtv-2014-12-18-zhengding
+    quote: 此外，文章还介绍了正定期间习近平与刘源的关系。……习近平这位“不谋而合”的红二代好友，成为他日后在政治上的有力支持者
+    rank: periphery

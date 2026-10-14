@@ -1,0 +1,331 @@
+# F05: tuanpai, populist, conservatives and the Jiangsu gang (round 3).
+web:
+  # --- tuanpai: analysis ---
+  - id: f05-cmp-2007-09-14-factions
+    title: Power factions, "princelings" and political pasts
+    publisher: China Media Project
+    author: Qian Gang (tr. David Bandurski)
+    date: 2007-09-14
+    voice: scholar
+    lang: en
+    url: https://chinamediaproject.org/2007/09/14/power-factions-princelings-and-political-pasts/
+    excerpt: true
+    keep: [ 'These include: Li Keqiang', 'Pundits have referred to the above-listed', 'compartmentalizing China', 'did not really exist', 'No one associates Wang', 'generally regarded as a member of the', 'up and coming young official', 'Liu Peng (刘鹏)' ]
+  - id: f05-sef-2012-10-tsai-fifth-gen
+    title: 解读中共第五代领导人：派系背景与政绩表现
+    publisher: 海峡交流基金会《交流》杂志
+    author: 蔡文轩
+    date: 2012-10
+    voice: scholar
+    url: https://www.sef.org.tw/article-2-129-5444
+    excerpt: true
+    keep: [ '精确的说，所谓的团派', '得自于胡锦涛的庇荫', '但未与胡锦涛直接共事', '或和其他团派大将', '值得商榷之处', '有些团派成员也有太子党的色彩', '秘书帮的最佳例子' ]
+  - id: f05-jamestown-2016-cyl-eclipse
+    title: The Eclipse of the Communist Youth League and the Rise of the Zhejiang Clique
+    publisher: Jamestown Foundation, China Brief
+    author: Willy Wo-Lap Lam
+    date: 2016-05-11
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/the-eclipse-of-the-communist-youth-league-and-the-rise-of-the-zhejiang-clique/
+    excerpt: true
+    keep: [ 'still one of the CCP', 'form the biggest bloc', 'the regions surrounding the center', 'right-hand-man of former president Hu', 'close business partners', 'ordinary Politburo members such as Li Yuanchao', 'solid reformist inclinations', 'Hu Chunhua served as First Secretary', 'Bayin Chaolu' ]
+  - id: f05-voa-2016-08-03-cyl-overhaul
+    title: 共青团中央精简编制 团派降格风光不再
+    publisher: 美国之音
+    author: 莫雨
+    date: 2016-08-03
+    voice: zh
+    url: https://www.voachinese.com/a/china-communist-youth-league-overhaul-20160802/3446714.html
+    excerpt: true
+    keep: [ '正式开始对“团派”动刀', '终结共青团的政治势力', '重要的一个派系', '作为中共权力接班的梯队功能已经不再', '此前落马的令计划' ]
+  - id: f05-nytcn-2016-08-04-cyl
+    title: 习近平为何要整顿共青团
+    publisher: 纽约时报中文网
+    author: 储百亮
+    date: 2016-08-04
+    voice: zh
+    url: https://cn.nytimes.com/china/20160804/china-communist-youth-league/
+    excerpt: true
+    keep: [ '其他领导人包括总理李克强', '略微民粹主义的政治议程', '从来都不像某些人想象的那么抱团', '勉强地说', '对所谓团派的权力基础的隐性打击', '胡锦涛则希望李克强能接替他本人', '在因反腐败调查而倒台的原下属阴影下生活', '就连自己的前亲信倒台时' ]
+  - id: f05-zaobao-2017-09-21-qin-yizhi
+    title: 出任质检总局副局长 共青团第一书记秦宜智仕途受挫
+    publisher: 联合早报
+    author: 于泽远
+    date: 2017-09-21
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20170921-796880
+    excerpt: true
+    keep: [ '在秦宜智之前，共青团中央第一书记分别是', '称为“团系”或“团派”', '有关“团派”的传言' ]
+  - id: f05-zaobao-2018-03-02-yang-jing
+    title: 杨晶违纪被留党察看一年 传因李克强震怒才从轻发落
+    publisher: 联合早报
+    date: 2018-03-02
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20180302-839222
+    excerpt: true
+    keep: [ '64岁的杨晶是蒙古族', '为得力助手争取到退休待遇' ]
+  - id: f05-thinkhk-2022-10-24-tuanpai
+    title: 于泽远：团派退出新一届中央政治局
+    publisher: 思考香港（原刊联合早报）
+    author: 于泽远
+    date: 2022-10-24
+    voice: zh
+    url: https://www.thinkhk.com/article/2022-10/24/57818.html
+    excerpt: true
+    keep: [ '老部下，李克強的政治生涯', '同為共青團系統（團派）出身', '仕途嚴重受挫', '並不等於團派', '歷屆中共政治局都有團派高官加入', '團派大將王兆國', '李克強、李源潮、劉延東、汪洋、胡春華等團派幹部陸續崛起', '團派大將雖然仍佔據高位', '難覓團派身影' ]
+  - id: f05-bbc-2007-10-29-17th-tuanxi
+    title: 十七大分饼与“后三马车”
+    publisher: BBC 中文
+    author: 丁望
+    date: 2007-10-29
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/trad/hi/newsid_7060000/newsid_7067200/7067271.stm
+    excerpt: true
+    keep: [ '中央團系是分大餅的贏家', '這5人是', '八十年代的團中央伙伴', '預設的"後三馬車"' ]
+  - id: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    title: 夜话中南海：习近平曾经在“团派”中获得的重要支持者（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2023-01-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-01132023160824.html
+    excerpt: true
+    keep: [ '“团派”出身的王兆国', '左右臂膀', '足见“青帮”', '1984年，任中共中央办公厅主任时', '安排他下基层，到福建省接任省长' ]
+  - id: f05-rfi-2015-01-08-chen-shiju
+    title: 胡锦涛前大总管落马二总管升官
+    publisher: 法国国际广播电台
+    author: 甄树基
+    date: 2015-01-08
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20150108-%E8%83%A1%E9%94%A6%E6%B6%9B%E5%89%8D%E5%A4%A7%E6%80%BB%E7%AE%A1%E8%90%BD%E9%A9%AC%E4%BA%8C%E6%80%BB%E7%AE%A1%E5%8D%87%E5%AE%98
+    excerpt: true
+    keep: [ '从贵州和西藏一直跟到中央', '成为当时刚从团中央调任贵州省委书记的胡锦涛的秘书', '收编团派队伍' ]
+  - id: f05-people-2013-06-21-cyl-secretaries
+    title: 3位“70后”当选团中央书记
+    publisher: 新京报（人民网转载）
+    date: 2013-06-21
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/0621/c139617-21919262-2.html
+    start: "【历史】 团中央为党培养大批领导干部"
+    end: "李立国等4位部长，也曾分别任山东、江苏、辽宁等地的共青团省委书记。"
+  # --- tuanpai: rumor ---
+  - id: f05-ntd-2016-07-06-tuanpai-four
+    title: 分析：团派四大金刚 强卫可能最先被抓
+    publisher: 新唐人电视台
+    date: 2016-07-06
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2016/07/06/a1274807.html
+    excerpt: true
+    keep: [ '“团派四大金刚”——云南省委书记秦光荣', '最先被抓的可能会是强卫' ]
+  - id: f05-secretchina-2016-07-03-three-secretaries
+    title: 罗志军强卫王儒林转到高危地 事关刘源？
+    publisher: 看中国
+    date: 2016-07-03
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2016/07/03/612118.html
+    excerpt: true
+    keep: [ '罗志军是江派“江苏帮”的主要成员' ]
+  - id: f05-epochtimes-2004-08-05-shen-yueyue
+    title: 胡派官员的“人事女总管”沈跃跃
+    publisher: 大纪元（摘自《前哨》）
+    author: 田平
+    date: 2004-08-05
+    voice: zh
+    rumor: true
+    url: https://web.archive.org/web/20100512143446/http://www.epochtimes.com/gb/4/8/5/n618666.htm
+    excerpt: true
+    keep: [ '胡锦涛上任中共总书记一年多来' ]
+  # --- Jiangsu gang ---
+  - id: f05-rfi-2015-01-20-jiangsu-gang
+    title: 习王反腐扫到江苏帮 李源潮后院火苗爆起
+    publisher: 法国国际广播电台
+    author: 夏榕
+    date: 2015-01-20
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20150115-%E5%8F%8D%E8%85%90%E6%89%AB%E5%88%B0%E6%B1%9F%E8%8B%8F%E5%B8%AE-%E6%9D%8E%E6%BA%90%E6%BD%AE%E5%90%8E%E9%99%A2%E8%B5%B7%E7%81%AB
+    excerpt: true
+    keep: [ '被视为国家副主席李源潮亲信', '除了江苏帮的贪腐问题', '江苏省原先是李源潮的地盘', '李源潮因江苏帮出问题也卷进去了', '当前的江苏帮', '调整“团派”势力' ]
+  - id: f05-rfa-2015-01-08-yang-weize
+    title: 抓杨卫泽之前习近平“调‘虎’离山”？（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2015-01-08
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-01082015141644.html
+    excerpt: true
+    keep: [ '香港媒体东方日报旗下网站刊登的一则评论说', '这位杨卫泽当时的“伯乐”', '李源潮绝对是第一推手', '杨卫泽被李源潮安排为无锡市委书记', '毫无疑问又是李源潮的亲自提名' ]
+  - id: f05-scmp-2015-08-14-zhao-shaolin
+    title: Chinese vice-president Li Yuanchao's former aide sacked for 'corrupting others'
+    publisher: South China Morning Post
+    author: Jun Mai
+    date: 2015-08-14
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2024/https://www.scmp.com/news/china/policies-politics/article/1849654/chinese-vice-president-li-yuanchaos-former-aide-sacked
+    excerpt: true
+    keep: [ 'An associate of China', 'Zhao was a top aide to Li', 'formed cliques and factions', 'Jiangsu has seen three senior officials' ]
+  - id: f05-epochtimes-2017-04-07-jiangsu-gang
+    title: 江苏帮崩盘 第四只大老虎李云峰被立案审查
+    publisher: 大纪元
+    author: 刘晓真
+    date: 2017-04-07
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/17/4/7/n9011013.htm
+    excerpt: true
+    keep: [ '“江苏帮”已解体', '系“连襟”', '江苏省曾是江派大窝点' ]
+  - id: f05-people-2015-07-31-yang-weize
+    title: 江苏省委原常委、南京市委原书记杨卫泽被“双开”
+    publisher: 人民网
+    date: 2015-07-31
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0731/c64371-27392364.html
+    start: "据中央纪委监察部网站消息，日前"
+    end: "（简历摘自南京市委网站）"
+  - id: f05-court-2016-12-14-yang-weize
+    title: 南京市委原书记杨卫泽受贿案一审宣判
+    publisher: 人民法院报（最高人民法院网）
+    date: 2016-12-14
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/32971.html
+    start: "12月14日，浙江省宁波市中级人民法院"
+    end: "法庭遂作出上述判决。"
+  - id: f05-sdnews-2014-01-30-ji-jianye
+    title: 原南京市长季建业被开除党籍 涉受贿道德败坏
+    publisher: 鲁网（转中央纪委监察部网站）
+    date: 2014-01-30
+    voice: official
+    url: http://news.sdnews.com.cn/gn/201401/t20140130_1509327.html
+    start: "日前，中共中央纪委对南京市委原副书记"
+    end: "省九届、十届、十一届人大代表。"
+  - id: f05-yicai-2015-04-07-ji-jianye
+    title: 季建业被判有期徒刑15年 受贿一千余万大多源自三个朋友
+    publisher: 第一财经
+    date: 2015-04-07
+    voice: zh
+    url: https://www.yicai.com/news/4602030.html
+    excerpt: true
+    keep: [ '公开宣判原南京市长季建业受贿一案' ]
+  - id: f05-chinanews-2015-08-14-zhao-shaolin
+    title: 江苏省委原常委赵少麟被开除党籍 在党内搞团团伙伙
+    publisher: 中国新闻网
+    date: 2015-08-14
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2015/08-14/7466952.shtml
+    start: "中新网8月14日电 据中央纪委监察部网站消息"
+    end: "中国老龄事业发展基金会第一副理事长。"
+  # --- tuanpai: résumés ---
+  - id: f05-people-2013-01-29-zhang-baoshun
+    title: 张宝顺同志简历
+    publisher: 人民网（来源：安徽日报）
+    date: 2013-01-29
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/0129/c139617-20363138.html
+    start: "张宝顺，男，汉族，1950年2月生"
+    end: "九届全国政协委员。"
+  - id: f05-people-2013-01-29-yuan-chunqing
+    title: 袁纯清同志简历
+    publisher: 人民网
+    date: 2013-01-29
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0129/c351134-20365603.html
+    start: "男，1952年3月生，湖南省汉寿县人"
+    end: "十七届、十八届中央委员。"
+  - id: f05-cri-2016-07-02-qiang-luo-npc
+    title: 强卫、罗志军、王儒林赴全国人大任职
+    publisher: 国际在线
+    date: 2016-07-02
+    voice: official
+    url: https://news.cri.cn/20160702/cfd59faa-5039-3a6b-720c-593a524c3d34.html
+    start: "今日下午，在人民大会堂"
+    end: "省十一届、十二届人大代表。"
+  - id: f05-people-2023-04-02-luo-zhijun-death
+    title: 江苏省委原书记罗志军因病不幸离世
+    publisher: 人民网江苏频道（来源：交汇点）
+    date: 2023-04-02
+    voice: official
+    url: http://js.people.cn/n2/2023/0402/c360300-40361396.html
+    start: "据江苏省罗志军同志治丧工作小组消息"
+    end: "享年72岁。"
+  - id: f05-people-2013-03-18-shen-yueyue
+    title: 沈跃跃简历
+    publisher: 人民网
+    date: 2013-03-18
+    voice: official
+    url: http://npc.people.com.cn/n/2013/0318/c15257-20820906.html
+  - id: f05-people-2013-03-18-ji-bingxuan
+    title: 吉炳轩简历
+    publisher: 人民网
+    date: 2013-03-18
+    voice: official
+    url: http://npc.people.com.cn/n/2013/0318/c15257-20820918.html
+  - id: f05-cctv-2008-02-25-meng-xuenong
+    title: 孟学农简历
+    publisher: 央视网（来源：新华网山西频道）
+    date: 2008-02-25
+    voice: official
+    url: http://news.cctv.com/special/C20149/20080225/102722.shtml
+    start: "中共山西省委副书记，山西省省长。"
+    end: "十届全国人大代表。"
+  # --- conservatives ---
+  - id: f05-bbc-2007-01-16-bo-yibo
+    title: 薄一波去世，薄熙来如何前仆后继
+    publisher: BBC 中文
+    date: 2007-01-16
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_6280000/newsid_6287300/6287321.stm
+    excerpt: true
+    keep: [ '以陈云为代表的保守派' ]
+  - id: f05-nytcn-2015-02-13-deng-liqun
+    title: 邓力群：向自由派开炮
+    publisher: 纽约时报中文网
+    date: 2015-02-13
+    voice: zh
+    url: https://cn.nytimes.com/china/20150213/c13deng/
+    excerpt: true
+    keep: [ '中国自由化最激烈的反对者之一', '坚定的守旧派的委婉说法', '较为温和的领导人之间的对抗', '他的保守派靠山王震', '并在1977年复出时将', '正统马克思列宁主义最后的卫士' ]
+  - id: f05-chinanews-2007-01-21-bo-yibo
+    title: 薄一波同志生平：战斗的一生，光辉的一生
+    publisher: 中国新闻网（新华社电）
+    date: 2007-01-21
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/01-21/858229.shtml
+    start: "中国共产党的优秀党员，伟大的共产主义战士"
+    end: "薄一波同志永垂不朽！"
+  - id: f05-xinhua-2015-02-17-deng-liqun
+    title: 邓力群同志生平
+    publisher: 新华网
+    date: 2015-02-17
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-02/17/c_1114401991.htm
+    start: "新华网北京2月17日电"
+    end: "邓力群同志永垂不朽！"
+  - id: f05-xinhua-2026-03-10-song-ping
+    title: 宋平同志生平
+    publisher: 新华网
+    date: 2026-03-10
+    voice: official
+    url: https://www.news.cn/politics/20260310/d5eb34cab1cc4a5eb1b8475029f03ee1/c.html
+    start: "新华社北京3月10日电"
+    end: "宋平同志永垂不朽！"
+  - id: f05-zaobao-2026-03-04-song-ping
+    title: “中国政坛最大伯乐”中共原政治局常委宋平逝世
+    publisher: 联合早报
+    date: 2026-03-04
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260304-8680207
+    excerpt: true
+    keep: [ '曾被称为“中国政坛最大伯乐”', '1979年，时任甘肃省“一把手”的宋平', '在他之后，曾经在甘肃工作过的', '受到周恩来、邓小平、陈云' ]
+  # --- Wen Jiabao's people (rumor) ---
+  - id: f05-kzg-2013-03-22-wen-ten
+    title: 传温家宝十员干将 共筑“李总理温内阁”
+    publisher: 看中国（转《动向》）
+    date: 2013-03-22
+    voice: zh
+    rumor: true
+    url: https://kzg.io/news/gb/2013/03/22/490912.html
+    excerpt: true
+    keep: [ '温家宝一直力挺汪洋', '深得温家宝提携与信任', '但实际上他是温家宝的人马', '韩长赋是温一手培养起来的', '其中最大者，当数孙政才' ]

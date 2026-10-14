@@ -1,0 +1,388 @@
+# F08 (round 3): Xi Jinping's factions, part two — aerospace, qinghua, xi-shanghai
+
+# --- aerospace / defence industry ---
+- id: zhang-qingwei
+  name: 张庆伟
+  pinyin: Zhang Qingwei
+  gender: m
+  ethnicity: 汉族
+  born: 1961-11-07
+  birthplace: 吉林市
+  origin: 河北乐亭
+  education:
+    - { school: 西北工业大学飞机系, degree: 工学硕士, to: 1988-03 }
+  joinedParty: 1992-12
+  joinedWork: 1982-08
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国人大常委会副委员长。
+  tier: 2
+  headline: 中国航天科技集团总经理（2001–2007）、全国人大常委会副委员长
+  bio: >-
+    航天系统出身，2001 年起任中国航天科技集团总经理、载人航天工程副总指挥，2002 年 41 岁即当选中央委员。
+    后任国防科工委主任、中国商飞董事长，2011 年起先后主政河北、黑龙江、湖南，2023 年转任全国人大常委会副委员长。
+  positions:
+    - { title: 中国航天科技集团公司总经理、党组书记, sys: other, from: 2001-11, to: 2007-08, cite: f08-people-2016-12-07-aerospace }
+    - { title: 国防科学技术工业委员会主任、党组书记, sys: gov, from: 2007-08, to: 2008-03, cite: f08-people-2016-12-07-aerospace }
+    - { title: 中国商用飞机有限责任公司董事长、党委书记, sys: other, from: 2008-03, to: 2011-08, cite: f08-people-2016-12-07-aerospace }
+    - { title: 河北省省长, sys: gov, place: 河北, from: 2011-08, to: 2017-04, cite: f08-people-2016-12-07-aerospace }
+    - { title: 黑龙江省委书记, sys: party, place: 黑龙江, from: 2017-04, to: 2021-10, cite: wd-Q197272 }
+    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2021-10, to: 2023-03, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2023-03, cite: wd-Q197272 }
+  factions:
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 如「軍工系」的代表人物之一張慶偉，此前擔任黑龍江省委書記，今番轉往湖南任職
+      rank: core
+      rankQuote: 如「軍工系」的代表人物之一張慶偉
+    - f: aerospace
+      cite: f08-chinanews-2017-02-07-jungong
+      quote: 这家央企连续走出的三位“掌门人”张庆伟、马兴瑞、许达哲，都位列中央委员
+  ids: { wikidata: Q197272 }
+  cites: [wd-Q197272, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong, f08-21jingji-2023-03-14-shen-xiaoming]
+
+- id: xu-dazhe
+  name: 许达哲
+  pinyin: Xu Dazhe
+  gender: m
+  ethnicity: 汉族
+  born: 1956-09
+  birthplace: 湖南浏阳
+  education:
+    - { school: 哈尔滨工业大学机械工程系, degree: 工学硕士, to: 1984-12 }
+  joinedParty: 1982-01
+  joinedWork: 1975-12
+  roles: [cc, prov, minister]
+  status: missing
+  statusNote: 2025 年 10 月被湖南省人大常委会罢免全国人大代表，全国人大常委会委员、教科文卫委副主任委员职务相应撤销；此前已一年多未公开露面，官方未公布原因。
+  fall:
+    - { date: 2025-10-28, text: 被湖南省人大常委会罢免第十四届全国人大代表职务，全国人大常委会委员等职相应撤销, cite: f08-xinhua-2025-10-28-npc-notice }
+  tier: 2
+  headline: 国家航天局局长（2013–2016）、湖南省委书记（2020–2021）
+  bio: >-
+    航天系统出身，长期在航天一院工作，2007 年起任中国航天科工集团总经理，2013 年先后接替马兴瑞任航天科技集团董事长和工信部副部长、国防科工局局长。
+    2016 年回乡任湖南省长，2020–2021 年任省委书记，后转入全国人大；2025 年被罢免全国人大代表。
+  positions:
+    - { title: 中国航天科工集团公司总经理、党组书记, sys: other, from: 2007-06, to: 2013-04, cite: f08-hnrd-xu-dazhe }
+    - { title: 中国航天科技集团公司董事长、党组书记, sys: other, from: 2013-04, to: 2013-12, cite: f08-chinanews-2017-02-07-jungong }
+    - { title: 工业和信息化部副部长、国家航天局局长、国家国防科技工业局局长, sys: gov, from: 2013-12, to: 2016-08, cite: f08-people-2016-12-07-aerospace }
+    - { title: 湖南省省长, sys: gov, place: 湖南, from: 2016-12, to: 2020-11, cite: f08-hnrd-xu-dazhe }
+    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2020-11, to: 2021-10, cite: f08-hnrd-xu-dazhe }
+    - { title: 全国人大教育科学文化卫生委员会副主任委员, sys: other, to: 2025-10, cite: f08-xinhua-2025-10-28-npc-notice }
+  factions:
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 他接替的，則是同樣「軍工系」出身的前湖南省委書記許達哲
+      rank: backbone
+    - f: aerospace
+      cite: f08-chinanews-2017-02-07-jungong
+      quote: 这家央企连续走出的三位“掌门人”张庆伟、马兴瑞、许达哲，都位列中央委员
+  ids: { wikidata: Q8294022 }
+  cites: [wd-Q8294022, f08-hnrd-xu-dazhe, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-xinhua-2025-10-28-npc-notice, f08-caixin-2025-10-29-xu-dazhe]
+
+- id: chen-qiufa
+  name: 陈求发
+  pinyin: Chen Qiufa
+  gender: m
+  ethnicity: 苗族
+  born: 1954-12
+  birthplace: 湖南城步
+  education:
+    - { school: 国防科技大学电子工程系 }
+  roles: [cc, prov, minister]
+  status: retired
+  statusNote: 2020 年卸任辽宁省委书记后无主要现职的公开报道。
+  tier: 2
+  headline: 国家航天局局长（2010–2013）、辽宁省委书记（2017–2020）
+  bio: >-
+    国防科技大学雷达对抗专业毕业，长期在航天工业部、航天科工集团、国防科工委和工信部任职，2010 年起任国家航天局局长、国防科工局局长。
+    2013 年转任湖南省政协主席，2015 年调辽宁任省长，2017–2020 年任辽宁省委书记。
+  positions:
+    - { title: 国家航天局局长、国家国防科技工业局局长, sys: gov, from: 2010-07, to: 2013-03, cite: f08-people-2016-12-07-aerospace }
+    - { title: 湖南省政协主席, sys: other, place: 湖南, from: 2013-01, to: 2015-05, cite: f08-people-2016-12-07-aerospace }
+    - { title: 辽宁省省长, sys: gov, place: 辽宁, from: 2015-05, to: 2017-10, cite: wd-Q8294093 }
+    - { title: 辽宁省委书记, sys: party, place: 辽宁, from: 2017-10, to: 2020-07, cite: wd-Q8294093 }
+  factions:
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 現今常說的「軍工系」官員，一般包括原遼寧省委書記陳求發
+      rank: backbone
+    - f: aerospace
+      cite: f08-people-2016-12-07-aerospace
+      quote: 其中，陈求发、马兴瑞、许达哲三人曾先后担任国家航天局局长
+  ids: { wikidata: Q8294093 }
+  cites: [wd-Q8294093, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong]
+
+- id: huang-qiang
+  name: 黄强
+  pinyin: Huang Qiang
+  gender: m
+  born: 1963-04
+  birthplace: 浙江东阳
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任吉林省委书记、省人大常委会主任。
+  tier: 2
+  headline: 中航工业第一飞机设计研究院院长、吉林省委书记
+  bio: >-
+    航空工业系统出身，曾任西安飞机设计研究所所长、第一飞机设计研究院院长，兼任上海飞机设计研究所所长。
+    2014 年初转任甘肃省副省长，后任四川省长，现任吉林省委书记；香港媒体将他列为军工系官员之一。
+  positions:
+    - { title: 西安飞机设计研究所所长, sys: other, cite: f08-people-2016-12-07-aerospace }
+    - { title: 第一飞机设计研究院院长、党委书记, sys: other, cite: f08-people-2016-12-07-aerospace }
+    - { title: 甘肃省副省长, sys: gov, place: 甘肃, from: 2014-01, cite: f08-people-2016-12-07-aerospace }
+    - { title: 四川省省长, sys: gov, place: 四川, cite: f08-hk01-2021-jungong }
+    - { title: 吉林省委书记, sys: party, place: 吉林, cite: wd-Q30941468 }
+  factions:
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 現今常說的「軍工系」官員，一般包括……四川省長黃強
+      rank: backbone
+    - f: aerospace
+      cite: f08-chinanews-2017-02-07-jungong
+      quote: 甘肃省副省长黄强也曾在中航工业西安飞机设计研究所工作多年
+  ids: { wikidata: Q30941468 }
+  cites: [wd-Q30941468, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong]
+
+- id: huai-jinpeng
+  name: 怀进鹏
+  pinyin: Huai Jinpeng
+  gender: m
+  ethnicity: 汉族
+  born: 1962-12-20
+  birthplace: 哈尔滨
+  roles: [cc, minister]
+  status: active
+  statusNote: 现任教育部党组书记、部长。
+  tier: 2
+  headline: 北京航空航天大学校长、教育部部长（2021–）
+  bio: >-
+    计算机科学家、中国科学院院士，长期在北京航空航天大学担任领导并任校长。
+    此后历任工信部副部长、天津市委副书记、中国科协党组书记，2021 年起任教育部部长；第二十届中央委员。
+  positions:
+    - { title: 北京航空航天大学校长, sys: other }
+    - { title: 工业和信息化部副部长, sys: gov, to: 2017-01, cite: f08-chinanews-2017-02-07-jungong }
+    - { title: 天津市委副书记, sys: party, place: 天津, from: 2017-01, cite: f08-chinanews-2017-02-07-jungong }
+    - { title: 中国科学技术协会党组书记, sys: other }
+    - { title: 教育部部长、党组书记, sys: gov, from: 2021-08, cite: f08-moe-huai-jinpeng }
+  factions:
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 現今常說的「軍工系」官員，一般包括……教育部部長懷進鵬等人
+      rank: backbone
+    - f: aerospace
+      cite: f08-chinanews-2017-02-07-jungong
+      quote: 刚从工信部副部长调任天津市委副书记的怀进鹏，曾长期在北京航空航天大学担任领导
+  ids: { wikidata: Q9142144 }
+  cites: [wd-Q9142144, f08-moe-huai-jinpeng, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong]
+
+- id: jin-zhuanglong
+  name: 金壮龙
+  pinyin: Jin Zhuanglong
+  gender: m
+  born: 1964-03
+  birthplace: 浙江舟山定海
+  education:
+    - { school: 北京航空航天大学, to: 1986 }
+    - { school: 上海航天技术研究院, degree: 工学硕士, to: 1989 }
+  roles: [cc, minister]
+  status: missing
+  statusNote: 2025 年 2 月 28 日被免去工信部党组书记，4 月 30 日被免去部长职务；此前近两个月未公开露面，官方未说明原因。
+  fall:
+    - { date: 2025-02-28, text: 被免去工业和信息化部党组书记职务，未说明原因, cite: f08-voa-2025-03-01-jin-zhuanglong }
+    - { date: 2025-04-30, text: 全国人大常委会决定免去其工业和信息化部部长职务, cite: f08-gov-2025-04-30-order-48 }
+  tier: 2
+  headline: 中国商飞董事长、工业和信息化部部长（2022–2025）
+  bio: >-
+    航空航天专家，专攻有翼导弹设计，曾在中国航天科技集团和中国商用飞机公司任职，后任中央军民融合发展委员会办公室常务副主任。
+    2022 年接替肖亚庆任工信部党组书记、部长，2025 年先后被免去党组书记和部长职务，原因未公布。
+  positions:
+    - { title: 中国商用飞机有限责任公司董事长, sys: other }
+    - { title: 中央军民融合发展委员会办公室常务副主任, sys: party, cite: f08-voa-2025-03-01-jin-zhuanglong }
+    - { title: 工业和信息化部部长, sys: gov, from: 2022-07, to: 2025-04, cite: f08-gov-2025-04-30-order-48 }
+  factions:
+    - f: aerospace
+      cite: f08-voa-2025-03-01-jin-zhuanglong
+      quote: 出身军工系统的金壮龙及多名军方上将缺席
+      rank: backbone
+  ids: { wikidata: Q8291855 }
+  cites: [wd-Q8291855, f08-voa-2025-03-01-jin-zhuanglong, f08-gov-2025-04-30-order-48]
+
+- id: zhu-zhisong
+  name: 朱芝松
+  pinyin: Zhu Zhisong
+  gender: m
+  born: 1969-02
+  birthplace: 江苏连云港
+  education:
+    - { school: 哈尔滨工业大学, to: 1989 }
+  roles: [acc, tiger]
+  status: detained
+  statusNote: 2026 年 6 月一审以受贿罪被判处死刑，缓期二年执行。
+  fall:
+    - { date: 2024-11-27, text: 接受中央纪委国家监委纪律审查和监察调查, cite: f08-cctv-2024-11-27-zhu-zhisong }
+    - { date: 2025-06-10, text: 被开除党籍和公职, cite: f08-people-2025-06-10-zhu-zhisong }
+    - { date: 2026-06-23, text: 南昌市中级人民法院一审以受贿罪判处死刑缓期二年执行，受贿 1.39 亿余元, cite: f08-xinhua-2026-06-23-zhu-zhisong }
+  tier: 2
+  headline: 上海航天局局长、上海市委常委兼浦东新区区委书记（2021–2024）
+  bio: >-
+    长期在上海航天系统工作，曾任航天科技集团第八研究院（上海航天局）院长。后转入上海地方，历任市委宣传部副部长、闵行区长和区委书记、临港新片区负责人。
+    2021 年任上海市委常委、浦东新区区委书记，第二十届中央候补委员；2024 年落马，2026 年被判死缓。
+  positions:
+    - { title: 中国航天科技集团公司第八研究院（上海航天局）院长, sys: other, place: 上海, from: 2008, cite: f08-cna-2024-11-27-zhu-zhisong }
+    - { title: 上海市委宣传部副部长, sys: party, place: 上海, cite: f08-xinhua-2026-06-23-zhu-zhisong }
+    - { title: 上海市闵行区区长、区委书记, sys: party, place: 上海, cite: f08-xinhua-2026-06-23-zhu-zhisong }
+    - { title: 上海市政府副秘书长、临港新片区管委会常务副主任, sys: gov, place: 上海, from: 2019, cite: f08-cna-2024-11-27-zhu-zhisong }
+    - { title: 上海市委常委, sys: party, place: 上海, from: 2021-01, to: 2024-11, cite: f08-cna-2024-11-27-zhu-zhisong }
+    - { title: 浦东新区区委书记, sys: party, place: 上海, from: 2021-08, to: 2024-11, cite: f08-cna-2024-11-27-zhu-zhisong }
+  factions:
+    - f: aerospace
+      cite: f08-cna-2024-11-27-zhu-zhisong
+      quote: 朱芝松是現任20屆中共中央候補委員，出身於軍工航天系統
+      rank: periphery
+    - f: aerospace
+      cite: f08-hk01-2021-jungong
+      quote: 十九大後鮮有航天、軍工系統的高官明顯上位，最近的似乎只有曾任上海航天局局長的朱芝松
+  ids: { wikidata: Q51102905 }
+  cites: [wd-Q51102905, f08-cna-2024-11-27-zhu-zhisong, f08-cctv-2024-11-27-zhu-zhisong, f08-people-2025-06-10-zhu-zhisong, f08-xinhua-2026-06-23-zhu-zhisong, f08-hk01-2021-jungong]
+
+# --- Tsinghua ---
+- id: hu-heping
+  name: 胡和平
+  pinyin: Hu Heping
+  gender: m
+  born: 1962-10-24
+  birthplace: 山东临沂
+  education:
+    - { school: 清华大学, degree: 硕士 }
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 2023 年 3 月起任中宣部分管日常工作的副部长。
+  tier: 2
+  headline: 清华大学党委书记（2008–2013）、陕西省委书记（2017–2020）、文化和旅游部部长
+  bio: >-
+    清华大学水利系出身，陈希任清华党委书记时任校组织部长、教务长，2006 年任副校长，2008 年接替陈希任党委书记。
+    2013 年调浙江任省委组织部长，后历任陕西省长、省委书记和文化和旅游部部长，2023 年起分管中宣部日常工作。
+  positions:
+    - { title: 清华大学党委书记, sys: party, from: 2008-12, to: 2013-09, cite: f08-diplomat-2015-04-27-tsinghua }
+    - { title: 浙江省委常委、组织部长, sys: party, place: 浙江, from: 2013-09, to: 2015-04, cite: f08-diplomat-2015-04-27-tsinghua }
+    - { title: 陕西省委副书记, sys: party, place: 陕西, from: 2015-04, cite: f08-diplomat-2015-04-27-tsinghua }
+    - { title: 陕西省省长, sys: gov, place: 陕西, from: 2016-04, to: 2018-01, cite: wd-Q8292447 }
+    - { title: 陕西省委书记, sys: party, place: 陕西, from: 2017-10, to: 2020-07, cite: wd-Q8292447 }
+    - { title: 文化和旅游部部长, sys: gov, from: 2020-08, to: 2023-12, cite: wd-Q8292447 }
+    - { title: 中宣部分管日常工作的副部长, sys: party, from: 2023-03, cite: f08-caixin-2023-03-06-hu-heping }
+  factions:
+    - f: qinghua
+      cite: f08-diplomat-2015-04-27-tsinghua
+      quote: Two other members of the new Tsinghua Clique are protégés of Chen Xi at Tsinghua University. Both Hu Heping and Chen Jining have had long association with Tsinghua University.
+      zh: 新清华帮的另外两名成员是陈希在清华的门生。胡和平与陈吉宁都与清华大学渊源深厚。
+      rank: core
+      rankQuote: Apparently, Hu Heping was closer to Chen Xi.
+  ids: { wikidata: Q8292447 }
+  cites: [wd-Q8292447, f08-diplomat-2015-04-27-tsinghua, f08-caixin-2023-03-06-hu-heping]
+
+- id: chen-xu
+  name: 陈旭
+  pinyin: Chen Xu
+  gender: f
+  born: 1963-07-01
+  birthplace: 河北保定
+  education:
+    - { school: 清华大学无线电系, degree: 博士, from: 1981, to: 2005 }
+  roles: [cc, minister]
+  status: active
+  statusNote: 卸任清华大学党委书记后任中央统战部副部长、国务院侨务办公室主任。
+  tier: 2
+  headline: 清华大学党委书记（2013–2022）、中央统战部副部长兼国务院侨办主任
+  bio: >-
+    1981 年入清华大学无线电系，毕业后留校，从电子系党委书记做起，2006 年任校党委副书记，后任副校长、常务副书记，2013–2022 年任清华大学党委书记。
+    2022 年调任中央统战部副部长、国务院侨办主任；第二十届中央委员。
+  positions:
+    - { title: 清华大学党委副书记, sys: party, from: 2006-02, cite: f08-zaobao-2022-02-28-chen-xu }
+    - { title: 清华大学党委常务副书记、副校长, sys: party, from: 2009-06, to: 2013-12, cite: f08-zaobao-2022-02-28-chen-xu }
+    - { title: 清华大学党委书记, sys: party, from: 2013-12, to: 2022-02, cite: f08-zaobao-2022-02-28-chen-xu }
+    - { title: 中央统战部副部长, sys: party, from: 2022-02, cite: f08-zaobao-2022-02-28-chen-xu }
+    - { title: 国务院侨务办公室主任, sys: gov, cite: f08-tsinghua-xsg-chen-xu }
+  factions:
+    - f: qinghua
+      cite: f08-chinanewscenter-2021-chen-xu
+      quote: 港媒指王文涛的继任人选传是清华大学女党委书记陈旭，是习近平亲信陈希的清华人马
+      rank: backbone
+      rankQuote: 陈旭被视为陈希的爱将
+  ids: { wikidata: Q15927466 }
+  cites: [wd-Q15927466, f08-tsinghua-xsg-chen-xu, f08-zaobao-2022-02-28-chen-xu, f08-chinanewscenter-2021-chen-xu]
+
+- id: qin-weizhong
+  name: 覃伟中
+  pinyin: Qin Weizhong
+  gender: m
+  ethnicity: 汉族
+  born: 1971-07-03
+  birthplace: 吉林省吉林市
+  origin: 广西玉林
+  education:
+    - { school: 清华大学化学工程系, degree: 工学博士 }
+  joinedParty: 2001-06
+  joinedWork: 1996-07
+  roles: [tiger]
+  status: detained
+  statusNote: 2026 年 9 月 21 日被宣布接受中央纪委国家监委纪律审查和监察调查。
+  fall:
+    - { date: 2026-09-21, text: 接受中央纪委国家监委纪律审查和监察调查, cite: f08-xinhua-2026-09-21-qin-weizhong }
+  tier: 2
+  headline: 深圳市市长（2021–2026）
+  bio: >-
+    清华大学化工系本硕博毕业，曾任中国石化九江分公司总经理、中国石油天然气集团副总经理。
+    2019 年任广东省副省长，2021 年任深圳市长；2026 年 8 月辞去市长、转任广东省人大常委会领导班子成员，不到一个月即被查。
+  positions:
+    - { title: 中国石化股份公司九江分公司总经理, sys: other, place: 江西, cite: f08-sina-2026-09-21-qin-weizhong }
+    - { title: 中国石油天然气集团公司副总经理, sys: other, cite: f08-sina-2026-09-21-qin-weizhong }
+    - { title: 广东省副省长, sys: gov, place: 广东, from: 2019-03, to: 2021-04, cite: f08-sina-2026-09-21-qin-weizhong }
+    - { title: 深圳市市长, sys: gov, place: 广东, from: 2021-04, to: 2026-08, cite: f08-sina-2026-09-21-qin-weizhong }
+    - { title: 广东省人大常委会党组成员, sys: other, place: 广东, from: 2026-08, to: 2026-09, cite: f08-sina-2026-09-21-qin-weizhong }
+  factions:
+    - f: qinghua
+      cite: f08-secretchina-2026-09-22-qin-weizhong
+      quote: 他被指是陈希的清华门生
+      rank: periphery
+  ids: { wikidata: Q97194002 }
+  cites: [wd-Q97194002, f08-xinhua-2026-09-21-qin-weizhong, f08-sina-2026-09-21-qin-weizhong, f08-secretchina-2026-09-22-qin-weizhong]
+
+# --- Shanghai ---
+- id: shen-xiaoming
+  name: 沈晓明
+  pinyin: Shen Xiaoming
+  gender: m
+  ethnicity: 汉族
+  born: 1963-05
+  birthplace: 浙江上虞
+  origin: 浙江绍兴
+  education:
+    - { school: 温州医学院儿科系, degree: 硕士, from: 1979-09, to: 1987-07 }
+    - { school: 上海第二医科大学, degree: 医学博士, from: 1988-02, to: 1991-02 }
+  joinedParty: 1984-08
+  joinedWork: 1987-07
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任湖南省委书记，2026 年 9 月仍以省委书记身份主持省委常委会会议。
+  tier: 2
+  headline: 海南省委书记（2020–2023）、湖南省委书记（2023–）
+  bio: >-
+    儿科医学博士，曾任上海第二医科大学校长、上海交大常务副校长，2008 年起任上海市副市长，2013–2016 年任上海市委常委、浦东新区区委书记。
+    后任教育部副部长，2017 年起历任海南省长、省委书记，2023 年接替张庆伟任湖南省委书记。
+  positions:
+    - { title: 上海第二医科大学校长, sys: other, place: 上海, from: 2003-03, to: 2005-07, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 上海市教委主任, sys: gov, place: 上海, from: 2006-04, to: 2008-01, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 上海市副市长, sys: gov, place: 上海, from: 2008-01, to: 2013-05, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 上海市委常委、浦东新区区委书记, sys: party, place: 上海, from: 2013-06, to: 2016-09, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 教育部副部长, sys: gov, from: 2016-09, to: 2017-03, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 海南省省长, sys: gov, place: 海南, from: 2017-04, to: 2020-11, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 海南省委书记, sys: party, place: 海南, from: 2020-11, to: 2023-03, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+    - { title: 湖南省委书记, sys: party, place: 湖南, from: 2023-03, cite: f08-hunan-2026-09-25-shen-xiaoming }
+  factions:
+    - f: xi-shanghai
+      cite: f08-orientaldaily-2016-09-16-new-shanghai
+      quote: 尤其是浦東新區，作為中國改革的排頭兵，已成為官場火箭發射地，杜家毫、徐麟、沈曉明三任區委書記如今都擔任要職
+      rank: periphery
+  ids: { wikidata: Q16076972 }
+  cites: [wd-Q16076972, f08-21jingji-2023-03-14-shen-xiaoming, f08-hunan-2026-09-25-shen-xiaoming, f08-orientaldaily-2016-09-16-new-shanghai]

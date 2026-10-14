@@ -1,0 +1,310 @@
+# F10 (round 3): members and rings of the army factions
+# army-princelings
+zhang-youxia:
+  - f: army-princelings
+    cite: f10-diplomat-2025-10-power-struggle
+    quote: 'Zhang represents the old, princeling elite of the PLA.'
+    zh: '张又侠代表着解放军中老一代的太子党精英。'
+    rank: core
+    rankQuote: 'Zhang represents the old, princeling elite of the PLA.'
+  - f: equipment-system
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
+    rank: core
+    rankQuote: '一方是张又侠为首的“西北-装备系”'
+  - f: southwest-army
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '出身原14集团军的高级将领则有中央军委副主席张又侠、东部战区政委何平等'
+    rank: core
+    rankQuote: '惟出身该军的张又侠升任军委副主席后，该军出身的将领再获青睐'
+  - f: dongbei-army
+    cite: c02-gov-2017-10-25-19th-cvs
+    quote: '2007－2012年 沈阳军区司令员'
+    rank: periphery
+liu-yuan:
+  - f: army-princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '刘源曾经担任解放军军事科学院和总后勤部的政委，是“太子党”中的顶级人物'
+    rank: core
+    rankQuote: '是“太子党”中的顶级人物'
+liu-yazhou:
+  - f: army-princelings
+    cite: f02-voa-2024-04-princelings
+    quote: '刘亚洲本身就是“红二代”，而且可说是前中国国家主席李先念的“乘龙快婿”'
+    rank: backbone
+wu-shengli:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '目前中央军委中只有两人是太子党（李继耐和吴胜利）'
+    rank: backbone
+ma-xiaotian:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '这3名军官（马晓天、张海阳和刘源）全都是太子党'
+    rank: backbone
+zhang-haiyang:
+  - f: army-princelings
+    cite: f10-youth-2016-03-12-red-generals
+    quote: '张海阳为中央军委原副主席张震之子，二人是解放军历史上首对“上将父子”'
+    rank: backbone
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '这3名军官（马晓天、张海阳和刘源）全都是太子党'
+  - f: southwest-army
+    cite: f10-youth-2016-03-12-red-generals
+    quote: '张海阳曾任27军政委、北京军区副政委、成都军区政委等职'
+    rank: periphery
+liu-xiaojiang:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '表6列出的下届中央军委席位的14名候选人中，有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）'
+    rank: backbone
+  - f: army-princelings
+    cite: f10-youth-2016-03-12-red-generals-2
+    quote: '公开资料显示，刘晓江还是胡耀邦女婿。'
+zhang-qinsheng:
+  - f: army-princelings
+    cite: f04-brookings-2010-06-29-military
+    quote: '表6列出的下届中央军委席位的14名候选人中，有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）'
+    rank: periphery
+qin-weijiang:
+  - f: army-princelings
+    cite: f10-youth-2016-03-12-red-generals-2
+    quote: '秦卫江为国防部原部长秦基伟之子'
+    rank: periphery
+liu-zhuoming:
+  - f: army-princelings
+    cite: f10-youth-2016-03-12-red-generals-2
+    quote: '公开资料显示，刘卓明为中央军委前副主席刘华清之子。'
+    rank: periphery
+you-haitao:
+  - f: army-princelings
+    cite: f10-rfi-2024-12-25-you-li
+    quote: '尤海涛现年66岁，前成都军区、广州军区司令员尤太忠之子'
+    rank: periphery
+
+# fujian-generals (the former 31st Group Army)
+miao-hua:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '尤其是苗华，是最纯正的31军班底。'
+    rank: core
+    rankQuote: '尤其是苗华，是最纯正的31军班底。'
+he-weidong:
+  - f: fujian-generals
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: '另一方是苗华、何卫东为核心的“东南-政工系”，扎根福建第31集团军。'
+    rank: core
+    rankQuote: '苗华、何卫东为核心的“东南-政工系”'
+lin-xiangyang:
+  - f: fujian-generals
+    cite: f10-diplomat-2025-10-power-struggle
+    quote: 'Other officers with a long history in the 31st Group Army were taken down as well, including General Lin Xiangyang'
+    zh: '其他在第31集团军有长期履历的将领也被拿下，包括林向阳上将'
+    rank: backbone
+wang-xiubin:
+  - f: fujian-generals
+    cite: f10-diplomat-2025-10-power-struggle
+    quote: 'Other officers with a long history in the 31st Group Army were taken down as well, including General Lin Xiangyang, the former Eastern Theater Commander, and General Wang Xiubin'
+    zh: '其他在第31集团军有长期履历的将领也被拿下，包括原东部战区司令员林向阳上将和王秀斌上将'
+    rank: backbone
+qin-shutong:
+  - f: fujian-generals
+    cite: b04-bbc-2025-10-nine-generals
+    quote: '何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军'
+    rank: backbone
+zhao-keshi:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '该军的连续3任军长赵克石、蔡英挺、王宁，现任分别担任中央军委委员兼总后勤部部长、南京军区司令员、武警部队司令员，均官拜上将'
+    rank: elder
+  - f: fujian-generals
+    cite: f10-diplomat-2014-12-30-31st-army
+    quote: 'Those include General Zhao Keshi, a member of the Central Military Commission and director of the General Logistics Department'
+    zh: '其中包括中央军委委员、总后勤部部长赵克石上将'
+cai-yingting:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '该军的连续3任军长赵克石、蔡英挺、王宁'
+    rank: backbone
+wang-ning-pap:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '王宁则曾任第31军防空旅旅长、91师师长、第31军军长等职。'
+    rank: backbone
+  - f: fujian-generals
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '出身原31集团军的现任高级将领有中央军委委员兼军委政工部主任苗华、陆军司令韩卫国、武警部队司令王宁等'
+han-weiguo:
+  - f: fujian-generals
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '出身原31集团军的现任高级将领有中央军委委员兼军委政工部主任苗华、陆军司令韩卫国、武警部队司令王宁等'
+    rank: backbone
+wu-changde:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '总政治部副主任吴昌德、海军政委苗华、南京军区政治部主任朱生岭，则是前后连续3任的第31军政治部主任。'
+    rank: periphery
+zhu-shengling:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '总政治部副主任吴昌德、海军政委苗华、南京军区政治部主任朱生岭，则是前后连续3任的第31军政治部主任。'
+    rank: periphery
+zheng-he-pla:
+  - f: fujian-generals
+    cite: f10-onc-2015-09-16-31st-army
+    quote: '在赵克石之后，曾任第31军军长的韩卫国、郑和'
+    rank: periphery
+
+# equipment-system
+li-shangfu:
+  - f: equipment-system
+    cite: f01-dw-2026-01-26-zhang-youxia
+    quote: '2023年落马的前国防部长李尚福就曾任解放军总装备部副部长，并于2017年9月接任中央军委装备发展部部长'
+    rank: core
+  - f: northwest-army
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: '一方是张又侠为首的“西北-装备系”，包括李尚福等人'
+    rank: backbone
+xu-xueqiang:
+  - f: equipment-system
+    cite: f10-jamestown-2026-07-six-generals
+    quote: 'Xu Xueqiang succeeded Li Shangfu (李尚福) as head of the CMC Equipment Development Department, who himself succeeded Zhang Youxia in the role'
+    zh: '许学强接替李尚福任军委装备发展部部长，而李尚福本人又是接替张又侠担任此职。'
+    rank: backbone
+zhang-yulin:
+  - f: equipment-system
+    cite: f10-dw-2023-12-29-nine-generals
+    quote: '张育林（中将）曾任的主要职务包括国防科技大学校长，中央军委装备发展部副部长。'
+    rank: backbone
+chang-wanquan:
+  - f: equipment-system
+    cite: b08-dw-2026-01-zhang-who
+    quote: '张又侠接替常万全出任中国人民解放军总装备部部长'
+    rank: periphery
+  - f: northwest-army
+    cite: c01-ce-2013-03-16-chang-wanquan
+    quote: '2002－2003年 兰州军区参谋长'
+    rank: periphery
+  - f: dongbei-army
+    cite: c01-ce-2013-03-16-chang-wanquan
+    quote: '2004－2007年 沈阳军区司令员'
+    rank: periphery
+rao-wenmin:
+  - f: equipment-system
+    cite: f10-dw-2023-12-29-nine-generals
+    quote: '饶文敏（军阶不详）曾任职中央军委装备发展部。'
+    rank: periphery
+ju-xinchun:
+  - f: equipment-system
+    cite: f10-dw-2023-12-29-nine-generals
+    quote: '鞠新春（中将）曾任南海舰队装备部部长'
+    rank: periphery
+wang-kangping:
+  - f: equipment-system
+    cite: f10-jamestown-2026-07-six-generals
+    quote: 'Wang Kangping, commander of the Joint Logistics Support Force, was the commander of the PLA Air Force Weapon Test Base when Li was responsible for the EDD'
+    zh: '联勤保障部队司令员王抗平在李尚福主管装备发展部时任空军武器试验基地司令员。'
+    rank: periphery
+li-fengbiao:
+  - f: equipment-system
+    cite: f10-jamestown-2026-07-six-generals
+    quote: 'Li Fengbiao once commanded the PLA Strategic Support Force after Li Shangfu held the position of deputy commander'
+    zh: '李凤彪在李尚福担任战略支援部队副司令员之后曾任该部队司令员。'
+    rank: periphery
+zhang-minghua:
+  - f: equipment-system
+    cite: f10-jamestown-2026-07-six-generals
+    quote: 'The profiles of the six general officers purged in this latest round generally reflect a continued elimination of individuals associated with the patronage network of Zhang Youxia'
+    zh: '此轮被清洗的六名将领的履历，大体反映出与张又侠庇护网络相关人员的持续清除。'
+    rank: periphery
+
+# northwest-army
+guo-boxiong:
+  - f: northwest-army
+    cite: b07-dw-2016-07-25-guo-sentence
+    quote: '《南华早报》曾在早前的文章中称，原7大军区中最大的兰州军区是郭伯雄的势力范围。'
+    rank: core
+    rankQuote: '原7大军区中最大的兰州军区是郭伯雄的势力范围'
+fang-fenghui:
+  - f: northwest-army
+    cite: b13-thepaper-2017-fang-past
+    quote: '房峰辉与郭伯雄的祖籍同为陕西咸阳，并且，房峰辉担任第21集团军军长时，郭伯雄正担任兰州军区司令员，两人是上下级关系。'
+    rank: backbone
+zhang-shengmin:
+  - f: northwest-army
+    cite: b08-jamestown-2025-11-purification
+    quote: 'Beyond Zhang, it also includes Xi Jinping himself, as well as CMC member Zhang Shengmin (张升民), and Liu Zhenli (刘振立)'
+    zh: '除张又侠外，陕西帮还包括习近平本人，以及军委委员张升民和刘振立。'
+    rank: backbone
+liu-zhenli:
+  - f: northwest-army
+    cite: b08-jamestown-2025-11-purification
+    quote: 'Beyond Zhang, it also includes Xi Jinping himself, as well as CMC member Zhang Shengmin (张升民), and Liu Zhenli (刘振立)'
+    zh: '除张又侠外，陕西帮还包括习近平本人，以及军委委员张升民和刘振立。'
+    rank: backbone
+zhang-fengzhong:
+  - f: northwest-army
+    cite: b08-jamestown-2025-11-purification
+    quote: 'A second data point is the purging of Rocket Force general Zhang Fengzhong (张凤中), also ostensibly a Shaanxi gang member'
+    zh: '第二个迹象是火箭军将领张凤中被清洗，他表面上也是陕西帮成员。'
+    rank: periphery
+liu-lei-pla:
+  - f: northwest-army
+    cite: f10-singtao-2026-03-02-three-generals
+    quote: '69歲的劉雷曾任原蘭州軍區政委及解放軍陸軍政委'
+    rank: periphery
+tian-xiusi:
+  - f: northwest-army
+    cite: f02-zaobao-2016-07-09-tian-xiusi
+    quote: '香港《南华早报》指田修思是已落马的郭伯雄与徐才厚的亲信'
+    rank: periphery
+wang-ke:
+  - f: northwest-army
+    cite: c01-people-2002-11-28-wang-ke
+    quote: '兰州军区副司令员兼新疆军区司令员，兰州军区司令员'
+    rank: periphery
+  - f: dongbei-army
+    cite: c01-people-2002-11-28-wang-ke
+    quote: '１９９２年－１９９５年任沈阳军区司令员'
+    rank: periphery
+
+# southwest-army (the former 14th Group Army)
+he-ping-pla:
+  - f: southwest-army
+    cite: f02-rfi-2018-10-25-southeast-army
+    quote: '出身原14集团军的高级将领则有中央军委副主席张又侠、东部战区政委何平等'
+    rank: backbone
+zhao-zongqi:
+  - f: southwest-army
+    cite: f10-zaobao-2026-08-26-zhao-zongqi
+    quote: '他曾在陆军第14集团军担任团长、师副参谋长、军长等职'
+    rank: backbone
+deng-zhiping:
+  - f: southwest-army
+    cite: f10-epoch-2024-09-14-deng-zhiping
+    quote: '从邓的履历可见，他曾在成都军区以及14军官居要职。'
+    rank: periphery
+
+# dongbei-army (the former Shenyang Military Region); xu-caihou is the patron and gets no ring
+fan-changlong:
+  - f: dongbei-army
+    cite: b13-voa-2018-01-25-fan-rumor
+    quote: '70岁的范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级。范在徐的根据地、原沈阳军区第十六集团军任职逾30年'
+    rank: backbone
+    rankQuote: '70岁的范长龙被视为徐才厚的嫡系'
+yu-yongbo:
+  - f: dongbei-army
+    cite: f10-kzg-2014-xu-wafangdian
+    quote: '徐才厚和于永波都是辽宁瓦房店人，徐曾任于的秘书，受其提拔。'
+    rank: elder
+xu-qiliang:
+  - f: dongbei-army
+    cite: c02-gov-2017-10-25-19th-cvs
+    quote: '1999－2004年 沈阳军区副司令员兼沈阳军区空军司令员'
+    rank: periphery
+li-qiaoming:
+  - f: dongbei-army
+    cite: f10-zaobao-2026-02-27-five-generals
+    quote: '李桥铭在2016年军改之后任北部战区副司令员兼北部战区陆军司令员'
+    rank: periphery

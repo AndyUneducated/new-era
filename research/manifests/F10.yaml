@@ -1,0 +1,284 @@
+# F10 (round 3): army factions — army-princelings, fujian-generals, equipment-system,
+# northwest-army, southwest-army, dongbei-army; generals named in the 2023–2026 purges.
+web:
+  # --- official notices: NPC deputies removed, CPPCC members removed ---
+  - id: f10-npc-2024-09-13-deng-zhiping
+    title: 第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告（2024年9月）
+    publisher: 中国人大网（新浪财经转载）
+    date: 2024-09-13
+    voice: official
+    url: https://finance.sina.com.cn/jjxw/2024-09-14/doc-incpatau8556079.shtml
+    excerpt: true
+    keep: [ 邓志平 ]
+  - id: f10-npc-2024-12-25-notice-8
+    title: 全国人民代表大会常务委员会公告〔十四届〕第八号
+    publisher: 新华社
+    date: 2024-12-25
+    voice: official
+    url: https://www.news.cn/politics/20241225/76aeaf9abbb24b5bb157d195248ac579/c.html
+    excerpt: true
+    keep: [ 尤海涛 ]
+  - id: f10-npc-2025-06-27-notice-11
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十一号
+    publisher: 新华社
+    date: 2025-06-27
+    voice: official
+    url: http://www.news.cn/20250627/fe15ca91e1ea4fa9a163f4e9e7cb8291/c.html
+    excerpt: true
+    keep: [ 李汉军 ]
+  - id: f10-xinhua-2025-09-12-npc-notice-12
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十二号
+    publisher: 新华社
+    date: 2025-09-12
+    voice: official
+    url: http://www.xinhuanet.com/politics/20250912/423e6f5d55474eeb9bf5b41410b3aecd/c.html
+    excerpt: true
+    keep: [ 张林、高大光 ]
+  - id: f10-xinhua-2025-12-27-npc-notice-14
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十四号
+    publisher: 新华社
+    date: 2025-12-27
+    voice: official
+    url: https://www.news.cn/politics/20251227/c7054b09a1d44338bb0c5f5f275ee033/c.html
+    excerpt: true
+    keep: [ 王鹏 ]
+  - id: f10-npc-2026-02-26-notice-16
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十六号
+    publisher: 人民网（新华社电）
+    date: 2026-02-26
+    voice: official
+    url: http://politics.people.com.cn/n1/2026/0226/c1001-40670865.html
+    excerpt: true
+    keep: [ 李桥铭 ]
+  - id: f10-xinhua-2025-03-26-cppcc-tang-yong
+    title: 王沪宁主持召开全国政协主席会议
+    publisher: 新华社
+    date: 2025-03-26
+    voice: official
+    url: https://www.news.cn/20250326/d402ed072d014663b715ec7abbf051df/c.html
+    excerpt: true
+    keep: [ 唐勇 ]
+  - id: f10-xinhua-2026-03-02-cppcc
+    title: 全国政协十四届常委会第十五次会议闭幕 王沪宁主持并讲话
+    publisher: 新华社
+    date: 2026-03-02
+    voice: official
+    url: https://www.news.cn/politics/20260302/afff765c05554cc2aaa190873c82815a/c.html
+    excerpt: true
+    keep: [ 韩卫国 ]
+  - id: f10-xinhua-2026-08-26-cppcc
+    title: 全国政协十四届常委会第十八次会议闭幕 王沪宁主持并讲话
+    publisher: 新华社
+    date: 2026-08-26
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/20260826/4d545164b9db49b4bb107b9a8f199c86/c.html
+    excerpt: true
+    keep: [ 赵宗岐 ]
+  # --- media on the purged generals ---
+  - id: f10-dw-2023-12-29-nine-generals
+    title: 实锤了？中国多名将领被罢免全国人大代表
+    publisher: 德国之声中文网
+    date: 2023-12-29
+    voice: zh
+    url: https://www.dw.com/zh/%E5%AE%9E%E9%94%A4%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%90%8D%E5%B0%86%E9%A2%86%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8/a-67858302
+    excerpt: true
+    keep: [ 公开资料显示, 寇健文 ]
+  - id: f10-caixin-2024-09-13-deng-zhiping
+    title: 人事观察｜涉嫌严重违纪违法 陆军原副司令员邓志平中将被罢免全国人大代表
+    publisher: 财新网
+    author: 林韵诗
+    date: 2024-09-13
+    voice: zh
+    url: https://china.caixin.com/2024-09-13/102236509.html
+    excerpt: true
+    keep: [ 邓志平 ]
+  - id: f10-epoch-2024-09-14-deng-zhiping
+    title: 岳山：实战派陆军副司令邓志平因何落马？
+    publisher: 大纪元
+    author: 岳山
+    date: 2024-09-14
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/24/9/14/n14330314.htm
+    excerpt: true
+    keep: [ 14军, 越战派, 实战派 ]
+  - id: f10-rfi-2024-12-25-you-li
+    title: 陆军原副司令尤海涛、南部战区海军司令李鹏程被罢免全国人大代表
+    publisher: 法广
+    author: 弗林
+    date: 2024-12-25
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20241225-%E9%99%86%E5%86%9B%E5%8E%9F%E5%89%AF%E5%8F%B8%E4%BB%A4%E5%B0%A4%E6%B5%B7%E6%B6%9B-%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E6%9D%8E%E9%B9%8F%E7%A8%8B%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8
+    excerpt: true
+    keep: [ 尤海涛, 李鹏程 ]
+  - id: f10-rfa-2025-03-28-tang-yong
+    title: 中国军方高层持续震荡 军纪委中将唐勇被撤政协委员
+    publisher: 自由亚洲电台
+    date: 2025-03-28
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhengzhi/2025/03/28/china-pla-corruption-powerstruggle-xijinping-tangyong-heweidong-/
+    excerpt: true
+    keep: [ 唐勇 ]
+  - id: f10-rfi-2025-06-27-li-hanjun
+    title: 解放军海军参谋长李汉军被罢免全国人大代表职务
+    publisher: 法广
+    author: 弗林
+    date: 2025-06-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250627-%E8%A7%A3%E6%94%BE%E5%86%9B%E6%B5%B7%E5%86%9B%E5%8F%82%E8%B0%8B%E9%95%BF%E6%9D%8E%E6%B1%89%E5%86%9B%E8%A2%AB%E7%BD%A2%E5%85%8D%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%81%8C%E5%8A%A1
+    excerpt: true
+    keep: [ 李汉军 ]
+  - id: f10-sina-2025-10-16-four-generals
+    title: 涉嫌严重违纪违法，4名将领被罢免人大代表原因披露
+    publisher: 观察者网（新浪新闻转载）
+    date: 2025-10-16
+    voice: zh
+    url: https://news.sina.com.cn/c/2025-10-16/doc-inftzxpv7395174.shtml
+    excerpt: true
+    keep: [ 张林, 汪志斌, 王春宁 ]
+  - id: f10-zaobao-2026-02-27-five-generals
+    title: 李桥铭等五上将被罢免人代 张又侠刘振立仍在代表名单
+    publisher: 联合早报
+    date: 2026-02-27
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260227-8646268
+    excerpt: true
+    keep: [ 李桥铭, 寇建文, 寇健文 ]
+  - id: f10-singtao-2026-03-02-three-generals
+    title: 全國政協常委會閉幕 韓衛國等三名上將被撤銷委員資格
+    publisher: 星岛日报
+    date: 2026-03-02
+    voice: zh
+    url: https://www.singtaousa.com/2026/03/02/news/china/generals-national-committee-membership-revoked/
+    excerpt: true
+    keep: [ 韓衛國, 劉雷, 高津 ]
+  - id: f10-jamestown-2026-07-six-generals
+    title: Xi Purges Six More PLA Generals
+    publisher: Jamestown Foundation, China Brief
+    author: Brandon Tran, Gerui Zhang
+    date: 2026-07-07
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/xi-purges-six-more-pla-generals/
+    excerpt: true
+    keep: [ patronage network, Xu Xueqiang, Wang Kangping, Li Fengbiao, Zhang Minghua, Guo Puxiao ]
+  - id: f10-zaobao-2026-08-26-zhao-zongqi
+    title: 解放军上将赵宗岐被撤销政协委员资格 前中纪委副书记傅奎获增补
+    publisher: 联合早报
+    date: 2026-08-26
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260826-9580145
+    excerpt: true
+    keep: [ 赵宗岐 ]
+  # --- 31st Group Army ---
+  - id: f10-diplomat-2014-12-30-31st-army
+    title: The Rise of the 31st Army in Chinese Politics
+    publisher: The Diplomat
+    author: Bo Zhiyue
+    date: 2014-12-30
+    voice: scholar
+    lang: en
+    url: https://thediplomat.com/2014/12/the-rise-of-the-31st-army-in-chinese-politics/
+    excerpt: true
+    keep: [ 31st Army, Liu Huaqing ]
+  - id: f10-onc-2015-09-16-31st-army
+    title: 政情扫描：三十一军 “一”军突起
+    publisher: 东网
+    date: 2015-09-16
+    voice: zh
+    url: https://hk.on.cc/cn/bkn/cnt/commentary/20150916/bkncn-20150916000317635-0916_05411_001_cn.html
+    excerpt: true
+    keep: [ 第31军, 31集团军 ]
+  - id: f10-ntdtv-2015-01-11-31st-army
+    title: 31集团军异军突起 习近平军中布局四大路数
+    publisher: 新唐人电视台
+    date: 2015-01-11
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2015/01/11/a1168242.html
+    excerpt: true
+    keep: [ 蔡英挺, 王宁 ]
+  - id: f10-diplomat-2025-10-power-struggle
+    title: Glimpses of a Power Struggle Within the Chinese Military High Command
+    publisher: The Diplomat
+    date: 2025-10
+    voice: west
+    lang: en
+    url: https://thediplomat.com/2025/10/glimpses-of-a-power-struggle-within-the-chinese-military-high-command/
+    excerpt: true
+    keep: [ 31st Group Army, Zhang Youxia ]
+  # --- princelings ---
+  - id: f10-youth-2016-03-12-red-generals
+    title: 媒体:盘点解放军代表团中的"红二代"将领们
+    publisher: 中国青年网（转载新京报）
+    date: 2016-03-12
+    voice: official
+    url: http://news.youth.cn/gn/201603/t20160312_7737850.htm
+    excerpt: true
+    keep: [ 红色后代, 张海阳 ]
+  - id: f10-youth-2016-03-12-red-generals-2
+    title: 媒体:盘点解放军代表团中的"红二代"将领们（第二页）
+    publisher: 中国青年网（转载新京报）
+    date: 2016-03-12
+    voice: official
+    url: http://news.youth.cn/gn/201603/t20160312_7737850_1.htm
+    excerpt: true
+    keep: [ 刘晓江, 秦卫江, 刘卓明 ]
+  # --- Shenyang MR ---
+  - id: f10-kzg-2014-xu-wafangdian
+    title: 大陆军中八将 同时落马
+    publisher: 欧洲看中国
+    author: 李一鸣
+    date: 2014-09
+    voice: zh
+    rumor: true
+    url: https://www.kanzhongguo.eu/node/13509
+    excerpt: true
+    keep: [ 瓦房店, 徐才厚的属下, 扶上联勤部长 ]
+  # --- Wikipedia (basic career facts only) ---
+  - { id: f10-wiki-zhou-yaning, title: 周亚宁（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/周亚宁, excerpt: true, keep: [ 周亚宁, 年 ] }
+  - { id: f10-wiki-zhang-yulin, title: 张育林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张育林_(解放军), excerpt: true, keep: [ 张育林, 年 ] }
+  - { id: f10-wiki-rao-wenmin, title: 饶文敏（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/饶文敏, excerpt: true, keep: [ 饶文敏, 年 ] }
+  - { id: f10-wiki-ju-xinchun, title: 鞠新春（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/鞠新春, excerpt: true, keep: [ 鞠新春, 年 ] }
+  - { id: f10-wiki-li-chuanguang, title: 李传广（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李传广, excerpt: true, keep: [ 李传广, 年 ] }
+  - { id: f10-wiki-lu-hong, title: 吕宏（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/吕宏, excerpt: true, keep: [ 吕宏, 年 ] }
+  - { id: f10-wiki-sun-jinming, title: 孙金明（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/孙金明, excerpt: true, keep: [ 孙金明, 年 ] }
+  - { id: f10-wiki-zhang-fengzhong, title: 张凤中（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张凤中, excerpt: true, keep: [ 张凤中, 年 ] }
+  - { id: f10-wiki-xu-xueqiang, title: 许学强（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/许学强_(空军), excerpt: true, keep: [ 许学强, 年 ] }
+  - { id: f10-wiki-wang-kangping, title: 王抗平（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王抗平, excerpt: true, keep: [ 王抗平, 年 ] }
+  - { id: f10-wiki-li-fengbiao, title: 李凤彪（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李凤彪, excerpt: true, keep: [ 李凤彪, 年 ] }
+  - { id: f10-wiki-zhang-minghua, title: 张明华（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张明华, excerpt: true, keep: [ 张明华, 年 ] }
+  - { id: f10-wiki-ju-qiansheng, title: 巨乾生（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/巨乾生, excerpt: true, keep: [ 巨乾生, 年 ] }
+  - { id: f10-wiki-gao-jin, title: 高津（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/高津, excerpt: true, keep: [ 高津, 年 ] }
+  - { id: f10-wiki-li-qiaoming, title: 李桥铭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李桥铭, excerpt: true, keep: [ 李桥铭, 年 ] }
+  - { id: f10-wiki-han-weiguo, title: 韩卫国（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/韩卫国, excerpt: true, keep: [ 韩卫国, 年 ] }
+  - { id: f10-wiki-liu-lei, title: 刘雷（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘雷, excerpt: true, keep: [ 刘雷, 年 ] }
+  - { id: f10-wiki-zhao-zongqi, title: 赵宗岐（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/赵宗岐, excerpt: true, keep: [ 赵宗岐, 年 ] }
+  - { id: f10-wiki-wang-peng, title: 王鹏（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王鹏_(1964年), excerpt: true, keep: [ 王鹏, 年 ] }
+  - { id: f10-wiki-ding-laifu, title: 丁来富（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/丁来富, excerpt: true, keep: [ 丁来富, 年 ] }
+  - { id: f10-wiki-wang-zhibin, title: 汪志斌（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/汪志斌, excerpt: true, keep: [ 汪志斌, 年 ] }
+  - { id: f10-wiki-you-haitao, title: 尤海涛（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/尤海涛, excerpt: true, keep: [ 尤海涛, 年 ] }
+  - { id: f10-wiki-deng-zhiping, title: 邓志平（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/邓志平, excerpt: true, keep: [ 邓志平, 年 ] }
+  - { id: f10-wiki-yin-hongxing, title: 尹红星（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/尹红星, excerpt: true, keep: [ 尹红星, 年 ] }
+  - { id: f10-wiki-shen-jinlong, title: 沈金龙（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/沈金龙, excerpt: true, keep: [ 沈金龙, 年 ] }
+  - { id: f10-wiki-qin-shengxiang, title: 秦生祥（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/秦生祥, excerpt: true, keep: [ 秦生祥, 年 ] }
+  - { id: f10-wiki-yu-zhongfu, title: 于忠福（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/于忠福, excerpt: true, keep: [ 于忠福, 年 ] }
+  - { id: f10-wiki-guo-puxiao, title: 郭普校（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郭普校, excerpt: true, keep: [ 郭普校, 年 ] }
+  - { id: f10-wiki-li-pengcheng, title: 李鹏程（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李鹏程, excerpt: true, keep: [ 李鹏程, 年 ] }
+  - { id: f10-wiki-li-hanjun, title: 李汉军（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李汉军, excerpt: true, keep: [ 李汉军, 年 ] }
+  - { id: f10-wiki-wang-renhua, title: 王仁华（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王仁华, excerpt: true, keep: [ 王仁华, 年 ] }
+  - { id: f10-wiki-zhang-hongbing, title: 张红兵（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张红兵, excerpt: true, keep: [ 张红兵, 年 ] }
+  - { id: f10-wiki-gao-daguang, title: 高大光（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/高大光, excerpt: true, keep: [ 高大光, 年 ] }
+  - { id: f10-wiki-zhang-lin, title: 张林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张林_(中将), excerpt: true, keep: [ 张林, 年 ] }
+  - { id: f10-wiki-tang-yong, title: 唐勇（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/唐勇_(中将), excerpt: true, keep: [ 唐勇, 年 ] }
+  - { id: f10-wiki-wang-donghai, title: 王东海（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王东海_(1964年), excerpt: true, keep: [ 王东海, 年 ] }
+  - { id: f10-wiki-wang-ning, title: 王宁（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王宁_(武警上将), excerpt: true, keep: [ 王宁, 年 ] }
+  - { id: f10-wiki-cai-yingting, title: 蔡英挺（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/蔡英挺, excerpt: true, keep: [ 蔡英挺, 年 ] }
+  - { id: f10-wiki-zhu-shengling, title: 朱生岭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/朱生岭, excerpt: true, keep: [ 朱生岭, 年 ] }
+  - { id: f10-wiki-wu-changde, title: 吴昌德（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/吴昌德, excerpt: true, keep: [ 吴昌德, 年 ] }
+  - { id: f10-wiki-zheng-he, title: 郑和（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郑和_(解放军), excerpt: true, keep: [ 郑和, 年 ] }
+  - { id: f10-wiki-zhang-haiyang, title: 张海阳（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/张海阳, excerpt: true, keep: [ 张海阳, 年 ] }
+  - { id: f10-wiki-liu-xiaojiang, title: 刘晓江（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘晓江, excerpt: true, keep: [ 刘晓江, 年 ] }
+  - { id: f10-wiki-qin-weijiang, title: 秦卫江（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/秦卫江, excerpt: true, keep: [ 秦卫江, 年 ] }
+  - { id: f10-wiki-he-ping, title: 何平（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/何平_(上将), excerpt: true, keep: [ 何平, 年 ] }
+  - { id: f10-wiki-liu-zhuoming, title: 刘卓明（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘卓明, excerpt: true, keep: [ 刘卓明, 年 ] }

@@ -1,0 +1,44 @@
+# F10 (round 3): new dossier cards for the army factions and the 2023–2026 purges
+# equipment-system / rocket force / strategic support
+- { id: ju-xinchun, name: 鞠新春, batch: F10, tier: 2 }
+- { id: sun-jinming, name: 孙金明, batch: F10, tier: 2 }
+- { id: zhang-fengzhong, name: 张凤中, batch: F10, tier: 2 }
+- { id: xu-xueqiang, name: 许学强, batch: F10, tier: 2 }
+- { id: wang-kangping, name: 王抗平, batch: F10, tier: 2 }
+- { id: li-fengbiao, name: 李凤彪, batch: F10, tier: 2 }
+- { id: zhang-minghua, name: 张明华, batch: F10, tier: 2 }
+- { id: ju-qiansheng, name: 巨乾生, batch: F10, tier: 2 }
+- { id: gao-jin, name: 高津, batch: F10, tier: 2 }
+- { id: yin-hongxing, name: 尹红星, batch: F10, tier: 2 }
+- { id: guo-puxiao, name: 郭普校, batch: F10, tier: 2 }
+# fujian-generals (31st Group Army)
+- { id: han-weiguo, name: 韩卫国, batch: F10, tier: 2 }
+- { id: wang-ning-pap, name: 王宁, batch: F10, tier: 2 }
+- { id: cai-yingting, name: 蔡英挺, batch: F10, tier: 2 }
+- { id: zhu-shengling, name: 朱生岭, batch: F10, tier: 2 }
+- { id: wu-changde, name: 吴昌德, batch: F10, tier: 2 }
+- { id: zheng-he-pla, name: 郑和, batch: F10, tier: 2 }
+- { id: ding-laifu, name: 丁来富, batch: F10, tier: 2 }
+- { id: wang-zhibin, name: 汪志斌, batch: F10, tier: 2 }
+- { id: li-hanjun, name: 李汉军, batch: F10, tier: 2 }
+- { id: tang-yong-pla, name: 唐勇, batch: F10, tier: 2 }
+# southwest-army (14th Group Army)
+- { id: zhao-zongqi, name: 赵宗岐, batch: F10, tier: 2 }
+- { id: he-ping-pla, name: 何平, batch: F10, tier: 2 }
+- { id: deng-zhiping, name: 邓志平, batch: F10, tier: 2 }
+# northwest / dongbei
+- { id: liu-lei-pla, name: 刘雷, batch: F10, tier: 2 }
+- { id: li-qiaoming, name: 李桥铭, batch: F10, tier: 2 }
+- { id: gao-daguang, name: 高大光, batch: F10, tier: 2 }
+- { id: yu-zhongfu, name: 于忠福, batch: F10, tier: 2 }
+# army-princelings
+- { id: you-haitao, name: 尤海涛, batch: F10, tier: 2 }
+- { id: qin-weijiang, name: 秦卫江, batch: F10, tier: 2 }
+- { id: liu-zhuoming, name: 刘卓明, batch: F10, tier: 2 }
+# other generals removed from the NPC 2024–2026
+- { id: li-pengcheng, name: 李鹏程, batch: F10, tier: 2 }
+- { id: wang-peng-pla, name: 王鹏, batch: F10, tier: 2 }
+- { id: wang-renhua, name: 王仁华, batch: F10, tier: 2 }
+- { id: zhang-hongbing, name: 张红兵, batch: F10, tier: 2 }
+- { id: zhang-lin-pla, name: 张林, batch: F10, tier: 2 }
+- { id: wang-donghai, name: 王东海, batch: F10, tier: 2 }

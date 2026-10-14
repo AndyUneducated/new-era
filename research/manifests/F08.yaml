@@ -1,0 +1,289 @@
+# F08 (round 3): Xi Jinping's factions, part two — xi-shanghai, qinghua, aerospace, mishu.
+web:
+  # --- aerospace / defence industry ---
+  - id: f08-people-2016-12-07-aerospace
+    title: 盘点航天系统“空降”的地方领导
+    publisher: 人民网
+    date: 2016-12-07
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/1207/c1001-28930982.html
+    start: '人民网北京12月7日电'
+    end: '十八届中央委员，十一届全国人大代表，省十一届人大代表'
+  - id: f08-chinanews-2017-02-07-jungong
+    title: 军工央企频出高官
+    publisher: 中国新闻网（转《中国经济周刊》）
+    date: 2017-02-07
+    voice: official
+    url: https://www.chinanews.com.cn/m/gn/2017/02-07/8142470.shtml
+    start: '“中国航天”，北京西三环'
+    end: '王永庆对《中国经济周刊》记者表示。'
+  - id: f08-hk01-2021-jungong
+    title: 觀察站｜「潛力」還是「乏力」 二十大前再看軍工系
+    publisher: 香港01
+    author: 呼延朔
+    date: 2021-10-29
+    voice: zh
+    url: https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/693748/%E8%A7%80%E5%AF%9F%E7%AB%99-%E6%BD%9B%E5%8A%9B-%E9%82%84%E6%98%AF-%E4%B9%8F%E5%8A%9B-%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%89%8D%E5%86%8D%E7%9C%8B%E8%BB%8D%E5%B7%A5%E7%B3%BB
+    excerpt: true
+    keep: [ '本文所指的「軍工系」', '如「軍工系」的代表人物之一張慶偉', '這是一次頗有意味的「交接」', '從趨勢上看', '後繼乏力', '現今常說的「軍工系」官員', '最近的似乎只有曾任上海航天局局長的朱芝松' ]
+  - id: f08-cna-2024-11-27-zhu-zhisong
+    title: 軍工航天系打貪 上海市委常委朱芝松落馬
+    publisher: 中央社
+    date: 2024-11-27
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202411270081.aspx
+    excerpt: true
+    keep: [ '出身於軍工航天系統', '2008年出任上海航天局局長', '2019年，朱芝松任上海市政府副秘書長', '2021年1月，朱芝松升任上海市委常委' ]
+  - id: f08-cctv-2024-11-27-zhu-zhisong
+    title: 上海市委原常委朱芝松接受中央纪委国家监委纪律审查和监察调查
+    publisher: 央视网
+    date: 2024-11-27
+    voice: official
+    url: https://news.cctv.com/2024/11/27/ARTIBnPoQ17WWKS4D45CzHXC241127.shtml
+    start: '央视网消息：中央纪委国家监委网站11月27日通报'
+    end: '目前正接受中央纪委国家监委纪律审查和监察调查。'
+  - id: f08-people-2025-06-10-zhu-zhisong
+    title: 上海市委原常委朱芝松被开除党籍和公职
+    publisher: 人民网
+    date: 2025-06-10
+    voice: official
+    url: http://politics.people.com.cn/n1/2025/0610/c1001-40497788.html
+    start: '新华社北京6月10日电'
+    end: '待召开中央委员会全体会议时予以追认。'
+  - id: f08-xinhua-2026-06-23-zhu-zhisong
+    title: 朱芝松受贿案一审宣判
+    publisher: 新华网
+    date: 2026-06-23
+    voice: official
+    url: https://www.news.cn/20260623/12626a6b947f4ecd998987eefc885613/c.html
+    start: '新华社南昌6月23日电'
+    end: '并当庭表示认罪悔罪。'
+  - id: f08-voa-2025-03-01-jin-zhuanglong
+    title: 中国工信部党组书记金壮龙被撤换
+    publisher: 美国之音
+    date: 2025-03-01
+    voice: zh
+    url: https://www.voachinese.com/a/china-replaces-industry-ministry-s-communist-party-chief-jin-zhuanglong-20250301/7993436.html
+    excerpt: true
+    keep: [ '引发外界臆测或与中国军工系反腐风暴有关', '据报道，现年60岁的金壮龙', '出身军工系统的金壮龙', '金壮龙是一位航空航天专家', '中央军民融合发展委员会办公室常务副主任', '2022年，金壮龙接替肖亚庆' ]
+  - id: f08-gov-2025-04-30-order-48
+    title: 中华人民共和国主席令（第四十八号）
+    publisher: 中国政府网
+    date: 2025-04-30
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202504/content_7021967.htm
+    start: '根据中华人民共和国第十四届全国人民代表大会常务委员会第十五次会议'
+    end: '任命李乐成为工业和信息化部部长。'
+  - id: f08-xinhua-2025-10-28-npc-notice
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十三号
+    publisher: 新华网
+    date: 2025-10-28
+    voice: doc
+    url: https://www.news.cn/20251028/4123a10e4226490c851b91f10b20dde4/c.html
+    start: '广西壮族自治区第十四届人大常委会'
+    end: '截至目前，第十四届全国人民代表大会实有代表2904人。'
+  - id: f08-caixin-2025-10-29-xu-dazhe
+    title: 湖南省委原书记许达哲被罢免全国人大代表
+    publisher: 财新网
+    date: 2025-10-29
+    voice: zh
+    url: https://china.caixin.com/m/2025-10-29/102376741.html
+    excerpt: true
+    keep: [ '两届中央委员', '据新华社10月28日消息', '此前，69岁的许达哲已从公众视野消失一年多' ]
+  - id: f08-hnrd-xu-dazhe
+    title: 许达哲简历
+    publisher: 湖南人大网
+    date: 2021-01-29
+    voice: official
+    url: http://www.hnrd.gov.cn/content/2021/01/29/8963022.html
+    start: '许达哲，男，汉族，1956年9月出生'
+    end: '第十八届、十九届中央委员，十七届中央纪委委员。'
+  - id: f08-moe-huai-jinpeng
+    title: 怀进鹏（教育部领导介绍）
+    publisher: 教育部
+    voice: official
+    url: http://www.moe.gov.cn/jyb_zzjg/moe_187/huaijinpeng/
+    start: '怀进鹏，男，汉族，1962年12月生'
+    end: '教育部党组书记、部长。'
+  # --- Shanghai 2007 ---
+  - id: f08-chinanews-2007-05-28-shanghai
+    title: 习近平当选上海市委书记 韩正殷一璀当选副书记
+    publisher: 中国新闻网
+    date: 2007-05-28
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/05-28/945185.shtml
+    start: '中新网5月28日电'
+    end: '是中共十五届中央候补委员，十六届中央委员。'
+  - id: f08-orientaldaily-2016-09-16-new-shanghai
+    title: 新上海幫再崛起 從龍之士有前途
+    publisher: 東方日報
+    date: 2016-09-16
+    voice: zh
+    url: https://orientaldaily.on.cc/cnt/china_world/20160916/00182_001.html
+    excerpt: true
+    keep: [ '新上海幫也是一景', '應勇仕途起步於浙江', '自十八大習近平上位之後', '攻城略地', '三任區委書記' ]
+  - id: f08-botanwang-2014-10-new-shanghai
+    title: 白非：新“上海帮”抢滩
+    publisher: 博谈网
+    author: 白非
+    date: 2014-10-31
+    voice: zh
+    rumor: true
+    url: https://botanwang.com/articles/201410/%E6%96%B0%E2%80%9C%E4%B8%8A%E6%B5%B7%E5%B8%AE%E2%80%9D%E6%8A%A2%E6%BB%A9.html
+    excerpt: true
+    keep: [ '在十八大习近平上位以后', '一个新的“上海帮”呼之欲出', '试看2007年5月中共上海市委九届一次全会', '在这个新“上海帮”中', '另一种就是“外来派”', '杨振武老家河北新乐' ]
+  - id: f08-voa-2022-11-08-ding
+    title: 习近平为什么看中了丁薛祥？
+    publisher: 美国之音
+    date: 2022-11-08
+    voice: zh
+    url: https://www.voachinese.com/a/why-xi-jinping-picked-ding-xuexiang-20221108/6825176.html
+    excerpt: true
+    keep: [ '2007年3月，习近平到上海担任市委书记', '其中一个原因可能是习近平曾经做过秘书工作', '大内高手', '服务过三位中共中央政治局常委' ]
+  - id: f08-21jingji-2023-03-14-shen-xiaoming
+    title: 沈晓明调任湖南省委书记 曾任海南省委书记、教育部副部长
+    publisher: 21世纪经济报道
+    date: 2023-03-14
+    voice: zh
+    url: https://www.21jingji.com/article/20230314/herald/7c1c38838d056395756e7e59992367fd.html
+    excerpt: true
+    keep: [ '据新华社3月14日消息', '资料显示，沈晓明1963年出生', '沈晓明，男，1963年5月生', '2006.08--2008.01', '2008.01--2013.05', '2013.05--2013.06', '2013.06--2015.03', '2015.03--2016.09', '2016.09--2017.03', '2017.03--2017.04', '2017.04--2017.05', '2017.05--2020.11', '2020.11--2020.12', '2020.12--2021.01', '2021.01—2023.03', '2023.03—至今' ]
+  - id: f08-hunan-2026-09-25-shen-xiaoming
+    title: 沈晓明主持召开省委常委会会议
+    publisher: 湖南省人民政府门户网站
+    date: 2026-09-25
+    voice: official
+    url: http://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202609/t20260925_34072544.html
+    start: '9月24日，省委书记沈晓明主持召开省委常委会会议'
+    end: '审议《湖南省“十五五”碳达峰行动方案》。'
+  - id: f08-cctv-2026-07-15-shen-haixiong
+    title: 总台领导与新任职干部进行任职谈话
+    publisher: 央视网
+    date: 2026-07-15
+    voice: official
+    url: https://www.cctv.com/2026/07/15/ARTI7Z5rVZGcANpoW86443aj260715.shtml
+    start: '7月15日，中宣部副部长、中央广播电视总台党组书记、台长慎海雄'
+    end: '并对新任职干部提出工作要求。'
+  # --- Tsinghua ---
+  - id: f08-diplomat-2015-04-27-tsinghua
+    title: The Rise of a New Tsinghua Clique in Chinese Politics
+    publisher: The Diplomat
+    author: Bo Zhiyue
+    date: 2015-04-27
+    voice: scholar
+    lang: en
+    url: https://thediplomat.com/2015/04/the-rise-of-a-new-tsinghua-clique-in-chinese-politics/
+    excerpt: true
+    keep: [ 'a new Tsinghua Clique has risen', 'A key member of the new Tsinghua Clique is Chen Xi', 'After Xi became a member of the Politburo Standing Committee', 'After Xi became president of the PRC', 'Two other members of the new Tsinghua Clique are protégés of Chen Xi', 'Apparently, Hu Heping was closer to Chen Xi', 'In February 2006, both Hu Heping and Chen Jining', 'The three men now have been placed' ]
+  - id: f08-caixin-2023-03-06-hu-heping
+    title: 人事观察｜分工调整 中宣部副部长胡和平分管日常工作
+    publisher: 财新网
+    date: 2023-03-06
+    voice: zh
+    url: https://china.caixin.com/m/2023-03-06/102004893.html
+    excerpt: true
+    keep: [ '“老清华”胡和平', '中宣部新任“二把手”到位' ]
+  - id: f08-zaobao-2022-02-28-chen-xu
+    title: 清华大学原书记陈旭任中共中央统战部副部长
+    publisher: 联合早报
+    date: 2022-02-28
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20220228-1247260
+    excerpt: true
+    keep: [ '据澎湃新闻报道', '公开资料显示，现年59岁的陈旭', '2006年2月，陈旭任清华大学党委副书记', '本月25日' ]
+  - id: f08-tsinghua-xsg-chen-xu
+    title: 党代会史话：陈旭出席十九大并当选为候补中央委员
+    publisher: 清华大学校史馆
+    voice: official
+    url: https://xsg.tsinghua.edu.cn/info/1006/3142.htm
+    start: '2017年10月18日至24日'
+    end: '还曾是北京市第九、十、十一、十二次党代会代表。'
+  - id: f08-xinhua-2026-09-21-qin-weizhong
+    title: 广东省人大常委会党组成员覃伟中接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网（中央纪委国家监委网站）
+    date: 2026-09-21
+    voice: official
+    url: https://www.news.cn/legal/20260921/231b0502d55140889ddb0663ee174bda/c.html
+    start: '广东省人大常委会党组成员覃伟中涉嫌严重违纪违法'
+    end: '目前正接受中央纪委国家监委纪律审查和监察调查。'
+  - id: f08-sina-2026-09-21-qin-weizhong
+    title: 打虎！涉嫌严重违纪违法，深圳市原市长覃伟中被查
+    publisher: 华夏时报（新浪财经转载）
+    date: 2026-09-21
+    voice: zh
+    url: https://finance.sina.com.cn/wm/2026-09-21/doc-inisqriz7763710.shtml
+    excerpt: true
+    keep: [ '中央纪委国家监委网站9月21日消息', '覃伟中，男，汉族，1971年7月生', '覃伟中曾任中国石化股份公司九江分公司总经理', '2026年8月24日', '据广东卫视', '上述消息显示' ]
+  # --- secretaries ---
+  - id: f08-cna-2023-03-20-cai-qi
+    title: 陪同習近平訪俄 蔡奇接任中共中央辦公廳主任
+    publisher: 中央社
+    date: 2023-03-20
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202303200290.aspx
+    excerpt: true
+    keep: [ '證實蔡奇已取代丁薛祥接掌中辦主任', '中南海大管家', '前中國全國人大委員長栗戰書都擔任過中辦主任' ]
+  - id: f08-caixin-2017-08-24-shu-guozeng
+    title: 补缺徐令义 中央财办副主任舒国增任驻中办纪检组长
+    publisher: 财新网
+    date: 2017-08-24
+    voice: zh
+    url: https://china.caixin.com/m/2017-08-24/101134826.html
+    excerpt: true
+    keep: [ '均曾任浙江省委副秘书长', '曾为习近平老部下的舒国增' ]
+  - id: f08-ce-2014-12-03-shu-guozeng
+    title: 浙江省委副秘书长舒国增调任中央财办副主任（简历）
+    publisher: 中国经济网
+    date: 2014-12-03
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201412/03/t20141203_4038188.shtml
+    start: '据中国经济网党政领导人物库资料显示'
+    end: '2014.11 中央财办副主任。'
+  # --- rumor sources (rumor: true) ---
+  - id: f08-epoch-2022-10-28-tsinghua
+    title: 陈吉宁李干杰职位变动 “清华帮”引关注
+    publisher: 大纪元
+    author: 林燕
+    date: 2022-10-29
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/22/10/28/n13854997.htm
+    excerpt: true
+    keep: [ '张杨认为，陈吉宁和李干杰这次双双获得提拔', '陈希预计将卸任组织部部长', '胡和平和陈吉宁在2017年分别成为陕西省委书记和北京市市长', '沈栋介绍说', '正是在这种情况下，陈吉宁和胡和平上台了', '陈希并不喜欢他', '清华帮是一个没有实质内容的通用概念' ]
+  - id: f08-chinanewscenter-2021-chen-xu
+    title: 李克强雄起，坚决不同意习家军人马清华大学党委书记陈旭（女）任黑龙江省长
+    publisher: 中国新闻中心（转港媒）
+    date: 2021-01-05
+    voice: zh
+    rumor: true
+    url: https://his.chinanewscenter.com/archives/5018
+    excerpt: true
+    keep: [ '是习近平亲信陈希的清华人马', '现年58岁的陈旭', '陈旭被视为陈希的爱将', '“清华系”在中共政坛迅速崛起', '文化旅游部长胡和平曾任清华校党委书记' ]
+  - id: f08-secretchina-2026-09-22-qin-weizhong
+    title: 辞职不到一个月 陈希门生、原深圳市长覃伟中落马
+    publisher: 看中国
+    author: 李德言
+    date: 2026-09-22
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2026/09/22/1105100.html
+    excerpt: true
+    keep: [ '他被指是陈希的清华门生', '因此是中共中组部前部长陈希的清华门生', '覃伟中是马兴瑞的副手' ]
+  - id: f08-xinshishe-2014-12-zhijiang
+    title: 北京观察：中国政坛的“之江新军”
+    publisher: 新时社
+    date: 2014-12
+    voice: zh
+    rumor: true
+    url: https://www.xinshishe.net/html/news_2014/12/389747263.html
+    excerpt: true
+    keep: [ '舒国增就是省委书记习近平的左膀右臂', '李强、舒国增是陪同频率最多的人', '他们堪称是一支“之江新军”' ]
+  - id: f08-secretchina-2021-09-22-zhong-shaojun
+    title: 钟绍军（看中国）
+    publisher: 看中国
+    date: 2021-09-22
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2021/09/22/984375.html
+    excerpt: true
+    keep: [ '与中办主任丁薛祥并称中南海“一文一武”两大秘', '借调去做习的贴身秘书', '并一直任习的贴身大秘' ]

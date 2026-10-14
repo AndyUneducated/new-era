@@ -1,0 +1,641 @@
+# C10: rumours, inside stories and hearsay about tier-1 people (round 3, decisions #27)
+web:
+  # ---- Xi Jinping ----
+  - id: c10-bbc-2012-09-12-xi-whereabouts
+    title: 中国官方对习近平下落维持缄默
+    publisher: BBC 中文
+    date: 2012-09-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120912_china_xi
+    excerpt: true
+    keep: [目前最广为接受的说法, 胡锦涛可能以此为契机]
+  - id: c10-bbc-2012-09-15-xi-reappears
+    title: 习近平两周以来首次公开露面
+    publisher: BBC 中文
+    date: 2012-09-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120915_china_politics_xi
+    excerpt: true
+    keep: [博讯, 路透社此前曾引述]
+  - id: c10-cna-2024-07-21-xi-stroke-rumour
+    title: 習近平健康傳言一度熱傳 央視連播畫面欲證明無恙
+    publisher: 中央社
+    date: 2024-07-21
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202407210208.aspx
+    excerpt: true
+    keep: [對話截圖, 不握扶手, 仍有部分海外人士提出質疑]
+  - id: c10-rfa-2024-08-16-xi-health-factcheck
+    title: 傳播觀察｜「生重病」、「用替身」？關於習近平健康的謠言二重奏
+    publisher: 自由亞洲電台粵語部
+    date: 2024-08-16
+    voice: zh
+    url: https://www.rfa.org/cantonese/news/factcheck/xi-jinping-health-china-08162024155148.html
+    excerpt: true
+    keep: [主要分為兩類, 百度禁搜關鍵詞, 路透社事實查核]
+  - id: c10-voa-2024-08-12-coup-rumours
+    title: 聿文视界：再现政变谣言，如何看待北京当下谜局
+    publisher: 美国之音
+    author: 邓聿文
+    date: 2024-08-12
+    voice: zh
+    url: https://www.voachinese.com/a/reappearance-of-coup-rumors-how-to-view-the-current-mystery-in-beijing-20240812/7738899.html
+    excerpt: true
+    keep: [自中共三中全会起, 外交的调子和策略没有发生任何变化]
+  - id: c10-dw-2025-xi-power-not-weakened
+    title: 客座评论：习近平权力被削弱？我没看见
+    publisher: 德国之声
+    author: 邓聿文
+    date: 2025-06
+    voice: zh
+    url: https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%9D%83%E5%8A%9B%E8%A2%AB%E5%89%8A%E5%BC%B1%E6%88%91%E6%B2%A1%E7%9C%8B%E8%A7%81/a-73185176
+    excerpt: true
+    keep: [好几个朋友问我, 等待惊变]
+  - id: c10-dw-2025-xi-power-assess
+    title: 客座评论：如何评估习近平的权力
+    publisher: 德国之声
+    date: 2025-08
+    voice: zh
+    url: https://www.dw.com/zh/%E5%AE%A2%E5%BA%A7%E8%AF%84%E8%AE%BA%E5%A6%82%E4%BD%95%E8%AF%84%E4%BC%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9D%83%E5%8A%9B/a-73524140
+    excerpt: true
+    keep: [年初以来，有关习近平权力不稳的谣言就没有断过, 致命伤]
+  - id: c10-cna-2023-09-05-beidaihe-elders
+    title: 日經：北戴河會議習近平遭中共元老斥責
+    publisher: 中央社
+    date: 2023-09-05
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202309050413.aspx
+    excerpt: true
+    keep: [以前所未有的方式斥責, 核心人物是前國家副主席曾慶紅, 罪責在我嗎, 不能再更亂了]
+  # ---- Hu Jintao, 20th congress ----
+  - id: c10-dw-2022-10-hu-led-out
+    title: 胡锦涛被带离二十大会场：做给谁看？
+    publisher: 德国之声
+    date: 2022-10-24
+    voice: zh
+    url: https://www.dw.com/zh/%E8%83%A1%E9%94%A6%E6%B6%9B%E8%A2%AB%E5%B8%A6%E7%A6%BB%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%BC%9A%E5%9C%BA%E5%81%9A%E7%BB%99%E8%B0%81%E7%9C%8B/a-63531663
+    excerpt: true
+    keep: [孔绍逊, 执意, 前任被现任带出了大厅]
+  - id: c10-cna-2022-10-24-hu-documents
+    title: 胡錦濤中共20大「被離場」謎團 外媒拍到疑因翻文件想發表意見
+    publisher: 中央社
+    date: 2022-10-24
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202210240114.aspx
+    excerpt: true
+    keep: [西班牙 ABC報, 方舟子, 坐立不安, 僅只揣測]
+  # ---- Li Keqiang ----
+  - id: c10-bbc-2010-12-08-wikileaks-xi-li
+    title: 维基解密电文描述习近平和李克强
+    publisher: BBC 中文
+    date: 2010-12-08
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/12/101208_wikileaks_china_leaders
+    excerpt: true
+    keep: [人造的, 腐败问题最为关注, 习近平]
+  - id: c10-voa-2016-05-11-authoritative-person
+    title: 权威人士谈经济暴露习李分歧难调和
+    publisher: 美国之音
+    date: 2016-05-11
+    voice: zh
+    url: https://www.voachinese.com/a/people-daily-infighting-in-the-party-20160511/3326806.html
+    excerpt: true
+    keep: [矛盾进一步公开化, 甚至没鼓过一次掌, 几乎是对中国国务院的公开批评]
+  - id: c10-voa-2016-07-27-xi-li-lines
+    title: 张欣：习李的经济路线分歧与是非
+    publisher: 美国之音
+    author: 张欣
+    date: 2016-07-27
+    voice: zh
+    url: https://www.voachinese.com/a/blog-xin-zhang-keqiang-li-and-jinping-xi-s-economic-paths-20160727/3436773.html
+    excerpt: true
+    keep: [流行说法是]
+  - id: c10-rfa-2023-10-27-li-death
+    title: 李克强心脏病猝死上海滩 游泳突发心脏病抢救无效
+    publisher: 自由亚洲电台
+    date: 2023-10-27
+    voice: zh
+    url: https://web.archive.org/web/20231027064441/https:/www.rfa.org/mandarin/yataibaodao/zhengzhi/gt-10262023232636.html
+    excerpt: true
+    keep: [东郊宾馆, 17点54分]
+  # ---- Jiang Zemin ----
+  - id: c10-bbc-2011-07-07-jiang-atv
+    title: 香港亚视就误发江泽民去世消息道歉
+    publisher: BBC 中文
+    date: 2011-07-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2011/07/110707_china_jiang_hktvapology
+    excerpt: true
+    keep: [纯属谣言, 301医院, 网络审查机器]
+  # ---- Wang Qishan ----
+  - id: c10-voa-2017-hna-sues-guo
+    title: 中国海航纽约告爆料富商郭文贵诽谤
+    publisher: 美国之音
+    date: 2017-07
+    voice: zh
+    url: https://www.voachinese.com/a/HNA-sue-chinese-businessman-guo-wengui/4009457.html
+    excerpt: true
+    keep: [外甥姚庆, 尽管他拿出的证据仍有待外界独立核实]
+  - id: c10-voa-2017-07-27-guo-wang-hna
+    title: 中国官媒指郭文贵造谣 郭再爆料反击
+    publisher: 美国之音
+    date: 2017-07-27
+    voice: zh
+    url: https://www.voachinese.com/a/news-china-state-media-react-tp-scandalous-allegations-as-tycoon-in-exile-makes-more-revalations-20170727/3961626.html
+    excerpt: true
+    keep: [姚依林的孙子姚庆, 白手套, 不反中共最高领导人习近平]
+  - id: c10-aboluowang-2017-07-28-four-yaoqing
+    title: 郭文贵炮打王岐山 4个姚庆真假如何？
+    publisher: 阿波罗新闻网
+    date: 2017-07-28
+    voice: zh
+    rumor: true
+    url: https://www.aboluowang.com/2017/0728/968872.html
+    excerpt: true
+    keep: [一共公布过四个, 等同于他]
+  - id: c10-nytcn-2017-07-25-hna-guanjun
+    title: 海航神秘大股東把所持股份捐給公司旗下基金會
+    publisher: 纽约时报中文网
+    date: 2017-07-25
+    voice: zh
+    url: https://cn.nytimes.com/business/20170725/chinas-hna-discloses-shift-of-ownership-stake-to-foundation/zh-hant/
+    excerpt: true
+    keep: [郭文貴在社群媒體上的指控, 貫君（音）]
+  - id: c10-rfi-2020-10-02-dong-hong
+    title: 王岐山“大管家”中央巡视员董宏出事
+    publisher: 法国国际广播电台
+    date: 2020-10-02
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20201002-%E7%8E%8B%E5%B2%90%E5%B1%B1-%E5%A4%A7%E7%AE%A1%E5%AE%B6-%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E5%91%98%E8%91%A3%E5%AE%8F%E5%87%BA%E4%BA%8B
+    excerpt: true
+    keep: [第二位与王岐山有关的人, 薄熙来之父薄一波的秘书]
+  - id: c10-voa-2020-10-02-dong-hong
+    title: 王岐山前高级副手被调查 中共最高层内斗恐白热化
+    publisher: 美国之音
+    date: 2020-10-02
+    voice: zh
+    url: https://www.voachinese.com/a/aide-chinese-vice-preisident-wang-qishan-under-investigation-20201002/5606351.html
+    excerpt: true
+    keep: [被一些观察家称作王岐山的大管家, 习王已经决裂]
+  # ---- Cai Qi ----
+  - id: c10-voa-2022-10-23-cai-qi-loyalty
+    title: 北京市委书记蔡奇凭借对习忠诚而非才干与政绩意外入常
+    publisher: 美国之音
+    date: 2022-10-23
+    voice: zh
+    url: https://www.voachinese.com/a/beijing-party-chief-cai-xi-loyalist-vaults-to-top-rank-20221023/6801807.html
+    excerpt: true
+    keep: [凭借的并不是他的政绩, 首位非中央委员的北京市委书记, 直逼当年的毛泽东]
+  - id: c10-rfa-2023-06-16-cai-qi-trust
+    title: 夜话中南海：习近平为何如此信任蔡奇？
+    publisher: 自由亚洲电台
+    date: 2023-06-16
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-06162023092552.html
+    excerpt: true
+    keep: [大器晚成]
+  - id: c10-nytcn-2026-07-06-cai-qi
+    title: 习近平最倚重的副手蔡奇：总书记的“超级幕僚长”
+    publisher: 纽约时报中文网
+    date: 2026-07-06
+    voice: zh
+    url: https://cn.nytimes.com/china/20260706/china-xi-leadership-cai-qi/
+    excerpt: true
+    keep: [卸下亲民姿态, 充当习近平的耳目, 便利店]
+  # ---- Ling Jihua ----
+  - id: c10-bbc-2012-09-03-ling-ferrari
+    title: 英媒：儿子车祸丑闻令计划晋升受阻
+    publisher: BBC 中文
+    date: 2012-09-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2012/09/120903_ling_jihua_sandal_politics
+    excerpt: true
+    keep: [胡锦涛也无能为力, 姓贾]
+  - id: c10-secretchina-2014-12-24-ling-gu
+    title: 重见天日 遭禁报的令谷车祸细节曝光
+    publisher: 看中国
+    date: 2014-12-24
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2014/12/24/563579.html
+    excerpt: true
+    keep: [某种政治约定, 三角政治同盟]
+  - id: c10-epoch-2015-07-22-ling-ferrari
+    title: 令计划之祸（1）围绕法拉利车祸的争夺战
+    publisher: 大纪元
+    date: 2015-07-22
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/15/7/22/n4485871.htm
+    excerpt: true
+    keep: [愿意支持令计划进入常委, 三次动用公安部门]
+  - id: c10-rfa-2016-02-05-ling-wancheng
+    title: 令完成向美透露中南海机密 官员海外存款更令北京紧张
+    publisher: 自由亚洲电台
+    date: 2016-02-05
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql3-02052016105551.html
+    excerpt: true
+    keep: [情报界的一笔意外之财, 30年来最具情报价值, 吩咐他一旦自己被捕]
+  - id: c10-voa-2016-02-12-ling-wancheng-denies
+    title: 令计划之弟强烈否认向美国传送国家机密
+    publisher: 美国之音
+    date: 2016-02-12
+    voice: zh
+    url: https://www.voachinese.com/a/ling-wancheng-20160212/3188158.html
+    excerpt: true
+    keep: [高尔夫球的秘密, 没有根据的诽谤]
+  # ---- Sun Zhengcai and the "usurping" charge ----
+  - id: c10-hk01-2017-10-19-liu-shiyu
+    title: 【拆局】劉士余首提落馬大老虎篡黨奪權 中共不再諱言政治罪行？
+    publisher: 香港01
+    date: 2017-10-19
+    voice: zh
+    url: https://www.hk01.com/%E4%B8%AD%E5%9C%8B/127028/%E6%8B%86%E5%B1%80-%E5%8A%89%E5%A3%AB%E4%BD%99%E9%A6%96%E6%8F%90%E8%90%BD%E9%A6%AC%E5%A4%A7%E8%80%81%E8%99%8E%E7%AF%A1%E9%BB%A8%E5%A5%AA%E6%AC%8A-%E4%B8%AD%E5%85%B1%E4%B8%8D%E5%86%8D%E8%AB%B1%E8%A8%80%E6%94%BF%E6%B2%BB%E7%BD%AA%E8%A1%8C
+    excerpt: true
+    keep: [政治意味相對較輕, 泄露組織秘密, 野心家]
+  # ---- Zhang Youxia ----
+  - id: c10-dw-2026-01-26-zhang-nuclear
+    title: 媒体：张又侠被指控向美方泄漏中国核武机密
+    publisher: 德国之声
+    date: 2026-01-26
+    voice: zh
+    url: https://www.dw.com/zh/%E5%AA%92%E4%BD%93%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%A2%AB%E6%8C%87%E6%8E%A7%E5%90%91%E7%BE%8E%E6%96%B9%E6%B3%84%E6%BC%8F%E4%B8%AD%E5%9B%BD%E6%A0%B8%E6%AD%A6%E6%9C%BA%E5%AF%86/a-75655405
+    excerpt: true
+    keep: [顾军, 拉帮结派, 斩首式]
+  - id: c10-zaobao-2026-01-29-zhang-denial
+    title: 中国国防部否认张又侠因向美国泄露核武信息落马
+    publisher: 联合早报
+    date: 2026-01-29
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260129-8216874
+    excerpt: true
+    keep: [间接否认, 心理战, 鲁比奥]
+  - id: c10-secretchina-2025-06-19-zhang-acting
+    title: 张又侠以“代理军委主席”身份讲话传闻
+    publisher: 看中国
+    date: 2025-06-19
+    voice: zh
+    url: https://search.secretchina.com/news/gb/2025/06/19/1084012.html
+    excerpt: true
+    rumor: true
+    keep: [代理军委主席]
+  - id: c10-epoch-2025-05-29-zhang-army
+    title: 张又侠独掌军权传闻
+    publisher: 大纪元
+    date: 2025-05-29
+    voice: zh
+    url: https://www.epochtimes.com/gb/25/5/29/n14519984.htm
+    excerpt: true
+    rumor: true
+    keep: [张又侠]
+  # ---- Qin Gang / Li Shangfu ----
+  - id: c10-voa-2023-12-07-qin-dead
+    title: 美媒称秦刚已死亡 推特热议
+    publisher: 美国之音中文网
+    date: 2023-12-07
+    voice: zh
+    url: https://www.voachinese.com/a/china-on-twitter-qin-dead-20231207/7388749.html
+    excerpt: true
+    keep: [Politico, 李尚福]
+  - id: c10-rfa-2023-12-07-qin-dead
+    title: 美媒称秦刚已死亡
+    publisher: 自由亚洲电台
+    date: 2023-12-07
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/6-12072023145511.html
+    excerpt: true
+    keep: [佐证秦刚的死讯, Politico]
+  - id: c10-rfi-2023-12-08-qin-yaita
+    title: Politico称秦刚或死 日本名记说根据经验判断可能是假新闻
+    publisher: 法国国际广播电台
+    date: 2023-12-08
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20231208-politico%E7%A7%B0%E7%A7%A6%E5%88%9A%E6%88%96%E6%AD%BB-%E6%97%A5%E6%9C%AC%E5%90%8D%E8%AE%B0%E8%AF%B4%E6%A0%B9%E6%8D%AE%E7%BB%8F%E9%AA%8C%E5%88%A4%E6%96%AD%E5%8F%AF%E8%83%BD%E6%98%AF%E5%81%87%E6%96%B0%E9%97%BB
+    excerpt: true
+    keep: [矢板明夫, 假新闻]
+  # ---- He Weidong ----
+  - id: c10-storm-2025-03-he-weidong
+    title: 何衛東傳被帶走
+    publisher: 風傳媒
+    date: 2025-03
+    voice: zh
+    url: https://www.storm.mg/article/5346940
+    excerpt: true
+    keep: [趙蘭健, 華盛頓時報]
+  - id: c10-kzg-2025-03-28-he-weidong
+    title: 何衛東傳出事
+    publisher: 看中国
+    date: 2025-03-28
+    voice: zh
+    url: https://kzg.io/news/b5/2025/03/28/1079811.html
+    excerpt: true
+    rumor: true
+    keep: [章天亮]
+  # ---- Xu Caihou / Guo Boxiong / Fang Fenghui / Wei Fenghe ----
+  - id: c10-rfa-2014-11-20-xu-cash
+    title: 徐才厚家中搜出一吨多现金
+    publisher: 自由亚洲电台
+    date: 2014-11-20
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/vt-11202014110503.html
+    excerpt: true
+    keep: [凤凰周刊, 一吨]
+  - id: c10-bbc-2014-06-30-xu-profile
+    title: 新闻人物：徐才厚
+    publisher: BBC 中文
+    date: 2014-06-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world/2014/06/140630_china_xucaihou_profile
+    excerpt: true
+    keep: [软禁, 谷俊山]
+  - id: c10-ntdtv-2014-04-17-guo
+    title: 博讯：郭伯雄清明节后被带走
+    publisher: 新唐人电视台
+    date: 2014-04-17
+    voice: zh
+    url: https://www.ntdtv.com/gb/2014/04/17/a1103467.html
+    excerpt: true
+    rumor: true
+    keep: [清明, 情妇]
+  - id: c10-rfa-2017-09-04-fang
+    title: 路透社：消息人士披露房峰辉因涉嫌贪腐已被拘押
+    publisher: 自由亚洲电台
+    date: 2017-09-04
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/2-09042017110451.html
+    excerpt: true
+    keep: [经济问题]
+  - id: c10-cna-2017-09-01-fang-zhang
+    title: 解放軍高層房峰輝張陽 傳違紀受查
+    publisher: 中央社
+    date: 2017-09-01
+    voice: zh
+    url: https://www.cna.com.tw/news/firstnews/201709010041.aspx
+    excerpt: true
+    keep: [老鄉兼舊部, 首次有現職中央軍委委員被調查]
+  - id: c10-rti-2023-09-01-wei
+    title: 魏鳳和去哪兒？ 中國前防長下落引關注
+    publisher: 中央广播电台
+    date: 2023-09-01
+    voice: zh
+    url: https://archive.news.rti.org.tw/news/view/id/2178504
+    excerpt: true
+    keep: [打擊每一個腐敗官員, 一直未露面]
+  - id: c10-cna-2023-08-01-rocket-wei
+    title: 共軍反腐整肅火箭軍 魏鳳和等歷任司令受矚目
+    publisher: 中央社
+    date: 2023-08-01
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202308010248.aspx
+    excerpt: true
+    keep: [一定程度上受到了外界的揣測, 被認為是在]
+  # ---- Bo Xilai / Sun Lijun / Zhou Yongkang ----
+  - id: c10-rfa-2017-06-27-bo-cancer
+    title: 薄熙来传患肝癌
+    publisher: 自由亚洲电台
+    date: 2017-06-27
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql2-06272017085112.html
+    excerpt: true
+    keep: [肝癌, 保外就医]
+  - id: c10-ntdtv-2017-08-14-bo
+    title: 薄熙来病情传闻
+    publisher: 新唐人电视台
+    date: 2017-08-14
+    voice: zh
+    url: https://www.ntdtv.com/gb/2017/08/14/a1337838.html
+    excerpt: true
+    rumor: true
+    keep: [多维]
+  - id: c10-epoch-2022-01-14-sun-armory
+    title: 袁紅冰：孫力軍小軍火庫
+    publisher: 大纪元
+    date: 2022-01-14
+    voice: zh
+    url: https://www.epochtimes.com/b5/22/1/14/n13505189.htm
+    excerpt: true
+    rumor: true
+    keep: [軍火庫]
+  - id: c10-secretchina-2021-10-21-sun-coup
+    title: 孙力军被拿下的真正原因
+    publisher: 看中国
+    date: 2021-10-21
+    voice: zh
+    url: https://www.secretchina.com/news/gb/2021/10/21/987173.html
+    excerpt: true
+    rumor: true
+    keep: [政变, 暗杀习近平]
+  # ---- Wen Jiabao ----
+  - id: c10-cna-2021-04-18-wen-mother
+    title: 溫家寶悼母文遭封殺
+    publisher: 中央社
+    date: 2021-04-18
+    voice: zh
+    url: https://www.cna.com.tw/news/firstnews/202104180170.aspx
+    excerpt: true
+    keep: [高瑜]
+  - id: c10-rfa-2010-08-16-yujie-wen
+    title: 余杰《中国影帝温家宝》
+    publisher: 自由亚洲电台
+    date: 2010-08-16
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/wenwen-08162010095043.html
+    excerpt: true
+    keep: [鲍彤]
+  - id: c10-voa-2010-08-05-best-actor
+    title: 余杰新书《中国影帝温家宝》
+    publisher: 美国之音中文网
+    date: 2010-08-05
+    voice: zh
+    url: https://www.voachinese.com/a/article-20100805-best-actor-wenjiabo-100033669/516366.html
+    excerpt: true
+    keep: [影帝]
+  # ---- Zeng Qinghong / Liu Yunshan / Zhang Dejiang / Zhang Gaoli / Zhao Leji / Yu Zhengsheng ----
+  - id: c10-epoch-2014-05-02-zeng
+    title: 曾庆红被立案调查传闻
+    publisher: 大纪元
+    date: 2014-05-02
+    voice: zh
+    url: https://www.epochtimes.com/gb/14/5/2/n4145258.htm
+    excerpt: true
+    rumor: true
+    keep: [立案]
+  - id: c10-epoch-2017-11-26-liu-lefei
+    title: 传刘乐飞被调查 刘云山或步周永康后尘
+    publisher: 大纪元
+    date: 2017-11-26
+    voice: zh
+    url: https://www.epochtimes.com/gb/17/11/26/n9895554.htm
+    excerpt: true
+    rumor: true
+    keep: [有传刘云山的儿子刘乐飞, 剥洋葱]
+  - id: c10-secretchina-2015-07-04-three-psc
+    title: 大限将至！这三个常委或不能“善终”
+    publisher: 看中国
+    date: 2015-07-04
+    voice: zh
+    url: https://www.secretchina.com/news/gb/2015/07/04/580449.html
+    excerpt: true
+    rumor: true
+    keep: [二张一刘, 数百亿财富, 车峰案]
+  - id: c10-epoch-2019-10-18-zhao-qinling
+    title: 涉秦岭违建别墅 传赵乐际被习近平警告
+    publisher: 大纪元
+    date: 2019-10-18
+    voice: zh
+    url: https://www.epochtimes.com/gb/19/10/18/n11596178.htm
+    excerpt: true
+    rumor: true
+    keep: [秦官难当, 习赵体制]
+  - id: c10-voa-2007-10-27-yu-shanghai
+    title: 中国任命俞正声担任上海市委书记
+    publisher: 美国之音中文网
+    date: 2007-10-27
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2007-10-27-voa36-63222842/970651.html
+    excerpt: true
+    keep: [受到重创]
+  # ---- Huang Ju / Zhu Rongji ----
+  - id: c10-voa-2006-02-22-huang-cancer
+    title: 传黄菊身患胰腺癌将辞去职位
+    publisher: 美国之音中文网
+    date: 2006-02-22
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-n2006-02-22-voa13-58206492/1069432.html
+    excerpt: true
+    keep: [胰腺癌并住进医院, 失去黄菊这名亲信]
+  - id: c10-chinatimes-2006-06-06-huang-makeup
+    title: 黃菊濃妝露面 澄清病危說
+    publisher: 中国时报
+    author: 於慧堅
+    date: 2006-06-06
+    voice: zh
+    url: https://web.archive.org/web/20060614025645/http:/news.chinatimes.com/Chinatimes/newslist/newslist-content/0,3546,110505+112006060600085,00.html
+    excerpt: true
+    keep: [整體感覺比較憔悴, 海外媒體先前盛傳]
+  - id: c10-epoch-2026-08-12-zhu-death
+    title: 李燕铭：朱镕基北戴河会期去世 有何内幕？
+    publisher: 大纪元
+    author: 李燕铭
+    date: 2026-08-12
+    voice: zh
+    url: https://www.epochtimes.com/gb/26/8/12/n14828681.htm
+    excerpt: true
+    rumor: true
+    keep: [秘不发丧, 反习元老之一]
+  # ---- Hu Jintao exit / Li Zhanshu / Wang Huning / Hu Chunhua ----
+  - id: c10-voa-2022-10-hu-folder
+    title: 最新视频显示胡锦涛“被请离”二十大闭幕式现场或另有隐情
+    publisher: 美国之音中文网
+    date: 2022-10-24
+    voice: zh
+    url: https://www.voachinese.com/a/hu-jintao-s-exit-highlights-ruthless-china-leadership-dissident-ai-weiwei-202522/6804859.html
+    excerpt: true
+    keep: [不要翻开, 艾未未在东京]
+  - id: c10-rfa-2022-11-10-li-lips
+    title: 日媒解读栗战书唇语 对胡锦涛说“别看啦，都定了”
+    publisher: 自由亚洲电台
+    date: 2022-11-10
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hx2-11102022081518.html
+    excerpt: true
+    keep: [别看啦, 峯村健司认为, 龚与剑说, 符合外界一般性推论]
+  - id: c10-ntdtv-2022-10-13-hu-chunhua
+    title: 日经中泽克二：胡春华总理人选妥协传闻
+    publisher: 新唐人电视台
+    date: 2022-10-13
+    voice: zh
+    url: https://www.ntdtv.com/gb/2022/10/13/a103550525.html
+    excerpt: true
+    rumor: true
+    keep: [中泽克二]
+  - id: c10-ntdtv-2024-10-23-li-retire
+    title: 蔡慎坤：“伴君如伴虎”栗战书曾主动向习提退休
+    publisher: 新唐人电视台
+    date: 2024-10-23
+    voice: zh
+    url: https://www.ntdtv.com/gb/2024/10/23/a103923713.html
+    excerpt: true
+    rumor: true
+    keep: [主动向习提出, 内部摸底排名, 张效廉]
+  - id: c10-nytcn-2024-10-28-wang-huning-taiwan
+    title: 中共意识形态“国师”王沪宁的新任务：台湾
+    publisher: 纽约时报中文网
+    date: 2024-10-28
+    voice: zh
+    url: https://cn.nytimes.com/china/20241028/china-xi-jinping-adviser-taiwan/
+    excerpt: true
+    keep: [两名台湾安全官员透露, 总体方略]
+  - id: c10-secretchina-2024-05-25-wang-huning
+    title: 王沪宁到底是更受宠了还是要成为周永康第二了
+    publisher: 看中国
+    date: 2024-05-25
+    voice: zh
+    url: https://m.secretchina.com/news/gb/2024/05/25/1062251.html
+    excerpt: true
+    rumor: true
+    keep: [第二宠臣, 第二个周永康]
+  # ---- Wang Yang / 2025 succession rumours ----
+  - id: c10-rfi-2021-08-23-wang-yang
+    title: 习近平接班人真假虚实：汪洋先受“烤”验
+    publisher: 法国国际广播电台
+    date: 2021-08-23
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210823-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A5%E7%8F%AD%E4%BA%BA%E7%9C%9F%E5%81%87%E8%99%9A%E5%AE%9E-%E6%B1%AA%E6%B4%8B%E5%85%88%E5%8F%97-%E7%83%A4-%E9%AA%8C
+    excerpt: true
+    keep: [汪洋被盛传可能接班, 混淆美国视听, 陈破空]
+  - id: c10-epoch-2025-06-10-wang-yang
+    title: 【纪元焦点】汪洋取代习？传言背后的内幕
+    publisher: 大纪元
+    date: 2025-06-10
+    voice: zh
+    url: https://www.epochtimes.com/gb/25/6/10/n14528586.htm
+    excerpt: true
+    rumor: true
+    keep: [代理习近平的总书记职务, 政治花瓶]
+  - id: c10-secretchina-2025-09-02-wang-yang
+    title: 爆三大員登門勸汪洋出山 後習時代「明暗兩條線」
+    publisher: 看中国
+    date: 2025-09-02
+    voice: zh
+    url: https://www.secretchina.com/news/b5/2025/09/02/1087543.html
+    excerpt: true
+    rumor: true
+    keep: [明暗兩條線, 跳船]
+  - id: c10-cnc-2025-four-psc-out
+    title: 李强、蔡奇、王沪宁、李希下；张又侠、汪洋、胡春华、陈吉宁上
+    publisher: 中国新闻中心（自媒体）
+    date: 2025-10
+    voice: zh
+    url: https://22.chinanewscenter.com/archives/51095
+    excerpt: true
+    rumor: true
+    keep: [团灭, 胡温2.0]
+  # ---- Lai Xiaomin ----
+  - id: c10-zaobao-2021-01-05-lai
+    title: 下午察：中国首贪赖小民的“超市”和情妇
+    publisher: 联合早报
+    date: 2021-01-05
+    voice: zh
+    url: https://www.zaobao.com.sg/xiawucha/story20210105-1114031
+    excerpt: true
+    keep: [三个100, 有所夸张, 扫黄打非]
+  - id: c10-voa-2021-01-11-lai
+    title: 赖小民死刑 中共肃贪打虎动真格的？
+    publisher: 美国之音中文网
+    date: 2021-01-11
+    voice: zh
+    url: https://www.voachinese.com/a/corrupt-financier-Lai-Xiaomin-death-sentence-sheds-light-on-China-rule-law-20210111/5732722.html
+    excerpt: true
+    keep: [女明星, 不亚于古代帝王]
+  # ---- Li Keqiang (WikiLeaks) ----
+  - id: c10-cnbc-2010-12-06-li-gdp
+    title: WikiLeaks Reveals Powerful Chinese Government Official Admitted China's GDP Figures Are Unreliable
+    publisher: CNBC
+    date: 2010-12-06
+    voice: west
+    lang: en
+    url: https://www.cnbc.com/2010/12/06/wikileaks-reveals-powerful-chinese-government-official-admitted-chinas-gdp-figures-are-unreliable.html
+    excerpt: true
+    keep: [man-made, for reference only]

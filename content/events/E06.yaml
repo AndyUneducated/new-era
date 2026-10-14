@@ -1,0 +1,912 @@
+# E06 events: widely circulated rumours and insider reports on top-level politics, 2000 to today.
+# Sources in research/manifests/E06.yaml (rumour sources marked rumor: true).
+
+# ---------- 2002–2011 ----------
+- id: e06-2002-hu-defers-to-jiang
+  date: 2002-11-20
+  title: 传胡锦涛承诺遇大事向江泽民“请示”
+  lane: power
+  summary: 美国《纽约时报》2002年11月引述消息人士报道、大纪元转载称，胡锦涛在十六大后一次秘密会议上表示，碰到重要事情还是会向卸任总书记江泽民请示、听听他的意见；一名官员说江派在常委中占多数，胡不得不适度顺从。江泽民此后仍任中央军委主席，直到2004年9月十六届四中全会才辞去。
+  people: [hu-jintao, jiang-zemin]
+  factions: [jiang-shanghai, tuanpai]
+  voices:
+    - voice: zh
+      text: 纽约时报说﹐值得注意的是，胡锦涛并未承诺完全听命于江泽民，他只是尊重卸任总书记，请其表示意见。
+      cite: e06-epoch-2002-11-22-hu-defers
+      quote: true
+    - voice: zh
+      text: 这位官员指出：“江泽民的人在政治局常委中占据多数，胡锦涛将不得不表现出对江泽民适度的顺从。”
+      cite: e06-epoch-2002-11-22-hu-defers
+      quote: true
+    - voice: zh
+      text: 江泽民于2002年卸任中共总书记，2003年卸任中国国家主席，但此后他保留了中央军委主席一职。直到2004年9月中共十六届四中全会，他才辞去中央军委主席。
+      cite: e06-bbc-2015-09-03-parade-jiang
+      quote: true
+  cites: [e06-epoch-2002-11-22-hu-defers, e06-bbc-2015-09-03-parade-jiang]
+
+- id: e06-2007-straw-poll
+  date: 2007-06-25
+  title: 十七大前的政治局人选“民主推荐”
+  lane: power
+  summary: 新华社在2007年10月十七大中央领导机构产生后发长篇通讯披露，同年6月中央召开党内有关领导干部会议，与会者从近200名63岁以下正部级和正大军区级干部名单中投票推荐新一届政治局人选。2013年人民网刊文称，这次一人一票的推荐，是习近平、李克强两位60岁以下的人进入常委会的背景。
+  people: [xi-jinping, li-keqiang, hu-jintao]
+  factions: [princelings, tuanpai]
+  voices:
+    - voice: official
+      text: 打开推荐票，是一个按姓氏笔画排列的近200人的名单，他们都是符合中央确定的可新提名为十七届中央政治局组成人员预备人选条件的63周岁以下正部长级干部和军队正大军区职干部，供与会同志推荐时参考。
+      cite: e06-sina-2007-10-24-straw-poll
+      quote: true
+    - voice: history
+      text: 民主推荐会当场一人一票投票，按票数多少，排列出了十七届政治局成员预选名单，当然也是为进入政治局常委会的人选提供了参考，这就是习近平、李克强两位60 岁以下的常委进入常委会的背景
+      cite: e06-people-2013-06-08-straw-poll
+      quote: true
+  cites: [e06-sina-2007-10-24-straw-poll, e06-people-2013-06-08-straw-poll]
+
+- id: e06-2010-wikileaks-google-attack
+  date: 2010-12-05
+  title: 维基解密电文：政治局常委指挥攻击谷歌
+  lane: foreign
+  summary: 维基解密公开、经《纽约时报》等报道的美国外交电文称，一名熟知情况的中国联络人告诉美方，2009年底对谷歌的黑客攻击由两名政治局常委指挥、完全出于政治目的；另一份电文说主管宣传的李长春曾下令攻击谷歌在美国的服务器，但电文自称此点可信度有待证实。外交部发言人姜瑜回应称荒谬，不值一提。
+  people: [li-changchun, zhou-yongkang]
+  voices:
+    - voice: zh
+      text: 其中一份电文引述“熟知情况的联络人”称，有关攻击“100%出于政治目的”。
+      cite: b03-bbc-2010-12-05-google
+      quote: true
+    - voice: zh
+      text: 另一份今年早些时候的密电则引述熟识中共高层人士的话说，李长春曾下令攻击谷歌在美国的电脑伺服器。消息来源表示，虽然这一点的可信度有待证实，但是李长春是审查谷歌在中国营运的主事者。
+      cite: e06-voa-2010-12-07-li-changchun-google
+      quote: true
+    - voice: official
+      text: 中國外交部發言人姜瑜在例常新聞發佈會上說，「這太荒謬了，不值一提。」
+      cite: e06-bbc-2010-12-07-wikileaks-mfa
+      quote: true
+  cites: [b03-bbc-2010-12-05-google, e06-voa-2010-12-07-li-changchun-google, e06-bbc-2010-12-07-wikileaks-mfa]
+
+- id: e06-2010-wikileaks-li-gdp
+  date: 2010-12-06
+  title: 维基解密电文：李克强称GDP数字“人造”
+  lane: econ
+  summary: BBC中文网2010年12月根据维基解密公开的美国外交电文报道，李克强2007年任辽宁省委书记时对美国大使说，他最关注腐败问题，中国的GDP数据只有参考价值、是人造的，因此并不可靠。同批电文也记录了习近平任浙江省委书记时与美国外交官的谈话。这些电文均为美方单方面记录。
+  people: [li-keqiang, xi-jinping]
+  factions: [tuanpai]
+  voices:
+    - voice: zh
+      text: 当时担任辽宁省委书记的李克强在与美国大使会面中表示对中国的腐败问题最为关注。
+      cite: c10-bbc-2010-12-08-wikileaks-xi-li
+      quote: true
+    - voice: zh
+      text: 而中国的GDP数据，都只有“参考价值”，是“人造的”。
+      cite: c10-bbc-2010-12-08-wikileaks-xi-li
+      quote: true
+    - voice: zh
+      text: 根據本周洩露的一份電文，中國領導人李克強在2007年曾對美國一位外交官說，中國GDP數字是「人為的」，因此不可靠。
+      cite: e06-bbc-2010-12-07-wikileaks-mfa
+      quote: true
+  cites: [c10-bbc-2010-12-08-wikileaks-xi-li, e06-bbc-2010-12-07-wikileaks-mfa]
+
+- id: e06-2011-atv-jiang-death
+  date: 2011-07-06
+  end: 2011-12-05
+  title: 亚视误报江泽民死讯
+  lane: power
+  summary: 江泽民缺席建党90周年大会后，香港亚洲电视2011年7月6日晚播出江泽民逝世的消息，海外多家媒体跟进。7日中午新华社引述权威消息说相关报道纯属谣言，中联办斥亚视毫无事实根据、纯属造谣，亚视当天撤回报道并向江泽民及家人致歉。同年12月香港广管局裁定投诉成立，罚款30万港元，创误报罚款最高纪录。
+  people: [jiang-zemin]
+  factions: [jiang-shanghai]
+  voices:
+    - voice: official
+      text: 此前中国官方的新华社中午发出英文稿，引述权威消息说，最近多间海外媒体报道江泽民的死讯，“纯属谣言”。
+      cite: c10-bbc-2011-07-07-jiang-atv
+      quote: true
+    - voice: zh
+      text: 到下午，半官方的中通社引述中联办有关部门的负责人说，亚视的报道，毫无事实根据、纯属造谣，对亚视这种严重违反新闻职业操守的行为，表示极大愤慨。
+      cite: e06-rfi-2011-07-08-atv-retract
+      quote: true
+    - voice: zh
+      text: 及至下午接近五时，亚视发表声明，表示注意到新华社中午发出的报道，撤回6日晚有关江泽民逝世的报道，并向观众、江泽民及其家人致歉。
+      cite: e06-rfi-2011-07-08-atv-retract
+      quote: true
+    - voice: zh
+      text: 广管局于本周一作出裁决，宣布亚视误报新闻，并且延迟更正错误的投诉成立，对亚视处罚30万港元，创下历来误报处罚最高罚款
+      cite: e06-rfa-2011-12-06-atv-fine
+      quote: true
+  cites: [c10-bbc-2011-07-07-jiang-atv, e06-rfi-2011-07-08-atv-retract, e06-rfa-2011-12-06-atv-fine]
+
+# ---------- 2012 ----------
+- id: e06-2012-wang-lijun-documents
+  date: 2012-02-15
+  end: 2012-02-23
+  title: 王立军领馆材料与“薄周密谋”传闻
+  lane: power
+  summary: 美国《华盛顿自由灯塔》网站资深编辑戈茨2012年2月援引美国官员报道，王立军在美国驻成都总领馆谈及薄熙来腐败、勾结黑社会等问题并留下一叠材料，驻华大使骆家辉建议给予庇护，被白宫否决。大纪元进一步称，材料涉及薄熙来、周永康密谋整垮习近平、阻止其接班；美国官方从未公开这些材料的内容。
+  people: [wang-lijun, bo-xilai, zhou-yongkang, xi-jinping]
+  factions: [new-gang-of-four, zhou-clique]
+  voices:
+    - voice: zh
+      text: 报道说：“据一位了解情况的美国官员说，王立军反映的情况涉及到他的上司薄熙来的腐败还有同黑社会勾结的问题，还谈到了中国警方镇压异议人士的问题。”
+      cite: e06-voa-2012-02-15-free-beacon
+      quote: true
+    - voice: zh
+      text: 华盛顿时报的资深编辑比尔.戈茨说，王立军留下了不少材料(a stack of documents)，而且中方现在要求美方交还这些材料。
+      cite: e06-voa-2012-02-23-wang-lijun-docs
+      quote: true
+    - voice: zh
+      text: 美国官员还透露，王立军向美方提供的材料中，包括有关重庆市委书记薄熙来、政治局常委周永康的贪污腐败材料，以及薄熙来和周永康密谋计划整垮习近平，不让他顺利接班等。
+      cite: e06-epoch-2012-02-23-bo-zhou-plot
+      quote: true
+  cites: [e06-voa-2012-02-15-free-beacon, e06-voa-2012-02-23-wang-lijun-docs, e06-epoch-2012-02-23-bo-zhou-plot]
+
+- id: e06-2012-beijing-coup-rumour
+  date: 2012-03-19
+  end: 2012-03-31
+  title: “军车进京、北京出事”政变传闻
+  lane: power
+  major: true
+  summary: 薄熙来被免职后几天，2012年3月19日深夜起，新浪微博和海外网站流传北京出事、长安街军车如林、有人听到枪声等说法，看中国等网站将其汇成北京政变传闻，BBC称传言指向周永康试图赶走胡温，但并无政变证据。3月底北京警方以编造谣言拘留6人，16家网站被关闭，新浪、腾讯微博被主管部门严肃批评。
+  people: [zhou-yongkang, hu-jintao, wen-jiabao, bo-xilai]
+  factions: [new-gang-of-four, zhengfa]
+  voices:
+    - voice: zh
+      text: 3月19日與20日交叉之間的深夜凌晨，據眾多大陸名人微博和北京民眾透露：北京出事了！更有網民說聽到槍聲，而「槍聲」在這時已經成為新浪微博的過濾詞了。
+      cite: e06-secretchina-2012-03-20-beijing-coup
+      quote: true
+    - voice: west
+      text: Supposedly it may have been an attempt by Zhou Yongkang, who controls China's huge internal security apparatus, to remove Mr Hu and Mr Wen from office.
+      zh: 据说，这可能是掌控中国庞大国内安全机器的周永康试图把胡锦涛和温家宝赶下台。
+      cite: b03-bbcen-2012-03-23-coup-rumours
+      quote: true
+    - voice: west
+      text: OK, before you get too agitated, there is no coup. To be more exact, as far as we know there has been no attempted coup.
+      zh: 先别激动，并没有政变。更准确地说，据我们所知，连政变企图都没有。
+      cite: b03-bbcen-2012-03-23-coup-rumours
+      quote: true
+    - voice: official
+      text: 近日，一些不法分子在互联网上无端编造、恶意传播所谓“军车进京、北京出事”等谣言。
+      cite: e06-ce-2012-03-31-sites-closed
+      quote: true
+    - voice: official
+      text: 对在网上编造谣言的李某、唐某等6人依法予以拘留
+      cite: e06-ce-2012-03-31-sites-closed
+      quote: true
+  cites: [e06-secretchina-2012-03-20-beijing-coup, b03-bbcen-2012-03-23-coup-rumours, e06-ce-2012-03-31-sites-closed]
+
+- id: e06-2012-bo-wiretap
+  date: 2012-04-25
+  end: 2012-04-30
+  title: 《纽约时报》：薄熙来窃听胡锦涛
+  lane: purge
+  summary: 《纽约时报》2012年4月引述十几位与中共关系密切的人士报道，薄熙来主政重庆时建立了广泛的监听系统，2011年连胡锦涛等中央领导的电话也被窃听，这是中央决定拿下薄熙来的原因之一。香港中通社随后引述北京消息人士称窃听门子虚乌有，新华社发英文评论批评西方媒体引用未经证实的传言编造新闻。
+  people: [bo-xilai, wang-lijun, hu-jintao]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: 《纽约时报》星期四报道，失势的中国政界人士薄熙来的助手去年被发现一直在窃听包括胡锦涛主席在内的高层国家领导人的电话。
+      cite: e06-voa-2012-04-26-bo-wiretap
+      quote: true
+    - voice: zh
+      text: 該消息人士澄清所謂「竊聽」完全子虛烏有，並指薄熙來、王立軍出事備受中外媒體關注，同時出現泛政治化的過度解讀，有人更趁機造謠，抹黑中國。
+      cite: e06-cdt-2012-05-01-wiretap-denial
+      quote: true
+    - voice: official
+      text: 此外，官方新華社昨日則發表英文評論，批評西方媒體，不顧事實、社會責任，不斷重複製造無事實根據的報道及評論，誤導讀者，有媒體甚至為求吸引讀者、增加利潤，引用未經證實的傳言編造新聞。
+      cite: e06-cdt-2012-05-01-wiretap-denial
+      quote: true
+  cites: [e06-voa-2012-04-26-bo-wiretap, e06-cdt-2012-05-01-wiretap-denial]
+
+# ---------- 2013–2016 ----------
+- id: e06-2013-xi-taxi
+  date: 2013-04-18
+  title: “习近平打的”报道被定为假新闻
+  lane: folk
+  summary: 香港《大公报》2013年4月18日刊出报道，称习近平3月1日在北京乘出租车从鼓楼西大街前往钓鱼台，并与司机聊天，新华社官方微博一度称确有其事，北京交通部门也向官媒证实。当天下午新华网发一句话短文，称该报道为虚假新闻，《大公报》随即登声明致歉。此事至今真假难明。
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: 3月1日，習近平在北京乘坐出租汽車從鼓樓西大街附近，前往釣魚台大酒店，共行駛8.2公里，用時26分鐘。
+      cite: e06-bbc-2013-04-18-taxi
+      quote: true
+    - voice: official
+      text: 但是当天下午5点32分，新华网登出一句话的短文表示，经核实，大公报关于习近平总书记乘坐出租车的报道为虚假新闻。
+      cite: e06-voa-2013-04-18-taxi
+      quote: true
+    - voice: zh
+      text: 不过，就在这之前两个小时左右，北京交通部门曾对官方媒体证实，习近平不久前确实曾坐出租车体察民情。
+      cite: e06-voa-2013-04-18-taxi
+      quote: true
+    - voice: zh
+      text: 《大公報》刊登的聲明稱，「經核，此為虛假消息，對此我們深感不安和萬分遺憾。……」
+      cite: e06-bbc-2013-04-18-taxi
+      quote: true
+  cites: [e06-bbc-2013-04-18-taxi, e06-voa-2013-04-18-taxi]
+
+- id: e06-2013-zhou-under-watch
+  date: 2013-12-11
+  end: 2014-07-29
+  title: 路透社：周永康已被控制调查
+  lane: purge
+  major: true
+  summary: 路透社2013年12月援引消息人士报道，中南海已决定调查前政治局常委周永康，他的自由受到限制、行动受到监控；《纽约时报》随后称周永康夫妇一直受到看守。此后半年多，中国当局对此既不证实也不否认，海外媒体还流传以周为首的新四人帮政变之说。2014年7月29日新华社宣布中央纪委对周永康立案审查。
+  people: [zhou-yongkang, xi-jinping]
+  factions: [zhou-clique, petroleum, new-gang-of-four]
+  voices:
+    - voice: zh
+      text: 报道援引一位消息人士的话说：“周永康自由受到限制，行动受到监控。”
+      cite: e06-voa-2013-12-11-zhou-reuters
+      quote: true
+    - voice: zh
+      text: 此後，周永康和他的妻子「一直受到看守」。
+      cite: e06-bbc-2013-12-15-zhou
+      quote: true
+    - voice: zh
+      text: 不過，中國當局遲遲未就周永康是否受正式調查做出澄清或者證實。
+      cite: e06-bbc-2013-12-15-zhou
+      quote: true
+    - voice: zh
+      text: 明镜新闻网2013年底报道了“以周永康为首的‘新四人帮’”，指其为“长时间组建的一个巨大组织，目标是透过政变推翻中共2007年订下习近平接班的计划，并控制中共与中国政府。”
+      cite: f02-voa-2014-12-05-zhou-coup
+      quote: true
+    - voice: official
+      text: 鉴于周永康涉嫌严重违纪，中共中央决定，……由中共中央纪律检查委员会对其立案审查。
+      cite: b03-gov-2014-07-29-zhou-probe
+      quote: true
+  cites: [e06-voa-2013-12-11-zhou-reuters, e06-bbc-2013-12-15-zhou, f02-voa-2014-12-05-zhou-coup, b03-gov-2014-07-29-zhou-probe]
+
+- id: e06-2014-china-leaks
+  date: 2014-01-21
+  title: ICIJ“中国离岸”报告点名领导人亲属
+  lane: purge
+  summary: 国际调查记者同盟2014年1月发布根据泄露档案写成的报告，称至少5名现任或前任政治局常委的亲属在英属维尔京群岛等地持有离岸公司，涉及习近平、温家宝、李鹏、胡锦涛和邓小平，点名者包括习近平的姐夫邓家贵和李鹏之女李小琳。外交部发言人秦刚称报道逻辑不能令人信服，ICIJ网站随即在大陆被屏蔽。
+  people: [xi-jinping, wen-jiabao, li-peng, li-xiaolin, hu-jintao, qin-gang]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: 报告声称：“资料显示，至少有5名现任或前任中共中央政治局常委的亲属在英属维尔京群岛和库克群岛等离岸金融中心持有离岸公司”，“其中包括现任国家主席习近平、前任国务院总理温家宝及李鹏、上届国家主席胡锦涛以及已故领导人邓小平”。
+      cite: e06-bbc-2014-01-22-icij
+      quote: true
+    - voice: zh
+      text: 报告中的名字包括身为习近平姐夫的富商邓家贵，以及前总理李鹏的女儿李小琳。
+      cite: e06-nytcn-2014-01-23-offshore
+      quote: true
+    - voice: official
+      text: 中国外交部发言人秦刚周三（1月22日）在例行的记者会上反驳说，有关报道的逻辑不能令人信服，其动机令人起疑。
+      cite: e06-bbc-2014-01-22-icij-reaction
+      quote: true
+    - voice: zh
+      text: 不过，这家中国大陆媒体因受到中国当局警告而在去年11月退出团队，不得发布有关该数据库的报道。
+      cite: e06-bbc-2014-01-22-icij
+      quote: true
+  cites: [e06-bbc-2014-01-22-icij, e06-bbc-2014-01-22-icij-reaction, e06-nytcn-2014-01-23-offshore]
+
+- id: e06-2015-ling-wancheng-defector
+  date: 2015-08-04
+  end: 2016-01-15
+  title: 令完成出逃美国
+  lane: foreign
+  summary: 《纽约时报》2015年8月援引几位美国官员报道，令计划的弟弟令完成住在美国加州，北京正要求奥巴马政府遣返他；美方官员说，他若寻求政治庇护，可能成为中华人民共和国史上最具破坏力的叛逃者。2016年1月外交部首次承认令完成住在美国，只说中方正在处理。
+  people: [ling-jihua]
+  factions: [tuanpai]
+  voices:
+    - voice: zh
+      text: 熟悉这一案件的几位美国官员表示，如果他寻求政治庇护，将可能成为中华人民共和国历史上最具破坏力的叛逃者。
+      cite: b07-nyt-2015-08-04-ling-wancheng
+      quote: true
+    - voice: zh
+      text: 上周五，中国首次承认，一个失势的前共产党官员的弟弟住在美国。
+      cite: b07-nyt-2016-01-18-ling-wancheng-us
+      quote: true
+    - voice: official
+      text: 只是说“中方正在处理，也在和美国进行沟通”。
+      cite: b07-nyt-2016-01-18-ling-wancheng-us
+      quote: true
+  cites: [b07-nyt-2015-08-04-ling-wancheng, b07-nyt-2016-01-18-ling-wancheng-us]
+
+- id: e06-2015-jiang-zeng-rumours
+  date: 2015-03
+  end: 2015-11
+  title: 江泽民、曾庆红被查传闻
+  lane: power
+  summary: 2015年，看中国等海外网站汇集香港《动向》等杂志的说法，称中纪委已在2月26日对曾庆红立案审查，江泽民曾向军中元老哀求在他有生之年不要查曾庆红，但被拒绝。这些说法均无官方证实；连看中国也承认，江、曾二人都现身了当年9月3日的北京阅兵。BBC评论称，江习不和的传闻时有出现，但很难验证。
+  people: [jiang-zemin, zeng-qinghong, xi-jinping]
+  factions: [jiang-shanghai]
+  voices:
+    - voice: zh
+      text: 香港《动向》杂志3月号消息称，2月26日，赵洪祝代表中纪委、中组部正式宣布对曾庆红立案审查。
+      cite: e06-secretchina-2015-11-01-jiang-zeng
+      quote: true
+    - voice: zh
+      text: 老军头们透露，江声称：“在我有生之年，不要查他，我死了之后，你们怎么查都可以。”但江泽民的哀求被拒绝。
+      cite: e06-secretchina-2015-11-01-jiang-zeng
+      quote: true
+    - voice: zh
+      text: 尽管江泽民和曾庆红双双现身9月的北京阅兵式，江曾二人仍被舆论揪着不放，负面消息不断。
+      cite: e06-secretchina-2015-11-01-jiang-zeng
+      quote: true
+    - voice: zh
+      text: 关于江泽民和习近平观点不同的传闻时有出现。由于中国政治透明度不足，这些传言很难验证。
+      cite: e06-bbc-2015-09-03-parade-jiang
+      quote: true
+    - voice: zh
+      text: 他站在现任中国领导人中间俯瞰天安门广场，旁边是他的继任者胡锦涛。
+      cite: e06-bbc-2015-09-03-parade-jiang
+      quote: true
+  cites: [e06-secretchina-2015-11-01-jiang-zeng, e06-bbc-2015-09-03-parade-jiang]
+
+- id: e06-2016-wujie-letter
+  date: 2016-03-04
+  end: 2016-08
+  title: 无界新闻网“促习辞职”公开信
+  lane: ideo
+  summary: 2016年全国两会期间，具新疆官方背景的无界新闻网3月4日刊出一封自称忠诚共产党员所写、要求习近平辞职的公开信，指他将权力全面抓到自己手里。信件真伪与作者都无从确认，国内媒体只字未提。BBC获知随后约20人被扣押调查；据报案件8月底结案，被关押人员已全部获释。
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: 《明报》报道，今年3月4日中国全国“两会”期间，具新疆官方背景的“无界新闻网”刊登一篇要求领导人习近平辞职的公开信，引起各界猜测。
+      cite: e06-bbc-2016-10-12-wujie-letter
+      quote: true
+    - voice: zh
+      text: 该信件所表达的不满集中在指习近平主席“将权力全面抓到自己的手里”
+      cite: e06-bbc-2016-03-25-wujie-letter
+      quote: true
+    - voice: zh
+      text: 虽然该信件的真实性存疑，但它已经得到了外国媒体的广泛关注，只不过在中国境内一如所料地没有任何报导。
+      cite: e06-bbc-2016-03-25-wujie-letter
+      quote: true
+    - voice: zh
+      text: BBC获知，在一封要求习近平辞职的公开信在互联网上发表后，目前共有20人被扣押调查。
+      cite: e06-bbc-2016-03-25-wujie-letter
+      quote: true
+    - voice: zh
+      text: 据报，8月底该案已经结案，被关押人员已悉数释放。
+      cite: e06-bbc-2016-10-12-wujie-letter
+      quote: true
+  cites: [e06-bbc-2016-03-25-wujie-letter, e06-bbc-2016-10-12-wujie-letter]
+
+- id: e06-2016-panama-papers
+  date: 2016-04-03
+  title: 巴拿马文件涉习近平姐夫和李鹏之女
+  lane: purge
+  summary: 国际调查记者同盟2016年4月公布巴拿马律师事务所莫萨克·冯赛卡的泄露文件，显示习近平的姐夫邓家贵2009年通过该所在英属维尔京群岛成立两家公司，当时习近平已被定为接班人；李鹏之女李小琳夫妇也持有一家1994年在该地注册的公司。BBC称律所当年并未调查邓家贵与中共高层的关联。
+  people: [xi-jinping, qi-qiaoqiao, li-peng, li-xiaolin]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: 对中国的审查者而言，政治上最敏感的泄漏资料，想必一定是有关习近平的姐夫邓家贵的
+      cite: c05-nytcn-2016-04-06-panama-china
+      quote: true
+    - voice: zh
+      text: 习近平（中国国家主席）——姐夫邓家贵是两家离岸公司的董事及股东。
+      cite: c05-bbc-2016-04-06-panama-china
+      quote: true
+    - voice: zh
+      text: 李鹏的女儿李小琳和丈夫拥有一家1994年在英属维尔京群岛组建的公司“Cofic Investments”。
+      cite: c05-voa-2016-04-06-panama-red
+      quote: true
+  cites: [c05-nytcn-2016-04-06-panama-china, c05-bbc-2016-04-06-panama-china, c05-voa-2016-04-06-panama-red]
+
+# ---------- 2017–2019 ----------
+- id: e06-2017-xiao-jianhua-taken
+  date: 2017-01-27
+  end: 2022-08-19
+  title: 肖建华在香港被带回内地
+  lane: hkmt
+  summary: 香港媒体2017年1月底报道，明天系富豪肖建华1月27日深夜在香港四季酒店被大陆公安和国安人员带回内地；他随即发声明称不存在被绑架的情况。BBC引述消息源说他手握贿赂中共领导层家人的信息，他的公司曾收购习近平姐姐和姐夫持有的公司股份。2022年8月上海法院判他有期徒刑13年。
+  people: [xiao-jianhua, xi-jinping, qi-qiaoqiao]
+  voices:
+    - voice: zh
+      text: 據報道，具有香港永久居民身分的肖建華於1月27日深夜在香港被數十名中國公安及國安人員拘捕並帶返內地
+      cite: e06-bbc-2017-01-31-xiao
+      quote: true
+    - voice: zh
+      text: 中國富商肖建華周二（31日）發表聲明，強調自己在香港「不存在被綁架回內地的情況」。
+      cite: e06-bbc-2017-01-31-xiao
+      quote: true
+    - voice: zh
+      text: 另一消息源称，肖建华手里有贿赂中共领导层家人的信息。
+      cite: e06-bbc-2017-02-19-xiao
+      quote: true
+    - voice: zh
+      text: 旗下公司曾收購中共總書記習近平姐姐和姐夫持有的投資公司股份
+      cite: e06-bbc-2017-01-31-xiao
+      quote: true
+    - voice: official
+      text: 判处肖建华有期徒刑13年，并处罚金650万元人民币。
+      cite: c04-bbc-2022-08-19-xiao-jianhua
+      quote: true
+  cites: [e06-bbc-2017-01-31-xiao, e06-bbc-2017-02-19-xiao, c04-bbc-2022-08-19-xiao-jianhua]
+
+- id: e06-2017-guo-wengui-voa
+  date: 2017-04-19
+  title: 郭文贵爆料与美国之音断播
+  lane: purge
+  summary: 流亡美国的富商郭文贵2017年4月19日在美国之音直播中指控中国高层腐败，并称公安部副部长傅政华以习近平亲自下令为名，要他调查王岐山亲属的海航股份；原定三小时的节目播到一半突然中断。美国之音说无法独立核实他的指控。VOA此后的内部调查称，没有证据显示断播来自中国政府的压力。
+  people: [guo-wengui, fu-zhenghua, wang-qishan, xi-jinping]
+  factions: [zhengfa]
+  voices:
+    - voice: zh
+      text: 周三（4月19日）郭文贵在美国之音VOA的直播节目按照事先的推广通知应该持续3小时，内容涉及他对中国高层腐败的指控，但节目进行到一半时突然中断。
+      cite: b14-bbc-2017-04-21-guo-baoliao
+      quote: true
+    - voice: zh
+      text: 郭文贵表示，傅政华称此调查是习近平亲自下令
+      cite: e06-voa-2017-04-25-guo
+      quote: true
+    - voice: zh
+      text: 不过，美国之音无法独立核实郭文贵到目前为止爆料的所有证据和所作指称的真实性。
+      cite: e06-voa-2017-04-25-guo
+      quote: true
+    - voice: official
+      text: 中央政法委机关“决不出现与中央决定不一致的声音、决不传播政治谣言、决不丑化党和国家形象”。
+      cite: e06-voa-2017-04-25-guo
+      quote: true
+    - voice: zh
+      text: 「調查未發現有證據支持所謂斷播是來自中國政府，或VOA內部存在間諜驅動壓力的指稱。」
+      cite: e06-cna-2018-11-30-voa-probe
+      quote: true
+  cites: [b14-bbc-2017-04-21-guo-baoliao, e06-voa-2017-04-25-guo, e06-cna-2018-11-30-voa-probe]
+
+- id: e06-2017-liu-shiyu-usurp
+  date: 2017-10-19
+  title: 刘士余称落马高官“阴谋篡党夺权”
+  lane: purge
+  summary: 据香港媒体报道，证监会主席刘士余2017年10月19日在十九大分组讨论中说，薄熙来、周永康、令计划、徐才厚、郭伯雄、孙政才等人既巨贪又巨腐，又阴谋篡党夺权。自由亚洲电台指出，这是粉碎四人帮以来中共官员首次用篡党夺权指控落马者，但大陆媒体没有报道这段话，公开的审判材料也从未作此指控。
+  people: [bo-xilai, zhou-yongkang, ling-jihua, xu-caihou, guo-boxiong, sun-zhengcai]
+  factions: [new-gang-of-four]
+  voices:
+    - voice: official
+      text: 这些人在党内位高权重，既巨贪又巨腐、又阴谋篡党夺权。
+      cite: b07-bbc-2018-04-12-sun-trial
+      quote: true
+    - voice: zh
+      text: 中国证监会主席刘士余在小组发言指，薄熙来、周永康、令计划等人涉及的是“阴谋篡党夺权”。这是中共在毛泽东死后“粉碎四人帮反党集团”以来，中共官员首次使用有人篡党夺权的措词。
+      cite: b03-rfa-2017-10-20-liu-shiyu
+      quote: true
+    - voice: zh
+      text: 中国证监会主席刘士余的上述发言，并未见诸于大陆媒体。
+      cite: b03-rfa-2017-10-20-liu-shiyu
+      quote: true
+    - voice: scholar
+      text: 现在公开对周永康、薄熙来、令计划等人的审判材料中，并没有正式指控他们篡党夺权或者阴谋政变
+      cite: b03-rfa-2017-10-20-liu-shiyu
+      quote: true
+  cites: [b03-rfa-2017-10-20-liu-shiyu, b07-bbc-2018-04-12-sun-trial]
+
+- id: e06-2018-ink-splash
+  date: 2018-07-04
+  end: 2018-07-15
+  title: 泼墨习像与“个人崇拜降温”揣测
+  lane: folk
+  summary: 2018年7月4日，一名女子在推特直播她在上海海航大厦前向习近平宣传画像泼墨，称反对独裁暴政；网友披露她叫董瑶琼，此后她失去联系。随后几天台湾中央社等报道，人民日报7月9日头版罕见没有出现习近平三字，评论揣测中共高层有意给个人崇拜降温，也有人认为党内出现了质疑习近平的暗流。
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: 7月4日清晨，一名中国女网民在上海海航大厦前面表示，反对中共独裁专制暴政，并向中国最高领导人习近平的宣传画像泼墨，称对习近平恨之入骨。
+      cite: e06-voa-2018-07-04-ink
+      quote: true
+    - voice: zh
+      text: 称其名为董瑶琼，20多岁，来自湖南株洲，在上海从事房产中介工作。被披露号码的手机无法接通，其人失踪。
+      cite: e06-voa-2018-07-04-ink
+      quote: true
+    - voice: zh
+      text: 7月9日，有眼尖的中国民众注意到，当天的人民日报头版完全没有出现“习近平”3个字，是2012年11月中共18大以来罕见的现象。
+      cite: e06-rfi-2018-07-15-cooling
+      quote: true
+    - voice: zh
+      text: 有评论认为，这些反常现象，代表中共高层有意冷却对习近平的个人崇拜，……但也有人认为，这反映中共内部开始出现质疑习近平的暗流。
+      cite: e06-rfi-2018-07-15-cooling
+      quote: true
+  cites: [e06-voa-2018-07-04-ink, e06-rfi-2018-07-15-cooling]
+
+- id: e06-2019-carrie-lam-tape
+  date: 2019-09-02
+  end: 2019-09-03
+  title: 林郑月娥“想辞职”录音外泄
+  lane: hkmt
+  summary: 路透社2019年9月2日公开一段林郑月娥与商界人士闭门会面的录音，她在录音中被指说，如果可以选择会辞职，意在显示特首在北京面前空间有限。评论员林和立认为港府有意让录音流出的可能性很大；港府新闻处次日向BBC再次否认林郑或政府在录音外泄中发挥过任何作用。
+  people: [lin-zheng-yuee]
+  voices:
+    - voice: zh
+      text: 路透社早前取得一段香港特首林郑月娥与商界闭门会面的录音，林郑月娥被指在录音中说，“如果可以，会选择辞职”。
+      cite: e06-bbc-2019-09-03-lam-tape
+      quote: true
+    - voice: scholar
+      text: 香港时事评论员林和立也认为，林郑月娥或香港政府内部故意让录音流出的可能性“很大”
+      cite: b10-bbc-2019-09-03-lam-denies
+      quote: true
+    - voice: official
+      text: 9月3日下午，香港政府新闻处向BBC中文发来电邮，再次否认林郑月娥或她的政府在此次录音外泄事件中“发挥过任何作用”。
+      cite: e06-bbc-2019-09-03-lam-tape
+      quote: true
+  cites: [e06-bbc-2019-09-03-lam-tape, b10-bbc-2019-09-03-lam-denies]
+
+# ---------- 2020–2022 ----------
+- id: e06-2020-qiushi-jan7
+  date: 2020-02-15
+  title: 《求是》披露习近平1月7日已部署疫情
+  lane: society
+  major: true
+  summary: 《求是》2020年2月15日刊出习近平2月3日在政治局常委会上的讲话，他自述1月7日主持常委会时已对新冠疫情防控提出要求。BBC等外媒指出，武汉在1月23日封城前一切照旧，1月7日后连续5天未通报新病例，讲话反而引出谁该为官方延误通报、防疫迟缓负责的质疑。
+  people: [xi-jinping]
+  voices:
+    - voice: doc
+      text: 武汉新型冠状病毒肺炎疫情发生后，1月7日，我主持召开中央政治局常委会会议时，就对新型冠状病毒肺炎疫情防控工作提出了要求。
+      cite: e06-qstheory-2020-02-15-xi-speech
+      quote: true
+    - voice: zh
+      text: 觀察人士指出，湖北省和武漢市官方在1月23日當晚10點封城之前似乎一切照舊，而且1月7日之後連續5天武漢衛健委也沒有任何通報新病例，1月上旬還如期舉行了當地的兩會。
+      cite: e06-bbc-2020-02-17-jan7
+      quote: true
+    - voice: zh
+      text: 文稿發表之後引發了國際媒體就誰應承擔官方沒有及時向公眾通報，以及涉嫌防疫遲緩責任的質疑。
+      cite: e06-bbc-2020-02-17-jan7
+      quote: true
+  cites: [e06-qstheory-2020-02-15-xi-speech, e06-bbc-2020-02-17-jan7]
+
+- id: e06-2020-cai-xia-tape
+  date: 2020-06
+  end: 2020-08-17
+  title: 蔡霞“换人”录音
+  lane: ideo
+  summary: 2020年夏天网上流传一段约20分钟的录音，据称是中央党校退休教授蔡霞在一次红二代聚会上的发言，她批评中共已是政治僵尸，称习近平是黑帮老大，当务之急是换人。8月17日中央党校宣布开除她的党籍并取消退休待遇，外界普遍认为与录音有关；已在美国的蔡霞说很高兴被开除出党。
+  people: [cai-xia, xi-jinping]
+  factions: [princelings]
+  voices:
+    - voice: zh
+      text: 在这段约20分钟的音频中，蔡霞批评中共已是“政治僵尸”，多次直指习近平，称他就是一个“黑帮老大”，挽救危局的当务之急是要“换人”。
+      cite: c04-voa-2020-08-17-cai-xia
+      quote: true
+    - voice: official
+      text: 中央党校8月17日宣布，开除一向敢言的自由派退休教授蔡霞的党籍并取消退休待遇。
+      cite: c04-voa-2020-08-17-cai-xia
+      quote: true
+  cites: [c04-voa-2020-08-17-cai-xia, c04-bbc-2020-08-18-cai-xia]
+
+- id: e06-2022-xi-down-li-up
+  date: 2022-05
+  end: 2022-10-23
+  title: “习降李升”传闻
+  lane: power
+  summary: 2022年5月初，海外网络流传一段以录音形式传入国内的爆料短片，称习近平因内外困境在党内会议上遭质疑，李克强取得部分权力，习近平在二十大无法续任。中央社称其真假难辨，也有人认为这是自媒体博点击。5月25日李克强召开规模超过十万人的稳经济电视电话会议。10月二十届一中全会上习近平连任总书记，李克强未进新常委会。
+  people: [xi-jinping, li-keqiang]
+  factions: [tuanpai]
+  voices:
+    - voice: zh
+      text: 5月初海外网络上一则爆料短片迅速流传，以录音档方式传入中国内部。内容声称习近平因中国当今面临的内外困境，在党内的会议上遭到质疑，李克强因此取得部分权力，甚至迳指习近平在中共20大无法再续任等，绘声绘影，真假难辨。
+      cite: e06-rfi-2022-05-18-xi-down-li-up
+      quote: true
+    - voice: zh
+      text: 有人认为，这不过是一些以“中南海听床师”自诩的自媒体人吸引点阅的耸动作法
+      cite: e06-rfi-2022-05-18-xi-down-li-up
+      quote: true
+    - voice: zh
+      text: 李克强长期以来被边缘化，如今在总理任期临近结束时，他的政治影响力却出现了某种程度的回升。
+      cite: e06-dw-2022-05-26-li-100k
+      quote: true
+    - voice: official
+      text: 习近平同志主持会议并在当选中共中央委员会总书记后作了重要讲话。
+      cite: e04-gov-2022-10-23-1st-plenum
+      quote: true
+  cites: [e06-rfi-2022-05-18-xi-down-li-up, e06-dw-2022-05-26-li-100k, e04-gov-2022-10-23-1st-plenum]
+
+- id: e06-2022-xi-house-arrest-rumour
+  date: 2022-09-22
+  end: 2022-09-27
+  title: “习近平被软禁”政变谣言
+  lane: power
+  major: true
+  summary: 2022年9月22日前后，推特中文圈流传政变传闻，称习近平出访中亚期间，胡锦涛、温家宝等前领导人控制了中央警卫局并罢黜习的军权，习回京后被软禁在中南海家中，传言获大量转发。欧亚集团总裁布雷默等观察人士称这些只是没有根据的网上猜测。9月27日习近平在官媒画面中公开露面，传言不攻自破。
+  people: [xi-jinping, hu-jintao, wen-jiabao]
+  voices:
+    - voice: zh
+      text: 传言称，在习近平出访中亚期间，胡锦涛和温家宝等前中国领导人控制了中央警卫局，并罢黜了习近平的军权。习近平在抵达北京后被控制，软禁在中南海家中。
+      cite: e06-voa-2022-09-26-coup-twitter
+      quote: true
+    - voice: scholar
+      text: “除了没有根据的网上猜测外，有关习主席和‘中国政变’的有用信息为零。直到这一点出现变化以前，我对此没有观点。”
+      cite: e06-voa-2022-09-26-coup-twitter
+      quote: true
+    - voice: zh
+      text: 习近平再次在公共场合露面，彻底推翻了日前有关习近平访问中亚多国后被“软禁”，军中将领已经政变接过职权的猜测和谣言。
+      cite: e06-dw-2022-09-27-xi-reappears
+      quote: true
+    - voice: zh
+      text: 针对最新的习近平被软禁政变的传言，蔡霞表示：“传言反映人心，当真就不必了。”
+      cite: e06-dw-2022-09-27-xi-reappears
+      quote: true
+  cites: [e06-voa-2022-09-26-coup-twitter, e06-dw-2022-09-27-xi-reappears]
+
+# ---------- 2023–2024 ----------
+- id: e06-2023-beidaihe-elders
+  date: 2023-08
+  end: 2023-09-06
+  title: 日经：北戴河元老斥责习近平
+  lane: power
+  summary: 《日经亚洲》编委中泽克二2023年9月撰文引述消息人士称，当年北戴河会议期间，以曾庆红为核心的一群退休元老以前所未有的方式斥责习近平，说不能再更乱了；习近平事后对亲信抱怨前三任留下的问题都落在他肩上。此说无法证实，自由亚洲电台访问的评论人认为元老多已被清洗、禁锢，不可能集体发声。
+  people: [xi-jinping, zeng-qinghong]
+  factions: [jiang-shanghai]
+  voices:
+    - voice: zh
+      text: 消息人士指稱，在今年北戴河會議上，一群退休中共元老以前所未有的方式斥責了習近平。
+      cite: c10-cna-2023-09-05-beidaihe-elders
+      quote: true
+    - voice: zh
+      text: 據悉，中共元老們說，不能再更亂了。這群大老的核心人物是前國家副主席曾慶紅
+      cite: c10-cna-2023-09-05-beidaihe-elders
+      quote: true
+    - voice: zh
+      text: 不过，陈破空对此消息保持半信半疑。
+      cite: e06-rfa-2023-09-06-beidaihe
+      quote: true
+    - voice: zh
+      text: 中共的元老在过去十年多数已经被清洗、禁锢，私下发牢骚也许有可能，但是不可能让他们集体发声。
+      cite: e06-rfa-2023-09-06-beidaihe
+      quote: true
+  cites: [c10-cna-2023-09-05-beidaihe-elders, e06-rfa-2023-09-06-beidaihe]
+
+- id: e06-2023-li-shangfu-missing
+  date: 2023-09-08
+  end: 2024-06-27
+  title: 李尚福失踪与美方“被查”说
+  lane: army
+  major: true
+  summary: 美国驻日大使伊曼纽尔2023年9月在社交媒体上调侃国防部长李尚福两周没有露面，后又称他被软禁；路透社引述十名知情人士称，李尚福因军备采购腐败正接受军委纪委调查。外交部回应称不了解情况。2024年6月官方通报，军委纪委早在2023年8月31日就已对李尚福立案审查调查。
+  people: [li-shangfu, qin-gang]
+  factions: [equipment-system, rocket-equipment]
+  voices:
+    - voice: west
+      text: 这场失业大赛谁会获胜？中国年轻人还是习近平的内阁？
+      cite: e06-bbc-2023-09-15-li-shangfu
+      quote: true
+    - voice: zh
+      text: 据十名知情人士向路透社记者透露，失踪两周多的中国国防部长李尚福正在接受军委纪律检查委员会的调查。调查涉及军事装备采购中的腐败案。
+      cite: e06-dw-2023-09-15-li-shangfu
+      quote: true
+    - voice: zh
+      text: 美国政府相信李尚福已接受调查，无法履行国防部长的职责。BBC不能独立核实该说法。
+      cite: e06-bbc-2023-09-15-li-shangfu
+      quote: true
+    - voice: official
+      text: 2023年8月31日，由军委纪委监委对李尚福严重违纪违法问题立案审查调查。
+      cite: b08-gov-2024-06-27-li-shangfu-expelled
+      quote: true
+  cites: [e06-bbc-2023-09-15-li-shangfu, e06-dw-2023-09-15-li-shangfu, b08-gov-2024-06-27-li-shangfu-expelled]
+
+- id: e06-2023-qin-gang-affair-report
+  date: 2023-09-19
+  end: 2024-09
+  title: 《华尔街日报》：秦刚因婚外情被免
+  lane: foreign
+  summary: 《华尔街日报》2023年9月19日引述知情人士报道，中共向部级官员通报，秦刚被免去外长的正式原因是生活作风问题，调查发现他有婚外情并在美国生下一个孩子。此前社交媒体已盛传他与一名女主播有染。官方从未公布免职原因；2024年7月三中全会接受他辞去中央委员，路透社等称他被安排到出版社任低阶职务。
+  people: [qin-gang]
+  voices:
+    - voice: zh
+      text: 他们被告知，秦刚遭免职的正式原因是“生活作风问题”。
+      cite: b08-zaobao-2023-09-19-qin-affair
+      quote: true
+    - voice: zh
+      text: 这些官员也被告知，调查发现秦刚有婚外情，并因此有了一个在美国出生的孩子。
+      cite: b08-zaobao-2023-09-19-qin-affair
+      quote: true
+    - voice: official
+      text: 全会决定，接受秦刚同志辞职申请，免去秦刚同志中央委员会委员职务。
+      cite: c03-gov-2024-07-18-third-plenum
+      quote: true
+    - voice: zh
+      text: 其中一名前官员称，秦刚"不会坐牢，但他的（政治）生涯结束了"。
+      cite: b08-dw-2024-09-09-qin-publisher
+      quote: true
+  cites: [b08-zaobao-2023-09-19-qin-affair, b08-bbc-2023-07-25-qin-gang, c03-gov-2024-07-18-third-plenum, b08-dw-2024-09-09-qin-publisher]
+
+- id: e06-2023-qin-gang-death-report
+  date: 2023-12-04
+  title: Politico：秦刚已在北京死亡
+  lane: foreign
+  summary: 美国政治新闻网站Politico 2023年12月初发表报道，引述两名匿名消息人士称，秦刚因涉嫌向西方泄露军事机密被捕，7月在北京自杀或被折磨致死。多位资深西方中国观察人士立即质疑，《经济学人》编辑提醒读者这些说法消息源并不可靠。2024年7月三中全会公报仍以秦刚同志相称，接受他辞去中央委员。
+  people: [qin-gang]
+  voices:
+    - voice: zh
+      text: 中国前外交部长秦刚因为涉嫌向西方泄漏中国的军事机密而被捕，并于7月在北京自杀或是“被折磨致死”。
+      cite: e06-voa-2023-12-07-qin-dead
+      quote: true
+    - voice: zh
+      text: “读者需要注意，这些说法的消息源并不可靠。这篇关于中国领导层的报道充满了猜测、八卦、流言，听起来很棒但很难去证实。”
+      cite: e06-voa-2023-12-07-qin-dead
+      quote: true
+    - voice: official
+      text: 全会决定，接受秦刚同志辞职申请，免去秦刚同志中央委员会委员职务。
+      cite: c03-gov-2024-07-18-third-plenum
+      quote: true
+  cites: [e06-voa-2023-12-07-qin-dead, c03-gov-2024-07-18-third-plenum]
+
+- id: e06-2024-water-missiles
+  date: 2024-01-06
+  title: 美情报评估：火箭军导弹“注水”
+  lane: army
+  summary: 彭博社2024年1月6日引述知情人士报道，美国情报评估认为解放军火箭军和国防工业腐败严重，例子包括导弹里装的是水而不是燃料、西部导弹发射井井盖无法正常开合，这是习近平大规模整肃军队的原因。报道同时说，美方认为习近平的权力并未因整肃而被削弱。该评估无法独立证实。
+  people: [xi-jinping, li-yuchao, li-shangfu]
+  factions: [rocket-equipment]
+  voices:
+    - voice: zh
+      text: 包括导弹中注水而不是燃料，以及西部基地导弹发射井的井盖无法有效开合等。
+      cite: e06-dw-2024-01-07-water-missiles
+      quote: true
+    - voice: zh
+      text: 上述美国情报评估无法得到独立证实。
+      cite: e06-dw-2024-01-07-water-missiles
+      quote: true
+    - voice: zh
+      text: 美国认为，习近平的权利并未因扩大对解放军的整肃而被削弱
+      cite: e06-zaobao-2024-01-07-water-missiles
+      quote: true
+  cites: [e06-dw-2024-01-07-water-missiles, e06-zaobao-2024-01-07-water-missiles]
+
+- id: e06-2024-xi-stroke-rumour
+  date: 2024-07-15
+  end: 2024-08
+  title: 三中全会“习近平中风”传闻
+  lane: power
+  summary: 二十届三中全会2024年7月举行期间，国内外网络流传以暗语写成的对话截图，暗指习近平在会上身体不适甚至中风，并扩散到国内微信群。中央社指出，央视随后罕见播出习近平赴越南使馆吊唁阮富仲时不握扶手走上二楼的画面。此后又有替身、北戴河逼宫等说法，评论人邓聿文指外交调子和策略并无变化。
+  people: [xi-jinping]
+  voices:
+    - voice: zh
+      text: 暗指習近平在全會舉行過程中身體不適，甚至當場中風等情況
+      cite: c10-cna-2024-07-21-xi-stroke-rumour
+      quote: true
+    - voice: zh
+      text: 央視罕見地播出他全程不握扶手徒步走上2樓的畫面，更有表明習近平健康無恙的成分。
+      cite: c10-cna-2024-07-21-xi-stroke-rumour
+      quote: true
+    - voice: scholar
+      text: 最新传言是北京发生军变，习在北戴河被逼辞总书记和主席，临时权力班子组成
+      cite: c10-voa-2024-08-12-coup-rumours
+      quote: true
+    - voice: scholar
+      text: 但外交的调子和策略没有发生任何变化。
+      cite: c10-voa-2024-08-12-coup-rumours
+      quote: true
+  cites: [c10-cna-2024-07-21-xi-stroke-rumour, c10-voa-2024-08-12-coup-rumours]
+
+- id: e06-2024-dong-jun-probe-report
+  date: 2024-11-27
+  end: 2024-11-28
+  title: 《金融时报》：防长董军被查
+  lane: army
+  summary: 英国《金融时报》2024年11月27日引述现任和前任美国官员报道，国防部长董军卷入解放军一系列反腐调查。外交部当天称这是捕风捉影；次日国防部发言人吴谦称报道纯属捏造、造谣者居心叵测，同时宣布军委委员苗华停职检查。董军本人从未被官方宣布立案。
+  people: [miao-hua]
+  factions: [he-miao]
+  voices:
+    - voice: zh
+      text: 英国《金融时报》星期三（27日）引述现任和前任美国官员报道，中国高层正对解放军展开一系列反腐调查，董军也卷入其中。中国外交部当天回应，指这一传言是“捕风捉影”。
+      cite: e06-zaobao-2024-11-28-dong-jun
+      quote: true
+    - voice: official
+      text: 中国国防部星期四（11月28日）驳斥有关中国防长董军被查的消息，称这些报道纯属捏造。
+      cite: e06-zaobao-2024-11-28-dong-jun
+      quote: true
+    - voice: zh
+      text: 吴谦在去年11月的例行记者会上宣布，苗华涉及严重违纪，经党中央研究，决定对其停职检查。中国国防部长董军在当时也传被查，吴谦彼时的回应是直接否认
+      cite: e06-rfi-2025-03-27-he-weidong
+      quote: true
+  cites: [e06-zaobao-2024-11-28-dong-jun, e06-rfi-2025-03-27-he-weidong]
+
+- id: e06-2024-gu-wanming-sentenced
+  date: 2024-11
+  end: 2024-12-10
+  title: 要求彻查李克强死因的顾万明获刑
+  lane: society
+  summary: 美国之音和自由亚洲电台2025年2月引述维权网报道，新华社退休记者顾万明在李克强猝逝后发公开信，质疑官方只说心脏病、未说明抢救过程，要求停止火化以待调查，随即被刑拘；2024年11月被上海法院以寻衅滋事罪判刑一年，12月新华社取消其退休待遇。官方讣告称李克强因突发心脏病在上海逝世。
+  people: [li-keqiang]
+  factions: [tuanpai]
+  voices:
+    - voice: zh
+      text: 曾发表公开信要求官方彻查中国前总理李克强死因的新华社退休记者顾万明日前被披露去年11月被上海法院以“寻衅滋事”罪判处有期徒刑一年，随后又被新华社取消退休待遇。
+      cite: e06-voa-2025-02-gu-wanming
+      quote: true
+    - voice: zh
+      text: “李克强突然逝世后，有关方面没有向众人说明其死因、抢救过程，只说了‘因心脏病’，其中有很多疑点不可理解，
+      cite: e06-voa-2025-02-gu-wanming
+      quote: true
+    - voice: zh
+      text: 他提出的五项要求包括，停止遗体火化，以待调查；
+      cite: e06-rfa-2025-02-11-gu-wanming
+      quote: true
+    - voice: official
+      text: 国务院原总理李克强同志，因突发心脏病，经全力抢救无效，于2023年10月27日0时10分在上海逝世，享年68岁。
+      cite: xinhua-2023-11-02-li-keqiang-life
+      quote: true
+  cites: [e06-voa-2025-02-gu-wanming, e06-rfa-2025-02-11-gu-wanming, xinhua-2023-11-02-li-keqiang-life]
+
+# ---------- 2025–2026 ----------
+- id: e06-2025-he-weidong-missing
+  date: 2025-03-25
+  end: 2025-10-17
+  title: 何卫东从公众视野消失
+  lane: army
+  summary: 《华盛顿时报》2025年3月25日引述美国国防官员称，美国情报机构认为两会后消失十多天的军委副主席何卫东已是高层清洗的最新对象；国防部发言人吴谦回应称没有这方面的消息。4月《金融时报》称他已因涉贪被免职，是1967年贺龙以来首位被清洗的在职军委副主席。10月17日国防部宣布何卫东等九名上将被开除党籍。
+  people: [he-weidong, miao-hua, xi-jinping]
+  factions: [fujian-generals, he-miao]
+  voices:
+    - voice: zh
+      text: 美国情报机构认为从公众视野中消失10多天的何卫东是解放军高层政治清洗的最新受害者。
+      cite: e06-rfi-2025-03-27-he-weidong
+      quote: true
+    - voice: official
+      text: 当被问及相关报道，吴谦当天在记者会上回答说：“没有这方面的消息，不了解这方面的情况”。
+      cite: e06-rfi-2025-03-27-he-weidong
+      quote: true
+    - voice: zh
+      text: 英国《金融时报》报道，中共政治局委员、中央军委副主席的何卫东已被免去职务，有多名知情人士透露，免职事件涉及贪腐。
+      cite: e06-dw-2025-04-he-weidong
+      quote: true
+    - voice: scholar
+      text: 这是自1967年贺龙以来，首次有在职中央军委副主席被清洗
+      cite: e06-dw-2025-04-he-weidong
+      quote: true
+    - voice: official
+      text: 经党中央、中央军委批准，中央军委纪委监委陆续对中央政治局委员、中央军委副主席何卫东，……
+      cite: b08-mod-2025-10-17-nine-generals
+      quote: true
+  cites: [e06-rfi-2025-03-27-he-weidong, e06-dw-2025-04-he-weidong, b08-mod-2025-10-17-nine-generals]
+
+- id: e06-2025-xi-sidelined-rumour
+  date: 2025-05-21
+  end: 2025-07-07
+  title: “习近平被架空”传闻
+  lane: power
+  major: true
+  summary: 2025年5月下旬起习近平约两周未公开露面，大纪元、人民报等海外媒体引述所谓权威人士称，习近平表面在台上实则大势已去，温家宝、张又侠左右政局，何卫东已自杀身亡。7月习近平首次缺席金砖峰会，传闻再起。评论人邓聿文认为这类谣言反映部分人等待惊变。何卫东10月被开除党籍、移送检察机关，张又侠2026年1月反被立案审查。
+  people: [xi-jinping, wen-jiabao, zhang-youxia, he-weidong]
+  factions: [zhang-liu]
+  voices:
+    - voice: zh
+      text: 2025年5月底，大纪元从权威人士处获知，习近平表面仍在台上，实则大势已去，中共元老温家宝、中央军委第一副主席张又侠等，已成为左右中国政局的关键因素。
+      cite: e06-epoch-2025-06-06-xi-sidelined
+      quote: true
+    - voice: zh
+      text: 两会结束后被抓的军委副主席何卫东已自我了断（自杀身亡）。
+      cite: e06-epoch-2025-06-06-xi-sidelined
+      quote: true
+    - voice: zh
+      text: 目前控制军中实权的是军委副主席张又侠。
+      cite: e06-renminbao-2025-06-04-xi-power
+      quote: true
+    - voice: zh
+      text: 中国向巴西表明，习近平缺席峰会是因为日程安排有冲突
+      cite: e06-dw-2025-07-brics
+      quote: true
+    - voice: scholar
+      text: 海外一再传播习的各类谣言，除了反映一部分人“等待惊变”，希望看到习倒台，也是自媒体情绪经济的流量驱动所致。
+      cite: c10-dw-2025-xi-power-not-weakened
+      quote: true
+    - voice: official
+      text: 将涉嫌犯罪问题移送军事检察机关依法审查起诉。
+      cite: b08-mod-2025-10-17-nine-generals
+      quote: true
+  cites: [e06-epoch-2025-06-06-xi-sidelined, e06-renminbao-2025-06-04-xi-power, e06-dw-2025-07-brics, c10-dw-2025-xi-power-not-weakened, b08-mod-2025-10-17-nine-generals, k01-mod-2026-01-24-zhang-youxia-liu-zhenli]
+
+- id: e06-2026-jingxi-gunfight-rumour
+  date: 2026-01-25
+  end: 2026-01-27
+  title: “京西宾馆枪战”军变传闻
+  lane: army
+  major: true
+  summary: 张又侠、刘振立1月24日被宣布立案审查后，加拿大华裔记者盛雪次日在X上转述一名墙内友人的说法，称两人原准备在京西宾馆抓捕习近平，事泄后双方爆发枪战、各有死伤，禁闻网等转载扩散，但均未获证实。流亡记者赵兰健批评这类叙事完全依赖不可核查的转述。官方通报只说二人涉嫌严重违纪违法。
+  people: [zhang-youxia, liu-zhenli, xi-jinping]
+  factions: [zhang-liu]
+  voices:
+    - voice: zh
+      text: 结果就是，双方在京西宾馆发生激烈枪战，“习近平身边的警卫人员死了9个，张又侠的人死了几十个人。”
+      cite: e06-bannedbook-2026-01-26-jingxi
+      quote: true
+    - voice: zh
+      text: 但以上军变内容并未获得证实
+      cite: e06-bannedbook-2026-01-26-jingxi
+      quote: true
+    - voice: zh
+      text: 此類敘事完全依賴「X先生」、「牆內朋友」等不可核查的轉述，卻不斷疊加戲劇細節以增強「真實感」，更像吹噓的兒戲，而非嚴肅情報。
+      cite: e06-newtalk-2026-01-27-jingxi
+      quote: true
+    - voice: official
+      text: 中央政治局委员、中央军委副主席张又侠，中央军委委员、中央军委联合参谋部参谋长刘振立涉嫌严重违纪违法，经党中央研究，决定对张又侠、刘振立立案审查调查。
+      cite: k01-mod-2026-01-24-zhang-youxia-liu-zhenli
+      quote: true
+  cites: [e06-bannedbook-2026-01-26-jingxi, e06-newtalk-2026-01-27-jingxi, k01-mod-2026-01-24-zhang-youxia-liu-zhenli]

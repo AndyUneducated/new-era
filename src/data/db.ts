@@ -58,7 +58,8 @@ export class Atlas {
     for (const c of db.congresses)
       for (const [list, alt] of [[c.cc ?? [], false], [c.cca ?? [], true]] as const)
         for (const name of list) {
-          const id = byName.get(name)
+          // the lists keep disambiguating notes for namesakes: 张军（国家机关）
+          const id = byName.get(name) ?? byName.get(name.replace(/（[^）]*）$/, ''))
           if (id) push(this.ccOf, id, { n: c.n, alt })
         }
     for (const f of db.factions) this.faction.set(f.id, f)

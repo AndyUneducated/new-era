@@ -1,0 +1,324 @@
+# F07 (round 3): Xi Jinping's own factions — xi-jiajun, zhijiang, fujian, shaanxi, hebei-zhengding.
+web:
+  # --- reliable press ---
+  - id: f07-rfa-2020-11-20-xu-lingyi
+    title: 夜话中南海：习近平安插在中纪委里的浙江嫡系（高新）
+    publisher: 自由亚洲电台
+    author: 高新
+    date: 2020-11-20
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-11202020161407.html
+    excerpt: true
+    keep: [ 另外一名重要成员徐令义, 那么徐令义就是习近平的二秘, 赵洪祝自然会得到习近平的政治回报, 也陆续对当年在浙江还只是正厅和副厅级的徐令义, 后三人都是浙江生 ]
+  - id: f07-rfi-2024-04-02-tang-yijun
+    title: 前司法部长唐一军突被查 习亲信内斗加剧？
+    publisher: 法国国际广播电台
+    author: 安德烈
+    date: 2024-04-02
+    voice: west
+    url: https://www.rfi.fr/cn/中国/20240402-前司法部长唐一军突被查-习亲信内斗加剧
+    excerpt: true
+    keep: [ 千丝万缕的关系, 浙江省纪委常委、秘书长, 毕竟他是浙江帮重要成员, 最典型的代表是蔡奇 ]
+  - id: f07-zaobao-2023-03-13-zheng-shanjie
+    title: 郑栅洁接掌发改委 国务院“闽系”班底再壮大
+    publisher: 联合早报
+    author: 陈婧
+    date: 2023-03-13
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20230313-1371929
+    excerpt: true
+    keep: [ 新老发改委主任同为福建出身 ]
+  - id: f07-udn-2026-04-12-zheng-xi
+    title: 「鄭習會」大陸發改委主任鄭柵潔為何也上桌？
+    publisher: 联合报
+    author: 谢守真
+    date: 2026-04-12
+    voice: zh
+    url: https://udn.com/news/story/7331/9436525
+    excerpt: true
+    keep: [ 其餘四人均有福建背景，其中, 其他3人都是福建人, 鄭柵潔福建漳州人 ]
+  - id: f07-sun-2015-07-03-shaanjun
+    title: 一朝天子一朝臣 政壇陝軍漸崛起
+    publisher: 太阳报（香港）
+    date: 2015-07-03
+    voice: zh
+    url: https://web.archive.org/web/2015/http://the-sun.on.cc/cnt/china_world/20150703/00431_001.html
+    excerpt: true
+    keep: [ 中共政壇陝軍有四大悍將, 也是土生土長的陝西幹部, 與朝中有人好做官的淵源有關, 都是其核心圈子 ]
+  - id: f07-diplomat-2021-04-chen-yixin
+    title: "2022 Watch: Chen Yixin, Likely to Become China's Internal Security Commissar"
+    publisher: The Diplomat
+    date: 2021-04
+    voice: west
+    lang: en
+    url: https://thediplomat.com/2021/04/2022-watch-chen-yixin-likely-to-become-chinas-internal-security-commissar/
+    excerpt: true
+    keep: [ Chen is a prominent member of Xi’s next generation power base ]
+  - id: f07-zaobao-2022-10-24-politburo
+    title: 开启中共总书记第三任期 习近平组建忠诚者班底最高权力机构
+    publisher: 联合早报
+    author: 杨丹旭
+    date: 2022-10-24
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20221024-1325776
+    excerpt: true
+    keep: [ 预示这名习近平在浙江的旧部, 他曾是习近平在福建和浙江的旧部 ]
+  - id: f07-zaobao-2018-08-02-zhuang-rongwen
+    title: 宣传和网络舆情管理两机关 网信办国新办换主管
+    publisher: 联合早报
+    date: 2018-08-02
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20180802-879952
+    excerpt: true
+    keep: [ 两位新主管皆为中共总书记习近平的旧部, 庄荣文很可能曾是他的部下 ]
+  - id: f07-voa-2018-08-21-zhuang-rongwen
+    title: 习近平亲信出任大外宣及网络监管要职
+    publisher: 美国之音
+    date: 2018-08-21
+    voice: west
+    url: https://www.voachinese.com/a/news-china-appoints-new-global-propaganda-czar-20180821/4538007.html
+    excerpt: true
+    keep: [ 习近平的另一福建旧部庄荣文, 现年57岁的庄荣文曾长期在福建工作 ]
+  - id: f07-zaobao-2018-12-03-pei-jinjia
+    title: 厦门市委书记裴金佳据悉出任国台办副主任
+    publisher: 联合早报
+    date: 2018-12-03
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20181203-912771
+    excerpt: true
+    keep: [ 有说法显示，裴金佳曾是 ]
+  - id: f07-zaobao-2020-03-20-gong-zheng
+    title: 龚正出任上海市委副书记 料是新一任上海市长
+    publisher: 联合早报
+    date: 2020-03-20
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20200320-1038513
+    excerpt: true
+    keep: [ 龚正在浙江期间，曾与中共总书记习近平主政浙江时的老部下 ]
+  - id: f07-rfi-2020-03-23-gong-zheng
+    title: 龚正暂代应勇 港媒指印证习近平浙江储备军崛起
+    publisher: 法国国际广播电台
+    date: 2020-03-23
+    voice: west
+    url: https://www.rfi.fr/cn/中国/20200323-龚正暂代应勇-外媒指印证习近平浙江储备军崛起
+    excerpt: true
+    keep: [ 间接印证隶属习近平的浙江储备军, 提拔重用了很多浙江旧部，从现任中央军委办公厅主任钟绍军, 龚正在浙江虽没有与习近平共事的经历 ]
+  - id: f07-zaobao-2022-11-27-zhao-yide
+    title: 陕西省长赵一德升任陕西省委书记
+    publisher: 联合早报
+    date: 2022-11-27
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20221127-1337697
+    excerpt: true
+    keep: [ 赵一德曾长期在浙江任职 ]
+  # --- official ---
+  - id: f07-chinanews-2026-04-07-ye-hanbing
+    title: 四川省政府原副省长、省公安厅原厅长叶寒冰被公诉
+    publisher: 中国新闻网
+    date: 2026-04-07
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2026/04-07/10599661.shtml
+    start: 中新社北京4月7日电
+    end: 违规干预、插手执法活动”等。
+  - id: f07-ccdi-2024-10-07-tang-yijun
+    title: 江西省政协原党组书记、主席唐一军严重违纪违法被开除党籍和公职
+    publisher: 中国经济网（中央纪委国家监委网站消息）
+    date: 2024-10-07
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202410/07/t20241007_39159607.shtml
+    start: 经中共中央批准，中央纪委国家监委对江西省政协
+    end: 所涉财物一并移送。
+  - id: f07-court-2026-02-02-tang-yijun
+    title: 江西省政协原党组书记、主席唐一军受贿案一审宣判
+    publisher: 最高人民法院（人民法院新闻传媒总社）
+    date: 2026-02-02
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/488071.html
+    start: 2026年2月2日，福建省厦门市中级人民法院
+    end: 唐一军进行了最后陈述，并当庭表示认罪悔罪。
+  - id: f07-chinanews-2026-08-27-ye-jianchun
+    title: 江西省省长叶建春被查
+    publisher: 中国新闻网
+    date: 2026-08-27
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2026/08-27/10685382.shtml
+    start: 中新社北京8月27日电
+    end: 后任代省长、省长。
+  - id: f07-xinhua-2023-07-24-wang-shaojun
+    title: 王少军同志逝世
+    publisher: 新华社
+    date: 2023-07-24
+    voice: official
+    url: https://www.news.cn/2023-07/24/c_1129765178.htm
+    start: 新华社北京7月24日电
+    end: 他2016年晋升为中将军衔。
+  # --- rumor sources (rumor: true) ---
+  - id: f07-ntdtv-2017-11-08-new-armies
+    title: 成功收编“上海帮”？习近平“新四军”浮出水面
+    publisher: 新唐人电视台
+    date: 2017-11-08
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2017/11/08/a1349931.html
+    excerpt: true
+    keep: [ “新四军”人马，包括, “之江新军”主要指, “闽江新军”则以福建官员为主, 兼具“之江”与“闽江”两军血统, “新西北军”主要是, 至于“浦江新军” ]
+  - id: f07-epoch-2023-11-09-five-cliques
+    title: 钟原：习家军的各派系是如何形成的
+    publisher: 大纪元
+    author: 钟原
+    date: 2023-11-09
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/23/11/9/n14112652.htm
+    excerpt: true
+    keep: [ 习家军的各帮派实际是习近平一手促成的, 李强是浙江帮或之江新军的代表, 也有人认为赵乐际算新陕西帮, 黄坤明和蔡奇都曾在福建和浙江两地, 李希曾是李子奇的秘书, 北京市委书记尹力2020年曾任福建省委书记, 曾任陕西省委书记，被认为是新陕西帮, 李书磊是党校帮，也曾到福建工作过, 军委副主席何卫东来自原31军, 军委副主席张又侠算新陕西帮, 副总理何立峰是福建帮, 陈文清曾在福建工作，是福建帮, 广东省委书记黄坤明是福建帮, 五人都是习家军，但分属五个不同帮派, 公安部长王小洪是福建帮, 军纪委书记张升民是陕西人, 钟绍军都是贴身秘书, 最高检察院检察长应勇是浙江帮 ]
+  - id: f07-soh-shaanxi
+    title: 石穿云：习近平打造内斗基地 陕西帮群起升官
+    publisher: 希望之声
+    author: 石穿云
+    date: 2022-12
+    voice: zh
+    rumor: true
+    url: https://www.soundofhope.org/post/675450
+    excerpt: true
+    keep: [ 是习近平主政浙江时的旧部, 现在是属于习收编进习家军的一员, 被合称为, 现任吉林省委书记景俊海, 外交部党委书记齐玉, 孙新阳直接就是习近平老家陕西富平人, 郝鹏是陕西凤翔人, 延安市委书记赵刚预料将升任陕西省长 ]
+  - id: f07-soh-song-tao
+    title: 【红朝观察】新任国台办主任宋涛背后的福建帮
+    publisher: 希望之声
+    author: 张鑫
+    date: 2022-12
+    voice: zh
+    rumor: true
+    url: https://www.soundofhope.org/post/683172
+    excerpt: true
+    keep: [ 目前福建帮势力似乎最大, 宋涛是福建帮代表人物, 出身官场闽系, 是苗华的31军旧部, 网信办主任庄荣文，福建泉州人，习的旧部, 曾长期在福建公安系统任职, 不同程度上可以归入福建帮, 林武是福建闽侯人, 才算是真正的福建帮的帮主, 基本上是习近平的旧部亲信 ]
+  - id: f07-timednews-2022-10-04
+    title: 习近平“用人唯熟” 福建帮在军队中坐大 福祸难测
+    publisher: 时刻新闻
+    date: 2022-10-04
+    voice: zh
+    rumor: true
+    url: https://www.timednews.com/article/2022/10/04/24084.html
+    excerpt: true
+    keep: [ 福建帮头号亲信是公安部长王小洪, 军中福建帮有, 曾担任习大秘的现任上海市委书记李强, 习的浙江“熟人”, 丁是习主政上海时的大秘, 当中其实已经分成多个帮派 ]
+  - id: f07-epoch-2024-10-29-fujian
+    title: 福建幫群起搶權 蔡奇學弟任中共文宣要職
+    publisher: 大纪元
+    author: 宁海钟
+    date: 2024-10-29
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/b5/24/10/29/n14360029.htm
+    excerpt: true
+    keep: [ 福建幫現在掌握著許多關鍵位置, 現任中共高層官員中，福建籍的除了蔡奇, 宋與習關係密切, 早年在福建任職時就是習的鐵桿, 他和蔡奇、黃坤明以及宋濤是福師大校友, 沈丹陽是福建漳州人, 陳是掌控宣傳的政治局常委蔡奇的老鄉和學弟 ]
+  - id: f07-secretchina-2026-01-11-fujian
+    title: 習近平曾化名刺探臺灣 蔡奇對臺角色不尋常（杜政）
+    publisher: 看中国
+    author: 杜政
+    date: 2026-01-11
+    voice: zh
+    rumor: true
+    url: https://msearch.secretchina.com/news/b5/2026/01/11/1093335.html
+    excerpt: true
+    keep: [ 形成了一個習系的福建幫, 現在福建幫把持朝政, 形成以何衛東、苗華、林向陽等為代表的軍中福建幫 ]
+  - id: f07-secretchina-2020-09-05-zheng-shanjie
+    title: 习家军刷刷上位 前国台办副主任郑栅洁升浙江省长
+    publisher: 看中国
+    date: 2020-09-04
+    voice: zh
+    rumor: true
+    url: https://m.secretchina.com/news/gb/2020/09/05/945161.html
+    excerpt: true
+    keep: [ 被外界视为“习家军”一员, 赵一德也是习近平浙江旧部 ]
+  - id: f07-ntdtv-2014-12-18-zhengding
+    title: 揭秘习近平的政治同盟 最早始于正定
+    publisher: 新唐人电视台
+    date: 2014-12-18
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2014/12/18/a1162295.html
+    excerpt: true
+    keep: [ 结识下3位今天在政坛的追随者, 栗战书是习近平在正定执政期间最大的人事收获, 杨振武也是习近平在河北正定县工作时的同事, 正定期间习近平与刘源的关系, 成为他日后在政治上的有力支持者, 正定为习近平提供了最宝贵的贫贱之交 ]
+  - id: f07-epoch-2015-06-13-shaanjun
+    title: 习近平“陕军四黑马”突起 布局天津埋伏笔
+    publisher: 大纪元
+    author: 庄正明
+    date: 2015-06-13
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/15/6/13/n4456838.htm
+    excerpt: true
+    keep: [ 一批来自陕西政坛的官员正在跃升, 都属于“陕军”人物, 是“陕军”的关键人物, 陕西官员受重视有其原因 ]
+  - id: f07-powerapple-2015-10-03
+    title: 习近平班底成形（超级苹果网，Wayback）
+    publisher: 超级苹果网
+    date: 2015-10-03
+    voice: zh
+    rumor: true
+    url: https://web.archive.org/web/20151222130316/http:/www.powerapple.com/news/zhong-gang-tai/2015/10/3/2438047.html
+    excerpt: true
+    keep: [ 习、栗两人因此结识, 母亲家乡兼政治发迹地河北的官员, 河北籍的中央警卫局长王少军, 来自浙江的中财办副主任舒国增 ]
+  - id: f07-epoch-2020-08-02-zhao-yide
+    title: 习又升旧部 赵一德成最年轻省政府“一把手”
+    publisher: 大纪元
+    author: 张顿
+    date: 2020-08-02
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/20/8/2/n12301322.htm
+    excerpt: true
+    keep: [ 如浙江的所谓“之江新军”, 他的很多福建旧部也被提拔 ]
+  - id: f07-epoch-2025-05-22-ye-hanbing
+    title: 李燕铭：王岐山旧部巡视 之江新军叶寒冰落马
+    publisher: 大纪元
+    author: 李燕铭
+    date: 2025-05-22
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/25/5/21/n14514834.htm
+    excerpt: true
+    keep: [ 是习家军之江新军要员，并与赵一德, 是中共党魁习近平和前中纪委书记王岐山的旧部, 施克辉曾长期在中共浙江省委办公厅任职, 成为时任中纪委书记王岐山的“大管家”, 先后担任多名之江新军要员的下属, 之江新军分裂、内讧迹象日益公开化 ]
+  # --- Wikipedia (basic facts only) ---
+  - { id: f07-wiki-lou-yangsheng, title: 楼阳生（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/楼阳生, excerpt: true, keep: [ 楼阳生（1959年10月23日—）, 2003年2月，任中共丽水市委书记, 2014年6月19日，调任中共山西省委副书记, 2019年11月30日，升任中共山西省委书记, 2021年6月1日，调任中共河南省委书记, 2024年12月31日，因年龄到限 ] }
+  - { id: f07-wiki-shu-guozeng, title: 舒国增（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/舒国增, excerpt: true, keep: [ 舒国增（1956年8月—）, 历任中共浙江省委办公厅综合处处长 ] }
+  - { id: f07-wiki-bayanchaolu, title: 巴音朝鲁（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/巴音朝鲁, excerpt: true, keep: [ 1955年10月5日—, 2001年4月，46岁的巴音朝鲁离开团中央 ] }
+  - { id: f07-wiki-chen-derong, title: 陈德荣（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈德荣_(中国官员), excerpt: true, keep: [ 陈德荣（1961年3月—）, 1998年4月，陈德荣调任嘉兴市副市长, 2014年7月，调任宝钢集团有限公司 ] }
+  - { id: f07-wiki-liu-qi-jiangxi, title: 刘奇（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘奇, excerpt: true, keep: [ 刘奇（1957年9月—）, 2003年2月，任中共温州市委副书记、代市长, 2013年4月，升任中共浙江省委常委, 2016年2月，调任中共江西省委副书记, 2018年3月21日，接替鹿心社, 2023年3月10日，年满65岁 ] }
+  - { id: f07-wiki-xu-lingyi, title: 徐令义（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/徐令义, excerpt: true, keep: [ 徐令义（1958年4月—）, 2001年8月，任浙江省委宣传部副部长, 2008年4月，任国家信访局副局长, 并在随后召开的十九届中央纪委第一次全体会议上, 2023年3月，任政协第十四届全国委员会社会和法制委员会主任 ] }
+  - { id: f07-wiki-tang-yijun, title: 唐一军（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/唐一军, excerpt: true, keep: [ 唐一军（1961年3月19日—）, 2002年6月，任中共浙江省纪委常委、秘书长, 2016年8月，升任中共浙江省委常委、宁波市委书记, 2018年1月，正式当选为辽宁省人民政府省长, 2020年4月，出任司法部部长, 2023年1月，转任中共江西省政协党组书记 ] }
+  - { id: f07-wiki-zhao-yide, title: 赵一德（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/赵一德, excerpt: true, keep: [ 赵一德（1965年2月19日—）, 2003年12月，任共青团浙江省委书记, 2006年11月，任中共温州市委副书记, 2012年5月，任中共浙江省委秘书长, 2015年9月，任中共杭州市委书记, 2018年3月，调任中共河北省委副书记, 2022年11月，任中共陕西省委书记 ] }
+  - { id: f07-wiki-gong-zheng, title: 龚正（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/龚正, excerpt: true, keep: [ 龚正（1960年3月4日—）, 2008年12月，任浙江省人民政府副省长, 2015年8月11日，任中共山东省委副书记, 上海市十五届人大四次会议正式选举龚正为上海市市长, 同年9月4日，不再担任上海市市长职务 ] }
+  - { id: f07-wiki-ye-hanbing, title: 叶寒冰（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/叶寒冰, excerpt: true, keep: [ 叶寒冰（1965年10月—）, 2009年3月至2012年1月，任中国共产党温州市委员会, 2014年6月至2018年1月，任中共杭州市委常委, 2018年1月，任四川省人民政府副省长 ] }
+  - { id: f07-wiki-shi-kehui, title: 施克辉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/施克辉, excerpt: true, keep: [ 施克辉（1961年7月—）, 曾任中共金华市委办公室副主任, 2016年2月，任中共中央第一巡视组副组长, 2017年5月，任中共广东省委常委、纪委书记 ] }
+  - { id: f07-wiki-zhong-shan, title: 钟山（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/钟山_(官员), excerpt: true, keep: [ 钟山（1955年10月—）, 1976年，钟山进入长广煤矿教育处任干事, 2008年11月，任商务部副部长, 2021年3月，增补为全国政协经济委员会副主任 ] }
+  - { id: f07-wiki-shen-haixiong, title: 慎海雄（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/慎海雄, excerpt: true, keep: [ 慎海雄（1967年4月4日—）, 历任新华社浙江分社农村采访室记者, 2015年8月，任中共广东省委常委、宣传部部长 ] }
+  - { id: f07-wiki-zhu-guoxian, title: 朱国贤（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/朱国贤, excerpt: true, keep: [ 朱国贤（1964年9月—）, 2018年10月，任中共浙江省委常委、省委宣传部部长, 2021年11月，转任中共湖南省委副书记, 2023年1月，升任吉林省政协党组书记 ] }
+  - { id: f07-wiki-zheng-shanjie, title: 郑栅洁（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郑栅洁, excerpt: true, keep: [ 郑栅洁（1961年11月10日—）, 2005年12月，任厦门市发展和改革委员会主任, 2010年5月，任福建省发改委党组书记, 2017年12月，任中共浙江省委常委、宁波市委书记, 2020年9月，任浙江省人民政府副省长、代理省长, 2021年9月，任中共安徽省委书记, 2023年3月，在第十四届全国人民代表大会第一次会议上 ] }
+  - { id: f07-wiki-pei-jinjia, title: 裴金佳（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/裴金佳, excerpt: true, keep: [ 裴金佳（1963年8月—）, 1999年1月，任中共开元区委副书记、区长, 2010年4月，任中共南平市委副书记, 2018年11月，任中共中央台湾工作办公室, 2022年4月，裴金佳升任退役军人事务部党组书记 ] }
+  - { id: f07-wiki-zhuang-rongwen, title: 庄荣文（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/庄荣文, excerpt: true, keep: [ 庄荣文（1961年2月22日—）, 2010年12月，任国务院侨务办公室经济科技司司长, 2014年6月，任国务院侨务办公室副主任, 2018年7月，任中共中央宣传部副部长、中央网络安全 ] }
+  - { id: f07-wiki-lin-rui, title: 林锐（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/林锐, excerpt: true, keep: [ 林锐（1967年8月12日—）, 林锐毕业于中国人民警官大学, 2013年10月，接替王小洪任厦门市人民政府市长助理, 2018年6月，调任公安部任党委委员 ] }
+  - { id: f07-wiki-lin-wu, title: 林武（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/林武_(1962年), excerpt: true, keep: [ 林武（1962年2月—）, 2016年1月，任中共吉林省委常委, 2019年12月，任山西省人民政府党组书记, 2021年6月，任中共山西省委书记, 2022年12月，任中共山东省委书记 ] }
+  - { id: f07-wiki-xu-kunlin, title: 许昆林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/许昆林, excerpt: true, keep: [ 许昆林（1965年5月—）, 2017年3月，被任命为上海市人民政府副市长, 2020年9月，调任中共江苏省委常委、苏州市委书记, 2021年10月，升任中共江苏省委副书记, 2025年9月，调任中共辽宁省委书记 ] }
+  - { id: f07-wiki-zheng-xincong, title: 郑新聪（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郑新聪, excerpt: true, keep: [ 郑新聪（1963年11月—）, 2012年1月，任中共宁德市委副书记、市长, 2018年1月31日，郑新聪当选福建省人民政府副省长, 2022年5月30日，升任澳门中联办主任, 2023年7月11日，担任中共中央港澳工作办公室副主任 ] }
+  - { id: f07-wiki-huang-jianfa, title: 黄建发（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/黄建发, excerpt: true, keep: [ 黄建发（1965年1月—）, 1988年8月进入国家地震局, 2018年7月，调任中共浙江省委常委、组织部部长, 2023年3月，任中共中央组织部副部长 ] }
+  - { id: f07-wiki-pan-xianzhang, title: 潘贤掌（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/潘贤掌, excerpt: true, keep: [ 1972年9月—, 1999年7月，博士毕业后到福建省地税部门工作, 2005年11月，通过公选并跨省调往山西省任职, 跨省升任江苏省人民政府副省长, 2022年8月，进京赴任中共中央台湾工作办公室 ] }
+  - { id: f07-wiki-shen-danyang, title: 沈丹阳（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/沈丹阳, excerpt: true, keep: [ 沈丹阳（1965年2月—）, 1985年7月，毕业于厦门大学对外贸易系, 2018年8月，任海南省人民政府副省长, 2024年9月，任国务院研究室主任 ] }
+  - { id: f07-wiki-chen-jianwen, title: 陈建文（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/陈建文, excerpt: true, keep: [ 陈建文（1965年9月—）, 曾任中国文联副主席, 2024年10月28日，调任人民日报社总编辑 ] }
+  - { id: f07-wiki-hou-jianguo, title: 侯建国（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/侯建国, excerpt: true, keep: [ 侯建国（1959年10月29日—）, 2015年1月24日，侯建国进入政界 ] }
+  - { id: f07-wiki-ding-laihang, title: 丁来杭（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/丁来杭, excerpt: true, keep: [ 丁来杭（1957年9月—）, 中国人民解放军空军指挥学院政治专业毕业 ] }
+  - { id: f07-wiki-liu-cigui, title: 刘赐贵（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/刘赐贵, excerpt: true, keep: [ 刘赐贵（1955年9月18日—）, 1983年7月，任中共邵武县委常委, 2011年2月，转任国土资源部党组成员, 2014年12月，任中共海南省委副书记, 2017年4月1日，任中共海南省委书记 ] }
+  - { id: f07-wiki-wang-zhimin, title: 王志民（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王志民_(1957年), excerpt: true, keep: [ 王志民（1957年4月—）, 1975年，在福建省将乐县插队, 1998年，任厦门市市长助理, 2006年，任中央政府驻港联络办副秘书长, 2017年9月，接替调任国务院港澳事务办公室主任的张晓明, 2022年6月24日，任第十三届全国人民代表大会民族委员会副主任委员 ] }
+  - { id: f07-wiki-ye-jianchun, title: 叶建春（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/叶建春, excerpt: true, keep: [ 叶建春（1965年7月—）, 早年毕业于华东水利学院, 2021年2月，任中共江西省委副书记 ] }
+  - { id: f07-wiki-wang-dongfeng, title: 王东峰（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王东峰, excerpt: true, keep: [ 王东峰（1958年2月—）, 1989年8月，王东峰任西安市工商行政管理局法规处处长, 王东峰在中共中央党校中青班学习, 2004年7月，王东峰任国家工商行政管理总局, 2013年4月18日，王东峰出任中共天津市委副书记, 接替赵克志出任中共河北省委书记, 2023年3月10日，在中国人民政治协商会议第十四届全国委员会上 ] }
+  - { id: f07-wiki-jing-junhai, title: 景俊海（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/景俊海, excerpt: true, keep: [ 景俊海（1960年12月20日—）, 2005年11月，任中共西安市委常委, 2015年7月，景俊海调任中共中央宣传部副部长, 2018年1月，出任中共吉林省委副书记, 2020年11月，升任中共吉林省委书记, 2024年6月，63岁的景俊海 ] }
+  - { id: f07-wiki-gao-xuanmin, title: 高选民（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/高选民, excerpt: true, keep: [ 高选民（1957年11月17日—）, 1980年，高选民考入陕西师范大学中文系, 2016年7月，任中共中央组织部副部长 ] }
+  - { id: f07-wiki-li-jinbin, title: 李锦斌（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/李锦斌, excerpt: true, keep: [ 李锦斌（1958年2月—）, 2007年4月，调升中共陕西省委常委, 2013年4月，调安徽省工作, 2021年9月30日，卸任中共安徽省委书记 ] }
+  - { id: f07-wiki-jiang-zelin, title: 江泽林（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/江泽林, excerpt: true, keep: [ 江泽林（1959年10月—）, 2011年1月，江泽林调陕西省工作, 2015年4月，中华人民共和国国务院任命江泽林为国务院副秘书长 ] }
+  - { id: f07-wiki-zhao-gang, title: 赵刚（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/赵刚_(1968年), excerpt: true, keep: [ 赵刚（1968年6月—）, 2017年9月调任中国一重集团, 2018年10月，出任陕西省人民政府副省长, 2021年1月，任中共陕西省委常委、延安市委书记, 2023年1月，正式当选为陕西省人民政府省长 ] }
+  - { id: f07-wiki-qi-yu, title: 齐玉（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/齐玉, excerpt: true, keep: [ 齐玉（1961年4月—）, 2007年11月，升任中共青海省委常委, 2015年12月，任中共中央组织部副部长, 2019年1月，接替届龄退休的张业遂 ] }
+  - { id: f07-wiki-sun-xinyang, title: 孙新阳（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/孙新阳, excerpt: true, keep: [ 孙新阳（1964年6月—）, 2012年4月，升任中共海南省委常委, 2016年11月，任中共江西省委常委, 2020年3月，调任中央纪委国家监委驻公安部, 2022年10月，当选为中共中央纪委副书记 ] }
+  - { id: f07-wiki-hao-peng, title: 郝鹏（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/郝鹏_(1960年), excerpt: true, keep: [ 郝鹏（1960年7月7日—）, 曾任中共西藏自治区党委副书记, 2013年3月，出任中共青海省委副书记, 2022年11月，任中共辽宁省委书记, 2025年9月，不再担任中共辽宁省委书记职务 ] }
+  - { id: f07-wiki-yang-zhenwu, title: 杨振武（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/杨振武, excerpt: true, keep: [ 杨振武（1955年5月—）, 1975年4月加入中国共产党。1978年毕业于南开大学, 2004年任人民日报社编辑委员会委员, 63岁的杨振武当选为全国人大常委会秘书长 ] }
+  - { id: f07-wiki-ni-yuefeng, title: 倪岳峰（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/倪岳峰, excerpt: true, keep: [ 倪岳峰（1964年9月—）, 2011年3月，倪岳峰任福建省人民政府副省长, 2017年6月，53岁的倪岳峰任海关总署副署长, 2022年4月，倪岳峰外放河北, 2026年7月31日，中共中央决定倪岳峰不再担任河北省委书记 ] }
+  - { id: f07-wiki-wang-ning-yunnan, title: 王宁 (1961年)（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王宁_(1961年), excerpt: true, keep: [ 王宁（1961年4月—）, 1983年6月加入中国共产党，1983年8月大学毕业后进入建设部工作, 2015年12月，转任中共福建省委常委、组织部部长, 2021年10月19日，调任中共云南省委书记 ] }
+  - { id: f07-wiki-wang-shaojun, title: 王少军（维基百科）, publisher: 维基百科, voice: wiki, url: https://zh.wikipedia.org/zh-hans/王少军, excerpt: true, keep: [ 王少军（1955年8月—2023年4月26日）, 任中央警卫局副局长 ] }

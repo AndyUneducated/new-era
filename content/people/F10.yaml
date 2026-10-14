@@ -1,0 +1,931 @@
+# F10 dossier cards (tier 2): army factions and the generals named in the 2023–2026 purges
+# equipment-system / rocket force / strategic support force
+- id: ju-xinchun
+  name: 鞠新春
+  gender: m
+  born: 1965
+  birthplace: 山东青州
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2023 年 12 月被罢免全国人大代表；官方未公布立案审查或处分结果。
+  fall:
+    - { date: 2023-12-29, text: 全国人大常委会公告：海军军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+  tier: 2
+  headline: 南部战区海军原司令员，海军中将
+  ids: { wikidata: Q117746174 }
+  bio: >-
+    海军出身，曾任哈尔滨号驱逐舰舰长、南海舰队装备部部长和副司令员，2021 年任中央军委装备发展部副部长兼载人航天工程副总指挥，2023 年 2 月任南部战区海军司令员。
+    同年 12 月与张育林、饶文敏等 9 名将领一起被罢免全国人大代表，寇健文认为这批人集中在火箭军与装备采购系统。
+  positions:
+    - { title: 南海舰队装备部部长, sys: army, from: 2015, to: 2016-04, cite: f10-wiki-ju-xinchun }
+    - { title: 南海舰队副司令员, sys: army, from: 2016-04, cite: f10-wiki-ju-xinchun }
+    - { title: 中央军委装备发展部副部长, sys: army, from: 2021, to: 2023-02, cite: f10-wiki-ju-xinchun }
+    - { title: 南部战区副司令员兼南部战区海军司令员, sys: army, from: 2023-02, to: 2023, cite: f10-wiki-ju-xinchun }
+  assess:
+    - voice: zh
+      text: 这次被罢免的军方人大代表，背景大多为技术军官，且集中在火箭军与装备采购系统
+      cite: f10-dw-2023-12-29-nine-generals
+      quote: true
+  cites: [wd-Q117746174, f10-wiki-ju-xinchun, c03-xinhua-2023-12-29-npc-notice-2, f10-dw-2023-12-29-nine-generals]
+
+- id: sun-jinming
+  name: 孙金明
+  gender: m
+  born: 1965-03
+  birthplace: 江苏泰州
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 7 月二十届三中全会确认其被开除党籍；未见审判报道。
+  fall:
+    - { date: 2024-07-18, text: 二十届三中全会确认中央政治局此前给予其开除党籍的处分, cite: c03-gov-2024-07-18-third-plenum }
+  tier: 2
+  headline: 火箭军原参谋长，中将
+  ids: { wikidata: Q112966479 }
+  bio: >-
+    长期在第二炮兵服役，历任导弹旅旅长、二炮合同战术训练基地副司令员和 52 基地副司令员，2017 年起先后任火箭军 69 基地、64 基地司令员，2022 年 3 月升任火箭军参谋长。
+    2024 年 7 月三中全会确认他与李尚福、李玉超一并被开除党籍。
+  positions:
+    - { title: 第二炮兵第52基地副司令员, sys: army, from: 2015, cite: f10-wiki-sun-jinming }
+    - { title: 火箭军第69基地司令员, sys: army, from: 2017, to: 2018, cite: f10-wiki-sun-jinming }
+    - { title: 火箭军第64基地司令员, sys: army, from: 2018, to: 2022-03, cite: f10-wiki-sun-jinming }
+    - { title: 火箭军参谋长, sys: army, from: 2022-03, cite: f10-wiki-sun-jinming }
+  cites: [wd-Q112966479, f10-wiki-sun-jinming, c03-gov-2024-07-18-third-plenum]
+
+- id: zhang-fengzhong
+  name: 张凤中
+  gender: m
+  born: 1966-03-08
+  birthplace: 江苏新沂
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 10 月四中全会确认其被开除党籍；未见审判报道。
+  fall:
+    - { date: 2025-10-23, text: 二十届四中全会确认中央政治局此前给予其开除党籍的处分, cite: e04-gov-2025-10-23-4th-plenum }
+  tier: 2
+  headline: 火箭军政治工作部原主任，中将
+  ids: { wikidata: Q86730612 }
+  bio: >-
+    西安第二炮兵工程学院毕业，长期在二炮和火箭军做政治工作，历任 53 基地政治部主任和 51、65、66 基地政委，2023 年 4 月升任火箭军政治工作部主任。
+    2025 年 10 月四中全会确认他与何卫东、苗华等人一并被开除党籍；詹姆斯敦基金会称他表面上也属陕西帮。
+  positions:
+    - { title: 火箭军第53基地政治部主任, sys: army, to: 2016-07, cite: f10-wiki-zhang-fengzhong }
+    - { title: 火箭军第51基地政治委员, sys: army, from: 2016-07, to: 2017-03, cite: f10-wiki-zhang-fengzhong }
+    - { title: 火箭军第65基地政治委员, sys: army, from: 2017-03, to: 2019-03, cite: f10-wiki-zhang-fengzhong }
+    - { title: 火箭军第66基地政治委员, sys: army, from: 2019-03, to: 2023-04, cite: f10-wiki-zhang-fengzhong }
+    - { title: 火箭军政治工作部主任, sys: army, from: 2023-04, cite: f10-wiki-zhang-fengzhong }
+  assess:
+    - voice: scholar
+      text: A second data point is the purging of Rocket Force general Zhang Fengzhong (张凤中), also ostensibly a Shaanxi gang member
+      zh: 第二个迹象是火箭军将领张凤中被清洗，他表面上也是陕西帮成员。
+      cite: b08-jamestown-2025-11-purification
+      quote: true
+  cites: [wd-Q86730612, f10-wiki-zhang-fengzhong, e04-gov-2025-10-23-4th-plenum, b08-jamestown-2025-11-purification]
+
+- id: xu-xueqiang
+  name: 许学强
+  gender: m
+  born: 1962-11
+  birthplace: 湖南益阳
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2025 年 10 月起缺席四中全会等场合；2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：中央军委装备发展部军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 中央军委装备发展部原部长，空军上将
+  ids: { wikidata: Q65062337 }
+  bio: >-
+    空军航空兵出身，曾任空军上海指挥所司令员、南京军区空军参谋长、北部战区空军司令员和国防大学校长，2022 年 10 月接替李尚福任中央军委装备发展部部长兼载人航天工程总指挥。
+    2026 年 6 月被罢免全国人大代表；詹姆斯敦基金会把他的落马放在拆除张又侠庇护网络的脉络中。
+  positions:
+    - { title: 南京军区空军参谋长, sys: army, from: 2014, to: 2016, cite: f10-wiki-xu-xueqiang }
+    - { title: 东部战区空军参谋长, sys: army, from: 2016, to: 2017-08, cite: f10-wiki-xu-xueqiang }
+    - { title: 北部战区副司令员兼北部战区空军司令员, sys: army, from: 2017-08, to: 2021-08, cite: f10-wiki-xu-xueqiang }
+    - { title: 国防大学校长, sys: army, from: 2021-08, to: 2022-10, cite: f10-wiki-xu-xueqiang }
+    - { title: 中央军委装备发展部部长, sys: army, from: 2022-10, cite: f10-wiki-xu-xueqiang }
+    - { title: 第二十届中央委员, sys: party, from: 2022-10, cite: f10-wiki-xu-xueqiang }
+  assess:
+    - voice: scholar
+      text: Xu Xueqiang succeeded Li Shangfu (李尚福) as head of the CMC Equipment Development Department, who himself succeeded Zhang Youxia in the role
+      zh: 许学强接替李尚福任军委装备发展部部长，而李尚福本人又是接替张又侠担任此职。
+      cite: f10-jamestown-2026-07-six-generals
+      quote: true
+  cites: [wd-Q65062337, f10-wiki-xu-xueqiang, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+- id: wang-kangping
+  name: 王抗平
+  gender: m
+  born: 1965
+  birthplace: 湖南益阳
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：东部战区军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 联勤保障部队原司令员，空军中将
+  ids: { wikidata: Q114802794 }
+  bio: >-
+    空军出身，曾任空军航空兵第 42 师师长、成都军区空军副参谋长，2017 年 12 月任空军武器试验基地司令员，2021 年任东部战区副司令员，2024 年 10 月调任联勤保障部队司令员。
+    2026 年 6 月被罢免全国人大代表；詹姆斯敦基金会指出他执掌试验基地时正值李尚福主管装备发展部。
+  positions:
+    - { title: 成都军区空军副参谋长, sys: army, cite: f10-wiki-wang-kangping }
+    - { title: 空军武器试验基地司令员, sys: army, from: 2017-12, to: 2021-06, cite: f10-wiki-wang-kangping }
+    - { title: 东部战区副司令员, sys: army, from: 2021-06, to: 2024-10, cite: f10-wiki-wang-kangping }
+    - { title: 联勤保障部队司令员, sys: army, from: 2024-10, cite: f10-wiki-wang-kangping }
+  cites: [wd-Q114802794, f10-wiki-wang-kangping, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+- id: li-fengbiao
+  name: 李凤彪
+  gender: m
+  born: 1959-10
+  birthplace: 河北安新
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：西部战区军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 西部战区原政委、战略支援部队原司令员，上将
+  ids: { wikidata: Q11095562 }
+  bio: >-
+    空降兵出身，历任空降兵第 44 师师长、第 15 军参谋长和军长，2014 年任成都军区副司令员，2016 年任中部战区副司令员兼参谋长，2019 年接替高津任战略支援部队司令员，2021 年转任西部战区政委。
+    2026 年 6 月被罢免全国人大代表。
+  positions:
+    - { title: 空降兵第44师师长, sys: army, from: 2005, to: 2007, cite: f10-wiki-li-fengbiao }
+    - { title: 空降兵第15军军长, sys: army, from: 2011-07, to: 2014-12, cite: f10-wiki-li-fengbiao }
+    - { title: 成都军区副司令员, sys: army, from: 2014-12, to: 2016-01, cite: f10-wiki-li-fengbiao }
+    - { title: 中部战区副司令员兼参谋长, sys: army, from: 2016-01, to: 2019-04, cite: f10-wiki-li-fengbiao }
+    - { title: 战略支援部队司令员, sys: army, from: 2019-04, to: 2021-07, cite: f10-wiki-li-fengbiao }
+    - { title: 西部战区政治委员, sys: army, from: 2021-07, cite: f10-wiki-li-fengbiao }
+  cites: [wd-Q11095562, f10-wiki-li-fengbiao, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+- id: zhang-minghua
+  name: 张明华
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：网络空间部队军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 网络空间部队首任司令员，中将
+  ids: { wikidata: Q136118165 }
+  bio: >-
+    总参谋部系统出身，曾任总参某部副部长、战略支援部队副参谋长，2023 年升任战略支援部队副司令员，2024 年 4 月战略支援部队撤编后出任新组建的网络空间部队首任司令员。
+    2026 年 6 月被罢免全国人大代表。
+  positions:
+    - { title: 战略支援部队副参谋长, sys: army, cite: f10-wiki-zhang-minghua }
+    - { title: 战略支援部队副司令员, sys: army, from: 2023, to: 2024-04, cite: f10-wiki-zhang-minghua }
+    - { title: 网络空间部队司令员, sys: army, from: 2024-04, cite: f10-wiki-zhang-minghua }
+  cites: [wd-Q136118165, f10-wiki-zhang-minghua, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+- id: ju-qiansheng
+  name: 巨乾生
+  gender: m
+  born: 1962-05
+  birthplace: 陕西宝鸡
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2026 年 8 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-08-28, text: 全国人大常委会公告：信息支援部队军人代表大会决定罢免其第十四届全国人大代表职务, cite: c07-xinhua-2026-08-28-npc-deputies }
+  tier: 2
+  headline: 战略支援部队原司令员，上将
+  ids: { wikidata: Q85352703 }
+  bio: >-
+    西安电子科技大学毕业，长期在总参技术侦察系统工作，曾任总参技术侦察部副部长，2018 年任战略支援部队网络系统部司令员，2021 年 6 月接替李凤彪任战略支援部队司令员。
+    2026 年 8 月与张又侠、刘振立列在同一份公告中被罢免全国人大代表。
+  positions:
+    - { title: 总参谋部技术侦察部副部长, sys: army, cite: f10-wiki-ju-qiansheng }
+    - { title: 战略支援部队网络系统部司令员, sys: army, from: 2018, to: 2021-06, cite: f10-wiki-ju-qiansheng }
+    - { title: 战略支援部队司令员, sys: army, from: 2021-06, cite: f10-wiki-ju-qiansheng }
+    - { title: 第二十届中央委员, sys: party, from: 2022-10, cite: f10-wiki-ju-qiansheng }
+  cites: [wd-Q85352703, f10-wiki-ju-qiansheng, c07-xinhua-2026-08-28-npc-deputies]
+
+- id: gao-jin
+  name: 高津
+  gender: m
+  born: 1959-04
+  birthplace: 江苏靖江
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2022 年 1 月提前卸任后勤保障部部长；2026 年 3 月被撤销全国政协委员资格，官方未说明原因。
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、经济委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 战略支援部队首任司令员，上将
+  ids: { wikidata: Q17164346 }
+  bio: >-
+    二炮出身，历任 52 基地司令员、第二炮兵参谋长，2014 年底任军事科学院院长，2015 年底出任新成立的战略支援部队首任司令员，2019 年转任中央军委后勤保障部部长，2022 年 1 月提前退役。
+    2026 年 3 月与韩卫国、刘雷同日被撤销全国政协委员资格。
+  positions:
+    - { title: 第二炮兵第52基地司令员, sys: army, from: 2009-03, to: 2011-12, cite: f10-wiki-gao-jin }
+    - { title: 第二炮兵参谋长, sys: army, from: 2011-12, to: 2014-07, cite: f10-wiki-gao-jin }
+    - { title: 军事科学院院长, sys: army, from: 2014-12, to: 2015-12, cite: f10-wiki-gao-jin }
+    - { title: 战略支援部队司令员, sys: army, from: 2015-12, to: 2019-04, cite: f10-wiki-gao-jin }
+    - { title: 中央军委后勤保障部部长, sys: army, from: 2019-04, to: 2022-01, cite: f10-wiki-gao-jin }
+    - { title: 全国政协常委、经济委员会副主任, sys: other, from: 2023-03, to: 2026-03, cite: f10-xinhua-2026-03-02-cppcc }
+  cites: [wd-Q17164346, f10-wiki-gao-jin, f10-xinhua-2026-03-02-cppcc, f10-singtao-2026-03-02-three-generals]
+
+- id: yin-hongxing
+  name: 尹红星
+  gender: m
+  born: 1967-03
+  birthplace: 河南长垣
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：陆军军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 南部战区陆军原政委，中将
+  ids: { wikidata: Q111693024 }
+  bio: >-
+    陆军政工干部，曾任第 54 集团军 162 师政委、南部战区陆军纪委副书记，2018 年任第 71 集团军政委，2021 年任西藏军区政委并于 2023 年进入西藏自治区党委常委，2024 年 7 月转任南部战区陆军政委。
+    2026 年 6 月被罢免全国人大代表。
+  positions:
+    - { title: 陆军第54集团军162师政治委员, sys: army, cite: f10-wiki-yin-hongxing }
+    - { title: 南部战区陆军纪委副书记, sys: army, from: 2016, cite: f10-wiki-yin-hongxing }
+    - { title: 陆军第71集团军政治委员, sys: army, from: 2018-05, to: 2021-12, cite: f10-wiki-yin-hongxing }
+    - { title: 西藏军区政治委员, sys: army, place: 西藏, from: 2021-12, to: 2024-07, cite: f10-wiki-yin-hongxing }
+    - { title: 西藏自治区党委常委, sys: party, place: 西藏, from: 2023-03, to: 2024-07, cite: f10-wiki-yin-hongxing }
+    - { title: 南部战区陆军政治委员, sys: army, from: 2024-07, cite: f10-wiki-yin-hongxing }
+  assess:
+    - voice: scholar
+      text: neither he nor Yin Hongxing have a clear connection to Zhang Youxia’s faction
+      zh: 他（郭普校）和尹红星都与张又侠派系没有明确关联。
+      cite: f10-jamestown-2026-07-six-generals
+      quote: true
+  cites: [wd-Q111693024, f10-wiki-yin-hongxing, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+- id: guo-puxiao
+  name: 郭普校
+  gender: m
+  born: 1964-01
+  birthplace: 陕西耀县
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 12 月缺席晋升上将仪式；2026 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-06-26, text: 全国人大常委会公告：空军军人代表大会决定罢免其第十四届全国人大代表职务, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 空军原政委，上将
+  ids: { wikidata: Q104381961 }
+  bio: >-
+    空降兵第 15 军政工干部出身，2011 年任 15 军政治部主任，2014 年任 15 军政委，2017 年任中部战区副政委兼战区空军政委，2019 年任中央军委后勤保障部政委，2022 年 1 月起任空军政委。
+    2026 年 6 月被罢免全国人大代表；詹姆斯敦基金会指出他与李凤彪都在空降兵第 15 军任过要职。
+  positions:
+    - { title: 空降兵第15军政治部主任, sys: army, from: 2011-07, to: 2014, cite: f10-wiki-guo-puxiao }
+    - { title: 空降兵第15军政治委员, sys: army, from: 2014, to: 2017, cite: f10-wiki-guo-puxiao }
+    - { title: 中部战区副政委兼战区空军政委, sys: army, from: 2017, to: 2019-12, cite: f10-wiki-guo-puxiao }
+    - { title: 中央军委后勤保障部政治委员, sys: army, from: 2019-12, to: 2022-01, cite: f10-wiki-guo-puxiao }
+    - { title: 空军政治委员, sys: army, from: 2022-01, cite: f10-wiki-guo-puxiao }
+  cites: [wd-Q104381961, f10-wiki-guo-puxiao, c03-xinhua-2026-06-26-npc-notice-18, f10-jamestown-2026-07-six-generals]
+
+# fujian-generals: the former 31st Group Army (now the 73rd)
+- id: han-weiguo
+  name: 韩卫国
+  gender: m
+  born: 1956-01
+  birthplace: 河北井陉
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2021 年 6 月退出现役；2026 年 3 月被撤销全国政协委员资格，官方未说明原因。
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、提案委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 陆军原司令员、中部战区首任司令员，上将
+  ids: { wikidata: Q16908099 }
+  bio: >-
+    福建省军区独立师战士出身，1983 年调入驻福建的第 31 军 91 师，历任团长、副师长、31 军副参谋长，东网称他曾任 31 军军长；2013 年任北京军区副司令员，2016 年任中部战区司令员，2017 年 8 月至 2021 年 6 月任陆军司令员。
+    2026 年 3 月被撤销全国政协委员资格。
+  positions:
+    - { title: 陆军第31军91师273团参谋长, sys: army, place: 福建, from: 1983, cite: f10-wiki-han-weiguo }
+    - { title: 陆军第31集团军副参谋长, sys: army, cite: f10-wiki-han-weiguo }
+    - { title: 陆军第31集团军军长, sys: army, cite: f10-onc-2015-09-16-31st-army }
+    - { title: 北京军区副司令员, sys: army, from: 2013-12, to: 2016-02, cite: f10-wiki-han-weiguo }
+    - { title: 中部战区司令员, sys: army, from: 2016-02, to: 2017-08, cite: f10-wiki-han-weiguo }
+    - { title: 陆军司令员, sys: army, from: 2017-08, to: 2021-06, cite: f10-wiki-han-weiguo }
+    - { title: 全国人大外事委员会副主任委员, sys: gov, from: 2021-08, to: 2023-03, cite: f10-wiki-han-weiguo }
+    - { title: 全国政协常委、提案委员会副主任, sys: other, from: 2023-03, to: 2026-03, cite: f10-xinhua-2026-03-02-cppcc }
+  cites: [wd-Q16908099, f10-wiki-han-weiguo, f10-xinhua-2026-03-02-cppcc, f10-onc-2015-09-16-31st-army, f02-rfi-2018-10-25-southeast-army]
+
+- id: wang-ning-pap
+  name: 王宁
+  gender: m
+  born: 1955-08
+  birthplace: 山东荣成（生于江苏南京）
+  roles: [general, cc]
+  status: retired
+  statusNote: 2020 年 12 月到龄退役，2023 年起任全国政协外事委员会副主任；未见被查消息。
+  tier: 2
+  headline: 武警部队原司令员，武警上将
+  ids: { wikidata: Q8292764 }
+  bio: >-
+    原南京军区炮兵出身，长期在第 12 集团军，1994 年调入驻福建的第 31 集团军，历任防空旅旅长、集团军副参谋长、91 师师长，2007 年接替蔡英挺任 31 集团军军长；后任北京军区参谋长、副总参谋长，2014 年至 2020 年任武警部队司令员。
+  positions:
+    - { title: 陆军第12集团军36师高射炮兵团团长, sys: army, from: 1986-10, to: 1992-10, cite: f10-wiki-wang-ning }
+    - { title: 陆军第31集团军91师师长, sys: army, place: 福建, cite: f10-wiki-wang-ning }
+    - { title: 上海警备区参谋长, sys: army, place: 上海, from: 2003-12, to: 2006-11, cite: f10-wiki-wang-ning }
+    - { title: 江西省军区司令员, sys: army, place: 江西, from: 2006-11, to: 2007-11, cite: f10-wiki-wang-ning }
+    - { title: 陆军第31集团军军长, sys: army, from: 2007-11, to: 2010-12, cite: f10-wiki-wang-ning }
+    - { title: 北京军区参谋长, sys: army, from: 2010-12, to: 2013-06, cite: f10-wiki-wang-ning }
+    - { title: 副总参谋长, sys: army, from: 2013-06, to: 2014-12, cite: f10-wiki-wang-ning }
+    - { title: 武警部队司令员, sys: army, from: 2014-12, to: 2020-12, cite: f10-wiki-wang-ning }
+    - { title: 全国人大宪法和法律委员会副主任委员, sys: gov, from: 2021-02, to: 2023-03, cite: f10-wiki-wang-ning }
+  assess:
+    - voice: zh
+      text: 而王宁在福建31集团军工作期间，就与时任福建省领导的习近平熟识。
+      cite: f10-ntdtv-2015-01-11-31st-army
+      quote: true
+  cites: [wd-Q8292764, f10-wiki-wang-ning, f10-onc-2015-09-16-31st-army, f10-diplomat-2014-12-30-31st-army]
+
+- id: cai-yingting
+  name: 蔡英挺
+  gender: m
+  born: 1954-04
+  birthplace: 福建晋江
+  roles: [general, cc]
+  status: retired
+  statusNote: 2017 年 1 月卸任军事科学院院长后未再见任职；未见被查消息。
+  tier: 2
+  headline: 南京军区原司令员，上将
+  ids: { wikidata: Q8291808 }
+  bio: >-
+    福建晋江人，1970 年入伍，长期在南京军区，1996 年起任军委副主席张万年秘书，2004 年至 2007 年任第 31 集团军军长，后任南京军区参谋长、副总参谋长，2012 年至 2016 年任南京军区司令员，2016 年至 2017 年任军事科学院院长。
+  positions:
+    - { title: 中央军委副主席张万年秘书, sys: army, from: 1996, cite: f10-wiki-cai-yingting }
+    - { title: 陆军第31集团军军长, sys: army, from: 2004-07, to: 2007-09, cite: f10-wiki-cai-yingting }
+    - { title: 南京军区参谋长, sys: army, from: 2007-09, to: 2011-07, cite: f10-wiki-cai-yingting }
+    - { title: 副总参谋长, sys: army, from: 2011-07, to: 2012-10, cite: f10-wiki-cai-yingting }
+    - { title: 南京军区司令员, sys: army, from: 2012-11, to: 2016-01, cite: f10-wiki-cai-yingting }
+    - { title: 军事科学院院长, sys: army, from: 2016-02, to: 2017-01, cite: f10-wiki-cai-yingting }
+  assess:
+    - voice: zh
+      text: 据悉，蔡英挺是习近平亲手提拔。
+      cite: f10-ntdtv-2015-01-11-31st-army
+      quote: true
+  cites: [wd-Q8291808, f10-wiki-cai-yingting, f10-onc-2015-09-16-31st-army, f10-diplomat-2014-12-30-31st-army]
+
+- id: zhu-shengling
+  name: 朱生岭
+  gender: m
+  born: 1957-11
+  birthplace: 江苏东台
+  roles: [general, cc]
+  status: retired
+  statusNote: 本站所见来源未记载其卸任中部战区政委的时间；未见被查消息。
+  tier: 2
+  headline: 中部战区原政委，上将
+  ids: { wikidata: Q28409058 }
+  bio: >-
+    原南京军区政工干部，历任舟嵊守备区炮兵团政委、第 12 集团军 36 师和第 1 集团军 1 师政委，2005 年任第 31 集团军政治部主任，2009 年任福建省军区政委，2013 年任上海警备区政委，后任国防动员部首任政委、武警政委，2019 年起任中部战区政委。
+  positions:
+    - { title: 陆军第31集团军政治部主任, sys: army, from: 2005-08, to: 2009-05, cite: f10-wiki-zhu-shengling }
+    - { title: 福建省军区政治委员, sys: army, place: 福建, from: 2009-05, to: 2013-03, cite: f10-wiki-zhu-shengling }
+    - { title: 福建省委常委, sys: party, place: 福建, from: 2009-09, to: 2013-03, cite: f10-wiki-zhu-shengling }
+    - { title: 上海警备区政治委员、上海市委常委, sys: army, place: 上海, from: 2013-03, to: 2015-11, cite: f10-wiki-zhu-shengling }
+    - { title: 中央军委国防动员部政治委员, sys: army, from: 2015-11, to: 2017-01, cite: f10-wiki-zhu-shengling }
+    - { title: 武警部队政治委员, sys: army, from: 2017-01, to: 2019-04, cite: f10-wiki-zhu-shengling }
+    - { title: 中部战区政治委员, sys: army, from: 2019-04, cite: f10-wiki-zhu-shengling }
+  cites: [wd-Q28409058, f10-wiki-zhu-shengling, f10-onc-2015-09-16-31st-army]
+
+- id: wu-changde
+  name: 吴昌德
+  gender: m
+  born: 1952-05
+  birthplace: 江西大余
+  roles: [general, cc]
+  status: retired
+  statusNote: 2017 年 1 月卸任军委政治工作部副主任，2018 年任全国政协教科卫体委员会副主任；未见被查消息。
+  tier: 2
+  headline: 总政治部原副主任，上将
+  ids: { wikidata: Q8294016 }
+  bio: >-
+    复旦大学哲学系毕业，原南京军区政工干部，曾任第 31 集团军政治部主任、总政宣传部副部长、南京军区政治部副主任，2003 年任总政宣传部部长，2007 年任成都军区政治部主任，2011 年至 2017 年任总政治部（军委政治工作部）副主任。
+  positions:
+    - { title: 陆军第31集团军政治部主任, sys: army, cite: f10-wiki-wu-changde }
+    - { title: 总政治部宣传部部长, sys: army, from: 2003-12, to: 2007-07, cite: f10-wiki-wu-changde }
+    - { title: 成都军区政治部主任, sys: army, from: 2007-07, to: 2011-07, cite: f10-wiki-wu-changde }
+    - { title: 总政治部副主任, sys: army, from: 2011-07, to: 2016-01, cite: f10-wiki-wu-changde }
+    - { title: 中央军委政治工作部副主任, sys: army, from: 2016-01, to: 2017-01, cite: f10-wiki-wu-changde }
+    - { title: 全国政协教科卫体委员会副主任, sys: other, from: 2018-03, cite: f10-wiki-wu-changde }
+  cites: [wd-Q8294016, f10-wiki-wu-changde, f10-onc-2015-09-16-31st-army, f10-diplomat-2014-12-30-31st-army]
+
+- id: zheng-he-pla
+  name: 郑和
+  gender: m
+  born: 1958-11
+  birthplace: 上海
+  roles: [general, cc]
+  status: retired
+  statusNote: 2024 年钟绍军出任国防大学政委，郑和此前已离任；未见被查消息。
+  tier: 2
+  headline: 国防大学原校长、政委，上将
+  ids: { wikidata: Q28409060 }
+  bio: >-
+    长期在原南京军区，曾任第 31 集团军旅长、91 师师长和集团军参谋长，2011 年任南京军区副参谋长，2013 年任总参军训部部长，2015 年任成都军区副司令员，此后历任军委训练管理部部长、军事科学院院长、国防大学校长和政委。
+  positions:
+    - { title: 陆军第31集团军91师师长, sys: army, place: 福建, cite: f10-wiki-zheng-he }
+    - { title: 陆军第31集团军参谋长, sys: army, from: 2008-06, to: 2011-02, cite: f10-wiki-zheng-he }
+    - { title: 南京军区副参谋长, sys: army, from: 2011-02, to: 2013-02, cite: f10-wiki-zheng-he }
+    - { title: 总参谋部军训部部长, sys: army, from: 2013-02, to: 2015-07, cite: f10-wiki-zheng-he }
+    - { title: 成都军区副司令员, sys: army, from: 2015-07, to: 2016-02, cite: f10-wiki-zheng-he }
+    - { title: 中央军委训练管理部部长, sys: army, from: 2016-02, to: 2017-01, cite: f10-wiki-zheng-he }
+    - { title: 军事科学院院长, sys: army, from: 2017-01, to: 2017-06, cite: f10-wiki-zheng-he }
+    - { title: 国防大学校长, sys: army, from: 2017-06, to: 2021-08, cite: f10-wiki-zheng-he }
+    - { title: 国防大学政治委员, sys: army, from: 2021-08, cite: f10-wiki-zheng-he }
+  cites: [wd-Q28409060, f10-wiki-zheng-he, f10-onc-2015-09-16-31st-army]
+
+- id: ding-laifu
+  name: 丁来富
+  gender: m
+  born: 1968-04
+  birthplace: 安徽南陵
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 2 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-02-26, text: 全国人大常委会公告：陆军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2026-02-26-notice-16 }
+  tier: 2
+  headline: 陆军第 73 集团军军长，少将
+  ids: { wikidata: Q112966481 }
+  bio: >-
+    炮兵出身，长期在原南京军区，2009 年任第 12 集团军炮兵旅旅长，后任第 1 集团军炮兵师师长、副参谋长，2016 年任第 16 集团军参谋长，2017 年任第 79 集团军参谋长，2020 年任第 72 集团军军长，2022 年 3 月调任由原 31 集团军改编的第 73 集团军军长。
+    2026 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 陆军第12集团军炮兵旅旅长, sys: army, from: 2009, cite: f10-wiki-ding-laifu }
+    - { title: 陆军第16集团军参谋长, sys: army, from: 2016, to: 2017-03, cite: f10-wiki-ding-laifu }
+    - { title: 陆军第79集团军参谋长, sys: army, from: 2017-03, to: 2020-07, cite: f10-wiki-ding-laifu }
+    - { title: 陆军第72集团军军长, sys: army, from: 2020-07, to: 2022-03, cite: f10-wiki-ding-laifu }
+    - { title: 陆军第73集团军军长, sys: army, from: 2022-03, cite: f10-wiki-ding-laifu }
+  cites: [wd-Q112966481, f10-wiki-ding-laifu, f10-npc-2026-02-26-notice-16, b08-dw-2026-01-why-xi]
+
+- id: wang-zhibin
+  name: 汪志斌
+  gender: m
+  born: 1963-02
+  birthplace: 江西彭泽
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年被罢免全国人大代表；维基百科称其 2025 年 10 月被开除党籍、军籍，本站未见官方通报原文。
+  fall:
+    - { date: 2025-09-12, text: 全国人大常委会公告：陆军军人代表大会决定罢免其第十四届全国人大代表职务（人大公报载罢免日期为 7 月 18 日）, cite: f10-xinhua-2025-09-12-npc-notice-12 }
+  tier: 2
+  headline: 火箭军纪委原书记，中将
+  ids: { wikidata: Q112966272 }
+  bio: >-
+    长期服役于原南京军区，历任宣城军分区司令员、福建省军区海防 13 师政委、第 1 集团军政治部主任，2017 年任由原 31 集团军改编的第 73 集团军政治工作部主任，2018 年任第 81 集团军政委，2022 年任西部战区陆军政委，2023 年 12 月转任火箭军纪委书记。
+  positions:
+    - { title: 安徽省军区宣城军分区司令员, sys: army, place: 安徽, cite: f10-wiki-wang-zhibin }
+    - { title: 福建省军区海防13师政治委员, sys: army, place: 福建, cite: f10-wiki-wang-zhibin }
+    - { title: 陆军第1集团军政治部主任, sys: army, from: 2015, to: 2017-03, cite: f10-wiki-wang-zhibin }
+    - { title: 陆军第73集团军政治工作部主任, sys: army, from: 2017-03, to: 2018-04, cite: f10-sina-2025-10-16-four-generals }
+    - { title: 陆军第81集团军政治委员, sys: army, from: 2018-04, to: 2022-03, cite: f10-wiki-wang-zhibin }
+    - { title: 西部战区陆军政治委员, sys: army, from: 2022-03, to: 2023-12, cite: f10-wiki-wang-zhibin }
+    - { title: 火箭军纪委书记, sys: army, from: 2023-12, cite: f10-wiki-wang-zhibin }
+  cites: [wd-Q112966272, f10-wiki-wang-zhibin, f10-xinhua-2025-09-12-npc-notice-12, f10-sina-2025-10-16-four-generals]
+
+- id: li-hanjun
+  name: 李汉军
+  gender: m
+  born: 1965-10
+  birthplace: 浙江舟山
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2025-06-27, text: 全国人大常委会公告：海军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2025-06-27-notice-11 }
+  tier: 2
+  headline: 海军原参谋长，海军中将
+  ids: { wikidata: Q130569948 }
+  bio: >-
+    海军大连舰艇学院毕业，历任大连舰艇学院副院长、海军福建基地司令员、海军 92403 部队司令员，2014 年在苗华主持的晋衔仪式上晋升少将，后任军委改革和编制办公室副主任、训练管理部副部长、海军指挥学院院长，2024 年 4 月任海军参谋长。
+  positions:
+    - { title: 海军福建基地司令员, sys: army, place: 福建, cite: f10-wiki-li-hanjun }
+    - { title: 海军92403部队司令员, sys: army, from: 2014, cite: f10-wiki-li-hanjun }
+    - { title: 中央军委改革和编制办公室副主任, sys: army, from: 2016, to: 2018, cite: f10-wiki-li-hanjun }
+    - { title: 中央军委训练管理部副部长, sys: army, from: 2018, cite: f10-wiki-li-hanjun }
+    - { title: 海军指挥学院院长, sys: army, to: 2024-04, cite: f10-wiki-li-hanjun }
+    - { title: 海军参谋长, sys: army, from: 2024-04, cite: f10-wiki-li-hanjun }
+  cites: [wd-Q130569948, f10-wiki-li-hanjun, f10-npc-2025-06-27-notice-11, f10-rfi-2025-06-27-li-hanjun]
+
+- id: tang-yong-pla
+  name: 唐勇
+  gender: m
+  born: 1967
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 3 月被撤销全国政协委员资格，官方未说明原因。
+  fall:
+    - { date: 2025-03-26, text: 全国政协主席会议审议通过撤销其全国政协委员资格的决定, cite: f10-xinhua-2025-03-26-cppcc-tang-yong }
+  tier: 2
+  headline: 中央军委纪委原副书记，中将
+  ids: { wikidata: Q134507044 }
+  bio: >-
+    原南京军区军事法院出身，2010 年任南京军区军事法院院长，2015 年调总政纪委，2016 年任军委纪委派驻北部战区纪检组长，2019 年任军委政法委专职副书记，2023 年 3 月任武警副政委，同年 12 月任中央军委纪委副书记。
+    2025 年 3 月被撤销全国政协委员资格。
+  positions:
+    - { title: 南京军区军事法院院长, sys: army, from: 2010, to: 2015, cite: f10-wiki-tang-yong }
+    - { title: 中央军委纪委派驻北部战区纪检组组长, sys: army, from: 2016-05, to: 2019-12, cite: f10-wiki-tang-yong }
+    - { title: 中央军委政法委员会专职副书记, sys: army, from: 2019-12, to: 2023-03, cite: f10-wiki-tang-yong }
+    - { title: 武警部队副政治委员, sys: army, from: 2023-03, to: 2023-12, cite: f10-rfa-2025-03-28-tang-yong }
+    - { title: 中央军委纪委副书记, sys: army, from: 2023-12, cite: f10-rfa-2025-03-28-tang-yong }
+  assess:
+    - voice: zh
+      text: 显然唐勇是苗华的死党
+      cite: f10-rfa-2025-03-28-tang-yong
+      quote: true
+  cites: [wd-Q134507044, f10-wiki-tang-yong, f10-xinhua-2025-03-26-cppcc-tang-yong, f10-rfa-2025-03-28-tang-yong]
+
+# southwest-army: the former 14th Group Army
+- id: zhao-zongqi
+  name: 赵宗岐
+  gender: m
+  born: 1955-04
+  birthplace: 黑龙江宾县
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2020 年 12 月到龄退役；2026 年 8 月被撤销全国政协委员资格，官方未说明原因。
+  fall:
+    - { date: 2026-08-26, text: 全国政协常委会决定免去其全国政协常委、民族和宗教委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-08-26-cppcc }
+  tier: 2
+  headline: 西部战区首任司令员，上将
+  ids: { wikidata: Q8294061 }
+  bio: >-
+    1970 年入伍到驻云南的第 14 军 40 师，参加对越作战，后任第 14 集团军 40 师副参谋长、西藏军区参谋长，2004 年回任第 14 集团军军长，2007 年任第 13 集团军军长，2012 年任济南军区司令员，2016 年至 2020 年任西部战区司令员。
+    2026 年 8 月被撤销全国政协委员资格。
+  positions:
+    - { title: 陆军第14集团军40师副参谋长, sys: army, from: 1991-08, to: 1992-04, cite: f10-wiki-zhao-zongqi }
+    - { title: 西藏军区山地步兵第52旅旅长, sys: army, place: 西藏, from: 1992-04, cite: f10-wiki-zhao-zongqi }
+    - { title: 西藏军区参谋长, sys: army, place: 西藏, cite: f10-wiki-zhao-zongqi }
+    - { title: 重庆警备区副司令员, sys: army, place: 重庆, from: 2003, to: 2004-10, cite: f10-wiki-zhao-zongqi }
+    - { title: 陆军第14集团军军长, sys: army, from: 2004-10, to: 2007-09, cite: f10-wiki-zhao-zongqi }
+    - { title: 陆军第13集团军军长, sys: army, from: 2007-09, to: 2008, cite: f10-wiki-zhao-zongqi }
+    - { title: 济南军区参谋长, sys: army, from: 2008, to: 2012-11, cite: f10-wiki-zhao-zongqi }
+    - { title: 济南军区司令员, sys: army, from: 2012-11, to: 2016-02, cite: f10-wiki-zhao-zongqi }
+    - { title: 西部战区司令员, sys: army, from: 2016-02, to: 2020-12, cite: f10-wiki-zhao-zongqi }
+    - { title: 全国政协常委、民族和宗教委员会副主任, sys: other, from: 2023-03, to: 2026-08, cite: f10-xinhua-2026-08-26-cppcc }
+  cites: [wd-Q8294061, f10-wiki-zhao-zongqi, f10-xinhua-2026-08-26-cppcc, f10-zaobao-2026-08-26-zhao-zongqi]
+
+- id: he-ping-pla
+  name: 何平
+  gender: m
+  born: 1957-11
+  birthplace: 四川西充
+  roles: [general, cc]
+  status: retired
+  statusNote: 2023 年 6 月卸任东部战区政委，转任全国人大宪法和法律委员会副主任委员；未见被查消息。
+  tier: 2
+  headline: 东部战区原政委，上将
+  ids: { wikidata: Q28414099 }
+  bio: >-
+    原成都军区政工干部，曾任成都军区政治部保卫部部长、第 14 集团军 31 师政委，2008 年任第 14 集团军政治部主任，2011 年任集团军副政委，2014 年任总参情报部政委，2016 年任西部战区副政委，2017 年 8 月至 2023 年 6 月任东部战区政委。
+  positions:
+    - { title: 陆军第14集团军31师政治委员, sys: army, cite: f10-wiki-he-ping }
+    - { title: 陆军第14集团军政治部主任, sys: army, from: 2008, to: 2011, cite: f10-wiki-he-ping }
+    - { title: 陆军第14集团军副政治委员, sys: army, from: 2011, to: 2013, cite: f10-wiki-he-ping }
+    - { title: 成都军区政治部副主任、联勤部政委, sys: army, from: 2013, to: 2014-07, cite: f10-wiki-he-ping }
+    - { title: 总参谋部情报部政治委员, sys: army, from: 2014-07, to: 2016, cite: f10-wiki-he-ping }
+    - { title: 西部战区副政委兼政治工作部主任, sys: army, from: 2016, to: 2017-08, cite: f10-wiki-he-ping }
+    - { title: 东部战区政治委员, sys: army, from: 2017-08, to: 2023-06, cite: f10-wiki-he-ping }
+    - { title: 全国人大宪法和法律委员会副主任委员, sys: gov, from: 2023-03, cite: f10-wiki-he-ping }
+  cites: [wd-Q28414099, f10-wiki-he-ping, f02-rfi-2018-10-25-southeast-army]
+
+- id: deng-zhiping
+  name: 邓志平
+  gender: m
+  born: 1964-05
+  birthplace: 江西新干（生于四川峨眉山）
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 6 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2024-06-06, text: 陆军军人代表大会以其涉嫌严重违纪违法为由，决定罢免其第十四届全国人大代表职务；9 月 13 日全国人大常委会代表资格审查委员会报告公布, cite: f10-npc-2024-09-13-deng-zhiping }
+  tier: 2
+  headline: 陆军原副司令员，中将
+  ids: { wikidata: Q109417877 }
+  bio: >-
+    1984 年作为侦察兵参加老山作战，长期在原成都军区服役，曾任成都军区军务部部长，2012 年任第 14 集团军副军长兼参谋长，2015 年任成都军区副参谋长，2016 年任西部战区副参谋长，2021 年 3 月任陆军副司令员。
+    2024 年 6 月被罢免全国人大代表。
+  positions:
+    - { title: 成都军区司令部军务部部长, sys: army, to: 2012-09, cite: f10-wiki-deng-zhiping }
+    - { title: 陆军第14集团军副军长兼参谋长, sys: army, from: 2012-09, to: 2014-09, cite: f10-wiki-deng-zhiping }
+    - { title: 陆军第14集团军副军长, sys: army, from: 2014-09, to: 2015-09, cite: f10-wiki-deng-zhiping }
+    - { title: 成都军区副参谋长, sys: army, from: 2015-09, to: 2016-01, cite: f10-wiki-deng-zhiping }
+    - { title: 西部战区副参谋长, sys: army, from: 2016-01, to: 2021-03, cite: f10-wiki-deng-zhiping }
+    - { title: 陆军副司令员, sys: army, from: 2021-03, cite: f10-wiki-deng-zhiping }
+  assess:
+    - voice: zh
+      text: 邓志平即是越战派，他曾两次参加对越边境作战，多次立功，也属于中共军中少有的有实战经验的将领。
+      cite: f10-epoch-2024-09-14-deng-zhiping
+      quote: true
+  cites: [wd-Q109417877, f10-wiki-deng-zhiping, f10-npc-2024-09-13-deng-zhiping, f10-caixin-2024-09-13-deng-zhiping]
+
+# northwest / dongbei
+- id: liu-lei-pla
+  name: 刘雷
+  gender: m
+  born: 1957-02
+  birthplace: 山东茌平
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2026 年 3 月被撤销全国政协委员资格，官方未说明原因。
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、农业和农村委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 陆军首任政委，上将
+  ids: { wikidata: Q10898077 }
+  bio: >-
+    1973 年参军后在兰州军区第 21 集团军服役 13 年，长期在兰州军区政治部干部部任职，2007 年任第 21 集团军政委，2013 年任新疆军区政委，2014 年 12 月任兰州军区政委，2015 年底出任新成立的陆军首任政委。
+    2026 年 3 月与韩卫国、高津同日被撤销全国政协委员资格。
+  positions:
+    - { title: 兰州军区政治部干部部副部长, sys: army, from: 1994-12, cite: f10-wiki-liu-lei }
+    - { title: 新疆军区步兵第十一师政治委员, sys: army, place: 新疆, from: 1999, cite: f10-wiki-liu-lei }
+    - { title: 陆军第21集团军政治委员, sys: army, from: 2007-01, cite: f10-wiki-liu-lei }
+    - { title: 新疆军区政治委员、新疆维吾尔自治区党委常委, sys: army, place: 新疆, from: 2013-07, to: 2014-12, cite: f10-wiki-liu-lei }
+    - { title: 兰州军区政治委员, sys: army, from: 2014-12, to: 2015-12, cite: f10-wiki-liu-lei }
+    - { title: 陆军政治委员, sys: army, from: 2015-12, cite: f10-wiki-liu-lei }
+    - { title: 全国政协常委、农业和农村委员会副主任, sys: other, to: 2026-03, cite: f10-xinhua-2026-03-02-cppcc }
+  cites: [wd-Q10898077, f10-wiki-liu-lei, f10-xinhua-2026-03-02-cppcc, f10-singtao-2026-03-02-three-generals]
+
+- id: li-qiaoming
+  name: 李桥铭
+  gender: m
+  born: 1961-04
+  birthplace: 河南偃师
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2026 年 2 月被罢免全国人大代表，4 月人大公报公布原因为涉嫌严重违纪违法。
+  fall:
+    - { date: 2026-02-26, text: 全国人大常委会公告：陆军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2026-02-26-notice-16 }
+  tier: 2
+  headline: 北部战区原司令员、陆军原司令员，上将
+  ids: { wikidata: Q43008706 }
+  bio: >-
+    原广州军区出身，从高炮第 71 师战士做起，历任第 41 集团军团长、作训处长，第 42 集团军 124 师参谋长和集团军副参谋长；2016 年任北部战区副司令员兼战区陆军司令员，2017 年至 2022 年任北部战区司令员，2022 年起任陆军司令员。
+    2026 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 陆军第42集团军副参谋长, sys: army, cite: f10-wiki-li-qiaoming }
+    - { title: 北部战区副司令员兼北部战区陆军司令员, sys: army, from: 2016-01, to: 2017-08, cite: f10-wiki-li-qiaoming }
+    - { title: 北部战区司令员, sys: army, from: 2017-08, to: 2022-09, cite: f10-wiki-li-qiaoming }
+    - { title: 陆军司令员, sys: army, from: 2022-09, cite: f10-wiki-li-qiaoming }
+    - { title: 第二十届中央委员, sys: party, from: 2022-10, cite: f10-wiki-li-qiaoming }
+  assess:
+    - voice: zh
+      text: 不过，寇建文将两人履历并列后评估，在时间点上，两人不太可能有交集。
+      cite: f10-zaobao-2026-02-27-five-generals
+      quote: true
+  cites: [wd-Q43008706, f10-wiki-li-qiaoming, f10-npc-2026-02-26-notice-16, f10-zaobao-2026-02-27-five-generals]
+
+- id: gao-daguang
+  name: 高大光
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 7 月被罢免全国人大代表，人大公报称其涉嫌严重违纪违法。
+  fall:
+    - { date: 2025-09-12, text: 全国人大常委会公告：中央军委后勤保障部军人代表大会决定罢免其第十四届全国人大代表职务（人大公报载罢免日期为 7 月 21 日）, cite: f10-xinhua-2025-09-12-npc-notice-12 }
+  tier: 2
+  headline: 联勤保障部队原政委，中将
+  ids: { wikidata: Q136542278 }
+  bio: >-
+    原沈阳军区出身，曾任第 39 集团军某红军师政委、旅政委，2016 年任第 41 集团军副政委，2017 年任第 77 集团军副政委，后任军委政治工作部老干部局局长、军委机关事务管理总局政委，不晚于 2024 年 9 月任联勤保障部队政委。
+    2025 年 7 月与张林同日被罢免全国人大代表。
+  positions:
+    - { title: 陆军第39集团军某师政治委员, sys: army, to: 2013, cite: f10-wiki-gao-daguang }
+    - { title: 陆军第41集团军副政治委员, sys: army, from: 2016-09, to: 2017-10, cite: f10-wiki-gao-daguang }
+    - { title: 陆军第77集团军副政治委员, sys: army, from: 2017-10, cite: f10-wiki-gao-daguang }
+    - { title: 中央军委机关事务管理总局政治委员, sys: army, from: 2021-07, cite: f10-wiki-gao-daguang }
+    - { title: 联勤保障部队政治委员, sys: army, from: 2024-09, cite: f10-wiki-gao-daguang }
+  cites: [wd-Q136542278, f10-wiki-gao-daguang, f10-xinhua-2025-09-12-npc-notice-12, f10-sina-2025-10-16-four-generals]
+
+- id: yu-zhongfu
+  name: 于忠福
+  gender: m
+  born: 1956-07
+  birthplace: 山东莱阳
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2026 年 2 月被罢免全国人大代表及人大常委会委员，4 月人大公报公布原因为涉嫌严重违纪违法。
+  fall:
+    - { date: 2026-02-26, text: 全国人大常委会公告：空军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2026-02-26-notice-16 }
+  tier: 2
+  headline: 空军原政委，上将
+  ids: { wikidata: Q20688012 }
+  bio: >-
+    空军雷达兵出身，长期在武汉军区空军和南京军区空军做政工，2006 年任空军上海指挥所政委，2010 年任兰州军区空军政治部主任，2012 年任空军政治部副主任，2015 年接替田修思任空军政委。
+    卸任后任全国人大常委、环资委副主任委员，2026 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 空军上海指挥所政治委员, sys: army, place: 上海, from: 2006-09, to: 2010-07, cite: f10-wiki-yu-zhongfu }
+    - { title: 兰州军区空军政治部主任, sys: army, from: 2010-07, to: 2012-03, cite: f10-wiki-yu-zhongfu }
+    - { title: 空军政治部副主任, sys: army, from: 2012-03, to: 2015-07, cite: f10-wiki-yu-zhongfu }
+    - { title: 空军政治委员, sys: army, from: 2015-07, cite: f10-wiki-yu-zhongfu }
+    - { title: 全国人大环境与资源保护委员会副主任委员, sys: gov, from: 2023, to: 2026-02, cite: f10-wiki-yu-zhongfu }
+  cites: [wd-Q20688012, f10-wiki-yu-zhongfu, f10-npc-2026-02-26-notice-16, f10-zaobao-2026-02-27-five-generals]
+
+# army-princelings
+- id: you-haitao
+  name: 尤海涛
+  gender: m
+  born: 1958-01
+  birthplace: 河南光山
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 11 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2024-12-25, text: 全国人大常委会公告：陆军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2024-12-25-notice-8 }
+  tier: 2
+  headline: 陆军原副司令员，中将；尤太忠之子
+  ids: { wikidata: Q16949394 }
+  bio: >-
+    原成都、广州军区司令员尤太忠之子，原广州军区出身，曾任步兵第 163 师师长，2002 年任第 42 集团军副军长，2007 年任军长，2013 年任南京军区副司令员，2015 年底进入新成立的陆军首届领导班子任副司令员。
+    2024 年 11 月 29 日被陆军军人代表大会罢免全国人大代表。
+  positions:
+    - { title: 陆军第42集团军副军长, sys: army, from: 2002, to: 2007-09, cite: f10-wiki-you-haitao }
+    - { title: 陆军第42集团军军长, sys: army, from: 2007-09, to: 2013-07, cite: f10-wiki-you-haitao }
+    - { title: 南京军区副司令员, sys: army, from: 2013-07, to: 2015-12, cite: f10-wiki-you-haitao }
+    - { title: 陆军副司令员, sys: army, from: 2015-12, cite: f10-wiki-you-haitao }
+  cites: [wd-Q16949394, f10-wiki-you-haitao, f10-npc-2024-12-25-notice-8, f10-rfi-2024-12-25-you-li]
+
+- id: qin-weijiang
+  name: 秦卫江
+  gender: m
+  born: 1955-12
+  birthplace: 湖北红安
+  roles: [general]
+  status: retired
+  statusNote: 2018 年 12 月到龄退役，任全国政协常委；未见被查消息。
+  tier: 2
+  headline: 东部战区原副司令员兼战区陆军司令员，中将；秦基伟之子
+  ids: { wikidata: Q8316992 }
+  bio: >-
+    原国防部长秦基伟之子，长期在原南京军区，2002 年获国防大学军事学硕士，2015 年任南京军区副司令员，与任军事科学院副院长的胞弟秦天同为副大军区级，2016 年任东部战区副司令员兼战区陆军司令员，2018 年 12 月到龄退役。
+  positions:
+    - { title: 南京军区副司令员, sys: army, to: 2016-01, cite: f10-wiki-qin-weijiang }
+    - { title: 东部战区副司令员兼东部战区陆军司令员, sys: army, from: 2016-01, to: 2018-12, cite: f10-wiki-qin-weijiang }
+    - { title: 全国政协常委, sys: other, from: 2018-03, cite: f10-wiki-qin-weijiang }
+  cites: [wd-Q8316992, f10-wiki-qin-weijiang, f10-youth-2016-03-12-red-generals-2]
+
+- id: liu-zhuoming
+  name: 刘卓明
+  gender: m
+  born: 1954-07
+  birthplace: 湖北大悟
+  roles: [general]
+  status: retired
+  statusNote: 2018 年任全国政协委员；未见被查消息。
+  tier: 2
+  headline: 总装备部科技委原副主任，海军中将；刘华清之子
+  ids: { wikidata: Q8318825 }
+  bio: >-
+    原中央军委副主席刘华清之子，海军装备系统出身，曾任海军装备论证中心主任、海军装备研究院院长、海军指挥学院院长，后任总装备部科学技术委员会副主任，2011 年晋升中将，2018 年当选全国政协委员。
+  positions:
+    - { title: 海军装备研究院院长, sys: army, cite: f10-wiki-liu-zhuoming }
+    - { title: 海军指挥学院院长, sys: army, cite: f10-wiki-liu-zhuoming }
+    - { title: 总装备部科学技术委员会副主任, sys: army, cite: f10-wiki-liu-zhuoming }
+  cites: [wd-Q8318825, f10-wiki-liu-zhuoming, f10-youth-2016-03-12-red-generals-2]
+
+# other generals removed from the NPC or CPPCC, 2024–2026
+- id: li-pengcheng
+  name: 李鹏程
+  gender: m
+  born: 1963-12
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 11 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2024-12-25, text: 全国人大常委会公告：海军军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2024-12-25-notice-8 }
+  tier: 2
+  headline: 南部战区海军原司令员，海军中将
+  ids: { wikidata: Q125473779 }
+  bio: >-
+    海军出身，曾任海军司令部航海保证部部长、北海舰队副参谋长，任内率第十六批索马里护航编队，后任海军装备研究院院长，2016 年起历任东海舰队参谋长、海军副参谋长，2024 年任南部战区海军司令员。
+    同年 11 月 25 日被海军军人代表大会罢免全国人大代表。
+  positions:
+    - { title: 北海舰队副参谋长, sys: army, cite: f10-wiki-li-pengcheng }
+    - { title: 海军装备研究院院长, sys: army, cite: f10-wiki-li-pengcheng }
+    - { title: 东海舰队参谋长, sys: army, from: 2016, cite: f10-wiki-li-pengcheng }
+    - { title: 南部战区副司令员兼南部战区海军司令员, sys: army, from: 2024, cite: f10-rfi-2024-12-25-you-li }
+  cites: [wd-Q125473779, f10-wiki-li-pengcheng, f10-npc-2024-12-25-notice-8, f10-rfi-2024-12-25-you-li]
+
+- id: wang-peng-pla
+  name: 王鹏
+  gender: m
+  born: 1964-02
+  birthplace: 湖南湘乡
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 12 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2025-12-27, text: 全国人大常委会公告：中央军委训练管理部军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-xinhua-2025-12-27-npc-notice-14 }
+  tier: 2
+  headline: 中央军委训练管理部原部长，中将
+  ids: { wikidata: Q111693021 }
+  bio: >-
+    南京大学经济系毕业后转入野战部队，参加老山作战，长期在原南京军区第 12 集团军，2006 年任 34 摩步旅旅长并扮演南京军区蓝军，后任集团军副参谋长，2016 年任东部战区陆军副参谋长，2019 年任陆军指挥学院院长，2021 年任国防大学副校长，同年 12 月任军委训练管理部部长。
+  positions:
+    - { title: 陆军第12集团军34摩步旅旅长, sys: army, from: 2006-07, cite: f10-wiki-wang-peng }
+    - { title: 东部战区陆军副参谋长, sys: army, from: 2016, to: 2019-06, cite: f10-wiki-wang-peng }
+    - { title: 陆军指挥学院院长, sys: army, from: 2019-06, to: 2021-06, cite: f10-wiki-wang-peng }
+    - { title: 国防大学副校长兼教育长, sys: army, from: 2021-06, to: 2021-12, cite: f10-wiki-wang-peng }
+    - { title: 中央军委训练管理部部长, sys: army, from: 2021-12, cite: f10-wiki-wang-peng }
+  cites: [wd-Q111693021, f10-wiki-wang-peng, f10-xinhua-2025-12-27-npc-notice-14]
+
+- id: wang-renhua
+  name: 王仁华
+  gender: m
+  born: 1961-07
+  birthplace: 四川三台
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 10 月缺席四中全会后不再列为中央政法委委员；12 月被罢免全国人大代表。
+  fall:
+    - { date: 2025-12-27, text: 全国人大常委会公告：中央军委政法委员会军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-xinhua-2025-12-27-npc-notice-14 }
+  tier: 2
+  headline: 中央军委政法委原书记，海军上将
+  ids: { wikidata: Q85353312 }
+  bio: >-
+    总装备部政工系统出身，曾任总装政治部保卫部部长、酒泉卫星发射中心政治部主任、总装陆军装备科研订购部政治部主任，2016 年任陆军政治工作部副主任，2017 年任东海舰队纪委书记，2018 年任军委政法委副书记，2019 年 12 月升任书记，2024 年晋升海军上将。
+  positions:
+    - { title: 酒泉卫星发射中心政治部主任, sys: army, place: 甘肃, from: 2012, to: 2015-01, cite: f10-wiki-wang-renhua }
+    - { title: 总装备部陆军装备科研订购部政治部主任, sys: army, from: 2015-01, to: 2016-01, cite: f10-wiki-wang-renhua }
+    - { title: 陆军政治工作部副主任, sys: army, from: 2016-01, to: 2017-01, cite: f10-wiki-wang-renhua }
+    - { title: 东海舰队纪委书记, sys: army, from: 2017-01, to: 2018, cite: f10-wiki-wang-renhua }
+    - { title: 中央军委政法委员会副书记, sys: army, from: 2018, to: 2019-12, cite: f10-wiki-wang-renhua }
+    - { title: 中央军委政法委员会书记, sys: army, from: 2019-12, cite: f10-wiki-wang-renhua }
+  cites: [wd-Q85353312, f10-wiki-wang-renhua, f10-xinhua-2025-12-27-npc-notice-14]
+
+- id: zhang-hongbing
+  name: 张红兵
+  gender: m
+  born: 1966-01
+  birthplace: 湖北咸宁
+  roles: [tiger, general, cc]
+  status: purged
+  statusNote: 2025 年 12 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2025-12-27, text: 全国人大常委会公告：武警部队军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-xinhua-2025-12-27-npc-notice-14 }
+  tier: 2
+  headline: 武警部队原政委，武警上将
+  ids: { wikidata: Q47673260 }
+  bio: >-
+    原济南军区政工干部，曾任第 20 集团军 58 旅政委、第 54 集团军 127 师政委、第 20 集团军政治部主任，2017 年任第 76 集团军政委，2019 年任东部战区陆军政委，2022 年 1 月任武警部队政委并晋升上将警衔。
+    2025 年 12 月被罢免全国人大代表。
+  positions:
+    - { title: 陆军第54集团军127师政治委员, sys: army, from: 2013, to: 2014, cite: f10-wiki-zhang-hongbing }
+    - { title: 陆军第20集团军政治部主任, sys: army, from: 2014, to: 2017-03, cite: f10-wiki-zhang-hongbing }
+    - { title: 陆军第76集团军政治委员, sys: army, from: 2017-03, to: 2019-12, cite: f10-wiki-zhang-hongbing }
+    - { title: 东部战区陆军政治委员, sys: army, from: 2019-12, to: 2022-01, cite: f10-wiki-zhang-hongbing }
+    - { title: 武警部队政治委员, sys: army, from: 2022-01, cite: f10-wiki-zhang-hongbing }
+    - { title: 第二十届中央委员, sys: party, from: 2022-10, cite: f10-wiki-zhang-hongbing }
+  cites: [wd-Q47673260, f10-wiki-zhang-hongbing, f10-xinhua-2025-12-27-npc-notice-14]
+
+- id: zhang-lin-pla
+  name: 张林
+  gender: m
+  born: 1965
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2025 年 7 月被罢免全国人大代表，人大公报称其涉嫌严重违纪违法。
+  fall:
+    - { date: 2025-09-12, text: 全国人大常委会公告：中央军委后勤保障部军人代表大会决定罢免其第十四届全国人大代表职务（人大公报载罢免日期为 7 月 21 日）, cite: f10-xinhua-2025-09-12-npc-notice-12 }
+  tier: 2
+  headline: 中央军委后勤保障部原部长，中将
+  ids: { wikidata: Q111693195 }
+  bio: >-
+    海军后勤出身，曾任海军青岛综合保障基地司令员、联勤保障部队副参谋长，2019 年任联勤保障部队参谋长，2020 年任武警部队后勤部部长，2021 年任军委机关事务管理总局局长，2022 年 1 月接替高津任中央军委后勤保障部部长。
+    2025 年 7 月与高大光同日被罢免全国人大代表。
+  positions:
+    - { title: 海军青岛综合保障基地司令员, sys: army, place: 山东, cite: f10-wiki-zhang-lin }
+    - { title: 联勤保障部队参谋长, sys: army, from: 2019, to: 2020, cite: f10-wiki-zhang-lin }
+    - { title: 武警部队后勤部部长, sys: army, from: 2020, to: 2021-03, cite: f10-wiki-zhang-lin }
+    - { title: 中央军委机关事务管理总局局长, sys: army, from: 2021-03, to: 2022-01, cite: f10-wiki-zhang-lin }
+    - { title: 中央军委后勤保障部部长, sys: army, from: 2022-01, cite: f10-wiki-zhang-lin }
+  cites: [wd-Q111693195, f10-wiki-zhang-lin, f10-xinhua-2025-09-12-npc-notice-12, f10-sina-2025-10-16-four-generals]
+
+- id: wang-donghai
+  name: 王东海
+  gender: m
+  born: 1964-07
+  birthplace: 山东定陶
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 2 月被罢免全国人大代表，官方未公布立案审查消息。
+  fall:
+    - { date: 2026-02-26, text: 全国人大常委会公告：中央军委国防动员部军人代表大会决定罢免其第十四届全国人大代表职务, cite: f10-npc-2026-02-26-notice-16 }
+  tier: 2
+  headline: 中央军委国防动员部原政委，中将
+  ids: { wikidata: Q110405605 }
+  bio: >-
+    原济南军区保卫系统出身，曾任济南军区保卫部部长，2015 年任山东省军区政治部主任，2017 年任山东省军区副政委兼纪委书记，2018 年任国防动员部副部长，2021 年 3 月任南部战区副政委兼战区陆军政委，同年 12 月回任国防动员部政委。
+    2026 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 济南军区保卫部部长, sys: army, cite: f10-wiki-wang-donghai }
+    - { title: 山东省军区政治部主任, sys: army, place: 山东, from: 2015-03, to: 2017-03, cite: f10-wiki-wang-donghai }
+    - { title: 山东省军区副政委兼纪委书记, sys: army, place: 山东, from: 2017-03, to: 2018-04, cite: f10-wiki-wang-donghai }
+    - { title: 中央军委国防动员部副部长, sys: army, from: 2018-04, to: 2021-03, cite: f10-wiki-wang-donghai }
+    - { title: 南部战区副政委兼南部战区陆军政委, sys: army, from: 2021-03, to: 2021-12, cite: f10-wiki-wang-donghai }
+    - { title: 中央军委国防动员部政治委员, sys: army, from: 2021-12, cite: f10-wiki-wang-donghai }
+  cites: [wd-Q110405605, f10-wiki-wang-donghai, f10-npc-2026-02-26-notice-16]

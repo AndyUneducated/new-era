@@ -1,0 +1,219 @@
+# F09 (round 3): ranks for existing purged-group members, plus labels for people carded by other batches.
+# person id → labels. A label repeating an existing (f, cite) only adds rank/rankQuote to it.
+
+# ---------- new-gang-of-four ----------
+zhou-yongkang:
+  - { f: new-gang-of-four, cite: f01-bbc-2014-12-22-ling-jihua, rank: core }
+bo-xilai:
+  - { f: new-gang-of-four, cite: f01-bbc-2014-12-22-ling-jihua, rank: core }
+ling-jihua:
+  - { f: new-gang-of-four, cite: f01-bbc-2014-12-22-ling-jihua, rank: core }
+xu-caihou:
+  - { f: new-gang-of-four, cite: f01-bbc-2014-12-22-ling-jihua, rank: core }
+  - { f: guo-xu, cite: b07-xinhua-2016-10-11-guo-xu-poison, rank: core }
+
+# ---------- zhou-clique ----------
+jiang-jiemin:
+  - { f: zhou-clique, cite: b03-bbc-2015-06-11-zhou-profile, rank: core }
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 除蒋洁敏和李春城这两位股肱之臣，来自中石油系统的还有王永春、李华林、冉新权、王道富、温青山等人
+    rank: core
+    rankQuote: 蒋已经完全靠向了周永康，“脑门上打着周系臣子的符号”
+li-chuncheng:
+  - { f: zhou-clique, cite: c03-bbc-2015-10-12-li-chuncheng, rank: core }
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 除蒋洁敏和李春城这两位股肱之臣
+    rank: core
+    rankQuote: 除蒋洁敏和李春城这两位股肱之臣
+li-dongsheng:
+  - { f: zhou-clique, cite: b03-bbc-2015-06-11-zhou-profile, rank: core }
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 又有蒋洁敏、李东生、李春城等心腹首领把持山头
+    rank: core
+    rankQuote: 又有蒋洁敏、李东生、李春城等心腹首领把持山头
+zhou-benshun:
+  - { f: zhou-clique, cite: c03-bbc-2015-07-24-zhou-benshun, rank: core }
+su-rong:
+  - { f: zhou-clique, cite: b12-bbc-2015-02-16-su-rong, rank: backbone }
+bai-enpei:
+  - { f: zhou-clique, cite: f04-bbc-2014-08-29-bai-enpei, rank: backbone }
+meng-hongwei:
+  - { f: zhou-clique, cite: f02-nytcn-2018-10-24-meng-hongwei, rank: backbone }
+ji-wenlin:
+  - { f: zhou-clique, cite: f02-bjnews-2015-10-14-zhou-disciples, rank: backbone }
+wu-changshun:
+  - { f: zhou-clique, cite: b03-cnr-2015-10-15-zhou-disciples, rank: backbone }
+guo-yongxiang:
+  - f: zhou-clique
+    cite: b03-bbc-2013-08-30-zhou-clique
+    rank: backbone
+    rankQuote: 被人称为周永康的“心腹大秘”
+li-chongxi:
+  - { f: zhou-clique, cite: b03-cnr-2015-10-15-zhou-disciples, rank: backbone }
+wang-yongchun:
+  - f: zhou-clique
+    cite: b03-bbc-2013-08-30-zhou-clique
+    rank: backbone
+    rankQuote: 中石油集团副总经理兼大庆油田总经理王永春是周永康在大庆油田工作时的得力助手
+wang-jianping:
+  - { f: zhou-clique, cite: c03-bbc-2016-12-29-wang-jianping, rank: backbone }
+  - { f: guo-xu, cite: f02-bbc-2016-08-26-wang-jianping, rank: backbone }
+qin-guangrong:
+  - { f: zhou-clique, cite: f02-voa-2014-12-05-zhou-coup, rank: periphery }
+zhou-bin:
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 以周永康为核心，既有周滨、周玲英等特定关系人直接仗势敛财、化公为私
+    rank: core
+    rankQuote: 以周永康为核心，既有周滨、周玲英等特定关系人直接仗势敛财、化公为私
+# carded by F06 (petroleum / state security): labels only
+li-hualin:
+  - f: zhou-clique
+    cite: b03-bbc-2013-08-30-zhou-clique
+    quote: 李华林则据信曾是周永康中石油时的秘书
+    rank: backbone
+ran-xinquan:
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 来自中石油系统的还有王永春、李华林、冉新权、王道富、温青山等人
+    rank: periphery
+wang-daofu:
+  - f: zhou-clique
+    cite: f09-sina-2014-07-29-caixin-zhou
+    quote: 来自中石油系统的还有王永春、李华林、冉新权、王道富、温青山等人
+    rank: periphery
+wen-qingshan:
+  - f: zhou-clique
+    cite: b03-cnr-2015-10-15-zhou-disciples
+    quote: 中石油原总会计师温青山跟周的牵连也不浅。
+    rank: backbone
+liang-ke:
+  - f: zhou-clique
+    cite: b03-bbc-2014-02-22-zhou-secretaries
+    quote: 《纽约时报》引述消息来源称，梁克落马是中共清肃周永康在国安系统亲信的最新动作。
+    rank: backbone
+    rankQuote: 梁克落马是中共清肃周永康在国安系统亲信的最新动作
+wu-yongwen:
+  - f: zhou-clique
+    cite: f02-bbc-2014-02-26-zhou-watch
+    quote: “政法国安帮”高官梁克、李东生、吴永文等
+    rank: backbone
+zhang-yue:
+  - f: zhou-clique
+    cite: f09-zaobao-2018-07-13-zhang-yue
+    quote: 此外，张越还被曝利用“夫人路线”，通过妻子结识了周永康，获得了日后快速升迁的资本。
+    rank: backbone
+
+# ---------- xishanhui ----------
+liu-zhijun:
+  - { f: xishanhui, cite: f02-hqrw-2015-01-06-xishanhui, rank: backbone }
+liu-tienan:
+  - { f: xishanhui, cite: f02-hqrw-2015-01-06-xishanhui, rank: backbone }
+
+# ---------- guo-xu ----------
+guo-boxiong:
+  - { f: guo-xu, cite: b07-xinhua-2016-10-11-guo-xu-poison, rank: core }
+fang-fenghui:
+  - f: guo-xu
+    cite: c02-zaobao-2018-01-10-fang-fenghui
+    rank: core
+    rankQuote: 房峰辉是郭伯雄的老乡兼旧部
+zhang-yang:
+  - f: guo-xu
+    cite: c02-zaobao-2018-01-10-fang-fenghui
+    rank: core
+    rankQuote: 张阳则是徐才厚的嫡系
+fan-changlong:
+  - f: guo-xu
+    cite: b13-voa-2018-01-25-fan-rumor
+    rank: core
+    rankQuote: 范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级
+tian-xiusi:
+  - { f: guo-xu, cite: c03-bbc-2016-07-09-tian-xiusi, rank: core }
+gu-junshan:
+  - { f: guo-xu, cite: c03-bbc-2015-08-10-gu-junshan, rank: backbone }
+  - f: guo-xu
+    cite: f09-hkcd-2016-07-12-guo-xu-tigers
+    quote: 除了以徐才厚为更大的“山”的谷俊山和郭正钢
+    rank: backbone
+chang-wanquan:
+  - { f: guo-xu, cite: v01-scmp-2019-07-11-chang-wanquan, rank: periphery }
+
+# ---------- rocket-equipment ----------
+wei-fenghe:
+  - { f: rocket-equipment, cite: f02-zaobao-2024-06-27-li-wei, rank: core }
+li-shangfu:
+  - { f: rocket-equipment, cite: b08-bbc-2023-10-26-li-qin, rank: core }
+  - f: zhang-liu
+    cite: f01-bbc-2026-01-27-zhang-youxia
+    quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人
+    rank: periphery
+li-yuchao:
+  - { f: rocket-equipment, cite: c03-st-2024-07-18-li-yuchao, rank: core }
+zhang-zhenzhong:
+  - { f: rocket-equipment, cite: c03-zaobao-2023-07-28-rocket-force, rank: backbone }
+xu-zhongbo:
+  - f: rocket-equipment
+    cite: f01-bbc-2023-08-01-rocket-force
+    quote: 这间接证实“失踪”数月的原火箭军司令员李玉超上将和政委徐忠波上将已经离职。
+    rank: periphery
+
+# ---------- zhang-liu ----------
+liu-zhenli:
+  - { f: zhang-liu, cite: b08-mod-2026-01-24-zhang-liu-probe, rank: core }
+
+# ---------- sun-lijun-gang ----------
+gong-daoan:
+  - f: sun-lijun-gang
+    cite: f03-xinhua-2022-01-15-zero-tolerance
+    rank: core
+    rankQuote: 龚道安不仅自己为孙力军效命，还帮孙力军经营充实“小圈子”
+fu-zhenghua:
+  - f: sun-lijun-gang
+    cite: c03-ccdi-2022-03-31-fu-zhenghua-expel
+    rank: backbone
+    rankQuote: 参加孙力军政治团伙，拉帮结派，结党营私
+wang-like:
+  - { f: sun-lijun-gang, cite: f03-xinhua-2022-01-15-zero-tolerance, rank: backbone }
+deng-huilin:
+  - { f: sun-lijun-gang, cite: f03-xinhua-2022-01-15-zero-tolerance, rank: backbone }
+liu-yanping:
+  - { f: sun-lijun-gang, cite: c03-people-2022-09-01-liu-yanping-expel, rank: periphery }
+
+# ---------- he-miao ----------
+he-weidong:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: core }
+miao-hua:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: core }
+lin-xiangyang:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+qin-shutong:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+wang-xiubin:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+wang-chunning:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+he-hongjun:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: 何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手
+    rank: backbone
+    rankQuote: 何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手
+yuan-huazhi:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: 袁华智长期在海军政治工作部门服役，是苗华担任海军政委时提拔的旧部
+    rank: backbone
+    rankQuote: 袁华智长期在海军政治工作部门服役，是苗华担任海军政委时提拔的旧部
+wang-houbin:
+  - { f: he-miao, cite: b08-mod-2025-10-17-nine-generals, rank: backbone }
+  - f: he-miao
+    cite: b04-bbc-2025-10-nine-generals
+    quote: 王厚斌长期在海军任职，曾任东海舰队副参谋长等职，也是苗华的海军旧部
+    rank: backbone
+    rankQuote: 王厚斌长期在海军任职，曾任东海舰队副参谋长等职，也是苗华的海军旧部

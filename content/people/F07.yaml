@@ -1,0 +1,1133 @@
+# F07 dossier cards: Xi Jinping's old subordinates from Zhejiang, Fujian, Shaanxi and Hebei
+
+# --- zhijiang ---
+- id: lou-yangsheng
+  name: 楼阳生
+  gender: m
+  born: 1959-10-23
+  birthplace: 浙江浦江
+  roles: [cc, prov]
+  status: active
+  statusNote: 2024 年底因年龄到限卸任河南省委书记，现任全国人大教科文卫委员会副主任委员。
+  tier: 2
+  headline: 前河南省委书记，习近平主政浙江时的丽水市委书记
+  ids: { wikidata: Q8999517 }
+  bio: >-
+    浙江浦江人，长期在浙江任职，2002 年任金华市长，2003 年起任丽水市委书记，时任浙江省委书记是习近平。十八大后先后任山西省委副书记、省长、省委书记，2021 年起任河南省委书记，2024 年底卸任。英国广播公司 2015 年引述《大公报》文章，把他列入与习近平一起在浙江工作的“之江新军”；自由亚洲电台 2019 年引述的文章也把他列为习的浙江旧部。
+  positions:
+    - { title: 金华市长, sys: gov, place: 浙江, from: 2002-03, to: 2003-02, cite: f07-wiki-lou-yangsheng }
+    - { title: 丽水市委书记, place: 浙江, from: 2003-02, cite: f07-wiki-lou-yangsheng }
+    - { title: 山西省委副书记, place: 山西, from: 2014-06, to: 2016-08, cite: f07-wiki-lou-yangsheng }
+    - { title: 山西省长, sys: gov, place: 山西, from: 2016-08, to: 2019-11, cite: f07-wiki-lou-yangsheng }
+    - { title: 山西省委书记, place: 山西, from: 2019-11, to: 2021-06, cite: f07-wiki-lou-yangsheng }
+    - { title: 河南省委书记, place: 河南, from: 2021-06, to: 2024-12, cite: f07-wiki-lou-yangsheng }
+    - { title: 全国人大教科文卫委员会副主任委员, sys: gov, cite: f07-wiki-lou-yangsheng }
+  factions:
+    - f: zhijiang
+      cite: b11-bbc-2015-07-31-chen-guizhou
+      quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军、舒国增、夏宝龙、李强、陈敏尔、巴音朝鲁、楼阳生、应勇、陈德荣都是领略《之江新语》政治智慧和思想思路的第一批读者，堪称是一支“之江新军”
+      rank: backbone
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 尤以浙江旧部“之江新军”分量最重……楼阳生（山西省代省长）
+      rank: backbone
+  cites: [b11-bbc-2015-07-31-chen-guizhou, f01-rfa-2019-02-22-shaanxi, f07-wiki-lou-yangsheng, wd-Q8999517]
+
+- id: shu-guozeng
+  name: 舒国增
+  gender: m
+  born: 1956-08
+  birthplace: 浙江杭州
+  roles: [minister]
+  status: retired
+  statusNote: 已卸任中央纪委驻中央办公厅纪检组组长。
+  tier: 2
+  headline: 前中央纪委驻中央办公厅纪检组组长，习近平主政浙江时的省委办公厅副主任
+  ids: { wikidata: Q22774307 }
+  bio: >-
+    浙江杭州人，长期在浙江省委办公厅工作，历任综合处处长、省委办公厅副主任，2008 年起任浙江省委副秘书长，后兼任省委政研室主任。2014 年进京任中央财办副主任，2017 年任中央纪委驻中央办公厅纪检组组长。英国广播公司 2015 年报道把他列入“之江新军”；自由亚洲电台专栏称他当年是被习近平提拔为省委办公厅副主任的。
+  positions:
+    - { title: 浙江省委办公厅副主任, place: 浙江, cite: f07-wiki-shu-guozeng }
+    - { title: 浙江省委副秘书长, place: 浙江, from: 2008-05, to: 2014-11, cite: f07-wiki-shu-guozeng }
+    - { title: 中央财经领导小组办公室副主任, from: 2014-11, to: 2017-08, cite: f07-wiki-shu-guozeng }
+    - { title: 中央纪委驻中央办公厅纪检组组长, from: 2017-08, cite: f07-wiki-shu-guozeng }
+  factions:
+    - f: zhijiang
+      cite: b11-bbc-2015-07-31-chen-guizhou
+      quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军、舒国增、夏宝龙、李强、陈敏尔、巴音朝鲁、楼阳生、应勇、陈德荣都是领略《之江新语》政治智慧和思想思路的第一批读者，堪称是一支“之江新军”
+      rank: backbone
+  cites: [b11-bbc-2015-07-31-chen-guizhou, f02-rfa-2020-11-16-zhijiang, f07-powerapple-2015-10-03, f07-wiki-shu-guozeng, wd-Q22774307]
+
+- id: bayanchaolu
+  name: 巴音朝鲁
+  gender: m
+  ethnicity: 蒙古族
+  born: 1955-10-05
+  birthplace: 内蒙古鄂托克前旗
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国人大民族委员会主任委员。
+  tier: 2
+  headline: 前吉林省委书记，习近平主政浙江时的宁波市委书记
+  ids: { wikidata: Q4456697 }
+  bio: >-
+    蒙古族，共青团出身。2001 年离开团中央任浙江副省长，2003 年 12 月起任浙江省委常委、宁波市委书记，与时任省委书记习近平共事。2010 年调吉林，历任省委副书记、省政协主席、省长，2014 年至 2020 年任吉林省委书记，2023 年起任全国人大民族委员会主任委员。英国广播公司 2015 年报道把他列入“之江新军”。
+  positions:
+    - { title: 浙江副省长, sys: gov, place: 浙江, from: 2001-04, to: 2003-12, cite: f07-wiki-bayanchaolu }
+    - { title: 浙江省委常委、宁波市委书记, place: 浙江, from: 2003-12, to: 2010-08, cite: f07-wiki-bayanchaolu }
+    - { title: 吉林省长, sys: gov, place: 吉林, from: 2012-11, to: 2014-08, cite: f07-wiki-bayanchaolu }
+    - { title: 吉林省委书记, place: 吉林, from: 2014-08, to: 2020-11, cite: f07-wiki-bayanchaolu }
+    - { title: 全国人大民族委员会主任委员, sys: gov, from: 2023-03, cite: f07-wiki-bayanchaolu }
+  factions:
+    - f: zhijiang
+      cite: b11-bbc-2015-07-31-chen-guizhou
+      quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军、舒国增、夏宝龙、李强、陈敏尔、巴音朝鲁、楼阳生、应勇、陈德荣都是领略《之江新语》政治智慧和思想思路的第一批读者，堪称是一支“之江新军”
+      rank: backbone
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 尤以浙江旧部“之江新军”分量最重……巴音朝鲁（吉林省委书记）
+      rank: backbone
+  cites: [b11-bbc-2015-07-31-chen-guizhou, f01-rfa-2019-02-22-shaanxi, f07-wiki-bayanchaolu, wd-Q4456697]
+
+- id: chen-derong
+  name: 陈德荣
+  gender: m
+  born: 1961-03
+  birthplace: 浙江永嘉
+  roles: [biz]
+  status: retired
+  statusNote: 已卸任中国宝武钢铁集团董事长。
+  tier: 2
+  headline: 前中国宝武钢铁集团董事长，曾任浙江副省长、温州市委书记
+  ids: { wikidata: Q9364799 }
+  bio: >-
+    浙江永嘉人，1998 年起任嘉兴市副市长，后任嘉兴市长、市委书记；习近平主政浙江期间他在嘉兴任职。2010 年任浙江副省长兼温州市委书记，2014 年转入宝钢，2018 年起任中国宝武钢铁集团董事长。英国广播公司 2015 年报道把他列入“之江新军”。
+  positions:
+    - { title: 嘉兴市委书记, place: 浙江, from: 2007-08, to: 2010-07, cite: f07-wiki-chen-derong }
+    - { title: 浙江副省长、温州市委书记, sys: gov, place: 浙江, from: 2010-07, to: 2014-07, cite: f07-wiki-chen-derong }
+    - { title: 中国宝武钢铁集团董事长, sys: other, place: 上海, from: 2018-06, to: 2023-06, cite: f07-wiki-chen-derong }
+  factions:
+    - f: zhijiang
+      cite: b11-bbc-2015-07-31-chen-guizhou
+      quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军、舒国增、夏宝龙、李强、陈敏尔、巴音朝鲁、楼阳生、应勇、陈德荣都是领略《之江新语》政治智慧和思想思路的第一批读者，堪称是一支“之江新军”
+      rank: periphery
+  cites: [b11-bbc-2015-07-31-chen-guizhou, f07-wiki-chen-derong, wd-Q9364799]
+
+- id: liu-qi-jiangxi
+  name: 刘奇
+  gender: m
+  born: 1957-09
+  birthplace: 山东沂水
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国人大常委会秘书长。
+  tier: 2
+  headline: 全国人大常委会秘书长，前江西省委书记，习近平主政浙江时的温州市长
+  ids: { wikidata: Q9110620 }
+  bio: >-
+    山东沂水人，长期在浙江工作。习近平主政浙江时，他于 2003 年起任温州市长，2006 年任浙江省发改委主任，后任宁波市长、市委书记。2016 年调江西，历任省委副书记、省长，2018 年至 2021 年任江西省委书记，2023 年起任全国人大常委会秘书长。自由亚洲电台 2019 年引述的文章把他列为习的浙江旧部。
+  positions:
+    - { title: 温州市长, sys: gov, place: 浙江, from: 2003-02, to: 2006-03, cite: f07-wiki-liu-qi-jiangxi }
+    - { title: 浙江省发改委主任, sys: gov, place: 浙江, from: 2006-03, cite: f07-wiki-liu-qi-jiangxi }
+    - { title: 浙江省委常委、宁波市委书记, place: 浙江, from: 2013-04, to: 2016-02, cite: f07-wiki-liu-qi-jiangxi }
+    - { title: 江西省长, sys: gov, place: 江西, from: 2016-02, to: 2018-03, cite: f07-wiki-liu-qi-jiangxi }
+    - { title: 江西省委书记, place: 江西, from: 2018-03, to: 2021-10, cite: f07-wiki-liu-qi-jiangxi }
+    - { title: 全国人大常委会秘书长, sys: gov, from: 2023-03, cite: f07-wiki-liu-qi-jiangxi }
+  factions:
+    - f: zhijiang
+      cite: f07-ntdtv-2017-11-08-new-armies
+      quote: “之江新军”主要指上海书记李强、重庆市委陈敏尔等浙江出身的干部，还包括上海市长应勇、吉林书记巴音朝鲁、商务部长钟山、辽宁新省长唐一军、江西省长刘奇
+      rank: backbone
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 尤以浙江旧部“之江新军”分量最重……刘奇（江西省代省长）
+      rank: backbone
+  cites: [f01-rfa-2019-02-22-shaanxi, f07-ntdtv-2017-11-08-new-armies, f07-wiki-liu-qi-jiangxi, wd-Q9110620]
+
+- id: xu-lingyi
+  name: 徐令义
+  gender: m
+  born: 1958-04
+  birthplace: 浙江衢州
+  roles: [ccdi]
+  status: active
+  statusNote: 现任全国政协社会和法制委员会主任。
+  tier: 2
+  headline: 前中央纪委副书记，习近平主政浙江时的省委副秘书长
+  ids: { wikidata: Q47670249 }
+  bio: >-
+    浙江衢州人。2001 年任浙江省委宣传部副部长，2005 年调任浙江省委副秘书长，在时任省委书记习近平身边工作。2008 年进京任国家信访局副局长，后任中央文明办专职副主任、中央纪委驻中央办公厅纪检组组长，2017 年任中央纪委副书记，后兼国家监委副主任，2023 年转任全国政协社会和法制委员会主任。自由亚洲电台专栏作者高新写道：“如果说当时的李强是习近平的大秘的话，那么徐令义就是习近平的二秘。”
+  positions:
+    - { title: 浙江省委宣传部副部长, place: 浙江, from: 2001-08, to: 2005-08, cite: f07-wiki-xu-lingyi }
+    - { title: 浙江省委副秘书长, place: 浙江, from: 2005-08, to: 2008-04, cite: f07-wiki-xu-lingyi }
+    - { title: 国家信访局副局长, sys: gov, from: 2008-04, to: 2014-02, cite: f07-wiki-xu-lingyi }
+    - { title: 中央纪委驻中央办公厅纪检组组长, from: 2015-03, to: 2017-10, cite: f07-wiki-xu-lingyi }
+    - { title: 中央纪委副书记, from: 2017-10, to: 2022-10, cite: f07-wiki-xu-lingyi }
+    - { title: 全国政协社会和法制委员会主任, sys: other, from: 2023-03, cite: f07-wiki-xu-lingyi }
+  factions:
+    - f: zhijiang
+      cite: f07-rfa-2020-11-20-xu-lingyi
+      quote: 就不能不提我们上篇文章中还没有介绍到的习近平“之江新军”中的另外一名重要成员徐令义
+      rank: backbone
+      rankQuote: 习近平“之江新军”中的另外一名重要成员徐令义
+  cites: [f07-rfa-2020-11-20-xu-lingyi, f07-wiki-xu-lingyi, wd-Q47670249]
+
+- id: tang-yijun
+  name: 唐一军
+  gender: m
+  born: 1961-03-19
+  birthplace: 山东莒县
+  roles: [prov, minister, tiger]
+  status: detained
+  statusNote: 2026 年 2 月一审以受贿罪被判处无期徒刑。
+  tier: 2
+  headline: 前司法部长、江西省政协主席，2026 年被判无期徒刑
+  ids: { wikidata: Q28409121 }
+  bio: >-
+    山东莒县人，在浙江工作约四十年。习近平主政浙江时，他于 2002 年任浙江省纪委常委、秘书长，2005 年起任宁波市委副书记、市纪委书记，后历任宁波市政协主席、市长、市委书记和浙江省委副书记。2017 年调任辽宁省长，2020 年任司法部长，2023 年 1 月转任江西省政协主席。2024 年 4 月被查，10 月被开除党籍和公职；2026 年 2 月厦门市中级人民法院以受贿罪判处其无期徒刑，认定受贿 1.37 亿余元。法国国际广播电台报道称他与习近平的浙江帮“之江新军”有千丝万缕的关系。
+  positions:
+    - { title: 浙江省纪委常委、秘书长, place: 浙江, from: 2002-06, to: 2005-06, cite: f07-wiki-tang-yijun }
+    - { title: 宁波市委副书记、市纪委书记, place: 浙江, from: 2005-06, cite: f07-wiki-tang-yijun }
+    - { title: 浙江省委常委、宁波市委书记, place: 浙江, from: 2016-08, to: 2017-05, cite: f07-wiki-tang-yijun }
+    - { title: 浙江省委副书记, place: 浙江, from: 2017-05, to: 2017-10, cite: f07-wiki-tang-yijun }
+    - { title: 辽宁省长, sys: gov, place: 辽宁, from: 2017-10, to: 2020-04, cite: f07-wiki-tang-yijun }
+    - { title: 司法部长, sys: gov, from: 2020-04, to: 2023-01, cite: f07-wiki-tang-yijun }
+    - { title: 江西省政协主席, sys: other, place: 江西, from: 2023-01, to: 2024-04, cite: f07-wiki-tang-yijun }
+  fall:
+    - { date: 2024-04-02, text: 涉嫌严重违纪违法，接受中央纪委国家监委审查调查, cite: f07-rfi-2024-04-02-tang-yijun }
+    - { date: 2024-10-07, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送审查起诉, cite: f07-ccdi-2024-10-07-tang-yijun }
+    - { date: 2026-02-02, text: 厦门市中级人民法院一审以受贿罪判处无期徒刑, cite: f07-court-2026-02-02-tang-yijun }
+  factions:
+    - f: zhijiang
+      cite: f07-rfi-2024-04-02-tang-yijun
+      quote: 二则唐一军起家于浙江，与习近平的浙江帮“之江新军”有千丝万缕的关系
+      rank: backbone
+      rankQuote: 毕竟他是浙江帮重要成员
+  cites: [f07-rfi-2024-04-02-tang-yijun, f07-ccdi-2024-10-07-tang-yijun, f07-court-2026-02-02-tang-yijun, f07-wiki-tang-yijun, wd-Q28409121]
+
+- id: zhao-yide
+  name: 赵一德
+  gender: m
+  born: 1965-02-19
+  birthplace: 浙江温岭
+  roles: [cc, prov]
+  status: active
+  tier: 2
+  headline: 陕西省委书记，习近平主政浙江时的团省委书记
+  ids: { wikidata: Q9095293 }
+  bio: >-
+    浙江温岭人。习近平主政浙江期间，他从共青团浙江省委副书记升任书记，后任温州市委副书记、温州市长。此后历任衢州市委书记、浙江省委秘书长、杭州市委书记，2018 年调任河北省委副书记，2020 年任陕西省长，2022 年 11 月接替刘国中任陕西省委书记。
+  positions:
+    - { title: 共青团浙江省委书记, place: 浙江, from: 2003-12, to: 2006-11, cite: f07-wiki-zhao-yide }
+    - { title: 温州市委副书记, place: 浙江, from: 2006-11, cite: f07-wiki-zhao-yide }
+    - { title: 浙江省委秘书长, place: 浙江, from: 2012-05, cite: f07-wiki-zhao-yide }
+    - { title: 杭州市委书记, place: 浙江, from: 2015-09, to: 2018-03, cite: f07-wiki-zhao-yide }
+    - { title: 河北省委副书记, place: 河北, from: 2018-03, to: 2020-08, cite: f07-wiki-zhao-yide }
+    - { title: 陕西省长, sys: gov, place: 陕西, from: 2020-08, to: 2022-11, cite: f07-wiki-zhao-yide }
+    - { title: 陕西省委书记, place: 陕西, from: 2022-11, cite: f07-wiki-zhao-yide }
+  factions:
+    - f: zhijiang
+      cite: f07-secretchina-2020-09-05-zheng-shanjie
+      quote: 赵一德也是习近平浙江旧部，是浙江温岭人，习近平主政浙江时，赵任温州市委副书记等职
+      rank: backbone
+    - f: shaanxi
+      cite: f07-soh-shaanxi
+      quote: 陕藉或仕途经历陕西的官员，被合称为「陕军」、「陕西帮」或「陕甘宁帮」。除了前边提到的李希、刘国中和赵一德等人目前得势
+      rank: backbone
+  cites: [f07-zaobao-2022-11-27-zhao-yide, f07-secretchina-2020-09-05-zheng-shanjie, f07-soh-shaanxi, f07-wiki-zhao-yide, wd-Q9095293]
+
+- id: gong-zheng
+  name: 龚正
+  gender: m
+  born: 1960-03-04
+  birthplace: 江苏苏州
+  roles: [cc, prov]
+  status: retired
+  statusNote: 2026 年 9 月卸任上海市长。
+  tier: 2
+  headline: 前上海市长，曾任浙江副省长、杭州市委书记
+  ids: { wikidata: Q8964883 }
+  bio: >-
+    江苏苏州人，海关系统出身，曾任海关总署副署长。2008 年 12 月起任浙江副省长，后任杭州市委书记；习近平此时已离开浙江。2015 年调山东，历任省委副书记、省长，2020 年起任上海市长，2026 年 9 月卸任。联合早报说他在浙江期间曾与“之江新军”官员共事；法国国际广播电台引述港媒分析则指出，他在浙江并没有与习近平共事的经历。
+  positions:
+    - { title: 浙江副省长, sys: gov, place: 浙江, from: 2008-12, cite: f07-wiki-gong-zheng }
+    - { title: 山东省委副书记, place: 山东, from: 2015-08, cite: f07-wiki-gong-zheng }
+    - { title: 上海市长, sys: gov, place: 上海, from: 2020-03, to: 2026-09, cite: f07-wiki-gong-zheng }
+  factions:
+    - f: zhijiang
+      cite: f07-zaobao-2020-03-20-gong-zheng
+      quote: 龚正在浙江期间，曾与中共总书记习近平主政浙江时的老部下、被外界称为“之江新军”的陈敏尔、黄坤明、蔡奇、李强等官员共事
+      rank: periphery
+  cites: [f07-zaobao-2020-03-20-gong-zheng, f07-rfi-2020-03-23-gong-zheng, f07-wiki-gong-zheng, wd-Q8964883]
+
+- id: ye-hanbing
+  name: 叶寒冰
+  gender: m
+  born: 1965-10
+  birthplace: 浙江三门
+  roles: [tiger]
+  status: detained
+  statusNote: 2026 年 4 月被提起公诉。
+  tier: 2
+  headline: 前四川副省长、公安厅长，2025 年落马
+  ids: { wikidata: Q97192244 }
+  bio: >-
+    浙江三门人，长期在浙江公安系统任职，历任浙江省公安厅治安总队总队长、温州市公安局长、浙江省公安厅副厅长、杭州市公安局长。2018 年调任四川副省长兼公安厅长。2025 年 5 月被查，11 月被开除党籍和公职，2026 年 4 月被提起公诉，官方通报指他“搞团团伙伙，搞迷信活动”。大纪元称他是“之江新军”要员。
+  positions:
+    - { title: 温州市委常委、市公安局长, sys: gov, place: 浙江, from: 2009-03, to: 2012-01, cite: f07-wiki-ye-hanbing }
+    - { title: 浙江省公安厅副厅长, sys: gov, place: 浙江, from: 2012-01, to: 2014-06, cite: f07-wiki-ye-hanbing }
+    - { title: 杭州市委常委、市公安局长, sys: gov, place: 浙江, from: 2014-06, to: 2018-01, cite: f07-wiki-ye-hanbing }
+    - { title: 四川副省长、省公安厅长, sys: gov, place: 四川, from: 2018-01, to: 2025-05, cite: f07-wiki-ye-hanbing }
+  fall:
+    - { date: 2025-05, text: 官方通报其被查, cite: f07-chinanews-2026-04-07-ye-hanbing }
+    - { date: 2025-11, text: 被开除党籍和公职, cite: f07-chinanews-2026-04-07-ye-hanbing }
+    - { date: 2026-04-07, text: 以涉嫌受贿罪被提起公诉, cite: f07-chinanews-2026-04-07-ye-hanbing }
+  factions:
+    - f: zhijiang
+      cite: f07-epoch-2025-05-22-ye-hanbing
+      quote: 叶寒冰曾长期在浙江公安系统任职，是习家军之江新军要员，并与赵一德、龚正等多名之江新军大员有交集
+      rank: backbone
+      rankQuote: 是习家军之江新军要员
+    - f: xi-jiajun
+      cite: f07-epoch-2025-05-22-ye-hanbing
+      quote: 叶寒冰曾长期在浙江公安系统任职，是习家军之江新军要员
+      rank: periphery
+  cites: [f07-chinanews-2026-04-07-ye-hanbing, f07-epoch-2025-05-22-ye-hanbing, f07-wiki-ye-hanbing, wd-Q97192244]
+
+- id: shi-kehui
+  name: 施克辉
+  gender: m
+  born: 1961-07
+  birthplace: 浙江浦江
+  roles: [ccdi]
+  status: active
+  statusNote: 2021 年起任中央纪委国家监委驻港澳办纪检监察组组长，2023 年随机构改组转任驻中央港澳工作办公室纪检监察组组长。
+  tier: 2
+  headline: 中央纪委驻中央港澳办纪检监察组组长，前广东省纪委书记
+  ids: { wikidata: Q30944104 }
+  bio: >-
+    浙江浦江人，长期在浙江省委办公厅工作，历任文电处处长、省委办公厅副主任，2013 年任浙江省委副秘书长。2016 年任中央第一巡视组副组长，2017 年 3 月任中央纪委办公厅主任，同年 5 月任广东省委常委、省纪委书记，2021 年起任中央纪委国家监委驻港澳办纪检监察组组长。大纪元称他是习近平和王岐山的旧部，曾是王岐山的“大管家”。
+  positions:
+    - { title: 浙江省委办公厅副主任, place: 浙江, cite: f07-wiki-shi-kehui }
+    - { title: 浙江省委副秘书长, place: 浙江, from: 2013-05, cite: f07-wiki-shi-kehui }
+    - { title: 中央纪委办公厅主任, from: 2017-03, to: 2017-05, cite: f07-wiki-shi-kehui }
+    - { title: 广东省委常委、省纪委书记, place: 广东, from: 2017-05, to: 2021-01, cite: f07-wiki-shi-kehui }
+    - { title: 中央纪委国家监委驻港澳办纪检监察组组长, from: 2021-01, cite: f07-wiki-shi-kehui }
+  factions:
+    - f: zhijiang
+      cite: f07-epoch-2025-05-22-ye-hanbing
+      quote: 习近平、夏宝龙主政浙江期间，施克辉曾长期在中共浙江省委办公厅任职，是习家军之江新军要员
+      rank: backbone
+      rankQuote: 是习家军之江新军要员
+    - f: xi-jiajun
+      cite: f07-epoch-2025-05-22-ye-hanbing
+      quote: 施克辉是中共党魁习近平和前中纪委书记王岐山的旧部
+      rank: periphery
+  cites: [f07-wiki-shi-kehui, f07-epoch-2025-05-22-ye-hanbing, wd-Q30944104]
+
+- id: zhong-shan
+  name: 钟山
+  gender: m
+  born: 1955-10
+  birthplace: 浙江上虞
+  roles: [cc, minister]
+  status: active
+  statusNote: 现任全国人大财政经济委员会主任委员。
+  tier: 2
+  headline: 前商务部长，习近平主政浙江时的浙江副省长
+  ids: { wikidata: Q22099947 }
+  bio: >-
+    浙江上虞人，外贸企业出身，1998 年任浙江省外经贸厅长，2003 年 1 月起任浙江副省长，与习近平同期在浙江任职。2008 年进京任商务部副部长，2017 年至 2020 年任商务部长。新唐人电视台 2017 年引述港媒，把他列入“之江新军”。
+  positions:
+    - { title: 浙江省对外贸易经济合作厅厅长, sys: gov, place: 浙江, from: 1998-12, to: 2003-01, cite: f07-wiki-zhong-shan }
+    - { title: 浙江副省长, sys: gov, place: 浙江, from: 2003-01, to: 2008-11, cite: f07-wiki-zhong-shan }
+    - { title: 商务部副部长, sys: gov, from: 2008-11, to: 2017-02, cite: f07-wiki-zhong-shan }
+    - { title: 商务部长, sys: gov, from: 2017-02, to: 2020-12, cite: f07-wiki-zhong-shan }
+  factions:
+    - f: zhijiang
+      cite: f07-ntdtv-2017-11-08-new-armies
+      quote: “之江新军”主要指上海书记李强、重庆市委陈敏尔等浙江出身的干部，还包括上海市长应勇、吉林书记巴音朝鲁、商务部长钟山
+      rank: backbone
+  cites: [f07-wiki-zhong-shan, f07-ntdtv-2017-11-08-new-armies, wd-Q22099947]
+
+- id: shen-haixiong
+  name: 慎海雄
+  gender: m
+  born: 1967-04-04
+  birthplace: 浙江湖州
+  roles: [cc, minister, media]
+  status: active
+  tier: 2
+  headline: 中央广播电视总台台长、中宣部副部长
+  ids: { wikidata: Q20829406 }
+  bio: >-
+    浙江湖州人，新华社记者出身，长期在新华社浙江分社工作，后任新华社上海分社社长、新华社副社长。2015 年任广东省委常委、宣传部长，2018 年起任中央广播电视总台台长。自由亚洲电台专栏作者高新称，习近平主政浙江时，他与朱国贤在新华社浙江分社为习宣传浙江政绩，这是两人后来受重用的原因。
+  positions:
+    - { title: 新华社浙江分社常务副总编辑, sys: other, place: 浙江, cite: f07-wiki-shen-haixiong }
+    - { title: 广东省委常委、宣传部长, place: 广东, from: 2015-08, to: 2018-02, cite: f07-wiki-shen-haixiong }
+    - { title: 中央广播电视总台台长, sys: other, from: 2018-03, cite: f07-wiki-shen-haixiong }
+  factions:
+    - f: zhijiang
+      cite: f07-rfa-2020-11-20-xu-lingyi
+      quote: 这就是习近平上台之后，在提拔当时的浙江省委常委兼宣传部长陈敏尔的同时，也陆续对当年在浙江还只是正厅和副厅级的徐令义，以及慎海雄和朱国贤委以重任的原因
+      rank: backbone
+  cites: [f07-rfa-2020-11-20-xu-lingyi, f07-wiki-shen-haixiong, wd-Q20829406]
+
+- id: zhu-guoxian
+  name: 朱国贤
+  gender: m
+  born: 1964-09
+  birthplace: 浙江义乌
+  roles: [minister]
+  status: active
+  statusNote: 现任吉林省政协主席。
+  tier: 2
+  headline: 吉林省政协主席，前浙江省委宣传部长
+  ids: { wikidata: Q60994233 }
+  bio: >-
+    浙江义乌人，新华社记者出身，习近平主政浙江时与慎海雄同在新华社浙江分社任职。2018 年回浙江任省委常委、宣传部长，2021 年任湖南省委副书记，2023 年起任吉林省政协主席。
+  positions:
+    - { title: 浙江省委常委、宣传部长, place: 浙江, from: 2018-10, to: 2021-11, cite: f07-wiki-zhu-guoxian }
+    - { title: 湖南省委副书记, place: 湖南, from: 2021-11, to: 2023-01, cite: f07-wiki-zhu-guoxian }
+    - { title: 吉林省政协主席, sys: other, place: 吉林, from: 2023-01, cite: f07-wiki-zhu-guoxian }
+  factions:
+    - f: zhijiang
+      cite: f07-rfa-2020-11-20-xu-lingyi
+      quote: 习近平主政浙江期间，慎海雄和与他同时任职新华社浙江分社的朱国贤，在陈敏尔和徐令义的授意下
+      rank: periphery
+  cites: [f07-rfa-2020-11-20-xu-lingyi, f07-wiki-zhu-guoxian, wd-Q60994233]
+
+# --- fujian ---
+- id: zheng-shanjie
+  name: 郑栅洁
+  gender: m
+  born: 1961-11-10
+  birthplace: 福建漳州
+  roles: [cc, minister]
+  status: active
+  tier: 2
+  headline: 国家发展和改革委员会主任
+  ids: { wikidata: Q24836207 }
+  bio: >-
+    福建漳州人，长期在厦门工作，2005 年任厦门市发改委主任，时任厦门市委书记是何立峰；后任福建省发改委主任、福建副省长。2015 年进京任国家能源局副局长，2017 年任国台办副主任，同年底调浙江任宁波市委书记，2020 年任浙江省长，2021 年任安徽省委书记，2023 年接替何立峰任国家发改委主任。联合早报称新老发改委主任同为福建出身的“闽系”官员。
+  positions:
+    - { title: 厦门市发改委主任, sys: gov, place: 福建, from: 2005-12, cite: f07-wiki-zheng-shanjie }
+    - { title: 福建省发改委主任, sys: gov, place: 福建, from: 2010-05, cite: f07-wiki-zheng-shanjie }
+    - { title: 浙江省委常委、宁波市委书记, place: 浙江, from: 2017-12, cite: f07-wiki-zheng-shanjie }
+    - { title: 浙江省长, sys: gov, place: 浙江, from: 2020-09, to: 2021-09, cite: f07-wiki-zheng-shanjie }
+    - { title: 安徽省委书记, place: 安徽, from: 2021-09, to: 2023-03, cite: f07-wiki-zheng-shanjie }
+    - { title: 国家发展和改革委员会主任, sys: gov, from: 2023-03, cite: f07-wiki-zheng-shanjie }
+  factions:
+    - f: fujian
+      cite: f07-zaobao-2023-03-13-zheng-shanjie
+      quote: 新老发改委主任同为福建出身的“闽系”官员，两人也有一段不浅的渊源
+      rank: backbone
+    - f: xi-jiajun
+      cite: f07-secretchina-2020-09-05-zheng-shanjie
+      quote: 郑栅洁1961年11月生，福建漳州人，曾长期在厦门任职，被外界视为“习家军”一员
+      rank: backbone
+  cites: [f07-zaobao-2023-03-13-zheng-shanjie, f07-udn-2026-04-12-zheng-xi, f07-secretchina-2020-09-05-zheng-shanjie, f07-wiki-zheng-shanjie, wd-Q24836207]
+
+- id: pei-jinjia
+  name: 裴金佳
+  gender: m
+  born: 1963-08
+  birthplace: 福建安溪
+  roles: [cc, minister]
+  status: active
+  tier: 2
+  headline: 退役军人事务部部长，前厦门市委书记
+  ids: { wikidata: Q22100202 }
+  bio: >-
+    福建安溪人，早年在厦门市财政局工作；联合早报说，1985 年他在财政局工作时，习近平任厦门副市长。此后历任开元区长、思明区委书记、厦门副市长、南平市长和市委书记，2015 年任厦门市长，次年任厦门市委书记。2018 年任国台办副主任，2022 年起任退役军人事务部部长。联合早报引述说法称他曾是何立峰的旧部属。
+  positions:
+    - { title: 开元区长, sys: gov, place: 福建, from: 1999-01, cite: f07-wiki-pei-jinjia }
+    - { title: 南平市委副书记、市长, sys: gov, place: 福建, from: 2010-04, cite: f07-wiki-pei-jinjia }
+    - { title: 厦门市长, sys: gov, place: 福建, from: 2015-02, to: 2016-09, cite: f07-wiki-pei-jinjia }
+    - { title: 厦门市委书记, place: 福建, from: 2016-09, to: 2018-11, cite: f07-wiki-pei-jinjia }
+    - { title: 国台办副主任, from: 2018-11, to: 2022-04, cite: f07-wiki-pei-jinjia }
+    - { title: 退役军人事务部部长, sys: gov, from: 2022-04, cite: f07-wiki-pei-jinjia }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……退役軍人事務部部長裴金佳
+      rank: backbone
+  cites: [f07-zaobao-2018-12-03-pei-jinjia, f07-secretchina-2026-01-11-fujian, f07-wiki-pei-jinjia, wd-Q22100202]
+
+- id: zhuang-rongwen
+  name: 庄荣文
+  gender: m
+  born: 1961-02-22
+  birthplace: 福建泉州
+  roles: [cc, minister]
+  status: active
+  tier: 2
+  headline: 中央网信办主任，习近平的福建旧部
+  ids: { wikidata: Q55694631 }
+  bio: >-
+    福建泉州人，水利工程博士，长期在福建工作，曾任福建省计委副主任、科技厅长。2010 年进京到国务院侨办，2014 年任侨办副主任，2015 年任中央网信办副主任，2018 年 7 月起任中宣部副部长、中央网信办主任。美国之音称他是习近平的另一福建旧部；联合早报则推算，习近平在福建任职期间，他很可能曾是习的部下。
+  positions:
+    - { title: 国务院侨办副主任, sys: gov, from: 2014-06, to: 2015-08, cite: f07-wiki-zhuang-rongwen }
+    - { title: 中央网信办副主任, from: 2015-08, to: 2018-07, cite: f07-wiki-zhuang-rongwen }
+    - { title: 中宣部副部长、中央网信办主任, from: 2018-07, cite: f07-wiki-zhuang-rongwen }
+  factions:
+    - f: fujian
+      cite: f07-voa-2018-08-21-zhuang-rongwen
+      quote: 此外，习近平的另一福建旧部庄荣文接任网信办主任
+      rank: backbone
+  cites: [f07-voa-2018-08-21-zhuang-rongwen, f07-zaobao-2018-08-02-zhuang-rongwen, f07-wiki-zhuang-rongwen, wd-Q55694631]
+
+- id: lin-rui
+  name: 林锐
+  gender: m
+  born: 1967-08-12
+  birthplace: 福建福州
+  roles: [minister]
+  status: active
+  statusNote: 现任中央统战部副部长。
+  tier: 2
+  headline: 中央统战部副部长，前公安部副部长
+  ids: { wikidata: Q60992343 }
+  bio: >-
+    福建人，中国人民警官大学毕业，长期在福建公安系统任职，2011 年任泉州副市长、市公安局长。2013 年 10 月接替王小洪任厦门市公安局长，2015 年升任厦门副市长。2018 年进京任公安部部长助理，同年 11 月任公安部副部长，2022 年转任中央政法委副秘书长，同年 12 月起任中央统战部副部长。
+  positions:
+    - { title: 泉州副市长、市公安局长, sys: gov, place: 福建, from: 2011-09, to: 2013-10, cite: f07-wiki-lin-rui }
+    - { title: 厦门市公安局长, sys: gov, place: 福建, from: 2013-10, to: 2018-06, cite: f07-wiki-lin-rui }
+    - { title: 公安部副部长, sys: gov, from: 2018-11, to: 2022-05, cite: f07-wiki-lin-rui }
+    - { title: 中央政法委副秘书长, from: 2022-05, to: 2022-12, cite: f07-wiki-lin-rui }
+    - { title: 中央统战部副部长, from: 2022-12, cite: f07-wiki-lin-rui }
+  factions:
+    - f: fujian
+      cite: f07-epoch-2020-08-02-zhao-yide
+      quote: 习近平上台后，他的很多福建旧部也被提拔。如……公安部副部长林锐
+      rank: backbone
+  cites: [f07-wiki-lin-rui, f07-epoch-2020-08-02-zhao-yide, f07-soh-song-tao, wd-Q60992343]
+
+- id: lin-wu
+  name: 林武
+  gender: m
+  born: 1962-02
+  birthplace: 福建福州
+  roles: [cc, prov]
+  status: active
+  tier: 2
+  headline: 山东省委书记
+  ids: { wikidata: Q8998100 }
+  bio: >-
+    福建人，长期在湖南钢铁企业和娄底任职。2016 年任吉林省委常委、组织部长，2018 年任山西常务副省长，2019 年任山西省长，2021 年任山西省委书记，2022 年 12 月起任山东省委书记。
+  positions:
+    - { title: 吉林省委常委、组织部长, place: 吉林, from: 2016-01, cite: f07-wiki-lin-wu }
+    - { title: 山西省长, sys: gov, place: 山西, from: 2019-12, to: 2021-06, cite: f07-wiki-lin-wu }
+    - { title: 山西省委书记, place: 山西, from: 2021-06, to: 2022-12, cite: f07-wiki-lin-wu }
+    - { title: 山东省委书记, place: 山东, from: 2022-12, cite: f07-wiki-lin-wu }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……山西省委書記林武
+      rank: backbone
+  cites: [f07-wiki-lin-wu, f07-secretchina-2026-01-11-fujian, f07-soh-song-tao, wd-Q8998100]
+
+- id: xu-kunlin
+  name: 许昆林
+  gender: m
+  born: 1965-05
+  birthplace: 福建永春
+  roles: [cc, prov]
+  status: active
+  tier: 2
+  headline: 辽宁省委书记，前江苏省长
+  ids: { wikidata: Q30950392 }
+  bio: >-
+    福建永春人，长期在国家发改委工作。2017 年任上海副市长，2020 年任江苏省委常委、苏州市委书记，2021 年起任江苏省长，2025 年 9 月调任辽宁省委书记。
+  positions:
+    - { title: 上海副市长, sys: gov, place: 上海, from: 2017-03, to: 2020-09, cite: f07-wiki-xu-kunlin }
+    - { title: 江苏省委常委、苏州市委书记, place: 江苏, from: 2020-09, to: 2021-10, cite: f07-wiki-xu-kunlin }
+    - { title: 江苏省长, sys: gov, place: 江苏, from: 2021-10, to: 2025-09, cite: f07-wiki-xu-kunlin }
+    - { title: 辽宁省委书记, place: 辽宁, from: 2025-09, cite: f07-wiki-xu-kunlin }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……江蘇省長許昆林
+      rank: backbone
+  cites: [f07-wiki-xu-kunlin, f07-secretchina-2026-01-11-fujian, wd-Q30950392]
+
+- id: zheng-xincong
+  name: 郑新聪
+  gender: m
+  born: 1963-11
+  birthplace: 福建仙游
+  roles: [cc, hkmt]
+  status: active
+  tier: 2
+  headline: 中央港澳办副主任、澳门中联办主任
+  ids: { wikidata: Q16907471 }
+  bio: >-
+    福建仙游人，长期在福建工作，历任宁德市长、泉州市长和市委书记、福建副省长、福建省委秘书长。2021 年调任澳门中联办副主任，2022 年 5 月升任主任，2023 年起兼任中央港澳工作办公室副主任。
+  positions:
+    - { title: 宁德市长, sys: gov, place: 福建, from: 2012-01, to: 2013-02, cite: f07-wiki-zheng-xincong }
+    - { title: 福建副省长, sys: gov, place: 福建, from: 2018-01, cite: f07-wiki-zheng-xincong }
+    - { title: 澳门中联办主任, from: 2022-05, cite: f07-wiki-zheng-xincong }
+    - { title: 中央港澳工作办公室副主任, from: 2023-07, cite: f07-wiki-zheng-xincong }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……澳門中聯辦主任鄭新聰
+      rank: backbone
+  cites: [f07-wiki-zheng-xincong, f07-secretchina-2026-01-11-fujian, wd-Q16907471]
+
+- id: huang-jianfa
+  name: 黄建发
+  gender: m
+  born: 1965-01
+  birthplace: 福建邵武
+  roles: [cc, minister]
+  status: active
+  tier: 2
+  headline: 中组部副部长，前浙江省委副书记
+  ids: { wikidata: Q30947255 }
+  bio: >-
+    福建邵武人，地震系统出身，曾任福建省地震局长，后到成都、四川任职，2017 年任四川省委组织部长。2018 年调任浙江省委组织部长，2021 年任浙江省委副书记，2023 年起任中组部副部长，2025 年起分管中组部日常工作。
+  positions:
+    - { title: 福建省地震局长, sys: gov, place: 福建, from: 2003-05, cite: f07-wiki-huang-jianfa }
+    - { title: 浙江省委常委、组织部长, place: 浙江, from: 2018-07, to: 2021-06, cite: f07-wiki-huang-jianfa }
+    - { title: 浙江省委副书记, place: 浙江, from: 2021-06, to: 2023-03, cite: f07-wiki-huang-jianfa }
+    - { title: 中组部副部长, from: 2023-03, cite: f07-wiki-huang-jianfa }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……中組部「分管日常工作的副部長」黃建發
+      rank: backbone
+  cites: [f07-wiki-huang-jianfa, f07-secretchina-2026-01-11-fujian, wd-Q30947255]
+
+- id: pan-xianzhang
+  name: 潘贤掌
+  gender: m
+  born: 1972-09
+  birthplace: 福建泉州
+  roles: [hkmt]
+  status: active
+  tier: 2
+  headline: 国台办副主任
+  ids: { wikidata: Q110405588 }
+  bio: >-
+    福建泉州人，厦门大学博士，毕业后在福建地税部门工作，2005 年通过公选调往山西，2021 年跨省任江苏副省长，后任江苏省委秘书长，2022 年 8 月起任国台办副主任。大纪元称他与蔡奇、黄坤明、宋涛是福建师范大学校友。
+  positions:
+    - { title: 江苏副省长, sys: gov, place: 江苏, from: 2021-03, cite: f07-wiki-pan-xianzhang }
+    - { title: 国台办副主任, from: 2022-08, cite: f07-wiki-pan-xianzhang }
+  factions:
+    - f: fujian
+      cite: f07-soh-song-tao
+      quote: 潘贤掌是福建泉州人，出身官场闽系，能讲流利闽南话
+      rank: periphery
+  cites: [f07-wiki-pan-xianzhang, f07-soh-song-tao, f07-epoch-2024-10-29-fujian, wd-Q110405588]
+
+- id: shen-danyang
+  name: 沈丹阳
+  gender: m
+  born: 1965-02
+  birthplace: 福建诏安
+  roles: [acc, minister]
+  status: active
+  tier: 2
+  headline: 国务院研究室主任
+  ids: { wikidata: Q97193330 }
+  bio: >-
+    福建诏安人，厦门大学毕业，曾在厦门工作，2003 年起在商务部任职，2011 年任商务部新闻发言人。2018 年任海南副省长，后任常务副省长、海南省委副书记，2024 年 9 月起任国务院研究室主任。
+  positions:
+    - { title: 海南副省长, sys: gov, place: 海南, from: 2018-08, cite: f07-wiki-shen-danyang }
+    - { title: 海南省委副书记, place: 海南, from: 2023-06, to: 2024-09, cite: f07-wiki-shen-danyang }
+    - { title: 国务院研究室主任, sys: gov, from: 2024-09, cite: f07-wiki-shen-danyang }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……國務院研究室主任瀋丹陽
+      rank: periphery
+  cites: [f07-wiki-shen-danyang, f07-secretchina-2026-01-11-fujian, f07-epoch-2024-10-29-fujian, wd-Q97193330]
+
+- id: chen-jianwen
+  name: 陈建文
+  gender: m
+  born: 1965-09
+  birthplace: 福建龙海
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 人民日报社总编辑
+  ids: { wikidata: Q85353420 }
+  bio: >-
+    福建龙海人，北京师范大学毕业，曾任中国文联副主席、中央和国家机关工委副书记，后任广东省委常委、宣传部长，2024 年 10 月调任人民日报社总编辑。大纪元称他是蔡奇的同乡和学弟。
+  positions:
+    - { title: 广东省委常委、宣传部长, place: 广东, to: 2024-10, cite: f07-wiki-chen-jianwen }
+    - { title: 人民日报社总编辑, sys: other, from: 2024-10, cite: f07-wiki-chen-jianwen }
+  factions:
+    - f: fujian
+      cite: f07-epoch-2024-10-29-fujian
+      quote: 陳是掌控宣傳的政治局常委蔡奇的老鄉和學弟
+      rank: periphery
+  cites: [f07-wiki-chen-jianwen, f07-epoch-2024-10-29-fujian, wd-Q85353420]
+
+- id: hou-jianguo
+  name: 侯建国
+  gender: m
+  born: 1959-10-29
+  birthplace: 福建平潭
+  origin: 福建福清
+  roles: [cc, scholar, minister]
+  status: active
+  tier: 2
+  headline: 中国科学院院长
+  ids: { wikidata: Q8970125 }
+  bio: >-
+    福建福清人，生于平潭，化学家、中国科学院院士，曾任中国科学技术大学校长。2015 年进入政界任科技部副部长，2016 年任广西壮族自治区党委副书记，2017 年任国家质检总局党组书记，2018 年回中科院任副院长，2020 年底起任中国科学院院长。
+  positions:
+    - { title: 科技部副部长, sys: gov, from: 2015-01, to: 2016-11, cite: f07-wiki-hou-jianguo }
+    - { title: 广西壮族自治区党委副书记, place: 广西, from: 2016-11, to: 2017-06, cite: f07-wiki-hou-jianguo }
+    - { title: 国家质检总局党组书记, sys: gov, from: 2017-06, to: 2018-03, cite: f07-wiki-hou-jianguo }
+    - { title: 中国科学院院长, sys: other, from: 2020-11, cite: f07-wiki-hou-jianguo }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……中科院院長侯建國
+      rank: periphery
+  cites: [f07-wiki-hou-jianguo, f07-secretchina-2026-01-11-fujian, wd-Q8970125]
+
+- id: ding-laihang
+  name: 丁来杭
+  gender: m
+  born: 1957-09
+  birthplace: 浙江杭州
+  roles: [general, cc]
+  status: purged
+  statusNote: 2023 年 12 月被罢免全国人大代表职务。
+  tier: 2
+  headline: 前空军司令员，2023 年被罢免全国人大代表
+  ids: { wikidata: Q10864315 }
+  bio: >-
+    浙江杭州人，空军将领，2003 年任空军福州指挥所司令员，后任成都军区空军参谋长、沈阳军区空军司令员，2017 年至 2021 年任空军司令员。2023 年 12 月 29 日，空军军人代表大会决定罢免其第十四届全国人大代表职务，其全国人大常委会委员职务相应撤销。大纪元把他列为习近平获提拔的福建旧部。
+  positions:
+    - { title: 空军福州指挥所司令员, sys: army, place: 福建, from: 2003, to: 2007, cite: f07-wiki-ding-laihang }
+    - { title: 北部战区副司令员兼战区空军司令员, sys: army, from: 2016-01, to: 2017-08, cite: f07-wiki-ding-laihang }
+    - { title: 空军司令员, sys: army, from: 2017-08, to: 2021-09, cite: f07-wiki-ding-laihang }
+  fall:
+    - { date: 2023-12-29, text: 被空军军人代表大会罢免第十四届全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+  factions:
+    - f: fujian
+      cite: f07-epoch-2020-08-02-zhao-yide
+      quote: 习近平上台后，他的很多福建旧部也被提拔。如……中共空军司令员丁来杭等人
+      rank: backbone
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, f07-wiki-ding-laihang, f07-epoch-2020-08-02-zhao-yide, wd-Q10864315]
+
+- id: liu-cigui
+  name: 刘赐贵
+  gender: m
+  born: 1955-09-18
+  birthplace: 福建惠安
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国政协港澳台侨委员会主任。
+  tier: 2
+  headline: 前海南省委书记，曾任厦门市长
+  ids: { wikidata: Q8991369 }
+  bio: >-
+    福建惠安人，长期在福建工作，曾任邵武、莆田等地官员和福建省海洋与渔业局长，2007 年任厦门市长。2011 年任国家海洋局长，2014 年底调海南，历任省委副书记、省长，2017 年至 2020 年任海南省委书记。
+  positions:
+    - { title: 厦门市长, sys: gov, place: 福建, from: 2007-02, to: 2011-02, cite: f07-wiki-liu-cigui }
+    - { title: 国家海洋局长, sys: gov, from: 2011-02, to: 2014-12, cite: f07-wiki-liu-cigui }
+    - { title: 海南省长, sys: gov, place: 海南, from: 2015-01, to: 2017-04, cite: f07-wiki-liu-cigui }
+    - { title: 海南省委书记, place: 海南, from: 2017-04, to: 2020-11, cite: f07-wiki-liu-cigui }
+  factions:
+    - f: fujian
+      cite: f07-ntdtv-2017-11-08-new-armies
+      quote: “闽江新军”则以福建官员为主，除中组部长陈希外，还有发改委主任何立峰、海南书记刘赐贵
+      rank: backbone
+  cites: [f07-wiki-liu-cigui, f07-ntdtv-2017-11-08-new-armies, wd-Q8991369]
+
+- id: wang-zhimin
+  name: 王志民
+  gender: m
+  born: 1957-04
+  birthplace: 福建仙游
+  roles: [cc, hkmt]
+  status: active
+  statusNote: 现任全国人大民族委员会副主任委员。
+  tier: 2
+  headline: 前香港中联办主任，曾在福建省委办公厅工作
+  ids: { wikidata: Q28409823 }
+  bio: >-
+    福建仙游人，军人出身，1985 年起在福建省委办公厅工作，历任科员至处长，1998 年任厦门市长助理，1999 年任福建出入境检验检疫局长。2006 年起在香港中联办任职，2016 年任澳门中联办主任，2017 年至 2020 年任香港中联办主任，2022 年起任全国人大民族委员会副主任委员。
+  positions:
+    - { title: 福建省委办公厅处长, place: 福建, from: 1985, to: 1998, cite: f07-wiki-wang-zhimin }
+    - { title: 厦门市长助理, sys: gov, place: 福建, from: 1998, to: 1999, cite: f07-wiki-wang-zhimin }
+    - { title: 澳门中联办主任, from: 2016-07, to: 2017-09, cite: f07-wiki-wang-zhimin }
+    - { title: 香港中联办主任, from: 2017-09, to: 2020-01, cite: f07-wiki-wang-zhimin }
+  factions:
+    - f: fujian
+      cite: f07-ntdtv-2017-11-08-new-armies
+      quote: “闽江新军”则以福建官员为主……驻港中联办主任王志民等
+      rank: backbone
+  cites: [f07-wiki-wang-zhimin, f07-ntdtv-2017-11-08-new-armies, wd-Q28409823]
+
+- id: ye-jianchun
+  name: 叶建春
+  gender: m
+  born: 1965-07
+  birthplace: 福建周宁
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2026 年 8 月被中央纪委国家监委立案审查调查。
+  tier: 2
+  headline: 江西省长，2026 年 8 月被查
+  ids: { wikidata: Q97175709 }
+  bio: >-
+    福建周宁人，水利系统出身，曾任上海勘测设计研究院院长、水利部太湖流域管理局局长、水利部副部长。2021 年任江西省委副书记，后任代省长、省长。2026 年 8 月 27 日官方通报他涉嫌严重违纪违法，正接受中央纪委国家监委审查调查。
+  positions:
+    - { title: 水利部副部长, sys: gov, from: 2017-02, to: 2021-02, cite: f07-wiki-ye-jianchun }
+    - { title: 江西省委副书记, place: 江西, from: 2021-02, cite: f07-wiki-ye-jianchun }
+    - { title: 江西省长, sys: gov, place: 江西, from: 2021-10, to: 2026-08, cite: f07-wiki-ye-jianchun }
+  fall:
+    - { date: 2026-08-27, text: 涉嫌严重违纪违法，接受中央纪委国家监委纪律审查和监察调查, cite: f07-chinanews-2026-08-27-ye-jianchun }
+  factions:
+    - f: fujian
+      cite: f07-secretchina-2026-01-11-fujian
+      quote: 現在福建幫把持朝政……江西省長葉建春
+      rank: periphery
+  cites: [f07-chinanews-2026-08-27-ye-jianchun, f07-wiki-ye-jianchun, f07-secretchina-2026-01-11-fujian, wd-Q97175709]
+
+- id: ni-yuefeng
+  name: 倪岳峰
+  gender: m
+  born: 1964-09
+  birthplace: 安徽岳西
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 2026 年 7 月卸任河北省委书记，转任全国人大社会建设委员会副主任委员。
+  tier: 2
+  headline: 前河北省委书记、海关总署署长，曾任福州市委书记
+  ids: { wikidata: Q8292622 }
+  bio: >-
+    安徽岳西人，清华大学工学博士，早年在青岛和国家海洋局工作，后任全国人大环资委副主任委员。2011 年任福建副省长，2013 年任福建省纪委书记，2016 年任福州市委书记、福建省委副书记。2017 年任海关总署党组书记，2018 年起任署长，2022 年 4 月任河北省委书记，2026 年 7 月卸任，提前退居二线。
+  positions:
+    - { title: 福建副省长, sys: gov, place: 福建, from: 2011-03, to: 2013-07, cite: f07-wiki-ni-yuefeng }
+    - { title: 福建省委常委、省纪委书记, place: 福建, from: 2013-07, to: 2016-08, cite: f07-wiki-ni-yuefeng }
+    - { title: 福建省委副书记、福州市委书记, place: 福建, from: 2016-08, to: 2017-06, cite: f07-wiki-ni-yuefeng }
+    - { title: 海关总署署长, sys: gov, from: 2018-03, to: 2022-05, cite: f07-wiki-ni-yuefeng }
+    - { title: 河北省委书记, place: 河北, from: 2022-04, to: 2026-07, cite: f07-wiki-ni-yuefeng }
+  factions:
+    - f: fujian
+      cite: f07-soh-song-tao
+      quote: 仕途经历福建的还有河北省委书记倪岳峰、云南省委书记王宁等人
+      rank: periphery
+  cites: [f07-wiki-ni-yuefeng, f07-soh-song-tao, wd-Q8292622]
+
+- id: wang-ning-yunnan
+  name: 王宁
+  gender: m
+  born: 1961-04
+  birthplace: 辽宁沈阳
+  origin: 湖南湘乡
+  roles: [cc, prov]
+  status: active
+  tier: 2
+  headline: 云南省委书记，前福建省长
+  ids: { wikidata: Q24833108 }
+  bio: >-
+    湖南湘乡人，生于辽宁沈阳，长期在建设部工作，2013 年任住房和城乡建设部副部长。2015 年底调任福建省委常委、组织部长，2017 年任福州市委书记，2018 年任福建省委副书记，2020 年任福建省长，2021 年 10 月起任云南省委书记。
+  positions:
+    - { title: 住房和城乡建设部副部长, sys: gov, from: 2013-07, to: 2015-12, cite: f07-wiki-wang-ning-yunnan }
+    - { title: 福建省委常委、组织部长, place: 福建, from: 2015-12, to: 2017-06, cite: f07-wiki-wang-ning-yunnan }
+    - { title: 福州市委书记, place: 福建, from: 2017-06, to: 2020-07, cite: f07-wiki-wang-ning-yunnan }
+    - { title: 福建省长, sys: gov, place: 福建, from: 2020-07, to: 2021-10, cite: f07-wiki-wang-ning-yunnan }
+    - { title: 云南省委书记, place: 云南, from: 2021-10, cite: f07-wiki-wang-ning-yunnan }
+  factions:
+    - f: fujian
+      cite: f07-soh-song-tao
+      quote: 仕途经历福建的还有河北省委书记倪岳峰、云南省委书记王宁等人
+      rank: periphery
+  cites: [f07-wiki-wang-ning-yunnan, f07-soh-song-tao, wd-Q24833108]
+
+# --- shaanxi ---
+- id: wang-dongfeng
+  name: 王东峰
+  gender: m
+  born: 1958-02
+  birthplace: 陕西西安
+  roles: [cc, prov]
+  status: active
+  statusNote: 现任全国政协副主席兼秘书长。
+  tier: 2
+  headline: 全国政协副主席，前河北省委书记
+  ids: { wikidata: Q15936001 }
+  bio: >-
+    陕西西安人，长期在陕西工商系统工作，曾任渭南市长、铜川市委书记；渭南下辖习近平老家富平。2004 年任国家工商总局副局长，2013 年空降天津任市委副书记，2016 年任天津市长，2017 年至 2022 年任河北省委书记，2023 年起任全国政协副主席兼秘书长。香港《太阳报》2015 年把他列为“政坛陕军”四大悍将之一。
+  positions:
+    - { title: 渭南市长, sys: gov, place: 陕西, from: 2001-01, cite: f07-wiki-wang-dongfeng }
+    - { title: 国家工商总局副局长, sys: gov, from: 2004-07, to: 2013-04, cite: f07-wiki-wang-dongfeng }
+    - { title: 天津市委副书记, place: 天津, from: 2013-04, cite: f07-wiki-wang-dongfeng }
+    - { title: 河北省委书记, place: 河北, from: 2017-10, to: 2022-04, cite: f07-wiki-wang-dongfeng }
+    - { title: 全国政协副主席兼秘书长, sys: other, from: 2023-03, cite: f07-wiki-wang-dongfeng }
+  factions:
+    - f: shaanxi
+      cite: f07-sun-2015-07-03-shaanjun
+      quote: 中共政壇陝軍有四大悍將，一是現任遼寧省委書記李希，二是安徽代省長李錦斌，三是天津市委副書記王東峰，四是國務院副秘書長江澤林
+      rank: backbone
+      rankQuote: 中共政壇陝軍有四大悍將
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 其三，与习近平有乡土之谊的陕西籍官员……王东峰（天津市代市长）
+      rank: backbone
+  cites: [f07-sun-2015-07-03-shaanjun, f01-rfa-2019-02-22-shaanxi, f07-epoch-2015-06-13-shaanjun, f07-wiki-wang-dongfeng, wd-Q15936001]
+
+- id: li-jinbin
+  name: 李锦斌
+  gender: m
+  born: 1958-02
+  birthplace: 辽宁锦州
+  origin: 四川成都
+  roles: [cc, prov]
+  status: active
+  statusNote: 卸任安徽省委书记后任全国人大环境与资源保护委员会副主任委员。
+  tier: 2
+  headline: 前安徽省委书记，曾任陕西省委组织部长
+  ids: { wikidata: Q8996509 }
+  bio: >-
+    四川成都人，生于辽宁锦州，早年在吉林工作。2007 年至 2013 年任陕西省委常委、组织部长，与李希同在陕西省委班子。2013 年调安徽，历任省委副书记、省长，2016 年至 2021 年任安徽省委书记。香港《太阳报》2015 年把他列为“政坛陕军”四大悍将之一。
+  positions:
+    - { title: 陕西省委常委、组织部长, place: 陕西, from: 2007-04, to: 2013-04, cite: f07-wiki-li-jinbin }
+    - { title: 安徽省长, sys: gov, place: 安徽, from: 2015-06, to: 2016-09, cite: f07-wiki-li-jinbin }
+    - { title: 安徽省委书记, place: 安徽, from: 2016-08, to: 2021-09, cite: f07-wiki-li-jinbin }
+  factions:
+    - f: shaanxi
+      cite: f07-sun-2015-07-03-shaanjun
+      quote: 中共政壇陝軍有四大悍將，一是現任遼寧省委書記李希，二是安徽代省長李錦斌
+      rank: backbone
+      rankQuote: 中共政壇陝軍有四大悍將
+  cites: [f07-sun-2015-07-03-shaanjun, f07-epoch-2015-06-13-shaanjun, f07-wiki-li-jinbin, wd-Q8996509]
+
+- id: jiang-zelin
+  name: 江泽林
+  gender: m
+  born: 1959-10
+  birthplace: 安徽安庆
+  roles: [minister]
+  status: retired
+  statusNote: 2023 年 1 月卸任吉林省政协主席。
+  tier: 2
+  headline: 前国务院副秘书长、吉林省政协主席
+  ids: { wikidata: Q8291860 }
+  bio: >-
+    安徽人，长期在海南工作，曾任三亚市委书记。2011 年调任陕西副省长，后任常务副省长，2015 年任国务院副秘书长，2018 年至 2023 年任吉林省政协主席。香港《太阳报》2015 年把他列为“政坛陕军”四大悍将之一。
+  positions:
+    - { title: 陕西副省长、常务副省长, sys: gov, place: 陕西, from: 2011-01, to: 2015-04, cite: f07-wiki-jiang-zelin }
+    - { title: 国务院副秘书长, sys: gov, from: 2015-04, to: 2018-01, cite: f07-wiki-jiang-zelin }
+    - { title: 吉林省政协主席, sys: other, place: 吉林, from: 2018-01, to: 2023-01, cite: f07-wiki-jiang-zelin }
+  factions:
+    - f: shaanxi
+      cite: f07-sun-2015-07-03-shaanjun
+      quote: 中共政壇陝軍有四大悍將……四是國務院副秘書長江澤林
+      rank: backbone
+      rankQuote: 中共政壇陝軍有四大悍將
+  cites: [f07-sun-2015-07-03-shaanjun, f07-epoch-2015-06-13-shaanjun, f07-wiki-jiang-zelin, wd-Q8291860]
+
+- id: jing-junhai
+  name: 景俊海
+  gender: m
+  born: 1960-12-20
+  birthplace: 陕西白水
+  roles: [cc, prov]
+  status: active
+  statusNote: 2024 年卸任吉林省委书记，转任全国人大专门委员会职务。
+  tier: 2
+  headline: 前吉林省委书记，曾任陕西省委宣传部长
+  ids: { wikidata: Q8975612 }
+  bio: >-
+    陕西白水人，西安高新区起家，2008 年任陕西副省长，2012 年任陕西省委宣传部长。2015 年任中宣部副部长，2017 年任北京市委副书记，2018 年任吉林省长，2020 年至 2024 年任吉林省委书记。自由亚洲电台 2019 年引述的文章说他“以扩建习仲勋陵墓而闻名”。
+  positions:
+    - { title: 西安市委常委, place: 陕西, from: 2005-11, cite: f07-wiki-jing-junhai }
+    - { title: 陕西省委宣传部长, place: 陕西, from: 2012-05, to: 2015-07, cite: f07-wiki-jing-junhai }
+    - { title: 中宣部副部长, from: 2015-07, to: 2017-04, cite: f07-wiki-jing-junhai }
+    - { title: 吉林省长, sys: gov, place: 吉林, from: 2018-01, to: 2020-11, cite: f07-wiki-jing-junhai }
+    - { title: 吉林省委书记, place: 吉林, from: 2020-11, to: 2024-06, cite: f07-wiki-jing-junhai }
+  factions:
+    - f: shaanxi
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 人称“陕军”……景俊海（中宣部副部长，以扩建习仲勋陵墓而闻名）等人均在十八大后获得关键性提拔
+      rank: backbone
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 该文章分析 “习家军”主要由以下三部分官员所构成……景俊海（中宣部副部长，以扩建习仲勋陵墓而闻名）
+      rank: backbone
+  cites: [f01-rfa-2019-02-22-shaanxi, f07-soh-shaanxi, f07-wiki-jing-junhai, wd-Q8975612]
+
+- id: gao-xuanmin
+  name: 高选民
+  gender: m
+  born: 1957-11-17
+  birthplace: 陕西户县
+  roles: [minister]
+  status: retired
+  statusNote: 已卸任中组部副部长。
+  tier: 2
+  headline: 前中组部副部长
+  ids: { wikidata: Q97179024 }
+  bio: >-
+    陕西户县人，陕西师范大学中文系毕业后分配到中组部，长期在中组部干部局工作，2013 年任中组部秘书长、新闻发言人，2016 年任中组部副部长，后任全国政协委员。
+  positions:
+    - { title: 中组部秘书长, from: 2013, to: 2016-07, cite: f07-wiki-gao-xuanmin }
+    - { title: 中组部副部长, from: 2016-07, cite: f07-wiki-gao-xuanmin }
+  factions:
+    - f: shaanxi
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 人称“陕军”……高选民（中组部副部长兼秘书长）
+      rank: backbone
+    - f: xi-jiajun
+      cite: f01-rfa-2019-02-22-shaanxi
+      quote: 该文章分析 “习家军”主要由以下三部分官员所构成……高选民（中组部副部长兼秘书长）
+      rank: periphery
+  cites: [f01-rfa-2019-02-22-shaanxi, f07-wiki-gao-xuanmin, wd-Q97179024]
+
+- id: zhao-gang
+  name: 赵刚
+  gender: m
+  born: 1968-06
+  birthplace: 辽宁新民
+  roles: [cc, prov]
+  status: active
+  tier: 2
+  headline: 陕西省长
+  ids: { wikidata: Q97300511 }
+  bio: >-
+    辽宁新民人，兵器工业系统出身，2017 年任中国一重总经理。2018 年任陕西副省长，2021 年任陕西省委常委、延安市委书记，2022 年任陕西省委副书记，2023 年 1 月起任陕西省长。
+  positions:
+    - { title: 陕西副省长, sys: gov, place: 陕西, from: 2018-10, to: 2021-01, cite: f07-wiki-zhao-gang }
+    - { title: 延安市委书记, place: 陕西, from: 2021-01, to: 2023-01, cite: f07-wiki-zhao-gang }
+    - { title: 陕西省长, sys: gov, place: 陕西, from: 2023-01, cite: f07-wiki-zhao-gang }
+  factions:
+    - f: shaanxi
+      cite: f07-soh-shaanxi
+      quote: 有消息指刘国中将任副总理，而延安市委书记赵刚预料将升任陕西省长
+      rank: periphery
+  cites: [f07-wiki-zhao-gang, f07-soh-shaanxi, wd-Q97300511]
+
+- id: qi-yu
+  name: 齐玉
+  gender: m
+  born: 1961-04
+  birthplace: 陕西吴起
+  roles: [cc, minister]
+  status: active
+  tier: 2
+  headline: 外交部党委书记
+  ids: { wikidata: Q9026628 }
+  bio: >-
+    陕西吴起人，曾任太原市委副书记，2007 年起先后任青海、吉林省委组织部长，2015 年任中组部副部长，2019 年起任外交部党委书记，是外交部党委与行政主官分设后首个非外交系统出身的党委书记。希望之声称他曾是习近平同父异母兄弟习正宁的同事，替习在外交系统担当监军角色。
+  positions:
+    - { title: 青海省委常委、组织部长, place: 青海, from: 2007-11, to: 2013-05, cite: f07-wiki-qi-yu }
+    - { title: 吉林省委常委、组织部长, place: 吉林, from: 2013-05, to: 2015-12, cite: f07-wiki-qi-yu }
+    - { title: 中组部副部长, from: 2015-12, to: 2019-01, cite: f07-wiki-qi-yu }
+    - { title: 外交部党委书记, from: 2019-01, cite: f07-wiki-qi-yu }
+  factions:
+    - f: shaanxi
+      cite: f07-soh-shaanxi
+      quote: 外交部党委书记齐玉，是陕西吴起人，据说曾是习近平的同父异母兄弟习正宁同事
+      rank: backbone
+  cites: [f07-wiki-qi-yu, f07-soh-shaanxi, wd-Q9026628]
+
+- id: sun-xinyang
+  name: 孙新阳
+  gender: m
+  born: 1964-06
+  birthplace: 陕西富平
+  roles: [ccdi]
+  status: active
+  tier: 2
+  headline: 中央纪委副书记、国家监委副主任
+  ids: { wikidata: Q9184971 }
+  bio: >-
+    陕西富平人，与习近平同乡。长期在海南工作，2012 年任海南省委常委、秘书长，后任海口市委书记，2016 年任江西省纪委书记，2020 年任中央纪委国家监委驻公安部纪检监察组组长，2022 年 10 月起任中央纪委副书记、国家监委副主任。
+  positions:
+    - { title: 海南省委常委、秘书长, place: 海南, from: 2012-04, cite: f07-wiki-sun-xinyang }
+    - { title: 江西省委常委、省纪委书记, place: 江西, from: 2016-11, to: 2020-03, cite: f07-wiki-sun-xinyang }
+    - { title: 中央纪委国家监委驻公安部纪检监察组组长, from: 2020-03, to: 2022-10, cite: f07-wiki-sun-xinyang }
+    - { title: 中央纪委副书记, from: 2022-10, cite: f07-wiki-sun-xinyang }
+  factions:
+    - f: shaanxi
+      cite: f07-soh-shaanxi
+      quote: 孙新阳直接就是习近平老家陕西富平人
+      rank: backbone
+  cites: [f07-wiki-sun-xinyang, f07-soh-shaanxi, wd-Q9184971]
+
+- id: hao-peng
+  name: 郝鹏
+  gender: m
+  born: 1960-07-07
+  birthplace: 陕西凤翔
+  roles: [cc, prov, minister]
+  status: active
+  statusNote: 2025 年 9 月卸任辽宁省委书记，现任全国人大财政经济委员会副主任委员。
+  tier: 2
+  headline: 前辽宁省委书记、国资委主任
+  ids: { wikidata: Q8292448 }
+  bio: >-
+    陕西凤翔人，西北工业大学毕业，航空工业出身，曾在甘肃、西藏任职，任西藏自治区党委副书记。2013 年任青海省长，后任国务院国资委主任，2022 年 11 月任辽宁省委书记，2025 年 9 月卸任。
+  positions:
+    - { title: 西藏自治区党委副书记, place: 西藏, cite: f07-wiki-hao-peng }
+    - { title: 青海省长, sys: gov, place: 青海, from: 2013-03, cite: f07-wiki-hao-peng }
+    - { title: 国务院国资委主任, sys: gov, to: 2022-12, cite: f07-wiki-hao-peng }
+    - { title: 辽宁省委书记, place: 辽宁, from: 2022-11, to: 2025-09, cite: f07-wiki-hao-peng }
+  factions:
+    - f: shaanxi
+      cite: f07-soh-shaanxi
+      quote: 郝鹏是陕西凤翔人，有军工背景
+      rank: backbone
+  cites: [f07-wiki-hao-peng, f07-soh-shaanxi, wd-Q8292448]
+
+# --- hebei-zhengding ---
+- id: yang-zhenwu
+  name: 杨振武
+  gender: m
+  born: 1955-05
+  birthplace: 河北新乐
+  roles: [media]
+  status: active
+  statusNote: 2023 年卸任全国人大常委会秘书长，现任全国人大社会建设委员会主任委员。
+  tier: 2
+  headline: 前人民日报社社长、全国人大常委会秘书长
+  ids: { wikidata: Q15932005 }
+  bio: >-
+    河北新乐人，南开大学中文系毕业。1984 年任人民日报驻河北记者站记者，其时习近平任正定县委书记。2009 年任上海市委常委、宣传部长，2013 年任人民日报总编辑，2014 年任社长，2018 年至 2023 年任全国人大常委会秘书长。新唐人电视台引述的评论称，他是习近平在河北正定县工作时的同事，两人关系密切。
+  positions:
+    - { title: 人民日报驻河北记者站记者, sys: other, place: 河北, from: 1984, to: 1989, cite: f07-wiki-yang-zhenwu }
+    - { title: 上海市委常委、宣传部长, place: 上海, from: 2009, to: 2013-04, cite: f07-wiki-yang-zhenwu }
+    - { title: 人民日报社总编辑, sys: other, from: 2013-04, to: 2014-04, cite: f07-wiki-yang-zhenwu }
+    - { title: 人民日报社社长, sys: other, from: 2014-04, to: 2018-04, cite: f07-wiki-yang-zhenwu }
+    - { title: 全国人大常委会秘书长, sys: gov, from: 2018-03, to: 2023-03, cite: f07-wiki-yang-zhenwu }
+  factions:
+    - f: hebei-zhengding
+      cite: f07-ntdtv-2014-12-18-zhengding
+      quote: 中共《人民日报》新任社长杨振武也是习近平在河北正定县工作时的同事
+      rank: backbone
+  cites: [f07-wiki-yang-zhenwu, f07-ntdtv-2014-12-18-zhengding, wd-Q15932005]
+
+- id: wang-shaojun
+  name: 王少军
+  gender: m
+  born: 1955-08
+  died: 2023-04-26
+  birthplace: 河北清河
+  roles: [general]
+  status: dead
+  statusNote: 2023 年 4 月 26 日在北京病逝，新华社 7 月 24 日才发布消息。
+  tier: 2
+  headline: 前中央警卫局局长、中央办公厅副主任
+  ids: { wikidata: Q19825725 }
+  bio: >-
+    河北人，1969 年入伍，长期在中央警卫系统工作，2009 年任中央警卫局副局长，2015 年至 2021 年任中央警卫局局长、中央办公厅副主任兼中央警卫团团长，2016 年晋升中将。2023 年 4 月 26 日病逝，享年 67 岁，新华社三个月后才发布讣告。
+  positions:
+    - { title: 中央警卫局副局长, sys: army, from: 2009, to: 2015-03, cite: f07-wiki-wang-shaojun }
+    - { title: 中央警卫局局长, sys: army, from: 2015-03, to: 2021-07, cite: f07-wiki-wang-shaojun }
+  factions:
+    - f: hebei-zhengding
+      cite: f07-powerapple-2015-10-03
+      quote: 母亲家乡兼政治发迹地河北的官员，也较受重视……河北籍的中央警卫局长王少军
+      rank: periphery
+  cites: [f07-xinhua-2023-07-24-wang-shaojun, f07-wiki-wang-shaojun, f07-powerapple-2015-10-03, wd-Q19825725]

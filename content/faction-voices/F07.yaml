@@ -1,0 +1,86 @@
+# F07 (round 3): voices on the Xi factions. faction id → voices.
+
+xi-jiajun:
+  - voice: zh
+    text: 习近平的用人路线分明就是赤裸裸的山头主义
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: true
+  - voice: zh
+    text: 首次“入常”的四个新面孔都是习近平的忠诚者
+    cite: f07-zaobao-2022-10-24-politburo
+    quote: true
+  - voice: west
+    text: 有个道理很简单，在党中央全部成了习近平的亲信之后，今后的内斗也只能是亲信之间的内斗了。
+    cite: f07-rfi-2024-04-02-tang-yijun
+    quote: true
+  - voice: zh
+    text: 习家军在中共二十大全面上位，内部各帮派很快清晰化，内斗也迅速展开。这些帮派不是自然或自发形成的。
+    cite: f07-epoch-2023-11-09-five-cliques
+    quote: true
+
+zhijiang:
+  - voice: zh
+    text: 当时和习近平一起在浙江工作的蔡奇、黄坤明……都是领略《之江新语》政治智慧和思想思路的第一批读者，堪称是一支“之江新军”。
+    cite: b11-bbc-2015-07-31-chen-guizhou
+    quote: true
+  - voice: west
+    text: 该分析指出，如今在中共政坛身居要职的这批浙江官员已经成为习近平人事网络中举足轻重的人物。
+    cite: f07-rfi-2020-03-23-gong-zheng
+    quote: true
+  - voice: zh
+    text: 习近平权力危机不断浮现之际，之江新军分裂、内讧迹象日益公开化。
+    cite: f07-epoch-2025-05-22-ye-hanbing
+    quote: true
+
+fujian:
+  - voice: zh
+    text: 新老发改委主任同为福建出身的“闽系”官员，两人也有一段不浅的渊源。
+    cite: f07-zaobao-2023-03-13-zheng-shanjie
+    quote: true
+  - voice: zh
+    text: 陸方出席的五人中，除全國政協主席王滬寧外，其餘四人均有福建背景
+    cite: f07-udn-2026-04-12-zheng-xi
+    quote: true
+  - voice: scholar
+    text: "The key question is this: if Xi Jinping can no longer trust the confidants who came up with him in the old 31st Group Army in Fujian Province, who can he still trust?"
+    zh: 关键问题是：如果习近平连在福建老 31 集团军一同起家的亲信都无法信任，他还能信任谁？
+    cite: b08-jamestown-2025-10-cronyism
+    quote: true
+  - voice: zh
+    text: 要是按有福建背景来看，在福建长达17年的中共最高领导人习近平，才算是真正的福建帮的帮主。
+    cite: f07-soh-song-tao
+    quote: true
+
+shaanxi:
+  - voice: zh
+    text: 一朝天子一朝臣，這是中國官場慣例……落實下來還是「惟熟」，只有熟悉才有可能忠誠
+    cite: f07-sun-2015-07-03-shaanjun
+    quote: true
+  - voice: zh
+    text: 中国官场历来有省籍意识，陕西人尤爱抱团，习近平对富平老家、延川知青插队点念念不忘，与陕西老家走出来的官员或有某种天然的信赖感与亲近感。
+    cite: f01-rfa-2019-02-22-shaanxi
+    quote: true
+  - voice: zh
+    text: 陕西官员受重视有其原因，陕西是习近平的老家、其父习仲勋起家之地，也是其青少年时期当知青的地方。
+    cite: f07-epoch-2015-06-13-shaanjun
+    quote: true
+
+hebei-zhengding:
+  - voice: scholar
+    text: Substantively, Xi’s political career began working in the suburban county of Zhengding, in the province of Hebei. Here Xi developed a close friendship with Li Zhanshu
+    zh: 实际上，习近平的政治生涯始于河北省的城郊县正定，他在那里与栗战书结下深厚友谊。
+    cite: f02-orf-2021-xi-gang
+    quote: true
+  - voice: scholar
+    text: Their friendship began over three decades ago, when Xi served as deputy party secretary and then party secretary of Zhengding County in Hebei from 1982 to 1985. Li Zhanshu served as party secretary of Wuji County in the same province during roughly the same period
+    zh: 两人的友谊始于三十多年前：1982 年至 1985 年习近平任河北正定县委副书记、书记，栗战书大致同期在同省的无极县任县委书记。
+    cite: f01-brookings-2017-new-politburo
+    quote: true
+  - voice: zh
+    text: 文章最后评论说，正定为习近平提供了最宝贵的贫贱之交、政治同盟，使其通往中共最高权力道路由此而兴。
+    cite: f07-ntdtv-2014-12-18-zhengding
+    quote: true
+  - voice: zh
+    text: 对于出身家乡及下放地陕西、母亲家乡兼政治发迹地河北的官员，也较受重视
+    cite: f07-powerapple-2015-10-03
+    quote: true

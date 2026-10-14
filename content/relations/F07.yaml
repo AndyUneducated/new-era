@@ -1,0 +1,61 @@
+# F07 (round 3): ties around Xi Jinping's old subordinates. a is the senior side; for secretary, b served as a's secretary.
+
+# ---------- Zhejiang, 2002–2007: secretaries ----------
+- { a: xi-jinping, b: li-qiang, kind: secretary, from: 2004-11, to: 2007-03, text: 习近平主政浙江时任省委秘书长, cite: b06-voa-2022-10-23-li-qiang, quote: 2004年11月，李强迎来仕途上重大的转折点，担任时任省委书记习近平的省委秘书长 }
+- { a: xi-jinping, b: xu-lingyi, kind: secretary, from: 2005-08, to: 2007-03, text: 习近平主政浙江时任省委副秘书长，被称为习的“二秘”, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 所以，如果说当时的李强是习近平的大秘的话，那么徐令义就是习近平的二秘 }
+- { a: xi-jinping, b: zhong-shaojun, kind: secretary, from: 2002, to: 2012, text: 习近平在浙江、上海时的贴身秘书，后任军委办公厅主任, cite: f07-epoch-2023-11-09-five-cliques, quote: 习近平在浙江、上海时，钟绍军都是贴身秘书 }
+- { a: xi-jinping, b: ding-xuexiang, kind: secretary, from: 2007, text: 习近平主政上海时起任其“大秘”多年, cite: f07-zaobao-2022-10-24-politburo, quote: 60岁的丁薛祥担任习近平“大秘”多年 }
+
+# ---------- Zhejiang, 2002–2007: subordinates promoted ----------
+- { a: xi-jinping, b: lou-yangsheng, kind: patron, from: 2003-02, text: 习近平主政浙江时被提拔为丽水市委书记, cite: f02-rfa-2020-11-16-zhijiang, quote: 现任山西省委书记楼阳生当年在习近平手下被提拔为浙江省丽水市委书记 }
+- { a: xi-jinping, b: shu-guozeng, kind: patron, text: 被习近平提拔为浙江省委办公厅副主任, cite: f02-rfa-2020-11-16-zhijiang, quote: 当年是被习近平提拔为浙江潷省委办公厅副主任的 }
+- { a: xi-jinping, b: zhao-yide, kind: patron, from: 2003, to: 2007, text: 习近平主政浙江时由团省委副书记升任书记，后任温州市委副书记, cite: f07-zaobao-2022-11-27-zhao-yide, quote: 在中共总书记习近平主政浙江的2002年到2007年间，赵一德从共青团浙江省委副书记升任书记，后又出任温州市委副书记 }
+- { a: xi-jinping, b: tang-yijun, kind: patron, from: 2002-06, text: 习近平主政浙江时任省纪委常委、秘书长, cite: f07-rfi-2024-04-02-tang-yijun, quote: 2002年，习近平主政浙江时，他担任浙江省纪委常委、秘书长 }
+- { a: xi-jinping, b: bayanchaolu, kind: patron, from: 2003-12, to: 2007-03, text: 习近平主政浙江时任省委常委、宁波市委书记, cite: f01-rfa-2019-02-22-shaanxi, quote: 如习的浙江旧部黄兴国（前天津市代理书记）……巴音朝鲁（吉林省委书记） }
+- { a: xi-jinping, b: liu-qi-jiangxi, kind: patron, from: 2003-02, to: 2006-03, text: 习近平主政浙江时任温州市长, cite: f01-rfa-2019-02-22-shaanxi, quote: 如习的浙江旧部黄兴国（前天津市代理书记）……刘奇（江西省代省长） }
+- { a: xi-jinping, b: chen-derong, kind: colleague, from: 2002, to: 2007, text: 习近平主政浙江时在嘉兴任职, cite: b11-bbc-2015-07-31-chen-guizhou, quote: 当时和习近平一起在浙江工作的蔡奇、黄坤明、钟绍军、舒国增、夏宝龙、李强、陈敏尔、巴音朝鲁、楼阳生、应勇、陈德荣 }
+- { a: xi-jinping, b: zhong-shan, kind: patron, from: 2003-01, to: 2007-03, text: 习近平主政浙江时任浙江副省长，十八大后任商务部长, cite: f07-ntdtv-2017-11-08-new-armies, quote: “之江新军”主要指上海书记李强、重庆市委陈敏尔等浙江出身的干部，还包括上海市长应勇、吉林书记巴音朝鲁、商务部长钟山 }
+- { a: xi-jinping, b: shen-haixiong, kind: patron, text: 习主政浙江时在新华社浙江分社为其宣传，十八大后受重用, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 也陆续对当年在浙江还只是正厅和副厅级的徐令义，以及慎海雄和朱国贤委以重任的原因 }
+- { a: xi-jinping, b: zhu-guoxian, kind: patron, text: 习主政浙江时在新华社浙江分社任职，十八大后受重用, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 习近平主政浙江期间，慎海雄和与他同时任职新华社浙江分社的朱国贤 }
+- { a: xi-jinping, b: shi-kehui, kind: patron, text: 习近平主政浙江时在省委办公厅任职, cite: f07-epoch-2025-05-22-ye-hanbing, quote: 习近平、夏宝龙主政浙江期间，施克辉曾长期在中共浙江省委办公厅任职 }
+- { a: xi-jinping, b: zhao-hongzhu, kind: patron, from: 2012-11, text: 习主政浙江时的省长、继任省委书记，十八大上获习提名为中央书记处书记、中纪委第一副书记, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 习近平提名赵洪祝为中央书记处书记兼中央纪律检查委员会第一副书记 }
+- { a: xi-jinping, b: cai-qi, kind: patron, text: 先后在福建、浙江任习近平部下, cite: f07-zaobao-2022-10-24-politburo, quote: 他曾是习近平在福建和浙江的旧部 }
+- { a: xi-jinping, b: huang-kunming, kind: patron, text: 在福建、浙江两地与习近平有交集, cite: f07-epoch-2023-11-09-five-cliques, quote: 黄坤明和蔡奇都曾在福建和浙江两地与习近平有过交集 }
+
+# ---------- Fujian, 1985–2002 ----------
+- { a: xi-jinping, b: pei-jinjia, kind: colleague, from: 1985, to: 1988, text: 习近平任厦门副市长时在厦门市财政局工作, cite: f07-zaobao-2018-12-03-pei-jinjia, quote: 1985年裴在厦门市财政局工作时，当时厦门市副市长是现任国家主席习近平 }
+- { a: xi-jinping, b: zhuang-rongwen, kind: patron, text: 习近平的福建旧部，十八大后任中央网信办主任, cite: f07-voa-2018-08-21-zhuang-rongwen, quote: 此外，习近平的另一福建旧部庄荣文接任网信办主任 }
+- { a: xi-jinping, b: wang-xiaohong, kind: patron, text: 习近平在福建时负责其安全警卫，后任公安部长, cite: f07-timednews-2022-10-04, quote: 福建帮头号亲信是公安部长王小洪（福建人，在福建时负责习的安全警卫） }
+- { a: xi-jinping, b: he-lifeng, kind: patron, text: 习近平在福建时的下属，十八大后任国家发改委副主任、主任, cite: f07-powerapple-2015-10-03, quote: 还有曾是福建旧下属国家发改委副主任何立峰 }
+- { a: xi-jinping, b: song-tao, kind: colleague, from: 1985, to: 2001, text: 习近平在福建工作时与宋涛关系密切, cite: f07-epoch-2024-10-29-fujian, quote: 習近平在福建工作時，宋與習關係密切 }
+- { a: xi-jinping, b: miao-hua, kind: colleague, text: 苗华在驻福建的 31 军任政治部主任时与习近平交好, cite: f07-timednews-2022-10-04, quote: 苗华早年在驻守福建的31军当政治部主任，与在福建任职的习近平交好 }
+- { a: xi-jinping, b: lin-rui, kind: patron, text: 习近平的福建旧部，十八大后任公安部副部长, cite: f07-epoch-2020-08-02-zhao-yide, quote: 习近平上台后，他的很多福建旧部也被提拔。如……公安部副部长林锐 }
+- { a: xi-jinping, b: ding-laihang, kind: patron, text: 习近平的福建旧部，十八大后任空军司令员, cite: f07-epoch-2020-08-02-zhao-yide, quote: 习近平上台后，他的很多福建旧部也被提拔。如……中共空军司令员丁来杭等人 }
+- { a: xi-jinping, b: liu-cigui, kind: patron, text: 福建出身，被列入“闽江新军”, cite: f07-ntdtv-2017-11-08-new-armies, quote: “闽江新军”则以福建官员为主，除中组部长陈希外，还有发改委主任何立峰、海南书记刘赐贵 }
+- { a: xi-jinping, b: wang-zhimin, kind: patron, text: 福建出身，被列入“闽江新军”, cite: f07-ntdtv-2017-11-08-new-armies, quote: “闽江新军”则以福建官员为主……驻港中联办主任王志民等 }
+
+# ---------- Fujian network ----------
+- { a: he-lifeng, b: zheng-shanjie, kind: patron, from: 2005, text: 何立峰任厦门市委书记时郑栅洁任厦门市发改委主任，2023 年接任何立峰的发改委主任一职, cite: f07-zaobao-2023-03-13-zheng-shanjie, quote: 新老发改委主任同为福建出身的“闽系”官员，两人也有一段不浅的渊源 }
+- { a: he-lifeng, b: pei-jinjia, kind: patron, text: 何立峰在福建时的旧部属, cite: f07-zaobao-2018-12-03-pei-jinjia, quote: 有说法显示，裴金佳曾是同样从福建出身的发改委主任何立峰旧部属 }
+- { a: wang-xiaohong, b: lin-rui, kind: colleague, from: 2013-10, text: 林锐接替王小洪任厦门市公安局长, cite: f07-wiki-lin-rui, quote: 2013年10月，接替王小洪任厦门市人民政府市长助理 }
+- { a: miao-hua, b: lin-xiangyang, kind: patron, text: 林向阳是苗华在 31 军的旧部, cite: f07-soh-song-tao, quote: 中央委员、现任东部战区司令林向阳，福建人，是苗华的31军旧部 }
+
+# ---------- Shaanxi ----------
+- { a: li-ziqi, b: li-xi, kind: secretary, from: 1982, to: 1986, text: 李希任甘肃省委书记李子奇的秘书，常陪李子奇探望习仲勋, cite: b06-voa-2022-10-23-li-xi, quote: 一直到1986年担任习仲勋的老部下及陕西老乡、时任甘肃省委书记李子奇的秘书 }
+- { a: xi-zhongxun, b: li-ziqi, kind: patron, text: 李子奇是习仲勋的老部下, cite: b06-voa-2022-10-23-li-xi, quote: 习仲勋的老部下及陕西老乡、时任甘肃省委书记李子奇 }
+- { a: li-xi, b: li-jinbin, kind: colleague, from: 2007, to: 2011, text: 陕西省委班子里的老搭档, cite: f07-epoch-2015-06-13-shaanjun, quote: 李希、李锦斌是昔日陕西省委的老搭档 }
+- { a: xi-jinping, b: wang-dongfeng, kind: patron, from: 2013-04, text: 陕西出身，十八大后由工商总局副局长空降天津，后任河北省委书记, cite: f07-sun-2015-07-03-shaanjun, quote: 但事後發現王東峰的陝西經歷之後，亦都為之釋然 }
+- { a: xi-jinping, b: jing-junhai, kind: patron, text: 任陕西省委宣传部长时扩建习仲勋陵墓，十八大后获关键性提拔, cite: f01-rfa-2019-02-22-shaanxi, quote: 景俊海（中宣部副部长，以扩建习仲勋陵墓而闻名）等人均在十八大后获得关键性提拔 }
+- { a: xi-jinping, b: qi-yu, kind: patron, from: 2019-01, text: 陕西籍，非外交系统出身，被派任外交部党委书记, cite: f07-soh-shaanxi, quote: 他并非外交官出身，已替习在外交系统担当监军角色四年 }
+
+# ---------- Zhengding, 1982–1985 ----------
+- { a: xi-jinping, b: li-zhanshu, kind: colleague, from: 1983, to: 1985, text: 习近平任正定县委书记时，栗战书任相邻的无极县委书记, cite: f07-powerapple-2015-10-03, quote: 两县同属石家庄地区，习、栗两人因此结识 }
+- { a: xi-jinping, b: yang-zhenwu, kind: colleague, from: 1984, to: 1985, text: 习近平任正定县委书记时，杨振武任人民日报驻河北记者站记者, cite: f07-ntdtv-2014-12-18-zhengding, quote: 在习近平任正定县委书记期间，杨振武为《人民日报》驻河北记者站记者，两人关系密切 }
+- { a: xi-jinping, b: liu-yuan, kind: colleague, from: 1982, to: 1985, text: 正定时期结识的红二代好友, cite: f07-ntdtv-2014-12-18-zhengding, quote: 此外，文章还介绍了正定期间习近平与刘源的关系 }
+
+# ---------- other ties among the subordinates ----------
+- { a: wang-qishan, b: shi-kehui, kind: patron, text: 王岐山任中纪委书记时，施克辉任中纪委办公厅主任，被称为王的“大管家”, cite: f07-epoch-2025-05-22-ye-hanbing, quote: 成为时任中纪委书记王岐山的“大管家” }
+- { a: xia-baolong, b: shi-kehui, kind: patron, text: 夏宝龙在浙江时的旧部, cite: f07-epoch-2025-05-22-ye-hanbing, quote: 也是港澳办主任夏宝龙的浙江旧部 }
+- { a: li-qiang, b: gong-zheng, kind: colleague, text: 在浙江共事多年, cite: f07-rfi-2020-03-23-gong-zheng, quote: 由于龚正曾与中共总书记习近平旧部、上海市委书记李强在浙江共事多年 }
+- { a: li-qiang, b: xu-lingyi, kind: colleague, from: 2005-08, to: 2007-03, text: 李强任浙江省委秘书长时，徐令义任第一副秘书长，两人都从温州官场出道, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 当时的省委秘书长是也和徐令义一样，从温州官场出道的李强 }
+- { a: chen-miner, b: shen-haixiong, kind: colleague, text: 陈敏尔任浙江省委宣传部长时，慎海雄在新华社浙江分社为习宣传政绩, cite: f07-rfa-2020-11-20-xu-lingyi, quote: 在陈敏尔和徐令义的授意下 }

@@ -1,0 +1,119 @@
+# F10 (round 3): more voices on the army factions
+army-princelings:
+  - voice: scholar
+    text: >-
+      表6列出的下届中央军委席位的14名候选人中，有6人是太子党（吴胜利、马晓天、刘晓江、张海阳、章沁生和张又侠）。
+    cite: f04-brookings-2010-06-29-military
+    quote: true
+  - voice: official
+    text: >-
+      他们是“将门虎子”，被称为军中“红色后代”，他们父辈大多曾经为了国家大业而浴血奋战，有些还负伤在身。
+    cite: f10-youth-2016-03-12-red-generals
+    quote: true
+  - voice: west
+    text: >-
+      Zhang represents the old, princeling elite of the PLA.
+    zh: 张又侠代表着解放军中老一代的太子党精英。
+    cite: f10-diplomat-2025-10-power-struggle
+    quote: true
+  - voice: scholar
+    text: >-
+      诚如本文指出，太子党不算是一个真正的派系。
+    cite: f05-sef-2012-10-tsai-fifth-gen
+    quote: true
+
+fujian-generals:
+  - voice: zh
+    text: >-
+      可见，习实际上已经将渊源最密切的第31军视为自己的“子弟兵”。
+    cite: f10-onc-2015-09-16-31st-army
+    quote: true
+  - voice: scholar
+    text: >-
+      It is probably by coincidence that the 31st Army is stationed in Fujian Province where Chairman Xi Jinping of the Central Military Commission worked for 17.5 years.
+    zh: 第31集团军驻扎在军委主席习近平工作过17年半的福建，这大概只是巧合。
+    cite: f10-diplomat-2014-12-30-31st-army
+    quote: true
+  - voice: west
+    text: >-
+      Finally, if this was a simple anti corruption campaign, why did it target the 31st Group Army cadres and leave the others untouched on the CMC?
+    zh: 最后，如果这只是一场单纯的反腐运动，为什么矛头对准第31集团军出身的干部，而军委里的其他人却毫发无损？
+    cite: f10-diplomat-2025-10-power-struggle
+    quote: true
+  - voice: zh
+    text: >-
+      与越战派相对的台海派，即曾在南京军区福建驻地服役的将领，或在现在的东部战区出身，包括中共军委副主席何卫东、军委政治工作部主任苗华，早年都出自驻守福建的31军，与在福建任职的习近平交好。
+    cite: f10-epoch-2024-09-14-deng-zhiping
+    quote: true
+
+equipment-system:
+  - voice: zh
+    text: >-
+      这次被罢免的军方人大代表，背景大多为技术军官，且集中在火箭军与装备采购系统，显示这两大系统"出大事了"。
+    cite: f10-dw-2023-12-29-nine-generals
+    quote: true
+  - voice: scholar
+    text: >-
+      A new round of purges appears focused on dismantling the patronage network built around the former vice chairman of the Central Military Commission Zhang Youxia.
+    zh: 新一轮清洗似乎集中于拆除以前军委副主席张又侠为中心的庇护网络。
+    cite: f10-jamestown-2026-07-six-generals
+    quote: true
+  - voice: scholar
+    text: >-
+      Many of the six are officers in aerospace, cyberspace, logistics, and procurement billets
+    zh: 这六人中许多人在航天、网络空间、后勤和采购岗位任职。
+    cite: f10-jamestown-2026-07-six-generals
+    quote: true
+
+northwest-army:
+  - voice: scholar
+    text: >-
+      Recent developments suggest that the Shaanxi gang has the upper hand in any factional struggle currently being waged, though it has not yet fully won out.
+    zh: 近期的动向表明，在眼下的派系斗争中陕西帮占了上风，但尚未完全胜出。
+    cite: b08-jamestown-2025-11-purification
+    quote: true
+  - voice: zh
+    text: >-
+      《南华早报》曾在早前的文章中称，原7大军区中最大的兰州军区是郭伯雄的势力范围。
+    cite: b07-dw-2016-07-25-guo-sentence
+    quote: true
+  - voice: zh
+    text: >-
+      习将第31军视为自己的根基部队，岂能容一个郭伯雄的马仔掌握呢？
+    cite: f10-onc-2015-09-16-31st-army
+    quote: true
+
+southwest-army:
+  - voice: zh
+    text: >-
+      中共军中参加过越战的将领历来较有地位、有优越感，他们自认是实战派，以排名第一的中共军委副主席张又侠为首。
+    cite: f10-epoch-2024-09-14-deng-zhiping
+    quote: true
+  - voice: scholar
+    text: >-
+      Zhang Youxia and Liu Zhenli, the only two CMC members with combat experience, both fought at the Two Mountain Border War of Laoshan in 1984 against Vietnam.
+    zh: 张又侠和刘振立是军委中仅有的两位有实战经验的成员，1984 年都参加了对越南的老山两山作战。
+    cite: b08-jamestown-2025-11-purification
+    quote: true
+  - voice: zh
+    text: >-
+      他曾在陆军第14集团军担任团长、师副参谋长、军长等职
+    cite: f10-zaobao-2026-08-26-zhao-zongqi
+    quote: true
+
+dongbei-army:
+  - voice: zh
+    text: >-
+      70岁的范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级。范在徐的根据地、原沈阳军区第十六集团军任职逾30年
+    cite: b13-voa-2018-01-25-fan-rumor
+    quote: true
+  - voice: zh
+    text: >-
+      有分析认为，由于李桥铭与张又侠同属陆军，张又侠曾任沈阳军区司令员（北部战区前身），李桥铭在2016年军改之后任北部战区副司令员兼北部战区陆军司令员，因此李桥铭与张又侠可能有过交集。
+    cite: f10-zaobao-2026-02-27-five-generals
+    quote: true
+  - voice: zh
+    text: >-
+      有30多名中共将军原籍是瓦房店，徐才厚被查后，大陆传出“瓦房店系瓦解”之说。
+    cite: f10-kzg-2014-xu-wafangdian
+    quote: true

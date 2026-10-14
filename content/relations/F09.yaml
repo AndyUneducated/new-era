@@ -1,0 +1,101 @@
+# F09 (round 3): ties inside the purged groups. a is the senior side; for secretary, b served as a's secretary.
+
+# ---------- zhou-clique: secretaries ----------
+- { a: zhou-yongkang, b: li-hualin, kind: secretary, from: 1988, to: 1992, text: 周永康在石油系统时的秘书, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 秘书帮 李华林、沈定成、冀文林、郭永祥、余刚、谈红 }
+- a: zhou-yongkang
+  b: shen-dingcheng
+  kind: secretary
+  from: 1992
+  to: 1997
+  text: 接李华林的班，任中石油领导周永康的专职秘书
+  cite: b03-bbc-2014-02-22-zhou-secretaries
+  quote: 在此期间沈定成接了李华林的班，担任了当时中石油领导周永康的专职秘书。
+- a: zhou-yongkang
+  b: ji-wenlin
+  kind: secretary
+  from: 1998
+  to: 2008
+  text: 接替沈定成，任周永康专职秘书达十年，跟随周从国土资源部、四川到公安部
+  cite: b03-bbc-2014-02-22-zhou-secretaries
+  quote: 此后，冀文林接替沈定成成为周永康达十年的专职秘书。
+- { a: zhou-yongkang, b: guo-yongxiang, kind: secretary, from: 2000, to: 2002, text: 周永康主政四川时的秘书, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 上述官员中，李华林、郭永祥都曾担任周永康的秘书。 }
+- { a: zhou-yongkang, b: yu-gang, kind: secretary, from: 2008, to: 2012, text: 周永康任中央政法委书记期间的秘书, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 秘书帮 李华林、沈定成、冀文林、郭永祥、余刚、谈红 }
+- { a: zhou-yongkang, b: tan-hong, kind: secretary, from: 2008, to: 2012, text: 周永康任中央政法委书记期间的秘书, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 秘书帮 李华林、沈定成、冀文林、郭永祥、余刚、谈红 }
+
+# ---------- zhou-clique: family and business ----------
+- { a: zhou-yongkang, b: zhou-bin, kind: kin, text: 父子，周滨为周永康长子；周永康案庭审播放了周滨的作证录像, cite: e03-xinhua-2015-06-11-zhou-verdict, quote: 播放周永康长子周滨、妻子贾晓晔作证录像 }
+- { a: zhou-bin, b: wu-bing, kind: colleague, text: 财新称吴兵是周滨的主要白手套之一, cite: f09-sina-2014-07-29-caixin-zhou, quote: 他的主要白手套之一，四川商人吴兵在西客站出逃时被抓。 }
+- { a: zhou-bin, b: mi-xiaodong, kind: colleague, text: 财新称米晓东是周滨的另一只白手套, cite: f09-sina-2014-07-29-caixin-zhou, quote: 他的另一只白手套，原中国海洋石油总公司干部米晓东也失去了人身自由。 }
+- { a: zhou-bin, b: liu-han, kind: colleague, text: 生意伙伴, cite: f09-bbc-2015-02-09-liu-han, quote: 刘汉与前中共政治局常委周永康的儿子周滨是生意伙伴 }
+- { a: zhou-yongkang, b: wu-bing, kind: patron, text: 法院认定周永康利用职务便利为吴兵谋取利益, cite: e03-xinhua-2015-06-11-zhou-verdict, quote: 证实周永康利用职务上的便利，为吴兵、丁雪峰、温青山、周灏、蒋洁敏谋取利益 }
+
+# ---------- zhou-clique: petroleum ----------
+- { a: zhou-yongkang, b: jiang-jiemin, kind: patron, text: 财新称蒋洁敏已完全靠向周永康，是周的股肱之臣；法院认定周为蒋谋取利益并收受蒋给予的财物, cite: f09-sina-2014-07-29-caixin-zhou, quote: 蒋已经完全靠向了周永康，“脑门上打着周系臣子的符号” }
+- { a: zhou-yongkang, b: wang-yongchun, kind: patron, text: 周永康在大庆油田工作时的得力助手, cite: b03-bbc-2013-08-30-zhou-clique, quote: 中石油集团副总经理兼大庆油田总经理王永春是周永康在大庆油田工作时的得力助手 }
+- { a: zhou-yongkang, b: wen-qingshan, kind: patron, text: 法院认定周永康利用职务便利为温青山谋取利益, cite: e03-xinhua-2015-06-11-zhou-verdict, quote: 证实周永康利用职务上的便利，为吴兵、丁雪峰、温青山、周灏、蒋洁敏谋取利益 }
+- { a: li-hualin, b: shen-dingcheng, kind: colleague, text: 先后任周永康在中石油的专职秘书，沈定成接李华林的班, cite: b03-bbc-2014-02-22-zhou-secretaries, quote: 在此期间沈定成接了李华林的班，担任了当时中石油领导周永康的专职秘书。 }
+- { a: shen-dingcheng, b: ji-wenlin, kind: colleague, text: 前后任周永康专职秘书，冀文林接替沈定成, cite: b03-bbc-2014-02-22-zhou-secretaries, quote: 此后，冀文林接替沈定成成为周永康达十年的专职秘书。 }
+- { a: li-hualin, b: wen-qingshan, kind: colleague, from: 2013, text: 李华林被查后，温青山被推荐接替他任昆仑能源董事会主席, cite: f09-people-2013-08-28-cnpc-four, quote: 另外，温青山已被推荐接替李华林担任昆仑能源有限公司董事会主席。 }
+- { a: jiang-jiemin, b: wang-yongchun, kind: colleague, text: 同为中石油高管、周永康石油帮成员，财新记述两人同席周系聚会, cite: f09-sina-2014-07-29-caixin-zhou, quote: 除蒋洁敏和李春城这两位股肱之臣，来自中石油系统的还有王永春、李华林、冉新权、王道富、温青山等人 }
+- { a: jiang-jiemin, b: ran-xinquan, kind: colleague, text: 同为中石油高管，2013 年 8 月先后被查, cite: f09-people-2013-08-28-cnpc-four }
+- { a: jiang-jiemin, b: wang-daofu, kind: colleague, text: 同为中石油高管，2013 年 8 月先后被查, cite: f09-people-2013-08-28-cnpc-four }
+
+# ---------- zhou-clique: Sichuan and political-legal ----------
+- { a: zhou-yongkang, b: li-chongxi, kind: patron, text: 获周永康提拔走上高位的四川官员, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 李崇禧和谭力都是获周提拔走上高位的官员 }
+- { a: zhou-yongkang, b: tan-li, kind: patron, text: 获周永康提拔走上高位的四川官员, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 李崇禧和谭力都是获周提拔走上高位的官员 }
+- { a: zhou-yongkang, b: li-dongsheng, kind: patron, text: 财新把李东生列为把持山头的周系心腹首领, cite: f09-sina-2014-07-29-caixin-zhou, quote: 又有蒋洁敏、李东生、李春城等心腹首领把持山头 }
+- { a: zhou-yongkang, b: li-chuncheng, kind: patron, text: 财新把李春城与蒋洁敏并称为周永康的两位股肱之臣, cite: f09-sina-2014-07-29-caixin-zhou, quote: 除蒋洁敏和李春城这两位股肱之臣 }
+- { a: zhou-yongkang, b: zhou-benshun, kind: patron, from: 2002, to: 2013, text: 周永康任中央政法委副书记、书记期间，周本顺长期协助其工作, cite: b03-cnr-2015-10-15-zhou-disciples, quote: 周本顺一直协助周永康工作 }
+- { a: zhou-yongkang, b: zhang-yue, kind: patron, text: 联合早报称张越被曝通过妻子结识周永康，获得升迁资本；法院判决未提及, cite: f09-zaobao-2018-07-13-zhang-yue, quote: 此外，张越还被曝利用“夫人路线”，通过妻子结识了周永康，获得了日后快速升迁的资本。 }
+- { a: zhou-yongkang, b: liang-ke, kind: patron, text: 纽约时报称梁克落马是清肃周永康在国安系统亲信的动作, cite: b03-bbc-2014-02-22-zhou-secretaries, quote: 《纽约时报》引述消息来源称，梁克落马是中共清肃周永康在国安系统亲信的最新动作。 }
+
+# ---------- xishanhui ----------
+- { a: ling-jihua, b: ling-zhengce, kind: kin, text: 兄弟，令政策为次子、令计划为三子, cite: b07-bbc-2015-07-20-ling-expulsion, quote: 其中令方针为女儿，令计划为三子，令政策是次子。 }
+- { a: ling-jihua, b: chen-chuanping, kind: patron, text: 环球人物称令计划借陈川平这类角色把西山会的人事布局延伸到山西各级, cite: f02-hqrw-2015-01-06-xishanhui, quote: 藉由一个个陈川平式的角色，令计划的人事布局从“西山会”一直延伸到山西各级 }
+- { a: chen-chuanping, b: liu-suiji, kind: patron, text: 平陆老乡，消息人士称柳遂记是陈川平的人, cite: f02-hqrw-2015-01-06-xishanhui, quote: 太原市委常委、政法委书记、公安局局长柳遂记被带走调查，他就是“陈川平的人” }
+- { a: chen-chuanping, b: li-jiangong, kind: patron, text: 平陆老乡，环球人物称二人关系密切, cite: f02-hqrw-2015-01-06-xishanhui, quote: 山西省国土资源厅党组书记、厅长李建功与陈川平关系密切 }
+- { a: liu-zhijun, b: ding-shumiao, kind: colleague, text: 法院认定丁羽心通过刘志军等人帮多家公司中标铁路工程, cite: f09-people-2014-12-16-ding-shumiao, quote: 丁羽心通过原铁道部部长刘志军等人帮多家公司中标铁路工程项目 }
+
+# ---------- guo-xu ----------
+- { a: guo-boxiong, b: guo-zhenggang, kind: kin, text: 父子, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 浙江省军区副政委郭正钢(郭伯雄之子)因涉嫌违法犯罪 }
+- { a: guo-boxiong, b: fan-changmi, kind: patron, text: 同出 47 军；郭伯雄 1999 年进京后范长秘快速升迁，被视为郭的嫡系, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 范长秘被视为郭伯雄的“马仔”、“嫡系”。 }
+- { a: guo-boxiong, b: deng-ruihua, kind: patron, text: 郭伯雄在兰州军区时邓瑞华是其下级，郭出任军委副主席后邓升任甘肃省军区副司令员, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 郭伯雄出任中央军委副主席后，邓瑞华从27分部部长升任甘肃省军区副司令员 }
+- { a: guo-boxiong, b: fang-fenghui, kind: patron, text: 老乡兼旧部, cite: c02-zaobao-2018-01-10-fang-fenghui, quote: 房峰辉是郭伯雄的老乡兼旧部 }
+- { a: xu-caihou, b: zhang-yang, kind: patron, text: 联合早报称张阳是徐才厚的嫡系, cite: c02-zaobao-2018-01-10-fang-fenghui, quote: 张阳则是徐才厚的嫡系 }
+- { a: xu-caihou, b: fan-changlong, kind: patron, text: 辽宁同乡兼上下级, cite: b13-voa-2018-01-25-fan-rumor, quote: 范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级 }
+- { a: xu-caihou, b: gu-junshan, kind: patron, text: 新京报称谷俊山以徐才厚为更大的靠山, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 除了以徐才厚为更大的“山”的谷俊山和郭正钢 }
+- { a: xu-caihou, b: yu-daqing, kind: patron, from: 1993, to: 2004, text: 辽宁老乡；徐才厚任总政副主任、主任期间是于大清的领导, cite: f09-hqrw-2015-01-26-army-tigers, quote: 1993年至2004年，徐才厚在总政治部担任副主任、主任，是于大清的领导 }
+- { a: xu-caihou, b: liu-zheng, kind: patron, text: 新京报称刘铮是徐才厚的辽宁老乡, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 刘铮是辽宁营口人，也是徐才厚的老乡。 }
+- { a: gu-junshan, b: liu-zheng, kind: colleague, from: 2012, text: 谷俊山落马后，刘铮接替其任总后勤部副部长, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: 刘铮于当年末正式接替谷俊山担任副部长。 }
+- { a: liu-zheng, b: gao-xiaoyan, kind: colleague, text: 曾同在总后勤部司令部工作, cite: f09-hqrw-2015-01-26-army-tigers, quote: 与刘铮同在总后勤部司令部工作过 }
+- { a: fu-yi, b: guo-zhenggang, kind: colleague, text: 在浙江省军区共事数年, cite: f09-hkcd-2016-07-12-guo-xu-tigers, quote: “政事儿”注意到，傅怡与郭正钢共事数年。 }
+- { a: gu-junshan, b: yang-jinshan, kind: colleague, text: 知情人士称谷俊山曾批给西藏军区一大笔款项，时任西藏军区司令员杨金山拿出一部分表示感谢, cite: f09-hqrw-2015-01-26-army-tigers, quote: 时任西藏军区司令员的杨金山特意拿出其中的一部分“以示感谢” }
+- { a: guo-boxiong, b: xu-caihou, kind: colleague, text: 同任中央军委副主席，2014–2015 年先后落马，官方称其流毒影响, cite: b07-xinhua-2016-10-11-guo-xu-poison, quote: 郭伯雄、徐才厚是我军建军以来因违纪违法被查处的职务最高的领导干部。 }
+
+# ---------- rocket-equipment ----------
+- { a: wei-fenghe, b: li-shangfu, kind: patron, text: 联合早报认为魏凤和可能推荐李尚福接替自己任国防部长, cite: f02-zaobao-2024-06-27-li-wei, quote: 这显示魏凤和可能在他主管火箭军以及担任中央军委委员、国务委员兼国防部长期间，违规提拔火箭军高官，甚至推荐李尚福接替自己职位。 }
+- { a: li-yuchao, b: xu-zhongbo, kind: colleague, text: 火箭军司令员与政委，2023 年同时失踪后被替换, cite: f01-bbc-2023-08-01-rocket-force, quote: 这间接证实“失踪”数月的原火箭军司令员李玉超上将和政委徐忠波上将已经离职。 }
+- { a: li-yuchao, b: liu-guangbin, kind: colleague, text: 火箭军司令员与副司令员，据报同时被军委纪委带走, cite: c03-zaobao-2023-07-28-rocket-force, quote: 中国人民解放军火箭军司令员李玉超、副司令员刘光斌，和前副司令员张振中，已被中共中央军委反腐机构调查人员带走 }
+- { a: zhou-yaning, b: li-yuchao, kind: colleague, text: 前后两任火箭军司令员，2023 年 12 月同日被罢免人大代表, cite: f02-zaobao-2024-06-27-li-wei, quote: 其中包括火箭军两任司令员李玉超、周亚宁等火箭军将领 }
+- { a: zhang-yulin, b: rao-wenmin, kind: colleague, text: 同为中央军委装备发展部副部长，同日被罢免人大代表, cite: f02-zaobao-2024-06-27-li-wei, quote: 以及中央军委装备发展部两名原副部长张育林、饶文敏 }
+- { a: zhang-zhenzhong, b: li-chuanguang, kind: colleague, from: 2016, text: 2016 年同期升任火箭军副司令员, cite: c08-thepaper-2016-08-zhang-zhenzhong, quote: 今年5月出任火箭军副司令员的李传广接替张军祥出任火箭军参谋长一职 }
+- { a: li-yuchao, b: lyu-hong, kind: colleague, text: 同为火箭军将领，2023 年 12 月同批被罢免人大代表, cite: c03-xinhua-2023-12-29-npc-notice-2, quote: 火箭军军人代表大会决定罢免吕宏、李玉超、李传广、周亚宁的第十四届全国人民代表大会代表职务 }
+
+# ---------- zhang-liu ----------
+- { a: zhang-youxia, b: liu-zhenli, kind: colleague, text: 军委副主席与军委联合参谋部参谋长，2026 年 1 月同时被宣布立案审查调查, cite: b08-mod-2026-01-24-zhang-liu-probe }
+- { a: zhang-youxia, b: li-shangfu, kind: patron, text: BBC 称李尚福属于张又侠为首的西北-装备系, cite: f01-bbc-2026-01-27-zhang-youxia, quote: 一方是张又侠为首的“西北-装备系”，包括李尚福等人 }
+
+# ---------- sun-lijun-gang ----------
+- { a: sun-lijun, b: gong-daoan, kind: patron, text: 龚道安为孙力军效命，并替他经营小圈子, cite: f03-xinhua-2022-01-15-zero-tolerance, quote: 龚道安不仅自己为孙力军效命，还帮孙力军经营充实“小圈子” }
+- { a: sun-lijun, b: deng-huilin, kind: patron, text: 孙力军帮助邓恢林先后提任中央政法委办公室主任、重庆市公安局局长、重庆市副市长, cite: f03-xinhua-2022-01-15-zero-tolerance, quote: 孙力军帮助邓恢林先后提任中央政法委办公室主任、重庆市公安局局长、重庆市副市长。 }
+- { a: gong-daoan, b: deng-huilin, kind: colleague, text: 龚道安向孙力军推荐了时任宜昌市公安局局长邓恢林, cite: f03-xinhua-2022-01-15-zero-tolerance, quote: 向孙力军推荐时任湖北省宜昌市公安局局长邓恢林 }
+- { a: sun-lijun, b: liu-xinyun, kind: patron, from: 2014, text: 刘新云主动结交孙力军，被孙物色为自己人, cite: f03-xinhua-2022-01-15-zero-tolerance, quote: 2014年，孙力军又物色到另一个“自己人”刘新云。 }
+- { a: sun-lijun, b: wang-like, kind: patron, text: 邓聿文称王立科等四名政法一把手经孙力军举荐、运作而提拔上位, cite: f03-dw-2022-01-18-deng-yuwen, quote: 前述涉案的这四个政法口的一把手，是经由孙的举荐、运作而提拔上位的。 }
+- { a: fu-zhenghua, b: sun-lijun, kind: colleague, text: 中纪委通报傅政华参加孙力军政治团伙, cite: c03-ccdi-2022-03-31-fu-zhenghua-expel, quote: 参加孙力军政治团伙，拉帮结派，结党营私 }
+
+# ---------- he-miao ----------
+- { a: he-weidong, b: miao-hua, kind: colleague, text: 同出身 31 集团军，2025 年 10 月同日被开除党籍, cite: b04-bbc-2025-10-nine-generals, quote: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军 }
+- { a: miao-hua, b: he-hongjun, kind: patron, text: 何宏军曾在兰州军区、军委政治工作部任苗华的下属或副手, cite: b04-bbc-2025-10-nine-generals, quote: 何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手 }
+- { a: miao-hua, b: yuan-huazhi, kind: patron, text: 苗华任海军政委时提拔的旧部, cite: b04-bbc-2025-10-nine-generals, quote: 袁华智长期在海军政治工作部门服役，是苗华担任海军政委时提拔的旧部 }
+- { a: miao-hua, b: wang-houbin, kind: patron, text: 苗华的海军旧部, cite: b04-bbc-2025-10-nine-generals, quote: 王厚斌长期在海军任职，曾任东海舰队副参谋长等职，也是苗华的海军旧部 }
+- { a: he-weidong, b: lin-xiangyang, kind: colleague, text: 同出身 31 集团军, cite: b04-bbc-2025-10-nine-generals, quote: 何卫东、苗华、林向阳、秦树桐、王秀斌都出身于31集团军 }

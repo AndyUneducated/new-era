@@ -1,0 +1,156 @@
+# F08 (round 3): ranks for existing members of xi-shanghai, qinghua, aerospace and mishu, and new labels
+# for people whose entries belong to other batches. A label repeated with the same cite only adds the rank.
+
+# --- xi-shanghai ---
+ding-xuexiang:
+  - f: xi-shanghai
+    cite: f01-bbc-2013-05-17-ding-xuexiang
+    quote: 2007年3月，习近平就任上海市委书记。丁薛祥在5月调任上海市委常委、市委秘书长，成为习的大管家
+    rank: core
+    rankQuote: 丁薛祥在5月调任上海市委常委、市委秘书长，成为习的大管家
+  - f: mishu
+    cite: b06-bbc-2022-10-23-psc
+    rank: core
+    rankQuote: 长期扮演习近平秘书角色的丁薛祥现年60岁（1962年9月出生），他是习近平的亲密助手
+yang-xiaodu:
+  - f: xi-shanghai
+    cite: f04-bbc-2018-03-18-yang-xiaodu
+    rank: backbone
+xu-lin:
+  - f: xi-shanghai
+    cite: f01-rfa-2019-02-22-shaanxi
+    rank: backbone
+du-jiahao:
+  - f: xi-shanghai
+    cite: f01-rfa-2019-02-22-shaanxi
+    rank: backbone
+chen-hao:
+  - f: xi-shanghai
+    cite: f01-rfa-2019-02-22-shaanxi
+    rank: periphery
+zhong-shaojun:
+  - f: xi-shanghai
+    cite: f01-rfa-2019-02-22-shaanxi
+    rank: backbone
+  - f: mishu
+    cite: b08-voa-2026-08-28-zhang-liu
+    rank: core
+    rankQuote: 钟绍军曾长期担任习近平在浙江、上海及中央工作时期的贴身秘书
+li-xi:
+  - f: xi-shanghai
+    cite: f08-orientaldaily-2016-09-16-new-shanghai
+    quote: 在地方，上海市委副書記李希出任遼寧省委書記
+    rank: backbone
+ying-yong:
+  - f: xi-shanghai
+    cite: f08-orientaldaily-2016-09-16-new-shanghai
+    quote: 在習近平主政上海後，應勇調任上海高院院長，進而出任上海市委常委、組織部部長、副書記
+    rank: backbone
+yang-zhenwu:
+  - f: xi-shanghai
+    cite: f08-orientaldaily-2016-09-16-new-shanghai
+    quote: 市委宣傳部部長楊振武回鍋《人民日報》，先任總編輯，再升社長
+    rank: periphery
+shen-haixiong:
+  - f: xi-shanghai
+    cite: f08-orientaldaily-2016-09-16-new-shanghai
+    quote: 新華社上海分社社長慎海雄升任新華社副社長
+    rank: periphery
+
+# --- qinghua ---
+chen-xi:
+  - f: qinghua
+    cite: f01-asiasociety-tsinghua
+    quote: Among Xi’s classmates at Tsinghua, Chen Xi has played a significant role in promoting and cementing Xi’s Tsinghua new army.
+    zh: 在习近平的清华同学中，陈希在提携和巩固习的清华新军方面发挥了重要作用。
+    rank: elder
+    rankQuote: Chen has for a decade played a godfather-like role for the Tsinghua new army
+  - f: qinghua
+    cite: f08-diplomat-2015-04-27-tsinghua
+    quote: A key member of the new Tsinghua Clique is Chen Xi
+    zh: 新清华帮的一名关键成员是陈希
+chen-jining:
+  - f: qinghua
+    cite: f08-diplomat-2015-04-27-tsinghua
+    quote: Two other members of the new Tsinghua Clique are protégés of Chen Xi at Tsinghua University. Both Hu Heping and Chen Jining have had long association with Tsinghua University.
+    zh: 新清华帮的另外两名成员是陈希在清华的门生。胡和平与陈吉宁都与清华大学渊源深厚。
+    rank: core
+li-ganjie:
+  - f: qinghua
+    cite: f01-asiasociety-tsinghua
+    quote: Li Ganjie, Chen’s successor in the Central Organization Department, is the youngest member of the current Politburo and also a Tsinghua alumnus
+    zh: 陈希在中组部的继任者李干杰是本届政治局最年轻的成员，也是清华校友
+    rank: core
+    rankQuote: Chen has for a decade played a godfather-like role for the Tsinghua new army, now with Li serving as his lieutenant
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    rank: periphery
+    rankQuote: 唯有最年轻的二十届中央政治局委员李干杰的“军工背景”多少有些牵强
+
+# --- aerospace ---
+ma-xingrui:
+  - f: aerospace
+    cite: b08-bbc-2026-07-14-ma
+    rank: core
+    rankQuote: 马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰
+yuan-jiajun:
+  - f: aerospace
+    cite: b08-bbc-2026-07-14-ma
+    rank: core
+    rankQuote: 马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员，被视为“航天系”技术官僚的从政顶峰
+zhang-guoqing:
+  - f: aerospace
+    cite: f02-jamestown-2018-xi-faction-regions
+    rank: core
+    rankQuote: One of the most famous members of this so-called Defense-Aerospace Faction in party politics is Zhang Guoqing (born 1964)
+liu-guozhong:
+  - f: aerospace
+    cite: f02-rfa-2023-02-13-jungong
+    rank: core
+hao-peng:
+  - f: aerospace
+    cite: f08-chinanews-2017-02-07-jungong
+    quote: 如今，拥有航空航天系统履历的部级官员已不鲜见。例如，新任国务院国资委党委书记郝鹏毕业于西北工业大学飞行器制造工程专业，曾在中航工业兰州飞控仪器总厂工作17年之久
+    rank: periphery
+
+# --- mishu ---
+li-zhanshu:
+  - f: mishu
+    cite: f01-brookings-2017-new-politburo
+    quote: like Xi’s chief of staff Li Zhanshu, Wang Huning has often been beside Xi Jinping throughout his first term
+    zh: 和习近平的幕僚长栗战书一样，王沪宁在习的第一个任期内也常伴其左右
+    rank: elder
+  - f: mishu
+    cite: f08-cna-2023-03-20-cai-qi
+    quote: 歷史上，前中國國務院總理溫家寶、前中國國家副主席曾慶紅、前中國全國人大委員長栗戰書都擔任過中辦主任
+li-qiang:
+  - f: mishu
+    cite: f07-rfa-2020-11-20-xu-lingyi
+    quote: 当时的省委秘书长是也和徐令义一样，从温州官场出道的李强。所以，如果说当时的李强是习近平的大秘的话
+    rank: core
+    rankQuote: 如果说当时的李强是习近平的大秘的话
+  - f: mishu
+    cite: b06-guardian-2022-10-24-li-qiang
+    quote: When Xi was Zhejiang province’s top party boss, Li was his chief of staff and his de facto top personal aide from 2004 until 2007
+    zh: 习近平任浙江省委书记时，李强是他的幕僚长，2004 至 2007 年实际上是他最重要的贴身助手
+cai-qi:
+  - f: mishu
+    cite: f08-cna-2023-03-20-cai-qi
+    quote: 同行者包括中共中央書記處書記、「中央辦公廳主任」蔡奇，證實蔡奇已取代丁薛祥接掌中辦主任
+    rank: core
+    rankQuote: 使中辦主任素來有「中南海大管家」之稱，前提是必須獲得領導人的絕對信任
+xu-lingyi:
+  - f: mishu
+    cite: f07-rfa-2020-11-20-xu-lingyi
+    quote: 安排到自己身边出任省委第一副秘书长
+    rank: backbone
+    rankQuote: 那么徐令义就是习近平的二秘
+shu-guozeng:
+  - f: mishu
+    cite: f08-xinshishe-2014-12-zhijiang
+    quote: 实际上，早在十年前，时任浙江省委办公厅副主任舒国增就是省委书记习近平的左膀右臂
+    rank: backbone
+    rankQuote: 舒国增就是省委书记习近平的左膀右臂
+  - f: mishu
+    cite: f08-caixin-2017-08-24-shu-guozeng
+    quote: 由中央财经领导小组办公室（下称中央财办）原副主任、曾为习近平老部下的舒国增出任该职

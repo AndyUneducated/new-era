@@ -1,0 +1,490 @@
+# E06: widely circulated rumours and inside stories about top-level politics (round 3)
+web:
+  # ---- 2002 Hu defers to Jiang ----
+  - id: e06-epoch-2002-11-22-hu-defers
+    title: 胡锦涛接班内幕﹕秘密会议向江表态
+    publisher: 大纪元
+    date: 2002-11-22
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/2/11/22/n248107.htm
+    excerpt: true
+    keep: [ 秘密会议中表示, 并未承诺完全听命于江泽民, 至少将五名亲信安插 ]
+  # ---- 2007 straw poll ----
+  - id: e06-sina-2007-10-24-straw-poll
+    title: 为了党和国家兴旺发达长治久安——党的新一届中央领导机构产生纪实
+    publisher: 新华社（新浪转载东方早报）
+    date: 2007-10-24
+    voice: official
+    url: http://news.sina.com.cn/o/2007-10-24/031412776163s.shtml
+    start: 新华社北京10月23日电
+    end: 谱写人民美好生活新篇章！
+  - id: e06-people-2013-06-08-straw-poll
+    title: 习近平为总书记的中央领导集体形成始末
+    publisher: 人民网·中国共产党新闻网
+    author: 宋毅军
+    date: 2013-06-08
+    voice: history
+    url: http://dangshi.people.com.cn/n/2013/0608/c85037-21793787.html
+    excerpt: true
+    keep: [ 这就是习近平、李克强两位 ]
+  # ---- 2010 WikiLeaks / Google ----
+  - id: e06-bbc-2010-12-07-wikileaks-mfa
+    title: 中国希望中美关系不受维基解密事件影响
+    publisher: BBC 中文
+    date: 2010-12-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2010/12/101207_china_wikileaks_relation
+    excerpt: true
+    keep: [ 這太荒謬了，不值一提, 對互聯網搜索引擎谷歌的襲擊是由中共政治局兩位常委指揮的, 李克強在2007年曾對美國一位外交官說 ]
+  - id: e06-voa-2010-12-07-li-changchun-google
+    title: 维基揭密：李长春下令黑客攻击谷歌
+    publisher: 美国之音
+    date: 2010-12-07
+    voice: zh
+    url: https://www.voachinese.com/a/article-20101207-wikileaks-google-attacks-ordered-li-changchun-111438599/774081.html
+    excerpt: true
+    keep: [ 将自己的中文名字输入谷歌搜寻引擎后, 李长春曾下令攻击谷歌在美国的电脑伺服器, 中国方面迄今尚未做出回应 ]
+  # ---- 2011 ATV Jiang death report ----
+  - id: e06-rfi-2011-07-08-atv-retract
+    title: 亚视撤回江泽民死讯报道
+    publisher: 法国国际广播电台
+    date: 2011-07-08
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20110708-亚视撤回江泽民死讯报道
+    excerpt: true
+    keep: [ 撤回江逝世的报道, 风波起因是亚洲电视, 毫无事实根据、纯属造谣, 及至下午接近五时 ]
+  - id: e06-rfa-2011-12-06-atv-fine
+    title: 误报江死讯被罚三十万 亚视高层被指干预新闻运作
+    publisher: 自由亚洲电台
+    date: 2011-12-06
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/jiang-12062011094403.html
+    excerpt: true
+    keep: [ 对亚视处罚30万港元, 邝凯迎在两次电话中 ]
+  # ---- 2012 Wang Lijun documents, Bo-Zhou plot ----
+  - id: e06-voa-2012-02-15-free-beacon
+    title: 美国会调查王立军案处理方式 美媒首次披露领馆细节
+    publisher: 美国之音
+    date: 2012-02-15
+    voice: zh
+    url: https://www.voachinese.com/a/article-20120215-uncut-news-us-congress--us-wang-lijun-case-139406633/806617.html
+    excerpt: true
+    keep: [ 设在华盛顿的网站《美国自由灯塔》, 王立军反映的情况涉及到他的上司薄熙来的腐败, 白宫不批准骆家辉的提议 ]
+  - id: e06-voa-2012-02-23-wang-lijun-docs
+    title: 美官员：中方要求美领馆归还王立军材料
+    publisher: 美国之音
+    date: 2012-02-23
+    voice: zh
+    url: https://www.voachinese.com/a/article-20120223-wang-lijun-case-140135663/811415.html
+    excerpt: true
+    keep: [ 王立军留下了不少材料, 王立军的命运现在掌握在美方手里 ]
+  - id: e06-epoch-2012-02-23-bo-zhou-plot
+    title: 美官员证实：中共要求美国归还王立军交出的材料
+    publisher: 大纪元
+    date: 2012-02-23
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/12/2/23/n3520599.htm
+    excerpt: true
+    keep: [ 薄熙来和周永康密谋计划整垮习近平 ]
+  # ---- 2012-03 Beijing coup rumour ----
+  - id: e06-secretchina-2012-03-20-beijing-coup
+    title: 紫禁城驚聞「槍聲」 網民不眠夜
+    publisher: 看中国
+    date: 2012-03-20
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/b5/2012/03/20/444727.html
+    excerpt: true
+    keep: [ 北京出事了！更有網民說聽到槍聲, 軍車如林，長安街不斷管制 ]
+  - id: e06-ce-2012-03-31-sites-closed
+    title: 传播“军车进京、北京出事”的造谣者被拘留
+    publisher: 新华社（中国经济网转载）
+    date: 2012-03-31
+    voice: official
+    url: http://district.ce.cn/newarea/roll/201203/31/t20120331_23205772.shtml
+    start: 据国家互联网信息办公室发言人今日披露
+    end: 共同维护健康的网络环境和良好的社会秩序。
+  # ---- 2012-04 Bo wiretapping ----
+  - id: e06-voa-2012-04-26-bo-wiretap
+    title: 纽约时报：薄熙来窃听中国高层领导电话
+    publisher: 美国之音
+    date: 2012-04-26
+    voice: zh
+    url: https://www.voachinese.com/a/article-20120426-china-bo-wiretap-149024145/956935.html
+    excerpt: true
+    keep: [ 一直在窃听包括胡锦涛主席在内, 有十几位与中共关系密切的人都证实了窃听的情况 ]
+  - id: e06-cdt-2012-05-01-wiretap-denial
+    title: 西方傳媒將毒殺英商與中共權鬥掛鈎 北京擬公開谷供詞拆彈
+    publisher: 中国数字时代
+    date: 2012-05-01
+    voice: zh
+    url: https://chinadigitaltimes.net/chinese/223178.html
+    excerpt: true
+    keep: [ 題為「薄王竊聽門子虛烏有」的報道, 官方新華社昨日則發表英文評論 ]
+  # ---- 2013 Xi taxi ----
+  - id: e06-bbc-2013-04-18-taxi
+    title: 大公報道歉：「習近平打出租」是假新聞
+    publisher: BBC 中文
+    date: 2013-04-18
+    voice: zh
+    url: https://www.bbc.co.uk/zhongwen/trad/china/2013/04/130418_takung_apology.shtml
+    excerpt: true
+    keep: [ 經核，此為虛假消息, 新華社中國網事官方微博稱, 3月1日，習近平在北京乘坐出租汽車 ]
+  - id: e06-voa-2013-04-18-taxi
+    title: 习近平打的新闻被证伪
+    publisher: 美国之音
+    date: 2013-04-18
+    voice: zh
+    url: https://www.voachinese.com/a/fake-news-on-xi-jinping-taxi-20130418/1644252.html
+    excerpt: true
+    keep: [ 当天下午5点32分，新华网登出一句话的短文, 北京交通部门曾对官方媒体证实 ]
+  # ---- 2013-12 Zhou Yongkang ----
+  - id: e06-voa-2013-12-11-zhou-reuters
+    title: 路透社：周永康已遭监控
+    publisher: 美国之音
+    date: 2013-12-11
+    voice: zh
+    url: https://www.voachinese.com/a/reuters-zhou-yongkang-20131211/1808088.html
+    excerpt: true
+    keep: [ 中南海已经决定调查周永康并且对其, 周永康自由受到限制，行动受到监控 ]
+  - id: e06-bbc-2013-12-15-zhou
+    title: 紐約時報：周永康被正式調查
+    publisher: BBC 中文
+    date: 2013-12-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2013/12/131215_zhouyongkang
+    excerpt: true
+    keep: [ 一直受到看守, 中國當局遲遲未就周永康是否受正式調查 ]
+  # ---- 2014-01 ICIJ offshore ----
+  - id: e06-bbc-2014-01-22-icij
+    title: 国际调查记者同盟：中国权贵离岸资产
+    publisher: BBC 中文
+    date: 2014-01-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/01/140122_china_icij_princelings_offshore_haven
+    excerpt: true
+    keep: [ 至少有5名现任或前任中共中央政治局常委的亲属, 这家中国大陆媒体因受到中国当局警告 ]
+  - id: e06-bbc-2014-01-22-icij-reaction
+    title: 中国回避外媒对官员腐败报道令讨论发酵
+    publisher: BBC 中文
+    date: 2014-01-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/01/140122_oveaseas_media_ccp_reactions
+    excerpt: true
+    keep: [ 有关报道的逻辑不能令人信服，其动机令人起疑 ]
+  - id: e06-nytcn-2014-01-23-offshore
+    title: 中国权贵设离岸公司隐藏巨额财富
+    publisher: 纽约时报中文网
+    date: 2014-01-23
+    voice: zh
+    url: https://cn.nytimes.com/china/20140123/c23offshore/
+    excerpt: true
+    keep: [ 根本不足取信, 身为习近平姐夫的富商邓家贵 ]
+  # ---- 2015 Jiang / Zeng rumours ----
+  - id: e06-secretchina-2015-11-01-jiang-zeng
+    title: 曾庆红大网收紧？网传江泽民哀求放过
+    publisher: 看中国
+    date: 2015-11-01
+    voice: zh
+    rumor: true
+    url: https://www.secretchina.com/news/gb/2015/11/01/591165.html
+    excerpt: true
+    keep: [ 尽管江泽民和曾庆红双双现身9月的北京阅兵式, 在我有生之年，不要查他, 2月26日，赵洪祝代表中纪委 ]
+  - id: e06-bbc-2015-09-03-parade-jiang
+    title: 江泽民现身北京阅兵
+    publisher: BBC 中文
+    date: 2015-09-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/09/150903_china_parade_jiang
+    excerpt: true
+    keep: [ 他保留了中央军委主席一职, 关于江泽民和习近平观点不同的传闻时有出现, 他站在现任中国领导人中间 ]
+  # ---- 2016 Wujie letter ----
+  - id: e06-bbc-2016-03-25-wujie-letter
+    title: 要求习近平辞职公开信事件 20人被扣押
+    publisher: BBC 中文
+    author: 沙磊（John Sudworth）
+    date: 2016-03-25
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/03/160325_china_blog_xi_letter
+    excerpt: true
+    keep: [ 目前共有20人被扣押调查, 将权力全面抓到自己的手里, 虽然该信件的真实性存疑 ]
+  - id: e06-bbc-2016-10-12-wujie-letter
+    title: 倒习信事件据报结案
+    publisher: BBC 中文
+    date: 2016-10-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/10/161012_china_xi_letter
+    excerpt: true
+    keep: [ 据报，8月底该案已经结案, 具新疆官方背景的“无界新闻网” ]
+  # ---- 2017 Xiao Jianhua ----
+  - id: e06-bbc-2017-01-31-xiao
+    title: 肖建華聲明否認被綁架回內地
+    publisher: BBC 中文
+    date: 2017-01-31
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese-news-38810714
+    excerpt: true
+    keep: [ 不存在被綁架回內地的情況, 被數十名中國公安及國安人員拘捕, 旗下公司曾收購中共總書記習近平姐姐和姐夫 ]
+  - id: e06-bbc-2017-02-19-xiao
+    title: 肖建华失踪前细节被披露 “他知道有人来”
+    publisher: BBC 中文
+    date: 2017-02-19
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-39023760
+    excerpt: true
+    keep: [ 肖建华手里有贿赂中共领导层家人的信息, 他同意回中国大陆协助调查2015年 ]
+  # ---- 2017 Guo Wengui ----
+  - id: e06-voa-2017-04-25-guo
+    title: 郭文贵称开全球记者会爆料 北京再反击
+    publisher: 美国之音
+    date: 2017-04-25
+    voice: zh
+    url: https://www.voachinese.com/a/news-miles-kwok-continue-to-squeeze-out-secret-of-top-leaders-20170425/3824610.html
+    excerpt: true
+    keep: [ 傅政华称此调查是习近平亲自下令, 美国之音无法独立核实郭文贵, 决不传播政治谣言、决不丑化 ]
+  - id: e06-cna-2018-11-30-voa-probe
+    title: 美國之音郭文貴專訪斷播 調查後解雇普通話組主任
+    publisher: 中央社
+    date: 2018-11-30
+    voice: zh
+    url: https://www.cna.com.tw/news/firstnews/201811300202.aspx
+    excerpt: true
+    keep: [ 他用手指劃過喉嚨, 調查未發現有證據支持所謂斷播是來自中國政府 ]
+  # ---- 2018 ink splash ----
+  - id: e06-voa-2018-07-04-ink
+    title: 习近平像遭女子泼墨 称反对独裁暴政
+    publisher: 美国之音
+    date: 2018-07-04
+    voice: zh
+    url: https://www.voachinese.com/a/Xi-Jinping-Poster-Splashed-With-Ink-By-A-Female-in-Shanghai/4466196.html
+    excerpt: true
+    keep: [ 向中国最高领导人习近平的宣传画像泼墨, 称其名为董瑶琼 ]
+  - id: e06-rfi-2018-07-15-cooling
+    title: 习近平吹捧热已降温了？
+    publisher: 法国国际广播电台
+    date: 2018-07-15
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20180715-习近平吹捧热已降温了
+    excerpt: true
+    keep: [ 人民日报头版完全没有出现“习近平”3个字, 代表中共高层有意冷却对习近平的个人崇拜 ]
+  # ---- 2019 Carrie Lam tape ----
+  - id: e06-bbc-2019-09-03-lam-tape
+    title: 林郑月娥录音遭泄露 透露自己“如有选择会辞职”
+    publisher: BBC 中文
+    date: 2019-09-03
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-49561817
+    excerpt: true
+    keep: [ 路透社早前取得一段香港特首林郑月娥, 再次否认林郑月娥或她的政府 ]
+  # ---- 2020 Qiushi Jan 7 ----
+  - id: e06-qstheory-2020-02-15-xi-speech
+    title: 在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话
+    publisher: 求是网
+    author: 习近平
+    date: 2020-02-15
+    voice: doc
+    url: https://www.qstheory.cn/dukan/qs/2020-02/15/c_1125572832.htm
+    start: 武汉新型冠状病毒肺炎疫情发生后
+    end: 问题严重的要就地免职。
+  - id: e06-bbc-2020-02-17-jan7
+    title: 肺炎疫情：中共黨媒刊載習近平疫情講話稿引發「責任」質疑
+    publisher: BBC 中文
+    date: 2020-02-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/world-51532511
+    excerpt: true
+    keep: [ 引發了國際媒體就誰應承擔, 湖北省和武漢市官方在1月23日當晚10點封城之前, CNN評論指出，這也突顯出 ]
+  # ---- 2022 Xi down Li up ----
+  - id: e06-rfi-2022-05-18-xi-down-li-up
+    title: 习降李升传言甚嚚尘上真假难辨 惊指习近平20大无法再续任
+    publisher: 法国国际广播电台
+    date: 2022-05-18
+    voice: zh
+    url: https://www.rfi.fr/cn/中国/20220518-习降李升传言甚嚚尘上真假难辨-惊指习近平20大无法再续任
+    excerpt: true
+    keep: [ 5月初海外网络上一则爆料短片迅速流传, 有人认为，这不过是一些以“中南海听床师”自诩 ]
+  - id: e06-dw-2022-05-26-li-100k
+    title: 中国经济有多危急？李克强召10万干部开会
+    publisher: 德国之声
+    date: 2022-05-26
+    voice: zh
+    url: https://www.dw.com/zh/中国经济有多危急李克强召10万干部开会/a-61941860
+    excerpt: true
+    keep: [ 规模将超过十万人, 李克强长期以来被边缘化 ]
+  # ---- 2022-09 house arrest rumour ----
+  - id: e06-voa-2022-09-26-coup-twitter
+    title: 习近平遭软禁传闻充斥推特 观察人士驳斥
+    publisher: 美国之音
+    date: 2022-09-26
+    voice: zh
+    url: https://www.voachinese.com/a/china-on-twitter-xi-coup-20220926/6764340.html
+    excerpt: true
+    keep: [ 中共内部发生政变的传闻在过去这个周末, 传言称，在习近平出访中亚期间, 有关习主席和‘中国政变’的有用信息为零 ]
+  - id: e06-dw-2022-09-27-xi-reappears
+    title: 习近平现身北京 彻底打破软禁谣言
+    publisher: 德国之声
+    date: 2022-09-27
+    voice: zh
+    url: https://www.dw.com/zh/习近平现身北京-彻底打破软禁谣言/a-63264525
+    excerpt: true
+    keep: [ 习近平再次在公共场合露面，彻底推翻了, 针对最新的习近平被软禁政变的传言 ]
+  # ---- 2023 Beidaihe elders ----
+  - id: e06-rfa-2023-09-06-beidaihe
+    title: 日经：习近平北戴河遭元老斥责 分析人士存疑
+    publisher: 自由亚洲电台
+    date: 2023-09-06
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hcm1-09062023041309.html
+    excerpt: true
+    keep: [ 陈破空对此消息保持半信半疑, 中共的元老在过去十年多数已经被清洗 ]
+  # ---- 2023 Li Shangfu missing ----
+  - id: e06-bbc-2023-09-15-li-shangfu
+    title: 中国国防部长李尚福下落不明
+    publisher: BBC 中文
+    date: 2023-09-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/world-66817931
+    excerpt: true
+    keep: [ 这场失业大赛谁会获胜, 美国政府相信李尚福已接受调查, 因为他“被软禁了” ]
+  - id: e06-dw-2023-09-15-li-shangfu
+    title: 李尚福失踪或因军事采购腐败受调查
+    publisher: 德国之声
+    date: 2023-09-16
+    voice: zh
+    url: https://www.dw.com/zh/李尚福失踪或因军事采购腐败受调查/a-66832362
+    excerpt: true
+    keep: [ 据十名知情人士向路透社记者透露, 我不了解你提到的情况 ]
+  # ---- 2023-12 Qin Gang death report ----
+  - id: e06-voa-2023-12-07-qin-dead
+    title: Politico称秦刚已死 西方观察人士质疑
+    publisher: 美国之音
+    date: 2023-12-07
+    voice: zh
+    url: https://www.voachinese.com/a/china-on-twitter-qin-dead-20231207/7388749.html
+    excerpt: true
+    keep: [ 自杀或是“被折磨致死”, 读者需要注意，这些说法的消息源并不可靠 ]
+  # ---- 2024-01 water-filled missiles ----
+  - id: e06-dw-2024-01-07-water-missiles
+    title: 注水导弹？美媒：情报称火箭军因腐败遭习近平整肃
+    publisher: 德国之声
+    date: 2024-01-08
+    voice: zh
+    url: https://www.dw.com/zh/注水导弹美媒情报称火箭军因腐败遭习近平整肃/a-67920624
+    excerpt: true
+    keep: [ 包括导弹中注水而不是燃料, 上述美国情报评估无法得到独立证实 ]
+  - id: e06-zaobao-2024-01-07-water-missiles
+    title: 彭博社：美情报称解放军腐败削弱战力
+    publisher: 联合早报
+    date: 2024-01-07
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20240107-1460615
+    excerpt: true
+    keep: [ 习近平的权利并未因扩大对解放军的整肃而被削弱 ]
+  # ---- 2024-11 Dong Jun ----
+  - id: e06-zaobao-2024-11-28-dong-jun
+    title: 中国国防部否认董军被查
+    publisher: 联合早报
+    date: 2024-11-28
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20241128-5413889
+    excerpt: true
+    keep: [ 称这些报道纯属捏造, 批评造谣者居心叵测, 这一传言是“捕风捉影” ]
+  # ---- 2025 He Weidong ----
+  - id: e06-rfi-2025-03-27-he-weidong
+    title: 传何卫东遭查 中国国防部发言人：不了解这方面情況
+    publisher: 法国国际广播电台
+    date: 2025-03-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250327-%E4%BC%A0%E4%BD%95%E5%8D%AB%E4%B8%9C%E9%81%AD%E6%9F%A5-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA-%E4%B8%8D%E4%BA%86%E8%A7%A3%E8%BF%99%E6%96%B9%E9%9D%A2%E6%83%85%E6%B3%81
+    excerpt: true
+    keep: [ 当被问及相关报道，吴谦当天在记者会上回答说, 《华盛顿时报》周二援引未具名美国防官员, 中国国防部长董军在当时也传被查 ]
+  - id: e06-dw-2025-04-he-weidong
+    title: 媒体：解放军二把手被免职
+    publisher: 德国之声
+    date: 2025-04-11
+    voice: zh
+    url: https://www.dw.com/zh/媒体解放军二把手被免职/a-72215262
+    excerpt: true
+    keep: [ 何卫东已被免去职务，有多名知情人士透露, 自1967年贺龙以来 ]
+  # ---- 2025 Xi sidelined rumour ----
+  - id: e06-epoch-2025-06-06-xi-sidelined
+    title: 习近平异常隐身两周 露面后被降格
+    publisher: 大纪元
+    date: 2025-06-06
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/25/6/6/n14525676.htm
+    excerpt: true
+    keep: [ 习近平表面仍在台上，实则大势已去, 何卫东已自我了断, 从公众视野消失了两周 ]
+  - id: e06-renminbao-2025-06-04-xi-power
+    title: 中南海权力转移八大证据
+    publisher: 人民报
+    date: 2025-06-04
+    voice: zh
+    rumor: true
+    url: https://www.renminbao.com/rmb/articles/2025/6/4/90743m.html
+    excerpt: true
+    keep: [ 中南海已经改朝换代, 目前控制军中实权的是军委副主席张又侠 ]
+  - id: e06-dw-2025-07-brics
+    title: 李强赴巴西金砖峰会 习近平首度缺席
+    publisher: 德国之声
+    date: 2025-07-02
+    voice: zh
+    url: https://www.dw.com/zh/李强赴巴西金砖峰会-习近平首度缺席/a-73122494
+    excerpt: true
+    keep: [ 这打破了习近平从不缺席金砖峰会的惯例, 习近平缺席峰会是因为日程安排有冲突 ]
+  # ---- 2026-01 Jingxi hotel rumour ----
+  - id: e06-bannedbook-2026-01-26-jingxi
+    title: 大咖亲信也清算！张又侠传与习爆“军变”枪战
+    publisher: 禁闻网
+    date: 2026-01-26
+    voice: zh
+    rumor: true
+    url: https://www.bannedbook.org/bnews/topimagenews/20260126/2280848.html
+    excerpt: true
+    keep: [ 双方在京西宾馆发生激烈枪战, 但以上军变内容并未获得证实 ]
+  - id: e06-newtalk-2026-01-27-jingxi
+    title: 京西賓館槍戰？張又俠政變？趙蘭健警示：謠言誤導掩蓋習近平高度集權戰備真相
+    publisher: 新头壳
+    date: 2026-01-27
+    voice: zh
+    url: https://newtalk.tw/news/view/2026-01-27/1017103
+    excerpt: true
+    keep: [ 此類敘事完全依賴「X先生」 ]
+  # ---- Gu Wanming ----
+  - id: e06-voa-2025-02-gu-wanming
+    title: 质疑李克强死因的新华社退休记者被判刑
+    publisher: 美国之音
+    date: 2025-02
+    voice: zh
+    url: https://www.voachinese.com/a/journalist-jailed-for-questioning-the-cause-of-li-keqiang-death/7972445.html
+    excerpt: true
+    keep: [ 被上海法院以“寻衅滋事”罪判处有期徒刑一年, 有关方面没有向众人说明其死因 ]
+  - id: e06-rfa-2025-02-11-gu-wanming
+    title: 顾万明因呼吁调查李克强死因被判刑并取消退休待遇
+    publisher: 自由亚洲电台
+    date: 2025-02-11
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhengzhi/renquan/2025/02/11/china-guwanming-reporter-likeqiang-death-investigation/
+    excerpt: true
+    keep: [ 他提出的五项要求包括, 去年12月10日，顾万明任职的新华社人事局 ]
+  # ---- for voices on existing events ----
+  - id: e06-voa-2015-08-14-tianjin
+    title: 焦点对话：天津大爆炸，哪些问题仍无答案？
+    publisher: 美国之音
+    date: 2015-08-14
+    voice: zh
+    url: https://www.voachinese.com/a/VOAWeishi-ProandCon-20150814-the-tianjin-explosion-what-are-the-unanswered-questions/2917893.html
+    excerpt: true
+    keep: [ 不排除背后有政治原因 ]
+  - id: e06-epoch-2015-09-09-tianjin
+    title: 天津大爆炸内幕传闻
+    publisher: 大纪元
+    date: 2015-09-09
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/15/9/9/n4523092.htm
+    excerpt: true
+    keep: [ 习怀疑几十名中共军中高级将领涉爆炸案, 中共高层三个消息来源透露 ]

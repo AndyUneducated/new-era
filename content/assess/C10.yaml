@@ -1,0 +1,501 @@
+# C10 rumour layer: person id → extra assess voices (inside stories, hearsay, folk readings).
+# Appended to each person's assess; rumor-only outlets are flagged rumor: true in research/manifests/C10.yaml.
+xi-jinping:
+  - voice: zh
+    quote: true
+    text: 目前最广为接受的说法是习近平在锻炼时背部受伤，因此不得不取消了连日来的多项早已预定的外事活动。
+    cite: c10-bbc-2012-09-12-xi-whereabouts
+  - voice: zh
+    quote: true
+    text: 消息人士指稱，在今年北戴河會議上，一群退休中共元老以前所未有的方式斥責了習近平。根據收集到的消息，習近平之後向最親近幕僚們表達了他的沮喪。
+    cite: c10-cna-2023-09-05-beidaihe-elders
+  - voice: zh
+    quote: true
+    text: 綜合網路訊息，中共20屆三中全會舉行期間，中國國內及國外網路都出現對話截圖，內容係以規避網路審查的暗語方式，暗指習近平在全會舉行過程中身體不適，甚至當場中風等情況，不久即在網路上迅速流傳，其中包括中國國內的微信群組。
+    cite: c10-cna-2024-07-21-xi-stroke-rumour
+  - voice: scholar
+    quote: true
+    text: 海外一再传播习的各类谣言，除了反映一部分人“等待惊变”，希望看到习倒台，也是自媒体情绪经济的流量驱动所致。
+    cite: c10-dw-2025-xi-power-not-weakened
+
+hu-jintao:
+  - voice: zh
+    quote: true
+    text: 此外也有分析人士指出，如果习近平出现长期性的身体问题，胡锦涛可能以此为契机提出像江泽民一样在卸任中共总书记和国家主席后仍保留中央军委主席职务。
+    cite: c10-bbc-2012-09-12-xi-whereabouts
+  - voice: zh
+    quote: true
+    text: 该网站报道有网民在中文社交媒体上隐晦地讨论此事，比如称“前任被现任带出了大厅”
+    cite: c10-dw-2022-10-hu-led-out
+  - voice: zh
+    quote: true
+    text: 旅美的中國科普作家方舟子今天在推特（Twitter）發文指出，胡錦濤想翻看的文件夾里是中央委員候選人名單。
+    cite: c10-cna-2022-10-24-hu-documents
+  - voice: zh
+    quote: true
+    text: 近日有日本媒体披露，胡锦涛当时是因不满指定的隔代接班人胡春华被踢出名单，翻看名单时却被栗战书按住。
+    cite: c10-rfa-2022-11-10-li-lips
+
+ding-xuexiang:
+  - voice: zh
+    quote: true
+    text: 孔绍逊是中共中央办公厅副主任兼秘书局局长，他的顶头上司、中央办公厅主任丁薛祥，周日当选新一届政治局常委。
+    cite: c10-dw-2022-10-hu-led-out
+  - voice: zh
+    quote: true
+    text: 網絡一度盛傳由丁薛祥和陳吉寧搭檔接班的傳聞，基本可以確定是有關派系有意在放風的一個假消息。
+    cite: c10-secretchina-2025-09-02-wang-yang
+
+li-zhanshu:
+  - voice: zh
+    quote: true
+    text: 胡锦涛试图翻看面前桌上的一份红色文件夹，但是栗战书却用手制止他翻看，同时跟他耳语。
+    cite: c10-voa-2022-10-hu-folder
+  - voice: zh
+    quote: true
+    text: 只有栗戰書坐立不安直擦汗，或者覺得自己惹禍或者是為人厚道。
+    cite: c10-cna-2022-10-24-hu-documents
+  - voice: scholar
+    quote: true
+    text: 对于日媒的最新解读，台湾的国防安全研究院所长沈明室接受自由亚洲电台采访指出，不知上述唇语分析对错，日本记者除非中文非常熟悉。不过他认为，峯村健司的报导符合外界一般性推论。
+    cite: c10-rfa-2022-11-10-li-lips
+  - voice: zh
+    quote: true
+    text: 在中共十九大那年，栗战书主动向习提出，由于自己年龄到了68岁，考虑退休，即使留任也只是到政协或人大担任副职，以此先发制人打消习的顾忌。
+    cite: c10-ntdtv-2024-10-23-li-retire
+
+wang-huning:
+  - voice: zh
+    quote: true
+    text: 据两名台湾安全官员透露，在幕后，王沪宁一直在监督中国通过网络宣传影响台湾公众舆论的行动，这些活动放大了对美国实力的怀疑、对赖清德的严厉批评，以及钦佩中国的信息。
+    cite: c10-nytcn-2024-10-28-wang-huning-taiwan
+  - voice: zh
+    quote: true
+    text: 这时，王被当成替罪羊承担一切责任的可能很大，最终，成了到秦城的第二个周永康。
+    cite: c10-secretchina-2024-05-25-wang-huning
+  - voice: zh
+    quote: true
+    text: 連王滬寧這位比較地道的上海幫出身的人都已經跳船拋棄習近平，在今年上半年開始幫胡汪做事。
+    cite: c10-secretchina-2025-09-02-wang-yang
+
+li-keqiang:
+  - voice: west
+    quote: true
+    text: 我们都知道习、李一直不和。李克强今年3月在全国人大作政府工作报告时，习近平甚至没鼓过一次掌，这是违反礼节的。
+    cite: c10-voa-2016-05-11-authoritative-person
+  - voice: zh
+    quote: true
+    text: 李克強聽到整個過程也沒轉頭，只在胡走過拍他肩膀時才點點頭。
+    cite: c10-cna-2022-10-24-hu-documents
+  - voice: zh
+    quote: true
+    text: 据上海一位不愿具名的医疗界人士披露，李克强前一天刚到上海，入住上海东郊宾馆，游泳时突发心脏病。
+    cite: c10-rfa-2023-10-27-li-death
+  - voice: zh
+    quote: true
+    text: 李克强去世8个小时后才对外发布消息，在网络上，26日下午17点54分就有人说，李克强已经去世，正在等官方的官宣。
+    cite: c10-rfa-2023-10-27-li-death
+
+liu-he:
+  - voice: zh
+    quote: true
+    text: 流行说法是，那位权威人士是刘鹤，受习近平指示，起草此文炮打李克强，将当前中国经济的种种问题推诿给李克强。
+    cite: c10-voa-2016-07-27-xi-li-lines
+  - voice: scholar
+    quote: true
+    text: 如果传闻都是真的，那唯一的猜测是：习近平让刘鹤组织这篇文章在经济问题上指责李克强，但执笔人暗地里却按照经济学职业操守实事求是地写了这篇技术文章。
+    cite: c10-voa-2016-07-27-xi-li-lines
+
+jiang-zemin:
+  - voice: zh
+    quote: true
+    text: 早些时候，香港媒体引述北京消息来源说，江泽民健康不佳，目前住在北京解放军301医院，大批重要人物前往探视。
+    cite: c10-bbc-2011-07-07-jiang-atv
+  - voice: zh
+    quote: true
+    text: 此前中国官方的新华社中午发出英文稿，引述权威消息说，最近多间海外媒体报道江泽民的死讯，“纯属谣言”。
+    cite: c10-bbc-2011-07-07-jiang-atv
+  - voice: zh
+    quote: true
+    text: 不难发现，江志成、孙力军、王立科、薄熙来、周永康、徐才厚、郭伯雄、孙政才、孟建柱等等企图刺杀习近平、实施政变计划的高官幕后大佬都是中共前独裁者江泽民和他的狗头军师曾庆红。
+    cite: c10-secretchina-2021-10-21-sun-coup
+
+wang-qishan:
+  - voice: zh
+    quote: true
+    text: 起诉书称，郭文贵称王岐山实际持有姚庆的股权。海航集团在起诉书中否认二人持有海航股份。
+    cite: c10-voa-2017-hna-sues-guo
+  - voice: zh
+    quote: true
+    text: 郭文贵屡次爆料称，王岐山家族通过贯君、刘呈杰等“白手套”，间接控制海航集团。
+    cite: c10-voa-2017-07-27-guo-wang-hna
+  - voice: zh
+    quote: true
+    text: 近幾個月，郭文貴在Twitter上發布圖片和文件，在YouTube上發布影片，指控海航向高官行賄，將該公司的主要股權送給了至少一名政府高官的親屬——可能是通過貫君。
+    cite: c10-nytcn-2017-07-25-hna-guanjun
+  - voice: zh
+    quote: true
+    text: 但这一发展进一步强化了观察家们有关习近平与王岐山关系出现裂痕乃至习王已经决裂的猜测。
+    cite: c10-voa-2020-10-02-dong-hong
+
+guo-wengui:
+  - voice: zh
+    quote: true
+    text: 郭文贵的爆料获得大批网民的追捧，尽管他拿出的证据仍有待外界独立核实。
+    cite: c10-voa-2017-hna-sues-guo
+  - voice: zh
+    quote: true
+    text: 阿波罗网记者统计发现，郭文贵一共公布过四个“姚庆”。
+    cite: c10-aboluowang-2017-07-28-four-yaoqing
+
+cai-qi:
+  - voice: zh
+    quote: true
+    text: 许多观察家认为，蔡奇之所以能够意外入常，其实凭借的并不是他的政绩，而是他与习近平在福建和浙江共事长达20年时间内形成的私谊。
+    cite: c10-voa-2022-10-23-cai-qi-loyalty
+  - voice: zh
+    quote: true
+    text: 仅用了两年多时间就完成了从“双非”副部级向副国级的跨越
+    cite: c10-rfa-2023-06-16-cai-qi-trust
+  - voice: zh
+    quote: true
+    text: 但在蔡奇被习近平调往北京之后，他便卸下亲民姿态，迅速转变为习近平强硬政策的捍卫者。他注销了自己的微博账号。
+    cite: c10-nytcn-2026-07-06-cai-qi
+  - voice: zh
+    quote: true
+    text: 李强、蔡奇、王沪宁、李希这四位被视为习近平最核心的亲信，被指将在四中全会上同时退出常委和政治局，这被视为“习家军骨干的团灭”。
+    cite: c10-cnc-2025-four-psc-out
+
+ling-jihua:
+  - voice: zh
+    quote: true
+    text: 一位退休的中共高官说，中央领导层决定车祸为重大丑闻，因此令计划不能得到晋升，胡锦涛也无能为力。
+    cite: c10-bbc-2012-09-03-ling-ferrari
+  - voice: zh
+    quote: true
+    text: 《财新》报导首次引述多名知情者证实，当年车祸死者即为令计划24岁的儿子令谷，当时正在北京大学攻读研究生，“为掩盖儿子死因，令计划与当时的政法系统负责人达成了某种政治约定”。
+    cite: c10-secretchina-2014-12-24-ling-gu
+  - voice: zh
+    quote: true
+    text: 令计划于2012年7月被从中办调离后一个月内，从中办获取这批密件，并陆续影印交给令完成，吩咐他一旦自己被捕就将这些文件交给美国。
+    cite: c10-rfa-2016-02-05-ling-wancheng
+  - voice: zh
+    quote: true
+    text: 但路透社星期五报道说，令完成通过他的律师史密斯对外发表声明说，他到美国来是为了与他人分享打高尔夫球的秘密而不是国家秘密。
+    cite: c10-voa-2016-02-12-ling-wancheng-denies
+
+zhou-yongkang:
+  - voice: zh
+    quote: true
+    text: 当时周永康表示，全面封锁车祸消息，愿意支持令计划进入常委。作为回报，令计划确保中央不再追究周永康，停止中纪委已经开始的调查，确保周与薄熙来和谷开来的谋杀案做完全切割。
+    cite: c10-epoch-2015-07-22-ling-ferrari
+  - voice: zh
+    quote: true
+    text: 周三次动用公安部门修改其子令谷的身份证资讯，同时动用网监手段，派人操纵其社交网络账户，做出令谷仍然在世的假相。
+    cite: c10-epoch-2015-07-22-ling-ferrari
+  - voice: zh
+    quote: true
+    text: 香港东方日报此前引述接近中南海高层消息人士透露，周永康在2012年8月的北戴河会议前后，至少两次企图暗杀习近平，一次是在北戴河会议室放置计时炸弹；另外一次是趁习在301医院做体检时打毒针。
+    cite: c10-secretchina-2021-10-21-sun-coup
+
+sun-zhengcai:
+  - voice: zh
+    quote: true
+    text: 而劉的一番重話則是這些人「陰謀篡黨奪權，令人不寒而慄、觸目驚心」，雖然說法嚴厲，但是從證監會主席的口中說出，其政治意味相對較輕。
+    cite: c10-hk01-2017-10-19-liu-shiyu
+  - voice: zh
+    quote: true
+    text: 王友群博士曾发文盘点了习近平上台9年有如下“政变”阴谋:薄周政变，徐才厚等阴谋“篡党夺权”，孙政才“拜龙袍”等等。
+    cite: c10-secretchina-2021-10-21-sun-coup
+
+zhang-youxia:
+  - voice: zh
+    quote: true
+    text: 张又侠在会议中被指控涉嫌向美国泄露中国核武器的核心技术资料，其中的线索部分来自中国核工业集团前总经理顾军。
+    cite: c10-dw-2026-01-26-zhang-nuclear
+  - voice: zh
+    quote: true
+    text: 针对外媒提问上述报道是否属实，中国国防部发言人蒋斌说，要以官方发布的信息为准，“不要妄加揣测”。这相当于间接否认，张又侠因涉向美国泄露核武器信息而落马。
+    cite: c10-zaobao-2026-01-29-zhang-denial
+  - voice: zh
+    quote: true
+    text: 近期，有传闻指张又侠已独掌军权，并在军中清洗了习近平势力。
+    cite: c10-epoch-2025-05-29-zhang-army
+  - voice: zh
+    quote: true
+    text: 近日传出了张又侠主持召开军委扩大会议的消息，其在会议上的讲话疑似也流出来了。张又侠在会上宣示自己已经代理军委主席职位。
+    cite: c10-secretchina-2025-06-19-zhang-acting
+
+li-shangfu:
+  - voice: zh
+    quote: true
+    text: 美国媒体Politico的欧洲版在星期一（12月6日）发表的一篇未署名报道中引用与北京高层有接触的中国政府内部人士的话说，俄罗斯外交副部长安德烈·鲁坚科（Andrey Rudenko）在6月底的访华之行中，告诉中国领导人习近平他的外交部长秦刚和解放军内多位高官都已经向西方情报机构妥协，包括国防部长李尚福。
+    cite: c10-voa-2023-12-07-qin-dead
+  - voice: zh
+    quote: true
+    text: 另外，消息人士也向《华尔街日报》披露，张又侠同时被指控“拉帮结派”、在军事决策中滥用职权，并且涉嫌利用其在军事装备采购体系中的影响力，收受钜额贿赂，并协助提拔李尚福出任国防部长。
+    cite: c10-dw-2026-01-26-zhang-nuclear
+
+qin-gang:
+  - voice: zh
+    quote: true
+    text: 援引两名匿名消息人士的话，Politico称秦刚已经于7月死于北京的一所军医院，死因可能是“被折磨致死”或自杀。
+    cite: c10-voa-2023-12-07-qin-dead
+  - voice: zh
+    quote: true
+    text: 中国媒体人安替也在X上表示：“Politico的听床报道，我觉得全文可信度低于40%。”
+    cite: c10-voa-2023-12-07-qin-dead
+  - voice: zh
+    quote: true
+    text: 目前还没有进一步的消息可以佐证秦刚的死讯。
+    cite: c10-rfa-2023-12-07-qin-dead
+  - voice: zh
+    quote: true
+    text: 秦刚在党内、甚至在外交部内的根基都不牢靠，所以，我想不出习近平政权有任何隐瞒秦刚死亡消息的理由。
+    cite: c10-rfi-2023-12-08-qin-yaita
+
+he-weidong:
+  - voice: zh
+    quote: true
+    text: 美國《華盛頓時報》引述2名美國國防部官員透露，中共中央軍委副主席何衛東已從大眾視野中消失，遭到中共總書記、中央軍委主席習近平的清洗。
+    cite: c10-storm-2025-03-he-weidong
+  - voice: zh
+    quote: true
+    text: 旅美中國資深調查記者趙蘭健13日就在X發文引述權威人士消息，中共二十屆中央政治局委員、中央軍委副主席何衛東在11號大會結束後，返回大樓時被當場帶走，北京和上海的住所都遭到抄查。
+    cite: c10-storm-2025-03-he-weidong
+  - voice: zh
+    quote: true
+    text: 時評人章天亮也認為，中共國防部發言人吳謙的回答算是半官方確認了何衛東出事的消息。
+    cite: c10-kzg-2025-03-28-he-weidong
+
+xu-caihou:
+  - voice: zh
+    quote: true
+    text: 今年3月20日，路透社就引述两个消息来源说，中共中央军委前副主席徐才厚目前基本处于软禁之中，正由于贪腐问题受到调查。
+    cite: c10-bbc-2014-06-30-xu-profile
+  - voice: zh
+    quote: true
+    text: 报道还引述消息称，徐才厚涉嫌收受已经落马的原解放军总后勤部副部长谷俊山3600万元人民币贿赂。
+    cite: c10-bbc-2014-06-30-xu-profile
+  - voice: zh
+    quote: true
+    text: 最新出版的一期时政杂志《凤凰周刊》以《国贼徐才厚查抄内幕》为封面，报道了原中共军委副主席徐才厚贪腐案的细节和内幕，其中披露了从徐才厚豪宅中查出的现金就超出一吨重之多。
+    cite: c10-rfa-2014-11-20-xu-cash
+  - voice: witness
+    quote: true
+    text: 北京维权人士胡佳周四晚间接受自由亚洲电台记者电话采访时表示，他相信《凤凰周刊》这篇很多只有局内人才知道细节的报道，是中共当局有意对外爆料的。
+    cite: c10-rfa-2014-11-20-xu-cash
+
+guo-boxiong:
+  - voice: zh
+    quote: true
+    text: 日前，据海外媒体博讯网披露，现年72岁的前中共中央军委副主席郭伯雄因涉贪，已于清明节后在家中被军纪委和中共中央办公厅人员带走调查。
+    cite: c10-ntdtv-2014-04-17-guo
+  - voice: zh
+    quote: true
+    text: 据披露，郭伯雄不但同时包养了十几位情妇，且在广东、福建、江苏、北京、云南、广西、陕西、甘肃等地拥有超百套装修豪华的房产，2010年其家财就已过百亿人民币。
+    cite: c10-ntdtv-2014-04-17-guo
+
+fang-fenghui:
+  - voice: zh
+    quote: true
+    text: 據說，房峰輝是中共中央軍委前副主席郭伯雄的老鄉兼舊部，張陽則是中央軍委前副主席徐才厚的嫡系。
+    cite: c10-cna-2017-09-01-fang-zhang
+  - voice: zh
+    quote: true
+    text: 另两名消息人士则透露,房峰辉目前已被拘押,其被问话的内容涉及贪腐。
+    cite: c10-rfa-2017-09-04-fang
+
+wei-fenghe:
+  - voice: zh
+    quote: true
+    text: 路透指出，「失蹤」數月的中國前國防部長魏鳳和在今年3月的國務院改組中被撤換後，也一直未露面。
+    cite: c10-rti-2023-09-01-wei
+  - voice: zh
+    quote: true
+    text: 有人懷疑，2017年10月魏鳳和卸任火箭軍司令不久，因此這項公告避開了魏鳳和的任期，只查他的後任，被認為是在「保」魏鳳和。
+    cite: c10-cna-2023-08-01-rocket-wei
+
+bo-xilai:
+  - voice: zh
+    quote: true
+    text: 据接近薄熙来家族的人士披露，被判处无期徒刑、正在北京秦城监狱服刑的中共前政治局委员、重庆市委书记薄熙来因患肝癌，不久前申请保外就医已获当局批准，目前正在大连棒棰岛治疗及疗养。不过，该消息目前无法获得中国官方证实。
+    cite: c10-rfa-2017-06-27-bo-cancer
+  - voice: zh
+    quote: true
+    text: 8月13日，亲北京的多维报导称，此前有传言称，原中共重庆市委书记薄熙来有机会获减刑，但至今仍无任何进展。
+    cite: c10-ntdtv-2017-08-14-bo
+
+sun-lijun:
+  - voice: zh
+    quote: true
+    text: 就孫力軍的非法持有槍枝罪名，袁紅冰向大紀元披露，孫力軍本身是有權力配槍的。但是他又在自己家裡，儲備了很多槍枝。據知情人說就像個小軍火庫一樣，隨時可以裝備一個排的兵力。
+    cite: c10-epoch-2022-01-14-sun-armory
+  - voice: official
+    quote: true
+    text: 孙力军还违反枪支管理规定，非法持有枪支2支。
+    cite: c03-xinhua-2022-09-23-sun-lijun-verdict
+  - voice: zh
+    quote: true
+    text: 知情人表示，孙力军被拿下的真正原因是参与对习近平政变。孙力军属江泽民派系，他所处的位置对习近平的威胁大到可以让习性命不保。
+    cite: c10-secretchina-2021-10-21-sun-coup
+
+wen-jiabao:
+  - voice: zh
+    quote: true
+    text: 但是余杰表示，《中国影帝温家宝》一书意在向读者展示一个表里不一、内外有别的总理温家宝。
+    cite: c10-voa-2010-08-05-best-actor
+  - voice: scholar
+    quote: true
+    text: 历史学家余英时教授也为此书题写了推荐语，他认为余杰写出了温家宝的本色，实际上温家宝并不是人们想象中的那种有民主风度的政治领袖。
+    cite: c10-rfa-2010-08-16-yujie-wen
+  - voice: zh
+    quote: true
+    text: 其中，中國獨立媒體人高瑜直指，微信連溫家寶清明紀念母親的文章都屏蔽，真讓人無語。
+    cite: c10-cna-2021-04-18-wen-mother
+
+zeng-qinghong:
+  - voice: zh
+    quote: true
+    text: 大纪元获悉，习近平打虎又锁定新目标，即江泽民的头号军师曾庆红，中纪委内部立案调查已进入程序，被列为继薄熙来、周永康案之后的第二号专案。
+    cite: c10-epoch-2014-05-02-zeng
+  - voice: zh
+    quote: true
+    text: 據悉，中共元老們說，不能再更亂了。這群大老的核心人物是前國家副主席曾慶紅，他是已故前主席江澤民的最親近幕僚之一。
+    cite: c10-cna-2023-09-05-beidaihe-elders
+
+liu-yunshan:
+  - voice: zh
+    quote: true
+    text: 海外此前流传一份中共七常委财产清单，刘云山被指有重大隐瞒。有消息称，刘云山家族贪腐堪称最严重，至少坐拥数百亿财富。
+    cite: c10-secretchina-2015-07-04-three-psc
+  - voice: zh
+    quote: true
+    text: 报导说，有传刘云山的儿子刘乐飞在中共十九大期间已被调查。
+    cite: c10-epoch-2017-11-26-liu-lefei
+
+zhang-dejiang:
+  - voice: zh
+    quote: true
+    text: 北京观察人士认为，在习王打虎深入的背景下，这三个有江派背景的常委表面风光，实际暗陷危机。“二张一刘”能否顺利退位或存变数。
+    cite: c10-secretchina-2015-07-04-three-psc
+
+zhang-gaoli:
+  - voice: zh
+    quote: true
+    text: 北京观察人士认为，在习王打虎深入的背景下，这三个有江派背景的常委表面风光，实际暗陷危机。“二张一刘”能否顺利退位或存变数。
+    cite: c10-secretchina-2015-07-04-three-psc
+
+zhao-leji:
+  - voice: zh
+    quote: true
+    text: 消息人士表示，在习近平批示传达后，陕西官员十分为难，因他们知道大部分别墅是在赵乐际2007至2012年执掌陕西期间修建；他们夹在习与赵两人中间，只能选择不作为。
+    cite: c10-epoch-2019-10-18-zhao-qinling
+  - voice: zh
+    quote: true
+    text: 消息称，十九大之后既不存在“习王体制”，也不可能存在“习赵体制”，借此来敲打、警告赵乐际。
+    cite: c10-epoch-2019-10-18-zhao-qinling
+
+yu-zhengsheng:
+  - voice: zh
+    quote: true
+    text: 俞正声的仕途曾经在1985年受到重创，当时他的哥哥俞强声是中共情报官员，叛逃美国。
+    cite: c10-voa-2007-10-27-yu-shanghai
+
+huang-ju:
+  - voice: zh
+    quote: true
+    text: 香港南华早报援引没有透露姓名的人士的话说，黄菊在进行常规体检时被发现有胰腺癌并住进医院。
+    cite: c10-voa-2006-02-22-huang-cancer
+  - voice: zh
+    quote: true
+    text: 但是，前中国领导人江泽民如果失去黄菊这名亲信，他在下一届党代会上的影响将受到削弱。
+    cite: c10-voa-2006-02-22-huang-cancer
+  - voice: zh
+    quote: true
+    text: 據知情人士表示，儘管鏡頭下黃菊氣色還不錯，但他臉上的妝相當濃厚，「整體感覺比較憔悴」。
+    cite: c10-chinatimes-2006-06-06-huang-makeup
+  - voice: zh
+    quote: true
+    text: 自他病重的消息傳出後，有關黃菊即將退休以及接替者角力的謠言四起。
+    cite: c10-chinatimes-2006-06-06-huang-makeup
+
+zhu-rongji:
+  - voice: zh
+    quote: true
+    text: 2026年1月，社交平台再次流传朱镕基在上海华东医院去世、秘不发丧。
+    cite: c10-epoch-2026-08-12-zhu-death
+  - voice: zh
+    quote: true
+    text: 近年来，元老与军方联手反习传闻中，朱镕基作为中共党内改革派代表人物，且因其曾公开拒绝为习捧场等，而被视为反习元老之一。
+    cite: c10-epoch-2026-08-12-zhu-death
+
+wang-yang:
+  - voice: zh
+    quote: true
+    text: 现任政协主席汪洋被盛传可能接班习近平，成为中共总书记，不过，这项消息的解读，却是相当混乱，甚至有人怀疑根本是习派释放出来混淆美国视听之用。
+    cite: c10-rfi-2021-08-23-wang-yang
+  - voice: zh
+    quote: true
+    text: 独立时评人“晓说家”在其自媒体中爆料称，汪洋已秘密出山，目前正在代理习近平的总书记职务。
+    cite: c10-epoch-2025-06-10-wang-yang
+  - voice: zh
+    quote: true
+    text: 从昔日的改革闯将变成习近平的办事员和政治花瓶。
+    cite: c10-epoch-2025-06-10-wang-yang
+  - voice: zh
+    quote: true
+    text: 在後習時代，看到的是明暗兩條線，胡春華在明處，頻頻釋放信號昭告天下；汪洋在暗處操盤，左右大局做很多事。
+    cite: c10-secretchina-2025-09-02-wang-yang
+
+hu-chunhua:
+  - voice: zh
+    quote: true
+    text: 《日本经济新闻》（Nikkei）的前中国分社社长中泽克二(Katsusuji Nakazawa)日前撰文称，尽管中共内部有严格的信息控制，但仍有传闻指现任国务院副总理的胡春华将成为下一任总理。
+    cite: c10-ntdtv-2022-10-13-hu-chunhua
+  - voice: zh
+    quote: true
+    text: 中泽克二表示，胡锦涛可能希望李克强在明年春天卸下总理职务后仍然能够继续担任政治局常委，同时胡春华也“入常”。
+    cite: c10-ntdtv-2022-10-13-hu-chunhua
+  - voice: zh
+    quote: true
+    text: 方舟子說，屬於胡錦濤派系的李克強、溫家寶、汪洋、胡春華個個面無表情直視前方，似乎早知會發生這樣的事。
+    cite: c10-cna-2022-10-24-hu-documents
+  - voice: zh
+    quote: true
+    text: 根據該知情人士所知道的，胡春華確定了要上台，汪洋也會出來做事。
+    cite: c10-secretchina-2025-09-02-wang-yang
+
+li-qiang:
+  - voice: zh
+    quote: true
+    text: 而李强和蔡奇则被认为是“最惨”之人，尤其是李强，因经济失败承担了替罪羊的悲惨命运。
+    cite: c10-cnc-2025-four-psc-out
+
+li-xi:
+  - voice: zh
+    quote: true
+    text: 蔡慎坤说，日前，李希拿下了栗战书当年在黑龙江的非常重要部下张效廉。
+    cite: c10-ntdtv-2024-10-23-li-retire
+  - voice: zh
+    quote: true
+    text: 李强、蔡奇、王沪宁、李希这四位被视为习近平最核心的亲信，被指将在四中全会上同时退出常委和政治局，这被视为“习家军骨干的团灭”。
+    cite: c10-cnc-2025-four-psc-out
+
+lai-xiaomin:
+  - voice: zh
+    quote: true
+    text: 坊间还传言他有“三个100”，即100多套房、100多个关系人、100多个情妇。
+    cite: c10-zaobao-2021-01-05-lai
+  - voice: zh
+    quote: true
+    text: 不过，赖小民的大学老师翟业亿和同班同学张陆去年受访时都认为，100多个情妇的说法有所夸张。
+    cite: c10-zaobao-2021-01-05-lai
+  - voice: zh
+    quote: true
+    text: 而网上有关“赖小民100多个情妇坐满会议室”的一段视频，最后也被证实是警方扫黄打非的现场，且至少在2018年就已经存在。
+    cite: c10-zaobao-2021-01-05-lai
+  - voice: zh
+    quote: true
+    text: 不过，被网友指名道姓称与赖有染的女明星已发布声明严正辟谣。
+    cite: c10-voa-2021-01-11-lai

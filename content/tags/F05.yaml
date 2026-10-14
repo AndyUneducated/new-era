@@ -1,0 +1,198 @@
+# F05 (round 3): ranks and new labels for tuanpai, populist, conservatives and jiangsu-gang
+# on people from other batches. Ranked re-tags repeat a label's source sentence and add rank/rankQuote.
+
+# --- tuanpai: core ---
+li-keqiang:
+  - f: tuanpai
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋，人们将之称为“团派”'
+    rank: core
+    rankQuote: '这一派的核心成员包括李克强'
+  - f: tuanpai
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: '作為胡錦濤上世紀八十年代主政共青團時期的老部下，李克強的政治生涯已進入了倒計時'
+    rank: core
+    rankQuote: '李克強一度被視為胡錦濤的接班人'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+    rank: core
+    rankQuote: '这一派的核心成员包括李克强'
+li-yuanchao:
+  - f: tuanpai
+    cite: f05-rfa-2015-01-08-yang-weize
+    quote: '江苏省委“老书记”、“团派”核心人物李源潮'
+    rank: core
+    rankQuote: '“团派”核心人物李源潮'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+    rank: core
+    rankQuote: '这一派的核心成员包括李克强、中央组织部部长李源潮'
+  - f: jiangsu-gang
+    cite: f05-rfa-2015-01-08-yang-weize
+    quote: '李源潮不但為胡锦涛的“团派”大力培养提拔了一批官员，而且形成了一个以自己為龙头的“江苏帮”'
+  - f: jiangsu-gang
+    cite: f05-rfi-2015-01-20-jiangsu-gang
+    quote: '江苏省原先是李源潮的地盘，他当时任省委书记，建立起自己的人脉'
+wang-yang:
+  - f: tuanpai
+    cite: b05-voa-2022-10-22-congress
+    quote: '原来呼声很高的被认为是改革派和团派领军人物的李克强和汪洋已经不再是中共中央委员'
+    rank: core
+    rankQuote: '团派领军人物的李克强和汪洋'
+  - f: tuanpai
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: '同為共青團系統（團派）出身的全國政協主席汪洋也沒有進入新一屆中共中央委員會'
+    rank: core
+    rankQuote: '李克強、汪洋等團派大將雖然仍佔據高位'
+  - f: populist
+    cite: f01-brookings-zh-team-of-rivals
+    quote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+    rank: core
+    rankQuote: '这一派的核心成员包括李克强、中央组织部部长李源潮以及广东省省委书记汪洋'
+liu-yandong:
+  - f: tuanpai
+    cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    quote: '在胡锦涛主政团中央时，即已经在当时的那届团中央书记处里成为胡锦涛的左右臂膀。准确说地，当年胡锦涛还是团中央二把手，王兆国为团中央一把手时，刘延东和李源潮即已经都是团中央书记处书记了'
+    rank: core
+    rankQuote: '成为胡锦涛的左右臂膀'
+  - f: populist
+    cite: c01-jamestown-2006-cheng-li-two-factions
+    quote: 'The core faction of the populist coalition is the Chinese Communist Youth League (CCYL)……Liu Yandong (Director of the CCP United Front Work Department)'
+    zh: '民粹联盟的核心派别是中国共青团……刘延东（中共中央统战部部长）'
+    rank: backbone
+ling-jihua:
+  - f: tuanpai
+    cite: f05-jamestown-2016-cyl-eclipse
+    quote: 'prominent League member Ling Jihua, who used to be the right-hand-man of former president Hu'
+    zh: '著名的团系人物令计划，曾是前国家主席胡锦涛的左右手'
+    rank: core
+    rankQuote: 'the right-hand-man of former president Hu'
+liu-qibao:
+  - f: tuanpai
+    cite: c02-sun-2012-11-28-liu-qibao
+    quote: '劉奇葆則是正兒八經的團派大將，被稱為胡錦濤的「十八羅漢」之一'
+    rank: core
+    rankQuote: '正兒八經的團派大將'
+hu-chunhua:
+  - f: tuanpai
+    cite: f01-dw-2022-10-24-xi-jiajun
+    quote: '原先各界看好的热门总理人选、团派代表的胡春华不仅未能入常，连政治局委员都未能保住'
+    rank: core
+    rankQuote: '团派代表的胡春华'
+sun-chunlan:
+  - f: tuanpai
+    cite: b11-voa-2015-01-06-sun-jinhua
+    quote: '被认为是团派的孙春兰，曾经被称为胡锦涛的”五朵金花”之一'
+    rank: core
+    rankQuote: '曾经被称为胡锦涛的”五朵金花”之一'
+
+# --- tuanpai: elder ---
+wang-zhaoguo:
+  - f: tuanpai
+    cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    quote: '还有“团派”出身的王兆国及其他当时已经身届高位的福建“老领导”们的加持'
+    rank: elder
+    rankQuote: '当年胡锦涛还是团中央二把手，王兆国为团中央一把手时'
+  - f: tuanpai
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: '團派大將王兆國從中辦主任調任福建省長'
+    rank: elder
+
+# --- tuanpai: backbone ---
+zhou-qiang:
+  - f: tuanpai
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: '另一名曾擔任團中央第一書記的最高法院院長周強，也沒有進入新一屆政治局'
+    rank: backbone
+lu-hao:
+  - f: tuanpai
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: '曾擔任團中央第一書記的陸昊二十大前從自然資源部部長轉任國務院發展研究中心主任，仕途嚴重受挫'
+    rank: backbone
+yang-jing:
+  - f: tuanpai
+    cite: f05-zaobao-2018-03-02-yang-jing
+    quote: '64岁的杨晶是蒙古族，出身共青团，在内蒙古任职超过30年。1993年杨担任共青团内蒙古区委书记时，与时任共青团中央第一书记李克强结缘'
+    rank: backbone
+    rankQuote: '为得力助手争取到退休待遇'
+  - f: tuanpai
+    cite: f05-epochtimes-2004-08-05-shen-yueyue
+    quote: '原内蒙古团委书记杨晶任内蒙古自治区代主席'
+qin-guangrong:
+  - f: tuanpai
+    cite: f05-ntd-2016-07-06-tuanpai-four
+    quote: '“团派四大金刚”——云南省委书记秦光荣、山西省委书记袁纯清、江苏省委书记罗志军、江西省委书记强卫等都“榜上有名”'
+    rank: backbone
+    rankQuote: '团派四大金刚'
+
+# --- tuanpai: periphery ---
+liu-yunshan:
+  - f: tuanpai
+    cite: c02-sun-2012-11-28-liu-qibao
+    quote: '後者雖然也有「團派」背景，出任過內蒙古自治區團委副書記'
+    rank: periphery
+    rankQuote: '「團派」背景不是很突出'
+  - f: tuanpai
+    cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    quote: '同为十七届中央政治局委员或中央书记处书记的的还有地方省级团委书记和副书记出身的刘云山、汪洋、王乐泉以及团中央部门负责人出身的令计划'
+    rank: periphery
+wang-lequan:
+  - f: tuanpai
+    cite: f05-rfa-2023-01-13-wang-zhaoguo-xi
+    quote: '同为十七届中央政治局委员或中央书记处书记的的还有地方省级团委书记和副书记出身的刘云山、汪洋、王乐泉以及团中央部门负责人出身的令计划'
+    rank: periphery
+  - f: tuanpai
+    cite: f05-epochtimes-2004-08-05-shen-yueyue
+    quote: '原山东省委团副书记王乐泉任新疆自治区书记'
+han-zheng:
+  - f: tuanpai
+    cite: b06-rti-2017-han-shanghai
+    quote: '但他入黨後曾在共青團系統工作，也被視為團派'
+    rank: periphery
+li-zhanshu:
+  - f: tuanpai
+    cite: b05-rfi-2012-09-02-li-zhongban
+    quote: '根据资料，栗战书是团派人马，当然得胡锦涛支持'
+    rank: periphery
+wang-qishan:
+  - f: tuanpai
+    cite: f01-dw-2012-11-07-psc-rumours
+    quote: '李克强和王岐山属于团派'
+    rank: periphery
+wang-sanyun:
+  - f: tuanpai
+    cite: f05-epochtimes-2004-08-05-shen-yueyue
+    quote: '现在连广东、福建也是团派的天下……福建省则有省委书记宋德福、省委副书记兼常务副省长黄小晶、省委副书记王三运'
+    rank: periphery
+
+# --- populist ---
+wen-jiabao:
+  - f: populist
+    cite: f01-brookings-2009-one-party-two-coalitions
+    quote: 'The Populist Coalition is currently led by President Hu Jintao and Premier Wen Jiabao'
+    zh: '民粹联盟目前由胡锦涛主席和温家宝总理领导'
+    rank: core
+    rankQuote: 'currently led by President Hu Jintao and Premier Wen Jiabao'
+
+# --- conservatives ---
+luo-gan:
+  - f: conservatives
+    cite: b03-scmp-2002-11-16-luo-gan
+    quote: 'To protect himself, Mr Li has groomed Mr Luo to be his man in the Politburo Standing Committee'
+    zh: '为了自保，李鹏把罗干培养成他在政治局常委会里的人'
+    rank: core
+    rankQuote: 'Mr Li has groomed Mr Luo to be his man in the Politburo Standing Committee'
+
+# --- jiangsu-gang (rumor sources only) ---
+qiu-he:
+  - f: jiangsu-gang
+    cite: f05-epochtimes-2017-04-07-jiangsu-gang
+    quote: '“江苏帮”出了不少地方实权人物，如前江苏省委书记罗志军……前云南省委副书记仇和等都是江派大员'
+    rank: periphery
+wang-min:
+  - f: jiangsu-gang
+    cite: f05-epochtimes-2017-04-07-jiangsu-gang
+    quote: '“江苏帮”出了不少地方实权人物，如前江苏省委书记罗志军……前辽宁省委书记王珉'
+    rank: periphery

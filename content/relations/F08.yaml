@@ -1,0 +1,296 @@
+# F08 (round 3): ties inside xi-shanghai, qinghua, aerospace and mishu
+
+# --- secretaries and chiefs of staff ---
+- a: xi-jinping
+  b: ding-xuexiang
+  kind: secretary
+  text: 2007 年习近平任上海市委书记，丁薛祥任市委常委、秘书长；2013 年起任中办副主任兼总书记办公室主任，2017 年起任中办主任。
+  from: 2007-03
+  to: 2023-03
+  cite: f08-voa-2022-11-08-ding
+  quote: 丁薛祥和习近平在上海的工作关系只有七个月
+- a: han-zheng
+  b: ding-xuexiang
+  kind: secretary
+  text: 丁薛祥在上海市委办公厅任职时曾为时任上海市长、市委书记韩正服务。
+  cite: f08-voa-2022-11-08-ding
+  quote: 服务过三位中共中央政治局常委，即韩正、俞正声和习近平
+- a: yu-zhengsheng
+  b: ding-xuexiang
+  kind: secretary
+  text: 2007 年习近平离沪后，丁薛祥以上海市委秘书长身份继续为市委书记俞正声服务。
+  cite: f08-voa-2022-11-08-ding
+  quote: 服务过三位中共中央政治局常委，即韩正、俞正声和习近平
+- a: xi-jinping
+  b: zhong-shaojun
+  kind: secretary
+  text: 钟绍军 2006 年起任习近平贴身秘书，随其由浙江到上海、再进北京。
+  from: 2006-04
+  cite: b08-voa-2026-08-28-zhang-liu
+  quote: 钟绍军曾长期担任习近平在浙江、上海及中央工作时期的贴身秘书
+- a: xi-jinping
+  b: li-qiang
+  kind: secretary
+  text: 李强 2004–2007 年任浙江省委秘书长，是时任省委书记习近平的幕僚长。
+  from: 2004
+  to: 2007
+  cite: b06-guardian-2022-10-24-li-qiang
+  quote: Li was his chief of staff and his de facto top personal aide from 2004 until 2007
+- a: xi-jinping
+  b: xu-lingyi
+  kind: secretary
+  text: 习近平主政浙江时把徐令义调任省委第一副秘书长，高新称之为习的“二秘”。
+  cite: f07-rfa-2020-11-20-xu-lingyi
+  quote: 那么徐令义就是习近平的二秘
+- a: xi-jinping
+  b: shu-guozeng
+  kind: secretary
+  text: 舒国增任浙江省委办公厅副主任时常随习近平出行；2014 年进京任中央财办副主任。
+  from: 2002
+  to: 2007
+  cite: f08-xinshishe-2014-12-zhijiang
+  quote: 时任浙江省委办公厅副主任舒国增就是省委书记习近平的左膀右臂
+- a: xi-jinping
+  b: shu-guozeng
+  kind: patron
+  text: 舒国增 2014 年由浙江省委副秘书长升任中央财办副主任，2017 年转任中央纪委驻中办纪检组长。
+  from: 2014-11
+  cite: f08-caixin-2017-08-24-shu-guozeng
+  quote: 曾为习近平老部下的舒国增
+- a: ding-xuexiang
+  b: cai-qi
+  kind: colleague
+  text: 2023 年蔡奇接替丁薛祥任中共中央办公厅主任。
+  from: 2023-03
+  cite: f08-cna-2023-03-20-cai-qi
+  quote: 證實蔡奇已取代丁薛祥接掌中辦主任
+- a: ding-xuexiang
+  b: zhong-shaojun
+  kind: colleague
+  text: 两人同为习近平身边的秘书，被并称为中南海“一文一武”。
+  cite: f08-secretchina-2021-09-22-zhong-shaojun
+  quote: 与中办主任丁薛祥并称中南海“一文一武”两大秘
+- a: li-qiang
+  b: shu-guozeng
+  kind: colleague
+  text: 2002–2007 年两人在浙江省委机关共事，是陪同习近平出行最多的两人。
+  from: 2002
+  to: 2007
+  cite: f08-xinshishe-2014-12-zhijiang
+  quote: 李强、舒国增是陪同频率最多的人
+- a: li-qiang
+  b: xu-lingyi
+  kind: colleague
+  text: 习近平主政浙江时，李强任省委秘书长，徐令义任省委第一副秘书长，二人均从温州官场出道。
+  cite: f07-rfa-2020-11-20-xu-lingyi
+  quote: 当时的省委秘书长是也和徐令义一样，从温州官场出道的李强
+- a: xi-jinping
+  b: li-zhanshu
+  kind: colleague
+  text: 1980 年代两人分任河北正定、无极县委书记，同属石家庄地区；栗战书后任习近平的中办主任。
+  from: 1982
+  to: 1985
+  cite: f01-brookings-2017-new-politburo
+  quote: Li Zhanshu is one of Xi Jinping’s most trusted long-time friends
+
+# --- Shanghai 2007 ---
+- a: xi-jinping
+  b: han-zheng
+  kind: colleague
+  text: 2007 年习近平任上海市委书记，韩正任市委副书记、市长。
+  from: 2007-03
+  to: 2007-10
+  cite: f08-chinanews-2007-05-28-shanghai
+  quote: 中共上海市第九届委员会第一次全体会议今天选举习近平为市委书记，韩正、殷一璀(女)为市委副书记
+- a: xi-jinping
+  b: du-jiahao
+  kind: colleague
+  text: 2007 年杜家毫任上海市委常委、浦东新区区委书记，为习近平班子成员。
+  from: 2007-03
+  to: 2007-10
+  cite: f08-chinanews-2007-05-28-shanghai
+  quote: 当选为市委常委的还有沈德咏、吴志明、王仲伟、沈红光、杜家毫、杨晓渡、江勤宏、杨雄、丁薛祥、徐麟
+- a: xi-jinping
+  b: yang-xiaodu
+  kind: colleague
+  text: 2007 年杨晓渡任上海市委常委，为习近平班子成员。
+  from: 2007-03
+  to: 2007-10
+  cite: f08-chinanews-2007-05-28-shanghai
+  quote: 当选为市委常委的还有沈德咏、吴志明、王仲伟、沈红光、杜家毫、杨晓渡、江勤宏、杨雄、丁薛祥、徐麟
+- a: xi-jinping
+  b: xu-lin
+  kind: colleague
+  text: 2007 年徐麟当选上海市委常委，为习近平班子成员。
+  from: 2007-05
+  to: 2007-10
+  cite: f08-chinanews-2007-05-28-shanghai
+  quote: 当选为市委常委的还有沈德咏、吴志明、王仲伟、沈红光、杜家毫、杨晓渡、江勤宏、杨雄、丁薛祥、徐麟
+- a: du-jiahao
+  b: xu-lin
+  kind: colleague
+  text: 两人先后任上海浦东新区区委书记。
+  cite: f08-orientaldaily-2016-09-16-new-shanghai
+  quote: 杜家毫、徐麟、沈曉明三任區委書記如今都擔任要職
+- a: xu-lin
+  b: shen-xiaoming
+  kind: colleague
+  text: 2013 年沈晓明接替徐麟任浦东新区区委书记。
+  from: 2013-06
+  cite: f08-orientaldaily-2016-09-16-new-shanghai
+  quote: 杜家毫、徐麟、沈曉明三任區委書記如今都擔任要職
+- a: xi-jinping
+  b: ying-yong
+  kind: patron
+  text: 习近平主政上海后，应勇由浙江高院院长调任上海高院院长，后任上海市委常委、组织部长、副书记、市长。
+  from: 2007
+  cite: f08-orientaldaily-2016-09-16-new-shanghai
+  quote: 在習近平主政上海後，應勇調任上海高院院長，進而出任上海市委常委、組織部部長、副書記
+- a: han-zheng
+  b: ying-yong
+  kind: colleague
+  text: 韩正任上海市委书记期间，应勇任上海市委副书记，2016 年出任副市长，准备接任市长。
+  to: 2017-10
+  cite: f08-orientaldaily-2016-09-16-new-shanghai
+  quote: 上海市委副書記應勇出任副市長
+- a: xi-jinping
+  b: shen-haixiong
+  kind: patron
+  text: 慎海雄曾任新华社上海分社社长，十八大后升任新华社副社长，后任中宣部副部长、中央广播电视总台台长。
+  cite: f08-orientaldaily-2016-09-16-new-shanghai
+  quote: 新華社上海分社社長慎海雄升任新華社副社長
+- a: xi-jinping
+  b: li-xi
+  kind: patron
+  text: 博谈网称李希调任上海得益于与习近平的渊源；十八大后李希出任辽宁省长、省委书记。
+  cite: f08-botanwang-2014-10-new-shanghai
+  quote: 李希、杨振武二人之所以能调到上海工作，绝非偶然，而是得益于与习近平的密切渊源
+- a: xi-jinping
+  b: yang-zhenwu
+  kind: colleague
+  text: 1980 年代杨振武任人民日报河北记者站记者时，与在正定任县委书记的习近平熟识。
+  cite: f08-botanwang-2014-10-new-shanghai
+  quote: 早在上世纪80年代在人民日报河北记者站当记者时，就与在附近担任县委书记的习近平、栗战书熟识
+- a: li-zhanshu
+  b: yang-zhenwu
+  kind: colleague
+  text: 1980 年代杨振武在河北当记者时与栗战书熟识。
+  cite: f08-botanwang-2014-10-new-shanghai
+  quote: 早在上世纪80年代在人民日报河北记者站当记者时，就与在附近担任县委书记的习近平、栗战书熟识
+
+# --- Tsinghua ---
+- a: xi-jinping
+  b: chen-xi
+  kind: patron
+  text: 两人 1975 年同入清华化工系、同宿舍三年半，习近平是陈希的入党介绍人；习主管人事后陈希迅速升任中组部常务副部长。
+  from: 1975-09
+  cite: f08-diplomat-2015-04-27-tsinghua
+  quote: The two reportedly were roommates for three and a half years, and Xi recruited Chen as a CCP member in November 1978.
+- a: chen-xi
+  b: hu-heping
+  kind: patron
+  text: 陈希任清华党委书记时，胡和平任校组织部长、教务长、副校长，2008 年接替陈希任党委书记。
+  from: 2002-11
+  cite: f08-diplomat-2015-04-27-tsinghua
+  quote: Apparently, Hu Heping was closer to Chen Xi. While Chen was party secretary of Tsinghua University, from February 2002 to November 2008, Hu served under Chen in several different posts.
+- a: chen-xi
+  b: chen-jining
+  kind: patron
+  text: 陈吉宁 2006 年在陈希任党委书记时出任清华副校长，被视为陈希的门生。
+  cite: f08-diplomat-2015-04-27-tsinghua
+  quote: Two other members of the new Tsinghua Clique are protégés of Chen Xi at Tsinghua University.
+- a: chen-xi
+  b: li-ganjie
+  kind: patron
+  text: 2022 年李干杰接替陈希任中组部部长，亚洲协会称其为陈希在清华新军中的副手。
+  from: 2022-10
+  cite: f01-asiasociety-tsinghua
+  quote: now with Li serving as his lieutenant
+- a: chen-xi
+  b: chen-xu
+  kind: patron
+  text: 陈旭任清华党委副书记、副校长时，陈希是清华党委书记；港媒称陈旭是陈希的爱将。
+  cite: f08-chinanewscenter-2021-chen-xu
+  quote: 陈旭被视为陈希的爱将
+- a: chen-xi
+  b: qin-weizhong
+  kind: patron
+  text: 覃伟中与陈希同出清华化工系，看中国称其为陈希门生。
+  cite: f08-secretchina-2026-09-22-qin-weizhong
+  quote: 因此是中共中组部前部长陈希的清华门生
+- a: hu-heping
+  b: chen-jining
+  kind: colleague
+  text: 2006 年两人同时出任清华大学副校长，此后胡和平任党委书记、陈吉宁任校长。
+  from: 2006-02
+  cite: f08-diplomat-2015-04-27-tsinghua
+  quote: In February 2006, both Hu Heping and Chen Jining were appointed vice presidents of Tsinghua University.
+- a: chen-jining
+  b: li-ganjie
+  kind: colleague
+  text: 两人同为清华校友，二十大上分别升任上海市委书记和中组部部长。
+  from: 2022-10
+  cite: f08-epoch-2022-10-28-tsinghua
+  quote: 张杨认为，陈吉宁和李干杰这次双双获得提拔跟习近平有关，同时也跟清华大学的老书记陈希有关
+
+# --- aerospace ---
+- a: zhang-qingwei
+  b: ma-xingrui
+  kind: patron
+  text: 马兴瑞在航天科技集团是张庆伟的部下，2007 年接替张庆伟任总经理。
+  cite: f02-rfa-2023-02-13-jungong
+  quote: 二十届中央政治局委员里的"军工五人帮"中的马兴瑞和彭家军都曾是张庆伟的老部下
+- a: zhang-qingwei
+  b: yuan-jiajun
+  kind: patron
+  text: 袁家军任神舟飞船系统总指挥时，张庆伟任航天科技集团总经理、载人航天工程副总指挥。
+  cite: f02-rfa-2023-02-13-jungong
+  quote: 二十届中央政治局委员里的"军工五人帮"中的马兴瑞和彭家军都曾是张庆伟的老部下
+- a: zhang-qingwei
+  b: yuan-jiajun
+  kind: colleague
+  text: 两人同为载人航天工程的领军人物，人民网称是老搭档。
+  cite: f08-people-2016-12-07-aerospace
+  quote: 另外一位领军人物则是张庆伟，可以说他与袁家军是老搭档
+- a: ma-xingrui
+  b: yuan-jiajun
+  kind: colleague
+  text: 马兴瑞任航天科技集团总经理时，袁家军任副总经理；二十大上两人同入政治局。
+  cite: b08-bbc-2026-07-14-ma
+  quote: 马兴瑞与同时期担任中国航天科技集团副总经理的袁家军后续均在2022年底的中共二十大上成为政治局委员
+- a: chen-qiufa
+  b: ma-xingrui
+  kind: colleague
+  text: 2013 年马兴瑞接替陈求发任国家航天局局长。
+  from: 2013-03
+  cite: f08-people-2016-12-07-aerospace
+  quote: 马兴瑞又是接替陈求发担任国家航天局局长的
+- a: ma-xingrui
+  b: xu-dazhe
+  kind: colleague
+  text: 2013 年许达哲先后从马兴瑞手中接过航天科技集团董事长和工信部副部长、国家航天局局长职务。
+  from: 2013-04
+  cite: f08-chinanews-2017-02-07-jungong
+  quote: 2013年4月，他从马兴瑞手中接过了中国航天科技集团公司的“帅印”，仅仅8个月后，又接替马兴瑞担任工信部副部长
+- a: xu-dazhe
+  b: zhang-qingwei
+  kind: colleague
+  text: 2021 年张庆伟由黑龙江调湖南，接替许达哲任湖南省委书记。
+  from: 2021-10
+  cite: f08-hk01-2021-jungong
+  quote: 他接替的，則是同樣「軍工系」出身的前湖南省委書記許達哲
+- a: zhang-qingwei
+  b: shen-xiaoming
+  kind: colleague
+  text: 2023 年沈晓明接替张庆伟任湖南省委书记。
+  from: 2023-03
+  cite: f08-21jingji-2023-03-14-shen-xiaoming
+  quote: 张庆伟不再兼任湖南省委书记、常委、委员职务；沈晓明任湖南省委委员、常委、书记
+- a: ma-xingrui
+  b: qin-weizhong
+  kind: colleague
+  text: 马兴瑞任广东省长时覃伟中任副省长，两人共事约两年九个月。
+  from: 2019-03
+  to: 2021-12
+  cite: f08-secretchina-2026-09-22-qin-weizhong
+  quote: 从中可以看出，覃伟中是马兴瑞的副手，两人有两年九个月的交集

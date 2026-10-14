@@ -1,0 +1,70 @@
+# F05 (round 3): additional voices for tuanpai, populist and conservatives.
+
+tuanpai:
+  - voice: scholar
+    text: >-
+      the Communist Youth League (CYL) Faction (tuanpai; 团派), which is still one of the CCP’s biggest cliques in the Chinese Communist Party.
+    zh: 共青团派（团派）至今仍是中共党内最大的派系之一。
+    cite: f05-jamestown-2016-cyl-eclipse
+    quote: true
+  - voice: scholar
+    text: >-
+      But compartmentalizing China’s leaders can be misleading.
+    zh: 但把中国领导人分门别类可能会误导人。
+    cite: f05-cmp-2007-09-14-factions
+    quote: true
+  - voice: scholar
+    text: >-
+      有些新闻报导认为，当前中共政坛是太子党与团派，两大政治派系之争，或有值得商榷之处。
+    cite: f05-sef-2012-10-tsai-fifth-gen
+    quote: true
+  - voice: zh
+    text: >-
+      但加入過共青團或在基層團組織擔任過幹部的官員並不等於團派。嚴格意義講，團派是指在團中央擔任過書記，或在團省委擔任過領導的官員，他們在工作中多有交集，相互比較了解並可能形成某種同盟關係。
+    cite: f05-thinkhk-2022-10-24-tuanpai
+    quote: true
+  - voice: zh
+    text: >-
+      在胡锦涛时代，你也许可以勉强地说，存在着一种可被称为团派的派别，但现在已经没有了。
+    cite: f05-nytcn-2016-08-04-cyl
+    quote: true
+  - voice: zh
+    text: >-
+      实际上是贬低、打压、或者是终结共青团的政治势力的一个符号、象征
+    cite: f05-voa-2016-08-03-cyl-overhaul
+    quote: true
+  - voice: zh
+    text: >-
+      外界把中共分为‘团派’和‘太子派’，既不准确也易误导
+    cite: f01-voa-2012-05-25-factions
+    quote: true
+
+populist:
+  - voice: scholar
+    text: >-
+      The core faction of the populist coalition is the Chinese Communist Youth League (CCYL), the so-called tuanpai who worked in the national or provincial leadership of the Youth League in the early 1980s when Hu Jintao was the head of the organization.
+    zh: 民粹联盟的核心派别是中国共青团，即所谓团派，他们在1980年代初胡锦涛主持共青团时在团中央或省级团委领导层任职。
+    cite: c01-jamestown-2006-cheng-li-two-factions
+    quote: true
+  - voice: zh
+    text: >-
+      这让一些分析人士使用“团派”一词来指通过团组织晋升上来的干部群体，这些干部对团中央和各自保持忠诚，共同有着一个略微民粹主义的政治议程。
+    cite: f05-nytcn-2016-08-04-cyl
+    quote: true
+
+conservatives:
+  - voice: zh
+    text: >-
+      想当年，无论是中共党内党外，都承认中共高层，特别是幕后干政的元老中间大致分为以邓小平为代表的改革派和以陈云为代表的保守派。
+    cite: f05-bbc-2007-01-16-bo-yibo
+    quote: true
+  - voice: zh
+    text: >-
+      新华社播发的消息对邓力群表示了赞颂，称他是“我党思想理论宣传战线的杰出领导人”。不过，这是形容坚定的守旧派的委婉说法，从当前在党内复苏的列宁主义和毛派言论当中，可以看到他遗留的影响。
+    cite: f05-nytcn-2015-02-13-deng-liqun
+    quote: true
+  - voice: official
+    text: >-
+      我党思想理论宣传战线的杰出领导人，马克思主义理论家
+    cite: f05-xinhua-2015-02-17-deng-liqun
+    quote: true

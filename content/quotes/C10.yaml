@@ -1,0 +1,38 @@
+# C10 rumour layer: relayed or leaked sayings. Every text is checked verbatim against its cite.
+xi-jinping:
+  - text: 過去3位領導人留下的所有問題都落在我的肩上。過去十年我一直在解決這些問題，但問題仍然沒有解決。罪責在我嗎？
+    zh: 过去3位领导人留下的所有问题都落在我的肩上。过去十年我一直在解决这些问题，但问题仍然没有解决。罪责在我吗？
+    cite: c10-cna-2023-09-05-beidaihe-elders
+    kind: leaked
+    date: 2023-08
+    occasion: 中央社转述消息人士称，北戴河会议上遭元老斥责后对身边幕僚所说（原文作“據信”，未经证实）
+  - text: 不知道该怎么花掉所有的钱
+    cite: c10-bbc-2010-12-08-wikileaks-xi-li
+    kind: leaked
+    date: 2007-03
+    occasion: 任浙江省委书记时与美国驻华大使会面谈浙江居民的富裕，见维基解密公布的美国外交电报
+li-keqiang:
+  - text: GDP figures are “man-made” and therefore unreliable
+    zh: GDP 数字是“人造的”，因此不可靠
+    cite: c10-cnbc-2010-12-06-li-gdp
+    kind: leaked
+    date: 2007-03
+    occasion: 任辽宁省委书记时与美国驻华大使会面，见维基解密公布的美国外交电报；他说自己看耗电量、铁路货运量和银行贷款三项数字
+li-zhanshu:
+  - text: 别看啦，都定了！
+    cite: c10-rfa-2022-11-10-li-lips
+    kind: rumor
+    date: 2022-10-22
+    occasion: 二十大闭幕会上按住胡锦涛翻看的文件时；日本记者峯村健司据唇语专家解读，自由亚洲电台转述
+wang-huning:
+  - text: 不要翻开，不要翻开。
+    cite: c10-voa-2022-10-hu-folder
+    kind: rumor
+    date: 2022-10-22
+    occasion: 二十大闭幕会上胡锦涛欲翻看红色文件夹时；美国之音据视频称他“似乎连声喊道”
+zhang-youxia:
+  - text: 目前中央军委工作由我本人主持，由我代理军委主席职责。任何人、任何势力胆敢违抗新军委领导班子的命令，严惩不待，绝不姑息。
+    cite: c10-secretchina-2025-06-19-zhang-acting
+    kind: rumor
+    date: 2025-06
+    occasion: 看中国称网上流出的军委扩大会议讲话，未经证实；官方从无此类报道

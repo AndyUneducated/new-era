@@ -1,0 +1,344 @@
+# F10 (round 3): ties inside and between the army factions; a is the senior side
+# Zhang Youxia and the equipment chain
+- a: zhang-youxia
+  b: li-shangfu
+  kind: patron
+  text: 李尚福曾是张又侠在总装备部的副手，2017 年接任装备发展部部长；《华尔街日报》援引知情人士称，张又侠被控推动李尚福 2023 年升任国防部长。
+  cite: f01-bbc-2026-01-27-zhang-youxia
+  quote: 最引人注目的案例是推动李尚福在2023年升任国防部长
+- a: zhang-youxia
+  b: xu-xueqiang
+  kind: patron
+  text: 詹姆斯敦基金会把许学强等六名将领 2026 年 6 月的落马，解读为继续清除张又侠庇护网络中的人。
+  cite: f10-jamestown-2026-07-six-generals
+  quote: generally reflect a continued elimination of individuals associated with the patronage network of Zhang Youxia
+- a: li-shangfu
+  b: xu-xueqiang
+  kind: colleague
+  text: 许学强 2022 年接替李尚福任军委装备发展部部长，李尚福则是接替张又侠任此职。
+  from: 2022-10
+  cite: f10-jamestown-2026-07-six-generals
+- a: li-shangfu
+  b: wang-kangping
+  kind: colleague
+  text: 李尚福主管装备发展部期间，王抗平任空军武器试验基地司令员。
+  from: 2017-12
+  cite: f10-jamestown-2026-07-six-generals
+- a: li-shangfu
+  b: li-fengbiao
+  kind: colleague
+  text: 李尚福曾任战略支援部队副司令员，李凤彪此后任该部队司令员。
+  from: 2019-04
+  cite: f10-jamestown-2026-07-six-generals
+- a: zhang-youxia
+  b: zhang-yulin
+  kind: colleague
+  text: 张育林 2011 年任总装备部副部长、2016 年任装备发展部副部长，张又侠 2012 至 2017 年任总装备部和装备发展部部长，两人有五年同在总装领导层。
+  from: 2012-10
+  to: 2017
+  cite: f10-wiki-zhang-yulin
+- a: xu-xueqiang
+  b: ju-xinchun
+  kind: colleague
+  text: 鞠新春 2021 年起任装备发展部副部长兼载人航天工程副总指挥，2022 年许学强出任部长兼总指挥，两人共事到 2023 年 2 月鞠新春调任南部战区海军司令员。
+  from: 2022-10
+  to: 2023-02
+  cite: f10-wiki-ju-xinchun
+- a: zhang-youxia
+  b: rao-wenmin
+  kind: colleague
+  text: 饶文敏曾任装备发展部副部长，2023 年 12 月与张育林一同被装备发展部军人代表大会罢免全国人大代表。
+  cite: c03-xinhua-2023-12-29-npc-notice-2
+  quote: 中央军委装备发展部军人代表大会决定罢免张育林、饶文敏的第十四届全国人民代表大会代表职务
+# the strategic support force and its successors
+- a: gao-jin
+  b: li-fengbiao
+  kind: colleague
+  text: 2019 年 4 月李凤彪接替高津任战略支援部队司令员，高津转任后勤保障部部长。
+  from: 2019-04
+  cite: f10-wiki-li-fengbiao
+- a: li-fengbiao
+  b: ju-qiansheng
+  kind: colleague
+  text: 2021 年李凤彪转任西部战区政委，巨乾生接任战略支援部队司令员。
+  from: 2021-06
+  cite: f10-wiki-ju-qiansheng
+- a: ju-qiansheng
+  b: zhang-minghua
+  kind: colleague
+  text: 巨乾生任战略支援部队司令员期间，张明华任该部队副参谋长、副司令员，2024 年 4 月转任新组建的网络空间部队司令员。
+  from: 2021-06
+  to: 2024-04
+  cite: f10-wiki-zhang-minghua
+- a: li-fengbiao
+  b: guo-puxiao
+  kind: colleague
+  text: 李凤彪 2011 至 2014 年任空降兵第 15 军军长，郭普校 2011 年起任该军政治部主任，两人都在空降兵 15 军任过要职。
+  from: 2011-07
+  to: 2014-12
+  cite: f10-jamestown-2026-07-six-generals
+  quote: Both Li Fengbiao and Guo Puxiao held key billets in the PLA Air Force’s 15th Airborne Corps
+- a: li-fengbiao
+  b: yin-hongxing
+  kind: colleague
+  text: 李凤彪任西部战区政委时，尹红星任西藏军区政委；詹姆斯敦基金会认为二人落马可能预示西部战区司令员汪海江的命运。
+  from: 2021-12
+  to: 2024-07
+  cite: f10-jamestown-2026-07-six-generals
+# the 14th Group Army
+- a: zhang-youxia
+  b: he-ping-pla
+  kind: colleague
+  text: 两人都出身原第 14 集团军，《明报》评论把他们并列为该军出身的高级将领。
+  cite: f02-rfi-2018-10-25-southeast-army
+  quote: 出身原14集团军的高级将领则有中央军委副主席张又侠、东部战区政委何平等
+- a: zhang-youxia
+  b: zhao-zongqi
+  kind: colleague
+  text: 两人都从第 14 军 40 师起家，都参加过对越作战；张又侠 1990 至 1994 年任 40 师师长时，赵宗岐任该师副参谋长。
+  from: 1991-08
+  to: 1992-04
+  cite: f10-wiki-zhao-zongqi
+- a: zhang-youxia
+  b: deng-zhiping
+  kind: colleague
+  text: 大纪元评论称两人同属参加过对越作战的实战派，张又侠为首，邓志平也出身第 14 集团军。
+  cite: f10-epoch-2024-09-14-deng-zhiping
+  quote: 他们自认是实战派，以排名第一的中共军委副主席张又侠为首
+- a: zhang-youxia
+  b: liu-zhenli
+  kind: colleague
+  text: 两人是军委中仅有的有实战经历者，都在 1984 年老山作战中任连长。
+  from: 1984
+  cite: b08-jamestown-2025-11-purification
+  quote: Zhang Youxia and Liu Zhenli, the only two CMC members with combat experience, both fought at the Two Mountain Border War of Laoshan in 1984 against Vietnam.
+# rivals
+- a: zhang-youxia
+  b: miao-hua
+  kind: rival
+  text: BBC 归纳海外观察者的看法：2017 年苗华接掌政治工作部后，与分管政工的张又侠权力重叠、产生矛盾；2024 年苗华被停职，被看作张又侠的反击。
+  from: 2017
+  to: 2024-11
+  cite: f01-bbc-2026-01-27-zhang-youxia
+  quote: 但与分管政工的上司张又侠产生权力重叠和矛盾
+- a: zhang-youxia
+  b: he-weidong
+  kind: rival
+  text: 前美军情报官员在《外交家》撰文，认为何卫东、苗华落马是张又侠与这两位行伍出身的军委成员权斗的结果。
+  to: 2025-10
+  cite: f10-diplomat-2025-10-power-struggle
+  quote: a power struggle between the CMC’s first-ranked vice chairman, Zhang Youxia, and the ambitious up-from-the-troops ordinary soldiers, He Weidong and Miao Hua
+# Miao Hua's network
+- a: miao-hua
+  b: he-hongjun
+  kind: patron
+  text: BBC 称何宏军曾在兰州军区和军委政治工作部担任苗华的下属或副手。
+  cite: b04-bbc-2025-10-nine-generals
+  quote: 何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手
+- a: miao-hua
+  b: yuan-huazhi
+  kind: patron
+  text: BBC 称袁华智是苗华任海军政委时提拔的旧部。
+  cite: b04-bbc-2025-10-nine-generals
+- a: miao-hua
+  b: wang-houbin
+  kind: patron
+  text: BBC 称王厚斌是苗华的海军旧部，后跨军种升任火箭军司令员。
+  cite: b04-bbc-2025-10-nine-generals
+- a: miao-hua
+  b: li-hanjun
+  kind: colleague
+  text: 2014 年苗华任海军政委后主持晋衔仪式，时任 92403 部队司令员的李汉军在仪式上晋升少将；维基百科称李汉军是苗华旧部。
+  from: 2014
+  cite: f10-rfi-2025-06-27-li-hanjun
+  quote: 海军政委苗华主持晋衔仪式。此次共有12名军官由海军大校晋升海军少将军衔，其中包括时任92403部队司令员李汉军。
+- a: miao-hua
+  b: tang-yong-pla
+  kind: colleague
+  text: 自由亚洲电台采访的袁红冰认为，军纪委副书记唐勇与苗华掌管的政治工作部工作联系密切，是苗华的死党。
+  cite: f10-rfa-2025-03-28-tang-yong
+  quote: 军纪委副书记唐勇与苗华掌管的军委政治工作部有着密切的工作联系
+- a: liu-xiaojiang
+  b: miao-hua
+  kind: colleague
+  text: 2014 年 12 月苗华接替刘晓江任海军政委；此前苗华从未在海军任职。
+  from: 2014-12
+  cite: f10-diplomat-2014-12-30-31st-army
+  quote: General Liu Xiaojiang, Miao Hua’s predecessor, had worked in the PLA Navy for more than two decades.
+- a: miao-hua
+  b: qin-shengxiang
+  kind: colleague
+  text: 2017 年 8 月苗华调任军委政治工作部主任，秦生祥接任海军政委。
+  from: 2017-08
+  cite: f10-wiki-qin-shengxiang
+# the 31st Group Army
+- a: zhao-keshi
+  b: cai-yingting
+  kind: colleague
+  text: 赵克石、蔡英挺、王宁是第 31 军连续三任军长，后来都官至上将。
+  cite: f10-onc-2015-09-16-31st-army
+  quote: 该军的连续3任军长赵克石、蔡英挺、王宁
+- a: cai-yingting
+  b: wang-ning-pap
+  kind: colleague
+  text: 2007 年王宁接替蔡英挺任第 31 集团军军长。
+  from: 2007-11
+  cite: f10-wiki-wang-ning
+- a: wu-changde
+  b: miao-hua
+  kind: colleague
+  text: 吴昌德、苗华、朱生岭是第 31 军前后连续三任政治部主任。
+  cite: f10-onc-2015-09-16-31st-army
+  quote: 总政治部副主任吴昌德、海军政委苗华、南京军区政治部主任朱生岭，则是前后连续3任的第31军政治部主任。
+- a: miao-hua
+  b: zhu-shengling
+  kind: colleague
+  text: 2005 年朱生岭接替苗华任第 31 集团军政治部主任。
+  from: 2005-08
+  cite: f10-onc-2015-09-16-31st-army
+- a: han-weiguo
+  b: zheng-he-pla
+  kind: colleague
+  text: 东网称二人在赵克石之后都曾任第 31 军军长，2015 年分任北京、成都军区副司令员。
+  cite: f10-onc-2015-09-16-31st-army
+  quote: 在赵克石之后，曾任第31军军长的韩卫国、郑和
+- a: zhang-wannian
+  b: cai-yingting
+  kind: secretary
+  text: 蔡英挺 1996 年起任中央军委副主席张万年的秘书，后任军委办公厅副主任。
+  from: 1996
+  cite: f10-wiki-cai-yingting
+- a: xi-jinping
+  b: cai-yingting
+  kind: patron
+  text: 新唐人援引消息称，蔡英挺是习近平亲手提拔，两人在习任福建省长时已有交往。
+  cite: f10-ntdtv-2015-01-11-31st-army
+  quote: 据悉，蔡英挺是习近平亲手提拔。
+- a: xi-jinping
+  b: wang-ning-pap
+  kind: patron
+  text: 新唐人称王宁在第 31 集团军工作期间就与时任福建省领导的习近平熟识。
+  cite: f10-ntdtv-2015-01-11-31st-army
+  quote: 而王宁在福建31集团军工作期间，就与时任福建省领导的习近平熟识。
+- a: he-weidong
+  b: lin-xiangyang
+  kind: colleague
+  text: 《外交家》文章称林向阳与何卫东一样在第 31 集团军有长期履历，两人同时被开除党籍。
+  cite: f10-diplomat-2025-10-power-struggle
+- a: he-weidong
+  b: wang-xiubin
+  kind: colleague
+  text: 《外交家》文章称王秀斌与何卫东一样在第 31 集团军有长期履历，两人同时被开除党籍。
+  cite: f10-diplomat-2025-10-power-struggle
+- a: wang-ning-pap
+  b: wang-jianping
+  kind: colleague
+  text: 2014 年 12 月王宁与王建平对调，王宁出任武警部队司令员，王建平接任分管军训的副总参谋长。
+  from: 2014-12
+  cite: f10-wiki-wang-ning
+# northwest and northeast
+- a: guo-boxiong
+  b: fang-fenghui
+  kind: colleague
+  text: 两人祖籍都是陕西咸阳；房峰辉任第 21 集团军军长时，郭伯雄任兰州军区司令员，两人是上下级。
+  cite: b13-thepaper-2017-fang-past
+  quote: 房峰辉担任第21集团军军长时，郭伯雄正担任兰州军区司令员，两人是上下级关系
+- a: guo-boxiong
+  b: tian-xiusi
+  kind: patron
+  text: 《南华早报》称田修思是郭伯雄、徐才厚的亲信；田修思参加过郭伯雄负责统筹的老山作战。
+  cite: f02-zaobao-2016-07-09-tian-xiusi
+  quote: 香港《南华早报》指田修思是已落马的郭伯雄与徐才厚的亲信
+- a: xu-caihou
+  b: fan-changlong
+  kind: patron
+  text: 美国之音称范长龙被视为徐才厚的嫡系，两人是辽宁同乡，也是上下级。
+  cite: b13-voa-2018-01-25-fan-rumor
+  quote: 70岁的范长龙被视为徐才厚的嫡系，两人既是辽宁同乡也是上下级。
+- a: yu-yongbo
+  b: xu-caihou
+  kind: secretary
+  text: 看中国称徐才厚与于永波同为辽宁瓦房店人，徐曾任于的秘书并受其提拔。
+  cite: f10-kzg-2014-xu-wafangdian
+  quote: 徐才厚和于永波都是辽宁瓦房店人，徐曾任于的秘书，受其提拔。
+- a: wei-fenghe
+  b: zhang-shengmin
+  kind: colleague
+  text: 张升民 2014 年底任第二炮兵政治部主任，在时任二炮司令员魏凤和领导下工作。
+  from: 2014-12
+  cite: b08-zaobao-2025-10-23-fourth-plenum
+  quote: 曾在时任第二炮兵司令员魏凤和领导下工作
+- a: han-weiguo
+  b: liu-lei-pla
+  kind: colleague
+  text: 2017 至 2021 年韩卫国任陆军司令员、刘雷任陆军政委；2026 年 3 月两人在同一次政协常委会上被撤销委员资格。
+  from: 2017-08
+  to: 2021-06
+  cite: f10-xinhua-2026-03-02-cppcc
+- a: li-qiaoming
+  b: qin-shutong
+  kind: colleague
+  text: 2022 年起李桥铭任陆军司令员、秦树桐任陆军政委，两人曾一同参观主题成就展。
+  from: 2022-09
+  cite: f10-wiki-li-qiaoming
+# rocket force
+- a: li-yuchao
+  b: li-chuanguang
+  kind: colleague
+  text: 两人都在火箭军领导层任职，2023 年 12 月在同一份公告中被火箭军军人代表大会罢免全国人大代表。
+  cite: c03-xinhua-2023-12-29-npc-notice-2
+  quote: 火箭军军人代表大会决定罢免吕宏、李玉超、李传广、周亚宁的第十四届全国人民代表大会代表职务
+- a: li-yuchao
+  b: sun-jinming
+  kind: colleague
+  text: 孙金明 2022 年 3 月任火箭军参谋长，李玉超同年任火箭军司令员；2024 年 7 月三中全会确认两人与李尚福一并被开除党籍。
+  from: 2022-03
+  cite: c03-gov-2024-07-18-third-plenum
+  quote: 确认中央政治局之前作出的给予李尚福、李玉超、孙金明开除党籍的处分
+- a: zhou-yaning
+  b: li-yuchao
+  kind: colleague
+  text: 德国之声称周亚宁、李玉超都曾任火箭军司令员，两人 2023 年 12 月同被罢免全国人大代表。
+  cite: f10-dw-2023-12-29-nine-generals
+- a: li-yuchao
+  b: lyu-hong
+  kind: colleague
+  text: 吕宏曾任火箭军装备部部长，与时任火箭军司令员的李玉超同在火箭军，2023 年 12 月同被罢免全国人大代表。
+  cite: f10-dw-2023-12-29-nine-generals
+- a: zhang-zhenzhong
+  b: li-chuanguang
+  kind: colleague
+  text: 德国之声称张振中曾任火箭军副司令员，李传广曾任火箭军参谋长、副司令员，两人同被罢免全国人大代表。
+  cite: f10-dw-2023-12-29-nine-generals
+  quote: 张振中（中将）曾任的主要职务包括火箭军副司令员
+- a: wang-zhibin
+  b: zhang-fengzhong
+  kind: colleague
+  text: 2023 年 12 月汪志斌任火箭军纪委书记时，张凤中任火箭军政治工作部主任，两人都在 2025 年落马。
+  from: 2023-12
+  cite: f10-wiki-wang-zhibin
+# navy, air force, logistics, armed police
+- a: tian-xiusi
+  b: yu-zhongfu
+  kind: colleague
+  text: 2015 年 7 月于忠福接替退役的田修思任空军政委。
+  from: 2015-07
+  cite: f10-wiki-yu-zhongfu
+- a: zhang-lin-pla
+  b: gao-daguang
+  kind: colleague
+  text: 两人同日被中央军委后勤保障部军人代表大会罢免全国人大代表，此前分任后勤保障部部长和联勤保障部队政委。
+  cite: f10-sina-2025-10-16-four-generals
+  quote: 2025年7月21日，中央军委后勤保障部召开军人代表大会决定罢免张林、高大光的第十四届全国人民代表大会代表职务
+- a: gao-jin
+  b: zhang-lin-pla
+  kind: colleague
+  text: 2022 年 1 月高津卸任中央军委后勤保障部部长，张林接任。
+  from: 2022-01
+  cite: f10-wiki-zhang-lin
+- a: wang-chunning
+  b: zhang-hongbing
+  kind: colleague
+  text: 张红兵 2022 年 1 月任武警政委时，王春宁任武警司令员；两人 2025 年先后被武警部队军人代表大会罢免全国人大代表。
+  from: 2022-01
+  cite: f10-xinhua-2025-12-27-npc-notice-14

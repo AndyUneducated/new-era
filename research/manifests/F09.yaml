@@ -1,0 +1,148 @@
+# F09 round 3: purged groups (周系, 西山会, 郭徐, 火箭军/装备, 张刘, 孙力军, 何苗).
+web:
+  - id: f09-people-2013-08-28-cnpc-four
+    title: 中石油四名高管涉嫌严重违纪接受组织调查
+    publisher: 人民网（新华社）
+    date: 2013-08-28
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0828/c1001-22715642.html
+    start: 新京报讯（记者赵嘉妮）
+    end: 中石油A股、H股，今日起将复牌。
+  - id: f09-sina-2014-07-29-caixin-zhou
+    title: 周永康的红与黑（财新，新浪转载）
+    publisher: 财新网
+    date: 2014-07-29
+    voice: zh
+    url: https://news.sina.com.cn/c/2014-07-29/212330597923.shtml
+    excerpt: true
+    keep: [这是周永康旗下两大支柱, 财新网率先报道了中石油总会计师温青山, 以周永康为核心，既有周滨, 他的主要白手套之一，四川商人吴兵, 脑门上打着周系臣子的符号]
+  - id: f09-people-2016-10-14-tan-li
+    title: 海南原副省长谭力被判无期
+    publisher: 人民网（新华社）
+    date: 2016-10-14
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/1014/c1001-28778628.html
+    start: 广东省广州市中级人民法院13日公开宣判
+    end: 法庭遂作出上述判决。
+  - id: f09-rfi-2014-02-22-liang-ke
+    title: 京国安局长梁克被免职狙击周永康可收网
+    publisher: 法广 RFI
+    date: 2014-02-22
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20140222-%E4%BA%AC%E5%9B%BD%E5%AE%89%E5%B1%80%E9%95%BF%E6%A2%81%E5%85%8B%E8%A2%AB%E5%85%8D%E8%81%8C%E7%8B%99%E5%87%BB%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%AF%E6%94%B6%E7%BD%91
+    excerpt: true
+    keep: [两日内第三名的, 北京市人大常委会昨, 市政府通告没有说明梁被免职的原因]
+  - id: f09-bbc-2015-02-09-liu-han
+    title: 四川富豪刘汉兄弟等5人被执行死刑
+    publisher: BBC 中文
+    date: 2015-02-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/02/150209_liuhan_death
+    excerpt: true
+    keep: [曾经与周永康家族关系密切的四川富豪刘汉, 刘汉与前中共政治局常委周永康的儿子周滨是生意伙伴, 2014年5月23日，刘汉、刘维案件]
+  - id: f09-xinhua-2015-02-09-liu-han
+    title: 刘汉、刘维黑社会性质组织犯罪案件5名罪犯9日伏法
+    publisher: 新华网
+    date: 2015-02-09
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-02/09/c_1114304881.htm
+    start: 新华网武汉2月9日电
+    end: 充分保障了被执行罪犯的合法权利。
+  - id: f09-court-2018-07-13-zhang-yue
+    title: 河北省委原常委、政法委原书记张越受贿案一审宣判
+    publisher: 最高人民法院（新华网）
+    date: 2018-07-13
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/107111.html
+    start: 7月12日，江苏省常州市中级人民法院
+    end: 法庭遂作出上述判决。
+  - id: f09-zaobao-2018-07-13-zhang-yue
+    title: 受贿3207万元 政法委原书记张越判刑15年
+    publisher: 联合早报
+    date: 2018-07-13
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20180713-874762
+    excerpt: true
+    keep: [曾掌控河北政法长达八年, 通过妻子结识了周永康]
+  - id: f09-court-2016-10-11-shen-weichen
+    title: 申维辰受贿案一审宣判
+    publisher: 最高人民法院
+    date: 2016-10-11
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/33181.html
+    start: 10月11日，江苏省常州市中级人民法院
+    end: 法庭遂作出上述判决。（记者罗书臻）
+  - id: f09-court-2016-12-20-chen-chuanping
+    title: 陈川平受贿案一审宣判
+    publisher: 最高人民法院
+    date: 2016-12-20
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/33471.html
+    start: 12月20日，江苏省徐州市中级人民法院
+    end: 法庭遂作出上述判决。（记者罗书臻）
+  - id: f09-people-2014-12-16-ding-shumiao
+    title: 丁书苗一审被判处有期徒刑二十年
+    publisher: 人民网
+    date: 2014-12-16
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1216/c70731-26216474.html
+    start: 【“权力掮客”丁书苗一审获刑20年】
+    end: (来源:新华网)
+  - id: f09-hkcd-2016-07-12-guo-xu-tigers
+    title: 除了田修思，与郭徐有交集的“军老虎”还有谁?（转载新京报“政事儿”）
+    publisher: 香港商报
+    date: 2016-07-12
+    voice: zh
+    url: https://www.hkcd.com/content/2016-07/12/content_1007867.html
+    excerpt: true
+    keep: [与郭、徐有不同程度交集, 范长秘被视为郭伯雄的, 范长秘是47军出身, 邓瑞华, 占国桥, 张万松, 傅怡与郭正钢共事数年, 中国军网通报，浙江省军区副政委郭正钢, 中国军网于去年5月29日再度发布, 于大清, 马向东, 杨金山, 刘洪杰, 高小燕, 张代新, 刘铮]
+  - id: f09-hqrw-2015-01-26-army-tigers
+    title: 徐才厚杨金山范长秘于大清等16名军以上高官落马
+    publisher: 环球人物
+    date: 2015-01-26
+    voice: official
+    url: http://paper.people.com.cn/hqrw/html/2015-01/26/content_1556421.htm
+    start: 过去一年，中央“打虎”节奏加快
+    end: 被军事检察院向军事法院提起公诉。
+  - id: f09-rmzxw-2015-03-03-army-tigers
+    title: 军队公布14名军级以上干部案件 郭伯雄之子郭正钢被立案侦查
+    publisher: 人民政协网
+    date: 2015-03-03
+    voice: official
+    url: http://www.rmzxw.com.cn/c/2015-03-03/455176.shtml
+    start: 中国军网昨天17时消息
+    end: (记者 王海亮)
+  - id: f09-xinhua-2026-02-26-npc-notice-16
+    title: 全国人民代表大会常务委员会公告〔十四届〕第十六号
+    publisher: 新华网
+    date: 2026-02-26
+    voice: doc
+    url: https://www.news.cn/20260226/822524cab582431f8208c1842bf49a66/c.html
+    start: 内蒙古自治区人大常委会决定罢免孙绍骋
+    end: 2026年2月26日
+  - id: f09-dw-2026-02-26-pla-deputies
+    title: 9名将领被罢免人大代表职务 不含张又侠、刘振立
+    publisher: 德国之声中文网
+    date: 2026-02-26
+    voice: zh
+    url: https://www.dw.com/zh/9%E5%90%8D%E5%B0%86%E9%A2%86%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%81%8C%E5%8A%A1-%E4%B8%8D%E5%90%AB%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B/a-76140927
+    excerpt: true
+    keep: [海军原司令员沈金龙, 据不完全统计]
+  - id: f09-tnt-2026-hu-zhongming
+    title: 苗华海军旧部胡中明传落马
+    publisher: TNT时报
+    date: 2026-01-01
+    voice: zh
+    url: https://www.tnttimes.net/china/203248.html
+    rumor: true
+    excerpt: true
+    keep: [苗华落马后]
+  - id: f09-kzg-2016-07-26-guo-family
+    title: 郭伯雄认罪 “郭家军”名单曝光
+    publisher: 看中国
+    date: 2016-07-26
+    voice: zh
+    url: https://kzg.io/news/gb/2016/07/26/614049.html
+    rumor: true
+    excerpt: true
+    keep: [军方一半以上将领是郭伯雄提拔的, 受到提拔, 向郭伯雄行贿的中共将领名单]
