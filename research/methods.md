@@ -36,7 +36,7 @@ Wikidata 记录（CC0）由 `npm run data:wikidata` 写 `research/wikidata/*.jso
 | `wiki` | 维基百科与 Wikidata | 只作基本事实的辅助来源，不作派系判断的依据 |
 | `site` | 本站 | 由库内材料推出的整理 |
 
-派系标签只接受 `west`、`japan`、`zh`、`scholar`、`official`。墙外小道消息站点（大纪元、看中国、新唐人、博讯、多维）不收（decisions #6）。
+派系标签只接受 `west`、`japan`、`zh`、`scholar`、`official`。2026-10-14 起（decisions #27），大纪元、看中国、新唐人、博讯、明镜、多维、自媒体等传闻来源也收，登记时加 `rumor: true`，页面标“传闻”；落马、去世等状态与落马经过只用可靠来源。细则见 `howto-content.md` §2。
 
 ## 3. 引文核对
 

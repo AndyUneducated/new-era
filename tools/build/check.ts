@@ -67,14 +67,19 @@ export function check(d: Data) {
       cite(v.cite, `${where} voice ${i}`)
       if (v.quote) quote(v.cite, v.text, `${where} voice ${i}`)
     })
-  const tags = (list: { f: string; cite: string; quote?: string }[], w: string) => {
+  const tags = (list: { f: string; cite: string; quote?: string; rankQuote?: string }[], w: string) => {
     for (const t of list) {
       ref(factions, 'faction', t.f, w)
       const s = cite(t.cite, `${w} faction ${t.f}`)
       if (s && !FACTION_VOICES.includes(s.voice)) errors.push(`${w} faction ${t.f}: source ${s.id} is voice "${s.voice}", not allowed for faction labels`)
       if (t.quote) quote(t.cite, t.quote, `${w} faction ${t.f}`)
       else warnings.push(`${w} faction ${t.f}: no supporting sentence`)
+      if (t.rankQuote) quote(t.cite, t.rankQuote, `${w} faction ${t.f} rank`)
     }
+  }
+  // a status, a fall or a change of seat rests on reliable sources only (decisions #27)
+  const reliable = (c: string, where: string) => {
+    if (d.sourceById.get(c.split('@')[0])?.rumor) errors.push(`${where}: ${c} is a rumor source and cannot set a status or a fall`)
   }
 
   for (const p of d.people) {
@@ -90,13 +95,22 @@ export function check(d: Data) {
       prose(x.text, x.cites, `${w} family ${x.name}`)
     }
     prose(p.bio, p.cites, `${w} bio`)
-    for (const x of p.fall) cite(x.cite, `${w} fall ${x.date}`)
+    for (const x of p.fall) {
+      cite(x.cite, `${w} fall ${x.date}`)
+      reliable(x.cite, `${w} fall ${x.date}`)
+    }
+    if (p.cites.every((c) => d.sourceById.get(c.split('@')[0])?.rumor)) errors.push(`${w}: needs at least one reliable source in cites`)
     voiced(p.assess, w)
     tags(p.factions, w)
     if (p.tier === 1 && p.life.length === 0) errors.push(`${w}: tier 1 needs a biography (life)`)
   }
   // tags and quotes for people whose entry is not written yet are still checked against their sources
   for (const [id, list] of d.pendingTags) tags(list, `tags ${id}`)
+  for (const [id, list] of d.pendingAssess) {
+    if (planned.has(id)) warnings.push(`assessments for ${id} wait for the entry`)
+    else errors.push(`content/assess: no person ${id}`)
+    voiced(list, `assess ${id}`)
+  }
   for (const [id, list] of d.quotes) {
     ref(people, 'person', id, 'quotes')
     list.forEach((q, i) => {
@@ -106,6 +120,7 @@ export function check(d: Data) {
   }
   for (const f of d.factions) {
     f.core.forEach((id) => ref(people, 'person', id, `faction ${f.id} core`))
+    if (f.patron) ref(people, 'person', f.patron, `faction ${f.id} patron`)
     f.cites.forEach((c) => cite(c, `faction ${f.id}`))
     prose(f.summary, f.cites, `faction ${f.id}`)
     voiced(f.voices, `faction ${f.id}`)
@@ -144,7 +159,22 @@ export function check(d: Data) {
     const w = `congress ${g.n}`
     for (const id of [g.gs, ...g.psc, ...g.pb, ...g.alt, ...g.sec, ...g.cmc.map((x) => x.id), ...g.changes.map((x) => x.person)]) ref(people, 'person', id, w)
     g.cites.forEach((c) => cite(c, w))
-    for (const x of g.changes) cite(x.cite, `${w} change ${x.person}`)
+    for (const x of g.changes) {
+      cite(x.cite, `${w} change ${x.person}`)
+      reliable(x.cite, `${w} change ${x.person}`)
+    }
+  }
+  const seenRel = new Set<string>()
+  for (const r of d.relations) {
+    const w = `relation ${r.a}–${r.b} ${r.kind}`
+    ref(people, 'person', r.a, w)
+    ref(people, 'person', r.b, w)
+    if (r.a === r.b) errors.push(`${w}: a person cannot be related to themself`)
+    const key = [r.kind, ...(r.kind === 'colleague' || r.kind === 'kin' || r.kind === 'rival' ? [r.a, r.b].sort() : [r.a, r.b])].join(' ')
+    if (seenRel.has(key)) warnings.push(`${w}: entered twice`)
+    seenRel.add(key)
+    cite(r.cite, w)
+    if (r.quote) quote(r.cite, r.quote, w)
   }
   for (const c of d.corpus) {
     const s = cite(c.id, `corpus ${c.id}`)

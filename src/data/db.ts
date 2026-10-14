@@ -1,5 +1,5 @@
 // The shape of public/data/db.json (tools/build/emit.ts) and the lookups every view shares.
-import type { Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Person, Quote, Source } from './schema'
+import type { Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Person, Quote, Relation, Source } from './schema'
 
 export type PersonR = Person & { quotes: Quote[] }
 export type CorpusR = CorpusDoc & { title: string; chars: number; counts: Record<string, number> }
@@ -10,6 +10,7 @@ export interface DB {
   people: PersonR[]
   factions: Faction[]
   events: Event[]
+  relations: Relation[]
   concepts: Concept[]
   congresses: Congress[]
   corpus: CorpusR[]
@@ -32,10 +33,25 @@ export class Atlas {
   members = new Map<string, { p: PersonR; tag: FactionTag }[]>()
   eventsOf = new Map<string, Event[]>()
   seats = new Map<string, Membership[]>()
+  ties = new Map<string, Relation[]>()
+  // central committee terms by person, from the name lists
+  ccOf = new Map<string, { n: number; alt: boolean }[]>()
 
   constructor(db: DB) {
     this.db = db
     for (const p of db.people) this.person.set(p.id, p)
+    for (const r of db.relations ?? []) {
+      push(this.ties, r.a, r)
+      push(this.ties, r.b, r)
+    }
+    const byName = new Map<string, string | null>()
+    for (const p of db.people) byName.set(p.name, byName.has(p.name) ? null : p.id)
+    for (const c of db.congresses)
+      for (const [list, alt] of [[c.cc ?? [], false], [c.cca ?? [], true]] as const)
+        for (const name of list) {
+          const id = byName.get(name)
+          if (id) push(this.ccOf, id, { n: c.n, alt })
+        }
     for (const f of db.factions) this.faction.set(f.id, f)
     for (const e of db.events) this.event.set(e.id, e)
     for (const c of db.concepts) this.concept.set(c.id, c)

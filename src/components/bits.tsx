@@ -42,11 +42,24 @@ export function Src({ cite }: { cite: string }) {
   if (!s) return <span className="src">{id}</span>
   const label = s.publisher ?? s.title
   return (
-    <a className="src" href={s.url} target="_blank" rel="noreferrer" title={`${s.title}${s.date ? ` · ${fmt(s.date)}` : ''}${anchor ? ` · ${anchor}` : ''}`}>
+    <a
+      className={s.rumor ? 'src rumor' : 'src'}
+      href={s.url}
+      target="_blank"
+      rel="noreferrer"
+      title={`${s.rumor ? '传闻来源，未经可靠媒体证实 · ' : ''}${s.title}${s.date ? ` · ${fmt(s.date)}` : ''}${anchor ? ` · ${anchor}` : ''}`}
+    >
+      {s.rumor && <span className="rumor-mark">传闻</span>}
       {label}
       {s.date ? ` ${s.date.slice(0, 4)}` : ''}
     </a>
   )
+}
+
+// a voice, tag or quote resting on a rumor source carries this next to its text
+export function RumorMark({ cite }: { cite: string }) {
+  const a = useAtlas()
+  return a.source.get(cite.split('@')[0])?.rumor ? <span className="rumor-mark" title="传闻来源，未经可靠媒体证实">传闻</span> : null
 }
 
 export function Srcs({ cites }: { cites: string[] }) {

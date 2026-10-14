@@ -51,6 +51,7 @@ export function compile(d: Data) {
     people,
     factions,
     events: events.sort((a, b) => a.date.localeCompare(b.date)),
+    relations: d.relations.filter((r) => known.has(r.a) && known.has(r.b)),
     concepts: d.concepts.map((c) => ({ ...c, by: c.by.filter((id) => known.has(id)) })),
     congresses: [...d.congresses].sort((a, b) => a.n - b.n),
     corpus,
@@ -71,7 +72,7 @@ export function stats(db: DB) {
   const photos = db.people.filter((p) => p.photo).length
   return [
     `people ${db.people.length} (full ${t1}, cards ${db.people.length - t1}), photos ${photos}, quotes ${q}, faction tags ${tags}`,
-    `factions ${db.factions.length}, events ${db.events.length}, concepts ${db.concepts.length}, congresses ${db.congresses.length}`,
+    `factions ${db.factions.length}, events ${db.events.length}, concepts ${db.concepts.length}, congresses ${db.congresses.length}, relations ${db.relations.length}`,
     `sources ${db.sources.length} (with text ${db.sources.filter((s) => s.hasText).length}), corpus ${db.corpus.length}`,
   ].join('\n')
 }

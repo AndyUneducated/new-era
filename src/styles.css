@@ -318,6 +318,20 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .src { color: var(--muted); font-size: 12px; border-bottom: 1px dotted var(--rule-2); }
 .src:hover { color: var(--red); border-color: var(--red); }
 .srcs { display: inline-flex; flex-wrap: wrap; gap: 4px 10px; }
+/* hearsay: a dashed rule and a stamp-like mark (decisions #27) */
+.src.rumor { border-bottom: 1px dashed var(--gold); }
+.rumor-mark {
+  display: inline-block;
+  margin-right: 4px;
+  padding: 0 4px;
+  border: 1px solid var(--gold);
+  border-radius: 3px;
+  color: var(--gold);
+  font-size: 10.5px;
+  line-height: 15px;
+  letter-spacing: .08em;
+  vertical-align: 1px;
+}
 
 /* ───────── portrait ───────── */
 .portrait {

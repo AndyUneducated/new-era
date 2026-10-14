@@ -1,0 +1,64 @@
+# 第三轮批次（M3 派系深化 + 传闻层）
+
+9 个批次并行。共同规则见 `research/agent-brief.md`、`research/howto-content.md`，本轮新规则尤其要读：
+
+- §1 末尾：新人物登记到 `research/roster/<批次>.yaml`；`content/tags/`、`content/assess/`、`content/faction-voices/`、`content/relations/` 四个按批次分开的文件，用来给**别人的**人物和派系补内容。
+- §2 “传闻来源”：主流来源找不到时可用大纪元、看中国、明镜、博讯、自媒体等，登记加 `rumor: true`；落马经过、届别变动不能用；状态只按可靠来源。
+- §4 “派系内分层”：`rank`（elder 元老 / core 核心 / backbone 骨干 / periphery 外围）与 `rankQuote`。
+- §6 人物关系：`content/relations/<批次>.yaml`。
+
+用户的要求（原话）：“各个派系内部人员要深挖、增加，派系内容也要增加。如果实在找不到可信数据源，可以退而求其次，寻找不那么可靠的，但是在文中标注即可。”“其他页面都接收非官方数据、小道消息，但是明显标注即可。一定要丰富内容！”
+
+已整合：339 人（完整传记 80）、31 个派系（442 条标签）、309 个事件、2163 个来源，批次模式下全部可见、可引用。**先 Grep 已有来源和人物，再登记新的。**
+
+现有派系 id 与成员数见 `.probe/factions-now.txt`（本轮开始时的快照）。派系的恩主（`patron`）已由整合者填好，不要改派系文件。
+
+---
+
+## F05–F10 派系深挖（每批负责若干派系）
+
+对负责的每个派系：
+
+1. **成员扩充：** 把媒体、学者（以及必要时的传闻来源）点名为该派成员的人尽量找全。目标：大派系（团派、上海帮、太子党、习家军、之江、闽系、陕西帮、周永康系、郭徐）每派 ≥ 30 人有标签；小派系能找多少找多少，每派至少 10 人，确实只有几个人被点名的如实写。没有人物条目的成员建档案卡（tier 2，写在 `content/people/<批次>.yaml`，登记到 `research/roster/<批次>.yaml`）；已有条目的用 `content/tags/<批次>.yaml` 加标签。
+2. **分层：** 本派每个成员（包括已有标签的）都给 `rank`。已有标签写在别的批次文件里，不要去改，在 `content/tags/<批次>.yaml` 里给同一人再写一条同派系的标签，带 `rank`（可以引同一来源同一句，整合时合并）。能找到说明地位的原句就写 `rankQuote`。
+3. **关系：** `content/relations/<批次>.yaml` 写派系内的提携、秘书、共事、姻亲关系，每批 ≥ 40 条。重点是“谁提拔了谁”“谁是谁的秘书”。
+4. **说法：** `content/faction-voices/<批次>.yaml` 给每个派系补 2–4 条“各方说法”：派系怎么形成、谁是核心、有没有争议（例如“团派是否真的存在”“之江新军与上海旧部是否该分开”）。传闻来源也可以，但每派至少一半来自可靠来源。
+5. **新派系：** 每批可新建 0–2 个媒体常提而本站没有的派系（`content/factions/<批次>.yaml`，字段照 `content/factions/F01.yaml`，可写 `patron`）。建之前 Grep `content/factions/` 和 `research/faction-plan.yaml`。
+6. **成员的地方职务要写 `place`**（省级名称），共事泳道和发迹地图要用。
+
+分工：
+
+- **F05 胡温框架·团派与民粹：** tuanpai、populist、conservatives。候选新派系：温家宝网络、李源潮“江苏帮”（F04 建议）。
+- **F06 胡温框架·江系与太子党：** jiang-shanghai、elitist、princelings、petroleum、zhengfa。候选新派系：曾庆红系。
+- **F07 习系一：** xi-jiajun、zhijiang、fujian、shaanxi、hebei-zhengding。
+- **F08 习系二：** xi-shanghai、qinghua、aerospace、mishu。候选新派系：公安系（王小洪等闽浙公安旧部）、新疆帮、天津帮——查媒体是否这样叫。
+- **F09 被清洗集团：** new-gang-of-four、zhou-clique、xishanhui、guo-xu、rocket-equipment、zhang-liu、sun-lijun-gang、he-miao。
+- **F10 军队派系：** army-princelings、fujian-generals、equipment-system、northwest-army、southwest-army、dongbei-army。2023–2026 年的军中清洗名单（火箭军、装备发展部、何卫东苗华案、张又侠刘振立案）里被点名的将领尽量全收。
+
+一个人可以被几个批次同时标（如蔡奇同时在习家军、之江、闽系），各写各的派系，互不冲突。
+
+## K02 中央委员名单
+
+**唯一可以改 `content/congresses/K01.yaml` 的批次。** 给第十六至二十届每届的条目加 `cc`（中央委员）和 `cca`（候补中央委员）两个姓名列表，按新华社公布名单的原顺序（姓氏笔画）照录。来源：新华社“中国共产党第X届中央委员会委员名单”“候补委员名单”通稿（全文入库，`voice: doc`）。名单里的姓名照录（少数民族全名照录，如“努尔·白克力”），不要改成 id。每届录完 `node tools/build-data.ts --batch=K02` 确认 0 error。不写人物条目。
+
+## E06 传闻与内幕事件
+
+写 `content/events/E06.yaml`，30–50 条。内容：2000 年至今高层政治中广为流传、影响大的传闻与内幕报道，按真实泳道（power、purge、army……）放。例：
+
+- 2012 年“薄周政变”传闻、“3·19 北京政变”；2012 年习近平“失踪两周”；令计划之子法拉利车祸被掩盖的经过。
+- 2015 年天津港爆炸与“刺习”传闻；2016 年“江泽民被软禁”类传闻（如有）。
+- 北戴河会议历年的“老人训话”报道（日经中泽克二等）。
+- 2023 年李克强去世疑云；秦刚婚外情与失踪；李尚福去向。
+- 2024 年三中全会期间“习近平中风”传闻；2024–2026 年“习近平权力被架空”“军队兵变”类传言与官方的反证。
+
+规则：每条的 `summary` 第一句写清“这是谁传出的说法”，传闻来源登记 `rumor: true`；能找到可靠来源的辟谣、反证或后续，写进同一事件的 `voices` 并列。不要把传闻写成事实。先 Grep `content/events/`：已有的事件不要重写，在回报里列出“请给 <事件 id> 补这几条 voices”，附来源 id 与原句。
+
+## C10 人物传闻层
+
+给现有完整传记人物补内幕、传闻和坊间评价，写 `content/assess/C10.yaml`（人物 id → voices 列表）和 `content/quotes/C10.yaml`（坊间流传的话，`kind: rumor` 或 `leaked`）。对象：现任与前任政治局常委、落马大老虎、军委成员中的完整传记人物（`content/people/B*.yaml` 里 `tier: 1` 的），每人 2–4 条。例如：习近平的身体与权力传闻、王岐山与海航、李克强与习的关系、蔡奇的“上位”内幕、令计划与“西山会”的内情、孙政才“篡党夺权”的说法来源。传闻来源标 `rumor: true`；同一事有可靠报道的优先用可靠来源。
+
+---
+
+## 完成时回报
+
+除 `howto-content.md` §7 要求外，派系批次还要回报：每个派系本轮前后的成员数、分层分布（元老、核心、骨干、外围各几人、其中几人有 `rankQuote`）、关系条数、用了多少传闻来源。

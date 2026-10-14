@@ -12,6 +12,7 @@
   - `content/quotes/<批次>.yaml`：名言（人物 id → 列表）
   - `content/tags/<批次>.yaml`：派系标签（人物 id → 列表），用于给**别的批次的人物**加标签；自己批次的人物直接写在人物条目的 `factions:` 里
   - `content/events/<批次>.yaml`、`content/concepts/<批次>.yaml`、`content/factions/<批次>.yaml`、`content/congresses/<批次>.yaml`、`content/corpus/<批次>.yaml`
+  - 第三轮起：`content/relations/<批次>.yaml`（人物关系，§6）、`content/faction-voices/<批次>.yaml`（给已有派系补“各方说法”：派系 id → voices 列表，字段同派系条目的 `voices`）、`content/assess/<批次>.yaml`（给已有人物补评价、内幕、传闻：人物 id → 列表，字段同人物条目的 `assess`）、`research/roster/<批次>.yaml`（本批次新建的人物）
 - **不要改**别的批次的文件、`src/`、`tools/`、`research/roster.yaml`、`*-plan.yaml`。需要新的人物、派系、概念 id 时，在最终回报里提出。
 - **抓取时总是写明 id**：`node tools/fetch-web.ts --report=<批次> id1 id2 ...`。不带 id 会把所有批次的待抓来源一起抓。
 - **校验只校验自己：** `node tools/build-data.ts --batch=<批次>`。完整报告写在 `.probe/build-report-<批次>.txt`（UTF-8；控制台中文会乱码，读这个文件）。必须做到 **0 error**。warning 中“planned but has no entry yet”是正常的（别的批次还没写完）。
@@ -19,6 +20,7 @@
   - **登记来源前先查是否已有。** 在 `research/manifests/*.yaml` 里 Grep 网址（或网址的一段、标题关键词）。已登记的直接引用原 id，它的存档文本在 `sources/text/<id>.txt`，引文从那里复制。同一网址用本批次前缀再登记一次会**报错**。已有 id 的存档只是摘录、缺你要的段落时，在回报里写明“请给 <id> 加 keep: …”，自己另找来源，不要重复登记。
   - 来源登记（`research/manifests/`）例外：本轮其他批次的也会加载，所以 V01 修正旧文件时引用的 `v01-` 来源不会让你报错。
   - 引用别的批次的人物、派系、事件 id 前，先在 `content/` 里 Grep 确认存在（或在 roster / plan 里）。
+- **第三轮起，新人物先登记到自己的名单文件** `research/roster/<批次>.yaml`（格式同 `research/roster.yaml`：`- { id: xxx, name: 某某, batch: F05, tier: 2 }`）。登记前 Grep `content/people/`、`research/roster.yaml` 和 `research/roster/` 确认没有。别的批次登记过的人，你只能用 `content/tags/<批次>.yaml` 给他加标签，不要再建条目。两个批次碰巧同时建了同一个人，整合时合并，不算错。
 - 不要 `git commit`，不要 `npm install`，不要启动 dev server。
 
 ## 2. 来源
@@ -36,7 +38,12 @@
 | 派系标签、评价、内幕 | BBC 中文、DW、RFA、VOA、联合早报、端、中央社、FT 中文网、纽约时报中文网、日经中文网；NYT、WSJ、FT、Reuters、Bloomberg、Guardian、AP；Brookings、China Leadership Monitor、Jamestown China Brief 等学者文章 | `zh` / `west` / `japan` / `scholar` |
 | 名言 | 讲话原文（新华社、人民网、政府网、外交部网站）、记者会实录、外媒采访原文 | 视来源 |
 
-- 维基百科（`voice: wiki`）只能作基本事实的辅助来源，**不能**作派系标签来源。大纪元、看中国、新唐人、博讯、多维**不收**。
+- 维基百科（`voice: wiki`）只能作基本事实的辅助来源，**不能**作派系标签来源。
+- **传闻来源（第三轮起收，decisions #27）。** 主流来源找不到时，可以退而用不那么可靠的来源，但登记时必须加 `rumor: true`，页面上会显示“传闻”标记：
+  - 属于传闻来源的：大纪元、新唐人、看中国、希望之声、博讯、明镜、多维、阿波罗网、自媒体（YouTube、推特/X、Substack、播客，如蔡霞、袁红冰、“李老师不是你老师”、老灯、陈破空）、坊间流传的说法、只有匿名信源的单篇小报报道。
+  - `voice` 照实写（多为 `zh`）。派系标签、评价、名言、事件、家属都可以用传闻来源，引文照样逐字核对（核对的是“这篇文章确实这样写了”）。
+  - **不能用传闻来源的地方**（构建会报错）：`fall` 的每一步、届别的 `changes`；人物的 `cites` 里至少要有一个可靠来源。`status`、`died` 只按可靠来源写；传闻说某人被抓、去世、软禁，只能写进 `assess` 或 `statusNote`（“据某某传闻……，官方未证实”），不改 `status`。
+  - 同一说法有可靠来源时用可靠来源；传闻只用来补可靠来源没有的内容。正文（`bio`、`life`）里写传闻内容时，句子里写明“据某某（传闻）”。
 - 有版权的来源（媒体、学者、维基百科）一律 `excerpt: true` + `keep: [...]`，`keep` 写能唯一定位所需段落的短字符串（段落里的几个字即可）。官方文件（`doc`、`official` 的新华社/政府网/人民网通稿）全文入库，用 `start`/`end` 截掉页眉页脚。
 - 不确定段落怎么截：`node tools/fetch-web.ts --peek <id>` 只把全文写到 `.probe/peek-<id>.txt`，看完再定 `start`/`end`/`keep`。
 - 抓不到（401、403、超时）：换同一内容的转载页（如政府网 ↔ 新华网 ↔ 人民网），外媒换中文版，或用 Wayback：`https://web.archive.org/web/2024/<原网址>`。路透、明报、经济学人直连会 401/403。
@@ -59,6 +66,7 @@
 - `fall`：落马经过，每步一条（立案、开除党籍、判决），`date` + `text` + `cite`（中纪委、新华社通报）。
 - `positions`：主要职务，`sys` 为 `party`/`gov`/`army`/`other`，地方职务写 `place`（省级名称，如 `浙江`），`from`/`to` 写到月。每条最好有 `cite`。
 - `factions`：`{ f: <派系 id>, cite: <来源 id>, quote: <来源中给出该标签的原句> }`。派系 id 见 `research/faction-plan.yaml`。**只写媒体或学者明确这样说过的**，一条标签一个来源。找不到就不写。
+- **派系内分层（第三轮起，decisions #24）：** 标签可加 `rank`，从内到外为 `elder`（元老：派系的老一辈庇护者，如上海帮的曾庆红、吴邦国）、`core`（核心：恩主最信任、位居政治局一级的人）、`backbone`（骨干：省部级一线）、`periphery`（外围：被媒体顺带提到、关系较远或级别较低的人）。来源原文里有直接说明他在派系中地位的句子（“习近平最信任的”“上海帮的二号人物”），写进 `rankQuote`（逐字核对，必须出自同一个 `cite`）；没有这种句子的，由你按职级与履历判断，只写 `rank` 不写 `rankQuote`，页面显示为“编者归类”。派系的恩主（星系中心，如习近平、江泽民、周永康）不用 `rank`，写在派系的 `patron` 字段。
 - `ids.wikidata`：查 QID：`node tools/fetch-wikidata.ts --find --out=<批次> 名字1 名字2`，结果在 `.probe/<批次>.json`；然后 `node tools/fetch-wikidata.ts Q1 Q2 ...` 抓记录，`cites` 里加 `wd-Q...`。
 - `cites`：整条的主要来源，至少一个。
 
@@ -83,6 +91,25 @@
 
 字段见 `EventSchema`。`lane`：`prelude`（1989–1999 前史）`power` `purge` `army` `ideo` `econ` `society` `ethnic` `hkmt` `foreign` `folk`（民间话语、网络流行语、梗，须注明出处与语境）。`major: true` 只给最重要的约 1/5。`summary` 80–200 字。`people`/`factions`/`concepts` 用已有或计划中的 id。`voices` 可选：同一事件的官方说法与外媒/学者说法并列。
 
-## 6. 完成时回报
+## 6. 人物关系（`content/relations/<批次>.yaml`，第三轮起）
+
+一个列表，每条两个人之间的一种关系，用于提携树和关系图：
+
+```yaml
+- a: xi-jinping        # 长辈、上级、提携者一方
+  b: li-qiang          # 被提携者、秘书一方
+  kind: patron         # patron 提携 | secretary 秘书（b 任 a 的秘书）| colleague 共事 | kin 姻亲 | rival 对立
+  text: 2004–2007 年李强任浙江省委秘书长，是习近平在浙江的“大管家”。
+  from: 2004
+  to: 2007
+  cite: f01-reuters-2022-10-26-youth-league
+  quote: 来源中说明这层关系的原句（逐字核对，可选，强烈建议写）
+```
+
+- `a`、`b` 都必须是已有或已登记的人物 id。`colleague`、`kin`、`rival` 不分先后。
+- 只写来源说过的关系。官方简历能证明的“b 在 a 任书记时任其下属”可以写 `colleague`，引两人的任职来源之一，`text` 写清时间与单位。
+- 传闻来源可用（照样标 `rumor: true`）。
+
+## 7. 完成时回报
 
 最终回复写：完成的条目数（传记、档案卡、名言、事件……）；`--batch` 校验结果（0 error）；未能完成的条目及原因；建议新增的 id（人物、派系、概念）；发现的事实冲突或存疑之处。

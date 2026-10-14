@@ -1,11 +1,11 @@
 import { useMemo, useState } from 'react'
 import { Portrait, Section, Src } from '../components/bits'
 import { Hemicycle, layout } from '../components/Hemicycle'
-import { FRAMES, LANES, type Frame } from '../data/schema'
+import { FRAMES, type Frame } from '../data/schema'
 import { short, today } from '../lib/dates'
 import { cnNum, congressName } from '../lib/cn'
 import { quoted } from '../lib/quotes'
-import { eventHref, href, personHref } from '../lib/router'
+import { href, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
 export function Home() {
@@ -35,7 +35,6 @@ export function Home() {
     return stars[Number(today().slice(8)) % Math.max(stars.length, 1)]
   }, [a])
 
-  const recent = a.db.events.filter((e) => e.major).slice(-8).reverse()
   const quotes = a.db.people.reduce((s, p) => s + p.quotes.length, 0)
 
   return (
@@ -139,20 +138,6 @@ export function Home() {
             </div>
           </Section>
         )}
-
-        {!!recent.length && (
-          <Section title="近期大事" note="时间线中标为重大的最近事件" right={<a className="chip" href={href('timeline')}>完整时间线 →</a>}>
-            <div className="card" style={{ padding: '6px 0' }}>
-              {recent.map((e) => (
-                <a key={e.id} href={eventHref(e.id)} style={{ display: 'grid', gridTemplateColumns: '110px 96px 1fr', gap: 12, padding: '10px 22px', borderTop: '1px solid var(--rule)' }}>
-                  <span className="tnum muted">{short(e.date)}</span>
-                  <span className="small" style={{ color: 'var(--gold)' }}>{LANES[e.lane]}</span>
-                  <span>{e.title}</span>
-                </a>
-              ))}
-            </div>
-          </Section>
-        )}
       </div>
     </>
   )
@@ -178,19 +163,6 @@ function CongressFoot({ n }: { n: number }) {
               </a>
             ) : null
           })}
-        </div>
-      )}
-      {!!c.changes.length && (
-        <div style={{ maxWidth: 820, margin: '18px auto 0', fontSize: 13 }}>
-          <div className="eyebrow" style={{ textAlign: 'center', marginBottom: 6 }}>届内变动</div>
-          {c.changes.map((x, i) => (
-            <div key={i} style={{ display: 'grid', gridTemplateColumns: '92px 1fr', gap: 10, padding: '4px 0', borderTop: '1px dashed var(--rule)' }}>
-              <span className="tnum" style={{ color: x.kind === 'in' ? 'var(--jade)' : 'var(--red)' }}>{short(x.date)}</span>
-              <span>
-                <a href={personHref(x.person)} style={{ fontWeight: 600 }}>{a.name(x.person)}</a> {x.text} <Src cite={x.cite} />
-              </span>
-            </div>
-          ))}
         </div>
       )}
     </>

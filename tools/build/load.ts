@@ -11,7 +11,9 @@ import {
   PersonSchema,
   PhotoSchema,
   QuoteSchema,
+  RelationSchema,
   SourceSchema,
+  VoicedSchema,
   type FactionTag,
   type Quote,
   type Source,
@@ -85,8 +87,27 @@ function loadPeople() {
     for (const [id, list] of Object.entries((read(...f) ?? {}) as Record<string, unknown[]>)) {
       const p = people.find((x) => x.id === id)
       const tags = load(FactionTagSchema, list, `${f.join('/')} ${id}`)
-      if (p) p.factions.push(...tags.filter((t) => !p.factions.some((x) => x.f === t.f && x.cite === t.cite)))
-      else pendingTags.set(id, [...(pendingTags.get(id) ?? []), ...tags])
+      if (!p) {
+        pendingTags.set(id, [...(pendingTags.get(id) ?? []), ...tags])
+        continue
+      }
+      // a later batch may repeat a label only to give it a rank
+      for (const t of tags) {
+        const same = p.factions.find((x) => x.f === t.f && x.cite === t.cite)
+        if (!same) p.factions.push(t)
+        else {
+          same.rank ??= t.rank
+          same.rankQuote ??= t.rankQuote
+        }
+      }
+    }
+  // and so may assessments: content/assess/*.yaml maps person id → voices
+  for (const f of yamlFiles('content', 'assess'))
+    for (const [id, list] of Object.entries((read(...f) ?? {}) as Record<string, unknown[]>)) {
+      const p = people.find((x) => x.id === id)
+      const vs = load(VoicedSchema, list, `${f.join('/')} ${id}`)
+      if (p) p.assess.push(...vs)
+      else pendingAssess.set(id, [...(pendingAssess.get(id) ?? []), ...vs])
     }
   const photos = exists('content', 'photos.yaml') ? (read('content', 'photos.yaml') ?? {}) : {}
   for (const p of people) {
@@ -95,28 +116,46 @@ function loadPeople() {
     const file = ['jpg', 'png', 'webp'].map((x) => `${p.id}.${x}`).find((f) => exists('public', 'photos', f))
     if (file) p.photo = { src: `photos/${file}`, url: r.data.url, author: r.data.author, license: r.data.license, date: r.data.date, focus: r.data.focus }
   }
-  return { people, quotes, pendingTags }
+  return { people, quotes, pendingTags, pendingAssess }
 }
 
 // research/roster.yaml: every planned person, with the batch that owns the entry. A reference to a planned
 // person who has no entry yet is a warning, not an error, so batches can be written in parallel.
 const RosterSchema = z.object({ id: z.string(), name: z.string(), batch: z.string(), tier: z.union([z.literal(1), z.literal(2)]) })
+// from round three each batch also plans its new people in research/roster/<batch>.yaml, read for every batch
 function loadRoster() {
-  return exists('research', 'roster.yaml') ? load(RosterSchema, read('research', 'roster.yaml'), 'roster') : []
+  const main = exists('research', 'roster.yaml') ? load(RosterSchema, read('research', 'roster.yaml'), 'roster') : []
+  const own = exists('research', 'roster')
+    ? readdirSync(path('research', 'roster'))
+        .filter((f) => f.endsWith('.yaml'))
+        .flatMap((f) => load(RosterSchema, read('research', 'roster', f) ?? [], `research/roster/${f}`))
+    : []
+  return [...main, ...own]
 }
 const pendingTags = new Map<string, FactionTag[]>()
+const pendingAssess = new Map<string, z.infer<typeof VoicedSchema>[]>()
 
 export function loadAll() {
   // every kind of record lives in its own directory, one file per batch
   const dir = <T extends z.ZodType>(schema: T, name: string) => yamlFiles('content', name).flatMap((p) => load(schema, read(...p), p.join('/')))
+  const factions = dir(FactionSchema, 'factions')
+  // later batches add voices to factions they do not own: content/faction-voices/*.yaml maps faction id → voices
+  for (const f of yamlFiles('content', 'faction-voices'))
+    for (const [id, list] of Object.entries((read(...f) ?? {}) as Record<string, unknown[]>)) {
+      const vs = load(VoicedSchema, list, `${f.join('/')} ${id}`)
+      const x = factions.find((y) => y.id === id)
+      if (x) x.voices.push(...vs)
+      else errors.push(`${f.join('/')}: no faction ${id}`)
+    }
   return {
     ...loadSources(),
     ...loadPeople(),
     roster: loadRoster(),
     conceptPlan: exists('research', 'concept-plan.yaml') ? load(z.object({ id: z.string(), name: z.string() }), read('research', 'concept-plan.yaml'), 'concept-plan') : [],
     factionPlan: exists('research', 'faction-plan.yaml') ? load(z.object({ id: z.string(), name: z.string(), frame: z.string() }), read('research', 'faction-plan.yaml'), 'faction-plan') : [],
-    factions: dir(FactionSchema, 'factions'),
+    factions,
     events: dir(EventSchema, 'events'),
+    relations: dir(RelationSchema, 'relations'),
     concepts: dir(ConceptSchema, 'concepts'),
     congresses: dir(CongressSchema, 'congresses'),
     corpus: dir(CorpusDocSchema, 'corpus'),

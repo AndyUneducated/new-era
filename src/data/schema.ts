@@ -39,6 +39,8 @@ export const SourceSchema = z.object({
   url: z.string().url(),
   lang: z.enum(['zh', 'en', 'ja']).default('zh'),
   excerpt: z.boolean().optional(),
+  // hearsay: partisan outlets, self-media, social posts, gossip; shown with a mark, never sets a status (decisions #27)
+  rumor: z.boolean().optional(),
   hasText: z.boolean().default(false),
 })
 export type Source = z.infer<typeof SourceSchema>
@@ -101,12 +103,19 @@ export const VoicedSchema = z.object({
   zh: z.string().optional(),
 })
 
+// rings of a faction, from the patron outward (decisions #24)
+export const RANKS = { elder: '元老', core: '核心', backbone: '骨干', periphery: '外围' } as const
+export type Rank = keyof typeof RANKS
+
 export const FactionTagSchema = z.object({
   f: z.string(),
   cite: Cite,
   // the sentence in the source that makes the label, checked verbatim (decisions #3 and #5)
   quote: z.string().optional(),
   zh: z.string().optional(),
+  rank: z.enum(Object.keys(RANKS) as [Rank, ...Rank[]]).optional(),
+  // a sentence in cite that places the person in that ring, checked verbatim; without it the rank is the editor's
+  rankQuote: z.string().optional(),
   ...Dated,
 })
 export type FactionTag = z.infer<typeof FactionTagSchema>
@@ -191,6 +200,8 @@ export const FactionSchema = z.object({
   ...Dated,
   // the figures the faction is named after or gathered around
   core: z.array(z.string()).default([]),
+  // the one person at the centre of the faction's rings, when there is one
+  patron: z.string().optional(),
   // what holds it together: 地缘、系统、出身、共事、秘书……
   basis: z.string(),
   summary: z.string(),
@@ -198,6 +209,21 @@ export const FactionSchema = z.object({
   cites: z.array(Cite).min(1),
 })
 export type Faction = z.infer<typeof FactionSchema>
+
+// a tie between two people; a is the senior side: a promoted b, b was a's secretary
+export const RELATIONS = { patron: '提携', secretary: '秘书', colleague: '共事', kin: '姻亲', rival: '对立' } as const
+export type RelKind = keyof typeof RELATIONS
+
+export const RelationSchema = z.object({
+  a: z.string(),
+  b: z.string(),
+  kind: z.enum(Object.keys(RELATIONS) as [RelKind, ...RelKind[]]),
+  text: z.string(),
+  ...Dated,
+  cite: Cite,
+  quote: z.string().optional(),
+})
+export type Relation = z.infer<typeof RelationSchema>
 
 export const LANES = {
   prelude: '前史',
@@ -275,6 +301,9 @@ export const CongressSchema = z.object({
   alt: z.array(z.string()).default([]),
   sec: z.array(z.string()).default([]),
   cmc: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
+  // central committee full and alternate members by name, in the announced order; names with an entry link to it
+  cc: z.array(z.string()).default([]),
+  cca: z.array(z.string()).default([]),
   changes: z.array(z.object({ date: PartialDate, person: z.string(), kind: z.enum(['out', 'in', 'died']), text: z.string(), cite: Cite })).default([]),
   cites: z.array(Cite).min(1),
 })
