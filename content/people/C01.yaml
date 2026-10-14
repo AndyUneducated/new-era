@@ -1,78 +1,6 @@
 # C01 dossier cards (tier 2): 15th-17th Politburo, Secretariat and Military Commission, plus Xie Fei
-- id: li-ruihuan
-  name: 李瑞环
-  gender: m
-  ethnicity: 汉族
-  born: 1934-09-17
-  birthplace: 天津宝坻
-  joinedParty: 1959-09
-  roles: [psc, pb, sec, cc, prov]
-  status: retired
-  statusNote: 2003 年卸任全国政协主席。联合早报报道，他未出席 2026 年 8 月 17 日的江泽民百年诞辰纪念大会。
-  tier: 2
-  headline: 全国政协主席（1993–2003）、政治局常委（1989–2002）
-  bio: >-
-    建筑工人出身，1950–60 年代在北京第三建筑公司当工人，后任团中央书记处书记。1980 年代主政天津，历任市长、市委书记。
-    1989 年十三届四中全会增补为政治局常委、书记处书记，1993–2003 年连任两届全国政协主席，2002 年十六大退出常委会。
-  positions:
-    - { title: 天津市市长, sys: gov, place: 天津, from: 1982, to: 1989, cite: c01-people-2013-02-26-li-ruihuan }
-    - { title: 天津市委书记, sys: party, place: 天津, from: 1987-08, to: 1989, cite: c01-people-2013-02-26-li-ruihuan }
-    - { title: 中央政治局常委, sys: party, from: 1989-06, to: 2002-11, cite: c01-people-2013-02-26-li-ruihuan }
-    - { title: 中央书记处书记, sys: party, from: 1989-06, to: 1992-10, cite: c01-people-2013-02-26-li-ruihuan }
-    - { title: 全国政协主席, sys: other, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-ruihuan }
-  ids: { wikidata: Q704916 }
-  cites: [wd-Q704916, c01-people-2013-02-26-li-ruihuan, b02-zaobao-2026-08-17-jiang-centenary]
 
-- id: wei-jianxing
-  name: 尉健行
-  gender: m
-  ethnicity: 汉族
-  born: 1931-01-02
-  died: 2015-08-07
-  birthplace: 浙江新昌
-  joinedParty: 1949-03
-  roles: [psc, pb, sec, ccdi, cc, minister, prov]
-  status: dead
-  statusNote: 2015 年 8 月 7 日在北京病逝。
-  tier: 2
-  headline: 中纪委书记（1992–2002）、政治局常委（1997–2002）
-  bio: >-
-    留苏归来的东北轻合金加工厂厂长，1981 年任哈尔滨市长，1984–1987 年任中组部副部长、部长，随后恢复组建监察部并任部长。
-    1992–2002 年任中纪委书记，兼任全国总工会主席；1995 年 4 月中央批准陈希同引咎辞去北京市委书记，由他兼任，至 1997 年 8 月。1997 年进入政治局常委会，2002 年退休。
-  positions:
-    - { title: 哈尔滨市市长, sys: gov, place: 黑龙江, from: 1981-04, to: 1983-10, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 中央组织部副部长、部长, sys: party, from: 1984-08, to: 1987-05, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 监察部部长, sys: gov, from: 1987-05, to: 1993, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 中纪委书记, sys: party, from: 1992-10, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 中华全国总工会主席, sys: other, from: 1993, to: 2002, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 北京市委书记, sys: party, place: 北京, from: 1995-04, to: 1997-08, cite: c01-people-2015-08-17-wei-jianxing-life }
-    - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
-  ids: { wikidata: Q1133559 }
-  cites: [wd-Q1133559, c01-people-2015-08-17-wei-jianxing-life, e01-cpc-dsj-1995]
 
-- id: li-lanqing
-  name: 李岚清
-  gender: m
-  ethnicity: 汉族
-  born: 1932-05-22
-  birthplace: 江苏镇江
-  joinedParty: 1952-09
-  roles: [psc, pb, cc, minister]
-  status: retired
-  statusNote: 2003 年卸任副总理。2026 年 8 月出席江泽民百年诞辰纪念大会，联合早报称他是到场卸任常委中年纪最大的一位（94 岁）。
-  tier: 2
-  headline: 国务院副总理（1993–2003）、政治局常委（1997–2002）
-  bio: >-
-    复旦企业管理系毕业，从长春一汽计划员做起，1980 年代任天津副市长、对外经济贸易部副部长，1990 年升任部长。
-    1993–2003 年任两届国务院副总理，先后主管外资、打击走私与教育科技，1997 年进入政治局常委会，2002 年十六大退出。
-  positions:
-    - { title: 天津市副市长, sys: gov, place: 天津, from: 1983, to: 1986, cite: c01-people-2013-02-26-li-lanqing }
-    - { title: 对外经济贸易部部长, sys: gov, from: 1990, to: 1993-03, cite: c01-people-2013-02-26-li-lanqing }
-    - { title: 中央政治局委员, sys: party, from: 1992-10, to: 1997-09, cite: c01-people-2013-02-26-li-lanqing }
-    - { title: 国务院副总理, sys: gov, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-lanqing }
-    - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-li-lanqing }
-  ids: { wikidata: Q388125 }
-  cites: [wd-Q388125, c01-people-2013-02-26-li-lanqing, b02-zaobao-2026-08-17-jiang-centenary]
 
 - id: ding-guangen
   name: 丁关根
@@ -254,30 +182,6 @@
   ids: { wikidata: Q469516 }
   cites: [wd-Q469516, c01-people-2017-05-19-qian-qichen-life]
 
-- id: wu-yi
-  name: 吴仪
-  gender: f
-  ethnicity: 汉族
-  born: 1938-11-17
-  birthplace: 湖北武汉
-  joinedParty: 1962-04
-  roles: [pb, cc, minister]
-  status: retired
-  statusNote: 2007 年十七大退出中央委员会，2008 年 3 月卸任副总理。
-  tier: 2
-  headline: 国务院副总理（2003–2008）
-  bio: >-
-    炼油工程师出身，曾任燕山石化党委书记、北京市副市长。1991 年任对外经济贸易部副部长，当年临危受命任中美知识产权谈判中方代表，1992 年 1 月签署中美保护知识产权谅解备忘录；1993–1998 年任对外贸易经济合作部部长；1998 年任国务委员。
-    2003–2008 年任国务院副总理，非典期间兼任卫生部长和防治非典指挥部总指挥。2007 年十七大全退。
-  positions:
-    - { title: 北京市副市长, sys: gov, place: 北京, from: 1988, to: 1991, cite: c01-people-2013-02-26-wu-yi }
-    - { title: 对外贸易经济合作部部长, sys: gov, from: 1993, to: 1998-03, cite: c01-people-2013-02-26-wu-yi }
-    - { title: 国务委员, sys: gov, from: 1998-03, to: 2003-03, cite: c01-people-2013-02-26-wu-yi }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: c01-people-2013-02-26-wu-yi }
-    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2008-03, cite: c01-people-2013-02-26-wu-yi }
-    - { title: 卫生部部长, sys: gov, from: 2003-04, to: 2005-04, cite: c01-people-2013-02-26-wu-yi }
-  ids: { wikidata: Q50952 }
-  cites: [wd-Q50952, c01-people-2013-02-26-wu-yi, c01-gov-2018-03-19-state-council-history, v01-chinanews-2008-03-18-wu-yi]
 
 - id: wang-lequan
   name: 王乐泉
@@ -431,29 +335,6 @@
   ids: { wikidata: Q709846 }
   cites: [wd-Q709846, c01-ce-2007-05-21-cao-gangchuan, c01-gov-2018-03-19-state-council-history]
 
-- id: zeng-peiyan
-  name: 曾培炎
-  gender: m
-  ethnicity: 汉族
-  born: 1938-12-01
-  birthplace: 浙江绍兴
-  joinedParty: 1978-09
-  roles: [pb, cc, minister]
-  status: retired
-  statusNote: 2007 年十七大退出政治局，2008 年 3 月卸任副总理。
-  tier: 2
-  headline: 国务院副总理（2003–2008）
-  bio: >-
-    清华无线电系毕业后到上海电器科学研究所当技术员；他回忆当时江泽民“他是主管科研的副所长，我是技术员”。后长期在电子、机电部门任职，1990 年代任国家计委副主任、主任。
-    2002 年进入政治局，2003–2008 年任国务院副总理，主管工业、能源与交通。
-  positions:
-    - { title: 电子工业部副部长, sys: gov, from: 1987-04, to: 1988-05, cite: c01-chinanews-2002-11-16-zeng-peiyan }
-    - { title: 国家计委副主任, sys: gov, from: 1992-12, to: 1998-03, cite: c01-chinanews-2002-11-16-zeng-peiyan }
-    - { title: 国家发展计划委员会主任, sys: gov, from: 1998-03, to: 2003-03, cite: c01-chinanews-2002-11-16-zeng-peiyan }
-    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: c01-chinanews-2002-11-16-zeng-peiyan }
-    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2008-03, cite: c01-gov-2018-03-19-state-council-history }
-  ids: { wikidata: Q189517 }
-  cites: [wd-Q189517, c01-chinanews-2002-11-16-zeng-peiyan, c01-ce-2010-04-26-zeng-peiyan-on-jiang, c01-gov-2018-03-19-state-council-history]
 
 - id: wang-gang
   name: 王刚

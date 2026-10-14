@@ -1,0 +1,499 @@
+# B18: full biographies (tier 1), expanded from the C01 dossier cards.
+- id: li-ruihuan
+  name: 李瑞环
+  pinyin: Lǐ Ruìhuán
+  gender: m
+  ethnicity: 汉族
+  born: 1934-09-17
+  birthplace: 天津宝坻
+  education:
+    - { school: 北京建工业余学院, degree: 工业与民用建筑专业, from: 1958, to: 1963 }
+  joinedParty: 1959-09
+  joinedWork: 1951-07
+  roles: [psc, pb, sec, cc, prov]
+  status: retired
+  statusNote: 2003 年卸任全国政协主席。联合早报报道，他未出席 2026 年 8 月 17 日的江泽民百年诞辰纪念大会。
+  tier: 1
+  headline: 全国政协主席（1993–2003）、政治局常委（1989–2002）
+  ids: { wikidata: Q704916 }
+  bio: >-
+    天津宝坻农家子弟，1951 年进北京第三建筑公司当工人，一干十四年，业余读完建筑专业，自称“一个普通的木匠”。1965 年起在北京建材系统和市建委任职，1979 年进团中央书记处，1981 年调天津，任市长、市委书记近十年。
+    1989 年 6 月十三届四中全会被增选为政治局常委、书记处书记，1993–2003 年任两届全国政协主席。BBC 等西方媒体称他为党内开明派，与江泽民不睦。2002 年十六大，未满 70 岁的他退出常委会，外界普遍认为是被江泽民逼退。退休后极少露面，2026 年江泽民百年诞辰大会未到场。
+  positions:
+    - { title: 北京市建委副主任兼市基建指挥部指挥, sys: gov, place: 北京, from: 1973, to: 1979, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 共青团中央书记处书记, sys: party, from: 1979, to: 1982, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 天津市市长, sys: gov, place: 天津, from: 1982, to: 1989, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 天津市委书记, sys: party, place: 天津, from: 1987-08, to: 1989, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 中央政治局委员, sys: party, from: 1987-11, to: 1989-06, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 中央政治局常委, sys: party, from: 1989-06, to: 2002-11, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 中央书记处书记, sys: party, from: 1989-06, to: 1992-10, cite: c01-people-2013-02-26-li-ruihuan }
+    - { title: 全国政协主席, sys: other, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-ruihuan }
+  life:
+    - h: 木匠与北京建工
+      from: 1934
+      to: 1979
+      text: >-
+        1934 年 9 月生于天津宝坻。1951 年参加工作，到 1965 年一直在北京第三建筑公司当工人，其间 1958–1963 年在北京建工业余学院读工业与民用建筑专业。BBC 的人物介绍说他是木工，参加过人民大会堂的施工。官方简历记他 1959 年 9 月入党，BBC 则误作 1969 年。
+        1965 年起任北京建筑木材厂党总支书记，文革中受迫害五年，1971 年复出任木材厂党委书记，1973–1979 年任北京市建委副主任兼市基建指挥部指挥、市总工会副主任。
+      cites: [c01-people-2013-02-26-li-ruihuan, b18-bbcen-2002-li-ruihuan-profile]
+    - h: 团中央与主政天津
+      from: 1979
+      to: 1989
+      text: >-
+        1979–1981 年任团中央书记处书记、全国青联副主席。China Media Project 的钱钢指出，他虽在团中央担任过要职，但把他归入“团派”是错的。1981 年调天津任市委常委、副市长，1982 年起任代市长、市长，1987 年 8 月兼任市委书记，同年十三大进入政治局。
+        BBC 报道，他当天津市长时在本地电台、电视台开热线节目，直接回应市民的诉求。1983–1986 年在他手下任天津副市长的李岚清，后来也和他同在常委会。
+      cites: [c01-people-2013-02-26-li-ruihuan, f05-cmp-2007-09-14-factions, b18-bbcen-2002-11-14-li-retires, c01-people-2013-02-26-li-lanqing]
+    - h: 四中全会入常
+      from: 1989
+      to: 1993
+      text: >-
+        1989 年 6 月 23–24 日的十三届四中全会撤销赵紫阳的职务，选举江泽民为总书记，增选江泽民、宋平、李瑞环为政治局常委，并增补李瑞环、丁关根为书记处书记。
+        同年 11 月 25 日，他在中宣部举办的全国党报总编辑新闻工作研讨班上说，“新闻报道必须坚持以正面宣传为主的方针”，新闻的党性同人民性是统一的。1992 年十四届一中全会他连任常委，同年 10 月退出书记处。
+      cites: [e01-cpc-dsj-1989, e01-cpc-dsj-1992, c01-people-2013-02-26-li-ruihuan]
+    - h: 两届政协主席
+      from: 1993
+      to: 2002
+      text: >-
+        1993 年 3 月当选八届全国政协主席，1998 年 3 月连任。1994 年 9 月他在政协成立 45 周年会上说，“人民政协是我国社会主义民主政治建设的一大创造、一大特色”。
+        《环球人物》说他任内留下“不少机敏之事”：1995 年 3 月中英争论香港政制时，他在政协小组会上讲了一个故事，老太太把祖传紫砂壶里的茶垢洗干净，壶就不值钱了，用来比喻不要妄洗香港的“茶垢”；2000 年 11 月访港时，他又以一句反问回应记者对“身体健康”祝词的追问。
+      cites: [e01-cpc-dsj-1993, e01-cpc-dsj-1998, e01-cpc-dsj-1994, b18-hqrw-2012-11-26-li-ruihuan]
+    - h: 十六大出局
+      from: 2000
+      to: 2002
+      text: >-
+        吉利（Bruce Gilley）与黎安友（Andrew Nathan）2002 年 9 月在《纽约书评》撰文说，他未满 70 岁，原定 2003 年 3 月接任全国人大委员长；他是最积极主张江泽民交出全部职务、由胡锦涛接掌三项最高职务的人，甚至对人说江若留任军委主席，自己就辞去常委、不当人大委员长；江泽民则一直设法逼他退休。
+        2002 年 11 月十六大，68 岁的他退出领导层。BBC 当时引分析人士说，这是江泽民为在高层保留影响力而为，江把他视为对自己一派的威胁，还对他坚持叫“老江”感到不快。
+      cites: [b18-nybooks-2002-09-26-gilley-nathan, b18-bbcen-2002-11-14-li-retires]
+    - h: 告别讲话
+      from: 2002
+      to: 2003
+      text: >-
+        2002 年 11 月 22 日，他在九届政协常委会第十九次会议闭幕时发表告别讲话，后来作为《务实求理》的代序发表。他说，“我这样一个农民的孩子，一个普通的木匠”，能被提拔到这么高的职位，是党和人民培养的结果；对中央要他退下来的意见，“我毫不犹豫地接受，痛痛快快地响应”。他转述江泽民在 10 月 31 日常委会上说他“从党和国家的利益出发，心胸开阔，顾全大局”，并保证对新班子“支持拥护，绝不干扰”。2003 年 3 月贾庆林接任政协主席，美国之音称他是“改革派”。
+      cites: [b18-banyuetan-2010-07-06-li-farewell, b18-voa-2003-03-13-jia-qinglin]
+    - h: 元老
+      from: 2003
+      to: 2026
+      text: >-
+        退休后少有公开活动，曾出席 2008 年北京奥运会开幕式，2012 年列名十八大主席团常委。据大纪元转载的《争鸣》（传闻），2007 年 7 月北戴河退休领导人组织生活会由他召集。
+        2026 年 8 月 17 日江泽民百年诞辰大会，星岛日报统计有 13 位退休正国级元老到场，他和胡锦涛、吴官正、罗干未到；联合早报说他前一年还登上天安门城楼观看九三阅兵。据阿波罗网（传闻），他当年是推动江泽民交权、确保胡锦涛接班的力量之一；大纪元（传闻）则说此后他两次“露面”。
+      cites: [e02-consulate-2008-08-08-olympics, e02-ce-2012-11-08-18th-congress, r01-epoch-2007-08-10-zhengming, b02-zaobao-2026-08-17-jiang-centenary, b18-singtao-2026-08-18-jiang-centenary, r01-aboluowang-2026-08-17-hu, r01-epoch-2026-08-31-li-yanming]
+  assess:
+    - voice: west
+      quote: true
+      text: Mr Li was widely seen as a liberal who was thought to favour a freer press and greater transparency in the Communist Party
+      zh: 李瑞环被普遍视为自由派，被认为支持更自由的新闻和中共党内更大的透明度。
+      cite: b18-bbcen-2002-11-14-li-retires
+    - voice: scholar
+      quote: true
+      text: Li was the most vocal advocate of Jiang’s leaving all his posts and for the promotion of Hu Jintao to all three top posts
+      zh: 李瑞环是最积极主张江泽民交出全部职务、让胡锦涛接掌三项最高职务的人。
+      cite: b18-nybooks-2002-09-26-gilley-nathan
+    - voice: official
+      quote: true
+      text: 从党和国家的利益出发，心胸开阔，顾全大局
+      cite: b18-banyuetan-2010-07-06-li-farewell
+    - voice: west
+      quote: true
+      text: replacing the reformist Li Ruihuan
+      zh: 接替改革派的李瑞环。
+      cite: b18-voa-2003-03-13-jia-qinglin
+    - voice: zh
+      quote: true
+      text: 据传李瑞环是推动江泽民交权、确保胡锦涛顺利接班的力量之一
+      cite: r01-aboluowang-2026-08-17-hu
+  family:
+    - name: 妻子（姓名未见于来源）
+      rel: 妻子
+      text: >-
+        BBC 的人物介绍说，他的妻子一直在工厂做工到退休。
+      cites: [b18-bbcen-2002-li-ruihuan-profile]
+  cites: [wd-Q704916, c01-people-2013-02-26-li-ruihuan, b02-zaobao-2026-08-17-jiang-centenary, b18-bbcen-2002-11-14-li-retires, b18-bbcen-2002-li-ruihuan-profile, b18-banyuetan-2010-07-06-li-farewell, b18-hqrw-2012-11-26-li-ruihuan, b18-nybooks-2002-09-26-gilley-nathan, b18-voa-2003-03-13-jia-qinglin, e01-cpc-dsj-1989, f05-cmp-2007-09-14-factions]
+
+- id: li-lanqing
+  name: 李岚清
+  pinyin: Lǐ Lánqīng
+  gender: m
+  ethnicity: 汉族
+  born: 1932-05-22
+  birthplace: 江苏镇江
+  education:
+    - { school: 复旦大学企业管理系, to: 1952 }
+  joinedParty: 1952-09
+  joinedWork: 1952
+  roles: [psc, pb, cc, minister]
+  status: retired
+  statusNote: 2003 年卸任副总理。2026 年 8 月出席江泽民百年诞辰纪念大会，联合早报称他是到场卸任常委中年纪最大的一位（94 岁）。
+  tier: 1
+  headline: 国务院副总理（1993–2003）、政治局常委（1997–2002）
+  ids: { wikidata: Q388125 }
+  bio: >-
+    江苏镇江人，复旦企业管理系毕业，从长春一汽的计划员做起，在汽车工业干了近三十年，参与二汽、三汽和重型汽车厂的筹建。1980 年代转做外资外贸，任天津副市长、外经贸部长，1992 年进入政治局，1993–2003 年任两届副总理，1997 年起为政治局常委。
+    他先后分管外资、打击走私和科技教育，主持 1999 年起的高校大扩招，任中央处理法轮功问题领导小组组长，也参与了北京申奥。2002 年退休后以篆刻和著述闻名，2026 年 8 月以 94 岁高龄出席江泽民百年诞辰大会。
+  positions:
+    - { title: 天津市副市长, sys: gov, place: 天津, from: 1983, to: 1986, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 对外经济贸易部副部长, sys: gov, from: 1986, to: 1990, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 对外经济贸易部部长, sys: gov, from: 1990, to: 1993-03, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 中央政治局委员, sys: party, from: 1992-10, to: 1997-09, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 国务院副总理, sys: gov, from: 1993-03, to: 2003-03, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 全国打击走私领导小组组长, sys: gov, from: 1993-06, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-li-lanqing }
+    - { title: 国家科技教育领导小组副组长, sys: gov, from: 1998-03, to: 2003-03, cite: b01-chinaqw-1998-03-19-zhu-presser }
+    - { title: 中央处理法轮功问题领导小组负责人, sys: party, from: 1999-06, to: 2003, cite: b18-jamestown-2011-11-610-office }
+  life:
+    - h: 一汽与汽车工业
+      from: 1932
+      to: 1981
+      text: >-
+        1932 年 5 月生于江苏镇江。1952 年从复旦大学企业管理系毕业，同年 9 月入党，进长春第一汽车制造厂任计划科计划员、副科长；1956–1957 年到苏联利哈乔夫、高尔基汽车厂实习，回厂任计划处科长。1959 年调一机部，1961 年起在国家经委，文革中下放“五七”干校。
+        1972–1978 年在二汽任计划处副处长、发动机厂党委第一书记，1978 年起参与三汽和重型汽车厂筹建。凤凰网说，“与江泽民类似”，他也是从一汽走出的国家领导人。
+      cites: [c01-people-2013-02-26-li-lanqing, b18-ifeng-2013-06-22-li-lanqing-faw]
+    - h: 外资与外贸
+      from: 1981
+      to: 1993
+      text: >-
+        1981 年调国家外国投资管理委员会，负责政府贷款办公室；1982 年任外经贸部外资管理局局长。1983–1986 年任天津市副市长兼市委对外经济贸易党工委书记，当时的天津市长是李瑞环。
+        1986 年回外经贸部任副部长，1990 年升任部长兼国务院经贸办副主任。他在十三大当选中央候补委员，1992 年 10 月十四大进入政治局。
+      cites: [c01-people-2013-02-26-li-lanqing, c01-people-2013-02-26-li-ruihuan]
+    - h: 副总理：外资与缉私
+      from: 1993
+      to: 1998
+      text: >-
+        1993 年 3 月八届人大任命他为国务院副总理，6 月兼任全国打击走私领导小组组长，1994 年任全国外资工作领导小组组长，1995 年起任国务院学位委员会主任委员。
+        1997 年 9 月十五届一中全会选出的七名政治局常委依次为江泽民、李鹏、朱镕基、李瑞环、胡锦涛、尉健行、李岚清，他列第七。1998 年 3 月九届人大上，他和李瑞环分别连任副总理和全国政协主席，两位当年的天津搭档同在常委会。
+      cites: [c01-people-2013-02-26-li-lanqing, e01-cpc-dsj-1997, e01-cpc-dsj-1998]
+    - h: 科教领导小组与大扩招
+      from: 1998
+      to: 2003
+      text: >-
+        1998 年 3 月连任副总理，在九届国务院四位副总理中名列首位。朱镕基在首次记者会上宣布成立国家科技教育领导小组，“我担任组长，李岚清副总理担任副组长”；同场记者会上，他就入世说中国“为此进行了十一年的谈判”，参加了乌拉圭回合谈判的全过程，并签署了最后的一揽子协议。
+        中新网报道，《李岚清教育访谈录》里他把扩招的理由归为四条，其中一条是推迟学生就业、增加教育消费、拉动内需；他认为“高校大幅度地扩招是客观的必然”。官方数据说，到 2002 年高等教育毛入学率约为 15%。
+      cites: [c01-gov-2018-03-19-state-council-history, b01-chinaqw-1998-03-19-zhu-presser, b18-chinanews-2003-12-11-li-lanqing-expansion]
+    - h: 法轮功与申奥
+      from: 1999
+      to: 2002
+      text: >-
+        詹姆斯敦基金会《中国简报》2011 年的研究说，1999 年 6 月 7 日江泽民下令在中央成立专门领导小组处理法轮功问题，交由政治局常委李岚清负责，要求“立即组织力量”；6 月 10 日成立的执行机构就是“610 办公室”，在国家体制之外运作，没有任何正式的法律地位。2003 年他退休后，江泽民的亲信罗干接管了这个领导小组并兼任政法委书记，2007 年再由周永康接替；这套系统与政法委的结构高度重叠。
+        2001 年 2 月他在大会上要求同法轮功进行坚决斗争。同年 7 月 13 日北京申奥成功，人在莫斯科的他接到江泽民的祝贺电话。
+      cites: [b18-jamestown-2011-11-610-office, e01-cpc-dsj-2001]
+    - h: 篆刻与晚年
+      from: 2002
+      to: 2026
+      text: >-
+        2002 年 11 月十六大，他与江泽民等一同退出常委会，2003 年 3 月卸任副总理。此后他出版教育访谈录，又以篆刻出名：中新网 2007 年报道，他以 71 岁高龄花三年刻成近三百方印，在南京展出；2011 年的展览有 550 件篆刻、200 余件书法，他在题记中说要“让篆刻艺术跟进时代步伐，贴近大众”，一位法国博物馆学专家看后说展览“完全像一个包罗万象的百科大全”。
+        2008 年 8 月他作为退休领导人出席北京奥运会开幕式。2026 年 8 月 17 日他出席江泽民百年诞辰大会，联合早报称他是到场元老中年纪最大的一位（94 岁）。
+      cites: [c01-people-2013-02-26-li-lanqing, b18-chinanews-2003-12-11-li-lanqing-expansion, b18-chinanews-2007-04-15-li-lanqing-seal, b18-cflac-2011-05-30-li-lanqing-seal, e02-consulate-2008-08-08-olympics, b02-zaobao-2026-08-17-jiang-centenary, b03-gov-2026-08-17-jiang-centenary]
+  assess:
+    - voice: scholar
+      quote: true
+      text: He ordered that the team, placed under the responsibility of Politburo Standing Committee member Li Lanqing, “should immediately organize forces”
+      zh: 江泽民下令，这个交由政治局常委李岚清负责的小组“应立即组织力量”。
+      cite: b18-jamestown-2011-11-610-office
+    - voice: official
+      quote: true
+      text: 充分体现出李岚清将自己的政治抱负、文化学养、人生境界与篆刻探索相结合的独特的创作道路
+      cite: b18-cflac-2011-05-30-li-lanqing-seal
+    - voice: official
+      quote: true
+      text: 他以行动生动地向世人证明：71岁的老人照样可以学篆刻
+      cite: b18-chinanews-2007-04-15-li-lanqing-seal
+  family:
+    - name: 章素贞
+      rel: 妻子
+      text: >-
+        官方简历只记“夫人：章素贞”，未见其他公开信息。
+      cites: [c01-people-2013-02-26-li-lanqing]
+  cites: [wd-Q388125, c01-people-2013-02-26-li-lanqing, b02-zaobao-2026-08-17-jiang-centenary, b01-chinaqw-1998-03-19-zhu-presser, b18-chinanews-2003-12-11-li-lanqing-expansion, b18-jamestown-2011-11-610-office, b18-chinanews-2007-04-15-li-lanqing-seal, b18-cflac-2011-05-30-li-lanqing-seal, b18-ifeng-2013-06-22-li-lanqing-faw, e01-cpc-dsj-2001]
+
+- id: wei-jianxing
+  name: 尉健行
+  pinyin: Wèi Jiànxíng
+  gender: m
+  ethnicity: 汉族
+  born: 1931-01-02
+  died: 2015-08-07
+  birthplace: 浙江新昌
+  education:
+    - { school: 大连工学院机械系, from: 1949-09, to: 1952 }
+  joinedParty: 1949-03
+  roles: [psc, pb, sec, ccdi, cc, minister, prov]
+  status: dead
+  statusNote: 2015 年 8 月 7 日在北京病逝。
+  tier: 1
+  headline: 中纪委书记（1992–2002）、政治局常委（1997–2002）
+  ids: { wikidata: Q1133559 }
+  bio: >-
+    浙江新昌教师家庭出身，1949 年在上海读中学时入党，大连工学院毕业后赴苏联学企业管理，在哈尔滨东北轻合金加工厂工作二十多年，做到厂长。1980 年代任哈尔滨市长、全总副主席、中组部部长，1987 年受命恢复组建监察部。
+    1992–2002 年任中纪委书记，查办了陈希同、成克杰、慕马、远华等大案；1995 年 4 月陈希同引咎辞职后，他兼任北京市委书记两年多。1997 年进入常委会，同时兼任全总主席、中央维稳领导小组组长。2002 年退休，2015 年病逝，官方称他“一身正气，两袖清风”。
+  positions:
+    - { title: 国营东北轻合金加工厂厂长、党委书记, sys: other, place: 黑龙江, from: 1978-06, to: 1981-04, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 哈尔滨市市长, sys: gov, place: 黑龙江, from: 1981-04, to: 1983-10, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中华全国总工会副主席、书记处书记, sys: other, from: 1983-10, to: 1984-08, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中央组织部副部长、部长, sys: party, from: 1984-08, to: 1987-05, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 监察部部长, sys: gov, from: 1987-05, to: 1993, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中纪委书记, sys: party, from: 1992-10, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中华全国总工会主席, sys: other, from: 1993, to: 2002, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 北京市委书记, sys: party, place: 北京, from: 1995-04, to: 1997-08, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中央政治局常委, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
+    - { title: 中央维护稳定工作领导小组组长, sys: party, from: 1998-03, to: 2002-11, cite: c01-people-2015-08-17-wei-jianxing-life }
+  life:
+    - h: 新昌、光华附中与留苏
+      from: 1931
+      to: 1955
+      text: >-
+        1931 年 1 月生于浙江新昌“一个清贫的教师家庭”。1947–1949 年在上海光华大学附中读书，参加党的秘密外围组织和学生运动，1949 年 3 月入党。BBC 中文指出，他和不久前去世的乔石是光华附中校友。
+        1949 年 9 月进大连工学院机械系，1952 年毕业后入抚顺俄语训练班，1953 年赴苏联乌拉尔卡明斯克铝加工厂学习企业管理。
+      cites: [c01-people-2015-08-17-wei-jianxing-life, b18-bbc-2015-08-07-wei-death]
+    - h: 东轻二十年
+      from: 1955
+      to: 1981
+      text: >-
+        回国后分到哈尔滨的国营东北轻合金加工厂，1955–1966 年历任科长、车间主任、厂长办公室主任等职，文革中受到冲击。1978 年 6 月起任厂长、党委书记，被授予黑龙江省特等劳动模范；1980 年被选派到中央党校中青年干部培训班学习。
+        中新网说，“在东北的三十年，尉健行从技术领域走向政坛”。
+      cites: [c01-people-2015-08-17-wei-jianxing-life, b18-chinanews-2015-08-07-wei-ccdi]
+    - h: 哈尔滨、全总与中组部
+      from: 1981
+      to: 1987
+      text: >-
+        1981 年 4 月任哈尔滨市委副书记、市长，1983 年 10 月调任全国总工会副主席、书记处书记、党组副书记。1984 年 8 月至 1987 年 5 月先后任中组部副部长、部长；官方生平说他坚决执行干部“四化”方针，落实平反冤假错案，清理文革中的“三种人”。
+        BBC 中文引中国媒体说，他长期在乔石领导下工作，“两人工作作风、理念相近且配合默契”。
+      cites: [c01-people-2015-08-17-wei-jianxing-life, b18-bbc-2015-08-07-wei-death]
+    - h: 监察部与中纪委
+      from: 1987
+      to: 1995
+      text: >-
+        1987 年 5 月任监察部部长、党组书记，按中央和全国人大常委会的决定恢复组建了监察部和地方各级监察机关。官方生平写道，在 1989 年政治风波中，他“坚决拥护党中央的重大决策部署”。
+        1992 年 10 月十四大当选政治局委员、书记处书记，十四届一中全会批准他为中纪委书记。1993 年初中纪委与监察部合署办公；同年起他还兼任全国总工会主席，直到 2002 年。
+      cites: [c01-people-2015-08-17-wei-jianxing-life, e01-cpc-dsj-1992]
+    - h: 兼任北京市委书记
+      from: 1995
+      to: 1997
+      text: >-
+        1995 年 4 月 5 日北京副市长王宝森自杀，次日市委书记陈希同提交引咎辞职报告。4 月 27 日，胡锦涛受中央委托宣布任命尉健行为北京市委书记，批准陈希同辞职。新京报记述，他在北京通报王宝森案时说，如果不坚持反腐败斗争，“确实有亡党亡国危险”；1996 年春节前又说北京当年的重要任务是配合中央审查陈希同的经济问题。
+        1997 年 8 月他卸任北京市委书记，贾庆林接任；同月中央决定开除陈希同党籍，1998 年 7 月陈被判刑十六年。
+      cites: [e01-cpc-dsj-1995, b18-bjnews-2015-08-08-wei-cases, c01-people-2015-08-17-wei-jianxing-life, p01-wiki-beijing-sec]
+    - h: 常委、大案与维稳
+      from: 1997
+      to: 2002
+      text: >-
+        1997 年 9 月十五届一中全会当选政治局常委，连任中纪委书记。1998 年 1 月中纪委二次全会通过他的报告《以党的十五大精神为指导，加大工作力度，深入开展反腐败斗争》；同年 3 月他兼任中央维护稳定工作领导小组组长，主持建立中央维稳办。
+        查处人数说法不一：中新网说 1993–2002 年共 41 名省部级官员受查处，新京报的标题则是“任职中纪委书记10年查处176名省部级官员”。其中全国人大副委员长成克杰被判死刑，中新网称这是新中国首个因腐败被判死刑的国家领导人。BBC 中文还提到慕马案和厦门远华案。
+      cites: [e01-cpc-dsj-1997, e01-cpc-dsj-1998, c01-people-2015-08-17-wei-jianxing-life, b18-chinanews-2015-08-07-wei-ccdi, b18-bjnews-2015-08-08-wei-cases, b18-bbc-2015-08-07-wei-death]
+    - h: 退休与病逝
+      from: 2002
+      to: 2015
+      text: >-
+        卸任前的 2002 年 3 月 12 日，他说领导干部手中的权力“绝不能把它当作自己的家庭成员谋取私利的手段”。2002 年 11 月十六大退出领导岗位。此后偶尔出席重大场合，包括 2008 年北京奥运会开幕式和 2012 年十八大。据大纪元转载的《争鸣》（传闻），2007 年夏北戴河的退休领导人会上，乔石、尉健行等批评了江泽民。
+        2015 年 5 月《尉健行谈工会工作》出版，8 月 7 日他在北京病逝，官方讣告称他“享年85岁”（按虚岁计；实足 84 岁）。
+      cites: [b18-people-2015-08-07-wei-death, c01-people-2015-08-17-wei-jianxing-life, e02-consulate-2008-08-08-olympics, e02-ce-2012-11-08-18th-congress, r01-epoch-2007-08-10-zhengming]
+  assess:
+    - voice: doc
+      quote: true
+      text: 他一身正气，两袖清风，严以律己，廉洁奉公
+      cite: c01-people-2015-08-17-wei-jianxing-life
+    - voice: official
+      quote: true
+      text: 尉健行主政中纪委期间，纪检工作进入到一个新高潮。
+      cite: b18-chinanews-2015-08-07-wei-ccdi
+    - voice: zh
+      quote: true
+      text: 尉健行曾长期在乔石领导下工作，两人工作作风、理念相近且配合默契。
+      cite: b18-bbc-2015-08-07-wei-death
+    - voice: zh
+      quote: true
+      text: 乔石、尉健行等对江泽民下台后种种忘乎所以的丑态给予严厉的批评
+      cite: r01-epoch-2007-08-10-zhengming
+  cites: [wd-Q1133559, c01-people-2015-08-17-wei-jianxing-life, e01-cpc-dsj-1995, b18-bbc-2015-08-07-wei-death, b18-chinanews-2015-08-07-wei-ccdi, b18-people-2015-08-07-wei-death, b18-bjnews-2015-08-08-wei-cases, e01-cpc-dsj-1998]
+
+- id: wu-yi
+  name: 吴仪
+  pinyin: Wú Yí
+  gender: f
+  ethnicity: 汉族
+  born: 1938-11-17
+  birthplace: 湖北武汉
+  education:
+    - { school: 北京石油学院炼油专业, from: 1956, to: 1962 }
+  joinedParty: 1962-04
+  roles: [pb, cc, minister]
+  status: retired
+  statusNote: 2007 年十七大退出中央委员会，2008 年 3 月卸任副总理。2026 年 8 月 17 日出席江泽民百年诞辰纪念大会（星岛日报）。
+  tier: 1
+  headline: 国务院副总理（2003–2008），中国对外经贸谈判的“铁娘子”
+  ids: { wikidata: Q50952 }
+  bio: >-
+    湖北武汉人，北京石油学院炼油专业毕业，在兰州、北京的炼油厂做了二十年技术和管理工作，官至燕山石化党委书记，1988 年任北京市副市长。1991 年调外经贸部任副部长，临时替补出任中美知识产权谈判的中方代表，1992 年 1 月签署谅解备忘录；此后参与入世谈判，1993–1998 年任外经贸部长，外电称她“中国的铁娘子”。
+    1998 年任国务委员，2002 年进入政治局，2003–2008 年任副总理，非典期间兼卫生部长，2006 年与美国财长保尔森共同主持首次中美战略经济对话。2007 年宣布“裸退”。
+  positions:
+    - { title: 燕山石油化工公司副经理、党委书记, sys: other, place: 北京, from: 1983, to: 1988, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 1988, to: 1991, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 对外经济贸易部副部长, sys: gov, from: 1991-04, to: 1993, cite: b18-people-2008-03-17-wu-yi-retires }
+    - { title: 对外贸易经济合作部部长, sys: gov, from: 1993, to: 1998-03, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 中央政治局候补委员, sys: party, from: 1997-09, to: 2002-11, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 国务委员, sys: gov, from: 1998-03, to: 2003-03, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2008-03, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 国务院防治非典指挥部总指挥, sys: gov, from: 2003-04, cite: c01-people-2013-02-26-wu-yi }
+    - { title: 卫生部部长, sys: gov, from: 2003-04, to: 2005-04, cite: c01-people-2013-02-26-wu-yi }
+  life:
+    - h: 炼油工程师
+      from: 1938
+      to: 1988
+      text: >-
+        1938 年 11 月生于武汉。1956–1962 年先后在西北工学院国防系、北京石油学院炼油专业读书，1962 年 4 月入党，毕业后到兰州炼油厂当车间技术员、政治部办公室干事。1965 年调石油工业部生产技术司，1967–1983 年在北京东方红炼油厂从技术员做到副总工程师、副厂长，1983–1988 年任燕山石油化工公司副经理、党委书记。
+        联合早报在宋平的讣闻里，把她和胡锦涛、温家宝并列为曾在甘肃工作、后来受到重用的人。
+      cites: [c01-people-2013-02-26-wu-yi, f05-zaobao-2026-03-04-song-ping]
+    - h: 知识产权谈判
+      from: 1988
+      to: 1992
+      text: >-
+        1988–1991 年任北京市副市长。人民网说，1991 年 4 月她任外经贸部副部长，不到 4 个月，中美知识产权谈判开始前两天，中方团长突然患病，她临时替补赴美。
+        中新网 2003 年记述，美方代表一开口就说“我们是在和小偷谈判”，她回敬“我们是在和强盗谈判”，问对方博物馆里有多少展品是从中国抢来的。这段对话流传甚广，澎湃新闻 2019 年则把它当作复关和入世谈判年代的语录来讲，场合说法不一。1992 年 1 月 17 日中美签署保护知识产权谅解备忘录。
+      cites: [c01-people-2013-02-26-wu-yi, b18-people-2008-03-17-wu-yi-retires, b18-chinanews-2003-04-28-wu-yi-sars, b18-thepaper-2019-12-wto-48-hours, v01-chinanews-2008-03-18-wu-yi]
+    - h: 外经贸部长与入世
+      from: 1993
+      to: 1999
+      text: >-
+        1993 年起任对外贸易经济合作部部长、党组书记，1997 年十五大当选政治局候补委员。中新网说，在入世和中美知识产权谈判的每个关键时刻，她“或直接参与，或居幕后督战”；中新网 2008 年又说她在入世谈判中“扮演了积极和强硬的角色”，作风直截了当。
+        澎湃新闻回顾 1999 年 11 月中美入世谈判的最后 48 小时，写她与美国贸易代表巴尔舍夫斯基这对“老对手”针尖对麦芒。
+      cites: [c01-people-2013-02-26-wu-yi, b18-chinanews-2003-04-28-wu-yi-sars, v01-chinanews-2008-03-18-wu-yi, b18-thepaper-2019-12-wto-48-hours]
+    - h: 国务委员与入局
+      from: 1998
+      to: 2003
+      text: >-
+        1998 年 3 月任国务委员。2002 年上海申办世博会，她在最后陈述中说：“我的13亿同胞，正翘首等待着各位的选择。”人民日报 2010 年回顾此事时称她“时任国务院副总理”，实际上她当时是国务委员。
+        同年 11 月十六大她当选政治局委员；詹姆斯敦基金会《中国简报》指出，这届政治局只有三人出自国务院：她、罗干和曾培炎。2003 年 3 月十届人大选举副总理，BBC 中文记录她得 2907 张赞成票、18 张反对票，赞成票为几位副总理中最多。
+      cites: [c01-people-2013-02-26-wu-yi, i04-rmrb-2010-11-05-renzhongping, b18-jamestown-2002-12-anti-jiang-backlash, b18-bbc-2003-03-17-npc-cabinet]
+    - h: 非典与卫生部
+      from: 2003
+      to: 2007
+      text: >-
+        2003 年 4 月 23 日，她兼任新成立的国务院防治非典指挥部总指挥，26 日又兼任卫生部部长，直到 2005 年 4 月。中新网说，喜欢自称“小女子”的她，这次又说了常说的那句话：“小女子受命于危难之中”。
+        2004 年 2 月起她兼任国务院防治艾滋病工作委员会主任，2007 年 8 月起任国务院产品质量和食品安全领导小组组长。
+      cites: [c01-people-2013-02-26-wu-yi, b18-chinanews-2003-04-28-wu-yi-sars]
+    - h: 对日与对美
+      from: 2005
+      to: 2007
+      text: >-
+        2005 年 5 月访日期间，她在东京的论坛上说，“因为众所周知的原因”两国政治关系不理想，随后中方以回国“处理一项紧急公务”为由，取消了原定 5 月 23 日与小泉纯一郎的会见；小泉说“我不理解为什么现在要取消”。BBC 中文同时提到小泉每年参拜靖国神社引起的愤怒。
+        2006 年 12 月，她与美国财长保尔森在北京共同主持首次中美战略经济对话，开场说一些美国朋友对中国“不仅知之不多，而且误解不少”。《财富》杂志形容她像一位不耐烦的女校长，用一堂课开场。
+      cites: [b18-bbc-2005-05-23-wu-yi-japan, b18-bbc-2006-12-15-wu-yi-sed, b18-cnn-2006-12-14-wu-yi-sed]
+    - h: 裸退
+      from: 2007
+      to: 2026
+      text: >-
+        2007 年 10 月十七大她退出中央委员会。同年 12 月，她宣布在 2008 年两会后完全退休，不再担任官方、半官方或群众团体的任何职务，称之为“裸退”，希望人们“完全把我忘记”。美国之音报道，她透露自己年收入 12 万元人民币，经济学家杨帆说她没有结婚，没有子女。2008 年 3 月卸任副总理。
+        此后她极少露面。2026 年 8 月 17 日江泽民百年诞辰大会上，星岛日报报道 87 岁的她坐在主席台上，头发花白。
+      cites: [c01-people-2013-02-26-wu-yi, b18-people-2008-03-17-wu-yi-retires, b18-voa-2007-12-25-wu-yi-naked-retire, b18-singtao-2026-08-18-jiang-centenary]
+  assess:
+    - voice: official
+      quote: true
+      text: 她给外界留下坚韧、强硬、果敢，而又不失机敏、开放、透明的刚柔相济、明快干练的形象
+      cite: b18-chinanews-2003-04-28-wu-yi-sars
+    - voice: west
+      quote: true
+      text: Like an impatient schoolmistress, she opened this historic gathering with a lecture.
+      zh: 她像一位不耐烦的女校长，用一堂课为这场历史性会晤开场。
+      cite: b18-cnn-2006-12-14-wu-yi-sed
+    - voice: zh
+      quote: true
+      text: 对这样的有能力、有特点、有个性的‘清官铁娘子’，让人们忘，人们也不会忘。
+      cite: b18-voa-2007-12-25-wu-yi-naked-retire
+    - voice: zh
+      quote: true
+      text: 外号“铁娘子”的吴仪得赞成票数最高。
+      cite: b18-bbc-2003-03-17-npc-cabinet
+  cites: [wd-Q50952, c01-people-2013-02-26-wu-yi, c01-gov-2018-03-19-state-council-history, v01-chinanews-2008-03-18-wu-yi, b18-chinanews-2003-04-28-wu-yi-sars, b18-people-2008-03-17-wu-yi-retires, b18-voa-2007-12-25-wu-yi-naked-retire, b18-cnn-2006-12-14-wu-yi-sed, b18-bbc-2006-12-15-wu-yi-sed, b18-bbc-2005-05-23-wu-yi-japan, b18-thepaper-2019-12-wto-48-hours, b18-singtao-2026-08-18-jiang-centenary]
+
+- id: zeng-peiyan
+  name: 曾培炎
+  pinyin: Zēng Péiyán
+  gender: m
+  ethnicity: 汉族
+  born: 1938-12-01
+  birthplace: 浙江绍兴
+  education:
+    - { school: 清华大学无线电电子学系, from: 1956-09, to: 1962-09 }
+  joinedParty: 1978-09
+  joinedWork: 1962-09
+  roles: [pb, cc, minister]
+  status: retired
+  statusNote: 2007 年十七大退出政治局，2008 年 3 月卸任副总理；2009–2024 年任中国国际经济交流中心理事长。2026 年 8 月出席江泽民百年诞辰纪念大会（星岛日报）。
+  tier: 1
+  headline: 国务院副总理（2003–2008）、国家发展计划委员会主任（1998–2003）
+  ids: { wikidata: Q189517 }
+  bio: >-
+    浙江绍兴人，清华无线电电子学系毕业，1962 年分到上海电器科学研究所当技术员，“他是主管科研的副所长，我是技术员”——他这样回忆江泽民。此后在西安整流器研究所工作十七年，1982 年起在驻美使馆商务处任职，1984 年回国进电子工业部，后来与江泽民在电子部共事。
+    1992 年起在中央财经领导小组和国家计委任职，1998–2003 年任国家发展计划委员会主任，兼管西部开发和信息化。2002 年进入政治局，2003–2008 年任副总理。退休后任中国国际经济交流中心首任理事长。海外媒体称他是江泽民的心腹（传闻）。
+  positions:
+    - { title: 驻美国大使馆商务参赞处二等秘书、一等秘书, sys: gov, from: 1982-01, to: 1984-08, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 电子工业部办公厅主任、计划建设司司长, sys: gov, from: 1984-08, to: 1987-04, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 电子工业部副部长, sys: gov, from: 1987-04, to: 1988-05, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 机械电子工业部副部长, sys: gov, from: 1988-05, to: 1992-12, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 国家计委副主任, sys: gov, from: 1992-12, to: 1998-03, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 国家发展计划委员会主任, sys: gov, from: 1998-03, to: 2003-03, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 国务院西部开发领导小组办公室主任, sys: gov, from: 2000-01, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 中央政治局委员, sys: party, from: 2002-11, to: 2007-10, cite: c01-chinanews-2002-11-16-zeng-peiyan }
+    - { title: 国务院副总理, sys: gov, from: 2003-03, to: 2008-03, cite: c01-gov-2018-03-19-state-council-history }
+    - { title: 中国国际经济交流中心理事长, sys: other, from: 2009-03, to: 2024-03, cite: b18-chinanews-2009-03-20-zeng-cciee }
+  factions:
+    - f: jiang-shanghai
+      cite: b18-epoch-2014-08-17-zeng-qiushi
+      quote: 曾培炎是江泽民长期以来的心腹
+      rank: core
+      rankQuote: 曾培炎是江泽民长期以来的心腹
+  life:
+    - h: 清华与上海电科所
+      from: 1938
+      to: 1965
+      text: >-
+        1938 年 12 月生于浙江绍兴。1956 年 9 月进清华大学无线电电子学系，1962 年 9 月毕业分到一机部上海电器科学研究所，任技术员、课题组组长。他 2010 年回忆：“1962年，我和江泽民同志同一年到上海电器科学研究所工作，他是主管科研的副所长，我是技术员。”当年江 36 岁，他 23 岁，接触有限。据大纪元（传闻），江泽民当时刚从长春第一汽车制造厂动力分厂厂长调任该所副所长。1964 年 10 月他调往西安开关整流器厂，到整流器研究室当技术员。
+      cites: [c01-chinanews-2002-11-16-zeng-peiyan, c01-ce-2010-04-26-zeng-peiyan-on-jiang, b18-epoch-2014-08-17-zeng-qiushi]
+    - h: 西安、华盛顿与电子部
+      from: 1965
+      to: 1992
+      text: >-
+        1965 年 12 月至 1982 年 1 月在一机部西安整流器研究所，从组长做到研究室副主任、副总工程师，1978 年 9 月入党。1982 年起任驻美国大使馆商务参赞处二秘、一秘。1984 年 8 月回国任电子工业部办公厅主任、计划建设司司长，1987 年 4 月升副部长，1988 年机构合并后任机械电子工业部副部长。
+        他在回忆文章中说，离开电科所后“我们也曾一起在电子部共事”。
+      cites: [c01-chinanews-2002-11-16-zeng-peiyan, b18-chinanews-2010-04-26-zeng-on-jiang]
+    - h: 计委与西部开发
+      from: 1992
+      to: 2002
+      text: >-
+        1992 年 12 月任中央财经领导小组副秘书长（正部长级）、国家计委副主任，1994 年 8 月起兼财经领导小组办公室主任。1997 年 10 月他陪同江泽民访美。1998 年 3 月国务院机构改革后任国家发展计划委员会主任、党组书记，5 月兼国务院三峡工程建设委员会副主任，2000 年 1 月兼国务院西部开发领导小组办公室主任，2001 年起兼任国家信息化领导小组副组长、国务院信息化工作办公室主任。
+      cites: [c01-chinanews-2002-11-16-zeng-peiyan, b18-chinanews-2010-04-26-zeng-on-jiang]
+    - h: 入局与车祸
+      from: 2002
+      to: 2003
+      text: >-
+        2002 年 11 月十六大当选政治局委员；詹姆斯敦基金会《中国简报》指出，这届政治局只有三人出自国务院：吴仪、罗干和他。
+        2003 年 1 月底，他冒着零下二十多度的严寒走访东北 8 个矿区和工厂，在去哈尔滨途中遇车祸受伤。一个多月后他在全国人大会议上作报告，中国青年报记一位哈尔滨代表说：“看到他气色很好，我们放心了。”这篇报道还说他被称为“中国最大的经济管家”。3 月人大选举副总理，BBC 中文记录他得 2867 张赞成票、53 张反对票。
+      cites: [b18-jamestown-2002-12-anti-jiang-backlash, b18-cyol-2003-03-07-zeng-peiyan, b18-bbc-2003-03-17-npc-cabinet]
+    - h: 副总理
+      from: 2003
+      to: 2008
+      text: >-
+        2003–2008 年任温家宝内阁的四位副总理之一，另三位是黄菊、吴仪、回良玉。据看中国转述港媒（传闻），他分管工业。2005 年 7 月 12 日，他在国家发改委主办的中国改革论坛上提出深化改革的六项重点，“一是加快行政管理体制改革，切实转变政府职能”，其余依次是完善基本经济制度、建设现代市场体系、金融体制改革、财税投资体制改革和城乡区域协调发展的体制。
+        2007 年 10 月十七大他退出政治局，2008 年 3 月卸任副总理，同年 8 月以退休领导人身份出席北京奥运会开幕式。
+      cites: [c01-gov-2018-03-19-state-council-history, f06-secretchina-2003-03-09-hua-jianmin, e01-cpc-dsj-2005, e02-consulate-2008-08-08-olympics]
+    - h: 国经中心与晚年
+      from: 2009
+      to: 2026
+      text: >-
+        2009 年 3 月 20 日，中国国际经济交流中心召开首届理事会，他当选理事长；他说政府宏观调控和企业跨国经营面临越来越复杂的国际环境，“这也是对各国智库谋划能力的考验”。2014 年 8 月他在《求是》发表纪念邓小平诞辰 110 周年的文章，称邓小平理论是“马克思主义中国化的典范”，号召“紧密团结在以习近平同志为总书记的党中央周围”；大纪元（传闻）把这篇文章解读为向习近平表忠心。
+        澎湃新闻 2024 年 3 月报道，毕井泉已接任理事长，他是该中心首任理事长。2026 年 8 月 17 日他出席江泽民百年诞辰大会，星岛日报记他在退休副国级领导人之列。
+      cites: [b18-chinanews-2009-03-20-zeng-cciee, b18-people-2014-08-15-zeng-qiushi, b18-epoch-2014-08-17-zeng-qiushi, b18-thepaper-2024-03-25-bi-jingquan-cciee, b18-singtao-2026-08-18-jiang-centenary]
+  assess:
+    - voice: official
+      quote: true
+      text: 曾培炎被称为“中国最大的经济管家”、“中国智囊团首席”
+      cite: b18-cyol-2003-03-07-zeng-peiyan
+    - voice: scholar
+      quote: true
+      text: only three ministers from the State Council, or central government apparatus, made it to the Politburo
+      zh: 只有三名国务院（中央政府）的部长级官员进入了政治局。
+      cite: b18-jamestown-2002-12-anti-jiang-backlash
+    - voice: zh
+      quote: true
+      text: 尽管他与曾庆红没有亲戚关系，但两人经常被合称为“江的二曾”。
+      cite: b18-epoch-2014-08-17-zeng-qiushi
+  cites: [wd-Q189517, c01-chinanews-2002-11-16-zeng-peiyan, c01-ce-2010-04-26-zeng-peiyan-on-jiang, c01-gov-2018-03-19-state-council-history, b18-chinanews-2010-04-26-zeng-on-jiang, b18-cyol-2003-03-07-zeng-peiyan, b18-chinanews-2009-03-20-zeng-cciee, b18-jamestown-2002-12-anti-jiang-backlash, b18-bbc-2003-03-17-npc-cabinet, b18-thepaper-2024-03-25-bi-jingquan-cciee, b18-epoch-2014-08-17-zeng-qiushi]

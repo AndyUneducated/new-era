@@ -1,0 +1,118 @@
+# B18: person id → quotes. Every text is checked verbatim against its cite.
+li-ruihuan:
+  - text: 我这样一个农民的孩子，一个普通的木匠，能在领导岗位工作这么长时间，能被提拔到这么高的职位，是党和人民培养的结果，是社会主义制度的产物。
+    cite: b18-banyuetan-2010-07-06-li-farewell
+    kind: public
+    date: 2002-11-22
+    occasion: 九届全国政协常委会第十九次会议闭幕时的告别讲话（后作《务实求理》代序）
+    star: true
+  - text: 其实对我来讲，退下来是一种解脱。地位高高，贡献小小，责任重大，常感不安。
+    cite: b18-banyuetan-2010-07-06-li-farewell
+    kind: public
+    date: 2002-11-22
+    occasion: 同上
+  - text: 如果我祝你们身体健康，是不是指你们的身体就不健康呢？
+    cite: b18-hqrw-2012-11-26-li-ruihuan
+    kind: adlib
+    date: 2000-11
+    occasion: 访问香港时反问追问祝词含义的记者（《环球人物》转述）
+  - text: 新闻报道必须坚持以正面宣传为主的方针
+    cite: e01-cpc-dsj-1989
+    kind: public
+    date: 1989-11-25
+    occasion: 中宣部举办的全国省、市、自治区党报总编辑新闻工作研讨班
+  - text: 人民政协是我国社会主义民主政治建设的一大创造、一大特色
+    cite: e01-cpc-dsj-1994
+    kind: public
+    date: 1994-09-21
+    occasion: 人民政协成立 45 周年
+
+li-lanqing:
+  - text: 高校大幅度地扩招是客观的必然，也是民心所向，势在必行。
+    cite: b18-chinanews-2003-12-11-li-lanqing-expansion
+    kind: interview
+    date: 2003-12
+    occasion: 《李岚清教育访谈录》（中新网转述）
+    star: true
+  - text: 第一点，中国对于加入世贸组织的态度是积极的，我们为此进行了十一年的谈判，我们参加了乌拉圭回合谈判的全部过程，并签署了最后的一揽子协议。
+    cite: b01-chinaqw-1998-03-19-zhu-presser
+    kind: interview
+    date: 1998-03-19
+    occasion: 九届人大一次会议后朱镕基总理的中外记者招待会
+  - text: 让篆刻艺术跟进时代步伐，贴近大众，走向现实生活，雅俗共赏，更好地传播中华优秀文化。
+    cite: b18-cflac-2011-05-30-li-lanqing-seal
+    kind: public
+    date: 2011-05
+    occasion: 篆刻书法艺术展
+  - text: 我曾刻过一方印章，叫‘游心印外’
+    cite: b18-cflac-2011-05-30-li-lanqing-seal
+    kind: public
+    date: 2011-05
+    occasion: 篆刻书法艺术展
+
+wei-jianxing:
+  - text: 领导干部手中的权力只能用来为人民谋利益，绝不能把它当作自己的家庭成员谋取私利的手段。
+    cite: b18-people-2015-08-07-wei-death
+    kind: public
+    date: 2002-03-12
+    occasion: 九届全国人大五次会议期间（人民网转述）
+    star: true
+  - text: 确实有亡党亡国危险
+    cite: b18-bjnews-2015-08-08-wei-cases
+    kind: public
+    date: 1995
+    occasion: 在北京通报王宝森案时谈反腐败（新京报转述）
+  - text: 以党的十五大精神为指导，加大工作力度，深入开展反腐败斗争
+    cite: e01-cpc-dsj-1998
+    kind: public
+    date: 1998-01
+    occasion: 中纪委第二次全会工作报告标题
+
+wu-yi:
+  - text: 我们是在和强盗谈判，请看看你们博物馆的展品里，有多少是从中国抢来的。
+    cite: b18-chinanews-2003-04-28-wu-yi-sars
+    kind: adlib
+    occasion: 中美谈判中回应美方“我们是在和小偷谈判”（中新网转述；场合说法不一，澎湃新闻置于复关、入世谈判年代）
+    star: true
+  - text: 按中国人的生肖,我属虎,虎口就在我自己脸上,所以不怕入虎口。
+    cite: b18-people-2008-03-17-wu-yi-retires
+    kind: public
+    occasion: 后来的一次演讲中回忆 1991 年临时替补赴美谈判（人民网转述）
+  - text: 小女子受命于危难之中
+    cite: b18-chinanews-2003-04-28-wu-yi-sars
+    kind: adlib
+    date: 2003-04
+    occasion: 受命主持防治非典（中新网转述）
+  - text: 我将在明年‘两会’后完全退休。我这个退休叫‘裸退’
+    cite: b18-people-2008-03-17-wu-yi-retires
+    kind: public
+    date: 2007-12
+    occasion: 中国国际商会会员代表大会
+  - text: 因为众所周知的原因，(两国的)政治关系不理想，与两国的根本利益不相称。
+    cite: b18-bbc-2005-05-23-wu-yi-japan
+    kind: public
+    date: 2005-05-23
+    occasion: 访日期间在东京的论坛上，随后取消与小泉纯一郎的会见
+  - text: 多年来，我们在与美国朝野和社会各界交往中深深感受到，一些美国朋友对中国的实际情况不仅知之不多，而且误解不少
+    cite: b18-bbc-2006-12-15-wu-yi-sed
+    kind: public
+    date: 2006-12-14
+    occasion: 首次中美战略经济对话开幕演讲
+
+zeng-peiyan:
+  - text: 1962年，我和江泽民同志同一年到上海电器科学研究所工作，他是主管科研的副所长，我是技术员。
+    cite: c01-ce-2010-04-26-zeng-peiyan-on-jiang
+    kind: public
+    date: 2010-04
+    occasion: 回忆江泽民的文章
+    star: true
+  - text: 政府宏观调控和企业跨国经营面临着越来越复杂的国际环境，这也是对各国智库谋划能力的考验。
+    cite: b18-chinanews-2009-03-20-zeng-cciee
+    kind: public
+    date: 2009-03-20
+    occasion: 中国国际经济交流中心首届理事会，当选理事长
+  - text: 紧密团结在以习近平同志为总书记的党中央周围
+    cite: b18-people-2014-08-15-zeng-qiushi
+    kind: public
+    date: 2014-08
+    occasion: 《求是》纪念邓小平诞辰 110 周年文章

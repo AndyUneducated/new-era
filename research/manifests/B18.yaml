@@ -1,0 +1,265 @@
+# B18: sources for the full biographies of Li Ruihuan, Li Lanqing, Wei Jianxing, Wu Yi, Zeng Peiyan.
+web:
+  # --- Li Ruihuan ---
+  - id: b18-bbcen-2002-11-14-li-retires
+    title: "Chinese reformer 'retires' early"
+    publisher: BBC News
+    date: 2002-11-14
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/2/hi/asia-pacific/2473723.stm
+    excerpt: true
+    keep: [ "appears to have been forced into early retirement", "fall from power appeared to be part of an attempt", "widely seen as a liberal", "insistence on using the informal", "held phone-in programmes", "seen Mr Li as a threat" ]
+  - id: b18-bbcen-2002-li-ruihuan-profile
+    title: "Leadership changes: Li Ruihuan"
+    publisher: BBC News
+    date: 2002-11
+    voice: west
+    lang: en
+    url: http://news.bbc.co.uk/2/shared/spl/hi/asia_pac/02/china_party_congress/leadership_changes/html/li_ruihuan.stm
+    excerpt: true
+    keep: [ "worked on the Great Hall of the People", "His wife remained a factory worker", "ultimate goal of reform", "liberal views which led to him", "joined the Communist Party in 1969", "posts which he held until 1997" ]
+  - id: b18-banyuetan-2010-07-06-li-farewell
+    title: 让时光给我们留下美好的回忆（李瑞环 2002 年 11 月 22 日在全国政协常委会上的讲话）
+    publisher: 半月谈网
+    date: 2010-07-06
+    voice: official
+    url: http://www.banyuetan.org/chcontent/wh/pd/201076/36568.shtml
+    excerpt: true
+    keep: [ "编者按：此文是李瑞环同志", "中央决定我从领导岗位上退下来", "我这样一个农民的孩子", "对中央要我从领导岗位退下来的意见" ]
+  - id: b18-hqrw-2012-11-26-li-ruihuan
+    title: 李瑞环（环球人物·卸任领导人群像）
+    publisher: 环球人物（人民日报社）
+    date: 2012-11-26
+    voice: official
+    url: http://paper.people.com.cn/hqrw/html/2012-11/26/content_1148168.htm
+    excerpt: true
+    keep: [ "宜兴紫砂小茶壶", "李瑞环考察香港时" ]
+  - id: b18-nybooks-2002-09-26-gilley-nathan
+    title: "China's New Rulers: The Path to Power"
+    publisher: The New York Review of Books
+    author: Bruce Gilley, Andrew J. Nathan
+    date: 2002-09-26
+    voice: scholar
+    lang: en
+    url: https://www.nybooks.com/articles/2002/09/26/chinas-new-rulers-the-path-to-power/
+    excerpt: true
+    keep: [ "unusually colorful language", "the most vocal advocate of Jiang", "tried to force his chief rival" ]
+  - id: b18-voa-2003-03-13-jia-qinglin
+    title: China Promotes Official Involved in High Profile Corruption Case
+    publisher: VOA
+    date: 2003-03-13
+    voice: west
+    lang: en
+    url: https://www.voanews.com/a/a-13-a-2003-03-13-49-china-66846262/375548.html
+    excerpt: true
+    keep: [ "replacing the reformist Li Ruihuan" ]
+  # --- Li Lanqing ---
+  - id: b18-chinanews-2003-12-11-li-lanqing-expansion
+    title: 中国“高校扩招”的背后：决策缘于四个方面考虑
+    publisher: 中国新闻网
+    date: 2003-12-11
+    voice: official
+    url: http://www.chinanews.com.cn/n/2003-12-11/26/379738.html
+    start: 中新网12月11日电
+    end: 大众化的发展阶段。
+  - id: b18-jamestown-2011-11-610-office
+    title: "The 610 Office: Policing the Chinese Spirit"
+    publisher: Jamestown Foundation, China Brief
+    author: Sarah Cook, Leeshai Lemish
+    date: 2011-11
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/the-610-office-policing-the-chinese-spirit/
+    excerpt: true
+    keep: [ "placed under the responsibility of Politburo Standing Committee member Li Lanqing", "after Li Lanqing retired in 2003", "functions outside the state system" ]
+  - id: b18-chinanews-2007-04-15-li-lanqing-seal
+    title: 专家评李岚清篆刻：内容贴近现实 用行动诠释文化
+    publisher: 中国新闻网
+    date: 2007-04-15
+    voice: official
+    url: http://www.chinanews.com.cn/cul/news/2007/04-15/915921.shtml
+    excerpt: true
+    keep: [ "以71岁高龄", "71岁的老人照样可以学篆刻" ]
+  - id: b18-cflac-2011-05-30-li-lanqing-seal
+    title: 中国印：从象牙塔走向大众，走进新时代
+    publisher: 中国文艺网（中国文联）
+    date: 2011-05-30
+    voice: official
+    url: http://www.cflac.org.cn/shufa/2011-05/30/content_22891802.htm
+    excerpt: true
+    keep: [ "让篆刻艺术跟进时代步伐", "包罗万象的百科大全", "游心印外" ]
+  - id: b18-ifeng-2013-06-22-li-lanqing-faw
+    title: 一汽与领导人故事之李岚清
+    publisher: 凤凰网汽车
+    date: 2013-06-22
+    voice: official
+    url: https://web.archive.org/web/2016/http://biz.ifeng.com/auto/special/automobile.industry/index17.shtml
+    excerpt: true
+    keep: [ "与江泽民类似，李岚清也是从一汽集团走出来", "离开一汽后，李岚清调任第一机械工业部" ]
+  # --- Wei Jianxing ---
+  - id: b18-bbc-2015-08-07-wei-death
+    title: 前中共纪委书记尉健行逝世
+    publisher: BBC 中文
+    date: 2015-08-07
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/08/150807_weijianxing_death
+    excerpt: true
+    keep: [ "乔石在上海光华附中的校友", "曾长期在乔石领导下工作", "沈阳慕马大案" ]
+  - id: b18-chinanews-2015-08-07-wei-ccdi
+    title: 尉健行主政中纪委十年 曾领导查办成克杰等腐败大案
+    publisher: 中国新闻网
+    date: 2015-08-07
+    voice: official
+    url: http://www.chinanews.com/gn/2015/08-07/7455021.shtml
+    excerpt: true
+    keep: [ "共有41名省部级官员受到查处", "首个因腐败被判死刑的国家领导人", "在东北的三十年" ]
+  - id: b18-people-2015-08-07-wei-death
+    title: 尉健行同志逝世 曾领导查办成克杰等案
+    publisher: 人民网
+    date: 2015-08-07
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0807/c1001-27428758.html
+    excerpt: true
+    keep: [ "领导干部手中的权力只能用来为人民谋利益", "尉健行谈工会工作" ]
+  - id: b18-bjnews-2015-08-08-wei-cases
+    title: 中纪委原书记尉健行逝世
+    publisher: 新京报（凤凰网转载）
+    date: 2015-08-08
+    voice: official
+    url: http://news.ifeng.com/a/20150808/44377418_0.shtml
+    excerpt: true
+    keep: [ "查处的大要案包括", "确实有亡党亡国危险", "王宝森自尽", "配合中央审查陈希同的经济问题", "省部级" ]
+  # --- Wu Yi ---
+  - id: b18-chinanews-2003-04-28-wu-yi-sars
+    title: 吴仪“小女子受命于危难” 抗非典是天大的事
+    publisher: 中国新闻网
+    date: 2003-04-28
+    voice: official
+    url: https://www.chinanews.com/n/2003-04-28/26/298494.html
+    excerpt: true
+    keep: [ "中国的铁娘子", "小女子受命于危难之中", "我们是在和强盗谈判" ]
+  - id: b18-people-2008-03-17-wu-yi-retires
+    title: “铁娘子”吴仪今日隐退：仕途五章 重温那些感人的经典瞬间
+    publisher: 人民网（南方日报稿）
+    date: 2008-03-17
+    voice: official
+    url: http://cpc.people.com.cn/GB/64093/82429/83084/7006416.html
+    excerpt: true
+    keep: [ "虎口就在我自己脸上", "团长突然患病", "当卫生部部长", "完全把我忘记" ]
+  - id: b18-voa-2007-12-25-wu-yi-naked-retire
+    title: 离任中国副总理吴仪称将“裸退”
+    publisher: 美国之音
+    date: 2007-12-25
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-w2007-12-25-voa32-58445472/1087853.html
+    excerpt: true
+    keep: [ "希望人们把她完全忘记", "吴仪透露她年收入", "中美经贸对话等过程方面" ]
+  - id: b18-cnn-2006-12-14-wu-yi-sed
+    title: China pushes back against Paulson
+    publisher: Fortune (CNNMoney)
+    date: 2006-12-14
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2007/https://money.cnn.com/2006/12/14/news/international/pluggedin.china2.fortune/index.htm
+    excerpt: true
+    keep: [ "Like an impatient schoolmistress", "she repeated six times" ]
+  - id: b18-bbc-2006-12-15-wu-yi-sed
+    title: 吴仪：战略对话有助“增信释疑”
+    publisher: BBC 中文
+    date: 2006-12-15
+    voice: zh
+    url: https://newsimg.bbc.co.uk/chinese/simp/hi/newsid_6180000/newsid_6181700/6181741.stm
+    excerpt: true
+    keep: [ "保尔森", "吴仪" ]
+  - id: b18-thepaper-2019-12-wto-48-hours
+    title: 1999，中美逆转的48小时
+    publisher: 澎湃新闻
+    date: 2019-12
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_3421737
+    excerpt: true
+    keep: [ "吴仪怒斥的那句", "吴仪愤怒的说", "吴仪与她的老对手巴尔舍夫斯基" ]
+  - id: b18-bbc-2005-05-23-wu-yi-japan
+    title: 中国批小泉表态 吴仪提前返京
+    publisher: BBC 中文
+    date: 2005-05-23
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4570000/newsid_4571900/4571973.stm
+    excerpt: true
+    keep: [ "突然取消了原定与小泉首相的会晤", "我不理解为什么现在要取消", "因为众所周知的原因", "处理一项紧急公务", "每年都参拜供奉" ]
+  # --- Zeng Peiyan ---
+  - id: b18-cyol-2003-03-07-zeng-peiyan
+    title: 曾培炎：13亿人的大管家
+    publisher: 中国青年报
+    date: 2003-03-07
+    voice: official
+    url: http://zqb.cyol.com/content/2003-03/07/content_623790.htm
+    excerpt: true
+    keep: [ "车祸", "大管家" ]
+  - id: b18-chinanews-2010-04-26-zeng-on-jiang
+    title: 曾培炎：敏慧好学、才华出众的好所长江泽民（中新网版）
+    publisher: 中国新闻网（摘自《青年江泽民在上海》）
+    date: 2010-04-26
+    voice: witness
+    url: http://www.chinanews.com.cn/cul/news/2010/04-26/2246308.shtml
+    excerpt: true
+    keep: [ "后来我们也曾一起在电子部共事", "我陪同江泽民同志在美国进行国事访问" ]
+  - id: b18-chinanews-2009-03-20-zeng-cciee
+    title: 原国务院副总理曾培炎出任中国一个新智库理事长
+    publisher: 中国新闻网
+    date: 2009-03-20
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2009/03-20/1611471.shtml
+    start: 中新社北京三月二十日电
+    end: 著名经济学家和企业家。
+  - id: b18-bbc-2003-03-17-npc-cabinet
+    title: 中国人大选出新“内阁”
+    publisher: BBC 中文
+    date: 2003-03-17
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_2856000/28569791.stm
+    excerpt: true
+    keep: [ "曾培炎，赞成2867票", "吴仪，赞成2907票", "与江泽民很亲近的黄菊" ]
+  - id: b18-epoch-2014-08-17-zeng-qiushi
+    title: 曾培炎《求是》对习表忠心 江派集体恐慌
+    publisher: 大纪元
+    date: 2014-08-17
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/14/8/17/n4226791.htm
+    excerpt: true
+    keep: [ "曾培炎是江泽民长期以来的心腹", "比他年长12岁的江泽民" ]
+  - id: b18-people-2014-08-15-zeng-qiushi
+    title: 曾培炎：重温邓小平理论 开创改革发展新局面（《求是》）
+    publisher: 人民网（《求是》）
+    date: 2014-08-15
+    voice: official
+    url: http://theory.people.com.cn/n/2014/0815/c49150-25471738.html
+    excerpt: true
+    keep: [ "今年是中国改革开放总设计师邓小平同志诞辰110周年", "邓小平理论是马克思主义中国化的典范" ]
+  - id: b18-thepaper-2024-03-25-bi-jingquan-cciee
+    title: 毕井泉已任中国国际经济交流中心理事长
+    publisher: 澎湃新闻
+    date: 2024-03-25
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_26804781
+    excerpt: true
+    keep: [ "毕井泉已经担任中国国际经济交流中心理事长一职" ]
+  - id: b18-singtao-2026-08-18-jiang-centenary
+    title: 江泽民百年诞辰纪念大会元老出席情况（星岛日报美西版第 7 版）
+    publisher: 星岛日报
+    date: 2026-08-18
+    voice: zh
+    url: https://epaper.singtaousa.com/flippingbook/epaper_sf/2026/20260818/7/
+    excerpt: true
+    keep: [ "鐵娘子", "曾培炎" ]
+  - id: b18-jamestown-2002-12-anti-jiang-backlash
+    title: Signs of an Anti-Jiang Backlash Are Growing
+    publisher: Jamestown Foundation, China Brief
+    date: 2002-12
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/program/signs-of-an-anti-jiang-backlash-are-growing/
+    excerpt: true
+    keep: [ "only three ministers from the State Council" ]
