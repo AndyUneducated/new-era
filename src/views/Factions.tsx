@@ -7,6 +7,7 @@ import { FrameFlow } from '../components/FrameFlow'
 import { MediaSplit } from '../components/MediaSplit'
 import { Overlap } from '../components/Overlap'
 import { FRAMES, type Frame } from '../data/schema'
+import { outlet } from '../lib/outlet'
 import { factionHref } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -46,7 +47,7 @@ export function Factions() {
         {list.map((f) => {
           const tagged = a.members.get(f.id) ?? []
           const ids = [...new Set([...f.core, ...tagged.map((m) => m.p.id)])]
-          const outlets = new Set(tagged.map((m) => a.source.get(m.tag.cite.split('@')[0])?.publisher).filter(Boolean))
+          const outlets = new Set(tagged.flatMap((m) => a.source.get(m.tag.cite.split('@')[0])?.publisher ?? []).map(outlet))
           return (
             <a key={f.id} className="card fcard" href={factionHref(f.id)}>
               <span className="bar" style={{ background: f.color }} />

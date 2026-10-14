@@ -4,6 +4,7 @@ import { useMemo, useState } from 'react'
 import type { PersonR } from '../data/db'
 import type { Faction, FactionTag, Frame } from '../data/schema'
 import { shortName } from '../lib/faction'
+import { outlet } from '../lib/outlet'
 import { quoted } from '../lib/quotes'
 import { personHref } from '../lib/router'
 import { useAtlas } from '../state'
@@ -24,8 +25,9 @@ export function MediaSplit({ frame }: { frame: Frame }) {
       const by = new Map<string, { f: Faction; t: FactionTag }[]>()
       for (const t of p.factions) {
         const f = a.faction.get(t.f)
-        const pub = a.source.get(t.cite.split('@')[0])?.publisher
-        if (!f || f.frame !== frame || !pub) continue
+        const printed = a.source.get(t.cite.split('@')[0])?.publisher
+        if (!f || f.frame !== frame || !printed) continue
+        const pub = outlet(printed)
         by.set(pub, [...(by.get(pub) ?? []).filter((x) => x.f.id !== f.id), { f, t }])
       }
       if (by.size < 2) continue
