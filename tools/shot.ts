@@ -22,6 +22,11 @@ for (const r of routes.length ? routes : ['']) {
   await page.goto(`http://localhost:4189/#/${r}`)
   await page.waitForSelector('.main', { timeout: 20000 }).catch(() => errors.push(`${r}: no .main`))
   await page.waitForTimeout(1200)
+  // --click=".seg button:nth-child(3)" clicks before the shot (Playwright selectors, | between several)
+  for (const sel of args.find((a) => a.startsWith('--click='))?.slice(8).split('|') ?? []) {
+    await page.locator(sel).first().click()
+    await page.waitForTimeout(1500)
+  }
   const name = `${(r || 'home').replace(/[/?=&]/g, '_')}${dark ? '-dark' : ''}${phone ? '-phone' : ''}.png`
   if (el) await page.locator(el).first().screenshot({ path: `${out}/${name}` })
   else await page.screenshot({ path: `${out}/${name}`, fullPage: args.includes('--full') })

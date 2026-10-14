@@ -1,6 +1,12 @@
-import { PersonChip, Portrait, Prose, Section, Src, Srcs, Status, VoiceTag } from '../components/bits'
+import { PersonChip, Portrait, Prose, RumorMark, Section, Src, Srcs, Status, VoiceTag } from '../components/bits'
 import { SeatShare } from '../components/charts'
-import { FRAMES, VOICES, type Voice } from '../data/schema'
+import { CoWork } from '../components/CoWork'
+import { Galaxy } from '../components/Galaxy'
+import { OriginMap } from '../components/OriginMap'
+import { PatronTree } from '../components/PatronTree'
+import { Rise } from '../components/Rise'
+import { FRAMES, RANKS, VOICES, type Voice } from '../data/schema'
+import { centre, membersOf, RING_ORDER } from '../lib/faction'
 import { short, span } from '../lib/dates'
 import { quoted } from '../lib/quotes'
 import { eventHref, factionHref, href, personHref } from '../lib/router'
@@ -21,7 +27,10 @@ export function FactionPage({ id }: { id: string }) {
   const byPerson = new Map<string, typeof tagged>()
   for (const m of tagged) byPerson.set(m.p.id, [...(byPerson.get(m.p.id) ?? []), m])
   const core = f.core.filter((c) => a.person.has(c))
-  const order = [...new Set([...core, ...tagged.map((m) => m.p.id)])]
+  const ranked = membersOf(a, f)
+  const rankOf = new Map(ranked.map((m) => [m.p.id, m]))
+  const ringIx = (id: string) => (id === centre(f) ? -1 : RING_ORDER.indexOf(rankOf.get(id)?.rank ?? 'periphery'))
+  const order = [...new Set([...(f.patron && a.person.has(f.patron) ? [f.patron] : []), ...core, ...tagged.map((m) => m.p.id)])].sort((x, y) => ringIx(x) - ringIx(y))
   const voiceCount = new Map<Voice, number>()
   for (const m of tagged) {
     const v = a.source.get(m.tag.cite.split('@')[0])?.voice
@@ -74,6 +83,10 @@ export function FactionPage({ id }: { id: string }) {
         </div>
       </section>
 
+      <Section title="派系星系" note="恩主居中，向外依次是元老、核心、骨干、外围；拖动年份看当年谁在任、谁已落马。分层有来源原句的注明，没有的标“编者归类”">
+        <Galaxy f={f} />
+      </Section>
+
       <div className="pbody">
         <div style={{ minWidth: 0 }}>
           <Section title="概述">
@@ -97,11 +110,28 @@ export function FactionPage({ id }: { id: string }) {
             </Section>
           )}
 
-          <Section title="成员" note="核心人物在前；每人附上作出判断的来源原句">
+          <Section title="提携树" note="谁提拔了谁、谁当过谁的秘书；没有记载的成员按履历推算同地任职">
+            <PatronTree f={f} />
+          </Section>
+
+          <Section title="共事泳道" note="每人一条：灰色为各项职务，派系色为与中心人物同在一省任职的年份">
+            <CoWork f={f} />
+          </Section>
+
+          <Section title="兴衰曲线" note="本派成员历年在政治局、中央委员会与省级主官中的人数">
+            <Rise f={f} />
+          </Section>
+
+          <Section title="发迹地图" note="成员任过职的省份，以及中心人物的任职路线">
+            <OriginMap f={f} />
+          </Section>
+
+          <Section title="成员" note="按分层排列；每人附上作出判断的来源原句">
             <div className="members">
               {order.map((pid) => {
                 const p = a.person.get(pid)!
                 const tags = byPerson.get(pid) ?? []
+                const m = rankOf.get(pid)
                 return (
                   <div key={pid} className="card mcard">
                     <a href={personHref(pid)}>
@@ -111,10 +141,26 @@ export function FactionPage({ id }: { id: string }) {
                       <a href={personHref(pid)}>
                         <b>{p.name}</b>
                       </a>{' '}
-                      {core.includes(pid) && <span className="chip red" style={{ fontSize: 11 }}>核心</span>} <Status p={p} />
+                      {pid === f.patron ? (
+                        <span className="chip red" style={{ fontSize: 11 }}>恩主</span>
+                      ) : (
+                        m && (
+                          <span className={`chip rank ${m.rank}`} style={{ fontSize: 11 }} title={m.rankBy === 'source' ? '分层出自来源原句' : m.rankBy === 'editor' ? '编者归类' : '未标注分层，按最高职级暂放'}>
+                            {RANKS[m.rank]}
+                            {m.rankBy !== 'source' && <span className="muted">{m.rankBy === 'editor' ? ' · 编者' : ' · 暂'}</span>}
+                          </span>
+                        )
+                      )}{' '}
+                      <Status p={p} />
                       <div className="small muted">{p.headline}</div>
+                      {m?.rankTag?.rankQuote && (
+                        <div className="q small">
+                          {quoted(m.rankTag.rankQuote)} — <Src cite={m.rankTag.cite} />
+                        </div>
+                      )}
                       {tags.map(({ tag }, i) => (
                         <div key={i}>
+                          <RumorMark cite={tag.cite} />
                           {tag.quote && <div className="q">{quoted(tag.quote)}</div>}
                           {tag.zh && <div className="q muted">{tag.zh}</div>}
                           <div className="small">

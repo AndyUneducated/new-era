@@ -638,6 +638,56 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 
 .empty { padding: 40px; text-align: center; color: var(--muted); border: 1px dashed var(--rule-2); border-radius: var(--radius); }
 
+/* faction page visuals */
+.legend i.dotted, .legend i.dashed { background: transparent; border: 1.5px dotted var(--muted); }
+.legend i.dashed { border-style: dashed; border-radius: 0; height: 0; width: 18px; border-width: 1.5px 0 0; }
+.galaxy { overflow: hidden; background: radial-gradient(circle at 50% 46%, color-mix(in oklab, var(--gold) 9%, var(--card)), var(--card) 62%); }
+.galaxy svg { display: block; margin: 0 auto; width: 100%; max-width: 980px; max-height: 86vh; }
+.galaxy-bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin-bottom: 6px; }
+.galaxy-bar input[type='range'] { flex: 1; min-width: 160px; accent-color: var(--red); }
+.galaxy-year { font-family: var(--serif); font-size: 26px; min-width: 64px; text-align: right; }
+.gx-ring { font-size: 11px; letter-spacing: 0.3em; fill: var(--muted); font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 5px; }
+.gx-node { cursor: pointer; transition: opacity 0.35s, filter 0.35s; }
+.gx-node:hover, .gx-node:focus-visible { filter: drop-shadow(0 2px 6px color-mix(in oklab, var(--ink) 30%, transparent)); outline: none; }
+.gx-name, .pt-name { font-size: 11.5px; fill: var(--ink); font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 3px; stroke-linejoin: round; }
+.gx-hub-name { font-family: var(--serif); font-weight: 800; font-size: 16px; fill: var(--ink); paint-order: stroke; stroke: var(--card); stroke-width: 4px; }
+.ptree-scroll { overflow-x: auto; }
+.ptree svg { display: block; }
+.pt-edge { font-size: 10px; fill: var(--muted); font-family: var(--sans); }
+.cowork svg, .rise svg, .omap svg { display: block; }
+.cw-tick { font-size: 10.5px; fill: var(--muted); font-family: var(--mono); }
+.cw-name { font-size: 12px; fill: var(--ink-2); font-family: var(--sans); }
+.cw-name.hub { font-family: var(--serif); font-weight: 800; font-size: 13.5px; fill: var(--ink); }
+.cw-place { font-size: 10.5px; fill: var(--paper); font-family: var(--sans); pointer-events: none; }
+.cw-row { cursor: pointer; }
+.cw-row:hover .cw-name { fill: var(--red); }
+.cw-fall { fill: var(--red); font-size: 12px; font-weight: 700; }
+.rise-names { margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--rule-2); display: grid; gap: 4px; color: var(--ink-2); line-height: 1.6; }
+.rise-names b { color: var(--ink); margin-right: 6px; }
+.om-count { font-size: 11px; font-weight: 700; fill: var(--ink); font-family: var(--mono); paint-order: stroke; stroke: var(--card); stroke-width: 3px; }
+.om-hop { font-size: 10px; font-weight: 700; fill: var(--paper); font-family: var(--mono); }
+.omap path { transition: fill-opacity 0.2s; }
+.constellation svg, .overlap svg { display: block; width: 100%; margin: 0 auto; }
+.constellation svg { max-height: 88vh; }
+.overlap svg { max-width: 760px; }
+.cs-node { cursor: pointer; transition: transform 1.1s cubic-bezier(.6,.05,.25,1), opacity 0.4s; }
+.cs-halo { transition: transform 1.1s cubic-bezier(.6,.05,.25,1), r 1.1s, fill-opacity 0.3s, stroke-opacity 0.3s; }
+.cs-label { cursor: pointer; transition: transform 1.1s cubic-bezier(.6,.05,.25,1); }
+.cs-label text { font-family: var(--serif); font-weight: 800; font-size: 15px; paint-order: stroke; stroke: var(--card); stroke-width: 4px; stroke-linejoin: round; }
+.cs-n, .fl-n { font-family: var(--mono); font-size: 0.75em; font-weight: 400; fill: var(--muted); }
+.cs-name { font-size: 10px; fill: var(--ink); font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 3px; pointer-events: none; }
+.cs-rim { font-size: 11px; fill: var(--muted); letter-spacing: 0.15em; font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 4px; }
+.fl-band { transition: fill-opacity 0.2s; }
+.fl-node { cursor: default; }
+.fl-name { font-size: 12.5px; fill: var(--ink); font-family: var(--sans); }
+.ov-arc { cursor: pointer; }
+.ov-name { font-size: 12px; fill: var(--ink); font-family: var(--sans); }
+.ov-frame { font-size: 10.5px; fill: var(--gold); letter-spacing: 0.2em; font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 4px; pointer-events: none; }
+.overlap path { transition: fill-opacity 0.2s; }
+.chip.rank { border-color: transparent; background: var(--paper-2); }
+.chip.rank.elder { background: var(--gold-soft); color: var(--gold); }
+.chip.rank.core { background: var(--red-soft); color: var(--red); }
+
 /* ───────── phone ───────── */
 @media (max-width: 860px) {
   /* a backdrop filter would make the topbar the containing block of the fixed bottom nav */

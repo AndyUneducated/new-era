@@ -5,6 +5,7 @@ import type { Faction } from '../data/schema'
 import { go, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 import { Section, useTip } from './bits'
+import { Face } from './Face'
 
 type Kind = 'family' | 'faction' | 'event'
 interface Link { kind: Kind; text: string; color?: string }
@@ -144,21 +145,5 @@ function Graph({ p, nodes }: { p: PersonR; nodes: Node[] }) {
       </div>
       {tip.node}
     </div>
-  )
-}
-
-function Face({ p, r, clip }: { p: PersonR; r: number; clip: string }) {
-  const fallen = p.status === 'purged' || p.status === 'detained'
-  return (
-    <>
-      <circle r={r} fill="var(--card)" />
-      {p.photo?.src ? (
-        <image href={p.photo.src} x={-r} y={-r} width={r * 2} height={r * 2} clipPath={`url(#${clip})`} preserveAspectRatio="xMidYMin slice" style={{ filter: fallen ? 'grayscale(1)' : undefined }} />
-      ) : (
-        <text textAnchor="middle" dy="0.36em" fontSize={r * 0.8} fontFamily="var(--serif)" fontWeight={900} fill="var(--ink-2)">
-          {p.name.slice(0, 1)}
-        </text>
-      )}
-    </>
   )
 }

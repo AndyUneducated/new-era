@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import { Portrait, Section } from '../components/bits'
 import { AgeRule, SeatShare } from '../components/charts'
+import { Constellation } from '../components/Constellation'
+import { FrameFlow } from '../components/FrameFlow'
+import { Overlap } from '../components/Overlap'
 import { FRAMES, type Frame } from '../data/schema'
 import { factionHref } from '../lib/router'
 import { useAtlas } from '../state'
@@ -32,6 +35,10 @@ export function Factions() {
         ))}
       </div>
       <p className="muted" style={{ maxWidth: 760, fontSize: 13.5 }}>{FRAME_NOTE[frame]}</p>
+
+      <div className="card pad" style={{ marginTop: 14 }}>
+        <Constellation frame={frame} />
+      </div>
 
       <div className="fgrid" style={{ marginTop: 18 }}>
         {list.map((f) => {
@@ -67,6 +74,14 @@ export function Factions() {
         })}
         {!list.length && <div className="empty">此框架下暂无派系</div>}
       </div>
+
+      <Section title="框架之间的流向" note="同一批人，换一种分法会落到哪里：左边一种框架的派系，右边另一种">
+        <FrameFlow />
+      </Section>
+
+      <Section title="派系重叠" note="两个派系点名了多少相同的人">
+        <Overlap />
+      </Section>
 
       <Section title="政治局席位构成" note={`按「${FRAMES[frame].name}」给第十五至二十届政治局全体委员着色；一人有多个标签时取第一个`}>
         <div className="card pad">
