@@ -36,6 +36,11 @@
   --sys-other: #8b7f72;
 
   --v-doc: #4b413a;
+  --ism-core: #a3201c;
+  --ism-line: #b48728;
+  --ism-trend: #2f6f62;
+  --ism-foreign: #3d5a8a;
+  --ism-label: #7a4b80;
   --v-official: #a3201c;
   --v-history: #7a4b9e;
   --v-west: #2f5d8a;
@@ -96,6 +101,11 @@
   --sys-gov: #79a6ec;
   --sys-army: #9cc27a;
   --v-doc: #c9bba6;
+  --ism-core: #e0533f;
+  --ism-line: #d9b45a;
+  --ism-trend: #5fb3a0;
+  --ism-foreign: #7f9fd6;
+  --ism-label: #b98bc0;
   --v-official: #f07a5f;
   --v-history: #b48ae0;
   --v-west: #79a6ec;
@@ -530,6 +540,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .vcard { padding: 14px 16px; border-left: 3px solid var(--rule-2); background: var(--card-2); border-radius: 0 10px 10px 0; }
 .vcard p { margin: 6px 0 4px; font-size: 14px; }
 .vcard.q p { font-family: var(--serif); }
+.vcard:has(.src.rumor) { border-left: 3px dashed var(--gold); background: repeating-linear-gradient(135deg, var(--card-2) 0 10px, color-mix(in oklab, var(--gold-soft) 55%, var(--card-2)) 10px 11px); }
 
 .fall { display: grid; gap: 0; }
 .fall div { display: grid; grid-template-columns: 96px 1fr; gap: 12px; padding: 10px 0; border-top: 1px dashed var(--rule-2); font-size: 14px; }
@@ -684,6 +695,39 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .ov-name { font-size: 12px; fill: var(--ink); font-family: var(--sans); }
 .ov-frame { font-size: 10.5px; fill: var(--gold); letter-spacing: 0.2em; font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 4px; pointer-events: none; }
 .overlap path { transition: fill-opacity 0.2s; }
+/* ideas views */
+.subnav { position: sticky; top: 64px; z-index: 20; display: flex; flex-wrap: wrap; gap: 6px; margin: 18px 0 0; padding: 8px 0; background: linear-gradient(var(--paper) 70%, transparent); }
+.lineage-v svg, .stream-v svg { display: block; }
+.ln-lane { font-size: 11.5px; font-weight: 700; letter-spacing: 0.25em; font-family: var(--sans); }
+.ln-ism { cursor: pointer; transition: opacity 0.25s; }
+.ln-name { font-size: 11.5px; fill: var(--ink); font-family: var(--sans); paint-order: stroke; stroke: var(--card); stroke-width: 3px; }
+.ln-name.on, .sp-name.on { font-weight: 800; fill: var(--red); }
+.lineage-v path { transition: opacity 0.25s; }
+.spectrum-body { display: flex; gap: 20px; align-items: flex-start; justify-content: center; }
+.sp-axis text { font-size: 11px; fill: var(--muted); font-family: var(--sans); }
+.sp-dot, .sp-ism { transition: transform 0.6s cubic-bezier(.4,.1,.2,1); }
+.sp-ism { cursor: pointer; }
+.sp-name { font-size: 11.5px; fill: var(--ink); font-family: var(--sans); font-weight: 500; paint-order: stroke; stroke: var(--card-2); stroke-width: 3px; }
+.sp-turn { font-size: 10px; fill: var(--muted); font-family: var(--sans); paint-order: stroke; stroke: var(--card-2); stroke-width: 3px; }
+.sp-turn.on { font-size: 11.5px; font-weight: 700; fill: var(--red); }
+.spectrum-side { width: 280px; flex: none; max-height: 640px; overflow-y: auto; font-size: 13.5px; }
+.spectrum-side h3 { font-family: var(--serif); font-size: 26px; margin: 0 0 6px; }
+.spectrum-side h4 { margin: 16px 0 6px; font-size: 13px; color: var(--muted); font-weight: 600; }
+.spectrum-side ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.linklike { border: 0; background: none; padding: 3px 4px; font: inherit; color: var(--ink-2); display: inline-flex; align-items: center; gap: 7px; cursor: pointer; border-radius: 6px; text-align: left; }
+.linklike:hover, .linklike.on { color: var(--red); background: var(--paper-2); }
+.linklike i { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+.st-layer { cursor: pointer; }
+.st-layer path { transition: fill-opacity 0.25s; }
+.st-name { font-size: 11.5px; font-weight: 700; fill: #fff; font-family: var(--sans); paint-order: stroke; stroke: rgba(0,0,0,0.25); stroke-width: 2px; }
+.pr-name { font-size: 12.5px; fill: var(--ink); font-family: var(--sans); }
+.pr-name.link { cursor: pointer; text-decoration: underline dotted var(--rule-2); }
+.pr-name.link:hover { fill: var(--red); }
+.drawer-h { margin: 18px 0 8px; font-size: 12.5px; letter-spacing: 0.2em; color: var(--muted); font-weight: 600; }
+@media (max-width: 860px) {
+  .subnav { top: 56px; }
+  .spectrum-body { flex-direction: column; }
+}
 .chip.rank { border-color: transparent; background: var(--paper-2); }
 .chip.rank.elder { background: var(--gold-soft); color: var(--gold); }
 .chip.rank.core { background: var(--red-soft); color: var(--red); }

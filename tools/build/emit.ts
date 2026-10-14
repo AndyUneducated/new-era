@@ -9,18 +9,26 @@ const count = (hay: string, needle: string) => {
   return n
 }
 
+// occurrences of the terms, less those inside a longer `except` string
+const hits = (text: string, terms: string[], except: string[] = []) =>
+  terms.reduce((a, t) => a + count(text, t), 0) - except.reduce((a, e) => a + terms.filter((t) => e.includes(t)).length * count(text, e), 0)
+
+const tally = (text: string, list: { id: string; name: string; terms: string[]; except?: string[] }[]) => {
+  const out: Record<string, number> = {}
+  for (const k of list) {
+    const n = hits(text, k.terms.length ? k.terms : [k.name], k.except)
+    if (n > 0) out[k.id] = n
+  }
+  return out
+}
+
 export function compile(d: Data) {
-  // term frequency: each concept's terms counted in each corpus text, per 10 000 characters
+  // term frequency: each concept's, ism's and press term's strings counted in each corpus text
   const corpus = d.corpus
     .map((c) => {
       const text = d.texts.get(c.id) ?? ''
       const chars = text.replace(/\s/g, '').length
-      const counts: Record<string, number> = {}
-      for (const k of d.concepts) {
-        const n = (k.terms.length ? k.terms : [k.name]).reduce((a, t) => a + count(text, t), 0)
-        if (n) counts[k.id] = n
-      }
-      return { ...c, title: d.sourceById.get(c.id)?.title ?? c.id, chars, counts }
+      return { ...c, title: d.sourceById.get(c.id)?.title ?? c.id, chars, counts: tally(text, d.concepts), isms: tally(text, d.isms), press: tally(text, d.press) }
     })
     .sort((a, b) => a.date.localeCompare(b.date))
 
@@ -55,6 +63,9 @@ export function compile(d: Data) {
     concepts: d.concepts.map((c) => ({ ...c, by: c.by.filter((id) => known.has(id)) })),
     congresses: [...d.congresses].sort((a, b) => a.n - b.n),
     corpus,
+    isms: d.isms.map((m) => ({ ...m, carriers: m.carriers.filter((id) => known.has(id)), concept: m.concept && cids.has(m.concept) ? m.concept : undefined })),
+    line: [...d.line].sort((a, b) => a.at.localeCompare(b.at)),
+    press: d.press,
     sources,
   }
 }
@@ -73,6 +84,6 @@ export function stats(db: DB) {
   return [
     `people ${db.people.length} (full ${t1}, cards ${db.people.length - t1}), photos ${photos}, quotes ${q}, faction tags ${tags}`,
     `factions ${db.factions.length}, events ${db.events.length}, concepts ${db.concepts.length}, congresses ${db.congresses.length}, relations ${db.relations.length}`,
-    `sources ${db.sources.length} (with text ${db.sources.filter((s) => s.hasText).length}), corpus ${db.corpus.length}`,
+    `sources ${db.sources.length} (with text ${db.sources.filter((s) => s.hasText).length}), corpus ${db.corpus.length}, isms ${db.isms.length}, line ${db.line.length}, press terms ${db.press.length}`,
   ].join('\n')
 }

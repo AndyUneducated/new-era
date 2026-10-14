@@ -1,8 +1,9 @@
 // The shape of public/data/db.json (tools/build/emit.ts) and the lookups every view shares.
-import type { Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Person, Quote, Relation, Source } from './schema'
+import type { Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Ism, LinePoint, Person, PressTerm, Quote, Relation, Source } from './schema'
 
 export type PersonR = Person & { quotes: Quote[] }
-export type CorpusR = CorpusDoc & { title: string; chars: number; counts: Record<string, number> }
+// counts: concept id → occurrences; isms and press the same for isms and press terms
+export type CorpusR = CorpusDoc & { title: string; chars: number; counts: Record<string, number>; isms: Record<string, number>; press: Record<string, number> }
 export type SourceR = Source & { chars: number }
 
 export interface DB {
@@ -14,6 +15,9 @@ export interface DB {
   concepts: Concept[]
   congresses: Congress[]
   corpus: CorpusR[]
+  isms: Ism[]
+  line: LinePoint[]
+  press: PressTerm[]
   sources: SourceR[]
 }
 
@@ -36,9 +40,14 @@ export class Atlas {
   ties = new Map<string, Relation[]>()
   // central committee terms by person, from the name lists
   ccOf = new Map<string, { n: number; alt: boolean }[]>()
+  ism = new Map<string, Ism>()
 
   constructor(db: DB) {
     this.db = db
+    db.isms ??= []
+    db.line ??= []
+    db.press ??= []
+    for (const m of db.isms) this.ism.set(m.id, m)
     for (const p of db.people) this.person.set(p.id, p)
     for (const r of db.relations ?? []) {
       push(this.ties, r.a, r)
@@ -79,7 +88,7 @@ export class Atlas {
   }
 
   name(id: string) {
-    return this.person.get(id)?.name ?? this.faction.get(id)?.name ?? this.concept.get(id)?.name ?? id
+    return this.person.get(id)?.name ?? this.faction.get(id)?.name ?? this.concept.get(id)?.name ?? this.ism.get(id)?.name ?? id
   }
 }
 

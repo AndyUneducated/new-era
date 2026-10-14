@@ -108,9 +108,9 @@ export function useTip() {
   return { node, show, hide }
 }
 
-export function Section({ title, note, children, right }: { title: string; note?: ReactNode; children: ReactNode; right?: ReactNode }) {
+export function Section({ title, note, children, right, id }: { title: string; note?: ReactNode; children: ReactNode; right?: ReactNode; id?: string }) {
   return (
-    <section className="section">
+    <section className="section" id={id}>
       <div className="section-head">
         <div>
           <h2 className="h2">{title}</h2>

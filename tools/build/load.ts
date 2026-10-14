@@ -8,7 +8,10 @@ import {
   EventSchema,
   FactionSchema,
   FactionTagSchema,
+  IsmSchema,
+  LinePointSchema,
   PersonSchema,
+  PressTermSchema,
   PhotoSchema,
   QuoteSchema,
   RelationSchema,
@@ -159,5 +162,8 @@ export function loadAll() {
     concepts: dir(ConceptSchema, 'concepts'),
     congresses: dir(CongressSchema, 'congresses'),
     corpus: dir(CorpusDocSchema, 'corpus'),
+    isms: dir(IsmSchema, 'isms'),
+    line: dir(LinePointSchema, 'line'),
+    press: dir(PressTermSchema, 'press'),
   }
 }

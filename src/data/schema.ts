@@ -309,14 +309,75 @@ export const CongressSchema = z.object({
 })
 export type Congress = z.infer<typeof CongressSchema>
 
-// texts in the corpus for the frequency view; the id is a source id with full text
+// texts in the corpus for the frequency view; the id is a source id with full text.
+// editorial: the sample of 人民日报 editorials and commentator articles (decisions #25); qiushi: 求是 lead articles
 export const CorpusDocSchema = z.object({
   id: z.string(),
   short: z.string(),
-  kind: z.enum(['congress', 'gov', 'plenum', 'resolution', 'charter', 'constitution']),
+  kind: z.enum(['congress', 'gov', 'plenum', 'resolution', 'charter', 'constitution', 'editorial', 'qiushi']),
   date: PartialDate,
 })
 export type CorpusDoc = z.infer<typeof CorpusDocSchema>
+
+// 主义: a doctrine, line, trend or label and where it stood at given moments on three axes (decisions #23, #26).
+// Positions are the editor's judgment of relative stance, not measurements; a label is placed where its
+// accusers put the accused.
+export const ISM_KINDS = {
+  core: '官方正统',
+  line: '党内路线',
+  trend: '民间思潮',
+  foreign: '外来 · 对立面',
+  label: '罪名 · 标签',
+} as const
+export type IsmKind = keyof typeof ISM_KINDS
+export const AXES = {
+  x: { name: '经济', ends: ['国家主导 · 公有', '市场 · 民营'] },
+  y: { name: '政治', ends: ['集中 · 管控', '宽松 · 制度化 · 多元'] },
+  z: { name: '对外', ends: ['韬光养晦 · 融入', '强硬 · 自主 · 对抗'] },
+} as const
+export type Axis = keyof typeof AXES
+const AxisValue = z.number().min(-1).max(1)
+export const SpotSchema = z.object({ at: PartialDate, x: AxisValue, y: AxisValue, z: AxisValue, note: z.string().optional() })
+export const IsmSchema = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  name: z.string(),
+  short: z.string().optional(),
+  en: z.string().optional(),
+  kind: z.enum(Object.keys(ISM_KINDS) as [IsmKind, ...IsmKind[]]),
+  from: PartialDate,
+  to: PartialDate.optional(),
+  // where it came from, and what it was raised against (ism ids)
+  parents: z.array(z.string()).default([]),
+  against: z.array(z.string()).default([]),
+  // strings counted in the corpus; occurrences inside the `except` strings are not counted
+  terms: z.array(z.string()).default([]),
+  except: z.array(z.string()).default([]),
+  // person ids of its advocates
+  carriers: z.array(z.string()).default([]),
+  concept: z.string().optional(),
+  summary: z.string(),
+  pos: z.array(SpotSchema).default([]),
+  voices: z.array(VoicedSchema).default([]),
+  cites: z.array(Cite).min(1),
+})
+export type Ism = z.infer<typeof IsmSchema>
+// the turns of the central line on the same three axes
+export const LinePointSchema = SpotSchema.extend({ label: z.string(), cite: Cite })
+export type LinePoint = z.infer<typeof LinePointSchema>
+
+// a slogan or keyword followed through 人民日报: yearly article counts from a searchable archive (`hits`,
+// `cite` names the archive and how it was searched), and its rate in the editorial sample, counted at build time
+export const PressTermSchema = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  name: z.string(),
+  terms: z.array(z.string()).min(1),
+  except: z.array(z.string()).default([]),
+  concept: z.string().optional(),
+  ism: z.string().optional(),
+  hits: z.array(z.object({ year: z.number().int().min(1946).max(2100), n: z.number().int().min(0) })).default([]),
+  cite: Cite.optional(),
+})
+export type PressTerm = z.infer<typeof PressTermSchema>
 
 export const PhotoSchema = z.object({
   file: z.string().optional(),

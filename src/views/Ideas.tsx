@@ -4,7 +4,11 @@ import { Heat } from '../components/Heat'
 import type { CorpusR } from '../data/db'
 import { CONCEPT_KINDS, type Concept } from '../data/schema'
 import { short } from '../lib/dates'
-import { conceptHref } from '../lib/router'
+import { Lineage } from '../components/ideas/Lineage'
+import { Press } from '../components/ideas/Press'
+import { Spectrum } from '../components/ideas/Spectrum'
+import { Stream } from '../components/ideas/Stream'
+import { conceptHref, go, useRoute, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 
 const ERA: Record<string, string> = {
@@ -22,8 +26,19 @@ const CORPUS_KINDS: [string, string, CorpusR['kind'][]][] = [
   ['basic', '党章、宪法、决议', ['charter', 'constitution', 'resolution', 'plenum']],
 ]
 
+const SUBNAV: [string, string][] = [
+  ['lineage', '主义谱系'],
+  ['spectrum', '光谱漂移'],
+  ['stream', '主义词频'],
+  ['press', '报刊词频'],
+  ['guiding', '指导思想'],
+  ['heat', '提法词频'],
+]
+
 export function Ideas() {
   const a = useAtlas()
+  const pick = useRoute().q.get('m')
+  const onPick = (id: string | null) => go(withQuery('m', id ?? undefined))
   const [ck, setCk] = useState('congress')
   const [open, setOpen] = useState<Set<string>>(new Set())
   const toggle = (id: string) => setOpen((s) => {
@@ -58,10 +73,33 @@ export function Ideas() {
       <div className="eyebrow">Ideas</div>
       <h1 className="h1">思想</h1>
       <p className="lede">
-        党的指导思想每一代领导人增添一层：提法先在讲话中出现，再写进党代会报告，最后入党章、入宪法。下面按代际排列，并统计每个提法在历次官方文件中出现的频率。
+        党的指导思想每一代领导人增添一层：提法先在讲话中出现，再写进党代会报告，最后入党章、入宪法。体制内外的主义此消彼长，中央路线在经济、政治、对外三条轴上来回移动。下面先看主义的谱系与光谱，再看它们在官方文件和《人民日报》里的词频。
       </p>
+      <nav className="subnav">
+        {SUBNAV.map(([id, label]) => (
+          <button key={id} className="chip" onClick={() => document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}>
+            {label}
+          </button>
+        ))}
+      </nav>
 
-      <Section title="指导思想谱系" note="按首次提出时间排列；点击查看首次出现与写入党章的原文">
+      <Section id="lineage" title="主义谱系" note="1978 年至今的官方正统、党内路线、民间思潮、外来对立面与罪名。色条是它作为现实主张存在的年份；实线连向源头，虚线连向它所针对的对象">
+        <Lineage pick={pick} onPick={onPick} />
+      </Section>
+
+      <Section id="spectrum" title="思想光谱漂移" note="三条轴：经济（国家主导 ↔ 市场）、政治（集中 ↔ 宽松多元）、对外（韬光养晦 ↔ 强硬）。红线是中央路线到此刻为止的轨迹，圆点是此刻存在的各家主张；位置是编者的判断，只表示相对立场">
+        <Spectrum pick={pick} onPick={onPick} />
+      </Section>
+
+      <Section id="stream" title="主义词频" note="各主义的匹配词在官方文件或《人民日报》社论中逐年每万字出现的次数">
+        <Stream pick={pick} onPick={onPick} />
+      </Section>
+
+      <Section id="press" title="报刊词频" note="一组口号与关键词在《人民日报》里的逐年起落，按首次出现排序，可以看出口号一代接一代地更替">
+        <Press onPick={onPick} />
+      </Section>
+
+      <Section id="guiding" title="指导思想谱系" note="按首次提出时间排列；点击查看首次出现与写入党章的原文">
         <div className="lineage">
           {guiding.map((g) => {
             const kids = a.db.concepts.filter((c) => rootOf.get(c.id) === g.id).sort((x, y) => (x.first?.date ?? '9').localeCompare(y.first?.date ?? '9'))
@@ -107,7 +145,8 @@ export function Ideas() {
       )}
 
       <Section
-        title="词频"
+        id="heat"
+        title="提法词频"
         note="每万字出现次数；颜色越深越频繁。点击行查看该提法详情"
         right={
           <div className="seg">

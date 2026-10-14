@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { EventDrawer } from './components/EventDrawer'
+import { IsmDrawer } from './components/IsmDrawer'
 import { Search } from './components/Search'
 import { href, useRoute } from './lib/router'
 import { useTheme } from './lib/theme'
@@ -61,6 +62,7 @@ export function App() {
   else view = <Home />
 
   const ev = r.q.get('e')
+  const ism = r.q.get('m')
   return (
     <>
       <header className="topbar">
@@ -103,6 +105,7 @@ export function App() {
         </footer>
       )}
       {ev && <EventDrawer id={ev} />}
+      {ism && !ev && <IsmDrawer id={ism} />}
       {searching && <Search onClose={() => setSearching(false)} />}
     </>
   )

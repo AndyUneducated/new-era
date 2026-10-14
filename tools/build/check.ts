@@ -180,4 +180,29 @@ export function check(d: Data) {
     const s = cite(c.id, `corpus ${c.id}`)
     if (s?.excerpt) errors.push(`corpus ${c.id}: an excerpt cannot be counted`)
   }
+  const isms = unique('ism', d.isms.map((m) => m.id))
+  for (const m of d.isms) {
+    const w = `ism ${m.id}`
+    for (const id of [...m.parents, ...m.against]) {
+      if (!isms.has(id)) errors.push(`${w}: unknown ism "${id}"`)
+      if (id === m.id) errors.push(`${w}: cannot descend from or oppose itself`)
+    }
+    m.carriers.forEach((id) => ref(people, 'person', id, w))
+    if (m.concept) ref(concepts, 'concept', m.concept, w)
+    if (m.to && m.to < m.from) errors.push(`${w}: ends before it begins`)
+    if (m.pos.some((p, i) => i && p.at < m.pos[i - 1].at)) errors.push(`${w}: positions out of date order`)
+    m.cites.forEach((c) => cite(c, w))
+    prose(m.summary, m.cites, w)
+    voiced(m.voices, w)
+  }
+  for (const p of d.line) cite(p.cite, `line ${p.at} ${p.label}`)
+  unique('press term', d.press.map((t) => t.id))
+  for (const t of d.press) {
+    const w = `press ${t.id}`
+    if (t.concept) ref(concepts, 'concept', t.concept, w)
+    if (t.ism && !isms.has(t.ism)) errors.push(`${w}: unknown ism "${t.ism}"`)
+    if (t.hits.length && !t.cite) errors.push(`${w}: yearly hits need a cite naming the archive searched`)
+    if (t.cite) cite(t.cite, w)
+    if (new Set(t.hits.map((h) => h.year)).size !== t.hits.length) errors.push(`${w}: a year is entered twice`)
+  }
 }

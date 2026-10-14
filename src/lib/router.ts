@@ -31,6 +31,11 @@ export function withQuery(key: string, value: string | undefined): string {
   return `#/${p}${t ? `?${t}` : ''}`
 }
 
+// an ism opens in a drawer over the current page
+export function ismHref(id: string): string {
+  return withQuery('m', id)
+}
+
 export function go(to: string) {
   location.hash = to.replace(/^#/, '')
 }
