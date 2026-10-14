@@ -14,12 +14,14 @@ import { Ideas } from './views/Ideas'
 import { People } from './views/People'
 import { PersonPage } from './views/PersonPage'
 import { Provinces } from './views/Provinces'
+import { Purges } from './views/Purges'
 import { Timeline } from './views/Timeline'
 
 const NAV = [
   ['people', '人物'],
   ['factions', '派系'],
   ['provinces', '诸侯'],
+  ['purges', '打虎'],
   ['timeline', '时间线'],
   ['ideas', '思想'],
 ] as const
@@ -59,6 +61,7 @@ export function App() {
   if (top === 'people') view = id ? <PersonPage key={id} id={id} /> : <People />
   else if (top === 'factions') view = id ? <FactionPage key={id} id={id} /> : <Factions />
   else if (top === 'provinces') view = <Provinces />
+  else if (top === 'purges') view = <Purges />
   else if (top === 'timeline') view = <Timeline />
   else if (top === 'ideas') view = id ? <ConceptPage key={id} id={id} /> : <Ideas />
   else if (top === 'about') view = <About />
