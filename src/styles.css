@@ -414,7 +414,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .stat b { display: block; font-family: var(--serif); font-size: 32px; font-weight: 900; line-height: 1.1; }
 .stat span { color: var(--muted); font-size: 12.5px; }
 
-.pillars { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
+.pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
 .pillar { padding: 22px; min-height: 180px; position: relative; overflow: hidden; }
 .pillar .num { position: absolute; right: 14px; top: 2px; font-family: var(--serif); font-size: 76px; font-weight: 900; color: var(--gold); opacity: 0.12; }
 .pillar h3 { font-family: var(--serif); font-size: 22px; margin: 0 0 8px; }
