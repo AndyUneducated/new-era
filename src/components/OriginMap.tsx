@@ -1,25 +1,19 @@
 // Where the faction's people served: provinces shaded by how many members held a post there, and the
 // route of the faction's centre from post to post.
 import * as d3 from 'd3'
-import { useEffect, useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import type { Faction } from '../data/schema'
 import { centre, membersOf, stints } from '../lib/faction'
+import { useGeo } from '../lib/geo'
 import { useWidth } from '../lib/useSize'
 import { useAtlas } from '../state'
 import { useTip } from './bits'
-
-type Geo = d3.ExtendedFeatureCollection<d3.ExtendedFeature<d3.GeoGeometryObjects, { name: string }>>
-let cache: Promise<Geo> | undefined
-const loadGeo = () => (cache ??= fetch('geo/china.json').then((r) => r.json() as Promise<Geo>))
 
 export function OriginMap({ f }: { f: Faction }) {
   const a = useAtlas()
   const tip = useTip()
   const [ref, width] = useWidth<HTMLDivElement>()
-  const [geo, setGeo] = useState<Geo | null>(null)
-  useEffect(() => {
-    loadGeo().then(setGeo, () => setGeo(null))
-  }, [])
+  const geo = useGeo()
   const { by, route, hub } = useMemo(() => {
     const by = new Map<string, Set<string>>()
     const ms = membersOf(a, f)
