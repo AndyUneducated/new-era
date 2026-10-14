@@ -53,6 +53,9 @@ const strip = (html?: string) =>
     .replace(/&#039;/g, "'")
     .replace(/\s+/g, ' ')
     .trim()
+    // Commons' {{Unknown|author}} template renders its label twice, or after "Anonymous"
+    .replace(/^(.+)\1$/, '$1')
+    .replace(/^(Anonymous)Unknown author$/, '$1')
 
 async function commons(file: string) {
   const u = new URL('https://commons.wikimedia.org/w/api.php')

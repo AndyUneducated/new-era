@@ -2,6 +2,14 @@
 
 批次回报中提出、尚未处理的事项。处理后删去或移入 progress。
 
+## 恢复点（2026-10-15 暂停）
+
+第五轮已全部整合，`research/round.yaml` 的 `inflight: []`，工作区干净。下一步按顺序：
+
+1. **M6 收尾**：对照 `milestones.md` 逐项打勾；全站抽查无出处背景句（构建不检查未加引号的句子）；统一下面“第五轮回报”“第四轮回报”的事实冲突；README 数字与截图更新（1624 人、完整传记 123）。
+2. **第六轮内容**（可选，见下面各“建议新增”）：派系 `hu-network`、`nanjing-mr`、`reformers`、`shanxi-collapse`；人物 he-ping、qiao-shi、fang-binxing、zhong-nanshan 等；按汉字计略低于 1500 的传记扩写（B16 四人、郭声琨、刘淇、张阳）；补 keep 请求（B15、B16、B21）。
+3. **工具**：抓取工具不解析 PDF（Brookings 等抓不下）；2000–2002 政府工作报告重抓。
+
 ## 建议新增人物（入 roster，下一轮档案卡）
 
 | 姓名 | 建议 id | 关联 | 提出 |
@@ -242,6 +250,11 @@
 - B15：五人都无 `family`；P01 把袁家军 2017-04 至 2018-01 记为代省长，央视与新华社称 2017-07 任省长，待核。建议补抓 `f01-bbc-2022-10-28-pb-24`、`b11-brookings-2022-10-16-20th-candidates` 的相关段落。建议 id：chai-jing、jiang-xinzhi、under-the-dome-2015、haihe-flood-2023。
 - B20：常万全“降级”无独立来源，且 2026 年仍以前国务委员身份出席活动，保持 retired。建议派系 `nanjing-mr`（南京军区/对台系，Mulvenon），人物 liu-huaqing、zhou-yibing、qian-weiping、ding-henggao、chi-xingbei。载人航天总指挥序列（`f10-wiki-xu-xueqiang`）漏了陈炳德。
 - B16：刘国中、陈文清、石泰峰、李鸿忠按汉字计略低于 1500（含标点 1836–2086），五人无 `family`。请补 keep：`p02-wiki-li-hongzhong`（李铁映秘书、黄丽满提拔，可建 li-tieying→li-hongzhong 关系）、`f02-reuters-2022-10-24-elites`（Yin Li、Shi Taifeng 段）、`f01-bbc-2022-10-28-pb-24`（尹力）。Brookings 2017 PDF 抓不下（抓取工具不解析 PDF）。建议 id：huang-liman。
+- B17：郭声琨正文刚好 1500；刘金国、尤权评价各 2 条。建议 id：li-xiuping、deng-weiping；概念 soft-xinjiang、fox-hunt、zhengfa-rectification-2021。P01 把尤权到福建记为 2012-09，应为 2012-12。
+- B21：六人都略过 1500；刘淇“江派”只靠新唐人。建议派系 `hu-network`（郭金龙），李作成可考虑 `xi-jiajun`；补 keep `b13-jamestown-2012-11-high-command`（马晓天与许其亮竞争）。刘淇卸任志愿服务联合会会长（2019-07？）待核。
+- B22：建议派系 `reformers`（BBC“以邓小平为代表的改革派”），概念 gedai-succession、southern-tour、birdcage-economy，人物 zhuo-lin、li-zhao、yu-ruomu、chen-shunyao。宋平享年 109（新华社）与 108（维基）；网传宋平致习近平信未证实。
+- B19、P03：两批在额度耗尽时中断，未写回报；整合前各自批次构建 0 错误，内容完整（B19 六人 tier 1，P03 33 张卡）。P03 卡的照片只找到 4 张。
+- N01：一国两制、战狼外交、八荣八耻、社会主义市场经济、和谐世界已在 I03 主义里，未重复建概念。
 
 ## 审计（M6）
 
