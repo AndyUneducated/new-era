@@ -1,0 +1,240 @@
+# R02: centrally managed cadres (non-military) first announced as under investigation in 2015 who had no card yet
+- id: huo-ke
+  name: 霍克
+  gender: m
+  born: 1961-08
+  birthplace: 河北易县
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2015 年被开除党籍和公职并移送司法；未查到其本人受审或判决的公开报道。
+  fall:
+    - { date: 2015-01-16, text: 中央纪委通报国家旅游局副局长、党组成员霍克接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2015-01-19, text: 中组部负责人证实其涉嫌严重违纪违法，中央已决定免去其领导职务, cite: r02-people-2015-01-19-huo-ke-removed }
+    - { date: 2015-08-12, text: 被开除党籍和公职，受贿、行贿、泄露党和国家秘密问题移送司法机关, cite: r02-hebcdi-2015-08-12-huo-ke-expel }
+  tier: 2
+  headline: 国家旅游局原副局长、中央办公厅秘书局原局长
+  bio: >-
+    军队报社记者出身，后长期在中央办公厅秘书局工作，升至局长；2014 年 12 月调任国家旅游局副局长，一个月后被查，2015 年 8 月被开除党籍和公职。2016 年令计划案判决认定，令计划“通过时任中央办公厅秘书局局长霍克等人，非法获取大量国家秘密材料”，并收受霍克等人财物。
+  positions:
+    - { title: 北京军区政治部战友报社记者、编辑, sys: army, cite: r02-people-2015-01-19-huo-ke-removed }
+    - { title: 中央办公厅秘书局副局长, sys: party, cite: r02-people-2015-01-19-huo-ke-removed }
+    - { title: 中央办公厅秘书局局长, sys: party, to: 2014-12, cite: r02-people-2015-01-19-huo-ke-removed }
+    - { title: 国家旅游局副局长、党组成员, sys: gov, from: 2014-12, to: 2015-01, cite: r02-people-2015-01-19-huo-ke-removed }
+  cites: [r02-people-2015-01-19-huo-ke-removed, t01-ccdi-jlsc-list-p3, r02-hebcdi-2015-08-12-huo-ke-expel, b07-court-2016-07-04-ling-sentence, r02-bbc-2015-08-12-huo-ke]
+
+- id: xu-aimin
+  name: 许爱民
+  gender: m
+  born: 1957-01
+  birthplace: 江西黎川
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年被开除党籍、取消副省级待遇、降为副处级非领导职务；通报未提移送司法，未见刑事追究的报道。
+  fall:
+    - { date: 2015-02-17, text: 中央纪委通报对其立案审查，给予开除党籍处分，取消其副省级待遇，降为副处级非领导职务, cite: r02-ccdi-2015-02-17-xu-aimin-expel }
+    - { date: 2015-03-18, text: 江西省政协常委会免去其省政协副主席职务、撤销其省政协委员资格, cite: r02-12371-2015-03-18-xu-aimin-removed }
+  tier: 2
+  headline: 江西省政协原副主席、景德镇市委原书记
+  ids: { wikidata: Q19825796 }
+  bio: >-
+    景德镇陶瓷学院毕业后留校任教，后在抚州、景德镇任职，2004 至 2011 年任景德镇市委书记，再任江西省发改委主任、省政协副主席。2015 年 2 月中央纪委通报其为女儿、女婿在公务员录用和职务晋升方面谋取利益，滥用职权造成国有资产重大损失，并骗取“中国陶瓷艺术大师称号”荣誉，给予开除党籍处分，降为副处级非领导职务。
+  positions:
+    - { title: 抚州行署副专员兼临川市委副书记、市长, sys: gov, place: 江西, from: 1995, to: 1997-01, cite: r02-12371-2015-03-18-xu-aimin-removed }
+    - { title: 景德镇市委副书记、市长, sys: gov, place: 江西, from: 2001-07, to: 2004-07, cite: r02-12371-2015-03-18-xu-aimin-removed }
+    - { title: 景德镇市委书记, sys: party, place: 江西, from: 2003-09, to: 2011-08, cite: r02-12371-2015-03-18-xu-aimin-removed }
+    - { title: 江西省发展和改革委员会党组书记、主任, sys: gov, place: 江西, from: 2011-08, to: 2013-03, cite: r02-12371-2015-03-18-xu-aimin-removed }
+    - { title: 江西省政协副主席, sys: other, place: 江西, from: 2013-01, to: 2015-03, cite: r02-12371-2015-03-18-xu-aimin-removed }
+  cites: [wd-Q19825796, r02-ccdi-2015-02-17-xu-aimin-expel, r02-12371-2015-03-18-xu-aimin-removed, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: zhong-shijian
+  name: 钟世坚
+  gender: m
+  born: 1956-05
+  birthplace: 广东电白
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 据 2018 年澎湃新闻转述的判决书，2016 年在厦门中院获刑十五年半，未见官方宣判通稿；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2015-04-01, text: 中央纪委通报广东省纪委副书记、省监察厅厅长钟世坚涉嫌严重违纪违法，接受组织调查, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+    - { date: 2015-07-21, text: 被开除党籍和公职，受贿、行贿问题移送司法机关, cite: r02-people-2015-07-21-zhong-shijian-expel }
+    - { date: 2016, text: 厦门中院以受贿罪、行贿罪、巨额财产来源不明罪判处有期徒刑十五年六个月（2018 年澎湃新闻据相关判决书披露）, cite: r02-thepaper-2018-06-zhong-shijian-verdict }
+  tier: 2
+  headline: 广东省纪委原副书记、省监察厅原厅长
+  ids: { wikidata: Q16260751 }
+  bio: >-
+    从珠海万山海岛起家，2007 至 2011 年任珠海市长，随后调入广东省纪委任副书记，兼省监察厅厅长、省预防腐败局局长。2015 年 4 月被查，中央纪委通报其“干预案件查处，违反保密纪律，向被审查人泄露案情”，并为谋求升迁向他人行贿；后以受贿、行贿、巨额财产来源不明罪获刑十五年半。
+  positions:
+    - { title: 珠海市万山管理区党委书记、区长, sys: party, place: 广东, from: 1993-06, to: 1998-12, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+    - { title: 珠海市委副书记、市政府党组副书记, sys: party, place: 广东, from: 2004-03, to: 2007-01, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+    - { title: 珠海市委副书记、市长, sys: gov, place: 广东, from: 2007-01, to: 2011-09, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+    - { title: 广东省纪委副书记, sys: party, place: 广东, from: 2012-01, to: 2015-04, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+    - { title: 广东省监察厅厅长, sys: gov, place: 广东, from: 2013-03, to: 2015-04, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+  cites: [wd-Q16260751, r02-chinanews-2015-04-01-zhong-shijian-probe, r02-people-2015-07-21-zhong-shijian-expel, r02-thepaper-2018-06-zhong-shijian-verdict]
+
+- id: wu-zhenfang
+  name: 吴振芳
+  gender: m
+  born: 1952-01
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2017 年一审获刑三年六个月；按刑期推算应已届满，未见释放公告。
+  fall:
+    - { date: 2015-04-02, text: 国务院国资委纪委通报中国海洋石油总公司原党组成员、副总经理吴振芳涉嫌严重违纪，接受组织调查, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+    - { date: 2015-06-25, text: 最高检通报其因涉嫌受贿被立案侦查, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
+    - { date: 2017-02, text: 北京东城法院一审以受贿罪判处有期徒刑三年六个月，并处罚金20万元；其妻同案以受贿罪获刑三年、缓刑三年, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
+  tier: 2
+  headline: 中国海洋石油总公司原副总经理
+  ids: { wikidata: Q19825345 }
+  bio: >-
+    1971 年进入石油行业，长期在中海油南海西部公司和中海石油化学任职，2004 至 2013 年任中国海洋石油总公司党组成员、副总经理。2015 年中央巡视组进驻中海油后被查；法院认定他为中海油收购一家化学公司提供帮助，伙同妻子收受房屋装修款 170 万元，另收受机票款 16 万余元，判处有期徒刑三年六个月。
+  positions:
+    - { title: 中国海洋石油南海西部工程公司经理, sys: other, from: 1980, to: 1993, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+    - { title: 中国海洋石油南海西部公司副总经理, sys: other, from: 1993, to: 1997, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+    - { title: 中海石油化学有限公司党委书记、总经理, sys: other, from: 2000, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+    - { title: 中国海洋石油总公司总经理助理, sys: other, from: 2003, to: 2004, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+    - { title: 中国海洋石油总公司党组成员、副总经理, sys: other, from: 2004-08, to: 2013-04, cite: r02-ccdi-2015-04-02-wu-zhenfang-probe }
+  cites: [wd-Q19825345, r02-ccdi-2015-04-02-wu-zhenfang-probe, r02-people-2015-04-02-cnooc-inspection, r02-chinanews-2017-02-16-wu-zhenfang-verdict]
+
+- id: leng-rongquan
+  name: 冷荣泉
+  gender: m
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2015 年 4 月被查，官方未公布处分和审判结果；运营商财经网 2023 年引述裁判文书称其以受贿罪、利用影响力受贿罪被决定执行有期徒刑十四年，未见官方宣判消息。
+  fall:
+    - { date: 2015-04-17, text: 国务院国资委纪委通报中国电信集团公司原副总经理、党组副书记冷荣泉涉嫌严重违纪，接受组织调查, cite: r02-people-2015-04-17-leng-rongquan-probe }
+  tier: 2
+  headline: 中国电信集团公司原副总经理
+  bio: >-
+    北京邮电学院研究生毕业，从北京市长途电话局技术岗位做起，历任邮电部电信总局副局长、中国网通和中国电信副总经理，2010 年 4 月退休。2015 年中国电信接受中央巡视后被查，此时他已退休五年；官方此后未公布其处分和判决。
+  positions:
+    - { title: 北京市长途电话局总工程师, sys: other, from: 1994-04, to: 1995-07, cite: r02-people-2015-04-17-leng-rongquan-probe }
+    - { title: 中国邮电电信总局副局长, sys: gov, from: 1996-06, to: 2000-04, cite: r02-people-2015-04-17-leng-rongquan-probe }
+    - { title: 中国电信集团公司副总经理、党组成员, sys: other, from: 2000-04, to: 2002-04, cite: r02-people-2015-04-17-leng-rongquan-probe }
+    - { title: 中国网络通信集团公司副总经理、党组副书记, sys: other, from: 2002-04, to: 2004-10, cite: r02-people-2015-04-17-leng-rongquan-probe }
+    - { title: 中国电信集团公司副总经理、党组副书记, sys: other, from: 2004-10, to: 2009-04, cite: r02-people-2015-04-17-leng-rongquan-probe }
+    - { title: 中国电信集团公司总工程师, sys: other, from: 2009-04, to: 2010-03, cite: r02-people-2015-04-17-leng-rongquan-probe }
+  cites: [r02-people-2015-04-17-leng-rongquan-probe, r02-people-2016-01-02-ccdi-2015-tigers, r02-sina-2023-10-13-leng-rongquan]
+
+- id: zhang-yujun
+  name: 张育军
+  gender: m
+  born: 1963-05
+  birthplace: 四川什邡
+  died: 2021
+  roles: [minister, tiger]
+  status: dead
+  statusNote: 2017 年被最高检以涉嫌受贿罪立案侦查，此后未见起诉或审判结果；2021 年 9 月财新报道其已因胰腺癌病逝，官方未发布消息。
+  fall:
+    - { date: 2015-09-16, text: 中央纪委通报中国证监会主席助理张育军涉嫌严重违纪，接受组织调查, cite: r02-people-2015-09-16-zhang-yujun-probe }
+    - { date: 2017-07-21, text: 被开除党籍和公职，涉嫌犯罪线索移送司法机关, cite: r02-xinhua-2017-07-21-zhang-yujun-expel }
+    - { date: 2017-09-15, text: 最高人民检察院以涉嫌受贿罪对其立案侦查并采取强制措施, cite: r02-people-2017-09-18-zhang-yujun-spp }
+    - { date: 2021-09-01, text: 财新网报道其在调查期间因罹患胰腺癌于上海瑞金医院病逝，时年58岁, cite: r02-caixin-2021-09-01-zhang-yujun-dies }
+  tier: 2
+  headline: 中国证监会原主席助理
+  ids: { wikidata: Q20981050 }
+  bio: >-
+    32 岁任深圳证券交易所副总经理，此后先后任深交所、上交所总经理，2012 年任中国证监会主席助理，分管证券、基金等机构。2015 年股灾期间是证监会救市小组成员，当年 9 月被查；2017 年被开除党籍，通报称其“靠山吃山”、扰乱资本市场秩序。案件未见审判结果，2021 年据财新报道病逝。
+  positions:
+    - { title: 深圳证券交易所副总经理, sys: other, from: 1995-10, to: 1997-11, cite: r02-people-2015-09-16-zhang-yujun-probe }
+    - { title: 中国证券监督管理委员会副秘书长, sys: gov, from: 1997-11, to: 1999-06, cite: r02-people-2015-09-16-zhang-yujun-probe }
+    - { title: 深圳证券交易所总经理, sys: other, from: 2000-08, to: 2008-02, cite: r02-people-2015-09-16-zhang-yujun-probe }
+    - { title: 上海证券交易所党委副书记、总经理, sys: other, from: 2008-02, to: 2012-08, cite: r02-people-2015-09-16-zhang-yujun-probe }
+    - { title: 中国证券监督管理委员会主席助理、党委委员, sys: gov, from: 2012-09, to: 2015-09, cite: r02-people-2015-09-16-zhang-yujun-probe }
+  cites: [wd-Q20981050, r02-people-2015-09-16-zhang-yujun-probe, r02-xinhua-2017-07-21-zhang-yujun-expel, r02-people-2017-09-18-zhang-yujun-spp, r02-caixin-2021-09-01-zhang-yujun-dies]
+
+- id: zhang-lebin
+  name: 张乐斌
+  gender: m
+  born: 1958-04
+  birthplace: 河南博爱
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍和公职并移送司法；未查到审判结果的官方报道。
+  fall:
+    - { date: 2015-09-22, text: 中央纪委通报国家宗教事务局党组成员、副局长张乐斌涉嫌严重违纪，接受组织调查, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { date: 2016-01-05, text: 被开除党籍和公职，涉嫌犯罪问题移送司法机关, cite: r02-xinhua-2016-01-05-zhang-lebin-expel }
+  tier: 2
+  headline: 国家宗教事务局原副局长
+  ids: { wikidata: Q21004534 }
+  bio: >-
+    从河南博爱县团委书记起步，1987 年进入团中央，历任组织部干部一处处长、青农部副部长和中国青少年发展服务中心常务副主任；2003 年转入国家宗教事务局，2010 年任副局长。2015 年 9 月被查，中央纪委通报称其“严重违反政治纪律和政治规矩、组织纪律，搞团团伙伙”。
+  positions:
+    - { title: 共青团博爱县委书记, sys: party, place: 河南, from: 1984-07, to: 1987-12, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { title: 团中央组织部干部一处处长, sys: party, from: 1996-01, to: 1998-01, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { title: 团中央青农部副部长, sys: party, from: 1998-01, to: 2000-12, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { title: 中国青少年发展服务中心党组成员、常务副主任, sys: other, from: 2000-12, to: 2003-02, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { title: 国家宗教事务局办公室主任, sys: gov, from: 2004-09, to: 2010-05, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+    - { title: 国家宗教事务局党组成员、副局长, sys: gov, from: 2010-05, to: 2015-09, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+  cites: [wd-Q21004534, r02-ccdi-2015-09-22-zhang-lebin-probe, t01-ccdi-jlsc-list-p2, r02-xinhua-2016-01-05-zhang-lebin-expel]
+
+- id: zhu-fushou
+  name: 朱福寿
+  gender: m
+  born: 1962-10
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2015 年受开除党籍、行政撤职处分，降为部门副职以下非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2015-11-02, text: 中央纪委通报东风汽车公司党委副书记、董事、总经理朱福寿涉嫌严重违纪，接受组织调查, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到开除党籍、行政撤职处分，由东风汽车公司按部门副职以下（不含部门副职）非领导职务安排工作, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 东风汽车公司原总经理
+  bio: >-
+    1984 年从安徽工学院毕业后进入东风汽车，从车轮分公司做起，2001 年起任东风公司党委常委、东风汽车股份公司总经理，后任东风汽车公司总经理。2015 年 11 月被查，2016 年 1 月中央纪委通报 2015 年给予党纪重处分并作出重大职务调整的 10 名中管干部，他在其中，受开除党籍、行政撤职处分，未移送司法。
+  positions:
+    - { title: 东风车轮有限公司董事长兼总经理, sys: other, place: 湖北, from: 1999-01, to: 2000-02, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+    - { title: 东风汽车股份公司轻型车厂厂长兼党委书记, sys: other, place: 湖北, from: 2000-02, to: 2000-10, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+    - { title: 东风汽车股份公司副总经理兼汽车分公司总经理, sys: other, place: 湖北, from: 2000-04, to: 2002-04, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+    - { title: 东风公司党委常委、东风汽车股份公司总经理, sys: other, place: 湖北, from: 2001-07, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+    - { title: 东风汽车公司党委副书记、董事、总经理, sys: other, place: 湖北, to: 2015-11, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+  cites: [r02-ccdi-2015-11-02-zhu-fushou-probe, r02-ccdi-2016-01-29-ten-cadres, r02-people-2016-01-02-ccdi-2015-tigers]
+
+- id: yao-gang
+  name: 姚刚
+  gender: m
+  born: 1962-05
+  birthplace: 山西文水
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2018 年一审获刑十八年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-11-13, text: 中央纪委通报中国证监会党委委员、副主席姚刚涉嫌严重违纪，接受组织调查, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+    - { date: 2017-07-20, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送司法机关, cite: r02-ccdi-2017-07-20-yao-gang-expel }
+    - { date: 2018-09-28, text: 河北邯郸中院一审以受贿罪、内幕交易罪决定执行有期徒刑十八年，并处罚金人民币一千一百万元；认定其受贿6961万余元, cite: r02-court-2018-09-28-yao-gang-verdict }
+  tier: 2
+  headline: 中国证监会原副主席
+  ids: { wikidata: Q21484247 }
+  bio: >-
+    经济学博士，1993 年起在证监会期货监管部任职，一度出任国泰君安证券总经理，2002 年回证监会主管发行监管，2008 年任证监会副主席。2015 年股灾后被查，通报称其“为搞政治攀附，利用职权为他人及企业提供帮助”；2018 年以受贿、内幕交易罪获刑十八年。
+  positions:
+    - { title: 中国证券监督管理委员会期货监管部主任, sys: gov, from: 1993, to: 1999, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+    - { title: 国泰君安证券有限公司总经理、党委副书记、副董事长, sys: other, from: 1999, to: 2002, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+    - { title: 中国证券监督管理委员会发行监管部主任, sys: gov, from: 2002, to: 2008, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+    - { title: 中国证券监督管理委员会主席助理、党委委员, sys: gov, from: 2004-07, to: 2008, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+    - { title: 中国证券监督管理委员会副主席、党委委员, sys: gov, from: 2008, to: 2015-11, cite: r02-ccdi-2015-11-13-yao-gang-probe }
+  cites: [wd-Q21484247, r02-ccdi-2015-11-13-yao-gang-probe, r02-ccdi-2017-07-20-yao-gang-expel, r02-court-2018-09-28-yao-gang-verdict]
+
+- id: zhou-laizhen
+  name: 周来振
+  gender: m
+  born: 1960-03
+  birthplace: 山东牟平
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2017 年一审获刑十五年；未见改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2015-11-24, text: 中央纪委通报中国民用航空局党组成员、副局长周来振涉嫌严重违纪，接受组织调查, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+    - { date: 2016-01-19, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送司法机关, cite: r02-hebcdi-2016-01-20-zhou-laizhen-expel }
+    - { date: 2017-04-27, text: 河南南阳中院以受贿罪判处有期徒刑十五年，并处没收个人财产人民币200万元；认定其索取、非法收受财物共计折合人民币2533.7922万元, cite: r02-chinanews-2017-04-27-zhou-laizhen-verdict }
+  tier: 2
+  headline: 中国民用航空局原副局长
+  bio: >-
+    财政部出身，在国有资产管理和企业财务部门工作近二十年，2006 年起任民航局财务司司长，2013 年任民航局副局长。2015 年 11 月中央巡视组进驻后被查，通报称其“干扰、妨碍巡视工作，对抗组织审查”；2017 年以受贿罪获刑十五年，法院认定有索贿情节。
+  positions:
+    - { title: 国家国有资产管理局产权司处长、副司长, sys: gov, from: 1989-09, to: 1999-05, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+    - { title: 财政部国有资本金基础管理司副司长、企业司副司长, sys: gov, from: 1999-05, to: 2006-10, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+    - { title: 民航局财务司司长, sys: gov, from: 2006-10, to: 2013-03, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+    - { title: 中国航空集团公司副总经理（挂职）, sys: other, from: 2011-12, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+    - { title: 中国民用航空局党组成员、副局长, sys: gov, from: 2013-03, to: 2015-11, cite: r02-people-2015-11-24-zhou-laizhen-probe }
+  cites: [r02-people-2015-11-24-zhou-laizhen-probe, r02-hebcdi-2016-01-20-zhou-laizhen-expel, r02-chinanews-2017-04-27-zhou-laizhen-verdict, r02-people-2016-01-02-ccdi-2015-tigers]

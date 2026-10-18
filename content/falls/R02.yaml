@@ -1,0 +1,817 @@
+# R02: fall cases for the centrally managed cadres (non-military) first announced as under investigation in 2015.
+# 2015 notices still use the 2003 regulations' wording; "政治规矩" is read as political discipline and
+# "廉洁自律规定" as integrity; "社会主义道德" and "保密纪律" are not mapped to a discipline.
+
+# ---- minister level ----
+zhou-benshun:
+  sys: local
+  grade: minister
+  notice:
+    date: 2015-10-16
+    cite: c03-ccdi-2015-10-16-zhou-yang-expel
+    quotes:
+      - 在重大问题上发表违背中央精神的言论
+      - 为提拔职务进行非组织活动
+      - 家风败坏、对配偶子女放任纵容
+      - 私存涉密资料，泄露党和国家秘密
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 40010000
+    text: 受贿 4001 万余元，2017 年 2 月一审获刑十五年（人民网获刑官员统计表）
+    cite: t01-people-2017-04-19-11-verdicts
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+  with:
+    - { id: zhou-yongkang, name: 周永康, rel: patron, text: 周本顺 2003 至 2013 年在中央政法委任副秘书长、秘书长；BBC 称有媒体报道其落马与周永康有关, cite: c03-bbc-2015-07-24-zhou-benshun }
+  politics:
+    level: linked
+    why: 周本顺 2003 至 2013 年在中央政法委任副秘书长、秘书长，开除通报指其“在重大问题上发表违背中央精神的言论”；BBC 称有媒体报道其落马与周永康有关。
+    cites: [c03-ccdi-2015-10-16-zhou-yang-expel, c03-ccdi-2015-07-24-zhou-benshun-probe, c03-bbc-2015-07-24-zhou-benshun]
+  voices:
+    - { voice: zh, text: 因此有媒体报道称，周本顺的落马与周永康有关。, quote: true, cite: c03-bbc-2015-07-24-zhou-benshun }
+
+yang-dongliang:
+  sys: central
+  grade: minister
+  notice:
+    date: 2015-10-16
+    cite: c03-ccdi-2015-10-16-zhou-yang-expel
+    quotes:
+      - 进行非组织政治活动，干扰、妨碍组织审查
+      - 长期接受私营企业主安排的高消费娱乐活动
+      - 干预纪检机关的纪律审查工作和司法机关的案件查办工作
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 28490000
+    text: 2002 年至 2015 年非法收受他人财物共计折合人民币 2849 万余元；另以贪污罪认定其占有房产一套，价值 27.08 万元
+    cite: c03-people-2017-02-22-yang-dongliang-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2015-08-18-yang-dongliang-probe }
+  politics:
+    level: none
+    why: 开除通报指其“进行非组织政治活动”，但未说明与谁、为何；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [c03-ccdi-2015-10-16-zhou-yang-expel, c03-people-2017-02-22-yang-dongliang-verdict]
+
+su-shulin:
+  sys: local
+  grade: minister
+  notice:
+    date: 2017-07-04
+    cite: r02-ccdi-2017-07-04-su-shulin-expel
+    quotes:
+      - 打探巡视消息，在党内搞非组织活动，对抗组织审查
+      - 置国家利益于不顾，无视组织原则，肆无忌惮地滥用职权、违规决策，造成国有资产巨额损失
+      - 完全丧失理想信念，毫无党性原则和宗旨意识，私欲膨胀，胆大妄为
+      - 破坏了相关地方和单位的政治生态
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 36221215
+    text: 1997 年至 2013 年直接或者通过其亲属非法收受相关人员给予的财物，共计折合人民币 3622.1215 万元，其中 600 万元属犯罪未遂
+    cite: f06-court-2018-07-26-su-shulin
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: f06-people-2015-10-07-su-shulin }
+  with:
+    - { id: liao-yongyuan, name: 廖永远, rel: colleague, text: 同出石油系统，BBC 称两人是当年的“东西二虎”, cite: f06-bbc-2015-10-07-su-shulin }
+  politics:
+    level: linked
+    why: 苏树林与廖永远同出石油系统，BBC 称两人是当年的“东西二虎”，与周永康、蒋洁敏等石油系统出身的官员相继被查；开除通报还指其“打探巡视消息，在党内搞非组织活动”。
+    cites: [f06-bbc-2015-10-07-su-shulin, r02-ccdi-2017-07-04-su-shulin-expel]
+  voices:
+    - { voice: zh, text: 与此同时，石油系统当年被称为“东西二虎”的廖永远、苏树林已双双落马。, quote: true, cite: f06-bbc-2015-10-07-su-shulin }
+  fall:
+    - { date: 2017-07-04, text: 被开除党籍和公职，终止其党的十八大代表资格，涉嫌受贿、滥用职权犯罪问题移送司法机关, cite: r02-ccdi-2017-07-04-su-shulin-expel }
+
+# ---- vice-minister level and central SOE heads ----
+liao-yongyuan:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2015-06-15
+    cite: r02-ccdi-2015-06-15-liao-yongyuan-expel
+    quotes:
+      - 隐瞒不报个人有关事项
+      - 索取、收受巨额贿赂；为谋取个人职务升迁，向他人行贿
+      - 严重违反社会主义道德，与他人通奸
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 13394102
+    text: 2003 年至 2015 年初直接或通过特定关系人非法收受财物共计折合人民币 1339.410173 万元；另有 2103.156904 万元财产不能说明来源
+    cite: f06-xinhua-2017-01-20-liao-sentence
+  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，中石油总经理廖永远是其中之一, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  with:
+    - { id: jiang-jiemin, name: 蒋洁敏, rel: colleague, text: BBC 称中国媒体报道都突出廖永远在中石油任职期间与已落马的蒋洁敏的交集, cite: f06-bbc-2015-03-16-liao-yongyuan }
+    - { id: su-shulin, name: 苏树林, rel: colleague, text: 同出石油系统，BBC 称两人是当年的“东西二虎”, cite: f06-bbc-2015-10-07-su-shulin }
+  politics:
+    level: linked
+    why: BBC 称中国媒体报道都突出廖永远与已落马的蒋洁敏在中石油的交集，并把他与苏树林并称石油系统的“东西二虎”，与周永康、蒋洁敏等人相继被查。
+    cites: [f06-bbc-2015-03-16-liao-yongyuan, f06-bbc-2015-10-07-su-shulin]
+  voices:
+    - { voice: zh, text: 中国媒体报道中都突出廖永远在中石油任职期间与已经下马的中国国资委主任蒋洁敏的交集。, quote: true, cite: f06-bbc-2015-03-16-liao-yongyuan }
+  fall:
+    - { date: 2015-06-15, text: 被开除党籍和公职，受贿、行贿问题移送司法机关, cite: r02-ccdi-2015-06-15-liao-yongyuan-expel }
+
+yang-weize:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-31
+    cite: f05-people-2015-07-31-yang-weize
+    quotes:
+      - 利用职务上的便利为他人谋取利益，其特定关系人收受巨额钱款
+      - 多次出入高档酒店和私人会所，接受他人宴请
+      - 无视党的政治规矩和组织纪律，严重违纪违法，且党的十八大后仍不收敛、不收手
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 16434643
+    text: 2005 年至 2014 年直接或者通过其妻非法收受相关人员给予的财物共计折合人民币 1643.4643 万元
+    cite: f05-court-2016-12-14-yang-weize
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: f05-people-2015-07-31-yang-weize }
+  with:
+    - { id: li-yuanchao, name: 李源潮, rel: patron, text: 法广援引香港《明报》称杨卫泽被视为李源潮亲信, cite: f05-rfi-2015-01-20-jiangsu-gang }
+  politics:
+    level: linked
+    why: 法广援引香港《明报》称杨卫泽“被视为国家副主席李源潮亲信”，评论把他的落马与江苏官场和李源潮的处境连在一起；官方通报和判决只列受贿等问题。
+    cites: [f05-rfi-2015-01-20-jiangsu-gang, f05-people-2015-07-31-yang-weize, f05-court-2016-12-14-yang-weize]
+  voices:
+    - { voice: zh, text: 不少分析认为，由于杨卫泽是李源潮的亲信，他落马意味着贵为国家副主席的李源潮的后院起火，而且火苗亦将越烧越旺。, quote: true, cite: f05-rfi-2015-01-20-jiangsu-gang }
+
+ma-jian:
+  sys: law
+  grade: vice
+  notice:
+    date: 2016-12-30
+    cite: r02-ccdi-2016-12-30-ma-jian-expel
+    quotes:
+      - 对抗组织审查，转移、藏匿涉案财物
+      - 违规为家属办理出境证件
+      - 滥用权力干预执法司法活动
+      - 理想信念丧失，严重违反党的纪律，造成严重后果
+  discipline: [political, organization, integrity, work]
+  amount:
+    yuan: 109000000
+    text: 1999 年至 2014 年直接或者通过其亲属非法收受财物共计折合人民币 1.09 亿余元；另指使亲属内幕交易获利 4929 万余元
+    cite: f06-court-2018-12-27-ma-jian
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-jlsc-list-p3 }
+  with:
+    - { id: guo-wengui, name: 郭文贵, rel: business, text: 法院认定马建为郭文贵及其控制的政泉公司提供帮助并收受财物，与郭文贵共谋强迫他人转让股份, cite: f06-court-2018-12-27-ma-jian }
+  politics:
+    level: linked
+    why: 法院认定马建的受贿、强迫交易、内幕交易三项罪名都与郭文贵有关；法广称郭文贵、马建与周永康亲信张越结成利益同盟，借国安和河北政法力量介入财富争夺。
+    cites: [f06-court-2018-12-27-ma-jian, f06-rfi-2016-04-17-zhang-yue, b14-bbc-2018-12-27-ma-jian]
+  voices:
+    - { voice: zh, text: 法广称，郭文贵、马建、张越结成“攫财同盟”，郭文贵利用马建掌握的安全部门特殊权力和张越掌握的河北政法力量介入财富争夺。, cite: f06-rfi-2016-04-17-zhang-yue }
+  fall:
+    - { date: 2015-01-16, text: 中央纪委通报国家安全部副部长、党委委员马建接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
+    - { date: 2016-12-30, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送司法机关, cite: r02-ccdi-2016-12-30-ma-jian-expel }
+
+qiu-he:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-31
+    cite: c03-ccdi-2015-07-31-qiu-he-expel
+    quotes:
+      - 收受礼金、礼品，利用职务上的便利为亲属的经营活动谋取利益
+      - 无视党的政治规矩和组织纪律，严重违纪违法，且党的十八大后仍不收敛、不收手
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 24339800
+    text: 2008 年至 2015 年直接或通过身边工作人员非法收受、索取他人财物，共计折合人民币 2433.98 万元
+    cite: c03-xinhua-2016-12-15-qiu-he-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2015-03-15-qiu-he-probe }
+  politics:
+    level: none
+    why: 通报与判决只列收受礼金和受贿（含索贿），没有政治定性；本站所见可靠报道未把他的落马与某位落马高官或派系清洗联系起来。
+    cites: [c03-ccdi-2015-07-31-qiu-he-expel, c03-xinhua-2016-12-15-qiu-he-verdict]
+
+xi-xiaoming:
+  sys: law
+  grade: vice
+  notice:
+    date: 2015-09-29
+    cite: r02-ccdi-2015-09-29-xi-xiaoming-expel
+    quotes:
+      - 严重违背依法治国决策部署
+      - 对党不忠诚、不老实，隐瞒不报个人有关事项
+      - 违反保密纪律，泄露审判工作秘密
+      - 利用职务上的便利在民事诉讼等方面为他人谋取利益，收受财物
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 114000000
+    text: 受贿 1.14 亿余元，2017 年 2 月一审被判无期徒刑（人民网获刑官员统计表）
+    cite: t01-people-2017-04-19-11-verdicts
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-2015-07-12-xi-xiaoming-probe }
+  politics:
+    level: none
+    why: 开除通报指其“严重违背依法治国决策部署”“对党不忠诚、不老实”，但未点出团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-09-29-xi-xiaoming-expel]
+
+lu-xiwen:
+  sys: local
+  grade: vice
+  notice:
+    date: 2016-01-05
+    cite: r02-ccdi-2016-01-05-lu-xiwen-expel
+    quotes:
+      - 妄议中央大政方针，长期搞团团伙伙，对抗组织审查
+      - 插手原任职地方的人事安排
+      - 违规干预和插手市场经济活动，违规干预和插手执法活动
+      - 生活奢侈、贪图享乐
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 18780000
+    text: 受贿 1878 万余元，2017 年 2 月一审获刑十三年（人民网获刑官员统计表）
+    cite: t01-people-2017-04-19-11-verdicts
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-jlsc-list-p2 }
+  politics:
+    level: none
+    why: 开除通报指其“妄议中央大政方针，长期搞团团伙伙”，但未点名团伙成员；本站所见可靠报道未把她与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-01-05-lu-xiwen-expel]
+
+yu-yuanhui:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-10-16
+    cite: r02-ccdi-2015-10-16-yu-yuanhui-expel
+    quotes:
+      - 公开发表与全面从严治党要求相违背的言论
+      - 违规任用亲属担任秘书，隐瞒不报个人有关事项
+      - 挥霍浪费公款，公车私用
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 8811891
+    text: 2006 年至 2015 年直接或通过其亲属非法收受相关人员所送财物共计折合人民币 881.18913 万元
+    cite: k04-people-2017-04-28-yu-yuanhui-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-jlsc-list-p2 }
+  politics:
+    level: none
+    why: 开除通报指其“公开发表与全面从严治党要求相违背的言论”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-10-16-yu-yuanhui-expel]
+
+huo-ke:
+  sys: central
+  grade: vice
+  notice:
+    date: 2015-08-12
+    cite: r02-hebcdi-2015-08-12-huo-ke-expel
+    quotes:
+      - 为谋求个人职务升迁，向他人行贿；泄露党和国家秘密
+      - 霍克还存在干扰、妨碍组织审查的行为
+      - 严重违反党的政治纪律、政治规矩、组织纪律和保密纪律，且党的十八大后仍不收敛、不收手
+  discipline: [political, organization, integrity]
+  trigger: { kind: chain, text: 官方未说明线索来源；令计划案判决认定令计划为霍克等人职务晋升提供帮助、收受其财物，并通过霍克非法获取国家秘密，两案相连, cite: b07-court-2016-07-04-ling-sentence }
+  with:
+    - { id: ling-jihua, name: 令计划, rel: patron, text: 判决认定令计划为霍克等人职务晋升等提供帮助、收受其财物，并通过时任中办秘书局局长霍克非法获取国家秘密, cite: b07-court-2016-07-04-ling-sentence }
+  politics:
+    level: linked
+    why: 令计划案判决认定令计划“通过时任中央办公厅秘书局局长霍克等人，非法获取大量国家秘密材料”；BBC 指令计划任中办副主任、主任期间霍克一直是其下属。
+    cites: [b07-court-2016-07-04-ling-sentence, r02-bbc-2015-08-12-huo-ke]
+  voices:
+    - { voice: zh, text: BBC 中文指出，令计划任中办副主任、主任的 12 年间霍克一直是其下属；霍克调任国家旅游局仅一周后，中纪委就通报了令计划被调查。, cite: r02-bbc-2015-08-12-huo-ke }
+
+yao-gang:
+  sys: finance
+  grade: vice
+  notice:
+    date: 2017-07-20
+    cite: r02-ccdi-2017-07-20-yao-gang-expel
+    quotes:
+      - 为搞政治攀附，利用职权为他人及企业提供帮助，对抗组织审查
+      - 破坏资本市场秩序和证券监管部门政治生态
+      - 理想信念丧失，毫无宗旨意识，政治规矩意识淡漠
+  discipline: [political, organization, integrity, life]
+  amount:
+    yuan: 69610000
+    text: 2006 年至 2015 年通过其近亲属非法收受他人财物共计折合人民币 6961 万余元；另内幕交易非法获利 210 万余元
+    cite: r02-court-2018-09-28-yao-gang-verdict
+  trigger: { kind: inspect, text: 中央纪委称，接受中央巡视的金融单位中证监会被查处 2 人，即主席助理张育军和副主席姚刚, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  with:
+    - { id: zhang-yujun, name: 张育军, rel: colleague, text: 财新称两人都是 2015 年股灾中证监会救市四人小组成员，后均因个人问题被彻查, cite: r02-caixin-2021-09-01-zhang-yujun-dies }
+  politics:
+    level: none
+    why: 开除通报用了“为搞政治攀附”的定性，但未说明攀附对象；财新称姚刚、张育军“均因个人问题被彻查”，本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2017-07-20-yao-gang-expel, r02-caixin-2021-09-01-zhang-yujun-dies]
+  voices:
+    - { voice: zh, text: 后姚刚、张育军两人均因个人问题被彻查。, quote: true, cite: r02-caixin-2021-09-01-zhang-yujun-dies }
+
+zhang-yujun:
+  sys: finance
+  grade: vice
+  notice:
+    date: 2017-07-21
+    cite: r02-xinhua-2017-07-21-zhang-yujun-expel
+    quotes:
+      - 对抗组织审查，不按规定报告个人有关事项
+      - 违规打高尔夫球，接受可能影响公正执行公务的宴请
+      - 纵容、默许亲属利用其职务影响谋取巨额不当利益
+      - “靠山吃山”，扰乱资本市场秩序，损害证券监管部门形象
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger: { kind: inspect, text: 中央纪委称，接受中央巡视的金融单位中证监会被查处 2 人，即主席助理张育军和副主席姚刚, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  with:
+    - { id: yao-gang, name: 姚刚, rel: colleague, text: 财新称两人都是 2015 年股灾中证监会救市四人小组成员，后均因个人问题被彻查, cite: r02-caixin-2021-09-01-zhang-yujun-dies }
+  politics:
+    level: none
+    why: 开除通报称其“靠山吃山”、扰乱资本市场秩序，未作团伙或攀附定性；财新称姚刚、张育军“均因个人问题被彻查”。
+    cites: [r02-xinhua-2017-07-21-zhang-yujun-expel, r02-caixin-2021-09-01-zhang-yujun-dies]
+  voices:
+    - { voice: zh, text: 财新称张育军是 2015 年股灾中证监会救市四人小组成员之一，此前曾力推券商创新、鼓励券商加杠杆。, cite: r02-caixin-2021-09-01-zhang-yujun-dies }
+
+jing-chunhua:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-05-08
+    cite: r02-ccdi-2015-05-08-jing-chunhua-expel
+    quotes:
+      - 违反廉洁自律规定，收受礼金
+      - 严重违反社会主义道德，与他人通奸
+      - 严重违反党的政治规矩和组织纪律，严重违纪违法，且党的十八大后仍不收敛、不收手
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 60547598
+    text: 2001 年至 2013 年直接或者通过其妻非法收受相关人员给予的财物共计折合人民币 6054.7598 万元；另有 8635.7137 万元财产不能说明来源
+    cite: t01-chinacourt-2016-12-jing-chunhua-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-05-08-jing-chunhua-expel }
+  politics:
+    level: none
+    why: 通报只列收受礼金、受贿和通奸，政治上仅有“违反党的政治规矩和组织纪律”的套语；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-05-08-jing-chunhua-expel, t01-chinacourt-2016-12-jing-chunhua-verdict]
+
+li-zhi:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-06
+    cite: r02-ccdi-2015-07-06-li-zhi-expel
+    quotes:
+      - 档案造假，向组织隐瞒本人真实年龄
+      - 索取、收受巨额贿赂
+      - 干扰、妨碍组织审查，转移、藏匿赃款赃物
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 13195327
+    text: 1996 年至 2013 年索取、非法收受他人财物共计折合人民币 1319.532694 万元，法院认定有索贿情节
+    cite: t01-chinacourt-2016-11-li-zhi-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-07-06-li-zhi-expel }
+  politics:
+    level: none
+    why: 通报除受贿、通奸外，点出“档案造假，向组织隐瞒本人真实年龄”，未作政治定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-07-06-li-zhi-expel]
+
+xu-jianyi:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2015-08-13
+    cite: r02-ccdi-2015-08-13-xu-jianyi-expel
+    quotes:
+      - 不认真履行党风廉政建设主体责任，不执行组织决定
+      - 为其子在职务晋升方面谋取利益
+      - 在购买住房中侵占国家利益、违规领取奖金
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 12189740
+    text: 2000 年至 2013 年直接或者间接非法收受他人给予的财物共计折合人民币 1218.974 万元
+    cite: t01-people-2017-02-09-xu-jianyi-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-08-13-xu-jianyi-expel }
+  with:
+    - { name: 张强, rel: briber, text: 长春市顺航运输有限公司法定代表人，判决认定徐建一为其在企业经营等事项上提供帮助, cite: t01-people-2017-02-09-xu-jianyi-verdict }
+  politics:
+    level: none
+    why: 通报与判决只涉受贿、为其子谋职、侵占住房利益，未作政治定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-08-13-xu-jianyi-expel, t01-people-2017-02-09-xu-jianyi-verdict]
+
+xu-gang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-27
+    cite: r02-ccdi-2015-07-27-xu-gang-expel
+    quotes:
+      - 由他人出资安排打高尔夫球
+      - 与其妻及部分行贿人串供，转移、藏匿赃款赃物
+      - 利用职务上的便利，为其妻的经营活动谋取利益
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 19770000
+    text: 2002 年至 2014 年直接或者通过其妻、女儿非法收受相关单位和个人给予的财物共计折合人民币 1977 万余元
+    cite: t01-chinacourt-2016-12-xu-gang-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-07-27-xu-gang-expel }
+  with:
+    - { name: 余娜, rel: kin, text: 徐钢之妻，判决认定徐钢直接或通过她收受财物, cite: t01-chinacourt-2016-12-xu-gang-verdict }
+    - { name: 徐昊皓, rel: kin, text: 徐钢之女，判决认定徐钢直接或通过她收受财物, cite: t01-chinacourt-2016-12-xu-gang-verdict }
+  politics:
+    level: none
+    why: 通报与判决只涉受贿、为妻子经营谋利和串供，未作政治定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-07-27-xu-gang-expel, t01-chinacourt-2016-12-xu-gang-verdict]
+
+zhong-shijian:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-21
+    cite: r02-people-2015-07-21-zhong-shijian-expel
+    quotes:
+      - 干预案件查处，违反保密纪律，向被审查人泄露案情
+      - 为谋求个人职务升迁，向他人行贿
+      - 与部分行贿人员串供，并将巨额财物转移藏匿
+      - 执纪违纪、知法犯法
+  discipline: [political, organization, integrity, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-chinanews-2015-04-01-zhong-shijian-probe }
+  with:
+    - { name: 吴耀先, rel: briber, text: 四会市住建局局长，2014 年 12 月为谋求提拔向钟世坚送 300 万港币, cite: r02-thepaper-2018-06-zhong-shijian-verdict }
+    - { name: 陈重光, rel: briber, text: 化州市原纪委书记，为晋升茂名市纪委副书记求钟世坚帮忙并向其行贿, cite: r02-thepaper-2018-06-zhong-shijian-verdict }
+  politics:
+    level: none
+    why: 开除通报称这名省纪委副书记“执纪违纪、知法犯法”，干预案件查处、向被审查人泄露案情；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-people-2015-07-21-zhong-shijian-expel, r02-thepaper-2018-06-zhong-shijian-verdict]
+  voices:
+    - { voice: official, text: 说到纪检系统影响恶劣的“内鬼”，广东省纪委原副书记、监察厅原厅长钟世坚无疑是其中的典型。, quote: true, cite: r02-thepaper-2018-06-zhong-shijian-verdict }
+
+wang-tianpu:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2015-09-18
+    cite: r02-ccdi-2015-09-18-wang-tianpu-expel
+    quotes:
+      - 为谋求个人职务升迁搞利益输送，隐瞒不报个人有关事项
+      - 且在组织责令整改后拒不整改，继续支持、纵容
+      - 违规公款宴请
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 33476584
+    text: 2003 年至 2014 年索取、非法收受财物共计折合人民币 3347.658376 万元；另非法占有国有财物折合 79.5934 万元
+    cite: t01-court-2017-01-24-wang-tianpu-verdict
+  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，中石化总经理王天普是其中之一, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  politics:
+    level: none
+    why: 开除通报指其“为谋求个人职务升迁搞利益输送”，但未点名输送对象；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-09-18-wang-tianpu-expel]
+
+xiao-tian:
+  sys: culture
+  grade: vice
+  notice:
+    date: 2015-09-24
+    cite: r02-ccdi-2015-09-24-xiao-tian-expel
+    quotes:
+      - 干扰、妨碍组织审查，订立攻守同盟，转移赃款赃物
+      - 出国期间擅自变更路线并延长在国外期限
+      - 接受私营企业主安排打高尔夫球
+      - 在干部选拔任用、赛事审批、体育产业经营等方面为他人谋取利益
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 7960662
+    text: 1997 年至 2014 年本人直接或通过他人索取、非法收受财物共计折合人民币 796.0662 万元，法院认定有索贿情节
+    cite: t01-chinacourt-2016-12-xiao-tian-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-09-24-xiao-tian-expel }
+  politics:
+    level: none
+    why: 通报与判决只涉受贿（含索贿）、赛事审批谋利和串供，未作团伙或靠山定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-09-24-xiao-tian-expel, t01-chinacourt-2016-12-xiao-tian-verdict]
+
+le-dake:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-10-30
+    cite: r02-ccdi-2015-10-30-le-dake-expel
+    quotes:
+      - 干扰、妨碍组织审查，不如实向组织说明问题
+      - 严重违反生活纪律，进行钱色交易、权色交易
+  discipline: [political, organization, integrity, life]
+  amount:
+    yuan: 18730274
+    text: 2005 年 1 月至 2014 年 9 月直接或通过其亲属非法收受财物共计折合人民币 1873.0274 万元
+    cite: t01-people-2016-12-30-le-dake-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-10-30-le-dake-expel }
+  politics:
+    level: none
+    why: 他曾任西藏国家安全厅厅长，案件因涉国家秘密不公开审理，但通报与判决只涉受贿和“钱色交易、权色交易”；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-10-30-le-dake-expel, t01-people-2016-12-30-le-dake-verdict]
+
+zhang-lijun:
+  sys: central
+  grade: vice
+  notice:
+    date: 2015-12-31
+    cite: r02-ccdi-2015-12-31-zhang-lijun-expel
+    quotes:
+      - 在职工录用中为亲属谋取利益
+      - 在企业经营等方面为他人谋取利益并收受财物，收受礼金，为亲属经营活动谋取利益
+      - 接受公款宴请
+  discipline: [organization, integrity, eight]
+  amount:
+    yuan: 2429900
+    text: 受贿 242.99 万元，2016 年 11 月一审获刑四年（人民网 2016 年获刑官员统计表）
+    cite: t01-people-2017-01-03-2016-verdicts
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-12-31-zhang-lijun-expel }
+  politics:
+    level: none
+    why: 通报未列政治纪律，只涉组织、廉洁纪律和八项规定；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-12-31-zhang-lijun-expel]
+
+zhao-liping:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-07-31
+    cite: r02-ccdi-2015-07-31-zhao-liping-expel
+    quotes:
+      - 非法持有枪支、弹药；严重违反社会主义道德，与他人通奸
+      - 此外，经公安机关侦查，赵黎平还涉嫌故意杀人罪
+      - 知纪违纪，执法犯法，性质恶劣、情节严重，社会影响极坏
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 23680000
+    text: 2008 年至 2010 年任内蒙古公安厅厅长期间非法收受人民币 2368 万元
+    cite: t01-chinacourt-2016-11-zhao-liping-verdict
+  trigger: { kind: incident, text: 判决认定他 2015 年 3 月 20 日在赤峰持枪杀害李某某，公安机关勘查杀人现场时查获其藏匿的枪支弹药；开除通报亦称其涉嫌故意杀人罪, cite: t01-chinacourt-2016-11-zhao-liping-verdict }
+  politics:
+    level: none
+    why: 案件由持枪杀人引出，通报与判决只涉杀人、受贿、持枪和储存爆炸物；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-07-31-zhao-liping-expel, t01-chinacourt-2016-11-zhao-liping-verdict]
+
+gu-chunli:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-10-30
+    cite: r02-ccdi-2015-10-30-gu-chunli-expel
+    quotes:
+      - 用公款支付应由个人承担的费用
+      - 长期借用国有企业车辆，接受公款宴请，多次出入私人会所
+      - 为其妻经营活动谋取利益，挥霍浪费公共财产
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 43650000
+    text: 2002 年至 2015 年直接或通过家人先后多次收受他人财物共计折合人民币 4365 万余元
+    cite: t01-xinhua-2017-03-31-gu-chunli-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-10-30-gu-chunli-expel }
+  politics:
+    level: none
+    why: 通报与判决只涉受贿、公款消费和为妻子经营谋利；判决称他检举揭发他人重大犯罪行为，有重大立功表现。本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-10-30-gu-chunli-expel, t01-xinhua-2017-03-31-gu-chunli-verdict]
+
+deng-qilin:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2016-01-08
+    cite: r02-ccdi-2016-01-08-deng-qilin-expel
+    quotes:
+      - 干扰、妨碍巡视工作，对抗组织审查，长期搞迷信活动
+      - 长期占用宾馆客房供个人使用
+      - 严重违反群众纪律、工作纪律和生活纪律，进行权色交易
+  discipline: [political, organization, integrity, mass, work, life]
+  amount:
+    yuan: 55397716
+    text: 2000 年至 2015 年直接或通过特定关系人非法收受财物折合人民币共计 5539.771588 万元
+    cite: t01-people-2017-06-01-8-verdicts
+  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，武钢原董事长邓崎琳是其中之一；开除通报也指其干扰、妨碍巡视工作, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  politics:
+    level: none
+    why: 通报指其“干扰、妨碍巡视工作，对抗组织审查，长期搞迷信活动”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-01-08-deng-qilin-expel]
+
+ai-baojun:
+  sys: local
+  grade: vice
+  notice:
+    date: 2016-01-19
+    cite: r02-ccdi-2016-01-19-ai-baojun-expel
+    quotes:
+      - 严重违反政治纪律，欺骗组织，对抗组织审查
+      - 利用职务上的便利为亲属经营活动谋取利益，搞权色交易
+      - 多次违规出入私人会所、打高尔夫球
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 43207737
+    text: 2000 年至 2014 年本人或通过特定关系人收受财物折合人民币共计 4320.773718 万元；另在宝钢购买停车位和上海市政府配售福利房中侵吞公共财物 751.25787 万元
+    cite: t01-court-2017-04-28-ai-baojun-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2016-01-19-ai-baojun-expel }
+  politics:
+    level: none
+    why: 通报与判决只涉受贿、贪污和权色交易，政治上仅有“欺骗组织，对抗组织审查”；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-01-19-ai-baojun-expel, t01-court-2017-04-28-ai-baojun-verdict]
+
+si-xinliang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-06-19
+    cite: r02-ccdi-2015-06-19-si-xinliang-expel
+    quotes:
+      - 由他人出资安排打高尔夫球
+      - 与其妻及部分行贿人订立攻守同盟，转移赃款赃物，干扰、妨碍组织审查
+      - 严重违反社会主义道德，与他人通奸
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 19554420
+    text: 2001 年至 2014 年直接或者通过其妻非法收受相关单位和个人给予的财物共计折合人民币 1955.442 万元
+    cite: t01-ccdi-2016-12-13-si-xinliang-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-06-19-si-xinliang-expel }
+  with:
+    - { name: 金惠芳, rel: kin, text: 斯鑫良之妻（另案处理），判决认定斯鑫良直接或通过她收受财物, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  politics:
+    level: none
+    why: 他曾任浙江省委组织部长，但通报与判决只涉受贿、打高尔夫和串供，未作政治定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-06-19-si-xinliang-expel, t01-ccdi-2016-12-13-si-xinliang-verdict]
+
+lu-wucheng:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-05-15
+    cite: r02-ccdi-2015-05-15-lu-wucheng-expel
+    quotes:
+      - 违反廉洁自律规定，收受礼金，违规从事营利活动
+      - 严重违反党的政治规矩和组织纪律，严重违纪违法，且党的十八大后仍不收敛、不收手
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 16266155
+    text: 2006 年至 2014 年在项目开发、规划审批、职务晋升等事宜上为他人谋利，非法收受财物共计折合人民币 1626.6155 万元
+    cite: t01-ifeng-2016-11-18-lu-wucheng-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-05-15-lu-wucheng-expel }
+  politics:
+    level: none
+    why: 通报与判决只涉收受礼金、违规营利和受贿，未作政治定性；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-05-15-lu-wucheng-expel, t01-ifeng-2016-11-18-lu-wucheng-verdict]
+
+xu-aimin:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-02-17
+    cite: r02-ccdi-2015-02-17-xu-aimin-expel
+    quotes:
+      - 为女儿、女婿在公务员录用和职务晋升方面谋取利益
+      - 滥用职权，造成国有资产重大损失
+      - 决定给予许爱民开除党籍处分，取消其副省级待遇，降为副处级非领导职务
+  discipline: [political, organization]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-02-17-xu-aimin-expel }
+  politics:
+    level: none
+    why: 通报只涉为子女谋职、滥用职权和骗取荣誉称号，未移送司法，按党纪降级处理；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2015-02-17-xu-aimin-expel, r02-ccdi-2016-01-29-ten-cadres]
+
+bai-xueshan:
+  sys: local
+  grade: vice
+  notice:
+    date: 2015-12-28
+    cite: r02-people-2015-12-28-bai-xueshan-expel
+    quotes:
+      - 严重违反政治纪律，党员意识淡漠，对抗组织审查，长期搞迷信活动
+      - 在组织函询时不如实向组织说明问题
+      - 为亲友经营活动谋取利益
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 38866808
+    text: 1994 年至 2015 年非法收受相关人员给予的财物共计折合人民币 3886.680806 万元
+    cite: t01-sina-2017-04-28-bai-xueshan-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-people-2015-12-28-bai-xueshan-expel }
+  politics:
+    level: none
+    why: 通报指其“党员意识淡漠，对抗组织审查，长期搞迷信活动”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-people-2015-12-28-bai-xueshan-expel]
+
+gai-ruyin:
+  sys: local
+  grade: vice
+  notice:
+    date: 2016-02-03
+    cite: r02-ccdi-2016-02-03-gai-ruyin-expel
+    quotes:
+      - 接受公款宴请，用公款旅游，违反规定出入私人会所
+      - 纵容、默许其子在其管辖的区域内从事经营活动
+      - 在分配、购买住房中侵犯国家利益，搞钱色交易
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 23030000
+    text: 受贿 2303 万余元，2017 年 4 月一审获刑十四年（人民网获刑官员统计表）
+    cite: t01-people-2017-04-19-11-verdicts
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2016-02-03-gai-ruyin-expel }
+  politics:
+    level: none
+    why: 通报只涉公款消费、纵容儿子经商和“钱色交易”，政治上仅有“对抗组织审查”；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-02-03-gai-ruyin-expel]
+
+si-xianmin:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2016-02-03
+    cite: r02-ccdi-2016-02-03-si-xianmin-expel
+    quotes:
+      - 严重违反政治纪律，干扰巡视工作，严重违反中央八项规定精神，用公款打高尔夫球
+      - 违规批准所在公司向他人支付公款
+      - 利用职权为他人谋取利益，其子收受财物
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 7892777
+    text: 2005 年至 2014 年非法收受有关单位和个人给予的财物共计折合人民币 789.2777 万元
+    cite: t01-qq-2017-04-28-si-xianmin-verdict
+  trigger: { kind: unknown, text: 官方通报未说明线索来源；开除通报称其干扰巡视工作, cite: r02-ccdi-2016-02-03-si-xianmin-expel }
+  politics:
+    level: none
+    why: 通报指其“干扰巡视工作”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-02-03-si-xianmin-expel]
+
+chang-xiaobing:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2016-07-11
+    cite: r02-ccdi-2016-07-11-chang-xiaobing-expel
+    quotes:
+      - 干扰中央专项巡视工作，没有认真履行全面从严治党主体责任，对中央巡视组反馈的问题整改落实不力
+      - 违反国有企业“三重一大”决策制度
+      - 默许亲属利用其职务影响谋取私利
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 3762880
+    text: 1998 年至 2014 年收受请托单位财物共计折合人民币 376.28801 万元；法院认定有自首情节，减轻处罚判刑六年
+    cite: t01-people-2017-06-01-8-verdicts
+  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，中国电信董事长常小兵是其中之一；开除通报也指其干扰中央专项巡视工作, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  politics:
+    level: none
+    why: 通报指其“干扰中央专项巡视工作”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-07-11-chang-xiaobing-expel]
+
+zhou-laizhen:
+  sys: central
+  grade: vice
+  notice:
+    date: 2016-01-19
+    cite: r02-hebcdi-2016-01-20-zhou-laizhen-expel
+    quotes:
+      - 干扰、妨碍巡视工作，对抗组织审查
+      - 违规插手相关单位人事安排，不按规定上交个人因私护照
+      - 违规持有、使用高尔夫球卡，接受超标准公款宴请，接受下属单位安排的旅游
+      - 出国期间擅自变更路线
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 25337922
+    text: 2000 年至 2015 年直接或者通过他人索取、非法收受相关人员给予的财物共计折合人民币 2533.7922 万元，法院认定有索贿情节
+    cite: r02-chinanews-2017-04-27-zhou-laizhen-verdict
+  trigger: { kind: inspect, text: 中央纪委称，民航局党组成员、副局长周来振是在中央巡视组进驻后被查处的, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  politics:
+    level: none
+    why: 通报指其“干扰、妨碍巡视工作，对抗组织审查”，但未提团伙或靠山；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-hebcdi-2016-01-20-zhou-laizhen-expel]
+
+wu-zhenfang:
+  sys: soe
+  grade: exec
+  retired: 2013-04
+  amount:
+    yuan: 1860000
+    text: 伙同妻子张某共同收受房屋装修款 170 万元，另收受他人为其本人及亲友支付的机票款 16 万余元
+    cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict
+  trigger: { kind: inspect, text: 2015 年 3 月初中央第二巡视组进驻中海油总公司，随后已退休两年的吴振芳被调查, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
+  with:
+    - { name: 张某, rel: kin, text: 吴振芳之妻，与其共同收受房屋装修款，以受贿罪被判有期徒刑三年、缓刑三年, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
+  politics:
+    level: none
+    why: 中央纪委未发开除通报，案件只涉一笔装修款和机票款，他在庭上对指控提出异议；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-chinanews-2017-02-16-wu-zhenfang-verdict]
+
+leng-rongquan:
+  sys: soe
+  grade: exec
+  retired: 2010-04
+  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，中国电信原副总冷荣泉是其中之一, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  politics:
+    level: none
+    why: 中央纪委未发开除通报，判决亦未见官方发布；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-people-2015-04-17-leng-rongquan-probe, r02-sina-2023-10-13-leng-rongquan]
+
+zhang-lebin:
+  sys: central
+  grade: vice
+  notice:
+    date: 2016-01-05
+    cite: r02-xinhua-2016-01-05-zhang-lebin-expel
+    quotes:
+      - 严重违反政治纪律和政治规矩、组织纪律，搞团团伙伙
+      - 利用职务上的便利或影响为他人谋取利益并收受财物，收受礼金
+  discipline: [political, organization, integrity]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-09-22-zhang-lebin-probe }
+  politics:
+    level: none
+    why: 开除通报指其“严重违反政治纪律和政治规矩、组织纪律，搞团团伙伙”，但未点名团伙成员；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-xinhua-2016-01-05-zhang-lebin-expel]
+
+zhu-fushou:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2016-01-29
+    cite: r02-ccdi-2016-01-29-ten-cadres
+    quotes:
+      - 东风汽车公司原党委副书记、董事、总经理朱福寿因严重违纪，受到开除党籍、行政撤职处分
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-11-02-zhu-fushou-probe }
+  politics:
+    level: none
+    why: 中央纪委只在 2015 年给予 10 名中管干部党纪重处分的通报中列出他，未公布违纪细节，未移送司法；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r02-ccdi-2016-01-29-ten-cadres]

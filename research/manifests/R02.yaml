@@ -1,0 +1,425 @@
+# R02: case records for the centrally managed cadres (non-military) first announced as under investigation in 2015.
+# www.ccdi.gov.cn answers scripted requests with a captcha page, so its notices are taken from Wayback raw snapshots
+# (id_); where no snapshot was found, a verbatim repost on people.com.cn / xinhuanet / hebcdi is used instead.
+web:
+  # --- overview ---
+  - id: r02-people-2016-01-02-ccdi-2015-tigers
+    title: 【大数据2015】从被查中管干部看反腐无禁区
+    publisher: 人民网（转载中央纪委监察部网站）
+    date: 2016-01-02
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2016/0102/c64371-28004523.html
+    start: 在刚刚过去的2015年
+    end: 警告、严重警告等纪律处分。
+  - id: r02-people-2015-04-02-cnooc-inspection
+    title: 中海油原副总经理吴振芳被查 巡视组进驻一个月
+    publisher: 人民网
+    date: 2015-04-02
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0402/c64371-26791508.html
+    start: 中国共产党新闻网北京4月2日电
+    end: 6家单位至少有19名领导干部被查处。
+  - id: r02-bbc-2015-08-12-huo-ke
+    title: 国家旅游局原副局长霍克被双开
+    publisher: BBC 中文
+    date: 2015-08-12
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2015/08/150812_chinese_official_corruption_huo-ke
+    excerpt: true
+    keep: [ 令計劃 ]
+  - id: r02-caixin-2021-09-01-zhang-yujun-dies
+    title: 2015年股灾后被查的最后一个“责任人”张育军病逝｜讣闻
+    publisher: 财新网
+    author: 岳跃
+    date: 2021-09-01
+    voice: zh
+    url: https://www.caixin.com/2021-09-01/101767301.html
+    excerpt: true
+    keep: [ 胰腺癌, 救市四人小组 ]
+  # --- probes (new cards) ---
+  - id: r02-people-2015-01-19-huo-ke-removed
+    title: 中组部：霍克涉嫌严重违纪违法 中央决定免去其领导职务
+    publisher: 中国共产党新闻网
+    date: 2015-01-19
+    voice: official
+    url: http://cpc.people.com.cn/n/2015/0119/c164113-26412233.html
+    start: 中国共产党新闻网北京1月19日电
+    end: 中共十八大代表。
+  - id: r02-chinanews-2015-04-01-zhong-shijian-probe
+    title: 广东省纪委副书记、监察厅厅长钟世坚涉嫌严重违纪违法接受组织调查
+    publisher: 中国新闻网（转载中央纪委监察部网站）
+    date: 2015-04-01
+    voice: official
+    url: https://www.chinanews.com/fz/2015/04-01/7177319.shtml
+    start: 据中央纪委监察部网站消息
+    end: 广东省预防腐败局局长
+  - id: r02-ccdi-2015-04-02-wu-zhenfang-probe
+    title: 中国海洋石油总公司原党组成员、副总经理吴振芳接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-04-02
+    voice: official
+    url: https://web.archive.org/web/20150923224055id_/http://www.ccdi.gov.cn/xwtt/201504/t20150402_54209.html
+    start: 据国务院国资委纪委消息
+    end: 生产经营重大决策。
+  - id: r02-people-2015-04-17-leng-rongquan-probe
+    title: 中国电信集团公司原副总经理冷荣泉接受组织调查
+    publisher: 人民网（转载国务院国资委网站）
+    date: 2015-04-17
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0417/c1001-26863424.html
+    start: 人民网北京4月17日电
+    end: （2010.04 退休）
+  - id: r02-people-2015-09-16-zhang-yujun-probe
+    title: 中国证监会主席助理张育军接受组织调查
+    publisher: 人民网
+    date: 2015-09-16
+    voice: official
+    url: http://finance.people.com.cn/n/2015/0916/c42877-27595010.html
+    start: 人民网北京9月16日电
+    end: （简历摘自中国证券监督管理委员会官网）
+  - id: r02-ccdi-2015-09-22-zhang-lebin-probe
+    title: 国家宗教事务局党组成员、副局长张乐斌接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-09-22
+    voice: official
+    url: http://m.ccdi.gov.cn/content/eb/77/5860.html
+    start: 国家宗教事务局党组成员、副局长张乐斌涉嫌严重违纪，目前
+    end: （简历摘自国家宗教事务局官网）
+  - id: r02-ccdi-2015-11-02-zhu-fushou-probe
+    title: 东风汽车公司党委副书记、董事、总经理朱福寿被调查
+    publisher: 中央纪委监察部网站
+    date: 2015-11-02
+    voice: official
+    url: https://web.archive.org/web/20160205072715id_/http://www.ccdi.gov.cn/xwtt/201511/t20151102_64333.html
+    start: 东风汽车公司党委副书记、董事、总经理朱福寿涉嫌
+    end: （简历摘自东风汽车有限公司官网）
+  - id: r02-ccdi-2015-11-13-yao-gang-probe
+    title: 中国证监会党委委员、副主席姚刚接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2015-11-13
+    voice: official
+    url: https://web.archive.org/web/20160304104651id_/http://www.ccdi.gov.cn/xwtt/201511/t20151113_65055.html
+    start: 中国证券监督管理委员会党委委员、副主席姚刚涉嫌
+    end: （简历摘自中国证券监督管理委员会网站）
+  - id: r02-people-2015-11-24-zhou-laizhen-probe
+    title: 中国民用航空局副局长周来振接受组织调查
+    publisher: 人民网
+    date: 2015-11-24
+    voice: official
+    url: http://politics.people.com.cn/n/2015/1124/c1001-27851062.html
+    start: 人民网北京11月24日电
+    end: (简历摘自中国民用航空局网站)
+  - id: r02-people-2017-09-18-zhang-yujun-spp
+    title: 中国证监会原主席助理张育军涉受贿罪被立案侦查
+    publisher: 中国共产党新闻网
+    date: 2017-09-18
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0918/c64371-29541407.html
+    start: 中国共产党新闻网北京9月18日电
+    end: 2012年9月任中国证券监督管理委员会主席助理。
+  # --- expulsions and other party outcomes ---
+  - id: r02-ccdi-2015-02-17-xu-aimin-expel
+    title: 江西省政协副主席许爱民严重违纪被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2015-02-17
+    voice: official
+    url: https://web.archive.org/web/20150217105549id_/http://www.ccdi.gov.cn/yw/201502/t20150217_51624.html
+    start: 日前，中共中央纪委对江西省政协
+    end: 降为副处级非领导职务。
+  - id: r02-12371-2015-03-18-xu-aimin-removed
+    title: 江西省政协副主席许爱民因严重违纪被免职
+    publisher: 共产党员网（转载新华网）
+    date: 2015-03-18
+    voice: official
+    url: http://news.12371.cn/2015/03/18/ARTI1426668263462868.shtml
+    start: 记者18日获悉
+    end: 被免去政协江西省第十一届委员会副主席职务、撤销其政协江西省第十一届委员会委员资格。
+  - id: r02-ccdi-2015-05-08-jing-chunhua-expel
+    title: 河北省委原常委、秘书长景春华严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-05-08
+    voice: official
+    url: https://web.archive.org/web/20150923224100id_/http://www.ccdi.gov.cn/xwtt/201505/t20150508_55970.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-05-15-lu-wucheng-expel
+    title: 甘肃省人大常委会原副主任陆武成严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-05-15
+    voice: official
+    url: https://web.archive.org/web/20150922150004id_/http://www.ccdi.gov.cn/xwtt/201505/t20150515_56438.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-06-15-liao-yongyuan-expel
+    title: 中国石油天然气集团公司原总经理廖永远严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-06-15
+    voice: official
+    url: https://web.archive.org/web/20150922141721id_/http://www.ccdi.gov.cn/jlsc/201506/t20150615_57840.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-06-19-si-xinliang-expel
+    title: 浙江省政协原副主席斯鑫良严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-06-19
+    voice: official
+    url: https://web.archive.org/web/20150619090431id_/http://www.ccdi.gov.cn/xwtt/201506/t20150619_58143.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-07-06-li-zhi-expel
+    title: 新疆维吾尔自治区人大常委会原副主任栗智严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-07-06
+    voice: official
+    url: https://web.archive.org/web/20160804110016id_/http://www.ccdi.gov.cn/xwtt/201507/t20150706_58796.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-people-2015-07-21-zhong-shijian-expel
+    title: 广东省纪委原副书记、监察厅原厅长钟世坚严重违纪违法被双开
+    publisher: 人民网（转载中央纪委监察部网站）
+    date: 2015-07-21
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0721/c1001-27337832.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-07-27-xu-gang-expel
+    title: 福建省原副省长徐钢严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-07-27
+    voice: official
+    url: https://web.archive.org/web/20150730034910id_/http://www.ccdi.gov.cn/xwtt/201507/t20150727_59765.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-07-31-zhao-liping-expel
+    title: 内蒙古自治区政协原副主席赵黎平严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-07-31
+    voice: official
+    url: https://web.archive.org/web/20160212221342id_/http://www.ccdi.gov.cn/xwtt/201507/t20150731_60005.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-hebcdi-2015-08-12-huo-ke-expel
+    title: 国家旅游局原副局长、党组成员霍克严重违纪违法被开除党籍和公职
+    publisher: 河北省纪委网站（转载中央纪委监察部网站）
+    date: 2015-08-12
+    voice: official
+    url: http://www.hebcdi.gov.cn/2015-08/12/content_5958323.htm
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-08-13-xu-jianyi-expel
+    title: 中国第一汽车集团公司原董事长徐建一严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-08-13
+    voice: official
+    url: https://web.archive.org/web/20150923224126id_/http://www.ccdi.gov.cn/xwtt/201508/t20150813_60513.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-09-18-wang-tianpu-expel
+    title: 中国石油化工集团公司原总经理王天普严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-09-18
+    voice: official
+    url: https://web.archive.org/web/20160927140205id_/http://www.ccdi.gov.cn/xwtt/201509/t20150918_62038.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-09-24-xiao-tian-expel
+    title: 国家体育总局原副局长肖天严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-09-24
+    voice: official
+    url: https://web.archive.org/web/20160305012049id_/http://www.ccdi.gov.cn/yw/201509/t20150924_62618.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-09-29-xi-xiaoming-expel
+    title: 最高人民法院原副院长奚晓明严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-09-29
+    voice: official
+    url: https://web.archive.org/web/20151003034131id_/http://www.ccdi.gov.cn/xwtt/201509/t20150929_62886.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-10-16-yu-yuanhui-expel
+    title: 广西壮族自治区党委原常委、南宁市委原书记余远辉严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-10-16
+    voice: official
+    url: https://web.archive.org/web/20151022030002id_/http://www.ccdi.gov.cn/jlsc/201510/t20151016_63612.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-10-30-le-dake-expel
+    title: 西藏自治区人大常委会原副主任乐大克严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-10-30
+    voice: official
+    url: https://web.archive.org/web/20151222111209id_/http://www.ccdi.gov.cn/jlsc/201510/t20151030_64226.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-10-30-gu-chunli-expel
+    title: 吉林省原副省长谷春立严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-10-30
+    voice: official
+    url: https://web.archive.org/web/20151222120147id_/http://www.ccdi.gov.cn/jlsc/201510/t20151030_64227.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-people-2015-12-28-bai-xueshan-expel
+    title: 宁夏回族自治区政府副主席白雪山严重违纪被双开
+    publisher: 人民网（转载中央纪委监察部网站）
+    date: 2015-12-28
+    voice: official
+    url: http://politics.people.com.cn/n1/2015/1228/c1001-27986996.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2015-12-31-zhang-lijun-expel
+    title: 环境保护部原副部长张力军严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-12-31
+    voice: official
+    url: https://web.archive.org/web/20160111142722id_/http://www.ccdi.gov.cn/xwtt/201512/t20151231_71844.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-01-05-lu-xiwen-expel
+    title: 北京市委原副书记吕锡文严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-01-05
+    voice: official
+    url: https://web.archive.org/web/20160126155044id_/http://www.ccdi.gov.cn/xwtt/201601/t20160105_72052.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-xinhua-2016-01-05-zhang-lebin-expel
+    title: 国家宗教事务局原党组成员、副局长张乐斌严重违纪被开除党籍和公职
+    publisher: 新华网
+    date: 2016-01-05
+    voice: official
+    url: http://www.xinhuanet.com/politics/2016-01/05/c_1117672549.htm
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-01-08-deng-qilin-expel
+    title: 武汉钢铁（集团）公司原董事长邓崎琳严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-01-08
+    voice: official
+    url: https://web.archive.org/web/20160304123815id_/http://www.ccdi.gov.cn/yw/201601/t20160108_72264.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-01-19-ai-baojun-expel
+    title: 上海市委原常委、副市长艾宝俊严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-01-19
+    voice: official
+    url: https://web.archive.org/web/20160121165633id_/http://www.ccdi.gov.cn/jlsc/djcf/201601/t20160119_73113.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-hebcdi-2016-01-20-zhou-laizhen-expel
+    title: 中国民用航空局原副局长周来振严重违纪被开除党籍和公职
+    publisher: 河北省纪委网站（转载中央纪委监察部网站）
+    date: 2016-01-19
+    voice: official
+    url: http://www.hebcdi.gov.cn/2016-01/20/content_5958185.htm
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-01-29-ten-cadres
+    title: 中央纪委2015年给予10名中管干部党纪重处分并作出重大职务调整
+    publisher: 中央纪委监察部网站
+    date: 2016-01-29
+    voice: official
+    url: https://web.archive.org/web/20160201005119id_/http://www.ccdi.gov.cn/xwtt/201601/t20160129_73665.html
+    start: 2015年，中央纪委贯彻落实
+    end: 总经济师范坚因严重违纪，受到开除党籍、行政撤职处分，降为副处级非领导职务。
+  - id: r02-ccdi-2016-02-03-si-xianmin-expel
+    title: 中国南方航空集团公司原总经理司献民严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-02-03
+    voice: official
+    url: https://web.archive.org/web/20160212124829id_/http://www.ccdi.gov.cn/xwtt/201602/t20160203_73949.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-02-03-gai-ruyin-expel
+    title: 黑龙江省人大常委会原副主任盖如垠严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-02-03
+    voice: official
+    url: https://web.archive.org/web/20160310093259id_/http://www.ccdi.gov.cn/xwtt/201602/t20160203_73960.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-07-11-chang-xiaobing-expel
+    title: 中国电信集团公司原董事长常小兵严重违纪被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2016-07-11
+    voice: official
+    url: https://web.archive.org/web/20160715073019id_/http://www.ccdi.gov.cn/jlsc/zggb/djcf_zggb/201607/t20160711_83462.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2016-12-30-ma-jian-expel
+    title: 国家安全部原副部长马建严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2016-12-30
+    voice: official
+    url: https://web.archive.org/web/20170111151209id_/http://www.ccdi.gov.cn/xwtt/201612/t20161230_92007.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2017-07-04-su-shulin-expel
+    title: 福建省原省长苏树林严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2017-07-04
+    voice: official
+    url: https://web.archive.org/web/20171112002348id_/http://www.ccdi.gov.cn/jlsc/zggb/djcf_zggb/201707/t20170704_102216.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-ccdi-2017-07-20-yao-gang-expel
+    title: 中国证监会原副主席姚刚严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2017-07-20
+    voice: official
+    url: https://web.archive.org/web/20170825002327id_/http://www.ccdi.gov.cn/xwtt/201707/t20170720_103253.html
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  - id: r02-xinhua-2017-07-21-zhang-yujun-expel
+    title: 中国证券监督管理委员会原党委委员、主席助理张育军严重违纪被开除党籍和公职
+    publisher: 新华网
+    date: 2017-07-21
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-07/21/c_1121359986.htm
+    start: 日前，经中共中央批准
+    end: 依法处理。
+  # --- verdicts (new cards) ---
+  - id: r02-chinanews-2017-02-16-wu-zhenfang-verdict
+    title: 中海油原副总经理吴振芳受贿获刑3年半 妻子获缓刑
+    publisher: 中国新闻网
+    date: 2017-02-16
+    voice: official
+    url: https://www.chinanews.com/cj/2017/02-16/8150916.shtml
+    start: 中国海洋石油总公司原副总经理吴振芳，利用
+    end: 并处罚金20万元。
+  - id: r02-chinanews-2017-04-27-zhou-laizhen-verdict
+    title: 民航局原副局长周来振受贿案一审宣判
+    publisher: 中国新闻网
+    date: 2017-04-27
+    voice: official
+    url: https://www.chinanews.com/gn/2017/04-27/8210780.shtml
+    start: 中新社南阳4月27日电
+    end: 法庭遂作出上述判决。
+  - id: r02-court-2018-09-28-yao-gang-verdict
+    title: 中国证监会原副主席姚刚受贿、内幕交易案一审宣判
+    publisher: 最高人民法院网
+    date: 2018-09-28
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/121021.html
+    start: 2018年9月28日上午
+    end: 法庭遂作出上述判决。
+  - id: r02-sina-2023-10-13-leng-rongquan
+    title: 揭秘某运营商原集团副总出事细节：收通鼎光电600多万 不减刑的话出监狱需要80岁
+    publisher: 新浪科技（转载运营商财经网）
+    date: 2023-10-13
+    voice: zh
+    url: https://finance.sina.com.cn/tech/roll/2023-10-13/doc-imzqyepk0849965.shtml
+    excerpt: true
+    keep: [ 决定执行有期徒刑十四年, 2243.5041万元 ]
+  - id: r02-thepaper-2018-06-zhong-shijian-verdict
+    title: 广东省纪委原副书记钟世坚案判决细节披露
+    publisher: 澎湃新闻
+    date: 2018-06-17
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2238164
+    excerpt: true
+    keep: [ 钟世坚 ]

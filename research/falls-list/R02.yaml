@@ -1,0 +1,43 @@
+# R02: centrally managed cadres (non-military) whose investigation was first announced in 2015.
+# Basis: CCDI's 2016-01-02 round-up of the 37 announced in 2015 (r02-people-2016-01-02-ccdi-2015-tigers) and its
+# probe column lists (t01-ccdi-jlsc-list-p2, -p3); 霍克 (announced 2015-01-16) is in the column but missing from
+# some media tallies; 赵黎平's first CCDI notice was his expulsion (2015-07-31). 郭伯雄 (2015-07-30) is military, out
+# of scope; 赵少麟 was first announced on 2014-10-11 and belongs to R01.
+- { name: 杨卫泽, date: 2015-01-04, post: 江苏省委常委、南京市委书记, id: yang-weize, done: true }
+- { name: 马建, date: 2015-01-16, post: 国家安全部副部长, id: ma-jian, done: true }
+- { name: 霍克, date: 2015-01-16, post: 国家旅游局副局长, id: huo-ke, done: true }
+- { name: 陆武成, date: 2015-01-23, post: 甘肃省人大常委会副主任, id: lu-wucheng, done: true }
+- { name: 斯鑫良, date: 2015-02-16, post: 浙江省政协原副主席, id: si-xinliang, done: true }
+- { name: 许爱民, date: 2015-02-17, post: 江西省政协副主席, id: xu-aimin, done: true }
+- { name: 景春华, date: 2015-03-03, post: 河北省委常委、秘书长, id: jing-chunhua, done: true }
+- { name: 栗智, date: 2015-03-11, post: 新疆维吾尔自治区人大常委会原副主任, id: li-zhi, done: true }
+- { name: 仇和, date: 2015-03-15, post: 云南省委副书记, id: qiu-he, done: true }
+- { name: 徐建一, date: 2015-03-15, post: 中国第一汽车集团公司董事长, id: xu-jianyi, done: true }
+- { name: 廖永远, date: 2015-03-16, post: 中国石油天然气集团公司总经理, id: liao-yongyuan, done: true }
+- { name: 徐钢, date: 2015-03-20, post: 福建省副省长, id: xu-gang, done: true }
+- { name: 钟世坚, date: 2015-04-01, post: 广东省纪委副书记、省监察厅厅长, id: zhong-shijian, done: true }
+- { name: 吴振芳, date: 2015-04-02, post: 中国海洋石油总公司原副总经理, id: wu-zhenfang, done: true }
+- { name: 冷荣泉, date: 2015-04-17, post: 中国电信集团公司原副总经理, id: leng-rongquan, done: true }
+- { name: 王天普, date: 2015-04-27, post: 中国石油化工集团公司总经理, id: wang-tianpu, done: true }
+- { name: 余远辉, date: 2015-05-22, post: 广西壮族自治区党委常委、南宁市委书记, id: yu-yuanhui, done: true }
+- { name: 肖天, date: 2015-06-25, post: 国家体育总局副局长, id: xiao-tian, done: true }
+- { name: 乐大克, date: 2015-06-26, post: 西藏自治区人大常委会副主任, id: le-dake, done: true }
+- { name: 奚晓明, date: 2015-07-12, post: 最高人民法院副院长, id: xi-xiaoming, done: true }
+- { name: 周本顺, date: 2015-07-24, post: 河北省委书记, id: zhou-benshun, done: true }
+- { name: 张力军, date: 2015-07-30, post: 环境保护部原副部长, id: zhang-lijun, done: true }
+- { name: 赵黎平, date: 2015-07-31, post: 内蒙古自治区政协原副主席, id: zhao-liping, done: true }
+- { name: 谷春立, date: 2015-08-01, post: 吉林省副省长, id: gu-chunli, done: true }
+- { name: 杨栋梁, date: 2015-08-18, post: 国家安全生产监督管理总局局长, id: yang-dongliang, done: true }
+- { name: 邓崎琳, date: 2015-08-29, post: 武汉钢铁（集团）公司原董事长, id: deng-qilin, done: true }
+- { name: 张育军, date: 2015-09-16, post: 中国证监会主席助理, id: zhang-yujun, done: true }
+- { name: 张乐斌, date: 2015-09-22, post: 国家宗教事务局副局长, id: zhang-lebin, done: true }
+- { name: 苏树林, date: 2015-10-07, post: 福建省委副书记、省长, id: su-shulin, done: true }
+- { name: 朱福寿, date: 2015-11-02, post: 东风汽车公司总经理, id: zhu-fushou, done: true }
+- { name: 司献民, date: 2015-11-04, post: 中国南方航空集团公司总经理, id: si-xianmin, done: true }
+- { name: 白雪山, date: 2015-11-06, post: 宁夏回族自治区政府副主席, id: bai-xueshan, done: true }
+- { name: 艾宝俊, date: 2015-11-10, post: 上海市委常委、副市长, id: ai-baojun, done: true }
+- { name: 吕锡文, date: 2015-11-11, post: 北京市委副书记, id: lu-xiwen, done: true }
+- { name: 姚刚, date: 2015-11-13, post: 中国证监会副主席, id: yao-gang, done: true }
+- { name: 周来振, date: 2015-11-24, post: 中国民用航空局副局长, id: zhou-laizhen, done: true }
+- { name: 盖如垠, date: 2015-12-08, post: 黑龙江省人大常委会党组书记、副主任, id: gai-ruyin, done: true }
+- { name: 常小兵, date: 2015-12-27, post: 中国电信集团公司董事长, id: chang-xiaobing, done: true }
