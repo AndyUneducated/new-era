@@ -302,6 +302,7 @@ export function check(d: Data) {
     for (const x of t.counter) {
       if (x.id) ref(people, 'person', x.id, `${w} counter ${x.name}`)
       cite(x.cite, `${w} counter ${x.name}`)
+      prose(x.text, [x.cite], `${w} counter ${x.name}`)
     }
   }
   unique('case', d.cases.map((c) => c.id))

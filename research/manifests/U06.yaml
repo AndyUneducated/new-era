@@ -1,0 +1,26 @@
+# U06: 上位之路 (content/turns/U06.yaml) for 22 senior PLA generals with full biographies — sources for rungs and turning points.
+web:
+  - id: u06-gov-2019-12-12-generals-promoted
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 中国政府网（新华社）
+    date: 2019-12-12
+    voice: official
+    url: https://www.gov.cn/xinwen/2019-12/12/content_5460671.htm
+    start: 新华社北京12月12日电
+    end: 同晋升上将军衔的军官合影。
+  - id: u06-gov-2021-07-05-generals-promoted
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 中国政府网（新华社）
+    date: 2021-07-05
+    voice: official
+    url: https://www.gov.cn/xinwen/2021-07/05/content_5622580.htm
+    start: 新华社北京7月5日电
+    end: 参加晋衔仪式。
+  - id: u06-ce-2008-05-13-wenchuan-army
+    title: 全军和武警部队全面启动应急机制紧急驰援灾区
+    publisher: 经济日报（新华社）
+    date: 2008-05-13
+    voice: official
+    url: http://paper.ce.cn/jjrb/html/2008-05/13/content_13505.htm
+    start: 灾情就是命令。
+    end: （新华社北京5月12日电）
