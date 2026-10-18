@@ -16,6 +16,7 @@ import { People } from './views/People'
 import { PersonPage } from './views/PersonPage'
 import { Provinces } from './views/Provinces'
 import { Purges } from './views/Purges'
+import { Rise } from './views/Rise'
 import { Timeline } from './views/Timeline'
 
 const NAV = [
@@ -23,6 +24,7 @@ const NAV = [
   ['factions', '派系'],
   ['provinces', '诸侯'],
   ['purges', '打虎'],
+  ['rise', '上位之路'],
   ['timeline', '时间线'],
   ['ideas', '思想'],
 ] as const
@@ -63,6 +65,7 @@ export function App() {
   else if (top === 'factions') view = id ? <FactionPage key={id} id={id} /> : <Factions />
   else if (top === 'provinces') view = <Provinces />
   else if (top === 'purges') view = id ? <CasePage key={id} id={id} /> : <Purges />
+  else if (top === 'rise') view = <Rise />
   else if (top === 'timeline') view = <Timeline />
   else if (top === 'ideas') view = id ? <ConceptPage key={id} id={id} /> : <Ideas />
   else if (top === 'about') view = <About />
@@ -83,7 +86,14 @@ export function App() {
         <nav className="nav">
           {NAV.map(([k, label]) => (
             <a key={k} href={href(k)} className={top === k ? 'on' : undefined}>
-              {label}
+              {label.length > 3 ? (
+                <>
+                  {label.slice(0, 2)}
+                  <span className="long">{label.slice(2)}</span>
+                </>
+              ) : (
+                label
+              )}
             </a>
           ))}
         </nav>

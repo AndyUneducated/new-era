@@ -1,10 +1,10 @@
 // Counted bars for the anatomy of the falls: one row per category, a click lists who is in it.
 import { useState } from 'react'
-import type { Fall } from '../../lib/purge'
+import type { PersonR } from '../../data/db'
 import { personHref } from '../../lib/router'
 import { Srcs } from '../bits'
 
-export interface TallyRow { key: string; label: string; list: Fall[]; color?: string; note?: string }
+export interface TallyRow { key: string; label: string; list: { p: PersonR; date?: string }[]; color?: string; note?: string }
 
 export function Tally({ rows, of, unit = '人', fold }: { rows: TallyRow[]; of?: number; unit?: string; fold?: number }) {
   const [open, setOpen] = useState<string>()
@@ -37,7 +37,7 @@ export function Tally({ rows, of, unit = '人', fold }: { rows: TallyRow[]; of?:
                 {r.list.map((f) => (
                   <a key={f.p.id} href={personHref(f.p.id)} className="pg-chip" title={f.p.headline}>
                     {f.p.name}
-                    <span className="m">{f.date.slice(0, 4)}</span>
+                    {f.date && <span className="m">{f.date.slice(0, 4)}</span>}
                   </a>
                 ))}
               </div>

@@ -1,0 +1,47 @@
+# 上位之路的样例：胡春华。字段见 src/data/schema.ts 的 TurnRecordSchema 和 research/howto-content.md §12。
+hu-chunhua:
+  routes: [youth, frontier, crisis]
+  rungs:
+    - { rung: bureau, date: 1995, post: 山南地委副书记、行署专员, cite: b09-people-2018-03-hu-chunhua-cv }
+    - { rung: vice, date: 1997, post: 共青团中央书记处书记, cite: b09-people-2018-03-hu-chunhua-cv }
+    - { rung: minister, date: 2006, post: 共青团中央书记处第一书记, cite: b09-people-2018-03-hu-chunhua-cv }
+    - { rung: pb, date: 2012-11, post: 中央政治局委员, cite: b09-cna-2022-10-23-hu-chunhua }
+  turns:
+    - date: 1983-08
+      h: 北大毕业进藏
+      text: >-
+        1983年胡春华从北京大学中文系毕业后到西藏工作，先后在团区委组织部、西藏青年报社、西藏饭店任职，1987年起任团区委副书记、书记，1995年任山南地委副书记、行署专员。中央社统计，他在西藏前后工作了19年。
+      did: >-
+        去了条件艰苦的边疆，从共青团的基层岗位做起，长期不离开，三十出头就做到了地区一级的主官。
+      who: []
+      cites: [b09-people-2018-03-hu-chunhua-cv, b09-cna-2017-10-01-hu-chunhua]
+    - date: 1997
+      h: 两进两出团中央
+      text: >-
+        1997年他调任共青团中央书记处书记，2001年重返西藏，历任自治区党委常委兼秘书长、党委副书记兼政府常务副主席、党委常务副书记，2006年回京任团中央第一书记，2008年外放河北任省长。法广报道说，他因为与胡锦涛同姓、又有相似的团派背景，有“小胡”之称。
+      did: >-
+        在中央机关和民族地区之间来回任职，同时攒下中央部门和地方主政两种经历，再从团中央第一书记转任省长。
+      who: [hu-jintao]
+      cites: [b09-people-2018-03-hu-chunhua-cv, b09-rfi-2012-08-08-xiao-hu]
+    - date: 2011
+      h: 内蒙古的危机
+      text: >-
+        2009年起胡春华主政内蒙古。法广2012年报道说，前一年内蒙古发生骚乱时，他处理危机的方式被中央认可；一名接近中共高层的消息人士说，“胡锦涛对胡春华的评价很高，决心提拔他”。2012年11月十八大，49岁的胡春华进入中央政治局，随后出任广东省委书记。
+      did: >-
+        在民族地区的突发事件里稳住局面，把一次危机变成了向中央证明能力的机会。
+      who: [hu-jintao]
+      cites: [b09-rfi-2012-08-08-xiao-hu, b09-people-2018-03-hu-chunhua-cv, b09-cna-2022-10-23-hu-chunhua]
+  can:
+    text: >-
+      能学的是去别人不愿去的地方、待得足够久：近二十年的西藏基层和地方经历，让他在同龄人里有了少见的独当一面的资历；遇到突发危机时处理稳妥，也被上级看在眼里。
+    cites: [b09-people-2018-03-hu-chunhua-cv, b09-cna-2017-10-01-hu-chunhua, b09-rfi-2012-08-08-xiao-hu]
+  cannot:
+    text: >-
+      学不来的是赏识和梯队：他的快速上升离不开胡锦涛的器重和团派的人事安排。同一份背景在最高领导人更替后变成了负担，2022年二十大他没有留在政治局，中央社用从太子到出局来形容他的际遇。
+    cites: [b09-rfi-2012-08-08-xiao-hu, b09-cna-2022-10-23-hu-chunhua]
+  counter:
+    - id: sun-zhengcai
+      name: 孙政才
+      text: 与胡春华同年出生，同在2012年以49岁进入政治局，同被视为接班人选；2017年十九大前被调离重庆市委书记岗位并立案审查，2018年以受贿罪被判无期徒刑。
+      cite: b07-xinhua-2018-05-08-sun-sentence
+  deep: true
