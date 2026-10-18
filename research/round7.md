@@ -4,18 +4,18 @@
 
 页面已建好：人物页“上位之路”一节（`src/components/rise/Turns.tsx`）、上位之路页（`#/rise`）。样例 `content/turns/00-exemplar.yaml`（胡春华）已通过构建。
 
-## T01–T06：完整传记人物的上位之路
+## U01–U06：完整传记人物的上位之路
 
 每人写一条 `content/turns/<批次>.yaml` 记录（§12）。**先读这个人已有的传记**（`content/people/*.yaml` 里的 `life`、`positions`、`cites`），已有来源能写的先用已有来源；台阶年份以官方简历为准。每批挑 3–5 位写成 `deep: true`：转折点 3–4 个、`who` 写全、至少一个 `counter`。
 
 | 批次 | 人物 |
 |---|---|
-| T01 | deng-xiaoping, chen-yun, hu-yaobang, song-ping, zhao-ziyang, jiang-zemin, li-peng, zhu-rongji, wei-jianxing, li-lanqing, li-ruihuan, luo-gan, wu-guanzheng, huang-ju, zeng-qinghong, jia-qinglin, wu-bangguo, xi-zhongxun |
-| T02 | wen-jiabao, zhou-yongkang, hu-jintao, he-guoqiang, li-changchun, yu-zhengsheng, zhang-gaoli, zhang-dejiang, liu-yunshan, wang-qishan, li-zhanshu, xi-jinping, han-zheng, wang-yang, li-keqiang, wang-huning |
-| T03 | cai-qi, li-xi, zhao-leji, li-qiang, ding-xuexiang, wu-yi, zeng-peiyan, wang-zhaoguo, liu-qi, hui-liangyu, wang-lequan, liu-yandong, li-jianguo, chen-liangyu, guo-jinlong, meng-jianzhu, bo-xilai, sun-chunlan |
-| T04 | li-yuanchao, wang-chen, liu-he, liu-qibao, zhang-chunxian, chen-xi, wang-yi, yang-xiaodu, guo-shengkun, he-lifeng, chen-quanguo, li-hongzhong, shi-taifeng, huang-kunming, yang-jiechi, ma-xingrui, chen-wenqing, chen-miner |
-| T05 | liu-guozhong, yin-li, yuan-jiajun, sun-zhengcai, li-shulei, chen-jining, zhang-guoqing, li-ganjie, you-quan, fu-zhenghua, liu-jinguo, wang-xiaohong, ling-jihua, lu-wei, lai-xiaomin, sun-lijun, su-rong, qin-gang |
-| T06 | chi-haotian, cao-gangchuan, guo-boxiong, xu-caihou, fan-changlong, xu-qiliang, zhang-youxia, he-weidong, liang-guanglie, chen-bingde, wu-shengli, chang-wanquan, ma-xiaotian, fang-fenghui, zhang-yang, li-zuocheng, wei-fenghe, miao-hua, li-shangfu, zhang-shengmin, liu-zhenli, gu-junshan |
+| U01 | deng-xiaoping, chen-yun, hu-yaobang, song-ping, zhao-ziyang, jiang-zemin, li-peng, zhu-rongji, wei-jianxing, li-lanqing, li-ruihuan, luo-gan, wu-guanzheng, huang-ju, zeng-qinghong, jia-qinglin, wu-bangguo, xi-zhongxun |
+| U02 | wen-jiabao, zhou-yongkang, hu-jintao, he-guoqiang, li-changchun, yu-zhengsheng, zhang-gaoli, zhang-dejiang, liu-yunshan, wang-qishan, li-zhanshu, xi-jinping, han-zheng, wang-yang, li-keqiang, wang-huning |
+| U03 | cai-qi, li-xi, zhao-leji, li-qiang, ding-xuexiang, wu-yi, zeng-peiyan, wang-zhaoguo, liu-qi, hui-liangyu, wang-lequan, liu-yandong, li-jianguo, chen-liangyu, guo-jinlong, meng-jianzhu, bo-xilai, sun-chunlan |
+| U04 | li-yuanchao, wang-chen, liu-he, liu-qibao, zhang-chunxian, chen-xi, wang-yi, yang-xiaodu, guo-shengkun, he-lifeng, chen-quanguo, li-hongzhong, shi-taifeng, huang-kunming, yang-jiechi, ma-xingrui, chen-wenqing, chen-miner |
+| U05 | liu-guozhong, yin-li, yuan-jiajun, sun-zhengcai, li-shulei, chen-jining, zhang-guoqing, li-ganjie, you-quan, fu-zhenghua, liu-jinguo, wang-xiaohong, ling-jihua, lu-wei, lai-xiaomin, sun-lijun, su-rong, qin-gang |
+| U06 | chi-haotian, cao-gangchuan, guo-boxiong, xu-caihou, fan-changlong, xu-qiliang, zhang-youxia, he-weidong, liang-guanglie, chen-bingde, wu-shengli, chang-wanquan, ma-xiaotian, fang-fenghui, zhang-yang, li-zuocheng, wei-fenghe, miao-hua, li-shangfu, zhang-shengmin, liu-zhenli, gu-junshan |
 
 不写的：体制外人物（任正非、黎智英、任志强、刘晓波、艾未未、许家印、马云、郭文贵、许志永、李文亮）和彭丽媛、林郑月娥。
 
