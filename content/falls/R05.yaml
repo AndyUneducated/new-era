@@ -1,0 +1,1993 @@
+# R05 (round 6) fall cases: centrally managed cadres (not the army) first announced as under CCDI investigation
+# in 2021–2023 (list: research/falls-list/R05.yaml). Person id → what the card's fall records do not say
+# (src/data/schema.ts CaseRecordSchema, research/howto-content.md §10).
+
+# ───────── 2021 ─────────
+xie-changjun:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2021-08-17
+    cite: t02-ccdi-2021-08-17-xie-changjun-expel
+    quotes:
+      - 靠企吃企，大搞权钱交易
+      - 生活腐化堕落，搞权色、钱色交易
+      - 徇私舞弊，滥用职权，给国家利益造成特别重大损失
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 60420000
+    text: 2002 年至 2020 年受贿共计折合人民币 6042 万余元
+    cite: t02-thepaper-2022-06-08-xie-changjun-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-02-08-xie-changjun-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、为亲友非法牟利和国有公司人员滥用职权，没有政治团伙一类的定性；本站所见报道也未把他与某位落马高官或派系清洗联系起来。
+    cites: [t02-ccdi-2021-08-17-xie-changjun-expel, t02-thepaper-2022-06-08-xie-changjun-verdict]
+  fall:
+    - { date: 2021-02-08, text: 以中国国电集团原党组成员、副总经理身份被宣布接受纪律审查和监察调查, cite: r05-ccdi-2021-02-08-xie-changjun-probe }
+
+wang-fuyu:
+  sys: local
+  grade: minister
+  notice:
+    date: 2021-08-16
+    cite: t02-ccdi-2021-08-16-wang-fuyu-expel
+    quotes:
+      - 处心积虑对抗组织审查
+      - 多次接受私营企业主安排打高尔夫球、乘坐私人飞机
+      - 直至退休后仍大肆收钱敛财
+      - 甚至党的十九大后仍不知止
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 434000000
+    text: 1995 年至 2021 年受贿共计折合人民币 4.34 亿余元；2019 年至 2020 年离职后另利用影响力受贿 1735 万余元
+    cite: t02-bjnews-2022-01-17-wang-fuyu-verdict
+  trigger:
+    kind: surrender
+    text: 判决称其自动投案，如实供述，系自首
+    cite: t02-bjnews-2022-01-17-wang-fuyu-verdict
+  politics:
+    level: none
+    why: 通报与判决只列受贿、利用影响力受贿和违规打高尔夫球、乘私人飞机等，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2021-08-16-wang-fuyu-expel, t02-bjnews-2022-01-17-wang-fuyu-verdict]
+
+liu-xinyun:
+  sys: law
+  grade: vice
+  notice:
+    date: 2021-08-16
+    cite: r05-cctv-2021-08-16-liu-xinyun-expel
+    quotes:
+      - 参与在党内搞团团伙伙，结交“政治骗子”，热衷政治投机
+      - 弄虚作假骗取学历
+      - 急功近利、好大喜功，滥权妄为造成重大损失
+  discipline: [political, organization, life, eight]
+  amount:
+    yuan: 13330000
+    text: 1998 年至 2021 年受贿共计折合人民币 1333 万余元
+    cite: r05-xinhua-2022-09-21-liu-xinyun-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-04-09-liu-xinyun-probe
+  with:
+    - id: sun-lijun
+      name: 孙力军
+      rel: patron
+      text: 专题片《零容忍》称 2014 年经孙力军运作调任公安部网络安全保卫局局长，此后私下向孙力军违规提供大量网络舆情
+      cite: b12-xinhua-2022-01-15-zero-tolerance-ep1
+  politics:
+    level: linked
+    why: 中纪委通报称其“参与在党内搞团团伙伙”；中纪委专题片《零容忍》把他列为孙力军“小圈子”成员，说他经孙力军运作进京任公安部网安局局长。
+    cites: [r05-cctv-2021-08-16-liu-xinyun-expel, b12-xinhua-2022-01-15-zero-tolerance-ep1]
+  fall:
+    - { date: 2021-04-09, text: 在任山西省副省长、省公安厅厅长时被宣布接受纪律审查和监察调查, cite: r05-ccdi-2021-04-09-liu-xinyun-probe }
+    - { date: 2022-09-21, text: 廊坊中院以受贿罪、滥用职权罪判处有期徒刑 14 年, cite: r05-xinhua-2022-09-21-liu-xinyun-verdict }
+
+gan-rongkun:
+  sys: law
+  grade: vice
+  notice:
+    date: 2021-12-02
+    cite: t02-ccdi-2021-12-02-gan-rongkun-expel
+    quotes:
+      - 对党不忠诚、不老实，参加迷信活动
+      - 公权私用、以案谋钱，违规干预插手司法活动
+      - 追求低级趣味，长期沉迷赌博
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 166000000
+    text: 1999 年至 2021 年受贿共计折合人民币 1.66 亿余元
+    cite: t02-xinhua-2023-12-27-gan-rongkun-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-06-01-gan-rongkun-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、干预司法、沉迷赌博和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2021-12-02-gan-rongkun-expel, t02-xinhua-2023-12-27-gan-rongkun-verdict]
+  fall:
+    - { date: 2021-06-01, text: 在任河南省委常委、政法委书记时被宣布接受纪律审查和监察调查, cite: r05-ccdi-2021-06-01-gan-rongkun-probe }
+
+cai-esheng:
+  sys: finance
+  grade: vice
+  notice:
+    date: 2022-01-24
+    cite: t02-ccdi-2022-01-24-cai-esheng-expel
+    quotes:
+      - 滥用金融监管权，严重扰乱金融市场秩序，严重污染金融领域政治生态
+      - 目无法纪，“退而不休”，顶风作案
+      - 在党的十八大后不收敛不收手不知止
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 407000000
+    text: 2006 年至 2021 年受贿共计折合人民币 4.07 亿余元；2018 年至 2021 年另利用影响力受贿 1.1 亿余元
+    cite: t02-thepaper-2023-12-cai-esheng-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2021-07-30-cai-esheng-probe
+  politics:
+    level: none
+    why: 通报把问题定在滥用金融监管权、“退而不休”收钱，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2022-01-24-cai-esheng-expel]
+
+zhou-jiangyong:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-01-26
+    cite: c03-ccdi-2022-01-26-zhou-jiangyong-expel
+    quotes:
+      - 与资本勾连，支持资本无序扩张
+      - 伙同亲属非法收受巨额财物，搞家族式腐败
+      - 搞迷信活动，处心积虑对抗组织审查
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 182000000
+    text: 2001 年至 2021 年直接或通过亲属受贿共计人民币 1.82 亿余元
+    cite: c03-xinhua-2023-07-25-zhou-jiangyong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: c03-ccdi-2021-08-21-zhou-jiangyong-probe
+  politics:
+    level: none
+    why: 通报里的政治性指控是“与资本勾连，支持资本无序扩张”，针对的是对平台资本的态度，不是团伙或靠山；本站所见报道也未把他与某位落马高官联系起来。
+    cites: [c03-ccdi-2022-01-26-zhou-jiangyong-expel]
+
+fu-zhenghua:
+  sys: law
+  grade: minister
+  notice:
+    date: 2022-03-31
+    cite: c03-ccdi-2022-03-31-fu-zhenghua-expel
+    quotes:
+      - 政治野心极度膨胀，政治品行极为卑劣
+      - 参加孙力军政治团伙，拉帮结派，结党营私
+      - 长期结交多名“政治骗子”
+      - 长期违规领用和携带枪支
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 117000000
+    text: 2005 年至 2021 年受贿共计折合人民币 1.17 亿余元
+    cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: c03-ccdi-2021-10-02-fu-zhenghua-probe
+  with:
+    - id: sun-lijun
+      name: 孙力军
+      rel: colleague
+      text: 开除通报称其参加孙力军政治团伙
+      cite: c03-ccdi-2022-03-31-fu-zhenghua-expel
+  politics:
+    level: linked
+    why: 开除通报直接写明其“参加孙力军政治团伙，拉帮结派，结党营私”，并称其“政治野心极度膨胀”，是本批名单里政治定性最重的通报之一。
+    cites: [c03-ccdi-2022-03-31-fu-zhenghua-expel]
+
+zhang-jinghua:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-05-31
+    cite: k05-xinhua-2022-05-31-zhang-jinghua
+    quotes:
+      - 处心积虑对抗组织审查，搞迷信活动
+      - 为谋求个人进步搞经济数据造假
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 49840000
+    text: 2008 年至 2021 年受贿共计折合人民币 4984 万余元，其中 1676 万余元未实际取得
+    cite: k05-xinhua-2023-11-21-zhang-jinghua
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k05-chinanews-2021-12-01-zhang-jinghua
+  politics:
+    level: none
+    why: 通报与判决只列受贿、数据造假和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [k05-xinhua-2022-05-31-zhang-jinghua, k05-xinhua-2023-11-21-zhang-jinghua]
+
+# ───────── 2022 ─────────
+wang-bin-chinalife:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2022-09-01
+    cite: t02-ccdi-2022-09-01-wang-bin-expel
+    quotes:
+      - 既制造、放大金融风险，又大搞金融腐败
+      - 甘于被“围猎”甚至主动寻租
+      - 家风败坏，长期极度纵容甚至帮助其亲属进行违纪违法活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 325000000
+    text: 1997 年至 2021 年受贿共计折合人民币 3.25 亿余元；另将折合 5642 万余元的外币存入亲属在香港的账户隐瞒不报
+    cite: t02-xinhua-2023-09-12-wang-bin-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-chinanews-2022-01-08-wang-bin-probe
+  politics:
+    level: none
+    why: 通报把问题定在制造金融风险、金融腐败和纵容亲属，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2022-09-01-wang-bin-expel]
+
+li-guohua-unicom:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2022-09-30
+    cite: t02-ccdi-2022-09-30-li-guohua-expel
+    quotes:
+      - 不落实中央巡视整改要求，处心积虑对抗组织审查
+      - 在邮政系统任职期间严重破坏选人用人风气
+      - “靠邮政吃邮政”
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 66450000
+    text: 1998 年至 2022 年受贿共计折合人民币 6645 万余元，其中 2159 万余元未实际取得
+    cite: t02-xinhua-2024-05-07-li-guohua-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2022-02-18-li-guohua-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、滥用职权和邮政系统用人问题，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2022-09-30-li-guohua-expel, t02-xinhua-2024-05-07-li-guohua-verdict]
+
+cao-guangjing:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-09-29
+    cite: k04-ccdi-2022-09-29-cao-guangjing-expel
+    quotes:
+      - 结交“政治骗子”，搞政治投机
+      - 贪欲膨胀，既想当官又想发财
+      - 搞权色、钱色交易
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 216000000
+    text: 2004 年至 2022 年受贿共计折合人民币 2.16 亿余元
+    cite: k04-court-2024-05-24-cao-guangjing-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-xinhua-2022-02-24-cao-guangjing-probe
+  politics:
+    level: none
+    why: 通报有“结交“政治骗子”，搞政治投机”的说法，但没有点名团伙或靠山，判决也只涉受贿和泄露内幕信息；本站所见报道未把他与派系清洗联系起来。
+    cites: [k04-ccdi-2022-09-29-cao-guangjing-expel, k04-court-2024-05-24-cao-guangjing-verdict]
+
+wang-dawei-liaoning:
+  sys: law
+  grade: vice
+  notice:
+    date: 2022-09-29
+    cite: t02-ccdi-2022-09-29-wang-dawei-expel
+    quotes:
+      - 为掩盖“裸官”问题，搞假结婚欺骗组织
+      - 大肆卖官鬻爵
+      - 既想当大官又想发大财
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 555000000
+    text: 2008 年至 2022 年受贿共计折合人民币 5.55 亿余元，行贿方包括辽宁忠旺集团、辽宁红运投资（集团）等
+    cite: t02-people-2024-10-14-wang-dawei-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2022-03-01-wang-dawei-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、卖官鬻爵和“假结婚”，没有政治团伙一类的定性；他是辽宁连续三任落马的公安厅长之一（李文喜、薛恒、王大伟），但官方未把三案并为一案。
+    cites: [t02-ccdi-2022-09-29-wang-dawei-expel, t02-people-2024-10-14-wang-dawei-verdict]
+
+liu-yanping:
+  sys: law
+  grade: vice
+  notice:
+    date: 2022-09-01
+    cite: c03-people-2022-09-01-liu-yanping-expel
+    quotes:
+      - 参加孙力军政治团伙，大搞政治利益交换，投机攀附、操弄权术
+      - 滥用公安警卫权力，将其异化为捞取政治资本、谋私敛财的工具
+      - 长期搞迷信活动
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 234000000
+    text: 2001 年至 2022 年受贿共计折合人民币 2.34 亿余元
+    cite: c03-xinhua-2023-01-10-liu-yanping-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: c03-ccdi-2022-03-12-liu-yanping-probe
+  with:
+    - id: sun-lijun
+      name: 孙力军
+      rel: colleague
+      text: 开除通报称其参加孙力军政治团伙
+      cite: c03-people-2022-09-01-liu-yanping-expel
+  politics:
+    level: linked
+    why: 开除通报写明其“参加孙力军政治团伙，大搞政治利益交换”，他也是继傅政华之后第二位被点名属于这一团伙的副部级以上官员。
+    cites: [c03-people-2022-09-01-liu-yanping-expel, c03-ccdi-2022-03-31-fu-zhenghua-expel]
+
+shen-deyong:
+  sys: law
+  grade: minister
+  notice:
+    date: 2022-09-07
+    cite: k04-ccdi-2022-09-07-shen-deyong-expel
+    quotes:
+      - 从公平正义的守护者沦为法律秩序的践踏者
+      - 纵容默许亲属、秘书利用其职务影响充当司法掮客
+      - 执法犯法、靠案吃案，大搞司法腐败
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 64560000
+    text: 1995 年至 2022 年 3 月受贿共计折合人民币 6456 万余元
+    cite: k04-xinhua-2023-08-04-shen-deyong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-ccdi-2022-03-21-shen-deyong-probe
+  politics:
+    level: none
+    why: 通报与判决集中在干预司法、靠案吃案，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [k04-ccdi-2022-09-07-shen-deyong-expel, k04-xinhua-2023-08-04-shen-deyong-verdict]
+
+sheng-guangzu:
+  sys: soe
+  grade: minister
+  notice:
+    date: 2022-09-19
+    cite: k04-ccdi-2022-09-19-sheng-guangzu-expel
+    quotes:
+      - “靠海关吃海关”“靠铁路吃铁路”
+      - 用人腐败和用权腐败交织
+      - 对抗组织审查，热衷迷信活动
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 56660000
+    text: 2004 年至 2022 年受贿共计折合人民币 5666 万余元；2021 年另利用影响力受贿 714 万余元
+    cite: k04-court-2023-12-12-sheng-guangzu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-ccdi-2022-03-25-sheng-guangzu-probe
+  politics:
+    level: none
+    why: 通报与判决只列海关、铁路两段任上的受贿和用人腐败，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [k04-ccdi-2022-09-19-sheng-guangzu-expel, k04-court-2023-12-12-sheng-guangzu-verdict]
+
+zhang-wufeng:
+  sys: central
+  grade: vice
+  notice:
+    date: 2022-12-30
+    cite: r05-ccdi-2022-12-30-zhang-wufeng-expel
+    quotes:
+      - 违规经商办企业，违规拥有非上市公司股份，违规通过民间借贷获取大额回报
+      - 违规提拔调动干部
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 16470000
+    text: 2003 年至 2022 年受贿共计折合人民币 1647 万余元，其中 160 万元未实际取得
+    cite: t02-xinhua-2023-12-05-zhang-wufeng-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2022-06-15-zhang-wufeng-probe
+  politics:
+    level: none
+    why: 通报与判决只列经商办企业、民间借贷和受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-12-30-zhang-wufeng-expel, t02-xinhua-2023-12-05-zhang-wufeng-verdict]
+
+xiao-yaqing:
+  sys: central
+  grade: minister
+  notice:
+    date: 2022-12-19
+    cite: k04-chinanews-2022-12-19-xiao-yaqing-expel
+    quotes:
+      - 纪法底线失守，亲清不分，违规收受他人大额钱款
+      - 鉴于肖亚庆能在较短时间如实说明本人违纪违法事实
+  discipline: [political, organization, integrity, eight]
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-ccdi-2022-07-28-xiao-yaqing-probe
+  politics:
+    level: none
+    why: 通报只列接受宴请和收受大额钱款，并以从宽处理收尾，没有移送司法，也没有政治团伙一类的定性；本站所见报道未把他与派系清洗联系起来。
+    cites: [k04-chinanews-2022-12-19-xiao-yaqing-expel]
+
+li-jia:
+  sys: local
+  grade: minister
+  notice:
+    date: 2022-08-26
+    cite: k04-ccdi-2022-08-26-li-jia-punished
+    quotes:
+      - 在党内选举中搞变相拉票等非组织活动
+      - 违规打探党风廉政意见情况
+  discipline: [organization, integrity, work, eight]
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-ccdi-2022-08-26-li-jia-punished
+  politics:
+    level: none
+    why: 通报点出的是党内选举中拉票、打探廉政意见，属组织纪律问题，且说明行为发生在十八大前；没有点名团伙或靠山，本站所见报道也未把他与派系清洗联系起来。
+    cites: [k04-ccdi-2022-08-26-li-jia-punished]
+
+fan-yifei:
+  sys: finance
+  grade: vice
+  notice:
+    date: 2023-06-09
+    cite: r05-ccdi-2023-06-09-fan-yifei-expel
+    quotes:
+      - “靠金融吃金融”、“以钱生钱”，长期以“投资”为名大搞权钱交易
+      - 对抗组织审查，大搞迷信活动
+      - 纵容亲属不实际工作而获取薪酬，搞权色交易
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 386000000
+    text: 1993 年至 2022 年受贿共计折合人民币 3.86 亿余元
+    cite: t02-xinhua-2024-10-10-fan-yifei-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2022-11-05-fan-yifei-probe
+  politics:
+    level: none
+    why: 通报与判决集中在以“投资”为名受贿和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-06-09-fan-yifei-expel, t02-xinhua-2024-10-10-fan-yifei-verdict]
+  fall:
+    - { date: 2023-06-09, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r05-ccdi-2023-06-09-fan-yifei-expel }
+
+# ───────── 2023 ─────────
+he-zehua:
+  sys: central
+  grade: vice
+  notice:
+    date: 2023-07-06
+    cite: t02-ccdi-2023-07-06-he-zehua-expel
+    quotes:
+      - 长期违规经商办企业攫取巨额经济利益，退休后仍利用原职务影响为亲属谋利
+      - 将手中的公权力和烟草资源异化为谋取私利的工具
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 943000000
+    text: 1998 年至 2023 年受贿共计折合人民币 9.43 亿余元；2014 年至 2016 年离职后另利用影响力受贿 147 万余元
+    cite: t02-chinanews-2024-05-29-he-zehua-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-01-06-he-zehua-probe
+  politics:
+    level: none
+    why: 通报与判决只列烟草系统内的受贿、经商办企业，没有政治团伙一类的定性；他与凌成兴同属烟草系统落马高层，但官方未把两案并案。
+    cites: [t02-ccdi-2023-07-06-he-zehua-expel, t02-chinanews-2024-05-29-he-zehua-verdict]
+
+jiang-zhigang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-08-30
+    cite: k05-rmrb-2023-08-31-jiang-zhigang
+    quotes:
+      - 违规使用财政资金建设楼堂馆所
+      - 违规干预原管理单位人事安排
+      - 利用职权为本人及亲友低价购房，违规帮助亲属入股私营企业
+  discipline: [organization, integrity, life, eight]
+  amount:
+    yuan: 79980000
+    text: 2003 年至 2023 年受贿共计折合人民币 7998 万余元
+    cite: k05-xinhua-2024-10-23-jiang-zhigang
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k05-chinanews-2023-03-17-jiang-zhigang
+  politics:
+    level: none
+    why: 通报与判决只列受贿、违规建楼堂馆所和干预人事，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [k05-rmrb-2023-08-31-jiang-zhigang, k05-xinhua-2024-10-23-jiang-zhigang]
+
+cui-maohu:
+  sys: central
+  grade: vice
+  notice:
+    date: 2023-08-30
+    cite: t02-ccdi-2023-08-30-cui-maohu-expel
+    quotes:
+      - 违规占用耕地搞政绩工程
+      - 沉迷奢靡享乐
+      - 大搞权色、钱色交易
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 10430000
+    text: 2007 年至 2023 年受贿共计折合人民币 1043 万元
+    cite: t02-people-2024-07-23-cui-maohu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-03-18-cui-maohu-probe
+  politics:
+    level: none
+    why: 通报与判决只列云南任上的受贿、政绩工程和权色交易，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2023-08-30-cui-maohu-expel, t02-people-2024-07-23-cui-maohu-verdict]
+
+liu-liange:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2023-10-07
+    cite: t02-ccdi-2023-10-07-liu-liange-expel
+    quotes:
+      - 弃守金融风险防控职责，大肆违规插手信贷项目，违法发放贷款，造成重大金融风险
+      - 私自携带违禁书刊入境
+      - “靠金融吃金融”
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 121000000
+    text: 2010 年至 2023 年受贿共计折合人民币 1.21 亿余元；另违法发放贷款 33.2 亿余元，造成本金损失 1.907 亿余元
+    cite: t02-xinhua-2024-11-26-liu-liange-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-03-31-liu-liange-probe
+  politics:
+    level: none
+    why: 通报与判决集中在违法放贷和受贿，“携带违禁书刊入境”是唯一带政治色彩的指控，但没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2023-10-07-liu-liange-expel, t02-xinhua-2024-11-26-liu-liange-verdict]
+
+du-zhaocai:
+  sys: culture
+  grade: vice
+  notice:
+    date: 2023-10-07
+    cite: t02-ccdi-2023-10-07-du-zhaocai-expel
+    quotes:
+      - 严重破坏足球领域政治生态
+      - “靠体育吃体育”“靠足球吃足球”
+      - 对抗组织审查，搞迷信活动
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 43410000
+    text: 2012 年至 2022 年受贿共计折合人民币 4341 万余元
+    cite: t02-xinhua-2024-12-13-du-zhaocai-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-cctv-2023-04-01-du-zhaocai-probe
+  politics:
+    level: none
+    why: 此案是 2022—2023 年足球反腐的最高层级案件，通报与判决只涉赛事承办、人事安排、球员转会中的受贿，没有政治团伙一类的定性。
+    cites: [t02-ccdi-2023-10-07-du-zhaocai-expel, t02-xinhua-2024-12-13-du-zhaocai-verdict]
+
+li-xiaopeng-everbright:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2023-10-09
+    cite: t02-xinhua-2023-10-09-li-xiaopeng-expel
+    quotes:
+      - 既想当官又想发财，长期以权谋私，“靠金融吃金融”
+      - 泄露尚未公开的干部选拔任用事项
+      - 违规借用管理和服务对象钱款、持有非上市公司股份
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 60430000
+    text: 1994 年至 2021 年受贿共计折合人民币 6043 万余元
+    cite: t02-xinhua-2025-03-18-li-xiaopeng-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-04-05-li-xiaopeng-probe
+  politics:
+    level: none
+    why: 通报与判决只列工行、招商局、光大任上的受贿，没有政治团伙一类的定性；他与前任唐双宁同年落马，但官方未把两案并案。
+    cites: [t02-xinhua-2023-10-09-li-xiaopeng-expel, t02-xinhua-2025-03-18-li-xiaopeng-verdict]
+
+dong-yunhu:
+  sys: local
+  grade: minister
+  notice:
+    date: 2023-12-12
+    cite: r05-ccdi-2023-12-12-dong-yunhu-expel
+    quotes:
+      - 将政协委员资格等私相授受，在政治上造成不良影响
+      - 干预和插手司法活动
+      - 搞权色交易
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 148000000
+    text: 2002 年至 2023 年受贿共计折合人民币 1.48 亿余元
+    cite: t02-xinhua-2024-08-28-dong-yunhu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-07-12-dong-yunhu-probe
+  politics:
+    level: none
+    why: 通报的政治性指控是把政协委员资格“私相授受”，没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-12-12-dong-yunhu-expel]
+  fall:
+    - { date: 2023-12-12, text: 被开除党籍和公职，终止其党的二十大代表资格，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r05-ccdi-2023-12-12-dong-yunhu-expel }
+
+tang-shuangning:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2024-01-06
+    cite: t02-xinhua-2024-01-06-tang-shuangning-expel
+    quotes:
+      - 利用职权大肆宣传个人书法等作品，私自携带有严重政治问题的书刊入境并阅看
+      - 大搞“雅腐”
+      - 贪图享乐，接受“管家式”服务
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 11020000
+    text: 2000 年至 2017 年受贿共计人民币 1102 万余元；2003 年另贪污公共财物 301.5 万元
+    cite: t02-xinhua-2024-12-10-tang-shuangning-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-07-15-tang-shuangning-probe
+  politics:
+    level: none
+    why: 通报的特色是“雅腐”和携带政治问题书刊，但没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-xinhua-2024-01-06-tang-shuangning-expel]
+  fall:
+    - { date: 2023-07-15, text: 以中国光大集团原党委书记、董事长身份被宣布接受纪律审查和监察调查, cite: r05-ccdi-2023-07-15-tang-shuangning-probe }
+
+sun-zhigang:
+  sys: local
+  grade: minister
+  notice:
+    date: 2024-02-05
+    cite: r05-ccdi-2024-02-05-sun-zhigang-expel
+    quotes:
+      - 违背“两个维护”政治原则
+      - 阳奉阴违，搞“七个有之”，任人唯亲
+      - 利用职务影响为其子经营活动提供帮助
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 813000000
+    text: 2002 年下半年至 2023 年 8 月受贿共计折合人民币 8.13 亿余元
+    cite: k05-chinanews-2024-10-29-sun-zhigang
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-08-28-sun-zhigang-probe
+  politics:
+    level: none
+    why: 通报用了“七个有之”这种重话，但没有点名团伙或靠山；本站所见报道也未把他与某位落马高官连成一案，按“判断要克制”的规则暂列未见政治关联。
+    cites: [r05-ccdi-2024-02-05-sun-zhigang-expel]
+
+shang-liguang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-02-29
+    cite: r05-ccdi-2024-02-29-shang-liguang-expel
+    quotes:
+      - 长期瞒报个人有关事项
+      - 大搞权色、钱色交易
+      - 执纪违纪，执法违法
+  discipline: [organization, integrity, life, eight]
+  amount:
+    yuan: 104000000
+    text: 1999 年至 2023 年受贿共计折合人民币 1.04 亿余元
+    cite: t02-chinacourt-2024-12-shang-liguang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-09-05-shang-liguang-probe
+  politics:
+    level: none
+    why: 通报只列违反组织、廉洁、生活纪律，连政治纪律都未列入；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-02-29-shang-liguang-expel]
+  fall:
+    - { date: 2023-09-05, text: 在任山西省委副书记时被宣布接受纪律审查和监察调查, cite: r05-ccdi-2023-09-05-shang-liguang-probe }
+    - { date: 2024-02-29, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r05-ccdi-2024-02-29-shang-liguang-expel }
+
+liu-lixian:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2024-01-19
+    cite: t02-ccdi-2024-01-19-liu-lixian-expel
+    quotes:
+      - 违规获取境外身份并长期隐瞒不报
+      - 执纪违纪，执法犯法，严重损害纪检监察干部形象
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 17760000
+    text: 1998 年至 2022 年受贿共计折合人民币 1776 万余元
+    cite: t02-court-2024-12-24-liu-lixian-verdict
+  trigger:
+    kind: surrender
+    text: 判决称其 2022 年 8 月自动投案；2023 年 9 月中央纪委通报其“主动投案”
+    cite: t02-court-2024-12-24-liu-lixian-verdict
+  politics:
+    level: none
+    why: 通报与判决只列受贿和隐瞒境外身份，没有政治团伙一类的定性；他是主动投案的纪检干部，本站所见报道未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2024-01-19-liu-lixian-expel, t02-court-2024-12-24-liu-lixian-verdict]
+  fall:
+    - { date: 2023-09-15, text: 中央纪委国家监委通报其主动投案，接受纪律审查和监察调查, cite: r05-xinhua-2023-09-15-liu-lixian-probe }
+
+han-yong:
+  sys: local
+  grade: minister
+  notice:
+    date: 2024-04-22
+    cite: k04-ccdi-2024-04-22-han-yong-expel
+    quotes:
+      - 政治意识淡漠，不敢担当斗争，结交政治骗子、搞政治投机
+      - 任人唯亲唯利，卖官鬻爵
+      - 违规低价购房
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 261000000
+    text: 1993 年至 2023 年受贿共计折合人民币 2.61 亿余元
+    cite: k04-chinanews-2025-05-19-han-yong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: k04-12371-2023-10-19-han-yong-probe
+  politics:
+    level: none
+    why: 通报有“结交政治骗子、搞政治投机”的说法，但没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [k04-ccdi-2024-04-22-han-yong-expel]
+
+ling-chengxing:
+  sys: central
+  grade: vice
+  notice:
+    date: 2024-04-22
+    cite: t02-ccdi-2024-04-22-ling-chengxing-expel
+    quotes:
+      - 靠烟吃烟、收钱敛财
+      - 徇私舞弊、滥用职权，致使国家利益遭受特别重大损失
+      - 为亲属在交通、医疗方面谋求特殊待遇
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 43110000
+    text: 2006 年至 2023 年受贿共计折合人民币 4311 万余元；另因滥用职权造成国有资产损失 2.08 亿余元
+    cite: t02-cctv-2025-05-21-ling-chengxing-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-10-23-ling-chengxing-probe
+  politics:
+    level: none
+    why: 通报与判决只列烟草系统内的受贿和滥用职权，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2024-04-22-ling-chengxing-expel, t02-cctv-2025-05-21-ling-chengxing-verdict]
+
+zhang-hongli:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2024-05-09
+    cite: t02-ccdi-2024-05-09-zhang-hongli-expel
+    quotes:
+      - 官迷心窍，结交政治掮客，搞利益交换，捞取政治资本
+      - 阅看存在严重政治问题的书籍
+      - 无偿使用管理服务对象私人飞机
+      - 骗取博士学位
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 177000000
+    text: 2011 年至 2022 年受贿共计折合人民币 1.77 亿余元
+    cite: t02-court-2025-zhang-hongli-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2023-11-04-zhang-hongli-probe
+  politics:
+    level: none
+    why: 通报有“结交政治掮客”“捞取政治资本”的说法，但没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2024-05-09-zhang-hongli-expel]
+
+wang-yixin:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-06-17
+    cite: t02-ccdi-2024-06-17-wang-yixin-expel
+    quotes:
+      - 结交政治骗子，对抗组织审查
+      - 接受私营企业主低价装修
+      - 搞权色、钱色交易
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 129000000
+    text: 2008 年 7 月至 2020 年 10 月受贿共计折合人民币 1.29 亿余元
+    cite: t02-chinanews-2025-05-16-wang-yixin-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-12-08-wang-yixin-probe
+  politics:
+    level: none
+    why: 通报有“结交政治骗子”的说法，但没有点名团伙或靠山，受贿主要发生在海南农垦任上；本站所见报道也未把他与派系清洗联系起来。
+    cites: [t02-ccdi-2024-06-17-wang-yixin-expel, t02-chinanews-2025-05-16-wang-yixin-verdict]
+
+li-pengxin:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-06-17
+    cite: t02-ccdi-2024-06-17-li-pengxin-expel
+    quotes:
+      - 培植个人势力，搞“七个有之”
+      - 卖官鬻爵，严重污染地方政治生态
+      - 政商勾连，大搞新型腐败
+      - 非法收受股权股份等巨额财物
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 822000000
+    text: 1999 年至 2023 年受贿共计折合人民币 8.22 亿余元
+    cite: t02-cctv-2025-04-22-li-pengxin-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-12-11-li-pengxin-probe
+  politics:
+    level: none
+    why: 通报用了“培植个人势力，搞“七个有之”的重话，但没有点名他依附的团伙或靠山；本站所见报道也未把他与某位落马高官连成一案。
+    cites: [t02-ccdi-2024-06-17-li-pengxin-expel]
+  fall:
+    - { date: 2023-12-11, text: 以新疆维吾尔自治区党委原副书记身份被宣布接受纪律审查和监察调查, cite: r05-ccdi-2023-12-11-li-pengxin-probe }
+
+# ═════════ cards new in R05 (content/people/R05.yaml) ═════════
+li-wenxi:
+  sys: law
+  grade: vice
+  notice:
+    date: 2021-07-27
+    cite: r05-ccdi-2021-07-27-li-wenxi-expel
+    quotes:
+      - 执法犯法，利用执法司法权谋取私利，与不法商人大搞权钱交易，肆无忌惮聚钱敛财
+      - 违规从事营利活动，获取巨额矿产收益
+  discipline: [political, organization, integrity]
+  amount:
+    yuan: 540000000
+    text: 2006 年至 2021 年收受他人所送财物共计价值人民币 5.4 亿余元
+    cite: r05-chinanews-2023-01-06-li-wenxi-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-01-25-li-wenxi-probe
+  politics:
+    level: none
+    why: 通报与判决只列执法司法领域的受贿和矿产收益，没有政治团伙一类的定性；判决说他检举揭发了其他中管干部，但没有点名。
+    cites: [r05-ccdi-2021-07-27-li-wenxi-expel, r05-chinanews-2023-01-06-li-wenxi-verdict]
+
+zhang-xinqi:
+  sys: local
+  grade: vice
+  notice:
+    date: 2021-08-17
+    cite: r05-cctv-2021-08-17-zhang-xinqi-expel
+    quotes:
+      - 大肆从事营利活动
+      - 把公权力当成牟取私利的工具，大搞权钱交易
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 155000000
+    text: 2006 年至 2021 年直接或通过他人受贿共计折合人民币 1.55 亿余元
+    cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-02-23-zhang-xinqi-probe
+  politics:
+    level: none
+    why: 通报与判决只列潍坊、青岛任上的受贿和营利活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-cctv-2021-08-17-zhang-xinqi-expel, r05-xinhua-2023-02-20-zhang-xinqi-verdict]
+
+peng-bo:
+  sys: central
+  grade: vice
+  notice:
+    date: 2021-08-17
+    cite: r05-ccdi-2021-08-17-peng-bo-expel
+    quotes:
+      - 背离党中央关于开展网上舆论斗争的决策部署，放弃对互联网阵地的管理，公器私用、靠网吃网
+      - 对抗组织审查，搞迷信活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 54640000
+    text: 2006 年至 2018 年直接或通过亲属受贿共计折合人民币 5464 万余元
+    cite: r05-court-2022-11-24-peng-bo-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-03-13-peng-bo-probe
+  politics:
+    level: none
+    why: 通报的政治性指控是放弃互联网阵地管理，属于履职问题；没有点名团伙或靠山，本站所见报道也未把他与某位落马高官连成一案。
+    cites: [r05-ccdi-2021-08-17-peng-bo-expel]
+
+yin-jiaxu:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2021-09-30
+    cite: r05-xinhua-2021-09-30-yin-jiaxu-expel
+    quotes:
+      - 搞两面派、做两面人，欺骗组织
+      - “靠企吃企”，支持、纵容亲属违规经商谋取巨额利益
+      - 对巨额国有资产损失负有主要领导责任
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-04-04-yin-jiaxu-probe
+  politics:
+    level: none
+    why: 通报集中在“靠企吃企”、纵容亲属经商和国有资产损失，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-xinhua-2021-09-30-yin-jiaxu-expel]
+
+xiao-yi:
+  sys: local
+  grade: vice
+  notice:
+    date: 2021-11-13
+    cite: r05-ccdi-2021-11-13-xiao-yi-expel
+    quotes:
+      - 破坏“两个维护”政治原则，落实党中央重大决策部署出现严重偏差
+      - 滥用职权引进和支持企业从事不符合国家产业政策要求的虚拟货币“挖矿”活动
+      - 寡廉鲜耻、道德败坏
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 125000000
+    text: 2008 年至 2021 年受贿共计折合人民币 1.25 亿余元，其中 5782 万余元尚未实际取得
+    cite: r05-shobserver-2023-08-22-xiao-yi-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-05-10-xiao-yi-probe
+  politics:
+    level: none
+    why: 通报里的“两个维护”指控针对的是抚州引进虚拟货币“挖矿”这一政策偏差，不涉及团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2021-11-13-xiao-yi-expel, r05-shobserver-2023-08-22-xiao-yi-verdict]
+
+meng-yongshan:
+  sys: law
+  grade: vice
+  notice:
+    date: 2021-08-16
+    cite: r05-cctv-2021-08-16-meng-yongshan-expel
+    quotes:
+      - 官迷心窍、跑官买官被骗
+      - 甚至在政法队伍开展教育整顿期间仍然不知收敛
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 21120000
+    text: 2001 年至 2021 年直接或通过亲属受贿共计折合 2112 万余元
+    cite: r05-chinanews-2022-07-12-meng-yongshan-verdict
+  trigger:
+    kind: surrender
+    text: 在政法队伍教育整顿期间主动投案，判决认定构成自首
+    cite: r05-chinanews-2022-07-12-meng-yongshan-verdict
+  politics:
+    level: none
+    why: 通报与判决只列检察系统内的受贿和“跑官买官被骗”，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-cctv-2021-08-16-meng-yongshan-expel, r05-chinanews-2022-07-12-meng-yongshan-verdict]
+
+liu-chuansheng:
+  sys: edu
+  grade: vice
+  retired: 2016-11
+  notice:
+    date: 2021-12-31
+    cite: r05-ce-2021-12-31-liu-chuansheng-expel
+    quotes:
+      - 不认真履行全面从严治党特别是意识形态工作主体责任
+      - 利用任职高校的公共资源，为亲属谋利敛财
+  discipline: [political, organization, integrity, work, eight]
+  trigger:
+    kind: surrender
+    text: 中央纪委通报称其主动投案
+    cite: r05-ccdi-2021-07-08-liu-chuansheng-probe
+  politics:
+    level: none
+    why: 通报只列意识形态责任、为亲属谋利和购房问题，并因主动投案从轻处理，没有政治团伙一类的定性。
+    cites: [r05-ce-2021-12-31-liu-chuansheng-expel]
+
+song-taiping:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-01-10
+    cite: r05-ccdi-2022-01-10-song-taiping-expel
+    quotes:
+      - 组织原则缺失，卖官鬻爵
+      - 收受名贵字画等财物，违规从事营利活动
+      - 严重破坏当地政治生态
+  discipline: [organization, integrity, eight]
+  amount:
+    yuan: 69490000
+    text: 2003 年 3 月至 2021 年 3 月受贿共计折合人民币 6949 万余元
+    cite: r05-xinhua-2024-02-26-song-taiping-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2021-07-25-song-taiping-probe
+  politics:
+    level: none
+    why: 通报只列组织纪律和廉洁纪律，连政治纪律都未列入；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-01-10-song-taiping-expel]
+
+xue-heng:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-02-19
+    cite: r05-xinhua-2022-02-19-xue-heng-expel
+    quotes:
+      - 大搞卖官鬻爵，严重破坏任职地区和单位的选人用人制度
+      - 大肆干预插手司法活动和市场经济活动
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 135000000
+    text: 2005 年至 2021 年受贿共计折合人民币 1.35 亿余元；2019 年离职后另利用影响力受贿 86.3 万元
+    cite: r05-bjd-2023-12-13-xue-heng-verdict
+  trigger:
+    kind: surrender
+    text: 中央纪委通报称其主动投案，判决认定构成自首
+    cite: r05-bjd-2023-12-13-xue-heng-verdict
+  politics:
+    level: none
+    why: 通报与判决只列卖官鬻爵、干预司法和受贿，没有政治团伙一类的定性；他与李文喜先后任辽宁省公安厅厅长，但官方未把两案并案。
+    cites: [r05-xinhua-2022-02-19-xue-heng-expel, r05-ccdi-2021-08-23-xue-heng-probe, r05-chinanews-2023-01-06-li-wenxi-verdict]
+
+gong-jianhua:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-05-10
+    cite: r05-ccdi-2022-05-10-gong-jianhua-expel
+    quotes:
+      - 组织“小圈子”“小团伙”，搞“七个有之”，污染政治生态
+      - 私下操作劳模评选事宜，将党和国家的荣誉私相授受
+      - 打探中央巡视、纪律审查事项
+      - 大搞权力寻租和家族式腐败
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 83610000
+    text: 2004 年至 2020 年受贿共计折合人民币 8361 万余元
+    cite: r05-court-2023-09-19-gong-jianhua-verdict
+  trigger:
+    kind: surrender
+    text: 中央纪委通报称其主动投案，判决认定有自首情节
+    cite: r05-court-2023-09-19-gong-jianhua-verdict
+  politics:
+    level: none
+    why: 通报称他组织“小圈子”“小团伙”，指的是他自己经营的圈子，没有点名他依附的靠山或团伙；本站所见报道也未把他与某位落马高官连成一案。
+    cites: [r05-ccdi-2022-05-10-gong-jianhua-expel]
+
+zhang-yongze:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-07-07
+    cite: r05-ccdi-2022-07-07-zhang-yongze-expel
+    quotes:
+      - 贯彻落实新时代党的治藏方略不坚决、打折扣
+      - 靠环保吃环保
+      - 是政治问题和经济问题相互交织的典型
+      - 对抗组织审查，大搞迷信活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 51810000
+    text: 2003 年至 2021 年直接或通过他人受贿共计折合人民币 5181 万余元
+    cite: r05-court-2024-01-10-zhang-yongze-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-01-08-zhang-yongze-probe
+  politics:
+    level: none
+    why: 通报称他“是政治问题和经济问题相互交织的典型”，但政治问题指的是落实治藏方略不力和跑官要官，没有点名团伙或靠山。
+    cites: [r05-ccdi-2022-07-07-zhang-yongze-expel]
+
+liu-hongwu:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-06-23
+    cite: r05-ccdi-2022-06-23-liu-hongwu-expel
+    quotes:
+      - 落实党中央关于精准脱贫、乡村振兴等重大决策部署打折扣、搞变通
+      - 热衷于搭建官商交往圈
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 83730000
+    text: 2005 年至 2022 年直接或通过他人受贿共计折合人民币 8373 万余元
+    cite: r05-court-2023-12-22-liu-hongwu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-01-14-liu-hongwu-probe
+  politics:
+    level: none
+    why: 通报与判决只列扶贫资金、工程项目中的受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-06-23-liu-hongwu-expel, r05-court-2023-12-22-liu-hongwu-verdict]
+
+wang-minghui:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-07-29
+    cite: r05-ccdi-2022-07-29-wang-minghui-expel
+    quotes:
+      - 政绩观严重扭曲，急功近利、滥权妄为，致使国家利益遭受特别重大损失
+      - 处心积虑对抗组织审查，大搞迷信活动
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 52130000
+    text: 1998 年至 2021 年受贿共计折合人民币 5213 万余元
+    cite: r05-xinhua-2024-01-31-wang-minghui-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-01-22-wang-minghui-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、滥用职权和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-07-29-wang-minghui-expel, r05-xinhua-2024-01-31-wang-minghui-verdict]
+
+xie-jilai:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-07-29
+    cite: r05-ccdi-2022-07-29-xie-jilai-expel
+    quotes:
+      - 把干部选拔任用权力作为谋取私利的工具，大肆卖官鬻爵
+      - 严重损害组织工作公信力
+  discipline: [organization, integrity, life, eight]
+  amount:
+    yuan: 88700000
+    text: 1999 年至 2020 年受贿共计折合人民币 8870 万余元
+    cite: r05-court-2024-01-05-xie-jilai-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-01-26-xie-jilai-probe
+  politics:
+    level: none
+    why: 通报只列组织、廉洁、生活纪律，连政治纪律都未列入；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-07-29-xie-jilai-expel]
+
+song-xibin:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-09-29
+    cite: r05-ccdi-2022-09-29-song-xibin-expel
+    quotes:
+      - 漠视群众切身利益，不担当、不作为，严重损害党和政府的威信
+      - 挪用公款，数额巨大
+      - 对抗组织审查，大搞迷信活动
+  discipline: [political, organization, integrity, mass, work, life, eight]
+  amount:
+    yuan: 35320000
+    text: 2005 年至 2021 年受贿共计折合人民币 3532 万余元；另挪用公款 5000 万元
+    cite: r05-court-2023-10-17-song-xibin-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-01-26-song-xibin-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、挪用公款和不作为，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-09-29-song-xibin-expel, r05-court-2023-10-17-song-xibin-verdict]
+
+chen-jiadong:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-08-30
+    cite: r05-ccdi-2022-08-30-chen-jiadong-expel
+    quotes:
+      - 为谋求个人职务升迁，用公权力为利益集团服务
+      - 搞劳民伤财的“形象工程”“政绩工程”
+      - 侵吞国有资产，徇私舞弊、滥用职权，致使国家利益遭受重大损失
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 94150000
+    text: 2000 年至 2022 年受贿共计折合人民币 9415 万余元；另伙同他人侵吞国有财产 341 万余元，滥用职权造成国有财产损失 1.9 亿余元
+    cite: r05-xinhua-2023-09-05-chen-jiadong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-02-25-chen-jiadong-probe
+  politics:
+    level: none
+    why: 通报有“用公权力为利益集团服务”的说法，但所指是为谋私利益输送，没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-08-30-chen-jiadong-expel]
+
+huang-yi-yunnan:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-08-30
+    cite: r05-ccdi-2022-08-30-huang-yi-yunnan-expel
+    quotes:
+      - 严重背离党的统一战线工作方针、政策和原则，严重污染当地政治生态，在政治上造成不良影响
+      - 通过民间借贷获取大额回报，违规从事营利活动
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 34950000
+    text: 2001 年至 2022 年受贿共计折合人民币 3495 万余元
+    cite: r05-nbd-2023-07-04-huang-yi-yunnan-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-03-24-huang-yi-yunnan-probe
+  politics:
+    level: none
+    why: 通报的政治性指控针对他任统战部长时背离统战工作原则，没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-08-30-huang-yi-yunnan-expel]
+
+li-jiexiang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-09-19
+    cite: r05-ccdi-2022-09-19-li-jiexiang-expel
+    quotes:
+      - 处心积虑搞政治投机，为谋求职务晋升结交政治掮客，利用国有矿产资源搞政治交易
+      - 信奉庸俗的“酒桌文化”
+      - 求神拜佛搞迷信活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 88230000
+    text: 2004 年至 2021 年直接或通过他人受贿共计折合人民币 8823 万余元
+    cite: r05-china-2024-02-28-li-jiexiang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-04-07-li-jiexiang-probe
+  politics:
+    level: none
+    why: 通报称他结交政治掮客、“利用国有矿产资源搞政治交易”，政治色彩很重，但没有点名交易对象或靠山，按规则暂列未见政治关联。
+    cites: [r05-ccdi-2022-09-19-li-jiexiang-expel]
+
+sun-yuanliang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-09-30
+    cite: r05-ccdi-2022-09-30-sun-yuanliang-expel
+    quotes:
+      - 严重破坏任职地区和单位的政治生态
+      - 搞权色、钱色交易
+      - 退休后仍不知止
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 159000000
+    text: 1997 年至 2022 年索取、收受财物共计折合人民币 1.59 亿余元；2018 年 9 月至 2022 年 2 月另利用影响力受贿 2816 万余元
+    cite: r05-xinhua-2024-05-09-sun-yuanliang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-04-09-sun-yuanliang-probe
+  politics:
+    level: none
+    why: 通报与判决只列辽阳任上和退休后的受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-09-30-sun-yuanliang-expel, r05-xinhua-2024-05-09-sun-yuanliang-verdict]
+
+yu-luming:
+  sys: health
+  grade: vice
+  notice:
+    date: 2022-07-18
+    cite: r05-ccdi-2022-07-18-yu-luming-expel
+    quotes:
+      - 放松政治理论学习，纪法意识淡漠
+      - 通过民间借贷获取大额回报
+  discipline: [eight]
+  amount:
+    yuan: 10500000
+    text: 2001 年至 2019 年受贿共计折合人民币 1050 万余元
+    cite: r05-court-2023-09-26-yu-luming-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-04-16-yu-luming-probe
+  politics:
+    level: none
+    why: 通报措辞较轻，只说“严重违反党的纪律”，判决涉及的是医院工程和土地使用权办理中的受贿，没有政治关联。
+    cites: [r05-ccdi-2022-07-18-yu-luming-expel, r05-court-2023-09-26-yu-luming-verdict]
+
+hu-yifeng:
+  sys: law
+  grade: vice
+  notice:
+    date: 2022-09-30
+    cite: r05-ccdi-2022-09-30-hu-yifeng-expel
+    quotes:
+      - 执法犯法、以案谋私，大肆干预和插手司法活动，大搞权钱交易，严重破坏司法公信力
+      - 家风不正，对子女失管失教
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 35540000
+    text: 1997 年至 2018 年受贿共计折合人民币 3554 万余元；2019 年退休后另利用影响力受贿 200 万元
+    cite: r05-court-2024-01-09-hu-yifeng-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-04-22-hu-yifeng-probe
+  politics:
+    level: none
+    why: 通报与判决只列司法领域的受贿和干预案件，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-09-30-hu-yifeng-expel, r05-court-2024-01-09-hu-yifeng-verdict]
+
+li-zefeng:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-05-30
+    cite: r05-ccdi-2022-05-30-li-zefeng-punished
+    quotes:
+      - 长期违规借用他人大额钱款并通过民间借贷、投资入股等方式获取收益
+      - 鉴于李泽峰同志能够积极配合组织审查
+  discipline: [integrity, eight]
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-05-30-li-zefeng-punished
+  politics:
+    level: none
+    why: 通报只列廉洁纪律问题，且以留党察看、降级收尾，没有政治关联。
+    cites: [r05-ccdi-2022-05-30-li-zefeng-punished]
+
+chen-rugui:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-12-30
+    cite: r05-ccdi-2022-12-30-chen-rugui-expel
+    quotes:
+      - 与不法商人沆瀣一气，大搞政商勾连，隐身幕后收钱敛财
+      - 利用职权和职务上的影响帮助亲属承揽工程、吸收存款谋取利益
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 108000000
+    text: 2003 年至 2022 年直接或通过他人受贿共计折合人民币 1.08 亿余元
+    cite: r05-xinmin-2024-08-06-chen-rugui-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-06-01-chen-rugui-probe
+  politics:
+    level: none
+    why: 通报与判决只列广州、中山、深圳任上的受贿和政商勾连，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-12-30-chen-rugui-expel, r05-xinmin-2024-08-06-chen-rugui-verdict]
+
+zhang-bencai:
+  sys: law
+  grade: vice
+  notice:
+    date: 2022-09-29
+    cite: r05-ccdi-2022-09-29-zhang-bencai-expel
+    quotes:
+      - 对本职工作不担当不作为
+      - 大搞迷信活动，对抗组织审查
+      - 违规干预和插手司法活动，破坏司法公正
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 48320000
+    text: 2005 年至 2020 年直接或通过他人受贿共计折合人民币 4832 万余元
+    cite: r05-xinhua-2023-12-19-zhang-bencai-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-06-01-zhang-bencai-probe
+  politics:
+    level: none
+    why: 通报与判决只列检察系统内的受贿和干预司法，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2022-09-29-zhang-bencai-expel, r05-xinhua-2023-12-19-zhang-bencai-verdict]
+
+sun-guoxiang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2022-08-30
+    cite: r05-ccdi-2022-08-30-sun-guoxiang-expel
+    quotes:
+      - 为谋求个人职务晋升，授意私营企业主出钱跑官买官
+      - 将公权力当作攫取私利的工具
+  discipline: [political, organization, integrity, eight]
+  amount:
+    yuan: 97650000
+    text: 2008 年至 2018 年受贿共计人民币 9765 万余元
+    cite: r05-court-2023-07-18-sun-guoxiang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-08-30-sun-guoxiang-expel
+  politics:
+    level: none
+    why: 通报与判决只列跑官买官和盘锦任上的受贿，没有政治团伙一类的定性；他与付忠伟先后任盘锦市委书记、先后落马，但官方未把两案并案。
+    cites: [r05-ccdi-2022-08-30-sun-guoxiang-expel, r05-court-2023-07-18-sun-guoxiang-verdict, r05-chinacourt-2024-06-fu-zhongwei-verdict]
+
+fu-zhongwei:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-06-28
+    cite: r05-ccdi-2023-06-28-fu-zhongwei-expel
+    quotes:
+      - 干预审计工作
+      - 纵容亲属利用其本人职权谋取私利，安排他人支付、免除应由个人支付的费用
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 64700000
+    text: 2003 年至 2022 年受贿共计折合人民币 6470 万余元
+    cite: r05-chinacourt-2024-06-fu-zhongwei-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-11-09-fu-zhongwei-probe
+  politics:
+    level: none
+    why: 通报与判决只列审计、财政和盘锦任上的受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-06-28-fu-zhongwei-expel, r05-chinacourt-2024-06-fu-zhongwei-verdict]
+
+ji-guogang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-05-16
+    cite: r05-ccdi-2023-05-16-ji-guogang-expel
+    quotes:
+      - 严重违背新时代党的治藏方略和新发展理念，肆意滥用中央和地方专项资金
+      - 造成严重政治危害
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 43980000
+    text: 2002 年至 2022 年受贿共计折合人民币 4398 万余元
+    cite: r05-xinhua-2024-12-11-ji-guogang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2022-11-16-ji-guogang-probe
+  politics:
+    level: none
+    why: 通报的“严重政治危害”指的是滥用援藏专项资金，没有点名团伙或靠山；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-05-16-ji-guogang-expel]
+
+zhang-xiaopei:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-06-28
+    cite: r05-ccdi-2023-06-28-zhang-xiaopei-expel
+    quotes:
+      - 大肆打探案情、干预执纪执法工作
+      - 卖官鬻爵，严重破坏任职地区政治生态
+      - 利用职权为亲属谋取巨额利益
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 69340000
+    text: 2004 年上半年至 2022 年夏天直接或通过亲属受贿共计折合人民币 6934 万余元
+    cite: r05-sina-2024-04-30-zhang-xiaopei-verdict
+  trigger:
+    kind: surrender
+    text: 判决称其 2022 年 11 月 17 日主动到纪检监察机关投案，构成自首
+    cite: r05-sina-2024-04-30-zhang-xiaopei-verdict
+  politics:
+    level: none
+    why: 通报与判决只列打探案情、卖官鬻爵和受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-06-28-zhang-xiaopei-expel, r05-sina-2024-04-30-zhang-xiaopei-verdict]
+
+zhou-jiankun:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-06-09
+    cite: r05-ccdi-2023-06-09-zhou-jiankun-expel
+    quotes:
+      - 利用扶贫项目谋取私利，严重损害党和人民利益
+      - 履行全面从严治党主体责任不力，搞“七个有之”，对抗组织审查
+      - 大搞形式主义、官僚主义，热衷搞舆论造势
+      - 大搞权力寻租和家族式腐败
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 108000000
+    text: 1999 年至 2022 年受贿共计折合人民币 1.08 亿余元
+    cite: r05-xinhua-2024-03-26-zhou-jiankun-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-06-09-zhou-jiankun-expel
+  politics:
+    level: none
+    why: 通报用了“七个有之”的重话，但没有点名团伙或靠山；他与孙志刚、李再勇同为贵州落马官员，官方未把几案并案。
+    cites: [r05-ccdi-2023-06-09-zhou-jiankun-expel]
+
+li-chunsheng:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-06-28
+    cite: r05-ccdi-2023-06-28-li-chunsheng-expel
+    quotes:
+      - 接受私营企业主为其提供的私人会所
+      - 违规干预和插手司法、执法和市场经济活动
+  discipline: [organization, integrity, work, life, eight]
+  amount:
+    yuan: 79400000
+    text: 2001 年下半年至 2022 年 5 月受贿共计折合人民币 7940 万余元，其中部分未实际取得
+    cite: r05-chinacourt-2024-07-li-chunsheng-verdict
+  trigger:
+    kind: surrender
+    text: 判决称其 2022 年 11 月 26 日主动到中央纪委国家监委投案，具有自首情节
+    cite: r05-chinacourt-2024-07-li-chunsheng-verdict
+  politics:
+    level: none
+    why: 通报只列组织、廉洁、工作、生活纪律，连政治纪律都未列入；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-06-28-li-chunsheng-expel]
+
+wang-xuefeng-hebei:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-07-06
+    cite: r05-ccdi-2023-07-06-wang-xuefeng-hebei-expel
+    quotes:
+      - 搞拉票贿选，大肆买官卖官，严重破坏当地政治生态
+      - 在干部录用中弄虚作假为亲属谋取利益
+  discipline: [organization, integrity, life, eight]
+  amount:
+    yuan: 84070000
+    text: 1999 年至 2022 年受贿共计折合人民币 8407 万余元；2018 年至 2022 年另利用影响力受贿 411 万余元
+    cite: r05-huanqiu-2024-10-16-wang-xuefeng-hebei-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-07-06-wang-xuefeng-hebei-expel
+  politics:
+    level: none
+    why: 通报只列组织、廉洁、生活纪律，连政治纪律都未列入；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-07-06-wang-xuefeng-hebei-expel]
+
+ji-binchang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-07-27
+    cite: r05-ccdi-2023-07-27-ji-binchang-expel
+    quotes:
+      - 与不法商人勾肩搭背沆瀣一气
+      - 以权谋私，为其子在投资经营等方面谋取利益
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 526000000
+    text: 2003 年至 2022 年直接或通过他人受贿共计折合人民币 5.26 亿余元
+    cite: r05-chinacourt-2024-12-ji-binchang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-people-2023-01-06-ji-binchang-probe
+  politics:
+    level: none
+    why: 通报与判决只列国资、工信系统和副省长任上的受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-07-27-ji-binchang-expel, r05-chinacourt-2024-12-ji-binchang-verdict]
+
+hao-hongjun:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-07-27
+    cite: r05-ccdi-2023-07-27-hao-hongjun-expel
+    quotes:
+      - 执纪违纪、执法犯法，大肆干预插手案件处理，严重败坏纪检监察干部形象
+      - 甘于被“围猎”
+      - 对抗组织审查，搞迷信活动
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 74980000
+    text: 2006 年至 2023 年直接或通过他人受贿共计折合人民币 7498 万余元
+    cite: r05-chinacourt-2024-12-hao-hongjun-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-02-05-hao-hongjun-probe
+  politics:
+    level: none
+    why: 通报与判决集中在纪检干部执纪违纪和受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-07-27-hao-hongjun-expel, r05-chinacourt-2024-12-hao-hongjun-verdict]
+
+zheng-hong-chongqing:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-08-30
+    cite: r05-ccdi-2023-08-30-zheng-hong-chongqing-expel
+    quotes:
+      - 违背党中央关于工会工作决策部署，将党和国家的荣誉私相授受
+      - 违规接受私营企业主安排的宴请和打高尔夫球活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 33140000
+    text: 1998 年至 2023 年受贿共计折合人民币 3314 万余元；2020 年 1 月离职后另利用影响力受贿 1769 万余元
+    cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-03-16-zheng-hong-chongqing-probe
+  politics:
+    level: none
+    why: 通报的政治性指控是在工会工作中把荣誉“私相授受”，与龚建华案的劳模评选问题相似，但没有点名团伙或靠山。
+    cites: [r05-ccdi-2023-08-30-zheng-hong-chongqing-expel, r05-ccdi-2022-05-10-gong-jianhua-expel]
+
+li-zaiyong:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-11-07
+    cite: r05-ccdi-2023-11-07-li-zaiyong-expel
+    quotes:
+      - 大搞劳民伤财的“政绩工程”，肆意违规举债融资，造成重大债务风险
+      - 严重破坏当地生态环境
+      - 道德败坏，追求低级趣味，长期痴迷赌博
+  discipline: [political, organization, integrity, mass, work, life, eight]
+  amount:
+    yuan: 432000000
+    text: 1998 年至 2023 年受贿共计折合人民币 4.32 亿余元，其中大部分未实际取得；另滥用职权造成生态破坏损失 8645 万余元
+    cite: r05-chinacourt-2024-08-li-zaiyong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-03-27-li-zaiyong-probe
+  politics:
+    level: none
+    why: 通报的重点是举债搞政绩工程、破坏生态和赌博，没有政治团伙一类的定性；他与孙志刚、周建琨同为贵州落马官员，官方未把几案并案。
+    cites: [r05-ccdi-2023-11-07-li-zaiyong-expel, r05-chinacourt-2024-08-li-zaiyong-verdict]
+
+sun-shutao:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-10-09
+    cite: r05-ccdi-2023-10-09-sun-shutao-expel
+    quotes:
+      - 长期欺骗组织，对抗组织审查
+      - 通过私营企业主获取高额理财收益
+      - 政绩观扭曲，为谋求个人进步搞经济数据造假
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 129000000
+    text: 2001 年至 2023 年受贿共计折合人民币 1.29 亿余元
+    cite: r05-chinacourt-2024-06-sun-shutao-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-03-28-sun-shutao-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、数据造假和理财收益，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-10-09-sun-shutao-expel, r05-chinacourt-2024-06-sun-shutao-verdict]
+
+yin-meigen:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-10-07
+    cite: r05-ccdi-2023-10-07-yin-meigen-expel
+    quotes:
+      - 与不法商人结成利益共同体，伙同亲属大搞权钱交易
+      - 借用管理和服务对象钱款、住房
+      - 对抗组织审查，搞迷信活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 207000000
+    text: 2003 年至 2023 年 2 月受贿共计折合人民币 2.07 亿余元
+    cite: r05-yicai-2025-04-15-yin-meigen-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-03-29-yin-meigen-probe
+  politics:
+    level: none
+    why: 通报与判决只列九江、南昌任上的受贿和利益共同体，没有政治团伙一类的定性；他与龚建华先后任南昌市委书记、先后落马，但官方未把两案并案。
+    cites: [r05-ccdi-2023-10-07-yin-meigen-expel, r05-yicai-2025-04-15-yin-meigen-verdict, r05-court-2023-09-19-gong-jianhua-verdict]
+
+liu-handong:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-02-26
+    cite: r05-xinhua-2024-02-26-liu-handong-expel
+    quotes:
+      - 大搞新型腐败和隐性腐败
+      - 政绩观扭曲，揽权妄为，在工作中不正确履行职责
+      - 滥用职权，致使国家利益遭受特别重大损失
+  discipline: [political, organization, integrity, work, eight]
+  amount:
+    yuan: 245000000
+    text: 1999 年至 2023 年直接或通过他人受贿共计折合人民币 2.45 亿余元
+    cite: r05-court-2025-02-17-liu-handong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-04-16-liu-handong-probe
+  politics:
+    level: none
+    why: 通报与判决只列土地出让中的受贿、滥用职权和倒卖土地使用权，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-xinhua-2024-02-26-liu-handong-expel, r05-court-2025-02-17-liu-handong-verdict]
+
+zhu-congjiu:
+  sys: finance
+  grade: vice
+  notice:
+    date: 2023-11-07
+    cite: r05-ccdi-2023-11-07-zhu-congjiu-expel
+    quotes:
+      - 妄议党中央大政方针和重大决定，搞团团伙伙，破坏政治生态
+      - 私自携带违禁书籍入境并长期阅看
+      - “靠金融吃金融”
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 105000000
+    text: 2002 年至 2022 年直接或通过他人受贿共计折合人民币 1.05 亿余元
+    cite: r05-court-2024-11-19-zhu-congjiu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-05-04-zhu-congjiu-probe
+  politics:
+    level: none
+    why: 通报有“妄议党中央大政方针”“搞团团伙伙”这类重话，但没有点名团伙成员或靠山，判决也只涉公司上市、融资中的受贿，按规则暂列未见政治关联。
+    cites: [r05-ccdi-2023-11-07-zhu-congjiu-expel, r05-court-2024-11-19-zhu-congjiu-verdict]
+
+xiong-xue:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-11-13
+    cite: r05-ccdi-2023-11-13-xiong-xue-expel
+    quotes:
+      - 在重大原则问题上不同党中央保持一致，搞“七个有之”，拉帮结派
+      - 搞形式主义、虚报造假
+      - 对抗组织审查，大搞迷信活动
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 148000000
+    text: 1999 年至 2023 年直接或通过他人受贿共计折合人民币 1.48 亿余元
+    cite: r05-chinacourt-2024-12-xiong-xue-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-05-11-xiong-xue-probe
+  politics:
+    level: none
+    why: 通报称他“拉帮结派”“在重大原则问题上不同党中央保持一致”，但没有点名所结之帮或靠山，按规则暂列未见政治关联。
+    cites: [r05-ccdi-2023-11-13-xiong-xue-expel]
+
+luo-yulin:
+  sys: central
+  grade: vice
+  notice:
+    date: 2023-11-16
+    cite: r05-ccdi-2023-11-16-luo-yulin-expel
+    quotes:
+      - 表里不一，搞两面派，做两面人
+      - 向多名私营企业主放贷获取大额回报，大搞权色、钱色交易
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 220000000
+    text: 1997 年至 2023 年直接或通过他人受贿共计折合人民币 2.2 亿余元
+    cite: r05-court-2025-07-14-luo-yulin-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-05-17-luo-yulin-probe
+  politics:
+    level: none
+    why: 通报与判决只列青海任上和国资委任上的受贿、放贷和内幕交易，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-11-16-luo-yulin-expel, r05-court-2025-07-14-luo-yulin-verdict]
+
+li-jinzhu:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-12-07
+    cite: r05-ccdi-2023-12-07-li-jinzhu-expel
+    quotes:
+      - 与党中央重大决策部署背道而驰，搞“七个有之”，污染地方政治生态和社会风气
+      - “靠煤吃煤”
+      - 插手市场经济活动和公共财政资金分配
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 431000000
+    text: 2004 年至 2023 年受贿共计折合人民币 4.31 亿余元
+    cite: r05-chinacourt-2024-12-li-jinzhu-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-05-29-li-jinzhu-probe
+  politics:
+    level: none
+    why: 通报用了“七个有之”的重话，但没有点名团伙或靠山，问题集中在榆林“靠煤吃煤”；本站所见报道未把他与某位落马高官连成一案。
+    cites: [r05-ccdi-2023-12-07-li-jinzhu-expel]
+
+qu-min:
+  sys: local
+  grade: vice
+  notice:
+    date: 2023-12-07
+    cite: r05-ccdi-2023-12-07-qu-min-expel
+    quotes:
+      - 对抗组织审查，搞迷信活动
+      - 违规选拔任用干部并收受财物
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 68430000
+    text: 2001 年至 2022 年直接或通过亲属受贿共计折合人民币 6843 万余元
+    cite: r05-xinhua-2024-11-06-qu-min-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-12-07-qu-min-expel
+  politics:
+    level: none
+    why: 通报与判决只列受贿、违规用人和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2023-12-07-qu-min-expel, r05-xinhua-2024-11-06-qu-min-verdict]
+
+jiang-jie-tibet:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-01-05
+    cite: r05-ccdi-2024-01-05-jiang-jie-tibet-expel
+    quotes:
+      - 违背新发展理念，履行全面从严治党政治责任不力
+      - 违规拥有非上市公司股份，搞权色交易
+      - 贪图享乐，生活腐化，作风败坏
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 225000000
+    text: 2000 年至 2023 年受贿共计折合人民币 2.25 亿余元
+    cite: r05-cctv-2024-10-12-jiang-jie-tibet-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-07-03-jiang-jie-tibet-probe
+  politics:
+    level: none
+    why: 通报与判决只列山东、西藏任上的受贿和生活问题，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-01-05-jiang-jie-tibet-expel, r05-cctv-2024-10-12-jiang-jie-tibet-verdict]
+
+chen-jixing:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-01-06
+    cite: r05-ccdi-2024-01-06-chen-jixing-expel
+    quotes:
+      - 长期政商勾连，大搞利益交换，对抗组织审查
+      - 退休后仍不知止
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 278000000
+    text: 2003 年至 2020 年直接或通过他人受贿共计折合人民币 2.78 亿余元；退休后另利用影响力受贿 115 万余元
+    cite: r05-court-2024-11-12-chen-jixing-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-07-09-chen-jixing-probe
+  politics:
+    level: none
+    why: 通报与判决只列江门、省人大任上的受贿和退休后利用影响力受贿，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-01-06-chen-jixing-expel, r05-court-2024-11-12-chen-jixing-verdict]
+
+yang-kening:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-05-23
+    cite: r05-ccdi-2024-05-23-yang-kening-expel
+    quotes:
+      - 贯彻党中央重大决策部署打折扣，懒政怠政，主动“躺平”
+      - 搞投机钻营，结交政治骗子
+      - 违规为其子操办婚宴
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 72230000
+    text: 2003 年至 2023 年受贿共计折合人民币 7223 万余元
+    cite: r05-court-2025-02-24-yang-kening-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-11-16-yang-kening-probe
+  politics:
+    level: none
+    why: 通报有“结交政治骗子”的说法，但没有点名团伙或靠山，判决另认定非法持有枪支、弹药；本站所见报道未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-05-23-yang-kening-expel, r05-court-2025-02-24-yang-kening-verdict]
+
+zhang-xiulong:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-04-22
+    cite: r05-ccdi-2024-04-22-zhang-xiulong-expel
+    quotes:
+      - 在贯彻落实党中央重大决策部署中优亲厚友、以权谋私
+      - 不正确履行职责，盲目高额举债
+  discipline: [political, organization, integrity, work, life, eight]
+  amount:
+    yuan: 41190000
+    text: 2001 年至 2023 年直接或通过他人受贿共计折合人民币 4119 万余元
+    cite: r05-chinacourt-2025-01-zhang-xiulong-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-ccdi-2023-10-21-zhang-xiulong-probe
+  politics:
+    level: none
+    why: 通报与判决只列广西任上的受贿和举债，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-04-22-zhang-xiulong-expel, r05-chinacourt-2025-01-zhang-xiulong-verdict]
+
+li-haitao-hlj:
+  sys: local
+  grade: vice
+  notice:
+    date: 2024-09-12
+    cite: r05-ccdi-2024-09-12-li-haitao-hlj-expel
+    quotes:
+      - 搞迷信活动，处心积虑对抗组织审查
+      - 安排下属单位报销、支付个人费用
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 150000000
+    text: 2003 年至 2023 年直接或通过他人受贿共计折合人民币 1.5 亿余元
+    cite: r05-xinhua-2026-03-17-li-haitao-hlj-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: r05-chinanews-2023-09-16-li-haitao-hlj-probe
+  politics:
+    level: none
+    why: 通报与判决只列黑龙江任上的受贿和迷信活动，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
+    cites: [r05-ccdi-2024-09-12-li-haitao-hlj-expel, r05-xinhua-2026-03-17-li-haitao-hlj-verdict]

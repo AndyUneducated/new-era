@@ -1,0 +1,75 @@
+# R01: centrally managed cadres (not army) first publicly announced as investigated 2012-11 .. 2014-12.
+# 68 people: the SPP roundup of 2015-03-18 (r01-spp-2015-03-18-98-tigers: 18 provincial-ministerial officials to the
+# end of 2013, 4 national leaders and 36 provincial-ministerial officials in 2014, plus 许杰、齐平景、王永春、戴春宁),
+# the CCTV roundup of 31 cadres in 2013 (r01-cctv-2014-01-10-31-cadres), the CCDI column "审查调查 · 中管干部"
+# (Wayback snapshots, research/scripts/R01-links.ts) and the zhwiki fall list (research/scripts/R01-wiki-list.ts).
+# Left out: 徐才厚 (army), 霍克 (first announced 2015-01-16, R02).
+# date = first public announcement; post = post at the time.
+- { name: 李春城, date: 2012-12-06, post: "四川省委副书记", id: li-chuncheng, done: true }
+- { name: 衣俊卿, date: 2013-01-17, post: "中央编译局局长", id: yi-junqing, done: true }
+- { name: 周镇宏, date: 2013-02-08, post: "广东省委原常委、统战部原部长", id: zhou-zhenhong, done: true }
+- { name: 刘铁男, date: 2013-05-12, post: "国家发改委副主任、国家能源局原局长", id: liu-tienan, done: true }
+- { name: 杨琨, date: 2013-05-20, post: "中国农业银行原副行长", id: yang-kun, done: true }
+- { name: 倪发科, date: 2013-06-04, post: "安徽省副省长", id: ni-fake, done: true }
+- { name: 郭永祥, date: 2013-06-22, post: "四川省文联主席（原四川省委常委、副省长）", id: guo-yongxiang, done: true }
+- { name: 王素毅, date: 2013-06-30, post: "内蒙古自治区党委常委、统战部部长", id: wang-suyi, done: true }
+- { name: 李达球, date: 2013-07-06, post: "广西壮族自治区政协副主席、区总工会主席", id: li-daqiu, done: true }
+- { name: 王永春, date: 2013-08-26, post: "中石油集团副总经理、大庆油田总经理", id: wang-yongchun, done: true }
+- { name: 李华林, date: 2013-08-27, post: "中石油集团副总经理", id: li-hualin, done: true }
+- { name: 冉新权, date: 2013-08-27, post: "中石油股份副总裁兼长庆油田分公司总经理", id: ran-xinquan, done: true }
+- { name: 王道富, date: 2013-08-27, post: "中石油股份总地质师", id: wang-daofu, done: true }
+- { name: 蒋洁敏, date: 2013-09-01, post: "国务院国资委主任", id: jiang-jiemin, done: true }
+- { name: 齐平景, date: 2013-10-11, post: "中国外文局副局长", id: qi-pingjing, done: true }
+- { name: 季建业, date: 2013-10-17, post: "南京市委副书记、市长", id: ji-jianye, done: true }
+- { name: 廖少华, date: 2013-10-28, post: "贵州省委常委、遵义市委书记", id: liao-shaohua, done: true }
+- { name: 陈柏槐, date: 2013-11-19, post: "湖北省政协原副主席", id: chen-baihuai, done: true }
+- { name: 郭有明, date: 2013-11-27, post: "湖北省副省长", id: guo-youming, done: true }
+- { name: 许杰, date: 2013-11-28, post: "国家信访局副局长", id: xu-jie, done: true }
+- { name: 戴春宁, date: 2013-12-01, post: "中国出口信用保险公司副总经理", id: dai-chunning, done: true }
+- { name: 陈安众, date: 2013-12-06, post: "江西省人大常委会副主任", id: chen-anzhong, done: true }
+- { name: 付晓光, date: 2013-12-17, post: "黑龙江省政府亚布力度假区领导小组常务副组长（副省级待遇）", id: fu-xiaoguang, done: true }
+- { name: 童名谦, date: 2013-12-18, post: "湖南省政协副主席", id: tong-mingqian, done: true }
+- { name: 李东生, date: 2013-12-20, post: "公安部副部长", id: li-dongsheng, done: true }
+- { name: 杨刚, date: 2013-12-27, post: "全国政协经济委员会副主任（原国家质检总局副局长）", id: yang-gang, done: true }
+- { name: 李崇禧, date: 2013-12-29, post: "四川省政协主席", id: li-chongxi, done: true }
+- { name: 冀文林, date: 2014-02-18, post: "海南省副省长", id: ji-wenlin, done: true }
+- { name: 祝作利, date: 2014-02-19, post: "陕西省政协副主席", id: zhu-zuoli, done: true }
+- { name: 金道铭, date: 2014-02-27, post: "山西省人大常委会副主任", id: jin-daoming, done: true }
+- { name: 沈培平, date: 2014-03-09, post: "云南省副省长", id: shen-peiping, done: true }
+- { name: 姚木根, date: 2014-03-22, post: "江西省副省长", id: yao-mugen, done: true }
+- { name: 申维辰, date: 2014-04-12, post: "中国科协党组书记、常务副主席", id: shen-weichen, done: true }
+- { name: 宋林, date: 2014-04-17, post: "华润（集团）有限公司董事长", id: song-lin, done: true }
+- { name: 毛小兵, date: 2014-04-24, post: "青海省委常委、西宁市委书记", id: mao-xiaobing, done: true }
+- { name: 谭栖伟, date: 2014-05-03, post: "重庆市人大常委会副主任", id: tan-qiwei, done: true }
+- { name: 王帅廷, date: 2014-05-16, post: "香港中旅（集团）有限公司副董事长、总经理（原华润电力总裁）", id: wang-shuaiting, done: true }
+- { name: 阳宝华, date: 2014-05-26, post: "湖南省政协原副主席", id: yang-baohua, done: true }
+- { name: 赵智勇, date: 2014-06-03, post: "江西省委原常委、秘书长", id: zhao-zhiyong, done: true }
+- { name: 苏荣, date: 2014-06-14, post: "全国政协副主席", id: su-rong, done: true }
+- { name: 杜善学, date: 2014-06-19, post: "山西省委常委、副省长", id: du-shanxue, done: true }
+- { name: 令政策, date: 2014-06-19, post: "山西省政协副主席", id: ling-zhengce, done: true }
+- { name: 万庆良, date: 2014-06-27, post: "广东省委常委、广州市委书记", id: wan-qingliang, done: true }
+- { name: 谭力, date: 2014-07-08, post: "海南省人大常委会副主任（原副省长）", id: tan-li, done: true }
+- { name: 韩先聪, date: 2014-07-12, post: "安徽省政协副主席", id: han-xiancong, done: true }
+- { name: 张田欣, date: 2014-07-12, post: "云南省委原常委、昆明市委原书记", id: zhang-tianxin, done: true }
+- { name: 武长顺, date: 2014-07-20, post: "天津市政协副主席、市公安局局长", id: wu-changshun, done: true }
+- { name: 杨森林, date: 2014-07-23, post: "山西省纪委原常务副书记", id: yang-senlin, done: true }
+- { name: 陈铁新, date: 2014-07-24, post: "辽宁省政协副主席", id: chen-tiexin, done: true }
+- { name: 周永康, date: 2014-07-29, post: "原中央政治局常委、中央政法委书记", id: zhou-yongkang, done: true }
+- { name: 陈川平, date: 2014-08-23, post: "山西省委常委、太原市委书记", id: chen-chuanping, done: true }
+- { name: 聂春玉, date: 2014-08-23, post: "山西省委常委、秘书长", id: nie-chunyu, done: true }
+- { name: 白云, date: 2014-08-29, post: "山西省委常委、统战部部长", id: bai-yun, done: true }
+- { name: 白恩培, date: 2014-08-29, post: "全国人大环资委副主任委员（原云南省委书记）", id: bai-enpei, done: true }
+- { name: 任润厚, date: 2014-08-29, post: "山西省副省长", id: ren-runhou, done: true }
+- { name: 安德武, date: 2014-08-29, post: "中国第一汽车集团公司原副总经理", id: an-dewu, done: true }
+- { name: 孙兆学, date: 2014-09-15, post: "中国铝业公司总经理", id: sun-zhaoxue, done: true }
+- { name: 潘逸阳, date: 2014-09-17, post: "内蒙古自治区党委常委、常务副主席", id: pan-yiyang, done: true }
+- { name: 秦玉海, date: 2014-09-21, post: "河南省人大常委会党组书记、副主任", id: qin-yuhai, done: true }
+- { name: 何家成, date: 2014-10-11, post: "国家行政学院常务副院长", id: he-jiacheng, done: true }
+- { name: 赵少麟, date: 2014-10-11, post: "江苏省委原常委、秘书长", id: zhao-shaolin, done: true }
+- { name: 梁滨, date: 2014-11-20, post: "河北省委常委、组织部部长", id: liang-bin, done: true }
+- { name: 隋凤富, date: 2014-11-27, post: "黑龙江省人大常委会副主任、省农垦总局党委书记", id: sui-fengfu, done: true }
+- { name: 朱明国, date: 2014-11-28, post: "广东省政协主席", id: zhu-mingguo, done: true }
+- { name: 王敏, date: 2014-12-18, post: "山东省委常委、济南市委书记", id: wang-min-jinan, done: true }
+- { name: 韩学键, date: 2014-12-22, post: "黑龙江省委常委、大庆市委书记", id: han-xuejian, done: true }
+- { name: 令计划, date: 2014-12-22, post: "全国政协副主席、中央统战部部长", id: ling-jihua, done: true }
+- { name: 孙鸿志, date: 2014-12-26, post: "国家工商总局副局长", id: sun-hongzhi, done: true }

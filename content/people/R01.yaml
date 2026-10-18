@@ -1,0 +1,224 @@
+# R01 (round 6): tier-2 cards for centrally managed cadres first announced as investigated 2012-11 .. 2014-12
+# who had no card yet (research/falls-list/R01.yaml). Case records in content/falls/R01.yaml.
+- id: yi-junqing
+  name: 衣俊卿
+  gender: m
+  born: 1958-01
+  roles: [tiger]
+  status: purged
+  statusNote: 2013 年 1 月因生活作风问题被免去中央编译局局长职务；本站未查到此后的党纪处分或司法处理通报。
+  fall:
+    - { date: 2013-01-17, text: 有关部门证实其因生活作风问题，被免去中央编译局局长职务, cite: r01-ce-2013-01-17-yi-junqing }
+  tier: 2
+  headline: 中央编译局原局长
+  ids: { wikidata: Q8462671 }
+  bio: >-
+    哲学学者出身，研究马克思主义文化哲学，曾任黑龙江大学校长，2007 年起任黑龙江省委常委、宣传部部长，2010 年任中央编译局局长。
+    2013 年 1 月，官方证实他因生活作风问题被免职；此前该局博士后常艳在网上发表长文，讲述两人的婚外情。
+  positions:
+    - { title: 黑龙江大学校长, sys: other, place: 黑龙江, cite: r01-ce-2013-01-17-yi-junqing }
+    - { title: 黑龙江省委宣传部部长, sys: party, place: 黑龙江, from: 2007-03, to: 2010-02, cite: r01-ce-2013-01-17-yi-junqing }
+    - { title: 黑龙江省委常委, sys: party, place: 黑龙江, from: 2007-04, to: 2010-02, cite: r01-ce-2013-01-17-yi-junqing }
+    - { title: 中央编译局局长, sys: party, from: 2010-02, to: 2013-01, cite: r01-ce-2013-01-17-yi-junqing }
+  cites: [wd-Q8462671, r01-ce-2013-01-17-yi-junqing, r01-bbc-2013-01-17-yi-junqing]
+
+- id: zhou-zhenhong
+  name: 周镇宏
+  gender: m
+  born: 1957-10
+  birthplace: 广东普宁
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2014 年一审被判死缓；本站未查到改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-02-08, text: 中央纪委通报给予其开除党籍、开除公职处分, cite: r01-ccdi-2013-02-08-zhou-zhenhong-expel }
+    - { date: 2014-02-28, text: 河南信阳中院一审以受贿罪、巨额财产来源不明罪判处，受贿 2464 万余元，决定执行死刑，缓期二年执行, cite: r01-people-2014-02-28-zhou-zhenhong-verdict }
+  tier: 2
+  headline: 广东省委原常委、统战部原部长
+  ids: { wikidata: Q10921104 }
+  bio: >-
+    物理学博士出身，2002 年起任茂名市委书记，2007 年进入广东省委常委会任统战部部长。
+    2013 年 2 月中央纪委通报他对茂名市系列严重腐败案件负有主要领导责任，将其开除党籍、开除公职；2014 年 2 月一审以受贿 2464 万余元和巨额财产来源不明罪被判死缓。
+  positions:
+    - { title: 茂名市委书记, sys: party, place: 广东, from: 2002-07, cite: r01-people-2014-02-28-zhou-zhenhong-verdict }
+    - { title: 茂名市人大常委会主任, sys: gov, place: 广东, cite: r01-people-2014-02-28-zhou-zhenhong-verdict }
+    - { title: 广东省委常委、统战部部长, sys: party, place: 广东, from: 2007, to: 2013, cite: r01-chinanews-2014-02-28-zhou-zhenhong }
+  cites: [wd-Q10921104, r01-ccdi-2013-02-08-zhou-zhenhong-expel, r01-people-2014-02-28-zhou-zhenhong-verdict, r01-chinanews-2014-02-28-zhou-zhenhong]
+
+- id: yang-kun
+  name: 杨琨
+  gender: m
+  roles: [tiger, biz]
+  status: detained
+  statusNote: 2015 年一审被判无期徒刑，判决已生效；本站未查到减刑或释放的公开报道。
+  fall:
+    - { date: 2012-07-13, text: 农业银行公告其因个人情况不能履职，辞去执行董事、副行长职务, cite: r01-people-2015-02-05-yang-kun-verdict }
+    - { date: 2013-05-20, text: 中央纪委通报给予其开除党籍、开除公职处分, cite: r01-ccdi-2013-05-20-yang-kun-expel }
+    - { date: 2015-02, text: 南京中院一审以受贿罪判处无期徒刑，受贿 3079.889119 万元, cite: r01-people-2015-02-05-yang-kun-big5 }
+  tier: 2
+  headline: 中国农业银行原副行长
+  bio: >-
+    曾任中国农业银行副行长、农行股份公司执行董事兼副行长，并任农银租赁公司董事长。2012 年 7 月以个人情况不能履职为由辞职，2013 年 5 月被中央纪委开除党籍、开除公职。
+    南京中院认定他 2005 年至 2012 年直接或通过妻弟收受财物 3079 万余元，一审判处无期徒刑。
+  positions:
+    - { title: 中国农业银行副行长, sys: other, cite: r01-people-2015-02-05-yang-kun-big5 }
+    - { title: 中国农业银行股份有限公司执行董事、副行长, sys: other, to: 2012-07, cite: r01-people-2015-02-05-yang-kun-verdict }
+    - { title: 农银金融租赁公司董事长, sys: other, cite: r01-people-2015-02-05-yang-kun-big5 }
+  cites: [r01-ccdi-2013-05-20-yang-kun-expel, r01-people-2015-02-05-yang-kun-verdict, r01-people-2015-02-05-yang-kun-big5]
+
+- id: qi-pingjing
+  name: 齐平景
+  gender: m
+  born: 1954-07-17
+  birthplace: 河北晋州
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年一审被判无期徒刑，未上诉，判决已生效；本站未查到减刑或释放的公开报道。
+  fall:
+    - { date: 2013-10-11, text: 中央纪委通报其涉嫌严重违纪违法，接受组织调查, cite: r01-ccdi-2013-10-11-qi-pingjing-probe }
+    - { date: 2013-12-26, text: 中央纪委通报给予其开除党籍、开除公职处分；同日因涉嫌受贿罪被刑事拘留, cite: r01-ccdi-2013-12-26-qi-pingjing-expel }
+    - { date: 2014-12-15, text: 淄博中院一审以受贿罪、贪污罪判处，受贿 1004.3889 万元、贪污 60 万元，决定执行无期徒刑, cite: r01-ce-2015-02-12-qi-pingjing-indictment }
+  tier: 2
+  headline: 中国外文局原副局长
+  ids: { wikidata: Q15917369 }
+  bio: >-
+    长期在中国国际图书贸易总公司任职，历任副总经理、总经理，兼北京国图物流中心董事长，后任中国外文出版发行事业局副局长。
+    2013 年 10 月被查，同年 12 月被开除党籍、开除公职并被刑事拘留；2014 年 12 月淄博中院以受贿、贪污两罪决定执行无期徒刑。
+  positions:
+    - { title: 中国国际图书贸易总公司副总经理、总经理, sys: other, cite: r01-ce-2015-02-12-qi-pingjing-indictment }
+    - { title: 北京国图物流中心有限公司董事长, sys: other, cite: r01-ce-2015-02-12-qi-pingjing-indictment }
+    - { title: 中国外文出版发行事业局副局长, sys: gov, to: 2013-10, cite: r01-ccdi-2013-10-11-qi-pingjing-probe }
+  cites: [wd-Q15917369, r01-ccdi-2013-10-11-qi-pingjing-probe, r01-ccdi-2013-12-26-qi-pingjing-expel, r01-ce-2015-02-12-qi-pingjing-indictment, r01-caixin-2015-02-12-qi-pingjing]
+
+- id: xu-jie
+  name: 许杰
+  gender: m
+  born: 1955
+  birthplace: 北京
+  roles: [tiger]
+  status: detained
+  statusNote: 2015 年一审被判有期徒刑十三年；本站未查到改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2013-11-28, text: 中央纪委通报其涉嫌严重违纪违法，接受组织调查, cite: r01-ccdi-2013-11-28-xu-jie-probe }
+    - { date: 2014-06-27, text: 中央纪委通报给予其开除党籍处分；同日因涉嫌受贿罪被北京市公安局刑事拘留, cite: r01-ccdi-2014-06-27-xu-jie-expel }
+    - { date: 2015-12-04, text: 北京市二中院以受贿罪判处有期徒刑13年，收受款物共计610万余元, cite: r01-chinanews-2015-12-05-xu-jie-verdict }
+  tier: 2
+  headline: 国家信访局原副局长
+  bio: >-
+    北京人，任国家信访局党组成员、副局长。中央纪委 2014 年 6 月通报他对国家信访局来访接待司发生的系列严重违纪违法案件负有主要领导责任，将其开除党籍。
+    2015 年 12 月北京市二中院认定他为有关单位和个人在修改信访数据、处理信访事项等方面提供帮助，收受款物 610 万余元，以受贿罪判处有期徒刑 13 年。
+  positions:
+    - { title: 国家信访局党组成员、副局长, sys: gov, to: 2013-11, cite: r01-ccdi-2013-11-28-xu-jie-probe }
+  cites: [r01-ccdi-2013-11-28-xu-jie-probe, r01-ccdi-2014-06-27-xu-jie-expel, r01-chinanews-2015-12-05-xu-jie-verdict]
+
+- id: dai-chunning
+  name: 戴春宁
+  gender: m
+  born: 1962-02
+  roles: [tiger, biz]
+  status: purged
+  statusNote: 2014 年 10 月河北检察机关对其涉嫌受贿犯罪立案侦查并采取强制措施；本站未查到起诉或判决的公开报道。
+  fall:
+    - { date: 2013-12-01, text: 中央纪委通报其涉嫌严重违纪违法，接受组织调查, cite: r01-ccdi-2013-12-01-dai-chunning-probe }
+    - { date: 2014-06-05, text: 中央纪委通报给予其开除党籍处分，涉嫌贪污、受贿犯罪问题移送司法机关, cite: r01-ccdi-2014-06-05-dai-chunning-expel }
+    - { date: 2014-10-21, text: 河北检察机关决定对其涉嫌受贿犯罪立案侦查，并采取强制措施, cite: r01-caixin-2014-10-21-dai-chunning }
+  tier: 2
+  headline: 中国出口信用保险公司原副总经理
+  ids: { wikidata: Q18415712 }
+  bio: >-
+    在中国进出口银行工作近 12 年，2000 年任信贷管理部副总经理，2011 年升任行长助理；2012 年 4 月出任中国出口信用保险公司副总经理（正厅级）。
+    2013 年 12 月被宣布接受组织调查，是中央第一轮巡视后被立案的人员之一；2014 年 6 月以贪污、受贿、与他人通奸被开除党籍。
+  positions:
+    - { title: 中国进出口银行信贷管理部副总经理, sys: other, from: 2000-05, cite: r01-people-2014-06-06-dai-chunning }
+    - { title: 中国进出口银行行长助理, sys: other, from: 2011-08, to: 2012-04, cite: r01-people-2014-06-06-dai-chunning }
+    - { title: 中国出口信用保险公司副总经理, sys: other, from: 2012-04, to: 2013-12, cite: r01-people-2014-06-06-dai-chunning }
+  cites: [wd-Q18415712, r01-ccdi-2013-12-01-dai-chunning-probe, r01-ccdi-2014-06-05-dai-chunning-expel, r01-caixin-2014-10-21-dai-chunning, r01-people-2014-06-06-dai-chunning, r01-gov-2014-01-09-inspection-review]
+
+- id: fu-xiaoguang
+  name: 付晓光
+  gender: m
+  born: 1952
+  roles: [tiger]
+  status: purged
+  statusNote: 2013 年 12 月受留党察看一年处分并由副省级降为正局级；本站未查到移送司法的报道。
+  fall:
+    - { date: 2013-12-17, text: 中央纪委通报其违反中央八项规定精神，给予留党察看一年处分，免去亚布力度假区领导小组常务副组长职务，由副省级降为正局级, cite: r01-people-2013-12-18-fu-xiaoguang }
+  tier: 2
+  headline: 黑龙江省原副省长
+  ids: { wikidata: Q15831777 }
+  bio: >-
+    2003 年起任黑龙江省副省长，2004 年 10 月辞职，此后以副省级待遇任省乒乓球联合会主席、亚布力旅游区开发指挥部副总指挥。
+    2013 年 7 月他带亲属到镜泊湖旅游，当地林业局负责人公款宴请，次日林业局党委书记被发现死在宾馆房间；中央纪委通报他因私公款消费、大量饮酒，造成陪酒人员一死一伤，给予留党察看一年、降为正局级。
+  positions:
+    - { title: 黑龙江省副省长, sys: gov, place: 黑龙江, from: 2003, to: 2004-10, cite: r01-chinanews-2013-12-18-fu-xiaoguang }
+    - { title: 黑龙江省乒乓球联合会主席, sys: other, place: 黑龙江, from: 2010, cite: r01-chinanews-2013-12-18-fu-xiaoguang }
+    - { title: 黑龙江亚布力旅游区开发指挥部副总指挥, sys: gov, place: 黑龙江, from: 2012, cite: r01-chinanews-2013-12-18-fu-xiaoguang }
+    - { title: 黑龙江省政府亚布力度假区领导小组常务副组长, sys: gov, place: 黑龙江, to: 2013-12, cite: r01-people-2013-12-18-fu-xiaoguang }
+  cites: [wd-Q15831777, r01-people-2013-12-18-fu-xiaoguang, r01-chinanews-2013-12-18-fu-xiaoguang]
+
+- id: wang-shuaiting
+  name: 王帅廷
+  gender: m
+  born: 1955-10
+  roles: [tiger, biz]
+  status: detained
+  statusNote: 2017 年一审被判有期徒刑十六年；本站未查到改判、减刑或释放的公开报道。
+  fall:
+    - { date: 2014-05-16, text: 中央纪委通报其涉嫌在华润集团工作期间严重违纪违法，接受组织调查, cite: r01-ccdi-2014-05-16-wang-shuaiting-probe }
+    - { date: 2015-09-11, text: 中央纪委通报给予其开除党籍、行政开除处分, cite: r01-people-2015-09-11-wang-shuaiting-expel }
+    - { date: 2017-02-28, text: 深圳中院一审以受贿罪、贪污罪判处，受贿 4008.8337 万元（绝大部分未实际交付）、贪污 708.6375 万元，决定执行有期徒刑十六年, cite: r01-qinfeng-2017-02-28-wang-shuaiting-verdict }
+  tier: 2
+  headline: 香港中旅集团原总经理、华润电力原总裁
+  ids: { wikidata: Q18109393 }
+  bio: >-
+    长期在华润集团任职，任华润电力控股党委书记、董事局主席、总裁等职，后调任香港中旅（集团）副董事长、总经理。
+    2014 年 5 月因在华润任职期间的问题被查，2015 年 9 月被双开，通报称他“为谋求个人职务升迁搞利益输送”；2017 年 2 月深圳中院以受贿、贪污罪决定执行有期徒刑十六年。
+  positions:
+    - { title: 华润电力控股有限公司党委书记、董事局主席、总裁, sys: other, from: 2003, to: 2013, cite: r01-qinfeng-2017-02-28-wang-shuaiting-verdict }
+    - { title: 香港中旅（集团）有限公司副董事长、总经理、党委副书记, sys: other, to: 2014-05, cite: r01-ccdi-2014-05-16-wang-shuaiting-probe }
+  cites: [wd-Q18109393, r01-ccdi-2014-05-16-wang-shuaiting-probe, r01-people-2015-09-11-wang-shuaiting-expel, r01-qinfeng-2017-02-28-wang-shuaiting-verdict]
+
+- id: yang-senlin
+  name: 杨森林
+  gender: m
+  born: 1956-09
+  birthplace: 山西翼城
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 12 月被开除党籍、开除公职，涉嫌受贿犯罪移送司法机关；本站未查到判决的公开报道。
+  fall:
+    - { date: 2014-07-23, text: 中央纪委通报其涉嫌严重违纪违法，接受组织调查, cite: r01-ccdi-2014-07-23-yang-senlin-probe }
+    - { date: 2014-12-15, text: 中央纪委通报给予其开除党籍、开除公职处分, cite: r01-ccdi-2014-12-15-yang-senlin-expel }
+  tier: 2
+  headline: 山西省纪委原常务副书记
+  ids: { wikidata: Q17499081 }
+  bio: >-
+    山西翼城人，2011 年起任山西省纪委常务副书记，一度兼任省监察厅厅长。2014 年 7 月被查，是山西官场塌方中落马的纪检高官；香港商报称金道铭案牵出了他的副手们。
+    同年 12 月以受贿、收受礼金礼品、与他人通奸被开除党籍和公职。
+  positions:
+    - { title: 山西省纪委常务副书记、省监察厅厅长, sys: party, place: 山西, from: 2011-11, to: 2012-01, cite: r01-chinanews-2014-12-15-yang-senlin }
+    - { title: 山西省纪委常务副书记, sys: party, place: 山西, from: 2012-01, to: 2014-07, cite: r01-chinanews-2014-12-15-yang-senlin }
+  cites: [wd-Q17499081, r01-ccdi-2014-07-23-yang-senlin-probe, r01-ccdi-2014-12-15-yang-senlin-expel, r01-chinanews-2014-12-15-yang-senlin, r01-hkcd-2014-09-03-shanxi]
+
+- id: an-dewu
+  name: 安德武
+  gender: m
+  born: 1947-06
+  roles: [tiger, biz]
+  status: detained
+  statusNote: 2016 年一审决定执行有期徒刑十四年，判决所载刑期至 2028 年 11 月 19 日止。
+  fall:
+    - { date: 2014-08-29, text: 中央纪委网站公布其涉嫌严重违纪违法，接受组织调查, cite: r01-caixin-2014-08-30-an-dewu-probe }
+    - { date: 2016-09, text: 长春中院一审以贪污罪、受贿罪判处，贪污 527.9937 万元、受贿 3608358.87 元，决定执行有期徒刑十四年, cite: r01-cri-2016-09-06-an-dewu-verdict }
+  tier: 2
+  headline: 中国第一汽车集团公司原副总经理
+  bio: >-
+    长期在一汽任职，历任长春齿轮厂厂长、集团总经理助理、副总经理，主管销售，兼任一汽马自达销售公司董事长；2008 年退休。
+    退休六年后，在中央巡视组巡视一汽的最后一天被宣布接受组织调查；长春中院认定他贪污 527 万余元、受贿 360 万余元，决定执行有期徒刑十四年。
+  positions:
+    - { title: 一汽长春齿轮厂厂长, sys: other, place: 吉林, cite: r01-caixin-2014-08-30-an-dewu-probe }
+    - { title: 中国第一汽车集团公司总经理助理, sys: other, place: 吉林, cite: r01-caixin-2014-08-30-an-dewu-probe }
+    - { title: 中国第一汽车集团公司副总经理, sys: other, place: 吉林, to: 2008-03, cite: r01-caixin-2014-08-30-an-dewu-probe }
+    - { title: 一汽马自达汽车销售有限公司董事长, sys: other, cite: r01-caixin-2014-08-30-an-dewu-probe }
+    - { title: 一汽轿车股份有限公司董事、副董事长, sys: other, place: 吉林, from: 1999, to: 2008-03, cite: r01-caixin-2014-08-30-an-dewu-probe }
+  cites: [r01-caixin-2014-08-30-an-dewu-probe, r01-cri-2016-09-06-an-dewu-verdict]

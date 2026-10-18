@@ -594,3 +594,679 @@ web:
     url: https://www.cna.com.tw/news/acn/202110040151.aspx
     excerpt: true
     keep: [董建華, 梁振英]
+  # ==== round 6 R01: centrally managed cadres first announced 2012-11 to 2014-12 ====
+  - id: r01-spp-2015-03-18-98-tigers
+    title: 十八大后98名副部以上官员和军级以上军官落马
+    publisher: 最高人民检察院网站（转载）
+    date: 2015-03-18
+    voice: official
+    url: https://web.archive.org/web/2016id_/https://www.spp.gov.cn/spp/zdgz/201503/t20150318_93350.shtml
+    start: 中纪委网站昨日(16号)发布消息
+    end: 中国出口信用保险公司副总经理。
+  - id: r01-cctv-2014-01-10-31-cadres
+    title: 快讯：2013年中央纪委立案检查31名中管干部
+    publisher: 央视网
+    date: 2014-01-10
+    voice: official
+    url: http://news.cntv.cn/2014/01/10/ARTI1389321193748487.shtml
+    start: 2014年1月10日，中央纪委监察部召开
+    end: 戴春宁等案件。
+  - id: r01-ccdi-2014-12-11-han-xiancong-expel
+    title: 安徽省政协原副主席韩先聪严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-12-11
+    voice: official
+    url: https://web.archive.org/web/20150923221834id_/http://www.ccdi.gov.cn/xwtt/201412/t20141211_46734.html
+    start: 日前，中共中央纪委对安徽省政协原副主席韩先聪
+    end: 依法处理。
+  # CCDI notices (Wayback raw copies); bodies found by research/scripts/R01-notices.ts
+  - id: r01-ccdi-2013-09-30-ni-fake-expel
+    title: 安徽省原副省长倪发科严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-09-30
+    voice: official
+    url: https://web.archive.org/web/20190130004438id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115931.html
+    start: 日前，中共中央纪委对安徽省原副省长倪
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2013-09-04-wang-suyi-expel
+    title: 内蒙古自治区党委原常委、统战部原部长王素毅严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-09-04
+    voice: official
+    url: https://web.archive.org/web/20190130023201id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115929.html
+    start: 日前，中共中央纪委对内蒙古自治区党委
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2013-09-04-li-daqiu-expel
+    title: 广西壮族自治区政协原副主席、区总工会原主席李达球严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-09-04
+    voice: official
+    url: https://web.archive.org/web/20190130023132id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115930.html
+    start: 日前，中共中央纪委对广西壮族自治区政
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2014-05-08-liao-shaohua-expel
+    title: 贵州省委原常委廖少华被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-05-08
+    voice: official
+    url: https://web.archive.org/web/20160304201204id_/http://www.ccdi.gov.cn/yw/201405/t20140508_36508.html
+    start: 日前，中共中央纪委对贵州省委原常委、
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-03-07-chen-baihuai-expel
+    title: 湖北省政协原副主席陈柏槐被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-03-07
+    voice: official
+    url: https://web.archive.org/web/20150923224231id_/http://www.ccdi.gov.cn/yw/201403/t20140307_35799.html
+    start: 日前，中共中央纪委对湖北省政协原副主
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-04-22-guo-youming-expel
+    title: 湖北省原副省长郭有明严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-04-22
+    voice: official
+    url: https://web.archive.org/web/20190129043620id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115937.html
+    start: 日前，中共中央纪委对湖北省原副省长郭
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-05-20-chen-anzhong-expel
+    title: 江西省人大常委会原副主任、省总工会原主席陈安众严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-05-20
+    voice: official
+    url: https://web.archive.org/web/20190129043526id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115940.html
+    start: 日前，中共中央纪委对江西省人大常委会
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-01-02-tong-mingqian-expel
+    title: 湖南省政协原副主席童名谦严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-01-02
+    voice: official
+    url: https://web.archive.org/web/20190130015621id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115933.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2014-07-11-yang-gang-expel
+    title: 政协第十二届全国委员会经济委员会原副主任杨刚被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-07-11
+    voice: official
+    url: https://web.archive.org/web/20190129043203id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115948.html
+    start: 日前，中共中央纪委对政协第十二届全国
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-08-06-zhu-zuoli-expel
+    title: 陕西省政协原副主席祝作利被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-08-06
+    voice: official
+    url: https://web.archive.org/web/20160305012621id_/http://www.ccdi.gov.cn/yw/201408/t20140806_37449.html
+    start: 日前，中共中央纪委对陕西省政协原副主
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-12-22-jin-daoming-expel
+    title: 山西省人大常委会原副主任金道铭严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-12-22
+    voice: official
+    url: https://web.archive.org/web/20170109020755id_/http://www.ccdi.gov.cn/xwtt/201412/t20141222_48841.html
+    start: 日前，中共中央纪委对山西省人大常委会
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-08-06-shen-peiping-expel
+    title: 云南省原副省长沈培平严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-08-06
+    voice: official
+    url: https://web.archive.org/web/20150104144702id_/http://www.ccdi.gov.cn/yw/201408/t20140806_37450.html
+    start: 日前，中共中央纪委对云南省原副省长沈
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-08-05-yao-mugen-expel
+    title: 江西省原副省长姚木根严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-08-05
+    voice: official
+    url: https://web.archive.org/web/20160305011826id_/http://www.ccdi.gov.cn/xwtt/201408/t20140805_31578.html
+    start: 日前，中共中央纪委对江西省原副省长姚
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-12-22-shen-weichen-expel
+    title: 中国科协原党组书记、常务副主席申维辰被开除党籍公职
+    publisher: 中央纪委监察部网站
+    date: 2014-12-22
+    voice: official
+    url: https://web.archive.org/web/20160304111617id_/http://www.ccdi.gov.cn/yw/201412/t20141222_48881.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2015-09-11-song-lin-expel
+    title: 华润(集团)有限公司原党委书记、董事长宋林严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2015-09-11
+    voice: official
+    url: https://web.archive.org/web/20150917015644id_/http://www.ccdi.gov.cn/xwtt/201509/t20150911_61775.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2014-07-16-mao-xiaobing-expel
+    title: 青海省委原常委毛小兵被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-07-16
+    voice: official
+    url: https://web.archive.org/web/20170109021031id_/http://www.ccdi.gov.cn/yw/201407/t20140716_37236.html
+    start: 日前，中共中央纪委对青海省委原常委、
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-09-02-tan-qiwei-expel
+    title: 重庆市人大常委会原副主任谭栖伟被“双开”
+    publisher: 中央纪委监察部网站
+    date: 2014-09-02
+    voice: official
+    url: https://web.archive.org/web/20150923221606id_/http://www.ccdi.gov.cn/jlsc/201409/t20140902_42285.html
+    start: 日前，中共中央纪委对重庆市人大常委会
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-07-15-yang-baohua-expel
+    title: 湖南省政协原党组副书记、副主席阳宝华严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-07-15
+    voice: official
+    url: https://web.archive.org/web/20150104143110id_/http://www.ccdi.gov.cn/jlsc/201407/t20140715_42166.html
+    start: 日前，中共中央纪委对湖南省政协原党组
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-07-16-zhao-zhiyong-expel
+    title: 江西省委原常委、秘书长赵智勇被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-07-16
+    voice: official
+    url: https://web.archive.org/web/20160304120040id_/http://www.ccdi.gov.cn/yw/201407/t20140716_37235.html
+    start: 日前，中共中央纪委对江西省委原常委、
+    end: ，降为科员；收缴其违纪所得。
+  - id: r01-ccdi-2015-02-13-du-shanxue-expel
+    title: 山西省原省委常委、副省长杜善学被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2015-02-13
+    voice: official
+    url: https://web.archive.org/web/20161213190326id_/http://www.ccdi.gov.cn/yw/201502/t20150213_51376.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-08-21-ling-zhengce-expel
+    title: 山西省政协原副主席令政策被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-08-21
+    voice: official
+    url: https://web.archive.org/web/20161111213653id_/http://www.ccdi.gov.cn/yw/201508/t20150821_60903.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2014-09-30-tan-li-expel
+    title: 海南省原省委常委、副省长谭力严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-09-30
+    voice: official
+    url: https://web.archive.org/web/20150104150221id_/http://www.ccdi.gov.cn/xwtt/201409/t20140930_31671.html
+    start: 日前，中共中央纪委对海南省原省委常委
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2015-02-13-wu-changshun-expel
+    title: 天津市政协原副主席、市公安局原局长武长顺被双开
+    publisher: 中央纪委监察部网站
+    date: 2015-02-13
+    voice: official
+    url: https://web.archive.org/web/20160304055308id_/http://www.ccdi.gov.cn/yw/201502/t20150213_51351.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2014-10-28-chen-tiexin-expel
+    title: 辽宁省政协原副主席陈铁新严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-10-28
+    voice: official
+    url: https://web.archive.org/web/20150104150223id_/http://www.ccdi.gov.cn/yw/201410/t20141028_38404.html
+    start: 日前，中共中央纪委对辽宁省政协原副主
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2015-02-17-chen-chuanping-expel
+    title: 山西省委原常委、太原市委原书记陈川平被“双开”
+    publisher: 中央纪委监察部网站
+    date: 2015-02-17
+    voice: official
+    url: https://web.archive.org/web/20150217061253id_/http://www.ccdi.gov.cn/yw/201502/t20150217_51614.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 央委员会全体会议时予以追认。
+  - id: r01-ccdi-2015-02-03-nie-chunyu-expel
+    title: 山西省委原常委、秘书长聂春玉严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-02-03
+    voice: official
+    url: https://web.archive.org/web/20160304104656id_/http://www.ccdi.gov.cn/jlsc/201502/t20150203_50966.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-02-03-bai-yun-expel
+    title: 山西省委原常委、统战部原部长白云严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-02-03
+    voice: official
+    url: https://web.archive.org/web/20150203105017id_/http://www.ccdi.gov.cn/jlsc/201502/t20150203_50965.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-04-13-ren-runhou-expel
+    title: 山西省原副省长任润厚严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2015-04-13
+    voice: official
+    url: https://web.archive.org/web/20160304194119id_/http://www.ccdi.gov.cn/xwtt/201504/t20150413_54662.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 法所得移送司法机关依法处理。
+  - id: r01-ccdi-2014-12-23-sun-zhaoxue-expel
+    title: 中国铝业公司原党组成员、总经理孙兆学严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-12-23
+    voice: official
+    url: https://web.archive.org/web/20150104150707id_/http://www.ccdi.gov.cn/jlsc/201412/t20141223_48968.html
+    start: 日前，中共中央纪委对中国铝业公司原党
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2015-10-16-pan-yiyang-expel
+    title: 内蒙古自治区党委原常委、自治区政府原副主席潘逸阳严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-10-16
+    voice: official
+    url: https://web.archive.org/web/20151022025957id_/http://www.ccdi.gov.cn/jlsc/201510/t20151016_63611.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 央委员会全体会议时予以追认。
+  - id: r01-ccdi-2015-02-13-qin-yuhai-expel
+    title: 河南省人大常委会原党组书记、副主任秦玉海被双开
+    publisher: 中央纪委监察部网站
+    date: 2015-02-13
+    voice: official
+    url: https://web.archive.org/web/20160304201845id_/http://www.ccdi.gov.cn/yw/201502/t20150213_51350.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-11-11-he-jiacheng-expel
+    title: 国家行政学院原党委委员、副院长何家成严重违纪被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-11-11
+    voice: official
+    url: https://web.archive.org/web/20151114190021id_/http://www.ccdi.gov.cn/xwtt/201511/t20151111_64854.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-01-26-liang-bin-expel
+    title: 河北省委原常委、组织部原部长梁滨严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-01-26
+    voice: official
+    url: https://web.archive.org/web/20160304102207id_/http://www.ccdi.gov.cn/xwtt/201501/t20150126_50634.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-02-13-sui-fengfu-expel
+    title: 黑龙江省人大常委会原副主任隋凤富被双开
+    publisher: 中央纪委监察部网站
+    date: 2015-02-13
+    voice: official
+    url: https://web.archive.org/web/20160305011937id_/http://www.ccdi.gov.cn/yw/201502/t20150213_51352.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2015-02-17-wang-min-expel
+    title: 山东省委原常委、济南市委原书记王敏被“双开”
+    publisher: 中央纪委监察部网站
+    date: 2015-02-17
+    voice: official
+    url: https://web.archive.org/web/20161104114413id_/http://www.ccdi.gov.cn/yw/201502/t20150217_51613.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 央委员会全体会议时予以追认。
+  - id: r01-ccdi-2015-04-30-han-xuejian-expel
+    title: 黑龙江省委原常委、大庆市委原书记韩学键严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2015-04-30
+    voice: official
+    url: https://web.archive.org/web/20161113145611id_/http://www.ccdi.gov.cn/xwtt/201504/t20150430_55627.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 龙江省委常委、大庆市委书记。
+  - id: r01-ccdi-2015-06-15-sun-hongzhi-expel
+    title: 国家工商总局原副局长、党组成员孙鸿志严重违纪违法被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2015-06-15
+    voice: official
+    url: https://web.archive.org/web/20160127180941id_/http://www.ccdi.gov.cn/jlsc/201506/t20150615_57839.html
+    start: 日前，经中共中央批准，中共中央纪委对
+    end: 涉款物移送司法机关依法处理。
+  - id: r01-ccdi-2014-09-11-li-chongxi-expel
+    title: 四川省政协原主席李崇禧严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2014-09-11
+    voice: official
+    url: https://web.archive.org/web/20190129042853id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115957.html
+    start: 日前，中共中央纪委对四川省政协原主席
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2013-02-08-zhou-zhenhong-expel
+    title: 广东省委原统战部部长周镇宏严重违纪违法被开除党籍公职
+    publisher: 中央纪委监察部网站
+    date: 2013-02-08
+    voice: official
+    url: https://web.archive.org/web/20180302045734id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115926.html
+    start: 经查，周镇宏利用职务上的便利，为他人
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2013-05-20-yang-kun-expel
+    title: 中国农业银行原副行长杨琨严重违纪违法被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-05-20
+    voice: official
+    url: https://web.archive.org/web/20190130023239id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115927.html
+    start: 经查，杨琨利用职务上的便利，为他人谋
+    end: 罪问题移送司法机关依法处理。
+  - id: r01-ccdi-2013-12-26-qi-pingjing-expel
+    title: 中国外文局原副局长齐平景被开除党籍和公职
+    publisher: 中央纪委监察部网站
+    date: 2013-12-26
+    voice: official
+    url: https://web.archive.org/web/20190130004413id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115932.html
+    start: 日前，中共中央纪委对中国外文局原副局
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-06-27-xu-jie-expel
+    title: 国家信访局原党组成员、副局长许杰被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-06-27
+    voice: official
+    url: https://web.archive.org/web/20190129043446id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115942.html
+    start: 日前，中共中央纪委对国家信访局原党组
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-06-05-dai-chunning-expel
+    title: 中国出口信用保险公司原副总经理戴春宁被开除党籍
+    publisher: 中央纪委监察部网站
+    date: 2014-06-05
+    voice: official
+    url: https://web.archive.org/web/20190129043512id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115941.html
+    start: 日前，中共中央纪委对中国出口信用保险
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2014-12-15-yang-senlin-expel
+    title: 山西省纪委原常务副书记杨森林被开除党籍公职
+    publisher: 中央纪委监察部网站
+    date: 2014-12-15
+    voice: official
+    url: https://web.archive.org/web/20190129025604id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201607/t20160704_115963.html
+    start: 日前，中共中央纪委对山西省纪委原常务
+    end: 及线索移送司法机关依法处理。
+  - id: r01-ccdi-2013-10-11-qi-pingjing-probe
+    title: 中国外文局副局长齐平景涉嫌严重违纪违法正接受调查
+    publisher: 中央纪委监察部网站
+    date: 2013-10-11
+    voice: official
+    url: https://web.archive.org/web/20180406163419id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115802.html
+    start: 中国外文局副局长齐平景涉嫌严重违纪违法，目前正接
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2013-11-28-xu-jie-probe
+    title: 国家信访局副局长许杰涉嫌严重违纪违法接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2013-11-28
+    voice: official
+    url: https://web.archive.org/web/20180409183147id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115807.html
+    start: 国家信访局党组成员、副局长许杰涉嫌严
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2013-12-01-dai-chunning-probe
+    title: 中国出口信用保险公司副总经理戴春宁接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2013-12-01
+    voice: official
+    url: https://web.archive.org/web/20180409183152id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115808.html
+    start: 中国出口信用保险公司副总经理戴春宁涉
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-05-16-wang-shuaiting-probe
+    title: 香港中旅(集团)总经理王帅廷接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-05-16
+    voice: official
+    url: https://web.archive.org/web/20180409183408id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115823.html
+    start: 香港中旅（集团）有限公司副董事长、总
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-07-23-yang-senlin-probe
+    title: 山西省纪委常务副书记杨森林接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-07-23
+    voice: official
+    url: https://web.archive.org/web/20180409174240id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115832.html
+    start: 山西省纪委常务副书记杨森林涉嫌严重违
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-04-12-shen-weichen-probe
+    title: 中国科协党组书记、常务副主席申维辰接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-04-12
+    voice: official
+    url: https://web.archive.org/web/20180409174219id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115819.html
+    start: 中国科协党组书记、常务副主席申维辰涉
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-06-19-ling-zhengce-probe
+    title: 山西省政协副主席令政策接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-06-19
+    voice: official
+    url: https://web.archive.org/web/20150923201402id_/http://www.ccdi.gov.cn/jlsc/201406/t20140619_42100.html
+    start: 山西省政协副主席令政策涉嫌严重违纪违
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-07-08-tan-li-probe
+    title: 海南省委常委、副省长谭力接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-07-08
+    voice: official
+    url: https://web.archive.org/web/20150923221809id_/http://www.ccdi.gov.cn/xwtt/201407/t20140708_31524.html
+    start: 海南省委常委、副省长谭力涉嫌严重违纪违法，目前正
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2013-12-29-li-chongxi-probe
+    title: 四川省政协主席李崇禧涉嫌严重违纪违法接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2013-12-29
+    voice: official
+    url: https://web.archive.org/web/20180409183358id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115813.html
+    start: 四川省政协主席李崇禧涉嫌严重违纪违法，目前正接受
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-08-23-chen-chuanping-probe
+    title: 山西省委常委、太原市委书记陈川平接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-08-23
+    voice: official
+    url: https://web.archive.org/web/20150104135832id_/http://www.ccdi.gov.cn/jlsc/201408/t20140823_42258.html
+    start: 山西省委常委、太原市委书记陈川平涉嫌
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-10-11-zhao-shaolin-probe
+    title: 江苏省委原常委、秘书长赵少麟接受组织调查
+    publisher: 中央纪委监察部网站
+    date: 2014-10-11
+    voice: official
+    url: https://web.archive.org/web/20160304200709id_/http://www.ccdi.gov.cn/jlsc/201410/t20141011_42355.html
+    start: 江苏省委原常委、秘书长赵少麟涉嫌严重
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2013-10-17-ji-jianye-probe
+    title: 南京市委副书记、市长季建业涉嫌严重违纪违法正接受调查
+    publisher: 中央纪委监察部网站
+    date: 2013-10-17
+    voice: official
+    url: https://web.archive.org/web/20180409183137id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201607/t20160704_115803.html
+    start: 江苏省南京市委副书记、市长季建业涉嫌
+    end: 纪违法，目前正接受组织调查。
+  - id: r01-ccdi-2014-02-18-ji-wenlin-probe
+    title: 海南省副省长冀文林涉嫌严重违纪违法被立案调查
+    publisher: 中央纪委监察部网站
+    date: 2014-02-18
+    voice: official
+    url: https://web.archive.org/web/20160304193637id_/http://www.ccdi.gov.cn/yw/201402/t20140218_35585.html
+    start: 海南省副省长冀文林涉嫌严重违纪违法，
+    end: 纪违法，目前正接受组织调查。
+  # new cards: removals, verdicts and résumés
+  - id: r01-ce-2013-01-17-yi-junqing
+    title: 中央编译局局长衣俊卿被免职（图|简历）
+    publisher: 中国经济网（新华网稿）
+    date: 2013-01-17
+    voice: official
+    url: http://i1.ce.cn/district/newarea/sddy/201301/17/t20130117_24038376.shtml
+    start: 新华网1月17日电 据有关部门证实
+    end: 教育部“新世纪优秀人才支持计划”。
+  - id: r01-bbc-2013-01-17-yi-junqing
+    title: 中央编译局长衣俊卿因作风问题被免职
+    publisher: BBC中文网
+    date: 2013-01-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese_news/2013/01/130117_yi_junqing_sacked
+    excerpt: true
+    keep: [常艳, 副部级单位]
+  - id: r01-people-2013-12-18-fu-xiaoguang
+    title: 黑龙江副省级干部付晓光因私公款消费被中纪委通报并降级
+    publisher: 人民网
+    date: 2013-12-18
+    voice: official
+    url: http://finance.people.com.cn/n/2013/1218/c1004-23872781.html
+    start: 人民网北京12月18日电
+    end: 典型问题进行了通报。
+  - id: r01-chinanews-2013-12-18-fu-xiaoguang
+    title: 黑龙江一副省级干部公款吃喝被降职
+    publisher: 中国新闻网（北京晚报）
+    date: 2013-12-18
+    voice: zh
+    url: https://www.chinanews.com/cj/2013/12-18/5635207.shtml
+    excerpt: true
+    keep: [2013年7月23日, 1952年出生的付晓光]
+  - id: r01-people-2014-02-28-zhou-zhenhong-verdict
+    title: 广东省委统战部原部长周镇宏因受贿、巨额财产来源不明罪被判处死缓
+    publisher: 人民网（新华网稿）
+    date: 2014-02-28
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0228/c70731-24495589.html
+    start: 新华网郑州2月28日电
+    end: 法院遂依法作出上述判决。
+  - id: r01-chinanews-2014-02-28-zhou-zhenhong
+    title: 广东统战部原部长周镇宏因受贿一审被判死缓
+    publisher: 中国新闻网
+    date: 2014-02-28
+    voice: zh
+    url: https://www.chinanews.com.cn/fz/2014/02-28/5895431.shtml
+    excerpt: true
+    keep: [1957年10月生, 省委统战部部长]
+  - id: r01-people-2015-02-05-yang-kun-verdict
+    title: 中国农业银行原副行长杨琨受贿3000余万被判无期
+    publisher: 人民网-中国共产党新闻网
+    date: 2015-02-05
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0205/c64371-26511289.html
+    start: 中国共产党新闻网北京2月5日电
+    end: 合议庭宣布此案将择期宣判。
+  - id: r01-ce-2015-02-12-qi-pingjing-indictment
+    title: 山东省检察院公布齐平景受贿、贪污案起诉书
+    publisher: 中国经济网
+    date: 2015-02-12
+    voice: official
+    url: http://district.ce.cn/newarea/roll/201502/12/t20150212_4582197.shtml
+    start: 中国外文出版发行事业局原副局长齐平景受贿
+    end: 审查了全部案件材料。
+  - id: r01-chinanews-2015-12-05-xu-jie-verdict
+    title: 国家信访局原副局长收钱改信访数据获刑13年
+    publisher: 中国新闻网（京华时报）
+    date: 2015-12-05
+    voice: zh
+    url: https://www.chinanews.com/gn/2015/12-05/7657070.shtml
+    excerpt: true
+    keep: [市二中院以受贿罪判处许杰, 现年60岁的许杰, 来访接待司]
+  - id: r01-people-2015-09-11-wang-shuaiting-expel
+    title: 港中旅原党委副书记、副董事长、总经理王帅廷严重违纪违法被开除党籍
+    publisher: 人民网-中国共产党新闻网（中央纪委监察部网站）
+    date: 2015-09-11
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0911/c64371-27572753.html
+    start: 日前，经中共中央批准，中共中央纪委对香港中旅
+    end: 移送司法机关依法处理。
+  - id: r01-qinfeng-2017-02-28-wang-shuaiting-verdict
+    title: 香港中旅(集团)有限公司原党委副书记、副董事长、总经理王帅廷受贿、贪污案一审宣判
+    publisher: 中共渭南市纪律检查委员会网站
+    date: 2017-02-28
+    voice: official
+    url: https://weinan.qinfeng.gov.cn/info/1053/22024.htm
+    start: 2017年2月28日下午
+    end: 法庭遂作出上述判决。（新华社）
+  - id: r01-people-2015-02-05-yang-kun-big5
+    title: 農行原副行長楊琨受賄3079萬判無期 已收監服刑
+    publisher: 人民網
+    date: 2015-02-05
+    voice: official
+    url: http://politics.people.com.cn/BIG5/n/2015/0205/c70731-26513810.html
+    start: 2014年6月18日上午9:00
+    end: 楊琨已收監服刑。
+  - id: r01-caixin-2015-02-12-qi-pingjing
+    title: 中国外文局原副局长齐平景被判无期徒刑
+    publisher: 财新网（新华社稿）
+    date: 2015-02-12
+    voice: zh
+    url: https://china.caixin.com/2015-02-12/100783777.html
+    excerpt: true
+    keep: [非法收受财物共计折合人民币1004, 从国图物流公司套取人民币60万元]
+  - id: r01-caixin-2014-08-30-an-dewu-probe
+    title: 一汽原副总经理安德武被调查
+    publisher: 财新网
+    date: 2014-08-30
+    voice: zh
+    url: https://companies.caixin.com/2014-08-30/100723254.html
+    excerpt: true
+    keep: [安德武因涉嫌严重违纪违法, 出生于1947年6月, 2008年3月7日, 中央巡视组在一汽巡视]
+  - id: r01-cri-2016-09-06-an-dewu-verdict
+    title: 一汽原副总安德武获刑14年 审批奥迪4S店受贿
+    publisher: 国际在线（中国吉林网）
+    date: 2016-09-06
+    voice: zh
+    url: http://news.cri.cn/20160906/b2dab184-44ae-f5af-3317-17f6b4eb9e6c.html
+    excerpt: true
+    keep: [决定执行有期徒刑十四年, 收受上述六人贿赂共计人民币3608358.87元, 侵吞、骗取公共财物共计人民币527.9937万元, 公诉机关指控被告人安某甲贪污数额有误]
+  - id: r01-chinanews-2014-12-15-yang-senlin
+    title: 山西纪委原常务副书记杨森林严重违纪违法被双开
+    publisher: 中国新闻网
+    date: 2014-12-15
+    voice: zh
+    url: https://www.chinanews.com/fz/2014/12-15/6878600.shtml
+    excerpt: true
+    keep: [1956年9月出生, 省纪委常务副书记]
+  - id: r01-caixin-2014-10-21-dai-chunning
+    title: 河北检察机关依法决定对戴春宁立案侦查
+    publisher: 财新网
+    date: 2014-10-21
+    voice: zh
+    url: https://china.caixin.com/m/2014-10-21/100741201.html
+    excerpt: true
+    keep: [河北检察机关决定, 出生年月, 履历]
+  - id: r01-people-2014-06-06-dai-chunning
+    title: 中国信保原副总与他人通奸被处理 曾称要管住自己
+    publisher: 人民网（新京报稿）
+    date: 2014-06-06
+    voice: zh
+    url: http://ccnews.people.com.cn/n/2014/0606/c141677-25110797.html
+    excerpt: true
+    keep: [戴春宁于2012年4月出任, 2000年5月，戴春宁调任, 当时该消息并未公布其被调查的具体原因]
+  # verdicts and inspections found later
+  - id: r01-court-2016-12-16-ling-zhengce-verdict
+    title: 受贿1600余万元 令政策一审获刑十二年六个月
+    publisher: 最高人民法院（人民法院报）
+    date: 2016-12-16
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/32961.html
+    start: 12月16日，江苏省常州市中级人民法院
+    end: 法庭遂作出上述判决。（记者罗书臻）
+  - id: r01-court-2017-05-19-zhao-shaolin-verdict
+    title: 江苏省委原常委、秘书长赵少麟获刑四年
+    publisher: 最高人民法院（人民法院报）
+    date: 2017-05-19
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/45192.html
+    start: 浙江省宁波市中级人民法院今天公开宣判
+    end: 法庭遂作出上述判决。（记者 罗书臻 余建华）
+  - id: r01-people-2013-08-29-cnpc-four
+    title: 中石油四高管涉嫌严重违纪被免去党政领导职务
+    publisher: 人民网
+    date: 2013-08-29
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0829/c1001-22740303.html
+    start: 人民网北京8月29日
+    end: 已分别在新的岗位上开展工作。
+  - id: r01-hkcd-2014-09-03-shanxi
+    title: 山西政商朋友圈崩塌：这一切仍只是前奏
+    publisher: 香港商报
+    date: 2014-09-03
+    voice: zh
+    url: https://www.hkcd.com/content/2014-09/03/content_870792.html
+    excerpt: true
+    keep: [金道铭案牵出的，还有他的副手们, 金道铭被查的43天后]
+  - id: r01-chinanews-2017-05-27-wu-changshun
+    title: 天津市政协原副主席、公安局原局长武长顺犯六罪一审被判死缓
+    publisher: 中国新闻网
+    date: 2017-05-27
+    voice: zh
+    url: https://www.chinanews.com.cn/gn/2017/05-27/8236315.shtml
+    excerpt: true
+    keep: [非法占有公共财物共计人民币3.42亿余元]
+  - id: r01-gov-2014-01-09-inspection-review
+    title: 突出发现问题 强化震慑作用—2013年巡视工作综述
+    publisher: 中国政府网（新华社）
+    date: 2014-01-09
+    voice: official
+    url: https://web.archive.org/web/2014id_/http://www.gov.cn/gzdt/2014-01/09/content_2562678.htm
+    start: “今年是贯彻落实党的十八大精神开局之年
+    end: 在推进党风廉政建设和反腐败斗争的征程上阔步前进。
