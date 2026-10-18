@@ -127,6 +127,8 @@ export const LifeSchema = z.object({
   cites: z.array(Cite).min(1),
 })
 
+export const FallStepSchema = z.object({ date: PartialDate, text: z.string(), cite: Cite })
+
 export const PersonSchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/),
   name: z.string(),
@@ -145,9 +147,7 @@ export const PersonSchema = z.object({
   status: z.enum(Object.keys(STATUS) as [Status, ...Status[]]),
   statusNote: z.string().optional(),
   // a fall from office: investigation, expulsion, sentence
-  fall: z
-    .array(z.object({ date: PartialDate, text: z.string(), cite: Cite }))
-    .default([]),
+  fall: z.array(FallStepSchema).default([]),
   // 1: full biography; 2: dossier card
   tier: z.union([z.literal(1), z.literal(2)]),
   headline: z.string(),
@@ -431,6 +431,191 @@ export const ChapterSchema = z.object({
     .min(1),
 })
 export type Chapter = z.infer<typeof ChapterSchema>
+
+// ───────── falls (decisions #41–#46) ─────────
+// content/falls/*.yaml maps person id → what the fall records do not say: the system, the rank, the wording
+// of the notice, the money, what set it off, who went down with them, and how it bears on the struggle
+// for power. Steps, charges, sentence and outcome are also read from the fall records at build time.
+export const CASE_SYS = {
+  local: '地方党政',
+  central: '中央和国家机关',
+  law: '政法公安',
+  army: '军队武警',
+  finance: '金融',
+  soe: '国有企业',
+  edu: '高校科研',
+  culture: '宣传文化体育',
+  health: '医疗卫生',
+  other: '其他',
+} as const
+export type CaseSys = keyof typeof CASE_SYS
+// the rank held when the first step against them was taken
+export const GRADES = {
+  state: '副国级以上',
+  minister: '正部级',
+  vice: '副部级',
+  bureau: '厅局级',
+  county: '县处级及以下',
+  general: '上将',
+  lieutenant: '中将',
+  major: '少将',
+  exec: '国企金融高管',
+  none: '无职级',
+} as const
+export type Grade = keyof typeof GRADES
+// how the case came to light, as reported
+export const TRIGGERS = {
+  inspect: '巡视巡察',
+  report: '实名举报',
+  media: '媒体或网络曝光',
+  chain: '他案牵出',
+  audit: '审计',
+  surrender: '主动投案',
+  incident: '事故或事件追责',
+  unknown: '未公开',
+} as const
+export type Trigger = keyof typeof TRIGGERS
+// the six disciplines a notice says were broken (the 2015 regulations), and the eight-point rules
+export const DISCIPLINES = {
+  political: '政治纪律',
+  organization: '组织纪律',
+  integrity: '廉洁纪律',
+  mass: '群众纪律',
+  work: '工作纪律',
+  life: '生活纪律',
+  eight: '八项规定精神',
+} as const
+export type Discipline = keyof typeof DISCIPLINES
+export const TERMS = {
+  death: '死刑',
+  'death-life': '死缓，终身监禁',
+  'death-suspended': '死缓',
+  life: '无期徒刑',
+  years: '有期徒刑',
+  probation: '缓刑',
+  exempt: '免予刑事处罚',
+} as const
+export type Term = keyof typeof TERMS
+export const OUTCOMES = {
+  probe: '审查调查中',
+  expelled: '已开除，待审判',
+  sentenced: '已判刑',
+  disciplined: '党纪政务处分',
+  suicide: '自杀',
+  died: '审查期间或服刑中去世',
+  fled: '外逃',
+  released: '刑满或获释',
+  missing: '下落不明',
+  back: '复出',
+} as const
+export type Outcome = keyof typeof OUTCOMES
+// who fell with them, from their side: the patron above, the protégé below, the secretary, family, businessmen
+export const CHAIN_RELS = { patron: '靠山', protege: '提拔的下属', secretary: '秘书', kin: '家属', business: '商人', colleague: '同僚', briber: '行贿者' } as const
+export type ChainRel = keyof typeof CHAIN_RELS
+// the editor's reading of how far a case belongs to the struggle for power (decisions #43)
+export const POLITICS = { core: '权力斗争核心案', linked: '与派系或靠山清洗相关', none: '未见政治关联' } as const
+export type Politics = keyof typeof POLITICS
+
+// the editor's own analysis, always shown apart from sourced facts, with what it rests on (decisions #43)
+export const EditorSchema = z.object({ text: z.string(), cites: z.array(Cite).min(1) })
+
+export const CaseRecordSchema = z.object({
+  sys: z.enum(Object.keys(CASE_SYS) as [CaseSys, ...CaseSys[]]),
+  grade: z.enum(Object.keys(GRADES) as [Grade, ...Grade[]]),
+  // the notice that expelled or punished them; every phrase is checked verbatim against cite
+  notice: z.object({ date: PartialDate, cite: Cite, quotes: z.array(z.string()).min(1) }).optional(),
+  discipline: z.array(z.enum(Object.keys(DISCIPLINES) as [Discipline, ...Discipline[]])).default([]),
+  // bribes or other sums as found by the court or the notice, in yuan
+  amount: z.object({ yuan: z.number().positive(), text: z.string(), cite: Cite }).optional(),
+  // only where the fall records do not state it in words the build can read
+  sentence: z.object({ date: PartialDate, term: z.enum(Object.keys(TERMS) as [Term, ...Term[]]), years: z.number().optional(), cite: Cite }).optional(),
+  trigger: z.object({ kind: z.enum(Object.keys(TRIGGERS) as [Trigger, ...Trigger[]]), text: z.string(), cite: Cite }).optional(),
+  with: z
+    .array(z.object({ id: z.string().optional(), name: z.string(), rel: z.enum(Object.keys(CHAIN_RELS) as [ChainRel, ...ChainRel[]]), text: z.string(), cite: Cite }))
+    .default([]),
+  politics: z.object({ level: z.enum(Object.keys(POLITICS) as [Politics, ...Politics[]]), why: z.string(), cites: z.array(Cite).min(1) }).optional(),
+  // what outlets and scholars say about the case, rumor sources included and marked
+  voices: z.array(VoicedSchema).default([]),
+  outcome: z.enum(Object.keys(OUTCOMES) as [Outcome, ...Outcome[]]).optional(),
+  // left the last post before the first step against them
+  retired: PartialDate.optional(),
+  // steps the card in another batch's file does not have yet (an expulsion, a sentence), added to its fall,
+  // and the status they lead to; both from reliable sources only
+  fall: z.array(FallStepSchema).default([]),
+  status: z.enum(Object.keys(STATUS) as [Status, ...Status[]]).optional(),
+  statusNote: z.string().optional(),
+})
+export type CaseRecord = z.infer<typeof CaseRecordSchema>
+
+// a long-form case study, a collapse in one province or a sweep through one system (content/cases/*.yaml)
+export const CASE_KINDS = { case: '案件', cluster: '塌方', system: '系统' } as const
+export type CaseKind = keyof typeof CASE_KINDS
+export const CaseSchema = z.object({
+  id: z.string().regex(/^[a-z0-9-]+$/),
+  title: z.string(),
+  kind: z.enum(Object.keys(CASE_KINDS) as [CaseKind, ...CaseKind[]]),
+  years: z.union([z.string(), z.number()]).transform(String),
+  lead: z.string().optional(),
+  people: z.array(z.string()).min(1),
+  summary: z.string(),
+  sections: z.array(LifeSchema).min(1),
+  voices: z.array(VoicedSchema).default([]),
+  editor: z.array(EditorSchema).default([]),
+  events: Ids,
+  factions: Ids,
+  cites: z.array(Cite).min(1),
+})
+export type Case = z.infer<typeof CaseSchema>
+
+// ───────── turning points (decisions #48–#51) ─────────
+// content/turns/*.yaml maps person id → the moments that lifted them, the route they rose by, the ages at
+// each rung, and what an ordinary reader can and cannot take from it
+export const ROUTES = {
+  secretary: '秘书',
+  youth: '共青团',
+  local: '地方实干',
+  technocrat: '技术官僚',
+  industry: '军工航天与国企',
+  princeling: '红二代',
+  frontier: '边疆与艰苦地区',
+  patron: '跟对领导',
+  crisis: '危机处置',
+  writer: '笔杆子',
+  scholar: '学者从政',
+  army: '军中',
+  law: '政法',
+  ccdi: '纪检',
+  base: '基层与知青',
+} as const
+export type Route = keyof typeof ROUTES
+export const RUNGS = { county: '县处级', bureau: '厅局级', vice: '副部级', minister: '正部级', pb: '政治局委员', psc: '政治局常委' } as const
+export type Rung = keyof typeof RUNGS
+export const TurnRecordSchema = z.object({
+  // the editor's classification, most important first
+  routes: z.array(z.enum(Object.keys(ROUTES) as [Route, ...Route[]])).min(1),
+  rungs: z.array(z.object({ rung: z.enum(Object.keys(RUNGS) as [Rung, ...Rung[]]), date: PartialDate, post: z.string(), cite: Cite })).default([]),
+  turns: z
+    .array(
+      z.object({
+        date: PartialDate,
+        h: z.string(),
+        // what happened, what they did, and who mattered; prose is checked like a biography's
+        text: z.string(),
+        did: z.string(),
+        who: Ids,
+        cites: z.array(Cite).min(1),
+      }),
+    )
+    .min(1),
+  // what an ordinary person can use, and what came from luck, birth or connections
+  can: EditorSchema,
+  cannot: EditorSchema,
+  // people on the same road who did not get through, or got through and then fell
+  counter: z.array(z.object({ id: z.string().optional(), name: z.string(), text: z.string(), cite: Cite })).default([]),
+  // a long case study, shown on the 上位之路 page
+  deep: z.boolean().optional(),
+})
+export type TurnRecord = z.infer<typeof TurnRecordSchema>
 
 export const PhotoSchema = z.object({
   file: z.string().optional(),

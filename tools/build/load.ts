@@ -2,6 +2,8 @@
 import { readdirSync, readFileSync } from 'node:fs'
 import { z } from 'zod'
 import {
+  CaseRecordSchema,
+  CaseSchema,
   ChapterSchema,
   ChiefSchema,
   ConceptSchema,
@@ -18,11 +20,13 @@ import {
   QuoteSchema,
   RelationSchema,
   SourceSchema,
+  TurnRecordSchema,
   VoicedSchema,
   type FactionTag,
   type Quote,
   type Source,
 } from '../../src/data/schema.ts'
+import { stepOf } from '../../src/lib/caseparse.ts'
 import { errors, exists, load, otherInflight, path, read, warnings, yamlFiles } from './io.ts'
 
 export type Data = ReturnType<typeof loadAll>
@@ -122,14 +126,40 @@ function loadPeople() {
       if (p) p.assess.push(...vs)
       else pendingAssess.set(id, [...(pendingAssess.get(id) ?? []), ...vs])
     }
-  const photos = exists('content', 'photos.yaml') ? (read('content', 'photos.yaml') ?? {}) : {}
+  // the fall case and the turning points of a person: content/falls/*.yaml and content/turns/*.yaml map id → record
+  const overlay = <T extends z.ZodType>(schema: T, name: string) => {
+    const out = new Map<string, z.infer<T> & { file: string }>()
+    for (const f of yamlFiles('content', name))
+      for (const [id, rec] of Object.entries((read(...f) ?? {}) as Record<string, unknown>)) {
+        const [r] = load(schema, [rec], `${f.join('/')} ${id}`) as z.infer<T>[]
+        if (!r) continue
+        if (out.has(id)) errors.push(`${f.join('/')}: ${name} record for ${id} is also in ${out.get(id)!.file}`)
+        else out.set(id, { ...r, file: f.join('/') })
+      }
+    return out
+  }
+  const falls = overlay(CaseRecordSchema, 'falls')
+  const turns = overlay(TurnRecordSchema, 'turns')
+  for (const p of people) {
+    const rec = falls.get(p.id)
+    if (!rec) continue
+    // a step already on the card (same date, same kind) is not added twice
+    const seen = new Set(p.fall.map((f) => `${f.date} ${stepOf(f.text)}`))
+    p.fall.push(...rec.fall.filter((f) => !seen.has(`${f.date} ${stepOf(f.text)}`)))
+    p.fall.sort((a, b) => a.date.localeCompare(b.date))
+    if (rec.status) p.status = rec.status
+    if (rec.statusNote) p.statusNote = rec.statusNote
+  }
+  // portraits: content/photos.yaml, and content/photos/*.yaml from photo batches
+  const photos: Record<string, unknown> = exists('content', 'photos.yaml') ? (read('content', 'photos.yaml') ?? {}) : {}
+  for (const f of yamlFiles('content', 'photos')) Object.assign(photos, read(...f) ?? {})
   for (const p of people) {
     const r = PhotoSchema.safeParse(photos[p.id])
     if (!r.success || !r.data.file) continue
     const file = ['jpg', 'png', 'webp'].map((x) => `${p.id}.${x}`).find((f) => exists('public', 'photos', f))
     if (file) p.photo = { src: `photos/${file}`, url: r.data.url, author: r.data.author, license: r.data.license, date: r.data.date, focus: r.data.focus }
   }
-  return { people, quotes, pendingTags, pendingAssess }
+  return { people, quotes, pendingTags, pendingAssess, falls, turns }
 }
 
 // research/roster.yaml: every planned person, with the batch that owns the entry. A reference to a planned
@@ -177,5 +207,6 @@ export function loadAll() {
     press: dir(PressTermSchema, 'press'),
     story: dir(ChapterSchema, 'story'),
     chiefs: dir(ChiefSchema, 'chiefs'),
+    cases: dir(CaseSchema, 'cases'),
   }
 }

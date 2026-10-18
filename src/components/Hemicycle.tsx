@@ -4,9 +4,11 @@
 import { STATUS, type Congress, type Faction, type Frame } from '../data/schema'
 import type { PersonR } from '../data/db'
 import { age, short } from '../lib/dates'
+import { markOf } from '../lib/fall'
 import { go, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 import { useTip } from './bits'
+import { Ring } from './Face'
 
 interface SeatPos { p: PersonR; x: number; y: number; r: number; seat: 'gs' | 'psc' | 'pb' }
 
@@ -111,13 +113,13 @@ export function Hemicycle({ c, frame, focus }: { c: Congress; frame: Frame; focu
                   height={s.r * 2}
                   clipPath={`url(#${clip})`}
                   preserveAspectRatio="xMidYMin slice"
-                  style={{ filter: s.p.status === 'purged' || s.p.status === 'detained' ? 'grayscale(1)' : 'saturate(.85)' }}
                 />
               ) : (
                 <text textAnchor="middle" dy="0.36em" fontSize={s.r * 0.8} fontFamily="var(--serif)" fontWeight={900} fill="var(--ink-2)">
                   {s.p.name.slice(0, 1)}
                 </text>
               )}
+              <Ring r={s.r} mark={markOf(s.p)} />
               {out && (
                 <g transform={`translate(${s.r * 0.72}, ${-s.r * 0.72})`}>
                   <circle r={9} fill="var(--red)" />

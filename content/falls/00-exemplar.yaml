@@ -1,0 +1,25 @@
+# Fall cases: person id → what the card's fall records do not say (src/data/schema.ts CaseRecordSchema,
+# research/howto-content.md §10). Steps, charges, sentence and outcome are read from the fall records at build time.
+song-liang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2021-08-16
+    cite: t02-ccdi-2021-08-16-song-liang-expel
+    quotes:
+      - 理想信念丧失，利用职权搞利益交换，捞取政治资本，对党不忠诚不老实，对抗组织审查
+      - 将手中掌握的金融监管职权作为谋取私利的工具，大肆攫取非法利益
+      - 在党的十八大后不收敛不收手，性质严重，影响恶劣
+  discipline: [political, organization, integrity, life, eight]
+  amount:
+    yuan: 79680000
+    text: 2000 年至 2020 年受贿共计折合人民币 7968 万余元，其中价值 212 万余元的股权尚未实际取得
+    cite: t02-xinhua-2022-08-30-song-liang-verdict
+  trigger:
+    kind: unknown
+    text: 官方通报未说明线索来源
+    cite: t02-ccdi-2021-02-01-song-liang-probe
+  politics:
+    level: none
+    why: 通报与判决只列受贿、利益交换和对抗审查，未提“政治团伙”“野心”等政治定性；本站所见报道也未把他与某位落马高官或派系清洗联系起来。
+    cites: [t02-ccdi-2021-08-16-song-liang-expel, t02-xinhua-2022-08-30-song-liang-verdict]

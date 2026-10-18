@@ -3,6 +3,33 @@ import { age, fmt, fy } from '../../src/lib/dates'
 import { cnNum } from '../../src/lib/cn'
 import { quoted, quoteMisses } from '../../src/lib/quotes'
 import { chars, diff, paragraphs } from '../../src/lib/diff'
+import { amountIn, chargesIn, parseFall, sentenceIn } from '../../src/lib/caseparse'
+
+describe('caseparse', () => {
+  const zhou = [
+    { date: '2014-07-29', text: '中央政治局会议听取核查情况汇报，决定立案审查', cite: 'x' },
+    { date: '2014-12-05', text: '给予开除党籍处分，将涉嫌犯罪问题及线索移送司法机关', cite: 'x' },
+    { date: '2015-04-03', text: '以受贿、滥用职权、故意泄露国家秘密罪向天津市第一中级人民法院提起公诉', cite: 'x' },
+    { date: '2015-06-11', text: '一审宣判：受贿罪判处无期徒刑，滥用职权罪判处有期徒刑七年，故意泄露国家秘密罪判处有期徒刑四年，决定执行无期徒刑', cite: 'x' },
+  ]
+  it('reads the steps, charges and sentence of a fall', () => {
+    const p = parseFall(zhou, 'detained')
+    expect(p.steps.map((s) => s.kind)).toEqual(['probe', 'expelled', 'charged', 'sentenced'])
+    expect(p.charges).toEqual(['受贿', '滥用职权', '故意泄露国家秘密'])
+    expect(p).toMatchObject({ term: 'life', outcome: 'sentenced', on: '2014-07-29', expelled: '2014-12-05', sentenced: '2015-06-11' })
+  })
+  it('reads terms, suspended death and sums', () => {
+    expect(sentenceIn('以受贿罪判处有期徒刑十四年六个月')).toEqual({ term: 'years', years: 14.5 })
+    expect(sentenceIn('以受贿罪判处死刑缓期二年执行，期满减为无期徒刑后终身监禁')).toEqual({ term: 'death-life' })
+    expect(sentenceIn('判处死刑，缓期二年执行')).toEqual({ term: 'death-suspended' })
+    expect(amountIn('受贿罪判处死刑缓期二年执行，受贿 1.39 亿余元')).toBe(139000000)
+    expect(amountIn('受贿折合 7910 万余元')).toBe(79100000)
+    expect(chargesIn('以利用影响力受贿罪、受贿罪判处')).toEqual(['利用影响力受贿', '受贿'])
+  })
+  it('tells a suicide from a sentence', () => {
+    expect(parseFall([{ date: '2017-11-23', text: '在家中自缢死亡', cite: 'x' }], 'dead').outcome).toBe('suicide')
+  })
+})
 
 describe('diff', () => {
   it('marks the struck clause of the 2018 amendment', () => {

@@ -112,12 +112,12 @@ export function ProvMap({ year, post, frame, pick, onPick }: { year: number; pos
             const id = `pv-f-${prov}`
             return (
               <g key={prov} transform={`translate(${s.x},${s.y})`} className="pv-face" onClick={() => onPick(prov)} onMouseMove={(e) => show(e, prov)} onMouseLeave={tip.hide}>
-                <circle r={r + 2} fill="var(--card)" stroke={fell ? 'var(--seal)' : 'var(--card)'} strokeWidth={fell ? 2 : 1} />
+                <circle r={r + 2} fill="var(--card)" stroke={fell && !t.p ? 'var(--seal)' : 'var(--card)'} strokeWidth={fell && !t.p ? 2 : 1} />
                 <clipPath id={id}>
                   <circle r={r} />
                 </clipPath>
                 {t.p ? (
-                  <Face p={t.p} r={r} clip={id} grey={fell} />
+                  <Face p={t.p} r={r} clip={id} mark={fell ? 'fell' : null} />
                 ) : (
                   <text textAnchor="middle" dy="0.36em" fontSize={r * 0.8} className="pv-initial">
                     {t.name.slice(0, 1)}

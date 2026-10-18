@@ -232,6 +232,76 @@ export function check(d: Data) {
       else if (month(s[i].from) - month(end) > 3 && s[i].from > '2000') warnings.push(`chief ${k}: gap ${end} – ${s[i].from}`)
     }
   }
+  const editor = (x: { text: string; cites: string[] }, where: string) => {
+    x.cites.forEach((c) => cite(c, where))
+    prose(x.text, x.cites, where)
+  }
+  for (const [id, c] of d.falls) {
+    const w = `${c.file} ${id}`
+    ref(people, 'person', id, w)
+    const p = d.people.find((x) => x.id === id)
+    if (p && !p.fall.length && p.status !== 'missing') warnings.push(`${w}: a fall case for someone with no fall record`)
+    for (const x of c.fall) {
+      cite(x.cite, `${w} fall ${x.date}`)
+      reliable(x.cite, `${w} fall ${x.date}`)
+    }
+    if (c.status && !c.fall.length) errors.push(`${w}: a status change needs the fall step that makes it`)
+    if (c.notice) {
+      cite(c.notice.cite, `${w} notice`)
+      reliable(c.notice.cite, `${w} notice`)
+      for (const q of c.notice.quotes) quote(c.notice.cite, q, `${w} notice`)
+    }
+    if (c.amount) {
+      cite(c.amount.cite, `${w} amount`)
+      reliable(c.amount.cite, `${w} amount`)
+    }
+    if (c.sentence) {
+      cite(c.sentence.cite, `${w} sentence`)
+      reliable(c.sentence.cite, `${w} sentence`)
+      if (c.sentence.term === 'years' && !c.sentence.years) errors.push(`${w} sentence: a fixed term needs years`)
+    }
+    if (c.trigger) cite(c.trigger.cite, `${w} trigger`)
+    for (const x of c.with) {
+      if (x.id) ref(people, 'person', x.id, `${w} with ${x.name}`)
+      if (x.id === id) errors.push(`${w}: falls with themself`)
+      cite(x.cite, `${w} with ${x.name}`)
+    }
+    if (c.politics) editor({ text: c.politics.why, cites: c.politics.cites }, `${w} politics`)
+    voiced(c.voices, w)
+  }
+  for (const [id, t] of d.turns) {
+    const w = `${t.file} ${id}`
+    ref(people, 'person', id, w)
+    for (const r of t.rungs) cite(r.cite, `${w} rung ${r.rung}`)
+    if (t.rungs.some((r, i) => i && r.date < t.rungs[i - 1].date)) errors.push(`${w}: rungs out of date order`)
+    for (const x of t.turns) {
+      x.who.forEach((p) => ref(people, 'person', p, `${w} turn ${x.h}`))
+      x.cites.forEach((c) => cite(c, `${w} turn ${x.h}`))
+      prose(`${x.text}${x.did}`, x.cites, `${w} turn ${x.h}`)
+    }
+    editor(t.can, `${w} can`)
+    editor(t.cannot, `${w} cannot`)
+    for (const x of t.counter) {
+      if (x.id) ref(people, 'person', x.id, `${w} counter ${x.name}`)
+      cite(x.cite, `${w} counter ${x.name}`)
+    }
+  }
+  unique('case', d.cases.map((c) => c.id))
+  for (const c of d.cases) {
+    const w = `case ${c.id}`
+    if (c.lead) ref(people, 'person', c.lead, w)
+    c.people.forEach((id) => ref(people, 'person', id, w))
+    c.events.forEach((id) => ref(events, 'event', id, w))
+    c.factions.forEach((id) => ref(factions, 'faction', id, w))
+    c.cites.forEach((x) => cite(x, w))
+    prose(c.summary, c.cites, w)
+    for (const s of c.sections) {
+      s.cites.forEach((x) => cite(x, `${w} ${s.h}`))
+      prose(s.text, s.cites, `${w} ${s.h}`)
+    }
+    voiced(c.voices, w)
+    c.editor.forEach((x, i) => editor(x, `${w} editor ${i}`))
+  }
   unique('chapter', d.story.map((c) => c.id))
   const congresses = new Set(d.congresses.map((c) => c.n))
   for (const c of d.story)

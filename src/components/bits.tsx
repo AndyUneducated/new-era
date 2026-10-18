@@ -1,20 +1,22 @@
 // Small shared pieces: portraits, source links, status, chips, tooltips.
-import { useState, type ReactNode } from 'react'
+import { useState, type CSSProperties, type ReactNode } from 'react'
 import type { PersonR } from '../data/db'
 import { STATUS, VOICES, type Faction, type Voice } from '../data/schema'
 import { fmt } from '../lib/dates'
+import { markOf, type Mark } from '../lib/fall'
 import { factionHref, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
-const FALLEN = new Set(['purged', 'detained'])
-
-export function Portrait({ p, size = 56, square, w, h }: { p: PersonR; size?: number; square?: boolean; w?: number; h?: number }) {
+// `mark` overrides the frame from the status, for a view set at a past date
+export function Portrait({ p, size = 56, square, w, h, mark }: { p: PersonR; size?: number; square?: boolean; w?: number; h?: number; mark?: Mark | null }) {
   const [broken, setBroken] = useState(false)
   const src = p.photo?.src && !broken ? p.photo.src : undefined
   const width = w ?? size
   const height = h ?? size
+  const m = mark === undefined ? markOf(p) : mark
+  const frame = m ? ({ '--mk': `${Math.round(Math.max(2, Math.min(5, Math.min(width, height) * 0.045)))}px` } as CSSProperties) : undefined
   return (
-    <span className={`portrait${square ? ' square' : ''}${FALLEN.has(p.status) ? ' fallen' : ''}`} style={{ width, height }}>
+    <span className={`portrait${square ? ' square' : ''}${m ? ` mk-${m}` : ''}`} style={{ width, height, ...frame }}>
       {src ? (
         <img src={src} alt={p.name} loading="lazy" style={{ objectPosition: p.photo?.focus ?? '50% 25%' }} onError={() => setBroken(true)} />
       ) : (

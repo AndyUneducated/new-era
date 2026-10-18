@@ -104,10 +104,10 @@ export function Galaxy({ f }: { f: Faction }) {
   }, [playing, year])
 
   const state = (p: PersonR) => {
-    if (year === null) return { on: true, grey: fallen(p) }
+    if (year === null) return { on: true, grey: fallen(p), mark: undefined }
     const fy = fallYear(p)
     const down = fy !== undefined && fy <= year + 1
-    return { on: activeIn(a, p, year) && !down, grey: down }
+    return { on: activeIn(a, p, year) && !down, grey: down, mark: down ? ('fell' as const) : null }
   }
   const lit = year === null ? members.length : members.filter((m) => state(m.p).on).length
   const near = hover ? new Set(ties.filter((t) => t.a === hover || t.b === hover).flatMap((t) => [t.a, t.b])) : null
@@ -216,8 +216,7 @@ export function Galaxy({ f }: { f: Faction }) {
               onKeyDown={(e) => e.key === 'Enter' && go(personHref(n.m.p.id))}
             >
               <circle r={n.r + 2.5} fill={s.grey ? 'var(--rule-2)' : f.color} />
-              <Face p={n.m.p} r={n.r} clip={`gx-${n.m.p.id}`} grey={s.grey} />
-              {s.grey && <circle r={n.r + 2.5} fill="none" stroke="var(--red)" strokeWidth={1.4} strokeDasharray="1 2.5" />}
+              <Face p={n.m.p} r={n.r} clip={`gx-${n.m.p.id}`} mark={s.mark} />
               {n.m.rankBy === 'auto' && <circle r={n.r + 5} fill="none" stroke="var(--muted)" strokeWidth={0.8} strokeDasharray="1 3" />}
               {n.r >= 8 && <Label n={n} />}
             </g>
@@ -226,7 +225,7 @@ export function Galaxy({ f }: { f: Faction }) {
         {hub ? (
           <g className="gx-node" onClick={() => go(personHref(hub.id))} onMouseMove={(e) => show(e, at.get(hub.id)!)} onMouseLeave={leave} role="link" tabIndex={0} aria-label={hub.name}>
             <circle r={52} fill="none" stroke={f.color} strokeWidth={3} />
-            <Face p={hub} r={46} clip="gx-hub" grey={state(hub).grey} />
+            <Face p={hub} r={46} clip="gx-hub" mark={state(hub).mark} />
             <text y={70} textAnchor="middle" className="gx-hub-name">
               {hub.name}
             </text>

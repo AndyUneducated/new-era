@@ -174,6 +174,36 @@
 - `name` 照录姓名；本站已有条目的写 `person`（Grep `content/people/`，`name` 必须与条目一致），没有的只写 `name`，**不要为此新建人物条目**。
 - 来源：维基百科“中国共产党某某省委员会书记”“某某省省长”列表页（`voice: wiki`，`excerpt: true`，`keep` 写 2000 年后各任的那几行）可作主来源；最近两任（2020 年后）再加一条新华社任免消息（`voice: official`）。名录与任免消息冲突的，以任免消息为准，`note` 写明。
 
+## 10. 落马案件（`content/falls/<批次>.yaml`，第六轮起，decisions #41–#47）
+
+人物 id → 一条案件记录，字段见 `schema.ts` 的 `CaseRecordSchema`，样例 `content/falls/00-exemplar.yaml`（宋亮）。一个人只能有一条记录（两个批次写同一人会报错），所以按分工只写自己范围里的人。
+
+**构建会自动从 `fall` 的文字里读出**：每一步的类别（立案、开除、起诉、开庭、判决、死亡……）、罪名（“以受贿、滥用职权罪”）、刑期（无期、死缓、终身监禁、有期 N 年）、金额（“受贿 1.39 亿余元”）、结局。所以 `fall` 每步照通报原话写清楚：判决一步写明罪名和刑期，有金额写金额。
+
+记录里写 `fall` 读不出来的东西：
+
+- `sys`（必填）：`local` 地方党政、`central` 中央和国家机关、`law` 政法公安、`army` 军队武警、`finance` 金融、`soe` 国有企业、`edu` 高校科研、`culture` 宣传文化体育、`health` 医疗卫生、`other`。
+- `grade`（必填）：落马时的职级。`state` 副国级以上、`minister` 正部级、`vice` 副部级、`bureau` 厅局级、`county` 县处级及以下、`general` 上将、`lieutenant` 中将、`major` 少将、`exec` 国企金融高管（非行政职级的中管企业领导）、`none`。
+- `notice`：开除党籍（或处分）通报。`quotes` 摘 2–5 句最有代表性的原话，**逐字核对**：定性（“理想信念丧失”“对党不忠诚不老实”“搞团团伙伙”“妄议党中央大政方针”“政治野心膨胀”“搞迷信活动”“权色交易”“家族式腐败”“一家两制”“在党的十八大后不收敛不收手”），以及具体问题。通报全文是官方文件，全文入库。
+- `discipline`：通报列出的纪律，`political organization integrity mass work life`（2015 年版条例的六大纪律）和 `eight`（违反中央八项规定精神）。照通报写，没写的不写。
+- `amount`：法院认定的受贿（贪污）总额，`yuan` 换算成元，`text` 照判决写。只有通报、没有判决的不写。
+- `sentence`：只在 `fall` 的判决文字读不出刑期时写。
+- `trigger`：东窗事发的来源：`inspect` 巡视巡察、`report` 实名举报、`media` 媒体或网络曝光、`chain` 他案牵出、`audit` 审计、`surrender` 主动投案、`incident` 事故或事件追责、`unknown` 未公开。要有来源说明（中纪委专题片、通报、财新等调查报道）；找不到就写 `unknown`，`text` 写“官方通报未说明线索来源”，`cite` 用通报。
+- `with`：牵连的人：`{ id?, name, rel, text, cite }`，`rel` 为 `patron` 靠山、`protege` 提拔的下属、`secretary` 秘书、`kin` 家属、`business` 商人、`colleague` 同僚、`briber` 行贿者。有条目的写 `id`，没有的只写 `name`。
+- `politics`（编者分析，decisions #43）：`level` 为 `core` 权力斗争核心案（周薄徐令郭、孙政才、军委高层之类）、`linked` 与派系或靠山清洗相关（通报或可靠报道把他与某个落马高官、派系连在一起）、`none` 未见政治关联。`why` 写编者的判断依据，一两句，`cites` 列所依据的来源。判断要克制：只因同省共事不算 `linked`。
+- `voices`：外媒、学者、传闻对此案政治背景的说法（可用传闻来源，`rumor: true` 的来源会显示“传闻”）。
+- `retired`：第一步之前已经退休或退居二线的，写卸任日期（“退休后被追责”）。
+- `fall`、`status`、`statusNote`：给**别的批次文件里的卡**补后来的步骤（开除、判决）和随之改变的状态（`detained` 在押服刑）。只用可靠来源。自己批次新建的卡直接写在卡上。
+
+## 11. 照片批次（`content/photos/<批次>.yaml`，第六轮起，decisions #36–#38）
+
+人物 id → `{ file, url, author, license, date, focus }`。`file` 是图片的直接网址（或 Commons 的 `File:…`），`url` 是图片所在网页，`author` 写发布机构（如“新华网”“人民网”“中国政府网”“BBC”），`license` 写“版权归原发布机构”（Commons 的照抄授权），`focus` 是裁切位置（CSS object-position，默认 `50% 25%`，脸偏左就写 `35% 25%`）。
+
+- **选图：** 正面、彩色、清晰的单人照优先；没有就从合影或会议照里选此人居中、可以裁出头像的。认不准是不是本人的宁可不放。来源不限：新华网、人民网、政府网站简历页、央视、中新网、澎湃、媒体报道配图、百度百科、维基百科都可以。
+- **下载：** `node tools/fetch-photos.ts --batch=<批次> id1 id2 …`（只处理自己文件里的条目，不碰 `content/photos.yaml`；已有照片的人会被替换）。然后 `node tools/photo-audit.ts --shrink id1 id2 …` 把大图压到 480 宽并测颜色，结果在 `.probe/photo-audit.json`，`grey: true` 的是黑白照，换一张。
+- **核对：** 用文件读取工具打开 `public/photos/<id>.jpg` 看一眼：是本人、彩色、头像在画面上部。不对就删掉条目里的 `file`，另找。
+- 防盗链的网站会返回 403，工具会自动带上 `url` 作为 Referer；仍然不行就换一个网站。
+
 ## 9. 完成时回报
 
 最终回复写：完成的条目数（传记、档案卡、名言、事件……）；`--batch` 校验结果（0 error）；未能完成的条目及原因；建议新增的 id（人物、派系、概念）；发现的事实冲突或存疑之处。

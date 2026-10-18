@@ -3,9 +3,12 @@
 //                                         then download every entry that has no file yet
 //   node tools/fetch-photos.ts --force    download again
 //   node tools/fetch-photos.ts id …       only these people
-// An entry's file is either "File:<Commons name>" or a direct image URL (an official portrait, licence
-// "版权归原发布机构" unless stated). Entries written by hand are never overwritten.
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
+//   node tools/fetch-photos.ts --batch=PH1 [id …]  only the entries of content/photos/PH1.yaml (a photo batch,
+//                                         run in parallel with others: content/photos.yaml is left alone)
+// An entry's file is either "File:<Commons name>" or a direct image URL (a news or official portrait, licence
+// "版权归原发布机构" unless stated). Entries written by hand are never overwritten. A batch entry for a person
+// who already has a file replaces it (a colour photo for a black-and-white one).
+import { existsSync, mkdirSync, readdirSync, readFileSync, unlinkSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parse, stringify } from 'yaml'
@@ -20,14 +23,19 @@ mkdirSync(OUT, { recursive: true })
 interface Entry { file?: string; url?: string; author?: string; license?: string; date?: string; focus?: string; why?: string }
 
 const args = process.argv.slice(2)
-const force = args.includes('--force')
+const batch = args.find((a) => a.startsWith('--batch='))?.slice(8)
+const force = args.includes('--force') || !!batch
 const only = new Set(args.filter((a) => !a.startsWith('--')))
+const BATCH_PATH = batch && join(ROOT, 'content', 'photos', `${batch}.yaml`)
+const target = BATCH_PATH || YAML_PATH
 
-const photos: Record<string, Entry> = existsSync(YAML_PATH) ? (parse(readFileSync(YAML_PATH, 'utf8')) ?? {}) : {}
+const photos: Record<string, Entry> = existsSync(target) ? (parse(readFileSync(target, 'utf8')) ?? {}) : {}
+// a batch entry that has been downloaded once is not fetched again unless named
+const done = (id: string) => !!batch && !only.has(id) && !!photos[id]?.license
 
 // people with a Wikidata image and no entry yet
 const peopleDir = join(ROOT, 'content', 'people')
-for (const f of readdirSync(peopleDir).filter((f) => f.endsWith('.yaml'))) {
+for (const f of batch ? [] : readdirSync(peopleDir).filter((f) => f.endsWith('.yaml'))) {
   let list: { id: string; ids?: { wikidata?: string } }[] = []
   try {
     list = parse(readFileSync(join(peopleDir, f), 'utf8')) ?? []
@@ -81,7 +89,7 @@ let failed = 0
 for (const [id, e] of Object.entries(photos).sort()) {
   if (only.size && !only.has(id)) continue
   const have = ['jpg', 'png', 'webp'].some((x) => existsSync(join(OUT, `${id}.${x}`)))
-  if (!e.file || (have && !force)) continue
+  if (!e.file || (have && !force) || done(id)) continue
   try {
     let img = e.file
     if (e.file.startsWith('File:')) {
@@ -104,6 +112,7 @@ for (const [id, e] of Object.entries(photos).sort()) {
     // some servers append stray bytes after IEND, which strict PNG decoders reject
     const iend = ext === 'png' ? buf.lastIndexOf('IEND') : -1
     if (iend > 0) buf = buf.subarray(0, iend + 8)
+    for (const x of ['jpg', 'png', 'webp']) if (x !== ext && existsSync(join(OUT, `${id}.${x}`))) unlinkSync(join(OUT, `${id}.${x}`))
     writeFileSync(join(OUT, `${id}.${ext}`), buf)
     ok++
     console.log(`ok ${id}`)
@@ -115,5 +124,5 @@ for (const [id, e] of Object.entries(photos).sort()) {
 }
 
 const sorted = Object.fromEntries(Object.entries(photos).sort(([a], [b]) => a.localeCompare(b)))
-writeFileSync(YAML_PATH, `# Portrait attribution, one entry per person id. Written by tools/fetch-photos.ts; hand edits are kept.\n${stringify(sorted, { lineWidth: 0 })}`)
+writeFileSync(target, `# Portrait attribution, one entry per person id. Written by tools/fetch-photos.ts; hand edits are kept.\n${stringify(sorted, { lineWidth: 0 })}`)
 console.log(`${ok} downloaded, ${failed} failed, ${Object.keys(photos).length} entries`)

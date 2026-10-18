@@ -213,7 +213,7 @@ export function CmcStage({ st }: { st: Of<'cmc'> }) {
                 p ? (
                   <a key={id} href={personHref(id)} className={down(p) ? 'cmc-face down' : 'cmc-face'}>
                     <span className="cmc-photo">
-                      <Portrait p={p} size={68} />
+                      <Portrait p={p} size={68} mark={down(p) ? 'fell' : null} />
                       {down(p) && (
                         <span className="cmc-seal">
                           <Seal text={SEAL_TEXT[p.status] ?? '落马'} size={58} stamp />

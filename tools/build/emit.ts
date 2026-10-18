@@ -1,7 +1,15 @@
 // Stage 3: derive what the views need and write public/data/db.json.
 import { mkdirSync, writeFileSync } from 'node:fs'
+import { parseFall } from '../../src/lib/caseparse.ts'
 import { path } from './io.ts'
 import type { Data } from './load.ts'
+
+// an overlay record without the name of the file it came from
+const strip = <T extends { file: string }>(r?: T): Omit<T, 'file'> | undefined => {
+  if (!r) return undefined
+  const { file: _, ...rest } = r
+  return rest
+}
 
 const count = (hay: string, needle: string) => {
   let n = 0
@@ -88,12 +96,16 @@ export function compile(d: Data) {
   }
   const people = d.people.map((p) => {
     const wd = p.ids.wikidata ? d.wikidata.get(p.ids.wikidata) : undefined
+    const rec = d.falls.get(p.id)
+    const turn = d.turns.get(p.id)
     return {
       ...p,
       born: p.born ?? wd?.born,
       died: p.died ?? wd?.died,
       birthplace: p.birthplace ?? wd?.birthplace,
       quotes: d.quotes.get(p.id) ?? [],
+      case: p.fall.length || rec ? { ...strip(rec), ...parseFall(p.fall, p.status, rec), with: (rec?.with ?? []).map((x) => ({ ...x, id: x.id && known.has(x.id) ? x.id : undefined })) } : undefined,
+      turn: turn ? { ...strip(turn), turns: turn.turns.map((t) => ({ ...t, who: t.who.filter((id) => known.has(id)) })) } : undefined,
     }
   })
   const sources = d.sources.map((s) => ({ ...s, chars: d.texts.get(s.id)?.length ?? 0 }))
@@ -112,6 +124,7 @@ export function compile(d: Data) {
     targets: growthTargets(d),
     story: d.story,
     chiefs: d.chiefs.map((c) => ({ ...c, person: c.person && known.has(c.person) ? c.person : chiefPerson(d, c) })).sort((a, b) => a.prov.localeCompare(b.prov) || a.post.localeCompare(b.post) || a.from.localeCompare(b.from)),
+    cases: d.cases.map((c) => ({ ...c, people: c.people.filter((id) => known.has(id)), events: c.events.filter((id) => d.events.some((e) => e.id === id)) })),
     sources,
   }
 }
@@ -134,8 +147,10 @@ export function stats(db: DB) {
   const q = db.people.reduce((a, p) => a + p.quotes.length, 0)
   const tags = db.people.reduce((a, p) => a + p.factions.length, 0)
   const photos = db.people.filter((p) => p.photo).length
+  const fallen = db.people.filter((p) => p.case)
   return [
     `people ${db.people.length} (full ${t1}, cards ${db.people.length - t1}), photos ${photos}, quotes ${q}, faction tags ${tags}`,
+    `falls ${fallen.length} (case records ${fallen.filter((p) => p.case?.sys).length}, sentenced ${fallen.filter((p) => p.case?.term).length}, sums ${fallen.filter((p) => p.case?.yuan).length}), case studies ${db.cases.length}, turning points ${db.people.filter((p) => p.turn).length}`,
     `factions ${db.factions.length}, events ${db.events.length}, concepts ${db.concepts.length}, congresses ${db.congresses.length}, relations ${db.relations.length}`,
     `sources ${db.sources.length} (with text ${db.sources.filter((s) => s.hasText).length}), corpus ${db.corpus.length}, isms ${db.isms.length}, line ${db.line.length}, press terms ${db.press.length}`,
   ].join('\n')

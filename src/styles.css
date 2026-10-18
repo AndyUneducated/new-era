@@ -355,7 +355,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
   border-radius: 50%;
   flex: none;
 }
-.portrait img { width: 100%; height: 100%; object-fit: cover; filter: saturate(0.85) contrast(1.02); }
+.portrait img { width: 100%; height: 100%; object-fit: cover; }
 .portrait .initial {
   position: absolute;
   inset: 0;
@@ -366,7 +366,10 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
   color: color-mix(in oklab, var(--ink) 55%, var(--paper));
 }
 .portrait.square { border-radius: 12px; }
-.portrait.fallen img { filter: grayscale(1) contrast(1.05); }
+/* status frames: red for a fall, grey for a death, dashed for the missing */
+.portrait[class*='mk-']::after { content: ''; position: absolute; inset: 0; border-radius: inherit; pointer-events: none; border: var(--mk) solid var(--seal); }
+.portrait.mk-dead::after { border-color: var(--muted); }
+.portrait.mk-missing::after { border-style: dashed; border-color: var(--ink-2); }
 
 /* ───────── home ───────── */
 .hero {
@@ -840,8 +843,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .cmc-faces { display: flex; flex-wrap: wrap; gap: 14px 12px; }
 .cmc-face { width: 92px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 2px; font-size: 12px; color: var(--muted); }
 .cmc-face b { font-size: 14px; color: var(--ink); margin-top: 4px; }
-.cmc-photo { position: relative; transition: filter 0.6s; }
-.cmc-face.down .cmc-photo .portrait img { filter: grayscale(1) contrast(1.05); }
+.cmc-photo { position: relative; }
 .cmc-face.down b { color: var(--seal); }
 .cmc-seal { position: absolute; right: -18px; bottom: -10px; pointer-events: none; }
 
@@ -1103,8 +1105,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .pg-tile.big { width: 92px; }
 .pg-tile b { font-size: 13px; }
 .pg-tile .m { font-size: 10.5px; font-family: var(--mono); }
-.pg-tile-face { position: relative; filter: grayscale(.65); transition: filter .3s; }
-.pg-tile:hover .pg-tile-face { filter: none; }
+.pg-tile-face { position: relative; }
 .pg-tile-face .portrait { border-radius: 50%; }
 .pg-tile-seal { position: absolute; right: -10px; bottom: -6px; }
 .pg-roll { display: grid; gap: 14px; }
