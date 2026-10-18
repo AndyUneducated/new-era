@@ -1,0 +1,717 @@
+# R03: centrally managed cadres (non-military) first named by the CCDI in 2016–2017 who had no card yet
+
+# ---- the 2016-01-29 round-up of ten cadres punished in 2015
+- id: yan-shiyuan
+  name: 颜世元
+  gender: m
+  born: 1956-10
+  origin: 山东曲阜
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年受留党察看二年处分，降为副厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2015-05-21, text: 山东省人大常委会公告，枣庄市人大常委会罢免其省人大代表职务；6 月被撤销全国政协委员资格，贬为省政协办公厅副巡视员, cite: r03-wiki-yan-shiyuan }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到留党察看二年处分，降为副厅级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 山东省委原常委、统战部原部长
+  ids: { wikidata: Q9082760 }
+  bio: >-
+    山东大学讲师出身，1990 年起在山东省委机关任秘书，历任省委办公厅主任等职，2012 年任省委常委、统战部部长。媒体称他长期是济南市委原书记王敏的直接下属。2015 年被罢免人大代表、降为副厅级，2016 年 1 月中央纪委通报其受留党察看二年处分。
+  positions:
+    - { title: 山东大学讲师、教研室副主任, sys: other, place: 山东, cite: r03-wiki-yan-shiyuan }
+    - { title: 中共山东省委副处级秘书、正处级秘书, sys: party, place: 山东, from: 1990-12, cite: r03-wiki-yan-shiyuan }
+    - { title: 山东省委办公厅副主任、副秘书长、政策研究室主任、办公厅主任, sys: party, place: 山东, from: 2000-07, cite: r03-wiki-yan-shiyuan }
+    - { title: 山东省委统战部部长, sys: party, place: 山东, from: 2012-03, to: 2015-05, cite: r03-wiki-yan-shiyuan }
+    - { title: 山东省委常委, sys: party, place: 山东, from: 2012-05, to: 2015, cite: r03-wiki-yan-shiyuan }
+    - { title: 山东省政协办公厅副巡视员（副厅级）, sys: other, place: 山东, from: 2015-06, cite: r03-wiki-yan-shiyuan }
+  cites: [wd-Q9082760, r03-wiki-yan-shiyuan, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: han-zhiran
+  name: 韩志然
+  gender: m
+  ethnicity: 蒙古族
+  born: 1952
+  birthplace: 内蒙古奈曼旗
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年受留党察看二年处分，降为副厅级非领导职务；未见移送司法的报道。维基百科正文写生于 1952 年 2 月，信息框写 12 月，本站只记年份。
+  fall:
+    - { date: 2015-06-17, text: 全国政协常委会免去其全国政协常委、委员资格；6 月 23 日内蒙古政协常委会免去其自治区政协副主席职务, cite: r03-wiki-han-zhiran }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到留党察看二年处分，降为副厅级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 内蒙古自治区政协原副主席、呼和浩特市委原书记
+  ids: { wikidata: Q8966536 }
+  bio: >-
+    蒙古族，历任巴彦淖尔盟盟长、内蒙古自治区政府秘书长、包头市长、乌兰察布盟委书记和呼和浩特市委书记，2014 年任内蒙古政协副主席。媒体称他卷入内蒙古黄金大盗宋文代案，宋文代举报了他。2015 年 6 月被免职，2016 年 1 月受留党察看二年处分，降为副厅级。
+  positions:
+    - { title: 巴彦淖尔盟盟长, sys: gov, place: 内蒙古, cite: r03-wiki-han-zhiran }
+    - { title: 内蒙古自治区政府秘书长, sys: gov, place: 内蒙古, cite: r03-wiki-han-zhiran }
+    - { title: 包头市市长, sys: gov, place: 内蒙古, cite: r03-wiki-han-zhiran }
+    - { title: 乌兰察布盟委书记（市委书记）, sys: party, place: 内蒙古, cite: r03-wiki-han-zhiran }
+    - { title: 呼和浩特市委书记, sys: party, place: 内蒙古, cite: r03-wiki-han-zhiran }
+    - { title: 内蒙古自治区政协副主席, sys: other, place: 内蒙古, from: 2014, to: 2015-06, cite: r03-wiki-han-zhiran }
+  cites: [wd-Q8966536, r03-wiki-han-zhiran, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: sun-qingyun
+  name: 孙清云
+  gender: m
+  born: 1954-10
+  birthplace: 山东陵县
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2015 年被免职并受留党察看二年处分，2016 年降为正处级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2015-11, text: 因严重违反政治纪律、组织纪律、廉洁纪律被免去陕西省政协副主席职务，受留党察看二年处分；11 月 19 日被罢免全国人大代表, cite: r03-wiki-sun-qingyun }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到留党察看二年处分，降为正处级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 陕西省委原副书记、西安市委原书记
+  ids: { wikidata: Q9030877 }
+  bio: >-
+    军人出身，曾在国务院办公厅任职，是国务院原副总理姜春云的秘书。1998 年调任西安，历任西安市长、陕西省委常委兼西安市委书记，2012 年升任陕西省委副书记，2015 年转任省政协副主席。同年 11 月被免职，2016 年 1 月中央纪委通报其受留党察看二年处分，降为正处级。
+  positions:
+    - { title: 国务院副总理姜春云秘书, sys: gov, cite: r03-wiki-sun-qingyun }
+    - { title: 西安市委副书记、市长, sys: gov, place: 陕西, from: 2002-02, to: 2006-07, cite: r03-wiki-sun-qingyun }
+    - { title: 陕西省委常委、西安市委书记, sys: party, place: 陕西, from: 2006-07, to: 2012, cite: r03-wiki-sun-qingyun }
+    - { title: 陕西省委副书记, sys: party, place: 陕西, from: 2012-05, to: 2015-03, cite: r03-wiki-sun-qingyun }
+    - { title: 陕西省政协副主席, sys: other, place: 陕西, from: 2015-01, to: 2015-11, cite: r03-wiki-sun-qingyun }
+  cites: [wd-Q9030877, r03-wiki-sun-qingyun, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: zhang-yun-abc
+  name: 张云
+  gender: m
+  born: 1959-05
+  birthplace: 陕西大荔
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2016 年受留党察看二年、行政撤职处分，由农行按部门副职以下安排工作；未见移送司法的报道。
+  fall:
+    - { date: 2015-11-02, text: 多家媒体报道其已被组织处理、降为正处级干部；12 月辞去农业银行副董事长、行长等职务, cite: r03-wiki-zhang-yun-abc }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到留党察看二年、行政撤职处分，由中国农业银行按部门副职以下（不含部门副职）安排工作, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 中国农业银行原副董事长、行长
+  bio: >-
+    兰州大学经济系毕业，1985 年进入农业银行深圳分行，历任广东分行副行长、广西分行行长、总行行长助理兼人事部总经理、副行长，2009 年起任农业银行股份公司副董事长、行长。媒体报道，农行原副行长杨琨受审时曾当庭举报他。2016 年 1 月受留党察看二年、行政撤职处分。
+  positions:
+    - { title: 甘肃省委政策研究室农村政策研究室干部, sys: party, place: 甘肃, from: 1982-01, cite: r03-wiki-zhang-yun-abc }
+    - { title: 中国农业银行广东省分行副行长, sys: other, place: 广东, from: 1995-07, cite: r03-wiki-zhang-yun-abc }
+    - { title: 中国农业银行广西壮族自治区分行行长、党委书记, sys: other, place: 广西, from: 2000-06, cite: r03-wiki-zhang-yun-abc }
+    - { title: 中国农业银行行长助理兼人事部总经理, sys: other, from: 2001-03, cite: r03-wiki-zhang-yun-abc }
+    - { title: 中国农业银行党委委员、副行长, sys: other, from: 2001-12, to: 2009-01, cite: r03-wiki-zhang-yun-abc }
+    - { title: 中国农业银行股份有限公司副董事长、行长、党委副书记, sys: other, from: 2009-01, to: 2015-12, cite: r03-wiki-zhang-yun-abc }
+  cites: [r03-wiki-zhang-yun-abc, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: liu-lizu
+  name: 刘礼祖
+  gender: m
+  born: 1955-07
+  birthplace: 江西宜丰
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍、降为科员；未见移送司法的报道。
+  fall:
+    - { date: 2016-01, text: 因严重违纪被免去江西省政协副主席职务，撤销其省政协委员资格, cite: r03-wiki-liu-lizu }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到开除党籍处分，降为科员, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 江西省政协原副主席、江西省林业厅原厅长
+  ids: { wikidata: Q16336513 }
+  bio: >-
+    长期在江西抚州任职，历任抚州地委副书记、市长，后任江西省经贸委副主任、省中小企业局局长，2004 至 2012 年任江西省林业厅厅长，2012 年当选江西省政协副主席。2016 年 1 月被免职，同月中央纪委通报其受开除党籍处分，从副省级降为科员。
+  positions:
+    - { title: 抚州市（地）委副书记、市长（行署专员）, sys: gov, place: 江西, cite: r03-wiki-liu-lizu }
+    - { title: 江西省经贸委副主任、省中小企业局（乡镇企业局）局长, sys: gov, place: 江西, cite: r03-wiki-liu-lizu }
+    - { title: 江西省林业厅厅长, sys: gov, place: 江西, from: 2004-03, cite: r03-wiki-liu-lizu }
+    - { title: 全国人大代表, sys: other, from: 2008, cite: r03-wiki-liu-lizu }
+    - { title: 江西省政协副主席, sys: other, place: 江西, from: 2012-02, to: 2016-01, cite: r03-wiki-liu-lizu }
+  cites: [wd-Q16336513, r03-wiki-liu-lizu, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: liu-zhiyong-gx
+  name: 刘志勇
+  gender: m
+  ethnicity: 满族
+  born: 1955-10
+  birthplace: 黑龙江桦川
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年受撤销党内职务处分，降为正厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到撤销党内职务处分，降为正厅级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 广西壮族自治区政协原副主席、梧州市委原书记
+  ids: { wikidata: Q22774241 }
+  bio: >-
+    工人出身，历任桂林冶金机械总厂厂长、百色市长、广西农垦局局长兼广西农垦集团董事长，2009 年起任梧州市委书记，2014 年任广西政协副主席。2016 年 1 月中央纪委通报其因严重违纪受撤销党内职务处分，降为正厅级非领导职务。
+  positions:
+    - { title: 广西桂林冶金机械总厂厂长, sys: other, place: 广西, cite: r03-wiki-liu-zhiyong-gx }
+    - { title: 广西壮族自治区经贸委副主任兼自治区安全生产监督管理局局长, sys: gov, place: 广西, cite: r03-wiki-liu-zhiyong-gx }
+    - { title: 百色市委副书记、市长, sys: gov, place: 广西, cite: r03-wiki-liu-zhiyong-gx }
+    - { title: 广西农垦局局长、广西农垦集团有限责任公司董事长, sys: other, place: 广西, cite: r03-wiki-liu-zhiyong-gx }
+    - { title: 梧州市委书记, sys: party, place: 广西, from: 2009-01, to: 2014-01, cite: r03-wiki-liu-zhiyong-gx }
+    - { title: 广西壮族自治区政协副主席, sys: other, place: 广西, from: 2014-01, to: 2016-01, cite: r03-wiki-liu-zhiyong-gx }
+  cites: [wd-Q22774241, r03-wiki-liu-zhiyong-gx, r02-ccdi-2016-01-29-ten-cadres]
+
+- id: cao-jianfang
+  name: 曹建方
+  gender: m
+  born: 1957-08
+  birthplace: 云南宜良
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍、降为副处级；2019 年再次被立案调查，取消退休待遇并移送检察机关审查起诉，未查到判决的公开报道。
+  fall:
+    - { date: 2015-12, text: 云南省委免去其省委秘书长兼省直机关工委书记职务；2016 年 1 月被罢免省人大代表, cite: r03-wiki-cao-jianfang }
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到开除党籍处分，降为副处级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+    - { date: 2019-01-02, text: 云南省监委对其严重违法问题立案调查后，决定取消其退休待遇、收缴违法所得，将其涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r03-ccdi-2019-01-04-cao-jianfang }
+  tier: 2
+  headline: 云南省委原常委、秘书长，云南省原副省长
+  ids: { wikidata: Q8290705 }
+  bio: >-
+    从云南省财政厅起步，2003 年任财政厅厅长，2006 年任省委常委、楚雄州委书记，后任副省长、省委秘书长。2016 年 1 月被开除党籍、降为副处级。维基百科引报道称，其旧部罗敏落马牵出他的问题；2019 年他再次被查并移送检察机关。
+  positions:
+    - { title: 云南省财政厅副厅长, sys: gov, place: 云南, cite: r03-wiki-cao-jianfang }
+    - { title: 云南省财政厅厅长、党组书记, sys: gov, place: 云南, from: 2003-01, to: 2006-11, cite: r03-wiki-cao-jianfang }
+    - { title: 云南省委常委、楚雄州委书记, sys: party, place: 云南, from: 2006-11, to: 2008-01, cite: r03-wiki-cao-jianfang }
+    - { title: 云南省副省长, sys: gov, place: 云南, from: 2008-01, to: 2012-06, cite: r03-wiki-cao-jianfang }
+    - { title: 云南省委常委、秘书长, sys: party, place: 云南, from: 2011-12, to: 2015-12, cite: r03-wiki-cao-jianfang }
+    - { title: 云南省农垦总局规划统计处副调研员, sys: other, place: 云南, from: 2016, to: 2017-08, cite: r03-wiki-cao-jianfang }
+  cites: [wd-Q8290705, r03-wiki-cao-jianfang, r02-ccdi-2016-01-29-ten-cadres, r03-ccdi-2019-01-04-cao-jianfang]
+
+- id: fan-jian
+  name: 范坚
+  gender: m
+  born: 1960-12
+  birthplace: 安徽怀宁
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍、行政撤职，降为副处级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2016-01-29, text: 中央纪委通报其因严重违纪受到开除党籍、行政撤职处分，降为副处级非领导职务, cite: r02-ccdi-2016-01-29-ten-cadres }
+  tier: 2
+  headline: 国家税务总局原党组成员、总经济师
+  ids: { wikidata: Q22774380 }
+  bio: >-
+    长期在税务系统工作，历任国家税务总局征收管理司司长、纳税服务司司长，2010 年任江苏省国税局局长，2012 年调回总局任总审计师，后任总会计师、总经济师，2014 年任总局党组成员。2016 年 1 月中央纪委通报其受开除党籍、行政撤职处分，降为副处级。
+  positions:
+    - { title: 国家税务总局征收管理司司长、纳税服务司司长, sys: gov, cite: r03-wiki-fan-jian }
+    - { title: 江苏省国家税务局党组书记、局长, sys: gov, place: 江苏, from: 2010-06, to: 2012-10, cite: r03-wiki-fan-jian }
+    - { title: 国家税务总局总审计师, sys: gov, from: 2012-10, to: 2013-07, cite: r03-wiki-fan-jian }
+    - { title: 国家税务总局总会计师, sys: gov, from: 2013-07, to: 2014-10, cite: r03-wiki-fan-jian }
+    - { title: 国家税务总局党组成员、总经济师, sys: gov, from: 2014-10, to: 2016-01, cite: r03-wiki-fan-jian }
+  cites: [wd-Q22774380, r03-wiki-fan-jian, r02-ccdi-2016-01-29-ten-cadres]
+
+# ---- 2016
+- id: he-jiatie
+  name: 贺家铁
+  gender: m
+  born: 1961-10
+  birthplace: 湖南澧县
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年受撤销党内职务、行政撤职处分，降为正厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2016-02-04, text: 中央纪委通报其担任中央巡视组副组长期间泄露巡视工作秘密等问题，给予撤销党内职务、行政撤职处分，降为正厅级非领导职务, cite: r03-ccdi-2016-02-04-he-jiatie }
+  tier: 2
+  headline: 湖北省委原常委、组织部部长，中央巡视组原副组长
+  ids: { wikidata: Q19856265 }
+  bio: >-
+    长期从事纪检工作，历任湖南省纪委副书记、省监察厅厅长，2008 年任中组部干部监督局局长，2013 至 2014 年两度出任中央巡视组副组长，2014 年任湖北省委常委、组织部长。2016 年 2 月中央纪委通报其担任巡视组副组长期间泄露巡视工作秘密，降为正厅级，是首个被处分的中央巡视组领导成员。
+  positions:
+    - { title: 湖南省纪委常委、秘书长、办公厅主任, sys: party, place: 湖南, from: 1996, cite: r03-wiki-he-jiatie }
+    - { title: 湖南省纪委副书记、省委巡视工作办公室主任, sys: party, place: 湖南, from: 2000, cite: r03-wiki-he-jiatie }
+    - { title: 中央组织部干部监督局局长, sys: party, from: 2008-08, cite: r03-wiki-he-jiatie }
+    - { title: 中央巡视组第五组副组长, sys: party, from: 2013-05, cite: r03-wiki-he-jiatie }
+    - { title: 中央第四巡视组副组长, sys: party, from: 2014-07, cite: r03-wiki-he-jiatie }
+    - { title: 湖北省委常委、组织部部长, sys: party, place: 湖北, from: 2014-09, to: 2016-01, cite: r03-wiki-he-jiatie }
+  cites: [wd-Q19856265, r03-wiki-he-jiatie, r03-ccdi-2016-02-04-he-jiatie]
+
+- id: zhang-lifu
+  name: 张力夫
+  gender: m
+  born: 1952-05
+  birthplace: 海南东方
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍，按副科级确定退休待遇；未见移送司法的报道。
+  fall:
+    - { date: 2016-03-30, text: 中央纪委通报其严重违纪，给予开除党籍处分，按照副科级确定退休待遇, cite: r03-ccdi-2016-03-30-zhang-lifu }
+  tier: 2
+  headline: 海南省人大常委会原副主任、海南省农垦总局原党委书记
+  ids: { wikidata: Q24831959 }
+  bio: >-
+    农场工人、党校教员出身，历任琼中、陵水县委书记和儋州市委书记，2003 年起任海南省农垦总局局长、党委书记，其间先后任省政协副主席、省人大常委会副主任。2016 年 3 月中央纪委通报其收受礼品礼金、默许亲属谋私、违规干预纪律审查，开除党籍，按副科级确定退休待遇。
+  positions:
+    - { title: 海南省琼中黎族苗族自治县委书记, sys: party, place: 海南, from: 1995-01, to: 1998-08, cite: r03-ccdi-2016-03-30-zhang-lifu }
+    - { title: 海南省儋州市委书记、市人大常委会主任, sys: party, place: 海南, from: 1999-12, to: 2002-11, cite: r03-ccdi-2016-03-30-zhang-lifu }
+    - { title: 海南省农垦总局（总公司）局长（总经理）、党委书记, sys: other, place: 海南, from: 2003-02, to: 2011-07, cite: r03-ccdi-2016-03-30-zhang-lifu }
+    - { title: 海南省政协副主席, sys: other, place: 海南, from: 2008-01, to: 2011-02, cite: r03-ccdi-2016-03-30-zhang-lifu }
+    - { title: 海南省人大常委会副主任, sys: other, place: 海南, from: 2011-02, cite: r03-ccdi-2016-03-30-zhang-lifu }
+  cites: [wd-Q24831959, r03-ccdi-2016-03-30-zhang-lifu]
+
+- id: kong-lingzhong
+  name: 孔令中
+  gender: m
+  born: 1953-10
+  birthplace: 浙江东阳
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年受留党察看一年、行政撤职处分，降为正厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2016-04-19, text: 中央纪委通报其严重违纪，给予留党察看一年、行政撤职处分，降为正厅级非领导职务, cite: r03-ccdi-2016-04-19-kong-lingzhong }
+  tier: 2
+  headline: 贵州省政协原副主席、贵州省教育厅原厅长
+  ids: { wikidata: Q24837262 }
+  bio: >-
+    川剧团乐队演奏员出身，后长期在贵州高校任职，历任贵阳医学院党委书记、贵州省委高校工委书记、省教育厅厅长，2008 年任贵州省政协副主席。2016 年 4 月中央纪委通报其接受私营企业主安排的旅游、宴请，为亲属经营谋利，给予留党察看一年、行政撤职处分，降为正厅级。
+  positions:
+    - { title: 贵阳医学院党委副书记、纪委书记、党委书记, sys: other, place: 贵州, cite: r03-wiki-kong-lingzhong }
+    - { title: 中共贵州省委高校工委书记, sys: party, place: 贵州, cite: r03-wiki-kong-lingzhong }
+    - { title: 贵州省教育厅厅长、党组书记, sys: gov, place: 贵州, cite: r03-wiki-kong-lingzhong }
+    - { title: 贵州省政协副主席, sys: other, place: 贵州, from: 2008-01, to: 2016-04, cite: r03-wiki-kong-lingzhong }
+  cites: [wd-Q24837262, r03-wiki-kong-lingzhong, r03-ccdi-2016-04-19-kong-lingzhong]
+
+- id: lai-derong
+  name: 赖德荣
+  gender: m
+  born: 1957-07
+  birthplace: 广西北海
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2016 年被开除党籍、行政撤职，降为科员；未见移送司法的报道。
+  fall:
+    - { date: 2016-07-22, text: 中央纪委通报其严重违纪、多次到境外赌博，给予开除党籍、行政撤职处分，降为科员, cite: r03-ccdi-2016-07-22-lai-derong }
+  tier: 2
+  headline: 广西壮族自治区政协原副主席、自治区党委统战部原部长
+  ids: { wikidata: Q28409931 }
+  bio: >-
+    知青出身，长期在广西区党委组织部工作，1994 年任组织部副部长，后任自治区计生委主任、贵港市委书记、百色市委书记，2013 年任广西政协副主席兼区党委统战部部长。2016 年 7 月中央纪委通报其在干部任用中为他人谋利、收受礼金、多次到境外赌博，开除党籍，降为科员。
+  positions:
+    - { title: 广西壮族自治区党委组织部副部长, sys: party, place: 广西, from: 1994-10, cite: r03-wiki-lai-derong }
+    - { title: 广西壮族自治区人口和计划生育委员会主任、党组书记, sys: gov, place: 广西, from: 2003-04, to: 2005-07, cite: r03-wiki-lai-derong }
+    - { title: 贵港市委书记, sys: party, place: 广西, from: 2006-08, to: 2011-08, cite: r03-wiki-lai-derong }
+    - { title: 百色市委书记, sys: party, place: 广西, from: 2011-08, to: 2013-02, cite: r03-wiki-lai-derong }
+    - { title: 广西壮族自治区政协副主席, sys: other, place: 广西, from: 2013-01, to: 2016-07, cite: r03-wiki-lai-derong }
+    - { title: 广西壮族自治区党委统战部部长, sys: party, place: 广西, from: 2013-05, to: 2015-11, cite: r03-wiki-lai-derong }
+  cites: [wd-Q28409931, r03-wiki-lai-derong, r03-ccdi-2016-07-22-lai-derong]
+
+# ---- 2017
+- id: xia-xinghua
+  name: 夏兴华
+  gender: m
+  born: 1952-08
+  birthplace: 江苏江阴
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2017 年被开除党籍，按主任科员确定退休待遇；未见移送司法的报道。
+  fall:
+    - { date: 2017-01-03, text: 中央纪委通报其违规打高尔夫球、收受礼金、低价购房等问题，给予开除党籍处分，按主任科员确定退休待遇, cite: r03-ccdi-2017-01-03-xia-xinghua }
+  tier: 2
+  headline: 中国民用航空局原党组成员、副局长
+  bio: >-
+    民航航校机械员出身，长期在民航上海、华东管理局工作，1994 年调民航总局任司长，2001 年任民航华东管理局局长，2009 年任中国民用航空局副局长，2014 年卸任后任中国民用机场协会理事长。2017 年 1 月中央纪委通报其违规打高尔夫球、收受礼金，开除党籍，按主任科员确定退休待遇。
+  positions:
+    - { title: 民航总局体改法规企管司、机场司、政策法规司司长, sys: gov, from: 1994-07, to: 2001-04, cite: r03-ccdi-2017-01-03-xia-xinghua }
+    - { title: 民航华东管理局局长、党委书记, sys: gov, place: 上海, from: 2001-04, to: 2009-07, cite: r03-ccdi-2017-01-03-xia-xinghua }
+    - { title: 中国民用航空局党组成员、副局长, sys: gov, from: 2009-07, to: 2014-04, cite: r03-ccdi-2017-01-03-xia-xinghua }
+    - { title: 中国民用机场协会理事长, sys: other, cite: r03-ccdi-2017-01-03-xia-xinghua }
+  cites: [r03-ccdi-2017-01-03-xia-xinghua]
+
+- id: wang-zhongtian
+  name: 王仲田
+  gender: m
+  born: 1956-07
+  birthplace: 陕西榆林
+  roles: [minister, ccdi, tiger]
+  status: purged
+  statusNote: 2017 年中央纪委全会确认对其撤销党内职务处分；官方未公布违纪事实，未见移送司法的报道。
+  fall:
+    - { date: 2017-01-08, text: 十八届中央纪委七次全会确认中央纪委常委会之前作出的给予王仲田撤销党内职务处分的决定, cite: r03-ccdi-2017-01-08-ccdi-7th-plenum }
+  tier: 2
+  headline: 中共中央办公厅原副主任、国务院南水北调办原副主任
+  ids: { wikidata: Q19851472 }
+  bio: >-
+    中央党校政治学教授出身，1999 年调中央办公厅，历任调研室政治组组长、秘书局局长，2011 年任中办副主任，是十八届中央纪委委员。2015 年 1 月转任国务院南水北调办副主任，2016 年 2 月卸任。2017 年 1 月中央纪委全会确认对他严重违纪问题的审查报告，给予撤销党内职务处分。
+  positions:
+    - { title: 中共中央党校科学社会主义教研部副主任, sys: party, from: 1999-01, cite: r03-wiki-wang-zhongtian }
+    - { title: 中共中央办公厅调研室政治组副组长、组长, sys: party, from: 1999-11, cite: r03-wiki-wang-zhongtian }
+    - { title: 中共中央办公厅秘书局副局长兼法规室主任、秘书局局长, sys: party, from: 2003-09, cite: r03-wiki-wang-zhongtian }
+    - { title: 中共中央办公厅副主任, sys: party, from: 2011-09, to: 2015-01, cite: r03-wiki-wang-zhongtian }
+    - { title: 国务院南水北调工程建设委员会办公室党组成员、副主任, sys: gov, from: 2015-01, to: 2016-02, cite: r03-wiki-wang-zhongtian }
+  cites: [wd-Q19851472, r03-wiki-wang-zhongtian, r03-ccdi-2017-01-08-ccdi-7th-plenum]
+
+- id: yu-haiyan
+  name: 虞海燕
+  gender: m
+  born: 1961-07
+  origin: 浙江义乌
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2018 年以受贿罪获刑十五年；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-01-11, text: 中央纪委通报甘肃省委常委、副省长虞海燕涉嫌严重违纪，正接受组织调查, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { date: 2017-06-04, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送司法机关, cite: r03-ccdi-2017-06-04-yu-haiyan-expel }
+    - { date: 2018-07-18, text: 重庆市第一中级人民法院以受贿罪判处其有期徒刑十五年，并处罚金人民币六百万元；认定受贿 6563 万余元, cite: r03-court-2018-07-18-yu-haiyan-verdict }
+  tier: 2
+  headline: 甘肃省委原常委、常务副省长，兰州市委原书记
+  ids: { wikidata: Q9082079 }
+  bio: >-
+    炼钢技术员出身，在酒泉钢铁公司升至总经理、董事长，其间任甘肃省国资委主任、天水市委书记，2011 年任甘肃副省长，2012 年起任省委常委兼兰州市委书记，2016 年任常务副省长。2017 年 1 月被查，开除通报称其“搞团团伙伙，培植私人势力”；2018 年以受贿罪获刑十五年。
+  positions:
+    - { title: 酒泉钢铁（集团）有限责任公司总经理, sys: other, place: 甘肃, from: 2002-12, to: 2004-12, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 甘肃省政府国有资产监督管理委员会主任、党委书记, sys: gov, place: 甘肃, from: 2004-12, to: 2007-06, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 中共天水市委书记, sys: party, place: 甘肃, from: 2007-06, to: 2008-03, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 酒泉钢铁（集团）有限责任公司董事长, sys: other, place: 甘肃, from: 2008-03, to: 2011-05, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 甘肃省副省长, sys: gov, place: 甘肃, from: 2011-05, to: 2012-10, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 甘肃省委常委、兰州市委书记, sys: party, place: 甘肃, from: 2012-10, to: 2016-10, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+    - { title: 甘肃省委常委、常务副省长, sys: gov, place: 甘肃, from: 2016-11, to: 2017-01, cite: r03-ccdi-2017-01-11-yu-haiyan-probe }
+  cites: [wd-Q9082079, r03-ccdi-2017-01-11-yu-haiyan-probe, r03-ccdi-2017-06-04-yu-haiyan-expel, r03-court-2018-07-18-yu-haiyan-verdict]
+
+- id: dou-yupei
+  name: 窦玉沛
+  gender: m
+  born: 1957-09
+  birthplace: 天津
+  roles: [minister, tiger]
+  status: retired
+  statusNote: 2017 年因民政部所辖单位发生系统性腐败被问责，受党内严重警告处分并提前退休。
+  fall:
+    - { date: 2016-11, text: 被免去民政部副部长职务, cite: r03-wiki-dou-yupei }
+    - { date: 2017-02-08, text: 中央纪委通报其管党治党不力、严重失职失责，给予党内严重警告处分，终止其党的十八大代表资格，提前退休, cite: r03-ccdi-2017-02-08-li-liguo-dou-yupei }
+  tier: 2
+  headline: 民政部原党组成员、副部长
+  ids: { wikidata: Q16906463 }
+  bio: >-
+    南开大学中文系毕业，在民政部工作三十多年，历任社会事务司司长、办公厅主任，2006 年起任民政部副部长，主管福利彩票。2016 年 11 月被免职；2017 年 2 月中央纪委以民政部所辖单位发生系统性腐败问题对他问责，给予党内严重警告处分并令其提前退休。
+  positions:
+    - { title: 民政部安置司办公室主任, sys: gov, from: 1990, cite: r03-wiki-dou-yupei }
+    - { title: 民政部社会事务司司长, sys: gov, from: 1996, cite: r03-wiki-dou-yupei }
+    - { title: 民政部办公厅主任, sys: gov, from: 2003-09, to: 2006-01, cite: r03-wiki-dou-yupei }
+    - { title: 民政部党组成员、副部长, sys: gov, from: 2006-01, to: 2016-11, cite: r03-wiki-dou-yupei }
+    - { title: 中国红十字会副会长（兼）, sys: other, from: 2009-09, to: 2015-07, cite: r03-wiki-dou-yupei }
+  cites: [wd-Q16906463, r03-wiki-dou-yupei, r03-ccdi-2017-02-08-li-liguo-dou-yupei]
+
+- id: yang-dongping
+  name: 杨东平
+  gender: m
+  born: 1956-10
+  birthplace: 江苏宜兴
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2017 年被开除党籍和公职，被禁止在银行业金融机构任职；通报未提移送司法，未见刑事追究的报道。
+  fall:
+    - { date: 2017-02-24, text: 中央纪委通报其利用职权为私营企业主获取贷款提供帮助、本人和亲属从中谋取私利，给予开除党籍、开除公职处分，收缴其违纪所得, cite: r03-xinhua-2017-02-24-yang-dongping }
+  tier: 2
+  headline: 交通银行原党委委员、首席风险官
+  bio: >-
+    武汉大学毕业，在交通银行武汉分行升至行长，2003 年起任交行香港分行副总经理、总经理，2007 年任交通银行首席风险官，统筹市场、信用和操作风险。2017 年 2 月中央纪委通报其为私营企业主获取贷款提供帮助、本人和亲属谋利，开除党籍和公职；维基百科称银监会主席助理杨家才随后被牵连调查。
+  positions:
+    - { title: 交通银行武汉分行国际业务部总经理、副行长、行长, sys: other, place: 湖北, from: 1989-05, to: 2003-09, cite: r03-wiki-yang-dongping }
+    - { title: 交通银行香港分行副总经理、总经理, sys: other, place: 香港, from: 2003-09, to: 2007-09, cite: r03-wiki-yang-dongping }
+    - { title: 交通银行党委委员、首席风险官, sys: other, from: 2007-06, to: 2017-02, cite: r03-wiki-yang-dongping }
+  cites: [r03-wiki-yang-dongping, r03-xinhua-2017-02-24-yang-dongping]
+
+- id: yang-jiacai
+  name: 杨家才
+  gender: m
+  born: 1961
+  birthplace: 湖北
+  roles: [minister, tiger]
+  status: detained
+  statusNote: 2018 年以受贿罪、巨额财产来源不明罪合并执行有期徒刑十六年；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-05-23, text: 中央纪委通报中国银监会党委委员、主席助理杨家才接受组织审查, cite: t01-ccdi-jlsc-list-p0 }
+    - { date: 2017-08-01, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送司法机关, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { date: 2018-07-19, text: 濮阳市中级人民法院以受贿罪判处其有期徒刑 14 年、以巨额财产来源不明罪判处 5 年，合并执行有期徒刑 16 年，并处罚金 200 万元；认定受贿 2308.62 万元, cite: r03-thepaper-2018-07-26-yang-jiacai-verdict }
+  tier: 2
+  headline: 中国银行业监督管理委员会原党委委员、主席助理
+  ids: { wikidata: Q30943971 }
+  bio: >-
+    县粮食局干部出身，后在人民银行湖北省分行、武汉分行任职，2003 年转入银监会，历任湖北监管局副局长、安徽监管局局长、银行监管一部主任、办公厅主任，2013 年任银监会主席助理。2017 年被查，开除通报称其“打探巡视和纪律审查信息”；2018 年获刑十六年。
+  positions:
+    - { title: 中国人民银行武汉分行副行长、党委委员, sys: other, place: 湖北, from: 2001-04, to: 2003-07, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { title: 中国银监会湖北监管局副局长, sys: gov, place: 湖北, from: 2003-07, to: 2005-06, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { title: 中国银监会安徽监管局局长、党委书记, sys: gov, place: 安徽, from: 2005-06, to: 2007-01, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { title: 中国银监会银行监管一部主任, sys: gov, from: 2007-01, to: 2012-09, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { title: 中国银监会办公厅主任, sys: gov, from: 2012-09, to: 2013-05, cite: r03-people-2017-08-01-yang-jiacai-expel }
+    - { title: 中国银监会主席助理、党委委员兼办公厅主任, sys: gov, from: 2013-05, to: 2017, cite: r03-people-2017-08-01-yang-jiacai-expel }
+  cites: [wd-Q30943971, t01-ccdi-jlsc-list-p0, r03-people-2017-08-01-yang-jiacai-expel, r03-thepaper-2018-07-26-yang-jiacai-verdict, r03-caixin-2018-07-27-yang-jiacai-verdict]
+
+- id: zhang-huawei
+  name: 张化为
+  gender: m
+  roles: [ccdi, tiger]
+  status: detained
+  statusNote: 2019 年以受贿罪获刑十二年；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-04-17, text: 中央纪委通报中央巡视组原副部级巡视专员张化为涉嫌严重违纪，正接受组织审查, cite: r03-ccdi-2017-04-17-zhang-huawei-probe }
+    - { date: 2017-08-02, text: 被开除党籍，取消退休待遇，涉嫌受贿犯罪问题移送司法机关, cite: r03-ccdi-2017-08-02-zhang-huawei-expel }
+    - { date: 2019-05-27, text: 北京市第二中级人民法院以受贿罪判处其有期徒刑十二年，并处罚金人民币二百万元；认定受贿 3284.93 万余元, cite: r03-court-2019-05-27-zhang-huawei-verdict }
+  tier: 2
+  headline: 中央巡视组原副部级巡视专员
+  ids: { wikidata: Q30943023 }
+  bio: >-
+    长期从事纪检工作，曾任中央纪委第五室主任、中央第一企业金融巡视组副组长，2014 至 2015 年以中央第十一巡视组组长身份巡视国家体育总局和中国国电集团。2017 年被查，开除通报称其“长期利用巡视权违规干预插手被巡视单位相关工作”；2019 年以受贿罪获刑十二年。
+  positions:
+    - { title: 中央纪委第五室主任, sys: party, cite: r03-wiki-zhang-huawei }
+    - { title: 中央纪委、中央组织部巡视组副部级巡视专员, sys: party, from: 2006, cite: r03-court-2019-05-27-zhang-huawei-verdict }
+    - { title: 中央第一企业金融巡视组副组长, sys: party, cite: r03-court-2019-05-27-zhang-huawei-verdict }
+    - { title: 中央第十一巡视组组长, sys: party, from: 2014-07, to: 2015, cite: r03-wiki-zhang-huawei }
+  cites: [wd-Q30943023, r03-wiki-zhang-huawei, r03-ccdi-2017-04-17-zhang-huawei-probe, r03-ccdi-2017-08-02-zhang-huawei-expel, r03-court-2019-05-27-zhang-huawei-verdict]
+
+- id: chen-chuanshu
+  name: 陈传书
+  gender: m
+  born: 1954-04
+  birthplace: 河北临漳
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2017 年因担任民政部下属单位主要负责人期间失职失责被问责，受留党察看一年、行政撤职处分，降为正局级非领导职务。
+  fall:
+    - { date: 2017-04-24, text: 中央纪委通报其担任民政部下属单位主要负责人期间工作严重失职失责，给予留党察看一年、行政撤职处分，降为正局级非领导职务, cite: r03-people-2017-04-24-chen-chuanshu }
+  tier: 2
+  headline: 民政部原党组成员、中国老龄协会原会长
+  ids: { wikidata: Q16907825 }
+  bio: >-
+    出身共青团中央，后在民政部任职，历任民政部彩票发行管理中心主任、办公厅主任，2008 年起任中国老龄协会会长、全国老龄办常务副主任，2014 年 6 月卸任。2017 年 4 月中央纪委通报其担任民政部下属单位主要负责人期间失职失责，给予留党察看一年、行政撤职处分。
+  positions:
+    - { title: 民政部彩票发行管理中心主任, sys: gov, cite: r03-wiki-chen-chuanshu }
+    - { title: 中共兰州市委副书记（挂职）, sys: party, place: 甘肃, cite: r03-wiki-chen-chuanshu }
+    - { title: 民政部办公厅主任, sys: gov, cite: r03-wiki-chen-chuanshu }
+    - { title: 民政部党组成员、中国老龄协会会长、全国老龄办常务副主任, sys: gov, from: 2008-09, to: 2014-06, cite: r03-wiki-chen-chuanshu }
+    - { title: 第十二届全国人大代表、全国人大农业与农村委员会委员, sys: other, from: 2013-03, cite: r03-wiki-chen-chuanshu }
+  cites: [wd-Q16907825, r03-wiki-chen-chuanshu, r03-people-2017-04-24-chen-chuanshu]
+
+- id: liu-xinqi
+  name: 刘新齐
+  gender: m
+  born: 1956-10
+  birthplace: 山东商河
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2017 年被开除党籍、行政撤职，降为正处级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-05-24, text: 中央纪委通报其违规选拔任用干部、其子收受他人财物、干预执纪审查工作，给予开除党籍处分，行政撤职，降为正处级非领导职务, cite: r03-ccdi-2017-05-24-liu-xinqi }
+  tier: 2
+  headline: 新疆生产建设兵团原党委副书记、司令员
+  ids: { wikidata: Q10897620 }
+  bio: >-
+    兵团连队统计员出身，在农四师任团长，后任农三师师长、农一师师长，2001 年起任兵团副司令员，2011 年升任兵团司令员、党委副书记，2017 年 4 月卸任。同年 5 月中央纪委通报其违规选拔任用干部、其子收受他人财物、干预执纪审查，开除党籍，降为正处级。
+  positions:
+    - { title: 新疆生产建设兵团农四师七十五团团长, sys: other, place: 新疆, from: 1985-07, cite: r03-wiki-liu-xinqi }
+    - { title: 新疆生产建设兵团农三师党委副书记、师长, sys: other, place: 新疆, from: 1997-12, cite: r03-wiki-liu-xinqi }
+    - { title: 新疆生产建设兵团农一师党委书记、师长, sys: other, place: 新疆, from: 2001-01, cite: r03-wiki-liu-xinqi }
+    - { title: 新疆生产建设兵团党委常委、副司令员, sys: other, place: 新疆, from: 2001-06, to: 2011-11, cite: r03-wiki-liu-xinqi }
+    - { title: 新疆生产建设兵团党委副书记、司令员, sys: other, place: 新疆, from: 2011-11, to: 2017-04, cite: r03-wiki-liu-xinqi }
+  cites: [wd-Q10897620, r03-wiki-liu-xinqi, r03-ccdi-2017-05-24-liu-xinqi]
+
+- id: qu-shuhui
+  name: 曲淑辉
+  gender: f
+  born: 1955-03
+  birthplace: 山东莱州
+  roles: [ccdi, tiger]
+  status: purged
+  statusNote: 2017 年受留党察看二年、行政撤职处分，降为正处级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-06-20, text: 中央纪委通报其任驻民政部纪检组组长期间对驻在部门所辖单位系统性腐败严重失职失责、长期插手下属单位工程项目谋私，给予留党察看二年、行政撤职处分，降为正处级非领导职务, cite: r03-ccdi-2017-06-20-qu-shuhui }
+    - { date: 2017-10-09, text: 十八届中央纪委八次全会确认给予曲淑辉留党察看二年处分的决定, cite: r03-ccdi-2017-10-09-ccdi-8th-plenum }
+  tier: 2
+  headline: 中央纪委驻民政部纪检组原组长、十八届中央纪委委员
+  ids: { wikidata: Q18653670 }
+  bio: >-
+    吉林大学法律系毕业，长期在中央纪委派驻机构工作，历任驻交通部纪检组副组长、驻最高法院纪检组副组长、驻国家药监局纪检组组长，2008 至 2016 年任驻民政部纪检组组长，是十八届中央纪委委员。2017 年 6 月因民政部所辖单位系统性腐败被问责，降为正处级。
+  positions:
+    - { title: 中央纪委驻交通部纪检组副组长、监察局局长, sys: party, from: 1994, to: 2001, cite: r03-wiki-qu-shuhui }
+    - { title: 中央纪委驻最高人民法院纪检组副组长, sys: party, from: 2001, to: 2006, cite: r03-wiki-qu-shuhui }
+    - { title: 中央纪委驻国家食品药品监督管理局纪检组组长, sys: party, from: 2006, to: 2008, cite: r03-wiki-qu-shuhui }
+    - { title: 中央纪委驻民政部纪检组组长、民政部党组成员, sys: party, from: 2008, to: 2016-05, cite: r03-wiki-qu-shuhui }
+    - { title: 中央纪委驻国家民委纪检组组长、国家民委党组成员, sys: party, from: 2016-05, to: 2016-11, cite: r03-wiki-qu-shuhui }
+  cites: [wd-Q18653670, r03-wiki-qu-shuhui, r03-ccdi-2017-06-20-qu-shuhui, r03-ccdi-2017-10-09-ccdi-8th-plenum]
+
+- id: wang-hongjiang
+  name: 王宏江
+  gender: m
+  born: 1965-09
+  birthplace: 天津
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年受留党察看一年、行政撤职处分，降为正厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-07-10, text: 中央纪委通报其在组织谈话函询时不如实说明问题、违规决策使用财政资金，给予留党察看一年、行政撤职处分，降为正厅级非领导职务, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+  tier: 2
+  headline: 天津市委原常委、统战部部长，天津市原副市长
+  ids: { wikidata: Q28412461 }
+  bio: >-
+    水利工程师出身，长期在天津市水利局（引滦工程局）工作并任局长，2008 年任宝坻区委书记，2013 年任天津副市长，2015 年任市委常委、统战部部长，2017 年 5 月卸任常委。同年 7 月中央纪委通报其违规决策使用财政资金、向他人送礼，给予留党察看一年、行政撤职处分。
+  positions:
+    - { title: 天津市水利局（市引滦工程局）党委副书记、局长, sys: gov, place: 天津, from: 2003-09, to: 2008-03, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+    - { title: 中共天津市宝坻区委书记, sys: party, place: 天津, from: 2008-03, to: 2013-01, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+    - { title: 天津市政府秘书长、办公厅党组书记, sys: gov, place: 天津, from: 2012-06, to: 2013-01, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+    - { title: 天津市政府副市长, sys: gov, place: 天津, from: 2013-01, to: 2015-12, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+    - { title: 天津市委常委、统战部部长, sys: party, place: 天津, from: 2015-12, to: 2017-05, cite: r03-ccdi-2017-07-10-wang-hongjiang }
+  cites: [wd-Q28412461, r03-ccdi-2017-07-10-wang-hongjiang]
+
+- id: xu-qianfei
+  name: 许前飞
+  gender: m
+  born: 1955-10
+  birthplace: 河南孟津
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年受撤销党内职务处分，由最高人民法院撤职，降为正局级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-07-24, text: 中央纪委通报其应关系密切的律师和私营企业主请托干预具体案件审判，给予撤销党内职务处分，由最高人民法院给予撤职处分，降为正局级非领导职务, cite: r03-ccdi-2017-07-24-xu-qianfei }
+  tier: 2
+  headline: 江苏省高级人民法院原院长、云南省高级人民法院原院长
+  ids: { wikidata: Q9344713 }
+  bio: >-
+    武汉大学国际法博士，曾任武大国际法学系副主任，1988 年转入海南法院系统，历任海口中院院长、海南省政府秘书长，2008 年任云南省高院院长，2013 年任江苏省高院院长。2017 年 7 月中央纪委通报其“干预和插手具体案件审判工作，以案谋私”，撤销党内职务，降为正局级。
+  positions:
+    - { title: 武汉大学国际法学系教师、副主任, sys: other, place: 湖北, from: 1984-12, to: 1988-12, cite: r03-ccdi-2017-07-24-xu-qianfei }
+    - { title: 海南省海口市中级人民法院院长、党组书记, sys: gov, place: 海南, from: 1996-11, to: 2003-02, cite: r03-ccdi-2017-07-24-xu-qianfei }
+    - { title: 海南省政府秘书长、省政府办公厅党组书记, sys: gov, place: 海南, from: 2007-05, to: 2007-12, cite: r03-ccdi-2017-07-24-xu-qianfei }
+    - { title: 云南省高级人民法院院长、党组书记, sys: gov, place: 云南, from: 2008-01, to: 2012-12, cite: r03-ccdi-2017-07-24-xu-qianfei }
+    - { title: 江苏省高级人民法院院长、党组书记, sys: gov, place: 江苏, from: 2013-01, to: 2017, cite: r03-ccdi-2017-07-24-xu-qianfei }
+  cites: [wd-Q9344713, r03-ccdi-2017-07-24-xu-qianfei]
+
+- id: xia-chongyuan
+  name: 夏崇源
+  gender: m
+  born: 1959-07
+  birthplace: 江西大余
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2017 年受留党察看二年、行政撤职处分，降为副局级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-08-02, text: 公安部官网撤下其政治部主任简历，此前他最后一次公开露面是 7 月 19 日, cite: r03-wiki-xia-chongyuan }
+    - { date: 2017-10-09, text: 中央纪委通报其参与非组织活动、对抗组织审查，给予留党察看二年处分，行政撤职，降为副局级非领导职务, cite: r03-ccdi-2017-10-09-xia-he-mu }
+  tier: 2
+  headline: 公安部原党委委员、政治部主任
+  ids: { wikidata: Q18233793 }
+  bio: >-
+    长期在中央组织部工作，曾任干部三局副局长、中央与国家机关干部局局长，2013 年调任公安部党委委员、政治部主任，授副总警监警衔。2017 年 8 月公安部官网撤下其简历，10 月中央纪委通报其“参与非组织活动，对抗组织审查”，给予留党察看二年处分，降为副局级。
+  positions:
+    - { title: 中共中央组织部干部三局正局级调研员兼副局长, sys: party, cite: r03-wiki-xia-chongyuan }
+    - { title: 中共中央组织部中央与国家机关干部局局长, sys: party, cite: r03-wiki-xia-chongyuan }
+    - { title: 公安部党委委员、政治部主任, sys: gov, from: 2013, to: 2017, cite: r03-wiki-xia-chongyuan }
+  cites: [wd-Q18233793, r03-wiki-xia-chongyuan, r03-ccdi-2017-10-09-xia-he-mu]
+
+- id: he-ting
+  name: 何挺
+  gender: m
+  born: 1962-02
+  birthplace: 山东荣成
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年被开除党籍、行政撤职，降为副处级非领导职务并提前退休；未见移送司法的报道。
+  fall:
+    - { date: 2017-06, text: 不再担任重庆市副市长、市公安局局长职务, cite: r03-ccdi-2017-10-09-he-ting }
+    - { date: 2017-10-09, text: 中央纪委通报其为谋求职务晋升搞攀附、长期搞迷信活动、对抗组织审查，给予开除党籍处分，行政撤职，降为副处级非领导职务，办理提前退休手续, cite: r03-ccdi-2017-10-09-he-ting }
+  tier: 2
+  headline: 重庆市原副市长、市公安局原局长，公安部刑侦局原局长
+  ids: { wikidata: Q9105161 }
+  bio: >-
+    西南政法学院刑侦专业毕业，在公安部刑侦局从科员升至局长，曾任公安部反恐怖局局长，2007 年起先后任甘肃、青海公安厅长，2009 年任青海副省长，2012 年 3 月任重庆副市长兼公安局长。2017 年 6 月卸任，10 月中央纪委通报其“为谋求职务晋升搞攀附”，开除党籍，降为副处级。
+  positions:
+    - { title: 公安部反恐怖局局长, sys: gov, from: 2002-04, to: 2003-07, cite: r03-ccdi-2017-10-09-he-ting }
+    - { title: 公安部刑事侦查局局长, sys: gov, from: 2003-07, to: 2007-03, cite: r03-ccdi-2017-10-09-he-ting }
+    - { title: 甘肃省省长助理、省公安厅厅长, sys: gov, place: 甘肃, from: 2007-03, to: 2008-11, cite: r03-ccdi-2017-10-09-he-ting }
+    - { title: 青海省副省长、省公安厅厅长, sys: gov, place: 青海, from: 2009-03, to: 2012-03, cite: r03-ccdi-2017-10-09-he-ting }
+    - { title: 重庆市副市长、市公安局局长, sys: gov, place: 重庆, from: 2012-03, to: 2017-06, cite: r03-ccdi-2017-10-09-he-ting }
+  cites: [wd-Q9105161, r03-ccdi-2017-10-09-he-ting, b07-zaobao-2017-07-16-sun]
+
+- id: mu-huaping
+  name: 沐华平
+  gender: m
+  born: 1965-07
+  birthplace: 江苏兴化
+  roles: [prov, tiger]
+  status: purged
+  statusNote: 2017 年受留党察看二年、行政撤职处分，降为副厅级非领导职务；未见移送司法的报道。
+  fall:
+    - { date: 2017-10-09, text: 中央纪委通报其为谋求职务晋升搞攀附、大搞利益交换，给予留党察看二年处分，行政撤职，降为副厅级非领导职务，终止其党的十八大代表资格, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { date: 2017-11, text: 被免去重庆市人民政府副市长职务, cite: r03-wiki-mu-huaping }
+  tier: 2
+  headline: 重庆市原副市长、渝北区委原书记
+  ids: { wikidata: Q24839050 }
+  bio: >-
+    清华大学机械学博士，在国家科委、科技部任职后于 2000 年调任重庆，历任市科委副主任、市政府副秘书长、市经信委主任、渝北区委书记，2016 年 5 月任重庆副市长。2017 年 10 月中央纪委通报其“为谋求职务晋升搞攀附，大搞利益交换”，留党察看二年，降为副厅级。
+  positions:
+    - { title: 科学技术部直属机关团委书记, sys: party, from: 1998-10, to: 2000-12, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { title: 重庆市科学技术委员会副主任、党组成员, sys: gov, place: 重庆, from: 2000-12, to: 2003-11, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { title: 重庆市信息产业局党组书记、局长, sys: gov, place: 重庆, from: 2007-02, to: 2009-03, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { title: 重庆市经济和信息化委员会主任、党组书记, sys: gov, place: 重庆, from: 2010-07, to: 2013-11, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { title: 重庆市渝北区委书记, sys: party, place: 重庆, from: 2013-11, to: 2016-05, cite: r03-ccdi-2017-10-09-xia-he-mu }
+    - { title: 重庆市人民政府副市长、党组成员, sys: gov, place: 重庆, from: 2016-05, to: 2017-11, cite: r03-ccdi-2017-10-09-xia-he-mu }
+  cites: [wd-Q24839050, r03-ccdi-2017-10-09-xia-he-mu, r03-wiki-mu-huaping]
+
+- id: li-gang-qiaoban
+  name: 李刚
+  gender: m
+  born: 1955-07
+  birthplace: 山东莱阳
+  roles: [minister, ccdi, hkmt, tiger]
+  status: purged
+  statusNote: 2017 年受留党察看一年处分；官方未公布违纪事实，未见移送司法的报道。
+  fall:
+    - { date: 2017-08-22, text: 国务院免去其国务院侨务办公室副主任职务；9 月 1 日全国人大常委会代表资格审查报告称其因涉嫌严重违纪被责令辞去全国人大代表职务, cite: r03-wiki-li-gang-qiaoban }
+    - { date: 2017-10-09, text: 十八届中央纪委八次全会审议通过关于李刚严重违纪问题的审查报告，确认给予其留党察看一年处分, cite: r03-ccdi-2017-10-09-ccdi-8th-plenum }
+  tier: 2
+  headline: 国务院侨务办公室原副主任（正部长级）、中央驻澳门联络办原主任
+  bio: >-
+    英语教师出身，长期在共青团中央国际联络部工作，后任驻美使馆文化参赞、国务院新闻办副主任，2003 至 2012 年任香港中联办副主任，2014 年任澳门中联办主任，2016 年任国侨办副主任（正部长级），是十七、十八届中央纪委委员。2017 年被免职，中央纪委全会确认给予其留党察看一年处分。
+  positions:
+    - { title: 共青团中央国际联络部部长、团中央常委, sys: party, from: 1984, to: 1993, cite: r03-wiki-li-gang-qiaoban }
+    - { title: 中国驻美国大使馆正局级公使衔文化参赞, sys: gov, from: 1994, to: 1998, cite: r03-wiki-li-gang-qiaoban }
+    - { title: 中央对外宣传办公室、国务院新闻办公室副主任, sys: party, from: 2001, to: 2003, cite: r03-wiki-li-gang-qiaoban }
+    - { title: 中央人民政府驻香港特别行政区联络办公室副主任, sys: gov, place: 香港, from: 2003, to: 2012, cite: r03-wiki-li-gang-qiaoban }
+    - { title: 中央人民政府驻澳门特别行政区联络办公室主任, sys: gov, place: 澳门, from: 2014-01, to: 2016-07, cite: r03-wiki-li-gang-qiaoban }
+    - { title: 国务院侨务办公室副主任（正部长级）、党组成员, sys: gov, from: 2016-07, to: 2017-08, cite: r03-wiki-li-gang-qiaoban }
+  cites: [r03-wiki-li-gang-qiaoban, r03-ccdi-2017-10-09-ccdi-8th-plenum]
+
+- id: liu-qiang-liaoning
+  name: 刘强
+  gender: m
+  born: 1964-02
+  birthplace: 辽宁法库
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2019 年以受贿罪、破坏选举罪获刑十二年；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-11-23, text: 中央纪委通报辽宁省副省长刘强涉嫌严重违纪，正接受组织审查, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+    - { date: 2018-02-05, text: 被开除党籍和公职，涉嫌破坏选举、受贿犯罪问题移送有关国家机关, cite: r03-ccdi-2018-02-05-liu-qiang-expel }
+    - { date: 2019-04-09, text: 北京市第三中级人民法院以受贿罪判处有期徒刑十一年、以破坏选举罪判处二年，决定执行有期徒刑十二年，并处罚金人民币一百二十万元；认定受贿 1063 万余元, cite: r03-court-2019-04-09-liu-qiang-verdict }
+  tier: 2
+  headline: 辽宁省原副省长、抚顺市委原书记
+  bio: >-
+    大连理工大学化工硕士，在抚顺石化从操作员升至总经理，2004 年转任抚顺市长，2008 年任抚顺市委书记，2013 年当选辽宁副省长。2017 年 11 月被查，开除通报称其“为提任副省级领导干部，利用职权搞有组织的拉票贿选活动”；2019 年以受贿罪、破坏选举罪获刑十二年。
+  positions:
+    - { title: 中国石油抚顺石化公司总经理、党委书记, sys: other, place: 辽宁, from: 2001-11, to: 2004-03, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+    - { title: 中共抚顺市委常委, sys: party, place: 辽宁, from: 2002-03, to: 2004-03, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+    - { title: 中共抚顺市委副书记、市长, sys: gov, place: 辽宁, from: 2004-03, to: 2008-02, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+    - { title: 中共抚顺市委书记, sys: party, place: 辽宁, from: 2008-02, to: 2013-01, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+    - { title: 辽宁省政府副省长、党组成员, sys: gov, place: 辽宁, from: 2013-01, to: 2017-11, cite: r03-ccdi-2017-11-23-liu-qiang-probe }
+  cites: [r03-ccdi-2017-11-23-liu-qiang-probe, r03-ccdi-2018-02-05-liu-qiang-expel, r03-court-2019-04-09-liu-qiang-verdict]
+
+- id: zhang-jiehui
+  name: 张杰辉
+  gender: m
+  born: 1957-01
+  birthplace: 辽宁宽甸
+  roles: [prov, tiger]
+  status: detained
+  statusNote: 2020 年以受贿罪获刑十五年；未见减刑或释放的公开报道。
+  fall:
+    - { date: 2017-12-12, text: 中央纪委通报河北省人大常委会副主任张杰辉涉嫌严重违纪，正接受组织审查, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+    - { date: 2018-02-09, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送有关国家机关, cite: r03-ccdi-2018-02-09-zhang-jiehui-expel }
+    - { date: 2020-07-10, text: 太原市中级人民法院以受贿罪判处其有期徒刑十五年，并处没收个人财产人民币六百万元；认定受贿 1.270782115 亿元, cite: r03-court-2020-zhang-jiehui-verdict }
+  tier: 2
+  headline: 河北省人大常委会原副主任、河北省原副省长，鞍山市委原书记
+  ids: { wikidata: Q9091272 }
+  bio: >-
+    知青出身，在辽宁省委组织部、省计委任职，后任盘锦市委常委、辽宁省委政策研究室主任，2001 年任鞍山市长，2005 年任鞍山市委书记，2010 年调任河北副省长，2017 年任河北省人大常委会副主任。同年 12 月被查，开除通报称其“长期卖官鬻爵，严重破坏任职地区的政治生态”；2020 年获刑十五年。
+  positions:
+    - { title: 辽宁省委政策研究室主任、省委副秘书长, sys: party, place: 辽宁, from: 1999-06, to: 2000-11, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+    - { title: 辽宁省鞍山市委副书记、市长, sys: gov, place: 辽宁, from: 2000-11, to: 2005-12, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+    - { title: 辽宁省鞍山市委书记, sys: party, place: 辽宁, from: 2005-12, to: 2010-08, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+    - { title: 河北省政府副省长、党组成员, sys: gov, place: 河北, from: 2010-08, to: 2016-12, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+    - { title: 河北省人大常委会副主任、党组成员, sys: other, place: 河北, from: 2017-01, to: 2017-12, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
+  cites: [wd-Q9091272, r03-ccdi-2017-12-12-zhang-jiehui-probe, r03-ccdi-2018-02-09-zhang-jiehui-expel, r03-court-2020-zhang-jiehui-verdict]

@@ -1,0 +1,83 @@
+# R03: centrally managed cadres (non-military) whose first public CCDI notice (a probe, or a punishment announced
+# without an earlier probe notice) fell in 2016–2017. Date = that first notice.
+# Basis: the CCDI probe and punishment column lists (t01-ccdi-jlsc-list-p0/p1, t01-ccdi-djcf-list-p1–p4), the
+# 2016-01-29 round-up of ten cadres punished in 2015 (r02-ccdi-2016-01-29-ten-cadres; 许爱民 and 朱福寿 were first
+# announced in 2015 and belong to R02), the CCDI 7th and 8th plenum communiqués, and the Central Committee's 7th
+# plenum communiqué (c03-xinhua-2017-10-14-seventh-plenum).
+# Out of scope: 王建平, 田修思, 张阳 and the other generals (military); 张昆生 (first notice 2015, R02);
+# 周化辰 (CCDI notice in 2018, R04); 冯新柱, 季缃绮, 王晓光 (2018, R04).
+# 李建波 was given a 严重警告 in 2017 (7th CCDI plenum) but has no card; a 2026 probe reported on Wikipedia has not
+# been checked against an official notice, so he is left undone for whoever covers 2026.
+- { name: 魏宏, date: 2016-01-15, post: 四川省委副书记、省长, id: wei-hong, done: true }
+- { name: 陈雪枫, date: 2016-01-16, post: 河南省委常委、洛阳市委书记, id: chen-xuefeng, done: true }
+- { name: 龚清概, date: 2016-01-19, post: 中央台办、国务院台办副主任, id: gong-qinggai, done: true }
+- { name: 王保安, date: 2016-01-26, post: 国家统计局党组书记、局长, id: wang-baoan, done: true }
+- { name: 颜世元, date: 2016-01-29, post: 山东省委原常委、统战部原部长, id: yan-shiyuan, done: true }
+- { name: 韩志然, date: 2016-01-29, post: 内蒙古自治区政协原副主席, id: han-zhiran, done: true }
+- { name: 孙清云, date: 2016-01-29, post: 陕西省政协原副主席, id: sun-qingyun, done: true }
+- { name: 张云, date: 2016-01-29, post: 中国农业银行原副董事长、行长, id: zhang-yun-abc, done: true }
+- { name: 刘礼祖, date: 2016-01-29, post: 江西省政协原副主席, id: liu-lizu, done: true }
+- { name: 刘志勇, date: 2016-01-29, post: 广西壮族自治区政协原副主席, id: liu-zhiyong-gx, done: true }
+- { name: 曹建方, date: 2016-01-29, post: 云南省委原常委、秘书长, id: cao-jianfang, done: true }
+- { name: 范坚, date: 2016-01-29, post: 国家税务总局原党组成员、总经济师, id: fan-jian, done: true }
+- { name: 刘志庚, date: 2016-02-04, post: 广东省副省长, id: liu-zhigeng, done: true }
+- { name: 贺家铁, date: 2016-02-04, post: 湖北省委原常委、组织部部长, id: he-jiatie, done: true }
+- { name: 蔡希有, date: 2016-02-06, post: 中国中化集团公司总经理, id: cai-xiyou, done: true }
+- { name: 王珉, date: 2016-03-04, post: 全国人大教科文卫委员会副主任委员、辽宁省委原书记, id: wang-min, done: true }
+- { name: 卢子跃, date: 2016-03-16, post: 宁波市委副书记、市长, id: lu-ziyue, done: true }
+- { name: 王阳, date: 2016-03-16, post: 辽宁省人大常委会副主任, id: wang-yang-liaoning, done: true }
+- { name: 李嘉, date: 2016-03-23, post: 广东省委常委、珠海市委书记, id: li-jia-zhuhai, done: true }
+- { name: 张力夫, date: 2016-03-30, post: 海南省人大常委会原副主任, id: zhang-lifu, done: true }
+- { name: 杨鲁豫, date: 2016-04-06, post: 济南市委副书记、市长, id: yang-luyu, done: true }
+- { name: 苏宏章, date: 2016-04-06, post: 辽宁省委常委、政法委书记, id: su-hongzhang, done: true }
+- { name: 李成云, date: 2016-04-09, post: 四川省原副省长, id: li-chengyun, done: true }
+- { name: 张越, date: 2016-04-16, post: 河北省委常委、政法委书记, id: zhang-yue, done: true }
+- { name: 孔令中, date: 2016-04-19, post: 贵州省政协副主席, id: kong-lingzhong, done: true }
+- { name: 杨振超, date: 2016-05-24, post: 安徽省副省长, id: yang-zhenchao, done: true }
+- { name: 李云峰, date: 2016-05-30, post: 江苏省委原常委、常务副省长, id: li-yunfeng, done: true }
+- { name: 姚中民, date: 2016-06-06, post: 国家开发银行原监事长, id: yao-zhongmin, done: true }
+- { name: 赖德荣, date: 2016-07-22, post: 广西壮族自治区政协原副主席, id: lai-derong, done: true }
+- { name: 尹海林, date: 2016-08-22, post: 天津市副市长, id: yin-hailin, done: true }
+- { name: 郑玉焯, date: 2016-08-26, post: 辽宁省人大常委会副主任, id: zheng-yuzhuo, done: true }
+- { name: 黄兴国, date: 2016-09-10, post: 天津市委代理书记、市长, id: huang-xingguo, done: true }
+- { name: 陈树隆, date: 2016-11-08, post: 安徽省副省长, id: chen-shulong, done: true }
+- { name: 张文雄, date: 2016-11-08, post: 湖南省委常委、宣传部部长, id: zhang-wenxiong, done: true }
+- { name: 吴天君, date: 2016-11-11, post: 河南省委原常委、政法委书记, id: wu-tianjun, done: true }
+- { name: 卢恩光, date: 2016-12-16, post: 司法部党组成员、政治部主任, id: lu-enguang, done: true }
+- { name: 夏兴华, date: 2017-01-03, post: 中国民用航空局原副局长, id: xia-xinghua, done: true }
+- { name: 王仲田, date: 2017-01-08, post: 国务院南水北调办原副主任、中办原副主任, id: wang-zhongtian, done: true }
+- { name: 李建波, date: 2017-01-08, post: 第十八届中央纪委委员, done: false }
+- { name: 虞海燕, date: 2017-01-11, post: 甘肃省委常委、常务副省长, id: yu-haiyan, done: true }
+- { name: 李立国, date: 2017-02-08, post: 民政部原部长, id: li-liguo, done: true }
+- { name: 窦玉沛, date: 2017-02-08, post: 民政部原副部长, id: dou-yupei, done: true }
+- { name: 王银成, date: 2017-02-23, post: 中国人民保险集团总裁, id: wang-yincheng, done: true }
+- { name: 杨东平, date: 2017-02-24, post: 交通银行首席风险官, id: yang-dongping, done: true }
+- { name: 郑立中, date: 2017-02-28, post: 国台办原常务副主任、全国政协港澳台侨委员会副主任, id: zheng-lizhong, done: true }
+- { name: 李文科, date: 2017-02-28, post: 辽宁省人大常委会副主任, id: li-wenke, done: true }
+- { name: 陈旭, date: 2017-03-01, post: 上海市人民检察院原检察长, id: chen-xu-shanghai, done: true }
+- { name: 孙怀山, date: 2017-03-02, post: 全国政协港澳台侨委员会主任, id: sun-huaishan, done: true }
+- { name: 项俊波, date: 2017-04-09, post: 中国保监会主席, id: xiang-junbo, done: true }
+- { name: 杨崇勇, date: 2017-04-11, post: 河北省人大常委会副主任, id: yang-chongyong, done: true }
+- { name: 张化为, date: 2017-04-17, post: 中央巡视组原副部级巡视专员, id: zhang-huawei, done: true }
+- { name: 陈传书, date: 2017-04-24, post: 民政部原党组成员、中国老龄协会原会长, id: chen-chuanshu, done: true }
+- { name: 周春雨, date: 2017-04-26, post: 安徽省副省长, id: zhou-chunyu, done: true }
+- { name: 魏民洲, date: 2017-05-22, post: 陕西省人大常委会副主任, id: wei-minzhou, done: true }
+- { name: 杨家才, date: 2017-05-23, post: 中国银监会主席助理, id: yang-jiacai, done: true }
+- { name: 刘新齐, date: 2017-05-24, post: 新疆生产建设兵团原司令员, id: liu-xinqi, done: true }
+- { name: 曲淑辉, date: 2017-06-20, post: 中央纪委驻国家民委纪检组原组长, id: qu-shuhui, done: true }
+- { name: 刘善桥, date: 2017-06-26, post: 湖北省政协副主席, id: liu-shanqiao, done: true }
+- { name: 张喜武, date: 2017-07-03, post: 国务院国资委原副主任, id: zhang-xiwu, done: true }
+- { name: 王宏江, date: 2017-07-10, post: 天津市委原常委、统战部部长, id: wang-hongjiang, done: true }
+- { name: 王三运, date: 2017-07-11, post: 全国人大教科文卫委员会副主任委员、甘肃省委原书记, id: wang-sanyun, done: true }
+- { name: 许前飞, date: 2017-07-24, post: 江苏省高级人民法院原院长, id: xu-qianfei, done: true }
+- { name: 孙政才, date: 2017-07-24, post: 中央政治局委员、重庆市委原书记, id: sun-zhengcai, done: true }
+- { name: 杨焕宁, date: 2017-07-31, post: 国家安全监管总局原局长, id: yang-huanning, done: true }
+- { name: 莫建成, date: 2017-08-27, post: 中央纪委驻财政部纪检组组长, id: mo-jiancheng, done: true }
+- { name: 夏崇源, date: 2017-10-09, post: 公安部原政治部主任, id: xia-chongyuan, done: true }
+- { name: 何挺, date: 2017-10-09, post: 重庆市原副市长、市公安局原局长, id: he-ting, done: true }
+- { name: 沐华平, date: 2017-10-09, post: 重庆市原副市长, id: mu-huaping, done: true }
+- { name: 李刚, date: 2017-10-09, post: 国务院侨办原副主任（正部长级）, id: li-gang-qiaoban, done: true }
+- { name: 吴爱英, date: 2017-10-14, post: 司法部原部长, id: wu-aiying, done: true }
+- { name: 鲁炜, date: 2017-11-21, post: 中宣部原副部长、中央网信办原主任, id: lu-wei, done: true }
+- { name: 刘强, date: 2017-11-23, post: 辽宁省副省长, id: liu-qiang-liaoning, done: true }
+- { name: 张杰辉, date: 2017-12-12, post: 河北省人大常委会副主任, id: zhang-jiehui, done: true }
