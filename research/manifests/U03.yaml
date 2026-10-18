@@ -1,0 +1,68 @@
+# U03: 上位之路 (content/turns/U03.yaml) for people with full biographies — sources for turning points.
+web:
+  - id: u03-zjol-2010-02-25-cai-resume
+    title: 蔡奇同志简历
+    publisher: 浙江在线
+    date: 2010-02-25
+    voice: official
+    url: https://web.archive.org/web/2016/http://china.zjol.com.cn/05china/system/2010/02/25/016356399.shtml
+    start: 蔡奇，男，1955年12月生
+    end: 组织部长，杭州市委副书记、市长
+  - id: u03-zjol-2017-01-21-cai-taizhou
+    title: 抗台风搏网海 皆游刃有余 北京市长蔡奇的台州往事
+    publisher: 浙江在线
+    date: 2017-01-21
+    voice: official
+    url: https://zjnews.zjol.com.cn/zjnews/zjxw/201701/t20170121_2877744.shtml
+    excerpt: true
+    keep: [万名机关干部下村蹲点, 站着讲, 手机号, 担任台州市委书记仅4个月, 通过手机与在抗台斗争第一线, 现在你们那里的情况怎么样]
+  - id: u03-rfi-2014-03-27-cai-qi
+    title: 浙江省副省长蔡奇免职 传将出任要职
+    publisher: 法国国际广播电台
+    date: 2014-03-27
+    voice: zh
+    url: https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20140327-%E6%B5%99%E6%B1%9F%E7%9C%81%E5%89%AF%E7%9C%81%E9%95%BF%E8%94%A1%E5%A5%87%E5%85%8D%E8%81%8C-%E4%BC%A0%E5%B0%86%E5%87%BA%E4%BB%BB%E8%A6%81%E8%81%8C
+    excerpt: true
+    keep: [追随中共总书记习近平从福建到浙江, 颇受重用, 少有的嫡系人马, 腾讯微博有账号, 同样有福建政坛背景]
+  - id: u03-renminbao-2025-07-23-ding
+    title: 上海风声鹤唳 丁薛祥如何在7个月获习近平信任
+    publisher: 人民报
+    date: 2025-07-23
+    voice: zh
+    rumor: true
+    url: https://www.renminbao.com/rmb/articles/2025/7/23/91496.html
+    excerpt: true
+    keep: [孙路一也落马, 徐匡迪对科研单位出身的丁薛祥, 第九次党代会, 推荐了几个人给习近平]
+  - id: u03-sina-2004-02-25-bo-style
+    title: 特写：被赞扬与质疑所环绕的“薄熙来风格”（东方早报）
+    publisher: 新浪网（转载东方早报）
+    date: 2004-02-25
+    voice: official
+    url: http://news.sina.com.cn/c/2004-02-25/04082951648.shtml
+    excerpt: true
+    keep: [北方的香港, 满意度达到了97.5%, 形象工程, 金石滩, 足球市长, 大连国际服装节上]
+  - id: u03-rmrb-2001-05-14-bo-city
+    title: 如何经营城市这份国有资产——薄熙来访谈录
+    publisher: 人民日报
+    date: 2001-05-14
+    voice: official
+    url: https://cn.govopendata.com/renminribao/2001/05/14/5/
+    excerpt: true
+    keep: [把城市作为国有资产来整体经营, 环境加外资]
+  - id: u03-guandian-2008-04-11-chen-sentence
+    title: 陈良宇案宣判：一审18年有期徒刑
+    publisher: 观点网
+    date: 2008-04-11
+    voice: official
+    url: https://www.guandian.cn/m/show/72543
+    excerpt: true
+    keep: [胆子大，态度强硬, 诸多老干部的推荐, 黄浦区旧城改造, 黄浦帮]
+  - id: u03-renminbao-2001-12-08-chen-jiang
+    title: 江泽民一手提拔 陈良宇官运亨通
+    publisher: 人民报
+    date: 2001-12-08
+    voice: zh
+    rumor: true
+    url: https://renminbao.com/rmb/articles/2001/12/8/17595p.html
+    excerpt: true
+    keep: [点名时任上海黄浦区区长的陈良宇到英国留学, 一手提携的嫡系人马, 重点培养的跨世纪干部]

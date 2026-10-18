@@ -1,0 +1,27 @@
+# U02: 上位之路 (content/turns/U02.yaml) for 16 fourth/fifth-generation leaders with full biographies — sources for turning points.
+web:
+  - id: u02-people-2021-09-26-xi-zhengding
+    title: 习近平在正定
+    publisher: 中国共产党新闻网
+    date: 2021-09-26
+    voice: official
+    url: https://cpc.people.com.cn/n1/2021/0926/c441139-32237345.html
+    excerpt: true
+    keep: [这是他人生轨迹的重要转折点, 里双店公社试点, 征购指标一下子减掉2800万斤]
+  - id: u02-gmw-2003-03-27-wen-to-beijing
+    title: 温家宝进京
+    publisher: 光明网（文摘报）
+    date: 2003-03-27
+    voice: zh
+    url: https://www.gmw.cn/01wzb/2003-03/27/10-5EF8B7D27B506C2848256CF60003A8C7.htm
+    excerpt: true
+    keep: [不少人都推荐了时任甘肃省地矿局副局长的温家宝, 调研中给孙大光留下深刻印象]
+  - id: u02-mingjing-2013-03-zhang-jiang
+    title: 张德江与江泽民的渊源
+    publisher: 明镜新闻网
+    date: 2013-03
+    voice: zh
+    rumor: true
+    url: http://mingjingnews.blogspot.com/2013/03/blog-post_8869.html
+    excerpt: true
+    keep: [胡耀邦聽取張彙報, 模範自治州, 操流利朝鮮語的張德江陪同出訪]
