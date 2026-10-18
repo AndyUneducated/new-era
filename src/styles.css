@@ -730,7 +730,9 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .pr-name.link:hover { fill: var(--red); }
 .drawer-h { margin: 18px 0 8px; font-size: 12.5px; letter-spacing: 0.2em; color: var(--muted); font-weight: 600; }
 @media (max-width: 860px) {
-  .subnav { top: 56px; }
+  .subnav { top: 56px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-inline: -16px; padding-inline: 16px; }
+  .subnav > * { flex: none; }
+  .subnav-gap { display: none; }
   .spectrum-body { flex-direction: column; }
 }
 .chip.rank { border-color: transparent; background: var(--paper-2); }
@@ -1118,9 +1120,102 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .pg-chip i { width: 7px; height: 7px; border-radius: 50%; }
 .pg-chip .m { font-size: 10.5px; }
 .pg-chip.lv-top { border-color: var(--seal); font-weight: 700; }
+.subnav-gap { flex: 1; }
+.pg-toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--ink-2); cursor: pointer; }
+.pg-two { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.purges .h3 { margin-bottom: 8px; }
+
+.tally { display: grid; gap: 2px; }
+.tally-head { width: 100%; display: grid; grid-template-columns: minmax(96px, 9em) 1fr 96px; align-items: center; gap: 10px; padding: 4px 2px; border: 0; background: transparent; text-align: left; cursor: pointer; color: var(--ink); font: inherit; }
+.tally-head:hover, .tally-row.on .tally-head { background: var(--paper-2); }
+.tally-label { font-size: 13.5px; }
+.tally-bar { height: 12px; background: var(--paper-2); border-radius: 2px; overflow: hidden; }
+.tally-bar i { display: block; height: 100%; border-radius: 2px; }
+.tally-n { font-family: var(--serif); font-weight: 800; font-size: 15px; font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+.tally-n .m { font-family: var(--sans); font-weight: 400; font-size: 11px; margin-left: 2px; }
+.tally-more { justify-self: start; margin-top: 6px; }
+.tally-list { display: flex; flex-wrap: wrap; gap: 5px; padding: 6px 2px 12px; }
+.tally-list p { width: 100%; margin: 0 0 4px; font-size: 12.5px; }
+
+.editor-box { position: relative; margin: 10px 0; padding: 12px 14px 10px; border: 1px dashed var(--gold); border-radius: var(--radius); background: color-mix(in oklab, var(--gold-soft) 40%, var(--card)); font-size: 14px; }
+.editor-box p { margin: 6px 0 4px; }
+.editor-label { display: inline-block; font-size: 11.5px; letter-spacing: .14em; color: var(--gold-2); font-family: var(--fangsong); border-bottom: 1px solid var(--gold); }
+.editor-basis { font-size: 12px; color: var(--muted); }
+.pg-politics { display: grid; gap: 4px; margin-top: 14px; }
+.pg-pol { display: grid; grid-template-columns: 120px 1fr; gap: 12px; align-items: start; }
+.pg-pol-who { display: flex; gap: 8px; align-items: center; padding-top: 14px; color: var(--ink); text-decoration: none; }
+.pg-pol-who b { display: block; font-size: 14px; }
+.pg-pol-who .m { font-size: 11px; }
+
+.wording { overflow-x: auto; background: var(--card); border: 1px solid var(--rule); border-radius: var(--radius); padding: 8px; }
+.wording table { border-collapse: separate; border-spacing: 2px; font-size: 12px; min-width: 100%; }
+.wording th { font-weight: 400; color: var(--ink-2); white-space: nowrap; text-align: right; padding-right: 8px; }
+.wording thead th { text-align: center; padding: 0 0 4px; font-family: var(--mono); font-size: 10.5px; color: var(--muted); }
+.wording td { min-width: 22px; height: 22px; background: var(--paper-2); border-radius: 2px; text-align: center; font-size: 10.5px; font-variant-numeric: tabular-nums; }
+.wording td.n, .wording th.n { background: transparent; font-weight: 700; color: var(--ink); padding-left: 6px; }
+.wording tr.base td, .wording tr.base th { background: transparent; color: var(--muted); font-size: 10.5px; }
+
+.sums, .durations { background: var(--card); border: 1px solid var(--rule); border-radius: var(--radius); padding: 8px 10px 4px; }
+.sums svg, .durations svg, .timing { display: block; }
+.grid-y line, .grid-x line { stroke: var(--rule); }
+.grid-y.strong line { stroke: color-mix(in oklab, var(--seal) 30%, var(--rule)); stroke-dasharray: 3 3; }
+.grid-y text, .grid-x text, .axis-x { font-size: 10.5px; fill: var(--muted); }
+.grid-y.strong text { fill: var(--seal); }
+.dot { cursor: pointer; stroke: var(--card); stroke-width: 1; opacity: .85; }
+.dot:hover { stroke: var(--ink); stroke-width: 1.5; opacity: 1; }
+.dot.early { fill: var(--gold); }
+.dot.late { fill: var(--seal); }
+.dot-key { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; }
+.dot-key.early { background: var(--gold); }
+.dot-key.late, .dot-key.sen { background: var(--seal); }
+.dot-key.exp { background: transparent; border: 1.5px solid var(--ink-2); }
+.dur { cursor: pointer; }
+.dur .exp { fill: none; stroke: var(--ink-2); stroke-width: 1.2; opacity: .6; }
+.dur .sen { fill: var(--seal); opacity: .7; }
+.dur:hover circle { opacity: 1; stroke-width: 2; }
+.med { stroke-width: 2.5; }
+.med.sen { stroke: var(--seal); }
+.med.exp { stroke: var(--ink-2); stroke-dasharray: 4 2; }
+.timing rect.before { fill: var(--seal); }
+.timing rect.after { fill: color-mix(in oklab, var(--seal) 45%, var(--card)); }
+.timing rect:hover { fill: var(--ink); }
+.timing line.cong { stroke: var(--gold); stroke-dasharray: 2 3; }
+.timing text.cong { font-size: 10.5px; fill: var(--gold-2); font-weight: 700; }
+
+.chains { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 12px; }
+.chain { background: var(--card); border: 1px solid var(--rule); border-radius: var(--radius); padding: 10px 12px; }
+.chain-head { display: flex; justify-content: space-between; gap: 8px; border-bottom: 1px solid var(--rule); padding-bottom: 6px; margin-bottom: 6px; font-size: 13.5px; }
+.chain-case + .chain-case { border-top: 1px dashed var(--rule); margin-top: 6px; padding-top: 6px; }
+.chain-lead { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; color: var(--ink); text-decoration: none; }
+.chain-lead .portrait { border-radius: 50%; }
+.chain ul { list-style: none; margin: 4px 0 0; padding: 0 0 0 36px; font-size: 13px; display: grid; gap: 3px; }
+.chain-rel { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 999px; background: var(--red-soft); color: var(--red); margin-right: 4px; }
+.chain-text { color: var(--ink-2); margin: 0 4px; }
+
+.pg-cases { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.pg-case { display: grid; gap: 4px; color: var(--ink); text-decoration: none; }
+.pg-case b { font-family: var(--serif); font-size: 18px; }
+.pg-case p { margin: 0; font-size: 13.5px; color: var(--ink-2); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.pg-case:hover b { color: var(--red); }
+
+.casefile { margin-bottom: 12px; }
+.casefile dl { display: grid; grid-template-columns: 6em 1fr; gap: 6px 14px; margin: 0; font-size: 14px; }
+.casefile dt { color: var(--muted); font-size: 12.5px; padding-top: 2px; }
+.casefile dd { margin: 0; }
+.notice-q { display: inline-block; margin: 0 8px 4px 0; padding: 1px 8px; border-left: 2px solid var(--seal); background: var(--paper-2); font-family: var(--fangsong); }
+.casefile-with { margin-top: 12px; display: grid; gap: 4px; font-size: 13.5px; }
+.case-people { display: flex; flex-wrap: wrap; gap: 10px 14px; margin: 14px 0 6px; }
+.case-person { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); text-decoration: none; font-size: 14px; }
+.case-person .portrait { border-radius: 50%; }
 @media (max-width: 760px) {
   .pg-stats { grid-template-columns: repeat(3, 1fr); }
   .pg-stats > div:nth-child(3n + 1) { border-left: 0; padding-left: 0; }
   .pg-stats b { font-size: 26px; }
   .pg-roll-year { grid-template-columns: 1fr; gap: 4px; }
+  .pg-two { grid-template-columns: 1fr; gap: 18px; }
+  .pg-pol { grid-template-columns: 1fr; gap: 0; }
+  .pg-pol-who { padding-top: 6px; }
+  .tally-head { grid-template-columns: 7.5em 1fr 84px; }
+  .chains { grid-template-columns: 1fr; }
+  .casefile dl { grid-template-columns: 5em 1fr; }
 }

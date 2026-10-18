@@ -24,6 +24,8 @@ describe('caseparse', () => {
     expect(sentenceIn('判处死刑，缓期二年执行')).toEqual({ term: 'death-suspended' })
     expect(amountIn('受贿罪判处死刑缓期二年执行，受贿 1.39 亿余元')).toBe(139000000)
     expect(amountIn('受贿折合 7910 万余元')).toBe(79100000)
+    expect(amountIn('非法收受财物共计折合人民币1.29亿余元，其中周永康本人收受73.11万元')).toBe(129000000)
+    expect(amountIn('受贿 2000 万元，并处没收个人财产 500 万元')).toBe(20000000)
     expect(chargesIn('以利用影响力受贿罪、受贿罪判处')).toEqual(['利用影响力受贿', '受贿'])
   })
   it('tells a suicide from a sentence', () => {

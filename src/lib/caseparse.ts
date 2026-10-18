@@ -1,6 +1,6 @@
 // What the build reads out of a person's fall records: the kind of each step, the charges, the sentence,
 // the sum, and how it ended. A content/falls record overrides what it states.
-import type { CaseRecord, Outcome, Term } from '../data/schema.ts'
+import type { CaseRecord, Discipline, Outcome, Term } from '../data/schema.ts'
 
 export const STEPS = {
   probe: '审查调查',
@@ -116,12 +116,51 @@ export function sentenceIn(text: string): { term: Term; years?: number } | undef
   if (/免予刑事处罚/.test(t)) return { term: 'exempt' }
 }
 
-// a sum in yuan: "受贿 1.39 亿余元", "受贿折合 7910 万余元", "受贿人民币四千余万元" is not read
-const SUM = /(?:受贿|贪污|收受|索取|涉案|非法所得|财物)[^。；]{0,24}?(?:折合|共计|计)?(?:人民币)?\s*([0-9.]+)\s*(亿|万)余?元/
+// a sum in yuan: "受贿 1.39 亿余元", "共计折合人民币7968万余元"; "受贿人民币四千余万元" is not read, nor fines
+const SUM = /(?:受贿|贪污|收受|索取|涉案|非法所得|财物)[^。；]{0,24}?(?:折合|共计|计)?(?:人民币)?\s*([0-9.]+)\s*(亿|万)余?元/g
+// the largest sum named as taken; fines, confiscations and a part (其中……本人) do not count
 export function amountIn(text: string): number | undefined {
-  const m = SUM.exec(text)
-  if (!m) return undefined
-  return Number(m[1]) * (m[2] === '亿' ? 1e8 : 1e4)
+  const sums = [...text.matchAll(SUM)]
+    .filter((m) => !/罚金|罚款|没收|罚没|损失/.test(m[0]) && !/其中|本人/.test(text.slice(Math.max(0, m.index - 8), m.index) + m[0]))
+    .map((m) => Number(m[1]) * (m[2] === '亿' ? 1e8 : 1e4))
+  return sums.length ? Math.max(...sums) : undefined
+}
+
+// the wording of the notices (decisions #41): stock phrases of the CCDI, counted in the full text of each notice
+export const PHRASES: { id: string; label: string; terms: string[] }[] = [
+  { id: 'faith', label: '理想信念丧失', terms: ['理想信念丧失', '丧失理想信念', '背弃理想信念'] },
+  { id: 'disloyal', label: '对党不忠诚不老实', terms: ['对党不忠诚', '不忠诚不老实'] },
+  { id: 'resist', label: '对抗组织审查', terms: ['对抗组织审查', '对抗审查'] },
+  { id: 'twofaced', label: '两面人', terms: ['两面人', '两面派'] },
+  { id: 'clique', label: '搞团团伙伙、拉帮结派', terms: ['团团伙伙', '拉帮结派', '小圈子', '结党营私', '山头主义'] },
+  { id: 'gang', label: '政治团伙、政治野心', terms: ['政治团伙', '政治野心', '野心膨胀', '篡党夺权', '阴谋'] },
+  { id: 'gossip', label: '妄议党中央', terms: ['妄议党中央', '妄议中央'] },
+  { id: 'attach', label: '搞政治攀附', terms: ['政治攀附'] },
+  { id: 'superstition', label: '搞迷信活动', terms: ['迷信活动', '封建迷信'] },
+  { id: 'sex', label: '权色交易、通奸', terms: ['权色交易', '通奸', '不正当性关系', '生活腐化', '道德败坏'] },
+  { id: 'family', label: '家族式腐败', terms: ['家族式腐败', '家风败坏', '纵容亲属', '纵容、默许亲属', '一家两制'] },
+  { id: 'nostop', label: '十八大后不收敛不收手', terms: ['不收敛不收手', '不收敛、不收手'] },
+  { id: 'trade', label: '权钱交易', terms: ['权钱交易'] },
+  { id: 'hunted', label: '甘于被围猎', terms: ['被围猎', '被“围猎”'] },
+  { id: 'soe', label: '靠企吃企', terms: ['靠企吃企'] },
+  { id: 'umbrella', label: '充当保护伞', terms: ['保护伞'] },
+  { id: 'posts', label: '卖官鬻爵、选人用人', terms: ['卖官鬻爵', '买官卖官', '选人用人', '在干部选拔任用'] },
+  { id: 'gifts', label: '违规收受礼金', terms: ['收受礼金', '收受礼品'] },
+  { id: 'feast', label: '公款吃喝、打高尔夫', terms: ['公款吃喝', '高尔夫', '接受宴请', '接受可能影响公正执行公务的宴请'] },
+  { id: 'judiciary', label: '干预司法', terms: ['干预司法', '插手司法'] },
+  { id: 'formalism', label: '形式主义、官僚主义', terms: ['形式主义', '官僚主义', '政绩观'] },
+  { id: 'report', label: '不如实报告个人事项', terms: ['个人有关事项', '不如实说明', '组织函询时不如实'] },
+]
+export const phrasesIn = (text: string) => PHRASES.filter((x) => x.terms.some((t) => text.includes(t))).map((x) => x.id)
+
+const DISC: Record<string, Discipline> = { 政治: 'political', 组织: 'organization', 廉洁: 'integrity', 群众: 'mass', 工作: 'work', 生活: 'life' }
+// "严重违反党的政治纪律、组织纪律、廉洁纪律和生活纪律"; "违反中央八项规定精神"
+export function disciplinesIn(text: string): Discipline[] {
+  const out = new Set<Discipline>()
+  for (const m of text.matchAll(/违反(?:了)?(?:党的)?((?:(?:政治|组织|廉洁|群众|工作|生活)纪律[、和及与，]*)+)/g))
+    for (const k of m[1].matchAll(/(政治|组织|廉洁|群众|工作|生活)纪律/g)) out.add(DISC[k[1]])
+  if (/八项规定/.test(text)) out.add('eight')
+  return [...out]
 }
 
 export interface FallStep { date: string; text: string; cite: string }
@@ -136,10 +175,21 @@ export interface Parsed {
   on?: string
   expelled?: string
   sentenced?: string
+  // stock phrases found in the full text of the notice, and the disciplines it names
+  phrases: string[]
+  disc: Discipline[]
 }
 
-export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecord, 'file'>): Parsed {
-  const steps = [...fall].sort((a, b) => a.date.localeCompare(b.date)).map((f) => ({ date: f.date, kind: stepOf(f.text), text: f.text }))
+// `text` gives the full text of a cited source, for the notice and the verdict behind the steps
+export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecord, 'file'>, text: (cite: string) => string | undefined = () => undefined): Parsed {
+  const steps = [...fall].sort((a, b) => a.date.localeCompare(b.date)).map((f) => ({ date: f.date, kind: stepOf(f.text), text: f.text, cite: f.cite }))
+  // the notice: the one named in the record, else the expulsion's or the punishment's source
+  const noticeCite = rec?.notice?.cite ?? steps.find((s) => s.kind === 'expelled')?.cite ?? steps.find((s) => s.kind === 'disciplined')?.cite
+  const notice = (noticeCite && text(noticeCite)) || ''
+  const verdict = steps
+    .filter((s) => s.kind === 'sentenced')
+    .map((s) => text(s.cite) ?? '')
+    .join('\n')
   const charges = [...new Set(steps.flatMap((s) => (s.kind === 'sentenced' || s.kind === 'charged' || s.kind === 'expelled' ? chargesIn(s.text) : [])))]
   const sentencedStep = steps.find((s) => s.kind === 'sentenced' && sentenceIn(s.text))
   const parsedSentence = steps
@@ -148,7 +198,7 @@ export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecor
     .filter(Boolean)
     .at(-1)
   const sentence = rec?.sentence ? { term: rec.sentence.term, years: rec.sentence.years } : parsedSentence
-  const yuan = rec?.amount?.yuan ?? steps.map((s) => amountIn(s.text)).find((x) => x !== undefined)
+  const yuan = rec?.amount?.yuan ?? steps.map((s) => amountIn(s.text)).find((x) => x !== undefined) ?? amountIn(verdict)
   const has = (k: Step) => steps.some((s) => s.kind === k)
   const all = steps.map((s) => s.text).join(' ')
   const outcome: Outcome =
@@ -157,7 +207,7 @@ export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecor
       ? 'missing'
       : /自缢|自杀|坠楼身亡/.test(all)
         ? 'suicide'
-        : has('died') || (status === 'dead' && steps.length)
+        : sentence?.term !== 'death' && (has('died') || (status === 'dead' && steps.length && !sentence))
           ? 'died'
           : /外逃|出逃|潜逃|滞留境外/.test(all)
             ? 'fled'
@@ -180,5 +230,7 @@ export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecor
     on: steps[0]?.date,
     expelled: steps.find((s) => s.kind === 'expelled')?.date,
     sentenced: rec?.sentence?.date ?? sentencedStep?.date,
+    phrases: phrasesIn([notice, ...(rec?.notice?.quotes ?? [])].join('\n')),
+    disc: rec?.discipline?.length ? rec.discipline : disciplinesIn(notice),
   }
 }

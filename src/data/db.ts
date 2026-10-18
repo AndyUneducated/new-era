@@ -1,7 +1,10 @@
 // The shape of public/data/db.json (tools/build/emit.ts) and the lookups every view shares.
-import type { Chapter, Chief, Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Ism, LinePoint, Person, PressTerm, Quote, Relation, Source } from './schema'
+import type { Parsed } from '../lib/caseparse'
+import type { Case, CaseRecord, Chapter, Chief, Concept, Congress, CorpusDoc, Event, Faction, FactionTag, Frame, Ism, LinePoint, Person, PressTerm, Quote, Relation, Source, TurnRecord } from './schema'
 
-export type PersonR = Person & { quotes: Quote[] }
+// a fall: what the build read from the fall records, and the case record where one has been written
+export type CaseR = Parsed & Partial<Omit<CaseRecord, 'with' | 'voices' | 'discipline' | 'fall'>> & Pick<CaseRecord, 'with' | 'voices' | 'discipline'>
+export type PersonR = Person & { quotes: Quote[]; case?: CaseR; turn?: TurnRecord }
 // counts: concept id → occurrences; isms and press the same for isms and press terms
 export type CorpusR = CorpusDoc & { title: string; chars: number; counts: Record<string, number>; isms: Record<string, number>; press: Record<string, number> }
 export type SourceR = Source & { chars: number }
@@ -20,6 +23,7 @@ export interface DB {
   press: PressTerm[]
   story: Chapter[]
   chiefs: Chief[]
+  cases: Case[]
   // growth targets read from the government work reports (tools/build/emit.ts); lo and hi are null when none was set
   targets: { year: number; label: string; lo: number | null; hi: number | null; quote: string; cite: string }[]
   sources: SourceR[]
@@ -61,6 +65,7 @@ export class Atlas {
     db.story ??= []
     db.chiefs ??= []
     db.targets ??= []
+    db.cases ??= []
     for (const m of db.isms) this.ism.set(m.id, m)
     for (const p of db.people) this.person.set(p.id, p)
     for (const r of db.relations ?? []) {

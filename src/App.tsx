@@ -6,6 +6,7 @@ import { href, useRoute } from './lib/router'
 import { useTheme } from './lib/theme'
 import { useAtlas } from './state'
 import { About } from './views/About'
+import { CasePage } from './views/CasePage'
 import { ConceptPage } from './views/ConceptPage'
 import { FactionPage } from './views/FactionPage'
 import { Factions } from './views/Factions'
@@ -61,7 +62,7 @@ export function App() {
   if (top === 'people') view = id ? <PersonPage key={id} id={id} /> : <People />
   else if (top === 'factions') view = id ? <FactionPage key={id} id={id} /> : <Factions />
   else if (top === 'provinces') view = <Provinces />
-  else if (top === 'purges') view = <Purges />
+  else if (top === 'purges') view = id ? <CasePage key={id} id={id} /> : <Purges />
   else if (top === 'timeline') view = <Timeline />
   else if (top === 'ideas') view = id ? <ConceptPage key={id} id={id} /> : <Ideas />
   else if (top === 'about') view = <About />

@@ -104,7 +104,17 @@ export function compile(d: Data) {
       died: p.died ?? wd?.died,
       birthplace: p.birthplace ?? wd?.birthplace,
       quotes: d.quotes.get(p.id) ?? [],
-      case: p.fall.length || rec ? { ...strip(rec), ...parseFall(p.fall, p.status, rec), with: (rec?.with ?? []).map((x) => ({ ...x, id: x.id && known.has(x.id) ? x.id : undefined })) } : undefined,
+      case:
+        p.fall.length || rec
+          ? {
+              ...strip(rec),
+              ...parseFall(p.fall, p.status, rec, (c) => d.texts.get(c.split('@')[0])),
+              fall: undefined,
+              with: (rec?.with ?? []).map((x) => ({ ...x, id: x.id && known.has(x.id) ? x.id : undefined })),
+              voices: rec?.voices ?? [],
+              discipline: rec?.discipline ?? [],
+            }
+          : undefined,
       turn: turn ? { ...strip(turn), turns: turn.turns.map((t) => ({ ...t, who: t.who.filter((id) => known.has(id)) })) } : undefined,
     }
   })

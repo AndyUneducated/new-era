@@ -496,6 +496,7 @@ export const TERMS = {
   exempt: '免予刑事处罚',
 } as const
 export type Term = keyof typeof TERMS
+// an executed official counts as sentenced; died is for deaths under investigation or in prison
 export const OUTCOMES = {
   probe: '审查调查中',
   expelled: '已开除，待审判',

@@ -1,5 +1,6 @@
 import { Career } from '../components/Career'
 import { Network } from '../components/Network'
+import { CaseFile } from '../components/purges/CaseFile'
 import { FactionChip, Portrait, Prose, Section, Src, Srcs, Status, VoiceTag } from '../components/bits'
 import { SEATS } from '../data/db'
 import { QUOTE_KINDS, ROLES } from '../data/schema'
@@ -170,6 +171,7 @@ export function PersonPage({ id }: { id: string }) {
 
           {p.fall.length > 0 && (
             <Section title="落马经过">
+              <CaseFile p={p} />
               <div className="card pad fall">
                 {p.fall.map((f, i) => (
                   <div key={i}>
