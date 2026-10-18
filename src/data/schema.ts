@@ -599,6 +599,10 @@ export const ROUTES = {
   veteran: '革命资历',
   echelon: '第三梯队与干部年轻化',
   worker: '工人与劳模',
+  staff: '中办与政研幕僚',
+  mass: '群团（工会、妇联）',
+  comeback: '降级后复起',
+  successor: '接手落马者的位置',
 } as const
 export type Route = keyof typeof ROUTES
 export const RUNGS = { county: '县处级', bureau: '厅局级', vice: '副部级', minister: '正部级', pb: '政治局委员', psc: '政治局常委' } as const

@@ -56,7 +56,7 @@ hu-jintao:
   deep: true
 
 wen-jiabao:
-  routes: [technocrat, patron, secretary]
+  routes: [technocrat, staff, patron]
   rungs:
     - { rung: bureau, date: 1982, post: 地质矿产部政策法规研究室主任、党组成员, cite: b02-gov-2008-03-16-wen-resume }
     - { rung: vice, date: 1983, post: 地质矿产部副部长, cite: b02-gov-2008-03-16-wen-resume }
@@ -522,7 +522,7 @@ zhang-gaoli:
     cites: [b05-orientaldaily-2021-11-04-zhang]
 
 li-zhanshu:
-  routes: [patron, local, youth, secretary]
+  routes: [patron, local, staff, youth]
   rungs:
     - { rung: county, date: 1983, post: 河北省无极县委书记, cite: b05-xinhua-2018-03-17-li-zhanshu-resume }
     - { rung: bureau, date: 1985, post: 河北省石家庄地委副书记、行署专员, cite: b05-xinhua-2018-03-17-li-zhanshu-resume }
@@ -716,7 +716,7 @@ li-keqiang:
     cites: [f01-brookings-2017-new-politburo, bbc-2023-10-27-li-keqiang]
 
 wang-huning:
-  routes: [scholar, writer, patron]
+  routes: [scholar, staff, writer, patron]
   rungs:
     - { rung: bureau, date: 1995, post: 中央政策研究室政治组组长, cite: b05-xinhua-2017-10-25-wang-huning-resume }
     - { rung: vice, date: 1998, post: 中央政策研究室副主任, cite: b05-xinhua-2017-10-25-wang-huning-resume }

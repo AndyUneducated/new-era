@@ -208,7 +208,7 @@
 
 人物 id → 一条记录，字段见 `schema.ts` 的 `TurnRecordSchema`，样例 `content/turns/00-exemplar.yaml`（胡春华，照着它的分寸写）。一人一条，两个批次写同一人会报错。
 
-- `routes`（编者分类，最主要的放第一）：`secretary` 秘书、`youth` 共青团、`local` 地方实干、`technocrat` 技术官僚、`industry` 军工航天与国企、`princeling` 红二代、`frontier` 边疆与艰苦地区、`patron` 跟对领导、`crisis` 危机处置、`writer` 笔杆子、`scholar` 学者从政、`army` 军中、`law` 政法、`ccdi` 纪检、`base` 基层与知青、`veteran` 革命资历（开国一代）、`echelon` 第三梯队与干部年轻化（1982–85 年那一波破格提拔）、`worker` 工人与劳模出身。
+- `routes`（编者分类，最主要的放第一）：`secretary` 秘书、`youth` 共青团、`local` 地方实干、`technocrat` 技术官僚、`industry` 军工航天与国企、`princeling` 红二代、`frontier` 边疆与艰苦地区、`patron` 跟对领导、`crisis` 危机处置、`writer` 笔杆子、`scholar` 学者从政、`army` 军中、`law` 政法、`ccdi` 纪检、`base` 基层与知青、`veteran` 革命资历（开国一代）、`echelon` 第三梯队与干部年轻化（1982–85 年那一波破格提拔）、`worker` 工人与劳模出身、`staff` 中办与政研室幕僚（起草、协调，不是给个人当秘书）、`mass` 群团（工会、妇联、青联，团中央仍用 `youth`）、`comeback` 降级或外放后复起、`successor` 接手落马者留下的位置。姻亲关系写进 `who`，不另设路线；宣传、组织人事、金融救火按所在系统归 `local`/`technocrat`/`crisis`，在 `did` 里写明。
 - `rungs`：迈上各级台阶的时间，`county` 县处级、`bureau` 厅局级、`vice` 副部级、`minister` 正部级、`pb` 政治局委员、`psc` 政治局常委，每级取**第一次**任该级职务的年份（或年月），`post` 写那个职务，按时间先后排。页面据此算年龄并和所有已整理者的中位数比较，所以年份要准；拿不准的级别不写。
 - `turns`：2–4 个转折点，每个是“哪一年、哪件事让他脱颖而出或上了一个台阶”。`h` 是 4–8 字的小标题；`text` 写发生了什么（任命、事件、被谁看中，照来源写）；`did` 用一两句大白话写**他本人做了什么**，让普通读者看得懂、能对照自己的工作；`who` 列起了关键作用的人的 id（只列有报道指明其作用的，例如提拔他的上级、他做秘书时的首长）；`cites` 列来源。`text` 和 `did` 都按传记正文核对引号里的原话。
 - `can` / `cannot`（编者分析，必有依据）：`can` 写这条路上普通人可以学的做法（去艰苦岗位、在危机中顶上、把领导交办的事做成样板……）；`cannot` 写靠出身、机遇、靠山、时代窗口得来、个人学不来的部分。口吻中性，不说教，不夸大。
