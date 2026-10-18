@@ -216,9 +216,9 @@
 - `deep: true`：转折点写得最细、有反例的几位（每批 3–5 人），会出现在上位之路页的“深度案例”里。
 - 来源优先：官方简历（新华网、人民网的任职简历）写台阶；报道写事件和关系（财新、澎湃、端传媒、BBC、法广、中央社、纽约时报等）；回忆录与传闻可在 `text` 里注明“据……”，但台阶和任职只用可靠来源。
 
-## 13. 案件专题（`content/cases/<id>.yaml`，第七轮起，decisions #46）
+## 13. 案件专题（`content/cases/<批次>.yaml`，第七轮起，decisions #46）
 
-一篇一个文件，字段见 `CaseSchema`：`kind` 为 `case` 单个大案、`cluster` 一地塌方（山西、四川、云南、内蒙古……）、`system` 一个系统（石油帮、政法、火箭军、装备发展部、金融……）。`summary` 两三句；`sections` 是正文，每段 `h`、起止、`text`、`cites`，按传记正文核对引号；`editor` 是编者分析段落（每段有 `cites`），与正文分开显示；`voices` 收各方说法；`people` 列涉案人物 id（必须已有卡，没有就先建卡）；`events` 列相关事件 id。
+和其他目录一样一个批次一个文件（YAML 列表，一项一篇；构建靠文件名跳过别的在做的批次）。字段见 `CaseSchema`：`kind` 为 `case` 单个大案、`cluster` 一地塌方（山西、四川、云南、内蒙古……）、`system` 一个系统（石油帮、政法、火箭军、装备发展部、金融……）。`summary` 两三句；`sections` 是正文，每段 `h`、起止、`text`、`cites`，按传记正文核对引号；`editor` 是编者分析段落（每段有 `cites`），与正文分开显示；`voices` 收各方说法；`people` 列涉案人物 id（必须已有卡，没有就先建卡）；`events` 列相关事件 id。
 
 ## 14. 思想深化（`content/concepts/<批次>.yaml`，M9，decisions #52–#53）
 

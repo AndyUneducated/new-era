@@ -21,6 +21,27 @@
 
 接着做 `research/falls-list/R06.yaml`（剩 99 人，从黄日波、戴玉林、李伟（江西）、贺志亮、卞志刚开始）、`R05.yaml`（剩 20 人）、`R03.yaml`（李建波）里 `done: false` 的人。**不要改那几份名单文件**；做完的人记在 `research/falls-list/R07.yaml`（同格式，注明原名单）。卡写 `content/people/R07.yaml`，记录写 `content/falls/R07.yaml`。
 
+## PH3、PH4：彩色照片（续）
+
+清单 `research/photo-PH3.md`、`research/photo-PH4.md`（各 180 人，由 `research/scripts/photo-lists.ts` 生成：PH3 先是 PH1 没做完的第 131–180 行和两张还是黑白的照片，然后是还没照片的落马者，按职级排；PH4 接着排）。做法同 `round6.md` 的 PH 批次和 howto §11。PH1、PH2 的经验：
+
+- 百度百科网页抓取会弹验证码，用百科卡片接口批量查主图；**接口按名字只返回默认词条，同名者常查错**，必须核对职务。查不到时用 `subview/<数字>/<数字>.htm` 形式的词条链接。
+- 页面链接里含中文时下载工具会把它当 Referer 发送而报错，改用数字形式的链接。
+- 360 百科查二十多次后限流。
+- 会场、庭审截图可用，但要设 `focus` 对准脸；看不清脸的宁可缺。
+- 做到 120 人左右或清单做完就停。
+
+## CS1、CS2：案件专题长文
+
+按 howto §13 写进 **`content/cases/<批次>.yaml`**（YAML 列表，一项一篇；构建按文件名识别在做的批次），`id` 用下面的英文名。每篇：`summary` 两三句；`sections` 4–7 段（起因、案发经过、涉案人和关系、处理结果、后续影响）；`editor` 1–3 段编者分析（与政治斗争的关系、制度原因、为什么这样处理），每段有 `cites`；`voices` 收官方、外媒、学者的不同说法；`people` 只列已有卡的人（Grep `content/people/`），缺卡的写在回报里，不要为了写专题新建卡。素材先用已整合的案件记录（`content/falls/*.yaml` 的 `notice`、`with`、`politics`）和其中引用的来源，再补新来源。
+
+| 批次 | 专题 |
+|---|---|
+| CS1 | `zhou-yongkang-network` 周永康案与石油、政法、四川三线；`cnpc-system` 石油系统（蒋洁敏、廖永远、王永春、苏树林、王天普……）；`xishanhui` 令计划与“西山会”；`shanxi-collapse` 山西塌方；`liaoning-vote-buying` 辽宁拉票贿选案；`hengyang-election` 衡阳破坏选举案；`china-resources` 华润（宋林）；`csrc-2015` 2015 年股灾后的证监会 |
+| CS2 | `sun-lijun-clique` 孙力军政治团伙（傅政华、王立科、龚道安、邓恢林、刘新云、刘彦平）；`finance-2023` 2023 年起金融系统反腐；`mca-lottery` 民政部福彩系统；`demotions-2016` 2016-01-29 十名中管干部“断崖式降级”；`tobacco-system` 烟草系统；`football` 足球反腐（陈戌源、杜兆才、李铁）；`guizhou` 贵州（王富玉、蒲波、王晓光、周建琨……）；`yunnan-collapse` 云南（白恩培、仇和、秦光荣、沈培平……） |
+
+军队专题（谷俊山、郭徐流毒、火箭军、装备发展部、2024–25 年军委清洗）等 A01、A02 建完卡后另开批次。
+
 ## 完成时回报
 
 按 §9。另写：名单总人数、已有条目人数、新建卡数、案件记录数、剩余人数；`politics` 各档人数；下落不明的人及最后露面；通报里反复出现的定性用语；建议写长文的案子（A 批次：谷俊山案、郭徐流毒清理、2017 年十九大前的军委换班、火箭军案、装备部与航天军工、2024–25 年军委清洗）。
