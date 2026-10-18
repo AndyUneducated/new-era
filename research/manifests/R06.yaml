@@ -1,0 +1,279 @@
+# R06 (round 6): centrally managed cadres first named by the CCDI / NSC since 2024-01. Sources here fill what other
+# batches had not registered: expulsion notices, probe notices, and the two new cards (李钺锋, 秦如培).
+# www.ccdi.gov.cn answers scripted requests with a captcha page, so CCDI notices are Wayback raw snapshots (id_)
+# or Xinhua / procuratorate / court reprints of the same text.
+web:
+  # expulsion notices
+  - id: r06-xinhua-2026-01-07-wu-shenghua-expel
+    title: 贵州省委原常委、毕节市委原书记吴胜华严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-01-07
+    voice: official
+    url: https://www.news.cn/20260107/9b4ef97fd35442b48b9f074f287ecc18/c.html
+    start: 新华社北京1月7日电
+    end: 待召开中央委员会全体会议时予以追认。
+  - id: r06-xinhua-2025-07-22-qi-zhala-expel
+    title: 十四届全国政协原常委、农业和农村委员会原副主任齐扎拉严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2025-07-22
+    voice: official
+    url: https://www.news.cn/20250722/e07c7f2291454f578454de0c750310b0/c.html
+    start: 新华社北京7月22日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2026-09-11-lei-siwei-expel
+    title: 甘肃省委原常委、省政府原副省长雷思维严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-09-11
+    voice: official
+    url: http://www.xinhuanet.com/20260911/d6e4ef79d8914a75b91372f7dcb49ac2/c.html
+    start: 新华社北京9月11日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2026-06-05-wang-fengchao-expel
+    title: 四川省成都市委原副书记、原市长王凤朝严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-06-05
+    voice: official
+    url: https://www.news.cn/legal/20260605/c48b83b87987450ab54b1ed502aa8bde/c.html
+    start: 新华社北京6月5日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2026-04-13-jiang-duntao-expel
+    title: 重庆市政府原党组成员、副市长江敦涛严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-04-13
+    voice: official
+    url: https://www.news.cn/legal/20260413/80a70b9c72ec482b9f6b8b161fcebe5a/c.html
+    start: 新华社北京4月13日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2026-02-06-ni-qiang-expel
+    title: 海南省委原常委、秘书长倪强严重违纪违法被开除党籍和公职
+    publisher: 新华网（转载中央纪委国家监委网站）
+    date: 2026-02-06
+    voice: official
+    url: https://www.news.cn/legal/20260206/beaeaf1d9a784cf5ba68ab5541625e74/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2026-06-15-ni-qiang-charged
+    title: 广西检察机关依法对倪强涉嫌受贿案提起公诉
+    publisher: 新华网
+    date: 2026-06-15
+    voice: official
+    url: https://www.news.cn/legal/20260615/1dfe5b3395fc4da9bd9f6680378f15b2/c.html
+    start: 新华社北京6月15日电
+    end: 依法应当以受贿罪追究其刑事责任。
+  - id: r06-people-2026-01-04-feng-zhibin-expel
+    title: 原中化集团党组成员、副总经理冯志斌严重违纪违法被开除党籍
+    publisher: 人民网（转载新华网）
+    date: 2026-01-04
+    voice: official
+    url: http://society.people.com.cn/n1/2026/0104/c1008-40638537.html
+    start: 新华社北京1月4日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-11-24-ye-hanbing-expel
+    title: 四川省原副省长、公安厅原厅长叶寒冰严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2025-11-24
+    voice: official
+    url: http://www.news.cn/legal/20251124/8256c311caab4b30951548f3f6cbf12d/c.html
+    start: 新华社北京11月24日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-09-04-zhou-derui-expel
+    title: 天津市委原常委、组织部原部长周德睿严重违纪违法被开除党籍和公职
+    publisher: 新华网（转载中央纪委国家监委网站）
+    date: 2025-09-04
+    voice: official
+    url: http://www.news.cn/legal/20250904/7d37433ab82045088001a7ac00c180fd/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-07-30-chen-shifei-expel
+    title: 国家药监局原党组成员、副局长陈时飞严重违纪违法被开除党籍
+    publisher: 新华网
+    date: 2025-07-30
+    voice: official
+    url: http://www.news.cn/20250730/5348548d50df45babf353e2e3976c9ad/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-04-23-zhang-gengsheng-expel
+    title: 中国建设银行原党委委员、副行长章更生严重违纪违法被开除党籍
+    publisher: 新华网
+    date: 2025-04-23
+    voice: official
+    url: http://www.news.cn/20250423/866eb0f653aa459a8a4eab9f395b2683/c.html
+    start: 新华社北京4月23日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-04-23-lu-kehua-expel
+    title: 重庆市委原常委、政法委原书记陆克华严重违纪违法被开除党籍和公职
+    publisher: 新华网（转载中央纪委国家监委网站）
+    date: 2025-04-23
+    voice: official
+    url: https://www.news.cn/20250423/505e57a83bfe4ce7bc144c403b305105/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-03-14-qi-tongsheng-expel
+    title: 宁夏回族自治区政协原党组书记、主席齐同生严重违纪违法被开除党籍
+    publisher: 新华网（转载中央纪委国家监委网站）
+    date: 2025-03-14
+    voice: official
+    url: https://www.news.cn/legal/20250314/8b00babe620e44e99890718bf44e1b50/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2025-03-14-sun-yuning-expel
+    title: 海关总署原党委委员、副署长孙玉宁严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2025-03-14
+    voice: official
+    url: http://www.news.cn/20250314/1453bb0987804bd78a785597bcd97283/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-people-2025-03-02-du-yubo-expel
+    title: 十三届全国人大教科文卫委员会副主任委员杜玉波严重违纪违法被开除党籍
+    publisher: 人民网（转载人民日报）
+    date: 2025-03-02
+    voice: official
+    url: http://cpc.people.com.cn/n1/2025/0303/c64387-40429401.html
+    start: 本报北京3月2日电
+    end: 所涉财物一并移送。
+  - id: r06-rmrb-2024-12-12-gou-zhongwen-expel
+    title: 十四届全国政协原常委、民族和宗教委员会原副主任苟仲文严重违纪违法被开除党籍和公职
+    publisher: 人民日报
+    date: 2024-12-12
+    voice: official
+    url: http://paper.people.com.cn/rmrb/pc/content/202412/13/content_30045575.html
+    start: 本报北京12月12日电
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2024-10-22-gao-peng-expel
+    title: 北京市政府原党组成员、副市长高朋严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2024-10-22
+    voice: official
+    url: http://www.news.cn/legal/20241022/7884ffaaacdc43ed819949d68e7233b4/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-xinhua-2024-10-11-qin-rupei-expel
+    title: 广西壮族自治区党委原常委、自治区政府原副主席秦如培严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2024-10-11
+    voice: official
+    url: http://www.xinhuanet.com/20241011/1e949ebb38764289ab98a801771b45df/c.html
+    start: 经中共中央批准
+    end: 所涉财物一并移送。
+  - id: r06-people-2024-10-11-li-yuefeng-dismissed
+    title: 十四届全国人大原常委、台盟中央原常务副主席李钺锋严重职务违法被开除公职
+    publisher: 人民网（转载新华网）
+    date: 2024-10-11
+    voice: official
+    url: http://politics.people.com.cn/n1/2024/1011/c1001-40337346.html
+    start: 新华社北京10月11日电
+    end: 所涉财物一并移送。
+  # verdicts
+  - id: r06-court-2025-07-03-li-yuefeng-verdict
+    title: 第十四届全国人大常委会原委员、监察和司法委员会原副主任委员，台盟中央原常务副主席李钺锋受贿案一审宣判
+    publisher: 最高人民法院网站
+    date: 2025-07-03
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/469761.html
+    start: 2025年7月3日，山西省太原市中级人民法院
+    end: 旁听了庭审。
+  - id: r06-court-2025-08-06-qin-rupei-verdict
+    title: 广西壮族自治区党委原常委、自治区政府原副主席秦如培受贿案一审宣判
+    publisher: 最高人民法院网站
+    date: 2025-08-06
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/473021.html
+    start: 2025年8月6日，四川省德阳市中级人民法院
+    end: 旁听了庭审。
+  # probe notices (CCDI, Wayback raw snapshots)
+  - id: r06-ccdi-2025-09-09-lin-jingzhen-probe
+    title: 中国银行原党委委员、副行长林景臻接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2025-09-09
+    voice: official
+    url: https://web.archive.org/web/20250911050729id_/https://www.ccdi.gov.cn/toutiaon/202509/t20250909_446409.html
+    start: 中央纪委国家监委网站讯
+    end: 调查。
+  - id: r06-xinhua-2025-07-04-feng-zhibin-probe
+    title: 原中国中化集团有限公司党组成员、副总经理冯志斌接受审查调查
+    publisher: 新华网
+    date: 2025-07-04
+    voice: official
+    url: http://www.news.cn/20250704/16135765762346349b070c7cd998612a/c.html
+    start: 新华社北京7月4日电
+    end: 调查。
+  - id: r06-ccdi-2025-03-13-zhou-derui-probe
+    title: 天津市委常委、组织部部长周德睿接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2025-03-13
+    voice: official
+    url: https://web.archive.org/web/20250503013758id_/https://www.ccdi.gov.cn/toutiaon/202503/t20250313_410741.html
+    start: 中央纪委国家监委网站讯
+    end: 调查。
+  - id: r06-xinhua-2024-12-16-wu-cunrong-probe
+    title: 山西省政协党组书记、主席吴存荣接受审查调查
+    publisher: 新华网
+    date: 2024-12-16
+    voice: official
+    url: http://www.news.cn/legal/20241216/ce968ceb90f945ab848b811210a62864/c.html
+    start: 新华社北京12月16日电
+    end: 调查。
+  - id: r06-xinhua-2024-11-04-lu-kehua-probe
+    title: 重庆市委常委、政法委书记陆克华接受审查调查
+    publisher: 新华网
+    date: 2024-11-04
+    voice: official
+    url: http://www.news.cn/20241104/73c6f59a869a49859bc2db728201a5d0/c.html
+    start: 新华社北京11月4日电
+    end: 调查。
+  - id: r06-xinhua-2024-10-21-zhang-xiaolian-probe
+    title: 十三届全国政协经济委员会副主任张效廉接受中央纪委国家监委纪律审查和监察调查
+    publisher: 新华网
+    date: 2024-10-21
+    voice: official
+    url: http://www.news.cn/20241021/0b016f07b2fe44f780b86042440e1586/c.html
+    start: 新华社北京10月21日电
+    end: 调查。
+  - id: r06-ccdi-2024-04-21-gao-peng-probe
+    title: 北京市政府党组成员、副市长高朋接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2024-04-21
+    voice: official
+    url: https://web.archive.org/web/2025id_/https://www.ccdi.gov.cn/scdcn/zggb/zjsc/202404/t20240421_342816.html
+    start: 中央纪委国家监委网站讯
+    end: 调查。
+  - id: r06-ccdi-2024-04-16-qin-rupei-probe
+    title: 广西壮族自治区党委原常委、自治区政府原副主席秦如培接受中央纪委国家监委纪律审查和监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2024-04-16
+    voice: official
+    url: https://web.archive.org/web/2025id_/https://www.ccdi.gov.cn/toutiaon/202404/t20240416_341559.html
+    start: 中央纪委国家监委网站讯
+    end: 调查。
+  - id: r06-ccdi-2024-03-23-li-yuefeng-probe
+    title: 台盟中央常务副主席李钺锋接受国家监委监察调查
+    publisher: 中央纪委国家监委网站
+    date: 2024-03-23
+    voice: official
+    url: https://web.archive.org/web/20241213235107id_/https://www.ccdi.gov.cn/toutiaon/202403/t20240323_336494.html
+    start: 中央纪委国家监委网站讯
+    end: 调查。
+  # careers for the two new cards
+  - id: r06-bjnews-2024-03-23-li-yuefeng
+    title: 台盟中央常务副主席李钺锋，被查
+    publisher: 新京报
+    date: 2024-03-23
+    voice: zh
+    url: https://www.bjnews.com.cn/detail/1711178045129388.html
+    excerpt: true
+    keep: [ 1958年7月出生于重庆市渝中区, 2004年11月至2012年11月任重庆市人民检察院第一分院副检察长, 2017年12月至今任台盟中央常务副主席, 第十三、十四届全国人大常委会委员 ]
+  - id: r06-wiki-li-yuefeng
+    title: 李钺锋（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/李钺锋
+    excerpt: true
+    keep: [ 李钺锋（1958年7月—）, 2024年3月23日，李钺锋因涉嫌严重职务违法 ]
+  - id: r06-wiki-qin-rupei
+    title: 秦如培（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/秦如培
+    excerpt: true
+    keep: [ 秦如培（1962年10月—）, 秦如培于1983年8月参加工作, 2012年4月获任中共贵州省委常委, 2018年1月，转任中共广西壮族自治区委员会常委, 2024年4月16日，他因涉嫌严重违纪违法 ]

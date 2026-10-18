@@ -1,0 +1,59 @@
+# R06: tiger dossier cards for centrally managed cadres first notified from 2024 on who had no card yet.
+- id: li-yuefeng
+  name: 李钺锋
+  gender: m
+  ethnicity: 汉族
+  born: 1958-07
+  birthplace: 重庆渝中
+  origin: 台湾中坜
+  roles: [tiger]
+  status: detained
+  statusNote: 2025 年 7 月被太原中院以受贿罪判处无期徒刑。
+  fall:
+    - { date: 2024-03-23, text: 国家监委宣布其涉嫌严重职务违法，接受监察调查, cite: r06-ccdi-2024-03-23-li-yuefeng-probe }
+    - { date: 2024-05-29, text: 第十四届全国人大代表职务被罢免, cite: r06-wiki-li-yuefeng }
+    - { date: 2024-06-28, text: 全国人大常委会委员、监察和司法委员会副主任委员职务相应撤销, cite: r06-wiki-li-yuefeng }
+    - { date: 2024-10-11, text: 由国家监委给予开除公职处分，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r06-people-2024-10-11-li-yuefeng-dismissed }
+    - { date: 2025-07-03, text: 太原中院以受贿罪判处无期徒刑，受贿 9342 万余元, cite: r06-court-2025-07-03-li-yuefeng-verdict }
+  tier: 2
+  headline: 台盟中央原常务副主席、十四届全国人大常委会原委员
+  ids: { wikidata: Q11098229 }
+  bio: >-
+    律师出身的台盟党外干部，任重庆市检察院副检察长、重庆市政协副主席，2017 年起任台盟中央常务副主席（正部长级）。2024 年 3 月被国家监委调查，是二十大后首个被查的民主党派领导人；10 月被开除公职，2025 年 7 月被以受贿罪判处无期徒刑，法院认定受贿 9342 万余元。
+  positions:
+    - { title: 重庆市人民检察院第一分院副检察长, sys: other, place: 重庆, from: 2004-11, to: 2012-11, cite: r06-bjnews-2024-03-23-li-yuefeng }
+    - { title: 重庆市人民检察院副检察长, sys: other, place: 重庆, from: 2012-11, to: 2018-09, cite: r06-bjnews-2024-03-23-li-yuefeng }
+    - { title: 重庆市政协副主席, sys: other, place: 重庆, from: 2013-01, to: 2018-01, cite: r06-bjnews-2024-03-23-li-yuefeng }
+    - { title: 台盟中央常务副主席（正部长级）, sys: other, from: 2017-12, to: 2024-10, cite: r06-bjnews-2024-03-23-li-yuefeng }
+    - { title: 全国人大常委会委员, sys: gov, from: 2018-03, to: 2024-06, cite: r06-bjnews-2024-03-23-li-yuefeng }
+    - { title: 全国人大监察和司法委员会副主任委员, sys: gov, from: 2023-03, to: 2024-06, cite: r06-wiki-li-yuefeng }
+  cites: [r06-bjnews-2024-03-23-li-yuefeng, r06-ccdi-2024-03-23-li-yuefeng-probe, r06-people-2024-10-11-li-yuefeng-dismissed, r06-court-2025-07-03-li-yuefeng-verdict, wd-Q11098229]
+
+- id: qin-rupei
+  name: 秦如培
+  gender: m
+  born: 1962-10
+  birthplace: 贵州江口
+  joinedParty: 1985-07
+  roles: [tiger]
+  status: detained
+  statusNote: 2025 年 8 月被德阳中院以受贿罪判处死刑缓期二年执行。
+  fall:
+    - { date: 2024-04-16, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r06-ccdi-2024-04-16-qin-rupei-probe }
+    - { date: 2024-10-11, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r06-xinhua-2024-10-11-qin-rupei-expel }
+    - { date: 2025-08-06, text: 德阳中院以受贿罪判处死刑，缓期二年执行，受贿 2.16 亿余元, cite: r06-court-2025-08-06-qin-rupei-verdict }
+  tier: 2
+  headline: 广西壮族自治区党委原常委、自治区政府原副主席
+  ids: { wikidata: Q9026183 }
+  bio: >-
+    长期在贵州任职，历任毕节市委书记、贵州省委常委、政法委书记和常务副省长，2018 年调任广西常务副主席，后兼自治区国资委党委书记。2024 年 4 月被查，通报称其“违规举债，瞒报债务”；2025 年 8 月被以受贿罪判处死缓，法院认定受贿 2.16 亿余元。
+  positions:
+    - { title: 毕节市委书记, sys: party, place: 贵州, cite: r06-court-2025-08-06-qin-rupei-verdict }
+    - { title: 贵州省委常委, sys: party, place: 贵州, from: 2012-04, to: 2018-01, cite: r06-wiki-qin-rupei }
+    - { title: 贵州省副省长, sys: gov, place: 贵州, from: 2012-07, to: 2015-04, cite: r06-wiki-qin-rupei }
+    - { title: 贵州省委政法委书记, sys: party, place: 贵州, from: 2013-07, to: 2015-04, cite: r06-wiki-qin-rupei }
+    - { title: 贵州省常务副省长, sys: gov, place: 贵州, from: 2015-04, to: 2018-01, cite: r06-wiki-qin-rupei }
+    - { title: 广西壮族自治区党委常委, sys: party, place: 广西, from: 2018-01, to: 2021-11, cite: r06-wiki-qin-rupei }
+    - { title: 广西壮族自治区政府副主席, sys: gov, place: 广西, from: 2018-01, to: 2023-01, cite: r06-wiki-qin-rupei }
+    - { title: 广西壮族自治区国资委党委书记, sys: party, place: 广西, from: 2022-01, cite: r06-wiki-qin-rupei }
+  cites: [r06-wiki-qin-rupei, r06-ccdi-2024-04-16-qin-rupei-probe, r06-xinhua-2024-10-11-qin-rupei-expel, r06-court-2025-08-06-qin-rupei-verdict, wd-Q9026183]

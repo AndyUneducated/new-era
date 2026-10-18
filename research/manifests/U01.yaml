@@ -1,0 +1,60 @@
+# U01: 上位之路 (content/turns/U01.yaml) for people with full biographies — sources for turning points.
+web:
+  - id: u01-rfa-2019-05-27-elders-jiang
+    title: “中国人最没有恐惧的7个星期”——吴仁华口述“六四”史（5月27日）
+    publisher: 自由亚洲电台
+    date: 2019-05-27
+    voice: zh
+    url: https://www.rfa.org/mandarin/ytbdzhuantixilie/6430/64-05232019104208.html
+    excerpt: true
+    keep: [中共元老在邓小平家开会, 决定让江泽民出任]
+  - id: u01-bbc-2019-05-30-last-secret
+    title: 独家：六四“最后的秘密” 香港出版中共机密文件再揭权力内幕
+    publisher: BBC 中文
+    date: 2019-05-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-48462970
+    excerpt: true
+    keep: [世界经济导报, 被邓小平临时授命]
+  - id: u01-waou-2014-11-04-third-echelon
+    title: “第三梯队”名单建立前后：起用一代新人（转载《中国新闻周刊》第 675 期，记者杨敏）
+    publisher: 新华澳报
+    date: 2014-11-04
+    voice: zh
+    url: https://www.waou.com.mo/2014/11/04/%e7%ac%ac%e4%b8%89%e6%a2%af%e9%9a%8a%e5%90%8d%e5%96%ae%e5%bb%ba%e7%ab%8b%e5%89%8d%e5%be%8c%ef%bc%9a%e8%b5%b7%e7%94%a8%e4%b8%80%e4%bb%a3%e6%96%b0%e4%ba%ba/
+    excerpt: true
+    keep: [劉瀾波, 李鵬之事, 370多人, 348人]
+  - id: u01-people-2014-11-21-deng-zhu
+    title: 揭秘：邓小平如何力排众议扶植“黑马”朱镕基？（第 2 页）
+    publisher: 人民网（转载《环球人物》）
+    date: 2014-11-21
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1121/c1001-26067334-2.html
+    excerpt: true
+    keep: [伯乐, 朱镕基就懂经济, 连跳几级, 只能当第一把手]
+  - id: u01-rmrb-1985-06-25-wu-guanzheng
+    title: 胆识来自智力“集团军”——武汉的城市改革是怎样寻找突破口的？
+    publisher: 人民日报
+    date: 1985-06-25
+    voice: official
+    url: https://cn.govopendata.com/renminribao/1985/06/25/3/
+    excerpt: true
+    keep: [怎么会轮到他当市长, 智囊团]
+  - id: u01-epoch-2017-12-31-zeng-turns
+    title: 曾庆红仕途三大转折点的背后都是谁？
+    publisher: 大纪元
+    date: 2017-12-31
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/17/12/31/n10012108.htm
+    excerpt: true
+    keep: [仕途上的关键一年, 陈国栋是曾庆红的江西老乡, 献计整肃]
+  - id: u01-aboluowang-2013-06-01-1989-personnel
+    title: 1989年最高层人事变动秘辛
+    publisher: 阿波罗新闻网
+    date: 2013-06-01
+    voice: zh
+    rumor: true
+    url: https://www.aboluowang.com/2013/0601/310160.html
+    excerpt: true
+    keep: [宋平一直是陈云的得意门生, 封杀《世界经济导报》, 力主李瑞环进常委, 你干也得干]
