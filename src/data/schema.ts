@@ -264,6 +264,7 @@ export const CONCEPT_KINDS = {
   formula: '提法',
   document: '意识形态文件',
   trend: '民间思潮',
+  debate: '论争',
 } as const
 export type ConceptKind = keyof typeof CONCEPT_KINDS
 
@@ -284,6 +285,14 @@ export const ConceptSchema = z.object({
   terms: z.array(z.string()).default([]),
   related: z.array(z.string()).default([]),
   voices: z.array(VoicedSchema).default([]),
+  // the long entry: origin, content, how it changed, how it was received (decisions #52)
+  sections: z.array(LifeSchema).default([]),
+  // numbered official lists (十个明确, 十四个坚持 …); every item verbatim in cite
+  lists: z.array(z.object({ title: z.string(), cite: Cite, items: z.array(z.string()).min(1) })).default([]),
+  // a debate: the positions, who held them and where they said it
+  sides: z.array(z.object({ label: z.string(), text: z.string(), who: z.array(z.string()).default([]), cites: z.array(Cite).min(1) })).default([]),
+  // idea → policy → event: what the idea was turned into
+  policies: z.array(z.object({ date: PartialDate, name: z.string(), text: z.string(), events: z.array(z.string()).default([]), cite: Cite })).default([]),
   cites: z.array(Cite).min(1),
 })
 export type Concept = z.infer<typeof ConceptSchema>

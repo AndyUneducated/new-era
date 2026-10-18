@@ -1208,6 +1208,20 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .case-people { display: flex; flex-wrap: wrap; gap: 10px 14px; margin: 14px 0 6px; }
 .case-person { display: inline-flex; align-items: center; gap: 6px; color: var(--ink); text-decoration: none; font-size: 14px; }
 .case-person .portrait { border-radius: 50%; }
+.thinkers { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+.thinker { display: flex; gap: 12px; align-items: flex-start; color: var(--ink); text-decoration: none; }
+.thinker .portrait { border-radius: 50%; flex: none; }
+.thinker > span { display: grid; gap: 2px; }
+.thinker-ideas { color: var(--gold-2); }
+.cp-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; counter-reset: none; }
+.cp-list li { display: grid; grid-template-columns: 44px 1fr; gap: 10px; align-items: baseline; padding: 10px 12px; background: var(--card); border: 1px solid var(--rule); border-radius: var(--radius); font-family: var(--fangsong); font-size: 15.5px; line-height: 1.75; }
+.cp-n { font-family: var(--serif); font-weight: 900; color: var(--seal); text-align: center; }
+.cp-sides { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+.cp-side { display: grid; gap: 6px; align-content: start; border-top: 3px solid var(--gold); }
+.cp-side:nth-child(2n) { border-top-color: var(--red); }
+.cp-chain { display: grid; gap: 0; border-left: 2px solid var(--seal); padding-left: 14px; }
+.cp-policy { display: grid; grid-template-columns: 80px 1fr; gap: 10px; padding: 8px 0; border-bottom: 1px dashed var(--rule); font-size: 14px; }
+.cp-policy p { margin: 2px 0 6px; }
 .rise-routes { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
 .rise-ladder { display: grid; gap: 0; margin: 4px 0 16px; border-left: 2px solid var(--gold); padding-left: 14px; }
 .rise-rung { display: grid; grid-template-columns: 6.5em 2.4em 7em 1fr auto; align-items: baseline; gap: 8px; padding: 6px 0; border-bottom: 1px dashed var(--rule); font-size: 13.5px; }

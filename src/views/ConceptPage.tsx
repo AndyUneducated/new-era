@@ -1,7 +1,8 @@
 import { PersonChip, Prose, Section, Src, Srcs, VoiceTag } from '../components/bits'
 import { Bars } from '../components/Heat'
 import { CONCEPT_KINDS } from '../data/schema'
-import { fmt, short } from '../lib/dates'
+import { cnNum } from '../lib/cn'
+import { fmt, short, span } from '../lib/dates'
 import { quoted } from '../lib/quotes'
 import { conceptHref, eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
@@ -72,6 +73,91 @@ export function ConceptPage({ id }: { id: string }) {
               <Srcs cites={c.cites} />
             </div>
           </Section>
+
+          {c.sections.length > 0 && (
+            <Section title="详解">
+              <div className="life">
+                {c.sections.map((s, i) => (
+                  <section key={i}>
+                    <h4>
+                      {s.h}
+                      <small>{span(s.from, s.to)}</small>
+                    </h4>
+                    <Prose text={s.text} />
+                    <div className="small">
+                      <Srcs cites={s.cites} />
+                    </div>
+                  </section>
+                ))}
+              </div>
+            </Section>
+          )}
+
+          {c.lists.map((l) => (
+            <Section key={l.title} title={l.title} note={<>原文逐条 · <Src cite={l.cite} /></>}>
+              <ol className="cp-list">
+                {l.items.map((t, i) => (
+                  <li key={i}>
+                    <span className="cp-n">{cnNum(i + 1)}</span>
+                    <span>{t}</span>
+                  </li>
+                ))}
+              </ol>
+            </Section>
+          ))}
+
+          {c.sides.length > 0 && (
+            <Section title="各方立场" note="论争各方的主张、代表人物与出处，并列而不评判">
+              <div className="cp-sides">
+                {c.sides.map((s) => (
+                  <div key={s.label} className="card pad cp-side">
+                    <b className="serif">{s.label}</b>
+                    <Prose text={s.text} />
+                    {s.who.length > 0 && (
+                      <div className="chips">
+                        {s.who.map((p) => (
+                          <PersonChip key={p} id={p} />
+                        ))}
+                      </div>
+                    )}
+                    <div className="small">
+                      <Srcs cites={s.cites} />
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </Section>
+          )}
+
+          {c.policies.length > 0 && (
+            <Section title="从思想到政策" note="这一提法落成了哪些政策，政策又引出了哪些事件">
+              <div className="cp-chain">
+                {c.policies.map((x, i) => (
+                  <div key={i} className="cp-policy">
+                    <span className="tnum muted">{short(x.date)}</span>
+                    <div>
+                      <b>{x.name}</b>
+                      <p>
+                        {x.text} <Src cite={x.cite} />
+                      </p>
+                      {x.events.length > 0 && (
+                        <div className="chips">
+                          {x.events.map((id) => {
+                            const e = a.event.get(id)
+                            return e ? (
+                              <a key={id} className="chip ev" href={eventHref(id)}>
+                                {e.title}
+                              </a>
+                            ) : null
+                          })}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </Section>
+          )}
 
           {steps.length > 0 && (
             <Section title="从提出到写入" note="首次出现与写入党章、宪法、决议的原文">

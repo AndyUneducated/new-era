@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { Section } from '../components/bits'
+import { Portrait, Section } from '../components/bits'
 import { Heat } from '../components/Heat'
 import type { CorpusR } from '../data/db'
 import { CONCEPT_KINDS, type Concept } from '../data/schema'
@@ -10,7 +10,7 @@ import { Spectrum } from '../components/ideas/Spectrum'
 import { Stream } from '../components/ideas/Stream'
 import { Targets } from '../components/ideas/Targets'
 import { Versions } from '../components/ideas/Versions'
-import { conceptHref, go, useRoute, withQuery } from '../lib/router'
+import { conceptHref, go, personHref, useRoute, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 
 const ERA: Record<string, string> = {
@@ -37,6 +37,8 @@ const SUBNAV: [string, string][] = [
   ['heat', '提法词频'],
   ['targets', '增长目标'],
   ['versions', '逐版对照'],
+  ['debates', '论争'],
+  ['thinkers', '思想者'],
 ]
 
 export function Ideas() {
@@ -68,6 +70,15 @@ export function Ideas() {
   const loose = a.db.concepts.filter((c) => (c.kind === 'component' || c.kind === 'formula') && !rootOf.has(c.id))
   const docs = a.db.concepts.filter((c) => c.kind === 'document')
   const trends = a.db.concepts.filter((c) => c.kind === 'trend')
+  const debates = a.db.concepts.filter((c) => c.kind === 'debate')
+  const thinkers = useMemo(
+    () =>
+      a.db.people
+        .filter((p) => p.roles.includes('scholar'))
+        .map((p) => ({ p, ideas: a.db.concepts.filter((c) => c.by.includes(p.id)) }))
+        .sort((x, y) => y.ideas.length - x.ideas.length || Number(y.p.life.length > 0) - Number(x.p.life.length > 0)),
+    [a],
+  )
   const kinds = CORPUS_KINDS.find((k) => k[0] === ck)![2]
   const corpus = a.db.corpus.filter((d) => kinds.includes(d.kind))
   const heatConcepts = a.db.concepts.filter((c) => c.kind !== 'trend')
@@ -194,6 +205,33 @@ export function Ideas() {
           <div className="trend-grid">
             {trends.map((c) => (
               <ConceptCard key={c.id} c={c} />
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {debates.length > 0 && (
+        <Section id="debates" title="论争" note="几场影响路线的大争论：各方主张、代表人物、出处并列">
+          <div className="trend-grid">
+            {debates.map((c) => (
+              <ConceptCard key={c.id} c={c} />
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {thinkers.length > 0 && (
+        <Section id="thinkers" title="思想者" note="提出或阐释这些提法的学者、理论家与体制外知识分子">
+          <div className="thinkers">
+            {thinkers.map(({ p, ideas }) => (
+              <a key={p.id} className="card pad thinker" href={personHref(p.id)}>
+                <Portrait p={p} size={52} />
+                <span>
+                  <b>{p.name}</b>
+                  <span className="small muted">{p.headline}</span>
+                  {ideas.length > 0 && <span className="small thinker-ideas">{ideas.map((c) => c.name).join('、')}</span>}
+                </span>
+              </a>
             ))}
           </div>
         </Section>

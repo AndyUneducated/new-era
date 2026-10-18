@@ -154,6 +154,24 @@ export function check(d: Data) {
       quote(c.quote.cite, c.quote.text, `${w} quote`)
     }
     voiced(c.voices, w)
+    for (const s of c.sections) {
+      s.cites.forEach((x) => cite(x, `${w} ${s.h}`))
+      prose(s.text, s.cites, `${w} ${s.h}`)
+    }
+    for (const l of c.lists) {
+      cite(l.cite, `${w} ${l.title}`)
+      l.items.forEach((t, i) => quote(l.cite, t, `${w} ${l.title} #${i + 1}`))
+    }
+    for (const s of c.sides) {
+      s.cites.forEach((x) => cite(x, `${w} side ${s.label}`))
+      s.who.forEach((id) => ref(people, 'person', id, `${w} side ${s.label}`))
+      prose(s.text, s.cites, `${w} side ${s.label}`)
+    }
+    for (const x of c.policies) {
+      cite(x.cite, `${w} policy ${x.name}`)
+      x.events.forEach((id) => ref(events, 'event', id, `${w} policy ${x.name}`))
+      prose(x.text, [x.cite], `${w} policy ${x.name}`)
+    }
   }
   for (const g of d.congresses) {
     const w = `congress ${g.n}`
