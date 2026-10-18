@@ -1,0 +1,50 @@
+# Batch U04 — turn records (上位之路) for 18 leaders
+web:
+  - id: u04-people-2013-06-01-wang-yi-youngest
+    title: 外长王毅的“最年轻纪录”
+    publisher: 人民文摘（人民日报社）
+    date: 2013-06-01
+    voice: official
+    url: https://paper.people.com.cn/rmwz/html/2013-06/01/content_1264451.htm
+    start: 在日本，王毅留下最有名的名言是
+    end: 他此番表态也算是对王毅的一种惺惺相惜。
+  - id: u04-hqrw-2016-08-06-wang-yi-jiang
+    title: 江培柱：我眼中的王毅（环球人物）
+    publisher: 环球人物（人民日报社）
+    date: 2016-08-06
+    voice: official
+    url: https://web.archive.org/web/20230807145430/paper.people.com.cn/hqrw/html/2016-08/06/content_1726333.htm
+    start: “他很有功底，刚工作就能为总书记写讲稿”
+    end: 熊猫只有观赏价值。”
+  - id: u04-xinmin-2013-10-liu-he
+    title: 热点人物：刘鹤获外媒强力关注
+    publisher: 新民周刊
+    date: 2013-10
+    voice: zh
+    url: https://m.xinminweekly.com.cn/content/2978.html
+    excerpt: true
+    keep: [刘鹤]
+  - id: u04-voa-2016-09-14-li-hongzhong-tianjin
+    title: 湖北书记李鸿忠调任天津一把手
+    publisher: 美国之音
+    date: 2016-09-14
+    voice: zh
+    url: https://www.voachinese.com/a/news-hubei-communist-party-boss-li-hongzhong-named-tianjin-chief-ahead-of-chinese-power-reshuffle-20160914/3509167.html
+    excerpt: true
+    keep: [李鸿忠]
+  - id: u04-rfa-2016-09-13-li-hongzhong-core
+    title: 李鸿忠接任天津市委书记
+    publisher: 自由亚洲电台
+    date: 2016-09-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql2-09132016101549.html
+    excerpt: true
+    keep: [李鸿忠]
+  - id: u04-wenweipo-2007-10-27-li-org
+    title: 李源潮出任中組部長
+    publisher: 香港文汇报
+    date: 2007-10-27
+    voice: zh
+    url: http://paper.wenweipo.com/2007/10/27/CH0710270013.htm
+    excerpt: true
+    keep: [李源潮]

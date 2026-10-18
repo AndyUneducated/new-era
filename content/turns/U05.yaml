@@ -1,0 +1,916 @@
+# U05 上位之路：二十届政治局委员与几位落马者。
+wang-xiaohong:
+  routes: [patron, law]
+  rungs:
+    - { rung: county, date: 1993-08, post: 福州市公安局副局长, cite: b17-fznews-2022-06-28-wang-xiaohong-cv }
+    - { rung: bureau, date: 1998-02, post: 福州市公安局局长（副厅级）, cite: b17-fznews-2022-06-28-wang-xiaohong-cv }
+    - { rung: vice, date: 2014-12, post: 河南省副省长, cite: b17-fznews-2022-06-28-wang-xiaohong-cv }
+    - { rung: minister, date: 2018-03, post: 公安部常务副部长（正部长级）, cite: b17-fznews-2022-06-28-wang-xiaohong-cv }
+  turns:
+    - date: 1989-01
+      h: 在福州当公安分局长
+      text: >-
+        王小洪 1974 年在闽侯县插队，后进入公安系统，1984 年任闽侯县公安局副局长，1989 年任局长兼福州市公安局郊区分局局长，1993 年升任福州市公安局副局长。The Diplomat 写道，习近平出任福州市委书记后，王小洪被调到福州任市公安局郊区分局局长，随后升任市局副局长、局长；维基百科也记载他这段时间在时任福州市委书记习近平领导下工作。
+      did: >-
+        在习近平主政福州的那几年，他是这座城市的公安干部，从郊区分局一路做到市局副局长。
+      who: [xi-jinping]
+      cites: [b17-fznews-2022-06-28-wang-xiaohong-cv, b17-diplomat-2015-04-fujian-clique, c02-wiki-wang-xiaohong]
+    - date: 1998-02
+      h: 副厅级上停十五年
+      text: >-
+        1998 年他任福州市公安局局长（副厅级），此后历任漳州市公安局长、福建省公安厅副厅长、厦门市副市长兼公安局长。The Diplomat 认为他的仕途在习近平离开福州后停滞：“He obtained the rank of deputy department head in 1998 but remained at that level for 15 years.”
+      did: >-
+        在副厅级上干了十五年，在福建省内几个城市和省厅的公安岗位之间平调。
+      who: []
+      cites: [b17-fznews-2022-06-28-wang-xiaohong-cv, b17-diplomat-2015-04-fujian-clique]
+    - date: 2013-08
+      h: 一年半升到副部
+      text: >-
+        习近平 2012 年底任总书记后，2013 年 8 月王小洪被调出福建，任河南省长助理、公安厅长，2014 年 12 月任河南副省长，2015 年 3 月调任北京市副市长、市公安局长，前任北京市公安局长傅政华同月升任公安部党委副书记。The Diplomat 写道：“In one and a half years, he has been promoted from an official of deputy department head level to one of vice-ministerial level.”
+      did: >-
+        第一次离开福建，一年半里从副厅级升到副部级，接手首都公安局。
+      who: [xi-jinping]
+      cites: [b17-fznews-2022-06-28-wang-xiaohong-cv, b17-diplomat-2015-04-fujian-clique, b12-bbc-2021-10-03-fu-zhenghua]
+    - date: 2022-06
+      h: 执掌公安部
+      text: >-
+        2016 年 5 月他任公安部副部长，2018 年 3 月任常务副部长（正部长级），2022 年 6 月任公安部部长，同年进入二十届中央书记处，2023 年 3 月任国务委员。维基百科称他是 1998 年以来首位有公安背景的公安部长；自由亚洲电台评论说，“王小洪是中共总书记习近平的福州旧部”，任命被认为是习近平握紧“刀把子”。
+      did: >-
+        从常务副部长接任部长，成为二十多年来第一位公安出身的公安部长，又进入书记处。
+      who: [xi-jinping]
+      cites: [b17-fznews-2022-06-28-wang-xiaohong-cv, c02-wiki-wang-xiaohong, c02-rfa-2022-06-24-wang-xiaohong, b08-xinhua-2023-03-13-state-councilor-cv]
+  can:
+    text: >-
+      在县、市公安局里干了几十年的业务干部，履历扎实、从未离开公安口，这是他后来能接手北京和全国公安的底子；跨省任职、先到河南再进北京的安排，也是常见的“先补履历再重用”的做法。
+    cites: [b17-fznews-2022-06-28-wang-xiaohong-cv, b17-diplomat-2015-04-fujian-clique]
+  cannot:
+    text: >-
+      学不来的是那段交集本身：他在福州任职恰逢习近平主政福州。习离开后他十五年没升级，习掌权后一年半升到副部，这条曲线几乎完全跟着一位领导人的仕途走。台湾上报把两人的关系称作“從福建開始建立的35年交情”。这样的路高度依赖一位庇护者，个人无法安排，也难以复制。
+    cites: [b17-diplomat-2015-04-fujian-clique, b17-upmedia-2025-05-22-wang-drug-tsar]
+  counter:
+    - id: fu-zhenghua
+      name: 傅政华
+      text: 在北京市公安局长、公安部副部长这两个位置上，傅政华都走在王小洪前面，2018 年转任司法部长；2022 年他以受贿罪、徇私枉法罪被判死缓并终身监禁，所犯罪行就发生在这些任上。
+      cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict
+  deep: true
+
+ling-jihua:
+  routes: [secretary, youth, staff, patron]
+  rungs:
+    - { rung: vice, date: 1999, post: 中央办公厅副主任、调研室主任, cite: u05-beijingreview-2007-10-23-ling-cv }
+    - { rung: minister, date: 2003, post: 中央办公厅副主任（主持常务工作，正部长级）, cite: u05-beijingreview-2007-10-23-ling-cv }
+  turns:
+    - date: 1979
+      h: 团中央写材料十五年
+      text: >-
+        令计划早年在山西平陆县团委工作，任团县委副书记，1979 年调入团中央宣传部，此后历任宣传部副处长、书记处办公室主任、办公厅副主任、《中国共青团》主编、宣传部部长。新浪报道说，当时他的领导和同事有胡锦涛、李克强、刘延东、李源潮等，“令计划以精干、擅长写研究报告而颇受信任和赏识”。
+      did: >-
+        在团中央机关做了十五年宣传和办公室工作，以写材料、办事得力被领导记住。
+      who: [hu-jintao]
+      cites: [u05-sina-2007-10-23-ling-secretariat, u05-voa-2007-09-20-ling-gob]
+    - date: 1995
+      h: 被调进中央办公厅
+      text: >-
+        新京报写道，令计划“在共青团中央工作16年后，于1995年进入中央办公厅”，从调研室三组负责人做起。美国之音说得更直接：“胡锦涛1995把令计划调到身边”。
+      did: >-
+        离开团中央，进入中央办公厅调研室，开始在胡锦涛身边工作。
+      who: [hu-jintao]
+      cites: [b07-bjnews-2014-12-22-ling-resume, u05-voa-2007-09-20-ling-gob, u05-beijingreview-2007-10-23-ling-cv]
+    - date: 1999
+      h: 从办公室主任到中办主任
+      text: >-
+        据美国之音，令计划 1998 年出任胡锦涛办公室主任，1999 年底升任中办副主任。新华社简历记载，他 2003 年起主持中办常务工作（正部长级），2007 年任中央书记处书记、中办主任（美国之音记为 2004 年升任常务副主任）。新浪称外电评价他是胡锦涛的“首席高参”；纽约时报中文网援引官员说，“令计划打的电话就相当于胡锦涛的电话”。
+      did: >-
+        从总书记的办公室主任做到中办主任、书记处书记，成为总书记身边最亲近的大管家。
+      who: [hu-jintao]
+      cites: [u05-voa-2007-09-20-ling-gob, u05-beijingreview-2007-10-23-ling-cv, u05-sina-2007-10-23-ling-secretariat, c05-nytcn-2012-12-05-ling-gu]
+    - date: 2012-09
+      h: 车祸后转任统战部
+      text: >-
+        其子驾驶法拉利车祸身亡一事被中央领导层定为重大丑闻。BBC 援引一位退休高官说，因此令计划不能得到晋升，“胡锦涛也无能为力”。2012 年 9 月他离开中办，改任中央统战部部长，十八大没有进入政治局；2014 年 12 月被调查，2016 年 7 月以受贿、非法获取国家秘密、滥用职权罪被判处无期徒刑。
+      did: >-
+        十八大前夕离开中办，晋升之路就此断掉，两年后落马。
+      who: [hu-jintao]
+      cites: [c10-bbc-2012-09-03-ling-ferrari, b07-bjnews-2014-12-22-ling-resume, b07-court-2016-07-04-ling-sentence]
+  can:
+    text: >-
+      秘书路线：在机关里靠写材料和办事能力被领导看中，跟着领导进入核心机关，再在领导任内升到正部级。令计划在团中央十五年、中办十七年，每一步都在文字和办公室岗位上做出来，这部分功夫是真实的。
+    cites: [u05-sina-2007-10-23-ling-secretariat, u05-beijingreview-2007-10-23-ling-cv]
+  cannot:
+    text: >-
+      学不来、也最危险的是：这条路的全部高度来自一位领导的信任。领导任期结束时，秘书出身的人往往还没有独立主政过一个地方或部门；纽约时报中文网的报道里也有人评价他“这个人不具备进入政治局的资格”。一旦出事，原来的庇护者也保不住他。
+    cites: [c05-nytcn-2012-12-05-ling-gu, c10-bbc-2012-09-03-ling-ferrari]
+  counter:
+    - id: zeng-qinghong
+      name: 曾庆红
+      text: 同样走中央办公厅这条路：1993 年起任中办主任，2002 年进入政治局常委、书记处书记，是这条路走到顶的例子。
+      cite: b01-cpc-zeng-resume
+  deep: true
+
+sun-zhengcai:
+  routes: [scholar, technocrat, patron]
+  rungs:
+    - { rung: bureau, date: 1994, post: 北京市农林科学院副院长, cite: b07-mj-2012-11-16-sun-resume }
+    - { rung: vice, date: 2002, post: 北京市委常委、顺义区委书记, cite: b07-mj-2012-11-16-sun-resume }
+    - { rung: minister, date: 2006-12, post: 农业部部长, cite: u05-ifeng-2006-12-19-sun-minister }
+    - { rung: pb, date: 2012-11, post: 中央政治局委员, cite: b07-mj-2012-11-16-sun-resume }
+  turns:
+    - date: 1984
+      h: 玉米专家当上院长
+      text: >-
+        孙政才 1984 年从山东莱阳农学院毕业，考入北京农林科学院，师从玉米栽培专家陈国平，后获中国农大农学博士。他 1987 年起任玉米研究室副主任（其间赴英国洛桑实验站进修），1993 年任土肥所所长，1994 年任农林科学院副院长，1995 年任常务副院长主持工作。新华网称他是“北京市农林科学院的甜玉米专家”。
+      did: >-
+        从科研岗位做起，三十出头就成为北京一家局级科研院所的负责人。
+      who: []
+      cites: [b07-mj-2012-11-16-sun-resume, u05-ifeng-2006-12-19-sun-minister]
+    - date: 1997
+      h: 下派顺义当县长
+      text: >-
+        1997 年他任顺义县代县长、县长，此后任区委书记，2002 年进入北京市委常委。纽约时报援引李成等分析人士说，孙政才是贾庆林的门生，贾庆林和江泽民关系亲密。
+      did: >-
+        从科研单位转到京郊区县主政五年，补上地方经验后进入北京市委班子。
+      who: [jia-qinglin]
+      cites: [b07-mj-2012-11-16-sun-resume, b07-nyt-2012-11-26-leaders]
+    - date: 2006-12
+      h: 四十三岁当农业部长
+      text: >-
+        他 2002 年起任北京市委秘书长，2006 年 12 月出任农业部党组书记、部长。新华网当时写道，他和胡春华都生于 1963 年，“孙政才是目前中国最年轻的正部级干部”，并评论说这“充分显示，中央在用人方面已开始侧重学者型官员”。纽约时报还提到，也有人说温家宝可能是他另一位庇护人。
+      did: >-
+        带着农学背景回到农业领域，以全国最年轻正部级干部的身份进入梯队。
+      who: [wen-jiabao]
+      cites: [u05-ifeng-2006-12-19-sun-minister, b07-mj-2012-11-16-sun-resume, b07-nyt-2012-11-26-leaders]
+    - date: 2012-11
+      h: 进政治局后落马
+      text: >-
+        2009 年他任吉林省委书记，2012 年十八大进入政治局，随后任重庆市委书记，和胡春华一起被视为政治新星。2017 年 7 月他被免职调查，纽约时报引述的评论说“孙政才是个牺牲品，这是向全党发出的信息”；2018 年 5 月以受贿罪被判处无期徒刑。
+      did: >-
+        49 岁进政治局，被外界视为接班人选之一，五年后在十九大前落马。
+      who: []
+      cites: [b07-mj-2012-11-16-sun-resume, b09-cna-2022-10-23-hu-chunhua, b07-nyt-2017-07-24-sun-fall, b07-xinhua-2018-05-08-sun-sentence]
+  can:
+    text: >-
+      专业起家、在科研单位早早当上负责人，再下派区县补地方经验，然后进部委、主政省份，这是八九十年代“学者型官员”的标准通道。专业能力和年轻是这条路上真实的资本。
+    cites: [b07-mj-2012-11-16-sun-resume, u05-ifeng-2006-12-19-sun-minister]
+  cannot:
+    text: >-
+      学不来的是年龄窗口和时代：他赶上了中央集中提拔 60 后学者型官员的时期。外界认为他身后有贾庆林、温家宝等不同庇护人，可庇护人一旦退出、高层格局一变，年轻的接班人选反而最先被推到风口上。
+    cites: [u05-ifeng-2006-12-19-sun-minister, b07-nyt-2012-11-26-leaders, b07-nyt-2017-07-24-sun-fall]
+  counter:
+    - id: hu-chunhua
+      name: 胡春华
+      text: 同样生于 1963 年、2012 年和孙政才同进政治局的政治新星。他走的是团中央和边疆路线，没有落马，但 2022 年二十大未能连任政治局委员。
+      cite: b09-cna-2022-10-23-hu-chunhua
+  deep: true
+
+yuan-jiajun:
+  routes: [industry, technocrat]
+  rungs:
+    - { rung: vice, date: 2012-03, post: 宁夏回族自治区党委常委, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { rung: minister, date: 2017-04, post: 浙江省代省长, cite: b15-cctv-2020-12-01-yuan-jiajun-cv }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1995-05
+      h: 三十三岁进飞船指挥线
+      text: >-
+        袁家军 1987 年从北京航空学院研究生毕业，进入航天部五院 501 部做技术工作。1995 年 5 月他任五院院长助理兼神舟一号飞船常务副总指挥，1996 年任五院副院长。
+      did: >-
+        在航天科研单位从技术岗做起，三十出头进入载人飞船工程的指挥层。
+      who: []
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv]
+    - date: 1999-11
+      h: 神舟一号成名
+      text: >-
+        联合早报写道：“1999年11月，神舟一号顺利完成中国载人航天工程的首次飞行，当时只有37岁的袁家军名声大噪”。2003 年他任五院院长，并担任神舟二号至五号飞船总指挥，其中包括中国首次载人飞行。
+      did: >-
+        作为飞船总指挥参与了载人航天的首飞和首次载人飞行，成为航天系最受瞩目的年轻干部。
+      who: []
+      cites: [b15-zaobao-2020-09-01-jungong-zj-ln, b15-cctv-2020-12-01-yuan-jiajun-cv]
+    - date: 2012-03
+      h: 从航天转去宁夏
+      text: >-
+        2007 年他任航天科技集团副总经理，2012 年 3 月调任宁夏回族自治区党委常委，2014 年 8 月调浙江任常务副省长。中新网的官方解读说：“央企领导到地方担任重要职务，体现了组织对该央企的肯定和对干部本人的充分信任。”联合早报的评论认为，提拔“军工系”官员“一方面是对军工成就的褒奖，另一方面也是要为政坛注入更多新风气”。
+      did: >-
+        50 岁离开央企进入地方党委班子，从头补地方工作经验。
+      who: []
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, f08-chinanews-2017-02-07-jungong, b15-zaobao-2020-09-01-jungong-zj-ln]
+    - date: 2017-04
+      h: 在浙江做到书记
+      text: >-
+        2017 年 4 月他任浙江代省长，2020 年 8 月任浙江省委书记，2022 年二十大进入政治局，随后调任重庆市委书记。南华早报报道他出任浙江代省长时特别提到，浙江是“the power base of President Xi Jinping”；詹姆斯敦基金会在二十大前也把他列为有力竞争者。
+      did: >-
+        在习近平曾主政的浙江干了八年，从常务副省长做到省委书记，二十大进入政治局。
+      who: []
+      cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, b15-scmp-2017-05-04-aerospace-elite, b15-jamestown-2022-20th-leadership, f02-rfa-2023-02-13-jungong]
+  can:
+    text: >-
+      航天军工路：在国家重点工程里做出公认的成绩，再被组织当作“技术型”干部派到地方，靠工程管理的履历获得信任；地方任职从常委、常务副省长做起，按部就班补齐主政经验。
+    cites: [b15-cctv-2020-12-01-yuan-jiajun-cv, f08-chinanews-2017-02-07-jungong]
+  cannot:
+    text: >-
+      时代窗口学不来：二十大前后中央集中提拔军工航天干部，境外媒体甚至有“军工五人帮”的说法；载人航天首飞这样的全国级成名机会，一代人只有少数几个。同一系统出身也意味着同一系统的风险：BBC 报道，此后军工央企系统反腐，与他同期出身航天科技集团的马兴瑞在 2026 年落马。
+    cites: [f02-rfa-2023-02-13-jungong, b15-zaobao-2020-09-01-jungong-zj-ln, b08-bbc-2026-07-14-ma]
+  counter:
+    - id: ma-xingrui
+      name: 马兴瑞
+      text: 与袁家军同期在航天科技集团任领导，2022 年同进政治局，被视为“航天系”技术官僚的从政顶峰；但他 2026 年 7 月被宣布落马。
+      cite: b08-bbc-2026-07-14-ma
+  deep: true
+
+qin-gang:
+  routes: [diplomat, patron]
+  rungs:
+    - { rung: minister, date: 2022-12, post: 外交部部长, cite: b08-bbc-2023-07-25-qin-gang }
+  turns:
+    - date: 1992
+      h: 进外交部跑西欧线
+      text: >-
+        秦刚 1988 年从国际关系学院毕业，分配到北京外交人员服务局任中文秘书。1992 年进入外交部，历任西欧司随员、三秘，驻英国使馆三秘、二秘，西欧司二秘、副处长、处长，驻英国使馆参赞。
+      did: >-
+        从外交服务单位起步，进外交部后在西欧和英国这条线上干了十多年。
+      who: []
+      cites: [b08-wiki-qin-gang, b08-xinhua-2023-03-13-state-councilor-cv]
+    - date: 2005-01
+      h: 当发言人出名
+      text: >-
+        2005 年 1 月他任外交部新闻司副司长、外交部发言人，同年 4 月首次主持例行记者会。BBC 写道，他早年作为外交部发言人被人熟知，多次言辞犀利地回击西方质疑，被一些人称为“战狼”。
+      did: >-
+        站上外交部记者会的讲台，以强硬的风格为公众熟知。
+      who: []
+      cites: [b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang]
+    - date: 2015-01
+      h: 礼宾司长随习出访
+      text: >-
+        2015 年 1 月他任礼宾司司长，2017 年 4 月任部长助理并继续兼任礼宾司长，2018 年 9 月升任副部长，分管拉美事务和新闻、礼宾工作。BBC 写道，在礼宾司长任上，“他被视为是深得习近平信赖的助手，多次陪同习近平外访”。
+      did: >-
+        负责最高领导人出访的礼宾安排，在近距离工作中得到信任。
+      who: [xi-jinping]
+      cites: [b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang]
+    - date: 2022-12
+      h: 火箭式升任外长
+      text: >-
+        2021 年 7 月他出任驻美大使，2022 年底升任外交部长，2023 年 3 月兼任国务委员。学者宋文笛说，他“在三个月内连升两级（从副部长到副国级）”，没有习近平的积极干预，至少也要习近平允许才能实现。2023 年 7 月他被免去外长职务，由王毅接任；此后又先后失去国务委员、人大代表和中央委员职务。官方从未说明原因，也没有宣布党纪处分，站内对他的状态记为下落不明。
+      did: >-
+        从驻美大使直接出任外长，半年后被免职，此后不再公开露面。
+      who: [xi-jinping]
+      cites: [b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang, b08-bbc-2024-07-18-third-plenum, b08-gov-2023-07-25-order-8]
+  can:
+    text: >-
+      职业外交官的通道：长期在同一条地区线和新闻、礼宾岗位上积累，发言人岗位让他有公众知名度，礼宾岗位又给了他与最高领导人近距离共事的机会。
+    cites: [b08-wiki-qin-gang, b08-bbc-2023-07-25-qin-gang]
+  cannot:
+    text: >-
+      近距离带来的信任是机遇，也是他全部的依托。宋文笛认为，“秦和习的形象在某种程度上是捆绑在一起的”；BBC 引述的分析说，“这一事件将被视为高层令人尴尬的用人失察”。也有评论指出，“秦刚在党内、甚至在外交部内的根基都不牢靠”。升得越快，越缺少能托底的履历和人脉。
+    cites: [b08-bbc-2024-07-18-third-plenum, b08-bbc-2023-07-25-qin-gang, c10-rfi-2023-12-08-qin-yaita]
+  counter:
+    - id: wang-yi
+      name: 王毅
+      text: 同为职业外交官、他的前任外长。秦刚被免职当天，全国人大常委会任命王毅重新兼任外交部长。
+      cite: b08-gov-2023-07-25-order-8
+  deep: true
+
+zhang-guoqing:
+  routes: [industry]
+  rungs:
+    - { rung: vice, date: 2007-06, post: 中国兵器工业集团公司党组书记、副总经理, cite: b15-zaobao-2020-09-01-jungong-zj-ln }
+    - { rung: minister, date: 2016-12, post: 重庆市代市长, cite: b15-cctv-2021-01-31-zhang-guoqing-cv }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1989-10
+      h: 驻德黑兰做军贸
+      text: >-
+        张国清 1987 年从华东工学院工业外贸专业毕业，进入兵器军贸企业中国北方工业公司任项目经理、地区经理，1989 年 10 月起任驻德黑兰代表处总代表助理，1993 年回国任中东地区处副处长、处长。
+      did: >-
+        在军贸公司做中东市场，从项目经理一步步做起。
+      who: []
+      cites: [b15-cctv-2021-01-31-zhang-guoqing-cv]
+    - date: 1996-07
+      h: 三十二岁当副总裁
+      text: >-
+        1996 年 7 月他任中国北方工业公司副总裁，1999 年任兵器工业集团副总经理。詹姆斯敦基金会写道：“Zhang became a Vice-President of Norinco in 1996, when he was barely 32-years-old”。
+      did: >-
+        三十出头进入大型军工企业的领导层。
+      who: []
+      cites: [b15-cctv-2021-01-31-zhang-guoqing-cv, f02-jamestown-2018-xi-faction-regions]
+    - date: 2007-06
+      h: 四十三岁执掌兵器集团
+      text: >-
+        联合早报写道：“2007年，43岁的张国清出任中国兵器工业集团公司党组书记、副总经理，跻身副部级高官”。2008 年 10 月他任集团总经理。
+      did: >-
+        成为一家副部级军工集团的一把手。
+      who: []
+      cites: [b15-zaobao-2020-09-01-jungong-zj-ln, b15-cctv-2021-01-31-zhang-guoqing-cv]
+    - date: 2013-04
+      h: 离开央企转任地方
+      text: >-
+        2013 年 4 月他调任重庆市委副书记，2016 年 12 月任重庆代市长，2017 年底调任天津市长，2020 年 8 月任辽宁省委书记，2022 年二十大进入政治局，随后进京出任国务院副总理。詹姆斯敦基金会称他是所谓“Defense-Aerospace Faction”中最有名的成员之一。
+      did: >-
+        49 岁离开军工集团进入地方，先当副手，再到三个省市做市长、书记。
+      who: []
+      cites: [b15-cctv-2021-01-31-zhang-guoqing-cv, f02-jamestown-2018-xi-faction-regions, f02-rfa-2023-02-13-jungong]
+  can:
+    text: >-
+      军工企业路：在大型央企里靠业务和管理一路升到一把手，再作为“企业家型”干部转到地方。官方解读说这类干部“基本没有官场现实利益的牵扯”，这是组织看重他们的一个理由。
+    cites: [f08-chinanews-2017-02-07-jungong, b15-cctv-2021-01-31-zhang-guoqing-cv]
+  cannot:
+    text: >-
+      学不来的是起点和窗口：三十出头就进大型军工企业领导层的机会本就少见；之后他又赶上中央集中把军工、航天央企负责人派到地方的时期，二十届政治局里出身军工的有五人。这条路的风险也集中在同一系统：BBC 报道，此后军工央企系统反腐，同为军工出身的马兴瑞落马。
+    cites: [f02-jamestown-2018-xi-faction-regions, f02-rfa-2023-02-13-jungong, b08-bbc-2026-07-14-ma]
+
+liu-guozhong:
+  routes: [secretary, local]
+  rungs:
+    - { rung: county, date: 1996-06, post: 黑龙江省政府办公厅一处副处长, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { rung: bureau, date: 2000-06, post: 黑龙江省政府研究室副主任, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { rung: vice, date: 2007-04, post: 黑龙江省委常委、秘书长, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { rung: minister, date: 2016-12, post: 吉林省代省长, cite: b16-cctv-2020-07-31-liu-guozhong-cv }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1993-01
+      h: 在省政府办公厅做文字
+      text: >-
+        刘国中 1982 年从华东工程学院引信专业毕业，在哈尔滨建成机械厂当干部（自由亚洲电台称这是中国第一所航空炸弹制造工厂），后读哈工大硕士。1990 年进黑龙江省经委，1993 年调省政府办公厅一处，1996 年任副处长、1998 年任处长，2000 年任省政府研究室副主任，2003 年任主任。
+      did: >-
+        在省政府办公厅和研究室干了十多年，做文字和综合协调工作。
+      who: []
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv, f02-rfa-2023-02-13-jungong]
+    - date: 2004-10
+      h: 外放鹤岗当书记
+      text: >-
+        2004 年 10 月他从省政府研究室主任外放鹤岗任市委书记，2007 年 4 月回省里任省委常委、秘书长，2011 年任副省长。
+      did: >-
+        当了两年半地级市一把手后，回到省委当秘书长，进入省级班子。
+      who: []
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv]
+    - date: 2016-02
+      h: 出省辗转三地
+      text: >-
+        2013 年 10 月他离开黑龙江任全国总工会副主席、书记处书记，2016 年 2 月任四川省委副书记，同年 12 月任吉林代省长，2017 年 12 月调陕西，次年任省长，2020 年 8 月任陕西省委书记。
+      did: >-
+        经全总过渡，四年里换了四川、吉林、陕西三地，从副书记做到省长、省委书记。
+      who: []
+      cites: [b16-cctv-2020-07-31-liu-guozhong-cv]
+    - date: 2021-12
+      h: 西安封城后入局
+      text: >-
+        2021 年底西安暴发疫情，他以省委书记身份主持防控，要求“严防死守机场、高速公路、高铁等各类出市通道，坚决防止疫情外溢”，把城中村称为防控的“重中之重”；封城期间“西安买菜难”成为微博热搜。2022 年二十大他进入政治局，次年出任国务院副总理。路透社在二十大后的名单里给他的注解是“No known connection to Xi”。
+      did: >-
+        在一场高压的城市封控之后进入政治局，随后进京任副总理。
+      who: []
+      cites: [b16-cri-2021-12-24-liu-xian, b16-zaobao-2022-01-04-xian-villages, f02-reuters-2022-10-24-elites, f02-rfa-2023-02-13-jungong]
+  can:
+    text: >-
+      省级机关的综合文字岗位是一条踏实的路：在办公厅、研究室把全省情况摸透，再外放市里当一把手，回省委做秘书长；几次跨省任职也让他补齐了在不同省份主政的经历。
+    cites: [b16-cctv-2020-07-31-liu-guozhong-cv]
+  cannot:
+    text: >-
+      从公开资料看不出他与最高领导人有直接的工作交集，路透社也说没有已知联系；他为什么在二十大被选中，公开材料解释不了。疫情封控这种压力测试既可能被看作执行力的证明，也会给当地民生留下代价，不是可以主动选择的“机遇”。
+    cites: [f02-reuters-2022-10-24-elites, b16-zaobao-2022-01-04-xian-villages]
+
+yin-li:
+  routes: [technocrat, local]
+  rungs:
+    - { rung: county, date: 1994-11, post: 国务院研究室教科文卫司副处长, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { rung: bureau, date: 2003-05, post: 卫生部办公厅副主任（正司级）, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { rung: vice, date: 2008-09, post: 卫生部副部长, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { rung: minister, date: 2016-01, post: 四川省省长, cite: b16-cctv-2020-12-01-yin-li-cv }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1993-11
+      h: 留俄博士进研究室
+      text: >-
+        尹力在山东医科大学读完硕士后赴俄罗斯留学，1993 年在俄罗斯医学科学院获卫生经济与卫生事业管理博士学位，同年进入国务院研究室。联合早报写道，他在研究室 10 年间先后在教科文卫司和社会发展研究司任职，其间赴美国哈佛大学公共卫生学院进修。
+      did: >-
+        带着公共卫生博士学位进中央政策研究机关，做了十年卫生、社会政策研究。
+      who: []
+      cites: [b16-cctv-2020-12-01-yin-li-cv, b16-zaobao-2022-11-14-yin-li-beijing]
+    - date: 2003-05
+      h: 转入卫生部
+      text: >-
+        2003 年 5 月他调任卫生部办公厅副主任（正司级），同年 10 月任国际合作司司长，2004 至 2005 年担任世界卫生组织执委并当选执委会副主席，2006 年任卫生部办公厅主任。
+      did: >-
+        从研究岗位转到卫生部业务部门，管外事、管办公厅，在国际卫生组织里任职。
+      who: []
+      cites: [b16-cctv-2020-12-01-yin-li-cv]
+    - date: 2012-02
+      h: 毒胶囊时接药监局
+      text: >-
+        2008 年他任卫生部副部长，2012 年 2 月兼任国家食品药品监督管理局局长。上任后不久遇到铬超标胶囊事件，他对新华社说，问题出现后固然要“救火”，但更重要的是完善制度，从源头“防火”，并推出加强药用辅料监管的新规。
+      did: >-
+        在一场药品安全事件中主管全国药监，用补制度的方式回应。
+      who: []
+      cites: [b16-cctv-2020-12-01-yin-li-cv, b16-xinhua-2012-08-03-yin-li-capsule]
+    - date: 2015-03
+      h: 到地方主政三省市
+      text: >-
+        2015 年 3 月他调任四川省委副书记，2016 年任省长，2020 年 12 月任福建省委书记，2022 年 10 月进入政治局，随后任北京市委书记。南华早报说福建是“a power base for President Xi Jinping”，并认为他的任命“reflects a shift towards technocrats in the top ranks of the party”。
+      did: >-
+        53 岁才第一次到地方任职，七年内从四川副书记做到北京市委书记。
+      who: []
+      cites: [b16-cctv-2020-12-01-yin-li-cv, b16-scmp-2022-11-13-yin-li-beijing, p01-xinhua-2022-11-13-yin-li]
+  can:
+    text: >-
+      专业技术官僚的路：在公共卫生领域有国外博士学位，在中央研究机关和主管部委积累政策经验，再转到地方补主政经历。联合早报称他是“公共卫生领域的学者型官员”。
+    cites: [b16-zaobao-2022-11-14-yin-li-beijing, b16-cctv-2020-12-01-yin-li-cv]
+  cannot:
+    text: >-
+      他在福建只做了不到两年书记就进京，而福建是最高领导人的旧地；他是如何被选中的，公开材料没有说明。疫情以后中央更看重公共卫生背景，这样的时代需求不是个人可以安排的。
+    cites: [b16-scmp-2022-11-13-yin-li-beijing, b16-cctv-2020-12-01-yin-li-cv]
+
+li-shulei:
+  routes: [writer, scholar, patron]
+  rungs:
+    - { rung: bureau, date: 1996-06, post: 中央党校文史教研部副主任, cite: b15-thepaper-2020-12-li-shulei-cv }
+    - { rung: vice, date: 2008-12, post: 中央党校副校长, cite: b15-pku-2016-li-shulei-prodigy }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员、中宣部部长, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1978
+      h: 十四岁考进北大
+      text: >-
+        1978 年，14 岁的李书磊参加高考后回家干活，在黄河滩上放羊时，姐姐拿着北大录取通知书来找他。北京大学的校友报道说，他看到通知书时把羊鞭甩进了黄河，“当时就想，这下子终于不用放羊了。”他在北大读完图书馆学本科和中国现代文学硕士，素有“北大神童”之称。
+      did: >-
+        以神童身份进北大读书，走上文科学术的路。
+      who: []
+      cites: [b15-pku-2016-li-shulei-prodigy, c02-zaobao-2022-11-11-li-shulei]
+    - date: 1984-12
+      h: 在党校教书二十多年
+      text: >-
+        1984 年 12 月他进入中央党校任文史教研室教员，此后历任语文教研室主任、文史教研部副主任、主任、培训部主任、教务部主任，其间挂职河北青龙县委副书记、西安市委副书记。财新称他曾在中央党校工作 26 年。
+      did: >-
+        在党校从教员做到教务部主任，一边教书一边写文章。
+      who: []
+      cites: [b15-thepaper-2020-12-li-shulei-cv, f08-caixin-2023-03-06-hu-heping]
+    - date: 2008-12
+      h: 给党校校长当副手
+      text: >-
+        2008 年 12 月，44 岁的李书磊出任中央党校副校长，“其时，中央党校校长是时任中央政治局常委、中央书记处书记习近平”。联合早报说他辅助习近平，被视为习近平的“文胆”；新加坡学者 Tan Kong Yam 写道，“Li Shulei is trusted by Xi Jinping and has been the key drafter of many of Xi's major speeches and party documents.”
+      did: >-
+        在习近平兼任党校校长期间做他的副手，此后长期参与起草讲话和文件。
+      who: [xi-jinping]
+      cites: [b15-pku-2016-li-shulei-prodigy, c02-zaobao-2022-11-11-li-shulei, b15-thinkchina-2022-12-21-tan-kong-yam, b15-jamestown-2022-20th-leadership]
+    - date: 2014-01
+      h: 跨宣传纪检两口
+      text: >-
+        习近平任总书记后，李书磊 2014 年调任福建省委常委、宣传部长，2015 年底跨界任北京市委常委、市纪委书记，2017 年 1 月任中纪委副书记，2020 年 12 月回中央党校主持日常工作（正部长级），2022 年二十大进入政治局并任中宣部部长。
+      did: >-
+        从学校出来后在宣传、纪检两个系统轮岗，八年后回到意识形态口执掌中宣部。
+      who: [xi-jinping]
+      cites: [b15-thepaper-2020-12-li-shulei-cv, c02-zaobao-2022-11-11-li-shulei, b08-wikisource-2022-10-23-20-1-plenum]
+  can:
+    text: >-
+      笔杆子路线：长期在理论、文史领域写作和教学，被领导人看中后负责起草讲话、文件；之后再到地方和纪检系统轮岗，补上实际工作经历。
+    cites: [b15-thepaper-2020-12-li-shulei-cv, b15-thinkchina-2022-12-21-tan-kong-yam]
+  cannot:
+    text: >-
+      学不来的是那几年的交集：他当党校副校长时，校长正是后来的总书记。路透社在二十大名单里对他的注解就是“Worked for Xi at the Central Party School in late 2000s”。没有这段上下级关系，学者型干部很少能从党校直接走进政治局。
+    cites: [f02-reuters-2022-10-24-elites, b15-pku-2016-li-shulei-prodigy]
+  counter:
+    - id: hu-heping
+      name: 胡和平
+      text: 同样长期在高校任职、后来到中宣部的“学校型”干部：在清华学习、任职 23 年，2023 年接替李书磊分管中宣部日常工作，但没有进入政治局。
+      cite: f08-caixin-2023-03-06-hu-heping
+
+chen-jining:
+  routes: [scholar, technocrat, patron]
+  rungs:
+    - { rung: minister, date: 2015-02, post: 环境保护部部长, cite: c02-wiki-chen-jining }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: c02-wiki-chen-jining }
+  turns:
+    - date: 1998-03
+      h: 留英博士回清华
+      text: >-
+        陈吉宁 1986 年清华土木与环境工程系本科毕业，后赴英国帝国理工学院读博士并留校做博士后、助理研究员。1998 年 3 月他回清华任环境工程系副主任，1999 年 7 月任系主任。The Diplomat 写道，陈吉宁和胡和平都是“protégés of Chen Xi at Tsinghua University”。
+      did: >-
+        在英国做了近十年研究后回国，回校第二年就当上系主任。
+      who: [chen-xi]
+      cites: [b15-cernet-2012-02-21-chen-jining-cv, f08-diplomat-2015-04-27-tsinghua]
+    - date: 2006-02
+      h: 当上清华校长
+      text: >-
+        2006 年 2 月他任清华副校长，同年参与解决东北松花江化学污染问题，2007 年任常务副校长，2012 年出任清华校长，是 1949 年以来最年轻的清华校长。联合早报写道：“有消息说，陈吉宁在清华大学工作时受到该校党委书记、现任中组部常务副部长陈希的欣赏。”
+      did: >-
+        以环境专家身份参与重大污染事件处置，在清华做到校长。
+      who: [chen-xi]
+      cites: [b15-cernet-2012-02-21-chen-jining-cv, b15-zaobao-2017-05-27-chen-mayor, c02-wiki-chen-jining]
+    - date: 2015-02
+      h: 最年轻的部长
+      text: >-
+        2015 年 1 月他接任环保部党组书记，2 月出任环境保护部部长，51 岁的他成为当时国务院各部委中最年轻的部长。上任第一次见媒体，他说已完整看过柴静的雾霾纪录片《穹顶之下》，并发短信向她表示感谢。
+      did: >-
+        从大学校长直接进部委当一把手，在雾霾成为全国话题时主管环保。
+      who: []
+      cites: [c02-wiki-chen-jining, b15-bjnews-2015-03-01-chen-chaijing, b15-bbc-2015-03-01-chen-chaijing]
+    - date: 2017-05
+      h: 北京市长到上海书记
+      text: >-
+        2017 年 5 月他调任北京市代市长，接替升任市委书记的蔡奇。联合早报分析说，他长期在学校工作，缺乏主政地方的行政经验。2022 年二十大他进入政治局，接替李强任上海市委书记。The Diplomat 早在 2015 年就认为他“is a good candidate for a senior position in the State Council and also a good candidate for a membership on the Politburo”。
+      did: >-
+        当了五年首都市长后进入政治局，主政上海。
+      who: []
+      cites: [c02-wiki-chen-jining, b15-zaobao-2017-05-27-chen-mayor, f08-diplomat-2015-04-27-tsinghua]
+  can:
+    text: >-
+      学者转技术官僚：在一个专业领域做到国内顶尖，在大学管理岗位上证明组织能力，再以专家身份进入对口部委。陈吉宁的环境工程背景正好对上了雾霾治理成为全国议题的时候。
+    cites: [b15-zaobao-2017-05-27-chen-mayor, c02-wiki-chen-jining]
+  cannot:
+    text: >-
+      学不来的是清华这层关系：多家媒体都把他算作陈希在清华提携的人，而陈希是习近平的大学室友、后来的中组部长。没有地方经验却能当上首都市长、再进政治局，这在没有这层关系的学者官员身上很少见。
+    cites: [f08-diplomat-2015-04-27-tsinghua, b15-zaobao-2017-05-27-chen-mayor]
+  counter:
+    - id: hu-heping
+      name: 胡和平
+      text: 同一批“清华新军”：在清华学习、任职 23 年，做到清华党委书记，此后历任浙江、陕西、中宣部和文旅部，是二十届中央委员，但没有进入政治局。
+      cite: f08-caixin-2023-03-06-hu-heping
+
+li-ganjie:
+  routes: [technocrat, patron]
+  rungs:
+    - { rung: county, date: 1994-12, post: 国家核安全局核反应堆处副处长, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { rung: bureau, date: 2000-11, post: 国家环保总局核安全与辐射环境管理司副司长, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { rung: vice, date: 2006-12, post: 国家环保总局副局长、国家核安全局局长, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { rung: minister, date: 2017-06, post: 环境保护部部长, cite: b15-guancha-2020-07-21-li-ganjie-governor }
+    - { rung: pb, date: 2022-10, post: 中央政治局委员, cite: b08-wikisource-2022-10-23-20-1-plenum }
+  turns:
+    - date: 1989-07
+      h: 核安全中心当工程师
+      text: >-
+        李干杰 1981 年考入清华工程物理系，读完核反应堆工程本科和硕士，1989 年 7 月到国家核安全局北京核安全中心当助理工程师，其间赴法国核安全与辐射防护研究院进修。
+      did: >-
+        从核安全监管的技术岗位做起。
+      who: []
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor, b15-tsinghua-2007-01-11-li-ganjie]
+    - date: 1998-01
+      h: 挂职平江驻法使馆
+      text: >-
+        1994 年他任核反应堆处副处长，1996 年任处长；1998 年挂职湖南平江县委副书记，1999 年任中国驻法国使馆科技处一等秘书，2000 年回国后任副司长，2001 年任核安全中心主任（正局级）。
+      did: >-
+        处长任上先后下基层挂职、出国驻外，回来升到局级。
+      who: []
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor]
+    - date: 2006-12
+      h: 四十二岁升副部
+      text: >-
+        2006 年 12 月，42 岁的他任国家环保总局副局长兼国家核安全局局长，2008 年环保部成立后任副部长，在这个位置上干了近十年。
+      did: >-
+        以核安全专家身份进入部级领导层。
+      who: []
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor, b15-tsinghua-2007-01-11-li-ganjie]
+    - date: 2016-10
+      h: 被点名抓紧培养
+      text: >-
+        2016 年 10 月他外放河北任省委副书记，2017 年 6 月回京任环保部长，2020 年任山东省长、次年任山东省委书记，2022 年二十大进入政治局并接替陈希任中组部长。自由亚洲电台写道，他在担任环保部长期间被习近平指定“抓紧培养”；亚洲协会的报告说，陈希是“清华新军”的教父式人物，“now with Li serving as his lieutenant”。
+      did: >-
+        河北过渡半年回部里当部长，再到山东主政，最后接手中组部。
+      who: [xi-jinping, chen-xi]
+      cites: [b15-guancha-2020-07-21-li-ganjie-governor, f02-rfa-2023-02-13-jungong, f01-asiasociety-tsinghua]
+  can:
+    text: >-
+      专业监管干部的路：在一个技术性很强的领域（核安全）从工程师做到局长，中间有基层挂职、驻外经历，再从副部长转为部长、到地方主政，层级一级不落。
+    cites: [b15-guancha-2020-07-21-li-ganjie-governor]
+  cannot:
+    text: >-
+      在副部长位置上一待十年，说明单靠专业很难再往上走；他后来几年的快速晋升，按境外媒体的说法与最高领导人的点名和陈希的提携有关，这类机遇个人无法安排。
+    cites: [f02-rfa-2023-02-13-jungong, f01-asiasociety-tsinghua, b15-guancha-2020-07-21-li-ganjie-governor]
+
+you-quan:
+  routes: [secretary, staff, patron]
+  rungs:
+    - { rung: county, date: 1990, post: 国务院办公厅秘书二局一组副组长（副处级）, cite: b17-people-2017-11-07-you-ufwd }
+    - { rung: bureau, date: 1995, post: 国务院办公厅秘书二局助理政务专员（副局级）, cite: b17-people-2017-11-07-you-ufwd }
+    - { rung: vice, date: 2000, post: 国务院副秘书长, cite: b17-people-2017-11-07-you-ufwd }
+    - { rung: minister, date: 2006, post: 国家电力监管委员会主席, cite: b17-people-2017-11-07-you-ufwd }
+  turns:
+    - date: 1988
+      h: 研究生进国办秘书局
+      text: >-
+        尤权当过黑龙江兵团战士、北京第一机床厂工人，1984 年起在人民大学读国民经济计划硕士，毕业后留校任教一年，1988 年进入国务院办公厅秘书局，此后在秘书二局从主任科员做到组长。
+      did: >-
+        从高校教师转入国务院办公厅，做为领导服务的文字和秘书工作。
+      who: []
+      cites: [b17-people-2017-11-07-you-ufwd, u05-caixin-2008-03-27-you-quan]
+    - date: 1998
+      h: 秘书局长升副秘书长
+      text: >-
+        1998 年他任秘书二局局长，2000 年任国务院副秘书长。财新写道，他“2001年1月担任国务院副秘书长，分管金融工作”，2003 年任国家电力电信民航体制改革领导小组副组长。南华早报评价他“spent most of his career working as secretary in China’s cabinet”。
+      did: >-
+        在国务院办公厅系统里从秘书局长做到副秘书长，分管金融。
+      who: []
+      cites: [b17-people-2017-11-07-you-ufwd, u05-caixin-2008-03-27-you-quan, b17-scmp-2017-11-07-you-ufwd]
+    - date: 2008
+      h: 回国办管常务工作
+      text: >-
+        2006 年他出任国家电力监管委员会主席，2008 年初抗冰保电期间多次赶赴湖南、贵州等重灾区。2008 年他回到国务院任副秘书长，负责国务院办公厅常务工作（正部长级）。维基百科记载，2013 年肖捷“接替尤权负责李克强总理的日常工作”。
+      did: >-
+        短暂管过一个监管部门后，回国办负责常务工作，成为国务院领导身边的大管家。
+      who: [li-keqiang]
+      cites: [b17-people-2017-11-07-you-ufwd, u05-caixin-2008-03-27-you-quan, k04-wiki-xiao-jie]
+    - date: 2012
+      h: 出任福建书记
+      text: >-
+        2012 年十八大后他出任福建省委书记，2014 年陪同习近平在福建考察，习近平在那次考察中说“福建是我的第二故乡”。2017 年他进入中央书记处，任中央统战部部长。
+      did: >-
+        第一次到地方就当省委书记，五年后回中央进书记处。
+      who: []
+      cites: [b17-people-2017-11-07-you-ufwd, b17-gov-2014-11-02-xi-fujian]
+  can:
+    text: >-
+      国务院机关的秘书路线：在国办从科员做到常务副秘书长，熟悉政府运转和各部门协调，再外放一个省当书记，就能进入中央领导层。
+    cites: [b17-people-2017-11-07-you-ufwd]
+  cannot:
+    text: >-
+      这条路靠的是长期为国务院领导服务所积累的信任，离开机关后缺少地方和专门领域的历练；南华早报在他任统战部长时就指出，他在民族、宗教事务上几乎没有直接经验。
+    cites: [b17-scmp-2017-11-07-you-ufwd]
+
+fu-zhenghua:
+  routes: [law, patron]
+  rungs: []
+  turns:
+    - date: 1970-12
+      h: 当兵入党记一辈子
+      text: >-
+        傅政华 1970 年参军，第二年入党。中央纪委专题片里，办案人员说，入党时老班长提过一条意见，说他年龄太小、建议缓一缓，“这件事儿傅政华记了整整一辈子”，并说他“把入党做官看成了人生的入场券、垫脚石、敲门砖”。
+      did: >-
+        当兵、入党，把从政当作人生的头等目标。
+      who: []
+      cites: [b12-chinanews-2023-01-07-bugle-ep1]
+    - date: 1996
+      h: 北京刑警破大案
+      text: >-
+        他从北京市公安局普通侦查员做起，历任刑侦处大要案队队长、刑侦处副处长，参与侦破“1996年运钞车抢劫案”“1997年白宝山案”等大案；此后调任公安部刑侦局副局长，再回北京任市公安局副局长。
+      did: >-
+        靠刑侦业务在北京警界出头，几经调动做到市局副局长。
+      who: []
+      cites: [b12-bbc-2021-10-03-fu-zhenghua]
+    - date: 2010-02
+      h: 北京局长查天上人间
+      text: >-
+        2010 年 2 月他升任北京市公安局长，上任 74 天后突查“天上人间”等四家豪华会所，成为舆论焦点。中央纪委的专题片则说，他 2008 年结识刚到北京的公安部办公厅副主任孙力军，“2010年至2017年，经孙力军积极运作，傅政华先后提任北京市公安局局长、北京市委常委、公安部党委副书记、副部长等重要职务”。
+      did: >-
+        以高调扫黄打响首都公安局长任期，同时攀附部里的年轻实权人物。
+      who: [sun-lijun]
+      cites: [b12-bbc-2021-10-03-fu-zhenghua, b12-chinanews-2023-01-07-bugle-ep1]
+    - date: 2013
+      h: 办周永康案升部长
+      text: >-
+        BBC 写道，习近平主政后不久，傅政华擢升为公安部副部长；据南华早报报道，为了办理周永康案，习近平设特别小组，以傅政华为首直接向他汇报。2015 年他任公安部党委副书记（BBC 称此时成为正部长级，美国之音则说 2013 年任副部长时已是正部级），同年负责“709”大抓捕；2018 年任司法部长。2021 年 10 月他被立案审查，2022 年 9 月以受贿、徇私枉法罪被判死缓、终身监禁。
+      did: >-
+        在新一轮反腐中替最高层办大案，升到正部级、做司法部长，退休后一年多落马。
+      who: [xi-jinping]
+      cites: [b12-bbc-2021-10-03-fu-zhenghua, b12-voa-2021-10-02-fu-zhenghua, c03-xinhua-2022-09-22-fu-zhenghua-verdict]
+  can:
+    text: >-
+      政法业务干部的路：在刑侦一线办出成绩，在首都公安局长这种高曝光岗位上做出“看得见”的行动，再在重大专案里承担任务，这是公安口晋升的常见途径。
+    cites: [b12-bbc-2021-10-03-fu-zhenghua]
+  cannot:
+    text: >-
+      官方专题片把他的晋升归于孙力军的“运作”，境外媒体则强调他为最高层办周永康案；两种叙述都说明，他的上升高度依赖人身关系和专案时机。这条路的风险也写在判决里：所犯受贿、徇私枉法的罪行，就发生在这些任上。
+    cites: [b12-chinanews-2023-01-07-bugle-ep1, b12-bbc-2021-10-03-fu-zhenghua, c03-xinhua-2022-09-22-fu-zhenghua-verdict]
+  counter:
+    - id: liu-jinguo
+      name: 刘金国
+      text: 2015 年傅政华接过的，正是刘金国的公安部党委副书记位置；同样公安出身的刘金国则以清廉形象专任中央纪委副书记。
+      cite: b17-xinhua-2015-05-26-liu-jinguo-cv
+
+liu-jinguo:
+  routes: [base, law, crisis, ccdi]
+  rungs:
+    - { rung: county, date: 1986-01, post: 昌黎县委常委、组织部部长, cite: b17-xinhua-2015-05-26-liu-jinguo-cv }
+    - { rung: bureau, date: 1992-07, post: 秦皇岛市委常委、公安局局长, cite: b17-xinhua-2015-05-26-liu-jinguo-cv }
+    - { rung: vice, date: 2002-12, post: 河北省委常委、政法委书记, cite: b17-xinhua-2015-05-26-liu-jinguo-cv }
+    - { rung: minister, date: 2014-01, post: 公安部党委副书记（正部级）, cite: b17-xinhua-2015-05-26-liu-jinguo-cv }
+  turns:
+    - date: 1976-12
+      h: 从公社书记干起
+      text: >-
+        刘金国 1974 年高中毕业后回村任民兵连副连长，历任村党支部书记、公社党委副书记、书记；1976 年起任昌黎县槐李庄公社党委副书记、书记，1983 年进河北省委党校中青年干部培训班学习。
+      did: >-
+        在农村基层当了近十年公社干部，再进党校培训。
+      who: []
+      cites: [b17-chinanews-2014-10-25-liu-ccdi, b17-xinhua-2015-05-26-liu-jinguo-cv]
+    - date: 1992-05
+      h: 由区长转任公安局长
+      text: >-
+        他 1987 年任秦皇岛山海关区长，1991 年任秦皇岛市委秘书长，1992 年转任市公安局长并进市委常委，1995 年调河北省公安厅任副厅长，2001 年任省委政法委书记，2002 年进入省委常委。央视报道说，他调到省公安厅时，全部家当只有半卡车旧家具和一台黑白电视机。
+      did: >-
+        从地方党政岗位转入公安，在河北政法系统做到省委常委。
+      who: []
+      cites: [b17-xinhua-2015-05-26-liu-jinguo-cv, b17-cntv-2012-02-06-liu-touching-china]
+    - date: 2010-07
+      h: 火场指挥七小时
+      text: >-
+        2005 年他任公安部副部长，2008 年汶川地震时任公安部前线总指挥，央视称调集的公安救援力量从废墟中搜救出 8335 人。2010 年 7 月大连新港输油管线爆炸起火，他在火线前沿站着指挥了 8 个小时，对时任大连市公安局长王立科说：“我来到了这个火场，就没想活着回去。”2012 年他当选“感动中国”人物。
+      did: >-
+        在地震、大火等重大突发事件中亲临一线指挥，树起清廉实干的形象。
+      who: []
+      cites: [b17-cntv-2012-02-06-liu-touching-china, b17-chinanews-2014-10-25-liu-ccdi]
+    - date: 2014-10
+      h: 转任中纪委副书记
+      text: >-
+        2014 年 1 月他任公安部党委副书记（正部级），10 月当选中央纪委副书记，中新网称他是“近年来第二位政法系统出身的中纪委副书记”；他负责“猎狐”海外追逃。港媒传言他曾任周永康专案组副组长、组长是王岐山，并称他此前在公安部受到周永康人马排挤。
+      did: >-
+        从公安部转到中纪委，成为反腐和追逃的主要执行者之一。
+      who: [wang-qishan]
+      cites: [b17-xinhua-2015-05-26-liu-jinguo-cv, b17-chinanews-2014-10-25-liu-ccdi, b17-scmp-2014-11-08-liu-many-hats, b17-cbfau-2015-liu-wang-qishan]
+  can:
+    text: >-
+      从基层一级一级干上来，在每个岗位上都有清楚的业绩；在重大突发事件里敢于到一线，清廉的口碑也让他在反腐时代成为合适人选。南华早报形容他有一份“squeaky-clean record”。
+    cites: [b17-cntv-2012-02-06-liu-touching-china, b17-scmp-2014-11-08-liu-many-hats]
+  cannot:
+    text: >-
+      港媒称他没有什么政治背景和靠山，在公安部副部长中排名长期靠后；他转到中纪委，正赶上十八大后反腐需要政法出身、形象干净的执行者。这样的时代需求不是个人能安排的，靠清廉和苦干本身未必能升到这一步。
+    cites: [b17-cbfau-2015-liu-wang-qishan, b17-chinanews-2014-10-25-liu-ccdi]
+  counter:
+    - id: fu-zhenghua
+      name: 傅政华
+      text: 同样是公安出身、同样在公安部党委副书记位置上（2015 年接替刘金国），傅政华 2022 年以受贿、徇私枉法罪被判死缓并终身监禁。
+      cite: c03-xinhua-2022-09-22-fu-zhenghua-verdict
+
+lu-wei:
+  routes: [media, crisis]
+  rungs:
+    - { rung: bureau, date: 1994-06, post: 新华社广西分社副社长, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+    - { rung: vice, date: 2004-05, post: 新华社副社长, cite: c03-ccdi-2017-11-21-lu-wei-probe }
+  turns:
+    - date: 1980
+      h: 从工人到记者
+      text: >-
+        鲁炜生于安徽巢湖农村，中学毕业后下乡，回乡当过代课老师、民办教师。1980 年他顶班到桂林风动工具厂，从机械工人做到宣传干事，后调桂林市中级人民法院当书记员，又成为《广西法制报》记者，其间拿到广西广播电视大学的中文专业文凭。
+      did: >-
+        没有正规大学学历，靠写稿从工厂宣传干事一路转到报社记者。
+      who: []
+      cites: [b12-bbc-2018-07-30-lu-wei, c03-ccdi-2017-11-21-lu-wei-probe]
+    - date: 1991-04
+      h: 新华社最年轻局级
+      text: >-
+        1991 年他任新华社桂林记者站站长。BBC 写道，他“一年多发稿500多篇，平均每天一篇”，1992 年被评为新华社十大杰出人才之一；桂林空难后，他带队第一时间赶到现场，刊发辟谣稿件，“受到中央领导的赞扬”。1994 年他任广西分社副社长，1997 年任社长，“成为当时新华社最年轻的正司局级干部”。
+      did: >-
+        靠高产和一次突发事件报道在新华社出名，六年里从记者站站长升到分社社长。
+      who: []
+      cites: [b12-bbc-2018-07-30-lu-wei, c03-ccdi-2017-11-21-lu-wei-probe]
+    - date: 2011-03
+      h: 进京管宣传和网络
+      text: >-
+        2001 年他调新华社总社任副秘书长、秘书长，2004 年任副社长；2011 年任北京市委常委、宣传部长，2013 年 4 月出任国家互联网信息办公室主任，次年兼任中宣部副部长。BBC 写道，他与“大V”座谈并达成坚守“七条底线”的共识，随后薛蛮子被拘、方舟子被封号；纽约时报中文网说他成了中国“愈发强硬的互联网管控的象征”。
+      did: >-
+        从新闻机构的管理者转为互联网管控的主事人，主导整治网络大V、创办世界互联网大会。
+      who: []
+      cites: [c03-ccdi-2017-11-21-lu-wei-probe, b12-bbc-2017-11-22-lu-wei, b12-bbc-2018-07-30-lu-wei, b12-nytcn-2017-11-22-lu-wei]
+    - date: 2016-06
+      h: 调离网信办后落马
+      text: >-
+        2016 年 6 月他调离网信办，只保留中宣部副部长职务；2017 年 11 月被宣布接受审查，是十九大后落马的首位正部级官员。2019 年 3 月他以受贿罪被判处有期徒刑十四年，法院认定受贿发生在他任新华社、北京市和网信办领导期间。
+      did: >-
+        离开实权位置一年多后落马。
+      who: []
+      cites: [b12-bbc-2017-11-22-lu-wei, c03-xinhua-2019-03-26-lu-wei-verdict]
+  can:
+    text: >-
+      媒体系统的路：在新闻一线靠勤奋和突发事件报道出名，再转做新闻单位的管理，进而进入宣传口。鲁炜没有正规大学学历，这条路在当时的新华社是可以走通的。
+    cites: [b12-bbc-2018-07-30-lu-wei]
+  cannot:
+    text: >-
+      靠“受到中央领导的赞扬”的机会出头，本身就是不可复制的时机；后来他在网信办手握大权、风格张扬，BBC 称他“善于塑造形象”，而判决显示他从 2002 年起就利用职务收钱。权力越集中、形象越鲜明，出事后的落差也越大。
+    cites: [b12-bbc-2018-07-30-lu-wei, c03-xinhua-2019-03-26-lu-wei-verdict]
+
+lai-xiaomin:
+  routes: [finance, patron, secretary]
+  rungs: []
+  turns:
+    - date: 1983-07
+      h: 被挑进人民银行总行
+      text: >-
+        赖小民是江西瑞金人。《金融世界》写道，江西财经学院当时是人民银行直属院校，人民银行从该届学生中“挑选了2名毕业生，直接进入总行，赖小民便是其中之一”。他在人行系统“24岁出任中央资金处副处长，34岁升任信贷管理司副司长”。
+      did: >-
+        大学毕业直接进央行总行，在计划资金、信贷管理部门升得很快。
+      who: []
+      cites: [u05-cnfin-2013-11-14-lai-xiaomin, c03-ccdi-2018-04-17-lai-xiaomin-probe, b12-sina-2020-01-13-national-supervision-ep2]
+    - date: 2003
+      h: 跟刘明康去银监会
+      text: >-
+        2003 年银监会组建，他到银监会任银行监管二部副局级干部，后任北京监管局筹备组组长、北京银监局局长，再任银监会办公厅主任、首席新闻发言人。看中国（传闻）称，他在央行两次关键晋升与时任副行长陈元有关，到银监会后被刘明康重用，成为“刘明康的大秘”。
+      did: >-
+        进入新成立的银监会，先当地方监管局长，再回会里当办公厅主任。
+      who: [liu-mingkang]
+      cites: [c03-ccdi-2018-04-17-lai-xiaomin-probe, u05-secretchina-2021-01-20-lai-patron]
+    - date: 2009-01
+      h: 被动员去华融
+      text: >-
+        2009 年 1 月他任中国华融资产管理公司总裁。每日经济新闻引述他的话说，直到银监会主席刘明康和主管副主席“找他谈了4次”他才接受；他说自己“当了10年的厅局级干部了，我想在仕途上一直走下去”，而当时华融 32 个分公司中有 25 个严重亏损。2012 年他任华融董事长。
+      did: >-
+        从监管机关转到一家亏损的资产管理公司当一把手，开始大规模扩张。
+      who: [liu-mingkang]
+      cites: [u05-nbd-2018-04-17-lai-xiaomin, b12-hkcd-2018-08-12-lai-cash]
+    - date: 2018-04
+      h: 扩张后落马
+      text: >-
+        华融在他手里发展成拥有银行、证券、信托等全牌照的金融集团。华融国际原总经理白天辉对央视说：“他往上升的话肯定需要业绩”，只要短期把规模和利润做出来，长期风险他不管。2018 年 4 月他被查，办案人员在其房产中搜出 2.7 亿元现金；2021 年 1 月他以受贿、贪污、重婚罪被判处死刑，当月执行。
+      did: >-
+        把一家坏账公司做成金融巨头，用业绩换升迁，最终以受贿 17 亿余元被判死刑。
+      who: []
+      cites: [b12-sina-2020-01-13-national-supervision-ep2, b12-hkcd-2018-08-12-lai-cash, c03-xinhua-2021-01-29-lai-xiaomin-executed]
+  can:
+    text: >-
+      金融监管干部的路：名校毕业直接进中央金融机关，在业务部门做得出色，被领导选去筹建新机构、当办公厅主任，再被派去执掌金融企业。
+    cites: [u05-cnfin-2013-11-14-lai-xiaomin, c03-ccdi-2018-04-17-lai-xiaomin-probe]
+  cannot:
+    text: >-
+      这条路依赖一两位上级的赏识（传闻称是陈元、刘明康）；到企业以后，升迁取决于“业绩”，而金融企业的业绩可以靠激进扩张在短期做出来，风险留给以后。央视专题片里，下属的话是“老赖一支笔说了算”，监督完全失效。
+    cites: [u05-secretchina-2021-01-20-lai-patron, b12-sina-2020-01-13-national-supervision-ep2]
+
+sun-lijun:
+  routes: [secretary, law, patron]
+  rungs: []
+  turns:
+    - date: 2001
+      h: 父亲托关系进卫生局
+      text: >-
+        孙力军 1969 年生于青岛，在澳大利亚新南威尔士大学取得公共卫生硕士。中央纪委专题片说，他大学毕业后先跟温州商人倒卖钢材，“后来，他父亲找关系，将他安排到卫生部门工作”；他在上海市卫生局外事处、上海市外办任职，2001 年起就与医药商人合作牟利。
+      did: >-
+        靠家里的关系进入上海卫生系统，从外事岗位起步。
+      who: []
+      cites: [b12-bbc-2020-04-20-sun-lijun, b12-xinhua-2022-01-15-zero-tolerance-ep1, c03-xinhua-2022-09-23-sun-lijun-verdict]
+    - date: 2008
+      h: 给公安部长当秘书
+      text: >-
+        他从上海外办调到公安部任办公厅副主任，BBC 说他曾任孟建柱的秘书。调京时间各方说法不一：中央纪委专题片说是 2008 年，联合早报说是 2010 年。王立科说 2008 年下半年认识他时，觉得他“是公安部领导，很年轻”。
+      did: >-
+        从地方外事干部跨系统进入公安部机关，在部长身边工作。
+      who: [meng-jianzhu]
+      cites: [b12-bbc-2020-04-20-sun-lijun, b12-zaobao-2020-04-21-sun-lijun, b12-xinhua-2022-01-15-zero-tolerance-ep1]
+    - date: 2018-03
+      h: 最年轻的副部长
+      text: >-
+        此后他任公安部一局（国内安全保卫局）局长、二十六局局长、港澳台办主任，2016 年任公安部党委委员，2018 年 3 月任副部长，自恃是公安部“最年轻的党委委员、副部长”。专题片说他运作提拔龚道安、邓恢林、刘新云等人，收受王立科巨额财物并帮其升任江苏省委常委，还给自己定下“十五年规划”，争取五年上一个台阶。
+      did: >-
+        十年里从办公厅副主任升到副部长，同时培植了一个跨省的“小圈子”。
+      who: []
+      cites: [b12-zaobao-2020-04-21-sun-lijun, b12-xinhua-2022-01-15-zero-tolerance-ep1]
+    - date: 2020-04
+      h: 武汉督导后被查
+      text: >-
+        2020 年 2 月他作为中央指导组成员赴武汉督导疫情防控，4 月被宣布审查。公安部将他与周永康、孟宏伟并列，要“肃清”其“流毒影响”。2022 年 9 月他以受贿、操纵证券市场、非法持有枪支罪被判死缓、终身监禁，受贿 6.46 亿余元。
+      did: >-
+        在仕途上升期突然落马，团伙中多名省部级干部一并被查。
+      who: []
+      cites: [b12-bbc-2020-04-20-sun-lijun, c03-xinhua-2022-09-23-sun-lijun-verdict]
+  can:
+    text: >-
+      部长秘书是进入核心机关的捷径：在部长身边工作，熟悉全局，之后再到要害业务局任局长，几年内就能进入部党委。
+    cites: [b12-bbc-2020-04-20-sun-lijun, b12-zaobao-2020-04-21-sun-lijun]
+  cannot:
+    text: >-
+      他的起点是父亲托的关系，跨系统进公安部靠的是在部长身边的位置；他后来的上升又靠拉帮结派、权钱交换。官方专题片称这是“十九大以来我们查处的最严重的案件之一”。这条路的每一步都依赖人身关系，靠山与“小圈子”最终也成了他的罪状。
+    cites: [b12-xinhua-2022-01-15-zero-tolerance-ep1]
+  counter:
+    - id: wang-xiaohong
+      name: 王小洪
+      text: 同期的公安部副部长，2018 年起任常务副部长，2022 年接任公安部长。他从县级公安局一级级干上来，没有部长秘书经历。
+      cite: b17-fznews-2022-06-28-wang-xiaohong-cv
+
+su-rong:
+  routes: [base, local]
+  rungs:
+    - { rung: county, date: 1975, post: 洮安县委常委、那金公社党委书记, cite: b12-xinhua-2013-03-11-su-rong-resume }
+    - { rung: bureau, date: 1985, post: 白城地委副书记、行署专员, cite: b12-xinhua-2013-03-11-su-rong-resume }
+    - { rung: vice, date: 1992, post: 吉林省委常委、秘书长, cite: b12-xinhua-2013-03-11-su-rong-resume }
+    - { rung: minister, date: 2001, post: 青海省委书记, cite: b12-xinhua-2013-03-11-su-rong-resume }
+  turns:
+    - date: 1968
+      h: 从大队会计起步
+      text: >-
+        苏荣 1968 年起在吉林洮安县那金公社新力大队当会计、党支部副书记，1974 年任公社党委副书记、书记，1975 年进洮安县委常委，1980 年任县委副书记，其间进农业部干部培训班和省委党校学习。
+      did: >-
+        在农村大队、公社一级做起，二十多岁就进了县委班子。
+      who: []
+      cites: [b12-xinhua-2013-03-11-su-rong-resume]
+    - date: 1983
+      h: 县委书记到地委书记
+      text: >-
+        1983 年他任白城地委委员、扶余县委书记，1985 年任白城地委副书记、行署专员，1987 年任地委书记，1989 年调任四平市委书记。
+      did: >-
+        在吉林西部当了几年县、地两级一把手。
+      who: []
+      cites: [b12-xinhua-2013-03-11-su-rong-resume]
+    - date: 1992
+      h: 省委秘书长到副书记
+      text: >-
+        1992 年他进入吉林省委常委任秘书长，1995 年任延边州委书记，1996 年任省委副书记，其间读完吉林大学世界经济在职硕士。
+      did: >-
+        从地方一把手进入省委班子，在省委副书记位置上干了五年。
+      who: []
+      cites: [b12-xinhua-2013-03-11-su-rong-resume]
+    - date: 2001
+      h: 三省书记到副国级
+      text: >-
+        2001 年他任青海省委书记，2003 年调甘肃，2006 年任中央党校副校长（正部长级），2007 年任江西省委书记，2013 年 3 月当选全国政协副主席并继续兼任江西省委书记。BBC 说他曾被视为中国政坛的一位明星人物。2014 年 6 月他被调查，成为十八大后落马的首位副国级官员，2017 年 1 月被判处无期徒刑。
+      did: >-
+        先后主政三个省，最后在江西书记任上升为国家领导人，一年多后落马。
+      who: []
+      cites: [b12-xinhua-2013-03-11-su-rong-resume, b12-bbc-2014-06-25-su-rong, c03-people-2017-01-23-su-rong-verdict]
+  can:
+    text: >-
+      基层一路干上来的“台阶型”干部：大队、公社、县、地、省，每一级都当过一把手，资历完整，是那个年代提拔干部的标准样子。
+    cites: [b12-xinhua-2013-03-11-su-rong-resume]
+  cannot:
+    text: >-
+      完整的台阶不等于有人监督。新华社的警示文章说，江西干部感叹他的问题“上级发现不了、同级不敢监督、下级不敢抵制”，苏荣自己在忏悔录里写“我家成了‘权钱交易所’”。他靠什么在省委书记任上连任、升至副国级，公开材料没有交代；自由亚洲电台的受访者认为他与周永康势力有关，这只是一家之言。
+    cites: [b12-xinhua-2015-05-29-su-rong-warning, b12-rfa-2014-06-15-su-rong]
