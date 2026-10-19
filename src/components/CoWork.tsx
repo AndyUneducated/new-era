@@ -1,11 +1,11 @@
 // One lane per member: every recorded post as a grey bar, the years spent in the same province as the
 // centre of the faction in the faction's colour. It shows what a label rests on, or that it rests on nothing.
 import * as d3 from 'd3'
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import type { Faction } from '../data/schema'
 import { centre, fallYear, membersOf, NOW, overlaps, stints } from '../lib/faction'
 import { fy } from '../lib/dates'
-import { go, personHref } from '../lib/router'
+import { go, personHref, useKept } from '../lib/router'
 import { useWidth } from '../lib/useSize'
 import { useAtlas } from '../state'
 import { useTip } from './bits'
@@ -18,7 +18,7 @@ export function CoWork({ f }: { f: Faction }) {
   const a = useAtlas()
   const tip = useTip()
   const [ref, width] = useWidth<HTMLDivElement>()
-  const [all, setAll] = useState(false)
+  const [all, setAll] = useKept(false)
   const hub = centre(f) ? a.person.get(centre(f)!) : undefined
   const rows = useMemo(() => {
     if (!hub) return []

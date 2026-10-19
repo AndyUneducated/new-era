@@ -3,9 +3,9 @@
 // Rows are shaded against their own peak and sorted by the year they first appear, so the succession of
 // slogans reads from top to bottom.
 import * as d3 from 'd3'
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { NOW } from '../../lib/faction'
-import { conceptHref, go } from '../../lib/router'
+import { conceptHref, go, useKept } from '../../lib/router'
 import { useWidth } from '../../lib/useSize'
 import { useAtlas } from '../../state'
 import { Src, useTip } from '../bits'
@@ -21,7 +21,7 @@ export function Press({ onPick }: { onPick: (id: string | null) => void }) {
   const [ref, width] = useWidth<HTMLDivElement>()
   const hasHits = a.db.press.some((t) => t.hits.length)
   const hasSample = a.db.corpus.some((d) => d.kind === 'editorial')
-  const [mode, setMode] = useState<'hits' | 'sample'>(hasHits ? 'hits' : 'sample')
+  const [mode, setMode] = useKept<'hits' | 'sample'>(hasHits ? 'hits' : 'sample')
   const years = d3.range(FIRST, Math.floor(NOW) + 1)
 
   const rows = useMemo(() => {

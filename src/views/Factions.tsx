@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Portrait, Section } from '../components/bits'
 import { AgeRule, SeatShare } from '../components/charts'
 import { Constellation } from '../components/Constellation'
@@ -8,7 +7,7 @@ import { MediaSplit } from '../components/MediaSplit'
 import { Overlap } from '../components/Overlap'
 import { FRAMES, type Frame } from '../data/schema'
 import { outlet } from '../lib/outlet'
-import { factionHref } from '../lib/router'
+import { factionHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 
 const FRAME_NOTE: Record<Frame, string> = {
@@ -21,7 +20,7 @@ const FRAME_NOTE: Record<Frame, string> = {
 
 export function Factions() {
   const a = useAtlas()
-  const [frame, setFrame] = useState<Frame>('classic')
+  const [frame, setFrame] = useKept<Frame>('classic')
   const list = a.db.factions.filter((f) => f.frame === frame)
   return (
     <div className="page">

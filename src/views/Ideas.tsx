@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { Portrait, Section } from '../components/bits'
 import { Heat } from '../components/Heat'
 import type { CorpusR } from '../data/db'
@@ -10,7 +10,7 @@ import { Spectrum } from '../components/ideas/Spectrum'
 import { Stream } from '../components/ideas/Stream'
 import { Targets } from '../components/ideas/Targets'
 import { Versions } from '../components/ideas/Versions'
-import { conceptHref, go, personHref, useRoute, withQuery } from '../lib/router'
+import { conceptHref, go, personHref, useKept, useRoute, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 
 const ERA: Record<string, string> = {
@@ -45,8 +45,8 @@ export function Ideas() {
   const a = useAtlas()
   const pick = useRoute().q.get('m')
   const onPick = (id: string | null) => go(withQuery('m', id ?? undefined))
-  const [ck, setCk] = useState('congress')
-  const [open, setOpen] = useState<Set<string>>(new Set())
+  const [ck, setCk] = useKept('congress')
+  const [open, setOpen] = useKept<Set<string>>(new Set())
   const toggle = (id: string) => setOpen((s) => {
     const n = new Set(s)
     if (n.has(id)) n.delete(id)

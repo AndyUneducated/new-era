@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { CcFalls } from '../components/CcFalls'
 import { Portrait, Section } from '../components/bits'
 import { Chains } from '../components/purges/Chains'
@@ -13,7 +13,7 @@ import { Seal } from '../components/Seal'
 import { CASE_KINDS, CASE_SYS, DISCIPLINES, OUTCOMES, POLITICS, TRIGGERS } from '../data/schema'
 import { short } from '../lib/dates'
 import { LEVELS, falls, months, placeAtFall, postAtFall, sysOf, type Fall } from '../lib/purge'
-import { href, personHref } from '../lib/router'
+import { href, personHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 
 type Scope = 'all' | 'high' | 'army'
@@ -68,11 +68,11 @@ function retiredFor(f: Fall): number | undefined {
 
 export function Purges() {
   const a = useAtlas()
-  const [missing, setMissing] = useState(false)
+  const [missing, setMissing] = useKept(false)
   const all = useMemo(() => falls(a.db.people, { missing }), [a, missing])
   const gone = useMemo(() => falls(a.db.people, { missing: true }).filter((f) => f.p.status === 'missing'), [a])
-  const [scope, setScope] = useState<Scope>('all')
-  const [year, setYear] = useState<number | undefined>()
+  const [scope, setScope] = useKept<Scope>('all')
+  const [year, setYear] = useKept<number>()
   const list = all.filter((f) => inScope(f, scope))
 
   const since18 = all.filter((f) => f.t >= 2012.87).length

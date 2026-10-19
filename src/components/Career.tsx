@@ -1,7 +1,7 @@
 // A person's positions on a time axis: as a subway line through the places served, or one band per system
 // (party, government, army) packed into rows.
 import { scaleLinear } from 'd3'
-import { useState } from 'react'
+import { useKept } from '../lib/router'
 import type { PersonR } from '../data/db'
 import { SYSTEMS, type Sys } from '../data/schema'
 import { fy, span, today } from '../lib/dates'
@@ -15,7 +15,7 @@ const GAP = 4
 
 export function Career({ p }: { p: PersonR }) {
   const places = new Set(p.positions.filter((x) => x.from).map((x) => province(x.place) ?? '中央')).size
-  const [view, setView] = useState<'bands' | 'subway'>(places >= 3 ? 'subway' : 'bands')
+  const [view, setView] = useKept<'bands' | 'subway'>(places >= 3 ? 'subway' : 'bands')
   if (p.positions.filter((x) => x.from).length < 2) return null
   return (
     <div className="card pad" style={{ marginTop: 20 }}>

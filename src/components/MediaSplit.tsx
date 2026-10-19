@@ -1,12 +1,12 @@
 // 媒体判断对照: people labelled in one frame by two or more outlets, one column per outlet, so the cases
 // where outlets put the same person in different factions stand out.
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import type { PersonR } from '../data/db'
 import type { Faction, FactionTag, Frame } from '../data/schema'
 import { shortName } from '../lib/faction'
 import { outlet } from '../lib/outlet'
 import { quoted } from '../lib/quotes'
-import { personHref } from '../lib/router'
+import { personHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 import { Portrait, useTip } from './bits'
 
@@ -18,7 +18,7 @@ interface Row { p: PersonR; by: Map<string, { f: Faction; t: FactionTag }[]>; sp
 export function MediaSplit({ frame }: { frame: Frame }) {
   const a = useAtlas()
   const tip = useTip()
-  const [onlySplit, setOnlySplit] = useState(true)
+  const [onlySplit, setOnlySplit] = useKept(true)
   const { rows, cols } = useMemo(() => {
     const rows: Row[] = []
     for (const p of a.db.people) {

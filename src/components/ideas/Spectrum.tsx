@@ -2,6 +2,7 @@
 // the dots are the isms alive then. Positions are the editor's judgment of relative stance (decisions #26).
 import * as d3 from 'd3'
 import { useEffect, useMemo, useState } from 'react'
+import { useKept } from '../../lib/router'
 import { AXES, ISM_KINDS, type Axis } from '../../data/schema'
 import { fmt, fy } from '../../lib/dates'
 import { NOW } from '../../lib/faction'
@@ -22,8 +23,8 @@ export function Spectrum({ pick, onPick }: { pick: string | null; onPick: (id: s
   const a = useAtlas()
   const tip = useTip()
   const [ref, width] = useWidth<HTMLDivElement>()
-  const [plane, setPlane] = useState(0)
-  const [t, setT] = useState(Math.floor(NOW))
+  const [plane, setPlane] = useKept(0)
+  const [t, setT] = useKept(Math.floor(NOW))
   const [playing, setPlaying] = useState(false)
   const [h, v] = PLANES[plane]
 

@@ -1,14 +1,13 @@
 // Counted bars for the anatomy of the falls: one row per category, a click lists who is in it.
-import { useState } from 'react'
 import type { PersonR } from '../../data/db'
-import { personHref } from '../../lib/router'
+import { personHref, useKept } from '../../lib/router'
 import { Srcs } from '../bits'
 
 export interface TallyRow { key: string; label: string; list: { p: PersonR; date?: string }[]; color?: string; note?: string }
 
 export function Tally({ rows, of, unit = '人', fold }: { rows: TallyRow[]; of?: number; unit?: string; fold?: number }) {
-  const [open, setOpen] = useState<string>()
-  const [all, setAll] = useState(false)
+  const [open, setOpen] = useKept<string>()
+  const [all, setAll] = useKept(false)
   const max = Math.max(1, ...rows.map((r) => r.list.length))
   const shown = rows.filter((r) => r.list.length)
   const rest = fold && !all ? shown.length - fold : 0

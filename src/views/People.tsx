@@ -1,11 +1,11 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { Portrait, Status } from '../components/bits'
 import { Seal } from '../components/Seal'
 import { SEAL_TEXT } from '../lib/fall'
 import type { PersonR } from '../data/db'
 import { FRAMES, ROLES, STATUS, type Role, type Status as St } from '../data/schema'
 import { age } from '../lib/dates'
-import { personHref } from '../lib/router'
+import { personHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 
 // each person is shown once, under the first of these groups they belong to
@@ -26,11 +26,11 @@ const groupOf = (p: PersonR) => GROUPS.findIndex(([, rs]) => rs.some((r) => p.ro
 
 export function People() {
   const a = useAtlas()
-  const [q, setQ] = useState('')
-  const [role, setRole] = useState<Role | ''>('')
-  const [status, setStatus] = useState<St | ''>('')
-  const [fac, setFac] = useState('')
-  const [full, setFull] = useState(false)
+  const [q, setQ] = useKept('')
+  const [role, setRole] = useKept<Role | ''>('')
+  const [status, setStatus] = useKept<St | ''>('')
+  const [fac, setFac] = useKept('')
+  const [full, setFull] = useKept(false)
 
   const shown = useMemo(() => {
     const t = q.trim().toLowerCase()

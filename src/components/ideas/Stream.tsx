@@ -1,7 +1,8 @@
 // 主义词频: how often each ism's terms appear per 10 000 characters, year by year, in the official texts or in
 // the 人民日报 editorial sample. Years with too little text are left out.
 import * as d3 from 'd3'
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
+import { useKept } from '../../lib/router'
 import type { CorpusR } from '../../data/db'
 import { ISM_KINDS, type Ism, type IsmKind } from '../../data/schema'
 import { ismColor } from '../../lib/isms'
@@ -24,7 +25,7 @@ export function Stream({ pick, onPick }: { pick: string | null; onPick: (id: str
   const a = useAtlas()
   const tip = useTip()
   const [ref, width] = useWidth<HTMLDivElement>()
-  const [set, setSet] = useState('official')
+  const [set, setSet] = useKept('official')
   const avail = SETS.filter(([, , kinds]) => a.db.corpus.some((d) => kinds.includes(d.kind)))
 
   const { years, isms, rate } = useMemo(() => {

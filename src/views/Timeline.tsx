@@ -3,7 +3,7 @@ import { scaleTime, select, zoom as d3zoom, zoomIdentity, type ZoomBehavior, typ
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { LANES, type Event, type Lane } from '../data/schema'
 import { fmt, short, today } from '../lib/dates'
-import { eventHref, go } from '../lib/router'
+import { eventHref, go, useKept } from '../lib/router'
 import { useWidth } from '../lib/useSize'
 import { useAtlas } from '../state'
 import { useTip } from '../components/bits'
@@ -42,7 +42,7 @@ const day = (d: string) => new Date(`${d.length === 4 ? `${d}-07-01` : d.length 
 
 export function Timeline() {
   const a = useAtlas()
-  const [off, setOff] = useState<Set<Lane>>(new Set())
+  const [off, setOff] = useKept<Set<Lane>>(new Set())
   const lanes = (Object.keys(LANES) as Lane[]).filter((l) => !off.has(l))
   const toggle = (l: Lane) => setOff((s) => {
     const n = new Set(s)

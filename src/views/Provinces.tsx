@@ -8,7 +8,7 @@ import { FIRST, POST_LABEL, fellAfter, holderAt, tenures, yearSpan, type Post } 
 import { cnNum } from '../lib/cn'
 import { short } from '../lib/dates'
 import { NOW } from '../lib/faction'
-import { personHref, useRoute } from '../lib/router'
+import { personHref, useKept, useRoute } from '../lib/router'
 import { useAtlas } from '../state'
 
 const LAST = Math.floor(NOW)
@@ -20,10 +20,10 @@ export function Provinces() {
   const a = useAtlas()
   const list = useMemo(() => tenures(a), [a])
   const q = useRoute().q
-  const [year, setYear] = useState(() => Math.min(LAST, Math.max(FIRST, Number(q.get('y')) || LAST)))
-  const [post, setPost] = useState<Post>(q.get('post') === 'gov' ? 'gov' : 'sec')
-  const [pick, setPick] = useState<Province>(() => PROVINCES.find((p) => p === q.get('p')) ?? '重庆')
-  const [framePick, setFramePick] = useState<FramePick>('auto')
+  const [year, setYear] = useKept(() => Math.min(LAST, Math.max(FIRST, Number(q.get('y')) || LAST)))
+  const [post, setPost] = useKept<Post>(q.get('post') === 'gov' ? 'gov' : 'sec')
+  const [pick, setPick] = useKept<Province>(() => PROVINCES.find((p) => p === q.get('p')) ?? '重庆')
+  const [framePick, setFramePick] = useKept<FramePick>('auto')
   const [playing, setPlaying] = useState(false)
   const frame = framePick === 'auto' ? autoFrame(year) : framePick
 

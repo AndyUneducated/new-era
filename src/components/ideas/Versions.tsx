@@ -1,6 +1,7 @@
 // 党章宪法逐版对照: two versions side by side as one text, deletions struck in seal red and insertions
 // underlined in gold; unchanged runs fold away, a minimap on the right marks where the changes sit.
 import { Fragment, useEffect, useMemo, useState } from 'react'
+import { useKept } from '../../lib/router'
 import type { CorpusR } from '../../data/db'
 import { diff, paragraphs, type Row } from '../../lib/diff'
 import { useAtlas } from '../../state'
@@ -34,13 +35,13 @@ function useText(id?: string) {
 
 export function Versions() {
   const a = useAtlas()
-  const [kind, setKind] = useState<Kind>('charter')
+  const [kind, setKind] = useKept<Kind>('charter')
   const docs = useMemo(() => a.db.corpus.filter((d) => d.kind === kind).sort((x, y) => x.date.localeCompare(y.date)), [a, kind])
-  const [pick, setPick] = useState<{ from?: string; to?: string }>({})
+  const [pick, setPick] = useKept<{ from?: string; to?: string }>({})
   const to = docs.find((d) => d.id === pick.to) ?? docs.at(-1)
   const from = docs.find((d) => d.id === pick.from && d.date < (to?.date ?? '')) ?? docs.filter((d) => d.date < (to?.date ?? '')).at(-1)
-  const [numbers, setNumbers] = useState(true)
-  const [full, setFull] = useState(false)
+  const [numbers, setNumbers] = useKept(true)
+  const [full, setFull] = useKept(false)
   const A = useText(from?.id)
   const B = useText(to?.id)
   const rows = useMemo(() => (A && B ? diff(paragraphs(A), paragraphs(B), numbers) : []), [A, B, numbers])

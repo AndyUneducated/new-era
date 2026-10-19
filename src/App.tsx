@@ -50,11 +50,6 @@ export function App() {
     return () => removeEventListener('keydown', k)
   }, [])
 
-  // a new page starts at the top; opening the drawer does not move the page
-  const path = r.parts.join('/')
-  useEffect(() => {
-    scrollTo(0, 0)
-  }, [path])
   useEffect(() => {
     const t = id ? a.name(id) : NAV.find((n) => n[0] === top)?.[1]
     document.title = t ? `${t} · 新时代` : '新时代 · New Era — 2000 年以来的中国政治'

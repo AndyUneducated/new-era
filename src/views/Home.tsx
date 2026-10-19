@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { Portrait, Section, Src } from '../components/bits'
 import { CcFalls } from '../components/CcFalls'
 import { Hemicycle, layout } from '../components/Hemicycle'
@@ -8,14 +8,14 @@ import { FRAMES, type Frame } from '../data/schema'
 import { short, today } from '../lib/dates'
 import { cnNum, congressName } from '../lib/cn'
 import { quoted } from '../lib/quotes'
-import { href, personHref } from '../lib/router'
+import { href, personHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 
 export function Home() {
   const a = useAtlas()
   const cs = a.db.congresses
-  const [n, setN] = useState(cs.at(-1)?.n ?? 20)
-  const [chosen, setFrame] = useState<Frame | null>(null)
+  const [n, setN] = useKept(cs.at(-1)?.n ?? 20)
+  const [chosen, setFrame] = useKept<Frame | null>(null)
   const c = a.congress.get(n)
   const frame: Frame = chosen ?? (n >= 19 ? 'xi' : 'classic')
 

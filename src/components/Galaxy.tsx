@@ -5,7 +5,7 @@ import type { PersonR } from '../data/db'
 import { RANKS, RELATIONS, type Faction } from '../data/schema'
 import { activeIn, centre, fallYear, level, membersOf, NOW, RING_ORDER, type Member } from '../lib/faction'
 import { quoted } from '../lib/quotes'
-import { go, personHref } from '../lib/router'
+import { go, personHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
 import { RumorMark, Src, useTip } from './bits'
 import { Face, fallen } from './Face'
@@ -82,7 +82,7 @@ function Label({ n }: { n: Placed }) {
 export function Galaxy({ f }: { f: Faction }) {
   const a = useAtlas()
   const tip = useTip()
-  const [year, setYear] = useState<number | null>(null)
+  const [year, setYear] = useKept<number | null>(null)
   const [playing, setPlaying] = useState(false)
   const [hover, setHover] = useState<string | null>(null)
   const members = useMemo(() => membersOf(a, f), [a, f])
