@@ -1,0 +1,89 @@
+# E13: policies with landing events from the thin years 2000–2002 and 2013, plus the mass-line conclusion. Appended to the concepts' own lists.
+
+strict-governance:
+  policies:
+    - { date: 2013-06-18, name: 党的群众路线教育实践活动, text: '', events: [e13-2014-mass-line-conclusion], cite: e13-gov-2014-10-08-mass-line-conclusion }
+
+three-stresses:
+  policies:
+    - { date: 2013-06-18, name: 党的群众路线教育实践活动, text: '', events: [e13-2014-mass-line-conclusion], cite: e13-gov-2014-10-08-mass-line-conclusion }
+
+advanced-nature-education:
+  policies:
+    - { date: 2013-06-18, name: 党的群众路线教育实践活动, text: '', events: [e13-2014-mass-line-conclusion], cite: e13-gov-2014-10-08-mass-line-conclusion }
+
+soe-reform:
+  policies:
+    - { date: 1998-06-09, name: 下岗职工基本生活保障和再就业, text: '', events: [e13-2002-liaoyang-daqing-protests], cite: e13-voa-2002-03-20-daqing-liaoyang }
+
+three-represents:
+  policies:
+    - date: 2002-05-31
+      name: 江泽民“5·31”讲话
+      text: 贯彻“三个代表”要求，关键在坚持与时俱进，核心在保持党的先进性，本质在坚持执政为民；21世纪头二十年是重要战略机遇期。
+      events: [e13-2002-may-31-speech]
+      cite: e13-cctv-2002-05-31-jiang-speech
+
+stability-maintenance:
+  policies:
+    - date: 2001-04-02
+      name: 全国社会治安工作会议部署“严打”整治斗争
+      text: 要求两年内社会治安明显进步，重点打击有组织犯罪、严重暴力犯罪和多发性犯罪，坚持依法从重从快。
+      events: [e13-2001-strike-hard]
+      cite: e13-cyol-2001-04-04-strike-hard
+
+sannong:
+  policies:
+    - date: 2001-02-17
+      name: 全国农村税费改革试点工作会议
+      text: 总结安徽等地农村税费改革试点经验，部署当年试点，以从根本上减轻农民负担。
+      events: [e13-2001-rural-tax-reform-pilot]
+      cite: e01-cpc-dsj-2001
+
+poverty-alleviation:
+  policies:
+    - date: 2001-05-24
+      name: 中国农村扶贫开发纲要（2001—2010年）
+      text: 中央扶贫开发工作会议总结“八七扶贫攻坚计划”，部署此后十年尽快解决少数贫困人口温饱问题。
+      events: [e13-2001-poverty-outline]
+      cite: e01-cpc-dsj-2001
+
+one-country-two-systems:
+  policies:
+    - date: 2002-09-24
+      name: 实施基本法第二十三条咨询文件
+      text: 港府提出叛国、分裂国家、煽动叛乱、颠覆、窃取国家机密等罪行的立法建议，咨询期三个月。
+      events: [e13-2002-article-23-consultation]
+      cite: e13-hkgov-2002-09-24-article23
+
+xi-military-thought:
+  policies:
+    - date: 2013-03-11
+      name: 提出党在新形势下的强军目标
+      text: 建设一支听党指挥、能打胜仗、作风优良的人民军队。
+      events: [e13-2013-strong-army-goal]
+      cite: e13-xinhua-2013-03-11-strong-army-goal
+
+xi-culture-thought:
+  policies:
+    - date: 2013-08-19
+      name: 2013年全国宣传思想工作会议
+      text: 意识形态工作是党的一项极端重要的工作，坚持团结稳定鼓劲、正面宣传为主。
+      events: [e13-2013-propaganda-conference]
+      cite: e13-people-2013-08-20-propaganda-conference
+
+belt-and-road:
+  policies:
+    - date: 2013-10-03
+      name: 倡议共建21世纪海上丝绸之路
+      text: 习近平在印尼国会提出同东盟国家共同建设21世纪“海上丝绸之路”，并倡议筹建亚洲基础设施投资银行。
+      events: [e13-2013-maritime-silk-road]
+      cite: e13-gov-2013-10-03-maritime-silk-road
+
+rule-of-law:
+  policies:
+    - date: 2013-12-28
+      name: 废止劳动教养制度
+      text: 全国人大常委会废止有关劳动教养的法律规定，正在执行的劳教人员解除劳教，剩余期限不再执行。
+      events: [e13-2013-rtl-abolished]
+      cite: e13-npc-2013-12-28-rtl-abolished

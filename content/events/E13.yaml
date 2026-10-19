@@ -1,0 +1,600 @@
+# E13: suggested events from CS6 (Huaxin, Tomorrow Group, Zhejiang Guangsha), the I07 leftover (mass-line conclusion), and the thin years 2000, 2001, 2002, 2013.
+
+# ---------- Huaxin / Ye Jianming (CS6) ----------
+- id: e13-2018-wang-sanyun-trial
+  date: 2018-10-11
+  title: 王三运受贿案开庭，起诉书点出“入股银行”
+  lane: purge
+  summary: 2018年10月11日，郑州中院公开审理原甘肃省委书记、全国人大教科文卫委员会原副主任委员王三运受贿案。检方指控他1993年至2017年在六盘水、贵州、安徽、甘肃任职期间，为相关单位和个人在“入股银行、工程承揽和职务晋升等事项上提供帮助”，受财物折合6685万余元，王三运当庭认罪。界面新闻次日报道，庭审披露中国华信董事局主席叶简明供述曾托王三运帮助上海华信入股海南银行，后者占股12%。
+  people: [wang-sanyun, ye-jianming]
+  voices:
+    - voice: official
+      text: 为相关单位和个人在入股银行、工程承揽和职务晋升等事项上提供帮助
+      cite: cs6-court-2018-10-11-wang-sanyun-trial
+      quote: true
+  cites: [cs6-court-2018-10-11-wang-sanyun-trial, cs6-jiemian-2018-10-12-ye-hainan-bank]
+
+- id: e13-2019-huaxin-bankruptcy
+  date: 2019-11-15
+  end: 2023-02
+  title: 上海华信破产清算，七十家关联企业实质合并
+  lane: econ
+  summary: 2019年11月15日，上海三中院根据东莞证券申请，裁定受理上海华信国际集团破产清算；此时上海华信已有13只债券违约，涉及金额逾265亿元，公告称控股股东中国华信董事会主席“不能正常履职”。上海破产法庭后将中国华信等70家关联企业实质合并破产清算，资产800余亿元、负债1700余亿元，香港高等法院2019年12月认可内地程序，案件于2023年2月终结。
+  people: [ye-jianming]
+  cites: [cs6-nbd-2019-12-09-cefc-bonds, cs6-tahota-2024-04-29-cefc-bankruptcy]
+
+# ---------- Tomorrow Group / Xiao Jianhua (CS6) ----------
+- id: e13-2019-baoshang-takeover
+  date: 2019-05-24
+  end: 2020-05-23
+  title: 人民银行、银保监会接管包商银行
+  lane: econ
+  major: true
+  summary: 2019年5月24日，人民银行和银保监会联合公告，因包商银行“出现严重信用风险”，自当日起接管一年，接管组组长周学东、副组长李国荣，委托建设银行托管业务，包商银行照常营业。周学东2020年撰文称，明天系通过209家空壳公司以347笔借款套取信贷资金，占款高达1560亿元，且全部成了不良贷款；接管后由存款保险基金出资，保障了近500万储户的权益。
+  people: [xiao-jianhua]
+  voices:
+    - voice: doc
+      text: 鉴于包商银行股份有限公司（以下简称包商银行）出现严重信用风险，为保护存款人和其他客户合法权益
+      cite: e13-pbc-2019-05-24-baoshang-takeover
+      quote: true
+  cites: [e13-pbc-2019-05-24-baoshang-takeover, cs6-thepaper-2020-08-03-zhou-xuedong]
+
+- id: e13-2020-mengshang-bank-opens
+  date: 2020-04-30
+  title: 蒙商银行开业，承接包商银行业务
+  lane: econ
+  summary: 2020年4月30日，蒙商银行正式成立并开业。同日包商银行接管组公告，包商银行的相关业务、资产和负债分别转让给蒙商银行，以及接收其4家区外分行的徽商银行；存款保险基金依《存款保险条例》第十八条授权向两家银行提供资金支持，并分担包商银行的资产减值损失。这一安排为一年后包商银行进入破产清算做了准备。
+  people: [xiao-jianhua]
+  cites: [cs6-thepaper-2020-08-03-zhou-xuedong]
+
+- id: e13-2020-tomorrow-six-takeover
+  date: 2020-07-17
+  end: 2021-07-16
+  title: 银保监会接管明天系六家保险、信托机构
+  lane: econ
+  summary: 2020年7月17日，银保监会宣布对天安财险、华夏人寿、天安人寿、易安财险、新时代信托、新华信托六家机构实施接管，期限一年；理由是四家险企触发保险法第一百四十四条、两家信托公司触发银行业监督管理法第三十八条的接管条件。太保财险、国寿健康、新华人寿、人保财险、中信信托、交银信托分别组建托管组。2022年肖建华案判决认定，其中天安财险、华夏人寿、天安人寿、易安财险和新时代信托均为明天控股实际控制。
+  people: [xiao-jianhua]
+  cites: [cs6-people-2020-07-17-takeover, cs6-shgov-2020-07-20-cbirc-qa, cs6-chinanews-2022-08-19-xiao-verdict]
+
+- id: e13-2021-baoshang-bankrupt
+  date: 2021-02-07
+  title: 北京一中院裁定包商银行破产
+  lane: econ
+  summary: 2021年2月7日，北京市第一中级人民法院裁定包商银行破产。此前法院已确认存款保险基金管理公司等728家债权人的无争议债权共2013.98亿元；管理人援引审计报告称，截至2020年10月31日包商银行资产总额仅4.47亿元、负债2059.62亿元，净资产为-2055.16亿元，在申请破产前已无任何生产经营和在职人员，第一次债权人会议上也无人提出重整申请。
+  people: [xiao-jianhua]
+  voices:
+    - voice: zh
+      text: 包商银行已经明显资不抵债且无实际清偿能力
+      cite: cs6-bbtnews-2021-03-09-baoshang-bankrupt
+      quote: true
+  cites: [cs6-bbtnews-2021-03-09-baoshang-bankrupt]
+
+- id: e13-2022-xiao-jianhua-verdict
+  date: 2022-08-19
+  title: 肖建华一审被判13年，明天控股被罚550.3亿元
+  lane: purge
+  major: true
+  summary: 2022年8月19日，上海一中院一审宣判明天控股及其实际控制人肖建华案：明天控股以非法吸收公众存款、背信运用受托财产、违法运用资金、单位行贿四罪被罚金550.3亿元，肖建华被判有期徒刑十三年并处罚金650万元。法院认定，明天控股2004年起以分散股权、层层控股、隐名控股实际控制包商银行、新时代信托、天安财险等多家金融机构，非法吸收公众资金3116亿余元，并向多名国家工作人员行贿6.8亿余元。
+  people: [xiao-jianhua]
+  voices:
+    - voice: official
+      text: 采用分散股权、层层控股、隐名控股等手段
+      cite: cs6-chinanews-2022-08-19-xiao-verdict
+      quote: true
+  cites: [cs6-chinanews-2022-08-19-xiao-verdict, cs6-dw-2022-08-19-xiao, c04-bbc-2022-08-19-xiao-jianhua]
+
+# ---------- Zhejiang Guangsha (CS6) ----------
+- id: e13-2014-lou-zhongfu-taken
+  date: 2014-12-27
+  title: 广厦集团创始人楼忠福被中纪委带走
+  lane: purge
+  summary: 2014年12月27日，浙江广厦集团创始人楼忠福被中纪委带走，据无界新闻报道，事由是与令计划妻子谷丽萍的非正常生意往来，此时令计划刚被宣布接受调查。中国经济周刊2015年引目击者说，他搭乘广州飞杭州的航班，在萧山机场廊桥下被带走；另说他是从澳大利亚过完圣诞节回国时在广州白云机场被带走（腾讯财经引权威人士，澎湃转引；BBC中文同说）。东阳一位企业家对中国经济周刊说，斯鑫良是楼忠福供出的。
+  people: [lou-zhongfu, ling-jihua, gu-liping, si-xinliang]
+  voices:
+    - voice: zh
+      text: 斯鑫良确由楼忠福供出
+      cite: cs6-chinanews-2015-07-28-lou-zhongfu
+      quote: true
+  cites: [cs6-chinanews-2015-07-28-lou-zhongfu, cs6-thepaper-2015-01-01-lou-taken, cs6-bbc-2015-01-01-lou-zhongfu, cs6-sohu-2015-07-14-lou-sponsor]
+
+- id: e13-2016-si-xinliang-verdict
+  date: 2016-12-13
+  title: 斯鑫良受贿案一审被判13年
+  lane: purge
+  summary: 2016年12月13日，九江市中级人民法院以受贿罪判处浙江省政协原副主席斯鑫良有期徒刑十三年，并处没收个人财产200万元。法院认定，2001年至2014年他在湖州市委书记、浙江省委组织部长、省政协副主席任上，为相关单位和个人在房地产开发、企业经营、职务提拔上提供帮助，直接或通过妻子金惠芳收受财物折合1955.442万元；因主动交代侦查机关尚未掌握的部分事实，依法从轻。
+  people: [si-xinliang]
+  voices:
+    - voice: official
+      text: 主动交代侦查机关尚未掌握的部分受贿犯罪事实
+      cite: t01-ccdi-2016-12-13-si-xinliang-verdict
+      quote: true
+  cites: [t01-ccdi-2016-12-13-si-xinliang-verdict, cs6-caixin-2016-08-18-si-trial]
+
+# ---------- mass line campaign conclusion (I07 leftover) ----------
+- id: e13-2014-mass-line-conclusion
+  date: 2014-10-08
+  title: 群众路线教育实践活动总结大会：“活动收尾绝不是作风建设收场”
+  lane: power
+  summary: 2014年10月8日，党的群众路线教育实践活动总结大会以电视电话会议形式开到县一级，习近平讲话，刘云山主持，其余常委出席。习近平说，活动从2013年6月开始自上而下分两批开展，“风清则气正，气正则心齐，心齐则事成”；但改进作风“取得的成果还是初步的”，并就新形势下坚持从严治党提出8点要求，包括制度执行不留“暗门”、不开“天窗”，并称“活动收尾绝不是作风建设收场”。
+  people: [xi-jinping, liu-yunshan, li-keqiang, zhang-dejiang, yu-zhengsheng, wang-qishan, zhang-gaoli]
+  concepts: [strict-governance, four-winds, eight-point-rules]
+  voices:
+    - voice: official
+      text: 活动收尾绝不是作风建设收场，必须以锲而不舍、驰而不息的决心和毅力，把作风建设不断引向深入
+      cite: e13-gov-2014-10-08-mass-line-conclusion
+      quote: true
+  cites: [e13-gov-2014-10-08-mass-line-conclusion]
+
+# ---------- 2000 ----------
+- id: e13-2000-karmapa-flight
+  date: 2000-01
+  title: 十七世噶玛巴出走印度
+  lane: ethnic
+  summary: 1999年12月31日，14岁的十七世噶玛巴伍金赤列与三名僧侣离开拉萨楚布寺，翻越喜马拉雅山，2000年1月初抵达达兰萨拉。他是第一位经中国当局批准坐床、同时为达赖喇嘛承认的活佛。国务院新闻办称他留信说是去国外取历世噶玛巴的黑帽和法器，“不是背叛国家和民族”，官方声明没有指责他非法离境；流亡政府则称出走原因是宗教自由受压制。
+  voices:
+    - voice: official
+      text: 不是背叛国家和民族
+      cite: e13-bbc-2000-01-07-karmapa
+      quote: true
+    - voice: zh
+      text: 导致噶玛巴喇嘛不久前逃离西藏的原因是中国政府压制宗教自由和侵犯人权
+      cite: e13-bbc-2000-01-10-karmapa-reason
+      quote: true
+  cites: [e13-bbc-2000-01-07-karmapa, e13-bbc-2000-01-10-karmapa-reason]
+
+- id: e13-2000-taiwan-white-paper
+  date: 2000-02-21
+  title: 《一个中国的原则与台湾问题》白皮书提出“三个如果”
+  lane: hkmt
+  major: true
+  summary: 2000年2月21日，台湾大选前一个月，国台办和国务院新闻办发表《一个中国的原则与台湾问题》白皮书，批评李登辉“两国论”，并把动武条件写成三个“如果”。其中“如果台湾当局无限期地拒绝通过谈判和平解决两岸统一问题”一条是新增的，中新社刊发的评论称，这使对台“战与和的界限”从两条变为三条。白皮书同时指责美国国会酝酿《加强台湾安全法》。
+  people: [jiang-zemin, li-denghui]
+  concepts: [one-country-two-systems]
+  voices:
+    - voice: doc
+      text: 如果出现台湾被以任何名义从中国分割出去的重大事变，如果出现外国侵占台湾，如果台湾当局无限期地拒绝通过谈判和平解决两岸统一问题，中国政府只能被迫采取一切可能的断然措施、包括使用武力
+      cite: e13-gov-2000-02-21-taiwan-white-paper
+      quote: true
+  cites: [e13-gov-2000-02-21-taiwan-white-paper, e13-chinanews-2000-02-27-white-paper-third-if]
+
+- id: e13-2000-young-cadres-symposium
+  date: 2000-04-27
+  end: 2000-04-28
+  title: 全国培养选拔青年干部工作座谈会
+  lane: power
+  summary: 2000年4月27日至28日，全国培养选拔青年干部工作座谈会在北京举行，胡锦涛讲话，要求抓紧培养选拔年轻干部，造就一大批能跨世纪担当重任、始终坚持“三个代表”要求的领导人才。他说这是党适应新形势、迎接新挑战的必然要求，关系老一代无产阶级革命家开创的社会主义事业代代相传，是“党和国家长治久安的战略大计”，要充分认识这项任务的重要性和紧迫性。
+  people: [hu-jintao]
+  concepts: [three-represents]
+  cites: [e01-cpc-dsj-2000]
+
+- id: e13-2000-ideological-work-conference
+  date: 2000-06-28
+  end: 2000-06-29
+  title: 中央思想政治工作会议：思想政治工作是“生命线”
+  lane: ideo
+  summary: 2000年6月28日至29日，中央思想政治工作会议在北京举行，江泽民讲话称党的思想政治工作是“经济工作和其他一切工作的生命线”，是党和社会主义国家的重要政治优势。他提出要从思想上弄清如何认识社会主义和资本主义发展的历史进程、改革实践对人们思想的影响、国际政治斗争的影响等直接影响干部群众思想活动的重大问题，希望全党深入研究，“从思想上政治上进一步取得科学认识”。
+  people: [jiang-zemin]
+  concepts: [three-represents]
+  voices:
+    - voice: history
+      text: 党的思想政治工作是经济工作和其他一切工作的生命线
+      cite: e01-cpc-dsj-2000
+      quote: true
+  cites: [e01-cpc-dsj-2000]
+
+- id: e13-2000-focac
+  date: 2000-10-10
+  end: 2000-10-12
+  title: 中非合作论坛首届部长级会议在北京召开
+  lane: foreign
+  summary: 2000年10月10日至12日，中国和44个非洲国家的部长在北京召开中非合作论坛首届部长级会议，通过《中非经济和社会发展合作纲领》。中方承诺在未来两年内减免非洲重债穷国和最不发达国家100亿元人民币债务，并约定三年后再开部长级会议，论坛由此机制化。外交部2003年称，中国在不到两年内减免了31个非洲国家105亿元人民币债务，超额兑现承诺。
+  voices:
+    - voice: doc
+      text: 中方承诺在未来两年内，减免非洲重债贫穷国和最不发达国家100亿元人民币债务
+      cite: e13-mfa-2000-10-12-focac-program
+      quote: true
+  cites: [e13-mfa-2000-10-12-focac-program, e13-mfa-2003-12-23-focac-followup]
+
+- id: e13-2000-defense-white-paper
+  date: 2000-10-16
+  title: 《2000年中国的国防》白皮书
+  lane: army
+  summary: 2000年10月16日，国务院新闻办发表《2000年中国的国防》白皮书，称台湾海峡局势“复杂、严峻”，把李登辉“两国论”、美国对台军售和战区导弹防御列为主要威胁，并重申台湾白皮书的三个“如果”。白皮书公布1998年至2000年国防费分别为934.7亿、1076.7亿和1212.9亿元，称增长主要用于军队停止经商后的保障；还称1997年宣布的裁军50万已于1999年底完成。
+  people: [jiang-zemin, chi-haotian]
+  cites: [e13-sina-2000-10-16-defense-white-paper]
+
+- id: e13-2000-yuanhua-verdict
+  date: 2000-11-08
+  title: 厦门远华走私案首批宣判，14人被判死刑
+  lane: purge
+  major: true
+  summary: 2000年11月8日，厦门特大走私案首批25起案件一审宣判，厦门海关原关长杨前线、福建省公安厅原副厅长庄如顺、厦门市原副市长蓝甫等14人被判死刑（其中3人死缓），中共厦门市委原副书记刘丰等12人被判无期徒刑。中央专案组查明，1996年以来赖昌星集团等在厦门关区走私成品油、汽车、香烟等，价值530亿元，偷逃税款300亿元。赖昌星之兄赖水强、之弟赖昌图因立功被减轻处罚，其余56人被判有期徒刑。
+  voices:
+    - voice: official
+      text: 价值人民币五百三十亿元，偷逃税款人民币三百亿元
+      cite: e13-chinanews-2000-11-08-yuanhua-verdict
+      quote: true
+  cites: [e13-chinanews-2000-11-08-yuanhua-verdict]
+
+- id: e13-2000-luoyang-fire
+  date: 2000-12-25
+  end: 2001-08-22
+  title: 洛阳东都商厦大火致309人死亡
+  lane: society
+  summary: 2000年12月25日晚，河南洛阳东都商厦发生特大火灾，正在楼上歌舞厅娱乐的309人遇难，起因是丹尼斯量贩东都分店养护员王成太的电焊作业。2001年8月22日，洛阳中院和涧西区法院一审判处23名被告人3至13年有期徒刑，王成太刑期最长，当地公安、消防、文化、工商、建设部门负责人也被判刑。新华社借此报道国务院特大安全事故行政责任追究规定。
+  voices:
+    - voice: official
+      text: 这是一起由人为原因造成的重大安全责任事故。
+      cite: e13-chinanews-2001-08-22-luoyang-fire-verdict
+      quote: true
+  cites: [e13-chinanews-2001-08-22-luoyang-fire-verdict, e13-xinhua-2001-08-22-luoyang-fire-verdict]
+
+# ---------- 2001 ----------
+- id: e13-2001-tiananmen-self-immolation
+  date: 2001-01-23
+  end: 2001-01-30
+  title: 天安门广场自焚事件
+  lane: society
+  major: true
+  summary: 2001年1月23日除夕下午，来自河南开封的数名法轮功学员在天安门广场人民英雄纪念碑北侧浇汽油自焚。新华社1月30日发长篇报道，详述12岁的刘思影重度烧伤、其母刘春玲身亡，并称自焚者受李洪志唆使；BBC引分析人士说，刘思影的惨状为政府争取公众支持打击法轮功提供了有力武器。法轮功组织否认自焚者是其成员，称事件由政府策划。人数另说：BBC当日引官方称1男4女、一死四伤，新华社一周后说是五女两男。
+  voices:
+    - voice: zh
+      text: 法輪功組織稱，中國政府一手策劃了這起自焚事件。
+      cite: e13-bbc-2001-01-30-self-immolation-details
+      quote: true
+  cites: [e13-bbc-2001-01-23-self-immolation, e13-bbc-2001-01-30-self-immolation-details]
+
+- id: e13-2001-rural-tax-reform-pilot
+  date: 2001-02-17
+  end: 2001-02-19
+  title: 全国农村税费改革试点工作会议在安徽召开
+  lane: econ
+  summary: 2001年2月17日至19日，全国农村税费改革试点工作会议在安徽召开，总结安徽等地试点经验、部署当年试点。温家宝说，推进农村税费改革是党和国家在农业发展新阶段解决农业、农村、农民问题的一项重大举措，“事关农村改革、发展、稳定的大局”，要求各级党委和政府从全局和战略的高度认识这项改革。当年1月中共中央、国务院的农业农村工作意见已提出“加快农村税费改革，从根本上减轻农民负担”。
+  people: [wen-jiabao, zhu-rongji]
+  concepts: [sannong]
+  voices:
+    - voice: history
+      text: 事关农村改革、发展、稳定的大局
+      cite: e01-cpc-dsj-2001
+      quote: true
+  cites: [e01-cpc-dsj-2001]
+
+- id: e13-2001-strike-hard
+  date: 2001-04-02
+  end: 2001-04-03
+  title: 全国社会治安工作会议部署第三次“严打”
+  lane: society
+  summary: 2001年4月2日至3日，全国社会治安工作会议在北京举行，江泽民、朱镕基讲话，要求在全国开展“严打”整治斗争，实现“两年内社会治安明显进步”。会议列出三类重点：有组织犯罪、带黑社会性质的团伙犯罪和流氓恶势力犯罪，爆炸杀人抢劫绑架等严重暴力犯罪，盗窃等多发性犯罪；要求“依法从重从快”、坚持“稳、准、狠”，并称“严打”是打击严重刑事犯罪活动的长期方针。
+  people: [jiang-zemin, zhu-rongji, luo-gan]
+  concepts: [stability-maintenance, three-represents]
+  voices:
+    - voice: official
+      text: 社会治安不仅是个重大的社会问题，也是一个重大的政治问题。
+      cite: e13-cyol-2001-04-04-strike-hard
+      quote: true
+  cites: [e13-cyol-2001-04-04-strike-hard]
+
+- id: e13-2001-poverty-outline
+  date: 2001-05-24
+  end: 2001-05-25
+  title: 中央扶贫开发工作会议与《中国农村扶贫开发纲要（2001—2010年）》
+  lane: econ
+  summary: 2001年5月24日至25日，中央扶贫开发工作会议在北京召开，总结“八七扶贫攻坚计划”，讨论《中国农村扶贫开发纲要（2001―2010年）》。温家宝说，七年攻坚后全国农村未解决温饱的贫困人口降到3000万左右，“中央确定的扶贫攻坚目标基本实现”；江泽民提出今后十年要尽快解决少数贫困人口的温饱问题，为贫困地区达到小康创造条件。纲要于9月20日在人民日报发表。
+  people: [jiang-zemin, wen-jiabao]
+  concepts: [poverty-alleviation, xiaokang]
+  cites: [e01-cpc-dsj-2001]
+
+- id: e13-2001-sixth-plenum
+  date: 2001-09-24
+  end: 2001-09-26
+  title: 十五届六中全会通过加强党的作风建设决定
+  lane: power
+  summary: 2001年9月24日至26日，中共十五届六中全会在北京举行，高度评价江泽民“七一”讲话，审议通过《中共中央关于加强和改进党的作风建设的决定》，提出八个“坚持……反对……”，如坚持密切联系群众、反对形式主义官僚主义，坚持任人唯贤、反对用人上的不正之风。全会决定十六大于2002年下半年召开，并开除了石兆彬、李嘉廷的党籍。
+  people: [jiang-zemin]
+  concepts: [three-represents]
+  voices:
+    - voice: history
+      text: 坚持密切联系群众，反对形式主义、官僚主义
+      cite: e01-cpc-dsj-2001
+      quote: true
+  cites: [e01-cpc-dsj-2001]
+
+- id: e13-2001-taiwan-legislative-election
+  date: 2001-12-01
+  title: 台湾“立委”选举，民进党首次成为第一大党
+  lane: hkmt
+  summary: 2001年12月1日，陈水扁上台后的首次“立法委员”改选中，民进党赢得87席，取代国民党成为立法院第一大党；国民党继前一年失去执政权后再遭挫败，只获68席，同属泛蓝、去年才成立的亲民党获40多席，李登辉主导成立的台湾团结联盟首次参选即获10席以上。民进党主席谢长廷说，加上台联，泛绿在立法院“将有百席的实力”，将配合陈水扁筹组“国家安定联盟”。县市长选举则两党平分秋色。
+  people: [chen-shuibian, li-denghui]
+  voices:
+    - voice: zh
+      text: 民进党正式成为立法院最大党，加上"台湾团结联盟"当选席次，在立法院将有百席的实力
+      cite: e13-bbc-2001-12-01-taiwan-legislative
+      quote: true
+  cites: [e13-bbc-2001-12-01-taiwan-legislative]
+
+# ---------- 2002 ----------
+- id: e13-2002-financial-work-conference
+  date: 2002-02-05
+  end: 2002-02-07
+  title: 第二次全国金融工作会议：国有独资商业银行可改制上市
+  lane: econ
+  summary: 2002年2月5日至7日，中共中央、国务院召开全国金融工作会议，江泽民讲话，朱镕基部署。会议称“加强监管是金融工作的重中之重”，要求“必须把银行办成现代金融企业”，并明确“具备条件的国有独资商业银行可改组为国家控股的股份制商业银行，条件成熟的可以上市”。中证网的回顾称，会后撤销中央金融工委、成立银监会，组建中央汇金公司主导银行业重组上市，工行、建行、中行的股份制改革和海外上市由此获得政策支持。
+  people: [jiang-zemin, zhu-rongji, li-peng, li-ruihuan, hu-jintao, wei-jianxing, li-lanqing, dai-xianglong]
+  concepts: [wto-accession]
+  voices:
+    - voice: doc
+      text: 具备条件的国有独资商业银行可改组为国家控股的股份制商业银行，条件成熟的可以上市。
+      cite: e13-reformdata-2002-02-07-fin-conference
+      quote: true
+  cites: [e13-reformdata-2002-02-07-fin-conference, e13-cs-2017-07-15-fin-conferences]
+
+- id: e13-2002-liaoyang-daqing-protests
+  date: 2002-03
+  end: 2003-05-09
+  title: 辽阳、大庆下岗工人大规模抗议
+  lane: society
+  summary: 2002年3月，东北两地下岗工人连续上街。大庆油田被“买断工龄”的下岗工人从3月初起抗议补偿不合理；辽阳破产的铁合金厂工人联合20多家工厂的工人，3月11日起上街要求补发欠薪、惩治腐败，导火索是市人大主任龚尚武在全国人大会期间对电视台称辽阳没有失业者。工人代表姚福信等四人先后被捕，当局同时补发部分欠薪。2003年5月姚福信、肖云良以颠覆国家政权罪被判7年和4年。
+  concepts: [soe-reform, mass-incidents]
+  voices:
+    - voice: west
+      text: 大庆失业工人3个星期以来一直在抗议当局欺骗工人，对下岗工人买断工龄的补偿不合理。
+      cite: e13-voa-2002-03-20-daqing-liaoyang
+      quote: true
+  cites: [e13-voa-2002-03-20-daqing-liaoyang, e13-hrw-2002-08-northeast-protests, e13-voa-2003-05-09-yao-fuxin]
+
+- id: e13-2002-may-31-speech
+  date: 2002-05-31
+  title: 江泽民“5·31”讲话：全面贯彻“三个代表”迎接十六大
+  lane: ideo
+  summary: 2002年5月31日，江泽民在中央党校省部级干部进修班毕业典礼上讲话，称贯彻“三个代表”要求，“关键在坚持与时俱进，核心在保持党的先进性，本质在坚持执政为民”，提出21世纪头二十年是“必须紧紧抓住并且可以大有作为的重要战略机遇期”，并说“我们要发展的是有中国特色社会主义民主政治，决不照搬西方政治制度模式”。讲话最后号召全党讲大局、讲团结、讲稳定，“以优异的成绩迎接党的十六大”召开。
+  people: [jiang-zemin]
+  concepts: [three-represents, xiaokang]
+  voices:
+    - voice: official
+      text: 关键在坚持与时俱进，核心在保持党的先进性，本质在坚持执政为民
+      cite: e13-cctv-2002-05-31-jiang-speech
+      quote: true
+  cites: [e13-cctv-2002-05-31-jiang-speech]
+
+- id: e13-2002-navy-circumnavigation
+  date: 2002-05-15
+  end: 2002-09-23
+  title: 中国海军首次环球航行
+  lane: army
+  summary: 2002年5月15日至9月23日，“青岛”号导弹驱逐舰和“太仓”号综合补给舰组成的编队从青岛起航，完成中国海军首次环球航行。132天里编队航行3.3万余海里，跨越印度洋、大西洋、太平洋，访问五大洲10国10港。解放军报十年后的回顾称，这标志着海军舰艇编队远航能力“由近海走向大洋”，是人民海军历史上具有里程碑意义的远航。
+  people: [jiang-zemin]
+  cites: [e13-12371-2012-09-25-pla-firsts]
+
+- id: e13-2002-one-country-each-side
+  date: 2002-08-03
+  end: 2002-08-05
+  title: 陈水扁提出两岸“一边一国”
+  lane: hkmt
+  summary: 2002年8月3日，陈水扁以视讯向在日本召开的“世台会”致辞，称台湾“是主权独立的国家”，“一边一国必须要分清楚”，并主张以公民投票立法决定台湾前途，与他两年前就职时的“四不一没有”形成对照。8月5日国台办发言人李维一称这是对一个中国原则的“公然挑衅”，“四不一没有”只是权宜之计。连战批评此举会带来灾难。
+  people: [chen-shuibian, lian-zhan]
+  voices:
+    - voice: zh
+      text: 台湾要走自己的民主路，台湾是主权独立的国家，不是别人的一部分，也不是地方政府，更不是香港澳门，一边一国必须要分清楚。
+      cite: e13-bbc-2002-08-03-one-country-each-side
+      quote: true
+    - voice: official
+      text: 充分证明他所表白的‘四不一没有’，只不过是欺骗台湾民众、蒙骗国际舆论的权宜之计
+      cite: e13-bbc-2002-08-05-tao-response
+      quote: true
+  cites: [e13-bbc-2002-08-03-one-country-each-side, e13-bbc-2002-08-05-tao-response]
+
+- id: e13-2002-etim-un-listing
+  date: 2002-09-11
+  title: 联合国安理会把“东伊运”列入恐怖组织名单
+  lane: ethnic
+  major: true
+  summary: 2002年9月11日，在中国、美国、阿富汗、吉尔吉斯斯坦共同提出要求后，联合国安理会把“东突厥斯坦伊斯兰运动”列入1267委员会恐怖组织名单，实行冻结资产、旅行限制和武器禁运。外交部称这是中美反恐合作的“积极成果”，并通报称该组织制造的暴恐案件导致140人死亡。美国财政部次日声明称，该组织1990年至2001年据报制造了200多起恐怖行为。
+  people: [jiang-zemin, tang-jiaxuan]
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 这也是中国与美国等有关国家进行反恐合作取得的一项积极成果。
+      cite: e13-chinanews-2002-09-12-etim-kong-quan
+      quote: true
+  cites: [e13-gov-2002-etim-un-listing, e13-chinanews-2002-09-12-etim-kong-quan, e13-treasury-2002-09-12-etim]
+
+- id: e13-2002-article-23-consultation
+  date: 2002-09-24
+  end: 2002-12-24
+  title: 港府公布基本法第二十三条立法咨询文件
+  lane: hkmt
+  summary: 2002年9月24日，香港特区政府公布实施基本法第二十三条咨询文件，保安局局长叶刘淑仪提出叛国、分裂国家、煽动叛乱、颠覆、窃取国家机密等罪行的定义，并建议对“从属于”内地以国家安全理由取缔组织的本地团体可予禁制，咨询期至12月24日。董建华说立法对确保国家安全必要。支联会表示反对，担心传媒自我审查；香港法轮功团体担心活动空间受限，人权人士则担心言论自由受影响。
+  people: [dong-jianhua]
+  concepts: [one-country-two-systems, holistic-security]
+  voices:
+    - voice: official
+      text: 香港特別行政區有道義上及法律上的責任實施《基本法》第二十三條
+      cite: e13-hkgov-2002-09-24-article23
+      quote: true
+  cites: [e13-hkgov-2002-09-24-article23, e13-bbc-2002-09-24-article23]
+
+- id: e13-2002-china-kyrgyz-exercise
+  date: 2002-10-10
+  end: 2002-10-11
+  title: 中吉联合反恐演习，解放军首次与外军联合演习
+  lane: army
+  summary: 2002年10月10日至11日，中国与吉尔吉斯斯坦在两国边境地区举行联合反恐军事演习。这是上海合作组织框架内中吉首次双边联合演习，解放军报称也是“我军第一次与外国军队举行联合演习”。此后解放军每年都与外军举行联合演习和训练，解放军报称这些演练“拓宽了中国与有关国家安全合作的领域”。
+  people: [jiang-zemin, chi-haotian]
+  cites: [e13-12371-2012-09-25-pla-firsts]
+
+- id: e13-2002-asean-framework-doc
+  date: 2002-11-04
+  title: 中国—东盟全面经济合作框架协议与《南海各方行为宣言》签署
+  lane: foreign
+  major: true
+  summary: 2002年11月4日，朱镕基在金边出席第六次中国—东盟领导人会议，与东盟十国领导人签署《中国与东盟全面经济合作框架协议》，决定到2010年建成中国—东盟自由贸易区；同日中国与东盟各国外长签署《南海各方行为宣言》，各方承诺不诉诸武力或以武力相威胁，保持自我克制，不在现无人居住的岛礁上采取居住的行动，并同意朝最终制定“南海行为准则”努力。
+  people: [zhu-rongji, tang-jiaxuan]
+  voices:
+    - voice: doc
+      text: 不采取使争议复杂化、扩大化和影响和平与稳定的行动，包括不在现无人居住的岛、礁、滩、沙或其它自然构造上采取居住的行动
+      cite: e13-mfa-2002-11-04-doc-south-china-sea
+      quote: true
+  cites: [e13-fmprc-2002-11-05-asean-framework, e13-mfa-2002-11-04-doc-south-china-sea]
+
+# ---------- 2013 ----------
+- id: e13-2013-occupy-central-article
+  date: 2013-01-16
+  title: 戴耀廷发表《公民抗命的最大杀伤力武器》，提出“占领中环”
+  lane: hkmt
+  summary: 2013年1月16日，港大法律学者戴耀廷在《信报》撰文《公民抗命的最大杀伤力武器》，称北京让香港有真普选的机会不大，主张以一万人以上非暴力、违法、持续地占领中环要道，迫使北京改变立场，参与者事后自首。3月27日他与陈健民、朱耀明发表信念书。港府保安局一年后撰文强调发起人承认这是违法行为；BBC说文章“一石激起千重浪”，也改变了戴耀廷本人。
+  people: [dai-yaoting, liang-zhenying]
+  concepts: [one-country-two-systems]
+  voices:
+    - voice: official
+      text: 由为数多至一万的示威者，违法地长期占领中环要道，瘫痪香港的政经中心
+      cite: e13-sb-2014-06-12-occupy-central
+      quote: true
+  cites: [e13-sb-2014-06-12-occupy-central, e13-bbc-2015-09-28-occupy-one-year]
+
+- id: e13-2013-strong-army-goal
+  date: 2013-03-11
+  title: 习近平提出“党在新形势下的强军目标”
+  lane: army
+  summary: 2013年3月11日，习近平在十二届全国人大一次会议解放军代表团全体会议上说，建设一支“听党指挥、能打胜仗、作风优良”的人民军队，是党在新形势下的强军目标：听党指挥是灵魂，能打胜仗是核心，作风优良是保证，要求“确保部队绝对忠诚、绝对纯洁、绝对可靠”，按打仗要求搞建设。范长龙主持，许其亮等军委委员出席。这一提法后来成为习近平强军思想的核心表述。
+  people: [xi-jinping, fan-changlong, xu-qiliang]
+  concepts: [xi-military-thought]
+  voices:
+    - voice: official
+      text: 建设一支听党指挥、能打胜仗、作风优良的人民军队，是党在新形势下的强军目标。
+      cite: e13-xinhua-2013-03-11-strong-army-goal
+      quote: true
+  cites: [e13-xinhua-2013-03-11-strong-army-goal]
+
+- id: e13-2013-money-crunch
+  date: 2013-06-20
+  end: 2013-06-25
+  title: 银行间市场“钱荒”，隔夜拆借利率升至13.44%
+  lane: econ
+  summary: 2013年6月20日，银行间市场资金面骤紧，隔夜Shibor一天上涨578.4个基点至13.44%，财新称这种状况“为十年来所罕见”。人民银行当日仍地量发行20亿元央票，申银万国认为这表明央行继续坚持“不放松”的信号。6月25日，央行首度表态已向符合宏观审慎要求的金融机构提供流动性支持，并要求银行“用好增量、盘活存量”，隔夜回购利率随即回落至5.83%。
+  people: [li-keqiang, zhou-xiaochuan]
+  concepts: [macro-control]
+  voices:
+    - voice: official
+      text: 已向一些符合宏观审慎要求的金融机构提供了流动性支持
+      cite: e13-ce-2013-06-26-pboc-liquidity
+      quote: true
+  cites: [e13-caixin-2013-06-20-money-crunch, e13-ce-2013-06-26-pboc-liquidity]
+
+- id: e13-2013-cross-strait-services-agreement
+  date: 2013-06-21
+  title: 《海峡两岸服务贸易协议》在上海签署
+  lane: hkmt
+  summary: 2013年6月21日，海协会会长陈德铭与海基会董事长林中森在上海举行第九次会谈，签署ECFA后续的《海峡两岸服务贸易协议》：大陆对台开放80条，台湾对大陆开放64条，涉及商业、通讯、建筑、金融、旅游、运输等行业。陈德铭称大陆出价高于对WTO承诺的水平，“在大陆已签署的类似协议中前所未有”。协议须经台湾“立法院”审议，2014年3月引发学生占领立法院，此后未能生效。
+  people: [chen-deming, zhang-zhijun, han-zheng]
+  voices:
+    - voice: official
+      text: 大陆对台开放共80条，台湾对大陆开放共64条
+      cite: e13-people-2013-06-21-cssta
+      quote: true
+  cites: [e13-people-2013-06-21-cssta]
+
+- id: e13-2013-lukqun-attack
+  date: 2013-06-26
+  end: 2013-09-12
+  title: 新疆鄯善鲁克沁镇暴力袭击案
+  lane: ethnic
+  summary: 2013年6月26日凌晨，新疆吐鲁番地区鄯善县鲁克沁镇，多名袭击者先后袭击镇派出所、特巡警中队、镇政府和民工工地，放火焚烧警车。新华社称24人遇害，其中维吾尔族16人、民警2人，另有21名民警和群众受伤，警方当场击毙11名袭击者。9月12日吐鲁番中院一审判处3人死刑、1人25年徒刑，判决认定袭击者2010年起聚集从事非法宗教活动并逐渐形成恐怖组织，致24人死亡、23人受伤。
+  people: [zhang-chunxian]
+  concepts: [stability-maintenance]
+  voices:
+    - voice: official
+      text: 已造成24人遇害（其中维吾尔族16人），包括公安民警2人
+      cite: e13-people-2013-06-28-lukqun
+      quote: true
+  cites: [e13-people-2013-06-28-lukqun, e13-hnr-2013-09-13-lukqun-verdict]
+
+- id: e13-2013-xu-zhiyong-detained
+  date: 2013-07-16
+  title: 许志永被刑事拘留，新公民运动遭打压
+  lane: society
+  summary: 2013年7月16日晚，新公民运动倡导者、法学学者许志永被北京警方以涉嫌聚众扰乱公共场所秩序刑事拘留，电脑和手机被抄走。BBC引维权人士说，事件估计与此前多人在北京举牌呼吁官员公开财产有关，一经定罪可被判监3至7年。BBC称他是公盟创始人之一，也是2003年孙志刚事件后建议人大废除收容遣送办法的“三博士”之一，倡导公民以非暴力方式维权。
+  people: [xu-zhiyong]
+  concepts: [stability-maintenance, liberals]
+  voices:
+    - voice: zh
+      text: 估計事件與早前多名人士在北京舉牌呼籲官員公開財產的事件有關
+      cite: e13-bbc-2013-07-16-xu-zhiyong-detained
+      quote: true
+  cites: [e13-bbc-2013-07-16-xu-zhiyong-detained]
+
+- id: e13-2013-propaganda-conference
+  date: 2013-08-19
+  end: 2013-08-20
+  title: 全国宣传思想工作会议：意识形态工作是“极端重要的工作”
+  lane: ideo
+  summary: 2013年8月19日至20日，全国宣传思想工作会议在北京召开，习近平讲话称“经济建设是党的中心工作，意识形态工作是党的一项极端重要的工作”，要求宣传思想部门坚持党性原则，“坚决维护中央权威”，在大是大非问题上“打好主动仗”。刘云山出席并讲话。习近平还要求“巩固马克思主义在意识形态领域的指导地位”，宣传工作坚持“团结稳定鼓劲、正面宣传为主”，“传播正能量”。
+  people: [xi-jinping, liu-yunshan]
+  concepts: [xi-culture-thought, positive-energy, party-leadership]
+  voices:
+    - voice: official
+      text: 经济建设是党的中心工作，意识形态工作是党的一项极端重要的工作。
+      cite: e13-people-2013-08-20-propaganda-conference
+      quote: true
+  cites: [e13-people-2013-08-20-propaganda-conference]
+
+- id: e13-2013-shanghai-ftz
+  date: 2013-09-29
+  title: 中国（上海）自由贸易试验区挂牌
+  lane: econ
+  summary: 2013年9月29日，中国（上海）自由贸易试验区在外高桥挂牌，韩正揭牌，商务部长高虎城和上海市长杨雄为管委会挂牌，首批入驻企业和金融机构获颁证照。上海市政府同日公布2013年版外商投资准入负面清单，清单之外的外资项目由核准制改为备案制。高虎城致辞说，试验区将在负面清单管理、扩大服务业开放、人民币资本项目可兑换、利率市场化等方面先行先试，力争用两到三年建成“具有国际水准的自由贸易试验区”。
+  people: [han-zheng, gao-hucheng, yang-xiong]
+  voices:
+    - voice: doc
+      text: 对负面清单之外的领域，将外商投资项目由核准制改为备案制
+      cite: e13-shgov-2013-09-29-negative-list
+      quote: true
+  cites: [e13-sh-2013-09-29-ftz, e13-shgov-2013-09-29-negative-list]
+
+- id: e13-2013-maritime-silk-road
+  date: 2013-10-03
+  title: 习近平在印尼国会倡议共建21世纪“海上丝绸之路”
+  lane: foreign
+  summary: 2013年10月3日，习近平在雅加达印度尼西亚国会发表《携手建设中国—东盟命运共同体》演讲，倡议筹建亚洲基础设施投资银行，提出与东盟国家加强海上合作，用好中国—东盟海上合作基金，共同建设21世纪“海上丝绸之路”，并提出2020年双边贸易额达到1万亿美元。与一个月前在哈萨克斯坦提出的“丝绸之路经济带”合起来，就是后来的“一带一路”。
+  people: [xi-jinping]
+  concepts: [belt-and-road, community-shared-future]
+  voices:
+    - voice: official
+      text: 倡议筹建亚洲基础设施投资银行，愿同东盟国家发展好海洋合作伙伴关系，共同建设２１世纪“海上丝绸之路”
+      cite: e13-gov-2013-10-03-maritime-silk-road
+      quote: true
+  cites: [e13-gov-2013-10-03-maritime-silk-road]
+
+- id: e13-2013-tiananmen-car-attack
+  date: 2013-10-28
+  end: 2014-06-16
+  title: 天安门金水桥驾车冲撞事件
+  lane: ethnic
+  major: true
+  summary: 2013年10月28日中午，乌斯曼·艾山与其母、其妻驾一辆新疆牌照吉普车沿长安街便道冲撞游人，撞向金水桥护栏后点燃汽油，三人当场死亡。北京警方两天后定性为“有组织、有预谋的暴力恐怖袭击”，孟建柱随后称幕后是“东伊运”。2014年6月乌鲁木齐中院判处3人死刑，判决认定无辜群众3人死亡、39人受伤。另说两名游客死亡、40余人受伤（BBC，2013年）。世界维吾尔代表大会称官方说法须经独立的国际调查。
+  people: [meng-jianzhu, xi-jinping]
+  concepts: [stability-maintenance, holistic-security]
+  voices:
+    - voice: official
+      text: 一起经过严密策划,有组织、有预谋的暴力恐怖袭击案件。
+      cite: e13-bbc-2013-10-30-tiananmen-attack
+      quote: true
+    - voice: west
+      text: cannot be accepted as facts without an independent and international investigation
+      cite: e13-bbc-2013-10-31-tiananmen-etim
+      quote: true
+  cites: [e13-bbc-2013-10-30-tiananmen-attack, e13-bbc-2013-10-31-tiananmen-etim, e13-people-2014-06-16-tiananmen-verdict]
+
+- id: e13-2013-rtl-abolished
+  date: 2013-12-28
+  title: 全国人大常委会废止劳动教养制度
+  lane: society
+  major: true
+  summary: 2013年12月28日，十二届全国人大常委会第六次会议通过决定，废止1957年8月一届全国人大常委会批准的《国务院关于劳动教养问题的决定》和1979年11月五届全国人大常委会批准的《国务院关于劳动教养的补充规定》，实行半个多世纪的劳动教养制度就此终止。决定规定废止前依法作出的劳教决定有效，正在执行的人员解除劳教，剩余期限不再执行，决定自公布之日起施行。
+  people: [zhang-dejiang]
+  concepts: [rule-of-law]
+  voices:
+    - voice: doc
+      text: 劳动教养制度废止后，对正在被依法执行劳动教养的人员，解除劳动教养，剩余期限不再执行。
+      cite: e13-npc-2013-12-28-rtl-abolished
+      quote: true
+  cites: [e13-npc-2013-12-28-rtl-abolished]

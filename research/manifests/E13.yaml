@@ -1,0 +1,360 @@
+# E13 events: CS6 suggestions (Huaxin, Tomorrow Group, Guangsha), the I07 leftovers, and the thin years 2000–2002 and 2013
+web:
+  # --- CS6 ---
+  - id: e13-pbc-2019-05-24-baoshang-takeover
+    title: 中国人民银行 中国银行保险监督管理委员会关于接管包商银行股份有限公司的公告
+    publisher: 中国人民银行
+    date: 2019-05-24
+    voice: doc
+    url: https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2025092212545893391/index.html
+    start: 鉴于包商银行股份有限公司
+    end: 特此公告。
+  # --- I07 leftovers ---
+  - id: e13-gov-2014-10-08-mass-line-conclusion
+    title: 党的群众路线教育实践活动总结大会召开 习近平讲话 李克强等出席
+    publisher: 中国政府网（新华社）
+    date: 2014-10-08
+    voice: official
+    url: https://www.gov.cn/xinwen/2014-10/08/content_2761353.htm
+    start: 新华社北京10月8日电
+    end: 在当地分会场参加会议。
+  # --- 2000 ---
+  - id: e13-bbc-2000-01-07-karmapa
+    title: 西藏宗教第三号人物逃抵印度
+    publisher: BBC 中文
+    date: 2000-01-07
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_594000/5942091.stm
+    excerpt: true
+    keep: [已成功逃离拉萨, 另外三名僧侣, 到达达兰萨拉的。, 十二月三十一日失踪, 楚布寺，并, 不是背叛国家和民族, 都承认的第一个西藏活佛, 也没有指责他非法离境]
+  - id: e13-bbc-2000-01-10-karmapa-reason
+    title: 藏流亡政府谈活佛出走原因
+    publisher: BBC 中文
+    date: 2000-01-10
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_597000/5972101.stm
+    excerpt: true
+    keep: [压制宗教自由和侵犯人权]
+  - id: e13-gov-2000-02-21-taiwan-white-paper
+    title: 一个中国的原则与台湾问题（白皮书）
+    publisher: 中国政府网（国务院公报2000年第11号）
+    date: 2000-02-21
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2000/content_60035.htm
+    start: 二○○○年二月·北京
+    end: 中国的完全统一一定能够实现。
+  - id: e13-chinanews-2000-02-27-white-paper-third-if
+    title: 白皮书划定对台战与和的界限（中新网评论）
+    publisher: 中国新闻网
+    date: 2000-02-27
+    voice: official
+    url: http://www.chinanews.com.cn/2000-2-27/26/19304.html
+    excerpt: true
+    keep: [最引人注目的新意是划定对台战与和的界限, 从原来的两条发展成三条]
+  - id: e13-mfa-2000-10-12-focac-program
+    title: 中非合作论坛首届部长级会议通过的《中非经济和社会发展合作纲领》
+    publisher: 外交部
+    date: 2000-10-12
+    voice: doc
+    url: https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/zt2003_675963/zfhzltde_675977/200010/t20001012_9289675.shtml
+    start: 2000年10月10日至12日，中非合作论坛
+    end: 在中国和非洲轮流举行。
+  - id: e13-mfa-2003-12-23-focac-followup
+    title: 中非合作论坛首届部长级会议后续行动落实情况
+    publisher: 外交部
+    date: 2003-12-23
+    voice: official
+    url: https://www.mfa.gov.cn/ziliao_674904/zt_674979/ywzt_675099/wzzt_675579/jjywj_675649/200312/t20031223_7961933.shtml
+  - id: e13-sina-2000-10-16-defense-white-paper
+    title: 2000年中国的国防（白皮书全文）
+    publisher: 新浪网（新华社）
+    date: 2000-10-16
+    voice: doc
+    url: https://news.sina.com.cn/china/2000-10-16/135370.html
+    start: 中新网北京10月16日消息
+    end: 并对有关违法行为制定了严厉的处罚措施。(完)
+  - id: e13-chinanews-2000-11-08-yuanhua-verdict
+    title: 厦门特大走私案首批案件一审宣判十四人死刑
+    publisher: 中国新闻网
+    date: 2000-11-08
+    voice: official
+    url: http://www.chinanews.com.cn/2000-11-08/26/54940.html
+  - id: e13-chinanews-2001-08-22-luoyang-fire-verdict
+    title: 洛阳“12·25”特大火灾案23人被判有期徒刑
+    publisher: 中国新闻网
+    date: 2001-08-22
+    voice: official
+    url: http://www.chinanews.com.cn/2001-08-22/26/115412.html
+  - id: e13-xinhua-2001-08-22-luoyang-fire-verdict
+    title: 洛阳特大火灾案今天宣判 23名被告分别被判刑
+    publisher: 新华网河南频道
+    date: 2001-08-22
+    voice: official
+    url: http://www.ha.xinhuanet.com/zb/zbxx/htm/200108221.htm
+  # --- 2001 ---
+  - id: e13-bbc-2001-01-23-self-immolation
+    title: 法轮功成员天安门自焚身亡
+    publisher: BBC 中文
+    date: 2001-01-23
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_1132000/11323681.stm
+    excerpt: true
+    keep: [一死四伤, 来自河南开封的1男4女, 升天圆满, 其中一名女信徒被烧死, 否认这次事件与法轮功有任何关系]
+  - id: e13-bbc-2001-01-30-self-immolation-details
+    title: 中國披露法輪功自焚始末
+    publisher: BBC 中文
+    date: 2001-01-30
+    voice: zh
+    url: http://newsimg.bbc.co.uk/chinese/trad/hi/newsid_1140000/newsid_1144800/1144802.stm
+    excerpt: true
+    keep: [五名婦女和兩名男子, 劉思影。去年, 頭面部四度燒傷, 法輪功組織已經正式否認, 一手策劃了這起自焚事件, 爭取公眾對打擊法輪功]
+  - id: e13-cyol-2001-04-04-strike-hard
+    title: 江泽民在全国社会治安工作会议上发表重要讲话
+    publisher: 中国青年报（新华社）
+    date: 2001-04-04
+    voice: official
+    url: http://zqb.cyol.com/content/2001-04/04/content_197873.htm
+  - id: e13-bbc-2001-12-01-taiwan-legislative
+    title: 台湾选后政局呈现新局面
+    publisher: BBC 中文
+    date: 2001-12-01
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_1680000/newsid_1686800/1686869.stm
+    excerpt: true
+    keep: [国民党失去立法院第一大党, 百席的实力, 共赢得87席, 只获得68席, 各获得9个县市]
+  # --- 2002 ---
+  - id: e13-reformdata-2002-02-07-fin-conference
+    title: 中共中央、国务院召开全国金融工作会议（《十五大以来重要文献选编》下）
+    publisher: 改革大数据服务平台（中国改革开放数据库）
+    date: 2002-02-07
+    voice: doc
+    url: http://www.reformdata.org/2002/0207/4737.shtml
+    start: 摘要：中共中央、国务院召开的全国金融工作会议
+    end: 召开全国金融工作会议的电讯稿。
+  - id: e13-cs-2017-07-15-fin-conferences
+    title: 历届金融工作会议工作重点
+    publisher: 中证网（中国证券报）
+    date: 2017-07-15
+    voice: zh
+    url: https://www.cs.com.cn/xwzx/zt2017/2017033101_68410/02/201707/t20170715_5375218.html
+    excerpt: true
+    keep: [必须把银行办成现代金融企业, 组建中央汇金投资]
+  - id: e13-voa-2002-03-20-daqing-liaoyang
+    title: 大庆和辽阳失业工人怒火连连
+    publisher: 美国之音中文网
+    date: 2002-03-20
+    voice: west
+    url: https://www.voachinese.com/a/a-21-a-2002-03-20-2-1-63383127/993109.html
+    excerpt: true
+    keep: [连续4天举行大规模抗议, 买断工龄的补偿不合理]
+  - id: e13-voa-2003-05-09-yao-fuxin
+    title: 中国工运领袖被判刑
+    publisher: 美国之音中文网
+    date: 2003-05-09
+    voice: west
+    url: https://www.voachinese.com/a/a-21-a-2003-05-09-7-1-63405202/996919.html
+    excerpt: true
+    keep: [分别判处有期徒刑7年, 2002年3月作为工人代表]
+  - id: e13-hrw-2002-08-northeast-protests
+    title: "Paying the Price: Worker Unrest in Northeast China — IV. Protest in the Northeast"
+    publisher: Human Rights Watch
+    date: 2002-08
+    voice: west
+    url: https://www.hrw.org/reports/2002/chinalbr02/chinalbr0802-03.htm
+    excerpt: true
+    keep: [some twenty factories found common cause, there were no unemployed in Liaoyang, "on March 11-12 some 17,000", On March 18 workers turned out, "Reports circulated, at the same time"]
+  - id: e13-cctv-2002-05-31-jiang-speech
+    title: 2002年5月31日 在中央党校省部级干部进修班毕业典礼上的重要讲话
+    publisher: 央视国际
+    date: 2002-05-31
+    voice: official
+    url: http://www.cctv.com/special/756/1/50454.html
+  - id: e13-gov-2002-etim-un-listing
+    title: 外交部关于联合国安理会制裁阿富汗委员会将“东突厥斯坦伊斯兰运动”列入受制裁实体名单的通知（附“东突伊斯兰运动”基本情况）
+    publisher: 中国政府网（国务院公报2002年第31号）
+    date: 2002-09
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2002/content_61790.htm
+    start: 外发〔2002〕25号
+    end: 煽动骚乱。
+  - id: e13-chinanews-2002-09-12-etim-kong-quan
+    title: 安理会认定“东突”为恐怖组织 中国对此积极评价
+    publisher: 中国新闻网
+    date: 2002-09-12
+    voice: official
+    url: https://www.chinanews.com/2002-09-12/26/221647.html
+  - id: e13-treasury-2002-09-12-etim
+    title: Press Statement on the UN Designation of The Eastern Turkistan Islamic Movement
+    publisher: U.S. Department of the Treasury
+    date: 2002-09-12
+    voice: west
+    url: https://home.treasury.gov/news/press-releases/po3415
+    excerpt: true
+    keep: [over 200 acts of terrorism]
+  - id: e13-fmprc-2002-11-05-asean-framework
+    title: 朱镕基总理和东盟领导人签署全面经济合作协议
+    publisher: 外交部
+    date: 2002-11-05
+    voice: official
+    url: https://www.fmprc.gov.cn/gjhdq_676201/gjhdqzz_681964/lhg_682518/xgxw_682524/200211/t20021105_9385523.shtml
+  - id: e13-mfa-2002-11-04-doc-south-china-sea
+    title: 南海各方行为宣言
+    publisher: 外交部
+    date: 2002-11-04
+    voice: doc
+    url: https://www.mfa.gov.cn/web/wjb_673085/zzjg_673183/bjhysws_674671/bhsmgb/200303/t20030304_277805.shtml
+    start: 中华人民共和国和东盟各成员国政府，
+    end: 本宣言于2002年11月4日在柬埔寨王国金边签署。
+  - id: e13-bbc-2002-08-03-one-country-each-side
+    title: 阿扁：两岸“一边一国”
+    publisher: BBC 中文
+    date: 2002-08-03
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_2160000/newsid_2169700/2169738.stm
+    excerpt: true
+    keep: [一边一国必须要分清楚。”, 以视讯直播方式, 台湾要走自己的民主路, 灾难和威胁]
+  - id: e13-bbc-2002-08-05-tao-response
+    title: 中国官方回应“一边一国”
+    publisher: BBC 中文
+    date: 2002-08-05
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_2170000/newsid_2172800/2172863.stm
+    excerpt: true
+    keep: [将严重损害两岸关系, 也是对国际社会公认的一个中国原则的公然挑衅, 权宜之计]
+  - id: e13-hkgov-2002-09-24-article23
+    title: 實施基本法第二十三條諮詢文件公布
+    publisher: 香港特区政府新闻公报
+    date: 2002-09-24
+    voice: official
+    url: https://www.info.gov.hk/gia/general/200209/24/0924199.htm
+  - id: e13-bbc-2002-09-24-article23
+    title: 港推出叛国罪立法咨询文件
+    publisher: BBC 中文
+    date: 2002-09-24
+    voice: zh
+    url: https://newsimg.bbc.co.uk/hi/chinese/news/newsid_2278000/22784901.stm
+    excerpt: true
+    keep: [可能会扼杀言论自由, 对确保国家安全是必要的, 7种罪行, 活动空间受到限制, 司徒华表明, 影响香港的言论自由]
+  - id: e13-12371-2012-09-25-pla-firsts
+    title: 开创历史 演绎经典——2002－2012中国军队走向世界的铿锵足迹
+    publisher: 共产党员网（解放军报）
+    date: 2012-09-25
+    voice: official
+    url: http://www.12371.cn/2012/09/25/ARTI1348537962001908.shtml
+  # --- 2013 ---
+  - id: e13-xinhua-2013-03-11-strong-army-goal
+    title: 习近平在解放军代表团全体会议上强调 牢牢把握党在新形势下的强军目标
+    publisher: 人民网（新华社）
+    date: 2013-03-11
+    voice: official
+    url: http://lianghui.people.com.cn/2013npc/n/2013/0311/c357183-20752934.html
+  - id: e13-people-2013-06-28-lukqun
+    title: 新疆鄯善发生暴力恐怖袭击案件 造成24人遇害 公安民警当场击毙11名暴徒
+    publisher: 人民网（新华社）
+    date: 2013-06-27
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0628/c70731-22002879.html
+  - id: e13-hnr-2013-09-13-lukqun-verdict
+    title: 新疆鄯善暴力袭击案宣判：3人死刑1人25年
+    publisher: 河南广播网（新华网）
+    date: 2013-09-13
+    voice: official
+    url: http://www.hnr.cn/hnr/3g/3grdgz/201309/t20130913_622422.html
+  - id: e13-people-2013-06-21-cssta
+    title: 《海峡两岸服务贸易协议》签署 大陆以迄今最大力度开放服务市场
+    publisher: 人民网
+    date: 2013-06-21
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0621/c1001-21932384.html
+  - id: e13-bbc-2013-07-16-xu-zhiyong-detained
+    title: 中國維權法律學者許志永被刑事拘留
+    publisher: BBC 中文
+    date: 2013-07-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2013/07/130716_china_xuzhiyong_arrested
+    excerpt: true
+    keep: [他家中的電腦和手機, 估計事件與早前, 可被判監3至7年, 公盟創始人之一, 三博士上書]
+  - id: e13-caixin-2013-06-20-money-crunch
+    title: “钱荒潮”再掀浪 回购利率继续飙升
+    publisher: 财新网
+    date: 2013-06-20
+    voice: zh
+    url: https://other.caixin.com/2013-06-20/100543769.html
+    excerpt: true
+    keep: [这种状况为十年来所罕见, 隔夜大涨578.40个基点, 地量发行3个月期20亿元, 继续坚持“不放松”的信号]
+  - id: e13-ce-2013-06-26-pboc-liquidity
+    title: 沪指昨演“过山车” 央行首度表态提供流动性支持
+    publisher: 中国经济网
+    date: 2013-06-26
+    voice: official
+    url: http://finance.ce.cn/rolling/201306/26/t20130626_335224.shtml
+  - id: e13-people-2013-08-20-propaganda-conference
+    title: 习近平：意识形态工作是党的一项极端重要的工作
+    publisher: 人民网（新华社）
+    date: 2013-08-20
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0820/c1024-22634056.html
+  - id: e13-sh-2013-09-29-ftz
+    title: 2013年9月29日：中国（上海）自由贸易试验区揭牌
+    publisher: 上海市人民政府新闻办公室
+    date: 2013-09-29
+    voice: official
+    url: https://kab.sww.sh.gov.cn/gzzt/002001/002001001/20130929/2A3A425F-CB79-4272-989F-D1054EB44DFD.html
+  - id: e13-shgov-2013-09-29-negative-list
+    title: 中国（上海）自由贸易试验区外商投资准入特别管理措施（负面清单）（2013年）
+    publisher: 上海市人民政府
+    date: 2013-09-29
+    voice: doc
+    url: https://www.shanghai.gov.cn/nw30984/20200820/0001-30984_37036.html
+    start: 沪府发〔2013〕75号
+    end: 负面清单将适时进行调整。
+  - id: e13-gov-2013-10-03-maritime-silk-road
+    title: 国家主席习近平在印度尼西亚国会发表重要演讲
+    publisher: 中国政府网（新华社）
+    date: 2013-10-03
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-10/03/content_2500072.htm
+  - id: e13-bbc-2013-10-30-tiananmen-attack
+    title: 中国承认天安门撞车是“暴力恐怖袭击案”
+    publisher: BBC 中文
+    date: 2013-10-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/10/131030_beijing_tiananmen_crash
+    excerpt: true
+    keep: [一起经过严密策划, 乌斯曼·艾山及其妻子母亲, 都是维族, 新疆牌照吉普车, 缺乏官方透明度]
+  - id: e13-people-2014-06-16-tiananmen-verdict
+    title: “10·28”暴力恐怖袭击案件一审公开宣判
+    publisher: 人民网（新华网）
+    date: 2014-06-16
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0616/c1001-25155651.html
+  - id: e13-bbc-2013-10-31-tiananmen-etim
+    title: Tiananmen crash 'incited by Islamists'
+    publisher: BBC News
+    date: 2013-10-31
+    voice: west
+    url: https://www.bbc.com/news/world-asia-china-24768037
+    excerpt: true
+    keep: [incited by the East Turkestan Islamic Movement, killing three people inside the vehicle, Police have arrested five suspects, few believe that the group, organised and premeditated, stood behind the scenes, More than 40 people were injured, cannot be accepted as facts]
+  - id: e13-npc-2013-12-28-rtl-abolished
+    title: 全国人民代表大会常务委员会关于废止有关劳动教养法律规定的决定
+    publisher: 中国人大网（新华社）
+    date: 2013-12-28
+    voice: doc
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/2013-12/30/content_1821974.htm
+    start: 新华社北京12月28日电
+    end: 本决定自公布之日起施行。
+  - id: e13-sb-2014-06-12-occupy-central
+    title: 「占领中环」的本质及对社会和参加者的影响（保安局局长文章）
+    publisher: 香港特区政府保安局
+    date: 2014-06-12
+    voice: official
+    url: https://www.sb.gov.hk/sc/articles/articles_2014_06_12.html
+  - id: e13-bbc-2015-09-28-occupy-one-year
+    title: 香港佔中一週年　戴耀廷周永康評估下一步
+    publisher: BBC 中文
+    date: 2015-09-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2015/09/150928_hongkong_occupy_one_year_leaders
+    excerpt: true
+    keep: [一石激起千重浪, 一篇文章完全改變]
