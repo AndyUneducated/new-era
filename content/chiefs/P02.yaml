@@ -90,7 +90,7 @@
 - { prov: 广西, post: sec, name: 彭清华, person: peng-qinghua, from: "2012-12", to: "2018-03", cite: p02-wiki-guangxi-sec }
 - { prov: 广西, post: sec, name: 鹿心社, from: "2018-03", to: "2021-10", cite: p02-wiki-guangxi-sec }
 - { prov: 广西, post: sec, name: 刘宁, from: "2021-10", to: "2024-12", cite: p02-xinhua-2021-10-19-guangxi-yunnan-sec }
-- { prov: 广西, post: sec, name: 陈刚, from: "2024-12", cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
+- { prov: 广西, post: sec, name: 陈刚, person: chen-gang-1965, from: "2024-12", cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
 - { prov: 广西, post: gov, name: 李兆焯, person: li-zhaozhuo, from: "1998-01", to: "2003-04", cite: p02-wiki-guangxi-gov }
 - { prov: 广西, post: gov, name: 陆兵, person: lu-bing, from: "2003-04", to: "2007-12", cite: p02-wiki-guangxi-gov }
 - { prov: 广西, post: gov, name: 马飚, person: ma-biao, from: "2007-12", to: "2008-01", acting: true, note: "代主席", cite: p02-wiki-ma-biao }
@@ -153,7 +153,7 @@
 - { prov: 四川, post: sec, name: 刘奇葆, person: liu-qibao, from: "2007-12", to: "2012-11", cite: p02-wiki-sichuan-sec }
 - { prov: 四川, post: sec, name: 王东明, person: wang-dongming, from: "2012-11", to: "2018-03", cite: p02-wiki-sichuan-sec }
 - { prov: 四川, post: sec, name: 彭清华, person: peng-qinghua, from: "2018-03", to: "2022-04", cite: p02-wiki-sichuan-sec }
-- { prov: 四川, post: sec, name: 王晓晖, from: "2022-04", cite: p02-xinhua-2022-04-22-sichuan-sec }
+- { prov: 四川, post: sec, name: 王晓晖, person: wang-xiaohui, from: "2022-04", cite: p02-xinhua-2022-04-22-sichuan-sec }
 - { prov: 四川, post: gov, name: 张中伟, person: zhang-zhongwei, from: "1999-06", to: "2007-01", cite: p02-wiki-sichuan-gov }
 - { prov: 四川, post: gov, name: 蒋巨峰, person: jiang-jufeng, from: "2007-01-23", to: "2007-01-31", acting: true, note: "代省长", cite: p02-chinanews-2007-01-23-jiang-jufeng-acting }
 - { prov: 四川, post: gov, name: 蒋巨峰, person: jiang-jufeng, from: "2007-01-31", to: "2013-01", cite: p02-chinanews-2007-01-31-jiang-jufeng-elected }
@@ -216,7 +216,7 @@
 - { prov: 西藏, post: sec, name: 陈全国, person: chen-quanguo, from: "2011-08", to: "2016-08", cite: p02-wiki-xizang-sec }
 - { prov: 西藏, post: sec, name: 吴英杰, from: "2016-08", to: "2021-10", cite: p02-wiki-xizang-sec }
 - { prov: 西藏, post: sec, name: 王君正, from: "2021-10", to: "2026-09", cite: c03-xinhua-2021-10-19-five-provinces }
-- { prov: 西藏, post: sec, name: 胡昌升, from: "2026-09", cite: p02-xinhua-2026-09-22-xizang-3-sec }
+- { prov: 西藏, post: sec, name: 胡昌升, person: hu-changsheng, from: "2026-09", cite: p02-xinhua-2026-09-22-xizang-3-sec }
 - { prov: 西藏, post: gov, name: 列确, person: lieque, from: "1998-05", to: "2003-05", note: "名录作 2003 年 4 月卸任；据中新网 2003-05-16 消息，当日向巴平措当选主席", cite: p02-wiki-xizang-gov }
 - { prov: 西藏, post: gov, name: 向巴平措, person: xiangba-pingcuo, from: "2003-05", to: "2010-01", note: "名录作 2003 年 4 月；据中新网当选消息作 5 月", cite: p02-chinanews-2003-05-16-qiangba-puncog }
 - { prov: 西藏, post: gov, name: 白玛赤林, from: "2010-01", to: "2013-01", cite: p02-wiki-padma-choling }

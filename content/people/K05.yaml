@@ -2721,7 +2721,7 @@
 - id: xin-changxing
   name: 信长星
   gender: m
-  born: 1963
+  born: 1963-12
   birthplace: 山东惠民
   roles: [cc, prov]
   status: active
@@ -2737,7 +2737,7 @@
     - { title: 青海省省长, sys: gov, place: 青海, from: 2020-08, to: 2022-03, cite: k05-xinhua-2024-01-27-xin-changxing }
     - { title: 青海省委书记, sys: party, place: 青海, from: 2022-03, to: 2023-01, cite: k05-xinhua-2024-01-27-xin-changxing }
     - { title: 江苏省委书记、省人大常委会主任, sys: party, place: 江苏, from: 2023-01, cite: k05-xinhua-2024-01-27-xin-changxing }
-  cites: [wd-Q16077986, k05-xinhua-2024-01-27-xin-changxing, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, p02-wiki-xin-changxing]
+  cites: [wd-Q16077986, k05-xinhua-2024-01-27-xin-changxing, u07-jsnews-2023-01-03-xin-changxing-cv, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, p02-wiki-xin-changxing]
 
 - id: shi-xiaolin
   name: 施小琳

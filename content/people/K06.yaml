@@ -63,7 +63,7 @@
 - id: wang-hao
   name: 王浩
   gender: m
-  born: 1963-12
+  born: 1963-10
   birthplace: 山东单县
   roles: [cc, prov]
   status: active
@@ -76,7 +76,7 @@
     - { title: 浙江省委副书记、浙江省人民政府代省长, sys: gov, place: 浙江, from: 2021-09, cite: p01-wiki-wang-hao }
     - { title: 浙江省委副书记、浙江省人民政府省长, sys: gov, place: 浙江, to: 2024-10, cite: k06-wiki-20th-cc-list }
     - { title: 浙江省委书记、浙江省人大常委会主任, sys: party, place: 浙江, from: 2024-10, cite: k06-wiki-20th-cc-list }
-  cites: [wd-Q47674397, p01-wiki-wang-hao, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc]
+  cites: [wd-Q47674397, p01-wiki-wang-hao, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc, u07-thepaper-2024-10-28-wang-hao-cv]
 
 - id: wang-qiang-pla
   name: 王强
@@ -487,12 +487,12 @@
   headline: 安徽省委书记、安徽省人大常委会主任
   ids: { wikidata: Q11095251 }
   bio: >-
-    湖北监利人，二十届中央委员。至 2025 年 2 月任辽宁省委副书记、辽宁省人民政府省长，2025 年 2 月至 2026 年 9 月任工业和信息化部党组书记、部长，2026 年 9 月起任安徽省委书记、安徽省人大常委会主任。
+    湖北监利人，二十届中央委员。至 2025 年任辽宁省委副书记、辽宁省人民政府省长，2025 年 4 月至 2026 年 9 月任工业和信息化部部长，2026 年 9 月起任安徽省委书记、安徽省人大常委会主任。
   positions:
-    - { title: 辽宁省委副书记、辽宁省人民政府省长, sys: gov, place: 辽宁, from: 2021-10, to: 2025-02, cite: k06-wiki-20th-cc-list }
-    - { title: 工业和信息化部党组书记、部长, sys: gov, from: 2025-02, to: 2026-09, cite: k06-wiki-20th-cc-list }
+    - { title: 辽宁省委副书记、辽宁省人民政府省长, sys: gov, place: 辽宁, from: 2021-10, to: 2025-04, cite: k06-wiki-20th-cc-list }
+    - { title: 工业和信息化部党组书记、部长, sys: gov, from: 2025-04, to: 2026-09, cite: u07-xinhua-2026-09-23-li-lecheng }
     - { title: 安徽省委书记、安徽省人大常委会主任, sys: party, place: 安徽, from: 2026-09, cite: k06-wiki-20th-cc-list }
-  cites: [wd-Q11095251, p01-wiki-li-lecheng, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc]
+  cites: [wd-Q11095251, p01-wiki-li-lecheng, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc, u07-xinhua-2026-09-23-li-lecheng]
 
 - id: li-yifei
   name: 李邑飞
@@ -505,15 +505,15 @@
   headline: 宁夏回族自治区党委书记、宁夏回族自治区人大常委会主任
   ids: { wikidata: Q24834233 }
   bio: >-
-    云南墨江人，二十届中央委员；曾任中共云南省委常委、贵州省委常委及新疆维吾尔自治区党委常委、副书记等职。至 2024 年 6 月任新疆维吾尔自治区党委副书记、新疆生产建设兵团党委书记，2024 年 7 月起任宁夏回族自治区党委书记、宁夏回族自治区人大常委会主任。
+    云南墨江人，二十届中央委员；曾任中共云南省委常委、贵州省委常委及新疆维吾尔自治区党委常委、副书记等职。至 2024 年 6 月任新疆维吾尔自治区党委副书记、新疆生产建设兵团党委书记，2024 年 6 月起任宁夏回族自治区党委书记、宁夏回族自治区人大常委会主任。
   positions:
     - { title: 云南省委常委、秘书长, sys: gov, place: 云南, from: 2016-05, cite: k06-wiki-li-yifei }
     - { title: 贵州省委组织部部长, sys: party, place: 贵州, from: 2017-04, to: 2020-05, cite: k06-wiki-li-yifei }
     - { title: 新疆维吾尔自治区党委常委、组织部部长, sys: party, place: 新疆, from: 2020-05, cite: k06-wiki-li-yifei }
     - { title: 新疆维吾尔自治区党委副书记、教工委书记, sys: party, place: 新疆, from: 2021-07, cite: k06-wiki-li-yifei }
     - { title: 新疆维吾尔自治区党委副书记、新疆生产建设兵团党委书记, sys: party, place: 新疆, to: 2024-06, cite: k06-wiki-20th-cc-list }
-    - { title: 宁夏回族自治区党委书记、宁夏回族自治区人大常委会主任, sys: party, place: 宁夏, from: 2024-07, cite: k06-wiki-20th-cc-list }
-  cites: [wd-Q24834233, k06-wiki-li-yifei, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc]
+    - { title: 宁夏回族自治区党委书记、宁夏回族自治区人大常委会主任, sys: party, place: 宁夏, from: 2024-06, cite: p02-xinhua-2024-06-28-ningxia-sec }
+  cites: [wd-Q24834233, k06-wiki-li-yifei, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc, p02-xinhua-2024-06-28-ningxia-sec]
 
 - id: li-bingjun
   name: 李炳军
@@ -2038,15 +2038,15 @@
   headline: 湖北省委书记
   ids: { wikidata: Q28417048 }
   bio: >-
-    辽宁沈阳人，二十届中央候补委员；曾任辽宁省人民政府党组成员、秘书长、办公厅党组书记，辽宁省委常委，山东省委常委等职。至 2024 年 10 月任自然资源部党组成员、国家林草局局长，2024 年 10 月起任自然资源部党组书记、部长，国家自然资源总督察，2026 年 5 月起任湖北省委书记。
+    辽宁沈阳人，二十届中央候补委员；曾任辽宁省人民政府党组成员、秘书长、办公厅党组书记，辽宁省委常委，山东省委常委等职。至 2024 年任自然资源部党组成员、国家林草局局长，2024 年 12 月起任自然资源部部长、国家自然资源总督察，2026 年 5 月起任湖北省委书记。
   positions:
     - { title: 辽宁省人民政府党组成员、秘书长、办公厅党组书记, sys: gov, place: 辽宁, from: 2016-01, cite: k06-wiki-guan-zhiou }
     - { title: 辽宁省委常委, sys: party, place: 辽宁, from: 2016-12, cite: k06-wiki-guan-zhiou }
     - { title: 山东省委常委, sys: party, place: 山东, from: 2018-03, cite: k06-wiki-guan-zhiou }
-    - { title: 自然资源部党组成员、国家林草局局长, sys: gov, to: 2024-10, cite: k06-wiki-20th-cca-list }
-    - { title: 自然资源部党组书记、部长，国家自然资源总督察, sys: gov, from: 2024-10, cite: k06-wiki-20th-cca-list }
+    - { title: 自然资源部党组成员、国家林草局局长, sys: gov, to: 2024-12, cite: k06-wiki-20th-cca-list }
+    - { title: 自然资源部党组书记、部长，国家自然资源总督察, sys: gov, from: 2024-12, cite: u07-xinhua-2026-05-30-guan-zhiou }
     - { title: 湖北省委书记, sys: party, place: 湖北, from: 2026-05, cite: k06-wiki-20th-cca-list }
-  cites: [wd-Q28417048, k06-wiki-guan-zhiou, k06-wiki-20th-cca-list, k02-xinhua-2022-10-22-20-cca]
+  cites: [wd-Q28417048, k06-wiki-guan-zhiou, k06-wiki-20th-cca-list, k02-xinhua-2022-10-22-20-cca, u07-xinhua-2026-05-30-guan-zhiou]
 
 - id: tang-guangfu
   name: 汤广福
