@@ -1,0 +1,380 @@
+# E11: landing events for the I06/I07 policy chains. Entries only append; where the name repeats an
+# existing policy, it is the same policy with its new event attached (listed in the E11 report).
+
+# ---- I06 ----
+poverty-alleviation:
+  policies:
+    - date: 2015-11-29
+      name: 中共中央 国务院关于打赢脱贫攻坚战的决定
+      text: 12月7日公布，确定到2020年现行标准下农村贫困人口实现脱贫、贫困县全部摘帽，建立建档立卡和动态管理机制。
+      events: [e11-2015-poverty-decision]
+      cite: i06-gov-2015-12-07-poverty-decision
+  cites: [i06-gov-2015-12-07-poverty-decision]
+
+rural-revitalization:
+  policies:
+    - date: 2018-01-02
+      name: 中共中央 国务院关于实施乡村振兴战略的意见
+      text: 2018年中央一号文件，定下2020、2035、2050年三步时间表，要求五级书记抓乡村振兴。
+      events: [e11-2018-rural-revitalization-document]
+      cite: i06-gov-2018-02-04-rural-revitalization
+  cites: [i06-gov-2018-02-04-rural-revitalization]
+
+dual-carbon:
+  policies:
+    - date: 2020-09-22
+      name: 联合国大会宣布“双碳”目标
+      text: 习近平在第七十五届联大一般性辩论上宣布二氧化碳排放力争2030年前达峰、2060年前实现碳中和。
+      events: [e11-2020-unga-carbon-pledge]
+      cite: i06-gov-2020-09-22-unga-carbon
+    - date: 2020-12-18
+      name: 中央经济工作会议部署碳达峰碳中和
+      text: 列为2021年八项重点任务的最后一项，要求制定2030年前碳排放达峰行动方案。
+      events: [e11-2020-cewc-disorderly-capital]
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2021-09-22
+      name: 中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见
+      text: 定下2025、2030、2060年三阶段量化目标，未完成目标的地区要被通报批评和约谈问责。
+      events: [e11-2021-carbon-opinion]
+      cite: i06-gov-2021-10-24-carbon-opinion
+    - date: 2021-12-10
+      name: 中央经济工作会议调整“双碳”推进方式
+      text: 强调不可能毕其功于一役，立足以煤为主的基本国情，新增可再生能源不纳入能源消费总量控制。
+      events: [e11-2021-cewc-red-green-lights]
+      cite: i06-gov-2021-12-10-cewc
+  cites: [i06-gov-2020-09-22-unga-carbon, i06-gov-2020-12-18-cewc, i06-gov-2021-10-24-carbon-opinion, i06-gov-2021-12-10-cewc]
+
+unified-national-market:
+  policies:
+    - date: 2020-12-18
+      name: 中央经济工作会议要求建设统一大市场
+      text: 在全面推进改革开放一项中，要求放宽市场准入、促进公平竞争、保护知识产权、建设统一大市场。
+      events: [e11-2020-cewc-disorderly-capital]
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2022-03-25
+      name: 中共中央 国务院关于加快建设全国统一大市场的意见
+      text: 4月10日公布，要求打破地方保护和市场分割，严格落实市场准入负面清单“全国一张清单”管理模式。
+      events: [e11-2022-unified-market-opinion]
+      cite: i06-gov-2022-04-10-unified-market
+  cites: [i06-gov-2020-12-18-cewc, i06-gov-2022-04-10-unified-market]
+
+new-whole-nation-system:
+  policies:
+    - date: 2020-12-18
+      name: 中央经济工作会议要求发挥新型举国体制优势
+      text: 把强化国家战略科技力量列为2021年八项重点任务之首，要求发挥好重要院所高校国家队作用。
+      events: [e11-2020-cewc-disorderly-capital]
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2022-09-06
+      name: 关于健全社会主义市场经济条件下关键核心技术攻关新型举国体制的意见
+      text: 中央深改委第二十七次会议审议通过，要求建立权威的决策指挥体系，同时强化企业技术创新主体地位。
+      events: [e11-2022-new-whole-nation-opinion]
+      cite: i06-gov-2022-09-06-new-whole-nation
+  cites: [i06-gov-2020-12-18-cewc, i06-gov-2022-09-06-new-whole-nation]
+
+disorderly-capital:
+  policies:
+    - date: 2020-12-18
+      name: 中央经济工作会议提出强化反垄断和防止资本无序扩张
+      text: 列为2021年八项重点任务的第六项，要求完善平台企业垄断认定、数据收集使用管理等法律规范。
+      events: [e11-2020-cewc-disorderly-capital]
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2021-12-10
+      name: 中央经济工作会议提出为资本设置“红绿灯”
+      text: 要求依法加强对资本的有效监管，防止资本野蛮生长，同时支持和引导资本规范健康发展。
+      events: [e11-2021-cewc-red-green-lights]
+      cite: i06-gov-2021-12-10-cewc
+  cites: [i06-gov-2020-12-18-cewc, i06-gov-2021-12-10-cewc]
+
+financial-power:
+  policies:
+    - date: 2023-03-16
+      name: 组建中央金融委员会、中央金融工作委员会和国家金融监督管理总局
+      text: 党和国家机构改革方案把金融决策和金融系统党建收归党中央，与中央科技委员会同批组建。
+      events: [e05-2023-central-tech-commission]
+      cite: e05-gov-2023-03-16-reform-plan
+    - date: 2024-01-16
+      name: 省部级主要领导干部推动金融高质量发展专题研讨班
+      text: 习近平提出金融强国的六个关键核心金融要素，要求金融监管“长牙带刺”。
+      events: [e11-2024-finance-seminar]
+      cite: i06-gov-2024-01-16-finance-seminar
+  cites: [e05-gov-2023-03-16-reform-plan, i06-gov-2024-01-16-finance-seminar]
+
+military-civil-fusion:
+  policies:
+    - date: 2015-03-12
+      name: 军民融合发展上升为国家战略
+      text: 习近平在全国人大解放军代表团首次明确提出，同年写入十八届五中全会公报。
+      events: [e11-2015-mcf-national-strategy]
+      cite: i06-xinhua-2015-03-12-military-civil
+    - date: 2017-01-22
+      name: 设立中央军民融合发展委员会
+      text: 中央政治局会议决定设立，由习近平任主任，作为中央层面军民融合发展重大问题的决策和议事协调机构。
+      events: [e11-2017-mcf-commission]
+      cite: e11-gov-2017-01-22-mcf-commission
+  cites: [i06-xinhua-2015-03-12-military-civil, e11-gov-2017-01-22-mcf-commission]
+
+fengqiao-experience:
+  policies:
+    - date: 2013-10-11
+      name: 习近平就坚持和发展“枫桥经验”作出指示
+      text: 要求各级党委和政府创新群众工作方法，运用法治思维和法治方式解决涉及群众切身利益的矛盾和问题。
+      events: [e11-2013-fengqiao-instruction]
+      cite: i06-gov-2013-10-11-fengqiao
+  cites: [i06-gov-2013-10-11-fengqiao]
+
+party-history-education:
+  policies:
+    - date: 2021-05-08
+      name: 清朗·整治网上历史虚无主义
+      text: 网信部门把整治网上历史虚无主义列为2021年清朗系列专项行动的首项任务。
+      events: [e11-2021-qinglang-campaign]
+      cite: i06-cac-2021-05-08-qinglang
+  cites: [i06-cac-2021-05-08-qinglang]
+
+three-musts:
+  policies:
+    - date: 2023-01-09
+      name: 二十届中央纪委二次全会部署作风建设
+      text: 把牢记“三个务必”写入纠治“四风”、推进作风建设常态化长效化的部署。
+      events: [e11-2023-ccdi-second-plenum]
+      cite: cs2-gov-2023-01-10-ccdi-2nd-plenum
+    - date: 2024-01-08
+      name: 纪检监察干部队伍自我革命
+      text: 二十届中央纪委三次全会要求纪检监察干部牢记“三个务必”、践行“三严三实”。
+      events: [e11-2024-ccdi-third-plenum]
+      cite: cs2-ccdi-2024-01-10-ccdi-3rd-plenum
+  cites: [cs2-gov-2023-01-10-ccdi-2nd-plenum, cs2-ccdi-2024-01-10-ccdi-3rd-plenum]
+
+self-revolution:
+  policies:
+    - date: 2024-01-08
+      name: 二十届中央纪委三次全会阐述关于党的自我革命的重要思想
+      text: 李希的工作报告以学习贯彻这一重要思想为题，全会称其为习近平新时代中国特色社会主义思想的新篇章。
+      events: [e11-2024-ccdi-third-plenum]
+      cite: cs2-ccdi-2024-01-10-ccdi-3rd-plenum
+  cites: [cs2-ccdi-2024-01-10-ccdi-3rd-plenum]
+
+cultural-confidence:
+  policies:
+    - date: 2011-10-18
+      name: 十七届六中全会文化体制改革决定
+      text: 全会提出建设社会主义文化强国，公报写入文化自觉和文化自信。
+      events: [e07-2011-sixth-plenum]
+      cite: e07-cppcc-2011-10-18-6th-plenum
+  cites: [e07-cppcc-2011-10-18-6th-plenum]
+
+digital-china:
+  policies:
+    - date: 2023-02-27
+      name: 数字中国建设整体布局规划
+      text: 中共中央、国务院印发，确立“2522”框架和2025、2035年目标。
+      events: [e11-2023-digital-china-plan]
+      cite: i06-gov-2023-02-27-digital-china
+    - date: 2023-03-16
+      name: 组建国家数据局
+      text: 与中央科技委员会、中央金融委员会同批的党和国家机构改革，国家数据局由国家发展改革委管理。
+      events: [e05-2023-central-tech-commission]
+      cite: e05-gov-2023-03-16-reform-plan
+  cites: [i06-gov-2023-02-27-digital-china, e05-gov-2023-03-16-reform-plan]
+
+qinglang:
+  policies:
+    - date: 2021-05-08
+      name: 2021年网络“清朗”系列专项行动
+      text: 国新办发布会公布8项任务，网信部门对典型案例查处并全网曝光。
+      events: [e11-2021-qinglang-campaign]
+      cite: i06-cac-2021-05-08-qinglang
+    - date: 2021-08-25
+      name: 关于进一步加强“饭圈”乱象治理的通知
+      text: 十项措施覆盖明星榜单、经纪公司、粉丝账号、未成年人和应援集资。
+      events: [e11-2021-fanquan-rectification]
+      cite: i06-cac-2021-08-25-fanquan
+  cites: [i06-cac-2021-05-08-qinglang, i06-cac-2021-08-25-fanquan]
+
+made-in-china-2025:
+  policies:
+    - date: 2015-03-05
+      name: 政府工作报告提出实施“中国制造2025”
+      text: 与“双引擎”和“互联网+”行动计划一并写入2015年政府工作报告。
+      events: [e11-2015-gwr-double-engine]
+      cite: i02-gov-2015-gwr
+    - date: 2015-05-19
+      name: 国务院印发《中国制造2025》
+      text: 制造强国战略第一个十年的行动纲领，提出“三步走”目标、十大重点领域和五项重大工程。
+      events: [e11-2015-made-in-china-2025]
+      cite: e11-mof-2015-05-19-made-in-china-2025
+    - date: 2019-04-04
+      name: 楼继伟批评“中国制造2025”后被免职
+      text: 前财政部长楼继伟称该计划是浪费公款，随后被免去全国社保基金理事会理事长职务。
+      events: [e11-2019-lou-jiwei-removed]
+      cite: c05-voa-2019-04-07-lou-jiwei
+  cites: [i02-gov-2015-gwr, e11-mof-2015-05-19-made-in-china-2025, c05-voa-2019-04-07-lou-jiwei]
+
+mass-entrepreneurship:
+  policies:
+    - date: 2015-03-05
+      name: 政府工作报告提出“双引擎”
+      text: 把大众创业、万众创新列为经济提质增效的两大引擎之一。
+      events: [e11-2015-gwr-double-engine]
+      cite: i02-gov-2015-gwr
+  cites: [i02-gov-2015-gwr]
+
+# ---- I06 concept-more (concepts owned by I01) ----
+common-prosperity:
+  policies:
+    - date: 2021-12-10
+      name: 中央经济工作会议提出先做大再分好“蛋糕”
+      text: 把共同富裕表述为长期历史过程，同时提出为资本设置“红绿灯”。
+      events: [e11-2021-cewc-red-green-lights]
+      cite: i06-gov-2021-12-10-cewc
+  cites: [i06-gov-2021-12-10-cewc]
+
+dual-circulation:
+  policies:
+    - date: 2020-12-18
+      name: 中央经济工作会议部署新发展格局“迈好第一步”
+      text: 要求增强产业链供应链自主可控能力，坚持扩大内需这个战略基点。
+      events: [e11-2020-cewc-disorderly-capital]
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2022-03-25
+      name: 关于加快建设全国统一大市场的意见
+      text: 以打破地方保护和市场分割为新发展格局提供制度支撑。
+      events: [e11-2022-unified-market-opinion]
+      cite: i06-gov-2022-04-10-unified-market
+  cites: [i06-gov-2020-12-18-cewc, i06-gov-2022-04-10-unified-market]
+
+supply-side:
+  policies:
+    - date: 2016-03-05
+      name: 政府工作报告部署“三去一降一补”
+      text: 以钢铁、煤炭为重点去产能，中央财政安排1000亿元专项奖补资金安置分流职工。
+      events: [e11-2016-capacity-cuts]
+      cite: i02-gov-2016-gwr
+    - date: 2017-03-05
+      name: 继续压减钢铁、煤炭产能
+      text: 上年退出钢铁产能超过6500万吨、煤炭产能超过2.9亿吨，当年再压减钢铁产能5000万吨左右。
+      events: [e11-2016-capacity-cuts]
+      cite: i02-gov-2017-gwr
+  cites: [i02-gov-2016-gwr, i02-gov-2017-gwr]
+
+# ---- I07 ----
+wto-accession:
+  policies:
+    - date: 1986-07-10
+      name: 申请恢复关贸总协定缔约国地位
+      text: 中国驻日内瓦代表团大使钱嘉东代表中国政府正式提出申请，复关谈判开始。
+      events: [e11-1986-gatt-application]
+      cite: e11-mfa-2000-11-07-wto-history
+  cites: [e11-mfa-2000-11-07-wto-history]
+
+macro-control:
+  policies:
+    - date: 1998-08
+      name: 增发1000亿元国债，实行积极财政政策
+      text: 九届全国人大常委会第四次会议批准财政部向国有商业银行增发国债用于基础设施建设，并扩大中央财政赤字。
+      events: [e11-1998-treasury-bonds]
+      cite: e01-cpc-dsj-1998
+  cites: [e01-cpc-dsj-1998]
+
+three-stresses:
+  policies:
+    - date: 1998-11-21
+      name: 部署“三讲”集中教育
+      text: 中共中央发出意见，1998年底至2000年底在县级以上党政领导班子、领导干部中分期分批开展。
+      events: [e11-1998-three-stresses-campaign]
+      cite: e01-cpc-dsj-1998
+    - date: 2013-06-18
+      name: 党的群众路线教育实践活动
+      text: 十八大后的第一场全党集中教育，以反对形式主义、官僚主义、享乐主义和奢靡之风为重点。
+      events: [e08-2013-mass-line-campaign]
+      cite: e08-xinhua-2013-06-18-mass-line
+  cites: [e01-cpc-dsj-1998, e08-xinhua-2013-06-18-mass-line]
+
+advanced-nature-education:
+  policies:
+    - date: 2013-06-18
+      name: 党的群众路线教育实践活动
+      text: 先进性教育之后，十八大后的第一场全党集中教育，自上而下在全党展开。
+      events: [e08-2013-mass-line-campaign]
+      cite: e08-xinhua-2013-06-18-mass-line
+  cites: [e08-xinhua-2013-06-18-mass-line]
+
+soe-reform:
+  policies:
+    - date: 1999-09-22
+      name: 国有企业改革和发展决定
+      text: 十五届四中全会确定到2010年国有企业改革和发展的主要目标，首先实现改革和脱困的三年目标。
+      events: [e11-1999-soe-reform-decision]
+      cite: e01-cpc-dsj-1999
+  cites: [e01-cpc-dsj-1999]
+
+rule-by-virtue:
+  policies:
+    - date: 2001-09-20
+      name: 公民道德建设实施纲要
+      text: 中共中央印发，提出把依法治国与以德治国紧密结合起来。
+      events: [e11-2001-civic-morality-outline]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [e01-gov-2021-06-28-cpc-100y]
+
+sannong:
+  policies:
+    - date: 2004-02-09
+      name: 促进农民增加收入的中央一号文件
+      text: 《中共中央国务院关于促进农民增加收入若干政策的意见》全文发表，坚持多予、少取、放活的方针。
+      events: [e11-2004-farmer-income-document]
+      cite: i04-rmrb-2004-02-09-editorial
+    - date: 2004-03-05
+      name: 五年内取消农业税
+      text: 2004年政府工作报告宣布逐步降低农业税税率，五年内取消农业税；实际到2006年1月1日全面废止。
+      events: [e2006-agricultural-tax-abolished]
+      cite: i02-gov-2004-gwr
+    - date: 2005-12-31
+      name: 关于推进社会主义新农村建设的若干意见
+      text: 中共中央、国务院印发，2006年2月21日全文发布，按照二十字要求全面推进农村建设。
+      events: [e11-2005-new-countryside-opinion]
+      cite: e01-cpc-dsj-2005
+  cites: [i04-rmrb-2004-02-09-editorial, i02-gov-2004-gwr, e01-cpc-dsj-2005]
+
+innovative-country:
+  policies:
+    - date: 2006-01-26
+      name: 增强自主创新能力的决定
+      text: 全国科学技术大会后作出，部署实施《国家中长期科学和技术发展规划纲要（2006—2020年）》。
+      events: [e11-2006-science-conference]
+      cite: e01-cpc-dsj-2006
+  cites: [e01-cpc-dsj-2006]
+
+stability-overrides-all:
+  policies:
+    - date: 2004-09-19
+      name: 维护社会稳定工作责任制
+      text: 十六届四中全会通过的执政能力建设决定，以坚持稳定压倒一切的方针开头部署维护社会稳定的工作机制。
+      events: [e2004-jiang-hands-over-cmc]
+      cite: i01-wikisource-2004-09-19-governing-capacity-decision
+  cites: [i01-wikisource-2004-09-19-governing-capacity-decision]
+
+# ---- I07 suggestions for concepts owned by I01 ----
+harmonious-society:
+  policies:
+    - date: 2005-02-19
+      name: 省部级主要领导干部提高构建社会主义和谐社会能力专题研讨班
+      text: 胡锦涛在开班式上提出和谐社会的六项特征。
+      events: [e11-2005-harmonious-society-seminar]
+      cite: e01-cpc-dsj-2005
+    - date: 2006-10-11
+      name: 关于构建社会主义和谐社会若干重大问题的决定
+      text: 十六届六中全会通过，称社会和谐是中国特色社会主义的本质属性。
+      events: [e2006-harmonious-society]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [e01-cpc-dsj-2005, e01-gov-2021-06-28-cpc-100y]
+
+three-represents:
+  policies:
+    - date: 2001-07-01
+      name: 建党80周年“七一”讲话
+      text: 江泽民系统阐述三个代表重要思想，十五届六中全会称之为马克思主义的纲领性文献。
+      events: [e2001-july-first-speech]
+      cite: e01-cpc-dsj-2001
+  cites: [e01-cpc-dsj-2001]

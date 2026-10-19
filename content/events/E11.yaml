@@ -1,0 +1,433 @@
+# E11 events: landing events for the I06/I07 concepts (idea → policy → event)
+
+# ---- I07：江胡时期的政策落地 ----
+- id: e11-1986-gatt-application
+  date: 1986-07-10
+  title: 中国申请恢复关贸总协定缔约国地位
+  lane: prelude
+  summary: 1986年7月10日，中国驻日内瓦代表团大使钱嘉东代表中国政府正式提出恢复关贸总协定缔约方地位的申请，“复关”谈判由此开始。1989年六四事件后西方对华制裁，中美复关磋商中断；1995年关贸总协定改为世贸组织，复关转为“入世”谈判。2001年11月多哈部长级会议通过中国入世决定，官方称“长达15年复关和加入WTO进程”至此结束。另说：朱镕基2000年称中美协议是“经过13年的谈判”达成的。
+  concepts: [wto-accession]
+  voices:
+    - voice: official
+      text: 1992年10月，中美达成《市场准入备忘录》，美国承诺“坚定地支持中国取得关贸总协定缔约方地位”。
+      cite: e11-mfa-2000-11-07-wto-history
+      quote: true
+    - voice: zh
+      text: 中国原本期望在1994年底前复关，但因美国的重重阻挠未能实现。
+      cite: b18-thepaper-2019-12-wto-48-hours
+      quote: true
+  cites: [e11-mfa-2000-11-07-wto-history, e01-cpc-dsj-2001, b01-gov-2000-03-15-zhu-presser, b18-thepaper-2019-12-wto-48-hours]
+
+- id: e11-1998-treasury-bonds
+  date: 1998-08
+  title: 人大常委会批准增发千亿国债，积极财政政策启动
+  lane: prelude
+  summary: 1998年8月24日至29日的九届全国人大常委会第四次会议通过决议，批准财政部向国有商业银行增发1000亿元国债，“用于加大基础设施建设的投入”，中央财政赤字由年初预算的460亿元扩大到960亿元。以发行长期建设国债扩大内需的积极财政政策由此启动。朱镕基2000年政府工作报告说，两年来共发行2100亿元长期国债，带动4200多亿元银行贷款和自筹资金，建设5100多个基础设施项目。
+  people: [zhu-rongji]
+  concepts: [macro-control]
+  voices:
+    - voice: official
+      text: 实践证明，实行积极财政政策是完全正确的，取得的成效是明显的。
+      cite: i02-gov-2000-gwr
+      quote: true
+  cites: [e01-cpc-dsj-1998, i02-gov-2000-gwr]
+
+- id: e11-1998-three-stresses-campaign
+  date: 1998-11-21
+  end: 2000-12-17
+  title: 县级以上领导干部“三讲”集中教育
+  lane: prelude
+  summary: 1998年11月21日，中共中央发出意见，在县级以上党政领导班子、领导干部中开展以“讲学习、讲政治、讲正气”为主要内容的党性党风教育，12月5日召开电视电话会议动员部署。集中教育自上而下、分期分批进行。2000年1月胡锦涛说，全国几十万领导干部和几百万干部群众参与了这次教育；同年12月16日至17日的总结会议以“三个代表”重要思想为指导，对两年来的集中教育作了总结。
+  people: [jiang-zemin, hu-jintao]
+  concepts: [three-stresses, three-represents]
+  voices:
+    - voice: official
+      text: “三讲”教育的实践证明，中央关于“三讲”教育的决策和制定的指导思想、目标要求、方针原则和方法步骤是完全正确的。
+      cite: e01-cpc-dsj-2000
+      quote: true
+    - voice: west
+      text: 1983年，中国共产党发起了一场整风运动，目的是挖出那些继续支持“文化大革命”的目标和“四人帮”的人。1998年，中国共产党发起了讲学习、讲政治和讲正气的“三讲教育”活动。
+      cite: i07-dzwww-2005-03-03-hoover-advanced-nature
+      quote: true
+  cites: [e01-cpc-dsj-1998, e01-cpc-dsj-2000, i07-dzwww-2005-03-03-hoover-advanced-nature]
+
+- id: e11-1999-soe-reform-decision
+  date: 1999-09-22
+  title: 十五届四中全会通过国有企业改革和发展决定
+  lane: prelude
+  summary: 1999年9月19日至22日，中共十五届四中全会通过《中共中央关于国有企业改革和发展若干重大问题的决定》，确定到2010年国有企业改革和发展的主要目标，要求“首先要尽最大努力实现国有企业改革和脱困的三年目标”，从战略上调整国有经济布局，提高国有经济的控制力和整体素质。全会前的8月，江泽民在大连主持东北和华北八省区市国企座谈会，提出成立金融资产管理公司、对部分重点国企实行债转股。
+  people: [jiang-zemin]
+  concepts: [soe-reform, grasp-large-release-small]
+  voices:
+    - voice: zh
+      text: 中国在上个世纪九十年代进行的国有企业改革、减员增效所导致的下岗失业浪潮曾经引起整个社会的恐慌。
+      cite: i07-bbc-2005-03-21-soe-unemployment
+      quote: true
+  cites: [e01-cpc-dsj-1999, k01-xinhua-1999-09-22-15-4-plenum, i07-bbc-2005-03-21-soe-unemployment]
+
+- id: e11-2001-civic-morality-outline
+  date: 2001-09-20
+  title: 中共中央印发《公民道德建设实施纲要》
+  lane: ideo
+  summary: 2001年1月江泽民在全国宣传部长会议上提出把依法治国与以德治国结合起来。9月20日，中共中央印发《公民道德建设实施纲要》，“提出要把法制建设与道德建设、依法治国与以德治国紧密结合起来”，逐步形成与发展社会主义市场经济相适应的社会主义道德体系。2002年政府工作报告要求贯彻落实纲要，在全社会倡导“爱国守法、明礼诚信、团结友善、勤俭自强、敬业奉献”的基本道德规范。
+  people: [jiang-zemin]
+  concepts: [rule-by-virtue]
+  voices:
+    - voice: history
+      text: 江泽民提出“以德治国”最直接的现实针对性，就是要对党的宣传思想工作如何应对“法轮功”及其他一切腐朽思想对社会生活的侵蚀进行深刻反思。
+      cite: i07-dswxyjy-2019-07-09-rule-by-virtue
+      quote: true
+    - voice: zh
+      text: 这些代表和委员向在北京采访的香港记者私下里表示，在现代社会提以德治国有很强烈的封建意味。
+      cite: i07-bbc-2001-03-13-rule-by-virtue
+      quote: true
+  cites: [e01-gov-2021-06-28-cpc-100y, i07-chinanews-2001-01-10-rule-by-virtue, i02-gov-2002-gwr, i07-dswxyjy-2019-07-09-rule-by-virtue, i07-bbc-2001-03-13-rule-by-virtue]
+
+- id: e11-2004-farmer-income-document
+  date: 2004-02-09
+  title: 促进农民增收的中央一号文件发表
+  lane: econ
+  summary: 2004年2月9日，《人民日报》全文发表《中共中央国务院关于促进农民增加收入若干政策的意见》，社论说，以中共中央、国务院的名义专门制定促进农民增收的文件，“新中国成立以来还是第一次”。文件针对农民收入连续多年增长缓慢、城乡收入差距扩大，坚持“多予、少取、放活”的方针。新浪的回良玉简历称，主管农村工作的副总理回良玉调研并请示温家宝后，促成了这份一号文件。此后中央一号文件连年以“三农”为主题。
+  people: [hui-liangyu, wen-jiabao]
+  concepts: [sannong]
+  voices:
+    - voice: official
+      text: 农民增收难的问题已经到了非解决不可的时候。
+      cite: i04-rmrb-2004-02-09-editorial
+      quote: true
+  cites: [i04-rmrb-2004-02-09-editorial, b19-sina-2008-03-18-hui-profile, i04-rmrb-2024-02-04-editorial]
+
+- id: e11-2005-harmonious-society-seminar
+  date: 2005-02-19
+  title: 省部级领导干部构建和谐社会能力专题研讨班
+  lane: ideo
+  summary: 2005年2月19日，中共中央举办的省部级主要领导干部提高构建社会主义和谐社会能力专题研讨班在中央党校开班。胡锦涛在开班式上说，构建社会主义和谐社会“是党提出的一项重大任务”，要建设的是“民主法制、公平正义、诚信友爱、充满活力、安定有序、人与自然和谐相处的社会”。另说：同年3月政府工作报告和2006年十六届六中全会决定均作“民主法治”。
+  people: [hu-jintao]
+  concepts: [harmonious-society, scientific-development]
+  voices:
+    - voice: official
+      text: 建设民主法治、公平正义、诚信友爱、充满活力、安定有序、人与自然和谐相处的社会主义和谐社会，要广泛团结一切可以团结的力量，充分调动一切积极因素，激发全社会的创造活力
+      cite: i02-gov-2005-gwr
+      quote: true
+  cites: [e01-cpc-dsj-2005, i02-gov-2005-gwr, e01-gov-2021-06-28-cpc-100y]
+
+- id: e11-2005-new-countryside-opinion
+  date: 2005-12-31
+  title: 中共中央、国务院推进社会主义新农村建设的意见
+  lane: econ
+  summary: 2005年12月28日至29日的中央农村工作会议讨论了推进社会主义新农村建设意见的讨论稿，要求按照“生产发展、生活宽裕、乡风文明、村容整洁、管理民主”的要求全面推进农村建设，“真正实行工业反哺农业、城市支持农村的方针”。12月31日中共中央、国务院印发该意见，2006年2月21日新华社全文发布。2月14日至20日中央为省部级主要领导干部举办新农村专题研讨班，此后又分50期培训了5474名县委书记、县长。
+  people: [hu-jintao, wen-jiabao]
+  concepts: [sannong]
+  voices:
+    - voice: official
+      text: 胡锦涛强调要真正使建设社会主义新农村成为惠及广大农民群众的民心工程。
+      cite: e01-cpc-dsj-2006
+      quote: true
+  cites: [e01-cpc-dsj-2005, e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2006]
+
+- id: e11-2006-science-conference
+  date: 2006-01-09
+  end: 2006-01-26
+  title: 全国科学技术大会提出建设创新型国家
+  lane: econ
+  summary: 2006年1月9日至11日，中共中央、国务院召开全国科学技术大会，胡锦涛、温家宝讲话，部署实施《国家中长期科学和技术发展规划纲要（2006—2020年）》；26日作出关于实施科技规划纲要、增强自主创新能力的决定，“提出增强自主创新能力，努力建设创新型国家”。同年政府工作报告提出“自主创新、重点跨越、支撑发展、引领未来”的方针，启动一批重大科技专项，中央财政科技投入716亿元，比上年增长19.2%。
+  people: [hu-jintao, wen-jiabao]
+  concepts: [innovative-country, scientific-development]
+  voices:
+    - voice: official
+      text: 我国已进入必须更多地依靠科技进步和创新推动经济社会发展的历史阶段，要把加快科技发展放在更加突出的战略地位。
+      cite: i02-gov-2006-gwr
+      quote: true
+  cites: [e01-cpc-dsj-2006, e01-gov-2021-06-28-cpc-100y, i02-gov-2006-gwr]
+
+# ---- I06：习近平时期的政策落地 ----
+- id: e11-2013-fengqiao-instruction
+  date: 2013-10-11
+  title: 习近平就“枫桥经验”五十周年作出指示
+  lane: society
+  summary: 2013年10月，毛泽东批示“枫桥经验”50周年之际，习近平作出指示，称浙江枫桥干部群众50年前创造的“依靠群众就地化解矛盾”的经验，已“成为全国政法综治战线的一面旗帜”，要求各级党委和政府“善于运用法治思维和法治方式解决涉及群众切身利益的矛盾和问题”。11日在杭州召开的纪念大会上，中央政法委书记孟建柱讲话，公安部部长郭声琨等出席。
+  people: [xi-jinping, meng-jianzhu, guo-shengkun]
+  concepts: [fengqiao-experience, stability-maintenance]
+  voices:
+    - voice: official
+      text: 把“枫桥经验”坚持好、发展好，把党的群众路线坚持好、贯彻好。
+      cite: i06-gov-2013-10-11-fengqiao
+      quote: true
+  cites: [i06-gov-2013-10-11-fengqiao]
+
+- id: e11-2015-gwr-double-engine
+  date: 2015-03-05
+  title: 政府工作报告提出“中国制造2025”与“双创”
+  lane: econ
+  summary: 2015年3月5日，李克强在十二届全国人大三次会议上作政府工作报告，把国内生产总值增长预期定为7%左右，提出打造大众创业、万众创新和增加公共产品、公共服务的“双引擎”。报告说“制造业是我们的优势产业”，要求实施“中国制造2025”，“坚持创新驱动、智能转型、强化基础、绿色发展，加快从制造大国转向制造强国”，并制定“互联网+”行动计划。同年十八届五中全会公报写入“推动大众创业、万众创新”。
+  people: [li-keqiang]
+  concepts: [made-in-china-2025, mass-entrepreneurship]
+  voices:
+    - voice: official
+      text: 推动大众创业、万众创新。这既可以扩大就业、增加居民收入，又有利于促进社会纵向流动和公平正义。
+      cite: i02-gov-2015-gwr
+      quote: true
+  cites: [i02-gov-2015-gwr, i01-moe-2015-10-29-5th-plenum-communique]
+
+- id: e11-2015-mcf-national-strategy
+  date: 2015-03-12
+  title: 军民融合发展上升为国家战略
+  lane: army
+  summary: 2015年3月12日，习近平在十二届全国人大三次会议解放军代表团全体会议上说，“把军民融合发展上升为国家战略，是我们长期探索经济建设和国防建设协调发展规律的重大成果”。新华社“新华视点”称，这是他第一次明确提出这一说法。他说军民融合“刚进入由初步融合向深度融合的过渡阶段”，存在“顶层统筹统管体制缺乏”等问题，要求加快形成全要素、多领域、高效益的深度发展格局。同年十八届五中全会公报写入“实施军民融合发展战略”。
+  people: [xi-jinping]
+  concepts: [military-civil-fusion]
+  voices:
+    - voice: official
+      text: 要强化改革创新，着力解决制约军民融合发展的体制性障碍、结构性矛盾、政策性问题
+      cite: i06-xinhua-2015-03-12-military-civil
+      quote: true
+  cites: [i06-xinhua-2015-03-12-military-civil, i06-xinhua-2015-03-12-mcf-first, i01-moe-2015-10-29-5th-plenum-communique]
+
+- id: e11-2015-made-in-china-2025
+  date: 2015-05-19
+  title: 国务院印发《中国制造2025》
+  lane: econ
+  major: true
+  summary: 2015年5月，经李克强签批，国务院印发《中国制造2025》，称其为“我国实施制造强国战略第一个十年的行动纲领”。规划提出“三步走”：到2025年迈入制造强国行列，到2035年达到世界制造强国阵营中等水平，到新中国成立一百年时进入世界制造强国前列；列出新一代信息技术、高档数控机床和机器人、航空航天装备等十大重点领域，以及制造业创新中心、智能制造、工业强基等五项重大工程。2019年起，这一名称不再出现在政府工作报告中。
+  people: [li-keqiang]
+  concepts: [made-in-china-2025]
+  voices:
+    - voice: west
+      text: 美国之音引述《南华早报》，前财政部长楼继伟2019年两会期间说，“中国制造2025”战略不应提出，他从一开始就反对，该计划说得很多、做得很少，是浪费公款。
+      cite: c05-voa-2019-04-07-lou-jiwei
+  cites: [e11-mof-2015-05-19-made-in-china-2025, i02-gov-2019-gwr, c05-voa-2019-04-07-lou-jiwei]
+
+- id: e11-2015-poverty-decision
+  date: 2015-11-29
+  title: 中共中央、国务院作出打赢脱贫攻坚战的决定
+  lane: society
+  summary: 2015年11月29日，中共中央、国务院作出《关于打赢脱贫攻坚战的决定》，12月7日由新华社公布。决定提出“到2020年，稳定实现农村贫困人口不愁吃、不愁穿，义务教育、基本医疗和住房安全有保障”，现行标准下农村贫困人口实现脱贫、贫困县全部摘帽；要求抓好“精准识别、建档立卡这个关键环节”，实行有进有出的动态管理，对弄虚作假搞“数字脱贫”的严肃追究责任。2021年2月，习近平宣布脱贫攻坚战取得全面胜利。
+  people: [xi-jinping]
+  concepts: [poverty-alleviation, xiaokang]
+  voices:
+    - voice: west
+      text: BBC中文网比较了中外贫困线：联合国发展署的全球绝对贫困线为人均日收入1.9美元，约合年收入4496元；按世界银行以收入中位数三分之一划线，中国年收入不足9180元者为贫困人口。
+      cite: i06-bbc-2021-02-27-poverty-numbers
+  cites: [i06-gov-2015-12-07-poverty-decision, i06-gov-2021-02-25-poverty-speech, i06-bbc-2021-02-27-poverty-numbers]
+
+- id: e11-2016-capacity-cuts
+  date: 2016-03-05
+  end: 2017-03-05
+  title: “三去一降一补”与钢铁煤炭去产能
+  lane: econ
+  summary: 2016年政府工作报告要求着力加强供给侧结构性改革，抓好去产能、去库存、去杠杆、降成本、补短板，重点抓好钢铁、煤炭等困难行业去产能，积极稳妥处置“僵尸企业”，中央财政安排1000亿元专项奖补资金用于职工分流安置。2017年报告称，上年退出钢铁产能超过6500万吨、煤炭产能超过2.9亿吨，“超额完成年度目标任务”，并查处违规新建钢铁项目和生产销售“地条钢”等行为；当年再压减钢铁产能5000万吨左右、退出煤炭产能1.5亿吨以上。
+  people: [li-keqiang]
+  concepts: [supply-side]
+  voices:
+    - voice: official
+      text: 去产能必须安置好职工，中央财政专项奖补资金要及时拨付，地方和企业要落实相关资金与措施，确保分流职工就业有出路、生活有保障。
+      cite: i02-gov-2017-gwr
+      quote: true
+  cites: [i02-gov-2016-gwr, i02-gov-2017-gwr]
+
+- id: e11-2017-mcf-commission
+  date: 2017-01-22
+  title: 设立中央军民融合发展委员会，习近平任主任
+  lane: army
+  summary: 2017年1月22日，中共中央政治局会议决定设立中央军民融合发展委员会，由习近平任主任。委员会是“中央层面军民融合发展重大问题的决策和议事协调机构”，统一领导军民融合深度发展，向中央政治局、中央政治局常委会负责。同年10月，十九大修改后的党章把军民融合发展战略列入七大战略。美国之音引述《南华早报》报道，2022年出任工信部部长的金壮龙曾任该委员会办公室常务副主任。
+  people: [xi-jinping, jin-zhuanglong]
+  concepts: [military-civil-fusion]
+  voices:
+    - voice: official
+      text: 中央军民融合发展委员会是中央层面军民融合发展重大问题的决策和议事协调机构，统一领导军民融合深度发展，向中央政治局、中央政治局常务委员会负责。
+      cite: e11-gov-2017-01-22-mcf-commission
+      quote: true
+  cites: [e11-gov-2017-01-22-mcf-commission, d01-12371-2017-10-28-party-charter, f08-voa-2025-03-01-jin-zhuanglong]
+
+- id: e11-2018-rural-revitalization-document
+  date: 2018-01-02
+  title: 中央一号文件部署乡村振兴战略
+  lane: econ
+  summary: 2018年1月2日，中共中央、国务院作出《关于实施乡村振兴战略的意见》，2月4日由新华社发布，为当年中央一号文件。文件把十九大提出的乡村振兴战略落实为三步时间表：到2020年“制度框架和政策体系基本形成”，到2035年“农业农村现代化基本实现”，到2050年乡村全面振兴；总要求是产业兴旺、生态宜居、乡风文明、治理有效、生活富裕，并要求党政一把手是第一责任人，“五级书记抓乡村振兴”。
+  concepts: [rural-revitalization, sannong]
+  voices:
+    - voice: official
+      text: 农业农村农民问题是关系国计民生的根本性问题。没有农业农村的现代化，就没有国家的现代化。
+      cite: i06-gov-2018-02-04-rural-revitalization
+      quote: true
+  cites: [i06-gov-2018-02-04-rural-revitalization]
+
+- id: e11-2019-lou-jiwei-removed
+  date: 2019-04-04
+  title: 楼继伟批评“中国制造2025”后被免社保基金理事长
+  lane: power
+  summary: 2019年4月4日，人社部发布国务院任免消息，免去前财政部长楼继伟的全国社会保障基金理事会理事长职务，由财政部副部长刘伟接任。此前两会期间，楼继伟对《南华早报》说“中国制造2025”这一战略不应提出，该计划说得很多、做得很少，是浪费公款；2月他还批评供给侧结构性改革已沦为“行政运动式”。美国之音说，外界将他的去职与这些言论联系起来；他仍任全国政协外事委员会主任。
+  people: [lou-jiwei]
+  concepts: [made-in-china-2025, supply-side]
+  voices:
+    - voice: west
+      text: 在北京的一位外交官认为楼继伟的上述言论触发了他的离职。
+      cite: c05-voa-2019-04-07-lou-jiwei
+      quote: true
+  cites: [c05-voa-2019-04-07-lou-jiwei]
+
+- id: e11-2020-unga-carbon-pledge
+  date: 2020-09-22
+  title: 习近平在联合国大会宣布“双碳”目标
+  lane: foreign
+  major: true
+  summary: 2020年9月22日，习近平在第七十五届联合国大会一般性辩论上讲话，称这场疫情启示人类要“加快形成绿色发展方式和生活方式”，宣布中国将提高国家自主贡献力度，“二氧化碳排放力争于2030年前达到峰值，努力争取2060年前实现碳中和”。同年12月中央经济工作会议把“做好碳达峰、碳中和工作”列为2021年八项重点任务的最后一项，要求抓紧制定2030年前碳排放达峰行动方案。
+  people: [xi-jinping]
+  concepts: [dual-carbon, ecological-civilization]
+  voices:
+    - voice: official
+      text: 应对气候变化《巴黎协定》代表了全球绿色低碳转型的大方向，是保护地球家园需要采取的最低限度行动，各国必须迈出决定性步伐。
+      cite: i06-gov-2020-09-22-unga-carbon
+      quote: true
+  cites: [i06-gov-2020-09-22-unga-carbon, i06-gov-2020-12-18-cewc]
+
+- id: e11-2020-cewc-disorderly-capital
+  date: 2020-12-16
+  end: 2020-12-18
+  title: 中央经济工作会议提出“防止资本无序扩张”
+  lane: econ
+  summary: 2020年12月16日至18日的中央经济工作会议要求，构建新发展格局“明年要迈好第一步，见到新气象”，部署2021年八项重点任务，包括强化国家战略科技力量、增强产业链供应链自主可控能力、解决好种子和耕地问题、“强化反垄断和防止资本无序扩张”和做好碳达峰碳中和工作。会议说国家支持平台企业创新发展，“同时要依法规范发展，健全数字规则”，并要求建设统一大市场。会议距蚂蚁集团上市被叫停一个多月。
+  people: [xi-jinping, li-keqiang]
+  concepts: [disorderly-capital, dual-circulation, dual-carbon, unified-national-market, new-whole-nation-system]
+  voices:
+    - voice: official
+      text: 金融创新必须在审慎监管的前提下进行。
+      cite: i06-gov-2020-12-18-cewc
+      quote: true
+  cites: [i06-gov-2020-12-18-cewc, e04-bbc-2020-11-03-ant-ipo]
+
+- id: e11-2021-qinglang-campaign
+  date: 2021-05-08
+  title: 网信办部署2021年“清朗”系列专项行动
+  lane: ideo
+  summary: 2021年5月8日国新办发布会上，国家网信办副主任盛荣华公布当年网络“清朗”系列专项行动的8项任务，以“整治网上历史虚无主义”居首，还包括打击网络水军、流量造假、黑公关，治理算法滥用，整治未成年人网络环境和网上文娱及热点排行乱象等。他说当年党中央在全党开展党史学习教育，专项行动要在全网开展“大扫除”，对典型案例“依法依规坚决查处并全网曝光”。
+  concepts: [qinglang, party-history-education, cyber-power]
+  voices:
+    - voice: official
+      text: 网络空间是亿万民众共同的精神家园。网络空间天朗气清、生态良好，符合人民利益。网络空间乌烟瘴气、生态恶化，不符合人民利益。
+      cite: i06-cac-2021-05-08-qinglang
+      quote: true
+  cites: [i06-cac-2021-05-08-qinglang]
+
+- id: e11-2021-fanquan-rectification
+  date: 2021-08-25
+  title: 中央网信办“饭圈”乱象治理十项措施
+  lane: ideo
+  summary: 2021年8月，中央网信办秘书局在“清朗·‘饭圈’乱象整治”专项行动基础上下发通知，提出十项措施：取消所有明星艺人个人或组合的排行榜单，严管明星经纪公司，持续解散以打投、应援、集资、控评等为主题的粉丝社区和群组，严禁未成年人打赏和应援消费，规范应援集资行为，并要求各地“从维护网上政治安全和意识形态安全、营造清朗网络空间的高度”推进治理。
+  concepts: [qinglang]
+  voices:
+    - voice: doc
+      text: 取消所有涉明星艺人个人或组合的排行榜单，严禁新增或变相上线个人榜单及相关产品或功能。
+      cite: i06-cac-2021-08-25-fanquan
+      quote: true
+  cites: [i06-cac-2021-08-25-fanquan]
+
+- id: e11-2021-carbon-opinion
+  date: 2021-09-22
+  title: 中共中央、国务院印发“双碳”工作意见
+  lane: econ
+  summary: 2021年9月22日，中共中央、国务院印发《关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见》，10月24日公布。意见提出，到2025年单位国内生产总值二氧化碳排放比2020年下降18%、非化石能源消费比重达到20%左右；到2030年比2005年下降65%以上，风电、太阳能发电总装机达到12亿千瓦以上；到2060年非化石能源消费比重达到80%以上。对未完成目标的地区要“依规依法实行通报批评和约谈问责”。
+  concepts: [dual-carbon, new-development-philosophy]
+  voices:
+    - voice: doc
+      text: 充分发挥政府投资引导作用，构建与碳达峰、碳中和相适应的投融资体系，严控煤电、钢铁、电解铝、水泥、石化等高碳项目投资
+      cite: i06-gov-2021-10-24-carbon-opinion
+      quote: true
+  cites: [i06-gov-2021-10-24-carbon-opinion]
+
+- id: e11-2021-cewc-red-green-lights
+  date: 2021-12-08
+  end: 2021-12-10
+  title: 中央经济工作会议：资本“红绿灯”与“双碳”纠偏
+  lane: econ
+  summary: 2021年12月8日至10日的中央经济工作会议说，经济面临“需求收缩、供给冲击、预期转弱三重压力”，要求明年“稳字当头、稳中求进”。会议提出几个“正确认识和把握”：共同富裕要先把“蛋糕”做大做好，再切好分好；要为资本设置“红绿灯”，“防止资本野蛮生长”；碳达峰碳中和“要坚定不移推进，但不可能毕其功于一役”，要“立足以煤为主的基本国情”，新增可再生能源和原料用能不纳入能源消费总量控制。
+  people: [xi-jinping, li-keqiang]
+  concepts: [disorderly-capital, common-prosperity, dual-carbon]
+  voices:
+    - voice: official
+      text: 传统能源逐步退出要建立在新能源安全可靠的替代基础上。
+      cite: i06-gov-2021-12-10-cewc
+      quote: true
+  cites: [i06-gov-2021-12-10-cewc]
+
+- id: e11-2022-unified-market-opinion
+  date: 2022-03-25
+  title: 中共中央、国务院加快建设全国统一大市场的意见
+  lane: econ
+  summary: 2022年3月25日，中共中央、国务院作出《关于加快建设全国统一大市场的意见》，4月10日公布。意见称“建设全国统一大市场是构建新发展格局的基础支撑和内在要求”，要求“打破地方保护和市场分割”，统一产权保护、市场准入、公平竞争、社会信用等基础制度，严格落实市场准入负面清单“全国一张清单”管理模式，全面清理歧视外资企业和外地企业的优惠政策；意见也写入为资本设置“红绿灯”。
+  concepts: [unified-national-market, dual-circulation, disorderly-capital]
+  voices:
+    - voice: doc
+      text: 不搞“小而全”的自我小循环，更不能以“内循环”的名义搞地区封锁。
+      cite: i06-gov-2022-04-10-unified-market
+      quote: true
+  cites: [i06-gov-2022-04-10-unified-market]
+
+- id: e11-2022-new-whole-nation-opinion
+  date: 2022-09-06
+  title: 中央深改委通过关键核心技术攻关新型举国体制意见
+  lane: econ
+  summary: 2022年9月6日，习近平主持中央全面深化改革委员会第二十七次会议，审议通过《关于健全社会主义市场经济条件下关键核心技术攻关新型举国体制的意见》。会议要求“发挥我国社会主义制度能够集中力量办大事的显著优势”，强化党和国家对重大科技创新的领导，瞄准“事关我国产业、经济和国家安全的若干重点领域及重大任务”，“建立权威的决策指挥体系”，同时强化企业技术创新主体地位。
+  people: [xi-jinping, li-keqiang, wang-huning, han-zheng]
+  concepts: [new-whole-nation-system]
+  voices:
+    - voice: west
+      text: 美国之音报道，次年的机构改革方案重组科技部，目标是推动健全“新型举国体制”，集中力量解决“卡脖子”难题；但受访的科技领域专家认为，随着美中“科技战”加剧，在中短期内新举国体制可能仍无法助力中国实现战略技术的自给自足。
+      cite: e05-voa-2023-03-13-tech
+  cites: [i06-gov-2022-09-06-new-whole-nation, e05-voa-2023-03-13-tech]
+
+- id: e11-2023-ccdi-second-plenum
+  date: 2023-01-09
+  end: 2023-01-10
+  title: 二十届中央纪委二次全会：牢记“三个务必”
+  lane: purge
+  summary: 2023年1月9日至10日，二十届中央纪委第二次全体会议在北京举行，习近平讲话，全会审议通过李希代表中央纪委常委会所作的工作报告。全会称习近平的讲话“深刻分析大党独有难题的形成原因、主要表现和破解之道”，部署研究修订党纪处分条例和巡视工作条例；作风建设部分要求紧盯形式主义、官僚主义，坚持纠“四风”树新风并举，教育引导党员干部牢记“三个务必”，推进作风建设常态化长效化。
+  people: [xi-jinping, li-xi]
+  concepts: [three-musts, eight-point-rules, four-winds, self-revolution]
+  voices:
+    - voice: official
+      text: 严明政治纪律和政治规矩，及时发现、着力解决“七个有之”问题。
+      cite: cs2-gov-2023-01-10-ccdi-2nd-plenum
+      quote: true
+  cites: [cs2-gov-2023-01-10-ccdi-2nd-plenum]
+
+- id: e11-2023-digital-china-plan
+  date: 2023-02-27
+  title: 《数字中国建设整体布局规划》印发
+  lane: econ
+  summary: 2023年2月，中共中央、国务院印发《数字中国建设整体布局规划》，称“建设数字中国是数字时代推进中国式现代化的重要引擎”。规划提出“2522”框架：数字基础设施和数据资源体系两大基础，数字技术与经济、政治、文化、社会、生态文明建设“五位一体”深度融合，数字技术创新体系和数字安全屏障两大能力，国内国际两个环境；目标是到2035年“数字化发展水平进入世界前列”。3月的机构改革随即组建国家数据局。
+  concepts: [digital-china, cyber-power, chinese-modernization]
+  voices:
+    - voice: official
+      text: 将数字中国建设工作情况作为对有关党政领导干部考核评价的参考。
+      cite: i06-gov-2023-02-27-digital-china
+      quote: true
+  cites: [i06-gov-2023-02-27-digital-china, e05-gov-2023-03-16-reform-plan]
+
+- id: e11-2024-ccdi-third-plenum
+  date: 2024-01-08
+  end: 2024-01-10
+  title: 二十届中央纪委三次全会阐述“自我革命的重要思想”
+  lane: purge
+  summary: 2024年1月8日至10日，二十届中央纪委第三次全体会议举行，审议通过李希所作的工作报告，题为《深入学习贯彻习近平总书记关于党的自我革命的重要思想，纵深推进新征程纪检监察工作高质量发展》。全会称这一重要思想“是习近平新时代中国特色社会主义思想的新篇章”，回顾2023年严肃查处金融、国企、高校、体育、烟草、医药、粮食购销、统计等领域腐败问题，要求纪检监察干部牢记“三个务必”、践行“三严三实”。
+  people: [xi-jinping, li-xi]
+  concepts: [self-revolution, three-musts]
+  voices:
+    - voice: official
+      text: 坚决清除系统性腐败风险隐患，一体推进不敢腐、不能腐、不想腐，全面巩固来之不易的压倒性胜利。
+      cite: cs2-ccdi-2024-01-10-ccdi-3rd-plenum
+      quote: true
+  cites: [cs2-ccdi-2024-01-10-ccdi-3rd-plenum]
+
+- id: e11-2024-finance-seminar
+  date: 2024-01-16
+  title: 省部级金融专题研讨班提出金融强国六要素
+  lane: econ
+  summary: 2024年1月16日，省部级主要领导干部推动金融高质量发展专题研讨班在中央党校开班，蔡奇主持开班式。习近平说中国特色金融发展之路“与西方金融模式有本质区别”，金融强国“应当基于强大的经济基础”，具备强大的货币、中央银行、金融机构、国际金融中心、金融监管和金融人才队伍；他要求金融监管“长牙带刺”，实现“横向到边、纵向到底”。此前的2023年10月，中央金融工作会议提出“加快建设金融强国”。
+  people: [xi-jinping, cai-qi]
+  concepts: [financial-power]
+  voices:
+    - voice: west
+      text: 美国之音引述香港研究机构佳富凯（Gavekal）称，过去五年中纪委国家监委启动了近200项调查，每家主要国有银行和监管机构都受到调查；受访学者谢田认为金融业腐败是“彻头彻尾的制度性问题”。
+      cite: cs2-voa-2024-02-22-finance-purge
+  cites: [i06-gov-2024-01-16-finance-seminar, cs2-gov-2023-10-31-financial-work-conf, cs2-voa-2024-02-22-finance-purge]
