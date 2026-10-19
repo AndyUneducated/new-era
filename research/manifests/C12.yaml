@@ -1,0 +1,81 @@
+# C12 sources: dossier cards for people named in CS4 (PAP, political work, logistics and audit, mobilization)
+# and CS5 (Nanchong, the 2015 crash, Jiangxi, life sentences, political brokers) who had none
+web:
+  # --- 维基百科 ---
+  - { id: c12-wiki-cao-junzhang, title: 曹均章（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/曹均章", excerpt: true, keep: [ 曹均章（1965年—）, 曹均章曾长期在成都军区服役 ] }
+  - { id: c12-wiki-peng-jingtang, title: 彭京堂（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/彭京堂", excerpt: true, keep: [ 彭京堂，男，中国共产党党员, 彭京堂前后出任, 2018年7月29日，武警新疆总队, 2022年1月9日，中央军委主席 ] }
+  - { id: c12-wiki-wang-hongbin, title: 王洪斌 (海军)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/王洪斌_(海军)", excerpt: true, keep: [ 王洪斌，男，湖北应城人, 曾任武警云南省总队政委 ] }
+  - { id: c12-wiki-chen-demin, title: 陈德民（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈德民", excerpt: true, keep: [ 陈德民（？—）, 历任广州军区空军航空兵第二师, 2017年7月23日，晋升空军少将 ] }
+  - { id: c12-wiki-chen-chi, title: 陈炽 (空军)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈炽_(空军)", excerpt: true, keep: [ 陈炽（？—）, 早年于南京军区任职, 2019年6月，任空军石家庄, 不晚于2022年7月, 2025年9月，任中央军委后勤, 2019年6月28日，晋升 ] }
+  - { id: c12-wiki-li-shisheng, title: 李士生（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李士生", excerpt: true, keep: [ 李士生（1959年6月—）, 曾任中国人民解放军军事交通学院院长 ] }
+  - { id: c12-wiki-zhang-like, title: 张立克 (中将)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张立克_(中将)", excerpt: true, keep: [ 张立克（1967年2月—）, 曾任中国人民解放军山东省军区司令员, 2019年12月，晋升少将 ] }
+  - { id: c12-wiki-liu-hongjian, title: 刘宏建（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘宏建", excerpt: true, keep: [ 刘宏建（1962年12月—）, 1993年6月至1996年4月, 2003年8月任成都市委副书记, 2007年6月任中共南充市委书记, 2015年9月，因在2011年 ] }
+  - { id: c12-wiki-li-zhongbin, title: 李仲彬（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李仲彬", excerpt: true, keep: [ 李仲彬（1958年12月—）, 1998年9月，任中共新都县委副书记 ] }
+  - { id: c12-wiki-gao-xianhai, title: 高先海（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/高先海", excerpt: true, keep: [ 高先海（1957年3月—）, 曾任四川省南充市委副书记, 因涉南充拉票贿选案 ] }
+  - { id: c12-wiki-wang-yanfei, title: 王雁飞（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/王雁飞", excerpt: true, keep: [ 王雁飞（1963年2月—）, 1983年7月加入中国共产党。同年毕业 ] }
+  - { id: c12-wiki-gu-zhengju, title: 古正举（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/古正举", excerpt: true, keep: [ 古正举（1966年9月—）, 1990年12月，古正举调到, 2023年11月22日，古正举 ] }
+  - { id: c12-wiki-meng-qingfeng, title: 孟庆丰（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/孟庆丰", excerpt: true, keep: [ 孟庆丰（1957年6月6日—）, 2005年8月－2007年3月, 2009年5月－2014年10月, 2014年11月－2015年6月, 2015年6月－2020年6月 ] }
+  - { id: c12-wiki-jiang-yang, title: 姜洋（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/姜洋", excerpt: true, keep: [ 姜洋（1956年9月—）, 1978年，考入四川大学 ] }
+  - { id: c12-wiki-li-chao-csrc, title: 李超 (1965年)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李超_(1965年)", excerpt: true, keep: [ 李超（1965年12月—）, 1997年7月起, 2000年6月，任中国证券, 2003年1月，任中国人民银行办公厅, 2008年12月，任国家外汇, 2011年9月，兼任, 2015年9月，任中国证券 ] }
+  - { id: c12-wiki-chen-wenhui, title: 陈文辉 (中国政治人物)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈文辉_(中国政治人物)", excerpt: true, keep: [ 陈文辉（1963年4月—）, 1983年毕业于吉安师范 ] }
+  - { id: c12-wiki-liu-hongru, title: 刘鸿儒 (1930年)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘鸿儒_(1930年)", excerpt: true, keep: [ 刘鸿儒（1930年11月—2025年3月14日）, 刘鸿儒1947年9月参加革命 ] }
+  - { id: c12-wiki-ning-yanling, title: 宁延令（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/宁延令", excerpt: true, keep: [ 宁延令（？—） ] }
+  - { id: c12-wiki-li-anze, title: 李安泽（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李安泽", excerpt: true, keep: [ 李安泽（1960年8月—）, 历任南昌市地方税务局局长 ] }
+  - { id: c12-wiki-chen-weimin, title: 陈卫民（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈卫民", excerpt: true, keep: [ 陈卫民（1959年8月—）, 1977年5月参加工作, 2014年9月15日，因涉嫌, 2016年6月24日 ] }
+  - { id: c12-wiki-wei-pengyuan, title: 魏鹏远（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/魏鹏远", excerpt: true, keep: [ 魏鹏远（1959年11月20日—）, 魏鹏远毕业于阜新矿业学院, 2015年1月28日，经最高 ] }
+  - { id: c12-wiki-yu-tieyi, title: 于铁义（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/于铁义", excerpt: true, keep: [ 于铁义（1954年—）, 于铁义出身黑龙江的一个矿工家庭, 2013年3月29日，于铁义被刑事拘留, 2016年，黑龙江林区中院开庭 ] }
+  - { id: c12-wiki-zhang-zhongsheng, title: 张中生（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张中生", excerpt: true, keep: [ 张中生（1952年11月—）, 1969年，担任中阳县粮食局, 2003年，升任吕梁行署, 2014年5月29日, 2016年1月，中共山西省委决定, 2018年3月28日，山西省临汾 ] }
+  - { id: c12-wiki-jiang-renjie, title: 姜人杰（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/姜人杰", excerpt: true, keep: [ 姜人杰（1948年11月23日—2011年7月19日）, 2001年2月至2004年8月任苏州, 2008年10月24日 ] }
+  - { id: c12-wiki-xu-maiyong, title: 许迈永（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/许迈永", excerpt: true, keep: [ 许迈永（1959年1月18日—2011年7月19日）, 许迈永曾任中共萧山市委常委, 2009年4月28日因为涉嫌, 1995年5月至2009年4月, 2011年5月12日, 经最高人民法院核准，许迈永 ] }
+  - { id: c12-wiki-ni-huizhong, title: 倪会忠（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/倪会忠", excerpt: true, keep: [ 倪会忠（1968年11月—）, 2023年8月，倪会忠因涉嫌, 2024年5月，倪会忠被开除 ] }
+
+  # --- 核对：王会民、王建平 ---
+  - { id: c12-thepaper-2016-03-01-wang-huimin, title: 证监会纪委书记王会民改任中央纪委驻证监会纪检组组长, publisher: 澎湃新闻, date: 2016-03-01, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1438023", excerpt: true, keep: [ 已经改任中央纪委驻中国证监会纪检组组长, 2015年12月，王会民改任 ] }
+  - { id: c12-hqrw-2015-01-06-wang-jianping, title: 环球人物 2015 年第 1 期：王建平, publisher: 环球人物, date: 2015-01-06, voice: official, url: "https://paper.people.com.cn/hqrw/html/2015-01/06/content_1556019.htm", excerpt: true, keep: [ 王建平祖籍河北赞皇县 ] }
+  - { id: c12-rmzxw-2016-12-30-wang-jianping, title: 军队打虎拿下首位现役上将（北京青年报）, publisher: 人民政协网, date: 2016-12-30, voice: zh, url: "https://www.rmzxw.com.cn/c/2016-12-30/1252992.shtml", excerpt: true, keep: [ 王建平籍贯河北赞皇 ] }
+
+  # --- CS4 ---
+  - { id: c12-voa-2016-08-26-wang-jianping, title: 中国现役上将王建平据传被带走, publisher: 美国之音, date: 2016-08-26, voice: west, url: "https://www.voachinese.com/a/news-senior-chinese-general-arrested-for-corruption-20160826/3482121.html", excerpt: true, keep: [ 苏海辉 ] }
+  - { id: c12-caixin-2025-10-28-xia-zhihe, title: 人事观察｜海军中将夏志和出任国防大学政委, publisher: 财新网, date: 2025-10-28, voice: zh, url: "https://china.caixin.com/2025-10-28/102376548.html", excerpt: true, keep: [ 夏志和曾任国防科技大学组织处副处长, 由国防大学政委夏志和中将率领 ] }
+  - { id: c12-thepaper-2016-09-13-jlsf, title: 李士生、殷志红分别担任武汉联勤保障基地首任司令员、政委, publisher: 澎湃新闻, date: 2016-09-13, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1528473", excerpt: true, keep: [ 都曾长期服役于原总后勤部, 李士生曾任军事交通学院院长, 殷志红曾先后担任 ] }
+  - { id: c12-cna-2026-01-15-ccdi-absent, title: 中國10名將軍缺席中紀委大會 港評：軍隊反腐猛烈, publisher: 中央社, date: 2026-01-15, voice: west, url: "https://www.cna.com.tw/news/acn/202601150122.aspx", excerpt: true, keep: [ 中央軍委政治工作部主任助理李軍中將 ] }
+  - { id: c12-epoch-2026-08-22-ccdi-absent, title: 中纪委六次全会13名军方委员缺席 含张升民, publisher: 大纪元, date: 2026-08-22, voice: zh, rumor: true, url: "https://www.epochtimes.com/gb/26/8/22/n14834759.htm", excerpt: true, keep: [ 李军，原武警部队政治工作部主任 ] }
+
+  # --- 南充 ---
+  - { id: c12-people-2024-11-08-gu-zhengju-expel, title: 南充市委原书记古正举严重违纪违法被“双开”, publisher: 人民网, date: 2024-11-08, voice: official, url: "http://sc.people.com.cn/n2/2024/1108/c345509-41035808.html", start: 人民网成都11月8日电, end: 时予以追认。 }
+  - { id: c12-xinhua-2026-07-31-gu-zhengju-verdict, title: 四川省南充市委原书记古正举受贿案一审宣判, publisher: 新华社, date: 2026-07-31, voice: official, url: "https://www.news.cn/legal/20260731/0c74d632aba4489fa67fed5b69af8e0d/c.html", start: 新华社成都7月31日电, end: 上述判决。 }
+
+  # --- 股灾 ---
+  - { id: c12-caixin-2017-11-13-citic, title: 程博明等三人获刑 中信证券案画句号, publisher: 财新网, date: 2017-11-13, voice: zh, url: "https://finance.caixin.com/2017-11-13/101169800.html", excerpt: true, keep: [ 一审已判刑 ] }
+  - { id: c12-thepaper-2016-04-29-citic-arrest, title: 徐翔在青岛被批捕，中信证券总经理程博明等3人被批捕, publisher: 澎湃新闻, date: 2016-04-29, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1462880", excerpt: true, keep: [ 经纪业务发展委员会行政负责人刘军, 原董事长王东明、原总经理程博明 ] }
+  - { id: c12-people-2018-09-13-huang-wei, title: 黄炜任国家粮食和物资储备局副局长, publisher: 人民网, date: 2018-09-13, voice: official, url: "http://renshi.people.com.cn/n1/2018/0913/c139617-30289927.html", excerpt: true, keep: [ 显示黄炜已任国家粮食和物资储备局, 1965年4月出生, 历任司法部宣传司干部, 2006.09--2011.02, 2011.02--2015.02, 2015.03--2018.08, 2018.08-- ] }
+  - { id: c12-sina-2015-11-17-wang-dongming, title: 王东明到龄退休 被称为中信证券的灵魂人物（财经）, publisher: 新浪财经, date: 2015-11-17, voice: zh, url: "http://finance.sina.com.cn/stock/y/20151117/145323788207.shtml", excerpt: true, keep: [ 原中信证券党委书记王东明退休, 今年64岁的王东明, 中信证券的灵魂人物, 期间任南方证券有限公司副总经理, 2002年至今任中信证券董事长 ] }
+  - { id: c12-xinhua-2025-04-03-liu-hongru, title: 刘鸿儒同志逝世, publisher: 新华社, date: 2025-04-03, voice: official, url: "https://www.xinhuanet.com/20250403/d8f2dc3f75c0490e95115d4f279fd785/c.html", start: 新华社北京4月3日电, end: 2004年3月离休。 }
+  - { id: c12-csrc-2015-09-18-li-chao, title: 国务院任免证监会有关负责人, publisher: 中国证监会, date: 2015-09-18, voice: official, url: "http://www.csrc.gov.cn/csrc/c100028/c1001863/content.shtml", excerpt: true, keep: [ 任命李超为中国证券监督管理委员会副主席 ] }
+  - { id: c12-21jingji-2026-09-10-li-chao, title: 中国证监会副主席李超在国新办新闻发布会上答记者问, publisher: 21世纪经济报道, date: 2026-09-10, voice: zh, url: "https://m.21jingji.com/article/20260910/herald/aa662580935a89f7c3ed384d75f81a47.html", excerpt: true, keep: [ 中国证监会副主席李超 ] }
+
+  # --- 江西 ---
+  - { id: c12-yicai-2016-07-14-yu-lifang, title: 苏荣祸起其妻于丽芳 妻兄深度涉案并自杀身亡, publisher: 第一财经, date: 2016-07-14, voice: zh, url: "https://www.yicai.com/news/5043184.html", excerpt: true, keep: [ 其中，苏荣之妻于丽芳卷入最深, 儿子叫苏铁志, 走进了苏荣的生活, 正在长春办理此事的于丽芳被中纪委带走调查, 在江西官场被称为“于姐”, 江西省内官员向苏荣行贿，很多是通过于丽芳 ] }
+  - { id: c12-people-2014-12-24-zhou-jianhua, title: 江西新余人大常委会原主任周建华由死缓改判无期, publisher: 人民网（中国新闻网）, date: 2014-12-24, voice: official, url: "http://politics.people.com.cn/n/2014/1224/c70731-26267517.html", excerpt: true, keep: [ 以受贿罪改判周建华无期徒刑, 江西省高级人民法院1月23日, 先后99次, 2012年1月5日 ] }
+  - { id: c12-thepaper-2014-09-li-anze, title: 李安泽江西往事：通过商人接近苏荣妻子，开会时自称不会出事, publisher: 澎湃新闻, date: 2014-09, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1265663", excerpt: true, keep: [ 江西省发改委主任李安泽被中央纪委工作人员带走, 官方迄今未正式通报关于李安泽, 李安泽由江西省地税局长调任新余市长, 李安泽于1960年出生于江西瑞金, 是李安泽接近于姐的中间人 ] }
+  - { id: c12-people-2014-11-28-li-anze-chen-weimin, title: 江西原发改委主任、萍乡市委书记被终止省人大代表资格, publisher: 人民网（中国新闻网）, date: 2014-11-28, voice: official, url: "http://politics.people.com.cn/n/2014/1128/c70731-26113299.html", excerpt: true, keep: [ 被终止省人大代表资格。, 此后被宣布免职调查 ] }
+  - { id: c12-chd-ning-yanling, title: 宁延令（长安大学校友）, publisher: 长安大学, date: 2020-04-09, voice: official, url: "http://webplus.chd.edu.cn/_s209/2020/0409/c8576a187879/page.psp", excerpt: true, keep: [ 1955年4月生, 1987年02月, 2009年04月, 2013年05月, 2015年07月 ] }
+  - { id: c12-china-2019-04-03-inspection, title: 本轮中央巡视组中，7人连续三次任组长, publisher: 中国网, date: 2019-04-03, voice: zh, url: "http://news.china.com.cn/2019-04/03/content_74643615.htm", excerpt: true, keep: [ 宁延令曾任中纪委第三纪检监察室主任, 宁延令全程参与了十八大以来的中央巡视工作, 中巡组组长宁延令周末突然造访 ] }
+
+  # --- 掮客 ---
+  - { id: c12-jiemian-2016-07-cui-xiaoyu, title: 起底女商人崔晓玉：涉令计划案 曾送谷丽萍1400万财物（中国经营报）, publisher: 界面新闻, date: 2016-07, voice: zh, url: "https://m.jiemian.com/article/809399.html", excerpt: true, keep: [ 崔晓玉是四川人, 崔晓玉在十余年时间里搭建了, 崔晓玉系谷丽萍推动的, 实际控制人崔晓玉（另案处理） ] }
+  - { id: c12-nbd-2015-01-06-founder, title: 方正集团确认魏新等四人“协助调查”（中国证券报）, publisher: 每日经济新闻, date: 2015-01-06, voice: zh, url: "https://www.nbd.com.cn/articles/2015-01-06/888396.html", excerpt: true, keep: [ 应相关部门要求协助调查, 新董事会选举黄桂田为方正集团董事长 ] }
+  - { id: c12-chinanews-2015-04-29-fan-zengyu, title: 原扶贫办官员范增玉被判死缓 曾38次向丁书苗索贿, publisher: 中国新闻网, date: 2015-04-29, voice: official, url: "http://www.chinanews.com/fz/2015/04-29/7243176.shtml", excerpt: true, keep: [ 一审判处死缓, 2014年1月9日，范增玉在一中院出庭受审, 先后38次向丁书苗索贿, 决定执行死刑，缓期二年执行 ] }
+  - { id: c12-eeo-2009-11-25-he-hongda, title: 铁道部原政治部主任何洪达受贿一审获刑十四年, publisher: 经济观察网, date: 2009-11-25, voice: zh, url: "http://www.eeo.com.cn/eobserve/Politics/beijing_news/2009/11/25/156573.shtml", excerpt: true, keep: [ 对铁道部政治部原主任何洪达受贿案作出一审判决, 1997年9月至2007年初, 是辽宁人，2000年起出任哈尔滨铁路局局长, 媒体报道称何洪达因涉嫌经济犯罪被中纪委查办 ] }
+  - { id: c12-cctv-2024-01-12-li-maorong, title: 江西省上饶市政府原党组成员、副市长李茂荣被开除党籍和公职, publisher: 央视网, date: 2024-01-12, voice: official, url: "https://news.cctv.com/2024/01/12/ARTI3EUCbhelMffd4O9U3wzR240112.shtml", excerpt: true, keep: [ 江西省纪委省监委对上饶市政府原党组成员, 热衷结交“政治骗子”, 严重违反党的政治纪律、中央八项规定精神, 1968年12月出生，江西进贤人 ] }
+  - { id: c12-xinhua-2024-01-09-wang-heqing, title: 重庆市文史馆原党组书记王合清被“双开”, publisher: 新华社, date: 2024-01-09, voice: official, url: "http://www.news.cn/legal/20240109/3203f33eaebf41b0934528c2a0b7741a/c.html", start: 新华社重庆1月9日电, end: 所涉财物一并移送。 }
+  - { id: c12-gzgl-2025-wang-heqing, title: 一路相廉｜在鞍前马后的奉承里迷失方向（转载）, publisher: 广州公路工程集团党建视窗, date: 2025-01, voice: zh, url: "https://www.gzglgcjt.com/djsc/jjjc/content_1509", excerpt: true, keep: [ 曾任重庆市万州区委常委, 非法收受财物3700余万元, 一审被判处有期徒刑13年3个月 ] }
+  - { id: c12-xinhua-2024-02-04-li-chao-hunan, title: 湖南省纪委监委驻省委统战部纪检监察组原组长李超被“双开”, publisher: 新华社, date: 2024-02-04, voice: official, url: "https://www.news.cn/20240204/289aa050c03944a88be4d561ba5f0f17/c.html", start: 新华社长沙2月4日电, end: 已予以追认。 }
+  - { id: c12-bjd-2024-05-29-li-chao-hunan, title: “两面人”李超被公诉！曾被批“结交政治骗子，被骗巨额财产”, publisher: 北京日报客户端, date: 2024-05-29, voice: zh, url: "https://xinwen.bjd.com.cn/content/s6656e47de4b035c6ca5e1c04.html", excerpt: true, keep: [ 由长沙市人民检察院依法向长沙市中级人民法院提起公诉, 李超出生于1966年7月, 2023年11月4日消息, 2024年3月18日 ] }
+  - { id: c12-scjc-2024-04-28-liu-haichang, title: 绵阳市政府原党组成员、副市长刘海昌严重违纪违法被开除党籍和公职, publisher: 四川省纪委监委, date: 2024-04-28, voice: official, url: "https://www.scjc.gov.cn/scjc/scdc/2024/4/28/0a1c32222db04854830b8d69c3af11c2.shtml", start: 日前，经四川省委批准, end: 所涉财物一并移送。 }
+  - { id: c12-ccdi-2024-05-17-ni-huizhong, title: 国家体育总局冬季运动管理中心原主任倪会忠被“双开”, publisher: 中央纪委国家监委网站, date: 2024-05-17, voice: official, url: "https://m.ccdi.gov.cn/content/8f/05/113095.html", start: 中央纪委国家监委网站讯, end: 所涉财物随案移送。 }
+  - { id: c12-gmw-2024-06-02-qin-fangjin, title: 官迷心窍！局长为谋求副厅职务被骗300万元（法治网）, publisher: 光明网, date: 2024-06-02, voice: zh, url: "https://m.gmw.cn/2024-06/02/content_1303752547.htm", excerpt: true, keep: [ 需要一笔300万元的“协调费用”, 并向其索贿300万元, 秦方进出生于1970年8月, 2013年，他任衡山县县长, 2023年1月31日消息, 秦方进身为党员领导干部 ] }
+  - { id: c12-dqzjw-2024-04-17-lu-jinwu, title: 迪庆州住房和城乡建设局原党组书记、局长鲁进武被开除党籍和公职, publisher: 迪庆州纪委监委, date: 2024-04-17, voice: official, url: "https://www.dqzjw.gov.cn/info-22-10799.html", start: 据迪庆州纪委监委消息, end: 所涉财物一并移送。 }
+  - { id: c12-dqzjw-2024-lu-jinwu-gifts, title: 迪庆州纪委监委公开通报4起违反中央八项规定精神典型问题, publisher: 迪庆州纪委监委, date: 2024, voice: official, url: "https://www.dqzjw.gov.cn/info-35-12046.html", excerpt: true, keep: [ 鲁进武违规收受可能影响公正执行公务的礼品问题 ] }
+  - { id: c12-nbd-2023-10-12-lu-jinwu, title: 鲁进武，主动投案！, publisher: 每日经济新闻, date: 2023-10-12, voice: zh, url: "https://www.nbd.com.cn/articles/2023-10-12/3051257.html", excerpt: true, keep: [ 主动投案，目前正接受迪庆州纪委监委, 1972年3月生, 2016.12—2021.02, 2021.02—2022.8 ] }
+  - { id: c12-youth-2016-04-25-zhang-yue, title: 河北政法委书记张越被免 涉嫌与郭文贵马建结盟（财新）, publisher: 中国青年网, date: 2016-04-25, voice: zh, url: "https://news.youth.cn/gn/201604/t20160425_7907215.htm", excerpt: true, keep: [ 郭文贵最早通过原公安部一局副局长林强认识张越 ] }

@@ -1,0 +1,1176 @@
+# C12 (round 13): cards for people named in CS4 (PAP, political work, logistics and audit, mobilization) and CS5 (Nanchong, the 2015 stock crash, Jiangxi under Su Rong, life sentences, political brokers) who had none
+
+# ───── CS4 · pap ─────
+- id: cao-junzhang
+  name: 曹均章
+  aka: [曹均彰]
+  gender: m
+  born: 1965
+  birthplace: 重庆
+  roles: [general]
+  status: missing
+  statusNote: 2025 年 12 月 22 日上将晋衔仪式上代表武警出席的是彭京堂和王洪斌，官方没有披露曹均章的去向；海外自媒体传其落马，台湾中共研究杂志社也称其遭调查，均未获官方证实。
+  tier: 2
+  headline: 武警部队代理司令员，王春宁出事后主持武警工作，2025 年底起去向不明
+  ids: { wikidata: Q30943910 }
+  bio: >-
+    重庆人，长期在原成都军区服役，历任成都军区司令部作战部部长、第 13 集团军某师师长、四川省军区参谋长。军改后任 13 军、76 集团军副军长，
+    2020 年调任联勤保障部队副司令员，2023 年任武警部队副司令员。司令员王春宁出事后，他 2025 年 7 月以武警部队代理司令员身份首次亮相；
+    同年 12 月的上将晋衔仪式上代表武警的已换成彭京堂和王洪斌，他的去向官方至今没有说明。
+  positions:
+    - { title: 成都军区司令部作战部部长, sys: army, cite: cs4-caixin-2025-07-24-cao-junzhang }
+    - { title: 陆军第十三集团军某师师长, sys: army, cite: cs4-caixin-2025-07-24-cao-junzhang }
+    - { title: 四川省军区参谋长, sys: army, place: 四川, cite: cs4-caixin-2025-07-24-cao-junzhang }
+    - { title: 陆军第十三集团军副军长, sys: army, from: 2016, to: 2017-04, cite: c12-wiki-cao-junzhang }
+    - { title: 陆军第七十六集团军副军长, sys: army, from: 2017-04, to: 2020-04, cite: c12-wiki-cao-junzhang }
+    - { title: 中央军委联勤保障部队副司令员, sys: army, from: 2020-04, to: 2023-03, cite: c12-wiki-cao-junzhang }
+    - { title: 武警部队副司令员, sys: army, from: 2023-03, to: 2025-07, cite: c12-wiki-cao-junzhang }
+    - { title: 武警部队代理司令员, sys: army, from: 2025-07, cite: cs4-caixin-2025-07-24-cao-junzhang }
+  cites: [wd-Q30943910, c12-wiki-cao-junzhang, cs4-caixin-2025-07-24-cao-junzhang, cs4-zaobao-2025-09-13-four-generals, cs4-zaobao-2025-12-24-peng-jingtang, cs4-iccs-411-acting-generals, cs4-cnc-2025-12-23-cao-junzhang-rumor]
+
+- id: peng-jingtang
+  name: 彭京堂
+  gender: m
+  roles: [general]
+  status: active
+  statusNote: 联合早报转述港媒，预料其已任武警部队副司令员；台湾中共研究杂志社称他以武警副司令员身份主持军事日常工作。另说他现任北部战区副司令员（维基百科），未见官方任命报道。
+  tier: 2
+  headline: 驻香港部队第八任司令员，2025 年底起代表武警出席活动，以新疆反恐起家
+  ids: { wikidata: Q112208738 }
+  bio: >-
+    济南军区出身，任过某旅旅长、军区司令部军训部部长，后转入武警，任新疆总队参谋长，专责新疆反恐多年，2018 年晋升武警少将，后升武警部队副参谋长。
+    2022 年 1 月被任命为驻香港部队第八任司令员，转为解放军少将。2025 年 12 月 22 日上将晋衔仪式上与王洪斌一同代表武警出席，
+    港媒预料他已任武警部队副司令员；另说他现任北部战区副司令员（维基百科）。
+  positions:
+    - { title: 济南军区某旅旅长, sys: army, cite: c12-wiki-peng-jingtang }
+    - { title: 济南军区司令部军训部部长, sys: army, cite: c12-wiki-peng-jingtang }
+    - { title: 武警新疆总队参谋长, sys: army, place: 新疆, cite: c12-wiki-peng-jingtang }
+    - { title: 武警部队副参谋长, sys: army, to: 2022-01, cite: c12-wiki-peng-jingtang }
+    - { title: 中国人民解放军驻香港部队司令员, sys: army, place: 香港, from: 2022-01-09, cite: c12-wiki-peng-jingtang }
+    - { title: 武警部队副司令员（主持军事日常工作）, sys: army, cite: cs4-iccs-411-acting-generals }
+  cites: [wd-Q112208738, c12-wiki-peng-jingtang, cs4-zaobao-2025-12-24-peng-jingtang, cs4-iccs-411-acting-generals]
+
+- id: wang-hongbin
+  name: 王洪斌
+  gender: m
+  birthplace: 湖北应城
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 武警部队副政委，原海军陆战队政委，2025 年底起主持武警政治工作
+  ids: { wikidata: Q136379371 }
+  bio: >-
+    湖北应城人，武警出身，曾任武警云南省总队政委，2017 年 7 月晋升武警少将，后调任海军陆战队政委，改授海军少将，是中共十九大代表。
+    2025 年升任武警部队副政委。同年 12 月 22 日的上将晋衔仪式上，他与彭京堂一同代表武警出席；政委张红兵失踪后，
+    台湾中共研究杂志社称由他以副政委身份主持武警政治日常工作。
+  positions:
+    - { title: 武警云南省总队政治委员, sys: army, place: 云南, cite: c12-wiki-wang-hongbin }
+    - { title: 中国人民解放军海军陆战队政治委员, sys: army, cite: c12-wiki-wang-hongbin }
+    - { title: 武警部队副政治委员, sys: army, from: 2025, cite: c12-wiki-wang-hongbin }
+  cites: [wd-Q136379371, c12-wiki-wang-hongbin, cs4-zaobao-2025-12-24-peng-jingtang, cs4-iccs-411-acting-generals]
+
+- id: su-haihui
+  name: 苏海辉
+  gender: m
+  roles: [general]
+  status: missing
+  statusNote: 美国之音称其 2016 年 8 月 25 日与王建平的妻子、秘书一同在北京被带走，此后官方没有任何通报。
+  tier: 2
+  headline: 王建平的前秘书、武警部队训练部副部长，2016 年随王建平一同被带走
+  bio: >-
+    曾任武警部队司令员王建平的秘书，后任武警部队训练部副部长。美国之音 2016 年 8 月报道，王建平的妻子和秘书 8 月 25 日在北京被带走，
+    同时被带走的还有苏海辉。另说他是王建平的前秘书、时任武警训练局副局长，与王建平等共七人一同被带走（自由亚洲电台）。
+    官方没有公布他的案情和下落。
+  positions:
+    - { title: 武警部队司令员王建平秘书, sys: army, cite: c12-voa-2016-08-26-wang-jianping }
+    - { title: 武警部队训练部副部长, sys: army, to: 2016-08, cite: c12-voa-2016-08-26-wang-jianping }
+  cites: [c12-voa-2016-08-26-wang-jianping, cs4-rfa-2017-04-26-wang-jianping-rumor]
+
+# ───── CS4 · political-work ─────
+- id: chen-demin
+  name: 陈德民
+  gender: m
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 中央军委政治工作部副主任，苗华落马后主持政治工作部日常工作
+  ids: { wikidata: Q138592790 }
+  bio: >-
+    空军政工干部，历任广州军区空军航空兵第二师政委、空降兵军政委、空军政治工作部副主任，2017 年 7 月晋升空军少将，
+    后调任中央军委政治工作部副主任。苗华 2025 年被免职、开除党籍后，政治工作部一直没有新主任，
+    台湾中共研究杂志社称由他主持日常工作；2026 年 3 月联合早报称其为中将。
+  positions:
+    - { title: 广州军区空军航空兵第二师政治委员, sys: army, cite: c12-wiki-chen-demin }
+    - { title: 空降兵军政治委员, sys: army, cite: c12-wiki-chen-demin }
+    - { title: 空军政治工作部副主任, sys: army, cite: c12-wiki-chen-demin }
+    - { title: 中央军委政治工作部副主任（主持工作）, sys: army, cite: c12-wiki-chen-demin }
+  cites: [wd-Q138592790, c12-wiki-chen-demin, c11-zaobao-2026-03-08-pla-delegation, cs4-iccs-411-acting-generals]
+
+- id: li-jun-pla
+  name: 李军
+  gender: m
+  roles: [general, ccdi]
+  status: missing
+  statusNote: 中央社和台湾中共研究杂志社称其缺席 2026 年 1 月二十届中纪委五次全会，官方没有说明原因，也未见立案或罢免通报。
+  tier: 2
+  headline: 中央军委政治工作部主任助理、二十届中央纪委委员，2026 年初缺席中纪委全会
+  bio: >-
+    中将，二十届中央纪委委员中的军队委员之一。中央社和台湾中共研究杂志社称他是中央军委政治工作部主任助理，
+    2026 年 1 月二十届中纪委五次全会上缺席的十名军队委员中有他。大纪元另说他是原武警部队政治工作部主任（传闻）。
+    同在政治工作部的主任助理边瑞峰已被罢免全国人大代表，李军的去向官方没有说明。
+  positions:
+    - { title: 中央军委政治工作部主任助理, sys: army, cite: c12-cna-2026-01-15-ccdi-absent }
+    - { title: 第二十届中央纪律检查委员会委员, sys: party, cite: cs4-iccs-411-acting-generals }
+  cites: [c12-cna-2026-01-15-ccdi-absent, cs4-iccs-411-acting-generals, c12-epoch-2026-08-22-ccdi-absent]
+
+- id: xia-zhihe
+  name: 夏志和
+  gender: m
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 国防大学政委，国防科大政工干部出身，接替钟绍军
+  bio: >-
+    长期在国防科技大学做政治工作，曾任组织处副处长，至迟 2012 年任人文与社会科学学院政委，至迟 2017 年任计算机学院政委（副军职），
+    2018 年 1 月任十二届湖南省政协常委。台湾中共研究杂志社称他后任东部战区海军纪委书记。2025 年 10 月他以国防大学政委、中将身份
+    率解放军代表团访问朝鲜，这是官方首次披露其新职，原政委钟绍军被认为已被悄悄免职。
+  positions:
+    - { title: 国防科技大学组织处副处长, sys: army, place: 湖南长沙, cite: c12-caixin-2025-10-28-xia-zhihe }
+    - { title: 国防科技大学人文与社会科学学院政治委员, sys: army, place: 湖南长沙, from: 2012, cite: c12-caixin-2025-10-28-xia-zhihe }
+    - { title: 国防科技大学计算机学院政治委员, sys: army, place: 湖南长沙, from: 2017, cite: c12-caixin-2025-10-28-xia-zhihe }
+    - { title: 湖南省政协第十二届委员会常委, sys: other, place: 湖南, from: 2018-01, cite: c12-caixin-2025-10-28-xia-zhihe }
+    - { title: 东部战区海军纪委书记, sys: army, cite: cs4-iccs-411-acting-generals }
+    - { title: 国防大学政治委员, sys: army, from: 2025-10, cite: c12-caixin-2025-10-28-xia-zhihe }
+  cites: [c12-caixin-2025-10-28-xia-zhihe, cs4-bbc-2025-10-cc-changes-trad, cs4-iccs-411-acting-generals]
+
+# ───── CS4 · logistics-audit ─────
+- id: chen-chi
+  name: 陈炽
+  gender: m
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 中央军委后勤保障部部长，飞行员出身，接替被罢免的张林
+  ids: { wikidata: Q141591670 }
+  bio: >-
+    空军飞行部队出身，早年在南京军区任职，曾任南京军区空军航空兵第 32 师第 95 团团长。2019 年 6 月任空军石家庄飞行学院院长并晋升少将，
+    不晚于 2022 年 7 月调任中央军委后勤保障部副部长。部长张林 2025 年 7 月被罢免全国人大代表后，他接任部长，同年 9 月晋升空军中将。
+  positions:
+    - { title: 南京军区空军航空兵第 32 师第 95 团团长, sys: army, cite: c12-wiki-chen-chi }
+    - { title: 空军石家庄飞行学院院长, sys: army, place: 河北石家庄, from: 2019-06, cite: c12-wiki-chen-chi }
+    - { title: 中央军委后勤保障部副部长, sys: army, from: 2022-07, to: 2025-09, cite: c12-wiki-chen-chi }
+    - { title: 中央军委后勤保障部部长, sys: army, from: 2025-09, cite: c12-wiki-chen-chi }
+  cites: [wd-Q141591670, c12-wiki-chen-chi, cs4-iccs-411-acting-generals, cs4-ntdtv-2025-11-10-acting-generals]
+
+- id: li-shisheng
+  name: 李士生
+  gender: m
+  born: 1959-06
+  birthplace: 浙江嘉兴
+  roles: [general]
+  status: retired
+  statusNote: 2017 年 12 月任联勤保障部队副司令员后未见新职报道；1959 年生，本站按年龄推定已退出现役。
+  tier: 2
+  headline: 武汉联勤保障基地首任司令员，2016 年从习近平手中接过军旗
+  ids: { wikidata: Q97348843 }
+  bio: >-
+    浙江嘉兴人，长期在原总后勤部系统服役，曾任军事交通学院院长、后勤学院院长、总后勤部某后方基地司令员，少将军衔。
+    2016 年 9 月 13 日联勤保障部队成立，他作为新组建的武汉联勤保障基地首任司令员，与政委殷志红一同从习近平手中接过军旗。
+    2017 年 12 月任联勤保障部队副司令员，是十三届全国人大代表。
+  positions:
+    - { title: 中国人民解放军军事交通学院院长, sys: army, cite: c12-wiki-li-shisheng }
+    - { title: 中国人民解放军后勤学院院长, sys: army, cite: c12-wiki-li-shisheng }
+    - { title: 原总后勤部某后方基地司令员, sys: army, cite: c12-thepaper-2016-09-13-jlsf }
+    - { title: 武汉联勤保障基地司令员, sys: army, place: 湖北武汉, from: 2016-09, to: 2017-12, cite: c12-wiki-li-shisheng }
+    - { title: 中央军委联勤保障部队副司令员, sys: army, from: 2017-12, cite: c12-wiki-li-shisheng }
+  cites: [wd-Q97348843, c12-wiki-li-shisheng, c12-thepaper-2016-09-13-jlsf, cs4-gov-2016-09-13-jlsf]
+
+- id: yin-zhihong
+  name: 殷志红
+  gender: m
+  roles: [general]
+  status: retired
+  statusNote: 2016 年任武汉联勤保障基地政委后的任职未见公开报道，本站推定已退出现役。
+  tier: 2
+  headline: 武汉联勤保障基地首任政委，军事医学科学院原政委
+  bio: >-
+    长期在原总后勤部系统做政治工作，先后任第四军医大学政治部主任、武汉后方基地副政委、军事医学科学院政委，少将军衔。
+    2016 年 9 月 13 日联勤保障部队成立大会上，他作为武汉联勤保障基地首任政委与司令员李士生一同接旗，并代表联勤保障部队发言，
+    表示要坚决听从党中央、中央军委和习主席指挥。
+  positions:
+    - { title: 第四军医大学政治部主任, sys: army, cite: c12-thepaper-2016-09-13-jlsf }
+    - { title: 武汉后方基地副政治委员, sys: army, place: 湖北武汉, cite: c12-thepaper-2016-09-13-jlsf }
+    - { title: 军事医学科学院政治委员, sys: army, cite: c12-thepaper-2016-09-13-jlsf }
+    - { title: 武汉联勤保障基地政治委员, sys: army, place: 湖北武汉, from: 2016-09, cite: cs4-gov-2016-09-13-jlsf }
+  cites: [c12-thepaper-2016-09-13-jlsf, cs4-gov-2016-09-13-jlsf]
+
+# ───── CS4 · mobilization ─────
+- id: zhang-like
+  name: 张立克
+  gender: m
+  born: 1967-02
+  birthplace: 河北南和
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 中央军委国防动员部部长，山东省军区原司令员，接替久未露面的刘发庆
+  ids: { wikidata: Q134507045 }
+  bio: >-
+    河北南和人，海军中将，曾任山东省军区司令员，2019 年 12 月晋升少将，是十四届全国人大代表和山东省十四届人大代表。
+    部长刘发庆缺席 2025 年四中全会后久未露面，有评论人推测由副部长张立克代职（传闻）；台湾中共研究杂志社称部长一职已由他接任，
+    2026 年 3 月联合早报称其为中央军委国防动员部部长。
+  positions:
+    - { title: 山东省军区司令员, sys: army, place: 山东, cite: c12-wiki-zhang-like }
+    - { title: 中央军委国防动员部部长, sys: army, cite: c12-wiki-zhang-like }
+  cites: [wd-Q134507045, c12-wiki-zhang-like, c11-zaobao-2026-03-08-pla-delegation, cs4-iccs-411-acting-generals, cs4-ntdtv-2025-11-10-acting-generals]
+
+# ───── CS5 · nanchong-sichuan ─────
+- id: liu-hongjian-nanchong
+  name: 刘宏建
+  gender: m
+  born: 1962-12
+  birthplace: 四川彭州
+  education:
+    - { school: 南京航空学院航空发动机专业, to: 1983 }
+  joinedParty: 1982-11
+  joinedWork: 1983-07
+  roles: [tiger]
+  status: purged
+  statusNote: 2015 年以玩忽职守罪被判处有期徒刑 3 年；按刑期计算已刑满，未见公开报道。
+  fall:
+    - { date: 2015-05-21, text: 南充市人大常委会接受其辞去四川省人大代表职务，代表资格终止, cite: cs5-thepaper-2015-05-23-liu-hongjian }
+    - { date: 2015-09-15, text: 四川省通报南充拉票贿选案查处情况，称其犯玩忽职守罪已被判处有期徒刑 3 年, cite: cs5-people-2015-09-15-nanchong }
+    - { date: 2015-11-17, text: 四川省委十届七次全会确认省委常委会此前给予他开除党籍的处分, cite: cs5-thepaper-2015-11-17-liu-hongjian-expel }
+  tier: 2
+  headline: 南充市委原书记，任内发生南充拉票贿选案，以玩忽职守罪获刑 3 年
+  ids: { wikidata: Q21017135 }
+  bio: >-
+    四川彭州人，航空发动机专业出身，在四二〇厂和成都发动机集团做到副总经理，后从政，任成都市委副书记、市纪委书记。
+    2007 年 6 月起任南充市委书记。2011 年 10 月南充市委换届前，仪陇县委书记杨建华用公款送钱拉票当选市委常委，
+    案件涉及 477 人、1671.9 万元，他作为市委书记被认定失职渎职，以玩忽职守罪判处有期徒刑 3 年，并被开除党籍。
+  positions:
+    - { title: 中国航空工业总公司四二〇厂综合计划处处长、常务副厂长等, sys: other, place: 四川成都, from: 1993-06, to: 1996-04, cite: c12-wiki-liu-hongjian }
+    - { title: 成都发动机（集团）有限公司副总经理, sys: other, place: 四川成都, from: 1996-04, cite: c12-wiki-liu-hongjian }
+    - { title: 中共成都市委副书记, sys: party, place: 四川成都, from: 2003-08, to: 2007-06, cite: c12-wiki-liu-hongjian }
+    - { title: 成都市纪委书记, sys: party, place: 四川成都, from: 2005-04, to: 2007-04, cite: c12-wiki-liu-hongjian }
+    - { title: 中共南充市委书记, sys: party, place: 四川南充, from: 2007-06, to: 2014-12, cite: cs5-thepaper-2015-05-23-liu-hongjian }
+    - { title: 南充市人大常委会主任, sys: gov, place: 四川南充, from: 2007-07, cite: c12-wiki-liu-hongjian }
+    - { title: 中共四川省第十届委员会委员, sys: party, place: 四川, from: 2012-05, to: 2015-11, cite: cs5-thepaper-2015-11-17-liu-hongjian-expel }
+  cites: [wd-Q21017135, c12-wiki-liu-hongjian, cs5-thepaper-2015-05-23-liu-hongjian, cs5-people-2015-09-15-nanchong, cs5-bbc-2015-09-15-nanchong, cs5-thepaper-2015-11-17-liu-hongjian-expel]
+
+- id: yang-jianhua
+  name: 杨建华
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2015 年以行贿罪、受贿罪、滥用职权罪被判处有期徒刑 20 年，判决时间和法院未公开。
+  fall:
+    - { date: 2015-03-26, text: 四川省检察院批准逮捕, cite: cs5-bbc-2015-09-15-nanchong }
+    - { date: 2015-09-15, text: 四川省通报南充拉票贿选案，称其犯行贿罪、受贿罪、滥用职权罪已被判处有期徒刑 20 年, cite: cs5-people-2015-09-15-nanchong }
+  tier: 2
+  headline: 仪陇县原县委书记，南充拉票贿选案主角，用公款 80 万元买到市委常委
+  bio: >-
+    原任南充市仪陇县委书记。2011 年 10 月 19 日南充市委五届一次全会前，他用公款 80 万元，自己出面或安排下属，
+    向可能成为市委委员的人送钱拉票，借此当选南充市委常委。2014 年下半年四川省委查办此案，查出涉案 477 人、金额 1671.9 万元；
+    他犯行贿罪、受贿罪、滥用职权罪被判处有期徒刑 20 年，时任市委书记刘宏建因失职渎职获刑 3 年。
+  positions:
+    - { title: 中共仪陇县委书记, sys: party, place: 四川南充仪陇, to: 2011-10, cite: cs5-people-2015-09-15-nanchong }
+    - { title: 中共南充市委常委, sys: party, place: 四川南充, from: 2011-10, cite: cs5-people-2015-09-15-nanchong }
+  cites: [cs5-people-2015-09-15-nanchong, cs5-bbc-2015-09-15-nanchong, cs5-ccdi-2015-09-15-nanchong-meeting]
+
+- id: li-zhongbin
+  name: 李仲彬
+  gender: m
+  born: 1958-12
+  birthplace: 四川眉山
+  roles: [prov]
+  status: retired
+  statusNote: 1958 年生，2021 年 2 月当选成都市人大常委会主任；本站未查到卸任报道，按年龄推定已退出领导岗位。
+  tier: 2
+  headline: 南充贿选案后接任南充市委书记，后任成都市政协主席、市人大常委会主任
+  ids: { wikidata: Q21017134 }
+  bio: >-
+    四川眉山人，历任新都区长、巴中市长、巴中市委书记、四川省司法厅厅长。2014 年 12 月接替刘宏建任南充市委书记，
+    主持贿选案后的南充；2015 年 4 月他在全市会议上说，有组织公款拉票贿选案使全市政治生态遭到严重破坏。
+    2016 年 7 月调任成都市委副书记，2018 年 3 月任成都市政协主席，2021 年 2 月当选成都市人大常委会主任。
+  positions:
+    - { title: 成都市新都区区长, sys: gov, place: 四川成都, from: 2001-12, to: 2002-12, cite: c12-wiki-li-zhongbin }
+    - { title: 巴中市市长, sys: gov, place: 四川巴中, from: 2006-02, to: 2006-08, cite: c12-wiki-li-zhongbin }
+    - { title: 中共巴中市委书记, sys: party, place: 四川巴中, from: 2006-08, to: 2011-03, cite: c12-wiki-li-zhongbin }
+    - { title: 四川省司法厅厅长, sys: gov, place: 四川, from: 2011-03, to: 2014-12, cite: c12-wiki-li-zhongbin }
+    - { title: 中共南充市委书记, sys: party, place: 四川南充, from: 2014-12, to: 2016-07, cite: cs5-thepaper-2015-05-23-liu-hongjian }
+    - { title: 中共成都市委副书记, sys: party, place: 四川成都, from: 2016-07, cite: c12-wiki-li-zhongbin }
+    - { title: 成都市政协主席, sys: other, place: 四川成都, from: 2018-03, to: 2021-02, cite: c12-wiki-li-zhongbin }
+    - { title: 成都市人大常委会主任, sys: gov, place: 四川成都, from: 2021-02, cite: c12-wiki-li-zhongbin }
+  cites: [wd-Q21017134, c12-wiki-li-zhongbin, cs5-thepaper-2015-05-23-liu-hongjian, cs5-thepaper-2015-08-14-nanchong-mianyang]
+
+- id: gao-xianhai
+  name: 高先海
+  gender: m
+  born: 1957-03
+  birthplace: 四川南部
+  roles: [prov]
+  status: purged
+  statusNote: 因涉南充拉票贿选案辞去全国人大代表职务，所受党纪政务处分未见公开报道。
+  fall:
+    - { date: 2015-09-25, text: 因涉南充拉票贿选案本人提出辞职，四川省人大常委会决定接受其辞去全国人大代表职务, cite: a01-npc-2015-11-04-report }
+  tier: 2
+  headline: 南充市原市长、市人大常委会主任，因涉南充贿选案辞去全国人大代表
+  ids: { wikidata: Q16908260 }
+  bio: >-
+    四川南部人，西南财经大学产业经济学毕业，曾任南充市委副书记、市长，2012 年 1 月当选南充市人大常委会主任，
+    是十一届、十二届全国人大代表。2011 年南充市委换届中发生有组织公款拉票贿选案，2015 年 9 月 25 日，
+    他因涉南充拉票贿选案辞去全国人大代表职务，11 月全国人大常委会确认其代表资格终止。
+  positions:
+    - { title: 南充市委副书记、市长, sys: gov, place: 四川南充, to: 2012-01, cite: c12-wiki-gao-xianhai }
+    - { title: 南充市人大常委会主任, sys: gov, place: 四川南充, from: 2012-01, cite: c12-wiki-gao-xianhai }
+    - { title: 第十一届、十二届全国人大代表, sys: gov, from: 2008, to: 2015-09, cite: c12-wiki-gao-xianhai }
+  cites: [wd-Q16908260, c12-wiki-gao-xianhai, a01-npc-2015-11-04-report]
+
+- id: wang-yanfei
+  name: 王雁飞
+  gender: m
+  born: 1963-02
+  birthplace: 河北赞皇
+  education:
+    - { school: 北京大学法律系, to: 1983 }
+    - { school: 中国政法大学宪法学专业, degree: 法学硕士, to: 1986 }
+  joinedParty: 1983-07
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 四川省纪委原书记，2015 年在全省大会上宣读南充贿选案中央通报
+  ids: { wikidata: Q20062673 }
+  bio: >-
+    河北赞皇人，北大法律系毕业，长期在河北省委办公厅和省委政法委工作，2008 年任宁夏检察院检察长，2013 年任宁夏党委常委、政法委书记。
+    2015 年 5 月调任四川省委常委、省纪委书记，当年 9 月在全省大会上宣读《中共中央关于四川南充拉票贿选案查处情况及其教训警示的通报》。
+    2018 年起兼任四川省监委主任，2021 年 11 月卸任，2022 年 1 月当选四川省人大常委会副主任。
+  positions:
+    - { title: 中共河北省委政法委副书记、秘书长, sys: party, place: 河北, from: 2006-04, to: 2008-01, cite: c12-wiki-wang-yanfei }
+    - { title: 宁夏回族自治区人民检察院检察长, sys: gov, place: 宁夏, from: 2008-02, to: 2013-05, cite: c12-wiki-wang-yanfei }
+    - { title: 宁夏回族自治区党委常委、政法委书记, sys: party, place: 宁夏, from: 2013-05, to: 2015-05, cite: c12-wiki-wang-yanfei }
+    - { title: 中共四川省委常委、省纪委书记, sys: party, place: 四川, from: 2015-05, to: 2021-11, cite: c12-wiki-wang-yanfei }
+    - { title: 四川省监察委员会主任, sys: gov, place: 四川, from: 2018-01, to: 2021-11, cite: c12-wiki-wang-yanfei }
+    - { title: 四川省人大常委会副主任, sys: gov, place: 四川, from: 2022-01, cite: c12-wiki-wang-yanfei }
+  cites: [wd-Q20062673, c12-wiki-wang-yanfei, cs5-ccdi-2015-09-15-nanchong-meeting]
+
+- id: gu-zhengju
+  name: 古正举
+  gender: m
+  born: 1966-09
+  birthplace: 四川兴文
+  roles: [tiger]
+  status: detained
+  statusNote: 2026 年 7 月 31 日被攀枝花中院以受贿罪一审判处无期徒刑。
+  fall:
+    - { date: 2023-11-22, text: 四川省纪委监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: c12-wiki-gu-zhengju }
+    - { date: 2024-01, text: 被四川省委免职，同月第十四届全国人大代表资格被撤销, cite: c12-wiki-gu-zhengju }
+    - { date: 2024-04-03, text: 四川省人大常委会决定罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2024-11-08, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: c12-people-2024-11-08-gu-zhengju-expel }
+    - { date: 2026-07-31, text: 攀枝花中院以受贿罪判处无期徒刑，受贿 1.24 亿余元，认定构成自首, cite: c12-xinhua-2026-07-31-gu-zhengju-verdict }
+  tier: 2
+  headline: 南充市委原书记，贿选案后在南充任政法委书记、市长、书记，受贿 1.24 亿余元获无期
+  ids: { wikidata: Q127427866 }
+  bio: >-
+    四川兴文人，团干部出身，历任高县县长、县委书记，达州市副市长、市委常委、政法委书记。2014 年 10 月调到南充任市委常委、政法委书记，
+    2016 年任市委副书记，2021 年任市长，2023 年 2 月升任市委书记，9 个月后被查。通报称他对抗组织审查、违规拥有非上市公司股份、违反生活纪律；
+    法院认定他 2007—2023 年受贿 1.24 亿余元，2026 年 7 月判处无期徒刑。
+  positions:
+    - { title: 高县县长, sys: gov, place: 四川宜宾高县, from: 2004-06, to: 2008-02, cite: c12-wiki-gu-zhengju }
+    - { title: 中共高县县委书记, sys: party, place: 四川宜宾高县, from: 2008-02, to: 2008-09, cite: c12-wiki-gu-zhengju }
+    - { title: 达州市副市长, sys: gov, place: 四川达州, from: 2008-09, cite: c12-wiki-gu-zhengju }
+    - { title: 中共达州市委常委、政法委书记, sys: party, place: 四川达州, to: 2014-10, cite: c12-wiki-gu-zhengju }
+    - { title: 中共南充市委常委、政法委书记, sys: party, place: 四川南充, from: 2014-10, to: 2016-10, cite: c12-wiki-gu-zhengju }
+    - { title: 中共南充市委副书记, sys: party, place: 四川南充, from: 2016-10, to: 2023-02, cite: c12-wiki-gu-zhengju }
+    - { title: 南充市市长, sys: gov, place: 四川南充, from: 2021-07, to: 2023-02, cite: c12-wiki-gu-zhengju }
+    - { title: 中共南充市委书记, sys: party, place: 四川南充, from: 2023-02, to: 2024-01, cite: c12-wiki-gu-zhengju }
+  cites: [wd-Q127427866, c12-wiki-gu-zhengju, a02-wikisource-npc-qualification-reports, c12-people-2024-11-08-gu-zhengju-expel, c12-xinhua-2026-07-31-gu-zhengju-verdict]
+
+# ───── CS5 · stock-crash-2015 ─────
+- id: meng-qingfeng
+  name: 孟庆丰
+  gender: m
+  born: 1957-06-06
+  birthplace: 山东沂南
+  joinedParty: 1980-01
+  joinedWork: 1974-02
+  roles: [minister]
+  status: retired
+  tier: 2
+  headline: 公安部原副部长，2015 年股灾中带队进驻证监会查恶意卖空
+  ids: { wikidata: Q30944233 }
+  bio: >-
+    山东沂南人，在浙江公安系统做到省公安厅副厅长，2009 年起任公安部经济犯罪侦查局局长，2014 年 11 月任部长助理，2015 年 6 月升任公安部副部长，
+    分管打击经济犯罪并任猎狐行动小组组长。2015 年 7 月 9 日股市连跌三周之际，刚上任的他带队到证监会排查恶意卖空股票与股指的线索，
+    次日率跨部门工作组到上海。2020 年 6 月卸任。
+  positions:
+    - { title: 浙江省公安厅副厅长, sys: gov, place: 浙江, from: 2005-08, to: 2007-03, cite: c12-wiki-meng-qingfeng }
+    - { title: 公安部经济犯罪侦查局局长, sys: gov, from: 2009-05, to: 2014-10, cite: c12-wiki-meng-qingfeng }
+    - { title: 公安部部长助理, sys: gov, from: 2014-11, to: 2015-06, cite: c12-wiki-meng-qingfeng }
+    - { title: 公安部副部长, sys: gov, from: 2015-06, to: 2020-06, cite: c12-wiki-meng-qingfeng }
+  cites: [wd-Q30944233, c12-wiki-meng-qingfeng, cs5-people-2015-07-09-police-csrc, cs5-people-2015-07-13-police-shanghai]
+
+- id: liu-jun-citic
+  name: 刘军
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 财新称至 2016 年底已被一审判刑，刑期和罪名未见公开报道。
+  fall:
+    - { date: 2016-04-29, text: 新华社称青岛市公安机关因其涉嫌犯罪已依法批准逮捕, cite: c12-thepaper-2016-04-29-citic-arrest }
+    - { date: 2016, text: 财新确认至 2016 年底已被一审判刑, cite: c12-caixin-2017-11-13-citic }
+  tier: 2
+  headline: 中信证券经纪业务发展委员会原行政负责人，股灾后与程博明一同被捕
+  bio: >-
+    原任中信证券经纪业务发展委员会行政负责人。2015 年股灾后中信证券多名高管被查，2016 年 4 月 29 日新华社称，青岛市公安机关已依法批准逮捕
+    中信证券原总经理程博明、经纪业务发展委员会行政负责人刘军、权益投资部负责人许骏等人。财新确认，至 2016 年底三人一审已判刑，
+    具体罪名和刑期没有公开。
+  positions:
+    - { title: 中信证券经纪业务发展委员会行政负责人, sys: other, cite: c12-thepaper-2016-04-29-citic-arrest }
+  cites: [c12-thepaper-2016-04-29-citic-arrest, c12-caixin-2017-11-13-citic, cs5-sina-2017-11-13-cheng-boming]
+
+- id: xu-jun-citic
+  name: 许骏
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 财新称至 2016 年底已被一审判刑，刑期和罪名未见公开报道。
+  fall:
+    - { date: 2016-04-29, text: 新华社称青岛市公安机关因其涉嫌犯罪已依法批准逮捕, cite: c12-thepaper-2016-04-29-citic-arrest }
+    - { date: 2016, text: 财新确认至 2016 年底已被一审判刑, cite: c12-caixin-2017-11-13-citic }
+  tier: 2
+  headline: 中信证券权益投资部原负责人，股灾后与程博明一同被捕
+  bio: >-
+    原任中信证券权益投资部负责人。2015 年股灾后中信证券多名高管被查，原董事长王东明、原总经理程博明等先后离任。
+    2016 年 4 月 29 日新华社称，青岛市公安机关已依法批准逮捕中信证券原总经理程博明、经纪业务发展委员会行政负责人刘军和许骏等人。
+    财新确认至 2016 年底三人一审已判刑，具体罪名和刑期没有公开。
+  positions:
+    - { title: 中信证券权益投资部负责人, sys: other, cite: c12-thepaper-2016-04-29-citic-arrest }
+  cites: [c12-thepaper-2016-04-29-citic-arrest, c12-caixin-2017-11-13-citic, cs5-sina-2017-11-13-cheng-boming]
+
+- id: li-chao-csrc
+  name: 李超
+  gender: m
+  born: 1965-12
+  birthplace: 河南焦作
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 中国证监会副主席，周小川旧部，股灾后接替庄心一进入证监会领导层
+  bio: >-
+    河南焦作人，管理学博士，曾任周小川秘书。先后在建设银行、证监会办公厅、人民银行办公厅任职，2008 年 12 月任国家外汇管理局副局长。
+    2015 年 9 月股灾救市之后，国务院任命他为证监会副主席，接替担任副主席十年的庄心一，是救市后进入证监会领导班子的新人。
+    此后他一直留任，2026 年 9 月仍以证监会副主席身份出席国新办发布会。
+  positions:
+    - { title: 中国证券监督管理委员会办公厅副主任, sys: gov, from: 2000-06, to: 2003-01, cite: c12-wiki-li-chao-csrc }
+    - { title: 中国人民银行办公厅副主任、主任, sys: gov, from: 2003-01, to: 2008-12, cite: c12-wiki-li-chao-csrc }
+    - { title: 国家外汇管理局副局长, sys: gov, from: 2008-12, to: 2015-09, cite: c12-wiki-li-chao-csrc }
+    - { title: 中国证券监督管理委员会副主席, sys: gov, from: 2015-09, cite: c12-csrc-2015-09-18-li-chao }
+  cites: [c12-wiki-li-chao-csrc, c12-csrc-2015-09-18-li-chao, cs5-jiemian-2016-08-csrc-team, cs5-thepaper-2015-09-15-zhuang-xinyi, c12-21jingji-2026-09-10-li-chao]
+
+- id: jiang-yang
+  name: 姜洋
+  gender: m
+  born: 1956-09
+  birthplace: 四川泸州
+  roles: [minister]
+  status: retired
+  tier: 2
+  headline: 证监会原副主席，股灾救市后领导班子中少数留任者
+  ids: { wikidata: Q24837820 }
+  bio: >-
+    四川泸州人，西南财经大学经济学博士，做过记者，1989 年进入人民银行，1998 年进入证监会任机构监管部主任，
+    2001 年任上海期货交易所总经理，2006 年任证监会主席助理，2012 年 9 月升任副主席。2015 年救市后证监会高层接连被查或调离，
+    到 2016 年刘士余接任主席时，原领导班子只剩副主席姜洋和主席助理黄炜在任。2017 年 12 月卸任。
+  positions:
+    - { title: 中国证监会机构监管部主任, sys: gov, from: 1998, cite: c12-wiki-jiang-yang }
+    - { title: 上海期货交易所总经理、党委书记, sys: other, place: 上海, from: 2001-07, to: 2006-07, cite: c12-wiki-jiang-yang }
+    - { title: 中国证券监督管理委员会主席助理, sys: gov, from: 2006-07, to: 2012-09, cite: c12-wiki-jiang-yang }
+    - { title: 中国证券监督管理委员会副主席, sys: gov, from: 2012-09, to: 2017-12, cite: c12-wiki-jiang-yang }
+    - { title: 第十三届全国政协委员, sys: other, from: 2018-01, cite: c12-wiki-jiang-yang }
+  cites: [wd-Q24837820, c12-wiki-jiang-yang, cs5-jiemian-2016-08-csrc-team]
+
+- id: huang-wei-csrc
+  name: 黄炜
+  gender: m
+  born: 1965-04
+  birthplace: 江苏宜兴
+  joinedParty: 1986-01
+  joinedWork: 1989-01
+  roles: [minister]
+  status: active
+  statusNote: 2018 年 8 月起任国家粮食和物资储备局副局长，本站未查到其后卸任报道。
+  tier: 2
+  headline: 证监会原主席助理兼首席律师，股灾后留任，2018 年调粮食和物资储备局
+  bio: >-
+    江苏宜兴人，人民大学法学博士，在司法部工作后转入证监会，历任稽查部综合处处长、法律部主任、首席律师，2015 年 3 月任主席助理。
+    2015 年救市后证监会领导层接连出事，到 2016 年刘士余接任主席时，原班子只剩副主席姜洋和他在任。
+    2018 年 8 月调任国家粮食和物资储备局副局长。
+  positions:
+    - { title: 中国证监会法律部主任, sys: gov, from: 2006-09, to: 2015-02, cite: c12-people-2018-09-13-huang-wei }
+    - { title: 中国证监会首席律师, sys: gov, from: 2011-02, to: 2018-08, cite: c12-people-2018-09-13-huang-wei }
+    - { title: 中国证券监督管理委员会主席助理, sys: gov, from: 2015-03, to: 2018-08, cite: c12-people-2018-09-13-huang-wei }
+    - { title: 国家粮食和物资储备局副局长, sys: gov, from: 2018-08, cite: c12-people-2018-09-13-huang-wei }
+  cites: [c12-people-2018-09-13-huang-wei, cs5-jiemian-2016-08-csrc-team]
+
+- id: chen-wenhui
+  name: 陈文辉
+  gender: m
+  born: 1963-04
+  birthplace: 江西吉水
+  roles: [minister]
+  status: retired
+  tier: 2
+  headline: 保监会原副主席，项俊波落马后临时主持保监会并肃清其流毒
+  ids: { wikidata: Q105718452 }
+  bio: >-
+    江西吉水人，中国社科院工业经济博士，1998 年进入保监会，2011 年 8 月升副主席，分管偿二代和资金运用监管。
+    2017 年 4 月主席项俊波落马后，54 岁的他临时负责保监会工作，在系统内主持肃清项俊波流毒。2018 年任银保监会副主席，
+    5 个月后调任社保基金会副理事长，2023 年 5 月卸任。本人未被查处。
+  positions:
+    - { title: 中国保险监督管理委员会主席助理等, sys: gov, from: 1998, to: 2011-08, cite: c12-wiki-chen-wenhui }
+    - { title: 中国保险监督管理委员会副主席, sys: gov, from: 2011-08, to: 2018-03, cite: c12-wiki-chen-wenhui }
+    - { title: 中国银行保险监督管理委员会副主席, sys: gov, from: 2018-03, to: 2018-08, cite: c12-wiki-chen-wenhui }
+    - { title: 全国社会保障基金理事会副理事长, sys: gov, from: 2018-09, to: 2023-05, cite: c12-wiki-chen-wenhui }
+  cites: [wd-Q105718452, c12-wiki-chen-wenhui, cs5-thepaper-2023-05-05-chen-wenhui, cs5-iachina-2017-11-20-xiang-poison]
+
+- id: wang-dongming-citic
+  name: 王东明
+  gender: m
+  roles: [biz]
+  status: retired
+  tier: 2
+  headline: 中信证券原董事长，被称为中信证券的灵魂人物，股灾后到龄退休
+  bio: >-
+    1993—1995 年任南方证券副总经理，1995 年中信证券成立时加入，2002 年起任董事长，被市场称为中信证券的灵魂人物。
+    2015 年股灾后中信证券多名高管被查，同年 11 月 17 日，64 岁的他到龄退休，不再担任党委书记，2016 年 1 月卸任董事长。
+    大纪元称他是外交部前副部长王炳南之子（传闻）。
+  positions:
+    - { title: 南方证券有限公司副总经理, sys: other, from: 1993, to: 1995, cite: c12-sina-2015-11-17-wang-dongming }
+    - { title: 中信证券董事长, sys: other, from: 2002, to: 2016-01-19, cite: c12-thepaper-2016-04-29-citic-arrest }
+    - { title: 中信证券党委书记, sys: party, to: 2015-11-17, cite: c12-sina-2015-11-17-wang-dongming }
+  cites: [c12-sina-2015-11-17-wang-dongming, c12-thepaper-2016-04-29-citic-arrest, cs5-epoch-2015-11-14-yao-gang-coup]
+
+- id: liu-hongru
+  name: 刘鸿儒
+  aka: [刘洪如]
+  gender: m
+  born: 1930-11
+  died: 2025-03-14
+  birthplace: 吉林榆树
+  education:
+    - { school: 莫斯科国立大学经济系, degree: 经济学副博士, to: 1959 }
+  joinedParty: 1948-09
+  joinedWork: 1947-09
+  roles: [minister]
+  status: dead
+  tier: 2
+  headline: 中国证监会首任主席，人民银行原副行长，程博明、张育军的老师
+  ids: { wikidata: Q105717554 }
+  bio: >-
+    吉林榆树人，1959 年获莫斯科大学经济学副博士，文革中下放五七干校。1980 年起任人民银行副行长，兼国家体改委副主任；
+    1989—1995 年先后任体改委副主任、国务院证券委副主任和证监会首任主席，2004 年离休。股灾后被查的中信证券总经理程博明
+    和证监会主席助理张育军都是他的学生。2025 年 3 月 14 日在北京病逝，享年 94 岁。
+  positions:
+    - { title: 中国农业银行副行长, sys: gov, cite: c12-xinhua-2025-04-03-liu-hongru }
+    - { title: 中国人民银行副行长, sys: gov, from: 1980, to: 1989, cite: c12-xinhua-2025-04-03-liu-hongru }
+    - { title: 国家经济体制改革委员会副主任, sys: gov, to: 1995, cite: c12-xinhua-2025-04-03-liu-hongru }
+    - { title: 国务院证券委员会副主任, sys: gov, cite: c12-xinhua-2025-04-03-liu-hongru }
+    - { title: 中国证券监督管理委员会主席, sys: gov, to: 1995, cite: c12-xinhua-2025-04-03-liu-hongru }
+  cites: [wd-Q105717554, c12-wiki-liu-hongru, c12-xinhua-2025-04-03-liu-hongru, cs5-sina-2017-11-13-cheng-boming]
+
+# ───── CS5 · jiangxi-su-rong ─────
+- id: yu-lifang
+  name: 于丽芳
+  gender: f
+  roles: [family]
+  status: missing
+  statusNote: 第一财经、财经称其 2014 年 6 月被中央纪委带走调查；此后官方没有公布对她的立案、起诉或判决。
+  fall:
+    - { date: 2014-06-14, text: 苏荣被中央纪委双规后，正在长春的于丽芳被中央纪委带走调查, cite: c12-yicai-2016-07-14-yu-lifang }
+  tier: 2
+  headline: 苏荣之妻，江西官场称“于姐”，中纪委称她直接站前台卖官
+  bio: >-
+    苏荣之妻，祖籍长春，原在银行工作，比苏荣小 6 岁。2007 年随苏荣到江西后在当地官场被称为“于姐”，许多官员通过她向苏荣行贿，
+    投其所好送瓷器、书画。中央纪委警示录称她直接给省市领导打招呼提拔干部，频繁插手土地出让、工程建设、招标投标；
+    新余市人大常委会主任周建华曾实名举报她。2014 年 6 月 14 日苏荣被查后，她在长春被中央纪委带走，此后下落未见公开报道。
+  cites: [c12-yicai-2016-07-14-yu-lifang, b12-caijing-2014-07-02-yu-lifang, b12-xinhua-2015-05-29-su-rong-warning, b12-people-2016-10-21-su-rong-documentary, b12-bbc-2014-06-25-su-rong]
+
+- id: su-tiezhi
+  name: 苏铁志
+  gender: m
+  roles: [family]
+  status: missing
+  statusNote: 中央纪委警示录称苏荣之子多次插手江西干部任免和土地、工程项目；他本人是否被追究未见公开报道。
+  tier: 2
+  headline: 苏荣之子，中纪委称其多次插手江西干部任免、大肆收取好处费
+  bio: >-
+    苏荣的独子，与两个姐姐苏晓波、苏晓娟都生在苏荣早年当村会计的新立村。中央纪委警示录称苏荣之子多次插手江西干部任免，
+    并多次插手土地、工程项目，大肆收取好处费；苏荣案查实有 13 名家庭成员涉案。2016 年中纪委专题片中，
+    他出镜说父亲到江西后才把下属圈子的朋友介绍给他认识。他本人的下场官方没有公布。
+  cites: [c12-yicai-2016-07-14-yu-lifang, b12-xinhua-2015-05-29-su-rong-warning, b12-people-2016-10-21-su-rong-documentary]
+
+- id: zhou-jianhua
+  name: 周建华
+  gender: m
+  born: 1955
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年 12 月 24 日江西高院二审以受贿罪改判无期徒刑。
+  fall:
+    - { date: 2012-01-05, text: 江西省纪委证实其涉嫌严重违纪，接受组织调查, cite: c12-people-2014-12-24-zhou-jianhua }
+    - { date: 2012-06-15, text: 被开除党籍和公职, cite: c12-people-2014-12-24-zhou-jianhua }
+    - { date: 2013-02-05, text: 宜春市检察院起诉其 26 项受贿事项，涉嫌受贿 1400 余万元, cite: b12-caijing-2014-07-02-yu-lifang }
+    - { date: 2014-01, text: 宜春中院一审以受贿罪判处死刑缓期两年执行, cite: c12-people-2014-12-24-zhou-jianhua }
+    - { date: 2014-12-24, text: 江西高院二审以受贿罪改判无期徒刑，认定 99 次收受和索取财物, cite: c12-people-2014-12-24-zhou-jianhua }
+  tier: 2
+  headline: 新余市人大常委会原主任，实名举报苏荣之妻后被双规，获刑无期
+  bio: >-
+    原任江西新余市人大常委会党组书记、主任。他在系统内实名举报于丽芳和时任新余市委主要领导，称新余高专土地出让严重腐败、致国有资产损失 10 亿元；
+    举报半年后，2012 年 1 月被江西省纪委双规，前妻姚敏建随后向中央巡视组实名举报苏荣妻子。法院认定他 99 次收受和索取人民币 1023 万余元及外币、金条，
+    一审判处死缓，2014 年 12 月二审改判无期。另说一审在 2013 年 7 月（BBC）。
+  positions:
+    - { title: 新余市人大常委会党组书记、主任, sys: gov, place: 江西新余, to: 2012-01, cite: c12-people-2014-12-24-zhou-jianhua }
+  cites: [c12-people-2014-12-24-zhou-jianhua, b12-caijing-2014-07-02-yu-lifang, b12-bbc-2014-06-25-su-rong, b12-rfa-2014-06-15-su-rong, c12-thepaper-2014-09-li-anze]
+
+- id: ning-yanling
+  name: 宁延令
+  gender: m
+  born: 1955-04
+  birthplace: 山东
+  education:
+    - { school: 西安公路学院筑机专业, to: 1976 }
+  roles: [ccdi]
+  status: retired
+  statusNote: 2019 年时仍任中央第八巡视组组长；1955 年生，本站未查到卸任时间，按年龄推定已退休。
+  tier: 2
+  headline: 中央第八巡视组原组长，在中纪委专题片中讲述苏荣在江西丢票
+  ids: { wikidata: Q105717673 }
+  bio: >-
+    山东人，交通部公路科学研究院出身，后任中纪委第三纪检监察室主任，2001 年曾在央视介绍查处赖昌星案细节。2009 年任中央第三巡视组副组长、
+    副部级巡视专员，2013 年 5 月任第八巡视组副组长，2015 年 7 月升组长，带队巡视过中国联通、国家电网、教育部等。
+    中纪委专题片中他以时任第八巡视组副组长身份回忆，有人反映苏荣在江西省人大主任选举中丢了将近 50 票。
+  positions:
+    - { title: 交通部公路科学研究院团委书记, sys: gov, from: 1987-02, cite: c12-chd-ning-yanling }
+    - { title: 中央纪委第三纪检监察室主任, sys: party, cite: c12-china-2019-04-03-inspection }
+    - { title: 中央第三巡视组副组长、副部级巡视专员, sys: party, from: 2009-04, to: 2013-05, cite: c12-chd-ning-yanling }
+    - { title: 中央第八巡视组副组长, sys: party, from: 2013-05, to: 2015-07, cite: c12-chd-ning-yanling }
+    - { title: 中央第八巡视组组长, sys: party, from: 2015-07, cite: c12-chd-ning-yanling }
+  cites: [wd-Q105717673, c12-chd-ning-yanling, c12-china-2019-04-03-inspection, c12-wiki-ning-yanling, b12-people-2016-10-21-su-rong-documentary]
+
+- id: li-anze
+  name: 李安泽
+  gender: m
+  born: 1960-08
+  birthplace: 江西瑞金
+  joinedParty: 1977-12
+  joinedWork: 1975-08
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 8 月被中央纪委带走，随后被免职、终止省人大代表资格；本站未查到对他的处分通报或判决。
+  fall:
+    - { date: 2014-08-27, text: 被中央纪委工作人员带走，此后被宣布免职调查, cite: c12-people-2014-11-28-li-anze-chen-weimin }
+    - { date: 2014-11-28, text: 江西省人大常委会终止其省人大代表资格, cite: c12-people-2014-11-28-li-anze-chen-weimin }
+  tier: 2
+  headline: 江西省发改委原主任、新余市委原书记，被指巴结于丽芳，苏荣案后被带走
+  ids: { wikidata: Q8994559 }
+  bio: >-
+    江西瑞金人，从县农行信贷员做起，做过赣南进出口公司总经理，后任南昌市、江西省地税局局长。2008 年任新余市长，2010 年起任新余市委书记，
+    2013 年 3 月任省发改委主任。周建华的举报材料称有商人做他接近于丽芳的中间人，第一财经称他送给于丽芳一幅傅抱石山水画。
+    苏荣被查两个月后，2014 年 8 月 27 日被中央纪委带走，官方此后没有通报案情。
+  positions:
+    - { title: 江西省地方税务局局长, sys: gov, place: 江西, to: 2008, cite: c12-thepaper-2014-09-li-anze }
+    - { title: 新余市市长, sys: gov, place: 江西新余, from: 2008, cite: c12-thepaper-2014-09-li-anze }
+    - { title: 中共新余市委书记, sys: party, place: 江西新余, from: 2010-03, to: 2013-03, cite: c12-wiki-li-anze }
+    - { title: 江西省发展和改革委员会党组书记、主任, sys: gov, place: 江西, from: 2013-03, to: 2014-08, cite: c12-wiki-li-anze }
+  cites: [wd-Q8994559, c12-wiki-li-anze, c12-thepaper-2014-09-li-anze, c12-people-2014-11-28-li-anze-chen-weimin, c12-yicai-2016-07-14-yu-lifang, cs5-sina-2015-02-17-su-rong-expel]
+
+- id: chen-weimin
+  name: 陈卫民
+  gender: m
+  born: 1959-08
+  birthplace: 江西乐安
+  joinedParty: 1983-05
+  joinedWork: 1977-05
+  roles: [tiger]
+  status: purged
+  statusNote: 2016 年被判处有期徒刑 11 年，2019 年减刑后刑期至 2025 年 4 月 16 日止，按此已刑满，未见出狱报道。
+  fall:
+    - { date: 2014-09-15, text: 因涉嫌严重违纪违法接受组织调查, cite: c12-wiki-chen-weimin }
+    - { date: 2014-10-15, text: 江西省人大常委会罢免其全国人大代表职务, cite: c12-wiki-chen-weimin }
+    - { date: 2014-11-28, text: 江西省人大常委会终止其省人大代表资格, cite: c12-people-2014-11-28-li-anze-chen-weimin }
+    - { date: 2015-02-05, text: 因涉嫌受贿罪被逮捕, cite: c12-wiki-chen-weimin }
+    - { date: 2016-06-24, text: 上饶中院以受贿罪判处有期徒刑 11 年，并处罚金 100 万元, cite: c12-wiki-chen-weimin }
+  tier: 2
+  headline: 萍乡市委原书记，苏荣案后江西落马的厅级官员之一，获刑 11 年
+  ids: { wikidata: Q16907851 }
+  bio: >-
+    江西乐安人，团干部出身，任过共青团江西省委副书记、省民族宗教事务局局长、省委省政府接待办主任。2008 年任萍乡市长，2013 年 8 月升任市委书记，
+    一年后即被查，是苏荣被查后江西相继落马的厅级官员之一。2016 年 6 月被上饶中院以受贿罪判处有期徒刑 11 年，2019 年获减刑。
+    另说他是新余市委书记（《中国新闻周刊》），与其履历不符。
+  positions:
+    - { title: 共青团江西省委副书记, sys: party, place: 江西, from: 1992-05, to: 2000-06, cite: c12-wiki-chen-weimin }
+    - { title: 江西省民族宗教事务局局长, sys: gov, place: 江西, from: 2000-06, to: 2005-07, cite: c12-wiki-chen-weimin }
+    - { title: 中共江西省委省政府接待办公室主任, sys: party, place: 江西, from: 2005-07, to: 2008-03, cite: c12-wiki-chen-weimin }
+    - { title: 萍乡市市长, sys: gov, place: 江西萍乡, from: 2008-04, to: 2013-08, cite: c12-wiki-chen-weimin }
+    - { title: 中共萍乡市委书记, sys: party, place: 江西萍乡, from: 2013-08, to: 2014-09, cite: c12-wiki-chen-weimin }
+  cites: [wd-Q16907851, c12-wiki-chen-weimin, c12-people-2014-11-28-li-anze-chen-weimin, cs5-sina-2015-02-17-su-rong-expel]
+
+# ───── CS5 · life-sentences ─────
+- id: wei-pengyuan
+  name: 魏鹏远
+  gender: m
+  born: 1959-11-20
+  birthplace: 辽宁葫芦岛
+  education:
+    - { school: 阜新矿业学院 }
+  roles: [tiger]
+  status: detained
+  statusNote: 2016 年 10 月被判处死缓，死缓期满减为无期徒刑后终身监禁，不得减刑、假释。
+  fall:
+    - { date: 2014-05, text: 被带走调查，家中搜出 2.3 亿元现金, cite: c12-wiki-wei-pengyuan }
+    - { date: 2015-05-27, text: 保定市检察院以涉嫌受贿罪、巨额财产来源不明罪向保定中院提起公诉, cite: c12-wiki-wei-pengyuan }
+    - { date: 2015-12-29, text: 保定中院公开开庭审理，当庭认罪, cite: c12-wiki-wei-pengyuan }
+    - { date: 2016-10-17, text: 保定中院以受贿罪、巨额财产来源不明罪判处死缓，期满减为无期徒刑后终身监禁, cite: c12-wiki-wei-pengyuan }
+  tier: 2
+  headline: 国家能源局煤炭司原副司长，小官巨贪，家中起获 2 亿多元现金，第二名终身监禁者
+  ids: { wikidata: Q16925318 }
+  bio: >-
+    辽宁葫芦岛人，阜新矿业学院毕业，在煤炭工业部、国家计委、发改委能源局做煤炭工作，2008 年国家能源局成立后任煤炭司副司长（正处级）。
+    2014 年被查时家中搜出 2.3 亿元现金，是检察机关一次起获赃款现金最多的案件；新华社称调去 5 台点钞机、烧坏 1 台，另说调去 16 台、烧坏 4 台（维基百科）。
+    2016 年 10 月被判死缓并终身监禁，是继白恩培之后第二人，新华社称其受贿 2.1 亿余元。
+  positions:
+    - { title: 国家发改委能源局煤炭处处长, sys: gov, to: 2008, cite: c12-wiki-wei-pengyuan }
+    - { title: 国家能源局煤炭司副司长, sys: gov, from: 2008, to: 2014-05, cite: c12-wiki-wei-pengyuan }
+  cites: [wd-Q16925318, c12-wiki-wei-pengyuan, cs5-xinhua-2016-11-15-life-three, cs5-xinhua-2016-11-16-sentence-rules, b12-bbc-2021-01-07-lai-xiaomin, c03-chinacourt-2014-12-10-liu-tienan-verdict]
+
+- id: yu-tieyi
+  name: 于铁义
+  gender: m
+  born: 1954
+  birthplace: 黑龙江
+  roles: [tiger]
+  status: detained
+  statusNote: 2016 年 10 月被判处死缓，死缓期满减为无期徒刑后终身监禁，不得减刑、假释。
+  fall:
+    - { date: 2013-03-29, text: 被刑事拘留，后被开除党籍, cite: c12-wiki-yu-tieyi }
+    - { date: 2013-04-11, text: 被逮捕，由黑龙江省林区中院审理, cite: c12-wiki-yu-tieyi }
+    - { date: 2016-10-21, text: 黑龙江省林区中院以受贿罪判处死缓，期满减为无期徒刑后终身监禁，受贿 3.06 亿余元, cite: c12-wiki-yu-tieyi }
+  tier: 2
+  headline: 龙煤集团物资供应分公司原副总经理，受贿 3 亿余元，第三名终身监禁者
+  ids: { wikidata: Q140410491 }
+  bio: >-
+    黑龙江矿工家庭出身，技校毕业后在鹤岗矿务局工作，做过选煤厂厂长，2005 年起负责龙煤集团物资供应分公司，副厅级。
+    他掌握四个矿业公司的物资采购权，向二十余家供货商索取、收受财物 3.06 亿余元，常年住在北京五星级酒店套房遥控指挥。
+    2016 年 10 月被判死缓并终身监禁，是继白恩培、魏鹏远之后第三名被终身监禁的国家工作人员，新华社称其案为当时法院认定受贿金额最高的案件。
+  positions:
+    - { title: 鹤岗矿务局选煤厂厂长, sys: other, place: 黑龙江鹤岗, cite: c12-wiki-yu-tieyi }
+    - { title: 龙煤矿业集团物资供应分公司副总经理、党委副书记, sys: other, place: 黑龙江哈尔滨, from: 2005, to: 2013-03, cite: c12-wiki-yu-tieyi }
+  cites: [wd-Q140410491, c12-wiki-yu-tieyi, cs5-xinhua-2016-10-23-yu-tieyi, cs5-xinhua-2016-11-15-life-three, b12-bbc-2021-01-07-lai-xiaomin]
+
+- id: zhang-zhongsheng
+  name: 张中生
+  gender: m
+  born: 1952-11
+  birthplace: 山西柳林
+  joinedParty: 1975-02
+  joinedWork: 1969-07
+  roles: [tiger]
+  status: detained
+  statusNote: 2021 年 10 月山西高院二审改判死缓，期满减为无期徒刑后终身监禁，不得减刑、假释。
+  fall:
+    - { date: 2014-05-29, text: 中央纪委监察部网站宣布其涉嫌严重违纪违法，接受组织调查, cite: c12-wiki-zhang-zhongsheng }
+    - { date: 2016-01, text: 被开除党籍、取消退休待遇，山西省检察院决定逮捕, cite: c12-wiki-zhang-zhongsheng }
+    - { date: 2018-03-28, text: 临汾中院以受贿罪判处死刑，以巨额财产来源不明罪判处有期徒刑 8 年，决定执行死刑, cite: c12-wiki-zhang-zhongsheng }
+    - { date: 2021-10-29, text: 山西高院二审改判死缓，期满减为无期徒刑后终身监禁，受贿 10.4 亿余元, cite: cs5-court-2021-10-29-zhang-zhongsheng }
+  tier: 2
+  headline: 吕梁市原副市长，人称吕梁教父，受贿 10.4 亿余元，一审死刑二审改终身监禁
+  ids: { wikidata: Q24831561 }
+  bio: >-
+    山西柳林人，从中阳县粮食局保管员做起，历任中阳县长、县委书记，2003 年任吕梁行署副专员，后任吕梁市副市长、市委常委，2013 年辞职。
+    2014 年山西官场地震中被查，被称为吕梁教父。法院认定他 1997—2013 年受贿、索贿 10.4 亿余元。2018 年一审被判死刑立即执行，
+    2021 年二审因认罪、退赃和重大立功改判死缓并终身监禁。妻子李兰俊以洗钱罪获刑 5 年。
+  positions:
+    - { title: 中阳县县长, sys: gov, place: 山西中阳, from: 1996, to: 1998, cite: c12-wiki-zhang-zhongsheng }
+    - { title: 中共中阳县委书记, sys: party, place: 山西中阳, from: 1998, to: 2003, cite: c12-wiki-zhang-zhongsheng }
+    - { title: 吕梁行署副专员, sys: gov, place: 山西吕梁, from: 2003, to: 2004, cite: c12-wiki-zhang-zhongsheng }
+    - { title: 吕梁市副市长, sys: gov, place: 山西吕梁, from: 2004, to: 2013, cite: c12-wiki-zhang-zhongsheng }
+    - { title: 中共吕梁市委常委, sys: party, place: 山西吕梁, from: 2009, to: 2013, cite: c12-wiki-zhang-zhongsheng }
+  cites: [wd-Q24831561, c12-wiki-zhang-zhongsheng, cs5-court-2021-10-29-zhang-zhongsheng, cs5-sina-2024-10-30-life-list]
+
+- id: jiang-renjie
+  name: 姜人杰
+  gender: m
+  born: 1948-11-23
+  died: 2011-07-19
+  birthplace: 江苏吴江震泽
+  origin: 湖北大冶
+  roles: [tiger]
+  status: dead
+  statusNote: 2011 年 7 月 19 日经最高法院核准被执行死刑。
+  fall:
+    - { date: 2008-10-24, text: 南京中院以受贿罪、挪用公款罪判处死刑，受贿 1.0857 亿元, cite: c12-wiki-jiang-renjie }
+    - { date: 2011-07-19, text: 被执行死刑，与许迈永同日, cite: cs5-xinhua-2016-11-15-life-three }
+  tier: 2
+  headline: 苏州市原副市长，受贿 1.0857 亿元，2011 年与许迈永同日被执行死刑
+  ids: { wikidata: Q7244123 }
+  bio: >-
+    湖北大冶人，生于苏州吴江震泽镇。2001 年 2 月至 2004 年 8 月任苏州市副市长，分管城建、交通、房产开发等 13 个领域，
+    兼任苏州城建投资公司董事长和苏州市高速公路建设指挥部总指挥。2008 年 10 月被南京中院以受贿罪、挪用公款罪判处死刑，
+    2011 年 7 月 19 日与许迈永同日被执行死刑。新华社称，此事当时被许多人理解为贪腐亿元判死刑的参考标准。
+  positions:
+    - { title: 苏州市副市长, sys: gov, place: 江苏苏州, from: 2001-02, to: 2004-08, cite: c12-wiki-jiang-renjie }
+  cites: [wd-Q7244123, c12-wiki-jiang-renjie, cs5-xinhua-2016-11-15-life-three]
+
+- id: xu-maiyong
+  name: 许迈永
+  gender: m
+  born: 1959-01-18
+  died: 2011-07-19
+  birthplace: 浙江萧山
+  joinedParty: 1984-04
+  joinedWork: 1977-09
+  roles: [tiger]
+  status: dead
+  statusNote: 2011 年 7 月 19 日经最高法院核准在宁波被执行死刑。
+  fall:
+    - { date: 2009-04-28, text: 因涉嫌严重违纪接受组织调查, cite: c12-wiki-xu-maiyong }
+    - { date: 2009-12-22, text: 被移送司法机关, cite: c12-wiki-xu-maiyong }
+    - { date: 2011-05-12, text: 宁波中院以受贿罪、贪污罪、滥用职权罪判处死刑, cite: c12-wiki-xu-maiyong }
+    - { date: 2011-06-21, text: 浙江高院二审驳回上诉，维持原判, cite: c12-wiki-xu-maiyong }
+    - { date: 2011-07-19, text: 被执行死刑，与姜人杰同日, cite: cs5-xinhua-2016-11-15-life-three }
+  tier: 2
+  headline: 杭州市原副市长，人称许三多，受贿 1.45 亿余元，2011 年被执行死刑
+  ids: { wikidata: Q16904197 }
+  bio: >-
+    浙江萧山人，历任萧山市副市长、杭州实业公司总经理、西湖区区长和区委书记，2008 年 4 月任杭州市副市长，次年 4 月被查。
+    法院认定他 1995—2009 年收受、索取财物 1.45 亿余元，侵吞国有资产 5300 万余元，违规退还土地出让金 7100 万余元。
+    坊间因其钱多、房多、女人多称他为“许三多”。2011 年 7 月 19 日与姜人杰同日被执行死刑。
+  positions:
+    - { title: 中共萧山市委常委、副市长, sys: gov, place: 浙江萧山, cite: c12-wiki-xu-maiyong }
+    - { title: 杭州市西湖区区长、区委书记, sys: gov, place: 浙江杭州, cite: c12-wiki-xu-maiyong }
+    - { title: 杭州市副市长, sys: gov, place: 浙江杭州, from: 2008-04, to: 2009-04, cite: c12-wiki-xu-maiyong }
+  cites: [wd-Q16904197, c12-wiki-xu-maiyong, cs5-xinhua-2016-11-15-life-three]
+
+# ───── CS5 · political-brokers ─────
+- id: lou-zhongfu
+  name: 楼忠福
+  gender: m
+  roles: [biz]
+  status: retired
+  statusNote: 2014 年 12 月底被中央纪委带走协助调查，2016 年 9 月其子楼明证实他已回家；未见被追究刑事责任的报道。现为广厦控股董事局荣誉主席。
+  tier: 2
+  headline: 广厦控股创始人，令计划案中行贿数额最大的人，出庭指证令计划
+  bio: >-
+    浙江广厦控股集团创始人，政商关系网从老家东阳延伸到金华、浙江直至令氏家族，中间人是斯鑫良。2014 年 10 月出版新书，宣讲时称要富过四代。
+    当年 12 月底令计划被查后几天，他被中央纪委带走协助调查。2016 年令计划案庭审中他出庭作证，法院认定令计划单独或与谷丽萍共同
+    索取、收受他的财物 1465 万余元，是七名行贿人中数额最大的。2016 年 9 月已回家。
+  positions:
+    - { title: 广厦控股集团有限公司创始人、董事局荣誉主席, sys: other, place: 浙江, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, b07-court-2016-07-04-ling-sentence]
+
+- id: cui-xiaoyu
+  name: 崔晓玉
+  gender: f
+  roles: [biz]
+  status: missing
+  statusNote: 王健受贿案判决书称其另案处理，处理结果未见公开报道。
+  tier: 2
+  headline: 绵阳维德系女商人，向谷丽萍送财物 1438 万元，出庭指证令计划
+  bio: >-
+    四川人，在绵阳发家，十余年间搭起包括四川维德通信、承联通信等公司的维德系，2014 年 7 月前任四川维德通信董事长兼总经理，
+    也是谷丽萍推动的中国青年创业国际计划导师。法院认定令计划明知并认可谷丽萍收受她的财物 1438 万元，她在令计划案庭审中出庭作证。
+    另据四川省公安厅王健受贿案判决，她 2008 年为维德通信中标对讲机采购向王健送 100 万元，被另案处理。
+  positions:
+    - { title: 四川维德通信技术有限公司董事长兼总经理, sys: other, place: 四川绵阳, to: 2014-07-18, cite: c12-jiemian-2016-07-cui-xiaoyu }
+  cites: [c12-jiemian-2016-07-cui-xiaoyu, b07-court-2016-07-04-ling-sentence, cs5-bjnews-2016-09-27-lou-zhongfu]
+
+- id: wei-xin
+  name: 魏新
+  gender: m
+  roles: [biz]
+  status: missing
+  statusNote: 2015 年 1 月 4 日应有关部门要求协助调查，此后去向和是否被追究未见公开报道。
+  tier: 2
+  headline: 北大方正集团原负责人，法院认定令谷向其索取财物，令计划案行贿人之一
+  bio: >-
+    北大方正集团原负责人。令计划被查后不久，方正集团 2015 年 1 月公告称魏新、李友等四人 1 月 4 日应相关部门要求协助调查，
+    随后改选董事会，由黄桂田接任董事长。2016 年令计划案判决认定，令计划为魏新所在单位谋取利益，对其子令谷向魏新等人
+    索取财物事后知情未予退还，收受、索取魏新等人财物共计 643 万余元。
+  positions:
+    - { title: 北大方正集团董事长, sys: other, place: 北京, to: 2015-01, cite: c12-nbd-2015-01-06-founder }
+  cites: [c12-nbd-2015-01-06-founder, b07-court-2016-07-04-ling-sentence, cs5-bjnews-2016-09-27-lou-zhongfu]
+
+- id: fan-zengyu
+  name: 范增玉
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2015 年 4 月 29 日被北京一中院一审判处死缓。
+  fall:
+    - { date: 2014-01-09, text: 在北京一中院出庭受审，被控贪污、受贿、诈骗，涉案约 6000 万元, cite: c12-chinanews-2015-04-29-fan-zengyu }
+    - { date: 2015-04-29, text: 北京一中院以受贿罪、诈骗罪、贪污罪数罪并罚判处死刑缓期二年执行, cite: c12-chinanews-2015-04-29-fan-zengyu }
+  tier: 2
+  headline: 国务院扶贫办外资项目管理中心原主任，38 次向丁书苗索贿 4000 余万元，判死缓
+  bio: >-
+    原任国务院扶贫办外资项目管理中心主任。丁书苗为树立慈善形象、逃避查处，请他安排在表彰会上发言、在刊物上刊登慈善事迹，
+    他先后 38 次向丁书苗索贿约 4000 余万元，还把丁书苗捐给扶贫办的 260 万元据为己有，并有诈骗行为。
+    2015 年 4 月北京一中院认定其受贿罪数额特别巨大、情节特别严重，因主动交代部分罪行、赃款全部追缴，判处死刑缓期二年执行。
+  positions:
+    - { title: 国务院扶贫开发领导小组办公室外资项目管理中心主任, sys: gov, cite: c12-chinanews-2015-04-29-fan-zengyu }
+  cites: [c12-chinanews-2015-04-29-fan-zengyu, cs5-court-2014-12-17-ding-shumiao]
+
+- id: he-hongda
+  name: 何洪达
+  aka: [何宏达]
+  gender: m
+  born: 1954
+  birthplace: 辽宁
+  roles: [tiger]
+  status: purged
+  statusNote: 2009 年 11 月被判处有期徒刑 14 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2007, text: 2007 年底被中央纪委调查, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+    - { date: 2009-11-24, text: 北京一中院以受贿罪、巨额财产来源不明罪判处有期徒刑 14 年，受贿 190 万余元, cite: c12-eeo-2009-11-25-he-hongda }
+  tier: 2
+  headline: 铁道部政治部原主任，刘志军怕他供出自己，托丁书苗花 4400 万元找人捞他
+  bio: >-
+    辽宁人，2000 年起任哈尔滨铁路局局长，2003 年 7 月任铁道部党组成员、政治部主任，副部长级。2007 年底被中央纪委调查，
+    刘志军担心他交代出自己收受的 10 万美元，托丁书苗想办法把他弄出来，丁书苗为此付给号称有关系的刘琳等人 4400 万元。
+    2009 年 11 月他以受贿 190 万余元和巨额财产来源不明被判 14 年。另说他 2009 年 3 月才被中纪委查办（经济观察网转述媒体报道）。
+  positions:
+    - { title: 哈尔滨铁路局副局长、局长, sys: gov, place: 黑龙江哈尔滨, to: 2003-07, cite: c12-eeo-2009-11-25-he-hongda }
+    - { title: 北亚集团董事长（兼）, sys: other, place: 黑龙江哈尔滨, cite: c12-eeo-2009-11-25-he-hongda }
+    - { title: 铁道部党组成员、政治部主任, sys: gov, from: 2003-07, cite: c12-eeo-2009-11-25-he-hongda }
+  cites: [c12-eeo-2009-11-25-he-hongda, cs5-chinadaily-2013-09-26-ding-4900]
+
+- id: liu-lin
+  name: 刘琳
+  roles: [biz]
+  status: purged
+  statusNote: 2013 年 8 月诈骗案终审宣判，刑期未见公开报道。
+  fall:
+    - { date: 2013-08, text: 法院对刘琳等人诈骗案终审宣判，认定其从丁书苗处骗得 4400 万元, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  tier: 2
+  headline: 号称有关系的掮客，以捞何洪达为名骗走丁书苗 4400 万元
+  bio: >-
+    号称有关系的社会人员。2007 年底何洪达被中央纪委调查后，刘志军托丁书苗想办法把何洪达弄出来，丁书苗经女儿侯军霞推荐找到刘琳，
+    先后付给刘琳等人 4400 万元。2013 年 8 月法院终审认定，刘琳等人根本不认识也没有找所谓司法机关的关系，
+    骗得的钱用于投资、公司经营和个人消费，以诈骗罪判处。
+  cites: [cs5-chinadaily-2013-09-26-ding-4900]
+
+- id: yu-zhenyong
+  name: 于振永
+  gender: m
+  roles: [biz]
+  status: missing
+  statusNote: 法院判决中他以证人身份出现，本人是否被追究未见公开报道。
+  tier: 2
+  headline: 丁书苗聘用的铁路公司董事长，自称认识中组部领导秘书，收走 500 万元
+  bio: >-
+    丁书苗聘用的山西裕丰嘉南铁路公司董事长。2008 年胶济铁路事故后刘志军想离开铁道部到地方任职，让丁书苗找关系见中组部领导；
+    2010 年下半年丁书苗提起此事，于振永称认识中组部领导的秘书、可以帮忙联系，丁书苗随即向他的账户汇入 500 万元。
+    他后来作证说自己根本不认识什么中组部领导的秘书，只是想从丁书苗那里获取钱财。
+  positions:
+    - { title: 山西裕丰嘉南铁路公司董事长, sys: other, place: 山西, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  cites: [cs5-chinadaily-2013-09-26-ding-4900]
+
+- id: shi-xiaochun
+  name: 石晓春
+  gender: m
+  roles: [biz]
+  status: missing
+  statusNote: 中央纪委专题片称其为涉案人员，官方材料未交代对他的处理结果。
+  tier: 2
+  headline: 北京市公安局退休干部，向傅政华吹嘘能帮他搭天线谋升迁的政治骗子
+  bio: >-
+    北京市公安局退休干部，与傅政华相识几十年。中央纪委 2023 年专题片称，2018 年他向傅政华吹嘘自己有特殊门路、能帮他谋升迁，
+    傅政华随即热情贴靠；他一边用谎言吊住傅政华，一边利用傅政华的职权为自己和关系人办事、站台，从中收受他人巨额财物。
+    他在片中承认，知道傅政华有野心，就编了一点小故事忽悠了他。
+  cites: [b12-chinanews-2023-01-07-bugle-ep1]
+
+- id: li-quan
+  name: 李全
+  gender: m
+  roles: [biz]
+  status: missing
+  statusNote: 中央纪委专题片称其为政治骗子，官方材料未交代对他的处理结果。
+  tier: 2
+  headline: 中专学历的政治骗子，自称领导身边的高级智囊，蒙骗傅政华约 20 年
+  bio: >-
+    中专学历，能言会道，把自己包装成专家学者。2003 年左右结识傅政华，自称是领导同志身边的高级智囊，随着傅政华职务提升又编造更大的谎言。
+    中央纪委 2023 年专题片称他蒙骗傅政华长达 20 年，从傅政华那里得到推动土地开发项目、协调经济纠纷诉讼、
+    安排亲属到银行工作等好处，谋取了大量利益。
+  cites: [b12-chinanews-2023-01-07-bugle-ep1]
+
+- id: li-maorong
+  name: 李茂荣
+  gender: m
+  born: 1968-12
+  birthplace: 江西进贤
+  joinedParty: 1991-10
+  joinedWork: 1990-08
+  roles: [tiger]
+  status: purged
+  statusNote: 2024 年 1 月被开除党籍和公职，涉嫌受贿犯罪问题移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-01-12, text: 被开除党籍和公职，通报称其热衷结交政治骗子，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: c12-cctv-2024-01-12-li-maorong }
+  tier: 2
+  headline: 上饶市原副市长，通报称其热衷结交政治骗子、搞政治投机
+  bio: >-
+    江西进贤人，长期在抚州市城市规划局、房产管理局、纪委和市政府工作，后任上饶市政府党组成员、副市长。2024 年 1 月江西省纪委监委通报
+    给予他开除党籍和公职处分，称他热衷结交“政治骗子”，搞政治投机，搞劳民伤财的形象工程、政绩工程，泄露、打探纪律审查应当保密的内容，
+    在工程项目、土地出让等方面为他人谋利并非法收受巨额财物。
+  positions:
+    - { title: 上饶市政府党组成员、副市长, sys: gov, place: 江西上饶, cite: c12-cctv-2024-01-12-li-maorong }
+  cites: [c12-cctv-2024-01-12-li-maorong, cs5-cjn-2024-05-24-political-swindlers]
+
+- id: wang-heqing
+  name: 王合清
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2024 年 6 月一审被判处有期徒刑 13 年 3 个月。
+  fall:
+    - { date: 2023-05, text: 接受审查调查, cite: c12-gzgl-2025-wang-heqing }
+    - { date: 2024-01-09, text: 被开除党籍和公职，通报称其结交政治骗子搞政治投机，涉嫌受贿犯罪问题移送审查起诉, cite: c12-xinhua-2024-01-09-wang-heqing }
+    - { date: 2024-06, text: 一审被判处有期徒刑 13 年 3 个月，非法收受财物 3700 余万元, cite: c12-gzgl-2025-wang-heqing }
+  tier: 2
+  headline: 重庆市政府文史研究馆原党组书记，结交政治骗子搞政治投机，获刑 13 年 3 个月
+  bio: >-
+    曾任重庆市万州区委常委、秘书长，江津区委副书记、区长，后任重庆市政府文史研究馆党组书记，2023 年 5 月被查。
+    2024 年 1 月重庆市纪委监委通报称他结交“政治骗子”搞政治投机，串供对抗组织审查，生活作风腐化堕落，与不法商人长期勾连。
+    他利用职权在工程承接、土地开发、资金拨付等方面谋利，收受财物 3700 余万元，2024 年 6 月一审被判有期徒刑 13 年 3 个月。
+  positions:
+    - { title: 中共重庆市万州区委常委、秘书长, sys: party, place: 重庆万州, cite: c12-gzgl-2025-wang-heqing }
+    - { title: 中共重庆市江津区委副书记、区长, sys: gov, place: 重庆江津, cite: c12-gzgl-2025-wang-heqing }
+    - { title: 重庆市政府文史研究馆党组书记, sys: gov, place: 重庆, to: 2023-05, cite: c12-gzgl-2025-wang-heqing }
+  cites: [c12-xinhua-2024-01-09-wang-heqing, c12-gzgl-2025-wang-heqing]
+
+- id: li-chao-hunan
+  name: 李超
+  gender: m
+  born: 1966-07
+  birthplace: 湖南祁阳
+  roles: [tiger]
+  status: purged
+  statusNote: 2024 年 5 月被提起公诉，判决未见公开报道。
+  fall:
+    - { date: 2023-11-04, text: 湖南省纪委监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: c12-bjd-2024-05-29-li-chao-hunan }
+    - { date: 2024-02-04, text: 被开除党籍和公职，通报称其为逃避查处结交政治骗子、被骗巨额财产, cite: c12-xinhua-2024-02-04-li-chao-hunan }
+    - { date: 2024-03-18, text: 湖南省检察院以涉嫌受贿罪决定逮捕, cite: c12-bjd-2024-05-29-li-chao-hunan }
+    - { date: 2024-05-29, text: 长沙市检察院以涉嫌受贿罪向长沙中院提起公诉, cite: c12-bjd-2024-05-29-li-chao-hunan }
+  tier: 2
+  headline: 郴州市纪委原书记，为逃避查处结交政治骗子，反被骗走巨额财产
+  bio: >-
+    湖南祁阳人，长期在纪检监察系统工作，曾任郴州市委常委、市纪委书记、市监委主任，后任湖南省纪委监委驻省委统战部纪检监察组组长，副厅级。
+    2023 年 11 月被查。2024 年 2 月通报称他执纪违纪、执法犯法，不信组织信关系，“为逃避查处，结交政治骗子，被骗巨额财产”，
+    以串供、转移、隐匿证据等方式对抗组织审查，违规干预和插手司法活动。
+  positions:
+    - { title: 中共郴州市委常委、市纪委书记、市监委主任, sys: party, place: 湖南郴州, cite: c12-bjd-2024-05-29-li-chao-hunan }
+    - { title: 湖南省纪委监委驻省委统战部纪检监察组组长, sys: party, place: 湖南, to: 2023-11, cite: c12-bjd-2024-05-29-li-chao-hunan }
+  cites: [c12-xinhua-2024-02-04-li-chao-hunan, c12-bjd-2024-05-29-li-chao-hunan, cs5-cjn-2024-05-24-political-swindlers]
+
+- id: liu-haichang
+  name: 刘海昌
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 2024 年 4 月被开除党籍和公职，涉嫌受贿、滥用职权犯罪问题移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-04-28, text: 被开除党籍和公职，通报称其搞投机钻营、结交政治骗子，涉嫌受贿、滥用职权犯罪问题移送审查起诉, cite: c12-scjc-2024-04-28-liu-haichang }
+  tier: 2
+  headline: 绵阳市原副市长，通报称其搞投机钻营、结交政治骗子，给国家造成重大损失
+  bio: >-
+    原任四川绵阳市政府党组成员、副市长。2024 年 4 月四川省纪委监委通报称，他权力观、政绩观扭曲错位，搞投机钻营，结交政治骗子，
+    违背新发展理念，给党和国家造成重大损失，不落实巡视整改要求，对抗组织审查；在项目招引、资金扶持、干部任用等方面为他人谋利，
+    收受财物数额特别巨大，滥用职权致使国家利益遭受重大损失，情节特别严重。
+  positions:
+    - { title: 绵阳市政府党组成员、副市长, sys: gov, place: 四川绵阳, cite: c12-scjc-2024-04-28-liu-haichang }
+  cites: [c12-scjc-2024-04-28-liu-haichang, cs5-cjn-2024-05-24-political-swindlers]
+
+- id: ni-huizhong
+  name: 倪会忠
+  gender: m
+  born: 1968-11
+  roles: [tiger]
+  status: purged
+  statusNote: 2024 年 5 月被开除党籍和公职，涉嫌受贿犯罪问题移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2023-08, text: 接受中央纪委国家监委驻国家体育总局纪检监察组和河南省监委审查调查, cite: c12-wiki-ni-huizhong }
+    - { date: 2024-05-17, text: 被开除党籍和公职，通报称其结交政治骗子、私藏阅看有严重政治问题的书籍、搞迷信活动, cite: c12-ccdi-2024-05-17-ni-huizhong }
+  tier: 2
+  headline: 国家体育总局冬季运动管理中心原主任，通报称其结交政治骗子、私藏问题书籍
+  ids: { wikidata: Q116226289 }
+  bio: >-
+    原任国家体育总局冬季运动管理中心党委书记、主任，兼中国奥委会副主席。2023 年 8 月被查。2024 年 5 月通报称他搞团团伙伙、拉帮结派，
+    结交政治骗子，私藏、阅看有严重政治问题的书籍，搞迷信活动，对抗组织审查，在干部考察推荐中搞拉票、助选；
+    在工程承揽、赛事承办、职工招聘等方面为他人谋利，非法收受巨额财物，在党的二十大后仍不收手。
+  positions:
+    - { title: 国家体育总局冬季运动管理中心党委书记、主任, sys: gov, to: 2023-08, cite: c12-wiki-ni-huizhong }
+    - { title: 中国奥林匹克委员会副主席, sys: other, cite: c12-wiki-ni-huizhong }
+  cites: [wd-Q116226289, c12-wiki-ni-huizhong, c12-ccdi-2024-05-17-ni-huizhong, cs5-cjn-2024-05-24-political-swindlers]
+
+- id: qin-fangjin
+  name: 秦方进
+  gender: m
+  born: 1970-08
+  birthplace: 湖南湘阴
+  roles: [tiger]
+  status: purged
+  statusNote: 2023 年 8 月被开除党籍和公职，涉嫌犯罪问题移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2023-01-31, text: 在衡阳市农业农村局局长任上被查, cite: c12-gmw-2024-06-02-qin-fangjin }
+    - { date: 2023-08-02, text: 被开除党籍和公职，涉嫌犯罪问题移送检察机关审查起诉, cite: c12-gmw-2024-06-02-qin-fangjin }
+  tier: 2
+  headline: 衡阳市农业农村局原局长，为谋副厅职务被政治骗子骗走 300 万元
+  bio: >-
+    湖南湘阴人，长期在衡阳市委组织部工作，2013 年任衡山县长，2016 年任衡阳市城市建设投资公司董事长，2021 年任衡阳市农业农村局局长。
+    为求升任副厅，他相信卢某某能运作，答应付 300 万元协调费用，为此向承接了近 6 亿元工程的商人佘某某索贿 300 万元；
+    眼见升迁无望才意识到被骗。2023 年 1 月被查，8 月被双开。
+  positions:
+    - { title: 衡山县县长, sys: gov, place: 湖南衡阳衡山, from: 2013, to: 2016, cite: c12-gmw-2024-06-02-qin-fangjin }
+    - { title: 衡阳市城市建设投资有限公司董事长, sys: other, place: 湖南衡阳, from: 2016, to: 2021, cite: c12-gmw-2024-06-02-qin-fangjin }
+    - { title: 衡阳市农业农村局党组书记、局长, sys: gov, place: 湖南衡阳, from: 2021, to: 2023-01, cite: c12-gmw-2024-06-02-qin-fangjin }
+  cites: [c12-gmw-2024-06-02-qin-fangjin]
+
+- id: lu-jinwu
+  name: 鲁进武
+  gender: m
+  ethnicity: 藏族
+  born: 1972-03
+  joinedWork: 2003-03
+  roles: [tiger]
+  status: purged
+  statusNote: 2024 年 6 月因受贿罪被判处刑罚，刑期未见公开报道。
+  fall:
+    - { date: 2023-10-12, text: 主动投案，接受迪庆州纪委监委纪律审查和监察调查, cite: c12-nbd-2023-10-12-lu-jinwu }
+    - { date: 2024-04-17, text: 被开除党籍和公职，通报称其搞政治攀附、结交政治骗子, cite: c12-dqzjw-2024-04-17-lu-jinwu }
+    - { date: 2024-06, text: 因受贿罪被判处刑罚, cite: c12-dqzjw-2024-lu-jinwu-gifts }
+  tier: 2
+  headline: 迪庆州住建局原局长，藏族，通报称其搞政治攀附、结交政治骗子
+  bio: >-
+    藏族，2003 年参加工作，在德钦县历任住建局局长、副县长、常务副县长，后任迪庆州住房和城乡建设局党组书记、局长。
+    2023 年 10 月主动投案。2024 年 4 月迪庆州纪委监委通报称他搞政治攀附，结交“政治骗子”，向公务人员赠送超出正常礼尚往来的礼品礼金，
+    无偿借用管理服务对象钱款，在工程承揽、资金拨付等方面为他人谋利；同年 6 月因受贿罪被判刑。
+  positions:
+    - { title: 德钦县人民政府副县长, sys: gov, place: 云南迪庆德钦, from: 2016-12, to: 2021-02, cite: c12-nbd-2023-10-12-lu-jinwu }
+    - { title: 德钦县人民政府常务副县长, sys: gov, place: 云南迪庆德钦, from: 2021-02, to: 2022-08, cite: c12-nbd-2023-10-12-lu-jinwu }
+    - { title: 迪庆州住房和城乡建设局党组书记、局长, sys: gov, place: 云南迪庆, to: 2023-10, cite: c12-nbd-2023-10-12-lu-jinwu }
+  cites: [c12-nbd-2023-10-12-lu-jinwu, c12-dqzjw-2024-04-17-lu-jinwu, c12-dqzjw-2024-lu-jinwu-gifts]
+
+- id: lin-qiang
+  name: 林强
+  gender: m
+  roles: [minister]
+  status: missing
+  statusNote: 财新、法广提到其时已称原公安部一局副局长；本人是否被追究、现在何处未见公开报道。
+  tier: 2
+  headline: 公安部一局原副局长，财新称郭文贵经他结识河北政法委书记张越
+  bio: >-
+    公安部原官员。财新 2016 年报道，郭文贵最早通过原公安部一局副局长林强认识张越，张越随后与郭文贵打得火热，并把马建
+    介绍给郭文贵，三人结成攫财同盟。法广转述时称他是公安部一局（国保局）副局长，据说负责港澳台情报。
+    官方从未公开他的任职、处分或下落。
+  positions:
+    - { title: 公安部一局副局长, sys: gov, cite: c12-youth-2016-04-25-zhang-yue }
+  cites: [c12-youth-2016-04-25-zhang-yue, f06-rfi-2016-04-17-zhang-yue]

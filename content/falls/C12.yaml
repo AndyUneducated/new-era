@@ -1,0 +1,381 @@
+# C12 (round 13): case records for the fallen among the CS4 and CS5 people carded in this batch
+
+# ───── 南充拉票贿选案 ─────
+liu-hongjian-nanchong:
+  sys: local
+  grade: bureau
+  trigger: { kind: chain, text: 四川省委查清杨建华拉票贿选后进一步调查，查清时任市委书记刘宏建和市纪委、市委组织部相关负责人失职渎职, cite: cs5-people-2015-09-15-nanchong }
+  with:
+    - { id: yang-jianhua, name: 杨建华, rel: colleague, text: 时任仪陇县委书记，用公款 80 万元送钱拉票当选南充市委常委，获刑 20 年, cite: cs5-people-2015-09-15-nanchong }
+    - { id: gao-xianhai, name: 高先海, rel: colleague, text: 时任南充市长、后任市人大常委会主任，因涉南充拉票贿选案辞去全国人大代表, cite: a01-npc-2015-11-04-report }
+  politics:
+    level: none
+    why: 地方换届中的有组织拉票贿选案，官方定性为严重违反组织人事纪律，刘宏建本人以失职渎职获罪
+    cites: [cs5-people-2015-09-15-nanchong, cs5-ccdi-2015-09-15-nanchong-meeting]
+  voices:
+    - { voice: west, text: BBC 中文指出新华社的报道没有说明杨建华与刘宏建在何时、何地被判刑，也没有说明案件是否已经终审, cite: cs5-bbc-2015-09-15-nanchong }
+  outcome: sentenced
+
+yang-jianhua:
+  sys: local
+  grade: bureau
+  amount: { yuan: 800000, text: 2011 年南充市委换届前用公款 80 万元送钱拉票；全案涉案金额 1671.9 万元, cite: cs5-people-2015-09-15-nanchong }
+  trigger: { kind: unknown, text: 通报只说 2014 年下半年以来四川省委对南充拉票贿选案进行了调查处理，未说明线索来源, cite: cs5-people-2015-09-15-nanchong }
+  with:
+    - { id: liu-hongjian-nanchong, name: 刘宏建, rel: colleague, text: 时任南充市委书记，被认定失职渎职，以玩忽职守罪获刑 3 年, cite: cs5-people-2015-09-15-nanchong }
+  politics:
+    level: none
+    why: 为当选市委常委而拉票贿选，官方定性为组织人事领域的严重违纪违法，未见政治关联报道
+    cites: [cs5-people-2015-09-15-nanchong]
+  outcome: sentenced
+
+gao-xianhai:
+  sys: local
+  grade: bureau
+  trigger: { kind: chain, text: 南充拉票贿选案查处中受牵连，全国人大常委会报告称其因涉南充拉票贿选案辞去代表职务, cite: a01-npc-2015-11-04-report }
+  with:
+    - { id: liu-hongjian-nanchong, name: 刘宏建, rel: colleague, text: 换届时的南充市委书记，以玩忽职守罪获刑 3 年, cite: cs5-people-2015-09-15-nanchong }
+  politics:
+    level: none
+    why: 南充拉票贿选案的牵连者，未见政治关联报道
+    cites: [a01-npc-2015-11-04-report]
+
+gu-zhengju:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-11-08
+    cite: c12-people-2024-11-08-gu-zhengju-expel
+    quotes:
+      - 处心积虑欺瞒组织，对抗组织审查
+      - 大肆利用职权和职务上的影响为亲属谋取利益
+      - 违规拥有非上市公司股份
+  discipline: [political, organization, integrity, life, eight]
+  amount: { yuan: 124000000, text: 法院认定 2007—2023 年非法收受财物 1.24 亿余元，其中部分至案发时尚未实际取得, cite: c12-xinhua-2026-07-31-gu-zhengju-verdict }
+  trigger: { kind: unknown, text: 四川省纪委监委只通报其涉嫌严重违纪违法，未说明线索来源, cite: c12-people-2024-11-08-gu-zhengju-expel }
+  politics:
+    level: none
+    why: 通报和判决只涉及项目承揽、款项拨付中谋利和为亲属谋利，未见政治关联报道
+    cites: [c12-people-2024-11-08-gu-zhengju-expel, c12-xinhua-2026-07-31-gu-zhengju-verdict]
+  outcome: sentenced
+
+# ───── 股灾 ─────
+liu-jun-citic:
+  sys: finance
+  grade: exec
+  trigger: { kind: incident, text: 2015 年股灾后中信证券多名高管被查，2016 年 4 月青岛市公安机关批准逮捕程博明、刘军、许骏等人, cite: c12-thepaper-2016-04-29-citic-arrest }
+  with:
+    - { id: cheng-boming, name: 程博明, rel: colleague, text: 中信证券原总经理，与刘军、许骏同时被批捕，至 2016 年底一审已判刑, cite: c12-caixin-2017-11-13-citic }
+    - { id: xu-jun-citic, name: 许骏, rel: colleague, text: 中信证券权益投资部负责人，同案被批捕, cite: c12-caixin-2017-11-13-citic }
+  politics:
+    level: none
+    why: 官方只说其涉嫌犯罪，罪名和判决未公开，未见可靠来源指向政治关联
+    cites: [c12-thepaper-2016-04-29-citic-arrest]
+  outcome: sentenced
+
+xu-jun-citic:
+  sys: finance
+  grade: exec
+  trigger: { kind: incident, text: 2015 年股灾后中信证券多名高管被查，2016 年 4 月青岛市公安机关批准逮捕程博明、刘军、许骏等人, cite: c12-thepaper-2016-04-29-citic-arrest }
+  with:
+    - { id: cheng-boming, name: 程博明, rel: colleague, text: 中信证券原总经理，与刘军、许骏同时被批捕，至 2016 年底一审已判刑, cite: c12-caixin-2017-11-13-citic }
+    - { id: liu-jun-citic, name: 刘军, rel: colleague, text: 中信证券经纪业务发展委员会行政负责人，同案被批捕, cite: c12-caixin-2017-11-13-citic }
+  politics:
+    level: none
+    why: 官方只说其涉嫌犯罪，罪名和判决未公开，未见可靠来源指向政治关联
+    cites: [c12-thepaper-2016-04-29-citic-arrest]
+  outcome: sentenced
+
+# ───── 江西 · 苏荣 ─────
+yu-lifang:
+  sys: other
+  grade: none
+  trigger: { kind: chain, text: 苏荣 2014 年 6 月 14 日被中央纪委双规后，正在长春的于丽芳被中央纪委带走调查, cite: c12-yicai-2016-07-14-yu-lifang }
+  with:
+    - { id: su-rong, name: 苏荣, rel: kin, text: 丈夫，全国政协原副主席，中央纪委称其妻直接站前台插手干部任用和工程项目, cite: b12-xinhua-2015-05-29-su-rong-warning }
+    - { id: li-anze, name: 李安泽, rel: briber, text: 第一财经称李安泽送给于丽芳一幅傅抱石山水画，价值或达千万, cite: c12-yicai-2016-07-14-yu-lifang }
+  politics:
+    level: linked
+    why: 苏荣案的家族腐败部分，随苏荣被查一同被带走
+    cites: [c12-yicai-2016-07-14-yu-lifang, b12-xinhua-2015-05-29-su-rong-warning]
+  voices:
+    - { voice: official, text: 中央纪委警示录称，于丽芳收受某领导干部钱款后让苏荣提拔其职务，未能如愿就和苏荣大吵大闹, cite: b12-xinhua-2015-05-29-su-rong-warning }
+  outcome: missing
+
+zhou-jianhua:
+  sys: local
+  grade: bureau
+  amount: { yuan: 10233114, text: 法院认定 99 次收受和索取人民币 1023.3114 万元、美元 1.2 万元、港币 15 万元、金条三根及价值 23.58 万元的财物, cite: c12-people-2014-12-24-zhou-jianhua }
+  trigger: { kind: unknown, text: 江西省纪委只说其涉嫌严重违纪；他此前曾实名举报于丽芳和新余市委主要领导，举报半年后被双规, cite: b12-caijing-2014-07-02-yu-lifang }
+  with:
+    - { name: 姚敏建, rel: kin, text: 前妻，向中央巡视组公开实名举报苏荣妻子涉及新余土地交易和建设工程的贪腐问题, cite: b12-bbc-2014-06-25-su-rong }
+  politics:
+    level: linked
+    why: 他是苏荣之妻的举报人，境外媒体转述财新称他因举报遭苏荣构陷；本人受贿罪名由法院认定
+    cites: [b12-rfa-2014-06-15-su-rong, b12-caijing-2014-07-02-yu-lifang]
+  voices:
+    - { voice: west, text: 自由亚洲电台转述财新称，周建华因前妻举报苏荣妻子而遭到苏荣构陷，被江西省纪委双规, cite: b12-rfa-2014-06-15-su-rong }
+    - { voice: west, text: BBC 中文称他 2013 年 7 月一审被判死缓，与官方媒体所说 2014 年 1 月一审的时间不同, cite: b12-bbc-2014-06-25-su-rong }
+  outcome: sentenced
+
+li-anze:
+  sys: local
+  grade: bureau
+  trigger: { kind: chain, text: 苏荣被查两个多月后被中央纪委工作人员带走，维基百科称因与苏荣关系密切, cite: c12-wiki-li-anze }
+  with:
+    - { id: su-rong, name: 苏荣, rel: patron, text: 时任江西省委书记，李安泽在其主政期间升任新余市委书记、省发改委主任, cite: cs5-sina-2015-02-17-su-rong-expel }
+    - { id: yu-lifang, name: 于丽芳, rel: patron, text: 周建华举报材料称陈建男、邓凯元两名商人是李安泽接近于姐的中间人, cite: c12-thepaper-2014-09-li-anze }
+  politics:
+    level: linked
+    why: 苏荣被查后江西随即落马的厅级官员之一，媒体称其巴结苏荣之妻
+    cites: [cs5-sina-2015-02-17-su-rong-expel, c12-thepaper-2014-09-li-anze]
+  outcome: missing
+
+chen-weimin:
+  sys: local
+  grade: bureau
+  trigger: { kind: chain, text: 苏荣被查后三个多月里江西多名厅级干部落马，《中国新闻周刊》将他列入其中, cite: cs5-sina-2015-02-17-su-rong-expel }
+  with:
+    - { id: su-rong, name: 苏荣, rel: patron, text: 《中国新闻周刊》称这些被查官员的共同之处是均与苏荣在江西关系密切, cite: cs5-sina-2015-02-17-su-rong-expel }
+  politics:
+    level: linked
+    why: 苏荣案后江西清理的一部分，但法院只以受贿罪判处
+    cites: [cs5-sina-2015-02-17-su-rong-expel, c12-wiki-chen-weimin]
+  outcome: sentenced
+
+# ───── 终身监禁与死刑 ─────
+wei-pengyuan:
+  sys: central
+  grade: county
+  amount: { yuan: 210000000, text: 新华社称受贿 2.1 亿余元；维基百科称法院认定涉案金额 3.428 亿元（含巨额财产来源不明）, cite: cs5-xinhua-2016-11-15-life-three }
+  trigger: { kind: chain, text: 刘铁男被查后引发能源系统反腐风暴，煤炭司副司长魏鹏远是其中落马的 20 多名能源官员之一, cite: c03-chinacourt-2014-12-10-liu-tienan-verdict }
+  politics:
+    level: none
+    why: 小官巨贪的典型，判决只涉及受贿和巨额财产来源不明
+    cites: [cs5-xinhua-2016-11-15-life-three]
+  voices:
+    - { voice: official, text: 新华社称魏案是新中国成立以来检察机关一次起获赃款现金数额最大的案件, cite: cs5-xinhua-2016-11-15-life-three }
+  outcome: sentenced
+
+yu-tieyi:
+  sys: soe
+  grade: bureau
+  amount: { yuan: 306000000, text: 公诉机关指控、法院认定 2005—2011 年索取、收受二十余家供货商财物 3.06 亿余元，先前通报为 1.64 亿元, cite: c12-wiki-yu-tieyi }
+  trigger: { kind: unknown, text: 公开报道未说明线索来源, cite: c12-wiki-yu-tieyi }
+  politics:
+    level: none
+    why: 国企物资采购中的索贿受贿案，未见政治关联报道
+    cites: [cs5-xinhua-2016-10-23-yu-tieyi]
+  voices:
+    - { voice: official, text: 新华社称这是迄今为止法院认定的全国受贿案件中金额最高的案件, cite: cs5-xinhua-2016-10-23-yu-tieyi }
+  outcome: sentenced
+
+zhang-zhongsheng:
+  sys: local
+  grade: bureau
+  retired: 2013
+  amount: { yuan: 1040000000, text: 法院认定 1997—2013 年索取、收受财物 10.4 亿余元，另有巨额财产不能说明来源, cite: cs5-court-2021-10-29-zhang-zhongsheng }
+  trigger: { kind: unknown, text: 中央纪委监察部网站只通报其涉嫌严重违纪违法，未说明线索来源, cite: c12-wiki-zhang-zhongsheng }
+  with:
+    - { name: 李兰俊, rel: kin, text: 妻子，吕梁市政协原副主席，以洗钱罪被判处有期徒刑 5 年, cite: c12-wiki-zhang-zhongsheng }
+  politics:
+    level: none
+    why: 2014 年山西官场地震中落马的厅级官员之一，判决只涉及受贿和巨额财产来源不明
+    cites: [cs5-court-2021-10-29-zhang-zhongsheng]
+  outcome: sentenced
+
+jiang-renjie:
+  sys: local
+  grade: bureau
+  amount: { yuan: 108570000, text: 法院认定受贿人民币 10857 万元、港币 5 万元、美元 4000 元, cite: c12-wiki-jiang-renjie }
+  politics:
+    level: none
+    why: 城建领域受贿案，未见政治关联报道
+    cites: [cs5-xinhua-2016-11-15-life-three]
+  voices:
+    - { voice: official, text: 新华社称姜人杰与许迈永同日被执行死刑，当时被许多人理解为贪腐亿元判死刑的参考标准, cite: cs5-xinhua-2016-11-15-life-three }
+  outcome: sentenced
+
+xu-maiyong:
+  sys: local
+  grade: bureau
+  amount: { yuan: 145000000, text: 法院认定 1995—2009 年收受、索取财物 1.45 亿余元，另侵吞国有资产 5300 万余元, cite: c12-wiki-xu-maiyong }
+  with:
+    - { name: 戚继秋, rel: kin, text: 妻子，在许迈永落马时一同被带去调查, cite: c12-wiki-xu-maiyong }
+  politics:
+    level: none
+    why: 土地和税收优惠领域的受贿贪污案，未见政治关联报道
+    cites: [cs5-xinhua-2016-11-15-life-three]
+  outcome: sentenced
+
+# ───── 政治掮客 ─────
+fan-zengyu:
+  sys: central
+  grade: bureau
+  amount: { yuan: 40000000, text: 法院认定先后 38 次向丁书苗索贿约 4000 余万元，另贪污 260 万元，检方指控涉案约 6000 万元, cite: c12-chinanews-2015-04-29-fan-zengyu }
+  trigger: { kind: chain, text: 丁书苗案关键人物，法院认定丁书苗为树立正面形象以逃避查处向他行贿, cite: cs5-court-2014-12-17-ding-shumiao }
+  with:
+    - { id: ding-shumiao, name: 丁书苗, rel: briber, text: 先后 38 次向范增玉行贿 4000 万余元，以树立正面形象逃避有关部门查处, cite: cs5-court-2014-12-17-ding-shumiao }
+  politics:
+    level: none
+    why: 刘志军、丁书苗案的牵连者，判决只涉及受贿、贪污、诈骗
+    cites: [c12-chinanews-2015-04-29-fan-zengyu]
+  outcome: sentenced
+
+he-hongda:
+  sys: central
+  grade: vice
+  amount: { yuan: 1900000, text: 法院认定 1997—2007 年受贿 190 万余元，另以巨额财产来源不明罪判处, cite: c12-eeo-2009-11-25-he-hongda }
+  trigger: { kind: unknown, text: 公开报道未说明线索来源, cite: c12-eeo-2009-11-25-he-hongda }
+  with:
+    - { id: liu-zhijun, name: 刘志军, rel: patron, text: 刘志军担心何宏达交代出自己收受他 10 万美元，托丁书苗想办法尽快把何宏达弄出来, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+    - { id: ding-shumiao, name: 丁书苗, rel: business, text: 受刘志军之托为捞何宏达找到号称有关系的刘琳，先后付出 4400 万元, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  politics:
+    level: none
+    why: 铁道部系统受贿案，刘志军为保自己而设法捞人，未见更高层的政治关联
+    cites: [cs5-chinadaily-2013-09-26-ding-4900]
+  outcome: sentenced
+
+liu-lin:
+  sys: other
+  grade: none
+  amount: { yuan: 44000000, text: 法院终审认定刘琳等人以捞人为名从丁书苗处骗得 4400 万元, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  trigger: { kind: chain, text: 丁书苗付款后刘琳等人因诈骗罪被查, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  with:
+    - { id: ding-shumiao, name: 丁书苗, rel: business, text: 经女儿侯军霞推荐结识刘琳，为捞何宏达先后付给刘琳等人 4400 万元, cite: cs5-chinadaily-2013-09-26-ding-4900 }
+  politics:
+    level: none
+    why: 冒充有司法关系的诈骗案
+    cites: [cs5-chinadaily-2013-09-26-ding-4900]
+  outcome: sentenced
+
+li-maorong:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-01-12
+    cite: c12-cctv-2024-01-12-li-maorong
+    quotes:
+      - 热衷结交“政治骗子”，搞政治投机
+      - 搞劳民伤财的“形象工程”“政绩工程”
+      - 泄露、打探纪律审查应当保密的内容
+  discipline: [political, eight, organization, integrity, work]
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: c12-cctv-2024-01-12-li-maorong }
+  politics:
+    level: none
+    why: 通报点名结交政治骗子、搞政治投机，指的是谋求个人升迁，未见与高层派系相关的报道
+    cites: [c12-cctv-2024-01-12-li-maorong]
+  outcome: expelled
+
+wang-heqing:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-01-09
+    cite: c12-xinhua-2024-01-09-wang-heqing
+    quotes:
+      - 结交“政治骗子”搞政治投机
+      - 串供对抗组织审查
+      - 与不法商人长期勾连，通过利益输送深度捆绑
+  discipline: [political, organization, integrity, work, life, eight]
+  amount: { yuan: 37000000, text: 非法收受财物 3700 余万元，其中收受张勇 2100 余万元、汪坤 710 余万元, cite: c12-gzgl-2025-wang-heqing }
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: c12-xinhua-2024-01-09-wang-heqing }
+  with:
+    - { name: 张勇, rel: briber, text: 向王合清行贿 2100 余万元, cite: c12-gzgl-2025-wang-heqing }
+    - { name: 汪坤, rel: briber, text: 向王合清行贿 710 余万元, cite: c12-gzgl-2025-wang-heqing }
+  politics:
+    level: none
+    why: 通报点名结交政治骗子，指的是谋求个人升迁，未见与高层派系相关的报道
+    cites: [c12-xinhua-2024-01-09-wang-heqing]
+  outcome: sentenced
+
+li-chao-hunan:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-02-04
+    cite: c12-xinhua-2024-02-04-li-chao-hunan
+    quotes:
+      - 不信组织信关系，为逃避查处，结交政治骗子，被骗巨额财产
+      - 以串供、转移、隐匿证据等方式处心积虑对抗组织审查
+      - 违规干预和插手司法活动、执纪执法活动
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: c12-xinhua-2024-02-04-li-chao-hunan }
+  politics:
+    level: none
+    why: 纪检干部为逃避查处结交政治骗子反被骗，未见政治关联报道
+    cites: [c12-xinhua-2024-02-04-li-chao-hunan]
+  voices:
+    - { voice: zh, text: 中国纪检监察报梳理称，2024 年以来李超、刘海昌、倪会忠等人的通报都点名结交政治骗子, cite: cs5-cjn-2024-05-24-political-swindlers }
+  outcome: expelled
+
+liu-haichang:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-04-28
+    cite: c12-scjc-2024-04-28-liu-haichang
+    quotes:
+      - 搞投机钻营，结交政治骗子
+      - 违背新发展理念、背离高质量发展要求，给党和国家造成重大损失
+      - 不落实巡视整改要求，对抗组织审查
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: c12-scjc-2024-04-28-liu-haichang }
+  politics:
+    level: none
+    why: 通报点名投机钻营、结交政治骗子，未见与高层派系相关的报道
+    cites: [c12-scjc-2024-04-28-liu-haichang]
+  outcome: expelled
+
+ni-huizhong:
+  sys: culture
+  grade: bureau
+  notice:
+    date: 2024-05-17
+    cite: c12-ccdi-2024-05-17-ni-huizhong
+    quotes:
+      - 搞团团伙伙、拉帮结派，为自己营造声势捞取政治资本
+      - 结交政治骗子；私藏、阅看有严重政治问题的书籍；搞迷信活动
+      - 在干部考察推荐中搞拉票、助选等非组织活动
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: c12-ccdi-2024-05-17-ni-huizhong }
+  politics:
+    level: none
+    why: 通报政治问题措辞较重，但指向本人的拉帮结派和结交骗子，未见与高层派系相关的报道
+    cites: [c12-ccdi-2024-05-17-ni-huizhong]
+  outcome: expelled
+
+qin-fangjin:
+  sys: local
+  grade: county
+  notice:
+    date: 2023-08-02
+    cite: c12-gmw-2024-06-02-qin-fangjin
+    quotes:
+      - 官迷心窍、目无法纪、心无敬畏、道德败坏
+  amount: { yuan: 3000000, text: 为支付 300 万元协调费用向商人佘某某索贿 300 万元, cite: c12-gmw-2024-06-02-qin-fangjin }
+  trigger: { kind: unknown, text: 报道未说明线索来源, cite: c12-gmw-2024-06-02-qin-fangjin }
+  with:
+    - { name: 卢某某, rel: business, text: 以运作升任副厅为名向秦方进索要 300 万元协调费用, cite: c12-gmw-2024-06-02-qin-fangjin }
+    - { name: 佘某某, rel: briber, text: 承接近 6 亿元工程的商人，被秦方进索贿 300 万元, cite: c12-gmw-2024-06-02-qin-fangjin }
+  politics:
+    level: none
+    why: 为谋升迁被政治骗子诈骗，未见政治关联报道
+    cites: [c12-gmw-2024-06-02-qin-fangjin]
+  outcome: expelled
+
+lu-jinwu:
+  sys: local
+  grade: county
+  notice:
+    date: 2024-04-17
+    cite: c12-dqzjw-2024-04-17-lu-jinwu
+    quotes:
+      - 搞政治攀附，结交“政治骗子”
+      - 无偿借用管理和服务对象钱款
+  discipline: [political, integrity]
+  trigger: { kind: surrender, text: 2023 年 10 月主动投案, cite: c12-nbd-2023-10-12-lu-jinwu }
+  politics:
+    level: none
+    why: 县处级官员搞政治攀附、结交骗子，未见政治关联报道
+    cites: [c12-dqzjw-2024-04-17-lu-jinwu]
+  outcome: sentenced
