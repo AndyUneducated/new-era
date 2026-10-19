@@ -1,0 +1,303 @@
+# E10: policies with landing events for integrated concepts (I01, I05, N01). Appended to the concepts' own lists.
+
+xi-economic-thought:
+  policies:
+    - date: 2017-12-20
+      name: 中央经济工作会议首次提出习近平经济思想
+      text: 以新发展理念为主要内容，用“七个坚持”概括，第一条是坚持加强党对经济工作的集中统一领导。
+      events: [e10-2017-cewc-xi-economic-thought]
+      cite: i03-gov-2017-12-20-xi-economic-thought
+    - date: 2023-10-31
+      name: 中央金融工作会议提出加快建设金融强国
+      text: 强调金融工作的政治性、人民性，坚持党中央对金融工作的集中统一领导。
+      events: [e10-2023-financial-work-conference]
+      cite: cs2-gov-2023-10-31-financial-work-conf
+
+xi-rule-of-law-thought:
+  policies:
+    - date: 2020-11-17
+      name: 中央全面依法治国工作会议确立习近平法治思想
+      text: 称其为全面依法治国的根本遵循和行动指南，要求在法治轨道上推进国家治理现代化。
+      events: [e10-2020-rule-of-law-conference]
+      cite: i03-gov-2020-11-17-rule-of-law-conference
+
+xi-diplomacy-thought:
+  policies:
+    - date: 2018-06-23
+      name: 中央外事工作会议概括外交思想的10个方面
+      text: 第一条是以维护党中央权威为统领加强党对对外工作的集中统一领导。
+      events: [e10-2018-foreign-affairs-conference]
+      cite: i03-gov-2018-06-23-foreign-affairs-conference
+
+xi-military-thought:
+  policies:
+    - date: 2014-10-30
+      name: 古田全军政治工作会议
+      text: 要求彻底肃清徐才厚案件影响，把理想信念、党性原则、战斗力标准、政治工作威信在全军立起来。
+      events: [e03-2014-gutian-political-work, e10-2016-guo-xu-poison-campaign]
+      cite: e03-gov-2014-11-01-gutian
+    - date: 2015-11-26
+      name: 中央军委改革工作会议
+      text: 形成军委管总、战区主战、军种主建的格局，实行军委多部门制、重新划设战区。
+      events: [e03-2015-military-reform-conference, e08-2016-five-theater-commands]
+      cite: e03-gov-2015-11-26-military-reform
+    - date: 2024-04-19
+      name: 组建信息支援部队
+      text: 训词要求贯彻新时代强军思想；信息支援部队由军委直接领导指挥，同时撤销战略支援部队番号。
+      events: [e10-2024-info-support-force]
+      cite: e10-gov-2024-04-19-info-support-force
+    - date: 2024-06-19
+      name: 延安中央军委政治工作会议
+      text: 概括新时代政治建军方略。
+      events: [e08-2024-yanan-political-work-conference]
+      cite: e08-gov-2024-06-19-yanan
+
+xi-culture-thought:
+  policies:
+    - date: 2018-08-22
+      name: 全国宣传思想工作会议
+      text: 提出举旗帜、聚民心、育新人、兴文化、展形象的使命任务。
+      events: [e10-2018-propaganda-conference]
+      cite: i05-gov-2018-08-22-propaganda-conference
+    - date: 2023-06-02
+      name: 文化传承发展座谈会
+      text: 提出建设中华民族现代文明是新时代新的文化使命。
+      events: [e10-2023-culture-symposium]
+      cite: i05-xinhua-2023-06-02-culture-symposium
+    - date: 2023-10-08
+      name: 全国宣传思想文化工作会议提出习近平文化思想
+      text: 会议名称首次加上“文化”二字。
+      events: [e10-2023-culture-thought-conference]
+      cite: i03-gov-2023-10-08-culture-thought
+
+people-centered:
+  policies:
+    - date: 2018-01-24
+      name: 扫黑除恶专项斗争
+      text: 把打击黑恶势力犯罪同反腐败、基层“拍蝇”结合起来。
+      events: [e10-2018-saohei-campaign]
+      cite: i06-gov-2018-01-24-saohei
+    - date: 2021-02-25
+      name: 宣告脱贫攻坚战全面胜利
+      text: 现行标准下9899万农村贫困人口全部脱贫，832个贫困县全部摘帽。
+      events: [e10-2021-poverty-ceremony]
+      cite: i06-gov-2021-02-25-poverty-speech
+
+party-leadership:
+  policies:
+    - date: 2018-03-21
+      name: 深化党和国家机构改革方案
+      text: 以加强党的全面领导为统领，四个中央领导小组改为委员会，公务员、新闻出版、电影、宗教工作划归党的部门。
+      events: [e10-2018-institution-reform-plan]
+      cite: e10-gov-2018-03-21-institution-reform
+    - date: 2023-03-16
+      name: 党和国家机构改革方案
+      text: 组建中央科技委员会，加强党中央对科技工作的集中统一领导；同时组建中央金融委员会、中央社会工作部。
+      events: [e05-2023-central-tech-commission]
+      cite: e05-gov-2023-03-16-reform-plan
+
+super-ministry:
+  policies:
+    - date: 2018-03-21
+      name: 深化党和国家机构改革方案
+      text: 组建自然资源部、生态环境部、农业农村部、文化和旅游部、国家卫生健康委员会、退役军人事务部、应急管理部。
+      events: [e10-2018-institution-reform-plan]
+      cite: e10-gov-2018-03-21-institution-reform
+
+governance-modernization:
+  policies:
+    - date: 2018-03-21
+      name: 深化党和国家机构改革方案
+      text: 以国家治理体系和治理能力现代化为导向改革机构设置、优化职能配置。
+      events: [e10-2018-institution-reform-plan]
+      cite: e10-gov-2018-03-21-institution-reform
+    - date: 2019-10-31
+      name: 十九届四中全会决定
+      text: 提出到2035年基本实现、新中国成立一百年时全面实现国家治理体系和治理能力现代化。
+      events: [e08-2019-fourth-plenum]
+      cite: e08-xinhua-2019-10-31-4th-plenum
+
+strict-governance:
+  policies:
+    - date: 2012-12-04
+      name: 中央八项规定
+      text: 改进工作作风、密切联系群众，从中央政治局做起。
+      events: [e2012-eight-point-rules]
+      cite: e02-cnfin-2012-12-04-eight-rules
+    - date: 2013-06-18
+      name: 党的群众路线教育实践活动
+      text: 集中解决形式主义、官僚主义、享乐主义和奢靡之风“四风”问题。
+      events: [e08-2013-mass-line-campaign]
+      cite: e08-xinhua-2013-06-18-mass-line
+    - date: 2019-05-31
+      name: “不忘初心、牢记使命”主题教育
+      text: 以县处级以上领导干部为重点，在全党开展。
+      events: [e10-2019-theme-education]
+      cite: i06-gov-2019-05-31-theme-education
+    - date: 2024-04-07
+      name: 党纪学习教育
+      text: 2024年4月至7月在全党学习修订后的《中国共产党纪律处分条例》。
+      events: [e10-2024-discipline-education]
+      cite: e10-gov-2024-04-07-discipline-education
+
+xi-thought:
+  policies:
+    - date: 2023-04-03
+      name: 学习贯彻习近平新时代中国特色社会主义思想主题教育
+      text: 以县处级以上领导干部为重点，要求党员干部接受政治体检、打扫政治灰尘。
+      events: [e10-2023-theme-education]
+      cite: i05-gov-2023-04-03-theme-education
+
+high-quality-development:
+  policies:
+    - date: 2023-07-18
+      name: 全国生态环境保护大会
+      text: 要求以高品质生态环境支撑高质量发展。
+      events: [e10-2023-eco-conference]
+      cite: i05-gov-2023-07-18-eco-conference
+    - date: 2024-03-05
+      name: 2024年政府工作报告首项任务
+      text: 大力推进现代化产业体系建设，加快发展新质生产力。
+      events: [e10-2024-gwr-npf]
+      cite: i02-gov-2024-gwr
+
+new-quality-productive-forces:
+  policies:
+    - date: 2023-09-08
+      name: 黑龙江考察提出加快形成新质生产力
+      text: 整合科技创新资源，引领发展战略性新兴产业和未来产业。
+      events: [e10-2023-heilongjiang-npf]
+      cite: i01-gov-2023-09-08-new-quality-productive-forces
+    - date: 2024-03-05
+      name: 写入政府工作报告十项任务的第一项
+      text: 以科技创新推动产业创新，加快推进新型工业化。
+      events: [e10-2024-gwr-npf]
+      cite: i02-gov-2024-gwr
+
+development-and-security:
+  policies:
+    - date: 2020-10-29
+      name: 十九届五中全会把统筹发展和安全写入“十四五”指导思想
+      text: 提出建设更高水平的平安中国，把安全发展贯穿国家发展各领域和全过程。
+      events: [fifth-plenum-19th]
+      cite: e04-xinhua-2020-10-29-5th-plenum
+    - date: 2023-05-30
+      name: 以新安全格局保障新发展格局
+      text: 二十届国安委第一次会议要求推动发展和安全深度融合。
+      events: [e10-2023-nsc-new-security-pattern]
+      cite: e10-gov-2023-05-30-nsc
+
+holistic-security:
+  policies:
+    - date: 2014-04-15
+      name: 中央国家安全委员会第一次会议
+      text: 提出坚持总体国家安全观，走出一条中国特色国家安全道路。
+      events: [e10-2014-first-nsc-meeting]
+      cite: i01-gov-2014-04-15-holistic-security
+    - date: 2023-05-30
+      name: 二十届中央国家安全委员会第一次会议
+      text: 审议通过加快建设国家安全风险监测预警体系、全面加强国家安全教育的意见。
+      events: [e10-2023-nsc-new-security-pattern]
+      cite: e10-gov-2023-05-30-nsc
+
+bottom-line-thinking:
+  policies:
+    - date: 2019-01-21
+      name: 省部级主要领导干部坚持底线思维着力防范化解重大风险专题研讨班
+      text: 分析政治、意识形态、经济、科技、社会、外部环境、党的建设七个领域的重大风险。
+      events: [e10-2019-risk-seminar]
+      cite: i05-gov-2019-01-21-risk-seminar
+
+struggle-spirit:
+  policies:
+    - date: 2019-09-03
+      name: 中央党校中青年干部培训班讲话
+      text: 要求发扬斗争精神，增强斗争本领。
+      events: [e10-2019-struggle-speech]
+      cite: i05-gov-2019-09-03-struggle-speech
+
+great-changes:
+  policies:
+    - date: 2017-12-28
+      name: 驻外使节工作会议
+      text: 称放眼世界，我们面对的是百年未有之大变局。
+      events: [e10-2017-envoys-great-changes]
+      cite: i05-gov-2017-12-28-envoys
+    - date: 2021-02-20
+      name: 党史学习教育
+      text: 称这是统筹中华民族伟大复兴战略全局和世界百年未有之大变局作出的重大决策。
+      events: [e10-2021-party-history-education]
+      cite: i06-gov-2021-02-20-party-history
+
+two-combinations:
+  policies:
+    - date: 2023-06-02
+      name: 文化传承发展座谈会阐述“第二个结合”
+      text: 称“结合”的前提是彼此契合，结果是互相成就。
+      events: [e10-2023-culture-symposium]
+      cite: i05-xinhua-2023-06-02-culture-symposium
+
+common-values:
+  policies:
+    - date: 2015-09-28
+      name: 第七十届联大一般性辩论讲话
+      text: 和平、发展、公平、正义、民主、自由，是全人类的共同价值。
+      events: [e10-2015-unga-common-values]
+      cite: i05-gov-2015-09-29-unga
+    - date: 2023-03-15
+      name: 全球文明倡议
+      text: 倡导弘扬全人类共同价值，不将自己的价值观和模式强加于人。
+      events: [e10-2023-gci]
+      cite: i05-gov-2023-03-15-gci
+
+global-initiatives:
+  policies:
+    - date: 2021-09-21
+      name: 全球发展倡议
+      text: 第七十六届联大一般性辩论上提出。
+      events: [e10-2021-gdi]
+      cite: i05-gov-2021-09-22-unga-gdi
+    - date: 2022-04-21
+      name: 全球安全倡议
+      text: 博鳌亚洲论坛年会开幕式上提出。
+      events: [e10-2022-gsi]
+      cite: i05-gov-2022-04-21-boao-gsi
+    - date: 2023-03-15
+      name: 全球文明倡议
+      text: 中国共产党与世界政党高层对话会上提出。
+      events: [e10-2023-gci]
+      cite: i05-gov-2023-03-15-gci
+    - date: 2025-09-01
+      name: 全球治理倡议
+      text: 天津“上海合作组织+”会议上提出。
+      events: [e10-2025-ggi]
+      cite: i05-gov-2025-09-01-sco-plus
+
+community-shared-future:
+  policies:
+    - date: 2015-09-28
+      name: 联大讲话“同心打造人类命运共同体”
+      text: 主张构建以合作共赢为核心的新型国际关系。
+      events: [e10-2015-unga-common-values]
+      cite: i05-gov-2015-09-29-unga
+    - date: 2025-09-01
+      name: 全球治理倡议
+      text: 推动构建更加公正合理的全球治理体系，携手迈向人类命运共同体。
+      events: [e10-2025-ggi]
+      cite: i05-gov-2025-09-01-sco-plus
+
+ecological-civilization:
+  policies:
+    - date: 2023-07-18
+      name: 全国生态环境保护大会
+      text: 称今后5年是美丽中国建设的重要时期。
+      events: [e10-2023-eco-conference]
+      cite: i05-gov-2023-07-18-eco-conference
+
+third-resolution:
+  policies:
+    - date: 2021-02-20
+      name: 党史学习教育
+      text: 在全党开展，要求学史明理、学史增信、学史崇德、学史力行。
+      events: [e10-2021-party-history-education]
+      cite: i06-gov-2021-02-20-party-history
