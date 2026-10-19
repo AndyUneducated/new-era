@@ -1,0 +1,268 @@
+# U08: rise records for sitting provincial government heads.
+web:
+  # ---- 殷勇 ----
+  - { id: u08-tsinghua-2014-05-06-yin-yong-speech, title: "清华大学经济管理学院建院30周年重聚共叙校友代表殷勇发言", publisher: 清华大学经济管理学院校友会, date: 2014-05-06, voice: witness, url: "https://alumni.sem.tsinghua.edu.cn/info/1002/1511.htm", start: "尊敬的各位来宾", end: "谢谢大家！" }
+  - id: u08-sina-2018-01-19-yin-yong
+    title: "央行副行长殷勇任北京副市长 朱镕基曾称他为娃娃"
+    publisher: 新浪财经（来源：政事儿）
+    date: 2018-01-19
+    voice: zh
+    url: https://finance.sina.cn/china/gncj/2018-01-19/detail-ifyquptv7948385.d.html
+    excerpt: true
+    keep: [ "卢彦这样评价殷勇", "在公开资料中，围绕殷勇", "2003年时33岁", "除了年轻，殷勇还是" ]
+  - { id: u08-xinhua-2018-01-19-yin-yong, title: "殷勇任北京市副市长", publisher: 新华网（来源：中国新闻网）, date: 2018-01-19, voice: official, url: "https://www.xinhuanet.com/politics/2018-01/19/c_1122285261.htm", start: "19日，北京市第十四届人大常委会", end: "（简历来源：中国经济网）" }
+  - id: u08-sina-2023-01-30-yin-yong
+    title: "首位“金融副省长”转正！53岁殷勇出任北京市市长，曾任央行副行长"
+    publisher: 新浪财经
+    date: 2023-01-30
+    voice: zh
+    url: https://finance.sina.com.cn/money/bank/bank_hydt/2023-01-30/doc-imycyiei4210091.shtml
+    excerpt: true
+    keep: [ "2022年6月30日下午", "公开资料显示，殷勇出生于", "具体来看，1996年", "2015年8月，殷勇调任", "在任职央行副行长期间" ]
+  # ---- 孔绍逊 ----
+  - id: u08-cna-2026-09-29-kong-shaoxun
+    title: "中共20大帶離胡錦濤 孔紹遜任甘肅省長"
+    publisher: 中央社
+    date: 2026-09-29
+    voice: west
+    url: https://www.cna.com.tw/news/acn/202609290174.aspx
+    excerpt: true
+    keep: [ "（中央社記者呂佳蓉北京29日電）", "孔紹遜1991年大學畢業後", "2022年10月22日日中共20大閉幕會上" ]
+  - id: u08-caixin-2026-08-30-kong-shaoxun
+    title: "人事观察｜接替任振鹤 中办副主任孔绍逊任甘肃政府一把手"
+    publisher: 财新网
+    date: 2026-08-30
+    voice: zh
+    url: https://china.caixin.com/2026-08-30/102479834.html
+    excerpt: true
+    keep: [ "孔绍逊早年任职家乡宁夏", "孔绍逊现年57岁" ]
+  - id: u08-guancha-2026-09-02-kong-shaoxun
+    title: "孔绍逊任甘肃省代省长，任振鹤因工作变动辞去省长职务"
+    publisher: 观察者网
+    date: 2026-09-02
+    voice: zh
+    url: https://www.guancha.cn/ChengShi/2026_09_02_829716.shtml
+    excerpt: true
+    keep: [ "会议决定任命孔绍逊", "孔绍逊历任宁夏银川市" ]
+  - id: u08-rfa-2022-04-18-kong-shaoxun
+    title: "【中共人事】習近平貼身秘書「低調亮相」 對台作戰方案制定者換人"
+    publisher: 自由亚洲电台粤语部
+    date: 2022-04-18
+    voice: west
+    url: https://www.rfa.org/cantonese/news/sec-04182022050147.html
+    excerpt: true
+    keep: [ "根據陸媒報道，中共中央辦公廳秘書局局長", "原中辦人事局局長孔紹遜", "分析指出，中辦秘書局局長" ]
+  # ---- 王正谱 / 2010 年央地交流 ----
+  - { id: u08-chinanews-2010-12-06-66-cadres, title: "66名中央到地方交流任职干部到任 19人主政一方", publisher: 中国新闻网（来源：解放日报）, date: 2010-12-06, voice: official, url: "http://www.chinanews.com.cn/gn/2010/12-06/2701776.shtml", start: "由中组部集中选派到地方交流任职的66名", end: "任宁夏银川市委常委" }
+  - id: u08-bjnews-2021-10-21-wang-zhengpu
+    title: "王正谱任河北省代省长"
+    publisher: 新京报（政事儿）
+    date: 2021-10-21
+    voice: zh
+    url: https://m.bjnews.com.cn/detail/163478606114165.html
+    excerpt: true
+    keep: [ "官方履历显示，王正谱1963年8月生", "在原农业部期间", "2010年，中组部集中选派66名", "2015年10月，王正谱调任", "2003.08—2008.03农业部财务司副司长", "2016.10—2018.08辽宁省委常委", "2021年10月任河北省委副书记" ]
+  - id: u08-nbd-2022-01-21-wang-zhengpu
+    title: "去代转正，河北省长王正谱如何交出两份“答卷”？"
+    publisher: 每日经济新闻·城市进化论（澎湃号）
+    date: 2022-01-21
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_16378466
+    excerpt: true
+    keep: [ "去年10月，王正谱", "与此同时，就在1月13日", "2010年，中组部发起改革开放以来规模最大", "主政辽阳5年后", "当时，在辽宁省委组织部召开的机关干部大会上", "2021年1月，王正谱正式调离四川" ]
+  # ---- 李炳军 ----
+  - { id: u08-people-2020-11-24-li-bingjun, title: "李炳军任贵州省代省长（图/简历）", publisher: 人民网-中国共产党新闻网, date: 2020-11-24, voice: official, url: "http://renshi.people.com.cn/n1/2020/1124/c139617-31942804.html", start: "中国共产党新闻网北京11月24日电", end: "代理省长、省政府党组书记。" }
+  - { id: u08-chinanews-2015-06-19-li-bingjun, title: "3省新晋4名省委常委 李炳军成江西最年轻常委", publisher: 中国新闻网（来源：新京报）, date: 2015-06-19, voice: official, url: "https://www.chinanews.com.cn/gn/2015/06-19/7354636.shtml", start: "从国务院办公厅“空降”到江西两年后", end: "是最年轻的一位。" }
+  # ---- 周乃翔 ----
+  - { id: u08-people-2019-09-02-zhou-naixiang, title: "周乃翔任中国建筑集团有限公司董事长(图/简历)", publisher: 人民网-中国共产党新闻网, date: 2019-09-02, voice: official, url: "http://renshi.people.com.cn/n1/2019/0902/c139617-31331922.html", start: "中国共产党新闻网北京9月2日电", end: "十九届中央候补委员。" }
+  - id: u08-crej-2021-10-11-zhou-naixiang
+    title: "“期待把江苏经验带到山东”！担任中建集团董事长两年后周乃翔回归政坛"
+    publisher: 中国房地产报（新浪财经转载）
+    date: 2021-10-11
+    voice: zh
+    url: https://finance.sina.cn/2021-10-11/detail-iktzscyx9061631.d.html
+    excerpt: true
+    keep: [ "担任中建集团董事长两年后，周乃翔近日回归政坛", "一直到2003年，周乃翔开启从政之路", "这几年，苏州GDP", "2019年9月，周乃翔离开苏州", "在装配式建筑的应用上" ]
+  # ---- 毛伟明 ----
+  - { id: u08-cctv-2020-12-01-mao-weiming, title: "人物简历：毛伟明", publisher: 央视网, date: 2020-12-01, voice: official, url: "https://news.cctv.com/2020/12/01/ARTIdvn3oeAzMMPiBpXkrCrd201201.shtml", start: "毛伟明，男，汉族，1961年5月出生", end: "副省长、代理省长；" }
+  # ---- 刘捷 ----
+  - { id: u08-cug-2025-02-05-liu-jie, title: "校友履新｜刘捷校友任浙江省人民政府省长", publisher: 中国地质大学校友会, date: 2025-02-05, voice: official, url: "https://alum.cug.edu.cn/info/1039/24361.htm", start: "1992.08至1996.10", end: "省政府党组书记、省长。" }
+  - id: u08-jfdaily-2025-01-17-liu-jie
+    title: "刘捷当选浙江省省长"
+    publisher: 上观新闻（腾讯新闻转载）
+    date: 2025-01-17
+    voice: zh
+    url: https://news.qq.com/rain/a/20250117A05PPR00
+    excerpt: true
+    keep: [ "2008年8月，38岁的刘捷", "在新余工作期间", "2016年9月，刘捷调任", "2018年5月，刘捷第二次跨省" ]
+  # ---- 韦韬 ----
+  - id: u08-bjnews-2021-11-01-wei-tao
+    title: "韦韬任太原市委书记"
+    publisher: 新京报（政事儿）
+    date: 2021-11-01
+    voice: zh
+    url: https://m.bjnews.com.cn/detail/163576302614050.html
+    excerpt: true
+    keep: [ "官方履历显示，韦韬", "2016年1月，韦韬任广西北部湾", "去年3月，韦韬回到广西", "1992.07--1997.09 柳州钢铁厂" ]
+  - id: u08-caixin-2025-07-18-wei-tao
+    title: "人事观察｜补缺落马前任蓝天立 55岁韦韬升任广西自治区政府主席"
+    publisher: 财新网
+    date: 2025-07-18
+    voice: zh
+    url: https://china.caixin.com/2025-07-18/102342452.html
+    excerpt: true
+    keep: [ "韦韬曾在家乡广西工作近29年", "至此，韦韬成为继李云泽", "稍早前的7月1日" ]
+  # ---- 朱忠明 ----
+  - { id: u08-hunan-2020-04-28-zhu-zhongming, title: "副省长朱忠明简历", publisher: 湖南省人民政府门户网站, date: 2020-04-28, voice: official, url: "http://www.hunan.gov.cn/hnszf/szf/zfld/zzm/zzmjl/202004/t20200427_12012889.html", start: "朱忠明，男，汉族，1972年4月出生", end: "湖南省人民政府副省长、党组成员" }
+  - id: u08-21jingji-2024-07-19-zhu-zhongming
+    title: "财政部副部长朱忠明履新上海市委副书记"
+    publisher: 21世纪经济报道
+    date: 2024-07-19
+    voice: zh
+    url: http://www.21jingji.com/article/20240719/herald/a33152a0dea22e61ca986786be0f3f52.html
+    excerpt: true
+    keep: [ "2008年，朱忠明出任浙江省财政厅副厅长", "2015年7月，43岁的朱忠明", "履新3个月后，朱忠明跨省履新", "在主政温州期间" ]
+  # ---- 王东伟 ----
+  - id: u08-cncn-2025-10-16-wang-dongwei
+    title: "中央批准：王东伟任安徽省委常委（附简历）"
+    publisher: 中国城市报（澎湃号）
+    date: 2025-10-16
+    voice: zh
+    url: https://m.thepaper.cn/baijiahao_31794436
+    excerpt: true
+    keep: [ "1992.07—1994.07，财政部人事教育司", "2001.11—2003.11，财政部国库支付中心", "2008—2017，历任财政部国库支付中心", "2017.03—2021.10", "2021.10—2021.11", "2022.07—2025.10" ]
+  # ---- 张工 ----
+  - { id: u08-samr-2020-08-zhang-gong, title: "张工（总局领导个人简历）", publisher: 国家市场监督管理总局, date: 2020-08, voice: official, url: "https://www.samr.gov.cn/jg/zjld/zg/", start: "张工，男，汉族，1961年8月生", end: "2020.08-- 国家市场监督管理总局党组书记、局长" }
+  - id: u08-bjnews-2020-08-12-zhang-gong
+    title: "张工任国家市场监管总局局长"
+    publisher: 新京报
+    date: 2020-08-12
+    voice: zh
+    url: https://www.bjnews.com.cn/detail/159719956715361.html
+    excerpt: true
+    keep: [ "2012年，张工任北京市副市长", "2017年2月至2017年6月" ]
+  # ---- 卢东亮 ----
+  - id: u08-cncn-2025-06-18-lu-dongliang
+    title: "卢东亮当选山西省省长（附简历）"
+    publisher: 中国城市报（澎湃号）
+    date: 2025-06-18
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_30998536
+    excerpt: true
+    keep: [ "1995.07—1998.05 中国有色", "2009.12—2013.03", "2016.04—2016.11", "2019.02—2020.05", "2020.05—2021.10", "2021.11—2024.12", "2024.12—2025.05", "2025.06— 山西省委副书记" ]
+  # ---- 王新伟 ----
+  - { id: u08-chinadaily-2021-10-31-wang-xinwei, title: "王新伟任辽宁省委常委、沈阳市委书记", publisher: 中国日报网（来源：人民日报客户端辽宁频道）, date: 2021-10-31, voice: official, url: "https://ln.chinadaily.com.cn/a/202110/31/WS617e4f21a3107be4979f5bb7.html", start: "王新伟，男，汉族，1967年8月出生", end: "2021.02 沈阳市委副书记、市长、市政府党组书记" }
+  - id: u08-zaobao-2025-03-01-wang-xinwei
+    title: "沈阳市委书记王新伟履新辽宁代省长"
+    publisher: 联合早报
+    date: 2025-03-01
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20250301-5951440
+    excerpt: true
+    keep: [ "王新伟1991年参加工作后", "王新伟在2021年1月跨省履新辽宁", "据财新网梳理" ]
+  # ---- 包钢 ----
+  - id: u08-thepaper-2021-09-24-bao-gang
+    title: "内蒙古自治区副主席包钢任呼和浩特市委书记"
+    publisher: 澎湃新闻
+    date: 2021-09-24
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_14640935
+    excerpt: true
+    keep: [ "包钢长期在内蒙古自治区内工作", "此前，呼和浩特市委书记一职" ]
+  # ---- 梁惠玲 ----
+  - id: u08-sdsb-2022-12-09-liang-huiling
+    title: "正部级女将北上黑龙江，成全国第二位女性省级政府“一把手”"
+    publisher: 山东商报·速豹新闻网（政东方）
+    date: 2022-12-09
+    voice: zh
+    url: https://view.inews.qq.com/a/20221209A046CS00
+    excerpt: true
+    keep: [ "早年，梁惠玲曾长期在家乡湖北工作", "2016年12月，梁惠玲由湖北北上河北", "2021年7月，梁惠玲出任", "同时，此番调整过后" ]
+  - id: u08-thepaper-2017-01-04-liang-huiling
+    title: "湖北省委常委、统战部长梁惠玲转任河北省委常委、省纪委书记"
+    publisher: 澎湃新闻（来源：人民网）
+    date: 2017-01-04
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1593327
+    excerpt: true
+    keep: [ "1984.12 共青团襄樊市委副书记", "1995.02 谷城县委副书记", "1998.03 孝感市政府副市长", "2008.07 湖北省妇女联合会主席", "2013.01 湖北省政府副省长" ]
+  # ---- 刘小涛 ----
+  - { id: u08-xinhua-2025-10-11-liu-xiaotao, title: "刘小涛", publisher: 新华网江苏频道, date: 2025-10-11, voice: official, url: "http://www.js.xinhuanet.com/20251011/950ec9d9411742a68af5b3f924a4f591/c.html", start: "刘小涛，男，汉族，1970年7月生", end: "副省长、代省长、省政府党组书记" }
+  - id: u08-zaobao-2025-10-14-liu-xiaotao
+    title: "全中国唯一“三非”省级政府一把手 刘小涛转正江苏省长"
+    publisher: 联合早报
+    date: 2025-10-14
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251014-7664462
+    excerpt: true
+    keep: [ "刘小涛也是目前全中国唯一“三非”", "2020年，刘小涛首次跨省", "刘小涛地方主政经验丰富", "专研中共党政体系的台湾政治大学" ]
+  # ---- 王陆进 ----
+  - id: u08-eeo-2020-08-25-wang-lujin
+    title: "人事变动 | 王陆进履新审计署副审计长"
+    publisher: 经济观察网
+    date: 2020-08-25
+    voice: zh
+    url: http://www.eeo.com.cn/2020/0825/404131.shtml
+    excerpt: true
+    keep: [ "王陆进1968年10月生于江苏丹阳", "1990年至1992年，在中南财经大学任教", "2004年03月，任国家税务总局办公厅副主任", "2018年06月，任国家税务总局党组成员、副局长" ]
+  - id: u08-thepaper-2024-06-28-wang-lujin
+    title: "驻金融监管总局纪检监察组组长王陆进任河北省委副书记"
+    publisher: 澎湃新闻
+    date: 2024-06-28
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_27893487
+    excerpt: true
+    keep: [ "2022年10月，时年54岁", "国务院机构改革后" ]
+  # ---- 李殿勋 ----
+  - id: u08-cncn-2025-01-06-li-dianxun
+    title: "李殿勋任湖北省代省长（附简历）"
+    publisher: 中国城市报（澎湃号）
+    date: 2025-01-06
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_29837383
+    excerpt: true
+    keep: [ "1991.07—1997.06 四川省重庆市政府法制局", "1998.04—2000.12", "2000.12—2003.02", "2003.02—2009.03", "2009.03—2013.02", "2018.01—2018.03", "2019.05—2021.12", "2024.12—2025.01" ]
+  # ---- 刘小明 ----
+  - id: u08-sciencenet-2023-06-05-liu-xiaoming
+    title: "刘小明当选海南省省长，曾任高校副校长"
+    publisher: 科学网
+    date: 2023-06-05
+    voice: zh
+    url: https://news.sciencenet.cn/htmlnews/2023/6/502261.shtm
+    excerpt: true
+    keep: [ "1988-1990年 北京工业大学土木工程系工作", "2000-2003年 北京工业大学副校长", "2003-2008年 北京市交通委员会副主任", "2016-2021年 交通运输部副部长" ]
+  - { id: u08-12371-2023-04-01-liu-xiaoming, title: "刘小明任海南省委副书记", publisher: 七一网（来源：海南日报客户端）, date: 2023-04-01, voice: official, url: "https://m.12371.gov.cn/content/2023-04/01/content_433707.html", start: "近日，中共中央批准：刘小明", end: "刘小明是二十届中央委员。" }
+  # ---- 施小琳 ----
+  - { id: u08-ce-2021-08-29-shi-xiaolin, title: "施小琳任四川省委常委、成都市委书记 范锐平另有任用(图|简历)", publisher: 中国经济网, date: 2021-08-29, voice: official, url: "http://district.ce.cn/newarea/sddy/202108/29/t20210829_36857527.shtml", start: "中国经济网成都8月29日综合报道", end: "2021- 四川省委常委、成都市委书记" }
+  # ---- 陈新武 ----
+  - id: u08-thepaper-2023-07-06-chen-xinwu
+    title: "中央批准，陈新武履新！（附简历）"
+    publisher: 澎湃新闻（澎湃号·媒体）
+    date: 2023-07-06
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_23753176
+    excerpt: true
+    keep: [ "据重庆日报微信公众号7月6日消息", "参加湖北省委组织部组织的青年干部赴美培训班", "共青团黄冈市委书记", "黄梅县委副书记、县长", "湖北省交通厅副厅长", "省援疆工作前方指挥部总指挥", "十堰市委副书记、市人民政府市长", "2022.06，湖北省委常委" ]
+  # ---- 嘎玛泽登 ----
+  - id: u08-guancha-2025-01-22-gama-zedeng
+    title: "嘎玛泽登当选西藏自治区人民政府主席"
+    publisher: 观察者网（综合中新网）
+    date: 2025-01-22
+    voice: zh
+    url: https://www.guancha.cn/politics/2025_01_22_762907.shtml
+    excerpt: true
+    keep: [ "补选嘎玛泽登为西藏自治区人民政府主席", "嘎玛泽登曾历任尼玛县委副书记", "2020年10月至2021年10月", "此后，他回到西藏", "两天后，5月30日" ]
+  # ---- 赵刚 ----
+  - { id: u08-ce-2018-09-30-zhao-gang, title: "中国一重集团董事、总经理、党委副书记赵刚(图|简历)", publisher: 经济日报-中国经济网, date: 2018-09-30, voice: official, url: "http://www.ce.cn/cysc/rs/yqrs/201809/30/t20180930_30420983.shtml", start: "赵刚，男，汉族，1968年6月出生", end: "（责任编辑：刘朋）" }
+  - id: u08-oeeee-2022-11-29-zhao-gang
+    title: "延安市委书记赵刚任陕西省政府党组书记，曾长期任职军工央企"
+    publisher: 南方都市报
+    date: 2022-11-29
+    voice: zh
+    url: https://m.mp.oeeee.com/a/BAAFRD000020221129744450.html
+    excerpt: true
+    keep: [ "赵刚曾在多家央企工作了25年", "在多家大型央企工作了25年后" ]
+  # ---- 张雨浦 ----
+  - { id: u08-xinhua-2022-07-31-zhang-yupu, title: "宁夏政府主席张雨浦", publisher: 新华网宁夏频道（来源：宁夏新闻网）, date: 2022-07-31, voice: official, url: "http://nx.news.cn/2022-07/31/c_1128634201.htm", start: "张雨浦，男，回族", end: "十二届、十三届全国人大代表" }
+  # ---- 艾尔肯·吐尼亚孜 ----
+  - { id: u08-cctv-2021-10-01-erkin, title: "人物简历：艾尔肯·吐尼亚孜", publisher: 央视网（来源：人民网）, date: 2021-10-01, voice: official, url: "https://news.cctv.com/2021/10/01/ARTIG52hHcHDmZLiHTIaUy8v211001.shtml", start: "艾尔肯·吐尼亚孜，男，维吾尔族", end: "十七大代表。" }
