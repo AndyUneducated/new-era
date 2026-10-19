@@ -1,0 +1,56 @@
+# C14 sources: dossier cards for people named in the I11 concepts (去政治化, 北京共识, 历史周期率, 鸟笼经济, 郎顾之争,
+# 中央一号文件, 天网与猎狐, 反内卷, 自主创新, 英烈法) who had no card
+web:
+  # --- 马戎 ---
+  - { id: c14-pku-nsd-ma-rong, title: 马戎（师资介绍）, publisher: 北京大学国家发展研究院, date: 2010-04-27, voice: zh, url: "https://www.nsd.pku.edu.cn/sylm/gd/259338.htm", excerpt: true, keep: [ 北京大学社会学系教授, 美国布朗大学社会学系博士, 北京大学社会学人类学研究所所长, 北京大学社会学系主任 ] }
+  - { id: c14-zhmzgtt-2021-04-13-ma-rong, title: 马戎（专家介绍）, publisher: 中华民族共同体网, date: 2021-04-13, voice: official, url: "http://www.zhmzgtt.com.cn/gtt_zjtd/gtt_zjjs/202104/t20210422_5928478.html", excerpt: true, keep: [ 马戎，男，回族 ] }
+  - { id: c14-pku-2024-09-27-ma-rong, title: 北京大学马戎教授获评全国民族团结进步模范个人, publisher: 北京大学新闻网, date: 2024-09-27, voice: zh, url: "http://news.pku.edu.cn/info/7731/888081.htm", excerpt: true, keep: [ 全国民族团结进步表彰大会, 马戎是中国民族问题研究领域著名学者 ] }
+  # --- 乔舒亚·库珀·雷默 ---
+  - { id: c14-wiki-en-joshua-cooper-ramo, title: Joshua Cooper Ramo (Wikipedia), publisher: Wikipedia, date: 2026-10, voice: wiki, lang: en, url: "https://en.wikipedia.org/wiki/Joshua_Cooper_Ramo", excerpt: true, keep: [ "Joshua Cooper Ramo (born December 14, 1968)", Ramo began his career as a journalist, Prompted by an interest in business, "In 2004 he published" ] }
+  - { id: c14-hku-cccw-ramo, title: "Joshua Cooper RAMO 約書亞·雷默", publisher: Centre on Contemporary China and the World, University of Hong Kong, date: 2026-10, voice: scholar, lang: en, url: "https://www.cccw.hku.hk/team/joshua-cooper-ramo/", excerpt: true, keep: [ "Joshua Cooper Ramo is currently the Chairman", "Previously, Mr. Ramo served" ] }
+  # --- 黄炎培 ---
+  - { id: c14-cppcc-huang-yanpei, title: 黄炎培（1878—1965）, publisher: 中国政协网, date: 2011-09-28, voice: official, url: "http://www.cppcc.gov.cn/2011/09/28/ARTI1317197421328331.shtml", excerpt: true, keep: [ 字任之，号楚南, 中国人民政治协商会议第二、三、四届全国委员会副主席 ] }
+  - { id: c14-wiki-huang-yanpei, title: 黄炎培（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/黄炎培", excerpt: true, keep: [ "黄炎培（1878年10月1日—1965年12月21日）", 书中记录了他与毛泽东有关, 反对对农民实行粮食统购统销 ] }
+  # --- 黄克诚 ---
+  - { id: c14-gov-2008-huang-kecheng, title: 黄克诚, publisher: 中央政府门户网站, date: 2008-10-16, voice: official, url: "https://web.archive.org/web/20230810235521/https://www.gov.cn/gjjg/2008-10/16/content_1122661.htm", excerpt: true, keep: [ 出身于湖南省永兴县, 任中国人民解放军副总参谋长兼总后勤部部长, 庐山会议上, 中纪委常务书记, 被授予大将军衔, 因病在北京逝世 ] }
+  - { id: c14-ccdi-huang-kecheng, title: 初心·故事丨中央纪委原常务书记黄克诚：抓党风，“不怕撕破脸皮”, publisher: 中央纪委国家监委网站, date: 2019-07-03, voice: official, url: "http://m.ccdi.gov.cn/content/20/47/45983.html", excerpt: true, keep: [ 1902年10月1日，黄克诚出生, 黄克诚当选为中共中央纪律检查委员会常务书记, 黄克诚被选为中央纪委第二书记, 1986年12月28日，黄克诚在北京逝世 ] }
+  # --- 胡联合 ---
+  - { id: c14-jamestown-2018-10-10-hu-lianhe, title: "Hu the Uniter: Hu Lianhe and the Radical Turn in China's Xinjiang Policy", publisher: Jamestown Foundation China Brief, author: James Leibold, date: 2018-10-10, voice: scholar, lang: en, url: "https://jamestown.org/hu-the-uniter-hu-lianhe-and-the-radical-turn-in-chinas-xinjiang-policy/", excerpt: true, keep: [ He was born in Shaoyang, "By 1999 Hu Lianhe was listed", second generation of ethnic policies ] }
+  - { id: c14-thepaper-2014-09-19-xinjiang-group, title: 涨知识 | 告诉你一个完整的中央新疆工作协调小组, publisher: 澎湃新闻, date: 2014-09-19, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1267650", excerpt: true, keep: [ 胡联合和李兴民, 胡联合以中央新疆办副主任身份 ] }
+  - { id: c14-nytcn-2018-08-14-xinjiang-un, title: “不存在这种东西”：中国否认在新疆建再教育营, publisher: 纽约时报中文网, date: 2018-08-14, voice: west, url: "https://cn.nytimes.com/china/20180814/china-xinjiang-un/", excerpt: true, keep: [ 不存在再教育营这种东西, 一个49人的中国代表团 ] }
+  - { id: c14-treasury-2023-12-08-hu-lianhe, title: Treasury Designates Perpetrators of Human Rights Abuse and Commemorates the 75th Anniversary of the Universal Declaration of Human Rights, publisher: U.S. Department of the Treasury, date: 2023-12-08, voice: west, lang: en, url: "https://home.treasury.gov/news/press-releases/jy1972", excerpt: true, keep: [ Hu Lianhe, Hu has served as the Deputy Office Director ] }
+  # --- 杨瑞龙 ---
+  - { id: c14-ruc-2026-05-16-yang-ruilong, title: 经济学院杨瑞龙教授论文《迈向更加自主的经济学研究范式》在《中国社会科学》上发表, publisher: 中国人民大学经济学院, date: 2026-05-16, voice: zh, url: "https://econ.ruc.edu.cn/kxyj/kycg/xslw/1d6a03f94a0a49be9217aacc1cb9a313.htm", excerpt: true, keep: [ 杨瑞龙，中国人民大学一级教授 ] }
+  - { id: c14-ruc-2019-09-yang-ruilong, title: 政治经济学大讲堂：杨瑞龙“中国特色社会主义经济理论的方法论与基本逻辑”, publisher: 中国人民大学经济学院, date: 2019-09-01, voice: zh, url: "http://econ.ruc.edu.cn/kxyj/pplt/zzjjxjt/9f3ad172dd8441e486cc5c83865cc6c9.htm", excerpt: true, keep: [ 曾任中国人民大学经济学院院长 ] }
+  - { id: c14-ruc-news-yang-ruilong, title: 为学为师 | 杨瑞龙：守住老师的本色, publisher: 中国人民大学新闻网, date: 2025-09, voice: zh, url: "https://news.ruc.edu.cn/703146220811718.html", excerpt: true, keep: [ 我是1990年博士毕业留校任教的 ] }
+  # --- 周放生 ---
+  - { id: c14-sasac-2005-04-14-deputy-dg, title: 企业改革局等局副局级领导职位竞争上岗考察预告, publisher: 国务院国有资产监督管理委员会, date: 2005-04-14, voice: official, url: "http://www.sasac.gov.cn/n2588020/n2588072/n2591586/n2591588/c3740276/content.html", excerpt: true, keep: [ 改革局副局长职位 ] }
+  - { id: c14-cnr-2015-09-24-zhou-fangsheng, title: 周放生, publisher: 央广网, date: 2015-09-24, voice: official, url: "http://finance.cnr.cn/zt/dg2015/september/jbjs/20150924/t20150924_519961943.shtml", excerpt: true, keep: [ 中国企业改革与发展研究会副会长 ] }
+  - { id: c14-askci-zhou-fangsheng, title: 周放生个人简介（中国外运高管资料）, publisher: 中商情报网, date: 2026-10, voice: zh, url: "https://s.askci.com/stock/executives/601598/b16b8cd811b37dd5.shtml", excerpt: true, keep: [ 周放生，1949年出生 ] }
+  # --- 汪文斌 ---
+  - { id: c14-chinanews-2020-07-17-wang-wenbin, title: 中国外交部新任发言人汪文斌亮相, publisher: 中国新闻网, date: 2020-07-17, voice: official, url: "https://www.chinanews.com/gn/2020/07-17/9241171.shtml", excerpt: true, keep: [ 以发言人身份正式亮相, 汪文斌，男，1971年4月生, 驻突尼斯大使, 外交部新闻司副司长； ] }
+  - { id: c14-fmprc-2024-07-05-ambassadors, title: 国家主席习近平任免驻外大使, publisher: 外交部, date: 2024-07-05, voice: official, url: "https://www.fmprc.gov.cn/zyxw/202407/t20240705_11449128.shtml", excerpt: true, keep: [ 任命汪文斌为中华人民共和国驻柬埔寨王国特命全权大使 ] }
+  - { id: c14-wiki-wang-wenbin, title: 汪文斌（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/汪文斌", excerpt: true, keep: [ 安徽桐城人, 2018年5月至2020年 ] }
+  # --- 盖保德 ---
+  - { id: c14-gwu-albert-keidel, title: Albert Keidel, publisher: Elliott School of International Affairs, George Washington University, date: 2026-10, voice: scholar, lang: en, url: "https://elliott.gwu.edu/albert-keidel", excerpt: true, keep: [ Albert Keidel is a development economist, "He received a BA" ] }
+  - { id: c14-carnegie-albert-keidel, title: Albert Keidel, publisher: Carnegie Endowment for International Peace, date: 2026-10, voice: scholar, lang: en, url: "https://carnegieendowment.org/people/dr-albert-keidel", excerpt: true, keep: [ joined the Carnegie Endowment in September 2004, senior economist in the World Bank office in Beijing ] }
+  # --- 张文中 ---
+  - { id: c14-court-2018-05-31-zhang-wenzhong, title: 张文中诈骗、单位行贿、挪用资金再审判决书, publisher: 最高人民法院, date: 2018-05-31, voice: doc, url: "https://www.court.gov.cn/zixun/xiangqing/99282.html", excerpt: true, keep: [ 原审被告人张文中，男，汉族, 判决发生法律效力后, 原审被告人张文中无罪 ] }
+  - { id: c14-court-2018-05-31-zhang-wenzhong-news, title: 最高人民法院再审改判张文中无罪, publisher: 最高人民法院, date: 2018-05-31, voice: official, url: "https://www.court.gov.cn/zixun/xiangqing/99252.html", excerpt: true, keep: [ 改判张文中无罪, 2007年12月25日 ] }
+  - { id: c14-wumart-about, title: 物美集团简介, publisher: 物美集团, date: 2026-10, voice: zh, url: "http://www.wumart.com/?about_7%2F=", excerpt: true, keep: [ 物美集团创始人、多点Dmall创始人 ] }
+  # --- 约翰·威廉森 ---
+  - { id: c14-piie-2021-04-12-williamson, title: "John Williamson (1937-2021): A Trailblazer and Cherished Colleague", publisher: Peterson Institute for International Economics, author: Steven R. Weisman, date: 2021-04-12, voice: scholar, lang: en, url: "https://www.piie.com/blogs/realtime-economic-issues-watch/john-williamson-1937-2021-trailblazer-and-cherished-colleague", excerpt: true, keep: [ mourns the passing of John Williamson, "John's career included service", growing up in the United Kingdom ] }
+  - { id: c14-piie-williamson-profile, title: John Williamson, publisher: Peterson Institute for International Economics, date: 2026-10, voice: scholar, lang: en, url: "https://www.piie.com/experts/former-research-staff/john-williamson", excerpt: true, keep: [ was a senior fellow with the Institute from 1981 to 2012, He was project director ] }
+  - { id: c14-princeton-2021-williamson, title: "Remembering John Williamson, Princeton Ph.D. Class of 1963", publisher: Princeton University Department of Economics, date: 2021, voice: scholar, lang: en, url: "https://economics.princeton.edu/news/remembering-john-williamson-princeton-ph-d-class-of-1963/", excerpt: true, keep: [ descriptive, not prescriptive ] }
+  # --- 斯蒂格利茨 ---
+  - { id: c14-nobel-2001-stiglitz, title: "Joseph E. Stiglitz – Facts", publisher: NobelPrize.org, date: 2001, voice: scholar, lang: en, url: "https://www.nobelprize.org/prizes/economic-sciences/2001/stiglitz/facts/", excerpt: true, keep: [ "Born: 9 February 1943", Prize motivation, He was the chief economist of the World Bank ] }
+  - { id: c14-nobel-2001-press, title: "Press release: The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2001", publisher: NobelPrize.org, date: 2001-10-10, voice: scholar, lang: en, url: "https://www.nobelprize.org/prizes/economic-sciences/2001/press-release/", excerpt: true, keep: [ Columbia University ] }
+  # --- 葛振林 ---
+  - { id: c14-cyol-2005-03-23-ge-zhenlin, title: “狼牙山五壮士”之一 著名抗日英雄葛振林去世, publisher: 中国青年报, date: 2005-03-23, voice: zh, url: "http://zqb.cyol.com/content/2005-03/23/content_1054364.htm", excerpt: true, keep: [ 于3月21日23时10分在湖南衡阳逝世, 葛振林1917年出生, 连长、营长、人武部副部长等职 ] }
+  - { id: c14-chinanews-2005-03-22-ge-zhenlin, title: “狼牙山五壮士”之一、葛振林因病去世享年88岁, publisher: 中国新闻网, date: 2005-03-22, voice: official, url: "http://www.chinanews.com.cn/news/2005/2005-03-22/26/553651.shtml", excerpt: true, keep: [ 葛振林1981年7月从原衡阳军分区后勤部副部长 ] }
+  - { id: c14-chinanews-2005-03-23-ge-zhenlin, title: “狼牙山五壮士”最后的幸存者葛振林在湖南逝世, publisher: 中国新闻网, date: 2005-03-23, voice: official, url: "http://www.chinanews.com.cn/news/2005/2005-03-23/26/553749.shtml", excerpt: true, keep: [ 一九三七年五月入伍 ] }
+  # --- 宋学义 ---
+  - { id: c14-cctv-2009-06-19-song-xueyi, title: 宋学义　视死如归的“狼牙山五壮士”之一, publisher: 央视网（来源：人民网）, date: 2009-06-19, voice: official, url: "http://news.cctv.com/special/cehua/20090619/106027.shtml", excerpt: true, keep: [ "宋学义（1918-1971年）", 1944年，宋学义转业到河北省易县, 1969年赴北京出席了中国共产党第九次代表大会, 1979年6月23日 ] }
+  - { id: c14-people-2015-08-29-song-xueyi, title: 狼牙山壮士宋学义：感染后代参军卫国, publisher: 人民网, date: 2015-08-29, voice: zh, url: "http://culture.people.com.cn/n/2015/0829/c22219-27530682.html", excerpt: true, keep: [ 1944年宋学义离开部队, 1960年起宋学义任北孔村党支部书记, 1971年6月26日在郑州逝世 ] }
+  # --- 毛泽东 ---
+  - { id: c14-gov-2023-12-26-xi-mao-130, title: 习近平：在纪念毛泽东同志诞辰130周年座谈会上的讲话, publisher: 中国政府网（新华社）, author: 习近平, date: 2023-12-26, voice: doc, url: "https://www.gov.cn/yaowen/liebiao/202312/content_6922523.htm", start: 同志们，朋友们：, end: 民族复兴伟业而奋勇前进！ }

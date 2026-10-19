@@ -1,0 +1,386 @@
+# C14: tier 2 cards for people named in the I11 concepts who had no card
+
+- id: ma-rong
+  name: 马戎
+  pinyin: Mǎ Róng
+  gender: m
+  ethnicity: 回族
+  born: 1950-03
+  origin: 辽宁沈阳
+  education:
+    - { school: 内蒙古农牧学院, degree: 学士, to: 1976 }
+    - { school: 中国社会科学院, degree: 政治经济学硕士, to: 1982 }
+    - { school: 美国布朗大学, degree: 社会学博士, to: 1987 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 北京大学社会学系教授，民族社会学者，主张把少数族群问题“去政治化”
+  bio: >-
+    社会学者，美国布朗大学社会学博士，1987 年进北京大学社会学人类学研究所，曾任该所所长和社会学系主任。
+    2004 年他撰文主张把建国以来族群问题上的“政治化”趋势改为“文化化”，把少数族群问题逐步“去政治化”，“应当强化民族(国民) 意识,逐步淡化族群意识”。
+    2024 年 9 月获评全国民族团结进步模范个人。
+  positions:
+    - { title: 北京大学社会学人类学研究所所长, sys: other, from: 1995, to: 2007, cite: c14-pku-nsd-ma-rong }
+    - { title: 北京大学社会学系主任, sys: other, from: 2000, to: 2007, cite: c14-pku-nsd-ma-rong }
+    - { title: 北京大学博雅讲席教授, sys: other, cite: c14-pku-2024-09-27-ma-rong }
+    - { title: 北京大学铸牢中华民族共同体意识研究基地首席专家, sys: other, cite: c14-pku-2024-09-27-ma-rong }
+  cites: [c14-zhmzgtt-2021-04-13-ma-rong, c14-pku-nsd-ma-rong, c14-pku-2024-09-27-ma-rong, i11-aisixiang-2004-ma-rong-depoliticize]
+
+- id: joshua-cooper-ramo
+  name: 乔舒亚·库珀·雷默
+  aka: [Joshua Cooper Ramo, 雷默, 约书亚·雷默]
+  gender: m
+  born: 1968-12-14
+  roles: [media, biz]
+  status: active
+  tier: 2
+  headline: 美国作家、咨询公司高管，2004 年发表《北京共识》
+  ids: { wikidata: Q6289742 }
+  bio: >-
+    美国人，记者出身，曾任《时代》周刊高级编辑、国际版编辑，2002 年迁居北京，后入基辛格咨询公司，2015–2020 年任副董事长兼联席首席执行官，2021 年起任 Sornay 公司董事长兼首席执行官。
+    2004 年 5 月，时任约翰·桑顿办公室主管合伙人、高盛公司高级顾问和清华大学教授的他在英国外交政策研究中心发表《北京共识》，称这种发展模式“取代了广受怀疑的华盛顿共识”。
+    另说：英文维基百科至今仍称他是基辛格咨询公司副董事长兼联席首席执行官（c14-wiki-en-joshua-cooper-ramo）。
+  positions:
+    - { title: 《时代》周刊国际版编辑, sys: other, from: 1998, cite: c14-wiki-en-joshua-cooper-ramo }
+    - { title: JL Thornton & Co. 主管合伙人, sys: other, from: 2003, to: 2005, cite: c14-hku-cccw-ramo }
+    - { title: 基辛格咨询公司副董事长, sys: other, from: 2011, cite: c14-wiki-en-joshua-cooper-ramo }
+    - { title: 基辛格咨询公司副董事长兼联席首席执行官, sys: other, from: 2015, to: 2020, cite: c14-hku-cccw-ramo }
+    - { title: 联邦快递独立董事, sys: other, from: 2011, cite: c14-hku-cccw-ramo }
+    - { title: 星巴克独立董事, sys: other, from: 2012, to: 2023, cite: c14-hku-cccw-ramo }
+    - { title: Sornay 公司董事长兼首席执行官, sys: other, from: 2021, cite: c14-hku-cccw-ramo }
+  cites: [wd-Q6289742, c14-hku-cccw-ramo, c14-wiki-en-joshua-cooper-ramo, i11-aisixiang-2004-ramo-beijing-consensus, i11-zgjjzk-2011-07-26-beijing-consensus]
+
+- id: huang-yanpei
+  name: 黄炎培
+  pinyin: Huáng Yánpéi
+  aka: [黄任之]
+  gender: m
+  born: 1878-10-01
+  died: 1965-12-21
+  birthplace: 江苏川沙（今上海浦东）
+  roles: [minister]
+  status: dead
+  tier: 2
+  headline: 教育家、民主人士，民建创建人，1945 年延安“窑洞对”的提问者
+  ids: { wikidata: Q5925773 }
+  bio: >-
+    清末举人，职业教育的倡导者，创办中华职业教育社，参与发起中国民主政团同盟，1945 年 12 月领导创建中国民主建国会。
+    1945 年 7 月他以国民参政员身份访问延安，会见毛泽东，回重庆后发表《延安归来》；后来的官方叙述把他提出的如何跳出兴亡周期律的问题称为“黄炎培之问”。
+    1949 年后任政务院副总理兼轻工业部部长、全国人大常委会副委员长、全国政协副主席；他反对粮食统购统销，毛泽东曾称他是“资本家代言人”。1965 年去世。
+  positions:
+    - { title: 中国民主政团同盟常委会主席, sys: other, from: 1941-03, cite: c14-cppcc-huang-yanpei }
+    - { title: 政务院副总理兼轻工业部部长, sys: gov, from: 1949-10, to: 1954, cite: c14-cppcc-huang-yanpei }
+    - { title: 民建中央主任委员, sys: other, cite: c14-cppcc-huang-yanpei }
+    - { title: 全国人大常委会副委员长（第一至三届）, sys: gov, from: 1954-09, to: 1965-12, cite: c14-cppcc-huang-yanpei }
+    - { title: 全国政协副主席（第二至四届）, sys: other, from: 1954-12, to: 1965-12, cite: c14-cppcc-huang-yanpei }
+  cites: [wd-Q5925773, c14-cppcc-huang-yanpei, c14-wiki-huang-yanpei, i04-rmrb-2015-04-20-renzhongping, b12-chinanews-2023-01-07-bugle-ep1]
+
+- id: huang-kecheng
+  name: 黄克诚
+  pinyin: Huáng Kèchéng
+  gender: m
+  born: 1902-10-01
+  died: 1986-12-28
+  birthplace: 湖南永兴
+  joinedParty: 1925
+  roles: [general, sec, ccdi, cc]
+  status: dead
+  tier: 2
+  headline: 开国大将，中央纪委常务书记、第二书记，“鸟笼”之说的提出者
+  ids: { wikidata: Q717035 }
+  bio: >-
+    1925 年入党，1955 年授大将军衔，曾任总后勤部部长、中央军委秘书长、总参谋长和中央书记处书记。
+    1959 年庐山会议上他与彭德怀一起被错定为“反党集团”，1978 年 12 月平反，同月当选中央纪委常务书记，1982 年任第二书记；1981 年在《人民日报》发表《关于党风问题》。
+    陈云 1982 年 11 月、12 月间多次借用他提出的“鸟笼”之说，解释搞活经济与国家计划的关系。1986 年在北京去世。
+  positions:
+    - { title: 中国人民解放军副总参谋长兼总后勤部部长、政委, sys: army, from: 1952-10, cite: c14-gov-2008-huang-kecheng }
+    - { title: 中央军委秘书长、国防部副部长、总参谋长, sys: army, from: 1954, to: 1959, cite: c14-gov-2008-huang-kecheng }
+    - { title: 中央书记处书记（八届）, sys: party, to: 1959, cite: c14-gov-2008-huang-kecheng }
+    - { title: 中央纪委常务书记, sys: party, from: 1978-12, to: 1982-09, cite: c14-ccdi-huang-kecheng }
+    - { title: 中央纪委第二书记, sys: party, from: 1982-09, cite: c14-ccdi-huang-kecheng }
+  cites: [wd-Q717035, c14-gov-2008-huang-kecheng, c14-ccdi-huang-kecheng, b22-jiemian-2015-06-chen-yun, i04-rmrb-2016-10-24-renzhongping]
+
+- id: hu-lianhe
+  name: 胡联合
+  pinyin: Hú Liánhé
+  gender: m
+  born: 1968
+  birthplace: 湖南邵阳
+  roles: [scholar]
+  status: active
+  statusNote: 2023 年 12 月 8 日，美国财政部以新疆人权问题为由依第 13818 号行政令将他列入制裁名单。
+  tier: 2
+  headline: 中央新疆工作协调小组办公室副主任，与胡鞍钢合写“第二代民族政策”文章
+  bio: >-
+    中央党校法学博士，研究恐怖主义与社会稳定，1999 年起任中央政法委研究人员，2004 年借调清华大学国情研究中心，与胡鞍钢合写十余篇论文。
+    2011 年两人撰文主张推动民族政策“从第一代向第二代的转型”，“不断淡化公民的族群意识和 56个民族的观念”。
+    他至迟 2012 年任中央新疆办副主任；2018 年 8 月在联合国消除种族歧视委员会审议中说“不存在再教育营这种东西”。
+  positions:
+    - { title: 中央政法委研究人员, sys: party, from: 1999, cite: c14-jamestown-2018-10-10-hu-lianhe }
+    - { title: 中央新疆工作协调小组办公室副主任, sys: party, from: 2012, cite: c14-treasury-2023-12-08-hu-lianhe }
+  cites: [c14-jamestown-2018-10-10-hu-lianhe, c14-thepaper-2014-09-19-xinjiang-group, c14-nytcn-2018-08-14-xinjiang-un, c14-treasury-2023-12-08-hu-lianhe, i08-aisixiang-2011-hu-angang-ethnic]
+
+- id: yang-ruilong
+  name: 杨瑞龙
+  pinyin: Yáng Ruìlóng
+  gender: m
+  born: 1957
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学一级教授，制度经济学者，主张以硬化预算约束治理“内卷式”竞争
+  ids: { wikidata: Q9214413 }
+  bio: >-
+    制度经济学与企业理论学者，1990 年博士毕业后留中国人民大学任教，曾任经济学院院长，著有《企业的利益相关者理论及其应用》等。
+    2025 年 11 月他在《学习时报》撰文说，“内卷式”竞争“并非市场竞争过度，而是市场机制扭曲所导致的资源错配”，主张“遵循市场经济的逻辑”治理，硬化国有企业预算约束、剥离隐性补贴，建立由价格决定进退的市场出清机制。
+  positions:
+    - { title: 中国人民大学经济学院院长, sys: other, cite: c14-ruc-2019-09-yang-ruilong }
+    - { title: 中国人民大学经济学研究所联席所长, sys: other, cite: c14-ruc-2019-09-yang-ruilong }
+    - { title: 中国人民大学一级教授, sys: other, cite: c14-ruc-2026-05-16-yang-ruilong }
+    - { title: 教育部经济学教学指导委员会副主任委员, sys: other, cite: c14-ruc-2026-05-16-yang-ruilong }
+  cites: [wd-Q9214413, c14-ruc-2019-09-yang-ruilong, c14-ruc-2026-05-16-yang-ruilong, c14-ruc-news-yang-ruilong, i11-people-2025-11-12-yang-ruilong]
+
+- id: zhou-fangsheng
+  name: 周放生
+  pinyin: Zhōu Fàngshēng
+  gender: m
+  born: 1949
+  roles: [scholar]
+  status: retired
+  tier: 2
+  headline: 国资委企业改革局原副局长，郎顾之争中为国企改革辩护
+  bio: >-
+    长期在企业工作，1991 年起任国家国有资产管理局副处长、处长，1997–2001 年任国家经贸委国有企业脱困工作办公室副主任，后到国务院国资委企业改革局；央广网称他为企业改革局原副局长、中国企业改革与发展研究会副会长。
+    另说：中国外运披露的简历称他 2003–2009 年任国资委企业改革局副巡视员（c14-askci-zhou-fangsheng）。
+    2004 年郎顾之争中他在《经济观察报》撰文反驳郎咸平，2016 年回忆说国企改革“大方向是对的，主流是好的是规范的”，郎咸平“既没吃过猪肉，也没看过猪跑”。
+  positions:
+    - { title: 国家国有资产管理局副处长、处长，国有资产管理研究所副所长, sys: gov, from: 1991, to: 1997, cite: c14-askci-zhou-fangsheng }
+    - { title: 国家经贸委国有企业脱困工作办公室副主任, sys: gov, from: 1997, to: 2001, cite: c14-askci-zhou-fangsheng }
+    - { title: 财政部财政科学研究所国有资产管理研究室主任, sys: gov, from: 2001, to: 2003, cite: c14-askci-zhou-fangsheng }
+    - { title: 国务院国资委企业改革局副局长, sys: gov, cite: c14-cnr-2015-09-24-zhou-fangsheng }
+    - { title: 中国企业改革与发展研究会副会长, sys: other, cite: c14-cnr-2015-09-24-zhou-fangsheng }
+    - { title: 中国外运股份有限公司独立监事, sys: other, from: 2011-12, cite: c14-askci-zhou-fangsheng }
+  cites: [c14-cnr-2015-09-24-zhou-fangsheng, c14-sasac-2005-04-14-deputy-dg, c14-askci-zhou-fangsheng, i11-ifeng-2016-06-21-gu-zhou-fangsheng]
+
+- id: yan-yousong
+  name: 严友松
+  pinyin: Yán Yǒusōng
+  gender: m
+  roles: [biz]
+  status: retired
+  statusNote: 2008 年 1 月被佛山市中级人民法院以违规披露、不披露重要信息罪判刑，2009 年二审维持；2019 年 4 月 10 日最高人民法院再审宣告无罪。此后近况不详。
+  tier: 2
+  headline: 科龙电器原传媒副总裁，郎顾之争中代顾雏军发声，2019 年再审改判无罪
+  bio: >-
+    科龙电器传媒副总裁。2004 年 8 月顾雏军在香港起诉郎咸平诽谤，由他对媒体证实，并说“科龙电器的改制是成功的，得到了包括竞争对手在内的业内公认。而郎咸平的说法歪曲了基本事实。”
+    2008 年 1 月他与顾雏军等一同被佛山市中级人民法院以违规披露、不披露重要信息罪判刑；2019 年 4 月最高人民法院再审宣告他无罪。
+  positions:
+    - { title: 科龙电器传媒副总裁, sys: other, cite: i11-cyol-2004-08-18-gu-sues }
+  cites: [i11-cyol-2004-08-18-gu-sues, i11-court-2019-04-10-gu-retrial]
+
+- id: wang-wenbin
+  name: 汪文斌
+  pinyin: Wāng Wénbīn
+  gender: m
+  ethnicity: 汉族
+  born: 1971-04
+  origin: 安徽桐城
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 外交部第 32 任发言人（2020–2024），现任驻柬埔寨大使
+  ids: { wikidata: Q67935527 }
+  bio: >-
+    职业外交官，曾在外交部新闻司、西欧司、政策司、办公厅和驻塞内加尔、喀麦隆、毛里求斯使领馆工作，2017–2020 年任驻突尼斯大使。
+    另说：维基百科称他 2018 年 5 月起任驻突尼斯大使（c14-wiki-wang-wenbin）。
+    2020 年 7 月起任外交部新闻司副司长、第 32 任发言人；同年 10 月美方起诉参与“猎狐行动”的人员，他敦促美方“不要沦为犯罪分子的‘避罪天堂’”。2024 年 7 月任驻柬埔寨大使。
+  positions:
+    - { title: 外交部政策规划司副司长, sys: gov, from: 2013, cite: c14-wiki-wang-wenbin }
+    - { title: 外交部政策规划司代司长, sys: gov, from: 2017-07, cite: c14-wiki-wang-wenbin }
+    - { title: 驻突尼斯大使, sys: gov, from: 2017, to: 2020, cite: c14-chinanews-2020-07-17-wang-wenbin }
+    - { title: 外交部新闻司副司长、发言人, sys: gov, from: 2020-07, to: 2024-07, cite: c14-chinanews-2020-07-17-wang-wenbin }
+    - { title: 驻柬埔寨大使, sys: gov, from: 2024-07, cite: c14-fmprc-2024-07-05-ambassadors }
+  cites: [wd-Q67935527, c14-chinanews-2020-07-17-wang-wenbin, c14-fmprc-2024-07-05-ambassadors, c14-wiki-wang-wenbin, i11-xinhua-2020-10-29-mfa-fox-hunt]
+
+- id: zhao-wenxin
+  name: 赵文欣
+  pinyin: Zhào Wénxīn
+  gender: m
+  roles: [scholar]
+  status: retired
+  tier: 2
+  headline: 四川省委农村政策研究室原主任，1982–1986 年五个中央一号文件的起草参与者
+  bio: >-
+    农村政策研究者，曾任四川省委农村政策研究室主任，参与了 1982 年至 1986 年五个“一号文件”和多份涉农文件的讨论起草。
+    2008 年 9 月他 73 岁时接受采访回忆，第一个一号文件 1981 年 12 月 21 日经中央政治局通过、1982 年元旦发出；起草第三个文件时对雇工问题意见不一，邓小平说“不急于限制，看三年再说”。
+    他说改革“完全是在中央高层领导支持和广大基层群众推动下，上下联动呼应而成的”。
+  positions:
+    - { title: 四川省委农村政策研究室主任, sys: party, place: 四川, cite: i11-reformdata-2013-01-10-five-no1 }
+  cites: [i11-reformdata-2013-01-10-five-no1]
+
+- id: albert-keidel
+  name: 盖保德
+  aka: [Albert Keidel]
+  gender: m
+  education:
+    - { school: 普林斯顿大学伍德罗·威尔逊公共与国际事务学院, degree: 学士 }
+    - { school: 哈佛大学, degree: 经济学博士 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 美国发展经济学家，前美国财政部东亚国家办公室代理主任，卡内基、大西洋理事会研究员
+  bio: >-
+    美国发展经济学家，研究中国经济，哈佛大学经济学博士，曾任世界银行驻北京代表处高级经济学家，2001 年进美国财政部，任东亚国家办公室代理主任、副主任。
+    2004 年 9 月起任卡内基国际和平基金会高级研究员，后任大西洋理事会非常驻高级研究员，在乔治·华盛顿大学任兼职教授。
+    2010 年 1 月美国商业团体指责中国自主创新产品政府采购政策时，他说称之为贸易保护主义“有些牵强”，许多国家都会这样保护发展中的产业。
+  positions:
+    - { title: 世界银行驻北京代表处高级经济学家, sys: other, to: 2001, cite: c14-carnegie-albert-keidel }
+    - { title: 美国财政部东亚国家办公室代理主任、副主任, sys: other, from: 2001, to: 2004, cite: c14-carnegie-albert-keidel }
+    - { title: 卡内基国际和平基金会高级研究员, sys: other, from: 2004-09, cite: c14-carnegie-albert-keidel }
+    - { title: 大西洋理事会非常驻高级研究员, sys: other, cite: c14-gwu-albert-keidel }
+    - { title: 乔治·华盛顿大学兼职教授, sys: other, cite: c14-gwu-albert-keidel }
+  cites: [c14-gwu-albert-keidel, c14-carnegie-albert-keidel, i11-voa-2010-01-27-indigenous-innovation]
+
+- id: zhang-wenzhong
+  name: 张文中
+  pinyin: Zhāng Wénzhōng
+  gender: m
+  ethnicity: 汉族
+  born: 1962-07-01
+  origin: 山东即墨（今青岛市即墨区）
+  roles: [biz]
+  status: active
+  statusNote: 2006 年 12 月被刑事拘留，2008 年一审被判有期徒刑十八年，2009 年终审改判十二年，2013 年 2 月刑满释放；2018 年 5 月 31 日最高人民法院再审改判无罪。
+  tier: 2
+  headline: 物美集团、多点 Dmall 创始人，2018 年最高法再审改判无罪
+  ids: { wikidata: Q55638242 }
+  bio: >-
+    博士，物美集团、多点 Dmall 创始人。2006 年 12 月被刑事拘留，2008 年 10 月衡水市中级人民法院以诈骗、单位行贿、挪用资金罪判处他有期徒刑十八年，2009 年 3 月终审改判十二年，2013 年 2 月刑满释放。
+    2018 年 5 月 31 日最高人民法院再审改判他无罪；2019 年最高法在顾雏军案宣判答问中把两案并列，作为纠正涉产权错案、保护民营企业家的例子。
+  positions:
+    - { title: 物美控股集团董事长, sys: other, cite: c14-court-2018-05-31-zhang-wenzhong }
+    - { title: 多点 Dmall 创始人, sys: other, cite: c14-wumart-about }
+    - { title: 中国光彩事业促进会副会长, sys: other, cite: c14-wumart-about }
+    - { title: 中国商业联合会名誉主席, sys: other, cite: c14-wumart-about }
+  cites: [wd-Q55638242, c14-court-2018-05-31-zhang-wenzhong, c14-court-2018-05-31-zhang-wenzhong-news, c14-wumart-about, i11-court-2019-04-10-gu-retrial-qa]
+
+- id: john-williamson
+  name: 约翰·威廉森
+  aka: [John Williamson, 约翰·威廉姆森]
+  gender: m
+  born: 1937-06-07
+  died: 2021-04-11
+  birthplace: 英国赫里福德
+  roles: [scholar]
+  status: dead
+  tier: 2
+  headline: 英国出生的国际经济学家，彼得森国际经济研究所高级研究员，“华盛顿共识”一词的提出者
+  ids: { wikidata: Q1347901 }
+  bio: >-
+    在英国长大，曾任英国财政部经济顾问、国际货币基金组织顾问，在华威大学、里约热内卢天主教大学等校任教，1981–2012 年任美国彼得森国际经济研究所高级研究员，1996–1999 年借调任世界银行南亚首席经济学家。
+    1989 年他把国际机构对拉美增长政策的共同看法归纳为一份清单，后称“华盛顿共识”；他后来澄清这份清单是描述性的而非规定性的。
+    另说：雷默《北京共识》称这十点主张是威廉森“最早于1990年提出”的（i11-aisixiang-2004-ramo-beijing-consensus）。2021 年 4 月去世。
+  positions:
+    - { title: 英国财政部经济顾问, sys: other, from: 1968, to: 1970, cite: c14-piie-williamson-profile }
+    - { title: 华威大学经济学教授, sys: other, from: 1970, to: 1977, cite: c14-piie-williamson-profile }
+    - { title: 国际货币基金组织顾问, sys: other, from: 1972, to: 1974, cite: c14-piie-williamson-profile }
+    - { title: 里约热内卢天主教大学经济学教授, sys: other, from: 1978, to: 1981, cite: c14-piie-williamson-profile }
+    - { title: 彼得森国际经济研究所高级研究员, sys: other, from: 1981, to: 2012, cite: c14-piie-williamson-profile }
+    - { title: 世界银行南亚首席经济学家, sys: other, from: 1996, to: 1999, cite: c14-piie-williamson-profile }
+  cites: [wd-Q1347901, c14-piie-williamson-profile, c14-piie-2021-04-12-williamson, c14-princeton-2021-williamson, i11-zgjjzk-2011-07-26-beijing-consensus, i11-aisixiang-2004-ramo-beijing-consensus]
+
+- id: joseph-stiglitz
+  name: 约瑟夫·斯蒂格利茨
+  aka: [Joseph E. Stiglitz, 斯蒂格利茨]
+  gender: m
+  born: 1943-02-09
+  birthplace: 美国印第安纳州加里
+  education:
+    - { school: 麻省理工学院, degree: 博士, to: 1967 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 美国经济学家，2001 年诺贝尔经济学奖得主，“后华盛顿共识”的提出者
+  ids: { wikidata: Q18430 }
+  bio: >-
+    美国经济学家，麻省理工学院博士，曾在耶鲁、普林斯顿、牛津、斯坦福任教，2001 年起任哥伦比亚大学教授，同年因信息不对称市场分析获诺贝尔经济学奖。
+    1995–1997 年任美国总统经济顾问委员会主席，1997–2000 年任世界银行首席经济学家。
+    他严厉批评“华盛顿共识”，提出“后华盛顿共识”，认为发展的目标“不应是纯粹的GDP增加，而是生活水准的可持续提高以及民主、公平的发展”。
+  positions:
+    - { title: 美国总统经济顾问委员会主席, sys: other, from: 1995-06-28, to: 1997-02-13, cite: wd-Q18430 }
+    - { title: 世界银行首席经济学家, sys: other, from: 1997-02-13, to: 2000-02, cite: wd-Q18430 }
+    - { title: 哥伦比亚大学经济学、商学与国际事务教授, sys: other, from: 2001, cite: c14-nobel-2001-press }
+  cites: [wd-Q18430, c14-nobel-2001-stiglitz, c14-nobel-2001-press, i11-zgjjzk-2011-07-26-beijing-consensus]
+
+- id: ge-zhenlin
+  name: 葛振林
+  pinyin: Gě Zhènlín
+  gender: m
+  born: 1917
+  died: 2005-03-21
+  birthplace: 河北曲阳
+  joinedParty: 1940-02
+  roles: [general]
+  status: dead
+  tier: 2
+  headline: “狼牙山五壮士”两名幸存者之一，衡阳军分区后勤部原副部长
+  ids: { wikidata: Q6717605 }
+  bio: >-
+    河北曲阳人，1937 年参加革命，1938 年 2 月入伍，1940 年 2 月入党。另说：中新社称他 1937 年 5 月入伍（c14-chinanews-2005-03-23-ge-zhenlin）。
+    1941 年 9 月 25 日，他以晋察冀一分区一团七连二排六班副班长身份与马宝玉、宋学义等五人在狼牙山掩护主力和群众转移后跳崖，他和宋学义被树枝挂住幸存。
+    1981 年 7 月从衡阳军分区后勤部副部长（副师级）任上离休，2005 年 3 月在衡阳去世。2016 年他的儿子葛长生与宋学义之子起诉洪振快侵害名誉，胜诉。
+  positions:
+    - { title: 晋察冀军区一分区一团七连二排六班副班长, sys: army, from: 1941, cite: c14-cyol-2005-03-23-ge-zhenlin }
+    - { title: 衡阳军分区后勤部副部长（副师级）, sys: army, place: 湖南, to: 1981-07, cite: c14-chinanews-2005-03-22-ge-zhenlin }
+  cites: [wd-Q6717605, c14-cyol-2005-03-23-ge-zhenlin, c14-chinanews-2005-03-22-ge-zhenlin, c14-chinanews-2005-03-23-ge-zhenlin, i08-xinhua-2016-06-27-langyashan]
+
+- id: song-xueyi
+  name: 宋学义
+  pinyin: Sòng Xuéyì
+  gender: m
+  ethnicity: 汉族
+  born: 1918
+  died: 1971-06-26
+  birthplace: 河南沁阳
+  roles: [general]
+  status: dead
+  tier: 2
+  headline: “狼牙山五壮士”两名幸存者之一，后任河南沁阳北孔村党支部书记
+  ids: { wikidata: Q10947468 }
+  bio: >-
+    河南沁阳北孔村人。1941 年 9 月 25 日在狼牙山与马宝玉、葛振林等五人掩护部队和群众转移后跳崖，被树枝挂住幸存，1942 年 5 月获晋察冀军区“勇敢顽强”奖章。
+    1944 年因伤病离开部队，1947 年返乡，1960 年起任北孔村党支部书记，1969 年出席中共九大。1971 年 6 月在郑州去世，1979 年被授予“革命烈士”称号。
+    2016 年他的儿子宋福保与葛振林之子起诉洪振快侵害名誉，胜诉。
+  positions:
+    - { title: 河北满城县县大队副连长, sys: army, from: 1943, cite: c14-people-2015-08-29-song-xueyi }
+    - { title: 河南沁阳北孔村党支部书记, sys: party, place: 河南, from: 1960, to: 1971, cite: c14-people-2015-08-29-song-xueyi }
+  cites: [wd-Q10947468, c14-cctv-2009-06-19-song-xueyi, c14-people-2015-08-29-song-xueyi, i08-xinhua-2016-06-27-langyashan]
+
+- id: mao-zedong
+  name: 毛泽东
+  pinyin: Máo Zédōng
+  aka: [毛润之]
+  gender: m
+  born: 1893-12-26
+  died: 1976-09-09
+  birthplace: 湖南湘潭韶山
+  roles: [psc, cmc, cc]
+  status: dead
+  tier: 2
+  headline: 中国共产党、解放军和中华人民共和国的主要缔造者，1945–1976 年任中共中央主席
+  ids: { wikidata: Q5816 }
+  bio: >-
+    中共一大代表，井冈山时期领导红军和根据地建设，1945 年起任中共中央主席、中央军委主席直到 1976 年去世，1954–1959 年任国家主席。
+    1945 年 7 月黄炎培访问延安时与他谈如何跳出兴亡周期律，官方叙述称他给出了“第一个答案”，即“让人民来监督政府”。
+    1981 年的历史决议说他在“文化大革命”中犯了严重错误，但“他的功绩是第一位的，错误是第二位的”；2023 年习近平在诞辰 130 周年座谈会上重申这一评价。
+  positions:
+    - { title: 中共中央委员会主席, sys: party, from: 1945-06-19, to: 1976-09-09, cite: wd-Q5816 }
+    - { title: 中共中央军事委员会主席, sys: army, from: 1945-08-23, to: 1976-09-09, cite: wd-Q5816 }
+    - { title: 全国政协主席, sys: other, from: 1949-09-21, to: 1954-09-27, cite: wd-Q5816 }
+    - { title: 中华人民共和国主席, sys: gov, from: 1954-09-27, to: 1959-04-27, cite: wd-Q5816 }
+  assess:
+    - voice: doc
+      text: 毛泽东同志是伟大的马克思主义者，是伟大的无产阶级革命家、战略家和理论家。他虽然在“文化大革命”中犯了严重错误，但是就他的一生来看，他对中国革命的功绩远远大于他的过失。他的功绩是第一位的，错误是第二位的。
+      cite: i07-12371-1981-06-27-history-resolution
+      quote: true
+  cites: [wd-Q5816, c14-gov-2023-12-26-xi-mao-130, i07-12371-1981-06-27-history-resolution, b12-chinanews-2023-01-07-bugle-ep1, i01-xinhua-2022-01-19-second-answer]
