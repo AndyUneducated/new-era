@@ -1,0 +1,834 @@
+# C13 (round 14): dossier cards for people named in the CS6 cases (Huaxin, Tomorrow Group, Guangsha),
+# the U07/U08 suggestions, and the remaining people named in content/cases/*.yaml who had no card
+
+# ───── CS6 · huaxin-ye-jianming ─────
+- id: li-guangjin
+  name: 李光金
+  gender: m
+  born: 1950
+  birthplace: 湖北鄂州
+  roles: [general]
+  status: retired
+  statusNote: 2010 年 7 月卸任上海警备区政委。
+  tier: 2
+  headline: 上海警备区原政委、陆军少将，华信公益基金会执行理事长，曾为叶简明引见王三运
+  ids: { wikidata: Q17025726 }
+  bio: >-
+    湖北鄂州人，陆军少将，2005 年 8 月起任福建省军区政委，2006 年 11 月兼福建省委常委（另说 2006 年起任省军区政委，界面转述财新），
+    2009 年 5 月调任上海警备区政委，次年 7 月卸任。据财新，他任华信公益基金会执行理事长，为叶简明牵线结识王三运，
+    华信进入上海与他调沪同步。
+  positions:
+    - { title: 江西省军区政治委员, sys: army, place: 江西, from: 2004-10, to: 2005-08, cite: c13-wiki-li-guangjin }
+    - { title: 福建省军区政治委员, sys: army, place: 福建, from: 2005-08, to: 2009-05, cite: c13-wiki-li-guangjin }
+    - { title: 中共福建省委常委, sys: party, place: 福建, from: 2006-11, to: 2009-05, cite: c13-wiki-li-guangjin }
+    - { title: 上海警备区政治委员, sys: army, place: 上海, from: 2009-05, to: 2010-07, cite: c13-wiki-li-guangjin }
+    - { title: 华信公益基金会执行理事长, sys: other, place: 上海, cite: c04-bbc-2018-03-02-ye-jianming }
+  cites: [wd-Q17025726, c13-wiki-li-guangjin, cs6-jiemian-2018-10-12-li-guangjin, c04-bbc-2018-03-02-ye-jianming]
+
+- id: wang-hongyuan
+  name: 王宏源
+  gender: m
+  roles: [biz]
+  status: retired
+  tier: 2
+  headline: 中央军委办公厅管理局原副局长，华信公益基金会常务理事，叶简明经他结识珠海振戎的杨庆龙
+  bio: >-
+    曾任中央军委办公厅管理局副局长。据 BBC 中文转述财新的报道，叶简明在上海成立华信公益基金会，由上海警备区原政委李光金任执行理事长、
+    王宏源任常务理事；叶简明经李光金结识王三运，经王宏源结识央企珠海振戎公司的杨庆龙。
+  positions:
+    - { title: 中央军委办公厅管理局副局长, sys: army, place: 北京, cite: c04-bbc-2018-03-02-ye-jianming }
+    - { title: 华信公益基金会常务理事, sys: other, place: 上海, cite: c04-bbc-2018-03-02-ye-jianming }
+  cites: [c04-bbc-2018-03-02-ye-jianming]
+
+- id: yang-qinglong
+  name: 杨庆龙
+  gender: m
+  roles: [biz]
+  status: dead
+  statusNote: 路透社 2014 年报道，他因癌症去世，享年 62 岁。
+  tier: 2
+  headline: 珠海振戎公司创办人、原总经理，开拓中国从伊朗进口原油的渠道，经王宏源与叶简明结识
+  bio: >-
+    据路透社，他 20 世纪 90 年代开始做中国与伊朗的石油贸易，1995 年前后应“军方高层友人”之托创办珠海振戎，通过正规渠道从伊朗进口原油；
+    2011 年退休后任公司顾问，2014 年因癌症去世。据 BBC 中文转述财新，叶简明经王宏源结识了他。
+  positions:
+    - { title: 珠海振戎公司总经理, sys: other, place: 广东珠海, to: 2011, cite: c13-reuters-2014-yang-qinglong }
+  cites: [c13-reuters-2014-yang-qinglong, c04-bbc-2018-03-02-ye-jianming]
+
+- id: he-zhiping
+  name: 何志平
+  aka: [Patrick Ho]
+  gender: m
+  born: 1949-07-24
+  birthplace: 香港
+  roles: [hkmt]
+  status: retired
+  statusNote: 2020 年 6 月在美国刑满出狱后返港（维基百科）。
+  fall:
+    - { date: 2017-11, text: 在纽约被美国联邦调查局拘捕，被控为华信能源谋取非洲石油利益向乍得、乌干达政要行贿, cite: cs6-bbc-2019-03-26-patrick-ho }
+    - { date: 2018-12, text: 纽约南区联邦地方法院裁定其行贿、洗钱等七项罪名成立, cite: cs6-bbc-2019-03-26-patrick-ho }
+    - { date: 2019-03-25, text: 被判监禁三年，罚款 40 万美元, cite: cs6-bbc-2019-03-26-patrick-ho }
+  tier: 2
+  headline: 香港前民政事务局局长，华信旗下中华能源基金会秘书长，2019 年在美国因行贿被判监禁三年
+  ids: { wikidata: Q7146739 }
+  bio: >-
+    香港眼科医生，2002 年至 2007 年任特区政府民政事务局局长，卸任后任华信资助的中华能源基金委员会常务副主席兼秘书长。
+    2017 年 11 月在纽约被捕，被控为华信谋取非洲石油利益向乍得、乌干达政要行贿，2018 年 12 月七项罪名成立，2019 年 3 月被判监禁三年、罚款 40 万美元。
+  positions:
+    - { title: 香港特别行政区民政事务局局长, sys: gov, place: 香港, from: 2002, to: 2007-06, cite: c13-wiki-patrick-ho }
+    - { title: 中华能源基金委员会常务副主席兼秘书长, sys: other, place: 香港, cite: c13-wiki-patrick-ho }
+  cites: [wd-Q7146739, c13-wiki-patrick-ho, cs6-bbc-2019-03-26-patrick-ho, c04-bbc-2018-03-02-ye-jianming]
+
+- id: lai-changxing
+  name: 赖昌星
+  gender: m
+  born: 1958-09-15
+  birthplace: 福建晋江
+  roles: [biz]
+  status: detained
+  statusNote: 2012 年 5 月 18 日被判处无期徒刑（维基百科）。
+  fall:
+    - { date: 2011-07, text: 从加拿大温哥华被遣返回北京, cite: c13-wiki-lai-changxing }
+    - { date: 2012-05-18, text: 被判处无期徒刑, cite: c13-wiki-lai-changxing }
+  tier: 2
+  headline: 远华集团创办人、远华走私案主犯，2011 年从加拿大遣返；叶简明靠收购远华旧资产起家
+  ids: { wikidata: Q1800660 }
+  bio: >-
+    福建晋江人，1991 年迁居香港，1994 年成立厦门远华集团。1999 年远华案发后逃往加拿大，2011 年 7 月被遣返，2012 年 5 月被判无期徒刑。
+    据 BBC 中文，叶简明拍得远华子公司厦门华航等拥有石油贸易牌照的资产后建立中国华信。
+  positions:
+    - { title: 厦门远华集团董事长, sys: other, place: 福建厦门, from: 1994, to: 1999, cite: c13-wiki-lai-changxing }
+  cites: [wd-Q1800660, c13-wiki-lai-changxing, c04-bbc-2018-03-02-ye-jianming, cs6-nytcn-2018-03-15-cefc]
+
+# ───── CS6 · tomorrow-group ─────
+- id: zhou-hongwen
+  name: 周虹文
+  gender: f
+  roles: [biz, family]
+  status: active
+  statusNote: 未见其本人被调查或追诉的公开报道。
+  tier: 2
+  headline: 肖建华之妻，明天控股有限公司成立时的法定代表人
+  bio: >-
+    肖建华在北京大学读书时结识的妻子，户籍北京海淀、在内蒙古长大。1999 年 9 月明天控股有限公司成立，她任法定代表人；
+    21 世纪经济报道称夫妇二人主要通过山东、内蒙古的亲属、同乡和北大同学、校友管理明天系。BBC 称 2016 年两人以 400 亿元列胡润百富榜第 32 位。
+  positions:
+    - { title: 明天控股有限公司法定代表人, sys: other, place: 北京, from: 1999-09, cite: c13-jjckb-2017-02-03-tomorrow }
+  cites: [c13-jjckb-2017-02-03-tomorrow, c13-21jingji-2020-08-11-tomorrow, c04-bbc-2022-08-19-xiao-jianhua]
+
+- id: deng-jiagui
+  name: 邓家贵
+  gender: m
+  born: 1951-12-07
+  roles: [biz, family]
+  status: active
+  tier: 2
+  headline: 习近平的姐夫、齐桥桥之夫，北京中民信房地产总经理；家族资产 2012 年起多次被海外媒体披露
+  ids: { wikidata: Q8951054 }
+  bio: >-
+    习近平姐姐齐桥桥的丈夫，北京中民信房地产开发有限公司总经理。2012 年彭博社盘点其夫妇资产，纽约时报称此后两人退出至少 10 家公司的投资；
+    2009 年他控股的秦川大地入股万达。巴拿马文件显示他 2004 年和 2009 年在英属维尔京群岛开设离岸公司（美国之音、BBC 中文称共三家，另说 2009 年两家，纽约时报中文网）。
+  positions:
+    - { title: 北京中民信房地产开发有限公司总经理, sys: other, place: 北京, cite: c13-wiki-deng-jiagui }
+  cites: [wd-Q8951054, c13-wiki-deng-jiagui, c05-bbc-2012-06-29-bloomberg-xi, r01-nytcn-2014-06-18-xi-assets, c04-bbc-2015-10-30-wang-jianlin, c05-voa-2016-04-06-panama-red, c05-nytcn-2016-04-06-panama-china, c05-bbc-2016-04-06-panama-china]
+
+- id: jiao-wei
+  name: 焦伟
+  gender: m
+  roles: [biz]
+  status: active
+  statusNote: 专题片称其为“涉案商人”，本人是否被追诉未见公开报道。
+  tier: 2
+  headline: 山东潍坊商人，张新起的“白手套”，明天系通过他向张新起输送利益
+  bio: >-
+    据 2023 年中央纪委专题片《永远吹冲锋号》，他 20 世纪 90 年代创业时结识张新起，此后既是张新起随时取钱的“钱袋子”，又替其操作权钱交易。
+    明天系把控股的潍坊大酒店交给他经营，与他合作开发房地产，还应张新起要求以“借”的名义向他打款四千万元。
+  positions:
+    - { title: 潍坊大酒店经营管理者, sys: other, place: 山东潍坊, cite: b12-chinanews-2023-01-07-bugle-ep1 }
+  cites: [b12-chinanews-2023-01-07-bugle-ep1]
+
+- id: zhou-xuedong
+  name: 周学东
+  gender: m
+  born: 1967-02
+  roles: [minister]
+  status: active
+  statusNote: 2020 年 8 月起任国家开发银行党委委员、副行长，本站未查到其后的任职变动。
+  tier: 2
+  headline: 包商银行接管组组长，时任中国人民银行办公厅主任，后任国家开发银行副行长
+  bio: >-
+    地质专业出身，曾在地质矿产部、国务院办公厅工作，2008 年进入中国人民银行，历任条法司司长、南京分行行长、营业管理部主任、金融稳定局局长和办公厅主任。
+    2019 年 5 月任包商银行接管组组长，2020 年撰文披露包商银行的公司治理失效，同年 8 月调任国开行副行长。
+  positions:
+    - { title: 中国人民银行金融稳定局副局长, sys: gov, place: 北京, from: 2008-12, cite: c13-jiemian-2020-08-05-zhou-xuedong }
+    - { title: 中国人民银行办公厅主任, sys: gov, place: 北京, to: 2020-08, cite: c13-jiemian-2020-08-05-zhou-xuedong }
+    - { title: 包商银行接管组组长, sys: gov, place: 内蒙古包头, from: 2019-05, cite: e13-pbc-2019-05-24-baoshang-takeover }
+    - { title: 国家开发银行党委委员、副行长, sys: other, place: 北京, from: 2020-08, cite: c13-jiemian-2020-08-05-zhou-xuedong }
+  cites: [c13-jiemian-2020-08-05-zhou-xuedong, e13-pbc-2019-05-24-baoshang-takeover, cs6-thepaper-2020-08-03-zhou-xuedong]
+
+- id: li-zhenxi
+  name: 李镇西
+  gender: m
+  born: 1961-06
+  birthplace: 内蒙古土默特右旗
+  roles: [biz, tiger]
+  status: detained
+  statusNote: 2019 年起被羁押；财新 2025 年 1 月报道他与多名包商银行原高管已一审宣判，罪名和刑期未见公开报道。
+  fall:
+    - { date: 2019, text: 包商银行被接管后，与李献平、金岩、王慧萍等高管先后被专案组带走, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { date: 2025-01, text: 财新报道其与多名包商银行原高管已一审宣判, cite: cs6-caixin-2025-01-27-li-zhenxi }
+  tier: 2
+  headline: 包商银行原董事长，执掌该行十余年，向多名监管官员和政协官员行贿
+  bio: >-
+    土默特右旗人，记者出身，2002 年任包头市商业银行行长，2008 年起任包商银行党委书记、董事长（另说 2007 年，中国长安网）。
+    周学东称他是事实上的内部控制人。法院认定他送给刘金明现金和北京房产近 1200 万元，为谋取政协委员身份等向邹万银送款 1710 万元。
+  positions:
+    - { title: 包头市商业银行行长, sys: other, place: 内蒙古包头, from: 2002, cite: cs6-thepaper-2020-08-03-zhou-xuedong }
+    - { title: 包商银行党委书记、董事长, sys: other, place: 内蒙古包头, from: 2008, to: 2019-05, cite: cs6-thepaper-2020-08-03-zhou-xuedong }
+  cites: [c13-chinapeace-2021-01-29-baoshang, cs6-thepaper-2020-08-03-zhou-xuedong, cs6-thepaper-2024-01-03-li-zhenxi, cs6-caixin-2025-01-27-li-zhenxi, c13-nbd-2021-01-03-liu-jinming]
+
+- id: liu-jinming
+  name: 刘金明
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2020 年以受贿罪被一审判处有期徒刑 12 年。
+  fall:
+    - { date: 2019-11-16, text: 被内蒙古自治区监委留置, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { date: 2020-04-29, text: 被开除党籍、开除公职，涉嫌受贿犯罪问题移送检察机关, cite: c13-ccdi-2020-04-29-liu-jinming-expel }
+    - { date: 2020-12, text: 一审以受贿罪判处有期徒刑十二年，并处罚金人民币一百万元，认定受贿 3166.2902 万元, cite: c13-nbd-2021-01-03-liu-jinming }
+  tier: 2
+  headline: 原内蒙古银监局纪委书记、副局长，收受包商银行董事长李镇西千万房产，获刑 12 年
+  bio: >-
+    2009 年至 2011 年任包头银监分局局长，此后任内蒙古银监局党委委员、纪委书记、副局长。2019 年 11 月被留置，中国长安网称包商银行系列腐败案的“盖子”由此逐步揭开。
+    法院认定他受贿 3166 万余元，其中李镇西送给他现金 200 万元和北京望京房产等近 1000 万元。
+  positions:
+    - { title: 包头银监分局党委书记、局长, sys: gov, place: 内蒙古包头, from: 2009-10, to: 2011-06, cite: c13-ccdi-2020-04-29-liu-jinming-expel }
+    - { title: 内蒙古银监局党委委员、纪委书记、副局长, sys: gov, place: 内蒙古, from: 2011-06, to: 2018-10, cite: c13-ccdi-2020-04-29-liu-jinming-expel }
+  cites: [c13-ccdi-2020-04-29-liu-jinming-expel, c13-chinapeace-2021-01-29-baoshang, c13-nbd-2021-01-03-liu-jinming, cs6-thepaper-2024-01-03-li-zhenxi]
+
+- id: jia-qizhen
+  name: 贾奇珍
+  gender: m
+  born: 1963-01
+  birthplace: 山西左云
+  joinedWork: 1985-07
+  joinedParty: 1993-04
+  roles: [tiger]
+  status: purged
+  statusNote: 2020 年 12 月 29 日受审并认罪认罚，宣判结果未见公开报道。
+  fall:
+    - { date: 2019-12-23, text: 接受纪律审查和监察调查, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { date: 2020-06-29, text: 被开除党籍、开除公职，涉嫌受贿犯罪问题移送检察机关, cite: c13-ccdi-2020-06-29-jia-qizhen-expel }
+    - { date: 2020-12-29, text: 在呼和浩特中院受审，被控受贿 5000 余万元，当庭认罪认罚, cite: c13-thepaper-2020-12-29-jia-qizhen-trial }
+  tier: 2
+  headline: 原内蒙古银监局副局长，分管城商行监管近十年，被控受贿 5000 余万元
+  bio: >-
+    山西左云人，2003 年起历任内蒙古银监局处长、党委委员、副局长。中国长安网称他从事和分管城商行监管近 10 年，
+    直至包商银行出现重大风险前仍对其无序扩张听之任之。2019 年 12 月被查，2020 年 6 月被“双开”，同年 12 月受审，被控受贿 5000 余万元。
+  positions:
+    - { title: 内蒙古银监局处长、党委委员、副局长, sys: gov, place: 内蒙古, from: 2003-10, to: 2018-10, cite: c13-ccdi-2020-06-29-jia-qizhen-expel }
+    - { title: 内蒙古银保监局党委委员, sys: gov, place: 内蒙古, from: 2018-11, to: 2019-12, cite: c13-ccdi-2020-06-29-jia-qizhen-expel }
+  cites: [c13-ccdi-2020-06-29-jia-qizhen-expel, c13-chinapeace-2021-01-29-baoshang, c13-thepaper-2020-12-29-jia-qizhen-trial]
+
+- id: xue-jining
+  name: 薛纪宁
+  gender: m
+  born: 1955-02
+  birthplace: 江苏如皋
+  roles: [tiger]
+  status: purged
+  statusNote: 2021 年 5 月 12 日受审并认罪认罚，宣判结果未见公开报道。
+  fall:
+    - { date: 2020-06-04, text: 接受纪律审查和监察调查, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { date: 2020-12-18, text: 被逮捕, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { date: 2021-01-25, text: 被开除党籍，取消其享受的待遇，涉嫌受贿犯罪问题移送检察机关, cite: c13-ccdi-2021-01-25-xue-jining-expel }
+    - { date: 2021-05-12, text: 在呼和浩特中院受审，被控收受 37 家单位和个人财物折合 400437881 元，当庭认罪认罚, cite: c13-thepaper-2021-05-12-xue-jining-trial }
+  tier: 2
+  headline: 原内蒙古银监局局长，任内纵容包商银行野蛮扩张，被控受贿逾 4 亿元
+  ids: { wikidata: Q96068224 }
+  bio: >-
+    江苏如皋人，曾任中央金融纪工委案件检查二室主任、银监会监察局副局长，2007 年至 2014 年任内蒙古银监局局长，2015 年退休。
+    中央纪委通报称他纵容包商银行野蛮扩张和违法经营、助推其严重信用风险，并泄露巡视工作秘密为其子换取利益。2021 年受审，被控受贿逾 4 亿元。
+  positions:
+    - { title: 中国银监会监察局副局长, sys: gov, place: 北京, from: 2003-11, to: 2007-08, cite: c13-wiki-xue-jining }
+    - { title: 中国银监会内蒙古监管局党委书记、局长, sys: gov, place: 内蒙古, from: 2007-08, to: 2014-04, cite: c13-ccdi-2021-01-25-xue-jining-expel }
+    - { title: 中国银监会党委巡视办巡视员, sys: gov, place: 北京, from: 2014-04, to: 2015-03, cite: c13-wiki-xue-jining }
+  cites: [wd-Q96068224, c13-wiki-xue-jining, c13-ccdi-2021-01-25-xue-jining-expel, c13-chinapeace-2021-01-29-baoshang, c13-thepaper-2021-05-12-xue-jining-trial, cs6-thepaper-2024-01-03-li-zhenxi]
+
+- id: zou-wanyin
+  name: 邹万银
+  gender: m
+  born: 1953
+  birthplace: 四川资中
+  roles: [tiger]
+  status: detained
+  statusNote: 2023 年 4 月被一审判处有期徒刑十四年六个月，2023 年底二审维持原判。
+  fall:
+    - { date: 2020, text: 接受内蒙古纪委监委纪律审查和监察调查, cite: c13-jiemian-2024-01-03-zou-wanyin }
+    - { date: 2021-06-07, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关, cite: c13-imust-2021-06-07-zou-wanyin-expel }
+    - { date: 2023-04, text: 巴彦淖尔中院一审以受贿罪、利用影响力受贿罪、重婚罪、非法持有枪支罪数罪并罚判处有期徒刑十四年六个月，并处罚金 120 万元，认定受贿 1732 万元, cite: c13-jiemian-2024-01-03-zou-wanyin }
+    - { date: 2023-12, text: 内蒙古高院二审驳回上诉，维持原判, cite: c13-jiemian-2024-01-03-zou-wanyin }
+  tier: 2
+  headline: 内蒙古政协文史资料委员会原主任，收受包商银行董事长李镇西 1710 万元，获刑十四年六个月
+  bio: >-
+    四川资中人，曾任巴彦淖尔和内蒙古驻京办官员、内蒙古社科联副主席，2011 年至 2016 年任内蒙古政协文史资料委员会主任。
+    法院认定他受贿 1732 万元，其中 1710 万元来自包商银行原董事长李镇西，他为李镇西连任社科联兼职副主席、谋取全国政协委员提供帮助，2023 年被判刑十四年六个月。
+  positions:
+    - { title: 内蒙古驻京办接待处处长, sys: gov, place: 北京, to: 2003, cite: c13-jiemian-2024-01-03-zou-wanyin }
+    - { title: 内蒙古社会科学联合会党组成员、副主席, sys: other, place: 内蒙古, from: 2003, to: 2011, cite: c13-jiemian-2024-01-03-zou-wanyin }
+    - { title: 内蒙古自治区政协文史资料委员会主任, sys: other, place: 内蒙古, from: 2011, to: 2016, cite: c13-jiemian-2024-01-03-zou-wanyin }
+  cites: [c13-jiemian-2024-01-03-zou-wanyin, c13-imust-2021-06-07-zou-wanyin-expel, cs6-thepaper-2024-01-03-li-zhenxi]
+
+# ───── CS6 · zhejiang-guangsha ─────
+- id: lou-ming
+  name: 楼明
+  gender: m
+  roles: [biz, family]
+  status: active
+  tier: 2
+  headline: 楼忠福之子，广厦控股集团董事局主席，曾任浙江省青年联合会副主席
+  bio: >-
+    广厦集团创始人楼忠福的儿子。无界新闻称 2006 年至 2007 年广厦资金荒时，楼忠福已退居幕后，由长子楼明接班。他曾任浙江省青年联合会副主席、东阳市人大常委会委员。
+    2016 年 9 月他向媒体证实楼忠福已回家；2023 年 12 月浙江证监局就东望时代权益变动披露迟延，对他和楼忠福、楼江跃等分别出具警示函。
+  positions:
+    - { title: 广厦控股集团有限公司董事局主席, sys: other, place: 浙江东阳, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
+    - { title: 浙江省青年联合会副主席, sys: other, place: 浙江, cite: cs6-thepaper-2015-02-16-si-li }
+    - { title: 东阳市人大常委会委员, sys: other, place: 浙江东阳, cite: cs6-chinanews-2015-07-28-lou-zhongfu }
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-thepaper-2015-02-16-si-li, cs6-sohu-2015-07-14-lou-sponsor, cs6-chinanews-2015-07-28-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning]
+
+- id: lou-jiangyue
+  name: 楼江跃
+  roles: [biz]
+  status: active
+  tier: 2
+  headline: 广厦控股集团董事局副主席，2023 年与楼忠福、楼明一同被浙江证监局出具警示函
+  bio: >-
+    据新京报 2016 年引述的广厦官网，广厦控股“广厦领导”一栏只有楼忠福、楼明和他三人，他任董事局副主席。
+    浙江证监局 2023 年 12 月认定，广厦控股及其一致行动人（包括他和楼忠福、楼明）未及时披露放弃东望时代表决权和股份被法院裁定转移的权益变动，分别出具警示函。
+  positions:
+    - { title: 广厦控股集团有限公司董事局副主席, sys: other, place: 浙江东阳, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning]
+
+- id: si-li
+  name: 斯力
+  gender: m
+  roles: [family]
+  status: missing
+  statusNote: 2015 年 2 月前后被有关部门带走，处理结果未见公开报道。
+  fall:
+    - { date: 2015-02, text: 斯鑫良被宣布接受组织调查前后，被有关部门带走, cite: cs6-thepaper-2015-02-16-si-li }
+  tier: 2
+  headline: 浙江省委原组织部长斯鑫良之子，浙江团省委常委、组织部长，2015 年与父亲先后被带走
+  bio: >-
+    斯鑫良之子，历任浙江团省委宣传部副部长、统战部长、组织部长，2011 年当选浙江省青联副主席、团省委常委，2014 年 7 月被任命为杭州市上城区副区长（省下派挂职）。
+    据澎湃新闻，斯鑫良被查前他已被带走；另说，无界新闻称他当时挂职上城区副区长，与父亲同时被带走。
+  positions:
+    - { title: 浙江团省委常委、组织部长, sys: party, place: 浙江, from: 2011-11, cite: c13-thepaper-2015-02-16-si-li-cv }
+    - { title: 浙江省青年联合会副主席, sys: other, place: 浙江, from: 2011-01, cite: c13-thepaper-2015-02-16-si-li-cv }
+    - { title: 杭州市上城区副区长（挂职）, sys: gov, place: 浙江杭州, from: 2014-07, cite: c13-thepaper-2015-02-16-si-li-cv }
+  cites: [c13-thepaper-2015-02-16-si-li-cv, cs6-thepaper-2015-02-16-si-li, cs6-sohu-2015-07-14-lou-sponsor]
+
+- id: jin-huifang
+  name: 金惠芳
+  gender: f
+  roles: [family]
+  status: missing
+  statusNote: 斯鑫良案判决书称其另案处理，处理结果未见公开报道。
+  fall:
+    - { date: 2016-12-13, text: 九江中院认定斯鑫良直接或通过其妻金惠芳收受财物，判决书注明金惠芳另案处理, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  tier: 2
+  headline: 斯鑫良之妻，判决认定斯鑫良部分受贿经她收受，另案处理
+  bio: >-
+    浙江省委原组织部长斯鑫良的妻子。国际在线援引中纪委通报称，她是斯鑫良攻守同盟中的重要棋子；2012 年斯鑫良以省政协副主席身份率团赴新疆调研时她随行。
+    2016 年九江中院认定斯鑫良直接或通过她收受财物 1955.442 万元，判决书注明她另案处理。
+  cites: [t01-ccdi-2016-12-13-si-xinliang-verdict, c13-cri-2015-06-19-si-xinliang]
+
+- id: wu-ying
+  name: 吴英
+  gender: f
+  born: 1981-05-20
+  birthplace: 浙江东阳
+  roles: [biz]
+  status: detained
+  statusNote: 2018 年 3 月减为有期徒刑二十五年，刑期至 2043 年 3 月 22 日，在浙江省女子监狱服刑。
+  fall:
+    - { date: 2009-10-29, text: 金华中院以集资诈骗罪判处死刑, cite: c13-wikisource-2018-03-23-wu-ying }
+    - { date: 2012-04-20, text: 最高人民法院裁定不核准死刑，发回浙江高院重审, cite: e07-court-2012-04-20-wu-ying }
+    - { date: 2012-05-21, text: 浙江高院以集资诈骗罪改判死刑，缓期二年执行, cite: c13-wikisource-2018-03-23-wu-ying }
+    - { date: 2014-07-11, text: 减为无期徒刑, cite: c13-wikisource-2018-03-23-wu-ying }
+    - { date: 2018-03-23, text: 减为有期徒刑二十五年, cite: c13-wikisource-2018-03-23-wu-ying }
+  tier: 2
+  headline: 东阳本色集团创办人，集资诈骗案由死刑改判死缓；其父指控楼忠华介入其资产拍卖
+  ids: { wikidata: Q716825 }
+  bio: >-
+    浙江东阳人，本色集团创办人，2009 年以集资诈骗罪被判死刑。2012 年最高法不核准死刑，称她归案后供述了贿赂多名公务人员的事实，浙江高院改判死缓；
+    温家宝同年就此案谈民间金融。她 2014 年减为无期、2018 年减为 25 年。其父吴永正指控楼忠福之弟楼忠华介入她的资产拍卖，广厦否认。
+  cites: [wd-Q716825, c13-wikisource-2018-03-23-wu-ying, e07-court-2012-04-20-wu-ying, e07-xinhua-2012-03-14-wen-wu-ying, c13-cctv-2018-03-23-wu-ying, cs6-chinanews-2015-07-28-lou-zhongfu]
+
+- id: wu-yongzheng
+  name: 吴永正
+  gender: m
+  roles: [family]
+  status: active
+  tier: 2
+  headline: 吴英之父，公开指控楼忠福之弟楼忠华介入吴英案资产拍卖
+  bio: >-
+    吴英的父亲。据《中国经济周刊》，他公开指称楼忠华是东阳最大的黑恶势力、背后有楼忠福庇护，曾暗示吴英上交 2000 万元保护费，
+    并以 450 万元拍得本色酒店后以 780 万元转手。广厦集团声明与吴英案无任何牵扯，保留追究其法律责任的权利。2018 年他旁听了吴英减刑庭审。
+  cites: [cs6-chinanews-2015-07-28-lou-zhongfu, c13-cctv-2018-03-23-wu-ying]
+
+- id: lou-zhonghua
+  name: 楼忠华
+  gender: m
+  roles: [biz, family]
+  status: active
+  statusNote: 吴永正的指控未见官方调查或司法认定。
+  tier: 2
+  headline: 楼忠福之弟，吴英之父吴永正指其介入吴英案资产拍卖，广厦否认
+  bio: >-
+    广厦集团创始人楼忠福的弟弟。《中国经济周刊》引东阳匿名官员说，楼忠福在浙江政法系统的关系网在一定程度上助长了他在金华的势力。
+    吴英之父吴永正指称他曾暗示吴英上交 2000 万元保护费，并以 450 万元拍得本色酒店后以 780 万元转手；广厦集团声明与吴英案无任何牵扯。
+  cites: [cs6-chinanews-2015-07-28-lou-zhongfu]
+
+- id: wu-jian
+  name: 吴坚
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 2011 年底被判有期徒刑 9 年 6 个月，未见出狱的公开报道。
+  fall:
+    - { date: 2010-02-08, text: 被杭州市公安局西湖分局以涉嫌诈骗刑事拘留, cite: cs6-sohu-2015-07-14-lou-sponsor }
+    - { date: 2011-11-08, text: 在杭州市西湖区法院受审, cite: cs6-sohu-2015-07-14-lou-sponsor }
+    - { date: 2011-12, text: 被判处有期徒刑九年六个月, cite: cs6-sohu-2015-07-14-lou-sponsor }
+  tier: 2
+  headline: 义乌商人，广厦资金荒时的债权人，向银行举报、向媒体曝光后以诈骗罪获刑
+  bio: >-
+    义乌商人。据无界新闻，他与楼忠福的纠纷源于 2006 年至 2007 年广厦资金荒，作为债权人曾到银行系统举报、向媒体曝光，持有盖广厦公章的欠条。
+    2010 年 2 月他被杭州警方以涉嫌诈骗刑拘，2011 年底被判刑 9 年 6 个月，追债官司随之中止。
+  cites: [cs6-sohu-2015-07-14-lou-sponsor]
+
+# ───── U07 · U08 ─────
+- id: fu-jianhua
+  name: 付建华
+  gender: m
+  born: 1958-07
+  birthplace: 辽宁昌图
+  joinedWork: 1976-08
+  joinedParty: 1995-12
+  roles: [minister, ccdi]
+  status: retired
+  statusNote: 2020 年 2 月被免去应急管理部副部长职务。
+  tier: 2
+  headline: 应急管理部原副部长，2014 年山西塌方后由国家安监总局空降山西省委常委、副省长
+  ids: { wikidata: Q18415696 }
+  bio: >-
+    辽宁昌图人，采矿和通风安全专业出身，长期在国家煤矿安全监察系统工作，2011 年任国家安监总局副局长、次年兼国家煤监局局长，第十八届中纪委委员。
+    2014 年 9 月山西省级官员大批被查后，与黄晓薇、吴政隆、孙绍骋、王伟中一起补入山西省委常委，任副省长，2016 年回安监总局，2018 年任应急管理部副部长。
+  positions:
+    - { title: 国家煤矿安全监察局副局长, sys: gov, place: 北京, from: 2005-02, to: 2011-05, cite: c13-wiki-fu-jianhua }
+    - { title: 国家安全生产监督管理总局副局长、国家煤矿安全监察局局长, sys: gov, place: 北京, from: 2011-05, to: 2014-09, cite: c13-wiki-fu-jianhua }
+    - { title: 中共山西省委常委、山西省副省长, sys: party, place: 山西, from: 2014-09, to: 2016-11, cite: c13-wiki-fu-jianhua }
+    - { title: 国家安全生产监督管理总局党组副书记、副局长, sys: gov, place: 北京, from: 2016-11, to: 2018-03, cite: c13-wiki-fu-jianhua }
+    - { title: 应急管理部党组副书记、副部长, sys: gov, place: 北京, from: 2018-03, to: 2020-02, cite: c13-wiki-fu-jianhua }
+  cites: [wd-Q18415696, c13-wiki-fu-jianhua, u07-people-2014-09-30-shanxi-five, cs1-people-2014-09-30-shanxi-13]
+
+- id: zhao-shengxuan
+  name: 赵胜轩
+  gender: m
+  born: 1953-12
+  birthplace: 山东单县
+  joinedWork: 1975-01
+  roles: [minister, tiger]
+  status: purged
+  statusNote: 2016 年因违纪被责令辞去全国人大代表职务，官方未公布具体违纪事实和处理结果。
+  fall:
+    - { date: 2016-02, text: 不再担任中国社会科学院副院长、党组副书记，简历从社科院官网撤下, cite: c13-thepaper-2016-07-zhao-shengxuan }
+    - { date: 2016-02-23, text: 因违纪被责令辞去第十二届全国人大代表职务，山东省人大常委会决定接受其辞职, cite: c13-thepaper-2016-07-zhao-shengxuan }
+    - { date: 2016-03, text: 国务院免去其中国社会科学院副院长职务, cite: c13-thepaper-2016-07-zhao-shengxuan }
+  tier: 2
+  headline: 中办原副主任、中国社科院原副院长，2016 年因违纪被责令辞去全国人大代表
+  ids: { wikidata: Q16260725 }
+  bio: >-
+    山东单县人，人大哲学系毕业，1991 年起在中办调研室工作至主任，2007 年至 2013 年任中办副主任，兼中办机关党委书记，2013 年转任中国社科院副院长（正部长级），
+    在四名副院长中排名第一（另说常务副院长，维基百科）。2016 年 2 月因违纪被责令辞去全国人大代表。他是后任中办副主任孔绍逊的人大校友。
+  positions:
+    - { title: 中共中央办公厅调研室主任, sys: party, place: 北京, to: 2007-01, cite: c13-thepaper-2016-07-zhao-shengxuan }
+    - { title: 中共中央办公厅副主任, sys: party, place: 北京, from: 2007-01, to: 2013-04, cite: c13-wiki-zhao-shengxuan }
+    - { title: 中国社会科学院副院长、党组副书记, sys: gov, place: 北京, from: 2013-04, to: 2016-02, cite: c13-thepaper-2016-07-zhao-shengxuan }
+    - { title: 全国人大常委会委员, sys: other, place: 北京, to: 2016-02, cite: c13-wiki-zhao-shengxuan }
+  cites: [wd-Q16260725, c13-wiki-zhao-shengxuan, c13-thepaper-2016-07-zhao-shengxuan, c13-people-2016-09-09-npc-77, p03-wiki-kong-shaoxun]
+
+- id: zheng-weimin
+  name: 郑维敏
+  gender: m
+  born: 1923
+  died: 2012-01-21
+  birthplace: 浙江鄞县
+  roles: [scholar]
+  status: dead
+  tier: 2
+  headline: 清华大学教授，中国系统工程学科开创人之一，周小川和殷勇的导师
+  ids: { wikidata: Q108312317 }
+  bio: >-
+    浙江鄞县人，自动控制和系统工程专家，曾任中国自动化学会、中国系统工程学会理事。新浪财经称他是中国系统工程学科的开创人之一、清华工业自动化和系统工程专业的创办者，
+    周小川和殷勇都是他的学生；他 2012 年去世时，殷勇撰文追思。
+  positions:
+    - { title: 清华大学教授, sys: other, place: 北京, cite: u08-sina-2018-01-19-yin-yong }
+  cites: [wd-Q108312317, c13-wiki-zheng-weimin, u08-sina-2018-01-19-yin-yong]
+
+- id: han-liping
+  name: 韩立平
+  gender: m
+  born: 1960-01
+  birthplace: 北京
+  roles: [minister]
+  status: retired
+  statusNote: 2025 年 10 月卸任中华全国供销合作总社党组书记。
+  tier: 2
+  headline: 中办原副主任兼秘书局局长，后任全国供销合作总社党组书记
+  ids: { wikidata: Q47687998 }
+  bio: >-
+    北京人，长期在中办工作，历任中办老干部局局长、秘书局局长，2017 年升任中办副主任兼秘书局局长；孔绍逊后来也任中办副主任兼秘书局局长。
+    2019 年 11 月任全国供销合作总社党组书记，任内梁惠玲于 2021 年 7 月至 2022 年任总社理事会主任，他 2025 年 10 月卸任。
+  positions:
+    - { title: 中共中央办公厅秘书局局长, sys: party, place: 北京, cite: c13-wiki-han-liping }
+    - { title: 中共中央办公厅副主任兼秘书局局长, sys: party, place: 北京, from: 2017, to: 2019-11, cite: c13-wiki-han-liping }
+    - { title: 中华全国供销合作总社党组书记、理事会副主任, sys: other, place: 北京, from: 2019-11, to: 2025-10, cite: c13-wiki-han-liping }
+  cites: [wd-Q47687998, c13-wiki-han-liping, u08-guancha-2026-09-02-kong-shaoxun, u08-sdsb-2022-12-09-liang-huiling]
+
+- id: lu-yan
+  name: 卢彦
+  gender: m
+  born: 1963-03
+  birthplace: 江苏宝应
+  joinedWork: 1984-07
+  roles: [minister]
+  status: active
+  statusNote: 2023 年 1 月起任北京市政协副主席。
+  tier: 2
+  headline: 北京市原副市长、市政协副主席，2018 年向北京市人大常委会说明殷勇的任命
+  ids: { wikidata: Q30941364 }
+  bio: >-
+    江苏宝应人，北京商学院毕业、人大经济学博士，历任北京市物价局副局长、东城区长、市商务局局长、市商务委主任、市发改委主任，2017 年 4 月任副市长，2023 年 1 月任市政协副主席。
+    2018 年他受代市长陈吉宁委托，就殷勇任副市长作说明，称其“熟悉外汇、储备、经营管理工作”。
+  positions:
+    - { title: 北京市东城区区长, sys: gov, place: 北京, from: 2003-01, to: 2006-07, cite: c13-wiki-lu-yan }
+    - { title: 北京市商务委员会主任, sys: gov, place: 北京, from: 2009-03, to: 2014-11, cite: c13-wiki-lu-yan }
+    - { title: 北京市发展和改革委员会主任, sys: gov, place: 北京, from: 2014-11, to: 2017-04, cite: c13-wiki-lu-yan }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 2017-04, to: 2023-01, cite: c13-wiki-lu-yan }
+    - { title: 北京市政协副主席, sys: other, place: 北京, from: 2023-01, cite: c13-wiki-lu-yan }
+  cites: [wd-Q30941364, c13-wiki-lu-yan, u08-xinhua-2018-01-19-yin-yong, u08-sina-2018-01-19-yin-yong]
+
+# ───── named in other case studies ─────
+- id: zhou-hao
+  name: 周灏
+  gender: m
+  born: 1963-10
+  roles: [tiger]
+  status: missing
+  statusNote: 2014 年 4 月底被有关部门带走，官方未宣布，处理结果未见公开报道。
+  fall:
+    - { date: 2014-04, text: 据澎湃新闻多个权威信息源，被有关部门带走，官方未宣布, cite: c13-hkcd-2014-12-30-zhou-hao }
+  tier: 2
+  headline: 中石油辽河油田公司原党委书记，周永康案判决认定的行贿人之一
+  bio: >-
+    南京大学计算机系毕业，曾任卫生部北京医院团委书记，1992 年进入石油系统任团委书记，2010 年任盘锦市委常委、辽河油田公司党委书记。
+    澎湃新闻称他 2014 年 4 月底被带走，并转述国内媒体称他是周永康的远房侄子。2015 年周永康案判决认定，周滨、贾晓晔收受了他的财物。
+  positions:
+    - { title: 中国石油天然气总公司直属机关团委书记, sys: other, place: 北京, from: 1993-10, cite: c13-thepaper-2014-12-30-zhou-hao }
+    - { title: 中共盘锦市委常委、中石油辽河油田公司党委书记、副总经理, sys: other, place: 辽宁盘锦, from: 2010-09, to: 2014-04, cite: c13-thepaper-2014-12-30-zhou-hao }
+  cites: [c13-thepaper-2014-12-30-zhou-hao, c13-hkcd-2014-12-30-zhou-hao, e03-xinhua-2015-06-11-zhou-verdict]
+
+- id: luo-changping
+  name: 罗昌平
+  gender: m
+  born: 1980-12-27
+  birthplace: 湖南
+  roles: [media]
+  status: active
+  statusNote: 2022 年 5 月 5 日被判有期徒刑 7 个月，因羁押期折抵刑期，次日出狱。
+  fall:
+    - { date: 2021-10, text: 因微博评论长津湖战役，被三亚警方以涉嫌侮辱英烈传唤调查, cite: c13-wiki-luo-changping }
+    - { date: 2022-05-05, text: 三亚市城郊法院以侵害英雄烈士名誉、荣誉罪判处有期徒刑七个月, cite: c13-wiki-luo-changping }
+  tier: 2
+  headline: 《财经》杂志原副主编，2012 年实名举报刘铁男，在《打铁记》中描述“西山会”
+  ids: { wikidata: Q15942242 }
+  bio: >-
+    湖南人，曾任《新京报》深度报道部主编、《财经》杂志副主编。2012 年 12 月在微博实名举报国家能源局局长刘铁男。2013 年在连载《打铁记》中描述以令计划为首的山西籍高官圈子“西山会”，
+    称其“具备高度的身份认同感”。2021 年因评论长津湖战役被拘，次年以侵害英雄烈士名誉、荣誉罪被判 7 个月。
+  positions:
+    - { title: 《新京报》深度报道部主编, sys: other, place: 北京, from: 2006, cite: c13-wiki-luo-changping }
+    - { title: 《财经》杂志副主编, sys: other, place: 北京, cite: c13-wiki-luo-changping }
+  cites: [wd-Q15942242, c13-wiki-luo-changping, f01-rfi-2013-10-15-xishanhui, f02-hqrw-2015-01-06-xishanhui]
+
+- id: teng-biao
+  name: 滕彪
+  gender: m
+  born: 1973-08-02
+  birthplace: 吉林桦甸
+  roles: [dissent, scholar]
+  status: exiled
+  statusNote: 2014 年 9 月起定居美国。
+  tier: 2
+  headline: 人权律师、中国政法大学原讲师，2003 年“三博士”上书之一，2014 年起旅居美国
+  ids: { wikidata: Q922687 }
+  bio: >-
+    吉林桦甸人，2003 年孙志刚事件后与许志永、俞江联名上书全国人大常委会，要求审查收容遣送办法，同年与许志永等创办“阳光宪政”。2014 年赴美，在多所大学任访问学者。
+    2022 年他对 BBC 中文说，抓谁、判谁是政治斗争和清除政治对手的需要，并把二十大前审判傅政华、孙力军视为党内权力斗争加剧的信号。
+  positions:
+    - { title: 中国政法大学法学院讲师, sys: other, place: 北京, cite: c13-wiki-teng-biao }
+  cites: [wd-Q922687, c13-wiki-teng-biao, f03-bbc-2022-09-27-fu-sun]
+
+- id: zhang-lifan
+  name: 章立凡
+  gender: m
+  born: 1950-07
+  died: 2025-03-22
+  birthplace: 北京
+  origin: 浙江青田
+  roles: [scholar]
+  status: dead
+  tier: 2
+  headline: 北京独立历史学者、章乃器之子，常就高层政治接受海外媒体采访
+  ids: { wikidata: Q9094998 }
+  bio: >-
+    民建创始人章乃器之子，出身中国社科院近代史研究所，长期接受海外媒体采访评论时政。2017 年他对《南华早报》说，习近平的反腐运动不仅是要廉政，也涉及权力斗争。
+    2013 年三中全会后他在网络上遭到封杀。2025 年 6 月《明报》证实他已于 3 月 22 日病逝（另有传闻称其 2024 年 9 月已离世）。
+  cites: [wd-Q9094998, c13-wiki-zhang-lifan, b03-bbc-2017-01-02-xi-conspiracy, i09-rfa-2013-11-19-zhang-qianfan]
+
+- id: zhang-zongxun
+  name: 张宗逊
+  gender: m
+  born: 1908-02-07
+  died: 1998-09-14
+  birthplace: 陕西渭南
+  roles: [general]
+  status: dead
+  tier: 2
+  headline: 开国上将、解放军总后勤部原部长，张又侠之父，1947 年与习仲勋在西北野战军共事
+  ids: { wikidata: Q8070454 }
+  bio: >-
+    陕西渭南人，黄埔五期，参加秋收起义，抗战时任八路军 358 旅旅长，内战中任西北野战军、第一野战军副司令员。开国上将，1949 年后任副总参谋长、总后勤部部长，第十届中央委员。
+    德国之声称他与习仲勋 1947 年在西北野战军共事，两家可谓世交。其子张又侠 2026 年 1 月被立案审查。
+  positions:
+    - { title: 西北野战军副司令员, sys: army, from: 1947, cite: c13-wiki-zhang-zongxun }
+    - { title: 中国人民解放军副总参谋长, sys: army, place: 北京, cite: c13-wiki-zhang-zongxun }
+    - { title: 中国人民解放军总后勤部部长, sys: army, place: 北京, cite: c13-wiki-zhang-zongxun }
+  cites: [wd-Q8070454, c13-wiki-zhang-zongxun, f01-dw-2026-01-26-zhang-youxia, b04-bbc-2026-01-zhang-youxia]
+
+- id: hu-jianxue
+  name: 胡建学
+  gender: m
+  born: 1950
+  roles: [tiger]
+  status: purged
+  statusNote: 1996 年被判死缓；2015 年全国人大审议终身监禁条款时被举为保外就医连续续保的例子。
+  fall:
+    - { date: 1995-11, text: 被开除党籍、开除公职, cite: c13-wiki-hu-jianxue }
+    - { date: 1996-06, text: 被判处死刑，缓期二年执行, cite: c13-wiki-hu-jianxue }
+  tier: 2
+  headline: 山东泰安原市委书记，1996 年被判死缓，其保外就医连续续保成为增设终身监禁的立法理由之一
+  ids: { wikidata: Q15929171 }
+  bio: >-
+    山东人，南京大学化学系毕业，1990 年任泰安市长，同年 6 月升任市委书记，1995 年 11 月被开除党籍、开除公职，1996 年被判死缓。
+    2015 年刑法修正案草案三审时，新华网的报道举例说他经批准保外就医 1 年，此后连续 7 年续保，作为刑罚执行漏洞的例证。
+  positions:
+    - { title: 中共泰安市委书记, sys: party, place: 山东泰安, from: 1990-06, to: 1995-11, cite: c13-wiki-hu-jianxue }
+  cites: [wd-Q15929171, c13-wiki-hu-jianxue, cs5-npc-2015-08-26-life-draft]
+
+- id: lin-chongzhong
+  name: 林崇中
+  gender: m
+  born: 1955-01
+  birthplace: 广东惠阳
+  joinedParty: 1973-06
+  roles: [tiger]
+  status: purged
+  statusNote: 2009 年以受贿罪被判有期徒刑十年，2011 年才被收监，未见出狱的公开报道。
+  fall:
+    - { date: 2009-07-30, text: 以受贿罪被判处有期徒刑十年，宣判当日违规获准保外就医, cite: c13-wiki-lin-chongzhong }
+    - { date: 2011, text: 广东省检察院立案侦查其违规保外就医后被收监, cite: c13-wiki-lin-chongzhong }
+  tier: 2
+  headline: 广东江门原副市长，2009 年获刑十年后当日违规“保外就医”回家
+  ids: { wikidata: Q16905492 }
+  bio: >-
+    广东惠阳人，历任江门团市委书记、江门市交通委主任、新会市委书记，2006 年任江门市委常委、副市长。2009 年以受贿罪被判 10 年，
+    宣判当天因买通看守所所长、医生等人违规获准保外就医，从法院直接回家，2011 年才被收监。2015 年立法增设终身监禁时，他被举为执行漏洞的例子。
+  positions:
+    - { title: 中共新会市委书记、江门市新会区委书记, sys: party, place: 广东江门, from: 2001, to: 2006, cite: c13-wiki-lin-chongzhong }
+    - { title: 中共江门市委常委、江门市副市长, sys: gov, place: 广东江门, from: 2006, cite: c13-wiki-lin-chongzhong }
+  cites: [wd-Q16905492, c13-wiki-lin-chongzhong, cs5-npc-2015-08-26-life-draft]
+
+- id: ruan-qilin
+  name: 阮齐林
+  gender: m
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国政法大学刑法学教授，评论 2015 年刑法修正案增设的终身监禁
+  bio: >-
+    中国政法大学刑事司法学院刑法研究所所长、刑法学教授。2015 年刑法修正案（九）草案三审增设终身监禁时，他对新华社说，“要增加刑罚的力度，不能法院前门判了，后门就出来了”，
+    并认为终身监禁将来可能对死刑立即执行起替代作用；2016 年他又说终身监禁的适用需要司法解释。
+  positions:
+    - { title: 中国政法大学刑事司法学院刑法研究所所长, sys: other, place: 北京, cite: cs5-npc-2015-08-26-life-draft }
+  cites: [cs5-npc-2015-08-26-life-draft, cs5-xinhua-2016-10-10-bai-enpei-first]
+
+- id: zhao-bingzhi
+  name: 赵秉志
+  gender: m
+  born: 1956-06-06
+  birthplace: 河南南阳
+  roles: [scholar]
+  status: active
+  statusNote: 2018 年 7 月被免去北京师范大学刑事法律科学研究院院长职务（维基百科称因生活作风问题）。
+  tier: 2
+  headline: 刑法学者、中国第一位刑法学博士，北京师范大学刑科院原院长，阐释终身监禁的适用对象
+  ids: { wikidata: Q17499580 }
+  bio: >-
+    河南南阳人，师从高铭暄、王作富，1988 年成为中国第一位刑法学博士，曾任人大法学院副院长，2005 年起任北师大刑事法律科学研究院院长，2018 年 7 月被免职。
+    2016 年他对新华社说，终身监禁的立法本意是作为死刑立即执行的替代措施，适用对象必须是本应判处死刑立即执行、基于慎用死刑政策判处死缓的贪污受贿罪犯。
+  positions:
+    - { title: 中国人民大学法学院副院长, sys: other, place: 北京, from: 1997-09, to: 2005-08, cite: c13-wiki-zhao-bingzhi }
+    - { title: 北京师范大学刑事法律科学研究院院长, sys: other, place: 北京, from: 2005-08, to: 2018-07, cite: c13-wiki-zhao-bingzhi }
+  cites: [wd-Q17499580, c13-wiki-zhao-bingzhi, cs5-xinhua-2016-11-15-life-three]
+
+- id: bai-jiexi
+  name: 白洁曦
+  aka: [Jessica Chen Weiss]
+  gender: f
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 美国国际关系学者，研究中国民族主义；2015 年股灾时评论北京归咎“境外势力”
+  ids: { wikidata: Q116807863 }
+  bio: >-
+    生于美国西雅图，斯坦福大学本科、加州大学圣地亚哥分校博士，著有《强大的爱国者》，曾任康奈尔大学教授、美国国务院政策规划办公室高级顾问，现任约翰斯·霍普金斯大学高级国际研究学院教授。
+    2015 年她对 BBC 中文说，怪罪外国势力操纵股市是转移对中国金融体系弱点注意力的典型方法。
+  positions:
+    - { title: 康奈尔大学政府系教授, sys: other, place: 美国, cite: c13-wiki-jessica-weiss }
+    - { title: 美国国务院政策规划办公室高级顾问, sys: other, place: 美国, from: 2021-08, to: 2022-07, cite: c13-wiki-jessica-weiss }
+    - { title: 约翰斯·霍普金斯大学高级国际研究学院中国研究教授, sys: other, place: 美国, cite: c13-wiki-jessica-weiss }
+  cites: [wd-Q116807863, c13-wiki-jessica-weiss, cs5-bbc-2015-07-22-short-conspiracy]
+
+- id: yu-meisun
+  name: 俞梅荪
+  gender: m
+  born: 1953
+  birthplace: 北京
+  roles: [dissent]
+  status: active
+  tier: 2
+  headline: 前国务院办公厅秘书、法律学者，曾因“泄露国家秘密”入狱，常就高层反腐接受海外媒体采访
+  ids: { wikidata: Q47667170 }
+  bio: >-
+    北京人，俞颂华之孙，1984 年北大法律系毕业，从事立法工作十年，曾任国务院办公厅秘书、顾明的秘书，后以泄露国家秘密罪入狱三年，出狱后上访多年，又帮助失地农民维权。
+    2014 年苏荣被查时，他对自由亚洲电台说，苏荣“跟周永康势力都有盘根错节的关系”。
+  positions:
+    - { title: 国务院办公厅秘书, sys: gov, place: 北京, cite: c13-wiki-yu-meisun }
+  cites: [wd-Q47667170, c13-wiki-yu-meisun, b12-rfa-2014-06-15-su-rong, n01-rfa-2013-06-18-four-winds]
+
+- id: li-yongzhong
+  name: 李永忠
+  gender: m
+  born: 1953
+  roles: [scholar]
+  status: retired
+  tier: 2
+  headline: 中国纪检监察学院原副院长，研究“制度反腐”，2012 年提出有条件赦免退赃官员
+  ids: { wikidata: Q11097166 }
+  bio: >-
+    早年在基层纪委任职，后任中国纪检监察学院副院长，以研究“制度反腐”知名。2012 年他提出赦免部分退赃官员以换取对政改的支持，引起争议。
+    2016 年中纪委首次批量通报 10 名中管干部受重处分，他对新京报说，这体现了六次全会提出的从严治党要求。
+  positions:
+    - { title: 中国纪检监察学院副院长, sys: other, place: 北京, cite: c13-wiki-li-yongzhong }
+  cites: [wd-Q11097166, c13-wiki-li-yongzhong, cs2-xinhua-2016-01-30-bjnews-ten]
+
+- id: zhuang-deshui
+  name: 庄德水
+  gender: m
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 北京大学廉政建设研究中心副主任，官方媒体常引用的反腐评论学者
+  bio: >-
+    北京大学廉政建设研究中心副主任，2024 年界面新闻称其为北京大学公共政策研究中心副主任，常就巡视、留置和反腐数据接受官方媒体采访。
+    谈烟草系统腐败时，他说人事腐败和“近亲繁殖”是国企选人用人的一大顽疾，建议由国资委统一监督招聘、公开招聘信息。
+  positions:
+    - { title: 北京大学廉政建设研究中心副主任, sys: other, place: 北京, cite: r04-12371-2022-01-09-2021-tigers }
+    - { title: 北京大学公共政策研究中心副主任, sys: other, place: 北京, cite: cs2-jiemian-2024-12-tobacco-five-tigers }
+  cites: [cs2-jiemian-2024-12-tobacco-five-tigers, r04-12371-2022-01-09-2021-tigers, e08-bbc-2018-03-20-supervision-law, r01-gov-2014-01-09-inspection-review]
+
+- id: gong-tanghua
+  name: 龚堂华
+  gender: m
+  born: 1965-04
+  birthplace: 福建上杭
+  roles: [ccdi]
+  status: active
+  statusNote: 2022 年 9 月起任中央纪委国家监委驻国务院国资委纪检监察组组长。
+  tier: 2
+  headline: 中央纪委委员，曾任驻民政部纪检组组长，主持福彩系列案后的整改监督
+  ids: { wikidata: Q105718574 }
+  bio: >-
+    福建上杭人，历任龙岩市纪委副书记、福建省纪委常委，2010 年进京任中纪委第八室副主任、第三室主任，2017 年 4 月任驻民政部纪检组组长，此后转驻科技部、国资委，第十九届、二十届中纪委委员。
+    谈福彩系列案时他说，“如果所有的鱼都死了，那就是水的问题”。
+  positions:
+    - { title: 中央纪委第三纪检监察室主任, sys: party, place: 北京, cite: c13-wiki-gong-tanghua }
+    - { title: 中央纪委驻民政部纪检（监察）组组长, sys: party, place: 北京, from: 2017-04, to: 2020-03, cite: c13-wiki-gong-tanghua }
+    - { title: 中央纪委国家监委驻科学技术部纪检监察组组长, sys: party, place: 北京, from: 2020-03, to: 2022-09, cite: c13-wiki-gong-tanghua }
+    - { title: 中央纪委国家监委驻国务院国资委纪检监察组组长, sys: party, place: 北京, from: 2022-09, cite: c13-wiki-gong-tanghua }
+  cites: [wd-Q105718574, c13-wiki-gong-tanghua, cs2-people-2018-11-09-lottery-14]
+
+- id: li-yuanping
+  name: 李元平
+  gender: m
+  born: 1962-11
+  birthplace: 山西怀仁
+  joinedParty: 1984-03
+  joinedWork: 1985-08
+  roles: [minister]
+  status: retired
+  statusNote: 2026 年 7 月到龄卸任贵州省纪委书记。
+  tier: 2
+  headline: 贵州省委常委、省纪委书记（2021–2026），主持查处孙志刚、李再勇等案后的贵州整治
+  ids: { wikidata: Q48936909 }
+  bio: >-
+    山西怀仁人，兽医专业出身，长期在检验检疫系统工作，2016 年任国家质检总局副局长，2018 年任甘肃省委组织部长，2021 年 12 月任贵州省纪委书记，2026 年 7 月到龄退休。
+    2024 年他在《中国纪检监察》撰文，要求汲取孙志刚、李再勇、周建琨等案教训，“把严惩政商勾连腐败作为攻坚战重中之重”。
+  positions:
+    - { title: 国家质量监督检验检疫总局副局长, sys: gov, place: 北京, from: 2016-12, to: 2018-01, cite: c13-wiki-li-yuanping }
+    - { title: 中共甘肃省委常委、组织部部长, sys: party, place: 甘肃, from: 2018-01, to: 2021-12, cite: c13-wiki-li-yuanping }
+    - { title: 中共贵州省委常委、省纪委书记、省监委主任, sys: party, place: 贵州, from: 2021-12, to: 2026-07, cite: c13-wiki-li-yuanping }
+  cites: [wd-Q48936909, c13-wiki-li-yuanping, cs2-jiemian-2024-08-13-li-zaiyong]
+
+- id: yan-weiyao
+  name: 严维耀
+  gender: m
+  born: 1968-02
+  roles: [ccdi]
+  status: active
+  statusNote: 2026 年 1 月以中央纪委国家监委驻全国人大机关纪检监察组组长身份出席会议。
+  tier: 2
+  headline: 中央纪委第二监督检查室原主任，在专题片中讲述足球系列腐败案，后任驻全国人大机关纪检监察组组长
+  bio: >-
+    1968 年生，曾任中纪委办公厅副主任，后任中央纪委国家监委第二监督检查室主任。2024 年专题片《持续发力 纵深推进》第四集中，他说足球领域出现了系统性、塌方式腐败，
+    查处足球系列案“不仅仅是查处那几个人”。2026 年任驻全国人大机关纪检监察组组长。
+  positions:
+    - { title: 中央纪委国家监委第二监督检查室主任, sys: party, place: 北京, cite: c13-thepaper-2026-01-21-yan-weiyao }
+    - { title: 中央纪委国家监委驻全国人大机关纪检监察组组长, sys: party, place: 北京, cite: c13-thepaper-2026-01-21-yan-weiyao }
+  cites: [c13-thepaper-2026-01-21-yan-weiyao, cs2-people-2024-01-10-sanbufu-ep4]
+
+- id: ding-shufan
+  name: 丁树范
+  gender: m
+  roles: [scholar, hkmt]
+  status: active
+  tier: 2
+  headline: 台湾政治大学东亚研究所名誉教授，研究解放军和中共国防政策，常评论军中反腐
+  bio: >-
+    台湾政治大学东亚研究所名誉教授，美国圣母大学博士，研究中共安全、国防和军控政策。联合早报多次引述他分析解放军反腐，
+    他推断苗华 2017 年任军委政治工作部主任后提拔的高级将领“可能绝大部分都被调查”，并认为 2026 年被免去人大代表的六名将领可能涉及火箭军和装备发展部的反腐调查。
+  positions:
+    - { title: 台湾政治大学东亚研究所名誉教授, sys: other, place: 台湾, cite: cs4-zaobao-2025-09-13-four-generals }
+  cites: [c13-nccu-ding-shufan, cs4-zaobao-2025-09-13-four-generals, a02-zaobao-2026-08-07-six-generals, c10-zaobao-2026-01-29-zhang-denial]

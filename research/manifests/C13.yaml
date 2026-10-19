@@ -1,0 +1,58 @@
+# C13 sources: dossier cards for people named in CS6 (Huaxin, Tomorrow Group, Guangsha), the U07/U08 suggestions,
+# and the remaining people named in content/cases/*.yaml who had no card
+web:
+  # --- 维基百科 ---
+  - { id: c13-wiki-li-guangjin, title: 李光金（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李光金_(1950年)", excerpt: true, keep: [ 李光金（1950年—）, 2004年10月，任江西省军区政委, 2002年7月，晋升为少将军衔, 2008年，当选第十一届 ] }
+  - { id: c13-wiki-patrick-ho, title: 何志平（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/何志平", excerpt: true, keep: [ "何志平，GBS，JP", 1984年回港后，任教香港中文大学, 2007年6月30日，何志平卸任, 中华能源基金委员会的秘书长是何志平, 2017年11月18日及17日, "2019年3月25日，美国纽约南区", 何志平在2020年6月刑满出狱 ] }
+  - { id: c13-wiki-lai-changxing, title: 赖昌星（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/赖昌星", excerpt: true, keep: [ 赖昌星（1958年9月15日—）, 赖昌星1991年迁居香港 ] }
+  - { id: c13-wiki-deng-jiagui, title: 邓家贵（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/邓家贵", excerpt: true, keep: [ 邓家贵（1951年12月7日—）, 妻子齐桥桥是习仲勋, 2009年10月，香港《壹周刊》, 2012年6月，彭博社, 2016年曝光的《巴拿马文件》 ] }
+  - { id: c13-wiki-fu-jianhua, title: 付建华（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/付建华", excerpt: true, keep: [ 付建华（1958年7月—）, 2000年3月，任国家煤炭工业局, 2014年9月，付建华调任 ] }
+  - { id: c13-wiki-zhao-shengxuan, title: 赵胜轩（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/赵胜轩", excerpt: true, keep: [ 赵胜轩（1953年12月—）, 1975年1月参加工作, 1991年至2007年在中共中央办公厅, 2013年4月，任中国社会科学院, 第十一届、十二届全国人民代表大会常务委员会委员 ] }
+  - { id: c13-wiki-zheng-weimin, title: 郑维敏（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/郑维敏", excerpt: true, keep: [ 郑维敏（1923年—2012年1月21日 ] }
+  - { id: c13-wiki-han-liping, title: 韩立平（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/韩立平", excerpt: true, keep: [ 韩立平（1960年1月—）, 韩立平长期在中共中央办公厅工作 ] }
+  - { id: c13-wiki-lu-yan, title: 卢彦（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/卢彦", excerpt: true, keep: [ 卢彦（1963年3月—）, 1980年9月，在北京商学院 ] }
+  - { id: c13-wiki-xue-jining, title: 薛纪宁（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/薛纪宁", excerpt: true, keep: [ 薛纪宁（1955年2月—）, 大学毕业后曾在中央财政金融学院, 2020年6月4日，中央纪委 ] }
+  - { id: c13-wiki-teng-biao, title: 滕彪（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/滕彪", excerpt: true, keep: [ 滕彪（1973年8月2日—）, 上书事件中，滕彪首次走入公众视野, 前往美国定居 ] }
+  - { id: c13-wiki-luo-changping, title: 罗昌平（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/罗昌平", excerpt: true, keep: [ 罗昌平生于湖南省, 2001年，罗昌平辞掉, 2012年12月6日，《财经》, 2021年10月6日，因在新浪微博, 2022年2月18日，海南省三亚市 ] }
+  - { id: c13-wiki-zhang-lifan, title: 章立凡（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/章立凡", excerpt: true, keep: [ "章立凡（1950年7月- 2025年3月22日）", 章立凡生父是中国民主建国会创始人章乃器, 章立凡常接受海外传媒采访 ] }
+  - { id: c13-wiki-zhang-zongxun, title: 张宗逊（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张宗逊", excerpt: true, keep: [ 张宗逊（1908年2月7日—1998年9月14日）, 张宗逊早年就读于黄埔军校第五期, 张又侠 ] }
+  - { id: c13-wiki-hu-jianxue, title: 胡建学（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/胡建学", excerpt: true, keep: [ 胡建学（1950年—）, 1950年，胡建学出生于山东省, 1996年6月，被判处死刑 ] }
+  - { id: c13-wiki-lin-chongzhong, title: 林崇中（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/林崇中", excerpt: true, keep: [ 林崇中（1955年1月—）, 1973年6月，加入中国共产党 ] }
+  - { id: c13-wiki-gong-tanghua, title: 龚堂华（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/龚堂华", excerpt: true, keep: [ 龚堂华（1965年4月—）, 1999年4月，在福建省龙岩市纪委, 2010年7月，进京到中共中央纪委, 2017年4月，外派任中央纪委驻民政部 ] }
+  - { id: c13-wiki-li-yongzhong, title: 李永忠（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李永忠_(反腐专家)", excerpt: true, keep: [ 李永忠（1953年—）, 李永忠，早年在基层纪委任职, 2012年，李永忠就目前中国严重 ] }
+  - { id: c13-wiki-zhao-bingzhi, title: 赵秉志（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/赵秉志", excerpt: true, keep: [ 赵秉志（1956年6月6日—）, 早年考入郑州大学法律系 ] }
+  - { id: c13-wiki-yu-meisun, title: 俞梅荪（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/俞梅荪", excerpt: true, keep: [ 俞梅荪（1953年—） ] }
+  - { id: c13-wiki-li-yuanping, title: 李元平（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李元平_(1962年)", excerpt: true, keep: [ 李元平（1962年11月—）, 1998年3月起，历任山西省商检局, 2004年7月，进入国家质量, 2018年1月，空降甘肃, 2021年12月，跨省履新, 2026年7月，不再担任 ] }
+  - { id: c13-wiki-jessica-weiss, title: 白洁曦（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/白洁曦", excerpt: true, keep: [ "白洁曦（英语：Jessica Chen Weiss）", 出生并成长于美国华盛顿州, 2014年，她的著作 ] }
+  - { id: c13-nccu-ding-shufan, title: 丁樹範 教授（师资介绍）, publisher: 国立政治大学东亚研究所, date: 2026-10, voice: zh, url: "https://eastasia.nccu.edu.tw/PageStaffing/Detail?fid=2922&id=377", excerpt: true, keep: [ 中共安全政策、中共國防政策, 美國/美國聖母大學, 國立臺灣大學 ] }
+
+  # --- 明天系 · 包商银行 ---
+  - { id: c13-chinapeace-2021-01-29-baoshang, title: 1560亿元大窟窿背后，竟存在着这样的“内鬼”和“蠹虫”！, publisher: 中国长安网, date: 2021-01-29, voice: official, url: "http://www.chinapeace.gov.cn/chinapeace/c100041/2021-01/29/content_12444732.shtml", excerpt: true, keep: [ 李镇西，1961年6月出生, 2007年，包商银行刚完成更名, 2011年6月，刘金明调任, 包商银行董事长李镇西，党委书记, 2019年11月16日，一份留置文书, 一个多月后，内蒙古银保监局原党委委员贾奇珍, 2020年4月29日，刘金明被, 2019年12月23日，贾奇珍被查, 2020年6月4日，薛纪宁被查 ] }
+  - { id: c13-nbd-2021-01-03-liu-jinming, title: “内鬼”栽了！一金融官员一审获刑12年，包商银行原董事长曾送他千万豪宅, publisher: 每日经济新闻, date: 2021-01-03, voice: zh, url: "https://www.nbd.com.cn/articles/2021-01-03/1586805.html", excerpt: true, keep: [ 被查一年后，内蒙古银保监局原党委委员刘金明, 12月30日中国裁判文书网公布, 2013年夏，刘金明担任, 2016年7月，李镇西送给刘金明, 一、被告人刘金明犯受贿罪 ] }
+  - { id: c13-ccdi-2020-04-29-liu-jinming-expel, title: 内蒙古银保监局原党委委员刘金明被“双开”, publisher: 中央纪委国家监委网站（中共韩城市纪委转载）, date: 2020-04-29, voice: official, url: "https://hancheng.qinfeng.gov.cn/info/1021/10213.htm", excerpt: true, keep: [ 经查，刘金明违反政治纪律, 2009年10月至2011年6月，任包头, 2011年6月至2018年10月 ] }
+  - { id: c13-ccdi-2020-06-29-jia-qizhen-expel, title: 银保监会内蒙古监管局原党委委员贾奇珍被双开, publisher: 中央纪委国家监委网站, date: 2020-06-29, voice: official, url: "http://m.ccdi.gov.cn/content/ea/11/63142.html", excerpt: true, keep: [ 经查，贾奇珍违反政治纪律, 贾奇珍，男，汉族，1963年1月出生, 2003年10月至2018年10月，历任, 2019年12月，免去 ] }
+  - { id: c13-thepaper-2020-12-29-jia-qizhen-trial, title: 贾奇珍涉嫌受贿案开庭, publisher: 澎湃新闻, date: 2020-12-29, voice: zh, url: "https://m.thepaper.cn/baijiahao_10584771", excerpt: true, keep: [ 12月29日，由呼和浩特市人民检察院提起公诉, 被告人贾奇珍利用担任, 被告人贾奇珍对公诉机关 ] }
+  - { id: c13-ccdi-2021-01-25-xue-jining-expel, title: 原内蒙古银监局党委书记、局长薛纪宁被开除党籍, publisher: 中央纪委国家监委网站, date: 2021-01-25, voice: official, url: "https://m.ccdi.gov.cn/content/ad/d0/72695.html", excerpt: true, keep: [ 经查，薛纪宁违反政治纪律, 2007年8月至2014年4月, 2015年3月，退休 ] }
+  - { id: c13-thepaper-2021-05-12-xue-jining-trial, title: 银监会内蒙古监管局原局长薛纪宁案开庭：被控受贿超4亿, publisher: 澎湃新闻, date: 2021-05-12, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_12636879", excerpt: true, keep: [ 该案由呼和浩特市人民检察院提起公诉，起诉书指控 ] }
+  - { id: c13-jiemian-2024-01-03-zou-wanyin, title: 内蒙古一厅官因犯受贿等罪领刑十四年半，曾涉嫌敲诈原包商银行行长, publisher: 界面新闻, date: 2024-01-03, voice: zh, url: "https://m.jiemian.com/article/10622365.html", excerpt: true, keep: [ 因犯受贿罪、利用影响力受贿罪, 公开资料显示，1953年出生的邹万银, 一审法院认定，邹万银身为国家工作人员, 邹万银不服一审判决 ] }
+  - { id: c13-imust-2021-06-07-zou-wanyin-expel, title: 内蒙古自治区政协文史资料委员会原主任邹万银严重违纪违法被开除党籍, publisher: 内蒙古纪委监委网（内蒙古科技大学纪检监察室转载）, date: 2021-06-07, voice: official, url: "https://dsc.imust.edu.cn/info/1007/3891.htm", excerpt: true, keep: [ 日前，经内蒙古自治区党委批准, 经查，邹万银理想信念丧失 ] }
+  - { id: c13-jiemian-2020-08-05-zhou-xuedong, title: 央行原办公厅主任周学东履新国开行副行长，曾为包商银行接管组组长, publisher: 界面新闻, date: 2020-08-05, voice: zh, url: "https://www.jiemian.com/article/5267361.html", excerpt: true, keep: [ 国开行官网显示，周学东, 在央行履职期间，周学东 ] }
+  - { id: c13-jjckb-2017-02-03-tomorrow, title: “明天系”声明称公司一切运转正常, publisher: 经济参考报, date: 2017-02-03, voice: zh, url: "http://jjckb.xinhuanet.com/2017-02/03/c_136027188.htm", excerpt: true, keep: [ 肖建华的妻子周虹文为法定代表人 ] }
+  - { id: c13-21jingji-2020-08-11-tomorrow, title: 明天系金融帝国沉浮录, publisher: 21世纪经济报道, date: 2020-08-11, voice: zh, url: "https://m.21jingji.com/article/20200811/herald/f37207aed0dd3b91ce42c83ca2661cf2.html", excerpt: true, keep: [ 在北大期间，肖建华认识了日后的妻子周虹文, 肖建华、周虹文夫妇主要通过 ] }
+
+  # --- 华信 ---
+  - { id: c13-reuters-2014-yang-qinglong, title: 中国传奇石油交易商杨庆龙去世 助力中国与伊朗石油生意（路透社）, publisher: 进出口网（转载路透社）, date: 2014-07, voice: west, url: "http://www.chinainout.com/news/4736/1645.html", excerpt: true, keep: [ 珠海振戎的工作人员及相关熟人称, 杨庆龙周日因癌症去世, 杨庆龙2011年退休 ] }
+
+  # --- 广厦 · 斯鑫良 · 吴英 ---
+  - { id: c13-thepaper-2015-02-16-si-li-cv, title: 浙江首虎斯鑫良之子斯力被带走，与广厦集团创始人楼忠福同乡, publisher: 澎湃新闻, date: 2015-02-16, voice: zh, url: "https://m.thepaper.cn/newsDetail_forward_1304383", excerpt: true, keep: [ 斯鑫良之子斯力此前任职于浙江团省委, 2011年1月，浙江省青联九届四次, 2014年，斯力前往杭州市上城区挂职, 决定任命斯力为杭州市上城区人民政府副区长 ] }
+  - { id: c13-cri-2015-06-19-si-xinliang, title: 浙江“首虎”斯鑫良 其妻参与订立攻守同盟（新京报）, publisher: 国际在线, date: 2015-06-19, voice: zh, url: "https://news.cri.cn/2015-6-19/1b803957-6e95-4cb4-b21d-a4bc008bb92b.html", excerpt: true, keep: [ 与其妻及部分行贿人订立攻守同盟, 斯鑫良妻子名叫金惠芳 ] }
+  - { id: c13-wikisource-2018-03-23-wu-ying, title: 吴英集资诈骗罪刑罚与执行变更刑事裁定书（2018）浙刑更70号, publisher: 浙江省高级人民法院（维基文库）, date: 2018-03-23, voice: doc, url: "https://zh.wikisource.org/zh-hans/吴英集资诈骗罪刑罚与执行变更刑事裁定书", excerpt: true, keep: [ 罪犯吴英，现在浙江省女子监狱服刑, 金华市中级人民法院于2009年10月29日, 将罪犯吴英的刑罚，减为有期徒刑二十五年 ] }
+  - { id: c13-cctv-2018-03-23-wu-ying, title: 吴英减刑为有期徒刑25年 曾因集资诈骗罪被判死缓, publisher: 央视网, date: 2018-03-23, voice: official, url: "https://news.cctv.com/2018/03/23/ARTI0jfiIF5ZM9O2O1EfsLVU180323.shtml", excerpt: true, keep: [ 吴英的亲属吴永正等人 ] }
+  # --- 中办 · 周永康案 ---
+  - { id: c13-thepaper-2016-07-zhao-shengxuan, title: 中国社科院原副院长赵胜轩因违纪被责令辞职，曾任中办副主任, publisher: 澎湃新闻, date: 2016-07, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1504191", excerpt: true, keep: [ 近日，中国人大网公布了, 报告提到，由山东省选出, 官方简历显示，赵胜轩, 赵胜轩曾长期在中央办公厅调研室工作, 2013年，赵胜轩转任, 据澎湃新闻今年2月报道, 2016年3月，人社部发布 ] }
+  - { id: c13-people-2016-09-09-npc-77, title: 十二届全国人大77人涉违纪或违法被终止代表资格, publisher: 人民网, date: 2016-09-09, voice: official, url: "http://politics.people.com.cn/n1/2016/0909/c1001-28704944.html", excerpt: true, keep: [ 2016年2月26日十二届全国人大常委会第十九次会议通过 ] }
+  - { id: c13-thepaper-2014-12-30-zhou-hao, title: 中石油辽河油田公司原党委书记周灏被带走，副总经理升任书记, publisher: 澎湃新闻, date: 2014-12-30, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_1264342", excerpt: true, keep: [ 公开资料显示，周灏于1963年10月出生, 1992年，周灏踏入石油圈, 2010年9月，周灏离开, 有国内媒体曾指称 ] }
+  - { id: c13-hkcd-2014-12-30-zhou-hao, title: 遼河油田原書記周灝被帶走 媒體稱系周永康侄子（澎湃）, publisher: 香港商报, date: 2014-12-30, voice: zh, url: "https://www.hkcd.com/content/2014-12/30/content_898829.html", excerpt: true, keep: [ 多個權威信息源向澎湃新聞證實, 周灝最后一次出現在公開報道中 ] }
+
+  # --- 中央纪委 ---
+  - { id: c13-thepaper-2026-01-21-yan-weiyao, title: 严维耀已任中央纪委国家监委驻全国人大机关纪检监察组组长, publisher: 澎湃新闻, date: 2026-01-21, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_32434004", excerpt: true, keep: [ 全国人大机关推进全面从严治党工作会议召开, 严维耀，男，汉族，1968年2月生 ] }

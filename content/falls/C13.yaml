@@ -1,0 +1,218 @@
+# C13 (round 14): case records for the fallen among the people carded in this batch
+
+# ───── 华信 ─────
+he-zhiping:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 美国联邦调查局 2017 年 11 月在纽约拘捕何志平和塞内加尔前外长加迪奥，未说明线索来源, cite: c13-wiki-patrick-ho }
+  with:
+    - { id: ye-jianming, name: 叶简明, rel: business, text: 华信能源董事局主席；检方称何志平曾建议叶简明向乌干达总统穆塞韦尼提供 50 万美元政治献金, cite: cs6-bbc-2019-03-26-patrick-ho }
+  politics:
+    level: none
+    why: 美国司法部以《海外反腐败法》和洗钱罪起诉的商业行贿案，起诉不涉中国国内政治；华信与叶简明随后在国内出事
+    cites: [cs6-bbc-2019-03-26-patrick-ho, c13-wiki-patrick-ho]
+  outcome: released
+
+lai-changxing:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 1999 年远华走私案案发，赖昌星出逃加拿大，2011 年 7 月被遣返, cite: c13-wiki-lai-changxing }
+  politics:
+    level: none
+    why: 远华案是江泽民时期的走私大案，本站只作为叶简明和华信起家背景收录
+    cites: [c13-wiki-lai-changxing, c04-bbc-2018-03-02-ye-jianming]
+  outcome: sentenced
+
+# ───── 明天系 · 包商银行 ─────
+li-zhenxi:
+  sys: finance
+  grade: exec
+  trigger: { kind: incident, text: 2019 年 5 月包商银行因严重信用风险被人民银行、银保监会联合接管，李镇西等高管随后被专案组带走, cite: c13-chinapeace-2021-01-29-baoshang }
+  with:
+    - { id: xiao-jianhua, name: 肖建华, rel: business, text: 明天集团实际控制人；周学东称明确归属明天集团的机构股东持有包商银行 89.27% 的股权，2005 年至 2019 年通过 209 家空壳公司套取信贷资金, cite: cs6-thepaper-2020-08-03-zhou-xuedong }
+    - { id: liu-jinming, name: 刘金明, rel: briber, text: 内蒙古银监局原纪委书记、副局长；法院认定李镇西送给他现金 200 万元和北京房产、车位及装修共 999.9552 万元, cite: c13-nbd-2021-01-03-liu-jinming }
+    - { id: zou-wanyin, name: 邹万银, rel: briber, text: 内蒙古政协文史委原主任；法院认定李镇西向他行贿 1710 万元, cite: cs6-thepaper-2024-01-03-li-zhenxi }
+  politics:
+    level: linked
+    why: 包商银行由明天系控制，其被接管是肖建华 2017 年被带回内地后明天系金融机构处置的一部分；已公开的案情是行贿监管官员和掏空银行
+    cites: [cs6-thepaper-2020-08-03-zhou-xuedong, c13-chinapeace-2021-01-29-baoshang]
+
+liu-jinming:
+  sys: finance
+  grade: bureau
+  notice:
+    date: 2020-04-29
+    cite: c13-ccdi-2020-04-29-liu-jinming-expel
+    quotes:
+      - 与他人订立攻守同盟，对抗组织审查
+      - 长期接受银行机构高管安排的旅游和宴请
+      - 违规入股银行机构谋利
+  discipline: [political, eight, organization, integrity]
+  amount: { yuan: 31662902, text: 法院认定 17 项受贿事实，收受现金、房产、金条、烟酒、瓷器等共计 3166.2902 万元, cite: c13-chinapeace-2021-01-29-baoshang }
+  trigger: { kind: incident, text: 包商银行被接管后，刘金明 2019 年 11 月被留置，中国长安网称包商银行系列腐败案的“盖子”由此逐步揭开, cite: c13-chinapeace-2021-01-29-baoshang }
+  with:
+    - { id: li-zhenxi, name: 李镇西, rel: briber, text: 包商银行原董事长，2013 年送其现金 200 万元，2016 年送其北京望京房产一套, cite: c13-nbd-2021-01-03-liu-jinming }
+    - { id: xue-jining, name: 薛纪宁, rel: colleague, text: 内蒙古银监局原局长，2020 年 6 月被留置, cite: c13-chinapeace-2021-01-29-baoshang }
+  politics:
+    level: none
+    why: 监管官员收受被监管银行财物，通报和判决未涉政治问题
+    cites: [c13-ccdi-2020-04-29-liu-jinming-expel, c13-nbd-2021-01-03-liu-jinming]
+  outcome: sentenced
+
+jia-qizhen:
+  sys: finance
+  grade: bureau
+  notice:
+    date: 2020-06-29
+    cite: c13-ccdi-2020-06-29-jia-qizhen-expel
+    quotes:
+      - 转移、隐匿、销毁有关证据，向组织提供虚假情况
+      - 违规出入私人会所
+      - 违规干预金融机构资金借贷事项
+  discipline: [political, eight, integrity, organization, work, life]
+  trigger: { kind: chain, text: 刘金明被留置一个多月后，贾奇珍与包头银监分局原副局长柴宝玉同时被留置, cite: c13-chinapeace-2021-01-29-baoshang }
+  with:
+    - { id: liu-jinming, name: 刘金明, rel: colleague, text: 内蒙古银监局原纪委书记、副局长，2019 年 11 月被留置, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { id: xue-jining, name: 薛纪宁, rel: colleague, text: 内蒙古银监局原局长, cite: c13-chinapeace-2021-01-29-baoshang }
+  politics:
+    level: none
+    why: 监管官员受贿案，通报未涉政治问题
+    cites: [c13-ccdi-2020-06-29-jia-qizhen-expel]
+  outcome: expelled
+
+xue-jining:
+  sys: finance
+  grade: bureau
+  notice:
+    date: 2021-01-25
+    cite: c13-ccdi-2021-01-25-xue-jining-expel
+    quotes:
+      - 纵容包商银行野蛮扩张和违法经营，助推包商银行严重信用风险
+      - 泄露巡视工作秘密，为其子换取利益
+      - 对配偶子女失管失教
+  discipline: [political, eight, integrity, organization, work, life]
+  amount: { yuan: 400437881, text: 起诉书指控 2002 年至 2015 年间收受 37 家单位和个人财物折合 400437881 元, cite: c13-thepaper-2021-05-12-xue-jining-trial }
+  retired: 2015-03
+  trigger: { kind: chain, text: 包商银行系列案专案组 2020 年 6 月 4 日对薛纪宁、宋建基、陈志涛三人同时立案并留置, cite: c13-chinapeace-2021-01-29-baoshang }
+  with:
+    - { id: liu-jinming, name: 刘金明, rel: colleague, text: 其任局长时的内蒙古银监局纪委书记, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { id: jia-qizhen, name: 贾奇珍, rel: colleague, text: 其任局长时的内蒙古银监局处长、副局长, cite: c13-chinapeace-2021-01-29-baoshang }
+    - { name: 宋建基, rel: colleague, text: 内蒙古银监局原党委副书记、副局长，与薛纪宁同日被留置, cite: c13-chinapeace-2021-01-29-baoshang }
+  politics:
+    level: none
+    why: 通报指其纵容包商银行扩张、监管失守，属金融监管腐败，未见政治关联报道
+    cites: [c13-ccdi-2021-01-25-xue-jining-expel]
+  outcome: expelled
+
+zou-wanyin:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2021-06-07
+    cite: c13-imust-2021-06-07-zou-wanyin-expel
+    quotes:
+      - 违规收受他人财物，从事有偿中介活动
+      - 违背社会公德，生活腐化堕落
+  amount: { yuan: 18020000, text: 法院认定受贿 1732 万元、利用影响力受贿 70 万元，其中 1710 万元来自李镇西, cite: c13-jiemian-2024-01-03-zou-wanyin }
+  retired: 2016
+  trigger: { kind: chain, text: 包商银行系列案中查出李镇西向其行贿，2020 年接受内蒙古纪委监委审查调查, cite: c13-jiemian-2024-01-03-zou-wanyin }
+  with:
+    - { id: li-zhenxi, name: 李镇西, rel: briber, text: 包商银行原董事长，为连任社科联兼职副主席、谋取全国政协委员等向其送款, cite: cs6-thepaper-2024-01-03-li-zhenxi }
+  politics:
+    level: none
+    why: 为行贿人谋取政协委员等身份收钱，判决未涉政治问题
+    cites: [c13-jiemian-2024-01-03-zou-wanyin, cs6-thepaper-2024-01-03-li-zhenxi]
+  outcome: sentenced
+
+# ───── 广厦 ─────
+si-li:
+  sys: local
+  grade: county
+  trigger: { kind: chain, text: 楼忠福 2014 年 12 月被带走后，斯鑫良及其子斯力先后被查, cite: cs6-sohu-2015-07-14-lou-sponsor }
+  with:
+    - { id: si-xinliang, name: 斯鑫良, rel: kin, text: 其父，浙江省委原组织部长，2016 年以受贿罪被判有期徒刑 13 年, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  politics:
+    level: linked
+    why: 斯鑫良案由楼忠福牵出，楼忠福案又源于与令计划之妻谷丽萍的生意往来；斯力本人的问题未见官方说明
+    cites: [cs6-sohu-2015-07-14-lou-sponsor, cs6-thepaper-2015-02-16-si-li]
+  outcome: missing
+
+jin-huifang:
+  sys: other
+  grade: none
+  trigger: { kind: chain, text: 斯鑫良案中查出其妻参与收受财物, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  with:
+    - { id: si-xinliang, name: 斯鑫良, rel: kin, text: 其夫，判决认定其直接或通过金惠芳收受财物 1955.442 万元, cite: t01-ccdi-2016-12-13-si-xinliang-verdict }
+  politics:
+    level: linked
+    why: 斯鑫良案的家属牵连者；斯鑫良案由楼忠福牵出，与令计划案相连
+    cites: [t01-ccdi-2016-12-13-si-xinliang-verdict, cs6-sohu-2015-07-14-lou-sponsor]
+  outcome: missing
+
+wu-ying:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 本站所引判决材料未说明案发线索, cite: c13-wikisource-2018-03-23-wu-ying }
+  politics:
+    level: none
+    why: 民间集资诈骗案；最高法称她供述了贿赂多名公务人员的事实，媒体关于楼家介入其资产拍卖的说法来自其父的指控
+    cites: [e07-court-2012-04-20-wu-ying, cs6-chinanews-2015-07-28-lou-zhongfu]
+  voices:
+    - { voice: official, text: 温家宝 2012 年 3 月答记者问时说，吴英案反映了民间金融的发展与经济社会发展的需求还不适应, cite: e07-xinhua-2012-03-14-wen-wu-ying }
+  outcome: sentenced
+
+wu-jian:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 无界新闻称他作为广厦债权人向银行举报、向媒体曝光后被以涉嫌诈骗刑拘，官方未说明案发经过, cite: cs6-sohu-2015-07-14-lou-sponsor }
+  politics:
+    level: none
+    why: 与广厦的债务纠纷，所引材料只有无界新闻一方的报道
+    cites: [cs6-sohu-2015-07-14-lou-sponsor]
+  outcome: sentenced
+
+# ───── 中办 ─────
+zhao-shengxuan:
+  sys: central
+  grade: minister
+  trigger: { kind: unknown, text: 官方只说他因违纪被责令辞去全国人大代表职务，未公布线索来源和违纪事实, cite: c13-thepaper-2016-07-zhao-shengxuan }
+  politics:
+    level: none
+    why: 官方没有公布任何违纪事实，本站所引材料未见可靠来源指向政治关联
+    cites: [c13-thepaper-2016-07-zhao-shengxuan, c13-people-2016-09-09-npc-77]
+  outcome: disciplined
+
+# ───── 周永康案 ─────
+zhou-hao:
+  sys: soe
+  grade: bureau
+  trigger: { kind: chain, text: 周永康案调查期间被带走，官方未宣布；周永康案判决认定周滨、贾晓晔收受其财物, cite: e03-xinhua-2015-06-11-zhou-verdict }
+  with:
+    - { id: zhou-bin, name: 周滨, rel: kin, text: 周永康之子，判决认定其收受周灏等人财物, cite: e03-xinhua-2015-06-11-zhou-verdict }
+    - { id: zhou-yongkang, name: 周永康, rel: patron, text: 澎湃新闻转述国内媒体称周灏是周永康的远房侄子, cite: c13-thepaper-2014-12-30-zhou-hao }
+  politics:
+    level: linked
+    why: 周永康家族案的行贿人之一，随周永康案被查
+    cites: [e03-xinhua-2015-06-11-zhou-verdict, c13-hkcd-2014-12-30-zhou-hao]
+  outcome: missing
+
+# ───── 终身监禁立法所举案例 ─────
+hu-jianxue:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 所引材料未说明案发线索, cite: c13-wiki-hu-jianxue }
+  politics:
+    level: none
+    why: 1990 年代的地方贪腐案，本站因 2015 年终身监禁立法以其保外就医续保为例而收录
+    cites: [cs5-npc-2015-08-26-life-draft]
+  outcome: sentenced
+
+lin-chongzhong:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 所引材料未说明案发线索；其违规保外就医由广东省检察院 2011 年立案侦查, cite: c13-wiki-lin-chongzhong }
+  politics:
+    level: none
+    why: 地方受贿案，本站因 2015 年终身监禁立法以其宣判当日保外就医为例而收录
+    cites: [cs5-npc-2015-08-26-life-draft]
+  outcome: sentenced
