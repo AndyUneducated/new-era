@@ -1,0 +1,91 @@
+# U09: rise records for three scholars and the sitting heads of State Council departments and central organs.
+web:
+  # ---- 李常官 ----
+  - { id: u09-ce-2017-12-23-li-changguan, title: "玉林市委副书记李常官出任广西贸促会会长 何小玲不再担任（简历）", publisher: 中国经济网, date: 2017-12-23, voice: doc, url: "http://district.ce.cn/newarea/sddy/201712/23/t20171223_27398070.shtml", excerpt: true, keep: [ "李常官", "19", "20" ] }
+  - { id: u09-thepaper-2024-10-11-li-changguan, title: "广西壮族自治区副主席李常官调任民政部副部长", publisher: 澎湃新闻, date: 2024-10-11, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_28996142", excerpt: true, keep: [ "李常官" ] }
+  - { id: u09-gov-2026-08-order-85, title: "中华人民共和国主席令（第八十五号）", publisher: 中国政府网（来源：新华社）, date: 2026-08, voice: official, url: "https://www.gov.cn/yaowen/liebiao/202608/content_7079444.htm", excerpt: true, keep: [ "李常官", "主席令" ] }
+  - { id: u09-wiki-li-changguan, title: 李常官（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李常官", excerpt: true, keep: [ 李常官, 年 ] }
+  # ---- 张柱 / 张成中 ----
+  - { id: u09-thepaper-2026-04-zhang-zhu, title: "张柱任农业农村部部长", publisher: 澎湃新闻, date: 2026-04, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_33081863", excerpt: true, keep: [ "张柱" ] }
+  - { id: u09-sina-2026-04-30-zhang-zhang, title: "张柱任农业农村部部长 张成中任应急管理部部长（附简历）", publisher: 新浪财经（来源：中国新闻网）, date: 2026-04-30, voice: doc, url: "https://finance.sina.com.cn/wm/2026-04-30/doc-inhwftwk7196097.shtml", excerpt: true, keep: [ "张柱", "张成中" ] }
+  - { id: u09-moa-2026-04-28-zhang-zhu, title: "农业农村部召开领导干部会议宣布中央决定", publisher: 农业农村部, date: 2026-04-28, voice: official, url: "https://www.moa.gov.cn/xw/zwdt/202604/t20260428_6483748.htm", excerpt: true, keep: [ "张柱" ] }
+  - { id: u09-thepaper-2026-04-zhang-chengzhong, title: "张成中任应急管理部部长", publisher: 澎湃新闻, date: 2026-04, voice: zh, url: "https://m.thepaper.cn/newsDetail_forward_33092018", excerpt: true, keep: [ "张成中" ] }
+  - { id: u09-wiki-zhang-chengzhong, title: 张成中（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张成中", excerpt: true, keep: [ 张成中, 年 ] }
+  # ---- 王晓萍 ----
+  - { id: u09-cupl-wang-xiaoping, title: "王晓萍（校友简历）", publisher: 中国政法大学校友网, voice: doc, url: "https://cupl148.cn/personnel_details/43", excerpt: true, keep: [ "王晓萍", "19", "20" ] }
+  - { id: u09-caixin-2022-12-30-wang-xiaoping, title: "人事观察｜王晓萍任人社部部长", publisher: 财新网, date: 2022-12-30, voice: zh, url: "https://china.caixin.com/2022-12-30/101984062.html", excerpt: true, keep: [ "王晓萍" ] }
+  - { id: u09-wiki-wang-xiaoping, title: 王晓萍（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王晓萍_(1964年)", excerpt: true, keep: [ 王晓萍, 年 ] }
+  # ---- 黄润秋 ----
+  - { id: u09-mee-huang-runqiu, title: "黄润秋简历", publisher: 生态环境部, voice: official, url: "https://www.mee.gov.cn/hrq/grlj/201603/t20160316_333006.shtml", excerpt: true, keep: [ "黄润秋", "19", "20" ] }
+  - { id: u09-93-huang-runqiu, title: "黄润秋 副主席", publisher: 九三学社中央委员会, voice: official, url: "https://www.93.gov.cn/bsjs-ldcy-zxfzx-hrqfzx/", excerpt: true, keep: [ "黄润秋" ] }
+  # ---- 孙业礼 ----
+  - { id: u09-thepaper-2023-11-14-sun-yeli, title: "孙业礼已任文旅部党组书记（附简历）", publisher: 澎湃新闻, date: 2023-11-14, voice: doc, url: "https://www.thepaper.cn/newsDetail_forward_25294545", excerpt: true, keep: [ "孙业礼", "19", "20" ] }
+  - { id: u09-dswxyjy-sun-yeli, title: "孙业礼（中共中央党史和文献研究院副院长）", publisher: 中共中央党史和文献研究院, voice: official, url: "https://www.dswxyjy.org.cn/GB/427143/427145/428048/index.html", excerpt: true, keep: [ "孙业礼，中共党员", "1981年9月", "主要从事", "参加过" ] }
+  - { id: u09-wiki-sun-yeli, title: 孙业礼（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孙业礼", excerpt: true, keep: [ 孙业礼, 年 ] }
+  - { id: u09-wiki-huang-runqiu, title: 黄润秋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄润秋", excerpt: true, keep: [ 黄润秋, 年 ] }
+  - { id: u09-wiki-lei-haichao, title: 雷海潮（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/雷海潮", excerpt: true, keep: [ 雷海潮, 年 ] }
+  - { id: u09-wiki-zhang-zhu, title: 张柱（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张柱_(1968年)", excerpt: true, keep: [ 张柱, 年 ] }
+  - { id: u09-mct-2023-11-13-sun-yeli, title: "孙业礼 文化和旅游部党组书记", publisher: 文化和旅游部, date: 2023-11-13, voice: official, url: "http://www.mct.gov.cn/gywhb/bld/202311/t20231113_949677.htm", excerpt: true, keep: [ "孙业礼" ] }
+  # ---- 雷海潮 ----
+  - { id: u09-yicai-2024-lei-haichao, title: "雷海潮出任国家卫健委主任", publisher: 第一财经, date: 2024, voice: zh, url: "https://www.yicai.com/news/102097463.html", excerpt: true, keep: [ "雷海潮" ] }
+  - { id: u09-jiemian-lei-haichao, title: "雷海潮简历", publisher: 界面新闻, voice: doc, url: "https://m.jiemian.com/article/11138433.html", excerpt: true, keep: [ "雷海潮", "19", "20" ] }
+  - { id: u09-gov-2024-06-28-order-29, title: "中华人民共和国主席令（第二十九号）", publisher: 中国政府网（来源：新华社）, date: 2024-06-28, voice: official, url: "https://www.gov.cn/yaowen/liebiao/202406/content_6959987.htm", excerpt: true, keep: [ "雷海潮" ] }
+  # ---- 吴政隆 ----
+  - { id: u09-ce-2014-09-30-wu-zhenglong, title: "吴政隆任山西省委常委、太原市委书记", publisher: 中国经济网, date: 2014-09-30, voice: doc, url: "http://district.ce.cn/newarea/sddy/201409/30/t20140930_3633314.shtml", excerpt: true, keep: [ "吴政隆", "陈川平" ] }
+  - { id: u09-cctv-2017-07-29-wu-zhenglong, title: "吴政隆简历", publisher: 央视网, date: 2017-07-29, voice: doc, url: "https://news.cctv.com/2017/07/29/ARTIzK1yr4wyzTlSr1urHTC3170729.shtml", excerpt: true, keep: [ "吴政隆", "19", "20" ] }
+  - { id: u09-gov-2023-03-12-wu-zhenglong, title: "吴政隆简历", publisher: 中国政府网（来源：新华社）, date: 2023-03-12, voice: official, url: "https://www.gov.cn/guoqing/2023-03/12/content_5746397.htm", excerpt: true, keep: [ "吴政隆" ] }
+  # ---- 董军 ----
+  - { id: u09-caixin-2023-12-29-dong-jun, title: "董军任国防部长", publisher: 财新网, date: 2023-12-29, voice: zh, url: "https://china.caixin.com/2023-12-29/102151326.html", excerpt: true, keep: [ "董军" ] }
+  - { id: u09-cna-2023-12-30-dong-jun, title: "董軍接任中國國防部長", publisher: 中央社, date: 2023-12-30, voice: west, url: "https://www.cna.com.tw/news/acn/202312300031.aspx", excerpt: true, keep: [ "董軍" ] }
+  - { id: u09-voa-2023-12-29-dong-jun, title: "中国任命董军为新任国防部长", publisher: 美国之音, date: 2023-12-29, voice: west, url: "https://www.voachinese.com/a/china-appoints-dong-jun-as-new-defence-minister---state-media-20231229/7417176.html", excerpt: true, keep: [ "董军" ] }
+  # ---- 郑栅洁 ----
+  - { id: u09-people-2018-05-15-zheng-shanjie, title: "郑栅洁简历", publisher: 人民网, date: 2018-05-15, voice: doc, url: "http://renshi.people.com.cn/n1/2018/0515/c139617-29990399.html", excerpt: true, keep: [ "郑栅洁", "19", "20" ] }
+  - { id: u09-nea-2015-08-25-zheng-shanjie, title: "郑栅洁任国家能源局副局长", publisher: 国家能源局, date: 2015-08-25, voice: official, url: "http://www.nea.gov.cn/2015-08/25/c_134551833.htm", excerpt: true, keep: [ "郑栅洁" ] }
+  # ---- 怀进鹏 ----
+  - { id: u09-people-2021-08-20-huai-jinpeng, title: "怀进鹏任教育部部长（图/简历）", publisher: 人民网, date: 2021-08-20, voice: doc, url: "http://renshi.people.com.cn/n1/2021/0820/c139617-32201159.html", excerpt: true, keep: [ "怀进鹏", "19", "20" ] }
+  # ---- 阴和俊 ----
+  - { id: u09-bjnews-2023-10-24-yin-hejun, title: "阴和俊任科技部部长", publisher: 新京报, date: 2023-10-24, voice: zh, url: "https://www.bjnews.com.cn/detail/1698147795129045.html", excerpt: true, keep: [ "阴和俊曾任载人航天工程副总指挥", "2017年3月，阴和俊出任", "2006年，阴和俊任" ] }
+  # ---- 陈瑞峰 ----
+  - { id: u09-ifeng-2025-09-13-chen-ruifeng, title: "他履新国家民族事务委员会主任 曾在湖北任职", publisher: 凤凰网湖北, date: 2025-09-13, voice: doc, url: "https://hb.ifeng.com/c/8mad76jK3TK", excerpt: true, keep: [ "陈瑞峰", "19", "20" ] }
+  - { id: u09-gov-2025-09-12-order-57, title: "中华人民共和国主席令（第五十七号）", publisher: 中国政府网（来源：新华社）, date: 2025-09-12, voice: official, url: "https://www.gov.cn/yaowen/liebiao/202509/content_7040446.htm", excerpt: true, keep: [ "陈瑞峰" ] }
+  # ---- 贺荣 ----
+  - { id: u09-ce-2020-04-29-he-rong, title: "贺荣任最高人民法院副院长 江必新不再担任（简历）", publisher: 中国经济网, date: 2020-04-29, voice: doc, url: "http://district.ce.cn/newarea/sddy/202004/29/t20200429_34814810.shtml", excerpt: true, keep: [ "贺荣", "19", "20" ] }
+  - { id: u09-qinfeng-2017-12-08-he-rong, title: "贺荣：严肃生态环保执纪问责 以抓铁有痕的决心和力度推动责任落到实处", publisher: 秦风网（来源：陕西日报）, date: 2017-12-08, voice: official, url: "https://www.qinfeng.gov.cn/info/1007/67022.htm", excerpt: true, keep: [ "贺荣" ] }
+  - { id: u09-qinfeng-2018-11-16-qinling, title: "省委召开秦岭北麓西安境内违建别墅专项整治情况通报会", publisher: 秦风网（来源：陕西日报）, date: 2018-11-16, voice: official, url: "https://www.qinfeng.gov.cn/info/1021/92465.htm", excerpt: true, keep: [ "贺荣主持", "7月底以来" ] }
+  # ---- 蓝佛安 ----
+  - { id: u09-cctv-2021-06-04-lan-foan, title: "人物简历：蓝佛安", publisher: 央视网（来源：人民网）, date: 2021-06-04, voice: doc, url: "https://news.cctv.com/2021/06/04/ARTI49GUjKONrVxOmwJXXKHC210604.shtml", excerpt: true, keep: [ "蓝佛安", "19", "20" ] }
+  - { id: u09-thepaper-2023-10-24-lan-foan, title: "“财政老兵”蓝佛安接替刘昆出任财政部长", publisher: 澎湃新闻, date: 2023-10-24, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_25027118", excerpt: true, keep: [ "蓝佛安科班出身", "纵观蓝佛安的履职生涯", "蓝佛安被外界认为" ] }
+  # ---- 倪虹 ----
+  - { id: u09-ifeng-2022-06-17-ni-hong, title: "倪虹任住建部党组书记", publisher: 凤凰网, date: 2022-06-17, voice: doc, url: "https://news.ifeng.com/c/8GvKc81hl2Z", excerpt: true, keep: [ "倪虹", "19", "20" ] }
+  - { id: u09-gov-2022-06-24-order-118, title: "中华人民共和国主席令（第一一八号）", publisher: 中国政府网（来源：新华社）, date: 2022-06-24, voice: official, url: "https://www.gov.cn/xinwen/2022-06/24/content_5697608.htm", excerpt: true, keep: [ "倪虹", "裴金佳" ] }
+  # ---- 刘伟 ----
+  - { id: u09-people-2020-02-10-liu-wei, title: "周学文、刘伟任应急管理部副部长（简历）", publisher: 人民网, date: 2020-02-10, voice: doc, url: "http://renshi.people.com.cn/n1/2020/0210/c139617-31578460-2.html", excerpt: true, keep: [ "刘伟", "19", "20" ] }
+  - { id: u09-thepaper-2024-11-08-liu-wei, title: "刘伟任交通运输部部长（附简历）", publisher: 澎湃新闻, date: 2024-11-08, voice: doc, url: "https://www.thepaper.cn/newsDetail_forward_29289242", excerpt: true, keep: [ "刘伟", "李小鹏" ] }
+  # ---- 李国英 ----
+  - { id: u09-chinawater-li-guoying, title: "水利部党组书记 部长 李国英", publisher: 中国水利网, voice: official, url: "https://www.chinawater.com.cn/bzzc/lgy/", excerpt: true, keep: [ "李国英，男", "1980年8月至1984年7月" ] }
+  - { id: u09-chinanews-2004-06-21-li-guoying, title: "黄委主任李国英：治理黄河泥沙重在“调水调沙”", publisher: 中国新闻网, date: 2004-06-21, voice: zh, url: "http://www.chinanews.com.cn/news/2004year/2004-06-21/26/450509.shtml", excerpt: true, keep: [ "我们不怕水少", "李国英这样阐释", "李国英说", "据了解，黄河是世界上" ] }
+  # ---- 王文涛 ----
+  - { id: u09-xinhua-2020-12-02-wang-wentao, title: "王文涛任商务部党组书记 钟山不再担任", publisher: 新华网（来源：商务部网站）, date: 2020-12-02, voice: doc, url: "https://www.xinhuanet.com/politics/2020-12/02/c_1126813522.htm", excerpt: true, keep: [ "王文涛", "19", "20" ] }
+  - { id: u09-ettoday-2020-12-02-wang-wentao, title: "中國商務部換將　原黑龍江省長王文濤任黨組書記", publisher: ETtoday新聞雲, date: 2020-12-02, voice: west, url: "https://www.ettoday.net/news/20201202/1867801.htm", excerpt: true, keep: [ "與鐘山多年國際貿易談判代表的經歷有所不同", "強硬派中的強硬派" ] }
+  # ---- 裴金佳 ----
+  - { id: u09-people-2018-12-18-pei-jinjia, title: "裴金佳任国务院台办副主任（图/简历）", publisher: 人民网, date: 2018-12-18, voice: doc, url: "http://renshi.people.com.cn/n1/2018/1218/c139617-30472468.html", excerpt: true, keep: [ "裴金佳", "19", "20" ] }
+  - { id: u09-people-2017-05-22-brics, title: "金砖国家领导人厦门会晤中外媒体吹风会举行", publisher: 人民网, date: 2017-05-22, voice: official, url: "http://world.people.cn/n1/2017/0522/c1002-29292460.html", excerpt: true, keep: [ "裴金佳" ] }
+  # ---- 侯凯 ----
+  - { id: u09-people-2020-07-01-hou-kai, title: "侯凯任审计署审计长（图/简历）", publisher: 人民网, date: 2020-07-01, voice: doc, url: "http://renshi.people.com.cn/n1/2020/0630/c139617-31765483.html", excerpt: true, keep: [ "侯凯", "19", "20" ] }
+  - { id: u09-audit-2022-11-29-hou-kai-un, title: "中国审计长侯凯担任联合国审计委员会主席", publisher: 审计署, date: 2022-11-29, voice: official, url: "https://www.audit.gov.cn/n4/n19/c10301615/content.html", excerpt: true, keep: [ "侯凯", "联合国审计委员会设立于1946年" ] }
+  # ---- 刘海星 ----
+  - { id: u09-caixin-2025-09-30-liu-haixing, title: "人事观察｜补缺刘建超 刘海星任中联部部长", publisher: 财新网, date: 2025-09-30, voice: zh, url: "https://china.caixin.com/2025-09-30/102368034.html", excerpt: true, keep: [ "刘海星" ] }
+  - { id: u09-caixin-2022-11-26-liu-haixing, title: "人事观察｜刘海星任中央国安办分管日常工作的副主任", publisher: 财新网, date: 2022-11-26, voice: zh, url: "https://china.caixin.com/m/2022-11-26/101971001.html", excerpt: true, keep: [ "刘海星", "文章称" ] }
+  - { id: u09-mfa-liu-haixing, title: "刘海星（历任副部长及部长助理）", publisher: 外交部, voice: official, url: "https://www.mfa.gov.cn/web/ziliao_674904/wjrw_674925/lrfbzjbzzl_674933/201512/t20151218_9881122.shtml", excerpt: true, keep: [ "刘海星", "19", "20" ] }
+  # ---- 张军 ----
+  - { id: u09-cpc-2013-09-03-zhang-jun, title: "张军同志简历", publisher: 中国共产党新闻网, date: 2013-09-03, voice: doc, url: "https://cpc.people.com.cn/n/2013/0903/c351869-22793589.html", excerpt: true, keep: [ "张军", "19", "20" ] }
+  - { id: u09-caixin-2023-03-17-two-courts, title: "“两高”新任一把手首度公开亮相 传递司法动向", publisher: 财新网, date: 2023-03-17, voice: zh, url: "https://china.caixin.com/2023-03-17/102009230.html", excerpt: true, keep: [ "张军", "应勇" ] }
+  # ---- 应勇 / 陈一新 / 夏宝龙（2020 湖北） ----
+  - { id: u09-bbc-2020-02-13-hubei, title: "肺炎疫情：湖北武汉党委书记换人 应勇空降", publisher: BBC中文网, date: 2020-02-13, voice: west, url: "https://www.bbc.com/zhongwen/simp/chinese-news-51485021", excerpt: true, keep: [ "应勇", "陈一新", "夏宝龙" ] }
+  - { id: u09-thepaper-2020-02-chen-yixin, title: "陈一新回武汉", publisher: 澎湃新闻, date: 2020-02, voice: zh, url: "https://m.thepaper.cn/newsDetail_forward_5901056", excerpt: true, keep: [ "陈一新", "一新回来了" ] }
+  - { id: u09-ahjcy-2020-07-zhengfa, title: "政法队伍教育整顿试点", publisher: 安徽省人民检察院, date: 2020-07-09, voice: official, url: "https://www.ah.jcy.gov.cn/jctt/202007/t20200709_2872910.shtml", excerpt: true, keep: [ "陈一新", "刮骨疗毒" ] }
+  - { id: u09-chinalaw-2020-02-20-wang-zhenmin, title: "王振民：中央港澳工作领导体制的重大变革", publisher: 中国法学会法治研究所（来源：星岛日报）, date: 2020-02-20, voice: scholar, url: "https://fzyjs.chinalaw.org.cn/portal/article/index/id/248.html", excerpt: true, keep: [ "二月十三日国务院任命", "这次是港澳回归以来" ] }
+  # ---- 潘功胜 ----
+  - { id: u09-yicai-pan-gongsheng, title: "央行领导班子定格 王华庆、潘功胜出任纪委书记、副行长", publisher: 第一财经, date: 2012-06, voice: zh, url: "https://www.yicai.com/news/1802498.html", excerpt: true, keep: [ "潘功胜" ] }
+  - { id: u09-cnfin-2012-10-07-pan-gongsheng, title: "潘功胜：蝶变", publisher: 中国金融信息网（来源：《金融世界》）, date: 2012-10-07, voice: zh, url: "https://www.cnfin.com/fw-xh08/a/20121007/1051948.shtml", excerpt: true, keep: [ "潘功胜" ] }
+  - { id: u09-cntv-2012-06-09-pan-gongsheng, title: "潘功胜任央行副行长", publisher: 央视网, date: 2012-06-09, voice: zh, url: "http://news.cntv.cn/20120609/104919.shtml", excerpt: true, keep: [ "潘功胜" ] }

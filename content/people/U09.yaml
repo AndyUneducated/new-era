@@ -1,0 +1,169 @@
+# U09: tier-2 cards for sitting State Council department heads who had no card yet.
+
+- id: li-changguan
+  name: 李常官
+  gender: m
+  born: 1968-10
+  birthplace: 广西德保
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 民政部党组书记、部长
+  ids: { wikidata: Q117746210 }
+  bio: >-
+    壮族，广西德保人，师范学校教师出身，长期在广西自治区党委组织部工作，2000–2001 年曾借调中央组织部。后任玉林市委常委、组织部部长、市委副书记，广西贸促会会长、投资促进局局长，
+    2023 年任广西壮族自治区副主席，2024 年 10 月调任民政部副部长，2026 年 6 月任党组书记，8 月 28 日任部长。
+  positions:
+    - { title: 广西壮族自治区党委组织部办公室主任, sys: party, place: 广西, from: 2007-08, to: 2009-11, cite: u09-ce-2017-12-23-li-changguan }
+    - { title: 玉林市委常委、组织部部长, sys: party, place: 广西, from: 2009-11, to: 2013-05, cite: u09-ce-2017-12-23-li-changguan }
+    - { title: 玉林市委副书记, sys: party, place: 广西, from: 2013-05, to: 2017-12, cite: u09-ce-2017-12-23-li-changguan }
+    - { title: 中国国际贸易促进委员会广西分会会长、党组书记, sys: other, place: 广西, from: 2017-12, cite: u09-ce-2017-12-23-li-changguan }
+    - { title: 广西壮族自治区投资促进局局长, sys: gov, place: 广西, from: 2021-06, to: 2023-01, cite: u09-thepaper-2024-10-11-li-changguan }
+    - { title: 广西壮族自治区人民政府副主席, sys: gov, place: 广西, from: 2023-01, to: 2024-09, cite: u09-wiki-li-changguan }
+    - { title: 民政部副部长, sys: gov, from: 2024-10-11, to: 2026-08, cite: u09-thepaper-2024-10-11-li-changguan }
+    - { title: 民政部党组书记, sys: party, from: 2026-06-30, cite: u09-wiki-li-changguan }
+    - { title: 民政部部长, sys: gov, from: 2026-08-28, cite: u09-gov-2026-08-order-85 }
+  cites: [wd-Q117746210, u09-ce-2017-12-23-li-changguan, u09-thepaper-2024-10-11-li-changguan, u09-wiki-li-changguan, u09-gov-2026-08-order-85]
+
+- id: wang-xiaoping
+  name: 王晓萍
+  gender: f
+  born: 1964-03
+  birthplace: 湖北黄冈
+  roles: [minister, ccdi]
+  status: active
+  tier: 2
+  headline: 人力资源和社会保障部党组书记、部长
+  ids: { wikidata: Q22099641 }
+  bio: >-
+    湖北黄冈人，中国政法大学法学硕士。1990 年进入国务院侨办，在政策研究司从干部做到司长，后任国外司司长、侨办副主任。2017 年任吉林省委常委、宣传部部长，
+    2019 年改任组织部部长，2020 年任中央组织部副部长，2022 年 10 月当选中纪委常委，同年 12 月任人社部部长。
+  positions:
+    - { title: 国务院侨办政策研究司司长, sys: gov, from: 2005-07, to: 2009-03, cite: u09-cupl-wang-xiaoping }
+    - { title: 国务院侨办国外司（港澳台司）司长, sys: gov, from: 2012-10, to: 2015-12, cite: u09-cupl-wang-xiaoping }
+    - { title: 国务院侨办副主任, sys: gov, from: 2015-12, to: 2017-03, cite: u09-cupl-wang-xiaoping }
+    - { title: 吉林省委常委、宣传部部长, sys: party, place: 吉林, from: 2017-03, to: 2019-05, cite: u09-cupl-wang-xiaoping }
+    - { title: 吉林省委常委、组织部部长, sys: party, place: 吉林, from: 2019-05, to: 2020-11, cite: u09-cupl-wang-xiaoping }
+    - { title: 中央组织部副部长, sys: party, from: 2020-11, to: 2022-12, cite: u09-cupl-wang-xiaoping }
+    - { title: 中央纪委常委、国家监察委员会委员, sys: party, from: 2022-10, to: 2022-12, cite: u09-wiki-wang-xiaoping }
+    - { title: 人力资源和社会保障部党组书记、部长, sys: gov, from: 2022-12-30, cite: u09-caixin-2022-12-30-wang-xiaoping }
+  cites: [wd-Q22099641, u09-cupl-wang-xiaoping, u09-wiki-wang-xiaoping, u09-caixin-2022-12-30-wang-xiaoping]
+
+- id: huang-runqiu
+  name: 黄润秋
+  gender: m
+  born: 1963-08
+  birthplace: 湖南长沙
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 生态环境部部长，九三学社中央副主席
+  ids: { wikidata: Q11177950 }
+  bio: >-
+    湖南长沙人，九三学社社员，成都地质学院工程地质专业工学博士，长期在成都理工大学从事地质灾害研究，任副校长和地质灾害防治与地质环境保护国家重点实验室主任。
+    2008 年起任四川省政协副主席、省人大常委会副主任，2016 年任环保部副部长，2020 年 4 月任生态环境部部长，是改革开放以来第三位非中共党籍的国务院组成部门正职。
+  positions:
+    - { title: 成都理工大学副校长, sys: other, place: 四川, from: 2001-11, to: 2016-03, cite: u09-mee-huang-runqiu }
+    - { title: 九三学社四川省主委, sys: other, place: 四川, from: 2007-05, cite: u09-mee-huang-runqiu }
+    - { title: 四川省政协副主席, sys: other, place: 四川, from: 2008-01, to: 2014-01, cite: u09-mee-huang-runqiu }
+    - { title: 四川省人大常委会副主任, sys: other, place: 四川, from: 2014-01, to: 2016-03, cite: u09-mee-huang-runqiu }
+    - { title: 环境保护部副部长（2018 年起为生态环境部副部长）, sys: gov, from: 2016-03, to: 2020-04, cite: u09-mee-huang-runqiu }
+    - { title: 九三学社中央副主席, sys: other, from: 2017-12, cite: u09-mee-huang-runqiu }
+    - { title: 生态环境部部长, sys: gov, from: 2020-04, cite: u09-mee-huang-runqiu }
+  cites: [wd-Q11177950, u09-mee-huang-runqiu, u09-wiki-huang-runqiu, u09-93-huang-runqiu]
+
+- id: zhang-zhu
+  name: 张柱
+  gender: m
+  born: 1968-02
+  birthplace: 宁夏同心
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 农业农村部党组书记、部长
+  ids: { wikidata: Q47674422 }
+  bio: >-
+    宁夏同心人，1989 年西北农业大学毕业后长期在宁夏农业厅（农牧厅）工作，2013 年任农牧厅厅长；后任中卫、固原、银川市委书记和宁夏区党委常委。
+    2021 年调任新疆区党委常委、组织部部长，2023 年任新疆区党委副书记，2024 年兼乌鲁木齐市委书记，2026 年 4 月任农业农村部部长。
+  positions:
+    - { title: 宁夏回族自治区农牧厅副厅长, sys: gov, place: 宁夏, from: 2007-08, to: 2011-04, cite: u09-wiki-zhang-zhu }
+    - { title: 固原市委副书记, sys: party, place: 宁夏, from: 2011-04, to: 2012, cite: u09-wiki-zhang-zhu }
+    - { title: 宁夏回族自治区农牧厅厅长, sys: gov, place: 宁夏, from: 2013-01, to: 2015-04, cite: u09-wiki-zhang-zhu }
+    - { title: 中卫市委书记, sys: party, place: 宁夏, from: 2015-04, to: 2017-06, cite: u09-wiki-zhang-zhu }
+    - { title: 宁夏回族自治区党委常委、固原市委书记, sys: party, place: 宁夏, from: 2017-06, to: 2021-02, cite: u09-thepaper-2026-04-zhang-zhu }
+    - { title: 宁夏回族自治区党委常委、银川市委书记, sys: party, place: 宁夏, from: 2021-02, to: 2021-09, cite: u09-thepaper-2026-04-zhang-zhu }
+    - { title: 新疆维吾尔自治区党委常委、组织部部长, sys: party, place: 新疆, from: 2021-09, to: 2024-05, cite: u09-wiki-zhang-zhu }
+    - { title: 新疆维吾尔自治区党委副书记, sys: party, place: 新疆, from: 2023-12, to: 2026-04, cite: u09-wiki-zhang-zhu }
+    - { title: 乌鲁木齐市委书记, sys: party, place: 新疆, from: 2024-08, to: 2026-04, cite: u09-wiki-zhang-zhu }
+    - { title: 农业农村部党组书记, sys: party, from: 2026-04-28, cite: u09-moa-2026-04-28-zhang-zhu }
+    - { title: 农业农村部部长, sys: gov, from: 2026-04-30, cite: u09-thepaper-2026-04-zhang-zhu }
+  cites: [wd-Q47674422, u09-thepaper-2026-04-zhang-zhu, u09-sina-2026-04-30-zhang-zhang, u09-wiki-zhang-zhu, u09-moa-2026-04-28-zhang-zhu]
+
+- id: sun-yeli
+  name: 孙业礼
+  gender: m
+  born: 1964-12-09
+  birthplace: 山东安丘
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 中央宣传部副部长，文化和旅游部党组书记、部长
+  ids: { wikidata: Q104722380 }
+  bio: >-
+    山东安丘人，北京大学历史学硕士。1988 年起在中央文献研究室工作三十年，任《党的文献》主编、编研部主任，2014 年任副主任，参加过《习近平谈治国理政》等领导人著作的编辑。
+    2018 年任中央党史和文献研究院副院长，2021 年任中宣部副部长，2022 年兼国务院新闻办公室主任，2023 年 12 月任文化和旅游部部长。
+  positions:
+    - { title: 中央文献研究室副主任, sys: party, from: 2014-01, to: 2018-03, cite: u09-wiki-sun-yeli }
+    - { title: 中央党史和文献研究院副院长, sys: party, from: 2018-03, to: 2021-01, cite: u09-thepaper-2023-11-14-sun-yeli }
+    - { title: 中央宣传部副部长, sys: party, from: 2021-01, cite: u09-thepaper-2023-11-14-sun-yeli }
+    - { title: 国务院新闻办公室主任, sys: gov, from: 2022-12, to: 2024-04-11, cite: u09-wiki-sun-yeli }
+    - { title: 文化和旅游部党组书记, sys: party, from: 2023-11, cite: u09-thepaper-2023-11-14-sun-yeli }
+    - { title: 文化和旅游部部长, sys: gov, from: 2023-12-29, cite: u09-wiki-sun-yeli }
+  cites: [wd-Q104722380, u09-thepaper-2023-11-14-sun-yeli, u09-dswxyjy-sun-yeli, u09-wiki-sun-yeli, u09-mct-2023-11-13-sun-yeli]
+
+- id: lei-haichao
+  name: 雷海潮
+  gender: m
+  born: 1968-04
+  birthplace: 山东德州
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 国家卫生健康委员会党组书记、主任
+  ids: { wikidata: Q104723725 }
+  bio: >-
+    山东德州人，上海医科大学博士，卫生经济学者出身。2004 年进入卫生部政策法规司，参与 2009 年新医改方案设计；2010 年经公开选拔任北京市卫生局副局长，
+    后任北京市卫计委、卫健委主任，主持取消药品加成和医耗联动改革。2020 年任国家卫健委副主任，2024 年 6 月任主任。
+  positions:
+    - { title: 卫生部卫生政策法规司政策研究二处副处长、处长, sys: gov, from: 2004-09, to: 2010-07, cite: u09-jiemian-lei-haichao }
+    - { title: 北京市卫生局副局长, sys: gov, place: 北京, from: 2010-07, to: 2014-01, cite: u09-jiemian-lei-haichao }
+    - { title: 北京市卫生和计划生育委员会副主任、主任, sys: gov, place: 北京, from: 2014-01, to: 2018, cite: u09-jiemian-lei-haichao }
+    - { title: 北京市卫生健康委员会党委书记、主任, sys: gov, place: 北京, from: 2018, to: 2020-11, cite: u09-jiemian-lei-haichao }
+    - { title: 国家卫生健康委员会副主任, sys: gov, from: 2020-11, to: 2024-06, cite: u09-yicai-2024-lei-haichao }
+    - { title: 国家卫生健康委员会党组书记, sys: party, from: 2024-05, cite: u09-jiemian-lei-haichao }
+    - { title: 国家卫生健康委员会主任, sys: gov, from: 2024-06-28, cite: u09-gov-2024-06-28-order-29 }
+  cites: [wd-Q104723725, u09-yicai-2024-lei-haichao, u09-jiemian-lei-haichao, u09-wiki-lei-haichao, u09-gov-2024-06-28-order-29]
+
+- id: zhang-chengzhong
+  name: 张成中
+  gender: m
+  born: 1970-10
+  birthplace: 辽宁盖州
+  roles: [minister]
+  status: active
+  tier: 2
+  headline: 应急管理部党委书记、部长，国家消防救援局第一政委
+  ids: { wikidata: Q51104279 }
+  bio: >-
+    辽宁盖州人，天津大学毕业，早年在锦州石化、东北炼化工程公司和中石油辽宁销售分公司任职，曾任中石油辽宁销售分公司安全总监。后任阜新市长、盘锦市委书记、辽宁省委常委兼秘书长，
+    2023 年调任河北省委常委、常务副省长，2024 年任唐山市委书记，2026 年 3 月任应急管理部党委书记，4 月 30 日任部长。
+  positions:
+    - { title: 阜新市委常委、常务副市长, sys: gov, place: 辽宁, to: 2017-12, cite: u09-sina-2026-04-30-zhang-zhang }
+    - { title: 阜新市市长, sys: gov, place: 辽宁, from: 2017-12, to: 2021-01, cite: u09-wiki-zhang-chengzhong }
+    - { title: 盘锦市委书记, sys: party, place: 辽宁, from: 2021-01, to: 2022-04, cite: u09-wiki-zhang-chengzhong }
+    - { title: 辽宁省委常委、秘书长, sys: party, place: 辽宁, from: 2021-12, to: 2023-07, cite: u09-wiki-zhang-chengzhong }
+    - { title: 河北省委常委、常务副省长, sys: gov, place: 河北, from: 2023-07, to: 2024-11, cite: u09-wiki-zhang-chengzhong }
+    - { title: 唐山市委书记, sys: party, place: 河北, from: 2024-11-12, to: 2026-03, cite: u09-wiki-zhang-chengzhong }
+    - { title: 应急管理部党委书记, sys: party, from: 2026-03, cite: u09-wiki-zhang-chengzhong }
+    - { title: 应急管理部部长, sys: gov, from: 2026-04-30, cite: u09-thepaper-2026-04-zhang-chengzhong }
+  cites: [wd-Q51104279, u09-sina-2026-04-30-zhang-zhang, u09-thepaper-2026-04-zhang-chengzhong, u09-wiki-zhang-chengzhong]
