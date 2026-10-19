@@ -55,15 +55,16 @@
   born: 1961
   roles: [tiger, general]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表职务；据报道同年被军方反腐机构带走，官方未公布立案或处分。
+  statusNote: 2023 年 7 月 7 日中央军委联合参谋部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
   fall:
+    - { date: 2023-07-07, text: 中央军委联合参谋部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
     - { date: 2023-07-28, text: 联合早报引述南华早报称其与李玉超、刘光斌被军委纪委调查人员带走, cite: c03-zaobao-2023-07-28-rocket-force }
     - { date: 2023-12-29, text: 全国人大常委会公告，中央军委联合参谋部军人代表大会罢免其全国人大代表职务, cite: e04-bjd-2023-12-29-npc-generals }
   tier: 2
   headline: 中央军委联合参谋部原副参谋长、火箭军原副司令员，中将
   ids: { wikidata: Q28410534 }
   bio: >-
-    航天发射系统出身，西北工业大学毕业，曾任酒泉卫星发射中心副司令员、西昌卫星发射中心司令员、火箭军某基地司令员，2016 年升任火箭军副司令员，2022 年 6 月以联合参谋部副参谋长身份出席香格里拉对话会。2023 年 7 月，联合早报引述《南华早报》称他与火箭军司令员李玉超等人“已被中共中央军委反腐机构调查人员带走”；同年 12 月被罢免全国人大代表职务，官方未说明原因。
+    航天发射系统出身，西北工业大学毕业，曾任酒泉卫星发射中心副司令员、西昌卫星发射中心司令员、火箭军某基地司令员，2016 年升任火箭军副司令员，2022 年 6 月以联合参谋部副参谋长身份出席香格里拉对话会。2023 年 7 月，联合早报引述《南华早报》称他与火箭军司令员李玉超等人“已被中共中央军委反腐机构调查人员带走”。人大代表资格审查报告写明，联合参谋部军人代表大会已于 7 月 7 日以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日由全国人大常委会公告。
   positions:
     - { title: 酒泉卫星发射中心参谋长、副司令员, sys: army, cite: c08-thepaper-2016-08-zhang-zhenzhong }
     - { title: 西昌卫星发射中心司令员, sys: army, cite: c08-thepaper-2016-08-zhang-zhenzhong }
@@ -74,7 +75,7 @@
     - f: rocket-equipment
       cite: c03-zaobao-2023-07-28-rocket-force
       quote: 中国人民解放军火箭军司令员李玉超、副司令员刘光斌，和前副司令员张振中，已被中共中央军委反腐机构调查人员带走
-  cites: [wd-Q28410534, c08-thepaper-2016-08-zhang-zhenzhong, c08-caixin-2022-06-13-zhang-zhenzhong, c03-zaobao-2023-07-28-rocket-force, e04-bjd-2023-12-29-npc-generals, e04-zaobao-2023-12-30-npc-generals]
+  cites: [wd-Q28410534, c08-thepaper-2016-08-zhang-zhenzhong, c08-caixin-2022-06-13-zhang-zhenzhong, c03-zaobao-2023-07-28-rocket-force, a02-wikisource-npc-qualification-reports, e04-bjd-2023-12-29-npc-generals, e04-zaobao-2023-12-30-npc-generals]
 
 - id: wang-gang-af
   name: 王刚

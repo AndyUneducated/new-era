@@ -791,14 +791,14 @@
   gender: m
   roles: [tiger, general]
   status: purged
-  statusNote: 2026 年 2 月被罢免全国人大代表及人大常委会委员，官方未公布原因。
+  statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、财经委副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
   fall:
-    - { date: 2026-02-26, text: 海军军人代表大会罢免其全国人大代表职务，人大常委会委员、财经委副主任委员职务相应撤销, cite: f09-xinhua-2026-02-26-npc-notice-16 }
+    - { date: 2026-02-26, text: 全国人大常委会公告：海军军人代表大会罢免其全国人大代表职务，人大常委会委员、财经委副主任委员职务相应撤销, cite: f09-xinhua-2026-02-26-npc-notice-16 }
   tier: 2
   headline: 海军原司令员，上将
   bio: >-
     上将，曾任海军司令员，卸任后任第十四届全国人大常委会委员、财政经济委员会副主任委员。
-    2026 年 2 月与原海军政委秦生祥同批被罢免人大代表；传闻来源把他归为苗华落马后出事的海军同僚。
+    2026 年 1 月 13 日与原海军政委秦生祥同日被海军军人代表大会罢免人大代表，2 月 26 日公告；传闻来源把他归为苗华落马后出事的海军同僚。
   positions:
     - { title: 海军司令员, sys: army, cite: f09-dw-2026-02-26-pla-deputies }
     - { title: 全国人大常委会委员、财政经济委员会副主任委员, sys: other, to: 2026-02, cite: f09-xinhua-2026-02-26-npc-notice-16 }
@@ -807,21 +807,21 @@
       cite: f09-tnt-2026-hu-zhongming
       quote: 苗华落马后，其嫡系海军同僚与旧部纷纷出事……原海军司令沈金龙、原海军政委秦生祥于2026年2月26日被罢免全国人大代表职务
       rank: periphery
-  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies]
+  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, a02-wikisource-npc-qualification-reports]
 
 - id: qin-shengxiang
   name: 秦生祥
   gender: m
   roles: [tiger, general, cc]
   status: purged
-  statusNote: 2026 年 2 月被罢免全国人大代表及人大常委会委员，官方未公布原因。
+  statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、社会建设委员会副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
   fall:
-    - { date: 2026-02-26, text: 海军军人代表大会罢免其全国人大代表职务，人大常委会委员、社会建设委员会副主任委员职务相应撤销, cite: f09-xinhua-2026-02-26-npc-notice-16 }
+    - { date: 2026-02-26, text: 全国人大常委会公告：海军军人代表大会罢免其全国人大代表职务，人大常委会委员、社会建设委员会副主任委员职务相应撤销, cite: f09-xinhua-2026-02-26-npc-notice-16 }
   tier: 2
   headline: 海军原政委，上将
   bio: >-
     上将，曾任海军政治委员，十九届中央委员，卸任后任第十四届全国人大常委会委员、社会建设委员会副主任委员。
-    2026 年 2 月与原海军司令员沈金龙同批被罢免人大代表；传闻来源把他归为苗华的海军同僚。
+    2026 年 1 月 13 日与原海军司令员沈金龙同日被海军军人代表大会罢免人大代表，2 月 26 日公告；传闻来源把他归为苗华的海军同僚。
   positions:
     - { title: 海军政治委员, sys: army, cite: f09-dw-2026-02-26-pla-deputies }
     - { title: 全国人大常委会委员、社会建设委员会副主任委员, sys: other, to: 2026-02, cite: f09-xinhua-2026-02-26-npc-notice-16 }
@@ -830,4 +830,4 @@
       cite: f09-tnt-2026-hu-zhongming
       quote: 苗华落马后，其嫡系海军同僚与旧部纷纷出事……原海军司令沈金龙、原海军政委秦生祥于2026年2月26日被罢免全国人大代表职务
       rank: periphery
-  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, k02-xinhua-2017-10-24-19-cc]
+  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, k02-xinhua-2017-10-24-19-cc, a02-wikisource-npc-qualification-reports]
