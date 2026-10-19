@@ -1,0 +1,40 @@
+# Links between batches that could not see each other while in flight (I08, I09 → I05–I07)
+china-model-debate:
+  by: [pan-wei, zheng-yongnian]
+confucian-revival:
+  by: [gan-yang]
+  related: [xi-culture-thought, two-combinations]
+constitutionalism-debate:
+  by: [he-weifang]
+universal-values-debate:
+  by: [qin-hui, xu-jilin, yu-keping]
+  related: [common-values]
+chongqing-vs-guangdong:
+  by: [cui-zhiyuan, wang-shaoguang, wang-hui]
+guojin-mintui:
+  by: [mao-yushi, cui-zhiyuan, wang-shaoguang]
+  related: [soe-reform, grasp-large-release-small]
+gongzhi-debate:
+  by: [xu-jilin]
+historical-nihilism-debate:
+  by: [mao-yushi]
+  related: [xi-culture-thought]
+socialism-or-capitalism:
+  related: [three-favorables, no-debate, development-hard-truth]
+three-favorables:
+  related: [socialism-or-capitalism]
+no-debate:
+  related: [socialism-or-capitalism]
+soe-reform:
+  related: [guojin-mintui]
+sannong:
+  by: [wen-tiejun]
+  related: [rural-revitalization]
+rural-revitalization:
+  related: [sannong]
+people-centered:
+  related: [people-oriented]
+people-oriented:
+  related: [people-centered]
+xi-culture-thought:
+  related: [confucian-revival, historical-nihilism-debate, cultural-confidence]
