@@ -1,0 +1,649 @@
+# LK3: policies for concepts that had none: the documents, meetings, laws and campaigns each idea landed in,
+# with the site events that record them. Ideas with nothing to point to are left alone.
+
+four-comprehensives:
+  policies:
+    - date: 2013-11-12
+      name: 中共中央关于全面深化改革若干重大问题的决定
+      text: 十八届三中全会通过，提出全面深化改革的总目标是完善和发展中国特色社会主义制度、推进国家治理体系和治理能力现代化。
+      events: [e03-2013-third-plenum-reform-decision]
+      cite: e03-gov-2013-11-15-reform-decision
+    - date: 2014-10-23
+      name: 中共中央关于全面推进依法治国若干重大问题的决定
+      text: 十八届四中全会通过，提出全面推进依法治国的总目标是建设中国特色社会主义法治体系、建设社会主义法治国家。
+      events: [e03-2014-fourth-plenum-rule-of-law]
+      cite: e03-gov-2014-10-28-rule-of-law
+    - date: 2015-10-29
+      name: 十八届五中全会通过“十三五”规划建议
+      text: 全会把“十三五”时期定为全面建成小康社会决胜阶段，要求规划紧紧围绕这一奋斗目标来制定。
+      events: [e03-2015-two-child-policy]
+      cite: i01-moe-2015-10-29-5th-plenum-communique
+    - date: 2016-10-27
+      name: 关于新形势下党内政治生活的若干准则、中国共产党党内监督条例
+      text: 十八届六中全会审议通过两部党内法规，全会高度评价十八大以来全面从严治党取得的成就。
+      events: [e03-2016-sixth-plenum-core]
+      cite: i01-cpc-2016-10-27-6th-plenum-communique
+
+core:
+  policies:
+    - date: 2016-10-27
+      name: 关于新形势下党内政治生活的若干准则、中国共产党党内监督条例
+      text: 十八届六中全会公报以“以习近平同志为核心的党中央”称呼中央领导集体，称领导核心至关重要，要求全党在思想上政治上行动上同党中央保持高度一致。
+      events: [e03-2016-sixth-plenum-core]
+      cite: i01-cpc-2016-10-27-6th-plenum-communique
+    - date: 2018
+      name: 修订《中国共产党纪律处分条例》增写“两个维护”
+      text: 修订后的条例写入“坚决维护习近平总书记党中央的核心、全党的核心地位”，把维护核心定为政治纪律。
+      events: []
+      cite: i01-cpc-2019-02-22-two-safeguards
+
+four-consciousness:
+  policies:
+    - date: 2016-10-27
+      name: 十八届六中全会号召牢固树立“四个意识”
+      text: 全会在审议通过党内政治生活准则和党内监督条例后，号召全党牢固树立政治意识、大局意识、核心意识、看齐意识。
+      events: [e03-2016-sixth-plenum-core]
+      cite: i01-cpc-2016-10-27-6th-plenum-communique
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 中办通知以秦岭北麓违建别墅为教训，要求把树牢“四个意识”、做到“两个维护”的要求落到实处。
+      events: []
+      cite: lk3-gov-2019-03-11-base-burden
+
+two-safeguards:
+  policies:
+    - date: 2018
+      name: 修订《中国共产党纪律处分条例》增写“两个维护”
+      text: 条例以党内法规形式写明坚决维护习近平总书记的核心地位、坚决维护党中央权威和集中统一领导，中央纪委法规室称其为根本的政治纪律和政治规矩。
+      events: []
+      cite: i01-cpc-2019-02-22-two-safeguards
+    - date: 2018-07
+      name: 秦岭北麓违建别墅专项整治
+      text: 违规别墅1194栋上报中央时“缩水”为202栋；《中国纪检监察报》称根子在于没有把“两个维护”作为最根本、最重要的政治纪律和政治规矩。
+      events: [e05-2018-qinling-villas]
+      cite: i01-cpc-2019-02-22-two-safeguards
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 中办通知要求认真汲取秦岭违建别墅问题的教训，坚决纠正落实党中央决策部署搞选择性执行的问题，把做到“两个维护”落到实处。
+      events: []
+      cite: lk3-gov-2019-03-11-base-burden
+
+new-development-philosophy:
+  policies:
+    - date: 2015-10-29
+      name: 十八届五中全会提出创新、协调、绿色、开放、共享发展理念
+      text: 全会要求牢固树立并切实贯彻五大发展理念，称这是关系我国发展全局的一场深刻变革，并以此统领“十三五”规划建议。
+      events: [e03-2015-two-child-policy]
+      cite: i01-moe-2015-10-29-5th-plenum-communique
+    - date: 2020-10-29
+      name: 十九届五中全会通过“十四五”规划建议
+      text: 把坚定不移贯彻新发展理念、构建新发展格局写入“十四五”时期指导思想，并列为必须遵循的原则之一。
+      events: [fifth-plenum-19th]
+      cite: e04-xinhua-2020-10-29-5th-plenum
+    - date: 2021-09-22
+      name: 中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见
+      text: 以贯彻新发展理念为题部署“双碳”，定下2025、2030、2060年三阶段目标，2030年单位国内生产总值二氧化碳排放比2005年下降65%以上。
+      events: [e11-2021-carbon-opinion]
+      cite: i06-gov-2021-10-24-carbon-opinion
+
+chinese-modernization:
+  policies:
+    - date: 2024-07-18
+      name: 二十届三中全会《关于进一步全面深化改革、推进中国式现代化的决定》
+      text: 提出到二〇三五年全面建成高水平社会主义市场经济体制、基本实现国家治理体系和治理能力现代化、基本实现社会主义现代化。
+      events: [third-plenum-20th]
+      cite: i01-gov-2024-07-18-third-plenum-decision
+    - date: 2025-10-23
+      name: 二十届四中全会通过“十五五”规划建议
+      text: 全会称“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的关键时期，要求以中国式现代化全面推进中华民族伟大复兴。
+      events: [fourth-plenum-20th]
+      cite: i01-fmprc-2025-10-23-fourth-plenum-communique
+    - date: 2026-03-12
+      name: 全国人大批准“十五五”规划纲要
+      text: 大会要求推动事关中国式现代化全局的战略任务取得重大突破，为基本实现社会主义现代化奠定更加坚实的基础。
+      events: [npc-2026-fyp]
+      cite: e04-gov-2026-03-12-15th-fyp
+
+xiaokang:
+  policies:
+    - date: 2000-10-09
+      name: 十五届五中全会通过“十五”计划建议
+      text: 全会认为从新世纪开始，我国将进入全面建设小康社会、加快推进现代化的新的发展阶段。
+      events: [e07-2000-fifth-plenum]
+      cite: e01-cpc-dsj-2000
+    - date: 2015-10-29
+      name: 十八届五中全会通过“十三五”规划建议
+      text: 把到二〇二〇年全面建成小康社会定为第一个百年奋斗目标，称“十三五”时期是决胜阶段。
+      events: [e03-2015-two-child-policy]
+      cite: i01-moe-2015-10-29-5th-plenum-communique
+    - date: 2015-11-29
+      name: 中共中央 国务院关于打赢脱贫攻坚战的决定
+      text: 称确保到2020年农村贫困人口实现脱贫是全面建成小康社会最艰巨的任务，要求现行标准下贫困县全部摘帽。
+      events: [e11-2015-poverty-decision]
+      cite: i06-gov-2015-12-07-poverty-decision
+
+eight-point-rules:
+  policies:
+    - date: 2012-12-04
+      name: 中央政治局关于改进工作作风、密切联系群众的八项规定
+      text: 从调查研究、会议、文件、出访、警卫、新闻报道、文稿发表、勤俭节约八方面约束政治局成员，要求不张贴悬挂标语横幅、不安排群众迎送、不安排宴请。
+      events: [e2012-eight-point-rules]
+      cite: i01-most-2012-12-04-eight-point-rules
+    - date: 2013-06-18
+      name: 党的群众路线教育实践活动
+      text: 活动聚焦作风建设，集中解决形式主义、官僚主义、享乐主义和奢靡之风这“四风”问题。
+      events: [e08-2013-mass-line-campaign]
+      cite: e08-xinhua-2013-06-18-mass-line
+    - date: 2025-03-17
+      name: 深入贯彻中央八项规定精神学习教育
+      text: 中办通知在全党开展，2025年全国两会后启动、7月底前基本结束，不分批次、不划阶段，集中整治违反八项规定及其实施细则精神的突出问题。
+      events: []
+      cite: lk3-gov-2025-03-17-eight-rules-education
+
+four-winds:
+  policies:
+    - date: 2013-06-18
+      name: 党的群众路线教育实践活动
+      text: 习近平称党内脱离群众的现象集中表现在形式主义、官僚主义、享乐主义和奢靡之风这“四风”上，活动的主要任务聚焦到解决“四风”问题。
+      events: [e08-2013-mass-line-campaign]
+      cite: e08-xinhua-2013-06-18-mass-line
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 把2019年定为“基层减负年”，发给县级以下的文件、会议减少30%－50%，中央政策性文件原则上不超过10页，对县乡村的督查检查考核事项减少50%以上。
+      events: []
+      cite: lk3-gov-2019-03-11-base-burden
+    - date: 2023-01-09
+      name: 二十届中央纪委二次全会部署纠治“四风”
+      text: 全会要求持续深化落实中央八项规定精神、纠治“四风”，重点纠治形式主义、官僚主义，防反弹回潮、防隐形变异、防疲劳厌战。
+      events: [e11-2023-ccdi-second-plenum]
+      cite: cs2-gov-2023-01-10-ccdi-2nd-plenum
+
+stability-maintenance:
+  policies:
+    - date: 2004-09-19
+      name: 维护社会稳定工作责任制
+      text: 十六届四中全会的执政能力建设决定要求坚持稳定压倒一切的方针，落实维护社会稳定的工作责任制，建立社会舆情汇集和分析机制、社会预警体系。
+      events: [e2004-jiang-hands-over-cmc]
+      cite: i01-wikisource-2004-09-19-governing-capacity-decision
+    - date: 2013-10-11
+      name: 习近平就坚持和发展“枫桥经验”作出指示
+      text: 要求创新群众工作方法，运用法治思维和法治方式解决涉及群众切身利益的矛盾，把“依靠群众就地化解矛盾”的经验坚持好、发展好。
+      events: [e11-2013-fengqiao-instruction]
+      cite: i06-gov-2013-10-11-fengqiao
+    - date: 2018-01-24
+      name: 关于开展扫黑除恶专项斗争的通知
+      text: 中共中央、国务院称专项斗争事关社会大局稳定和国家长治久安，要求把打击黑恶势力同反腐败、基层“拍蝇”结合起来，深挖“保护伞”。
+      events: [e10-2018-saohei-campaign]
+      cite: i06-gov-2018-01-24-saohei
+
+mass-incidents:
+  policies:
+    - date: 2005-03-05
+      name: 2005年政府工作报告：积极预防和妥善处置群体性事件
+      text: 要求认真实施《信访条例》，建立健全社会矛盾纠纷调处机制，完善社会稳定的预警体系和应急处理机制。
+      events: []
+      cite: i02-gov-2005-gwr
+    - date: 2009-03-05
+      name: 2009年政府工作报告：健全社会稳定预警机制
+      text: 要求健全社会稳定预警机制，积极预防和妥善处置各类群体性事件，引导群众以理性合法的方式表达利益诉求。
+      events: []
+      cite: i02-gov-2009-gwr
+
+liuzhi:
+  policies:
+    - date: 2016-12-25
+      name: 全国人大常委会关于在北京市、山西省、浙江省开展国家监察体制改革试点工作的决定
+      text: 试点地区设立监察委员会，可以采取谈话、讯问、查询、冻结、搜查、留置等措施，同时暂停适用行政监察法和刑事诉讼法中检察机关自侦的有关规定。
+      events: []
+      cite: n01-people-2016-12-26-supervision-pilot
+    - date: 2018-03-20
+      name: 中华人民共和国监察法
+      text: 十三届全国人大一次会议通过，规定留置时间不得超过三个月，特殊情况下可延长一次，延长时间不得超过三个月。
+      events: [e08-2018-national-supervision-commission]
+      cite: n01-ccdi-2018-03-supervision-law
+    - date: 2024-12-25
+      name: 全国人大常委会关于修改监察法的决定
+      text: 2025年6月1日起施行，增设责令候查、管护等措施；查出另有重大职务犯罪的，经国家监委批准可重新计算留置时间，以一次为限。
+      events: []
+      cite: n01-lyjjw-2024-12-supervision-law-revised
+
+housing-not-speculation:
+  policies:
+    - date: 2016-12-16
+      name: 中央经济工作会议提出“房住不炒”定位
+      text: 会议要求坚持“房子是用来住的，不是用来炒的”的定位，综合运用金融、土地、财税、投资、立法等手段建立长效机制，既抑制房地产泡沫，又防止出现大起大落。另说此提法首见于2017年10月十九大报告（BBC中文网，2024年5月21日）。
+      events: [e08-2016-housing-not-for-speculation]
+      cite: e08-xinhua-2016-12-16-housing
+    - date: 2020-08-20
+      name: 房企融资“三条红线”
+      text: 住建部、人民银行召开重点房地产企业座谈会，形成资金监测和融资管理规则，按资产负债率、净负债率、现金短债比三项指标分四档控制有息负债增速。
+      events: [e08-2020-three-red-lines]
+      cite: e08-jjckb-2020-08-28-three-red-lines
+    - date: 2023-07
+      name: 中央政治局会议不再提“房住不炒”
+      text: 2023年7月的政治局会议没有再提“房住不炒”，政策取向开始掉头，2024年5月推出力度空前的楼市刺激措施。
+      events: []
+      cite: n01-bbc-2024-05-21-housing
+  cites: [n01-bbc-2024-05-21-housing]
+
+three-red-lines:
+  policies:
+    - date: 2020-08-20
+      name: 房企融资“三条红线”
+      text: 剔除预收款后的资产负债率不得大于70%、净负债率不得大于100%、现金短债比不小于1；三线全踩的有息负债不得增加，依次放宽至年增5%、10%、15%，先对12家房企控制融资债务总规模。
+      events: [e08-2020-three-red-lines]
+      cite: e08-jjckb-2020-08-28-three-red-lines
+    - date: 2021
+      name: “三道红线”扩至数十家重点房企
+      text: 政策扩展至数十家重点房企，监管部门要求它们每月上报相关指标。另说2021年1月1日起全行业全面推行（《经济参考报》2020年8月28日援引知情人士）。
+      events: []
+      cite: n01-zaobao-2026-01-29-red-lines-fade
+    - date: 2026-01
+      name: “三道红线”退出
+      text: 指标悄然退出，中指研究院刘水称经过四年深度调整，政策目标已经实现，继续实施已无实际意义。
+      events: []
+      cite: n01-zaobao-2026-01-29-red-lines-fade
+  cites: [e08-jjckb-2020-08-28-three-red-lines]
+
+sinicization-of-religion:
+  policies:
+    - date: 2015-05-20
+      name: 中央统战工作会议
+      text: 习近平称积极引导宗教与社会主义社会相适应，必须坚持中国化方向，必须提高宗教工作法治化水平；会议同时部署贯彻《中国共产党统一战线工作条例（试行）》。
+      events: []
+      cite: n01-xinhua-2015-05-20-united-front
+    - date: 2016-04-22
+      name: 全国宗教工作会议
+      text: 习近平要求支持我国宗教坚持中国化方向，用社会主义核心价值观引领宗教界人士和信教群众，对教规教义作出符合当代中国发展进步要求的阐释。
+      events: [e08-2016-religious-work-conference]
+      cite: e08-xinhua-2016-04-23-religion-conf
+    - date: 2018-03-21
+      name: 国家宗教事务局并入中央统战部
+      text: 深化党和国家机构改革方案以坚持我国宗教的中国化方向为由，由中央统战部统一管理宗教工作，对外保留国家宗教事务局牌子。
+      events: [e10-2018-institution-reform-plan]
+      cite: e10-gov-2018-03-21-institution-reform
+    - date: 2018-10-09
+      name: 新疆维吾尔自治区去极端化条例（修正）
+      text: 条例写明去极端化坚持宗教中国化、法治化方向，并授权县级以上政府设立职业技能教育培训中心等教育转化机构。
+      events: [e03-2018-xinjiang-camps-legalised]
+      cite: e03-xjpcsc-2018-10-09-deextremification
+
+one-country-two-systems:
+  policies:
+    - date: 1990-04-04
+      name: 中华人民共和国香港特别行政区基本法
+      text: 七届全国人大三次会议通过基本法及关于设立香港特别行政区的决定。
+      events: [e1990-hk-basic-law]
+      cite: e01-gov-2021-06-28-cpc-100y
+    - date: 2014-08-31
+      name: 全国人大常委会“8·31决定”
+      text: 规定从2017年开始行政长官可以由普选产生，但须由按第四任选举委员会构成组成的提名委员会提名二至三名候选人，每人须获提名委员会全体委员半数以上支持。
+      events: [e08-2014-npc-august-31-decision]
+      cite: e08-ocmfa-2014-08-31-npc-831
+    - date: 2020-06-30
+      name: 香港特别行政区维护国家安全法
+      text: 十三届全国人大常委会第二十次会议全票通过，同日决定将其列入基本法附件三，由香港特区在当地公布实施。
+      events: [hk-national-security-law]
+      cite: e04-gov-2020-06-30-hk-nsl
+    - date: 2021-03-11
+      name: 全国人民代表大会关于完善香港特别行政区选举制度的决定
+      text: 要求确保以爱国者为主体的“港人治港”，选举委员会扩为五个界别共1500名委员，行政长官候选人须获不少于188名委员联合提名。
+      events: [hk-electoral-overhaul]
+      cite: e04-gov-2021-03-11-hk-electoral
+
+patriots-governing-hong-kong:
+  policies:
+    - date: 2021-03-11
+      name: 全国人民代表大会关于完善香港特别行政区选举制度的决定
+      text: 决定称香港选举制度应当确保爱国爱港者治港，设立负责选举行政长官和部分立法会议员、并提名各类候选人的选举委员会。
+      events: [hk-electoral-overhaul]
+      cite: e04-gov-2021-03-11-hk-electoral
+    - date: 2023-12-10
+      name: 区议会改制后首次选举
+      text: 候选人须获政府任命的委员会提名，1982年首届区议会直选以来首次没有民主派人士参选；李家超称这次区选是爱国者治港落实到治理架构的“最后一块拼图”。
+      events: [e08-2023-district-council-election]
+      cite: e08-dw-2023-12-11-dc-election
+
+socialist-market-economy:
+  policies:
+    - date: 1992-10-12
+      name: 十四大确立社会主义市场经济体制目标
+      text: 报告明确经济体制改革的目标是建立社会主义市场经济体制，使市场在社会主义国家宏观调控下对资源配置起基础性作用。
+      events: [e1992-14th-congress]
+      cite: i03-reformdata-1992-10-12-14th-report
+    - date: 1993-11-14
+      name: 中共中央关于建立社会主义市场经济体制若干问题的决定
+      text: 十四届三中全会通过，勾画社会主义市场经济体制的基本框架，要求建立产权清晰、权责明确、政企分开、管理科学的现代企业制度。
+      events: []
+      cite: e01-gov-2021-06-28-cpc-100y
+    - date: 2003-10-14
+      name: 中共中央关于完善社会主义市场经济体制若干问题的决定
+      text: 十六届三中全会通过，明确完善社会主义市场经济体制的主要任务，并提出树立全面、协调、可持续的发展观。
+      events: [e07-2003-third-plenum]
+      cite: e01-gov-2021-06-28-cpc-100y
+    - date: 2013-11-12
+      name: 中共中央关于全面深化改革若干重大问题的决定
+      text: 提出使市场在资源配置中起决定性作用和更好发挥政府作用，称市场决定资源配置是市场经济的一般规律。
+      events: [e03-2013-third-plenum-reform-decision]
+      cite: e03-gov-2013-11-15-reform-decision
+    - date: 2024-07-18
+      name: 二十届三中全会《关于进一步全面深化改革、推进中国式现代化的决定》
+      text: 提出到二〇三五年全面建成高水平社会主义市场经济体制，称其为中国式现代化的重要保障。
+      events: [third-plenum-20th]
+      cite: i01-gov-2024-07-18-third-plenum-decision
+
+socialism-or-capitalism:
+  policies:
+    - date: 1992-10-12
+      name: 十四大确立社会主义市场经济体制目标
+      text: 报告要求不要被一些姓“社”姓“资”的抽象争论束缚思想和手脚，援引邓小平南方谈话称计划经济不等于社会主义、市场经济不等于资本主义。
+      events: [e1992-southern-tour, e1992-14th-congress]
+      cite: i03-reformdata-1992-10-12-14th-report
+    - date: 1997-09-12
+      name: 十五大确立基本经济制度
+      text: 把公有制为主体、多种所有制经济共同发展定为社会主义初级阶段的基本经济制度，称一切符合“三个有利于”的所有制形式都可以用来为社会主义服务。
+      events: [e1997-15th-congress]
+      cite: i01-wenming-1997-09-12-15th-report
+
+deng-theory:
+  policies:
+    - date: 1992-10-12
+      name: 十四大确立社会主义市场经济体制目标
+      text: 报告称邓小平年初的重要谈话从根本上解除了把计划经济和市场经济看作社会基本制度范畴的思想束缚，据此把建立社会主义市场经济体制定为改革目标。
+      events: [e1992-southern-tour, e1992-14th-congress]
+      cite: i03-reformdata-1992-10-12-14th-report
+    - date: 1997-09-12
+      name: 十五大把邓小平理论写入党章
+      text: 中央建议在党章中把邓小平理论确立为党的指导思想，规定党以马克思列宁主义、毛泽东思想、邓小平理论作为行动指南。
+      events: [e1997-15th-congress]
+      cite: i01-wenming-1997-09-12-15th-report
+
+scientific-development:
+  policies:
+    - date: 2004-12-01
+      name: 遏制投资过热
+      text: 中央政治局会议称一年来树立和落实科学发展观、加强和改善宏观调控，有效遏制了固定资产投资过快增长。
+      events: [e07-2004-tieben]
+      cite: e01-cpc-dsj-2004
+    - date: 2005-10-08
+      name: 十六届五中全会通过“十一五”规划建议
+      text: 提出2010年人均国内生产总值比2000年翻一番、单位国内生产总值能源消耗比“十五”期末降低20%左右。
+      events: [e07-2005-fifth-plenum]
+      cite: e01-cpc-dsj-2005
+    - date: 2008-09
+      name: 全党深入学习实践科学发展观活动
+      text: 十七大报告提出开展，活动历时一年半，370多万个党组织、7500多万名党员参加。
+      events: []
+      cite: i04-rmrb-2010-04-07-editorial
+  cites: [b02-npc-2007-10-24-17th-report]
+
+guojin-mintui:
+  policies:
+    - date: 2010-05-13
+      name: 国务院关于鼓励和引导民间投资健康发展的若干意见（新36条）
+      text: 共三十六条，鼓励民间资本进入法律法规未明确禁止准入的行业和领域，要求国有资本在一般竞争性领域为民间资本营造更广阔的市场空间。
+      events: []
+      cite: lk3-gov-2010-05-13-private-investment
+    - date: 2013-11-12
+      name: 中共中央关于全面深化改革若干重大问题的决定
+      text: 重申必须毫不动摇巩固和发展公有制经济、发挥国有经济主导作用，同时必须毫不动摇鼓励、支持、引导非公有制经济发展。
+      events: [e03-2013-third-plenum-reform-decision]
+      cite: e03-gov-2013-11-15-reform-decision
+
+private-economy-exit:
+  policies:
+    - date: 2018-11-01
+      name: 民营企业座谈会（2018）
+      text: 习近平点名批评“民营经济离场论”“新公私合营论”，称民营企业和民营企业家是我们自己人，民营经济只能壮大、不能弱化。
+      events: []
+      cite: i08-xinhua-2018-11-01-xi-private-symposium
+    - date: 2025-02-17
+      name: 民营企业座谈会
+      text: 习近平称党和国家对民营经济发展的基本方针政策已纳入中国特色社会主义制度体系，不能变，也不会变；任正非、王传福、雷军等6位民企负责人发言。
+      events: [e08-2025-private-enterprise-symposium]
+      cite: b14-gov-2025-02-17-private-symposium
+
+constitutionalism-debate:
+  policies:
+    - date: 2013-04
+      name: 关于当前意识形态领域情况的通报（中办发〔2013〕9号）
+      text: 中办内部文件把“西方宪政民主”列为意识形态领域七大危险之首。
+      events: [e03-2013-document-9]
+      cite: e03-nytcn-2013-08-20-document-9
+    - date: 2014-10-23
+      name: 中共中央关于全面推进依法治国若干重大问题的决定
+      text: 十八届四中全会决定把每年十二月四日定为国家宪法日，建立宪法宣誓制度，人大及其常委会选举或任命的国家工作人员就职时公开向宪法宣誓。
+      events: [e03-2014-fourth-plenum-rule-of-law]
+      cite: e03-gov-2014-10-28-rule-of-law
+
+historical-nihilism-debate:
+  policies:
+    - date: 2021-02-20
+      name: 党史学习教育动员大会
+      text: 习近平要求以党关于历史问题的两个决议为依据树立正确党史观，旗帜鲜明反对历史虚无主义。
+      events: [e10-2021-party-history-education]
+      cite: i06-gov-2021-02-20-party-history
+    - date: 2021-05-08
+      name: 清朗·整治网上历史虚无主义
+      text: 国家网信办把整治网上历史虚无主义列为2021年网络“清朗”系列专项行动8项任务的第一项。
+      events: [e11-2021-qinglang-campaign]
+      cite: i06-cac-2021-05-08-qinglang
+
+family-planning-debate:
+  policies:
+    - date: 2013-11-12
+      name: 单独两孩
+      text: 十八届三中全会决定启动实施一方是独生子女的夫妇可生育两个孩子的政策，逐步调整完善生育政策。
+      events: [e03-2013-third-plenum-reform-decision]
+      cite: e03-gov-2013-11-15-reform-decision
+    - date: 2015-10-29
+      name: 全面两孩
+      text: 十八届五中全会提出坚持计划生育基本国策，全面实施一对夫妇可生育两个孩子政策。
+      events: [e03-2015-two-child-policy]
+      cite: i01-moe-2015-10-29-5th-plenum-communique
+    - date: 2021-05-31
+      name: 中央政治局会议决定实施三孩生育政策
+      text: 会议要求依法组织实施三孩生育政策，发展普惠托育服务体系、降低家庭教育开支，治理天价彩礼等不良风气。
+      events: []
+      cite: i08-gov-2021-05-31-three-child
+    - date: 2021-07-20
+      name: 中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定
+      text: 取消社会抚养费、清理和废止相关处罚规定，将入户、入学、入职等与个人生育情况全面脱钩，并修改人口与计划生育法。
+      events: []
+      cite: i08-gov-2021-07-20-birth-decision
+
+second-generation-ethnic-policy:
+  policies:
+    - date: 2014-09-29
+      name: 中央民族工作会议（2014）
+      text: 会议称党的民族理论和方针政策是正确的，民族区域自治制度是我国的一项基本政治制度，要求把宪法和民族区域自治法的规定落实好。
+      events: []
+      cite: i08-gov-2014-09-29-ethnic-work-conference
+    - date: 2026-03-12
+      name: 民族团结进步促进法
+      text: 十四届全国人大四次会议通过，自2026年7月1日起施行。
+      events: [ethnic-unity-law]
+      cite: e04-miit-2026-03-12-npc-closing
+
+involution-lying-flat:
+  policies:
+    - date: 2025-03-05
+      name: 实施全国统一大市场建设指引，综合整治“内卷式”竞争
+      text: 2025年政府工作报告把综合整治“内卷式”竞争写入全国统一大市场建设，要求破除地方保护和市场分割。
+      events: []
+      cite: i02-gov-2025-gwr
+    - date: 2026-03-05
+      name: 深入整治“内卷式”竞争
+      text: 2026年政府工作报告称上年综合整治“内卷式”竞争成效显现，要求综合运用产能调控、标准引领、价格执法、质量监管等手段深入整治，并出台地方政府招商引资鼓励和禁止事项清单。
+      events: [work-report-2026]
+      cite: i02-gov-2026-gwr
+
+whole-process-democracy:
+  policies:
+    - date: 2021-12-04
+      name: 《中国的民主》白皮书
+      text: 白皮书称中国发展的是“全过程人民民主”，使国家政治生活和社会生活各环节、各方面都体现人民意愿、听到人民声音。
+      events: []
+      cite: i05-bbc-2021-12-04-democracy-white-paper
+    - date: 2023-03-13
+      name: 全国人民代表大会关于修改《中华人民共和国立法法》的决定
+      text: 十四届全国人大一次会议在立法法第六条增加一款：“立法应当坚持和发展全过程人民民主，尊重和保障人权，保障和促进社会公平正义。”
+      events: []
+      cite: lk3-npc-2023-03-14-legislation-law
+
+democracy-good-thing:
+  policies:
+    - date: 2021-12-04
+      name: 《中国的民主》白皮书
+      text: 白皮书称“民主是各国人民的权利，而不是少数国家的专利”，一个国家是不是民主应由这个国家的人民来评判。
+      events: []
+      cite: i08-gov-2021-12-04-democracy-white-paper
+
+document-9:
+  policies:
+    - date: 2013-04
+      name: 关于当前意识形态领域情况的通报（中办发〔2013〕9号）
+      text: 中共中央办公厅印发、未公开发布，列出七大危险，以“西方宪政民主”为首，其他包括宣扬“普世价值”、公民社会、“新自由主义”和对党史的“虚无主义”批评；《纽约时报》称文件得到习近平首肯。
+      events: [e03-2013-document-9]
+      cite: e03-nytcn-2013-08-20-document-9
+    - date: 2013-05
+      name: 地方党委传达学习9号文件
+      text: 人民网强国社区5月13日的帖子称辽源市委、重庆市体育局迅速贯彻落实《关于当前意识形态领域情况的通报》；有分析认为网传的“七不讲”即其官方版本。
+      events: []
+      cite: e03-bbc-2013-05-13-document-9
+
+universal-values-debate:
+  policies:
+    - date: 2013-04
+      name: 关于当前意识形态领域情况的通报（中办发〔2013〕9号）
+      text: 中办内部文件把对人权“普世价值”的宣扬列为意识形态领域七大危险之一；同期网传的“七不讲”要求教师不要与学生讨论普世价值和新闻自由等议题。
+      events: [e03-2013-document-9]
+      cite: e03-nytcn-2013-08-20-document-9
+  cites: [e03-bbc-2013-05-13-document-9]
+
+great-firewall:
+  policies:
+    - date: 1996
+      name: 中华人民共和国计算机信息网络国际联网管理暂行规定
+      text: 其中“擅自建立、使用非法定信道国际联网”的条款成为处罚翻墙的通用依据；2020年10月浙江省政务服务网公布的80多份翻墙处罚决定书，理由都是这一条。
+      events: [e09-2014-fanqiang]
+      cite: e09-cdt-space-fanqiang
+    - date: 2017-01
+      name: 工信部清理规范无资质VPN跨境经营
+      text: 工信部出台通知，清理未经电信主管部门批准、无国际通信业务经营资质而租用国际专线或VPN开展跨境电信业务的企业和个人；外贸、跨国企业办公自用须向有国际出入口的电信运营商租用专线。
+      events: []
+      cite: n01-cnr-2017-07-25-miit-vpn
+
+positive-energy:
+  policies:
+    - date: 2013-08-10
+      name: 网络名人社会责任论坛
+      text: 国家网信办主任鲁炜与网络名人座谈，提出六点希望，要求他们自觉维护国家利益，“积极发挥凝聚正能量作用”。
+      events: []
+      cite: b12-xinhua-2013-08-12-lu-wei-bigv
+    - date: 2014-10-15
+      name: 文艺工作座谈会
+      text: 习近平要求作品把社会效益放在首位，会后对网络作家周小平、花千芳说“希望你们创作更多具有正能量的作品”。
+      events: [e08-2014-arts-forum]
+      cite: e08-thepaper-2014-10-15-arts-forum
+
+gongzhi-debate:
+  policies:
+    - date: 2013-08-10
+      name: 网络名人社会责任论坛
+      text: 国家网信办主任鲁炜对网络名人提出六点希望，包括承担更多社会责任、维护国家利益、带头遵守法律和道德规范；同场发言的有薛蛮子、潘石屹、周小平等。
+      events: []
+      cite: b12-xinhua-2013-08-12-lu-wei-bigv
+    - date: 2013-09
+      name: 两高网络诽谤司法解释
+      text: 同一诽谤信息实际被点击、浏览5000次以上或被转发500次以上，即可认定为诽谤罪的“情节严重”；网信办称薛蛮子被抓与其“大V”身份无关。
+      events: [e08-2013-online-defamation-rule]
+      cite: e08-cac-2014-02-25-rumor
+    - date: 2014-10-15
+      name: 文艺工作座谈会
+      text: 网络作家周小平、花千芳应邀出席，习近平会后希望他们创作更多具有正能量的作品。
+      events: [e08-2014-arts-forum]
+      cite: e08-thepaper-2014-10-15-arts-forum
+
+honor-disgrace:
+  policies:
+    - date: 2006-03-04
+      name: 胡锦涛提出社会主义荣辱观
+      text: 胡锦涛在全国政协十届四次会议民盟、民进联组讨论时要求引导广大干部群众特别是青少年树立以“八荣八耻”为主要内容的社会主义荣辱观。
+      events: [e2006-honor-disgrace]
+      cite: e01-cpc-dsj-2006
+    - date: 2006-05-19
+      name: 关于深入学习实践社会主义荣辱观，大力加强思想道德建设的意见
+      text: 中央精神文明建设指导委员会发出。
+      events: []
+      cite: e01-cpc-dsj-2006
+
+harmonious-world:
+  policies:
+    - date: 2006-08-21
+      name: 中央外事工作会议（2006）
+      text: 会议要求坚定不移地走和平发展道路，为推动建设持久和平、共同繁荣的和谐世界作出贡献。
+      events: []
+      cite: e01-cpc-dsj-2006
+    - date: 2011-09-06
+      name: 《中国的和平发展》白皮书
+      text: 在“中国和平发展的对外方针政策”一章首列推动建设和谐世界，称这既是一个长期目标，又是一项现实任务。
+      events: []
+      cite: lk3-gov-2011-09-06-peaceful-development
+
+peaceful-rise:
+  policies:
+    - date: 2006-08-21
+      name: 中央外事工作会议（2006）
+      text: 会议要求高举和平、发展、合作的旗帜，坚持独立自主的和平外交政策，坚定不移地走和平发展道路。
+      events: []
+      cite: e01-cpc-dsj-2006
+    - date: 2011-09-06
+      name: 《中国的和平发展》白皮书
+      text: 称中国和平发展打破了“国强必霸”的大国崛起传统模式，同时列出国家核心利益，包括国家主权、领土完整、国家统一和宪法确立的国家政治制度。
+      events: []
+      cite: lk3-gov-2011-09-06-peaceful-development
+
+yingshou-jinshou:
+  policies:
+    - date: 2017
+      name: 新疆“应收尽收”命令
+      text: 2016年8月上任的新疆党委书记陈全国发布“应收尽收”的命令，这一说法自2017年起不断出现在新疆内部文件中，拘禁营随之迅速扩大。
+      events: [e05-2019-xinjiang-papers]
+      cite: b09-nyt-2019-11-16-xinjiang-papers
+    - date: 2020-02-06
+      name: 武汉排查收治“四类人员”
+      text: 孙春兰率中央指导组督促武汉以战时状态抓好源头防控，全力排查收治“四类人员”，实施全民拉网式排查，坚决落实应收尽收、应治尽治。
+      events: []
+      cite: b11-people-2020-02-07-sun-wartime
+
+happy-guangdong:
+  policies:
+    - date: 2011-01-06
+      name: 中共广东省委十届八次全会
+      text: 汪洋提出广东“十二五”的核心是加快转型升级、建设“幸福广东”，称转型升级是手段、“幸福广东”是目标。
+      events: []
+      cite: i03-chinanews-2011-01-06-happy-guangdong
+    - date: 2012-05-09
+      name: 广东省第十一次党代会报告
+      text: 报告回顾五年来编制实施建设幸福广东指标体系，把坚持改革开放、加快转型升级、建设幸福广东、从严管党治党定为今后五年总体要求的核心内容。
+      events: []
+      cite: b05-gd-2012-05-09-wang-yang-report
+
+chongqing-vs-guangdong:
+  policies:
+    - date: 2009
+      name: 重庆“打黑除恶”
+      text: 薄熙来主政重庆时大规模开展，他回应批评说“打黑除恶”不是“异想天开，没事找事”；批评者认为它像文革搞运动，而不是通过法制途径对付腐败和黑社会。
+      events: [e2009-chongqing-strike-black]
+      cite: e02-bbc-2010-03-31-bo-anti-triad
+    - date: 2012-03-15
+      name: 薄熙来不再兼任重庆市委书记
+      text: 李源潮在重庆领导干部会议上宣布中央决定，张德江兼任重庆市委书记，称这次调整是中央从当前形势和大局出发、经过慎重考虑决定的。
+      events: [e2012-bo-xilai-removed]
+      cite: e02-xinhua-2012-03-15-chongqing-secretary
+    - date: 2012-05-09
+      name: 广东省第十一次党代会报告
+      text: 报告回顾五年来实施“双转移”“腾笼换鸟”、提升珠三角带动东西北等战略措施，并提出今后五年加快转型升级、建设幸福广东。
+      events: []
+      cite: b05-gd-2012-05-09-wang-yang-report
