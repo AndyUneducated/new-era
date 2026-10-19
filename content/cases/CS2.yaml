@@ -3,7 +3,7 @@
   title: 孙力军政治团伙案
   kind: case
   years: '2001–2023'
-  people: [sun-lijun, fu-zhenghua, wang-like, gong-daoan, deng-huilin, liu-xinyun, liu-yanping]
+  people: [sun-lijun, fu-zhenghua, wang-like, gong-daoan, deng-huilin, liu-xinyun, liu-yanping, lou-he]
   summary: '孙力军政治团伙案是十八大后少见的、被官方直接冠以“政治团伙”之名的案件：公安部原副部长孙力军靠举荐、运作和金钱往来，把傅政华、王立科、龚道安、邓恢林、刘新云、刘彦平等政法要员结成“小圈子”。2020年4月孙力军落马后，七人在2021年至2022年间相继被“双开”；2022年9月和2023年1月，四人被判死缓并终身监禁，其余三人分别被判无期徒刑和十余年有期徒刑。中央纪委称此案是“十九大以来我们查处的最严重的案件之一”。'
   sections:
     - h: 起因：从卫生系统到公安部的权钱循环
@@ -72,7 +72,7 @@
   title: 足坛反腐：从李铁到陈戌源、杜兆才
   kind: system
   years: '2015–2025'
-  people: [du-zhaocai, gou-zhongwen]
+  people: [du-zhaocai, gou-zhongwen, li-tie, liu-yi, chen-xuyuan]
   summary: '2022年11月，国足原主教练李铁被留置，由此揭开中国足坛十余年来规模最大的一轮反腐：中国足协十多名高层和中层干部接受审查调查，国家体育总局原副局长、足协原党委书记杜兆才和足协原主席陈戌源先后落马，分别被判有期徒刑14年和无期徒刑，李铁被判20年。中央纪委称“足球领域出现了系统性、塌方式腐败”，把根源归于足协管办不分、权力缺乏监督，以及俱乐部“金元足球”的围猎。'
   sections:
     - h: 背景：十年前的扫赌打黑与2015年改革方案
@@ -123,7 +123,7 @@
     - voice: zh
       text: '长期观察中国足球的罗文（Rowan Simons）对BBC中文说：“在很多方面，现在这一次看起来和十年前就一模一样，不过当中的人物换了一批”；不同的是“这一次涉及的金钱又多得多了”。BBC采访的研究者认为，专业环节缺乏专业性，“因为每一环都不扎实，腐败的空间就非常大”，自上而下的官僚体系形成了恶性循环。'
       cite: cs2-bbc-2024-02-13-football
-  events: []
+  events: [e10-2024-football-verdicts]
   factions: []
   cites: [cs2-people-2024-01-10-sanbufu-ep4, cs2-xinhua-2024-03-26-chen-xuyuan-verdict, cs2-xinhua-2024-12-13-li-tie-verdict, t02-xinhua-2024-12-13-du-zhaocai-verdict, t02-ccdi-2023-10-07-du-zhaocai-expel]
 
@@ -131,7 +131,7 @@
   title: 民政部福彩系统的系统性腐败与问责
   kind: system
   years: '2002–2018'
-  people: [li-liguo, dou-yupei, chen-chuanshu, qu-shuhui, huang-shuxian]
+  people: [li-liguo, dou-yupei, chen-chuanshu, qu-shuhui, huang-shuxian, he-wen, wang-suying, bao-xuequan, wang-yunge, feng-lizhi]
   summary: '民政部福彩案的特殊之处在于：被处分的部级官员大多不是因为本人受贿，而是因为“所辖单位发生系统性腐败问题”被问责。中国福利彩票发行管理中心三任主任陈传书、鲍学全、王素英和两名副主任先后落马，旗下中彩在线公司被指向关联方输送数十亿元利益；2017年，民政部原部长李立国被降为副局级，副部长窦玉沛提前退休，驻部纪检组组长曲淑辉被降为正处级。驻部纪检监察组组长龚堂华的总结是：如果所有的鱼都死了，“那就是水的问题”。'
   sections:
     - h: 起因：“中福在线”与审计、巡视的发现
@@ -183,7 +183,7 @@
     - voice: zh
       text: '据《星岛日报》引述知情人（传闻）：“（原中国福利彩票发行管理中心主任）鲍学全进去了，扛不住，把他们都供出来了！”'
       cite: k04-wiki-li-liguo
-  events: [e03-2016-sixth-plenum-core]
+  events: [e03-2016-sixth-plenum-core, e10-2017-li-liguo-accountability]
   factions: []
   cites: [r03-ccdi-2017-02-08-li-liguo-dou-yupei, cs2-thepaper-2017-02-08-mca-accountability, cs2-people-2018-11-09-lottery-14, cs2-sina-2018-11-10-lottery-bjnews, r03-ccdi-2017-06-20-qu-shuhui]
 
@@ -191,7 +191,7 @@
   title: 2023年金融反腐：从央行副行长到“一月一虎”
   kind: cluster
   years: '2021–2026'
-  people: [liu-liange, fan-yifei, li-xiaopeng-everbright, tang-shuangning, wang-bin-chinalife, zhang-hongli, liu-lixian, lou-wenlong, zhu-congjiu, yi-huiman, bao-fan, li-yunze, fang-xinghai, ouyang-weimin, lai-xiaomin, wang-qishan]
+  people: [liu-liange, fan-yifei, li-xiaopeng-everbright, tang-shuangning, wang-bin-chinalife, zhang-hongli, liu-lixian, lou-wenlong, zhu-congjiu, yi-huiman, bao-fan, li-yunze, fang-xinghai, ouyang-weimin, lai-xiaomin, wang-qishan, zhang-huayu]
   summary: '2023年前后的金融反腐，是十八大后金融系统最密集的一轮清查：人民银行副行长范一飞、中国银行原董事长刘连舸、光大集团前后两任董事长唐双宁和李晓鹏、工商银行原副行长张红力等国有大行、监管机构和金融央企的高层相继落马，财经媒体称2023年“一度到了一月一虎的频率”。官方把问题概括为“靠金融吃金融”和违法放贷制造风险，并在同年10月的中央金融工作会议上承认“金融乱象和腐败问题屡禁不止，金融监管和治理能力薄弱”。'
   sections:
     - h: 起因：巡视金融单位与“金融精英论”
@@ -248,7 +248,7 @@
     - voice: zh
       text: '新浪财经梳理光大系落马者时称，李晓鹏任内形成所谓“河南帮”，唐双宁的多名“爱将”也被查。这一说法来自媒体梳理，官方通报未使用。'
       cite: cs2-sina-2024-10-29-everbright
-  events: [e08-2021-lai-xiaomin-executed]
+  events: [e08-2021-lai-xiaomin-executed, e10-2023-liu-liange-fall, e10-2025-yi-huiman-fall, e10-2023-financial-work-conference]
   factions: []
   cites: [cs2-gov-2023-10-31-financial-work-conf, cs2-sina-2024-10-29-everbright, cs2-thepaper-2023-04-05-liu-li, t02-ccdi-2023-10-07-liu-liange-expel, cs2-qq-2024-02-26-ccdi-report-tigers]
 
@@ -256,7 +256,7 @@
   title: 烟草系统：政企合一的“独立王国”
   kind: system
   years: '2016–2025'
-  people: [ling-chengxing, he-zehua, zhao-hongshun, pan-jiahua]
+  people: [ling-chengxing, he-zehua, zhao-hongshun, pan-jiahua, xu-ying]
   summary: '中国烟草实行“一套人马，两套牌子”的政企合一体制，国家烟草专卖局和中国烟草总公司垄断着全球最大的卷烟市场。十九大后，国家烟草专卖局先后有5名副局长以上官员被查，被称为“烟草五虎”，其中原局长凌成兴被认定“靠烟吃烟、收钱敛财”，原副局长何泽华受贿9.43亿余元被判死缓并终身监禁。2024年中央巡视后，烟草局开展“靠烟吃烟”问题专项整治。'
   sections:
     - h: 起因：政企合一与2016年专项巡视
@@ -307,7 +307,7 @@
     - voice: scholar
       text: '北京大学公共政策研究中心副主任庄德水说，烟草企业属于国有企业，这个行业资源比较富集、权力比较集中，相信未来反腐败也会继续保持现在的态势。'
       cite: cs2-jiemian-2024-12-tobacco-five-tigers
-  events: []
+  events: [e10-2019-zhao-hongshun-tobacco]
   factions: []
   cites: [cs2-jiemian-2024-12-tobacco-five-tigers, cs2-sina-2020-12-29-tobacco-kingdom, cs2-bjd-2025-02-21-tobacco-rectify, t02-ccdi-2024-04-22-ling-chengxing-expel]
 
@@ -315,7 +315,7 @@
   title: 2016年“断崖式降级”通报：十名中管干部
   kind: cluster
   years: '2014–2019'
-  people: [liu-lizu, xu-aimin, yan-shiyuan, han-zhiran, sun-qingyun, zhang-yun-abc, liu-zhiyong-gx, zhu-fushou, cao-jianfang, fan-jian, zhang-tianxin, zhao-zhiyong, li-liguo]
+  people: [liu-lizu, xu-aimin, yan-shiyuan, han-zhiran, sun-qingyun, zhang-yun-abc, liu-zhiyong-gx, zhu-fushou, cao-jianfang, fan-jian, zhang-tianxin, zhao-zhiyong, li-liguo, luo-min]
   summary: '2016年1月29日，中央纪委通报，2015年“依纪依规给予10名中管干部党纪重处分，并作出重大职务调整”，这是中纪委首次“批量”公布中管干部的重处分和降级名单。10人中5人被开除党籍，通报均未提及移送司法；江西省政协原副主席刘礼祖“从副省级降为科员”。这种被媒体称为“断崖式降级”的处理，被官方解释为“四种形态”的第三种，用来处理违纪严重但尚未进入司法程序的高官。'
   sections:
     - h: 起因：从张田欣开始的“断崖式”说法
@@ -367,7 +367,7 @@
     - voice: zh
       text: '香港《东方日报》报道称，十名被降职高官中有副部级高官降为科员，连降七级。'
       cite: cs2-orientaldaily-2016-01-30-ten
-  events: []
+  events: [e10-2016-ten-cadres-demoted]
   factions: []
   cites: [r02-ccdi-2016-01-29-ten-cadres, cs2-people-2016-01-29-ccdi-cliff-explain, cs2-xinhua-2016-01-30-bjnews-ten, cs2-rmzxw-2016-02-01-bjnews-comment]
 
@@ -431,7 +431,7 @@
     - voice: zh
       text: '自由亚洲电台专栏称，贵州已有省委书记孙志刚、省政协主席王富玉两名正省部级官员落马，同届省政协副主席落马三人，塌方程度超过当年的山西。'
       cite: cs2-rfa-2024-08-30-guizhou
-  events: [e08-2024-hidden-debt-swap]
+  events: [e08-2024-hidden-debt-swap, e10-2023-sun-zhigang-fall]
   factions: []
   cites: [cs2-jiemian-2024-08-13-li-zaiyong, cs2-jiemian-2024-01-li-zaiyong-film, cs2-rfa-2024-08-30-guizhou, r05-ccdi-2024-02-05-sun-zhigang-expel, t02-ccdi-2021-08-16-wang-fuyu-expel]
 
@@ -439,7 +439,7 @@
   title: 云南官场“塌方”：两任省委书记与四任昆明市委书记
   kind: cluster
   years: '2001–2024'
-  people: [bai-enpei, qin-guangrong, qiu-he, shen-peiping, zhang-tianxin, cao-jianfang, yang-chongyong, huang-yi-yunnan, cui-maohu, li-shisong, li-jiating, chen-hao, zhou-yongkang, zhao-shijie]
+  people: [bai-enpei, qin-guangrong, qiu-he, shen-peiping, zhang-tianxin, cao-jianfang, yang-chongyong, huang-yi-yunnan, cui-maohu, li-shisong, li-jiating, chen-hao, zhou-yongkang, zhao-shijie, gao-jinsong, su-hongbo, jiang-zhaogang, wan-renli]
   summary: '十八大后，云南连续两任省委书记白恩培、秦光荣和连续四任昆明市委书记杨崇勇、仇和、张田欣、高劲松被查，全省至少8名省部级官员落马，是全国唯一一个连续四任省会市委书记落马的省份。官方把根源归于白恩培、仇和的“余毒”，以及秦光荣时期的山头主义和政治掮客苏洪波，2017年起要求“坚决肃清白恩培、仇和等余毒影响，彻底净化云南政治生态”。'
   sections:
     - h: 前史：李嘉廷与“云南失去的10年”
@@ -501,6 +501,6 @@
     - voice: west
       text: '据BBC转述《环球时报》引述的一名不具名厅级干部（传闻）：云南官场传闻高劲松曾向白恩培行贿买官。官方从未公布高劲松的具体违纪内容。'
       cite: cs2-bbc-2015-04-11-gao-jinsong
-  events: [e03-2014-zhou-yongkang-investigated]
+  events: [e03-2014-zhou-yongkang-investigated, e10-2014-bai-enpei-fall, e10-2015-qiu-he-fall, e10-2019-qin-guangrong-surrender]
   factions: [zhou-clique]
   cites: [cs2-chinanews-2019-06-22-yunnan-decode, cs2-yndaily-2017-07-06-yunnan-poison, cs2-ccdi-2020-05-06-su-hongbo, c03-people-2016-10-09-bai-enpei-verdict, c03-ccdi-2019-09-26-qin-guangrong-expel]

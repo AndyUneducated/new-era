@@ -200,6 +200,17 @@ export function loadAll() {
       if (!c) errors.push(`${f.join('/')}: no concept ${id}`)
       else if (m) for (const [k, v] of Object.entries(m) as [keyof ConceptMore, unknown[]][]) (c[k] as unknown[]).push(...v.filter((x) => !(c[k] as unknown[]).includes(x)))
     }
+  // batches that cannot see each other add the same policy twice; one entry per date and name, events pooled
+  for (const c of concepts) {
+    const seen = new Map<string, (typeof c.policies)[number]>()
+    c.policies = c.policies.filter((p) => {
+      const key = `${p.date} ${p.name.replace(/[\s“”"《》]/g, '')}`
+      const first = seen.get(key)
+      if (!first) return seen.set(key, p), true
+      first.events = [...new Set([...first.events, ...p.events])]
+      return false
+    })
+  }
   return {
     ...loadSources(),
     ...loadPeople(),

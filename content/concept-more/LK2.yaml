@@ -1,0 +1,36 @@
+# Maintainer links: E10 landing events attached to policies already written by I05/I06.
+# Same date and name as the existing entry, so the build merges them and keeps the first text and cite.
+
+anti-mafia-campaign:
+  policies:
+    - { date: 2018-01-24, name: 关于开展扫黑除恶专项斗争的通知, text: '', events: [e10-2018-saohei-campaign], cite: i06-gov-2018-01-24-saohei }
+
+initial-mission:
+  policies:
+    - { date: 2019-05-31, name: “不忘初心、牢记使命”主题教育, text: '', events: [e10-2019-theme-education], cite: i06-gov-2019-05-31-theme-education }
+    - { date: 2023-04-03, name: 学习贯彻习近平新时代中国特色社会主义思想主题教育, text: '', events: [e10-2023-theme-education], cite: i05-gov-2023-04-03-theme-education }
+
+party-history-education:
+  policies:
+    - { date: 2021-02-20, name: 党史学习教育动员大会, text: '', events: [e10-2021-party-history-education], cite: i06-gov-2021-02-20-party-history }
+
+poverty-alleviation:
+  policies:
+    - { date: 2021-02-25, name: 全国脱贫攻坚总结表彰大会, text: '', events: [e10-2021-poverty-ceremony], cite: i06-gov-2021-02-25-poverty-speech }
+
+rural-revitalization:
+  policies:
+    - { date: 2021-02-25, name: 巩固拓展脱贫攻坚成果同乡村振兴有效衔接, text: '', events: [e10-2021-poverty-ceremony], cite: i06-gov-2021-02-25-poverty-speech }
+
+cyber-power:
+  policies:
+    - { date: 2021-06-10, name: 数据安全法, text: '', events: [e10-2021-data-security-law], cite: i06-cac-2021-06-11-data-security-law }
+
+holistic-security:
+  policies:
+    - { date: 2021-06-10, name: 数据安全法, text: '', events: [e10-2021-data-security-law], cite: i06-cac-2021-06-11-data-security-law }
+    - { date: 2023-04-26, name: 反间谍法修订, text: '', events: [e10-2023-counter-espionage-revised], cite: i06-gov-2023-04-27-counter-espionage-law }
+
+financial-power:
+  policies:
+    - { date: 2023-10-30, name: 中央金融工作会议, text: '', events: [e10-2023-financial-work-conference], cite: cs2-gov-2023-10-31-financial-work-conf }

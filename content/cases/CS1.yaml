@@ -4,7 +4,7 @@
   title: 周永康案与石油、政法、四川三条线
   kind: case
   years: 2012–2017
-  people: [zhou-yongkang, zhou-bin, wu-bing, jiang-jiemin, wang-yongchun, li-hualin, wen-qingshan, li-chuncheng, guo-yongxiang, li-chongxi, tan-li, li-dongsheng, wu-changshun, zhou-benshun, zhang-yue, liang-ke, ji-wenlin, shen-dingcheng, yu-gang, tan-hong, wang-dongming, meng-jianzhu, xi-jinping, bo-xilai, ling-jihua, xu-caihou, guo-boxiong]
+  people: [zhou-yongkang, zhou-bin, wu-bing, jiang-jiemin, wang-yongchun, li-hualin, wen-qingshan, li-chuncheng, guo-yongxiang, li-chongxi, tan-li, li-dongsheng, wu-changshun, zhou-benshun, zhang-yue, liang-ke, ji-wenlin, shen-dingcheng, yu-gang, tan-hong, wang-dongming, meng-jianzhu, xi-jinping, bo-xilai, ling-jihua, xu-caihou, guo-boxiong, jia-xiaoye, hong-zhenkuai]
   summary: 前政治局常委、中央政法委书记周永康 2014 年 7 月被立案审查，2015 年 6 月以受贿、滥用职权、故意泄露国家秘密三罪被判无期徒刑。在他本人被查之前一年多，他在四川、石油系统、政法系统和秘书班子里的旧部已成批落马；新京报把这些人归为四川系、石油帮、政法系、秘书帮，“门徒”之说由此成了观察这场清洗的常用框架。官方定性起初只讲违纪和受贿，2016 年起升级为“政治阴谋活动”。
   sections:
     - h: 三十年石油、三年四川、十年政法
@@ -64,7 +64,7 @@
     - voice: zh
       text: （传闻）台湾《苹果日报》等报道称，周与薄熙来、徐才厚、令计划组成“新四人帮”并图谋政变；此说从未获官方证实，审判材料中也没有相应指控。
       cite: b03-bbc-2014-07-30-taiwan-media
-  events: [e2012-li-chuncheng-investigated, r01-2013-beidaihe-zhou-decision, e06-2013-zhou-under-watch, e08-2013-jiang-jiemin, e03-2014-zhou-yongkang-investigated, r01-2014-beidaihe-zhou-announced, e03-2015-zhou-yongkang-sentenced, e03-2016-sixth-plenum-core, e06-2017-liu-shiyu-usurp, r01-2013-zhou-assassination-plot-rumour]
+  events: [e2012-li-chuncheng-investigated, r01-2013-beidaihe-zhou-decision, e06-2013-zhou-under-watch, e08-2013-jiang-jiemin, e03-2014-zhou-yongkang-investigated, r01-2014-beidaihe-zhou-announced, e03-2015-zhou-yongkang-sentenced, e03-2016-sixth-plenum-core, e06-2017-liu-shiyu-usurp, r01-2013-zhou-assassination-plot-rumour, e10-2013-cnpc-four-executives, e10-2015-su-shulin-investigated]
   factions: [zhou-clique, petroleum, zhengfa, mishu, new-gang-of-four]
   cites: [b03-people-2014-12-06-zhou-expelled, e03-xinhua-2015-06-11-zhou-verdict, b03-cnr-2015-10-15-zhou-disciples, b03-xinhua-2017-01-01-xi-6th-plenum]
 
@@ -130,7 +130,7 @@
     - voice: zh
       text: （传闻）大纪元称周永康只是被外界封为“石油帮帮主”，一手打造石油帮的是曾庆红；此说没有官方或可靠媒体的佐证。
       cite: f06-epoch-2016-09-18-petroleum-gang
-  events: [e08-2013-jiang-jiemin, e03-2015-zhou-yongkang-sentenced]
+  events: [e08-2013-jiang-jiemin, e03-2015-zhou-yongkang-sentenced, e10-2013-cnpc-four-executives, e10-2015-liao-yongyuan-investigated, e10-2015-su-shulin-investigated, e10-2024-wang-yilin-fall]
   factions: [petroleum, zhou-clique]
   cites: [b03-cnr-2015-10-15-zhou-disciples, f06-chinanews-2013-08-28-cnpc-three, cs1-xinhua-2015-06-16-cnpc-inspection, r02-people-2016-01-02-ccdi-2015-tigers, t02-ccdi-2024-07-31-wang-yilin-expel, t02-bjnews-2024-09-11-three-expel, f06-bbc-2015-10-07-su-shulin]
 
@@ -138,7 +138,7 @@
   title: 令计划与“西山会”
   kind: cluster
   years: 2012–2016
-  people: [ling-jihua, ling-zhengce, ling-gu, chen-chuanping, shen-weichen, liu-suiji, li-jiangong, huo-ke, pan-yiyang, liu-zhijun, ding-shumiao, liu-tienan, hu-jintao, bai-enpei, li-chuncheng, zhou-yongkang, bo-xilai, xu-caihou]
+  people: [ling-jihua, ling-zhengce, ling-gu, chen-chuanping, shen-weichen, liu-suiji, li-jiangong, huo-ke, pan-yiyang, liu-zhijun, ding-shumiao, liu-tienan, hu-jintao, bai-enpei, li-chuncheng, zhou-yongkang, bo-xilai, xu-caihou, ling-wancheng, gu-liping]
   summary: 令计划曾任中央办公厅主任，被视为胡锦涛的“心腹”。2012 年 3 月其子令谷驾驶法拉利身亡，他在十八大前被调离中办；2014 年其兄令政策和一批山西籍官员相继落马，12 月他本人被立案审查，2016 年 7 月以受贿、非法获取国家秘密、滥用职权罪被判无期徒刑。“西山会”是媒体人罗昌平描述的山西籍高官圈子，官方从未使用这一说法，但其报道所列成员大多已落马。
   sections:
     - h: 法拉利车祸与调离中办
@@ -192,7 +192,7 @@
     - voice: zh
       text: （传闻）苹果日报称令计划是“新四人帮”最后一名落网成员，该集团曾计划在十八大前发动政变；此说未获官方证实。
       cite: b07-bbc-2014-12-23-hk-press-ling
-  events: [e2012-ling-gu-ferrari-crash, e2012-ling-jihua-demoted, e03-2014-ling-jihua-investigated, e06-2015-ling-wancheng-defector, e03-2016-sixth-plenum-core]
+  events: [e2012-ling-gu-ferrari-crash, e2012-ling-jihua-demoted, e03-2014-ling-jihua-investigated, e06-2015-ling-wancheng-defector, e03-2016-sixth-plenum-core, e10-2014-shanxi-leadership-overhaul]
   factions: [xishanhui, tuanpai, new-gang-of-four]
   cites: [b07-xinhua-2015-07-20-ling-expulsion, b07-court-2016-07-04-ling-sentence, c05-nytcn-2012-12-05-ling-gu, f01-rfi-2013-10-15-xishanhui, b07-bbc-2014-12-23-hk-press-ling]
 
@@ -200,7 +200,7 @@
   title: 山西“系统性、塌方式”腐败
   kind: cluster
   years: 2014–2017
-  people: [jin-daoming, yang-senlin, shen-weichen, du-shanxue, ling-zhengce, nie-chunyu, chen-chuanping, bai-yun, ren-runhou, liu-suiji, li-jiangong, yuan-chunqing, wang-rulin, huang-xiaowei, liu-yunshan, zhao-leji, ling-jihua]
+  people: [jin-daoming, yang-senlin, shen-weichen, du-shanxue, ling-zhengce, nie-chunyu, chen-chuanping, bai-yun, ren-runhou, liu-suiji, li-jiangong, yuan-chunqing, wang-rulin, huang-xiaowei, liu-yunshan, zhao-leji, ling-jihua, xie-kemin, li-zhaoqian]
   summary: 2014 年 2 月至 8 月，山西有 7 名省级官员相继被调查，其中 4 人是在任省委常委；9 月 1 日中央宣布对山西省委班子作重大调整，省委书记袁纯清离任，王儒林接任。王儒林后来说山西发生了系统性、塌方式严重腐败问题，煤炭、交通、国土是重灾区，连纪检系统也未能幸免。落马者中有令政策、陈川平、申维辰等被媒体归入“西山会”的人，但更多人与令家并无公开关联。
   sections:
     - h: 从金道铭到令政策
@@ -257,7 +257,7 @@
     - voice: zh
       text: （传闻）《南华早报》和明镜新闻网报道袁纯清不会被调查，但会被架空；BBC 称这一说法当时无法证实。
       cite: cs1-bbc-2014-08-30-shanxi-yuan
-  events: [e03-2014-ling-jihua-investigated]
+  events: [e03-2014-ling-jihua-investigated, e10-2014-shanxi-leadership-overhaul]
   factions: [xishanhui]
   cites: [cs1-people-2014-09-01-shanxi-adjust, cs1-people-2015-03-08-wang-rulin-npc, cs1-bbc-2014-08-30-shanxi-yuan, cs1-chinanews-2014-09-02-wang-yukai, f02-hqrw-2015-01-06-xishanhui]
 
@@ -265,7 +265,7 @@
   title: 辽宁拉票贿选案
   kind: case
   years: 2011–2019
-  people: [wang-min, wang-yang-liaoning, su-hongzhang, zheng-yuzhuo, li-wenke, liu-qiang-liaoning, li-xi]
+  people: [wang-min, wang-yang-liaoning, su-hongzhang, zheng-yuzhuo, li-wenke, liu-qiang-liaoning, li-xi, li-feng-ln]
   summary: 2013 年 1 月辽宁省十二届人大一次会议选举全国人大代表和省人大常委会领导时，发生大面积拉票贿选：45 名当选的全国人大代表以金钱或财物拉票，523 名省人大代表涉案。2016 年 9 月全国人大常委会确定这 45 人当选无效，又因辽宁省人大常委会组成人员已不足半数，作出“创制性安排”，成立筹备组代行其部分职权。官方称这是“新中国成立以来查处的第一起发生在省级层面”的此类案件，时任省委书记王珉以受贿、贪污、玩忽职守罪被判无期徒刑。
   sections:
     - h: 2011–2013 年的换届
@@ -316,7 +316,7 @@
     - voice: zh
       text: BBC 引财经网报道，部分有实力的企业老板不惜重金贿选，当选后插手司法，甚至以“司法建议书”的形式干预案件办理。
       cite: cs1-bbc-2016-09-15-liaoning-analysis
-  events: []
+  events: [e10-2016-liaoning-deputies-void, e10-2017-wang-min-sentenced]
   factions: []
   cites: [cs1-npc-2016-09-14-liaoning-session, cs1-people-2016-09-14-zero-tolerance, c03-people-2017-08-05-wang-min-verdict]
 
@@ -378,7 +378,7 @@
     - voice: zh
       text: 有网民评论说，527名市人大代表，竟有518人受贿，这在世界选举史上估计也是独有了。
       cite: cs1-bbc-2013-12-28-hengyang
-  events: []
+  events: [e10-2013-hengyang-vote-buying]
   factions: []
   cites: [cs1-people-2013-12-28-hengyang, t01-chinacourt-2014-08-tong-mingqian-verdict, cs1-aisixiang-2014-zheng-lei-hengyang]
 
@@ -386,7 +386,7 @@
   title: 华润案：宋林与金业收购
   kind: case
   years: 2010–2017
-  people: [song-lin, wang-shuaiting, su-rong]
+  people: [song-lin, wang-shuaiting, su-rong, wang-wenzhi, li-jianjun-cr, zhang-xinming, xing-libin, wang-yujun, huang-daoguo]
   summary: 2010 年华润电力高价收购山西金业集团煤矿资产，新华社《经济参考报》记者王文志 2013 年 7 月和 2014 年 4 月两次在微博实名举报华润董事长宋林渎职、贪腐，第二次举报两天后宋林即被中央纪委宣布调查。此后华润电力原董事长王帅廷、总裁王玉军等多名高管和金业老板张新明被查；宋林 2017 年以贪污、受贿罪被判 14 年，但公开判决没有提到金业收购。中央巡视组 2015 年反馈说，宋林在任期间“弱化虚化淡化党的作用，长期不设纪检监察机构”。
   sections:
     - h: 金业收购
@@ -439,7 +439,7 @@
     - voice: zh
       text: （传闻）前山西晚报记者李建军对自由亚洲电台说，苏荣落马“肯定和华润有关系”，因为他与宋林关系非常好；此说未见官方或其他可靠来源证实。
       cite: b12-rfa-2014-06-15-su-rong
-  events: [e08-2014-su-rong]
+  events: [e08-2014-su-rong, e10-2014-song-lin-investigated]
   factions: []
   cites: [cs1-people-2014-04-18-song-lin-timeline, cs1-hqrw-2014-04-26-song-lin, t01-ccdi-2017-06-01-song-lin-verdict, cs1-people-2015-10-22-cr-inspection, cs1-thepaper-2014-08-cr-wang-yujun]
 
@@ -447,7 +447,7 @@
   title: 2015 年股灾后的证监会
   kind: system
   years: 2015–2019
-  people: [xiao-gang, zhang-yujun, yao-gang, liu-shiyu]
+  people: [xiao-gang, zhang-yujun, yao-gang, liu-shiyu, xu-xiang, li-liang, liu-xinhua, cheng-boming, zhuang-xinyi, liu-shufan, li-zhiling]
   summary: 2015 年 6 月股灾和救市之后，监管层的重点从托市转向整肃“内鬼”：8 月起证监会多名处长、局长和中信证券总经理程博明等券商高管相继被查，9 月和 11 月，救市小组成员、主席助理张育军和副主席姚刚落马。中央巡视组 2015 年底进驻后指证监会“防止利益冲突机制不健全”；2016 年 1 月熔断机制实施四天即暂停，2 月主席肖钢被免，由刘士余接任。
   sections:
     - h: 股灾与救市
@@ -501,6 +501,6 @@
     - voice: scholar
       text: 独立经济学家谢国忠对 BBC 说，证监会和中信证券官员被查是纪检部门巡视国有金融企业的结果，五道口金融学院等同学网络可能形成金融利益集团。
       cite: cs1-bbc-2015-09-17-csrc-scandal
-  events: [e03-2015-stock-market-crash, e08-2016-circuit-breaker, e06-2017-liu-shiyu-usurp]
+  events: [e03-2015-stock-market-crash, e08-2016-circuit-breaker, e06-2017-liu-shiyu-usurp, e10-2015-csrc-zhang-yao, e10-2016-xiao-gang-removed]
   factions: []
   cites: [cs1-bbc-2015-09-17-csrc-scandal, r02-people-2016-01-02-ccdi-2015-tigers, cs1-csrc-2016-02-04-inspection, cs1-bbc-2016-02-20-xiao-gang]
