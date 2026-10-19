@@ -18,7 +18,7 @@ export type Step = keyof typeof STEPS
 
 // first match wins: a sentence quotes the charges, an expulsion mentions the prosecutors
 const STEP_RE: [Step, RegExp][] = [
-  ['sentenced', /判处|宣判|被判|判决|改判|判囚/],
+  ['sentenced', /判处|宣判|被判|判决|改判|判囚|决定执行(死刑|无期|有期)/],
   ['died', /自缢|自杀|坠楼|死亡|去世|逝世|病逝/],
   ['released', /刑满|获释|释放|假释|保外就医/],
   ['expelled', /开除党籍|开除公职|开除军籍|双开|行政开除/],

@@ -31,6 +31,10 @@ describe('caseparse', () => {
   it('tells a suicide from a sentence', () => {
     expect(parseFall([{ date: '2017-11-23', text: '在家中自缢死亡', cite: 'x' }], 'dead').outcome).toBe('suicide')
   })
+  it('reads a verdict that only says 决定执行', () => {
+    const p = parseFall([{ date: '2018-05-08', text: '以受贿罪、滥用职权罪数罪并罚，决定执行有期徒刑十二年', cite: 'x' }], 'detained')
+    expect(p).toMatchObject({ term: 'years', years: 12, outcome: 'sentenced', sentenced: '2018-05-08' })
+  })
 })
 
 describe('diff', () => {
