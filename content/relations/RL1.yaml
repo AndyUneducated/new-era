@@ -614,6 +614,68 @@
   text: 李超曾任周小川的秘书，此后在央行办公厅、外汇局任职，2015 年任证监会副主席。
   cite: c12-wiki-li-chao-csrc
   quote: 曾任周小川秘书
+- a: meng-jianzhu
+  b: sun-lijun
+  kind: secretary
+  text: BBC 2020 年报道，孙力军 2018 年任公安部副部长前曾任中央政法委书记孟建柱的秘书。
+  cite: b12-bbc-2020-04-20-sun-lijun
+  quote: 他曾任前中央政法委书记孟建柱的秘书
+- a: meng-jianzhu
+  b: wang-yongqing
+  kind: secretary
+  text: 2013 年 4 月至 2018 年 3 月汪永清任中央政法委秘书长，维基百科称他由此成为政法委书记孟建柱的秘书；2018 年任全国政协副主席。
+  from: 2013-04
+  to: 2018-03
+  cite: k04-wiki-wang-yongqing
+  quote: 成为时任中共中央政法委书记孟建柱的秘书
+- a: deng-xiaoping
+  b: wang-ruilin
+  kind: secretary
+  text: 王瑞林 1950 年代起任邓小平副总理处机要秘书，此后历任邓小平总书记处、副主席处秘书和办公室主任，1990 年后任军委纪委书记、军委委员。
+  cite: c01-xinhua-2018-12-12-wang-ruilin-death
+  quote: 中共中央邓小平副主席处秘书、办公室主任
+- a: zhu-rongji
+  b: li-wei-drc
+  kind: secretary
+  text: 李伟 1988 年起在上海历任市政府、市委秘书，后调国务院办公厅；朱镕基任总理期间（1998–2003）他任国务院总理办公室主任，2003 年转任中央金融工委副书记。
+  from: 1998-03
+  to: 2003-03
+  cite: k04-wiki-li-wei-drc
+  quote: 国务院总理办公室主任（1998年3月至2003年3月在朱镕基担任国务院总理时）
+- a: jiang-chunyun
+  b: sun-qingyun
+  kind: secretary
+  text: 孙清云在国务院办公厅任职时是副总理姜春云的秘书；1998 年姜春云卸任后，他调任西安市委常委、副市长，后任西安市委书记。
+  to: 1998
+  cite: r03-wiki-sun-qingyun
+  quote: 曾是原国务院副总理姜春云秘书
+- a: liao-xilong
+  b: fu-linguo
+  kind: secretary
+  text: 符林国曾任军委委员、总后勤部部长廖锡龙的秘书，2010 年晋升少将，后任总后司令部副参谋长，2014 年被立案侦查。
+  cite: a01-wiki-fu-linguo
+  quote: 原任中央军委委员总后勤部部长廖锡龙秘书
+- a: zhang-wannian
+  b: zhu-heping-pla
+  kind: secretary
+  text: 朱和平早年在总参作战部任参谋，曾任军委副主席张万年的秘书，后任成都军区联勤部部长，2014 年被查。
+  cite: a01-wiki-zhu-heping
+  quote: 前中央军委副主席张万年秘书
+- a: li-xi
+  b: zhang-fuhai
+  kind: secretary
+  text: 2020 年 7 月张福海兼任广东省委秘书长，时任广东省委书记李希，美国之音称他是李希的“大秘”；2022 年二十大两人同入中纪委，李希任书记、张福海任副书记。
+  from: 2020-07
+  to: 2021-11
+  cite: b06-voa-2022-10-23-li-xi
+  quote: 李希的“大秘”、广东省委秘书长张福海
+- a: zhao-leji
+  b: liu-qi-jiangxi
+  kind: secretary
+  text: 2023 年 3 月已退居二线的刘奇当选全国人大常委会秘书长（不兼副委员长），维基百科称他由此成为委员长赵乐际的秘书。
+  from: 2023-03
+  cite: f07-wiki-liu-qi-jiangxi
+  quote: 成为赵乐际的秘书
 - a: li-keqiang
   b: xiao-jie
   kind: secretary
@@ -934,6 +996,14 @@
   cite: p01-wiki-xi-jinping
   quote: 与陈明义、宋德福两位省委书记搭档
 
+- a: luo-gan
+  b: wang-shengjun
+  kind: colleague
+  text: 王胜俊 1998 年升任中央政法委秘书长，此后十年一直给政法委书记罗干当秘书长，2008 年出任最高法院院长。
+  from: 1998
+  to: 2007
+  cite: k03-wiki-wang-shengjun
+  quote: 自此王胜俊成为时任中央政法委书记罗干的秘书长达十年
 - a: xi-zhongxun
   b: zhang-zongxun
   kind: colleague
@@ -1022,6 +1092,18 @@
   text: 楼忠华是楼忠福的弟弟；《中国经济周刊》称楼忠福在浙江政法系统的关系网助长了楼忠华在金华的势力。
   cite: cs6-chinanews-2015-07-28-lou-zhongfu
   quote: 楼忠福的弟弟楼忠华
+- a: deng-nan
+  b: wu-xiaohui
+  kind: kin
+  text: 安邦保险董事长吴小晖是邓小平之女邓楠的女婿，邓楠之女邓卓芮是他的第三任妻子；吴小晖 2018 年被判刑 18 年。
+  cite: k04-wiki-deng-nan
+  quote: 邓卓芮是其第三任妻子
+- a: chen-miner
+  b: si-xinliang
+  kind: kin
+  text: 布鲁金斯学会李成写道，陈敏尔的女儿曾嫁给浙江省委原宣传部长、组织部长斯鑫良之子，两家曾为亲家；斯鑫良 2015 年落马。
+  cite: b11-brookings-2022-10-16-20th-candidates
+  quote: The couple has a daughter, who was previously married to the son of Si Xinliang
 - a: si-xinliang
   b: si-li
   kind: kin
@@ -1047,7 +1129,20 @@
   cite: c13-thepaper-2014-12-30-zhou-hao
   quote: 周灏系今年7月宣布被立案审查的前中央政治局常委周永康的远房侄子
 
+- a: gu-liping
+  b: ling-gu
+  kind: kin
+  text: 令谷是令计划与谷丽萍的独生子，2012 年车祸身亡。
+  cite: f02-hqrw-2015-01-06-xishanhui
+  quote: 令计划与谷丽萍的独生子令谷
 # --- 对立 ---
+- a: cai-zhenhua
+  b: gou-zhongwen
+  kind: rival
+  text: 2017 年国乒风波后，维基百科引法广报道称，坊间传言体育总局局长苟仲文与副局长蔡振华不和，十九大前两人争夺总局唯一的中央委员名额；同年 7 月苟仲文当选十九大代表，蔡振华落选。属媒体分析与传言，未见官方说法。
+  from: 2017
+  cite: k05-wiki-gou-zhongwen
+  quote: 苟仲文的主要竞争对手就是蔡振华
 - a: fan-jinggang
   b: mao-yushi
   kind: rival
@@ -1055,6 +1150,55 @@
   from: 2011
   cite: c09-voa-2011-05-24-mao-yushi
   quote: 对茅于轼的举报状已经送达北京市公安局
+- a: luo-changping
+  b: liu-tienan
+  kind: rival
+  text: 2012 年 12 月初《财经》副主编罗昌平实名举报国家能源局局长刘铁男伪造学历、与商人倪日涛结成官商同盟；刘铁男 2013 年 5 月被查，是十八大后首个被立案的省部级官员。
+  from: 2012-12
+  cite: c03-chinacourt-2014-12-10-liu-tienan-verdict
+  quote: 媒体人罗昌平实名举报刘铁男涉嫌伪造学历、与商人倪日涛结成官商同盟
+- a: he-wen
+  b: wang-wenzhi
+  kind: rival
+  text: 《经济参考报》记者王文志 2015 年报道并向财政部实名举报中彩在线违规运营；中彩在线总经理贺文先起诉报社、同年 8 月又起诉王文志，2016 年贺文本人被查。
+  from: 2015-07
+  cite: r08-sina-2018-11-24-he-wen-caijing
+  quote: 当年8月，贺文又将王文志起诉
+- a: lang-xianping
+  b: gu-chujun
+  kind: rival
+  text: 2004 年 8 月郎咸平在复旦演讲指格林柯尔董事长顾雏军借收购侵吞国有资产，顾雏军随即在香港高等法院以诽谤起诉郎咸平，“郎顾之争”引发国企产权改革大辩论。
+  from: 2004-08
+  cite: e07-people-2014-05-04-langgu
+  quote: 对此，顾雏军指责郎咸平“诽谤”，并对其提起诉讼
+- a: guo-wengui
+  b: wang-qishan
+  kind: rival
+  text: 2017 年流亡美国的郭文贵持续在网上指控中纪委书记王岐山及其家族，称海航股东里有王岐山外甥、王岐山实际持股；海航在纽约起诉郭文贵诽谤并否认指控。
+  from: 2017
+  cite: c10-voa-2017-hna-sues-guo
+  quote: 目标指向中纪委书记王岐山及其家族
+- a: guo-wengui
+  b: teng-biao
+  kind: rival
+  text: 滕彪自 2017 年起撰文批评郭文贵诋毁异见人士，成为郭发起的“惩治叛徒”运动目标之一；郭文贵起诉滕彪诽谤，案件被驳回。
+  from: 2017
+  cite: b14-bbc-2024-07-18-guo-machine
+  quote: 郭文贵起诉滕彪诽谤，案件被驳回
+- a: guo-wengui
+  b: pan-shiyi
+  kind: rival
+  text: 阿波罗网称，潘石屹与胡舒立、范冰冰等人一样是郭文贵的指控对象，已发声明否认并在美国起诉郭文贵诽谤。
+  from: 2017
+  cite: c10-aboluowang-2017-07-28-four-yaoqing
+  quote: 郭文贵的其他指控对象如胡舒立、范冰冰、黄艳、潘石屹和海航集团已发表类似声明，并在美国起诉郭文贵诽谤
+- a: he-xin
+  b: zhu-rongji
+  kind: rival
+  text: 维基百科称，何新 2003 年因公开批评总理朱镕基家族和相关政策，被全国政协主席李瑞环免去政协职务待岗。
+  from: 2003
+  cite: i09-zhwiki-he-xin
+  quote: 因公开批评政府总理朱镕基的家族贪腐和其他政策问题
 - a: wu-yongzheng
   b: lou-zhonghua
   kind: rival
