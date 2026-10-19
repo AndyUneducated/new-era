@@ -100,6 +100,17 @@ colleague（共事）只收来源特别强调的搭档（例如“搭班子”�
 
 转折点是“事”不是“职务”；`did` 写给普通人看；4–6 位写成 `deep: true`。履历太薄、找不到能说明“为什么是这件事”的来源的，只写事实陈述，不编因果。route 枚举不够用的，在回报里建议，不改 schema。合计 30 人左右。
 
+## 追加：E14 与 C14（LK3、I11 回报后）
+
+| 批次 | 写什么 | 只碰这些文件 |
+|---|---|---|
+| E14 | LK3、I11 建议的事件 | `content/events/E14.yaml`、`content/concept-more/E14.yaml` |
+| C14 | I11 概念里缺卡的思想人物 | `content/people/C14.yaml`、`research/roster/C14.yaml`、`content/concept-more/C14.yaml` |
+
+**E14**：把 `research/queue.md`“第十四轮整合”一节里 LK3、I11 两条列出的建议事件建出来（约 34 条），格式照 `content/events/E13.yaml`。先 Grep `content/events/` 确认没有建过。建好后在 `content/concept-more/E14.yaml` 给对应概念的 policies 挂上事件：LK3 已写好 policy、只是 events 为空的，照抄已有 policy 的 date 和 name（构建时同日同名合并），只填 events；I11 的新概念（`content/concepts/I11.yaml`）同理。来源 id 以 `e14-` 开头，LK3、I11 回报里给出的已有来源优先。
+
+**C14**：为 I11 新概念正文点名、但没有卡的人建 tier 2 卡：马戎、乔舒亚·库珀·雷默、黄炎培、黄克诚、胡联合、杨瑞龙、周放生、严友松、汪文斌、赵文欣、盖保德、张文中、约翰·威廉森、斯蒂格利茨、葛振林、宋学义（毛泽东先 Grep，若真无卡也建）。每张卡写清身份、与哪个概念相连，学者引本人文章或访谈。建好后在 `content/concept-more/C14.yaml` 把新卡 id 写进对应概念的 `by`（论争的各方 `sides` 难以追加的，在回报里列出）。来源 id 以 `c14-` 开头。
+
 ## 共同要点
 
 - 来源冲突时正文用更权威的来源，另一说法写在同段，以“另说……”起句并附出处（#60）。
