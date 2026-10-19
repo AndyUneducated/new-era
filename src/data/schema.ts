@@ -295,6 +295,11 @@ export const ConceptSchema = z.object({
   policies: z.array(z.object({ date: PartialDate, name: z.string(), text: z.string(), events: z.array(z.string()).default([]), cite: Cite })).default([]),
   cites: z.array(Cite).min(1),
 })
+// content/concept-more/*.yaml maps concept id → fields a later batch appends to a concept it does not own
+export const ConceptMoreSchema = ConceptSchema.pick({ by: true, codified: true, terms: true, related: true, voices: true, sections: true, lists: true, sides: true, policies: true })
+  .partial()
+  .extend({ cites: z.array(Cite).default([]) })
+export type ConceptMore = z.infer<typeof ConceptMoreSchema>
 export type Concept = z.infer<typeof ConceptSchema>
 
 // a central committee term: who sat where, from the Xinhua lists (decisions: congress backbone)

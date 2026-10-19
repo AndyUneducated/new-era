@@ -228,6 +228,7 @@
 - `lists`：官方编号清单，`{ title, cite, items }`，**每一条逐字核对**。用于十个明确、十四个坚持、十三个方面成就、“五位一体”“四个全面”“四个意识”之类；`title` 写明出处，如“十四个坚持（十九大报告，2017）”。
 - `sides`（`kind: debate` 的论争条目用）：每方 `{ label, text, who, cites }`。例：姓社姓资、普世价值与宪政之争、国进民退、新左派与自由派、民族主义与历史虚无主义、计划生育的存废……
 - `policies`：思想 → 政策 → 事件的链：`{ date, name, text, events, cite }`。例：“共同富裕” → 规范校外培训、平台经济整治 → 相关事件 id。
+- 给别的批次的概念补字段：写 `content/concept-more/<批次>.yaml`，`概念 id → { sections, lists, sides, policies, by, voices, related, codified, terms }`，构建追加到原条目上，不要改原文件。
 - 思想者：学者、理论家建人物条目（`roles` 含 `scholar`），并写进相关概念的 `by`，思想页的“思想者”一节会自动列出。重要的人写完整传记。
 
 ## 9. 完成时回报

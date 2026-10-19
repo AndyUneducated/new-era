@@ -6,6 +6,7 @@ import {
   CaseSchema,
   ChapterSchema,
   ChiefSchema,
+  ConceptMoreSchema,
   ConceptSchema,
   CongressSchema,
   CorpusDocSchema,
@@ -22,6 +23,7 @@ import {
   SourceSchema,
   TurnRecordSchema,
   VoicedSchema,
+  type ConceptMore,
   type FactionTag,
   type Quote,
   type Source,
@@ -190,6 +192,14 @@ export function loadAll() {
       if (x) x.voices.push(...vs)
       else errors.push(`${f.join('/')}: no faction ${id}`)
     }
+  const concepts = dir(ConceptSchema, 'concepts')
+  for (const f of yamlFiles('content', 'concept-more'))
+    for (const [id, more] of Object.entries((read(...f) ?? {}) as Record<string, unknown>)) {
+      const [m] = load(ConceptMoreSchema, [more], `${f.join('/')} ${id}`)
+      const c = concepts.find((y) => y.id === id)
+      if (!c) errors.push(`${f.join('/')}: no concept ${id}`)
+      else if (m) for (const [k, v] of Object.entries(m) as [keyof ConceptMore, unknown[]][]) (c[k] as unknown[]).push(...v.filter((x) => !(c[k] as unknown[]).includes(x)))
+    }
   return {
     ...loadSources(),
     ...loadPeople(),
@@ -199,7 +209,7 @@ export function loadAll() {
     factions,
     events: dir(EventSchema, 'events'),
     relations: dir(RelationSchema, 'relations'),
-    concepts: dir(ConceptSchema, 'concepts'),
+    concepts,
     congresses: dir(CongressSchema, 'congresses'),
     corpus: dir(CorpusDocSchema, 'corpus'),
     isms: dir(IsmSchema, 'isms'),
