@@ -1,0 +1,402 @@
+# CS5: case studies (Nanchong & Sichuan, 2015 crash & financial regulators, Su Rong & Jiangxi, life imprisonment, political brokers)
+web:
+  # --- Nanchong / Sichuan ---
+  - id: cs5-people-2015-09-15-nanchong
+    title: 四川省严肃查处南充拉票贿选案
+    publisher: 人民网（新华社）
+    date: 2015-09-15
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0915/c1001-27587413.html
+    start: 9月15日，四川省委召开会议
+    end: 的鲜明态度。
+  - id: cs5-ccdi-2015-09-15-nanchong-meeting
+    title: 四川：深刻汲取南充拉票贿选案教训 坚决落实全面从严治党要求
+    publisher: 中央纪委监察部网站
+    date: 2015-09-15
+    voice: official
+    url: http://m.ccdi.gov.cn/content/bb/f9/5734.html
+    start: 9月15日上午，四川省领导干部大会在成都举行
+    end: 坚决查处一起。
+  - id: cs5-bbc-2015-09-15-nanchong
+    title: 中国反腐败：四川南充市委贿选案两干部获刑
+    publisher: BBC 中文
+    date: 2015-09-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/09/150915_china_sichuan_vote_rigging
+    excerpt: true
+    keep: [新华社的报道并未说明杨建华, 四川省检察院于今年3月26日批捕杨建华, 应是中共中央第九巡视组, 直到今年4月, 湖北《长江商报》今年5月4日, 遭到中共湖北省委宣传部整肃]
+  - id: cs5-bbc-2015-05-24-changjiang-daily
+    title: 湖北《長江商報》因報道觸怒官方遭整肅
+    publisher: BBC 中文
+    date: 2015-05-24
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2015/05/150524_china_media
+    excerpt: true
+    keep: [多篇調查報道因為觸怒了有關省份的宣傳部, 整肅湖北《長江商報》的指示來自中宣部, 以20萬一張票的方式收買投票代表, 來自湖北當地的消息人士稱]
+  - id: cs5-thepaper-2015-05-23-liu-hongjian
+    title: 刘宏建四川省人大代表资格被终止，曾任南充市委书记
+    publisher: 澎湃新闻
+    date: 2015-05-23
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1334328
+    excerpt: true
+    keep: [卸任南充市委书记五个月后, 南充市人大常委会接受了刘宏建辞去, 1962年12月出生的刘宏建, 刘宏建之后曾历任, 2007年6月，刘宏建起任南充市委书记, 李仲彬任南充市委委员, 与刘宏建一起被终止四川省人大代表资格的李佳]
+  - id: cs5-thepaper-2015-11-17-liu-hongjian-expel
+    title: 四川省委委员、南充市委原书记刘宏建被确认开除党籍
+    publisher: 澎湃新闻
+    date: 2015-11-17
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1397978
+    excerpt: true
+    keep: [全会确认了四川省委常委会之前作出的, 并于2012年5月当选为中共四川省第十届委员会委员]
+  - id: cs5-thepaper-2015-08-14-nanchong-mianyang
+    title: 检察日报披露四川省检察院已指定绵阳市检察院办理南充贿选案
+    publisher: 澎湃新闻
+    date: 2015-08-14
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1364322
+    excerpt: true
+    keep: [四川省检察院已指定绵阳市检察院办理, 在审判阶段，律师和被告人, 都是巡视发现的, 南充市委书记李仲彬在全市领导班子]
+  - id: cs5-people-2015-04-12-inspection-findings
+    title: 中纪委：苏荣等40多名中管干部问题线索是巡视发现的
+    publisher: 人民网
+    date: 2015-04-12
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0412/c1001-26832034.html
+    start: 人民网北京4月12日电
+    end: 为全面从严治党提供有力支撑。
+  - id: cs5-xinhua-2015-01-30-sichuan-rectify
+    title: 中共四川省委关于巡视整改情况的通报
+    publisher: 新华网（中央纪委监察部网站）
+    date: 2015-01-30
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-01/30/c_127438447.htm
+    start: 根据中央统一部署，2014年7月28日
+    end: 2015年1月29日
+  - id: cs5-thepaper-2018-10-10-sichuan-decision
+    title: 四川省委：彻底肃清周永康流毒影响，持续净化四川政治生态
+    publisher: 澎湃新闻（四川日报）
+    date: 2018-10-10
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2513613
+  - id: cs5-scgov-2018-10-26-sichuan-rectify
+    title: 中共四川省委关于巡视整改进展情况的通报
+    publisher: 四川省人民政府网站（中央纪委国家监委网站）
+    date: 2018-10-26
+    voice: official
+    url: http://www.sc.gov.cn/10462/10464/10797/2018/10/26/10461703.shtml
+    excerpt: true
+    keep:
+      - 根据中央统一部署，2018年2月23日
+      - 周永康
+  - id: cs5-sina-2019-07-11-peng-qinghua
+    title: 中央巡视组离开1年后 省委书记再提周永康
+    publisher: 新浪新闻（政知圈）
+    date: 2019-07-11
+    voice: zh
+    url: https://news.sina.cn/gn/2019-07-11/detail-ihytcerm2979236.d.html
+    excerpt: true
+    keep: [持续深化不够, 对周永康流毒影响不可低估，对其给四川政治生态造成的损害不可低估, 彭清华指出周永康在四川的流毒影响突出表现在五个方面, 对肃清不到位、不彻底的单位]
+  - id: cs5-youth-2019-08-02-peng-qinghua
+    title: 四川省委书记：周永康流毒影响不可低估
+    publisher: 中国青年网（海运仓内参）
+    date: 2019-08-02
+    voice: zh
+    url: https://news.youth.cn/jsxw/201908/t20190802_12029369.htm
+    excerpt: true
+    keep: [周永康离开四川后还直接插手四川事务, 蒲波、彭宇行严重违纪违法案再次给我们敲响了警钟]
+  - id: cs5-newssc-2022-08-18-wang-xiaohui
+    title: 问答十年间⑩｜王晓晖：坚决同影响党的先进性、弱化党的纯洁性问题作斗争
+    publisher: 四川新闻网（川观新闻）
+    date: 2022-08-18
+    voice: official
+    url: https://scnews.newssc.org/system/20220818/001292074.html
+    excerpt: true
+    keep: [彻底肃清周永康流毒影响和南充拉票贿选案恶劣影响, 出台彻底肃清周永康流毒影响净化四川政治生态的《决定》]
+  - id: cs5-bbc-2016-02-04-wei-hong
+    title: “对党不忠诚” 四川前省长魏宏遭降职
+    publisher: BBC 中文
+    date: 2016-02-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/02/160204_cn_sichuan_weihong
+    excerpt: true
+    keep: [前省委副书记、省长魏宏因为严重违纪问题被降为, 魏宏同志身为党的高级领导干部, 但由于有关报道仍然称呼魏宏为同志, 魏宏迅速补缺李春城, 是少见“双非”省级党政一把手, 魏宏在四川的任职提拔经历和已经落马]
+  - id: cs5-thepaper-2014-08-zhou-sichuan
+    title: 周永康治蜀3年：留下一堆政绩工程，也结下了利益同盟
+    publisher: 澎湃新闻
+    date: 2014-08
+    voice: zh
+    url: https://web.archive.org/web/2020/https://www.thepaper.cn/newsDetail_forward_1258854
+    excerpt: true
+    keep: [周永康留在四川的，除了一堆政绩工程, 四川政界普遍认为, 无论走到哪里，我都将尽心尽力地关心和支持四川的工作, 离开四川后，周永康仍葆有对四川的影响]
+  # --- 2015 crash & financial regulators ---
+  - id: cs5-people-2015-07-09-police-csrc
+    title: 公安部副部长带队到证监会排查恶意卖空股票与股指线索
+    publisher: 人民网（新华网）
+    date: 2015-07-09
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0709/c70731-27278216.html
+    start: 新华网快讯
+    end: 违法违规行为的动作。
+  - id: cs5-people-2015-07-13-police-shanghai
+    title: 贸易公司涉嫌操纵证券期货
+    publisher: 人民网（京华时报）
+    date: 2015-07-13
+    voice: zh
+    url: http://politics.people.com.cn/n/2015/0713/c70731-27292252.html
+    excerpt: true
+    keep: [刚刚履新的公安部副部长孟庆丰带队到证监会, 工作组现已发现个别贸易公司, 两市连续两天上演千股涨停]
+  - id: cs5-bbc-2015-07-22-short-conspiracy
+    title: 透视中国：为何怪罪“敌对势力”做空股市？
+    publisher: BBC 中文
+    date: 2015-07-22
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/07/150722_focusonchina_stock_conspiracy
+    excerpt: true
+    keep: [原本是一次难得的反思与辩论机会, 流动市值比例的1.4%, 通过怪罪外国势力操纵中国股市]
+  - id: cs5-sina-2017-11-13-cheng-boming
+    title: 中信证券原高管程博明因受贿罪被判3.6年 和股灾无关
+    publisher: 新浪财经（转财新网）
+    date: 2017-11-13
+    voice: zh
+    url: http://finance.sina.com.cn/stock/y/2017-11-13/doc-ifynshev5789842.shtml
+    excerpt: true
+    keep: [青岛市公安机关已依法批准逮捕, 中信证券徐某等八人涉嫌违法从事证券交易活动, 程博明与此前落马的证监会主席助理张育军是同学, 程博明去年12月被判有期徒刑三年六个月, 程博明是“股灾”后被调查的中信证券最高层人物]
+  - id: cs5-caixin-2018-11-05-short-case-closed
+    title: “做空A股”案结案 三券商免罚
+    publisher: 财新网
+    date: 2018-11-05
+    voice: zh
+    url: http://m.finance.caixin.com/m/2018-11-05/101343099.html
+    excerpt: true
+    keep: [集中立案调查三年后]
+  - id: cs5-caixin-2019-02-19-citic-aftermath
+    title: 股灾三年半后 中信证券旧部命运各不同
+    publisher: 财新网
+    date: 2019-02-19
+    voice: zh
+    url: https://wenews.caixin.com/2019-02-19/102023422.html
+    excerpt: true
+    keep: [终有三人被判刑, 就此草草画上句号]
+  - id: cs5-jiemian-2016-08-csrc-team
+    title: “刘士余班底”逐渐成形 证监会领导成员呈多元化风格
+    publisher: 界面新闻
+    date: 2016-08
+    voice: zh
+    url: https://m.jiemian.com/article/818334.html
+    excerpt: true
+    keep: [曾经参与救市工作的五位高层人士均因各种原因离开证监会, 2015年9月15日，国务院决定免去庄心一, 同样因到了退休年龄的的刘新华, 仅剩下副主席姜洋和主席助理黄炜在任]
+  - id: cs5-thepaper-2015-09-15-zhuang-xinyi
+    title: 国家外汇局副局长李超任证监会副主席，庄心一被免职
+    publisher: 澎湃新闻
+    date: 2015-09-15
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1375374
+    excerpt: true
+    keep: [担任证监会副主席长达十年之久的庄心一则被免去职务, 在证监会领导班子中，庄心一是排名第一的副主席]
+  - id: cs5-epoch-2015-11-14-yao-gang-coup
+    title: 姚刚落马 涉江派势力的“经济政变”
+    publisher: 大纪元
+    date: 2015-11-14
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/15/11/14/n4573278.htm
+    excerpt: true
+    keep: [据传当局将其定性为一场“经济政变”, 姚刚和程博明等人都与令完成有很深的联系, 中信证券是权贵云集的公司]
+  - id: cs5-people-2016-02-04-cbrc-inspection
+    title: 中央第十二巡视组向银监会党委反馈专项巡视情况
+    publisher: 人民网（中央纪委监察部网站）
+    date: 2016-02-04
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/0204/c1001-28112017.html
+    start: 人民网北京2月4日电
+    end: 不折不扣完成巡视整改任务。
+  - id: cs5-chinacom-2016-02-04-circ-inspection
+    title: 巡视组向保监会反馈情况：存权谋私违规取酬问题
+    publisher: 中国网财经（中央纪委监察部网站）
+    date: 2016-02-04
+    voice: official
+    url: https://web.archive.org/web/2020/http://finance.china.com.cn/news/20160204/3578184.shtml
+  - id: cs5-iachina-2017-11-20-xiang-poison
+    title: 中国保监会召开党委中心组学习扩大会议 查摆问题 以案治本 坚决肃清项俊波流毒
+    publisher: 中国保险行业协会（转保监会）
+    date: 2017-11-20
+    voice: official
+    url: https://www.iachina.cn/art/2017/11/20/art_1724_95842.html
+    start: 11月16日，为将
+    end: 全面重塑保险监管。
+  - id: cs5-thepaper-2023-05-05-chen-wenhui
+    title: 陈文辉卸任全国社保基金理事会副理事长，曾任银保监会副主席
+    publisher: 澎湃新闻
+    date: 2023-05-05
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_22962972
+    excerpt: true
+    keep: [陈文辉从4月13日起，暂时负责原保监会工作, 项俊波落马后，陈文辉在保监系统展开肃清项俊波流毒的工作, 当年4月，银保监会正式挂牌, 在担任银保监会副主席5个月后, 2011年8月，陈文辉升任原保监会副主席]
+  - id: cs5-gov-2017-07-15-fin-work-conf
+    title: 习近平：服务实体经济防控金融风险深化金融改革 促进经济和金融良性循环健康发展
+    publisher: 中国政府网（新华社）
+    date: 2017-07-15
+    voice: official
+    url: https://web.archive.org/web/2020/http://www.gov.cn/xinwen/2017-07/15/content_5210774.htm
+  - id: cs5-gov-2017-11-08-fsdc
+    title: 国务院金融稳定发展委员会成立并召开第一次全体会议
+    publisher: 中国政府网（新华社）
+    date: 2017-11-08
+    voice: official
+    url: https://web.archive.org/web/2020/http://www.gov.cn/xinwen/2017-11/08/content_5238161.htm
+  # --- Su Rong / Jiangxi / Gansu / Qinghai ---
+  - id: cs5-yyzx-2016-12-29-jiangxi-rectify
+    title: 江西巡视回头看整改：涉苏荣案43名省管干部基本处理到位
+    publisher: 余干县政府网（转人民网、中央纪委监察部网站）
+    date: 2016-12-29
+    voice: official
+    url: http://www.yyzx.gov.cn/5512/5513/content_267182.html
+    start: 人民网北京12月29日电
+    end: 第一时间干预到位、查处到位、纠正到位。
+  - id: cs5-caijing-2017-07-26-gansu
+    title: 甘肃官场异动
+    publisher: 《财经》杂志
+    date: 2017-07-26
+    voice: zh
+    url: https://magazine.caijing.com.cn/20170726/4306547.shtml
+    excerpt: true
+    keep: [苏荣在甘肃造成的负面影响肃清不力, 虞海燕在苏荣主政甘肃期间, 肃清苏荣余毒，是此轮甘肃政界再现反腐风暴的深层逻辑, 苏荣任甘肃省委书记仅三年时间, 甘肃省人大常委会原副主任陆武成在仕途上的晋升, 出生于1953年的陆武成, 尽管苏荣和陆武成案已审结]
+  - id: cs5-people-2014-07-16-mao-xiaobing
+    title: 苏荣蒋洁敏曾多次视察毛小兵工作
+    publisher: 人民网（新京报）
+    date: 2014-07-16
+    voice: zh
+    url: http://politics.people.com.cn/n/2014/0716/c1001-25289564.html
+    excerpt: true
+    keep: [三人曾在西宁发生交集, 2000年毛小兵起任西部矿业董事长后, 担任青海副省长时，蒋洁敏分管工业, 2003年5月29日，苏荣在蒋洁敏的陪同下]
+  - id: cs5-bbc-2014-07-16-three-expelled
+    title: 張田欣毛小兵趙智勇被中共開除黨籍
+    publisher: BBC 中文
+    date: 2014-07-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2014/07/140716_china_corruption
+    excerpt: true
+    keep: [趙智勇在江西省委曾是蘇榮的下屬, 此前媒體報道指出，蘇榮、蔣潔敏和沈培平, 趙智勇降為科員, 趙智勇一直在中國工商銀行工作, 兩者之間有否進一步關聯則仍待分曉]
+  - id: cs5-sina-2015-02-17-su-rong-expel
+    title: 全国政协原副主席苏荣被“双开”
+    publisher: 新浪新闻（新文化报）
+    date: 2015-02-17
+    voice: zh
+    url: http://news.sina.com.cn/c/2015-02-17/005931528761.shtml
+    excerpt: true
+    keep: [苏荣虽然是十八大后第一个落马的副国级官员, 苏荣被宣布接受调查后，江西官场持续震荡, 据统计，十八大以来，江西省委原常委、秘书长赵智勇]
+  # --- life imprisonment ---
+  - id: cs5-gov-2015-08-30-criminal-law-9
+    title: 中华人民共和国刑法修正案（九）（主席令第三十号）
+    publisher: 中国政府网
+    date: 2015-08-29
+    voice: doc
+    url: https://www.gov.cn/zhengce/2015-08/30/content_2922323.htm
+    start: 《中华人民共和国刑法修正案（九）》已由
+    end: 五十二、本修正案自2015年11月1日起施行。
+  - id: cs5-npc-2015-08-26-life-draft
+    title: 聚焦刑法修正案（九）草案对重特大贪污犯罪增设“终身监禁”
+    publisher: 中国人大网（新华网）
+    date: 2015-08-25
+    voice: official
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/2015-08/26/content_1944449.htm
+    start: 新华网北京８月２５日电
+    end: 乌梦达）
+  - id: cs5-xinhua-2016-11-15-life-three
+    title: 刑九新规后3名贪官被终身监禁 涉案2亿是“标准”？
+    publisher: 新华网（中国经济周刊）
+    date: 2016-11-15
+    voice: zh
+    url: http://www.xinhuanet.com/politics/2016-11/15/c_1119911569.htm
+    excerpt: true
+    keep: [10月9日，河南省安阳市中级人民法院一审判决, 这是自刑法修正案(九)施行以来, 判处白恩培、魏鹏远、于铁义终身监禁的依据是, 3人的涉案金额分别是, 这一信号在当时被许多人理解为, 例如涉案金额超过2亿元的朱明国, 赵秉志分析，犯罪情节一般应考察, 其立法的本意是将终身监禁作为死刑立即执行的替代措施, 魏案是新中国成立以来检察机关一次起获赃款现金数额最大的案件, 虽然论罪应当判处死刑]
+  - id: cs5-xinhua-2016-11-16-sentence-rules
+    title: 最高法发布司法解释：终身监禁贪贿犯不得减刑假释
+    publisher: 新华网（新京报）
+    date: 2016-11-16
+    voice: zh
+    url: http://www.xinhuanet.com/politics/2016-11/16/c_1119919355.htm
+    excerpt: true
+    keep: [新增了对决定终身监禁的贪污、受贿罪犯不得再减刑, 刑（九）实施以来，共有3名贪官被判终身监禁]
+  - id: cs5-xinhua-2016-10-10-bai-enpei-first
+    title: 白恩培成终身监禁“第一人” 此前被判死缓获减刑
+    publisher: 新华网（京华时报）
+    date: 2016-10-10
+    voice: zh
+    url: https://www.xinhuanet.com/politics/2016-10/10/c_129315561.htm
+    excerpt: true
+    keep: [今年4月18日，最高法、最高检联合发布, 白恩培由此成为刑法修正案（九）实施后首个适用终身监禁的正部级落马高官]
+  - id: cs5-xinhua-2016-10-23-yu-tieyi
+    title: 龙煤一前高管受贿超3亿获死缓 曾称“不进钱心难受”
+    publisher: 新华网
+    date: 2016-10-23
+    voice: zh
+    url: https://www.xinhuanet.com/politics/2016-10/23/c_1119768954.htm
+    excerpt: true
+    keep: [这是迄今为止法院认定的全国受贿案件中金额最高的案件, 2005年至2011年间，于铁义利用担任龙煤供应分公司负责人]
+  - id: cs5-sina-2024-10-30-life-list
+    title: 贪腐十亿不死，20只终身监禁的老虎清单
+    publisher: 新浪财经头条（法经网）
+    date: 2024-10-30
+    voice: zh
+    url: https://finance.sina.com.cn/cj/2024-10-30/doc-incuhwia1290459.shtml
+    excerpt: true
+    keep: [据不完全统计，目前已有白恩培、傅政华、赵正永、蔡锷生等20名落马官员, 这些老虎的贪腐金额，基本在一亿以上, 7、山西省吕梁市政府原副市长张中生, 16、原中信银行行长孙德顺]
+  - id: cs5-court-2021-10-29-zhang-zhongsheng
+    title: 受贿10.4亿！吕梁原副市长张中生二审被判死缓
+    publisher: 最高人民法院网（山西省高级人民法院）
+    date: 2021-10-29
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/329291.html
+    start: 2021年10月29日，山西省高级人民法院公开宣判
+    end: 法庭遂作出上述判决。
+  # --- political brokers ---
+  - id: cs5-court-2014-12-17-ding-shumiao
+    title: 丁羽心一审被判处有期徒刑二十年
+    publisher: 最高人民法院网（人民法院报）
+    date: 2014-12-17
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/8407.html
+    start: 北京市第二中级人民法院12月16日上午
+    end: 牵出了刘志军等原铁道部系列腐败大案。
+  - id: cs5-chinadaily-2013-09-26-ding-4900
+    title: 丁羽心案追踪：为刘志军捞人、跑官被骗4900万元始末
+    publisher: 中国日报网
+    date: 2013-09-26
+    voice: zh
+    url: https://web.archive.org/web/2020/https://cnews.chinadaily.com.cn/2013-09/26/content_16995264.htm
+    excerpt: true
+    keep: [只要他安排我做的事我都会尽力去办, 想办法尽快把何宏达弄出来, 刘琳等人根本不认识也没有找, 想离开铁道部到地方任职, 于振永作证时表示]
+  - id: cs5-cjn-2024-05-24-political-swindlers
+    title: 又见省部级落马高官被点名“结交政治骗子”
+    publisher: 长江网（澎湃新闻）
+    date: 2024-05-24
+    voice: zh
+    url: http://news.cjn.cn/bsy/yw/202405/t4905335.htm
+    excerpt: true
+    keep: [上一个在处分通报中点名“结交政治骗子”的是, “政治骗子”一般指通过虚构冒充领导干部, 认定党员干部结交政治骗子或者被政治骗子利用等搞投机钻营行为, 近年来在党纪政纪处分通报中被点名, 今年1月被双开的江西省上饶市政府原党组成员, 今年2月被双开的湖南省纪委监委]
+  - id: cs5-scjc-2024-06-05-swindlers
+    title: 让政治骗子没有市场
+    publisher: 四川省纪委监委网站（中国纪检监察报）
+    date: 2024-06-05
+    voice: official
+    url: https://www.scjc.gov.cn/scjc/zhyw01/2024/6/5/dba94b93142c44a28dca63d6d6b41585.shtml
+    start: 近日，“三湘风纪”
+    end: （作者：喻大伟）
+  - id: cs5-scol-2024-12-20-sichuan-swindlers
+    title: 全省严防政治骗子警示教育大会召开 加大惩治力度 坚决铲除政治骗子生存土壤
+    publisher: 四川在线
+    date: 2024-12-20
+    voice: official
+    url: https://sichuan.scol.com.cn/ggxw/202412/82865893.html
+    start: 12月20日，全省严防
+    end: 有效压缩政治骗子活动空间。
+  - id: cs5-bjnews-2016-09-27-lou-zhongfu
+    title: 令计划谷丽萍索取1000多万财物的商人返家，曾协助调查
+    publisher: 新京报
+    date: 2016-09-27
+    voice: zh
+    url: http://www.bjnews.com.cn/news/2016/09/27/418306.html
+    excerpt: true
+    keep: [楼忠福, 楼明, 七人]
