@@ -1,0 +1,86 @@
+# R08: people from the CS1 / CS2 case studies and the A02 / R06 / A01 lists done by this batch.
+# `done: true` = card in content/people/R08.yaml (where none existed) and, for those who fell, a case record in content/falls/R08.yaml.
+# `card: only` = card without a case record (never charged or never fell). The source lists themselves are left untouched.
+- { name: 李铁, date: 2022-11-26, post: "中国国家男子足球队原主教练", id: li-tie, done: true, from: CS2 }
+- { name: 陈戌源, date: 2023-02-14, post: "中国足球协会原主席", id: chen-xuyuan, done: true, from: CS2 }
+- { name: 徐𬎆, date: 2024-05-25, post: "国家烟草专卖局原党组成员、副局长", id: xu-ying, done: true, from: R06/CS1 }
+- { name: 高劲松, date: 2015-04-10, post: "昆明市委原书记", id: gao-jinsong, done: true, from: CS2 }
+- { name: 苏洪波, date: 2018-07-17, post: "香港某公司董事长（云南政治掮客）", id: su-hongbo, done: true, from: CS2 }
+- { name: 田惠宇, date: 2022-04-22, post: "招商银行原党委书记、行长", id: tian-huiyu, done: true, from: CS1 }
+- { name: 徐翔, date: 2015-11-01, post: "泽熙投资原总经理", id: xu-xiang, done: true, from: CS1 }
+- { name: 刘新华, post: "中国证监会原副主席（未落马）", id: liu-xinhua, done: true, card: only, from: CS1 }
+- { name: 王素英, date: 2018-09-12, post: "中国福利彩票发行管理中心原主任", id: wang-suying, done: true, from: CS2 }
+- { name: 鲍学全, date: 2017-02, post: "中国福利彩票发行管理中心原主任", id: bao-xuequan, done: true, from: CS2 }
+- { name: 王云戈, date: 2017-02, post: "中国福利彩票发行管理中心原副主任", id: wang-yunge, done: true, from: CS2 }
+- { name: 冯立志, date: 2018-10-31, post: "中国福利彩票发行管理中心原副主任", id: feng-lizhi, done: true, from: CS2 }
+- { name: 贾晓晔, date: 2016-06, post: "周永康之妻", id: jia-xiaoye, done: true, from: CS1 }
+- { name: 令完成, post: "令计划之弟（2015 年出走美国，无官方指控）", id: ling-wancheng, done: true, card: only, from: CS1 }
+- { name: 谷丽萍, post: "令计划之妻（官方未公布处理）", id: gu-liping, done: true, card: only, from: CS1 }
+# A02 leftovers (ma-zhengwu: case record only, the card is in content/people/K05.yaml)
+- { name: 马正武, date: 2025-12-24, post: "中国融通集团原董事长", id: ma-zhengwu, done: true, from: A02 }
+- { name: 张冬辰, date: 2025-12-24, post: "中国卫星网络集团原董事长", id: zhang-dongchen, done: true, from: A02 }
+- { name: 周新民, date: 2026-02-04, post: "中国航空工业集团原董事长", id: zhou-xinmin, done: true, from: A02 }
+- { name: 刘仓理, date: 2026-02-04, post: "中国工程物理研究院原院长", id: liu-cangli, done: true, from: A02 }
+- { name: 张克俭, date: 2026-03-02, post: "国防科工局原局长（全国政协常委）", id: zhang-kejian, done: true, from: A02 }
+# R06 leftovers (刘卫东、何文忠 left to A02's method)
+- { name: 任羽中, date: 2025-09-17, post: "北京大学党委常委、副校长", id: ren-yuzhong, done: true, from: R06 }
+- { name: 陆文俊, date: 2025-05-09, post: "中国一重集团有限公司党委常委、副总经理", id: lu-wenjun, done: true, from: R06 }
+- { name: 龙翔, date: 2025-04-03, post: "江苏省南京市人大常委会党组书记、主任", id: long-xiang, done: true, from: R06 }
+- { name: 袁光宇, date: 2025-03-01, post: "中国海洋石油集团有限公司原党组成员、副总经理", id: yuan-guangyu, done: true, from: R06 }
+- { name: 陈笑波, date: 2024-10-10, post: "海南省纪委副书记、省监委副主任", id: chen-xiaobo, done: true, from: R06 }
+- { name: 曹兴信, date: 2024-09-28, post: "中国联合网络通信集团有限公司党组成员、副总经理", id: cao-xingxin, done: true, from: R06 }
+- { name: 徐佐, date: 2024-06-09, post: "中国中信集团有限公司党委委员、副总经理", id: xu-zuo, done: true, from: R06 }
+- { name: 张平, date: 2024-04-03, post: "贵州省纪委副书记、省监委副主任", id: zhang-ping-gz, done: true, from: R06 }
+- { name: 李吉平, date: 2024-03-13, post: "国家开发银行原党委委员、副行长", id: li-jiping, done: true, from: R06 }
+- { name: 龙飞, date: 2024-02-05, post: "中国南方电网有限责任公司党组成员、纪检监察组组长", id: long-fei, done: true, from: R06 }
+- { name: 韩松, date: 2025-07-14, post: "陕西省西安市人大常委会党组书记、主任", id: han-song-xa, done: true, from: R06 }
+- { name: 李百安, date: 2025-11-16, post: "招商局集团有限公司原党委委员、副总经理", id: li-baian, done: true, from: R06 }
+- { name: 郭学益, date: 2025-12-27, post: "中南大学党委常委、副校长", id: guo-xueyi, done: true, from: R06 }
+- { name: 伍浩, date: 2026-04, post: "中国科学院科技创新发展中心党委副书记、主任", id: wu-hao-cas, done: true, from: R06 }
+- { name: 韩嵩, date: 2026-02-28, post: "华润（集团）有限公司党委委员、副总经理", id: han-song-cr, done: true, from: R06 }
+- { name: 徐一丁, date: 2026-02-07, post: "中国农业发展银行党委委员、副行长", id: xu-yiding, done: true, from: R06 }
+- { name: 连辑, date: 2026-02-03, post: "中国艺术研究院原院长", id: lian-ji, done: true, from: R06 }
+- { name: 包惠, date: 2026-01-27, post: "四川省成都市人大常委会原党组书记、主任", id: bao-hui, done: true, from: R06 }
+- { name: 杨宏勇, date: 2026-01-24, post: "哈尔滨电气集团有限公司原党委常委、纪委书记", id: yang-hongyong, done: true, from: R06 }
+- { name: 李旭, date: 2026-01-08, post: "新疆生产建设兵团党委常委、副司令员", id: li-xu-bt, done: true, from: R06 }
+- { name: 于泽, date: 2025-12-06, post: "中国人民保险集团股份有限公司党委委员、副总裁", id: yu-ze, done: true, from: R06 }
+- { name: 侯维栋, date: 2025-10-28, post: "交通银行原党委委员、副行长", id: hou-weidong, done: true, from: R06 }
+- { name: 黄日波, date: 2026-10-18, post: "广西壮族自治区政协原副主席", id: huang-ribo, done: true, from: R06 }
+- { name: 戴玉林, date: 2026-09-17, post: "辽宁省政协原党组副书记、副主席", id: dai-yulin, done: true, from: R06 }
+- { name: 张灼华, date: 2026-07-03, post: "湖南省政协副主席", id: zhang-zhuohua, done: true, from: R06 }
+- { name: 贺志亮, date: 2026-06-27, post: "中央社会工作部副部长", id: he-zhiliang, done: true, from: R06 }
+- { name: 朱昌杰, date: 2026-06-20, post: "新疆维吾尔自治区政府原党组成员、副主席", id: zhu-changjie, done: true, from: R06 }
+- { name: 姜宏伟, date: 2026-06-16, post: "黑龙江省纪委副书记、省监委副主任", id: jiang-hongwei, done: true, from: R06 }
+- { name: 王文灵, date: 2026-04-07, post: "全国社会保障基金理事会党组成员、副理事长", id: wang-wenling, done: true, from: R06 }
+- { name: 王文华, date: 2025-12-18, post: "山东省青岛市人大常委会原党组书记、主任", id: wang-wenhua-qd, done: true, from: R06 }
+- { name: 陈勇, date: 2026-09-05, post: "中国建筑集团有限公司党组成员、副总经理", id: chen-yong-cscec, done: true, from: R06 }
+- { name: 宋致远, date: 2026-08-08, post: "中国东方电气集团有限公司原党组副书记、董事", id: song-zhiyuan, done: true, from: R06 }
+- { name: 梁潮平, date: 2026-07-06, post: "中国民用航空局原党组成员、纪检组组长", id: liang-chaoping, done: true, from: R06 }
+- { name: 卞志刚, date: 2026-06-24, post: "国家国防科技工业局党组成员、副局长", id: bian-zhigang, done: true, from: R06 }
+- { name: 俞小平, date: 2026-06-13, post: "中国人民保险集团股份有限公司原党委委员、副总裁", id: yu-xiaoping, done: true, from: R06 }
+- { name: 王益华, date: 2026-05-30, post: "中国华能集团有限公司原党组成员、总会计师", id: wang-yihua, done: true, from: R06 }
+# CS1 / CS2 others (刘新云、李文喜 already have cards and records in other batches)
+- { name: 刘奕, date: 2023-01-19, post: "中国足球协会原秘书长", id: liu-yi, done: true, from: CS2 }
+- { name: 贺文, date: 2016-04-27, post: "北京中彩在线科技有限责任公司原总经理", id: he-wen, done: true, from: CS2 }
+- { name: 张华宇, date: 2022-07-04, post: "中国光大银行原党委副书记、副行长", id: zhang-huayu, done: true, from: CS2 }
+- { name: 罗敏, date: 2015-07-15, post: "云南省农村信用社联合社原主任", id: luo-min, done: true, from: CS2 }
+- { name: 蒋兆岗, date: 2018-05-10, post: "西南林业大学原校长、云南省农信社原党委书记", id: jiang-zhaogang, done: true, from: CS2 }
+- { name: 万仁礼, date: 2017-06, post: "云南省农信社原党委书记、理事长", id: wan-renli, done: true, from: CS2 }
+- { name: 娄河, date: 2020-11-12, post: "锦州北镇涉黑团伙头目", id: lou-he, done: true, from: CS2 }
+- { name: 马少伟, date: 2020, post: "青海省兴青工贸工程集团有限公司实际控制人", id: ma-shaowei, done: true, from: CS2 }
+- { name: 谢克敏, date: 2014-07-05, post: "山西省监察厅原副厅长", id: xie-kemin, done: true, from: CS1 }
+- { name: 周吉平, post: "中国石油天然气集团公司原董事长（未落马）", id: zhou-jiping, done: true, card: only, from: CS1 }
+- { name: 王文志, post: "《经济参考报》首席记者（举报人）", id: wang-wenzhi, done: true, card: only, from: CS1 }
+- { name: 李建军, post: "《山西晚报》前记者（举报人）", id: li-jianjun-cr, done: true, card: only, from: CS1 }
+- { name: 张新明, date: 2014-08-04, post: "山西金业集团原董事长", id: zhang-xinming, done: true, from: CS1 }
+- { name: 邢利斌, date: 2014-03-12, post: "山西联盛能源原董事局主席", id: xing-libin, done: true, from: CS1 }
+- { name: 王玉军, date: 2014-08-26, post: "华润电力原执行董事、总裁", id: wang-yujun, done: true, from: CS1 }
+- { name: 黄道国, date: 2014-08, post: "华润集团原审计总监", id: huang-daoguo, done: true, from: CS1 }
+- { name: 程博明, date: 2015-09-15, post: "中信证券原总经理", id: cheng-boming, done: true, from: CS1 }
+- { name: 庄心一, post: "中国证监会原副主席（未落马）", id: zhuang-xinyi, done: true, card: only, from: CS1 }
+- { name: 刘书帆, date: 2015-08-30, post: "中国证监会发行部三处原处长", id: liu-shufan, done: true, from: CS1 }
+- { name: 李量, date: 2014-12-01, post: "中国证监会投资者保护局原局长", id: li-liang, done: true, from: CS1 }
+- { name: 李志玲, date: 2015-06-19, post: "中国证监会发行监管部原处长", id: li-zhiling, done: true, from: CS1 }
+- { name: 李峰, date: 2016-09-17, post: "辽宁省人大常委会原党组书记、副主任", id: li-feng-ln, done: true, from: CS1 }
+- { name: 方威, date: 2014-05-30, post: "辽宁方大集团董事局主席", id: fang-wei, done: true, from: CS1 }
+- { name: 李兆前, post: "山西省纪委原书记（未落马）", id: li-zhaoqian, done: true, card: only, from: CS1 }

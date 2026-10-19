@@ -1,0 +1,177 @@
+# R08 source table: who | kind | date | url | title [| keep1 ; keep2 ... | or start>>end]
+# kinds: wiki probe expel trial verdict (and free words for others); generator: research/scripts/R08-src.ts
+# ───── batch 1: CS1 / CS2 principals ─────
+li-tie|wiki||https://zh.wikipedia.org/zh-hans/李铁|李铁（维基百科）
+li-tie|probe|2022-11-27|http://ent.people.com.cn/n1/2022/1127/c1012-32575171.html|中国国家男子足球队原主教练李铁接受监察调查|新华社武汉11月26日电>>湖北省监委监察调查。
+chen-xuyuan|wiki||https://zh.wikipedia.org/zh-hans/陈戌源|陈戌源（维基百科）
+chen-xuyuan|probe|2023-02-14|http://society.people.com.cn/n1/2023/0214/c1008-32623726.html|中国足协主席、党委副书记陈戌源接受审查调查
+xu-ying|wiki||https://zh.wikipedia.org/zh-hans/徐𬎆|徐𬎆（维基百科）
+xu-ying|expel|2024-11-20|https://web.archive.org/web/20241121034413id_/https://www.ccdi.gov.cn/scdcn/zggb/djcf/202411/t20241120_389201.html|国家烟草专卖局原党组成员、副局长徐𬎆严重违纪违法被开除党籍和公职
+xu-ying|verdict|2025-08-13|http://society.people.com.cn/n1/2025/0813/c1008-40541356.html|国家烟草专卖局原党组成员、副局长徐（王莹）受贿案一审宣判|本报安阳8月12日电>>旁听了庭审。
+xu-ying|detail|2025-08-12|https://www.jiemian.com/article/13166767.html|受贿6533万被判15年，国家烟草专卖局原副局长获刑|公开简历显示;徐𬎆担任副局长后;2024年5月25日，中央纪委;2025年3月，徐𬎆被提起公诉
+gao-jinsong|wiki||https://zh.wikipedia.org/zh-hans/高劲松|高劲松（维基百科）
+gao-jinsong|probe|2015-04-11|https://web.archive.org/web/20160304110338id_/http://www.jjjc.yn.gov.cn/info-17-7789.html|高劲松涉嫌严重违纪违法被免职|高劲松因涉嫌严重违纪违法>>常委、委员职务。
+gao-jinsong|verdict|2017-02-24|https://web.archive.org/web/20170225051234id_/http://www.legaldaily.com.cn/index/content/2017-02/24/content_7027794.htm?node=20908|原昆明市委书记高劲松一审被判十年|法制网昆明2月24日电>>遂作出如上判决。
+gao-jinsong|npc|2015-07-30|https://www.thepaper.cn/newsDetail_forward_1358750|昆明市委原书记高劲松等多人被终止云南省人大代表资格|已被省纪委立案审查
+tian-huiyu|wiki||https://zh.wikipedia.org/zh-hans/田惠宇|田惠宇（维基百科）
+tian-huiyu|probe|2022-04-22|https://web.archive.org/web/20220422101057id_/https://www.ccdi.gov.cn/toutiaon/202204/t20220422_188114.html|招商银行股份有限公司原党委书记、行长田惠宇接受中央纪委国家监委纪律审查和监察调查
+tian-huiyu|expel|2022-10-08|https://web.archive.org/web/20221008023533id_/https://www.ccdi.gov.cn/toutiaon/202210/t20221008_222724.html|招商银行股份有限公司原党委书记、行长田惠宇严重违纪违法被开除党籍和公职
+tian-huiyu|verdict|2024-02-05|http://society.people.com.cn/n1/2024/0205/c1008-40173842.html|招商银行原行长田惠宇一审被判死缓
+wang-suying|verdict|2020-01-07|https://www.thepaper.cn/newsDetail_forward_5448185|腐败致7.5亿彩票费流失，中福彩原主任王素英获刑11年|北京市第二中级法院已对王素英案作出一审判决;宣判后，王素英没有上诉;造成本应上缴财政的7.5亿余元;2018年9月12日，王素英;2019年3月15日;北京市第二中级法院一审以王素英犯受贿罪
+wang-suying|detail|2020-01-07|https://china.caixin.com/2020-01-07/101501937.html|福彩中心原主任王素英获刑11年 致7.5亿彩票费流失|受贿187万元
+feng-lizhi|verdict|2019-04-14|http://legal.people.com.cn/n1/2019/0414/c42510-31028561.html|福彩中心原副主任冯立志一审获刑17年|4月13日，北京青年报记者获悉>>决定对冯立志暂予监外执行。
+bao-xuequan|wiki||https://zh.wikipedia.org/zh-hans/鲍学全|鲍学全（维基百科）
+su-hongbo|charge|2022-01-04|https://www.thepaper.cn/newsDetail_forward_16129287|云南政治掮客“苏公公”案情披露：被控受贿近5000万|起诉书介绍，苏洪波;2019年7月，昆明市五华区人民检察院;检方依法审查查明;为感谢曹建方帮助;2018年7月17日
+jia-xiaoye|wiki||https://zh.wikipedia.org/zh-hans/贾晓晔|贾晓晔（维基百科）
+jia-xiaoye|verdict|2016-06-16|https://news.cri.cn/20160616/69115739-d480-a1bb-1d74-6204d637698a.html|贾晓晔受贿、利用影响力受贿案一审公开宣判|据湖北省宜昌市中级人民法院官方微博消息>>该判决已发生法律效力。
+jia-xiaoye|bbc|2016-06-15|https://www.bbc.com/zhongwen/simp/china/2016/06/160615_jia_xiaoye_sentencing_zhou_yongkang_bribery|周永康妻子贾晓晔受贿罪判9年称不上诉|宣判书并没有说明贾晓晔的受贿金额
+xu-xiang|wiki||https://zh.wikipedia.org/zh-hans/徐翔_(投资家)|徐翔（维基百科）|徐翔（1977年2月12日;徐翔早年是宁波的一位散户;2015年11月1日，徐翔因涉嫌;2016年4月12日;2021年7月9日，徐翔刑满出狱
+xu-xiang|police|2015-11-04|https://www.chinanews.com.cn/m/gn/2015/11-04/7605589.shtml|公安部打击证券期货领域违法犯罪 徐翔等18人被调查|据新华社报道，泽熙投资管理有限公司法定代表人;事发不久，中信证券发布公告称;该证监会工作人员刘某;经查，中国证监会投资者保护局原局长李量
+xu-xiang|verdict|2017-01-23|https://www.huxiu.com/article/179434.html|“私募一哥”徐翔神话落幕，一审判决5年6个月|据山东省青岛市中级人民法院官方微博消息;这距离2015年11月1日;去年12月5日，青岛中院;据悉，在被控的三人当中
+ling-wancheng|wiki||https://zh.wikipedia.org/zh-hans/令完成|令完成（维基百科）
+gu-liping|wiki||https://zh.wikipedia.org/zh-hans/谷丽萍|谷丽萍（维基百科）|谷丽萍（1959年4月—）
+liu-xinhua|wiki||https://zh.wikipedia.org/zh-hans/刘新华_(1955年)|刘新华（维基百科）|刘新华（1955年9月—）;2018年，刘新华被选为
+liu-xinhua|bio||https://finance.ifeng.com/people/official/liuxinhua.shtml|刘新华详细资料（凤凰网财经人物库）|刘新华同志1975年起在宁夏银川市电信局工作
+liu-xinhua|out|2015-10-30|http://district.ce.cn/newarea/sddy/201510/30/t20151030_6859427.shtml|方星海任中国证监会副主席 刘新华不再担任|中国经济网北京10月30日综合报道>>刘新华，1955年9月出生。
+# ───── batch 2: A02 leftovers ─────
+zhang-dongchen|wiki||https://zh.wikipedia.org/zh-hans/张冬辰|张冬辰（维基百科）|张冬辰（1962年11月—）;1998年12月，任信息产业部;2008年3月，任中国电子科技集团公司副总经理
+zhou-xinmin|wiki||https://zh.wikipedia.org/zh-hans/周新民_(1969年)|周新民（维基百科）|周新民（1969年11月—）;2025年12月30日，因涉嫌违纪违法
+zhou-xinmin|avic|2024-03-27|https://www.news.cn/politics/20240327/39844994d5fd492da0906154327ddf75/c.html|中国航空工业集团有限公司董事长、党组书记任职|2024年3月27日，中国航空工业集团>>按有关法律和章程的规定办理。
+zhou-xinmin|bio|2024-03-27|https://www.yicai.com/news/102044281.html|中国商飞总经理调任航空工业集团董事长|周新民，男，汉族，1969年11月生;2016年01月，任昌河飞机工业;2018年01月，任中国商用飞机;2023年02月，任中国商用飞机
+liu-cangli|wiki||https://zh.wikipedia.org/zh-hans/刘仓理|刘仓理（维基百科）|刘仓理（1961年12月—）;2026年1月9日，因涉嫌违纪违法
+liu-cangli|caep|2015-09-24|https://china.caixin.com/m/2015-09-24/100856106.html|刘仓理升任中国工程物理研究院院长|该院科技委主任刘仓理升任院长
+liu-cangli|out|2024-07-05|https://www.12371.cn/2024/07/05/ARTI1720178246808638.shtml|国务院任免国家工作人员（2024 年 7 月）|任命李詠箑>>免去莫则尧的中国工程物理研究院副院长职务。
+zhang-kejian|wiki||https://zh.wikipedia.org/zh-hans/张克俭_(1961年)|张克俭（维基百科）|张克俭（1961年7月—）;张克俭1982年毕业于;2024年12月，卸任;2026年3月，被免去
+liu-xinhua|npc|2018-03-14|http://lianghui.people.com.cn/2018npc/n1/2018/0314/c417507-29865993.html|第十三届全国人民代表大会财政经济委员会主任委员、副主任委员、委员名单|主任委员 徐绍史>>（新华社北京3月13日电）
+# ───── batch 3: R06 leftovers ─────
+huang-ribo|wiki||https://zh.wikipedia.org/zh-hans/黄日波|黄日波（维基百科）
+dai-yulin|wiki||https://zh.wikipedia.org/zh-hans/戴玉林|戴玉林（维基百科）
+zhang-zhuohua|wiki||https://zh.wikipedia.org/zh-hans/张灼华|张灼华（维基百科）
+he-zhiliang|wiki||https://zh.wikipedia.org/zh-hans/贺志亮|贺志亮（维基百科）
+zhu-changjie|wiki||https://zh.wikipedia.org/zh-hans/朱昌杰|朱昌杰（维基百科）
+jiang-hongwei|wiki||https://zh.wikipedia.org/zh-hans/姜宏伟|姜宏伟（维基百科）
+wu-hao|wiki||https://zh.wikipedia.org/zh-hans/伍浩|伍浩（维基百科）
+wang-wenling|wiki||https://zh.wikipedia.org/zh-hans/王文灵|王文灵（维基百科）
+lian-ji|wiki||https://zh.wikipedia.org/zh-hans/连辑|连辑（维基百科）
+bao-hui|wiki||https://zh.wikipedia.org/zh-hans/包惠|包惠（维基百科）
+guo-xueyi|wiki||https://zh.wikipedia.org/zh-hans/郭学益|郭学益（维基百科）
+wang-wenhua-qd|wiki||https://zh.wikipedia.org/zh-hans/王文华_(1957年)|王文华（维基百科）
+li-baian|wiki||https://zh.wikipedia.org/zh-hans/李百安|李百安（维基百科）
+ren-yuzhong|wiki||https://zh.wikipedia.org/zh-hans/任羽中|任羽中（维基百科）
+han-song-xa|wiki||https://zh.wikipedia.org/zh-hans/韩松_(1965年)|韩松（维基百科）
+lu-wenjun|wiki||https://zh.wikipedia.org/zh-hans/陆文俊|陆文俊（维基百科）
+long-xiang|wiki||https://zh.wikipedia.org/zh-hans/龙翔|龙翔（维基百科）
+chen-xiaobo|wiki||https://zh.wikipedia.org/zh-hans/陈笑波|陈笑波（维基百科）
+xu-zuo|wiki||https://zh.wikipedia.org/zh-hans/徐佐|徐佐（维基百科）
+zhang-ping-gz|wiki||https://zh.wikipedia.org/zh-hans/张平_(1964年)|张平（维基百科）
+li-jiping|wiki||https://zh.wikipedia.org/zh-hans/李吉平|李吉平（维基百科）
+long-fei|wiki||https://zh.wikipedia.org/zh-hans/龙飞_(官员)|龙飞（维基百科）
+huang-ribo|probe|2026-10-18|http://politics.people.com.cn/n1/2026/1018/c461001-40816842.html|广西壮族自治区政协原副主席黄日波接受监察调查
+dai-yulin|probe|2026-09-17|http://society.people.com.cn/n1/2026/0917/c1008-40800680.html|辽宁省政协原党组副书记、副主席戴玉林接受审查调查
+chen-yong-cscec|probe|2026-09-05|http://society.people.com.cn/n1/2026/0905/c1008-40793046.html|中国建筑集团有限公司党组成员、副总经理陈勇接受审查调查
+song-zhiyuan|probe|2026-08-09|http://fanfu.people.com.cn/n1/2026/0809/c64371-40776223.html|中国东方电气集团有限公司原党组副书记、董事宋致远接受审查调查
+liang-chaoping|probe|2026-07-06|http://society.people.com.cn/n1/2026/0706/c1008-40754478.html|中国民用航空局原党组成员、纪检组组长梁潮平接受审查调查
+zhang-zhuohua|probe|2026-07-03|http://society.people.com.cn/n1/2026/0703/c1008-40753046.html|湖南省政协副主席张灼华接受监察调查
+he-zhiliang|probe|2026-06-27|http://society.people.com.cn/n1/2026/0627/c1008-40748772.html|中央社会工作部副部长贺志亮接受中央纪委国家监委纪律审查和监察调查
+bian-zhigang|probe|2026-06-24|http://society.people.com.cn/n1/2026/0624/c1008-40746517.html|国家国防科技工业局党组成员、副局长卞志刚接受审查调查
+zhu-changjie|probe|2026-06-20|http://society.people.com.cn/n1/2026/0620/c1008-40744026.html|朱昌杰接受纪律审查和监察调查
+jiang-hongwei|probe|2026-06-16|http://society.people.com.cn/n1/2026/0616/c1008-40741499.html|黑龙江省纪委副书记、省监委副主任姜宏伟接受审查调查
+yu-xiaoping|probe|2026-06-13|http://society.people.com.cn/n1/2026/0613/c1008-40739704.html|中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受审查调查
+wang-yihua|probe|2026-05-30|http://society.people.com.cn/n1/2026/0530/c1008-40730704.html|中国华能集团有限公司原党组成员、总会计师王益华接受审查调查
+wu-hao|probe|2026-04-25|http://society.people.com.cn/n1/2026/0425/c1008-40708672.html|中国科学院科技创新发展中心党委副书记、主任伍浩接受审查调查
+wu-hao|expel|2026-10-14|http://society.people.com.cn/n1/2026/1014/c1008-40814859.html|中国科学院科创中心原党委副书记、主任伍浩严重违纪违法被开除党籍和公职
+wang-wenling|probe|2026-04-07|http://society.people.com.cn/n1/2026/0407/c1008-40696685.html|全国社会保障基金理事会党组成员、副理事长王文灵接受审查调查
+han-song-cr|probe|2026-02-28|http://society.people.com.cn/n1/2026/0228/c1008-40672279.html|华润（集团）有限公司党委委员、副总经理韩嵩接受中央纪委国家监委纪律审查和监察调查
+han-song-cr|expel|2026-07-25|http://society.people.com.cn/n1/2026/0725/c1008-40767845.html|华润集团原党委委员、副总经理韩嵩严重违纪违法被开除党籍和公职
+xu-yiding|probe|2026-02-07|http://society.people.com.cn/n1/2026/0207/c1008-40661596.html|中国农业发展银行党委委员、副行长徐一丁接受审查调查
+xu-yiding|expel|2026-08-17|http://society.people.com.cn/n1/2026/0817/c1008-40781166.html|农业发展银行原党委委员、副行长徐一丁严重违纪违法被开除党籍和公职
+lian-ji|probe|2026-02-03|http://society.people.com.cn/n1/2026/0203/c1008-40658871.html|中国艺术研究院原院长连辑接受审查调查
+lian-ji|expel|2026-10-09|http://society.people.com.cn/n1/2026/1009/c1008-40811505.html|中国艺术研究院原院长连辑严重违纪违法被开除党籍
+bao-hui|probe|2026-01-27|http://society.people.com.cn/n1/2026/0127/c1008-40654001.html|四川省成都市人大常委会原党组书记、主任包惠接受审查调查
+bao-hui|expel|2026-10-14|http://society.people.com.cn/n1/2026/1014/c1008-40814860.html|四川省成都市人大常委会原党组书记、主任包惠严重违纪违法被开除党籍
+yang-hongyong|probe|2026-01-24|http://society.people.com.cn/n1/2026/0124/c1008-40651977.html|哈尔滨电气集团有限公司原党委常委、纪委书记，国家监委原驻哈尔滨电气集团有限公司监察专员杨宏勇接受审查调查
+yang-hongyong|expel|2026-07-27|http://society.people.com.cn/n1/2026/0727/c1008-40768962.html|哈电集团原党委常委、纪委书记，国家监委原驻哈电集团监察专员杨宏勇严重违纪违法被开除党籍
+li-xu-bt|probe|2026-01-08|http://society.people.com.cn/n1/2026/0108/c1008-40641668.html|新疆生产建设兵团党委常委、副司令员李旭接受审查调查
+li-xu-bt|expel|2026-09-11|http://society.people.com.cn/n1/2026/0911/c1008-40797175.html|新疆生产建设兵团原党委常委、副司令员李旭严重违纪违法被开除党籍和公职
+guo-xueyi|probe|2025-12-27|http://society.people.com.cn/n1/2025/1227/c1008-40633550.html|中南大学党委常委、副校长郭学益接受审查调查
+guo-xueyi|expel|2026-07-23|http://society.people.com.cn/n1/2026/0723/c1008-40766726.html|中南大学原党委常委、副校长郭学益严重违纪违法被开除党籍和公职
+wang-wenhua-qd|probe|2025-12-19|http://fanfu.people.com.cn/n1/2025/1219/c64371-40627663.html|山东省青岛市人大常委会原党组书记、主任王文华接受中央纪委国家监委纪律审查和监察调查
+yu-ze|probe|2025-12-06|http://society.people.com.cn/n1/2025/1206/c1008-40618746.html|中国人民保险集团股份有限公司党委委员、副总裁于泽接受审查调查
+yu-ze|expel|2026-06-05|http://fanfu.people.com.cn/n1/2026/0605/c64371-40734830.html|中国人保原党委委员、副总裁于泽严重违纪违法被开除党籍和公职
+li-baian|probe|2025-11-16|http://society.people.com.cn/n1/2025/1116/c1008-40604746.html|招商局集团有限公司原党委委员、副总经理李百安接受审查调查
+li-baian|expel|2026-05-21|http://society.people.com.cn/n1/2026/0521/c1008-40724731.html|招商局集团原党委委员、副总经理李百安严重违纪违法被开除党籍
+hou-weidong|probe|2025-10-28|http://politics.people.com.cn/n1/2025/1028/c461001-40591569.html|交通银行原党委委员、副行长侯维栋接受审查调查
+hou-weidong|expel|2026-05-07|http://society.people.com.cn/n1/2026/0507/c1008-40715127.html|交通银行原党委委员、副行长侯维栋严重违纪违法被开除党籍
+ren-yuzhong|probe|2025-09-17|http://society.people.com.cn/n1/2025/0917/c1008-40566146.html|北京大学党委常委、副校长任羽中接受审查调查
+ren-yuzhong|expel|2025-12-08|http://society.people.com.cn/n1/2025/1208/c1008-40619887.html|北京大学原党委常委、副校长任羽中严重违纪违法被开除党籍和公职
+ren-yuzhong|verdict|2026-08-24|http://society.people.com.cn/n1/2026/0824/c1008-40785246.html|北京大学原党委常委、副校长任羽中受贿案一审宣判
+han-song-xa|probe|2025-07-14|http://society.people.com.cn/n1/2025/0714/c1008-40521384.html|陕西省西安市人大常委会党组书记、主任韩松接受审查调查
+han-song-xa|expel|2026-02-06|http://fanfu.people.com.cn/n1/2026/0206/c64371-40660933.html|陕西省西安市人大常委会原党组书记、主任韩松严重违纪违法被开除党籍和公职
+lu-wenjun|probe|2025-05-09|http://society.people.com.cn/n1/2025/0509/c1008-40476755.html|中国一重集团有限公司党委常委、副总经理陆文俊接受审查调查
+lu-wenjun|expel|2025-10-27|http://society.people.com.cn/n1/2025/1027/c1008-40590394.html|中国一重原党委常委、副总经理陆文俊严重违纪违法被开除党籍和公职
+long-xiang|probe|2025-04-03|http://society.people.com.cn/n1/2025/0403/c1008-40453318.html|江苏省南京市人大常委会党组书记、主任龙翔接受审查调查
+long-xiang|expel|2025-09-28|http://society.people.com.cn/n1/2025/0928/c1008-40573934.html|江苏省南京市人大常委会原党组书记、主任龙翔严重违纪违法被开除党籍和公职
+long-xiang|verdict|2026-08-11|http://society.people.com.cn/n1/2026/0811/c1008-40777680.html|江苏省南京市人大常委会原党组书记、主任龙翔受贿、贪污、滥用职权、内幕交易案一审宣判
+yuan-guangyu|probe|2025-03-01|http://politics.people.com.cn/n1/2025/0301/c1001-40428788.html|中国海洋石油集团有限公司原党组成员、副总经理袁光宇接受审查调查
+yuan-guangyu|expel|2025-07-31|http://society.people.com.cn/n1/2025/0731/c1008-40533691.html|中国海油原党组成员、副总经理袁光宇严重违纪违法被开除党籍
+yuan-guangyu|verdict|2026-06-17|http://society.people.com.cn/n1/2026/0617/c1008-40742595.html|中国海洋石油集团有限公司原党组成员、副总经理袁光宇受贿案一审宣判
+chen-xiaobo|probe|2024-10-10|http://society.people.com.cn/n1/2024/1010/c1008-40336187.html|海南省纪委副书记、省监委副主任陈笑波接受审查调查
+chen-xiaobo|expel|2025-04-07|http://society.people.com.cn/n1/2025/0407/c1008-40454960.html|海南省纪委原副书记、省监委原副主任陈笑波严重违纪违法被开除党籍和公职
+cao-xingxin|probe|2024-09-28|http://politics.people.com.cn/n1/2024/0928/c1001-40330144.html|中国联合网络通信集团有限公司党组成员、副总经理曹兴信接受中央纪委国家监委纪律审查和监察调查
+cao-xingxin|expel|2025-02-24|http://society.people.com.cn/n1/2025/0224/c1008-40424720.html|中国联通原党组成员、副总经理曹兴信严重违纪违法被开除党籍和公职
+cao-xingxin|verdict|2025-10-28|http://politics.people.com.cn/n1/2025/1028/c461001-40591572.html|中国联合网络通信集团有限公司原党组成员、副总经理曹兴信受贿案一审宣判
+xu-zuo|probe|2024-06-09|http://politics.people.com.cn/n1/2024/0609/c1001-40253452.html|中国中信集团有限公司党委委员、副总经理徐佐接受中央纪委国家监委纪律审查和监察调查
+xu-zuo|expel|2024-12-12|http://society.people.com.cn/n1/2024/1212/c1008-40380924.html|中信集团原党委委员、副总经理徐佐严重违纪违法被开除党籍和公职
+xu-zuo|verdict|2025-12-12|http://society.people.com.cn/n1/2025/1212/c1008-40623334.html|中国中信集团有限公司原党委委员、副总经理徐佐受贿、非法经营同类营业案一审宣判
+zhang-ping-gz|probe|2024-04-03|http://society.people.com.cn/n1/2024/0403/c1008-40209627.html|贵州省纪委副书记、省监委副主任张平接受中央纪委国家监委纪律审查和监察调查
+zhang-ping-gz|expel|2024-10-07|http://politics.people.com.cn/n1/2024/1007/c1001-40333825.html|贵州省纪委原副书记、省监委原副主任张平严重违纪违法被开除党籍和公职
+zhang-ping-gz|verdict|2025-06-30|http://society.people.com.cn/n1/2025/0630/c1008-40512086.html|贵州省纪委原副书记、省监委原副主任张平受贿案一审宣判
+li-jiping|probe|2024-03-13|http://fanfu.people.com.cn/n1/2024/0313/c64371-40195002.html|国家开发银行原党委委员、副行长李吉平接受审查调查
+li-jiping|expel|2024-08-01|http://fanfu.people.com.cn/n1/2024/0801/c64371-40290633.html|国家开发银行原党委委员、副行长李吉平严重违纪违法被开除党籍
+li-jiping|verdict|2025-04-21|http://society.people.com.cn/n1/2025/0421/c1008-40464899.html|国家开发银行原党委委员、副行长李吉平受贿案一审宣判
+long-fei|probe|2024-02-05|http://society.people.com.cn/n1/2024/0205/c1008-40173846.html|中国南方电网有限责任公司党组成员、纪检监察组组长龙飞接受审查调查
+long-fei|expel|2024-08-01|http://fanfu.people.com.cn/n1/2024/0801/c64371-40290634.html|南方电网原党组成员、纪检监察组组长龙飞严重违纪违法被开除党籍和公职
+long-fei|trial|2025-03-21|http://society.people.com.cn/n1/2025/0321/c1008-40444067.html|中国南方电网有限责任公司原党组成员、纪检监察组组长龙飞受贿案一审开庭
+long-fei|verdict|2025-06-10|http://society.people.com.cn/n1/2025/0610/c1008-40497939.html|中国南方电网有限责任公司原党组成员、纪检监察组组长龙飞受贿案一审宣判
+lu-wenjun|verdict|2026-08-10|https://www.court.gov.cn/fabu/xiangqing/508301.html|中国一重集团有限公司原党委常委、副总经理陆文俊受贿案一审宣判|2026年8月10日，湖南省湘潭市中级人民法院>>各界群众三十余人旁听了庭审。
+chen-xiaobo|verdict|2026-01-20|https://www.court.gov.cn/fabu/xiangqing/486891.html|海南省纪委原副书记、省监委原副主任陈笑波受贿案一审宣判|2026年1月20日，上海市第一中级人民法院>>各界群众50余人旁听了庭审。
+# ───── batch 4: CS1 / CS2 others ─────
+liu-yi|probe|2023-01-19|https://www.sport.gov.cn/n315/n20001395/c25123802/content.html|中国足协执委、原秘书长刘奕接受监察调查|中国足球协会第十一届执委会成员>>湖北省监委监察调查。
+liu-yi|verdict|2024-12-11|https://www.news.cn/20241211/7e5a4775e5bf4e1a849c069cb00293a0/c.html|刘奕受贿案一审宣判|新华社武汉12月11日电>>上缴国库，不足部分继续追缴。
+he-wen|caijing|2018-11-24|https://news.sina.com.cn/c/2018-11-24/doc-ihmutuec3278063.shtml|14人贪腐1360亿不实 高官涉福彩腐败窝案背后惊心|《财经》记者获得的司法材料显示，王保安的部分受贿款项;贺文被带走调查的时间是2016年4月左右;现年55岁的贺文毕业于北京大学;贺文成立银都新天地显然是为进入彩票领域准备;2015年7月，新华社《经济参考报》记者王文志实名举报;司法材料显示，王保安曾为贺文掌控的中彩在线提供审批方面的帮助;文章发表后不久，时任中彩在线总经理的贺文
+he-wen|out|2021-08-16|https://finance.sina.com.cn/china/gncj/2021-08-16/doc-ikqcfncc3164515.shtml|福彩黑幕“关键人”贺文出狱两年：再曝“强夺”一民办高校控制权|贺文获刑两年零六个月;2019年7月，贺文刑满释放;2016年4月27日，贺文东窗事发被调查;河北一位政法系统知情人士透露;这位知情人士表示，法院查明中国福彩;“法院另外查明贺文犯受贿罪、洗钱罪等
+zhang-huayu|expel|2022-07-04|http://m.ccdi.gov.cn/content/73/66/92497.html|中国光大银行原党委副书记、副行长张华宇被开除党籍
+zhang-huayu|verdict|2023-08-11|http://www.news.cn/2023-08/11/c_1129799545.htm|中国光大银行原党委副书记、副行长张华宇受贿、利用影响力受贿案一审公开宣判
+luo-min|verdict|2018-07-17|http://www.thepaper.cn/newsDetail_forward_2271457|云南女厅官获刑十年半：被指是领导情人，多个男官员受其牵连|罗敏：1967年3月生;日前，云南高院发布的刑事裁定书显示;今年6月4日，省高院作出终审裁定;2015年7月15日，时年48岁;2013年8月，万仁礼升为云南省联社理事长;2018年5月11日，曾是云南省农村信用社联合社党委书记的蒋兆岗;2017年6月，云南省农信社原党委书记、理事长万仁礼;媒体报道显示：2011年2月;万仁礼和施增荣均是云南省农信社的老人;《南方周末》也曾披露;判决书中显示：罗敏利用职务上的便利
+jiang-zhaogang|verdict|2019-03-20|https://www.xinhuanet.com/politics/2019-03/20/c_1124261017.htm|西南林业大学原校长蒋兆岗一审被判15年|新华社昆明3月20日电>>250万元农信股金及相关孳息依法没收上缴国库。
+wan-renli|verdict|2019-01-23|https://www.jiemian.com/article/2828271.html|云南省农信社腐败窝案：违规放贷，“烂尾楼”致国有资产损失上亿元|2019年1月22日，“红河政法委”微信公众号;上述三人被业界称为云南省农信社“三驾马车”;率先被查的是原主任罗敏;万仁礼的落马也直指曹建方案
+xie-kemin|expel|2014-07-05|http://fanfu.people.com.cn/n/2014/0705/c64371-25242904.html|山西省监察厅原副厅长谢克敏被开除党籍公职|日前，山西省纪委对省监察厅原副厅长谢克敏>>由山西省监察厅报山西省人民政府批准。
+xie-kemin|gaoping|2014-08-26|https://www.chinanews.com/cj/2014/08-26/6529765.shtml|山西高平三任市长先后落马:涉煤炭利益 或相互揭发|2013年6月，主政高平长达7年的谢克敏;谢克敏落马后，当地流传的版本较多
+zhou-jiping|retire|2015-05-04|https://www.chinanews.com/cj/2015/05-04/7251764.shtml|中国三桶油集体换帅 “两退两调一升”均为石油人|根据三家企业披露的消息;按照惯例，央企一把手的退休年龄为60周岁;与其不同的是，周吉平一直就任于中石油;周吉平在任期间，正值中石油史上最强
+zhou-jiping|npc|2014-03-05|http://zqb.cyol.com/html/2014-03/05/nw.D110000zgqnb_20140305_2-T01.htm|垄断行业“老大”谈反腐|3月4日上午10时许，全国政协委员;周吉平表示，中石油内部在廉政文化
+wang-wenzhi|report|2014-04-17|https://www.chinanews.com/gn/2014/04-17/6077550.shtml|实名举报记者回应宋林被查：中央反腐决心给我勇气|中新网4月17日电;4月15日晚，微博认证为新华社;而在去年7月，王文志曾在微博举报宋林
+li-jianjun-cr|report|2013-08-05|https://www.bbc.com/zhongwen/simp/china/2013/08/130805_lijianjun_crc|李建军向香港廉署和警方举报华润高管|在微博实名举报华润集团高层贪腐的山西晚报前记者李建军;李建军指，宋林涉嫌勾结国内富商
+li-jianjun-cr|hk|2013-08-05|https://www.voachinese.com/a/li-jianjun-20130805/1723586.html|揭黑记者赴香港廉政公署举报华润集团高层|最早在中国大陆揭发央企华润集团下属;最初，李建军的指控没有造成太大影响;李建军表示，他多年来揭黑反腐
+zhang-xinming|charge|2026|https://www.jiemian.com/article/14914496.html|【深度】“山西前首富”涉黑案公诉：黑金、赌局与三十年煤炭江湖|界面新闻从相关渠道获悉，2025年底;2024年11月4日，刚过完61岁生日;张新明1963年10月出生于山西省古交市;2014年，张新明因涉嫌行贿、洗钱等罪名;为在诉讼中夺回股权，张新明走上了司法勾兑之路;界面新闻了解到，2014-2020年;张新明随即做出两个决定;金业集团焦化厂投产时
+xing-libin|lvliang|2014-09-11|http://energy.people.com.cn/n/2014/0911/c71661-25642694.html|山西吕梁反腐探源:在当地做官跟钱斗成公开秘密|在吕梁反腐中，牵扯最广>>最终成为山西反腐的一个引爆点。
+xing-libin|died|2023-09-05|https://www.infzm.com/contents/256139|一代“传奇”煤老板落幕，逾百亿资产引三首富斗法|这些煤矿原属山西最大的民营煤企联盛集团
+wang-yujun|verdict|2016-06-21|https://www.chinanews.com/sh/2016/06-21/7912376.shtml|华润电力原执行董事王玉军被控贪污受贿 一审获刑10年半|中新网南京6月21日电;据检方指控：2005年10月至2013年初
+wang-yujun|bjnews|2016-06-21|https://www.bjnews.com.cn/detail/155150606014472.html|华润电力原总裁王玉军受贿贪污430余万 获刑10年半|新京报快讯(记者赵毅波);由江苏镇江检察院立案侦查并提起公诉;江苏省检察院称，2005年10月至2013年初
+huang-daoguo|police|2014-08-25|http://finance.people.com.cn/n/2014/0825/c1004-25529558.html|华润集团原审计总监黄道国被查 涉非法获取国家秘密|据《经济参考报》记者了解的最新消息>>审计署农业与资源环保审计司司长。
+cheng-boming|verdict|2017-11-13|http://finance.sina.com.cn/stock/y/2017-11-13/doc-ifynshev5789842.shtml|中信证券原高管程博明因受贿罪被判3.6年 和股灾无关|财新网报道称，中信证券原总经理程博明;2016年4月29日消息;据财新记者了解，程博明去年12月被判有期徒刑三年六个月;程博明为经济学博士
+cheng-boming|probe|2015-09-16|http://money.people.com.cn/stock/n/2015/0916/c67815-27590757.html|中信证券总经理程博明涉内幕交易被查|中信证券股份有限公司总经理程博明、运营管理部负责人>>中信产业投资基金管理有限公司董事。
+zhuang-xinyi|retire|2015-09-16|http://finance.people.com.cn/stock/n/2015/0916/c67815-27590772.html|李超履任证监会副主席 庄心一到龄退休|人力资源和社会保障部15日发布的信息显示>>曾先后分管证券机构、上市公司监管、资本市场法治建设等主要工作。
+zhuang-xinyi|bio|2015-09-15|http://district.ce.cn/newarea/sddy/201509/15/t20150915_6490153_1.shtml|李超任中国证监会副主席 庄心一不再担任（简历）|庄心一，1955年4月出生>>副主席、党委委员。(简历来源：证监会网站)
+liu-shufan|police|2015-08-31|https://www.nbd.com.cn/articles/2015-08-31/942625.html|证监会刘书帆被采取刑事强制措施 曾助某上市公司定增通过发审会|中国证监会工作人员刘书帆在接受调查时供述;另据刘书帆交代;记者从有关部门获悉，备受关注的中信证券
+liu-shufan|caixin|2015-08-26|https://finance.caixin.com/2015-08-26/100843768.html|证监会刘书帆、欧阳健生协助调查|8月25日晚被公布的证监会两位;财新记者通过多个渠道证实
+li-liang|cyb|2016-11-11|http://politics.people.com.cn/n1/2016/1111/c1001-28852421.html|证监会首个落马官员昨受审 收受700万助9公司上市|江苏扬州市中院昨日公开审理>>其涉嫌犯罪问题已经移送司法机关处理。
+li-liang|trial|2016-11-10|https://m.news.cctv.com/2016/11/10/ARTIhzeurCsiDevSpcU3PUan161110.shtml|中国证监会投资者保护局原局长李量受贿案一审开庭
+li-zhiling|appeal|2018-10-17|http://www.bjnews.com.cn/news/2018/10/17/511664.html|证监会“最牛女处长” 终审获无期 索贿金额有增加|新京报快讯(记者刘洋);1973年出生的李志玲，博士研究生文化;经审理，一审法院认定其犯受贿罪
+li-zhiling|ruling|2018-09-28|https://www.thepaper.cn/newsDetail_forward_2485179|证监会“最牛女处长”终审被判无期：同前夫强卖字画索贿千万|证监会“最牛女处长”李志玲受贿案终审落判;裁定书显示，2015年6月19日;2018年9月20日，北京高院对李志玲案;李志玲和乔东方曾是夫妻
+li-feng-ln|npc|2016-10-26|https://china.caixin.com/m/2016-10-26/101000746.html|辽宁人大常委会副主任李峰涉贿选被免全国人大代表|李峰出身公安系统;【财新网】（记者 崔先康 综合报道）;9月中旬，辽宁省人大常委会官网更新显示
+li-feng-ln|recall|2016-09-17|https://m.thepaper.cn/newsDetail_forward_1530214|454名辽宁省人大代表资格终止，涉拉票贿选案|记者从辽宁省人大获悉，9月17日
+fang-wei|recall|2014-06-27|https://web.archive.org/web/20160828174639/http://www.npc.gov.cn/wxzl/gongbao/2014-08/22/content_1879698.htm|第十二届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告|由辽宁省选出的第十二届全国人民代表大会代表，抚顺炭素>>方威的代表资格终止。
+fang-wei|npc|2016-09-13|http://politics.people.com.cn/n1/2016/0913/c1001-28713718.html|全国人大常委会确定辽宁45名全国人大代表因拉票贿选当选无效|根据全国人大常委会公告，以下45名全国人大代表当选无效>>燕福龙、魏立东。
+li-zhaoqian|post|2014-10-30|http://renshi.people.com.cn/n/2014/1030/c139617-25935919-2.html|李兆前任国家安监总局党组成员、副局长（图/简历）|李兆前，男，汉族>>国家安全生产监督管理总局党组成员、副局长。
+lou-he|verdict|2023-12-24|https://www.bjnews.com.cn/detail/1703432972129757.html|锦州娄河涉黑案：行贿1.22亿撑起保护伞，造假“洗白”避刑责|2023年9月，辽宁省锦州市中级人民法院作出判决;法院判决确认，娄河多年来利用行贿手段;卷宗材料显示，2020年11月12日娄河在吉林落网;娄河团伙的犯罪发迹于二十世纪九十年代;娄河得知王立科被组织审查
+ma-shaowei|appeal|2023-08-19|https://www.thepaper.cn/newsDetail_forward_24693579|木里煤田整治风暴背后的罪与非罪：青海首富肖永明等企业家获判无罪|澎湃新闻了解到，今年8月19日;据法院认定，兴青公司于2006年10月至2020年7月;法院还认定，2016年至2020年期间;2020年8月4日，一篇《青海“隐形首富”;与此同时，青海省公安机关对青海省兴青工贸

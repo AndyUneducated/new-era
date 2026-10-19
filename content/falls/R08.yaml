@@ -1,0 +1,1088 @@
+# R08: case records for people the CS1 / CS2 case studies and the A02 / R06 fall lists left undone
+# (research/falls-list/R08.yaml). Notices, indictments and verdicts are stored under sources/text/r08-*.
+
+# ───── 足坛反腐 ─────
+li-tie:
+  sys: culture
+  grade: none
+  amount: { yuan: 50890000, text: 法院认定 2019—2021 年任国家队主教练期间受贿 5089 万余元；另认定收受华夏俱乐部 2675 万元（非国家工作人员受贿）, cite: cs2-thepaper-2025-04-30-li-tie-appeal }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源；中央纪委专题片称他是足坛专案第一个被留置的人，专案以他为突破口展开, cite: cs2-people-2024-01-10-sanbufu-ep4 }
+  with:
+    - { id: chen-xuyuan, name: 陈戌源, rel: patron, text: 卓尔俱乐部为让李铁当上国家选拔队主教练向时任足协主席陈戌源行贿 200 万元, cite: cs2-xinhua-2024-01-09-li-tie-bribe }
+    - { name: 刘奕, rel: patron, text: 李铁自掏腰包给时任足协秘书长刘奕 100 万元，请其支持, cite: cs2-xinhua-2024-01-09-li-tie-bribe }
+  politics:
+    level: none
+    why: 足坛系统性腐败案，官方定性为买官、假球和受贿，未见政治关联报道
+    cites: [cs2-people-2024-01-10-sanbufu-ep4]
+  voices:
+    - { voice: official, text: 中央纪委专题片称李铁两次带队冲超背后都是大量假球，以他为突破口牵出从联赛到国家队、从俱乐部到足协的一批人, cite: cs2-people-2024-01-10-sanbufu-ep4 }
+  outcome: sentenced
+
+chen-xuyuan:
+  sys: culture
+  grade: none
+  amount: { yuan: 81030000, text: 法院认定 2010—2023 年受贿 8103 万余元，其中 400 万元未实际取得, cite: cs2-xinhua-2024-03-26-chen-xuyuan-verdict }
+  trigger: { kind: chain, text: 中央纪委专题片称足坛专案以李铁为突破口，随后中国足协十多名高层和中层干部接受审查调查，其中包括陈戌源, cite: cs2-people-2024-01-10-sanbufu-ep4 }
+  with:
+    - { id: li-tie, name: 李铁, rel: briber, text: 卓尔俱乐部为推荐李铁任国家选拔队主教练向他行贿 200 万元, cite: cs2-xinhua-2024-01-09-li-tie-bribe }
+    - { id: du-zhaocai, name: 杜兆才, rel: colleague, text: 时任国家体育总局副局长、足协党委书记，与陈戌源同在足坛专案中接受审查调查, cite: cs2-people-2024-01-10-sanbufu-ep4 }
+  politics:
+    level: none
+    why: 足坛系统性腐败案，法院认定其在上港集团和足协任上受贿，未见政治关联报道
+    cites: [cs2-xinhua-2024-03-26-chen-xuyuan-verdict]
+  voices:
+    - { voice: official, text: 中央纪委专题片称他当选足协主席前一晚，两名地方足协负责人各送上 30 万元“拜码头”, cite: cs2-people-2024-01-10-sanbufu-ep4 }
+    - { voice: zh, text: BBC 中文称 2009 年足坛反腐案被捕最高层官员涉案金额约 120 万至 200 万元，陈戌源公开的涉案金额超过 8100 万元, cite: cs2-bbc-2024-02-13-football }
+  outcome: sentenced
+
+# ───── 烟草 ─────
+xu-ying:
+  sys: central
+  grade: vice
+  notice:
+    date: 2024-11-20
+    cite: r08-ccdi-2024-11-20-xu-ying-expel
+    quotes:
+      - 对抗组织审查
+      - 为多名亲属在入职、工作调动等方面谋取利益
+      - “靠烟吃烟”、大搞权钱交易
+  discipline: [political, organization, integrity, life, eight]
+  amount: { yuan: 65330000, text: 法院认定 2010 年 3 月至 2024 年 4 月直接或通过其妻等人受贿 6533 万余元, cite: r08-people-2025-08-13-xu-ying-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-ccdi-2024-11-20-xu-ying-expel }
+  politics:
+    level: none
+    why: 烟草系统受贿案，通报和判决只涉及行政审批、企业经营、职工录用等方面谋利，未见政治关联报道
+    cites: [r08-ccdi-2024-11-20-xu-ying-expel]
+  outcome: sentenced
+
+# ───── 云南 ─────
+gao-jinsong:
+  sys: local
+  grade: bureau
+  amount: { yuan: 11913603, text: 公诉机关指控 2000—2015 年受贿 1191.36 万余元，法院以受贿罪判处有期徒刑 9 年, cite: r08-legaldaily-2017-02-24-gao-jinsong-verdict }
+  trigger: { kind: unknown, text: 云南省纪委只通报其涉嫌严重违纪违法，未说明线索来源, cite: r08-gov-2015-04-11-gao-jinsong-probe }
+  with:
+    - { id: bai-enpei, name: 白恩培, rel: patron, text: 法院认定他 2010、2011 年春节两次通过白恩培之妻张慧清向时任云南省委书记白恩培行贿港币 200 万元以谋升迁, cite: r08-legaldaily-2017-02-24-gao-jinsong-verdict }
+  politics:
+    level: linked
+    why: 法院认定他向白恩培行贿买官；他是继仇和、张田欣之后一年内连续第三位落马的昆明市委书记，属白恩培、秦光荣时期云南官场清洗的一部分
+    cites: [r08-legaldaily-2017-02-24-gao-jinsong-verdict, r08-wiki-gao-jinsong]
+  voices:
+    - { voice: zh, text: BBC 中文引《环球时报》所引厅级干部称，云南官场传闻高劲松曾向白恩培行贿买官, cite: cs2-bbc-2015-04-11-gao-jinsong }
+  outcome: sentenced
+
+su-hongbo:
+  sys: other
+  grade: none
+  amount: { yuan: 47800000, text: 检方指控收受林某 10 万美元、4780 万元及代付房费 19 万余元；判决结果未见公开报道, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
+  trigger: { kind: unknown, text: 起诉书只说他 2018 年 7 月 17 日在珠海被公安机关抓获，未说明线索来源, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
+  with:
+    - { id: cao-jianfang, name: 曹建方, rel: patron, text: 检方指控他利用与云南省委原秘书长曹建方的关系为他人谋利，并为感谢曹建方多次送钱、为其外孙付保险费, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
+    - { id: qin-guangrong, name: 秦光荣, rel: patron, text: 中央纪委网站称秦光荣亲切地称他“洪波”，看重他的关系背景，在一些干部问题上听从他的意见, cite: cs2-ccdi-2020-05-06-su-hongbo }
+  politics:
+    level: linked
+    why: 中央纪委网站把他定性为污染云南政治生态的政治掮客、“地下组织部长”，并把他与秦光荣的小圈子和曹建方、蒋兆岗、万仁礼等人的提拔联系起来
+    cites: [cs2-ccdi-2020-05-06-su-hongbo]
+  voices:
+    - { voice: official, text: 中央纪委网站称秦光荣在忏悔录中写道，自己担任省委书记后对苏洪波既讨好拉拢又忌惮畏惧，助长了他的嚣张气焰, cite: cs2-ccdi-2020-05-06-su-hongbo }
+
+# ───── 金融 ─────
+tian-huiyu:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2022-10-08
+    cite: r08-ccdi-2022-10-08-tian-huiyu-expel
+    quotes:
+      - 贯彻落实党中央关于金融工作的重大决策部署不坚决、打折扣
+      - 大搞权力与资本勾连，靠金融吃金融
+      - 生活腐化、道德败坏
+  discipline: [political, organization, integrity, eight]
+  amount: { yuan: 210000000, text: 法院认定 1997—2022 年受贿 2.1 亿余元；另利用未公开信息交易非法获利 2.9 亿余元, cite: r08-people-2024-02-05-tian-huiyu-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-ccdi-2022-04-22-tian-huiyu-probe }
+  politics:
+    level: none
+    why: 通报和判决只涉及金融领域权钱交易；维基百科称他曾任王岐山在建设银行时的秘书，但未见可靠来源把案件与王岐山联系起来
+    cites: [r08-ccdi-2022-10-08-tian-huiyu-expel, r08-wiki-tian-huiyu]
+  voices:
+    - { voice: wiki, text: 维基百科引财新网称，他兼任招银国际董事长时主持在宁德时代上市前多轮增资、上市后减持，个人也借“投资理财”安排置身其中, cite: r08-wiki-tian-huiyu }
+  outcome: sentenced
+
+xu-xiang:
+  sys: finance
+  grade: none
+  trigger: { kind: incident, text: 2015 年股市异常巨幅波动后，公安部副部长孟庆丰带队赴证监会部署打击证券期货违法犯罪，徐翔在这一专项行动中被采取强制措施, cite: r08-chinanews-2015-11-04-xu-xiang-police }
+  politics:
+    level: none
+    why: 官方定性为操纵证券市场，未见可靠来源报道政治关联
+    cites: [r08-huxiu-2017-01-23-xu-xiang-verdict]
+  voices:
+    - { voice: zh, text: 中新网统计称，2015 年 7 月以来至少 18 人被公安机关调查，除徐翔外，涉中信证券 11 人、证监会系 3 人, cite: r08-chinanews-2015-11-04-xu-xiang-police }
+  outcome: released
+
+# ───── 福彩 ─────
+wang-suying:
+  sys: central
+  grade: bureau
+  amount: { yuan: 1870000, text: 财新称法院认定受贿 187 万元，另有 804 万元财产来源不明, cite: r08-caixin-2020-01-07-wang-suying-detail }
+  trigger: { kind: inspect, text: 驻民政部纪检监察组称，中央巡视组、中央纪委国家监委先后移交了数十件涉及民政部局处级干部的问题线索, cite: cs2-people-2018-11-09-lottery-14 }
+  with:
+    - { id: bao-xuequan, name: 鲍学全, rel: colleague, text: 前任福彩中心主任，2017 年被“双开”, cite: cs2-people-2018-11-09-lottery-14 }
+    - { id: feng-lizhi, name: 冯立志, rel: colleague, text: 福彩中心原副主任，与她同被留置, cite: cs2-people-2018-11-09-lottery-14 }
+  politics:
+    level: none
+    why: 福彩领域系统性腐败案，官方通报只涉及彩票业务费流失和受贿，未见政治关联报道
+    cites: [r08-thepaper-2020-01-07-wang-suying-verdict]
+  voices:
+    - { voice: official, text: 驻民政部纪检监察组称先后与她谈话 14 次，她却与有关人员订立攻守同盟、转移赃款赃物，对抗组织审查, cite: cs2-people-2018-11-09-lottery-14 }
+  outcome: sentenced
+
+bao-xuequan:
+  sys: central
+  grade: bureau
+  notice:
+    date: 2017-08-27
+    cite: cs2-people-2017-08-28-bao-wang-expel
+    quotes:
+      - 超标准使用办公用房
+      - 与他人发生不正当性关系
+  discipline: [integrity, life, eight]
+  trigger: { kind: inspect, text: 驻民政部纪检监察组称福彩领域问题线索由中央巡视组、中央纪委国家监委先后移交, cite: cs2-people-2018-11-09-lottery-14 }
+  with:
+    - { id: wang-yunge, name: 王云戈, rel: colleague, text: 福彩中心原副主任，与他同日被“双开”, cite: cs2-people-2017-08-28-bao-wang-expel }
+  politics:
+    level: none
+    why: 福彩领域系统性腐败案，未见政治关联报道
+    cites: [cs2-people-2017-08-28-bao-wang-expel]
+  outcome: expelled
+
+wang-yunge:
+  sys: central
+  grade: bureau
+  notice:
+    date: 2017-08-27
+    cite: cs2-people-2017-08-28-bao-wang-expel
+    quotes:
+      - 违反政治纪律，对抗组织审查
+      - 长期公车私用
+      - 涉嫌泄露国家秘密犯罪
+  discipline: [political, integrity, life, eight]
+  trigger: { kind: inspect, text: 驻民政部纪检监察组称福彩领域问题线索由中央巡视组、中央纪委国家监委先后移交, cite: cs2-people-2018-11-09-lottery-14 }
+  with:
+    - { id: bao-xuequan, name: 鲍学全, rel: colleague, text: 福彩中心原主任，与他同日被“双开”, cite: cs2-people-2017-08-28-bao-wang-expel }
+  politics:
+    level: none
+    why: 福彩领域系统性腐败案，未见政治关联报道
+    cites: [cs2-people-2017-08-28-bao-wang-expel]
+  voices:
+    - { voice: official, text: 他在忏悔视频中说，中央巡视组巡视期间心存侥幸，没有向组织坦白, cite: cs2-people-2018-11-09-lottery-14 }
+  outcome: expelled
+
+feng-lizhi:
+  sys: central
+  grade: bureau
+  amount: { yuan: 5850000, text: 法院认定受贿 585 万余元，滥用职权造成 1.6 亿余元彩票业务费流失, cite: r08-people-2019-04-14-feng-lizhi-verdict }
+  trigger: { kind: inspect, text: 驻民政部纪检监察组称福彩领域问题线索由中央巡视组、中央纪委国家监委先后移交, cite: cs2-people-2018-11-09-lottery-14 }
+  with:
+    - { id: wang-suying, name: 王素英, rel: colleague, text: 福彩中心原主任，与他同被留置, cite: cs2-people-2018-11-09-lottery-14 }
+  politics:
+    level: none
+    why: 福彩领域系统性腐败案，未见政治关联报道
+    cites: [r08-people-2019-04-14-feng-lizhi-verdict]
+  outcome: sentenced
+
+# ───── 周永康家族 ─────
+jia-xiaoye:
+  sys: other
+  grade: none
+  trigger: { kind: chain, text: 周永康案判决认定周滨、贾晓晔收受吴兵等人财物并事后告知周永康, cite: e03-xinhua-2015-06-11-zhou-verdict }
+  with:
+    - { id: zhou-yongkang, name: 周永康, rel: kin, text: 丈夫，前政治局常委，2015 年被判无期徒刑, cite: e03-xinhua-2015-06-11-zhou-verdict }
+    - { id: zhou-bin, name: 周滨, rel: kin, text: 周永康长子，周案判决认定与她共同收受财物, cite: e03-xinhua-2015-06-11-zhou-verdict }
+  politics:
+    level: core
+    why: 周永康案是十八大后最高级别的落马案，她作为周永康之妻随案被判
+    cites: [e03-xinhua-2015-06-11-zhou-verdict, r08-cri-2016-06-16-jia-xiaoye-verdict]
+  voices:
+    - { voice: zh, text: BBC 中文称宣判书没有说明她的受贿金额, cite: r08-bbc-2016-06-15-jia-xiaoye-bbc }
+  outcome: sentenced
+
+# ───── A02 余项：军工系统 ─────
+ma-zhengwu:
+  sys: soe
+  grade: vice
+  retired: 2025-07
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k05-cna-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 中国融通集团原董事长，与另外七名军工、能源系统委员同日被撤销政协委员资格；官方没有任何违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道
+    cites: [k05-cna-2025-12-24-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称 2025 年 7 月四川副省长李文清接任中国融通董事长时，马正武已超过半年未公开露面, cite: k05-cna-2025-12-24-cppcc }
+  outcome: missing
+  fall:
+    - { date: 2025-12-24, text: 全国政协主席会议审议通过关于撤销其全国政协委员资格的决定, cite: k05-cna-2025-12-24-cppcc }
+    - { date: 2026-03-02, text: 全国政协常委会会议追认关于撤销其全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+
+zhang-dongchen:
+  sys: soe
+  grade: vice
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k05-cna-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 中国星网原董事长，与曹建国、马正武等军工、能源系统委员同日被撤销政协委员资格；官方没有任何违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道
+    cites: [k05-cna-2025-12-24-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称撤销委员资格代表他们涉及严重违纪违法被查落马，其中多人是军工、能源系统的高官, cite: k05-cna-2025-12-24-cppcc }
+  outcome: missing
+
+zhou-xinmin:
+  sys: soe
+  grade: vice
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会的报告只写涉嫌违纪违法，未说明线索来源, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 航空工业集团原董事长，与中核集团原总工程师罗琦、中物院原院长刘仓理在同一份报告中被罢免；官方只写涉嫌违纪违法，本站未见把他与某一案件联系起来的可靠报道
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报称周新民、罗琦、刘仓理三人此前已缺席重要场合或因不明原因去职, cite: a02-zaobao-2026-04-18-nine-generals }
+  outcome: missing
+
+liu-cangli:
+  sys: edu
+  grade: vice
+  retired: 2024-07
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会的报告只写涉嫌违纪违法，未说明线索来源, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 核武器研究机构原负责人，与周新民、罗琦在同一份报告中被罢免，同期刘国治、杨伟也从中科院名单中消失，属军工科研系统的同一波；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [a02-wikisource-npc-qualification-reports, k05-zaobao-2026-03-20-cas]
+  voices:
+    - { voice: zh, text: 联合早报称 2026 年 3 月刘仓理已不在中国科学院全体院士名单内, cite: k05-zaobao-2026-03-20-cas }
+  outcome: missing
+
+zhang-kejian:
+  sys: central
+  grade: vice
+  retired: 2025-01
+  trigger: { kind: unknown, text: 全国政协常委会会议只写免去常委职务并撤销委员资格，未说明原因和线索来源, cite: k05-xinhua-2026-03-02-cppcc }
+  politics:
+    level: none
+    why: 国防科工局原局长，与韩卫国、刘雷、高津同一次会议被撤销政协委员资格；官方没有任何违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道
+    cites: [k05-xinhua-2026-03-02-cppcc]
+  outcome: missing
+
+# ───── R06 余项：已判刑 ─────
+ren-yuzhong:
+  sys: edu
+  grade: bureau
+  notice:
+    date: 2025-12-08
+    cite: r08-people-2025-12-08-ren-yuzhong-expel
+    quotes:
+      - 违规拥有非上市公司股份
+      - 公器私用，“靠校吃校”
+      - 利用职务便利为他人在教育培训、升学就业等方面谋利
+  discipline: [organization, integrity, eight]
+  amount: { yuan: 31950000, text: 法院认定 2006—2025 年受贿 3195 万余元, cite: r08-people-2026-08-24-ren-yuzhong-verdict }
+  trigger: { kind: surrender, text: 立案消息称其主动投案, cite: r08-people-2025-09-17-ren-yuzhong-probe }
+  politics:
+    level: none
+    why: 高校受贿案，通报和判决只涉及教育培训、升学就业方面谋利，未见政治关联报道
+    cites: [r08-people-2025-12-08-ren-yuzhong-expel]
+  outcome: sentenced
+
+lu-wenjun:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2025-10-27
+    cite: r08-people-2025-10-27-lu-wenjun-expel
+    quotes:
+      - 对抗组织审查
+      - 不如实报告个人有关事项
+      - 利用职务便利为他人在业务承揽、佣金支付、职务调整等方面谋利
+  discipline: [political, organization, integrity, eight]
+  amount: { yuan: 67980000, text: 法院认定 2002—2022 年受贿 6798 万余元, cite: r08-court-2026-08-10-lu-wenjun-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-05-09-lu-wenjun-probe }
+  politics:
+    level: none
+    why: 重型机械央企受贿案，判决只涉及业务承揽、佣金支付，未见政治关联报道
+    cites: [r08-court-2026-08-10-lu-wenjun-verdict]
+  outcome: sentenced
+
+long-xiang:
+  sys: local
+  grade: vice
+  notice:
+    date: 2025-09-28
+    cite: r08-people-2025-09-28-long-xiang-expel
+    quotes:
+      - 对抗组织审查，搞迷信活动
+      - 违规干预和插手司法活动和执纪执法活动
+      - 侵吞公共财物
+      - 徇私舞弊、滥权妄为，致使公共财产、国家和人民利益遭受重大损失
+  discipline: [political, organization, integrity, work, life, eight]
+  amount: { yuan: 261000000, text: 法院认定 2009 年 1 月至 2025 年 3 月受贿 2.61 亿余元，另与他人共谋骗取财政扶持资金 1200 万元, cite: r08-people-2026-08-11-long-xiang-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-04-03-long-xiang-probe }
+  politics:
+    level: none
+    why: 地方纪检出身官员的受贿、贪污案，判决认定他任市纪委书记期间包庇他人不被查处，但未见政治关联报道
+    cites: [r08-people-2026-08-11-long-xiang-verdict]
+  voices:
+    - { voice: official, text: 判决认定他任南京市纪委副书记、书记期间，在处置严重违纪违法问题线索时徇私情私利，包庇他人不被查处, cite: r08-people-2026-08-11-long-xiang-verdict }
+  outcome: sentenced
+
+yuan-guangyu:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2025-07-31
+    cite: r08-people-2025-07-31-yuan-guangyu-expel
+    quotes:
+      - 接受可能影响公正执行公务的打高尔夫球活动安排
+      - 退休后违规从事与原任职务管辖业务相关的营利活动、违规任职
+      - 肆无忌惮“靠石油吃石油”
+  discipline: [political, organization, integrity, life, eight]
+  amount: { yuan: 152000000, text: 法院认定 2001—2022 年受贿 1.52 亿余元, cite: r08-people-2026-06-17-yuan-guangyu-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-03-01-yuan-guangyu-probe }
+  politics:
+    level: none
+    why: 石油央企受贿案，判决只涉及项目承揽、企业经营、职务调整，未见政治关联报道
+    cites: [r08-people-2026-06-17-yuan-guangyu-verdict]
+  outcome: sentenced
+
+chen-xiaobo:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2025-04-07
+    cite: r08-people-2025-04-07-chen-xiaobo-expel
+    quotes:
+      - 对抗组织审查，大搞迷信活动
+      - 通过民间借贷获取大额回报
+      - 违规干预执纪执法活动，泄露工作秘密
+  discipline: [political, organization, integrity, work, life, eight]
+  amount: { yuan: 37350000, text: 法院认定 2007—2024 年受贿 3735 万余元, cite: r08-court-2026-01-20-chen-xiaobo-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-10-10-chen-xiaobo-probe }
+  politics:
+    level: none
+    why: 纪检干部受贿案，判决涉及的是他在县市主政时期的土地、工程和职务调整，未见政治关联报道
+    cites: [r08-court-2026-01-20-chen-xiaobo-verdict]
+  outcome: sentenced
+
+cao-xingxin:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2025-02-24
+    cite: r08-people-2025-02-24-cao-xingxin-expel
+    quotes:
+      - 政治意识淡漠，对党不忠诚不老实
+      - 在干部选拔任用工作中为他人谋取利益
+      - 违规干预和插手执法活动
+  discipline: [political, organization, integrity, work, life]
+  amount: { yuan: 26750000, text: 法院认定 2005—2024 年受贿 2675 万余元，其中大部分时间他在中组部任职, cite: r08-people-2025-10-28-cao-xingxin-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-09-28-cao-xingxin-probe }
+  politics:
+    level: none
+    why: 判决认定他在中组部干部局任职期间就为他人职务晋升提供帮助，属组织系统的买官卖官，但未见政治关联报道
+    cites: [r08-people-2025-10-28-cao-xingxin-verdict]
+  outcome: sentenced
+
+xu-zuo:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2024-12-12
+    cite: r08-people-2024-12-12-xu-zuo-expel
+    quotes:
+      - 弃守全面从严治党主体责任，污染任职企业政治生态
+      - 隐瞒不报家庭房产情况
+      - 大搞“靠企吃企”，违规经营任职企业同类营业，谋取巨额非法利益
+  discipline: [political, organization, integrity, life, eight]
+  amount: { yuan: 147000000, text: 法院认定 1999—2024 年受贿 1.47 亿余元，另认定非法经营同类营业获利特别巨大, cite: r08-people-2025-12-12-xu-zuo-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-06-09-xu-zuo-probe }
+  politics:
+    level: none
+    why: 央企高管受贿和“靠企吃企”案，未见政治关联报道
+    cites: [r08-people-2025-12-12-xu-zuo-verdict]
+  outcome: sentenced
+
+zhang-ping-gz:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2024-10-07
+    cite: r08-people-2024-10-07-zhang-ping-gz-expel
+    quotes:
+      - 对党不忠诚不老实，对抗组织审查
+      - 违规干预和插手执纪执法活动
+      - 长期与私营企业主深度“捆绑”
+  discipline: [political, organization, integrity, work, life, eight]
+  amount: { yuan: 47720000, text: 法院认定 2008 年上半年至 2023 年 12 月受贿 4772 万余元, cite: r08-people-2025-06-30-zhang-ping-gz-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-04-03-zhang-ping-gz-probe }
+  politics:
+    level: none
+    why: 纪检干部受贿案，判决涉及项目承揽、融资贷款、案件处理和职务晋升，未见政治关联报道
+    cites: [r08-people-2025-06-30-zhang-ping-gz-verdict]
+  outcome: sentenced
+
+li-jiping:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2024-08-01
+    cite: r08-people-2024-08-01-li-jiping-expel
+    quotes:
+      - 搞迷信活动
+      - 大肆干预、插手金融机构职工录用、职务晋升工作，污染政治生态
+      - 违规拥有非上市公司股份，大搞钱色交易
+  discipline: [political, organization, integrity, eight]
+  amount: { yuan: 57300000, text: 法院认定 2001—2021 年受贿 5730 万余元, cite: r08-people-2025-04-21-li-jiping-verdict }
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-03-13-li-jiping-probe }
+  politics:
+    level: none
+    why: 政策性银行受贿案，判决只涉及贷款审批、工程承揽，未见政治关联报道
+    cites: [r08-people-2025-04-21-li-jiping-verdict]
+  outcome: sentenced
+
+long-fei:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2024-08-01
+    cite: r08-people-2024-08-01-long-fei-expel
+    quotes:
+      - 长期频繁接受可能影响公正执行公务的宴请、健身和娱乐活动安排
+      - 借用管理和服务对象大额钱款，违规从事营利活动，大搞权色、钱色交易
+      - 执纪违纪，执法犯法
+  discipline: [organization, integrity, life, eight]
+  amount: { yuan: 6130000, text: 法院认定 2000—2023 年受贿 613 万余元, cite: r08-people-2025-06-10-long-fei-verdict }
+  trigger: { kind: surrender, text: 判决称其自动投案，具有自首情节, cite: r08-people-2025-06-10-long-fei-verdict }
+  politics:
+    level: none
+    why: 央企派驻纪检干部受贿案，未见政治关联报道
+    cites: [r08-people-2025-06-10-long-fei-verdict]
+  outcome: sentenced
+
+# ───── R06 余项：已开除 ─────
+han-song-xa:
+  sys: local
+  grade: vice
+  notice:
+    date: 2026-02-06
+    cite: r08-people-2026-02-06-han-song-xa-expel
+    quotes:
+      - 长期无偿借用管理和服务对象车辆
+      - 在干部选拔任用工作中为他人谋取利益并收受财物
+      - 利用职务便利为他人在企业经营、工程承揽等方面谋利
+  discipline: [organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-07-14-han-song-xa-probe }
+  politics:
+    level: none
+    why: 地方人大负责人受贿案，未见政治关联报道
+    cites: [r08-people-2026-02-06-han-song-xa-expel]
+  outcome: expelled
+
+li-baian:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2026-05-21
+    cite: r08-people-2026-05-21-li-baian-expel
+    quotes:
+      - 违规收受礼品、礼金，搞权色交易
+      - 将工程建设领域权力异化为谋取个人私利的工具
+      - 利用职务便利为他人在项目承揽、款项结算等方面谋利
+  discipline: [political, organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-11-16-li-baian-probe }
+  politics:
+    level: none
+    why: 央企工程建设领域受贿案，未见政治关联报道
+    cites: [r08-people-2026-05-21-li-baian-expel]
+  outcome: expelled
+
+guo-xueyi:
+  sys: edu
+  grade: bureau
+  notice:
+    date: 2026-07-23
+    cite: r08-people-2026-07-23-guo-xueyi-expel
+    quotes:
+      - 为获取学术奖项、学术称号送给他人礼品、礼金
+      - 与私营企业主大搞权钱交易
+      - 为谋取职务提拔向有关人员行贿
+      - 非法套取会议经费占为己有
+  discipline: [political, organization, integrity, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源；他被查两个月前，中南大学原校长张尧学被查, cite: r08-wiki-guo-xueyi }
+  with:
+    - { id: zhang-yaoxue, name: 张尧学, rel: patron, text: 中南大学原校长，2025 年 10 月落马；在其任上郭学益升任人事处处长和党委常委、副校长, cite: r08-wiki-guo-xueyi }
+  politics:
+    level: none
+    why: 高校系统腐败窝案的一环，与前校长张尧学先后被查，未见政治关联报道
+    cites: [r08-wiki-guo-xueyi, r08-people-2026-07-23-guo-xueyi-expel]
+  outcome: expelled
+
+wu-hao-cas:
+  sys: central
+  grade: bureau
+  notice:
+    date: 2026-10-14
+    cite: r08-people-2026-10-14-wu-hao-expel
+    quotes:
+      - 对抗组织审查
+      - 不按规定报告个人有关事项
+      - 利用职务便利为他人在投资项目审批、上市项目审核、重点企业资质评审等方面谋利
+  discipline: [political, organization, integrity, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-04-25-wu-hao-probe }
+  politics:
+    level: none
+    why: 发改委系统审批权受贿案，未见政治关联报道
+    cites: [r08-people-2026-10-14-wu-hao-expel]
+  outcome: expelled
+
+han-song-cr:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2026-07-25
+    cite: r08-people-2026-07-25-han-song-cr-expel
+    quotes:
+      - 搞迷信活动
+      - 纵容、默许亲属违规取酬
+      - 违规干预和插手市场经济活动
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger: { kind: surrender, text: 立案消息称其主动投案, cite: r08-people-2026-02-28-han-song-cr-probe }
+  politics:
+    level: none
+    why: 央企高管受贿案，未见政治关联报道
+    cites: [r08-people-2026-07-25-han-song-cr-expel]
+  outcome: expelled
+
+xu-yiding:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2026-08-17
+    cite: r08-people-2026-08-17-xu-yiding-expel
+    quotes:
+      - 违规占用原任职单位财物
+      - 将扶贫助农信贷权力异化为谋取个人私利的工具
+      - 利用职务便利为他人在项目贷款审批、发放等方面谋利
+  discipline: [organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-02-07-xu-yiding-probe }
+  politics:
+    level: none
+    why: 政策性银行信贷审批受贿案，未见政治关联报道
+    cites: [r08-people-2026-08-17-xu-yiding-expel]
+  outcome: expelled
+
+lian-ji:
+  sys: culture
+  grade: vice
+  notice:
+    date: 2026-10-09
+    cite: r08-people-2026-10-09-lian-ji-expel
+    quotes:
+      - 违规以“润笔费”名义收受他人所送钱款
+      - 在干部选拔任用等工作中违规为他人谋取利益
+      - 利用职务便利为他人在企业经营、工程承揽、职务调整等方面谋利
+  discipline: [organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-02-03-lian-ji-probe }
+  politics:
+    level: none
+    why: 维基百科称他任中国艺术研究院院长时曾接管、整顿《炎黄春秋》，但通报只涉及收钱和用人，未见把此案与政治问题联系起来的报道
+    cites: [r08-wiki-lian-ji, r08-people-2026-10-09-lian-ji-expel]
+  outcome: expelled
+
+bao-hui:
+  sys: local
+  grade: vice
+  retired: 2025-03
+  notice:
+    date: 2026-10-14
+    cite: r08-people-2026-10-14-bao-hui-expel
+    quotes:
+      - 违背党中央防范化解重大金融风险重要要求，违规决策造成重大金融风险
+      - 政绩观错位搞“政绩工程”
+      - 家风不正，对家人失管失教
+      - 利用职务便利为他人在商业银行改制、获取建设用地、工程项目承揽等方面谋利
+  discipline: [political, organization, integrity, work, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-01-27-bao-hui-probe }
+  politics:
+    level: none
+    why: 地方主政官员受贿和违规决策案，通报点名金融风险和政绩工程，未见政治关联报道
+    cites: [r08-people-2026-10-14-bao-hui-expel]
+  outcome: expelled
+
+yang-hongyong:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2026-07-27
+    cite: r08-people-2026-07-27-yang-hongyong-expel
+    quotes:
+      - 违规拆分出访团组并延长出访期限
+      - 违规经商办企业，利用职务影响为亲属谋利
+      - 执纪违纪，执法犯法
+  discipline: [political, organization, integrity, work, eight]
+  trigger: { kind: surrender, text: 立案消息称其主动投案, cite: r08-people-2026-01-24-yang-hongyong-probe }
+  politics:
+    level: none
+    why: 央企派驻纪检干部受贿案，未见政治关联报道
+    cites: [r08-people-2026-07-27-yang-hongyong-expel]
+  outcome: expelled
+
+li-xu-bt:
+  sys: local
+  grade: vice
+  notice:
+    date: 2026-09-11
+    cite: r08-people-2026-09-11-li-xu-bt-expel
+    quotes:
+      - 搞政治投机，结交政治骗子，长期搞迷信活动
+      - 无偿接受私营企业主提供的车辆和司机服务
+      - 利用职务便利为他人在设备采购、工程项目承揽、土地性质变更等方面谋利
+  discipline: [political, organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-01-08-li-xu-bt-probe }
+  politics:
+    level: none
+    why: 通报用了搞政治投机、结交政治骗子的说法，但没有点出具体的人，本站未见把此案与派系或某位落马高官联系起来的报道
+    cites: [r08-people-2026-09-11-li-xu-bt-expel]
+  outcome: expelled
+
+yu-ze:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2026-06-05
+    cite: r08-people-2026-06-05-yu-ze-expel
+    quotes:
+      - 私自携带、阅看有严重政治问题的书籍，对抗组织审查
+      - 私自扣压检举、控告材料
+      - 借用管理和服务对象大额钱款，违规报销个人费用；玩物丧志
+  discipline: [political, organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-12-06-yu-ze-probe }
+  politics:
+    level: none
+    why: 金融国企高管受贿案；通报提到阅看有严重政治问题的书籍，但未见把此案与派系联系起来的报道
+    cites: [r08-people-2026-06-05-yu-ze-expel]
+  outcome: expelled
+
+hou-weidong:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2026-05-07
+    cite: r08-people-2026-05-07-hou-weidong-expel
+    quotes:
+      - 对抗组织审查，搞迷信活动
+      - 将金融科技资源配置权力异化为谋取个人私利的工具
+      - 利用职务便利为他人在项目承揽、贷款融资等方面谋利
+  discipline: [political, organization, integrity, life, eight]
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-10-28-hou-weidong-probe }
+  politics:
+    level: none
+    why: 银行高管受贿案，未见政治关联报道
+    cites: [r08-people-2026-05-07-hou-weidong-expel]
+  outcome: expelled
+
+# ───── R06 余项：审查调查中 ─────
+huang-ribo:
+  sys: local
+  grade: vice
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-10-18-huang-ribo-probe }
+  politics:
+    level: none
+    why: 非中共党员，只被国家监委监察调查；目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-10-18-huang-ribo-probe]
+  outcome: probe
+
+dai-yulin:
+  sys: local
+  grade: vice
+  retired: 2023-01
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-09-17-dai-yulin-probe }
+  politics:
+    level: none
+    why: 退休三年多后被查，目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-09-17-dai-yulin-probe]
+  outcome: probe
+
+zhang-zhuohua:
+  sys: local
+  grade: vice
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-07-03-zhang-zhuohua-probe }
+  politics:
+    level: none
+    why: 民主党派人士，只被国家监委监察调查；此前已先被免去南华大学校长，目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-07-03-zhang-zhuohua-probe, r08-wiki-zhang-zhuohua]
+  outcome: probe
+
+he-zhiliang:
+  sys: central
+  grade: vice
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-27-he-zhiliang-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-06-27-he-zhiliang-probe]
+  outcome: probe
+
+zhu-changjie:
+  sys: local
+  grade: vice
+  retired: 2018-01
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-20-zhu-changjie-probe }
+  politics:
+    level: none
+    why: 七五事件后长期主管新疆公安，退休八年后被查；目前只有立案消息，未见政治定性
+    cites: [r08-people-2026-06-20-zhu-changjie-probe, r08-wiki-zhu-changjie]
+  voices:
+    - { voice: wiki, text: 维基百科称他是阿克苏地区连续第三任落马的地委书记, cite: r08-wiki-zhu-changjie }
+  outcome: probe
+
+jiang-hongwei:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-16-jiang-hongwei-probe }
+  politics:
+    level: none
+    why: 现职省级纪委副书记被查，目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-06-16-jiang-hongwei-probe]
+  outcome: probe
+
+wang-wenling:
+  sys: central
+  grade: vice
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-04-07-wang-wenling-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-04-07-wang-wenling-probe]
+  outcome: probe
+
+wang-wenhua-qd:
+  sys: local
+  grade: vice
+  retired: 2017-04
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2025-12-19-wang-wenhua-qd-probe }
+  with:
+    - { id: li-ruihuan, name: 李瑞环, rel: patron, text: 原政治局常委、全国政协主席，王文华曾长期担任其秘书, cite: r08-wiki-wang-wenhua-qd }
+  politics:
+    level: none
+    why: 曾长期任李瑞环秘书，但退休八年后才被查，官方只有立案消息，未见把此案与李瑞环或其他人联系起来的报道
+    cites: [r08-wiki-wang-wenhua-qd, r08-people-2025-12-19-wang-wenhua-qd-probe]
+  outcome: probe
+
+chen-yong-cscec:
+  sys: soe
+  grade: exec
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-09-05-chen-yong-cscec-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-09-05-chen-yong-cscec-probe]
+  outcome: probe
+
+song-zhiyuan:
+  sys: soe
+  grade: exec
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-08-09-song-zhiyuan-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-08-09-song-zhiyuan-probe]
+  outcome: probe
+
+liang-chaoping:
+  sys: central
+  grade: bureau
+  trigger: { kind: surrender, text: 立案消息称其主动投案, cite: r08-people-2026-07-06-liang-chaoping-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-07-06-liang-chaoping-probe]
+  outcome: probe
+
+bian-zhigang:
+  sys: central
+  grade: vice
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-24-bian-zhigang-probe }
+  politics:
+    level: none
+    why: 军工主管部门官员被查，与同期张克俭等军工系统人员被撤销政协委员资格时间相近，但官方没有把两者联系起来，本站也未见相关可靠报道
+    cites: [r08-people-2026-06-24-bian-zhigang-probe, k05-xinhua-2026-03-02-cppcc]
+  outcome: probe
+
+yu-xiaoping:
+  sys: finance
+  grade: exec
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-13-yu-xiaoping-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-06-13-yu-xiaoping-probe]
+  outcome: probe
+
+wang-yihua:
+  sys: soe
+  grade: exec
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-05-30-wang-yihua-probe }
+  politics:
+    level: none
+    why: 目前只有立案消息，未见政治关联报道
+    cites: [r08-people-2026-05-30-wang-yihua-probe]
+  outcome: probe
+
+# ───── CS2 其他 ─────
+liu-yi:
+  sys: culture
+  grade: bureau
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-gov-2023-01-19-liu-yi-probe }
+  with:
+    - { id: li-tie, name: 李铁, rel: briber, text: 李铁为当上国家队主教练，自掏腰包送给时任足协秘书长刘奕 100 万元, cite: cs2-xinhua-2024-01-09-li-tie-bribe }
+  politics:
+    level: none
+    why: 足坛系统性腐败案，官方只通报受贿，未见政治关联报道
+    cites: [r08-xinhua-2024-12-11-liu-yi-verdict]
+  outcome: sentenced
+
+he-wen:
+  sys: other
+  grade: none
+  amount: { yuan: 40830000, text: 知情人士称判决只追究其向王保安行贿 4083 万元；法院另查明的受贿、洗钱罪和向福彩中心负责人行贿均未被追究, cite: r08-sina-2021-08-16-he-wen-out }
+  trigger: { kind: media, text: 2015 年《经济参考报》记者王文志发文并实名举报中彩在线违规运营和利益输送，一年后贺文被调查, cite: r08-sina-2018-11-24-he-wen-caijing }
+  with:
+    - { id: wang-baoan, name: 王保安, rel: patron, text: 王保安在财政部任上为中彩在线的彩票审批提供帮助，贺文以房产、现金回馈, cite: r08-sina-2018-11-24-he-wen-caijing }
+    - { id: bao-xuequan, name: 鲍学全, rel: colleague, text: 贺文被查后不久，福彩中心原主任鲍学全被带走调查, cite: r08-sina-2018-11-24-he-wen-caijing }
+  politics:
+    level: none
+    why: 福彩系统性腐败案，司法材料只涉及彩票审批中的利益输送，未见政治关联报道
+    cites: [r08-sina-2018-11-24-he-wen-caijing]
+  outcome: sentenced
+
+luo-min:
+  sys: finance
+  grade: bureau
+  amount: { yuan: 4981120, text: 法院认定受贿人民币 159.6 万元、7.3 万余美元、5000 港元及价值 338.5 万元的财物（金额只计人民币部分）, cite: r08-thepaper-2018-07-17-luo-min-verdict }
+  trigger: { kind: unknown, text: 报道未说明线索来源, cite: r08-thepaper-2018-07-17-luo-min-verdict }
+  with:
+    - { id: cao-jianfang, name: 曹建方, rel: patron, text: 罗敏是曹建方在云南省财政厅的老部下，《南方周末》称两人还是情人关系, cite: r08-thepaper-2018-07-17-luo-min-verdict }
+    - { id: wan-renli, name: 万仁礼, rel: colleague, text: 同为农信社“三驾马车”，罗敏落马后于 2017 年 6 月被查, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+    - { id: jiang-zhaogang, name: 蒋兆岗, rel: colleague, text: 同为农信社“三驾马车”，2018 年潜逃后落网, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+  politics:
+    level: none
+    why: 农信社窝案，判决只涉及受贿；与曹建方的关系见于媒体报道，未见政治关联报道
+    cites: [r08-thepaper-2018-07-17-luo-min-verdict]
+  outcome: sentenced
+
+jiang-zhaogang:
+  sys: finance
+  grade: bureau
+  amount: { yuan: 27097118, text: 法院认定 2003—2016 年收受或索取 2709.7118 万元；另以滥用职权罪认定造成 1.47 亿元直接损失, cite: r08-xinhua-2019-03-20-jiang-zhaogang-verdict }
+  trigger: { kind: chain, text: 罗敏 2015 年最先被查，万仁礼 2017 年被查，他在 2018 年 5 月被通缉, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+  with:
+    - { id: luo-min, name: 罗敏, rel: colleague, text: 农信社“三驾马车”中第一个落马, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+    - { id: wan-renli, name: 万仁礼, rel: colleague, text: 农信社“三驾马车”之一，2017 年 6 月被查, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+  politics:
+    level: none
+    why: 农信社窝案，判决认定受贿和滥用职权，未见政治关联报道
+    cites: [r08-xinhua-2019-03-20-jiang-zhaogang-verdict]
+  outcome: sentenced
+
+wan-renli:
+  sys: finance
+  grade: bureau
+  trigger: { kind: chain, text: 罗敏落马后，2017 年 6 月万仁礼被查, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+  with:
+    - { id: cao-jianfang, name: 曹建方, rel: patron, text: 落马后承认曾多次向时任副省长曹建方送钱送礼, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+    - { id: bai-enpei, name: 白恩培, rel: patron, text: 落马后承认曾多次向时任省委书记白恩培送钱送礼, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+    - { id: luo-min, name: 罗敏, rel: colleague, text: 农信社“三驾马车”中第一个落马, cite: r08-jiemian-2019-01-23-wan-renli-verdict }
+  politics:
+    level: linked
+    why: 他承认多次向曹建方、白恩培送钱送礼，界面新闻称他的落马直指曹建方案；农信社窝案与白恩培时期云南官场的清查相连
+    cites: [r08-jiemian-2019-01-23-wan-renli-verdict]
+  outcome: sentenced
+
+lou-he:
+  sys: other
+  grade: none
+  amount: { yuan: 122000000, text: 法院查明其行贿王立科 7350 万元及刘武仁、杨德顺等多人，支出贿金共计 1.22 亿元, cite: r08-bjnews-2023-12-24-lou-he-verdict }
+  trigger: { kind: chain, text: 王立科被组织审查后他开始潜逃，2020 年 11 月在吉林落网, cite: r08-bjnews-2023-12-24-lou-he-verdict }
+  with:
+    - { id: wang-like, name: 王立科, rel: patron, text: 王立科任北镇市公安局副局长时起充当其团伙“保护伞”，收受其 7350 万元, cite: r08-bjnews-2023-12-24-lou-he-verdict }
+  politics:
+    level: none
+    why: 涉黑、行贿案，牵出王立科等保护伞；本案报道未涉及政治关联
+    cites: [r08-bjnews-2023-12-24-lou-he-verdict]
+  outcome: sentenced
+
+ma-shaowei:
+  sys: other
+  grade: none
+  amount: { yuan: 13900000, text: 法院认定 2016—2020 年向文国栋、梁彦国、李永平送财物 1390 万余元，其中给文国栋 1216 万余元；兴青公司 9 亿余元违法所得被追缴, cite: r08-thepaper-2023-08-19-ma-shaowei-appeal }
+  trigger: { kind: media, text: 2020 年 8 月 4 日一篇调查报道揭露兴青公司在木里煤田打着修复治理名义掠夺式采挖, cite: r08-thepaper-2023-08-19-ma-shaowei-appeal }
+  with:
+    - { id: wen-guodong, name: 文国栋, rel: patron, text: 时任海西州委书记，收受马少伟等人 1216 万余元, cite: r08-thepaper-2023-08-19-ma-shaowei-appeal }
+  politics:
+    level: none
+    why: 非法采矿、行贿案，起于媒体曝光和中央工作组的生态整治，未见政治关联报道
+    cites: [r08-thepaper-2023-08-19-ma-shaowei-appeal]
+  outcome: sentenced
+
+# ───── CS1 其他 ─────
+xie-kemin:
+  sys: local
+  grade: bureau
+  notice:
+    date: 2014-07-05
+    cite: r08-people-2014-07-05-xie-kemin-expel
+    quotes:
+      - 利用职务上的便利为他人谋取利益，收受巨额贿赂，并伙同他人贪污公款
+      - 违反廉洁自律规定，收受礼金；与他人通奸
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: r08-people-2014-07-05-xie-kemin-expel }
+  politics:
+    level: none
+    why: 2014 年山西反腐中落马的县市主官之一，通报只涉及受贿、贪污和通奸
+    cites: [r08-people-2014-07-05-xie-kemin-expel]
+  voices:
+    - { voice: zh, text: （传闻）当地流传的一种说法是，他在高平任上与市人大原主任李晚富关系紧张，他的被查被认为与李晚富家族有关,       cite: r08-chinanews-2014-08-26-xie-kemin-gaoping }
+  outcome: expelled
+
+zhang-xinming:
+  sys: other
+  grade: none
+  trigger: { kind: chain, text: 华润收购金业案被实名举报、宋林落马后，并购的受益人张新明被带走, cite: cs1-thepaper-2014-08-cr-wang-yujun }
+  with:
+    - { id: song-lin, name: 宋林, rel: patron, text: 华润以高价收购金业集团煤焦资产，张新明与宋林之间被质疑有利益输送, cite: cs1-thepaper-2014-08-cr-wang-yujun }
+    - { id: xi-xiaoming, name: 奚晓明, rel: patron, text: 据财新报道，张新明 2012 年通过律师请托奚晓明之子奚嘉诚，承诺支付 3000 万元，最高法随后判令返还 46% 股权, cite: r08-jiemian-2026-zhang-xinming-charge }
+    - { id: xing-libin, name: 邢利斌, rel: business, text: 2010 年与邢利斌、宋林共同促成华润收购金业集团, cite: r08-people-2014-09-11-xing-libin-lvliang }
+  politics:
+    level: none
+    why: 涉黑、行贿商人，牵出宋林、奚晓明；本人案件不涉及政治问题
+    cites: [r08-jiemian-2026-zhang-xinming-charge]
+  outcome: sentenced
+
+xing-libin:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 有消息称他最初接受调查是因为牵扯资金运作事项, cite: r08-people-2014-09-11-xing-libin-lvliang }
+  with:
+    - { id: zhang-xinming, name: 张新明, rel: business, text: 2010 年与张新明、宋林共同促成华润收购金业集团, cite: r08-people-2014-09-11-xing-libin-lvliang }
+  politics:
+    level: none
+    why: 人民网称他因在吕梁乃至山西的政商关联成为山西反腐的一个引爆点，但他本人的案情未见公布
+    cites: [r08-people-2014-09-11-xing-libin-lvliang]
+  outcome: died
+
+wang-yujun:
+  sys: soe
+  grade: exec
+  amount: { yuan: 4336519, text: 受贿 427.6519 万元，另贪污 6.03 万元, cite: r08-bjnews-2016-06-21-wang-yujun-bjnews }
+  trigger: { kind: chain, text: 宋林案后华润系多名高管相继被查，他是其中之一, cite: cs1-thepaper-2014-08-cr-wang-yujun }
+  with:
+    - { id: song-lin, name: 宋林, rel: colleague, text: 时任华润集团董事长，华润电力早年在时任分管电力副总经理宋林的支持下扩张, cite: cs1-thepaper-2014-08-cr-wang-yujun }
+  politics:
+    level: none
+    why: 判决只涉及燃煤运输、工程款等业务中的受贿和报销贪污，未见政治关联报道
+    cites: [r08-bjnews-2016-06-21-wang-yujun-bjnews]
+  outcome: sentenced
+
+huang-daoguo:
+  sys: soe
+  grade: exec
+  trigger: { kind: chain, text: 华润收购金业案中审计署作出审计意见后，曾把审计报告呈给宋林的他被带走, cite: r08-people-2014-08-25-huang-daoguo-police }
+  with:
+    - { id: song-lin, name: 宋林, rel: patron, text: 2012 年 7 月 8 日把审计署太原特派办对华润太原煤业的调查报告部分内容呈给宋林, cite: r08-people-2014-08-25-huang-daoguo-police }
+  politics:
+    level: none
+    why: 涉嫌非法获取国家秘密罪，与宋林案中审计报告外泄有关；未见更大范围的政治关联报道
+    cites: [r08-people-2014-08-25-huang-daoguo-police]
+  outcome: probe
+
+cheng-boming:
+  sys: finance
+  grade: exec
+  trigger: { kind: chain, text: 2015 年股市异常波动后中信证券徐刚等 8 人先被要求协助调查，随后他被查, cite: r08-people-2015-09-16-cheng-boming-probe }
+  politics:
+    level: none
+    why: 财新称他被判的受贿罪与股灾无关，案值几十万元
+    cites: [cs5-sina-2017-11-13-cheng-boming]
+  outcome: sentenced
+
+liu-shufan:
+  sys: finance
+  grade: county
+  trigger: { kind: unknown, text: 报道未说明线索来源, cite: r08-caixin-2015-08-26-liu-shufan-caixin }
+  with:
+    - { id: yao-gang, name: 姚刚, rel: secretary, text: 曾担任证监会副主席姚刚上一任秘书, cite: r08-caixin-2015-08-26-liu-shufan-caixin }
+  politics:
+    level: none
+    why: 被查事由为内幕交易、受贿和伪造公章，未见政治关联报道
+    cites: [r08-nbd-2015-08-31-liu-shufan-police]
+  outcome: probe
+
+li-liang:
+  sys: finance
+  grade: bureau
+  amount: { yuan: 6936227, text: 检方指控收受 9 家公司投资人财物共计 693.622654 万元（未见宣判）, cite: r08-cctv-2016-11-10-li-liang-trial }
+  trigger: { kind: unknown, text: 证监会官网只公布其接受组织调查，未说明线索来源, cite: r08-people-2016-11-11-li-liang-cyb }
+  politics:
+    level: none
+    why: 被控在发行审核中受贿，未见政治关联报道
+    cites: [r08-cctv-2016-11-10-li-liang-trial]
+  outcome: expelled
+
+li-zhiling:
+  sys: finance
+  grade: county
+  amount: { yuan: 42050700, text: 一审认定收受或索取 4205.07 万元及奔驰车、浪琴手表、商通卡, cite: r08-bjnews-2018-10-17-li-zhiling-appeal }
+  trigger: { kind: report, text: 2013 年 6—7 月证监会纪委收到对其配偶乔东方违规买卖股票、巨额财产来源不明的举报, cite: r08-thepaper-2018-09-28-li-zhiling-ruling }
+  with:
+    - { name: 乔东方, rel: kin, text: 前夫，伙同其收受或索取财物，另案处理, cite: r08-bjnews-2018-10-17-li-zhiling-appeal }
+  politics:
+    level: none
+    why: 发行审核中的受贿案，未见政治关联报道
+    cites: [r08-bjnews-2018-10-17-li-zhiling-appeal]
+  outcome: sentenced
+
+li-feng-ln:
+  sys: local
+  grade: vice
+  trigger: { kind: unknown, text: 官方只公布罢免代表职务，未说明原因, cite: r08-caixin-2016-10-26-li-feng-ln-npc }
+  politics:
+    level: none
+    why: 辽宁拉票贿选案中被罢免，官方未公布对他的立案或处分
+    cites: [r08-caixin-2016-10-26-li-feng-ln-npc]
+  outcome: disciplined
+
+fang-wei:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 罢免决定只称其涉嫌违法犯罪, cite: r08-gov-2014-06-27-fang-wei-recall }
+  politics:
+    level: none
+    why: 辽宁拉票贿选案中当选无效的人大代表之一，未见更多政治关联报道
+    cites: [r08-people-2016-09-13-fang-wei-npc]
+  outcome: probe
+
+zhang-huayu:
+  sys: finance
+  grade: exec
+  notice:
+    date: 2022-07-04
+    cite: r08-ccdi-2022-07-04-zhang-huayu-expel
+    quotes:
+      - 订立攻守同盟，对抗组织审查
+      - 利用职权违规安排儿子、女婿、弟弟等亲属及关系人子女数十人到光大系统工作
+      - 在职时为有关企业谋取利益，退休前夕辞职
+  discipline: [political, eight, organization, integrity]
+  amount: { yuan: 14655807, text: 在职受贿 773.6271 万元，离职后利用影响力受贿 691.9536 万元, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
+  trigger: { kind: unknown, text: 通报未说明线索来源, cite: r08-ccdi-2022-07-04-zhang-huayu-expel }
+  politics:
+    level: none
+    why: 通报定性为“逃逸式辞职”腐败和权力与资本勾连的典型，未涉及政治问题
+    cites: [r08-ccdi-2022-07-04-zhang-huayu-expel]
+  outcome: sentenced
