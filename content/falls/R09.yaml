@@ -22,6 +22,7 @@ qin-yu:
   sys: local
   grade: bureau
   amount: { yuan: 6820000, text: 长春中院认定 1998—2006 年索取、收受款物折合 682 万余元, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  trigger: { kind: chain, text: 2006 年上海市劳动和社保局原局长祝均一违规使用社保基金案案发，牵出陈良宇等多位政商要人，他是同批被开除党籍和公职的 9 名涉案党员之一, cite: e07-bbc-2007-03-02-pension-expelled }
   with:
     - { id: han-guozhang, name: 韩国璋, rel: briber, text: 法院认定秦裕为韩国璋、吴明烈、张荣坤等人谋取利益并收受其财物, cite: r09-chinanews-2007-09-26-pension-verdicts }
     - { name: 张荣坤, rel: business, text: 法院认定秦裕为张荣坤谋取利益并收受其财物, cite: r09-chinanews-2007-09-26-pension-verdicts }
@@ -35,6 +36,7 @@ sun-luyi:
   sys: local
   grade: bureau
   amount: { yuan: 4720000, text: 法院认定 1998—2006 年收受款物折合 472 万余元, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  trigger: { kind: chain, text: 2006 年上海市劳动和社保局原局长祝均一违规使用社保基金案案发，牵出陈良宇等多位政商要人，他是同批被开除党籍和公职的 9 名涉案党员之一, cite: e07-bbc-2007-03-02-pension-expelled }
   with:
     - { id: han-guozhang, name: 韩国璋, rel: briber, text: 法院认定孙路一为李松坚、韩国璋等人谋取利益并收受其财物, cite: r09-chinanews-2007-09-26-pension-verdicts }
   politics:
@@ -60,6 +62,7 @@ han-guozhang:
   sys: soe
   grade: exec
   amount: { yuan: 6000000, text: 《财经》报道法院认定受贿 600 余万元, cite: r09-ce-2007-09-24-pension-verdicts }
+  trigger: { kind: chain, text: 2006 年上海市劳动和社保局原局长祝均一违规使用社保基金案案发，牵出陈良宇等多位政商要人，他是同批被开除党籍和公职的 9 名涉案党员之一, cite: e07-bbc-2007-03-02-pension-expelled }
   with:
     - { id: qin-yu, name: 秦裕, rel: colleague, text: 法院认定秦裕曾为韩国璋谋取利益并收受财物, cite: r09-chinanews-2007-09-26-pension-verdicts }
     - { id: sun-luyi, name: 孙路一, rel: colleague, text: 法院认定孙路一曾为韩国璋谋取利益并收受财物, cite: r09-chinanews-2007-09-26-pension-verdicts }
@@ -72,6 +75,7 @@ han-guozhang:
 wu-hongmei:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 2006 年上海市劳动和社保局原局长祝均一违规使用社保基金案案发，牵出陈良宇等多位政商要人，他是同批被开除党籍和公职的 9 名涉案党员之一, cite: e07-bbc-2007-03-02-pension-expelled }
   politics:
     level: linked
     why: 上海社保案涉案党员，与祝均一等同批被“双开”
@@ -97,6 +101,7 @@ xie-yalong:
   sys: culture
   grade: bureau
   amount: { yuan: 1363800, text: 丹东中院认定 1998 年至 2008 年 6 月受贿 136.38 万元，公诉指控 172.78 万元, cite: r09-chinanews-2012-06-13-football }
+  trigger: { kind: chain, text: 2009—2010 年足坛反赌扫黑系列案中被查，此轮打击中足协副主席谢亚龙、南勇及一批足球领导层官员被处理, cite: cs2-bbc-2024-02-13-football }
   politics:
     level: none
     why: 上一轮足坛反赌扫黑系列案，未见政治关联报道
@@ -109,6 +114,7 @@ nan-yong:
   sys: culture
   grade: bureau
   amount: { yuan: 1196554, text: 铁岭中院认定 1998—2009 年收受现金 119.6554 万元及手表、项链等物品, cite: r09-chinanews-2012-06-13-football }
+  trigger: { kind: chain, text: 2009—2010 年足坛反赌扫黑系列案中被查，此轮打击中足协副主席谢亚龙、南勇及一批足球领导层官员被处理, cite: cs2-bbc-2024-02-13-football }
   politics:
     level: none
     why: 上一轮足坛反赌扫黑系列案，未见政治关联报道
@@ -119,6 +125,7 @@ yang-yimin:
   sys: culture
   grade: bureau
   amount: { yuan: 1254000, text: 铁岭中院认定 1997—2009 年先后 40 余次受贿 125.4 万余元, cite: r09-chinanews-2012-02-18-yang-yimin }
+  trigger: { kind: chain, text: 2009—2010 年足坛反赌扫黑系列案中被查，该系列案一审 2012 年 2 月宣告结束, cite: r09-chinanews-2012-02-18-yang-yimin }
   politics:
     level: none
     why: 上一轮足坛反赌扫黑系列案，未见政治关联报道
@@ -129,6 +136,7 @@ wang-dengfeng:
   sys: central
   grade: bureau
   amount: { yuan: 56365400, text: 法院认定贪污 4670.13 万余元（其中 180.49 万余元未遂）、受贿 966.469 万元, cite: r09-xinhua-2024-03-18-wang-dengfeng }
+  trigger: { kind: unknown, text: 财新称他是本轮足球领域反腐的第一枪，2022 年 8 月 30 日接受调查，未说明线索来源, cite: r09-caixin-2023-02-16-wang-dengfeng }
   with:
     - { id: chen-xuyuan, name: 陈戌源, rel: colleague, text: 财新称王登峰被查后足球圈窝案浮出水面，足协主席陈戌源随后落马, cite: r09-caixin-2023-02-16-wang-dengfeng }
     - { id: li-tie, name: 李铁, rel: colleague, text: 财新称王登峰被查后李铁等人相继被查, cite: r09-caixin-2023-02-16-wang-dengfeng }
@@ -144,6 +152,7 @@ yu-hongchen:
   sys: culture
   grade: bureau
   amount: { yuan: 22540000, text: 黄石中院认定 2010—2023 年受贿 2254 万余元，其中 350 万元未实际取得, cite: r09-xinhua-2024-03-26-yu-hongchen }
+  trigger: { kind: chain, text: 本轮足球领域反腐系列案中被查；财新称王登峰 2022 年 8 月被查后足球圈窝案浮出水面, cite: r09-caixin-2023-02-16-wang-dengfeng }
   politics:
     level: none
     why: 足坛系统性腐败案，法院认定其为俱乐部保级、裁判判罚、球员转会等谋利，未见政治关联报道
@@ -154,6 +163,7 @@ li-yuyi:
   sys: culture
   grade: bureau
   amount: { yuan: 12000000, text: 检方指控 2004—2021 年收受 1200 万余元, cite: r09-qq-2024-08-19-li-yuyi }
+  trigger: { kind: chain, text: 本轮足球领域反腐系列案中被查；财新称王登峰 2022 年 8 月被查后足球圈窝案浮出水面, cite: r09-caixin-2023-02-16-wang-dengfeng }
   politics:
     level: none
     why: 足坛系统性腐败案，指控涉及俱乐部保级和承揽工程，未见政治关联报道
@@ -177,6 +187,7 @@ hu-guochu:
 liao-jiesheng:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 衡阳破坏选举案（衡阳市人大选举省人大代表中的贿选案）系列案件中被追究；本站所见来源未说明该案线索来源, cite: r09-people-2014-08-18-hengyang }
   with:
     - { id: tong-mingqian, name: 童名谦, rel: colleague, text: 时任衡阳市委书记，同日以玩忽职守罪被判 5 年, cite: r09-people-2014-08-18-hengyang }
   politics:
@@ -188,6 +199,7 @@ liao-jiesheng:
 zuo-huiling:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 衡阳破坏选举案（衡阳市人大选举省人大代表中的贿选案）系列案件中被追究；本站所见来源未说明该案线索来源, cite: r09-people-2014-08-18-hengyang }
   with:
     - { id: tong-mingqian, name: 童名谦, rel: colleague, text: 时任衡阳市委书记，同日以玩忽职守罪被判 5 年, cite: r09-people-2014-08-18-hengyang }
   politics:
@@ -199,6 +211,7 @@ zuo-huiling:
 xiao-bin:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 作为换届选举纪律监督的直接责任人，在衡阳破坏选举案中被追究；本站所见来源未说明该案线索来源, cite: r09-thepaper-2014-09-25-xiao-bin }
   politics:
     level: none
     why: 衡阳破坏选举案属换届贿选案，他以纪律监督失职获罪，未见派系清洗关联报道
@@ -210,6 +223,7 @@ su-hao:
   sys: law
   grade: bureau
   amount: { yuan: 56000000, text: 常州中院认定 1997—2014 年受贿 5600 万余元，另向申维辰行贿 18 万余元, cite: r09-cyol-2018-01-08-su-hao }
+  trigger: { kind: unknown, text: 官方未说明线索来源；山西省纪委称太原连续三任公安局长出问题, cite: r09-chinanews-2015-04-14-taiyuan-police }
   with:
     - { id: shen-weichen, name: 申维辰, rel: patron, text: 法院认定苏浩为谋求太原市公安局长一职和调离司法厅到企业工作，2006—2014 年向申维辰行贿 18 万余元, cite: r09-cyol-2018-01-08-su-hao }
     - { id: li-yali, name: 李亚力, rel: colleague, text: 接任其太原市公安局长，2013 年被免职，2014 年以涉嫌受贿罪被捕, cite: r09-chinanews-2015-04-14-taiyuan-police }
@@ -237,6 +251,7 @@ wang-maoshe:
   sys: local
   grade: bureau
   amount: { yuan: 52351879, text: 徐州中院认定 2011—2014 年单独或与亲属等共同受贿 5235.1879 万元, cite: r09-chinanews-2017-01-06-wang-maoshe }
+  trigger: { kind: unknown, text: 山西省纪委称这是它配合中央专案组查办的案件，未说明线索来源, cite: r09-chinanews-2016-01-26-shanxi-five }
   politics:
     level: none
     why: 山西塌方式腐败中落马的市委书记，判决只涉及职务晋升、企业经营方面谋利，未见派系关联报道
@@ -252,6 +267,7 @@ feng-lixiang:
     quotes:
       - 在干部选拔任用和企业经营等方面为他人谋取利益
   discipline: [political, organization]
+  trigger: { kind: unknown, text: 山西省纪委称这是它配合中央专案组查办的案件，未说明线索来源, cite: r09-chinanews-2016-01-26-shanxi-five }
   politics:
     level: none
     why: 山西塌方式腐败中落马的市委书记，通报只涉及干部选拔和企业经营方面受贿，未见派系关联报道
@@ -270,6 +286,7 @@ dong-hongyun:
       - 对抗组织调查
   discipline: [political, organization, eight]
   amount: { yuan: 43430000, text: 检方指控收受 4343 万元人民币，另有 620 万港元、76 万美元、20 万欧元及购物卡、金条、书画等, cite: r09-thepaper-2018-dong-hongyun }
+  trigger: { kind: unknown, text: 山西省纪委称这是它自办查处的案件，未说明线索来源, cite: r09-chinanews-2016-01-26-shanxi-five }
   politics:
     level: none
     why: 山西省纪委自办查处的市委书记案件，未见派系关联报道
@@ -279,6 +296,7 @@ dong-hongyun:
 hong-fake:
   sys: local
   grade: bureau
+  trigger: { kind: unknown, text: 山西省纪委称这是它自办查处的案件，未说明线索来源, cite: r09-chinanews-2016-01-26-shanxi-five }
   politics:
     level: none
     why: 山西省纪委自办查处的市委书记案件，未见派系关联报道
@@ -288,6 +306,7 @@ hong-fake:
 ding-xuefeng:
   sys: local
   grade: bureau
+  trigger: { kind: unknown, text: 被带走调查的消息 2014 年 1 月传出，官方未说明线索来源；《中国经营报》称周滨曾参与为他运作吕梁市长一职, cite: r09-yicai-2014-02-ding-xuefeng }
   with:
     - { id: zhou-bin, name: 周滨, rel: patron, text: 周永康判决认定周滨、贾晓晔收受丁雪峰等人财物；《中国经营报》称周滨曾参与为他运作吕梁市长一职, cite: e03-xinhua-2015-06-11-zhou-verdict }
     - { id: zhou-yongkang, name: 周永康, rel: patron, text: 判决认定周永康利用职务便利为丁雪峰等人谋取利益, cite: e03-xinhua-2015-06-11-zhou-verdict }
@@ -301,6 +320,7 @@ ding-xuefeng:
 sun-ping:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 李春城落马后，第一财经把他列为 2014 年相继被查的李春城任成都市委书记时期 3 名市委常委、2 名市长助理之一, cite: r09-yicai-2014-10-chengdu }
   with:
     - { id: li-chuncheng, name: 李春城, rel: patron, text: 第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一, cite: r09-yicai-2014-10-chengdu }
   politics:
@@ -313,6 +333,7 @@ he-huazhang:
   sys: local
   grade: bureau
   amount: { yuan: 8202076, text: 判决认定收受 15 人财物折合 820.2076 万元，另没收干股孳息 830 万元, cite: r09-thepaper-2017-02-he-huazhang }
+  trigger: { kind: chain, text: 李春城落马后，第一财经把他列为 2014 年相继被查的李春城任成都市委书记时期 3 名市委常委、2 名市长助理之一, cite: r09-yicai-2014-10-chengdu }
   with:
     - { id: li-chuncheng, name: 李春城, rel: patron, text: 第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一, cite: r09-yicai-2014-10-chengdu }
   politics:
@@ -325,6 +346,7 @@ deng-quanzhong:
   sys: local
   grade: bureau
   amount: { yuan: 71244975, text: 攀枝花中院认定 2005—2014 年受贿 7124.49754 万元，其中十八大后 9 次收受 584 万余元, cite: r09-xinhua-2016-12-30-deng-quanzhong }
+  trigger: { kind: chain, text: 李春城落马后，第一财经把他列为 2014 年相继被查的李春城任成都市委书记时期 3 名市委常委、2 名市长助理之一, cite: r09-yicai-2014-10-chengdu }
   with:
     - { id: li-chuncheng, name: 李春城, rel: patron, text: 第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一, cite: r09-yicai-2014-10-chengdu }
   politics:
@@ -336,6 +358,7 @@ deng-quanzhong:
 liu-junlin:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 李春城落马后，第一财经把他列为 2014 年相继被查的李春城任成都市委书记时期 3 名市委常委、2 名市长助理之一, cite: r09-yicai-2014-10-chengdu }
   with:
     - { id: li-chuncheng, name: 李春城, rel: patron, text: 第一财经称刘俊林被认为深得李春城赏识, cite: r09-yicai-2014-10-chengdu }
   politics:
@@ -347,6 +370,7 @@ liu-junlin:
 chen-zhengming:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 李春城落马后，第一财经把他列为 2014 年相继被查的李春城任成都市委书记时期 3 名市委常委、2 名市长助理之一, cite: r09-yicai-2014-10-chengdu }
   with:
     - { id: li-chuncheng, name: 李春城, rel: patron, text: 第一财经把他列为李春城时期被查的两名成都市市长助理之一, cite: r09-yicai-2014-10-chengdu }
   politics:
@@ -387,6 +411,7 @@ cong-wenjing:
 wang-yong-jx:
   sys: local
   grade: bureau
+  trigger: { kind: chain, text: 苏荣落马后，上观新闻把他列为被曝涉苏荣案的官员之一, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   with:
     - { id: su-rong, name: 苏荣, rel: patron, text: 上观新闻列为被曝涉苏荣案的官员之一，通报称他为谋求职务上的重用向他人行贿, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   politics:
@@ -413,6 +438,7 @@ cheng-danfeng:
   sys: local
   grade: bureau
   amount: { yuan: 9476000, text: 判决认定利用苏荣职权收受 947.6 万元和港币 10 万元, cite: r09-jfdaily-2018-09-11-su-rong-43 }
+  trigger: { kind: chain, text: 上观新闻称苏荣落马后，程丹峰的受贿行为随之暴露, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   with:
     - { id: su-rong, name: 苏荣, rel: kin, text: 岳父，判决认定程丹峰利用苏荣任江西省委书记的职权或地位形成的便利条件受贿, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   politics:
@@ -467,6 +493,7 @@ lin-fenqiang:
   sys: central
   grade: bureau
   amount: { yuan: 70000000, text: 第一财经称其收受人民币、外币、黄金和名表等合计超过 7000 万元, cite: r09-yicai-2014-lin-fenqiang }
+  trigger: { kind: chain, text: 刘志军案后，2011 年 6 月他与副局长马俊飞赴京参加铁道部会议时几乎同时被中纪委带走；第一财经称他曾在刘志军授意下为丁书苗安排车皮, cite: r09-yicai-2014-lin-fenqiang }
   with:
     - { id: liu-zhijun, name: 刘志军, rel: patron, text: 第一财经称刘志军是他的老上级、对他有知遇之恩，他在刘志军授意下为丁书苗安排车皮, cite: r09-yicai-2014-lin-fenqiang }
     - { id: ding-shumiao, name: 丁书苗, rel: business, text: 刘志军的主要行贿人；他在刘志军授意下多次为丁羽心（丁书苗）及其亲属安排车皮计划, cite: r09-yicai-2014-lin-fenqiang }

@@ -257,6 +257,7 @@ lu-chuncai:
 chen-shuang:
   sys: finance
   grade: exec
+  amount: { yuan: 96209264, text: 合肥市检察院起诉指控的数额（折合人民币 9620.9264 万元），法院尚未宣判, cite: r11-sohu-2024-10-29-chen-shuang-trial }
   trigger: { kind: unknown, text: 官方未说明线索来源；财新引知情人士称，被查或与光大控股上半年巨亏有关, cite: r10-caixin-2022-07-26-chen-shuang-caixin }
   with:
     - { id: zhu-huimin, name: 朱慧民, rel: colleague, text: 光大实业原董事长，2021 年 3 月被开除党籍和公职，界面将两案并列为光大集团内部被查者, cite: r10-jiemian-2022-07-26-chen-shuang-jiemian }
@@ -321,12 +322,14 @@ wu-guofang:
       - 从证监会离职后仍利用曾担任职务职权形成的便利条件，继续谋取所谓“投资机会”，是政商“旋转门”腐败的典型
       - 以“入股”拟上市公司为名非法收受财物，数额巨大
   discipline: [political, eight, organization, integrity]
+  amount: { yuan: 73897800, text: 一审认定 2009—2024 年单独或伙同他人收受贿赂共计约 7389.78 万元，其中约 3216.44 万元未遂, cite: r11-laohu8-2026-09-wu-guofang-verdict }
+  sentence: { date: 2026-05, term: years, years: 15, cite: r11-laohu8-2026-09-wu-guofang-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源；财新称他 2024 年 10 月末出境赴港受阻，两周后在昆明出差时被带走, cite: r10-caixin-2026-09-05-wu-guofang-caixin }
   politics:
     level: none
     why: 发审系统“旋转门”受贿案，未见政治关联报道
     cites: [r10-csrc-2025-07-13-wu-guofang-expel]
-  outcome: expelled
+  outcome: sentenced
 
 # ───── 保险与银保监系统（续） ─────
 ren-chunsheng:

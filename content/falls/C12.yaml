@@ -188,6 +188,7 @@ jiang-renjie:
   sys: local
   grade: bureau
   amount: { yuan: 108570000, text: 法院认定受贿人民币 10857 万元、港币 5 万元、美元 4000 元, cite: c12-wiki-jiang-renjie }
+  trigger: { kind: unknown, text: 本站所见来源只记他 2008 年被判死刑，未说明线索来源, cite: c12-wiki-jiang-renjie }
   politics:
     level: none
     why: 城建领域受贿案，未见政治关联报道
@@ -200,6 +201,7 @@ xu-maiyong:
   sys: local
   grade: bureau
   amount: { yuan: 145000000, text: 法院认定 1995—2009 年收受、索取财物 1.45 亿余元，另侵吞国有资产 5300 万余元, cite: c12-wiki-xu-maiyong }
+  trigger: { kind: unknown, text: 本站所见来源只记他 2009 年 4 月因涉嫌严重违纪接受组织调查，未说明线索来源, cite: c12-wiki-xu-maiyong }
   with:
     - { name: 戚继秋, rel: kin, text: 妻子，在许迈永落马时一同被带去调查, cite: c12-wiki-xu-maiyong }
   politics:

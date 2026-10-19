@@ -1,0 +1,959 @@
+# R11 (round 14): case records for the people whose cards have fall steps but who had no record
+# (research/scripts/R11-list.ts). Most rest on the sources the cards already cite; new ones are r11-*.
+# Dissidents, businessmen and Hong Kong people are recorded too: politics is the editor's reading of how far
+# a case belongs to the struggle for power inside the party, so their political cases read as none there.
+
+# ───── 政治局委员与中央高层 ─────
+bo-xilai:
+  sys: local
+  grade: state
+  notice:
+    date: 2012-09-28
+    cite: b07-xinhua-2012-09-28-bo-expulsion
+    quotes:
+      - 在王立军事件和薄谷开来故意杀人案件中滥用职权，犯有严重错误、负有重大责任
+      - 利用职权为他人谋利，直接和通过家人收受他人巨额贿赂
+      - 与多名女性发生或保持不正当性关系
+      - 违反组织人事纪律，用人失察失误，造成严重后果
+  amount: { yuan: 25440000, text: 法院认定受贿折合 2044 万余元、贪污 500 万元, cite: b07-xinhua-2013-09-22-bo-sentence }
+  trigger: { kind: incident, text: 中央在调查王立军事件、复查薄谷开来涉嫌杀害尼尔·伍德案时，认定他负有错误和责任，并发现其他违纪线索, cite: b07-xinhua-2012-09-28-bo-expulsion }
+  with:
+    - { id: gu-kailai, name: 谷开来, rel: kin, text: 妻子，2011 年投毒杀害英国公民尼尔·伍德，法院认定薄熙来明知并认可她和儿子收受徐明财物, cite: b07-xinhua-2013-09-22-bo-sentence }
+    - { id: wang-lijun, name: 王立军, rel: colleague, text: 重庆市原副市长兼公安局长，向他报告谷开来涉嫌杀人后被打耳光、免职，随即叛逃美国驻成都总领事馆, cite: b07-xinhua-2013-09-22-bo-sentence }
+    - { name: 徐明, rel: briber, text: 大连实德集团董事长，法院认定薄熙来妻子、儿子收受其财物折合 1933 万余元, cite: b07-xinhua-2013-09-22-bo-sentence }
+    - { name: 唐肖林, rel: briber, text: 大连国际发展有限公司总经理，法院认定薄熙来直接收受其钱款 110 万余元, cite: b07-xinhua-2013-09-22-bo-sentence }
+  politics:
+    level: core
+    why: 十八大前夕被停职、开除的在任政治局委员；他在重庆的唱红打黑被视为另立路线，BBC 评论认为当局以贪腐罪审理是为避开政治路线之争，同情者则把判决看作政治审判
+    cites: [b07-bbc-2013-09-22-bo-sentence-politics, b07-xinhua-2012-09-28-bo-expulsion]
+
+chen-liangyu:
+  sys: local
+  grade: state
+  notice:
+    date: 2007-07-26
+    cite: b07-xinhua-2007-07-26-chen-expulsion
+    quotes:
+      - 支持上海市劳动和社会保障局违规贷给不法企业主和有关公司巨额社保基金，危害社保基金安全
+      - 以权谋私，帮助亲属在经营活动中获取巨额非法利益
+      - 道德败坏，利用职权玩弄女性，搞权色交易
+      - 包庇有严重违纪违法问题的身边工作人员
+  amount: { yuan: 2390000, text: 法院认定 1988—2006 年索取或收受财物折合 239 万余元, cite: b07-xinhua-2008-04-11-chen-sentence }
+  trigger: { kind: chain, text: 2006 年 7 月 5 日起中央纪委调查上海市劳动和社会保障局违规运营社保基金问题，调查中发现他涉嫌严重违纪, cite: b07-xinhua-2007-07-26-chen-expulsion }
+  with:
+    - { name: 陈良军, rel: kin, text: 弟弟，法院认定陈良宇为徇私情同意违规为其征地，陈良军违规获得 354 亩土地使用权后变相倒卖获利 1.18 亿元, cite: b07-xinhua-2008-04-11-chen-sentence }
+    - { id: qin-yu, name: 秦裕, rel: colleague, text: 宝山区原区长，社保案中同批被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+  politics:
+    level: core
+    why: 在任政治局委员、上海市委书记被免职；官方否认与高层权力斗争有关，但美国之音引述的分析人士和 BBC 所引海外媒体都把此案看作胡锦涛对以陈良宇、黄菊为代表的上海帮动手
+    cites: [b07-voa-2006-09-27-chen-qiu, b06-bbc-2014-09-23-shanghai-gang]
+
+chen-xitong:
+  sys: local
+  grade: state
+  trigger: { kind: chain, text: 中纪委审查报告称他对北京市原副市长王宝森的违法犯罪活动负有重大责任，1995 年 4 月引咎辞职, cite: e01-cpc-dsj-1995 }
+  politics:
+    level: core
+    why: 在任政治局委员、北京市委书记落马；BBC 称观察家普遍认为他被法办是因为与江泽民内斗失败
+    cites: [c09-bbc-2013-06-05-chen-xitong]
+
+zhao-ziyang:
+  sys: central
+  grade: state
+  trigger: { kind: incident, text: 1989 年学潮中与邓小平在社论定性和戒严问题上分歧，5 月 17 日拒绝主持宣布戒严的干部大会, cite: b14-nytcn-2014-05-12-zhao-fall }
+  politics:
+    level: core
+    why: 六四期间中共最高层的路线与权力斗争；纽约时报中文网称邓小平及其支持者指责他分裂领导层、向外界泄露高层分歧，十三届四中全会撤销他的全部职务
+    cites: [b14-nytcn-2014-05-12-zhao-fall, e01-cpc-dsj-1989]
+  outcome: disciplined
+
+hu-yaobang:
+  sys: central
+  grade: state
+  trigger: { kind: unknown, text: 官方未公布处理经过；BBC 称他是因纵容自由化而遭整肃, cite: c09-bbc-2015-11-20-hu-yaobang-100 }
+  politics:
+    level: core
+    why: 在任总书记被迫辞职，是改革派与保守派之间的高层斗争；纽约时报中文网称保守派对胡耀邦、赵紫阳支持的自由化政策感到恐惧
+    cites: [c09-bbc-2015-11-20-hu-yaobang-100, b14-nytcn-2014-05-12-zhao-fall]
+  outcome: disciplined
+
+qin-gang:
+  sys: central
+  grade: state
+  trigger: { kind: unknown, text: 官方从未说明他被免职的原因；《华尔街日报》引知情人士称，向高级官员通报的正式原因是生活作风问题, cite: b08-zaobao-2023-09-19-qin-affair }
+  politics:
+    level: none
+    why: 官方未说明原因，也未宣布党纪处分；可靠报道指向婚外情和在美国所生的孩子，未见把他与某一落马高官或派系清洗相连的报道
+    cites: [b08-zaobao-2023-09-19-qin-affair, b08-bbc-2023-10-26-li-qin]
+  voices:
+    - { voice: zh, text: BBC 中文引新加坡学者庄嘉颖说，秦刚、李尚福都曾被视为习近平亲信，即便是亲信，需要时也可以任意罢免, cite: b08-bbc-2023-10-26-li-qin }
+
+# ───── 省部级 ─────
+liu-zhijun:
+  sys: central
+  grade: minister
+  notice:
+    date: 2012-05-28
+    cite: c08-cyol-2012-05-29-liu-zhijun-expel
+    quotes:
+      - 滥用职权帮助北京博宥投资管理集团公司董事长丁羽心获取巨额非法利益，造成重大经济损失和恶劣社会影响
+      - 收受他人巨额贿赂和贵重物品
+      - 对铁路系统出现的严重腐败问题负有主要领导责任
+  amount: { yuan: 64600000, text: 法院认定 1986—2011 年收受邵力平、丁羽心等 11 人财物共计折合 6460 万余元, cite: c08-xinhua-2013-07-08-liu-zhijun-verdict }
+  trigger: { kind: chain, text: 2011 年初丁羽心（丁书苗）被警方抓获，很快供出刘志军，由此牵出原铁道部系列腐败大案, cite: cs5-court-2014-12-17-ding-shumiao }
+  with:
+    - { id: ding-shumiao, name: 丁书苗, rel: business, text: 又名丁羽心，法院认定她为刘志军跑官、办事行贿 4900 万元，借他的帮助获取铁路运输计划和工程中标, cite: cs5-court-2014-12-17-ding-shumiao }
+    - { name: 邵力平, rel: briber, text: 法院认定刘志军为邵力平、丁羽心等 11 人在职务晋升、承揽工程等方面提供帮助并收受财物, cite: c08-xinhua-2013-07-08-liu-zhijun-verdict }
+  politics:
+    level: none
+    why: 铁道部系统的受贿、滥权案，起于丁书苗被抓；《环球人物》称他是令计划西山会成员，但他落马早于令计划，未见把他的落马与派系清洗相连的报道
+    cites: [cs5-court-2014-12-17-ding-shumiao, f02-hqrw-2015-01-06-xishanhui]
+
+tian-fengshan:
+  sys: central
+  grade: minister
+  amount: { yuan: 4360000, text: 法院认定 1996—2003 年任黑龙江省长、国土资源部长期间收受贿赂共计 436 万余元, cite: k03-cyol-2005-12-28-tian-fengshan-verdict }
+  trigger: { kind: unknown, text: 十六届四中全会公报只说审议通过中央纪委关于田凤山问题的审查报告，未说明线索来源, cite: k01-xinhua-2004-09-19-16-4-plenum }
+  politics:
+    level: none
+    why: 判决只涉及任职期间的受贿，未见政治关联报道
+    cites: [k03-cyol-2005-12-28-tian-fengshan-verdict]
+  retired: 2003-10
+
+huang-yao:
+  sys: local
+  grade: minister
+  notice:
+    date: 2010-02-25
+    cite: k03-chinanews-2010-02-25-huang-yao-expel
+    quotes:
+      - 黄瑶利用职务上的便利为他人谋取利益，本人及特定关系人收受巨额贿赂；生活腐化
+  trigger: { kind: unknown, text: 中央纪委通报未说明线索来源, cite: k03-chinanews-2010-02-25-huang-yao-expel }
+  politics:
+    level: none
+    why: 通报和判决只涉及受贿和生活腐化，未见政治关联报道
+    cites: [k03-chinanews-2010-02-25-huang-yao-expel, k03-xinhua-2010-12-09-huang-yao-verdict]
+
+du-shicheng:
+  sys: local
+  grade: vice
+  notice:
+    date: 2007-04-26
+    cite: k03-chinanews-2007-04-26-du-shicheng-expel
+    quotes:
+      - 利用职务之便为他人谋取利益，本人或伙同情妇收受他人财物达数百万元；生活腐化
+      - 以权谋私，腐化堕落
+  trigger: { kind: unknown, text: 中央纪委通报未说明线索来源, cite: k03-chinanews-2007-04-26-du-shicheng-expel }
+  politics:
+    level: none
+    why: 通报和判决只涉及与情妇共同受贿，未见可靠来源把他的落马与派系清洗相连
+    cites: [k03-chinanews-2007-04-26-du-shicheng-expel, k03-sina-2008-02-13-du-shicheng-verdict]
+
+chen-shaoji:
+  sys: local
+  grade: minister
+  notice:
+    date: 2009-08-27
+    cite: k03-people-2009-08-27-chen-shaoji-expel
+    quotes:
+      - 陈绍基利用职务上的便利，为他人谋取利益，收受巨额钱款；生活腐化
+  trigger: { kind: unknown, text: 中央纪委通报未说明线索来源, cite: k03-people-2009-08-27-chen-shaoji-expel }
+  politics:
+    level: none
+    why: 通报和判决只涉及受贿和生活腐化，未见政治关联报道
+    cites: [k03-people-2009-08-27-chen-shaoji-expel, k03-qz-2010-07-23-chen-shaoji-verdict]
+
+yu-youjun:
+  sys: central
+  grade: minister
+  trigger: { kind: unknown, text: 全会公报只说审议通过中央纪委关于于幼军同志问题的审查报告，未公布所涉问题和线索来源, cite: k04-people-2008-10-12-yu-youjun-removed }
+  politics:
+    level: none
+    why: 官方未公布所涉问题，他也没有被开除党籍、移送司法；本站所见来源未把此案与某一高官或派系相连
+    cites: [k04-people-2008-10-12-yu-youjun-removed]
+
+li-jiating:
+  sys: local
+  grade: minister
+  amount: { yuan: 18100000, text: 法院认定受贿 1810 万余元, cite: p03-chinanews-2003-05-09-li-jiating }
+  trigger: { kind: unknown, text: 本站所见来源未说明线索来源, cite: e01-cpc-dsj-2001 }
+  politics:
+    level: none
+    why: 判决只涉及受贿；其子李勃同案获刑，未见政治关联报道
+    cites: [p03-chinanews-2003-05-09-li-jiating, p03-wiki-li-jiating]
+
+zhang-guoguang:
+  sys: local
+  grade: minister
+  notice:
+    date: 2004-02-24
+    cite: p03-zqb-2004-02-25-zhang-guoguang-expelled
+    quotes:
+      - 张国光在辽宁省工作期间，利用职务之
+      - 以权谋私，搞权钱交易，最终堕入了违纪违法的深渊
+  amount: { yuan: 572288, text: 法院认定 1989—1999 年在沈阳、辽宁任职期间收受盛发实业集团董事长刘爱党、马向东等人款物共计 572288 元；中央纪委通报的数额是受贿及礼金、贵重物品 96 万余元, cite: p03-zqb-2004-12-25-zhang-guoguang-verdict }
+  trigger: { kind: chain, text: 2001 年 1 月沈阳市长慕绥新案东窗事发（此前常务副市长马向东已落马，合称慕马案），他随即辞去辽宁省长职务, cite: p02-wiki-zhang-guoguang }
+  with:
+    - { name: 马向东, rel: briber, text: 沈阳市原常务副市长，法院认定张国光为其职务晋升谋利并收受其款物, cite: p03-zqb-2004-12-25-zhang-guoguang-verdict }
+  politics:
+    level: none
+    why: 沈阳慕马案的牵连者，判决只涉及受贿，未见政治关联报道
+    cites: [p03-zqb-2004-12-25-zhang-guoguang-verdict]
+
+liu-fangren:
+  sys: local
+  grade: minister
+  amount: { yuan: 6770000, text: 法院认定 1995—2002 年单独或伙同儿媳易阳 22 次收受他人钱款共计折合 677 万余元, cite: p03-zqb-2004-06-30-liu-fangren }
+  trigger: { kind: unknown, text: 本站所见报道未说明线索来源, cite: p03-zqb-2004-06-30-liu-fangren }
+  with:
+    - { name: 易阳, rel: kin, text: 儿媳，法院认定刘方仁部分受贿系伙同其收受，另案处理, cite: p03-zqb-2004-06-30-liu-fangren }
+  politics:
+    level: none
+    why: 判决只涉及受贿，中央纪委查实的问题还有与有夫之妇保持不正当关系、纵容亲属经商，未见政治关联报道
+    cites: [p03-zqb-2004-06-30-liu-fangren]
+  retired: 2002-04
+
+wu-yongwen:
+  sys: law
+  grade: vice
+  trigger: { kind: unknown, text: 官方未公布立案或处分通报；大公网称他可能涉嫌权钱交易、包养情人、生活腐化, cite: f06-ifeng-2013-01-18-wu-yongwen }
+  politics:
+    level: linked
+    why: BBC 把他列为周永康在政法系统的亲信人马之一，与李东生等人一起落马
+    cites: [f06-bbc-2014-02-22-zhou-arrests-trad]
+
+xu-dazhe:
+  sys: central
+  grade: minister
+  trigger: { kind: unknown, text: 罢免公告只称湖南省人大常委会决定罢免其全国人大代表职务，未说明原因, cite: f08-xinhua-2025-10-28-npc-notice }
+  politics:
+    level: none
+    why: 官方未说明原因；本站所见可靠来源未把他与某一落马高官或派系清洗相连
+    cites: [f08-caixin-2025-10-29-xu-dazhe]
+
+jin-zhuanglong:
+  sys: central
+  grade: minister
+  trigger: { kind: unknown, text: 官方未说明他被免职的原因, cite: f08-voa-2025-03-01-jin-zhuanglong }
+  politics:
+    level: none
+    why: 官方未说明原因，只有外界臆测与军工系反腐有关；未见可靠来源把他与某一落马高官相连
+    cites: [f08-voa-2025-03-01-jin-zhuanglong]
+  voices:
+    - { voice: zh, text: 美国之音称北京未说明原因，引发外界臆测他被撤换与中国军工系统反腐风暴有关, cite: f08-voa-2025-03-01-jin-zhuanglong }
+
+# ───── 厅局级、秘书 ─────
+wen-qiang:
+  sys: law
+  grade: bureau
+  amount: { yuan: 12110000, text: 法院认定受贿 1211 万余元, cite: c08-cyol-2010-04-15-wen-qiang-verdict }
+  trigger: { kind: chain, text: 重庆打黑除恶中作为黑社会性质组织的保护伞被查处, cite: c08-cyol-2010-04-15-wen-qiang-verdict }
+  politics:
+    level: none
+    why: 重庆打黑除恶的标志性案件；判决涉及受贿、包庇纵容黑社会性质组织、巨额财产来源不明和强奸，未见可靠来源把他与派系清洗相连
+    cites: [c08-cyol-2010-04-15-wen-qiang-verdict, c08-chinanews-2010-07-07-wen-qiang-executed]
+
+yang-dacai:
+  sys: local
+  grade: bureau
+  trigger: { kind: media, text: 2012 年 8 月包茂高速安塞段特大车祸现场，他面带微笑的照片引发网友声讨，网友又人肉搜索出他佩戴名表的图片，陕西省纪委随后调查, cite: c08-cyol-2013-02-23-yang-dacai-expel }
+  politics:
+    level: none
+    why: 网络曝光引发的受贿、巨额财产来源不明案，未见政治关联报道
+    cites: [c08-cyol-2013-02-23-yang-dacai-expel, e02-bbc-2012-09-21-biaoge]
+
+wang-zongnan:
+  sys: soe
+  grade: bureau
+  amount: { yuan: 2690000, text: 法院认定受贿 269 万余元（为复星集团谋利，父母低价购得两套别墅）；另伙同他人挪用公款 1.95 亿余元, cite: f06-thepaper-2015-08-11-wang-zongnan }
+  trigger: { kind: unknown, text: 官方未说明线索来源；BBC 称王岐山的工作组抵沪不久他即被立案侦查, cite: b06-bbc-2014-09-23-shanghai-gang }
+  with:
+    - { id: chen-liangyu, name: 陈良宇, rel: patron, text: BBC 称他曾在上海黄浦区担任陈良宇的副手, cite: b06-bbc-2014-09-23-shanghai-gang }
+  politics:
+    level: linked
+    why: BBC 称他被认为是江泽民的心腹之一、陈良宇在黄浦区的副手，并把他的落马放在习近平欲清盘上海帮的背景下讨论
+    cites: [b06-bbc-2014-09-23-shanghai-gang]
+
+wang-weigong:
+  sys: soe
+  grade: bureau
+  trigger: { kind: chain, text: 据《财经》报道，因涉嫌上海社保基金案被捕；他是当年把社保案主角张荣坤介绍到上海的关键人物, cite: b01-bbc-2007-08-03-wang-weigong }
+  with:
+    - { id: huang-ju, name: 黄菊, rel: patron, text: 黄菊任上海市委书记时他任市委副秘书长，十六大后进京任黄菊秘书，是黄菊亲信, cite: b01-bbc-2007-08-03-wang-weigong }
+    - { name: 张荣坤, rel: business, text: 上海社保案主角，由王维工介绍到上海, cite: b01-bbc-2007-08-03-wang-weigong }
+  politics:
+    level: linked
+    why: 黄菊的前秘书；BBC 引《金融时报》称逮捕他说明社保案牵扯到中共权力核心，舆论普遍认为借社保案逮捕陈良宇是胡锦涛瓦解上海帮的举动
+    cites: [b01-bbc-2007-08-03-wang-weigong]
+
+liang-ke:
+  sys: law
+  grade: bureau
+  trigger: { kind: unknown, text: 官方未公布免职原因；《纽约时报》称他已在上月因涉嫌腐败被中纪委收审, cite: f06-bbc-2014-02-22-zhou-arrests-trad }
+  politics:
+    level: linked
+    why: BBC 引《纽约时报》的消息来源称，梁克落马是清肃周永康在国安系统亲信的最新动作
+    cites: [f06-bbc-2014-02-22-zhou-arrests-trad, b03-bbc-2014-02-22-zhou-secretaries]
+
+yu-gang:
+  sys: law
+  grade: bureau
+  trigger: { kind: chain, text: 周永康落马前后，他不同阶段的 6 个秘书先后被调查，余刚是其中之一, cite: b03-cnr-2015-10-15-zhou-disciples }
+  with:
+    - { id: zhou-yongkang, name: 周永康, rel: patron, text: 2008—2012 年任周永康秘书, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { id: tan-hong, name: 谈红, rel: colleague, text: 同为周永康政法委时期的秘书，同日被开除党籍、同日被最高检立案, cite: b03-cnr-2015-10-15-zhou-disciples }
+  politics:
+    level: linked
+    why: 央广网把他列入周永康秘书帮，随周永康案落马
+    cites: [b03-cnr-2015-10-15-zhou-disciples]
+
+tan-hong:
+  sys: law
+  grade: bureau
+  trigger: { kind: chain, text: 周永康落马前后，他不同阶段的 6 个秘书先后被调查，谈红是其中之一, cite: b03-cnr-2015-10-15-zhou-disciples }
+  with:
+    - { id: zhou-yongkang, name: 周永康, rel: patron, text: 2008—2012 年任周永康秘书, cite: b03-cnr-2015-10-15-zhou-disciples }
+    - { id: yu-gang, name: 余刚, rel: colleague, text: 同为周永康政法委时期的秘书，同日被开除党籍、同日被最高检立案, cite: b03-cnr-2015-10-15-zhou-disciples }
+  politics:
+    level: linked
+    why: 央广网把他列入周永康秘书帮，随周永康案落马
+    cites: [b03-cnr-2015-10-15-zhou-disciples]
+
+liu-suiji:
+  sys: law
+  grade: bureau
+  trigger: { kind: chain, text: 《环球人物》引消息人士称，几乎在陈川平被调查的同时，他被带走调查, cite: f02-hqrw-2015-01-06-xishanhui }
+  with:
+    - { id: chen-chuanping, name: 陈川平, rel: patron, text: 太原市委原书记，《环球人物》称柳遂记是陈川平安排的平陆老乡、就是陈川平的人, cite: f02-hqrw-2015-01-06-xishanhui }
+  politics:
+    level: linked
+    why: 《环球人物》把他写进令计划西山会经陈川平延伸到山西各级的人事布局
+    cites: [f02-hqrw-2015-01-06-xishanhui]
+
+li-jiangong:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 官方未说明线索来源；《环球人物》称他与陈川平关系密切, cite: f02-hqrw-2015-01-06-xishanhui }
+  with:
+    - { id: chen-chuanping, name: 陈川平, rel: patron, text: 《环球人物》称李建功与陈川平关系密切，二人同为平陆人, cite: f02-hqrw-2015-01-06-xishanhui }
+  politics:
+    level: linked
+    why: 《环球人物》把他写进令计划西山会经陈川平延伸到山西各级的人事布局
+    cites: [f02-hqrw-2015-01-06-xishanhui]
+
+ma-xiangdong:
+  sys: army
+  grade: bureau
+  trigger: { kind: unknown, text: 军队只公布他因涉嫌违法犯罪被军事检察机关立案侦查，未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: dai-weimin, name: 戴维民, rel: colleague, text: 南京政治学院原副院长，2014 年 11 月先于马向东被军事检察机关立案侦查, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 2014 年军队查处军级以上干部贪腐案的一例，官方未公布案情，未见政治关联报道
+    cites: [f09-hqrw-2015-01-26-army-tigers]
+
+wang-lijun:
+  sys: law
+  grade: vice
+  amount: { yuan: 3050000, text: 中央电视台报道其受贿 305 万, cite: c05-chinanews-2012-09-24-wang-lijun }
+  trigger: { kind: incident, text: 2012 年 2 月 6 日叛逃至美国驻成都总领事馆，即王立军事件, cite: b07-xinhua-2013-09-22-bo-sentence }
+  with:
+    - { id: bo-xilai, name: 薄熙来, rel: patron, text: 时任重庆市委书记，王立军告知谷开来涉嫌杀人后被他斥责、打耳光，并违反组织程序免去其公安局长职务, cite: b07-xinhua-2013-09-22-bo-sentence }
+    - { id: guo-weiguo, name: 郭维国, rel: colleague, text: 时任重庆市公安局副局长，负责侦办尼尔·伍德案，为包庇谷开来徇私枉法, cite: b07-xinhua-2013-09-22-bo-sentence }
+  politics:
+    level: core
+    why: 他的叛逃直接引发薄熙来案，是十八大前最高层权力斗争的导火索
+    cites: [b07-xinhua-2012-09-28-bo-expulsion, b07-xinhua-2013-09-22-bo-sentence]
+
+gu-kailai:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2012 年 1 月王立军向薄熙来报告她涉嫌杀人，王立军事件后中央复查尼尔·伍德案, cite: b07-xinhua-2012-09-28-bo-expulsion }
+  with:
+    - { id: bo-xilai, name: 薄熙来, rel: kin, text: 丈夫，因在王立军事件和她故意杀人案中滥用职权等被判无期徒刑, cite: b07-xinhua-2013-09-22-bo-sentence }
+  politics:
+    level: core
+    why: 她的杀人案和王立军事件一起，构成薄熙来落马的起点
+    cites: [b07-xinhua-2012-09-28-bo-expulsion]
+
+# ───── 商人 ─────
+ding-shumiao:
+  sys: other
+  grade: none
+  amount: { yuan: 89000000, text: 法院认定为刘志军跑官、办事行贿 4900 万元，另向范增玉行贿 4000 万余元, cite: cs5-court-2014-12-17-ding-shumiao }
+  trigger: { kind: unknown, text: 报道只说她 2011 年初被警方抓获归案，未说明线索来源, cite: cs5-court-2014-12-17-ding-shumiao }
+  with:
+    - { id: liu-zhijun, name: 刘志军, rel: patron, text: 时任铁道部部长，为她和亲属的公司获取运输计划、工程中标等提供帮助, cite: cs5-court-2014-12-17-ding-shumiao }
+    - { id: fan-zengyu, name: 范增玉, rel: colleague, text: 国务院扶贫办外资项目管理中心原主任，她为树立正面形象逃避查处先后 38 次向其行贿 4000 万余元, cite: cs5-court-2014-12-17-ding-shumiao }
+  politics:
+    level: none
+    why: 铁道部工程招投标中的行贿和非法经营案，她到案后供出刘志军；《环球人物》称她是西山会成员，但未见把此案与派系清洗相连的报道
+    cites: [cs5-court-2014-12-17-ding-shumiao, f02-hqrw-2015-01-06-xishanhui]
+
+liu-han:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 新华社只说这是十八大后依法查处的性质特别恶劣的刑事案件，未说明线索来源, cite: f09-xinhua-2015-02-09-liu-han }
+  with:
+    - { id: zhou-bin, name: 周滨, rel: business, text: 财新称以刘汉为代表的黑顶商人是周永康家族敛财网络中的马仔、力工, cite: f09-sina-2014-07-29-caixin-zhou }
+  politics:
+    level: linked
+    why: 财新把他写进以周永康为核心的官商黑网络，案件由最高法指定在湖北异地审理
+    cites: [f09-sina-2014-07-29-caixin-zhou, f09-xinhua-2015-02-09-liu-han]
+
+wu-bing:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 财新只报道他 2013 年 8 月初在北京西客站出逃时被抓，未说明线索来源, cite: f09-sina-2014-07-29-caixin-zhou }
+  with:
+    - { id: zhou-bin, name: 周滨, rel: business, text: 财新称他是周滨的主要白手套之一, cite: f09-sina-2014-07-29-caixin-zhou }
+  politics:
+    level: linked
+    why: 周永康之子周滨的白手套，他被抓是周永康案收网的早期一步，此后周滨回国、米晓东失去自由
+    cites: [f09-sina-2014-07-29-caixin-zhou]
+
+xiao-jianhua:
+  sys: finance
+  grade: none
+  sentence: { date: 2022-08-19, term: years, years: 13, cite: c04-bbc-2022-08-19-xiao-jianhua }
+  trigger: { kind: unknown, text: 2017 年 1 月从香港四季酒店被带走，官方未说明立案缘由, cite: c04-bbc-2022-08-19-xiao-jianhua }
+  politics:
+    level: none
+    why: 法院认定的是明天系非法吸收公众存款、背信运用受托财产、违法运用资金和单位行贿；BBC 称他与中国政界关系密切，但未见可靠来源把此案与某一落马高官或派系清洗相连
+    cites: [c04-bbc-2022-08-19-xiao-jianhua]
+
+ye-jianming:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 财新只报道他被调查，未说明线索来源；他此前卷入何志平案, cite: c04-zaobao-2018-03-01-ye-jianming }
+  politics:
+    level: none
+    why: 官方从未公布案情，未见可靠来源说明政治背景
+    cites: [c04-zaobao-2018-03-01-ye-jianming]
+
+xu-jiayin:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 恒大 2021 年起债务危机爆发、留下大量烂尾楼，2023 年 9 月他因涉嫌违法犯罪被采取强制措施, cite: b14-bbc-2023-09-29-xu-probe }
+  politics:
+    level: none
+    why: 房地产企业的欺诈发行、非法集资等经济犯罪，未见政治关联报道
+    cites: [c04-xinhua-2026-08-20-xu-jiayin]
+
+guo-wengui:
+  sys: other
+  grade: none
+  sentence: { date: 2026-06-29, term: years, years: 30, cite: c04-bbc-2026-06-30-guo-wengui }
+  trigger: { kind: chain, text: 国安部原副部长马建落马；法院判决马建三项罪名每项都与郭文贵相关，郭文贵 2014 年已逃离中国, cite: b14-bbc-2018-12-27-ma-jian }
+  with:
+    - { id: ma-jian, name: 马建, rel: patron, text: 法院认定马建为郭文贵及其控制的政泉置业提供经营帮助、收受财物，并与他共谋强迫交易, cite: b14-bbc-2018-12-27-ma-jian }
+  politics:
+    level: linked
+    why: 国安部副部长马建案的商人一方；出逃后在海外爆料指控王岐山、孟建柱等高官
+    cites: [b14-bbc-2018-12-27-ma-jian]
+  outcome: sentenced
+
+ma-yun:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2020 年 10 月 24 日他在外滩金融峰会演讲中批评金融监管，9 天后被四部门监管约谈, cite: b10-sina-2020-10-24-bund-speech }
+  politics:
+    level: none
+    why: 针对平台企业和金融科技的监管整顿，未见把他与某一落马高官或派系相连的可靠报道
+    cites: [b10-csrc-2020-11-02-ant-interview, b10-xinhua-2021-04-10-alibaba-fine]
+  outcome: disciplined
+
+sun-dawu:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 警方只通报他涉嫌寻衅滋事、破坏生产经营等违法犯罪，未说明起因, cite: c04-bbc-2021-07-28-sun-dawu }
+  politics:
+    level: none
+    why: 敢言民营企业家被以八项罪名判刑；BBC 称不少人认为他 2003 年那次是因言获罪，但此案不涉及党内权力斗争
+    cites: [c04-bbc-2021-07-28-sun-dawu]
+
+lin-zuluan:
+  sys: local
+  grade: none
+  amount: { yuan: 443000, text: 法院认定任乌坎村委会主任期间多次收受贿赂共 44.3 万元，另在购船中收取回扣 15 万元, cite: c06-bbc-2016-09-08-lin-zulian }
+  trigger: { kind: incident, text: 2016 年 6 月他准备带村民上访追讨土地前夜被带走, cite: c06-voa-2016-10-21-lin-zulian }
+  politics:
+    level: none
+    why: 乌坎村民认为他被当局陷害以阻止抗议土地被盗卖；属地方维稳，不涉及党内权力斗争
+    cites: [c06-bbc-2016-09-08-lin-zulian]
+
+xue-jinbo:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2011 年乌坎事件中被官方指为主要组织者之一，以涉嫌故意毁坏财物罪和妨害公务罪被刑拘, cite: c06-xinhua-2011-12-14-xue-jinbo }
+  politics:
+    level: none
+    why: 乌坎土地维权事件中被拘后死于看守所，属地方维稳，不涉及党内权力斗争
+    cites: [c06-xinhua-2011-12-14-xue-jinbo]
+  outcome: died
+
+# ───── 体制内的敢言者 ─────
+ren-zhiqiang:
+  sys: soe
+  grade: bureau
+  notice:
+    date: 2020-07-23
+    cite: b10-bjjw-2020-07-23-ren-expelled
+    quotes:
+      - 公开发表反对四项基本原则的文章，丑化党和国家形象，歪曲党史、军史
+      - 对党不忠诚、不老实，对抗组织审查
+      - 违规持有、使用公款购买的高尔夫球卡
+      - 家风败坏，家教不严，伙同子女大肆敛财
+  discipline: [political, organization, integrity, life, eight]
+  amount: { yuan: 50990000, text: 法院认定 2003—2017 年贪污公款 4974 万余元、受贿 125 万余元；另挪用公款 6120 万元，滥用职权致国有控股企业损失 1.167 亿余元, cite: b10-bjjw-2020-09-22-ren-verdict }
+  trigger: { kind: media, text: 2020 年 3 月一篇署名任志强、批评当局抗疫的文章在网上流传，他随即失联，4 月西城区纪委监委通报对其审查调查, cite: b10-bbc-2020-04-07-ren-probe }
+  politics:
+    level: none
+    why: 敢言的红二代地产商，因批评最高领导人的文章被查，与党内派系清洗无关；BBC 和美国之音都把他被查与此前发文批评习近平相连，官方判决只涉及贪污、受贿等经济罪名
+    cites: [b10-bbc-2020-04-07-ren-probe, b10-voa-2020-09-22-ren]
+  retired: 2011-04
+
+bao-tong:
+  sys: central
+  grade: minister
+  trigger: { kind: incident, text: 1989 年六四事件中反对武力镇压、支持赵紫阳，5 月 28 日在北京被捕, cite: c05-rfa-2022-11-09-bao-tong }
+  with:
+    - { id: zhao-ziyang, name: 赵紫阳, rel: patron, text: 他是赵紫阳的政治秘书，赵紫阳下台前被捕, cite: c05-rfa-2022-11-09-bao-tong }
+  politics:
+    level: linked
+    why: 赵紫阳的政治秘书，随 1989 年最高层的路线与权力斗争落马
+    cites: [c05-rfa-2022-11-09-bao-tong]
+
+cai-xia:
+  sys: edu
+  grade: none
+  trigger: { kind: media, text: 外界分析与网上流传的一段约 20 分钟音频有关，音频中她在一次红二代聚会上痛斥中共及其最高领导人, cite: c04-voa-2020-08-17-cai-xia }
+  politics:
+    level: none
+    why: 退休党校教授因言论被开除党籍，属对体制内批评者的处分，不涉及党内派系斗争
+    cites: [c04-voa-2020-08-17-cai-xia]
+  outcome: disciplined
+
+xu-zhangrun:
+  sys: edu
+  grade: none
+  trigger: { kind: media, text: 2018 年 7 月起多次发表文章批评当局；清华大学的开除决定同时列出嫖娼受行政处罚和多次发表文章两项理由, cite: c04-rfa-2020-07-18-xu-zhangrun }
+  politics:
+    level: none
+    why: 法学教授因撰文批评当局被停职、开除，不涉及党内权力斗争；BBC 称公众质疑嫖娼说法是污名化
+    cites: [c04-rfa-2020-07-18-xu-zhangrun, c04-bbc-2020-07-13-xu-zhangrun]
+  outcome: disciplined
+
+xiao-han:
+  sys: edu
+  grade: none
+  trigger: { kind: unknown, text: 校方以介入公共事务太深为由暂停其教职，未见更具体的起因, cite: c06-rfa-2010-01-01-xiao-han }
+  politics:
+    level: none
+    why: 学者因公共言论被停职，此前曾上书呼吁重新处理六四，不涉及党内权力斗争
+    cites: [c06-rfa-2010-01-01-xiao-han, c06-voa-2009-03-04-xiao-han]
+  outcome: disciplined
+
+du-daozheng:
+  sys: culture
+  grade: none
+  trigger: { kind: unknown, text: 主管单位中国艺术研究院以更换管理层为名接管《炎黄春秋》，报道未说明直接起因, cite: c06-rfi-2016-07-16-du-daozheng }
+  politics:
+    level: none
+    why: 当局对敢言刊物的整顿，不涉及党内派系斗争
+    cites: [c06-rfi-2016-07-16-du-daozheng, e03-bbc-2016-07-19-yanhuang]
+  outcome: disciplined
+
+jiang-yanyong:
+  sys: health
+  grade: none
+  trigger: { kind: incident, text: 2004 年上书要求重新评价六四，随后被拘禁七周, cite: c06-dw-2023-03-jiang-yanyong }
+  politics:
+    level: none
+    why: 军医因揭露 SARS 瞒报、呼吁平反六四而受限制，不涉及党内权力斗争
+    cites: [c06-dw-2023-03-jiang-yanyong]
+
+li-wenliang:
+  sys: health
+  grade: none
+  trigger: { kind: incident, text: 2019 年 12 月 30 日在同学微信群转发华南海鲜市场确诊 SARS 等信息，被人大量转发后，2020 年 1 月 3 日被派出所训诫, cite: b10-xinhua-2020-03-19-li-report }
+  politics:
+    level: none
+    why: 医生因转发疫情信息被训诫，国家监委调查后撤销训诫书；不涉及党内权力斗争
+    cites: [b10-xinhua-2020-03-19-li-report, b10-paper-2020-03-19-wuhan-police]
+  outcome: died
+
+# ───── 异见人士、维权律师 ─────
+liu-xiaobo:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 发起并起草《零八宪章》，宪章 12 月 10 日发表前两天他被刑事拘留, cite: b10-bbc-2017-07-13-liu-obit }
+  politics:
+    level: none
+    why: 体制外作家因起草《零八宪章》以煽动颠覆国家政权罪获刑，属对异见的政治打压，不涉及党内权力斗争
+    cites: [b10-bbc-2017-07-13-liu-obit, b10-dw-2009-12-28-liu-verdict]
+  outcome: died
+
+xu-zhiyong:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2019 年与 20 多名维权律师和朋友在厦门聚会（当局称厦门聚会案），随后遭大举逮捕, cite: b10-voa-2023-04-10-xu-ding }
+  with:
+    - { id: ding-jiaxi, name: 丁家喜, rel: colleague, text: 同为新公民运动推动者，厦门聚会案中同被逮捕、同日获重刑, cite: b10-voa-2023-04-10-xu-ding }
+  politics:
+    level: none
+    why: 公民运动推动者以颠覆国家政权罪获重刑，属对异见的政治打压，不涉及党内权力斗争
+    cites: [b10-voa-2023-04-10-xu-ding]
+  outcome: sentenced
+
+ding-jiaxi:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2019 年厦门聚会后，于 12 月 26 日被捕, cite: b10-voa-2023-04-10-xu-ding }
+  with:
+    - { id: xu-zhiyong, name: 许志永, rel: colleague, text: 同为新公民运动推动者，厦门聚会案中同被逮捕、同日获重刑, cite: b10-voa-2023-04-10-xu-ding }
+  politics:
+    level: none
+    why: 维权律师以颠覆国家政权罪获重刑，属对异见的政治打压，不涉及党内权力斗争
+    cites: [b10-voa-2023-04-10-xu-ding]
+  outcome: sentenced
+
+gao-zhisheng:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 本站所见来源未说明他 2006 年被吊销执照、判刑的直接起因, cite: c04-cna-2021-08-14-gao-zhisheng }
+  with:
+    - { id: geng-he, name: 耿和, rel: kin, text: 妻子，2009 年带一双儿女逃离中国，在美国寻夫, cite: c04-bbc-2022-11-19-gao-zhisheng }
+  politics:
+    level: none
+    why: 维权律师以煽动颠覆国家政权罪获刑，后被失踪，属对异见的政治打压，不涉及党内权力斗争
+    cites: [c04-cna-2021-08-14-gao-zhisheng]
+  outcome: missing
+
+geng-he:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 作为高智晟的妻子受牵连，报道未说明某一具体起因, cite: c04-bbc-2022-11-19-gao-zhisheng }
+  with:
+    - { id: gao-zhisheng, name: 高智晟, rel: kin, text: 丈夫，维权律师，2017 年起下落不明, cite: c04-bbc-2022-11-19-gao-zhisheng }
+  politics:
+    level: none
+    why: 异见人士家属因亲属案件受牵连出走，不涉及党内权力斗争
+    cites: [c04-bbc-2022-11-19-gao-zhisheng]
+  outcome: fled
+
+pu-zhiqiang:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 本站所见来源只记他被以煽动民族仇恨罪、寻衅滋事罪判缓刑，未说明立案起因, cite: c04-bbc-2016-04-14-pu-zhiqiang }
+  politics:
+    level: none
+    why: 维权律师获刑并被吊销执照；BBC 称西方国家认为他只是行使言论自由，不涉及党内权力斗争
+    cites: [c04-bbc-2016-04-14-pu-zhiqiang]
+  outcome: sentenced
+
+wang-quanzhang:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2015 年 709 大抓捕中在济南被捕, cite: c04-bbc-2025-07-09-709-decade }
+  politics:
+    level: none
+    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c04-bbc-2025-07-09-709-decade]
+  outcome: released
+
+jiang-tianyong:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 官方指他 2015 年以来针对周世锋等 709 案件煽动他人颠覆国家政权，并指使谢阳之妻编造谢阳遭酷刑的文章, cite: c04-bbc-2017-11-21-jiang-tianyong }
+  with:
+    - { id: jin-bianling, name: 金变玲, rel: kin, text: 妻子，旅居美国，发表声明称他无罪, cite: c04-bbc-2017-11-21-jiang-tianyong }
+  politics:
+    level: none
+    why: 709 案相关的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c04-bbc-2017-11-21-jiang-tianyong]
+  outcome: released
+
+jin-bianling:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 作为江天勇的妻子为免遭骚扰出走，报道未说明某一具体起因, cite: c06-nyt-2017-01-20-jin-bianling }
+  with:
+    - { id: jiang-tianyong, name: 江天勇, rel: kin, text: 丈夫，维权律师, cite: c06-nyt-2017-01-20-jin-bianling }
+  politics:
+    level: none
+    why: 维权律师家属受牵连出走，不涉及党内权力斗争
+    cites: [c06-nyt-2017-01-20-jin-bianling]
+  outcome: fled
+
+li-heping:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2015 年 7 月在 709 大抓捕中失踪, cite: c04-bbc-2017-04-28-li-heping }
+  with:
+    - { id: wang-qiaoling, name: 王峭岭, rel: kin, text: 妻子，709 家属寻夫的代表, cite: c06-rfa-2023-06-14-li-heping }
+  politics:
+    level: none
+    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c04-bbc-2017-04-28-li-heping]
+  outcome: sentenced
+
+wang-qiaoling:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 作为李和平的妻子一家被边控，报道未说明某一具体起因, cite: c06-rfa-2023-06-14-li-heping }
+  with:
+    - { id: li-heping, name: 李和平, rel: kin, text: 丈夫，709 案当事律师, cite: c06-rfa-2023-06-14-li-heping }
+  politics:
+    level: none
+    why: 维权律师家属受牵连被限制出境，不涉及党内权力斗争
+    cites: [c06-rfa-2023-06-14-li-heping]
+
+wang-yu:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2015 年 7 月 9 日在 709 大抓捕中最早被带走, cite: e03-bbc-2015-07-11-lawyers }
+  politics:
+    level: none
+    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c06-bbc-2021-03-09-wang-yu-award]
+
+zhou-shifeng:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2015 年 7 月 709 大抓捕中被带走，他主持的锋锐律师事务所是官方媒体点名的对象, cite: e03-xinhua-2015-07-11-weiquan }
+  politics:
+    level: none
+    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c06-bbc-2016-08-04-zhou-shifeng]
+  outcome: released
+
+wu-gan:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 2015 年 5 月被厦门警方刑拘，后并入 709 系列案；本站所见来源未说明直接起因, cite: c04-voa-2023-05-19-wu-gan }
+  politics:
+    level: none
+    why: 草根维权人士获刑八年，属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c04-voa-2023-05-19-wu-gan]
+  outcome: released
+
+yu-wensheng:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2023 年 4 月与妻子前往欧盟驻华代表团途中被拦截，后被捕, cite: c04-cna-2026-04-14-yu-wensheng }
+  with:
+    - { id: xu-yan, name: 许艳, rel: kin, text: 妻子，同日被抓、同以煽动颠覆国家政权罪获刑, cite: c06-rfa-2025-01-14-xu-yan }
+  politics:
+    level: none
+    why: 维权律师以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    cites: [c04-cna-2026-04-14-yu-wensheng]
+  outcome: released
+
+xu-yan:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2023 年 4 月 13 日与丈夫余文生前往欧盟驻华代表团座谈途中被北京警方抓捕, cite: c06-rfa-2025-01-14-xu-yan }
+  with:
+    - { id: yu-wensheng, name: 余文生, rel: kin, text: 丈夫，北京维权律师，同案获刑, cite: c06-rfa-2025-01-14-xu-yan }
+  politics:
+    level: none
+    why: 维权人士以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    cites: [c06-rfa-2025-01-14-xu-yan]
+  outcome: released
+
+yilihamu-tuheti:
+  sys: edu
+  grade: none
+  trigger: { kind: unknown, text: 官方未说明立案起因；BBC 称他被带走前曾批评北京处理天安门金水桥驾车冲撞案的手法, cite: c04-bbc-2014-09-23-ilham-tohti }
+  politics:
+    level: none
+    why: 维吾尔族学者以分裂国家罪被判无期徒刑，国际特赦组织称指控有政治动机；属民族政策上的政治打压，不涉及党内权力斗争
+    cites: [c04-bbc-2014-09-23-ilham-tohti]
+  outcome: sentenced
+
+hu-jia:
+  sys: other
+  grade: none
+  trigger: { kind: media, text: 法院以他在网上发表的五篇文章和两次接受外国记者采访时的言论定罪, cite: c04-bbc-2008-04-03-hu-jia }
+  politics:
+    level: none
+    why: 人权活动人士因言论获刑，属对异见的政治打压，不涉及党内权力斗争
+    cites: [c04-bbc-2008-04-03-hu-jia]
+  outcome: released
+
+gao-yu:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 法院认定她为境外人员非法提供机密级国家秘密，报道未说明案发经过, cite: c04-dw-2015-11-26-gao-yu }
+  politics:
+    level: none
+    why: 资深记者以为境外非法提供国家秘密罪获刑，属对新闻与言论的政治打压，不涉及党内权力斗争
+    cites: [c04-dw-2015-11-26-gao-yu]
+  outcome: released
+
+guo-feixiong:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2021 年 1 月赴美探望病重的妻子时被阻，随后失去自由, cite: c04-rfa-2023-05-11-guo-feixiong }
+  politics:
+    level: none
+    why: 维权人士以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    cites: [c04-rfa-2023-05-11-guo-feixiong]
+  outcome: sentenced
+
+wang-yi-pastor:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2018 年 12 月秋雨圣约教会被取缔，他与 100 多名教会成员被带走, cite: c04-bbc-2019-12-30-wang-yi }
+  politics:
+    level: none
+    why: 家庭教会牧师以煽动颠覆国家政权罪、非法经营罪获刑，BBC 引学者称北京意图警告其他教会；属宗教管控，不涉及党内权力斗争
+    cites: [c04-bbc-2019-12-30-wang-yi]
+  outcome: sentenced
+
+chen-qiushi:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2020 年 2 月在武汉采访报道疫情时失联, cite: c04-udn-2021-09-chen-qiushi }
+  politics:
+    level: none
+    why: 公民记者因报道疫情失踪 601 天，不涉及党内权力斗争
+    cites: [c04-udn-2021-09-chen-qiushi]
+
+tan-zuoren:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 起草汶川地震伤亡调查报告期间被刑事拘留, cite: c06-voa-2014-03-27-tan-zuoren }
+  politics:
+    level: none
+    why: 环保人士因调查川震校舍倒塌以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    cites: [e02-bbc-2010-02-09-tan-zuoren]
+  outcome: released
+
+ai-weiwei:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 官方称他的公司涉嫌逃税等经济犯罪，报道未说明立案起因, cite: b10-rfa-2011-06-22-ai-bail }
+  politics:
+    level: none
+    why: 艺术家、社会活动人士被羁押 81 天并被追缴税款，此前曾调查川震遇难学生名单；不涉及党内权力斗争
+    cites: [b10-rfa-2011-06-22-ai-bail, b10-voa-2011-04-07-ai]
+  outcome: fled
+
+dai-qing:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 1989 年六四后被捕，在秦城羁押半年, cite: c06-rfa-2024-09-09-dai-qing }
+  politics:
+    level: none
+    why: 记者、作家在六四后被捕，属对八九民运参与者的清算，不涉及党内权力斗争
+    cites: [c06-rfa-2024-09-09-dai-qing]
+
+# ───── 香港、台湾 ─────
+li-zhiying:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 2020 年 8 月依《香港国安法》在家中被捕，《苹果日报》大楼被搜查, cite: b10-bbc-2026-02-09-jimmy-lai }
+  politics:
+    level: none
+    why: 香港传媒人依《香港国安法》被判勾结外国势力、发布煽动刊物罪，属北京对香港反对派的整肃，不涉及党内权力斗争
+    cites: [b10-bbc-2026-02-09-jimmy-lai, b10-hkgov-2025-12-15-lai-verdict]
+  outcome: sentenced
+
+huang-zhifeng:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 因参与 2020 年民主派初选，在 47 人案中以串谋颠覆国家政权罪被判刑, cite: c04-bbc-2024-11-19-hk47-b }
+  with:
+    - { id: dai-yaoting, name: 戴耀廷, rel: colleague, text: 47 人案的首要分子，同日判刑, cite: c04-bbc-2024-11-19-hk47-b }
+  politics:
+    level: none
+    why: 香港学运领袖依《香港国安法》获刑，属北京对香港反对派的整肃，不涉及党内权力斗争
+    cites: [c04-bbc-2024-11-19-hk47-b]
+  outcome: sentenced
+
+dai-yaoting:
+  sys: edu
+  grade: none
+  trigger: { kind: incident, text: 组织 2020 年民主派初选，在 47 人案中被认定为首要分子, cite: c04-bbc-2024-11-19-hk47-a }
+  with:
+    - { id: huang-zhifeng, name: 黄之锋, rel: colleague, text: 47 人案同案被告, cite: c04-bbc-2024-11-19-hk47-b }
+  politics:
+    level: none
+    why: 香港法律学者依《香港国安法》获刑，属北京对香港反对派的整肃，不涉及党内权力斗争
+    cites: [c04-bbc-2024-11-19-hk47-a]
+  outcome: sentenced
+
+li-zhuming:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 因 2019 年 8·18 流水式集会案被定罪，随后被撤销太平绅士委任, cite: c04-cna-2024-12-28-martin-lee }
+  politics:
+    level: none
+    why: 香港民主派元老因集会案被定罪、褫夺荣衔，不涉及党内权力斗争
+    cites: [c04-cna-2024-12-28-martin-lee]
+  outcome: disciplined
+
+luo-guancong:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 《香港国安法》实施前夕离开香港，后被香港警方悬红通缉, cite: c06-dw-2021-04-08-nathan-law }
+  politics:
+    level: none
+    why: 香港社运人士因《香港国安法》流亡，不涉及党内权力斗争
+    cites: [c06-dw-2021-04-08-nathan-law, c06-bbc-2023-07-04-hk-bounty]
+  outcome: fled
+
+lin-rongji:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 铜锣湾书店事件中，2015 年 10 月他被所称的中央专案组带走, cite: e03-bbc-2016-06-16-causeway-bay }
+  with:
+    - { id: gui-minhai, name: 桂民海, rel: colleague, text: 铜锣湾书店股东，同在 2015 年 10 月被带走, cite: e03-bbc-2016-06-16-causeway-bay }
+  politics:
+    level: none
+    why: 铜锣湾书店事件，属北京跨境压制政治书籍出版，不涉及党内权力斗争
+    cites: [e03-bbc-2016-06-16-causeway-bay]
+  outcome: died
+
+gui-minhai:
+  sys: other
+  grade: none
+  trigger: { kind: incident, text: 铜锣湾书店事件中，2015 年 10 月在泰国芭提雅寓所被掳走, cite: c06-rfi-2026-07-05-gui-minhai }
+  with:
+    - { id: lin-rongji, name: 林荣基, rel: colleague, text: 铜锣湾书店店长，同期被带走, cite: e03-bbc-2016-06-16-causeway-bay }
+  politics:
+    level: none
+    why: 铜锣湾书店事件，属北京跨境压制政治书籍出版，不涉及党内权力斗争
+    cites: [c06-bbc-2020-02-25-gui-minhai]
+  outcome: sentenced
+
+zeng-yinquan:
+  sys: other
+  grade: none
+  trigger: { kind: media, text: 2012 年行将卸任时被媒体揭发以低廉价格租用深圳富豪黄楚标的大型住宅单元，未向行政会议申报黄正申请香港数码广播执照, cite: c04-bbc-2019-06-26-donald-tsang }
+  politics:
+    level: none
+    why: 香港廉政公署起诉的公职人员行为失当案，终审撤销定罪，不涉及中共党内权力斗争
+    cites: [c04-bbc-2019-06-26-donald-tsang]
+  outcome: released
+
+tang-yingnian:
+  sys: other
+  grade: none
+  trigger: { kind: media, text: 2012 年特首选举期间被揭房产有地下违章建筑，他公开致歉但未退选, cite: c06-bbc-2012-02-16-henry-tang }
+  politics:
+    level: none
+    why: 香港特首选举中的丑闻，此后仍任全国政协常委，不涉及中共党内权力斗争
+    cites: [c06-bbc-2012-02-16-henry-tang]
+
+chen-shuibian:
+  sys: other
+  grade: none
+  trigger: { kind: unknown, text: 本站所见来源只记他 2015 年合并判刑 20 年定谳，未说明案发经过, cite: c06-udn-2026-01-04-chen-shuibian }
+  politics:
+    level: none
+    why: 台湾前领导人卸任后的司法贪腐案，与中共党内政治无关
+    cites: [c06-udn-2026-01-04-chen-shuibian]
+  outcome: sentenced
