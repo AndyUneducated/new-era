@@ -1,0 +1,317 @@
+# U07: sources for 上位之路 of the sitting provincial party secretaries (round 13)
+web:
+  # official résumés
+  - id: u07-thepaper-2026-07-31-luo-wen-cv
+    title: 罗文任河北省委书记（附简历）
+    publisher: 澎湃新闻（中国城市报）
+    date: 2026-07-31
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_33692040
+    excerpt: true
+    keep: [ "罗文，男，汉族，1964年12月生", "1985.07—1997.11", "1997.11—2000.02", "2003.03—2009.04", "2009.04—2015.11", "2015.11—2017.07", "2017.07—2019.01", "2019.01—2020.03", "2020.03—2022.05", "2022.05—2022.06", "2022.06—2022.07", "2022.07—2026.07", "2026.07— 河北省委书记" ]
+  - id: u07-chinanews-2023-10-28-tang-dengjie
+    title: 38岁升副部，他履新山西省委书记
+    publisher: 中国新闻网
+    date: 2023-10-28
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2023/10-28/10102345.shtml
+    start: "中新网北京10月28日电(记者 阚枫)空缺一个月后"
+    end: "恳请同志们和社会各界对我严格监督。”"
+  - id: u07-ce-2017-04-03-wang-weizhong-cv
+    title: 王伟中任广东省委常委 接替许勤任深圳市委书记（简历）
+    publisher: 中国经济网
+    date: 2017-04-03
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201704/03/t20170403_21693483.shtml
+    start: "中国经济网深圳4月3日综合报道"
+    end: "2017.03- 广东省委常委、深圳市委书记"
+  - id: u07-people-2014-09-30-shanxi-five
+    title: 山西一日内常委“进五退一” 中纪委常委空降
+    publisher: 人民网
+    date: 2014-09-30
+    voice: official
+    url: http://renshi.people.com.cn/n/2014/0930/c372279-25766509.html
+    start: "山西省委常委班子今日进行“重组”"
+    end: "将是各方关注焦点。"
+  - id: u07-chinanews-2014-10-08-wang-weizhong
+    title: 王伟中任山西省委秘书长 曾任科技部副部长
+    publisher: 中国新闻网
+    date: 2014-10-08
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2014/10-08/6653721.shtml
+    start: "据山西日报消息"
+    end: "2014年9月任山西省委常委、省委秘书长。"
+  - id: u07-cctv-2021-10-19-xu-kunlin-cv
+    title: 人物简历：许昆林
+    publisher: 央视网
+    date: 2021-10-19
+    voice: official
+    url: http://news.cctv.com/2021/10/19/ARTIbfwgSJaxudWiRhlolGA8211019.shtml
+    start: "许昆林，男，1965年5月生"
+    end: "2021.10—2022.01 江苏省委副书记，副省长、代省长、省政府党组书记"
+  - id: u07-jjckb-2013-08-07-milk-fine
+    title: 合生元等6家奶企因垄断价格被罚约6.7亿元
+    publisher: 经济参考网（新华社）
+    date: 2013-08-07
+    voice: official
+    url: http://jjckb.xinhuanet.com/2013-08/07/content_460190.htm
+    start: "国家发展和改革委员会7日宣布"
+    end: "对其他行业和企业是个警示。"
+  - id: u07-people-2021-02-03-huang-qiang-cv
+    title: 黄强当选四川省人民政府省长（简历）
+    publisher: 人民网（四川日报）
+    date: 2021-02-03
+    voice: official
+    url: http://renshi.people.com.cn/n1/2021/0203/c139617-32021112.html
+    start: "四川省第十三届人民代表大会第四次会议于2021年2月2日依法选举"
+    end: "十三届全国人大代表，省十三届人大代表"
+  - id: u07-jsnews-2023-01-03-xin-changxing-cv
+    title: 信长星同志简历
+    publisher: 新华网江苏频道
+    date: 2023-01-03
+    voice: official
+    url: http://js.news.cn/2023-01/03/c_1129253496.htm
+    start: "信长星，男，汉族，1963年12月生"
+    end: "2022.05-2023.01 青海省委书记、省人大常委会主任"
+  - id: u07-thepaper-2024-10-28-wang-hao-cv
+    title: 中共中央决定：王浩同志任浙江省委书记（附简历）
+    publisher: 澎湃新闻（澎湃号）
+    date: 2024-10-29
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_29181371
+    excerpt: true
+    keep: [ "王浩，男，汉族，1963年10月生", "1993年1月起，历任", "2003年4月，任山东省菏泽市委常委", "2012年9月，任山东省委副秘书长", "2014年3月，任山东省民政厅厅长", "2015年2月，任山东省淄博市委书记", "2017年6月，任山东省委常委", "2017年12月，任河北省委常委、唐山市委书记", "2019年8月，任陕西省委常委、西安市委书记", "2021年9月，任浙江省委副书记", "2024年10月，任浙江省委书记" ]
+  - id: u07-people-2017-06-30-li-lecheng-cv
+    title: 中共湖北省第十一届委员会常委简历（李乐成）
+    publisher: 人民网
+    date: 2017-06-30
+    voice: official
+    url: http://renshi.people.com.cn/n1/2017/0630/c139617-29374654-12.html
+    start: "李乐成，男，1965年3月出生"
+    end: "2017.06— 湖北省委常委，襄阳市委书记、市人大常委会主任"
+  - id: u07-xinhua-2026-09-23-li-lecheng
+    title: 安徽省委主要负责同志职务调整 李乐成任安徽省委书记
+    publisher: 新华网
+    date: 2026-09-23
+    voice: official
+    url: https://www.news.cn/20260923/7c665da7cbe94cc6a7a0db6619d151ca/c.html
+    start: "新华网合肥9月23日电"
+    end: "不再担任省委书记职务。"
+  - id: u07-cctv-2021-10-22-zhao-long-cv
+    title: 人物简历：赵龙
+    publisher: 央视网（人民网）
+    date: 2021-10-22
+    voice: official
+    url: https://news.cctv.com/2021/10/22/ARTI5xcQxuE3en3FBSAEj5jR211022.shtml
+    start: "赵龙，男，汉族，1967年9月生"
+    end: "2022年1月任福建省委副书记，省人民政府省长、党组书记。"
+  - id: u07-people-2021-03-31-yin-hong-cv
+    title: 尹弘任甘肃省委书记（简历）
+    publisher: 人民网
+    date: 2021-03-31
+    voice: official
+    url: http://renshi.people.com.cn/n1/2021/0331/c139617-32066353.html
+    start: "中国共产党新闻网北京3月31日电"
+    end: "十九届中央候补委员，党的十九大代表，十三届全国人大代表"
+  - id: u07-cctv-2019-12-05-lin-wu-cv
+    title: 人物简历：林武
+    publisher: 央视网
+    date: 2019-12-05
+    voice: official
+    url: http://news.cctv.com/2019/12/05/ARTIsqqVYMIeYy6U0gy8ooOm191205.shtml
+    start: "林武，男，汉族，1962年2月生"
+    end: "中共十九大代表，十届、十一届、十三届全国人大代表。"
+  - id: u07-people-2019-05-24-zhou-zuyi-cv
+    title: 周祖翼任中央编办主任（简历）
+    publisher: 人民网
+    date: 2019-05-24
+    voice: official
+    url: http://renshi.people.com.cn/n1/2019/0524/c139617-31101183.html
+    start: "中国共产党新闻网北京5月24日电"
+    end: "2016年10月任中组部副部长。"
+  - id: u07-chinanews-2022-11-28-youngest-sec
+    title: 多省份党委“一把手”调整，最年轻的是他
+    publisher: 中国新闻网
+    date: 2022-11-28
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2022/11-28/9904217.shtml
+    start: "中新网北京11月28日电(记者 阚枫)28日上午"
+    end: "最年轻的省级政府“一把手”。(完)"
+  - id: u07-ce-2025-01-07-guan-zhiou-cv
+    title: 关志鸥兼任国家自然资源总督察（简历）
+    publisher: 中国经济网
+    date: 2025-01-07
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202501/07/t20250107_39259083.shtml
+    start: "中国经济网北京1月7日综合报道"
+    end: "2024年12月至今任自然资源部党组书记、部长，兼任国家自然资源总督察。"
+  - id: u07-xinhua-2026-05-30-guan-zhiou
+    title: 湖北省委主要负责同志职务调整 关志鸥任湖北省委书记
+    publisher: 新华网
+    date: 2026-05-30
+    voice: official
+    url: https://www.xinhuanet.com/politics/20260530/9dcd192e15554f9a8274849ddef9e410/c.html
+    start: "新华网武汉5月30日电"
+    end: "是二十届中央候补委员。"
+  - id: u07-gov-2017-04-07-shen-xiaoming-cv
+    title: 沈晓明简历
+    publisher: 中国政府网
+    date: 2017-04-07
+    voice: official
+    url: https://web.archive.org/web/2021/https://www.gov.cn/guoqing/2017-04/07/content_5184171.htm
+    start: "沈晓明，男，1963年5月生"
+    end: "十九届中央委员"
+  - id: u07-xinhua-2017-06-22-chen-gang-xiongan
+    title: 河北省委常委陈刚任雄安新区党工委书记、管委会主任
+    publisher: 新华网（中国经济网）
+    date: 2017-06-22
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-06/22/c_1121192707.htm
+    start: "据河北日报报道，6月21日下午"
+    end: "2017年6月至今，河北省委常委，雄安新区党工委书记、管委会主任。"
+  - id: u07-rmzxw-2025-01-02-chen-gang
+    title: 广西壮族自治区党委主要负责同志职务调整 陈刚任广西壮族自治区党委书记
+    publisher: 人民政协网（新华网）
+    date: 2025-01-02
+    voice: official
+    url: https://www.rmzxw.com.cn/c/2025-01-02/3656437.shtml
+    start: "新华网南宁12月31日电"
+    end: "二十届中央委员。"
+  - id: u07-people-2014-01-20-wang-xiaohui-cv
+    title: 王晓晖任中央政策研究室副主任（简历）
+    publisher: 人民网
+    date: 2014-01-20
+    voice: official
+    url: http://renshi.people.com.cn/n/2014/0120/c139617-24173213-2.html
+    start: "王晓晖，男，1962年生"
+    end: "2009年起任中共中央宣传部副部长。"
+  - id: u07-xinhua-2022-12-09-xu-lin-cv
+    title: 贵州省委主要负责同志职务调整 徐麟任贵州省委书记
+    publisher: 新华网
+    date: 2022-12-09
+    voice: official
+    url: https://www.news.cn/politics/2022-12/09/c_1129194379.htm
+    start: "新华网贵阳12月9日电"
+    end: "是十九届、二十届中央委员。"
+  - id: u07-cctv-2020-07-02-wang-ning-cv
+    title: 人物简历：王宁
+    publisher: 央视网
+    date: 2020-07-02
+    voice: official
+    url: http://news.cctv.com/2020/07/02/ARTIVP1PHMneLEOPGYigr0cH200702.shtml
+    start: "王宁，男，汉族，1961年4月生"
+    end: "2022.01—云南省委书记，省人大常委会主任、党组书记。"
+  - id: u07-people-2021-02-23-hu-changsheng-cv
+    title: 胡昌升当选黑龙江省省长（简历）
+    publisher: 人民网
+    date: 2021-02-23
+    voice: official
+    url: http://renshi.people.com.cn/n1/2021/0223/c139617-32034352.html
+    start: "黑龙江省第十三届人民代表大会第五次会议"
+    end: "2021.02—— 黑龙江省委副书记、代省长，省政府党组书记"
+  - id: u07-sxworker-2022-11-27-zhao-yide-cv
+    title: 赵一德任陕西省委书记（简历）
+    publisher: 陕西工人报
+    date: 2022-11-27
+    voice: official
+    url: https://www.sxworker.com/xinwen/sx/2022-11-27/152021.html
+    start: "日前，中共中央决定：刘国中同志不再兼任"
+    end: "陕西省第十三届人民代表大会代表。"
+  - id: u07-cctv-2022-04-04-wu-xiaojun-cv
+    title: 人物简历：吴晓军
+    publisher: 央视网（人民网）
+    date: 2022-04-04
+    voice: official
+    url: https://news.cctv.com/2022/04/04/ARTIrt0eR2mB3zXOtfM3Uz3q220404.shtml
+    start: "吴晓军，男，汉族，1966年1月出生"
+    end: "2022.03- 2022.05 青海省委副书记，省政府党组书记、副省长、代理省长"
+  - id: u07-chinapeace-2020-08-06-luo-dongchuan-cv
+    title: 罗东川任福建省委常委、政法委书记（简历）
+    publisher: 中国长安网（经济日报）
+    date: 2020-08-06
+    voice: official
+    url: http://chinapeace.gov.cn/chinapeace/c100007/2020-08/06/content_12380239.shtml
+    start: "经济日报-中国经济网福州8月4日综合报道"
+    end: "2020.07－福建省委常委、政法委书记"
+  - id: u07-people-2020-05-13-li-yifei-cv
+    title: 李邑飞任新疆维吾尔自治区党委常委（简历）
+    publisher: 人民网
+    date: 2020-05-14
+    voice: official
+    url: http://renshi.people.com.cn/n1/2020/0513/c139617-31707556.html
+    start: "中国共产党新闻网北京5月14日电"
+    end: "2020.05 新疆维吾尔自治区党委常委"
+  - id: u07-ce-2016-05-10-chen-xiaojiang-cv
+    title: 陈小江任辽宁省委常委、省纪委书记（简历）
+    publisher: 中国经济网
+    date: 2016-05-10
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201605/10/t20160510_11398385.shtml
+    start: "中国经济网沈阳5月10日综合报道"
+    end: "2016年5月，辽宁省委常委、省纪委书记。"
+
+  # reports on the events and relationships
+  - id: u07-cac-2016-08-03-chen-gang-bigdata
+    title: 陈刚：我们是笨鸟，但我们先飞了
+    publisher: 中央网信办（《网络传播》）
+    date: 2016-08-03
+    voice: official
+    url: http://www.cac.gov.cn/2016-08/03/c_1119330057.htm
+    start: "全国第一个大数据战略重点实验室"
+    end: "到贵阳来创业。”"
+  - id: u07-zaobao-2016-06-30-xu-lin
+    title: 中央网信办、江西、青海“一把手”换人 中国新一轮升级党政人事布局提前启动
+    publisher: 联合早报
+    date: 2016-06-30
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20160630-635108
+    excerpt: true
+    keep: [ "曾在中共总书记习近平直接领导下工作的徐麟接替鲁炜", "可直接向习近平汇报工作", "徐麟迎来他仕途上的一次重要升迁", "他是领导班子里面最年轻的一位", "2015年6月，徐麟进京出任国家网信办排名第一的副主任", "对中宣部进行了措辞严厉的批评" ]
+  - id: u07-bbc-2016-06-29-xu-lin
+    title: 中国网控动作频频 徐麟接替鲁炜成“守门人”
+    publisher: BBC 中文
+    date: 2016-06-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/06/160629_china_internet_regulator_replacement
+    excerpt: true
+    keep: [ "以主张严格管理网络著称的鲁炜", "53岁的徐麟毕业于上海师范大学", "2007年3月，习近平从浙江调往上海", "中国媒体评论说，徐麟从网信办副主任升至主任只用了一年时间" ]
+  - id: u07-caixin-2026-05-30-guan-zhiou
+    title: 人事观察｜56岁关志鸥主政湖北 成最年轻省级党委书记
+    publisher: 财新网
+    date: 2026-05-30
+    voice: zh
+    url: https://china.caixin.com/2026-05-30/102449414.html
+    excerpt: true
+    keep: [ "曾是国务院组成部门最年轻一把手", "省级党委书记在2026年首现调整" ]
+  - id: u07-caixin-2026-09-29-wu-xiaojun
+    title: 人事观察｜甘肃党政一把手职务调整尘埃落定
+    publisher: 财新网
+    date: 2026-09-29
+    voice: zh
+    url: https://china.caixin.com/2026-09-29/102489540.html
+    excerpt: true
+    keep: [ "曾是全国最年轻的省级党委书记" ]
+  - id: u07-zaobao-2020-12-16-chen-xiaojiang
+    title: 陈小江接任民委书记 料成66年来首名汉族主任
+    publisher: 联合早报
+    date: 2020-12-16
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20201216-1109270
+    excerpt: true
+    keep: [ "2015年官场轨迹出现转折", "属于非常规之举", "接管及拨乱反正的意味浓厚" ]
+  - id: u07-zaobao-2020-12-28-chen-xiaojiang
+    title: 近70年来首位 汉族陈小江任国家民委主任
+    publisher: 联合早报
+    date: 2020-12-28
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20201228-1111839
+    excerpt: true
+    keep: [ "陈小江的仕途经历之前几乎从未涉猎民族事务", "唐任伍并分析", "2015年，他调任中纪委宣传部长，晋升副部级" ]
+  - id: u07-caixin-2020-12-14-chen-xiaojiang
+    title: 人事观察｜66年来首位汉族人出任国家民委主任 中央纪委副书记陈小江履新
+    publisher: 财新网
+    date: 2020-12-14
+    voice: zh
+    url: https://china.caixin.com/2020-12-14/101639007.html
+    excerpt: true
+    keep: [ "自1954年以来，国家民委主任首次由汉族官员担任" ]
