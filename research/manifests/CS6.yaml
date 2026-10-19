@@ -1,0 +1,243 @@
+# CS6: case studies (Huaxin & Ye Jianming, Tomorrow Group, Zhejiang Guangsha network, sentencing tiers after 2016)
+web:
+  # --- Huaxin / Ye Jianming ---
+  - id: cs6-court-2018-10-11-wang-sanyun-trial
+    title: 全国人大教育科学文化卫生委员会原副主任委员王三运受贿案一审开庭
+    publisher: 最高人民法院网（人民网）
+    date: 2018-10-11
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/122021.html
+    start: 河南省郑州市中级人民法院官方微信消息
+    end: 择期宣判。
+  - id: cs6-jiemian-2018-10-12-ye-hainan-bank
+    title: 中国华信董事局主席叶简明被指行贿原甘肃省委书记王三运
+    publisher: 界面新闻
+    date: 2018-10-12
+    voice: zh
+    url: https://www.jiemian.com/article/2531113.html
+    start: 原甘肃省委书记王三运案的公开审理
+    end: 他从2013年起任职于这家国有政策型银行。
+    excerpt: true
+    keep: [为中国华信下属公司上海华信入股海南银行提供帮助。上海华信是, 其中，上海华信占股12%, 根据叶简明的供述, 为中国华信下属海南华信获得国家开发银行48亿美元, 现年63岁的胡怀邦]
+  - id: cs6-jiemian-2018-10-12-li-guangjin
+    title: 还原神秘能源大佬叶简明与“大老虎”王三运之间的交易
+    publisher: 界面新闻（能见）
+    date: 2018-10-12
+    voice: zh
+    url: https://www.jiemian.com/article/2531829.html
+    start: 被有关部门带走调查半年后
+    end: 这一年，胡怀邦63岁，正式退休。
+    excerpt: true
+    keep: [检方指控，王三运案中第一起, 上海华信持股比例高达12%, 海南银行2016年共发生四笔, 不到副省长级别, 得益于李光金介绍了其在福建任职时的老同事, 李光金给了叶简明很多指点, 2013年5月20日，华星化工, 在基本敲定此次重组之后, 七年内增长了700多倍, 9月27日，国家开发银行在京召开干部大会]
+  - id: cs6-bbc-2019-03-26-patrick-ho
+    title: 何志平贿赂案：香港前高官美国领刑 自称“中美交恶替罪羊”
+    publisher: BBC 中文
+    date: 2019-03-26
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-47702724
+    excerpt: true
+    keep: [法官判处其监禁三年, 为其所服务的中国华信能源谋取非洲石油开采利益, 何志平于2017年11月被捕时, 另建议华信能源董事局主席叶简明, 自去年2月以后一直下落不明]
+  - id: cs6-nytcn-2018-03-15-cefc
+    title: 神秘的能源巨头华信在北京“失宠”
+    publisher: 纽约时报中文网
+    date: 2018-03-15
+    voice: zh
+    url: https://cn.nytimes.com/business/20180315/china-cefc-investigation/
+    excerpt: true
+    keep: [去年，一位神秘的中国买家, 据专家称，他似乎得到了政府的支持, 中国财经杂志《财新周刊》本月报道, 他说自己是靠收购曾经属于赖昌星的石油资产起家的, 他曾在一个叫中国国际友好联络会的机构担任副秘书长, 叶简明上海办公室的墙上挂着, 在香港，叶简明是亲北京的香港立法会成员, 公司9月同意从石油贸易商嘉能可, 它披露了约200亿美元的债务, 在法院庭审中，检方表示]
+  - id: cs6-nbd-2019-12-09-cefc-bonds
+    title: 法院已裁定受理上海华信破产清算案 公司债券违约额超265亿
+    publisher: 每日经济新闻
+    date: 2019-12-09
+    voice: zh
+    url: https://www.nbd.com.cn/articles/2019-12-09/1392176.html
+    excerpt: true
+    keep: [早在2019年11月15日, 上海华信是中国华信能源有限公司, 上海华信已有13只债券违约, 由于发行人控股股东中国华信能源有限公司董事会主席不能正常履职]
+  - id: cs6-tahota-2024-04-29-cefc-bankruptcy
+    title: 上海破产法庭发布2023年度典型案例（中国华信能源有限公司等七十家关联企业实质合并破产清算案）
+    publisher: 泰和泰律师事务所（转载上海破产法庭）
+    date: 2024-04-29
+    voice: zh
+    url: https://www.tahota.com/CN/article.aspx?KeyID=5e365e358c799535&mdid=30daf702d97beb74
+    excerpt: true
+    keep: [中国华信能源有限公司等七十家关联企业实质合并破产清算案, 2018年末华信集团账面资产约800余亿元, 分批裁定将法人人格高度混同, 香港高等法院于2019年12月签署, 该案核查确认共计800余笔债权, 2023年2月，上海三中院依据]
+  - id: cs6-stcn-2025-10-31-cefc-bonds
+    title: “华信债”虚假陈述案一审判决：五中介被判赔逾1800万元，赔偿额如何认定？
+    publisher: 证券时报网（界面新闻）
+    date: 2025-10-31
+    voice: zh
+    url: https://www.stcn.com/article/detail/3471386.html
+    excerpt: true
+    keep: [2014年到2017年期间，上海华信曾连续四年, 发行总金额高达400亿余元, 后该中期票据于2018年9月发生实质性违约, 赔偿金额总计1854万元]
+  - id: cs6-epoch-2024-10-22-ye-jianming
+    title: 王友群：叶简明为何“被失踪”六年多？
+    publisher: 大纪元
+    date: 2024-10-22
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/24/10/22/n14355421.htm
+    excerpt: true
+    keep: [叶简明2018年2月16日被带走, 叶简明与以江泽民、曾庆红为首的江派关系密切, 他的主要关系人——王宏源, 华信资产总计570.6亿元, 他的出生日期有三个]
+  # --- Tomorrow Group ---
+  - id: cs6-chinanews-2022-08-19-xiao-verdict
+    title: 被告单位明天控股有限公司、被告人肖建华非法吸收公众存款、背信运用受托财产、违法运用资金、单位行贿案一审公开宣判
+    publisher: 中国新闻网（人民法院报）
+    date: 2022-08-19
+    voice: official
+    url: https://www.chinanews.com.cn/cj/2022/08-19/9831656.shtml
+    start: 上海市第一中级人民法院于2022年7月4日
+    end: 部分人大代表、政协委员及群众代表参加了旁听。
+  - id: cs6-people-2020-07-17-takeover
+    title: 银保监会：依法对天安财险等六家机构接管 期限1年
+    publisher: 人民网
+    date: 2020-07-17
+    voice: official
+    url: http://money.people.com.cn/n1/2020/0717/c42877-31788125.html
+    start: 人民网北京7月17日电
+    end: 依法保护保险活动当事人、信托当事人等各利益相关方的合法权益。
+  - id: cs6-shgov-2020-07-20-cbirc-qa
+    title: 中国银保监会新闻发言人答记者问
+    publisher: 上海市地方金融监督管理局网站（银保监会）
+    date: 2020-07-20
+    voice: official
+    url: https://jrj.sh.gov.cn/RDHY238/20200917/f196ac2c88b74395876a41553bb3d529.html
+    start: 1.为什么要接管天安财险等六家机构？
+    end: 服务实体经济的质效。
+  - id: cs6-thepaper-2020-08-03-zhou-xuedong
+    title: 周学东谈接管包商银行：大股东占款1560亿，全部成了不良
+    publisher: 澎湃新闻（《中国金融》）
+    date: 2020-08-03
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_8558229
+    excerpt: true
+    keep: [2019年5月24日，包商银行因出现严重信用风险, 当2017年5月专案组介入“明天系”案件后发现, 由存款保险基金提供资金, 2020年4月30日，蒙商银行正式成立并开业, 李镇西自2002年担任包商银行行长, 明确归属明天集团的机构股东有35户, 从原内蒙古银监局副局长刘金明、贾奇珍等案件的查处中, 周学东系包商银行接管组组长]
+  - id: cs6-bbtnews-2021-03-09-baoshang-bankrupt
+    title: 正式“退场”！包商银行被法院裁定破产
+    publisher: 北京商报
+    date: 2021-03-09
+    voice: zh
+    url: https://www.bbtnews.com.cn/2021/0309/388696.shtml
+    excerpt: true
+    keep: [于2021年2月7日作出《民事裁定书》, 确认债权金额合计为2013.98亿元, 包商银行净资产为-2055.16亿元]
+  - id: cs6-thepaper-2024-01-03-li-zhenxi
+    title: 原包商银行董事长李镇西部分行贿细节曝光，为谋取政协委员身份行贿超千万
+    publisher: 澎湃新闻
+    date: 2024-01-03
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_25889638
+    excerpt: true
+    keep: [2008年10月-2016年12月，邹万银利用职务便利, 2014年夏天至2016年11月, 领导，我们跟随你, 我到包头工作要租房子住, 原内蒙古银监局党委书记、局长薛纪宁同样回忆, 中央纪委国家监委网站披露，薛纪宁任局长期间]
+  - id: cs6-caixin-2025-01-27-li-zhenxi
+    title: 包商银行原高管腐败窝案落槌 关键人物被控多项罪名入狱
+    publisher: 财新网
+    date: 2025-01-27
+    voice: zh
+    url: https://wenews.caixin.com/m/2025-01-27/102283913.html
+    excerpt: true
+    keep: [历经五年的调查及司法程序, 中国第一家经由司法破产程序完成清盘退出的商业银行]
+  - id: cs6-dw-2022-08-19-xiao
+    title: 保密式审理后宣判：肖建华获刑13年
+    publisher: 德国之声中文网
+    date: 2022-08-19
+    voice: zh
+    url: https://www.dw.com/zh/保密式审理后宣判肖建华获刑13年/a-62866004
+    excerpt: true
+    keep: [现年50岁的肖建华, 肖建华被认为与政界关系密切, 2017年初，肖建华在香港神秘失踪, 才证实，肖建华在中国大陆协助政府重组集团, 加拿大驻华使馆领事官员曾多次要求旁听, 很少有人比肖建华更了解中国政治领导人家族的财产状况了]
+  - id: cs6-ce-2025-08-06-insurers
+    title: 四家险企风险处置收官
+    publisher: 中国经济网（金融时报）
+    date: 2025-08-06
+    voice: zh
+    url: http://finance.ce.cn/insurance1/scrollnews/202508/t20250806_2433217.shtml
+    excerpt: true
+    keep: [对华夏人寿处罚的落地, 接管原定期限一年，后延长至2022年7月16日, 瑞众人寿整体受让华夏人寿, 中汇人寿整体受让天安人寿, 申能财险受让天安财险的保险业务, 比亚迪汽车接手易安财险, 从四家保险机构的风险处置方案来看]
+  # --- Zhejiang / Guangsha ---
+  - id: cs6-chinanews-2015-07-28-lou-zhongfu
+    title: 楼忠福攀上令家独霸浙江东阳 曾算命有牢狱之灾
+    publisher: 中国新闻网（中国经济周刊）
+    date: 2015-07-28
+    voice: zh
+    url: https://www.chinanews.com.cn/m/cj/2015/07-28/7431044.shtml
+    excerpt: true
+    keep: [在过去的30年中，楼忠福织就了庞大的政商关系网，其政界资源也由东阳市（县级市）, 2014年12月27日中午, 公开资料显示，2002年，时任广厦集团董事局主席, 从公开报道中可搜索到的楼忠福与令家的交集, 在十八大召开前后，令家的核心人物职务发生变化, 2014年10月，楼忠福出版新书, 吴永正公开指称, 广厦集团随即发表声明回应, 楼忠福在经营企业的同时，积极地跻身于政界, 很少有人真正敢去参与竞拍, 一位被楼忠福认作“干爹”的人士, 上世纪90年代，楼忠福还结交了一位浙江省政法系统, 斯鑫良确由楼忠福供出, 据媒体报道称，楼忠福亦是通过斯鑫良结识了令家, 多位受访者认为，在斯鑫良仕途的巅峰时期]
+  - id: cs6-thepaper-2015-01-01-lou-taken
+    title: 媒体曝浙商楼忠福已被带走，曾自称只是“赞助”谷丽萍基金会
+    publisher: 澎湃新闻
+    date: 2015-01-01
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1290731
+    excerpt: true
+    keep: [从澳大利亚过完圣诞节返回国内时被中纪委直接从广州白云机场带走, 2002年7月，北京中青红舰网络技术有限公司, 2005年10月，楼忠福分别受让, 2007年5月，中青红舰科技将所持, 2009年10月，中青红舰网络注销, 楼忠福称，这一合作实质是, 广厦集团一位高管则向澎湃新闻表示]
+  - id: cs6-bbc-2015-01-01-lou-zhongfu
+    title: 中國著名民營企業家樓忠福被帶走調查
+    publisher: BBC 中文
+    date: 2015-01-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2015/01/150101_china_corruption_louzhongfu
+    excerpt: true
+    keep: [樓忠福是在12月27日, 目前有關方面還沒有確認樓忠福被帶走調查的原因, 由於樓忠福過去在商業活動中與令計劃家族成員有密切合作關係]
+  - id: cs6-thepaper-2015-02-16-si-li
+    title: 浙江首虎斯鑫良之子斯力被带走，与广厦集团创始人楼忠福同乡
+    publisher: 澎湃新闻
+    date: 2015-02-16
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1304383
+    excerpt: true
+    keep: [组织部长斯力此前亦被有关部门带走, 2002年，时任浙江省委常委、组织部部长的斯鑫良曾前往广厦, 2001年，广厦和浙江团省委合作, 楼忠福的儿子、广厦集团董事局主席楼明]
+  - id: cs6-thepaper-2015-02-16-si-xinliang
+    title: 浙江“首虎”斯鑫良落马前已退休2年，儿子简历遭官网移除
+    publisher: 澎湃新闻
+    date: 2015-02-16
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1304362
+    excerpt: true
+    keep: [在金华任职9年, 去年11月，中央第五巡视组对浙江的巡视结束后]
+  - id: cs6-sohu-2015-07-14-lou-sponsor
+    title: 楼忠福“赞助”谷丽萍被双规 调查已近尾声
+    publisher: 搜狐新闻（无界新闻）
+    date: 2015-07-14
+    voice: zh
+    url: https://news.sohu.com/20150714/n416785045.shtml
+    excerpt: true
+    keep: [因与原十二届全国政协副主席令计划妻子谷丽萍的非正常生意往来, 这笔类似“政治献金”的捐助起因是楼忠福主办《青年时报》, 上述捐助其实是到北京, 楼忠福出事后，斯鑫良就知道自己跑不掉了, 称斯鑫良为“独狼”, 2011年1月28日，义乌市国土资源局, 广厦建设集团以39亿元价格成功摘牌, 谁都知道这块地就是给广厦的, 有一笔20余亿元的钱款从义乌返给了广厦集团, 吴坚与楼忠福的恩怨源于, 作为债权人的吴坚, 2010年2月8日，杭州市公安局西湖分局, 2011年11月8日，吴坚在杭州西湖区法院受审]
+  - id: cs6-cyol-2015-07-30-lou-comment
+    title: 没有规则与边界，官商关系就像“养小鬼”
+    publisher: 中国青年报
+    date: 2015-07-30
+    voice: zh
+    url: https://zqb.cyol.com/html/2015-07/30/nw.D110000zgqnb_20150730_1-02.htm
+    excerpt: true
+    keep: [推出一组封面报道《楼忠福的红与黑》, 有关斯鑫良与楼忠福交往中的另一个传闻, 斯鑫良即是在楼忠福被抓后落马]
+  - id: cs6-caixin-2016-08-18-si-trial
+    title: 涉贿1955万元 浙江“首虎”斯鑫良案开庭
+    publisher: 财新网
+    date: 2016-08-18
+    voice: zh
+    url: https://china.caixin.com/2016-08-18/100979049.html
+    excerpt: true
+    keep: [和富商楼忠福等关系密切]
+  - id: cs6-yicai-2023-05-24-guangsha-debt
+    title: 隐秘输血二股东、“踩雷”10亿逾期，东望时代巨额担保风险引爆
+    publisher: 第一财经
+    date: 2023-05-24
+    voice: zh
+    url: https://www.yicai.com/news/101764780.html
+    excerpt: true
+    keep: [广厦控股为东望时代前实控人, 一个月后，广厦控股债务逾期, 广厦控股共计被司法执行802次, 随着东阳国资接手东望时代股份]
+  - id: cs6-csrc-2023-12-07-guangsha-warning
+    title: 关于对广厦控股集团有限公司及其一致行动人采取出具警示函措施的决定
+    publisher: 中国证监会浙江监管局
+    date: 2023-12-07
+    voice: official
+    url: https://www.csrc.gov.cn/zhejiang/c103952/c7448393/content.shtml
+    start: 广厦控股集团有限公司、广厦建设集团有限责任公司
+    end: 杜绝今后再次发生此类违规行为。
+  # --- sentencing tiers ---
+  - id: cs6-court-2016-04-19-graft-interpretation
+    title: 最高人民法院 最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释
+    publisher: 最高人民法院网（人民法院报）
+    date: 2016-04-19
+    voice: doc
+    url: https://www.court.gov.cn/fabu/xiangqing/19612.html
+    start: 法释〔2016〕9号
+    end: 以本解释为准。
