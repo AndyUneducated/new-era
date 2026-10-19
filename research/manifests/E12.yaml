@@ -1,0 +1,34 @@
+# E12 events: suggested events from CS4 (army/PAP) and CS5 (Nanchong, stock crash, Jiangxi, life sentences, political brokers)
+web:
+  - id: e12-mod-2025-07-21-political-cadre-rules
+    title: 中央军委印发规定 牢固立起政治干部形象威信
+    publisher: 国防部网（解放军报）
+    date: 2025-07-21
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/qwfb/16397925.html
+    start: 解放军报讯 中央军委近日印发
+    end: 执行情况接受全军各级党组织和广大官兵监督。
+  - id: e12-ccdi-2016-04-18-graft-interpretation
+    title: 两高发布贪污贿赂刑事案件司法解释 明确贪污受贿定罪量刑标准
+    publisher: 中央纪委网站（新华社）
+    date: 2016-04-18
+    voice: official
+    url: https://m.ccdi.gov.cn/content/6f/fb/9599.html
+    start: 最高人民法院、最高人民检察院18日联合发布
+    end: （记者 罗沙 陈菲）
+  - id: e12-court-2016-11-16-sentence-rules
+    title: 最高人民法院出台关于减刑、假释案件的司法解释
+    publisher: 最高人民法院网（人民法院报）
+    date: 2016-11-16
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/30731.html
+    start: 11月15日上午，最高人民法院发布了
+    end: （记者乔文心）
+  - id: e12-gov-2023-12-27-discipline-regulations
+    title: 中共中央印发《中国共产党纪律处分条例》
+    publisher: 中国政府网（新华社）
+    date: 2023-12-27
+    voice: doc
+    url: https://www.gov.cn/zhengce/202312/content_6922758.htm
+    start: 新华社北京12月27日电
+    end: 依照本条例规定处理。

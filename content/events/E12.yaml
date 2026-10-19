@@ -1,0 +1,271 @@
+# E12: suggested events from CS4 (PAP, political work, logistics and audit, mobilization) and CS5 (Nanchong, 2015 stock crash, Jiangxi, life sentences, political brokers).
+
+# ---------- army, PAP, logistics, audit, mobilization (CS4) ----------
+- id: e12-2014-audit-office-to-cmc
+  date: 2014-11-06
+  title: 解放军审计署由总后勤部划归中央军委
+  lane: army
+  summary: 2014年11月6日，新华社报道习近平近日签署命令，解放军审计署由总后勤部划归中央军委建制，在军委领导下主管全军审计工作、对军委负责并报告工作，“其党的建设、政治工作和行政管理由军委办公厅领导”。当天的命令宣布大会上许其亮宣读命令、范长龙讲话，报道称此举意在“增强审计监督的独立性、权威性和实效性”。
+  people: [xi-jinping, fan-changlong, xu-qiliang]
+  concepts: [xi-military-thought]
+  cites: [cs4-people-2014-11-06-audit-office]
+
+- id: e12-2015-army-16-cases
+  date: 2015-01-15
+  end: 2015-01-16
+  title: 军队集中公布2014年16名军级以上落马干部
+  lane: army
+  summary: 2015年1月15日，十八届中纪委五次全会闭幕次日，中国军网公布2014年军队查处的16起军级以上干部重大贪腐案件。除南京政治学院政治部主任马向东为大校外，其余15人都是将军，包括上将徐才厚、中将杨金山、范长秘、于大清和总后勤部副部长刘铮；人民日报称省军区和军事院校各有四人落马，成为“重灾区”。次日解放军报报道，总政、总后和军委纪委决定用两年时间在全军和武警部队专项清理整治经济适用住房建设项目。
+  people: [xu-caihou, yang-jinshan, fan-changmi, yu-daqing, liu-zheng]
+  concepts: [xi-military-thought]
+  cites: [f09-hqrw-2015-01-26-army-tigers, cs4-people-2015-01-16-army-tigers]
+
+- id: e12-2016-msd-to-mobilization
+  date: 2016-02-18
+  end: 2016-03-11
+  title: 省军区系统转隶军委国防动员部
+  lane: army
+  summary: 2016年1月军委机关调整组建时新设军委国防动员部。2月18日，“军报记者”微信公号报道，“省军区系统转隶军委国防动员部领导管理”。盛斌3月在全国两会期间接受中国国防报专访时说，国防动员部“履行组织指导国防动员和后备力量建设职能，领导管理省军区”，并称按相关法律，省军区系统是“同级党委的军事部、地方政府的兵役机构、当地驻军的协调机关”。
+  people: [sheng-bin]
+  concepts: [xi-military-thought]
+  cites: [cs4-thepaper-2016-02-18-msd, cs4-chinacom-2016-03-11-sheng-bin]
+
+- id: e12-2016-paid-services-halt
+  date: 2016-03-27
+  end: 2019-07-10
+  title: 军队和武警部队全面停止有偿服务
+  lane: army
+  summary: 2016年3月27日，新华社报道中央军委近日印发《关于军队和武警部队全面停止有偿服务活动的通知》，计划用3年左右时间分步骤停止一切有偿服务活动，自通知下发之日起“一律不得新上项目、新签合同”。2019年7月新华社宣布“全面停止军队有偿服务任务基本完成”，称有偿服务是1998年军队停止经商后暂时保留的“特殊历史条件下的产物”。另说通知是2016年2月下发的（新华社，2019年）。
+  concepts: [xi-military-thought]
+  cites: [cs4-chinanews-2016-03-27-paid-services, cs4-xinhua-2019-07-10-paid-services]
+
+- id: e12-2016-joint-logistics-force
+  date: 2016-09-13
+  title: 中央军委联勤保障部队成立
+  lane: army
+  summary: 2016年9月13日，中央军委联勤保障部队成立大会在八一大楼举行。习近平向武汉联勤保障基地和无锡、桂林、西宁、沈阳、郑州五个联勤保障中心授予军旗并致训词，称联勤保障部队是“实施联勤保障和战略战役支援保障的主体力量”，要求坚决听党指挥。范长龙宣读组建命令，许其亮主持大会，武汉联勤保障基地司令员李士生、政委殷志红接旗。
+  people: [xi-jinping, fan-changlong, xu-qiliang]
+  concepts: [xi-military-thought]
+  cites: [cs4-gov-2016-09-13-jlsf]
+
+- id: e12-2017-pap-leadership
+  date: 2017-12-27
+  title: 武警部队改由党中央、中央军委集中统一领导
+  lane: army
+  major: true
+  summary: 2017年12月27日，新华社播发中共中央《关于调整中国人民武装警察部队领导指挥体制的决定》：“自2018年1月1日零时起，武警部队由党中央、中央军委集中统一领导”，实行军委—武警部队—部队的领导指挥体制，“武警部队归中央军委建制，不再列国务院序列”。此前武警受国务院和中央军委双重领导，德国之声称地方政府以维稳名义调动武警的现象“曾司空见惯”。
+  concepts: [xi-military-thought, party-leadership]
+  voices:
+    - voice: scholar
+      text: 现在将武警统统收为中央军委控制，剥夺了地方、各地政府对武警的控制权
+      cite: cs4-dw-2017-12-27-pap
+      quote: true
+  cites: [cs4-gov-2017-12-27-pap-leadership, cs4-dw-2017-12-27-pap]
+
+- id: e12-2025-cao-junzhang-acting
+  date: 2025-07-21
+  end: 2025-07-25
+  title: 曹均章以武警代理司令员身份露面，王春宁被罢免人大代表
+  lane: army
+  summary: 2025年7月21日，第十五届全国见义勇为英雄模范表彰大会在京召开，“武警部队代理司令员曹均章等出席会议”，这是他首次以新身份亮相，此前任武警副司令员，长期在原成都军区服役。7月25日，武警部队军人代表大会以“涉嫌严重违纪违法”罢免司令员王春宁的全国人大代表职务。联合早报称，曹均章以代理司令出席活动，“间接证实王春宁已经出事”。
+  people: [wang-chunning]
+  cites: [cs4-caixin-2025-07-24-cao-junzhang, a02-wikisource-npc-qualification-reports, cs4-zaobao-2025-09-13-four-generals]
+
+- id: e12-2025-zhang-lin-gao-daguang-removed
+  date: 2025-07-21
+  end: 2025-09-12
+  title: 后勤保障部部长张林、联勤保障部队政委高大光同日被罢免人大代表
+  lane: army
+  summary: 2025年7月21日，中央军委后勤保障部召开军人代表大会，以涉嫌严重违纪违法为由，同时罢免后勤保障部部长张林和联勤保障部队政委高大光的全国人大代表职务；9月12日全国人大常委会通过的代表资格审查报告确认二人代表资格终止。联合早报认为，这批将领落马与何卫东、苗华有关，受访学者称苗华主管政工期间提拔的高级将领“可能绝大部分都被调查”。
+  people: [zhang-lin-pla, gao-daguang, he-weidong, miao-hua]
+  factions: [he-miao]
+  cites: [a02-wikisource-npc-qualification-reports, cs4-zaobao-2025-09-13-four-generals]
+
+- id: e12-2025-political-cadre-rules
+  date: 2025-07-21
+  title: 中央军委印发重塑政治干部形象威信的若干规定
+  lane: army
+  summary: 2025年7月21日，解放军报报道中央军委近日印发《关于大力弘扬优良传统、全面肃清流毒影响 重塑政治干部形象威信的若干规定》，共7个方面22条，要求政治干部特别是政治领导干部“带头徙木立信、从严肃毒除弊、重塑形象威信”，牢记“党代表”身份，执行情况接受全军党组织和官兵监督。詹姆斯敦基金会分析，官方把政工系统的核心问题归于不当的人际关系，而非财务腐败。
+  people: [he-weidong, miao-hua]
+  factions: [he-miao]
+  concepts: [xi-military-thought]
+  voices:
+    - voice: scholar
+      text: 詹姆斯敦基金会认为，这份规定意味着何卫东、苗华很可能是因为政治工作和人事管理上的缺失而失去了习近平的信任。
+      cite: cs4-jamestown-2025-pwd-reshape
+  cites: [e12-mod-2025-07-21-political-cadre-rules, cs4-jamestown-2025-pwd-reshape]
+
+- id: e12-2025-sun-bin-removed
+  date: 2025-09-16
+  end: 2025-10-28
+  title: 军委审计署审计长孙斌被罢免人大代表
+  lane: army
+  summary: 2025年9月16日，中央军委办公厅召开军人代表大会，以涉嫌严重违纪违法罢免军委审计署审计长孙斌的全国人大代表职务，10月28日全国人大常委会确认其代表资格终止。按2014年的安排，审计署的党建和行政管理归军委办公厅领导。财新称孙斌是“两届中央纪委委员”，并统计十四届全国人大已有22名将军被罢免。另说孙斌是副审计长（联合早报）。
+  people: [sun-bin-pla]
+  cites: [a02-wikisource-npc-qualification-reports, cs4-caixin-2025-10-29-sun-bin, cs4-zaobao-2025-10-29-xu-dazhe, cs4-people-2014-11-06-audit-office]
+
+- id: e12-2026-wang-donghai-removed
+  date: 2026-01-26
+  end: 2026-02-26
+  title: 国防动员部政委王东海被罢免人大代表
+  lane: army
+  summary: 2026年1月26日，中央军委国防动员部召开军人代表大会，以涉嫌严重违纪违法罢免该部原政委王东海的全国人大代表职务。2月26日全国人大常委会公告罢免19人的代表职务，德国之声称其中九名军队代表除五名上将外，还有中将王东海和三名少将。国防动员部是2016年军改新设、领导管理省军区系统的机关。
+  people: [wang-donghai]
+  cites: [a02-wikisource-npc-qualification-reports, f09-dw-2026-02-26-pla-deputies, cs4-chinacom-2016-03-11-sheng-bin]
+
+# ---------- Nanchong, stock crash, Jiangxi, life sentences, political brokers (CS5) ----------
+- id: e12-2015-police-csrc
+  date: 2015-07-09
+  end: 2015-07-10
+  title: 公安部副部长孟庆丰带队进驻证监会排查恶意卖空
+  lane: econ
+  summary: 2015年7月9日上午，股指连续三周下跌、多项救市措施不见效之际，刚履新的公安部副部长孟庆丰带队到证监会，会同证监会排查近期“恶意卖空股票与股指”的线索。据市场消息，10日孟庆丰率跨部门工作组抵达上海，已发现个别贸易公司涉嫌操纵证券期货交易等犯罪线索。报道称公安部出手后，两市连续两天出现千股涨停。
+  cites: [cs5-people-2015-07-09-police-csrc, cs5-people-2015-07-13-police-shanghai]
+
+- id: e12-2015-nanchong-notice
+  date: 2015-09-15
+  title: 中央通报四川南充拉票贿选案
+  lane: purge
+  major: true
+  summary: 2015年9月15日，四川省委召开会议，省纪委书记王雁飞宣读《中共中央关于四川南充拉票贿选案查处情况及其教训警示的通报》。经查，2011年南充市委五届一次全会前，时任仪陇县委书记杨建华用公款80万元送钱拉票，当选市委常委；全案涉及477人、涉案金额1671.9万元，33人被开除党籍公职并移送司法，杨建华获刑20年，时任市委书记刘宏建以玩忽职守罪获刑3年。
+  people: [wang-dongming]
+  concepts: [strict-governance]
+  voices:
+    - voice: official
+      text: 南充拉票贿选案是一宗严重违反党纪国法、严重违反党的政治纪律和政治规矩、严重违反组织人事纪律的恶劣案件，教训极其深刻。
+      cite: cs5-ccdi-2015-09-15-nanchong-meeting
+      quote: true
+  cites: [cs5-ccdi-2015-09-15-nanchong-meeting, cs5-people-2015-09-15-nanchong]
+
+- id: e12-2016-cbrc-circ-inspection
+  date: 2015-11-02
+  end: 2016-02-04
+  title: 中央巡视组专项巡视银监会、保监会
+  lane: purge
+  summary: 2015年11月2日至12月31日，中央第十四巡视组对保监会党委专项巡视，第十二巡视组11月3日起巡视银监会。2016年2月反馈时，两组都指出“党的领导弱化，党的建设缺失，全面从严治党不力”；银监会被指“利用监管职权谋取私利的问题反映多”，保监会被指“一些干部存在以权谋私，违规兼职取酬等问题”，并有突击提拔干部现象。保监会的反馈会由主席项俊波主持。
+  people: [shang-fulin, xiang-junbo]
+  concepts: [strict-governance]
+  cites: [cs5-people-2016-02-04-cbrc-inspection, cs5-chinacom-2016-02-04-circ-inspection]
+
+- id: e12-2017-xiang-junbo-fall
+  date: 2017-04-09
+  end: 2020-06-16
+  title: 保监会主席项俊波落马
+  lane: purge
+  summary: 2017年4月9日，中纪委宣布保监会主席项俊波涉嫌严重违纪，正接受组织审查，副主席陈文辉4月13日起暂时负责保监会工作。9月通报称他“为谋取个人政治利益，滥用审批权和监管权，对抗组织审查，搞迷信活动”，将其开除党籍。2020年6月16日，常州中院以受贿罪判处他有期徒刑十一年，认定他在人民银行、农业银行和保监会任上受贿1862万余元，并有自首情节。
+  people: [xiang-junbo]
+  concepts: [strict-governance]
+  cites: [c03-ccdi-2017-04-09-xiang-junbo-probe, cs5-thepaper-2023-05-05-chen-wenhui, c03-ccdi-2017-09-23-xiang-junbo-expel, c03-rmzxw-2020-06-16-xiang-junbo-verdict]
+
+- id: e12-2017-fin-work-conference
+  date: 2017-07-14
+  end: 2017-11-08
+  title: 全国金融工作会议召开，国务院金融稳定发展委员会成立
+  lane: econ
+  summary: 2017年7月14日至15日，全国金融工作会议在北京召开。习近平称“金融安全是国家安全的重要组成部分”，要求“坚持党中央对金融工作集中统一领导”，强化对金融系统关键岗位特别是一把手的监督，并宣布设立国务院金融稳定发展委员会。11月8日，中国政府网宣布金稳委成立并召开第一次全体会议，作为统筹协调金融稳定和改革发展重大问题的议事协调机构，马凯任主任。
+  people: [xi-jinping, ma-kai]
+  concepts: [party-leadership, holistic-security]
+  cites: [cs5-gov-2017-07-15-fin-work-conf, cs5-gov-2017-11-08-fsdc]
+
+- id: e12-2018-short-case-closed
+  date: 2018-11-05
+  title: 股灾“做空”案三家券商获证监会结案
+  lane: econ
+  summary: 2018年11月5日，中信证券、海通证券和国信证券发布公告称，证监会认为涉案违法事实不成立，决定结案。三家券商在2015年股灾期间被指协助司度做空A股，被集中立案调查三年。财新后来回顾，中信证券原总经理程博明等十多名高管和业务骨干曾被要求协助调查，最终三人被判刑，但罪名与股灾无关，这起大案“就此草草画上句号”。
+  people: [cheng-boming]
+  cites: [cs5-caixin-2018-11-05-short-case-closed, cs5-caixin-2019-02-19-citic-aftermath]
+
+- id: e12-2013-jiangxi-inspection
+  date: 2013-05-27
+  end: 2013-09-18
+  title: 中央第八巡视组巡视江西，发现苏荣问题线索
+  lane: purge
+  summary: 2013年5月27日至8月20日，中央第八巡视组巡视江西，9月18日反馈时指出有的领导干部及其亲属插手工程建设项目、谋取私利、节假日收送红包礼金，并把问题线索转中纪委、中组部处理。时任副组长宁延令后来在专题片中说，巡视组在个别谈话中得知，省委书记苏荣在省人大主任选举中丢了将近50票，选全国人大代表时又丢了将近70票。中纪委网站文章称苏荣的问题线索是巡视发现的。
+  people: [su-rong]
+  concepts: [strict-governance]
+  cites: [t01-chinacourt-2015-06-chen-anzhong-verdict, b12-people-2016-10-21-su-rong-documentary, cs5-people-2015-04-12-inspection-findings]
+
+- id: e12-2016-jiangxi-revisit
+  date: 2016-06-30
+  end: 2016-12-29
+  title: 中央巡视“回头看”批江西苏荣案后续处理不力
+  lane: purge
+  summary: 2016年6月30日至8月30日，中央第十一巡视组对江西进行巡视“回头看”，10月8日反馈意见。12月29日公布的整改情况承认“苏荣案后续处理工作不力，造成负面政治影响”，称省委对后续处理“既有求稳思想”；涉苏荣案的43名省管干部中，9人移送司法、16人受纪律处分、18人予以了结。巡视组还点出11名买官卖官涉案人员，省委书记鹿心社任整改第一责任人。
+  people: [su-rong, lu-xinshe]
+  concepts: [strict-governance]
+  cites: [cs5-yyzx-2016-12-29-jiangxi-rectify]
+
+- id: e12-2015-criminal-law-9
+  date: 2015-08-29
+  end: 2015-11-01
+  title: 刑法修正案（九）通过，重大贪污受贿犯罪可判终身监禁
+  lane: purge
+  major: true
+  summary: 2015年8月29日，十二届全国人大常委会第十六次会议通过《刑法修正案（九）》，11月1日起施行。修正案取消贪污受贿罪的具体数额标准，改为“数额较大”“数额巨大”“数额特别巨大”和相应情节，并规定因贪污受贿被判死缓的，法院可同时决定期满减为无期徒刑后“终身监禁，不得减刑、假释”。三审稿审议时，也有专家和司法工作者认为终身监禁让罪犯看不到希望，有违教育改造的刑罚目的。
+  concepts: [rule-of-law]
+  voices:
+    - voice: scholar
+      text: 草案三审稿新增这一条款，意味着被判死缓的贪官很可能要把牢底坐穿。
+      cite: cs5-npc-2015-08-26-life-draft
+      quote: true
+  cites: [cs5-gov-2015-08-30-criminal-law-9, cs5-npc-2015-08-26-life-draft, e12-ccdi-2016-04-18-graft-interpretation]
+
+- id: e12-2016-graft-interpretation
+  date: 2016-04-18
+  title: 两高司法解释明确贪污受贿定罪量刑标准和终身监禁适用
+  lane: purge
+  summary: 2016年4月18日，最高法、最高检联合发布办理贪污贿赂刑事案件的司法解释，公布之日起施行。它把贪污受贿“数额较大”的一般标准由1997年刑法的五千元调到三万元，二十万元以上不满三百万元为“数额巨大”，三百万元以上为“数额特别巨大”；判死刑立即执行过重、判一般死缓又偏轻的重大贪污受贿罪犯可决定终身监禁，须在一、二审作出死缓裁判时一并决定。
+  concepts: [rule-of-law]
+  cites: [e12-ccdi-2016-04-18-graft-interpretation, cs5-xinhua-2016-10-10-bai-enpei-first]
+
+- id: e12-2016-sentence-rules
+  date: 2016-11-15
+  end: 2017-01-01
+  title: 最高法减刑假释新规：终身监禁的贪污受贿罪犯不得再减刑假释
+  lane: purge
+  summary: 2016年11月15日，最高人民法院发布《关于办理减刑、假释案件具体应用法律的规定》，2017年1月1日起施行。审监庭庭长夏道虎介绍，规定细化了刑法修正案（九）的新规，“新增对决定终身监禁的贪污、受贿罪犯不得再减刑、假释的规定”，并对职务犯罪、黑社会性质组织犯罪、金融犯罪等罪犯，从严规定减刑的起始时间、间隔时间和幅度。
+  concepts: [rule-of-law]
+  cites: [e12-court-2016-11-16-sentence-rules, cs5-xinhua-2016-11-16-sentence-rules]
+
+- id: e12-2014-ding-shumiao-sentenced
+  date: 2014-12-16
+  title: 刘志军案关键人物丁书苗一审获刑20年
+  lane: purge
+  summary: 2014年12月16日，北京市第二中级人民法院以行贿罪、非法经营罪判处丁羽心（又名丁书苗）有期徒刑20年，并处罚金25亿元、没收个人财产2000万元。法院认定她通过时任铁道部部长刘志军，帮助23家投标公司中标57个铁路工程项目，本人违法获利20亿余元，并为刘志军“跑官”“办事”行贿4900万元。另说她个人非法获利25亿余元（新华网）。她2011年初被抓获后很快供出刘志军。
+  people: [ding-shumiao, liu-zhijun]
+  cites: [cs5-court-2014-12-17-ding-shumiao, f09-people-2014-12-16-ding-shumiao]
+
+- id: e12-2018-ma-jian-sentenced
+  date: 2018-12-27
+  title: 国安部原副部长马建一审被判无期徒刑
+  lane: purge
+  summary: 2018年12月27日，大连中院以受贿、强迫交易、内幕交易罪判处国家安全部原副部长马建无期徒刑。法院认定他1999年至2014年为郭文贵及其控制的政泉公司提供帮助，收受财物1.09亿余元；与郭文贵共谋，指派人员以威胁等手段强迫他人转让股份，使政泉控股民族证券；还利用方正证券重组的内幕信息让亲属买卖股票获利4929万余元。案件因涉国家秘密不公开审理。
+  people: [ma-jian, guo-wengui]
+  cites: [f06-court-2018-12-27-ma-jian, b14-bbc-2018-12-27-ma-jian]
+
+- id: e12-2018-sichuan-zhou-decision
+  date: 2018-10
+  title: 四川省委出台彻底肃清周永康流毒影响的决定
+  lane: purge
+  summary: 2018年10月，四川省委出台《关于彻底肃清周永康流毒影响持续净化四川政治生态的决定》，从政治、思想、组织、文化、纪律5个方面提出17条措施，要求围绕肃清周永康流毒影响召开专题民主生活会，汲取李春城、郭永祥、李崇禧、李成云等案件教训，并对中央巡视反馈和监督执纪执法中发现的涉周永康案问题线索依纪依法严肃处理。
+  people: [zhou-yongkang, li-chuncheng, guo-yongxiang, li-chongxi, li-chengyun]
+  factions: [zhou-clique]
+  concepts: [strict-governance]
+  cites: [cs5-thepaper-2018-10-10-sichuan-decision]
+
+- id: e12-2023-discipline-regulations
+  date: 2023-12-27
+  end: 2024-01-01
+  title: 新修订的纪律处分条例增写结交政治骗子条款
+  lane: purge
+  summary: 2023年12月27日，新华社播发中共中央印发的修订后《中国共产党纪律处分条例》，2024年1月1日起施行。新增的第五十五条规定，“搞投机钻营，结交政治骗子或者被政治骗子利用的”，给予严重警告或撤销党内职务处分，情节严重的给予留党察看或开除党籍；充当政治骗子的，给予撤销党内职务、留党察看或开除党籍处分。二十届中纪委三次全会随后对严惩政治骗子作出部署。
+  concepts: [strict-governance]
+  cites: [e12-gov-2023-12-27-discipline-regulations, cs5-scjc-2024-06-05-swindlers]
+
+- id: e12-2024-sichuan-swindlers-meeting
+  date: 2024-12-20
+  title: 四川召开全省严防政治骗子警示教育大会
+  lane: purge
+  summary: 2024年12月20日，四川召开全省严防政治骗子警示教育大会，省纪委书记廖建宇出席讲话。会议称政治骗子“游走于体制内外、混迹于官商之间”，虚构政治背景招摇撞骗，要求党员干部对声称“朝中有人”、允诺运作升迁或“摆案抹案”的行为果断拒绝，并称“各级纪委监委和公安机关要加大对政治骗子的惩治力度”。此前绵阳原副市长刘海昌、仕途集中在四川的杨克宁都被通报结交政治骗子。
+  concepts: [strict-governance]
+  cites: [cs5-scol-2024-12-20-sichuan-swindlers, cs5-cjn-2024-05-24-political-swindlers]

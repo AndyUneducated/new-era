@@ -1,0 +1,87 @@
+# E12: policies with landing events from CS4 (army, PAP) and CS5 (discipline, finance, criminal law). Appended to the concepts' own lists.
+
+xi-military-thought:
+  policies:
+    - date: 2014-11-06
+      name: 解放军审计署划归中央军委建制
+      text: 审计署由总后勤部划出，主管全军审计工作，对中央军委负责并报告工作。
+      events: [e12-2014-audit-office-to-cmc]
+      cite: cs4-people-2014-11-06-audit-office
+    - { date: 2015-11-26, name: 中央军委改革工作会议, text: '', events: [e12-2016-msd-to-mobilization, e12-2016-joint-logistics-force], cite: e03-gov-2015-11-26-military-reform }
+    - date: 2016-03-27
+      name: 军队和武警部队全面停止有偿服务
+      text: 用3年左右时间分步骤停止军队和武警部队一切有偿服务活动。
+      events: [e12-2016-paid-services-halt]
+      cite: cs4-chinanews-2016-03-27-paid-services
+    - date: 2017-12-27
+      name: 调整武警部队领导指挥体制
+      text: 武警部队由党中央、中央军委集中统一领导，归中央军委建制，不再列国务院序列。
+      events: [e12-2017-pap-leadership]
+      cite: cs4-gov-2017-12-27-pap-leadership
+    - date: 2025-07-21
+      name: 重塑政治干部形象威信的若干规定
+      text: 共7个方面22条，要求政治干部特别是政治领导干部带头肃毒除弊、重塑形象威信。
+      events: [e12-2025-political-cadre-rules]
+      cite: e12-mod-2025-07-21-political-cadre-rules
+
+party-leadership:
+  policies:
+    - date: 2017-07-14
+      name: 全国金融工作会议
+      text: 要求坚持党中央对金融工作集中统一领导，设立国务院金融稳定发展委员会。
+      events: [e12-2017-fin-work-conference]
+      cite: cs5-gov-2017-07-15-fin-work-conf
+    - date: 2017-12-27
+      name: 调整武警部队领导指挥体制
+      text: 自2018年1月1日起武警部队由党中央、中央军委集中统一领导。
+      events: [e12-2017-pap-leadership]
+      cite: cs4-gov-2017-12-27-pap-leadership
+
+holistic-security:
+  policies:
+    - date: 2017-07-14
+      name: 全国金融工作会议
+      text: 称金融安全是国家安全的重要组成部分，要求保障国家金融安全。
+      events: [e12-2017-fin-work-conference]
+      cite: cs5-gov-2017-07-15-fin-work-conf
+
+strict-governance:
+  policies:
+    - date: 2015-09-15
+      name: 中共中央通报四川南充拉票贿选案
+      text: 全案涉及477人，要求以铁的纪律保证换届风清气正。
+      events: [e12-2015-nanchong-notice]
+      cite: cs5-ccdi-2015-09-15-nanchong-meeting
+    - date: 2015-11-02
+      name: 中央巡视组对金融监管部门专项巡视
+      text: 银监会、保监会均被指党的领导弱化、党的建设缺失、全面从严治党不力。
+      events: [e12-2016-cbrc-circ-inspection]
+      cite: cs5-people-2016-02-04-cbrc-inspection
+    - date: 2016-06-30
+      name: 中央巡视组对江西巡视“回头看”
+      text: 指出苏荣案后续处理工作不力，要求处理涉案省管干部。
+      events: [e12-2016-jiangxi-revisit]
+      cite: cs5-yyzx-2016-12-29-jiangxi-rectify
+    - date: 2023-12-27
+      name: 修订《中国共产党纪律处分条例》
+      text: 新增第五十五条，对结交政治骗子、被政治骗子利用和充当政治骗子的给予处分。
+      events: [e12-2023-discipline-regulations]
+      cite: e12-gov-2023-12-27-discipline-regulations
+
+rule-of-law:
+  policies:
+    - date: 2015-08-29
+      name: 刑法修正案（九）
+      text: 取消贪污受贿罪的具体数额标准，对因贪污受贿被判死缓者可决定终身监禁。
+      events: [e12-2015-criminal-law-9]
+      cite: cs5-gov-2015-08-30-criminal-law-9
+    - date: 2016-04-18
+      name: 两高办理贪污贿赂刑事案件司法解释
+      text: 数额较大的一般标准由五千元调到三万元，明确终身监禁的适用情形。
+      events: [e12-2016-graft-interpretation]
+      cite: e12-ccdi-2016-04-18-graft-interpretation
+    - date: 2016-11-15
+      name: 最高法办理减刑、假释案件的规定
+      text: 新增决定终身监禁的贪污受贿罪犯不得再减刑、假释的规定。
+      events: [e12-2016-sentence-rules]
+      cite: e12-court-2016-11-16-sentence-rules
