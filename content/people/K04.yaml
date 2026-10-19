@@ -4611,8 +4611,9 @@
     河南禹州人，十八届中央候补委员、十九、二十届中央委员。水利专家出身，曾任黄河水利委员会主任、水利部副部长，2015 年调任安徽省委副书记，2016–2021 年任安徽省省长，2021 年起任水利部部长。
   positions:
     - { title: 水利部黄河水利委员会主任, sys: gov, from: 2001-05, to: 2011-03, cite: p01-wiki-li-guoying }
-    - { title: 水利部副部长, sys: gov, from: 2011-03, to: 2015-08, cite: p01-wiki-li-guoying }
-    - { title: 安徽省省长, sys: gov, place: 安徽, from: 2016-09, to: 2021-02, cite: p01-wiki-li-guoying }
+    - { title: 水利部副部长, sys: gov, from: 2011-03, to: 2015-07, cite: u09-chinawater-li-guoying }
+    - { title: 安徽省副省长、代省长, sys: gov, place: 安徽, from: 2016-09, to: 2017-01, cite: u09-chinawater-li-guoying }
+    - { title: 安徽省省长, sys: gov, place: 安徽, from: 2017-01, to: 2021-02, cite: u09-chinawater-li-guoying }
     - { title: 水利部部长, sys: gov, from: 2021-02, cite: p01-wiki-li-guoying }
   cites: [wd-Q8297956, p01-wiki-li-guoying, k02-xinhua-2012-11-14-18-cca, k02-xinhua-2017-10-24-19-cc, k02-xinhua-2022-10-22-20-cc]
 
@@ -4780,8 +4781,8 @@
     江苏南通人，十八、十九届中央候补委员、二十届中央委员。曾任昆明市市长、上海市黄浦区委书记、南昌市委书记、济南市委书记，2017 年任山东省委副书记，2018–2020 年任黑龙江省省长，2020 年起任商务部部长。
   positions:
     - { title: 江西省委常委、南昌市委书记, sys: party, place: 江西, from: 2011-04, to: 2015-03, cite: p01-wiki-wang-wentao }
-    - { title: 山东省委常委、济南市委书记, sys: party, place: 山东, from: 2015-03, to: 2017-04, cite: p01-wiki-wang-wentao }
-    - { title: 山东省委副书记, sys: party, place: 山东, from: 2017-04, to: 2018-03, cite: p01-wiki-wang-wentao }
+    - { title: 山东省委常委、济南市委书记, sys: party, place: 山东, from: 2015-03, to: 2017-03, cite: u09-xinhua-2020-12-02-wang-wentao }
+    - { title: 山东省委副书记、济南市委书记, sys: party, place: 山东, from: 2017-03, to: 2018-03, cite: u09-xinhua-2020-12-02-wang-wentao }
     - { title: 黑龙江省省长, sys: gov, place: 黑龙江, from: 2018-03, to: 2020-12, cite: p01-wiki-wang-wentao }
     - { title: 商务部部长, sys: gov, from: 2020-12, cite: p01-wiki-wang-wentao }
   cites: [wd-Q8292723, p01-wiki-wang-wentao, k02-xinhua-2012-11-14-18-cca, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc]
@@ -4928,8 +4929,8 @@
   bio: >-
     江苏高淳人，十八届中央候补委员、十九、二十届中央委员。曾任太原市委书记、南京市委书记，2017–2021 年任江苏省省长，2021–2022 年任江苏省委书记，2023 年起任国务委员兼国务院秘书长。
   positions:
-    - { title: 山西省委常委、太原市委书记, sys: party, place: 山西, from: 2014-09, to: 2016-10, cite: p01-wiki-wu-zhenglong }
-    - { title: 江苏省委副书记、南京市委书记, sys: party, place: 江苏, from: 2016-10, to: 2017-05, cite: p01-wiki-wu-zhenglong }
+    - { title: 山西省委常委、太原市委书记, sys: party, place: 山西, from: 2014-09, to: 2016-09, cite: u09-cctv-2017-07-29-wu-zhenglong }
+    - { title: 江苏省委副书记、南京市委书记, sys: party, place: 江苏, from: 2016-09, to: 2017-05, cite: u09-cctv-2017-07-29-wu-zhenglong }
     - { title: 江苏省省长, sys: gov, place: 江苏, from: 2017-05, to: 2021-10, cite: p01-wiki-wu-zhenglong }
     - { title: 江苏省委书记, sys: party, place: 江苏, from: 2021-10, to: 2022-12, cite: p01-wiki-wu-zhenglong }
     - { title: 国务委员、国务院秘书长, sys: gov, from: 2023-03, cite: p01-wiki-wu-zhenglong }

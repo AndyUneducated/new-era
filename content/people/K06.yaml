@@ -320,14 +320,15 @@
   headline: 交通运输部党组书记、部长
   ids: { wikidata: Q30942497 }
   bio: >-
-    河南柘城人，二十届中央委员；曾任河南省发改委主任，应急管理部副部长、党组成员，吉林省委副书记等职。至 2024 年 9 月任北京市委副书记，2024 年 9 月起任交通运输部党组书记、部长。
+    河南柘城人，二十届中央委员；曾任河南省发改委主任，应急管理部副部长、党组成员，吉林省委副书记等职。至 2024 年 9 月任北京市委副书记，2024 年 9 月起任交通运输部党组书记，11 月 8 日经全国人大常委会任命为部长。
   positions:
     - { title: 河南省航空港经济综合实验区建设领导小组办公室常务副主任, sys: gov, place: 河南, from: 2013-05, cite: k06-wiki-liu-wei-transport }
     - { title: 河南省发改委主任, sys: gov, place: 河南, from: 2017-01, cite: k06-wiki-liu-wei-transport }
-    - { title: 应急管理部副部长、党组成员, sys: gov, from: 2020-02, cite: k06-wiki-liu-wei-transport }
+    - { title: 应急管理部副部长、党组成员, sys: gov, from: 2020-01, cite: u09-people-2020-02-10-liu-wei }
     - { title: 吉林省委副书记, sys: party, place: 吉林, from: 2022-04, cite: k06-wiki-liu-wei-transport }
     - { title: 北京市委副书记, sys: party, place: 北京, to: 2024-09, cite: k06-wiki-20th-cc-list }
-    - { title: 交通运输部党组书记、部长, sys: gov, from: 2024-09, cite: k06-wiki-20th-cc-list }
+    - { title: 交通运输部党组书记, sys: gov, from: 2024-09, to: 2024-11, cite: k06-wiki-20th-cc-list }
+    - { title: 交通运输部党组书记、部长, sys: gov, from: 2024-11-08, cite: u09-thepaper-2024-11-08-liu-wei }
   cites: [wd-Q30942497, k06-wiki-liu-wei-transport, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc]
 
 - id: liu-xiaoming
@@ -934,10 +935,10 @@
   positions:
     - { title: 财政审计司司长助理, sys: other, from: 1998-09, cite: k06-wiki-hou-kai }
     - { title: 驻哈尔滨特派员办事处特派员, sys: gov, from: 2007-01, cite: k06-wiki-hou-kai }
-    - { title: 审计署副审计长, sys: gov, from: 2010-10, cite: k06-wiki-hou-kai }
+    - { title: 审计署副审计长, sys: gov, from: 2010-09, cite: u09-people-2020-07-01-hou-kai }
     - { title: 上海市委常委、市纪委书记, sys: party, place: 上海, from: 2013-11, cite: k06-wiki-hou-kai }
     - { title: 中央直属机关工作委员会副书记、纪律检查工作委员会书记, sys: party, from: 2016-12, cite: k06-wiki-hou-kai }
-    - { title: 审计署党组书记、审计长, sys: gov, cite: k06-wiki-20th-cc-list }
+    - { title: 审计署党组书记、审计长, sys: gov, from: 2020-06, cite: u09-people-2020-07-01-hou-kai }
   cites: [wd-Q15939018, k06-wiki-hou-kai, k06-wiki-20th-cc-list, k02-xinhua-2022-10-22-20-cc]
 
 - id: yu-qingjiang
