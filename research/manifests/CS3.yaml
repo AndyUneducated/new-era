@@ -1,0 +1,52 @@
+# CS3: 军队案件专题长文（谷俊山、郭徐流毒、2017 军委换班、火箭军、装备航天、九上将、张又侠、战区缺席）
+web:
+  # ---- 张又侠、刘振立 ----
+  - id: cs3-qstheory-2026-09-23-pla-daily-editorial
+    title: 解放军报社论：坚定不移全面从严治党、全面从严治军
+    publisher: 求是网（转载解放军报）
+    date: 2026-09-23
+    voice: official
+    url: https://www.qstheory.cn/20260923/0937f70ee6d04f06929602f56fee9379/c.html
+    start: 党中央决定，给予张又侠、刘振立开除党籍处分
+    end: 以过硬作风和形象感召带动部队。
+  - id: cs3-cna-2025-10-23-zhang-shengmin
+    title: 中共四中全會閉幕　張升民增補為中央軍委副主席
+    publisher: 中央社
+    date: 2025-10-23
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202510230303.aspx
+    excerpt: true
+    keep: [並未遞補為中央政治局委員, 3人籍貫都為陝西, 未被遞補為軍委委員]
+  - id: cs3-dw-2026-09-zhang-21st
+    title: 张又侠被整肃后 习近平二十一大连任稳了？
+    publisher: 德国之声
+    date: 2026-09-24
+    voice: zh
+    url: https://www.dw.com/zh/%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%A2%AB%E6%95%B4%E8%82%83%E5%90%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7%E8%BF%9E%E4%BB%BB%E7%A8%B3%E4%BA%86/a-79411740
+    excerpt: true
+    keep: [七上八下, 消除了重大政治隐患, 詹姆斯·查尔]
+  # ---- 八一招待会与将领缺席 ----
+  - id: cs3-xinhua-2026-07-31-bayi-reception
+    title: 国防部举办盛大招待会 热烈庆祝中国人民解放军建军99周年
+    publisher: 新华网
+    date: 2026-07-31
+    voice: official
+    url: https://www.news.cn/politics/20260731/1f36af5ff40041eaa09943fa6efab957/c.html
+    start: 新华社北京7月31日电（记者梅常伟）
+    end: 各国驻华武官夫妇等中外嘉宾。
+  - id: cs3-zaobao-2025-08-04-bayi-absent
+    title: 多名中国将领集体缺席建军98周年招待会
+    publisher: 联合早报
+    date: 2025-08-04
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20250804-7270911
+    excerpt: true
+    keep: [主桌少了七名现役上将, 只有12名现役上将, 武警部队司令员王春宁, 苗华上将的旧部, 未提北部战区司令员黄铭]
+  - id: cs3-chinatimes-2026-08-01-pla-purge
+    title: 建軍節看共軍高層大洗牌 兩國防部長同判死緩 百名將領消失 52％遭波及
+    publisher: 中时新闻网
+    date: 2026-08-01
+    voice: zh
+    url: https://www.chinatimes.com/realtimenews/20260801000908-260409
+    excerpt: true
+    keep: [前往中央黨校開會途中被捕, 最初281名成員, 至少已有25人, 52％受到波及]
