@@ -66,7 +66,7 @@
     - voice: zh
       text: '据BBC中文网（传闻）：杨建华以每票20万元的价钱收买投票代表，习近平曾亲自下令调查。官方通报只说他用公款80万元送钱拉票。'
       cite: cs5-bbc-2015-05-24-changjiang-daily
-  events: [e03-2014-zhou-yongkang-investigated, e03-2015-zhou-yongkang-sentenced]
+  events: [e03-2014-zhou-yongkang-investigated, e03-2015-zhou-yongkang-sentenced, e12-2015-nanchong-notice, e12-2018-sichuan-zhou-decision, e12-2024-sichuan-swindlers-meeting]
   factions: [zhou-clique]
   cites: [cs5-people-2015-09-15-nanchong, cs5-ccdi-2015-09-15-nanchong-meeting, cs5-xinhua-2015-01-30-sichuan-rectify, cs5-youth-2019-08-02-peng-qinghua, cs5-thepaper-2018-10-10-sichuan-decision]
 
@@ -138,7 +138,7 @@
     - voice: zh
       text: '据大纪元（传闻）：股灾和金融界“内鬼”事件据传被当局定性为一场“经济政变”；时事评论员石久天称，姚刚、程博明等人都与令完成有很深的联系。官方通报和判决均未提及。'
       cite: cs5-epoch-2015-11-14-yao-gang-coup
-  events: [e03-2015-stock-market-crash, e08-2016-circuit-breaker, e10-2015-csrc-zhang-yao, e10-2016-xiao-gang-removed]
+  events: [e03-2015-stock-market-crash, e08-2016-circuit-breaker, e10-2015-csrc-zhang-yao, e10-2016-xiao-gang-removed, e12-2015-police-csrc, e12-2016-cbrc-circ-inspection, e12-2017-xiang-junbo-fall, e12-2017-fin-work-conference, e12-2018-short-case-closed]
   factions: []
   cites: [cs5-jiemian-2016-08-csrc-team, cs5-caixin-2018-11-05-short-case-closed, cs5-people-2016-02-04-cbrc-inspection, cs5-chinacom-2016-02-04-circ-inspection, c03-ccdi-2017-09-23-xiang-junbo-expel, cs5-gov-2017-07-15-fin-work-conf]
 
@@ -215,7 +215,7 @@
       text: '肃清苏荣余毒，是此轮甘肃政界再现反腐风暴的深层逻辑。'
       cite: cs5-caijing-2017-07-26-gansu
       quote: true
-  events: [e08-2014-su-rong]
+  events: [e08-2014-su-rong, e12-2013-jiangxi-inspection, e12-2016-jiangxi-revisit]
   factions: []
   cites: [c03-ccdi-2015-02-16-su-rong-expel, c03-people-2017-01-23-su-rong-verdict, b12-xinhua-2015-05-29-su-rong-warning, b12-people-2016-10-21-su-rong-documentary, cs5-yyzx-2016-12-29-jiangxi-rectify, cs5-caijing-2017-07-26-gansu]
 
@@ -284,7 +284,7 @@
       text: '终身监禁让罪犯看不到希望，有违教育改造的刑罚目的。可考虑借鉴其他国家规定，对于不得假释的终身监禁，经过严格评估也可以释放或予以特赦，为这部分人保留出路。'
       cite: cs5-npc-2015-08-26-life-draft
       quote: true
-  events: [e08-2022-fu-sun-verdicts, e08-2021-lai-xiaomin-executed]
+  events: [e08-2022-fu-sun-verdicts, e08-2021-lai-xiaomin-executed, e12-2015-criminal-law-9, e12-2016-graft-interpretation, e12-2016-sentence-rules]
   factions: [sun-lijun-gang]
   cites: [cs5-gov-2015-08-30-criminal-law-9, cs5-npc-2015-08-26-life-draft, cs5-xinhua-2016-11-15-life-three, cs5-xinhua-2016-10-10-bai-enpei-first, cs5-sina-2024-10-30-life-list]
 
@@ -366,6 +366,6 @@
       text: '在过去的30年中，楼忠福织就了庞大的政商关系网'
       cite: cs5-bjnews-2016-09-27-lou-zhongfu
       quote: true
-  events: [e2011-liu-zhijun-investigated, e03-2014-ling-jihua-investigated, e06-2017-guo-wengui-voa]
+  events: [e2011-liu-zhijun-investigated, e03-2014-ling-jihua-investigated, e06-2017-guo-wengui-voa, e12-2014-ding-shumiao-sentenced, e12-2018-ma-jian-sentenced, e12-2023-discipline-regulations, e12-2024-sichuan-swindlers-meeting]
   factions: [xishanhui]
   cites: [cs5-court-2014-12-17-ding-shumiao, b07-court-2016-07-04-ling-sentence, f06-court-2018-12-27-ma-jian, b12-xinhua-2015-05-29-su-rong-warning, cs2-ccdi-2020-05-06-su-hongbo, cs5-scjc-2024-06-05-swindlers]

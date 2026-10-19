@@ -90,7 +90,7 @@
     - voice: scholar
       text: （传闻）台湾中共研究杂志社梳理坊间开源资料，称曹均章不久也遭调查，改由副司令员彭京堂主持武警军事日常工作、副政委王洪斌主持政治日常工作。
       cite: cs4-iccs-411-acting-generals
-  events: [e03-2014-zhou-yongkang-investigated, nine-generals-expelled]
+  events: [e03-2014-zhou-yongkang-investigated, nine-generals-expelled, e12-2017-pap-leadership, e12-2025-cao-junzhang-acting, e12-2016-paid-services-halt]
   factions: [zhou-clique, he-miao]
   cites: [cs4-gov-2017-12-27-pap-leadership, cs4-dw-2017-12-27-pap, c03-mod-2016-12-29-wang-jianping, c03-xinhua-2017-10-14-seventh-plenum, cs4-cyol-2017-01-03-wang-jianping, cs4-jamestown-2010-pap-reshuffle, a02-wikisource-npc-qualification-reports, b08-mod-2025-10-17-nine-generals]
 
@@ -179,7 +179,7 @@
     - voice: scholar
       text: （传闻）丁树范转述前中央党校教授蔡霞在美国的说法，称苗华与何卫东曾在河北廊坊秘密组建一支只听命于两人的师级部队。
       cite: cs4-iccs-2026-pwd
-  events: [e03-2014-gutian-political-work, e08-2016-cmc-organs-reorganized, e08-2017-zhang-yang-suicide, e08-2024-yanan-political-work-conference, miao-hua-suspended, e08-2025-miao-hua-deputy-removed, nine-generals-expelled]
+  events: [e03-2014-gutian-political-work, e08-2016-cmc-organs-reorganized, e08-2017-zhang-yang-suicide, e08-2024-yanan-political-work-conference, miao-hua-suspended, e08-2025-miao-hua-deputy-removed, nine-generals-expelled, e12-2025-political-cadre-rules, e12-2015-army-16-cases, e12-2025-zhang-lin-gao-daguang-removed]
   factions: [guo-xu, he-miao, zhijiang]
   cites: [cs4-cna-2025-05-19-zhang-shengmin, e03-gov-2014-11-01-gutian, e08-xinhua-2016-01-11-cmc-organs, b21-cnr-2016-08-27-zhang-gutian, c02-xinhua-2017-11-28-zhang-yang, b21-xinhua-2018-10-16-zhang-yang-expel, cs4-mod-2024-06-19-yanan-plad, b08-mod-2025-10-17-nine-generals, a02-wikisource-npc-qualification-reports]
 
@@ -265,7 +265,7 @@
     - voice: zh
       text: （传闻）独立评论人杜政推测，张林被罢免人大代表后，后勤保障部部长可能已由副手陈炽接任。
       cite: cs4-ntdtv-2025-11-10-acting-generals
-  events: [e1998-army-out-of-business, e05-2012-gu-junshan-removed, e08-2016-cmc-organs-reorganized]
+  events: [e1998-army-out-of-business, e05-2012-gu-junshan-removed, e08-2016-cmc-organs-reorganized, e12-2014-audit-office-to-cmc, e12-2015-army-16-cases, e12-2016-paid-services-halt, e12-2016-joint-logistics-force, e12-2025-zhang-lin-gao-daguang-removed, e12-2025-sun-bin-removed]
   factions: [guo-xu, he-miao, zhang-liu]
   cites: [cs4-people-2014-11-06-audit-office, cs4-gov-2016-09-13-jlsf, cs4-chinanews-2016-03-27-paid-services, cs4-xinhua-2019-07-10-paid-services, f09-hqrw-2015-01-26-army-tigers, a01-thepaper-2015-10-army-tigers-44, a02-wikisource-npc-qualification-reports, c03-xinhua-2026-06-26-npc-notice-18]
 
@@ -343,6 +343,6 @@
     - voice: zh
       text: （传闻）独立评论人杜政推测，国防动员部部长刘发庆缺席四中全会后，副部长张立克可能暂时代职。
       cite: cs4-ntdtv-2025-11-10-acting-generals
-  events: [e08-2016-cmc-organs-reorganized, e03-2015-guo-boxiong-expelled]
+  events: [e08-2016-cmc-organs-reorganized, e03-2015-guo-boxiong-expelled, e12-2016-msd-to-mobilization, e12-2026-wang-donghai-removed, e12-2015-army-16-cases]
   factions: [guo-xu]
   cites: [cs4-chinacom-2016-03-11-sheng-bin, cs4-thepaper-2016-02-18-msd, cs4-people-2015-01-16-army-tigers, cs4-hkcd-2015-07-16-military-standing, cs4-thepaper-2015-01-15-fang-wenping, a01-thepaper-2015-10-army-tigers-44, a01-npc-2019-12-28-report, a02-wikisource-npc-qualification-reports]
