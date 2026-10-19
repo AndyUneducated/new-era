@@ -62,7 +62,7 @@
     - voice: zh
       text: '据大纪元转引《南华早报》（传闻）：叶简明2018年2月16日被带走，调查命令直接由习近平下达；大纪元还称叶简明与江泽民、曾庆红一派关系密切，他的主要关系人王宏源、李光金、胡怀邦、王三运、何志平等都可“直通江、曾”。官方未证实。'
       cite: cs6-epoch-2024-10-22-ye-jianming
-  events: [e12-2017-fin-work-conference]
+  events: [e12-2017-fin-work-conference, e13-2018-wang-sanyun-trial, e13-2019-huaxin-bankruptcy]
   cites: [b12-xinhua-2022-01-15-zero-tolerance-ep1, cs6-court-2018-10-11-wang-sanyun-trial, cs6-jiemian-2018-10-12-ye-hainan-bank, cs6-tahota-2024-04-29-cefc-bankruptcy, c04-bbc-2018-03-02-ye-jianming]
 
 - id: tomorrow-group
@@ -131,7 +131,7 @@
     - voice: west
       text: '据BBC中文网引大陆消息源（传闻）：肖建华很清楚1月27日会有人来找他，这是此前漫长讨价还价的了结，他同意回大陆协助调查2015年股市风暴中的违规操作；另一消息源称他手里有贿赂中共领导层家人的信息。官方未证实。'
       cite: e06-bbc-2017-02-19-xiao
-  events: [e06-2017-xiao-jianhua-taken, r01-2014-xi-relatives-divest, r01-2007-luneng-privatisation]
+  events: [e06-2017-xiao-jianhua-taken, r01-2014-xi-relatives-divest, r01-2007-luneng-privatisation, e13-2019-baoshang-takeover, e13-2020-mengshang-bank-opens, e13-2020-tomorrow-six-takeover, e13-2021-baoshang-bankrupt, e13-2022-xiao-jianhua-verdict]
   cites: [cs6-chinanews-2022-08-19-xiao-verdict, cs6-thepaper-2020-08-03-zhou-xuedong, cs6-people-2020-07-17-takeover, cs6-dw-2022-08-19-xiao, c04-bbc-2022-08-19-xiao-jianhua]
 
 - id: zhejiang-guangsha
@@ -199,7 +199,7 @@
     - voice: zh
       text: '据无界新闻（传闻）：义乌商界流传，江南生态园配套地块定向挂牌给广厦后，有一笔20余亿元的钱款从义乌返给广厦；当地一名房地产界人士称这是楼忠福“空手套白狼”，巨额资金可能辗转流向北京。无界新闻说这一指认没有证据，官方未证实。'
       cite: cs6-sohu-2015-07-14-lou-sponsor
-  events: [e03-2014-ling-jihua-investigated]
+  events: [e03-2014-ling-jihua-investigated, e13-2014-lou-zhongfu-taken, e13-2016-si-xinliang-verdict]
   cites: [b07-court-2016-07-04-ling-sentence, t01-ccdi-2016-12-13-si-xinliang-verdict, cs6-chinanews-2015-07-28-lou-zhongfu, cs6-thepaper-2015-01-01-lou-taken, cs5-bjnews-2016-09-27-lou-zhongfu]
 
 - id: sentencing-tiers
