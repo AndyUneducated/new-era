@@ -1,0 +1,72 @@
+# E14 events: the LK3 and I11 suggestions of round 14, hung on the concepts' policies
+web:
+  # --- LK3 ---
+  - id: e14-gov-2018-08-26-discipline-regulations
+    title: 中共中央印发《中国共产党纪律处分条例》（2018年修订）
+    publisher: 中国政府网（新华社）
+    date: 2018-08-26
+    voice: doc
+    url: https://www.gov.cn/zhengce/2018-08/26/content_5316783.htm
+    start: 新华社北京8月26日电
+  - id: e14-qz-2008-09-19-campaign-launch
+    title: 胡锦涛在全党深入学习实践科学发展观活动动员大会上发表重要讲话（新华网）
+    publisher: 衢州市纪委监委网站（转载新华网）
+    date: 2008-09-19
+    voice: official
+    url: http://sjw.qz.gov.cn/art/2008/9/22/art_1665035_36185760.html
+    start: 新华网北京
+    end: 来源：新华网
+  - id: e14-cyol-2010-04-07-hu-campaign-speech
+    title: 胡锦涛在全党深入学习实践科学发展观活动总结大会上的讲话（2010年4月6日）
+    publisher: 中国青年报
+    author: 胡锦涛
+    date: 2010-04-06
+    voice: official
+    url: http://zqb.cyol.com/content/2010-04/07/content_3171216.htm
+    excerpt: true
+    keep: [从2008年3月开始试点]
+  - id: e14-ce-2010-04-07-campaign-conclusion
+    title: 全党深入学习实践科学发展观活动总结大会隆重举行 胡锦涛发表重要讲话
+    publisher: 经济日报（新华社）
+    date: 2010-04-06
+    voice: official
+    url: http://paper.ce.cn/jjrb/html/2010-04/07/content_102343.htm
+    start: 新华社北京4月6日电
+  - id: e14-gov-2023-07-24-politburo
+    title: 中共中央政治局召开会议 分析研究当前经济形势和经济工作
+    publisher: 中国政府网（新华社）
+    date: 2023-07-24
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6893950.htm
+    start: 新华社北京7月24日电
+  - id: e14-miit-2017-01-22-access-cleanup
+    title: 工业和信息化部关于清理规范互联网网络接入服务市场的通知（工信部信管函〔2017〕32号）
+    publisher: 中央网信办网站（工业和信息化部）
+    date: 2017-01-22
+    voice: doc
+    url: https://www.cac.gov.cn/2017-01/23/c_1120366809.htm
+    start: 工信部信管函
+  - id: e14-cls-2026-01-28-red-lines
+    title: 独家|多家房企已不用上报“三道红线”指标 部分企业仍需向地方提交资产负债率数据
+    publisher: 财联社
+    date: 2026-01-28
+    voice: zh
+    url: https://www.cls.cn/detail/2272851
+    excerpt: true
+    keep: [已不被监管部门要求每月上报, 差不多是在2025年年底的时候, 不再作为窗口指导的工具]
+  - id: e14-thepaper-2026-01-29-red-lines
+    title: 房企“三道红线”去年下半年起不再上报，专家：房地产新融资模式正在形成
+    publisher: 澎湃新闻
+    date: 2026-01-29
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_32488972
+    excerpt: true
+    keep: [自去年下半年就不再上报, 继续实施已经无实际意义, 不再作为窗口指导的工具]
+  - id: e14-21jingji-2026-01-28-red-lines
+    title: “三道红线”指标不用再上报？房企表示2023年起已不强制要求
+    publisher: 21世纪经济报道
+    date: 2026-01-28
+    voice: zh
+    url: https://www.21jingji.com/article/20260128/herald/abe93c829edebf560838fa6f07bc02d5.html
+    excerpt: true
+    keep: [早在2023年6月以后已经不再强制要求报送]

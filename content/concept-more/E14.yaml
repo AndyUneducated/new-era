@@ -1,0 +1,278 @@
+# E14: hang the new events on the policies LK3 and I11 wrote without events. Same date and name as the original entry,
+# so the build pools the events into it; the text is copied from the original so whichever copy is kept reads the same.
+
+# ---------- LK3 policies ----------
+core:
+  policies:
+    - date: 2018
+      name: 修订《中国共产党纪律处分条例》增写“两个维护”
+      text: 修订后的条例写入“坚决维护习近平总书记党中央的核心、全党的核心地位”，把维护核心定为政治纪律。
+      events: [e14-2018-discipline-regulations]
+      cite: i01-cpc-2019-02-22-two-safeguards
+
+two-safeguards:
+  policies:
+    - date: 2018
+      name: 修订《中国共产党纪律处分条例》增写“两个维护”
+      text: 条例以党内法规形式写明坚决维护习近平总书记的核心地位、坚决维护党中央权威和集中统一领导，中央纪委法规室称其为根本的政治纪律和政治规矩。
+      events: [e14-2018-discipline-regulations]
+      cite: i01-cpc-2019-02-22-two-safeguards
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 中办通知要求认真汲取秦岭违建别墅问题的教训，坚决纠正落实党中央决策部署搞选择性执行的问题，把做到“两个维护”落到实处。
+      events: [e14-2019-base-burden-year]
+      cite: lk3-gov-2019-03-11-base-burden
+
+four-consciousness:
+  policies:
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 中办通知以秦岭北麓违建别墅为教训，要求把树牢“四个意识”、做到“两个维护”的要求落到实处。
+      events: [e14-2019-base-burden-year]
+      cite: lk3-gov-2019-03-11-base-burden
+
+four-winds:
+  policies:
+    - date: 2019-03-11
+      name: 关于解决形式主义突出问题为基层减负的通知
+      text: 把2019年定为“基层减负年”，发给县级以下的文件、会议减少30%－50%，中央政策性文件原则上不超过10页，对县乡村的督查检查考核事项减少50%以上。
+      events: [e14-2019-base-burden-year]
+      cite: lk3-gov-2019-03-11-base-burden
+
+eight-point-rules:
+  policies:
+    - date: 2025-03-17
+      name: 深入贯彻中央八项规定精神学习教育
+      text: 中办通知在全党开展，2025年全国两会后启动、7月底前基本结束，不分批次、不划阶段，集中整治违反八项规定及其实施细则精神的突出问题。
+      events: [e14-2025-eight-rules-education]
+      cite: lk3-gov-2025-03-17-eight-rules-education
+
+liuzhi:
+  policies:
+    - date: 2016-12-25
+      name: 全国人大常委会关于在北京市、山西省、浙江省开展国家监察体制改革试点工作的决定
+      text: 试点地区设立监察委员会，可以采取谈话、讯问、查询、冻结、搜查、留置等措施，同时暂停适用行政监察法和刑事诉讼法中检察机关自侦的有关规定。
+      events: [e14-2016-supervision-pilot]
+      cite: n01-people-2016-12-26-supervision-pilot
+    - date: 2024-12-25
+      name: 全国人大常委会关于修改监察法的决定
+      text: 2025年6月1日起施行，增设责令候查、管护等措施；查出另有重大职务犯罪的，经国家监委批准可重新计算留置时间，以一次为限。
+      events: [e14-2024-supervision-law-revised]
+      cite: n01-lyjjw-2024-12-supervision-law-revised
+
+housing-not-speculation:
+  policies:
+    - date: 2023-07
+      name: 中央政治局会议不再提“房住不炒”
+      text: 2023年7月的政治局会议没有再提“房住不炒”，政策取向开始掉头，2024年5月推出力度空前的楼市刺激措施。
+      events: [e14-2023-politburo-housing-shift]
+      cite: n01-bbc-2024-05-21-housing
+
+three-red-lines:
+  policies:
+    - date: 2026-01
+      name: “三道红线”退出
+      text: 指标悄然退出，中指研究院刘水称经过四年深度调整，政策目标已经实现，继续实施已无实际意义。
+      events: [e14-2026-red-lines-exit]
+      cite: n01-zaobao-2026-01-29-red-lines-fade
+
+sinicization-of-religion:
+  policies:
+    - date: 2015-05-20
+      name: 中央统战工作会议
+      text: 习近平称积极引导宗教与社会主义社会相适应，必须坚持中国化方向，必须提高宗教工作法治化水平；会议同时部署贯彻《中国共产党统一战线工作条例（试行）》。
+      events: [e14-2015-united-front-conference]
+      cite: n01-xinhua-2015-05-20-united-front
+
+socialist-market-economy:
+  policies:
+    - date: 1993-11-14
+      name: 中共中央关于建立社会主义市场经济体制若干问题的决定
+      text: 十四届三中全会通过，勾画社会主义市场经济体制的基本框架，要求建立产权清晰、权责明确、政企分开、管理科学的现代企业制度。
+      events: [e14-1993-third-plenum-14th]
+      cite: e01-gov-2021-06-28-cpc-100y
+
+scientific-development:
+  policies:
+    - date: 2008-09
+      name: 全党深入学习实践科学发展观活动
+      text: 十七大报告提出开展，活动历时一年半，370多万个党组织、7500多万名党员参加。
+      events: [e14-2008-scientific-development-campaign]
+      cite: i04-rmrb-2010-04-07-editorial
+
+guojin-mintui:
+  policies:
+    - date: 2010-05-13
+      name: 国务院关于鼓励和引导民间投资健康发展的若干意见（新36条）
+      text: 共三十六条，鼓励民间资本进入法律法规未明确禁止准入的行业和领域，要求国有资本在一般竞争性领域为民间资本营造更广阔的市场空间。
+      events: [e14-2010-new-36-articles]
+      cite: lk3-gov-2010-05-13-private-investment
+
+private-economy-exit:
+  policies:
+    - date: 2018-11-01
+      name: 民营企业座谈会（2018）
+      text: 习近平点名批评“民营经济离场论”“新公私合营论”，称民营企业和民营企业家是我们自己人，民营经济只能壮大、不能弱化。
+      events: [e14-2018-private-enterprise-symposium]
+      cite: i08-xinhua-2018-11-01-xi-private-symposium
+    - date: 2025-04-30
+      name: 民营经济促进法通过
+      text: 法律第二条写明毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展，民营经济组织与其他各类经济组织享有平等的法律地位、市场机会和发展权利。
+      events: [e14-2025-private-economy-law]
+      cite: i11-gov-2025-04-30-private-economy-law
+
+family-planning-debate:
+  policies:
+    - date: 2021-05-31
+      name: 中央政治局会议决定实施三孩生育政策
+      text: 会议要求依法组织实施三孩生育政策，发展普惠托育服务体系、降低家庭教育开支，治理天价彩礼等不良风气。
+      events: [e14-2021-three-child-policy]
+      cite: i08-gov-2021-05-31-three-child
+    - date: 2021-07-20
+      name: 中共中央 国务院关于优化生育政策促进人口长期均衡发展的决定
+      text: 取消社会抚养费、清理和废止相关处罚规定，将入户、入学、入职等与个人生育情况全面脱钩，并修改人口与计划生育法。
+      events: [e14-2021-birth-decision]
+      cite: i08-gov-2021-07-20-birth-decision
+
+second-generation-ethnic-policy:
+  policies:
+    - date: 2014-09-29
+      name: 中央民族工作会议（2014）
+      text: 会议称党的民族理论和方针政策是正确的，民族区域自治制度是我国的一项基本政治制度，要求把宪法和民族区域自治法的规定落实好。
+      events: [e14-2014-ethnic-work-conference]
+      cite: i08-gov-2014-09-29-ethnic-work-conference
+
+whole-process-democracy:
+  policies:
+    - date: 2021-12-04
+      name: 《中国的民主》白皮书
+      text: 白皮书称中国发展的是“全过程人民民主”，使国家政治生活和社会生活各环节、各方面都体现人民意愿、听到人民声音。
+      events: [e14-2021-democracy-white-paper]
+      cite: i05-bbc-2021-12-04-democracy-white-paper
+    - date: 2023-03-13
+      name: 全国人民代表大会关于修改《中华人民共和国立法法》的决定
+      text: 十四届全国人大一次会议在立法法第六条增加一款：“立法应当坚持和发展全过程人民民主，尊重和保障人权，保障和促进社会公平正义。”
+      events: [e14-2023-legislation-law-amended]
+      cite: lk3-npc-2023-03-14-legislation-law
+
+democracy-good-thing:
+  policies:
+    - date: 2021-12-04
+      name: 《中国的民主》白皮书
+      text: 白皮书称“民主是各国人民的权利，而不是少数国家的专利”，一个国家是不是民主应由这个国家的人民来评判。
+      events: [e14-2021-democracy-white-paper]
+      cite: i08-gov-2021-12-04-democracy-white-paper
+
+great-firewall:
+  policies:
+    - date: 2017-01
+      name: 工信部清理规范无资质VPN跨境经营
+      text: 工信部出台通知，清理未经电信主管部门批准、无国际通信业务经营资质而租用国际专线或VPN开展跨境电信业务的企业和个人；外贸、跨国企业办公自用须向有国际出入口的电信运营商租用专线。
+      events: [e14-2017-miit-vpn-cleanup]
+      cite: n01-cnr-2017-07-25-miit-vpn
+
+positive-energy:
+  policies:
+    - date: 2013-08-10
+      name: 网络名人社会责任论坛
+      text: 国家网信办主任鲁炜与网络名人座谈，提出六点希望，要求他们自觉维护国家利益，“积极发挥凝聚正能量作用”。
+      events: [e14-2013-big-v-forum]
+      cite: b12-xinhua-2013-08-12-lu-wei-bigv
+
+gongzhi-debate:
+  policies:
+    - date: 2013-08-10
+      name: 网络名人社会责任论坛
+      text: 国家网信办主任鲁炜对网络名人提出六点希望，包括承担更多社会责任、维护国家利益、带头遵守法律和道德规范；同场发言的有薛蛮子、潘石屹、周小平等。
+      events: [e14-2013-big-v-forum]
+      cite: b12-xinhua-2013-08-12-lu-wei-bigv
+
+harmonious-world:
+  policies:
+    - date: 2006-08-21
+      name: 中央外事工作会议（2006）
+      text: 会议要求坚定不移地走和平发展道路，为推动建设持久和平、共同繁荣的和谐世界作出贡献。
+      events: [e14-2006-foreign-affairs-conference]
+      cite: e01-cpc-dsj-2006
+    - date: 2011-09-06
+      name: 《中国的和平发展》白皮书
+      text: 在“中国和平发展的对外方针政策”一章首列推动建设和谐世界，称这既是一个长期目标，又是一项现实任务。
+      events: [e14-2011-peaceful-development-white-paper]
+      cite: lk3-gov-2011-09-06-peaceful-development
+
+peaceful-rise:
+  policies:
+    - date: 2006-08-21
+      name: 中央外事工作会议（2006）
+      text: 会议要求高举和平、发展、合作的旗帜，坚持独立自主的和平外交政策，坚定不移地走和平发展道路。
+      events: [e14-2006-foreign-affairs-conference]
+      cite: e01-cpc-dsj-2006
+    - date: 2011-09-06
+      name: 《中国的和平发展》白皮书
+      text: 称中国和平发展打破了“国强必霸”的大国崛起传统模式，同时列出国家核心利益，包括国家主权、领土完整、国家统一和宪法确立的国家政治制度。
+      events: [e14-2011-peaceful-development-white-paper]
+      cite: lk3-gov-2011-09-06-peaceful-development
+
+happy-guangdong:
+  policies:
+    - date: 2011-01-06
+      name: 中共广东省委十届八次全会
+      text: 汪洋提出广东“十二五”的核心是加快转型升级、建设“幸福广东”，称转型升级是手段、“幸福广东”是目标。
+      events: [e14-2011-happy-guangdong]
+      cite: i03-chinanews-2011-01-06-happy-guangdong
+
+# ---------- I11 policies (the originals live in content/concepts/I11.yaml and are kept) ----------
+central-rise:
+  policies:
+    - { date: 2006-04-15, name: 中共中央、国务院关于促进中部地区崛起的若干意见, text: '', events: [e14-2006-central-rise-opinion], cite: e01-cpc-dsj-2006 }
+
+industry-revitalization-plans:
+  policies:
+    - { date: 2009-02-25, name: 十大产业调整振兴规划, text: '', events: [e14-2009-industry-revitalization-plans], cite: i11-chinanews-2009-02-25-ten-plans }
+
+fox-hunt:
+  policies:
+    - { date: 2014-07-22, name: “猎狐2014”专项行动, text: '', events: [e14-2014-fox-hunt-2014], cite: i11-haiwainet-2014-07-22-fox-hunt }
+
+heroes-martyrs-law:
+  policies:
+    - { date: 2018-04-27, name: 英雄烈士保护法, text: '', events: [e14-2018-heroes-law], cite: i11-gov-2018-04-27-heroes-law }
+    - { date: 2020-12-26, name: 刑法修正案（十一）增设侵害英雄烈士名誉、荣誉罪, text: '', events: [e14-2020-criminal-amendment-11], cite: i11-npc-2020-12-26-criminal-amendment-11 }
+
+lang-gu-debate:
+  policies:
+    - { date: 2019-04-10, name: 最高人民法院再审改判顾雏军案, text: '', events: [e14-2019-gu-chujun-retrial], cite: i11-court-2019-04-10-gu-retrial }
+
+anti-involution:
+  policies:
+    - { date: 2024-07-30, name: 政治局会议提出防止“内卷式”恶性竞争, text: '', events: [e14-2024-politburo-anti-involution], cite: i11-gov-2024-07-30-politburo }
+    - { date: 2025-07-01, name: 中央财经委员会第六次会议, text: '', events: [e14-2025-cfac-sixth], cite: i11-gov-2025-07-01-cfac-6th }
+
+private-economy-promotion-law:
+  policies:
+    - { date: 2025-04-30, name: 民营经济促进法通过, text: '', events: [e14-2025-private-economy-law], cite: i11-gov-2025-04-30-private-economy-law }
+
+# ---------- new policies (no existing entry to merge into) ----------
+new-type-international-relations:
+  policies:
+    - date: 2013-03-23
+      name: 习近平在莫斯科国际关系学院演讲提出建立新型国际关系
+      text: 习近平就任国家主席后首次出访，在演讲中主张各国共同推动建立以合作共赢为核心的新型国际关系，并提出各国共同享受尊严、发展成果和安全保障。
+      events: [e14-2013-mgimo-speech]
+      cite: i11-gov-2013-03-24-xi-mgimo
+
+involution-lying-flat:
+  policies:
+    - date: 2024-07-30
+      name: 政治局会议提出防止“内卷式”恶性竞争
+      text: 政治局会议要求强化行业自律，防止“内卷式”恶性竞争，强化市场优胜劣汰机制，畅通落后低效产能退出渠道。
+      events: [e14-2024-politburo-anti-involution]
+      cite: i11-gov-2024-07-30-politburo
+
+two-faced-people:
+  policies:
+    - date: 2018-08-26
+      name: 修订《中国共产党纪律处分条例》（2018）
+      text: 第五十一条规定，对党不忠诚不老实，表里不一，阳奉阴违，欺上瞒下，搞两面派，做两面人的，情节严重的给予开除党籍处分。
+      events: [e14-2018-discipline-regulations]
+      cite: e14-gov-2018-08-26-discipline-regulations
