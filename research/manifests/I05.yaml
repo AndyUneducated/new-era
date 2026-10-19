@@ -1,0 +1,174 @@
+# I05: the structure of Xi Jinping Thought — branch thoughts, core tenets, official lists.
+web:
+  # --- official full texts ---
+  - id: i05-gov-2018-05-19-eco-conference
+    title: 习近平在全国生态环境保护大会上强调 坚决打好污染防治攻坚战 推动生态文明建设迈上新台阶
+    publisher: 新华社（中国政府网）
+    date: 2018-05-19
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-05/19/content_5292116.htm
+    start: 新华社北京5月19日电
+    end: 军队有关单位负责同志参加会议。
+  - id: i05-gov-2023-07-18-eco-conference
+    title: 习近平在全国生态环境保护大会上强调 全面推进美丽中国建设 加快推进人与自然和谐共生的现代化
+    publisher: 新华社（中国政府网）
+    date: 2023-07-18
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202307/content_6892793.htm
+    start: 新华社北京7月18日电
+    end: 中央管理的部分金融机构和企业负责同志等参加会议。
+  - id: i05-xinhua-2021-07-01-centenary-speech
+    title: 习近平：在庆祝中国共产党成立100周年大会上的讲话
+    publisher: 新华网
+    date: 2021-07-01
+    voice: doc
+    url: http://www.xinhuanet.com/politics/leaders/2021-07/01/c_1127615334.htm
+    start: （2021年7月1日）
+    end: 伟大、光荣、英雄的中国人民万岁！
+  - id: i05-xinhua-2023-06-02-culture-symposium
+    title: 习近平在文化传承发展座谈会上强调 担负起新的文化使命 努力建设中华民族现代文明
+    publisher: 新华网
+    date: 2023-06-02
+    voice: official
+    url: https://www.news.cn/politics/leaders/2023-06/02/c_1129666321.htm
+    start: 新华社北京6月2日电
+    end: 有关专家学者代表等参加座谈会。
+  - id: i05-gov-2017-12-28-envoys
+    title: 习近平接见2017年度驻外使节工作会议与会使节并发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2017-12-28
+    voice: official
+    url: https://www.gov.cn/xinwen/2017-12/28/content_5251251.htm
+    start: 新华社北京12月28日电
+    end: 外交部及中央有关部门负责人出席了会议。
+  - id: i05-gov-2019-01-21-risk-seminar
+    title: 习近平在省部级主要领导干部坚持底线思维着力防范化解重大风险专题研讨班开班式上发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2019-01-21
+    voice: official
+    url: https://www.gov.cn/xinwen/2019-01/21/content_5359898.htm
+    start: 新华社北京1月21日电
+    end: 及有关方面负责同志列席开班式。
+  - id: i05-gov-2019-09-03-struggle-speech
+    title: 习近平在中央党校（国家行政学院）中青年干部培训班开班式上发表重要讲话 发扬斗争精神增强斗争本领
+    publisher: 新华社（中国政府网）
+    date: 2019-09-03
+    voice: official
+    url: https://www.gov.cn/xinwen/2019-09/03/content_5426920.htm
+    start: 新华社北京9月3日电
+    end: 中央有关部门负责同志列席开班式。
+  - id: i05-gov-2018-08-22-propaganda-conference
+    title: 习近平出席全国宣传思想工作会议并发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2018-08-22
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-08/22/content_5315723.htm
+    start: 新华社北京8月22日电
+    end: 军队有关单位负责同志等参加会议。
+  - id: i05-gov-2019-10-31-4th-plenum
+    title: 中国共产党第十九届中央委员会第四次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2019-10-31
+    voice: doc
+    url: https://www.gov.cn/xinwen/2019-10/31/content_5447245.htm
+    start: 新华社北京10月31日电
+    end: 实现中华民族伟大复兴的中国梦而努力奋斗！
+  - id: i05-gov-2015-09-29-unga
+    title: 习近平在第七十届联合国大会一般性辩论时的讲话（携手构建合作共赢新伙伴 同心打造人类命运共同体）
+    publisher: 新华社（中国政府网）
+    date: 2015-09-28
+    voice: doc
+    url: https://www.gov.cn/xinwen/2015-09/29/content_2940088.htm
+    start: 新华社联合国9月28日电
+    end: 谢谢各位。
+  - id: i05-gov-2025-09-01-sco-plus
+    title: 习近平在“上海合作组织+”会议上的讲话（全文）：凝聚上合力量 完善全球治理
+    publisher: 新华社（中国政府网）
+    date: 2025-09-01
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202509/content_7038671.htm
+    start: 新华社天津9月1日电
+    end: 谢谢大家。
+  - id: i05-gov-2023-04-03-theme-education
+    title: 学习贯彻习近平新时代中国特色社会主义思想主题教育工作会议在京召开 习近平发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2023-04-03
+    voice: official
+    url: https://www.gov.cn/yaowen/2023-04/03/content_5749908.htm
+    start: 新华社北京4月3日电
+    end: 主题教育中央指导组各组组长、副组长等参加会议。
+  - id: i05-gov-2018-06-24-rmrb-diplomacy-thought
+    title: 人民日报评论员：习近平外交思想是新时代中国特色大国外交的根本遵循和行动指南
+    publisher: 新华社（中国政府网）
+    date: 2018-06-24
+    voice: official
+    url: https://www.gov.cn/xinwen/2018-06/24/content_5300830.htm
+    start: 新华社北京6月23日电
+    end: 为推动构建人类命运共同体的崇高事业作出新的更大贡献！
+  - id: i05-xinhua-2023-10-08-culture-thought-first
+    title: 第一观察丨习近平文化思想首次提出
+    publisher: 新华网
+    date: 2023-10-08
+    voice: official
+    url: https://www.news.cn/politics/leaders/2023-10/08/c_1129905812.htm
+    start: 全国宣传思想文化工作会议10月7日至8日在京召开
+    end: 不断开创新时代宣传思想文化工作新局面。
+  - id: i05-gov-2021-09-22-unga-gdi
+    title: 习近平在第七十六届联合国大会一般性辩论上的讲话（坚定信心 共克时艰 共建更加美好的世界）
+    publisher: 新华社（中国政府网）
+    date: 2021-09-21
+    voice: doc
+    url: https://www.gov.cn/xinwen/2021-09/22/content_5638597.htm
+    start: 新华社北京9月21日电
+    end: 共同建设更加美好的世界！
+  - id: i05-gov-2022-04-21-boao-gsi
+    title: 习近平在博鳌亚洲论坛2022年年会开幕式上的主旨演讲（携手迎接挑战，合作开创未来）
+    publisher: 新华社（中国政府网）
+    date: 2022-04-21
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-04/21/content_5686424.htm
+    start: 新华社北京4月21日电
+    end: 谢谢大家。
+  - id: i05-gov-2023-03-15-gci
+    title: 习近平在中国共产党与世界政党高层对话会上的主旨讲话（携手同行现代化之路）
+    publisher: 新华社（中国政府网）
+    date: 2023-03-15
+    voice: doc
+    url: https://www.gov.cn/xinwen/2023-03/15/content_5746950.htm
+    start: 新华社北京3月15日电
+    end: 谢谢大家！
+
+  # --- media and scholars (excerpts) ---
+  - id: i05-bbc-2018-06-27-diplomacy-thought
+    title: 中美贸易战风声又紧 习近平外交思想高调出台
+    publisher: BBC News 中文
+    date: 2018-06-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-44600199
+    excerpt: true
+    keep: [ 在习近平最新的讲话中，他提出中国外交要, 这应该是中国首次如此高调, 扬弃“韬光养晦”的开始, 已经不再提及, 已经成为如今的, 避而不谈 ]
+  - id: i05-bbc-2021-09-06-struggle
+    title: 习近平中共党校讲话强调“丢掉幻想、勇于斗争”为何引发关注？
+    publisher: BBC News 中文
+    date: 2021-09-06
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-58435149
+    excerpt: true
+    keep: [ 58次提及, 高度相似, 有分析人士向BBC中文指出, 牛犇（Neil Thomas）认为, 这个讲话代表习近平对自己的理念更加坚决, 庄嘉颖解读认为, 惯例性的讲话 ]
+  - id: i05-voa-2023-10-23-culture-thought
+    title: 聿文视界：习近平文化思想和文化专制主义
+    publisher: 美国之音（邓聿文评论）
+    author: 邓聿文
+    date: 2023-10-23
+    voice: zh
+    url: https://www.voachinese.com/a/deng-yuwen-on-xi-jinping-strengthening-authoritarianism-20231023/7322245.html
+    excerpt: true
+    keep: [ 这次会议的名称还加上了, 当局自2015年提出, 一切专制主义最深厚的基础 ]
+  - id: i05-bbc-2021-12-04-democracy-white-paper
+    title: 中国发布民主白皮书，“民主峰会”前夕与美争夺话语权
+    publisher: BBC News 中文
+    date: 2021-12-04
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-59532643
+    excerpt: true
+    keep: [ 拉票时受宠, 首次提出“全过程民主”。他当时表示, 似有定义“中国式民主”之意, 指手画脚 ]
