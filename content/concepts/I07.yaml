@@ -1,0 +1,1141 @@
+# I07: 2000–2012 与前史 — the Deng/Jiang/Hu-era formulas behind today's ideology. Sources in research/manifests/I07.yaml (new) and I01/I02/I03/E01/B22 (reused).
+
+# ---------- 前史：邓小平时期的基本判断 ----------
+- id: primary-stage
+  name: 社会主义初级阶段
+  en: Primary Stage of Socialism
+  kind: component
+  parent: deng-theory
+  by: [deng-xiaoping, zhao-ziyang]
+  first:
+    date: 1981-06-27
+    text: 十一届六中全会通过的第二个历史决议第一次写下“初级的阶段”这一判断，但还不是后来完整的“社会主义初级阶段”表述。
+    cite: i07-12371-1981-06-27-history-resolution
+    quote: 尽管我们的社会主义制度还是处于初级的阶段，但是毫无疑问，我国已经建立了社会主义制度
+  codified:
+    - date: 1987-10-25
+      where: 十三大报告
+      cite: i07-people-1987-10-25-13th-report
+      quote: 我国正处在社会主义的初级阶段。这个论断，包括两层含义
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 最大的实际就是中国现在处于并将长时期处于社会主义初级阶段
+    - date: 2022-10-22
+      where: 党章总纲
+      cite: i01-12371-2022-10-22-party-charter
+      quote: 我国正处于并将长期处于社会主义初级阶段
+  summary: 社会主义初级阶段是改革开放以来全部路线方针的国情前提。1981年历史决议说中国的社会主义制度“还是处于初级的阶段”；1987年十三大报告系统论述，称中国从五十年代社会主义改造基本完成到现代化基本实现，至少需要上百年时间，都属于这一阶段，并在此基础上提出“一个中心、两个基本点”的基本路线。1997年十五大报告把它称为“最大的实际”，并据此确立公有制为主体、多种所有制经济共同发展的基本经济制度。2017年十九大改写了社会主要矛盾，但仍强调初级阶段的基本国情没有变；现行党章仍以此开篇论述国情。
+  quote:
+    text: 我们讲一切从实际出发，最大的实际就是中国现在处于并将长时期处于社会主义初级阶段。
+    cite: i01-wenming-1997-09-12-15th-report
+  terms: [社会主义初级阶段, 初级阶段]
+  related: [deng-theory, basic-line, principal-contradiction, socialist-market-economy]
+  sections:
+    - h: 从“初级的阶段”到系统理论
+      from: 1981
+      to: 1987
+      text: 1981年历史决议第33段在肯定“我国已经建立了社会主义制度”的同时，承认这一制度“还是处于初级的阶段”，要经历由比较不完善到比较完善的长久过程。1987年十三大报告把它上升为“建设有中国特色的社会主义的首要问题”，说这一论断包括两层含义：中国已经是社会主义社会，不能离开社会主义；中国的社会主义还处在初级阶段，不能超越这个阶段。报告把否认前者称为右倾错误的认识根源，把超越后者称为“左”倾错误的认识根源。
+      cites: [i07-12371-1981-06-27-history-resolution, i07-people-1987-10-25-13th-report]
+    - h: 十五大的九条特征与基本纲领
+      from: 1997
+      text: 十五大报告重申初级阶段“至少需要一百年时间”，并用九个“历史阶段”概括这一阶段的特征。报告以此为依据，确立公有制为主体、多种所有制经济共同发展的基本经济制度，并提出建设有中国特色社会主义的经济、政治、文化三方面的基本纲领。
+      cites: [i01-wenming-1997-09-12-15th-report]
+    - h: 新时代的延续
+      from: 2007
+      text: 十七大报告说，中国仍处于并将长期处于社会主义初级阶段的基本国情没有变，要把它作为推进改革、谋划发展的根本依据。十九大报告改写了社会主要矛盾，但同样写明初级阶段的基本国情没有变，中国是世界最大发展中国家的国际地位没有变。
+      cites: [b02-npc-2007-10-24-17th-report, i01-gov-2017-10-18-19th-report]
+  lists:
+    - title: 社会主义初级阶段的九个特征（十五大报告，1997）
+      cite: i01-wenming-1997-09-12-15th-report
+      items:
+        - 是逐步摆脱不发达状态，基本实现社会主义现代化的历史阶段
+        - 是由农业人口占很大比重、主要依靠手工劳动的农业国，逐步转变为非农业人口占多数、包含现代农业和现代服务业的工业化国家的历史阶段
+        - 是由自然经济半自然经济占很大比重，逐步转变为经济市场化程度较高的历史阶段
+        - 是由文盲半文盲人口占很大比重、科技教育文化落后，逐步转变为科技教育文化比较发达的历史阶段
+        - 是由贫困人口占很大比重、人民生活水平比较低，逐步转变为全体人民比较富裕的历史阶段
+        - 是由地区经济文化很不平衡，通过有先有后的发展，逐步缩小差距的历史阶段
+        - 是通过改革和探索，建立和完善比较成熟的充满活力的社会主义市场经济体制、社会主义民主政治体制和其他方面体制的历史阶段
+        - 是广大人民牢固树立建设有中国特色社会主义共同理想，自强不息，锐意进取，艰苦奋斗，勤俭建国，在建设物质文明的同时努力建设精神文明的历史阶段
+        - 是逐步缩小同世界先进水平的差距，在社会主义基础上实现中华民族伟大复兴的历史阶段
+  policies:
+    - date: 1997-09-12
+      name: 确立基本经济制度
+      text: 十五大报告以初级阶段国情为依据，把公有制为主体、多种所有制经济共同发展确定为一项基本经济制度，并称一切符合“三个有利于”的所有制形式都可以用来为社会主义服务。
+      events: [e1997-15th-congress]
+      cite: i01-wenming-1997-09-12-15th-report
+  cites: [i07-12371-1981-06-27-history-resolution, i07-people-1987-10-25-13th-report, i01-wenming-1997-09-12-15th-report, b02-npc-2007-10-24-17th-report, i01-gov-2017-10-18-19th-report, i01-12371-2022-10-22-party-charter]
+
+- id: basic-line
+  name: 一个中心、两个基本点
+  en: "One Central Task, Two Basic Points"
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping, zhao-ziyang]
+  first:
+    date: 1987-10-25
+    text: 十三大报告正式表述党在社会主义初级阶段的基本路线，并用“以经济建设为中心，坚持两个基本点”概括其主要内容；十四大报告回顾说，这一思想在十一届三中全会后开始形成。
+    cite: i07-people-1987-10-25-13th-report
+    quote: 以经济建设为中心，坚持两个基本点，这就是我们的主要经验
+  codified:
+    - date: 1992-10-12
+      where: 十四大报告
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: 在把握“一个中心、两个基本点”的问题上，在党内特别是领导干部中要警惕右，但主要是防止“左”
+    - date: 2022-10-22
+      where: 党章总纲
+      cite: i01-12371-2022-10-22-party-charter
+      quote: 中国共产党在社会主义初级阶段的基本路线是：领导和团结全国各族人民，以经济建设为中心，坚持四项基本原则，坚持改革开放，自力更生，艰苦创业
+  summary: “一个中心、两个基本点”是党在社会主义初级阶段基本路线的简称：以经济建设为中心，坚持四项基本原则，坚持改革开放。1987年十三大报告正式提出，说两个基本点“相互贯通，相互依存”，既不能以僵化观点看待四项基本原则，也不能以自由化观点看待改革开放。1992年邓小平南方谈话说基本路线“要管一百年，动摇不得”。此后历届党章都写入基本路线全文，只是奋斗目标从“富强、民主、文明”逐步扩展为“富强民主文明和谐美丽”。十九大报告称基本路线是“党和国家的生命线、人民的幸福线”。
+  quote:
+    text: 基本路线要管一百年，动摇不得。
+    cite: b22-reformdata-1992-01-18-southern-talks
+  terms: [一个中心、两个基本点, 基本路线]
+  related: [primary-stage, four-cardinal-principles, development-hard-truth, deng-theory]
+  sections:
+    - h: 十三大的表述
+      from: 1987
+      text: 十三大报告写道，坚持四项基本原则和坚持改革开放这两个基本点，“相互贯通，相互依存”，统一于建设有中国特色的社会主义的实践。报告同时说，由于“左”的积习很深，改革开放的阻力主要来自这种积习，从总体上说，克服僵化思想是相当长时期的主要任务。
+      cites: [i07-people-1987-10-25-13th-report]
+    - h: 1989年后的重心与南方谈话
+      from: 1992
+      text: 1992年南方谈话说，坚持三中全会以来的路线方针政策，关键是坚持“一个中心、两个基本点”；又说中国要警惕右，但主要是防止“左”。同年十四大报告把这句话写进党代会报告，并把“左”的表现概括为否定改革开放、认为和平演变的主要危险来自经济领域。
+      cites: [b22-reformdata-1992-01-18-southern-talks, i03-reformdata-1992-10-12-14th-report]
+    - h: 目标表述的扩展
+      from: 2002
+      to: 2017
+      text: 基本路线的奋斗目标在党章中几经修改：2002年十六大党章为“富强、民主、文明的社会主义现代化国家”；2007年十七大党章加入“和谐”；2017年十九大党章改为“富强民主文明和谐美丽的社会主义现代化强国”。十七大报告则用三句话说明三者的地位：以经济建设为中心是兴国之要，四项基本原则是立国之本，改革开放是强国之路。
+      cites: [d01-people-2002-11-18-party-charter, d01-people-2007-10-25-party-charter, d01-12371-2017-10-28-party-charter, b02-npc-2007-10-24-17th-report]
+  lists:
+    - title: 基本路线中三者的地位（十七大报告，2007）
+      cite: b02-npc-2007-10-24-17th-report
+      items:
+        - 以经济建设为中心是兴国之要，是我们党、我们国家兴旺发达和长治久安的根本要求
+        - 四项基本原则是立国之本，是我们党、我们国家生存发展的政治基石
+        - 改革开放是强国之路，是我们党、我们国家发展进步的活力源泉
+  cites: [i07-people-1987-10-25-13th-report, i03-reformdata-1992-10-12-14th-report, b22-reformdata-1992-01-18-southern-talks, d01-people-2002-11-18-party-charter, d01-people-2007-10-25-party-charter, d01-12371-2017-10-28-party-charter, b02-npc-2007-10-24-17th-report, i01-gov-2017-10-18-19th-report, i01-12371-2022-10-22-party-charter]
+
+- id: four-cardinal-principles
+  name: 四项基本原则
+  en: Four Cardinal Principles
+  kind: component
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1979-03-30
+    text: 邓小平在理论工作务虚会上提出，实现四个现代化必须在思想政治上坚持四项基本原则。
+    cite: i03-reformdata-1979-03-30-four-principles
+    quote: 我们要在中国实现四个现代化，必须在思想政治上坚持四项基本原则。这是实现四个现代化的根本前提。
+  codified:
+    - date: 1981-06-27
+      where: 第二个历史决议
+      cite: i07-12371-1981-06-27-history-resolution
+      quote: 四项基本原则，是全党团结和全国各族人民团结的共同的政治基础
+    - date: 2022-10-22
+      where: 党章总纲
+      cite: i01-12371-2022-10-22-party-charter
+  summary: 四项基本原则是坚持社会主义道路、坚持人民民主专政、坚持中国共产党的领导、坚持马克思列宁主义毛泽东思想，1979年3月由邓小平在理论工作务虚会上提出，矛头主要指向社会上怀疑或反对社会主义和党的领导的思潮，同时也批评仍受林彪、“四人帮”影响的极左思潮。1979年讲话中第二条写作“无产阶级专政”，1981年历史决议写作“人民民主专政即无产阶级专政”，此后定为“人民民主专政”。1987年起它作为“两个基本点”之一写入基本路线，被称为“立国之本”，与改革开放并列。
+  quote:
+    text: 四项基本原则是立国之本，是我们党、我们国家生存发展的政治基石
+    cite: b02-npc-2007-10-24-17th-report
+  terms: [四项基本原则, 四个坚持]
+  related: [basic-line, deng-theory, primary-stage]
+  voices:
+    - voice: zh
+      text: 邓小平和习近平都是忠实的共产党人，邓小平有四个基本原则，习近平力主勿忘初心，对维护共产党一党专制政权的根本立场完全没有两样。
+      cite: b22-bbc-2024-08-22-deng-120
+      quote: true
+  sections:
+    - h: 提出背景
+      from: 1979
+      text: 邓小平在讲话中说，这四项基本原则“并不是新的东西”，但当时有必要强调宣传，因为一方面党内有人仍受极左思潮影响，另一方面社会上有极少数人散布怀疑或反对这四项原则的思潮。讲话着重批判从右面怀疑或反对四项基本原则的思潮。
+      cites: [i03-reformdata-1979-03-30-four-principles]
+    - h: 写入基本路线
+      from: 1987
+      text: 十三大报告把四项基本原则称为“我们的立国之本”，与改革开放并列为两个基本点，并说改革开放“赋予四项基本原则以新的时代内容”。十四大报告在概括邓小平理论主要内容时，把它归入“社会主义建设的政治保证问题”。
+      cites: [i07-people-1987-10-25-13th-report, i03-reformdata-1992-10-12-14th-report]
+  lists:
+    - title: 四项基本原则（邓小平，1979）
+      cite: i03-reformdata-1979-03-30-four-principles
+      items:
+        - 第一，必须坚持社会主义道路
+        - 第二，必须坚持无产阶级专政
+        - 第三，必须坚持共产党的领导
+        - 第四，必须坚持马列主义、毛泽东思想
+    - title: 四项基本原则（现行党章，2022）
+      cite: i01-12371-2022-10-22-party-charter
+      items:
+        - 坚持社会主义道路
+        - 坚持人民民主专政
+        - 坚持中国共产党的领导
+        - 坚持马克思列宁主义毛泽东思想
+  cites: [i03-reformdata-1979-03-30-four-principles, i07-12371-1981-06-27-history-resolution, i07-people-1987-10-25-13th-report, i03-reformdata-1992-10-12-14th-report, b02-npc-2007-10-24-17th-report, i01-12371-2022-10-22-party-charter, b22-bbc-2024-08-22-deng-120]
+
+- id: development-hard-truth
+  name: 南方谈话与“发展才是硬道理”
+  en: Southern Tour Talks — "Development Is the Hard Truth"
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1992-01-18
+    text: 邓小平在武昌、深圳、珠海、上海等地的谈话要点中提出。
+    cite: b22-reformdata-1992-01-18-southern-talks
+    quote: 发展才是硬道理。这个问题要搞清楚。
+  codified:
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 发展是硬道理，中国解决所有问题的关键在于依靠自己的发展。
+  summary: 1992年初，邓小平在1989年后的保守气氛中南下视察，谈话核心是要加快改革开放和经济发展：基本路线要管一百年；判断姓“社”姓“资”主要看“三个有利于”；计划和市场都是经济手段，不是社会主义与资本主义的本质区别；中国要警惕右，但主要是防止“左”；“发展才是硬道理”。谈话直接促成同年十四大把建立社会主义市场经济体制定为改革目标。十五大报告称南方谈话是又一个解放思想、实事求是的“宣言书”，把这句话写成“发展是硬道理”；胡锦涛时期又提出，坚持发展是硬道理的本质要求就是坚持科学发展。
+  quote:
+    text: 计划多一点还是市场多一点，不是社会主义与资本主义的本质区别。
+    cite: b22-reformdata-1992-01-18-southern-talks
+  terms: [发展才是硬道理, 发展是硬道理, 南方谈话]
+  related: [socialist-market-economy, three-favorables, no-debate, basic-line, scientific-development]
+  voices:
+    - voice: zh
+      text: 邓小平对外开放、引进外资，对内则进行市场化改革，降低国有经济的比重，背后最重要的机制是“放权让利”。
+      cite: b22-voa-2024-08-21-deng-120
+      quote: true
+  sections:
+    - h: 谈话要点
+      from: 1992-01
+      to: 1992-02
+      text: 谈话把姓“资”还是姓“社”称为改革开放迈不开步子的“要害”，说社会主义的本质是解放生产力，发展生产力，消灭剥削，消除两极分化，最终达到共同富裕。谈话还肯定1984年至1988年的加速发展“功劳不小”，提出经济发展隔几年上一个台阶，并说“看准了的，就大胆地试，大胆地闯”。
+      cites: [b22-reformdata-1992-01-18-southern-talks]
+    - h: 从“发展才是硬道理”到“科学发展”
+      from: 1997
+      to: 2010
+      text: 十五大报告把这句话改写为“发展是硬道理”，并加上“中国解决所有问题的关键在于依靠自己的发展”。2010年十七届五中全会把它与科学发展观衔接，称坚持发展是硬道理的本质要求就是坚持科学发展，更加注重以人为本、全面协调可持续发展和统筹兼顾。
+      cites: [i01-wenming-1997-09-12-15th-report, e02-chinanews-2010-10-18-plenum5]
+  policies:
+    - date: 1992-10-12
+      name: 确立社会主义市场经济体制目标
+      text: 十四大报告援引南方谈话中计划和市场都是经济手段的论断，明确提出我国经济体制改革的目标是建立社会主义市场经济体制。
+      events: [e1992-southern-tour, e1992-14th-congress]
+      cite: i03-reformdata-1992-10-12-14th-report
+  cites: [b22-reformdata-1992-01-18-southern-talks, i03-reformdata-1992-10-12-14th-report, i01-wenming-1997-09-12-15th-report, e02-chinanews-2010-10-18-plenum5, b22-voa-2024-08-21-deng-120]
+
+- id: three-favorables
+  name: 三个有利于
+  en: Three Favorables
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1992-01-18
+    text: 南方谈话中作为判断姓“社”姓“资”的标准提出。
+    cite: b22-reformdata-1992-01-18-southern-talks
+    quote: 判断的标准，应该主要看是否有利于发展社会主义社会的生产力，是否有利于增强社会主义国家的综合国力，是否有利于提高人民的生活水平。
+  codified:
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 这“三个有利于”为根本判断标准
+    - date: 2022-10-22
+      where: 党章总纲
+      cite: i01-12371-2022-10-22-party-charter
+      quote: 作为总的出发点和检验标准
+  summary: “三个有利于”是邓小平在南方谈话中提出的判断标准：是否有利于发展社会主义社会的生产力，是否有利于增强社会主义国家的综合国力，是否有利于提高人民的生活水平。它的作用是把改革措施的评判从意识形态上的姓“社”姓“资”转到实际效果上。十四大报告把它写成“判断各方面工作的是非得失”的标准，十五大报告称之为“根本判断标准”，并据此说明一切符合这一标准的所有制形式都可以为社会主义服务。现行党章仍把三者作为各项工作“总的出发点和检验标准”。
+  terms: [三个有利于]
+  related: [development-hard-truth, primary-stage, socialist-market-economy]
+  lists:
+    - title: 三个有利于（南方谈话，1992）
+      cite: b22-reformdata-1992-01-18-southern-talks
+      items:
+        - 是否有利于发展社会主义社会的生产力
+        - 是否有利于增强社会主义国家的综合国力
+        - 是否有利于提高人民的生活水平
+  policies:
+    - date: 1997-09-12
+      name: 以“三个有利于”衡量所有制形式
+      text: 十五大报告调整和完善所有制结构时说，一切符合“三个有利于”的所有制形式都可以而且应该用来为社会主义服务，为此后国有经济布局调整和非公有制经济发展提供了依据。
+      events: [e1997-15th-congress]
+      cite: i01-wenming-1997-09-12-15th-report
+  cites: [b22-reformdata-1992-01-18-southern-talks, i03-reformdata-1992-10-12-14th-report, i01-wenming-1997-09-12-15th-report, i01-12371-2022-10-22-party-charter]
+
+- id: no-debate
+  name: 不争论
+  en: '"No Debate"'
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1992-01-18
+    text: 南方谈话中邓小平自称“不搞争论”是他的一个发明。
+    cite: b22-reformdata-1992-01-18-southern-talks
+    quote: 不搞争论，是我的一个发明。不争论，是为了争取时间干。一争论就复杂了，把时间都争掉了，什么也干不成。
+  summary: “不争论”是邓小平在南方谈话中总结的改革推进方法：对改革开放一开始就有不同意见是正常的，农村家庭联产承包也是先有三分之一的省干起来，“允许看”，不搞强迫，不搞运动。他说不争论是为了争取时间干，要“大胆地试，大胆地闯”。同一篇谈话又说，“左”的东西根深蒂固，有些理论家、政治家拿大帽子吓唬人。“不争论”因此常与“摸着石头过河”并提，指先试验、看效果，而不先在理论上给改革措施定性。
+  quote:
+    text: 不争论，大胆地试，大胆地闯。农村改革是如此，城市改革也应如此。
+    cite: b22-reformdata-1992-01-18-southern-talks
+  terms: [不争论, 不搞争论]
+  related: [crossing-river-stones, development-hard-truth, three-favorables]
+  cites: [b22-reformdata-1992-01-18-southern-talks]
+
+- id: crossing-river-stones
+  name: 摸着石头过河
+  en: Crossing the River by Feeling for the Stones
+  kind: formula
+  parent: deng-theory
+  by: [chen-yun, deng-xiaoping, xi-jinping]
+  first:
+    date: 1950-04-07
+    text: 据《光明日报》2014年文章，陈云在政务院第27次政务会议上最早从工作方法角度使用这句民间俗语；1980年12月他在中央工作会议上把它用于改革，邓小平在闭幕会上表示完全同意陈云的讲话。
+    cite: i07-people-2014-04-09-crossing-river-origin
+    quote: 物价涨不好，跌亦对生产不好。要‘摸着石头过河’，稳当点为好
+  codified:
+    - date: 2013-11-12
+      where: 十八届三中全会《决定》
+      cite: e03-gov-2013-11-15-reform-decision
+      quote: 加强顶层设计和摸着石头过河相结合
+  summary: “摸着石头过河”原是民间俗语，指在没有现成的桥和船时以身试水、摸索前进。陈云1950年起多次用它说明经济工作要稳妥，1980年12月在中央工作会议上说改革“要从试点着手，随时总结经验”；邓小平虽很少用这句话，但“看准了的，就大胆地试，大胆地闯”被视为同一思路。它成为改革开放渐进、试点先行方法的代称，也一直有人批评它缺乏理论和整体规划。2012年底习近平在十八届中央政治局第二次集体学习时肯定它是“富有中国特色、符合中国国情的改革方法”，同时提出要与“加强顶层设计”辩证统一；2013年三中全会《决定》写入“加强顶层设计和摸着石头过河相结合”。
+  quote:
+    text: 摸着石头过河，是富有中国特色、符合中国国情的改革方法。摸着石头过河就是摸规律，从实践中获得真知。
+    cite: i07-gov-2013-01-01-xi-crossing-river
+  terms: [摸着石头过河, 顶层设计]
+  related: [no-debate, development-hard-truth, deng-theory]
+  sections:
+    - h: 陈云的用法
+      from: 1950
+      to: 1988
+      text: 《光明日报》文章梳理，陈云1951年说“办法也应该稳妥，这叫摸着石头过河”，1961年又用来区分试验研究与推广。1980年12月16日他在中央工作会议讲话中说，改革“步子要稳”，“更重要的还是要从试点着手，随时总结经验”。1988年他在杭州说，有人批评“摸着石头过河”不对，但没有讲出道理来。
+      cites: [i07-people-2014-04-09-crossing-river-origin]
+    - h: 与顶层设计并提
+      from: 2012-12
+      text: 习近平2012年12月31日总结改革开放经验时提出5点意见，第二点是改革开放必须坚持正确的方法论，说摸着石头过河和加强顶层设计是辩证统一的：推进局部的阶段性改革开放要在加强顶层设计的前提下进行，加强顶层设计要在推进局部的阶段性改革开放的基础上来谋划。2014年人民日报任仲平文章则说，渐进式的路径选择决定了此前的改革往往是自发、零散和独立进行的，进一步加强顶层设计“已成当务之急”。
+      cites: [i07-gov-2013-01-01-xi-crossing-river, i04-rmrb-2014-04-14-renzhongping]
+  policies:
+    - date: 2013-11-12
+      name: 写入全面深化改革决定
+      text: 十八届三中全会《决定》把“加强顶层设计和摸着石头过河相结合”列为改革开放必须长期坚持的经验之一，与整体推进和重点突破相促进并列。
+      events: [e03-2013-third-plenum-reform-decision]
+      cite: e03-gov-2013-11-15-reform-decision
+  cites: [i07-people-2014-04-09-crossing-river-origin, i07-gov-2013-01-01-xi-crossing-river, e03-gov-2013-11-15-reform-decision, i04-rmrb-2014-04-14-renzhongping, b22-reformdata-1992-01-18-southern-talks]
+
+- id: stability-overrides-all
+  name: 稳定压倒一切
+  en: Stability Overrides Everything
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping, jiang-zemin]
+  first:
+    date: 1989-02-26
+    text: 邓小平会见美国总统布什时说，中国的问题压倒一切的是需要稳定；3月4日同中央负责同志谈话时再次强调。
+    cite: e01-cpc-dsj-1989
+    quote: 中国的问题，压倒一切的是需要稳定。没有稳定的环境，什么都搞不成，已经取得的成果也会失掉。
+  codified:
+    - date: 2002-11-08
+      where: 十六大报告（十三年基本经验之六）
+      cite: i01-jszx-2002-11-08-16th-report
+      quote: (六)坚持稳定压倒一切的方针,正确处理改革发展稳定的关系
+    - date: 2004-09-19
+      where: 十六届四中全会《关于加强党的执政能力建设的决定》
+      cite: i01-wikisource-2004-09-19-governing-capacity-decision
+      quote: 坚持稳定压倒一切的方针，落实维护社会稳定的工作责任制
+  summary: “稳定压倒一切”源自邓小平1989年春的谈话，学潮前他对布什和中央负责同志说，中国的问题压倒一切的是需要稳定。此后它成为江泽民时期处理改革、发展、稳定关系的方针，常与“发展是硬道理”并提，2002年十六大报告列为十三年基本经验之一，要求把改革的力度、发展的速度和社会可承受的程度统一起来。2004年执政能力建设决定把它与维护社会稳定工作责任制、社会舆情汇集分析机制和社会预警体系连在一起，为此后的“维稳”体制提供了文件依据。习近平2024年纪念邓小平诞辰120周年时仍把它列为邓小平理论的重要论断。
+  quote:
+    text: 我们搞四化，搞改革开放，关键是稳定。压倒一切的是需要稳定。中国不能乱，这个道理要反复讲，放开讲。
+    cite: e01-cpc-dsj-1989
+  terms: [稳定压倒一切]
+  related: [stability-maintenance, harmonious-society, development-hard-truth]
+  voices:
+    - voice: zh
+      text: 有分析认为这显示中央对新疆政策的调整，从王乐泉的铁腕统治， 稳定压倒一切，到大力发展新疆经济。
+      cite: b19-bbc-2010-05-06-xinjiang-policy
+      quote: true
+  sections:
+    - h: 改革发展稳定的关系
+      from: 2001
+      to: 2003
+      text: 2001年人民日报社论要求进一步提高“对稳定是压倒一切的重要思想的认识”，说没有稳定的社会环境，什么事情也干不成。2003年朱镕基政府工作报告回顾五年工作时说，政府坚持贯彻稳定压倒一切的方针，重大改革措施坚持先行试点，并妥善处理突发性、群体性事件，努力把矛盾和纠纷“消除在萌芽状态”。
+      cites: [i04-rmrb-2001-03-16-editorial, i02-gov-2003-gwr]
+    - h: 走向维稳机制
+      from: 2004
+      text: 十六届四中全会决定在“健全工作机制，维护社会稳定”一节中，把坚持稳定压倒一切的方针放在第一句，随后是落实维护社会稳定的工作责任制、建立社会舆情汇集和分析机制、建立健全社会预警体系和应急机制。2010年张春贤接替王乐泉主政新疆时，习近平称王乐泉“牢固树立稳定压倒一切的思想”，并要求新疆干部群众同样如此。
+      cites: [i01-wikisource-2004-09-19-governing-capacity-decision, e02-xinhua-2010-04-24-xinjiang-secretary]
+  policies:
+    - date: 2004-09-19
+      name: 维护社会稳定工作责任制
+      text: 执政能力建设决定以“坚持稳定压倒一切的方针”开头，要求落实维护社会稳定的工作责任制，建立社会舆情汇集和分析机制，建立健全社会预警体系，形成统一指挥、功能齐全、反应灵敏、运转高效的应急机制。
+      cite: i01-wikisource-2004-09-19-governing-capacity-decision
+  cites: [e01-cpc-dsj-1989, i04-rmrb-2001-03-16-editorial, i01-jszx-2002-11-08-16th-report, i02-gov-2003-gwr, i01-wikisource-2004-09-19-governing-capacity-decision, e02-xinhua-2010-04-24-xinjiang-secretary, b19-bbc-2010-05-06-xinjiang-policy, c09-gov-2024-08-22-xi-deng-120]
+
+- id: soe-reform
+  name: 国企改革与下岗
+  en: SOE Reform and Laid-off Workers (Xiagang)
+  kind: formula
+  parent: deng-theory
+  by: [jiang-zemin, zhu-rongji]
+  first:
+    date: 1997-09-12
+    text: 十五大报告提出鼓励兼并、规范破产、下岗分流、减员增效和再就业工程，并承认职工下岗难以避免。
+    cite: i01-wenming-1997-09-12-15th-report
+    quote: 随着企业改革深化、技术进步和经济结构调整，人员流动和职工下岗是难以避免的。
+  codified:
+    - date: 1999-09-22
+      where: 十五届四中全会《中共中央关于国有企业改革和发展若干重大问题的决定》
+      cite: k01-xinhua-1999-09-22-15-4-plenum
+      quote: 首先要尽最大努力实现国有企业改革和脱困的三年目标
+  summary: 1990年代后期，国有企业大面积亏损，十五大和十五届一中全会提出用三年左右时间使大多数国有大中型亏损企业摆脱困境。改革方针是鼓励兼并、规范破产、下岗分流、减员增效和再就业工程。“下岗”指职工离开岗位但名义上仍与原单位保留劳动关系，与正式失业不同。2003年政府工作报告说，1998年以来国有企业下岗职工达2700多万人，1800多万人实现再就业；国家建立了下岗职工基本生活保障、失业保险和城市居民最低生活保障“三条保障线”。2000年底官方宣布三年脱困目标基本实现。下岗潮此后成为中国文学和电影反复描绘的主题。
+  quote:
+    text: １９９８年以来，国有企业下岗职工达２７００多万人，９０％以上进入再就业服务中心，先后有１８００多万人通过多种渠道和方式实现了再就业。
+    cite: i02-gov-2003-gwr
+  terms: [下岗, 下岗职工, 三年脱困, 减员增效]
+  related: [grasp-large-release-small, northeast-revitalization, socialist-market-economy, primary-stage]
+  voices:
+    - voice: zh
+      text: 中国在上个世纪九十年代进行的国有企业改革、减员增效所导致的下岗失业浪潮曾经引起整个社会的恐慌。
+      cite: i07-bbc-2005-03-21-soe-unemployment
+      quote: true
+    - voice: witness
+      text: I worked at the factory for 16 years and now I have nothing.
+      zh: 我在厂里干了16年，现在什么都没有了。（鞍钢下岗工人李春海，2002年）
+      cite: i07-bbc-2002-11-li-chunhai
+      quote: true
+    - voice: wiki
+      text: 下岗实质是一种变相的失业，虽然工人失去工作，但仍挂属于原单位，且没有工资。
+      cite: i07-wiki-xiagang
+      quote: true
+  sections:
+    - h: 三年脱困
+      from: 1997
+      to: 2000
+      text: 1998年4月朱镕基为首批国有重点大型企业稽察特派员培训班开班时，重申用三年左右时间使大多数国有大中型亏损企业摆脱困境。2000年政府工作报告称纺织行业提前一年实现三年脱困目标，并把实现三年目标列为“今年政府工作的重中之重”。同年12月，国家经贸委主任盛华仁宣布三年目标已基本实现。
+      cites: [e01-cpc-dsj-1998, i02-gov-2000-gwr, e01-cpc-dsj-2000]
+    - h: 再就业与“三条保障线”
+      from: 1998
+      to: 2003
+      text: 1998年6月中共中央、国务院发出通知，主要解决国有企业下岗职工的基本生活保障和再就业问题，争取用五年左右时间初步建立适应市场经济的社会保障体系和就业机制。下岗职工进入企业再就业服务中心领取基本生活费，由中心代缴社会保险。2003年后逐步推进下岗职工基本生活保障向失业保险并轨，辽宁全省率先试点。
+      cites: [e01-cpc-dsj-1998, i02-gov-2000-gwr, i02-gov-2003-gwr]
+    - h: 统计之外的失业
+      from: 2005
+      text: BBC中文2005年报道引述中国社科院学者唐钧说，官方统计的280多万下岗职工加600多万登记失业人员接近一千万，但真正没有工作岗位的人要远远超过这个数字；国有企业并轨改制中大规模的隐性失业令失业保险制度形同虚设。
+      cites: [i07-bbc-2005-03-21-soe-unemployment]
+  policies:
+    - date: 1998-06-09
+      name: 下岗职工基本生活保障和再就业
+      text: 中共中央、国务院发出《关于切实做好国有企业下岗职工基本生活保障和再就业工作的通知》，提出争取用五年左右的时间，初步建立适应社会主义市场经济体制要求的社会保障体系和就业机制。
+      events: [e1998-soe-layoffs]
+      cite: e01-cpc-dsj-1998
+    - date: 1999-09-22
+      name: 国有企业改革和发展决定
+      text: 十五届四中全会确定到2010年国有企业改革和发展的主要目标，要求从战略上调整国有经济布局，提高国有经济的控制力和整体素质。
+      cite: e01-cpc-dsj-1999
+  cites: [i01-wenming-1997-09-12-15th-report, e01-cpc-dsj-1998, e01-cpc-dsj-1999, e01-cpc-dsj-2000, k01-xinhua-1999-09-22-15-4-plenum, i02-gov-2000-gwr, i02-gov-2003-gwr, i07-bbc-2005-03-21-soe-unemployment, i07-bbc-2002-11-li-chunhai, i07-wiki-xiagang]
+
+- id: grasp-large-release-small
+  name: 抓大放小
+  en: Grasp the Large, Let Go of the Small
+  kind: formula
+  parent: soe-reform
+  by: [jiang-zemin]
+  first:
+    date: 1997-03
+    text: 1997年政府工作报告提出集中力量抓好国有大型企业和企业集团，进一步放活国有小企业（库内所见最早出处；这一方针更早在1995年前后提出，确切首次出处待考）。
+    cite: e01-cpc-dsj-1997
+    quote: 要集中力量抓好国有大型企业和企业集团，进一步放活国有小企业
+  codified:
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 要着眼于搞好整个国有经济，抓好大的，放活小的，对国有企业实施战略性改组。
+  summary: 抓大放小是1990年代后期国有经济战略性调整的方针：国家集中力量办好关系国民经济命脉的大型企业和企业集团，对国有小型企业则通过改组、联合、兼并、租赁、承包经营、股份合作制和出售等形式放开搞活。十五大报告写作“抓好大的，放活小的”，提出以资本为纽带，形成跨地区、跨行业、跨所有制和跨国经营的大企业集团。“放小”中不少小企业被出售或改制，也引出国有资产流失的争论，2004年“郎顾之争”是其中最受关注的一次。“抓大”则延续为此后央企重组和做强做大国有资本的路线。
+  terms: [抓大放小, 抓好大的，放活小的]
+  related: [soe-reform, socialist-market-economy]
+  sections:
+    - h: 十五大的部署
+      from: 1997
+      text: 十五大报告把国有企业改革同改组、改造、加强管理结合起来，要求“着眼于搞好整个国有经济”，而不是搞好每一个国有企业；对小型企业则加快放开搞活的步伐。十五届四中全会进一步提出从战略上调整国有经济布局，在新兴技术和高技术产业，国有企业要占据重要地位。
+      cites: [i01-wenming-1997-09-12-15th-report, e01-cpc-dsj-1999]
+  policies:
+    - date: 1997-09-12
+      name: 国有经济战略性改组
+      text: 十五大报告提出抓好大的，放活小的，以资本为纽带，通过市场形成具有较强竞争力的跨地区、跨行业、跨所有制和跨国经营的大企业集团，并采取改组、联合、兼并、租赁、承包经营和股份合作制、出售等形式，加快放开搞活国有小型企业的步伐。
+      events: [e1997-15th-congress, e07-2004-lang-gu]
+      cite: i01-wenming-1997-09-12-15th-report
+  cites: [e01-cpc-dsj-1997, i01-wenming-1997-09-12-15th-report, e01-cpc-dsj-1999, p03-nfrb-2025-05-19-lu-ruihua-life]
+
+- id: western-development
+  name: 西部大开发
+  en: Western Development Strategy
+  kind: formula
+  by: [jiang-zemin, zhu-rongji]
+  first:
+    date: 1999-06-17
+    text: 江泽民在西安主持国有企业改革和发展座谈会时提出。
+    cite: e01-gov-2021-06-28-cpc-100y
+    quote: 实施西部大开发，是一项振兴中华的宏伟战略任务。
+  codified:
+    - date: 2002-11-08
+      where: 十六大报告
+      cite: i01-jszx-2002-11-08-16th-report
+      quote: 实施西部大开发战略,关系全国发展的大局,关系民族团结和边疆稳定。
+  summary: 西部大开发是1999年江泽民提出、2000年启动的区域发展战略，目标是缩小东西部差距。重点是基础设施、生态环境、产业结构、科技教育和改革开放，代表性工程有青藏铁路、西气东输、西电东送等。2003年政府工作报告说，三年来新开工建设36项重点工程，投资总规模6000多亿元。官方把它与“民族团结和边疆稳定”联系在一起；批评者则认为，投资的主要受益者是修路开矿的国企和迁入的汉族人口，经济决定论无法化解民族矛盾。十七大后它成为“区域发展总体战略”的第一项。
+  quote:
+    text: 要打好基础,扎实推进,重点抓好基础设施和生态环境建设,争取十年内取得突破性进展。
+    cite: i01-jszx-2002-11-08-16th-report
+  terms: [西部大开发, 西部开发]
+  related: [northeast-revitalization, three-represents]
+  voices:
+    - voice: zh
+      text: 批评这一政策的人士还说，对西北地区投资的主要的受惠者是修路开矿的国企。大批居民被从原住地迁离，牧民被迁入定居点，失去了谋生手段。
+      cite: i07-bbc-2010-07-05-xinjiang-anniversary
+      quote: true
+  sections:
+    - h: 启动
+      from: 2000
+      text: 2000年1月国务院西部地区开发领导小组召开会议，朱镕基阐述实施西部大开发的意义，会议提出加快基础设施建设、加强生态环境保护和建设、调整产业结构、发展科技和教育、加大改革开放力度五项重点。当年国家计委公布西部新开工十大工程，10月国务院发出关于实施西部大开发若干政策措施的通知。
+      cites: [e01-cpc-dsj-2000, e01-gov-2021-06-28-cpc-100y]
+    - h: 成效与批评
+      from: 2003
+      to: 2010
+      text: 2003年政府工作报告称西部大开发开局良好，青藏铁路、西气东输、西电东送等重大项目进展顺利。BBC中文2010年的分析引述作家王力雄的观点，认为新疆的经济发展受益最多的是当权者和后迁入的以汉人为主的人口，“经济决定的思路”反而会加深民族矛盾。
+      cites: [i02-gov-2003-gwr, i07-bbc-2010-07-05-xinjiang-anniversary]
+  policies:
+    - date: 2000-01-24
+      name: 西部开发五项重点
+      text: 国务院西部地区开发领导小组召开西部地区开发会议，提出加快基础设施建设、加强生态环境保护和建设、调整产业结构、发展科技和教育、加大改革开放力度，并于5月公布十大工程。
+      events: [e2000-western-development, e2006-qinghai-tibet-railway]
+      cite: e01-cpc-dsj-2000
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2000, i01-jszx-2002-11-08-16th-report, i02-gov-2003-gwr, b02-npc-2007-10-24-17th-report, i07-bbc-2010-07-05-xinjiang-anniversary]
+
+- id: northeast-revitalization
+  name: 振兴东北老工业基地
+  en: Revitalizing the Northeast
+  kind: formula
+  by: [hu-jintao, wen-jiabao]
+  first:
+    date: 2002-11-08
+    text: 十六大报告提出支持东北地区等老工业基地加快调整和改造。
+    cite: i01-jszx-2002-11-08-16th-report
+    quote: 支持东北地区等老工业基地加快调整和改造
+  codified:
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 全面振兴东北地区等老工业基地
+  summary: 东北是计划经济时期的重工业基地，国企改革中受冲击很大。2002年十六大报告提出支持东北地区等老工业基地加快调整和改造；2003年10月中共中央、国务院印发《关于实施东北地区等老工业基地振兴战略的若干意见》，重点是体制机制创新、扩大开放、重点行业和企业的调整改造，以及资源型城市转型和采煤沉陷区治理。连同西部大开发和2006年的中部崛起，形成“区域发展总体战略”。
+  terms: [振兴东北, 东北地区等老工业基地]
+  related: [western-development, soe-reform, scientific-development]
+  sections:
+    - h: 区域发展总体战略
+      from: 2003
+      to: 2007
+      text: 2004年政府工作报告提出推进西部大开发，振兴东北地区等老工业基地，促进中部地区崛起，鼓励东部地区加快发展，形成东中西互动、优势互补、相互促进、共同发展的新格局，并要求东北振兴“今年要有一个良好的开端”。2007年十七大报告把这四项合称区域发展总体战略。
+      cites: [i02-gov-2004-gwr, b02-npc-2007-10-24-17th-report]
+  policies:
+    - date: 2003-10-05
+      name: 东北振兴意见
+      text: 中共中央、国务院印发《关于实施东北地区等老工业基地振兴战略的若干意见》；2006年4月又印发《关于促进中部地区崛起的若干意见》。
+      events: [e2003-northeast-revitalization]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [i01-jszx-2002-11-08-16th-report, e01-gov-2021-06-28-cpc-100y, i02-gov-2004-gwr, b02-npc-2007-10-24-17th-report]
+
+# ---------- 江泽民后期的党建与道德建设 ----------
+- id: rule-by-virtue
+  name: 以德治国
+  en: Rule by Virtue
+  kind: formula
+  by: [jiang-zemin]
+  first:
+    date: 2001-01-10
+    text: 江泽民在全国宣传部长会议上讲话，把“以德治国”与“依法治国”并提。
+    cite: i07-chinanews-2001-01-10-rule-by-virtue
+    quote: 要坚持不懈地加强社会主义法制建设，依法治国，同时也要坚持不懈地加强社会主义道德建设，以德治国
+  codified:
+    - date: 2001-09-20
+      where: 《公民道德建设实施纲要》
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: 提出要把法制建设与道德建设、依法治国与以德治国紧密结合起来
+    - date: 2002-11-08
+      where: 十六大报告（十条基本经验之五）
+      cite: i01-jszx-2002-11-08-16th-report
+      quote: 坚持物质文明和精神文明两手抓,实行依法治国和以德治国相结合
+    - date: 2014-10-23
+      where: 十八届四中全会《中共中央关于全面推进依法治国若干重大问题的决定》
+      cite: e03-gov-2014-10-28-rule-of-law
+      quote: 坚持依法治国和以德治国相结合。国家和社会治理需要法律和道德共同发挥作用
+  summary: 以德治国是江泽民2001年1月在全国宣传部长会议上提出的口号，说“法治与德治，从来都是相辅相成、相互促进的”，要把依法治国与以德治国紧密结合起来。同年9月中共中央印发《公民道德建设实施纲要》，2002年政府工作报告据此倡导“爱国守法、明礼诚信、团结友善、勤俭自强、敬业奉献”的基本道德规范。十六大报告把“依法治国和以德治国相结合”列入十三年的十条基本经验。中共党史和文献研究院网站2019年的文章认为，这一提法最直接的针对性是反思宣传思想工作如何应对“法轮功”等思想，且从未单独出现，总是排在依法治国之后。十八大以后，“坚持依法治国和以德治国相结合”被写进十八届四中全会决定和十九大报告。
+  quote:
+    text: 对一个国家的治理来说，法治与德治，从来都是相辅相成、相互促进的。二者缺一不可，也不可偏废。
+    cite: i07-chinanews-2001-01-10-rule-by-virtue
+  terms: [以德治国, 依法治国和以德治国相结合, 公民道德建设实施纲要]
+  related: [rule-of-law, three-represents, honor-disgrace]
+  voices:
+    - voice: zh
+      text: 这些代表和委员向在北京采访的香港记者私下里表示，在现代社会提以德治国有很强烈的封建意味。
+      cite: i07-bbc-2001-03-13-rule-by-virtue
+      quote: true
+    - voice: history
+      text: 江泽民提出“以德治国”最直接的现实针对性，就是要对党的宣传思想工作如何应对“法轮功”及其他一切腐朽思想对社会生活的侵蚀进行深刻反思。
+      cite: i07-dswxyjy-2019-07-09-rule-by-virtue
+      quote: true
+  sections:
+    - h: 宣传部长会议上的提法
+      from: 2001
+      text: 2001年1月10日的讲话面向全国宣传部长。中新社的报道说，法治属于政治建设、政治文明，德治属于思想建设、精神文明，二者范畴不同但地位和功能都非常重要。同年4月全国社会治安工作会议和7月建党80周年讲话中，江泽民都重复了“把依法治国与以德治国结合起来”的说法。
+      cites: [i07-chinanews-2001-01-10-rule-by-virtue, i07-dswxyjy-2019-07-09-rule-by-virtue]
+    - h: 从十六大到执政能力决定
+      from: 2002
+      to: 2004
+      text: 十六大报告在文化建设部分说“依法治国和以德治国相辅相成”，要求建立与社会主义市场经济相适应、与社会主义法律规范相协调、与中华民族传统美德相承接的社会主义思想道德体系，并以“社会公德、职业道德和家庭美德”为教育内容。2004年十六届四中全会执政能力决定再次写入两者相结合，提出实施公民道德建设工程。
+      cites: [i01-jszx-2002-11-08-16th-report, i07-dswxyjy-2019-07-09-rule-by-virtue]
+    - h: 新时代的沿用
+      from: 2012
+      text: 十八大报告在公民道德部分写“要坚持依法治国和以德治国相结合”，道德教育内容在“三德”之外加上“个人品德”。2014年十八届四中全会决定把“坚持依法治国和以德治国相结合”列为全面推进依法治国的五项原则之一，要求“一手抓法治、一手抓德治”。
+      cites: [i01-wsyu-2012-11-08-18th-report, e03-gov-2014-10-28-rule-of-law]
+  lists:
+    - title: 基本道德规范（2002年政府工作报告）
+      cite: i02-gov-2002-gwr
+      items: [爱国守法, 明礼诚信, 团结友善, 勤俭自强, 敬业奉献]
+    - title: 社会主义思想道德体系的三个“相”（十六大报告，2002）
+      cite: i01-jszx-2002-11-08-16th-report
+      items:
+        - 与社会主义市场经济相适应
+        - 与社会主义法律规范相协调
+        - 与中华民族传统美德相承接
+  policies:
+    - date: 2001-09-20
+      name: 公民道德建设实施纲要
+      text: 中共中央印发《公民道德建设实施纲要》，提出逐步形成与发展社会主义市场经济相适应的社会主义道德体系。
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [i07-chinanews-2001-01-10-rule-by-virtue, e01-gov-2021-06-28-cpc-100y, i02-gov-2002-gwr, i01-jszx-2002-11-08-16th-report, i07-dswxyjy-2019-07-09-rule-by-virtue, i01-wsyu-2012-11-08-18th-report, e03-gov-2014-10-28-rule-of-law, i01-gov-2017-10-18-19th-report, i07-bbc-2001-03-13-rule-by-virtue]
+
+- id: three-stresses
+  name: “三讲”教育
+  en: "\"Three Stresses\" Education"
+  kind: formula
+  by: [jiang-zemin, hu-jintao]
+  first:
+    date: 1995-11-06
+    text: 江泽民在北京市考察工作时提出干部教育要讲学习、讲政治、讲正气。
+    cite: e01-cpc-dsj-1995
+    quote: 在对干部进行教育时，要强调讲学习、讲政治、讲正气
+  codified:
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 继续在县级以上领导干部中深入进行以讲学习、讲政治、讲正气为主要内容的党性党风教育
+    - date: 1998-11-21
+      where: 中共中央《关于在县级以上党政领导班子、领导干部中深入开展以“讲学习、讲政治、讲正气”为主要内容的党性党风教育的意见》
+      cite: e01-cpc-dsj-1998
+      quote: 中共中央召开电视电话会议，对“三讲”教育进行动员部署
+  summary: “三讲”即讲学习、讲政治、讲正气，是江泽民1995年11月在北京考察时对干部教育提出的要求；1996年他又反复强调领导干部要“讲政治”。1997年十五大报告要求在县级以上领导干部中继续进行这一党性党风教育。1998年11月中共中央发出意见，从1998年底到2000年底在县级以上党政领导班子和领导干部中自上而下、分期分批开展集中教育，胡锦涛多次在全国“三讲”工作会议上讲话。江泽民1999年说，这是“当前党的建设的重中之重”，要以整风的精神进行，其核心是讲政治。2000年12月中央召开总结会议，胡锦涛称全国几十万领导干部和几百万干部群众参与。十六大报告把“三讲”集中教育列为过去五年党建的成绩之一。
+  terms: [三讲, 讲学习、讲政治、讲正气, 讲政治]
+  related: [three-represents, advanced-nature-education, self-revolution]
+  voices:
+    - voice: west
+      text: 1983年，中国共产党发起了一场整风运动，目的是挖出那些继续支持“文化大革命”的目标和“四人帮”的人。1998年，中国共产党发起了讲学习、讲政治和讲正气的“三讲教育”活动。
+      cite: i07-dzwww-2005-03-03-hoover-advanced-nature
+      quote: true
+  sections:
+    - h: 从考察讲话到十五大
+      from: 1995
+      to: 1997
+      text: 1995年11月江泽民在北京市考察，提出教育干部要讲学习、讲政治、讲正气；12月在中央军委扩大会议上说“任何时候在讲政治的问题上都必须有更高的要求和更高的自觉性”。1996年3月他解释说，要求领导干部讲政治“绝不会影响经济的发展”。
+      cites: [e01-cpc-dsj-1995, e01-cpc-dsj-1996, i01-wenming-1997-09-12-15th-report]
+    - h: 两年集中教育
+      from: 1998
+      to: 2000
+      text: 1999年3月中央召开电视电话会议总结试点，胡锦涛说试点“在恢复和发扬批评与自我批评的优良传统方面有了明显进步”，要求继续自上而下、分期分批进行，“防止走过场”。2000年政府工作报告要求国务院各部门和省地级政府巩固“三讲”成果，同时切实搞好县级“三讲”教育。2000年12月的总结会议以“三个代表”重要思想为指导，对两年来的集中教育作了总结。
+      cites: [e01-cpc-dsj-1999, i02-gov-2000-gwr, e01-cpc-dsj-2000]
+  lists:
+    - title: “三讲”（江泽民，1995）
+      cite: e01-cpc-dsj-1995
+      items: [讲学习, 讲政治, 讲正气]
+    - title: 讲什么政治（江泽民七一讲话，1999）
+      cite: e01-cpc-dsj-1999
+      items:
+        - 讲马克思主义的政治
+        - 讲建设有中国特色社会主义的政治
+        - 讲实现、维护和发展人民利益的政治
+  policies:
+    - date: 1998-11-21
+      name: 部署“三讲”集中教育
+      text: 中共中央发出意见，12月5日召开电视电话会议动员部署，在县级以上党政领导班子、领导干部中开展以讲学习、讲政治、讲正气为主要内容的党性党风教育。
+      cite: e01-cpc-dsj-1998
+  cites: [e01-cpc-dsj-1995, e01-cpc-dsj-1996, i01-wenming-1997-09-12-15th-report, e01-cpc-dsj-1998, e01-cpc-dsj-1999, e01-cpc-dsj-2000, i02-gov-2000-gwr, e01-gov-2021-06-28-cpc-100y, i01-jszx-2002-11-08-16th-report, i07-dzwww-2005-03-03-hoover-advanced-nature]
+
+- id: advanced-nature-education
+  name: 保持共产党员先进性教育活动
+  en: Campaign to Maintain the Advanced Nature of Party Members
+  kind: formula
+  by: [hu-jintao]
+  first:
+    date: 2002-11-08
+    text: 十六大报告提出在全党开展以实践“三个代表”为主要内容的先进性教育活动。
+    cite: i01-jszx-2002-11-08-16th-report
+    quote: 在全党开展以实践“三个代表”重要思想为主要内容的保持共产党员先进性教育活动
+  codified:
+    - date: 2004-11-07
+      where: 中共中央《关于在全党开展以实践“三个代表”重要思想为主要内容的保持共产党员先进性教育活动的意见》
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: 2005年1月至2006年6月，全党开展了这一教育活动
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 全面巩固和发展先进性教育活动成果，着力加强基层党的建设
+  summary: 先进性教育活动是胡锦涛时期第一场全党性的集中教育。按中组部官员的说法，它源于2000年中组部对30万名党员的思想状况调查，十六大提出，2004年10月政治局决定、11月中央印发意见。活动从2005年1月到2006年6月分三批进行，每批半年左右，依次覆盖县级以上机关、城市基层和乡镇机关、农村基层。中组部副部长李景田2005年说，这“不是什么政治运动，也不是对党内的整肃运动”，但对经教育仍不合格的党员要按程序处理；BBC报道，2005年共有44738名党员因“不合格”被除名。2006年6月30日胡锦涛总结说，这是党“参加人数最多、规模最大的一次马克思主义集中教育活动”。十七大报告要求建立“永葆先进性长效机制”。
+  quote:
+    text: 这次先进性教育活动，是我们党参加人数最多、规模最大的一次马克思主义集中教育活动，实现了预期目标，取得了显著成效。
+    cite: e01-cpc-dsj-2006
+  terms: [先进性教育, 保持共产党员先进性教育活动, 先进性建设]
+  related: [three-stresses, three-represents, scientific-development, self-revolution]
+  voices:
+    - voice: west
+      text: 这场运动是中国共产党在毛泽东逝世后发起的第三场“整风”运动。
+      cite: i07-dzwww-2005-03-03-hoover-advanced-nature
+      quote: true
+    - voice: west
+      text: 保持党员先进性的活动让中央加强了对党员升迁的控制，这意味着这场运动可能有助于巩固领导集体的权威，并将有抱负的年轻干部团结在共产党领导层的周围。
+      cite: i07-dzwww-2005-03-03-hoover-advanced-nature
+      quote: true
+    - voice: west
+      text: The dismissals, a total of 44,738, were part of the party's largest-ever internal education campaign, launched in January 2005, which analysts view as an attempt by the party to re-engage with ordinary people.
+      zh: 这44738人的除名是2005年1月启动、党内规模最大的教育活动的一部分；分析人士认为，这是党试图重新联系普通民众。
+      cite: i07-bbc-2006-07-13-party-dismisses
+      quote: true
+  sections:
+    - h: 缘起与决策
+      from: 2000
+      to: 2004
+      text: 李景田说，2000年的党员思想状况调查表明，党员队伍中存在与保持先进性要求不相适应的问题，一些基层组织“软弱涣散、不起作用”，中组部据此提出建议。2004年10月21日政治局会议决定从2005年1月起开展，要求坚持正面教育为主，认真开展批评与自我批评，坚持区别情况、分类指导。
+      cites: [i07-cyol-2005-07-08-advanced-nature, e01-cpc-dsj-2004]
+    - h: 三批推进
+      from: 2005
+      to: 2006
+      text: 2005年1月5日至6日中央召开工作会议后，第一批活动展开。到同年7月第一批基本结束，共有80.1万个基层党组织、1385.5万名党员参加，具体到每个单位集中学习教育约三个月。这是中组部首次在国务院新闻办发布会上公开回答记者提问，李景田还否认了海外网站关于大批党员退党的说法。
+      cites: [e01-cpc-dsj-2005, i07-cyol-2005-07-08-advanced-nature]
+    - h: 长效机制
+      from: 2006
+      to: 2007
+      text: 2006年6月30日建党85周年大会同时总结先进性教育活动，胡锦涛要求把加强党的先进性建设作为一项重大战略任务。十七大报告说先进性教育活动“取得重大成果”，要求建立党员党性定期分析制度，及时处置不合格党员。
+      cites: [e01-cpc-dsj-2006, b02-npc-2007-10-24-17th-report]
+  lists:
+    - title: 三批参加单位（《中国共产党大事记》2005）
+      cite: e01-cpc-dsj-2005
+      items: [县级以上机关, 城市基层和乡镇机关, 农村基层]
+    - title: 目标要求（李景田，2005）
+      cite: i07-cyol-2005-07-08-advanced-nature
+      items: [提高党员素质, 加强基层组织, 服务人民群众, 促进各项工作]
+  policies:
+    - date: 2004-11-07
+      name: 先进性教育活动意见
+      text: 中共中央印发意见，2005年1月至2006年6月在全党开展以实践“三个代表”重要思想为主要内容的保持共产党员先进性教育活动。
+      events: [e2004-advanced-nature-campaign]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [i01-jszx-2002-11-08-16th-report, e01-cpc-dsj-2004, e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2005, e01-cpc-dsj-2006, b02-npc-2007-10-24-17th-report, i07-cyol-2005-07-08-advanced-nature, i07-dzwww-2005-03-03-hoover-advanced-nature, i07-bbc-2006-07-13-party-dismisses]
+
+# ---------- 胡温时期的发展口号 ----------
+- id: people-oriented
+  name: 以人为本
+  en: Putting People First
+  kind: component
+  parent: scientific-development
+  by: [hu-jintao, wen-jiabao]
+  first:
+    date: 2003-10-14
+    text: 十六届三中全会《中共中央关于完善社会主义市场经济体制若干问题的决定》提出坚持以人为本。
+    cite: e01-gov-2021-06-28-cpc-100y
+    quote: 提出坚持以人为本，树立全面、协调、可持续的发展观，促进经济社会和人的全面发展
+  codified:
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 科学发展观，第一要义是发展，核心是以人为本，基本要求是全面协调可持续，根本方法是统筹兼顾。
+    - date: 2007-10-21
+      where: 十七大关于党章修正案的决议
+      cite: i01-gov-2007-10-21-17th-charter-resolution
+      quote: 提出了以人为本、全面协调可持续发展的科学发展观
+  summary: 以人为本是科学发展观的核心。2003年10月十六届三中全会首次在中央文件中提出“坚持以人为本”，2004年政府工作报告要求“更加注重以人为本”，2005年政府工作报告写“坚持以人为本、执政为民”。2007年十七大报告把它定为科学发展观的核心，并解释为“发展为了人民、发展依靠人民、发展成果由人民共享”。这三句话后来被习近平时期的“以人民为中心的发展思想”沿用。
+  quote:
+    text: 必须坚持以人为本。全心全意为人民服务是党的根本宗旨，党的一切奋斗和工作都是为了造福人民。
+    cite: b02-npc-2007-10-24-17th-report
+  terms: [以人为本, 坚持以人为本]
+  related: [scientific-development, harmonious-society]
+  sections:
+    - h: 写进中央文件
+      from: 2003
+      to: 2005
+      text: 2003年非典疫情后，胡锦涛提出“全面的发展观”；十六届三中全会决定提出坚持以人为本，树立全面、协调、可持续的发展观。2004年政府工作报告把“更加注重以人为本”与更加注重宏观调控、统筹兼顾、改革创新并列。2005年政府工作报告在政府自身建设部分写“坚持以人为本、执政为民”。
+      cites: [i01-cma-2012-12-17-scientific-development, e01-gov-2021-06-28-cpc-100y, i02-gov-2004-gwr, i02-gov-2005-gwr]
+    - h: 从以人为本到以人民为中心
+      from: 2007
+      to: 2016
+      text: 十七大报告要求始终把实现好、维护好、发展好最广大人民的根本利益作为党和国家一切工作的出发点和落脚点，做到发展为了人民、依靠人民、成果由人民共享。2015年十八届五中全会公报在共享发展一节沿用这三句话，2016年政府工作报告写“坚持以人民为中心的发展思想”。
+      cites: [b02-npc-2007-10-24-17th-report, i01-moe-2015-10-29-5th-plenum-communique, i02-gov-2016-gwr]
+  lists:
+    - title: 以人为本的三句话（十七大报告，2007）
+      cite: b02-npc-2007-10-24-17th-report
+      items: [发展为了人民, 发展依靠人民, 发展成果由人民共享]
+    - title: 四个“更加注重”（2004年政府工作报告）
+      cite: i02-gov-2004-gwr
+      items: [更加注重搞好宏观调控, 更加注重统筹兼顾, 更加注重以人为本, 更加注重改革创新]
+  policies:
+    - date: 2003-10-14
+      name: 完善社会主义市场经济体制决定
+      text: 十六届三中全会通过决定，明确完善社会主义市场经济体制的主要任务，提出坚持以人为本和全面、协调、可持续的发展观。
+      events: [e07-2003-third-plenum, e2003-scientific-development]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [e01-gov-2021-06-28-cpc-100y, i01-cma-2012-12-17-scientific-development, i02-gov-2004-gwr, i02-gov-2005-gwr, b02-npc-2007-10-24-17th-report, i01-gov-2007-10-21-17th-charter-resolution, i01-moe-2015-10-29-5th-plenum-communique, i02-gov-2016-gwr]
+
+- id: innovative-country
+  name: 建设创新型国家
+  en: Building an Innovative Country
+  kind: formula
+  by: [hu-jintao, wen-jiabao]
+  first:
+    date: 2006-01-26
+    text: 全国科学技术大会后，中共中央、国务院作出关于实施科技规划纲要、增强自主创新能力的决定。
+    cite: e01-gov-2021-06-28-cpc-100y
+    quote: 提出增强自主创新能力，努力建设创新型国家
+  codified:
+    - date: 2006-03-05
+      where: 2006年政府工作报告
+      cite: i02-gov-2006-gwr
+      quote: 要以建设创新型国家为目标，全面实施《国家中长期科学和技术发展规划纲要》
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 提高自主创新能力，建设创新型国家。这是国家发展战略的核心，是提高综合国力的关键。
+  summary: 建设创新型国家是2006年1月全国科学技术大会提出的目标，配套《国家中长期科学和技术发展规划纲要（2006—2020年）》。2006年政府工作报告提出“自主创新、重点跨越、支撑发展、引领未来”的方针，要提高原始创新、集成创新和引进消化吸收再创新三种能力，并启动一批重大科技专项；当年中央财政科技投入716亿元，增长19.2%。2007年十七大报告把它称为“国家发展战略的核心”，目标是到2020年“进入创新型国家行列”。十八大报告改用“实施创新驱动发展战略”，保留了三种创新能力的提法。
+  quote:
+    text: 我国已进入必须更多地依靠科技进步和创新推动经济社会发展的历史阶段，要把加快科技发展放在更加突出的战略地位。
+    cite: i02-gov-2006-gwr
+  terms: [创新型国家, 自主创新, 自主创新能力]
+  related: [scientific-development, new-quality-productive-forces]
+  sections:
+    - h: 科技大会与规划纲要
+      from: 2006
+      text: 2006年1月9日至11日中共中央、国务院召开全国科学技术大会，胡锦涛、温家宝讲话，部署实施规划纲要；26日作出增强自主创新能力的决定。同年8月胡锦涛把“建设创新型国家”与以人为本、和谐社会、新农村等并列为十六大以来的重大战略思想和重大战略任务。
+      cites: [e01-cpc-dsj-2006, e01-gov-2021-06-28-cpc-100y]
+    - h: 以企业为主体
+      from: 2006
+      to: 2012
+      text: 2006年政府工作报告要求强化企业在自主创新中的主体地位，形成一批拥有自主知识产权的技术、产品和标准，并实行支持企业创新的财税、金融和政府采购等政策。十七大和十八大报告都要求建立以企业为主体、市场为导向、产学研相结合的技术创新体系。
+      cites: [i02-gov-2006-gwr, b02-npc-2007-10-24-17th-report, i01-wsyu-2012-11-08-18th-report]
+  lists:
+    - title: 自主创新方针（2006年政府工作报告）
+      cite: i02-gov-2006-gwr
+      items: [自主创新, 重点跨越, 支撑发展, 引领未来]
+    - title: 三种创新能力（2006年政府工作报告）
+      cite: i02-gov-2006-gwr
+      items: [原始创新能力, 集成创新能力, 引进消化吸收再创新能力]
+  policies:
+    - date: 2006-01-26
+      name: 增强自主创新能力的决定
+      text: 中共中央、国务院作出《关于实施科技规划纲要，增强自主创新能力的决定》，部署实施《国家中长期科学和技术发展规划纲要（2006—2020年）》。
+      cite: e01-cpc-dsj-2006
+  cites: [e01-gov-2021-06-28-cpc-100y, e01-cpc-dsj-2006, i02-gov-2006-gwr, b02-npc-2007-10-24-17th-report, i01-wsyu-2012-11-08-18th-report]
+
+- id: sannong
+  name: “三农”问题与取消农业税
+  en: "\"Three Rural Issues\" and the End of the Agricultural Tax"
+  kind: formula
+  by: [hu-jintao, wen-jiabao]
+  first:
+    date: 2003-01-08
+    text: 胡锦涛在中央农村工作会议上把解决农业、农村和农民问题定为全党工作的重中之重。
+    cite: e01-gov-2021-06-28-cpc-100y
+    quote: 把解决好农业、农村和农民问题作为全党工作的重中之重
+  codified:
+    - date: 2004-03-05
+      where: 2004年政府工作报告
+      cite: i02-gov-2004-gwr
+      quote: 逐步降低农业税税率，平均每年降低１个百分点以上，五年内取消农业税
+    - date: 2005-12-29
+      where: 十届全国人大常委会第十九次会议
+      cite: e01-cpc-dsj-2005
+      quote: 自2006年1月1日起废止《中华人民共和国农业税条例》
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 解决好农业、农村、农民问题，事关全面建设小康社会大局，必须始终作为全党工作的重中之重。
+  summary: “三农”指农业、农村、农民。2003年1月胡锦涛提出把“三农”作为全党工作的重中之重，方针是“多予、少取、放活”。农村税费改革先在安徽试点，取消乡统筹、村提留等收费；2004年政府工作报告提出五年内取消农业税，2005年政府工作报告宣布“原定5年取消农业税的目标，3年就可以实现”。2005年12月29日全国人大常委会决定自2006年1月1日起废止农业税条例。2006年政府工作报告说，农村税费改革取消了336亿元农业税赋和700多亿元“三提五统”等。同期国家建立粮食直补等农业补贴，2005年十六届五中全会提出建设社会主义新农村，贯彻“工业反哺农业、城市支持农村”的方针。
+  quote:
+    text: 今年在全国彻底取消农业税，标志着在我国实行了长达2600年的这个古老税种从此退出历史舞台，这是具有划时代意义的重大变革。
+    cite: i02-gov-2006-gwr
+  terms: [三农, 农业税, 农村税费改革, 社会主义新农村, 多予少取放活]
+  related: [scientific-development, harmonious-society, xiaokang]
+  sections:
+    - h: 农村税费改革
+      from: 2000
+      to: 2005
+      text: 2001年政府工作报告要求在总结安徽省试点经验的基础上加快农村税费改革，取消乡统筹、村提留和其他面向农民的行政性收费，同时适当提高农业税和农业特产税税率。2004年起黑龙江、吉林先行免征农业税，12个粮食主产省区税率降低一个百分点；2005年592个国家扶贫开发工作重点县免征农业税，全部免征牧业税。
+      cites: [i02-gov-2001-gwr, e01-cpc-dsj-2004, i02-gov-2005-gwr]
+    - h: 农业税走入历史
+      from: 2006
+      text: 2006年1月1日起农业税条例废止。官方对这一税种历史的说法不一：2005年政府工作报告和中共中央党史和文献研究院的百年大事记都说“两千多年”，2006年政府工作报告说“长达2600年”，2007年政府工作报告说“延续2600多年”。2006年政府工作报告同时提醒，取消农业税后，关键是全面推进乡镇机构、农村义务教育和县乡财政管理体制等农村综合改革。
+      cites: [i02-gov-2005-gwr, e01-gov-2021-06-28-cpc-100y, i02-gov-2006-gwr, i02-gov-2007-gwr]
+    - h: 社会主义新农村
+      from: 2005
+      to: 2008
+      text: 2005年10月十六届五中全会提出建设社会主义新农村，12月中央农村工作会议要求按照二十字要求全面推进农村建设，2006年2月21日新华社发布中共中央、国务院关于推进社会主义新农村建设的若干意见。2008年政府工作报告总结说，全部取消农业税、牧业税和特产税后每年减轻农民负担1335亿元，中央财政五年用于“三农”的支出累计1.6万亿元。
+      cites: [e01-cpc-dsj-2005, i02-gov-2006-gwr, i02-gov-2008-gwr]
+  lists:
+    - title: 新农村建设的二十字要求（中央农村工作会议，2005）
+      cite: e01-cpc-dsj-2005
+      items: [生产发展, 生活宽裕, 乡风文明, 村容整洁, 管理民主]
+    - title: 四项农业补贴（2008年政府工作报告）
+      cite: i02-gov-2008-gwr
+      items: [粮食直补, 良种补贴, 农机具购置补贴, 农业生产资料综合补贴]
+  policies:
+    - date: 2004-03-05
+      name: 五年内取消农业税
+      text: 2004年政府工作报告宣布除烟叶外取消农业特产税，逐步降低农业税税率，五年内取消农业税；中央财政拿出396亿元用于转移支付。
+      cite: i02-gov-2004-gwr
+    - date: 2006-01-01
+      name: 废止农业税条例
+      text: 十届全国人大常委会第十九次会议决定，自2006年1月1日起废止《中华人民共和国农业税条例》。
+      events: [e2006-agricultural-tax-abolished]
+      cite: e01-cpc-dsj-2005
+  cites: [e01-gov-2021-06-28-cpc-100y, i02-gov-2001-gwr, e01-cpc-dsj-2004, i02-gov-2004-gwr, i02-gov-2005-gwr, e01-cpc-dsj-2005, i02-gov-2006-gwr, i02-gov-2007-gwr, i02-gov-2008-gwr, b02-npc-2007-10-24-17th-report]
+
+# ---------- 开放与宏观经济 ----------
+- id: going-out
+  name: “走出去”战略
+  en: Going Out Strategy
+  kind: formula
+  by: [jiang-zemin]
+  first:
+    date: 1997-12-24
+    text: 江泽民会见全国外资工作会议代表时把“引进来”和“走出去”并称为对外开放的一个大战略。
+    cite: e01-gov-2021-06-28-cpc-100y
+    quote: “引进来”和“走出去”，是我们对外开放基本国策两个紧密联系、相互促进的方面，缺一不可，这是一个大战略
+  codified:
+    - date: 2001-03-05
+      where: 2001年政府工作报告
+      cite: i02-gov-2001-gwr
+      quote: 鼓励有比较优势的企业到境外投资，开展加工贸易，合作开发资源，发展国际工程承包，扩大劳务出口等
+    - date: 2002-11-08
+      where: 十六大报告
+      cite: i01-jszx-2002-11-08-16th-report
+      quote: 实施“走出去”战略是对外开放新阶段的重大举措
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 把“引进来”和“走出去”更好结合起来
+  summary: “走出去”指鼓励中国企业到境外投资、承包工程和开发资源，与吸引外资的“引进来”相对。1997年12月江泽民首次把两者并称为一个大战略，后来又把它们比作对外开放的“两个轮子”。2001年政府工作报告正式把实施“走出去”战略列为任务，同时要求加强监管、防止国有资产流失；十六大报告称之为对外开放新阶段的重大举措。2005年中海油以185亿美元竞购美国优尼科，因美国国会反对而撤回报价。2009年金融危机期间，政府工作报告说企业“走出去”逆势上扬，非金融类对外直接投资433亿美元。2013年以后，“一带一路”成为对外投资的主要框架，2021年第三个历史决议提到要适应“走出去”日益扩大的新形势完善海外利益保护体系。
+  terms: [走出去, 引进来和走出去相结合, 走出去战略]
+  related: [wto-accession, belt-and-road, socialist-market-economy]
+  voices:
+    - voice: zh
+      text: 其中最主要的政治原因是：中国经济迅速发展，而美国对华贸易赤字高达1600亿美元；此外，北京的政治和军事实力开始崛起。
+      cite: e07-bbc-2005-07-03-cnooc
+      quote: true
+  sections:
+    - h: 从“两个轮子”到国家战略
+      from: 1997
+      to: 2002
+      text: 新华社2022年的江泽民生平说，江泽民提出实施“走出去”战略是对外开放新阶段的重大举措，引进来和走出去“必须同时转动起来”。2001年政府工作报告把它列为提高对外开放水平的四项任务之一，2002年政府工作报告要求鼓励各类所有制企业到国外特别是周边国家投资办厂和承包工程。
+      cites: [b01-xinhua-2022-12-02-jiang-life, i02-gov-2001-gwr, i02-gov-2002-gwr]
+    - h: 中海油—优尼科
+      from: 2005
+      text: 2005年6月30日美国众议院以398票对15票通过议案，要求布什政府检讨中海油收购优尼科的计划。8月2日中海油宣布撤回总价185亿美元的现金收购要约，称美国“非常遗憾的政治环境”使交易形成无法接受的风险；优尼科董事会接受了雪佛龙较低的出价。
+      cites: [e07-bbc-2005-07-03-cnooc, e07-chinanews-2005-08-03-cnooc, e07-bbc-2005-08-02-cnooc]
+    - h: 金融危机后的海外并购
+      from: 2009
+      to: 2010
+      text: 2010年政府工作报告要求加快实施“走出去”战略，鼓励符合国外市场需求的行业有序向境外转移产能，支持有条件的企业开展海外并购，并提醒“走出去”的企业要依法经营、防止恶性竞争、维护国家整体利益和良好形象。
+      cites: [i02-gov-2010-gwr]
+  lists:
+    - title: 走出去的五种方式（2001年政府工作报告）
+      cite: i02-gov-2001-gwr
+      items: [到境外投资, 开展加工贸易, 合作开发资源, 发展国际工程承包, 扩大劳务出口]
+    - title: 在境外建立的三类机构（2006年政府工作报告）
+      cite: i02-gov-2006-gwr
+      items: [加工基地, 营销服务网络, 研发机构]
+  policies:
+    - date: 2005-08-02
+      name: 中海油撤回优尼科收购要约
+      text: 中海油在美国国会反对声中撤回对优尼科的185亿美元收购要约，成为“走出去”初期最受关注的受挫案例。
+      events: [e07-2005-cnooc-unocal]
+      cite: e07-chinanews-2005-08-03-cnooc
+  cites: [e01-gov-2021-06-28-cpc-100y, b01-xinhua-2022-12-02-jiang-life, i02-gov-2001-gwr, i02-gov-2002-gwr, i01-jszx-2002-11-08-16th-report, i02-gov-2006-gwr, b02-npc-2007-10-24-17th-report, i02-gov-2010-gwr, b04-gov-2021-11-16-resolution, e07-bbc-2005-07-03-cnooc, e07-chinanews-2005-08-03-cnooc, e07-bbc-2005-08-02-cnooc]
+
+- id: wto-accession
+  name: 加入世贸组织
+  en: WTO Accession
+  kind: formula
+  by: [jiang-zemin, zhu-rongji]
+  first:
+    date: 1999-11-15
+    text: 中美签署关于中国加入世界贸易组织的双边协议，扫除入世的最大障碍。
+    cite: e01-cpc-dsj-1999
+    quote: 中美两国政府在京签署关于中国加入世界贸易组织的双边协议
+  codified:
+    - date: 2001-11-10
+      where: 世界贸易组织第四届部长级会议（多哈）
+      cite: e01-cpc-dsj-2001
+      quote: 审议并通过了中国加入WTO的决定，标志着中国长达15年复关和加入WTO进程的结束
+    - date: 2001-12-11
+      where: 中国正式成为世贸组织成员
+      cite: e01-gov-2021-06-28-cpc-100y
+      quote: 中国正式成为世界贸易组织成员，中国对外开放进入新的阶段
+  summary: 中国从申请恢复关贸总协定缔约国地位到加入世贸组织历时15年。1999年11月15日中美签署双边协议，2001年11月10日多哈部长级会议通过中国入世决定，12月11日中国成为第143个成员。官方把入世定为“重大战略决策”，江泽民提出三条原则，核心是中国只能以发展中国家身份加入、权利和义务要平衡。2002年政府工作报告说，入世“总体上有利于改革开放和经济发展”，但近期某些竞争力不强的行业、企业会受到较大冲击；全国清理了相关法规，关税总水平从15.3%降到12%。十六大报告说中国对外开放由此进入新阶段。2018年美国贸易代表办公室则认为，美国支持中国按当时条件入世是一个错误。
+  quote:
+    text: 我国加入世贸组织，标志着对外开放进入一个新阶段。我们要以积极的姿态，在更大范围和更深程度上参与国际经济合作与竞争，切实做好加入世贸组织第一年的各项工作。
+    cite: i02-gov-2002-gwr
+  terms: [入世, 加入世贸组织, 复关, WTO]
+  related: [going-out, socialist-market-economy, soe-reform]
+  voices:
+    - voice: west
+      text: But those hopes were disappointed. China largely remains a state-led economy today, and the United States and other trading partners continue to encounter serious problems with China’s trade regime.
+      zh: 但这些希望落空了。中国今天在很大程度上仍是国家主导的经济，美国和其他贸易伙伴在中国的贸易体制上仍然遇到严重问题。
+      cite: i07-usc-2018-01-ustr-wto
+      quote: true
+    - voice: west
+      text: it seems clear that the United States erred in supporting China’s entry into the WTO on terms that have proven to be ineffective in securing China’s embrace of an open, market-oriented trade regime.
+      zh: 看来很清楚，美国支持中国按照事后证明无法确保其接受开放、市场化贸易体制的条件加入世贸组织，是犯了错误。（美国贸易代表办公室《中国履行世贸承诺情况报告》，2018年1月）
+      cite: i07-usc-2018-01-ustr-wto
+      quote: true
+  sections:
+    - h: 中美谈判
+      from: 1994
+      to: 2000
+      text: 澎湃新闻2019年回顾说，中国原本期望在1994年底前复关，因美国阻挠未能实现；1999年11月最后阶段，美方提出针对中国的特殊保障条款，外经贸部长吴仪怒称这“不是中国加入WTO的协议”。2000年3月朱镕基在记者会上说，中美双边协议是“经过13年的谈判”达成的，美国国会给予中国永久正常贸易关系是协议的基础和前提。
+      cites: [b18-thepaper-2019-12-wto-48-hours, b01-gov-2000-03-15-zhu-presser]
+    - h: 入世第一年
+      from: 2001
+      to: 2002
+      text: 2001年11月11日外经贸部长石广生递交江泽民签署的批准书并签署入世议定书；19日龙永图等首次以正式成员身份出席总理事会。2002年政府工作报告要求按照法制统一、非歧视、公开透明的原则完善涉外经济法律法规，分期分批对县处级以上领导干部和大中型企业管理人员进行世贸规则培训。
+      cites: [e01-cpc-dsj-2001, i02-gov-2002-gwr]
+  lists:
+    - title: 江泽民提出的入世三原则（新华社《江泽民同志生平》，2022）
+      cite: b01-xinhua-2022-12-02-jiang-life
+      items:
+        - 中国加入世界贸易组织是中国经济发展和改革开放的需要，同样世界贸易组织也需要中国
+        - 中国是一个发展中国家，社会生产力还不发达，只能以发展中国家的条件加入世界贸易组织
+        - 中国加入世界贸易组织，其权利和义务一定要平衡，中国不会接受过高的、超出中国承受能力的要价
+  policies:
+    - date: 1999-11-15
+      name: 中美入世双边协议
+      text: 中美两国政府在北京签署关于中国加入世界贸易组织的双边协议并发表新闻公报。
+      events: [e1999-us-wto-deal]
+      cite: e01-cpc-dsj-1999
+    - date: 2001-12-11
+      name: 正式加入世贸组织
+      text: 多哈部长级会议审议通过中国加入世贸组织的决定后，中国于12月11日正式成为成员。
+      events: [e2001-wto-accession]
+      cite: e01-gov-2021-06-28-cpc-100y
+  cites: [e01-cpc-dsj-1999, e01-cpc-dsj-2001, e01-gov-2021-06-28-cpc-100y, b01-xinhua-2022-12-02-jiang-life, b01-gov-2000-03-15-zhu-presser, i02-gov-2002-gwr, i01-jszx-2002-11-08-16th-report, b18-thepaper-2019-12-wto-48-hours, i07-usc-2018-01-ustr-wto]
+
+- id: macro-control
+  name: 宏观调控与“四万亿”
+  en: Macro-Control and the Four-Trillion Stimulus
+  kind: formula
+  by: [zhu-rongji, wen-jiabao]
+  first:
+    date: 1993-06-24
+    text: 中共中央、国务院下发关于加强宏观调控的意见，提出十六条措施。
+    cite: e01-cpc-dsj-1993
+    quote: 文件提出了严格控制货币发行，稳定金融形势等十六条加强和改善宏观调控的措施
+  codified:
+    - date: 1993-11-14
+      where: 十四届三中全会《中共中央关于建立社会主义市场经济体制若干问题的决定》
+      cite: e01-cpc-dsj-1993
+      quote: 转变政府管理经济的职能，建立以间接手段为主的完善的宏观调控体系
+    - date: 2009-03-05
+      where: 2009年政府工作报告
+      cite: i02-gov-2009-gwr
+      quote: 坚持把扭转经济增速下滑趋势作为宏观调控最重要的目标
+  summary: “宏观调控”是社会主义市场经济体制中政府调节总量和结构的说法，十四届三中全会提出要使市场在国家宏观调控下对资源配置起基础性作用。1993年朱镕基主导的十六条措施治理通货膨胀，1997年初国家统计局称“软着陆”基本成功。1998年为应对亚洲金融危机实行积极的财政政策，靠发行长期建设国债扩大基础设施投资；2004年为遏制固定资产投资过快增长加强调控，2005年转为稳健的财政政策。2008年11月5日国务院常务会议确定扩大内需的十项措施，初步匡算到2010年底约需投资4万亿元，中央政府新增投资1.18万亿元，同时实行适度宽松的货币政策。“四万亿”稳住了增长，但此后不少经济学家批评它推高了债务风险、加剧产能过剩并吹起地产泡沫；连温家宝也说，信贷规模“不要过大，那就更好”。
+  quote:
+    text: 按照出手要快、出拳要重、措施要准、工作要实的要求，迅速推出进一步扩大内需、促进经济增长的十项措施，争分夺秒地加以落实
+    cite: i02-gov-2009-gwr
+  terms: [宏观调控, 四万亿, 积极的财政政策, 适度宽松的货币政策, 软着陆]
+  related: [socialist-market-economy, scientific-development, supply-side]
+  voices:
+    - voice: zh
+      text: 对于十年前的那一轮刺激，中国国务院发展研究中心研究员吴敬琏称，“这是饮鸩止渴的办法，它不但没有降低杠杆，相反进一步杠杆化了”
+      cite: i07-bbc-2019-03-stimulus
+      quote: true
+    - voice: zh
+      text: 香港中文大学助理教授胡荣进一步分析，这一轮的投资和信贷大多给了国有企业，银行也更倾向于借贷给国企，而非民营企业，后者只好用利率更高的影子银行，这种“挤出效应”进一步加大了系统性的金融风险。
+      cite: i07-bbc-2019-03-stimulus
+      quote: true
+    - voice: zh
+      text: 中国人民银行行长周小川表示，中国高达4万亿经济刺激计划中的某些投资项目浪费过大，而且效率很低。
+      cite: i07-bbc-2009-07-05-zhou-xiaochuan
+      quote: true
+  sections:
+    - h: 九十年代的治理通胀与“软着陆”
+      from: 1993
+      to: 1997
+      text: 1993年6月中央下发加强宏观调控的意见，要求把加快发展的注意力集中到深化改革、转换机制、优化结构、提高效益上来；7月朱镕基在全国金融工作会议上要求强化中央银行职能。十四届三中全会要求建立以间接手段为主的宏观调控体系。1997年1月国家统计局发文称“软着陆”基本成功。
+      cites: [e01-cpc-dsj-1993, e01-cpc-dsj-1997]
+    - h: 积极财政政策与稳健财政政策
+      from: 1998
+      to: 2007
+      text: 2000年政府工作报告说，两年来通过财政向银行发行2100亿元长期国债，带动4200多亿元银行贷款和自筹资金，建设5100多个基础设施项目。2004年中央加强宏观调控，遏制固定资产投资过快增长，江苏铁本项目被查处。2005年政府工作报告说，投资规模已经很大，有必要由扩张性的积极财政政策转向松紧适度的稳健财政政策。
+      cites: [i02-gov-2000-gwr, e01-cpc-dsj-2004, i02-gov-2005-gwr]
+    - h: 四万亿
+      from: 2008
+      to: 2010
+      text: 2008年9月以后，宏观调控着力点转向防止经济增速过快下滑，实施积极的财政政策和适度宽松的货币政策，三次提高出口退税率，五次下调存贷款基准利率。2009年政府工作报告公布两年投资计划，并提出广义货币增长17%左右、新增贷款5万亿元以上，同时实施十大重点产业调整和振兴规划。BBC中文2019年的分析说，“四万亿”中45%投向了公路、铁路、机场和城乡电网；温家宝2009年底接受新华社采访时说：“如果我们信贷保持更平衡一些，结构更合理一些，规模不要过大，那就更好。”
+      cites: [i02-gov-2009-gwr, i07-bbc-2019-03-stimulus]
+  lists:
+    - title: 2009年政府工作的四条原则（2009年政府工作报告）
+      cite: i02-gov-2009-gwr
+      items: [扩内需、保增长, 调结构、上水平, 抓改革、增活力, 重民生、促和谐]
+    - title: 十大重点产业调整和振兴规划（2009年政府工作报告）
+      cite: i02-gov-2009-gwr
+      items: [汽车, 钢铁, 造船, 石化, 轻工, 纺织, 有色金属, 装备制造, 电子信息, 现代物流]
+  policies:
+    - date: 2004-12-01
+      name: 遏制投资过热
+      text: 政治局会议认为一年来有效遏制了固定资产投资过快增长，决定2005年实行稳健的财政政策和货币政策。
+      events: [e07-2004-tieben]
+      cite: e01-cpc-dsj-2004
+    - date: 2008-11-05
+      name: 扩大内需十项措施
+      text: 国务院常务会议确定进一步扩大内需、促进经济增长的十项措施，初步匡算到2010年底约需投资4万亿元。
+      events: [e2008-four-trillion-stimulus]
+      cite: e02-chinanews-2008-11-09-four-trillion
+  cites: [e01-cpc-dsj-1993, e01-cpc-dsj-1997, i02-gov-2000-gwr, e01-cpc-dsj-2004, i02-gov-2005-gwr, e02-chinanews-2008-11-09-four-trillion, i02-gov-2009-gwr, i07-bbc-2019-03-stimulus, i07-bbc-2009-07-05-zhou-xiaochuan]
+
+- id: two-hands
+  name: 两手抓，两手都要硬
+  en: "Grasp with Both Hands, Both Hands Firm"
+  kind: formula
+  parent: deng-theory
+  by: [deng-xiaoping]
+  first:
+    date: 1992-01-18
+    text: 库内最早的原文是邓小平南方谈话；十四大报告回顾说，这一系列方针在1980年代已经提出。
+    cite: b22-reformdata-1992-01-18-southern-talks
+    quote: 要坚持两手抓，一手抓改革开放，一手抓打击各种犯罪活动。这两只手都要硬
+  codified:
+    - date: 1992-10-12
+      where: 十四大报告（邓小平理论九条之八）
+      cite: i03-reformdata-1992-10-12-14th-report
+      quote: 第八，坚持两手抓，两手都要硬，把社会主义精神文明建设提高到新水平
+    - date: 1997-09-12
+      where: 十五大报告
+      cite: i01-wenming-1997-09-12-15th-report
+      quote: 坚持物质文明和精神文明两手抓、两手都要硬的方针
+    - date: 2021-11-11
+      where: 第三个历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 党坚持物质文明和精神文明两手抓、两手硬
+  summary: “两手抓”是邓小平时期的一组方针，十四大报告概括为一手抓改革开放、一手抓打击犯罪，一手抓经济建设、一手抓民主法制，一手抓物质文明、一手抓精神文明。1992年南方谈话说两只手“都要硬”，打击犯罪、扫除丑恶现象“手软不得”，并要求在整个改革开放过程中都要反对腐败。十四大把它列为邓小平理论的九条内容之一，江泽民时期的政府工作报告和人民日报社论反复使用；2024年习近平纪念邓小平诞辰120周年时，把“一手抓改革开放，一手抓惩治腐败”列为需要完整理解的邓小平论断之一。这一说法后来成为官场常用语，用于党建和业务、反腐与发展等各种成对任务。
+  quote:
+    text: 总之，只要我们的生产力发展，保持一定的经济增长速度，坚持两手抓，社会主义精神文明建设就可以搞上去。
+    cite: b22-reformdata-1992-01-18-southern-talks
+  terms: [两手抓, 两手都要硬, 两手抓两手都要硬]
+  related: [deng-theory, basic-line, rule-by-virtue, stability-overrides-all]
+  sections:
+    - h: 新时代的用法
+      from: 2015
+      text: 2015年山西省委书记王儒林在全国人大会议上说，山西省委坚持两手抓、两手都要硬，反腐败做“减法”、抓发展做“加法”。2016年中央巡视组要求证监会党委坚持党建和业务“两手抓、两手硬”。2024年习近平说，对邓小平的这些论断如果“顾此失彼、畸轻畸重”，就容易导致实践偏差。
+      cites: [cs1-people-2015-03-08-wang-rulin-npc, cs1-csrc-2016-02-04-inspection, c09-gov-2024-08-22-xi-deng-120]
+  lists:
+    - title: 一系列“两手抓”（十四大报告，1992）
+      cite: i03-reformdata-1992-10-12-14th-report
+      items:
+        - 一手抓改革开放，一手抓打击犯罪
+        - 一手抓经济建设，一手抓民主法制
+        - 一手抓物质文明，一手抓精神文明
+  cites: [b22-reformdata-1992-01-18-southern-talks, i03-reformdata-1992-10-12-14th-report, i01-wenming-1997-09-12-15th-report, i02-gov-2001-gwr, i04-rmrb-2000-07-01-editorial, b04-gov-2021-11-16-resolution, c09-gov-2024-08-22-xi-deng-120]

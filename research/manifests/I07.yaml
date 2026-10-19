@@ -1,0 +1,145 @@
+# I07: 2000–2012 与前史 — concepts of the Deng/Jiang/Hu era. New sources only; most cites reuse I01/I02/I03/E01 texts.
+web:
+  # --- official full texts ---
+  - id: i07-12371-1981-06-27-history-resolution
+    title: 关于建国以来党的若干历史问题的决议（1981年6月27日中国共产党第十一届中央委员会第六次全体会议一致通过）
+    publisher: 共产党员网
+    date: 1981-06-27
+    voice: doc
+    url: https://www.12371.cn/2021/11/09/ARTI1636454249781129.shtml
+    start: （一九八一年六月二十七日中国共产党第十一届中央委员会第六次全体会议一致通过）
+    end: 我们的目的一定能达到！
+  - id: i07-people-1987-10-25-13th-report
+    title: 沿着有中国特色的社会主义道路前进——赵紫阳在中国共产党第十三次全国代表大会上的报告（第一至三部分）
+    publisher: 中国共产党新闻网
+    date: 1987-10-25
+    voice: doc
+    url: https://cpc.people.com.cn/GB/64162/64168/64566/65447/4526368.html
+    start: 我受十二届中央委员会委托，向大会作报告。
+    end: 有力地推动我国社会主义商品经济的健康发展。
+  - id: i07-gov-2013-01-01-xi-crossing-river
+    title: 习近平：以更大的政治勇气和智慧深化改革 朝着十八大指引的改革开放方向前进
+    publisher: 中国政府网（新华社电）
+    date: 2013-01-01
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-01/01/content_2303594.htm
+    start: 新华社北京１月１日电
+    end: 不断为深化改革开放夯实群众基础。
+  - id: i07-people-2014-04-09-crossing-river-origin
+    title: “摸着石头过河”改革方法的来龙去脉
+    publisher: 人民网党史频道（光明日报）
+    author: 韩振峰
+    date: 2014-04-09
+    voice: history
+    url: http://dangshi.people.com.cn/n/2014/0409/c85037-24858259.html
+    start: 党的十八届三中全会公报和
+    end: 更加积极稳妥地把改革开放不断推向前进。
+  - id: i07-chinanews-2001-01-10-rule-by-virtue
+    title: 江泽民强调既要依法治国也要以德治国
+    publisher: 中国新闻网
+    date: 2001-01-10
+    voice: official
+    url: https://www.chinanews.com.cn/2001-01-10/26/65768.html
+    start: 中新社北京一月十日电
+    end: 中共中央政治局常委、国务院副总理李岚清出席座谈会。
+  - id: i07-dswxyjy-2019-07-09-rule-by-virtue
+    title: 江泽民“以德治国”思想的文献解读
+    publisher: 中共中央党史和文献研究院网站
+    author: 李琦
+    date: 2019-07-09
+    voice: history
+    url: https://www.dswxyjy.org.cn/n1/2019/0709/c427758-31222608.html
+    start: "[摘要]通过对江泽民"
+    end: 思考过程的一个重要选段。
+  - id: i07-cyol-2005-07-08-advanced-nature
+    title: 中央组织部门首次公开接受媒体采访 先进性教育活动不是整肃运动
+    publisher: 中国青年报
+    date: 2005-07-08
+    voice: official
+    url: http://zqb.cyol.com/content/2005-07/08/content_1141439.htm
+    start: 本报北京7月7日电
+    end: 并积极部署减少副书记职数的相关问题。
+
+  # --- voices ---
+  - id: i07-bbc-2001-03-13-rule-by-virtue
+    title: 中国能“以德治国”吗？
+    publisher: BBC 中文
+    date: 2001-03-13
+    voice: zh
+    url: http://news.bbc.co.uk/hi/chinese/news/newsid_1217000/12173601.stm
+    excerpt: true
+    keep: [ 提法不妥当, 封建意味, 空洞和抽象 ]
+  - id: i07-dzwww-2005-03-03-hoover-advanced-nature
+    title: 美国胡佛研究所评介保持党员先进性教育
+    publisher: 大众网（转述胡佛研究所《中国领导层观察》）
+    date: 2005-03-03
+    voice: west
+    url: http://dzwww.com/xinwen/xinwenzhuanti/xjxjy/pl/200503/t20050303_984320.htm
+    excerpt: true
+    keep: [ 第三场, 新加坡模式, 升迁 ]
+  - id: i07-bbc-2006-07-13-party-dismisses
+    title: Chinese party dismisses members
+    publisher: BBC News
+    date: 2006-07-13
+    voice: west
+    url: http://news.bbc.co.uk/2/hi/asia-pacific/5175664.stm
+    excerpt: true
+    keep: [ "45,000", re-engage ]
+  - id: i07-bbc-2010-07-05-xinjiang-anniversary
+    title: 蒙克：新疆“7·5”周年谈民族问题
+    publisher: BBC 中文
+    author: 蒙克
+    date: 2010-07-05
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2010/07/100705_analysis_xinjiang_75anniversary
+    excerpt: true
+    keep: [ 开发大西北, 经济决定的思路, 修路开矿的国企 ]
+  - id: i07-bbc-2019-03-stimulus
+    title: 中国经济2019：新一轮刺激计划是在“饮鸩止渴”吗？
+    publisher: BBC 中文
+    date: 2019-03-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-47577235
+    excerpt: true
+    keep: [ 饮鸩止渴, 45%, 规模不要过大, 挤出效应 ]
+  - id: i07-bbc-2009-07-05-zhou-xiaochuan
+    title: 周小川警告四万亿经济刺激计划风险
+    publisher: BBC 中文
+    date: 2009-07-05
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_8130000/newsid_8134800/8134802.stm
+    excerpt: true
+    keep: [ 浪费过大, 开前门 ]
+  - id: i07-bbc-2005-03-21-soe-unemployment
+    title: 国企改革和失业大军
+    publisher: BBC 中文
+    author: 朝歌
+    date: 2005-03-21
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/simp/hi/newsid_4190000/newsid_4192300/4192373.stm
+    excerpt: true
+    keep: [ 下岗失业浪潮, 280多万下岗职工, 形同虚设 ]
+  - id: i07-bbc-2002-11-li-chunhai
+    title: "Voices from modern China: Li Chunhai, laid-off state worker"
+    publisher: BBC News
+    date: 2002-11-01
+    voice: witness
+    url: http://news.bbc.co.uk/2/shared/spl/hi/asia_pac/02/china_party_congress/voices/html/li_chunhai.stm
+    excerpt: true
+    keep: [ laid off in 1998, now I have nothing ]
+  - id: i07-wiki-xiagang
+    title: 下岗
+    publisher: 维基百科
+    date: 2026-10-18
+    voice: wiki
+    url: https://zh.wikipedia.org/wiki/下岗
+    excerpt: true
+    keep: [ 中国大陆的特有名词, 变相的失业, 下岗潮一直是 ]
+  - id: i07-usc-2018-01-ustr-wto
+    title: 2017 Report to Congress On China's WTO Compliance (USTR)
+    publisher: USC US-China Institute（转载美国贸易代表办公室报告）
+    date: 2018-01-19
+    voice: west
+    url: https://china.usc.edu/node/21045
+    excerpt: true
+    keep: [ erred in supporting, hopes were disappointed ]
