@@ -77,7 +77,7 @@ export function Ideas() {
       a.db.people
         .filter((p) => p.roles.includes('scholar'))
         .map((p) => ({ p, ideas: a.db.concepts.filter((c) => c.by.includes(p.id)) }))
-        .sort((x, y) => y.ideas.length - x.ideas.length || Number(y.p.life.length > 0) - Number(x.p.life.length > 0)),
+        .sort((x, y) => y.ideas.length - x.ideas.length || x.p.tier - y.p.tier),
     [a],
   )
   const kinds = CORPUS_KINDS.find((k) => k[0] === ck)![2]

@@ -22,6 +22,9 @@ const GROUPS: [string, Role[]][] = [
   ['家属', ['family']],
 ]
 
+// a group shows this many until asked for the rest; all 1,900 cards at once is a very long phone page
+const FIRST = 36
+
 const groupOf = (p: PersonR) => GROUPS.findIndex(([, rs]) => rs.some((r) => p.roles.includes(r)))
 
 export function People() {
@@ -31,6 +34,7 @@ export function People() {
   const [status, setStatus] = useKept<St | ''>('')
   const [fac, setFac] = useKept('')
   const [full, setFull] = useKept(false)
+  const [open, setOpen] = useKept<Record<string, boolean>>({})
 
   const shown = useMemo(() => {
     const t = q.trim().toLowerCase()
@@ -99,10 +103,15 @@ export function People() {
             {g.name} <small>{g.list.length}</small>
           </div>
           <div className="grid-people">
-            {g.list.map((p) => (
+            {(open[g.name] || g.list.length <= FIRST + 12 ? g.list : g.list.slice(0, FIRST)).map((p) => (
               <PersonCard key={p.id} p={p} />
             ))}
           </div>
+          {!open[g.name] && g.list.length > FIRST + 12 && (
+            <button className="chip" onClick={() => setOpen({ ...open, [g.name]: true })} style={{ marginTop: 12 }}>
+              显示其余 {g.list.length - FIRST} 人
+            </button>
+          )}
         </div>
       ))}
       {!groups.length && <div className="empty">没有符合条件的人物</div>}

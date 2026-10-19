@@ -145,7 +145,9 @@ export const VERSIONED = ['charter', 'constitution'] as const
 
 export function write(db: DB, d: Data) {
   mkdirSync(path('public', 'data', 'texts'), { recursive: true })
-  writeFileSync(path('public', 'data', 'db.json'), JSON.stringify(db))
+  // biographies only matter on a person's own page, so they load after the first paint (src/lib/lives.ts)
+  writeFileSync(path('public', 'data', 'db.json'), JSON.stringify({ ...db, people: db.people.map(({ bio: _, life: __, ...p }) => p) }))
+  writeFileSync(path('public', 'data', 'lives.json'), JSON.stringify(Object.fromEntries(db.people.map((p) => [p.id, { bio: p.bio, life: p.life }]))))
   for (const c of d.corpus) {
     const text = d.texts.get(c.id)
     if (text && (VERSIONED as readonly string[]).includes(c.kind)) writeFileSync(path('public', 'data', 'texts', `${c.id}.txt`), text)

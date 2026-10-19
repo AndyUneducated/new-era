@@ -1018,6 +1018,7 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .vs-tick.removed { background: var(--red); }
 .vs-tick.added { background: var(--gold-2); }
 .vs-tick:hover { transform: scaleY(2); }
+.vs-tick::after { content: ''; position: absolute; inset: -7px -8px; }
 
 /* 诸侯图 */
 .pv-controls { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: center; margin: 22px 0 14px; }
