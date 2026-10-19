@@ -1,0 +1,1006 @@
+# R10: dossier cards for central SOE and financial-system officials with no card yet (research/round13.md R10;
+# research/falls-list/R10.yaml). Notices, indictments and verdicts are stored under sources/text/r10-*.
+
+# ───── 中管企业 ─────
+- id: he-wenzhong
+  name: 何文忠
+  gender: m
+  born: 1970-08
+  roles: [tiger]
+  status: detained
+  statusNote: 2025 年 7 月被张家口中院以受贿罪判处死刑，缓期二年执行。
+  fall:
+    - { date: 2024-04-07, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，在任上接受纪律审查和监察调查, cite: r10-thepaper-2024-04-07-he-wenzhong-probe }
+    - { date: 2024-10-11, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-xinhua-2024-10-11-he-wenzhong-expel }
+    - { date: 2025-07-21, text: 张家口中院以受贿罪判处死刑，缓期二年执行，受贿 2.89 亿余元, cite: r10-court-2025-07-21-he-wenzhong-verdict }
+  tier: 2
+  headline: 中国电科原副总经理，“靠军工吃军工”受贿 2.89 亿余元被判死缓
+  bio: >-
+    1991 年从成都电讯工程学院毕业进入中国电科第十一研究所，从红外应用部一路升至所长、党委书记，至迟 2020 年 11 月任集团总工程师，2023 年 5 月升副总经理，
+    不到一年即被查。法院认定他 2006—2023 年在供应产品、获取货款等事项上收受财物 2.89 亿余元，因有重大立功表现判处死缓。
+  positions:
+    - { title: 中国电子科技集团公司第十一研究所所长、党委书记, sys: other, cite: r10-thepaper-2024-04-07-he-wenzhong-probe }
+    - { title: 中国电子科技集团有限公司总工程师, sys: other, from: 2020-11, to: 2023-05, cite: r10-thepaper-2024-04-07-he-wenzhong-probe }
+    - { title: 中国电子科技集团有限公司党组成员、副总经理, sys: other, from: 2023-05, to: 2024-04, cite: r10-thepaper-2024-04-07-he-wenzhong-probe }
+  cites: [r10-thepaper-2024-04-07-he-wenzhong-probe, r10-xinhua-2024-10-11-he-wenzhong-expel, r10-court-2025-07-21-he-wenzhong-verdict]
+
+- id: bai-tianhui
+  name: 白天辉
+  gender: m
+  born: 1968-10
+  died: 2025-12-09
+  roles: [biz]
+  status: dead
+  statusNote: 2025 年 12 月 9 日经最高法核准被执行死刑。
+  fall:
+    - { date: 2019-01, text: 天津市监委调查终结，经最高检指定管辖由天津市检察院第二分院审查起诉并决定逮捕, cite: r10-wiki-bai-tianhui }
+    - { date: 2024-05-28, text: 天津二中院以受贿罪判处死刑，剥夺政治权利终身，并处没收个人全部财产，受贿 11.08 亿余元, cite: r10-xinhua-2025-12-09-bai-tianhui-exec }
+    - { date: 2025-02-24, text: 天津高院二审裁定驳回上诉，维持原判，报请最高法核准, cite: r10-xinhua-2025-12-09-bai-tianhui-exec }
+    - { date: 2025-12-09, text: 经最高法核准，天津二中院对其执行死刑, cite: r10-xinhua-2025-12-09-bai-tianhui-exec }
+  tier: 2
+  headline: 华融国际原总经理，赖小民旧部，受贿 11.08 亿余元被执行死刑
+  bio: >-
+    2014—2018 年在华融（香港）国际和中国华融国际控股任业务拓展部负责人、资本运营总监、副总经理、总经理，是赖小民的下属。赖小民落马后随即被查，
+    曾在专题片《国家监察》出镜讲述赖案。法院认定他在项目收购和企业融资上收受 11.08 亿余元，2025 年 12 月被执行死刑；据维基百科引人民法院案例库，案发后仅追缴到案 6.3 亿余元。
+  positions:
+    - { title: 华融（香港）国际控股有限公司业务拓展三部负责人、总经理, sys: other, place: 香港, from: 2014, cite: r10-xinhua-2025-12-09-bai-tianhui-exec }
+    - { title: 中国华融国际控股有限公司资本运营总监、总经理助理、副总经理, sys: other, place: 香港, to: 2018, cite: r10-xinhua-2025-12-09-bai-tianhui-exec }
+    - { title: 中国华融国际控股有限公司总经理, sys: other, place: 香港, to: 2018, cite: r10-wiki-bai-tianhui }
+  cites: [r10-wiki-bai-tianhui, r10-xinhua-2025-12-09-bai-tianhui-exec]
+
+# ───── 证监会系统 ─────
+- id: yao-qian
+  name: 姚前
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 11 月被开除党籍和公职并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-04, text: 被立案审查调查，由驻证监会纪检监察组与广东省汕尾市监委组成专案组办理, cite: r10-stcn-2026-01-14-yao-qian-detail }
+    - { date: 2024-11-20, text: 被开除党籍和公职，涉嫌受贿犯罪问题由汕尾市监委移送检察机关审查起诉, cite: r10-csrc-2024-11-20-yao-qian-expel }
+  tier: 2
+  headline: 证监会科技监管司原司长、央行数字货币研究所首任所长，收受以太币被查
+  bio: >-
+    曾任中国人民银行数字货币研究所所长，后任证监会科技监管司司长、信息中心主任。通报称他以金融科技专家自居，为特定科技服务商不遗余力，“利用虚拟货币等进行权钱交易”，
+    并搞迷信活动。中央纪委专题报道称他 2018 年帮币圈老板发币后收下 2000 枚以太币，用链上取证查清。
+  positions:
+    - { title: 中国人民银行数字货币研究所所长, sys: gov, cite: r10-stcn-2026-01-14-yao-qian-detail }
+    - { title: 中国证监会科技监管司司长、信息中心主任, sys: gov, to: 2024-04, cite: r10-csrc-2024-11-20-yao-qian-expel }
+  cites: [r10-csrc-2024-11-20-yao-qian-expel, r10-stcn-2026-01-14-yao-qian-detail]
+
+- id: chen-gongyan
+  name: 陈共炎
+  gender: m
+  born: 1962
+  roles: [biz]
+  status: purged
+  statusNote: 2023 年 11 月退休后被查；后续处分与判决未见公开报道。
+  fall:
+    - { date: 2023-11-10, text: 宣布其涉嫌严重违纪违法，接受驻中投公司纪检监察组纪律审查和山东省威海市监委监察调查, cite: r10-jiemian-2023-11-10-chen-gongyan-probe }
+  tier: 2
+  headline: 中国银河证券原董事长，证监会出身，退休一年后被查
+  bio: >-
+    历任国务院发展研究中心副研究员，证监会信息中心负责人、机构监管部副主任、证券公司风险处置办公室主任，中央汇金副总经理。2016 年起任中国银河证券党委书记、董事长，
+    任内银河完成 A 股上市、实现“A+H”两地上市；2022 年 6 月到龄退休，2023 年 11 月被查。
+  positions:
+    - { title: 中国证监会机构监管部副主任、证券公司风险处置办公室主任, sys: gov, cite: r10-jiemian-2023-11-10-chen-gongyan-probe }
+    - { title: 中央汇金投资有限责任公司副总经理, sys: other, cite: r10-jiemian-2023-11-10-chen-gongyan-probe }
+    - { title: 中国银河证券股份有限公司党委书记、董事长, sys: other, from: 2016, to: 2022-06, cite: r10-jiemian-2023-11-10-chen-gongyan-probe }
+  cites: [r10-jiemian-2023-11-10-chen-gongyan-probe]
+
+- id: liu-ti
+  name: 刘逖
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2023 年 10 月被开除公职，涉嫌贪污、受贿犯罪移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2023-04-17, text: 被带走接受驻证监会纪检监察组与浙江省台州市监委监察调查, cite: r10-caixin-2023-10-23-liu-ti-caixin }
+    - { date: 2023-10-20, text: 被开除公职，涉嫌贪污犯罪和受贿犯罪问题移送检察机关审查起诉, cite: r10-csrc-2023-10-20-liu-ti-expel }
+  tier: 2
+  headline: 上交所原副总经理，以“假离婚”欺骗组织，影子股东入股拟上市公司
+  bio: >-
+    在上交所工作 25 年，升至副总经理。通报称他以资本市场“专家学者”自居，篡改伪造个人档案，以“假离婚”规避申报，以影子股东入股多家拟上市公司并侵吞公共财物。
+    财新称他被查或与上交所审核中心原副主任操舰案线索有关，两案都由台州市监委调查。通报只给予开除公职处分，未提党纪处分。
+  positions:
+    - { title: 上海证券交易所副总经理, sys: other, place: 上海, to: 2023-04, cite: r10-csrc-2023-10-20-liu-ti-expel }
+  cites: [r10-csrc-2023-10-20-liu-ti-expel, r10-caixin-2023-10-23-liu-ti-caixin]
+
+- id: an-qingsong
+  name: 安青松
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 7 月被株洲市检察院提起公诉；判决未见公开报道。
+  fall:
+    - { date: 2024-05-14, text: 被开除党籍、政务开除，涉嫌受贿犯罪问题由株洲市纪委监委移送检察机关审查起诉, cite: r10-csrc-2024-05-14-an-qingsong-expel }
+    - { date: 2024-07-24, text: 经最高检指定管辖，株洲市检察院以涉嫌受贿罪向株洲中院提起公诉, cite: r10-spp-2024-07-24-an-qingsong-charge }
+  tier: 2
+  headline: 中国期货业协会原会长，通报称其“是政商勾连的典型”
+  bio: >-
+    历任证监会上市公司监管部副主任，青岛、天津证监局局长，中国证券业协会会长，2023 年 1—11 月任中国期货业协会党委书记、会长（正厅级）。
+    通报称他在股权分置改革、发行和重组审核中为人谋利，热衷所谓“官场秘诀”，沉迷封建迷信，私藏有严重政治问题的书籍，向监管对象推销自己写的书。
+  positions:
+    - { title: 中国证监会上市公司监管部副主任, sys: gov, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
+    - { title: 青岛证监局、天津证监局党委书记、局长, sys: gov, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
+    - { title: 中国证券业协会党委书记、会长, sys: other, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
+    - { title: 中国期货业协会党委书记、会长, sys: other, from: 2023-01, to: 2023-11, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
+  cites: [r10-csrc-2024-05-14-an-qingsong-expel, r10-jiemian-2024-05-14-an-qingsong-bio, r10-spp-2024-07-24-an-qingsong-charge]
+
+- id: ling-feng
+  name: 凌峰
+  gender: m
+  born: 1972
+  birthplace: 安徽合肥
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 12 月被开除党籍、政务开除并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-06-21, text: 在江苏证监局局长任上被宣布涉嫌严重违纪违法，接受纪律审查和江苏省监委监察调查, cite: r10-thepaper-2024-06-21-ling-feng-probe }
+    - { date: 2024-12-27, text: 被开除党籍、政务开除，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-csrc-2024-12-27-ling-feng-expel }
+  tier: 2
+  headline: 江苏证监局原局长，以“投资入股”名义受贿，在任上被查
+  bio: >-
+    1993 年参加工作，2004—2020 年在江苏证监局从期货监管处副处长升至副局长，2020 年 7 月任贵州证监局局长，2022 年 7 月回任江苏证监局党委书记、局长。
+    通报称他“干私活”“谋私心”，利用监管公权力深度政商勾连，对抗审查、与多人串供，以“投资入股”名义收受财物。
+  positions:
+    - { title: 江苏证监局期货监管处副处长、处长，办公室主任，副局长, sys: gov, place: 江苏, from: 2004, to: 2020, cite: r10-stcn-2024-06-21-ling-feng-bio }
+    - { title: 贵州证监局局长, sys: gov, place: 贵州, from: 2020-07, to: 2022-07, cite: r10-stcn-2024-06-21-ling-feng-bio }
+    - { title: 江苏证监局党委书记、局长, sys: gov, place: 江苏, from: 2022-07, to: 2024-06, cite: r10-stcn-2024-06-21-ling-feng-bio }
+  cites: [r10-stcn-2024-06-21-ling-feng-bio, r10-thepaper-2024-06-21-ling-feng-probe, r10-csrc-2024-12-27-ling-feng-expel]
+
+- id: chen-xiaopeng
+  name: 陈小澎
+  gender: m
+  birthplace: 福建
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 2 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-08-02, text: 宣布其涉嫌严重违纪违法，接受驻证监会纪检监察组纪律审查和江西省赣州市监委监察调查, cite: r10-21jingji-2024-08-02-chen-xiaopeng-probe }
+    - { date: 2025-02-08, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由赣州市监委移送检察机关审查起诉, cite: r10-csrc-2025-02-08-chen-xiaopeng-expel }
+  tier: 2
+  headline: 深圳证监局原局长，通报称其“贪婪成性、腐败成瘾、擅权成疾”
+  bio: >-
+    早年在厦门证券委，随证监会集中统一监管进入证监系统，历任厦门、福建证监局局长，广东证监局党委书记兼广州稽查局局长，深圳证监局党委书记、局长，
+    第十三届全国政协委员，2019 年退休。通报称他在辅导验收、发行上市和重组审核中为人谋利，以投资理财、投资入股名义受贿，是新型腐败和隐性腐败的典型。
+  positions:
+    - { title: 厦门证监局局长, sys: gov, place: 福建, cite: r10-21jingji-2024-08-02-chen-xiaopeng-probe }
+    - { title: 福建证监局局长, sys: gov, place: 福建, cite: r10-21jingji-2024-08-02-chen-xiaopeng-probe }
+    - { title: 广东证监局党委书记、广州稽查局局长, sys: gov, place: 广东, cite: r10-21jingji-2024-08-02-chen-xiaopeng-probe }
+    - { title: 深圳证监局党委书记、局长, sys: gov, place: 广东, to: 2019, cite: r10-21jingji-2024-08-02-chen-xiaopeng-probe }
+    - { title: 全国政协委员, sys: other, from: 2018, to: 2023-01, cite: r10-caixin-2024-08-03-chen-xiaopeng-caixin }
+  cites: [r10-21jingji-2024-08-02-chen-xiaopeng-probe, r10-caixin-2024-08-03-chen-xiaopeng-caixin, r10-csrc-2025-02-08-chen-xiaopeng-expel]
+
+- id: dong-guoqun
+  name: 董国群
+  gender: m
+  born: 1965-05
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 2 月被开除党籍、政务开除并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-08-02, text: 在上交所副总经理任上被宣布涉嫌严重违纪违法，接受纪律审查和浙江省台州市监委监察调查, cite: r10-csrc-2024-08-02-dong-guoqun-probe }
+    - { date: 2025-02-15, text: 被开除党籍、政务开除，涉嫌受贿犯罪问题由台州市监委移送检察机关审查起诉, cite: r10-xinhua-2025-02-15-dong-guoqun-expel }
+  tier: 2
+  headline: 上交所原副总经理，“腐败行为贯穿职业生涯”
+  bio: >-
+    1996 年进入上交所，历任副总监、总监、纪委委员，升至党委委员、副总经理。2024 年 8 月在任上被查。通报称他将私人会所当作“个人食堂”，
+    中央巡视期间仍接受宴请，借多人证券账户炒股，安排“白手套”入股拟上市企业，在企业上市、大额资金存放、工程建设等事项上收受股权和现金。
+  positions:
+    - { title: 上海证券交易所副总监、总监, sys: other, place: 上海, from: 1996, cite: r10-thepaper-2024-08-02-dong-guoqun-bio }
+    - { title: 上海证券交易所党委委员、副总经理, sys: other, place: 上海, to: 2024-08, cite: r10-thepaper-2024-08-02-dong-guoqun-bio }
+  cites: [r10-thepaper-2024-08-02-dong-guoqun-bio, r10-csrc-2024-08-02-dong-guoqun-probe, r10-xinhua-2025-02-15-dong-guoqun-expel]
+
+# ───── 银保监系统 ─────
+- id: li-huatao
+  name: 李华涛
+  gender: m
+  born: 1964-04
+  birthplace: 四川宣汉
+  roles: [biz]
+  status: detained
+  statusNote: 2025 年 7 月被六盘水中院以受贿罪判处有期徒刑 10 年 9 个月，当庭表示不上诉。
+  fall:
+    - { date: 2024-06-21, text: 宣布其涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和贵州省监委监察调查, cite: r10-thepaper-2024-06-21-ling-feng-probe }
+    - { date: 2024-12-20, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-nbd-2024-12-20-li-huatao-expel }
+    - { date: 2025-07-31, text: 六盘水中院以受贿罪判处有期徒刑 10 年 9 个月，并处罚金 120 万元，受贿 1869 万余元, cite: r10-xinhua-2025-07-31-li-huatao-verdict }
+  tier: 2
+  headline: 贵州金融监管局原局长，银监系统三易其名都由他掌舵
+  bio: >-
+    历任银监会延安分局局长、陕西银监局财务会计处处长和副局长，此后在贵州银监局、贵州银保监局、金融监管总局贵州监管局一直任党委书记、局长，2024 年 4 月满 60 岁卸任。
+    法院认定他 2008—2024 年在贷款融资、人事安排上收受 1869 万余元；通报称他以亲属名义违规入股银行。
+  positions:
+    - { title: 中国银监会延安监管分局党委书记、局长, sys: gov, place: 陕西, cite: r10-xinhua-2025-07-31-li-huatao-verdict }
+    - { title: 陕西银监局财务会计处处长、党委委员、副局长, sys: gov, place: 陕西, cite: r10-xinhua-2025-07-31-li-huatao-verdict }
+    - { title: 贵州银监局（银保监局、金融监管总局贵州监管局）党委书记、局长, sys: gov, place: 贵州, to: 2024-05, cite: r10-thepaper-2024-06-21-ling-feng-probe }
+  cites: [r10-nbd-2024-12-20-li-huatao-expel, r10-xinhua-2025-07-31-li-huatao-verdict, r10-thepaper-2024-06-21-ling-feng-probe]
+
+- id: yuan-fei
+  name: 原飞
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 2 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-08, text: 被立案审查调查, cite: r10-caixin-2025-02-23-yuan-fei-caixin }
+    - { date: 2025-02-22, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由大连市监委移送检察机关审查起诉, cite: r10-cctv-2025-02-22-yuan-fei-expel }
+  tier: 2
+  headline: 原大连银监局局长，卸任八年后被查
+  bio: >-
+    在大连银监局工作多年，2006 年 3 月由副局长升任党委书记、局长，2016 年前后卸任。2024 年 8 月被查，由驻金融监管总局纪检监察组和大连市监委审查调查。
+    通报称他在职工录用中为人谋利，利用职权为家人经营活动谋利、低价购买房产，组织函询时不如实说明问题。
+  positions:
+    - { title: 大连银监局副局长, sys: gov, place: 辽宁, to: 2006-03, cite: r10-caixin-2025-02-23-yuan-fei-caixin }
+    - { title: 大连银监局党委书记、局长, sys: gov, place: 辽宁, from: 2006-03, to: 2016, cite: r10-caixin-2025-02-23-yuan-fei-caixin }
+  cites: [r10-cctv-2025-02-22-yuan-fei-expel, r10-caixin-2025-02-23-yuan-fei-caixin]
+
+- id: wang-zeping
+  name: 王泽平
+  gender: m
+  born: 1962-09
+  birthplace: 四川大邑
+  roles: [biz]
+  status: purged
+  statusNote: 2026 年 1 月被开除党籍和公职并移送审查起诉。
+  fall:
+    - { date: 2025-05-30, text: 宣布其涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和四川省遂宁市监委监察调查, cite: r10-sina-2025-06-06-wang-zeping-probe }
+    - { date: 2026-01-16, text: 被开除党籍和公职，涉嫌受贿犯罪问题由遂宁市监委移送检察机关审查起诉, cite: r10-cctv-2026-01-16-wang-zeping-expel }
+  tier: 2
+  headline: 原四川银监局局长，与前任王筠权一周内先后被查
+  bio: >-
+    历任四川银监局副局长，厦门、河南银监局局长，2017 年接替王筠权任四川银监局党委书记、局长，后任重庆银保监局局长、四川银保监局一级巡视员。
+    2025 年 5 月被查，一周后前任王筠权也被查，两人合计主持四川银监局工作约 15 年。通报称他伪造证据对抗审查，让他人代持房产隐瞒不报。
+  positions:
+    - { title: 厦门银监局党委书记、局长, sys: gov, place: 福建, cite: r10-sina-2025-06-06-wang-zeping-probe }
+    - { title: 河南银监局党委书记、局长, sys: gov, place: 河南, to: 2017, cite: r10-sina-2025-06-06-wang-zeping-probe }
+    - { title: 四川银监局党委书记、局长, sys: gov, place: 四川, from: 2017, cite: r10-sina-2025-06-06-wang-zeping-probe }
+    - { title: 重庆银保监局党委书记、局长, sys: gov, place: 重庆, cite: r10-sina-2025-06-06-wang-zeping-probe }
+  cites: [r10-sina-2025-06-06-wang-zeping-probe, r10-cctv-2026-01-16-wang-zeping-expel, r10-caixin-2025-06-06-wang-zeping-caixin]
+
+- id: wang-junquan
+  name: 王筠权
+  gender: m
+  born: 1957-10
+  birthplace: 四川阆中
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 6 月退休近八年后被查；处分结果未见公开报道。
+  fall:
+    - { date: 2025-06-06, text: 宣布其涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和四川省遂宁市监委监察调查, cite: r10-cctv-2025-06-06-wang-junquan-probe }
+  tier: 2
+  headline: 原四川银监局局长，退休近八年后被查
+  bio: >-
+    长期任四川银监局党委书记、局长，2017 年退休，由王泽平接任。任内浦发银行成都分行违规案被罚 4.62 亿元，银监会称四川银监局监管督导不力，对其原主要负责人严肃问责。
+    2025 年 6 月被查，与继任者王泽平同由遂宁市监委调查。
+  positions:
+    - { title: 四川银监局党委书记、局长, sys: gov, place: 四川, to: 2017, cite: r10-sina-2025-06-06-wang-zeping-probe }
+  cites: [r10-cctv-2025-06-06-wang-junquan-probe, r10-sina-2025-06-06-wang-zeping-probe, r10-caixin-2025-06-06-wang-zeping-caixin]
+
+# ───── 政策性银行 ─────
+- id: lu-chuncai
+  name: 卢纯才
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 9 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-09-20, text: 被开除党籍，取消享受的待遇，涉嫌职务犯罪问题由山西省监委移送检察机关审查起诉, cite: r10-cctv-2024-09-20-lu-chuncai-expel }
+  tier: 2
+  headline: 中国农业发展银行原一级总监
+  bio: >-
+    在农发行工作多年，曾任内蒙古、辽宁分行行长，后任总行一级总监。由驻农发行纪检监察组和山西省监委审查调查，通报称他收受下属员工和管理服务对象礼金，
+    低价购买住房、无偿借用服务对象住房，利用职务影响力为他人谋利，收受巨额贿赂。
+  positions:
+    - { title: 中国农业发展银行内蒙古自治区分行行长, sys: other, place: 内蒙古, cite: r10-chnfund-2024-09-20-lu-chuncai-bio }
+    - { title: 中国农业发展银行辽宁省分行行长, sys: other, place: 辽宁, cite: r10-chnfund-2024-09-20-lu-chuncai-bio }
+    - { title: 中国农业发展银行一级总监, sys: other, cite: r10-cctv-2024-09-20-lu-chuncai-expel }
+  cites: [r10-cctv-2024-09-20-lu-chuncai-expel, r10-chnfund-2024-09-20-lu-chuncai-bio]
+
+# ───── 光大系 ─────
+- id: chen-shuang
+  name: 陈爽
+  gender: m
+  born: 1967-08
+  birthplace: 江苏南通
+  joinedParty: 1987-06
+  roles: [biz]
+  status: purged
+  statusNote: 2022 年 7 月被宣布接受监察调查；后续结果未见本站来源。
+  fall:
+    - { date: 2022-07-26, text: 宣布其涉嫌严重违法，接受驻光大集团纪检监察组和安徽省监委监察调查, cite: r10-ccdi-2022-07-26-chen-shuang-probe }
+  tier: 2
+  headline: 光大控股原行政总裁、光大集团原副总经理，辞职三年后被查
+  bio: >-
+    2001 年 2 月调入光大集团法律部，2007 年 8 月起任光大控股执行董事、行政总裁近 12 年，2013 年起兼光大集团党委委员、执行董事、副总经理，2019 年 9 月辞职。
+    2022 年 7 月被查。财新引知情人士称，被查或与光大控股上半年巨亏有关，亏损主要是他任内遗留风险暴露。
+  positions:
+    - { title: 中国光大集团法律部主任，中国光大控股执行董事、副总经理, sys: other, from: 2001-02, to: 2007-08, cite: r10-ccdi-2022-07-26-chen-shuang-probe }
+    - { title: 中国光大控股有限公司执行董事、行政总裁, sys: other, place: 香港, from: 2007-08, to: 2019-04, cite: r10-ccdi-2022-07-26-chen-shuang-probe }
+    - { title: 中国光大集团有限公司党委委员、执行董事、副总经理, sys: other, from: 2013-04, to: 2019-09, cite: r10-ccdi-2022-07-26-chen-shuang-probe }
+  cites: [r10-ccdi-2022-07-26-chen-shuang-probe, r10-caixin-2022-07-26-chen-shuang-caixin, r10-jiemian-2022-07-26-chen-shuang-jiemian]
+
+- id: zhu-huimin
+  name: 朱慧民
+  gender: m
+  born: 1966-11
+  birthplace: 河南扶沟
+  joinedParty: 1995-07
+  roles: [biz]
+  status: purged
+  statusNote: 2021 年 3 月被开除党籍和公职；判决未见本站来源。
+  fall:
+    - { date: 2020-09-23, text: 在光大实业董事长任上被宣布涉嫌严重违纪违法，接受驻光大集团纪检监察组纪律审查和黑龙江省监委监察调查, cite: r10-ccdi-2020-09-23-zhu-huimin-probe }
+    - { date: 2021-03-19, text: 被开除党籍和公职，涉嫌贪污、违法发放贷款、重婚等问题被查清, cite: r10-hebcdi-2022-02-12-zhu-huimin-case }
+  tier: 2
+  headline: 光大实业原董事长，审计查出不良贷款牵出“以投资为名行受贿之实”
+  bio: >-
+    2000 年进入光大银行郑州分行，历任福州、深圳分行行长，2014 年起执掌光大实业。驻光大集团纪检监察组经内部审计发现他任深圳分行行长时审批的贷款形成巨额不良，
+    初核查出他通过亲属收受 4 家客户企业 3000 余万元、收受价值 4000 余万元别墅。驻光大集团纪检监察组称此案是扭转光大集团政治生态的标志性案件。
+  positions:
+    - { title: 光大银行郑州分行支行行长、行长助理、副行长, sys: other, place: 河南, from: 2000-01, to: 2005-01, cite: r10-ccdi-2020-09-23-zhu-huimin-probe }
+    - { title: 光大银行福州分行党委书记、行长, sys: other, place: 福建, from: 2005-01, to: 2007-06, cite: r10-ccdi-2020-09-23-zhu-huimin-probe }
+    - { title: 光大银行深圳分行党委书记、行长, sys: other, place: 广东, from: 2007-06, to: 2014-11, cite: r10-ccdi-2020-09-23-zhu-huimin-probe }
+    - { title: 中国光大实业（集团）有限责任公司党委书记、董事长、总经理, sys: other, from: 2014-11, to: 2020-09, cite: r10-ccdi-2020-09-23-zhu-huimin-probe }
+  cites: [r10-ccdi-2020-09-23-zhu-huimin-probe, r10-hebcdi-2022-02-12-zhu-huimin-case, r10-jiemian-2022-07-26-chen-shuang-jiemian]
+
+- id: xue-feng-ebscn
+  name: 薛峰
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 据第一财经，2022 年 2 月案件已由纪检监察机关移交检察机关；判决未见本站来源。
+  fall:
+    - { date: 2022-02-27, text: 第一财经报道其案已结束中央纪委审查，移交检察机关公诉，涉嫌玩忽职守和受贿, cite: r10-dahe-2022-02-27-xue-feng-yicai }
+  tier: 2
+  headline: 光大证券前董事长，光大资本 MPS 收购巨亏案的责任人
+  bio: >-
+    光大证券前董事长。第一财经称，旗下光大资本联合暴风集团收购 MPS 一案在光大证券内部绕过风控体系被强行通过，未经总裁办、董事会审议和党委会讨论即获批准，
+    光大资本当时的“一把手”代卫国是他的爱将。据第一财经，他涉嫌玩忽职守（与 MPS 案有关）和受贿（与人员任用有关），审查人员未发现他在 MPS 案中受贿。
+  positions:
+    - { title: 光大证券股份有限公司董事长, sys: other, cite: r10-dahe-2022-02-27-xue-feng-yicai }
+  cites: [r10-dahe-2022-02-27-xue-feng-yicai]
+
+# ───── 证监会系统（续） ─────
+- id: li-xiaoqiang
+  name: 李筱强
+  gender: m
+  born: 1971
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 7 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-11-15, text: 被宣布涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r10-caijing-2024-11-15-li-xiaoqiang-probe }
+    - { date: 2025-07-12, text: 被开除党籍，涉嫌受贿犯罪问题由江苏省苏州市监委移送检察机关审查起诉, cite: r10-ccdi-2025-07-12-li-xiaoqiang-expel }
+  tier: 2
+  headline: 证监会原发行监管部副主任，通报称其“是政商‘旋转门’腐败的典型”
+  bio: >-
+    早年在审计署金融审计司，1998 年进入证监会，历任上海证监局副局长、会计部副主任、发行部副主任，曾任第一至三届创业板发审委委员；2018 年 2 月调任中国互联网投资基金管理公司总经理。
+    通报称他离开证监会后仍不知止，从事封建迷信活动，借他人账户炒股，以“业务咨询”“投资入股”等名义收受财物。
+  positions:
+    - { title: 中国证监会上海证监局副局长, sys: gov, place: 上海, cite: r10-caijing-2024-11-15-li-xiaoqiang-probe }
+    - { title: 中国证监会会计部副主任、发行监管部副主任, sys: gov, cite: r10-caijing-2024-11-15-li-xiaoqiang-probe }
+    - { title: 中国互联网投资基金管理有限公司总经理, sys: other, from: 2018-02, cite: r10-caijing-2024-11-15-li-xiaoqiang-probe }
+  cites: [r10-caijing-2024-11-15-li-xiaoqiang-probe, r10-ccdi-2025-07-12-li-xiaoqiang-expel]
+
+- id: wu-guofang
+  name: 吴国舫
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 7 月被开除党籍和公职并移送审查起诉；据财新，2026 年案件一审开庭，他在判决前撤回认罪认罚书，被控受贿约 7000 万元。
+  fall:
+    - { date: 2024-11-14, text: 在云南出差时被带回无锡，江苏省纪委监委宣布对其采取留置措施，由无锡市监委调查, cite: r10-caixin-2026-09-05-wu-guofang-caixin }
+    - { date: 2025-07-13, text: 被开除党籍和公职，涉嫌受贿犯罪问题由无锡市监委移送检察机关审查起诉, cite: r10-csrc-2025-07-13-wu-guofang-expel }
+  tier: 2
+  headline: 证监会原法律部副主任、国信证券原副总裁，发审“旋转门”被查
+  bio: >-
+    证监会发审系统出身，曾任法律部副主任，离职后任国信证券副总裁，2024 年 10 月末出境受阻，11 月在昆明出差时被带走。通报称他离开证监会后仍利用原职权谋取所谓“投资机会”，
+    以“入股”拟上市公司为名收受财物，是政商“旋转门”腐败的典型。财新称他被控为亲友提供拟上市公司投资机会、构成共同受贿。
+  positions:
+    - { title: 中国证监会法律部副主任, sys: gov, cite: r10-csrc-2025-07-13-wu-guofang-expel }
+    - { title: 国信证券股份有限公司副总裁, sys: other, place: 广东, to: 2024-11, cite: r10-caixin-2026-09-05-wu-guofang-caixin }
+  cites: [r10-csrc-2025-07-13-wu-guofang-expel, r10-caixin-2026-09-05-wu-guofang-caixin]
+
+# ───── 保险与银保监系统（续） ─────
+- id: ren-chunsheng
+  name: 任春生
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 2026 年 4 月被北京二中院以受贿罪判处有期徒刑 12 年。
+  fall:
+    - { date: 2024-05-07, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r10-stcn-2024-05-07-ren-chunsheng-probe }
+    - { date: 2025-03-21, text: 被开除党籍和公职，涉嫌受贿犯罪问题由北京市通州区监委移送检察机关审查起诉, cite: r10-bjjw-2025-03-21-ren-chunsheng-expel }
+    - { date: 2026-04-30, text: 北京二中院以受贿罪判处有期徒刑 12 年，并处罚金 150 万元, cite: r10-xinhua-2026-04-30-ren-chunsheng-verdict }
+  tier: 2
+  headline: 上海保险交易所原董事长、原保监会资金运用监管部主任
+  bio: >-
+    历任原保监会财务会计部（偿付能力监管部）主任、保险资金运用监管部主任，2019 年 2 月调任中保投资党委书记、董事长，2021 年 7 月起兼任上海保险交易所董事长。
+    2024 年 4 月 30 日卸任当天从上海飞回北京后失联，据《财经》引知情人士，他原计划调回金融监管总局筹备消费者保护中心相关工作。通报称他参加迷信活动、违规买卖股票。
+  positions:
+    - { title: 中国保监会保险资金运用监管部主任, sys: gov, from: 2016-04, to: 2019-02, cite: r10-stcn-2024-05-07-ren-chunsheng-probe }
+    - { title: 中国保险投资有限责任公司党委书记、董事长, sys: other, from: 2019-02, to: 2024-04, cite: r10-stcn-2024-05-07-ren-chunsheng-probe }
+    - { title: 上海保险交易所股份有限公司党委书记、董事长, sys: other, place: 上海, from: 2021-07, to: 2024-04, cite: r10-stcn-2024-05-07-ren-chunsheng-probe }
+    - { title: 国家金融监督管理总局投诉调解中心筹备组组长, sys: gov, from: 2024-04, to: 2024-05, cite: r10-stcn-2024-05-07-ren-chunsheng-probe }
+  cites: [r10-stcn-2024-05-07-ren-chunsheng-probe, r10-caijing-2024-05-07-ren-chunsheng-caijing, r10-bjjw-2025-03-21-ren-chunsheng-expel, r10-xinhua-2026-04-30-ren-chunsheng-verdict]
+
+- id: zhang-jinsong
+  name: 张劲松
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 2026 年 7 月被北京二中院以受贿罪、利用影响力受贿罪合并判处有期徒刑 16 年。
+  fall:
+    - { date: 2024-03, text: 离职五年多后被宣布接受审查调查, cite: r10-caixin-2026-08-22-zhang-jinsong-caixin }
+    - { date: 2024-11-22, text: 被开除党籍，涉嫌受贿、利用影响力受贿犯罪问题由北京市通州区监委移送检察机关审查起诉, cite: r10-ccdi-2024-11-22-zhang-jinsong-expel }
+    - { date: 2026-07-17, text: 北京二中院以受贿罪判处有期徒刑 13 年，以利用影响力受贿罪判处有期徒刑 7 年 6 个月，合并执行有期徒刑 16 年，并处罚金 250 万元, cite: r10-xinhua-2026-07-17-zhang-jinsong-verdict }
+  tier: 2
+  headline: 原银保监会法规部副主任，离职五年后被查，合并判刑 16 年
+  bio: >-
+    曾长期负责企业债务重组和不良资产处置，任原银保监会法规部副主任，离职五年多后于 2024 年 3 月被查。通报称他搞钱色交易，违规要求私营企业主向非营利社团提供赞助费；
+    2026 年 7 月以受贿、利用影响力受贿两罪被合并判处有期徒刑 16 年。
+  positions:
+    - { title: 中国银行保险监督管理委员会法规部副主任, sys: gov, cite: r10-ccdi-2024-11-22-zhang-jinsong-expel }
+  cites: [r10-ccdi-2024-11-22-zhang-jinsong-expel, r10-xinhua-2026-07-17-zhang-jinsong-verdict, r10-caixin-2026-08-22-zhang-jinsong-caixin]
+
+- id: huang-runzhong
+  name: 黄润中
+  gender: m
+  born: 1972-08
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 7 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2024-12-26, text: 被宣布涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和福建省泉州市监委监察调查, cite: r10-guancha-2024-12-26-huang-runzhong-probe }
+    - { date: 2025-07-28, text: 被开除党籍，涉嫌受贿犯罪问题由泉州市监委移送检察机关审查起诉, cite: r10-qzjw-2025-07-28-huang-runzhong-expel }
+  tier: 2
+  headline: 中国银行业协会原秘书长，辞职下海五年后被查
+  bio: >-
+    北大经济学博士，早年在监察部，后任原银监会银行监管二部处长、进出口银行监事会巡视员，2016 年 7 月任中国银行业协会党委委员、秘书长，2019 年辞职，
+    3 月加入平安旗下金融壹账通任党委书记、监事长。通报称他与人订立攻守同盟、销毁转移证据，为他人在减轻监管处罚、承接银行业务上谋利。
+  positions:
+    - { title: 中国银监会银行监管二部处长, sys: gov, cite: r10-sina-2025-07-28-huang-runzhong-sina }
+    - { title: 中国进出口银行监事会巡视员, sys: other, cite: r10-guancha-2024-12-26-huang-runzhong-probe }
+    - { title: 中国银行业协会党委委员、秘书长, sys: other, from: 2016-07, to: 2019-01, cite: r10-guancha-2024-12-26-huang-runzhong-probe }
+    - { title: 金融壹账通党委书记、监事长、执行副总裁, sys: other, from: 2019-03, cite: r10-sina-2025-07-28-huang-runzhong-sina }
+  cites: [r10-guancha-2024-12-26-huang-runzhong-probe, r10-qzjw-2025-07-28-huang-runzhong-expel, r10-sina-2025-07-28-huang-runzhong-sina]
+
+- id: liu-feng-cba
+  name: 刘峰
+  gender: m
+  born: 1963-09
+  birthplace: 河北卢龙
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 7 月被宣布接受审查调查；处分结果未见本站来源。
+  fall:
+    - { date: 2024-07-05, text: 被宣布涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和黑龙江省佳木斯市监委监察调查, cite: r10-chnfund-2024-07-05-liu-feng-cba-probe }
+  tier: 2
+  headline: 中国银行业协会原秘书长、吉林银保监局原局长
+  bio: >-
+    历任黑龙江银监局副局长、天津银监局纪委书记、吉林银监局局长，2018 年 11 月任吉林银保监局党委书记、局长，是第十三届全国人大代表；后任中国银行业协会党委副书记、秘书长。
+    2024 年 7 月被查，由驻金融监管总局纪检监察组和佳木斯市监委审查调查；半年后，另一位中银协前秘书长黄润中也被查。
+  positions:
+    - { title: 黑龙江银监局党委委员、副局长, sys: gov, place: 黑龙江, cite: r10-chnfund-2024-07-05-liu-feng-cba-probe }
+    - { title: 天津银监局党委委员、纪委书记, sys: gov, place: 天津, cite: r10-chnfund-2024-07-05-liu-feng-cba-probe }
+    - { title: 吉林银监局（银保监局）党委书记、局长, sys: gov, place: 吉林, cite: r10-chnfund-2024-07-05-liu-feng-cba-probe }
+    - { title: 中国银行业协会党委副书记、秘书长, sys: other, cite: r10-chnfund-2024-07-05-liu-feng-cba-probe }
+    - { title: 第十三届全国人大代表, sys: other, place: 吉林, cite: r10-wiki-liu-feng-cba }
+  cites: [r10-chnfund-2024-07-05-liu-feng-cba-probe, r10-wiki-liu-feng-cba]
+
+- id: liu-zhangjun
+  name: 刘张君
+  gender: m
+  born: 1955-03
+  birthplace: 河南开封
+  roles: [biz]
+  status: detained
+  statusNote: 2025 年以受贿罪、利用影响力受贿罪被判处死缓。
+  fall:
+    - { date: 2023-04-23, text: 落马，接受审查调查, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+    - { date: 2024-06-07, text: 被开除党籍，取消享受的待遇，涉嫌受贿和利用影响力受贿犯罪问题由河南省监委移送检察机关审查起诉, cite: r10-thepaper-2024-06-07-liu-zhangjun-expel }
+    - { date: 2025, text: 以受贿罪、利用影响力受贿罪被判处死刑，缓期二年执行，受贿 1.5 亿余元、利用影响力受贿 3700 万余元, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+  tier: 2
+  headline: 原银监会处置非法集资办公室主任，“亿哥”退休后仍受贿，被判死缓
+  bio: >-
+    长期在人民银行银行监管系统，2002—2005 年援疆任克孜勒苏州副州长，2007 年起负责原银监会处置非法集资办公室，2010 年任主任，2015 年 5 月退休。
+    法院认定他 1998—2015 年为河南某公司入股村镇银行等谋利，受贿 1.5 亿余元并致村镇银行巨额贷款无法收回，退休后又利用影响力受贿 3700 万余元。
+  positions:
+    - { title: 中国人民银行银行监管二司助理巡视员, sys: gov, from: 2002-07, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+    - { title: 新疆克孜勒苏柯尔克孜自治州党委委员、副州长（援疆挂职）, sys: gov, place: 新疆, from: 2002-08, to: 2005-07, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+    - { title: 中国银行业协会专职副会长, sys: other, from: 2004-12, to: 2007-11, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+    - { title: 中国银监会处置非法集资办公室负责人、主任, sys: gov, from: 2007-11, to: 2014-09, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+    - { title: 中国银监会处置非法集资办公室巡视员, sys: gov, from: 2014-09, to: 2015-05, cite: r10-sina-2026-02-28-liu-zhangjun-verdict }
+  cites: [r10-thepaper-2024-06-07-liu-zhangjun-expel, r10-sina-2026-02-28-liu-zhangjun-verdict]
+
+- id: gao-fei
+  name: 高飞
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 一审被判无期徒刑后上诉，2024 年 7 月财新报道二审情况；二审结果未见本站来源。
+  fall:
+    - { date: 2023-06-16, text: 退休四年多后被宣布接受审查调查（6 月 9 日已被留置）, cite: r10-caixin-2024-07-13-gao-fei-caixin }
+    - { date: 2024-01-04, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由吉林省监委移送检察机关审查起诉, cite: r10-ce-2024-01-04-gao-fei-expel }
+    - { date: 2024-01-22, text: 四平市检察院以涉嫌受贿罪向四平中院提起公诉, cite: r10-spp-2024-01-22-gao-fei-charge }
+    - { date: 2024, text: 一审以受贿罪被判处无期徒刑，当庭翻供并提起上诉, cite: r10-caixin-2024-07-13-gao-fei-caixin }
+  tier: 2
+  headline: 原吉林银监局局长，妻弟承揽多家银行装修工程，一审被判无期
+  bio: >-
+    曾任原吉林银监局党委书记、局长，后改任巡视员，2019 年前后退休。通报称他在承揽银行装修工程、高价出租门市房、获得银行贷款、人事安排等方面为人谋利。
+    财新称他的妻弟多年承揽吉林多家银行的装修工程，他一审被判无期徒刑后翻供上诉，自称并未从中获利。
+  positions:
+    - { title: 中国银监会吉林监管局党委书记、局长, sys: gov, place: 吉林, cite: r10-ce-2024-01-04-gao-fei-expel }
+    - { title: 中国银保监会吉林监管局巡视员, sys: gov, place: 吉林, cite: r10-spp-2024-01-22-gao-fei-charge }
+  cites: [r10-ce-2024-01-04-gao-fei-expel, r10-spp-2024-01-22-gao-fei-charge, r10-caixin-2024-07-13-gao-fei-caixin]
+
+- id: zhang-huiye
+  name: 张辉烨
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 3 月被开除党籍并移送审查起诉；判决未见公开报道。
+  fall:
+    - { date: 2023-11-27, text: 被宣布涉嫌严重违纪违法，接受驻金融监管总局纪检监察组纪律审查和广东省深圳市监委监察调查, cite: r10-ccdi-2023-11-27-zhang-huiye-probe }
+    - { date: 2024-03-01, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由深圳市监委移送检察机关审查起诉, cite: r10-gov-2024-03-01-zhang-huiye-expel }
+  tier: 2
+  headline: 原保监会深圳监管局局长
+  bio: >-
+    曾任原中国保监会深圳监管局党委书记、局长。2023 年 11 月被查，由驻金融监管总局纪检监察组和深圳市监委审查调查。通报称他违规插手监管对象的市场经济活动，
+    为保险机构在逃避监管检查、减轻监管处罚、承接保险代理和礼品采购业务、工作调动等方面提供帮助，收受巨额财物。
+  positions:
+    - { title: 中国保监会深圳监管局党委书记、局长, sys: gov, place: 广东, cite: r10-ccdi-2023-11-27-zhang-huiye-probe }
+  cites: [r10-ccdi-2023-11-27-zhang-huiye-probe, r10-gov-2024-03-01-zhang-huiye-expel, r10-caixin-2024-03-01-zhang-huiye-caixin]
+
+# ───── 人民银行与地方金融 ─────
+- id: zhang-jianjun-pbc
+  name: 张建军
+  gender: m
+  born: 1958
+  roles: [biz]
+  status: purged
+  statusNote: 2023 年 7 月被宣布接受审查调查；处分结果未见本站来源。
+  fall:
+    - { date: 2023-07-06, text: 被宣布涉嫌严重违纪违法，接受驻人民银行纪检监察组纪律审查和广东省深圳市监委监察调查, cite: r10-nbd-2023-07-07-zhang-jianjun-pbc-probe }
+  tier: 2
+  headline: 人民银行深圳市中心支行原行长，退休前夕下海任佳兆业副主席
+  bio: >-
+    武汉大学经济学博士，曾在中南大学、湖南大学任教，1995 年 6 月进入人民银行，任深圳市中心支行党委书记、行长兼外汇局深圳分局局长，2016 年 12 月离开。
+    2017 年任三胞集团首席经济学家，2018 年 3 月加盟港股房企佳兆业任执行董事、副主席，年薪 350 万元。2023 年 7 月被查。
+  positions:
+    - { title: 中国人民银行深圳市中心支行党委书记、行长，国家外汇管理局深圳市分局局长, sys: gov, place: 广东, to: 2016-12, cite: r10-nbd-2023-07-07-zhang-jianjun-pbc-probe }
+    - { title: 三胞集团首席经济学家, sys: other, from: 2017-01, cite: r10-qq-2023-07-06-zhang-jianjun-pbc-qq }
+    - { title: 佳兆业集团执行董事、副主席, sys: other, from: 2018-03, cite: r10-qq-2023-07-06-zhang-jianjun-pbc-qq }
+  cites: [r10-nbd-2023-07-07-zhang-jianjun-pbc-probe, r10-qq-2023-07-06-zhang-jianjun-pbc-qq]
+
+- id: duan-yindi
+  name: 段银弟
+  gender: m
+  born: 1965-01
+  birthplace: 湖北监利
+  roles: [biz]
+  status: purged
+  statusNote: 2023 年 11 月被开除党籍和公职，涉嫌受贿、违法发放贷款罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2023-11-23, text: 被开除党籍和公职，涉嫌受贿、违法发放贷款犯罪问题移送检察机关审查起诉, cite: r10-web-2023-11-23-duan-yindi-expel }
+  tier: 2
+  headline: 湖北省地方金融监管局原局长、湖北银行原行长，“靠金融吃金融”
+  bio: >-
+    长期在人民银行武汉分行和银监系统任处长，后任湖北银监局副局长（和讯）；另说为湖南银监局副局长（界面）。曾任湖北银行行长 6 年，后任湖北省地方金融监督管理局党组书记、局长。
+    通报称他“靠金融吃金融”，搞权色交易，滥用金融审批权违法发放贷款，数额特别巨大并造成特别重大损失。
+  positions:
+    - { title: 中国人民银行武汉分行政策性银行监管处处长, sys: gov, place: 湖北, cite: r10-web-2023-11-24-duan-yindi-hexun }
+    - { title: 湖北银监局党委委员、副局长, sys: gov, place: 湖北, cite: r10-web-2023-11-24-duan-yindi-hexun }
+    - { title: 湖北银行行长, sys: other, place: 湖北, cite: r10-jiemian-2023-11-23-duan-yindi-bio }
+    - { title: 湖北省地方金融监督管理局党组书记、局长, sys: gov, place: 湖北, cite: r10-web-2023-11-23-duan-yindi-expel }
+  cites: [r10-web-2023-11-23-duan-yindi-expel, r10-jiemian-2023-11-23-duan-yindi-bio, r10-web-2023-11-24-duan-yindi-hexun]
+
+# ───── 国有大行与保险 ─────
+- id: wang-zhibin-icbc
+  name: 王芝斌
+  gender: m
+  birthplace: 河南新野
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 7 月被开除党籍，涉嫌受贿、违法发放贷款罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-01-25, text: 被宣布涉嫌严重违纪违法，接受驻工商银行纪检监察组纪律审查和湖北省监委监察调查, cite: r10-stcn-2024-01-25-wang-zhibin-probe }
+    - { date: 2024-07-22, text: 被开除党籍，取消享受的待遇，涉嫌受贿、违法发放贷款犯罪问题由湖北省监委移送检察机关审查起诉, cite: r10-cctv-2024-07-22-wang-zhibin-expel }
+  tier: 2
+  headline: 工商银行湖北省分行原行长，通报称其拉拢人员搞“小圈子”
+  bio: >-
+    1980 年进入工商银行潜江支行，历任鄂州、荆州分行行长，湖北省分行副行长兼营业部总经理，2013 年 5 月起任湖北省分行党委书记、行长，曾任湖北省人大财经委副主任委员。
+    2020 年 9 月曾因分行违规承接表外债权被警告并罚款 10 万元。通报称他搞团团伙伙、打探窃取纪律审查和巡视秘密，违法发放贷款金额巨大。
+  positions:
+    - { title: 中国工商银行鄂州市分行、荆州市分行行长, sys: other, place: 湖北, cite: r10-qq-2024-07-22-wang-zhibin-qq }
+    - { title: 中国工商银行湖北省分行党委委员、副行长兼营业部总经理, sys: other, place: 湖北, cite: r10-qq-2024-07-22-wang-zhibin-qq }
+    - { title: 中国工商银行湖北省分行党委书记、行长, sys: other, place: 湖北, from: 2013-05, cite: r10-qq-2024-07-22-wang-zhibin-qq }
+    - { title: 湖北省人大财政经济委员会副主任委员, sys: other, place: 湖北, cite: r10-stcn-2024-01-25-wang-zhibin-probe }
+  cites: [r10-cctv-2024-07-22-wang-zhibin-expel, r10-stcn-2024-01-25-wang-zhibin-probe, r10-qq-2024-07-22-wang-zhibin-qq]
+
+- id: guo-xingang
+  name: 郭心刚
+  gender: m
+  born: 1960
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 12 月被宜春市检察院决定逮捕；判决未见本站来源。
+  fall:
+    - { date: 2024-04-26, text: 被宣布涉嫌严重违纪违法，接受驻中国银行纪检监察组和江西省宜春市监委纪律审查和监察调查, cite: r10-chnfund-2024-04-26-guo-xingang-probe }
+    - { date: 2024-12-02, text: 被开除党籍，取消退休待遇，涉嫌受贿、利用影响力受贿、违法发放贷款、国有公司人员滥用职权犯罪问题由宜春市监委移送检察机关审查起诉, cite: r10-bjnews-2024-12-02-guo-xingang-expel }
+    - { date: 2024-12-11, text: 经最高检指定管辖，宜春市检察院以涉嫌受贿罪、利用影响力受贿罪、违法发放贷款罪、国有公司人员滥用职权罪决定逮捕, cite: r10-spp-2024-12-11-guo-xingang-arrest }
+  tier: 2
+  headline: 中国银行浙江省分行原行长，退休后“仍利欲熏心”
+  bio: >-
+    在中国银行山东招远支行起步，历任烟台、淄博分行行长，甘肃省分行行长，2014 年至 2020 年 5 月任浙江省分行党委书记、行长（正厅级），退休后任浙江省金融业发展促进会会长。
+    通报称他搞迷信活动，长期与不法商人沆瀣一气，在信贷审批、矿产开发上为人谋利，滥用职权高价承租办公大楼造成国有资产重大损失。
+  positions:
+    - { title: 中国银行烟台分行、淄博分行行长, sys: other, place: 山东, cite: r10-21jingji-2025-05-30-guo-xingang-bio }
+    - { title: 中国银行甘肃省分行行长, sys: other, place: 甘肃, cite: r10-21jingji-2025-05-30-guo-xingang-bio }
+    - { title: 中国银行浙江省分行党委书记、行长, sys: other, place: 浙江, from: 2014-04, to: 2020-05, cite: r10-chnfund-2024-04-26-guo-xingang-probe }
+    - { title: 浙江省金融业发展促进会会长, sys: other, place: 浙江, from: 2020, cite: r10-21jingji-2025-05-30-guo-xingang-bio }
+  cites: [r10-chnfund-2024-04-26-guo-xingang-probe, r10-bjnews-2024-12-02-guo-xingang-expel, r10-spp-2024-12-11-guo-xingang-arrest, r10-21jingji-2025-05-30-guo-xingang-bio]
+
+- id: xu-xilong
+  name: 许锡龙
+  gender: m
+  born: 1962-03
+  birthplace: 浙江天台
+  roles: [biz]
+  status: detained
+  statusNote: 2026 年 5 月被菏泽中院以受贿罪、利用影响力受贿罪合并判处有期徒刑 15 年 6 个月。
+  fall:
+    - { date: 2025-08-22, text: 被开除党籍，取消享受的待遇，涉嫌受贿罪、利用影响力受贿罪问题由山东省菏泽市监委移送检察机关审查起诉, cite: r10-xinhua-2025-08-22-xu-xilong-expel }
+    - { date: 2026-05-11, text: 菏泽中院以受贿罪判处有期徒刑 13 年 6 个月，以利用影响力受贿罪判处有期徒刑 5 年 6 个月，决定执行有期徒刑 15 年 6 个月，并处罚金 400 万元, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+  tier: 2
+  headline: 农业银行原首席专家、深圳市分行原行长
+  bio: >-
+    天津大学管理工程专业研究生，历任农业银行三农政策与规划部总经理、甘肃省分行行长、总行办公室主任，后任首席专家兼深圳市分行党委书记、行长，第十二届全国人大代表。
+    通报称他搞迷信活动、搞“一言堂”；法院认定他 2008—2024 年在项目承揽、职务提拔、人事录用上收受财物 3700 万余元，个人实得 3227 万余元。
+  positions:
+    - { title: 中国农业银行三农政策与规划部总经理, sys: other, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+    - { title: 中国农业银行甘肃省分行党委书记、行长, sys: other, place: 甘肃, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+    - { title: 中国农业银行办公室主任, sys: other, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+    - { title: 中国农业银行首席专家兼深圳市分行党委书记、行长, sys: other, place: 广东, to: 2024-11, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+    - { title: 第十二届全国人大代表, sys: other, cite: r10-sina-2026-05-13-xu-xilong-verdict }
+  cites: [r10-xinhua-2025-08-22-xu-xilong-expel, r10-sina-2026-05-13-xu-xilong-verdict]
+
+- id: zhang-xiaoli
+  name: 张孝礼
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 2025 年 12 月被东营中院以受贿罪判处有期徒刑 10 年 6 个月。
+  fall:
+    - { date: 2024-10-25, text: 被宣布涉嫌严重违纪违法，接受驻人保集团纪检监察组纪律审查和山东省东营市监委监察调查, cite: r10-sina-2025-04-16-zhang-xiaoli-expel }
+    - { date: 2025-04-16, text: 被开除党籍，取消退休待遇，涉嫌受贿犯罪问题由东营市监委移送检察机关审查起诉, cite: r10-sina-2025-04-16-zhang-xiaoli-expel }
+    - { date: 2025-12-19, text: 东营中院以受贿罪判处有期徒刑 10 年 6 个月，并处罚金 100 万元，受贿 990 万余元, cite: r10-xinhua-2025-12-19-zhang-xiaoli-verdict }
+  tier: 2
+  headline: 人保财险原监事会主席、纪委书记，“执纪违纪”
+  bio: >-
+    1980—2000 年在解放军任部队领导职务，2000 年加入中国人民保险公司，从纪检监察室处长做起，历任人保财险董事会秘书、执行副总裁、纪委书记、监事会主席，2022 年 7 月卸任。
+    通报称他身为纪检负责人违规干预执纪审查，搞权色、钱色交易；法院认定他 2009—2024 年在承揽保险业务、人员入职等方面受贿 990 万余元。
+  positions:
+    - { title: 中国人民保险公司纪检监察室处长、监察部副总经理, sys: other, from: 2000, cite: r10-sina-2025-04-16-zhang-xiaoli-expel }
+    - { title: 中国人民财产保险股份有限公司董事会秘书局/监事会办公室主任、副总裁, sys: other, cite: r10-xinhua-2025-12-19-zhang-xiaoli-verdict }
+    - { title: 中国人民财产保险股份有限公司党委委员、纪委书记、监事会主席, sys: other, to: 2022-07, cite: r10-sina-2025-04-16-zhang-xiaoli-expel }
+  cites: [r10-sina-2025-04-16-zhang-xiaoli-expel, r10-xinhua-2025-12-19-zhang-xiaoli-verdict]
+
+- id: liu-anlin
+  name: 刘安林
+  gender: m
+  born: 1963
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 10 月被开除党籍，涉嫌贪污、受贿等犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-03-22, text: 被宣布接受纪律审查和监察调查, cite: r10-web-2025-10-12-liu-anlin-bio }
+    - { date: 2025-10-12, text: 被开除党籍，取消享受的待遇，涉嫌贪污、受贿等犯罪问题由山西省临汾市监委移送检察机关审查起诉, cite: r10-xinhua-2025-10-12-liu-anlin-expel }
+  tier: 2
+  headline: 国寿财险原总裁，“靠保险吃保险”
+  bio: >-
+    1985 年毕业于兰州大学计算数学专业，一直在国寿系统工作，2015 年 3 月至 2019 年 1 月任中国人寿海外公司副董事长、总裁，2019 年 1 月起任国寿财险党委书记、总裁，
+    2022 年 8 月离任。通报称他违规经营造成重大损失，对委托投资项目不履职，大量挥霍公司财产，侵吞公共财产并收受财物。
+  positions:
+    - { title: 中国人寿保险（海外）股份有限公司副董事长、总裁、党委书记, sys: other, from: 2015-03, to: 2019-01, cite: r10-web-2025-10-12-liu-anlin-bio }
+    - { title: 中国人寿财产保险股份有限公司党委书记、总裁, sys: other, from: 2019-01, to: 2022-08, cite: r10-web-2025-10-12-liu-anlin-bio }
+  cites: [r10-xinhua-2025-10-12-liu-anlin-expel, r10-web-2025-10-12-liu-anlin-bio]
+
+# ───── 华润、信达、中信 ─────
+- id: ren-haichuan
+  name: 任海川
+  gender: m
+  born: 1974
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 5 月在任上被宣布接受审查调查；处分结果未见本站来源。
+  fall:
+    - { date: 2024-05-21, text: 在华润金控总经理任上被宣布涉嫌严重违纪违法，接受华润集团纪委和广东省监委纪律审查和监察调查, cite: r10-chnfund-2024-05-21-ren-haichuan-probe }
+  tier: 2
+  headline: 华润集团金融事业部常务副主任、华润金控总经理
+  bio: >-
+    对外经济贸易大学经济学硕士，在华润集团多年，历任华润超市、华润电力、华润医药财务和企发岗位，珠海华润银行首席行政官、副行长，华润资产管理公司总经理，
+    被查时任华润集团金融事业部常务副主任、华润金融控股党委副书记兼总经理、华润资本董事长。
+  positions:
+    - { title: 珠海华润银行股份有限公司首席行政官、副行长, sys: other, place: 广东, cite: r10-chnfund-2024-05-21-ren-haichuan-probe }
+    - { title: 华润资产管理有限公司党委书记、总经理, sys: other, cite: r10-chnfund-2024-05-21-ren-haichuan-probe }
+    - { title: 华润集团金融事业部常务副主任，华润金融控股有限公司党委副书记、总经理，华润资本管理有限公司董事长, sys: other, to: 2024-05, cite: r10-chnfund-2024-05-21-ren-haichuan-probe }
+  cites: [r10-chnfund-2024-05-21-ren-haichuan-probe]
+
+- id: zhuang-enyue
+  name: 庄恩岳
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 8 月被鞍山市检察院提起公诉；判决未见本站来源。
+  fall:
+    - { date: 2023-12, text: 被查，接受审查调查, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+    - { date: 2024-06-24, text: 辽宁检察机关依法决定逮捕, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+    - { date: 2024-07-26, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由鞍山市监委移送检察机关审查起诉, cite: r10-bjnews-2024-07-26-zhuang-enyue-expel }
+    - { date: 2024-08-14, text: 鞍山市检察院以涉嫌受贿罪向鞍山中院提起公诉, cite: r10-spp-2024-08-14-zhuang-enyue-charge }
+  tier: 2
+  headline: 中国信达原副总裁，向客户企业高价兜售书籍、服装敛财
+  bio: >-
+    历任审计署科研所副所长、南京审计学院副院长、审计署经贸审计司副司长、工商银行监事会正局级专职监事，2007 年 3 月任中国信达副总裁，2011—2013 年兼执行董事。
+    通报称他通过向客户企业高价兜售书籍、服装等方式大肆敛财，故意将检举材料泄露给他人；检方指控他在不良债权收购、债务重组上为人谋利。
+  positions:
+    - { title: 审计署经贸审计司副司长, sys: gov, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+    - { title: 中国工商银行监事会专职监事（正局级）, sys: other, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+    - { title: 中国信达资产管理股份有限公司党委委员、副总裁, sys: other, from: 2007-03, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+    - { title: 中国信达资产管理股份有限公司执行董事, sys: other, from: 2011-05, to: 2013-06, cite: r10-chnfund-2024-07-26-zhuang-enyue-bio }
+  cites: [r10-bjnews-2024-07-26-zhuang-enyue-expel, r10-chnfund-2024-07-26-zhuang-enyue-bio, r10-spp-2024-08-14-zhuang-enyue-charge]
+
+- id: xu-xiang-citic
+  name: 徐翔
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 6 月退休后被开除党籍并移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-06-07, text: 被开除党籍，取消享受的待遇，涉嫌受贿犯罪问题由河北省邢台市监委移送检察机关审查起诉, cite: r10-cctv-2024-06-07-xu-xiang-citic-expel }
+  tier: 2
+  headline: 中信集团原纪委委员、监事会办公室主任，“知纪违纪”的纪检干部
+  bio: >-
+    中信集团原纪委委员、监事会办公室原主任，与 2015 年股灾中被判刑的私募徐翔同名，并非一人。通报称他搞“两面派”，借婚嫁喜庆敛财，身为纪检干部违规插手下属企业执纪问责，
+    利用组织人事权在人事安排、工程承揽上收钱，退休后仍利用原职务影响顶风作案。
+  positions:
+    - { title: 中国中信集团纪委委员、监事会办公室主任, sys: other, cite: r10-cctv-2024-06-07-xu-xiang-citic-expel }
+  cites: [r10-cctv-2024-06-07-xu-xiang-citic-expel]
+
+# ───── 地方金融国企 ─────
+- id: li-wei-zhongtai
+  name: 李玮
+  gender: m
+  roles: [biz]
+  status: detained
+  statusNote: 2025 年 8 月被威海中院以贪污罪、受贿罪合并判处有期徒刑 15 年。
+  fall:
+    - { date: 2024-10-17, text: 被开除党籍，撤销荣誉称号，涉嫌贪污、受贿犯罪问题移送检察机关审查起诉, cite: r10-ce-2024-10-17-li-wei-zhongtai-expel }
+    - { date: 2025-08-22, text: 威海中院以贪污罪判处有期徒刑 10 年 6 个月，以受贿罪判处有期徒刑 12 年 6 个月，决定执行有期徒刑 15 年，并处罚金 350 万元, cite: r10-xinhua-2025-08-22-li-wei-zhongtai-verdict }
+  tier: 2
+  headline: 齐鲁证券、中泰证券原董事长，山东省政协原常委，“靠金融吃金融”
+  bio: >-
+    历任鲁银投资党委书记、董事长、总裁，齐鲁证券（后更名中泰证券）党委书记、董事长，鲁信投资党委书记、董事长，后任山东省政协常委、经济委员会副主任。
+    判决称其 2007 年起在齐鲁证券任职（新华社）；另说 2003 年 7 月即出任齐鲁证券董事长、掌舵 16 年（澎湃新闻）。
+    法院认定他 2007—2020 年在齐鲁、中泰证券任上贪污 1003 万余元，2003—2023 年在股份购买、贷款办理、工作安排上受贿 3998 万余元。
+  positions:
+    - { title: 鲁银投资党委书记、董事长、总裁, sys: other, place: 山东, from: 2003-06, cite: r10-xinhua-2025-08-22-li-wei-zhongtai-verdict }
+    - { title: 齐鲁证券（中泰证券）党委书记、董事长, sys: other, place: 山东, from: 2007-12, to: 2020-06, cite: r10-xinhua-2025-08-22-li-wei-zhongtai-verdict }
+    - { title: 鲁信投资党委书记、董事长, sys: other, place: 山东, cite: r10-xinhua-2025-08-22-li-wei-zhongtai-verdict }
+    - { title: 山东省政协常委、经济委员会副主任, sys: other, place: 山东, cite: r10-ce-2024-10-17-li-wei-zhongtai-expel }
+  cites: [r10-ce-2024-10-17-li-wei-zhongtai-expel, r10-xinhua-2025-08-22-li-wei-zhongtai-verdict, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: gan-chengjiu
+  name: 甘成久
+  gender: m
+  born: 1962-02
+  birthplace: 江西遂川
+  joinedParty: 1993-08
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 9 月被开除党籍和公职，涉嫌受贿、挪用公款、国有公司人员滥用职权犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-01, text: 主动向组织交代问题，接受审查调查, cite: r10-bjd-2024-09-10-gan-chengjiu-bjd }
+    - { date: 2024-09-10, text: 被开除党籍和公职，涉嫌受贿、挪用公款、国有公司人员滥用职权犯罪问题移送检察机关审查起诉, cite: r10-ce-2024-09-10-gan-chengjiu-expel }
+  tier: 2
+  headline: 江西省金融控股集团原总经理，私带反动书籍入境
+  bio: >-
+    1982 年进入江西铜业银山铅锌矿，后在江西铜业股份公司任职，2015 年起任江西省金融控股集团党委副书记、副董事长、总经理，2022 年 4 月卸任后到江西省政协工作，2024 年 1 月主动交代问题。
+    通报称他私自携带反动书籍入境并阅看，在不良资产收购、项目融资上为人谋利，给国家利益造成巨大损失。
+  positions:
+    - { title: 江西铜业公司银山铅锌矿、江西铜业股份有限公司职员, sys: other, place: 江西, from: 1982-08, cite: r10-bjnews-2024-09-09-gan-chengjiu-bio }
+    - { title: 江西省金融控股集团有限公司党委副书记、副董事长、总经理, sys: other, place: 江西, from: 2015, to: 2022-04, cite: r10-bjd-2024-09-10-gan-chengjiu-bjd }
+  cites: [r10-ce-2024-09-10-gan-chengjiu-expel, r10-bjnews-2024-09-09-gan-chengjiu-bio, r10-bjd-2024-09-10-gan-chengjiu-bjd]
+
+# ───── 四大行浙江分行、农发行与券商（续） ─────
+
+- id: feng-jianlong
+  name: 冯建龙
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2026 年 1 月被开除党籍，涉嫌受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2025, text: 2025 年 4—5 月间接受纪律审查和监察调查, cite: r10-thepaper-2025-06-09-finance-roundup }
+    - { date: 2026-01-28, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-ce-2026-01-28-feng-jianlong-expel }
+  tier: 2
+  headline: 农行浙江省分行原行长，离职后转做私募，“搞迷信活动”
+  bio: >-
+    长期在农行系统任职，历任湖南、浙江省分行副行长，审计局广州分局局长，重庆市分行行长，2012—2021 年任浙江省分行党委书记、行长，兼浙江省银行业协会会长；离开农行后在多家私募基金公司任董事长、总经理。
+    通报称他对抗组织审查、搞迷信活动，通过民间借贷获取大额回报、低买高卖房产，离职后违规任职取酬，在贷款审批、资金募集上为人谋利。
+  positions:
+    - { title: 中国农业银行重庆市分行党委书记、行长, sys: other, place: 重庆, cite: r10-qq-2026-01-28-feng-jianlong-bio }
+    - { title: 中国农业银行浙江省分行党委书记、行长, sys: other, place: 浙江, from: 2012, to: 2021, cite: r10-qq-2026-01-28-feng-jianlong-bio }
+    - { title: 中国农业银行首席专家, sys: other, cite: r10-ce-2026-01-28-feng-jianlong-expel }
+    - { title: 浙江农银凤凰投资管理有限公司董事长, sys: other, place: 浙江, cite: r10-qq-2026-01-28-feng-jianlong-bio }
+  cites: [r10-ce-2026-01-28-feng-jianlong-expel, r10-qq-2026-01-28-feng-jianlong-bio, r10-thepaper-2025-06-09-finance-roundup]
+
+- id: gao-qiang-ccb
+  name: 高强
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2026 年 1 月被开除党籍，涉嫌受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2025, text: 2025 年 4—5 月间接受纪律审查和监察调查, cite: r10-thepaper-2025-06-09-finance-roundup }
+    - { date: 2026-01-23, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-xinhua-2026-01-23-gao-qiang-ccb-expel }
+  tier: 2
+  headline: 建行浙江省分行原行长，离职后以“顾问费”敛财的银企“旋转门”
+  bio: >-
+    曾任中国建设银行浙江省分行党委书记、行长，是建行原副行长章更生的昔日部下（财新）。
+    通报称他在职期间以贷谋私、以股谋利，离职后以“工资”“顾问费”等名义敛财，长期打牌赌博，转移、隐匿证据对抗审查，二十大后仍不知止。
+  positions:
+    - { title: 中国建设银行浙江省分行党委书记、行长, sys: other, place: 浙江, cite: r10-xinhua-2026-01-23-gao-qiang-ccb-expel }
+  cites: [r10-xinhua-2026-01-23-gao-qiang-ccb-expel, r10-caixin-2026-01-23-gao-qiang-ccb-caixin, r10-thepaper-2025-06-09-finance-roundup]
+
+- id: shen-rongqin
+  name: 沈荣勤
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2026 年 3 月被开除党籍，涉嫌受贿、利用影响力受贿、违法发放贷款犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2025, text: 2025 年 4—5 月间接受纪律审查和监察调查, cite: r10-thepaper-2025-06-09-finance-roundup }
+    - { date: 2026-03-13, text: 被开除党籍，涉嫌受贿罪、利用影响力受贿罪、违法发放贷款罪问题移送检察机关审查起诉, cite: r10-cctv-2026-03-13-shen-rongqin-expel }
+  tier: 2
+  headline: 工行浙江省分行原行长，“不信马列信鬼神”，违规放贷造成巨额损失
+  bio: >-
+    曾任中国工商银行浙江省分行党委书记、行长。2025 年 4—5 月与农行冯建龙、建行高强相继落马，加上 2024 年落马的中行郭心刚，四大行浙江省分行前行长全部被查（澎湃新闻）。
+    通报称他侵占单位财物、插手网点装修项目，不正确履行贷款审批责任造成巨额损失，离职后仍利用其他国家工作人员职务便利为人谋利。
+  positions:
+    - { title: 中国工商银行浙江省分行党委书记、行长, sys: other, place: 浙江, cite: r10-cctv-2026-03-13-shen-rongqin-expel }
+  cites: [r10-cctv-2026-03-13-shen-rongqin-expel, r10-thepaper-2025-06-09-finance-roundup]
+
+- id: jiang-chengjun
+  name: 姜诚君
+  gender: m
+  born: 1968-04
+  roles: [biz]
+  status: detained
+  statusNote: 2024 年 7 月外逃，同年 8 月在境外落网并被遣返回国，由上海市纪委监委立案审查调查；后续处理未见本站来源。
+  fall:
+    - { date: 2024-08, text: 外逃后在境外落网被遣返回国，上海市纪委监委立案审查调查, cite: r10-xinhua-2024-08-28-jiang-chengjun-return }
+  tier: 2
+  headline: 海通证券原副总经理、投行掌门，辞职后外逃，一个月内被遣返
+  bio: >-
+    早年在厦门国贸、厦门国泰任职，2000 年进入海通证券投行部，历任投资银行部总经理、投资银行总部总经理、总经理助理、董事会秘书，2023 年 6 月起任副总经理兼投资银行委员会主任委员。
+    2024 年 1 月因首发保荐履职不到位被上交所监管警示；7 月底辞职后外逃，8 月在境外落网被遣返。
+  positions:
+    - { title: 厦门国泰企业股份有限公司副总经理、董事会秘书, sys: other, place: 福建厦门, from: 1994-07, to: 2000-08, cite: r10-cs-2024-08-29-jiang-chengjun-bio }
+    - { title: 海通证券投资银行总部总经理, sys: other, place: 上海, to: 2023-03, cite: r10-cs-2024-08-29-jiang-chengjun-bio }
+    - { title: 海通证券董事会秘书, sys: other, place: 上海, from: 2017-03, to: 2023-09, cite: r10-cs-2024-08-29-jiang-chengjun-bio }
+    - { title: 海通证券副总经理兼投资银行委员会主任委员, sys: other, place: 上海, from: 2023-06, to: 2024-07, cite: r10-xinhua-2024-08-28-jiang-chengjun-return }
+  cites: [r10-xinhua-2024-08-28-jiang-chengjun-return, r10-cs-2024-08-29-jiang-chengjun-bio]
+
+- id: li-gong-huaan
+  name: 李工
+  gender: m
+  born: 1959-03
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 5 月被开除党籍、取消待遇，涉嫌受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-12, text: 接受安徽省纪委监委纪律审查和监察调查, cite: r10-chnfund-2025-05-25-li-gong-huaan-bio }
+    - { date: 2025-05-25, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-xinhua-2025-05-25-li-gong-huaan-expel }
+  tier: 2
+  headline: 华安证券原董事长、国元集团原董事长，私藏“有严重政治问题的书籍”
+  bio: >-
+    早年在合肥市财政局、市政府办公厅任职，后任合肥市信托投资公司经理、合肥市商业银行董事长，安徽省农信联社副理事长；2007 年起任华安证券党委书记、董事长十年，2017 年 11 月任国元集团党委书记、董事长，2018—2022 年任安徽省政协经济委员会副主任。
+    通报称他私藏、阅看有严重政治问题的书籍，违规买卖股票，在房产销售、项目开发上为人谋利。
+  positions:
+    - { title: 合肥市商业银行董事长、党组书记、行长, sys: other, place: 安徽合肥, cite: r10-chnfund-2025-05-25-li-gong-huaan-bio }
+    - { title: 华安证券党委书记、董事长, sys: other, place: 安徽, from: 2007, to: 2017, cite: r10-chnfund-2025-05-25-li-gong-huaan-bio }
+    - { title: 国元集团党委书记、董事长, sys: other, place: 安徽, from: 2017-11, cite: r10-chnfund-2025-05-25-li-gong-huaan-bio }
+    - { title: 安徽省政协经济委员会副主任, sys: other, place: 安徽, from: 2018-03, to: 2022-05, cite: r10-chnfund-2025-05-25-li-gong-huaan-bio }
+  cites: [r10-xinhua-2025-05-25-li-gong-huaan-expel, r10-chnfund-2025-05-25-li-gong-huaan-bio, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: zhang-xu-citic
+  name: 张旭
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2024 年 6 月被开除党籍、取消待遇，涉嫌受贿、利用影响力受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-01-19, text: 接受纪律审查和监察调查, cite: r10-nbd-2024-06-28-zhang-xu-citic-nbd }
+    - { date: 2024-06-28, text: 被开除党籍，涉嫌受贿、利用影响力受贿犯罪问题移送检察机关审查起诉, cite: r10-xinhua-2024-06-28-zhang-xu-citic-expel }
+  tier: 2
+  headline: 中信投资控股原副董事长，退而不“休”
+  bio: >-
+    曾任中信投资控股有限公司党委委员、副董事长，退休后被查。
+    通报称他违规兼职取酬、违规使用公车，在招投标、业务合作、融资上为人谋利，并通过其他国家工作人员职务上的行为为请托人谋取不正当利益。
+  positions:
+    - { title: 中信投资控股有限公司党委委员、副董事长, sys: other, place: 北京, cite: r10-xinhua-2024-06-28-zhang-xu-citic-expel }
+  cites: [r10-xinhua-2024-06-28-zhang-xu-citic-expel, r10-nbd-2024-06-28-zhang-xu-citic-nbd, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: zhang-songbai
+  name: 张松柏
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 2 月被开除党籍、取消退休待遇，涉嫌职务犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-09-03, text: 接受纪律审查和监察调查, cite: r10-bjd-2025-02-14-zhang-songbai-bjd }
+    - { date: 2025-02-14, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-ce-2025-02-14-zhang-songbai-expel }
+  tier: 2
+  headline: 农发行湖南省分行原副行长，“热衷为不法商人站台”
+  bio: >-
+    曾任中国农业发展银行湖南省分行党委委员、副行长，退休后被查。
+    通报称他隐瞒不报房产，长期借用管理服务对象车辆，既想当官又想发财，“靠金融吃金融”，在信贷业务、承揽项目、工作调动上为人谋利，二十大后仍不知止。
+  positions:
+    - { title: 中国农业发展银行湖南省分行党委委员、副行长, sys: other, place: 湖南, cite: r10-ce-2025-02-14-zhang-songbai-expel }
+  cites: [r10-ce-2025-02-14-zhang-songbai-expel, r10-bjd-2025-02-14-zhang-songbai-bjd, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: kong-fanbo
+  name: 孔繁波
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 4 月被开除党籍，涉嫌受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2024-09-25, text: 接受纪律审查和监察调查, cite: r10-bjnews-2025-04-28-kong-fanbo-bjnews }
+    - { date: 2025-04-28, text: 被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-xinhua-2025-04-28-kong-fanbo-expel }
+  tier: 2
+  headline: 农发行原资金计划部总经理，离职后受聘于原管辖企业
+  bio: >-
+    曾任中国农业发展银行资金计划部总经理。
+    通报称他在职工录用中违规为人谋利，离职后违规接受原任职务管辖的地区和业务范围内企业的聘任，“靠金融吃金融”，在融资贷款上为人谋利并收受巨额财物。
+  positions:
+    - { title: 中国农业发展银行资金计划部总经理, sys: other, place: 北京, cite: r10-xinhua-2025-04-28-kong-fanbo-expel }
+  cites: [r10-xinhua-2025-04-28-kong-fanbo-expel, r10-bjnews-2025-04-28-kong-fanbo-bjnews, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: he-zeshu
+  name: 何泽蜀
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2025 年 1 月被开除党籍和公职，涉嫌职务犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2025-01-25, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-scjw-2025-01-25-he-zeshu-expel }
+  tier: 2
+  headline: 农发行四川省分行营业部原党委书记，与多人串供对抗审查
+  bio: >-
+    长期在农发行四川系统工作，曾任资阳市分行行长、四川省分行投资处处长，2024 年 4 月获核准任四川省分行营业部总经理，同年落马。
+    通报称他与多人串供、处心积虑对抗组织审查，违规参与民间借贷获取大额回报，“热衷为不法中介站台”，在贷款审批、业务承揽上为人谋利。
+  positions:
+    - { title: 中国农业发展银行资阳市分行行长, sys: other, place: 四川资阳, cite: r10-sina-2025-01-25-he-zeshu-bio }
+    - { title: 中国农业发展银行四川省分行投资处处长, sys: other, place: 四川, cite: r10-sina-2025-01-25-he-zeshu-bio }
+    - { title: 中国农业发展银行四川省分行党委委员、营业部党委书记、总经理, sys: other, place: 四川, from: 2024-04, cite: r10-sina-2025-01-25-he-zeshu-bio }
+  cites: [r10-scjw-2025-01-25-he-zeshu-expel, r10-sina-2025-01-25-he-zeshu-bio, r10-thepaper-2025-01-08-finance-roundup]
+
+- id: guo-sanye
+  name: 郭三野
+  gender: m
+  roles: [biz]
+  status: purged
+  statusNote: 2023 年 11 月被开除党籍和政务开除，涉嫌受贿犯罪移送审查起诉；判决未见本站来源。
+  fall:
+    - { date: 2023-11-29, text: 被开除党籍、政务开除，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r10-ccdi-2023-11-29-guo-sanye-expel }
+  tier: 2
+  headline: 中国银行业协会原副秘书长，“靠考试吃考试，靠培训吃培训”
+  bio: >-
+    曾任中国银行业协会副秘书长，由国家金融监督管理总局党委给予处分。
+    通报称他在招聘考试、人员录用中为人谋利，利用职务便利在有关考试、教育培训等方面为他人谋利，绝大部分受贿发生在十八大、十九大后，二十大后仍不收手。
+  positions:
+    - { title: 中国银行业协会副秘书长, sys: other, place: 北京, cite: r10-ccdi-2023-11-29-guo-sanye-expel }
+  cites: [r10-ccdi-2023-11-29-guo-sanye-expel, r10-thepaper-2024-01-02-finance-roundup]

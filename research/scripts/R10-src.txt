@@ -1,0 +1,115 @@
+# R10 source table: who | kind | date | url | title [| keep1 ; keep2 ... | or start>>end]
+# kinds: wiki probe expel trial verdict (and free words for others); generator: research/scripts/R10-src.ts
+# ───── batch 1: CETC, Huarong, CSRC system, NFRA system, ADBC, Everbright ─────
+he-wenzhong|probe|2024-04-07|https://www.thepaper.cn/newsDetail_forward_26943095|今年第19“虎”：担任中国电科集团副总经理不到一年的何文忠被查|4月7日，中央纪委国家监委网站;公开资料显示，何文忠;1991年从成都电讯工程学院;2023 年 5 月，何文忠获任
+he-wenzhong|expel|2024-10-11|https://www.news.cn/20241011/40f95cdf027f453187aff1095ee7aadb/c.html|中国电科原党组成员、副总经理何文忠严重违纪违法被开除党籍和公职
+he-wenzhong|verdict|2025-07-21|https://www.court.gov.cn/fabu/xiangqing/471391.html|中国电子科技集团有限公司原党组成员、副总经理何文忠受贿案一审宣判
+bai-tianhui|wiki||https://zh.wikipedia.org/zh-hans/白天辉|白天辉（维基百科）
+bai-tianhui|exec|2025-12-09|https://www.news.cn/legal/20251209/0727ea90846f484b9788d23aa709b849/c.html|原中国华融国际控股有限公司总经理白天辉被执行死刑|新华社天津12月9日电>>进行了会见。
+yao-qian|expel|2024-11-20|http://www.csrc.gov.cn/csrc/c100028/c7519825/content.shtml|中国证监会科技监管司原司长、信息中心原主任姚前被开除党籍和公职|据中央纪委国家监委驻>>广东省纪委监委）
+yao-qian|detail|2026-01-14|https://www.stcn.com/article/detail/3593523.html|一次收受市值数千万元以太币，证监会科技监管司原司长姚前案详情披露|姚前，中国证监会科技监管司原司长;2018年，一名币圈老板张某;专案组利用区块链技术;调查发现，这1000万元资金
+chen-gongyan|probe|2023-11-10|https://www.jiemian.com/article/10375442.html|中国银河证券原党委书记、董事长陈共炎被查，去年六月到龄退休|11月10日，据中央纪委;公开资料显示，陈共炎;陈共炎接任中国银河是在2016年;2022年6月，陈共炎到龄退休
+liu-ti|expel|2023-10-20|http://www.csrc.gov.cn/csrc/c100028/c7438263/content.shtml|上海证券交易所原副总经理刘逖被开除公职|据中央纪委国家监委驻>>浙江省监察委员会）
+liu-ti|caixin|2023-10-23|https://wenews.caixin.com/2023-10-23/102119487.html|上交所原副总刘逖被移送司法 “假离婚”后遗症|刘逖在升任上交所副总经理之时;刘逖现年54岁;被查半年后，上海证券交易所
+an-qingsong|expel|2024-05-14|https://www.csrc.gov.cn/csrc/c100028/c7480245/content.shtml|中国期货业协会原党委书记、会长安青松被开除党籍和公职|据中央纪委国家监委驻>>湖南省纪委监委）
+an-qingsong|bio|2024-05-14|https://www.jiemian.com/article/11170520.html|热衷所谓“官场秘诀”，沉迷封建迷信活动，中国期货业协会原会长安青松被双开|安青松历任中国证监会
+an-qingsong|charge|2024-07-24|https://web.archive.org/web/2024/https://www.spp.gov.cn/spp/qwfb/202407/t20240724_661274.shtml|湖南检察机关依法对安青松涉嫌受贿案提起公诉|日前，中国期货业协会>>追究其刑事责任。
+ling-feng|expel|2024-12-27|http://www.csrc.gov.cn/csrc/c100028/c7528123/content.shtml|江苏证监局原党委书记、局长凌峰被开除党籍和公职|据中央纪委国家监委驻>>江苏省纪委监委）
+ling-feng|probe|2024-06-21|https://www.thepaper.cn/newsDetail_forward_27812146|两名贵州金融监管系统原局长同日被查|6月21日，据中央纪委;同日，据中央纪委;李华涛和凌峰两人都曾任职于贵州;值得注意的是，凌峰此次被查时
+chen-xiaopeng|expel|2025-02-08|https://www.csrc.gov.cn/csrc/c100028/c7537527/content.shtml|深圳证监局原党委书记、局长陈小澎被开除党籍|据中央纪委国家监委驻>>江西省纪委监委）
+dong-guoqun|probe|2024-08-02|https://www.csrc.gov.cn/csrc/c100028/c7497809/content.shtml|上海证券交易所党委委员、副总经理董国群接受纪律审查和监察调查|据中央纪委国家监委驻>>台州市监委监察调查。
+dong-guoqun|expel|2025-02-15|http://www.xinhuanet.com/legal/20250215/1ef5da65cafa4c329ac720386914f5cf/c.html|上海证券交易所原党委委员、副总经理董国群被开除党籍和公职|据中央纪委国家监委驻>>浙江省纪委监委）
+li-huatao|expel|2024-12-20|https://www.nbd.com.cn/articles/2024-12-20/3693988.html|贵州金融监管局原党委书记、局长李华涛被开除党籍|经查，李华涛;李华涛严重违反;公开资料显示，李华涛
+li-huatao|verdict|2025-07-31|https://www.news.cn/20250731/57eda457cd844809b78200f67ab5735b/c.html|国家金融监督管理总局贵州监管局原党委书记、局长李华涛一审被判十年九个月|新华社贵阳7月31日电>>不上诉。
+yuan-fei|expel|2025-02-22|https://news.cctv.cn/2025/02/22/ARTICQqMxsRFo8IXP6eSWsSU250222.shtml|原大连银监局党委书记、局长原飞被开除党籍|央视网消息>>所涉财物随案移送。
+yuan-fei|caixin|2025-02-23|https://finance.caixin.com/2025-02-23/102291205.html|原大连银监局局长原飞被开除党籍 如何利用职权为家人谋利？|原飞曾在大连银监局工作多年;接受调查半年后
+wang-zeping|probe|2025-06-06|https://finance.sina.com.cn/jjxw/2025-06-06/doc-inezczxz5282941.shtml|两任原四川银监局局长先后被查|6月6日，据中央纪委;公开资料显示，王筠权;王泽平在一周之前;5月30日晚间;王泽平出生于1962年9月;在王筠权担任原四川银监局局长时期;当时，原银监会表示
+wang-zeping|expel|2026-01-16|https://news.cctv.cn/2026/01/16/ARTIIA1Kr6nz0NzcEGZ1TuvL260116.shtml|原四川银监局党委书记、局长王泽平被“双开”
+wang-zeping|caixin|2025-06-06|https://wenews.caixin.com/2025-06-06/102327942.html|原四川银监局两任局长前赴后继 为何接连被查|继大连银监局后，四川监管局;端午节前夕的2025年5月30日晚;一周后的6月6日
+lu-chuncai|expel|2024-09-20|https://news.cctv.cn/2024/09/20/ARTI2M7KzsDLlYLqziU9Aun8240920.shtml|中国农业发展银行原一级总监卢纯才被开除党籍|央视网消息>>所涉财物随案移送。
+lu-chuncai|bio|2024-09-20|https://www.chnfund.com/article/ARcd10b669-a803-d5be-c970-3a152043329e|中国农业发展银行原一级总监卢纯才被开除党籍（中国基金报）|公开信息显示，卢纯才
+chen-shuang|probe|2022-07-26|http://m.ccdi.gov.cn/content/08/94/93300.html|中国光大控股有限公司原党委书记、行政总裁陈爽接受监察调查|中央纪委国家监委网站讯 据>>2019年9月辞职。
+chen-shuang|caixin|2022-07-26|https://finance.caixin.com/m/2022-07-26/101918140.html|光大控股原总裁、香港太平绅士陈爽被查|据多位认识陈爽的人士称;半月前还在港与人洽谈生意
+zhu-huimin|probe|2020-09-23|http://m.ccdi.gov.cn/content/54/b0/67106.html|中国光大实业集团董事长朱慧民接受审查调查|中央纪委国家监委网站讯 中国光大>>黑龙江省监察委员会）
+zhu-huimin|case|2022-02-12|https://web.archive.org/web/2022/http://www.hebcdi.gov.cn/2022-02/12/content_8725726.htm|室组地联合办案铲除金融蛀虫|2月10日，中国光大集团召开>>让办案跑出“加速度”。
+chen-shuang|jiemian|2022-07-26|https://www.jiemian.com/article/7809465.html|涉嫌严重违法，光大控股原党委书记、行政总裁陈爽被查|此外，光大集团内部还有多人被查;2007年8月，陈爽出任光大控股
+xue-feng|yicai|2022-02-27|https://app.dahecube.com/nweb/news/20220227/120584n292da163cfb.htm|光大证券前董事长薛峰案移交检察机关 初查认定在MPS收购案中玩忽职守（第一财经）|第一财经记者独家获悉;记者从接近专案组的人士处了解到;两个月后，薛峰辞去;光大资本当时由薛峰的爱将代卫国
+chen-xiaopeng|caixin|2024-08-03|https://finance.caixin.com/2024-08-03/102223089.html|退休4年 证监会深圳局原局长陈小澎被查|据财新了解，陈小澎7月24日;陈小澎，福建人，2018年当选;职业生涯初期，陈小澎一直在福建省内
+chen-xiaopeng|probe|2024-08-02|https://www.21jingji.com/article/20240802/herald/ac35f966c1842c623bfcab32a2dc6322.html|原深圳证监局党委书记、局长陈小澎被查|8月2日，中央纪委国家监委网站发布信息;公开资料显示，陈小澎系中共党员
+dong-guoqun|bio|2024-08-02|https://www.thepaper.cn/newsDetail_forward_28285444|涉嫌严重违纪违法！59岁上交所副总经理董国群接受审查调查|公开资料显示，董国群，1965年5月生;董国群最后一次公开露面
+ling-feng|bio|2024-06-21|https://www.stcn.com/article/detail/1237579.html|证监会江苏监管局局长凌峰被查！|履历显示，凌峰，男，1972年生
+wang-junquan|probe|2025-06-06|https://news.cctv.com/2025/06/06/ARTIecSJZ2UDEnY2XApVABMs250606.shtml|原四川银监局党委书记、局长王筠权接受纪律审查和监察调查|央视网消息>>监察委员会监察调查。
+finance|roundup|2025-01-08|https://www.thepaper.cn/newsDetail_forward_29853841|2024年金融反腐追踪：至少97人被查含3名中管干部，反腐重点有哪些？|被查的3名中管干部为;金监系统被查的8人为;证监系统被查的6人为;金控集团被查的4人中;证券机构有3人被查，为;农发行被查的5人为
+finance|roundup|2024-01-02|https://www.thepaper.cn/newsDetail_forward_25871124|2023年金融反腐盘点：101人被查含8名中管干部，国有大行成反腐重点|银保监系统被查的4人为;证监系统被查的2人为;具体来看，央行系统被查的5人为;地方金融监管机构有1人被查，即
+finance|roundup|2025-06-09|http://www.thepaper.cn/newsDetail_forward_30953490|金融反腐追踪｜4-5月至少14人被查：涉1名中管干部，10人来自国有大行|监管系统有2人被查;算上2024年4月落马的中国银行浙江省分行原党委书记
+# ───── batch 2: CSRC/NFRA HQ, associations, PBoC, big banks, insurers ─────
+li-xiaoqiang|probe|2024-11-15|https://www.mycaijing.com/article/detail/534637?source_id=40|李筱强被查，曾任证监会创业板发审委委员|公开资料显示，李筱强出生于1971年;实际上，李筱强已离开证监会体系许久;2018年2月，李筱强调至
+li-xiaoqiang|expel|2025-07-12|http://m.ccdi.gov.cn/content/d3/ae/122823.html|中国证监会原发行监管部副主任李筱强被开除党籍|中央纪委国家监委网站讯>>所涉财物一并移送。
+wu-guofang|expel|2025-07-13|http://www.csrc.gov.cn/csrc/c100028/c7570947/content.shtml|中国证监会原法律部副主任吴国舫被“双开”|据中央纪委国家监委驻>>所涉财物一并移送。
+ren-chunsheng|verdict|2026-04-30|https://www.news.cn/politics/20260430/82da548c719540b38dc8c338f5a6fcab/c.html|国家金融监督管理总局投诉调解中心筹备组原组长任春生受贿案一审宣判
+zhang-jinsong|expel|2024-11-22|https://m.ccdi.gov.cn/content/07/ff/117559.html|原中国银行保险监督管理委员会法规部副主任张劲松被开除党籍|中央纪委国家监委网站讯>>北京市纪委监委）
+zhang-jinsong|verdict|2026-07-17|https://www.news.cn/legal/20260717/3baedfa04310424980291a6e98912140/c.html|原中国银行保险监督管理委员会法规部副主任张劲松受贿、利用影响力受贿案一审宣判
+zhang-jinsong|caixin|2026-08-22|https://wenews.caixin.com/2026-08-22/102477030.html|原银保监会厅官张劲松一审获刑详情 罪与非罪之辨|曾长期负责企业债务重组、不良资产处置的原中国银保监会法规部副主任张劲松
+huang-runzhong|probe|2024-12-26|https://www.guancha.cn/politics/2024_12_26_760213.shtml|“下海”也难逃！黄润中被查|据中央纪委国家监委网站12月26日消息;黄润中出生于1972年8月;他长期在金融领域工作;2019年1月，澎湃新闻发布消息
+huang-runzhong|expel|2025-07-28|http://www.qzcdi.gov.cn/content/2025-07/28/content_9181138.htm|中国银行业协会原党委委员、秘书长黄润中被开除党籍|据中央纪委国家监委驻>>依法审查起诉。
+huang-runzhong|sina|2025-07-28|https://finance.sina.com.cn/money/bank/gsdt/2025-07-28/doc-infhzpnv0130161.shtml|与他人串供订立攻守同盟 银协原秘书长黄润中被开除党籍|黄润中是1972年生人;不过，还没工作满三年;早年在监察部工作时
+liu-feng-cba|wiki||https://zh.wikipedia.org/wiki/刘峰_(1963年)|刘峰 (1963年)（维基百科）
+liu-feng-cba|probe|2024-07-05|https://www.chnfund.com/article/AR50401322-acd0-3b05-b77b-3a1394c48cd1|刘峰被查（中国基金报）|7月5日，中央纪委国家监委网站发布消息;公开信息显示，刘峰是河北卢龙人;刘峰曾任黑龙江银监局党委委员
+liu-zhangjun|expel|2024-06-07|https://www.thepaper.cn/newsDetail_forward_27661978|原银监会处非办主任刘张君被开除党籍：与他人串供，销毁重要证据材料|经查，刘张君丧失理想信念;刘张君严重违反党的政治纪律
+liu-zhangjun|verdict|2026-02-28|https://cj.sina.com.cn/articles/view/7724238264/1cc6685b800101gr0c|昔为金融看门人，今成“亿哥”阶下囚|根据此前披露的官方公开信息;这三桩案例里，刘张君和吴华皆为“亿哥”;1955年3月生，河南开封人;根据通报披露的信息，1998年至2015年;2015年下半年至2021年
+gao-fei|expel|2024-01-04|http://district.ce.cn/newarea/sddy/202401/04/t20240104_38853500.shtml|原中国银行业监督管理委员会吉林监管局党委书记、局长高飞被开除党籍|据中央纪委国家监委驻>>所涉财物一并移送。
+gao-fei|charge|2024-01-22|https://web.archive.org/web/2024/https://www.spp.gov.cn/spp/qwfb/202401/t20240122_640874.shtml|吉林检察机关依法对高飞涉嫌受贿案提起公诉|日前，原中国银行保险监督管理委员会>>追究其刑事责任。
+gao-fei|caixin|2024-07-13|https://wenews.caixin.com/2024-07-13/102215816.html|吉林银监局原局长高飞受贿案二审 亲属利用其影响力做生意争议|妻弟多年来承揽了吉林省多家银行装修工程;现年65岁的高飞于一年前被查;财新获得的一审判决书显示
+zhang-huiye|probe|2023-11-27|https://m.ccdi.gov.cn/content/65/3a/108725.html|原中国保险监督管理委员会深圳监管局党委书记、局长张辉烨接受审查调查|中央纪委国家监委网站讯>>监察委员会监察调查。
+zhang-huiye|expel|2024-03-01|http://www.ljsz.gov.cn/scdc/djzwcf/content/post_1129650.html|原中国保险监督管理委员会深圳监管局党委书记、局长张辉烨被开除党籍|据中央纪委国家监委驻>>所涉财物一并移送。
+zhang-huiye|caixin|2024-03-01|https://finance.caixin.com/2024-03-01/102170822.html|非法收受巨额财物 原保监会深圳局局长张辉烨被开除党籍|原保监会深圳监管局党委书记、局长张辉烨因涉嫌严重违纪违法问题
+zhang-jianjun-pbc|probe|2023-07-07|https://www.nbd.com.cn/articles/2023-07-07/2906133.html|张建军被查，曾任央行深圳市中心支行行长|7月6日，据中央纪委国家监委驻中国人民银行纪检监察组;张建军出生于1958年;1995年6月至2016年12月，张建军在中国人民银行工作
+zhang-jianjun-pbc|qq|2023-07-06|https://news.qq.com/rain/a/20230706A09KCP00|人行深圳中心支行原行长张建军被查 曾任佳兆业高管年薪350万元|2017年1月，59岁的张建军在退休前夕离开人行;2018年3月21日，港股上市房企佳兆业发布公告
+duan-yindi|expel|2023-11-23|http://news.cjn.cn/csqpd/wh_20004/202311/t4751165.htm|湖北省地方金融监督管理局原党组书记、局长段银弟被双开（长江网转湖北省纪委监委）|经查，段银弟丧失理想信念;段银弟严重违反党的政治纪律
+duan-yindi|bio|2023-11-23|https://m.jiemian.com/article/10439851.html|湖北省地方金融监管局昔日“一把手”段银弟被“双开”，曾任湖北银行行长6年|公开资料显示，段银弟;段银弟具备多年金融体系的工作经验
+duan-yindi|hexun|2023-11-24|https://bank.hexun.com/2023-11-24/211256530.html|湖北省地方金融监督管理局原局长段银弟被“双开” 曾任湖北银行行长|公开资料显示，段银弟于1965年1月出生
+wang-zhibin|expel|2024-07-22|https://news.cctv.com/2024/07/22/ARTImzD7VSlDxBq3sZO8CNKv240722.shtml|中国工商银行湖北省分行原行长王芝斌被开除党籍|央视网消息>>所涉财物随案移送。
+wang-zhibin|probe|2024-01-25|https://www.stcn.com/article/detail/1104407.html|震动金融圈！王芝斌、于泽水被查！|据中央纪委国家监委网站1月25日消息;公开资料显示，王芝斌此前历任;事实上，2020年9月，王芝斌
+wang-zhibin|qq|2024-07-22|https://news.qq.com/rain/a/20240722A09NAI00|曾被罚款10万元的工行湖北省分行原行长王芝斌被开除党籍|公开简历显示，王芝斌为河南新野人
+guo-xingang|probe|2024-04-26|https://www.chnfund.com/article/AR92c23f7b-6459-a05a-55e4-3a122cb020f8|金融圈突发！郭心刚被查！|4月26日，中央纪委国家监委官网通报;天眼查信息显示，中国银行浙江省分行的负责人;2016年6月，原银监会官网显示
+guo-xingang|expel|2024-12-02|https://www.bjnews.com.cn/detail/1733133490129702.html|中国银行浙江省分行原党委书记、行长郭心刚被开除党籍|经查，郭心刚丧失理想信念;郭心刚严重违反党的政治纪律
+guo-xingang|arrest|2024-12-11|https://web.archive.org/web/2025/https://www.spp.gov.cn/spp/qwfb/202412/t20241211_676239.shtml|江西检察机关依法对郭心刚决定逮捕|中国银行浙江省分行原党委书记>>该案正在进一步办理中。
+guo-xingang|bio|2025-05-30|https://www.21jingji.com/article/20250530/herald/1ac57becbef209e7cd51f7f0062a0ee2.html|退休不代表“安全着陆” 工行浙江分行原行长沈荣勤被查|1960年出生的郭心刚在中行系统内工作多年;2024年4月，中国银行浙江省分行原党委书记
+xu-xilong|expel|2025-08-22|http://www.news.cn/legal/20250822/980b95b7127b4b769d92e51490e5efa6/c.html|中国农业银行原首席专家兼深圳市分行原党委书记、行长许锡龙被开除党籍|据中央纪委国家监委驻>>山东省纪委监委）
+xu-xilong|verdict|2026-05-13|https://finance.sina.com.cn/wm/2026-05-13/doc-inhxtkrt4646786.shtml|中国农业银行原首席专家被判刑15年6个月|2026年5月11日，菏泽市中级人民法院一审公开宣判;2008年2月至2024年11月，被告人许锡龙;公开简历显示，许锡龙，男，汉族;许锡龙曾任中国农业银行甘肃省分行行长
+zhang-xiaoli|expel|2025-04-16|https://finance.sina.com.cn/roll/2025-04-16/doc-inetkpat4321495.shtml|人保财险原监事会主席张孝礼被开除党籍（中新经纬）|经查，张孝礼理想信念滑坡;张孝礼严重违反党的政治纪律;2024年10月25日，中央纪委国家监委网站通报;据中国人民财产保险股份有限公司在港交所披露
+zhang-xiaoli|verdict|2025-12-19|http://www.news.cn/20251219/2cadf9e118a049098c6e7393977aa5b0/c.html|中国人民财产保险股份有限公司原党委委员、监事会主席张孝礼受贿案一审公开宣判
+liu-anlin|expel|2025-10-12|https://www.news.cn/politics/20251012/558717aa547641da8dcb25bd75b6ea40/c.html|中国人寿财产保险股份有限公司原党委书记、总裁刘安林被开除党籍|据中央纪委国家监委驻>>所涉财物一并移送。
+liu-anlin|bio|2025-10-12|https://m.mp.oeeee.com/a/BAAFRD0000202510121130900.html|涉嫌贪污受贿，国寿财险原总裁刘安林被开除党籍并移送司法（南方都市报）|公开资料显示，刘安林出生于1963年;2019年1月起，刘安林进入中国人寿财产保险股份有限公司;2024年3月22日，中央纪委国家监委网站披露;2015年，刘安林调任
+ren-chunsheng|expel|2025-03-21|https://www.bjsupervision.gov.cn/ttxw/202503/t20250321_86977.html|上海保险交易所股份有限公司原党委书记、董事长任春生被开除党籍和公职|日前，中央纪委国家监委驻>>所涉财物一并移送。
+ren-chunsheng|probe|2024-05-07|https://www.stcn.com/article/detail/1198174.html|金融圈突发！任春生被查！|5月7日下午，据中纪委网站消息;公开资料显示，任春生曾任;2019年2月，任春生调任中保投资
+ren-chunsheng|caijing|2024-05-07|https://www.mycaijing.com/article/detail/520953?source_id=40|上海保交所迎新“掌门人”王哲，原董事长任春生被查|据报道，4月29日，上海保交所新任董事长;从任春生履历来看
+ren-haichuan|probe|2024-05-21|https://www.chnfund.com/article/ARe77b74bf-ad7a-ced5-7708-3a12ad32ae7e|任海川，被查！|5月21日，中央纪委国家监委官网通报;公开信息显示，任海川出生于1974年;任海川在华润集团工作多年
+wu-guofang|caixin|2026-09-05|https://wenews.caixin.com/2026-09-05/102482141.html|前证监官员吴国舫7000万元受贿案一审 介绍亲友入股争议|游走发审一线;2024年10月末，国信证券;两周后，即2024年11月14日
+zhuang-enyue|expel|2024-07-26|https://www.bjnews.com.cn/detail/1721984666129270.html|中国信达资产管理股份有限公司原副总裁庄恩岳被开除党籍|经查，庄恩岳违反中央八项规定精神;庄恩岳身为国有金融企业党员领导干部
+zhuang-enyue|bio|2024-07-26|https://app-web.chnfund.com/jx/202407/t20240726_4379914.html|金融圈重磅！庄恩岳，被开除党籍！|庄恩岳曾任国家审计署科学研究所副所长;庄恩岳于2023年12月被查;6月24日，最高人民检察院官网通报
+zhuang-enyue|charge|2024-08-14|https://web.archive.org/web/2024/https://www.spp.gov.cn/spp/qwfb/202408/t20240814_663141.shtml|辽宁检察机关依法对庄恩岳涉嫌受贿案提起公诉|日前，中国信达>>追究其刑事责任。
+li-wei-zhongtai|expel|2024-10-17|http://district.ce.cn/newarea/sddy/202410/17/t20241017_39171839.shtml|山东省政协原常委、经济委员会原副主任李玮被开除党籍|据山东省纪委监委消息>>所涉财物一并移送。
+li-wei-zhongtai|verdict|2025-08-22|http://www.news.cn/20250822/234f4405019944a783e2bcf7c79e6c6a/c.html|山东省政协原常委、经济委员会原副主任李玮贪污、受贿案一审公开宣判|新华社济南8月22日电>>遂作出上述判决。
+gan-chengjiu|expel|2024-09-10|http://district.ce.cn/newarea/sddy/202409/10/t20240910_39134080.shtml|江西省金融控股集团有限公司原党委副书记、副董事长、总经理甘成久被“双开”|据江西省纪委监委消息>>所涉财物一并移送。
+gan-chengjiu|bio|2024-09-09|https://m.bjnews.com.cn/detail/1725888787129541.html|江西省金融控股集团有限公司原副董事长、总经理甘成久被“双开”（新京报）|甘成久，男，汉族，1962年2月出生
+gan-chengjiu|bjd|2024-09-10|https://xinwen.bjd.com.cn/content/s66df0b56e4b0c25b287b3187.html|甘成久，携带反动书籍入境|2015年，甘成久任江西省金融控股集团;今年1月，甘成久主动向组织交代问题
+xu-xiang-citic|expel|2024-06-07|https://news.cctv.com/2024/06/07/ARTIcXFymB13zJjwwews4dZm240607.shtml|中信集团原纪委委员、监事会办公室原主任徐翔被开除党籍|央视网消息>>所涉财物一并移送。
+feng-jianlong|expel|2026-01-28|http://district.ce.cn/newarea/sddy/202601/t20260128_2735085.shtml|中国农业银行原首席专家兼浙江省分行原党委书记、行长冯建龙被开除党籍|中央纪委国家监委网站讯>>所涉财物一并移送。
+feng-jianlong|bio|2026-01-28|https://news.qq.com/rain/a/20260128A06SJJ00|通过民间借贷获取大额回报，利用职务便利低买高卖房产......农行冯建龙被开除党籍|公开信息显示，冯建龙曾在中国农业银行工作多年;2012年，冯建龙出任;离开农行后，冯建龙曾从事私募基金行业
+gao-qiang-ccb|expel|2026-01-23|https://www.news.cn/legal/20260123/edbd74da208d4aed84c74f3990311f6c/c.html|中国建设银行浙江省分行原党委书记、行长高强被开除党籍|据中央纪委国家监委驻>>北京市纪委监委）
+gao-qiang-ccb|caixin|2026-01-23|https://finance.caixin.com/2026-01-23/102407390.html|离职后以顾问费等名义敛财 建行浙江省分行原行长高强被开除党籍|建行原副行长章更生一审宣判两天后
+shen-rongqin|expel|2026-03-13|https://news.cctv.com/2026/03/13/ARTIozndasgg5UcxFyQrqr2A260313.shtml|中国工商银行浙江省分行原党委书记、行长沈荣勤被开除党籍|央视网消息>>所涉财物一并移送。
+jiang-chengjun|return|2024-08-28|http://www.news.cn/legal/20240828/d56368980c40487397b9c440232902f2/c.html|海通证券副总经理姜诚君被遣返回国|近日，在中央反腐败协调小组>>将其缉捕归案。
+jiang-chengjun|bio|2024-08-29|https://www.cs.com.cn/qs/202408/t20240829_6435351.html|海通证券原副总经理姜诚君被遣返回国（证券时报）|此前，海通证券7月31日晚间公告;据了解，姜诚君在海通证券已工作24年;2000年8月至2023年3月，姜诚君在海通证券;值得一提的是，今年年初姜诚君曾收到监管罚单;该监管措施决定书显示
+li-gong-huaan|expel|2025-05-25|http://www.xinhuanet.com/20250525/2224c87af0ea4695916b76dcd2e7edc8/c.html|安徽省政协经济委员会原副主任李工被开除党籍|据安徽省纪委监委消息>>所涉财物一并移送。
+li-gong-huaan|bio|2025-05-25|https://www.chnfund.com/article/AR633246ae-0a19-0ca9-ff6d-3a1a179ee4e6|安徽省政协经济委员会原副主任李工被开除党籍，曾掌舵华安证券十年|2024年12月，李工涉嫌严重违纪违法;公开信息显示，李工出生于1959年3月;除政府工作经验外;2017年11月，李工获任国元集团
+zhang-xu-citic|expel|2024-06-28|https://www.news.cn/20240628/f97dabda10714e978488d5fc3735cebc/c.html|中信投资控股有限公司原党委委员、副董事长张旭被开除党籍|新华社天津6月28日电>>所涉财物随案移送。
+zhang-xu-citic|nbd|2024-06-28|https://www.nbd.com.cn/articles/2024-06-28/3446239.html|最新！张旭被开除党籍|此前2024年1月19日
+zhang-songbai|expel|2025-02-14|http://district.ce.cn/newarea/sddy/202502/14/t20250214_39292095.shtml|中国农业发展银行湖南省分行原党委委员、副行长张松柏被开除党籍|据中央纪委国家监委驻>>所涉财物一并移送。
+zhang-songbai|bjd|2025-02-14|https://xinwen.bjd.com.cn/content/s67af60b9e4b08edd28f50ff3.html|靠金融吃金融，为不法商人站台 张松柏被开除党籍|2024年9月3日，中央纪委国家监委网站通报消息
+kong-fanbo|expel|2025-04-28|http://www.xinhuanet.com/20250428/f55e3f838a184c7e8e44c9609a0451e2/c.html|中国农业发展银行原资金计划部总经理孔繁波被开除党籍|据中央纪委国家监委驻>>内蒙古自治区纪委监委）
+kong-fanbo|bjnews|2025-04-28|https://m.bjnews.com.cn/detail/1745811986129940.html|孔繁波，靠金融吃金融，收受巨额财物|2024年9月25日消息
+he-zeshu|expel|2025-01-25|http://www.scjc.gov.cn/scjc/scdc/2025/1/25/88bae8d06acf47b1a1813185a3797e6a.shtml|中国农业发展银行四川省分行原党委委员、省分行营业部原党委书记何泽蜀被“双开”|中央纪委国家监委网站讯>>所涉财物一并移送。
+he-zeshu|bio|2025-01-25|https://finance.sina.com.cn/jjxw/2025-01-25/doc-inehefte1780162.shtml|何泽蜀，被“双开”！（中国基金报）|公开信息显示，何泽蜀在中国农业发展银行工作多年
+guo-sanye|expel|2023-11-29|http://m.ccdi.gov.cn/content/2b/4b/108783.html|中国银行业协会原副秘书长郭三野被“双开”|中央纪委国家监委网站讯>>所涉财物随案移送。

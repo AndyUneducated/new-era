@@ -1,0 +1,72 @@
+# R10: central-SOE and finance-system falls done by this batch (CCDI 中管企业 / 中管金融企业 notices, 2021+ finance campaign).
+# `done: true` = case record in content/falls/R10.yaml; `card: R10` = card written in content/people/R10.yaml, otherwise the card belongs to another batch.
+# `done: false` = named in a notice or roundup but left out; `why` says what is missing.
+- { name: 何文忠, date: 2024-04-07, post: "中国电子科技集团有限公司党组成员、副总经理", id: he-wenzhong, done: true, card: R10 }
+- { name: 白天辉, date: 2019-01, post: "中国华融国际控股有限公司总经理", id: bai-tianhui, done: true, card: R10 }
+- { name: 姚前, date: 2024-04, post: "中国证监会科技监管司司长、信息中心主任", id: yao-qian, done: true, card: R10 }
+- { name: 陈共炎, date: 2023-11-10, post: "中国银河证券股份有限公司党委书记、董事长", id: chen-gongyan, done: true, card: R10 }
+- { name: 刘逖, date: 2023-04-17, post: "上海证券交易所副总经理", id: liu-ti, done: true, card: R10 }
+- { name: 安青松, date: 2024-05-14, post: "中国期货业协会党委书记、会长", id: an-qingsong, done: true, card: R10 }
+- { name: 凌峰, date: 2024-06-21, post: "江苏证监局党委书记、局长", id: ling-feng, done: true, card: R10 }
+- { name: 陈小澎, date: 2024-08-02, post: "全国政协委员", id: chen-xiaopeng, done: true, card: R10 }
+- { name: 董国群, date: 2024-08-02, post: "上海证券交易所党委委员、副总经理", id: dong-guoqun, done: true, card: R10 }
+- { name: 李华涛, date: 2024-06-21, post: "贵州银监局（银保监局、金融监管总局贵州监管局）党委书记、局长", id: li-huatao, done: true, card: R10 }
+- { name: 原飞, date: 2024-08, post: "大连银监局党委书记、局长", id: yuan-fei, done: true, card: R10 }
+- { name: 王泽平, date: 2025-05-30, post: "重庆银保监局党委书记、局长", id: wang-zeping, done: true, card: R10 }
+- { name: 王筠权, date: 2025-06-06, post: "四川银监局党委书记、局长", id: wang-junquan, done: true, card: R10 }
+- { name: 卢纯才, date: 2024-09-20, post: "中国农业发展银行一级总监", id: lu-chuncai, done: true, card: R10 }
+- { name: 陈爽, date: 2022-07-26, post: "中国光大集团有限公司党委委员、执行董事、副总经理", id: chen-shuang, done: true, card: R10 }
+- { name: 朱慧民, date: 2020-09-23, post: "中国光大实业（集团）有限责任公司党委书记、董事长、总经理", id: zhu-huimin, done: true, card: R10 }
+- { name: 薛峰, date: 2022-02-27, post: "光大证券股份有限公司董事长", id: xue-feng-ebscn, done: true, card: R10 }
+- { name: 李筱强, date: 2024-11-15, post: "中国互联网投资基金管理有限公司总经理", id: li-xiaoqiang, done: true, card: R10 }
+- { name: 吴国舫, date: 2024-11-14, post: "国信证券股份有限公司副总裁", id: wu-guofang, done: true, card: R10 }
+- { name: 任春生, date: 2024-05-07, post: "国家金融监督管理总局投诉调解中心筹备组组长", id: ren-chunsheng, done: true, card: R10 }
+- { name: 张劲松, date: 2024-03, post: "中国银行保险监督管理委员会法规部副主任", id: zhang-jinsong, done: true, card: R10 }
+- { name: 黄润中, date: 2024-12-26, post: "金融壹账通党委书记、监事长、执行副总裁", id: huang-runzhong, done: true, card: R10 }
+- { name: 刘峰, date: 2024-07-05, post: "第十三届全国人大代表", id: liu-feng-cba, done: true, card: R10 }
+- { name: 刘张君, date: 2023-04-23, post: "中国银监会处置非法集资办公室巡视员", id: liu-zhangjun, done: true, card: R10 }
+- { name: 高飞, date: 2023-06-16, post: "中国银保监会吉林监管局巡视员", id: gao-fei, done: true, card: R10 }
+- { name: 张辉烨, date: 2023-11-27, post: "中国保监会深圳监管局党委书记、局长", id: zhang-huiye, done: true, card: R10 }
+- { name: 张建军, date: 2023-07-06, post: "佳兆业集团执行董事、副主席", id: zhang-jianjun-pbc, done: true, card: R10 }
+- { name: 段银弟, date: 2023-11-23, post: "湖北省地方金融监督管理局党组书记、局长", id: duan-yindi, done: true, card: R10 }
+- { name: 王芝斌, date: 2024-01-25, post: "湖北省人大财政经济委员会副主任委员", id: wang-zhibin-icbc, done: true, card: R10 }
+- { name: 郭心刚, date: 2024-04-26, post: "浙江省金融业发展促进会会长", id: guo-xingang, done: true, card: R10 }
+- { name: 许锡龙, date: 2025-08-22, post: "第十二届全国人大代表", id: xu-xilong, done: true, card: R10 }
+- { name: 张孝礼, date: 2024-10-25, post: "中国人民财产保险股份有限公司党委委员、纪委书记、监事会主席", id: zhang-xiaoli, done: true, card: R10 }
+- { name: 刘安林, date: 2024-03-22, post: "中国人寿财产保险股份有限公司党委书记、总裁", id: liu-anlin, done: true, card: R10 }
+- { name: 任海川, date: 2024-05-21, post: "华润集团金融事业部常务副主任，华润金融控股有限公司党委副书记、总经理，华润资本管理有限公司董事长", id: ren-haichuan, done: true, card: R10 }
+- { name: 庄恩岳, date: 2023-12, post: "中国信达资产管理股份有限公司执行董事", id: zhuang-enyue, done: true, card: R10 }
+- { name: 徐翔, date: 2024-06-07, post: "中国中信集团纪委委员、监事会办公室主任", id: xu-xiang-citic, done: true, card: R10 }
+- { name: 李玮, date: 2024-10-17, post: "山东省政协常委、经济委员会副主任", id: li-wei-zhongtai, done: true, card: R10 }
+- { name: 甘成久, date: 2024-01, post: "江西省金融控股集团有限公司党委副书记、副董事长、总经理", id: gan-chengjiu, done: true, card: R10 }
+- { name: 冯建龙, date: 2025, post: "浙江农银凤凰投资管理有限公司董事长", id: feng-jianlong, done: true, card: R10 }
+- { name: 高强, date: 2025, post: "中国建设银行浙江省分行党委书记、行长", id: gao-qiang-ccb, done: true, card: R10 }
+- { name: 沈荣勤, date: 2025, post: "中国工商银行浙江省分行党委书记、行长", id: shen-rongqin, done: true, card: R10 }
+- { name: 姜诚君, date: 2024-08, post: "海通证券副总经理兼投资银行委员会主任委员", id: jiang-chengjun, done: true, card: R10 }
+- { name: 李工, date: 2024-12, post: "安徽省政协经济委员会副主任", id: li-gong-huaan, done: true, card: R10 }
+- { name: 张旭, date: 2024-01-19, post: "中信投资控股有限公司党委委员、副董事长", id: zhang-xu-citic, done: true, card: R10 }
+- { name: 张松柏, date: 2024-09-03, post: "中国农业发展银行湖南省分行党委委员、副行长", id: zhang-songbai, done: true, card: R10 }
+- { name: 孔繁波, date: 2024-09-25, post: "中国农业发展银行资金计划部总经理", id: kong-fanbo, done: true, card: R10 }
+- { name: 何泽蜀, date: 2025-01-25, post: "中国农业发展银行四川省分行党委委员、营业部党委书记、总经理", id: he-zeshu, done: true, card: R10 }
+- { name: 郭三野, date: 2023-11-29, post: "中国银行业协会副秘书长", id: guo-sanye, done: true, card: R10 }
+- { name: 李云泽, date: 2026-06-26, post: "国家金融监督管理总局党委书记、局长", id: li-yunze, done: true }
+- { name: 吴小晖, date: 2017-06-08, post: "安邦保险集团董事长兼总经理", id: wu-xiaohui, done: true }
+- { name: 包凡, date: 2023-02, post: "华兴资本董事会主席兼首席执行官", id: bao-fan, done: true }
+- { name: 康日新, date: 2009-12-29, post: "中国核工业集团公司党组书记、总经理", id: kang-rixin, done: true }
+- { name: 温青山, date: 2013-12-16, post: "中石油集团总会计师、党组成员", id: wen-qingshan, done: true }
+- { name: 沈定成, date: 2014, post: "中石油国际事业有限公司党委书记", id: shen-dingcheng, done: true }
+- { name: 米晓东, date: 2013, post: "原中海油干部，周滨的商业代理人", id: mi-xiaodong, done: true }
+- { name: 周滨, date: 2016-06-15, post: "周永康之子，2016 年被判刑 18 年", id: zhou-bin, done: true }
+- { name: 刘鹰, post: "光大系高管", done: false, why: "报道太少且只有传闻性质来源，不能设 fall" }
+- { name: 王宏琨, post: "华润置地原高级副总裁", done: false, why: "2014 年媒体称被带走调查，未见官方通报与结局" }
+- { name: 吴丁, post: "华润金融原首席执行官", done: false, why: "2014 年媒体称被带走调查，未见官方通报与结局" }
+- { name: 张春, post: "华润集团协同办原主任", done: false, why: "2014 年媒体称被带走调查，未见官方通报与结局" }
+- { name: 李世谦, post: "原银保监会城市商业银行监管部一级巡视员", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 赵东生, post: "原青岛银保监局二级巡视员", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 李果, post: "中国人民银行秘书局副局长", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 董国滨, post: "中国人民银行哈尔滨中心支行原助理巡视员", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 陈义清, post: "中国印钞造币集团有限公司原董事", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 李光, post: "农发行原客户三部总经理", done: false, why: "只见盘点点名，未找到履历" }
+- { name: 张弛, post: "国开行吉林省分行原行长", done: false, why: "未找到足够来源" }
+- { name: 胡晓炜, post: "中国华融原副总裁", done: false, why: "没有找到可靠来源" }
+- { name: 云南中烟高管, post: "云南中烟工业有限责任公司", done: false, why: "报道未点名" }
