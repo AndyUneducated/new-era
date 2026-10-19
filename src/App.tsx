@@ -7,6 +7,7 @@ import { useTheme } from './lib/theme'
 import { useAtlas } from './state'
 import { About } from './views/About'
 import { CasePage } from './views/CasePage'
+import { Chain } from './views/Chain'
 import { ConceptPage } from './views/ConceptPage'
 import { FactionPage } from './views/FactionPage'
 import { Factions } from './views/Factions'
@@ -62,7 +63,7 @@ export function App() {
   else if (top === 'purges') view = id ? <CasePage key={id} id={id} /> : <Purges />
   else if (top === 'rise') view = <Rise />
   else if (top === 'timeline') view = <Timeline />
-  else if (top === 'ideas') view = id ? <ConceptPage key={id} id={id} /> : <Ideas />
+  else if (top === 'ideas') view = id === 'chain' ? <Chain /> : id ? <ConceptPage key={id} id={id} /> : <Ideas />
   else if (top === 'about') view = <About />
   else view = <Home />
 

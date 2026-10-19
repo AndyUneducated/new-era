@@ -1223,6 +1223,16 @@ button.chip:hover, a.chip:hover { border-color: var(--gold); color: var(--ink); 
 .cp-chain { display: grid; gap: 0; border-left: 2px solid var(--seal); padding-left: 14px; }
 .cp-policy { display: grid; grid-template-columns: 80px 1fr; gap: 10px; padding: 8px 0; border-bottom: 1px dashed var(--rule); font-size: 14px; }
 .cp-policy p { margin: 2px 0 6px; }
+.chain-v { overflow-x: auto; padding: 6px 0; }
+.chain-v svg { display: block; }
+.chain-alt { fill: var(--paper-2); opacity: 0.6; }
+.chain-name { font-size: 12.5px; font-weight: 700; fill: var(--ink); font-family: var(--sans); }
+.chain-kind { font-size: 10.5px; fill: var(--muted); font-family: var(--sans); }
+.chain-v a:hover .chain-name { fill: var(--red); }
+.chain-pol, .chain-ev { cursor: pointer; }
+.chain-ev:hover path { stroke-opacity: 1; stroke-width: 1.8; }
+.chain-of { margin-left: 8px; font-size: 12px; padding: 1px 8px; }
+.chain-year + .chain-year { margin-top: 14px; }
 .rise-routes { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
 .rise-ladder { display: grid; gap: 0; margin: 4px 0 16px; border-left: 2px solid var(--gold); padding-left: 14px; }
 .rise-rung { display: grid; grid-template-columns: 6.5em 2.4em 7em 1fr auto; align-items: baseline; gap: 8px; padding: 6px 0; border-bottom: 1px dashed var(--rule); font-size: 13.5px; }

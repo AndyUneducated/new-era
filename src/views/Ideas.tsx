@@ -10,7 +10,7 @@ import { Spectrum } from '../components/ideas/Spectrum'
 import { Stream } from '../components/ideas/Stream'
 import { Targets } from '../components/ideas/Targets'
 import { Versions } from '../components/ideas/Versions'
-import { conceptHref, go, personHref, useKept, useRoute, withQuery } from '../lib/router'
+import { conceptHref, go, href, personHref, useKept, useRoute, withQuery } from '../lib/router'
 import { useAtlas } from '../state'
 
 const ERA: Record<string, string> = {
@@ -97,6 +97,9 @@ export function Ideas() {
             {label}
           </button>
         ))}
+        <a className="chip on" href={href('ideas/chain')}>
+          思想落地图 →
+        </a>
       </nav>
 
       <Section id="lineage" title="主义谱系" note="1978 年至今的官方正统、党内路线、民间思潮、外来对立面与罪名。色条是它作为现实主张存在的年份；实线连向源头，虚线连向它所针对的对象">

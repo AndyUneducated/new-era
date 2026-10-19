@@ -136,6 +136,7 @@ export function check(d: Data) {
   }
   for (const c of d.concepts) {
     const w = `concept ${c.id}`
+    if (c.id === 'chain') errors.push(`${w}: #/ideas/chain is the idea-to-policy map, pick another id`)
     if (c.parent) ref(concepts, 'concept', c.parent, w)
     c.by.forEach((id) => ref(people, 'person', id, w))
     c.related.forEach((id) => ref(concepts, 'concept', id, w))

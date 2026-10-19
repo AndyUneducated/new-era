@@ -130,7 +130,14 @@ export function ConceptPage({ id }: { id: string }) {
           )}
 
           {c.policies.length > 0 && (
-            <Section title="从思想到政策" note="这一提法落成了哪些政策，政策又引出了哪些事件">
+            <Section
+              title="从思想到政策"
+              note={
+                <>
+                  这一提法落成了哪些政策，政策又引出了哪些事件。<a href={href('ideas/chain')}>所有提法的落地图</a>
+                </>
+              }
+            >
               <div className="cp-chain">
                 {c.policies.map((x, i) => (
                   <div key={i} className="cp-policy">

@@ -3,6 +3,7 @@ import { scaleTime, select, zoom as d3zoom, zoomIdentity, type ZoomBehavior, typ
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { LANES, type Event, type Lane } from '../data/schema'
 import { fmt, short, today } from '../lib/dates'
+import { LANE_COLOR } from '../lib/lanes'
 import { eventHref, go, useKept } from '../lib/router'
 import { useWidth } from '../lib/useSize'
 import { useAtlas } from '../state'
@@ -16,19 +17,6 @@ const ERAS: [string, string, string][] = [
   ['胡锦涛时期', '2002-11-15', '2012-11-15'],
   ['习近平时期', '2012-11-15', '2030-01-01'],
 ]
-const LANE_COLOR: Record<Lane, string> = {
-  prelude: '#8b7f72',
-  power: '#a3201c',
-  purge: '#5b2a86',
-  army: '#4d6b35',
-  ideo: '#b48728',
-  econ: '#2f5d8a',
-  society: '#c26a1b',
-  ethnic: '#2f6f62',
-  hkmt: '#b0413e',
-  foreign: '#1f5fbf',
-  folk: '#d6457a',
-}
 const PRESETS: [string, string, string][] = [
   ['全部', '1989-01-01', '2027-01-01'],
   ['前史', '1989-01-01', '2001-01-01'],
