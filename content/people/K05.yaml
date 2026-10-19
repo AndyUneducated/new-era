@@ -3254,12 +3254,15 @@
   headline: 湖南省长，前江西常务副省长
   ids: { wikidata: Q9010448 }
   bio: >-
-    浙江衢州人，十九届中央候补委员、二十届中央委员。电力系统出身，曾任江西省委常委、常务副省长和国家电网董事长，2020 年底起任湖南省长。
+    浙江衢州人，十九届中央候补委员、二十届中央委员。浙江大学化工机械专业毕业，在常州绝缘材料总厂从技术员做到厂长，后任武进、泰州市长、江苏省发改委主任、工信部副部长、江西常务副省长；2020 年 1 月至 11 月任国家电网董事长，2020 年底起任湖南省长。
   positions:
-    - { title: 江西省委常委、常务副省长, sys: gov, place: 江西, cite: k05-xinhua-2017-03-03-zhang-gong }
-    - { title: 国家电网有限公司董事长, sys: other, to: 2020-11, cite: p02-wiki-mao-weiming }
+    - { title: 江苏省常州绝缘材料总厂厂长, sys: other, place: 江苏, from: 1993-04, to: 1996-03, cite: u08-cctv-2020-12-01-mao-weiming }
+    - { title: 江苏省发展和改革委员会主任, sys: gov, place: 江苏, from: 2005-12, to: 2011-11, cite: u08-cctv-2020-12-01-mao-weiming }
+    - { title: 工业和信息化部副部长, sys: gov, from: 2013-10, to: 2015-07, cite: u08-cctv-2020-12-01-mao-weiming }
+    - { title: 江西省委常委、常务副省长, sys: gov, place: 江西, from: 2015-09, to: 2020-01, cite: u08-cctv-2020-12-01-mao-weiming }
+    - { title: 国家电网有限公司董事长, sys: other, from: 2020-01, to: 2020-11, cite: u08-cctv-2020-12-01-mao-weiming }
     - { title: 湖南省省长, sys: gov, place: 湖南, from: 2020-11, cite: p02-wiki-mao-weiming }
-  cites: [wd-Q9010448, p02-wiki-mao-weiming, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, k05-xinhua-2017-03-03-zhang-gong]
+  cites: [wd-Q9010448, p02-wiki-mao-weiming, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, k05-xinhua-2017-03-03-zhang-gong, u08-cctv-2020-12-01-mao-weiming]
 
 - id: deng-xiaogang-sichuan
   name: 邓小刚

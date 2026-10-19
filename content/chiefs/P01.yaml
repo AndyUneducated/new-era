@@ -16,8 +16,8 @@
 - { prov: 北京, post: gov, name: 蔡奇, person: cai-qi, from: "2017-01", to: "2017-05", cite: p01-wiki-beijing-gov }
 - { prov: 北京, post: gov, name: 陈吉宁, person: chen-jining, from: "2017-05", to: "2018-01", acting: true, note: "代市长", cite: p01-wiki-beijing-gov }
 - { prov: 北京, post: gov, name: 陈吉宁, person: chen-jining, from: "2018-01", to: "2022-10", cite: p01-wiki-beijing-gov }
-- { prov: 北京, post: gov, name: 殷勇, from: "2022-10", to: "2023-01", acting: true, note: "代市长", cite: p01-xinhua-2022-10-28-yin-yong }
-- { prov: 北京, post: gov, name: 殷勇, from: "2023-01", cite: p01-wiki-beijing-gov }
+- { prov: 北京, post: gov, name: 殷勇, person: yin-yong, from: "2022-10", to: "2023-01", acting: true, note: "代市长", cite: p01-xinhua-2022-10-28-yin-yong }
+- { prov: 北京, post: gov, name: 殷勇, person: yin-yong, from: "2023-01", cite: p01-wiki-beijing-gov }
 - { prov: 天津, post: sec, name: 张立昌, person: zhang-lichang, from: "1997-08", to: "2007-03", cite: p01-wiki-tianjin-sec }
 - { prov: 天津, post: sec, name: 张高丽, person: zhang-gaoli, from: "2007-03", to: "2012-11", cite: p01-wiki-tianjin-sec }
 - { prov: 天津, post: sec, name: 孙春兰, person: sun-chunlan, from: "2012-11", to: "2014-12", cite: p01-wiki-tianjin-sec }
@@ -35,8 +35,8 @@
 - { prov: 天津, post: gov, name: 张国清, person: zhang-guoqing, from: "2018-01", to: "2020-09", cite: c02-wiki-zhang-guoqing }
 - { prov: 天津, post: gov, name: 廖国勋, from: "2020-09", to: "2020-09", acting: true, note: "代市长", cite: p01-xinhua-2020-09-03-liao-guoxun }
 - { prov: 天津, post: gov, name: 廖国勋, from: "2020-09", to: "2022-04", note: "2022年4月在任上去世", cite: p01-wiki-liao-guoxun }
-- { prov: 天津, post: gov, name: 张工, from: "2022-05", to: "2022-07", acting: true, note: "代市长", cite: p01-xinhua-2022-05-31-zhang-gong }
-- { prov: 天津, post: gov, name: 张工, from: "2022-07", cite: p01-wiki-zhang-gong }
+- { prov: 天津, post: gov, name: 张工, person: zhang-gong, from: "2022-05", to: "2022-07", acting: true, note: "代市长", cite: p01-xinhua-2022-05-31-zhang-gong }
+- { prov: 天津, post: gov, name: 张工, person: zhang-gong, from: "2022-07", cite: p01-wiki-zhang-gong }
 - { prov: 河北, post: sec, name: 叶连松, from: "1998-10", to: "2000-06", cite: p01-wiki-hebei-sec }
 - { prov: 河北, post: sec, name: 王旭东, from: "2000-06", to: "2002-11", cite: p01-wiki-hebei-sec }
 - { prov: 河北, post: sec, name: 白克明, from: "2002-11", to: "2007-08", cite: p01-wiki-hebei-sec }
@@ -60,8 +60,8 @@
 - { prov: 河北, post: gov, name: 张庆伟, person: zhang-qingwei, from: "2012-01", to: "2017-04", cite: p01-wiki-zhang-qingwei }
 - { prov: 河北, post: gov, name: 许勤, from: "2017-04", to: "2017-04", acting: true, note: "代省长", cite: p01-wiki-xu-qin }
 - { prov: 河北, post: gov, name: 许勤, from: "2017-04", to: "2021-10", cite: p01-wiki-xu-qin }
-- { prov: 河北, post: gov, name: 王正谱, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-21-wang-zhengpu }
-- { prov: 河北, post: gov, name: 王正谱, from: "2022-01", cite: p01-wiki-wang-zhengpu }
+- { prov: 河北, post: gov, name: 王正谱, person: wang-zhengpu, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-21-wang-zhengpu }
+- { prov: 河北, post: gov, name: 王正谱, person: wang-zhengpu, from: "2022-01", cite: p01-wiki-wang-zhengpu }
 - { prov: 山西, post: sec, name: 田成平, from: "1999-06", to: "2005-06", cite: p01-wiki-tian-chengping }
 - { prov: 山西, post: sec, name: 张宝顺, person: zhang-baoshun, from: "2005-07", to: "2010-05", cite: p01-wiki-zhang-baoshun }
 - { prov: 山西, post: sec, name: 袁纯清, person: yuan-chunqing, from: "2010-05", to: "2014-09", cite: p02-wiki-yuan-chunqing }
@@ -91,8 +91,8 @@
 - { prov: 山西, post: gov, name: 蓝佛安, from: "2021-06", to: "2022-12", cite: p01-wiki-lan-foan }
 - { prov: 山西, post: gov, name: 金湘军, person: jin-xiangjun, from: "2022-12", to: "2023-01", acting: true, note: "代省长", cite: p01-xinhua-2022-12-30-jin-xiangjun }
 - { prov: 山西, post: gov, name: 金湘军, person: jin-xiangjun, from: "2023-01", to: "2025-04", cite: p01-wiki-jin-xiangjun }
-- { prov: 山西, post: gov, name: 卢东亮, from: "2025-06", to: "2025-06", acting: true, note: "代省长；金湘军2025年4月辞职后省长空缺约一个半月", cite: p01-xinhua-2025-06-03-lu-dongliang }
-- { prov: 山西, post: gov, name: 卢东亮, from: "2025-06", cite: p01-xinhua-2025-06-16-lu-dongliang }
+- { prov: 山西, post: gov, name: 卢东亮, person: lu-dongliang, from: "2025-06", to: "2025-06", acting: true, note: "代省长；金湘军2025年4月辞职后省长空缺约一个半月", cite: p01-xinhua-2025-06-03-lu-dongliang }
+- { prov: 山西, post: gov, name: 卢东亮, person: lu-dongliang, from: "2025-06", cite: p01-xinhua-2025-06-16-lu-dongliang }
 - { prov: 内蒙古, post: sec, name: 刘明祖, from: "1994-08", to: "2001-08", cite: p01-wiki-neimenggu-sec }
 - { prov: 内蒙古, post: sec, name: 储波, from: "2001-08", to: "2009-11", cite: p01-wiki-neimenggu-sec }
 - { prov: 内蒙古, post: sec, name: 胡春华, person: hu-chunhua, from: "2009-11", to: "2012-12", cite: p01-wiki-neimenggu-sec }
@@ -110,10 +110,10 @@
 - { prov: 内蒙古, post: gov, name: 巴特尔, from: "2009-01", to: "2016-03", cite: p01-wiki-bater }
 - { prov: 内蒙古, post: gov, name: 布小林, from: "2016-03", to: "2016-06", acting: true, note: "代主席", cite: p01-wiki-bu-xiaolin }
 - { prov: 内蒙古, post: gov, name: 布小林, from: "2016-06", to: "2021-08", cite: p01-wiki-bu-xiaolin }
-- { prov: 内蒙古, post: gov, name: 王莉霞, from: "2021-08", to: "2021-09", acting: true, note: "代主席", cite: p01-people-2021-08-05-wang-lixia }
-- { prov: 内蒙古, post: gov, name: 王莉霞, from: "2021-09", to: "2025-09", cite: p01-xinhua-2021-09-09-wang-lixia }
-- { prov: 内蒙古, post: gov, name: 包钢, from: "2025-10", to: "2025-10", acting: true, note: "代主席", cite: p01-xinhua-2025-10-13-bao-gang }
-- { prov: 内蒙古, post: gov, name: 包钢, from: "2025-10", cite: p01-xinhua-2025-10-18-bao-gang }
+- { prov: 内蒙古, post: gov, name: 王莉霞, person: wang-lixia, from: "2021-08", to: "2021-09", acting: true, note: "代主席", cite: p01-people-2021-08-05-wang-lixia }
+- { prov: 内蒙古, post: gov, name: 王莉霞, person: wang-lixia, from: "2021-09", to: "2025-09", cite: p01-xinhua-2021-09-09-wang-lixia }
+- { prov: 内蒙古, post: gov, name: 包钢, person: bao-gang, from: "2025-10", to: "2025-10", acting: true, note: "代主席", cite: p01-xinhua-2025-10-13-bao-gang }
+- { prov: 内蒙古, post: gov, name: 包钢, person: bao-gang, from: "2025-10", cite: p01-xinhua-2025-10-18-bao-gang }
 - { prov: 辽宁, post: sec, name: 闻世震, from: "1997-08", to: "2004-12", cite: p01-wiki-liaoning-sec }
 - { prov: 辽宁, post: sec, name: 李克强, person: li-keqiang, from: "2004-12", to: "2007-10", cite: p01-wiki-liaoning-sec }
 - { prov: 辽宁, post: sec, name: 张文岳, from: "2007-10", to: "2009-11", cite: p01-wiki-liaoning-sec }
@@ -140,8 +140,8 @@
 - { prov: 辽宁, post: gov, name: 刘宁, from: "2020-08", to: "2021-10", cite: p01-wiki-liu-ning }
 - { prov: 辽宁, post: gov, name: 李乐成, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-20-li-lecheng }
 - { prov: 辽宁, post: gov, name: 李乐成, from: "2022-01", to: "2025-03", note: "名录与传记作2025年2月调任工信部；任免消息为2025年3月1日辞去省长", cite: p01-wiki-li-lecheng }
-- { prov: 辽宁, post: gov, name: 王新伟, from: "2025-03", to: "2025-03", acting: true, note: "代省长", cite: p01-xinhua-2025-03-01-wang-xinwei }
-- { prov: 辽宁, post: gov, name: 王新伟, from: "2025-03", cite: p01-wiki-wang-xinwei }
+- { prov: 辽宁, post: gov, name: 王新伟, person: wang-xinwei, from: "2025-03", to: "2025-03", acting: true, note: "代省长", cite: p01-xinhua-2025-03-01-wang-xinwei }
+- { prov: 辽宁, post: gov, name: 王新伟, person: wang-xinwei, from: "2025-03", cite: p01-wiki-wang-xinwei }
 - { prov: 吉林, post: sec, name: 王云坤, from: "1998-09", to: "2006-12", cite: p01-wiki-jilin-sec }
 - { prov: 吉林, post: sec, name: 王珉, person: wang-min, from: "2006-12", to: "2009-11", cite: p01-wiki-jilin-sec }
 - { prov: 吉林, post: sec, name: 孙政才, person: sun-zhengcai, from: "2009-11", to: "2012-11", cite: p01-wiki-jilin-sec }
@@ -166,8 +166,8 @@
 - { prov: 吉林, post: gov, name: 景俊海, person: jing-junhai, from: "2018-01", to: "2020-11", cite: p01-wiki-jilin-gov }
 - { prov: 吉林, post: gov, name: 韩俊, from: "2020-11", to: "2021-01", acting: true, note: "代省长", cite: p01-xinhua-2020-11-25-han-jun }
 - { prov: 吉林, post: gov, name: 韩俊, from: "2021-01", to: "2023-04", cite: p01-wiki-han-jun }
-- { prov: 吉林, post: gov, name: 胡玉亭, from: "2023-04", to: "2023-05", acting: true, note: "代省长", cite: p01-xinhua-2023-04-02-hu-yuting }
-- { prov: 吉林, post: gov, name: 胡玉亭, from: "2023-05", cite: p01-wiki-hu-yuting }
+- { prov: 吉林, post: gov, name: 胡玉亭, person: hu-yuting, from: "2023-04", to: "2023-05", acting: true, note: "代省长", cite: p01-xinhua-2023-04-02-hu-yuting }
+- { prov: 吉林, post: gov, name: 胡玉亭, person: hu-yuting, from: "2023-05", cite: p01-wiki-hu-yuting }
 - { prov: 黑龙江, post: sec, name: 徐有芳, from: "1997-07", to: "2003-03", cite: p01-wiki-heilongjiang-sec }
 - { prov: 黑龙江, post: sec, name: 宋法棠, from: "2003-03", to: "2005-12", cite: p01-wiki-heilongjiang-sec }
 - { prov: 黑龙江, post: sec, name: 钱运录, from: "2005-12", to: "2008-04", cite: p01-wiki-heilongjiang-sec }
@@ -190,8 +190,8 @@
 - { prov: 黑龙江, post: gov, name: 王文涛, from: "2018-05", to: "2020-12", cite: p01-wiki-heilongjiang-gov }
 - { prov: 黑龙江, post: gov, name: 胡昌升, from: "2021-02", to: "2021-02", acting: true, note: "代省长", cite: p01-xinhua-2021-02-02-hu-changsheng }
 - { prov: 黑龙江, post: gov, name: 胡昌升, from: "2021-02", to: "2022-12", cite: p01-wiki-hu-changsheng }
-- { prov: 黑龙江, post: gov, name: 梁惠玲, from: "2022-12", to: "2023-01", acting: true, note: "代省长", cite: p01-people-2022-12-09-liang-huiling }
-- { prov: 黑龙江, post: gov, name: 梁惠玲, from: "2023-01", cite: p01-wiki-liang-huiling }
+- { prov: 黑龙江, post: gov, name: 梁惠玲, person: liang-huiling, from: "2022-12", to: "2023-01", acting: true, note: "代省长", cite: p01-people-2022-12-09-liang-huiling }
+- { prov: 黑龙江, post: gov, name: 梁惠玲, person: liang-huiling, from: "2023-01", cite: p01-wiki-liang-huiling }
 - { prov: 上海, post: sec, name: 黄菊, person: huang-ju, from: "1994-09", to: "2002-10", cite: p01-wiki-shanghai-sec }
 - { prov: 上海, post: sec, name: 陈良宇, person: chen-liangyu, from: "2002-10", to: "2006-09", cite: p01-wiki-shanghai-sec }
 - { prov: 上海, post: sec, name: 韩正, person: han-zheng, from: "2006-09", to: "2007-03", acting: true, note: "代理书记", cite: p01-wiki-shanghai-sec }
@@ -209,8 +209,8 @@
 - { prov: 上海, post: gov, name: 应勇, person: ying-yong, from: "2017-01", to: "2020-03", cite: p01-wiki-ying-yong }
 - { prov: 上海, post: gov, name: 龚正, person: gong-zheng, from: "2020-03", to: "2020-07", acting: true, note: "代市长", cite: p01-xinhua-2020-03-23-gong-zheng }
 - { prov: 上海, post: gov, name: 龚正, person: gong-zheng, from: "2020-07", to: "2026-09", cite: p01-xinhua-2020-07-21-gong-zheng }
-- { prov: 上海, post: gov, name: 朱忠明, from: "2026-09", to: "2026-09", acting: true, note: "代市长", cite: p01-xinhua-2026-09-04-zhu-zhongming }
-- { prov: 上海, post: gov, name: 朱忠明, from: "2026-09", cite: p01-xinhua-2026-09-30-zhu-zhongming }
+- { prov: 上海, post: gov, name: 朱忠明, person: zhu-zhongming, from: "2026-09", to: "2026-09", acting: true, note: "代市长", cite: p01-xinhua-2026-09-04-zhu-zhongming }
+- { prov: 上海, post: gov, name: 朱忠明, person: zhu-zhongming, from: "2026-09", cite: p01-xinhua-2026-09-30-zhu-zhongming }
 - { prov: 江苏, post: sec, name: 陈焕友, from: "1993-09", to: "2000-01", cite: p01-wiki-jiangsu-sec }
 - { prov: 江苏, post: sec, name: 回良玉, person: hui-liangyu, from: "2000-01", to: "2002-12", cite: p01-wiki-jiangsu-sec }
 - { prov: 江苏, post: sec, name: 李源潮, person: li-yuanchao, from: "2002-12", to: "2007-10", cite: p01-wiki-jiangsu-sec }
@@ -232,8 +232,8 @@
 - { prov: 江苏, post: gov, name: 吴政隆, from: "2017-07", to: "2021-10", cite: p01-wiki-wu-zhenglong }
 - { prov: 江苏, post: gov, name: 许昆林, person: xu-kunlin, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-20-xu-kunlin }
 - { prov: 江苏, post: gov, name: 许昆林, person: xu-kunlin, from: "2022-01", to: "2025-10", cite: p01-xinhua-2022-01-23-xu-kunlin }
-- { prov: 江苏, post: gov, name: 刘小涛, from: "2025-10", to: "2025-10", acting: true, note: "代省长", cite: p01-xinhua-2025-10-09-liu-xiaotao }
-- { prov: 江苏, post: gov, name: 刘小涛, from: "2025-10", cite: p01-xinhua-2025-10-14-liu-xiaotao }
+- { prov: 江苏, post: gov, name: 刘小涛, person: liu-xiaotao, from: "2025-10", to: "2025-10", acting: true, note: "代省长", cite: p01-xinhua-2025-10-09-liu-xiaotao }
+- { prov: 江苏, post: gov, name: 刘小涛, person: liu-xiaotao, from: "2025-10", cite: p01-xinhua-2025-10-14-liu-xiaotao }
 - { prov: 浙江, post: sec, name: 张德江, person: zhang-dejiang, from: "1998-09", to: "2002-11", cite: p01-wiki-zhejiang-sec }
 - { prov: 浙江, post: sec, name: 习近平, person: xi-jinping, from: "2002-11", to: "2007-03", cite: p01-wiki-zhejiang-sec }
 - { prov: 浙江, post: sec, name: 赵洪祝, person: zhao-hongzhu, from: "2007-03", to: "2012-11", cite: p01-wiki-zhejiang-sec }
@@ -257,8 +257,8 @@
 - { prov: 浙江, post: gov, name: 郑栅洁, person: zheng-shanjie, from: "2020-09", to: "2021-09", cite: f07-wiki-zheng-shanjie }
 - { prov: 浙江, post: gov, name: 王浩, from: "2021-09", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-09-30-wang-hao }
 - { prov: 浙江, post: gov, name: 王浩, from: "2022-01", to: "2024-12", cite: p01-wiki-wang-hao }
-- { prov: 浙江, post: gov, name: 刘捷, from: "2024-12", to: "2025-01", acting: true, note: "代省长", cite: p01-xinhua-2024-12-18-liu-jie }
-- { prov: 浙江, post: gov, name: 刘捷, from: "2025-01", cite: p01-wiki-liu-jie }
+- { prov: 浙江, post: gov, name: 刘捷, person: liu-jie, from: "2024-12", to: "2025-01", acting: true, note: "代省长", cite: p01-xinhua-2024-12-18-liu-jie }
+- { prov: 浙江, post: gov, name: 刘捷, person: liu-jie, from: "2025-01", cite: p01-wiki-liu-jie }
 - { prov: 安徽, post: sec, name: 回良玉, person: hui-liangyu, from: "1998-08", to: "1999-12", cite: p01-wiki-anhui-sec }
 - { prov: 安徽, post: sec, name: 王太华, from: "2000-01", to: "2004-12", cite: p01-wiki-anhui-sec }
 - { prov: 安徽, post: sec, name: 郭金龙, person: guo-jinlong, from: "2004-12", to: "2007-12", cite: p01-wiki-anhui-sec }
@@ -285,7 +285,7 @@
 - { prov: 安徽, post: gov, name: 李国英, from: "2016-09", to: "2017-01", acting: true, note: "代省长", cite: p01-wiki-li-guoying }
 - { prov: 安徽, post: gov, name: 李国英, from: "2017-01", to: "2021-02", cite: p01-wiki-anhui-gov }
 - { prov: 安徽, post: gov, name: 王清宪, from: "2021-02", to: "2026-09", note: "由省人代会补选为省长，未经代理期", cite: p01-people-2021-02-02-wang-qingxian }
-- { prov: 安徽, post: gov, name: 王东伟, from: "2026-09", acting: true, note: "代省长", cite: p01-xinhua-2026-09-23-wang-dongwei }
+- { prov: 安徽, post: gov, name: 王东伟, person: wang-dongwei, from: "2026-09", acting: true, note: "代省长", cite: p01-xinhua-2026-09-23-wang-dongwei }
 - { prov: 福建, post: sec, name: 陈明义, from: "1996-10", to: "2000-12", cite: p01-wiki-fujian-sec }
 - { prov: 福建, post: sec, name: 宋德福, from: "2000-12", to: "2004-02", note: "名录作2004年12月卸任；2004年2月起由卢展工代理书记（卢展工传记）", cite: p01-wiki-fujian-sec }
 - { prov: 福建, post: sec, name: 卢展工, from: "2004-02", to: "2004-12", acting: true, note: "代理书记", cite: p01-wiki-lu-zhangong }
@@ -310,8 +310,8 @@
 - { prov: 福建, post: gov, name: 唐登杰, from: "2018-01", to: "2020-07", cite: p01-wiki-tang-dengjie }
 - { prov: 福建, post: gov, name: 王宁, person: wang-ning-yunnan, from: "2020-07", to: "2020-09", acting: true, note: "代省长", cite: p01-xinhua-2020-07-02-wang-ning }
 - { prov: 福建, post: gov, name: 王宁, person: wang-ning-yunnan, from: "2020-09", to: "2021-10", cite: p01-xinhua-2020-09-15-wang-ning }
-- { prov: 福建, post: gov, name: 赵龙, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-22-zhao-long }
-- { prov: 福建, post: gov, name: 赵龙, from: "2022-01", note: "2026年9月起兼任省委书记", cite: p01-wiki-zhao-long }
+- { prov: 福建, post: gov, name: 赵龙, person: zhao-long, from: "2021-10", to: "2022-01", acting: true, note: "代省长", cite: p01-xinhua-2021-10-22-zhao-long }
+- { prov: 福建, post: gov, name: 赵龙, person: zhao-long, from: "2022-01", note: "2026年9月起兼任省委书记", cite: p01-wiki-zhao-long }
 - { prov: 江西, post: sec, name: 舒惠国, from: "1997-04", to: "2001-04", cite: p01-wiki-jiangxi-sec }
 - { prov: 江西, post: sec, name: 孟建柱, person: meng-jianzhu, from: "2001-04", to: "2007-11", cite: p01-wiki-jiangxi-sec }
 - { prov: 江西, post: sec, name: 苏荣, person: su-rong, from: "2007-11", to: "2013-03", cite: p01-wiki-jiangxi-sec }
@@ -352,5 +352,5 @@
 - { prov: 山东, post: gov, name: 龚正, person: gong-zheng, from: "2017-04", to: "2020-03", cite: f07-wiki-gong-zheng }
 - { prov: 山东, post: gov, name: 李干杰, person: li-ganjie, from: "2020-04", to: "2020-07", acting: true, note: "代省长", cite: p01-xinhua-2020-04-17-li-ganjie }
 - { prov: 山东, post: gov, name: 李干杰, person: li-ganjie, from: "2020-07", to: "2021-09", cite: p01-wiki-li-ganjie }
-- { prov: 山东, post: gov, name: 周乃翔, from: "2021-09", to: "2021-10", acting: true, note: "代省长", cite: p01-xinhua-2021-09-30-zhou-naixiang }
-- { prov: 山东, post: gov, name: 周乃翔, from: "2021-10", cite: p01-wiki-zhou-naixiang }
+- { prov: 山东, post: gov, name: 周乃翔, person: zhou-naixiang, from: "2021-09", to: "2021-10", acting: true, note: "代省长", cite: p01-xinhua-2021-09-30-zhou-naixiang }
+- { prov: 山东, post: gov, name: 周乃翔, person: zhou-naixiang, from: "2021-10", cite: p01-wiki-zhou-naixiang }
