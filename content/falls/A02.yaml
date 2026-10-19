@@ -1,0 +1,1539 @@
+# A02 fall cases: PLA / PAP generals and defence-industry leaders who fell, were recalled or went missing, first
+# public news 2023-01 or later (list: research/falls-list/A02.yaml). Person id → what the card's fall records do not
+# say (src/data/schema.ts CaseRecordSchema, research/howto-content.md §10).
+# Status policy: an official text saying 涉嫌严重违纪违法 (a notice, or the NPC gazette giving the reason for a recall)
+# keeps a card at purged / outcome probe; a recall, a removal from the CPPCC or the academies, or a long absence with no
+# official reason at all is status missing / outcome missing.
+
+# ───────── 中央军委 ─────────
+li-shangfu:
+  sys: army
+  grade: state
+  notice:
+    date: 2024-06-27
+    cite: b08-gov-2024-06-27-li-shangfu-expelled
+    quotes:
+      - 不履行全面从严治党政治责任，对抗组织审查
+      - 违规为本人和他人谋取人事利益
+      - 严重污染军队装备领域政治生态和行业领域风气
+  discipline: [political, organization]
+  trigger:
+    kind: chain
+    text: 通报称立案依据是“军委纪委监委查办案件中发现的问题线索”
+    cite: b08-gov-2024-06-27-li-shangfu-expelled
+  with:
+    - { id: wei-fenghe, name: 魏凤和, rel: colleague, text: 前任国防部长，2026 年 5 月 7 日与李尚福同日被军事法院判处死缓并终身监禁, cite: b08-gov-2026-05-07-wei-li-sentenced }
+    - { id: zhang-yulin, name: 张育林, rel: colleague, text: 李尚福任装备发展部部长时的副部长，2023 年 12 月被罢免全国人大代表, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { id: rao-wenmin, name: 饶文敏, rel: colleague, text: 装备发展部原副部长，与张育林同日被罢免全国人大代表, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+  politics:
+    level: linked
+    why: 编者分析：通报的定性集中在受贿、行贿和“严重污染军队装备领域政治生态和行业领域风气”，没有团伙一类的政治用语；但他是在主管装备采购五年之后、出任国防部长仅半年就被立案，同期装备发展部多名高级官员也被调查，本站把它看作装备采购系统清洗的一环，而不是单纯的个人贪腐。
+    cites: [b08-gov-2024-06-27-li-shangfu-expelled, b08-rfi-2023-09-15-li-probe]
+  voices:
+    - { voice: west, text: 法广转述路透社，对李尚福的调查与军事装备采购有关，他 2017—2022 年领导的装备发展部另有八名高级官员也在接受调查, cite: b08-rfi-2023-09-15-li-probe }
+  outcome: sentenced
+
+wei-fenghe:
+  sys: army
+  grade: state
+  retired: 2023-03
+  notice:
+    date: 2024-06-27
+    cite: c02-gov-2024-06-27-wei-fenghe-expelled
+    quotes:
+      - 信仰坍塌、忠诚失节
+      - 严重污染部队政治生态
+      - 违规为他人谋取人事利益
+  discipline: [political, organization, integrity]
+  trigger:
+    kind: chain
+    text: 通报称立案依据是“军委纪委监委查办案件中发现的问题线索”
+    cite: c02-gov-2024-06-27-wei-fenghe-expelled
+  with:
+    - { id: li-shangfu, name: 李尚福, rel: colleague, text: 继任国防部长，同日被开除党籍，2026 年同日宣判, cite: b08-gov-2026-05-07-wei-li-sentenced }
+  politics:
+    level: linked
+    why: 编者分析：魏凤和是火箭军（原第二炮兵）出身的首任火箭军司令员、2018—2023 年的国防部长。通报用了“信仰坍塌、忠诚失节”这样的重话，具体事实却只列人事、礼金和受贿；他的案子与 2023 年火箭军领导层突然整体换人一同浮出，本站把他看作火箭军案的顶端。
+    cites: [c02-gov-2024-06-27-wei-fenghe-expelled, f01-bbc-2023-08-01-rocket-force]
+  voices:
+    - { voice: west, text: 德国之声转述彭博社：美国情报评估以导弹中注水而非燃料、西部基地发射井井盖无法有效开合等例子说明火箭军贪腐的后果；该评估无法独立证实, cite: e06-dw-2024-01-07-water-missiles }
+  outcome: sentenced
+
+miao-hua:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 2024 年 11 月国防部宣布对其停职检查时只说“经党中央研究”，未说明线索来源
+    cite: b08-mod-2024-11-28-miao-suspended
+  with:
+    - { id: he-hongjun, name: 何宏军, rel: protege, text: 军委政治工作部常务副主任，苗华的副手，同批被开除党籍、军籍, cite: c03-zaobao-2025-10-18-nine-generals }
+    - { id: he-weidong, name: 何卫东, rel: colleague, text: 军委副主席，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: core
+    why: 编者分析：苗华长期在驻福建部队任政工干部，2017 年起任军委政治工作部主任、进入中央军委，掌管全军政治工作和干部；他先被停职检查，再与军委副主席何卫东等九人同批开除。主管将领任用的军委委员落马，意味着此前近十年的将领提拔链条整体受到审视，本站列为军委清洗的核心案。
+    cites: [b08-mod-2024-11-28-miao-suspended, b08-mod-2025-10-17-nine-generals, f02-dw-2025-10-20-nine-generals]
+  voices:
+    - { voice: west, text: 德国之声引述 2023 年五角大楼报告，称习近平在福建任职期间，苗华可能同他建立起密切的关系, cite: f02-dw-2025-10-20-nine-generals }
+    - { voice: west, text: 法广指出，2025 年 5 月公布的人大公报写明苗华因涉嫌严重违纪违法于 3 月 14 日被罢免全国人大代表，这是官方首度明确提到他涉嫌违法, cite: b08-rfi-2025-06-27-miao }
+  outcome: expelled
+  fall:
+    - { date: 2025-03-14, text: 中央军委政治工作部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+he-weidong:
+  sys: army
+  grade: state
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源；他 2025 年 3 月 11 日出席全国人大闭幕会后不再公开露面
+    cite: e06-rfi-2025-03-27-he-weidong
+  with:
+    - { id: miao-hua, name: 苗华, rel: colleague, text: 军委委员、政治工作部主任，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+    - { id: lin-xiangyang, name: 林向阳, rel: colleague, text: 东部战区原司令员，同批被开除；同批九人多有原南京军区或东部战区履历, cite: c03-zaobao-2025-10-18-nine-generals }
+  politics:
+    level: core
+    why: 编者分析：何卫东是军中“二号人物”，长期在原南京军区第 31 集团军任职，被认为与习近平关系密切。官方通报只说他“涉嫌严重职务犯罪，数额特别巨大”，没有政治定性；但同批开除的九人多出自原南京军区和东部战区，又与主管干部的苗华同案处理，本站列为军委清洗的核心案。
+    cites: [b08-mod-2025-10-17-nine-generals, f02-dw-2025-10-20-nine-generals, c03-zaobao-2025-10-18-nine-generals]
+  voices:
+    - { voice: west, text: 德国之声称何卫东被认为与习近平关系密切，自 2025 年 3 月两会后未在公开场合露面, cite: f02-dw-2025-10-20-nine-generals }
+    - { voice: west, text: 法广转述《华盛顿时报》，美国情报机构认为何卫东是解放军高层政治清洗的最新受害者；国防部发言人吴谦当时回应“没有这方面的消息，不了解这方面的情况”, cite: e06-rfi-2025-03-27-he-weidong }
+    - { voice: zh, text: 香港电台报道，2026 年第一号人大常委会公报写明何卫东因涉嫌严重违纪违法，2025 年 11 月被中央军委办公厅军人代表大会罢免全国人大代表, cite: a02-rthk-2026-02-26-he-weidong }
+  outcome: expelled
+  fall:
+    - { date: 2025-11-10, text: 中央军委办公厅召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+zhang-youxia:
+  sys: army
+  grade: state
+  notice:
+    date: 2026-09-21
+    cite: b08-mod-2026-09-21-zhang-liu-expelled
+    quotes:
+      - 背弃初心使命、与党离心离德、丧失党性原则、逾越红线底线
+      - 搞团团伙伙，对党不忠诚不老实
+      - 利用职务便利为他人职务晋升等提供帮助，收受巨额钱款
+      - 政治问题和经济问题交织，贪腐敛财与失职渎职并存，涉案金额特别巨大
+  discipline: [political, organization, integrity, work, life]
+  trigger:
+    kind: unknown
+    text: 2026 年 1 月 24 日国防部宣布立案时只说“经党中央研究”，未说明线索来源
+    cite: b08-mod-2026-01-24-zhang-liu-probe
+  with:
+    - { id: liu-zhenli, name: 刘振立, rel: colleague, text: 军委委员、联合参谋部参谋长，与张又侠同日立案、同日开除, cite: b08-mod-2026-09-21-zhang-liu-expelled }
+  politics:
+    level: core
+    why: 编者分析：通报写入“搞团团伙伙，对党不忠诚不老实”和“政治问题和经济问题交织”，《解放军报》社论更称他和刘振立“严重践踏破坏军委主席负责制”，这是对军委副主席最重的政治定性。张又侠是开国上将张宗逊之子、二十大上以 72 岁打破常规连任的军委第一副主席，他落马后本届中央军委只剩习近平和张升民两人，是 2024—2026 年军委清洗的顶点。
+    cites: [b08-mod-2026-09-21-zhang-liu-expelled, b08-mod-2026-01-24-pla-daily-editorial, b04-bbc-2026-01-zhang-youxia, e04-bbc-2026-09-21-cmc-two-left]
+  voices:
+    - { voice: west, text: BBC 指出张又侠是除习近平之外解放军实际排名最高的将领，父亲张宗逊曾与习近平之父习仲勋并肩作战；他是三个月内第二名被调查的军委副主席, cite: b04-bbc-2026-01-zhang-youxia }
+    - { voice: west, text: 美国之音引述前中情局分析员韦德宁，同日被处理的其他军官可能反映出习近平正在“清除张又侠在解放军领导层中的人脉网络”, cite: b08-voa-2026-08-28-zhang-liu }
+  outcome: expelled
+
+liu-zhenli:
+  sys: army
+  grade: general
+  notice:
+    date: 2026-09-21
+    cite: b08-mod-2026-09-21-zhang-liu-expelled
+    quotes:
+      - 搞团团伙伙，对党不忠诚不老实
+      - 利用职务便利为他人职务晋升等提供帮助，收受巨额钱款
+      - 政治问题和经济问题交织，贪腐敛财与失职渎职并存，涉案金额特别巨大
+  discipline: [political, organization, integrity, work, life]
+  trigger:
+    kind: unknown
+    text: 2026 年 1 月 24 日国防部宣布立案时只说“经党中央研究”，未说明线索来源
+    cite: b08-mod-2026-01-24-zhang-liu-probe
+  with:
+    - { id: zhang-youxia, name: 张又侠, rel: colleague, text: 军委副主席，与刘振立同日立案、同日开除，通报合并成文, cite: b08-mod-2026-09-21-zhang-liu-expelled }
+  politics:
+    level: core
+    why: 编者分析：刘振立 2023 年才接任联合参谋部参谋长，通报与张又侠合并成文，同样写入“搞团团伙伙，对党不忠诚不老实”，《解放军报》社论把两人并称“严重践踏破坏军委主席负责制”。官方把他放进张又侠一案处理，本站列为核心案。
+    cites: [b08-mod-2026-09-21-zhang-liu-expelled, b08-mod-2026-01-24-pla-daily-editorial]
+  voices:
+    - { voice: west, text: BBC 指出，随着张又侠、刘振立被开除，本届中央军委原有七名成员只剩习近平和张升民两人, cite: e04-bbc-2026-09-21-cmc-two-left }
+  outcome: expelled
+
+# ───────── 新建卡（content/people/A02.yaml） ─────────
+li-tongjian:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 北京市人大常委会的代表资格报告只写罢免原因，未说明线索来源
+    cite: a02-bjrd-2023-li-tongjian
+  politics:
+    level: linked
+    why: 编者分析：报告写明他“因涉嫌严重违纪和职务犯罪”被驻京部队罢免，时间是 2023 年 9 月 28 日，正值火箭军领导层被整体撤换之后；两天前，火箭军军人代表大会刚以涉嫌严重违纪违法为由罢免了火箭军原司令员李玉超、周亚宁和他的上级、装备部原部长吕宏的全国人大代表职务。作为火箭军装备部副部长，他应属同一条装备腐败线索。
+    cites: [a02-bjrd-2023-li-tongjian, a02-wikisource-npc-qualification-reports]
+  outcome: probe
+
+wu-yansheng:
+  sys: soe
+  grade: vice
+  trigger:
+    kind: unknown
+    text: 全国政协只公布撤销委员资格的决定，未说明原因
+    cite: k03-scol-2023-12-27-liu-shiquan-removed
+  with:
+    - { id: liu-shiquan, name: 刘石泉, rel: colleague, text: 兵器工业集团董事长，同日被撤销全国政协委员资格, cite: a02-caixin-2023-12-27-cppcc-three }
+    - { id: wang-changqing, name: 王长青, rel: colleague, text: 航天科工集团副总经理，同日被撤销全国政协委员资格, cite: a02-caixin-2023-12-27-cppcc-three }
+  politics:
+    level: linked
+    why: 编者分析：三名军工央企负责人在火箭军九将领被罢免全国人大代表的前两天同时被撤销政协委员资格，联合早报当时即称三人疑似卷入火箭军案；航天科技集团是战略导弹和运载火箭的主要研制方，本站把这一批归入火箭军—装备采购案的军工一侧。
+    cites: [a02-caixin-2023-12-27-cppcc-three, e04-zaobao-2023-12-30-npc-generals]
+  voices:
+    - { voice: zh, text: 联合早报称，撤销三名军工企业高层政协委员资格与罢免九名将领同周发生，三人也疑似卷入火箭军案, cite: e04-zaobao-2023-12-30-npc-generals }
+    - { voice: west, text: 自由亚洲电台专栏把吴燕生、刘石泉、王长青、王小军及袁洁、陈国瑛都列为火箭军窝案的同案犯；这是评论者的推断，官方从未如此表述, cite: k06-rfa-2024-04-15-yuan-jie }
+  outcome: missing
+
+wang-changqing:
+  sys: soe
+  grade: exec
+  trigger:
+    kind: unknown
+    text: 全国政协只公布撤销委员资格的决定，未说明原因
+    cite: k03-scol-2023-12-27-liu-shiquan-removed
+  with:
+    - { id: wu-yansheng, name: 吴燕生, rel: colleague, text: 航天科技集团董事长，同日被撤销全国政协委员资格, cite: a02-caixin-2023-12-27-cppcc-three }
+  politics:
+    level: linked
+    why: 编者分析：与吴燕生、刘石泉同日被撤销政协委员资格，时间紧挨火箭军九将领被罢免全国人大代表；航天科工集团是巡航导弹和防空导弹的主要研制方，本站把他归入火箭军—装备采购案的军工一侧。
+    cites: [a02-caixin-2023-12-27-cppcc-three, e04-zaobao-2023-12-30-npc-generals]
+  voices:
+    - { voice: zh, text: 联合早报称三名被撤销政协委员资格的军工企业高层疑似卷入火箭军案, cite: e04-zaobao-2023-12-30-npc-generals }
+  outcome: missing
+
+li-zhizhong-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 代表资格审查报告只写他因涉嫌严重违纪违法被陆军军人代表大会罢免；他 2021 年起任陆军装备部部长，但本站所见报道没有把他与火箭军、装备采购案或某位落马将领联系起来。
+    cites: [a02-wikisource-npc-qualification-reports, a02-wiki-li-zhizhong]
+  outcome: probe
+
+sun-bin-pla:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 代表资格审查报告只写他因涉嫌严重违纪违法被中央军委办公厅军人代表大会罢免；本站所见可靠报道未把这位军委审计署审计长、二十届中纪委委员与某一案件联系起来。
+    cites: [a02-wikisource-npc-qualification-reports, c03-xinhua-2025-10-28-npc-notice-13]
+  outcome: probe
+
+he-song-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 全国政协只公布撤销委员资格的决定，未说明原因
+    cite: k05-xinhua-2026-03-02-cppcc
+  politics:
+    level: none
+    why: 全国政协只公布撤销其委员资格，没有给出原因；本站所见报道未把他与某一案件联系起来。
+    cites: [k05-xinhua-2026-03-02-cppcc]
+  outcome: missing
+
+bian-ruifeng:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 人大常委会公报只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-zaobao-2026-04-18-nine-generals
+  politics:
+    level: linked
+    why: 编者分析：他由中央军委政治工作部军人代表大会罢免，此前该部主任苗华、常务副主任何宏军已被开除；作为政治工作部主任助理，他很可能是政工系统连带清理的一员。这是本站的推断，官方只说他涉嫌严重违纪违法。
+    cites: [f09-xinhua-2026-02-26-npc-notice-16, b08-mod-2025-10-17-nine-generals, a02-zaobao-2026-04-18-nine-generals]
+  outcome: probe
+
+yang-guang-pla:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 人大常委会公报只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-zaobao-2026-04-18-nine-generals
+  politics:
+    level: linked
+    why: 编者分析：他已调任湖北省军区，却仍由火箭军军人代表大会罢免，说明问题出在火箭军第 64 基地任上；这把火箭军案从领导机关延伸到了导弹基地一级。
+    cites: [f09-xinhua-2026-02-26-npc-notice-16, a02-zaobao-2026-04-18-nine-generals]
+  outcome: probe
+
+yang-longxi:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 青海省人大常委会公告只写罢免，未说明原因和线索来源
+    cite: a02-qinghai-2026-01-13-yang-longxi
+  politics:
+    level: none
+    why: 公告只写省军区军人代表大会罢免其省人大代表职务，没有给出原因；本站所见报道未把他与某一案件联系起来。
+    cites: [a02-qinghai-2026-01-13-yang-longxi]
+  outcome: missing
+
+# ───────── 2023：火箭军与装备发展部 ─────────
+li-yuchao:
+  sys: army
+  grade: general
+  notice:
+    date: 2024-07-18
+    cite: c03-gov-2024-07-18-third-plenum
+    quotes:
+      - 确认中央政治局之前作出的给予李尚福、李玉超、孙金明开除党籍的处分
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源；《南华早报》2023 年 7 月称军委纪委和军方审计部门对他展开调查
+    cite: c03-zaobao-2023-07-28-rocket-force
+  with:
+    - { id: liu-guangbin, name: 刘光斌, rel: colleague, text: 火箭军副司令员，据报与李玉超同时被带走, cite: c03-zaobao-2023-07-28-rocket-force }
+    - { id: zhang-zhenzhong, name: 张振中, rel: colleague, text: 火箭军前副司令员，据报与李玉超同时被带走, cite: c03-zaobao-2023-07-28-rocket-force }
+    - { id: zhou-yaning, name: 周亚宁, rel: colleague, text: 前任火箭军司令员，2023 年 9 月 26 日同日被火箭军军人代表大会罢免全国人大代表, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：2023 年 7 月中央军委突然把海军出身的王厚斌、空军出身的徐西盛晋升上将并接掌火箭军，间接证实李玉超和政委徐忠波离职；9 月 26 日火箭军前后两任司令员同日被罢免人大代表，年底才公告。这是习近平第三任期军中清洗的起点，以装备与导弹部队的腐败为主线，本站列为火箭军案的核心人物之一。
+    cites: [f01-bbc-2023-08-01-rocket-force, a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: west, text: BBC 称这是近十年来中国军方领导层最大的一次意料之外的改组，新任火箭军司令员和政委都从未在火箭军服役, cite: f01-bbc-2023-08-01-rocket-force }
+    - { voice: zh, text: 财新指出，李玉超是二十届中央委员中首名被官方确认涉嫌严重违纪违法者, cite: a02-caixin-2024-02-04-nine-generals }
+  outcome: expelled
+  fall:
+    - { date: 2023-09-26, text: 火箭军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+liu-guangbin:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: media
+    text: 只有《南华早报》2023 年 7 月引述知情人士的报道，官方从未提及
+    cite: c03-zaobao-2023-07-28-rocket-force
+  with:
+    - { id: li-yuchao, name: 李玉超, rel: colleague, text: 火箭军司令员，据报与刘光斌同时被带走，2024 年 7 月被确认开除党籍, cite: c03-zaobao-2023-07-28-rocket-force }
+  politics:
+    level: linked
+    why: 编者分析：与李玉超、张振中同时被报道带走，属于火箭军领导层整体出事的一部分；但与另外两人不同，他至今没有任何官方罢免或处分的记录。
+    cites: [c03-zaobao-2023-07-28-rocket-force]
+  outcome: missing
+  fall:
+    - { date: 2023-07, text: 联合早报转引《南华早报》称与李玉超、张振中一起被军委纪委调查人员带走, cite: c03-zaobao-2023-07-28-rocket-force }
+  status: missing
+  statusNote: 2023 年 7 月《南华早报》报道他与李玉超、张振中被军委纪委调查人员带走（联合早报转引）；此后本站未查到其公开露面，官方也从未公布罢免、立案或处分。
+
+zhang-zhenzhong:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源；《南华早报》2023 年 7 月称他与李玉超、刘光斌被调查
+    cite: c03-zaobao-2023-07-28-rocket-force
+  with:
+    - { id: li-yuchao, name: 李玉超, rel: colleague, text: 火箭军司令员，据报与张振中同时被带走, cite: c03-zaobao-2023-07-28-rocket-force }
+  politics:
+    level: linked
+    why: 编者分析：他 2022 年前任火箭军副司令员，后升任联合参谋部副参谋长，2023 年 7 月 7 日即被联合参谋部军人代表大会罢免，比火箭军两任司令员早两个半月，是火箭军案中最早被官方处置的一人。
+    cites: [c03-zaobao-2023-07-28-rocket-force, a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2023-07-07, text: 中央军委联合参谋部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 7 月 7 日中央军委联合参谋部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+zhou-yaning:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: li-yuchao, name: 李玉超, rel: colleague, text: 继任火箭军司令员，同日由火箭军军人代表大会罢免全国人大代表, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：火箭军第二任司令员，与第三任司令员李玉超同日被罢免，说明调查不止于现任领导，而是追溯到 2016 年组建火箭军以来的整条指挥链。
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报指出，全国人大常委会罢免九名将领时未透露原因, cite: e04-zaobao-2023-12-30-npc-generals }
+  outcome: probe
+  fall:
+    - { date: 2023-09-26, text: 火箭军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 9 月 26 日火箭军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、外事委员会副主任委员职务相应撤销，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+li-chuanguang:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: linked
+    why: 编者分析：火箭军原副司令员兼参谋长、十九届中央委员，比两任司令员晚两个多月、于 2023 年 12 月 5 日由火箭军军人代表大会罢免，同一份资格审查报告公布，属火箭军案的同一批。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2023-12-05, text: 火箭军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 12 月 5 日火箭军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+lyu-hong:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: linked
+    why: 编者分析：火箭军装备部原部长，与火箭军两任司令员同日被罢免；装备部正是采购腐败的经手部门，他的副手、装备部副部长李同建两天后也被罢免北京市人大代表。
+    cites: [a02-wikisource-npc-qualification-reports, a02-bjrd-2023-li-tongjian]
+  outcome: probe
+  fall:
+    - { date: 2023-09-26, text: 火箭军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 9 月 26 日火箭军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+zhang-yulin:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: li-shangfu, name: 李尚福, rel: patron, text: 时任装备发展部部长，2023 年 8 月被立案, cite: b08-rfi-2023-09-15-li-probe }
+    - { id: rao-wenmin, name: 饶文敏, rel: colleague, text: 装备发展部副部长，同日被罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：装备发展部原副部长，与另一副部长饶文敏同日由装备发展部军人代表大会罢免，印证路透社所说李尚福主管时期装备发展部多名高级官员被调查。
+    cites: [c03-xinhua-2023-12-29-npc-notice-2, b08-rfi-2023-09-15-li-probe]
+  outcome: probe
+  fall:
+    - { date: 2023-11-28, text: 中央军委装备发展部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 11 月 28 日中央军委装备发展部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大财经委委员职务相应撤销，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+rao-wenmin:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: li-shangfu, name: 李尚福, rel: patron, text: 时任装备发展部部长，2023 年 8 月被立案, cite: b08-rfi-2023-09-15-li-probe }
+    - { id: zhang-yulin, name: 张育林, rel: colleague, text: 装备发展部副部长，同日被罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：装备发展部原副部长，与张育林同日由装备发展部军人代表大会罢免，属李尚福装备采购案的同一批。
+    cites: [c03-xinhua-2023-12-29-npc-notice-2, b08-rfi-2023-09-15-li-probe]
+  outcome: probe
+  fall:
+    - { date: 2023-11-28, text: 中央军委装备发展部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 11 月 28 日中央军委装备发展部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+ju-xinchun:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 与火箭军将领在同一份资格审查报告中公布，但由海军军人代表大会决定，履历不在火箭军或装备系统；本站未见把他与火箭军案或某位靠山联系起来的可靠报道。
+    cites: [c03-xinhua-2023-12-29-npc-notice-2]
+  outcome: probe
+  fall:
+    - { date: 2023-11-27, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 11 月 27 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+ding-laihang:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 空军原司令员，与火箭军将领在同一份资格审查报告中公布，但由空军军人代表大会决定；本站未见把他与火箭军案或某一派系联系起来的可靠报道。
+    cites: [c03-xinhua-2023-12-29-npc-notice-2]
+  outcome: probe
+  fall:
+    - { date: 2023-12-04, text: 空军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2023 年 12 月 4 日空军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、华侨委员会副主任委员职务相应撤销，12 月 29 日全国人大常委会公告；未见立案或处分通报。
+
+liu-shiquan:
+  sys: soe
+  grade: vice
+  trigger:
+    kind: unknown
+    text: 全国政协只公布撤销委员资格的决定，未说明原因
+    cite: k03-scol-2023-12-27-liu-shiquan-removed
+  with:
+    - { id: wu-yansheng, name: 吴燕生, rel: colleague, text: 航天科技集团董事长，同日被撤销全国政协委员资格, cite: a02-caixin-2023-12-27-cppcc-three }
+  politics:
+    level: linked
+    why: 编者分析：巡航导弹专家出身、曾任航天科工总经理，与吴燕生、王长青同日被撤销政协委员资格，紧挨火箭军九将领被罢免，本站归入火箭军—装备采购案的军工一侧。
+    cites: [a02-caixin-2023-12-27-cppcc-three, e04-zaobao-2023-12-30-npc-generals]
+  voices:
+    - { voice: zh, text: 联合早报称三名被撤销政协委员资格的军工企业高层疑似卷入火箭军案, cite: e04-zaobao-2023-12-30-npc-generals }
+  outcome: missing
+  fall:
+    - { date: 2023-12-27, text: 全国政协十四届第十二次主席会议审议通过关于撤销吴燕生、刘石泉、王长青全国政协委员资格的决定, cite: k03-scol-2023-12-27-liu-shiquan-removed }
+  status: missing
+  statusNote: 2023 年 12 月 27 日全国政协主席会议撤销其全国政协委员资格，未说明原因；被撤销时仍为中国兵器工业集团董事长、党组书记（财新），此后本站未查到其公开露面，也没有立案或处分通报。
+
+sun-jinming:
+  sys: army
+  grade: lieutenant
+  notice:
+    date: 2024-07-18
+    cite: c03-gov-2024-07-18-third-plenum
+    quotes:
+      - 确认中央政治局之前作出的给予李尚福、李玉超、孙金明开除党籍的处分
+  trigger:
+    kind: unknown
+    text: 全会公报只写确认开除党籍，未说明立案时间和线索来源
+    cite: c03-gov-2024-07-18-third-plenum
+  with:
+    - { id: li-yuchao, name: 李玉超, rel: colleague, text: 火箭军原司令员，同一份全会公报确认开除党籍, cite: c03-gov-2024-07-18-third-plenum }
+  politics:
+    level: linked
+    why: 编者分析：火箭军原参谋长，在三中全会上与李尚福、李玉超一并被确认开除党籍，此前从未有官方消息，属火箭军案的同一批。
+    cites: [c03-gov-2024-07-18-third-plenum]
+  outcome: expelled
+
+yuan-jie:
+  sys: soe
+  grade: vice
+  trigger:
+    kind: unknown
+    text: 官方从未说明他去职的原因
+    cite: k06-rfa-2024-04-15-yuan-jie
+  with:
+    - { id: wu-yansheng, name: 吴燕生, rel: colleague, text: 袁洁在航天科技集团任总经理时的董事长，2023 年 12 月被撤销政协委员资格, cite: k06-rfa-2024-04-15-yuan-jie }
+  politics:
+    level: linked
+    why: 编者分析：二十届中央候补委员、航天科工集团董事长，2024 年 4 月被换下而官方不提其去向，前后正是航天科技、航天科工、兵器工业多名负责人被撤销政协委员资格之时，本站归入火箭军—装备采购案的军工一侧。
+    cites: [k06-rfa-2024-04-15-yuan-jie, a02-caixin-2023-12-27-cppcc-three]
+  voices:
+    - { voice: west, text: 自由亚洲电台专栏指出，2024 年 4 月 12 日中组部宣布陈锡明任航天科工董事长，消息只字未提袁洁，既未说明去处，也未说明是免职还是撤职, cite: k06-rfa-2024-04-15-yuan-jie }
+  outcome: missing
+
+# ───────── 2024 ─────────
+deng-zhiping:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: f10-npc-2024-09-13-deng-zhiping
+  politics:
+    level: none
+    why: 报告只写他因涉嫌严重违纪违法被陆军军人代表大会罢免；本站未见把他与火箭军案或某位落马上将联系起来的可靠报道。
+    cites: [f10-npc-2024-09-13-deng-zhiping]
+  voices:
+    - { voice: zh, text: 财新据代表资格审查委员会报告指出，陆军早在 2024 年 6 月 6 日就召开军人代表大会罢免了他，三个月后才见诸公告, cite: f10-caixin-2024-09-13-deng-zhiping }
+  outcome: probe
+
+you-haitao:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-scol-2024-12-you-li-reason
+  politics:
+    level: none
+    why: 尤太忠之子，已退休的陆军原副司令员；报告只写他涉嫌严重违纪违法，本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-scol-2024-12-you-li-reason, f10-rfi-2024-12-25-you-li]
+  voices:
+    - { voice: west, text: 法广指出尤海涛和李鹏程都是官方首次披露涉嫌严重违纪违法，尤海涛为前成都、广州军区司令员尤太忠之子, cite: f10-rfi-2024-12-25-you-li }
+  outcome: probe
+  fall:
+    - { date: 2024-11-29, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-scol-2024-12-you-li-reason }
+  statusNote: 2024 年 11 月 29 日陆军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大农业与农村委员会委员职务相应撤销；未见立案或处分通报。
+
+li-pengcheng:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-scol-2024-12-you-li-reason
+  politics:
+    level: none
+    why: 在任的南部战区副司令员兼战区海军司令员；报告只写他涉嫌严重违纪违法，本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-scol-2024-12-you-li-reason]
+  voices:
+    - { voice: west, text: 法广指出李鹏程 2024 年刚出任南部战区海军司令、升任海军中将，同年 11 月即被罢免, cite: f10-rfi-2024-12-25-you-li }
+  outcome: probe
+  fall:
+    - { date: 2024-11-25, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-scol-2024-12-you-li-reason }
+  statusNote: 2024 年 11 月 25 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务；未见立案或处分通报。
+
+# ───────── 2025 ─────────
+tang-yong-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源
+    cite: f10-xinhua-2025-03-26-cppcc-tang-yong
+  politics:
+    level: none
+    why: 全国政协只公布撤销其委员资格，没有任何违纪违法的官方说法；他 2023 年 12 月才升任中央军委纪委副书记，三个月后即出事。说他与苗华有关只是受访学者的推测，本站不据此归类。
+    cites: [f10-xinhua-2025-03-26-cppcc-tang-yong, f10-rfa-2025-03-28-tang-yong]
+  voices:
+    - { voice: zh, text: 自由亚洲电台引述学者方占豪，称唐勇被撤可能牵涉已落马的苗华等人，甚至可能涉嫌包庇大案、向违规军官通风报信, cite: f10-rfa-2025-03-28-tang-yong }
+    - { voice: zh, text: 自由亚洲电台引述袁红冰，称唐勇是苗华的死党，何卫东案也肯定受苗华案影响, cite: f10-rfa-2025-03-28-tang-yong }
+  outcome: missing
+  fall:
+    - { date: 2025-03-26, text: 全国政协主席会议审议通过撤销其全国政协委员资格的决定, cite: f10-xinhua-2025-03-26-cppcc-tang-yong }
+  status: missing
+  statusNote: 2025 年 3 月 26 日全国政协主席会议撤销其全国政协委员资格，未说明原因；他当时任中央军委纪委副书记，此后本站未查到其公开露面，也没有立案、处分或罢免通报。
+
+li-hanjun:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-guancha-2025-08-20-li-hanjun
+  politics:
+    level: none
+    why: 报告只写他因涉嫌严重违纪违法被海军军人代表大会罢免；他 2024 年 4 月还以海军参谋长身份出席活动。本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-guancha-2025-08-20-li-hanjun, f10-rfi-2025-06-27-li-hanjun]
+  voices:
+    - { voice: west, text: 法广指出，2014 年李汉军晋升海军少将时，晋衔仪式由时任海军政委苗华主持, cite: f10-rfi-2025-06-27-li-hanjun }
+  outcome: probe
+  fall:
+    - { date: 2025-05-06, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 5 月 6 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 27 日全国人大常委会公告；未见立案或处分通报。
+
+zhang-lin-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: gao-daguang, name: 高大光, rel: colleague, text: 联勤保障部队原政委，同日由后勤保障部军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 后勤保障部原部长，与联勤保障部队原政委高大光同日被罢免，属后勤系统的同一批；本站未见把这条线与火箭军案或军委高层联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2025-07-21, text: 中央军委后勤保障部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+gao-daguang:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: zhang-lin-pla, name: 张林, rel: colleague, text: 后勤保障部原部长，同日由后勤保障部军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 联勤保障部队原政委，与后勤保障部原部长张林同日被罢免，属后勤系统的同一批；本站未见进一步的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2025-07-21, text: 中央军委后勤保障部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+wang-zhibin:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: linked
+    why: 编者分析：报告称他为火箭军纪委原书记、监委原主任，罢免他的却是陆军军人代表大会，此前的去向未见公开；火箭军的纪检负责人本身出事，说明火箭军系统的清查在 2023 年那一批之后仍在继续。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2025-07-18, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+wang-chunning:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源；2025 年 7 月 25 日武警部队军人代表大会先以涉嫌严重违纪违法为由罢免其人大代表
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: he-weidong, name: 何卫东, rel: colleague, text: 军委副主席，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+    - { id: zhang-hongbing, name: 张红兵, rel: colleague, text: 武警部队政委，2025 年 10 月同由武警部队军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：王春宁不出自第 31 集团军，但长期在原南京军区任职，与何卫东同批开除；武警部队司令员、政委相隔三个月先后被罢免，武警领导层整体出事。
+    cites: [b08-mod-2025-10-17-nine-generals, c03-zaobao-2025-10-18-nine-generals, a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: west, text: BBC 指出王春宁虽不属于 31 军，但同属原南京军区，即军改后东部战区的前身, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+  fall:
+    - { date: 2025-07-25, text: 武警部队召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+he-hongjun:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: chain
+    text: 苗华 2024 年 11 月被停职检查，何宏军是他在军委政治工作部的副手，后与苗华同批开除
+    cite: c03-zaobao-2025-10-18-nine-generals
+  with:
+    - { id: miao-hua, name: 苗华, rel: patron, text: 军委政治工作部主任，何宏军是其副手，同批被开除, cite: c03-zaobao-2025-10-18-nine-generals }
+  politics:
+    level: core
+    why: 编者分析：作为军委政治工作部常务副主任，他与苗华共同掌管全军干部任免，是苗华案中仅次于苗华本人的一环；两人同批开除。
+    cites: [c03-zaobao-2025-10-18-nine-generals, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 指出何宏军曾在兰州军区、军委政治工作部担任苗华的下属或副手, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+  fall:
+    - { date: 2025-11-13, text: 中央军委政治工作部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+wang-xiubin:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源
+    cite: b08-mod-2025-10-17-nine-generals
+  with:
+    - { id: he-weidong, name: 何卫东, rel: colleague, text: 军委副主席，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: linked
+    why: 编者分析：王秀斌长期在原南京军区第 1 集团军任职，与何卫东同批开除；同批九人多有原南京军区或东部战区履历，本站把他归入何卫东一线。
+    cites: [c03-zaobao-2025-10-18-nine-generals, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 称何卫东、苗华、林向阳、秦树桐、王秀斌都出身于驻福建的 31 集团军, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+
+lin-xiangyang:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源
+    cite: b08-mod-2025-10-17-nine-generals
+  with:
+    - { id: he-weidong, name: 何卫东, rel: colleague, text: 军委副主席，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: linked
+    why: 编者分析：林向阳是东部战区司令员，即对台作战方向的主帅，与何卫东同批开除；同批九人多有原南京军区或东部战区履历，本站把他归入何卫东一线。
+    cites: [c03-zaobao-2025-10-18-nine-generals, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 称何卫东、苗华、林向阳、秦树桐、王秀斌都出身于驻福建的 31 集团军, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+
+qin-shutong:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源
+    cite: b08-mod-2025-10-17-nine-generals
+  with:
+    - { id: he-weidong, name: 何卫东, rel: colleague, text: 军委副主席，同批被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: linked
+    why: 编者分析：秦树桐长期在原南京军区任职，与何卫东同批开除，本站把他归入何卫东一线。
+    cites: [c03-zaobao-2025-10-18-nine-generals, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 称何卫东、苗华、林向阳、秦树桐、王秀斌都出身于驻福建的 31 集团军, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+
+yuan-huazhi:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源；2025 年 9 月 15 日海军军人代表大会先以涉嫌严重违纪违法为由罢免其人大代表
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: miao-hua, name: 苗华, rel: colleague, text: 前任海军政委、军委政治工作部主任，同批被开除, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: linked
+    why: 编者分析：袁华智曾任东部战区空军政委，后任海军政委，而苗华也曾任海军政委；两人同批开除，本站把他归入苗华一线。
+    cites: [c03-zaobao-2025-10-18-nine-generals, b08-mod-2025-10-17-nine-generals, f10-rfi-2025-06-27-li-hanjun]
+  voices:
+    - { voice: west, text: BBC 称袁华智长期在海军政治工作部门服役，是苗华担任海军政委时提拔的旧部, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+  fall:
+    - { date: 2025-09-15, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+
+wang-houbin:
+  sys: army
+  grade: general
+  notice:
+    date: 2025-10-17
+    cite: b08-mod-2025-10-17-nine-generals
+    quotes:
+      - 严重违反党的纪律，涉嫌严重职务犯罪，数额特别巨大，性质极为严重，影响极其恶劣
+  trigger:
+    kind: unknown
+    text: 官方未说明线索来源
+    cite: b08-mod-2025-10-17-nine-generals
+  with:
+    - { id: miao-hua, name: 苗华, rel: colleague, text: 军委政治工作部主任，同批被开除, cite: b08-mod-2025-10-17-nine-generals }
+    - { id: li-yuchao, name: 李玉超, rel: colleague, text: 前任火箭军司令员，2023 年出事后由王厚斌接任, cite: f01-bbc-2023-08-01-rocket-force }
+  politics:
+    level: linked
+    why: 编者分析：王厚斌是 2023 年 7 月从海军空降、接替李玉超掌管火箭军的人，两年后自己也被开除；火箭军接连两任司令员落马，说明当年的换人并没有把问题了结。
+    cites: [f01-bbc-2023-08-01-rocket-force, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 称王厚斌长期在海军任职，曾任东海舰队副参谋长，是苗华的海军旧部，后跨军种升任火箭军司令, cite: b04-bbc-2025-10-nine-generals }
+  outcome: expelled
+
+zhang-fengzhong:
+  sys: army
+  grade: lieutenant
+  notice:
+    date: 2025-10-23
+    cite: e04-gov-2025-10-23-4th-plenum
+    quotes:
+      - 中共中央军事委员会关于何卫东、苗华、何宏军、王秀斌、林向阳、秦树桐、袁华智、王春宁、张凤中严重违纪违法问题的审查报告
+  trigger:
+    kind: unknown
+    text: 官方未单独通报，只在四中全会公报中与何卫东等人一并确认开除党籍
+    cite: e04-gov-2025-10-23-4th-plenum
+  with:
+    - { id: miao-hua, name: 苗华, rel: colleague, text: 军委政治工作部主任，同一份军委审查报告, cite: e04-gov-2025-10-23-4th-plenum }
+  politics:
+    level: linked
+    why: 编者分析：张凤中是火箭军政治工作部原主任，没有出现在 10 月 17 日国防部公布的九人名单里，却被写进同一份军委审查报告，说明他的案子与何卫东、苗华一案一并处理；火箭军政工主官与主管全军政工的苗华属于同一条线。
+    cites: [e04-gov-2025-10-23-4th-plenum, b08-mod-2025-10-17-nine-generals]
+  outcome: expelled
+
+wang-peng-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 训练管理部原部长，与何卫东、何宏军等人在同一个月被各自单位的军人代表大会罢免；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2025-11-10, text: 中央军委训练管理部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 11 月 10 日中央军委训练管理部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 27 日全国人大常委会公告；未见立案或处分通报。
+
+wang-renhua:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 中央军委政法委原书记，军中执法系统的主官；与何卫东同日由各自单位的军人代表大会罢免，但本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2025-11-10, text: 中央军委政法委员会召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 10 月缺席四中全会后不再列为中央政法委委员；11 月 10 日中央军委政法委员会军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 27 日全国人大常委会公告；未见立案或处分通报。
+
+zhang-hongbing:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: wang-chunning, name: 王春宁, rel: colleague, text: 武警部队司令员，2025 年 7 月被罢免，10 月被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: linked
+    why: 编者分析：武警部队政委，与司令员王春宁先后被武警部队军人代表大会罢免，武警的军政主官同时出事。
+    cites: [a02-wikisource-npc-qualification-reports, b08-mod-2025-10-17-nine-generals]
+  voices:
+    - { voice: west, text: BBC 转引《星岛日报》，称 2025 年 7 月 31 日“八一”招待会上张红兵是七名缺席的上将之一, cite: a02-bbc-2025-10-fourth-plenum-absent }
+  outcome: probe
+  fall:
+    - { date: 2025-10-30, text: 武警部队召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 7 月 31 日缺席“八一”招待会（星岛日报，BBC 转引）；10 月 30 日武警部队军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，12 月 27 日全国人大常委会公告；未见立案或处分通报。
+
+cao-jianguo:
+  sys: soe
+  grade: vice
+  trigger:
+    kind: unknown
+    text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源
+    cite: k05-cna-2025-12-24-cppcc
+  politics:
+    level: none
+    why: 中国航发原董事长、弹道导弹专家，与另外七名军工、能源系统的委员同日被撤销政协委员资格；官方没有任何违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [k05-cna-2025-12-24-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称撤销委员资格代表他们涉及严重违纪违法被查落马；曹建国 2025 年 3 月突然从集团官网董事长一职被撤下，此后未露面, cite: k05-cna-2025-12-24-cppcc }
+  outcome: missing
+
+# ───────── 2026 ─────────
+wang-donghai:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 国防动员部原政委，与李桥铭等人在 2026 年 2 月同批被公告罢免；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+  outcome: probe
+  fall:
+    - { date: 2026-01-26, text: 中央军委国防动员部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 1 月 26 日中央军委国防动员部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+li-qiaoming:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: ding-laifu, name: 丁来富, rel: colleague, text: 陆军第 73 集团军原军长，同日由陆军军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 陆军原司令员、二十届中央委员，缺席 2025 年 10 月四中全会。有分析把他与同属陆军的张又侠联系起来，但联合早报采访的学者认为两人履历在时间上不太可能有交集，本站不据此归类。
+    cites: [f10-zaobao-2026-02-27-five-generals, a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报指出，有分析认为李桥铭军改后任北部战区副司令员兼战区陆军司令员，可能与曾任沈阳军区司令员的张又侠有过交集；寇健文则评估两人不太可能有交集, cite: f10-zaobao-2026-02-27-five-generals }
+  outcome: probe
+  fall:
+    - { date: 2026-01-19, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 3 月两会期间仍公开亮相，10 月缺席四中全会；2026 年 1 月 19 日陆军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+ding-laifu:
+  sys: army
+  grade: major
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: li-qiaoming, name: 李桥铭, rel: colleague, text: 陆军原司令员，同日由陆军军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 在任的陆军第 73 集团军军长，与陆军原司令员李桥铭同日被罢免；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2026-01-19, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 1 月 19 日陆军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+shen-jinlong:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: qin-shengxiang, name: 秦生祥, rel: colleague, text: 海军原政委，同日由海军军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 已退出一线的海军原司令员，报告写明其最后职务是中央军委战略规划委员会专职委员；与海军原政委秦生祥同日被罢免，海军前任军政主官同时出事。本站未见把他与某一派系联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+  voices:
+    - { voice: zh, text: 联合早报引述寇健文，称按惯例应让退休将领当完这届人大代表，近 70 岁时被拿下说明出事的可能性比较大, cite: f10-zaobao-2026-02-27-five-generals }
+  outcome: probe
+  fall:
+    - { date: 2026-01-13, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、财经委副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+qin-shengxiang:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: shen-jinlong, name: 沈金龙, rel: colleague, text: 海军原司令员，同日由海军军人代表大会罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 已退出一线的海军原政委，与海军原司令员沈金龙同日被罢免；本站未见把他与某一派系联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报引述寇健文，称按惯例应让退休将领当完这届人大代表，近 70 岁时被拿下说明出事的可能性比较大, cite: f10-zaobao-2026-02-27-five-generals }
+  outcome: probe
+  fall:
+    - { date: 2026-01-13, text: 海军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、社会建设委员会副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+yu-zhongfu:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 已退出一线的空军原政委；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报引述寇健文，称按惯例应让退休将领当完这届人大代表，近 70 岁时被拿下说明出事的可能性比较大, cite: f10-zaobao-2026-02-27-five-generals }
+  outcome: probe
+  fall:
+    - { date: 2025-12-22, text: 空军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 12 月 22 日空军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、环境与资源保护委员会副主任委员职务相应撤销，2026 年 2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+li-wei-pla:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 信息支援部队原政委、二十届中央委员，缺席 2025 年 10 月四中全会；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports, f10-zaobao-2026-02-27-five-generals]
+  outcome: probe
+  fall:
+    - { date: 2026-01-09, text: 信息支援部队召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  status: purged
+  statusNote: 2025 年 10 月缺席四中全会；2026 年 1 月 9 日信息支援部队军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+han-weiguo:
+  sys: army
+  grade: general
+  retired: 2021-06
+  trigger:
+    kind: unknown
+    text: 全国政协常委会只写撤销委员资格，未说明原因和线索来源
+    cite: f10-xinhua-2026-03-02-cppcc
+  with:
+    - { id: liu-lei-pla, name: 刘雷, rel: colleague, text: 陆军首任政委，同日被撤销全国政协委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  politics:
+    level: none
+    why: 已退役近五年的陆军原司令员，与陆军首任政委刘雷同日被撤销政协委员资格；官方没有违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [f10-xinhua-2026-03-02-cppcc]
+  outcome: missing
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、提案委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  status: missing
+  statusNote: 2021 年 6 月退出现役后任全国政协常委；2026 年 3 月 2 日全国政协常委会撤销其委员资格，未说明原因；此后本站未查到其公开露面，也没有立案或处分通报。
+
+liu-lei-pla:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 全国政协常委会只写撤销委员资格，未说明原因和线索来源
+    cite: f10-xinhua-2026-03-02-cppcc
+  with:
+    - { id: han-weiguo, name: 韩卫国, rel: colleague, text: 陆军原司令员，同日被撤销全国政协委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  politics:
+    level: none
+    why: 陆军首任政委，与陆军原司令员韩卫国同日被撤销政协委员资格，陆军首届军政主官同时出事；官方没有违纪违法的说法。
+    cites: [f10-xinhua-2026-03-02-cppcc]
+  outcome: missing
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、农业和农村委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  status: missing
+  statusNote: 2026 年 3 月 2 日全国政协常委会撤销其委员资格，未说明原因；此后本站未查到其公开露面，也没有立案或处分通报。
+
+gao-jin:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 全国政协常委会只写撤销委员资格，未说明原因和线索来源
+    cite: f10-xinhua-2026-03-02-cppcc
+  politics:
+    level: none
+    why: 战略支援部队首任司令员，2022 年 1 月提前卸任后勤保障部部长；官方没有违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [f10-xinhua-2026-03-02-cppcc]
+  outcome: missing
+  fall:
+    - { date: 2026-03-02, text: 全国政协常委会决定免去其全国政协常委、经济委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-03-02-cppcc }
+  status: missing
+  statusNote: 2022 年 1 月提前卸任后勤保障部部长后转任全国政协常委；2026 年 3 月 2 日全国政协常委会撤销其委员资格，未说明原因；此后本站未查到其公开露面，也没有立案或处分通报。
+
+zhao-zongqi:
+  sys: army
+  grade: general
+  retired: 2020-12
+  trigger:
+    kind: unknown
+    text: 全国政协常委会只写撤销委员资格，未说明原因和线索来源
+    cite: f10-xinhua-2026-08-26-cppcc
+  politics:
+    level: none
+    why: 西部战区首任司令员，2020 年到龄退役；官方没有违纪违法的说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [f10-xinhua-2026-08-26-cppcc]
+  outcome: missing
+  fall:
+    - { date: 2026-08-26, text: 全国政协常委会决定免去其全国政协常委、民族和宗教委员会副主任职务并撤销其委员资格, cite: f10-xinhua-2026-08-26-cppcc }
+  status: missing
+  statusNote: 2020 年 12 月到龄退役后任全国政协常委；2026 年 8 月 26 日全国政协常委会撤销其委员资格，未说明原因；此后本站未查到其公开露面，也没有立案或处分通报。
+
+liu-guozhi:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 中国科学院只是把他从院士名单中撤下，没有任何说明
+    cite: k05-zaobao-2026-03-20-cas
+  politics:
+    level: none
+    why: 中央军委科技委首任主任、高功率微波专家，2021 年已离任；同期歼-20 总设计师杨伟、中物院原院长刘仓理也从中科院名单中消失，属军工科研系统的同一波，但本站未见把他与某位落马高官联系起来的可靠报道。
+    cites: [k05-zaobao-2026-03-20-cas, a02-zaobao-2026-04-18-nine-generals]
+  voices:
+    - { voice: zh, text: 联合早报以“军工反腐持续”为题，把刘国治被除名与歼-20 总设计师杨伟被撤简历一并报道, cite: k05-zaobao-2026-03-20-cas }
+  outcome: missing
+
+zhao-xiaozhe:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 中国工程院只是把他从院士名单中撤下，没有任何说明
+    cite: k06-zaobao-2026-08-18-zhao-xiaozhe
+  with:
+    - { id: liu-guozhi, name: 刘国治, rel: colleague, text: 中央军委科技委前主任，2026 年 3 月被中科院除名, cite: k05-zaobao-2026-03-20-cas }
+  politics:
+    level: none
+    why: 二十届中央委员、中央军委科技委原主任；同一年里两位军委科技委主任先后被院士名单除名；本站未见把他与某位落马高官联系起来的可靠报道。
+    cites: [k06-zaobao-2026-08-18-zhao-xiaozhe, k05-zaobao-2026-03-20-cas]
+  outcome: missing
+
+xu-xueqiang:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: li-shangfu, name: 李尚福, rel: colleague, text: 前任装备发展部部长，许学强接替他的职务, cite: a02-zaobao-2026-08-07-six-generals }
+  politics:
+    level: linked
+    why: 编者分析：许学强接替李尚福执掌装备发展部，装备发展部此前已有张育林、饶文敏等人被罢免；部长本人出事，说明 2023 年起的装备采购清查一直追到了现任班子。
+    cites: [a02-zaobao-2026-08-07-six-generals, a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报引述丁树范，称六名将领可能涉及火箭军和装备发展部的反腐调查，军中反腐“可能是一串粽子挖出来”, cite: a02-zaobao-2026-08-07-six-generals }
+  outcome: probe
+  fall:
+    - { date: 2026-05-26, text: 中央军委装备发展部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 10 月起缺席四中全会等场合；2026 年 5 月 26 日中央军委装备发展部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+wang-kangping:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 联勤保障部队原司令员，由东部战区军人代表大会罢免；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: zh, text: 联合早报引述唐任伍，称六名将领具体问题估计还没调查清楚，但“涉嫌严重违纪违法”已明确问题性质, cite: a02-zaobao-2026-08-07-six-generals }
+  outcome: probe
+  fall:
+    - { date: 2026-05-29, text: 东部战区召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 5 月 29 日东部战区军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+li-fengbiao:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 西部战区政委、战略支援部队原司令员；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  voices:
+    - { voice: west, text: BBC 转引港台媒体，称 2025 年 8 月下旬习近平巡视新疆时，西部战区司令员汪海江、政委李凤彪均缺席, cite: a02-bbc-2025-10-fourth-plenum-absent }
+  outcome: probe
+  fall:
+    - { date: 2026-05-27, text: 西部战区召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 8 月下旬习近平巡视新疆时缺席（港台媒体，BBC 转引）；2026 年 5 月 27 日西部战区军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+yin-hongxing:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 南部战区陆军原政委，由陆军军人代表大会罢免；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2026-05-31, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 5 月 31 日陆军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+guo-puxiao:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: chang-dingqiu, name: 常丁求, rel: colleague, text: 空军司令员，同样逾半年未公开露面, cite: k05-cna-2026-07-03-air-force }
+  politics:
+    level: none
+    why: 空军政委，与空军司令员常丁求同时长期不露面，空军军政主官双双出事；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports, k05-cna-2026-07-03-air-force]
+  outcome: probe
+  fall:
+    - { date: 2026-05-25, text: 空军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2025 年 12 月缺席晋升上将仪式，至 2026 年 7 月逾半年未公开露面（中央社）；2026 年 5 月 25 日空军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+zhang-minghua:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 代表资格审查报告只写涉嫌严重违纪违法，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  politics:
+    level: none
+    why: 网络空间部队首任司令员；本站未见把他与某一派系或案件联系起来的可靠报道。
+    cites: [a02-wikisource-npc-qualification-reports]
+  outcome: probe
+  fall:
+    - { date: 2026-05-22, text: 网络空间部队召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+  statusNote: 2026 年 5 月 22 日网络空间部队军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，6 月 26 日全国人大常委会公告；未见立案或处分通报。
+
+chang-dingqiu:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 官方从未提及；只有中央社 2026 年 7 月报道他逾半年未公开露面、空军司令员已由王刚接任
+    cite: k05-cna-2026-07-03-air-force
+  with:
+    - { id: guo-puxiao, name: 郭普校, rel: colleague, text: 空军政委，同样逾半年未露面，2026 年 6 月被终止全国人大代表资格, cite: k05-cna-2026-07-03-air-force }
+  politics:
+    level: none
+    why: 空军司令员，与空军政委郭普校同时长期不露面；官方没有任何说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [k05-cna-2026-07-03-air-force, k06-zaobao-2026-08-03-fifth-plenum-generals]
+  outcome: missing
+
+ju-qiansheng:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 全国人大常委会公告只写罢免，未说明原因和线索来源
+    cite: c07-xinhua-2026-08-28-npc-deputies
+  politics:
+    level: none
+    why: 战略支援部队原司令员，与张又侠、刘振立同日被公告终止全国人大代表资格；公告没有给出原因，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [c07-xinhua-2026-08-28-npc-deputies]
+  voices:
+    - { voice: west, text: 美国之音引述美国中央情报局前分析员韦德宁，称与张又侠同时被处理的其他军官，可能反映习近平正在清除张又侠在解放军领导层中的人脉网络, cite: b08-voa-2026-08-28-zhang-liu }
+  outcome: missing
+  fall:
+    - { date: 2026-08-28, text: 全国人大常委会公告：信息支援部队军人代表大会决定罢免其第十四届全国人大代表职务, cite: c07-xinhua-2026-08-28-npc-deputies }
+  status: missing
+  statusNote: 2026 年 8 月 28 日全国人大常委会公告信息支援部队军人代表大会罢免其全国人大代表职务，未说明原因，载明原因的代表资格审查报告尚未见到；此前本站未查到其近期公开露面，也没有立案或处分通报。
+
+zhong-shaojun:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 全国人大常委会公告只写罢免，未说明原因和线索来源
+    cite: c07-xinhua-2026-08-28-npc-deputies
+  politics:
+    level: none
+    why: 编者分析：钟绍军长期担任习近平在浙江、上海和中央工作时的贴身秘书，2013 年起任军委办公厅主任；他与张又侠同日由中央军委办公厅军人代表大会罢免。公告没有给出原因，他与张又侠案是否相关无从判断，本站暂不归类。
+    cites: [c07-xinhua-2026-08-28-npc-deputies, b08-voa-2026-08-28-zhang-liu]
+  voices:
+    - { voice: west, text: 美国之音称被外界视为习近平军中重要亲信的钟绍军首次被证实出事，他 2025 年 10 月已被免去国防大学政委职务, cite: b08-voa-2026-08-28-zhang-liu }
+    - { voice: west, text: 美国之音引述美国中央情报局前分析员韦德宁，称与张又侠同时被处理的其他军官，可能反映习近平正在清除张又侠在解放军领导层中的人脉网络, cite: b08-voa-2026-08-28-zhang-liu }
+  outcome: missing
+  fall:
+    - { date: 2026-08-28, text: 中央军委办公厅军人代表大会决定罢免其第十四届全国人大代表职务，代表资格终止, cite: c07-xinhua-2026-08-28-npc-deputies }
+  status: missing
+  statusNote: 2025 年 10 月被免去国防大学政委职务（美国之音），2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；2026 年 8 月 28 日全国人大常委会公告中央军委办公厅军人代表大会罢免其全国人大代表职务，未说明原因，载明原因的代表资格审查报告尚未见到；没有立案或处分通报。
+
+# ───────── 长期未公开露面、官方无任何说法 ─────────
+liu-qingsong:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港媒据央视画面指出他未出现在 2025 年 10 月四中全会的报道中
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  with:
+    - { id: lin-xiangyang, name: 林向阳, rel: colleague, text: 东部战区司令员，2025 年 10 月被开除党籍、军籍, cite: b08-mod-2025-10-17-nine-generals }
+  politics:
+    level: none
+    why: 东部战区政委，同战区司令员林向阳已被开除；但他本人没有任何官方说法，本站不因同一战区共事而归类。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent, b08-mod-2025-10-17-nine-generals]
+  outcome: missing
+  statusNote: 2025 年 10 月四中全会的央视画面中未见其身影（星岛日报，BBC 转引）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+huang-ming-general:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港媒据央视画面指出他未出现在 2025 年 10 月四中全会的报道中
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  politics:
+    level: none
+    why: 北部战区司令员，没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent]
+  outcome: missing
+  statusNote: 2025 年 10 月四中全会的央视画面中未见其身影（星岛日报，BBC 转引）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+hu-zhongming:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有媒体报道他缺席 2025 年 10 月四中全会和 11 月福建舰服役仪式
+    cite: a02-cna-2025-11-14-ft-fujian
+  politics:
+    level: none
+    why: 海军司令员，没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-cna-2025-11-14-ft-fujian]
+  voices:
+    - { voice: west, text: 中央社转述《金融时报》，称福建舰服役仪式上海军司令员胡中明和南部战区司令员吴亚男、政委王文全异常缺席，外界普遍认为缺席将领多数正在接受调查, cite: a02-cna-2025-11-14-ft-fujian }
+  outcome: missing
+  statusNote: 2025 年 10 月缺席四中全会，11 月缺席福建舰服役仪式（金融时报，中央社转述）；2026 年 8 月仍在联合早报梳理的久未公开露面将领名单中；官方未通报其去向。
+
+wu-yanan:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有媒体报道他缺席 2025 年 10 月四中全会和 11 月福建舰服役仪式
+    cite: a02-cna-2025-11-14-ft-fujian
+  with:
+    - { id: wang-wenquan, name: 王文全, rel: colleague, text: 南部战区政委，同样缺席福建舰服役仪式, cite: a02-cna-2025-11-14-ft-fujian }
+  politics:
+    level: none
+    why: 南部战区司令员，与战区政委王文全同时不露面；没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-cna-2025-11-14-ft-fujian]
+  outcome: missing
+  statusNote: 2025 年 10 月缺席四中全会，11 月缺席在海南三亚举行的福建舰服役仪式（金融时报，中央社转述）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+wang-wenquan:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有媒体报道他缺席 2025 年 11 月福建舰服役仪式
+    cite: a02-cna-2025-11-14-ft-fujian
+  with:
+    - { id: wu-yanan, name: 吴亚男, rel: colleague, text: 南部战区司令员，同样缺席福建舰服役仪式, cite: a02-cna-2025-11-14-ft-fujian }
+  politics:
+    level: none
+    why: 南部战区政委，与战区司令员吴亚男同时不露面；没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-cna-2025-11-14-ft-fujian]
+  outcome: missing
+  statusNote: 最后一次见诸官方画面是 2025 年 10 月四中全会（BBC 据央视画面）；11 月缺席福建舰服役仪式（金融时报，中央社转述）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+wang-haijiang:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港台媒体报道他缺席 2025 年 8 月下旬习近平视察新疆的活动
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  with:
+    - { id: li-fengbiao, name: 李凤彪, rel: colleague, text: 西部战区政委，同样缺席，2026 年 5 月以涉嫌严重违纪违法被罢免全国人大代表, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 西部战区司令员，战区政委李凤彪已被罢免；他本人没有任何官方说法，本站不因同一战区共事而归类。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent, a02-wikisource-npc-qualification-reports]
+  outcome: missing
+  statusNote: 2025 年 8 月下旬习近平视察新疆时缺席（港台媒体，BBC 转引）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+wang-kai-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港台媒体报道他缺席 2025 年 8 月下旬习近平视察新疆的活动
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  politics:
+    level: none
+    why: 西藏军区司令员，没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent]
+  outcome: missing
+  statusNote: 2025 年 8 月下旬习近平视察新疆时缺席（港台媒体，BBC 转引）；2026 年 8 月仍在联合早报梳理的久未公开露面将领名单中；官方未通报其去向。
+
+wang-qiang-pla:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港新媒体指出他未获选任 2025 年 9 月 3 日阅兵指挥官
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  with:
+    - { id: xu-deqing, name: 徐德清, rel: colleague, text: 中部战区政委，同样未获选任阅兵指挥官, cite: a02-bbc-2025-10-fourth-plenum-absent }
+  politics:
+    level: none
+    why: 中部战区司令员，与战区政委徐德清同时不露面；没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent]
+  outcome: missing
+  statusNote: 2025 年 9 月 3 日阅兵未获选任指挥官，改由比他低级的空军将领担任（港新媒体，BBC 转引）；2026 年 8 月仍在联合早报梳理的久未公开露面将领名单中；官方未通报其去向。
+
+xu-deqing:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有港新媒体指出他未获选任 2025 年 9 月 3 日阅兵指挥官
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  with:
+    - { id: wang-qiang-pla, name: 王强, rel: colleague, text: 中部战区司令员，同样未获选任阅兵指挥官, cite: a02-bbc-2025-10-fourth-plenum-absent }
+  politics:
+    level: none
+    why: 中部战区政委，与战区司令员王强同时不露面；没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent]
+  outcome: missing
+  statusNote: 2025 年 9 月 3 日阅兵未获选任指挥官（港新媒体，BBC 转引）；2026 年 8 月仍在明报梳理的久未公开露面将领名单中（联合早报转述）；官方未通报其去向。
+
+yang-cheng-pla:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: media
+    text: 官方从未提及；只有联合早报指出他缺席 2025 年 9 月下旬习近平在新疆接见军方代表的活动
+    cite: a02-bbc-2025-10-fourth-plenum-absent
+  politics:
+    level: none
+    why: 新疆军区政委，没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [a02-bbc-2025-10-fourth-plenum-absent]
+  outcome: missing
+  statusNote: 2025 年 9 月下旬习近平在新疆接见军方代表时缺席（联合早报，BBC 转引）；2026 年 8 月仍在联合早报梳理的久未公开露面将领名单中；官方未通报其去向。
+
+xu-xisheng:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有联合早报 2026 年 8 月把他列为久未公开露面的将领
+    cite: k06-zaobao-2026-08-03-fifth-plenum-generals
+  with:
+    - { id: wang-houbin, name: 王厚斌, rel: colleague, text: 2023 年 7 月与他同时晋升上将、接掌火箭军，2025 年 10 月被开除党籍、军籍, cite: f01-bbc-2023-08-01-rocket-force }
+  politics:
+    level: none
+    why: 编者分析：徐西盛与王厚斌是 2023 年火箭军案后同时空降的火箭军新班子，王厚斌已被开除，他也久不露面；但他本人没有任何官方说法，本站暂不归类。
+    cites: [f01-bbc-2023-08-01-rocket-force, k06-zaobao-2026-08-03-fifth-plenum-generals]
+  outcome: missing
+  statusNote: 2026 年 8 月在联合早报梳理的久未公开露面将领名单中；本站未查到其最后一次公开露面的时间；官方未通报其去向。
+
+xu-qiling:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有联合早报 2026 年 8 月把他列为久未公开露面的将领
+    cite: k06-zaobao-2026-08-03-fifth-plenum-generals
+  politics:
+    level: none
+    why: 联合参谋部副参谋长（正战区职），没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [k06-zaobao-2026-08-03-fifth-plenum-generals]
+  outcome: missing
+  statusNote: 2026 年 8 月在联合早报梳理的久未公开露面将领名单中；本站未查到其最后一次公开露面的时间；官方未通报其去向。
+
+yang-xuejun:
+  sys: army
+  grade: general
+  trigger:
+    kind: media
+    text: 官方从未提及；只有联合早报 2026 年 8 月把他列为久未公开露面的将领
+    cite: k06-zaobao-2026-08-03-fifth-plenum-generals
+  politics:
+    level: none
+    why: 军事科学院原院长、天河超级计算机总设计师；维基百科记其 2025 年 11 月改任中央军委战略规划委员会专职委员，与被罢免的沈金龙最后职务相同。他本人没有任何官方说法，本站未见把他与某一案件联系起来的可靠报道。
+    cites: [k04-wiki-yang-xuejun, k06-zaobao-2026-08-03-fifth-plenum-generals, a02-wikisource-npc-qualification-reports]
+  outcome: missing
+  fall:
+    - { date: 2026-08-03, text: 联合早报梳理二十届五中全会前久未公开露面的将领，把他列入其中, cite: k06-zaobao-2026-08-03-fifth-plenum-generals }
+  status: missing
+  statusNote: 维基百科记其 2025 年 11 月改任中央军委战略规划委员会专职委员；2026 年 8 月在联合早报梳理的久未公开露面将领名单中，本站未查到其最后一次公开露面的时间；官方未通报其去向。
+
+liu-faqing:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: media
+    text: 官方从未提及；只有联合早报 2026 年 8 月把他列为久未公开露面的将领
+    cite: k06-zaobao-2026-08-03-fifth-plenum-generals
+  with:
+    - { id: wang-donghai, name: 王东海, rel: colleague, text: 国防动员部原政委，2026 年 1 月以涉嫌严重违纪违法被罢免全国人大代表, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 国防动员部原部长，同部政委王东海已被罢免；他本人没有任何官方说法，本站不因同一单位共事而归类。
+    cites: [k06-zaobao-2026-08-03-fifth-plenum-generals, a02-wikisource-npc-qualification-reports]
+  outcome: missing
+  statusNote: 维基百科称其不迟于 2025 年 11 月卸任国防动员部部长；2026 年 8 月在联合早报梳理的久未公开露面将领名单中；官方未通报其去向。

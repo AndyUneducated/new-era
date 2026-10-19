@@ -1,0 +1,172 @@
+# A02: generals and defence-industry leaders who fell, were recalled or went missing from 2023 on and had no card yet.
+# Their case records are in content/falls/A02.yaml; the full list is research/falls-list/A02.yaml.
+
+- id: li-tongjian
+  name: 李同建
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2023 年 9 月 28 日驻京部队军人代表大会以其涉嫌严重违纪和职务犯罪为由，罢免其北京市人大代表职务；此后未见军方公布立案、处分或审判结果。
+  fall:
+    - { date: 2023-09-28, text: 驻京部队召开军人代表大会，以其涉嫌严重违纪和职务犯罪为由罢免其北京市第十六届人大代表职务；11 月 24 日北京市人大常委会通过代表资格报告, cite: a02-bjrd-2023-li-tongjian }
+  tier: 2
+  headline: 火箭军装备部原副部长，少将
+  ids: { wikidata: Q134507095 }
+  bio: >-
+    火箭军少将，曾任火箭军装备部副部长，由驻京解放军和武警部队选为北京市第十六届人大代表。2023 年 9 月 28 日因涉嫌严重违纪和职务犯罪被罢免代表职务，两天前火箭军军人代表大会刚罢免了两任火箭军司令员和装备部部长吕宏的全国人大代表职务。
+  positions:
+    - { title: 火箭军装备部副部长, sys: army, cite: a02-wiki-li-tongjian }
+  cites: [wd-Q134507095, a02-wiki-li-tongjian, a02-bjrd-2023-li-tongjian]
+
+- id: wu-yansheng
+  name: 吴燕生
+  gender: m
+  born: 1963-07
+  birthplace: 湖北汉阳
+  roles: [tiger]
+  status: missing
+  statusNote: 2023 年 12 月 27 日全国政协主席会议撤销其全国政协委员资格，未说明原因；被撤销时仍为中国航天科技集团董事长、党组书记（财新），此后本站未查到其公开露面，也没有立案或处分通报。
+  fall:
+    - { date: 2023-12-27, text: 全国政协十四届第十二次主席会议审议通过关于撤销吴燕生、刘石泉、王长青全国政协委员资格的决定, cite: k03-scol-2023-12-27-liu-shiquan-removed }
+  tier: 2
+  headline: 中国航天科技集团原董事长，2023 年 12 月被撤销全国政协委员资格
+  ids: { wikidata: Q104722296 }
+  bio: >-
+    湖北汉阳人，清华大学工学博士，航天科学家。曾任中国航天科技集团总经理、董事长、党组书记，中国宇航学会理事长、载人航天工程副总指挥。2023 年 12 月与刘石泉、王长青同日被撤销全国政协委员资格，官方未说明原因。
+  positions:
+    - { title: 中国航天科技集团有限公司董事长、党组书记, sys: other, cite: a02-caixin-2023-12-27-cppcc-three }
+  cites: [wd-Q104722296, a02-wiki-wu-yansheng, a02-caixin-2023-12-27-cppcc-three, k03-scol-2023-12-27-liu-shiquan-removed]
+
+- id: wang-changqing
+  name: 王长青
+  gender: m
+  roles: [tiger]
+  status: missing
+  statusNote: 2023 年 12 月 27 日全国政协主席会议撤销其全国政协委员资格，未说明原因；被撤销时任中国航天科工集团副总经理、党组成员（财新），此后本站未查到其公开露面，也没有立案或处分通报。
+  fall:
+    - { date: 2023-12-27, text: 全国政协十四届第十二次主席会议审议通过关于撤销吴燕生、刘石泉、王长青全国政协委员资格的决定, cite: k03-scol-2023-12-27-liu-shiquan-removed }
+  tier: 2
+  headline: 中国航天科工集团原副总经理，2023 年 12 月被撤销全国政协委员资格
+  bio: >-
+    中国航天科工集团有限公司副总经理、党组成员，全国政协委员。2023 年 12 月 27 日与航天科技集团董事长吴燕生、兵器工业集团董事长刘石泉同日被撤销全国政协委员资格，官方未说明原因。
+  positions:
+    - { title: 中国航天科工集团有限公司副总经理、党组成员, sys: other, cite: a02-caixin-2023-12-27-cppcc-three }
+  cites: [a02-caixin-2023-12-27-cppcc-three, k03-scol-2023-12-27-liu-shiquan-removed]
+
+- id: li-zhizhong-pla
+  name: 李志忠
+  gender: m
+  birthplace: 辽宁黑山
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2024 年 1 月 22 日陆军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 27 日全国人大常委会公告；维基百科记其 2023 年 5 月刚升任中部战区副司令员。此后未见立案、处分或审判通报。
+  fall:
+    - { date: 2024-01-22, text: 陆军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2024-02-27, text: 全国人大常委会公告其代表资格终止, cite: a02-xinhua-2024-02-27-npc-notice-3 }
+  tier: 2
+  headline: 中部战区原副司令员，中将
+  ids: { wikidata: Q47673706 }
+  bio: >-
+    辽宁黑山人，长期在沈阳军区服役，历任第 39 集团军副军长、第 71 集团军副军长、南部战区陆军参谋长、陆军装备部部长，2023 年 5 月升任中部战区副司令员、晋升中将。2024 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 陆军第39集团军副军长, sys: army, from: 2015, to: 2017, cite: a02-wiki-li-zhizhong }
+    - { title: 陆军第71集团军副军长, sys: army, from: 2017, to: 2018-07, cite: a02-wiki-li-zhizhong }
+    - { title: 南部战区陆军参谋长, sys: army, from: 2018-07, to: 2021, cite: a02-wiki-li-zhizhong }
+    - { title: 陆军装备部部长, sys: army, from: 2021, to: 2023-05, cite: a02-wiki-li-zhizhong }
+    - { title: 中部战区副司令员, sys: army, from: 2023-05, cite: a02-wiki-li-zhizhong }
+  cites: [wd-Q47673706, a02-wiki-li-zhizhong, a02-xinhua-2024-02-27-npc-notice-3, a02-wikisource-npc-qualification-reports]
+
+- id: sun-bin-pla
+  name: 孙斌
+  gender: m
+  born: 1968
+  roles: [ccdi, tiger, general]
+  status: purged
+  statusNote: 2025 年 9 月 16 日中央军委办公厅军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，10 月 28 日全国人大常委会公告；此后未见立案、处分或审判通报。
+  fall:
+    - { date: 2025-09-16, text: 中央军委办公厅召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2025-10-28, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2025-10-28-npc-notice-13 }
+  tier: 2
+  headline: 中央军委审计署原审计长，二十届中纪委委员，少将
+  bio: >-
+    1968 年生，解放军少将，历任中央军委审计署副审计长、审计长，二十届中央纪委委员，2018 年至 2020 年兼任中国审计学会副会长。2025 年 9 月因涉嫌严重违纪违法被罢免全国人大代表。
+  positions:
+    - { title: 中央军委审计署审计长, sys: army, cite: a02-wiki-sun-bin-pla }
+  cites: [a02-wiki-sun-bin-pla, c03-xinhua-2025-10-28-npc-notice-13, a02-wikisource-npc-qualification-reports]
+
+- id: he-song-pla
+  name: 何松
+  gender: m
+  roles: [tiger, general]
+  status: missing
+  statusNote: 2026 年 2 月 6 日全国政协主席会议决定撤销其全国政协委员资格，3 月 2 日常委会追认，均未说明原因；本站未查到立案或处分通报，也未查到此后的公开露面。
+  fall:
+    - { date: 2026-02-06, text: 全国政协主席会议通过关于撤销何松全国政协委员资格的决定, cite: a02-wiki-he-song }
+    - { date: 2026-03-02, text: 全国政协常委会会议追认关于撤销其全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 中央军委后勤保障部原副部长，2026 年被撤销全国政协委员资格
+  bio: >-
+    曾任中央军委后勤保障部副部长，全国政协委员。2026 年 2 月全国政协主席会议决定撤销其委员资格，3 月常委会追认，官方未说明原因。
+  positions:
+    - { title: 中央军委后勤保障部副部长, sys: army, cite: a02-wiki-he-song }
+  cites: [a02-wiki-he-song, k05-xinhua-2026-03-02-cppcc]
+
+- id: bian-ruifeng
+  name: 边瑞峰
+  gender: m
+  born: 1969
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 1 月 23 日中央军委政治工作部军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告，原因到 4 月公报才公开；未见立案或处分通报。
+  fall:
+    - { date: 2026-01-23, text: 中央军委政治工作部召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2026-02-26, text: 全国人大常委会公告其代表资格终止, cite: f09-xinhua-2026-02-26-npc-notice-16 }
+  tier: 2
+  headline: 中央军委政治工作部原主任助理，少将
+  ids: { wikidata: Q140410398 }
+  bio: >-
+    1969 年生，曾任北京卫戍区某警卫师政委、某特战旅政委、第 73 集团军政治工作部主任，2019 年晋升少将，不晚于 2024 年 12 月任中央军委政治工作部主任助理。2026 年 2 月被罢免全国人大代表。
+  positions:
+    - { title: 北京卫戍区某警卫师政治委员, sys: army, from: 2013, cite: a02-wiki-bian-ruifeng }
+    - { title: 陆军第73集团军政治工作部主任, sys: army, cite: a02-wiki-bian-ruifeng }
+    - { title: 中央军委政治工作部主任助理, sys: army, cite: a02-wiki-bian-ruifeng }
+  cites: [wd-Q140410398, a02-wiki-bian-ruifeng, f09-xinhua-2026-02-26-npc-notice-16, a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+
+- id: yang-guang-pla
+  name: 杨光
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2026 年 1 月 19 日火箭军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，2 月 26 日全国人大常委会公告；4 月公报写明其最后职务为湖北省军区正职副司令员。未见立案或处分通报。
+  fall:
+    - { date: 2026-01-19, text: 火箭军召开军人代表大会，以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2026-02-26, text: 全国人大常委会公告其代表资格终止, cite: f09-xinhua-2026-02-26-npc-notice-16 }
+  tier: 2
+  headline: 火箭军第 64 基地原司令员、湖北省军区原副司令员，少将
+  bio: >-
+    火箭军少将，曾任火箭军第 64 基地司令员，此后转任湖北省军区正职副司令员。2026 年 1 月仍由火箭军军人代表大会罢免其全国人大代表职务，4 月人大常委会公报披露其涉嫌严重违纪违法。
+  positions:
+    - { title: 火箭军第64基地司令员, sys: army, cite: a02-zaobao-2026-04-18-nine-generals }
+    - { title: 湖北省军区副司令员, sys: army, place: 湖北, cite: a02-zaobao-2026-04-18-nine-generals }
+  cites: [f09-xinhua-2026-02-26-npc-notice-16, a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+
+- id: yang-longxi
+  name: 杨龙溪
+  gender: m
+  born: 1966-05
+  birthplace: 福建惠安
+  roles: [tiger, general]
+  status: missing
+  statusNote: 2026 年 1 月 12 日青海省人大常委会公告，省军区军人代表大会罢免其省人大代表职务，未说明原因；本站未查到立案或处分通报，也未查到此后的公开露面。
+  fall:
+    - { date: 2026-01-12, text: 青海省军区召开军人代表大会决定罢免其青海省十四届人大代表职务，青海省人大常委会公告其代表资格终止, cite: a02-qinghai-2026-01-13-yang-longxi }
+  tier: 2
+  headline: 青海省军区原政委、青海省委原常委，少将
+  ids: { wikidata: Q125473623 }
+  bio: >-
+    福建惠安人，曾任金华军分区政委、酒泉卫星发射中心人力资源部主任、战略支援部队航天工程大学政委，2024 年 1 月任青海省委常委、青海省军区政委。2026 年 1 月被罢免青海省人大代表，官方未说明原因。
+  positions:
+    - { title: 战略支援部队航天工程大学政治委员, sys: army, cite: a02-wiki-yang-longxi }
+    - { title: 青海省军区政治委员, sys: army, place: 青海, from: 2024-01, cite: a02-wiki-yang-longxi }
+    - { title: 中共青海省委常委, sys: party, place: 青海, from: 2024-01, cite: a02-wiki-yang-longxi }
+  cites: [wd-Q125473623, a02-wiki-yang-longxi, a02-qinghai-2026-01-13-yang-longxi]

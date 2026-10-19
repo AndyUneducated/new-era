@@ -1,0 +1,78 @@
+# R04: centrally managed cadres (not army) whose first public CCDI/NSC notice of investigation fell in 2018–2020.
+# date = first public notice (probe, or the punishment notice where no probe notice was published).
+# post = as named in that notice.
+# Sources: r04-ccdi-zjsc-list-2019-06-p0/p1, r04-xinhua-2019-01-02-2018-tigers, r04-thepaper-2019-12-01-2019-tigers,
+# r04-jiemian-2019-12-2019-tigers, r04-people-2021-01-15-2020-tigers, r04-hebcdi-2021-01-04-2020-tigers.
+# 2018
+- { name: 冯新柱, date: 2018-01-03, post: 陕西省副省长, id: feng-xinzhu, done: true }
+- { name: 季缃绮, date: 2018-01-04, post: 山东省副省长, id: ji-xiangqi, done: true }
+- { name: 李贻煌, date: 2018-01-17, post: 江西省副省长, id: li-yihuang, done: true }
+- { name: 王晓林, date: 2018-01-23, post: 国家能源局党组成员、副局长, id: wang-xiaolin, done: true }
+- { name: 刘君, date: 2018-02-12, post: 广西壮族自治区政协原党组成员、副主席, id: liu-jun-gx, done: true }
+- { name: 杨晶, date: 2018-02-24, post: 国务委员兼国务院秘书长, id: yang-jing, done: true }
+- { name: 王晓光, date: 2018-04-01, post: 贵州省政府原党组成员、副省长, id: wang-xiaoguang, done: true }
+- { name: 赖小民, date: 2018-04-17, post: 中国华融资产管理股份有限公司董事长, id: lai-xiaomin, done: true }
+- { name: 白向群, date: 2018-04-25, post: 内蒙古自治区政府党组成员、副主席, id: bai-xiangqun, done: true }
+- { name: 蒲波, date: 2018-05-04, post: 贵州省副省长, id: pu-bo, done: true }
+- { name: 张少春, date: 2018-05-07, post: 财政部党组副书记、副部长, id: zhang-shaochun, done: true }
+- { name: 孙波, date: 2018-06-16, post: 中国船舶重工集团有限公司原总经理, id: sun-bo-csic, done: true }
+- { name: 曾志权, date: 2018-07-11, post: 广东省委常委、统战部部长, id: zeng-zhiquan, done: true }
+- { name: 艾文礼, date: 2018-07-31, post: 河北省政协原副主席, id: ai-wenli, done: true }
+- { name: 陈质枫, date: 2018-08-07, post: 天津市原副市长, id: chen-zhifeng, done: true }
+- { name: 吴浈, date: 2018-08-16, post: 原国家食品药品监督管理总局副局长, id: wu-zhen, done: true }
+- { name: 王铁, date: 2018-08-17, post: 河南省人大常委会原副主任, id: wang-tie, done: true }
+- { name: 王尔智, date: 2018-08-25, post: 吉林省政协原副主席, id: wang-erzhi, done: true }
+- { name: 邱大明, date: 2018-09-11, post: 吉林省纪委副书记、省监委副主任, id: qiu-daming, done: true }
+- { name: 李士祥, date: 2018-09-15, post: 北京市政协原副主席, id: li-shixiang, done: true }
+- { name: 靳绥东, date: 2018-09-18, post: 河南省政协原副主席, id: jin-suidong, done: true }
+- { name: 努尔·白克力, date: 2018-09-21, post: 国家发改委副主任、国家能源局局长, id: nur-bekri, done: true }
+- { name: 孟宏伟, date: 2018-10-07, post: 公安部副部长, id: meng-hongwei, done: true }
+- { name: 邢云, date: 2018-10-25, post: 内蒙古自治区人大常委会原副主任, id: xing-yun, done: true }
+- { name: 钱引安, date: 2018-11-01, post: 陕西省委常委、秘书长, id: qian-yinan, done: true }
+- { name: 缪瑞林, date: 2018-11-15, post: 江苏省副省长, id: miao-ruilin, done: true }
+- { name: 杨锡怀, date: 2018-12-18, post: 辽宁省纪委原副书记、省监委副主任, id: yang-xihuai, done: true }
+- { name: 李建华, date: 2018-12-18, post: 甘肃省人大常委会原党组副书记、副主任, id: li-jianhua-gs, done: true }
+# 2019
+- { name: 陈刚, date: 2019-01-06, post: 中国科协党组成员、书记处书记, id: chen-gang-beijing, done: true }
+- { name: 赵正永, date: 2019-01-15, post: 陕西省委原书记, id: zhao-zhengyong, done: true }
+- { name: 赵洪顺, date: 2019-02-16, post: 国家烟草专卖局党组成员、副局长, id: zhao-hongshun, done: true }
+- { name: 赵景文, date: 2019-02-20, post: 中信集团原党委委员、执行董事, id: zhao-jingwen, done: true }
+- { name: 张茂才, date: 2019-03-02, post: 山西省人大常委会原副主任, id: zhang-maocai, done: true }
+- { name: 魏传忠, date: 2019-03-15, post: 原国家质量监督检验检疫总局副局长, id: wei-chuanzhong, done: true }
+- { name: 彭宇行, date: 2019-04-28, post: 四川省副省长, id: peng-yuxing, done: true }
+- { name: 秦光荣, date: 2019-05-09, post: 云南省委原书记, id: qin-guangrong, done: true }
+- { name: 向力力, date: 2019-05-17, post: 湖南省人大常委会副主任, id: xiang-lili, done: true }
+- { name: 刘士余, date: 2019-05-19, post: 中华全国供销合作总社党组副书记、理事会主任, id: liu-shiyu, done: true }
+- { name: 云光中, date: 2019-06-11, post: 内蒙古自治区党委常委、呼和浩特市委书记, id: yun-guangzhong, done: true }
+- { name: 杨克勤, date: 2019-07-17, post: 吉林省人民检察院党组书记、检察长, id: yang-keqin, done: true }
+- { name: 胡怀邦, date: 2019-07-31, post: 国家开发银行原董事长, id: hu-huaibang, done: true }
+- { name: 徐光, date: 2019-08-24, post: 河南省政府党组成员、副省长, id: xu-guang-hn, done: true }
+- { name: 张坚, date: 2019-08-25, post: 安徽省高级人民法院原院长, id: zhang-jian-ah, done: true }
+- { name: 李谦, date: 2019-08-27, post: 河北省政府党组成员、副省长, id: li-qian-hb, done: true }
+- { name: 张琦, date: 2019-09-06, post: 海南省委常委、海口市委书记, id: zhang-qi-hk, done: true }
+- { name: 姜国文, date: 2019-09-24, post: 黑龙江省哈尔滨市政协主席, id: jiang-guowen, done: true }
+- { name: 李庆奎, date: 2019-10-22, post: 中国南方电网有限责任公司原党组书记、董事长, id: li-qingkui, done: true }
+- { name: 云公民, date: 2019-10-24, post: 中国华电集团公司原总经理, id: yun-gongmin, done: true }
+- { name: 马明, date: 2019-12-01, post: 内蒙古自治区政协副主席, id: ma-ming-nm, done: true }
+- { name: 赵仕杰, date: 2019-12-14, post: 云南省高级人民法院原党组书记、院长, id: zhao-shijie, done: true }
+# 2020
+- { name: 陈国强, date: 2020-01-04, post: 陕西省政府原党组成员、副省长, id: chen-guoqiang, done: true }
+- { name: 孙德顺, date: 2020-03-20, post: 中信银行股份有限公司原党委副书记、行长, id: sun-deshun, done: true }
+- { name: 张志南, date: 2020-04-12, post: 福建省委常委、副省长, id: zhang-zhinan, done: true }
+- { name: 孙力军, date: 2020-04-19, post: 公安部党委委员、副部长, id: sun-lijun, done: true }
+- { name: 张和, date: 2020-04-29, post: 河北省委原常委、副省长, id: zhang-he-hb, done: true }
+- { name: 胡问鸣, date: 2020-05-12, post: 原中国船舶重工集团有限公司党组书记、董事长, id: hu-wenming, done: true }
+- { name: 任华, date: 2020-06-01, post: 新疆维吾尔自治区政府副主席, id: ren-hua, done: true }
+- { name: 邓恢林, date: 2020-06-14, post: 重庆市副市长、市公安局局长, id: deng-huilin, done: true }
+- { name: 刘国强, date: 2020-07-13, post: 辽宁省政协原副主席, id: liu-guoqiang, done: true }
+- { name: 王勇, date: 2020-07-13, post: 海南省政协副主席, id: wang-yong-hi, done: true }
+- { name: 李金早, date: 2020-07-29, post: 文化和旅游部党组副书记、副部长, id: li-jinzao, done: true }
+- { name: 龚道安, date: 2020-08-18, post: 上海市副市长、市公安局局长, id: gong-daoan, done: true }
+- { name: 骆家駹, date: 2020-08-18, post: 中粮集团有限公司党组成员、总会计师, id: luo-jiamang, done: true }
+- { name: 李伟, date: 2020-08-25, post: 北京市政协副主席, id: li-wei-bj, done: true }
+- { name: 文国栋, date: 2020-09-06, post: 青海省副省长、海西州委书记、柴达木循环经济试验区党工委书记, id: wen-guodong, done: true }
+- { name: 史文清, date: 2020-09-21, post: 江西省人大常委会原副主任, id: shi-wenqing, done: true }
+- { name: 董宏, date: 2020-10-02, post: 中央巡视组原副部级巡视专员, id: dong-hong, done: true }
+- { name: 刘宝华, date: 2020-10-17, post: 国家能源局党组成员、副局长, id: liu-baohua, done: true }
+- { name: 王立科, date: 2020-10-24, post: 江苏省委原常委、政法委书记, id: wang-like, done: true }
+- { name: 童道驰, date: 2020-11-01, post: 海南省委常委、三亚市委书记, id: tong-daochi, done: true }

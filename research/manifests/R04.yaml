@@ -1,0 +1,265 @@
+# R04: centrally managed cadres (not army) first named by the CCDI/NSC in 2018-2020. List, dossier cards, case records.
+# www.ccdi.gov.cn answers scripted requests with a captcha page, so its notices are taken from Wayback raw snapshots (id_).
+web:
+  # ---- list sources ----
+  - id: r04-xinhua-2019-01-02-2018-tigers
+    title: 2018“打虎”简报：23名中管干部接受审查调查
+    publisher: 新华网（转中央纪委国家监委网站）
+    date: 2019-01-02
+    voice: official
+    url: "https://www.xinhuanet.com/politics/2019-01/02/c_1123938513.htm"
+    start: 中央纪委国家监委网站公
+    end: 伸手必被捉’。”
+  - id: r04-hebcdi-2018-07-04-2018h1-tigers
+    title: 10名中管干部落马27099人违反八项规定精神被处理 图解上半年“打虎”“纠风”成绩单
+    publisher: 河北省纪委监委网站
+    date: 2018-07-04
+    voice: official
+    url: "http://www.hebcdi.gov.cn/2018-07/04/content_6940403.htm"
+    start: 全面从严治党永远在路
+    end: 美术设计 李芸）
+  - id: r04-thepaper-2019-12-01-2019-tigers
+    title: 打虎不停歇：今年被公布接受审查调查的中管干部已达20人
+    publisher: 澎湃新闻
+    date: 2019-12-01
+    voice: official
+    url: "https://www.thepaper.cn/newsDetail_forward_5113838"
+    start: 中央纪委国家监委网站发
+    end: 明接受中央纪委国家监委审查调查。
+  - id: r04-jiemian-2019-12-2019-tigers
+    title: 2019年反腐观察：“打虎”持续发力，违法党员干部投案自首成“风潮”
+    publisher: 界面新闻（转上观新闻）
+    date: 2019-12-21
+    voice: official
+    url: "https://www.jiemian.com/article/3802283.html"
+    start: 今年1月，十九届中央纪委三次全会
+    end: 已经成为十九大后反腐败工作的一个新特点。
+    excerpt: true
+    keep: [截至12月20日, 直接公布处分决定, 已退休10年, 先后投案自首, 赵洪顺“大搞权钱交易]
+  - id: r04-hebcdi-2021-01-04-2020-tigers
+    title: 打虎不停歇
+    publisher: 河北省纪委监委网站
+    date: 2021-01-04
+    voice: official
+    url: "http://www.hebcdi.gov.cn/2021-01/04/content_8311565.htm"
+    start: 重庆市原副市长、公安
+    end: 委网站 王新民）
+  - id: r04-people-2021-01-15-2020-tigers
+    title: 高压震慑、精准打击，2020年这样“打虎”
+    publisher: 中国共产党新闻网
+    date: 2021-01-15
+    voice: official
+    url: "http://fanfu.people.com.cn/n1/2021/0115/c64371-32000802.html"
+    start: 2020年12月，福
+    end: 门一脚”的勇气。
+  - id: r04-12371-2022-01-09-2021-tigers
+    title: 2021年431名中管省管干部被执纪审查
+    publisher: 共产党员网
+    date: 2022-01-09
+    voice: official
+    url: "https://www.12371.cn/2022/01/09/ARTI1641692440999443.shtml"
+    start: 2021年12月31
+    end: 报 编辑：田延华
+  - id: r04-ccdi-zjsc-list-2019-06-p0
+    title: 中央纪委网站“审查调查·中管干部·执纪审查”栏目列表第 1 页（2019-06-28 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-06-28
+    voice: official
+    url: "https://web.archive.org/web/20190628065002id_/http://www.ccdi.gov.cn:80/scdc/zggb/zjsc/index.html"
+    start: 内蒙古自治区党委常委、呼和浩特市委书记云光中接受
+    end: 2018-08-25
+  - id: r04-ccdi-zjsc-list-2019-06-p1
+    title: 中央纪委网站“审查调查·中管干部·执纪审查”栏目列表第 2 页（2019-06-28 存档）
+    publisher: 中央纪委国家监委网站
+    date: 2019-06-28
+    voice: official
+    url: "https://web.archive.org/web/20190628072254id_/http://www.ccdi.gov.cn:80/scdc/zggb/zjsc/index_1.html"
+    start: 河南省人大常委会党组副书记王铁接受
+    end: 2018-01-03
+  # ---- 王晓林 ----
+  - { id: r04-xinhua-2018-04-26-wang-xiaolin-expel, title: "国家能源局原党组成员、副局长王晓林严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2018-04-26, voice: official, url: "http://www.xinhuanet.com/politics/2018-04/26/c_1122746861.htm", start: "新华社北京4月26日", end: "国家能源局网站）" }
+  # ---- 邱大明 ----
+  - { id: r04-people-2018-12-20-qiu-daming-expel, title: "吉林省纪委原副书记、省监委原副主任邱大明被双开", publisher: 中国共产党新闻网, date: 2018-12-20, voice: official, url: "http://fanfu.people.com.cn/n1/2018/1220/c64371-30478749.html", start: "中国共产党新闻网北京", end: "所涉财物随案移送。" }
+  - { id: r04-court-2019-11-05-qiu-daming-verdict, title: "吉林省纪委原副书记、省监委原副主任邱大明受贿、贪污案一审宣判", publisher: 最高人民法院网站, date: 2019-11-05, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/196241.html", start: "日前，河北省石家庄市", end: "遂作出上述判决。" }
+  # ---- 杨锡怀 ----
+  - { id: r04-people-2018-12-18-yang-xihuai-expel, title: "辽宁省纪委原副书记、省监委副主任杨锡怀被处分", publisher: 中国共产党新闻网, date: 2018-12-18, voice: official, url: "http://fanfu.people.com.cn/n1/2018/1218/c64371-30474653.html", start: "中国共产党新闻网北京", end: "收缴其违纪违法所得。" }
+  # ---- 赵洪顺 ----
+  - { id: r04-xinhua-2019-07-12-zhao-hongshun-expel, title: "国家烟草专卖局原党组成员、副局长赵洪顺严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2019-07-12, voice: official, url: "http://www.xinhuanet.com/politics/2019-07/12/c_1124744639.htm", start: "新华社北京7月12日", end: "涉财物随案移送。" }
+  - { id: r04-court-2020-06-18-zhao-hongshun-verdict, title: "国家烟草专卖局原党组成员、副局长赵洪顺受贿案一审宣判", publisher: 最高人民法院网站, date: 2020-06-18, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/237331.html", start: "2020年6月18日", end: "。（记者：孙航）" }
+  # ---- 赵景文 ----
+  - { id: r04-xinhua-2019-07-11-zhao-jingwen-expel, title: "中国中信集团有限公司原党委委员、执行董事赵景文严重违纪违法被开除党籍", publisher: 新华网, date: 2019-07-11, voice: official, url: "https://www.xinhuanet.com/politics/2019-07/11/c_1124741037.htm", start: "新华社北京7月11日", end: "涉财物随案移送。" }
+  - { id: r04-xinhua-2021-09-18-zhao-jingwen-verdict, title: "中国中信集团有限公司原党委委员、执行董事赵景文一审获刑18年", publisher: 新华网, date: 2021-09-18, voice: official, url: "http://www.news.cn/politics/2021-09/18/c_1127878913.htm", start: "新华社长沙9月18日", end: "遂作出上述判决。" }
+  # ---- 骆家駹 ----
+  - { id: r04-ccdi-2020-08-18-luo-jiamang-probe, title: "中粮集团有限公司党组成员、总会计师骆家駹接受审查调查", publisher: 中央纪委国家监委网站, date: 2020-08-18, voice: official, url: "http://m.ccdi.gov.cn/content/f7/7e/65565.html", start: "中粮集团有限公司党组成员、总会计师骆家駹涉嫌", end: "（简历摘自中粮集团官网）" }
+  - { id: r04-ccdi-2021-01-04-luo-jiamang-expel, title: "中粮集团有限公司原党组成员、总会计师骆家駹被“双开”", publisher: 中央纪委国家监委网站, date: 2021-01-04, voice: official, url: "http://m.ccdi.gov.cn/content/61/e4/71628.html", start: "日前，经中共中央批准", end: "（简历摘自中粮集团官网）" }
+  - { id: r04-court-2024-05-31-luo-jiamang-verdict, title: "中粮集团有限公司原党组成员、总会计师骆家駹贪污、受贿案一审宣判", publisher: 最高人民法院网站, date: 2024-05-31, voice: official, url: "https://www.court.gov.cn/zixun/xiangqing/433961.html", start: "2024年5月31日", end: "。（记者：孙航）" }
+  # ---- 刘宝华 ----
+  - { id: r04-ccdi-2020-10-17-liu-baohua-probe, title: "国家能源局党组成员、副局长刘宝华接受中央纪委国家监委审查调查", publisher: 中央纪委国家监委网站, date: 2020-10-17, voice: official, url: "http://m.ccdi.gov.cn/content/5d/c9/68039.html", start: "国家能源局党组成员、副局长刘宝华涉嫌", end: "（简历摘自国家能源局网站）" }
+  - { id: r04-xinhua-2021-04-21-liu-baohua-expel, title: "国家能源局原党组成员、副局长刘宝华严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2021-04-21, voice: official, url: "http://www.xinhuanet.com/2021-04/21/c_1127357333.htm", start: "新华社北京4月21日", end: "涉财物一并移送。" }
+  - { id: r04-people-2022-03-16-liu-baohua-verdict, title: "国家能源局原党组成员、副局长刘宝华受贿案一审宣判 获刑13年", publisher: 人民网, date: 2022-03-16, voice: official, url: "http://society.people.com.cn/n1/2022/0316/c1008-32376626.html", start: "人民网北京3月16日", end: "遂作出上述判决。" }
+  # ---- 白向群（续） ----
+  - { id: r04-ccdi-2018-10-19-bai-xiangqun-expel, title: "内蒙古自治区政府原党组成员、副主席白向群严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2018-10-19, voice: official, url: "https://web.archive.org/web/20190917170320id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201810/t20181019_181716.html", start: "日前，经中共中央批准", end: "涉财物随案移送。" }
+  - { id: r04-court-2019-10-24-bai-xiangqun-verdict, title: "内蒙古自治区人民政府原副主席白向群受贿、贪污、内幕交易、泄露内幕信息案一审宣判", publisher: 最高人民法院网站, date: 2019-10-24, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/193761.html", start: "10月24日，辽宁省", end: "（记者 孙 航）" }
+  # ---- 艾文礼（续） ----
+  - { id: r04-ccdi-2018-10-19-ai-wenli-expel, title: "河北省政协原党组副书记、副主席艾文礼严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2018-10-19, voice: official, url: "https://web.archive.org/web/20181020011545id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201810/t20181019_181695.html", start: "日前，经中共中央批准", end: "涉财物随案移送。" }
+  # ---- 王铁（续） ----
+  - { id: r04-hnsjw-2026-06-15-wang-tie-probe, title: "河南省政府原副处级干部王铁接受监察调查", publisher: 河南省纪委监委网站, date: 2026-06-15, voice: official, url: "https://web.archive.org/web/20260619123142id_/https://www.hnsjw.gov.cn/sitesources/hnsjct/page_pc/jdzjzfyw/gnyw/article6451f5236016488d831f5aec6c1fd146.html", start: "河南省政府原副处级干部王铁涉嫌", end: "目前正接受河南省监委监察调查。" }
+  # ---- 缪瑞林（续） ----
+  - { id: r04-court-2019-11-19-miao-ruilin-verdict, title: "江苏省人民政府原副省长缪瑞林受贿案一审宣判", publisher: 最高人民法院网站, date: 2019-11-19, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/200701.html", start: "2019年11月19", end: "。（记者 孙航）" }
+  # ---- 张茂才（续） ----
+  - { id: r04-xinhua-2019-06-20-zhang-maocai-expel, title: "山西省人大常委会原党组成员、副主任张茂才严重违纪违法被开除党籍", publisher: 新华网, date: 2019-06-20, voice: official, url: "https://www.xinhuanet.com/politics/2019-06/20/c_1124650103.htm", start: "新华社北京6月20日", end: "涉财物随案移送。" }
+  # ---- 魏传忠（续） ----
+  - { id: r04-people-2019-09-07-wei-chuanzhong-expel, title: "原国家质量监督检验检疫总局党组成员、副局长魏传忠严重违纪违法被开除党籍", publisher: 人民网, date: 2019-09-07, voice: official, url: "http://politics.people.com.cn/n1/2019/0907/c1001-31342069.html", start: "人民网北京9月7日电", end: "局长、党组成员。" }
+  - { id: r04-court-2020-06-19-wei-chuanzhong-verdict, title: "原国家质量监督检验检疫总局副局长魏传忠受贿案一审宣判", publisher: 最高人民法院网站, date: 2020-06-19, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/237421.html", start: "2020年6月19日", end: "。（记者：孙航）" }
+  # ---- 张琦（续） ----
+  - { id: r04-xinhua-2020-03-04-zhang-qi-hk-expel, title: "海南省委原常委、海口市委原书记张琦严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2020-03-04, voice: official, url: "https://www.xinhuanet.com/politics/2020-03/04/c_1125660814.htm", start: "新华社北京3月4日电", end: "涉财物随案移送。" }
+  # ---- 姜国文（续） ----
+  - { id: r04-xinhua-2023-08-29-jiang-guowen-verdict, title: "黑龙江省哈尔滨市政协原党组书记、主席姜国文受贿案一审宣判", publisher: 新华网, date: 2023-08-29, voice: official, url: "https://www.news.cn/2023-08/29/c_1129832495.htm", start: "新华社呼和浩特8月2", end: "遂作出上述判决。" }
+  # ---- 陈国强（续） ----
+  - { id: r04-court-2020-09-15-chen-guoqiang-verdict, title: "陕西省人民政府原副省长陈国强受贿案一审宣判", publisher: 最高人民法院网站, date: 2020-09-15, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/255941.html", start: "9月15日，天津市第", end: "（记者 孙 航）" }
+  # ---- 王晓光（续） ----
+  - { id: r04-court-2019-04-23-wang-xiaoguang-verdict, title: "贵州省人民政府原副省长王晓光受贿、贪污、内幕交易案一审宣判", publisher: 最高人民法院网站, date: 2019-04-23, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/154142.html", start: "2019年4月23日", end: "遂作出上述判决。" }
+  # ---- 董宏（续） ----
+  - { id: r04-court-2022-01-28-dong-hong-verdict, title: "中央巡视组原副组长董宏一审被判死缓", publisher: 最高人民法院网站, date: 2022-01-28, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/344331.html", start: "2022年1月28日", end: "遂作出上述判决。" }
+  # ---- 李贻煌 ----
+  - { id: r04-ccdi-2018-04-26-li-yihuang-expel, title: "江西省政府原党组成员、副省长李贻煌严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2018-04-26, voice: official, url: "https://web.archive.org/web/20190502090423id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201804/t20180426_170737.html", start: "日前，经中共中央批准", end: "简历摘自人民网）" }
+  # ---- 刘君 ----
+  - { id: r04-ccdi-2018-02-12-liu-jun-gx-expel, title: "广西壮族自治区政协原党组成员、副主席刘君因严重违纪受到开除党籍行政撤职处分", publisher: 中央纪委国家监委网站, date: 2018-02-12, voice: official, url: "https://web.archive.org/web/20201104054905id_/http://www.ccdi.gov.cn/yaowen/201802/t20180212_164086.html", start: "日前，经中共中央批准", end: "收缴其违纪所得。" }
+  # ---- 王晓光 ----
+  - { id: r04-ccdi-2018-04-01-wang-xiaoguang-probe, title: "贵州省委原常委、副省长王晓光涉嫌严重违纪违法接受审查调查", publisher: 中央纪委国家监委网站, date: 2018-04-01, voice: official, url: "https://web.archive.org/web/20190502060718id_/http://www.ccdi.gov.cn/toutiao/201804/t20180401_167786.html", start: "贵州省委原常委、副省长王晓光涉嫌严重违纪违法，", end: "简历摘自人民网）" }
+  - { id: r04-ccdi-2018-09-20-wang-xiaoguang-expel, title: "贵州省委原常委、省政府原副省长王晓光严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2018-09-20, voice: official, url: "https://web.archive.org/web/20201104083730id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201809/t20180920_180117.html", start: "日前，经中共中央批准", end: "简历摘自人民网）" }
+  # ---- 白向群 ----
+  - { id: r04-ccdi-2018-04-25-bai-xiangqun-probe, title: "内蒙古自治区政府副主席白向群涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-04-25, voice: official, url: "https://web.archive.org/web/20190502055132id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201804/t20180425_170642.html", start: "内蒙古自治区政府副主席白向群涉嫌严重违纪违法，", end: "区人民政府网站）" }
+  # ---- 孙波 ----
+  - { id: r04-ccdi-2018-06-16-sun-bo-csic-probe, title: "中国船舶重工集团有限公司党组副书记、总经理孙波涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-06-16, voice: official, url: "https://web.archive.org/web/20180616235542id_/http://www.ccdi.gov.cn/toutiao/201806/t20180616_173982.html", start: "中国船舶重工集团有限公司党组副书记、总经理孙波涉嫌严重违纪违法，", end: "限公司官方网站）" }
+  - { id: r04-ccdi-2018-12-17-sun-bo-csic-expel, title: "中国船舶重工集团有限公司原党组副书记、总经理孙波被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2018-12-17, voice: official, url: "https://web.archive.org/web/20181218010429id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201812/t20181217_185246.html", start: "日前，经中共中央批准", end: "限公司官方网站）" }
+  - { id: r04-people-2019-07-04-sun-bo-csic-verdict, title: "中国船舶重工集团有限公司原总经理孙波一审获刑十二年", publisher: 人民网, date: 2019-07-04, voice: official, url: "https://web.archive.org/web/20201109121544id_/http://legal.people.com.cn/n1/2019/0704/c42510-31214743.html", start: "人民网北京7月4日电", end: "遂作出上述判决。" }
+  # ---- 艾文礼 ----
+  - { id: r04-ccdi-2018-07-31-ai-wenli-probe, title: "本网专评：艾文礼投案自首，体现高压震慑和敬畏纪法", publisher: 中央纪委国家监委网站, date: 2018-07-31, voice: official, url: "https://web.archive.org/web/20201104061832id_/http://www.ccdi.gov.cn/special/bwzp/201807/t20180731_176746.html", start: "监察法颁布实施后，首", end: "（中央纪委国家监委网站 兰琳宗 李鹃）" }
+  - { id: r04-ce-2019-04-18-ai-wenli-verdict, title: "河北省政协原副主席艾文礼一审获刑8年 并处罚金300万元", publisher: 中国经济网, date: 2019-04-18, voice: official, url: "https://web.archive.org/web/20201109121608id_/http://www.ce.cn/xwzx/gnsz/gdxw/201904/18/t20190418_31890569.shtml", start: "2019年4月18日", end: "震慑和示范效应。" }
+  # ---- 陈质枫 ----
+  - { id: r04-ccdi-2018-08-07-chen-zhifeng-expel, title: "天津市原副市长陈质枫因严重违纪受到留党察看二年处分", publisher: 中央纪委国家监委网站, date: 2018-08-07, voice: official, url: "https://web.archive.org/web/20201104123303id_/http://www.ccdi.gov.cn/toutiao/201808/t20180807_177342.html", start: "日前，经中共中央批准", end: "收缴其违纪所得。" }
+  # ---- 王铁 ----
+  - { id: r04-ccdi-2018-08-17-wang-tie-probe, title: "河南省人大常委会党组副书记、副主任王铁涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-08-17, voice: official, url: "https://web.archive.org/web/20201104031640id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201808/t20180817_177994.html", start: "河南省人大常委会党组副书记、副主任王铁涉嫌严重违纪违法，", end: "简历摘自人民网）" }
+  - { id: r04-ccdi-2018-11-19-wang-tie-expel, title: "河南省人大常委会原党组副书记、副主任王铁因严重违纪违法受到开除党籍、政务撤职处分", publisher: 中央纪委国家监委网站, date: 2018-11-19, voice: official, url: "https://web.archive.org/web/20181119135535id_/http://www.ccdi.gov.cn/toutiao/201811/t20181119_183629.html", start: "日前，经中共中央批准", end: "简历摘自人民网）" }
+  # ---- 王尔智 ----
+  - { id: r04-ccdi-2018-08-25-wang-erzhi-probe, title: "吉林省政协原副主席王尔智涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-08-25, voice: official, url: "https://web.archive.org/web/20190502072643id_/http://www.ccdi.gov.cn/toutiao/201808/t20180825_178441.html", start: "吉林省政协原副主席王尔智涉嫌严重违纪违法，", end: "审查和监察调查。" }
+  - { id: r04-ccdi-2019-01-19-wang-erzhi-expel, title: "吉林省政协原副主席王尔智严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2019-01-19, voice: official, url: "https://web.archive.org/web/20201104113659id_/http://www.ccdi.gov.cn/toutiao/201901/t20190119_187392.html", start: "日前，经中共中央批准", end: "涉财物随案移送。" }
+  - { id: r04-court-2019-08-09-wang-erzhi-verdict, title: "吉林省政协原副主席王尔智受贿案一审宣判", publisher: 中国法院网, date: 2019-08-09, voice: official, url: "https://web.archive.org/web/20190809103814id_/https://www.chinacourt.org/article/detail/2019/08/id/4280019.shtml", start: "中国法院网讯 (孙航", end: "遂作出上述判决。" }
+  # ---- 靳绥东 ----
+  - { id: r04-ccdi-2018-09-18-jin-suidong-probe, title: "河南省政协原副主席靳绥东涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-09-18, voice: official, url: "https://web.archive.org/web/20201104102256id_/http://www.ccdi.gov.cn/toutiao/201809/t20180918_179989.html", start: "河南省政协原副主席靳绥东涉嫌严重违纪违法，", end: "审查和监察调查。" }
+  - { id: r04-ccdi-2019-02-03-jin-suidong-expel, title: "河南省政协原党组副书记、副主席靳绥东严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2019-02-03, voice: official, url: "https://web.archive.org/web/20201104031542id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201902/t20190203_188327.html", start: "日前，经中共中央批准", end: "涉财物随案移送。" }
+  - { id: r04-people-2019-09-26-jin-suidong-verdict, title: "河南政协原副主席靳绥东一审被判15年", publisher: 人民网, date: 2019-09-26, voice: official, url: "https://web.archive.org/web/20201109121723id_/http://politics.people.com.cn/n1/2019/0926/c1001-31375400.html", start: "人民网北京9月26日", end: "遂作出上述判决。" }
+  # ---- 邢云 ----
+  - { id: r04-ccdi-2018-10-25-xing-yun-probe, title: "内蒙古自治区人大常委会原副主任邢云涉嫌严重违纪违法接受纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-10-25, voice: official, url: "https://web.archive.org/web/20201104100802id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201810/t20181025_182092.html", start: "内蒙古自治区人大常委会原副主任邢云涉嫌严重违纪违法，", end: "审查和监察调查。" }
+  - { id: r04-ccdi-2019-04-29-xing-yun-expel, title: "内蒙古自治区人大常委会原党组副书记、副主任邢云严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2019-04-29, voice: official, url: "https://web.archive.org/web/20201104101855id_/http://www.ccdi.gov.cn/yaowen/201904/t20190429_193168.html", start: "日前，经中共中央批准", end: "涉财物随案移送。" }
+  - { id: r04-yicai-2019-12-03-xing-yun-verdict, title: "收受财物4.49亿余元，邢云一审获死缓", publisher: 第一财经, date: 2019-12-03, voice: official, url: "https://web.archive.org/web/20201109121757id_/https://www.yicai.com/news/100424045.html", start: "2019年12月3日", end: "4.49亿余元。（人民日报）" }
+  # ---- 钱引安 ----
+  - { id: r04-ccdi-2018-11-01-qian-yinan-probe, title: "陕西省委常委、秘书长钱引安涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-11-01, voice: official, url: "https://web.archive.org/web/20201104104438id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201811/t20181101_182615.html", start: "陕西省委常委、秘书长钱引安涉嫌严重违纪违法，", end: "简历摘自人民网）" }
+  # ---- 缪瑞林 ----
+  - { id: r04-ccdi-2018-11-15-miao-ruilin-probe, title: "江苏省副省长缪瑞林涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2018-11-15, voice: official, url: "https://web.archive.org/web/20201104112649id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201811/t20181115_183443.html", start: "江苏省副省长缪瑞林涉嫌严重违纪违法，", end: "省人民政府网站）" }
+  - { id: r04-xinhua-2019-04-28-miao-ruilin-expel, title: "江苏省政府原党组成员、副省长缪瑞林严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2019-04-28, voice: official, url: "https://web.archive.org/web/20201109121803id_/http://www.xinhuanet.com/politics/2019-04/28/c_1124428197.htm", start: "新华社北京4月28日", end: "涉财物随案移送。" }
+  # ---- 李建华（甘肃） ----
+  - { id: r04-ccdi-2018-12-18-li-jianhua-gs-expel, title: "甘肃省人大常委会原党组副书记、副主任李建华因严重违纪违法受到开除党籍、政务撤职处分", publisher: 中央纪委国家监委网站, date: 2018-12-18, voice: official, url: "https://web.archive.org/web/20201104094430id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201812/t20181218_185318.html", start: "日前，经中共中央批准", end: "其违纪违法所得。" }
+  # ---- 张茂才 ----
+  - { id: r04-ccdi-2019-03-02-zhang-maocai-probe, title: "山西省人大常委会原副主任张茂才接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-03-02, voice: official, url: "https://web.archive.org/web/20201104034355id_/http://www.ccdi.gov.cn/toutiao/201903/t20190302_189751.html", start: "山西省人大常委会原副主任张茂才涉", end: "审查和监察调查。" }
+  - { id: r04-chinanews-2020-06-24-zhang-maocai-verdict, title: "山西人大常委会原副主任张茂才受贿7244万元 获刑15年", publisher: 中国新闻网, date: 2020-06-24, voice: official, url: "https://web.archive.org/web/20201109121827id_/http://www.chinanews.com/gn/2020/06-24/9221008.shtml", start: "中新网6月24日电 ", end: "遂作出上述判决。" }
+  # ---- 魏传忠 ----
+  - { id: r04-ccdi-2019-03-15-wei-chuanzhong-probe, title: "原国家质量监督检验检疫总局党组成员、副局长魏传忠接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-03-15, voice: official, url: "https://web.archive.org/web/20201104134801id_/http://www.ccdi.gov.cn/toutiao/201903/t20190315_190605.html", start: "原国家质量监督检验检疫总局党组成员、副局长魏传忠涉", end: "审查和监察调查。" }
+  # ---- 彭宇行 ----
+  - { id: r04-ccdi-2019-04-28-peng-yuxing-probe, title: "四川省副省长彭宇行接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-04-28, voice: official, url: "https://web.archive.org/web/20201104144011id_/http://www.ccdi.gov.cn/toutiao/201904/t20190428_192976.html", start: "四川省副省长彭宇行涉", end: "省人民政府网站）" }
+  - { id: r04-ccdi-2019-10-10-peng-yuxing-expel, title: "四川省政府原党组成员、副省长彭宇行因严重违纪违法受到开除党籍、政务撤职处分", publisher: 中央纪委国家监委网站, date: 2019-10-10, voice: official, url: "https://web.archive.org/web/20201104070520id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201910/t20191010_202219.html", start: "日前，经中共中央批准", end: "省人民政府网站）" }
+  # ---- 向力力 ----
+  - { id: r04-ccdi-2019-05-17-xiang-lili-probe, title: "湖南省人大常委会副主任向力力接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-05-17, voice: official, url: "https://web.archive.org/web/20201104055153id_/http://www.ccdi.gov.cn/toutiao/201905/t20190517_194156.html", start: "湖南省人大常委会副主任向力力涉", end: "摘自湖南人大网）" }
+  - { id: r04-ccdi-2019-09-07-xiang-lili-expel, title: "湖南省人大常委会原党组成员、副主任向力力严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2019-09-07, voice: official, url: "https://web.archive.org/web/20201104100347id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201909/t20190907_200077.html", start: "日前，经中共中央批准", end: "摘自湖南人大网）" }
+  - { id: r04-enorth-2020-06-13-xiang-lili-verdict, title: "湖南省人大原副主任向力力受贿6667万被判刑", publisher: 北方网, date: 2020-06-13, voice: official, url: "https://web.archive.org/web/20201109121913id_/http://news.enorth.com.cn/system/2020/06/13/050186417.shtml", start: "内容提要：据柳州市中", end: "法庭遂作出上述判决。" }
+  # ---- 云光中 ----
+  - { id: r04-ccdi-2019-06-11-yun-guangzhong-probe, title: "内蒙古自治区党委常委、呼和浩特市委书记云光中接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-06-11, voice: official, url: "https://web.archive.org/web/20201104074533id_/http://www.ccdi.gov.cn/toutiao/201906/t20190611_195328.html", start: "内蒙古自治区党委常委、呼和浩特市委书记云光中涉", end: "2017年1月）" }
+  - { id: r04-ccdi-2019-12-01-yun-guangzhong-expel, title: "内蒙古自治区党委原常委、呼和浩特市委原书记云光中被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2019-12-01, voice: official, url: "https://web.archive.org/web/20201104054910id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201912/t20191201_205394.html", start: "日前，经中共中央批准", end: "2017年1月）" }
+  - { id: r04-chinanews-2020-11-03-yun-guangzhong-verdict, title: "呼和浩特市委原书记云光中受贿案一审宣判 获刑14年", publisher: 中国新闻网, date: 2020-11-03, voice: official, url: "https://web.archive.org/web/20201109121927id_/http://www.chinanews.com/gn/2020/11-03/9329458.shtml", start: "中新网11月3日电 ", end: "遂作出上述判决。" }
+  # ---- 杨克勤 ----
+  - { id: r04-ccdi-2019-07-17-yang-keqin-probe, title: "吉林省人民检察院党组书记、检察长杨克勤接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-07-17, voice: official, url: "https://web.archive.org/web/20201104052058id_/http://www.ccdi.gov.cn/toutiao/201907/t20190717_197305.html", start: "吉林省人民检察院党组书记、检察长杨克勤涉", end: "检察院官方网站）" }
+  - { id: r04-ccdi-2019-12-01-yang-keqin-expel, title: "吉林省人民检察院原党组书记、检察长杨克勤被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2019-12-01, voice: official, url: "https://web.archive.org/web/20201104083732id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201912/t20191201_205395.html", start: "日前，经中共中央批准", end: "2012年2月）" }
+  - { id: r04-spp-2021-05-17-yang-keqin-verdict, title: "受贿4635万元！杨克勤获刑13年", publisher: 最高人民检察院网站, date: 2021-05-17, voice: official, url: "https://web.archive.org/web/20210517105627id_/https://www.spp.gov.cn/spp/zdgz/202105/t20210517_518381.shtml", start: "2021年5月17日", end: "遂作出上述判决。" }
+  # ---- 胡怀邦 ----
+  - { id: r04-ccdi-2019-07-31-hu-huaibang-probe, title: "国家开发银行原党委书记、董事长胡怀邦接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-07-31, voice: official, url: "https://web.archive.org/web/20201104153302id_/http://www.ccdi.gov.cn/toutiao/201907/t20190731_198099.html", start: "国家开发银行原党委书记、董事长胡怀邦涉", end: "审查和监察调查。" }
+  # ---- 徐光 ----
+  - { id: r04-ccdi-2019-08-24-xu-guang-hn-probe, title: "河南省政府党组成员、副省长徐光接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-08-24, voice: official, url: "https://web.archive.org/web/20201104010330id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201908/t20190824_199315.html", start: "河南省政府党组成员、副省长徐光涉", end: "河南省政府网站）" }
+  - { id: r04-ccdi-2020-02-21-xu-guang-hn-expel, title: "河南省政府原党组成员、副省长徐光严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2020-02-21, voice: official, url: "https://web.archive.org/web/20201104121650id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202002/t20200221_211937.html", start: "日前，经中共中央批准", end: "2019年8月）" }
+  - { id: r04-xinhua-2021-01-11-xu-guang-hn-verdict, title: "河南省原副省长徐光一审获刑11年", publisher: 新华网, date: 2021-01-11, voice: official, url: "https://web.archive.org/web/20210113140756id_/http://www.xinhuanet.com/2021-01/11/c_1126970622.htm", start: "2021年1月11日", end: "遂作出上述判决。" }
+  # ---- 张坚 ----
+  - { id: r04-people-2019-08-25-zhang-jian-ah-probe, title: "刚刚！安徽省高院原院长张坚被查", publisher: 人民网, date: 2019-08-25, voice: official, url: "https://web.archive.org/web/20190825073157id_/http://ah.people.com.cn/n2/2019/0825/c358428-33285519.html", start: "据中央纪委国家监委网", end: "报、中国经济网等" }
+  - { id: r04-people-2020-01-23-zhang-jian-ah-expel, title: "安徽省高级人民法院原党组书记、院长张坚被开除党籍", publisher: 人民网, date: 2020-01-23, voice: official, url: "https://web.archive.org/web/20201109122004id_/http://politics.people.com.cn/n1/2020/0123/c1001-31560506.html", start: "本报北京1月22日电", end: "3日 11 版）" }
+  - { id: r04-people-2021-09-14-zhang-jian-ah-verdict, title: "安徽省高级人民法院原院长张坚一审获刑15年", publisher: 人民网, date: 2021-09-14, voice: official, url: "https://web.archive.org/web/20210914183501id_/http://society.people.com.cn/n1/2021/0914/c1008-32226993.html", start: "人民网北京9月14日", end: "遂作出上述判决。" }
+  # ---- 李谦 ----
+  - { id: r04-xinhua-2019-08-27-li-qian-hb-probe, title: "河北省政府党组成员、副省长李谦接受审查调查", publisher: 新华网, date: 2019-08-27, voice: official, url: "https://web.archive.org/web/20201109122010id_/http://www.xinhuanet.com/politics/2019-08/27/c_1124929210.htm", start: "新华社北京8月27日", end: "审查和监察调查。" }
+  - { id: r04-people-2020-01-23-li-qian-hb-expel, title: "河北省政府原党组成员、副省长李谦被开除党籍和公职", publisher: 人民网, date: 2020-01-23, voice: official, url: "https://web.archive.org/web/20201104115718id_/http://politics.people.com.cn/n1/2020/0123/c1001-31560504.html", start: "本报北京1月22日电", end: "3日 11 版）" }
+  - { id: r04-sina-2021-08-31-li-qian-hb-verdict, title: "河北省人民政府原副省长李谦受贿案一审宣判", publisher: 新浪新闻, date: 2021-08-31, voice: official, url: "https://web.archive.org/web/20210831092113id_/https://news.sina.com.cn/c/2021-08-31/doc-iktzqtyt3246834.shtml", start: "2021年8月31日", end: "遂作出上述判决。" }
+  # ---- 张琦 ----
+  - { id: r04-xinhua-2019-09-06-zhang-qi-hk-probe, title: "海南省委常委、海口市委书记张琦接受审查调查", publisher: 新华网, date: 2019-09-06, voice: official, url: "https://web.archive.org/web/20201109123622id_/http://www.xinhuanet.com/2019-09/06/c_1124970180.htm", start: "新华社北京9月6日电", end: "审查和监察调查。" }
+  - { id: r04-xinhua-2020-12-03-zhang-qi-hk-verdict, title: "海南省委原常委、海口市委原书记张琦受贿案一审宣判", publisher: 新华网, date: 2020-12-03, voice: official, url: "https://web.archive.org/web/20201206002650id_/http://www.xinhuanet.com/2020-12/03/c_1126818163.htm", start: "新华社广州12月3日", end: "遂作出上述判决。" }
+  # ---- 姜国文 ----
+  - { id: r04-ccdi-2019-09-24-jiang-guowen-probe, title: "黑龙江省哈尔滨市政协主席姜国文接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-09-24, voice: official, url: "https://web.archive.org/web/20201104081016id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201909/t20190924_201120.html", start: "黑龙江省哈尔滨市政协主席姜国文涉", end: "滨市委员会网站）" }
+  - { id: r04-ccdi-2020-03-27-jiang-guowen-expel, title: "黑龙江省哈尔滨市政协原党组书记、主席姜国文严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2020-03-27, voice: official, url: "https://web.archive.org/web/20200920012435id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202003/t20200327_214354.html", start: "日前，经中共中央批准", end: "滨市委员会网站）" }
+  # ---- 李庆奎 ----
+  - { id: r04-ccdi-2019-10-22-li-qingkui-expel, title: "中国南方电网有限责任公司原党组书记、董事长李庆奎受到留党察看二年处分", publisher: 中央纪委国家监委网站, date: 2019-10-22, voice: official, url: "https://web.archive.org/web/20201104101530id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201910/t20191022_202886.html", start: "日前，经中共中央批准", end: "其违纪违法所得。" }
+  # ---- 马明 ----
+  - { id: r04-ccdi-2019-12-01-ma-ming-nm-probe, title: "内蒙古自治区政协副主席马明接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2019-12-01, voice: official, url: "https://web.archive.org/web/20201104084011id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/201912/t20191201_205381.html", start: "内蒙古自治区政协副主席马明涉", end: "2018年1月）" }
+  - { id: r04-ccdi-2020-11-16-ma-ming-nm-expel, title: "内蒙古自治区政协原党组成员、副主席马明严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2020-11-16, voice: official, url: "https://web.archive.org/web/20201127181520id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202011/t20201116_230142.html", start: "日前，经中共中央批准", end: "2018年1月）" }
+  - { id: r04-court-2022-02-ma-ming-nm-verdict, title: "内蒙古自治区政协原党组成员、副主席马明受贿案一审宣判", publisher: 最高人民法院网站, date: 2022-02, voice: official, url: "https://web.archive.org/web/20220220034439id_/http://www.court.gov.cn/fabu-xiangqing-345921.html", start: "2022年2月17日", end: "遂作出上述判决。" }
+  # ---- 赵仕杰 ----
+  - { id: r04-ccdi-2019-12-14-zhao-shijie-expel, title: "云南省高级人民法院原党组书记、院长赵仕杰因严重违纪受到留党察看一年处分", publisher: 中央纪委国家监委网站, date: 2019-12-14, voice: official, url: "https://web.archive.org/web/20201104061834id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/201912/t20191214_206053.html", start: "日前，经中共中央批准", end: "述人员党纪处分。" }
+  # ---- 陈国强 ----
+  - { id: r04-ccdi-2020-01-04-chen-guoqiang-expel, title: "陕西省政府原党组成员、副省长陈国强严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2020-01-04, voice: official, url: "https://web.archive.org/web/20201104033557id_/http://www.ccdi.gov.cn/toutiao/202001/t20200104_207143.html", start: "日前，经中共中央批准", end: "2019年3月）" }
+  # ---- 张和 ----
+  - { id: r04-ccdi-2020-04-29-zhang-he-hb-probe, title: "河北省委原常委、副省长张和接受中央纪委国家监委审查调查", publisher: 中央纪委国家监委网站, date: 2020-04-29, voice: official, url: "https://web.archive.org/web/20201104093136id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202004/t20200429_216403.html", start: "河北省委原常委、副省长张和涉", end: "河北省政府网站）" }
+  - { id: r04-ccdi-2020-07-28-zhang-he-hb-expel, title: "河北省原省委常委、副省长张和因严重违纪违法受到开除党籍处分", publisher: 中央纪委国家监委网站, date: 2020-07-28, voice: official, url: "https://web.archive.org/web/20201104031643id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202007/t20200728_222765.html", start: "日前，经中共中央批准", end: "河北省政府网站）" }
+  # ---- 胡问鸣 ----
+  - { id: r04-ccdi-2020-05-12-hu-wenming-probe, title: "原中国船舶重工集团有限公司党组书记、董事长胡问鸣接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-05-12, voice: official, url: "https://web.archive.org/web/20201104055833id_/http://www.ccdi.gov.cn/toutiao/202005/t20200512_217129.html", start: "原中国船舶重工集团有限公司党组书记、董事长胡问鸣涉", end: "摘自中国经济网）" }
+  - { id: r04-ccdi-2021-01-04-hu-wenming-expel, title: "原中国船舶重工集团有限公司党组书记、董事长胡问鸣严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2021-01-04, voice: official, url: "https://web.archive.org/web/20210107180750id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202101/t20210104_233179.html", start: "日前，经中共中央批准", end: "摘自中国经济网）" }
+  # ---- 任华 ----
+  - { id: r04-ccdi-2020-06-01-ren-hua-probe, title: "新疆维吾尔自治区政府副主席任华接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-06-01, voice: official, url: "https://web.archive.org/web/20201104121705id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202006/t20200601_219277.html", start: "新疆维吾尔自治区政府副主席任华涉", end: "区人民政府网站）" }
+  - { id: r04-ccdi-2020-11-30-ren-hua-expel, title: "新疆维吾尔自治区政府原党组成员、副主席任华被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2020-11-30, voice: official, url: "https://web.archive.org/web/20201130044439id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202011/t20201130_230952.html", start: "日前，经中共中央批准", end: "区人民政府网站）" }
+  - { id: r04-cnwest-2022-01-25-ren-hua-verdict, title: "新疆维吾尔自治区人民政府原副主席任华受贿案一审宣判", publisher: 西部网, date: 2022-01-25, voice: official, url: "https://web.archive.org/web/20220125090929id_/http://news.cnwest.com/tianxia/a/2022/01/25/20267279.html", start: "江苏省苏州市中级人民法院今天（25日）公开宣判新疆维吾尔自治区人民政府原副主席任华受贿案，对被告人任华以受贿罪判处有期徒刑十四年，并处罚金人民币四百万元；", end: "遂作出上述判决。" }
+  # ---- 王勇（海南） ----
+  - { id: r04-ccdi-2020-07-13-wang-yong-hi-probe, title: "海南省政协副主席王勇接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-07-13, voice: official, url: "https://web.archive.org/web/20200713190821id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202007/t20200713_221897.html", start: "海南省政协副主席王勇涉", end: "海南省政协网站）" }
+  - { id: r04-xinhua-2021-01-11-wang-yong-hi-expel, title: "海南省政协原党组成员、副主席王勇严重违纪违法被开除党籍和公职", publisher: 新华网, date: 2021-01-11, voice: official, url: "https://web.archive.org/web/20210524173620id_/http://www.xinhuanet.com/legal/2021-01/11/c_1126969060.htm", start: "新华社北京1月11日", end: "涉财物一并移送。" }
+  - { id: r04-hexun-2021-10-28-wang-yong-hi-verdict, title: "落马副部王勇，获刑无期", publisher: 和讯网, date: 2021-10-28, voice: official, url: "https://web.archive.org/web/20211028120145id_/http://news.hexun.com/2021-10-28/204625292.html", start: "据桂林市中院消息，1", end: "（责任编辑：董云龙 ）" }
+  # ---- 刘国强 ----
+  - { id: r04-ccdi-2020-07-13-liu-guoqiang-probe, title: "辽宁省政协原副主席刘国强接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-07-13, voice: official, url: "https://web.archive.org/web/20201104090419id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202007/t20200713_221896.html", start: "辽宁省政协原副主席刘国强涉", end: "摘自中国经济网）" }
+  - { id: r04-xhby-2021-01-11-liu-guoqiang-expel, title: "辽宁省政协原党组副书记、副主席刘国强严重违纪违法被开除党籍", publisher: 新华报业网, date: 2021-01-11, voice: official, url: "https://web.archive.org/web/20210821160032id_/http://www.xhby.net/index/202101/t20210111_6943035.shtml", start: "日前，经中共中央批准", end: "涉财物一并移送。" }
+  - { id: r04-xinhua-2022-11-08-liu-guoqiang-verdict, title: "辽宁省政协原党组副书记、副主席刘国强受贿案一审宣判", publisher: 新华网, date: 2022-11-08, voice: official, url: "https://web.archive.org/web/20221111074001id_/http://www.news.cn/local/2022-11/08/c_1129111555.htm", start: "新华社天津11月8日", end: "遂作出上述判决。" }
+  # ---- 李伟（北京） ----
+  - { id: r04-ccdi-2020-08-25-li-wei-bj-probe, title: "北京市政协副主席李伟接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-08-25, voice: official, url: "https://web.archive.org/web/20201104082252id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202008/t20200825_224356.html", start: "北京市政协副主席李伟涉", end: "自北京市政协网）" }
+  - { id: r04-ccdi-2021-01-11-li-wei-bj-expel, title: "北京市政协原党组成员、副主席李伟严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2021-01-11, voice: official, url: "https://web.archive.org/web/20210113043055id_/http://www.ccdi.gov.cn/yaowen/202101/t20210111_233632.html", start: "日前，经中共中央批准", end: "自北京市政协网）" }
+  - { id: r04-xinhua-2022-03-18-li-wei-bj-verdict, title: "北京市政协原副主席李伟一审获刑9年", publisher: 新华网, date: 2022-03-18, voice: official, url: "https://web.archive.org/web/20220512163530id_/http://www.news.cn/2022-03/18/c_1128483350.htm", start: "新华社天津3月18日", end: "遂作出上述判决。" }
+  # ---- 文国栋 ----
+  - { id: r04-ccdi-2020-09-06-wen-guodong-probe, title: "青海省副省长、海西蒙古族藏族自治州委书记、柴达木循环经济试验区党工委书记文国栋接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-09-06, voice: official, url: "https://web.archive.org/web/20201104102258id_/http://www.ccdi.gov.cn/yaowen/202009/t20200907_225092.html", start: "青海省副省长、海西蒙古族藏族自治州委书记、柴达木循环经济试验区党工委书记文国栋涉", end: "省人民政府网站）" }
+  - { id: r04-ccdi-2021-01-04-wen-guodong-expel, title: "青海省原副省长、海西州委原书记、柴达木循环经济试验区党工委原书记文国栋严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2021-01-04, voice: official, url: "https://web.archive.org/web/20210109011556id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202101/t20210104_233176.html", start: "日前，经中共中央批准", end: "省人民政府网站）" }
+  - { id: r04-nbd-2022-03-29-wen-guodong-verdict, title: "受贿1991万，“闯天祸”的文国栋一审被判11年，晋升副省长一个多月后就主动投案", publisher: 每日经济新闻, date: 2022-03-29, voice: official, url: "https://web.archive.org/web/20220512163529id_/http://www.nbd.com.cn/articles/2022-03-29/2192282.html", start: "据重庆第一中院微信号", end: "长安街知事、公开资料" }
+  # ---- 史文清 ----
+  - { id: r04-ccdi-2020-09-21-shi-wenqing-probe, title: "江西省人大常委会原副主任史文清涉嫌严重违纪违法接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-09-21, voice: official, url: "https://web.archive.org/web/20201104031544id_/http://www.ccdi.gov.cn/toutiao/202009/t20200921_225933.html", start: "江西省人大常委会原副主任史文清涉嫌严重违纪违法，", end: "据人民网资料 ）" }
+  - { id: r04-ccdi-2021-03-28-shi-wenqing-expel, title: "江西省人大常委会原党组成员、副主任史文清严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2021-03-28, voice: official, url: "https://web.archive.org/web/20210329020009id_/http://www.ccdi.gov.cn/scdc/zggb/djcf/202103/t20210328_238642.html", start: "日前，经中共中央批准", end: "据人民网资料 ）" }
+  - { id: r04-chinanews-2022-08-17-shi-wenqing-verdict, title: "史文清受贿、非法持有枪支案一审被判死缓", publisher: 中国新闻网, date: 2022-08-17, voice: official, url: "https://web.archive.org/web/20220817125019id_/http://www.jx.chinanews.com.cn/news/2022/0817/68624.html", start: "中新社北京8月16日", end: "上述判决。(完)" }
+  # ---- 董宏 ----
+  - { id: r04-ccdi-2020-10-02-dong-hong-probe, title: "中央巡视组原副部级巡视专员董宏接受中央纪委国家监委纪律审查和监察调查", publisher: 中央纪委国家监委网站, date: 2020-10-02, voice: official, url: "https://web.archive.org/web/20201104103305id_/http://www.ccdi.gov.cn/scdc/zggb/zjsc/202010/t20201002_226676.html", start: "中央巡视组原副部级巡视专员董宏涉", end: "审查和监察调查。" }
+  - { id: r04-ccdi-2021-04-12-dong-hong-expel, title: "中央巡视组原副组长董宏严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2021-04-12, voice: official, url: "https://web.archive.org/web/20210428143733id_/http://www.ccdi.gov.cn/yaowen/202104/t20210412_239487.html", start: "中央纪委国家监委网站讯", end: "涉财物一并移送。" }
+  # ---- 童道驰 ----
+  - { id: r04-ccdi-2020-11-01-tong-daochi-probe, title: "海南省委常委、三亚市委书记童道驰接受中央纪委国家监委审查调查", publisher: 中央纪委国家监委网站, date: 2020-11-01, voice: official, url: "https://web.archive.org/web/20201104171648id_/http://www.ccdi.gov.cn/toutiao/202011/t20201101_229091.html", start: "海南省委常委、三亚市委书记童道驰涉", end: "市人民政府网站）" }
+  - { id: r04-ccdi-2021-04-30-tong-daochi-expel, title: "海南省委原常委、三亚市委原书记童道驰严重违纪违法被开除党籍和公职", publisher: 中央纪委国家监委网站, date: 2021-04-30, voice: official, url: "https://web.archive.org/web/20210501054525id_/http://www.ccdi.gov.cn/toutiao/202104/t20210430_241217.html", start: "中央纪委国家监委网站讯", end: "市人民政府网站）" }
+  - { id: r04-sina-2022-06-02-tong-daochi-verdict, title: "中共海南省委原常委、三亚市委原书记童道驰受贿、内幕交易案一审宣判", publisher: 新浪新闻, date: 2022-06-02, voice: official, url: "https://web.archive.org/web/20231015064536id_/https://news.sina.com.cn/c/2022-06-02/doc-imizmscu4774217.shtml", start: "广东省深圳市中级人民", end: " 奚丹霓 张赛）" }
+  # ---- 刘君（简历） ----
+  - { id: r04-ce-2018-02-13-liu-jun-gx, title: "广西壮族自治区政协原副主席刘君被开除党籍、行政撤职", publisher: 中国经济网, date: 2018-02-13, voice: official, url: "http://district.ce.cn/newarea/sddy/201802/13/t20180213_28174667.shtml", start: "经济日报-中国经济网北京2月13日讯", end: "政协第十一届广西壮族自治区委员会委员" }
+  - { id: r04-caixin-2018-02-12-liu-jun-gx, title: "副省贬为副处 广西政协原副主席刘君成十九大后首个被“断崖”高官", publisher: 财新网, date: 2018-02-12, voice: official, url: "https://china.caixin.com/2018-02-12/101210886.html", excerpt: true, keep: [第九名被查, 半个月前, 担任四年部领导秘书, 首个受到“断崖式降级”] }
+  # ---- 陈质枫（简历） ----
+  - { id: r04-enorth-2007-09-10-chen-zhifeng-cv, title: "陈质枫同志简历", publisher: 北方网, date: 2007-09-10, voice: official, url: "https://web.archive.org/web/20190219194219id_/http://tianjin.enorth.com.cn/system/2007/09/10/001930656.shtml", start: "男，汉族，1950年3月生", end: '1996年全国城市环境综合整治"优秀建委主任"。' }
+  - { id: r04-rmzxw-2018-08-08-chen-zhifeng, title: "陈质枫为十九大后又一“断崖式降级”“老虎”", publisher: 人民政协网（转中国共产党新闻网）, date: 2018-08-08, voice: official, url: "https://www.rmzxw.com.cn/c/2018-08-08/2136342.shtml", start: "中国共产党新闻网北京8月8日电", end: "滑向腐败深渊的不归路。" }
+  # ---- 王铁（2026 年再被查） ----
+  - { id: r04-chinanews-2026-06-15-wang-tie-again, title: "从副部级降为副处级8年后，王铁再次被查", publisher: 中国新闻网, date: 2026-06-15, voice: official, url: "http://www.chinanews.com.cn/gn/2026/06-15/10641045.shtml", start: "据河南省纪委监委消息", end: "2018.01 河南省人大常委会副主任，省政府党组成员，省委农村工作办公室主任" }
+  # ---- 无简历者的维基百科条目 ----
+  - { id: r04-wiki-li-jianhua-gs, title: 李建华（1956年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李建华_(1956年)", start: "李建华（1956年", end: "参考文献", excerpt: true, keep: [ 年 ] }
+  # ---- 孙德顺（无被查通报，直接公布处分） ----
+  - { id: r04-ccdi-2020-03-20-sun-deshun-expel, title: "中信银行股份有限公司原党委副书记、行长孙德顺严重违纪违法被开除党籍", publisher: 中央纪委国家监委网站, date: 2020-03-20, voice: official, url: "http://m.ccdi.gov.cn/content/a6/42/58132.html", start: "日前，中央纪委国家监委对中信银行", end: "（简历摘自中信银行网站）" }
+  - { id: r04-court-2023-11-10-sun-deshun-verdict, title: "中信银行原行长孙德顺受贿案一审宣判", publisher: 最高人民法院网站, date: 2023-11-10, voice: official, url: "https://www.court.gov.cn/fabu/xiangqing/417442.html", start: "2023年11月10日", end: "法庭遂作出上述判决。" }
+  # ---- 吴浈：长生疫苗案问责 ----
+  - { id: r04-xinhua-2018-08-16-vaccine-psc, title: "中共中央政治局常务委员会召开会议 听取关于吉林长春长生公司问题疫苗案件调查及有关问责情况的汇报", publisher: 新华网, date: 2018-08-16, voice: official, url: "https://www.xinhuanet.com/politics/2018-08/16/c_1123282169.htm", start: "新华社北京8月16日电", end: "向中共中央、国务院作出深刻检查。" }

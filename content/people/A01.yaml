@@ -1,0 +1,1103 @@
+# A01: PLA / PAP generals (and the police officers holding PAP ranks) who fell, were recalled or went missing, first
+# public news 2012-11 to 2022-12, who had no card yet (list: research/falls-list/A01.yaml).
+# Fall steps follow the wording of the 中国军网 batch notices (f09-hqrw / f09-rmzxw / a01-thepaper-2015-10-army-tigers-44),
+# the NPC and CPPCC texts; birth dates and earlier posts come from zh.wikipedia unless cited otherwise.
+
+# ───────── 2015-01-13 to 2015-01-15: 蔡广辽 and the first batch ─────────
+- id: cai-guangliao
+  name: 蔡广辽
+  gender: m
+  born: 1958-09
+  birthplace: 辽宁营口
+  origin: 广东揭西
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2017 年 3 月被广州市中级人民法院以受贿罪判处有期徒刑 8 年；此后情况未见报道。
+  fall:
+    - { date: 2014-10-30, text: 被中央军委纪委带走调查, cite: a01-wiki-cai-guangliao }
+    - { date: 2015-01-13, text: 广东省政协常委会以其违法违纪免去其省政协社会和法制委员会副主任职务, cite: a01-wiki-cai-guangliao }
+    - { date: 2017-03-27, text: 广州市中级人民法院一审以受贿罪判处有期徒刑 8 年，并处罚金 100 万元, cite: a01-wiki-cai-guangliao }
+  tier: 2
+  headline: 广东省公安厅原党委副书记、广东省委办公厅原副主任，武警少将
+  ids: { wikidata: Q18808429 }
+  bio: >-
+    1977 年起在广东省公安厅警卫系统工作二十多年，历任警卫处长、警卫局长，2003 年起兼任广东省委办公厅副主任，2006 年晋升武警少将警衔，后任省公安厅党委副书记。2014 年 10 月被军委纪委带走，2017 年以受贿罪获刑 8 年。
+  positions:
+    - { title: 广东省公安厅警卫处处长, sys: gov, place: 广东, from: 1995-01, to: 1998-12, cite: a01-wiki-cai-guangliao }
+    - { title: 广东省公安厅警卫局局长, sys: gov, place: 广东, from: 1998-12, cite: a01-wiki-cai-guangliao }
+    - { title: 广东省委办公厅副主任兼省公安厅警卫局局长, sys: party, place: 广东, from: 2003-09, to: 2012-07, cite: a01-wiki-cai-guangliao }
+    - { title: 广东省公安厅党委副书记, sys: gov, place: 广东, cite: a01-wiki-cai-guangliao }
+    - { title: 广东省政协社会和法制委员会副主任, sys: other, place: 广东, from: 2013-02, to: 2015-01, cite: a01-wiki-cai-guangliao }
+  cites: [wd-Q18808429, a01-wiki-cai-guangliao]
+
+- id: wang-minggui-pla
+  name: 王明贵
+  gender: m
+  born: 1954
+  birthplace: 河南商丘
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 1 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2013-11, text: 因涉嫌严重违纪被总参纪委立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { date: 2014-01, text: 移送军事司法机关依法处理, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 防空兵指挥学院原政委，少将
+  ids: { wikidata: Q18810240 }
+  bio: >-
+    2004 年晋升少将，由解放军信息工程大学副政委转任郑州的防空兵指挥学院政委，该院曾被当作改进作风的典型报道。2013 年 11 月被总参纪委立案调查，是 2015 年 1 月军方公布的首批军级以上贪腐案中立案最早的一人。
+  positions:
+    - { title: 解放军信息工程大学副政委, sys: army, place: 郑州, to: 2008, cite: a01-wiki-wang-minggui }
+    - { title: 防空兵指挥学院政委, sys: army, place: 郑州, from: 2008, cite: a01-wiki-wang-minggui }
+  cites: [wd-Q18810240, a01-wiki-wang-minggui, f09-hqrw-2015-01-26-army-tigers]
+
+- id: fang-wenping
+  name: 方文平
+  gender: m
+  born: 1950-10
+  birthplace: 北京
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 5 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-03, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { date: 2014-05, text: 移送军事司法机关依法处理, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 山西省军区原司令员、山西省委原常委，少将
+  ids: { wikidata: Q8337958 }
+  bio: >-
+    1968 年入伍，长期在北京军区第 38、65、27 集团军任职，2000 年任河北省军区参谋长，2005 年任山西省军区司令员，次年进入山西省委常委班子。2010 年改任北京军区巡视员，2014 年 3 月被军委纪委立案，是山西塌方式腐败中落马的军方常委。
+  positions:
+    - { title: 陆军第二十七集团军八十师师长, sys: army, from: 1996, cite: a01-wiki-fang-wenping }
+    - { title: 陆军第二十七集团军后勤部部长, sys: army, from: 1998, cite: a01-wiki-fang-wenping }
+    - { title: 河北省军区参谋长, sys: army, place: 河北, from: 2000, cite: a01-wiki-fang-wenping }
+    - { title: 山西省军区司令员, sys: army, place: 山西, from: 2005, to: 2010-09, cite: a01-wiki-fang-wenping }
+    - { title: 中共山西省委常委, sys: party, place: 山西, from: 2006-10, to: 2010-09, cite: a01-wiki-fang-wenping }
+    - { title: 北京军区党委巡视组巡视员, sys: army, from: 2010-09, cite: a01-wiki-fang-wenping }
+  cites: [wd-Q8337958, a01-wiki-fang-wenping, f09-hqrw-2015-01-26-army-tigers]
+
+- id: wei-jin
+  name: 卫晋
+  gender: m
+  born: 1959-10
+  birthplace: 山西临汾
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 7 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-04, text: 因涉嫌严重违纪被成都军区纪委立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { date: 2014-07, text: 移送军事司法机关依法处理, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 西藏军区原副政委，少将
+  ids: { wikidata: Q18810257 }
+  bio: >-
+    1990 年起长期在成都军区政治部宣传部工作，2005 年任宣传部副部长，2007 年任遂宁军分区政委，2011 年 11 月任西藏军区副政委。环球人物指他与同批落马的成都军区副司令员杨金山有工作交集。2014 年 4 月被成都军区纪委立案调查。
+  positions:
+    - { title: 成都军区政治部宣传部副部长, sys: army, from: 2005, to: 2007, cite: a01-wiki-wei-jin }
+    - { title: 四川省遂宁军分区政治委员, sys: army, place: 四川, from: 2007, to: 2011-11, cite: a01-wiki-wei-jin }
+    - { title: 西藏军区副政治委员, sys: army, place: 西藏, from: 2011-11, to: 2014-03, cite: f09-hqrw-2015-01-26-army-tigers }
+  cites: [wd-Q18810257, a01-wiki-wei-jin, f09-hqrw-2015-01-26-army-tigers]
+
+- id: ye-wanyong
+  name: 叶万勇
+  gender: m
+  born: 1953-09
+  birthplace: 湖北武汉
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 8 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-05, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { date: 2014-08, text: 移送军事司法机关依法处理, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 四川省军区原政委、四川省委原常委，少将
+  ids: { wikidata: Q18608773 }
+  bio: >-
+    长期在西藏军区任政工干部，2005 年任西藏军区副政委，2006 年任四川省军区政委，次年进入四川省委常委班子。2012 年换届时一度退出常委，两个月后又经中央批准重新进入。2012 年退休，2014 年 5 月被军委纪委立案调查。
+  positions:
+    - { title: 西藏军区政治部主任, sys: army, place: 西藏, from: 2000-08, cite: a01-wiki-ye-wanyong }
+    - { title: 西藏军区副政治委员, sys: army, place: 西藏, from: 2005-12, cite: a01-wiki-ye-wanyong }
+    - { title: 四川省军区政治委员, sys: army, place: 四川, from: 2006-10, to: 2012, cite: a01-wiki-ye-wanyong }
+    - { title: 中共四川省委常委, sys: party, place: 四川, from: 2007-01, to: 2012, cite: a01-wiki-ye-wanyong }
+  cites: [wd-Q18608773, a01-wiki-ye-wanyong, f09-hqrw-2015-01-26-army-tigers]
+
+- id: zhang-qibin
+  name: 张祁斌
+  gender: m
+  born: 1953-11
+  birthplace: 河北深县
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 11 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-08, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { date: 2014-11, text: 移送军事司法机关依法处理, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 济南军区原副参谋长，少将
+  ids: { wikidata: Q18810195 }
+  bio: >-
+    长期在济南军区炮兵部队任职，任炮兵第 8 师师长时以训练改革和技术革新闻名，曾获两项国家专利。2001 年任第 26 集团军副军长，2003 年短暂任北海舰队副参谋长，2010 年任济南军区副参谋长。2014 年 8 月被军委纪委立案调查。
+  positions:
+    - { title: 炮兵第 8 师师长, sys: army, cite: a01-wiki-zhang-qibin }
+    - { title: 陆军第 26 集团军副军长, sys: army, from: 2001-12, cite: a01-wiki-zhang-qibin }
+    - { title: 海军北海舰队副参谋长, sys: army, from: 2003-07, to: 2003-12, cite: a01-wiki-zhang-qibin }
+    - { title: 济南军区副参谋长, sys: army, from: 2010-05, cite: a01-wiki-zhang-qibin }
+  cites: [wd-Q18810195, a01-wiki-zhang-qibin, f09-hqrw-2015-01-26-army-tigers]
+
+- id: fu-linguo
+  name: 符林国
+  gender: m
+  born: 1964
+  birthplace: 贵州印江
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 5 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2014-05, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 总后勤部司令部原副参谋长，少将
+  ids: { wikidata: Q18810207 }
+  bio: >-
+    军事学博士，从战士做起，历任正团职、正师职秘书，曾任总后勤部部长廖锡龙的秘书，是文献纪录片《忠诚》的总撰稿之一。2010 年晋升少将，后任总后勤部司令部副参谋长。2014 年 5 月被军事检察机关立案侦查。
+  positions:
+    - { title: 总后勤部部长廖锡龙秘书, sys: army, cite: a01-wiki-fu-linguo }
+    - { title: 总后勤部司令部副参谋长, sys: army, to: 2014-05, cite: f09-hqrw-2015-01-26-army-tigers }
+  cites: [wd-Q18810207, a01-wiki-fu-linguo, f09-hqrw-2015-01-26-army-tigers]
+
+- id: dai-weimin
+  name: 戴维民
+  gender: m
+  born: 1962-05
+  birthplace: 安徽宣城
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2014 年 11 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌违法犯罪，由纪检机关移送，军事检察机关对其立案侦查, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 南京政治学院原副院长兼上海分院院长，少将
+  ids: { wikidata: Q18627579 }
+  bio: >-
+    华东师范大学图书馆学硕士、复旦大学文学博士，1990 年代进入上海空军政治学院，1999 年该院并入南京政治学院后历任上海分院系主任、院长，2010 年晋升少将，2013 年任南京政治学院副院长。维基百科称其案涉及上海分院土地及工程基建问题。
+  positions:
+    - { title: 南京政治学院上海分院院长, sys: army, place: 上海, cite: a01-wiki-dai-weimin }
+    - { title: 南京政治学院训练部部长, sys: army, from: 2010, cite: a01-wiki-dai-weimin }
+    - { title: 南京政治学院副院长, sys: army, from: 2013, to: 2014-11, cite: a01-wiki-dai-weimin }
+  cites: [wd-Q18627579, a01-wiki-dai-weimin, f09-hqrw-2015-01-26-army-tigers]
+
+- id: chen-qiang-pla
+  name: 陈强
+  gender: m
+  born: 1956-02
+  birthplace: 湖北宜城
+  roles: [tiger, general]
+  status: detained
+  statusNote: 2014 年 5 月被判处无期徒刑。中国军网通报称其为 96301 部队副部队长，维基百科写作 96351 部队（第 56 基地）副司令员，本站按通报。
+  fall:
+    - { date: 2014-05, text: 因犯贪污、受贿、巨额财产来源不明罪，解放军总直属队军事法院判处其无期徒刑, cite: f09-hqrw-2015-01-26-army-tigers }
+  tier: 2
+  headline: 第二炮兵 96301 部队原副部队长，少将
+  ids: { wikidata: Q18810269 }
+  bio: >-
+    第二炮兵基地级部队副职，2010 年 7 月授少将军衔。2014 年 5 月被解放军总直属队军事法院以贪污、受贿、巨额财产来源不明罪判处无期徒刑，是 2015 年 1 月首批公布的 16 名军级以上干部中唯一已经判刑的人。
+  positions:
+    - { title: 第二炮兵 96301 部队副部队长, sys: army, to: 2014, cite: f09-hqrw-2015-01-26-army-tigers }
+  cites: [wd-Q18810269, a01-wiki-chen-qiang-pla, f09-hqrw-2015-01-26-army-tigers]
+
+# ───────── 2015-03-02: second batch ─────────
+- id: zhu-heping-pla
+  name: 朱和平
+  gender: m
+  born: 1957-08
+  birthplace: 江西万载
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被移送军事司法机关，此后判决未见官方通报。维基百科条目名写 1958 年，正文写 1957 年 8 月生，本站按正文。
+  fall:
+    - { date: 2014-08, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-01, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 成都军区联勤部原部长，少将
+  ids: { wikidata: Q19825643 }
+  bio: >-
+    早年任总参作战部参谋，曾任中央军委副主席张万年的秘书。2005 年晋升少将，2007 年任第 14 集团军副军长，2009 年任重庆警备区司令员，2014 年任成都军区联勤部部长，同年 8 月即被军委纪委立案调查。
+  positions:
+    - { title: 中央军委副主席张万年秘书, sys: army, cite: a01-wiki-zhu-heping }
+    - { title: 陆军第 14 集团军副军长, sys: army, from: 2007, cite: a01-wiki-zhu-heping }
+    - { title: 重庆警备区司令员, sys: army, place: 重庆, from: 2009, cite: a01-wiki-zhu-heping }
+    - { title: 成都军区联勤部部长, sys: army, from: 2014, to: 2014-08, cite: a01-wiki-zhu-heping }
+  cites: [wd-Q19825643, a01-wiki-zhu-heping, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: wang-aiguo-pla
+  name: 王爱国
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 2 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-02, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 沈阳军区联勤部原部长，少将
+  ids: { wikidata: Q30946849 }
+  bio: >-
+    沈阳军区后勤系统将领，曾任沈阳军区联勤部物资油料部部长，后升任联勤部部长。2014 年 11 月被军委纪委立案调查，2015 年 2 月移送军事司法机关，是 2015 年 3 月第二批公布的 14 名军级以上干部之一。
+  positions:
+    - { title: 沈阳军区联勤部物资油料部部长, sys: army, cite: a01-wiki-wang-aiguo }
+    - { title: 沈阳军区联勤部部长, sys: army, cite: a01-wiki-wang-aiguo }
+  cites: [wd-Q30946849, a01-wiki-wang-aiguo, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: huang-xianjun
+  name: 黄献军
+  gender: m
+  birthplace: 河北隆尧
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-01, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 山西省军区政治部原主任、原副政委，少将
+  ids: { wikidata: Q19825881 }
+  bio: >-
+    2008 年任山西省军区政治部主任，次年晋升少将，2011 年任山西省军区副政委，后卸任。他与同年被查的山西省军区原司令员方文平同属山西省军区班子。2014 年 11 月被军委纪委立案调查。
+  positions:
+    - { title: 山西省军区政治部主任, sys: army, place: 山西, from: 2008, to: 2011, cite: a01-wiki-huang-xianjun }
+    - { title: 山西省军区副政治委员, sys: army, place: 山西, from: 2011, cite: a01-wiki-huang-xianjun }
+  cites: [wd-Q19825881, a01-wiki-huang-xianjun, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: duan-tianjie
+  name: 段天杰
+  gender: m
+  birthplace: 山西娄烦
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-01, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 国防大学政治部原副主任，少将
+  ids: { wikidata: Q19825695 }
+  bio: >-
+    早年任北京军区政治部《战友报》社长，2012 年 6 月任国防大学基本系政委，后任国防大学政治部副主任。2014 年 4 月出版长篇爱情小说《紫竹情》，同年 11 月被军委纪委立案调查。
+  positions:
+    - { title: 北京军区政治部《战友报》社长, sys: army, cite: a01-wiki-duan-tianjie }
+    - { title: 国防大学基本系政治委员, sys: army, place: 北京, from: 2012-06, cite: a01-wiki-duan-tianjie }
+    - { title: 国防大学政治部副主任, sys: army, place: 北京, to: 2014-11, cite: a01-wiki-duan-tianjie }
+  cites: [wd-Q19825695, a01-wiki-duan-tianjie, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: yuan-shijun
+  name: 苑世军
+  gender: m
+  born: 1949-11
+  birthplace: 河北邢台
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 2 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-10, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-02, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 湖北省军区原司令员，少将
+  ids: { wikidata: Q17066833 }
+  bio: >-
+    曾任驻港部队副司令员、广东省军区副司令员，后任湖北省军区司令员，2008 年当选第十一届全国人大解放军代表。2014 年 10 月被军委纪委立案调查。湖北省军区此后又有副司令员兰伟杰、占俊落马，前后三名少将。
+  positions:
+    - { title: 驻香港部队副司令员, sys: army, place: 香港, cite: a01-wiki-yuan-shijun }
+    - { title: 广东省军区副司令员, sys: army, place: 广东, cite: a01-wiki-yuan-shijun }
+    - { title: 湖北省军区司令员, sys: army, place: 湖北, cite: a01-wiki-yuan-shijun }
+  cites: [wd-Q17066833, a01-wiki-yuan-shijun, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: huang-xing-pla
+  name: 黄星
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 2 月被移送军事司法机关，此后判决未见官方通报。
+  fall:
+    - { date: 2015-01, text: 因涉嫌严重违纪被军委纪委立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { date: 2015-02, text: 移送军事司法机关依法处理, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 军事科学院科研指导部原部长，少将
+  ids: { wikidata: Q19825879 }
+  bio: >-
+    毕业于西北师范学院，长期在军事科学院工作，任科研指导部部长、部党委书记和军事科学院党委常委，后晋升少将。2015 年 1 月被军委纪委立案调查。凤凰卫视引述的消息称他涉嫌在 2009 年果敢冲突中向果敢同盟军泄密，官方未证实。
+  positions:
+    - { title: 军事科学院科研指导部部长, sys: army, place: 北京, to: 2015-01, cite: a01-wiki-huang-xing-pla }
+    - { title: 军事科学院党委常委, sys: army, place: 北京, cite: a01-wiki-huang-xing-pla }
+  cites: [wd-Q19825879, a01-wiki-huang-xing-pla, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: zhang-dongshui
+  name: 张东水
+  gender: m
+  born: 1956-03
+  birthplace: 山东陵县
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-01, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 第二炮兵原副政委，少将
+  ids: { wikidata: Q19825603 }
+  bio: >-
+    第二炮兵政工干部，历任第五十四基地政治部主任、第二炮兵工程学院政委、第二炮兵指挥学院政委和第五十五基地政委，2006 年晋升少将。2014 年 12 月任第二炮兵副政委，上任不满 14 天即于 2015 年 1 月被军事检察机关立案侦查。
+  positions:
+    - { title: 第二炮兵第五十四基地政治部主任, sys: army, from: 2005-01, cite: a01-wiki-zhang-dongshui }
+    - { title: 第二炮兵工程学院政治委员, sys: army, from: 2006-12, cite: a01-wiki-zhang-dongshui }
+    - { title: 第二炮兵指挥学院政治委员, sys: army, from: 2009-05, cite: a01-wiki-zhang-dongshui }
+    - { title: 第二炮兵第五十五基地政治委员, sys: army, from: 2010-12, cite: a01-wiki-zhang-dongshui }
+    - { title: 第二炮兵副政治委员, sys: army, from: 2014-12, to: 2015-01, cite: a01-wiki-zhang-dongshui }
+  cites: [wd-Q19825603, a01-wiki-zhang-dongshui, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: cheng-jie-pla
+  name: 程杰
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-01, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 海军北海舰队原副参谋长，少将
+  ids: { wikidata: Q19825752 }
+  bio: >-
+    海军将领，曾任东海舰队舟山水警区司令员，后任北海舰队副参谋长，2007 年晋升海军少将。2014 年还参与新型护卫舰蚌埠舰首次战备巡航，次年 1 月即被军事检察机关立案侦查。
+  positions:
+    - { title: 东海舰队舟山水警区司令员, sys: army, place: 浙江, cite: a01-wiki-cheng-jie-pla }
+    - { title: 海军北海舰队副参谋长, sys: army, to: 2015-01, cite: a01-wiki-cheng-jie-pla }
+  cites: [wd-Q19825752, a01-wiki-cheng-jie-pla, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: chen-jianfeng-pla
+  name: 陈剑锋
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 1 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-01, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 广州军区联勤部原副部长，少将
+  ids: { wikidata: Q19825842 }
+  bio: >-
+    后勤将领，2000 年任海南省军区后勤部部长，2006 年当选海南省军区党委常委，2010 年升任广州军区联勤部副部长并授少将军衔。2015 年 1 月被军事检察机关立案侦查，通报时已称原副部长。
+  positions:
+    - { title: 海南省军区后勤部部长, sys: army, place: 海南, from: 2000, cite: a01-wiki-chen-jianfeng-pla }
+    - { title: 广州军区联勤部副部长, sys: army, from: 2010, cite: a01-wiki-chen-jianfeng-pla }
+  cites: [wd-Q19825842, a01-wiki-chen-jianfeng-pla, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: chen-hongyan
+  name: 陈红岩
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 2 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-02, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 北京军区空军政治部原副主任，少将
+  ids: { wikidata: Q19825844 }
+  bio: >-
+    北京航空航天大学毕业，曾任总政治部干部部科技文职干部局局长，2013 年 9 月任北京军区空军政治部副主任，2014 年 7 月晋升少将。晋升半年后，2015 年 2 月被军事检察机关立案侦查。
+  positions:
+    - { title: 总政治部干部部科技文职干部局局长, sys: army, place: 北京, cite: a01-wiki-chen-hongyan }
+    - { title: 北京军区空军政治部副主任, sys: army, place: 北京, from: 2013-09, to: 2015-02, cite: a01-wiki-chen-hongyan }
+  cites: [wd-Q19825844, a01-wiki-chen-hongyan, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: wang-sheng-pla
+  name: 王声
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 2 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-02, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 广州军区空军后勤部原部长，少将
+  ids: { wikidata: Q19825723 }
+  bio: >-
+    空军后勤营房系统出身，历任空军后勤部机场营房部副部长、部长，2011 年 12 月任广州军区空军后勤部部长，2012 年晋升空军少将。2015 年 2 月被军事检察机关立案侦查。
+  positions:
+    - { title: 空军后勤部机场营房部部长, sys: army, cite: a01-wiki-wang-sheng-pla }
+    - { title: 广州军区空军后勤部部长, sys: army, from: 2011-12, to: 2015-02, cite: a01-wiki-wang-sheng-pla }
+  cites: [wd-Q19825723, a01-wiki-wang-sheng-pla, f09-rmzxw-2015-03-03-army-tigers]
+
+- id: lan-weijie
+  name: 兰伟杰
+  gender: m
+  roles: [tiger, general]
+  status: detained
+  statusNote: 2015 年 1 月被广州军区军事法院判处无期徒刑。
+  fall:
+    - { date: 2015-01, text: 因犯受贿罪、巨额财产来源不明罪和非法持有枪支、弹药罪，广州军区军事法院判处其无期徒刑, cite: f09-rmzxw-2015-03-03-army-tigers }
+  tier: 2
+  headline: 湖北省军区原副司令员，少将
+  ids: { wikidata: Q19825492 }
+  bio: >-
+    曾任总后勤部基建营房部工程管理局局长，维基百科称他是谷俊山的老部下。后任湖北省军区副司令员，2013 年卸任。2015 年 1 月被广州军区军事法院以受贿、巨额财产来源不明和非法持有枪支弹药三罪判处无期徒刑。
+  positions:
+    - { title: 总后勤部基建营房部工程管理局局长, sys: army, place: 北京, cite: a01-wiki-lan-weijie }
+    - { title: 湖北省军区副司令员, sys: army, place: 湖北, to: 2013, cite: a01-wiki-lan-weijie }
+  cites: [wd-Q19825492, a01-wiki-lan-weijie, f09-rmzxw-2015-03-03-army-tigers]
+
+# ───────── 2015-04 to 2015-12: batches 3–12 and later notices ─────────
+- id: zhan-jun
+  name: 占俊
+  gender: m
+  born: 1959
+  birthplace: 湖北团风
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 3 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-12, text: 因涉嫌严重违纪被军委纪委立案调查, cite: a01-thepaper-2015-10-army-tigers-44 }
+    - { date: 2015-03, text: 移送军事检察机关依法处理, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 湖北省军区原副司令员，少将
+  ids: { wikidata: Q19849311 }
+  bio: >-
+    湖北省军区后勤系统出身，历任湖北省军区后勤部部长、副司令员。2014 年 12 月被军委纪委立案调查，2015 年 4 月公布，是继原司令员苑世军、原副司令员兰伟杰之后湖北省军区第三名落马的少将。
+  positions:
+    - { title: 湖北省军区后勤部部长, sys: army, place: 湖北, cite: a01-wiki-zhan-jun }
+    - { title: 湖北省军区副司令员, sys: army, place: 湖北, cite: a01-wiki-zhan-jun }
+  cites: [wd-Q19849311, a01-wiki-zhan-jun, a01-thepaper-2015-10-army-tigers-44]
+
+- id: dong-mingxiang
+  name: 董明祥
+  gender: m
+  born: 1953-09
+  birthplace: 安徽来安
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 3 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-03, text: 因涉嫌违法犯罪被军事检察机关立案侦查, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 北京军区联勤部原部长，少将
+  ids: { wikidata: Q19825777 }
+  bio: >-
+    1969 年入伍，长期主管北京军区营房基建，1998 年任北京军区后勤部基建营房部部长，次年升任联勤部副部长，2001 年授少将军衔，2005 年任正军职的北京军区联勤部部长。2015 年 3 月被军事检察机关立案侦查，维基百科引财新称其涉嫌向军方高层行贿。
+  positions:
+    - { title: 北京军区后勤部基建营房部部长, sys: army, place: 北京, from: 1998, cite: a01-wiki-dong-mingxiang }
+    - { title: 北京军区联勤部副部长, sys: army, place: 北京, from: 1999, cite: a01-wiki-dong-mingxiang }
+    - { title: 北京军区联勤部部长, sys: army, place: 北京, from: 2005-07, cite: a01-wiki-dong-mingxiang }
+  cites: [wd-Q19825777, a01-wiki-dong-mingxiang, a01-thepaper-2015-10-army-tigers-44]
+
+- id: zhou-minggui
+  name: 周明贵
+  gender: m
+  born: 1957-01
+  birthplace: 江苏泰兴
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 5 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2015-01, text: 因涉嫌严重违纪被军委纪委立案调查, cite: a01-people-2015-05-29-army-batch4 }
+    - { date: 2015-05, text: 移送军事检察机关依法处理, cite: a01-people-2015-05-29-army-batch4 }
+  tier: 2
+  headline: 南京军区政治部原副主任，少将
+  ids: { wikidata: Q22099935 }
+  bio: >-
+    1976 年入伍，南京军区政工干部，历任南京军区政治部宣传部部长、第 12 集团军政治部主任和副政委、南京军区联勤部政委，后任南京军区政治部副主任。2015 年 1 月被军委纪委立案调查，5 月与浙江省军区原司令员傅怡同日公布。
+  positions:
+    - { title: 南京军区政治部宣传部部长, sys: army, cite: a01-wiki-zhou-minggui }
+    - { title: 陆军第 12 集团军政治部主任、副政委, sys: army, cite: a01-wiki-zhou-minggui }
+    - { title: 南京军区联勤部政治委员, sys: army, cite: a01-wiki-zhou-minggui }
+    - { title: 南京军区政治部副主任, sys: army, to: 2015-01, cite: a01-people-2015-05-29-army-batch4 }
+  cites: [wd-Q22099935, a01-wiki-zhou-minggui, a01-people-2015-05-29-army-batch4]
+
+- id: kou-tie
+  name: 寇铁
+  gender: m
+  born: 1950-04
+  birthplace: 黑龙江安达
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 5 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌严重违纪被军委纪委立案调查, cite: a01-people-2015-06-16-army-batch5 }
+    - { date: 2015-05, text: 移送军事检察机关依法处理, cite: a01-people-2015-06-16-army-batch5 }
+  tier: 2
+  headline: 黑龙江省军区原司令员，少将
+  ids: { wikidata: Q17023924 }
+  bio: >-
+    1968 年入伍，沈阳军区装甲兵出身，任过坦克 5 师师长、第 40 集团军参谋长，2002 年任第 23 集团军军长，是该军最后一任军长。2003 年该军番号撤销后任黑龙江省军区司令员七年，2008 年当选全国人大代表，2010 年退休。2014 年 11 月被军委纪委立案调查。
+  positions:
+    - { title: 陆军第 40 集团军参谋长, sys: army, from: 1996, cite: a01-wiki-kou-tie }
+    - { title: 陆军第 23 集团军军长, sys: army, from: 2002-01, to: 2003-11, cite: a01-wiki-kou-tie }
+    - { title: 黑龙江省军区司令员, sys: army, place: 黑龙江, from: 2003-11, to: 2010, cite: a01-wiki-kou-tie }
+  cites: [wd-Q17023924, a01-wiki-kou-tie, a01-people-2015-06-16-army-batch5]
+
+- id: liu-zhanqi
+  name: 刘占琪
+  gender: m
+  born: 1956-12
+  birthplace: 河北定州
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 5 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2014-11, text: 因涉嫌严重违纪，经军委纪委批准，武警部队纪委对其立案调查, cite: a01-people-2015-06-16-army-batch5 }
+    - { date: 2015-05, text: 移送军事检察机关依法处理, cite: a01-people-2015-06-16-army-batch5 }
+  tier: 2
+  headline: 武警交通指挥部原司令员，武警少将
+  ids: { wikidata: Q22774227 }
+  bio: >-
+    1973 年入伍，长期在武警新疆总队后勤部门任职，1999 年任武警新疆总队后勤部部长，2005 年任武警总部审计局局长，2008 年任武警部队后勤部副部长，后任武警交通指挥部司令员，2010 年晋升武警少将。他是武警交通指挥部先后落马的四名副军级以上干部中的第一人。
+  positions:
+    - { title: 武警新疆总队后勤部部长, sys: army, place: 新疆, from: 1999-03, cite: a01-wiki-liu-zhanqi }
+    - { title: 武警总部审计局局长, sys: army, place: 北京, from: 2005-04, cite: a01-wiki-liu-zhanqi }
+    - { title: 武警部队后勤部副部长, sys: army, place: 北京, from: 2008-11, cite: a01-wiki-liu-zhanqi }
+    - { title: 武警交通指挥部司令员, sys: army, place: 北京, cite: a01-people-2015-06-16-army-batch5 }
+  cites: [wd-Q22774227, a01-wiki-liu-zhanqi, a01-people-2015-06-16-army-batch5]
+
+- id: wang-xin-pap
+  name: 王信
+  gender: m
+  born: 1954
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 7 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2015-07-31, text: 中国军网通报，经军委纪委批准，武警部队纪委对其涉嫌严重违纪问题立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关依法处理, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 武警交通指挥部原政委，武警少将
+  bio: >-
+    武警政工干部，历任武警广西总队政治部主任、政委，武警四川总队政委，后任正军级的武警交通指挥部政委。2015 年 7 月中国军网通报其被立案调查并移送军事检察机关，是武警交通指挥部继原司令员刘占琪之后落马的第二名主官。
+  positions:
+    - { title: 武警广西总队政治委员, sys: army, place: 广西, cite: a01-wiki-wang-xin-pap }
+    - { title: 武警四川总队政治委员, sys: army, place: 四川, cite: a01-wiki-wang-xin-pap }
+    - { title: 武警交通指挥部政治委员, sys: army, place: 北京, cite: a01-wiki-wang-xin-pap }
+  cites: [a01-wiki-wang-xin-pap, a01-thepaper-2015-10-army-tigers-44]
+
+- id: wang-yufa
+  name: 王玉发
+  gender: m
+  born: 1948-08
+  birthplace: 河南南召
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 9 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-08, text: 被撤销政协第十二届全国委员会委员资格, cite: a01-wiki-wang-yufa }
+    - { date: 2015-09-30, text: 中国军网通报，军事检察机关对其涉嫌违法犯罪问题立案侦查, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 广州军区原副政委兼广州军区空军原政委，中将
+  ids: { wikidata: Q8332492 }
+  bio: >-
+    1968 年入伍，参加过中越战争，1999 年任驻香港部队政委，2003 年接替刘亚洲任成都军区空军政委，2006 年任广州军区副政委兼空军政委，2005 年晋升中将。2012 年退役后任全国政协委员，2015 年 8 月被撤销委员资格，9 月被立案侦查。
+  positions:
+    - { title: 驻香港部队副政治委员, sys: army, place: 香港, from: 1994-11, to: 1999, cite: a01-wiki-wang-yufa }
+    - { title: 驻香港部队政治委员, sys: army, place: 香港, from: 1999, to: 2003-12, cite: a01-wiki-wang-yufa }
+    - { title: 成都军区空军政治委员, sys: army, from: 2003-12, to: 2006, cite: a01-wiki-wang-yufa }
+    - { title: 广州军区副政委兼广州军区空军政治委员, sys: army, from: 2006, to: 2012-12, cite: a01-wiki-wang-yufa }
+    - { title: 全国政协委员, sys: other, from: 2013, to: 2015-08, cite: a01-wiki-wang-yufa }
+  cites: [wd-Q8332492, a01-wiki-wang-yufa, a01-thepaper-2015-10-army-tigers-44]
+
+- id: miao-guirong
+  name: 缪贵荣
+  gender: m
+  born: 1961
+  birthplace: 甘肃环县
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 9 月被移送军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-09-15, text: 中国军网通报，经军委纪委批准，武警部队纪委对其涉嫌严重违纪问题立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关立案侦查, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 武警交通指挥部原总工程师，武警少将
+  ids: { wikidata: Q28416726 }
+  bio: >-
+    1980 年入伍，武警交通部队技术干部，任武警交通指挥部总工程师，副军级，武警少将警衔。2015 年 9 月中国军网通报其被立案调查，是武警交通指挥部继刘占琪、王信之后落马的第三名副军级以上干部。
+  positions:
+    - { title: 武警交通指挥部总工程师, sys: army, place: 北京, cite: a01-wiki-miao-guirong }
+  cites: [wd-Q28416726, a01-wiki-miao-guirong, a01-thepaper-2015-10-army-tigers-44]
+
+- id: zhou-guotai
+  name: 周国泰
+  gender: m
+  born: 1949-08-30
+  birthplace: 吉林镇赉
+  origin: 山东文登
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 10 月被移送军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-10-21, text: 中国军网通报，经军委纪委批准，总后勤部纪委对其涉嫌严重违纪问题立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关立案侦查, cite: a01-thepaper-2015-10-army-tigers-44 }
+  tier: 2
+  headline: 总后勤部军需物资油料部原副部长，中国工程院院士，少将
+  ids: { wikidata: Q21040235 }
+  bio: >-
+    中山大学化学系毕业，长期从事功能服装和个体防护研究，1999 年当选中国工程院院士，军队专业技术一级、少将。2011 年高调宣布发明超级电容器，曾受质疑。2015 年 10 月被总后纪委立案调查，是十八大以来首位被查的两院院士。
+  positions:
+    - { title: 总后勤部军需物资油料部副部长, sys: army, place: 北京, cite: a01-thepaper-2015-10-army-tigers-44 }
+    - { title: 中国工程院院士, sys: other, from: 1999, cite: a01-wiki-zhou-guotai }
+  cites: [wd-Q21040235, a01-wiki-zhou-guotai, a01-thepaper-2015-10-army-tigers-44]
+
+- id: zhang-genheng
+  name: 张根恒
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月被开除党籍、按程序报批开除军籍，涉嫌犯罪问题移送司法机关；此后判决未见报道。
+  fall:
+    - { date: 2015-11-03, text: 经公安部党委批准，公安部纪委、驻部监察局立案审查，决定给予其开除党籍处分，按程序报批开除军籍，涉嫌犯罪问题、线索移送司法机关依法处理, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  tier: 2
+  headline: 新疆公安边防总队原总队长，武警少将
+  ids: { wikidata: Q28416782 }
+  bio: >-
+    公安边防部队将领，副军级，武警少将警衔，曾任浙江省公安边防总队政委、武警新疆边防总队政委，后任新疆公安边防总队总队长。2015 年 11 月公安部纪委通报，他在战士入学提干、大学生入警等方面为他人谋利、收受财物，被开除党籍。
+  positions:
+    - { title: 浙江省公安边防总队政治委员, sys: gov, place: 浙江, cite: a01-wiki-zhang-genheng }
+    - { title: 新疆公安边防总队总队长, sys: gov, place: 新疆, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  cites: [wd-Q28416782, a01-wiki-zhang-genheng, a01-ccdi-2015-11-03-zhang-genheng]
+
+- id: yin-zhishan
+  name: 尹志山
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月受留党察看一年、撤职处分，副军职降为正师职，按程序报批由武警少将降为大校警衔；未见移送司法的报道。
+  fall:
+    - { date: 2015-11-03, text: 公安部党委决定给予其留党察看一年、撤职、副军职降为正师职处分，按程序报批由武警少将警衔降为大校警衔, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  tier: 2
+  headline: 公安部警卫局原副局长，原武警少将
+  ids: { wikidata: Q30946818 }
+  bio: >-
+    公安部警卫系统干部，曾任公安部警卫局政治处主任、副局级调研员（副军职），后任警卫局副局长，武警少将警衔。2015 年 11 月公安部通报其受留党察看一年、撤职处分，降为正师职，警衔降为大校。
+  positions:
+    - { title: 公安部警卫局政治处主任, sys: gov, place: 北京, cite: a01-wiki-yin-zhishan }
+    - { title: 公安部警卫局副局长, sys: gov, place: 北京, to: 2015-11, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  cites: [wd-Q30946818, a01-wiki-yin-zhishan, a01-ccdi-2015-11-03-zhang-genheng]
+
+- id: ma-dewen
+  name: 马德文
+  gender: m
+  born: 1956-11
+  birthplace: 吉林通化
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月受留党察看一年处分；未见移送司法的报道。
+  fall:
+    - { date: 2015-11-03, text: 公安部党委决定给予其留党察看一年处分, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  tier: 2
+  headline: 江苏省消防总队原总队长，武警少将
+  ids: { wikidata: Q28417171 }
+  bio: >-
+    1976 年入伍，消防部队出身，历任吉林省消防总队政治部主任、副总队长，广西消防总队政委、总队长，后任江苏省消防总队总队长（副军职），2012 年 7 月晋升武警少将。2015 年 11 月公安部通报其受留党察看一年处分。
+  positions:
+    - { title: 广西壮族自治区消防总队总队长, sys: gov, place: 广西, cite: a01-wiki-ma-dewen }
+    - { title: 江苏省消防总队总队长, sys: gov, place: 江苏, to: 2015, cite: a01-wiki-ma-dewen }
+  cites: [wd-Q28417171, a01-wiki-ma-dewen, a01-ccdi-2015-11-03-zhang-genheng]
+
+- id: wang-yu-navy
+  name: 汪玉
+  gender: m
+  born: 1964-01
+  birthplace: 湖北枝江
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 9 月因严重违纪、涉嫌犯罪辞去全国人大代表职务；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2015-09-28, text: 因严重违纪、涉嫌犯罪，本人提出辞去全国人大代表职务，海军选举委员会决定接受其辞职, cite: a01-npc-2015-11-04-report }
+    - { date: 2015-11-04, text: 全国人大常委会代表资格审查委员会报告其代表资格终止, cite: a01-npc-2015-11-04-report }
+  tier: 2
+  headline: 海军南海舰队装备部原部长、海军装备研究院原院长，专业技术少将
+  ids: { wikidata: Q11137009 }
+  bio: >-
+    上海交通大学船舶动力装置专业研究生，1987 年入伍分配到海军装备论证中心，在海军装备研究院从工程师做到院长，被称为舰船系统工程领域专家，2007 年晋升专业技术少将，两届全国人大代表。2014 年 12 月任南海舰队装备部部长，2015 年 9 月被免职并辞去人大代表。
+  positions:
+    - { title: 海军装备研究院舰船所所长, sys: army, place: 北京, cite: a01-wiki-wang-yu-navy }
+    - { title: 海军装备研究院院长, sys: army, place: 北京, cite: a01-wiki-wang-yu-navy }
+    - { title: 海军南海舰队装备部部长, sys: army, place: 广东, from: 2014-12, to: 2015-09, cite: a01-wiki-wang-yu-navy }
+  cites: [wd-Q11137009, a01-wiki-wang-yu-navy, a01-npc-2015-11-04-report]
+
+- id: wu-ruizhong
+  name: 吴瑞忠
+  gender: m
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月被移送军事检察机关，此后判决未见官方通报。
+  fall:
+    - { date: 2015-11-13, text: 中国军网通报，军委纪委对其涉嫌严重违纪问题进行立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关依法处理, cite: a01-people-2015-11-13-army-batch }
+  tier: 2
+  headline: 第二炮兵工程大学原副政委，少将
+  ids: { wikidata: Q30946830 }
+  bio: >-
+    第二炮兵院校政工干部，任第二炮兵工程大学副政委，少将军衔。2015 年 11 月中国军网通报军委纪委对他立案调查并移送军事检察机关，与武警交通指挥部原副司令员瞿木田同日公布。
+  positions:
+    - { title: 第二炮兵工程大学副政治委员, sys: army, place: 西安, cite: a01-people-2015-11-13-army-batch }
+  cites: [wd-Q30946830, a01-wiki-wu-ruizhong, a01-people-2015-11-13-army-batch]
+
+- id: qu-mutian
+  name: 瞿木田
+  gender: m
+  born: 1958
+  birthplace: 湖北孝感
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月被移送军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-11-13, text: 中国军网通报，经军委纪委批准，武警部队纪委对其涉嫌严重违纪问题进行立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关立案侦查, cite: a01-people-2015-11-13-army-batch }
+  tier: 2
+  headline: 武警交通指挥部原副司令员，武警少将
+  ids: { wikidata: Q28416723 }
+  bio: >-
+    1976 年入伍，武警交通部队将领，任武警交通指挥部副司令员（副军级）。2015 年 11 月被通报立案调查，是十八大以来武警交通指挥部继刘占琪、王信、缪贵荣之后落马的第四名副军级以上干部，该部因此被称为腐败重灾区。
+  positions:
+    - { title: 武警交通指挥部副司令员, sys: army, place: 北京, cite: a01-wiki-qu-mutian }
+  cites: [wd-Q28416723, a01-wiki-qu-mutian, a01-people-2015-11-13-army-batch]
+
+- id: yang-hai-pap
+  name: 杨海
+  gender: m
+  born: 1957-03
+  birthplace: 辽宁凤城
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 11 月因涉嫌严重违纪被罢免全国人大代表；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2015-11-26, text: 福建省人大常委会鉴于其涉嫌严重违纪，罢免其第十二届全国人大代表职务, cite: a01-caixin-2015-11-26-yang-hai }
+    - { date: 2015-12-27, text: 全国人大常委会公告其代表资格终止, cite: a01-npc-2015-12-27-notice-16 }
+  tier: 2
+  headline: 武警福建省总队原司令员，武警少将
+  ids: { wikidata: Q11101781 }
+  bio: >-
+    国防大学联合战役指挥专业研究生，曾任武警部队司令部通信部部长，2010 年 12 月任武警福建省总队总队长，2013 年改称司令员，同年当选全国人大代表。2015 年夏到龄退役，11 月被罢免人大代表，财新称他是十八大以来首位被查的省级武警总队军政主官。
+  positions:
+    - { title: 武警部队司令部通信部部长, sys: army, place: 北京, cite: a01-wiki-yang-hai }
+    - { title: 武警福建省总队总队长、司令员, sys: army, place: 福建, from: 2010-12, to: 2015-07, cite: a01-wiki-yang-hai }
+  cites: [wd-Q11101781, a01-wiki-yang-hai, a01-caixin-2015-11-26-yang-hai, a01-npc-2015-12-27-notice-16]
+
+- id: shen-tao-pap
+  name: 沈涛
+  gender: m
+  born: 1958-07
+  birthplace: 安徽岳西
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 10 月被武警部队军事检察院以涉嫌受贿立案侦查；此后判决未见官方通报。
+  fall:
+    - { date: 2015-10-13, text: 武警部队军事检察院下达立案决定书，决定对其涉嫌受贿一案立案侦查, cite: a01-thepaper-2015-11-26-shen-tao }
+    - { date: 2015-11-26, text: 河南省人大常委会决定接受其辞去第十二届全国人大代表职务, cite: a01-wiki-shen-tao }
+    - { date: 2015-12-27, text: 全国人大常委会公告其代表资格终止, cite: a01-npc-2015-12-27-notice-16 }
+  tier: 2
+  headline: 武警工程大学原校长、武警河南省总队原司令员，武警少将
+  ids: { wikidata: Q11138507 }
+  bio: >-
+    1976 年入伍，任过武警第 93 师副师长、第 38 师师长和武警北京总队参谋长，2010 年 12 月任武警河南省总队总队长，2011 年晋升武警少将，2014 年 7 月升任武警工程大学校长。2015 年 9 月被免去校长职务、去向不明，10 月被武警军事检察院以涉嫌受贿立案。
+  positions:
+    - { title: 武警第 38 师师长, sys: army, from: 2007-08, cite: a01-wiki-shen-tao }
+    - { title: 武警北京市总队参谋长, sys: army, place: 北京, from: 2010-09, cite: a01-wiki-shen-tao }
+    - { title: 武警河南省总队总队长、司令员, sys: army, place: 河南, from: 2010-12, to: 2014-07, cite: a01-wiki-shen-tao }
+    - { title: 武警工程大学校长, sys: army, place: 西安, from: 2014-07, to: 2015-09, cite: a01-wiki-shen-tao }
+  cites: [wd-Q11138507, a01-wiki-shen-tao, a01-thepaper-2015-11-26-shen-tao, a01-npc-2015-12-27-notice-16]
+
+- id: li-mingquan
+  name: 李明泉
+  gender: m
+  born: 1958-11
+  birthplace: 河北武安
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2015 年 12 月被军事检察机关立案侦查，此后判决未见官方通报。
+  fall:
+    - { date: 2015-12-10, text: 中国军网通报，军事检察机关对其涉嫌违法犯罪问题进行立案侦查, cite: a01-81-2015-12-10-li-mingquan }
+  tier: 2
+  headline: 总装备部通用装备保障部原部长，少将
+  ids: { wikidata: Q30946811 }
+  bio: >-
+    总装备部装备保障系统干部，历任通用装备保障部车船局局长、副部长、部长。2015 年 12 月中国军网通报军事检察机关对他涉嫌违法犯罪问题立案侦查，通报只有这一句，未说原因。
+  positions:
+    - { title: 总装备部通用装备保障部车船局局长, sys: army, place: 北京, cite: a01-wiki-li-mingquan }
+    - { title: 总装备部通用装备保障部副部长, sys: army, place: 北京, cite: a01-wiki-li-mingquan }
+    - { title: 总装备部通用装备保障部部长, sys: army, place: 北京, to: 2015-12, cite: a01-81-2015-12-10-li-mingquan }
+  cites: [wd-Q30946811, a01-wiki-li-mingquan, a01-81-2015-12-10-li-mingquan]
+
+# ───────── 2016–2017 ─────────
+- id: yu-tiemin
+  name: 于铁民
+  gender: m
+  born: 1956
+  birthplace: 北京
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2016 年 1 月因涉嫌严重违纪辞去全国人大代表职务；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2016-01-28, text: 因涉嫌严重违纪，本人提出辞去第十二届全国人大代表职务，江苏省人大常委会决定接受其辞职, cite: a01-thepaper-2016-07-26-yu-tiemin }
+  tier: 2
+  headline: 武警江苏省总队原司令员，武警少将
+  ids: { wikidata: Q9101586 }
+  bio: >-
+    黑龙江大学毕业，曾任武警黑龙江省总队副参谋长，后在武警江苏省总队任副司令员、司令员，2013 年当选全国人大代表。2015 年 1 月 1 日到服役年限退休，一年后因涉嫌严重违纪辞去人大代表，2016 年 7 月人大报告公开后才为外界所知。
+  positions:
+    - { title: 武警黑龙江省总队副参谋长, sys: army, place: 黑龙江, cite: a01-wiki-yu-tiemin }
+    - { title: 武警江苏省总队副司令员, sys: army, place: 江苏, cite: a01-wiki-yu-tiemin }
+    - { title: 武警江苏省总队司令员, sys: army, place: 江苏, to: 2015-01, cite: a01-thepaper-2016-07-26-yu-tiemin }
+  cites: [wd-Q9101586, a01-wiki-yu-tiemin, a01-thepaper-2016-07-26-yu-tiemin, a01-caixin-2016-07-26-yu-tiemin]
+
+- id: zhu-hongda
+  name: 朱洪达
+  gender: m
+  born: 1954-08
+  birthplace: 上海
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2016 年 3 月因严重违纪被撤销全国政协委员资格；此后立案和判决未见官方通报。维基百科落马名单把日期写作 2017 年 3 月 4 日，与政协的决定不符。
+  fall:
+    - { date: 2016-03-31, text: 全国政协主席会议审议通过撤销其政协第十二届全国委员会委员资格的决定, cite: a01-caixin-2016-03-31-zhu-hongda }
+    - { date: 2016-06-24, text: 全国政协常委会鉴于其严重违纪，追认撤销其全国政协委员资格的决定, cite: a01-cppcc-2016-06-24-zhu-hongda }
+  tier: 2
+  headline: 空军后勤部原部长，少将
+  ids: { wikidata: Q16949492 }
+  bio: >-
+    空军工程大学道路与铁道工程专业硕士，长期在空军后勤系统，曾任兰州军区空军后勤部长，2007 年 9 月任空军后勤部部长，2014 年底到龄卸任，2013 年起任全国政协委员。2016 年 3 月被撤销政协委员资格，财新称他是空军第四名落马将领。
+  positions:
+    - { title: 兰州军区空军后勤部部长, sys: army, cite: a01-caixin-2016-03-31-zhu-hongda }
+    - { title: 空军后勤部部长, sys: army, place: 北京, from: 2007-09, to: 2014-12, cite: a01-caixin-2016-03-31-zhu-hongda }
+    - { title: 全国政协委员, sys: other, from: 2013-02, to: 2016-03, cite: a01-caixin-2016-03-31-zhu-hongda }
+  cites: [wd-Q16949492, a01-wiki-zhu-hongda, a01-caixin-2016-03-31-zhu-hongda, a01-cppcc-2016-06-24-zhu-hongda]
+
+- id: zhang-ming-pla
+  name: 张鸣
+  gender: m
+  born: 1957-07
+  birthplace: 辽宁东沟
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2016 年因严重违纪违法辞去全国人大代表职务；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2016-07, text: 因严重违纪违法，辞去第十二届全国人大代表职务, cite: a01-wiki-zhang-ming-pla }
+  tier: 2
+  headline: 原济南军区参谋长，少将
+  ids: { wikidata: Q28411856 }
+  bio: >-
+    南京陆军指挥学院作战指挥专业军事学硕士，长期在总参谋部任职，历任总参作战部副部长、陆航部部长、战略规划部部长，2014 年 12 月任济南军区参谋长，2013 年当选全国人大代表。2016 年因严重违纪违法辞去人大代表，澎湃新闻称官方消息证实他已落马。
+  positions:
+    - { title: 总参谋部作战部副部长, sys: army, place: 北京, cite: a01-wiki-zhang-ming-pla }
+    - { title: 总参谋部陆军航空兵部部长, sys: army, place: 北京, cite: a01-wiki-zhang-ming-pla }
+    - { title: 总参谋部战略规划部部长, sys: army, place: 北京, cite: a01-wiki-zhang-ming-pla }
+    - { title: 济南军区参谋长, sys: army, place: 济南, from: 2014-12, cite: a01-wiki-zhang-ming-pla }
+  cites: [wd-Q28411856, a01-wiki-zhang-ming-pla, a01-thepaper-2016-08-zhang-ming]
+
+- id: zhou-linhe
+  name: 周林和
+  gender: m
+  born: 1955
+  birthplace: 江苏丹阳
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2016 年 8 月因涉嫌违纪违法辞去全国人大代表职务；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2016-08-18, text: 因涉嫌违纪违法，本人提出辞去全国人大代表职务，中央军委后勤保障部选举委员会决定接受其辞职, cite: a01-npc-2016-09-03-report }
+    - { date: 2016-09-03, text: 全国人大常委会代表资格审查委员会报告其代表资格终止, cite: a01-npc-2016-09-03-report }
+  tier: 2
+  headline: 原总后勤部军需物资油料部部长，少将
+  ids: { wikidata: Q10920711 }
+  bio: >-
+    后勤指挥学院毕业，曾任总后勤部军需物资油料部部长，2013 年当选全国人大代表。2016 年 8 月因涉嫌违纪违法辞去人大代表，与空军原政委田修思同一份报告公布。财新称他的前同事和下属、该部原副部长周国泰此前已落马。
+  positions:
+    - { title: 总后勤部军需物资油料部部长, sys: army, place: 北京, cite: a01-npc-2016-09-03-report }
+  cites: [wd-Q10920711, a01-wiki-zhou-linhe, a01-npc-2016-09-03-report, a01-caixin-2016-09-03-zhou-linhe]
+
+- id: yang-shiguang
+  name: 杨世光
+  gender: m
+  born: 1956-08
+  birthplace: 浙江宁海
+  roles: [tiger, general]
+  status: missing
+  statusNote: 2017 年 4 月香港《星岛日报》称他约于 4 月 5 日被军委纪委双规，联合早报、自由亚洲电台转述；官方从未证实，也没有公布罢免或处分。本站未查到他 2017 年 4 月以后的公开露面。
+  fall:
+    - { date: 2017-04, text: 联合早报转引《星岛日报》称其因涉嫌严重违纪接受中央军委纪委调查, cite: a01-zaobao-2017-04-14-yang-shiguang }
+  tier: 2
+  headline: 海军政治工作部原主任，中将
+  ids: { wikidata: Q28410474 }
+  bio: >-
+    1974 年入伍，长期在海军从事政治工作，历任驱逐舰政委、海军航空工程学院政委、东海舰队政治部主任，2014 年 12 月任海军政治部主任，军改后任海军政治工作部主任，2016 年晋升中将。2017 年 4 月港媒称他被双规，官方从未证实，本站此后未查到他的公开活动。
+  positions:
+    - { title: 海军航空工程学院政治委员, sys: army, place: 山东, from: 2008-08, cite: a01-wiki-yang-shiguang }
+    - { title: 东海舰队政治部主任, sys: army, place: 浙江, from: 2013-03, to: 2014-12, cite: a01-wiki-yang-shiguang }
+    - { title: 海军政治部主任, sys: army, place: 北京, from: 2014-12, to: 2016, cite: a01-wiki-yang-shiguang }
+    - { title: 海军政治工作部主任, sys: army, place: 北京, from: 2016, to: 2017-04, cite: a01-wiki-yang-shiguang }
+  cites: [wd-Q28410474, a01-wiki-yang-shiguang, a01-zaobao-2017-04-14-yang-shiguang, a01-rfa-2017-04-13-yang-shiguang]
+
+- id: li-zhijian-pap
+  name: 李志坚
+  gender: m
+  born: 1962-12
+  birthplace: 河南延津
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2017 年 7 月被立案审查并辞去全国人大代表职务；此后判决未见官方通报。
+  fall:
+    - { date: 2017-07-03, text: 被立案审查，涉嫌严重违反政治纪律、组织纪律、廉洁纪律和国家法律法规；因涉嫌严重违纪，河北省人大常委会决定接受其辞去全国人大代表职务, cite: a01-thepaper-2017-07-04-li-zhijian }
+    - { date: 2017-09-01, text: 全国人大常委会代表资格审查委员会报告其代表资格终止, cite: a01-npc-2017-09-01-report }
+  tier: 2
+  headline: 武警河北省总队原司令员，武警少将
+  ids: { wikidata: Q110405386 }
+  bio: >-
+    西安陆军学院军事指挥专业毕业，曾任武警新疆生产建设兵团指挥部主任，2012 年 1 月任武警河北省总队总队长，2013 年改称司令员，2012 年 12 月晋升武警少将，是第十二届全国人大代表。2017 年 6 月卸任，7 月即被立案审查。
+  positions:
+    - { title: 武警新疆生产建设兵团指挥部主任, sys: army, place: 新疆, cite: a01-wiki-li-zhijian-pap }
+    - { title: 武警河北省总队总队长、司令员, sys: army, place: 河北, from: 2012-01, to: 2017-06, cite: a01-wiki-li-zhijian-pap }
+  cites: [wd-Q110405386, a01-wiki-li-zhijian-pap, a01-thepaper-2017-07-04-li-zhijian, a01-npc-2017-09-01-report]
+
+- id: liu-shengjie
+  name: 刘生杰
+  gender: m
+  born: 1956-11
+  birthplace: 陕西神木
+  roles: [tiger, general, ccdi]
+  status: purged
+  statusNote: 2017 年 10 月十八届中央纪委八次全会确认撤销其中央纪委委员职务，官方未说明原因；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2017-10-09, text: 十八届中央纪委八次全会确认中央纪委常委会此前作出的撤销其中央纪委委员职务的决定, cite: r03-ccdi-2017-10-09-ccdi-8th-plenum }
+  tier: 2
+  headline: 中央军委后勤保障部原副部长、总后勤部原副政委兼纪委书记，中将
+  ids: { wikidata: Q18651732 }
+  bio: >-
+    1974 年入伍，西安政治学院毕业，长期在总后勤部政治机关任职，2009 年任总后政治部主任，2012 年当选十八届中央纪委委员，2013 年任总后副政委兼纪委书记，2016 年任军委后勤保障部副部长，2010 年晋升中将。2017 年 10 月被撤销中央纪委委员职务。
+  positions:
+    - { title: 第二军医大学政治部主任, sys: army, place: 上海, cite: a01-wiki-liu-shengjie }
+    - { title: 总后勤部政治部主任, sys: army, place: 北京, from: 2009-07, to: 2013-07, cite: a01-wiki-liu-shengjie }
+    - { title: 中央纪委委员, sys: party, from: 2012-11, to: 2017, cite: a01-wiki-liu-shengjie }
+    - { title: 总后勤部副政委兼纪委书记, sys: army, place: 北京, from: 2013-07, to: 2016-01, cite: a01-wiki-liu-shengjie }
+    - { title: 中央军委后勤保障部副部长, sys: army, place: 北京, from: 2016-01, cite: a01-wiki-liu-shengjie }
+  cites: [wd-Q18651732, a01-wiki-liu-shengjie, r03-ccdi-2017-10-09-ccdi-8th-plenum]
+
+# ───────── 2019–2022 ─────────
+- id: qian-weiping
+  name: 钱卫平
+  gender: m
+  born: 1963
+  birthplace: 江苏宜兴
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2019 年 7 月国防部证实其因涉嫌严重违纪和职务违法犯罪被中央军委纪委监委立案审查调查，并否认涉间谍案；此后处理结果未见官方通报。
+  fall:
+    - { date: 2019-07-24, text: 国防部发言人称其因涉嫌严重违纪和职务违法犯罪，被中央军委纪委监委立案审查调查, cite: a01-chinanews-2019-07-24-qian-weiping }
+  tier: 2
+  headline: 中央军委装备发展部原副部长，航天测控专家，少将
+  bio: >-
+    1980 年考入国防科技大学，航天测控通信专家，曾任北京跟踪与通信技术研究所所长、嫦娥一号和二号及载人飞船任务测控系统总设计师，后任装备发展部信息系统局局长，2019 年 3 月任装备发展部副部长。四个月后被立案，是十九大后首名被公开查处的军级以上将领。
+  positions:
+    - { title: 北京跟踪与通信技术研究所所长, sys: army, place: 北京, cite: a01-wiki-qian-weiping }
+    - { title: 中央军委装备发展部信息系统局局长, sys: army, place: 北京, cite: a01-wiki-qian-weiping }
+    - { title: 中央军委装备发展部副部长, sys: army, place: 北京, from: 2019-03, to: 2019-07, cite: a01-wiki-qian-weiping }
+  cites: [a01-wiki-qian-weiping, a01-chinanews-2019-07-24-qian-weiping, a01-huanqiu-2019-07-24-qian-weiping]
+
+- id: rao-kaixun
+  name: 饶开勋
+  gender: m
+  ethnicity: 回族
+  born: 1964-04
+  birthplace: 四川越西
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2019 年因严重违纪被责令辞去全国人大代表职务；维基百科称被降为副军级。未见移送司法的报道。
+  fall:
+    - { date: 2019-07-31, text: 因严重违纪被责令辞去第十三届全国人大代表职务，战略支援部队选举委员会决定接受其辞职, cite: a01-caixin-2019-10-27-rao-xu }
+    - { date: 2019-10-26, text: 全国人大常委会会议通过代表资格审查委员会报告，其代表资格终止, cite: a01-caixin-2019-10-27-rao-xu }
+  tier: 2
+  headline: 战略支援部队原副司令员兼参谋长，中将
+  ids: { wikidata: Q16908146 }
+  bio: >-
+    1980 年入伍，成都军区野战部队出身，任过第 149 师师长、第 13 集团军参谋长和第 14 集团军军长，2013 年任总参作战部部长兼国家人防办主任，2016 年任战略支援部队副司令员，2017 年兼参谋长并晋升中将。2019 年被责令辞去人大代表，是战略支援部队首名被处分的军级以上将领。
+  positions:
+    - { title: 陆军第十四集团军军长, sys: army, place: 云南, from: 2012, to: 2013, cite: a01-wiki-rao-kaixun }
+    - { title: 总参谋部作战部部长、国家人民防空办公室主任, sys: army, place: 北京, from: 2013, cite: a01-wiki-rao-kaixun }
+    - { title: 战略支援部队副司令员, sys: army, place: 北京, from: 2016, to: 2019, cite: a01-wiki-rao-kaixun }
+    - { title: 战略支援部队参谋长, sys: army, place: 北京, from: 2017-08, to: 2019, cite: a01-wiki-rao-kaixun }
+  cites: [wd-Q16908146, a01-wiki-rao-kaixun, a01-caixin-2019-10-27-rao-xu]
+
+- id: xu-xianghua
+  name: 徐向华
+  gender: m
+  born: 1965-05
+  birthplace: 江苏海安
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2019 年因严重违纪被责令辞去全国人大代表职务；此后处理结果未见官方通报。
+  fall:
+    - { date: 2019-08-26, text: 因严重违纪被责令辞去第十三届全国人大代表职务，陆军选举委员会决定接受其辞职, cite: a01-caixin-2019-10-27-rao-xu }
+    - { date: 2019-10-26, text: 全国人大常委会会议通过代表资格审查委员会报告，其代表资格终止, cite: a01-caixin-2019-10-27-rao-xu }
+  tier: 2
+  headline: 西部战区陆军原副司令员，少将
+  ids: { wikidata: Q85353285 }
+  bio: >-
+    2014 年 12 月晋升少将，2017 年任新组建的第 74 集团军首任军长，后转任西部战区陆军副司令员，2018 年当选第十三届全国人大代表。2019 年 8 月因严重违纪被责令辞去人大代表，与战略支援部队原副司令员饶开勋同一份报告公布。
+  positions:
+    - { title: 陆军第 74 集团军军长, sys: army, from: 2017, cite: a01-wiki-xu-xianghua }
+    - { title: 西部战区陆军副司令员, sys: army, to: 2019, cite: a01-wiki-xu-xianghua }
+  cites: [wd-Q85353285, a01-wiki-xu-xianghua, a01-caixin-2019-10-27-rao-xu]
+
+- id: ye-qing-pla
+  name: 叶青
+  gender: m
+  born: 1962-08
+  birthplace: 河北故城
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2019 年因严重违纪被免去海南省军区政委职务、责令辞去全国人大代表职务；此后处理结果未见官方通报。
+  fall:
+    - { date: 2019-09-03, text: 因严重违纪被责令辞去第十三届全国人大代表职务，中央军委国防动员部选举委员会决定接受其辞职, cite: a01-npc-2019-12-28-report }
+    - { date: 2019-12-28, text: 全国人大常委会代表资格审查委员会报告其代表资格终止, cite: a01-npc-2019-12-28-report }
+  tier: 2
+  headline: 海南省军区原政委，少将
+  bio: >-
+    1991 年起在总参谋部办公厅秘书局任职，做过中央军委办公厅主任董良驹的秘书，历任晋中军分区政委、山西省军区政治部副主任，2012 年任第 65 集团军副政委，2017 年任海南省军区政委，2018 年当选全国人大代表。2019 年因严重违纪被免职并责令辞去人大代表。
+  positions:
+    - { title: 中央军委办公厅主任董良驹秘书, sys: army, place: 北京, cite: a01-wiki-ye-qing-pla }
+    - { title: 山西省军区政治部副主任, sys: army, place: 山西, cite: a01-wiki-ye-qing-pla }
+    - { title: 陆军第六十五集团军副政治委员, sys: army, from: 2012, cite: a01-wiki-ye-qing-pla }
+    - { title: 海南省军区政治委员, sys: army, place: 海南, from: 2017, to: 2019, cite: a01-wiki-ye-qing-pla }
+  cites: [a01-wiki-ye-qing-pla, a01-npc-2019-12-28-report]
+
+- id: meng-zhongkang
+  name: 孟中康
+  gender: m
+  born: 1961-04
+  birthplace: 浙江诸暨
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2019 年因严重违纪被免去江苏省委常委、省军区政委职务，责令辞去全国人大代表职务；此后处理结果未见官方通报。
+  fall:
+    - { date: 2019-09-03, text: 因严重违纪被责令辞去第十三届全国人大代表职务，中央军委国防动员部选举委员会决定接受其辞职, cite: a01-npc-2019-12-28-report }
+    - { date: 2019-12-28, text: 全国人大常委会代表资格审查委员会报告其代表资格终止, cite: a01-npc-2019-12-28-report }
+  tier: 2
+  headline: 江苏省军区原政委、江苏省委原常委，少将
+  ids: { wikidata: Q30945714 }
+  bio: >-
+    政工干部，任过北京军区红军师政委，2010 年任第 38 集团军政治部主任，后任副政委，2014 年任北京军区联勤部副政委，2016 年任东部战区陆军副政委，2017 年先后任第 12 集团军政委和江苏省军区政委，2018 年进入江苏省委常委班子。2019 年因严重违纪被免职。
+  positions:
+    - { title: 陆军第三十八集团军政治部主任, sys: army, from: 2010-12, cite: a01-wiki-meng-zhongkang }
+    - { title: 北京军区联勤部副政治委员, sys: army, from: 2014-01, cite: a01-wiki-meng-zhongkang }
+    - { title: 东部战区陆军副政治委员, sys: army, from: 2016-01, cite: a01-wiki-meng-zhongkang }
+    - { title: 陆军第十二集团军政治委员, sys: army, from: 2017-01, to: 2017-04, cite: a01-wiki-meng-zhongkang }
+    - { title: 江苏省军区政治委员, sys: army, place: 江苏, from: 2017-04, to: 2019, cite: a01-wiki-meng-zhongkang }
+    - { title: 中共江苏省委常委, sys: party, place: 江苏, from: 2018-01, to: 2019, cite: a01-wiki-meng-zhongkang }
+  cites: [wd-Q30945714, a01-wiki-meng-zhongkang, a01-npc-2019-12-28-report]
+
+- id: song-xue-navy
+  name: 宋学
+  gender: m
+  born: 1958-07
+  birthplace: 山东德州
+  roles: [tiger, general]
+  status: purged
+  statusNote: 2021 年 4 月因涉嫌严重违纪违法被罢免全国人大代表；此后立案和判决未见官方通报。
+  fall:
+    - { date: 2021-04-08, text: 因涉嫌严重违纪违法，海军军人代表大会决定罢免其第十三届全国人大代表职务, cite: a01-guancha-2021-04-30-song-xue }
+    - { date: 2021-04-29, text: 全国人大常委会公告其代表资格终止, cite: a01-npc-2021-04-29-notice-21 }
+  tier: 2
+  headline: 海军原副参谋长，少将
+  ids: { wikidata: Q110405083 }
+  bio: >-
+    海军装备系统将领，曾任海军装备部副部长、海军副参谋长，2010 年 7 月晋升海军少将，曾任航母舰载机起降试验副总指挥。2021 年 4 月因涉嫌严重违纪违法被海军军人代表大会罢免全国人大代表。
+  positions:
+    - { title: 海军装备部副部长, sys: army, place: 北京, cite: a01-wiki-song-xue }
+    - { title: 海军副参谋长, sys: army, place: 北京, to: 2021, cite: a01-wiki-song-xue }
+  cites: [wd-Q110405083, a01-wiki-song-xue, a01-guancha-2021-04-30-song-xue, a01-npc-2021-04-29-notice-21]

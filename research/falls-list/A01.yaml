@@ -1,0 +1,97 @@
+# A01: PLA / PAP officers of major general or above (incl. academies, the active-duty police ranks under the Ministry
+# of Public Security, and active generals in the defence industry) who fell, were recalled or went missing, first
+# public news 2012-11 to 2022-12. `date` is the first public news (an official notice; for those without one, the
+# first credible report); `id` is the person card. Case records: content/falls/A01.yaml.
+# Basis: the twelve 2015 "军队查处军级以上干部重大案件情况" batches (a01-thepaper-2015-10-army-tigers-44, which
+# reprints them all; f09-hqrw-2015-01-26-army-tigers and f09-rmzxw-2015-03-03-army-tigers for the first two), the later
+# 中国军网 notices, the NPC delegate-qualification reports and gazette notices, the CPPCC and CCDI plenum decisions,
+# and zh.wikipedia's list of fallen deputy-corps-level officers (a01-wiki-pla-fallen-list).
+# Out of scope: 刘亚洲 and everyone first reported 2023-01 or later (A02); 吴国华 (died 2023, A02).
+# Left out: 李继耐, 廖锡龙 (2016 reports of being taken away, but both appeared at the 2016 National Day reception and
+# no official action followed); 马向东, 王东 (senior colonels); 马发祥 (navy deputy political commissar, died 2014-11-13;
+# the navy paper announced death from illness, and the link to a probe rests only on hearsay — no fall can be set);
+# 张福生 (R05).
+# ───────── 2012–2014: before the batch notices ─────────
+- { name: 谷俊山, date: 2012-02, post: "总后勤部副部长", id: gu-junshan, done: true }
+- { name: 徐才厚, date: 2014-06-30, post: "原中央军委副主席", id: xu-caihou, done: true }
+# ───────── 2015-01-13 to 2015-01-15: 蔡广辽 and the first batch (2014 cases) ─────────
+- { name: 蔡广辽, date: 2015-01-13, post: "广东省公安厅原党委副书记（武警少将）", id: cai-guangliao, done: true }
+- { name: 王明贵, date: 2015-01-15, post: "防空兵指挥学院原政委", id: wang-minggui-pla, done: true }
+- { name: 方文平, date: 2015-01-15, post: "山西省军区原司令员", id: fang-wenping, done: true }
+- { name: 卫晋, date: 2015-01-15, post: "西藏军区副政委", id: wei-jin, done: true }
+- { name: 叶万勇, date: 2015-01-15, post: "四川省军区原政委", id: ye-wanyong, done: true }
+- { name: 杨金山, date: 2015-01-15, post: "成都军区副司令员", id: yang-jinshan, done: true }
+- { name: 张祁斌, date: 2015-01-15, post: "济南军区原副参谋长", id: zhang-qibin, done: true }
+- { name: 符林国, date: 2015-01-15, post: "总后勤部司令部副参谋长", id: fu-linguo, done: true }
+- { name: 刘铮, date: 2015-01-15, post: "总后勤部副部长", id: liu-zheng, done: true }
+- { name: 戴维民, date: 2015-01-15, post: "南京政治学院副院长", id: dai-weimin, done: true }
+- { name: 高小燕, date: 2015-01-15, post: "解放军信息工程大学副政委", id: gao-xiaoyan, done: true }
+- { name: 张代新, date: 2015-01-15, post: "黑龙江省军区副司令员", id: zhang-daixin, done: true }
+- { name: 范长秘, date: 2015-01-15, post: "兰州军区副政委", id: fan-changmi, done: true }
+- { name: 于大清, date: 2015-01-15, post: "第二炮兵副政委", id: yu-daqing, done: true }
+- { name: 陈强, date: 2015-01-15, post: "第二炮兵96301部队副部队长", id: chen-qiang-pla, done: true }
+# ───────── 2015-03-02: second batch ─────────
+- { name: 朱和平, date: 2015-03-02, post: "成都军区联勤部部长", id: zhu-heping-pla, done: true }
+- { name: 王爱国, date: 2015-03-02, post: "沈阳军区联勤部原部长", id: wang-aiguo-pla, done: true }
+- { name: 黄献军, date: 2015-03-02, post: "山西省军区政治部原主任", id: huang-xianjun, done: true }
+- { name: 段天杰, date: 2015-03-02, post: "国防大学政治部副主任", id: duan-tianjie, done: true }
+- { name: 苑世军, date: 2015-03-02, post: "湖北省军区原司令员", id: yuan-shijun, done: true }
+- { name: 黄星, date: 2015-03-02, post: "军事科学院科研指导部原部长", id: huang-xing-pla, done: true }
+- { name: 张东水, date: 2015-03-02, post: "第二炮兵副政委", id: zhang-dongshui, done: true }
+- { name: 刘洪杰, date: 2015-03-02, post: "总参谋部管理保障部副部长", id: liu-hongjie, done: true }
+- { name: 程杰, date: 2015-03-02, post: "海军北海舰队副参谋长", id: cheng-jie-pla, done: true }
+- { name: 陈剑锋, date: 2015-03-02, post: "广州军区联勤部原副部长", id: chen-jianfeng-pla, done: true }
+- { name: 陈红岩, date: 2015-03-02, post: "北京军区空军政治部副主任", id: chen-hongyan, done: true }
+- { name: 王声, date: 2015-03-02, post: "广州军区空军后勤部部长", id: wang-sheng-pla, done: true }
+- { name: 郭正钢, date: 2015-03-02, post: "浙江省军区副政委", id: guo-zhenggang, done: true }
+- { name: 兰伟杰, date: 2015-03-02, post: "湖北省军区原副司令员", id: lan-weijie, done: true }
+# ───────── 2015-04 to 2015-12: batches 3–12 and later notices ─────────
+- { name: 郭伯雄, date: 2015-04-09, post: "原中央军委副主席", id: guo-boxiong, done: true }
+- { name: 占国桥, date: 2015-04-26, post: "兰州军区联勤部原部长", id: zhan-guoqiao, done: true }
+- { name: 占俊, date: 2015-04-26, post: "湖北省军区原副司令员", id: zhan-jun, done: true }
+- { name: 董明祥, date: 2015-04-26, post: "北京军区联勤部原部长", id: dong-mingxiang, done: true }
+- { name: 傅怡, date: 2015-05-29, post: "浙江省军区原司令员", id: fu-yi, done: true }
+- { name: 周明贵, date: 2015-05-29, post: "南京军区政治部副主任", id: zhou-minggui, done: true }
+- { name: 寇铁, date: 2015-06-16, post: "黑龙江省军区原司令员", id: kou-tie, done: true }
+- { name: 刘占琪, date: 2015-06-16, post: "武警交通指挥部原司令员", id: liu-zhanqi, done: true }
+- { name: 邓瑞华, date: 2015-07-10, post: "兰州军区联勤部原政委", id: deng-ruihua, done: true }
+- { name: 王信, date: 2015-07-31, post: "武警交通指挥部原政委", id: wang-xin-pap, done: true }
+- { name: 张万松, date: 2015-08-08, post: "兰州军区联勤部原部长", id: zhang-wansong, done: true }
+- { name: 王玉发, date: 2015-08, post: "广州军区空军原政委", id: wang-yufa, done: true }
+- { name: 缪贵荣, date: 2015-09-15, post: "武警交通指挥部原总工程师", id: miao-guirong, done: true }
+- { name: 周国泰, date: 2015-10-21, post: "总后勤部军需物资油料部原副部长", id: zhou-guotai, done: true }
+- { name: 张根恒, date: 2015-11-03, post: "新疆公安边防总队原总队长", id: zhang-genheng, done: true }
+- { name: 尹志山, date: 2015-11-03, post: "公安部警卫局原副局长", id: yin-zhishan, done: true }
+- { name: 马德文, date: 2015-11-03, post: "江苏消防总队原总队长", id: ma-dewen, done: true }
+- { name: 汪玉, date: 2015-11-04, post: "海军南海舰队装备部原部长", id: wang-yu-navy, done: true }
+- { name: 吴瑞忠, date: 2015-11-13, post: "第二炮兵工程大学原副政委", id: wu-ruizhong, done: true }
+- { name: 瞿木田, date: 2015-11-13, post: "武警交通指挥部原副司令员", id: qu-mutian, done: true }
+- { name: 杨海, date: 2015-11-26, post: "武警福建省总队原司令员", id: yang-hai-pap, done: true }
+- { name: 沈涛, date: 2015-11-26, post: "武警工程大学原校长、武警河南省总队原司令员", id: shen-tao-pap, done: true }
+- { name: 李明泉, date: 2015-12-10, post: "总装备部通用装备保障部原部长", id: li-mingquan, done: true }
+# ───────── 2016–2017 ─────────
+- { name: 于铁民, date: 2016-01-28, post: "武警江苏省总队原司令员", id: yu-tiemin, done: true }
+- { name: 朱洪达, date: 2016-03-31, post: "空军后勤部原部长", id: zhu-hongda, done: true }
+- { name: 张鸣, date: 2016-06, post: "原济南军区参谋长", id: zhang-ming-pla, done: true }
+- { name: 田修思, date: 2016-07-09, post: "空军原政委", id: tian-xiusi, done: true }
+- { name: 周林和, date: 2016-08-18, post: "原总后勤部军需物资油料部部长", id: zhou-linhe, done: true }
+- { name: 牛志忠, date: 2016-10-27, post: "武警部队原副司令员", id: niu-zhizhong, done: true }
+- { name: 王建平, date: 2016-12-29, post: "中央军委联合参谋部副参谋长", id: wang-jianping, done: true }
+- { name: 王喜斌, date: 2017-02-24, post: "国防大学原校长", id: wang-xibin, done: true }
+- { name: 杨世光, date: 2017-04-13, post: "海军政治工作部主任", id: yang-shiguang, done: true }
+- { name: 李志坚, date: 2017-07-03, post: "武警河北省总队原司令员", id: li-zhijian-pap, done: true }
+- { name: 房峰辉, date: 2018-01, post: "中央军委联合参谋部原参谋长", id: fang-fenghui, done: true }
+- { name: 张阳, date: 2017-11-28, post: "中央军委政治工作部原主任", id: zhang-yang, done: true }
+- { name: 刘生杰, date: 2017-10-09, post: "中央军委后勤保障部副部长", id: liu-shengjie, done: true }
+# ───────── 2019–2022 ─────────
+- { name: 钱卫平, date: 2019-07-24, post: "中央军委装备发展部副部长", id: qian-weiping, done: true }
+- { name: 饶开勋, date: 2019-10-26, post: "战略支援部队原副司令员兼参谋长", id: rao-kaixun, done: true }
+- { name: 徐向华, date: 2019-10-26, post: "西部战区陆军原副司令员", id: xu-xianghua, done: true }
+- { name: 叶青, date: 2019-12-28, post: "海南省军区原政委", id: ye-qing-pla, done: true }
+- { name: 孟中康, date: 2019-12-28, post: "江苏省军区原政委", id: meng-zhongkang, done: true }
+- { name: 宋学, date: 2021-04-29, post: "海军原副参谋长", id: song-xue-navy, done: true }
+- { name: 尚宏, date: 2022-09-25, post: "战略支援部队副司令员兼航天系统部司令员", id: shang-hong, done: true }
+# ───────── not done ─────────
+# 邢伟志: the NPC report (a01-npc-2016-04-28-report) gives "工作变动" as the reason he left the NPC; only Caixin
+# later grouped him with fallen generals. Needs an official text before a card.
+- { name: 邢伟志, date: 2016-04-28, post: "武警甘肃省总队原司令员", id: '', done: false }

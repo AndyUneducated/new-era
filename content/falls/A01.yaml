@@ -1,0 +1,955 @@
+# A01 fall cases: PLA / PAP generals who fell, were recalled or went missing, first public news 2012-11 to 2022-12
+# (list: research/falls-list/A01.yaml). Person id → what the card's fall records do not say
+# (src/data/schema.ts CaseRecordSchema, research/howto-content.md §10).
+# Most cases are known only from the one-line 中国军网 batch notices of 2015 or an NPC qualification report: they name
+# the post, the month of 立案 and 移送, and nothing about the charges, sums or verdict. Those records carry no notice
+# quotes, no discipline list and trigger unknown; politics follows the editor's reading of what sources link them to.
+# Status policy: an official text saying 涉嫌严重违纪/违法犯罪 keeps the card at purged / outcome probe; a removal with no
+# official reason at all is status missing / outcome missing.
+
+# ───────── 郭徐 and the 2012–2014 cases ─────────
+xu-caihou:
+  sys: army
+  grade: state
+  notice:
+    date: 2014-06-30
+    cite: b07-xinhua-2014-06-30-xu-expulsion
+    quotes:
+      - 利用职务便利，为他人晋升职务提供帮助，直接和通过家人收受贿赂
+      - 严重违反党的纪律并涉嫌受贿犯罪，情节严重，影响恶劣
+  trigger:
+    kind: chain
+    text: BBC 称谷俊山被捕后供出徐才厚的犯罪详情，间接将徐拉下马；官方通报未说明线索来源
+    cite: c03-bbc-2015-08-10-gu-junshan
+  with:
+    - { id: gu-junshan, name: 谷俊山, rel: protege, text: 总后勤部原副部长，BBC 称其与徐才厚关系密切, cite: c03-bbc-2015-08-10-gu-junshan }
+    - { id: yu-daqing, name: 于大清, rel: protege, text: 第二炮兵原副政委，新京报“政事儿”称他是徐才厚的老乡兼部下, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+    - { id: guo-boxiong, name: 郭伯雄, rel: colleague, text: 同期的军委副主席，2015 年落马，官方此后一直把两人并称郭徐, cite: b07-xinhua-2016-10-11-guo-xu-poison }
+  politics:
+    level: core
+    why: 编者分析：徐才厚是新中国建军以来与郭伯雄并列“职务最高”的落马军人，开除通报只写卖官受贿，但此后官方的政治定性层层加码：《解放军报》称郭徐“其流毒影响是全面的、深层次的”，陈希把他列为“政治野心家、阴谋家”，2021 年历史决议写入“坚决查处郭伯雄、徐才厚、房峰辉、张阳等严重违纪违法案件并彻底肃清其流毒影响”。他是十八大后军队清洗的起点和核心。
+    cites: [b07-xinhua-2016-10-11-guo-xu-poison, b09-xinhua-2017-11-16-chen-xi-article, b04-gov-2021-11-16-resolution]
+  voices:
+    - { voice: official, text: 环球人物称，习近平 2014 年 10 月 31 日在全军政治工作会议上提出“特别要高度重视和严肃看待徐才厚案件，深刻反思教训，彻底肃清影响”，这是他第一次公开谈及徐案, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { voice: west, text: 美国之音称徐才厚在军中被称为“东北虎”，是江泽民的亲信；评论认为习近平借查处他加强手中军权, cite: b07-voa-2014-07-03-xu-hu }
+  outcome: died
+
+gu-junshan:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: report
+    text: 观察者网引罗援称，刘源和总后党委其他同志“以党委的名义举报谷俊山的贪腐问题”
+    cite: b13-guancha-2015-12-24-liu-yuan
+  with:
+    - { id: xu-caihou, name: 徐才厚, rel: patron, text: BBC 称两人关系密切，谷俊山被捕后供出徐才厚的犯罪详情, cite: c03-bbc-2015-08-10-gu-junshan }
+    - { id: lan-weijie, name: 兰伟杰, rel: protege, text: 总后基建营房部工程管理局原局长，维基百科称是谷俊山的老部下，2015 年被判无期徒刑, cite: a01-wiki-lan-weijie }
+  politics:
+    level: linked
+    why: 编者分析：判决只列贪污、受贿、挪用公款、行贿、滥用职权五罪，没有政治定性；但新华社宣布田修思立案时把他与郭伯雄、徐才厚、杨金山并列为“一批严重违纪违法人员”，军委国防动员部的肃流毒文章更点名郭徐把“品行低劣的谷俊山火箭般擢升为总后勤部副部长”。官方把他的提拔算作郭徐流毒的一部分，本站列为与郭徐清洗相关。
+    cites: [c03-xinhua-2016-07-09-tian-xiusi-probe, f01-thepaper-2017-guo-xu, c03-bbc-2015-08-10-gu-junshan]
+  voices:
+    - { voice: official, text: 环球人物称查处谷俊山时从其家中搜出 1000 多箱茅台酒和大量名表、首饰、字画，总后领导曾向胡锦涛汇报谷案两个多小时, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { voice: west, text: BBC 称谷俊山与徐才厚关系密切，被捕后供出徐的犯罪详情，间接将徐拉下马, cite: c03-bbc-2015-08-10-gu-junshan }
+  outcome: sentenced
+
+# ───────── 2015-01-13 to 2015-01-15: 蔡广辽 and the first batch ─────────
+cai-guangliao:
+  sys: law
+  grade: major
+  amount:
+    yuan: 3289057
+    text: 法院认定其利用职务便利为他人谋利，索取或收受财物共计人民币 328.90569 万元及港币 160 万元、美元 0.7 万元、澳元 1.4 万元
+    cite: a01-wiki-cai-guangliao
+  trigger: { kind: unknown, text: 官方未说明线索来源；维基百科据腾讯网称 2014 年 10 月由军委纪委带走调查, cite: a01-wiki-cai-guangliao }
+  politics:
+    level: none
+    why: 编者分析：蔡广辽是公安现役、长期在广东省警卫系统任职的武警少将，案情只涉受贿；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-cai-guangliao]
+  outcome: sentenced
+
+wang-minggui-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: gao-xiaoyan, name: 高小燕, rel: colleague, text: 王明贵调任防空兵指挥学院前是解放军信息工程大学副政委，同校副政委高小燕 2014 年 11 月被立案侦查, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。环球人物把他与高小燕、戴维民等同列为军老虎中的“学院派”。
+    cites: [f09-hqrw-2015-01-26-army-tigers]
+  voices:
+    - { voice: official, text: 环球人物称防空兵指挥学院此前曾被作为改进工作作风的先进典型报道，王明贵对媒体说学院的用人选拔都坚持公开选择、投票打分, cite: f09-hqrw-2015-01-26-army-tigers }
+  outcome: probe
+
+fang-wenping:
+  sys: army
+  grade: major
+  retired: 2010-09
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: huang-xianjun, name: 黄献军, rel: colleague, text: 山西省军区政治部原主任，2014 年 11 月被立案调查, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：他是山西省委的“戎装常委”，落马时正值山西官场塌方，但通报和报道都只把他放在山西腐败的背景下，没有把他与军中某位落马高官或派系清洗联系起来。
+    cites: [f09-hqrw-2015-01-26-army-tigers, a01-wiki-fang-wenping]
+  voices:
+    - { voice: official, text: 环球人物引山西知情人士称，山西省军区可能会面临此前山西官场那样的“塌方式腐败”, cite: f09-hqrw-2015-01-26-army-tigers }
+  outcome: probe
+
+wei-jin:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: yang-jinshan, name: 杨金山, rel: colleague, text: 卫晋任成都军区宣传部副部长、西藏军区副政委时，杨金山先后任成都军区副参谋长、西藏军区司令员, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：环球人物只指出他与杨金山有工作交集，没有说他因杨案落马；本站未见报道把他与派系清洗直接联系起来。
+    cites: [f09-hqrw-2015-01-26-army-tigers]
+  outcome: probe
+
+ye-wanyong:
+  sys: army
+  grade: major
+  retired: 2012
+  trigger: { kind: chain, text: 维基百科称他 2014 年 5 月因涉嫌徐才厚案被军委纪委调查；官方通报未说明线索来源, cite: a01-wiki-ye-wanyong }
+  with:
+    - { id: yang-jinshan, name: 杨金山, rel: colleague, text: 叶万勇任四川省军区政委期间，杨金山历任成都军区副参谋长、装备部部长, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：通报未说原因，但维基百科称他是因涉嫌徐才厚案被调查，环球人物也把他与杨金山同列为成都军区的一串；他是在退休两年后被查的，本站按这些报道把他列为与徐才厚清洗相关，证据弱于官方定性。
+    cites: [a01-wiki-ye-wanyong, f09-hqrw-2015-01-26-army-tigers]
+  outcome: probe
+
+zhang-qibin:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-hqrw-2015-01-26-army-tigers]
+  outcome: probe
+
+fu-linguo:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：他做过总后勤部部长廖锡龙的秘书，但廖锡龙从未受到官方处分；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-fu-linguo, f09-hqrw-2015-01-26-army-tigers]
+  outcome: probe
+
+dai-weimin:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 通报只说由纪检机关移送军事检察机关，未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：新京报“政事儿”只提到南京政治学院隶属总政，同院政治部主任马向东曾任总政干部培训局局长；没有报道把戴维民本人与徐才厚或郭伯雄直接联系起来。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+chen-qiang-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只列贪污、受贿、巨额财产来源不明三罪和判决；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-hqrw-2015-01-26-army-tigers]
+  outcome: sentenced
+
+yang-jinshan:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: chain, text: 新京报“政事儿”引环球人物称，杨金山被查或是徐才厚案牵出, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+  with:
+    - { id: wei-jin, name: 卫晋, rel: colleague, text: 西藏军区原副政委，同属成都军区，同批公布, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { id: ye-wanyong, name: 叶万勇, rel: colleague, text: 四川省军区原政委，同属成都军区，同批公布, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：他是十八大后落马的军衔最高的现役军人、中央委员；新华社在田修思立案时把他与郭伯雄、徐才厚、谷俊山并列，媒体称他的升迁或牵扯从徐才厚手中买官，另有报道揣测他与薄熙来的关系。本站列为与徐才厚清洗相关。
+    cites: [c03-xinhua-2016-07-09-tian-xiusi-probe, f09-hkcd-2016-07-12-guo-xu-tigers, f09-hqrw-2015-01-26-army-tigers]
+  voices:
+    - { voice: official, text: 环球人物称有媒体认为，杨金山作为第 14 集团军的“老人儿”，或许与薄熙来保持着某种非同寻常的关系；另有知情人士称谷俊山批给西藏军区一大笔款项后，杨金山拿出其中一部分“以示感谢”, cite: f09-hqrw-2015-01-26-army-tigers }
+  outcome: probe
+
+liu-zheng:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: gu-junshan, name: 谷俊山, rel: colleague, text: 刘铮 2012 年末接替谷俊山任总后勤部副部长, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：通报未说原因；新京报“政事儿”把他列为与郭伯雄、徐才厚有交集的落马将领，理由是他接替谷俊山主管营房基建，又是徐才厚的辽宁老乡。这一关联是媒体推断，本站列为与郭徐清洗相关。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+gao-xiaoyan:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：新京报“政事儿”引媒体称她可能通过买官搭上徐才厚的“末班车”成为女将军；官方未作此定性，本站按报道列为与徐才厚清洗相关。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+zhang-daixin:
+  sys: army
+  grade: major
+  fall:
+    - { date: 2015-07-31, text: 中国军网通报其因犯贪污罪，被判处有期徒刑 10 年, cite: a01-thepaper-2015-10-army-tigers-44 }
+  status: detained
+  statusNote: 2014 年 12 月被军事检察机关立案侦查，2015 年 7 月中国军网通报其因犯贪污罪被判处有期徒刑 10 年。
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：通报只列贪污罪；新京报“政事儿”把他列为与徐才厚有交集的将领，理由是他曾任第 16 集团军后勤部部长，而该集团军是徐才厚起家的地方。关联来自媒体推断，本站列为与徐才厚清洗相关。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers, a01-thepaper-2015-10-army-tigers-44]
+  outcome: sentenced
+
+fan-changmi:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: guo-boxiong, name: 郭伯雄, rel: patron, text: 新京报“政事儿”称范长秘被视为郭伯雄的“马仔”“嫡系”，两人都出身第 47 军, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+    - { id: deng-ruihua, name: 邓瑞华, rel: colleague, text: 兰州军区联勤部原政委，同被称为郭伯雄嫡系, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+  politics:
+    level: linked
+    why: 编者分析：六中全会只确认开除党籍，未说原因；媒体普遍把他看作郭伯雄在兰州军区的嫡系，他 1999 年郭伯雄进京后快速升迁，2013 年晋升中将。本站列为郭伯雄清洗的一环。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers, i01-cpc-2016-10-27-6th-plenum-communique]
+  outcome: expelled
+
+yu-daqing:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-hqrw-2015-01-26-army-tigers }
+  with:
+    - { id: xu-caihou, name: 徐才厚, rel: patron, text: 1993—2004 年徐才厚任总政副主任、主任时是于大清的领导，两人都是辽宁人, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：环球人物引财新称，他涉事与任总政干部部部长时利用干部任免权获利有关，而当时的总政主任正是徐才厚。本站列为与徐才厚清洗相关。
+    cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+# ───────── 2015-03-02: second batch ─────────
+zhu-heping-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：他曾任张万年的秘书，但通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-zhu-heping, f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+wang-aiguo-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+huang-xianjun:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  with:
+    - { id: fang-wenping, name: 方文平, rel: colleague, text: 山西省军区原司令员，2014 年 3 月被立案调查, cite: f09-hqrw-2015-01-26-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道只把他放在山西省军区的落马背景下，未与派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+duan-tianjie:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+yuan-shijun:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  with:
+    - { id: lan-weijie, name: 兰伟杰, rel: colleague, text: 湖北省军区原副司令员，同批公布，已被判无期徒刑, cite: f09-rmzxw-2015-03-03-army-tigers }
+    - { id: zhan-jun, name: 占俊, rel: colleague, text: 湖北省军区原副司令员，2015 年 4 月公布, cite: a01-wiki-zhan-jun }
+  politics:
+    level: none
+    why: 编者分析：湖北省军区前后三名少将落马，但报道只把它当作一个单位的窝案，没有与军中某位落马高官或派系联系起来。
+    cites: [a01-wiki-zhan-jun, f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+huang-xing-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；维基百科转述的泄密说法若属实也是军纪和国家安全问题，本站未见报道把他与派系清洗联系起来。
+    cites: [a01-wiki-huang-xing-pla]
+  voices:
+    - { voice: wiki, text: 维基百科转引凤凰卫视消息人士，称黄星表面被控诈骗 100 万元，实际原因是涉嫌在 2009 年果敢冲突时向果敢同盟军泄露国家机密；官方从未如此说明, cite: a01-wiki-huang-xing-pla }
+  outcome: probe
+
+zhang-dongshui:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：他升任第二炮兵副政委不满 14 天即被立案；通报未说原因，本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-zhang-dongshui]
+  outcome: probe
+
+cheng-jie-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+chen-jianfeng-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+chen-hongyan:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：他出身总政干部部，但通报只有立案月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+wang-sheng-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+liu-hongjie:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  politics:
+    level: linked
+    why: 编者分析：通报只有立案月份；新京报“政事儿”称他任中央军委办公厅直属工作局局长时被称为郭、徐的“大管家”。本站按此列为与郭徐清洗相关。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+guo-zhenggang:
+  sys: army
+  grade: major
+  trigger: { kind: media, text: 立案前财经网报道其妻吴芳芳在浙江省军区土地上的五金城烂尾，商户聚集省军区门前讨债, cite: f09-rmzxw-2015-03-03-army-tigers }
+  with:
+    - { id: guo-boxiong, name: 郭伯雄, rel: kin, text: 父亲，原中央军委副主席，2015 年 4 月被组织调查, cite: b07-dw-2016-07-25-guo-sentence }
+    - { id: fu-yi, name: 傅怡, rel: colleague, text: 浙江省军区原司令员，与郭正钢共事数年，2015 年 1 月被立案调查, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+  politics:
+    level: linked
+    why: 编者分析：他是郭伯雄之子，晋升少将仅 46 天即被立案，一个多月后父亲被组织调查。军委国防动员部的肃流毒文章点名郭徐把“能力平平的郭正钢拔苗助长般地提升为全军为数不多的‘70后’将军”，官方把他的升迁当作郭徐流毒的样本。
+    cites: [f01-thepaper-2017-guo-xu, f09-rmzxw-2015-03-03-army-tigers]
+  outcome: probe
+
+lan-weijie:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: f09-rmzxw-2015-03-03-army-tigers }
+  with:
+    - { id: gu-junshan, name: 谷俊山, rel: patron, text: 维基百科称兰伟杰是谷俊山在总后基建营房部的老部下, cite: a01-wiki-lan-weijie }
+  politics:
+    level: linked
+    why: 编者分析：判决有非法持有枪支、弹药罪，案情不同寻常；他出身谷俊山主管的总后基建营房部，维基百科称是谷的老部下。本站列为谷俊山案牵出的一环。
+    cites: [a01-wiki-lan-weijie, f09-rmzxw-2015-03-03-army-tigers]
+  outcome: sentenced
+
+# ───────── 2015-04 to 2015-12 ─────────
+guo-boxiong:
+  sys: army
+  grade: state
+  retired: 2012-11
+  notice:
+    date: 2015-07-30
+    cite: b07-xinhua-2015-07-30-guo-expulsion
+    quotes:
+      - 利用职务便利，为他人谋取职务晋升等方面利益，直接或通过家人收受贿赂
+      - 严重违反党的纪律，涉嫌受贿犯罪，情节严重，影响恶劣
+  trigger: { kind: unknown, text: 官方通报未说明线索来源；其子郭正钢已于两个月前被立案侦查, cite: b07-xinhua-2015-07-30-guo-expulsion }
+  with:
+    - { id: guo-zhenggang, name: 郭正钢, rel: kin, text: 儿子，浙江省军区副政委，2015 年 2 月先被军事检察机关立案侦查, cite: b07-dw-2016-07-25-guo-sentence }
+    - { id: fan-changmi, name: 范长秘, rel: protege, text: 兰州军区原副政委，被视为郭伯雄的嫡系, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+    - { id: deng-ruihua, name: 邓瑞华, rel: protege, text: 兰州军区联勤部原政委，郭任军委副主席后由正师升副军, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+    - { id: xu-caihou, name: 徐才厚, rel: colleague, text: 同期的军委副主席，2014 年先落马, cite: b07-xinhua-2016-10-11-guo-xu-poison }
+  politics:
+    level: core
+    why: 编者分析：开除通报和判决都只写卖官受贿，但官方此后把郭徐并称为“我军建军以来因违纪违法被查处的职务最高的领导干部”，要求“全面彻底肃清郭伯雄、徐才厚流毒影响”；陈希文章把他列为“政治野心家、阴谋家”，2021 年历史决议把郭徐房张四案写入。肃清郭徐流毒此后成为军队政治整训的固定任务。
+    cites: [b07-xinhua-2016-10-11-guo-xu-poison, b09-xinhua-2017-11-16-chen-xi-article, b04-gov-2021-11-16-resolution]
+  voices:
+    - { voice: doc, text: 郭伯雄、徐才厚是我军建军以来因违纪违法被查处的职务最高的领导干部, quote: true, cite: b07-xinhua-2016-10-11-guo-xu-poison }
+    - { voice: west, text: 德国之声转引《南华早报》，称军委纪检人员对郭伯雄的受贿金额有遮掩，实际远超 8000 万元，兰州军区是他的势力范围, cite: b07-dw-2016-07-25-guo-sentence }
+  outcome: sentenced
+
+zhan-guoqiao:
+  sys: army
+  grade: major
+  fall:
+    - { date: 2014-12, text: 因涉嫌严重违纪被军委纪委立案调查, cite: a01-thepaper-2015-10-army-tigers-44 }
+    - { date: 2015-03, text: 移送军事检察机关依法处理, cite: a01-thepaper-2015-10-army-tigers-44 }
+  statusNote: 2014 年 12 月被军委纪委立案调查，2015 年 3 月移送军事检察机关，2015 年 4 月 26 日中国军网公布；此后判决未见官方通报。
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: zhang-wansong, name: 张万松, rel: colleague, text: 同样做过兰州军区联勤部部长，2015 年 8 月公布, cite: a01-thepaper-2015-10-army-tigers-44 }
+  politics:
+    level: none
+    why: 编者分析：新京报“政事儿”统计兰州军区落马将领时列入他，但只说范长秘、邓瑞华与郭伯雄有明显交集，没有把占国桥算进去；本站未见可靠报道把他与郭伯雄直接联系起来。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+fu-yi:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-05-29-army-batch4 }
+  with:
+    - { id: guo-zhenggang, name: 郭正钢, rel: colleague, text: 浙江省军区副政委、郭伯雄之子，与傅怡共事数年，三个月前被立案侦查, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+  politics:
+    level: linked
+    why: 编者分析：通报只有立案和移送的月份；他是郭正钢在浙江省军区的上级，在郭正钢被查后不到半年公布。新京报“政事儿”据此把他列为与郭徐有交集的将领，本站列为郭伯雄案相关。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers, a01-people-2015-05-29-army-batch4]
+  outcome: probe
+
+zhou-minggui:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-05-29-army-batch4 }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-people-2015-05-29-army-batch4]
+  outcome: probe
+
+zhan-jun:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: yuan-shijun, name: 苑世军, rel: colleague, text: 湖北省军区原司令员，2015 年 3 月公布, cite: a01-wiki-zhan-jun }
+    - { id: lan-weijie, name: 兰伟杰, rel: colleague, text: 湖北省军区原副司令员，2015 年 1 月被判无期徒刑, cite: a01-wiki-zhan-jun }
+  politics:
+    level: none
+    why: 编者分析：他是湖北省军区第三名落马的少将，报道把这看作一个单位的窝案；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-zhan-jun]
+  outcome: probe
+
+dong-mingxiang:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  politics:
+    level: none
+    why: 编者分析：维基百科引财新称他涉嫌向军方高层行贿，但没有点名行贿对象；在对象确认之前，本站不把他算入派系清洗。
+    cites: [a01-wiki-dong-mingxiang]
+  voices:
+    - { voice: wiki, text: 维基百科引财新网称董明祥 2015 年 3 月因涉嫌向军方高层行贿被调查, cite: a01-wiki-dong-mingxiang }
+  outcome: probe
+
+kou-tie:
+  sys: army
+  grade: major
+  retired: 2010
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-06-16-army-batch5 }
+  politics:
+    level: none
+    why: 编者分析：他退休四年后被立案，通报只有立案和移送的月份；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-people-2015-06-16-army-batch5]
+  outcome: probe
+
+liu-zhanqi:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-06-16-army-batch5 }
+  with:
+    - { id: wang-xin-pap, name: 王信, rel: colleague, text: 武警交通指挥部原政委，2015 年 7 月公布, cite: a01-wiki-qu-mutian }
+    - { id: miao-guirong, name: 缪贵荣, rel: colleague, text: 武警交通指挥部原总工程师，2015 年 9 月公布, cite: a01-wiki-qu-mutian }
+    - { id: qu-mutian, name: 瞿木田, rel: colleague, text: 武警交通指挥部原副司令员，2015 年 11 月公布, cite: a01-wiki-qu-mutian }
+  politics:
+    level: none
+    why: 编者分析：武警交通指挥部一年内四名副军级以上干部落马，是典型的单位窝案；本站未见报道把这一案与军中某位落马高官或派系联系起来。
+    cites: [a01-wiki-qu-mutian]
+  outcome: probe
+
+deng-ruihua:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: guo-boxiong, name: 郭伯雄, rel: patron, text: 郭伯雄任兰州军区副参谋长时邓瑞华任守备 2 团副团长，郭出任军委副主席后他由正师升副军, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+    - { id: fan-changmi, name: 范长秘, rel: colleague, text: 兰州军区原副政委，同被称为郭伯雄嫡系, cite: f09-hkcd-2016-07-12-guo-xu-tigers }
+  politics:
+    level: linked
+    why: 编者分析：中国军网在郭伯雄被开除党籍前 20 天公布邓瑞华已被移送，新京报“政事儿”称他是郭伯雄的“嫡系”，被抓后心理防线全面崩溃。本站列为郭伯雄清洗的一环。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+wang-xin-pap:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: liu-zhanqi, name: 刘占琪, rel: colleague, text: 武警交通指挥部原司令员，2015 年 6 月公布, cite: a01-wiki-qu-mutian }
+  politics:
+    level: none
+    why: 编者分析：武警交通指挥部的单位窝案之一；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-qu-mutian]
+  outcome: probe
+
+zhang-wansong:
+  sys: army
+  grade: major
+  fall:
+    - { date: 2015-08-08, text: 中国军网通报，军委纪委对其涉嫌严重违纪问题进行立案调查，已将其涉嫌犯罪问题及线索移送军事检察机关依法处理, cite: a01-thepaper-2015-10-army-tigers-44 }
+  statusNote: 2015 年 8 月 8 日中国军网通报其被军委纪委立案调查并移送军事检察机关；此后判决未见官方通报。维基百科落马名单把公布日期写作 8 月 18 日。
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: zhan-guoqiao, name: 占国桥, rel: colleague, text: 同样做过兰州军区联勤部部长，2015 年 4 月公布, cite: a01-thepaper-2015-10-army-tigers-44 }
+  politics:
+    level: none
+    why: 编者分析：新京报“政事儿”统计兰州军区落马将领时列入他，但没有说他与郭伯雄有交集；本站未见可靠报道把他与郭伯雄直接联系起来。
+    cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  outcome: probe
+
+wang-yufa:
+  sys: army
+  grade: lieutenant
+  retired: 2012-12
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  politics:
+    level: none
+    why: 编者分析：他是退役后在全国政协任职的中将，通报只有立案侦查一句；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-wang-yufa]
+  outcome: probe
+
+miao-guirong:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  politics:
+    level: none
+    why: 编者分析：武警交通指挥部的单位窝案之一；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-qu-mutian]
+  outcome: probe
+
+zhou-guotai:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-thepaper-2015-10-army-tigers-44 }
+  with:
+    - { id: zhou-linhe, name: 周林和, rel: colleague, text: 军需物资油料部原部长，财新称周国泰是他的前同事和下属，周林和 2016 年被查, cite: a01-caixin-2016-09-03-zhou-linhe }
+  politics:
+    level: none
+    why: 编者分析：他是十八大以来首位被查的两院院士，案子与军需物资油料部的后勤腐败相连；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-wiki-zhou-guotai, a01-caixin-2016-09-03-zhou-linhe]
+  voices:
+    - { voice: wiki, text: 维基百科称新语丝网站曾质疑他 2011 年宣布的超级电容器发明是圈钱工具，与汉芯事件几乎如出一辙, cite: a01-wiki-zhou-guotai }
+  outcome: probe
+
+zhang-genheng:
+  sys: law
+  grade: major
+  notice:
+    date: 2015-11-03
+    cite: a01-ccdi-2015-11-03-zhang-genheng
+    quotes:
+      - 严重违反组织纪律、廉洁纪律，利用职务便利，在战士入学提干、大学生入警等方面为他人谋取利益，收受财物
+  discipline: [organization, integrity]
+  trigger: { kind: unknown, text: 公安部纪委通报未说明线索来源, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  with:
+    - { id: yin-zhishan, name: 尹志山, rel: colleague, text: 公安部警卫局原副局长，同一通报中受留党察看处分并降为大校, cite: a01-ccdi-2015-11-03-zhang-genheng }
+    - { id: ma-dewen, name: 马德文, rel: colleague, text: 江苏消防总队原总队长，同一通报中受留党察看处分, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  politics:
+    level: none
+    why: 编者分析：这是公安部对 22 名公安现役干部的集中处理，通报只写入学提干、入警中的受贿；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-ccdi-2015-11-03-zhang-genheng]
+  outcome: expelled
+
+yin-zhishan:
+  sys: law
+  grade: major
+  trigger: { kind: unknown, text: 公安部纪委通报未说明线索来源和违纪事实, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  with:
+    - { id: zhang-genheng, name: 张根恒, rel: colleague, text: 新疆公安边防总队原总队长，同一通报中被开除党籍, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  politics:
+    level: none
+    why: 编者分析：通报只列处分结果，没有写违纪事实；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-ccdi-2015-11-03-zhang-genheng]
+  outcome: disciplined
+
+ma-dewen:
+  sys: law
+  grade: major
+  trigger: { kind: unknown, text: 公安部纪委通报未说明线索来源和违纪事实, cite: a01-ccdi-2015-11-03-zhang-genheng }
+  politics:
+    level: none
+    why: 编者分析：通报只列处分结果；本站未见报道把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-ccdi-2015-11-03-zhang-genheng]
+  outcome: disciplined
+
+wang-yu-navy:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写辞职原因，未说明线索来源, cite: a01-npc-2015-11-04-report }
+  politics:
+    level: none
+    why: 编者分析：官方只说“严重违纪、涉嫌犯罪”；维基百科转述的媒体说法把他与 2014 年 11 月跳楼身亡的海军副政委马发祥联系起来，但马发祥从未被官方宣布审查，本站不据此判定派系关联。
+    cites: [a01-npc-2015-11-04-report, a01-wiki-wang-yu-navy]
+  voices:
+    - { voice: wiki, text: 维基百科称据媒体报道，汪玉被调查与 2014 年 11 月 13 日跳楼身亡的时任海军副政委马发祥有关，马发祥 2004—2008 年曾任海军装备研究院政委, cite: a01-wiki-wang-yu-navy }
+  outcome: probe
+
+wu-ruizhong:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-11-13-army-batch }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案和移送；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-people-2015-11-13-army-batch]
+  outcome: probe
+
+qu-mutian:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-people-2015-11-13-army-batch }
+  with:
+    - { id: liu-zhanqi, name: 刘占琪, rel: colleague, text: 武警交通指挥部原司令员，维基百科称瞿木田与此前落马的三人有工作上的交集, cite: a01-wiki-qu-mutian }
+  politics:
+    level: none
+    why: 编者分析：武警交通指挥部单位窝案的第四人；本站未见报道把这一案与军中某位落马高官或派系联系起来。
+    cites: [a01-wiki-qu-mutian]
+  outcome: probe
+
+yang-hai-pap:
+  sys: army
+  grade: major
+  retired: 2015-07
+  trigger: { kind: unknown, text: 福建省人大常委会只写涉嫌严重违纪，未说明线索来源, cite: a01-caixin-2015-11-26-yang-hai }
+  politics:
+    level: none
+    why: 编者分析：财新称他是十八大以来首位被查的省级武警总队军政主官，罢免时已到龄退役；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-caixin-2015-11-26-yang-hai]
+  outcome: probe
+
+shen-tao-pap:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 立案决定书只写涉嫌受贿，未说明线索来源, cite: a01-thepaper-2015-11-26-shen-tao }
+  politics:
+    level: none
+    why: 编者分析：他以个人原因提交辞职报告，四天前武警军事检察院已对其涉嫌受贿立案；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-thepaper-2015-11-26-shen-tao]
+  voices:
+    - { voice: zh, text: 澎湃新闻称沈涛在辞职报告中只写因个人原因无法履行代表职责，而 4 天前武警军事检察院已对其立案, cite: a01-thepaper-2015-11-26-shen-tao }
+  outcome: probe
+
+li-mingquan:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 中国军网通报未说明线索来源, cite: a01-81-2015-12-10-li-mingquan }
+  politics:
+    level: none
+    why: 编者分析：通报只有立案侦查一句；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-81-2015-12-10-li-mingquan]
+  outcome: probe
+
+# ───────── 2016–2017: NPC / CPPCC removals and the CMC turnover before the 19th congress ─────────
+yu-tiemin:
+  sys: army
+  grade: major
+  retired: 2015-01
+  trigger: { kind: unknown, text: 江苏省人大常委会只写涉嫌严重违纪，未说明线索来源, cite: a01-thepaper-2016-07-26-yu-tiemin }
+  politics:
+    level: none
+    why: 编者分析：退休一年后才辞去人大代表，半年后报告公开才为外界所知；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-thepaper-2016-07-26-yu-tiemin, a01-caixin-2016-07-26-yu-tiemin]
+  voices:
+    - { voice: zh, text: 财新把他与邢伟志、朱洪达、张鸣并列为 2016 年来被免去全国人大代表或全国政协委员的将领, cite: a01-caixin-2016-07-26-yu-tiemin }
+  outcome: probe
+
+zhu-hongda:
+  sys: army
+  grade: major
+  retired: 2014-12
+  trigger: { kind: unknown, text: 全国政协只写鉴于其严重违纪，未说明线索来源, cite: a01-cppcc-2016-06-24-zhu-hongda }
+  politics:
+    level: none
+    why: 编者分析：政协的决定只有“严重违纪”四字；财新把他算作空军第四名落马将领、后勤部门第 19 名以上被查者，但本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-caixin-2016-03-31-zhu-hongda, a01-cppcc-2016-06-24-zhu-hongda]
+  voices:
+    - { voice: zh, text: 财新称朱洪达被查意味着空军落马将领增至四人，后勤部门任职被查者增至至少 19 人, cite: a01-caixin-2016-03-31-zhu-hongda }
+  outcome: disciplined
+
+zhang-ming-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告未说明线索来源, cite: a01-thepaper-2016-08-zhang-ming }
+  politics:
+    level: none
+    why: 编者分析：官方只有辞去人大代表一事；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-thepaper-2016-08-zhang-ming]
+  outcome: disciplined
+
+zhou-linhe:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写涉嫌违纪违法，未说明线索来源, cite: a01-npc-2016-09-03-report }
+  with:
+    - { id: zhou-guotai, name: 周国泰, rel: colleague, text: 军需物资油料部原副部长，财新称是周林和的前同事和下属，此前已被移交军事检察机关立案侦查, cite: a01-caixin-2016-09-03-zhou-linhe }
+  politics:
+    level: none
+    why: 编者分析：维基百科所引网易标题称他“曾为谷俊山下属”，但只是总后系统的上下级；本站所见报道未把他的案子与谷俊山案或某派系清洗直接联系起来。
+    cites: [a01-wiki-zhou-linhe, a01-caixin-2016-09-03-zhou-linhe]
+  outcome: probe
+
+yang-shiguang:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 官方从未公布对他的调查，港媒消息也未说明线索来源, cite: a01-zaobao-2017-04-14-yang-shiguang }
+  politics:
+    level: linked
+    why: 编者分析：官方从未证实对他的调查。《星岛日报》称他长期在海军做政治工作，“可能被视为徐才厚余毒”，并把他的落马放在肃清郭徐流毒从“彻底肃清”加码到“全面彻底肃清”的背景下；自由亚洲电台也把他与清除郭徐余毒连在一起。本站据此暂列为与郭徐清洗相关，但这只是媒体的解读。
+    cites: [a01-zaobao-2017-04-14-yang-shiguang, a01-rfa-2017-04-13-yang-shiguang]
+  voices:
+    - { voice: zh, text: 联合早报转引《星岛日报》称，杨世光约于 4 月 5 日被双规，长期在海军从事政治工作，可能被视为徐才厚余毒, cite: a01-zaobao-2017-04-14-yang-shiguang }
+    - { voice: zh, text: 看中国转载香港《动向》杂志称，4 月 4 日晚杨世光被通知参加紧急会议，到场后由许其亮、张升民宣布停止其一切职务并留置审查, cite: a01-kny-2017-05-20-navy-purge }
+    - { voice: site, text: 编者分析：港媒报道距今已多年，官方始终没有公布对他的调查、罢免或处分，本站按下落不明处理, cite: a01-zaobao-2017-04-14-yang-shiguang }
+  outcome: missing
+
+li-zhijian-pap:
+  sys: army
+  grade: major
+  notice:
+    date: 2017-07-03
+    cite: a01-thepaper-2017-07-04-li-zhijian
+    quotes:
+      - 李志坚涉嫌严重违反政治纪律、组织纪律、廉洁纪律和国家法律法规
+  discipline: [political, organization, integrity]
+  trigger: { kind: unknown, text: 河北省人大常委会通报未说明线索来源, cite: a01-thepaper-2017-07-04-li-zhijian }
+  politics:
+    level: none
+    why: 编者分析：通报写有违反政治纪律，但这是十八大后的常用表述；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-thepaper-2017-07-04-li-zhijian]
+  outcome: probe
+
+liu-shengjie:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 中央纪委全会公报只写撤销其委员职务，未说明原因和线索来源, cite: r03-ccdi-2017-10-09-ccdi-8th-plenum }
+  politics:
+    level: none
+    why: 编者分析：公报对他称“同志”，只撤销中央纪委委员职务而没有说违纪事实，与同一公报中给李刚、曲淑辉留党察看的写法不同；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [r03-ccdi-2017-10-09-ccdi-8th-plenum]
+  outcome: disciplined
+
+tian-xiusi:
+  sys: army
+  grade: general
+  trigger: { kind: unknown, text: 新华社只写因涉嫌严重违纪被立案审查，未说明线索来源, cite: c03-xinhua-2016-07-09-tian-xiusi-probe }
+  with:
+    - { id: xu-caihou, name: 徐才厚, rel: colleague, text: BBC 称中国媒体注意到田修思曾与徐才厚、郭伯雄及薄熙来均有不少往来, cite: c03-bbc-2016-07-09-tian-xiusi }
+    - { id: guo-boxiong, name: 郭伯雄, rel: colleague, text: 同一 BBC 报道所称与田修思有往来的落马军委副主席, cite: c03-bbc-2016-07-09-tian-xiusi }
+  politics:
+    level: linked
+    why: 编者分析：新华社宣布他立案审查时，同段写军队“严肃查处了郭伯雄、徐才厚、谷俊山、杨金山等一批严重违纪违法人员”，BBC 称他与徐、郭和薄熙来均曾有不少往来；2017 年七中全会与王建平一并确认开除党籍。本站列为与郭徐清洗相关。
+    cites: [c03-xinhua-2016-07-09-tian-xiusi-probe, c03-bbc-2016-07-09-tian-xiusi, c03-xinhua-2017-10-14-seventh-plenum]
+  outcome: expelled
+
+niu-zhizhong:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 六中全会公报只写严重违纪，未说明线索来源, cite: i01-cpc-2016-10-27-6th-plenum-communique }
+  with:
+    - { id: fan-changmi, name: 范长秘, rel: colleague, text: 兰州军区原副政委，同一份六中全会公报中被确认开除党籍, cite: i01-cpc-2016-10-27-6th-plenum-communique }
+  politics:
+    level: none
+    why: 编者分析：公报只列开除党籍，没有违纪事实；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [i01-cpc-2016-10-27-6th-plenum-communique]
+  outcome: expelled
+
+wang-jianping:
+  sys: army
+  grade: general
+  trigger: { kind: unknown, text: 国防部只证实因涉嫌受贿犯罪被立案侦查，未说明线索来源, cite: c03-mod-2016-12-29-wang-jianping }
+  politics:
+    level: linked
+    why: 编者分析：官方只写涉嫌受贿犯罪；BBC 称他“被指是已经落马的前中央政法委书记周永康的亲信”，《南华早报》消息来源称他是周永康、郭伯雄和徐才厚的属下共犯。本站列为与周永康、郭徐清洗相关，但这些都是媒体说法。
+    cites: [c03-mod-2016-12-29-wang-jianping, c03-bbc-2016-12-29-wang-jianping, f02-bbc-2016-08-26-wang-jianping]
+  voices:
+    - { voice: zh, text: BBC 中文引《南华早报》两名消息来源称，王建平是周永康、郭伯雄和徐才厚的属下共犯，2014 年被调职主要是为了让他离开武警权力基地, cite: f02-bbc-2016-08-26-wang-jianping }
+  outcome: expelled
+
+wang-xibin:
+  sys: army
+  grade: general
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写涉嫌职务犯罪，未说明线索来源, cite: k04-xinhua-2017-02-24-wang-xibin-npc }
+  politics:
+    level: none
+    why: 编者分析：官方只有涉嫌职务犯罪一句；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [k04-xinhua-2017-02-24-wang-xibin-npc]
+  outcome: probe
+
+fang-fenghui:
+  sys: army
+  grade: general
+  notice:
+    date: 2018-10-16
+    cite: c02-xinhua-2018-10-16-fang-fenghui
+    quotes:
+      - 对党不忠诚不老实，搞两面派做两面人，政治上蜕变、经济上贪婪
+      - 涉嫌行贿、受贿、巨额财产来源不明犯罪，情节极为严重，数额特别巨大，影响极其恶劣
+  discipline: [political, eight, organization]
+  trigger: { kind: unknown, text: 星岛日报称由习近平亲自下令调查；官方通报未说明线索来源, cite: c02-zaobao-2018-01-10-fang-fenghui }
+  with:
+    - { id: guo-boxiong, name: 郭伯雄, rel: patron, text: 联合早报转引星岛日报称房峰辉是郭伯雄的老乡兼旧部, cite: c02-zaobao-2018-01-10-fang-fenghui }
+    - { id: zhang-yang, name: 张阳, rel: colleague, text: 同届军委委员，2017 年同时被调查，2021 年历史决议把两人与郭徐并列, cite: b04-gov-2021-11-16-resolution }
+  politics:
+    level: core
+    why: 编者分析：开除通报把他定性为“对党不忠诚不老实，搞两面派做两面人”，2021 年历史决议写入“坚决查处郭伯雄、徐才厚、房峰辉、张阳等严重违纪违法案件并彻底肃清其流毒影响”，官方把他的案子列为军队整肃的四大案之一。
+    cites: [c02-xinhua-2018-10-16-fang-fenghui, b04-gov-2021-11-16-resolution]
+  voices:
+    - { voice: zh, text: 联合早报转引星岛日报称，房峰辉是郭伯雄的老乡兼旧部，张阳则是徐才厚的嫡系，由习近平亲自下令调查，也为十九届中央军委调整铺路, cite: c02-zaobao-2018-01-10-fang-fenghui }
+  outcome: sentenced
+
+zhang-yang:
+  sys: army
+  grade: general
+  notice:
+    date: 2018-10-16
+    cite: b21-xinhua-2018-10-16-zhang-yang-expel
+    quotes:
+      - 对党不忠诚不老实，搞两面派做两面人，政治蜕变、经济贪婪、生活腐化、品行低劣
+      - 最终以自杀方式企图逃避党纪国法的惩处
+  discipline: [political, organization, integrity]
+  trigger: { kind: chain, text: 新华社称中央军委对他进行组织谈话，“调查核实其涉郭伯雄、徐才厚等案问题线索”, cite: c02-xinhua-2017-11-28-zhang-yang }
+  with:
+    - { id: xu-caihou, name: 徐才厚, rel: patron, text: 联合早报转引星岛日报称张阳是徐才厚的嫡系, cite: c02-zaobao-2018-01-10-fang-fenghui }
+    - { id: fang-fenghui, name: 房峰辉, rel: colleague, text: 同届军委委员，2017 年同时被调查，2021 年历史决议把两人与郭徐并列, cite: b04-gov-2021-11-16-resolution }
+  politics:
+    level: core
+    why: 编者分析：调查的起点就是郭伯雄、徐才厚案线索；开除通报定性他“对党不忠诚不老实，搞两面派做两面人”，2021 年历史决议把他与郭伯雄、徐才厚、房峰辉并列为必须“彻底肃清其流毒影响”的案件。
+    cites: [c02-xinhua-2017-11-28-zhang-yang, b21-xinhua-2018-10-16-zhang-yang-expel, b04-gov-2021-11-16-resolution]
+  voices:
+    - { voice: official, text: 新华社称接受组织谈话期间张阳一直在家中居住，2017 年 11 月 23 日上午在家中自缢死亡, cite: c02-xinhua-2017-11-28-zhang-yang }
+  outcome: suicide
+
+# ───────── 2019–2022 ─────────
+qian-weiping:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 国防部只说涉嫌严重违纪和职务违法犯罪，未说明线索来源, cite: a01-chinanews-2019-07-24-qian-weiping }
+  politics:
+    level: none
+    why: 编者分析：国防部专门否认涉间谍案传闻，只说违纪和职务违法犯罪；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-chinanews-2019-07-24-qian-weiping]
+  voices:
+    - { voice: wiki, text: 维基百科转引香港《明报》称，钱卫平涉谍线索来自俄罗斯，其在美留学的儿子多次翻拍涉密文件、被 CIA 策反；国防部随后称涉间谍案传闻不属实, cite: a01-wiki-qian-weiping }
+    - { voice: official, text: 国防部发言人吴谦称钱卫平涉间谍案传闻不属实，其因涉嫌严重违纪和职务违法犯罪被立案审查调查, cite: a01-chinanews-2019-07-24-qian-weiping }
+  outcome: probe
+
+rao-kaixun:
+  sys: army
+  grade: lieutenant
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写因严重违纪，未说明线索来源, cite: a01-caixin-2019-10-27-rao-xu }
+  with:
+    - { id: xu-xianghua, name: 徐向华, rel: colleague, text: 西部战区陆军原副司令员，同一份人大报告中因严重违纪被终止代表资格, cite: a01-caixin-2019-10-27-rao-xu }
+  politics:
+    level: none
+    why: 编者分析：报告只写“因严重违纪”，没有“涉嫌”，与只处分不移送的写法一致；维基百科称他被降为副军级。本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-caixin-2019-10-27-rao-xu, a01-wiki-rao-kaixun]
+  outcome: disciplined
+
+xu-xianghua:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写因严重违纪，未说明线索来源, cite: a01-caixin-2019-10-27-rao-xu }
+  politics:
+    level: none
+    why: 编者分析：报告只写“因严重违纪”；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-caixin-2019-10-27-rao-xu]
+  outcome: disciplined
+
+ye-qing-pla:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写因严重违纪，未说明线索来源, cite: a01-npc-2019-12-28-report }
+  with:
+    - { name: 董良驹, rel: patron, text: 原中央军委办公厅主任，维基百科称叶青曾是他的秘书, cite: a01-wiki-ye-qing-pla }
+    - { id: meng-zhongkang, name: 孟中康, rel: colleague, text: 江苏省军区原政委，同一份人大报告中因严重违纪被终止代表资格, cite: a01-npc-2019-12-28-report }
+  politics:
+    level: none
+    why: 编者分析：报告只写“因严重违纪”；他做过董良驹的秘书，但董良驹本人未被查处，本站所见报道也未把叶青的案子与某位落马高官或派系清洗联系起来。
+    cites: [a01-npc-2019-12-28-report, a01-wiki-ye-qing-pla]
+  outcome: disciplined
+
+meng-zhongkang:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会报告只写因严重违纪，未说明线索来源, cite: a01-npc-2019-12-28-report }
+  politics:
+    level: none
+    why: 编者分析：报告只写“因严重违纪”；他是省委常委，被免去党内职务也只见于维基百科；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-npc-2019-12-28-report, a01-wiki-meng-zhongkang]
+  outcome: disciplined
+
+song-xue-navy:
+  sys: army
+  grade: major
+  trigger: { kind: unknown, text: 全国人大常委会公告只写罢免，观察者网所引报告写涉嫌严重违纪违法，均未说明线索来源, cite: a01-guancha-2021-04-30-song-xue }
+  politics:
+    level: none
+    why: 编者分析：报告写“涉嫌严重违纪违法”并以罢免而非辞职处理；本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-guancha-2021-04-30-song-xue, a01-npc-2021-04-29-notice-21]
+  voices:
+    - { voice: zh, text: 联合早报指出，叶青、孟中康、饶开勋、徐向华在官方消息中都是“因严重违纪”，而宋学是“涉嫌严重违纪违法”, cite: a01-zaobao-2021-04-30-song-xue }
+  outcome: probe
+
+shang-hong:
+  sys: army
+  grade: lieutenant
+  fall:
+    - { date: 2022-09-25, text: 二十大代表正式名单公布，解放军和武警部队此前公布的代表名单中的尚宏已不在其中, cite: a01-stheadline-2022-09-shang-hong }
+  trigger: { kind: unknown, text: 官方从未说明他从二十大代表名单中消失的原因, cite: a01-stheadline-2022-09-shang-hong }
+  politics:
+    level: none
+    why: 编者分析：官方没有任何关于他的通报；星岛日报只称暂不清楚被取消资格的原因。本站所见报道未把他与某位落马高官或派系清洗联系起来。
+    cites: [a01-stheadline-2022-09-shang-hong, a01-wiki-shang-hong]
+  voices:
+    - { voice: zh, text: 星岛日报对比各选举单位此前公布的当选名单，称二十大正式名单比名额少了四人，其中之一是解放军中将尚宏，暂时不清楚被取消资格的原因, cite: a01-stheadline-2022-09-shang-hong }
+    - { voice: wiki, text: 维基百科称 2023 年 8 月香港《明报》指出尚宏未能通过代表资格审查、后已悄然去职，联合早报副总编韩咏红认为他相信也在被调查中, cite: a01-wiki-shang-hong }
+  outcome: missing

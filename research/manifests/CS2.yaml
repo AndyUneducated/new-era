@@ -1,0 +1,359 @@
+# CS2: 系统性/群案长文（孙力军团伙、金融、民政福彩、2016 断崖降级、烟草、足球、贵州、云南）
+web:
+  # ---- 金融 2023 ----
+  - id: cs2-gov-2023-01-10-ccdi-2nd-plenum
+    title: 中国共产党第二十届中央纪律检查委员会第二次全体会议公报
+    publisher: 新华社（中国政府网）
+    date: 2023-01-10
+    voice: doc
+    url: https://www.gov.cn/xinwen/2023-01/10/content_5736150.htm
+    start: 中国共产党第二十届中央纪律检查委员会第二次全体会议，于2023年1月9日至10日在北京举行
+  - id: cs2-ccdi-2024-01-10-ccdi-3rd-plenum
+    title: 中国共产党第二十届中央纪律检查委员会第三次全体会议公报
+    publisher: 中央纪委国家监委网站
+    date: 2024-01-10
+    voice: doc
+    url: http://m.ccdi.gov.cn/content/60/e1/109929.html
+    start: 中国共产党第二十届中央纪律检查委员会第三次全体会议，于2024年1月8日至10日在北京举行
+  - id: cs2-sina-2023-02-23-ccdi-finance-elite
+    title: 中纪委网站刊文：破除“金融精英论”等错误思想，整治享乐主义
+    publisher: 新浪新闻（转中央纪委国家监委网站）
+    date: 2023-02-23
+    voice: official
+    url: https://news.sina.com.cn/c/2023-02-23/doc-imyhsrwr1806276.shtml
+    excerpt: true
+    keep: [金融精英论, 影子股东]
+  - id: cs2-gov-2023-10-31-financial-work-conf
+    title: 中央金融工作会议在北京举行 习近平李强作重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2023-10-31
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202310/content_6912992.htm
+    start: 中央金融工作会议10月30日至31日在北京举行。中共中央总书记
+    end: 确保工作部署落实落地。
+  - id: cs2-qq-2024-02-26-ccdi-report-tigers
+    title: 多名省部级“老虎”，被中央纪委工作报告点名
+    publisher: 腾讯新闻
+    date: 2024-02-26
+    voice: zh
+    url: https://news.qq.com/rain/a/20240226A026X700
+    excerpt: true
+    keep: [严肃查处范一飞、刘连舸、李晓鹏、唐双宁, 大搞“雅腐”]
+  - id: cs2-thepaper-2023-04-05-liu-li
+    title: 金融领域反腐持续深入：刘连舸、李晓鹏6天内相继被查
+    publisher: 澎湃新闻
+    date: 2023-04-05
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_22584339
+    excerpt: true
+    keep: [6天之内, 十九届中央第八轮巡视, 回头看”]
+  - id: cs2-sina-2024-10-29-everbright
+    title: 光大两任“落马”掌门和他们的千万级“腐友”
+    publisher: 新浪财经
+    date: 2024-10-29
+    voice: zh
+    url: https://finance.sina.com.cn/money/bank/gsdt/2024-10-29/doc-incuhwia1259709.shtml
+    excerpt: true
+    keep: [河南帮, 一月一虎]
+  - id: cs2-voa-2024-02-22-finance-purge
+    title: 经济深陷困境 专家认为中共金融反腐于事无补
+    publisher: 美国之音
+    date: 2024-02-22
+    voice: zh
+    url: https://www.voachinese.com/a/chinas-anti-corruption-campaign-in-the-finance-sector-20240222/7498823.html
+    excerpt: true
+    keep: [佳富凯, 彻头彻尾的制度性问题, 功高盖主, 兵强马壮, 谢田教授说，习近平在反腐败过程中]
+  # ---- 烟草 ----
+  - id: cs2-jiemian-2024-12-tobacco-five-tigers
+    title: 【观察】“烟草五虎”都被司法追责，人事腐败成通病
+    publisher: 界面新闻
+    date: 2024-12
+    voice: zh
+    url: https://www.jiemian.com/article/12093596.html
+    excerpt: true
+    keep: [被称“烟草五虎”, 第九轮巡视, 庄德水, 云南中烟, 3000瓶茅台, 潘家华“将多名亲友, 风险隐患大的行业性]
+  - id: cs2-sina-2020-12-29-tobacco-kingdom
+    title: 首位“中管干部”落马 近亲繁殖形成“独立王国” 烟草系统贪腐症结何在？
+    publisher: 新浪新闻
+    date: 2020-12-29
+    voice: zh
+    url: https://news.sina.cn/gn/2020-12-29/detail-iiznctke9203131.d.html?vt=4
+    excerpt: true
+    keep: [一套人马，两套牌子, 独立王国”。, 系统性廉洁风险, 家族式腐败突出, 权力高度集中]
+  - id: cs2-bjd-2025-02-21-tobacco-rectify
+    title: 中共国家烟草专卖局党组关于二十届中央第二轮巡视整改进展情况的通报
+    publisher: 北京日报客户端（转中央纪委国家监委网站）
+    date: 2025-02-21
+    voice: official
+    url: https://xinwen.bjd.com.cn/content/s67b862bde4b08edd28f5556a.html
+    excerpt: true
+    keep: [2023年10月19日至12月29日, 问题专项整治。一是, 拉帮结派]
+  - id: cs2-qq-2024-01-09-tobacco-inspection
+    title: 中央巡视组到后，烟草“虎”落马，开年又有人被查！
+    publisher: 腾讯新闻
+    date: 2024-01-09
+    voice: zh
+    url: https://news.qq.com/rain/a/20240109A06EKB00
+    excerpt: true
+    keep: [中央第八巡视组巡视国家烟草专卖局, 中央巡视组去年入驻后没几天, 十九大后，烟草系统成为反腐败重点领域]
+  - id: cs2-nikkei-2023-05-30-tobacco
+    title: China's tobacco monopoly swept up in corruption probes
+    publisher: Nikkei Asia（Caixin）
+    date: 2023-05-30
+    voice: west
+    url: https://asia.nikkei.com/spotlight/caixin/china-s-tobacco-monopoly-swept-up-in-corruption-probes
+    excerpt: true
+    keep: [engulfed, breeding ground]
+  # ---- 足球 ----
+  - id: cs2-xinhua-2024-03-26-chen-xuyuan-verdict
+    title: 中国足球协会原主席陈戌源受贿案一审宣判
+    publisher: 新华网
+    date: 2024-03-26
+    voice: official
+    url: http://www.news.cn/legal/20240326/b9727171d8c54f3d991f066c10f674ae/c.html
+    excerpt: true
+    keep: [陈戌源]
+  - id: cs2-xinhua-2024-12-13-li-tie-verdict
+    title: 中国国家男子足球队原主教练李铁受贿、行贿等案一审宣判
+    publisher: 新华网
+    date: 2024-12-13
+    voice: official
+    url: http://www.news.cn/20241213/7fbf8fe910df4680bcde3bab064e939c/c.html
+    excerpt: true
+    keep: [李铁]
+  - id: cs2-people-2024-01-10-sanbufu-ep4
+    title: 电视专题片《持续发力 纵深推进》第四集《一体推进“三不腐”》
+    publisher: 人民网
+    date: 2024-01-10
+    voice: official
+    url: http://politics.people.com.cn/n1/2024/0110/c1001-40155955.html
+    excerpt: true
+    keep: [足球, 陈戌源, 杜兆才, 李铁]
+  - id: cs2-xinhua-2024-01-09-li-tie-bribe
+    title: 行贿300万元上位国足主帅 李铁用天价“合同”送4名球员进国家队
+    publisher: 新华网（央视新闻客户端）
+    date: 2024-01-09
+    voice: official
+    url: http://www.news.cn/legal/20240109/9a152a333e4047cdb689fbc8dd3b9976/c.html
+    start: 中央广播电视总台央视综合频道9日播出
+    end: 我也不会再去干这种事情。
+  - id: cs2-bbc-2024-02-13-football
+    title: 李铁案再揭球坛黑幕：中国足球反贪腐有什么问题未解决
+    publisher: BBC 中文
+    date: 2024-02-13
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/sports-68249829
+    excerpt: true
+    keep: [现在这一次看起来和十年前就一模一样, 谢亚龙, 这一次涉及的金钱又多得多了, 腐败的空间就非常大, 恶性循环, 难度大、见效慢]
+  - id: cs2-thepaper-2025-04-30-li-tie-appeal
+    title: 李铁案二审宣判：驳回上诉，维持原判
+    publisher: 澎湃新闻
+    date: 2025-04-30
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_30749179
+    excerpt: true
+    keep: [李铁]
+  # ---- 民政部福彩 ----
+  - id: cs2-thepaper-2017-02-08-mca-accountability
+    title: 福彩中心原主任鲍学全、原副主任王云戈等因涉嫌严重违纪被查
+    publisher: 澎湃新闻（转中央纪委监察部网站）
+    date: 2017-02-08
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1614541
+    start: 本网从中央纪委机关有关部门获悉
+    end: 等因涉嫌严重违纪被立案审查。
+  - id: cs2-people-2017-08-28-bao-wang-expel
+    title: 中国福利彩票发行管理中心原主任鲍学全、原副主任王云戈被双开
+    publisher: 人民网
+    date: 2017-08-28
+    voice: official
+    url: http://politics.people.com.cn/n1/2017/0828/c1001-29497900.html
+    excerpt: true
+    keep: [鲍学全, 王云戈]
+  - id: cs2-people-2018-09-13-wang-suying
+    title: 中国福利彩票发行管理中心原主任王素英接受审查调查
+    publisher: 人民网
+    date: 2018-09-13
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2018/0913/c64371-30291251.html
+    excerpt: true
+    keep: [王素英]
+  - id: cs2-people-2018-11-09-lottery-14
+    title: 福彩领域14名局处级干部被查处 中纪委公开四人忏悔视频
+    publisher: 人民网-中国共产党新闻网
+    date: 2018-11-09
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2018/1109/c64371-30391035.html
+    start: 中国共产党新闻网北京11月9日电
+    end: 冯亚平说。
+  - id: cs2-sina-2018-11-10-lottery-bjnews
+    title: 1名正部2名副部被问责的大案 基本查清了
+    publisher: 新京报（新浪转载）
+    date: 2018-11-10
+    voice: zh
+    url: https://news.sina.cn/gn/2018-11-10/detail-ihmutuea8932435.d.html?vt=4
+    excerpt: true
+    keep: [三任主任, 经济参考报, 曾遇到阻力, 放任党员干部被不法商人]
+  - id: cs2-jiemian-2017-01-mca-systemic
+    title: 起底民政部系统性腐败：家人至今还当窦玉沛是清官
+    publisher: 界面新闻
+    date: 2017-01
+    voice: zh
+    url: https://m.jiemian.com/article/1102971.html
+    excerpt: true
+    keep: [“请假”了, 由于巡视和群众举报反映的问题, 自诩神医, 2009年末, 因为举报太多且线索明确, 贺文被疑非法获利至少27亿元, 也被视为鲍的保护伞]
+  - id: cs2-zaobao-2017-02-10-mca
+    title: 韩咏红：现代官场现形记
+    publisher: 联合早报
+    date: 2017-02-10
+    voice: zh
+    url: https://www.zaobao.com/forum/zaodian/bei-kan-ji/story20170210-722935
+    excerpt: true
+    keep: [连降三级, 鲍学全牵线]
+  - id: cs2-chinanews-2015-06-25-lottery-audit
+    title: 审计署：彩票资金审计发现违规问题
+    publisher: 中国新闻网
+    date: 2015-06-25
+    voice: official
+    url: https://www.chinanews.com/gn/2015/06-25/7366052.shtml
+    excerpt: true
+    keep: [彩票]
+  # ---- 2016 断崖式降级 ----
+  - id: cs2-people-2016-01-29-ccdi-cliff-explain
+    title: 中纪委网站释疑：为什么会被“断崖式”降级？
+    publisher: 人民网（转中央纪委监察部网站）
+    date: 2016-01-29
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/0129/c1001-28096112.html
+    start: 中央纪委2015年给予10名中管干部党纪重处分
+    end: 纪律的板子才不会拍到您头上。
+  - id: cs2-people-2016-01-29-ten-detail
+    title: 10名中管干部因“严重违纪”被降级 5人被开除党籍
+    publisher: 人民网
+    date: 2016-01-29
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/0129/c1001-28096801.html
+    excerpt: true
+    keep: [只能查到关于, 5人被开除了党籍, 被降级最多的是刘礼祖, 24个月]
+  - id: cs2-chinanews-2016-01-15-luo-dongchuan
+    title: 中纪委回应“断崖式降级”：系按规给予党纪重处分
+    publisher: 中国新闻网
+    date: 2016-01-15
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2016/01-15/7718338.shtml
+    excerpt: true
+    keep: [罗东川]
+  - id: cs2-huanqiu-2016-01-30-four-forms
+    title: 中纪委机关报：从“断崖式降级”读懂“四种形态”
+    publisher: 环球网（转中国纪检监察报）
+    date: 2016-01-30
+    voice: official
+    url: https://m.huanqiu.com/article/9CaKrnJTzdy
+    excerpt: true
+    keep: [奋斗一辈子, 断崖式之最]
+  - id: cs2-xinhua-2016-01-30-bjnews-ten
+    title: 去年10中管干部被“断崖式”降级
+    publisher: 新华网（转新京报，Wayback 存档）
+    date: 2016-01-30
+    voice: zh
+    url: https://web.archive.org/web/20190502203213/http:/www.xinhuanet.com/politics/2016-01/30/c_128685615.htm
+    excerpt: true
+    keep: [首次“批量”通报, 来自政协系统的达5人, 连降数级的断崖式降级达7人]
+  - id: cs2-rmzxw-2016-02-01-bjnews-comment
+    title: “断崖式降级”，地方当学中纪委
+    publisher: 人民政协网（转新京报）
+    date: 2016-02-01
+    voice: zh
+    url: https://www.rmzxw.com.cn/c/2016-02-01/690984.shtml
+    excerpt: true
+    keep: [十八大之前不常用, 正变得常态化和规范化, 地方相关部门跟上]
+  - id: cs2-chinanews-2016-04-01-up-down
+    title: 中纪委机关报批干部退而不休：美其名曰送一程
+    publisher: 中国新闻网（转中国纪检监察报）
+    date: 2016-04-01
+    voice: official
+    url: https://www.chinanews.com.cn/sh/2016/04-01/7819887.shtml
+    excerpt: true
+    keep: [李拓, 推进领导干部能上能下若干规定(试行)》，更是首次]
+  - id: cs2-orientaldaily-2016-01-30-ten
+    title: 10中管官員降職 最多七級
+    publisher: 東方日報（香港）
+    date: 2016-01-30
+    voice: zh
+    url: https://orientaldaily.on.cc/cnt/china_world/20160130/00178_015.html
+    excerpt: true
+    keep: [連降七級]
+  # ---- 贵州 ----
+  - id: cs2-jiemian-2024-08-13-li-zaiyong
+    title: 李再勇25年受贿超4.32亿被判死缓：滥用职权具有自首情节
+    publisher: 界面新闻
+    date: 2024-08-13
+    voice: zh
+    url: https://www.jiemian.com/article/11552310.html
+    excerpt: true
+    keep: [盲目举债的负面典型, 10个教训, 李元平的文章, 85名省管干部]
+  - id: cs2-jiemian-2024-01-li-zaiyong-film
+    title: 贵州“老虎”李再勇大搞政绩工程：建一条索道花9个亿，每年只用一个月
+    publisher: 界面新闻
+    date: 2024-01
+    voice: zh
+    url: https://www.jiemian.com/article/10643108.html
+    excerpt: true
+    keep: [击鼓传花, 离中管干部只有最后一步了, 新增债务达1500亿余元]
+  - id: cs2-rfa-2024-08-30-guizhou
+    title: 夜话中南海：贵州的穷山恶水如何养肥了那么多的贪官污吏？
+    publisher: 自由亚洲电台（专栏）
+    date: 2024-08-30
+    voice: zh
+    url: https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-rich-officials-in-poor-guizhou-08302024165320.html
+    excerpt: true
+    keep: [同届政协副主席就落马了三个, 山西官场地震, 7个人里竟然有5个]
+  # ---- 云南 ----
+  - id: cs2-chinanews-2015-02-14-yunnan-dem-life
+    title: 优化政治生态 树立全省标杆——云南省委常委班子年度民主生活会纪实
+    publisher: 中国新闻网（转人民日报）
+    date: 2015-02-14
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2015/02-14/7064096.shtml
+    excerpt: true
+    keep: [这些身边的腐败警示我们, 相继发生了白恩培、张田欣和沈培平, 六个严禁”专项整治]
+  - id: cs2-yndaily-2017-07-06-yunnan-poison
+    title: 彻底净化云南政治生态——省委理论学习中心组集中学习强调坚决肃清白恩培仇和等余毒影响
+    publisher: 云南日报
+    date: 2017-07-06
+    voice: official
+    url: http://www.yndaily.com/html/2017/yaowenyunnan_0706/108026.html
+    start: 昨日，省委以
+    end: 以优异成绩迎接党的十九大胜利召开。
+  - id: cs2-ccdi-2020-05-06-su-hongbo
+    title: 政治掮客的真实面目 苏洪波案警示
+    publisher: 中央纪委国家监委网站（平顶山市纪委监委网站转载）
+    date: 2020-05-06
+    voice: official
+    url: https://www.pdsjjw.gov.cn/sitesources/zksjjjcw/page_pc/lzjy/jzzm/article7f1179ec3d984cb499ca1635c4319cd9.html
+    excerpt: true
+    keep: [这个给云南干部工作造成巨大冲击, 不仅没有肃清白恩培的恶劣影响, 地下组织部长, 唯圈”论, 我担任省委书记后，不仅没有处理他, 清源头、树正气]
+  - id: cs2-chinanews-2019-06-22-yunnan-decode
+    title: 解码云南式反腐：查办厅、处级干部人数位居全国前列
+    publisher: 中国新闻网（转中国新闻周刊）
+    date: 2019-06-22
+    voice: zh
+    url: https://www.chinanews.com.cn/gn/2019/06-22/8872069.shtml
+    excerpt: true
+    keep: [连续两任省委书记(白恩培、秦光荣), 云南失去的10年, 连续四任省会城市市委书记落马, 白、秦矛盾越来越大, 高劲松曾花费100万, 解决“烟、矿”独大局面, 一旦群体性腐败中, 立案省管干部280人]
+  - id: cs2-bbc-2016-10-09-bai-enpei
+    title: 中国反腐败：原云南省委书记白恩培成终身监禁第一官
+    publisher: BBC 中文
+    date: 2016-10-09
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/10/161009_china_corruption_yunnan
+    excerpt: true
+    keep: [终身监禁第一官, 铅锌矿收购项目]
+  - id: cs2-bbc-2015-04-11-gao-jinsong
+    title: 原昆明市委书记被调查后数小时遭免职
+    publisher: BBC 中文
+    date: 2015-04-11
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/04/150411_china_corruption_yunnan
+    excerpt: true
+    keep: [连续第三任, 昆明市委书记难当, 行贿买官]

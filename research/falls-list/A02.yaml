@@ -1,0 +1,100 @@
+# A02: PLA / PAP officers of major general or above (incl. academies and active-duty generals in the defence
+# industry) and non-active defence-industry leaders who fell, were recalled or went missing, first public news
+# 2023-01 or later. `date` is the first public news (an official notice, or the first credible report for those
+# without one); `id` is the person card ('' = no card yet). Case records: content/falls/A02.yaml.
+# Left out: 刘亚洲, 尚宏 (first news 2022 or earlier → A01); 徐忠波 (removed 2023-07, still at the NPC in 2024,
+# no official action since); 吴国华 (died 2023-07, only hearsay links him to a probe).
+# ───────── 2023 ─────────
+- { name: 李玉超, date: 2023-07-28, post: "火箭军司令员", id: li-yuchao, done: true }
+- { name: 刘光斌, date: 2023-07-28, post: "火箭军副司令员", id: liu-guangbin, done: true }
+- { name: 张振中, date: 2023-07-28, post: "中央军委联合参谋部副参谋长、火箭军原副司令员", id: zhang-zhenzhong, done: true }
+- { name: 李尚福, date: 2023-09-15, post: "国务委员兼国防部长、中央军委委员", id: li-shangfu, done: true }
+- { name: 魏凤和, date: 2023-09-21, post: "原国务委员兼国防部长、中央军委委员", id: wei-fenghe, done: true }
+- { name: 李同建, date: 2023-11-24, post: "火箭军装备部原副部长", id: li-tongjian, done: true }
+- { name: 吴燕生, date: 2023-12-27, post: "中国航天科技集团董事长", id: wu-yansheng, done: true }
+- { name: 刘石泉, date: 2023-12-27, post: "中国兵器工业集团董事长", id: liu-shiquan, done: true }
+- { name: 王长青, date: 2023-12-27, post: "中国航天科工集团副总经理", id: wang-changqing, done: true }
+- { name: 周亚宁, date: 2023-12-29, post: "火箭军原司令员", id: zhou-yaning, done: true }
+- { name: 李传广, date: 2023-12-29, post: "火箭军原副司令员", id: li-chuanguang, done: true }
+- { name: 吕宏, date: 2023-12-29, post: "火箭军装备部原部长", id: lyu-hong, done: true }
+- { name: 张育林, date: 2023-12-29, post: "中央军委装备发展部原副部长", id: zhang-yulin, done: true }
+- { name: 饶文敏, date: 2023-12-29, post: "中央军委装备发展部原副部长", id: rao-wenmin, done: true }
+- { name: 鞠新春, date: 2023-12-29, post: "南部战区海军原司令员", id: ju-xinchun, done: true }
+- { name: 丁来杭, date: 2023-12-29, post: "空军原司令员", id: ding-laihang, done: true }
+# ───────── 2024 ─────────
+- { name: 李志忠, date: 2024-02-27, post: "中部战区副司令员", id: li-zhizhong-pla, done: true }
+- { name: 袁洁, date: 2024-04-12, post: "中国航天科工集团董事长", id: yuan-jie, done: true }
+- { name: 孙金明, date: 2024-07-18, post: "火箭军原参谋长", id: sun-jinming, done: true }
+- { name: 邓志平, date: 2024-09-13, post: "陆军原副司令员", id: deng-zhiping, done: true }
+- { name: 苗华, date: 2024-11-28, post: "中央军委委员、军委政治工作部主任", id: miao-hua, done: true }
+- { name: 尤海涛, date: 2024-12-25, post: "陆军原副司令员", id: you-haitao, done: true }
+- { name: 李鹏程, date: 2024-12-25, post: "南部战区副司令员兼战区海军司令员", id: li-pengcheng, done: true }
+# ───────── 2025 ─────────
+- { name: 唐勇, date: 2025-03-26, post: "中央军委纪委副书记", id: tang-yong-pla, done: true }
+- { name: 何卫东, date: 2025-03-25, post: "中央政治局委员、中央军委副主席", id: he-weidong, done: true }
+- { name: 李汉军, date: 2025-06-27, post: "海军参谋长", id: li-hanjun, done: true }
+- { name: 张林, date: 2025-09-12, post: "中央军委后勤保障部部长", id: zhang-lin-pla, done: true }
+- { name: 高大光, date: 2025-09-12, post: "联勤保障部队原政委", id: gao-daguang, done: true }
+- { name: 汪志斌, date: 2025-09-12, post: "火箭军纪委书记", id: wang-zhibin, done: true }
+- { name: 王春宁, date: 2025-09-12, post: "武警部队司令员", id: wang-chunning, done: true }
+- { name: 何宏军, date: 2025-10-17, post: "军委政治工作部常务副主任", id: he-hongjun, done: true }
+- { name: 王秀斌, date: 2025-10-17, post: "军委联合作战指挥中心常务副主任", id: wang-xiubin, done: true }
+- { name: 林向阳, date: 2025-10-17, post: "东部战区司令员", id: lin-xiangyang, done: true }
+- { name: 秦树桐, date: 2025-10-17, post: "陆军政委", id: qin-shutong, done: true }
+- { name: 袁华智, date: 2025-10-17, post: "海军政委", id: yuan-huazhi, done: true }
+- { name: 王厚斌, date: 2025-10-17, post: "火箭军司令员", id: wang-houbin, done: true }
+- { name: 张凤中, date: 2025-10-23, post: "火箭军政治工作部原主任", id: zhang-fengzhong, done: true }
+- { name: 孙斌, date: 2025-10-28, post: "中央军委审计署审计长", id: sun-bin-pla, done: true }
+- { name: 曹建国, date: 2025-12-24, post: "中国航发原董事长", id: cao-jianguo, done: true }
+- { name: 马正武, date: 2025-12-24, post: "中国融通集团原董事长", id: ma-zhengwu, done: false }
+- { name: 张冬辰, date: 2025-12-24, post: "军工央企原负责人（全国政协委员资格被撤）", id: '', done: false }
+- { name: 王鹏, date: 2025-12-27, post: "中央军委训练管理部部长", id: wang-peng-pla, done: true }
+- { name: 王仁华, date: 2025-12-27, post: "中央军委政法委书记", id: wang-renhua, done: true }
+- { name: 张红兵, date: 2025-12-27, post: "武警部队政委", id: zhang-hongbing, done: true }
+# ───────── 2026 ─────────
+- { name: 杨龙溪, date: 2026-01-12, post: "青海省军区政委、青海省委常委", id: yang-longxi, done: true }
+- { name: 张又侠, date: 2026-01-24, post: "中央政治局委员、中央军委副主席", id: zhang-youxia, done: true }
+- { name: 刘振立, date: 2026-01-24, post: "中央军委委员、联合参谋部参谋长", id: liu-zhenli, done: true }
+- { name: 周新民, date: 2026-02-04, post: "中国航空工业集团原董事长", id: '', done: false }
+- { name: 刘仓理, date: 2026-02-04, post: "中国工程物理研究院原院长", id: '', done: false }
+- { name: 何松, date: 2026-02-06, post: "中央军委后勤保障部原副部长", id: he-song-pla, done: true }
+- { name: 边瑞峰, date: 2026-02-26, post: "中央军委政治工作部主任助理", id: bian-ruifeng, done: true }
+- { name: 王东海, date: 2026-02-26, post: "中央军委国防动员部政委", id: wang-donghai, done: true }
+- { name: 李桥铭, date: 2026-02-26, post: "陆军原司令员", id: li-qiaoming, done: true }
+- { name: 丁来富, date: 2026-02-26, post: "陆军第73集团军军长", id: ding-laifu, done: true }
+- { name: 沈金龙, date: 2026-02-26, post: "海军原司令员", id: shen-jinlong, done: true }
+- { name: 秦生祥, date: 2026-02-26, post: "海军原政委", id: qin-shengxiang, done: true }
+- { name: 于忠福, date: 2026-02-26, post: "空军原政委", id: yu-zhongfu, done: true }
+- { name: 杨光, date: 2026-02-26, post: "火箭军第64基地原司令员、湖北省军区副司令员", id: yang-guang-pla, done: true }
+- { name: 李伟, date: 2026-02-26, post: "信息支援部队原政委", id: li-wei-pla, done: true }
+- { name: 韩卫国, date: 2026-03-02, post: "陆军原司令员（退役）", id: han-weiguo, done: true }
+- { name: 刘雷, date: 2026-03-02, post: "陆军原政委（退役）", id: liu-lei-pla, done: true }
+- { name: 高津, date: 2026-03-02, post: "战略支援部队原司令员（退役）", id: gao-jin, done: true }
+- { name: 张克俭, date: 2026-03-02, post: "国防科工局原局长（全国政协常委）", id: '', done: false }
+- { name: 刘国治, date: 2026-03-20, post: "中央军委科技委原主任", id: liu-guozhi, done: true }
+- { name: 许学强, date: 2026-06-26, post: "中央军委装备发展部部长", id: xu-xueqiang, done: true }
+- { name: 王抗平, date: 2026-06-26, post: "联勤保障部队原司令员", id: wang-kangping, done: true }
+- { name: 李凤彪, date: 2026-06-26, post: "西部战区政委", id: li-fengbiao, done: true }
+- { name: 尹红星, date: 2026-06-26, post: "南部战区陆军原政委", id: yin-hongxing, done: true }
+- { name: 郭普校, date: 2026-06-26, post: "空军政委", id: guo-puxiao, done: true }
+- { name: 张明华, date: 2026-06-26, post: "网络空间部队司令员", id: zhang-minghua, done: true }
+- { name: 常丁求, date: 2026-07, post: "空军原司令员", id: chang-dingqiu, done: true }
+- { name: 赵晓哲, date: 2026-08-03, post: "中央军委科技委原主任", id: zhao-xiaozhe, done: true }
+- { name: 赵宗岐, date: 2026-08-26, post: "西部战区原司令员（退役）", id: zhao-zongqi, done: true }
+- { name: 巨乾生, date: 2026-08-28, post: "战略支援部队原司令员", id: ju-qiansheng, done: true }
+- { name: 钟绍军, date: 2026-08-28, post: "中央军委办公厅原主任、国防大学原政委", id: zhong-shaojun, done: true }
+# 长期未公开露面、官方无任何说法（联合早报、明报 2026-08 梳理）
+- { name: 刘青松, date: 2025-10-23, post: "东部战区政委", id: liu-qingsong, done: true }
+- { name: 黄铭, date: 2025-10-23, post: "北部战区司令员", id: huang-ming-general, done: true }
+- { name: 胡中明, date: 2025-10-23, post: "海军司令员", id: hu-zhongming, done: true }
+- { name: 吴亚男, date: 2025-10-23, post: "南部战区司令员", id: wu-yanan, done: true }
+- { name: 王文全, date: 2025-11, post: "南部战区政委", id: wang-wenquan, done: true }
+- { name: 汪海江, date: 2025-08, post: "西部战区司令员", id: wang-haijiang, done: true }
+- { name: 王凯, date: 2025-08, post: "西藏军区司令员", id: wang-kai-pla, done: true }
+- { name: 王强, date: 2025-09-03, post: "中部战区司令员", id: wang-qiang-pla, done: true }
+- { name: 徐德清, date: 2025-09-03, post: "中部战区政委", id: xu-deqing, done: true }
+- { name: 杨诚, date: 2025-09, post: "新疆军区政委", id: yang-cheng-pla, done: true }
+- { name: 徐西盛, date: 2026-08-03, post: "火箭军政委", id: xu-xisheng, done: true }
+- { name: 徐起零, date: 2026-08-03, post: "中央军委联合参谋部副参谋长", id: xu-qiling, done: true }
+- { name: 杨学军, date: 2026-08-03, post: "军事科学院原院长", id: yang-xuejun, done: true }
+- { name: 刘发庆, date: 2026-08-03, post: "中央军委国防动员部原部长", id: liu-faqing, done: true }

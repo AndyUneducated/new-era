@@ -1,0 +1,302 @@
+# CS1: case studies (Zhou network, petroleum, Xishanhui, Shanxi, Liaoning, Hengyang, China Resources, CSRC 2015)
+web:
+  # --- Hengyang ---
+  - id: cs1-people-2013-12-28-hengyang
+    title: 湖南省严肃查处衡阳破坏选举案件
+    publisher: 人民网（新华社）
+    date: 2013-12-28
+    voice: official
+    url: http://politics.people.com.cn/n/2013/1228/c1001-23967201.html
+    start: 新华网长沙12月28日电
+    end: 由中央纪委立案调查。
+  - id: cs1-bbc-2013-12-28-hengyang
+    title: 涉案金额过亿 500多名人大代表受贿
+    publisher: BBC 中文
+    date: 2013-12-28
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/12/131228_hunan_lawmakers_resign
+    excerpt: true
+    keep: [中国官方周六, 失职渎职, 从2013年2月开始, 4月上旬, 6月中旬, 竟有518人受贿, 功成名就的商人]
+  - id: cs1-bbc-2013-12-29-hengyang-431
+    title: 湖南衡阳人大贿选案431人受党纪调查
+    publisher: BBC 中文
+    date: 2013-12-29
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2013/12/131229_china_hunan_electoral_bribe
+    excerpt: true
+    keep: [431名党员, 529名代表, 三名未收受钱物, 只余下八名代表]
+  - id: cs1-bbc-2014-01-27-hengyang-comment
+    title: 点评中国：民主还没来临 贿选却已成风
+    publisher: BBC 中文
+    date: 2014-01-27
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/focus_on_china/2014/01/140127_cr_elctoral_bribe
+    excerpt: true
+    keep: [从93名候选人中差额选出了76个, 湖南省所做的处理包括, 有贿选动机的是那些, 只有20人“干净”当选, 其余44人多数, 差额选举之所以成为贪腐政治的空间，一个原因, 民主还没有来临]
+  - id: cs1-aisixiang-2013-qin-qianhong-hengyang
+    title: 秦前红：衡阳贿选案颠覆传统选举叙事
+    publisher: 爱思想
+    author: 秦前红
+    date: 2014-01-01
+    voice: scholar
+    url: https://www.aisixiang.com/data/71045.html
+    excerpt: true
+    keep: [最强烈的地震, 颇为极端的个例, 护身符, 余韵未了]
+  - id: cs1-aisixiang-2014-zheng-lei-hengyang
+    title: 郑磊：走向操作性的人大制度研究——以衡阳贿选事件三层处理方案的规范分析为例
+    publisher: 爱思想（中国数字时代转载）
+    author: 郑磊
+    date: 2014-10-10
+    voice: scholar
+    url: https://chinadigitaltimes.net/chinese/365494.html
+    excerpt: true
+    keep: [解散式补选中可由上级人大授权, 涉案金额最大、涉及党政官员和人大代表最多]
+  # --- Liaoning ---
+  - id: cs1-npc-2016-09-14-liaoning-session
+    title: 十二届全国人大常委会第二十三次会议闭幕
+    publisher: 中国人大网
+    date: 2016-09-13
+    voice: official
+    url: https://web.archive.org/web/2017/http://www.npc.gov.cn/zgrdw/npc/xinwen/syxw/2016-09/14/content_1997426.htm
+    start: 新华社北京9月13日电
+    end: 等列席会议。
+  - id: cs1-npc-2016-09-13-liaoning-invalid-report
+    title: 全国人大常委会代表资格审查委员会关于辽宁省人民代表大会选举产生的部分第十二届全国人民代表大会代表当选无效的报告
+    publisher: 中国人大网
+    date: 2016-09-13
+    voice: doc
+    url: https://web.archive.org/web/2017/http://www.npc.gov.cn/zgrdw/npc/xinwen/2016-10/12/content_1998978.htm
+    start: 辽宁省在查办辽宁省全国人大代表拉票贿选案中
+    end: 以上报告，请审议。
+  - id: cs1-npc-2016-09-13-li-jianguo-explanation
+    title: 关于辽宁省人大选举产生的部分十二届全国人大代表当选无效及成立筹备组问题的说明（李建国）
+    publisher: 中国人大网
+    date: 2016-09-13
+    voice: doc
+    url: https://web.archive.org/web/2017/http://www.npc.gov.cn/zgrdw/npc/xinwen/2016-10/12/content_1998982.htm
+    start: 我受委员长会议委托
+    end: 草案和以上说明是否妥当，请审议。
+  - id: cs1-people-2016-09-14-zero-tolerance
+    title: 人民日报评论员：对拉票贿选坚持“零容忍”
+    publisher: 人民网（人民日报）
+    date: 2016-09-14
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/0914/c1001-28714447.html
+    start: 为期一天的十二届全国人大常委会
+    end: 不断发展好人民代表大会制度。
+  - id: cs1-people-2016-09-18-xinhua-commentator
+    title: 新华社评论员：严查拉票贿选，匡正换届风气
+    publisher: 人民网（新华社）
+    date: 2016-09-18
+    voice: official
+    url: http://cpc.people.com.cn/pinglun/n1/2016/0918/c78779-28719702.html
+    start: 不久前，十二届全国人大常委会
+    end: 更加优异的答卷。
+  - id: cs1-thepaper-liaoning-ccdi-paper
+    title: 中纪委机关报刊文：查处辽宁拉票贿选案是根治政治毒瘤大手术
+    publisher: 澎湃新闻（中国纪检监察报）
+    author: 王笑梅
+    date: 2017-01-14
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1600250
+    start: 辽宁省各级党组织牢固树立
+    end: 一定会成为现实。
+  - id: cs1-bbc-2016-09-15-liaoning-analysis
+    title: 焦点：辽宁贿选案震怒中南海的背后
+    publisher: BBC 中文
+    author: 白墨
+    date: 2016-09-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/09/160915_ana_liaoning_renda_political_impact
+    excerpt: true
+    keep: [上一次是在12年前, 天字一号, 由619名辽宁省, 45人中有38人, 李文在接受BBC, 举手机器，橡皮图章。但回到, 司法建议书, 公开的秘密, 基本告一段落]
+  - id: cs1-bbc-2016-09-18-liaoning-454
+    title: 中国辽宁省454名涉贿选人大代表资格终止
+    publisher: BBC 中文
+    date: 2016-09-18
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2016/09/160918_china_congress_bribery
+    excerpt: true
+    keep: [再有452人辞去, 李峰被罢免, 涉及此次贿选的辽宁省人大代表共有523人, 62人中有38人涉案, 有523人涉及贿选]
+  # --- Shanxi ---
+  - id: cs1-people-2014-09-01-shanxi-adjust
+    title: 山西省委主要负责同志职务调整 王儒林任山西省委书记
+    publisher: 人民网（新华网）
+    date: 2014-09-01
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0901/c70731-25582004.html
+    start: 新华网太原9月1日电
+    end: 2012年12月任吉林省委书记。
+  - id: cs1-people-2014-09-30-shanxi-13
+    title: 山西补齐13名省委常委 3人从中央部委“空降”
+    publisher: 人民网
+    date: 2014-09-30
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0930/c1001-25768108.html
+    start: 据新华网消息，今日上午
+    end: 国家煤炭安监局局长。
+  - id: cs1-people-2015-03-08-wang-rulin-npc
+    title: 雷霆万钧反腐败 迎难而上谋发展——山西代表团接受境内外媒体记者集体采访实录
+    publisher: 中国共产党新闻网（山西日报）
+    date: 2015-03-06
+    voice: official
+    url: http://cpc.people.com.cn/n/2015/0308/c64102-26656928.html
+    start: 中央电视台记者：我的问题想提给王儒林书记
+    end: 山西的前景是光明的。
+  - id: cs1-ccdi-2016-wang-rulin-interview
+    title: 担负全面从严治党政治责任 把握运用监督执纪“四种形态”——山西省委书记王儒林接受本网访谈
+    publisher: 中央纪委监察部网站
+    date: 2016-06-07
+    voice: official
+    url: https://m.ccdi.gov.cn/content/fe/4d/10416.html
+    start: 主持人：各位网友
+    end: 我们下期再见。
+  - id: cs1-bbc-2014-08-30-shanxi-yuan
+    title: 山西省委表態反腐 獨缺省委書記引猜疑
+    publisher: BBC 中文
+    date: 2014-08-30
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/china/2014/08/140830_shanxi_official_corruption_investigation
+    excerpt: true
+    keep: [並沒有提及山西省委書記袁純清, 袁純清不會被調查, 令計劃的親信, 重災區, 申維辰曾擔任]
+  - id: cs1-bbc-2014-09-01-shanxi-wang-rulin
+    title: 王儒林接替袁纯清担任中共山西省委书记
+    publisher: BBC 中文
+    date: 2014-09-01
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/09/140901_cn_shanxi_wangrulin
+    excerpt: true
+    keep: [证实了过去几天来, 南华早报, 令计划的亲信, 求是]
+  - id: cs1-chinanews-2014-09-02-wang-yukai
+    title: 专家:袁纯清被调离与山西用人失察腐败连连有关
+    publisher: 中新网（京华时报）
+    date: 2014-09-02
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2014/09-02/6552140.shtml
+    excerpt: true
+    keep: [比较罕见, 用人不当, 13位常委中7位是山西本地人, 全部是山西人, 异地交流太少, 晋官难当, 权钱交易和官商勾结]
+  - id: cs1-thepaper-2014-09-01-xiakedao
+    title: 党媒解读山西换帅：常委坐镇调整，不同寻常的细节
+    publisher: 澎湃新闻（侠客岛）
+    date: 2014-09-01
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1264826
+    excerpt: true
+    keep: [即使当时局势异常敏感, 资源被权力的过度垄断, 一字没出现袁纯清三字]
+  # --- China Resources ---
+  - id: cs1-bbc-2014-04-15-cr-probe
+    title: 新华社记者再次实名举报华润董事长
+    publisher: BBC 中文
+    date: 2014-04-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/04/140415_huarun_corruption_probe
+    excerpt: true
+    keep: [王文志, 金业, 幕后人, 李建军, 廉政公署, 六名香港股东]
+  - id: cs1-bbc-2014-04-16-wang-wenzhi
+    title: 王文志：“中央反腐的决心给了我勇气”
+    publisher: BBC 中文
+    date: 2014-04-16
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2014/04/140416_china_report_wangwenzhi
+    excerpt: true
+    keep: [中央反腐的决心给了我勇气, 王文志]
+  - id: cs1-hqrw-2014-04-26-song-lin
+    title: 双面宋林，神话终结（环球人物）
+    publisher: 环球人物（人民日报社）
+    date: 2014-04-26
+    voice: official
+    url: https://paper.people.com.cn/hqrw/html/2014-04/26/content_1422520.htm
+    excerpt: true
+    keep: [2010年2月9日, 2009年9月，也就是, 山西首富, 第二个因个人实名举报, 被‘顶’了近一年, 华润帝国]
+  - id: cs1-people-2014-04-18-song-lin-timeline
+    title: 华润董事长宋林案举报历程
+    publisher: 人民网（新华财经）
+    date: 2014-04-18
+    voice: official
+    url: http://finance.people.com.cn/n/2014/0418/c1004-24915754.html
+    start: 微博认证为新华社
+    end: 主持全面工作的决定。
+  - id: cs1-people-2015-10-22-cr-inspection
+    title: 中央第六巡视组向中国华润总公司反馈专项巡视情况
+    publisher: 人民网（中央纪委监察部网站）
+    date: 2015-10-22
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/1022/c64371-27729715.html
+    start: 根据中央巡视工作领导小组的部署，中央第六巡视组
+    end: 实现中国华润总公司的新发展。
+  - id: cs1-thepaper-2014-08-cr-wang-yujun
+    title: 华润电力总裁王玉军被查，“宋林案”关键九人浮现
+    publisher: 澎湃新闻
+    author: 王灿
+    date: 2014-08-27
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1263843
+    start: “宋林案”持续发酵中。
+    end: 2014年3月12日上午，邢利斌被警方从太原武宿机场带走，接受调查。
+  # --- CSRC ---
+  - id: cs1-bbc-2015-09-17-csrc-scandal
+    title: 分析：中国股市监管从救市转向整肃“内鬼”
+    publisher: BBC 中文
+    date: 2015-09-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/china/2015/09/150917_ana_china_csrc_scandal
+    excerpt: true
+    keep: [刘书帆, 欧阳健生, 李量, 中信证券, 谢国忠, 李超, 程博明, 五道口]
+  - id: cs1-bbc-2016-02-20-xiao-gang
+    title: 中国证监会主席肖钢被免 刘士余接任
+    publisher: BBC 中文
+    date: 2016-02-20
+    voice: zh
+    url: https://www.bbc.com/zhongwen/simp/business/2016/02/160220_csrc_regulator_xiaogang_step_down
+    excerpt: true
+    keep: [肖钢, 刘士余, 熔断, 股灾负责]
+  - id: cs1-bbcen-2016-02-20-xiao-gang
+    title: China replaces securities regulator Xiao Gang
+    publisher: BBC News
+    date: 2016-02-20
+    voice: west
+    url: https://www.bbc.com/news/world-asia-china-35618395
+    excerpt: true
+    keep: [Xiao Gang was replaced, Somebody needed to bear]
+  - id: cs1-csrc-2016-02-04-inspection
+    title: 中央第七巡视组向证监会党委反馈专项巡视情况
+    publisher: 中国证券监督管理委员会
+    date: 2016-02-04
+    voice: official
+    url: http://www.csrc.gov.cn/csrc/c100028/c1001782/content.shtml
+    start: 根据中央巡视工作领导小组的部署，中央第七巡视组
+    end: 通过视频参加会议。
+  - id: cs1-chinadaily-2016-02-05-csrc-risk
+    title: 巡视组：证监会存腐败隐患 发审及增发被视为高危岗位
+    publisher: 中国日报网（北京商报）
+    date: 2016-02-05
+    voice: official
+    url: https://web.archive.org/web/2016/http://caijing.chinadaily.com.cn/finance/2016-02/05/content_23404028.htm
+    start: 在原证监会副主席张育军落马之后
+    end: 纪委履行监督责任缺失。
+  - id: cs1-cctv-2017-01-23-xu-xiang
+    title: 徐翔、王巍、竺勇操纵证券市场案一审宣判 徐翔获刑五年六个月
+    publisher: 央视网（青岛市中级人民法院官微）
+    date: 2017-01-23
+    voice: official
+    url: http://m.news.cctv.com/2017/01/23/ARTImkzK7GiFoPDfH31yEQ1T170123.shtml
+    start: 2017年1月23日，青岛市中级人民法院
+    end: 同时并处罚金。
+  # --- Petroleum ---
+  - id: cs1-xinhua-2015-06-16-cnpc-inspection
+    title: 中央第二巡视组向中国石油反馈专项巡视情况
+    publisher: 新华网（中央纪委监察部网站）
+    date: 2015-06-16
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-06/16/c_127923408.htm
+    start: 根据中央巡视工作领导小组的部署，中央第二巡视组
+    end: 在分会场参加会议。
+  - id: cs1-chinacom-2015-09-15-cnpc-rectify
+    title: 中石油公布巡视整改情况 查处负责人与商人绑定
+    publisher: 中国网财经（北京青年报）
+    author: 周宇
+    date: 2015-09-15
+    voice: official
+    url: https://web.archive.org/web/2016/https://finance.china.com.cn/industry/company/20150915/3342504.shtml
+    start: 昨日(9月14日)，中国石油
+    end: 进行调查核实。

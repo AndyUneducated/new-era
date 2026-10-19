@@ -1,0 +1,117 @@
+# A02: PLA / PAP generals (and defence-industry leaders) who fell, were recalled or went missing, first news 2023-01 or later.
+# Most notices are reused from earlier batches (B08, C03, F09, F10, K05, K06); this file only adds what was missing:
+# the recall notices not yet registered, the NPC gazette disclosures of the reasons, and sources for the new cards.
+web:
+  - id: a02-xinhua-2024-02-27-npc-notice-3
+    title: 全国人民代表大会常务委员会公告〔十四届〕第三号
+    publisher: 新华社
+    date: 2024-02-27
+    voice: doc
+    url: https://www.news.cn/politics/20240227/03feb31c9ac54eaf92e4a5544933dae6/c.html
+    start: 上海市第十六届人大常委会第十一次会议补选黄莉新
+    end: 2024年2月27日
+  - id: a02-bjrd-2023-li-tongjian
+    title: 北京市第十六届人民代表大会常务委员会代表资格审查委员会关于北京市第十六届人民代表大会个别代表的代表资格的报告
+    publisher: 北京市人大常委会公报
+    date: 2023-11-24
+    voice: doc
+    url: https://www.bjrd.gov.cn/rdzl/rdcwhgb/ssljrdcwhgb202306/202403/t20240319_3593926.html
+    start: （2023年11月24日北京市第十六届
+    end: 实有代表761人。
+  - id: a02-qinghai-2026-01-13-yang-longxi
+    title: 青海省人民代表大会常务委员会公告（第四十七号）
+    publisher: 青海省人民政府网
+    date: 2026-01-12
+    voice: doc
+    url: http://www.qinghai.gov.cn/zwgk/system/2026/01/13/030090705.shtml
+    start: 解放军和武警代表团选出的省十四届人大代表朗杰
+    end: 2026年1月12日
+  - id: a02-caixin-2024-02-04-nine-generals
+    title: 均“涉嫌严重违纪违法” 九将领已被罢免全国人大代表
+    publisher: 财新网
+    date: 2024-02-04
+    voice: zh
+    url: https://china.caixin.com/2024-02-04/102163591.html
+    excerpt: true
+    keep: [ 涉嫌严重违纪违法, 罢免 ]
+  - id: a02-scol-2024-12-you-li-reason
+    title: 官方披露：尤海涛、李鹏程等，涉嫌严重违纪违法
+    publisher: 川观新闻
+    date: 2024-12-26
+    voice: official
+    url: https://cbgc.scol.com.cn/news/5782573
+    excerpt: true
+    keep: [ 尤海涛, 李鹏程 ]
+  - id: a02-rthk-2026-02-26-he-weidong
+    title: 中央军委前副主席何卫东涉严重违纪违法　被罢免人大代表职务
+    publisher: 香港电台
+    date: 2026-02-26
+    voice: zh
+    url: https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1845171-20260226.htm
+    excerpt: true
+    keep: [ 涉嫌严重违纪违法 ]
+  - id: a02-zaobao-2026-04-18-nine-generals
+    title: 中国官方首度披露多名“消失”军方高级将领涉严重违纪违法
+    publisher: 联合早报
+    date: 2026-04-18
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260418-8915219
+    excerpt: true
+    keep: [ 涉嫌严重违纪违法, 涉嫌违纪违法, 最后职务, 湖北省军区 ]
+  - id: a02-zaobao-2026-08-07-six-generals
+    title: 中国全国人大公报披露六将领涉严重违纪违法 李云泽罢免原因未列
+    publisher: 联合早报
+    date: 2026-08-07
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260807-9489223
+    excerpt: true
+    keep: [ 许学强, 丁树范, 唐任伍, 一串粽子 ]
+  - id: a02-caixin-2023-12-27-cppcc-three
+    title: 吴燕生、刘石泉、王长青被撤全国政协委员
+    publisher: 财新网
+    date: 2023-12-27
+    voice: zh
+    url: https://china.caixin.com/2023-12-27/102150400.html
+    excerpt: true
+    keep: [ 吴燕生, 王长青, 刘石泉 ]
+  # the qualification committee's reports as printed in the NPC Standing Committee gazette, 2023-09 .. 2026-06:
+  # for each recalled military deputy, the date of the military congress and the reason (涉嫌严重违纪违法)
+  - id: a02-wikisource-npc-qualification-reports
+    title: 第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告（2023—2026 年历次）
+    publisher: 全国人大常委会公报（维基文库）
+    date: 2026-06-26
+    voice: doc
+    url: https://zh.wikisource.org/wiki/第十四届全国人民代表大会常务委员会代表资格审查委员会关于个别代表的代表资格的报告
+    start: （2026年6月26日第十四届全国人民代表大会常务委员会第二十三次会议通过）
+    end: 第十四届全国人民代表大会实有代表2974人。
+  - id: a02-guancha-2025-08-20-li-hanjun
+    title: 海军原参谋长李汉军，涉嫌严重违纪违法
+    publisher: 观察者网
+    date: 2025-08-20
+    voice: zh
+    url: https://www.guancha.cn/military-affairs/2025_08_20_787179.shtml
+    excerpt: true
+    keep: [ 李汉军 ]
+  - id: a02-bbc-2025-10-fourth-plenum-absent
+    title: 中共军方反腐败：从四中全会中央委员变化看到甚么？
+    publisher: BBC中文
+    date: 2025-10-25
+    voice: west
+    url: https://www.bbc.com/zhongwen/articles/c5y43dg221no/simp
+    excerpt: true
+    keep: [ 黄铭, 汪海江, 王强, 杨诚, 张红兵, 王文全, 官宣被查 ]
+  - id: a02-cna-2025-11-14-ft-fujian
+    title: 金融時報：習近平擴大整肅軍方　牽動解放軍對台策略
+    publisher: 中央社
+    date: 2025-11-14
+    voice: zh
+    url: https://www.cna.com.tw/news/aopl/202511140219.aspx
+    excerpt: true
+    keep: [ 胡中明, 吳亞男, 王文全 ]
+  - { id: a02-wiki-li-tongjian, title: 李同建（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李同建", excerpt: true, keep: [ 李同建 ] }
+  - { id: a02-wiki-wu-yansheng, title: 吴燕生（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴燕生", excerpt: true, keep: [ 吴燕生 ] }
+  - { id: a02-wiki-sun-bin-pla, title: 孙斌（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孙斌_(1968年)", excerpt: true, keep: [ 孙斌 ] }
+  - { id: a02-wiki-he-song, title: 何松（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/何松", excerpt: true, keep: [ 何松 ] }
+  - { id: a02-wiki-bian-ruifeng, title: 边瑞峰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/边瑞峰", excerpt: true, keep: [ 边瑞峰, 年 ] }
+  - { id: a02-wiki-yang-longxi, title: 杨龙溪（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨龙溪", excerpt: true, keep: [ 杨龙溪, 曾任 ] }
+  - { id: a02-wiki-li-zhizhong, title: 李志忠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李志忠", excerpt: true, keep: [ 李志忠, 年 ] }

@@ -1,0 +1,316 @@
+# A01: PLA / PAP generals (and defence-industry leaders) who fell, were recalled or went missing, first news 2012-11 to 2022-12.
+# The 2015 batch lists (f09-hqrw-2015-01-26-army-tigers, f09-rmzxw-2015-03-03-army-tigers) and the B07/B13/C03/F09
+# notices are reused; this file adds the Wikipedia chronology, the later batch lists, and sources for the new cards.
+web:
+  - id: a01-wiki-pla-fallen-list
+    title: 中共十八大后落马的副军级及以上解放军军官和武警警官（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/中共十八大后落马的副军级及以上解放军军官和武警警官
+    excerpt: true
+    keep: [ 本列表收录, 列表按涉案官员, 2013年, 2014年, 2015年, 2016年, 2017年, 2019年, 2021年, 王明贵, 方文平, 叶万勇, 张祁斌, 朱和平, 苑世军, 王爱国, 黄 星, 傅 怡, 占国桥, 董明祥, 周明贵, 寇 铁, 刘占琪, 邓瑞华, 王 信, 张万松, 李明泉, 周林和, 朱洪达, 钱卫平, 徐向华, 叶 青, 孟中康, 宋 学, 卫 晋, 陈 强, 符林国, 戴维民, 高小燕, 段天杰, 黄献军, 张代新, 兰伟杰, 刘洪杰, 程 杰, 陈剑锋, 蔡广辽, 陈红岩, 王 声, 郭正钢, 占 俊, 缪贵荣, 周国泰, 张根恒, 尹志山, 马德文, 吴瑞忠, 瞿木田, 杨 海, 沈 涛, 于铁民, 李志坚, 张东水, 王玉发, 牛志忠, 张 鸣, 杨世光, 刘生杰, 饶开勋 ]
+  - id: a01-thepaper-2015-10-army-tigers-44
+    title: 十八大后军老虎达44人：含刘铮等三名总后勤部军级以上军官
+    publisher: 澎湃新闻
+    date: 2015-10-21
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_1387474
+    excerpt: true
+    keep: [ 立案, 判处, 公布了, 公布军级, 批： ]
+  - id: a01-people-2015-05-29-army-batch4
+    title: 军队近期查处军级以上干部重大案件情况（2015年5月29日）
+    publisher: 人民网（来源：中国军网）
+    date: 2015-05-29
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0529/c64371-27077969.html
+    start: 军队权威部门今天对外公布
+    end: 2015年5月移送军事检察机关依法处理。
+  - id: a01-people-2015-06-16-army-batch5
+    title: 军队近期查处军级以上干部重大案件情况（2015年6月16日）
+    publisher: 人民网（来源：中国军网）
+    date: 2015-06-16
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0616/c64371-27164857.html
+    start: 军队权威部门今天对外公布
+    end: （中国军网北京6月16日电）
+  # ---- later notices (2015-11 to 2021)
+  - id: a01-people-2015-11-13-army-batch
+    title: 军队近期查处军级以上干部重大案件情况（2015年11月13日）
+    publisher: 人民网（来源：中国军网）
+    date: 2015-11-13
+    voice: official
+    url: http://military.people.com.cn/n/2015/1113/c1011-27813820.html
+    start: 军队权威部门今天对外公布
+    end: 移送军事检察机关立案侦查。
+  - id: a01-81-2015-12-10-li-mingquan
+    title: 军队近期查处军级以上干部重大案件情况（2015年12月10日）
+    publisher: 中国军网
+    date: 2015-12-10
+    voice: official
+    url: https://web.archive.org/web/20151211115451/http://www.81.cn/jwgz/2015-12/10/content_6809931.htm
+    start: 中国军网北京12月10日电
+    end: 进行立案侦查。
+  - id: a01-npc-2015-11-04-report
+    title: 第十二届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告（2015年11月4日）
+    publisher: 中国人大网
+    date: 2015-11-04
+    voice: doc
+    url: https://web.archive.org/web/20201111015355/http://www.npc.gov.cn/wxzl/gongbao/2016-01/05/content_1958847.htm
+    start: 全国人民代表大会常务委员会：
+    end: 实有代表2944人。
+  - id: a01-npc-2015-12-27-notice-16
+    title: 全国人民代表大会常务委员会公告〔十二届〕第十六号
+    publisher: 中国人大网（新华社）
+    date: 2015-12-27
+    voice: doc
+    url: https://web.archive.org/web/2022/http://www.npc.gov.cn/zgrdw/npc/xinwen/2015-12/28/content_1957461.htm
+    start: 辽宁省第十二届人大常委会第二十二次会议补选陈求发
+    end: 特此公告。
+  - id: a01-thepaper-2015-11-26-shen-tao
+    title: 武警河南省总队原司令员沈涛被立案侦查，曾参与98抗洪救灾
+    publisher: 澎湃新闻
+    date: 2015-11-26
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1401585
+    excerpt: true
+    keep: [ 立案决定书, 辞职报告, 1976年12月入伍, 晋升武警少将警衔, 提任武警工程大学校长, 去向不明 ]
+  - id: a01-caixin-2015-11-26-yang-hai
+    title: 武警福建总队原司令员杨海被免全国人大代表
+    publisher: 财新网
+    date: 2015-11-26
+    voice: zh
+    url: https://china.caixin.com/m/2015-11-26/100878698.html
+    excerpt: true
+    keep: [ 首位被查的省级武警总队军政主官, 鉴于杨海涉嫌严重违纪, 最高服役年限 ]
+  - id: a01-thepaper-2016-07-26-yu-tiemin
+    title: 武警江苏省总队原司令员于铁民涉严重违纪，已辞全国人大代表
+    publisher: 澎湃新闻
+    date: 2016-07-26
+    voice: zh
+    url: https://web.archive.org/web/20201109122612/http://www.thepaper.cn/newsDetail_forward_1504062
+    excerpt: true
+    keep: [ 报告提到, 上述官方消息显示, 曾任武警黑龙江省总队副参谋长, 达到服役年限退休 ]
+  - id: a01-caixin-2016-07-26-yu-tiemin
+    title: 武警江苏总队原司令员于铁民涉嫌严重违纪
+    publisher: 财新网
+    date: 2016-07-26
+    voice: zh
+    url: https://china.caixin.com/2016-07-26/100970733.html
+    excerpt: true
+    keep: [ 邢伟志、朱洪达、张鸣, 官方低调披露 ]
+  - id: a01-thepaper-2016-08-zhang-ming
+    title: 原济南军区参谋长张鸣涉严重违纪违法，全国人大代表资格终止
+    publisher: 澎湃新闻
+    date: 2016-08-30
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1521949
+    excerpt: true
+    keep: [ 上述官方消息证实, 辽宁东沟人, 原总参作战部副部长 ]
+  - id: a01-npc-2016-09-03-report
+    title: 第十二届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告（2016年9月3日）
+    publisher: 中国人大网
+    date: 2016-09-03
+    voice: doc
+    url: https://web.archive.org/web/2022/http://www.npc.gov.cn/zgrdw/npc/xinwen/2016-10/12/content_1999024.htm
+    start: 全国人民代表大会常务委员会：
+    end: 实有代表2933人。
+  - id: a01-caixin-2016-09-03-zhou-linhe
+    title: 军队打虎再下一城 原总后周林和少将涉嫌违纪违法
+    publisher: 财新网
+    date: 2016-09-03
+    voice: zh
+    url: https://china.caixin.com/2016-09-03/100985112.html
+    excerpt: true
+    keep: [ 江苏丹阳人, 沉寂已久的军队打虎 ]
+  - id: a01-npc-2016-04-28-report
+    title: 第十二届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告（2016年4月28日）
+    publisher: 中国人大网
+    date: 2016-04-28
+    voice: doc
+    url: https://web.archive.org/web/20160918212633/http://www.npc.gov.cn/wxzl/gongbao/2016-07/11/content_1994467.htm
+    start: 全国人民代表大会常务委员会：
+    end: 实有代表2939人。
+  - id: a01-cppcc-2016-06-24-zhu-hongda
+    title: 关于撤销朱洪达、上官永清、姚中民中国人民政协会议第十二届全国委员会委员资格的决定
+    publisher: 中国政协网
+    date: 2016-06-24
+    voice: doc
+    url: http://www.cppcc.gov.cn/zxww/2016/06/24/ARTI1466760345841357.shtml
+    start: （2016年6月24日政协第十二届全国委员会常务委员会第十六次会议追认）
+    end: 现予以追认。
+  - id: a01-caixin-2016-03-31-zhu-hongda
+    title: 空军原后勤部长朱洪达被撤全国政协委员
+    publisher: 财新网
+    date: 2016-03-31
+    voice: zh
+    url: https://china.caixin.com/2016-03-31/100927081.html
+    excerpt: true
+    keep: [ 久已沉寂的军中反腐再下一城, 公开资料显示，朱洪达 ]
+  - id: a01-thepaper-2017-07-04-li-zhijian
+    title: 武警河北省总队原司令员李志坚涉嫌严重违纪违法，被立案审查
+    publisher: 澎湃新闻
+    date: 2017-07-04
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1724773
+    excerpt: true
+    keep: [ 被立案审查。李志坚涉嫌, 公开资料显示，李志坚 ]
+  - id: a01-npc-2017-09-01-report
+    title: 第十二届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告（2017年9月1日）
+    publisher: 中国人大网
+    date: 2017-09-01
+    voice: doc
+    url: https://web.archive.org/web/2022/http://www.npc.gov.cn/zgrdw/npc/xinwen/2017-09/01/content_2027933.htm
+    start: 全国人民代表大会常务委员会：
+    end: 实有代表2904人。
+  - id: a01-caixin-2019-10-27-rao-xu
+    title: 军方打虎再获官宣 两将领因严重违纪去职全国人大代表
+    publisher: 财新网
+    date: 2019-10-27
+    voice: zh
+    url: https://china.caixin.com/2019-10-27/101475809.html
+    excerpt: true
+    keep: [ 军队“打虎”再获官宣, 根据全国人大常委会代表资格审查委员会公布的报告 ]
+  - id: a01-npc-2019-12-28-report
+    title: 第十三届全国人大常委会代表资格审查委员会关于个别代表的代表资格的报告（2019年12月28日）
+    publisher: 中国人大网
+    date: 2019-12-28
+    voice: doc
+    url: https://web.archive.org/web/20200101105421/http://www.npc.gov.cn/npc/c30834/201912/1ab5d1986a7f46948f1ba5245efee476.shtml
+    start: 全国人民代表大会常务委员会：
+    end: 以上报告，请审议。
+  - id: a01-npc-2021-04-29-notice-21
+    title: 全国人民代表大会常务委员会公告〔十三届〕第二十一号
+    publisher: 澎湃新闻（来源：新华社）
+    date: 2021-04-29
+    voice: doc
+    url: https://thepaper.cn/newsDetail_forward_12458795
+    start: 海军军人代表大会决定罢免宋学
+    end: 特此公告。
+  - id: a01-guancha-2021-04-30-song-xue
+    title: 海军原副参谋长宋学涉严重违纪违法
+    publisher: 观察者网（来源：全国人大网）
+    date: 2021-04-30
+    voice: zh
+    url: https://www.guancha.cn/politics/2021_04_30_589364.shtml
+    excerpt: true
+    keep: [ 海军原副参谋长宋学，因涉嫌严重违纪违法 ]
+  - id: a01-zaobao-2021-04-30-song-xue
+    title: 海军原副参谋长宋学涉严重违纪违法被罢免人大代表
+    publisher: 联合早报
+    date: 2021-04-30
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20210430-1143345
+    excerpt: true
+    keep: [ 至少有5人的全国人大代表资格被终止, 而宋学是 ]
+  - id: a01-ccdi-2015-11-03-zhang-genheng
+    title: 新疆公安边防总队原总队长张根恒等2人被“双开”
+    publisher: 中央纪委监察部网站
+    date: 2015-11-03
+    voice: official
+    url: https://web.archive.org/web/20160305012643/http://www.ccdi.gov.cn/jlsc/201511/t20151103_64363.html
+    start: 公安部党委、纪委坚决贯彻
+    end: 函询。
+  - id: a01-chinanews-2019-07-24-qian-weiping
+    title: 军委装备发展部副部长钱卫平涉嫌严重违纪被立案审查
+    publisher: 中新网（来源：新京报）
+    date: 2019-07-24
+    voice: official
+    url: https://www.chinanews.com/gn/2019/07-24/8905160.shtml
+    start: 新京报快讯
+    end: 立案审查调查。
+  - id: a01-huanqiu-2019-07-24-qian-weiping
+    title: 国防部辟谣！吴谦：钱卫平涉嫌违纪违法被调查，非涉间谍案
+    publisher: 环球网
+    date: 2019-07-24
+    voice: official
+    url: https://china.huanqiu.com/article/9CaKrnKlJJF
+    excerpt: true
+    keep: [ 我可以明确地告诉你, 著名航天测控专家, 北京跟踪与通信技术研究所所长 ]
+  - id: a01-zaobao-2017-04-14-yang-shiguang
+    title: 海军政治工作部主任 杨世光涉严重违纪落马
+    publisher: 联合早报
+    date: 2017-04-14
+    voice: zh
+    url: https://www.zaobao.com.sg/special/report/politic/cnpol/story20170414-748322
+    excerpt: true
+    keep: [ 星岛日报, 约于5日被, 60岁的杨世光, 全面彻底肃清 ]
+  - id: a01-rfa-2017-04-13-yang-shiguang
+    title: 海军政工部主任杨世光中将被双规调查
+    publisher: 自由亚洲电台
+    date: 2017-04-13
+    voice: zh
+    url: https://www.rfa.org/mandarin/Xinwen/XQL-04132017033340.html
+    excerpt: true
+    keep: [ 中国海军政治工作部主任杨世光中将, 浙江宁海人, 清除两名前军委副主席 ]
+  - id: a01-kny-2017-05-20-navy-purge
+    title: 海军整肃风声鹤唳 中将杨世光落马内幕曝光
+    publisher: 看中国（转载《动向》）
+    date: 2017-05-20
+    voice: zh
+    rumor: true
+    url: https://www.kannewyork.com/news/2017/05/20/50624.html
+    excerpt: true
+    keep: [ 4月4日晚间 ]
+  # ---- Wikipedia articles for the new cards
+  - { id: a01-wiki-wang-minggui, title: 王明贵（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王明贵_(2004年少将)", excerpt: true, keep: [ 王明贵, 年 ] }
+  - { id: a01-wiki-fang-wenping, title: 方文平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/方文平", excerpt: true, keep: [ 方文平, 年 ] }
+  - { id: a01-wiki-wei-jin, title: 卫晋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/卫晋", excerpt: true, keep: [ 卫晋, 年 ] }
+  - { id: a01-wiki-ye-wanyong, title: 叶万勇（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/叶万勇", excerpt: true, keep: [ 叶万勇, 年 ] }
+  - { id: a01-wiki-fu-linguo, title: 符林国（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/符林国", excerpt: true, keep: [ 符林国, 年 ] }
+  - { id: a01-wiki-chen-qiang-pla, title: 陈强（少将）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈强_(少将)", excerpt: true, keep: [ 陈强, 年 ] }
+  - { id: a01-wiki-zhang-qibin, title: 张祁斌（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张祁斌", excerpt: true, keep: [ 张祁斌, 年 ] }
+  - { id: a01-wiki-dai-weimin, title: 戴维民（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/戴维民", excerpt: true, keep: [ 戴维民, 年 ] }
+  - { id: a01-wiki-zhu-heping, title: 朱和平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/朱和平_(1958年)", excerpt: true, keep: [ 朱和平, 年 ] }
+  - { id: a01-wiki-wang-aiguo, title: 王爱国（沈阳军区）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王爱国_(沈阳军区)", excerpt: true, keep: [ 王爱国, 年 ] }
+  - { id: a01-wiki-huang-xianjun, title: 黄献军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄献军", excerpt: true, keep: [ 黄献军, 年 ] }
+  - { id: a01-wiki-duan-tianjie, title: 段天杰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/段天杰", excerpt: true, keep: [ 段天杰, 年 ] }
+  - { id: a01-wiki-yuan-shijun, title: 苑世军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/苑世军", excerpt: true, keep: [ 苑世军, 年 ] }
+  - { id: a01-wiki-huang-xing-pla, title: 黄星（解放军）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄星_(解放军)", excerpt: true, keep: [ 黄星, 年 ] }
+  - { id: a01-wiki-zhang-dongshui, title: 张东水（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张东水", excerpt: true, keep: [ 张东水, 年 ] }
+  - { id: a01-wiki-cheng-jie-pla, title: 程杰（解放军）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/程杰_(解放军)", excerpt: true, keep: [ 程杰, 年 ] }
+  - { id: a01-wiki-chen-jianfeng-pla, title: 陈剑锋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈剑锋", excerpt: true, keep: [ 陈剑锋, 年 ] }
+  - { id: a01-wiki-chen-hongyan, title: 陈红岩（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈红岩", excerpt: true, keep: [ 陈红岩, 年 ] }
+  - { id: a01-wiki-wang-sheng-pla, title: 王声（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王声", excerpt: true, keep: [ 王声, 年 ] }
+  - { id: a01-wiki-lan-weijie, title: 兰伟杰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/兰伟杰", excerpt: true, keep: [ 兰伟杰, 年 ] }
+  - { id: a01-wiki-zhan-jun, title: 占俊（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/占俊", excerpt: true, keep: [ 占俊, 年 ] }
+  - { id: a01-wiki-dong-mingxiang, title: 董明祥（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/董明祥", excerpt: true, keep: [ 董明祥, 年 ] }
+  - { id: a01-wiki-zhou-minggui, title: 周明贵（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/周明贵", excerpt: true, keep: [ 周明贵, 年 ] }
+  - { id: a01-wiki-kou-tie, title: 寇铁（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/寇铁", excerpt: true, keep: [ 寇铁, 年 ] }
+  - { id: a01-wiki-liu-zhanqi, title: 刘占琪（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘占琪", excerpt: true, keep: [ 刘占琪, 年 ] }
+  - { id: a01-wiki-miao-guirong, title: 缪贵荣（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/缪贵荣", excerpt: true, keep: [ 缪贵荣, 年 ] }
+  - { id: a01-wiki-wang-yufa, title: 王玉发（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王玉发", excerpt: true, keep: [ 王玉发, 年 ] }
+  - { id: a01-wiki-zhou-guotai, title: 周国泰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/周国泰", excerpt: true, keep: [ 周国泰, 年 ] }
+  - { id: a01-wiki-wu-ruizhong, title: 吴瑞忠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴瑞忠", excerpt: true, keep: [ 吴瑞忠, 年 ] }
+  - { id: a01-wiki-qu-mutian, title: 瞿木田（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/瞿木田", excerpt: true, keep: [ 瞿木田, 年 ] }
+  - { id: a01-wiki-li-mingquan, title: 李明泉（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李明泉", excerpt: true, keep: [ 李明泉, 年 ] }
+  - { id: a01-wiki-wang-yu-navy, title: 汪玉（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/汪玉", excerpt: true, keep: [ 汪玉, 年 ] }
+  - { id: a01-wiki-yang-hai, title: 杨海（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨海", excerpt: true, keep: [ 杨海, 年 ] }
+  - { id: a01-wiki-shen-tao, title: 沈涛（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/沈涛", excerpt: true, keep: [ 沈涛, 年 ] }
+  - { id: a01-wiki-yu-tiemin, title: 于铁民（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/于铁民", excerpt: true, keep: [ 于铁民, 年 ] }
+  - { id: a01-wiki-zhang-ming-pla, title: 张鸣（1957年7月）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张鸣_(1957年7月)", excerpt: true, keep: [ 张鸣, 年 ] }
+  - { id: a01-wiki-zhou-linhe, title: 周林和（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/周林和", excerpt: true, keep: [ 周林和, 年 ] }
+  - { id: a01-wiki-li-zhijian-pap, title: 李志坚（武警）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李志坚_(武警)", excerpt: true, keep: [ 李志坚, 年 ] }
+  - { id: a01-wiki-rao-kaixun, title: 饶开勋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/饶开勋", excerpt: true, keep: [ 饶开勋, 年 ] }
+  - { id: a01-wiki-xu-xianghua, title: 徐向华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/徐向华", excerpt: true, keep: [ 徐向华, 年 ] }
+  - { id: a01-wiki-meng-zhongkang, title: 孟中康（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孟中康", excerpt: true, keep: [ 孟中康, 年 ] }
+  - { id: a01-wiki-song-xue, title: 宋学（1958年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/宋学_(1958年)", excerpt: true, keep: [ 宋学, 年 ] }
+  - { id: a01-wiki-zhu-hongda, title: 朱洪达（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/朱洪达", excerpt: true, keep: [ 朱洪达, 年 ] }
+  - { id: a01-wiki-liu-shengjie, title: 刘生杰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘生杰", excerpt: true, keep: [ 刘生杰, 年 ] }
+  - { id: a01-wiki-zhang-genheng, title: 张根恒（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张根恒", excerpt: true, keep: [ 张根恒, 年 ] }
+  - { id: a01-wiki-yin-zhishan, title: 尹志山（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/尹志山", excerpt: true, keep: [ 尹志山, 年 ] }
+  - { id: a01-wiki-ma-dewen, title: 马德文（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/马德文", excerpt: true, keep: [ 马德文, 年 ] }
+  - { id: a01-wiki-yang-shiguang, title: 杨世光（海军）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨世光_(海军)", excerpt: true, keep: [ 杨世光, 年 ] }
+  - { id: a01-wiki-cai-guangliao, title: 蔡广辽（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/蔡广辽", excerpt: true, keep: [ 蔡广辽, 年 ] }
+  - { id: a01-wiki-ma-faxiang, title: 马发祥（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/马发祥", excerpt: true, keep: [ 马发祥, 年 ] }
+  - { id: a01-wiki-wang-xin-pap, title: 王信（武警）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王信_(武警)", excerpt: true, keep: [ 王信, 年 ] }
+  - { id: a01-wiki-ye-qing-pla, title: 叶青（少将）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/叶青_(少将)", excerpt: true, keep: [ 叶青, 年 ] }
+  - { id: a01-wiki-qian-weiping, title: 钱卫平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/钱卫平", excerpt: true, keep: [ 钱卫平, 年 ] }
+  - { id: a01-wiki-shang-hong, title: 尚宏（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/尚宏_(中将)", excerpt: true, keep: [ 尚宏, 年 ] }
+  - id: a01-stheadline-2022-09-shang-hong
+    title: 中國觀察｜4名遭DQ二十大代表曝光
+    publisher: 星岛日报
+    date: 2022-09-26
+    voice: zh
+    url: https://www.stheadline.com/opinion/3485112/中國觀察4名遭DQ二十大代表曝光
+    excerpt: true
+    keep: [ 對比此前各大選舉單位公布的黨代表當選人名單, 尚宏中將榜上有名, 六十二歲的尚宏, 暫時不清楚兩人被 ]
