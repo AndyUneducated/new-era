@@ -1,0 +1,292 @@
+# I11: sources for round-14 new concepts — 大党独有难题, 历史周期率, 四个伟大, 新安全格局, 人类文明新形态, 中华民族现代文明,
+# 新型国际关系, 正确义利观, 中部崛起, 中央一号文件, 积极财政政策, 产业调整振兴规划, 郎顾之争, 去政治化, 北京共识,
+# 反内卷, 英雄烈士保护法, 民营经济促进法, 两面人, 天网与猎狐, 鸟笼经济; plus 自主创新 critique for concept-more.
+web:
+  # ---- 大党独有难题
+  - id: i11-gov-2023-01-09-xi-ccdi-2nd-plenum
+    title: 习近平在二十届中央纪委二次全会上发表重要讲话
+    publisher: 中国政府网（新华社）
+    date: 2023-01-09
+    voice: official
+    url: https://www.gov.cn/xinwen/2023-01/09/content_5735913.htm
+    start: 新华社北京1月9日电
+    end: 作题为《深入学习贯彻党的二十大精神，在新征程上坚定不移推进全面从严治党》的工作报告。
+  # ---- 历史周期率
+  - id: i11-zaobao-2021-04-15-huang-zhiping
+    title: 黄志平：中国还需要德先生吗？
+    publisher: 联合早报
+    author: 黄志平
+    date: 2021-04-15
+    voice: zh
+    url: https://www.zaobao.com.sg/forum/views/story20210415-1139484
+    excerpt: true
+    keep: [ 自体监督的弊病, 德先生 ]
+  # ---- 新型国际关系
+  - id: i11-gov-2013-03-24-xi-mgimo
+    title: 顺应时代前进潮流 促进世界和平发展——在莫斯科国际关系学院的演讲（习近平）
+    publisher: 中国政府网（新华社）
+    author: 习近平
+    date: 2013-03-23
+    voice: doc
+    url: https://www.gov.cn/ldhd/2013-03/24/content_2360829.htm
+    start: 新华社莫斯科
+  # ---- 正确义利观
+  - id: i11-people-2013-09-10-wang-yi-yili
+    title: 坚持正确义利观 积极发挥负责任大国作用（王毅，《人民日报》）
+    publisher: 人民网
+    author: 王毅
+    date: 2013-09-10
+    voice: official
+    url: http://opinion.people.com.cn/n/2013/0910/c1003-22862978.html
+    excerpt: true
+    keep: [ 重义轻利, 不搞我赢你输 ]
+  # ---- 英雄烈士保护法
+  - id: i11-gov-2018-04-27-heroes-law
+    title: 中华人民共和国英雄烈士保护法
+    publisher: 中国人大网
+    date: 2018-04-27
+    voice: doc
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-04/27/content_2053965.htm
+    start: （2018年4月27日第十三届全国人民代表大会常务委员会第二次会议通过）
+    end: 第三十条 本法自2018年5月1日起施行。
+  # ---- 民营经济促进法
+  - id: i11-gov-2025-04-30-private-economy-law
+    title: 中华人民共和国民营经济促进法
+    publisher: 中国政府网（新华社）
+    date: 2025-04-30
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202504/content_7022018.htm
+    end: 第七十八条 本法自2025年5月20日起施行。
+  # ---- 去政治化（马戎）
+  - id: i11-aisixiang-2004-ma-rong-depoliticize
+    title: 理解民族关系的新思路——少数族群问题的“去政治化”（马戎）
+    publisher: 爱思想（原载《北京大学学报》2004年第6期）
+    author: 马戎
+    date: 2004-11
+    voice: scholar
+    url: https://www.aisixiang.com/data/9120.html
+    excerpt: true
+    keep: [ 去政治化, 文化化 ]
+  # ---- 北京共识
+  - id: i11-aisixiang-2004-ramo-beijing-consensus
+    title: 北京共识（乔舒亚·库珀·雷默，中译本）
+    publisher: 爱思想（转载新华社《参考资料》译文）
+    author: 乔舒亚·库珀·雷默
+    date: 2004-05
+    voice: scholar
+    url: https://www.aisixiang.com/data/5566.html
+    excerpt: true
+    keep: [ 北京共识, 华盛顿共识 ]
+  - id: i11-ce-2009-11-19-yu-keping-beijing-consensus
+    title: 俞可平：“北京共识”与“中国模式”
+    publisher: 中国经济网
+    date: 2009-11-19
+    voice: scholar
+    url: http://intl.ce.cn/zhuanti/data/hsdgs/bjnews/200911/19/t20091119_1471486.shtml
+    excerpt: true
+    keep: [ 中国模式, 北京共识 ]
+  - id: i11-zgjjzk-2011-07-26-beijing-consensus
+    title: 从“华盛顿共识”到“北京共识”（《中国经济周刊》）
+    publisher: 人民网（中国经济周刊）
+    date: 2011-07-26
+    voice: zh
+    url: http://paper.people.com.cn/zgjjzk/html/2011-07/26/content_881001.htm?div=-1
+    excerpt: true
+    keep: [ 华盛顿共识, 北京共识 ]
+  # ---- 郎顾之争
+  - id: i11-sina-2004-08-11-lang-fudan
+    title: 郎咸平质疑顾雏军“七板斧”（《东方早报》）
+    publisher: 新浪财经（转载东方早报）
+    date: 2004-08-11
+    voice: zh
+    url: http://finance.sina.com.cn/g/20040811/0923940584.shtml
+    excerpt: true
+    keep: [ 顾雏军, 郎咸平, 民营化为导向 ]
+  - id: i11-ce-2004-08-17-lang-reply
+    title: 郎咸平回应顾雏军律师函 继续关注国有资产流失
+    publisher: 中国经济网
+    date: 2004-08-17
+    voice: zh
+    url: http://www.ce.cn/ztpd/tszt/gushi/2004/mqjf/lxpzy/200408/17/t20040817_1529869.shtml
+    excerpt: true
+    keep: [ 律师函, 七板斧, 国资流失 ]
+  - id: i11-cyol-2004-08-18-gu-sues
+    title: 顾雏军起诉郎咸平（《中国青年报》）
+    publisher: 中国青年报
+    date: 2004-08-18
+    voice: zh
+    url: http://zqb.cyol.com/content/2004-08/18/content_931267.htm
+    excerpt: true
+    keep: [ 顾雏军, 郎咸平, 诽谤 ]
+  - id: i11-sina-2004-08-20-lang-interview
+    title: 专访郎咸平：顾雏军“倒腾”的就是股民的钱（《南方周末》）
+    publisher: 新浪财经（转载南方周末）
+    date: 2004-08-20
+    voice: zh
+    url: http://finance.sina.com.cn/t/20040820/1215963972.shtml
+    excerpt: true
+    keep: [ 所有国有资产的移转应该全部停止, 政府的干预要退出国有企业 ]
+  - id: i11-ifeng-2016-06-21-gu-zhou-fangsheng
+    title: 周放生对话顾雏军：重思郎顾之争对国企改革的影响
+    publisher: 凤凰财经
+    date: 2016-06-21
+    voice: witness
+    url: https://finance.ifeng.com/a/20160621/14508684_0.shtml
+    excerpt: true
+    keep: [ 无中生有, 国有企业改革的大方向是对的, 国企改革嘎然而止 ]
+  - id: i11-court-2019-04-10-gu-retrial
+    title: 最高人民法院对原审被告人顾雏军等虚报注册资本，违规披露、不披露重要信息，挪用资金再审案公开宣判
+    publisher: 最高人民法院
+    date: 2019-04-10
+    voice: doc
+    url: https://www.court.gov.cn/zixun/xiangqing/150522.html
+  - id: i11-court-2019-04-10-gu-retrial-qa
+    title: 最高人民法院相关负责人就顾雏军等再审案答记者问
+    publisher: 最高人民法院
+    date: 2019-04-10
+    voice: official
+    url: https://www.court.gov.cn/zixun/xiangqing/150532.html
+  # ---- 反内卷
+  - id: i11-gov-2024-07-30-politburo
+    title: 中共中央政治局召开会议 分析研究当前经济形势和经济工作
+    publisher: 中国政府网（新华社）
+    date: 2024-07-30
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202407/content_6965236.htm
+    start: 新华社北京7月30日电
+    end: 有更多精力抓落实。
+  - id: i11-gov-2025-07-01-cfac-6th
+    title: 习近平主持召开中央财经委员会第六次会议
+    publisher: 中国政府网（新华社）
+    date: 2025-07-01
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202507/content_7030285.htm
+    start: 新华社北京7月1日电
+    end: 中央和国家机关有关部门负责同志列席会议。
+  - id: i11-eeo-2025-08-22-anti-involution
+    title: “反内卷”别只跟价格较劲（经观社论）
+    publisher: 经济观察网
+    date: 2025-08-22
+    voice: zh
+    url: http://www.eeo.com.cn/2025/0822/746844.shtml
+    excerpt: true
+    keep: [ 不当干预价格, 内卷 ]
+  - id: i11-people-2025-11-12-yang-ruilong
+    title: 遵循市场经济的逻辑治理“内卷式”竞争（杨瑞龙，《学习时报》）
+    publisher: 人民网理论频道（转载学习时报）
+    author: 杨瑞龙
+    date: 2025-11-12
+    voice: scholar
+    url: http://theory.people.com.cn/n1/2025/1112/c40531-40601900.html
+    excerpt: true
+    keep: [ 行政手段, 内卷式 ]
+  # ---- 天网与猎狐
+  - id: i11-haiwainet-2014-07-22-fox-hunt
+    title: 公安部部署开展“猎狐2014”专项行动（新华社）
+    publisher: 海外网（新华社）
+    date: 2014-07-22
+    voice: official
+    url: http://china.haiwainet.cn/n/2014/0722/c345646-20881958.html
+    excerpt: true
+    keep: [ 猎狐2014, 天涯海角, 经济犯罪嫌疑人 ]
+  - id: i11-state-2020-10-28-fox-hunt-charges
+    title: Eight Individuals Charged With Conspiring to Act as Illegal Agents of the People's Republic of China
+    publisher: U.S. Department of State (DOJ release)
+    date: 2020-10-28
+    voice: west
+    lang: en
+    url: https://2017-2021.state.gov/eight-individuals-charged-with-conspiring-to-act-as-illegal-agents-of-the-peoples-republic-of-china/
+    excerpt: true
+    keep: [ Fox Hunt, extralegal ]
+  - id: i11-xinhua-2020-10-29-mfa-fox-hunt
+    title: 外交部：美方应停止为外逃人员提供“避罪天堂”
+    publisher: 新华网
+    date: 2020-10-29
+    voice: official
+    url: https://www.xinhuanet.com/world/2020-10/29/c_1126674405.htm
+    excerpt: true
+    keep: [ 避罪天堂, 猎狐 ]
+  # ---- 自主创新（concept-more voices for innovative-country）
+  - id: i11-voa-2010-01-27-indigenous-innovation
+    title: 美国商界担忧中国自主创新政策
+    publisher: 美国之音
+    date: 2010-01-27
+    voice: west
+    url: https://www.voachinese.com/a/alarmedchinapurchaserule-20100127-82824902/460263.html
+    excerpt: true
+    keep: [ 自主创新 ]
+  # ---- 中央一号文件
+  - id: i11-gov-2015-02-01-no1-documents
+    title: 中央一号文件何以频频锁定“三农”（新华社）
+    publisher: 农业农村部网站（新华社）
+    date: 2015-02-01
+    voice: official
+    url: http://www.moa.gov.cn/ztzl/yhwj2015/xwbd_20292/201502/t20150202_4390017.htm
+    start: 新华社北京
+  - id: i11-gov-2016-01-27-18-no1-documents
+    title: 18个中央一号文件包含了哪些“利农”密码（新华社）
+    publisher: 中国政府网（新华社）
+    date: 2016-01-27
+    voice: official
+    url: https://web.archive.org/web/2016/https://www.gov.cn/xinwen/2016-01/27/content_5036731.htm
+    start: 新华社北京1月27日电
+    end: 等表述被首次写入文件中。
+  - id: i11-reformdata-2013-01-10-five-no1
+    title: 赵文欣：五个“一号文件”出台的前前后后
+    publisher: 中国改革信息库
+    author: 赵文欣
+    date: 2013-01-10
+    voice: witness
+    url: http://www.reformdata.org/2013/0110/9042.shtml
+    excerpt: true
+    keep: [ 都是社会主义生产责任制, 一号文件 ]
+  # ---- 产业调整和振兴规划（2009）
+  - id: i11-npc-2009-01-15-auto-steel-plans
+    title: 汽车、钢铁产业调整振兴规划原则通过（人民日报）
+    publisher: 中国人大网（转载人民日报）
+    date: 2009-01-14
+    voice: official
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/szyw/zhbd/2009-01/15/content_1467520.htm
+  - id: i11-chinanews-2009-02-25-ten-plans
+    title: 十大产业调整振兴规划全部亮相 细则仍在制定中
+    publisher: 中国新闻网
+    date: 2009-02-25
+    voice: official
+    url: http://www.chinanews.com.cn/cj/gncj/news/2009/02-25/1578916.shtml
+    excerpt: true
+    keep: [ 十大产业调整振兴规划全部亮相, 房地产, 率先推出调整振兴规划, 纺织工业和装备制造业调整振兴规划, 船舶工业调整振兴规划, 电子信息产业调整振兴规划, 轻工业和石化产业调整振兴规划 ]
+  # ---- 鸟笼经济
+  - id: i11-people-2014-05-14-chen-yun-birdcage
+    title: 陈云传略·第九章 云淡风清（“鸟笼经济”：计划经济与市场调节）
+    publisher: 人民网党史频道
+    date: 2014-05-14
+    voice: history
+    url: http://dangshi.people.com.cn/n/2014/0514/c85037-25016088-4.html
+    excerpt: true
+    keep: [ 鸟笼经济, 保守派, 上海代表团, 跨国跨洲, 邓小平的意见是一致的, 十四大在总结 ]
+  - id: i11-dswxyjy-2020-04-10-deng-chen-birdcage
+    title: 邓小平、陈云和中国改革开放道路的伟大开创
+    publisher: 中共中央党史和文献研究院
+    date: 2020-04-10
+    voice: history
+    url: https://www.dswxyjy.org.cn/n1/2020/0410/c219023-31669041.html
+    excerpt: true
+    keep: [ 笼鸟, 活而不乱, 学习西方市场经济的办法 ]
+  # ---- 中部崛起
+  - id: i11-gov-2006-05-19-central-rise-tasks
+    title: 国务院办公厅关于落实中共中央国务院关于促进中部地区崛起若干意见有关政策措施的通知
+    publisher: 中国政府网（国务院公报）
+    date: 2006-05-19
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2006/content_327809.htm
+    start: 为贯彻落实《中共中央国务院关于促进中部地区崛起的若干意见》
+    end: 工作进展情况由发展改革委汇总并报国务院。
+  # ---- 英雄烈士保护法：刑法修正案（十一）
+  - id: i11-npc-2020-12-26-criminal-amendment-11
+    title: 中华人民共和国刑法修正案（十一）
+    publisher: 中国人大网
+    date: 2020-12-26
+    voice: doc
+    url: http://www.npc.gov.cn/npc/c2/c30834/202012/t20201226_309442.html
+    start: （2020年12月26日第十三届全国人民代表大会常务委员会第二十四次会议通过）
+    end: 本修正案自2021年3月1日起施行。

@@ -1,0 +1,1315 @@
+# I11: round-14 new concepts — party-building formulas, Xi-era diplomacy and culture terms, Hu–Wen-era economic policies,
+# debates (郎顾之争, 去政治化, 北京共识, 反内卷), two laws, and 两面人 / 天网与猎狐 / 鸟笼经济.
+
+- id: big-party-unique-problems
+  name: 大党独有难题
+  en: Problems Unique to a Big Party
+  kind: formula
+  parent: strict-governance
+  by: [xi-jinping]
+  first:
+    date: 2022-10-16
+    text: 二十大报告在全面从严治党一章提出。
+    cite: i01-gov-2022-10-16-20th-report
+    quote: 必须时刻保持解决大党独有难题的清醒和坚定
+  codified:
+    - date: 2023-12-27
+      where: 修订后的《中国共产党纪律处分条例》第二条
+      cite: e12-gov-2023-12-27-discipline-regulations
+      quote: 推动解决大党独有难题、健全全面从严治党体系
+  summary: 二十大报告说，党作为世界上最大的马克思主义执政党，要巩固长期执政地位，“必须时刻保持解决大党独有难题的清醒和坚定”，并说执政、改革开放、市场经济、外部环境四大考验和精神懈怠、能力不足、脱离群众、消极腐败四种危险“将长期存在”。2023年1月9日，习近平在二十届中央纪委二次全会上把难题具体化为六个“如何始终”，说解决这些难题“是全面从严治党适应新形势新要求必须啃下的硬骨头”。同年底修订的《纪律处分条例》把“推动解决大党独有难题”写进第二条；2024年中央纪委三次全会提出推进自我革命的“九个以”，其中一条是“以解决大党独有难题为主攻方向”。
+  quote:
+    text: 解决这些难题，是实现新时代新征程党的使命任务必须迈过的一道坎，是全面从严治党适应新形势新要求必须啃下的硬骨头。
+    cite: i11-gov-2023-01-09-xi-ccdi-2nd-plenum
+  terms: [大党独有难题, 六个如何始终, “六个如何始终”]
+  related: [strict-governance, self-revolution, historical-cycle, three-musts, two-faced-people]
+  lists:
+    - title: 六个“如何始终”（2023年1月9日，二十届中央纪委二次全会）
+      cite: i11-gov-2023-01-09-xi-ccdi-2nd-plenum
+      items:
+        - 如何始终不忘初心、牢记使命
+        - 如何始终统一思想、统一意志、统一行动
+        - 如何始终具备强大的执政能力和领导水平
+        - 如何始终保持干事创业精神状态
+        - 如何始终能够及时发现和解决自身存在的问题
+        - 如何始终保持风清气正的政治生态
+    - title: 四大考验与四种危险（二十大报告）
+      cite: i01-gov-2022-10-16-20th-report
+      items:
+        - 执政考验、改革开放考验、市场经济考验、外部环境考验
+        - 精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险
+  sections:
+    - h: 提出
+      from: 2022-10
+      to: 2023-01
+      text: 二十大报告把大党独有难题放在“四大考验”“四种危险”之前，说经过十八大以来全面从严治党，“我们解决了党内许多突出问题”，但这些考验和危险将长期存在。三个月后，习近平在二十届中央纪委二次全会上列出六个“如何始终”，称这些“都是我们这个大党必须解决的独有难题”。主持会议的李希说，讲话“深刻分析大党独有难题的形成原因、主要表现和破解之道”。
+      cites: [i01-gov-2022-10-16-20th-report, i11-gov-2023-01-09-xi-ccdi-2nd-plenum]
+    - h: 写进党规与纪委全会
+      from: 2023-12
+      to: 2024-01
+      text: 2023年12月中共中央印发修订后的《中国共产党纪律处分条例》，通知说党中央“着眼解决大党独有难题、健全全面从严治党体系”对条例作了修订。2024年1月二十届中央纪委三次全会公报说，过去一年纪检监察工作“以推动解决大党独有难题、健全全面从严治党体系为目标方向”。《人民日报》评论员文章把“以解决大党独有难题为主攻方向”列为“九个以”之一，要求紧紧围绕“六个如何始终”标本兼治。
+      cites: [e12-gov-2023-12-27-discipline-regulations, cs2-ccdi-2024-01-10-ccdi-3rd-plenum, i04-rmrb-2024-01-11-commentator]
+  policies:
+    - date: 2023-12-27
+      name: 修订《中国共产党纪律处分条例》
+      text: 中共中央印发修订后的纪律处分条例，第二条要求党的纪律建设“推动解决大党独有难题、健全全面从严治党体系”。
+      events: []
+      cite: e12-gov-2023-12-27-discipline-regulations
+  voices:
+    - voice: official
+      text: 讲话从新时代新征程党和国家事业发展全局的高度，深刻分析大党独有难题的形成原因、主要表现和破解之道，深刻阐述健全全面从严治党体系的目标任务、实践要求。
+      cite: cs2-gov-2023-01-10-ccdi-2nd-plenum
+      quote: true
+  cites:
+    - i01-gov-2022-10-16-20th-report
+    - i11-gov-2023-01-09-xi-ccdi-2nd-plenum
+    - cs2-gov-2023-01-10-ccdi-2nd-plenum
+    - e12-gov-2023-12-27-discipline-regulations
+    - cs2-ccdi-2024-01-10-ccdi-3rd-plenum
+    - i04-rmrb-2024-01-11-commentator
+
+- id: historical-cycle
+  name: 历史周期率与“窑洞对”
+  en: The Historical Cycle and the Yan'an Cave Dialogue
+  kind: formula
+  parent: self-revolution
+  by: [xi-jinping]
+  first:
+    date: 1945-07
+    text: 据后来的官方叙述，1945年7月黄炎培访问延安，在毛泽东的窑洞里提出如何跳出兴亡周期律的问题；库内没有当年的原始记录，以下据《人民日报》的转述。
+    cite: i04-rmrb-2015-04-20-renzhongping
+    quote: 如何找到一条新路，跳出“其兴也勃焉，其亡也忽焉”的周期律
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 保证干部清正、政府清廉、政治清明，才能跳出历史周期率
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 党找到了自我革命这一跳出治乱兴衰历史周期率的第二个答案
+  summary: 历史周期率指王朝兴亡“其兴也勃焉，其亡也忽焉”的循环。官方叙述说，1945年7月黄炎培访问延安时向毛泽东提出这一问题，毛泽东的回答被称为“第一个答案”，即“只有让人民来监督政府，政府才不敢松懈”，这段对话称“窑洞对”。十九大报告把反腐败与“跳出历史周期率”连在一起。2021年十九届六中全会上，习近平说党“又给出了第二个答案，这就是自我革命”；2022年1月中央纪委六次全会上他又说两个答案是统一的。二十大报告把“自我革命这一跳出治乱兴衰历史周期率的第二个答案”写进十年成就。另说：《人民日报》任仲平2016年文章写作“历史周期律”，见下文所引。
+  quote:
+    text: 毛泽东同志在延安的窑洞里给出了第一个答案，这就是“只有让人民来监督政府，政府才不敢松懈”。
+    cite: i01-xinhua-2022-01-19-second-answer
+  terms: [历史周期率, 历史周期律, 窑洞对, 第二个答案, 跳出历史周期率, 两个答案]
+  related: [self-revolution, big-party-unique-problems, strict-governance, third-resolution]
+  sections:
+    - h: “窑洞对”
+      from: 1945-07
+      text: 官方纪录片《永远吹冲锋号》解说说，1945年7月初毛泽东迎接黄炎培一行来延安考察，“著名的‘窑洞对’正是发生在这间窑洞里”，毛泽东给出了第一个答案，“那就是‘让人民来监督政府’”。《人民日报》任仲平文章把它与梁启超之问、李约瑟之问并列，称为“黄炎培之问”。
+      cites: [b12-chinanews-2023-01-07-bugle-ep1, i04-rmrb-2015-04-20-renzhongping]
+    - h: 从反腐到“第二个答案”
+      from: 2016-10
+      to: 2022-10
+      text: 2016年十八届六中全会上，习近平说早在延安时期毛泽东就提出跳出“历史周期率”的课题，党内监督的目的是形成“科学管用的防错纠错机制”。任仲平同期文章说，十八大以来习近平“多次引用‘跳出历史周期律’的窑洞对谈”。2021年11月十九届六中全会上，他提出“第二个答案”；2022年1月十九届中央纪委六次全会上又说，党“外靠发展人民民主、接受人民监督，内靠全面从严治党、推进自我革命”。
+      cites: [b03-xinhua-2017-01-01-xi-6th-plenum, i04-rmrb-2016-10-24-renzhongping, i01-xinhua-2022-01-19-second-answer]
+  policies:
+    - date: 2022-01-18
+      name: 十九届中央纪委六次全会阐述“第二个答案”
+      text: 习近平在全会上再谈自我革命是跳出历史周期率的“第二个答案”，阐明它与人民监督这一“第一个答案”的统一。
+      events: [e08-2022-ccdi-sixth-plenum]
+      cite: i01-xinhua-2022-01-19-second-answer
+  voices:
+    - voice: history
+      text: 毛泽东同志和黄炎培探讨跳出历史周期率的问题，给出了第一个答案，那就是“让人民来监督政府”。
+      cite: b12-chinanews-2023-01-07-bugle-ep1
+      quote: true
+    - voice: zh
+      text: 中国执政党的意识形态、组织机制与政治现实，排除了出现另一个独立于执政党的政治中心的可能。为避免自体监督的弊病，包含执政党的全体民众是考核领导人的最佳之选。
+      cite: i11-zaobao-2021-04-15-huang-zhiping
+      quote: true
+  cites:
+    - i04-rmrb-2015-04-20-renzhongping
+    - i01-xinhua-2022-01-19-second-answer
+    - b12-chinanews-2023-01-07-bugle-ep1
+    - b03-xinhua-2017-01-01-xi-6th-plenum
+    - i04-rmrb-2016-10-24-renzhongping
+    - i01-gov-2017-10-18-19th-report
+    - i01-gov-2022-10-16-20th-report
+    - i11-zaobao-2021-04-15-huang-zhiping
+
+- id: four-greats
+  name: 四个伟大
+  en: The Four Greats
+  kind: component
+  parent: xi-thought
+  by: [xi-jinping]
+  first:
+    date: 2017-10-18
+    text: 十九大报告以四段排比阐述“伟大斗争、伟大工程、伟大事业、伟大梦想”。
+    cite: i01-gov-2017-10-18-19th-report
+    quote: 伟大斗争，伟大工程，伟大事业，伟大梦想，紧密联系、相互贯通、相互作用，其中起决定性作用的是党的建设新的伟大工程。
+  codified:
+    - date: 2017-10-24
+      where: 十九大修改的党章总纲
+      cite: d01-12371-2017-10-28-party-charter
+      quote: 统揽伟大斗争、伟大工程、伟大事业、伟大梦想
+    - date: 2021-11-11
+      where: 第三个历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 统揽伟大斗争、伟大工程、伟大事业、伟大梦想
+  summary: 十九大报告用四段排比说“实现伟大梦想，必须进行伟大斗争”，“必须建设伟大工程”，“必须推进伟大事业”。伟大梦想指中华民族伟大复兴，伟大工程指“党的建设新的伟大工程”，伟大事业指中国特色社会主义；报告说四者中“起决定性作用的是党的建设新的伟大工程”。同年修改的党章写入党领导人民“统揽伟大斗争、伟大工程、伟大事业、伟大梦想”，第三个历史决议和二十大报告沿用这一句。2019年习近平在中央党校讲话说，这四者“正在如火如荼进行”，要求全党发扬斗争精神。
+  quote:
+    text: 中华民族伟大复兴，绝不是轻轻松松、敲锣打鼓就能实现的，实现伟大梦想必须进行伟大斗争。
+    cite: i05-gov-2019-09-03-struggle-speech
+  terms: [四个伟大, 伟大斗争, 伟大工程, 伟大事业, 伟大梦想]
+  related: [struggle-spirit, xi-thought, chinese-dream, strict-governance, new-era]
+  lists:
+    - title: 四个伟大（十九大报告）
+      cite: i01-gov-2017-10-18-19th-report
+      items:
+        - 伟大斗争
+        - 伟大工程
+        - 伟大事业
+        - 伟大梦想
+  sections:
+    - h: 十九大报告的排比
+      from: 2017-10
+      text: 报告说伟大斗争“具有许多新的历史特点”，要求“更加自觉地坚持党的领导和我国社会主义制度”；伟大工程“就是我们党正在深入推进的党的建设新的伟大工程”；伟大事业指中国特色社会主义道路、理论、制度、文化。三段都以“实现伟大梦想”开头，把民族复兴放在终点。
+      cites: [i01-gov-2017-10-18-19th-report]
+    - h: 写入党章与历史决议
+      from: 2017-10
+      to: 2022-10
+      text: 十九大修改的党章总纲说，在新时代思想指导下，中国共产党领导全国各族人民“统揽伟大斗争、伟大工程、伟大事业、伟大梦想”，推动中国特色社会主义进入新时代。2021年第三个历史决议用同一句话概括十八大以来的工作，二十大报告在“新时代十年”部分再次使用。
+      cites: [d01-12371-2017-10-28-party-charter, b04-gov-2021-11-16-resolution, i01-gov-2022-10-16-20th-report]
+  voices:
+    - voice: official
+      text: 当今世界正处于百年未有之大变局，我们党领导的伟大斗争、伟大工程、伟大事业、伟大梦想正在如火如荼进行，改革发展稳定任务艰巨繁重。
+      cite: i05-gov-2019-09-03-struggle-speech
+      quote: true
+  cites:
+    - i01-gov-2017-10-18-19th-report
+    - d01-12371-2017-10-28-party-charter
+    - b04-gov-2021-11-16-resolution
+    - i01-gov-2022-10-16-20th-report
+    - i05-gov-2019-09-03-struggle-speech
+
+- id: new-security-pattern
+  name: 新安全格局
+  en: New Security Architecture
+  kind: component
+  parent: holistic-security
+  by: [xi-jinping]
+  first:
+    date: 2022-10-16
+    text: 二十大报告国家安全一章提出。
+    cite: i01-gov-2022-10-16-20th-report
+    quote: 以新安全格局保障新发展格局
+  codified:
+    - date: 2024-07-18
+      where: 二十届三中全会决定
+      cite: i01-gov-2024-07-18-third-plenum-decision
+      quote: 有效构建新安全格局
+  summary: 二十大报告要求统筹外部安全和内部安全、国土安全和国民安全、传统安全和非传统安全、自身安全和共同安全，统筹维护和塑造国家安全，“以新安全格局保障新发展格局”。2023年5月30日二十届中央国家安全委员会第一次会议把它作为国家安全工作的主题，要求“主动塑造于我有利的外部安全环境，更好维护开放安全，推动发展和安全深度融合”。2024年三中全会决定把“有效构建新安全格局”列为到2029年的改革目标之一。新安全格局与新发展格局成对出现，是统筹发展和安全在国家安全领域的具体说法。
+  quote:
+    text: 要以新安全格局保障新发展格局，主动塑造于我有利的外部安全环境，更好维护开放安全，推动发展和安全深度融合。
+    cite: e10-gov-2023-05-30-nsc
+  terms: [新安全格局, 以新安全格局保障新发展格局]
+  related: [holistic-security, development-and-security, dual-circulation, bottom-line-thinking]
+  lists:
+    - title: 二十大报告的四个“统筹”
+      cite: i01-gov-2022-10-16-20th-report
+      items:
+        - 外部安全和内部安全
+        - 国土安全和国民安全
+        - 传统安全和非传统安全
+        - 自身安全和共同安全
+  sections:
+    - h: 从报告到国安委
+      from: 2022-10
+      to: 2024-07
+      text: 二十大报告在国家安全一章的末尾提出以新安全格局保障新发展格局。2023年5月的国安委会议要求“推进维护和塑造国家安全手段方式变革”，完善应对国家安全风险综合体，“实时监测、及时预警”。2024年7月三中全会决定在“聚焦建设更高水平平安中国”一项下写入“有效构建新安全格局”。
+      cites: [i01-gov-2022-10-16-20th-report, e10-gov-2023-05-30-nsc, i01-gov-2024-07-18-third-plenum-decision]
+  policies:
+    - date: 2023-05-30
+      name: 二十届中央国家安全委员会第一次会议
+      text: 会议要求加快推进国家安全体系和能力现代化，以新安全格局保障新发展格局，推进维护和塑造国家安全手段方式变革。
+      events: [e10-2023-nsc-new-security-pattern]
+      cite: e10-gov-2023-05-30-nsc
+  cites:
+    - i01-gov-2022-10-16-20th-report
+    - e10-gov-2023-05-30-nsc
+    - i01-gov-2024-07-18-third-plenum-decision
+
+- id: new-form-human-civilization
+  name: 人类文明新形态
+  en: New Form of Human Civilization
+  kind: component
+  parent: chinese-modernization
+  by: [xi-jinping]
+  first:
+    date: 2021-07-01
+    text: 建党一百周年大会讲话提出。
+    cite: i05-xinhua-2021-07-01-centenary-speech
+    quote: 创造了中国式现代化新道路，创造了人类文明新形态
+  codified:
+    - date: 2021-11-11
+      where: 第三个历史决议
+      cite: b04-gov-2021-11-16-resolution
+      quote: 党领导人民成功走出中国式现代化道路，创造了人类文明新形态
+    - date: 2022-10-16
+      where: 二十大报告（中国式现代化的本质要求）
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 推动构建人类命运共同体，创造人类文明新形态
+  summary: 建党百年讲话说，党推动物质文明、政治文明、精神文明、社会文明、生态文明协调发展，“创造了中国式现代化新道路，创造了人类文明新形态”。第三个历史决议说，这条道路“拓展了发展中国家走向现代化的途径”，给那些“既希望加快发展又希望保持自身独立性的国家和民族提供了全新选择”。二十大报告把“创造人类文明新形态”列为中国式现代化本质要求的最后一项。2023年3月习近平在全球政党高层对话会上说，中国式现代化“作为人类文明新形态，与全球其他文明相互借鉴”。这一提法把中国道路从发展模式提升为文明层面的主张，与“全人类共同价值”“全球文明倡议”配套使用。
+  quote:
+    text: 党领导人民成功走出中国式现代化道路，创造了人类文明新形态，拓展了发展中国家走向现代化的途径，给世界上那些既希望加快发展又希望保持自身独立性的国家和民族提供了全新选择。
+    cite: b04-gov-2021-11-16-resolution
+  terms: [人类文明新形态]
+  related: [chinese-modernization, community-shared-future, modern-chinese-civilization, global-initiatives, china-model-debate]
+  lists:
+    - title: 五个文明协调发展（建党百年讲话）
+      cite: i05-xinhua-2021-07-01-centenary-speech
+      items:
+        - 物质文明
+        - 政治文明
+        - 精神文明
+        - 社会文明
+        - 生态文明
+  sections:
+    - h: 从百年讲话到二十大
+      from: 2021-07
+      to: 2023-03
+      text: 2021年7月讲话首次使用这一说法，11月六中全会公报和历史决议都把它写进党的百年奋斗“深刻影响了世界历史进程”一条。2022年中宣部部长李书磊撰文说，“我们创造了人类文明新形态，拓展了发展中国家走向现代化的新途径”。二十大报告把它写入中国式现代化的本质要求；2023年3月全球文明倡议提出时，它被用来说明中国式现代化与其他文明的关系。
+      cites: [i05-xinhua-2021-07-01-centenary-speech, e04-gov-2021-11-11-6th-plenum, b15-people-2022-11-10-li-shulei-article, i01-gov-2022-10-16-20th-report, i05-gov-2023-03-15-gci]
+  voices:
+    - voice: official
+      text: 中国式现代化作为人类文明新形态，与全球其他文明相互借鉴，必将极大丰富世界文明百花园。
+      cite: i05-gov-2023-03-15-gci
+      quote: true
+  cites:
+    - i05-xinhua-2021-07-01-centenary-speech
+    - e04-gov-2021-11-11-6th-plenum
+    - b04-gov-2021-11-16-resolution
+    - b15-people-2022-11-10-li-shulei-article
+    - i01-gov-2022-10-16-20th-report
+    - i05-gov-2023-03-15-gci
+
+- id: modern-chinese-civilization
+  name: 中华民族现代文明
+  en: Modern Chinese Civilization
+  kind: component
+  parent: xi-culture-thought
+  by: [xi-jinping]
+  first:
+    date: 2023-06-02
+    text: 习近平在文化传承发展座谈会上提出，称之为新时代新的文化使命。
+    cite: i05-xinhua-2023-06-02-culture-symposium
+    quote: 在新的起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明，是我们在新时代新的文化使命。
+  codified:
+    - date: 2023-10-08
+      where: 全国宣传思想文化工作会议（提出习近平文化思想）
+      cite: i03-gov-2023-10-08-culture-thought
+      quote: 继续推动文化繁荣、建设文化强国、建设中华民族现代文明这一新的文化使命
+  summary: 2023年6月2日，习近平在中国历史研究院和国家版本馆考察后出席文化传承发展座谈会，提出继续推动文化繁荣、建设文化强国、建设中华民族现代文明，“是我们在新时代新的文化使命”。讲话概括中华文明有连续性、创新性、统一性、包容性、和平性五个突出特性，说“第二个结合”“是又一次的思想解放”，经由“结合”形成的新文化要“成为中国式现代化的文化形态”。同年10月全国宣传思想文化工作会议提出习近平文化思想，把建设中华民族现代文明定为新的文化使命。这一提法把“两个结合”落到文化建设上，并把国家统一写成文明“统一性”的要求。
+  quote:
+    text: 中国式现代化赋予中华文明以现代力量，中华文明赋予中国式现代化以深厚底蕴。
+    cite: i05-xinhua-2023-06-02-culture-symposium
+  terms: [中华民族现代文明, 新的文化使命, 五个突出特性]
+  related: [xi-culture-thought, two-combinations, cultural-confidence, new-form-human-civilization, chinese-nation-community]
+  lists:
+    - title: 中华文明的五个突出特性（2023年6月2日）
+      cite: i05-xinhua-2023-06-02-culture-symposium
+      items:
+        - 中华文明具有突出的连续性
+        - 中华文明具有突出的创新性
+        - 中华文明具有突出的统一性
+        - 中华文明具有突出的包容性
+        - 中华文明具有突出的和平性
+  sections:
+    - h: 座谈会讲话
+      from: 2023-06
+      text: 讲话说统一性“决定了国家统一永远是中国核心利益的核心”，和平性决定了中国“不会把自己的价值观念与政治体制强加于人”。关于“两个结合”，讲话说结合的结果是“让马克思主义成为中国的，中华优秀传统文化成为现代的”。主持会议的蔡奇要求“扎实推进中华民族现代文明和社会主义文化强国建设”。
+      cites: [i05-xinhua-2023-06-02-culture-symposium]
+    - h: 写入习近平文化思想
+      from: 2023-10
+      text: 全国宣传思想文化工作会议要求“围绕在新的历史起点上继续推动文化繁荣、建设文化强国、建设中华民族现代文明这一新的文化使命”开展工作。新华社对习近平文化思想的解读把它概括为“聚焦新的文化使命”。
+      cites: [i03-gov-2023-10-08-culture-thought, i05-xinhua-2023-10-08-culture-thought-first]
+  cites:
+    - i05-xinhua-2023-06-02-culture-symposium
+    - i03-gov-2023-10-08-culture-thought
+    - i05-xinhua-2023-10-08-culture-thought-first
+
+- id: new-type-international-relations
+  name: 新型国际关系
+  en: New Type of International Relations
+  kind: component
+  parent: xi-diplomacy-thought
+  by: [xi-jinping]
+  first:
+    date: 2013-03-23
+    text: 习近平就任国家主席后首次出访，在莫斯科国际关系学院演讲中提出。
+    cite: i11-gov-2013-03-24-xi-mgimo
+    quote: 各国应该共同推动建立以合作共赢为核心的新型国际关系
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 推动建设相互尊重、公平正义、合作共赢的新型国际关系
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 中国坚持在和平共处五项原则基础上同各国发展友好合作，推动构建新型国际关系
+  summary: 2013年3月23日，习近平在莫斯科国际关系学院演讲说，“各国应该共同推动建立以合作共赢为核心的新型国际关系”，并提出各国共同享受尊严、发展成果和安全保障。2015年联大一般性辩论讲话把它与人类命运共同体并提：“构建以合作共赢为核心的新型国际关系，打造人类命运共同体”。十九大报告把内涵扩展为“相互尊重、公平正义、合作共赢”，并写入新时代思想的“明确”之一；二十大报告要求在和平共处五项原则基础上推动构建新型国际关系。它与“新型大国关系”不同，指的是整个国际秩序的原则，而非中美双边关系。
+  quote:
+    text: 世界的命运必须由各国人民共同掌握。各国主权范围内的事情只能由本国政府和人民去管，世界上的事情只能由各国政府和人民共同商量来办。
+    cite: i11-gov-2013-03-24-xi-mgimo
+  terms: [新型国际关系, 合作共赢]
+  related: [xi-diplomacy-thought, community-shared-future, right-approach-justice-interests, peaceful-rise, harmonious-world, common-values]
+  lists:
+    - title: 三个“共同享受”（2013年莫斯科演讲）
+      cite: i11-gov-2013-03-24-xi-mgimo
+      items:
+        - 各国和各国人民应该共同享受尊严
+        - 各国和各国人民应该共同享受发展成果
+        - 各国和各国人民应该共同享受安全保障
+  sections:
+    - h: 莫斯科演讲与联大讲话
+      from: 2013-03
+      to: 2015-09
+      text: 莫斯科演讲说，要跟上时代，就不能停留在“冷战思维、零和博弈老框框内”，并说“合作安全、集体安全、共同安全才是解决问题的正确选择”。2015年联大讲话要求“奉行双赢、多赢、共赢的新理念，扔掉我赢你输、赢者通吃的旧思维”。
+      cites: [i11-gov-2013-03-24-xi-mgimo, i05-gov-2015-09-29-unga]
+    - h: 写入报告
+      from: 2017-10
+      to: 2022-10
+      text: 十九大报告在新时代思想的“八个明确”中写入“中国特色大国外交要推动构建新型国际关系，推动构建人类命运共同体”。二十大报告把推动构建新型国际关系列为过去十年外交成就，并与“全球伙伴关系”“大国关系格局”一起写进外交部署。
+      cites: [i01-gov-2017-10-18-19th-report, i01-gov-2022-10-16-20th-report]
+  cites:
+    - i11-gov-2013-03-24-xi-mgimo
+    - i05-gov-2015-09-29-unga
+    - i01-gov-2017-10-18-19th-report
+    - i01-gov-2022-10-16-20th-report
+
+- id: right-approach-justice-interests
+  name: 正确义利观
+  en: Correct Approach to Justice and Interests
+  kind: component
+  parent: xi-diplomacy-thought
+  by: [xi-jinping, wang-yi]
+  first:
+    date: 2013-09-10
+    text: 外交部长王毅在《人民日报》撰文转述习近平关于正确义利观的论述；文章说习近平“提出在外交工作中要坚持正确义利观”，未写明首次提出的时间。
+    cite: i11-people-2013-09-10-wang-yi-yili
+    quote: 利，就是要恪守互利共赢原则，不搞我赢你输，要实现双赢。
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 秉持正确义利观和真实亲诚理念加强同发展中国家团结合作
+    - date: 2022-10-16
+      where: 二十大报告
+      cite: i01-gov-2022-10-16-20th-report
+      quote: 秉持真实亲诚理念和正确义利观加强同发展中国家团结合作
+  summary: 正确义利观是习近平提出的外交原则，主要用于处理同发展中国家的关系。王毅2013年9月在《人民日报》撰文引述习近平的阐述：义是“共产党人、社会主义国家的理念”，利是“恪守互利共赢原则，不搞我赢你输，要实现双赢”，对贫穷国家“有时甚至要重义轻利、舍利取义，绝不能惟利是图、斤斤计较”。王毅把援建坦赞铁路和派遣援外医疗队称为“中国外交重义轻利的生动写照”。2015年联大讲话说大国与小国相处要“践行正确义利观，义利相兼，义重于利”。2018年中央外事工作会议说广大发展中国家是“我国在国际事务中的天然同盟军”，要坚持正确义利观。十九大、二十大报告都把它与“真实亲诚”并列为对发展中国家的方针。
+  quote:
+    text: 我们有义务对贫穷的国家给予力所能及的帮助，有时甚至要重义轻利、舍利取义，绝不能惟利是图、斤斤计较。
+    cite: i11-people-2013-09-10-wang-yi-yili
+  terms: [正确义利观, 义利观, 义利相兼, 重义轻利]
+  related: [new-type-international-relations, xi-diplomacy-thought, belt-and-road, community-shared-future]
+  sections:
+    - h: 王毅的阐释
+      from: 2013-09
+      text: 王毅从儒墨孟子讲起，说“重义轻利、先义后利、取利有道”是中华民族的道德准则；又说新中国在自身经济十分困难时仍向亚非拉国家提供帮助，迄今已向66个国家和地区派出援外医疗队员2.3万人次。文章说习近平秉承中华优秀文化和新中国外交传统，“提出在外交工作中要坚持正确义利观”。
+      cites: [i11-people-2013-09-10-wang-yi-yili]
+    - h: 从联大到外事工作会议
+      from: 2015-09
+      to: 2022-10
+      text: 2015年联大讲话把它放在“建设全球伙伴关系”之下，要求大国之间“不冲突、不对抗、相互尊重、合作共赢”，大国与小国“平等相待”。十九大报告在“坚持推动构建人类命运共同体”一条中写入“坚持正确义利观”。2018年中央外事工作会议要求“做好同发展中国家团结合作的大文章”。
+      cites: [i05-gov-2015-09-29-unga, i01-gov-2017-10-18-19th-report, i03-gov-2018-06-23-foreign-affairs-conference]
+  voices:
+    - voice: official
+      text: 可以说，重义轻利、先义后利、取利有道，是中华民族数千年来一以贯之的道德准则和行为规范。
+      cite: i11-people-2013-09-10-wang-yi-yili
+      quote: true
+  cites:
+    - i11-people-2013-09-10-wang-yi-yili
+    - i05-gov-2015-09-29-unga
+    - i03-gov-2018-06-23-foreign-affairs-conference
+    - i01-gov-2017-10-18-19th-report
+    - i01-gov-2022-10-16-20th-report
+
+- id: two-faced-people
+  name: 两面人
+  en: Two-Faced Officials
+  kind: formula
+  parent: strict-governance
+  by: [xi-jinping]
+  first:
+    date: 2016-10-27
+    text: 十八届六中全会公报转述《关于新形势下党内政治生活的若干准则》的要求。此前中央纪委2015年的警示材料已用“两面派”形容苏荣。
+    cite: i01-cpc-2016-10-27-6th-plenum-communique
+    quote: 反对搞两面派、做“两面人”
+  codified:
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 坚决反对搞两面派、做两面人
+    - date: 2019-01-31
+      where: 《中共中央关于加强党的政治建设的意见》
+      cite: i03-xinhua-2019-02-27-political-building
+      quote: 决不允许对党中央阳奉阴违做两面人、搞两面派、搞“伪忠诚”
+  summary: “两面人”指当面表忠心、背后另搞一套的干部。2016年十八届六中全会通过的党内政治生活准则要求党员“对党忠诚老实、光明磊落”，“反对搞两面派、做“两面人””；习近平在全会讲话中把“对党不忠诚老实、阳奉阴违、弄虚作假、做“两面人””列为政治性强、破坏力大的问题。十九大报告写入“坚决反对搞两面派、做两面人”。2019年中共中央关于加强党的政治建设的意见要求把“政治上蜕变的两面人及时辨别出来、清除出去”，并在选人用人中“坚决把政治上的两面人挡在门外”。此后它成为中央纪委开除通报的常用定性：2018年鲁炜被称为“典型的“两面人””，2019年陈刚被指“搞两面派、做两面人”。第三个历史决议把清除“两面人”列为十八大以来维护党中央集中统一领导的措施。
+  quote:
+    text: 对党不忠诚老实、阳奉阴违、弄虚作假、做“两面人”问题，选人用人上任人唯亲、任人唯利和跑官要官、买官卖官、拉票贿选问题，结党营私、拉帮结派、政治野心膨胀问题，等等。这类问题，往往隐蔽性强，不到关键时刻难以暴露。
+    cite: b03-xinhua-2017-01-01-xi-6th-plenum
+  terms: [两面人, 两面派, 伪忠诚, 做两面人]
+  related: [strict-governance, two-safeguards, big-party-unique-problems, four-consciousness]
+  sections:
+    - h: 由来
+      from: 2015-05
+      to: 2016-10
+      text: 2015年中央纪委发布的苏荣案警示材料说，“两面派，是不少江西干部对苏荣的评价”，有人说他是“人前反腐、人后腐败”。2016年10月六中全会把“两面人”写进党内政治生活准则，与“弄虚作假、虚报浮夸”“隐瞒实情、报喜不报忧”并列为必须反对的行为。
+      cites: [b12-xinhua-2015-05-29-su-rong-warning, i01-cpc-2016-10-27-6th-plenum-communique]
+    - h: 成为处分定性
+      from: 2017-10
+      to: 2021-11
+      text: 十九大后，“两面人”频繁出现在开除通报中。2018年2月中央纪委通报鲁炜“对党中央极端不忠诚”，“是典型的“两面人””；2019年7月通报陈刚“对党不忠诚不老实，搞两面派、做两面人，对抗组织审查”。2019年的政治建设意见把它和“低级红”“高级黑”、“伪忠诚”并列。2021年历史决议在讲十八大以来的政治建设时写入清除“两面人”。
+      cites: [c03-xinhua-2018-02-13-lu-wei-expel, k04-xinhua-2019-07-11-chen-gang-expel, i03-xinhua-2019-02-27-political-building, b04-gov-2021-11-16-resolution]
+  policies:
+    - date: 2019-01-31
+      name: 中共中央关于加强党的政治建设的意见
+      text: 意见要求严肃查处“七个有之”问题，把政治上蜕变的两面人辨别出来、清除出去，并在干部考核中建立政治素质识别机制，把政治上的两面人挡在门外。
+      events: []
+      cite: i03-xinhua-2019-02-27-political-building
+  voices:
+    - voice: official
+      text: 严肃查处“七个有之”问题，把政治上蜕变的两面人及时辨别出来、清除出去，坚决防止党内形成利益集团攫取政治权力、改变党的性质。
+      cite: i03-xinhua-2019-02-27-political-building
+      quote: true
+  cites:
+    - b12-xinhua-2015-05-29-su-rong-warning
+    - i01-cpc-2016-10-27-6th-plenum-communique
+    - b03-xinhua-2017-01-01-xi-6th-plenum
+    - i01-gov-2017-10-18-19th-report
+    - c03-xinhua-2018-02-13-lu-wei-expel
+    - i03-xinhua-2019-02-27-political-building
+    - k04-xinhua-2019-07-11-chen-gang-expel
+    - b04-gov-2021-11-16-resolution
+
+- id: fox-hunt
+  name: 天网与猎狐
+  en: Sky Net and Fox Hunt
+  kind: formula
+  parent: strict-governance
+  by: [liu-jinguo]
+  first:
+    date: 2014-07-22
+    text: 公安部召开电视电话会议，部署“猎狐2014”专项行动，缉捕在逃境外经济犯罪嫌疑人。
+    cite: i11-haiwainet-2014-07-22-fox-hunt
+    quote: 即使犯罪分子逃到天涯海角，也要将其缉捕归案、绳之以法
+  codified:
+    - date: 2015-03-26
+      where: 中央反腐败协调小组国际追逃追赃工作办公室会议
+      cite: e08-people-2015-04-23-red-notice
+      quote: 研究部署2015年反腐败国际追逃追赃工作，决定启动“天网”行动
+    - date: 2017-10-18
+      where: 十九大报告
+      cite: i01-gov-2017-10-18-19th-report
+      quote: 不管腐败分子逃到哪里，都要缉拿归案、绳之以法
+  summary: “猎狐”是公安部缉捕外逃经济犯罪嫌疑人的专项行动，“天网”是中央反腐败协调小组国际追逃追赃工作办公室统筹的年度行动，猎狐是其中的一个专项。2014年7月22日公安部部署“猎狐2014”，副部长刘金国说“即使犯罪分子逃到天涯海角，也要将其缉捕归案、绳之以法”。2015年3月中央启动“天网”行动，由中组部、最高检、公安部、人民银行等牵头多个专项；4月22日国际刑警组织中国国家中心局集中公布100名外逃人员的红色通缉令。中央纪委2022年报告说，五年来“天网行动”追回外逃人员7089人；2026年报告说2025年追回外逃人员963人，“实现“百名红通人员”亚洲地区清零”。二十大报告把“猎狐”与“打虎”“拍蝇”并列。2020年10月美国司法部起诉8人在美为中国政府从事“猎狐”行动，外交部回应要求美方不要沦为犯罪分子的“避罪天堂”。
+  quote:
+    text: 各级公安机关要以坚定的决心和有力的措施，全力打赢境外追逃这场硬仗，即使犯罪分子逃到天涯海角，也要将其缉捕归案、绳之以法，坚决捍卫法律尊严，坚决维护人民利益。
+    cite: i11-haiwainet-2014-07-22-fox-hunt
+  terms: [天网, 天网行动, 猎狐, 猎狐行动, 猎狐2014, 百名红通, 追逃追赃, Operation Fox Hunt, Sky Net]
+  related: [strict-governance, liuzhi, big-party-unique-problems]
+  lists:
+    - title: “天网”行动的五个“一批”（2015年）
+      cite: e08-people-2015-04-23-red-notice
+      items:
+        - 抓捕一批腐败分子
+        - 清理一批违规证照
+        - 打击一批地下钱庄
+        - 追缴一批涉案资产
+        - 劝返一批外逃人员
+  sections:
+    - h: 猎狐2014
+      from: 2014-07
+      to: 2014-12
+      text: 公安部要求从7月22日至年底集中开展行动。刘金国说，缉捕外逃经济犯罪嫌疑人“事关群众切身利益，事关社会公平正义”，一些外逃嫌疑人还牵涉腐败犯罪，“能否到案直接关系着反腐败斗争的深入开展”。新华社报道说，2008年以来公安机关已从54个国家和地区缉捕730余名重大经济犯罪嫌疑人回国。
+      cites: [i11-haiwainet-2014-07-22-fox-hunt]
+    - h: 天网与百名红通
+      from: 2015-03
+      to: 2026-01
+      text: “天网”由多个专项组成，有关部门从2015年4月起“综合运用警务、检务、外交、金融等手段”。十八届中央纪委向十九大的报告说，2014年以来共从90多个国家和地区追回外逃人员3453名、追赃95.1亿元，“百名红通人员”中已有48人落网。此后“天网”逐年延续，二十届中央纪委五次全会报告说2025年开展“天网2025”行动。
+      cites: [e08-people-2015-04-23-red-notice, b04-gov-2017-10-29-ccdi-report, b05-saac-2022-10-ccdi-report, b06-xinhua-2026-01-12-li-xi-ccdi-report]
+    - h: 美国起诉与中方回应
+      from: 2020-10
+      text: 2020年10月28日，美国司法部在纽约布鲁克林联邦法院公开起诉书，指控8人在中国官员指挥下监视、骚扰、胁迫美国居民回国。次日外交部发言人汪文斌说，中国执法机关“严格根据国际法开展对外执法合作”，有关行动“无可非议”，敦促美方履行《联合国反腐败公约》等义务。
+      cites: [i11-state-2020-10-28-fox-hunt-charges, i11-xinhua-2020-10-29-mfa-fox-hunt]
+  policies:
+    - date: 2014-07-22
+      name: “猎狐2014”专项行动
+      text: 公安部部署全国公安机关集中开展缉捕在逃境外经济犯罪嫌疑人的专项行动。
+      events: []
+      cite: i11-haiwainet-2014-07-22-fox-hunt
+    - date: 2015-04-22
+      name: “天网”行动与百名红色通缉令
+      text: 中央反腐败协调小组国际追逃追赃工作办公室启动“天网”行动；国际刑警组织中国国家中心局集中公布100名外逃人员红色通缉令。
+      events: [e08-2015-skynet-red-notices]
+      cite: e08-people-2015-04-23-red-notice
+  voices:
+    - voice: west
+      text: The defendants, allegedly acting at the direction and under the control of PRC government officials, conducted surveillance of and engaged in a campaign to harass, stalk and coerce certain residents of the United States to return to the PRC as part of a global, concerted and extralegal repatriation effort known as “Operation Fox Hunt.”
+      zh: 被告据称在中华人民共和国政府官员的指挥和控制下，对部分美国居民进行监视，并开展骚扰、跟踪和胁迫，迫使他们返回中国，这是一项名为“猎狐行动”的全球性、协同一致且法外的遣返行动的一部分。
+      cite: i11-state-2020-10-28-fox-hunt-charges
+      quote: true
+    - voice: official
+      text: 中国执法机关严格根据国际法开展对外执法合作，充分尊重外国法律和司法主权，有关行动无可非议。
+      cite: i11-xinhua-2020-10-29-mfa-fox-hunt
+      quote: true
+  cites:
+    - i11-haiwainet-2014-07-22-fox-hunt
+    - e08-people-2015-04-23-red-notice
+    - b04-gov-2017-10-29-ccdi-report
+    - i01-gov-2017-10-18-19th-report
+    - b05-saac-2022-10-ccdi-report
+    - i01-gov-2022-10-16-20th-report
+    - b06-xinhua-2026-01-12-li-xi-ccdi-report
+    - i11-state-2020-10-28-fox-hunt-charges
+    - i11-xinhua-2020-10-29-mfa-fox-hunt
+
+- id: birdcage-economy
+  name: 鸟笼经济
+  en: Birdcage Economy
+  kind: formula
+  by: [chen-yun]
+  first:
+    date: 1982-12-02
+    text: 陈云在家中会见五届全国人大五次会议上海代表团部分代表时提出“鸟和笼子”的比喻。
+    cite: i11-dswxyjy-2020-04-10-deng-chen-birdcage
+    quote: 搞活经济是在计划指导下搞活，不是离开计划的指导搞活。
+  summary: 1982年12月2日，陈云会见五届全国人大五次会议上海代表团部分代表时说，搞活经济要在计划指导下进行，“这就像鸟和笼子的关系一样，鸟不能捏在手里，捏在手里会死，要让它飞，但只能让它在笼子里飞。没有笼子，它就飞跑了。”笼子指国家计划，大小要适当，“可以跨省跨地区，甚至可以跨国跨洲”，本身也要经常调整。《中国新闻周刊》说，陈云当年11月、12月间多次借用黄克诚提出的“鸟笼”之说。海外有人把这番话称为“鸟笼经济”理论，视为“保守派经济理论”；中共党史研究院的文章则说，“笼子”是对指令性计划的纠偏，目的是“活而不乱”。1992年十四大确立社会主义市场经济体制，把“计划经济为主、市场调节为辅”一类提法归入认识逐步深化的过程。
+  quote:
+    text: 如果说鸟是搞活经济的话，那末，笼子就是国家计划。
+    cite: i11-dswxyjy-2020-04-10-deng-chen-birdcage
+  terms: [鸟笼经济, 鸟笼论, 笼鸟论, 鸟和笼子, “笼鸟”比喻论]
+  related: [socialist-market-economy, socialism-or-capitalism, macro-control, crossing-river-stones]
+  sections:
+    - h: 提出
+      from: 1982-11
+      to: 1982-12
+      text: 据中共中央党史和文献研究院的文章，这一比喻是为了“扭转资金分散的现象”，又不妨碍把经济搞活；党史专家对《中国新闻周刊》说，它“与当时的经济过热有很大关系”。另说：人民网党史频道所引陈云原话作“捏在手里就会死”，并多出“经济活动不一定限于一个省、一个地区，在国家计划指导下”一句，与《陈云文选》第三卷的文字略有出入。
+      cites: [i11-dswxyjy-2020-04-10-deng-chen-birdcage, b22-jiemian-2015-06-chen-yun, i11-people-2014-05-14-chen-yun-birdcage]
+    - h: 评价与后续
+      from: 1984
+      to: 1992
+      text: 党史研究院文章说，把“鸟”捏在手里“会死”，指原有指令性计划往往把经济搞死，“笼子”则是有弹性的指导性计划，这一比喻为十二届三中全会提出“社会主义是有计划的商品经济”提供了思想指导。1988年10月陈云又说，“在我们这样一个社会主义国家里，学习西方市场经济的办法，看来困难不少”。人民网党史频道说，陈云在计划与市场关系上的意见“和邓小平的意见是一致的”。
+      cites: [i11-dswxyjy-2020-04-10-deng-chen-birdcage, i11-people-2014-05-14-chen-yun-birdcage]
+  voices:
+    - voice: history
+      text: 有人把陈云的话曲解为经济是“鸟”，社会主义制度是“笼子”，并由此把“鸟笼经济”视为“保守派经济理论”，把陈云视为“保守派经济专家”。
+      cite: i11-people-2014-05-14-chen-yun-birdcage
+      quote: true
+    - voice: history
+      text: 这个比喻虽然侧重点在于计划的指导作用，但它的出发点和归宿都是搞活经济。
+      cite: b22-jiemian-2015-06-chen-yun
+      quote: true
+  cites:
+    - i11-dswxyjy-2020-04-10-deng-chen-birdcage
+    - b22-jiemian-2015-06-chen-yun
+    - i11-people-2014-05-14-chen-yun-birdcage
+
+- id: central-rise
+  name: 中部崛起
+  en: Rise of Central China
+  kind: formula
+  parent: scientific-development
+  by: [wen-jiabao]
+  first:
+    date: 2004-03-05
+    text: 2004年政府工作报告把促进中部地区崛起与西部大开发、振兴东北并列。
+    cite: i02-gov-2004-gwr
+    quote: 要坚持推进西部大开发，振兴东北地区等老工业基地，促进中部地区崛起，鼓励东部地区加快发展
+  codified:
+    - date: 2006-04-15
+      where: 《中共中央、国务院关于促进中部地区崛起的若干意见》（中发〔2006〕10号）
+      cite: e01-cpc-dsj-2006
+      quote: 中共中央、国务院发出《关于促进中部地区崛起的若干意见》
+    - date: 2007-10-15
+      where: 十七大报告
+      cite: b02-npc-2007-10-24-17th-report
+      quote: 大力促进中部地区崛起
+  summary: 中部崛起是胡温时期区域发展总体战略的一环。2004年政府工作报告首次提出“促进中部地区崛起”，要求中部加强现代农业和重要商品粮基地建设、发展有竞争力的制造业和高新技术产业。2005年报告要求“抓紧研究制定促进中部地区崛起的规划和措施”。2006年4月15日中共中央、国务院发出若干意见，要把中部建成全国重要的粮食生产基地、能源原材料基地、现代装备制造及高技术产业基地和综合交通运输枢纽；5月国务院办公厅分解任务，规定部分老工业基地城市“比照振兴东北老工业基地有关政策给予支持”，贫困、革命老区和少数民族地区“比照西部大开发政策执行”。十七大写入“大力促进中部地区崛起”，十九大改为“发挥优势推动中部地区崛起”，2024年政府工作报告作“中部地区加快崛起”。
+  quote:
+    text: 加快中部地区发展是区域协调发展的重要方面。
+    cite: i02-gov-2004-gwr
+  terms: [中部崛起, 中部地区崛起, 促进中部地区崛起, 三个基地一个枢纽]
+  related: [western-development, northeast-revitalization, scientific-development, sannong]
+  lists:
+    - title: 中部地区的定位（2006年若干意见）
+      cite: e01-cpc-dsj-2006
+      items:
+        - 全国重要的粮食生产基地
+        - 能源原材料基地
+        - 现代装备制造及高技术产业基地
+        - 综合交通运输枢纽
+  sections:
+    - h: 提出
+      from: 2004-03
+      to: 2005-03
+      text: 2004年报告说，要形成“东中西互动、优势互补、相互促进、共同发展的新格局”。2005年报告说，实施西部大开发、振兴东北、促进中部崛起、鼓励东部加快发展“是从全面建设小康社会和加快现代化建设全局出发作出的整体战略部署”，国家要“从政策、资金、重大建设布局等方面给予支持”。
+      cites: [i02-gov-2004-gwr, i02-gov-2005-gwr]
+    - h: 若干意见与分工
+      from: 2006-04
+      to: 2006-05
+      text: 国务院办公厅的分工通知称若干意见是“指导当前和今后一个时期中部地区发展的纲领性文件”，把任务分给发展改革委等部门，要求有关部门将实施意见和工作计划报发展改革委汇总。通知中的煤炭基地建设一条点名山西、河南、安徽等煤炭资源丰富地区。
+      cites: [e01-cpc-dsj-2006, i11-gov-2006-05-19-central-rise-tasks]
+    - h: 延续
+      from: 2007-10
+      to: 2024-03
+      text: 十七大报告把它与深入推进西部大开发、全面振兴东北、积极支持东部率先发展并列为区域发展总体战略。十九大报告改称“发挥优势推动中部地区崛起”；2024年政府工作报告写作“中部地区加快崛起”，并要求提升东北和中西部地区承接产业转移能力。
+      cites: [b02-npc-2007-10-24-17th-report, i01-gov-2017-10-18-19th-report, i02-gov-2024-gwr]
+  policies:
+    - date: 2006-04-15
+      name: 中共中央、国务院关于促进中部地区崛起的若干意见
+      text: 意见要求中部在发挥承东启西和产业发展优势中崛起，建设粮食、能源原材料、装备制造及高技术产业三个基地和综合交通运输枢纽；5月国务院办公厅印发分工通知落实。
+      events: [e2003-northeast-revitalization]
+      cite: e01-cpc-dsj-2006
+  cites:
+    - i02-gov-2004-gwr
+    - i02-gov-2005-gwr
+    - e01-cpc-dsj-2006
+    - i11-gov-2006-05-19-central-rise-tasks
+    - b02-npc-2007-10-24-17th-report
+    - i01-gov-2017-10-18-19th-report
+    - i02-gov-2024-gwr
+
+- id: no1-document
+  name: 中央一号文件
+  en: Central No. 1 Document
+  kind: document
+  parent: sannong
+  by: []
+  first:
+    date: 1982-01-01
+    text: 中共中央发出第一个以“三农”为主题的一号文件《全国农村工作会议纪要》。
+    cite: i11-reformdata-2013-01-10-five-no1
+    quote: 包产到户、包干到户或大包干“都是社会主义生产责任制”
+  codified:
+    - date: 2004-02-08
+      where: 《中共中央国务院关于促进农民增加收入若干政策的意见》（一号文件重新聚焦“三农”）
+      cite: i04-rmrb-2004-02-09-editorial
+      quote: 农民增收难的问题已经到了非解决不可的时候
+  summary: 中央一号文件是中共中央每年发布的第一份文件，新华社说它“在全年工作中具有纲领性和指导性的地位”。1982年至1986年，中央连续五年以一号文件部署农村改革：1982年文件肯定包产到户、包干到户“都是社会主义生产责任制”，1984年延长土地承包期，1985年取消农副产品统购派购制度，1986年肯定农村改革方针并要求增加农业投入。此后一号文件中断18年，新华社说当时的认识是“基本问题已经解决了，今后重要问题都在城市”。1997年至2003年农民收入增速大幅低于城镇居民，2004年一号文件提出“两免三补贴”，“至此一号文件重新锁定“三农””。此后一号文件每年都以“三农”为题：2006年宣布在全国取消农业税，2007年部署新农村建设，2018年部署乡村振兴。2026年2月发布的文件是“党的十八大以来连续发出的第十四个指导“三农”工作的中央一号文件”。
+  quote:
+    text: 一号文件中聚焦的主题往往是国家当前需要重点关注和亟须解决的问题，在全年工作中具有纲领性和指导性的地位
+    cite: i11-gov-2015-02-01-no1-documents
+  terms: [中央一号文件, 一号文件, 五个一号文件]
+  related: [sannong, rural-revitalization, poverty-alleviation]
+  lists:
+    - title: 1982—1986年的五个一号文件
+      cite: i11-reformdata-2013-01-10-five-no1
+      items:
+        - 全国农村工作会议纪要
+        - 当前农村经济政策的若干问题
+        - 关于一九八四年农村工作的通知
+        - 关于进一步活跃农村经济的十项政策
+        - 关于一九八六年农村工作的部署
+  sections:
+    - h: 五个一号文件
+      from: 1982-01
+      to: 1986-01
+      text: 亲历起草的原四川省委农村政策研究室主任赵文欣回忆，第一个一号文件1981年12月21日经中央政治局通过、1982年元旦发出；1983年文件说家庭联产承包责任制“是在党的领导下中国农民的伟大创造”；起草第三个文件时对雇工问题意见不一，邓小平说“不急于限制，看三年再说”；1985年文件取消了实施30年的统购派购制度。
+      cites: [i11-reformdata-2013-01-10-five-no1]
+    - h: 中断与重启
+      from: 1987
+      to: 2004-02
+      text: 新华社说，1988年至1997年农村改革进度变缓，城乡收入差距拉大，2003年还出现全国粮食产量罕见下滑。2004年一号文件以中共中央、国务院名义专门部署促进农民增收，《人民日报》社论说这“新中国成立以来还是第一次”。
+      cites: [i11-gov-2016-01-27-18-no1-documents, i04-rmrb-2004-02-09-editorial]
+    - h: 年年“三农”
+      from: 2005
+      to: 2026-02
+      text: 2005年一号文件坚持“多予少取放活”，2006年宣布全国取消农业税，2011年首次以水利为主题，2013年首次写入“家庭农场”。2018年一号文件把十九大的乡村振兴战略落实为三步时间表；2026年文件题为《关于锚定农业农村现代化、扎实推进乡村全面振兴的意见》。
+      cites: [i11-gov-2016-01-27-18-no1-documents, i04-rmrb-2026-02-04-editorial]
+  policies:
+    - date: 2004-02-08
+      name: 促进农民增加收入的中央一号文件
+      text: 文件针对农民收入连续多年增长缓慢，提出逐步降低农业税税率、取消除烟叶外的农业特产税，并给予粮食直补、良种补贴和农机具购置补贴。
+      events: [e11-2004-farmer-income-document]
+      cite: i11-gov-2016-01-27-18-no1-documents
+    - date: 2006-02-21
+      name: 推进社会主义新农村建设的中央一号文件
+      text: 2006年一号文件提出在全国范围取消农业税，并说我国总体上已进入以工促农、以城带乡的发展阶段。
+      events: [e11-2005-new-countryside-opinion, e2006-agricultural-tax-abolished]
+      cite: i11-gov-2016-01-27-18-no1-documents
+  voices:
+    - voice: witness
+      text: 改革之所以推进，完全是在中央高层领导支持和广大基层群众推动下，上下联动呼应而成的。
+      cite: i11-reformdata-2013-01-10-five-no1
+      quote: true
+  cites:
+    - i11-reformdata-2013-01-10-five-no1
+    - i11-gov-2015-02-01-no1-documents
+    - i11-gov-2016-01-27-18-no1-documents
+    - i04-rmrb-2004-02-09-editorial
+    - i04-rmrb-2026-02-04-editorial
+
+- id: proactive-fiscal-policy
+  name: 积极的财政政策
+  en: Proactive Fiscal Policy
+  kind: formula
+  parent: macro-control
+  by: [zhu-rongji]
+  first:
+    date: 1998-08-29
+    text: 九届全国人大常委会第四次会议批准增发长期建设国债，积极财政政策由此启动。
+    cite: e01-cpc-dsj-1998
+    quote: 批准财政部向国有商业银行增发1000亿元国债，用于加大基础设施建设的投入
+  codified:
+    - date: 2000-03-05
+      where: 2000年政府工作报告
+      cite: i02-gov-2000-gwr
+      quote: 实践证明，实行积极财政政策是完全正确的，取得的成效是明显的。
+    - date: 2009-03-05
+      where: 2009年政府工作报告
+      cite: i02-gov-2009-gwr
+      quote: 实施积极的财政政策和适度宽松的货币政策
+    - date: 2025-03-05
+      where: 2025年政府工作报告
+      cite: i02-gov-2025-gwr
+      quote: 实施更加积极的财政政策
+  summary: “积极的财政政策”是中国对扩张性财政政策的官方说法，前后用过三轮。第一轮始于1998年应对亚洲金融危机：8月全国人大常委会批准增发1000亿元国债，中央财政赤字由460亿元扩大到960亿元；朱镕基2000年报告说两年来发行2100亿元长期国债，带动4200多亿元银行贷款和自筹资金。2005年政府转向“松紧适度的稳健财政政策”。第二轮始于2008年底应对国际金融危机，与适度宽松的货币政策和“四万亿”投资计划同时实施，2009年全国财政赤字合计9500亿元。此后“积极的财政政策”一直沿用到2024年；2020年提出“积极的财政政策要更加积极有为”。第三轮是2025年起的“更加积极的财政政策”：2025年赤字率提高到4%左右，2026年继续按4%左右安排，一般公共预算支出首次达到30万亿元。
+  quote:
+    text: 继续实施积极的财政政策。这是当前扩大内需最直接和有效的手段。
+    cite: i02-gov-2000-gwr
+  terms: [积极的财政政策, 积极财政政策, 更加积极的财政政策, 长期建设国债]
+  related: [macro-control, industry-revitalization-plans, western-development, supply-side]
+  sections:
+    - h: 1998年启动
+      from: 1998-08
+      to: 2004
+      text: 2000年政府工作报告说，国债资金重点投向水利、交通、通信等基础设施，加固大江大河大湖堤防近6100公里，并要求“严防“钓鱼”项目和“胡子”工程”。
+      cites: [e01-cpc-dsj-1998, i02-gov-2000-gwr]
+    - h: 转向稳健
+      from: 2005-03
+      text: 2005年报告说，鉴于投资规模已经很大、社会资金增加较多，“有必要也有条件由扩张性的积极财政政策转向松紧适度的稳健财政政策”，当年拟发行长期建设国债800亿元。
+      cites: [i02-gov-2005-gwr]
+    - h: 2008年重启
+      from: 2008-09
+      to: 2019
+      text: 2009年报告说，9月份后国际经济形势急转直下，政府“果断地把宏观调控的着力点转到防止经济增速过快下滑上来”。报告把大幅度增加政府支出称为“扩大内需最主动、最直接、最有效的措施”，并实行结构性减税，全面实施增值税转型。
+      cites: [i02-gov-2009-gwr]
+    - h: 更加积极
+      from: 2020-05
+      to: 2026-03
+      text: 2020年报告赤字率按3.6%以上安排，另发1万亿元抗疫特别国债。2025年报告说新增政府债务总规模11.86万亿元，“财政支出强度明显加大”。2026年报告“继续实施更加积极的财政政策”，拟发行超长期特别国债1.3万亿元，并要求各级政府“坚决落实过紧日子的要求”。
+      cites: [i02-gov-2020-gwr, i02-gov-2025-gwr, i02-gov-2026-gwr]
+  policies:
+    - date: 1998-08-29
+      name: 人大常委会批准增发1000亿元国债
+      text: 九届全国人大常委会第四次会议批准财政部向国有商业银行增发1000亿元国债，用于基础设施建设。
+      events: [e11-1998-treasury-bonds]
+      cite: e01-cpc-dsj-1998
+    - date: 2008-11
+      name: 四万亿投资计划与积极财政政策重启
+      text: 国际金融危机冲击下，国务院实施积极的财政政策和适度宽松的货币政策，推出扩大内需、促进经济增长的十项措施。
+      events: [e2008-four-trillion-stimulus]
+      cite: i02-gov-2009-gwr
+  cites:
+    - e01-cpc-dsj-1998
+    - i02-gov-2000-gwr
+    - i02-gov-2005-gwr
+    - i02-gov-2009-gwr
+    - i02-gov-2020-gwr
+    - i02-gov-2025-gwr
+    - i02-gov-2026-gwr
+
+- id: industry-revitalization-plans
+  name: 十大产业调整和振兴规划
+  en: Ten Industry Adjustment and Revitalization Plans (2009)
+  kind: document
+  parent: macro-control
+  by: [wen-jiabao]
+  first:
+    date: 2009-01-14
+    text: 温家宝主持国务院常务会议，最先通过汽车、钢铁两个规划。
+    cite: i11-npc-2009-01-15-auto-steel-plans
+    quote: 审议并原则通过汽车产业和钢铁产业调整振兴规划
+  codified:
+    - date: 2010-03-05
+      where: 2010年政府工作报告（回顾2009年工作）
+      cite: i02-gov-2010-gwr
+      quote: 制定并实施十大重点产业调整振兴规划
+  summary: 2009年1月14日至2月25日，温家宝主持的国务院常务会议先后通过汽车、钢铁、纺织、装备制造、船舶、电子信息、轻工、石化、有色金属、物流十个产业的调整振兴规划，作为应对国际金融危机、配合“四万亿”投资的产业政策。汽车规划对小排量乘用车减半征收车辆购置税、补贴农民换购，并“以新能源汽车为突破口”；钢铁规划要求“严格控制钢铁总量，淘汰落后产能，不得再上单纯扩大产能的钢铁项目”。此前热议的房地产业没有列入。2010年政府工作报告一面说已“制定并实施十大重点产业调整振兴规划”，一面承认“部分行业产能过剩矛盾突出”；到2014年报告仍说“部分行业产能严重过剩”。
+  quote:
+    text: 至此中国十大产业调整振兴规划全部亮相，此前热议的房地产业最终未搭上振兴计划“末班车”。
+    cite: i11-chinanews-2009-02-25-ten-plans
+  terms: [十大产业调整振兴规划, 十大产业振兴规划, 重点产业调整振兴规划]
+  related: [macro-control, proactive-fiscal-policy, guojin-mintui, made-in-china-2025]
+  lists:
+    - title: 十个产业（2009年1—2月）
+      cite: i11-chinanews-2009-02-25-ten-plans
+      items:
+        - 汽车
+        - 钢铁
+        - 纺织
+        - 装备制造
+        - 船舶
+        - 电子信息
+        - 轻工
+        - 石化
+        - 有色金属
+        - 物流
+  sections:
+    - h: 密集出台
+      from: 2009-01
+      to: 2009-02
+      text: 中新网梳理，1月14日汽车和钢铁“率先推出调整振兴规划”，2月4日通过纺织工业和装备制造业规划，2月11日船舶，2月18日电子信息，2月19日轻工业和石化，2月25日有色金属和物流。汽车规划提出今后三年中央安排100亿元专项资金，重点支持企业技术创新、技术改造和新能源汽车。
+      cites: [i11-chinanews-2009-02-25-ten-plans, i11-npc-2009-01-15-auto-steel-plans]
+    - h: 产能过剩
+      from: 2010-03
+      to: 2014-03
+      text: 2010年报告说，政府“下大力气抑制部分行业产能过剩和重复建设”，关停小火电机组、淘汰落后炼钢炼铁和水泥产能。2014年报告要求对产能严重过剩行业“消化一批存量，严控新上增量”。
+      cites: [i02-gov-2010-gwr, i02-gov-2014-gwr]
+  policies:
+    - date: 2009-02-25
+      name: 十大产业调整振兴规划
+      text: 国务院常务会议在一个多月内先后原则通过十个重点产业的调整振兴规划，配合扩大内需的投资计划。
+      events: [e2008-four-trillion-stimulus]
+      cite: i11-chinanews-2009-02-25-ten-plans
+  cites:
+    - i11-npc-2009-01-15-auto-steel-plans
+    - i11-chinanews-2009-02-25-ten-plans
+    - i02-gov-2009-gwr
+    - i02-gov-2010-gwr
+    - i02-gov-2014-gwr
+
+- id: lang-gu-debate
+  name: 郎顾之争
+  en: Lang–Gu Debate
+  kind: debate
+  by: [lang-xianping, gu-chujun]
+  first:
+    date: 2004-08-09
+    text: 香港中文大学教授郎咸平在复旦大学演讲，指格林柯尔董事长顾雏军在“国退民进”中席卷国家财富。另说演讲在8月10日：《东方早报》8月11日的报道称演讲在“昨日”。
+    cite: e07-people-2014-05-04-langgu
+    quote: 格林柯尔：在“国退民进”的盛宴中狂欢
+  summary: 郎顾之争是2004年8月起香港中文大学教授郎咸平与格林柯尔董事长顾雏军之间的冲突，随即扩大为对国企产权改革和管理层收购（MBO）的全国性争论。郎咸平在复旦大学演讲说，顾雏军收购科龙、美菱、亚星客车、ST襄轴四家公司，号称投资41亿元、实际只投入3亿多元，并把他的手法归纳为“七大板斧”，认为产权改革只是“民企瓜分国资的一场“盛宴””，主张“所有国有资产的移转应该全部停止”。顾雏军先发律师函，8月17日在香港高等法院起诉郎咸平诽谤。张维迎等经济学家随后反驳郎咸平，争论延伸为2004年至2006年的第三次改革论争。2005年7月29日顾雏军因涉嫌挪用上市公司资金被捕，2008年一审被判有期徒刑十年。2019年4月10日最高人民法院再审，撤销虚报注册资本罪和违规披露、不披露重要信息罪，挪用资金罪改判五年，六名同案人宣告无罪；最高法称这是一起“涉产权代表性案件”。
+  quote:
+    text: 现在的迫切问题也不是国有企业要退出市场竞争，而是政府的干预要退出国有企业。
+    cite: i11-sina-2004-08-20-lang-interview
+  terms: [郎顾之争, 七大板斧, 七板斧, 国退民进, 管理层收购, MBO]
+  related: [neoliberalism-debate, soe-reform, grasp-large-release-small, guojin-mintui, private-economy-promotion-law]
+  sides:
+    - label: 改制就是瓜分国资，应停止产权转让（郎咸平）
+      text: 郎咸平说他和学生研究了3个月，发现顾雏军先在被收购企业担任董事长，大幅提高运营费用制造亏损，再以亏损为由压低收购价。他认为国企的问题“不在所有人缺位，而在职业经理人信托责任的缺位”，中国的MBO“已经变了味，变成了一个掠夺国有资产的方法”。
+      who: [lang-xianping]
+      cites: [i11-sina-2004-08-11-lang-fudan, i11-ce-2004-08-17-lang-reply, i11-cyol-2004-08-18-gu-sues, i11-sina-2004-08-20-lang-interview]
+    - label: 指控歪曲事实、无中生有（顾雏军）
+      text: 科龙电器传媒副总裁严友松当时说，“科龙电器的改制是成功的，得到了包括竞争对手在内的业内公认。而郎咸平的说法歪曲了基本事实。”顾雏军2016年出狱后对周放生说，郎咸平“根本完全无中生有来编一个故事”，并称这场风波“使得最后的国企改革嘎然而止”；他还说郎咸平是收了钱写文章，这一说法没有得到调查证实。
+      who: [gu-chujun]
+      cites: [i11-cyol-2004-08-18-gu-sues, i11-ifeng-2016-06-21-gu-zhou-fangsheng]
+    - label: 国企改革主流是好的（张维迎、周放生）
+      text: 8月28日，张维迎在深圳座谈会上系统回应郎咸平，称“要善待为社会做出贡献的人”。自称国企改革亲历者的周放生回忆，当时他在《经济观察报》撰文说“国有企业改革的大方向是对的，主流是好的是规范的”，少数企业出现流失，不能把支流和局部问题扩大为对改革的全盘否定。
+      who: [zhang-weiying]
+      cites: [i08-reformdata-2006-03-16-third-debate, i11-ifeng-2016-06-21-gu-zhou-fangsheng]
+    - label: 依法纠错，保护产权（最高人民法院）
+      text: 最高法负责人说，再审按照“罪刑法定、疑罪从无、证据裁判”等原则处理民营企业经营中的不规范行为，同时认定挪用2.9亿元资金归个人使用有罪，体现“有错必纠、错到哪里纠到哪里、不搞“一风吹””。
+      who: []
+      cites: [i11-court-2019-04-10-gu-retrial-qa]
+  sections:
+    - h: 起因
+      from: 2004-08-09
+      to: 2004-08-14
+      text: 演讲前，郎咸平已质疑海尔、TCL、德隆等企业的改制，被中小股民称为“郎监管”。复旦演讲后《东方早报》《香港商报》刊出摘要。顾雏军方面8月13日发出律师函，要求郎咸平核对报道、要求媒体撤稿道歉并提供讲稿；郎咸平8月14日签收后召开记者会说，“我个人及学术界绝不容许企业家以威胁口吻发律师函来践踏以研究为本的学术自由风气。”
+      cites: [i11-sina-2004-08-11-lang-fudan, i11-ce-2004-08-17-lang-reply, i11-cyol-2004-08-18-gu-sues]
+    - h: 经过
+      from: 2004-08-17
+      to: 2005-07-29
+      text: 8月17日顾雏军在香港起诉郎咸平。郎咸平当晚在网上答问说，“我已经48岁了”，研究结果只能公开，“我不能掩盖或是放弃”。人民网党史频道的回顾说，郎咸平指出的问题内地学者早已揭露，但他“以情绪化的语言诉诸大众”，吸引了很多人注意。2005年《暂行规定》出台不久，7月29日顾雏军因涉嫌挪用上市公司资金罪被捕，“郎顾之争”似乎结束，但国企改革要不要触动产权的争论仍在继续。
+      cites: [i11-cyol-2004-08-18-gu-sues, e07-people-2014-05-04-langgu]
+    - h: 官方如何收场
+      from: 2008-01-30
+      to: 2019-04-10
+      text: 2008年1月30日佛山市中级人民法院以虚报注册资本、违规披露不披露重要信息、挪用资金三罪判处顾雏军有期徒刑十年，并处罚金680万元；2009年3月25日广东省高级人民法院驳回上诉。顾雏军刑满后申诉，最高法2017年12月27日决定提审，2018年6月公开开庭。2019年4月10日再审宣判，前两项罪名不再认定，挪用资金罪改判五年。
+      cites: [i11-court-2019-04-10-gu-retrial]
+    - h: 影响
+      from: 2016
+      to: 2019-04
+      text: 2016年顾雏军与周放生对谈时说，“郎顾之争”使国企改革停了下来；周放生则说郎咸平“既没吃过猪肉，也没看过猪跑”。最高法在宣判答问中把此案与张文中案并列，称“张文中案已被宣告无罪，顾雏军案也得到大幅度的改判”，作为纠正涉产权错案、保护民营企业家的例子。
+      cites: [i11-ifeng-2016-06-21-gu-zhou-fangsheng, i11-court-2019-04-10-gu-retrial-qa]
+  policies:
+    - date: 2019-04-10
+      name: 最高人民法院再审改判顾雏军案
+      text: 最高法再审撤销顾雏军虚报注册资本罪、违规披露不披露重要信息罪，挪用资金罪改判有期徒刑五年，另六名原审被告人宣告无罪，可依法申请国家赔偿。
+      events: []
+      cite: i11-court-2019-04-10-gu-retrial
+  voices:
+    - voice: scholar
+      text: 我个人及学术界绝不容许企业家以威胁口吻发律师函来践踏以研究为本的学术自由风气。
+      cite: i11-ce-2004-08-17-lang-reply
+      quote: true
+    - voice: witness
+      text: 国有企业改革的大方向是对的，主流是好的是规范的，在这个过程当中也出现了少数企业的一些流失的问题
+      cite: i11-ifeng-2016-06-21-gu-zhou-fangsheng
+      quote: true
+    - voice: official
+      text: 本案系我院提审的一起涉产权代表性案件，各方高度关注，社会影响巨大。
+      cite: i11-court-2019-04-10-gu-retrial-qa
+      quote: true
+    - voice: history
+      text: 郎咸平以情绪化的语言诉诸大众，再加上其香港学者的特殊身份，吸引了很多人的注意力。
+      cite: e07-people-2014-05-04-langgu
+      quote: true
+  cites:
+    - i11-sina-2004-08-11-lang-fudan
+    - i11-ce-2004-08-17-lang-reply
+    - i11-cyol-2004-08-18-gu-sues
+    - i11-sina-2004-08-20-lang-interview
+    - e07-people-2014-05-04-langgu
+    - i08-reformdata-2006-03-16-third-debate
+    - i11-ifeng-2016-06-21-gu-zhou-fangsheng
+    - i11-court-2019-04-10-gu-retrial
+    - i11-court-2019-04-10-gu-retrial-qa
+
+- id: depoliticization-ethnic
+  name: 民族问题“去政治化”之争
+  en: Depoliticizing Ethnicity Debate
+  kind: debate
+  by: []
+  first:
+    date: 2004-11
+    text: 北京大学社会学家马戎在《北京大学学报》发表《理解民族关系的新思路——少数族群问题的“去政治化”》。
+    cite: i11-aisixiang-2004-ma-rong-depoliticize
+    quote: 把少数族群问题逐步“去政治化”
+  summary: 民族问题“去政治化”是北京大学社会学家马戎2004年提出的主张，后来成为“第二代民族政策”之争的思想来源。马戎说，中国传统上把族群差异主要当作文化差异，美国也把少数族群引导为“亚文化群体”，而前苏联和前南斯拉夫“把民族问题高度政治化、制度化”。他主张“把建国以来在族群问题上的“政治化”趋势改变为“文化化”的新方向”，强化国民意识、逐步淡化族群意识，把费孝通的“多元一体”具体化为“政治一体”和“文化多元”，并支持把56个“民族”改称“族群”。2011年胡鞍钢、胡联合提出“第二代民族政策”，延续了淡化族群身份的思路。中国社会科学院郝时远2012年反驳说，用“苏联模式”括套中国制度而主张“去政治化”，“是一个违背事实的伪命题”，“所谓“去政治化”，就是“去制度化””。2014年中央民族工作会议肯定“民族区域自治制度是我国的一项基本政治制度”，没有采纳改变民族区域自治的主张。
+  quote:
+    text: 在思考少数族群的有关问题时,应逐步把它们更看成是“文化群体”而逐步减少它们作为“政治群体”的色彩。
+    cite: i11-aisixiang-2004-ma-rong-depoliticize
+  terms: [去政治化, 文化化, 族群, 政治一体, 文化多元]
+  related: [second-generation-ethnic-policy, chinese-nation-community, statism]
+  sides:
+    - label: 族群问题应“文化化”（马戎）
+      text: 马戎把晚清保皇党的“中国文化主义”族群观与革命党的汉人“民族主义”族群观对比，认为中国几千年的主流是把族群“文化化”、以文化推动“自然融合”；建国后的民族识别和制度安排则使族群问题“政治化”。他建议借鉴美国，把少数族群更多看作“文化群体”而不是“政治群体”。
+      who: []
+      cites: [i11-aisixiang-2004-ma-rong-depoliticize]
+    - label: 淡化族群身份，走向第二代民族政策（胡鞍钢、胡联合）
+      text: 胡鞍钢、胡联合2011年主张“不断淡化公民的族群意识”，以“去标签化”处理民族问题，并建议“民族”一词只用于中华民族。
+      who: [hu-angang]
+      cites: [i08-aisixiang-2011-hu-angang-ethnic]
+    - label: “去政治化”是伪命题（郝时远）
+      text: 郝时远认为，中国的民族区域自治制度不是“苏联模式”，“去政治化”实际上是“去民族区域自治化”，而民族政策的基本原则和主要内容都体现在民族区域自治法中。
+      who: [hao-shiyuan]
+      cites: [i08-tibetcn-2012-02-06-hao-shiyuan]
+    - label: 民族区域自治是基本政治制度（中央民族工作会议）
+      text: 2014年中央民族工作会议说民族区域自治制度是“中国特色解决民族问题的正确道路的重要内容”。国家民委随后的文章引述习近平：“我再次明确说一遍，取消民族区域自治制度这种说法可以休矣”。
+      who: [xi-jinping]
+      cites: [i08-gov-2014-09-29-ethnic-work-conference, i08-neac-2014-12-autonomy]
+  sections:
+    - h: 起因
+      from: 2004
+      text: 马戎把美国的做法概括为在政治一体化的同时，把族群差异、宗教差异看作“多元文化社会”中的“文化差异”；他认为前苏联、前南斯拉夫把民族问题高度政治化，与这两国后来出现分裂主义运动“肯定有着密切的关系”。
+      cites: [i11-aisixiang-2004-ma-rong-depoliticize]
+    - h: 经过
+      from: 2008-03
+      to: 2012-02
+      text: 郝时远说，民族问题“去政治化”的论说流行以后，随着2008年拉萨“3·14”和2009年乌鲁木齐“7·5”事件相继发生而成为“热点”。2011年胡鞍钢、胡联合的“第二代民族政策”被郝时远称为对如何“去政治化”做出的“全方位的“政策理念设计””。论争的后续见“第二代民族政策”之争。
+      cites: [i08-tibetcn-2012-02-06-hao-shiyuan, i08-aisixiang-2011-hu-angang-ethnic]
+    - h: 官方如何收场
+      from: 2014-09
+      to: 2014-12
+      text: 中央民族工作会议重申坚持民族区域自治，同时要求“坚持统一和自治相结合、民族因素和区域因素相结合”。国家民委文章说，在改革问题上“绝不能出现颠覆性错误”。
+      cites: [i08-gov-2014-09-29-ethnic-work-conference, i08-neac-2014-12-autonomy]
+  voices:
+    - voice: scholar
+      text: 中国传统中把少数族群“文化化”的成功思路,没有被我们继承下来,却在太平洋彼岸的美国发挥着积极的作用,这种历史错位的现象应当引起我们的反思。
+      cite: i11-aisixiang-2004-ma-rong-depoliticize
+      quote: true
+    - voice: scholar
+      text: 所谓“去政治化”，就是“去制度化”，也就是“去民族区域自治化”，当然也就是“去民族政策化”
+      cite: i08-tibetcn-2012-02-06-hao-shiyuan
+      quote: true
+  cites:
+    - i11-aisixiang-2004-ma-rong-depoliticize
+    - i08-aisixiang-2011-hu-angang-ethnic
+    - i08-tibetcn-2012-02-06-hao-shiyuan
+    - i08-gov-2014-09-29-ethnic-work-conference
+    - i08-neac-2014-12-autonomy
+
+- id: beijing-consensus
+  name: 北京共识与华盛顿共识
+  en: Beijing Consensus vs. Washington Consensus
+  kind: debate
+  by: []
+  first:
+    date: 2004-05-07
+    text: 美国高盛公司高级顾问乔舒亚·库珀·雷默在伦敦《金融时报》首次使用“北京共识”一词，5月11日英国外交政策研究中心全文发表他的报告《北京共识》。
+    cite: i11-ce-2009-11-19-yu-keping-beijing-consensus
+    quote: 在伦敦《金融时报》上提出了“北京共识”
+  summary: “北京共识”是美国高盛公司高级顾问乔舒亚·库珀·雷默2004年提出的说法，用来与“华盛顿共识”对照。“华盛顿共识”指经济学家约翰·威廉森为拉美债务问题概括的十条政策，包括财政纪律、利率和贸易自由化、私有化、放松管制等。雷默说“华盛顿共识是一种傲慢的历史终结的标志”，中国的新发展方针“推翻了私有化和自由贸易这样的传统思想”，并把“北京共识”归纳为创新、可持续与平等、自主自决三条“定理”。国内反应分化：俞可平说自己“更喜欢用“中国模式”的提法”；秦晖说中国的增长“与所谓“市场政府双重成功”的“北京共识”不相干”；《中国经济周刊》说“北京共识”“并不等于中国发展模式”，取代华盛顿共识“既不是中国的初衷，更不是中国追求的目标”。官方没有采用“北京共识”一词，十九大报告改说中国道路“为解决人类问题贡献了中国智慧和中国方案”。
+  quote:
+    text: 我把这种新的动力和发展物理学称为“北京共识”。它取代了广受怀疑的华盛顿共识。
+    cite: i11-aisixiang-2004-ramo-beijing-consensus
+  terms: [北京共识, 华盛顿共识, 后华盛顿共识, Beijing Consensus, Washington Consensus]
+  related: [china-model-debate, neoliberalism-debate, peaceful-rise, statism]
+  sides:
+    - label: 北京共识正在取代华盛顿共识（雷默）
+      text: 雷默说，他的分析基于与中国大学、智囊团和政府思想家“一百多次非正式的讨论”。第一条定理是“消除变化带来的问题的唯一方法是更多的变化和更多的创新”；第二条是超越人均国内生产总值，把可持续性和平等放在首位；第三条是“自主理论”，用不对称力量保障自决。他认为印度和中国这两个最无视华盛顿共识的国家取得了最大的经济成就。
+      who: []
+      cites: [i11-aisixiang-2004-ramo-beijing-consensus]
+    - label: 宁称“中国模式”，兼含经验与教训（俞可平）
+      text: 俞可平认为，拉美经济危机、东亚金融危机和俄罗斯休克疗法的失败都与新自由主义有关，“新自由主义正是“华盛顿共识”的基础”；“北京共识”更吸引眼球，是因为它与“早已声名远扬的“华盛顿共识”相对应”。他说完整意义上的发展模式“决不只有成功的经验，也必然有其沉痛的教训”。
+      who: [yu-keping]
+      cites: [i11-ce-2009-11-19-yu-keping-beijing-consensus]
+    - label: 增长与北京共识无关，靠的是低人权（秦晖）
+      text: 秦晖认为，中国的增长既不能解释为“政府成功”，也不能解释为“市场成功”，而是以“低人权”的“优势”人为压低人力、土地、资金和非再生资源的价格。
+      who: [qin-hui]
+      cites: [i08-aisixiang-qin-hui-low-human-rights]
+    - label: 北京共识不等于中国发展模式（《中国经济周刊》）
+      text: 文章说，“北京共识”是一位外国人送给中国人的头衔，没有也不可能揭示“中国特色社会主义这一中国发展模式的本质特征”；中国历来认为各国的发展应从各国的实际出发。
+      who: []
+      cites: [i11-zgjjzk-2011-07-26-beijing-consensus]
+  sections:
+    - h: 华盛顿共识
+      from: 1989
+      to: 2003
+      text: 《中国经济周刊》说，1989年美国国际经济研究所在华盛顿召开研讨会，约翰·威廉姆森提出与世界银行、国际货币基金组织、美国财政部等达成共识的政策措施，后称“华盛顿共识”；斯蒂格利茨批评它并提出“后华盛顿共识”。另说：雷默文中写作威廉森“最早于1990年提出的10点主张”。
+      cites: [i11-zgjjzk-2011-07-26-beijing-consensus, i11-aisixiang-2004-ramo-beijing-consensus]
+    - h: 提出
+      from: 2004-05
+      text: 雷默说，文中的大部分思想“曾在亚洲经济危机之后在中国的智囊团和政府研究中心讨论”。俞可平回忆，雷默2004年7月曾来信约见他，说正在布鲁金斯学会筹建一个中国研究中心。
+      cites: [i11-aisixiang-2004-ramo-beijing-consensus, i11-ce-2009-11-19-yu-keping-beijing-consensus]
+    - h: 官方如何收场
+      from: 2011
+      to: 2017-10
+      text: 官方媒体一面承认中国发展模式受到关注，一面否认“北京共识”代表中国，强调“走适合自己国情的道路”。此后官方表述转向“中国道路”“中国方案”，“北京共识”之争并入中国模式之争。
+      cites: [i11-zgjjzk-2011-07-26-beijing-consensus, i01-gov-2017-10-18-19th-report]
+  voices:
+    - voice: scholar
+      text: 华盛顿共识是一种傲慢的历史终结的标志。它使全球各地的经济受到一系列的破坏，使人们产生反感。
+      cite: i11-aisixiang-2004-ramo-beijing-consensus
+      quote: true
+    - voice: scholar
+      text: 我自己更喜欢用“中国模式”的提法，不过所谓的“北京共识”可能更容易吸引人们的眼球，因为它与早已声名远扬的“华盛顿共识”相对应。
+      cite: i11-ce-2009-11-19-yu-keping-beijing-consensus
+      quote: true
+    - voice: zh
+      text: “北京共识”并不等于中国发展模式，因为它没有也不可能揭示中国特色社会主义这一中国发展模式的本质特征。至于说“北京共识”将取代“华盛顿共识”，则既不是中国的初衷，更不是中国追求的目标。
+      cite: i11-zgjjzk-2011-07-26-beijing-consensus
+      quote: true
+  cites:
+    - i11-aisixiang-2004-ramo-beijing-consensus
+    - i11-ce-2009-11-19-yu-keping-beijing-consensus
+    - i08-aisixiang-qin-hui-low-human-rights
+    - i11-zgjjzk-2011-07-26-beijing-consensus
+    - i01-gov-2017-10-18-19th-report
+
+- id: anti-involution
+  name: 整治“内卷式”竞争
+  en: Curbing "Involution-Style" Competition
+  kind: debate
+  by: [xi-jinping]
+  first:
+    date: 2024-07-30
+    text: 中共中央政治局会议分析经济形势，首次在中央经济部署中提出防止“内卷式”恶性竞争。
+    cite: i11-gov-2024-07-30-politburo
+    quote: 要强化行业自律，防止“内卷式”恶性竞争。
+  codified:
+    - date: 2025-03-05
+      where: 2025年政府工作报告
+      cite: i02-gov-2025-gwr
+      quote: 打通市场准入退出、要素配置等方面制约经济循环的卡点堵点，综合整治“内卷式”竞争
+    - date: 2026-03-05
+      where: 2026年政府工作报告
+      cite: i02-gov-2026-gwr
+      quote: 深入整治“内卷式”竞争，营造良好市场生态
+  summary: 整治“内卷式”竞争（俗称“反内卷”）是2024年起进入中央经济政策的方针，针对企业同质化、低水平、相互压价的竞争。2024年7月30日中央政治局会议提出“防止“内卷式”恶性竞争”，要求“强化市场优胜劣汰机制，畅通落后低效产能退出渠道”。2025年政府工作报告把“综合整治“内卷式”竞争”列入全国统一大市场建设；7月1日中央财经委员会第六次会议要求“依法依规治理企业低价无序竞争”，并“引导干部树立和践行正确政绩观”。此后多个行业协会发布倡议或自律公约，部分行业开始涨价。经济观察报社论提醒“不是所有的价格竞争都是“内卷式”竞争”，不当干预价格会“延迟产能市场化出清的节奏”；经济学者杨瑞龙认为“内卷式”竞争“并非市场竞争过度，而是市场机制扭曲所导致的资源错配”，症结在地方补贴和国有企业的软预算约束。二十届四中全会再提综合整治，2026年政府工作报告称整治“成效显现”。
+  quote:
+    text: 要强化行业自律，防止“内卷式”恶性竞争。强化市场优胜劣汰机制，畅通落后低效产能退出渠道。
+    cite: i11-gov-2024-07-30-politburo
+  terms: [内卷式竞争, “内卷式”竞争, 反内卷, 低价无序竞争]
+  related: [involution-lying-flat, unified-national-market, industry-revitalization-plans, private-economy-promotion-law]
+  sides:
+    - label: 综合整治，推动落后产能有序退出（中央）
+      text: 中财委第六次会议把全国统一大市场的基本要求概括为“五统一、一开放”，要求规范政府采购、招标投标和地方招商引资。2026年政府工作报告要求“综合运用产能调控、标准引领、价格执法、质量监管等手段”，并出台地方政府招商引资鼓励和禁止事项清单。
+      who: [xi-jinping]
+      cites: [i11-gov-2025-07-01-cfac-6th, i02-gov-2025-gwr, i02-gov-2026-gwr]
+    - label: 别只跟价格较劲（经济观察报社论）
+      text: 社论举例说，西安市交通管理部门叫停了网约车的“一口价”“特惠价”，多个行业协会形成了所谓的“最低价”机制。社论认为价格战只是表象，“反内卷”的核心是“着力推动市场恢复其配置资源的能力”，要解决不正当竞争、政府不合理补贴和行业不合理准入限制。
+      who: []
+      cites: [i11-eeo-2025-08-22-anti-involution]
+    - label: 遵循市场逻辑，硬化预算约束（杨瑞龙）
+      text: 杨瑞龙说，价格下行时“有的国有企业可以凭借地方财政或信贷支持继续生产”，自负盈亏的民营企业反而率先退出；地方政府以零地价、财政补贴招商并保护低效企业。他反对限价，认为“用行政手段限制“内卷式”竞争不仅难以达到预期效果”，主张“通过硬化预算约束、剥离隐性补贴，建立由价格决定进退的市场出清机制”。
+      who: []
+      cites: [i11-people-2025-11-12-yang-ruilong]
+  sections:
+    - h: 起因
+      from: 2024-07
+      to: 2025-03
+      text: “内卷”原是2020年前后的网络流行语。2024年7月政治局会议把防止“内卷式”恶性竞争写在培育新兴产业、推动传统产业转型升级一段之中。2025年政府工作报告把它与破除地方保护和市场分割并列。
+      cites: [i11-gov-2024-07-30-politburo, i02-gov-2025-gwr]
+    - h: 经过
+      from: 2025-07
+      to: 2025-11
+      text: 中财委会议后，行业协会的倡议和自律公约提出抵制低价竞争、恶意压价和低于成本的倾销；经观社论说，一些论者把涨价看作“反内卷”见效的佐证。二十届四中全会提出综合整治“内卷式”竞争，强调“强化反垄断和反不正当竞争执法司法，形成优质优价、良性竞争的市场秩序”。
+      cites: [i11-gov-2025-07-01-cfac-6th, i11-eeo-2025-08-22-anti-involution, i11-people-2025-11-12-yang-ruilong]
+    - h: 官方如何收场
+      from: 2026-03
+      text: 2026年政府工作报告回顾说，“推进重点行业产能治理，综合整治“内卷式”竞争成效显现”，并要求制定全国统一大市场建设条例，规范税收优惠、财政补贴政策。
+      cites: [i02-gov-2026-gwr]
+  policies:
+    - date: 2024-07-30
+      name: 政治局会议提出防止“内卷式”恶性竞争
+      text: 会议要求强化行业自律，强化市场优胜劣汰机制，畅通落后低效产能退出渠道。
+      events: []
+      cite: i11-gov-2024-07-30-politburo
+    - date: 2025-07-01
+      name: 中央财经委员会第六次会议
+      text: 会议要求纵深推进全国统一大市场建设，依法依规治理企业低价无序竞争，推动落后产能有序退出，完善干部政绩考核评价体系。
+      events: []
+      cite: i11-gov-2025-07-01-cfac-6th
+    - date: 2026-03-05
+      name: 2026年政府工作报告：深入整治“内卷式”竞争
+      text: 报告要求综合运用产能调控、标准引领、价格执法、质量监管等手段，深入整治“内卷式”竞争。
+      events: [work-report-2026]
+      cite: i02-gov-2026-gwr
+  voices:
+    - voice: zh
+      text: 价格是市场供需的信号，不当干预价格会释放错误的供需信号，延迟产能市场化出清的节奏。
+      cite: i11-eeo-2025-08-22-anti-involution
+      quote: true
+    - voice: scholar
+      text: “内卷式”竞争并非市场竞争过度，而是市场机制扭曲所导致的资源错配，主要是市场出清机制的缺失，即过度或低效供给无法在市场竞争中自动退出市场，从而产生恶性价格竞争。
+      cite: i11-people-2025-11-12-yang-ruilong
+      quote: true
+  cites:
+    - i11-gov-2024-07-30-politburo
+    - i02-gov-2025-gwr
+    - i11-gov-2025-07-01-cfac-6th
+    - i11-eeo-2025-08-22-anti-involution
+    - i11-people-2025-11-12-yang-ruilong
+    - i02-gov-2026-gwr
+
+- id: heroes-martyrs-law
+  name: 英雄烈士保护法
+  en: Heroes and Martyrs Protection Law
+  kind: formula
+  by: []
+  first:
+    date: 2018-04-27
+    text: 十三届全国人大常委会第二次会议通过《中华人民共和国英雄烈士保护法》，5月1日起施行。
+    cite: i11-gov-2018-04-27-heroes-law
+    quote: 禁止歪曲、丑化、亵渎、否定英雄烈士事迹和精神。
+  codified:
+    - date: 2020-12-26
+      where: 《中华人民共和国刑法修正案（十一）》第三十五条（刑法第二百九十九条之一）
+      cite: i11-npc-2020-12-26-criminal-amendment-11
+      quote: 侮辱、诽谤或者以其他方式侵害英雄烈士的名誉、荣誉，损害社会公共利益，情节严重的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。
+  summary: 英雄烈士保护法2018年4月27日由十三届全国人大常委会第二次会议通过，5月1日起施行，共30条。第三条说英雄烈士事迹和精神“是中华民族的共同历史记忆和社会主义核心价值观的重要体现”；第五条定每年9月30日为烈士纪念日；第二十二条“禁止歪曲、丑化、亵渎、否定英雄烈士事迹和精神”；第二十三条要求网信、电信、公安部门对来源于境外的相关信息“采取技术措施和其他必要措施阻断传播”；第二十五条规定英雄烈士没有近亲属或近亲属不起诉时，由检察机关提起诉讼。立法前，2016年北京市西城区法院在狼牙山五壮士名誉权案中判决《炎黄春秋》前执行主编洪振快公开道歉，认为英雄人物及其精神“应当视为社会公共利益”。2020年12月的刑法修正案（十一）增设刑法第二百九十九条之一，侵害英雄烈士名誉、荣誉、情节严重的，最高可处三年有期徒刑，2021年3月1日起施行。
+  quote:
+    text: 近代以来，为了争取民族独立和人民解放，实现国家富强和人民幸福，促进世界和平和人类进步而毕生奋斗、英勇献身的英雄烈士，功勋彪炳史册，精神永垂不朽。
+    cite: i11-gov-2018-04-27-heroes-law
+  terms: [英雄烈士保护法, 英烈保护法, 英烈法, 侵害英雄烈士名誉、荣誉罪]
+  related: [historical-nihilism-debate, document-9, xi-culture-thought]
+  sections:
+    - h: 立法前的狼牙山案
+      from: 2013
+      to: 2016-08
+      text: 洪振快在《炎黄春秋》等处发表两篇文章，考证狼牙山五壮士“在何处跳崖”等细节。2016年6月27日西城区法院判决他停止侵害、赔礼道歉，认为他“通过强调与主要事实无关或者关联不大的细节”否定主要史实，所主张的言论自由“明显不足以抗辩其侵权责任的成立”。洪振快对《纽约时报》说，“我当然不会道歉”。
+      cites: [i08-xinhua-2016-06-27-langyashan, i08-nytcn-2016-08-16-hong-zhenkuai]
+    - h: 主要条文
+      from: 2018-04
+      to: 2018-05
+      text: 法律第一条把立法目的写为“传承和弘扬英雄烈士精神、爱国主义精神”；第二十六条规定，侵害英雄烈士姓名、肖像、名誉、荣誉，损害社会公共利益的，依法承担民事责任，并可给予治安管理处罚或追究刑事责任；第二十七条把在纪念设施保护范围内“宣扬、美化侵略战争和侵略行为”列为违法行为。
+      cites: [i11-gov-2018-04-27-heroes-law]
+    - h: 入刑
+      from: 2020-12
+      to: 2021-03
+      text: 英烈法本身只规定“构成犯罪的，依法追究刑事责任”，没有专门罪名。刑法修正案（十一）第三十五条增设专门条款，自2021年3月1日起施行。
+      cites: [i11-gov-2018-04-27-heroes-law, i11-npc-2020-12-26-criminal-amendment-11]
+  policies:
+    - date: 2018-04-27
+      name: 英雄烈士保护法
+      text: 全国人大常委会通过英烈法，规定烈士纪念日、纪念设施保护、禁止歪曲丑化英烈和检察公益诉讼。
+      events: []
+      cite: i11-gov-2018-04-27-heroes-law
+    - date: 2020-12-26
+      name: 刑法修正案（十一）增设侵害英雄烈士名誉、荣誉罪
+      text: 修正案在刑法第二百九十九条后增加一条，情节严重的侵害英烈名誉、荣誉行为可处三年以下有期徒刑、拘役、管制或者剥夺政治权利。
+      events: []
+      cite: i11-npc-2020-12-26-criminal-amendment-11
+  voices:
+    - voice: doc
+      text: 英雄烈士没有近亲属或者近亲属不提起诉讼的，检察机关依法对侵害英雄烈士的姓名、肖像、名誉、荣誉，损害社会公共利益的行为向人民法院提起诉讼。
+      cite: i11-gov-2018-04-27-heroes-law
+      quote: true
+    - voice: zh
+      text: “我当然不会道歉，”洪振快在周一接受采访时说。“这是基本的学术自由，我需要保持作为一名知识分子的尊严。”
+      cite: i08-nytcn-2016-08-16-hong-zhenkuai
+      quote: true
+  cites:
+    - i08-xinhua-2016-06-27-langyashan
+    - i08-nytcn-2016-08-16-hong-zhenkuai
+    - i11-gov-2018-04-27-heroes-law
+    - i11-npc-2020-12-26-criminal-amendment-11
+
+- id: private-economy-promotion-law
+  name: 民营经济促进法
+  en: Private Economy Promotion Law
+  kind: formula
+  parent: socialist-market-economy
+  by: []
+  first:
+    date: 2025-03-05
+    text: 2025年政府工作报告回顾说，国务院已于上一年提请全国人大常委会审议草案。
+    cite: i02-gov-2025-gwr
+    quote: 提请全国人大常委会审议民营经济促进法草案
+  codified:
+    - date: 2025-04-30
+      where: 十四届全国人大常委会第十五次会议通过
+      cite: i11-gov-2025-04-30-private-economy-law
+      quote: 促进民营经济持续、健康、高质量发展，是国家长期坚持的重大方针政策。
+  summary: 民营经济促进法2025年4月30日由十四届全国人大常委会第十五次会议通过，5月20日起施行，共9章78条。立法前，习近平2025年2月17日在民营企业座谈会上说，党和国家对民营经济的基本方针政策“已经纳入中国特色社会主义制度体系”，“不能变，也不会变”。法律第二条写入“毫不动摇巩固和发展公有制经济，毫不动摇鼓励、支持、引导非公有制经济发展”；第三条称民营经济是“推进中国式现代化的生力军”，规定“平等对待、公平竞争、同等保护、共同发展的原则”；第五条要求民营经济组织及其经营者“拥护中国共产党的领导，坚持中国特色社会主义制度”。权益保护一章要求“严格区分经济纠纷与经济犯罪”，“禁止利用行政或者刑事手段违法干预经济纠纷”，“禁止为经济利益等目的滥用职权实施异地执法”，并要求地方政府清理拖欠民营企业账款。2026年政府工作报告要求“完善民营经济促进法配套法规政策”。
+  quote:
+    text: 民营经济是社会主义市场经济的重要组成部分，是推进中国式现代化的生力军，是高质量发展的重要基础，是推动我国全面建成社会主义现代化强国、实现中华民族伟大复兴的重要力量。
+    cite: i11-gov-2025-04-30-private-economy-law
+  terms: [民营经济促进法, 两个毫不动摇, 异地执法, 趋利性执法]
+  related: [private-economy-exit, guojin-mintui, socialist-market-economy, unified-national-market, lang-gu-debate]
+  lists:
+    - title: 九章结构
+      cite: i11-gov-2025-04-30-private-economy-law
+      items:
+        - 总则
+        - 公平竞争
+        - 投资融资促进
+        - 科技创新
+        - 规范经营
+        - 服务保障
+        - 权益保护
+        - 法律责任
+        - 附则
+  sections:
+    - h: 立法过程
+      from: 2024
+      to: 2025-05
+      text: 2025年政府工作报告把提请审议草案列为上一年“全面深化改革扩大开放”的成果。2月17日的民营企业座谈会上，任正非、王传福、刘永好、虞仁荣、王兴兴、雷军6位企业负责人发言。4月30日法律通过，新华社同日公布全文。
+      cites: [i02-gov-2025-gwr, b14-gov-2025-02-17-private-symposium, i11-gov-2025-04-30-private-economy-law]
+    - h: 主要内容
+      from: 2025-05-20
+      text: 公平竞争一章规定“国家实行全国统一的市场准入负面清单制度”，清单以外的领域各类经济组织“可以依法平等进入”。权益保护一章规定查封、扣押、冻结财物要严格区分民营经济组织财产与经营者个人财产、涉案人财产与案外人财产；生产经营活动未违反刑法规定的，“不以犯罪论处”。第五条同时要求加强对民营经济组织经营者的“思想政治引领”。
+      cites: [i11-gov-2025-04-30-private-economy-law]
+    - h: 实施
+      from: 2026-03
+      text: 2026年政府工作报告要求“从法律和制度上保障平等使用生产要素、公平参与市场竞争、有效保护合法权益”，并“下更大力气解决拖欠企业账款问题”。
+      cites: [i02-gov-2026-gwr]
+  policies:
+    - date: 2025-04-30
+      name: 民营经济促进法通过
+      text: 法律确立平等对待、公平竞争、同等保护、共同发展原则，规范涉企执法和异地执法，规定清理拖欠账款。
+      events: [e08-2025-private-enterprise-symposium]
+      cite: i11-gov-2025-04-30-private-economy-law
+  voices:
+    - voice: doc
+      text: 办理案件应当严格区分经济纠纷与经济犯罪，遵守法律关于追诉期限的规定；生产经营活动未违反刑法规定的，不以犯罪论处；事实不清、证据不足或者依法不追究刑事责任的，应当依法撤销案件、不起诉、终止审理或者宣告无罪。
+      cite: i11-gov-2025-04-30-private-economy-law
+      quote: true
+    - voice: official
+      text: 党和国家对民营经济发展的基本方针政策，已经纳入中国特色社会主义制度体系，将一以贯之坚持和落实，不能变，也不会变。
+      cite: b14-gov-2025-02-17-private-symposium
+      quote: true
+  cites:
+    - i02-gov-2025-gwr
+    - b14-gov-2025-02-17-private-symposium
+    - i11-gov-2025-04-30-private-economy-law
+    - i02-gov-2026-gwr

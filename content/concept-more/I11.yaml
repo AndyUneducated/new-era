@@ -1,0 +1,98 @@
+# I11: backlinks from existing concepts to the round-14 entries, plus the 2010 自主创新 procurement dispute,
+# 马戎's origin of 去政治化 for the 第二代民族政策 debate, and the 英烈法 as the legal end of the 历史虚无主义 debate.
+
+innovative-country:
+  related: [industry-revitalization-plans]
+  sections:
+    - h: 自主创新产品认定引起的外资抗议
+      from: 2009-11
+      to: 2010-01
+      text: 2009年11月，科技部、国家发改委、财政部联合发布《关于开展2009年国家自主创新产品认定工作的通知》，规定获认定的产品在政府采购中享受优惠，知识产权须在中国研发、由中国拥有并在中国注册。12月，34个欧美商业团体联名致信三部委要求重新考虑；2010年1月，美国商会、美国制造商协会等19家协会又致信克林顿、盖特纳等5名美国高级官员，称这一政策对美国企业“构成迫在眉睫的威胁”。大西洋理事会的盖保德则认为，把它称为贸易保护主义“有些牵强”。
+      cites: [i11-voa-2010-01-27-indigenous-innovation]
+  voices:
+    - voice: west
+      text: 中国政府颁发的一系列自主创新项目有把美国很多公司排斥在中国市场之外的危险，而这个市场对企业的未来增长以及为美国国内创造就业机会至关重要。
+      cite: i11-voa-2010-01-27-indigenous-innovation
+      quote: true
+  cites: [i11-voa-2010-01-27-indigenous-innovation]
+
+second-generation-ethnic-policy:
+  related: [depoliticization-ethnic]
+  sections:
+    - h: 思想来源
+      from: 2004-11
+      text: 北京大学社会学家马戎2004年在《北京大学学报》提出，应“把建国以来在族群问题上的“政治化”趋势改变为“文化化”的新方向”，把“多元一体”具体化为“政治一体”和“文化多元”，并支持把56个“民族”改称“族群”。胡鞍钢、胡联合2011年的主张延续了这一思路。
+      cites: [i11-aisixiang-2004-ma-rong-depoliticize]
+  cites: [i11-aisixiang-2004-ma-rong-depoliticize]
+
+historical-nihilism-debate:
+  related: [heroes-martyrs-law]
+  policies:
+    - date: 2018-04-27
+      name: 英雄烈士保护法
+      text: 全国人大常委会通过英烈法，规定“禁止歪曲、丑化、亵渎、否定英雄烈士事迹和精神”，英烈无近亲属或近亲属不起诉时由检察机关提起诉讼。
+      events: []
+      cite: i11-gov-2018-04-27-heroes-law
+    - date: 2020-12-26
+      name: 刑法修正案（十一）增设侵害英雄烈士名誉、荣誉罪
+      text: 情节严重的侵害英雄烈士名誉、荣誉行为可处三年以下有期徒刑、拘役、管制或者剥夺政治权利，2021年3月1日起施行。
+      events: []
+      cite: i11-npc-2020-12-26-criminal-amendment-11
+  cites: [i11-gov-2018-04-27-heroes-law, i11-npc-2020-12-26-criminal-amendment-11]
+
+self-revolution:
+  related: [historical-cycle, big-party-unique-problems, two-faced-people]
+
+strict-governance:
+  related: [big-party-unique-problems, two-faced-people, fox-hunt]
+
+xi-thought:
+  related: [four-greats]
+
+holistic-security:
+  related: [new-security-pattern]
+
+chinese-modernization:
+  related: [new-form-human-civilization]
+
+xi-culture-thought:
+  related: [modern-chinese-civilization]
+
+xi-diplomacy-thought:
+  related: [new-type-international-relations, right-approach-justice-interests]
+
+involution-lying-flat:
+  related: [anti-involution]
+
+unified-national-market:
+  related: [anti-involution]
+
+china-model-debate:
+  related: [beijing-consensus]
+
+neoliberalism-debate:
+  related: [lang-gu-debate, beijing-consensus]
+
+grasp-large-release-small:
+  related: [lang-gu-debate]
+
+private-economy-exit:
+  related: [private-economy-promotion-law]
+
+macro-control:
+  related: [proactive-fiscal-policy, industry-revitalization-plans]
+
+sannong:
+  related: [no1-document]
+
+western-development:
+  related: [central-rise]
+
+northeast-revitalization:
+  related: [central-rise]
+
+socialist-market-economy:
+  related: [birdcage-economy, private-economy-promotion-law]
+
+chinese-nation-community:
+  related: [depoliticization-ethnic]
