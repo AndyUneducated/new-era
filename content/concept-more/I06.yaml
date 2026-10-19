@@ -1,0 +1,226 @@
+# I06: policy chains (slogan → document → event) appended to concepts owned by I01.
+# New concepts of this batch are in content/concepts/I06.yaml.
+
+common-prosperity:
+  related: [poverty-alleviation, disorderly-capital, modernization-five-features]
+  sections:
+    - h: 中央财经委员会第十次会议
+      from: 2021-08
+      text: 2021年8月17日的会议称共同富裕“是社会主义的本质要求，是中国式现代化的重要特征”，要求“在高质量发展中促进共同富裕”，构建初次分配、再分配、三次分配协调配套的基础性制度安排，“扩大中等收入群体比重，增加低收入群体收入，合理调节高收入，取缔非法收入，形成中间大、两头小的橄榄型分配结构”。同一时期，平台企业反垄断、“双减”等防止资本无序扩张的措施密集出台。
+      cites: [e04-gov-2021-08-17-common-prosperity, e04-gov-2021-07-24-double-reduction]
+    - h: “蛋糕”与降温
+      from: 2021-12
+      text: 2021年12月中央经济工作会议把共同富裕列为需要“正确认识和把握”的新的重大理论和实践问题之首，说“首先要通过全国人民共同奋斗把“蛋糕”做大做好，然后通过合理的制度安排把“蛋糕”切好分好”，并称“这是一个长期的历史过程，要稳步朝着这个目标迈进”。
+      cites: [i06-gov-2021-12-10-cewc]
+    - h: 写入中国式现代化
+      from: 2022-10
+      text: 二十大报告把“全体人民共同富裕的现代化”列为中国式现代化的五个特征之一，要求“坚决防止两极分化”；收入分配部分提出“规范收入分配秩序，规范财富积累机制，保护合法收入，调节过高收入，取缔非法收入”。
+      cites: [i01-gov-2022-10-16-20th-report]
+  policies:
+    - date: 2021-08-17
+      name: 中央财经委员会第十次会议研究扎实促进共同富裕
+      text: 提出三次分配制度安排和橄榄型分配结构目标。
+      events: [common-prosperity-meeting]
+      cite: e04-gov-2021-08-17-common-prosperity
+    - date: 2021-12-10
+      name: 中央经济工作会议提出先做大再分好“蛋糕”
+      text: 把共同富裕表述为长期历史过程，同时提出为资本设置“红绿灯”。
+      cite: i06-gov-2021-12-10-cewc
+    - date: 2022-10-16
+      name: 规范财富积累机制
+      text: 二十大报告在收入分配部分提出规范收入分配秩序和财富积累机制。
+      events: [charter-two-establishes]
+      cite: i01-gov-2022-10-16-20th-report
+  cites: [e04-gov-2021-08-17-common-prosperity, e04-gov-2021-07-24-double-reduction, i06-gov-2021-12-10-cewc, i01-gov-2022-10-16-20th-report]
+
+dual-circulation:
+  related: [unified-national-market, new-whole-nation-system, disorderly-capital]
+  sections:
+    - h: 写入“十四五”建议
+      from: 2020-10
+      to: 2020-12
+      text: 十九届五中全会公报要求“加快构建以国内大循环为主体、国内国际双循环相互促进的新发展格局”，“坚持扩大内需这个战略基点”，“把实施扩大内需战略同深化供给侧结构性改革有机结合起来”。同年12月中央经济工作会议说，构建新发展格局“要紧紧扭住供给侧结构性改革这条主线，注重需求侧管理”，并称“产业链供应链安全稳定是构建新发展格局的基础”，要“尽快解决一批“卡脖子”问题”。
+      cites: [e04-xinhua-2020-10-29-5th-plenum, i06-gov-2020-12-18-cewc]
+    - h: 配套政策
+      from: 2020-12
+      to: 2022-03
+      text: 新发展格局的配套政策主要有三条：一是2020年起提出的“新型举国体制”，用于关键核心技术攻关；二是2022年3月的全国统一大市场意见，称统一大市场是“构建新发展格局的基础支撑和内在要求”，并要求各地不得以“内循环”的名义搞地区封锁；三是“防止资本无序扩张”。
+      cites: [i06-gov-2020-12-18-cewc, i06-gov-2022-04-10-unified-market]
+  policies:
+    - date: 2020-10-29
+      name: 十九届五中全会“十四五”规划建议
+      text: 把构建新发展格局写入“十四五”时期的指导思想。
+      events: [fifth-plenum-19th]
+      cite: e04-xinhua-2020-10-29-5th-plenum
+    - date: 2020-12-18
+      name: 中央经济工作会议部署新发展格局“迈好第一步”
+      text: 要求增强产业链供应链自主可控能力，坚持扩大内需这个战略基点。
+      cite: i06-gov-2020-12-18-cewc
+    - date: 2022-03-25
+      name: 关于加快建设全国统一大市场的意见
+      text: 以打破地方保护和市场分割为新发展格局提供制度支撑。
+      cite: i06-gov-2022-04-10-unified-market
+  cites: [e04-xinhua-2020-10-29-5th-plenum, i06-gov-2020-12-18-cewc, i06-gov-2022-04-10-unified-market]
+
+supply-side:
+  related: [three-tough-battles, made-in-china-2025, mass-entrepreneurship]
+  lists:
+    - title: 供给侧结构性改革的五大任务（2016年政府工作报告）
+      cite: i02-gov-2016-gwr
+      items: [去产能, 去库存, 去杠杆, 降成本, 补短板]
+    - title: 深化供给侧结构性改革的八字方针（第三个历史决议）
+      cite: b04-gov-2021-11-16-resolution
+      items: [巩固, 增强, 提升, 畅通]
+  sections:
+    - h: 三去一降一补
+      from: 2016-03
+      to: 2017-03
+      text: 2016年政府工作报告要求“着力加强供给侧结构性改革”，“抓好去产能、去库存、去杠杆、降成本、补短板”，“重点抓好钢铁、煤炭等困难行业去产能”。2017年报告称“着力抓好“三去一降一补””，前一年“全年退出钢铁产能超过6500万吨、煤炭产能超过2.9亿吨”，房地产去库存“取得积极成效”，并要求“因城施策去库存”。
+      cites: [i02-gov-2016-gwr, i02-gov-2017-gwr]
+    - h: 定为经济工作主线
+      from: 2020-12
+      text: 第三个历史决议把“以供给侧结构性改革为主线”列为十八大以来经济工作的重大决策之一，称党“全面实施供给侧结构性改革，推进去产能、去库存、去杠杆、降成本、补短板，落实巩固、增强、提升、畅通要求”。2020年底中央经济工作会议仍以“深化供给侧结构性改革为主线”，2021年政府工作报告要求“继续完成“三去一降一补”重要任务”。
+      cites: [b04-gov-2021-11-16-resolution, i06-gov-2020-12-18-cewc, i02-gov-2021-gwr]
+  policies:
+    - date: 2015-11-10
+      name: 中央财经领导小组第十一次会议提出供给侧结构性改革
+      text: 在适度扩大总需求的同时，着力提高供给体系质量和效率。
+      events: [e03-2015-supply-side-reform]
+      cite: i01-cpc-2015-11-10-supply-side
+    - date: 2016-03-05
+      name: 政府工作报告部署“三去一降一补”
+      text: 以钢铁、煤炭为重点去产能，坚持市场倒逼、企业主体、地方组织、中央支持。
+      cite: i02-gov-2016-gwr
+    - date: 2017-03-05
+      name: 继续压减钢铁、煤炭产能
+      text: 当年再压减钢铁产能5000万吨左右、退出煤炭产能1.5亿吨以上，并淘汰、停建、缓建煤电产能。
+      cite: i02-gov-2017-gwr
+  cites: [i01-cpc-2015-11-10-supply-side, i02-gov-2016-gwr, i02-gov-2017-gwr, b04-gov-2021-11-16-resolution, i06-gov-2020-12-18-cewc, i02-gov-2021-gwr]
+
+belt-and-road:
+  sections:
+    - h: 从倡议到规划
+      from: 2013-09
+      to: 2016-01
+      text: 2013年9月习近平在阿斯塔纳提出共建“丝绸之路经济带”。十八届五中全会公报要求“推进“一带一路”建设”，“推进国际产能和装备制造合作，打造陆海内外联动、东西双向开放的全面开放新格局”。2016年1月亚洲基础设施投资银行开业，习近平说中国于2013年10月提出筹建倡议。
+      cites: [i01-fmprc-2013-09-07-nazarbayev-speech, i01-moe-2015-10-29-5th-plenum-communique, e03-mfa-2016-01-16-aiib-speech]
+    - h: 高质量共建
+      from: 2021-11
+      text: 第三个历史决议提出“推动共建“一带一路”高质量发展”，建设“和平之路、繁荣之路、开放之路、绿色之路、创新之路、文明之路”。2022年政府工作报告要求“有序开展对外投资合作，有效防范海外风险”；二十大报告称共建“一带一路”已成为“深受欢迎的国际公共产品和国际合作平台”。2023年的数字中国整体布局规划提出高质量共建“数字丝绸之路”。
+      cites: [b04-gov-2021-11-16-resolution, i02-gov-2022-gwr, i01-gov-2022-10-16-20th-report, i06-gov-2023-02-27-digital-china]
+  policies:
+    - date: 2013-09-07
+      name: 倡议共建丝绸之路经济带
+      text: 提出政策沟通、道路联通、贸易畅通、货币流通、民心相通。
+      events: [e03-2013-silk-road-economic-belt]
+      cite: i01-fmprc-2013-09-07-nazarbayev-speech
+    - date: 2016-01-16
+      name: 亚洲基础设施投资银行开业
+      text: 57个创始成员国代表团团长共同启动亚投行。
+      events: [e03-2016-aiib-opens]
+      cite: e03-xinhua-2016-01-16-aiib
+    - date: 2022-03-05
+      name: 高质量共建“一带一路”
+      text: 政府工作报告要求巩固互联互通合作基础，推进西部陆海新通道建设，防范海外风险。
+      cite: i02-gov-2022-gwr
+  cites: [i01-fmprc-2013-09-07-nazarbayev-speech, i01-moe-2015-10-29-5th-plenum-communique, e03-xinhua-2016-01-16-aiib, e03-mfa-2016-01-16-aiib-speech, b04-gov-2021-11-16-resolution, i02-gov-2022-gwr, i01-gov-2022-10-16-20th-report, i06-gov-2023-02-27-digital-china]
+
+dynamic-zero:
+  related: [healthy-china]
+  sections:
+    - h: 武汉封城到常态化
+      from: 2020-01
+      to: 2020-04
+      text: 国务院新闻办白皮书记载，2020年1月19日深夜高级别专家组确认新冠病毒“人传人”，1月23日武汉关闭离汉通道，4月8日解除持续76天的离汉离鄂管控。此后防控转入以快速发现、快速处置为特征的常态化阶段。
+      cites: [e04-gov-2020-06-07-covid-whitepaper, e08-bbc-2020-04-08-wuhan-unlock]
+    - h: “社会面清零”与封城
+      from: 2021-12
+      to: 2022-10
+      text: 2022年1月西安封城期间，陕西省委书记刘国中要求“奋力推进社会面清零”，在网格管控上“管彻底、不“漏风””；《联合早报》报道，有网友批评“社会面清零”是自欺欺人。3月底上海实施封城。10月的二十大报告仍写“坚持外防输入、内防反弹，坚持动态清零不动摇”。
+      cites: [b16-zaobao-2022-01-04-liu-zero, e04-bbc-2022-04-19-shanghai-lockdown, i01-gov-2022-10-16-20th-report]
+    - h: 放开与定调
+      from: 2022-11
+      to: 2023-02
+      text: 2022年11月24日乌鲁木齐封控住宅楼火灾后多地出现抗议，12月7日国务院联防联控机制发布“新十条”，不再按行政区域开展全员核酸。2023年2月16日中央政治局常委会宣布“取得疫情防控重大决定性胜利”。
+      cites: [e04-bbc-2022-11-26-urumqi-fire, e04-gov-2022-12-07-new-ten, e08-gov-2023-02-16-decisive-victory]
+  policies:
+    - date: 2020-01-23
+      name: 武汉关闭离汉通道
+      text: 持续76天，4月8日解除。
+      events: [wuhan-lockdown-2020, e08-2020-wuhan-reopens]
+      cite: e04-gov-2020-06-07-covid-whitepaper
+    - date: 2022-01-03
+      name: 西安“社会面清零”攻坚
+      text: 省委书记要求按“足不出户”要求加强城中村和网格管控。
+      events: [e08-2022-xian-miscarriage]
+      cite: b16-zaobao-2022-01-04-liu-zero
+    - date: 2022-03-27
+      name: 上海封城
+      text: 大批市民在网上批评不合理的防疫手段。
+      events: [shanghai-lockdown]
+      cite: e04-bbc-2022-04-19-shanghai-lockdown
+    - date: 2022-12-07
+      name: 进一步优化落实新冠肺炎疫情防控措施的通知（“新十条”）
+      text: 动态清零政策实际结束。
+      events: [urumqi-fire, white-paper-protests, new-ten-measures]
+      cite: e04-gov-2022-12-07-new-ten
+    - date: 2023-02-16
+      name: 政治局常委会宣布“重大决定性胜利”
+      text: 官方为三年防疫定调。
+      events: [e08-2023-decisive-victory]
+      cite: e08-gov-2023-02-16-decisive-victory
+  cites: [e04-gov-2020-06-07-covid-whitepaper, e08-bbc-2020-04-08-wuhan-unlock, b16-zaobao-2022-01-04-liu-zero, e04-bbc-2022-04-19-shanghai-lockdown, i01-gov-2022-10-16-20th-report, e04-bbc-2022-11-26-urumqi-fire, e04-gov-2022-12-07-new-ten, e08-gov-2023-02-16-decisive-victory]
+
+holistic-security:
+  related: [cyber-power, qinglang, military-civil-fusion, financial-power]
+  sections:
+    - h: 立法链
+      from: 2014-11
+      to: 2024-03
+      text: 总体国家安全观提出后，全国人大常委会围绕它制定了一组法律。2023年反间谍法修订草案的审议报告说，“2014年施行的反间谍法是我国贯彻落实总体国家安全观的第一部重要法律”。2015年7月1日通过新国家安全法，覆盖金融、网络、宗教乃至太空、深海、极地；2016年通过境外非政府组织境内活动管理法和网络安全法；2020年6月30日通过香港国安法；2021年数据安全法第四条规定“维护数据安全，应当坚持总体国家安全观”；2023年修订的反间谍法第二条写明“坚持党中央集中统一领导，坚持总体国家安全观”；2024年3月香港立法会通过《维护国家安全条例》。
+      cites: [i06-npc-2023-04-26-counter-espionage-report, e08-bbc-2015-07-01-nsl, e08-bbc-2016-04-28-ngo-law, e08-cac-2016-11-07-cyber-law, e04-gov-2020-06-30-hk-nsl, i06-cac-2021-06-11-data-security-law, i06-gov-2023-04-27-counter-espionage-law, e04-bbc-2024-03-19-art23]
+    - h: 2023年反间谍法修订
+      from: 2023-04
+      to: 2023-07
+      text: 审议报告列出的修改包括：“增加网络间谍、投靠间谍组织及其代理人、针对第三国的间谍行为”，以及“增加查阅调取数据、传唤、财产信息查询、不准出入境等行政执法职权”。修订后的法律2023年7月1日起施行。德国之声报道，德国海外商会北京代表处首席代表晏思说“新反间谍法在投资者中造成了更多的不确定性”，欧盟商会主席彦辞则说“国家机密”的定义完全不清楚。
+      cites: [i06-npc-2023-04-26-counter-espionage-report, i06-gov-2023-04-27-counter-espionage-law, i06-dw-2023-07-01-espionage-law]
+  policies:
+    - date: 2015-07-01
+      name: 国家安全法
+      text: 以总体国家安全观为框架，把国家安全扩展到经济、网络、宗教、太空等领域。
+      events: [e08-2015-national-security-law]
+      cite: e08-bbc-2015-07-01-nsl
+    - date: 2016-04-28
+      name: 境外非政府组织境内活动管理法
+      text: 境外NGO须向警方登记方可在华活动。
+      events: [e08-2016-overseas-ngo-law]
+      cite: e08-bbc-2016-04-28-ngo-law
+    - date: 2016-11-07
+      name: 网络安全法
+      text: 要求关键信息基础设施运营者在境内存储个人信息和重要数据。
+      events: [e08-2016-cybersecurity-law]
+      cite: e08-cac-2016-11-07-cyber-law
+    - date: 2020-06-30
+      name: 香港特别行政区维护国家安全法
+      text: 全国人大常委会通过，列入基本法附件三在港实施。
+      events: [hk-national-security-law]
+      cite: e04-gov-2020-06-30-hk-nsl
+    - date: 2021-06-10
+      name: 数据安全法
+      text: 第四条把总体国家安全观写入数据治理，国家核心数据实行更加严格的管理制度。
+      cite: i06-cac-2021-06-11-data-security-law
+    - date: 2023-04-26
+      name: 反间谍法修订
+      text: 扩大间谍行为定义，增加网络间谍和数据调取、不准出入境等执法职权，2023年7月1日施行。
+      cite: i06-gov-2023-04-27-counter-espionage-law
+    - date: 2024-03-19
+      name: 香港《维护国家安全条例》
+      text: 落实基本法第二十三条。
+      events: [hk-article-23]
+      cite: e04-bbc-2024-03-19-art23
+  voices:
+    - voice: west
+      text: 即便是普普通通的市场调查，或收集竞争者的信息，以后也可能落入反间谍法的范畴
+      cite: i06-dw-2023-07-01-espionage-law
+      quote: true
+  cites: [i06-npc-2023-04-26-counter-espionage-report, e08-bbc-2015-07-01-nsl, e08-bbc-2016-04-28-ngo-law, e08-cac-2016-11-07-cyber-law, e04-gov-2020-06-30-hk-nsl, i06-cac-2021-06-11-data-security-law, i06-gov-2023-04-27-counter-espionage-law, e04-bbc-2024-03-19-art23, i06-dw-2023-07-01-espionage-law]

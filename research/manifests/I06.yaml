@@ -1,0 +1,222 @@
+# I06: Xi-era policy slogans and how they were carried out (idea → policy → event).
+web:
+  # --- poverty, rural ---
+  - id: i06-jhsjk-2013-11-03-shibadong
+    title: 【图集】习近平到湖南考察（湘西十八洞村：“要精准扶贫，切忌喊口号”）
+    publisher: 人民网·习近平系列重要讲话数据库
+    date: 2013-11-03
+    voice: official
+    url: http://jhsjk.people.cn/article/23440116
+    start: 据新华社“新华视点”微博报道，武陵山片区
+    end: (责编：姜萍萍 )
+  - id: i06-gov-2015-12-07-poverty-decision
+    title: 中共中央 国务院关于打赢脱贫攻坚战的决定（2015年11月29日）
+    publisher: 新华社（中国政府网）
+    date: 2015-11-29
+    voice: doc
+    url: https://www.gov.cn/zhengce/2015-12/07/content_5020963.htm
+    start: 新华社北京12月7日电
+    end: 【我要纠错】
+  - id: i06-gov-2021-02-25-poverty-speech
+    title: 习近平：在全国脱贫攻坚总结表彰大会上的讲话
+    publisher: 新华社（中国政府网）
+    date: 2021-02-25
+    voice: doc
+    url: https://www.gov.cn/xinwen/2021-02/25/content_5588869.htm
+    start: 新华社北京2月25日电
+    end: 【我要纠错】
+  - id: i06-gov-2018-02-04-rural-revitalization
+    title: 中共中央 国务院关于实施乡村振兴战略的意见（2018年1月2日）
+    publisher: 国务院公报（中国政府网）
+    date: 2018-01-02
+    voice: doc
+    url: https://www.gov.cn/gongbao/content/2018/content_5266232.htm
+    start: （2018年1月2日）
+    end: （新华社北京2018年2月4日电）
+  # --- climate, markets, technology, capital, finance ---
+  - id: i06-gov-2020-09-22-unga-carbon
+    title: 习近平在第七十五届联合国大会一般性辩论上的讲话
+    publisher: 新华社（中国政府网）
+    date: 2020-09-22
+    voice: doc
+    url: https://www.gov.cn/xinwen/2020-09/22/content_5546169.htm
+    start: 新华社北京9月22日电
+    end: 【我要纠错】
+  - id: i06-gov-2021-10-24-carbon-opinion
+    title: 中共中央 国务院关于完整准确全面贯彻新发展理念做好碳达峰碳中和工作的意见
+    publisher: 新华社（中国政府网）
+    date: 2021-09-22
+    voice: doc
+    url: https://www.gov.cn/zhengce/2021-10/24/content_5644613.htm
+    start: 新华社北京10月24日电
+    end: 【我要纠错】
+  - id: i06-gov-2022-04-10-unified-market
+    title: 中共中央 国务院关于加快建设全国统一大市场的意见
+    publisher: 新华社（中国政府网）
+    date: 2022-03-25
+    voice: doc
+    url: https://www.gov.cn/xinwen/2022-04/10/content_5684385.htm
+    start: 新华社北京4月10日电
+    end: 【我要纠错】
+  - id: i06-gov-2022-09-06-new-whole-nation
+    title: 习近平主持召开中央全面深化改革委员会第二十七次会议（健全关键核心技术攻关新型举国体制）
+    publisher: 新华社（中国政府网）
+    date: 2022-09-06
+    voice: official
+    url: https://www.gov.cn/xinwen/2022-09/06/content_5708628.htm
+    start: 新华社北京9月6日电
+    end: 中央和国家机关有关部门负责同志列席会议。
+  - id: i06-gov-2020-12-18-cewc
+    title: 中央经济工作会议在北京举行 习近平李克强作重要讲话（2020）
+    publisher: 新华社（中国政府网）
+    date: 2020-12-18
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-12/18/content_5571002.htm
+    start: 新华社北京12月18日电
+    end: 【我要纠错】
+  - id: i06-gov-2021-12-10-cewc
+    title: 中央经济工作会议在北京举行 习近平李克强作重要讲话（2021）
+    publisher: 新华社（中国政府网）
+    date: 2021-12-10
+    voice: official
+    url: https://www.gov.cn/xinwen/2021-12/10/content_5659796.htm
+    start: 新华社北京12月10日电
+    end: 【我要纠错】
+  - id: i06-gov-2024-01-16-finance-seminar
+    title: 习近平在省部级主要领导干部推动金融高质量发展专题研讨班开班式上发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2024-01-16
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202401/content_6926302.htm
+    start: 新华社北京1月16日电
+    end: 【我要纠错】
+  - id: i06-gov-2026-01-31-qiushi-finance
+    title: 《求是》杂志发表习近平总书记重要文章《走好中国特色金融发展之路，建设金融强国》
+    publisher: 新华社（中国政府网）
+    date: 2026-01-31
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202601/content_7056715.htm
+    start: 新华社北京1月31日电
+    end: 【我要纠错】
+  # --- military-civil fusion ---
+  - id: i06-xinhua-2015-03-12-military-civil
+    title: 习近平出席解放军代表团全体会议：深入实施军民融合发展战略 努力开创强军兴军新局面
+    publisher: 新华社
+    date: 2015-03-12
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-03/12/c_1114622624.htm
+    start: 新华社北京3月12日电
+    end: '[责任编辑：'
+  - id: i06-xinhua-2015-03-12-mcf-first
+    title: 习近平的两会时间（十）：系统阐述军民融合发展的三个看点
+    publisher: 新华网
+    date: 2015-03-12
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015lh/2015-03/12/c_1114623628.htm
+    start: 新华网北京3月12日电
+    end: 习近平代表的两会时间（一）
+  # --- party campaigns, governance ---
+  - id: i06-gov-2013-10-11-fengqiao
+    title: 习近平就创新群众工作方法作出重要指示：把“枫桥经验”坚持好、发展好
+    publisher: 新华社（中国政府网）
+    date: 2013-10-11
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-10/11/content_2504878.htm
+    start: 新华社杭州10月11日电
+    end: 国家主席习近平在印尼巴厘岛会见韩国总统朴槿惠
+  - id: i06-gov-2019-05-31-theme-education
+    title: 习近平出席“不忘初心、牢记使命”主题教育工作会议并发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2019-05-31
+    voice: official
+    url: https://www.gov.cn/xinwen/2019-05/31/content_5396490.htm
+    start: 新华社北京5月31日电
+    end: 【我要纠错】
+  - id: i06-gov-2021-02-20-party-history
+    title: 习近平在党史学习教育动员大会上强调：学党史悟思想办实事开新局 以优异成绩迎接建党一百周年
+    publisher: 新华社（中国政府网）
+    date: 2021-02-20
+    voice: official
+    url: https://www.gov.cn/xinwen/2021-02/20/content_5587966.htm
+    start: 新华社北京2月20日电
+    end: 【我要纠错】
+  - id: i06-gov-2018-01-24-saohei
+    title: 中共中央 国务院发出《关于开展扫黑除恶专项斗争的通知》
+    publisher: 新华社（中国政府网）
+    date: 2018-01-24
+    voice: official
+    url: https://www.gov.cn/zhengce/2018-01/24/content_5260130.htm
+    start: 新华社北京1月24日电
+    end: 【我要纠错】
+  # --- security legislation, internet ---
+  - id: i06-gov-2023-04-27-counter-espionage-law
+    title: 中华人民共和国反间谍法（2023年4月26日修订）
+    publisher: 新华社（中国政府网）
+    date: 2023-04-26
+    voice: doc
+    url: https://www.gov.cn/yaowen/2023-04/27/content_5753385.htm
+    start: 新华社北京4月26日电
+    end: 【我要纠错】
+  - id: i06-npc-2023-04-26-counter-espionage-report
+    title: 全国人民代表大会宪法和法律委员会关于《中华人民共和国反间谍法（修订草案）》审议结果的报告
+    publisher: 中国人大网
+    date: 2023-04-26
+    voice: official
+    url: https://web.archive.org/web/2024id_/http://www.npc.gov.cn/npc/c2/c30834/202304/t20230426_429056.html
+  - id: i06-cac-2021-06-11-data-security-law
+    title: 中华人民共和国数据安全法（2021年6月10日通过）
+    publisher: 新华社（中国网信网）
+    date: 2021-06-10
+    voice: doc
+    url: https://www.cac.gov.cn/2021-06/11/c_1624994566919140.htm
+    start: 新华社北京6月10日电
+    end: 关闭
+  - id: i06-cac-2021-05-08-qinglang
+    title: 2021年网络“清朗”系列专项行动举行新闻发布会
+    publisher: 中央网信办（中国网信网）
+    date: 2021-05-08
+    voice: official
+    url: https://www.cac.gov.cn/2021-05/08/c_1622061067961460.htm
+    start: 5月8日下午，国务院新闻办公室
+    end: 关闭
+  - id: i06-cac-2021-08-25-fanquan
+    title: 中央网信办秘书局：关于进一步加强“饭圈”乱象治理的通知
+    publisher: 中央网信办（中国网信网，Wayback 存档）
+    date: 2021-08-25
+    voice: doc
+    url: https://web.archive.org/web/20211219033954id_/http://www.cac.gov.cn/2021-08/26/c_1631563902354584.htm
+    start: 各省、自治区、直辖市党委网信办
+    end: 中央网信办秘书局
+  - id: i06-gov-2023-02-27-digital-china
+    title: 中共中央 国务院印发《数字中国建设整体布局规划》
+    publisher: 新华社（中国政府网）
+    date: 2023-02-27
+    voice: official
+    url: https://www.gov.cn/zhengce/2023-02/27/content_5743484.htm
+    start: 新华社北京2月27日电
+    end: 【我要纠错】
+  # --- media voices ---
+  - id: i06-bbc-2021-02-25-poverty
+    title: 中国近亿人口脱贫 习近平称创造“人间奇迹”
+    publisher: BBC中文
+    date: 2021-02-25
+    voice: west
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-56194835
+    excerpt: true
+    keep: [政治学者对BBC中文指出, 三联生活周刊, 陈道银对BBC中文表示, 刘永富2020年3月]
+  - id: i06-bbc-2021-02-27-poverty-numbers
+    title: 中国脱贫创造“人间奇迹” 三个关键数据透露的玄机
+    publisher: BBC中文
+    date: 2021-02-27
+    voice: west
+    url: https://www.bbc.com/zhongwen/simp/world-56209160
+    excerpt: true
+    keep: [联合国发展署制定的全球绝对贫困线, 如果按照经合组织的标准, 6亿中低收入]
+  - id: i06-dw-2023-07-01-espionage-law
+    title: 中国《反间谍法》生效 外企忧心忡忡
+    publisher: 德国之声中文网
+    date: 2023-07-01
+    voice: west
+    url: https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%8F%8D%E9%97%B4%E8%B0%8D%E6%B3%95%E7%94%9F%E6%95%88-%E5%A4%96%E4%BC%81%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1/a-66088954
+    excerpt: true
+    keep: [德国海外商会北京代表处首席代表晏思, 新苏黎世报, 驻中国欧盟商会主席彦辞]
