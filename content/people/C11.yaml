@@ -1,0 +1,880 @@
+# C11 (round 12): cards for people named in CS3 (army, defence industry), I08 (debates) and I09 (thinkers) who had none
+
+# --- I08 优先五人 ---
+- id: zhang-weiying
+  name: 张维迎
+  pinyin: Zhāng Wéiyíng
+  gender: m
+  born: 1959-10-01
+  birthplace: 陕西吴堡
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 北京大学国家发展研究院教授，市场派经济学家，曾任光华管理学院院长
+  ids: { wikidata: Q700999 }
+  bio: >-
+    经济学家，改革初期价格双轨制理论的提出者之一，牛津大学博士，2006–2010 年任北京大学光华管理学院院长。
+    他是“国退民进”和企业家精神的主要倡导者，2010 年初称“国有部门比重太大，占有资源太多”，主张“重新启动‘国退民进’改革”；
+    2006 年改革争论中他批评对方“情绪发泄多于理性思考，直觉判断压过逻辑分析”。
+  positions:
+    - { title: 国家体改委中国经济体制改革研究所研究人员, sys: gov, from: 1984, to: 1990, cite: c11-wiki-zhang-weiying }
+    - { title: 北京大学中国经济研究中心副教授、教授, sys: other, from: 1994, cite: c11-wiki-zhang-weiying }
+    - { title: 北京大学光华管理学院副院长, sys: other, from: 1999, to: 2006, cite: c11-wiki-zhang-weiying }
+    - { title: 北京大学光华管理学院院长, sys: other, from: 2006, to: 2010, cite: c11-wiki-zhang-weiying }
+    - { title: 北京大学国家发展研究院教授, sys: other, from: 2014-07, cite: c11-wiki-zhang-weiying }
+  cites: [wd-Q700999, c11-wiki-zhang-weiying, i08-people-2010-03-22-zgjjzk-guojin, i08-eeo-2006-03-13-zhang-weiying, i08-reformdata-2006-03-16-third-debate]
+
+- id: liu-guoguang
+  name: 刘国光
+  pinyin: Liú Guóguāng
+  gender: m
+  born: 1923-11-23
+  birthplace: 江苏南京
+  education:
+    - { school: 国立西南联合大学经济系, to: 1946 }
+    - { school: 莫斯科经济学院, degree: 副博士, to: 1955 }
+  roles: [scholar, acc]
+  status: retired
+  tier: 2
+  headline: 经济学家，中国社会科学院原副院长、学部委员，新自由主义的批评者
+  ids: { wikidata: Q65060898 }
+  bio: >-
+    1955 年获莫斯科经济学院副博士，长期在社科院经济研究所工作，1982–1993 年任中国社会科学院副院长，十二届、十三届中央候补委员。
+    2005 年他批评经济学教学中“马克思主义经济学的指导地位被削弱和被边缘化”，称“新自由主义经济学的核心理论是我们所不能接受的”，引发第三次改革争论。
+  positions:
+    - { title: 中国科学院经济研究所所长、《经济研究》主编, sys: other, cite: c11-pishu-liu-guoguang }
+    - { title: 国家统计局副局长（兼）, sys: gov, from: 1981, to: 1982, cite: c11-pishu-liu-guoguang }
+    - { title: 中国社会科学院副院长, sys: gov, from: 1982, to: 1993-11, cite: c11-pishu-liu-guoguang }
+    - { title: 中共第十二届、十三届中央委员会候补委员, sys: party, from: 1982, to: 1992, cite: c11-pishu-liu-guoguang }
+    - { title: 第八届全国人大常委会委员, sys: gov, from: 1993, to: 1998-03, cite: c11-pishu-liu-guoguang }
+    - { title: 中国社会科学院学部委员, sys: other, from: 2006-07, cite: c11-pishu-liu-guoguang }
+  cites: [wd-Q65060898, c11-pishu-liu-guoguang, c11-wiki-liu-guoguang, i08-xinfajia-2005-liu-guoguang]
+
+- id: xiang-biao
+  name: 项飙
+  pinyin: Xiàng Biāo
+  aka: [项飚, 项曙飚]
+  gender: m
+  born: 1972
+  birthplace: 浙江温州
+  education:
+    - { school: 北京大学社会学系, degree: 硕士, to: 1998 }
+    - { school: 牛津大学, degree: 社会人类学博士, to: 2003 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 人类学家，德国马克斯-普朗克社会人类学研究所所长，“内卷”“悬浮”等讨论的提出者
+  ids: { wikidata: Q137153292 }
+  bio: >-
+    北大社会学硕士论文研究北京“浙江村”，2003 年获牛津大学社会人类学博士，后任牛津大学教授，现任德国马克斯-普朗克社会人类学研究所所长。
+    2020 年他说“现在内卷的一个很重要的机制，就是没有退出的机制”；次年 BBC 引述他称“躺平”是对内卷的反抗，“这是一个好事”。他自称倾向社会主义，但主张以自由主义方式发展。
+  positions:
+    - { title: 牛津大学社会人类学讲师、教授, sys: other, cite: c11-mpg-xiang-biao-cv }
+    - { title: 马克斯-普朗克社会人类学研究所所长, sys: other, place: 德国哈勒, cite: c11-zju-2026-04-07-xiang-biao }
+  cites: [wd-Q137153292, c11-wiki-xiang-biao, c11-zju-2026-04-07-xiang-biao, c11-mpg-xiang-biao-cv, i08-thepaper-2020-10-22-xiang-biao, e04-bbc-2021-06-01-tangping]
+
+- id: hao-shiyuan
+  name: 郝时远
+  pinyin: Hǎo Shíyuǎn
+  gender: m
+  ethnicity: 蒙古族
+  born: 1952-08
+  birthplace: 内蒙古武川
+  joinedParty: 1973-08
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 民族问题学者，中国社会科学院学部主席团原秘书长，“第二代民族政策”的主要批评者
+  ids: { wikidata: Q16907516 }
+  bio: >-
+    蒙古族，元史研究生出身，1982 年进入社科院民族研究所，后任社科院副秘书长、学部主席团秘书长、第十一届全国政协委员。
+    2012 年他撰文反驳胡鞍钢、胡联合，称以“苏联模式”套用中国民族区域自治而主张“去政治化”，“是一个违背事实的伪命题”。妻子是外交部原副部长傅莹。
+  positions:
+    - { title: 中国社会科学院民族研究所研究人员, sys: other, from: 1982, cite: c11-wiki-hao-shiyuan }
+    - { title: 中国社会科学院办公厅主任, sys: other, cite: c11-wiki-hao-shiyuan }
+    - { title: 中国社会科学院副秘书长、学部主席团秘书长, sys: other, cite: c11-wiki-hao-shiyuan }
+    - { title: 第十一届全国政协委员、民族和宗教委员会委员, sys: other, from: 2008, to: 2013, cite: c11-wiki-hao-shiyuan }
+  cites: [wd-Q16907516, c11-wiki-hao-shiyuan, i08-tibetcn-2012-02-06-hao-shiyuan]
+
+- id: yao-zhongqiu
+  name: 姚中秋
+  pinyin: Yáo Zhōngqiū
+  aka: [秋风]
+  gender: m
+  born: 1966
+  birthplace: 陕西
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学国际关系学院教授，笔名秋风，“儒家宪政”的提出者
+  bio: >-
+    笔名秋风，译有《哈耶克传》、主持编译《奥地利学派译丛》，蒋庆曾把“秋风”归入支持读经的自由主义一方；此后他转向儒学，著有《儒家宪政主义传统》《华夏治理秩序史》。
+    他说提出“儒家宪政”是呼吁“有一个宪政的文明自觉、有一个社会治理模式的文明自觉”。
+  positions:
+    - { title: 北京航空航天大学高等研究院教授, sys: other, cite: i03-rujiazg-2015-11-03-yao-zhongqiu }
+    - { title: 山东大学儒学高等研究院教授, sys: other, cite: i03-rujiazg-2015-11-03-yao-zhongqiu }
+    - { title: 中国人民大学国际关系学院教授, sys: other, cite: i03-rujiazg-2015-11-03-yao-zhongqiu }
+  cites: [i03-rujiazg-2015-11-03-yao-zhongqiu, i09-rujiazg-jiang-qing]
+
+# --- CS3 军队、军工 ---
+- id: luo-qi
+  name: 罗琦
+  pinyin: Luó Qí
+  gender: m
+  ethnicity: 汉族
+  born: 1967-10
+  birthplace: 四川富顺
+  joinedParty: 1993-02
+  roles: [tiger]
+  status: missing
+  statusNote: 2026 年 1 月以“涉嫌违纪违法”被罢免全国人大代表，人大常委会委员职务相应撤销，次月名字从中国工程院院士名单删除；官方未公布立案或处分。
+  fall:
+    - { date: 2026-01-25, text: 山东省人大常委会以其涉嫌违纪违法罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2026-02-04, text: 全国人大常委会公告其代表资格终止，人大常委会委员、教科文卫委员会委员职务相应撤销, cite: c11-wiki-luo-qi }
+    - { date: 2026-02-05, text: 名字从中国工程院院士名单删除, cite: c11-wiki-luo-qi }
+  tier: 2
+  headline: 中核集团原总工程师、中国工程院院士，2026 年被罢免全国人大代表
+  ids: { wikidata: Q84308472 }
+  bio: >-
+    核动力专家，长期在中国核动力研究设计院工作，2019 年当选中国工程院院士，2022 年任中核集团总工程师，并任十四届全国人大常委会委员。
+    2026 年 1 月 25 日山东省人大常委会以他涉嫌违纪违法罢免其全国人大代表职务，联合早报称他此前已缺席重要场合或不明原因去职。
+  positions:
+    - { title: 中国核动力研究设计院副院长, sys: other, from: 2003-05, cite: c11-wiki-luo-qi }
+    - { title: 中国核动力研究设计院院长（主持行政工作）, sys: other, from: 2008-09, cite: c11-wiki-luo-qi }
+    - { title: 中国原子能科学研究院党委书记, sys: other, from: 2020-03, cite: c11-wiki-luo-qi }
+    - { title: 中国核工业集团有限公司总工程师, sys: other, from: 2022, cite: c11-wiki-luo-qi }
+    - { title: 十四届全国人大常委会委员、教育科学文化卫生委员会委员, sys: gov, from: 2023-03, to: 2026-01, cite: a02-wikisource-npc-qualification-reports }
+  cites: [wd-Q84308472, c11-wiki-luo-qi, a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+
+- id: wang-xiaojun
+  name: 王小军
+  pinyin: Wáng Xiǎojūn
+  gender: m
+  ethnicity: 汉族
+  born: 1969-04
+  roles: [tiger]
+  status: missing
+  statusNote: 2024 年 1 月被撤销全国政协委员资格，未说明原因；此后本站未查到其公开露面，也没有立案或处分通报。
+  fall:
+    - { date: 2024-01-29, text: 全国政协第十三次主席会议审议通过撤销其政协委员资格的决定, cite: c11-people-2024-01-30-cppcc-wang-xiaojun }
+    - { date: 2024-03-02, text: 全国政协常委会第五次会议追认撤销吴燕生、刘石泉、王长青、王小军委员资格的决定, cite: c11-cppcc-2024-03-02-ratify }
+  tier: 2
+  headline: 中国运载火箭技术研究院原院长，2024 年被撤销全国政协委员资格
+  ids: { wikidata: Q117746903 }
+  bio: >-
+    航天科技集团下属中国运载火箭技术研究院原院长兼党委副书记、十四届全国政协委员。
+    2024 年 1 月 29 日全国政协主席会议决定撤销他的委员资格，3 月 2 日常委会追认，未说明原因；此前院长一职已由集团总经理张忠阳兼任。
+  positions:
+    - { title: 中国运载火箭技术研究院院长、党委副书记, sys: other, cite: c11-wiki-wang-xiaojun }
+    - { title: 第十四届全国政协委员, sys: other, from: 2023-03, to: 2024-01, cite: c11-people-2024-01-30-cppcc-wang-xiaojun }
+  cites: [wd-Q117746903, c11-wiki-wang-xiaojun, c11-people-2024-01-30-cppcc-wang-xiaojun, c11-cppcc-2024-03-02-ratify, k06-rfa-2024-04-15-yuan-jie]
+
+- id: chen-guoying
+  name: 陈国瑛
+  pinyin: Chén Guóyīng
+  gender: m
+  ethnicity: 汉族
+  born: 1968-11
+  birthplace: 上海
+  joinedParty: 2002-08
+  joinedWork: 1998-04
+  education:
+    - { school: 清华大学工程物理专业, degree: 本科 }
+    - { school: 中国航天工业总公司第二研究院, degree: 工学博士 }
+  roles: [tiger]
+  status: missing
+  statusNote: 2024 年 4 月兵器装备集团总经理职务被替换，官方没有说明他是被免职还是撤职，也未公布去向或立案；自由亚洲电台专栏把他列为火箭军窝案的同案犯，这是评论者的推断。
+  tier: 2
+  headline: 中国兵器装备集团原总经理，2024 年被不明原因替换
+  bio: >-
+    航天专家出身，长期在航天科工二院工作，曾任北京仿真中心主任，2018 年 5 月任航天科工集团副总经理，后任集团董事、党组副书记，2022 年 2 月调任中国兵器装备集团总经理。
+    2024 年 4 月他与航天科工董事长袁洁的职务同日被替换，官方没有说明原因和去向。
+  positions:
+    - { title: 中国航天科工集团第二研究院副院长、总研究师, sys: other, cite: c11-people-2018-05-22-chen-guoying }
+    - { title: 中国航天科工集团有限公司副总经理、党组成员, sys: other, from: 2018-05, cite: c11-people-2018-05-22-chen-guoying }
+    - { title: 中国航天科工集团有限公司董事、党组副书记, sys: other, to: 2022-02, cite: c11-bjnews-2022-03-01-chen-guoying }
+    - { title: 中国兵器装备集团有限公司董事、总经理、党组副书记, sys: other, from: 2022-02, to: 2024-04, cite: k06-rfa-2024-04-15-yuan-jie }
+  cites: [c11-people-2018-05-22-chen-guoying, c11-bjnews-2022-03-01-chen-guoying, k06-rfa-2024-04-15-yuan-jie]
+
+- id: chen-ximing-casic
+  name: 陈锡明
+  pinyin: Chén Xīmíng
+  gender: m
+  ethnicity: 汉族
+  born: 1970-07
+  roles: [biz]
+  status: active
+  tier: 2
+  headline: 中国航天科工集团董事长、党组书记，2024 年接替袁洁
+  ids: { wikidata: Q117746932 }
+  bio: >-
+    曾任中国电子科技集团董事、总经理、党组副书记，2024 年 4 月 12 日由中组部宣布出任中国航天科工集团董事长、党组书记，接替已数月未露面的袁洁；
+    自由亚洲电台注意到，当时的消息只字未提袁洁。他也是第十四届全国政协委员。
+  positions:
+    - { title: 中国电子科技集团有限公司董事、总经理、党组副书记, sys: other, to: 2024-04, cite: c11-wiki-chen-ximing }
+    - { title: 中国航天科工集团有限公司董事长、党组书记, sys: other, from: 2024-04, cite: k06-rfa-2024-04-15-yuan-jie }
+    - { title: 第十四届全国政协委员, sys: other, from: 2023-03, cite: c11-wiki-chen-ximing }
+  cites: [wd-Q117746932, c11-wiki-chen-ximing, k06-rfa-2024-04-15-yuan-jie]
+
+- id: liu-weidong-csgc
+  name: 刘卫东
+  pinyin: Liú Wèidōng
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2026 年 4 月 14 日被南阳市中级人民法院以受贿罪一审判处有期徒刑十三年，并处罚金四百万元。
+  fall:
+    - { date: 2025-02-12, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: c11-xinhua-2025-02-12-liu-weidong }
+    - { date: 2025-07-31, text: 被开除党籍、开除公职，涉嫌受贿犯罪问题移送检察机关, cite: c11-xinhua-2025-07-31-liu-weidong }
+    - { date: 2025-11-26, text: 最高检通报南阳市人民检察院已以涉嫌受贿罪提起公诉, cite: c11-xinhua-2025-11-26-liu-weidong }
+    - { date: 2026-01-16, text: 南阳市中级人民法院公开开庭审理，当庭表示认罪悔罪, cite: c11-court-2026-04-14-liu-weidong }
+    - { date: 2026-04-14, text: 以受贿罪一审判处有期徒刑十三年，并处罚金人民币四百万元, cite: c11-court-2026-04-14-liu-weidong }
+  tier: 2
+  headline: 中国兵器装备集团原副总经理、长安汽车原董事长，2026 年因受贿被判十三年
+  bio: >-
+    汽车业出身，历任神龙汽车总经理、东风汽车集团副总经理，后任中国兵器装备集团党组成员、副总经理兼中国长安汽车集团董事长。
+    2025 年 2 月被审查调查，7 月被开除党籍和公职，通报称他“对抗组织审查”“靠企吃企”；2026 年 4 月法院认定他受贿 4139 万余元，判处有期徒刑十三年。
+  positions:
+    - { title: 襄樊东风汽车电气有限责任公司总经理, sys: other, cite: c11-court-2026-04-14-liu-weidong }
+    - { title: 神龙汽车有限公司党委委员、总经理, sys: other, cite: c11-court-2026-04-14-liu-weidong }
+    - { title: 东风汽车集团有限公司党委常委、副总经理, sys: other, cite: c11-court-2026-04-14-liu-weidong }
+    - { title: 东风汽车集团股份有限公司乘用车公司总经理, sys: other, cite: c11-court-2026-04-14-liu-weidong }
+    - { title: 中国兵器装备集团有限公司党组成员、副总经理, sys: other, to: 2025-02, cite: c11-xinhua-2025-02-12-liu-weidong }
+    - { title: 中国长安汽车集团股份有限公司董事长, sys: other, cite: c11-court-2026-04-14-liu-weidong }
+  cites: [c11-xinhua-2025-02-12-liu-weidong, c11-xinhua-2025-07-31-liu-weidong, c11-xinhua-2025-11-26-liu-weidong, c11-court-2026-04-14-liu-weidong]
+
+- id: wang-shouye
+  name: 王守业
+  pinyin: Wáng Shǒuyè
+  gender: m
+  born: 1943-03
+  birthplace: 河南叶县
+  education:
+    - { school: 天津大学土木建筑工程系, to: 1967 }
+  roles: [tiger, general]
+  status: detained
+  statusNote: 2006 年 12 月 14 日贪污、挪用公款案二审被判处无期徒刑；一审判决的时间各方记载不一（见案件记录）。
+  fall:
+    - { date: 2005-12-23, text: 在海军司令部例会上被中央军委纪委“双规”, cite: c11-wiki-wang-shouye }
+    - { date: 2006-06-29, text: 新华社公布其因涉嫌严重违纪违法已被免去海军副司令员职务，全国人大常委会公告其代表资格终止, cite: c11-bbc-2006-06-29-wang-shouye }
+    - { date: 2006-12-14, text: 贪污、挪用公款案在北京作出判决，被判处无期徒刑, cite: c11-ifeng-2006-12-22-wang-shouye }
+  tier: 2
+  headline: 原海军副司令员、中将，总后基建营房部原部长，2006 年被判无期徒刑
+  ids: { wikidata: Q8318842 }
+  bio: >-
+    天津大学毕业后入伍，长期在总后勤部基建营房部工作，1996–2001 年任部长，2001 年 8 月任海军副司令员，次年晋中将。
+    2006 年 6 月新华社公布他因“道德败坏”“利用职权索贿、受贿”被免职，BBC 转述称他被情妇告发；军事法院认定他贪污、挪用公款 1.6 亿元，同年 12 月被判无期徒刑。
+  positions:
+    - { title: 解放军总后勤部基建营房部营房管理局局长, sys: army, from: 1989-09, cite: c11-wiki-wang-shouye }
+    - { title: 解放军总后勤部基建营房部副部长, sys: army, from: 1993-07, cite: c11-wiki-wang-shouye }
+    - { title: 解放军总后勤部基建营房部部长、全军房改领导小组办公室主任, sys: army, from: 1996-01, to: 2001-07, cite: c11-wiki-wang-shouye }
+    - { title: 解放军海军副司令员, sys: army, from: 2001-08, to: 2006, cite: c11-wiki-wang-shouye }
+  cites: [wd-Q8318842, c11-wiki-wang-shouye, c11-bbc-2006-06-29-wang-shouye, c11-ifeng-2006-12-22-wang-shouye, f09-hqrw-2015-01-26-army-tigers, b13-caixin-2014-01-14-gu-tiger]
+
+- id: ma-faxiang
+  name: 马发祥
+  pinyin: Mǎ Fāxiáng
+  gender: m
+  born: 1953-06
+  died: 2014-11-13
+  birthplace: 陕西大荔
+  roles: [general]
+  status: dead
+  statusNote: 《人民海军》报称他 2014 年 11 月 13 日在北京因病逝世；另说：美国之音引述南华早报称他在海军大院跳楼身亡，官方从未确认。
+  tier: 2
+  headline: 原海军副政委、中将，2014 年去世，官方称病逝，港媒称跳楼
+  ids: { wikidata: Q8319502 }
+  bio: >-
+    曾任海军装备研究院政委、海军政治部主任，2013 年 7 月升任海军副政委。《人民海军》报称他 2014 年 11 月 13 日在北京“因病不幸逝世”，海军司令员吴胜利出席告别仪式。
+    另说：美国之音引述南华早报称他跳楼自杀，此前曾被军纪委约谈、疑与贪腐有关。
+  positions:
+    - { title: 海军报社政工处处长, sys: army, cite: c11-voa-2014-11-18-ma-faxiang }
+    - { title: 海军装备研究院政治委员, sys: army, from: 2004-07, cite: c11-voa-2014-11-18-ma-faxiang }
+    - { title: 海军政治部主任, sys: army, from: 2011, cite: c11-voa-2014-11-18-ma-faxiang }
+    - { title: 海军副政治委员, sys: army, from: 2013-07, to: 2014-11, cite: c11-voa-2014-11-18-ma-faxiang }
+  cites: [wd-Q8319502, c11-caixin-2014-12-05-ma-faxiang, c11-voa-2014-11-18-ma-faxiang, a01-wiki-ma-faxiang]
+
+- id: wu-qian
+  name: 吴谦
+  pinyin: Wú Qiān
+  gender: m
+  born: 1973
+  birthplace: 北京
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 解放军少将，2015–2025 年任国防部新闻发言人，现任驻埃及使馆武官
+  ids: { wikidata: Q30946013 }
+  bio: >-
+    解放军国际关系学院毕业，曾任驻美国使馆副武官，2015 年起任国防部新闻发言人，2017 年任国防部新闻局局长，2025 年 5 月卸任，现任驻埃及使馆武官。
+    2024 年 11 月他宣布苗华停职检查；2025 年 3 月被问及何卫东是否被查，他说“没有这方面的消息，不了解这方面的情况”。
+  positions:
+    - { title: 中国驻美国大使馆国防副武官, sys: army, cite: c11-wiki-wu-qian }
+    - { title: 国防部新闻事务局（新闻局）副局长、新闻发言人, sys: army, from: 2015-06, to: 2017-08, cite: c11-wiki-wu-qian }
+    - { title: 国防部新闻局局长、新闻发言人, sys: army, from: 2017-08, to: 2025-05, cite: c11-wiki-wu-qian }
+    - { title: 中国驻埃及大使馆武官, sys: army, cite: c11-wiki-wu-qian }
+  cites: [wd-Q30946013, c11-wiki-wu-qian, e06-rfi-2025-03-27-he-weidong, b13-voa-2018-01-25-fan-rumor]
+
+- id: jiang-bin
+  name: 蒋斌
+  pinyin: Jiǎng Bīn
+  gender: m
+  born: 1982
+  birthplace: 四川
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 国防部新闻局副局长兼新闻发言人，大校
+  ids: { wikidata: Q134507299 }
+  bio: >-
+    解放军外国语学院毕业，历任翻译、参谋、国防部国际军事合作办公室翻译室主任，2024 年 6 月任国防部新闻局副局长，2025 年 5 月起任国防部新闻发言人。
+    2026 年 1 月外媒报道张又侠涉嫌泄露核武器资料，他回应要以官方发布的信息为准，“不要妄加揣测”。
+  positions:
+    - { title: 国防部国际军事合作办公室翻译室主任, sys: army, cite: c11-wiki-jiang-bin }
+    - { title: 国防部新闻局副局长, sys: army, from: 2024-06, cite: c11-wiki-jiang-bin }
+    - { title: 国防部新闻发言人, sys: army, from: 2025-05, cite: c11-wiki-jiang-bin }
+  cites: [wd-Q134507299, c11-wiki-jiang-bin, c10-zaobao-2026-01-29-zhang-denial]
+
+- id: kong-jun
+  name: 孔军
+  pinyin: Kǒng Jūn
+  gender: m
+  born: 1964-07
+  birthplace: 江苏邗江
+  roles: [general]
+  status: missing
+  statusNote: 美国智库 CSIS 认为他到 2025 年 1 月下旬很可能已被清洗；官方没有公布任何罢免、立案或去向说明。
+  tier: 2
+  headline: 东部战区陆军原司令员、中将，2025 年起被认为已遭清洗
+  ids: { wikidata: Q55696222 }
+  bio: >-
+    长期服役于原南京军区，曾任某装甲旅旅长、第 12 集团军参谋长，2017 年任海军陆战队司令员，2021 年任北部战区副司令员，同年 12 月调任东部战区陆军司令员，是十三届全国人大代表。
+    CSIS 2026 年的分析称，到 2025 年 1 月下旬他很可能已被清洗，官方从未说明。
+  positions:
+    - { title: 第 12 集团军参谋长, sys: army, from: 2016-01, to: 2017-04, cite: c11-wiki-kong-jun }
+    - { title: 海军陆战队司令员, sys: army, from: 2017-04, to: 2021-03, cite: c11-wiki-kong-jun }
+    - { title: 北部战区副司令员, sys: army, from: 2021-03, to: 2021-12, cite: c11-wiki-kong-jun }
+    - { title: 东部战区陆军司令员, sys: army, from: 2021-12, cite: c11-guancha-2021-12-31-kong-jun }
+  cites: [wd-Q55696222, c11-wiki-kong-jun, c11-guancha-2021-12-31-kong-jun, b08-csis-2026-02-purges]
+
+- id: wang-zhongcai
+  name: 王仲才
+  pinyin: Wáng Zhòngcái
+  gender: m
+  born: 1963-11
+  birthplace: 河北蠡县
+  roles: [general]
+  status: missing
+  statusNote: 美国智库 CSIS 认为他可能在 2025 年 3 月前后被清洗；官方没有公布任何罢免、立案或去向说明。
+  tier: 2
+  headline: 东部战区副司令员兼战区海军司令员、海军中将，2025 年起疑遭清洗
+  ids: { wikidata: Q47688508 }
+  bio: >-
+    舰艇指挥出身，曾任杭州号导弹驱逐舰舰长、东海舰队副参谋长，2018 年任中国海警局局长，2022 年 6 月升任东部战区副司令员兼战区海军司令员、晋升海军中将。
+    CSIS 2026 年的分析称，他可能在 2025 年 3 月东部战区司令员林向阳被拘前后一并被清洗，官方从未说明。
+  positions:
+    - { title: 杭州号导弹驱逐舰舰长, sys: army, cite: c11-wiki-wang-zhongcai }
+    - { title: 东海舰队厦门水警区司令员, sys: army, from: 2013, cite: c11-wiki-wang-zhongcai }
+    - { title: 海军东海舰队副参谋长, sys: army, from: 2016, cite: c11-wiki-wang-zhongcai }
+    - { title: 武警海警总队司令员（中国海警局局长）, sys: army, from: 2018, cite: c11-wiki-wang-zhongcai }
+    - { title: 东部战区副司令员兼东部战区海军司令员, sys: army, from: 2022-06, cite: c11-wiki-wang-zhongcai }
+  cites: [wd-Q47688508, c11-wiki-wang-zhongcai, b08-csis-2026-02-purges]
+
+- id: zheng-xuan
+  name: 郑璇
+  pinyin: Zhèng Xuán
+  gender: m
+  born: 1964-11
+  birthplace: 福建闽侯
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 北部战区政治委员、上将
+  ids: { wikidata: Q30943917 }
+  bio: >-
+    曾任第 13 集团军政委、中部战区副政委兼政治工作部主任、北部战区副政委兼战区陆军政委，2023 年 6 月任北部战区政委并晋升上将。
+    2025 年 8 月 1 日辽宁八一座谈会的报道只见他出席，“未提北部战区司令员黄铭”，被联合早报视为黄铭缺席的信号。
+  positions:
+    - { title: 陆军第十三集团军政治委员, sys: army, from: 2013, cite: c11-wiki-zheng-xuan }
+    - { title: 中部战区副政治委员兼政治工作部主任, sys: army, from: 2017-01, cite: c11-wiki-zheng-xuan }
+    - { title: 北部战区副政治委员、战区陆军政治委员, sys: army, from: 2020-12, to: 2023-06, cite: c11-wiki-zheng-xuan }
+    - { title: 北部战区政治委员, sys: army, from: 2023-06, cite: c11-caixin-2023-06-28-zheng-xuan }
+  cites: [wd-Q30943917, c11-wiki-zheng-xuan, c11-caixin-2023-06-28-zheng-xuan, cs3-zaobao-2025-08-04-bayi-absent]
+
+- id: zhang-shaoying
+  name: 张韶颖
+  pinyin: Zhāng Sháoyǐng
+  gender: m
+  roles: [general]
+  status: active
+  tier: 2
+  headline: 西部战区副政治委员兼政治工作部主任、中将
+  bio: >-
+    2019 年 6 月由大校晋升少将，后任西部战区副政治委员兼政治工作部主任、中将。
+    2026 年 2 月四川军地迎春座谈会上，他作为驻川部队领导出席，而西部战区政委李凤彪缺席；3 月全国人大解放军代表团全体会议上，他是坐在内圈的四名中将之一。
+  positions:
+    - { title: 西部战区副政治委员兼政治工作部主任, sys: army, cite: c11-scol-2026-02-12-sichuan-army }
+  cites: [c11-thepaper-2019-06-25-rocket-ranks, c11-scol-2026-02-12-sichuan-army, c11-zaobao-2026-03-08-pla-delegation]
+
+# --- I09 ---
+- id: daniel-bell
+  name: 贝淡宁
+  pinyin: Bèi Dànníng
+  aka: [Daniel A. Bell]
+  gender: m
+  born: 1964-05-22
+  birthplace: 加拿大
+  education:
+    - { school: 麦吉尔大学, degree: 文学学士, to: 1985 }
+    - { school: 牛津大学, degree: 哲学博士, to: 1991 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 加拿大政治哲学家，香港大学法学院政治理论讲座教授，“贤能政治”论者
+  ids: { wikidata: Q19818637 }
+  bio: >-
+    牛津大学哲学博士，曾任清华大学哲学系与苏世民书院教授，2017–2022 年任山东大学政治学与公共管理学院院长，现为香港大学法学院政治理论讲座教授。
+    他以“贤能政治”研究著称，著有《中国新儒家》《超越自由民主》等，2012 年与蒋庆在纽约时报合写《中国的儒学宪政》；对“洋五毛”的指责，他说自己是用中国的历史文化和主流价值观评价中国。
+  positions:
+    - { title: 清华大学哲学系、苏世民书院教授, sys: other, cite: c11-wiki-daniel-bell }
+    - { title: 美国伯格鲁恩哲学与文化研究院主任, sys: other, cite: c11-wiki-daniel-bell }
+    - { title: 山东大学政治学与公共管理学院院长, sys: other, place: 山东, from: 2017-01, to: 2022, cite: c11-wiki-daniel-bell }
+    - { title: 香港大学法律学院政治理论讲座教授, sys: other, place: 香港, from: 2022, cite: c11-wiki-daniel-bell }
+  cites: [wd-Q19818637, c11-wiki-daniel-bell, i03-voa-2012-07-13-jiang-qing]
+
+- id: kang-xiaoguang
+  name: 康晓光
+  pinyin: Kāng Xiǎoguāng
+  gender: m
+  born: 1963
+  birthplace: 辽宁沈阳
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学公共管理学院教授，大陆新儒家代表人物，“仁政”与“儒化”的倡导者
+  ids: { wikidata: Q113794326 }
+  bio: >-
+    应用数学出身，中国人民大学公共管理学院教授，研究非营利组织与国家—社会关系，被视为大陆新儒家的代表人物之一，提出“现代仁政”与“文化民族主义”。
+    他认为西方式民主对中国“作为工具是没用的，作为价值是不好的”，主张以儒学取代马列主义，称“仁政就是儒士共同体专政”。
+  positions:
+    - { title: 中国人民大学公共管理学院教授, sys: other, cite: c11-wiki-kang-xiaoguang }
+  cites: [wd-Q113794326, c11-wiki-kang-xiaoguang, c11-aisixiang-kang-xiaoguang-ruhua, i09-thepaper-2015-new-confucians]
+
+# --- I08 其余 ---
+- id: zhou-ruijin
+  name: 周瑞金
+  pinyin: Zhōu Ruìjīn
+  aka: [皇甫平]
+  gender: m
+  born: 1939-10
+  birthplace: 浙江平阳
+  roles: [media]
+  status: retired
+  tier: 2
+  headline: 《人民日报》原副总编辑，1991 年以“皇甫平”笔名主持改革评论
+  ids: { wikidata: Q141028523 }
+  bio: >-
+    复旦大学新闻系毕业，长期在上海《解放日报》任评论员、副总编辑、党委书记。1991 年他以“皇甫平”笔名主持撰写四篇评论，
+    称“计划和市场只是资源配置的两种手段和形式，而不是划分社会主义与资本主义的标志”，引发“姓社姓资”之争；1993 年调任《人民日报》副总编辑，2006 年再以“皇甫平”名义发表《改革不可动摇》。
+  positions:
+    - { title: 《解放日报》评论部主任、副总编辑、党委书记, sys: other, place: 上海, cite: c11-wiki-zhou-ruijin }
+    - { title: 中共上海市第六届委员会委员, sys: party, place: 上海, from: 1992, cite: c11-wiki-zhou-ruijin }
+    - { title: 《人民日报》副总编辑兼华东分社社长, sys: other, from: 1993, cite: c11-wiki-zhou-ruijin }
+  cites: [wd-Q141028523, c11-wiki-zhou-ruijin, i08-hbu-1991-03-02-huangfu-ping, i08-reformdata-2006-03-16-third-debate, c11-xinmin-2025-09-23-zhou-ruijin]
+
+- id: feng-yuzhang
+  name: 冯虞章
+  pinyin: Féng Yúzhāng
+  gender: m
+  roles: [scholar]
+  status: retired
+  tier: 2
+  headline: 清华大学哲学系退休教授，2008 年撰文否认存在“普世价值”
+  bio: >-
+    清华大学人文学院哲学系退休教授、中国社会科学院马克思主义研究院特聘研究员，曾任中央党校《理论月刊》编辑部副主任。
+    2008 年 9 月他在人民日报撰文，认为价值观和道德观一样具有历史性和阶级性，超历史、超阶级的“普世价值”并不存在，“一般民主”“普世民主”是资本主义辩护士的策略。
+  positions:
+    - { title: 中央党校《理论月刊》编辑部副主任, sys: party, cite: c11-tsinghua-2021-feng-yuzhang }
+    - { title: 清华大学人文学院哲学系教授, sys: other, cite: c11-tsinghua-2021-feng-yuzhang }
+    - { title: 中国社会科学院马克思主义研究院特聘研究员, sys: other, cite: c11-tsinghua-2021-feng-yuzhang }
+  cites: [c11-tsinghua-2021-feng-yuzhang, i08-npc-2008-09-10-feng-yuzhang]
+
+- id: yang-xiaoqing
+  name: 杨晓青
+  pinyin: Yáng Xiǎoqīng
+  gender: f
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学法学院教授，2013 年撰文称宪政属于资本主义
+  ids: { wikidata: Q15917170 }
+  bio: >-
+    1979 年考入中国人民大学法律系，毕业留校任教，2005 年获法学博士，任人大法学院教授、法理教研室副主任。
+    2013 年 5 月她在《红旗文稿》发表《宪政与人民民主制度之比较研究》，称“宪政的关键性制度元素和理念只属于资本主义和资产阶级专政”，引发宪政之争，人大主办的中国宪政网随即刊文反驳。
+  positions:
+    - { title: 中国人民大学法学院教授、法理教研室副主任, sys: other, cite: c11-wiki-yang-xiaoqing }
+    - { title: 北京市法理学研究会常务理事, sys: other, cite: c11-wiki-yang-xiaoqing }
+  cites: [wd-Q15917170, c11-wiki-yang-xiaoqing, i08-people-2013-05-22-yang-xiaoqing, i03-bbc-2013-05-23-scholars-constitutionalism]
+
+- id: xu-xiaonian
+  name: 许小年
+  pinyin: Xǔ Xiǎonián
+  gender: m
+  born: 1953-03-27
+  birthplace: 安徽合肥
+  education:
+    - { school: 中国人民大学, degree: 产业经济学硕士, to: 1981 }
+    - { school: 加利福尼亚大学戴维斯分校, degree: 经济学博士, to: 1991 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中欧国际工商学院经济学和金融学教授，“国进民退”的批评者
+  ids: { wikidata: Q4744692 }
+  bio: >-
+    1991 年获加州大学戴维斯分校经济学博士，曾在美国 Amherst College 任教，现任中欧国际工商学院经济学和金融学教授，孙冶方经济科学奖获得者。
+    2009 年他公开批评“‘国进民退’与改革开放背道而驰”，称其“会制造社会不公平”；2009 至 2011 年连续被《南方人物周刊》评为公共知识分子。
+  positions:
+    - { title: 美国 Amherst College 助理教授, sys: other, from: 1991, to: 1995, cite: c11-wiki-xu-xiaonian }
+    - { title: 中欧国际工商学院经济学和金融学教授, sys: other, cite: c11-wiki-xu-xiaonian }
+  cites: [wd-Q4744692, c11-wiki-xu-xiaonian, i08-people-2010-03-22-zgjjzk-guojin]
+
+- id: hong-zhenkuai
+  name: 洪振快
+  pinyin: Hóng Zhènkuài
+  gender: m
+  born: 1974-10-28
+  roles: [scholar, media]
+  status: active
+  statusNote: 2016 年因考证“狼牙山五壮士”的文章被判侵害名誉权、荣誉权，须登报道歉；他拒绝道歉，法院强制执行，在《人民法院报》刊登判决书摘要。
+  tier: 2
+  headline: 《炎黄春秋》原执行主编，因“狼牙山五壮士”考证文章被判侵权
+  ids: { wikidata: Q65056203 }
+  bio: >-
+    作家、学者，曾任《炎黄春秋》执行主编，著有《亚财政》《官心民意》。2013 年他撰文考证“狼牙山五壮士”的细节，2016 年被北京西城区法院判决侵害英雄名誉、须公开道歉，二审维持。
+    他说：“这是基本的学术自由，我需要保持作为一名知识分子的尊严。”此案后被最高法列为指导性案例。
+  positions:
+    - { title: 《炎黄春秋》杂志执行主编, sys: other, cite: c11-wiki-hong-zhenkuai }
+  cites: [wd-Q65056203, c11-wiki-hong-zhenkuai, i08-xinhua-2016-06-27-langyashan, i08-nytcn-2016-08-16-hong-zhenkuai]
+
+- id: du-guang
+  name: 杜光
+  pinyin: Dù Guāng
+  gender: m
+  died: 2023-03-12
+  roles: [scholar]
+  status: dead
+  tier: 2
+  headline: 中共中央党校理论研究室原副主任，党内改革派元老，2023 年去世
+  bio: >-
+    1946 年就读北京大学，1958 年在中央党校被划为右派，1979 年回校，历任理论研究室副主任、科研办公室主任，1990 年退休。
+    1988 年他参与筹建中国政治体制改革研究会，六四后研究会被迫停止活动；杨继绳曾引他的话说《炎黄春秋》是反对历史虚无主义的“大本营、重要基地”。2023 年 3 月在北京去世，终年 96 岁。
+  positions:
+    - { title: 中共中央党校理论研究室副主任、科研办公室主任, sys: party, from: 1979, to: 1990, cite: c11-rfa-2023-03-15-du-guang }
+  cites: [c11-rfa-2023-03-15-du-guang, i08-voa-2015-05-21-yanhuang]
+
+- id: yi-fuxian
+  name: 易富贤
+  pinyin: Yì Fùxián
+  gender: m
+  birthplace: 湖南洪江
+  roles: [scholar]
+  status: active
+  statusNote: 维基百科称他因反对计划生育，2016 年在中国网络上被封杀。
+  tier: 2
+  headline: 美国威斯康星大学研究员，《大国空巢》作者，主张彻底取消计划生育
+  ids: { wikidata: Q113006070 }
+  bio: >-
+    人口问题研究者，2002 年起任美国威斯康星大学麦迪逊分校妇产科研究员。2007 年他在香港出版《大国空巢：走入歧途的中国计划生育》，2013 年第二版由中国发展出版社在大陆出版。
+    他主张“中国应该彻底取消计划生育政策”，认为“政府的手不能伸入老百姓的身体中”。
+  positions:
+    - { title: 美国威斯康星大学麦迪逊分校妇产科研究员, sys: other, from: 2002, cite: c11-wiki-yi-fuxian }
+  cites: [wd-Q113006070, c11-wiki-yi-fuxian, i08-nytcn-2013-05-02-yi-fuxian]
+
+- id: zhai-zhenwu
+  name: 翟振武
+  pinyin: Zhái Zhènwǔ
+  gender: m
+  ethnicity: 满族
+  born: 1954-02
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学人口学教授、中国人口学会会长，主张渐进放开二孩
+  ids: { wikidata: Q105718210 }
+  bio: >-
+    中国人民大学人口学系教授、人口与发展研究中心主任，任中国人口学会会长、中国计划生育协会副会长。
+    2013 年“单独二孩”政策出台时，他撰文称“立即全面放开二胎政策不利于人口的长期均衡发展”，认为单独二孩“更加平稳、渐进、可控”，与主张尽快全面放开的学者意见相左。
+  positions:
+    - { title: 中国人民大学人口与发展研究中心主任, sys: other, cite: c11-wiki-zhai-zhenwu }
+    - { title: 中国人口学会会长, sys: other, cite: c11-wiki-zhai-zhenwu }
+    - { title: 中国计划生育协会副会长, sys: other, cite: c11-wiki-zhai-zhenwu }
+  cites: [wd-Q105718210, c11-wiki-zhai-zhenwu, i08-people-2013-12-03-zhai-zhenwu]
+
+- id: gu-baochang
+  name: 顾宝昌
+  pinyin: Gù Bǎochāng
+  gender: m
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 中国人民大学人口与发展研究中心教授，联名建议放开二孩的学者
+  bio: >-
+    人口学者，中国人民大学人口与发展研究中心教授。2004 年与 2009 年他两度与众多学者联名上书中央，建议逐步过渡到每对夫妇生育两个孩子，认为这“不会造成人口失控”。
+    2013 年单独二孩政策出台时，他说“动了总比拖着好”，又说“仅仅放开单独二胎，对改变当前人口现状还不够”。
+  positions:
+    - { title: 中国人民大学人口与发展研究中心教授, sys: other, cite: c11-cyol-2013-12-12-gu-baochang }
+  cites: [c11-cyol-2013-12-12-gu-baochang, c11-thepaper-2016-01-01-two-child, i08-nytcn-2013-05-02-yi-fuxian]
+
+- id: li-junru
+  name: 李君如
+  pinyin: Lǐ Jūnrú
+  gender: m
+  ethnicity: 汉族
+  born: 1947
+  birthplace: 上海
+  origin: 浙江鄞县
+  roles: [scholar]
+  status: retired
+  tier: 2
+  headline: 中共中央党校原副校长，理论家，主张讲“中国特色”而非“中国模式”
+  ids: { wikidata: Q11095691 }
+  bio: >-
+    马克思主义理论家，早年在上海社会科学院工作，后任中宣部理论局副局长、中共中央党史研究室副主任、中共中央党校副校长，2008 年任第十一届全国政协常委。
+    2009 年“中国模式”讨论中，他表示不赞成“中国模式”的提法，主张讲“中国特色”，理由是讲“模式”有定型之嫌，“这既不符合事实，也很危险”。
+  positions:
+    - { title: 中共中央宣传部理论局副局长, sys: party, cite: c11-wiki-li-junru }
+    - { title: 中共中央党史研究室副主任, sys: party, cite: c11-wiki-li-junru }
+    - { title: 中共中央党校副校长, sys: party, cite: c11-wiki-li-junru }
+    - { title: 第十一届全国政协常务委员、社会和法制委员会委员, sys: other, from: 2008, to: 2013, cite: c11-wiki-li-junru }
+  cites: [wd-Q11095691, c11-wiki-li-junru, i08-aisixiang-2009-li-junru-china-model]
+
+- id: li-minghui
+  name: 李明辉
+  pinyin: Lǐ Mínghuī
+  gender: m
+  born: 1953
+  birthplace: 台湾屏东
+  education:
+    - { school: 德国波恩大学, degree: 哲学博士, to: 1986 }
+  roles: [scholar, hkmt]
+  status: active
+  tier: 2
+  headline: 台湾“中研院”中国文哲研究所特聘研究员，新儒家学者，批评“大陆新儒家”
+  bio: >-
+    1986 年获德国波恩大学哲学博士，现为台湾“中研院”中国文哲研究所特聘研究员、台湾大学合聘教授、中山大学长江学者讲座教授，著有《儒家与康德》《儒家视野下的政治思想》等。
+    2015 年他接受澎湃新闻采访，不认同“大陆新儒家”的说法，称那是以蒋庆为中心、包括陈明在内的“一小撮人的自我标榜”。
+  positions:
+    - { title: 台湾“中研院”中国文哲研究所特聘研究员, sys: other, place: 台湾, cite: c11-rujiazg-li-minghui }
+    - { title: 台湾大学国家发展研究所合聘教授, sys: other, place: 台湾, cite: c11-rujiazg-li-minghui }
+    - { title: 中山大学长江学者讲座教授, sys: other, place: 广东, cite: c11-rujiazg-li-minghui }
+  cites: [c11-rujiazg-li-minghui, i08-thepaper-2015-01-24-li-minghui]
+
+- id: zhang-boshu
+  name: 张博树
+  pinyin: Zhāng Bóshù
+  gender: m
+  born: 1955-11-23
+  birthplace: 北京
+  roles: [scholar, dissent]
+  status: active
+  statusNote: 据他本人记述，2009 年 12 月中国社会科学院哲学所以“多次违反工作纪律”、未经批准出境和旷工为由向他宣读限期调离的决定；此后他赴美，现为哥伦比亚大学客座教授。
+  tier: 2
+  headline: 宪政学者，中国社会科学院哲学所原研究人员，现为哥伦比亚大学客座教授
+  ids: { wikidata: Q11066640 }
+  bio: >-
+    中国人民大学经济学学士、中国社会科学院研究生院哲学博士，1991 年起在社科院哲学所马克思主义史研究室工作。
+    他撰文反驳潘维的“选举迷信”论，称“说民主只是权力争夺的手段和游戏，就谬之千里了”；据他本人记述，2009 年底社科院哲学所以违反工作纪律为由要他限期调离，此后他赴美任哥伦比亚大学客座教授。
+  positions:
+    - { title: 中国社会科学院哲学研究所马克思主义史研究室研究人员, sys: other, from: 1991-07, to: 2009-12, cite: c11-mzzg-zhang-boshu-cass }
+    - { title: 美国哥伦比亚大学客座教授, sys: other, cite: c11-wiki-zhang-boshu }
+  cites: [wd-Q11066640, c11-wiki-zhang-boshu, c11-mzzg-zhang-boshu-cass, i08-aisixiang-zhang-boshu-pan-wei]
+
+- id: wu-xiaoping
+  name: 吴小平
+  pinyin: Wú Xiǎopíng
+  gender: m
+  roles: [biz]
+  status: active
+  tier: 2
+  headline: 自称“资深金融人士”，2018 年发文主张私营经济“逐渐离场”
+  bio: >-
+    2018 年 9 月，自称“资深金融人士”的吴小平发表《中国私营经济已完成协助公有经济发展的任务，应逐渐离场》，称私营经济的任务是“协助公有经济实现跨越式发展”，
+    主张发展“更加集中、更加团结、更加规模化的公私混合制经济”。文章在网上引发热议，他对新京报确认文章是他写的，但说很多人“没有读懂”。
+  cites: [i08-ifeng-2018-09-12-wu-xiaoping]
+
+- id: lang-xianping
+  name: 郎咸平
+  pinyin: Láng Xiánpíng
+  gender: m
+  born: 1956-06-21
+  birthplace: 台湾桃园
+  origin: 山东潍坊
+  roles: [scholar, media, hkmt]
+  status: active
+  tier: 2
+  headline: 经济学家、电视评论人，香港中文大学原讲座教授，2004 年“郎顾之争”的发起者
+  ids: { wikidata: Q3218060 }
+  bio: >-
+    曾任香港中文大学财务学讲座教授、世界银行顾问，研究公司治理。2004 年 8 月他在复旦大学演讲，指格林柯尔董事长顾雏军在“国退民进”中侵吞国有资产，呼吁停止管理层收购，引发“郎顾之争”。
+    他主持《财经郎眼》等节目，自称信奉马克思的“科学共产主义”，因此被评论为新左派。
+  positions:
+    - { title: 香港中文大学财务学讲座教授, sys: other, place: 香港, from: 1994, cite: c11-wiki-lang-xianping }
+    - { title: 上海电视台《财经郎闲评》主讲, sys: other, place: 上海, from: 2004-08, to: 2006, cite: c11-wiki-lang-xianping }
+    - { title: 广东卫视《财经郎眼》主讲, sys: other, from: 2009-06, cite: c11-wiki-lang-xianping }
+  cites: [wd-Q3218060, c11-wiki-lang-xianping, e07-people-2014-05-04-langgu]
+
+- id: gu-chujun
+  name: 顾雏军
+  pinyin: Gù Chújūn
+  gender: m
+  born: 1959-05-05
+  birthplace: 江苏泰县
+  roles: [biz]
+  status: active
+  statusNote: 2008 年被判有期徒刑十年，2012 年提前出狱；2019 年最高人民法院再审撤销虚报注册资本等两项罪名，挪用资金罪改判五年，此后获国家赔偿。
+  tier: 2
+  headline: 格林柯尔创始人、科龙电器原董事长，2019 年再审获部分改判
+  ids: { wikidata: Q1552540 }
+  bio: >-
+    热能工程出身，发明格林柯尔制冷剂，2001 年收购科龙电器并任董事长。2004 年郎咸平指他在“国退民进”中侵吞国有资产，他起诉郎咸平诽谤。
+    2005 年他被刑事拘留，2008 年被判有期徒刑十年，出狱后坚称无罪；2019 年最高人民法院再审撤销两项罪名，挪用资金罪改判五年。
+  positions:
+    - { title: 格林柯尔公司创始人, sys: other, cite: c11-wiki-gu-chujun }
+    - { title: 科龙电器董事长, sys: other, from: 2001-10, to: 2005-08, cite: c11-wiki-gu-chujun }
+  cites: [wd-Q1552540, c11-wiki-gu-chujun, e07-people-2014-05-04-langgu]
+
+- id: zhou-xiaoping
+  name: 周小平
+  pinyin: Zhōu Xiǎopíng
+  aka: [周平, 水木周平]
+  gender: m
+  ethnicity: 汉族
+  born: 1981-04-24
+  birthplace: 四川自贡
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 网络作家，十四届全国政协委员，2014 年在文艺工作座谈会上受习近平点名
+  ids: { wikidata: Q18415704 }
+  bio: >-
+    本名周平，网络作家、评论员。2013 年他在环球时报撰文，称这个时代的使命是“为我们这个饱受了百年污蔑的民族和国家正本清源”。
+    2014 年 10 月他与花千芳出席文艺工作座谈会，习近平对两人说“希望你们创作更多具有正能量的作品”；2015 年任四川省网络作协主席，2018 年鲁炜被双开后辞职，现为十四届全国政协委员。
+  positions:
+    - { title: 四川省网络作家协会主席, sys: other, place: 四川, from: 2015-06, to: 2018-03, cite: c11-wiki-zhou-xiaoping }
+    - { title: 天津市河西区政协常委, sys: other, place: 天津, cite: c11-wiki-zhou-xiaoping }
+    - { title: 第十四届全国政协委员, sys: other, from: 2023-03, cite: c11-wiki-zhou-xiaoping }
+  cites: [wd-Q18415704, c11-wiki-zhou-xiaoping, i08-people-2013-06-21-zhou-xiaoping, e08-thepaper-2014-10-15-arts-forum]
+
+- id: hua-qianfang
+  name: 花千芳
+  pinyin: Huā Qiānfāng
+  aka: [宁学明]
+  gender: m
+  born: 1978
+  birthplace: 辽宁清原
+  roles: [media]
+  status: active
+  tier: 2
+  headline: 网络作家，自称“自干五”，2014 年在文艺工作座谈会上受习近平点名
+  ids: { wikidata: Q18579217 }
+  bio: >-
+    本名宁学明，抚顺清原农民家庭出身，初中毕业后外出务工十年，回乡务农时开始网络写作，现为抚顺市作家协会副主席。
+    他自称“自带干粮的五毛”，简称“自干五”，被新闻晨报称为“中国网络正能量四大写手之一”；2014 年 10 月文艺工作座谈会上，习近平对他和周小平说“希望你们创作更多具有正能量的作品”。
+  positions:
+    - { title: 抚顺市作家协会副主席, sys: other, place: 辽宁, cite: c11-wiki-hua-qianfang }
+  cites: [wd-Q18579217, c11-wiki-hua-qianfang, e08-thepaper-2014-10-15-arts-forum]
+
+- id: liu-yu
+  name: 刘瑜
+  pinyin: Liú Yú
+  aka: [醉钢琴]
+  gender: f
+  born: 1975-12-25
+  education:
+    - { school: 中国人民大学国际政治系, degree: 政治学硕士, to: 1999 }
+    - { school: 哥伦比亚大学, degree: 政治学博士, to: 2006 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 清华大学政治学系教授，政治学者、专栏作家
+  ids: { wikidata: Q8990547 }
+  bio: >-
+    中国人民大学国际政治系本科、硕士，2006 年获哥伦比亚大学政治学博士，导师为黎安友，曾在哈佛大学做博士后、在剑桥大学任讲师，2010 年起任教清华大学政治学系，2026 年升任长聘教授。
+    2013 年她在纽约时报中文网与慕容雪村对谈“公知”污名化，说这个词“正在变成一个可笑、可怜甚至是骂人的词汇”。
+  positions:
+    - { title: 剑桥大学政治系讲师, sys: other, from: 2007, to: 2010, cite: c11-wiki-liu-yu }
+    - { title: 清华大学政治学系副教授、长聘教授, sys: other, from: 2010, cite: c11-wiki-liu-yu }
+  cites: [wd-Q8990547, c11-wiki-liu-yu, i08-nytcn-2013-02-20-liu-yu-murong]
+
+- id: murong-xuecun
+  name: 慕容雪村
+  pinyin: Mùróng Xuěcūn
+  aka: [郝群]
+  gender: m
+  born: 1974
+  birthplace: 山东平度
+  roles: [dissent, media]
+  status: exiled
+  statusNote: 2013 年新浪微博以“散播谣言”为由被封，各平台账号相继被注销；2020 年赴武汉采访后遭国安电话威胁，2021 年 8 月出境，现流亡澳大利亚。
+  tier: 2
+  headline: 网络作家，本名郝群，公共知识分子，2021 年起流亡澳大利亚
+  ids: { wikidata: Q1021166 }
+  bio: >-
+    本名郝群，中国政法大学毕业，以《成都，今夜请将我遗忘》《天堂向左，深圳往右》等小说成名，是广为人知的公共知识分子。
+    2013 年他在“公知”污名化讨论中说“一个批评缺席的社会是不可想象的”；同年微博被封，2021 年 8 月出境，现流亡澳大利亚，2022 年出版《禁城：武汉传来的声音》。
+  cites: [wd-Q1021166, c11-wiki-murong-xuecun, i08-nytcn-2013-02-20-liu-yu-murong, c11-nytcn-2023-08-10-murong]
+
+- id: luo-huazhong
+  name: 骆华忠
+  pinyin: Luò Huázhōng
+  aka: [好心的旅行家]
+  gender: m
+  roles: [dissent]
+  status: active
+  tier: 2
+  headline: 网民，2021 年发帖《躺平即是正义》，被称为“躺平学大师”
+  ids: { wikidata: Q136664580 }
+  bio: >-
+    职高辍学，当过轮胎厂工人、质检员、保安，2018 年到深圳谋生、到过三和人才市场，2019 年回到浙江建德后大部分时间不再工作。
+    2021 年 4 月他以“好心的旅行家”之名在百度贴吧发帖《躺平即是正义》，被称为“躺平学大师”，引发全国性的“躺平”讨论；他说“一个好的社会是可上可下的”。
+  cites: [wd-Q136664580, c11-wiki-luo-huazhong, i08-nytcn-2021-07-14-luo-huazhong, e04-bbc-2021-06-01-tangping]
+
+- id: li-lin-law
+  name: 李林
+  pinyin: Lǐ Lín
+  gender: m
+  born: 1955-11
+  birthplace: 云南昆明
+  origin: 山东招远
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 法学家，中国社会科学院法学研究所原所长、学部委员，主张“社会主义宪政”
+  bio: >-
+    法学家，中国社会科学院法学研究所研究员、学部委员，2013 年时任法学研究所所长。
+    2013 年宪政之争中，中国宪政网发表他的《高举社会主义宪政旗帜 推进社会主义民主法治建设》，文中认为宪政与民主、自由、人权等词语一样，“不是资产阶级的专利”，而是人类政治文明的共同财富。
+  positions:
+    - { title: 中国社会科学院法学研究所所长, sys: other, cite: i03-bbc-2013-05-23-scholars-constitutionalism }
+    - { title: 中国社会科学院学部委员, sys: other, cite: c11-wiki-li-lin }
+  cites: [c11-wiki-li-lin, i03-bbc-2013-05-23-scholars-constitutionalism]
+
+- id: han-dayuan
+  name: 韩大元
+  pinyin: Hán Dàyuán
+  gender: m
+  ethnicity: 朝鲜族
+  born: 1960-10
+  birthplace: 吉林
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 宪法学者，中国人民大学法学院原院长、中国宪法学研究会会长
+  ids: { wikidata: Q5646587 }
+  bio: >-
+    朝鲜族宪法学者，2007 年起任中国法学会宪法学研究会会长，2009–2017 年任中国人民大学法学院院长，兼任全国人大常委会香港基本法委员会委员。
+    2012 年他在《法学》发表《略论社会主义宪政的正当性》；2013 年杨晓青撰文称宪政属于资本主义后，中国宪政网重新刊出此文作为回应。
+  positions:
+    - { title: 中国法学会宪法学研究会会长, sys: other, from: 2007-10, cite: c11-wiki-han-dayuan }
+    - { title: 中国人民大学法学院院长, sys: other, from: 2009-05, to: 2017-07, cite: c11-wiki-han-dayuan }
+    - { title: 全国人大常委会香港基本法委员会委员, sys: gov, cite: c11-wiki-han-dayuan }
+  cites: [wd-Q5646587, c11-wiki-han-dayuan, i03-bbc-2013-05-23-scholars-constitutionalism]

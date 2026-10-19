@@ -1,0 +1,81 @@
+# C11 (round 12): case records for the fallen among the new CS3 cards
+
+liu-weidong-csgc:
+  sys: soe
+  grade: exec
+  notice:
+    date: 2025-07-31
+    cite: c11-xinhua-2025-07-31-liu-weidong
+    quotes: [丧失理想信念，背弃初心使命，对抗组织审查, 靠企吃企, 在党的十八大后不收敛、不收手]
+  discipline: [political, organization, integrity, eight]
+  amount: { yuan: 41390000, text: 法院认定 1999 年至 2025 年收受财物共计折合人民币 4139 万余元, cite: c11-court-2026-04-14-liu-weidong }
+  sentence: { date: 2026-04-14, term: years, years: 13, cite: c11-court-2026-04-14-liu-weidong }
+  trigger:
+    kind: unknown
+    text: 审查调查通报未说明线索来源
+    cite: c11-xinhua-2025-02-12-liu-weidong
+  politics:
+    level: none
+    why: 编者分析：判决认定的受贿横跨 1999 年至 2025 年，主要发生在东风、神龙、长安等汽车企业的任职期间，通报和判决都没有提到军品业务；兵器装备集团虽属军工央企，本站未见把此案与装备系统清查相联系的材料。
+    cites: [c11-court-2026-04-14-liu-weidong, c11-xinhua-2025-07-31-liu-weidong]
+  voices:
+    - { voice: official, text: 鉴于其到案后如实供述罪行，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪，积极退赃, quote: true, cite: c11-court-2026-04-14-liu-weidong }
+  outcome: sentenced
+
+wang-shouye:
+  sys: army
+  grade: lieutenant
+  amount: { yuan: 160000000, text: 军事法庭认定他 1997 年至 2001 年在总后基建营房部任职期间贪污、挪用公款 1.6 亿元, cite: c11-ifeng-2006-12-22-wang-shouye }
+  sentence: { date: 2006-12-14, term: life, cite: c11-ifeng-2006-12-22-wang-shouye }
+  trigger:
+    kind: report
+    text: 新华社英文电讯称，一名未婚女性向当局告发他，承认与他有长期的不正常关系
+    cite: c11-bbc-2006-06-29-wang-shouye
+  with:
+    - { id: gu-junshan, name: 谷俊山, rel: colleague, text: 后任总后基建营房部部长，2012 年落马；财新称二人都曾任该部部长, cite: b13-caixin-2014-01-14-gu-tiger }
+  politics:
+    level: none
+    why: 编者分析：此案在胡锦涛时期查处，官方定性为经济犯罪和“道德败坏”，未见派系或靠山清洗的说法；后来的报道主要把它当作总后基建营房部“事故多发地”的前例，与谷俊山案并提。
+    cites: [c11-bbc-2006-06-29-wang-shouye, f09-hqrw-2015-01-26-army-tigers]
+  voices:
+    - { voice: west, text: 当局没有具体说明王守业的犯罪内容；新华社中文稿只有两句话，英文电讯则报道他被情妇揭发, cite: c11-bbc-2006-06-29-wang-shouye }
+    - { voice: zh, text: 《环球人物》称总后基建营房部是“事故多发地”，王守业在情妇出面举报后贪腐案败露, cite: f09-hqrw-2015-01-26-army-tigers }
+    - { voice: wiki, text: 维基百科把一审判死缓的日期记为 2006 年 4 月 10 日，早于同年 6 月官方公布其免职；凤凰网转述的大公报只说一审判处死缓，财新则说他 2006 年被军事法庭判处死缓, cite: c11-wiki-wang-shouye }
+  outcome: sentenced
+
+luo-qi:
+  sys: soe
+  grade: exec
+  trigger:
+    kind: unknown
+    text: 人大代表资格报告只写明“涉嫌违纪违法”，未说明线索来源
+    cite: a02-wikisource-npc-qualification-reports
+  with:
+    - { id: zhou-xinmin, name: 周新民, rel: colleague, text: 航空工业集团原董事长，在同一份代表资格报告中以涉嫌违纪违法被罢免, cite: a02-wikisource-npc-qualification-reports }
+    - { id: liu-cangli, name: 刘仓理, rel: colleague, text: 中国工程物理研究院原院长，在同一份代表资格报告中以涉嫌违纪违法被罢免, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: linked
+    why: 编者分析：罗琦与周新民、刘仓理在同一份人大代表资格报告中以同样措辞被罢免，三人分属核工业、航空和核武器研制系统，联合早报称三人此前已缺席重要场合或不明原因去职；本站把他归入装备系统与军工航天案的军工一侧，官方没有作任何关联说明。
+    cites: [a02-wikisource-npc-qualification-reports, a02-zaobao-2026-04-18-nine-generals]
+  voices:
+    - { voice: zh, text: 联合早报称周新民、罗琦、刘仓理三人此前同样已缺席重要场合或因不明原因去职, cite: a02-zaobao-2026-04-18-nine-generals }
+  outcome: missing
+
+wang-xiaojun:
+  sys: soe
+  grade: bureau
+  trigger:
+    kind: unknown
+    text: 全国政协只公布撤销委员资格的决定，未说明原因
+    cite: c11-people-2024-01-30-cppcc-wang-xiaojun
+  with:
+    - { id: wu-yansheng, name: 吴燕生, rel: colleague, text: 航天科技集团原董事长，与他一同列入 2024 年 3 月 2 日政协常委会追认的撤销名单, cite: c11-cppcc-2024-03-02-ratify }
+    - { id: liu-shiquan, name: 刘石泉, rel: colleague, text: 兵器工业集团原董事长，同列追认名单, cite: c11-cppcc-2024-03-02-ratify }
+    - { id: wang-changqing, name: 王长青, rel: colleague, text: 航天科工集团原副总经理，同列追认名单, cite: c11-cppcc-2024-03-02-ratify }
+  politics:
+    level: linked
+    why: 编者分析：撤销决定紧随吴燕生、刘石泉、王长青三名军工央企负责人之后作出，并在同一次常委会上一并追认；航天一院是运载火箭和战略导弹的主要研制单位，本站把他归入火箭军—装备采购案的军工一侧，官方未说明原因。
+    cites: [c11-cppcc-2024-03-02-ratify, k06-rfa-2024-04-15-yuan-jie]
+  voices:
+    - { voice: west, text: 自由亚洲电台专栏把王小军与吴燕生、刘石泉、王长青及袁洁、陈国瑛都列为火箭军窝案的同案犯；这是评论者的推断，官方从未如此表述, cite: k06-rfa-2024-04-15-yuan-jie }
+  outcome: missing
