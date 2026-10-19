@@ -1664,14 +1664,14 @@
   headline: 中央纪委国家监委驻中国证监会纪检监察组原组长，新疆维吾尔自治区人大常委会原副主任
   ids: { wikidata: Q16905820 }
   bio: >-
-    建设银行系统出身，1998 年任建行新疆分行行长，2003 年任新疆自治区主席助理，2012 年任新疆人大常委会副主任，2014 年调任证监会纪委书记，2016 年起任中央纪委驻证监会纪检组（纪检监察组）组长，2019 年 4 月退休。2025 年 3 月被查；11 月被开除党籍，通报称他“背离党中央关于精准扶贫精准脱贫的基本方略，擅权妄为、盲目决策，造成严重后果”，并“执纪违纪，执法犯法，大搞利益交换”，为他人在企业上市、定增融资等方面谋利。
+    建设银行系统出身，1998 年任建行新疆分行行长，2003 年任新疆自治区主席助理，2012 年任新疆人大常委会副主任，2014 年调任证监会纪委书记，2015 年 12 月起任中央纪委驻证监会纪检组（纪检监察组）组长，2019 年 4 月退休。2025 年 3 月被查；11 月被开除党籍，通报称他“背离党中央关于精准扶贫精准脱贫的基本方略，擅权妄为、盲目决策，造成严重后果”，并“执纪违纪，执法犯法，大搞利益交换”，为他人在企业上市、定增融资等方面谋利。
   positions:
     - { title: 中国建设银行新疆分行行长, sys: other, place: 新疆, from: 1998, cite: r07-wiki-wang-huimin }
     - { title: 新疆维吾尔自治区政府主席助理, sys: gov, place: 新疆, from: 2003, cite: r07-wiki-wang-huimin }
     - { title: 新疆维吾尔自治区人大常委会副主任, sys: gov, place: 新疆, from: 2012, cite: r07-wiki-wang-huimin }
     - { title: 中国证券监督管理委员会纪委书记、党委委员, sys: party, from: 2014, cite: r07-wiki-wang-huimin }
-    - { title: 中央纪委国家监委驻中国证监会纪检监察组组长, sys: party, from: 2016-03, to: 2019-04, cite: r07-wiki-wang-huimin }
-  cites: [r07-wiki-wang-huimin, r07-people-2025-03-21-wang-huimin-probe, r07-people-2025-11-24-wang-huimin-expel, wd-Q16905820]
+    - { title: 中央纪委国家监委驻中国证监会纪检监察组组长, sys: party, from: 2015-12, to: 2019-04, cite: c12-thepaper-2016-03-01-wang-huimin }
+  cites: [r07-wiki-wang-huimin, r07-people-2025-03-21-wang-huimin-probe, r07-people-2025-11-24-wang-huimin-expel, wd-Q16905820, c12-thepaper-2016-03-01-wang-huimin]
 
 - id: li-wenrong
   name: 李文荣
