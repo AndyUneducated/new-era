@@ -23,7 +23,7 @@ export function ConceptPage({ id }: { id: string }) {
   const congress = a.db.corpus.filter((d) => d.kind === 'congress')
   const gov = a.db.corpus.filter((d) => d.kind === 'gov')
   const counted = (docs: typeof congress) => docs.some((d) => d.counts[c.id])
-  const events = (a.eventsOf.get(c.id) ?? []).slice().sort((x, y) => x.date.localeCompare(y.date))
+  const events = (a.eventsOf.get(c.id) ?? []).slice().sort((x, y) => y.date.localeCompare(x.date))
   const steps = [
     ...(c.first ? [{ date: c.first.date, where: '首次出现', text: c.first.text, quote: c.first.quote, cite: c.first.cite }] : []),
     ...c.codified.map((x) => ({ date: x.date, where: x.where, text: '', quote: x.quote, cite: x.cite })),

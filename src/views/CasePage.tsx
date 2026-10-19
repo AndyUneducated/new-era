@@ -17,7 +17,10 @@ export function CasePage({ id }: { id: string }) {
       </div>
     )
   const people = k.people.map((x) => a.person.get(x)).filter((p) => p !== undefined)
-  const events = k.events.map((x) => a.event.get(x)).filter((e) => e !== undefined)
+  const events = k.events
+    .map((x) => a.event.get(x))
+    .filter((e) => e !== undefined)
+    .sort((x, y) => y.date.localeCompare(x.date))
   return (
     <div className="page casepage">
       <div className="eyebrow">

@@ -12,7 +12,8 @@ export const per10k = (doc: CorpusR, id: string) => (doc.chars ? ((doc.counts[id
 
 export function Heat({ concepts, docs }: { concepts: Concept[]; docs: CorpusR[] }) {
   const tip = useTip()
-  const rows = concepts.filter((c) => docs.some((d) => d.counts[c.id]))
+  const total = (c: Concept) => docs.reduce((n, d) => n + per10k(d, c.id), 0)
+  const rows = concepts.filter((c) => docs.some((d) => d.counts[c.id])).sort((x, y) => total(y) - total(x))
   if (!rows.length || !docs.length) return <div className="empty">语料尚未载入</div>
   const max = Math.max(...rows.flatMap((c) => docs.map((d) => per10k(d, c.id))), 0.01)
   // square root so the long tail of rare terms stays visible; the mix follows the theme

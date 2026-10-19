@@ -39,11 +39,11 @@ export function CcFalls() {
             const state: State = !p ? 'unknown' : t === undefined ? 'clean' : t < end ? 'in' : 'after'
             return { name, p, state, fell }
           })
-          .sort((x, y) => ORDER[x.state] - ORDER[y.state] || (x.fell ?? '').localeCompare(y.fell ?? ''))
+          .sort((x, y) => ORDER[x.state] - ORDER[y.state] || (y.fell ?? '').localeCompare(x.fell ?? ''))
       const full = cells(c.cc ?? [])
       const alt = cells(c.cca ?? [])
       return { n: c.n, year: Math.floor(fy(c.opened)!), full, alt }
-    })
+    }).reverse()
   }, [a])
 
   const cols = Math.max(...terms.map((t) => Math.ceil(t.full.length / TALL) + Math.ceil(t.alt.length / TALL) + 2))

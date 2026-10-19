@@ -33,7 +33,7 @@ export function Tally({ rows, of, unit = '人', fold }: { rows: TallyRow[]; of?:
             {open === r.key && (
               <div className="tally-list">
                 {r.note && <p className="muted">{r.note}</p>}
-                {r.list.map((f) => (
+                {[...r.list].sort((x, y) => (y.date ?? '').localeCompare(x.date ?? '')).map((f) => (
                   <a key={f.p.id} href={personHref(f.p.id)} className="pg-chip" title={f.p.headline}>
                     {f.p.name}
                     {f.date && <span className="m">{f.date.slice(0, 4)}</span>}

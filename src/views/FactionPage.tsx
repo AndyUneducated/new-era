@@ -9,7 +9,7 @@ import { Rise } from '../components/Rise'
 import { Subway } from '../components/Subway'
 import type { PersonR } from '../data/db'
 import { FRAMES, RANKS, VOICES, type Voice } from '../data/schema'
-import { centre, level, membersOf, RING_ORDER } from '../lib/faction'
+import { centre, level, membersOf, peopleIn, RING_ORDER } from '../lib/faction'
 import { short, span } from '../lib/dates'
 import { quoted } from '../lib/quotes'
 import { eventHref, factionHref, href, personHref } from '../lib/router'
@@ -29,18 +29,18 @@ export function FactionPage({ id }: { id: string }) {
   const tagged = a.members.get(f.id) ?? []
   const byPerson = new Map<string, typeof tagged>()
   for (const m of tagged) byPerson.set(m.p.id, [...(byPerson.get(m.p.id) ?? []), m])
-  const core = f.core.filter((c) => a.person.has(c))
+  const core = f.core.filter((c) => a.person.has(c)).sort((x, y) => level(a, a.person.get(y)!) - level(a, a.person.get(x)!))
   const ranked = membersOf(a, f)
   const rankOf = new Map(ranked.map((m) => [m.p.id, m]))
   const ringIx = (id: string) => (id === centre(f) ? -1 : RING_ORDER.indexOf(rankOf.get(id)?.rank ?? 'periphery'))
-  const order = [...new Set([...(f.patron && a.person.has(f.patron) ? [f.patron] : []), ...core, ...tagged.map((m) => m.p.id)])].sort((x, y) => ringIx(x) - ringIx(y))
+  const order = [...new Set([...(f.patron && a.person.has(f.patron) ? [f.patron] : []), ...core, ...tagged.map((m) => m.p.id)])].sort((x, y) => ringIx(x) - ringIx(y) || level(a, a.person.get(y)!) - level(a, a.person.get(x)!))
   const voiceCount = new Map<Voice, number>()
   for (const m of tagged) {
     const v = a.source.get(m.tag.cite.split('@')[0])?.voice
     if (v) voiceCount.set(v, (voiceCount.get(v) ?? 0) + 1)
   }
-  const events = (a.eventsOf.get(f.id) ?? []).slice().sort((x, y) => x.date.localeCompare(y.date))
-  const siblings = a.db.factions.filter((x) => x.frame === f.frame && x.id !== f.id)
+  const events = (a.eventsOf.get(f.id) ?? []).slice().sort((x, y) => y.date.localeCompare(x.date))
+  const siblings = a.db.factions.filter((x) => x.frame === f.frame && x.id !== f.id).sort((x, y) => peopleIn(a, y).length - peopleIn(a, x).length)
   const lines = [...new Set([centre(f), ...ranked.map((m) => m.p.id)])]
     .map((pid) => pid && a.person.get(pid))
     .filter((p): p is PersonR => !!p && p.positions.filter((x) => x.from).length >= 3)
@@ -81,7 +81,7 @@ export function FactionPage({ id }: { id: string }) {
           </div>
           {voiceCount.size > 0 && (
             <div className="chips" style={{ marginTop: 14 }}>
-              {[...voiceCount].map(([v, n]) => (
+              {[...voiceCount].sort((x, y) => y[1] - x[1]).map(([v, n]) => (
                 <span key={v} className="chip">
                   <span className="dot" style={{ background: `var(--v-${v})` }} />
                   {VOICES[v]} {n}
@@ -143,7 +143,7 @@ export function FactionPage({ id }: { id: string }) {
             </Section>
           )}
 
-          <Section title="成员" note="按分层排列；每人附上作出判断的来源原句">
+          <Section title="成员" note="按分层排列，同一层内职级高的在前；每人附上作出判断的来源原句">
             <div className="members">
               {order.map((pid) => {
                 const p = a.person.get(pid)!

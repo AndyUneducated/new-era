@@ -67,10 +67,11 @@ export function Ideas() {
     }
     return m
   }, [a])
-  const loose = a.db.concepts.filter((c) => (c.kind === 'component' || c.kind === 'formula') && !rootOf.has(c.id))
-  const docs = a.db.concepts.filter((c) => c.kind === 'document')
-  const trends = a.db.concepts.filter((c) => c.kind === 'trend')
-  const debates = a.db.concepts.filter((c) => c.kind === 'debate')
+  const newest = (x: Concept, y: Concept) => (y.first?.date ?? '').localeCompare(x.first?.date ?? '')
+  const loose = a.db.concepts.filter((c) => (c.kind === 'component' || c.kind === 'formula') && !rootOf.has(c.id)).sort(newest)
+  const docs = a.db.concepts.filter((c) => c.kind === 'document').sort(newest)
+  const trends = a.db.concepts.filter((c) => c.kind === 'trend').sort(newest)
+  const debates = a.db.concepts.filter((c) => c.kind === 'debate').sort(newest)
   const thinkers = useMemo(
     () =>
       a.db.people
@@ -162,7 +163,7 @@ export function Ideas() {
       <Section
         id="heat"
         title="提法词频"
-        note="每万字出现次数；颜色越深越频繁。点击行查看该提法详情"
+        note="每万字出现次数；颜色越深越频繁，总频次高的排在上面。点击行查看该提法详情"
         right={
           <div className="seg">
             {CORPUS_KINDS.map(([k, l]) => (

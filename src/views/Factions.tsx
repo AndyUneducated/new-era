@@ -6,6 +6,7 @@ import { FrameFlow } from '../components/FrameFlow'
 import { MediaSplit } from '../components/MediaSplit'
 import { Overlap } from '../components/Overlap'
 import { FRAMES, type Frame } from '../data/schema'
+import { level, peopleIn } from '../lib/faction'
 import { outlet } from '../lib/outlet'
 import { factionHref, useKept } from '../lib/router'
 import { useAtlas } from '../state'
@@ -21,7 +22,7 @@ const FRAME_NOTE: Record<Frame, string> = {
 export function Factions() {
   const a = useAtlas()
   const [frame, setFrame] = useKept<Frame>('classic')
-  const list = a.db.factions.filter((f) => f.frame === frame)
+  const list = a.db.factions.filter((f) => f.frame === frame).sort((x, y) => peopleIn(a, y).length - peopleIn(a, x).length)
   return (
     <div className="page">
       <div className="eyebrow">Factions</div>
@@ -45,7 +46,7 @@ export function Factions() {
       <div className="fgrid" style={{ marginTop: 18 }}>
         {list.map((f) => {
           const tagged = a.members.get(f.id) ?? []
-          const ids = [...new Set([...f.core, ...tagged.map((m) => m.p.id)])]
+          const ids = [...new Set([...f.core, ...tagged.map((m) => m.p.id)])].filter((id) => a.person.has(id)).sort((x, y) => level(a, a.person.get(y)!) - level(a, a.person.get(x)!))
           const outlets = new Set(tagged.flatMap((m) => a.source.get(m.tag.cite.split('@')[0])?.publisher ?? []).map(outlet))
           return (
             <a key={f.id} className="card fcard" href={factionHref(f.id)}>

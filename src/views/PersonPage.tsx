@@ -26,10 +26,10 @@ export function PersonPage({ id }: { id: string }) {
     )
 
   const yrs = age(p.born, p.died)
-  const seats = a.seats.get(p.id) ?? []
+  const seats = [...(a.seats.get(p.id) ?? [])].reverse()
   const pbTerms = new Set(seats.filter((s) => ['gs', 'psc', 'pb'].includes(s.seat)).map((s) => s.n)).size
   const star = p.quotes.find((q) => q.star) ?? p.quotes[0]
-  const events = (a.eventsOf.get(p.id) ?? []).slice().sort((x, y) => x.date.localeCompare(y.date))
+  const events = (a.eventsOf.get(p.id) ?? []).slice().sort((x, y) => y.date.localeCompare(x.date))
   // the sources this file rests on
   const filed = new Set(
     [...p.cites, ...p.life.flatMap((x) => x.cites), ...p.fall.map((x) => x.cite), ...p.factions.map((t) => t.cite), ...p.assess.map((v) => v.cite), ...p.quotes.map((q) => q.cite)].map((c) => c.split('@')[0]),

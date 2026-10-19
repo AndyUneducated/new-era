@@ -30,7 +30,7 @@ export function About() {
       </div>
       <Section title="来源构成">
         <div className="chips">
-          {(Object.keys(VOICES) as Voice[]).filter((v) => byVoice.get(v)).map((v) => (
+          {(Object.keys(VOICES) as Voice[]).filter((v) => byVoice.get(v)).sort((x, y) => byVoice.get(y)! - byVoice.get(x)!).map((v) => (
             <span key={v} className="chip">
               <VoiceTag v={v} /> {byVoice.get(v)}
             </span>

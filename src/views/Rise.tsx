@@ -14,12 +14,17 @@ export function Rise() {
   const all = useMemo(() => a.db.people.filter((p) => p.turn), [a])
   const shown = pick ? all.filter((p) => p.turn!.routes.includes(pick)) : all
   const ages = useMemo(() => rungAges(all), [all])
-  const deep = shown.filter((p) => p.turn!.deep)
+  const deep = shown.filter((p) => p.turn!.deep).sort((x, y) => x.tier - y.tier || y.turn!.turns.length - x.turn!.turns.length)
   const moments = shown
     .flatMap((p) => p.turn!.turns.map((t) => ({ p, t, age: ageAt(p.born, t.date) })))
-    .sort((x, y) => x.t.date.localeCompare(y.t.date))
+    .sort((x, y) => y.t.date.localeCompare(x.t.date))
   const decades = [...new Set(moments.map((m) => Math.floor(Number(m.t.date.slice(0, 4)) / 10) * 10))]
   const firstOf = (r: Route) => all.filter((p) => p.turn!.routes[0] === r)
+  const routes = (Object.keys(ROUTES) as Route[])
+    .map((r) => ({ r, n: all.filter((p) => p.turn!.routes.includes(r)).length }))
+    .sort((x, y) => y.n - x.n)
+    .map((x) => x.r)
+  const byMain = [...routes].sort((x, y) => firstOf(y).length - firstOf(x).length)
   return (
     <div className="page rise">
       <div className="eyebrow">Paths to power</div>
@@ -60,15 +65,15 @@ export function Rise() {
         <div className="pg-two">
           <div>
             <div className="h3">主路线</div>
-            <Tally rows={(Object.keys(ROUTES) as Route[]).map((r) => ({ key: r, label: ROUTES[r], list: firstOf(r).map((p) => ({ p })), color: 'var(--gold)' }))} of={all.length} />
+            <Tally rows={byMain.map((r) => ({ key: r, label: ROUTES[r], list: firstOf(r).map((p) => ({ p })), color: 'var(--gold)' }))} of={all.length} />
           </div>
           <div>
             <div className="h3">兼有</div>
-            <Tally rows={(Object.keys(ROUTES) as Route[]).map((r) => ({ key: r, label: ROUTES[r], list: all.filter((p) => p.turn!.routes.includes(r)).map((p) => ({ p })) }))} of={all.length} />
+            <Tally rows={routes.map((r) => ({ key: r, label: ROUTES[r], list: all.filter((p) => p.turn!.routes.includes(r)).map((p) => ({ p })) }))} of={all.length} />
           </div>
         </div>
         <div className="rise-routes" style={{ marginTop: 12 }}>
-          {(Object.keys(ROUTES) as Route[])
+          {routes
             .filter((r) => all.some((p) => p.turn!.routes.includes(r)))
             .map((r) => (
               <a key={r} className={pick === r ? 'chip on' : 'chip'} href={withQuery('r', pick === r ? undefined : r)}>
@@ -107,7 +112,7 @@ export function Rise() {
         </Section>
       )}
 
-      <Section title="转折点年表" note="所有人的转折点按年代排开，看同一时期的人是被什么事推上去的。">
+      <Section title="转折点年表" note="所有人的转折点按年代排开，由近及远，看同一时期的人是被什么事推上去的。">
         {decades.map((d) => (
           <div key={d} className="pg-roll-year">
             <h3>{d} 年代</h3>

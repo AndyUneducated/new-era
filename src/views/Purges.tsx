@@ -43,6 +43,8 @@ const SUBNAV: [string, string][] = [
 function by<K extends string>(list: Fall[], keys: readonly K[], of: (f: Fall) => K | K[] | undefined, label: (k: K) => string, color?: (k: K) => string): TallyRow[] {
   return keys.map((k) => ({ key: k, label: label(k), color: color?.(k), list: list.filter((f) => [of(f)].flat().includes(k)) }))
 }
+// categories with no order of their own run largest first; scales (politics, sentence and gap bands) keep theirs
+const most = (rows: TallyRow[]) => [...rows].sort((x, y) => y.list.length - x.list.length)
 
 // sentences in bands, for the distribution of outcomes
 const BANDS: [string, string, (f: Fall) => boolean][] = [
@@ -78,7 +80,7 @@ export function Purges() {
   const since18 = all.filter((f) => f.t >= 2012.87).length
   const high = all.filter((f) => f.level === 'top' || f.level === 'cc').length
   const army = all.filter((f) => f.army)
-  const tops = all.filter((f) => f.level === 'top')
+  const tops = all.filter((f) => f.level === 'top').reverse()
   const armyLate = army.filter((f) => f.t >= 2023).reverse()
   const byYear = new Map<number, Fall[]>()
   for (const f of list) byYear.set(Math.floor(f.t), [...(byYear.get(Math.floor(f.t)) ?? []), f])
@@ -92,13 +94,18 @@ export function Purges() {
   const charged = list.filter((f) => f.c.charges.length).length
   const withDisc = list.filter((f) => f.c.disc.length)
   const rated = list.filter((f) => f.c.politics)
-  const political = rated.filter((f) => f.c.politics!.level !== 'none').sort((x, y) => (x.c.politics!.level === 'core' ? 0 : 1) - (y.c.politics!.level === 'core' ? 0 : 1) || x.t - y.t)
+  const political = rated.filter((f) => f.c.politics!.level !== 'none').sort((x, y) => (x.c.politics!.level === 'core' ? 0 : 1) - (y.c.politics!.level === 'core' ? 0 : 1) || y.t - x.t)
   const triggered = list.filter((f) => f.c.trigger)
   const retired = list.map((f) => ({ f, m: retiredFor(f) })).filter((r) => r.m !== undefined)
   const guessed = list.filter((f) => sysOf(f).guessed).length
   const places = [...new Set(list.filter((f) => f.t >= 2012).map(placeAtFall).filter((x) => x !== undefined))]
     .map((pl) => ({ key: pl, label: pl, test: (f: Fall) => placeAtFall(f) === pl, n: list.filter((f) => f.t >= 2012 && placeAtFall(f) === pl).length }))
     .sort((x, y) => y.n - x.n)
+  const systems = (Object.keys(CASE_SYS) as (keyof typeof CASE_SYS)[])
+    .map((k) => ({ key: k, label: CASE_SYS[k], test: (f: Fall) => sysOf(f).sys === k }))
+    .map((r) => ({ ...r, n: list.filter((f) => f.t >= 2012 && r.test(f)).length }))
+    .sort((x, y) => y.n - x.n)
+  const cases = [...a.db.cases].sort((x, y) => y.people.length - x.people.length)
 
   return (
     <div className="page purges">
@@ -183,7 +190,7 @@ export function Purges() {
           </div>
           <div>
             <div className="h3">违反的纪律</div>
-            <Tally rows={by(withDisc, Object.keys(DISCIPLINES) as (keyof typeof DISCIPLINES)[], (f) => f.c.disc, (k) => DISCIPLINES[k], () => 'var(--gold)')} of={withDisc.length} />
+            <Tally rows={most(by(withDisc, Object.keys(DISCIPLINES) as (keyof typeof DISCIPLINES)[], (f) => f.c.disc, (k) => DISCIPLINES[k], () => 'var(--gold)'))} of={withDisc.length} />
           </div>
         </div>
       </Section>
@@ -222,7 +229,7 @@ export function Purges() {
         <div className="pg-two">
           <div>
             <div className="h3">去向</div>
-            <Tally rows={by(list, Object.keys(OUTCOMES) as (keyof typeof OUTCOMES)[], (f) => f.c.outcome, (k) => OUTCOMES[k], (k) => (['suicide', 'died', 'fled'].includes(k) ? 'var(--ink)' : k === 'back' || k === 'released' ? 'var(--gold)' : 'var(--red)'))} of={list.length} />
+            <Tally rows={most(by(list, Object.keys(OUTCOMES) as (keyof typeof OUTCOMES)[], (f) => f.c.outcome, (k) => OUTCOMES[k], (k) => (['suicide', 'died', 'fled'].includes(k) ? 'var(--ink)' : k === 'back' || k === 'released' ? 'var(--gold)' : 'var(--red)')))} of={list.length} />
           </div>
           <div>
             <div className="h3">刑期</div>
@@ -245,7 +252,7 @@ export function Purges() {
 
       <Section id="systems" title="系统与地方" note={`十八大以来按年统计。没有案件记录的 ${guessed} 人，系统由落马时职务推断；地方按落马时所任职务所在省份。一行里集中变深的几年，多是一地或一系统的“塌方”。`}>
         <div className="h3">系统</div>
-        <Grid list={list} rows={(Object.keys(CASE_SYS) as (keyof typeof CASE_SYS)[]).map((k) => ({ key: k, label: CASE_SYS[k], test: (f: Fall) => sysOf(f).sys === k }))} />
+        <Grid list={list} rows={systems} />
         <div className="h3" style={{ marginTop: 18 }}>
           省份
         </div>
@@ -253,7 +260,7 @@ export function Purges() {
       </Section>
 
       <Section id="trigger" title="起因" note={`官方或可靠报道写明了从哪里查起的 ${triggered.length} 人。多数案件的线索来源不公开。`}>
-        <Tally rows={by(triggered, Object.keys(TRIGGERS) as (keyof typeof TRIGGERS)[], (f) => f.c.trigger?.kind, (k) => TRIGGERS[k])} of={triggered.length} />
+        <Tally rows={most(by(triggered, Object.keys(TRIGGERS) as (keyof typeof TRIGGERS)[], (f) => f.c.trigger?.kind, (k) => TRIGGERS[k]))} of={triggered.length} />
       </Section>
 
       <Section id="retired" title="退休后被查" note="离开最后一个职务至少半年后才被通报的。“退休不是避风港”是十八大以来反复出现的说法。">
@@ -269,9 +276,9 @@ export function Purges() {
       </Section>
 
       <Section id="cases" title="专题" note="单个大案、一省塌方、一个系统的清洗，逐篇写清来龙去脉。">
-        {a.db.cases.length ? (
+        {cases.length ? (
           <div className="pg-cases">
-            {a.db.cases.map((k) => (
+            {cases.map((k) => (
               <a key={k.id} href={href(`purges/${k.id}`)} className="card pad pg-case">
                 <span className="m">
                   {CASE_KINDS[k.kind]} · {k.years}
@@ -326,7 +333,7 @@ export function Purges() {
       {gone.length > 0 && (
         <Section title="下落不明" note="被罢免人大代表资格、从名单上消失或久未露面，官方没有说明原因。不计入上面的统计，除非勾选“计入下落不明”。">
           <div className="pg-wall">
-            {gone.map((f) => (
+            {[...gone].reverse().map((f) => (
               <Tile key={f.p.id} f={f} />
             ))}
           </div>

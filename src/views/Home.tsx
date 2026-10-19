@@ -78,7 +78,7 @@ export function Home() {
             </div>
             <div className="hero-controls">
               <div className="seg" role="tablist" aria-label="届别">
-                {cs.map((x) => (
+                {[...cs].reverse().map((x) => (
                   <button key={x.n} className={x.n === n ? 'on' : undefined} onClick={() => setN(x.n)}>
                     {cnNum(x.n)}届
                   </button>
