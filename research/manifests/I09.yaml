@@ -1,0 +1,464 @@
+# I09: thinkers (round 9). Scholar cards and the sources behind the `by` links.
+web:
+  # ---- 俞可平
+  - id: i09-sina-2007-01-05-yu-keping-democracy
+    title: 学习时报署名文章：民主是个好东西（俞可平）
+    publisher: 中国新闻网（新浪转载）
+    author: 俞可平
+    date: 2007-01-05
+    voice: official
+    url: http://news.sina.com.cn/c/2007-01-05/110511960574.shtml
+    excerpt: true
+    keep: [ 最近出版的第367期, 不是对个别的人而言的, 民主是人类迄今最好的政治制度, 不顾条件而推行民主, 我们不照搬国外的政治模式 ]
+  - id: i09-caixin-2015-10-28-yu-keping
+    title: 俞可平辞任中央编译局副局长转任北大教授
+    publisher: 财新网
+    date: 2015-10-28
+    voice: zh
+    url: https://china.caixin.com/2015-10-28/100867500.html
+    excerpt: true
+    keep: [ 经多次申请，他已获批辞去中央编译局副局长一职, 成为中国自己培养的第一代政治学博士 ]
+  - id: i09-szu-2022-07-11-yu-keping
+    title: 著名学者俞可平就任深圳大学政府管理学院首任院长
+    publisher: 深圳大学
+    date: 2022-07-11
+    voice: official
+    url: https://www.szu.edu.cn/info/1161/17115.htm
+    excerpt: true
+    keep: [ 著名学者俞可平就任深圳大学政府管理学院院长仪式, 曾任中共中央编译局副局长、北京大学政府管理学院院长, 比起做官来，他更愿意做事 ]
+  - id: i09-szu-yu-keping-profile
+    title: 俞可平（深圳大学政府管理学院个人简介）
+    publisher: 深圳大学政府管理学院
+    voice: official
+    url: https://sg.szu.edu.cn/jsfc/yukeping_2022000713.htm
+    excerpt: true
+    keep: [ 其《民主是个好东西》一文曾引起极大反响, 首席专家和第一责任人 ]
+  - id: i09-szu-2026-06-17-yu-keping
+    title: 院长俞可平教授出席中国观照下的政治理论与清华政治学暨第五届“国家+”论坛
+    publisher: 深圳大学政府管理学院
+    date: 2026-06-17
+    voice: official
+    url: https://sg.szu.edu.cn/info/1005/5960.htm
+    excerpt: true
+    keep: [ 深圳大学政府管理学院院长、北京大学中国政治学研究中心主任俞可平教授出席会议, 数智化对国家主权的新挑战 ]
+  - id: i09-eeo-2008-yu-keping-good-governance
+    title: 俞可平：中国改革的最终目标是实现善治（经济观察报专访，复旦大学社会科学高等研究院转载）
+    publisher: 经济观察报
+    date: 2008
+    voice: zh
+    url: http://www.ias.fudan.edu.cn/article/220
+    excerpt: true
+    keep: [ 先后提出“增量政治改革”与“增量民主”等概念, 从一元治理到多元治理 ]
+  - id: i09-people-2014-11-03-yu-keping-good-gov
+    title: 文章称善政是通向善治关键 应具备民主廉洁等8要素
+    publisher: 人民网（中国新闻网）
+    date: 2014-11-03
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1103/c70731-25965426.html
+    excerpt: true
+    keep: [ 善政是通向善治的关键, 必须根据宪法和法律，确保政府的各级官员真正由公民通过自由而公正的选举产生 ]
+  - id: i09-pku-2015-12-yu-keping-axioms
+    title: 俞可平主讲“才斋讲堂”第109讲：政治学的公理
+    publisher: 北京大学新闻网
+    date: 2015-12
+    voice: official
+    url: http://oldnews.pku.edu.cn/ztrd/czjt2016/2996-292089.htm
+    excerpt: true
+    keep: [ 封闭的环, 民主政治是最理想的社会制度, 民主绝对不是独属于西方的价值观 ]
+  - id: i09-chinareform-2016-yu-keping-axioms
+    title: 党内法规那么严，为什么还有贪官？（俞可平《政治学的公理》讲演）
+    publisher: 中国改革网（时务通讯）
+    author: 俞可平
+    date: 2016-09-29
+    voice: scholar
+    url: http://chinareform.net/plus/view.php?aid=16175
+    excerpt: true
+    keep: [ 谁产生权力，权力就对谁负责, 如果是一片官员腐败，那肯定是制度出了问题 ]
+  - id: i09-caixin-2016-02-19-yu-keping-officialism
+    title: 俞可平：官本主义是现实，民本主义是理想
+    publisher: 财新网
+    author: 俞可平
+    date: 2016-02-19
+    voice: scholar
+    url: https://opinion.caixin.com/2016-02-19/100910463.html
+    excerpt: true
+    keep: [ 民主法治是破解官本主义的不二法门 ]
+  - id: i09-fa-2009-05-yu-keping-review
+    title: "Democracy Is a Good Thing (capsule review by Andrew J. Nathan)"
+    publisher: Foreign Affairs
+    author: Andrew J. Nathan
+    date: 2009-05-01
+    voice: scholar
+    lang: en
+    url: https://www.foreignaffairs.com/reviews/capsule-review/2009-05-01/democracy-good-thing-essays-politics-society-and-culture
+    excerpt: true
+    keep: [ an adviser to Chinese President Hu Jintao, The puzzle is whether ]
+
+  - id: i09-zhwiki-yu-keping
+    title: 俞可平（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/俞可平
+    excerpt: true
+    keep: [ 2001年至2015年10月，担任中共中央编译局副局长, 2020年11月，卸任北京大学政府管理学院院长职务 ]
+
+  # ---- 林毅夫
+  - id: i09-zhwiki-lin-yifu
+    title: 林毅夫（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/林毅夫
+    excerpt: true
+    keep: [ 2013年－2017年：中华全国工商业联合会专职副主席, 2013年－：中华人民共和国国务院参事, 原名林正义，后改林正谊, 下部队后，林正义因与部队长官同名而自行改名为, 1979年5月16日夜, 法务部研议后已认定林属, 1972年，林毅夫由国立台湾大学转入陆军军官学校, 1979年2月16日，林正谊成为金门防卫司令部284师马山连连长 ]
+  - id: i09-cppcc-2023-01-18-lin-yifu
+    title: 2022年度全国政协委员优秀履职奖丨林毅夫常委：成为合格委员的关键
+    publisher: 人民政协报（中国政协网）
+    date: 2023-01-18
+    voice: official
+    url: http://www.cppcc.gov.cn/zxww/2023/01/18/ARTI1674027162854713.shtml
+    excerpt: true
+    keep: [ 全国政协常委、经济委员会副主任，国务院参事，全国工商联原专职副主席，北京大学新结构经济学研究院院长 ]
+  - id: i09-pku-scholar-lin-yifu
+    title: 简历 | 林毅夫（北京大学学者主页）
+    publisher: 北京大学
+    voice: official
+    url: http://scholar.pku.edu.cn/yflin/cv
+    excerpt: true
+    keep: [ 台湾大学农业工程系肄业, 台湾政治大学企业管理研究所MBA, 北京大学经济学系政治经济学专业硕士, 美国芝加哥大学经济系博士, 国务院发展研究中心农村部副部长, 国务院农村发展研究中心发展研究所副所长, 北京大学中国经济研究中心主任, 世界银行高级副行长兼首席经济学家, 北京大学国家发展研究院荣誉院长, 全国政协常委、经济委员会副主任，全国工商业联合会专职副主席 ]
+  - id: i09-imf-2012-09-lin-yifu
+    title: "People in Economics: The Man with the Patience to Cook a Stone"
+    publisher: IMF Finance & Development
+    date: 2012-09
+    voice: west
+    lang: en
+    url: https://www.imf.org/external/pubs/ft/fandd/2012/09/people.htm
+    excerpt: true
+    keep: [ sharp critique of the Washington Consensus, arrest warrant hanging over his head, decided to swim across the 2, Schultz offered to arrange a scholarship, In 1994 Lin helped found the China Center, A key tenet of his “new framework for development”, He was later joined by his wife ]
+  - id: i09-voa-2002-11-19-lin-yifu-wanted
+    title: 台湾通缉北大教授林毅夫
+    publisher: 美国之音
+    date: 2002-11-19
+    voice: zh
+    url: https://www.voachinese.com/a/a-21-a-2002-11-19-5-1-63263102/977642.html
+    excerpt: true
+    keep: [ 台湾国防部正式通缉23年前叛逃大陆的林毅夫 ]
+  - id: i09-bbc-2002-06-02-lin-yifu-funeral
+    title: 前叛逃台軍官放棄返台奔喪
+    publisher: BBC 中文
+    date: 2002-06-02
+    voice: zh
+    url: http://news.bbc.co.uk/chinese/trad/hi/newsid_2020000/newsid_2022400/2022426.stm
+    excerpt: true
+    keep: [ 他將取消返台為父奔喪的計劃, 我不願因我返台之事而引起爭議 ]
+  - id: i09-rfi-2014-01-13-lin-yifu
+    title: 台湾将林毅夫叛逃案由军法移司法仍持续通缉
+    publisher: 法国国际广播电台
+    date: 2014-01-13
+    voice: zh
+    url: https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20140113-%E5%8F%B0%E6%B9%BE%E5%B0%86%E6%9E%97%E6%AF%85%E5%A4%AB%E5%8F%9B%E9%80%83%E6%A1%88%E7%94%B1%E5%86%9B%E6%B3%95%E7%A7%BB%E5%8F%B8%E6%B3%95%E4%BB%8D%E6%8C%81%E7%BB%AD%E9%80%9A%E7%BC%89
+    excerpt: true
+    keep: [ 持续发布了通缉令, 属于「继续犯」 ]
+  - id: i09-rmrbhwb-2013-05-03-lin-yifu
+    title: 林毅夫（人民日报海外版人物报道）
+    publisher: 人民日报海外版
+    date: 2013-05-03
+    voice: official
+    url: https://paper.people.com.cn/rmrbhwb/html/2013-05/03/content_1234251.htm
+    excerpt: true
+    keep: [ 我从来不认为自己是乐观派，我是客观派, 他反对“休克疗法” ]
+  - id: i09-thepaper-2016-11-lin-zhang-debate
+    title: 林毅夫张维迎产业政策大辩论，你需要知道的干货都在这里
+    publisher: 澎湃新闻
+    date: 2016-11-10
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1558434
+    excerpt: true
+    keep: [ 认为“经济发展有产业政策才能成功”的林毅夫, 我郑重的说我是既要有市场，也要有政府 ]
+  - id: i09-gov-2020-08-24-expert-symposium
+    title: 习近平主持召开经济社会领域专家座谈会并发表重要讲话
+    publisher: 新华社（中国政府网）
+    date: 2020-08-24
+    voice: official
+    url: https://www.gov.cn/xinwen/2020-08/24/content_5537091.htm
+    excerpt: true
+    keep: [ 新华社北京8月24日电, 等9位专家代表先后发言 ]
+
+  # ---- 郑永年
+  - id: i09-cuhksz-spp-zheng-yongnian
+    title: 郑永年（香港中文大学（深圳）公共政策学院教师简介）
+    publisher: 香港中文大学（深圳）公共政策学院
+    date: 2025
+    voice: official
+    url: https://spp.cuhk.edu.cn/teacher/79
+    excerpt: true
+    keep: [ 香港中文大学（深圳）校长学勤讲座教授、公共政策学院院长、前海国际事务研究院院长, 获中国北京大学法学学士 ]
+  - id: i09-cuhksz-iia-zheng-yongnian-en
+    title: Professor ZHENG Yongnian (The Institute for International Affairs, CUHK-Shenzhen)
+    publisher: CUHK-Shenzhen Institute for International Affairs
+    date: 2025
+    voice: official
+    lang: en
+    url: https://iia.cuhk.edu.cn/en/teacher/44
+    excerpt: true
+    keep: [ Lecturer in the Department of Politics and Public Administration of Peking University ]
+  - id: i09-cuhksz-2024-zheng-yongnian-decade
+    title: 十年风华·师者心语｜郑永年：带领年轻人，构建中国自主知识体系
+    publisher: 香港中文大学（深圳）
+    date: 2024
+    voice: official
+    url: https://www.cuhk.edu.cn/zh-hans/article/14572
+    excerpt: true
+    keep: [ 在2020年选择回国, 以对政策方针的建议为导向的很多报告也被国家领导层审阅和采纳 ]
+  - id: i09-chinanews-2010-05-04-zheng-china-model
+    title: 联合早报：为什么要提“中国模式”？（郑永年）
+    publisher: 中国新闻网（转载《联合早报》）
+    author: 郑永年
+    date: 2010-05-04
+    voice: scholar
+    url: http://www.chinanews.com.cn/hb/news/2010/05-04/2261034.shtml
+    excerpt: true
+    keep: [ 争论已经过于政治化甚至道德化, 理性而言，“中国模式”是客观存在的, 如何改进“中国模式”，是目前所面临的最大问题 ]
+  - id: i09-people-2014-09-16-zheng-yongnian
+    title: 郑永年：中国会按照自己的模式和逻辑走下去
+    publisher: 人民网（转《时代周报》）
+    date: 2014-09-16
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0916/c1001-25673691.html
+    excerpt: true
+    keep: [ 他看过不下五本郑永年先生的著作, 中国也绝对不会走向西方的民主, 中国模式可以说就是改革模式 ]
+  - id: i09-zaobao-2021-01-02-zheng-third-opening
+    title: 郑永年：中国的第三次开放
+    publisher: 联合早报
+    author: 郑永年
+    date: 2021-01-02
+    voice: scholar
+    url: https://www.zaobao.com.sg/realtime/china/story20210102-1113263
+    excerpt: true
+    keep: [ 第三次开放不仅仅是主动的开放, 内循环的核心是统一国内的规则 ]
+  - id: i09-hket-2019-08-20-zheng-water
+    title: 【反修例】星學者批內媒斷章取義：「斷水終結香港亂局」嚴重歪曲
+    publisher: 香港經濟日報（Wayback 存档）
+    date: 2019-08-20
+    voice: zh
+    url: https://web.archive.org/web/20240313124447/https://china.hket.com/article/2431579
+    excerpt: true
+    keep: [ 你只需要威脅斷水就好了, 這當然是玩笑說法, 俠客島也聲明 ]
+  - id: i09-cdt-2019-08-29-zheng-water
+    title: "Translation: “‘Cut Off Water to HK’? Are You Concussed?”"
+    publisher: China Digital Times
+    date: 2019-08-29
+    voice: west
+    lang: en
+    url: https://chinadigitaltimes.net/2019/08/translation-cut-off-hks-water-are-you-concussed/
+    excerpt: true
+    keep: [ A media directive issued on August 18th ]
+  - id: i09-straitstimes-2020-11-17-zheng-nus
+    title: "Former director of NUS East Asian Institute had behaved inappropriately with subordinate: NUS"
+    publisher: The Straits Times
+    date: 2020-11-17
+    voice: west
+    lang: en
+    url: https://www.straitstimes.com/singapore/former-director-of-nus-east-asian-institute-had-behaved-inappropriately-with-subordinate
+    excerpt: true
+    keep: [ hugging her without her consent, recorded the outcome of its internal review, stern warning ]
+
+  # ---- 蒋庆
+  - id: i09-rujiazg-jiang-qing
+    title: 蒋庆：阳明精舍的现代“山长”（作者简介）
+    publisher: 儒家网
+    voice: zh
+    url: https://www.rujiazg.com/article/1233
+    excerpt: true
+    keep: [ 一九九七年在贵阳龙场始建阳明精舍, 我就属于文化保守主义, 儿童读经运动”的大陆首倡者 ]
+  - id: i09-thepaper-2015-new-confucians
+    title: “对精英制、对民主的修正，是儒家能提供给世界的”
+    publisher: 澎湃新闻
+    date: 2015
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_1268303?commTag=true
+    excerpt: true
+    keep: [ 以蒋庆、康晓光等人为代表的大陆新儒家, 保守主义峰会 ]
+
+  # ---- 张千帆
+  - id: i09-rfa-2013-11-19-zhang-qianfan
+    title: 一周网事焦点：张千帆被全面封杀
+    publisher: 自由亚洲电台
+    date: 2013-11-19
+    voice: zh
+    url: https://www.rfa.org/mandarin/yataibaodao/meiti/aw-11192013142439.html
+    excerpt: true
+    keep: [ 张千帆在新浪、网易等网站上的微博账户被注销, 实行宪政民主 ]
+  - id: i09-initium-2019-04-16-zhang-qianfan
+    title: 专访宪法学者张千帆：宪政文明的暖流会融化中国体制的坚冰
+    publisher: 端传媒
+    date: 2019-04-16
+    voice: zh
+    url: https://theinitium.com/20190416-interview-zhangqianfan-social-contract-zh-hans/
+    excerpt: true
+    keep: [ 他的微信账户就被封锁, 宪法学教材也在全国范围内被下架 ]
+  - id: i09-ltn-2024-02-23-exit-bans
+    title: 怕他們在海外罵得更難聽 北京嚴防維權律師等4類人出逃
+    publisher: 自由時報
+    date: 2024-02-23
+    voice: zh
+    url: https://news.ltn.com.tw/news/world/breakingnews/4587311
+    excerpt: true
+    keep: [ 憲政學者張千帆 ]
+
+  - id: i09-zhwiki-zhang-qianfan
+    title: 张千帆（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/张千帆
+    excerpt: true
+    keep: [ 1989年（25岁）获得卡内基·梅隆大学物理学博士学位, 1999年至2002年，在南京大学法学院出任教授, 张千帆在其腾讯博客发表《改革共识倡议书》, 此后，张千帆被禁止出境, 1964年，张千帆出生在上海 ]
+
+  # ---- 阎学通
+  - id: i09-tuiir-yan-xuetong
+    title: 阎学通（清华大学国际关系研究院）
+    publisher: 清华大学国际关系研究院
+    date: 2020-12-04
+    voice: official
+    url: http://www.tuiir.tsinghua.edu.cn/info/1172/4806.htm
+    excerpt: true
+    keep: [ 1992年毕业于美国加州伯克利大学获政治学博士学位, 该理论借鉴中国古代政治思想中的政治决定论观点, 1982年毕业于黑龙江大学英语系, 1986年毕业于国际关系学院 ]
+  - id: i09-people-2014-12-10-yan-xuetong
+    title: 阎学通：“崛起困境”与中国外交新特征
+    publisher: 人民网（人民论坛）
+    date: 2014-12-10
+    voice: official
+    url: http://theory.people.com.cn/n/2014/1210/c112851-26183122.html
+    excerpt: true
+    keep: [ 外交战略由韬光养晦转为奋发有为, 我将之总结为“道义现实主义” ]
+  - id: i09-tuiir-2013-yan-mearsheimer
+    title: 阎学通与米尔斯海默对话“中国能否和平崛起”
+    publisher: 清华大学国际关系研究院
+    date: 2013-11
+    voice: official
+    url: http://www.tuiir.tsinghua.edu.cn/info/1089/5501.htm
+    excerpt: true
+    keep: [ 中国正在改变以往的“韬光养晦”政策 ]
+
+  # ---- 温铁军
+  - id: i09-ruc-2004-08-18-wen-tiejun
+    title: 我院引进温铁军教授和白南生教授
+    publisher: 中国人民大学农业与农村发展学院
+    date: 2004-08-18
+    voice: official
+    url: http://sard.ruc.edu.cn/xysy/xydt/429d2f8cbe5f48579564e26ca3127872.htm
+    excerpt: true
+    keep: [ 于1995年提出以“三农”问题取代“农业问题”的政策建议 ]
+  - id: i09-gmw-2016-10-18-wen-tiejun
+    title: 温铁军个人简介
+    publisher: 光明网
+    date: 2016-10-18
+    voice: official
+    url: https://share.gmw.cn/theory/2016-10/18/content_22533252.htm
+    excerpt: true
+    keep: [ 1983年毕业分配到中央军委总政治部研究室, 1987年全国农村改革试验区办公室正式组建后调入, 2004年-2013年任中国人民大学农业与农村发展学院院长, 2012年兼任西南大学中国乡村建设学院执行院长 ]
+
+  # ---- 周其仁
+  - id: i09-nsd-pku-zhou-qiren
+    title: 周其仁（北京大学国家发展研究院教授简介）
+    publisher: 北京大学国家发展研究院
+    voice: official
+    url: https://www.nsd.pku.edu.cn/szdw/qzjs/6bbaa709bfb741598a46edc05d083080.htm
+    excerpt: true
+    keep: [ 1982年毕业于中国人民大学经济系, 自1996年1月起在北京大学中国经济研究中心, 北大博雅资深教授 ]
+  - id: i09-caixin-2012-03-14-pboc-mpc
+    title: 钱颖一 陈雨露 宋国青进入央行货币政策委员会
+    publisher: 财新网
+    date: 2012-03-14
+    voice: zh
+    url: https://economy.caixin.com/2012-03-14/100368387.html
+    excerpt: true
+    keep: [ 均于2010年3月获任央行货币政策委员会委员 ]
+  - id: i09-bimba-zhou-qiren-land
+    title: 对话改革 周其仁：改革不应自我设限
+    publisher: 北大国家发展研究院 BiMBA（转《中国证券报》）
+    voice: official
+    url: https://www.bimba.pku.edu.cn/dpsbs/xzsq/dsgd/442717.htm
+    excerpt: true
+    keep: [ 曾担任北京大学国家发展研究院院长, 现实可行的土改路径, 政府一手征地、一手卖地 ]
+
+  # ---- 许纪霖
+  - id: i09-ecnu-xu-jilin
+    title: 许纪霖（华东师范大学历史学系教师简介）
+    publisher: 华东师范大学历史学系
+    voice: official
+    url: https://history.ecnu.edu.cn/93/f0/c33450a365552/page.htm
+    excerpt: true
+    keep: [ 1957年生，上海人, 2002年，回母校华东师范大学历史系任教至今, 1997年，调入上海师范大学历史系 ]
+  - id: i09-aisixiang-xu-jilin-profile
+    title: 许纪霖（爱思想专栏作者简介）
+    publisher: 爱思想
+    voice: zh
+    url: https://www.aisixiang.com/thinktank/XuJiLin.html
+    excerpt: true
+    keep: [ 在世纪之交自由主义和新左派的论战之外开辟了新的言路 ]
+
+  # ---- 萧功秦
+  - id: i09-fudan-ias-xiao-gongqin
+    title: 萧功秦（复旦大学社会科学高等研究院学人简介）
+    publisher: 复旦大学社会科学高等研究院
+    voice: official
+    url: http://www.ias.fudan.edu.cn/channel/967
+    excerpt: true
+    keep: [ 中国新权威主义现代化理论的代表学者 ]
+  - id: i09-reformdata-luyi-new-authoritarianism
+    title: 回顾一场几乎被遗忘的论争——“新权威主义”之争述评（卢毅）
+    publisher: 改革大数据服务平台（转《二十一世纪》）
+    author: 卢毅
+    voice: scholar
+    url: http://app.reformdata.org/print.php?contentid=23794
+    excerpt: true
+    keep: [ 时至1988年，思想界日趋活跃, 上海学者萧功秦在北戴河举行的知识份子问题学术讨论会上首次提出了 ]
+  - id: i09-nytcn-2013-11-16-xi-leader
+    title: “威武霸气”习近平
+    publisher: 纽约时报中文网
+    author: 储百亮
+    date: 2013-11-16
+    voice: west
+    url: https://cn.nytimes.com/china/20131116/c16leader/
+    excerpt: true
+    keep: [ 萧功秦是中国支持“新威权主义”的人中最知名的一位, 习近平代表着中国新威权主义黄金时代的到来 ]
+
+  # ---- 何新
+  - id: i09-csmonitor-1990-05-15-neoconservatives
+    title: China's Neoconservatives Step to the Fore
+    publisher: The Christian Science Monitor
+    date: 1990-05-15
+    voice: west
+    lang: en
+    url: https://www.csmonitor.com/1990/0515/otian2.html
+    excerpt: true
+    keep: [ says He Xin, a researcher at the Chinese Academy of Social Sciences, If reforms proceed in a radical way ]
+  - id: i09-people-2013-02-04-cppcc12-social-sciences
+    title: 中国人民政治协商会议第十二届全国委员会委员名单（社会科学界）
+    publisher: 人民网-人民日报
+    date: 2013-02-04
+    voice: doc
+    url: http://www.cppcc.people.com.cn/n/2013/0204/c45579-20421162-5.html
+    start: 社会科学界
+    end: 阚珂
+  - id: i09-zhwiki-he-xin
+    title: 何新（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/何新
+    excerpt: true
+    keep: [ 1980年调入中国社会科学院科研组织局任学术秘书, 1991年经过邓小平、李先念、王任重等领导人安排, 2003年，因公开批评政府总理朱镕基, 2008年后，再度出任第十一届全国政协委员, 1949年12月出生于浙江温州苍南, 主张西方伪史论, 2009年之后，何新致力于研究西方的神秘组织共济会 ]
+  - id: i09-szhgh-2013-03-15-he-xin-cppcc-speech
+    title: 何新委员在两会上谈共济会：我对国家未来既乐观又忧虑（何新网易博客）
+    publisher: 红歌会网（转何新博客）
+    author: 何新
+    date: 2013-03-15
+    voice: witness
+    rumor: true
+    url: https://www.szhgh.com/Article/opinion/xuezhe/18529.html
+    excerpt: true
+    keep: [ 第九届时候，我反对当时推行的大规模下岗, 有人说我是阴谋论, 这就是那个神秘的集宗教、金融、政治和文化于一体的共济会国际体系 ]

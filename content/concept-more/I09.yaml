@@ -1,0 +1,67 @@
+# I09 thinkers: representative scholars on existing concepts, plus voices from their own words
+
+new-left:
+  by: [wang-hui, cui-zhiyuan, gan-yang, wang-shaoguang]
+  cites: [i02-wiki-new-left, i02-cbr-2024-05-16-new-left-state]
+
+statism:
+  by: [qiang-shigong, liu-xiaofeng, pan-wei, wang-shaoguang]
+  cites: [i02-aisixiang-xu-jilin-statism]
+
+liberals:
+  by: [zhang-qianfan]
+  voices:
+    - voice: zh
+      text: 近年来他出书立说，在互联网活跃发表言论，主张中国推进政治体制改革、实行宪政民主、实现言论自由和司法独立。
+      cite: i09-rfa-2013-11-19-zhang-qianfan
+      quote: true
+  cites: [i09-rfa-2013-11-19-zhang-qianfan, i09-initium-2019-04-16-zhang-qianfan]
+
+neo-authoritarianism:
+  by: [xiao-gongqin]
+  voices:
+    - voice: scholar
+      text: 上海学者萧功秦在北戴河举行的知识份子问题学术讨论会上首次提出了「新权威主义」这一概念。
+      cite: i09-reformdata-luyi-new-authoritarianism
+      quote: true
+    - voice: west
+      text: 萧功秦是中国支持“新威权主义”的人中最知名的一位，他认为，习近平的出现是件极大的好事，习近平是他概念中的模范领导人邓小平的新化身。
+      cite: i09-nytcn-2013-11-16-xi-leader
+      quote: true
+  cites: [i09-fudan-ias-xiao-gongqin, i09-reformdata-luyi-new-authoritarianism, i09-nytcn-2013-11-16-xi-leader]
+
+maoist-left:
+  by: [zhang-hongliang]
+  cites: [c09-rfi-2010-06-27-zhang-hongliang]
+
+peaceful-rise:
+  by: [zheng-bijian]
+
+taoguang-yanghui:
+  voices:
+    - voice: scholar
+      text: 中国以往韬光养晦的策略反映的是弱国外交，中国变大变强之后，采取道义现实主义的理论和政策应是一个主流趋势。
+      cite: i09-people-2014-12-10-yan-xuetong
+      quote: true
+    - voice: scholar
+      text: 回答现场提问时，阎学通说，中国正在改变以往的“韬光养晦”政策，转而“奋发有为”。
+      cite: i09-tuiir-2013-yan-mearsheimer
+      quote: true
+  cites: [i09-people-2014-12-10-yan-xuetong, i09-tuiir-2013-yan-mearsheimer]
+
+socialist-market-economy:
+  by: [li-yining]
+  voices:
+    - voice: scholar
+      text: 我郑重的说我是既要有市场，也要有政府
+      cite: i09-thepaper-2016-11-lin-zhang-debate
+      quote: true
+  cites: [c05-xinhua-2023-03-08-li-yining, i09-thepaper-2016-11-lin-zhang-debate]
+
+dual-circulation:
+  voices:
+    - voice: scholar
+      text: 内循环的核心是统一国内的规则，外循环则是中国规则的国际化。
+      cite: i09-zaobao-2021-01-02-zheng-third-opening
+      quote: true
+  cites: [i09-zaobao-2021-01-02-zheng-third-opening]

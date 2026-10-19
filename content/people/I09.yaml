@@ -1,0 +1,536 @@
+# I09 thinkers (round 9): scholars and theorists, with their views and their standing with the authorities
+
+# --- 传记 ---
+- id: yu-keping
+  name: 俞可平
+  pinyin: Yú Kěpíng
+  gender: m
+  born: 1959-07
+  birthplace: 浙江诸暨
+  education:
+    - { school: 北京大学国际政治系, degree: 政治学博士, from: 1985 }
+  roles: [scholar]
+  status: active
+  tier: 1
+  headline: 深圳大学政府管理学院院长、北京大学讲席教授，曾任中央编译局副局长
+  ids: { wikidata: Q3573073 }
+  bio: >-
+    政治学者，中国自己培养的第一代政治学博士之一，2001–2015 年任中共中央编译局副局长，以倡导“增量民主”“善治”闻名。
+    2007 年初《学习时报》刊登、中新网转载他的《民主是个好东西》，文中称民主是“人类迄今最好的政治制度”，同时强调中国“不照搬国外的政治模式”，
+    在国内外引起广泛反响，《外交事务》称他为胡锦涛的顾问。2015 年他请辞编译局职务，转任北京大学政府管理学院院长，2022 年起任深圳大学政府管理学院首任院长。
+  positions:
+    - { title: 中共中央编译局副局长, sys: party, from: 2001, to: 2015-10, cite: i09-zhwiki-yu-keping }
+    - { title: 北京大学中国政治学研究中心主任、讲席教授, sys: other, from: 2015-10, cite: i09-caixin-2015-10-28-yu-keping }
+    - { title: 北京大学政府管理学院院长, sys: other, from: 2015-10, to: 2020-11, cite: i09-zhwiki-yu-keping }
+    - { title: 北京大学城市治理研究院院长, sys: other, cite: i09-szu-2022-07-11-yu-keping }
+    - { title: 马克思主义理论研究和建设工程重点课题首席专家, sys: other, cite: i09-szu-yu-keping-profile }
+    - { title: 深圳大学政府管理学院院长, sys: other, place: 广东, from: 2022-07, cite: i09-szu-2022-07-11-yu-keping }
+  life:
+    - h: 求学与编译局
+      from: 1959
+      to: 2000
+      text: >-
+        1959 年生于浙江诸暨。1985 年考入北京大学国际政治系攻读政治学博士，财新称他由此“成为中国自己培养的第一代政治学博士”。
+        毕业后在北大政治学与行政管理系任教，不久调入中共中央编译局，曾任编译局比较政治与经济研究中心主任，2001 年起任副局长，直到 2015 年。
+      cites: [i09-caixin-2015-10-28-yu-keping, i09-zhwiki-yu-keping]
+    - h: 增量民主与善治
+      from: 2000
+      to: 2008
+      text: >-
+        在编译局期间，他先后提出“增量政治改革”与“增量民主”等概念，出版《增量民主与善治》等书，把中国治理改革的方向概括为
+        “从一元治理到多元治理；从集权到分权；从人治到法治；从管制政府到服务政府；从党内民主到社会民主”。
+        他还创办“中国地方政府创新奖”，主持研制中国国家治理评估指标体系，并长期担任马克思主义理论研究和建设工程课题的首席专家。
+      cites: [i09-eeo-2008-yu-keping-good-governance, i09-szu-2022-07-11-yu-keping, i09-szu-yu-keping-profile]
+    - h: 民主是个好东西
+      from: 2007
+      to: 2009
+      text: >-
+        2007 年初，《学习时报》刊登他的文章《民主是个好东西》，中新网全文转载。文章承认民主有许多内在不足，但说
+        “在人类迄今发明和推行的所有政治制度中，民主是弊端最少的一种”；又说“不顾条件而推行民主，会给国家和人民带来灾难性的结果”，
+        主张建设中国特色社会主义民主政治，“不照搬国外的政治模式”。美国布鲁金斯学会随后出版了他的英文文集，书名即 Democracy Is a Good Thing。
+        《外交事务》的书评说，他把民主称为普世价值，却拒绝西方模式。
+      cites: [i09-sina-2007-01-05-yu-keping-democracy, i09-fa-2009-05-yu-keping-review]
+    - h: 参与中央决策调研
+      from: 2000
+      to: 2015
+      text: >-
+        深圳大学的简介说，他“长期参与中央重大决策调研并负责多项国家重大研究课题”，先后主持“党内民主研究”“党和国家领导体制改革研究”
+        “中国治理改革30年：1978-2008”等课题，并担任由 18 个国家社科基金重大项目组成的马工程重点课题“马克思主义经典著作基本观点研究”的首席专家和第一责任人。
+        美国《外交事务》的书评称他为胡锦涛的顾问。
+      cites: [i09-szu-yu-keping-profile, i09-fa-2009-05-yu-keping-review]
+    - h: 善政与政治学的公理
+      from: 2014
+      to: 2016
+      text: >-
+        2014 年他在《学习时报》撰文，提出善政应具备“民主、责任、服务、质量、效益、专业、透明和廉洁”八个要素，主张确保各级官员
+        “由公民通过自由而公正的选举产生”。2015 年底在北大讲座中他提出政治学的“公理”，认为民主政治是最理想的社会制度、民主不独属于西方，
+        并用“谁产生权力，权力就对谁负责”解释腐败屡禁不止：“如果是一片官员腐败，那肯定是制度出了问题”。
+      cites: [i09-people-2014-11-03-yu-keping-good-gov, i09-pku-2015-12-yu-keping-axioms, i09-chinareform-2016-yu-keping-axioms]
+    - h: 辞官回北大
+      from: 2015
+      to: 2022
+      text: >-
+        2012 年 12 月他受聘为新成立的中国红十字会社会监督委员会委员。2015 年 10 月，他在一次研讨会上宣布“经多次申请”获准辞去中央编译局副局长，转任北京大学新组建的政治学研究中心主任、讲席教授，
+        并接替罗豪才兼任北大政府管理学院院长，2020 年 11 月卸任院长。此后他提出“官本主义”的分析框架，称“民主法治是破解官本主义的不二法门”，
+        并主持编纂多卷本《政治通鉴》。
+      cites: [i09-caixin-2015-10-28-yu-keping, i09-zhwiki-yu-keping, i09-caixin-2016-02-19-yu-keping-officialism, i09-szu-2022-07-11-yu-keping]
+    - h: 南下深圳
+      from: 2022
+      to: 2026
+      text: >-
+        2022 年 7 月出任深圳大学政府管理学院首任院长。就职时他说，“比起做官来，他更愿意做事”，在北京专心做政治学基础研究，
+        在深圳则侧重国家治理和城市治理的现实问题。到 2026 年他仍任深大政府管理学院院长、北大中国政治学研究中心主任，
+        当年 6 月在清华大学的论坛上以“数智化对国家主权的新挑战”为题作主旨发言。
+      cites: [i09-szu-2022-07-11-yu-keping, i09-szu-2026-06-17-yu-keping]
+  assess:
+    - voice: official
+      quote: true
+      text: 因倡导“治理”“善治”“社会治理”“全球治理”“官民共治”“增量民主”“政府创新”“动态稳定”“协商民主”等而广受关注，其《民主是个好东西》一文曾引起极大反响
+      cite: i09-szu-yu-keping-profile
+    - voice: zh
+      quote: true
+      text: 俞可平重视中国现实政治问题，先后提出“增量政治改革”与“增量民主”等概念，在学术界引起广泛影响。
+      cite: i09-eeo-2008-yu-keping-good-governance
+    - voice: scholar
+      quote: true
+      text: The puzzle is whether such arguments are intended to push for reform from within the system or to appropriate the label of democracy for practices that are anything but.
+      zh: 问题在于，这些论点究竟是要从体制内推动改革，还是要把民主的标签挪用到根本谈不上民主的做法上。
+      cite: i09-fa-2009-05-yu-keping-review
+  cites:
+    - i09-caixin-2015-10-28-yu-keping
+    - i09-sina-2007-01-05-yu-keping-democracy
+    - i09-szu-2022-07-11-yu-keping
+    - i09-szu-yu-keping-profile
+    - i09-szu-2026-06-17-yu-keping
+    - i09-eeo-2008-yu-keping-good-governance
+    - i09-fa-2009-05-yu-keping-review
+    - i09-zhwiki-yu-keping
+    - wd-Q3573073
+
+- id: lin-yifu
+  name: 林毅夫
+  pinyin: Lín Yìfū
+  aka: [林正义, 林正谊, Justin Yifu Lin]
+  gender: m
+  born: 1952-10-15
+  birthplace: 台湾宜兰
+  education:
+    - { school: 台湾大学农业工程系（肄业）, to: 1971 }
+    - { school: 台湾政治大学企业管理研究所, degree: MBA, to: 1978 }
+    - { school: 北京大学经济学系, degree: 政治经济学硕士, to: 1982 }
+    - { school: 芝加哥大学经济系, degree: 经济学博士, to: 1986 }
+  roles: [scholar]
+  status: active
+  tier: 1
+  headline: 北京大学新结构经济学研究院院长、全国政协常委，前世界银行首席经济学家
+  ids: { wikidata: Q709764 }
+  bio: >-
+    台湾宜兰人，原为驻守金门的国军连长，1979 年泅海投奔大陆，后获芝加哥大学经济学博士。1994 年参与创办北京大学中国经济研究中心，
+    2008–2012 年任世界银行高级副行长兼首席经济学家，是出任此职的第一位发展中国家学者。他倡导“新结构经济学”，主张“有效市场”与“有为政府”并重，
+    2016 年与张维迎的产业政策之争广受关注。他长期任全国政协委员、常委和国务院参事；台湾方面认定其叛逃属“继续犯”，至今维持通缉。
+  positions:
+    - { title: 国务院农村发展研究中心发展研究所副所长, sys: gov, from: 1987, to: 1990, cite: i09-pku-scholar-lin-yifu }
+    - { title: 国务院发展研究中心农村部副部长, sys: gov, from: 1990, to: 1993, cite: i09-pku-scholar-lin-yifu }
+    - { title: 北京大学中国经济研究中心主任, sys: other, from: 1994, to: 2008, cite: i09-pku-scholar-lin-yifu }
+    - { title: 世界银行高级副行长兼首席经济学家, sys: other, from: 2008, to: 2012, cite: i09-pku-scholar-lin-yifu }
+    - { title: 北京大学国家发展研究院荣誉院长, sys: other, from: 2012, cite: i09-pku-scholar-lin-yifu }
+    - { title: 国务院参事, sys: gov, from: 2013, cite: i09-zhwiki-lin-yifu }
+    - { title: 全国工商联专职副主席, sys: other, from: 2013, to: 2017, cite: i09-zhwiki-lin-yifu }
+    - { title: 全国政协常委、经济委员会副主任, sys: other, from: 2013, cite: i09-cppcc-2023-01-18-lin-yifu }
+  life:
+    - h: 宜兰到金门
+      from: 1952
+      to: 1979
+      text: >-
+        1952 年生于台湾宜兰，原名林正义。他曾就读台湾大学农业工程系，1972 年转入陆军军官学校，1978 年取得政治大学企业管理研究所硕士；
+        下部队后因与长官同名改名林正谊。1979 年 2 月出任金门马山连连长，国际货币基金组织的人物特写称他当时是“a model officer in the Taiwanese army”。
+      cites: [i09-zhwiki-lin-yifu, i09-pku-scholar-lin-yifu, i09-imf-2012-09-lin-yifu]
+    - h: 泅渡与求学
+      from: 1979
+      to: 1987
+      text: >-
+        1979 年 5 月 16 日夜，他从金门泅海约 2 公里到厦门，后再改名林毅夫，进入北京大学经济系读政治经济学硕士。其间他为来访的诺贝尔奖得主舒尔茨担任翻译，
+        舒尔茨回美后为他安排了芝加哥大学的奖学金。1986 年他获芝加哥大学经济学博士，次年在耶鲁大学做博士后，随后回国。
+      cites: [i09-zhwiki-lin-yifu, i09-imf-2012-09-lin-yifu, i09-pku-scholar-lin-yifu]
+    - h: 智库与北大
+      from: 1987
+      to: 2008
+      text: >-
+        回国后他先在国务院农村发展研究中心发展研究所任副所长，1990–1993 年任国务院发展研究中心农村部副部长。1994 年他参与创办北京大学中国经济研究中心并任主任至 2008 年，
+        国际货币基金组织的特写说该中心对中国经济政策的影响日增。美国之音 2002 年报道，他当时是全国政协委员。
+      cites: [i09-pku-scholar-lin-yifu, i09-imf-2012-09-lin-yifu, i09-voa-2002-11-19-lin-yifu-wanted]
+    - h: 世界银行
+      from: 2008
+      to: 2012
+      text: >-
+        2008–2012 年任世界银行高级副行长兼首席经济学家。他说自己“Not only the first from a developing country, but also [the first] to have a good understanding of developing countries”。
+        任内他提出后来称为“新结构经济学”的发展框架，核心之一是由政府扶持与本国要素禀赋相符的产业，以推动结构转型，被视为对华盛顿共识的批评。
+        国际货币基金组织的特写指出，这种俗称“picking winners and losers”的产业政策历史上毁誉参半，金融危机后又重新受到重视。
+      cites: [i09-pku-scholar-lin-yifu, i09-imf-2012-09-lin-yifu]
+    - h: 产业政策之争
+      from: 2012
+      to: 2016
+      text: >-
+        卸任后回北大任国家发展研究院荣誉院长。2013 年两会上他称中国经济未来 20 年仍有潜力维持 8% 的增长，对质疑回应说“我从来不认为自己是乐观派，我是客观派”。
+        他反对“休克疗法”，人民日报海外版说他虽是“芝加哥经济学派”的嫡传弟子，却没有选择该学派的“自由市场”理论，认为私有化不能解决国企问题。2016 年 11 月他与张维迎公开辩论产业政策，张称“产业政策是穿着马甲的计划经济”，
+        他则说“我郑重的说我是既要有市场，也要有政府”。
+      cites: [i09-pku-scholar-lin-yifu, i09-rmrbhwb-2013-05-03-lin-yifu, i09-thepaper-2016-11-lin-zhang-debate]
+    - h: 体制内的位置
+      from: 2013
+      to: 2026
+      text: >-
+        2013 年起任国务院参事，2013–2017 年任全国工商联专职副主席，并任全国政协常委、经济委员会副主任。2020 年 8 月 24 日，
+        习近平在中南海主持经济社会领域专家座谈会，新华社列出的 9 位发言专家中他排在首位，就“十四五”规划提出建议。他还获得 2022 年度全国政协委员优秀履职奖。
+      cites: [i09-zhwiki-lin-yifu, i09-cppcc-2023-01-18-lin-yifu, i09-gov-2020-08-24-expert-symposium]
+    - h: 无法返台
+      from: 2002
+      to: 2014
+      text: >-
+        2002 年父亲在宜兰去世，台湾方面仍视他为叛逃军官，他取消了返台奔丧的计划，并通过家人声明“我不願因我返台之事而引起爭議”。
+        同年 11 月台湾国防部正式通缉他。2014 年 1 月案件由军法移交金门的检察机关，检方认定他的“通敌现况并未消失”，属“继续犯”，继续通缉。
+        台湾舆论对此分为两派：一派认为按当时刑法通缉时效早已过期，应让他返台探亲；另一派认为投敌行为仍在持续，不存在时效问题。
+      cites: [i09-bbc-2002-06-02-lin-yifu-funeral, i09-voa-2002-11-19-lin-yifu-wanted, i09-rfi-2014-01-13-lin-yifu, i09-zhwiki-lin-yifu]
+  assess:
+    - voice: west
+      quote: true
+      text: But his theories are a deliberate and sharp critique of the Washington Consensus, the broad range of “neoliberal” policies previously closely associated with Washington D.C. institutions, including the IMF, the U.S. Treasury, and the World Bank.
+      zh: 但他的理论是对华盛顿共识有意且尖锐的批评；华盛顿共识指过去与国际货币基金组织、美国财政部和世界银行等华盛顿机构紧密相关的一整套“新自由主义”政策。
+      cite: i09-imf-2012-09-lin-yifu
+    - voice: official
+      quote: true
+      text: 林毅夫一直强调在市场的基础上发挥政府作用，在他看来，对于发展中国家而言，政府干预的重要性不言而喻。
+      cite: i09-rmrbhwb-2013-05-03-lin-yifu
+    - voice: zh
+      quote: true
+      text: 认为“经济发展有产业政策才能成功”的林毅夫和表示“产业政策是穿着马甲的计划经济”的张维迎，在该不该实施产业政策上意见相左。
+      cite: i09-thepaper-2016-11-lin-zhang-debate
+  family:
+    - name: 陈云英
+      rel: 妻
+      text: 林毅夫在芝加哥读博期间，妻子陈云英带两个孩子赴美团聚，后在乔治·华盛顿大学获博士学位。
+      cites: [i09-imf-2012-09-lin-yifu]
+  cites:
+    - i09-pku-scholar-lin-yifu
+    - i09-imf-2012-09-lin-yifu
+    - i09-cppcc-2023-01-18-lin-yifu
+    - i09-rmrbhwb-2013-05-03-lin-yifu
+    - i09-thepaper-2016-11-lin-zhang-debate
+    - i09-voa-2002-11-19-lin-yifu-wanted
+    - i09-rfi-2014-01-13-lin-yifu
+    - i09-gov-2020-08-24-expert-symposium
+    - i09-zhwiki-lin-yifu
+    - wd-Q709764
+
+- id: zheng-yongnian
+  name: 郑永年
+  pinyin: Zhèng Yǒngnián
+  gender: m
+  born: 1962
+  birthplace: 浙江
+  education:
+    - { school: 北京大学, degree: 法学学士, to: 1985 }
+    - { school: 北京大学, degree: 法学硕士, to: 1988 }
+    - { school: 普林斯顿大学, degree: 政治学博士, to: 1995 }
+  roles: [scholar]
+  status: active
+  tier: 1
+  headline: 香港中文大学（深圳）公共政策学院院长、前海国际事务研究院院长，前新加坡国立大学东亚研究所所长
+  ids: { wikidata: Q8462925 }
+  bio: >-
+    政治学者，北京大学和普林斯顿大学出身，2008–2020 年任新加坡国立大学东亚研究所所长，常在《联合早报》发表评论，以论述“中国模式”与中国改革著称，
+    国家副主席李源潮 2014 年说读过他不下五本著作。2019 年他接受《人民日报》海外版“侠客岛”采访时的“断水”说法引发争议。2020 年新加坡国立大学认定他曾未经同意拥抱下属，
+    违反员工守则；同年他回国，在香港中文大学（深圳）创办前海国际事务研究院，并在习近平主持的经济社会领域专家座谈会上发言，2024 年任该校公共政策学院院长。
+  positions:
+    - { title: 北京大学政治与行政管理系讲师, sys: other, from: 1988, to: 1990, cite: i09-cuhksz-iia-zheng-yongnian-en }
+    - { title: 新加坡国立大学东亚研究所研究员、资深研究员, sys: other, place: 新加坡, from: 1997, to: 2005, cite: i09-cuhksz-iia-zheng-yongnian-en }
+    - { title: 诺丁汉大学中国政策研究所教授、研究主任, sys: other, place: 英国, from: 2005, to: 2008, cite: i09-cuhksz-iia-zheng-yongnian-en }
+    - { title: 新加坡国立大学东亚研究所所长, sys: other, place: 新加坡, from: 2008, to: 2020, cite: i09-cuhksz-iia-zheng-yongnian-en }
+    - { title: 香港中文大学（深圳）前海国际事务研究院院长, sys: other, place: 广东, from: 2020, cite: i09-cuhksz-2024-zheng-yongnian-decade }
+    - { title: 香港中文大学（深圳）公共政策学院院长, sys: other, place: 广东, from: 2024, cite: i09-cuhksz-2024-zheng-yongnian-decade }
+  life:
+    - h: 北大与普林斯顿
+      from: 1962
+      to: 1997
+      text: >-
+        1962 年生于浙江。1985、1988 年先后获北京大学法学学士、硕士，1988–1990 年在北大政治与行政管理系任讲师。
+        此后赴美，1992 年获普林斯顿大学政治学硕士，1995 年获博士，又在哈佛大学做博士后研究，1995–1997 年为美国社会科学研究会—麦克阿瑟基金会研究员。
+      cites: [i09-cuhksz-spp-zheng-yongnian, i09-cuhksz-iia-zheng-yongnian-en, i09-cuhksz-2024-zheng-yongnian-decade]
+    - h: 新加坡与诺丁汉
+      from: 1997
+      to: 2008
+      text: >-
+        1997 年起在新加坡国立大学东亚研究所任研究员、资深研究员，1998–2000 年获麦克阿瑟基金会研究资助，2005–2008 年任英国诺丁汉大学中国政策研究所教授和研究主任。
+        他同时在新加坡《联合早报》等华文媒体发表时评，评论中国的政治改革与国家转型；他自述从北大毕业后辗转美国、新加坡和英国，一直在思考大学教育与学术研究的意义。
+      cites: [i09-cuhksz-iia-zheng-yongnian-en, i09-chinanews-2010-05-04-zheng-china-model, i09-cuhksz-2024-zheng-yongnian-decade]
+    - h: 中国模式
+      from: 2008
+      to: 2014
+      text: >-
+        2008 年回新加坡出任东亚研究所所长。2010 年他在《联合早报》撰文说，“中国模式”的争论“已经过于政治化甚至道德化”，主张承认这一模式客观存在，
+        并认为“如何改进‘中国模式’，是目前所面临的最大问题”。2014 年他对《时代周报》说“中国模式可以说就是改革模式”，主张一种
+        “通过主动的国家转型来应对大转型带来的各种问题和挑战的战略选择”；又说“在政府与市场的关系上,中国的政府肯定是强于市场的”，中国“绝对不会走向西方的民主”。
+        同年国家副主席李源潮会见学者时对他说，看过“不下五本”他的著作，“对中国很有借鉴”。
+      cites: [i09-chinanews-2010-05-04-zheng-china-model, i09-people-2014-09-16-zheng-yongnian]
+    - h: 断水风波
+      from: 2019-08
+      to: 2019-08
+      text: >-
+        2019 年 8 月香港反修例运动期间，他接受“侠客岛”采访，谈到运动如何收尾时转述一位新加坡前高官的话，“你只需要威脅斷水就好了”，随即说“這當然是玩笑說法”，又称香港“大部分人也知道自己跟內地分不開”，只是少数激进的人利用了国际化的便利。
+        中国数字时代披露，官方曾下令各媒体推送这篇访谈，部分媒体以“斷水就可終結香港亂局”为题转载，引发香港舆论反感。他随后发表声明，指这一标题严重歪曲原意，要求删文道歉。
+      cites: [i09-hket-2019-08-20-zheng-water, i09-cdt-2019-08-29-zheng-water]
+    - h: 新加坡国立大学调查
+      from: 2019
+      to: 2020-11
+      text: >-
+        一名东亚研究所女职员 2019 年报警，指控他猥亵。新加坡警方 2020 年 4 月就此事对他发出严厉警告。2020 年 11 月新加坡国立大学公布内部调查结果，
+        认定他在一次工作会议中未经同意拥抱该下属，违反员工行为守则，本应给予书面警告；因他已于当年离职，校方将结果记入员工档案。
+      cites: [i09-straitstimes-2020-11-17-zheng-nus]
+    - h: 回国与前海
+      from: 2020
+      to: 2026
+      text: >-
+        2020 年他回国，在香港中文大学（深圳）创立前海国际事务研究院。同年 8 月 24 日，他以该校全球与当代中国高等研究院院长身份在习近平主持的经济社会领域专家座谈会上发言。
+        2021 年初他撰文说中国正处于“第三次开放的前夜”，主张“即使美国的强硬派围堵我们，封锁我们，我们也要向美西方国家开放”，认为“内循环的核心是统一国内的规则”。2024 年他任该校公共政策学院创始院长，校方称研究院的不少政策建议报告“被国家领导层审阅和采纳”。
+      cites: [i09-cuhksz-2024-zheng-yongnian-decade, i09-gov-2020-08-24-expert-symposium, i09-zaobao-2021-01-02-zheng-third-opening]
+  assess:
+    - voice: scholar
+      quote: true
+      text: 理性而言，“中国模式”是客观存在的。就像是盖房子，房子盖好了肯定有个模式。
+      cite: i09-chinanews-2010-05-04-zheng-china-model
+    - voice: official
+      quote: true
+      text: 中国也绝对不会走向西方的民主。
+      cite: i09-people-2014-09-16-zheng-yongnian
+    - voice: west
+      quote: true
+      text: 'The interview, originally titled “Conversation with Zheng Yongnian: how to bring the Hong Kong disturbance to a conclusion,” was chosen by government authorities to receive special promotion across online platforms.'
+      zh: 这篇访谈原题为《对话郑永年：香港风波将如何收尾》，被官方选定在各网络平台重点推送。
+      cite: i09-cdt-2019-08-29-zheng-water
+  cites:
+    - i09-cuhksz-spp-zheng-yongnian
+    - i09-cuhksz-iia-zheng-yongnian-en
+    - i09-cuhksz-2024-zheng-yongnian-decade
+    - i09-chinanews-2010-05-04-zheng-china-model
+    - i09-people-2014-09-16-zheng-yongnian
+    - i09-zaobao-2021-01-02-zheng-third-opening
+    - i09-hket-2019-08-20-zheng-water
+    - i09-cdt-2019-08-29-zheng-water
+    - i09-straitstimes-2020-11-17-zheng-nus
+    - i09-gov-2020-08-24-expert-symposium
+    - wd-Q8462925
+
+# --- 档案卡 ---
+- id: jiang-qing
+  name: 蒋庆
+  gender: m
+  born: 1953-10-01
+  birthplace: 贵州贵阳
+  origin: 江苏徐州
+  roles: [scholar]
+  status: retired
+  statusNote: 2001 年从深圳行政学院提前退休，此后在贵阳龙场的阳明精舍讲学。
+  tier: 2
+  headline: 儒家学者，“政治儒学”与儒家宪政的倡导者，阳明精舍山长
+  ids: { wikidata: Q6191559 }
+  bio: >-
+    西南政法大学法律系毕业，曾任教西南政法大学、深圳行政学院，2001 年提前退休，在贵阳龙场建阳明精舍。他以《政治儒学》主张回到“王道政治”，
+    自称“我就属于文化保守主义”；2012 年与贝淡宁在《纽约时报》撰文，提出由通儒院、国体院、庶民院组成的三院制议会。
+  positions:
+    - { title: 西南政法大学教师, sys: other, place: 重庆, cite: i09-rujiazg-jiang-qing }
+    - { title: 深圳行政学院教师, sys: other, place: 广东, to: 2001, cite: i09-rujiazg-jiang-qing }
+    - { title: 阳明精舍山长, sys: other, place: 贵州, from: 1997, cite: i09-rujiazg-jiang-qing }
+  assess:
+    - voice: zh
+      quote: true
+      text: 一方面有以蒋庆、康晓光等人为代表的大陆新儒家，他们是文化保守主义的激进派
+      cite: i09-thepaper-2015-new-confucians
+  cites: [i09-rujiazg-jiang-qing, i09-thepaper-2015-new-confucians, i03-voa-2012-07-13-jiang-qing, wd-Q6191559]
+
+- id: zhang-qianfan
+  name: 张千帆
+  gender: m
+  born: 1964-01
+  roles: [scholar]
+  status: active
+  statusNote: 维基百科与自由时报 2024 年转述的说法称他已被限制出境，未见官方说明。
+  tier: 2
+  headline: 北京大学法学院教授，宪法学者
+  ids: { wikidata: Q27804622 }
+  bio: >-
+    南京大学物理系毕业，获卡内基·梅隆大学物理学博士和得克萨斯大学奥斯汀分校政府学博士，2003 年起任北京大学法学院教授。他主张推进政治体制改革、实行宪政民主，
+    2012 年底发起《改革共识倡议书》；2013 年微博、博客被注销，2019 年所编宪法学教材在全国下架，微信账户被封。
+  positions:
+    - { title: 南京大学法学院教授, sys: other, place: 江苏, from: 1999, to: 2002, cite: i09-zhwiki-zhang-qianfan }
+    - { title: 北京大学法学院教授, sys: other, from: 2003, cite: i09-zhwiki-zhang-qianfan }
+    - { title: 教育部宪法与行政法重点研究基地常务副主任, sys: other, cite: i09-rfa-2013-11-19-zhang-qianfan }
+    - { title: 中国宪法学会副会长, sys: other, cite: i09-rfa-2013-11-19-zhang-qianfan }
+  assess:
+    - voice: zh
+      quote: true
+      text: 近年来他出书立说，在互联网活跃发表言论，主张中国推进政治体制改革、实行宪政民主、实现言论自由和司法独立。
+      cite: i09-rfa-2013-11-19-zhang-qianfan
+  cites: [i09-zhwiki-zhang-qianfan, i09-rfa-2013-11-19-zhang-qianfan, i09-initium-2019-04-16-zhang-qianfan, i09-ltn-2024-02-23-exit-bans, wd-Q27804622]
+
+- id: yan-xuetong
+  name: 阎学通
+  gender: m
+  born: 1952-12-07
+  birthplace: 天津
+  education:
+    - { school: 黑龙江大学英语系, degree: 学士, to: 1982 }
+    - { school: 国际关系学院, degree: 硕士, to: 1986 }
+    - { school: 加州大学伯克利分校政治学系, degree: 博士, to: 1992 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 清华大学资深教授、国际关系研究院院长，道义现实主义的提出者
+  ids: { wikidata: Q8048184 }
+  bio: >-
+    国际关系学者，1992 年获伯克利加州大学政治学博士，任清华大学资深教授、国际关系研究院院长、世界和平论坛秘书长。他提出“道义现实主义”，
+    2014 年说习近平上任后中国“外交战略由韬光养晦转为奋发有为”，并主张中国放弃不结盟政策、向邻国作出安全承诺。
+  positions:
+    - { title: 清华大学国际关系研究院院长, sys: other, cite: i09-tuiir-yan-xuetong }
+    - { title: 世界和平论坛秘书长, sys: other, cite: i09-tuiir-yan-xuetong }
+    - { title: 清华大学资深教授, sys: other, cite: i09-tuiir-yan-xuetong }
+  assess:
+    - voice: scholar
+      quote: true
+      text: 中国以往韬光养晦的策略反映的是弱国外交，中国变大变强之后，采取道义现实主义的理论和政策应是一个主流趋势。
+      cite: i09-people-2014-12-10-yan-xuetong
+    - voice: official
+      quote: true
+      text: 由于国家道义和国际关系理论都是普世性的，因此道义现实主义不属于“中国学派”且“中国学派”是无法形成的。
+      cite: i09-tuiir-yan-xuetong
+  cites: [i09-tuiir-yan-xuetong, i09-people-2014-12-10-yan-xuetong, i09-tuiir-2013-yan-mearsheimer, wd-Q8048184]
+
+- id: wen-tiejun
+  name: 温铁军
+  gender: m
+  born: 1951-05
+  birthplace: 北京
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 农业经济学者，“三农问题”提法的倡导者，前中国人民大学农业与农村发展学院院长
+  ids: { wikidata: Q9064162 }
+  bio: >-
+    曾在中央军委总政治部研究室和全国农村改革试验区办公室工作，2004–2013 年任中国人民大学农业与农村发展学院院长。他 1995 年提出以“三农”问题取代“农业问题”的政策建议，
+    人大称这一提法后得到中央主要领导肯定、成为国家重大政策；他也是当代新乡村建设运动的主要发起人。
+  positions:
+    - { title: 中央军委总政治部研究室干部, sys: army, from: 1983, cite: i09-gmw-2016-10-18-wen-tiejun }
+    - { title: 全国农村改革试验区办公室主持工作的副主任, sys: gov, from: 1995, cite: i09-gmw-2016-10-18-wen-tiejun }
+    - { title: 中国人民大学农业与农村发展学院院长, sys: other, from: 2004, to: 2013, cite: i09-gmw-2016-10-18-wen-tiejun }
+    - { title: 西南大学中国乡村建设学院执行院长, sys: other, place: 重庆, from: 2012, cite: i09-gmw-2016-10-18-wen-tiejun }
+  assess:
+    - voice: official
+      quote: true
+      text: 温铁军教授还是我国当代“新乡村建设运动”的主要发起人和相关学术研究的主要带头人
+      cite: i09-ruc-2004-08-18-wen-tiejun
+  cites: [i09-ruc-2004-08-18-wen-tiejun, i09-gmw-2016-10-18-wen-tiejun, wd-Q9064162]
+
+- id: zhou-qiren
+  name: 周其仁
+  gender: m
+  born: 1950-08-07
+  education:
+    - { school: 中国人民大学经济系, to: 1982 }
+    - { school: 加州大学洛杉矶分校, degree: 经济学博士 }
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 北京大学国家发展研究院教授、前院长，前央行货币政策委员会委员
+  ids: { wikidata: Q17499611 }
+  bio: >-
+    经济学者，1982 年毕业于中国人民大学经济系，曾在中国社科院和国务院农村发展研究中心从事改革研究，后获加州大学洛杉矶分校经济学博士，1996 年起任教北京大学，
+    曾任国家发展研究院院长、央行货币政策委员会委员。他主张农地确权，提出“逐步收缩征地规模、探索农地农房入市”。
+  positions:
+    - { title: 北京大学中国经济研究中心（国家发展研究院）教授, sys: other, from: 1996-01, cite: i09-nsd-pku-zhou-qiren }
+    - { title: 北京大学国家发展研究院院长, sys: other, cite: i09-bimba-zhou-qiren-land }
+    - { title: 中国人民银行货币政策委员会委员, sys: gov, from: 2010-03, to: 2012-03, cite: i09-caixin-2012-03-14-pboc-mpc }
+  assess:
+    - voice: official
+      quote: true
+      text: 这个半拉子工程，形成了一个“政府一手征地、一手卖地”的制度怪胎，资源配置效率日趋低下，收益分配不公日趋严重。
+      cite: i09-bimba-zhou-qiren-land
+  cites: [i09-nsd-pku-zhou-qiren, i09-bimba-zhou-qiren-land, i09-caixin-2012-03-14-pboc-mpc, wd-Q17499611]
+
+- id: xu-jilin
+  name: 许纪霖
+  gender: m
+  born: 1957
+  birthplace: 上海
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 华东师范大学历史系教授，思想史学者
+  ids: { wikidata: Q9071718 }
+  bio: >-
+    思想史学者，1977 年成为文革后首届大学生，1997 年任教上海师范大学，2002 年回华东师范大学历史系。他梳理现代中国的社会民主主义传统，
+    被认为在自由主义与新左派论战之外“开辟了新的言路”；2011 年撰文批评国家主义思潮，点名刘小枫、强世功、张维为、王绍光等人。
+  positions:
+    - { title: 华东化工学院文化研究所研究人员, sys: other, place: 上海, from: 1989, cite: i09-ecnu-xu-jilin }
+    - { title: 上海师范大学历史系教师, sys: other, place: 上海, from: 1997, to: 2002, cite: i09-ecnu-xu-jilin }
+    - { title: 华东师范大学历史系教授, sys: other, place: 上海, from: 2002, cite: i09-ecnu-xu-jilin }
+  assess:
+    - voice: scholar
+      quote: true
+      text: 国家主义是一种去政治化的政治，去价值的价值、去意识型态的意识型态。
+      cite: i02-aisixiang-xu-jilin-statism
+  cites: [i09-ecnu-xu-jilin, i09-aisixiang-xu-jilin-profile, i02-aisixiang-xu-jilin-statism, wd-Q9071718]
+
+- id: xiao-gongqin
+  name: 萧功秦
+  gender: m
+  born: 1946
+  birthplace: 陕西西安
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 上海师范大学历史系教授，新权威主义的代表学者
+  ids: { wikidata: Q9334257 }
+  bio: >-
+    历史学者，南京大学历史系毕业，任上海师范大学历史系教授。1988 年 7 月他在北戴河的学术会议上首次提出“新权威主义”概念。
+    2013 年他说“如果邓小平是中国新权威主义的1.0版本，习近平就是中国新权威主义的2.0版本”，《纽约时报》称他是中国支持“新威权主义”的人中最知名的一位。
+  positions:
+    - { title: 上海师范大学历史系教授, sys: other, place: 上海, cite: i09-fudan-ias-xiao-gongqin }
+    - { title: 复旦大学中国研究中心特聘研究员, sys: other, place: 上海, cite: i09-fudan-ias-xiao-gongqin }
+    - { title: 上海交通大学国际与公共事务学院政治学教授, sys: other, place: 上海, cite: i09-fudan-ias-xiao-gongqin }
+  assess:
+    - voice: west
+      quote: true
+      text: 萧功秦是中国支持“新威权主义”的人中最知名的一位，他认为，习近平的出现是件极大的好事，习近平是他概念中的模范领导人邓小平的新化身。
+      cite: i09-nytcn-2013-11-16-xi-leader
+    - voice: scholar
+      quote: true
+      text: 他将新权威主义归於过渡性权威主义的一种，认为它是有别於开明专制的非西方外源型国家现代化过程中的一种政治模式选择。
+      cite: i09-reformdata-luyi-new-authoritarianism
+  cites: [i09-fudan-ias-xiao-gongqin, i09-reformdata-luyi-new-authoritarianism, i09-nytcn-2013-11-16-xi-leader, i03-aisixiang-2013-xiao-gongqin, wd-Q9334257]
+
+- id: he-xin
+  name: 何新
+  gender: m
+  born: 1949-12
+  birthplace: 浙江温州
+  roles: [scholar]
+  status: active
+  tier: 2
+  headline: 学者，前全国政协委员，1989 年后的“新保守主义”代表人物
+  ids: { wikidata: Q8969816 }
+  bio: >-
+    1980 年代在中国社会科学院任研究人员。1990 年他对《基督教科学箴言报》说“What happened on June 4 was hard to avoid”，该报称他是新保守主义者；
+    1991 年调入全国政协，2013 年仍名列第十二届全国政协社会科学界委员。此后他鼓吹共济会操控世界，主张“西方伪史论”。
+  positions:
+    - { title: 中国社会科学院文学研究所研究人员, sys: other, from: 1985, to: 1991, cite: i09-zhwiki-he-xin }
+    - { title: 全国政协专职委员, sys: other, from: 1991, cite: i09-zhwiki-he-xin }
+    - { title: 第十二届全国政协委员（社会科学界）, sys: other, from: 2013, to: 2018, cite: i09-people-2013-02-04-cppcc12-social-sciences }
+  assess:
+    - voice: west
+      quote: true
+      text: If reforms proceed in a radical way, we will have a second Cultural Revolution
+      zh: 如果改革以激进的方式推进，我们将迎来第二次文化大革命。
+      cite: i09-csmonitor-1990-05-15-neoconservatives
+    - voice: witness
+      quote: true
+      text: 第九届时候，我反对当时推行的大规模下岗，国企改制私有化政策，被免职一届。
+      cite: i09-szhgh-2013-03-15-he-xin-cppcc-speech
+  cites: [i09-csmonitor-1990-05-15-neoconservatives, i09-people-2013-02-04-cppcc12-social-sciences, i09-zhwiki-he-xin, i09-szhgh-2013-03-15-he-xin-cppcc-speech, wd-Q8969816]
