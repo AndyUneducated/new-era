@@ -1,0 +1,270 @@
+# CS4: 军队系统专题长文（武警、政治工作部、后勤与审计、国防动员与省军区）
+web:
+  # ---- 武警 ----
+  - id: cs4-gov-2017-12-27-pap-leadership
+    title: 中共中央决定调整中国人民武装警察部队领导指挥体制
+    publisher: 新华社（中国政府网）
+    date: 2017-12-27
+    voice: official
+    url: https://www.gov.cn/zhengce/2017-12/27/content_5250896.htm
+    start: 新华社北京12月27日电 日前
+    end: 确保武警部队领导指挥体制有序转换、稳定运行。
+  - id: cs4-dw-2017-12-27-pap
+    title: 军队改革最后一步?武警由军委统一领导
+    publisher: 德国之声
+    date: 2017-12-27
+    voice: zh
+    url: https://www.dw.com/zh/a-41945362
+    excerpt: true
+    keep: [ 曾司空见惯, 军是军、警是警、民是民, 不列入人民解放军序列, 剥夺了地方、各地政府对武警的控制权, 在周永康时代, 该消息未得到官方证实 ]
+  - id: cs4-voa-2016-12-29-wang-jianping
+    title: 原中国武警司令被查 系首位落马现役上将
+    publisher: 美国之音
+    date: 2016-12-29
+    voice: west
+    url: https://www.voachinese.com/a/3655571.html
+    excerpt: true
+    keep: [ 中国星期四证实，中国武警部队原司令员王建平已被捕, 8月25日在四川成都视察期间被军方纪检人员带走 ]
+  - id: cs4-caixin-2016-12-29-wang-jianping
+    title: 现役上将落马 武警前司令王建平被查
+    publisher: 财新网
+    date: 2016-12-29
+    voice: zh
+    url: https://china.caixin.com/2016-12-29/101031703.html
+    excerpt: true
+    keep: [ 首个被官方证实落马的现役上将 ]
+  - id: cs4-cyol-2017-01-03-wang-jianping
+    title: 军队打虎拿下首位现役上将 18大后逾53军虎落马
+    publisher: 中青在线（北京青年报）
+    date: 2017-01-03
+    voice: zh
+    url: https://article.cyol.com/news/content/2017-01/03/content_15166485.htm
+    excerpt: true
+    keep: [ 官方媒体关于王建平的最后印记, 1994年2月, 徐才厚在沈阳军区的后期, 王建平在武警系统服役8年, 与原副总参谋长王宁对调, 武警和空军成为“重灾区” ]
+  - id: cs4-rfa-2017-04-26-wang-jianping-rumor
+    title: 前武警司令王建平上將傳看守所自殺亡
+    publisher: 自由亚洲电台粤语部
+    date: 2017-04-26
+    voice: west
+    url: https://www.rfa.org/cantonese/news/suicide-04262017091346.html
+    excerpt: true
+    keep: [ 但未得到官方證實, 根據《博聞社》, 蘇海輝 ]
+  - id: cs4-jamestown-2010-pap-reshuffle
+    title: Major Reshuffles in China's Military and Security Leadership
+    publisher: Jamestown Foundation
+    date: 2010-01
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/major-reshuffles-in-chinas-military-and-security-leadership/
+    excerpt: true
+    keep: [ In late December, Lieutenant General Wang Jianping, deemed a protégé of President Hu ]
+  - id: cs4-caixin-2025-07-24-cao-junzhang
+    title: 人事观察｜接替62岁王春宁 曹均章出任武警部队代理司令员
+    publisher: 财新网
+    date: 2025-07-24
+    voice: zh
+    url: https://china.caixin.com/m/2025-07-24/102344730.html
+    excerpt: true
+    keep: [ 武警部队代理司令员曹均章等出席会议, 曹均章长期在原成都军区服役 ]
+  - id: cs4-zaobao-2025-12-24-peng-jingtang
+    title: 港媒：料解放军驻港部队司令员彭京堂任武警副司令
+    publisher: 联合早报
+    date: 2025-12-24
+    voice: zh
+    url: https://www.zaobao.com.sg/realtime/china/story20251224-8009164
+    excerpt: true
+    keep: [ 香港媒体报道，预料, 武警政委张红兵也“失踪”一年, 代表武警出席的是彭京堂以及王洪斌, 两人都出身武警系统 ]
+  - id: cs4-cnc-2025-12-23-cao-junzhang-rumor
+    title: 武警部队代理司令员曹均章被传落马
+    publisher: 中国新闻中心（海外自媒体）
+    date: 2025-12-23
+    voice: zh
+    rumor: true
+    url: https://22.chinanewscenter.com/archives/52468
+    excerpt: true
+    keep: [ 曹均章已被传落马, 曹均章也很快落马, 目前曹均章的去向 ]
+  - id: cs4-cna-2025-12-27-five-generals
+    title: 共軍2上將1中將遭官宣落馬 被罷免人大代表職務
+    publisher: 中央社
+    date: 2025-12-27
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202512270191.aspx
+    excerpt: true
+    keep: [ 首度被證實涉嫌嚴重違紀違法落馬, 首度被官方證實落馬 ]
+  - id: cs4-soh-2025-05-19-pap-rumor
+    title: 張又俠再奪一重要陣地？ 傳親信曹均章接任武警司令
+    publisher: 希望之声粤语台
+    date: 2025-05-19
+    voice: zh
+    rumor: true
+    url: https://sohcradio.com/204490.html
+    excerpt: true
+    keep: [ 曹均章罕見現身主席台, 據說曹均章是, 付文化調任武警部隊副司令, 曾於苗華掌軍委政工系統時期獲重用 ]
+  # ---- 政治工作部 ----
+  - id: cs4-mod-2024-06-19-yanan-plad
+    title: 中央军委政治工作会议在延安召开 习近平出席会议并发表重要讲话
+    publisher: 解放军报（国防部网）
+    author: 欧灿、费士廷
+    date: 2024-06-19
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/sy/tt_214026/16316927.html
+    start: 解放军报延安6月19日电（记者欧灿、费士廷）
+    end: 武警部队主要负责同志等参加会议。
+  - id: cs4-cna-2025-05-19-zhang-shengmin
+    title: 中共中央軍委人事變動 苗華落馬張升民主管政工部
+    publisher: 中央社
+    date: 2025-05-19
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202505190048.aspx
+    excerpt: true
+    keep: [ 已接替苗華主管政治工作部, 殘疾人事務在軍隊通常由政工部分管, 盛傳一名廈門著名房地產商, 相當於軍委的中組部加中宣部 ]
+  - id: cs4-iccs-2026-pwd
+    title: "China’s Military in 2026: Continued Political Purges as the Top Priority"
+    publisher: 中共研究杂志社（ICCS，台湾）
+    author: Shuh-Fan Ding
+    date: 2026
+    voice: scholar
+    lang: en
+    url: https://iccs.org.tw/en/NewsContent/259
+    excerpt: true
+    keep: [ still lacking a director, secretly organized an independent division-level armed force ]
+  - id: cs4-iccs-411-acting-generals
+    title: 近期共軍上、中將職位調整評析
+    publisher: 中共研究杂志社（ICCS，台湾）
+    date: 2026
+    voice: scholar
+    url: https://iccs.org.tw/NewsContent/411
+    excerpt: true
+    keep: [ 133名二十屆中央紀委委員中, 作者梳理坊間開源資料, 未幾曹均彰亦遭調查 ]
+  - id: cs4-jamestown-2025-pwd-reshape
+    title: CMC Reshapes PLA Political Work System
+    publisher: Jamestown Foundation（China Brief）
+    date: 2025-10
+    voice: scholar
+    lang: en
+    url: https://jamestown.org/cmc-reshapes-pla-political-work-system/
+    excerpt: true
+    keep: [ On July 21, the PLA Daily announced, In essence, the regulation suggests, Official reporting indicates that the central problem ]
+  - id: cs4-bbc-2025-10-cc-changes-trad
+    title: 中共軍方反腐敗：從四中全會中央委員變化看到甚麼？
+    publisher: BBC中文
+    date: 2025-10-25
+    voice: west
+    url: https://www.bbc.com/zhongwen/articles/c5y43dg221no/trad
+    excerpt: true
+    keep: [ 被悄悄免職, 間接但最肯定已出事的一位, 長安網 ]
+  # ---- 后勤与审计 ----
+  - id: cs4-people-2014-11-06-audit-office
+    title: 解放军审计署划归中央军委建制
+    publisher: 人民网（新华社稿）
+    date: 2014-11-06
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1106/c70731-25988994.html
+    start: 新华网北京11月6日电（记者李宣良、胥金章）
+    end: 为深入推进军队作风建设和反腐败斗争作出新的贡献。
+  - id: cs4-gov-2016-09-13-jlsf
+    title: 中央军委联勤保障部队成立大会在京举行 习近平向武汉联勤保障基地和各联勤保障中心授予军旗并致训词
+    publisher: 新华社（中国政府网）
+    date: 2016-09-13
+    voice: official
+    url: https://www.gov.cn/guowuyuan/2016-09/13/content_5108061.htm
+    start: 新华社北京9月13日电（记者 李宣良、胥金章）
+    end: 各军兵种官兵代表参加大会。
+  - id: cs4-chinanews-2016-03-27-paid-services
+    title: 中央军委部署军队和武警部队全面停止有偿服务工作
+    publisher: 中新网（新华社稿）
+    date: 2016-03-27
+    voice: official
+    url: https://www.chinanews.com/mil/2016/03-27/7813284.shtml
+    start: 新华社北京3月27日电 中央军委近日印发
+    end: 确保中央军委的决策指示落到实处。
+  - id: cs4-xinhua-2019-07-10-paid-services
+    title: 全面从严治军必须打赢的攻坚之战——军地合力推进全面停止军队有偿服务工作纪实
+    publisher: 新华社（新华网）
+    date: 2019-07-10
+    voice: official
+    url: https://www.xinhuanet.com/politics/2019-07/10/c_1124735852.htm
+    excerpt: true
+    keep: [ 2016年2月，中央军委下发, 有偿服务是特殊历史条件下的产物, 军队不从事经营活动的目标基本实现。, 国防动员系统所属省军区, 实施收支两条线制度 ]
+  - id: cs4-zaobao-2025-09-13-four-generals
+    title: 解放军反腐震荡持续 王春宁等四将领被罢免人大代表
+    publisher: 联合早报
+    date: 2025-09-13
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20250913-7505390
+    excerpt: true
+    keep: [ 相信与中共中央军委副主席何卫东, 掌握人事提拔大权, 间接证实王春宁已经出事, 2016年出任北京卫戍区司令员, 张林在2004年担任陆军第39集团军政治部主任, 高大光2022年1月, 可能绝大部分都被调查。 ]
+  - id: cs4-caixin-2025-09-13-four-generals
+    title: 一上将三中将被罢免全国人大代表 他们都是谁
+    publisher: 财新网
+    date: 2025-09-13
+    voice: zh
+    url: https://china.caixin.com/2025-09-13/102362132.html
+    excerpt: true
+    keep: [ 三名中将分别是任职于军委职能部门的张林 ]
+  - id: cs4-caixin-2025-10-29-sun-bin
+    title: 海军原政委袁华智上将、军委审计署审计长孙斌少将被罢免全国人大代表
+    publisher: 财新网
+    date: 2025-10-29
+    voice: zh
+    url: https://china.caixin.com/2025-10-29/102376777.html
+    excerpt: true
+    keep: [ 两届中央纪委委员孙斌少将, 共有22名将军被罢免 ]
+  - id: cs4-zaobao-2025-10-29-xu-dazhe
+    title: 军工系统出身 湖南原一把手许达哲被罢免全国人大代表
+    publisher: 联合早报
+    date: 2025-10-29
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251029-7739351
+    excerpt: true
+    keep: [ 中央军委审计署副审计长孙斌 ]
+  # ---- 国防动员与省军区 ----
+  - id: cs4-chinacom-2016-03-11-sheng-bin
+    title: 两会专访：军改后，各地省军区转隶划归哪个部门？
+    publisher: 中国网（转载中国国防报）
+    date: 2016-03-11
+    voice: official
+    url: http://www.china.com.cn/lianghui/news/2016-03/11/content_38001124.htm
+    excerpt: true
+    keep: [ 核心提示, 领导管理省军区。这一重大, 当地驻军的协调机关 ]
+  - id: cs4-thepaper-2016-02-18-msd
+    title: 全国省军区系统转隶中央军委国防动员部后如何运转？
+    publisher: 澎湃新闻（转载“军报记者”）
+    date: 2016-02-18
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1433282
+    excerpt: true
+    keep: [ 后备方阵踏进历史新起点, 等待观望的“守摊症” ]
+  - id: cs4-people-2015-01-16-army-tigers
+    title: 军方首次公布打虎榜16高官落马 军校成重灾区
+    publisher: 人民网（北京青年报稿）
+    date: 2015-01-16
+    voice: zh
+    url: http://politics.people.com.cn/n/2015/0116/c1001-26396564.html
+    excerpt: true
+    keep: [ 分别以四人落马成为“重灾区”, 四川省军区原政委叶万勇，因涉嫌严重违纪, 山西省军区原司令员方文平，因涉嫌严重违纪 ]
+  - id: cs4-hkcd-2015-07-16-military-standing
+    title: 內地戎裝常委將迎調整潮
+    publisher: 香港商报
+    date: 2015-07-16
+    voice: zh
+    url: https://www.hkcd.com.hk/content/2015-07/16/content_945083.html
+    excerpt: true
+    keep: [ 通常被形象地稱為“戎裝常委”, 近半數為省軍區領導 ]
+  - id: cs4-thepaper-2015-01-15-fang-wenping
+    title: 山西省军区原司令员方文平落马，涉晋“老虎”再添一人
+    publisher: 澎湃新闻
+    date: 2015-01-15
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1294660
+    excerpt: true
+    keep: [ 2014年3月军委纪委对其立案调查, 免去方文平山西省军区司令员职务, 受军区和省（市、自治区）党委、政府的双重领导 ]
+  - id: cs4-ntdtv-2025-11-10-acting-generals
+    title: 中共军方陷代理乱局 专家：内讧后遗症
+    publisher: 新唐人电视台
+    date: 2025-11-10
+    voice: zh
+    rumor: true
+    url: https://www.ntdtv.com/gb/2025/11/10/a104037284.html
+    excerpt: true
+    keep: [ 副部长张立克可能暂时代职 ]
