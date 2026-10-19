@@ -1,0 +1,1070 @@
+# RL1 (round 14): relations for the full biographies that had none, the case essays (secretaries,
+# patrons, kin, informers) and faction cores. Only ties a source states; shared cases and bribes are left
+# to the case records.
+
+# --- 江泽民、曾庆红与上海帮 ---
+- a: jiang-zemin
+  b: wu-bangguo
+  kind: patron
+  text: 1985 年起吴邦国在上海市政府给江泽民、朱镕基当助手，BBC 中文 2002 年十六大人物介绍称他被视为江泽民的亲信。
+  from: 1985
+  cite: f01-bbc-2002-11-15-psc-profiles
+  quote: 被视为是江泽民的亲信；北京清华大学电子工程系毕业；曾经在上海一家无线电厂工作；1985年起成为江泽民和朱镕基在上海市政府的助手
+- a: jiang-zemin
+  b: xi-jinping
+  kind: patron
+  text: 布鲁金斯学会李成 2017 年写道，习近平普遍被视为江泽民和曾庆红两人的门生。
+  cite: f01-brookings-2017-new-politburo
+  quote: Xi Jinping is widely considered to be a protégé of both former PRC president Jiang Zemin and former PRC vice-president Zeng Qinghong
+- a: jiang-zemin
+  b: wang-huning
+  kind: patron
+  text: 布鲁金斯学会称，1980 年代后期王沪宁在上海与时任上海领导人江泽民、曾庆红建立起恩师与门生关系，由此被归入“上海帮”。
+  cite: f01-brookings-2017-new-politburo
+  quote: In the late 1980s, he established his patron-mentor relationship with Jiang Zemin and Zeng Qinghong, who were then top leaders in Shanghai
+- a: zeng-qinghong
+  b: wang-huning
+  kind: patron
+  text: 布鲁金斯学会称，1980 年代后期王沪宁在上海与江泽民、时任上海市委副书记曾庆红建立起恩师与门生关系。
+  cite: f01-brookings-2017-new-politburo
+  quote: In the late 1980s, he established his patron-mentor relationship with Jiang Zemin and Zeng Qinghong
+- a: huang-ju
+  b: han-zheng
+  kind: patron
+  text: 韩正整个仕途都在上海，布鲁金斯学会列出他在上海结识的五位恩师，黄菊是其中之一。
+  cite: f01-brookings-2017-new-politburo
+  quote: where he met five of his patron-mentors, namely Huang Ju, Wu Bangguo, Zhu Rongji, Zeng Qinghong, and Yu Zhengsheng
+- a: wu-bangguo
+  b: han-zheng
+  kind: patron
+  text: 布鲁金斯学会列出韩正在上海结识的五位恩师，吴邦国是其中之一（吴邦国 1991–1994 年任上海市委书记）。
+  cite: f01-brookings-2017-new-politburo
+  quote: where he met five of his patron-mentors, namely Huang Ju, Wu Bangguo, Zhu Rongji, Zeng Qinghong, and Yu Zhengsheng
+- a: zhu-rongji
+  b: han-zheng
+  kind: patron
+  text: 布鲁金斯学会列出韩正在上海结识的五位恩师，朱镕基是其中之一。
+  cite: f01-brookings-2017-new-politburo
+  quote: where he met five of his patron-mentors, namely Huang Ju, Wu Bangguo, Zhu Rongji, Zeng Qinghong, and Yu Zhengsheng
+- a: zeng-qinghong
+  b: han-zheng
+  kind: patron
+  text: 布鲁金斯学会列出韩正在上海结识的五位恩师，曾庆红是其中之一，并称韩正被公认为江泽民、曾庆红“上海帮”的一员。
+  cite: f01-brookings-2017-new-politburo
+  quote: Han has been widely recognized as a member of the Jiang Zemin-Zeng Qinghong “Shanghai Gang.”
+- a: yu-zhengsheng
+  b: han-zheng
+  kind: patron
+  text: 布鲁金斯学会列出韩正在上海结识的五位恩师，俞正声（2007–2012 年任上海市委书记，韩正任市长）是其中之一。
+  from: 2007
+  to: 2012
+  cite: f01-brookings-2017-new-politburo
+  quote: where he met five of his patron-mentors, namely Huang Ju, Wu Bangguo, Zhu Rongji, Zeng Qinghong, and Yu Zhengsheng
+- a: jiang-zemin
+  b: zhang-dejiang
+  kind: patron
+  text: 《中国季刊》2021 年的派系研究说，张德江虽未在上海与江泽民共事，但通常被归为江泽民的门客，因此计入江派。
+  cite: b16-cq-2021-06-21-dominant-faction
+  quote: "We therefore include the following five leaders in Jiang's faction as they are usually classified as Jiang's clients: Zhang Dejiang 张德江"
+- a: jiang-zemin
+  b: yu-zhengsheng
+  kind: patron
+  text: 《中国季刊》2021 年的派系研究把俞正声列为通常被视为江泽民门客的五名省级领导人之一。
+  cite: b16-cq-2021-06-21-dominant-faction
+  quote: "as they are usually classified as Jiang's clients: Zhang Dejiang 张德江, Yu Zhengsheng 俞正声"
+- a: jiang-zemin
+  b: li-hongzhong
+  kind: patron
+  text: 《中国季刊》2021 年的派系研究把李鸿忠列为通常被视为江泽民门客的五名省级领导人之一。
+  cite: b16-cq-2021-06-21-dominant-faction
+  quote: Li Hongzhong 李鸿忠
+- a: jiang-zemin
+  b: zhang-gaoli
+  kind: patron
+  text: 张高丽长期在广东任职（1985–1997 年起家于茂名、后任副省长），《东方日报》说他在广东期间受到江泽民赏识，所以最常被贴上“江系人马”的标签。
+  cite: b05-orientaldaily-2021-11-04-zhang
+  quote: 张高丽最常被贴上的标签是“江系人马”，原因是在广东任职期间受到江泽民赏识
+- a: zeng-qinghong
+  b: zeng-wei
+  kind: kin
+  text: 曾伟是曾庆红之子。2014 年明天系声明否认“曾先生”介入鲁能重组，法广据海外媒体和《财经》报道指“曾先生”应是曾伟。
+  cite: c09-rfi-2014-06-27-tomorrow-luneng
+  quote: 应该指的是曾庆红的儿子曾伟
+- a: jiang-zemin
+  b: wang-yeping
+  kind: kin
+  text: 王冶坪是江泽民夫人。2022 年 12 月江泽民遗体火化时，她率全家敬献花篮。
+  cite: c09-gov-2022-12-05-jiang-cremation
+  quote: 江泽民同志的夫人王冶坪率全家敬献的花篮
+- a: jiang-zemin
+  b: jiang-mianheng
+  kind: kin
+  text: 江绵恒是江泽民长子，2015 年初卸任中科院上海分院院长。
+  cite: c05-bbc-2015-01-08-jiang-mianheng
+  quote: 前中共领导人江泽民的长子江绵恒已经不再担任该院院长职务
+
+# --- 胡锦涛、温家宝、朱镕基家属与门生 ---
+- a: hu-jintao
+  b: hu-haifeng
+  kind: kin
+  text: 胡海峰是胡锦涛独子，2024 年 1 月由浙江丽水市委书记调任民政部副部长。
+  cite: b02-zaobao-2024-01-16-hu-haifeng
+  quote: 中共前总书记胡锦涛之子、浙江丽水市委书记胡海峰星期二履新中国民政部副部长
+- a: zhu-rongji
+  b: zhu-yunlai
+  kind: kin
+  text: 朱云来是朱镕基长子，2014 年 10 月辞去中金公司总裁兼首席执行官。
+  cite: c05-people-2014-10-16-zhu-yunlai
+  quote: 现年57岁的朱云来是前国务院总理朱镕基之子
+- a: hu-jintao
+  b: sun-chunlan
+  kind: patron
+  text: 布鲁金斯学会称孙春兰普遍被视为胡锦涛的门生，两人的关系可能始于 1990 年代初她在中央党校学习、胡锦涛任校长之时。
+  cite: b11-brookings-2018-03-new-gov-leaders
+  quote: Sun is widely considered a protégé of Hu Jintao
+- a: sun-chunlan
+  b: bo-xilai
+  kind: rival
+  text: 2001–2005 年孙春兰任大连市委书记，布鲁金斯学会引中国观察人士说，她在大连有效压制了前任薄熙来的权力与影响，在薄落马前就清走了他在大连的门生。
+  from: 2001
+  to: 2005
+  cite: b11-brookings-2018-03-new-gov-leaders
+  quote: Sun effectively constrained the power and influence of Bo Xilai in Dalian after she took over as the city’s party chief from 2001 to 2005
+
+# --- 习近平 ---
+- a: xi-jinping
+  b: peng-liyuan
+  kind: kin
+  text: 1986 年经人介绍，彭丽媛与时任厦门副市长习近平相识，1987 年结婚。
+  from: 1987
+  cite: b04-bbc-2012-11-15-peng-profile
+  quote: 1986年经人介绍彭丽媛与时任福建省厦门市副市长的习近平相识并于次年结婚
+- a: peng-liyuan
+  b: xi-mingze
+  kind: kin
+  text: 习明泽是彭丽媛与习近平的女儿，1992 年出生。
+  from: 1992
+  cite: b04-abc-2022-10-28-peng
+  quote: 两人于1987年结婚，并于1992年迎来了他们的女儿习明泽
+- a: xi-jinping
+  b: xi-mingze
+  kind: kin
+  text: 习明泽是习近平与彭丽媛的独生女，2010–2014 年在哈佛大学读心理学本科。
+  from: 1992
+  cite: f01-brookings-2017-new-politburo
+  quote: Their only daughter, Xi Mingze, received her undergraduate degree in psychology from Harvard University
+- a: xi-jinping
+  b: chen-miner
+  kind: patron
+  text: 2002–2007 年陈敏尔在浙江任省委常委、宣传部长，被认为帮习近平撰写《之江新语》专栏；布鲁金斯学会称他是习最信任的门生之一，2015 年由习提拔为贵州省委书记，2017 年接替孙政才主政重庆。
+  from: 2002
+  cite: b11-brookings-2022-10-16-20th-candidates
+  quote: Chen Min’er is one of Xi Jinping’s most trusted protégés
+- a: xi-jinping
+  b: qin-gang
+  kind: patron
+  text: 秦刚任外交部礼宾司司长时多次陪同习近平出访，2021 年出任驻美大使、2022 年底任外长，BBC 称他被视为习近平一手提拔的政治新星；2023 年 7 月被免职。
+  to: 2023-07
+  cite: b08-bbc-2023-07-25-qin-gang
+  quote: 并被视为是习近平一手提拔的政治新星的秦刚周二（7月25日）突然被免职
+- a: xi-jinping
+  b: li-zuocheng
+  kind: patron
+  text: 法广评论说，2013 年起李作成在习近平器重下连串高升：当年任成都军区司令员，2015 年晋上将，成为习近平军改的重要左右手。
+  from: 2013
+  cite: b21-rfi-2017-08-28-li-joint-staff
+  quote: 自2013年开始，在习近平的器重之下，李作成连串高升
+- a: xi-jinping
+  b: liu-he
+  kind: patron
+  text: 刘鹤 2013 年起任中财办主任，2017 年入政治局、2018 年任副总理，官方《环球人物》2015 年称他为“总书记的经济智囊”；德国之声称两人是北京 101 中学同班同学。另说：自由亚洲电台 2021 年撰文认为“同学”“发小”之说有误。
+  from: 2013
+  to: 2023-03
+  cite: b09-dw-2018-03-19-liu-he
+  quote: 《刘鹤：总书记的经济智囊》
+
+# --- 体制外人物 ---
+- a: liu-xiaobo
+  b: liu-xia
+  kind: kin
+  text: 刘霞是刘晓波的妻子。2010 年他获诺贝尔和平奖后，她在没有罪名的情况下被软禁在家，直到 2018 年 7 月获准赴德。
+  cite: b10-bbc-2017-07-13-liu-obit
+  quote: 刘晓波入狱后，他的妻子刘霞一直生活在软禁状态中
+- a: xu-zhiyong
+  b: ding-jiaxi
+  kind: colleague
+  text: 许志永与丁家喜同为新公民运动的推动者，2019 年 12 月厦门聚会后先后被捕，2023 年 4 月同案分别被判 14 年、12 年。
+  cite: b10-voa-2023-04-10-xu-ding
+  quote: 许志永和丁家喜是中国知名公民运动推动者
+- a: xi-jinping
+  b: xu-zhiyong
+  kind: rival
+  text: 2020 年初许志永在逃亡中发表致习近平的公开信《劝退书》，劝其让位，同年 2 月被捕，2023 年被判 14 年。
+  from: 2020-02
+  cite: c04-bbc-2023-04-10-ding-jiaxi
+- a: xi-jinping
+  b: ren-zhiqiang
+  kind: rival
+  text: 2016 年任志强在微博质疑“党媒姓党”，2020 年 2 月又在长文中暗讽习近平是“剥光了衣服也要坚持当皇帝的小丑”，随后被查，同年 9 月被判 18 年。
+  from: 2016-02
+  to: 2020-09
+  cite: e04-bbc-2020-09-22-ren-zhiqiang
+  quote: 并暗示习近平是"剥光了衣服也要坚持当皇帝的小丑"
+- a: xi-jinping
+  b: ma-yun
+  kind: rival
+  text: 2020 年 10 月马云在外滩金融峰会批评监管，BBC 转述《华尔街日报》引知情人士说，习近平本人对此不满，直接下令暂停蚂蚁集团上市。
+  from: 2020-10
+  cite: b10-bbc-2025-02-17-symposium
+  quote: 习近平本人对马云的高调批评感到不满，直接下令暂停蚂蚁上市
+- a: li-peng
+  b: li-zhiying
+  kind: rival
+  text: 1994 年 7 月黎智英在《壹周刊》刊登痛骂李鹏的公开信，他自称此后佐丹奴在内地业务遭封杀、被迫出售股份。
+  from: 1994-07
+  cite: b10-wiki-li-zhiying
+  quote: 特别在一封公开信尖锐批评国务院总理李鹏之后，佐丹奴所有位于中国内地的业务遭北京政府封杀
+- a: li-zhuming
+  b: li-zhiying
+  kind: colleague
+  text: 1989 年后黎智英结识民主党元老李柱铭，两人长期同属香港民主派阵营；2019 年 8 月中央政法委网站把两人与陈方安生、何俊仁并称“祸港四人帮”。
+  from: 1989
+  cite: c04-bbc-2020-05-martin-lee
+  quote: 点名提到李柱铭与壹传媒主席黎智英、香港前政务司司长陈方安生和民主党前主席何俊仁是“祸港四人帮”
+- a: lin-yifu
+  b: zhang-weiying
+  kind: rival
+  text: 2016 年 11 月林毅夫与张维迎在北大就产业政策公开辩论：林毅夫认为经济发展有产业政策才能成功，张维迎称产业政策是“穿着马甲的计划经济”。
+  from: 2016-11
+  cite: i09-thepaper-2016-11-lin-zhang-debate
+  quote: 在该不该实施产业政策上意见相左
+- a: yu-wensheng
+  b: xu-yan
+  kind: kin
+  text: 许艳是维权律师余文生的妻子，2023 年 4 月夫妻二人在去欧盟代表团途中同被抓捕，2025 年 1 月她刑满获释。
+  cite: c06-rfa-2025-01-14-xu-yan
+  quote: 中国人权律师余文生的妻子许艳本周一（1月13日）已刑满获释回家
+- a: gao-zhisheng
+  b: geng-he
+  kind: kin
+  text: 耿和是维权律师高智晟的妻子，2009 年带孩子出走美国，此后一直为寻找下落不明的丈夫奔走。
+  cite: c04-bbc-2022-11-19-gao-zhisheng
+  quote: 耿和的丈夫高智晟是一名律师
+- a: jiang-tianyong
+  b: jin-bianling
+  kind: kin
+  text: 金变玲是维权律师江天勇的妻子，2017 年江天勇被判刑时她发声明称他无罪。
+  cite: c04-bbc-2017-11-21-jiang-tianyong
+  quote: 江天勇的妻子金变玲发布声明称，江天勇无罪
+- a: li-heping
+  b: wang-qiaoling
+  kind: kin
+  text: 王峭岭是 709 案律师李和平的妻子，李和平失踪期间她与其他律师妻子一同寻夫。
+  cite: c04-bbc-2017-04-28-li-heping
+  quote: 李和平的妻子王峭岭认为
+
+# --- 苏荣与江西 ---
+- a: su-rong
+  b: yu-lifang
+  kind: kin
+  text: 于丽芳是苏荣之妻，在江西被称为“于姐”。中央纪委 2015 年警示文章说她一方面让苏荣安排请托的干部，一方面直接给省市领导打招呼提拔干部。
+  cite: b12-xinhua-2015-05-29-su-rong-warning
+  quote: 其妻于丽芳一方面让苏荣安排请托的干部
+- a: su-rong
+  b: su-tiezhi
+  kind: kin
+  text: 苏铁志是苏荣之子。他在 2016 年中纪委专题片中说，父亲到江西后才把自己圈子里的朋友介绍给他认识。
+  cite: b12-people-2016-10-21-su-rong-documentary
+  quote: 苏荣的儿子苏铁志表示，父亲以前不会把他的下属介绍给我们
+- a: su-rong
+  b: cheng-danfeng
+  kind: kin
+  text: 程丹峰是苏荣的女婿、张家界市原副市长，判决认定他利用苏荣任江西省委书记形成的便利条件为他人谋利、收受财物。
+  cite: r09-jfdaily-2018-09-11-su-rong-43
+  quote: 苏荣女婿、张家界原副市长程丹峰
+- a: su-rong
+  b: yao-mugen
+  kind: patron
+  text: 苏荣主政江西期间（2007–2013），中央纪委警示文章说他“力排众议”让姚木根成为副省级干部。
+  cite: b12-xinhua-2015-05-29-su-rong-warning
+  quote: 从苏荣力排众议让姚木根成为副省级干部
+- a: su-rong
+  b: chen-anzhong
+  kind: patron
+  text: 中央纪委警示文章说，苏荣明知陈安众问题反映多，仍重用他为江西省人大常委会副主任、省总工会主席并兼省政法委副书记。
+  cite: b12-xinhua-2015-05-29-su-rong-warning
+  quote: 明知陈安众反映多仍重用为省人大常委会副主任、省总工会主席并兼任省政法委副书记
+- a: yu-lifang
+  b: zhou-jianhua
+  kind: rival
+  text: 2011 年新余市人大常委会主任周建华在系统内部实名举报苏荣之妻于丽芳和新余市委主要领导，称新余高专土地出让腐败致国有资产损失 10 亿元；半年后他本人被“双规”。
+  from: 2011
+  cite: b12-caijing-2014-07-02-yu-lifang
+  quote: 时任新余市人大常委会主任周建华在系统内部实名举报于丽芳和时任新余市委主要领导
+- a: su-rong
+  b: zhou-jianhua
+  kind: rival
+  text: 自由亚洲电台引财新网报道说，周建华前妻姚敏建 2013 年向中央巡视组实名举报苏荣之妻，周建华此前因举报遭苏荣构陷，被江西省纪委“双规”（2012 年 1 月）。
+  from: 2012-01
+  cite: b12-rfa-2014-06-15-su-rong
+  quote: 周建华因此遭到苏荣构陷，被江西省纪委双规
+
+# --- 令计划 ---
+- a: ling-jihua
+  b: gu-liping
+  kind: kin
+  text: 谷丽萍是令计划之妻。法院认定令计划单独或与她共同收受楼忠福等人财物；2016 年庭审中她以录像方式指证丈夫。
+  cite: b07-bbc-2016-07-04-ling-sentence
+  quote: 令计划妻子谷丽萍也通过录像指证令计划
+- a: ling-jihua
+  b: ling-gu
+  kind: kin
+  text: 令谷是令计划与谷丽萍的独子，2012 年 3 月在北京法拉利车祸中身亡；BBC 说令计划出动中办警卫局封锁现场，令中央不满。
+  to: 2012-03
+  cite: b07-bbc-2015-07-20-ling-expulsion
+  quote: 但在他儿子令谷于2012年3月的“法拉利事件”中身亡后
+- a: ling-jihua
+  b: ling-wancheng
+  kind: kin
+  text: 令完成是令计划最小的弟弟，案发前出走美国。
+  cite: b07-nyt-2015-08-04-ling-wancheng
+  quote: 令完成是令计划最小的弟弟
+
+# --- 周永康 ---
+- a: zhou-yongkang
+  b: jia-xiaoye
+  kind: kin
+  text: 贾晓晔是周永康之妻，2016 年以受贿罪被判 9 年。
+  cite: b03-nytcn-2016-06-15-zhou-family
+  quote: 中央政法委书记周永康的妻子贾晓晔因受贿罪被判处有期徒刑九年
+- a: zhou-yongkang
+  b: wang-jianping
+  kind: patron
+  text: 武警部队原司令员王建平上将 2016 年落马，美国之音称他被认为是周永康的亲信。
+  cite: cs4-voa-2016-12-29-wang-jianping
+  quote: 王建平被认为是已经落马的前中共中央政法委书记周永康的亲信
+
+# --- 薄熙来 ---
+- a: bo-xilai
+  b: wang-lijun
+  kind: rival
+  text: 2012 年 1 月 28 日王立军把薄谷开来涉嫌杀人一事告知薄熙来，判决认定薄熙来斥责他诬陷并打他耳光；2 月 6 日王立军进入美国驻成都总领事馆。
+  from: 2012-01
+  to: 2012-02
+  cite: b07-xinhua-2013-09-22-bo-sentence
+  quote: 后薄熙来斥责王立军诬陷薄谷开来并打王立军耳光，将杯子摔碎在地上
+
+# --- 光大集团 ---
+- a: tang-shuangning
+  b: xue-feng-ebscn
+  kind: patron
+  text: 新浪财经引多家媒体报道说，光大证券原总裁薛峰是唐双宁亲手提拔和重用的“爱将”。
+  cite: cs2-sina-2024-10-29-everbright
+  quote: 皆是唐双宁亲手提拔和重用的“爱将”
+- a: tang-shuangning
+  b: chen-shuang
+  kind: patron
+  text: 新浪财经引多家媒体报道说，光大控股原行政总裁陈爽是唐双宁亲手提拔和重用的“爱将”。
+  cite: cs2-sina-2024-10-29-everbright
+  quote: 皆是唐双宁亲手提拔和重用的“爱将”
+- a: tang-shuangning
+  b: zhu-huimin
+  kind: patron
+  text: 新浪财经引多家媒体报道说，光大实业原总经理朱慧民是唐双宁亲手提拔和重用的“爱将”。
+  cite: cs2-sina-2024-10-29-everbright
+  quote: 皆是唐双宁亲手提拔和重用的“爱将”
+
+# --- 云南 ---
+- a: bai-enpei
+  b: qiu-he
+  kind: patron
+  text: 2007 年 12 月仇和从江苏调任昆明市委书记，中新网说此后时任云南省委书记白恩培越来越器重仇和。
+  from: 2007-12
+  to: 2011-08
+  cite: cs2-chinanews-2019-06-22-yunnan-decode
+  quote: 此后，白恩培越来越器重仇和
+- a: bai-enpei
+  b: qin-guangrong
+  kind: rival
+  text: 中新网说，白恩培器重仇和，导致省委书记白恩培与省长秦光荣的矛盾越来越大，近乎公开化；2011 年 8 月秦光荣接任省委书记。
+  from: 2007-12
+  to: 2011-08
+  cite: cs2-chinanews-2019-06-22-yunnan-decode
+  quote: 导致白、秦矛盾越来越大，近乎公开化
+- a: qin-guangrong
+  b: cao-jianfang
+  kind: patron
+  text: 中央纪委网站 2020 年说，秦光荣主政云南（2011–2014）用人搞“唯圈”论，曹建方等圈子里的人获得提拔重用（曹建方任省委常委、秘书长）。
+  from: 2011
+  to: 2014
+  cite: cs2-ccdi-2020-05-06-su-hongbo
+  quote: 圈子里的人，如曹建方、蒋兆岗、万仁礼等，给予提拔重用
+- a: qin-guangrong
+  b: jiang-zhaogang
+  kind: patron
+  text: 中央纪委网站说，秦光荣主政云南时用人搞“唯圈”论，蒋兆岗（曾任云南省农信社党委书记）是获得提拔重用的圈内人之一。
+  from: 2011
+  to: 2014
+  cite: cs2-ccdi-2020-05-06-su-hongbo
+  quote: 圈子里的人，如曹建方、蒋兆岗、万仁礼等，给予提拔重用
+- a: qin-guangrong
+  b: wan-renli
+  kind: patron
+  text: 中央纪委网站说，秦光荣主政云南时用人搞“唯圈”论，万仁礼（云南省农信社原党委书记、理事长）是获得提拔重用的圈内人之一。
+  from: 2011
+  to: 2014
+  cite: cs2-ccdi-2020-05-06-su-hongbo
+  quote: 圈子里的人，如曹建方、蒋兆岗、万仁礼等，给予提拔重用
+- a: cao-jianfang
+  b: luo-min
+  kind: patron
+  text: 罗敏是曹建方在云南省财政厅的老部下，后任省农信社主任，2015 年 7 月落马后牵出曹建方；澎湃新闻并转述《南方周末》说两人还是情人关系。
+  cite: r08-thepaper-2018-07-17-luo-min-verdict
+  quote: 而罗敏正是曹建方在财政厅的老部下
+
+# --- 华润、农行、山东 ---
+- a: wang-wenzhi
+  b: song-lin
+  kind: rival
+  text: 《经济参考报》记者王文志 2013 年 7 月 17 日在微博实名举报华润董事长宋林在金业收购中渎职，2014 年 4 月 15 日再次举报，两天后宋林被查。
+  from: 2013-07
+  to: 2014-04
+  cite: cs1-bbc-2014-04-15-cr-probe
+  quote: 王文志去年7月曾实名举报宋林涉嫌渎职贪腐的行为
+- a: li-jianjun-cr
+  b: song-lin
+  kind: rival
+  text: 前《山西晚报》记者李建军 2013 年 8 月 5 日赴香港廉政公署和警方商业罪案调查科举报华润董事长宋林；宋林发声明称其指控“纯属诬告”。
+  from: 2013-08
+  cite: r08-bbc-2013-08-05-li-jianjun-cr-report
+  quote: 前往香港廉政公署举报华润集团董事长宋林
+- a: yang-kun
+  b: zhang-yun-abc
+  kind: rival
+  text: 农业银行原副行长杨琨受审时当庭举报了时任行长张云；2016 年 1 月张云被“断崖式降级”。
+  cite: r03-wiki-zhang-yun-abc
+  quote: 庭审中，杨琨曾当庭举报了张云
+- a: wang-min-jinan
+  b: yan-shiyuan
+  kind: colleague
+  text: 据媒体报道，山东省委原常委颜世元长期是济南市委原书记王敏的直接下属，履历与王敏高度重合，2016 年 1 月被“断崖式降级”。
+  cite: r03-wiki-yan-shiyuan
+  quote: 颜世元曾长期是2014年12月落马的山东省委原常委、济南市委原书记王敏的直接下属
+
+# --- 军队 ---
+- a: liu-yuan
+  b: gu-junshan
+  kind: rival
+  text: 2010 年刘源任总后勤部政委、成为谷俊山的上级；观察者网转述罗援少将说，刘源和总后党委以党委名义举报谷俊山的贪腐问题，谷俊山 2012 年落马。
+  from: 2010
+  to: 2012
+  cite: b13-guancha-2015-12-24-liu-yuan
+  quote: 刘源和总后党委的其他同志，以党委的名义举报谷俊山的贪腐问题
+
+# --- 金融监管 ---
+- a: liu-hongru
+  b: zhang-yujun
+  kind: patron
+  text: 证监会首任主席刘鸿儒是张育军的老师；新浪财经说张育军与程博明是同学，都是刘鸿儒的学生。
+  cite: cs5-sina-2017-11-13-cheng-boming
+  quote: 据悉，程博明与此前落马的证监会主席助理张育军是同学，都是刘鸿儒的学生
+- a: liu-hongru
+  b: cheng-boming
+  kind: patron
+  text: 中信证券原总经理程博明是刘鸿儒的学生，与证监会主席助理张育军是同学（新浪财经）。
+  cite: cs5-sina-2017-11-13-cheng-boming
+  quote: 都是刘鸿儒的学生
+- a: liu-mingkang
+  b: lai-xiaomin
+  kind: secretary
+  text: 据看中国（传闻）2021 年报道，2003 年银监会组建时赖小民被首任主席刘明康调入，先任北京监管局局长，两年后被提拔为银监会办公厅和党委办公室主任，成为刘明康的“大秘”。
+  from: 2005
+  cite: u05-secretchina-2021-01-20-lai-patron
+  quote: 赖小民被刘明康提拔为银监会办公厅和党委办公室的主任，成为刘明康的大秘
+- a: lu-wei
+  b: zhou-xiaoping
+  kind: patron
+  text: 据维基百科汇总，港媒、《联合早报》报道与方舟子撰文均称网络作家周小平受时任网信办主任鲁炜赏识并被捧红；2017 年鲁炜落马后周小平发文称“不突然”。
+  from: 2014
+  cite: c11-wiki-zhou-xiaoping
+  quote: 港媒、联合早报报道与方舟子撰文均称周小平受网信办主任鲁炜赏识并捧红
+
+# --- 秘书 ---
+- a: zhao-ziyang
+  b: bao-tong
+  kind: secretary
+  text: 鲍彤是赵紫阳任国务院总理期间的秘书，后任中央政治局常委政治秘书；1989 年随赵紫阳下台被捕。
+  cite: b14-bbc-2019-10-18-zhao-burial
+  quote: 赵紫阳任总理期间的秘书、前中共中央常委政治秘书鲍彤
+- a: li-tieying
+  b: li-hongzhong
+  kind: secretary
+  text: 自由亚洲电台 2016 年报道，李鸿忠在辽宁时当过李贵鲜的秘书，后来在电子工业部当过时任部长李铁映的秘书。
+  cite: u04-rfa-2016-09-13-li-hongzhong-core
+  quote: 后来到电子工业部当过李铁映的秘书
+- a: li-guixian
+  b: li-hongzhong
+  kind: secretary
+  text: 自由亚洲电台 2016 年报道，李鸿忠在辽宁工作时当过时任辽宁省领导李贵鲜的秘书，后又给李铁映当秘书。
+  cite: u04-rfa-2016-09-13-li-hongzhong-core
+  quote: 在辽宁的时候，他当过李贵鲜的秘书
+- a: bo-yibo
+  b: dong-hong
+  kind: secretary
+  text: 法广 2020 年报道，董宏在跟随王岐山之前曾任薄一波的秘书。
+  cite: c10-rfi-2020-10-02-dong-hong
+  quote: 在跟随王岐山之前还曾担任薄熙来之父薄一波的秘书
+- a: wang-qishan
+  b: dong-hong
+  kind: patron
+  text: 美国之音 2020 年报道，董宏是王岐山的老部下并一路得到重用，王岐山任中纪委书记期间他任中央巡视组副部级巡视专员，被观察者称作王岐山的“大管家”；2020 年 10 月被查。
+  cite: c10-voa-2020-10-02-dong-hong
+  quote: 董宏是中国国家副主席王岐山的老部下并得到王的一路重用
+- a: wang-qishan
+  b: tian-huiyu
+  kind: secretary
+  text: 据维基百科汇总，王岐山执掌建设银行时期（1994–1997）田惠宇任其秘书，并参与筹建中金公司。
+  cite: r08-wiki-tian-huiyu
+  quote: 田惠宇在王岐山执掌建设银行时期担任王岐山的秘书
+- a: yao-gang
+  b: liu-shufan
+  kind: secretary
+  text: 财新 2015 年报道，证监会发行部处长刘书帆曾任证监会副主席姚刚的秘书（上一任）；两人 2015 年先后被查。
+  cite: r08-caixin-2015-08-26-liu-shufan-caixin
+  quote: 他曾担任证监会副主席姚刚上一任秘书
+- a: qiu-he
+  b: xie-xinsong
+  kind: patron
+  text: 昆明市副市长谢新松被称为时任昆明市委书记仇和的“大内总管”，商人要找仇和都得经过他；2016 年两人先后被判刑。
+  cite: r09-chinanews-2016-12-30-xie-xinsong
+  quote: 谢新松好比仇和的“大内总管”，办任何事情，都要通过谢新松
+- a: guo-boxiong
+  b: liu-hongjie
+  kind: patron
+  text: 曾任中央军委办公厅直属工作局局长的刘洪杰被称为郭伯雄、徐才厚的“大管家”。
+  cite: f09-hkcd-2016-07-12-guo-xu-tigers
+  quote: 刘洪杰曾任中央军委办公厅直属工作局局长，被称为郭、徐的“大管家”
+- a: xu-caihou
+  b: liu-hongjie
+  kind: patron
+  text: 刘洪杰任中央军委办公厅直属工作局局长，被称为郭伯雄、徐才厚的“大管家”。
+  cite: f09-hkcd-2016-07-12-guo-xu-tigers
+  quote: 被称为郭、徐的“大管家”
+- a: wang-qishan
+  b: bi-jingquan
+  kind: secretary
+  text: 毕井泉 2008–2015 年任国务院副秘书长，先后保障副总理王岐山、汪洋的日常工作，联合早报称他曾任王岐山“大秘”；2026 年一审获刑 14 年。
+  from: 2008
+  cite: k05-wiki-bi-jingquan
+  quote: 先后保障时任国务院副总理王岐山、汪洋的日常工作
+- a: ma-xingrui
+  b: guo-yonghang
+  kind: secretary
+  text: 郭永航是马兴瑞任深圳市委书记时的“大秘”，2026 年 3 月落马，早于马兴瑞本人被查。
+  cite: b08-zaobao-2026-07-14-ma
+  quote: 马兴瑞任深圳市委书记时的“大秘”郭永航
+- a: wu-guanzheng
+  b: liu-weiping
+  kind: secretary
+  text: 1990 年起刘伟平任江西省政府办公厅正处级秘书，是时任省长吴官正的秘书，被称为吴的“大内总管”；吴官正 1995 年任省委书记后，他被提拔为南昌市长，后官至甘肃省长。
+  from: 1990
+  cite: rl1-epoch-2018-04-24-liu-weiping
+  quote: 是时任江西省长吴官正的秘书
+- a: zhang-gaoli
+  b: wang-min-jinan
+  kind: secretary
+  text: 张高丽任山东省委书记（2001–2007）期间，王敏以省委副秘书长身份担任其主要秘书，2004 年跨入副省级；2014 年王敏落马。
+  cite: k04-wiki-wang-min-jinan
+  quote: 作为省委副秘书长，王敏是时任山东省委书记张高丽的主要秘书
+- a: zhu-rongji
+  b: li-bingjun
+  kind: secretary
+  text: 李炳军是朱镕基卸任总理后专设办公室的主任，统筹出版《朱镕基答记者问》等著作，2013 年外放江西。
+  cite: u08-chinanews-2015-06-19-li-bingjun
+  quote: 李炳军正是朱镕基卸任后的办公室主任
+- a: wang-yang
+  b: jiang-zelin
+  kind: secretary
+  text: 2015 年江泽林任国务院副秘书长，负责保障副总理汪洋的日常工作。
+  from: 2015-04
+  cite: f07-wiki-jiang-zelin
+  quote: 负责保障国务院副总理汪洋的日常工作
+- a: wang-yang
+  b: bi-jingquan
+  kind: secretary
+  text: 毕井泉任国务院副秘书长期间，继王岐山之后保障副总理汪洋的日常工作。
+  cite: k05-wiki-bi-jingquan
+  quote: 先后保障时任国务院副总理王岐山、汪洋的日常工作
+- a: wang-jianping
+  b: su-haihui
+  kind: secretary
+  text: 武警部队训练部副部长苏海辉曾任王建平的秘书，2016 年 8 月与王建平同日被带走。
+  cite: c12-voa-2016-08-26-wang-jianping
+  quote: 苏曾经担任王建平的秘书
+- a: li-ruihuan
+  b: wang-wenhua-qd
+  kind: secretary
+  text: 王文华长期担任李瑞环的秘书，2005 年外放青岛市委副书记，后任青岛市人大常委会主任；2025 年 12 月退休后被查。
+  to: 2005-04
+  cite: r08-wiki-wang-wenhua-qd
+  quote: 曾长期担任原中共中央政治局常委、全国政协主席李瑞环秘书
+- a: zhou-xiaochuan
+  b: li-chao-csrc
+  kind: secretary
+  text: 李超曾任周小川的秘书，此后在央行办公厅、外汇局任职，2015 年任证监会副主席。
+  cite: c12-wiki-li-chao-csrc
+  quote: 曾任周小川秘书
+- a: li-keqiang
+  b: xiao-jie
+  kind: secretary
+  text: 2013 年 3 月肖捷任国务院常务副秘书长，接替尤权负责保障总理李克强的日常工作，2016 年转任财政部长。
+  from: 2013-03
+  to: 2016-11
+  cite: k04-wiki-xiao-jie
+  quote: 接替尤权负责李克强总理的日常工作
+- a: ding-xuexiang
+  b: wang-zhijun
+  kind: secretary
+  text: 王志军任正部长级国务院副秘书长，分管国务院办公厅日常工作，保障常务副总理丁薛祥的日常工作。
+  from: 2023
+  cite: k06-wiki-wang-zhijun
+  quote: 保障丁薛祥日常工作
+- a: zhang-dejiang
+  b: xiao-yaqing
+  kind: secretary
+  text: 2009 年肖亚庆任国务院副秘书长，先保障副总理张德江、后保障马凯的日常工作。
+  from: 2009
+  cite: k04-wiki-xiao-yaqing
+  quote: 先后保障副总理张德江和马凯日常工作
+- a: ma-kai
+  b: xiao-yaqing
+  kind: secretary
+  text: 肖亚庆任国务院副秘书长期间，继张德江之后保障副总理马凯的日常工作，2016 年 2 月转任国资委主任。
+  to: 2016-02
+  cite: k04-wiki-xiao-yaqing
+  quote: 先后保障副总理张德江和马凯日常工作
+- a: han-zheng
+  b: zhuge-yujie
+  kind: secretary
+  text: 2017 年 5 月诸葛宇杰任上海市委常委、秘书长，先后作为韩正、李强两任市委书记的政治秘书。
+  from: 2017-05
+  to: 2017-10
+  cite: k06-wiki-zhuge-yujie
+  quote: 成为韩正和李强两任市委书记的政治秘书
+- a: li-qiang
+  b: zhuge-yujie
+  kind: secretary
+  text: 诸葛宇杰在李强任上海市委书记期间继续担任市委秘书长，是其政治秘书。
+  from: 2017-10
+  cite: k06-wiki-zhuge-yujie
+  quote: 成为韩正和李强两任市委书记的政治秘书
+
+# --- 提携 ---
+- a: jiang-zemin
+  b: chen-liangyu
+  kind: patron
+  text: 2006 年陈良宇落马时，香港学者邱震海对美国之音说，以陈良宇和黄菊为代表的“上海帮”都是江泽民提拔的人。
+  cite: b07-voa-2006-09-27-chen-qiu
+  quote: 所谓的上海帮以陈良宇和黄菊为代表的都是江泽民提拔的人
+- a: xu-caihou
+  b: tian-xiusi
+  kind: patron
+  text: 《南华早报》称前空军政委田修思是郭伯雄与徐才厚的亲信，仕途与两人有交集（联合早报转述，2016 年）。
+  cite: f02-zaobao-2016-07-09-tian-xiusi
+  quote: 香港《南华早报》指田修思是已落马的郭伯雄与徐才厚的亲信
+- a: xi-jinping
+  b: chen-yixin
+  kind: patron
+  text: 陈一新 2003 年起在浙江任省委副秘书长、政策研究室主任，直接为时任省委书记习近平服务；美国之音称他为习近平嫡系亲信，2022 年出任国家安全部部长。
+  from: 2003
+  cite: c05-voa-2022-10-29-chen-yixin
+  quote: 直接为习近平服务，与后来大权独揽的习近平建立了紧密关系
+- a: jia-qinglin
+  b: sun-zhengcai
+  kind: patron
+  text: 《纽约时报》2012 年引述李成等分析人士称，孙政才是贾庆林的门生；孙政才早年在北京任职时贾庆林是北京市委书记。
+  cite: b07-nyt-2012-11-26-leaders
+  quote: 孙政才是贾庆林的门生
+- a: xi-jinping
+  b: he-weidong
+  kind: patron
+  text: 德国之声称，何卫东出身原 31 集团军（驻福建），是习近平提拔重用的军委副主席；2025 年何卫东被开除党籍。
+  cite: b08-dw-2026-01-why-xi
+  quote: 习近平提拔重用的军委副主席何卫东和军委政治工作部主任苗华都出身原31集团军
+- a: xi-jinping
+  b: li-shangfu
+  kind: patron
+  text: 李尚福 2023 年 3 月任国防部长，BBC 中文称他与秦刚都曾被视为习近平的亲信，两人上任不到一年即被撤换。
+  cite: b08-bbc-2023-10-26-li-qin
+  quote: 二人都曾被视为习近平的亲信
+- a: xi-jinping
+  b: zhang-youxia
+  kind: patron
+  text: 张又侠之父张宗逊与习仲勋是西北野战军战友；德国之声称张又侠曾被认为是习近平的亲信、推动习近平二十大连任的主要功臣，2026 年 1 月被查。
+  cite: b08-dw-2026-01-zhang-who
+  quote: 曾被认为是习近平的亲信，也被视为推动习近平在20大连任的主要功臣
+- a: ling-jihua
+  b: yuan-chunqing
+  kind: patron
+  text: BBC 中文 2014 年报道，时任山西省委书记袁纯清被广泛认为是令计划的亲信；两人都曾在共青团中央任职。
+  cite: cs1-bbc-2014-09-01-shanxi-wang-rulin
+  quote: 袁纯清也被广泛认为是前中共中央办公厅主任、现中央统战部部长令计划的亲信
+- a: zhu-rongji
+  b: lou-jiwei
+  kind: patron
+  text: 楼继伟在朱镕基主持财税、金融改革期间受重用，美国之音称他为“朱镕基的爱将”。
+  cite: c05-voa-2019-04-07-lou-jiwei
+  quote: 朱镕基的爱将楼继伟
+- a: zhu-rongji
+  b: wen-jiabao
+  kind: patron
+  text: 温家宝 1998 年起任朱镕基内阁副总理，分管金融与农业；BBC 中文 2002 年十六大报道称他是朱镕基的亲信。
+  cite: f01-bbc-2002-11-15-new-team
+  quote: 朱镕基的亲信温家宝排名第三
+- a: zhao-hongzhu
+  b: lou-yangsheng
+  kind: patron
+  text: 自由亚洲电台 2020 年报道，楼阳生在习近平主政浙江时被提拔为丽水市委书记，赵洪祝任浙江省委书记期间又把他提拔为省委统战部长。
+  cite: f02-rfa-2020-11-16-zhijiang
+  quote: 赵洪祝担任浙江省委书记期间将他提拔为省委统战部长
+- a: xu-yongyue
+  b: ma-jian
+  kind: patron
+  text: 据维基百科汇总，国家安全部原副部长马建是前部长许永跃的直属亲信；马建 2015 年落马。
+  cite: k03-wiki-xu-yongyue
+  quote: 马建正是许永跃的直属亲信
+- a: miao-hua
+  b: qin-shutong
+  kind: patron
+  text: 《联合早报》2025 年报道，缺席八一招待会的陆军原政委秦树桐等上将都是已落马的军委政治工作部主任苗华的旧部。
+  cite: cs3-zaobao-2025-08-04-bayi-absent
+  quote: 都是已落马的原军委政治工作部主任苗华上将的旧部
+- a: miao-hua
+  b: wang-chunning
+  kind: patron
+  text: 《联合早报》2025 年报道，武警部队原司令员王春宁与秦树桐、袁华智等上将都是苗华的旧部，当年八一招待会均缺席。
+  cite: cs3-zaobao-2025-08-04-bayi-absent
+  quote: 缺席的袁华智、王春宁、原陆军政委秦树桐等数名上将，都是已落马的原军委政治工作部主任苗华上将的旧部
+- a: zhao-ziyang
+  b: tian-jiyun
+  kind: patron
+  text: 田纪云在四川给时任省委书记赵紫阳当部下，1981 年后随赵紫阳进京任国务院副秘书长、副总理；自由亚洲电台称他是赵紫阳的老部下。
+  cite: v01-rfa-2008-02-11-tian-jiyun
+  quote: 田纪云是赵紫阳的老部下
+- a: li-denghui
+  b: lian-zhan
+  kind: patron
+  text: 李登辉任总统时提拔连战任行政院长、副总统，2000 年连战代表国民党竞选总统落败。
+  cite: c06-bbc-2020-07-30-lee-teng-hui
+  quote: 李登辉提拔的连战败选
+- a: li-zhuming
+  b: huang-zhifeng
+  kind: patron
+  text: BBC 中文 2020 年报道，黄之锋曾感谢民主党创党主席李柱铭的提携，并称赴美游说是应李柱铭邀请。
+  cite: c04-bbc-2020-05-martin-lee
+  quote: 香港学运领袖黄之锋亦曾感谢李柱铭的提携
+- a: dou-yupei
+  b: bao-xuequan
+  kind: patron
+  text: 界面新闻 2017 年报道，民政部原副部长窦玉沛被视为民政部社会福利和慈善事业促进司原司长鲍学全的“保护伞”。
+  cite: cs2-jiemian-2017-01-mca-systemic
+  quote: 在鲍学全遭遇网络举报后，窦玉沛也被视为鲍的保护伞
+- a: zeng-qinghong
+  b: he-guoqiang
+  kind: patron
+  text: 詹姆斯敦基金会 2007 年十七大前报道，北京消息人士称贺国强与周永康都是曾庆红一系的人，胡锦涛对由二人分掌中纪委和政法委有所保留；贺国强随后出任中纪委书记。
+  from: 2007
+  cite: b01-jamestown-2007-hu-impasse
+  quote: the president has had reservations about Zeng’s two affiliates handling the critical portfolios of fighting corruption and controlling the police and judicial apparatus
+- a: wang-qishan
+  b: xiao-pei
+  kind: patron
+  text: 肖培是王岐山旧部，被王岐山点将进入纪检系统，2016 年起任中纪委副书记。
+  cite: k06-wiki-xiao-pei
+  quote: 肖培被王岐山点将进入纪检系统
+- a: li-chuncheng
+  b: liu-junlin
+  kind: patron
+  text: 李春城任成都市委书记时，都江堰市委书记刘俊林积极推动统筹城乡试点，第一财经称他深得李春城赏识。
+  cite: r09-yicai-2014-10-chengdu
+  quote: 刘俊林被认为深得李春城赏识
+- a: liu-zhijun
+  b: lin-fenqiang
+  kind: patron
+  text: 第一财经 2014 年报道，原铁道部部长刘志军是林奋强的老上级，对其有知遇之恩。
+  cite: r09-yicai-2014-lin-fenqiang
+  quote: 对其有知遇之恩的原铁道部部长刘志军
+- a: xi-jinping
+  b: xu-qiliang
+  kind: patron
+  text: 许其亮 1988–1993 年在驻福州的空军第八军任职，与 1990 年起兼任福州军分区党委第一书记的习近平有工作交集；台湾学者沈明室称他与习相识，习成为最高领导人后受重用，2012 年起任军委副主席。
+  cite: rl1-zaobao-2025-12-14-air-force
+  quote: 许其亮不仅与习近平相识，后来在习近平成为最高领导人后还受重用
+- a: zeng-yinquan
+  b: lin-zheng-yuee
+  kind: patron
+  text: 2007 年特首曾荫权任内，林郑月娥由公务员转任问责官员，出任发展局局长。
+  from: 2007
+  cite: rl1-bbc-2017-carrie-lam-profile
+  quote: 在特首曾荫权任内，她由公务员转为问责官员，担任发展局局长
+- a: liang-zhenying
+  b: lin-zheng-yuee
+  kind: patron
+  text: 2012 年梁振英当选特首后提名林郑月娥出任政务司司长；法广引港媒称，梁振英一直视她为“第二把交椅”的最理想人选。
+  from: 2012
+  cite: rl1-rfi-2012-04-30-carrie-lam
+  quote: 梁振英一直视林郑月娥为「第二把交椅」的最理想人选
+- a: qian-qichen
+  b: yang-jiechi
+  kind: patron
+  text: 1990 年代初杨洁篪主管对美工作，在突破美国“六四”制裁中受到时任外长钱其琛欣赏，1998 年成为最年轻的副外长（美国之音 2001 年）。
+  cite: rl1-voa-2001-08-07-yang-jiechi
+  quote: 并受到了当时外长钱其琛的欣赏
+- a: wen-jiabao
+  b: wang-yi
+  kind: patron
+  text: BBC 中文 2013 年转述日本媒体报道，选定外长时温家宝以张志军难以恢复中日关系为由，强烈推举王毅，李克强也同意启用；王毅同年 3 月出任外交部长。
+  from: 2013
+  cite: rl1-bbc-2013-02-24-wang-yi
+  quote: 强烈推举王毅
+- a: hu-jintao
+  b: yu-keping
+  kind: patron
+  text: 俞可平时任中央编译局副局长，美国之音 2007 年称他被称为“胡锦涛文胆”，是胡温的智囊人物。
+  cite: rl1-voa-2007-01-05-yu-keping
+  quote: 被称为“胡锦涛文胆”的中央编译局副局长俞可平
+- a: liu-yunshan
+  b: liu-qibao
+  kind: patron
+  text: 大纪元转述港媒称，刘奇葆 2012 年出任中宣部部长，是刘云山应周永康要求提名、担保的结果。
+  from: 2012
+  cite: b19-epoch-2017-10-25-liu-out
+  quote: 刘云山听从周永康的要求提名了刘奇葆
+- a: zhu-rongji
+  b: xu-kuangdi
+  kind: patron
+  text: 人民报称，1990 年代末任上海市长的徐匡迪是朱镕基的爱将。
+  cite: u03-renminbao-2025-07-23-ding
+  quote: 市长徐匡迪却是朱镕基的爱将
+- a: xu-kuangdi
+  b: ding-xuexiang
+  kind: patron
+  text: 人民报称，上海市长徐匡迪欣赏科研单位出身的丁薛祥，力推他出任闸北区区长。
+  cite: u03-renminbao-2025-07-23-ding
+  quote: 徐匡迪对科研单位出身的丁薛祥非常欣赏，力推他出任闸北区的区长
+- a: jiang-zemin
+  b: liu-qi
+  kind: patron
+  text: 新唐人称，刘淇是江泽民的亲信，他任北京市委书记（2002–2012）期间胡温难以掌控北京。
+  cite: b21-ntdtv-2012-07-03-guo-liu
+  quote: 江泽民亲信刘淇任北京市委书记
+- a: chen-yun
+  b: song-ping
+  kind: patron
+  text: 阿波罗网称宋平一直是陈云的得意门生，1989 年邓小平提出宋平进政治局常委，陈云、李先念自然同意。
+  from: 1989
+  cite: u01-aboluowang-2013-06-01-1989-personnel
+  quote: 宋平一直是陈云的得意门生
+- a: lai-xiaomin
+  b: bai-tianhui
+  kind: patron
+  text: 白天辉 2014–2018 年在华融国际任职至总经理，是赖小民的下属、与其关系密切；赖小民落马后他随即被查，2025 年被执行死刑。
+  cite: r10-wiki-bai-tianhui
+  quote: 是华融集团原董事长赖小民下属[1]，与赖小民关系密切
+- a: chen-yuan
+  b: lai-xiaomin
+  kind: patron
+  text: 看中国称，赖小民在央行系统由副处升正处、正处升副司局两个关键台阶，都与时任央行副行长陈元有关。
+  cite: u05-secretchina-2021-01-20-lai-patron
+  quote: 都是与时任副行长陈元有关
+
+# --- 搭档 ---
+- a: bo-xilai
+  b: huang-qifan
+  kind: colleague
+  text: 2007–2012 年黄奇帆任重庆市长，与市委书记薄熙来搭档推行“重庆模式”，他曾形容两人搭档“如鱼得水”。
+  from: 2007-12
+  to: 2012-03
+  cite: c07-bbc-2026-10-13-huang-qifan
+  quote: 黄奇帆曾形容与薄熙来的搭档“如鱼得水”
+- a: huang-qifan
+  b: sun-zhengcai
+  kind: colleague
+  text: 2012–2016 年黄奇帆以市长身份与重庆市委书记孙政才搭档；BBC 中文称他先后与薄熙来、孙政才搭档，两人相继出事而他未受波及。
+  from: 2012-11
+  to: 2016-12
+  cite: c07-bbc-2026-10-13-huang-qifan
+  quote: 先后与薄熙来、孙政才这两位极具争议性的直属上级搭档
+- a: zhao-keshi
+  b: liu-yuan
+  kind: colleague
+  text: 2012 年赵克石任总后勤部部长，与总后政委刘源“搭班子”，直至 2015 年底刘源离任。
+  from: 2012-10
+  to: 2015-12
+  cite: c05-caixin-2016-02-26-liu-yuan
+  quote: 赵克石任总后勤部部长 与政委刘源“搭班子”
+- a: ding-laihang
+  b: yu-zhongfu
+  kind: colleague
+  text: 2017 年起丁来杭任空军司令员、于忠福任空军政委，两人在空军“搭班子”；2023 年先后转任全国人大，丁来杭同年底落马。
+  from: 2017
+  cite: rl1-zaobao-2025-12-14-air-force
+  quote: 曾与丁来杭在空军搭班子
+- a: wang-haijiang
+  b: yang-cheng-pla
+  kind: colleague
+  text: 2021 年汪海江任新疆军区司令员，与政委杨诚搭档，同年调任西部战区司令员。
+  from: 2021-03
+  cite: k06-wiki-wang-haijiang
+  quote: 他曾经的搭档杨诚中将
+- a: xi-jinping
+  b: chen-mingyi
+  kind: colleague
+  text: 1999 年习近平任福建代省长、省长，与省委书记陈明义搭档，期间协助处理厦门远华案。
+  from: 1999-08
+  to: 2000-12
+  cite: p01-wiki-xi-jinping
+  quote: 与陈明义、宋德福两位省委书记搭档
+- a: xi-jinping
+  b: song-defu
+  kind: colleague
+  text: 2000 年底宋德福接任福建省委书记，与省长习近平搭档，直至 2002 年习调任浙江。
+  from: 2000-12
+  to: 2002-10
+  cite: p01-wiki-xi-jinping
+  quote: 与陈明义、宋德福两位省委书记搭档
+
+- a: xi-zhongxun
+  b: zhang-zongxun
+  kind: colleague
+  text: 国共内战期间习仲勋任西北野战军副政委、张宗逊任副司令员，1947 年起共事，两家被视为世交；美国之音认为这是张又侠在习近平军委中留任的原因之一。
+  from: 1947
+  cite: c05-voa-2024-04-04-princelings
+  quote: 习仲勋是副政委，张宗逊是副司令员，两家人是世交
+
+# --- 姻亲 ---
+- a: hu-yaobang
+  b: liu-xiaojiang
+  kind: kin
+  text: 海军原政委刘晓江是胡耀邦的女婿，妻子是胡耀邦之女李恒。
+  cite: f10-youth-2016-03-12-red-generals-2
+  quote: 公开资料显示，刘晓江还是胡耀邦女婿
+- a: ling-zhengce
+  b: ling-wancheng
+  kind: kin
+  text: 令政策是令家次子，令完成是幼子，两人与令计划为兄弟。
+  cite: b07-bbc-2015-07-20-ling-expulsion
+  quote: 其中令方针为女儿，令计划为三子，令政策是次子
+- a: li-peng
+  b: zhu-lin
+  kind: kin
+  text: 朱琳是李鹏之妻，曾任华北电力局外事处负责人。
+  cite: b01-bbc-2019-07-23-li-peng-obit
+  quote: 其妻子朱琳曾任华北电力局外事处负责人
+- a: wen-jiabao
+  b: zhang-peili
+  kind: kin
+  text: 张蓓莉（张培莉）是温家宝之妻，珠宝与宝石业人士；《纽约时报》2012 年调查称她经营的国有钻石公司帮助亲属扩充投资。
+  cite: b02-nytcn-2012-10-26-wen-wealth
+  quote: 他的妻子张蓓莉是中国珠宝与宝石领域的权威人士之一
+- a: wen-jiabao
+  b: wen-yunsong
+  kind: kin
+  text: 温云松是温家宝的独子，创办私募基金新天域，后任中国卫星通信集团董事长。
+  cite: b02-nytcn-2012-10-26-wen-wealth
+  quote: 总理的独子温云松
+- a: xi-zhongxun
+  b: xi-yuanping
+  kind: kin
+  text: 习远平是习仲勋之子，2013 年在习仲勋百年诞辰座谈会上代表家属发言。
+  cite: c05-people-2013-10-12-xi-yuanping
+  quote: 就是我父亲习仲勋的百年诞辰
+- a: xi-zhongxun
+  b: qi-qiaoqiao
+  kind: kin
+  text: 齐桥桥是习仲勋和齐心的长女、习近平之姐，丈夫为邓家贵。
+  cite: c13-wiki-deng-jiagui
+  quote: 妻子齐桥桥是习仲勋和齐心的大女儿
+- a: liu-yunshan
+  b: jia-chunwang
+  kind: kin
+  text: 刘云山与贾春旺是儿女亲家：贾春旺之女贾丽青嫁给刘云山之子刘乐飞。
+  cite: k03-wiki-jia-chunwang
+  quote: 其女儿贾丽青是刘乐飞的妻子，刘云山的儿媳
+- a: zhang-zongxun
+  b: zhang-youxia
+  kind: kin
+  text: 张又侠是开国上将、总后勤部原部长张宗逊之子，被视为军中根基深厚的“红二代”；2026 年 1 月被立案审查。
+  cite: f01-dw-2026-01-26-zhang-youxia
+  quote: 其父张宗逊（1908年2月7日—1998年9月14日）是“开国上将”之一
+- a: qi-qiaoqiao
+  b: deng-jiagui
+  kind: kin
+  text: 邓家贵是齐桥桥的丈夫、习近平的姐夫；2012 年彭博社调查称习家亲属的大部分资产由这对夫妇持有。
+  cite: c05-bbc-2012-06-29-bloomberg-xi
+  quote: 大部分资产都是习近平的姐姐齐桥桥和姐夫邓家贵拥有
+- a: xiao-jianhua
+  b: zhou-hongwen
+  kind: kin
+  text: 周虹文是肖建华的妻子，两人在北大期间相识；1999 年明天控股成立时由她任法定代表人。
+  from: 1999-09
+  cite: c13-jjckb-2017-02-03-tomorrow
+  quote: 肖建华的妻子周虹文为法定代表人
+- a: lou-zhongfu
+  b: lou-ming
+  kind: kin
+  text: 楼明是广厦创始人楼忠福之子，楼忠福退居幕后后由他接任广厦集团董事局主席。
+  cite: cs5-bjnews-2016-09-27-lou-zhongfu
+  quote: 楼明为楼忠福之子
+- a: lou-zhongfu
+  b: lou-zhonghua
+  kind: kin
+  text: 楼忠华是楼忠福的弟弟；《中国经济周刊》称楼忠福在浙江政法系统的关系网助长了楼忠华在金华的势力。
+  cite: cs6-chinanews-2015-07-28-lou-zhongfu
+  quote: 楼忠福的弟弟楼忠华
+- a: si-xinliang
+  b: si-li
+  kind: kin
+  text: 斯力是浙江省委原组织部长斯鑫良之子，任浙江团省委常委、组织部长；2015 年初父子先后被带走。
+  cite: cs6-thepaper-2015-02-16-si-li
+  quote: 斯鑫良之子，浙江团省委常委、组织部长斯力
+- a: si-xinliang
+  b: jin-huifang
+  kind: kin
+  text: 金惠芳是斯鑫良的妻子，曾以“副主席夫人”身份出席新疆浙商活动。
+  cite: c13-cri-2015-06-19-si-xinliang
+  quote: 斯鑫良妻子名叫金惠芳
+- a: wu-yongzheng
+  b: wu-ying
+  kind: kin
+  text: 吴永正是吴英的父亲；广厦集团在回应他的指控时称其为“吴英父亲”，并称保留追究责任的权利。
+  cite: cs6-chinanews-2015-07-28-lou-zhongfu
+  quote: 将保留追究吴英父亲炮制谣言、恶意中伤之法律责任的权利
+- a: zhou-yongkang
+  b: zhou-hao
+  kind: kin
+  text: 澎湃新闻 2014 年转述国内媒体的说法，称辽河油田原党委书记周灏是周永康的远房侄子；官方未予证实。
+  cite: c13-thepaper-2014-12-30-zhou-hao
+  quote: 周灏系今年7月宣布被立案审查的前中央政治局常委周永康的远房侄子
+
+# --- 对立 ---
+- a: fan-jinggang
+  b: mao-yushi
+  kind: rival
+  text: 2011 年茅于轼撰文批评毛泽东后，“乌有之乡”网站负责人范景刚向美国之音证实，举报茅于轼的举报状已送达北京市公安局。
+  from: 2011
+  cite: c09-voa-2011-05-24-mao-yushi
+  quote: 对茅于轼的举报状已经送达北京市公安局
+- a: wu-yongzheng
+  b: lou-zhonghua
+  kind: rival
+  text: 吴英之父吴永正公开指称楼忠华是东阳“黑恶势力”、曾暗示吴英交保护费并介入吴英案资产拍卖；广厦集团声明楼氏家族与吴英案无任何牵扯，称其“炮制谣言”。
+  cite: cs6-chinanews-2015-07-28-lou-zhongfu
+  quote: 楼忠华曾暗示吴英上交2000万元的保护费，并直接介入了吴英案的资产拍卖
+- a: ai-weiwei
+  b: hu-xijin
+  kind: rival
+  text: 2011 年艾未未获释后，指《环球时报》在他被拘期间配合公安抹黑他，并于 11 月 20 日在推特公布总编胡锡进等人的手机号码；两天后《环球时报》连发三文批评他。
+  from: 2011
+  cite: rl1-voa-2011-11-22-ai-global-times
+  quote: 唯有《环球时报》有这个特殊的权力来对我进行专职的抹黑
