@@ -1,0 +1,880 @@
+# R09: bureau-level falls linked to an existing case study or faction (research/round13.md, R09).
+# Every bio names the case it belongs to; verdicts and notices are stored under sources/text/r09-*.
+
+# ───── 上海社保案（陈良宇） ─────
+- id: zhu-junyi
+  name: 祝均一
+  gender: m
+  born: 1951-02
+  roles: [tiger]
+  status: purged
+  statusNote: 2007 年 9 月被长春中院数罪并罚判处有期徒刑 18 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2006-08-09, text: 上海市人大常委会免去其上海市劳动和社会保障局局长职务，市长韩正通报其涉嫌社保基金违规使用和收受贿赂, cite: e07-cctv-2006-08-11-zhu-junyi }
+    - { date: 2007-03, text: 被开除党籍和公职，同批被“双开”的社保案涉案党员共 9 人, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-09-23, text: 长春中院以受贿罪、挪用公款罪、滥用职权罪数罪并罚判处有期徒刑 18 年，没收个人财产 30 万元, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  tier: 2
+  headline: 上海市劳动和社会保障局原局长，上海社保案主角
+  ids: { wikidata: Q8071122 }
+  bio: >-
+    上海社保案的主角，2006 年 8 月被免职时是上海改革开放以来出事级别最高的官员。长春中院认定，1999—2006 年他把劳动和社会保障局的巨额资金借给
+    张荣坤控制的上海沸点投资发展有限公司使用，受贿 166 万余元，挪用公款 13 亿元供张荣坤的公司营利，并违规运营社保资金；另说挪用公款 10 亿元
+    （《财经》、BBC 转述）。BBC 称此案导致上海市委原书记陈良宇等多位政商要人落马。他因提供线索侦破其他重大案件被认定重大立功。
+  positions:
+    - { title: 上海市劳动和社会保障局局长, sys: gov, place: 上海, to: 2006-08-09, cite: e07-cctv-2006-08-11-zhu-junyi }
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, r09-ce-2007-09-24-pension-verdicts, e07-cctv-2006-08-11-zhu-junyi, e07-bbc-2007-03-02-pension-expelled, e07-bbc-2007-09-24-zhu-junyi, wd-Q8071122]
+
+- id: qin-yu
+  name: 秦裕
+  gender: m
+  born: 1964-06
+  roles: [tiger]
+  status: detained
+  statusNote: 2007 年 9 月被长春中院以受贿罪判处无期徒刑。
+  fall:
+    - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-09, text: 长春中院以受贿罪判处无期徒刑，剥夺政治权利终身，没收个人全部财产, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  tier: 2
+  headline: 上海市宝山区原区长，社保案中受贿 682 万余元被判无期
+  bio: >-
+    上海社保案同案被告。长春中院认定，1998 年 4 月至 2006 年 6 月他在任上海市委办公厅秘书、上海市政府办公厅副主任、市委办公厅副主任期间，
+    为韩国璋、吴明烈、张荣坤等人谋取利益，索取、收受款物折合 682 万余元；他提供线索侦破其他重大案件，构成重大立功。案发时为上海市宝山区区长。
+    2007 年 3 月与祝均一等 9 人一同被“双开”。
+  positions:
+    - { title: 中共上海市委办公厅秘书、上海市人民政府办公厅副主任、市委办公厅副主任, sys: party, place: 上海, from: 1998-04, to: 2006-06, cite: r09-chinanews-2007-09-26-pension-verdicts }
+    - { title: 上海市宝山区区长, sys: gov, place: 上海, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  ids: { wikidata: Q7267773 }
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled, wd-Q7267773]
+
+- id: sun-luyi
+  name: 孙路一
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 2007 年 9 月被判有期徒刑 15 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-09, text: 一审以受贿罪判处有期徒刑 15 年，没收个人财产 50 万元, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  tier: 2
+  headline: 上海市委原副秘书长兼办公厅主任，社保案中受贿 472 万余元
+  bio: >-
+    上海社保案同案被告。法院认定，1998 年 2 月至 2006 年 5 月他利用担任上海市委组织部副部长兼市人事局局长、市委副秘书长、市委办公厅主任的职务便利，
+    为李松坚、韩国璋等人谋取利益，收受款物折合 472 万余元，案发后坦白司法机关未掌握的大部分犯罪事实。2007 年 3 月与祝均一等 9 人一同被“双开”。
+  positions:
+    - { title: 中共上海市委组织部副部长兼上海市人事局局长, sys: party, place: 上海, from: 1998-02, cite: r09-chinanews-2007-09-26-pension-verdicts }
+    - { title: 中共上海市委副秘书长、市委办公厅主任, sys: party, place: 上海, to: 2006-05, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled]
+
+- id: wang-chengming
+  name: 王成明
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2007 年 12 月一审判处死刑缓期两年执行，2008 年 3 月吉林高院终审维持。
+  fall:
+    - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-12-20, text: 一审以共同贪污 3 亿元判处死刑缓期两年执行，以受贿 21 万元判处有期徒刑 10 年，两罪并罚判处死缓, cite: r09-caixin-2008-03-20-wang-chengming }
+    - { date: 2008-03-20, text: 吉林高院终审驳回上诉，维持原判, cite: r09-caixin-2008-03-20-wang-chengming }
+  tier: 2
+  headline: 上海电气（集团）总公司原董事长，共同贪污 3 亿元被判死缓
+  bio: >-
+    历任上海仪电控股副总裁、上海广电集团副总裁和总裁、上海广电股份总经理和董事长，社保案案发前任上海电气（集团）总公司董事长。
+    2007 年 3 月与祝均一等 9 名上海社保案涉案党员一同被“双开”（BBC）；另说：财新称他的贪污案源自闵行区的举报，与社保案并无直接关系，
+    他对共同贪污罪的定性和金额一直有争议。
+  positions:
+    - { title: 上海仪电控股（集团）公司副总裁, sys: other, place: 上海, cite: r09-caixin-2008-03-20-wang-chengming }
+    - { title: 上海广电（集团）有限公司副总裁、总裁，上海广电股份有限公司总经理、董事长, sys: other, place: 上海, cite: r09-caixin-2008-03-20-wang-chengming }
+    - { title: 上海电气（集团）总公司董事长, sys: other, place: 上海, cite: r09-caixin-2008-03-20-wang-chengming }
+  cites: [r09-caixin-2008-03-20-wang-chengming, e07-bbc-2007-03-02-pension-expelled]
+
+- id: han-guozhang
+  name: 韩国璋
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2007 年 9 月被长春中院以受贿罪判处无期徒刑。
+  fall:
+    - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-09-23, text: 长春中院以受贿罪判处无期徒刑，剥夺政治权利终身，没收个人全部财产, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  tier: 2
+  headline: 上海电气（集团）总公司原常务副总裁，社保案中被判无期
+  bio: >-
+    上海社保案同案被告。中新社据长春中院判决称他是上海电气（集团）总公司原常务副总裁；另说为上海电气（集团）股份有限公司副总裁（《财经》）。
+    《财经》报道法院认定他受贿 600 余万元。判决还认定秦裕、孙路一都曾利用职务为他谋取利益并收受财物。
+  positions:
+    - { title: 上海电气（集团）总公司常务副总裁, sys: other, place: 上海, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, r09-ce-2007-09-24-pension-verdicts, e07-bbc-2007-03-02-pension-expelled]
+
+- id: wu-hongmei
+  name: 吴鸿玫
+  roles: [tiger]
+  status: purged
+  statusNote: 2007 年 9 月上海一中院对其受贿案一审宣判，本站来源未载刑期。
+  fall:
+    - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
+    - { date: 2007-09, text: 上海一中院对其受贿案作出一审判决, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  tier: 2
+  headline: 上海市国资委原副主任，社保案同批被“双开”
+  bio: >-
+    上海社保案涉案人员，2007 年 3 月与祝均一、秦裕、孙路一、王成明、韩国璋等 9 人一同被开除党籍和公职。同年 9 月，上海市第一中级人民法院
+    在社保系列案中对她的受贿案一审宣判；中新社稿只说这批被告人刑期最低一年六个月、最高十八年，未单列她的刑期。
+  positions:
+    - { title: 上海市国有资产监督管理委员会副主任, sys: gov, place: 上海, cite: r09-chinanews-2007-09-26-pension-verdicts }
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled]
+
+# ───── 薄谷开来案（薄熙来、王立军） ─────
+- id: guo-weiguo
+  name: 郭维国
+  gender: m
+  born: 1967
+  roles: [tiger]
+  status: purged
+  statusNote: 2012 年 8 月被合肥中院以徇私枉法罪判处有期徒刑 11 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2012-08-20, text: 合肥中院以徇私枉法罪判处有期徒刑 11 年，认定其为主犯, cite: b07-xinhua-2012-08-20-gu-kailai-sentence }
+  tier: 2
+  headline: 重庆市公安局原副局长，为包庇薄谷开来徇私枉法的主犯
+  ids: { wikidata: Q9355502 }
+  bio: >-
+    薄谷开来杀害尼尔·伍德案的同案关联人。王立军的判决称，王立军明知薄谷开来有重大嫌疑，仍指派“与其本人及薄谷开来关系密切”的副局长郭维国负责此案，
+    郭维国等人作出伍德系酒后猝死的结论。合肥中院认定，郭维国、李阳、王鹏飞、王智为使薄谷开来不受追诉，伪造、隐匿、毁灭证据，引导死者亲属不解剖尸体，
+    郭维国是主犯，还曾要求李阳等人销毁物证。薄熙来的判决也写明时任副局长郭维国等人徇私枉法，使此案未被依法侦破。
+  positions:
+    - { title: 重庆市公安局副局长, sys: gov, place: 重庆, cite: b07-xinhua-2012-08-20-gu-kailai-sentence }
+  cites: [b07-xinhua-2012-08-20-gu-kailai-sentence, b07-xinhua-2012-09-24-wang-lijun-sentence, b07-xinhua-2013-09-22-bo-sentence, wd-Q9355502]
+
+# ───── 足坛反腐 ─────
+- id: xie-yalong
+  name: 谢亚龙
+  gender: m
+  born: 1955-12-01
+  birthplace: 重庆
+  roles: [tiger]
+  status: purged
+  statusNote: 2012 年 6 月被丹东中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2012-06-13, text: 丹东中院以受贿罪判处有期徒刑 10 年 6 个月，没收个人财产 20 万元，认定受贿 136.38 万元, cite: r09-chinanews-2012-06-13-football }
+  tier: 2
+  headline: 国家体育总局足管中心原主任、足协原副主席，上一轮足坛反赌扫黑落马
+  ids: { wikidata: Q9185844 }
+  bio: >-
+    上一轮足坛反赌扫黑系列案中级别最高的被告之一，与南勇、杨一民并称“足协三巨头”。丹东中院认定，他在任国家体委群众体育司司长、
+    国家体育总局足球运动管理中心主任并受委派任中国足协副主席期间，1998 年至 2008 年 6 月收受他人财物折合 136.38 万元，公诉指控的 172.78 万元
+    中部分因证据不足未予认定；他和辩护人在庭上提出刑讯逼供，法院未予采信。
+  positions:
+    - { title: 国家体育运动委员会群众体育司司长, sys: gov, cite: r09-chinanews-2012-06-13-football }
+    - { title: 国家体育总局足球运动管理中心主任、中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-06-13-football }
+  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q9185844]
+
+- id: nan-yong
+  name: 南勇
+  gender: m
+  born: 1962-06-16
+  roles: [tiger]
+  status: purged
+  statusNote: 2012 年 6 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2012-06-13, text: 铁岭中院以受贿罪判处有期徒刑 10 年 6 个月，没收个人财产 20 万元，认定受贿 119.6554 万元及手表、项链等物品, cite: r09-chinanews-2012-06-13-football }
+  tier: 2
+  headline: 国家体育总局足管中心原主任、足协原副主席，上一轮足坛反赌扫黑落马
+  ids: { wikidata: Q6850466 }
+  bio: >-
+    上一轮足坛反赌扫黑系列案被告，与谢亚龙、杨一民并称“足协三巨头”。铁岭中院认定，他在任国家体育总局足球运动管理中心副主任、主任兼中国足协副主席期间，
+    1998—2009 年接受在足球事务中给予关照的请托，收受现金 119.6554 万元及手表、项链等物品，为多家俱乐部、球员、教练员谋取利益。
+  positions:
+    - { title: 国家体育总局足球运动管理中心副主任、主任兼中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-06-13-football }
+  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q6850466]
+
+- id: yang-yimin
+  name: 杨一民
+  gender: m
+  born: 1956-11-23
+  roles: [tiger]
+  status: purged
+  statusNote: 2012 年 2 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2012-02-18, text: 铁岭中院以受贿罪判处有期徒刑 10 年 6 个月，没收财产 20 万元，认定受贿 125.4 万余元, cite: r09-chinanews-2012-02-18-yang-yimin }
+  tier: 2
+  headline: 国家体育总局足管中心原副主任、足协原副主席，上一轮足坛反赌扫黑落马
+  ids: { wikidata: Q9212870 }
+  bio: >-
+    上一轮足坛反赌扫黑系列案中一审时级别最高的被告，与谢亚龙、南勇并称“足协三巨头”。铁岭中院认定，1997—2009 年他利用国家体育总局足球运动管理中心
+    领导职务之便，为足球教练员、俱乐部谋取不正当利益，先后 40 余次收受贿赂 125.4 万余元。其律师称他对判决较满意，当庭表示不上诉。
+  positions:
+    - { title: 国家体育总局足球运动管理中心副主任、中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-02-18-yang-yimin }
+  cites: [r09-chinanews-2012-02-18-yang-yimin, wd-Q9212870]
+
+- id: wang-dengfeng
+  name: 王登峰
+  gender: m
+  born: 1965
+  roles: [tiger]
+  status: detained
+  statusNote: 2024 年 3 月被德州中院以贪污罪、受贿罪数罪并罚判处有期徒刑 17 年。
+  fall:
+    - { date: 2022-08-30, text: 接受调查，是本轮足球领域反腐中第一个被查的人, cite: r09-caixin-2023-02-16-wang-dengfeng }
+    - { date: 2023-02, text: 山东省监委调查终结，山东省检察院以涉嫌贪污罪、受贿罪决定逮捕, cite: r09-caixin-2023-02-16-wang-dengfeng }
+    - { date: 2024-03-18, text: 德州中院以贪污罪、受贿罪数罪并罚判处有期徒刑 17 年，并处罚金 500 万元, cite: r09-xinhua-2024-03-18-wang-dengfeng }
+  tier: 2
+  headline: 教育部体卫艺司原司长、足协原副主席，本轮足坛反腐“第一枪”
+  ids: { wikidata: Q117747242 }
+  bio: >-
+    财新称他是“足球领域本轮反腐的第一枪”：正厅级，长年主管校园足球，落马时任全国青少年校园足球工作领导小组办公室主任，2014—2019 年兼任中国足协副主席；
+    他被查后，湖北督办的足球圈窝案浮出水面，李铁、刘奕、陈永亮、陈戌源相继被查。德州中院认定，2016—2022 年他侵吞、骗取公共财物 4670.13 万余元
+    （其中 180.49 万余元未遂），2006—2022 年在项目承揽、赛事承办上为他人谋利，受贿 966.469 万元。
+  positions:
+    - { title: 教育部体育卫生与艺术教育司司长, sys: gov, to: 2022-08, cite: r09-xinhua-2024-03-18-wang-dengfeng }
+    - { title: 中国足球协会副主席, sys: other, from: 2014, to: 2019, cite: r09-caixin-2023-02-16-wang-dengfeng }
+    - { title: 全国青少年校园足球工作领导小组办公室主任, sys: gov, to: 2022-08, cite: r09-caixin-2023-02-16-wang-dengfeng }
+  cites: [r09-caixin-2023-02-16-wang-dengfeng, r09-xinhua-2024-03-18-wang-dengfeng, wd-Q117747242]
+
+- id: yu-hongchen
+  name: 于洪臣
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2024 年 3 月被黄石中院以受贿罪判处有期徒刑 13 年。
+  fall:
+    - { date: 2024-03-26, text: 黄石中院以受贿罪判处有期徒刑 13 年，并处罚金 200 万元，认定受贿 2254 万余元，其中 350 万元未实际取得, cite: r09-xinhua-2024-03-26-yu-hongchen }
+  tier: 2
+  headline: 足协原副主席、党委书记，中国田径协会原主席，受贿 2254 万余元
+  ids: { wikidata: Q123329991 }
+  bio: >-
+    本轮足坛反腐中与陈戌源同日在黄石中院宣判。法院认定，2010—2023 年他先后利用国家体育总局足球运动管理中心副主任、中超联赛公司董事长、
+    中国足协副主席和党委书记、国家体育总局田径运动管理中心主任、中国田径协会副主席兼秘书长等职务，在公司经营、联赛晋级、职务竞聘等事项上
+    为人谋利，为多家俱乐部在保级、裁判判罚、球员转会等事项上谋取不正当利益，法院称这严重破坏足球领域公平竞争秩序。
+  positions:
+    - { title: 国家体育总局足球运动管理中心副主任, sys: gov, cite: r09-xinhua-2024-03-26-yu-hongchen }
+    - { title: 中超联赛有限责任公司董事长, sys: other, cite: r09-xinhua-2024-03-26-yu-hongchen }
+    - { title: 中国足球协会副主席、党委书记, sys: other, cite: r09-xinhua-2024-03-26-yu-hongchen }
+    - { title: 国家体育总局田径运动管理中心主任、中国田径协会副主席兼秘书长, sys: gov, cite: r09-xinhua-2024-03-26-yu-hongchen }
+  cites: [r09-xinhua-2024-03-26-yu-hongchen, r09-cnr-2025-07-30-football]
+
+- id: li-yuyi
+  name: 李毓毅
+  gender: m
+  born: 1954-10
+  roles: [tiger]
+  status: detained
+  statusNote: 2024 年 8 月被荆州中院以受贿罪判处有期徒刑 11 年。
+  fall:
+    - { date: 2023-04, text: 湖北省纪委监委宣布其涉嫌严重违法，接受驻国家体育总局纪检监察组和湖北省监委监察调查, cite: r09-qq-2024-08-19-li-yuyi }
+    - { date: 2024-08-19, text: 荆州中院以受贿罪判处有期徒刑 11 年，并处罚金 100 万元, cite: r09-xinhua-2024-08-19-li-yuyi }
+  tier: 2
+  headline: 上海市金山区委原书记、足协原副主席，本轮足坛反腐中被判 11 年
+  bio: >-
+    长期在上海工作，2004 年 12 月起任金山区委书记；2015 年 12 月起任中国足协副主席，后任国务院足球改革发展部际联席会议办公室常务副主任、
+    中超联赛公司董事长，2019 年足协换届后淡出。检方指控 2004—2021 年他利用金山区委副书记、区长和足协、中超公司职务，在俱乐部保级、承揽工程等事项上
+    为人谋利，收受 1200 万余元。本轮足坛反腐系列案之一。
+  positions:
+    - { title: 上海市金山区委副书记、区长, sys: gov, place: 上海, to: 2004-12, cite: r09-qq-2024-08-19-li-yuyi }
+    - { title: 中共上海市金山区委书记, sys: party, place: 上海, from: 2004-12, cite: r09-qq-2024-08-19-li-yuyi }
+    - { title: 中国足球协会副主席, sys: other, from: 2015-12, to: 2019, cite: r09-qq-2024-08-19-li-yuyi }
+    - { title: 中超联赛有限责任公司董事长, sys: other, cite: r09-qq-2024-08-19-li-yuyi }
+  cites: [r09-qq-2024-08-19-li-yuyi, r09-xinhua-2024-08-19-li-yuyi, r09-cnr-2025-07-30-football]
+
+# ───── 衡阳破坏选举案（童名谦） ─────
+- id: hu-guochu
+  name: 胡国初
+  gender: m
+  born: 1953
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2014-08-18, text: 郴州中院以玩忽职守罪判处有期徒刑 4 年，以受贿罪判处有期徒刑 3 年，数罪并罚决定执行有期徒刑 5 年 6 个月, cite: r09-hnrd-2014-08-19-hengyang }
+  tier: 2
+  headline: 衡阳市人大常委会原主任，衡阳破坏选举案中获刑 5 年半
+  ids: { wikidata: Q16906649 }
+  bio: >-
+    衡阳破坏选举案被告，与童名谦同日宣判。法院认定，他身为衡阳市人大常委会主任、市人大换届工作领导小组副组长、市十四届人大一次会议主席团常务主席，
+    明知换届选举中有贿选，却不制止、不查处、不上报，致使违法行为蔓延，情节特别严重；另收受贿赂 46000 元，承诺在选举省人大代表时给予关照。
+    他在立案前主动交代并退清赃款，有自首情节。
+  positions:
+    - { title: 衡阳市人大常委会主任、党组书记, sys: gov, place: 湖南, cite: r09-hnrd-2014-08-19-hengyang }
+  cites: [r09-hnrd-2014-08-19-hengyang, r09-people-2014-08-18-hengyang, wd-Q16906649]
+
+- id: liao-jiesheng
+  name: 廖解生
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 8 月被株洲中院数罪并罚判处有期徒刑 5 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2014-08-18, text: 株洲中院以玩忽职守罪判处有期徒刑 3 年 6 个月，以受贿罪判处有期徒刑 3 年，数罪并罚决定执行有期徒刑 5 年, cite: r09-people-2014-08-18-hengyang }
+  tier: 2
+  headline: 衡阳市人大常委会原副主任，衡阳破坏选举案中获刑 5 年
+  bio: >-
+    衡阳破坏选举案被告，2014 年 8 月 18 日与童名谦、胡国初同日宣判。新华社报道，此案除童名谦外其余 65 案 68 人由湖南检察机关立案起诉，
+    湖南高院指定 12 家法院审理；他被认定犯玩忽职守罪和受贿罪。
+  positions:
+    - { title: 衡阳市人大常委会副主任, sys: gov, place: 湖南, cite: r09-people-2014-08-18-hengyang }
+  cites: [r09-people-2014-08-18-hengyang, r09-hnrd-2014-08-19-hengyang]
+
+- id: zuo-huiling
+  name: 左慧玲
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2014-08-18, text: 郴州中院以玩忽职守罪判处有期徒刑 3 年 6 个月，以受贿罪判处有期徒刑 3 年 6 个月，数罪并罚决定执行有期徒刑 5 年 6 个月, cite: r09-people-2014-08-18-hengyang }
+  tier: 2
+  headline: 衡阳市人大常委会原副主任，衡阳破坏选举案中获刑 5 年半
+  bio: >-
+    衡阳破坏选举案被告，2014 年 8 月 18 日与童名谦、胡国初、廖解生同日宣判，被认定犯玩忽职守罪和受贿罪。湖南省纪委同时通报，
+    此案涉嫌违纪被立案调查的共 466 人。
+  positions:
+    - { title: 衡阳市人大常委会副主任, sys: gov, place: 湖南, cite: r09-people-2014-08-18-hengyang }
+  cites: [r09-people-2014-08-18-hengyang, r09-hnrd-2014-08-19-hengyang]
+
+- id: xiao-bin
+  name: 肖斌
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年以玩忽职守罪被判有期徒刑 3 年，同年 9 月湖南高院二审维持；按刑期计算已刑满。
+  fall:
+    - { date: 2014-09-25, text: 湖南高院二审裁定驳回上诉，维持以玩忽职守罪判处有期徒刑 3 年的一审判决, cite: r09-thepaper-2014-09-25-xiao-bin }
+  tier: 2
+  headline: 衡阳市委原常委、纪委书记，衡阳破坏选举案中以玩忽职守获刑 3 年
+  bio: >-
+    衡阳破坏选举案被告。二审法院认定，他作为换届选举纪律监督的直接责任人，在衡阳市十四届人大一次会议期间及会后不履行或不认真履行职责，
+    对破坏选举案的发生负有不可推卸的法律责任。此案一审 68 名被告中有 11 人上诉，二审 10 人维持原判。
+  positions:
+    - { title: 中共衡阳市委常委、纪委书记, sys: party, place: 湖南, cite: r09-thepaper-2014-09-25-xiao-bin }
+  cites: [r09-thepaper-2014-09-25-xiao-bin]
+
+# ───── 山西塌方式腐败 ─────
+- id: su-hao
+  name: 苏浩
+  gender: m
+  born: 1959
+  roles: [tiger]
+  status: detained
+  statusNote: 2018 年 1 月被常州中院以受贿罪、滥用职权罪、行贿罪数罪并罚判处有期徒刑 13 年。
+  fall:
+    - { date: 2011-11-22, text: 被免去太原市公安局局长职务，调任山西省司法厅党委委员、副厅长, cite: r09-chinanews-2015-04-14-taiyuan-police }
+    - { date: 2018-01-08, text: 常州中院以受贿罪、滥用职权罪、行贿罪数罪并罚判处有期徒刑 13 年，并处罚金 400 万元, cite: r09-cyol-2018-01-08-su-hao }
+  tier: 2
+  headline: 太原市公安局原局长、山西省司法厅原副厅长，向申维辰行贿买官
+  bio: >-
+    太原“连续三任市公安局长出问题”中的第一任，山西塌方式腐败的一部分。常州中院认定，1997—2014 年他在朔州、忻州、大同、太原公安局长任上
+    为人在工程承接、房地产开发、职务调整上谋利，收受 5600 万余元；2011 年山西焦煤集团董事长白培中家中被抢，他指使下属对赃物不清点、少报被抢数额；
+    2006—2014 年为谋太原市公安局长一职和调离司法厅到企业工作，向申维辰行贿 18 万余元。
+  positions:
+    - { title: 朔州市公安局副局长、局长, sys: gov, place: 山西, cite: r09-cyol-2018-01-08-su-hao }
+    - { title: 忻州市公安局局长, sys: gov, place: 山西, cite: r09-cyol-2018-01-08-su-hao }
+    - { title: 山西省公安厅副厅长兼大同市公安局局长, sys: gov, place: 山西, cite: r09-cyol-2018-01-08-su-hao }
+    - { title: 太原市公安局局长, sys: gov, place: 山西, to: 2011-11-22, cite: r09-chinanews-2015-04-14-taiyuan-police }
+    - { title: 山西省司法厅党委委员、副厅长, sys: gov, place: 山西, from: 2011-11, cite: r09-chinanews-2015-04-14-taiyuan-police }
+  ids: { wikidata: Q16906742 }
+  cites: [r09-cyol-2018-01-08-su-hao, r09-chinanews-2015-04-14-taiyuan-police, wd-Q16906742]
+
+- id: li-yali
+  name: 李亚力
+  gender: m
+  born: 1960-02
+  birthplace: 山西朔州
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 12 月以涉嫌受贿罪被逮捕，判决结果未见公开报道。
+  fall:
+    - { date: 2013-02-01, text: 因处理其子违章驾车、妨碍交警执行公务时滥用职权，被给予留党察看一年处分，太原市人大常委会免去其公安局长职务, cite: r09-people-2013-02-03-li-yali }
+    - { date: 2014-12-09, text: 山西省检察院以涉嫌受贿罪决定逮捕, cite: r09-thepaper-2014-12-18-li-yali }
+  tier: 2
+  headline: 山西省公安厅原副厅长兼太原市公安局长，因包庇儿子醉驾袭警落马
+  ids: { wikidata: Q16336195 }
+  bio: >-
+    太原连续三任出问题的市公安局长中的第二任，山西塌方式腐败的一部分。2013 年山西省纪委认定，他在处理其子违章驾车并妨碍交警执行公务时
+    违反规定、滥用职权，构成渎职错误，还有违反廉洁自律和组织人事纪律的问题；2014 年 12 月又以涉嫌受贿罪被捕。副厅级。
+  positions:
+    - { title: 晋城市公安局局长、党委书记, sys: gov, place: 山西, from: 2008, cite: r09-thepaper-2014-12-18-li-yali }
+    - { title: 山西省公安厅副厅长兼太原市公安局局长, sys: gov, place: 山西, from: 2011, to: 2013-02-01, cite: r09-thepaper-2014-12-18-li-yali }
+  cites: [r09-people-2013-02-03-li-yali, r09-thepaper-2014-12-18-li-yali, r09-chinanews-2015-04-14-taiyuan-police]
+
+- id: wang-maoshe
+  name: 王茂设
+  gender: m
+  born: 1957-08
+  birthplace: 山西安泽
+  roles: [tiger]
+  status: detained
+  statusNote: 2017 年 1 月被徐州中院以受贿罪判处有期徒刑 15 年。
+  fall:
+    - { date: 2017-01-06, text: 徐州中院以受贿罪判处有期徒刑 15 年，并处没收个人财产 500 万元, cite: r09-chinanews-2017-01-06-wang-maoshe }
+  tier: 2
+  headline: 运城市委原书记，山西落马的 5 名市委书记之一
+  ids: { wikidata: Q16921208 }
+  bio: >-
+    山西省纪委 2016 年通报的落马 5 名市委书记之一，其案由山西省纪委配合中央专案组查办，山西塌方式腐败的一部分；《中国经济周刊》称他由江苏检察机关立案侦查。
+    徐州中院认定，2011—2014 年他在朔州、运城市委书记任上，为人在职务晋升、工作调整、企业经营上谋利，单独或与王茂全、王茂同、王茂建、侯维共同收受
+    5235.1879 万元。
+  positions:
+    - { title: 中共朔州市委书记, sys: party, place: 山西, cite: r09-chinanews-2017-01-06-wang-maoshe }
+    - { title: 中共运城市委书记, sys: party, place: 山西, to: 2014, cite: r09-chinanews-2017-01-06-wang-maoshe }
+  cites: [r09-chinanews-2017-01-06-wang-maoshe, r09-chinanews-2016-01-26-shanxi-five, r09-ceweekly-2015-11-23-shanxi, wd-Q16921208]
+
+- id: feng-lixiang
+  name: 丰立祥
+  gender: m
+  born: 1957-08-03
+  birthplace: 山西山阴
+  joinedParty: 1976
+  roles: [tiger]
+  status: detained
+  statusNote: 维基百科称 2016 年 10 月被天津二中院判处有期徒刑 20 年；本站未找到官方判决报道。
+  fall:
+    - { date: 2014-10-15, text: 因涉嫌严重违纪接受组织调查, cite: r09-people-2015-08-07-feng-lixiang }
+    - { date: 2014-11-13, text: 因涉嫌行贿、受贿被天津市检察院立案侦查并采取强制措施, cite: r09-people-2015-08-07-feng-lixiang }
+    - { date: 2015-08-07, text: 被开除党籍和公职，涉嫌犯罪问题移送司法机关, cite: r09-people-2015-08-07-feng-lixiang }
+    - { date: 2016-10-12, text: 天津二中院以受贿罪、行贿罪、巨额财产来源不明罪判处有期徒刑 20 年，并处罚金 200 万元, cite: r09-wiki-feng-lixiang }
+  tier: 2
+  headline: 大同市委原书记，山西落马的 5 名市委书记之一
+  ids: { wikidata: Q8956144 }
+  bio: >-
+    山西省纪委 2016 年通报的落马 5 名市委书记之一，其案由山西省纪委配合中央专案组查办，山西塌方式腐败的一部分。长期在山西省委、省政府办公厅和太原市委任职，
+    1996—2006 年任太原市委秘书长、组织部长、副书记兼纪委书记，2006 年调大同任市长，2008—2014 年任大同市委书记。通报称他在干部选拔任用和企业经营上
+    为人谋利、收受贿赂，数额巨大。
+  positions:
+    - { title: 中共太原市委常委、秘书长, sys: party, place: 山西, from: 1996-11, to: 2001-08, cite: r09-people-2015-08-07-feng-lixiang }
+    - { title: 中共太原市委常委、组织部长, sys: party, place: 山西, from: 2001-08, to: 2003-03, cite: r09-people-2015-08-07-feng-lixiang }
+    - { title: 中共太原市委副书记、市纪委书记, sys: party, place: 山西, from: 2003-03, to: 2006-02, cite: r09-people-2015-08-07-feng-lixiang }
+    - { title: 中共大同市委副书记、大同市市长, sys: gov, place: 山西, from: 2006-03, to: 2008-02, cite: r09-people-2015-08-07-feng-lixiang }
+    - { title: 中共大同市委书记, sys: party, place: 山西, from: 2008-02, to: 2014-10, cite: r09-people-2015-08-07-feng-lixiang }
+  cites: [r09-people-2015-08-07-feng-lixiang, r09-wiki-feng-lixiang, r09-chinanews-2016-01-26-shanxi-five, r09-ceweekly-2015-11-23-shanxi]
+
+- id: dong-hongyun
+  name: 董洪运
+  gender: m
+  born: 1956-11
+  birthplace: 山西洪洞
+  joinedParty: 1976-06
+  joinedWork: 1982-01
+  roles: [tiger]
+  status: purged
+  statusNote: 2017 年 11 月阳泉中院判决已生效，刑期未见公开报道。
+  fall:
+    - { date: 2014-12, text: 因涉嫌严重违纪违法接受组织调查, cite: r09-thepaper-2018-dong-hongyun }
+    - { date: 2015-08, text: 被开除党籍和公职，山西省检察院以涉嫌受贿罪决定逮捕, cite: r09-thepaper-2018-dong-hongyun }
+    - { date: 2015-12, text: 阳泉市检察院以涉嫌受贿罪、巨额财产来源不明罪提起公诉, cite: r09-thepaper-2018-dong-hongyun }
+    - { date: 2017-11-01, text: 阳泉中院作出刑事判决，判决已生效，刑期未公开, cite: r09-thepaper-2018-dong-hongyun }
+  tier: 2
+  headline: 忻州市委原书记，山西落马的 5 名市委书记之一，被控受贿 4343 万元及多种外币
+  ids: { wikidata: Q16075679 }
+  bio: >-
+    山西省纪委 2016 年通报自办查处的两名市委书记之一，山西塌方式腐败的一部分。先后在洪洞、乡宁、浮山和运城任职，2006 年任吕梁市长，2009 年任忻州市委书记。
+    通报称他卖官鬻爵、插手行政审批和企业经营，十八大后仍不收手，审查期间订立攻守同盟对抗调查；检方指控他收受 4343 万元人民币、620 万港元、
+    76 万美元、20 万欧元及购物卡、金条、书画等。
+  positions:
+    - { title: 中共浮山县委书记, sys: party, place: 山西, from: 1993-05, to: 1995-11, cite: r09-people-2015-08-07-dong-hongyun }
+    - { title: 运城行署副专员, sys: gov, place: 山西, from: 1995-11, to: 2001-01, cite: r09-people-2015-08-07-dong-hongyun }
+    - { title: 运城市委常委、副市长, sys: gov, place: 山西, from: 2001-01, to: 2006-02, cite: r09-people-2015-08-07-dong-hongyun }
+    - { title: 中共吕梁市委副书记、吕梁市市长, sys: gov, place: 山西, from: 2006-02, to: 2009-04, cite: r09-people-2015-08-07-dong-hongyun }
+    - { title: 中共忻州市委书记, sys: party, place: 山西, from: 2009-04, to: 2014-12, cite: r09-people-2015-08-07-dong-hongyun }
+  cites: [r09-people-2015-08-07-dong-hongyun, r09-thepaper-2018-dong-hongyun, r09-chinanews-2016-01-26-shanxi-five]
+
+- id: hong-fake
+  name: 洪发科
+  gender: m
+  born: 1956-11
+  birthplace: 山西曲沃
+  roles: [tiger]
+  status: detained
+  statusNote: 2016 年 11 月被忻州中院以受贿罪、巨额财产来源不明罪判处有期徒刑 17 年。
+  fall:
+    - { date: 2015-07, text: 因涉嫌严重违纪违法接受组织调查, cite: r09-thepaper-2017-hong-fake }
+    - { date: 2016-02, text: 被开除党籍和公职, cite: r09-thepaper-2017-hong-fake }
+    - { date: 2016-03, text: 山西省检察院以涉嫌受贿罪决定逮捕, cite: r09-thepaper-2017-hong-fake }
+    - { date: 2016-11-03, text: 忻州中院以受贿罪、巨额财产来源不明罪判处有期徒刑 17 年, cite: r09-thepaper-2017-hong-fake }
+  tier: 2
+  headline: 阳泉市委原书记，山西落马的 5 名市委书记之一
+  ids: { wikidata: Q16076192 }
+  bio: >-
+    山西省纪委 2016 年通报自办查处的两名市委书记之一，山西塌方式腐败的一部分。北京大学地理系毕业，2012 年 1 月起任阳泉市委书记。
+    通报称他对抗组织审查、违规出入私人会所、违规选拔任用干部、长期借用私企老板车辆供家人使用，利用职务便利在企业经营上为他人谋利、收受巨额财物。
+  positions:
+    - { title: 中共阳泉市委书记, sys: party, place: 山西, from: 2012-01, to: 2015-07, cite: r09-thepaper-2017-hong-fake }
+  cites: [r09-thepaper-2017-hong-fake, r09-chinanews-2016-01-26-shanxi-five]
+
+- id: ding-xuefeng
+  name: 丁雪峰
+  gender: m
+  born: 1963
+  birthplace: 山西左云
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年初被查，后被江苏检察机关立案侦查；判决结果未见公开报道。
+  fall:
+    - { date: 2014-01, text: 被带走调查的消息传出，此后不再公开露面, cite: r09-yicai-2014-02-ding-xuefeng }
+    - { date: 2014-02-20, text: 被免去吕梁市委副书记、常委、委员职务，并被提名免去市长职务, cite: r09-yicai-2014-02-ding-xuefeng }
+  tier: 2
+  headline: 吕梁市原市长，周永康判决写明向周滨夫妇送财物的人之一
+  ids: { wikidata: Q9098109 }
+  bio: >-
+    周永康案的关联人，也是山西塌方式腐败中最早被查的官员之一。周永康的判决认定，周永康为丁雪峰等人谋取利益，周滨、贾晓晔收受丁雪峰等人财物并事后告知周永康。
+    《中国经营报》称 2012 年 1 月吕梁市长出缺时，时任副书记的他向多家企业实际控制人筹钱运作市长一职，周滨曾参与运作。他 1996 年任河曲县长，
+    2001 年到吕梁，2012 年 1 月任代市长、3 月当选市长。另据《中国经济周刊》，他由江苏检察机关立案侦查。
+  positions:
+    - { title: 中共河曲县委副书记、河曲县县长, sys: gov, place: 山西, from: 1996, cite: r09-yicai-2014-02-ding-xuefeng }
+    - { title: 吕梁市常务副市长、市委副书记, sys: gov, place: 山西, from: 2001, to: 2012-01, cite: r09-yicai-2014-02-ding-xuefeng }
+    - { title: 吕梁市市长, sys: gov, place: 山西, from: 2012-01-09, to: 2014-02-20, cite: r09-yicai-2014-02-ding-xuefeng }
+  cites: [r09-yicai-2014-02-ding-xuefeng, e03-xinhua-2015-06-11-zhou-verdict, r09-ceweekly-2015-11-23-shanxi]
+
+# ───── 李春城的成都班底（周永康案） ─────
+- id: sun-ping
+  name: 孙平
+  gender: m
+  born: 1957-08
+  birthplace: 四川彭州
+  roles: [tiger]
+  status: purged
+  statusNote: 2015 年 12 月与其妻赖邦蕙一同被以涉嫌受贿罪提起公诉，判决结果未见本站来源。
+  fall:
+    - { date: 2014-08-22, text: 四川省纪委通报其涉嫌严重违纪违法，接受组织调查, cite: r09-chinanews-2015-01-17-sun-ping }
+    - { date: 2014-12-31, text: 四川省纪委将其移送司法机关, cite: r09-chinanews-2015-01-17-sun-ping }
+    - { date: 2015-01, text: 四川省检察院以涉嫌受贿罪决定逮捕，其妻赖邦蕙同时被捕, cite: r09-chinanews-2015-01-17-sun-ping }
+    - { date: 2015-12-22, text: 绵阳市检察院以涉嫌受贿罪向绵阳中院提起公诉, cite: r09-scjcy-2016-01-14-sun-ping }
+  tier: 2
+  headline: 成都市委原常委、常务副市长，李春城时期成都班底中落马的一员
+  ids: { wikidata: Q20687874 }
+  bio: >-
+    第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一，属周永康案牵出的四川官场清洗。经济学博士，在西南财经大学任教 12 年后
+    1998 年到成都任职，历任市计委副主任、市长助理、副市长，2005—2007 年任攀枝花市长，2007 年回成都任市委常委、常务副市长。正厅级。
+  positions:
+    - { title: 成都市计划委员会副主任、市长助理、副市长, sys: gov, place: 四川, from: 1998, to: 2005, cite: r09-chinanews-2015-01-17-sun-ping }
+    - { title: 中共攀枝花市委副书记、攀枝花市市长, sys: gov, place: 四川, from: 2005, to: 2007, cite: r09-chinanews-2015-01-17-sun-ping }
+    - { title: 中共成都市委常委、成都市常务副市长, sys: gov, place: 四川, from: 2007-01, to: 2014-08, cite: r09-chinanews-2015-01-17-sun-ping }
+  cites: [r09-chinanews-2015-01-17-sun-ping, r09-scjcy-2016-01-14-sun-ping, r09-yicai-2014-10-chengdu]
+
+- id: he-huazhang
+  name: 何华章
+  gender: m
+  born: 1964
+  birthplace: 四川成都
+  roles: [tiger]
+  status: purged
+  statusNote: 2016 年 12 月被乐山中院判处有期徒刑 8 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2014-03, text: 四川省纪委宣布其涉嫌严重违纪，接受组织调查, cite: r09-thepaper-2017-02-he-huazhang }
+    - { date: 2014-09-28, text: 乐山市检察院经指定管辖立案侦查，四川省检察院决定逮捕, cite: r09-yicai-2014-10-chengdu }
+    - { date: 2016-12-19, text: 乐山中院以受贿罪、非国家工作人员受贿罪判处有期徒刑 8 年 6 个月, cite: r09-thepaper-2017-02-he-huazhang }
+  tier: 2
+  headline: 遂宁市原市长、成都市委原宣传部长，《成都商报》创办人
+  ids: { wikidata: Q10886057 }
+  bio: >-
+    第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一，属周永康案牵出的四川官场清洗。他创办《成都商报》，发起“博瑞传播”上市，
+    一度被称为中国身价最高的报人。判决认定，2002—2013 年他在成都市委宣传部长、副市长、市委秘书长和遂宁市长任上，在土地拆迁、项目承办等方面
+    为人谋利，收受 15 人财物折合 820.2076 万元；2013 年左右他告诉商人林某不再要小贷公司的股份，2014 年 6 月林某把准备给他的 1000 万元交给了四川省纪委。
+  positions:
+    - { title: 中共成都市委宣传部部长, sys: party, place: 四川, from: 2002-12, cite: r09-thepaper-2017-02-he-huazhang }
+    - { title: 成都市副市长、中共成都市委常委、秘书长, sys: party, place: 四川, cite: r09-thepaper-2017-02-he-huazhang }
+    - { title: 中共遂宁市委副书记、遂宁市市长, sys: gov, place: 四川, to: 2014-03, cite: r09-thepaper-2017-02-he-huazhang }
+  cites: [r09-thepaper-2017-02-he-huazhang, r09-yicai-2014-10-chengdu, wd-Q10886057]
+
+- id: deng-quanzhong
+  name: 邓全忠
+  gender: m
+  born: 1962-03
+  birthplace: 四川绵阳
+  roles: [tiger]
+  status: detained
+  statusNote: 2016 年 12 月被攀枝花中院以受贿罪判处无期徒刑。
+  fall:
+    - { date: 2016-12-30, text: 攀枝花中院以受贿罪判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产, cite: r09-xinhua-2016-12-30-deng-quanzhong }
+  tier: 2
+  headline: 资阳市原市长、成都市委原秘书长，受贿 7124 万余元被判无期
+  ids: { wikidata: Q16907382 }
+  bio: >-
+    第一财经把他列为李春城任成都市委书记时期被查的 3 名市委常委之一，属周永康案牵出的四川官场清洗。攀枝花中院认定，2005—2014 年他在成都市副市长、
+    市委秘书长和资阳市委副书记、市长任上，在土地整理、房地产开发、工程建设、拆迁安置等方面为人谋利，收受 7124.49754 万元，其中十八大后仍 9 次收受
+    584 万余元。
+  positions:
+    - { title: 成都市副市长, sys: gov, place: 四川, cite: r09-xinhua-2016-12-30-deng-quanzhong }
+    - { title: 中共成都市委常委、秘书长, sys: party, place: 四川, cite: r09-yicai-2014-10-chengdu }
+    - { title: 中共资阳市委副书记、资阳市市长, sys: gov, place: 四川, to: 2014, cite: r09-xinhua-2016-12-30-deng-quanzhong }
+  cites: [r09-xinhua-2016-12-30-deng-quanzhong, r09-yicai-2014-10-chengdu, wd-Q16907382]
+
+- id: liu-junlin
+  name: 刘俊林
+  gender: m
+  born: 1961
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年被查，后续处理未见本站来源。
+  fall:
+    - { date: 2014-10, text: 第一财经报道其已被查，是被查的第二名成都市市长助理, cite: r09-yicai-2014-10-chengdu }
+  tier: 2
+  headline: 都江堰市委原书记、成都市市长助理，被认为深得李春城赏识
+  bio: >-
+    长期在财政系统工作，曾任成都市财政局副局长，2003 年调都江堰，历任市长、市委书记，汶川地震后兼任成都市市长助理；2013 年 10 月改任成都市委
+    财经领导小组办公室主任。第一财经称都江堰是李春城统筹城乡改革的样板，他在灾后重建中做法多有突破，因此被认为深得李春城赏识；
+    他是李春城时期被查的两名市长助理之一，属周永康案牵出的四川官场清洗。
+  positions:
+    - { title: 成都市财政局副局长, sys: gov, place: 四川, to: 2003, cite: r09-yicai-2014-10-chengdu }
+    - { title: 都江堰市市长、市委书记, sys: party, place: 四川, from: 2003, to: 2013-10, cite: r09-yicai-2014-10-chengdu }
+    - { title: 中共成都市委财经领导小组办公室主任兼成都市市长助理, sys: party, place: 四川, from: 2013-10, cite: r09-yicai-2014-10-chengdu }
+  cites: [r09-yicai-2014-10-chengdu]
+
+- id: chen-zhengming
+  name: 陈争鸣
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 2014 年 8 月接受组织调查，后续处理未见本站来源。
+  fall:
+    - { date: 2014-08, text: 涉嫌严重违纪违法接受组织调查, cite: r09-yicai-2014-10-chengdu }
+  tier: 2
+  headline: 成都市原市长助理、龙泉驿区委原书记，李春城时期成都班底中落马的一员
+  bio: >-
+    第一财经把他列为李春城任成都市委书记时期被查的两名成都市市长助理之一（另一人为刘俊林），属周永康案牵出的四川官场清洗。被查时任成都市市长助理、
+    龙泉驿区委书记。
+  positions:
+    - { title: 成都市市长助理、中共龙泉驿区委书记, sys: party, place: 四川, to: 2014-08, cite: r09-yicai-2014-10-chengdu }
+  cites: [r09-yicai-2014-10-chengdu]
+
+# ───── 苏荣案 ─────
+- id: wang-ping-jx
+  name: 王平
+  gender: m
+  born: 1956-12
+  birthplace: 湖南长沙
+  joinedParty: 1983-01
+  joinedWork: 1976-01
+  roles: [tiger]
+  status: purged
+  statusNote: 2018 年前已因受贿罪被判刑，刑期未公开。
+  fall:
+    - { date: 2014-11-28, text: 因卷入苏荣案被有关部门带走调查, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { date: 2016-08, text: 景德镇市检察院以涉嫌行贿罪、受贿罪向景德镇中院提起公诉, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { date: 2018-08, text: 裁判文书显示其已因受贿罪被判处刑罚，刑期未公开, cite: r09-thepaper-2018-08-10-wang-ping }
+  tier: 2
+  headline: 江西省地税局原局长、赣州市原市长，送苏荣之妻上百万元
+  bio: >-
+    苏荣案涉案人员。中纪委专题片《永远在路上》披露，他为获得苏荣提携，送给苏荣之妻于丽芳上百万元现金，自己作为地税局一把手也收下属的钱；
+    2016 年江西省纪委把他列为涉苏荣案的厅级干部之一。裁判文书显示，两名商人为承揽工程共向他行贿 340 余万元，他帮二人中标地税局 1.7 亿余元土建工程。
+    正厅级。
+  positions:
+    - { title: 江西省发展和改革委员会副主任兼省物价局局长, sys: gov, place: 江西, from: 2003-05, to: 2006-11, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共新余市委副书记、新余市市长, sys: gov, place: 江西, from: 2006-12, to: 2008-03, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共赣州市委副书记、赣州市市长, sys: gov, place: 江西, from: 2008-03, to: 2011-08, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 江西省地方税务局党组书记、局长, sys: gov, place: 江西, from: 2011-08, to: 2014-12, cite: r09-thepaper-2016-08-03-wang-cong }
+  cites: [r09-thepaper-2016-08-03-wang-cong, r09-thepaper-2018-08-10-wang-ping, r09-jfdaily-2018-09-11-su-rong-43, r09-thepaper-2017-02-leng-xinsheng]
+
+- id: cong-wenjing
+  name: 丛文景
+  gender: m
+  born: 1962-12
+  birthplace: 安徽凤台
+  joinedWork: 1983-08
+  roles: [tiger]
+  status: purged
+  statusNote: 2016 年 8 月被以涉嫌行贿罪、受贿罪提起公诉，判决结果未见本站来源。
+  fall:
+    - { date: 2014-11-28, text: 与王平同日被有关部门带走调查, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { date: 2016-08, text: 抚州市检察院以涉嫌行贿罪、受贿罪向抚州中院提起公诉, cite: r09-thepaper-2016-08-03-wang-cong }
+  tier: 2
+  headline: 新余市原市长，被曝是苏荣之妻于丽芳的“文友”
+  ids: { wikidata: Q18583910 }
+  bio: >-
+    苏荣案涉案人员，上观新闻列为被曝涉苏荣案的 5 名官员之一。他被曝是苏荣之妻于丽芳的“文友”，曾在饭局上说周末还和“于姐”一起吃饭。
+    历任景德镇副市长，2004 年起在新余任市委宣传部长、政法委书记、市委副书记，2006 年起与王平共事，2013 年 9 月当选新余市长。正厅级。
+  positions:
+    - { title: 景德镇市人民政府副市长, sys: gov, place: 江西, from: 2001-07, to: 2004-06, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共新余市委常委、宣传部部长, sys: party, place: 江西, from: 2004-06, to: 2006-11, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共新余市委常委、政法委书记, sys: party, place: 江西, from: 2006-11, to: 2010-07, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共新余市委副书记, sys: party, place: 江西, from: 2010-07, to: 2013-09, cite: r09-thepaper-2016-08-03-wang-cong }
+    - { title: 中共新余市委副书记、新余市市长, sys: gov, place: 江西, from: 2013-09, to: 2014-11, cite: r09-thepaper-2016-08-03-wang-cong }
+  cites: [r09-thepaper-2016-08-03-wang-cong, r09-jfdaily-2018-09-11-su-rong-43]
+
+- id: wang-yong-jx
+  name: 王詠
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 已因受贿罪被判有期徒刑 9 年 6 个月（上观新闻），宣判日期未见本站来源。
+  fall:
+    - { date: 2018-09, text: 上观新闻报道其此前已因受贿罪被判处有期徒刑 9 年 6 个月, cite: r09-jfdaily-2018-09-11-su-rong-43 }
+  tier: 2
+  headline: 江西省质监局原局长，涉苏荣案被判 9 年半
+  bio: >-
+    苏荣案涉案人员，上观新闻列为被曝涉苏荣案的 5 名官员之一，已因受贿罪获刑 9 年 6 个月。其问题通报称他“为谋求职务上的重用，向他人行贿”。
+  positions:
+    - { title: 江西省质量技术监督局党组书记、局长, sys: gov, place: 江西, cite: r09-jfdaily-2018-09-11-su-rong-43 }
+  cites: [r09-jfdaily-2018-09-11-su-rong-43]
+
+- id: leng-xinsheng
+  name: 冷新生
+  gender: m
+  born: 1964-10
+  birthplace: 江西奉新
+  joinedParty: 1985-01
+  joinedWork: 1986-07
+  roles: [tiger]
+  status: purged
+  statusNote: 2018 年 5 月被鹰潭中院以受贿罪判处有期徒刑 6 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2017-02-20, text: 江西省纪委宣布其涉嫌严重违纪，接受组织调查, cite: r09-fzb-2018-05-10-leng-xinsheng }
+    - { date: 2018-05-10, text: 鹰潭中院以受贿罪判处有期徒刑 6 年，并处罚金 50 万元, cite: r09-fzb-2018-05-10-leng-xinsheng }
+  tier: 2
+  headline: 赣州市原市长、江西省工信委原党组书记，苏荣遗案
+  ids: { wikidata: Q10895581 }
+  bio: >-
+    澎湃新闻称他被查是苏荣的遗案，上观新闻也把他列为被曝涉苏荣案的官员之一；他的前任赣州市长王平同样落马。2002 年任丰城市长，
+    2005 年任丰城市委书记，2006 年兼宜春市委常委，2011—2016 年任赣州市长，2016 年 10 月转任江西省工信委党组书记，5 个月后落马。
+    法院认定 2002—2017 年他收受 904.588889 万元和 3 万美元；他揭发他人犯罪，有立功表现。
+  positions:
+    - { title: 丰城市委副书记、丰城市市长, sys: gov, place: 江西, from: 2002-03, to: 2005-06, cite: r09-thepaper-2017-02-leng-xinsheng }
+    - { title: 中共丰城市委书记（2006 年起兼宜春市委常委）, sys: party, place: 江西, from: 2005-06, to: 2011-08, cite: r09-thepaper-2017-02-leng-xinsheng }
+    - { title: 中共赣州市委副书记、赣州市市长, sys: gov, place: 江西, from: 2011-08, to: 2016-09, cite: r09-thepaper-2017-02-leng-xinsheng }
+    - { title: 江西省工业和信息化委员会党组书记, sys: gov, place: 江西, from: 2016-10, cite: r09-fzb-2018-05-10-leng-xinsheng }
+  cites: [r09-fzb-2018-05-10-leng-xinsheng, r09-thepaper-2017-02-leng-xinsheng, r09-jfdaily-2018-09-11-su-rong-43]
+
+- id: cheng-danfeng
+  name: 程丹峰
+  gender: m
+  born: 1970
+  roles: [tiger, family]
+  status: purged
+  statusNote: 2017 年初以利用影响力受贿罪被判有期徒刑 8 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2017, text: 以利用影响力受贿罪被判处有期徒刑 8 年，并处罚金 150 万元, cite: r09-jfdaily-2018-09-11-su-rong-43 }
+  tier: 2
+  headline: 苏荣女婿、张家界市原副市长，借岳父职权受贿近千万元
+  ids: { wikidata: Q28415925 }
+  bio: >-
+    苏荣的女婿。判决书显示，他利用苏荣任江西省委书记的职权或地位形成的便利条件，通过其他国家工作人员职务上的行为为廖某某等 3 人谋取不正当利益，
+    收受财物折合 947.6 万元和港币 10 万元；苏荣落马后，他向行贿人打招呼称“贿款是借款”。
+  positions:
+    - { title: 张家界市副市长, sys: gov, place: 湖南, cite: r09-jfdaily-2018-09-11-su-rong-43 }
+  cites: [r09-jfdaily-2018-09-11-su-rong-43, wd-Q28415925]
+
+# ───── 刘志军与铁道部系列案 ─────
+- id: zhang-shuguang-rail
+  name: 张曙光
+  gender: m
+  born: 1956-12-25
+  birthplace: 江苏溧阳
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年 10 月被北京二中院以受贿罪判处死刑缓期两年执行。
+  fall:
+    - { date: 2011, text: 刘志军被宣布接受调查后不到一个月，因涉嫌严重违纪违法被停职调查, cite: r09-ccdi-2018-10-31-railway }
+    - { date: 2014-10-17, text: 北京二中院以受贿罪判处死刑缓期两年执行，剥夺政治权利终身，并处没收个人全部财产, cite: r09-court-2014-10-18-zhang-shuguang }
+  tier: 2
+  headline: 原铁道部运输局局长、副总工程师，刘志军案牵出的第一人
+  ids: { wikidata: Q6979340 }
+  bio: >-
+    中央纪委网站称刘志军案发后牵出铁路系统一连串腐败案，他在刘志军被查后不到一个月即被停职调查。法院认定，2000—2011 年他在铁道部运输局装备部客车处处长、
+    装备部副主任、运输局局长任上，为广州中车轨道交通装备公司等 14 家单位在蓝箭列车使用、配件销售、工程中标等事项上谋利，直接或通过情妇罗菲
+    收受款物 4700 余万元，归案后主动交代了办案机关不掌握的大部分受贿事实。
+  positions:
+    - { title: 铁道部运输局装备部客车处处长、装备部副主任, sys: gov, cite: r09-court-2014-10-18-zhang-shuguang }
+    - { title: 铁道部副总工程师、运输局局长, sys: gov, to: 2011, cite: r09-court-2014-10-18-zhang-shuguang }
+  cites: [r09-court-2014-10-18-zhang-shuguang, r09-people-2014-10-17-zhang-shuguang, r09-ccdi-2018-10-31-railway]
+
+- id: su-shunhu
+  name: 苏顺虎
+  gender: m
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年 10 月被北京二中院以受贿罪判处无期徒刑。
+  fall:
+    - { date: 2014-10-17, text: 北京二中院以受贿罪判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产, cite: r09-court-2014-10-18-su-shunhu }
+  tier: 2
+  headline: 原铁道部运输局副局长兼营运部主任，受贿 2400 余万元被判无期
+  bio: >-
+    中央纪委网站列出的刘志军案后铁路系统被查处的干部之一。法院认定，2003—2011 年他在铁道部运输局营运部货运营销计划处处长、营运部副主任、
+    运输局副局长兼营运部主任任上，接受曲沃县闽光焦化公司等三家公司负责人请托，收受款物 2400 余万元。闽光焦化也是闻清良受贿案中的行贿单位。
+  positions:
+    - { title: 铁道部运输局营运部货运营销计划处处长、营运部副主任, sys: gov, cite: r09-court-2014-10-18-su-shunhu }
+    - { title: 铁道部运输局副局长兼营运部主任, sys: gov, to: 2011, cite: r09-court-2014-10-18-su-shunhu }
+  cites: [r09-court-2014-10-18-su-shunhu, r09-ccdi-2018-10-31-railway, r09-thepaper-2014-08-20-wen-qingliang]
+
+- id: wen-qingliang
+  name: 闻清良
+  gender: m
+  born: 1959
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年 8 月被北京二中院以受贿罪判处死刑缓期两年执行。
+  fall:
+    - { date: 2014-08-20, text: 北京二中院以受贿罪判处死刑缓期两年执行，剥夺政治权利终身，并处没收个人全部财产, cite: r09-thepaper-2014-08-20-wen-qingliang }
+  tier: 2
+  headline: 昆明铁路局原局长，与情妇钟华共同受贿 2000 余万元被判死缓
+  ids: { wikidata: Q47671039 }
+  bio: >-
+    中央纪委网站列出的刘志军案后铁路系统被查处的干部之一。法院认定，2005—2011 年他单独或伙同情妇、太原理工大学校长办公室原副主任钟华，
+    利用太原铁路局总调度长、运输处处长、副局长的职务便利，为曲沃县闽光焦化等 6 家煤焦企业解决铁路运输计划，收受款物 2000 余万元；钟华同日以受贿罪
+    被判 15 年。
+  positions:
+    - { title: 太原铁路局总调度长、运输处处长、副局长, sys: gov, place: 山西, cite: r09-thepaper-2014-08-20-wen-qingliang }
+    - { title: 昆明铁路局局长, sys: gov, place: 云南, to: 2011, cite: r09-thepaper-2014-08-20-wen-qingliang }
+  cites: [r09-thepaper-2014-08-20-wen-qingliang, r09-ccdi-2018-10-31-railway, wd-Q47671039]
+
+- id: lin-fenqiang
+  name: 林奋强
+  gender: m
+  born: 1962
+  birthplace: 福建福州
+  roles: [tiger]
+  status: detained
+  statusNote: 2014 年第一财经报道其已以受贿罪被判处死刑缓期执行。
+  fall:
+    - { date: 2011-06, text: 赴京参加铁道部会议时被中纪委带走调查, cite: r09-yicai-2014-lin-fenqiang }
+    - { date: 2014, text: 以受贿罪被判处死刑缓期执行, cite: r09-yicai-2014-lin-fenqiang }
+  tier: 2
+  headline: 呼和浩特铁路局原局长，按刘志军授意为丁书苗安排车皮
+  bio: >-
+    刘志军案牵出的铁路系统官员。第一财经称，原铁道部部长刘志军是他的老上级、对他有知遇之恩；2007 年他主政呼和浩特铁路局后，在刘志军授意下
+    多次为刘志军的主要行贿人丁羽心（丁书苗）及其亲属安排车皮计划。他被认为是“技术型”人才，受贿多通过其兄和亲属，合计超过 7000 万元。
+    第十一届全国人大代表，正厅局级。
+  positions:
+    - { title: 呼和浩特铁路局局长, sys: gov, place: 内蒙古, from: 2007, to: 2011-06, cite: r09-yicai-2014-lin-fenqiang }
+  cites: [r09-yicai-2014-lin-fenqiang, r09-ccdi-2018-10-31-railway]
+
+# ───── 刘铁男与国家能源局 ─────
+- id: hao-weiping
+  name: 郝卫平
+  gender: m
+  roles: [tiger]
+  status: purged
+  statusNote: 2016 年 10 月被北京一中院以受贿罪判处有期徒刑 12 年 6 个月；按刑期计算约在 2026 年刑满，未见公开报道。
+  fall:
+    - { date: 2014-04-15, text: 被带走调查, cite: r09-people-2018-09-21-nea }
+    - { date: 2016-10-19, text: 北京一中院以受贿罪判处有期徒刑 12 年 6 个月，并处罚金 400 万元, cite: r09-people-2018-09-21-nea }
+  tier: 2
+  headline: 国家能源局核电司原司长，“核电一哥”，刘铁男案后被查
+  bio: >-
+    刘铁男 2013 年 5 月被查后一年多内，曹长庆、许永盛等多名发改委和能源局干部被立案查办，其中包括他。他主管全国电力项目审批，被称为“核电一哥”。检方指控 2004—2012 年
+    他在国家发改委能源局电力处长、国家能源局电力司副司长任上，为三吉利能源、华电、大唐等在电力项目审批中谋利，单独或伙同妻子收受 1240 余万元；
+    他在庭上翻供只认 98 万元，法院未采信。他检举揭发了国家能源局原副局长许永盛等人，被认定立功。
+  positions:
+    - { title: 国家发展和改革委员会能源局电力处处长, sys: gov, from: 2004, to: 2008, cite: r09-people-2016-10-19-hao-weiping }
+    - { title: 国家能源局电力司副司长, sys: gov, from: 2008, to: 2012-12, cite: r09-people-2016-10-19-hao-weiping }
+    - { title: 国家能源局核电司司长, sys: gov, from: 2012-12, to: 2014, cite: r09-people-2016-10-19-hao-weiping }
+  cites: [r09-people-2016-10-19-hao-weiping, r09-people-2018-09-21-nea, c03-chinacourt-2014-12-10-liu-tienan-verdict]
+
+# ───── 仇和与昆明 ─────
+- id: xie-xinsong
+  name: 谢新松
+  gender: m
+  born: 1972-09-01
+  birthplace: 江苏沭阳
+  roles: [tiger]
+  status: purged
+  statusNote: 2016 年 12 月被昆明中院以受贿罪判处有期徒刑 10 年；按刑期计算或已刑满，未见公开报道。
+  fall:
+    - { date: 2016-12, text: 昆明中院以受贿罪判处有期徒刑 10 年，并处罚金 100 万元, cite: r09-chinanews-2016-12-30-xie-xinsong }
+  tier: 2
+  headline: 昆明市委原常委、副市长，仇和的“大内总管”
+  ids: { wikidata: Q19825394 }
+  bio: >-
+    仇和的旧部，被称为仇和的“大内总管”。据中新网，他 1972 年 9 月 1 日生于沭阳农村；另说 1971 年 8 月生（Wikidata）。1998 年仇和任沭阳县委书记时他调任县委办公室副主任，受仇和赏识；仇和 2007 年底调任昆明市委书记后，
+    他 2008 年 2 月从宿迁借调昆明任市委副秘书长、办公厅主任，后入常委任宣传部长、副市长。昆明中院认定他三次收受商人刘卫高近 600 万元，
+    以私生子名义取得螺蛳湾商铺；他曾分两次给仇和送了 7 万元。他称曾举报仇和，法院查证后认定并无其事。
+  positions:
+    - { title: 沭阳县委办公室副主任兼研究室主任, sys: party, place: 江苏, from: 1998-05, cite: r09-chinanews-2016-12-30-xie-xinsong }
+    - { title: 宿迁市宿城区委副书记、区长, sys: gov, place: 江苏, from: 2005-12, to: 2008-02, cite: r09-chinanews-2016-12-30-xie-xinsong }
+    - { title: 中共昆明市委副秘书长、办公厅主任, sys: party, place: 云南, from: 2008-02, cite: r09-chinanews-2016-12-30-xie-xinsong }
+    - { title: 中共昆明市委常委、宣传部部长, sys: party, place: 云南, cite: r09-chinanews-2016-12-30-xie-xinsong }
+    - { title: 中共昆明市委常委、昆明市副市长, sys: gov, place: 云南, from: 2014-06, to: 2015-03, cite: r09-chinanews-2016-12-30-xie-xinsong }
+  cites: [r09-chinanews-2016-12-30-xie-xinsong, wd-Q19825394]

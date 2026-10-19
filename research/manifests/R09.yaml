@@ -1,0 +1,482 @@
+# R09 sources: bureau-level falls linked to existing cases and factions
+web:
+  # ───── 上海社保案 ─────
+  - id: r09-chinanews-2007-09-26-pension-verdicts
+    title: 上海社保系列案：祝均一、秦裕、孙路一等人获刑
+    publisher: 中国新闻网
+    date: 2007-09-26
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2007/09-26/1036758.shtml
+    start: 中新社上海九月二十六日电
+    end: 和一千万元。
+  - id: r09-ce-2007-09-24-pension-verdicts
+    title: 上海社保案陆续判决 司法进程加速
+    publisher: 中国经济网（来源：财经）
+    date: 2007-09-24
+    voice: zh
+    url: https://finance.ce.cn/insurance/scroll-news/200709/24/t20070924_12629674.shtml
+    excerpt: true
+    keep:
+      - 9月23日上午，上海社保系列案六名涉案人员
+      - 副总裁韩国璋，被认定受贿600余万元
+      - 原上海市劳动和社会保障局局长祝均一，被认定三项罪名成立
+      - 自2006年7月祝均一受查拉开上海社保案序幕
+  - id: r09-caixin-2008-03-20-wang-chengming
+    title: 上海电气原董事长王成明终审被判死缓
+    publisher: 财新网
+    date: 2008-03-20
+    voice: zh
+    url: https://china.caixin.com/2008-03-20/100058715.html
+    excerpt: true
+    keep:
+      - 上海电气（集团）总公司原董事长王成明等人的上诉请求终被驳回
+      - 3月20日上午，吉林省高级人民法院
+      - 2007年12月20日，王成明因共同贪污3亿元罪名成立
+      - 现年59岁的王成明历任
+      - 据了解，此案其实与“上海社保案”无直接关系
+  # ───── 足坛反腐 ─────
+  - id: r09-chinanews-2012-02-18-yang-yimin
+    title: 足坛反赌案一审落幕 足协高官四大黑哨领刑
+    publisher: 中国新闻网
+    date: 2012-02-18
+    voice: official
+    url: https://www.chinanews.com.cn/ty/2012/02-18/3679299.shtml
+    start: 中新网2月18日电 截至今日下午
+    end: 其所在的部门职能涉及到联赛、技术等各个领域。
+  - id: r09-chinanews-2012-06-13-football
+    title: 涉足球系列案件宣判 谢亚龙南勇均被判刑10年半
+    publisher: 中国新闻网（来源：新华网）
+    date: 2012-06-13
+    voice: official
+    url: https://www.chinanews.com.cn/ty/2012/06-13/3959978.shtml
+    start: 辽宁丹东、铁岭、鞍山、沈阳四地中级人民法院13日
+    end: 上缴国库，不足部分继续追缴。
+  - id: r09-caixin-2023-02-16-wang-dengfeng
+    title: 教育部体卫艺司原司长王登峰被批捕
+    publisher: 财新网
+    date: 2023-02-16
+    voice: zh
+    url: https://china.caixin.com/2023-02-16/101998852.html
+    excerpt: true
+    keep:
+      - 【财新网】最高人民检察院2月16日披露
+      - 作为足球领域本轮反腐的第一枪
+  - id: r09-xinhua-2024-03-18-wang-dengfeng
+    title: 教育部体育卫生与艺术教育司原司长王登峰贪污、受贿案一审宣判
+    publisher: 新华网
+    date: 2024-03-18
+    voice: official
+    url: http://www.news.cn/20240318/aec7cb3217514323a30620d5eb33f240/c.html
+    start: 新华社济南3月18日电
+    end: 法院遂依法作出上述判决。
+  - id: r09-xinhua-2024-03-26-yu-hongchen
+    title: 中国田径协会原主席于洪臣一审被判有期徒刑13年
+    publisher: 新华网
+    date: 2024-03-26
+    voice: official
+    url: http://www.news.cn/20240326/a078b72cc5d0449e81f1da40b6dca8f5/c.html
+    start: 新华社武汉3月26日电 2024年3月26日上午
+    end: 法庭遂作出上述判决。
+  - id: r09-xinhua-2024-08-19-li-yuyi
+    title: 李毓毅受贿案一审宣判
+    publisher: 新华网
+    date: 2024-08-19
+    voice: official
+    url: http://www.news.cn/20240819/c780b426b3e14b30b54af62ac5123685/c.html
+    start: 新华社武汉8月19日电
+    end: 上缴国库。
+  - id: r09-qq-2024-08-19-li-yuyi
+    title: 中国足协原副主席李毓毅、武汉市足球运动管理中心原主任付翔同日被判
+    publisher: 界面新闻（腾讯新闻转载）
+    date: 2024-08-19
+    voice: zh
+    url: https://news.qq.com/rain/a/20240819A03RFC00
+    excerpt: true
+    keep:
+      - 荆州市人民检察院指控：2004年至2021年
+      - 公开简历显示，李毓毅1954年10月生
+      - 2019年足代会中国足协完成大换届后
+  - id: r09-cnr-2025-07-30-football
+    title: 又有2人被宣判 足球系列贪腐案已有18人获刑
+    publisher: 央广网（来源：央视新闻客户端）
+    date: 2025-07-30
+    voice: official
+    url: http://news.cnr.cn/native/gd/kx/20250730/t20250730_527290797.shtml
+    start: 近年来，公众对足球领域披露的违法案例高度关注
+    end: 风清气正的良好环境。
+  # ───── 衡阳破坏选举案 ─────
+  - id: r09-people-2014-08-18-hengyang
+    title: 湖南衡阳破坏选举案一审宣判
+    publisher: 人民网（新华社）
+    date: 2014-08-18
+    voice: official
+    url: http://politics.people.com.cn/n/2014/0818/c1001-25489553.html
+    start: 新华网北京８月１８日电
+    end: 违纪人员已经处理到位。
+  - id: r09-hnrd-2014-08-19-hengyang
+    title: 衡阳破坏选举案一审宣判
+    publisher: 湖南人大网（湖南日报）
+    date: 2014-08-19
+    voice: official
+    url: https://www.hnrd.gov.cn/content/2014/08/19/7263375.html
+    start: 湖南省郴州市中级人民法院对衡阳市人大常委会原主任胡国初
+    end: 依法分别判处了有期徒刑、拘役或者剥夺政治权利等刑罚。
+  - id: r09-thepaper-2014-09-25-xiao-bin
+    title: 衡阳破坏选举案二审宣判：10人维持原判，1人因立功改判
+    publisher: 澎湃新闻（新华社）
+    date: 2014-09-25
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1268682
+    excerpt: true
+    keep:
+      - 9月25日，湖南省高级人民法院对中共衡阳市委原常委
+      - 二审法院经审理认为：上诉人肖斌
+  # ───── 山西 ─────
+  - id: r09-chinanews-2015-04-14-taiyuan-police
+    title: 太原公安系统正风肃纪重塑形象 此前三任局长出问题
+    publisher: 中国新闻网
+    date: 2015-04-14
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2015/04-14/7206424.shtml
+    start: 中新网4月14日电
+    end: 决定免去柳遂记的太原市公安局局长的职务。
+  - id: r09-people-2013-02-03-li-yali
+    title: 李亚力被免去太原市公安局局长职务
+    publisher: 人民网（新华社）
+    date: 2013-02-03
+    voice: official
+    url: http://politics.people.com.cn/n/2013/0203/c41223-20415062.html
+    start: 新华社太原２月２日电
+    end: 按干部管理权限由太原市有关部门作出处理。
+  - id: r09-thepaper-2014-12-18-li-yali
+    title: 山西太原原公安局长李亚力被捕，儿子醉驾打交警致其“暴露”
+    publisher: 澎湃新闻（人民日报客户端）
+    date: 2014-12-18
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1286809
+    excerpt: true
+    keep:
+      - 2014年12月9日，山西省人民检察院依法决定
+      - 李亚力在任山西省公安厅副厅长、太原市公安局长期间
+      - 李亚力，男，汉族，1960年2月出生
+      - 2008年，任山西晋城市公安局局长
+      - 2011年，任山西省公安厅副厅长兼太原市公安局局长
+  - id: r09-cyol-2018-01-08-su-hao
+    title: 山西省司法厅原副厅长苏浩一审获刑13年 曾向申维辰行贿18万余元
+    publisher: 中青在线
+    date: 2018-01-08
+    voice: zh
+    url: http://news.cyol.com/yuanchuang/2018-01/08/content_16850595.htm
+    excerpt: true
+    keep:
+      - 江苏省常州市中级人民法院今天公开宣判
+      - 经审理查明，1997年至2014年，被告人苏浩
+      - 法院还查明，2011年11月
+      - 常州市中级人民法院认为，被告人苏浩
+  - id: r09-chinanews-2016-01-26-shanxi-five
+    title: 山西反腐严惩一把手腐败：5市委书记12县委书记落马
+    publisher: 中国新闻网
+    date: 2016-01-26
+    voice: official
+    url: https://www.chinanews.com/gn/2016/01-26/7734362.shtml
+    start: 中新社太原1月26日电
+    end: 移送司法机关767人。
+  - id: r09-chinanews-2017-01-06-wang-maoshe
+    title: 山西运城原书记王茂设一审获刑15年 受贿5000余万
+    publisher: 中国新闻网（央视新闻客户端）
+    date: 2017-01-06
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2017/01-06/8116170.shtml
+    start: 2017年1月6日，江苏省徐州市中级人民法院
+    end: 依法可以从轻处罚。
+  - id: r09-people-2015-08-07-feng-lixiang
+    title: 山西省大同市委原书记丰立祥等5人被“双开”（图/简历）
+    publisher: 人民网
+    date: 2015-08-07
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0807/c1001-27428907.html
+    start: 人民网北京8月7日电
+    end: 并被采取强制措施。
+  - id: r09-people-2015-08-07-dong-hongyun
+    title: 山西省大同市委原书记丰立祥等5人被“双开”（图/简历）【2】
+    publisher: 人民网
+    date: 2015-08-07
+    voice: official
+    url: http://politics.people.com.cn/n/2015/0807/c1001-27428907-2.html
+    start: 据山西省纪委消息：日前
+    end: 2009年4月任忻州市委书记。
+  - id: r09-wiki-feng-lixiang
+    title: 丰立祥（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/丰立祥
+    excerpt: true
+    keep:
+      - 丰立祥（1957年8月3日—）
+      - 2016年10月12日，天津市第二中级人民法院以受贿罪
+  - id: r09-thepaper-2017-hong-fake
+    title: 阳泉市委原书记洪发科获刑17年，曾被指“为官不为的典型”
+    publisher: 澎湃新闻
+    date: 2017-11
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2061875
+    excerpt: true
+    keep:
+      - 执行裁定书显示，洪发科因犯受贿罪
+      - 忻州市中级人民法院2016年11月3日作出
+      - 公开资料显示，洪发科1956年11月出生
+      - 2015年7月，洪发科因涉嫌严重违纪违法
+      - 经查，洪发科严重违反政治纪律
+      - 2016年3月，山西省人民检察院依法以涉嫌受贿罪
+  - id: r09-thepaper-2018-dong-hongyun
+    title: 山西忻州市委原书记董洪运被控受贿五千余万元，家庭财产过亿
+    publisher: 澎湃新闻
+    date: 2018-03
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2077120
+    excerpt: true
+    keep:
+      - 检察机关指控，董洪运利用职务便利
+      - 2014年12月，董洪运因涉嫌严重违纪违法接受组织调查
+      - 2015年8月，山西省人民检察院依法以涉嫌受贿罪对忻州
+      - 阳泉市中级人民法院于2017年11月1日作出
+  - id: r09-ceweekly-2015-11-23-shanxi
+    title: 中国经济周刊：山西反腐
+    publisher: 中国经济周刊
+    date: 2015-11-23
+    voice: zh
+    url: http://paper.people.com.cn/zgjjzk/html/2015-11/23/content_1636628.htm
+    excerpt: true
+    keep:
+      - 以2014年春节为节点，从金道铭及吕梁市原市长丁雪峰
+      - 跨省异地立案侦查的情况也有出现
+      - 运城市委原书记王茂设、吕梁市原市长丁雪峰均被江苏
+  - id: r09-yicai-2014-02-ding-xuefeng
+    title: 吕梁市长丁雪峰被免职
+    publisher: 第一财经（中国经营报）
+    date: 2014-02
+    voice: zh
+    url: https://www.yicai.com/news/3506181.html
+    excerpt: true
+    keep:
+      - 据《吕梁日报》消息，2014年2月20日
+      - 丁雪峰被带走调查的消息是1月2日传播开来
+      - 据此前吕梁政府官网的介绍，丁1963年生
+      - 接近此案件的人士向《中国经营报》记者称，2012年1月
+  # ───── 李春城成都班底 ─────
+  - id: r09-chinanews-2015-01-17-sun-ping
+    title: 原成都市委常委孙平与妻子涉嫌受贿被逮捕
+    publisher: 中国新闻网
+    date: 2015-01-17
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2015/01-17/6978159.shtml
+    start: 中新社成都1月17日电
+    end: 移送司法机关依法处理。
+  - id: r09-scjcy-2016-01-14-sun-ping
+    title: 绵阳市人民检察院依法对孙平以涉嫌受贿罪提起公诉
+    publisher: 四川省人民检察院
+    date: 2016-01-14
+    voice: official
+    url: https://www.sc.jcy.gov.cn/cjfb/201601/t20160114_1743724.shtml
+    start: 2015年12月22日，绵阳市人民检察院决定
+    end: 向绵阳市中级人民法院提起公诉。
+  - id: r09-yicai-2014-10-chengdu
+    title: 成都市长助理被查 李春城班底已落马7人
+    publisher: 第一财经
+    date: 2014-10-15
+    voice: zh
+    url: https://www.yicai.com/news/4027859.html
+    excerpt: true
+    keep:
+      - 经四川省人民检察院指定管辖，乐山市人民检察院依法对何华章
+      - 刘俊林出生于1961年
+      - 2013年10月，刘俊林被免去都江堰市委书记一职
+      - 因此，刘俊林被认为深得李春城赏识
+      - 刘俊林已是被查的第二名成都市市长助理
+      - 今年以来，李春城时期的3名市委常委、2名市长助理被查
+  - id: r09-thepaper-2017-02-he-huazhang
+    title: 遂宁原市长何华章受贿案细节：自供办案机关未掌握的受贿事实
+    publisher: 澎湃新闻
+    date: 2017-02-10
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1620456
+    excerpt: true
+    keep:
+      - 判决书显示，2016年12月19日
+      - 据公开资料显示：2014年3月
+      - 判决书显示：2002年12月至2013年期间
+      - 何华章曾创办《成都商报》
+      - 2012年12月06日，中央纪委发布消息
+  - id: r09-xinhua-2016-12-30-deng-quanzhong
+    title: 四川资阳市原市长邓全忠一审被判处无期徒刑
+    publisher: 新华网
+    date: 2016-12-30
+    voice: official
+    url: http://www.xinhuanet.com/politics/2016-12/30/c_1120223910.htm
+    start: 新华社成都12月30日电
+    end: 法院依法作出判决。
+  # ───── 苏荣案 ─────
+  - id: r09-jfdaily-2018-09-11-su-rong-43
+    title: 涉副国级“老虎”案，43领导被处理
+    publisher: 上观新闻（政事儿）
+    date: 2018-09-11
+    voice: zh
+    url: https://www.jfdaily.com/wx/detail.do?id=104856
+    excerpt: true
+    keep:
+      - 第一：对涉及苏荣案的43名党员领导干部
+      - 这6人分别是：江西省发改委原主任李安泽
+      - 中纪委反腐大片《永远在路上》披露，江西省地税局原局长王平
+      - 2016年8月29日，江西省纪委通报
+      - 此外，还有5名官员被曝涉苏荣案
+      - 王詠已因受贿罪获刑九年六个月
+      - 冷新生曾任赣州市长
+      - 2016年8月，丛文景因涉嫌行贿罪
+      - 值得一提的还有苏荣女婿
+      - 程丹峰已于去年初因犯利用影响力受贿罪
+  - id: r09-thepaper-2016-08-03-wang-cong
+    title: 江西新余两任市长丛文景、王平被公诉，均涉嫌行贿受贿犯罪
+    publisher: 澎湃新闻（江西网络广播电视台）
+    date: 2016-08-03
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1508233
+    excerpt: true
+    keep:
+      - 日前，抚州市人民检察院决定
+      - 日前，景德镇市人民检察院决定
+      - 根据此前媒体公开报道显示，王平与丛文景
+      - 丛文景公开简历显示
+      - 丛文景，男，安徽省凤台县人
+      - 2001年07月任景德镇市人民政府副市长
+      - 2004年06月任新余市委常委、宣传部部长
+      - 2006年11月任新余市委常委、政法委书记
+      - 2010年07月任新余市委副书记
+      - 2013.09 新余市委副书记，市长
+      - 王平，男，汉族，1956年12月生
+      - 2003.05--2006.11 江西省发展和改革委员会副主任
+      - 2006.12--2008.03 江西省新余市委副书记、市长
+      - 2008.03--2011.08 江西省赣州市委副书记
+      - 2011.08--2014.12 江西省地税局党组书记
+  - id: r09-thepaper-2018-08-10-wang-ping
+    title: 向苏荣行贿百万厅官王平已获刑，帮人中标上亿元土建工程
+    publisher: 澎湃新闻
+    date: 2018-08-10
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2337887
+    excerpt: true
+    keep:
+      - 赣州市原市长、江西省地税局原局长王平因犯受贿罪已被判处刑罚
+      - 澎湃新闻此前曾报道，2014年11月28日
+  - id: r09-fzb-2018-05-10-leng-xinsheng
+    title: 江西省工信委原党组书记冷新生获刑6年 受贿逾900万元
+    publisher: 法制报（中新社）
+    date: 2018-05-10
+    voice: zh
+    url: http://www.fzb.org.cn/yejie/jiancha/2018/0511/941.html
+    excerpt: true
+    keep:
+      - 南昌5月10日电
+      - 经法院审理查明，2002年至2017年，被告人冷新生
+      - 江西省鹰潭市中级人民法院认为
+      - 冷新生，男，汉族，1964年10月出生
+      - 2016年9月，冷新生不再担任
+      - 2017年2月20日，江西省纪委宣布
+  - id: r09-thepaper-2017-02-leng-xinsheng
+    title: 江西省工信委原党组书记冷新生被查，赣州前后两任市长均落马
+    publisher: 澎湃新闻
+    date: 2017-02-20
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1616802
+    excerpt: true
+    keep:
+      - 自卸任赣州市长后，有关冷新生被调查的传言
+      - 2001年5月，37岁的冷新生晋升为副处级干部
+      - 在担任丰城市委书记一年多后
+      - 2011年8月—2011年9月，冷新生担任赣州市委副书记
+      - 值得注意的是，在冷新生之前，担任赣州市长的是王平
+      - 澎湃新闻2014年曾独家报道，时任江西省地方税务局局长王平
+      - 在中央纪委宣传部制作的反腐专题片《永远在路上》也提到王平
+  # ───── 刘志军与铁路系统 ─────
+  - id: r09-ccdi-2018-10-31-railway
+    title: 【40年·典型案件】刘志军、张曙光等铁路系统系列腐败案
+    publisher: 中央纪委国家监委网站（中国纪检监察报）
+    date: 2018-10-31
+    voice: official
+    url: https://m.ccdi.gov.cn/content/3a/fb/34330.html
+    start: 2011年2月，经中共中央批准
+    end: 刘西林等人。
+  - id: r09-people-2014-10-17-zhang-shuguang
+    title: 原铁道部运输局局长张曙光一审被判死缓
+    publisher: 人民网（中新网）
+    date: 2014-10-17
+    voice: official
+    url: http://politics.people.com.cn/n/2014/1017/c70731-25856200.html
+    start: 中新网10月17日电
+    end: 共计折合人民币129.495万元。
+  - id: r09-court-2014-10-18-zhang-shuguang
+    title: 原铁道部运输局局长张曙光受贿案一审宣判
+    publisher: 最高人民法院（人民法院报）
+    date: 2014-10-18
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/8408.html
+    start: 10月17日，北京市第二中级人民法院对原铁道部运输局局长
+    end: 遂依法作出上述判决。
+  - id: r09-court-2014-10-18-su-shunhu
+    title: 原铁道部运输局副局长苏顺虎受贿一审被判无期
+    publisher: 最高人民法院（人民法院报）
+    date: 2014-10-18
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/8409.html
+    start: 原铁道部运输局副局长兼营运部主任苏顺虎涉嫌受贿
+    end: 据此，作出上述判决。
+  - id: r09-thepaper-2014-08-20-wen-qingliang
+    title: 昆明铁路局原局长闻清良受贿一审被判死缓，情妇被判15年
+    publisher: 澎湃新闻（新华网）
+    date: 2014-08-20
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1262728
+    excerpt: true
+    keep:
+      - 闻清良因受贿2000余万元被判处死刑
+      - 昆明铁路局原局长闻清良涉嫌受贿被提起公诉
+      - 单独或伙同其情妇钟华（另案处理）
+      - 北京市二中院经审理认为，闻清良身为国家工作人员
+  - id: r09-yicai-2014-lin-fenqiang
+    title: “刘志军案”余波：呼市铁路局原局长被判死缓
+    publisher: 第一财经
+    voice: zh
+    url: https://www.yicai.com/news/3944042.html
+    excerpt: true
+    keep:
+      - 近日，《第一财经日报》记者独家获知
+      - 1962年出生的林奋强
+      - 2011年6月，林奋强和马俊飞在赴京参加
+      - 记者获悉，林奋强收受的人民币
+      - 但不管林奋强如何摆脱送礼
+      - 2007年，在林奋强担任呼和浩特铁路局主要领导之后
+  # ───── 刘铁男与国家能源局 ─────
+  - id: r09-people-2018-09-21-nea
+    title: 细数十年事，何处过中秋——盘点国家能源局落马官员
+    publisher: 人民网
+    date: 2018-09-21
+    voice: official
+    url: http://politics.people.com.cn/n1/2018/0921/c1001-30308554.html
+    start: 9月21日，能源圈内最热的话题
+    end: 以受贿罪追究其刑事责任。
+  - id: r09-people-2016-10-19-hao-weiping
+    title: “核电一哥”郝卫平受贿案一审获刑12年半
+    publisher: 人民网（北京晨报）
+    date: 2016-10-19
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2016/1019/c64371-28789633.html
+    start: 曾被戏称为“核电一哥”
+    end: （记者 黄晓宇）
+  # ───── 云南 ─────
+  - id: r09-chinanews-2016-12-30-xie-xinsong
+    title: 昆明原副市长谢新松获刑10年 受贿房产曾都给私生子
+    publisher: 中国新闻网
+    date: 2016-12-30
+    voice: official
+    url: https://www.chinanews.com/sh/2016/12-30/8109688.shtml
+    start: 12月15日，贵阳市中级人民法院以受贿罪判处仇和
+    end: 理智面对，坦然接受。
