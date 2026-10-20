@@ -2,13 +2,18 @@
 
 批次回报中提出、尚未处理的事项。处理后删去或移入 progress。
 
-## 恢复点（2026-10-15 暂停）
+## 恢复点（2026-10-20 暂停）
 
-第五轮已全部整合，`research/round.yaml` 的 `inflight: []`，工作区干净。下一步按顺序：
+第十九轮已全部整合、提交并推送上线（人物 2323、照片 2247、专题 46、事件 905、关系 1006，检查全过）。第二十轮（`research/round20.md`）三批 FX4、K10、CS13 开工约二十分钟后按用户要求中断，**写了一半的文件留在工作区、未提交**：
 
-1. **M6 收尾**：对照 `milestones.md` 逐项打勾；全站抽查无出处背景句（构建不检查未加引号的句子）；统一下面“第五轮回报”“第四轮回报”的事实冲突；README 数字与截图更新（1624 人、完整传记 123）。
-2. **第六轮内容**（可选，见下面各“建议新增”）：派系 `hu-network`、`nanjing-mr`、`reformers`、`shanxi-collapse`；人物 he-ping、qiao-shi、fang-binxing、zhong-nanshan 等；按汉字计略低于 1500 的传记扩写（B16 四人、郭声琨、刘淇、张阳）；补 keep 请求（B15、B16、B21）。
-3. **工具**：抓取工具不解析 PDF（Brookings 等抓不下）；2000–2002 政府工作报告重抓。
+- FX4：改的是旧文件（概念、人物卡、manifest 等），未提交的改动用 `git status` / `git diff` 看；`research/manifests/FX4.yaml`、`sources/text/fx4-*` 未跟踪。
+- K10：`content/people/K10.yaml`、`research/roster/K10.yaml`、`content/relations/RL8.yaml`（若已建）未跟踪。
+- CS13：`content/cases/CS13.yaml` 等五个 CS13 文件（若已建）未跟踪。
+- `research/round.yaml` 为 `inflight: [K10, CS13, RL8]`。
+
+恢复时：读三批的中断回报（本节下面），可用 Task 的 resume 让原批次接着做，或按 round20.md 重新开批；全部回报后把 inflight 清空，跑 `node tools/build-data.ts --integrated --warn` 修到 0 error，再逐批提交。RL8 被列入 inflight，K10 自己的构建读不到它，整合时要特别核对 RL8 的 quote 与 id。
+
+v1.0 唯一未达标项：缺出生年月 99 人（目标 ≤ 60），见 `research/audit-v1.md`。
 
 ## 建议新增人物（入 roster，下一轮档案卡）
 

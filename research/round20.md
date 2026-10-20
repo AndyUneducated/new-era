@@ -1,6 +1,6 @@
 # 第二十轮批次（用户离开期间继续补数据，#83）
 
-共同规则同 `research/round19.md` 开头：来源登记 `research/manifests/<批次>.yaml`（id 以小写批次号开头），正文 `sources/text/<小写批次>-*`，脚本 `research/scripts/<批次>-*`；登记前 Grep `research/manifests/` 防重，已登记的直接引用；旧文件只用 StrReplace 小改（CRLF 文件，不要整文件重写）；不要 git commit/push，不要启动 dev server。每做 5–8 条跑一次构建，修到 0 error、无本批 warning：FX4 用 `node tools/build-data.ts --integrated --warn`，K10、CS13 用 `node tools/build-data.ts --batch=<批次> --warn`（`research/round.yaml` 的 inflight 列着 K10、CS13，`--integrated` 会跳过它们）。
+共同规则同 `research/round19.md` 开头：来源登记 `research/manifests/<批次>.yaml`（id 以小写批次号开头），正文 `sources/text/<小写批次>-*`，脚本 `research/scripts/<批次>-*`；登记前 Grep `research/manifests/` 防重，已登记的直接引用；旧文件只用 StrReplace 小改（CRLF 文件，不要整文件重写）；不要 git commit/push，不要启动 dev server。每做 5–8 条跑一次构建，修到 0 error、无本批 warning：FX4 用 `node tools/build-data.ts --integrated --warn`，K10、CS13 用 `node tools/build-data.ts --batch=<批次> --warn`（`research/round.yaml` 的 inflight 列着 K10、CS13、RL8，`--integrated` 会跳过它们）。RL8 也在 inflight 里，所以 `--batch=K10` 读不到 `content/relations/RL8.yaml`：K10 写关系时自己用脚本核对 quote 逐字出现、两端 id 存在、无重复（可仿 `research/scripts/RL7-quote.ts`），整合时维护者再统一跑构建。
 
 | 批次 | 写什么 | 只碰这些文件 |
 |---|---|---|
