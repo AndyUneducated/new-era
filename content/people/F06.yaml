@@ -383,8 +383,9 @@
 
 - id: ran-xinquan
   name: 冉新权
-  verify: true
   gender: m
+  born: 1965-06
+  birthplace: 四川营山
   roles: [tiger, biz]
   status: purged
   statusNote: 2013 年 8 月被宣布接受组织调查；本批未找到审判报道。
@@ -402,7 +403,7 @@
       cite: b03-cnr-2015-10-15-zhou-disciples
       quote: 据媒体报道，其在石油系统培植了大量“门徒”，包括蒋洁敏、王永春、李华林、冉新权、王道富、温青山等。
       rank: periphery
-  cites: [f06-chinanews-2013-08-28-cnpc-three, f06-chinanews-2013-08-28-li-hualin, b03-cnr-2015-10-15-zhou-disciples]
+  cites: [f06-chinanews-2013-08-28-cnpc-three, f06-chinanews-2013-08-28-li-hualin, b03-cnr-2015-10-15-zhou-disciples, bd2-sxworker-2010-08-10-ran-xinquan]
 
 - id: wang-daofu
   name: 王道富

@@ -48,8 +48,9 @@
 
 - id: sun-luyi
   name: 孙路一
-  verify: true
   gender: m
+  born: 1953-11
+  birthplace: 上海
   roles: [tiger]
   status: purged
   statusNote: 2007 年 9 月被判有期徒刑 15 年；按刑期计算或已刑满，未见公开报道。
@@ -64,7 +65,7 @@
   positions:
     - { title: 中共上海市委组织部副部长兼上海市人事局局长, sys: party, place: 上海, from: 1998-02, cite: r09-chinanews-2007-09-26-pension-verdicts }
     - { title: 中共上海市委副秘书长、市委办公厅主任, sys: party, place: 上海, to: 2006-05, cite: r09-chinanews-2007-09-26-pension-verdicts }
-  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled]
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled, bd2-chinanews-2006-09-28-sun-luyi]
 
 - id: wang-chengming
   name: 王成明
@@ -318,7 +319,8 @@
 
 - id: zuo-huiling
   name: 左慧玲
-  verify: true
+  born: 1957-10
+  origin: 湖南常宁
   roles: [tiger]
   status: purged
   statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
@@ -331,12 +333,13 @@
     此案涉嫌违纪被立案调查的共 466 人。
   positions:
     - { title: 衡阳市人大常委会副主任, sys: gov, place: 湖南, cite: r09-people-2014-08-18-hengyang }
-  cites: [r09-people-2014-08-18-hengyang, r09-hnrd-2014-08-19-hengyang]
+  cites: [r09-people-2014-08-18-hengyang, r09-hnrd-2014-08-19-hengyang, bd2-ce-2013-01-04-hengyang-npc]
 
 - id: xiao-bin
   name: 肖斌
-  verify: true
   gender: m
+  born: 1969-11
+  birthplace: 湖南邵阳
   roles: [tiger]
   status: purged
   statusNote: 2014 年以玩忽职守罪被判有期徒刑 3 年，同年 9 月湖南高院二审维持；按刑期计算已刑满。
@@ -349,7 +352,7 @@
     对破坏选举案的发生负有不可推卸的法律责任。此案一审 68 名被告中有 11 人上诉，二审 10 人维持原判。
   positions:
     - { title: 中共衡阳市委常委、纪委书记, sys: party, place: 湖南, cite: r09-thepaper-2014-09-25-xiao-bin }
-  cites: [r09-thepaper-2014-09-25-xiao-bin]
+  cites: [r09-thepaper-2014-09-25-xiao-bin, bd2-ce-2013-12-23-xiao-bin]
 
 # ───── 山西塌方式腐败 ─────
 - id: su-hao
@@ -626,8 +629,9 @@
 
 - id: chen-zhengming
   name: 陈争鸣
-  verify: true
   gender: m
+  born: 1958-08
+  birthplace: 四川新都
   roles: [tiger]
   status: purged
   statusNote: 2014 年 8 月接受组织调查，后续处理未见本站来源。
@@ -641,7 +645,7 @@
     龙泉驿区委书记。
   positions:
     - { title: 成都市市长助理、中共龙泉驿区委书记, sys: party, place: 四川, to: 2014-08, cite: r09-yicai-2014-10-chengdu }
-  cites: [r09-yicai-2014-10-chengdu]
+  cites: [r09-yicai-2014-10-chengdu, bd2-ce-2014-08-27-chen-zhengming]
 
 # ───── 苏荣案 ─────
 - id: wang-ping-jx
@@ -699,8 +703,9 @@
 
 - id: wang-yong-jx
   name: 王詠
-  verify: true
   gender: m
+  born: 1956-08
+  birthplace: 上海
   roles: [tiger]
   status: purged
   statusNote: 已因受贿罪被判有期徒刑 9 年 6 个月（上观新闻），宣判日期未见本站来源。
@@ -712,7 +717,7 @@
     苏荣案涉案人员，上观新闻列为被曝涉苏荣案的 5 名官员之一，已因受贿罪获刑 9 年 6 个月。其问题通报称他“为谋求职务上的重用，向他人行贿”。
   positions:
     - { title: 江西省质量技术监督局党组书记、局长, sys: gov, place: 江西, cite: r09-jfdaily-2018-09-11-su-rong-43 }
-  cites: [r09-jfdaily-2018-09-11-su-rong-43]
+  cites: [r09-jfdaily-2018-09-11-su-rong-43, bd2-chinanews-2015-08-17-wang-yong-jx]
 
 - id: leng-xinsheng
   name: 冷新生

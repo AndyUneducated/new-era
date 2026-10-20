@@ -268,8 +268,9 @@
 
 - id: yang-jianhua
   name: 杨建华
-  verify: true
   gender: m
+  born: 1964-05
+  birthplace: 四川营山
   roles: [tiger]
   status: detained
   statusNote: 2015 年以行贿罪、受贿罪、滥用职权罪被判处有期徒刑 20 年，判决时间和法院未公开。
@@ -285,7 +286,7 @@
   positions:
     - { title: 中共仪陇县委书记, sys: party, place: 四川南充仪陇, to: 2011-10, cite: cs5-people-2015-09-15-nanchong }
     - { title: 中共南充市委常委, sys: party, place: 四川南充, from: 2011-10, cite: cs5-people-2015-09-15-nanchong }
-  cites: [cs5-people-2015-09-15-nanchong, cs5-bbc-2015-09-15-nanchong, cs5-ccdi-2015-09-15-nanchong-meeting]
+  cites: [cs5-people-2015-09-15-nanchong, cs5-bbc-2015-09-15-nanchong, cs5-ccdi-2015-09-15-nanchong-meeting, bd2-uestc-yang-jianhua]
 
 - id: li-zhongbin
   name: 李仲彬
@@ -547,8 +548,8 @@
 
 - id: wang-dongming-citic
   name: 王东明
-  verify: true
   gender: m
+  born: 1951-08
   roles: [biz]
   status: retired
   tier: 2
@@ -561,7 +562,7 @@
     - { title: 南方证券有限公司副总经理, sys: other, from: 1993, to: 1995, cite: c12-sina-2015-11-17-wang-dongming }
     - { title: 中信证券董事长, sys: other, from: 2002, to: 2016-01-19, cite: c12-thepaper-2016-04-29-citic-arrest }
     - { title: 中信证券党委书记, sys: party, to: 2015-11-17, cite: c12-sina-2015-11-17-wang-dongming }
-  cites: [c12-sina-2015-11-17-wang-dongming, c12-thepaper-2016-04-29-citic-arrest, cs5-epoch-2015-11-14-yao-gang-coup]
+  cites: [c12-sina-2015-11-17-wang-dongming, c12-thepaper-2016-04-29-citic-arrest, cs5-epoch-2015-11-14-yao-gang-coup, bd2-bfsu-wang-dongming]
 
 - id: liu-hongru
   name: 刘鸿儒
@@ -871,8 +872,9 @@
 # ───── CS5 · political-brokers ─────
 - id: lou-zhongfu
   name: 楼忠福
-  verify: true
   gender: m
+  born: 1954-02
+  origin: 浙江东阳
   roles: [biz]
   status: retired
   statusNote: 2014 年 12 月底被中央纪委带走协助调查，2016 年 9 月其子楼明证实他已回家；未见被追究刑事责任的报道。现为广厦控股董事局荣誉主席。
@@ -884,7 +886,7 @@
     索取、收受他的财物 1465 万余元，是七名行贿人中数额最大的。2016 年 9 月已回家。
   positions:
     - { title: 广厦控股集团有限公司创始人、董事局荣誉主席, sys: other, place: 浙江, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
-  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, b07-court-2016-07-04-ling-sentence]
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, b07-court-2016-07-04-ling-sentence, bd2-zjgsu-lou-zhongfu]
 
 - id: cui-xiaoyu
   name: 崔晓玉
@@ -905,8 +907,9 @@
 
 - id: wei-xin
   name: 魏新
-  verify: true
   gender: m
+  born: 1955
+  birthplace: 河南周口
   roles: [biz]
   status: missing
   statusNote: 2015 年 1 月 4 日应有关部门要求协助调查，此后去向和是否被追究未见公开报道。
@@ -918,12 +921,13 @@
     索取财物事后知情未予退还，收受、索取魏新等人财物共计 643 万余元。
   positions:
     - { title: 北大方正集团董事长, sys: other, place: 北京, to: 2015-01, cite: c12-nbd-2015-01-06-founder }
-  cites: [c12-nbd-2015-01-06-founder, b07-court-2016-07-04-ling-sentence, cs5-bjnews-2016-09-27-lou-zhongfu]
+  cites: [c12-nbd-2015-01-06-founder, b07-court-2016-07-04-ling-sentence, cs5-bjnews-2016-09-27-lou-zhongfu, bd2-ustb-wei-xin]
 
 - id: fan-zengyu
   name: 范增玉
-  verify: true
   gender: m
+  born: 1963
+  birthplace: 河南郸城
   roles: [tiger]
   status: detained
   statusNote: 2015 年 4 月 29 日被北京一中院一审判处死缓。
@@ -938,7 +942,7 @@
     2015 年 4 月北京一中院认定其受贿罪数额特别巨大、情节特别严重，因主动交代部分罪行、赃款全部追缴，判处死刑缓期二年执行。
   positions:
     - { title: 国务院扶贫开发领导小组办公室外资项目管理中心主任, sys: gov, cite: c12-chinanews-2015-04-29-fan-zengyu }
-  cites: [c12-chinanews-2015-04-29-fan-zengyu, cs5-court-2014-12-17-ding-shumiao]
+  cites: [c12-chinanews-2015-04-29-fan-zengyu, cs5-court-2014-12-17-ding-shumiao, bd2-thepaper-2018-01-fan-zengyu]
 
 - id: he-hongda
   name: 何洪达
@@ -1053,8 +1057,9 @@
 
 - id: wang-heqing
   name: 王合清
-  verify: true
   gender: m
+  born: 1967-06
+  birthplace: 重庆开县
   roles: [tiger]
   status: detained
   statusNote: 2024 年 6 月一审被判处有期徒刑 13 年 3 个月。
@@ -1072,7 +1077,7 @@
     - { title: 中共重庆市万州区委常委、秘书长, sys: party, place: 重庆万州, cite: c12-gzgl-2025-wang-heqing }
     - { title: 中共重庆市江津区委副书记、区长, sys: gov, place: 重庆江津, cite: c12-gzgl-2025-wang-heqing }
     - { title: 重庆市政府文史研究馆党组书记, sys: gov, place: 重庆, to: 2023-05, cite: c12-gzgl-2025-wang-heqing }
-  cites: [c12-xinhua-2024-01-09-wang-heqing, c12-gzgl-2025-wang-heqing]
+  cites: [c12-xinhua-2024-01-09-wang-heqing, c12-gzgl-2025-wang-heqing, bd2-ce-2016-03-25-wang-heqing]
 
 - id: li-chao-hunan
   name: 李超
@@ -1100,8 +1105,9 @@
 
 - id: liu-haichang
   name: 刘海昌
-  verify: true
   gender: m
+  born: 1977-03
+  birthplace: 山西文水
   roles: [tiger]
   status: purged
   statusNote: 2024 年 4 月被开除党籍和公职，涉嫌受贿、滥用职权犯罪问题移送审查起诉；判决未见公开报道。
@@ -1115,7 +1121,7 @@
     收受财物数额特别巨大，滥用职权致使国家利益遭受重大损失，情节特别严重。
   positions:
     - { title: 绵阳市政府党组成员、副市长, sys: gov, place: 四川绵阳, cite: c12-scjc-2024-04-28-liu-haichang }
-  cites: [c12-scjc-2024-04-28-liu-haichang, cs5-cjn-2024-05-24-political-swindlers]
+  cites: [c12-scjc-2024-04-28-liu-haichang, cs5-cjn-2024-05-24-political-swindlers, bd2-scjc-2023-10-28-liu-haichang]
 
 - id: ni-huizhong
   name: 倪会忠

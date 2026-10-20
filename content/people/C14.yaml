@@ -164,9 +164,10 @@
 
 - id: yan-yousong
   name: 严友松
-  verify: true
   pinyin: Yán Yǒusōng
   gender: m
+  born: 1965-10-05
+  birthplace: 湖北黄梅
   roles: [biz]
   status: retired
   statusNote: 2008 年 1 月被佛山市中级人民法院以违规披露、不披露重要信息罪判刑，2009 年二审维持；2019 年 4 月 10 日最高人民法院再审宣告无罪。此后近况不详。
@@ -177,7 +178,7 @@
     2008 年 1 月他与顾雏军等一同被佛山市中级人民法院以违规披露、不披露重要信息罪判刑；2019 年 4 月最高人民法院再审宣告他无罪。
   positions:
     - { title: 科龙电器传媒副总裁, sys: other, cite: i11-cyol-2004-08-18-gu-sues }
-  cites: [i11-cyol-2004-08-18-gu-sues, i11-court-2019-04-10-gu-retrial]
+  cites: [i11-cyol-2004-08-18-gu-sues, i11-court-2019-04-10-gu-retrial, bd2-shobserver-2019-04-10-gu-chujun-retrial]
 
 - id: wang-wenbin
   name: 汪文斌
@@ -222,9 +223,9 @@
 
 - id: albert-keidel
   name: 盖保德
-  verify: true
   aka: [Albert Keidel]
   gender: m
+  born: 1945-08-05
   education:
     - { school: 普林斯顿大学伍德罗·威尔逊公共与国际事务学院, degree: 学士 }
     - { school: 哈佛大学, degree: 经济学博士 }
@@ -242,7 +243,7 @@
     - { title: 卡内基国际和平基金会高级研究员, sys: other, from: 2004-09, cite: c14-carnegie-albert-keidel }
     - { title: 大西洋理事会非常驻高级研究员, sys: other, cite: c14-gwu-albert-keidel }
     - { title: 乔治·华盛顿大学兼职教授, sys: other, cite: c14-gwu-albert-keidel }
-  cites: [c14-gwu-albert-keidel, c14-carnegie-albert-keidel, i11-voa-2010-01-27-indigenous-innovation]
+  cites: [c14-gwu-albert-keidel, c14-carnegie-albert-keidel, i11-voa-2010-01-27-indigenous-innovation, bd2-iariw-albert-keidel]
 
 - id: zhang-wenzhong
   name: 张文中

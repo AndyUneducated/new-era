@@ -193,8 +193,9 @@
 
 - id: liu-jinming
   name: 刘金明
-  verify: true
   gender: m
+  born: 1960-10
+  birthplace: 河北顺平
   roles: [tiger]
   status: detained
   statusNote: 2020 年以受贿罪被一审判处有期徒刑 12 年。
@@ -210,7 +211,7 @@
   positions:
     - { title: 包头银监分局党委书记、局长, sys: gov, place: 内蒙古包头, from: 2009-10, to: 2011-06, cite: c13-ccdi-2020-04-29-liu-jinming-expel }
     - { title: 内蒙古银监局党委委员、纪委书记、副局长, sys: gov, place: 内蒙古, from: 2011-06, to: 2018-10, cite: c13-ccdi-2020-04-29-liu-jinming-expel }
-  cites: [c13-ccdi-2020-04-29-liu-jinming-expel, c13-chinapeace-2021-01-29-baoshang, c13-nbd-2021-01-03-liu-jinming, cs6-thepaper-2024-01-03-li-zhenxi]
+  cites: [c13-ccdi-2020-04-29-liu-jinming-expel, c13-chinapeace-2021-01-29-baoshang, c13-nbd-2021-01-03-liu-jinming, cs6-thepaper-2024-01-03-li-zhenxi, bd2-nbd-2020-04-29-liu-jinming]
 
 - id: jia-qizhen
   name: 贾奇珍
@@ -288,8 +289,8 @@
 # ───── CS6 · zhejiang-guangsha ─────
 - id: lou-ming
   name: 楼明
-  verify: true
   gender: m
+  born: 1973-08
   roles: [biz, family]
   status: active
   tier: 2
@@ -301,11 +302,11 @@
     - { title: 广厦控股集团有限公司董事局主席, sys: other, place: 浙江东阳, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
     - { title: 浙江省青年联合会副主席, sys: other, place: 浙江, cite: cs6-thepaper-2015-02-16-si-li }
     - { title: 东阳市人大常委会委员, sys: other, place: 浙江东阳, cite: cs6-chinanews-2015-07-28-lou-zhongfu }
-  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-thepaper-2015-02-16-si-li, cs6-sohu-2015-07-14-lou-sponsor, cs6-chinanews-2015-07-28-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning]
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-thepaper-2015-02-16-si-li, cs6-sohu-2015-07-14-lou-sponsor, cs6-chinanews-2015-07-28-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning, bd2-sina-2012-04-24-lou-ming, bd2-stcn-2014-12-13-guangsha]
 
 - id: lou-jiangyue
   name: 楼江跃
-  verify: true
+  born: 1974
   roles: [biz]
   status: active
   tier: 2
@@ -315,7 +316,7 @@
     浙江证监局 2023 年 12 月认定，广厦控股及其一致行动人（包括他和楼忠福、楼明）未及时披露放弃东望时代表决权和股份被法院裁定转移的权益变动，分别出具警示函。
   positions:
     - { title: 广厦控股集团有限公司董事局副主席, sys: other, place: 浙江东阳, cite: cs5-bjnews-2016-09-27-lou-zhongfu }
-  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning]
+  cites: [cs5-bjnews-2016-09-27-lou-zhongfu, cs6-csrc-2023-12-07-guangsha-warning, bd2-stcn-2014-12-13-guangsha]
 
 - id: si-li
   name: 斯力
@@ -678,8 +679,9 @@
 
 - id: ruan-qilin
   name: 阮齐林
-  verify: true
   gender: m
+  born: 1957-10
+  birthplace: 安徽枞阳
   roles: [scholar]
   status: active
   tier: 2
@@ -689,7 +691,7 @@
     并认为终身监禁将来可能对死刑立即执行起替代作用；2016 年他又说终身监禁的适用需要司法解释。
   positions:
     - { title: 中国政法大学刑事司法学院刑法研究所所长, sys: other, place: 北京, cite: cs5-npc-2015-08-26-life-draft }
-  cites: [cs5-npc-2015-08-26-life-draft, cs5-xinhua-2016-10-10-bai-enpei-first]
+  cites: [cs5-npc-2015-08-26-life-draft, cs5-xinhua-2016-10-10-bai-enpei-first, bd2-zjulaw-ruan-qilin]
 
 - id: zhao-bingzhi
   name: 赵秉志

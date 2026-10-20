@@ -273,7 +273,14 @@ li-maorong:
     level: none
     why: 通报点名结交政治骗子、搞政治投机，指的是谋求个人升迁，未见与高层派系相关的报道
     cites: [c12-cctv-2024-01-12-li-maorong]
-  outcome: expelled
+  amount: { yuan: 70840000, text: 九江市检察院工作报告称其 2007 年至 2022 年非法收受他人财物折合人民币共计 7084 万元（检察机关表述，法院认定数未公开）, cite: c16-jjjcy-2025-01-14-work-report }
+  plea:
+    - { kind: plea, text: 被提起公诉后当庭认罪悔罪, cite: c16-jjjcy-2025-01-14-work-report }
+  fall:
+    - { date: 2024-03-22, text: 经江西省人民检察院指定管辖，九江市人民检察院以涉嫌受贿罪向九江市中级人民法院提起公诉, cite: c16-spp-2024-03-22-li-maorong-charge }
+    - { date: 2024-09, text: 九江市中级人民法院以受贿罪判处有期徒刑 11 年，并处罚金 400 万元, cite: c16-jjjcy-2025-01-14-work-report }
+  status: detained
+  statusNote: 2024 年 9 月被九江中院以受贿罪判处有期徒刑 11 年。
 
 wang-heqing:
   sys: local

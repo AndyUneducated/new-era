@@ -746,6 +746,10 @@ wang-xiaolin:
     level: none
     why: 通报的政治纪律问题是“违规打探巡视信息”，其余为神华任内的受贿和用人；本站所见可靠来源未把他与某位落马高官或派系清洗联系起来。
     cites: [r04-xinhua-2018-04-26-wang-xiaolin-expel]
+  fall:
+    - { date: 2018-09-20, text: 经最高人民检察院指定，衡水市人民检察院以涉嫌受贿罪向衡水市中级人民法院提起公诉, cite: c16-spp-2018-09-20-wang-xiaolin-charge }
+  status: purged
+  statusNote: 2018 年 4 月被开除党籍和公职，同年 9 月被以涉嫌受贿罪提起公诉；本站未找到其判决的官方消息。
 
 liu-jun-gx:
   sys: local

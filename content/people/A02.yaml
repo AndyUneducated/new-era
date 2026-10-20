@@ -40,8 +40,8 @@
 
 - id: wang-changqing
   name: 王长青
-  verify: true
   gender: m
+  born: 1972-09
   roles: [tiger]
   status: missing
   statusNote: 2023 年 12 月 27 日全国政协主席会议撤销其全国政协委员资格，未说明原因；被撤销时任中国航天科工集团副总经理、党组成员（财新），此后本站未查到其公开露面，也没有立案或处分通报。
@@ -53,7 +53,7 @@
     中国航天科工集团有限公司副总经理、党组成员，全国政协委员。2023 年 12 月 27 日与航天科技集团董事长吴燕生、兵器工业集团董事长刘石泉同日被撤销全国政协委员资格，官方未说明原因。
   positions:
     - { title: 中国航天科工集团有限公司副总经理、党组成员, sys: other, cite: a02-caixin-2023-12-27-cppcc-three }
-  cites: [a02-caixin-2023-12-27-cppcc-three, k03-scol-2023-12-27-liu-shiquan-removed]
+  cites: [a02-caixin-2023-12-27-cppcc-three, k03-scol-2023-12-27-liu-shiquan-removed, bd2-thepaper-2023-12-27-wang-changqing]
 
 - id: li-zhizhong-pla
   name: 李志忠

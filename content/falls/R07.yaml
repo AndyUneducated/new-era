@@ -1207,11 +1207,20 @@ yang-xiaowei:
       - 纵容、默许亲属利用本人职权或者职务上的影响谋取私利
       - 利用职务便利为他人在企业经营、项目竞标、工程承揽等方面谋利
   discipline: [organization, integrity, life, eight]
+  amount: { yuan: 33190000, text: 2004 年至 2025 年在中国联通、中国电信、国家广电总局和全国政协任上受贿共计折合人民币 3319 万余元, cite: c16-people-2026-10-20-yang-xiaowei-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述罪行，主动交代监察机关尚未掌握的绝大部分受贿事实，当庭表示认罪悔罪, cite: c16-people-2026-10-20-yang-xiaowei-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及其孳息已全部追缴到案, cite: c16-people-2026-10-20-yang-xiaowei-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-people-2025-04-17-yang-xiaowei-probe }
   politics:
     level: none
     why: 电信央企出身、后任网信办和广电总局副职的干部；通报未认定违反政治纪律，未见政治定性。
     cites: [r07-people-2025-11-10-yang-xiaowei-expel, r07-wiki-yang-xiaowei]
+  fall:
+    - { date: 2026-06-25, text: 襄阳市中级人民法院公开开庭审理其受贿案，当庭表示认罪悔罪, cite: c16-people-2026-10-20-yang-xiaowei-verdict }
+    - { date: 2026-10-20, text: 襄阳市中级人民法院一审以受贿罪判处有期徒刑 12 年，并处罚金 300 万元, cite: c16-people-2026-10-20-yang-xiaowei-verdict }
+  status: detained
+  statusNote: 2026 年 10 月一审以受贿罪被判处有期徒刑 12 年。
 
 duan-chenggang:
   sys: local

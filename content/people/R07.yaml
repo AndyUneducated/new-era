@@ -1913,7 +1913,8 @@
 
 - id: li-wei-jx
   name: 李伟
-  verify: true
+  born: 1970-09
+  birthplace: 河南南阳
   roles: [tiger]
   status: purged
   statusNote: 2026 年 5 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1925,7 +1926,7 @@
     江西省委常委、统战部部长，2026 年 5 月在任上被宣布接受中央纪委国家监委纪律审查和监察调查，目前只有立案消息。与 2020 年落马的北京市政协原副主席李伟、国务院发展研究中心原主任李伟、信息支援部队原政委李伟均非同一人。
   positions:
     - { title: 江西省委常委、统战部部长, sys: party, place: 江西, to: 2026-05, cite: r07-people-2026-05-27-li-wei-jx-probe }
-  cites: [r07-people-2026-05-27-li-wei-jx-probe]
+  cites: [r07-people-2026-05-27-li-wei-jx-probe, bd2-people-2020-07-31-li-wei-jx]
 
 - id: guo-yonghang
   name: 郭永航

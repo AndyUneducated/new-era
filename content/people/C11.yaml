@@ -218,9 +218,10 @@
 
 - id: liu-weidong-csgc
   name: 刘卫东
-  verify: true
   pinyin: Liú Wèidōng
   gender: m
+  born: 1966-10
+  birthplace: 湖北秭归
   roles: [tiger]
   status: detained
   statusNote: 2026 年 4 月 14 日被南阳市中级人民法院以受贿罪一审判处有期徒刑十三年，并处罚金四百万元。
@@ -242,7 +243,7 @@
     - { title: 东风汽车集团股份有限公司乘用车公司总经理, sys: other, cite: c11-court-2026-04-14-liu-weidong }
     - { title: 中国兵器装备集团有限公司党组成员、副总经理, sys: other, to: 2025-02, cite: c11-xinhua-2025-02-12-liu-weidong }
     - { title: 中国长安汽车集团股份有限公司董事长, sys: other, cite: c11-court-2026-04-14-liu-weidong }
-  cites: [c11-xinhua-2025-02-12-liu-weidong, c11-xinhua-2025-07-31-liu-weidong, c11-xinhua-2025-11-26-liu-weidong, c11-court-2026-04-14-liu-weidong]
+  cites: [c11-xinhua-2025-02-12-liu-weidong, c11-xinhua-2025-07-31-liu-weidong, c11-xinhua-2025-11-26-liu-weidong, c11-court-2026-04-14-liu-weidong, bd2-jiemian-2025-liu-weidong-csgc]
 
 - id: wang-shouye
   name: 王守业
@@ -486,9 +487,9 @@
 
 - id: feng-yuzhang
   name: 冯虞章
-  verify: true
   pinyin: Féng Yúzhāng
   gender: m
+  born: 1936
   roles: [scholar]
   status: retired
   tier: 2
@@ -500,7 +501,7 @@
     - { title: 中央党校《理论月刊》编辑部副主任, sys: party, cite: c11-tsinghua-2021-feng-yuzhang }
     - { title: 清华大学人文学院哲学系教授, sys: other, cite: c11-tsinghua-2021-feng-yuzhang }
     - { title: 中国社会科学院马克思主义研究院特聘研究员, sys: other, cite: c11-tsinghua-2021-feng-yuzhang }
-  cites: [c11-tsinghua-2021-feng-yuzhang, i08-npc-2008-09-10-feng-yuzhang]
+  cites: [c11-tsinghua-2021-feng-yuzhang, i08-npc-2008-09-10-feng-yuzhang, bd2-tsinghua-2017-03-27-feng-yuzhang]
 
 - id: yang-xiaoqing
   name: 杨晓青
@@ -579,9 +580,9 @@
 
 - id: yi-fuxian
   name: 易富贤
-  verify: true
   pinyin: Yì Fùxián
   gender: m
+  born: 1969
   birthplace: 湖南洪江
   roles: [scholar]
   status: active
@@ -594,7 +595,7 @@
     他主张“中国应该彻底取消计划生育政策”，认为“政府的手不能伸入老百姓的身体中”。
   positions:
     - { title: 美国威斯康星大学麦迪逊分校妇产科研究员, sys: other, from: 2002, cite: c11-wiki-yi-fuxian }
-  cites: [wd-Q113006070, c11-wiki-yi-fuxian, i08-nytcn-2013-05-02-yi-fuxian]
+  cites: [wd-Q113006070, c11-wiki-yi-fuxian, i08-nytcn-2013-05-02-yi-fuxian, bd2-gzhu-yi-fuxian]
 
 - id: zhai-zhenwu
   name: 翟振武

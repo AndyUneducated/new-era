@@ -279,6 +279,9 @@ wang-zongnan:
 wang-weigong:
   sys: soe
   grade: bureau
+  amount: { yuan: 12934714, text: 1995 年至 2006 年间为 8 家单位或个人谋利，索取、收受财物共计折合人民币 1293.47138 万元, cite: c16-chinanews-2009-04-19-wang-weigong-verdict }
+  plea:
+    - { kind: plea, text: 主动坦白办案机关不掌握的部分犯罪事实，有认罪悔罪表现, cite: c16-chinanews-2009-04-19-wang-weigong-verdict }
   trigger: { kind: chain, text: 据《财经》报道，因涉嫌上海社保基金案被捕；他是当年把社保案主角张荣坤介绍到上海的关键人物, cite: b01-bbc-2007-08-03-wang-weigong }
   with:
     - { id: huang-ju, name: 黄菊, rel: patron, text: 黄菊任上海市委书记时他任市委副秘书长，十六大后进京任黄菊秘书，是黄菊亲信, cite: b01-bbc-2007-08-03-wang-weigong }
@@ -287,6 +290,10 @@ wang-weigong:
     level: linked
     why: 黄菊的前秘书；BBC 引《金融时报》称逮捕他说明社保案牵扯到中共权力核心，舆论普遍认为借社保案逮捕陈良宇是胡锦涛瓦解上海帮的举动
     cites: [b01-bbc-2007-08-03-wang-weigong]
+  fall:
+    - { date: 2009-04-17, text: 长春市中级人民法院一审以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，没收个人全部财产, cite: c16-chinanews-2009-04-19-wang-weigong-verdict }
+  status: detained
+  statusNote: 2009 年 4 月被长春中院一审以受贿罪判处死刑缓期二年执行。
 
 liang-ke:
   sys: law
@@ -320,6 +327,10 @@ tan-hong:
     level: linked
     why: 央广网把他列入周永康秘书帮，随周永康案落马
     cites: [b03-cnr-2015-10-15-zhou-disciples]
+  fall:
+    - { date: 2018-06-05, text: 北京市第二中级人民法院发布减刑公示，披露其已因受贿罪被判处有期徒刑 10 年，并处没收个人财产 50 万元，在燕城监狱服刑, cite: c16-caixin-2018-06-06-tan-hong-commute }
+  status: detained
+  statusNote: 已因受贿罪被判处有期徒刑 10 年，2018 年 6 月在燕城监狱服刑时被提请减刑；判决的日期和法院未公开。
 
 liu-suiji:
   sys: law
@@ -342,6 +353,13 @@ li-jiangong:
     level: linked
     why: 《环球人物》把他写进令计划西山会经陈川平延伸到山西各级的人事布局
     cites: [f02-hqrw-2015-01-06-xishanhui]
+  amount: { yuan: 26540000, text: 2015 年 6 月山西省纪委书记黄晓薇称省纪委查处其受贿 2654 万余元（纪委查处数，法院认定数未公开）, cite: c16-thepaper-2018-05-28-li-jiangong-auction }
+  outcome: sentenced
+  fall:
+    - { date: 2015-03, text: 被开除党籍、开除公职, cite: c16-thepaper-2018-05-28-li-jiangong-auction }
+    - { date: 2018-05, text: 中国裁判文书网公开的执行裁定书显示，其受贿案已经太原市中级人民法院一审、山西省高级人民法院二审作出刑事判决，案号分别为（2015）并刑初字第 00066 号和（2016）晋刑终字第 153 号，刑期未公开, cite: c16-thepaper-2018-05-28-li-jiangong-auction }
+  status: detained
+  statusNote: 受贿案已经一审、二审判决，澎湃 2018 年据执行裁定书称其“现已判刑”；具体刑期未公开。
 
 ma-xiangdong:
   sys: army

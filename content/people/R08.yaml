@@ -284,12 +284,12 @@
 
 - id: feng-lizhi
   name: 冯立志
-  verify: true
   gender: m
+  born: 1959-09
   birthplace: 黑龙江呼兰
   roles: [tiger]
   status: purged
-  statusNote: 2019 年 2 月被判有期徒刑 17 年，因患肺癌被暂予监外执行。
+  statusNote: 2019 年 2 月被判有期徒刑 17 年，因患肺癌被暂予监外执行。出生年月据驻民政部纪检监察组通报；另说 1960 年 11 月（北京青年报）。
   fall:
     - { date: 2018-10-31, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查，同日被留置, cite: r08-people-2019-04-14-feng-lizhi-verdict }
     - { date: 2018-12-13, text: 被取保候审, cite: r08-people-2019-04-14-feng-lizhi-verdict }
@@ -303,7 +303,7 @@
   positions:
     - { title: 中国福利彩票发行管理中心副主任, sys: gov, from: 2008-09, to: 2013-11, cite: r08-people-2019-04-14-feng-lizhi-verdict }
     - { title: 中国儿童福利和收养中心副主任, sys: gov, from: 2013-11, to: 2018-10, cite: r08-people-2019-04-14-feng-lizhi-verdict }
-  cites: [r08-people-2019-04-14-feng-lizhi-verdict, cs2-people-2018-11-09-lottery-14]
+  cites: [r08-people-2019-04-14-feng-lizhi-verdict, cs2-people-2018-11-09-lottery-14, bd2-jjcdi-2018-10-31-feng-lizhi, bd2-people-2019-06-04-feng-lizhi]
 
 # ───── 周永康、令计划家族（CS1） ─────
 - id: jia-xiaoye
@@ -764,7 +764,7 @@
 
 - id: guo-xueyi
   name: 郭学益
-  verify: true
+  born: 1966-10
   birthplace: 湖南长沙
   roles: [tiger, scholar]
   status: purged
@@ -782,7 +782,7 @@
   positions:
     - { title: 中南大学人事处处长, sys: other, place: 湖南, cite: r08-wiki-guo-xueyi }
     - { title: 中南大学党委常委、副校长, sys: party, place: 湖南, from: 2016-07, to: 2025-12, cite: r08-wiki-guo-xueyi }
-  cites: [r08-wiki-guo-xueyi, r08-people-2025-12-27-guo-xueyi-probe, r08-people-2026-07-23-guo-xueyi-expel]
+  cites: [r08-wiki-guo-xueyi, r08-people-2025-12-27-guo-xueyi-probe, r08-people-2026-07-23-guo-xueyi-expel, bd2-thepaper-2025-12-27-guo-xueyi]
 
 - id: wu-hao-cas
   name: 伍浩
@@ -898,7 +898,8 @@
 
 - id: yang-hongyong
   name: 杨宏勇
-  verify: true
+  born: 1962-09
+  birthplace: 陕西汉中
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月被开除党籍，取消其享受的待遇，涉嫌受贿、利用影响力受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -912,11 +913,11 @@
     违规拆分出访团组并延长出访期限，违规经商办企业，利用职务便利为他人在项目承揽、职务晋升等方面谋利。
   positions:
     - { title: 哈尔滨电气集团有限公司党委常委、纪委书记，国家监委驻哈尔滨电气集团有限公司监察专员, sys: party, place: 黑龙江, cite: r08-people-2026-01-24-yang-hongyong-probe }
-  cites: [r08-people-2026-01-24-yang-hongyong-probe, r08-people-2026-07-27-yang-hongyong-expel]
+  cites: [r08-people-2026-01-24-yang-hongyong-probe, r08-people-2026-07-27-yang-hongyong-expel, bd2-thepaper-2026-01-24-yang-hongyong]
 
 - id: li-xu-bt
   name: 李旭
-  verify: true
+  born: 1973-02
   roles: [tiger]
   status: purged
   statusNote: 2026 年 9 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -930,7 +931,7 @@
     无偿接受私营企业主提供的车辆和司机服务，利用职务便利为他人在设备采购、工程项目承揽、土地性质变更等方面谋利。
   positions:
     - { title: 新疆生产建设兵团党委常委、副司令员, sys: gov, place: 新疆, to: 2026-01, cite: r08-people-2026-01-08-li-xu-bt-probe }
-  cites: [r08-people-2026-01-08-li-xu-bt-probe, r08-people-2026-09-11-li-xu-bt-expel]
+  cites: [r08-people-2026-01-08-li-xu-bt-probe, r08-people-2026-09-11-li-xu-bt-expel, bd2-thepaper-2026-01-08-li-xu-bt]
 
 - id: yu-ze
   name: 于泽
@@ -1154,7 +1155,8 @@
 
 - id: chen-yong-cscec
   name: 陈勇
-  verify: true
+  born: 1974
+  birthplace: 重庆荣昌
   roles: [tiger]
   status: purged
   statusNote: 2026 年 9 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1166,7 +1168,7 @@
     中国建筑集团有限公司党组成员、副总经理。2026 年 9 月在任上被查，目前只有立案消息。
   positions:
     - { title: 中国建筑集团有限公司党组成员、副总经理, sys: other, to: 2026-09, cite: r08-people-2026-09-05-chen-yong-cscec-probe }
-  cites: [r08-people-2026-09-05-chen-yong-cscec-probe]
+  cites: [r08-people-2026-09-05-chen-yong-cscec-probe, bd2-chinanews-2026-09-05-chen-yong-cscec]
 
 - id: song-zhiyuan
   name: 宋致远
@@ -1186,7 +1188,8 @@
 
 - id: liang-chaoping
   name: 梁潮平
-  verify: true
+  born: 1955-11
+  birthplace: 江西南昌
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月主动投案，接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1198,7 +1201,7 @@
     曾任中国民用航空局党组成员、纪检组组长。2026 年 7 月主动投案，目前只有立案消息。
   positions:
     - { title: 中国民用航空局党组成员、纪检组组长, sys: party, cite: r08-people-2026-07-06-liang-chaoping-probe }
-  cites: [r08-people-2026-07-06-liang-chaoping-probe]
+  cites: [r08-people-2026-07-06-liang-chaoping-probe, bd2-caac-liang-chaoping]
 
 - id: bian-zhigang
   name: 卞志刚
@@ -1235,7 +1238,8 @@
 
 - id: wang-yihua
   name: 王益华
-  verify: true
+  born: 1966-03
+  birthplace: 湖南双峰
   roles: [tiger]
   status: purged
   statusNote: 2026 年 5 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1247,7 +1251,7 @@
     曾任中国华能集团有限公司党组成员、总会计师。2026 年 5 月被查，目前只有立案消息。
   positions:
     - { title: 中国华能集团有限公司党组成员、总会计师, sys: other, cite: r08-people-2026-05-30-wang-yihua-probe }
-  cites: [r08-people-2026-05-30-wang-yihua-probe]
+  cites: [r08-people-2026-05-30-wang-yihua-probe, bd2-sina-2026-05-30-wang-yihua]
 
 # ───── CS2 其他：足协、福彩、云南农信社、涉黑商人 ─────
 - id: liu-yi
@@ -1315,8 +1319,9 @@
 
 - id: jiang-zhaogang
   name: 蒋兆岗
-  verify: true
   gender: m
+  born: 1964-09
+  birthplace: 云南元江
   roles: [tiger]
   status: detained
   statusNote: 2019 年 3 月被临沧中院以受贿罪、滥用职权罪数罪并罚判处有期徒刑 15 年。
@@ -1334,12 +1339,13 @@
     - { title: 云南省政府副秘书长, sys: gov, place: 云南, cite: r08-xinhua-2019-03-20-jiang-zhaogang-verdict }
     - { title: 云南省农村信用社联合社党委书记, sys: other, place: 云南, from: 2011-02, cite: r08-thepaper-2018-07-17-luo-min-verdict }
     - { title: 西南林业大学党委副书记、校长, sys: other, place: 云南, cite: r08-xinhua-2019-03-20-jiang-zhaogang-verdict }
-  cites: [r08-xinhua-2019-03-20-jiang-zhaogang-verdict, r08-thepaper-2018-07-17-luo-min-verdict, r08-jiemian-2019-01-23-wan-renli-verdict]
+  cites: [r08-xinhua-2019-03-20-jiang-zhaogang-verdict, r08-thepaper-2018-07-17-luo-min-verdict, r08-jiemian-2019-01-23-wan-renli-verdict, bd2-eeo-2019-03-20-jiang-zhaogang]
 
 - id: wan-renli
   name: 万仁礼
-  verify: true
   gender: m
+  born: 1959-05
+  birthplace: 云南永胜
   roles: [tiger]
   status: detained
   statusNote: 2019 年 1 月被红河中院以受贿罪判处有期徒刑 6 年。
@@ -1355,12 +1361,14 @@
   positions:
     - { title: 云南省农村信用社联合社副主任、主任, sys: other, place: 云南, from: 2004-11, to: 2013-08, cite: r08-thepaper-2018-07-17-luo-min-verdict }
     - { title: 云南省农村信用社联合社理事长、党委书记, sys: other, place: 云南, from: 2013-08, to: 2017-06, cite: r08-thepaper-2018-07-17-luo-min-verdict }
-  cites: [r08-jiemian-2019-01-23-wan-renli-verdict, r08-thepaper-2018-07-17-luo-min-verdict]
+  cites: [r08-jiemian-2019-01-23-wan-renli-verdict, r08-thepaper-2018-07-17-luo-min-verdict, bd2-people-2017-06-06-wan-renli]
 
 - id: lou-he
   name: 娄河
   verify: true
   gender: m
+  born: 1965-11
+  birthplace: 辽宁北镇
   roles: [biz]
   status: detained
   statusNote: 2023 年 9 月锦州中院判决其团伙 48 人无期徒刑至有期徒刑 1 年 8 个月；报道未写明他本人的刑期。
@@ -1372,7 +1380,7 @@
   bio: >-
     1990 年代起在锦州北镇开设多家赌场，积累资本后开设房地产、矿产、酒店、旅游、物流等公司。法院查明他围猎十余名公职人员充当保护伞，支出贿金 1.22 亿元，
     其中行贿王立科 7350 万元，另行贿锦州市公安局副局长刘武仁、锦州中院副院长杨德顺等人。王立科被组织审查后他开始潜逃，2020 年 11 月在吉林落网。
-  cites: [r08-bjnews-2023-12-24-lou-he-verdict]
+  cites: [r08-bjnews-2023-12-24-lou-he-verdict, bd2-qq-2022-01-15-lou-he]
 
 - id: ma-shaowei
   name: 马少伟
@@ -1397,8 +1405,9 @@
 # ───── CS1 其他：山西、华润、证监会、辽宁 ─────
 - id: xie-kemin
   name: 谢克敏
-  verify: true
   gender: m
+  born: 1962-04
+  birthplace: 山西潞城
   roles: [tiger]
   status: purged
   statusNote: 2014 年 7 月被开除党籍和行政开除，受贿、贪污问题移送司法机关；未见审判消息。
@@ -1412,7 +1421,7 @@
   positions:
     - { title: 山西省高平市市长、市委书记, sys: gov, place: 山西, to: 2013-06, cite: r08-chinanews-2014-08-26-xie-kemin-gaoping }
     - { title: 山西省监察厅副厅长, sys: gov, place: 山西, cite: r08-people-2014-07-05-xie-kemin-expel }
-  cites: [r08-people-2014-07-05-xie-kemin-expel, r08-chinanews-2014-08-26-xie-kemin-gaoping]
+  cites: [r08-people-2014-07-05-xie-kemin-expel, r08-chinanews-2014-08-26-xie-kemin-gaoping, bd2-people-2014-03-06-xie-kemin]
 
 - id: zhou-jiping
   name: 周吉平
@@ -1433,8 +1442,8 @@
 
 - id: wang-wenzhi
   name: 王文志
-  verify: true
   gender: m
+  born: 1979-02
   roles: [media]
   status: active
   tier: 2
@@ -1445,7 +1454,7 @@
     新华社《经济参考报》首席记者。2013 年 7 月 17 日在微博实名举报华润集团董事长宋林等在收购山西金业资产中“故意放水”，造成数十亿元国资流失；
     2014 年 4 月 15 日再次实名举报宋林包养情妇并涉嫌贪腐，两天后中央纪委宣布宋林接受组织调查。2015 年他又实名举报中彩在线违规运营和利益输送，
     揭开福彩腐败窝案，此后被中彩在线总经理贺文起诉。
-  cites: [cs1-bbc-2014-04-15-cr-probe, r08-chinanews-2014-04-17-wang-wenzhi-report, cs1-bbc-2014-04-16-wang-wenzhi, r08-sina-2018-11-24-he-wen-caijing]
+  cites: [cs1-bbc-2014-04-15-cr-probe, r08-chinanews-2014-04-17-wang-wenzhi-report, cs1-bbc-2014-04-16-wang-wenzhi, r08-sina-2018-11-24-he-wen-caijing, bd2-zgjx-2022-11-01-wang-wenzhi]
 
 - id: li-jianjun-cr
   name: 李建军
@@ -1549,8 +1558,8 @@
 
 - id: cheng-boming
   name: 程博明
-  verify: true
   gender: m
+  born: 1962
   roles: [biz]
   status: purged
   statusNote: 2016 年 12 月以非国家工作人员受贿罪被判有期徒刑 3 年 6 个月。
@@ -1566,7 +1575,7 @@
     证据来自他给安徽老乡办事，对方在安徽老家为他购地建房，案值几十万元。
   positions:
     - { title: 中信证券股份有限公司总经理, sys: other, from: 2010, to: 2015-09, cite: cs5-sina-2017-11-13-cheng-boming }
-  cites: [r08-people-2015-09-16-cheng-boming-probe, cs5-sina-2017-11-13-cheng-boming]
+  cites: [r08-people-2015-09-16-cheng-boming-probe, cs5-sina-2017-11-13-cheng-boming, bd2-chinanews-2015-09-16-cheng-boming]
 
 - id: zhuang-xinyi
   name: 庄心一
@@ -1654,8 +1663,9 @@
 
 - id: zhang-huayu
   name: 张华宇
-  verify: true
   gender: m
+  born: 1958-10
+  birthplace: 河南民权
   roles: [tiger]
   status: detained
   statusNote: 2023 年 8 月被菏泽中院以受贿罪、利用影响力受贿罪数罪并罚判处有期徒刑 12 年 6 个月。
@@ -1671,7 +1681,7 @@
   positions:
     - { title: 中国光大银行总行营业部党组书记、主任, sys: other, from: 2001-02, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
     - { title: 中国光大银行党委委员、副书记、副行长, sys: other, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
-  cites: [r08-ccdi-2022-07-04-zhang-huayu-expel, r08-xinhua-2023-08-11-zhang-huayu-verdict]
+  cites: [r08-ccdi-2022-07-04-zhang-huayu-expel, r08-xinhua-2023-08-11-zhang-huayu-verdict, bd2-xinhua-2022-07-04-zhang-huayu]
 
 - id: li-feng-ln
   name: 李峰
@@ -1694,8 +1704,9 @@
 
 - id: fang-wei
   name: 方威
-  verify: true
   gender: m
+  born: 1973-09
+  birthplace: 辽宁沈阳
   roles: [biz]
   status: purged
   statusNote: 2014 年 5 月因涉嫌违法犯罪被罢免全国人大代表；2016 年 9 月被确定为辽宁拉票贿选当选无效的 45 人之一。
@@ -1710,7 +1721,7 @@
   bio: >-
     抚顺炭素有限责任公司总工程师、辽宁方大集团董事局主席、北京方大炭素科技有限公司董事长，2013 年由辽宁省选为第十二届全国人大代表。
     2014 年 5 月以涉嫌违法犯罪被罢免代表职务；2016 年 9 月全国人大常委会查实辽宁拉票贿选案，确定他在内的 45 名全国人大代表当选无效。未见对他的起诉或审判消息。
-  cites: [r08-gov-2014-06-27-fang-wei-recall, r08-people-2016-09-13-fang-wei-npc, cs1-npc-2016-09-13-liaoning-invalid-report]
+  cites: [r08-gov-2014-06-27-fang-wei-recall, r08-people-2016-09-13-fang-wei-npc, cs1-npc-2016-09-13-liaoning-invalid-report, bd2-mnw-2014-fang-wei]
 
 - id: li-zhaoqian
   name: 李兆前

@@ -73,6 +73,7 @@ liu-xinyun:
     yuan: 13330000
     text: 1998 年至 2021 年受贿共计折合人民币 1333 万余元
     cite: r05-xinhua-2022-09-21-liu-xinyun-verdict
+  sentence: { date: 2022-09-21, term: years, years: 14, cite: r05-xinhua-2022-09-21-liu-xinyun-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -991,6 +992,10 @@ yin-jiaxu:
     level: none
     why: 通报集中在“靠企吃企”、纵容亲属经商和国有资产损失，没有政治团伙一类的定性；本站所见报道也未把他与派系清洗联系起来。
     cites: [r05-xinhua-2021-09-30-yin-jiaxu-expel]
+  fall:
+    - { date: 2021-11-30, text: 经最高人民检察院指定，上海市人民检察院第二分院以涉嫌受贿罪、为亲友非法牟利罪向上海市第二中级人民法院提起公诉, cite: c16-spp-2021-11-30-yin-jiaxu-charge }
+  status: detained
+  statusNote: 2021 年 10 月被最高检决定逮捕，11 月被提起公诉；本站未查到公开的审判结果。
 
 xiao-yi:
   sys: local

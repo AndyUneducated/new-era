@@ -259,8 +259,9 @@
 
 - id: zhou-zhixing
   name: 周志兴
-  verify: true
   gender: m
+  born: 1952
+  birthplace: 江苏常州
   roles: [media]
   status: active
   tier: 2
@@ -271,7 +272,7 @@
   positions:
     - { title: 中央文献出版社副社长, sys: party, from: 1987, cite: c09-voa-2016-10-02-gongshi }
     - { title: 立德共识（北京）网络传媒科技有限公司执行长, sys: other, cite: c09-rfi-2016-10-03-gongshi }
-  cites: [c09-rfi-2016-10-03-gongshi, c09-voa-2016-10-02-gongshi, i02-rfi-2016-10-02-gongshi]
+  cites: [c09-rfi-2016-10-03-gongshi, c09-voa-2016-10-02-gongshi, i02-rfi-2016-10-02-gongshi, bd2-asite-zhou-zhixing-book]
 
 # --- 领导人家属 ---
 - id: wang-yeping

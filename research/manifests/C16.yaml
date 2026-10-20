@@ -1,0 +1,110 @@
+# C16 sources: later charge / trial / verdict reports for people whose case record stopped at probe or expulsion
+web:
+  - id: c16-people-2026-10-20-yang-xiaowei-verdict
+    title: 全国政协教科卫体委员会原副主任杨小伟受贿案一审宣判
+    publisher: 人民网
+    date: 2026-10-20
+    voice: official
+    url: http://society.people.com.cn/n1/2026/1020/c1008-40818400.html
+    start: 2026年10月20日，湖北
+    end: 旁听了庭审。
+  - id: c16-spp-2018-09-20-wang-xiaolin-charge
+    title: 河北检察机关依法对王晓林涉嫌受贿案提起公诉
+    publisher: 最高人民检察院
+    date: 2018-09-20
+    voice: official
+    url: "https://login.12309.gov.cn:8443/spp/qwfb/201809/t20180920_393220.shtml"
+    start: 近日，国家能源局原党组成员
+    end: 追究其刑事责任。
+  - id: c16-spp-2021-11-30-yin-jiaxu-charge
+    title: 上海检察机关依法对尹家绪涉嫌受贿、为亲友非法牟利一案提起公诉
+    publisher: 最高人民检察院
+    date: 2021-11-30
+    voice: official
+    url: "https://login.12309.gov.cn:8443/spp/qwfb/202111/t20211130_537251.shtml"
+    start: 中国兵器工业集团有限公司原党组
+    end: 追究其刑事责任。
+  - id: c16-spp-2024-03-22-li-maorong-charge
+    title: 江西检察机关依法对李茂荣涉嫌受贿案提起公诉
+    publisher: 最高人民检察院
+    date: 2024-03-22
+    voice: official
+    url: "https://login.12309.gov.cn:8443/spp/qwfb/202403/t20240322_650122.shtml"
+    start: 日前，江西省上饶市政府原党组
+    end: 追究其刑事责任。
+  - id: c16-jjjcy-2025-01-14-work-report
+    title: 2024 年九江市人民检察院工作报告
+    publisher: 九江市人民检察院
+    date: 2025-01-14
+    voice: official
+    url: https://www.jiujiang.jcy.gov.cn/gzbg/202501/t20250114_6798765.shtml
+    start: 各位代表：
+    end: 判处李茂荣有期徒刑十一年，并处罚金人民币400万元。
+  - id: c16-ycjcy-2025-02-06-work-report
+    title: 2024 年宜春市人民检察院工作报告
+    publisher: 宜春市人民检察院
+    date: 2025-02-06
+    voice: official
+    url: http://www.yichun.jcy.gov.cn/jcgzbg/202502/t20250206_6819875.shtml
+    start: 各位代表：
+    end: 宜春篇章作出更大贡献！
+  - id: c16-swjcy-2026-06-08-work-report
+    title: 2025 年汕尾市人民检察院工作报告
+    publisher: 汕尾市人民检察院
+    date: 2026-06-08
+    voice: official
+    url: http://www.swjcy.gov.cn/sjcy/gzbg/202606/888ab674dcfc452c89af8630213c90dc.shtml
+    start: 各位代表：
+    end: 作出新的更大贡献！
+  - id: c16-hnzf-2025-02-18-zhuzhou-courts
+    title: 株洲两级法院 2024 年工作回顾
+    publisher: 湖南长安网
+    date: 2025-02-18
+    voice: official
+    url: https://www.hnzf.gov.cn/content/646946/52/14712076.html
+    start: 2024年，株洲全市两级法院
+    end: 让裁判更“接地气”“贴民意”。
+  - id: c16-chinanews-2009-04-19-wang-weigong-verdict
+    title: 申能集团原副总经理王维工受贿1293万一审判死缓
+    publisher: 中新网
+    date: 2009-04-19
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2009/04-19/1652754.shtml
+    start: 昨天（17日）上午
+    end: 遂依法作出上述判决。
+  - id: c16-caixin-2018-06-06-tan-hong-commute
+    title: 周永康原警卫秘书谈红拟减刑 曾因受贿获刑十年
+    publisher: 财新网
+    date: 2018-06-06
+    voice: zh
+    url: https://china.caixin.com/2018-06-06/101264376.html
+    excerpt: true
+    keep:
+      - 据北京法院审判信息网信息，6月5日，北京市第二中级法院发布了关于审理谈红减刑案件的公示
+      - 2018年6月1日，刑罚执行机关以谈红获得表扬五次为由
+      - 在周永康落马前的2014年7月2日
+  - id: c16-cna-2023-06-10-dai-chunning
+    title: 中共海外放貸弊端重重 貪腐高官收賄至少8.6億
+    publisher: 中央社
+    date: 2023-06-10
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202306100048.aspx
+    excerpt: true
+    keep:
+      - 據華爾街日報目睹的法庭證詞
+      - 檢方指控戴春寧單獨或夥同他人收賄超過人民幣
+      - 法院文件顯示，戴春寧的定罪與2004年中國和安哥拉基礎設施貸款協議有關
+      - 雖然戴春寧因貪污公款等罪被判處死緩
+  - id: c16-thepaper-2018-05-28-li-jiangong-auction
+    title: 3752余万！山西国土厅落马厅长涉案北京朝阳区房产被拍卖
+    publisher: 澎湃新闻
+    date: 2018-05-28
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2158363
+    excerpt: true
+    keep:
+      - 《执行裁定书》显示，被执行人李建功
+      - 《执行裁定书》显示，太原市中级人民法院依据
+      - 2014年11月，李建功在山西省国土厅厅长任上落马
+      - 2015年6月，时任山西省纪委书记黄晓薇透露
+      - 李建功案的具体判决情况尚未公开

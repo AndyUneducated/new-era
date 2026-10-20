@@ -1084,14 +1084,15 @@
   headline: 河南省人大常委会主任，前广西、河南党委书记
   ids: { wikidata: Q30943929 }
   bio: >-
-    吉林临江人，十九届中央候补委员、二十届中央委员。水利工程师出身，曾任水利部副部长、青海省长和辽宁省长，2021 年起任广西壮族自治区党委书记，后任河南省委书记，现任河南省人大常委会主任。
+    吉林临江人，十九届中央候补委员、二十届中央委员。水利工程师出身，曾任水利部副部长、青海省长和辽宁省长，2021 年 10 月起任广西壮族自治区党委书记，2024 年 12 月调任河南省委书记，2025 年 1 月 21 日当选河南省人大常委会主任。
+    2026 年 9 月因年龄原因不再担任河南省委书记，由周祖翼接任；同月 24 日河南省人大常委会会议由副主任、党组书记李亚主持，截至 2026 年 10 月中旬未见其卸任省人大常委会主任的报道。
   positions:
     - { title: 青海省省长, sys: gov, place: 青海, from: 2018-08, to: 2020-06, cite: p01-wiki-liu-ning }
     - { title: 辽宁省省长, sys: gov, place: 辽宁, from: 2020-06, to: 2021-10, cite: p01-wiki-liu-ning }
-    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2021-10, cite: p01-wiki-liu-ning }
-    - { title: 河南省委书记, sys: party, place: 河南, cite: p01-wiki-liu-ning }
-    - { title: 河南省人大常委会主任, sys: gov, place: 河南, cite: p01-wiki-liu-ning }
-  cites: [wd-Q30943929, p01-wiki-liu-ning, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc]
+    - { title: 广西壮族自治区党委书记, sys: party, place: 广西, from: 2021-10, to: 2024-12, cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
+    - { title: 河南省委书记, sys: party, place: 河南, from: 2024-12, to: 2026-09, cite: u10-xinhua-2026-09-23-henan }
+    - { title: 河南省人大常委会主任, sys: gov, place: 河南, from: 2025-01-21, cite: bd2-xinhua-2025-01-21-liu-ning-npc }
+  cites: [wd-Q30943929, p01-wiki-liu-ning, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, p02-xinhua-2021-10-19-guangxi-yunnan-sec, p02-xinhua-2024-12-31-henan-guangxi-sec, bd2-xinhua-2025-01-21-liu-ning-npc, u10-xinhua-2026-09-23-henan, bd2-henandaily-2026-09-25-npc-26th-close]
 
 - id: liu-faqing
   name: 刘发庆

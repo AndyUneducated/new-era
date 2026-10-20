@@ -471,6 +471,11 @@ dai-chunning:
     level: none
     why: 通报只涉贪污、受贿和通奸，未见政治定性或派系关联的可靠报道。
     cites: [r01-ccdi-2014-06-05-dai-chunning-expel]
+  amount: { yuan: 200000000, text: 据《华尔街日报》所见文件，检方指控其单独或伙同他人收受贿赂超过人民币 2 亿元（检方指控数，法院认定数未公开）, cite: c16-cna-2023-06-10-dai-chunning }
+  fall:
+    - { date: 2020, text: 中央社引《华尔街日报》所见法院文件报道，他已因贪污公款等罪被判处死缓，2020 年减为无期徒刑；检方指控其收受贿赂超过 2 亿元, cite: c16-cna-2023-06-10-dai-chunning }
+  status: detained
+  statusNote: 据《华尔街日报》所见法院文件，已因贪污等罪被判处死缓，2020 年减为无期徒刑；国内未公开报道其判决。
 
 chen-anzhong:
   sys: local
@@ -881,6 +886,10 @@ zhao-zhiyong:
     level: none
     why: 2014 年的通报只说他“利用职务上的便利谋取私利”，未移送司法；2023 年又被江西省监委调查。未见把他与落马高官或派系相连的可靠报道。
     cites: [r01-ccdi-2014-07-16-zhao-zhiyong-expel, t01-ce-2023-11-20-zhao-zhiyong-probe]
+  fall:
+    - { date: 2025-02-06, text: 宜春市人民检察院公布的 2024 年工作报告称，其已在 2024 年被该院依法提起公诉, cite: c16-ycjcy-2025-02-06-work-report }
+  status: purged
+  statusNote: 2014 年被开除党籍、降为科员；2024 年 2 月涉嫌受贿、利用影响力受贿犯罪移送审查起诉，同年被宜春市检察院提起公诉；判决未见公开报道。
 
 su-rong:
   sys: central

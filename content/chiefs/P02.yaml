@@ -8,7 +8,7 @@
 - { prov: 河南, post: sec, name: 谢伏瞻, from: "2016-03", to: "2018-03", cite: p02-wiki-henan-sec }
 - { prov: 河南, post: sec, name: 王国生, from: "2018-03", to: "2021-05", cite: p02-wiki-henan-sec }
 - { prov: 河南, post: sec, name: 楼阳生, person: lou-yangsheng, from: "2021-05", to: "2024-12", note: "名录作 2021 年 5 月；维基传记作 2021 年 6 月 1 日", cite: p02-wiki-henan-sec }
-- { prov: 河南, post: sec, name: 刘宁, from: "2024-12", to: "2026-09", cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
+- { prov: 河南, post: sec, name: 刘宁, person: liu-ning, from: "2024-12", to: "2026-09", cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
 - { prov: 河南, post: sec, name: 周祖翼, person: zhou-zuyi, from: "2026-09", cite: p02-xinhua-2026-09-23-anhui-3-sec }
 - { prov: 河南, post: gov, name: 李克强, person: li-keqiang, from: "1998-07", to: "2003-01", cite: p02-wiki-henan-gov }
 - { prov: 河南, post: gov, name: 李成玉, person: li-chengyu, from: "2003-01", to: "2008-04", note: "卸任月份据传记；名录作 2008 年 3 月", cite: p02-wiki-li-chengyu }
@@ -89,7 +89,7 @@
 - { prov: 广西, post: sec, name: 郭声琨, person: guo-shengkun, from: "2007-12", to: "2012-12", cite: p02-wiki-guangxi-sec }
 - { prov: 广西, post: sec, name: 彭清华, person: peng-qinghua, from: "2012-12", to: "2018-03", cite: p02-wiki-guangxi-sec }
 - { prov: 广西, post: sec, name: 鹿心社, from: "2018-03", to: "2021-10", cite: p02-wiki-guangxi-sec }
-- { prov: 广西, post: sec, name: 刘宁, from: "2021-10", to: "2024-12", cite: p02-xinhua-2021-10-19-guangxi-yunnan-sec }
+- { prov: 广西, post: sec, name: 刘宁, person: liu-ning, from: "2021-10", to: "2024-12", cite: p02-xinhua-2021-10-19-guangxi-yunnan-sec }
 - { prov: 广西, post: sec, name: 陈刚, person: chen-gang-1965, from: "2024-12", cite: p02-xinhua-2024-12-31-henan-guangxi-sec }
 - { prov: 广西, post: gov, name: 李兆焯, person: li-zhaozhuo, from: "1998-01", to: "2003-04", cite: p02-wiki-guangxi-gov }
 - { prov: 广西, post: gov, name: 陆兵, person: lu-bing, from: "2003-04", to: "2007-12", cite: p02-wiki-guangxi-gov }
@@ -298,8 +298,8 @@
 - { prov: 青海, post: gov, name: 郝鹏, person: hao-peng, from: "2013-04", to: "2016-12", cite: f07-wiki-hao-peng }
 - { prov: 青海, post: gov, name: 王建军, from: "2016-12", to: "2017-01", acting: true, note: "代省长", cite: p02-wiki-wang-jianjun }
 - { prov: 青海, post: gov, name: 王建军, from: "2017-01", to: "2018-08", cite: p02-wiki-wang-jianjun }
-- { prov: 青海, post: gov, name: 刘宁, from: "2018-08", to: "2018-09", acting: true, note: "代省长", cite: p01-wiki-liu-ning }
-- { prov: 青海, post: gov, name: 刘宁, from: "2018-09", to: "2020-07", cite: p01-wiki-liu-ning }
+- { prov: 青海, post: gov, name: 刘宁, person: liu-ning, from: "2018-08", to: "2018-09", acting: true, note: "代省长", cite: p01-wiki-liu-ning }
+- { prov: 青海, post: gov, name: 刘宁, person: liu-ning, from: "2018-09", to: "2020-07", cite: p01-wiki-liu-ning }
 - { prov: 青海, post: gov, name: 信长星, from: "2020-08-01", to: "2020-08-26", acting: true, note: "代省长", cite: p02-wiki-xin-changxing }
 - { prov: 青海, post: gov, name: 信长星, from: "2020-08-26", to: "2022-03", cite: p02-wiki-xin-changxing }
 - { prov: 青海, post: gov, name: 吴晓军, person: wu-xiaojun, from: "2022-03-31", to: "2022-05-28", acting: true, note: "代省长", cite: p02-xinhua-2022-03-31-wu-xiaojun-acting }

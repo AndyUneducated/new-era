@@ -56,6 +56,10 @@ yao-qian:
     why: 通报只涉及科技监管、信息系统采购和虚拟货币受贿，未见政治关联报道
     cites: [r10-csrc-2024-11-20-yao-qian-expel]
   outcome: expelled
+  fall:
+    - { date: 2025, text: 经最高人民检察院指定管辖，汕尾市人民检察院以受贿罪对其提起公诉；该院 2025 年工作报告称此案为全国首例公开通报的虚拟货币贪腐案, cite: c16-swjcy-2026-06-08-work-report }
+  status: purged
+  statusNote: 2024 年 11 月被开除党籍和公职，2025 年被汕尾市检察院提起公诉；判决未见公开报道。
 
 chen-gongyan:
   sys: finance
@@ -105,7 +109,11 @@ an-qingsong:
     level: none
     why: 通报列有私藏政治问题书籍等政治纪律问题，但具体问题是股权分置改革、发行和重组审核中的受贿，未见与落马高官或派系相连的报道
     cites: [r10-csrc-2024-05-14-an-qingsong-expel]
-  outcome: expelled
+  outcome: sentenced
+  fall:
+    - { date: 2025-02-18, text: 株洲法院 2024 年工作回顾称，其案已在当年审结，与另外 4 名原中管、省管干部被依法惩处；刑期未公开, cite: c16-hnzf-2025-02-18-zhuzhou-courts }
+  status: detained
+  statusNote: 2024 年 7 月被株洲市检察院提起公诉，同年株洲法院审结，称其被依法惩处；刑期未见公开报道。
 
 ling-feng:
   sys: finance
@@ -522,6 +530,10 @@ guo-xingang:
     cites: [r10-bjnews-2024-12-02-guo-xingang-expel]
   retired: 2020-05
   outcome: expelled
+  fall:
+    - { date: 2025-02-06, text: 宜春市人民检察院公布的 2024 年工作报告称，其已在 2024 年被该院依法提起公诉, cite: c16-ycjcy-2025-02-06-work-report }
+  status: purged
+  statusNote: 2024 年 12 月被宜春市检察院决定逮捕，同年被提起公诉；判决未见本站来源。
 
 xu-xilong:
   sys: finance
