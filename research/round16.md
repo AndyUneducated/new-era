@@ -53,6 +53,15 @@ PH8、PH9 已把百科能找到的基本收完。`research/lists/R16-photo-next.
 
 目标：122 人中收 50–80 人。
 
+## CS8：军工、能源央企负责人连串去职专题，K07/K08 建议的卡和事件
+
+只碰 `content/cases/CS8.yaml`、`content/people/CS8.yaml`、`content/falls/CS8.yaml`、`research/roster/CS8.yaml`、`content/events/CS8.yaml`。做法同 CS7（`content/cases/CS7.yaml`、howto §13）。
+
+1. 专题一篇（id `soe-chiefs-2024`，kind 视内容用 cluster）：2024–2026 年军工、能源央企负责人接连被撤销政协委员资格、罢免人大代表、从官网撤下或被查。串起曹建国、张冬辰、曾毅、樊友山、刘国跃、俞培根、宋致远、高涛、张红文、刘仓理、周新民、马正武、王行环等（先 Grep 已有卡，K07、K08 刚建了一批）。讲清每人何时、何种方式出局，官方措辞，与装备系统、火箭军清洗的关系；编者分析单列 `editor`，传闻只进 voices。
+2. 缺卡：王行环（2025-12 与刘国跃等同批被撤销政协委员资格）；K08 建议的 huang-sanping、ren-jianhua、liu-fei、guo-wenqi、chen-youan、gao-lin，确认与已有人物的前后任关系有可靠来源后建 tier 2 卡（关系不写，回报里列出，由维护者另行处理）。
+3. 事件（`content/events/CS8.yaml`，不超过 8 条，先 Grep `content/events/` 防重）：2025-12 盘锦、滁州人大罢免高涛、张红文省人大代表；海军政委更替（袁华智撤下、冷少杰、胡瑜海）；2013-04 航天科技、航天科工设董事会换帅；2016-05 中央纪委派驻纪检组集中换人。没有可靠来源的不建。
+4. 专题 `people` 全部有卡，`events` 只用已有或本批新建的事件 id。
+
 ## 完成时回报
 
 按 howto §9。另写：新建条目数；仍缺的及原因；事实冲突及处理；建议新增的事件、专题。
