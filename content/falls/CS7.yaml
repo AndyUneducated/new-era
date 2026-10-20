@@ -1,0 +1,45 @@
+# CS7 — case records for navy and air force officers whose cards had none
+liu-yazhou:
+  sys: army
+  grade: general
+  trigger:
+    kind: unknown
+    text: 官方从未通报；只有港媒和海外媒体报道他被查、被判，线索来源不明
+    cite: c05-zaobao-2023-04-14-liu-yazhou
+  politics:
+    level: none
+    why: 太子党出身的退役空军上将；报道把他被查与腐败和“不当言论”联系起来，但没有可靠来源把他与某一落马高官或派系案件连在一起。
+    cites: [c05-zaobao-2023-04-14-liu-yazhou, c05-voa-2024-03-23-liu-yazhou]
+  voices:
+    - { voice: zh, text: 联合早报 2023 年 4 月转引《星岛日报》，称军委纪委已完成调查，将他移送军队司法系统；有关人士分析，除腐败问题外，也可能与他在一些重大问题上发表过不当言论有关, cite: c05-zaobao-2023-04-14-liu-yazhou }
+    - { voice: west, text: 美国之音 2024 年 3 月引述旅美学者王军涛，称他 2023 年底已被处以终身监禁，并指出案情和判决至今没有任何官方通报或证实, cite: c05-voa-2024-03-23-liu-yazhou }
+  outcome: missing
+  retired: 2017
+
+wang-zhongcai:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 官方从未提及；只有美国智库 CSIS 推测他约在 2025 年 3 月被清洗
+    cite: b08-csis-2026-02-purges
+  with:
+    - { id: lin-xiangyang, name: 林向阳, rel: colleague, text: 东部战区司令员，CSIS 称其 2025 年 3 月被拘，王仲才可能约在同时被清洗, cite: b08-csis-2026-02-purges }
+  politics:
+    level: none
+    why: 东部战区副司令员兼战区海军司令员；CSIS 只是把他可能被清洗的时间与林向阳被拘放在一起，没有官方说法，也没有可靠报道指明他涉入哪一案。
+    cites: [b08-csis-2026-02-purges]
+  outcome: missing
+
+kong-jun:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 官方从未提及；只有美国智库 CSIS 推测他到 2025 年 1 月下旬很可能已被清洗
+    cite: b08-csis-2026-02-purges
+  politics:
+    level: none
+    why: 曾任海军陆战队司令员、东部战区陆军司令员；CSIS 把他列为东部战区较早被清洗的将领，但没有官方说法，也没有可靠报道指明他涉入哪一案。
+    cites: [b08-csis-2026-02-purges]
+  outcome: missing

@@ -1,0 +1,84 @@
+# CS7: navy and air force case articles
+web:
+  # --- official ---
+  - id: cs7-mod-2025-11-07-fujian-carrier
+    title: 我国第一艘电磁弹射型航空母舰入列 习近平出席入列授旗仪式并登舰视察
+    publisher: 国防部网（新华社）
+    date: 2025-11-07
+    voice: official
+    url: http://www.mod.gov.cn/gfbw/sy/tt_214026/16420343.html
+    start: 新华社三亚11月7日电
+    end: 负责同志参加仪式。
+  - id: cs7-gov-2025-12-22-generals-promoted
+    title: 中央军委举行晋升上将军衔仪式 习近平颁发命令状并向晋衔的军官表示祝贺
+    publisher: 中国政府网（新华社）
+    date: 2025-12-22
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202512/content_7052406.htm
+    start: 新华社北京12月22日电
+    end: 等参加晋衔仪式。
+  # --- media ---
+  - id: cs7-cna-2023-11-09-ding-laihang
+    title: 港媒：共軍反貪風暴擴及空軍
+    publisher: 中央通讯社
+    date: 2023-11-09
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202311090050.aspx
+    excerpt: true
+    keep: [ 外傳前空軍司令丁來杭正接受調查, 據傳前空軍司令, 北京西郊機場的工程貪腐案, 有關丁來杭的傳言未知真假 ]
+  - id: cs7-zaobao-2025-12-18-air-force-procurement
+    title: 中国军方公开征集空军违规采购问题线索
+    publisher: 联合早报
+    date: 2025-12-18
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251218-7983858
+    excerpt: true
+    keep: [ （北京综合讯）在北京持续推进军队反腐之际, 主要受理空军部队组织开展的物资, 首次针对某一具体军种, 军事采购是北京打击解放军腐败的重点领域之一, 空军受到的影响相对小于其他军种 ]
+  - id: cs7-caixin-2025-12-23-air-force-theaters
+    title: 人事观察｜杨志斌、韩胜延晋上将 空军将领掌舵两大战区
+    publisher: 财新网
+    date: 2025-12-23
+    voice: zh
+    url: https://china.caixin.com/2025-12-23/102396209.html
+    excerpt: true
+    keep: [ 韩胜延在2025年9月抗战胜利80周年阅兵中担任总指挥, 两名空军将领杨志斌、韩胜延晋升上将军衔 ]
+  - id: cs7-caixin-2026-07-03-wang-gang
+    title: 人事观察｜军委纪委书记张曙光、空军司令员王刚晋升上将
+    publisher: 财新网
+    date: 2026-07-03
+    voice: zh
+    url: https://china.caixin.com/2026-07-03/102460532.html
+    excerpt: true
+    keep: [ 常丁求不再担任空军司令员, 空军司令员王刚颁发命令状 ]
+  - id: cs7-epoch-2026-07-03-chang-dingqiu
+    title: 王刚升任中共空军司令 传前司令常丁求猝死
+    publisher: 大纪元
+    date: 2026-07-04
+    voice: zh
+    rumor: true
+    url: https://www.epochtimes.com/gb/26/7/3/n14802389.htm
+    excerpt: true
+    keep: [ 半年前有消息称常丁求, 留置约谈期间”，突发心梗去世, 13名上将人大代表与5名上将政协常委异常缺席 ]
+  - id: cs7-thepaper-2016-05-20-zhang-zheng
+    title: 辽宁舰舰长张峥大校已出任海军参谋长助理
+    publisher: 澎湃新闻
+    date: 2016-05-20
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1472165
+    excerpt: true
+    keep: [ 张峥 ]
+  # --- scholars ---
+  - id: cs7-cmsi-2026-07-zhang-zheng
+    title: "CMSI Note 23: Vice Admiral Zhang Zheng Likely at the Helm — the PLA Navy's Apparent New Most Senior Officer"
+    publisher: China Maritime Studies Institute (via andrewerickson.com)
+    author: Jordan Shaw, Andrew S. Erickson, Christopher Sharman
+    date: 2026-07-29
+    voice: scholar
+    lang: en
+    url: https://www.andrewerickson.com/2026/07/cmsi-note-23-vice-admiral-zhang-zheng-likely-at-the-helm-the-pla-navys-apparent-new-most-senior-officer/
+    excerpt: true
+    keep: [ appears to have been promoted to the most senior billet, absence from publicly reported official PLAN activities since May 2025, this was the clearest sign that VADM Zhang had assumed, most senior billet around December 2025, have not explicitly confirmed, amid the removal of numerous other PLAN leaders, Hu Yuhai ]
+  # --- wiki ---
+  - { id: cs7-wiki-zhang-zheng, title: 张峥（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张峥", excerpt: true, keep: [ 张峥（1969年9月—）, 张峥出生于军人家庭, 2016年5月前, 2017年，任山东号 ] }
+  - { id: cs7-wiki-yang-zhibin, title: 杨志斌（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨志斌", excerpt: true, keep: [ 杨志斌（1963年4月—）, 曾任南京军区空军航空兵第26师师长, 2011年7月晋升空军少将军衔 ] }
+  - { id: cs7-wiki-han-shengyan, title: 韩胜延（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/韩胜延", excerpt: true, keep: [ 韩胜延（1963年5月—）, 1979年7月入伍, 1990年代初, 2009年晋升空军少将军衔 ] }

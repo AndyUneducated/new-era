@@ -1,0 +1,101 @@
+# CS7 — navy and air force events missing from the timeline
+- id: cs7-2014-ma-faxiang-death
+  date: 2014-11-13
+  title: 海军副政委马发祥去世，港媒称跳楼
+  lane: army
+  summary: 海军副政委马发祥中将2014年11月13日去世。据财新转述的《人民海军》报，他在北京因病逝世，12月1日在八宝山火化，海军司令员吴胜利等出席告别仪式；美国之音引述《南华早报》称，他从海军大院一栋楼的15层跳下身亡，此前曾被军纪委约谈，疑与贪腐有关，官方从未确认。他曾任海军装备研究院政委、海军政治部主任。
+  people: [ma-faxiang, wu-shengli]
+  voices:
+    - voice: west
+      text: 这是三个月内，第二名解放军海军高官疑因涉嫌贪腐跳楼自杀。
+      cite: c11-voa-2014-11-18-ma-faxiang
+      quote: true
+  cites: [c11-caixin-2014-12-05-ma-faxiang, c11-voa-2014-11-18-ma-faxiang]
+
+- id: cs7-2014-miao-hua-navy-commissar
+  date: 2014-12-25
+  title: 苗华由兰州军区调任海军政委
+  lane: army
+  summary: 据澎湃新闻，2014年12月25日亚丁湾护航6周年视频慰问活动由“海军政治委员苗华主持”，显示兰州军区政委苗华已接替到龄退役的刘晓江出任海军政委。苗华此前长期在陆军和兰州军区任职，并非海军出身；同月29日的海军将官晋衔仪式即由他主持。2017年8月，原军委办公厅主任秦生祥接任海军政委。
+  people: [miao-hua, liu-xiaojiang, qin-shengxiang, wu-shengli]
+  factions: [he-miao]
+  cites: [f06-thepaper-2015-02-27-generals-npc, f10-rfi-2025-06-27-li-hanjun, f10-wiki-qin-shengxiang]
+
+- id: cs7-2016-tian-xiusi-probe
+  date: 2016-07-09
+  title: 空军原政委田修思被立案审查
+  lane: purge
+  summary: 新华社报道，空军原政委田修思上将因涉嫌严重违纪被军委纪委立案审查。他曾任南疆军区、成都军区政委和空军政委，2015年8月转任全国人大外事委员会副主任委员。BBC中文网称，中国媒体注意到他与徐才厚、郭伯雄和薄熙来都有不少往来。2017年10月十八届七中全会确认开除其党籍。
+  people: [tian-xiusi, xu-caihou, guo-boxiong]
+  factions: [guo-xu]
+  voices:
+    - voice: official
+      text: 近日，空军原政委田修思因涉嫌严重违纪被立案审查。
+      cite: c03-xinhua-2016-07-09-tian-xiusi-probe
+      quote: true
+  cites: [c03-xinhua-2016-07-09-tian-xiusi-probe, c03-bbc-2016-07-09-tian-xiusi, c03-xinhua-2017-10-14-seventh-plenum]
+
+- id: cs7-2017-yang-shiguang-probe
+  date: 2017-04-05
+  title: 海军政治工作部主任杨世光据报被军委纪委调查
+  lane: army
+  summary: 2017年4月，香港《星岛日报》援引接近海军的消息称，海军政治工作部主任杨世光中将约于4月5日被“双规”，接受中央军委纪委调查，联合早报、自由亚洲电台随即转述。报道说他长期在海军从事政治工作，“可能被视为徐才厚余毒”。官方从未证实，也没有公布罢免或处分；本站未查到他此后的公开露面。
+  people: [yang-shiguang]
+  factions: [guo-xu]
+  voices:
+    - voice: zh
+      text: （传闻）据香港《动向》杂志，4月4日晚杨世光被通知到海军司令部参加紧急会议，由军委副主席许其亮、军委纪委书记张升民当场宣布停止其一切职务并留置审查。
+      cite: a01-kny-2017-05-20-navy-purge
+  cites: [a01-zaobao-2017-04-14-yang-shiguang, a01-rfa-2017-04-13-yang-shiguang]
+
+- id: cs7-2023-dong-jun-defense-minister
+  date: 2023-12-29
+  title: 前海军司令员董军任国防部长
+  lane: army
+  summary: 全国人大常委会2023年12月29日任命前海军司令员董军上将为国防部长，接替两个月前被免职的李尚福；同一天常委会公布九名将领被罢免全国人大代表。董军是首位出任国防部长的海军将领，任命时不是中央军委委员。海军司令员一职此前已由胡中明接任，胡中明同月晋升海军上将。
+  people: [dong-jun, li-shangfu, hu-zhongming]
+  voices:
+    - voice: zh
+      text: 中國從來沒有任命過一位非中央軍委成員當國防部長。
+      cite: u09-cna-2023-12-30-dong-jun
+      quote: true
+  cites: [u09-voa-2023-12-29-dong-jun, u09-cna-2023-12-30-dong-jun, k06-wiki-hu-zhongming]
+
+- id: cs7-2025-li-hanjun-removed
+  date: 2025-06-27
+  title: 海军参谋长李汉军被罢免全国人大代表
+  lane: army
+  summary: 全国人大常委会6月27日公告，海军军人代表大会决定罢免海军参谋长李汉军中将的全国人大代表职务；8月公布的代表资格审查报告写明，海军是在5月6日开会、以他“涉嫌严重违纪违法”为由罢免的。同一天常委会免去苗华的国家军委委员职务。法广指出，李汉军2014年底在苗华主持的晋衔仪式上晋升少将。
+  people: [li-hanjun, miao-hua]
+  factions: [he-miao]
+  cites: [f10-rfi-2025-06-27-li-hanjun, a02-guancha-2025-08-20-li-hanjun, a02-wikisource-npc-qualification-reports]
+
+- id: cs7-2025-fujian-carrier-commissioned
+  date: 2025-11-05
+  title: 福建舰入列，海军司令员未露面
+  lane: army
+  summary: 第三艘航母福建舰11月5日在海南三亚入列，习近平出席授旗仪式并登舰视察，军委副主席张升民主持。新华社通稿只写南部战区、海军等单位“负责同志参加仪式”，没有点名海军司令员。据中央社转述《金融时报》，央视画面中未见海军司令员胡中明和南部战区司令员吴亚男、政委王文全；胡中明此前已缺席四中全会。
+  people: [xi-jinping, hu-zhongming, wu-yanan, wang-wenquan]
+  voices:
+    - voice: zh
+      text: 3名原本被視為海軍指揮鏈中關鍵的軍官卻異常缺席。
+      cite: a02-cna-2025-11-14-ft-fujian
+      quote: true
+  cites: [cs7-mod-2025-11-07-fujian-carrier, a02-cna-2025-11-14-ft-fujian]
+
+- id: cs7-2025-air-force-procurement-notice
+  date: 2025-12-15
+  title: 军队采购网公开征集空军违规采购线索
+  lane: army
+  summary: 军队采购网12月15日发布《关于征集空军部队违规采购问题的公告》，受理空军部队物资、服务类采购中需求编制、采购评审、合同履约、招标代理机构遴选等环节的违规问题，供应商、评审专家和军内相关人员可实名邮寄反映，截止2026年6月30日。联合早报引《南华早报》称，这是解放军首次针对某一军种公开征集此类线索；此前装备发展部2023年7月曾公开征集装备采购线索。
+  people: []
+  factions: [equipment-system]
+  cites: [cs7-zaobao-2025-12-18-air-force-procurement]
+
+- id: cs7-2025-air-force-theater-commanders
+  date: 2025-12-22
+  title: 杨志斌、韩胜延晋升上将，空军将领执掌东部、中部战区
+  lane: army
+  summary: 中央军委12月22日举行晋升上将仪式，东部战区司令员杨志斌、中部战区司令员韩胜延晋升上将，两人都是空军将领；东部战区原司令员林向阳两个月前已被开除党籍、军籍。同一天，空军军人代表大会以“涉嫌严重违纪违法”为由罢免空军原政委于忠福的全国人大代表职务。维基百科记载，空军政委郭普校缺席了这次晋衔仪式。
+  people: [yang-zhibin, han-shengyan, lin-xiangyang, yu-zhongfu, guo-puxiao]
+  cites: [cs7-gov-2025-12-22-generals-promoted, cs7-caixin-2025-12-23-air-force-theaters, b08-mod-2025-10-17-nine-generals, a02-wikisource-npc-qualification-reports, f10-wiki-guo-puxiao]

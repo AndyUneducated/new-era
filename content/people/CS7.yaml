@@ -1,0 +1,72 @@
+# CS7 — people named in the navy and air force case articles
+- id: zhang-zheng-navy
+  name: 张峥
+  pinyin: Zhāng Zhēng
+  gender: m
+  born: 1969-09
+  birthplace: 浙江长兴
+  roles: [general]
+  status: active
+  statusNote: 维基百科称他 2025 年 9 月升任海军参谋长；美国海军战争学院中国海事研究所认为他最早从 2025 年 12 月起实际主持海军，官方没有明确宣布。
+  tier: 2
+  headline: 海军参谋长、海军中将，辽宁舰首任舰长
+  ids: { wikidata: Q9083522 }
+  bio: >-
+    上海交通大学自动控制系毕业，曾在英国国防语言学院和三军联合指挥与参谋学院深造。2012 年 9 月任辽宁舰首任舰长，2016 年任海军参谋长助理，2017 年任山东舰航母编队首任司令员，后任南部战区副参谋长。
+    中国海事研究所 2026 年 7 月据春节慰问视频的座次判断，海军司令员胡中明久未露面后，由他主持海军工作。
+  positions:
+    - { title: 辽宁舰舰长, sys: army, from: 2012-09, to: 2016-05, cite: cs7-thepaper-2016-05-20-zhang-zheng }
+    - { title: 海军参谋长助理, sys: army, from: 2016-05, cite: cs7-thepaper-2016-05-20-zhang-zheng }
+    - { title: 山东舰航母编队（91910 部队）司令员, sys: army, from: 2017, cite: cs7-wiki-zhang-zheng }
+    - { title: 南部战区副参谋长, sys: army, cite: cs7-wiki-zhang-zheng }
+    - { title: 海军参谋长, sys: army, from: 2025-09, cite: cs7-wiki-zhang-zheng }
+  cites: [wd-Q9083522, cs7-wiki-zhang-zheng, cs7-thepaper-2016-05-20-zhang-zheng, cs7-cmsi-2026-07-zhang-zheng]
+
+- id: yang-zhibin
+  name: 杨志斌
+  pinyin: Yáng Zhìbīn
+  gender: m
+  born: 1963-04
+  birthplace: 河南安阳
+  roles: [general]
+  status: active
+  statusNote: 2025 年 12 月以东部战区司令员身份晋升上将，现职。
+  tier: 2
+  headline: 东部战区司令员，空军上将（2025– ）
+  ids: { wikidata: Q97165065 }
+  bio: >-
+    空军航空兵出身，曾任南京军区空军航空兵第 26 师师长、空军武汉和福州指挥所司令员、兰州军区空军参谋长、陕西省军区司令员，2021 年任南部战区副司令员，2023 年调西部战区副司令员，2025 年 9 月调东部战区。
+    2025 年 12 月 22 日以东部战区司令员身份晋升上将，接替已被开除党籍、军籍的林向阳。
+  positions:
+    - { title: 南京军区空军航空兵第 26 师师长, sys: army, cite: cs7-wiki-yang-zhibin }
+    - { title: 空军福州指挥所司令员, sys: army, from: 2011, cite: cs7-wiki-yang-zhibin }
+    - { title: 兰州军区副参谋长兼兰州军区空军参谋长, sys: army, from: 2014-12, cite: cs7-wiki-yang-zhibin }
+    - { title: 陕西省军区司令员, sys: army, from: 2017-04, to: 2021-03, cite: cs7-wiki-yang-zhibin }
+    - { title: 南部战区副司令员, sys: army, from: 2021-03, to: 2023, cite: cs7-wiki-yang-zhibin }
+    - { title: 西部战区副司令员, sys: army, from: 2023, to: 2025-09, cite: cs7-caixin-2025-12-23-air-force-theaters }
+    - { title: 东部战区司令员, sys: army, from: 2025-12, cite: cs7-gov-2025-12-22-generals-promoted }
+  cites: [wd-Q97165065, cs7-wiki-yang-zhibin, cs7-gov-2025-12-22-generals-promoted, cs7-caixin-2025-12-23-air-force-theaters, f01-bbc-2026-01-27-zhang-youxia]
+
+- id: han-shengyan
+  name: 韩胜延
+  pinyin: Hán Shèngyán
+  gender: m
+  born: 1963-05
+  birthplace: 河北张家口
+  roles: [general]
+  status: active
+  statusNote: 2025 年 12 月以中部战区司令员身份晋升上将，现职。
+  tier: 2
+  headline: 中部战区司令员，空军上将（2025– ）
+  ids: { wikidata: Q47666465 }
+  bio: >-
+    飞行员出身，历任南京军区空军航空兵第 29 师、第 3 师师长，兰州军区空军参谋长，2014 年任空军试验训练基地司令员，2016 年任西部战区副司令员，2018 年任中部战区空军司令员。
+    2025 年 9 月以中将身份任抗战胜利 80 周年阅兵总指挥，同年 12 月任中部战区司令员并晋升上将。
+  positions:
+    - { title: 南京军区空军航空兵第 3 师师长, sys: army, from: 2003-10, cite: cs7-wiki-han-shengyan }
+    - { title: 兰州军区空军参谋长, sys: army, from: 2011-07, cite: cs7-wiki-han-shengyan }
+    - { title: 空军试验训练基地司令员, sys: army, from: 2014-02, to: 2016-01, cite: cs7-wiki-han-shengyan }
+    - { title: 西部战区副司令员, sys: army, from: 2016-01, to: 2018-07, cite: cs7-wiki-han-shengyan }
+    - { title: 中部战区空军司令员, sys: army, from: 2018-07, to: 2025-12, cite: cs7-caixin-2025-12-23-air-force-theaters }
+    - { title: 中部战区司令员, sys: army, from: 2025-12, cite: cs7-gov-2025-12-22-generals-promoted }
+  cites: [wd-Q47666465, cs7-wiki-han-shengyan, cs7-gov-2025-12-22-generals-promoted, cs7-caixin-2025-12-23-air-force-theaters, f01-bbc-2026-01-27-zhang-youxia]
