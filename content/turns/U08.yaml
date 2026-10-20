@@ -59,7 +59,7 @@ yin-yong:
   deep: true
 
 kong-shaoxun:
-  routes: [staff, secretary]
+  routes: [office, staff, secretary]
   rungs:
     - { rung: vice, date: 2022-04, post: 中共中央办公厅副主任兼秘书局局长, cite: u08-rfa-2022-04-18-kong-shaoxun }
     - { rung: minister, date: 2026-09, post: 甘肃省代省长, cite: p02-xinhua-2026-09-02-kong-shaoxun-acting }
@@ -116,7 +116,7 @@ kong-shaoxun:
   deep: true
 
 wang-zhengpu:
-  routes: [echelon, technocrat, local]
+  routes: [echelon, org, technocrat, local]
   rungs:
     - { rung: bureau, date: 2003-08, post: 农业部财务司副司长, cite: u08-bjnews-2021-10-21-wang-zhengpu }
     - { rung: vice, date: 2016-10, post: 辽宁省委常委、组织部部长, cite: u08-bjnews-2021-10-21-wang-zhengpu }
@@ -170,7 +170,7 @@ wang-zhengpu:
   deep: true
 
 li-bingjun:
-  routes: [secretary, staff]
+  routes: [secretary, office, staff]
   rungs:
     - { rung: county, date: 1991-05, post: 化工部办公厅部长办公室副主任（副处级）, cite: u08-people-2020-11-24-li-bingjun }
     - { rung: bureau, date: 1997-08, post: 国务院办公厅副局级秘书, cite: u08-people-2020-11-24-li-bingjun }
@@ -225,7 +225,7 @@ li-bingjun:
   deep: true
 
 zhou-naixiang:
-  routes: [industry, local]
+  routes: [industry, soe, local]
   rungs:
     - { rung: county, date: 1995-03, post: 江苏省政府驻上海办事处建管处副处长, cite: u08-people-2019-09-02-zhou-naixiang }
     - { rung: bureau, date: 2003-07, post: 泰州市副市长, cite: u08-people-2019-09-02-zhou-naixiang }
@@ -280,7 +280,7 @@ zhou-naixiang:
   deep: true
 
 zhang-gong:
-  routes: [industry, local]
+  routes: [industry, local, office]
   rungs:
     - { rung: bureau, date: 2002-07, post: 北京市经济委员会副主任, cite: u08-samr-2020-08-zhang-gong }
     - { rung: vice, date: 2012-09, post: 北京市副市长, cite: u08-samr-2020-08-zhang-gong }
@@ -325,7 +325,7 @@ zhang-gong:
       cite: k04-court-2019-11-12-li-shixiang-verdict
 
 mao-weiming:
-  routes: [industry, local]
+  routes: [industry, soe, local]
   rungs:
     - { rung: county, date: 1996-03, post: 常州市对外经济贸易委员会主任, cite: u08-cctv-2020-12-01-mao-weiming }
     - { rung: bureau, date: 2001-09, post: 常州市委常委、武进市委书记, cite: u08-cctv-2020-12-01-mao-weiming }
@@ -366,7 +366,7 @@ mao-weiming:
     cites: [u08-cctv-2020-12-01-mao-weiming]
 
 liu-jie:
-  routes: [industry, local]
+  routes: [industry, transfer, local, office]
   rungs:
     - { rung: bureau, date: 2008-08, post: 湖南省商务厅厅长, cite: u08-cug-2025-02-05-liu-jie }
     - { rung: vice, date: 2016-11, post: 江西省委常委、省委秘书长, cite: u08-cug-2025-02-05-liu-jie }
@@ -406,7 +406,7 @@ liu-jie:
     cites: [u08-jfdaily-2025-01-17-liu-jie]
 
 hu-yuting:
-  routes: [industry, local]
+  routes: [industry, local, office]
   rungs:
     - { rung: bureau, date: 2011-07, post: 大同市委常委、副市长（正厅长级）, cite: k06-bjd-2021-06-25-hu-yuting }
     - { rung: vice, date: 2018-01, post: 山西省委常委、秘书长, cite: k06-bjd-2021-06-25-hu-yuting }
@@ -438,7 +438,7 @@ hu-yuting:
     cites: [k06-bjd-2021-06-25-hu-yuting]
 
 wei-tao:
-  routes: [industry, successor, local]
+  routes: [industry, successor, local, united]
   rungs:
     - { rung: bureau, date: 2017-12, post: 玉林市委副书记, cite: u08-bjnews-2021-11-01-wei-tao }
     - { rung: vice, date: 2021-02, post: 山西省副省长, cite: u08-bjnews-2021-11-01-wei-tao }
@@ -483,7 +483,7 @@ wei-tao:
       cite: k04-xinhua-2025-05-16-lan-tianli-probe
 
 lu-dongliang:
-  routes: [industry, local]
+  routes: [industry, soe, local]
   rungs:
     - { rung: vice, date: 2020-05, post: 山西省副省长, cite: u08-cncn-2025-06-18-lu-dongliang }
     - { rung: minister, date: 2025-06, post: 山西省省长, cite: u08-cncn-2025-06-18-lu-dongliang }
@@ -546,7 +546,7 @@ zhao-gang:
     cites: [u08-oeeee-2022-11-29-zhao-gang]
 
 zhu-zhongming:
-  routes: [technocrat, local]
+  routes: [technocrat, local, transfer]
   rungs:
     - { rung: county, date: 2002-04, post: 浙江省财政厅办公室副主任, cite: u08-hunan-2020-04-28-zhu-zhongming }
     - { rung: bureau, date: 2008-11, post: 浙江省财政厅副厅长, cite: u08-hunan-2020-04-28-zhu-zhongming }
@@ -753,7 +753,7 @@ meng-fanli:
       cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict
 
 wang-xinwei:
-  routes: [local, frontier]
+  routes: [aid, local, frontier]
   rungs:
     - { rung: county, date: 1997, post: 平顶山市干部考试中心主任（副处级）, cite: u08-chinadaily-2021-10-31-wang-xinwei }
     - { rung: bureau, date: 2008, post: 河南省水利厅副厅长, cite: u08-chinadaily-2021-10-31-wang-xinwei }
@@ -786,7 +786,7 @@ wang-xinwei:
     cites: [u08-zaobao-2025-03-01-wang-xinwei]
 
 liang-huiling:
-  routes: [youth, mass, ccdi]
+  routes: [youth, mass, ccdi, transfer]
   rungs:
     - { rung: county, date: 1995-02, post: 谷城县委副书记（正县级）, cite: u08-thepaper-2017-01-04-liang-huiling }
     - { rung: bureau, date: 1998-03, post: 孝感市副市长, cite: u08-thepaper-2017-01-04-liang-huiling }
@@ -832,7 +832,7 @@ liang-huiling:
       cite: k05-xinhua-2026-02-12-wang-lixia
 
 liu-xiaotao:
-  routes: [local]
+  routes: [local, transfer, office]
   rungs:
     - { rung: county, date: 2000-06, post: 广东省劳动和社会保障厅办公室副主任, cite: u08-xinhua-2025-10-11-liu-xiaotao }
     - { rung: bureau, date: 2008-08, post: 广东省地税局副局长, cite: u08-xinhua-2025-10-11-liu-xiaotao }
@@ -873,7 +873,7 @@ liu-xiaotao:
     cites: [u08-zaobao-2025-10-14-liu-xiaotao]
 
 shi-xiaolin:
-  routes: [youth, local]
+  routes: [youth, local, united, transfer]
   rungs:
     - { rung: bureau, date: 2006, post: 南汇区副区长, cite: u08-ce-2021-08-29-shi-xiaolin }
     - { rung: vice, date: 2017, post: 上海市委常委、统战部部长, cite: u08-ce-2021-08-29-shi-xiaolin }
@@ -913,7 +913,7 @@ shi-xiaolin:
     cites: [u08-ce-2021-08-29-shi-xiaolin, k05-cnnb-2024-07-05-shi-xiaolin]
 
 chen-xinwu:
-  routes: [youth, frontier, successor]
+  routes: [youth, aid, office, successor, frontier]
   rungs:
     - { rung: county, date: 2002-01, post: 共青团黄冈市委书记, cite: u08-thepaper-2023-07-06-chen-xinwu }
     - { rung: bureau, date: 2005-12, post: 湖北省交通厅副厅长, cite: u08-thepaper-2023-07-06-chen-xinwu }
@@ -959,7 +959,7 @@ chen-xinwu:
       cite: c03-xinhua-2026-03-20-hu-henghua-probe
 
 bao-gang:
-  routes: [ccdi, local, successor]
+  routes: [ccdi, local, successor, united]
   rungs:
     - { rung: county, date: 1998-05, post: 内蒙古自治区政府办公厅人事处副处长, cite: k06-rmzxw-2018-07-27-bao-gang }
     - { rung: bureau, date: 2002-03, post: 内蒙古自治区政府直属机关事务管理局副局长, cite: k06-rmzxw-2018-07-27-bao-gang }
@@ -1038,7 +1038,7 @@ li-dianxun:
     cites: [u08-cncn-2025-01-06-li-dianxun]
 
 wang-yubo:
-  routes: [frontier, local]
+  routes: [frontier, local, transfer, office]
   rungs:
     - { rung: county, date: 1992-02, post: 青海省政府办公厅四处副处级秘书, cite: k06-ynrd-2021-01-29-wang-yubo }
     - { rung: bureau, date: 2000-01, post: 青海省科学技术委员会副主任, cite: k06-ynrd-2021-01-29-wang-yubo }
@@ -1079,7 +1079,7 @@ wang-yubo:
     cites: [k06-ynrd-2021-01-29-wang-yubo]
 
 gama-zedeng:
-  routes: [frontier, local]
+  routes: [frontier, united, local]
   rungs:
     - { rung: vice, date: 2021-12, post: 西藏自治区党委常委、统战部部长, cite: u08-guancha-2025-01-22-gama-zedeng }
     - { rung: minister, date: 2024-10, post: 西藏自治区党委副书记、自治区政府党组书记, cite: p02-wiki-karma-tseten }
@@ -1110,7 +1110,7 @@ gama-zedeng:
     cites: [u08-guancha-2025-01-22-gama-zedeng]
 
 zhang-yupu:
-  routes: [local]
+  routes: [united, local, org, transfer]
   rungs:
     - { rung: bureau, date: 2000-10, post: 黑龙江省委统战部副部长, cite: u08-xinhua-2022-07-31-zhang-yupu }
     - { rung: vice, date: 2016-12, post: 黑龙江省委常委、秘书长, cite: u08-xinhua-2022-07-31-zhang-yupu }
@@ -1150,7 +1150,7 @@ zhang-yupu:
     cites: [u08-xinhua-2022-07-31-zhang-yupu]
 
 aierken-tuniyazi:
-  routes: [frontier, local]
+  routes: [frontier, org, united, local]
   rungs:
     - { rung: county, date: 1991-11, post: 新疆维吾尔自治区人事厅考核任免奖惩处副处长, cite: u08-cctv-2021-10-01-erkin }
     - { rung: bureau, date: 1999-10, post: 新疆维吾尔自治区党委组织部副部长, cite: u08-cctv-2021-10-01-erkin }

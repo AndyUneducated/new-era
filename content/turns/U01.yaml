@@ -1,6 +1,6 @@
 # 上位之路 · 第七轮 U01：已有完整传记的元老、第三代与第四代领导人。字段见 src/data/schema.ts 的 TurnRecordSchema 和 research/howto-content.md §12。
 deng-xiaoping:
-  routes: [army, patron, crisis]
+  routes: [army, patron, crisis, office]
   rungs:
     - { rung: pb, date: 1955, post: 中央政治局委员（增选）, cite: b22-reformdata-1997-02-19-deng-obit }
     - { rung: psc, date: 1956-09, post: 中央政治局常委、中央委员会总书记, cite: b22-reformdata-1997-02-19-deng-obit }
@@ -47,7 +47,7 @@ deng-xiaoping:
     cites: [b22-reformdata-1997-02-19-deng-obit, b22-cctv-2005-06-13-hu-chen-100]
 
 chen-yun:
-  routes: [technocrat, patron]
+  routes: [technocrat, patron, org]
   turns:
     - date: 1925
       h: 工人运动中入党
@@ -91,7 +91,7 @@ chen-yun:
     cites: [b22-people-2015-06-12-xi-chen-110, b22-cctv-2005-06-13-hu-chen-100]
 
 hu-yaobang:
-  routes: [youth, patron]
+  routes: [youth, org, patron]
   rungs:
     - { rung: pb, date: 1978-12, post: 中央政治局委员、中央纪委第三书记, cite: b22-people-2005-11-18-zeng-hu-90 }
     - { rung: psc, date: 1980-02, post: 中央政治局常委、中央委员会总书记, cite: b22-people-2005-11-18-zeng-hu-90 }
@@ -130,7 +130,7 @@ hu-yaobang:
     cites: [b22-people-2005-11-18-zeng-hu-90, b22-nytcn-1989-04-15-hu-obit]
 
 song-ping:
-  routes: [secretary, technocrat, frontier]
+  routes: [secretary, technocrat, org, frontier]
   rungs:
     - { rung: vice, date: 1952, post: 国家计委劳动工资计划局局长兼劳动部副部长, cite: f05-xinhua-2026-03-10-song-ping }
     - { rung: minister, date: 1977, post: 甘肃省委第一书记, cite: f05-xinhua-2026-03-10-song-ping }
@@ -401,7 +401,7 @@ zhu-rongji:
   deep: true
 
 wei-jianxing:
-  routes: [industry, ccdi]
+  routes: [industry, ccdi, org]
   rungs:
     - { rung: vice, date: 1983-10, post: 中华全国总工会副主席、书记处书记, cite: c01-people-2015-08-17-wei-jianxing-life }
     - { rung: pb, date: 1992-10, post: 中央政治局委员、中央书记处书记、中央纪委书记, cite: c01-people-2015-08-17-wei-jianxing-life }
@@ -540,7 +540,7 @@ li-ruihuan:
     cites: [b18-banyuetan-2010-07-06-li-farewell, u01-rfa-2019-05-27-elders-jiang]
 
 luo-gan:
-  routes: [technocrat, patron, law]
+  routes: [office, patron, law, technocrat]
   rungs:
     - { rung: bureau, date: 1980, post: 河南省进出口委员会副主任、省科委主任, cite: b03-theorychina-2012-08-04-luo-resume }
     - { rung: vice, date: 1981, post: 河南省副省长、省委书记（当时设有第一书记）, cite: b03-theorychina-2012-08-04-luo-resume }
@@ -590,7 +590,7 @@ luo-gan:
     cites: [b03-bbcen-2002-luo-profile, b03-scmp-2002-11-16-luo-gan]
 
 wu-guanzheng:
-  routes: [technocrat, local, ccdi]
+  routes: [technocrat, local, transfer, ccdi]
   rungs:
     - { rung: vice, date: 1986, post: 江西省委副书记、副省长, cite: b02-cctv-2004-02-16-wu-guanzheng-resume }
     - { rung: pb, date: 1997-09, post: 中央政治局委员、山东省委书记, cite: b02-cctv-2004-02-16-wu-guanzheng-resume }
@@ -679,7 +679,7 @@ huang-ju:
     cites: [f01-bbc-2002-11-16-jiang-shadow, b01-bbc-2007-06-02-huang-ju-shanghai]
 
 zeng-qinghong:
-  routes: [princeling, secretary, patron]
+  routes: [princeling, secretary, office, org, patron]
   rungs:
     - { rung: minister, date: 1993, post: 中共中央办公厅主任, cite: b01-cpc-zeng-resume }
     - { rung: psc, date: 2002-11, post: 中央政治局常委、中央书记处书记, cite: b01-cpc-zeng-resume }
@@ -732,7 +732,7 @@ zeng-qinghong:
   deep: true
 
 jia-qinglin:
-  routes: [patron, local, industry]
+  routes: [patron, soe, local, industry]
   rungs:
     - { rung: vice, date: 1985, post: 福建省委常委、副书记, cite: b02-chinanews-2007-10-22-jia-resume }
     - { rung: minister, date: 1990, post: 福建省代省长, cite: b02-chinanews-2007-10-22-jia-resume }

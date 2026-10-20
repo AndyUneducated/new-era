@@ -56,7 +56,7 @@ hu-jintao:
   deep: true
 
 wen-jiabao:
-  routes: [technocrat, staff, patron]
+  routes: [technocrat, office, staff, patron]
   rungs:
     - { rung: bureau, date: 1982, post: 地质矿产部政策法规研究室主任、党组成员, cite: b02-gov-2008-03-16-wen-resume }
     - { rung: vice, date: 1983, post: 地质矿产部副部长, cite: b02-gov-2008-03-16-wen-resume }
@@ -98,7 +98,7 @@ wen-jiabao:
     cites: [u02-gmw-2003-03-27-wen-to-beijing, f05-zaobao-2026-03-04-song-ping]
 
 zhou-yongkang:
-  routes: [industry, technocrat, patron, law]
+  routes: [industry, soe, technocrat, patron, law]
   rungs:
     - { rung: county, date: 1973, post: 辽河石油勘探局地球物理勘探处处长, cite: b03-bjreview-2007-10-23-zhou-resume }
     - { rung: bureau, date: 1983, post: 辽河石油勘探局局长，辽宁省盘锦市委副书记、市长, cite: b03-bjreview-2007-10-23-zhou-resume }
@@ -151,7 +151,7 @@ zhou-yongkang:
   deep: true
 
 li-changchun:
-  routes: [technocrat, echelon, local, patron]
+  routes: [technocrat, echelon, local, transfer, patron]
   rungs:
     - { rung: vice, date: 1985, post: 辽宁省委副书记兼沈阳市委书记, cite: b03-bjreview-2007-10-23-li-resume }
     - { rung: minister, date: 1986, post: 辽宁省委副书记、代省长, cite: b03-bjreview-2007-10-23-li-resume }
@@ -192,7 +192,7 @@ li-changchun:
     cites: [b03-bjreview-2007-10-23-li-resume, b03-rfa-2007-10-16-li-career]
 
 he-guoqiang:
-  routes: [technocrat, industry, local, patron]
+  routes: [technocrat, industry, org, local, patron]
   rungs:
     - { rung: bureau, date: 1984, post: 山东省化学石油工业厅厅长, cite: b03-chinanews-2007-10-22-he-resume }
     - { rung: vice, date: 1986, post: 山东省委常委、济南市委副书记, cite: b03-chinanews-2007-10-22-he-resume }
@@ -340,7 +340,7 @@ xi-jinping:
   deep: true
 
 wang-qishan:
-  routes: [crisis, finance, technocrat, princeling, ccdi]
+  routes: [crisis, finance, think, technocrat, princeling, ccdi]
   rungs:
     - { rung: county, date: 1982, post: 中央书记处农村政策研究室、国务院农村发展研究中心处长, cite: b04-xinhua-2018-03-17-wang-resume }
     - { rung: bureau, date: 1986, post: 中央书记处农村政策研究室正局级研究员、国务院农村发展研究中心联络室主任, cite: b04-xinhua-2018-03-17-wang-resume }
@@ -480,7 +480,7 @@ liu-yunshan:
     cites: [b04-chinanews-2012-12-25-liu-profile]
 
 zhang-gaoli:
-  routes: [industry, worker, local, patron]
+  routes: [industry, worker, soe, local, patron]
   rungs:
     - { rung: bureau, date: 1985, post: 广东省经济委员会主任、党组书记, cite: b05-gov-2013-03-16-zhang-gaoli-resume }
     - { rung: vice, date: 1988, post: 广东省副省长, cite: b05-gov-2013-03-16-zhang-gaoli-resume }
@@ -522,7 +522,7 @@ zhang-gaoli:
     cites: [b05-orientaldaily-2021-11-04-zhang]
 
 li-zhanshu:
-  routes: [patron, local, staff, youth]
+  routes: [patron, office, local, org, staff, youth]
   rungs:
     - { rung: county, date: 1983, post: 河北省无极县委书记, cite: b05-xinhua-2018-03-17-li-zhanshu-resume }
     - { rung: bureau, date: 1985, post: 河北省石家庄地委副书记、行署专员, cite: b05-xinhua-2018-03-17-li-zhanshu-resume }
@@ -612,7 +612,7 @@ han-zheng:
       cite: b07-xinhua-2008-04-11-chen-sentence
 
 wang-yang:
-  routes: [youth, local, worker, patron]
+  routes: [youth, local, worker, office, patron]
   rungs:
     - { rung: bureau, date: 1987, post: 安徽省体委主任、党组书记, cite: b05-xinhua-2018-03-14-wang-yang-resume }
     - { rung: vice, date: 1993, post: 安徽省副省长, cite: b05-xinhua-2018-03-14-wang-yang-resume }

@@ -1,6 +1,6 @@
 # 上位之路 · 批次 U04。字段见 src/data/schema.ts 的 TurnRecordSchema 和 research/howto-content.md §12。
 li-yuanchao:
-  routes: [youth, princeling, patron]
+  routes: [youth, princeling, org, patron]
   rungs:
     - { rung: bureau, date: 1983, post: 共青团上海市委副书记、书记, cite: b09-gov-2013-03-14-li-yuanchao-cv }
     - { rung: vice, date: 1983, post: 共青团中央书记处书记, cite: b09-gov-2013-03-14-li-yuanchao-cv }
@@ -99,7 +99,7 @@ wang-chen:
       cite: c03-xinhua-2019-03-26-lu-wei-verdict
 
 liu-he:
-  routes: [technocrat, writer, patron]
+  routes: [technocrat, writer, think, patron]
   rungs:
     - { rung: county, date: 1988, post: 国家计委产业政策司产业结构处副处长, cite: b09-xinhua-2017-10-25-liu-he-cv }
     - { rung: bureau, date: 1994, post: 国家计委长期规划和产业政策司副司长, cite: b09-xinhua-2017-10-25-liu-he-cv }
@@ -154,7 +154,7 @@ liu-he:
   deep: true
 
 liu-qibao:
-  routes: [youth, patron, crisis]
+  routes: [youth, patron, crisis, office]
   rungs:
     - { rung: bureau, date: 1982, post: 共青团安徽省委副书记, cite: c02-cyol-2012-11-16-18th-cvs }
     - { rung: vice, date: 1985, post: 共青团中央书记处书记, cite: c02-cyol-2012-11-16-18th-cvs }
@@ -236,7 +236,7 @@ zhang-chunxian:
     cites: [f04-rfi-2016-03-09-xinjiang, b17-bbc-2016-08-29-xinjiang-change, b17-zaobao-2016-10-17-zhang-not-negated, b19-cna-2017-10-25-three-exit]
 
 chen-xi:
-  routes: [patron, scholar]
+  routes: [patron, org, campus, scholar]
   rungs:
     - { rung: vice, date: 2002, post: 清华大学党委书记（副部长级）, cite: b09-people-2018-04-chen-xi-cv }
     - { rung: minister, date: 2011, post: 中国科协党组书记、常务副主席, cite: b09-people-2018-04-chen-xi-cv }
@@ -385,7 +385,7 @@ yang-xiaodu:
     cites: [f04-bbc-2018-03-18-yang-xiaodu, f08-botanwang-2014-10-new-shanghai]
 
 guo-shengkun:
-  routes: [industry, frontier, law]
+  routes: [industry, soe, frontier, law]
   rungs:
     - { rung: vice, date: 1997, post: 中国有色金属工业总公司副总经理, cite: b17-hxw-2017-11-03-guo-zhengfa }
     - { rung: minister, date: 2007-11, post: 广西壮族自治区党委书记, cite: b17-people-2012-12-30-guo-mps }
@@ -466,7 +466,7 @@ he-lifeng:
     cites: [b09-voa-2023-11-he-lifeng, f02-reuters-2022-10-24-elites, b09-xinhua-2018-03-14-he-lifeng-cv]
 
 chen-quanguo:
-  routes: [frontier, local]
+  routes: [frontier, local, org, transfer]
   rungs:
     - { rung: county, date: 1983, post: 驻马店地委秘书（副县级）, cite: b09-xinhua-2017-10-25-chen-quanguo-cv }
     - { rung: bureau, date: 1992, post: 驻马店地委委员、遂平县委书记, cite: b09-xinhua-2017-10-25-chen-quanguo-cv }
@@ -555,7 +555,7 @@ li-hongzhong:
     cites: [u04-voa-2016-09-14-li-hongzhong-tianjin, u04-rfa-2016-09-13-li-hongzhong-core, b16-rfa-2016-01-30-li-core]
 
 shi-taifeng:
-  routes: [scholar, frontier]
+  routes: [scholar, frontier, united, org]
   rungs:
     - { rung: vice, date: 2001-07, post: 中央党校副校长, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
     - { rung: minister, date: 2015-12, post: 江苏省代省长, cite: b16-cctv-2019-10-26-shi-taifeng-cv }
@@ -680,7 +680,7 @@ yang-jiechi:
     cites: [c02-gov-2017-10-25-19th-cvs, b11-cctv-2007-04-29-yang-tiger]
 
 ma-xingrui:
-  routes: [industry, scholar, technocrat]
+  routes: [industry, soe, scholar, technocrat]
   rungs:
     - { rung: vice, date: 2007, post: 中国航天科技集团公司总经理, cite: b08-bbc-2026-07-14-ma }
     - { rung: minister, date: 2016-12, post: 广东省代省长, cite: f08-chinanews-2017-02-07-jungong }

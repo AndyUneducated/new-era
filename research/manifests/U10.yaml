@@ -1,0 +1,27 @@
+# U10: rise records for the ten routes added in round 15 (decisions #67), and two tier-2 cards for democratic-party ministers.
+web:
+  # ---- 公开选拔 ----
+  - { id: u10-bjnews-2021-02-20-guo-yuanqiang, title: "郭元强任江苏省委组织部部长", publisher: 新京报, date: 2021-02-20, voice: zh, url: "https://www.bjnews.com.cn/detail/161378939215870.html", excerpt: true, keep: [ "郭元强", "公选", "公推比选", "20" ] }
+  - { id: u10-qdnews-2010-12-20-guangdong-gongxuan, title: "粤公开选拔干部进入常态化 打破公选限于副职惯例", publisher: 青岛新闻网, date: 2010-12-20, voice: zh, url: "https://qingdaonews.com/content/2010-12/20/content_8607539_3.htm", excerpt: true, keep: [ "公选", "63名副厅级", "竞争选拔" ] }
+  - { id: u10-sina-2009-09-07-sichuan-gongxuan, title: "四川10年公选78人副厅级干部 1名升至副省级", publisher: 新浪新闻, date: 2009-09-07, voice: zh, url: "https://news.sina.cn/sa/2009-09-07/detail-ikftpnny4181462.d.html?from=wap", excerpt: true, keep: [ "公选", "李少平", "副厅级", "低调" ] }
+  # ---- 智库转实职 ----
+  - { id: u10-ce-2018-03-25-han-jun, title: "中农办主任韩俊调入农业农村部（图/简历）", publisher: 中国经济网, date: 2018-03-25, voice: doc, url: "http://www.ce.cn/xwzx/gnsz/gdxw/201803/25/t20180325_28599349.shtml", excerpt: true, keep: [ "韩俊", "19", "20" ] }
+  - { id: u10-people-2014-10-22-han-jun, title: "国研中心副主任韩俊调任中央财办副主任(图/简历)", publisher: 人民网（来源：中国经济网）, date: 2014-10-22, voice: doc, url: "http://politics.people.com.cn/n/2014/1022/c70731-25886548.html", excerpt: true, keep: [ "韩俊" ] }
+  - { id: u10-xinhua-2023-03-14-han-jun, title: "安徽省委主要负责同志职务调整 韩俊任安徽省委书记", publisher: 新华网, date: 2023-03-14, voice: official, url: "http://www.xinhuanet.com/2023-03/14/c_1129431334.htm", excerpt: true, keep: [ "韩俊", "郑栅洁" ] }
+  - { id: u10-people-2018-03-22-xie-fuzhan, title: "谢伏瞻任中国社会科学院院长、党组书记", publisher: 人民网-中国共产党新闻网, date: 2018-03-22, voice: official, url: "http://renshi.people.com.cn/n1/2018/0322/c139617-29883040.html", excerpt: true, keep: [ "谢伏瞻", "19", "20" ] }
+  # ---- 跨省交流 ----
+  - { id: u10-xinhua-2018-09-21-liu-ning, title: "王建军当选青海省人大常委会主任 刘宁当选青海省省长", publisher: 新华网, date: 2018-09-21, voice: official, url: "https://www.xinhuanet.com/politics/2018-09/21/c_1123467744.htm", excerpt: true, keep: [ "刘宁", "长江水利委员会" ] }
+  - { id: u10-xinhua-2026-09-23-henan, title: "河南省委主要负责同志职务调整 周祖翼任河南省委书记", publisher: 新华网, date: 2026-09-23, voice: official, url: "https://www.xinhuanet.com/politics/20260923/7060fd7c54be48b0b3e09d5782492e20/c.html", excerpt: true, keep: [ "刘宁", "周祖翼" ] }
+  # ---- 央企转地方 ----
+  - { id: u10-cntv-2010-08-25-wei-liucheng, title: "卫留成同志简历", publisher: 央视网（来源：中国共产党新闻网）, date: 2010-08-25, voice: official, url: "http://news.cntv.cn/china/20100825/101691.shtml", excerpt: true, keep: [ "19", "20", "海南省委" ] }
+  - { id: u10-chinanews-2004-02-28-wei-liucheng, title: "卫留成当选为新一届海南省人民政府省长", publisher: 中国新闻网, date: 2004-02-28, voice: doc, url: "https://www.chinanews.com/n/2004-02-28/26/407490.html", excerpt: true, keep: [ "卫留成" ] }
+  # ---- 援疆援藏 ----
+  - { id: u10-people-2022-09-08-chen-jiadong, title: "卸任一个月即被查！最高检对厦门市人大常委会原主任陈家东作出逮捕决定", publisher: 人民网福建频道, date: 2022-09-08, voice: doc, url: "http://fj.people.cn/n2/2022/0908/c181466-40117031.html", excerpt: true, keep: [ "陈家东", "19", "20" ] }
+  - { id: u10-chinanews-2007-12-05-chen-jiadong, title: "陈家东当选为福建宁德市市长", publisher: 中国新闻网, date: 2007-12-05, voice: doc, url: "https://www.chinanews.com.cn/gn/news/2007/12-05/1096637.shtml", excerpt: true, keep: [ "陈家东", "挂职", "宁德" ] }
+  - { id: u10-people-2016-12-21-qu-min, title: "曲敏任黑龙江省绥化市委书记（图/简历）", publisher: 人民网-中国共产党新闻网, date: 2016-12-21, voice: doc, url: "http://renshi.people.com.cn/n1/2016/1221/c139617-28965210.html", excerpt: true, keep: [ "曲敏", "19", "20" ] }
+  - { id: u10-ce-2012-06-15-qu-min, title: "共建、共享、共赢（新疆兵团十师北屯市党委副书记、副师长曲敏）", publisher: 经济日报, date: 2012-06-15, voice: zh, url: "http://paper.ce.cn/jjrb/html/2012-06/15/content_216430.htm", excerpt: true, keep: [ "援疆", "曲敏", "十师" ] }
+  # ---- 民主党派 ----
+  - { id: u10-cppcc-2020-06-16-wan-gang, title: "万钢简历", publisher: 全国政协办公厅, date: 2020-06-16, voice: official, url: "http://www.cppcc.gov.cn/zxww/2020/06/16/ARTI1592274001099356.shtml", excerpt: true, keep: [ "万钢", "19", "20" ] }
+  - { id: u10-wiki-wan-gang, title: 万钢（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/万钢", excerpt: true, keep: [ 万钢, 年 ] }
+  - { id: u10-npc-2019-05-21-chen-zhu, title: "陈竺简历", publisher: 中国人大网, date: 2019-05-21, voice: official, url: "http://www.npc.gov.cn/c11296/c34194/c34319/201905/t20190521_261198.html", excerpt: true, keep: [ "陈竺", "19", "20" ] }
+  - { id: u10-wiki-chen-zhu, title: 陈竺（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈竺", excerpt: true, keep: [ 陈竺, 年 ] }

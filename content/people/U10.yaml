@@ -1,0 +1,47 @@
+# U10: tier-2 cards for the two democratic-party ministers used on the 民主党派 route.
+
+- id: wan-gang
+  name: 万钢
+  gender: m
+  born: 1952-08
+  birthplace: 上海
+  roles: [minister]
+  status: retired
+  tier: 2
+  headline: 原科学技术部部长、全国政协副主席，致公党中央原主席
+  ids: { wikidata: Q95023 }
+  bio: >-
+    上海人，致公党成员。知青出身，同济大学硕士，1985 年赴德国克劳斯塔尔工业大学读博，后在奥迪公司工作十年。2001 年回同济大学，2004 年任校长；
+    2006 年任致公党中央副主席，2007 年 4 月任科技部部长，是 1972 年以来首位非中共党籍的国务院组成部门正职，同年 12 月任致公党中央主席，2008–2023 年任全国政协副主席。
+  positions:
+    - { title: 德国奥迪汽车公司技术开发部工程师，生产部、总体规划部技术经理, sys: other, from: 1991, to: 2001, cite: u10-cppcc-2020-06-16-wan-gang }
+    - { title: 同济大学校长助理、汽车学院院长，副校长（主持工作）, sys: other, place: 上海, from: 2001, to: 2004, cite: u10-cppcc-2020-06-16-wan-gang }
+    - { title: 同济大学校长（副部长级）, sys: other, place: 上海, from: 2004-07, to: 2007, cite: u10-wiki-wan-gang }
+    - { title: 致公党中央副主席, sys: other, from: 2006-12, to: 2007-12, cite: u10-wiki-wan-gang }
+    - { title: 科学技术部部长, sys: gov, from: 2007-04-27, to: 2018-03, cite: u10-wiki-wan-gang }
+    - { title: 致公党中央主席, sys: other, from: 2007-12-21, to: 2022-12-14, cite: u10-wiki-wan-gang }
+    - { title: 全国政协副主席, sys: other, from: 2008-03, to: 2023-03, cite: u10-wiki-wan-gang }
+    - { title: 中国科学技术协会主席, sys: other, from: 2016-06, to: 2026-07, cite: u10-wiki-wan-gang }
+  cites: [wd-Q95023, u10-cppcc-2020-06-16-wan-gang, u10-wiki-wan-gang]
+
+- id: chen-zhu
+  name: 陈竺
+  gender: m
+  born: 1953-08-17
+  birthplace: 上海
+  roles: [minister]
+  status: retired
+  tier: 2
+  headline: 原卫生部部长、全国人大常委会副委员长，农工党中央原主席
+  ids: { wikidata: Q688508 }
+  bio: >-
+    祖籍江苏镇江，生于上海，血液学家、中国科学院院士。知青和赤脚医生出身，瑞金医院读研，在法国巴黎第七大学获博士学位，回国后任上海血液学研究所所长，2000 年任中科院副院长。
+    2007 年 6 月以非中共人士身份任卫生部部长，2012 年 9 月加入农工党，同年 12 月任农工党中央主席，2013–2023 年任全国人大常委会副委员长。
+  positions:
+    - { title: 上海第二医科大学附属瑞金医院上海血液学研究所所长, sys: other, place: 上海, from: 1995, to: 2000, cite: u10-npc-2019-05-21-chen-zhu }
+    - { title: 中国科学院副院长, sys: other, from: 2000-10, to: 2007-06, cite: u10-wiki-chen-zhu }
+    - { title: 卫生部部长, sys: gov, from: 2007-06-29, to: 2013-03, cite: u10-wiki-chen-zhu }
+    - { title: 农工党中央主席, sys: other, from: 2012-12, to: 2022-12-08, cite: u10-wiki-chen-zhu }
+    - { title: 全国人大常委会副委员长, sys: other, from: 2013-03, to: 2023-03, cite: u10-wiki-chen-zhu }
+    - { title: 中国红十字会会长, sys: other, from: 2015-05-06, to: 2024-10, cite: u10-wiki-chen-zhu }
+  cites: [wd-Q688508, u10-npc-2019-05-21-chen-zhu, u10-wiki-chen-zhu]

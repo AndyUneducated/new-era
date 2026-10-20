@@ -1,0 +1,1050 @@
+# U10: records for the ten routes added in round 15 (org, transfer, office, think, soe, aid, united, parties, open, campus).
+
+shen-yueyue:
+  routes: [org, youth, mass, local]
+  rungs:
+    - { rung: bureau, date: 1997, post: 浙江省绍兴市委书记, cite: f05-people-2013-03-18-shen-yueyue }
+    - { rung: vice, date: 1998, post: 浙江省委常委、组织部副部长, cite: f05-people-2013-03-18-shen-yueyue }
+    - { rung: minister, date: 2007, post: 中央组织部主持常务工作的副部长（正部长级）, cite: f05-people-2013-03-18-shen-yueyue }
+  turns:
+    - date: 1998
+      h: 进省委管干部
+      text: >-
+        沈跃跃是浙江宁波人，当过副食品商店职工和中学教师，1983年起在共青团系统工作，1991年任浙江团省委书记，后任杭州市委副书记、绍兴市委书记。1998年她进入浙江省委常委班子，任组织部副部长，第二年任组织部部长。
+      did: >-
+        从共青团干部转到地方任职，再进入省委常委班子主管干部工作。
+      who: []
+      cites: [f05-people-2013-03-18-shen-yueyue]
+    - date: 2002
+      h: 调中组部
+      text: >-
+        2001年她任安徽省委副书记，一年后调任中央组织部副部长，并兼任人事部副部长。2007年她任中央组织部主持常务工作的副部长（正部长级），在这个位置上做了六年。
+      did: >-
+        进入中央管干部的部门，做到主持日常工作的副部长。
+      who: []
+      cites: [f05-people-2013-03-18-shen-yueyue]
+    - date: 2013
+      h: 转任副委员长
+      text: >-
+        2013年她当选十二届全国人大常委会副委员长，同时任全国妇联主席。
+      did: >-
+        离开组织部门，成为国家领导人，主管妇女工作。
+      who: []
+      cites: [f05-people-2013-03-18-shen-yueyue]
+  can:
+    text: >-
+      能看到的是组织部门内部的晋升：她在省委组织部当过副部长、部长，到中央组织部又从副部长做到主持常务工作，前后在组织系统工作了十几年。
+    cites: [f05-people-2013-03-18-shen-yueyue]
+  cannot:
+    text: >-
+      官方简历只列出职务，没有说明她从浙江调往安徽、再调入中组部的原因。
+    cites: [f05-people-2013-03-18-shen-yueyue]
+
+zhang-jinan:
+  routes: [org, transfer, youth]
+  rungs:
+    - { rung: vice, date: 2002-04, post: 海南省委常委, cite: k05-wiki-zhang-jinan }
+    - { rung: minister, date: 2013-04, post: 中央机构编制委员会办公室主任, cite: k05-wiki-zhang-jinan }
+  turns:
+    - date: 2002-05
+      h: 海南管干部
+      text: >-
+        张纪南是广东揭西人，武汉水运工程学院机械制造专业毕业，曾任共青团天津市委副书记，后到海南任海南省旅游总公司总经理、海南省委组织部副部长。2002年4月他任海南省委常委，5月兼任组织部部长；2003年12月调任河南省委常委、组织部部长。
+      did: >-
+        从共青团和国企岗位转入组织部门，先后在两个省当组织部长。
+      who: []
+      cites: [k05-wiki-zhang-jinan]
+    - date: 2004-05
+      h: 进中组部
+      text: >-
+        2004年5月他调入中央组织部，任部务委员兼干部二局（地方干部局）局长，2007年3月升任副部长。
+      did: >-
+        到中央组织部负责地方领导干部的管理，三年后升为副部长。
+      who: []
+      cites: [k05-wiki-zhang-jinan]
+    - date: 2013-04
+      h: 编办到人社部
+      text: >-
+        2013年4月他任中央编办主任，2018年3月任人力资源和社会保障部部长，2022年6月卸任，转任全国政协人口资源环境委员会副主任。
+      did: >-
+        从组织部门转到主管机构编制和人事社保的部门当一把手。
+      who: []
+      cites: [k05-wiki-zhang-jinan]
+  can:
+    text: >-
+      能看到的是组织部门干部的出路：他做过两省组织部长和中组部副部长，此后先后主管中央编办和人社部，都是与干部人事相关的部门。
+    cites: [k05-wiki-zhang-jinan]
+  cannot:
+    text: >-
+      维基百科的记载很简略，没有说明他从天津到海南、再到河南的原因。
+    cites: [k05-wiki-zhang-jinan]
+  counter:
+    - id: li-jia
+      name: 李佳
+      text: 同样做过省级组织部长，2008年起任内蒙古自治区党委组织部长，后任内蒙古和山西政协主席；2022年8月被撤销党内职务、政务撤职，降为副省部级，通报称其违纪行为主要发生在十八大以前。
+      cite: k04-wiki-li-jia
+
+li-xiaoxin:
+  routes: [org, local]
+  rungs:
+    - { rung: vice, date: 2017-02, post: 中央组织部部务委员（副部长级）兼组织一局局长, cite: k06-sina-2022-04-30-li-xiaoxin }
+    - { rung: minister, date: 2022-04, post: 中央机构编制委员会办公室主任, cite: k06-sina-2022-04-30-li-xiaoxin }
+  turns:
+    - date: 1983-07
+      h: 汨罗起步
+      text: >-
+        李小新是湖南人，1983年从湖南农学院毕业后，在湖南省汨罗县当科长，后进入湖南省委组织部，做到正处级组织员。
+      did: >-
+        从县里的科长做起，进入省委组织部工作了十几年。
+      who: []
+      cites: [k06-sina-2022-04-30-li-xiaoxin]
+    - date: 2000
+      h: 进中组部
+      text: >-
+        2000年起她在中央组织部工作，先后任干部一局青年干部处处长、党建研究所副主编、组织局副局长、组织二局局长、组织一局局长，2017年2月任部务委员（副部长级）兼组织一局局长，2020年8月有报道显示她已任中组部副部长。
+      did: >-
+        在中央组织部从处长做到副部长，前后约二十年。
+      who: []
+      cites: [k06-sina-2022-04-30-li-xiaoxin]
+    - date: 2022-04
+      h: 副部长到编办
+      text: >-
+        2022年4月她任中央编办主任。
+      did: >-
+        从中组部副部长转任中央编办的一把手。
+      who: []
+      cites: [k06-sina-2022-04-30-li-xiaoxin]
+  can:
+    text: >-
+      她的经历几乎全在组织系统：从县里到省委组织部，再到中央组织部，最后主管机构编制。
+    cites: [k06-sina-2022-04-30-li-xiaoxin]
+  cannot:
+    text: >-
+      公开简历很简略，多数职务没有具体任职时间，也没有说明她调入中组部的原因。
+    cites: [k06-sina-2022-04-30-li-xiaoxin]
+
+lou-yangsheng:
+  routes: [transfer, patron, local]
+  rungs:
+    - { rung: bureau, date: 1999-11, post: 浙江省金华市委副书记（正厅级）, cite: f07-wiki-lou-yangsheng }
+    - { rung: vice, date: 2014-06, post: 山西省委副书记, cite: f07-wiki-lou-yangsheng }
+    - { rung: minister, date: 2016-08, post: 山西省代省长, cite: f07-wiki-lou-yangsheng }
+  turns:
+    - date: 2003-02
+      h: 主政丽水
+      text: >-
+        楼阳生长期在浙江工作，1999年11月任金华市委副书记（正厅级），2002年3月任金华市长，2003年2月任丽水市委书记。《大公报》的马浩亮把当时和习近平一起在浙江工作的一批干部称为“之江新军”，楼阳生在其中。
+      did: >-
+        在浙江的地级市当市长、市委书记，与时任浙江省委书记习近平共事。
+      who: [xi-jinping]
+      cites: [f07-wiki-lou-yangsheng, b11-bbc-2015-07-31-chen-guizhou]
+    - date: 2014-06
+      h: 跨省到山西
+      text: >-
+        2014年6月他离开浙江，任山西省委副书记，2016年8月任山西代省长，11月当选省长，2019年11月任山西省委书记。
+      did: >-
+        第一次离开浙江，到山西从副书记做到省委书记。
+      who: []
+      cites: [f07-wiki-lou-yangsheng]
+    - date: 2021-06
+      h: 再调河南
+      text: >-
+        2021年6月他第二次跨省，任河南省委书记，2024年12月卸任，由刘宁接任。
+      did: >-
+        在第三个省份担任省委书记。
+      who: [liu-ning]
+      cites: [f07-wiki-lou-yangsheng, p02-xinhua-2024-12-31-henan-guangxi-sec]
+  can:
+    text: >-
+      能看到的是跨省交流的一种形式：在本省做到地级市一把手后，调到外省从副书记做起，再到第三个省当一把手。
+    cites: [f07-wiki-lou-yangsheng]
+  cannot:
+    text: >-
+      官方没有说明他为何被调往山西和河南；外界把他归入“之江新军”，这只是媒体的归类。
+    cites: [b11-bbc-2015-07-31-chen-guizhou]
+
+liu-ning:
+  routes: [transfer, technocrat, frontier]
+  rungs:
+    - { rung: bureau, date: 1998-07, post: 长江水利委员会副总工程师（副局级）, cite: u10-xinhua-2018-09-21-liu-ning }
+    - { rung: vice, date: 2009-01, post: 水利部副部长、总工程师, cite: u10-xinhua-2018-09-21-liu-ning }
+    - { rung: minister, date: 2018-08, post: 青海省代省长, cite: u10-xinhua-2018-09-21-liu-ning }
+  turns:
+    - date: 2003-03
+      h: 水利部总工
+      text: >-
+        刘宁是吉林临江人，1983年参加工作，长期在长江水利委员会做水利工程设计，1998年任长江委副总工程师，2001年任南水北调规划设计管理局总工程师，2003年3月任水利部总工程师，2009年任水利部副部长，兼任国家防汛抗旱总指挥部秘书长。
+      did: >-
+        从水利工程师做到水利部副部长，主管防汛抗旱。
+      who: []
+      cites: [u10-xinhua-2018-09-21-liu-ning]
+    - date: 2017-04
+      h: 离京到青海
+      text: >-
+        2017年4月他离开水利部，任青海省委副书记，8月兼任政法委书记；2018年8月任青海代省长，9月当选省长。
+      did: >-
+        从中央部委调到西部省份，一年多后当上省长。
+      who: []
+      cites: [u10-xinhua-2018-09-21-liu-ning]
+    - date: 2020-06
+      h: 三省接连主政
+      text: >-
+        2020年6月他调任辽宁省委副书记，8月当选辽宁省长；2021年10月任广西壮族自治区党委书记；2024年12月任河南省委书记，接替楼阳生。2026年9月，他因年龄原因不再担任河南省委书记。
+      did: >-
+        四年里先后在辽宁、广西、河南三个省区任职，最后两任是一把手。
+      who: [lou-yangsheng]
+      cites: [p01-wiki-liu-ning, p02-xinhua-2021-10-19-guangxi-yunnan-sec, p02-xinhua-2024-12-31-henan-guangxi-sec, u10-xinhua-2026-09-23-henan]
+  can:
+    text: >-
+      能看到的是技术官员的跨省路线：他在水利部门工作了三十多年，离开中央后九年里在青海、辽宁、广西、河南四个省区任职。
+    cites: [u10-xinhua-2018-09-21-liu-ning, u10-xinhua-2026-09-23-henan]
+  cannot:
+    text: >-
+      官方没有说明他多次跨省调动的原因。
+    cites: [u10-xinhua-2018-09-21-liu-ning]
+
+hua-jianmin:
+  routes: [office, staff, technocrat]
+  rungs:
+    - { rung: vice, date: 1994, post: 上海市委常委、副市长, cite: f06-cpc-2008-hua-jianmin-cv }
+    - { rung: minister, date: 2003, post: 国务委员兼国务院秘书长, cite: f06-cpc-2008-hua-jianmin-cv }
+  turns:
+    - date: 1986
+      h: 工程师转管经济
+      text: >-
+        华建敏毕业于清华大学动力系，1963年到1984年在上海汽轮机厂和上海发电设备成套设计研究所工作，1984年到1986年在中央党校学习，1986年到1987年在中共中央办公厅当干部。此后他回上海，在申能公司、上海市计委任职，1993年任上海市计委主任，1994年任上海市委常委、副市长。
+      did: >-
+        工程师出身，经过中央党校和中办的短暂经历，回上海主管计划经济工作，升为副市长。
+      who: []
+      cites: [f06-cpc-2008-hua-jianmin-cv]
+    - date: 1996
+      h: 进中财办
+      text: >-
+        1996年他调任中央财经领导小组办公室副主任，1998年到2003年任中财办主任。星岛日报2003年报道称，他曾长期担任江泽民的机要秘书；官方简历中没有这一职务。
+      did: >-
+        进入中央经济决策的办事机构，做到主任。
+      who: []
+      cites: [f06-cpc-2008-hua-jianmin-cv, f06-secretchina-2003-03-09-hua-jianmin]
+    - date: 2003
+      h: 国务院秘书长
+      text: >-
+        2003年他任国务委员兼国务院秘书长，主管国务院办公厅，任职到2008年，之后当选全国人大常委会副委员长。
+      did: >-
+        担任国务院的“大管家”，负责政府日常运转五年。
+      who: []
+      cites: [f06-cpc-2008-hua-jianmin-cv, f06-secretchina-2003-03-09-hua-jianmin]
+  can:
+    text: >-
+      能看到的是办事机构负责人的晋升：他从中财办主任直接成为国务委员兼国务院秘书长。
+    cites: [f06-cpc-2008-hua-jianmin-cv]
+  cannot:
+    text: >-
+      关于他与江泽民关系的说法只见于香港媒体，官方简历没有提及，无法核实。
+    cites: [f06-secretchina-2003-03-09-hua-jianmin]
+
+wang-gang:
+  routes: [office, secretary, staff]
+  rungs:
+    - { rung: bureau, date: 1985, post: 中共中央办公厅信访局副局长, cite: c01-cppcc-2011-06-27-wang-gang }
+    - { rung: vice, date: 1994, post: 中共中央办公厅副主任, cite: c01-cppcc-2011-06-27-wang-gang }
+    - { rung: minister, date: 1999, post: 中共中央办公厅主任, cite: c01-cppcc-2011-06-27-wang-gang }
+    - { rung: pb, date: 2007, post: 中共中央政治局委员, cite: c01-cppcc-2011-06-27-wang-gang }
+  turns:
+    - date: 1977
+      h: 新疆当秘书
+      text: >-
+        王刚1967年从吉林大学哲学系毕业，在建工部第七局做宣传工作近十年，1977年到1981年在新疆维吾尔自治区党委办公厅当秘书，1981年到1985年在中央对台工作办公室工作。
+      did: >-
+        从企业宣传干部转到党委办公厅当秘书，开始了长期的办公厅工作。
+      who: []
+      cites: [c01-cppcc-2011-06-27-wang-gang]
+    - date: 1985
+      h: 信访到档案
+      text: >-
+        1985年他任中共中央办公厅信访局副局长，后任常务副局长；1990年调到中央档案馆，1993年任馆长，1994年任中办副主任。
+      did: >-
+        在中办下属的信访局、中央档案馆任职，做到中办副主任。
+      who: []
+      cites: [c01-cppcc-2011-06-27-wang-gang]
+    - date: 1999
+      h: 主持中办八年
+      text: >-
+        1999年他任中共中央办公厅主任，2002年任中央政治局候补委员、书记处书记，2007年任政治局委员，2008年任全国政协副主席。
+      did: >-
+        担任中办主任，进入中央领导层，后转任全国政协副主席。
+      who: []
+      cites: [c01-cppcc-2011-06-27-wang-gang]
+  can:
+    text: >-
+      能看到的是办公厅系统内部的一条完整路径：从秘书做起，经信访、档案等部门，做到中办主任和政治局委员。
+    cites: [c01-cppcc-2011-06-27-wang-gang]
+  cannot:
+    text: >-
+      官方简历没有说明他与哪位领导人关系密切，也没有说明他被选任中办主任的原因。
+    cites: [c01-cppcc-2011-06-27-wang-gang]
+  counter:
+    - id: ling-jihua
+      name: 令计划
+      text: 他之后的中办主任之一；2016年7月以受贿、非法获取国家秘密、滥用职权罪被判处无期徒刑，法院认定他在统战部长任上通过时任中办秘书局局长霍克等人非法获取大量国家秘密材料。
+      cite: b07-court-2016-07-04-ling-sentence
+
+zhuge-yujie:
+  routes: [office, industry, transfer]
+  rungs:
+    - { rung: bureau, date: 2013-04, post: 上海市杨浦区代区长, cite: k06-wiki-zhuge-yujie }
+    - { rung: vice, date: 2017-05, post: 上海市委常委、秘书长, cite: k06-wiki-zhuge-yujie }
+  turns:
+    - date: 1992
+      h: 港口工程起家
+      text: >-
+        诸葛宇杰1992年进入上海港务工程公司，1999年任总经理，2005年任洋山同盛港口建设公司负责人，2009年任普陀区委常委、副区长，2011年任上港集团总裁。
+      did: >-
+        在上海的港口建设企业做到上港集团总裁。
+      who: []
+      cites: [k06-wiki-zhuge-yujie]
+    - date: 2016-07
+      h: 进市委办公厅
+      text: >-
+        2013年他任杨浦区代区长，2015年任杨浦区委书记。2016年7月他任上海市委副秘书长、办公厅主任，2017年4月任市委秘书长，5月进入市委常委班子；维基百科称他是韩正和李强两任市委书记的政治秘书。
+      did: >-
+        从区委书记转到市委办公厅，以秘书长身份进入市委常委班子。
+      who: [han-zheng, li-qiang]
+      cites: [k06-wiki-zhuge-yujie]
+    - date: 2022-03
+      h: 70后副书记
+      text: >-
+        2022年3月他任上海市委副书记，是首位“70后”省级党委副书记，5月兼任市委政法委书记；2023年3月他首次离开上海，任湖北省委副书记。
+      did: >-
+        从秘书长升为市委副书记，再跨省到湖北。
+      who: []
+      cites: [k06-wiki-zhuge-yujie]
+  can:
+    text: >-
+      能看到的是省级党委秘书长的晋升位置：他当了五年上海市委秘书长后升任副书记。
+    cites: [k06-wiki-zhuge-yujie]
+  cannot:
+    text: >-
+      秘书长人选由市委书记选定，官方没有公开他被选中的原因。
+    cites: [k06-wiki-zhuge-yujie]
+
+han-jun:
+  routes: [think, scholar, staff]
+  rungs:
+    - { rung: bureau, date: 2001-03, post: 国务院发展研究中心农村经济研究部部长, cite: u10-ce-2018-03-25-han-jun }
+    - { rung: vice, date: 2010-11, post: 国务院发展研究中心副主任, cite: u10-ce-2018-03-25-han-jun }
+    - { rung: minister, date: 2021-01, post: 吉林省省长, cite: u10-ce-2018-03-25-han-jun }
+  turns:
+    - date: 1989-12
+      h: 三农研究
+      text: >-
+        韩俊是山东高青人，1989年进入国务院农村发展研究中心，同年12月到中国社会科学院农村发展研究所工作，做到副所长；2001年3月任国务院发展研究中心农村经济研究部部长，2010年11月任国研中心副主任。中国经济网2014年称他是著名“三农”专家。
+      did: >-
+        在两家国家级研究机构研究农村问题二十多年，做到国务院智库的副主任。
+      who: []
+      cites: [u10-ce-2018-03-25-han-jun, u10-people-2014-10-22-han-jun]
+    - date: 2014-10
+      h: 转入中财办
+      text: >-
+        2014年10月他调任中央财经领导小组办公室副主任，2015年11月兼任中央农村工作领导小组办公室主任，2018年3月任农业农村部党组副书记、副部长。
+      did: >-
+        从研究机构转到中央决策的办事机构，主管农村政策。
+      who: []
+      cites: [u10-people-2014-10-22-han-jun, u10-ce-2018-03-25-han-jun]
+    - date: 2020-11
+      h: 外放吉林
+      text: >-
+        2020年11月他任吉林省委副书记、代省长，2021年1月当选省长；2023年3月任安徽省委书记，接替郑栅洁。2024年6月他卸任安徽省委书记，此后任农业农村部部长；2026年4月30日，全国人大常委会免去他的农业农村部部长职务，去向未公布。
+      did: >-
+        第一次到地方任主官，先当省长，再当省委书记，然后回到农业农村部当部长。
+      who: [zheng-shanjie]
+      cites: [p01-xinhua-2020-11-25-han-jun, u10-xinhua-2023-03-14-han-jun, p01-people-2024-06-28-jilin-anhui, k06-gov-2026-04-30-npcsc-appointments]
+  can:
+    text: >-
+      能学的是专业积累：他研究农村问题三十年，后来担任的中农办主任、农业农村部长都与这一专业直接相关。
+    cites: [u10-ce-2018-03-25-han-jun, k06-gov-2026-04-30-npcsc-appointments]
+  cannot:
+    text: >-
+      官方没有说明他从智库转到中财办、再外放吉林的原因，也没有说明2026年被免职的原因。
+    cites: [k06-gov-2026-04-30-npcsc-appointments]
+  deep: true
+
+xie-fuzhan:
+  routes: [think, technocrat, base]
+  rungs:
+    - { rung: bureau, date: 1993-08, post: 国务院发展研究中心信息研究部负责人（副局级）, cite: u10-people-2018-03-22-xie-fuzhan }
+    - { rung: vice, date: 1999-10, post: 国务院发展研究中心副主任, cite: u10-people-2018-03-22-xie-fuzhan }
+    - { rung: minister, date: 2006-10, post: 国家统计局局长, cite: u10-people-2018-03-22-xie-fuzhan }
+  turns:
+    - date: 1986
+      h: 国研中心起步
+      text: >-
+        谢伏瞻当过知青，从华中工学院毕业后在人民日报社技术处工作，1983年到1986年在机械科学研究院读硕士，1986年进入国务院发展研究中心预测部工作。
+      did: >-
+        知青出身，读完研究生后进入国务院的政策研究机构。
+      who: []
+      cites: [u10-people-2018-03-22-xie-fuzhan]
+    - date: 1995-06
+      h: 智库里管行政
+      text: >-
+        1993年他任国研中心信息研究部负责人，1995年6月任国研中心办公厅主任，1999年10月任国研中心副主任。
+      did: >-
+        在研究机构里从研究部门转到行政管理，做到副主任。
+      who: []
+      cites: [u10-people-2018-03-22-xie-fuzhan]
+    - date: 2006-10
+      h: 统计局到河南
+      text: >-
+        2006年10月他任国家统计局局长，2008年任国务院研究室主任；2013年3月任河南省委副书记，4月任河南省长，2016年3月任河南省委书记；2018年3月任中国社会科学院院长。
+      did: >-
+        从智库转任国务院部门的一把手，再到河南当省长、省委书记，最后回到研究机构当院长。
+      who: []
+      cites: [u10-people-2018-03-22-xie-fuzhan]
+  can:
+    text: >-
+      能看到的是智库干部的两种出路他都走过：先到统计局、国务院研究室等与研究相关的部门，再到地方当主官。
+    cites: [u10-people-2018-03-22-xie-fuzhan]
+  cannot:
+    text: >-
+      官方简历没有说明他被派往河南的原因。
+    cites: [u10-people-2018-03-22-xie-fuzhan]
+
+ma-jiantang:
+  routes: [think, frontier, technocrat]
+  rungs:
+    - { rung: bureau, date: 1996-04, post: 国家经贸委综合司司长, cite: k04-wiki-ma-jiantang }
+    - { rung: vice, date: 2004-12, post: 青海省副省长, cite: k04-wiki-ma-jiantang }
+    - { rung: minister, date: 2008-09, post: 国家统计局局长, cite: k04-wiki-ma-jiantang }
+  turns:
+    - date: 1985-03
+      h: 分到国研中心
+      text: >-
+        马建堂1985年3月进入国务院发展研究中心工作，1994年获孙冶方经济科学奖。
+      did: >-
+        在国务院的政策研究机构做经济研究，获得经济学界的重要奖项。
+      who: []
+      cites: [k04-wiki-ma-jiantang]
+    - date: 1996-04
+      h: 转入经贸委
+      text: >-
+        1996年4月他任国家经贸委综合司司长，2002年任经贸委副秘书长，2003年任国资委副秘书长。
+      did: >-
+        从研究机构转到经济管理部门任司长。
+      who: []
+      cites: [k04-wiki-ma-jiantang]
+    - date: 2004-02
+      h: 青海到统计局
+      text: >-
+        2004年2月他到青海任省长助理，同年12月任副省长，2007年11月进入青海省委常委班子。2008年9月他接替谢伏瞻任国家统计局局长，2015年4月任国家行政学院常务副院长，2018年3月任国务院发展研究中心党组书记。
+      did: >-
+        到西部省份锻炼四年后回京当统计局长，最后回到出发的国研中心当一把手。
+      who: [xie-fuzhan]
+      cites: [k04-wiki-ma-jiantang]
+  can:
+    text: >-
+      他和谢伏瞻都从国研中心出来、都当过统计局长，统计局长一职先后由两位国研中心出身的人担任。
+    cites: [k04-wiki-ma-jiantang, u10-people-2018-03-22-xie-fuzhan]
+  cannot:
+    text: >-
+      官方资料没有说明他被派往青海的原因。
+    cites: [k04-wiki-ma-jiantang]
+
+zhang-qingwei:
+  routes: [soe, industry, echelon, technocrat]
+  rungs:
+    - { rung: bureau, date: 1996-08, post: 中国运载火箭技术研究院副院长（正局级）, cite: f08-people-2016-12-07-aerospace }
+    - { rung: minister, date: 2001-11, post: 中国航天科技集团公司总经理, cite: f08-people-2016-12-07-aerospace }
+    - { rung: pb, date: 2023-03, post: 全国人大常委会副委员长, cite: f08-21jingji-2023-03-14-shen-xiaoming }
+  turns:
+    - date: 2002-11
+      h: 航天少帅
+      text: >-
+        张庆伟毕业于西北工业大学飞机设计专业，1996年任中国运载火箭技术研究院副院长，1999年任中国航天科技集团副总经理，2001年任总经理。中国新闻网称，2002年十六大时，年仅41岁的他当选中央委员，被媒体称为史上第一位“60后”中央委员。
+      did: >-
+        在航天系统做到央企总经理，四十出头就进入中央委员会。
+      who: []
+      cites: [f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong]
+    - date: 2007-08
+      h: 部委与商飞
+      text: >-
+        2007年8月他任国防科工委主任，2008年3月机构改革后任中国商用飞机有限责任公司董事长。
+      did: >-
+        从航天央企转到主管军工的部委，再去组建大飞机公司。
+      who: []
+      cites: [f08-people-2016-12-07-aerospace]
+    - date: 2011-08
+      h: 转任河北省长
+      text: >-
+        2011年8月他到河北任省委副书记、代省长，2012年1月当选省长；2017年任黑龙江省委书记，2021年任湖南省委书记，2023年3月当选全国人大常委会副委员长。中国新闻网2017年的报道认为，军工系统官员走上地方领导岗位，背后“也许是技术型官员越来越被认可的趋势”。
+      did: >-
+        离开军工系统到地方任职，先后在三个省当省长或省委书记。
+      who: []
+      cites: [f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-21jingji-2023-03-14-shen-xiaoming]
+  can:
+    text: >-
+      能看到的是央企负责人转地方的路径：先在部委或大型央企主持工作，再到地方当省长。
+    cites: [f08-chinanews-2017-02-07-jungong]
+  cannot:
+    text: >-
+      他四十岁出头就当上中央委员，这样的年龄优势与当时干部年轻化的安排有关，个人无法复制；官方也没有说明他转任地方的原因。
+    cites: [f08-chinanews-2017-02-07-jungong]
+  counter:
+    - id: su-shulin
+      name: 苏树林
+      text: 同样从大型央企（中石化）转到地方，任福建省长；2018年7月被判处有期徒刑十六年，法院认定的罪行包括他在中石化任职时，2008年至2009年在收购海外项目中滥用职权。
+      cite: f06-court-2018-07-26-su-shulin
+  deep: true
+
+xu-dazhe:
+  routes: [soe, industry, technocrat]
+  rungs:
+    - { rung: bureau, date: 1995-01, post: 中国运载火箭技术研究院副院长（正厅级）, cite: f08-hnrd-xu-dazhe }
+    - { rung: minister, date: 2007-06, post: 中国航天科工集团公司总经理, cite: f08-hnrd-xu-dazhe }
+  turns:
+    - date: 1984-12
+      h: 航天三十二年
+      text: >-
+        许达哲1984年12月进入中国运载火箭技术研究院第十五研究所工作，1995年任一院副院长，2000年任院长，2007年任中国航天科工集团总经理。
+      did: >-
+        在航天系统从研究所做到央企总经理。
+      who: []
+      cites: [f08-hnrd-xu-dazhe]
+    - date: 2013-04
+      h: 接棒马兴瑞
+      text: >-
+        2013年4月他接替马兴瑞任中国航天科技集团董事长，同年12月任工业和信息化部副部长、国家国防科技工业局局长。
+      did: >-
+        先后执掌两家航天央企，再到部委主管国防科技工业。
+      who: [ma-xingrui]
+      cites: [f08-hnrd-xu-dazhe]
+    - date: 2016-08
+      h: 回乡主政湖南
+      text: >-
+        2016年8月他任湖南省委副书记，12月当选湖南省长，2020年11月任湖南省委书记。他在2016年9月的讲话中说：“32年老航天、老军工的工作经历，让我领悟了‘两弹一星’的精神内涵”。2025年10月他被罢免全国人大代表资格，此前已从公众视野中消失一年多。
+      did: >-
+        离开军工系统到湖南当省长、省委书记，后来被罢免人大代表资格。
+      who: []
+      cites: [f08-hnrd-xu-dazhe, f08-chinanews-2017-02-07-jungong, f08-caixin-2025-10-29-xu-dazhe]
+  can:
+    text: >-
+      他和张庆伟、马兴瑞走的是同一条路：在航天央企当一把手，再到地方当省长。
+    cites: [f08-chinanews-2017-02-07-jungong]
+  cannot:
+    text: >-
+      官方没有公布他被罢免人大代表资格的原因。
+    cites: [f08-caixin-2025-10-29-xu-dazhe]
+
+wei-liucheng:
+  routes: [soe, industry, technocrat]
+  rungs:
+    - { rung: bureau, date: 1990-11, post: 中国海洋石油南海西部公司总经理, cite: u10-cntv-2010-08-25-wei-liucheng }
+    - { rung: minister, date: 1998-11, post: 中国海洋石油总公司总经理, cite: u10-cntv-2010-08-25-wei-liucheng }
+  turns:
+    - date: 1982
+      h: 转入海上石油
+      text: >-
+        卫留成1970年从北京石油学院毕业后在长庆油田工作十二年，1982年转到莺歌海，从事海上石油开发，1983年任与英国石油公司合作区的中方首席代表。
+      did: >-
+        从陆上油田转到海上石油开发，开始与外国石油公司打交道。
+      who: []
+      cites: [u10-cntv-2010-08-25-wei-liucheng]
+    - date: 1998-11
+      h: 执掌中海油
+      text: >-
+        1990年他任中海油南海西部公司总经理，1993年任中海油副总经理，1998年任总经理，1999年任董事长、首席执行官。
+      did: >-
+        在中海油从分公司做到总公司一把手。
+      who: []
+      cites: [u10-cntv-2010-08-25-wei-liucheng]
+    - date: 2003-10
+      h: 弃商从政
+      text: >-
+        2003年10月，在中国石油领域工作30多年的他弃商从政，任海南省委副书记、代省长，2004年2月全票当选海南省长；2006年12月他接替汪啸风任海南省委书记，2011年8月因年龄到限卸任。
+      did: >-
+        从央企负责人转为省长，又当了近五年省委书记。
+      who: [wang-xiaofeng]
+      cites: [p02-wiki-wei-liucheng, u10-chinanews-2004-02-28-wei-liucheng]
+  can:
+    text: >-
+      能看到的是石油央企负责人转任地方的路径：他在石油行业工作三十多年，到海南后直接当省长。
+    cites: [p02-wiki-wei-liucheng]
+  cannot:
+    text: >-
+      官方没有说明他被派往海南的原因。
+    cites: [u10-cntv-2010-08-25-wei-liucheng]
+
+chen-jiadong:
+  routes: [aid, frontier, local]
+  rungs:
+    - { rung: bureau, date: 1997-12, post: 福建省林业厅副厅长, cite: u10-people-2022-09-08-chen-jiadong }
+  turns:
+    - date: 1997-12
+      h: 林业系统起家
+      text: >-
+        陈家东是福建长乐人，1981年参加工作，长期在福建林业系统工作，1997年12月任福建省林业厅副厅长。
+      did: >-
+        在省直部门从普通干部做到副厅长。
+      who: []
+      cites: [u10-people-2022-09-08-chen-jiadong]
+    - date: 2001-07
+      h: 援藏挂职
+      text: >-
+        2001年7月他任福建省援藏工作队领队，到西藏林芝任地委副书记、行署常务副专员，2003年12月在挂职期间被确定为正厅级；2004年7月三年期满回福建，仍任林业厅副厅长（正厅级）。人民网简历称这是福建第三批援藏工作队，中国新闻网2007年的报道称是第二批。
+      did: >-
+        以援藏领队的身份到西藏三年，期间从副厅级升为正厅级。
+      who: []
+      cites: [u10-people-2022-09-08-chen-jiadong, u10-chinanews-2007-12-05-chen-jiadong]
+    - date: 2005-04
+      h: 回闽当市长
+      text: >-
+        2005年4月他任宁德市委副书记、福安市委书记，2007年当选宁德市长，2010年任福建省林业厅厅长，2013年任漳州市委书记，2017年任厦门市人大常委会主任。2022年2月他被查，开除通报称他“为谋求个人职务升迁，用公权力为利益集团服务”；2023年9月他被判处无期徒刑，法院认定的受贿时间从2000年持续到2022年，所利用的职务便利包括他在林芝的任职。
+      did: >-
+        援藏回来后当上地级市长和市委书记，最后因受贿、贪污和滥用职权被判无期徒刑。
+      who: []
+      cites: [u10-people-2022-09-08-chen-jiadong, r05-ccdi-2022-08-30-chen-jiadong-expel, r05-xinhua-2023-09-05-chen-jiadong-verdict]
+  can:
+    text: >-
+      能看到的是援藏挂职怎样提级：他去时是副厅级，挂职期间确定为正厅级，回来不到一年就到地级市任副书记。
+    cites: [u10-people-2022-09-08-chen-jiadong, u10-chinanews-2007-12-05-chen-jiadong]
+  cannot:
+    text: >-
+      法院认定他受贿所利用的职务便利包括林芝的任职，援藏经历并不能说明一个干部的操守。
+    cites: [r05-xinhua-2023-09-05-chen-jiadong-verdict]
+
+qu-min:
+  routes: [aid, frontier, local]
+  rungs:
+    - { rung: bureau, date: 2003-02, post: 哈尔滨市农业科学院院长（副局级）, cite: u10-people-2016-12-21-qu-min }
+    - { rung: vice, date: 2016-12, post: 绥化市委书记, cite: u10-people-2016-12-21-qu-min }
+  turns:
+    - date: 2006-12
+      h: 农科院到区长
+      text: >-
+        曲敏1986年起在哈尔滨市农业科学研究所工作，2003年任哈尔滨市农业科学院院长，2006年12月任哈尔滨市呼兰区区长，2009年4月任呼兰区委书记。
+      did: >-
+        从农业科研单位的院长转任城区的主官。
+      who: []
+      cites: [u10-people-2016-12-21-qu-min]
+    - date: 2010-07
+      h: 援疆到兵团
+      text: >-
+        2010年他以正厅级身份任黑龙江省援疆干部副领队，8月任新疆生产建设兵团第十师副师长，2012年6月任十师师长，9月兼任北屯市长，2013年7月任北屯市委书记、十师政委。他在2012年《经济日报》的文章中写道，2010年6月他和其他12名援疆骨干“首发入疆”；人民网简历记的援疆时间是2010年7月。
+      did: >-
+        以援疆干部身份到兵团任职，三年里从副师长升到师政委、市委书记。
+      who: []
+      cites: [u10-people-2016-12-21-qu-min, u10-ce-2012-06-15-qu-min]
+    - date: 2016-02
+      h: 回省当市长
+      text: >-
+        2016年2月他回到黑龙江任绥化市委副书记、代市长，3月当选市长，12月任绥化市委书记，后任黑龙江省政协副主席。2023年12月他被开除党籍和公职，2024年11月被判处有期徒刑13年，法院认定他受贿所利用的职务便利包括十师师长、北屯市长等职。
+      did: >-
+        援疆结束后回省当地级市一把手，升至省政协副主席，最后因受贿入狱。
+      who: []
+      cites: [u10-people-2016-12-21-qu-min, r05-ccdi-2023-12-07-qu-min-expel, r05-xinhua-2024-11-06-qu-min-verdict]
+  can:
+    text: >-
+      能看到的是援疆经历对晋升的作用：他援疆前是区委书记，援疆时是正厅级，回来后直接当了地级市长。
+    cites: [u10-people-2016-12-21-qu-min]
+  cannot:
+    text: >-
+      法院认定他受贿所利用的职务便利包括援疆期间的职务，援疆经历本身不能说明一个干部的操守。
+    cites: [r05-xinhua-2024-11-06-qu-min-verdict]
+
+bateer:
+  routes: [united, ccdi, frontier, local]
+  rungs:
+    - { rung: vice, date: 1999, post: 内蒙古自治区党委常委、纪委书记, cite: p01-wiki-bater }
+    - { rung: minister, date: 2008-04, post: 内蒙古自治区代主席, cite: p01-wiki-bater }
+  turns:
+    - date: 1999
+      h: 乌海到纪委
+      text: >-
+        巴特尔是蒙古族，在乌海市工作七年后，1999年任内蒙古自治区党委常委、纪委书记，三年后升任自治区党委副书记，仍兼纪委书记。
+      did: >-
+        从地级市进入自治区领导班子，主管纪检。
+      who: []
+      cites: [p01-wiki-bater]
+    - date: 2008-04
+      h: 当自治区主席
+      text: >-
+        2008年4月3日他任内蒙古自治区代主席，2009年1月当选主席，任职到2016年3月。
+      did: >-
+        担任民族自治区的政府主席近八年。
+      who: []
+      cites: [p01-wiki-bater]
+    - date: 2016-03
+      h: 转任民委主任
+      text: >-
+        2016年3月30日他辞去自治区主席，改任国家民族事务委员会党组书记，4月28日被任命为国家民委主任，2018年3月当选全国政协副主席。
+      did: >-
+        从自治区主席转到主管民族事务的部委，再成为国家领导人。
+      who: []
+      cites: [p01-wiki-bater]
+  can:
+    text: >-
+      能看到的是少数民族干部的一条路径：在民族自治区当政府主席，再到国家民委当主任，最后任全国政协副主席。
+    cites: [p01-wiki-bater]
+  cannot:
+    text: >-
+      维基百科的记载很简略，没有说明他从纪委书记转任政府主席的原因。
+    cites: [p01-wiki-bater]
+
+pan-yue:
+  routes: [united, media, youth]
+  rungs:
+    - { rung: vice, date: 1998, post: 国家技术质量监督局副局长, cite: k05-wiki-pan-yue }
+    - { rung: minister, date: 2016-03, post: 中央社会主义学院党组书记（正部长级）, cite: k05-wiki-pan-yue }
+  turns:
+    - date: 1998
+      h: 38岁副部级
+      text: >-
+        潘岳是江苏南京人，十六岁参军，1982年退役后当过资料员、记者，工作变动频繁，后任《中国青年报》副总编辑；1993年进入共青团中央，任中国青年研究中心主任。1998年，38岁的他任国家技术质量监督局副局长，维基百科称他是当时中国最年轻的副部级官员之一。2001年他发表报告《对从革命党向执政党转变的思考》，维基百科称此事导致他从国务院体改办副主任调任国家环保总局。
+      did: >-
+        从媒体和共青团系统起步，很年轻就升到副部级，又因政治主张引起关注而调往环保部门。
+      who: []
+      cites: [k05-wiki-pan-yue]
+    - date: 2003-03
+      h: 掀环评风暴
+      text: >-
+        2003年3月他任国家环保总局副局长，2008年环保总局升格为环境保护部后任副部长。维基百科称他行事高调，频频掀起“环评风暴”；2010年他因推动环保获得菲律宾的拉蒙·麦格塞塞奖。
+      did: >-
+        在环保部门做了十几年副职，以高调的环评执法出名。
+      who: []
+      cites: [k05-wiki-pan-yue]
+    - date: 2016-03
+      h: 转入统战系统
+      text: >-
+        2016年3月他转任中央社会主义学院党组书记（正部长级）、第一副院长，2020年10月任中央统战部副部长、国务院侨办主任，2022年6月接替陈小江任国家民委主任，2025年9月满65岁后卸任。2020年他在中央社会主义学院讲党课时，主张逐步将“民族优惠政策”转向“区域优惠政策”。
+      did: >-
+        从环保部门转到统战和民族工作系统，最后主管全国民族事务。
+      who: [chen-xiaojiang]
+      cites: [k05-wiki-pan-yue]
+  can:
+    text: >-
+      他此前没有统战和民族工作的经历，转入中央社会主义学院六年后就当上国家民委主任。
+    cites: [k05-wiki-pan-yue]
+  cannot:
+    text: >-
+      学不来的是家庭背景：维基百科称他的父亲是原铁道兵司令部副参谋长，前妻是刘华清的女儿。
+    cites: [k05-wiki-pan-yue]
+
+bu-xiaolin:
+  routes: [united, frontier, local]
+  rungs:
+    - { rung: bureau, date: 1997, post: 内蒙古自治区政府法制局局长, cite: k05-ce-2021-08-20-bu-xiaolin }
+    - { rung: vice, date: 2008-01, post: 内蒙古自治区副主席, cite: k05-ce-2021-08-20-bu-xiaolin }
+    - { rung: minister, date: 2016-03, post: 内蒙古自治区代主席, cite: k05-ce-2021-08-20-bu-xiaolin }
+  turns:
+    - date: 1997
+      h: 法制局起步
+      text: >-
+        布小林是蒙古族，当过知青和战士，北京大学法律系毕业后进入内蒙古自治区政府法制局工作，1997年任局长，2000年任法制办主任，2003年任自治区政府副秘书长。
+      did: >-
+        学法律出身，在自治区政府的法制部门做到一把手。
+      who: []
+      cites: [k05-ce-2021-08-20-bu-xiaolin]
+    - date: 2004-09
+      h: 主政阿拉善
+      text: >-
+        2004年9月她任阿拉善盟盟长，2006年9月任盟委书记，2008年1月任内蒙古自治区副主席。
+      did: >-
+        到盟里当主官，再回自治区政府当副主席。
+      who: []
+      cites: [k05-ce-2021-08-20-bu-xiaolin]
+    - date: 2014-01
+      h: 统战部长到主席
+      text: >-
+        2014年1月她任内蒙古自治区党委常委、统战部部长。2016年3月巴特尔辞去自治区主席后，她任自治区党委副书记、代主席，6月当选主席，2021年8月卸任。
+      did: >-
+        从统战部长直接升任自治区主席。
+      who: [bateer]
+      cites: [k05-ce-2021-08-20-bu-xiaolin, p01-wiki-bater]
+  can:
+    text: >-
+      她的经历显示，在民族自治区，统战部长可以是通往政府主席的一步。
+    cites: [k05-ce-2021-08-20-bu-xiaolin]
+  cannot:
+    text: >-
+      官方简历没有说明她被选为主席的原因，也没有记载她在统战部长任上做了什么。
+    cites: [k05-ce-2021-08-20-bu-xiaolin]
+
+wan-gang:
+  routes: [parties, campus, scholar, technocrat]
+  rungs:
+    - { rung: vice, date: 2004, post: 同济大学校长（副部长级）, cite: u10-cppcc-2020-06-16-wan-gang }
+    - { rung: minister, date: 2007-04, post: 科学技术部部长, cite: u10-wiki-wan-gang }
+    - { rung: pb, date: 2008-03, post: 全国政协副主席, cite: u10-wiki-wan-gang }
+  turns:
+    - date: 1985
+      h: 赴德读博
+      text: >-
+        万钢是上海人，1969年到吉林延吉插队，1975年作为“工农兵学员”进入东北林业大学，1981年在同济大学获硕士学位。1985年他获世界银行奖学金赴德国克劳斯塔尔工业大学读博，1991年毕业后进入奥迪公司，做到技术经理。
+      did: >-
+        知青出身，出国读博后在德国车企当了十年工程师。
+      who: []
+      cites: [u10-wiki-wan-gang, u10-cppcc-2020-06-16-wan-gang]
+    - date: 2000-12
+      h: 回国搞电动车
+      text: >-
+        1999年他带德国汽车专家代表团回国考察，提出开发清洁能源汽车的建议；2000年平安夜，经同济老校长李国豪劝说并受科技部邀请，他回到中国，被聘为国家“863计划”电动汽车重大专项首席科学家。2001年他回同济大学任汽车学院院长、校长助理，2004年任同济大学校长（副部长级）。
+      did: >-
+        带着在德国积累的技术回国，主持国家电动汽车项目，三年后当上大学校长。
+      who: []
+      cites: [u10-wiki-wan-gang, u10-cppcc-2020-06-16-wan-gang]
+    - date: 2007-04
+      h: 非党员当部长
+      text: >-
+        2006年12月他当选致公党中央副主席。2007年4月，科技部部长徐冠华因年龄到限被免职，全国人大常委会任命万钢为科技部部长；维基百科称，他是1972年傅作义辞职后35年来首位非中共党员的正部长级官员。同年12月他当选致公党中央主席，2008年3月当选全国政协副主席，部长一职做到2018年。
+      did: >-
+        以民主党派领导人的身份担任国务院部长十一年。
+      who: [xu-guanhua]
+      cites: [u10-wiki-wan-gang, u10-cppcc-2020-06-16-wan-gang]
+  can:
+    text: >-
+      能学的是专业积累：他在德国车企做了十年工程师，回国时带着电动汽车这个具体的技术方向。
+    cites: [u10-wiki-wan-gang]
+  cannot:
+    text: >-
+      非中共人士出任部长的情况极少，维基百科称陈竺是继他之后的第二位；这样的任命由中共中央安排，个人无法争取。
+    cites: [u10-wiki-wan-gang, u10-wiki-chen-zhu]
+  counter:
+    - id: liu-kuanren
+      name: 刘宽忍
+      text: 同为民主党派中央领导人，曾任民进中央副主席；2026年8月被判处有期徒刑十五年，法院认定他受贿4146万余元、贪污739万余元。
+      cite: r07-people-2026-08-31-liu-kuanren-verdict
+  deep: true
+
+chen-zhu:
+  routes: [parties, scholar, technocrat, base]
+  rungs:
+    - { rung: vice, date: 2000-10, post: 中国科学院副院长, cite: u10-wiki-chen-zhu }
+    - { rung: minister, date: 2007-06, post: 卫生部部长, cite: u10-wiki-chen-zhu }
+    - { rung: pb, date: 2013-03, post: 全国人大常委会副委员长, cite: u10-wiki-chen-zhu }
+  turns:
+    - date: 1978
+      h: 赤脚医生考研
+      text: >-
+        陈竺生于上海，1970年作为知青到江西信丰插队，1973年到横峰县，靠自学当上“赤脚医生”，1975年被推荐到上饶地区卫生学校学习。1978年研究生招生恢复，他考入上海第二医学院，师从血液病学专家王振义。
+      did: >-
+        知青出身，靠自学和考研进入医学研究。
+      who: []
+      cites: [u10-wiki-chen-zhu]
+    - date: 1989-07
+      h: 回国做院士
+      text: >-
+        1984年他赴法国巴黎第七大学读博并做博士后，1989年7月回国，在上海血液学研究所做到所长；1995年当选中国科学院院士，维基百科称他是当时中国医学界最年轻的院士。2000年10月他任中国科学院副院长。
+      did: >-
+        在血液学研究上取得成果，成为院士，再到中科院任副院长。
+      who: []
+      cites: [u10-wiki-chen-zhu, u10-npc-2019-05-21-chen-zhu]
+    - date: 2007-06
+      h: 非党人士掌卫生部
+      text: >-
+        2007年6月全国人大常委会决定由他接替高强任卫生部部长，维基百科称他是继万钢之后第二位担任正职部长的非中共人士。2012年9月他加入农工党，同年12月接替桑国卫任农工党中央主席；2013年3月他当选全国人大常委会副委员长。
+      did: >-
+        先以无党派学者身份当部长，五年后加入民主党派并出任该党中央主席。
+      who: [gao-qiang, wan-gang]
+      cites: [u10-wiki-chen-zhu]
+  can:
+    text: >-
+      能看到的是学术地位可以成为从政的起点：他先是院士和中科院副院长，然后才出任部长。
+    cites: [u10-wiki-chen-zhu]
+  cannot:
+    text: >-
+      官方资料没有说明他为何加入农工党，也没有说明他入党三个月就当选主席的过程。
+    cites: [u10-wiki-chen-zhu]
+
+pan-xianzhang:
+  routes: [open, transfer, office]
+  rungs:
+    - { rung: bureau, date: 2005-11, post: 山西省经济委员会副主任, cite: f07-wiki-pan-xianzhang }
+    - { rung: vice, date: 2021-03, post: 江苏省副省长, cite: f07-wiki-pan-xianzhang }
+  turns:
+    - date: 1999-07
+      h: 博士进地税局
+      text: >-
+        潘贤掌1999年7月到福建省地方税务局工作，做到税收科学研究所副所长。
+      did: >-
+        在省直部门做税收研究。
+      who: []
+      cites: [f07-wiki-pan-xianzhang]
+    - date: 2005-11
+      h: 公选跨省到山西
+      text: >-
+        2005年11月他通过公选跨省调往山西，先后任山西省经委副主任、财政厅副厅长，后任财政厅厅长。
+      did: >-
+        通过公开选拔从福建到山西任副厅级职务，在山西工作了十五年。
+      who: []
+      cites: [f07-wiki-pan-xianzhang]
+    - date: 2021-03
+      h: 再跨省到江苏
+      text: >-
+        他任山西省财政厅厅长一个月后，2021年3月跨省升任江苏省副省长；同年11月任江苏省委常委、秘书长，维基百科称他是当时全国最年轻的省委秘书长。2022年8月他任中台办、国台办副主任。
+      did: >-
+        第二次跨省，升为副部级，以秘书长身份进入省委常委班子。
+      who: []
+      cites: [f07-wiki-pan-xianzhang]
+  can:
+    text: >-
+      能学的是公开选拔提供的机会：他在福建是研究所副所长，通过公选到另一个省当上副厅级干部。
+    cites: [f07-wiki-pan-xianzhang]
+  cannot:
+    text: >-
+      他之后的升迁不再是公开选拔的结果，官方没有说明他调往江苏的原因。
+    cites: [f07-wiki-pan-xianzhang]
+
+guo-yuanqiang:
+  routes: [open, scholar, successor, transfer, org]
+  rungs:
+    - { rung: bureau, date: 2003-08, post: 广东省质量技术监督局副局长, cite: u10-bjnews-2021-02-20-guo-yuanqiang }
+    - { rung: vice, date: 2018-01, post: 江苏省副省长, cite: u10-bjnews-2021-02-20-guo-yuanqiang }
+  turns:
+    - date: 2003-08
+      h: 考出来的副局长
+      text: >-
+        郭元强是河南光山人，在中国科学院广州化学研究所做研究，做到研究员，2001年起挂职深圳市科技局局长助理。2003年广东首次实行省、市、县联合公选，公开选拔20名副厅长、100名副县长，这是广东的干部“种苗工程”。新京报称，他经过笔试、面试、考察，成为20名副厅长之一，任广东省质量技术监督局副局长。
+      did: >-
+        从科研人员通过考试直接成为副厅级干部。
+      who: []
+      cites: [u10-bjnews-2021-02-20-guo-yuanqiang]
+    - date: 2008
+      h: 再次入选双百
+      text: >-
+        2008年广东面向全国公开选拔一批厅、处级干部，他再次入选，到茂名任市委常委、副市长，后兼任高州市委书记；青岛新闻网2010年转载的报道说，这次“双百”计划是汪洋倡导的。2012年3月他出任广东省外经贸厅厅长，新京报称他是广东第一位通过“公推比选”产生的正厅长。
+      did: >-
+        第二、第三次通过竞争性选拔升职，从地方副职做到省直部门一把手。
+      who: [wang-yang]
+      cites: [u10-bjnews-2021-02-20-guo-yuanqiang, u10-qdnews-2010-12-20-guangdong-gongxuan]
+    - date: 2016-03
+      h: 赴珠海救火
+      text: >-
+        2016年3月23日晚，时任珠海市委书记李嘉落马，次日上午他即赴珠海任市委书记。2018年1月他首次离开广东，任江苏省副省长，2019年任省委常委、秘书长，2021年2月任江苏省委组织部部长；2021年9月任湖北省委常委、武汉市委书记，2025年10月转任湖北省人大常委会党组副书记。
+      did: >-
+        接手落马者的位置，此后跨省到江苏主管干部工作，再到湖北任武汉市委书记。
+      who: [li-jia-zhuhai]
+      cites: [u10-bjnews-2021-02-20-guo-yuanqiang, k06-wiki-guo-yuanqiang]
+  can:
+    text: >-
+      能学的是公开选拔给体制外的人提供了入口：他是研究员，经笔试、面试进入官场，此后又两次在竞争性选拔中胜出。
+    cites: [u10-bjnews-2021-02-20-guo-yuanqiang]
+  cannot:
+    text: >-
+      公选干部能升到副省部级的是少数：报道称，广东2000年至2003年公选的63名副厅级干部中，到2010年有17人提任正厅级；四川1995年首批公选的副厅级干部中，只有李少平一人升到副省级。
+    cites: [u10-qdnews-2010-12-20-guangdong-gongxuan, u10-sina-2009-09-07-sichuan-gongxuan]
+  deep: true
+
+zhou-ji:
+  routes: [campus, scholar, technocrat]
+  rungs:
+    - { rung: vice, date: 2001, post: 湖北省委常委、武汉市委副书记、代市长, cite: k04-wiki-zhou-ji }
+    - { rung: minister, date: 2003-03, post: 教育部部长, cite: k04-wiki-zhou-ji }
+  turns:
+    - date: 1997
+      h: 当华中理工校长
+      text: >-
+        周济生于武汉，1970年从清华大学精密仪器系毕业，后在美国纽约州立大学布法罗分校获博士学位，1984年回华中理工大学任教，1995年任副校长，1997年任校长，1999年当选中国工程院院士。
+      did: >-
+        留学回国后在大学做到校长，成为院士。
+      who: []
+      cites: [k04-wiki-zhou-ji]
+    - date: 2001
+      h: 校长转市长
+      text: >-
+        2000年他兼任湖北省科技厅厅长。2001年他卸任华中科技大学校长，任湖北省委常委、武汉市委副书记、代市长，2002年任武汉市长，维基百科称他是继徐匡迪之后中国第二位有院士资格的市长；不久他被任命为教育部副部长。
+      did: >-
+        从大学校长转为省会城市的市长，再进入教育部。
+      who: [xu-kuangdi]
+      cites: [k04-wiki-zhou-ji]
+    - date: 2003-03
+      h: 主掌教育部
+      text: >-
+        2003年3月他任教育部部长，2009年10月卸任；2010年6月接替徐匡迪任中国工程院院长。
+      did: >-
+        当了六年半教育部长，之后回到学术机构当工程院院长。
+      who: [xu-kuangdi]
+      cites: [k04-wiki-zhou-ji, k04-wiki-yuan-guiren]
+  can:
+    text: >-
+      能看到的是名校校长从政的一条路：先在本省兼任政府职务，再进入教育部当部长。
+    cites: [k04-wiki-zhou-ji]
+  cannot:
+    text: >-
+      官方资料没有说明他为何被选中转任武汉市长。
+    cites: [k04-wiki-zhou-ji]
+
+hou-jianguo:
+  routes: [campus, scholar, technocrat]
+  rungs:
+    - { rung: vice, date: 2015-01, post: 科学技术部副部长, cite: f07-wiki-hou-jianguo }
+    - { rung: minister, date: 2018-03, post: 中国科学院党组副书记、副院长（正部长级）, cite: f07-wiki-hou-jianguo }
+  turns:
+    - date: 2015-01
+      h: 校长转副部长
+      text: >-
+        侯建国是化学家、中国科学院院士，曾任中国科学技术大学副校长、校长和全国人大常委会委员。2015年1月24日他进入政界，任科技部副部长。
+      did: >-
+        从大学校长转为中央部委的副部长。
+      who: []
+      cites: [f07-wiki-hou-jianguo]
+    - date: 2016-11
+      h: 广西与质检
+      text: >-
+        2016年11月他任广西壮族自治区党委专职副书记，2017年6月任国家质检总局党组书记、副局长。2018年3月机构改革中质检总局撤销，他没有在新组建的市场监管总局任职，回到中科院任党组副书记、副院长（正部长级）。
+      did: >-
+        先到地方当副书记，再到国务院部门当党组书记，部门撤销后回到科研系统。
+      who: []
+      cites: [f07-wiki-hou-jianguo]
+    - date: 2020-11
+      h: 执掌中科院
+      text: >-
+        2020年11月他任中国科学院党组书记、院长，2023年3月当选全国人大教科文卫委员会副主任委员。
+      did: >-
+        担任中国科学院院长。
+      who: []
+      cites: [f07-wiki-hou-jianguo]
+  can:
+    text: >-
+      他的经历说明校长从政不一定走到地方主官：他在地方和国务院部门各任职一段后，最后回到科研系统当院长。
+    cites: [f07-wiki-hou-jianguo]
+  cannot:
+    text: >-
+      官方资料没有说明他从广西调往质检总局、又回到中科院的原因。
+    cites: [f07-wiki-hou-jianguo]
+
+yuan-guiren:
+  routes: [campus, scholar, base]
+  rungs:
+    - { rung: vice, date: 2001-04, post: 教育部副部长, cite: k04-wiki-yuan-guiren }
+    - { rung: minister, date: 2009-10, post: 教育部部长, cite: k04-wiki-yuan-guiren }
+  turns:
+    - date: 1978
+      h: 考进北师大
+      text: >-
+        袁贵仁是安徽固镇人，1968年高中毕业时赶上文化大革命，回乡种地，后在王庄中学当语文教师。1978年他考入北京师范大学哲学系。
+      did: >-
+        从乡村教师考进大学。
+      who: []
+      cites: [k04-wiki-yuan-guiren]
+    - date: 1995
+      h: 北师大掌校
+      text: >-
+        他毕业后留在北师大工作，1995年任常务副校长，1996年任党委书记，1999年任校长；1998年他还被任命为北京市市长助理兼市教委主任。
+      did: >-
+        在母校做到党委书记、校长，同时兼任北京市的政府职务。
+      who: []
+      cites: [k04-wiki-yuan-guiren]
+    - date: 2001-04
+      h: 进教育部
+      text: >-
+        2001年4月他离开北师大，任教育部副部长，2009年10月31日接替周济任教育部部长，2016年6月卸任。
+      did: >-
+        从副部长做起，在教育部工作十五年，当了近七年部长。
+      who: [zhou-ji]
+      cites: [k04-wiki-yuan-guiren]
+  can:
+    text: >-
+      他和周济都是从大学校长进入教育部、最后当上部长的。
+    cites: [k04-wiki-yuan-guiren, k04-wiki-zhou-ji]
+  cannot:
+    text: >-
+      官方资料没有说明他为何从北师大调入教育部。
+    cites: [k04-wiki-yuan-guiren]

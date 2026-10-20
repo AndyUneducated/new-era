@@ -1,6 +1,6 @@
 # U07: 上位之路 for the sitting provincial party secretaries (round 13). Fields: src/data/schema.ts TurnRecordSchema; howto-content.md §12.
 xu-lin:
-  routes: [patron, media, local]
+  routes: [patron, aid, media, local]
   rungs:
     - { rung: vice, date: 2007-05, post: 上海市委常委、市农委主任, cite: u07-xinhua-2022-12-09-xu-lin-cv }
     - { rung: minister, date: 2016-06, post: 中央宣传部副部长、中央网信办（国家网信办）主任, cite: u07-xinhua-2022-12-09-xu-lin-cv }
@@ -90,7 +90,7 @@ chen-gang-1965:
   deep: true
 
 zhao-yide:
-  routes: [youth, patron, local]
+  routes: [youth, patron, office, local]
   rungs:
     - { rung: county, date: 1996-11, post: 共青团浙江省委组织部部长, cite: u07-sxworker-2022-11-27-zhao-yide-cv }
     - { rung: bureau, date: 2000-07, post: 共青团浙江省委副书记, cite: u07-sxworker-2022-11-27-zhao-yide-cv }
@@ -141,7 +141,7 @@ zhao-yide:
   deep: true
 
 chen-xiaojiang:
-  routes: [ccdi, media, technocrat]
+  routes: [ccdi, united, media, technocrat]
   turns:
     - date: 2015-08
       h: 从黄委到中纪委
@@ -183,7 +183,7 @@ chen-xiaojiang:
   deep: true
 
 guan-zhiou:
-  routes: [local, technocrat]
+  routes: [local, transfer, technocrat, office]
   rungs:
     - { rung: vice, date: 2016-12, post: 辽宁省委常委、省总工会主席候选人, cite: u07-ce-2025-01-07-guan-zhiou-cv }
     - { rung: minister, date: 2024-12, post: 自然资源部党组书记、部长, cite: u07-ce-2025-01-07-guan-zhiou-cv }
@@ -228,7 +228,7 @@ guan-zhiou:
   deep: true
 
 luo-wen:
-  routes: [technocrat]
+  routes: [think, technocrat]
   rungs:
     - { rung: vice, date: 2017-07, post: 工业和信息化部副部长, cite: u07-thepaper-2026-07-31-luo-wen-cv }
     - { rung: minister, date: 2022-06, post: 国家市场监督管理总局党组书记, cite: u07-thepaper-2026-07-31-luo-wen-cv }
@@ -259,7 +259,7 @@ luo-wen:
     cites: [u07-thepaper-2026-07-31-luo-wen-cv]
 
 tang-dengjie:
-  routes: [industry, local]
+  routes: [industry, soe, local]
   rungs:
     - { rung: vice, date: 2003-02, post: 上海市副市长, cite: u07-chinanews-2023-10-28-tang-dengjie }
     - { rung: minister, date: 2018-01, post: 福建省省长, cite: p01-wiki-fujian-gov }
@@ -290,7 +290,7 @@ tang-dengjie:
     cites: [u07-chinanews-2023-10-28-tang-dengjie]
 
 wang-weizhong:
-  routes: [technocrat, successor]
+  routes: [technocrat, successor, office]
   rungs:
     - { rung: county, date: 1992-05, post: 国家科委社会发展科技司综合资源处副处长, cite: u07-ce-2017-04-03-wang-weizhong-cv }
     - { rung: bureau, date: 1999-03, post: 中国21世纪议程管理中心和生命科学技术发展中心主任（副局级）, cite: u07-ce-2017-04-03-wang-weizhong-cv }
@@ -361,7 +361,7 @@ xu-kunlin:
     cites: [u07-cctv-2021-10-19-xu-kunlin-cv]
 
 huang-qiang:
-  routes: [industry, technocrat]
+  routes: [industry, soe, technocrat]
   rungs:
     - { rung: vice, date: 2008-06, post: 国家国防科技工业局副局长, cite: u07-people-2021-02-03-huang-qiang-cv }
     - { rung: minister, date: 2020-12, post: 四川省代省长, cite: u07-people-2021-02-03-huang-qiang-cv }
@@ -430,7 +430,7 @@ xu-qin:
     cites: [k05-xinhua-2023-06-14-xu-qin]
 
 xin-changxing:
-  routes: [technocrat]
+  routes: [technocrat, org, transfer]
   rungs:
     - { rung: county, date: 1993-02, post: 劳动部政策法规司综合处副处长, cite: u07-jsnews-2023-01-03-xin-changxing-cv }
     - { rung: bureau, date: 1997-02, post: 劳动部政策法规司副司长, cite: u07-jsnews-2023-01-03-xin-changxing-cv }
@@ -463,7 +463,7 @@ xin-changxing:
     cites: [u07-jsnews-2023-01-03-xin-changxing-cv]
 
 wang-hao:
-  routes: [local]
+  routes: [local, transfer]
   rungs:
     - { rung: county, date: 1993-01, post: 菏泽市曹县县委常委、宣传部部长, cite: u07-thepaper-2024-10-28-wang-hao-cv }
     - { rung: bureau, date: 2003-04, post: 菏泽市委常委、牡丹区委书记, cite: u07-thepaper-2024-10-28-wang-hao-cv }
@@ -501,7 +501,7 @@ wang-hao:
       cite: c03-ccdi-2026-02-10-yi-lianhong-probe
 
 li-lecheng:
-  routes: [industry, local]
+  routes: [industry, local, org]
   rungs:
     - { rung: bureau, date: 2002-01, post: 荆门市委常委, cite: u07-people-2017-06-30-li-lecheng-cv }
     - { rung: vice, date: 2017-06, post: 湖北省委常委、襄阳市委书记, cite: u07-people-2017-06-30-li-lecheng-cv }
@@ -566,7 +566,7 @@ zhao-long:
     cites: [u07-cctv-2021-10-22-zhao-long-cv]
 
 yin-hong:
-  routes: [local, youth]
+  routes: [office, aid, local, youth]
   rungs:
     - { rung: county, date: 1989-09, post: 上海工业大学团委书记（副处级）, cite: u07-people-2021-03-31-yin-hong-cv }
     - { rung: bureau, date: 1998-07, post: 上海市长宁区副区长, cite: u07-people-2021-03-31-yin-hong-cv }
@@ -599,7 +599,7 @@ yin-hong:
     cites: [u07-people-2021-03-31-yin-hong-cv]
 
 lin-wu:
-  routes: [industry, local]
+  routes: [industry, org, transfer, local]
   rungs:
     - { rung: vice, date: 2015-08, post: 湖南省委常委、长株潭试验区工委书记, cite: u07-cctv-2019-12-05-lin-wu-cv }
     - { rung: minister, date: 2019-12, post: 山西省代省长, cite: u07-cctv-2019-12-05-lin-wu-cv }
@@ -630,7 +630,7 @@ lin-wu:
     cites: [u07-cctv-2019-12-05-lin-wu-cv]
 
 zhou-zuyi:
-  routes: [scholar, technocrat]
+  routes: [org, scholar, campus, technocrat]
   rungs:
     - { rung: bureau, date: 2002-07, post: 同济大学党委副书记, cite: u07-people-2019-05-24-zhou-zuyi-cv }
     - { rung: vice, date: 2011-11, post: 同济大学党委书记（副部长级）, cite: u07-people-2019-05-24-zhou-zuyi-cv }
@@ -662,7 +662,7 @@ zhou-zuyi:
     cites: [u07-people-2019-05-24-zhou-zuyi-cv]
 
 shen-xiaoming:
-  routes: [scholar, local]
+  routes: [campus, scholar, local, transfer]
   rungs:
     - { rung: vice, date: 2008-01, post: 上海市副市长, cite: u07-gov-2017-04-07-shen-xiaoming-cv }
     - { rung: minister, date: 2017-04, post: 海南省代省长, cite: u07-gov-2017-04-07-shen-xiaoming-cv }
@@ -693,7 +693,7 @@ shen-xiaoming:
     cites: [u07-gov-2017-04-07-shen-xiaoming-cv]
 
 feng-fei:
-  routes: [scholar, technocrat]
+  routes: [think, scholar, technocrat]
   rungs:
     - { rung: county, date: 1995-11, post: 国务院发展研究中心技术经济研究部第二研究室副主任（副处级）, cite: k06-hndaily-2020-12-03-feng-fei }
     - { rung: vice, date: 2015-10, post: 工业和信息化部副部长, cite: k06-hndaily-2020-12-03-feng-fei }
@@ -756,7 +756,7 @@ wang-xiaohui:
     cites: [p02-xinhua-2022-04-22-sichuan-sec]
 
 wang-ning-yunnan:
-  routes: [technocrat, local]
+  routes: [technocrat, org, aid, local]
   rungs:
     - { rung: bureau, date: 1999-06, post: 建设部建筑管理司助理巡视员（副司级）, cite: u07-cctv-2020-07-02-wang-ning-cv }
     - { rung: vice, date: 2013-06, post: 住房和城乡建设部副部长, cite: u07-cctv-2020-07-02-wang-ning-cv }
@@ -788,7 +788,7 @@ wang-ning-yunnan:
     cites: [u07-cctv-2020-07-02-wang-ning-cv]
 
 hu-changsheng:
-  routes: [local, frontier]
+  routes: [org, local, transfer, frontier]
   rungs:
     - { rung: county, date: 1998-12, post: 挂职成都市锦江区副区长, cite: u07-people-2021-02-23-hu-changsheng-cv }
     - { rung: bureau, date: 2004-02, post: 雅安市委常委、组织部部长, cite: u07-people-2021-02-23-hu-changsheng-cv }
@@ -821,7 +821,7 @@ hu-changsheng:
     cites: [u07-people-2021-02-23-hu-changsheng-cv]
 
 wu-xiaojun:
-  routes: [local]
+  routes: [local, office, transfer]
   rungs:
     - { rung: county, date: 1996-01, post: 江西省政府办公厅综合处副处级秘书, cite: u07-cctv-2022-04-04-wu-xiaojun-cv }
     - { rung: bureau, date: 2003-05, post: 江西省政府办公厅副主任, cite: u07-cctv-2022-04-04-wu-xiaojun-cv }
@@ -887,7 +887,7 @@ luo-dongchuan:
     cites: [u07-chinapeace-2020-08-06-luo-dongchuan-cv, cs2-chinanews-2016-01-15-luo-dongchuan]
 
 li-yifei:
-  routes: [local, frontier]
+  routes: [org, local, frontier, transfer]
   rungs:
     - { rung: county, date: 1996-03, post: 云南省劳动厅职业安全卫生监察处副处长, cite: u07-people-2020-05-13-li-yifei-cv }
     - { rung: bureau, date: 2001-11, post: 云南省有色地质局副局长, cite: u07-people-2020-05-13-li-yifei-cv }
