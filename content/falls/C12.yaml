@@ -148,6 +148,8 @@ wei-pengyuan:
   sys: central
   grade: county
   amount: { yuan: 210000000, text: 新华社称受贿 2.1 亿余元；维基百科称法院认定涉案金额 3.428 亿元（含巨额财产来源不明）, cite: cs5-xinhua-2016-11-15-life-three }
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实，认罪悔罪, cite: r12-people-2016-10-17-wei-pengyuan }
   trigger: { kind: chain, text: 刘铁男被查后引发能源系统反腐风暴，煤炭司副司长魏鹏远是其中落马的 20 多名能源官员之一, cite: c03-chinacourt-2014-12-10-liu-tienan-verdict }
   politics:
     level: none
@@ -215,6 +217,8 @@ fan-zengyu:
   sys: central
   grade: bureau
   amount: { yuan: 40000000, text: 法院认定先后 38 次向丁书苗索贿约 4000 余万元，另贪污 260 万元，检方指控涉案约 6000 万元, cite: c12-chinanews-2015-04-29-fan-zengyu }
+  plea:
+    - { kind: plea, text: 法院称鉴于范增玉到案后主动交代办案机关尚不掌握的部分受贿及诈骗犯罪事实，认罪态度较好, cite: c12-chinanews-2015-04-29-fan-zengyu }
   trigger: { kind: chain, text: 丁书苗案关键人物，法院认定丁书苗为树立正面形象以逃避查处向他行贿, cite: cs5-court-2014-12-17-ding-shumiao }
   with:
     - { id: ding-shumiao, name: 丁书苗, rel: briber, text: 先后 38 次向范增玉行贿 4000 万余元，以树立正面形象逃避有关部门查处, cite: cs5-court-2014-12-17-ding-shumiao }
@@ -228,6 +232,8 @@ he-hongda:
   sys: central
   grade: vice
   amount: { yuan: 1900000, text: 法院认定 1997—2007 年受贿 190 万余元，另以巨额财产来源不明罪判处, cite: c12-eeo-2009-11-25-he-hongda }
+  plea:
+    - { kind: refund, text: 法院查明案发后受贿赃款已全部退缴, cite: c12-eeo-2009-11-25-he-hongda }
   trigger: { kind: unknown, text: 公开报道未说明线索来源, cite: c12-eeo-2009-11-25-he-hongda }
   with:
     - { id: liu-zhijun, name: 刘志军, rel: patron, text: 刘志军担心何宏达交代出自己收受他 10 万美元，托丁书苗想办法尽快把何宏达弄出来, cite: cs5-chinadaily-2013-09-26-ding-4900 }

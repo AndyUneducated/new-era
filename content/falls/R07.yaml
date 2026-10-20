@@ -127,6 +127,9 @@ xu-baoyi:
       - 借赌敛财，靠粮吃粮
   discipline: [political, organization, integrity, work, life, eight]
   amount: { yuan: 13799489, text: 2006 年至 2021 年非法收受他人给予的财物共计折合人民币 1379.9489 万元, cite: r07-xinhua-2023-06-13-xu-baoyi-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的大部分受贿犯罪事实；认罪悔罪, cite: r07-xinhua-2023-06-13-xu-baoyi-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物已全部追缴, cite: r07-xinhua-2023-06-13-xu-baoyi-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-people-2022-01-23-xu-baoyi-probe }
   politics:
     level: none
@@ -314,6 +317,9 @@ zhang-guang:
       - 公器私用，靠校吃校，将任职高校的资源作为谋私贪腐的工具
   discipline: [political, organization, integrity, eight]
   amount: { yuan: 21200000, text: 2008 年至 2022 年直接或通过他人非法收受财物共计折合人民币 2120 万余元, cite: r07-court-2025-01-10-zhang-guang-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪, cite: r07-court-2025-01-10-zhang-guang-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息已全部追缴, cite: r07-court-2025-01-10-zhang-guang-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-xinhua-2023-08-06-zhang-guang-probe }
   politics:
     level: none
@@ -353,6 +359,10 @@ zhou-zheng:
       - 贪婪无度，骗取公款据为己有
   discipline: [political, organization, integrity, work, eight]
   amount: { yuan: 6050000, text: 1998 年至 2023 年非法收受财物共计折合人民币 605 万余元；另贪污公款 241 万余元, cite: r07-court-2025-01-14-zhou-zheng-verdict }
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的受贿犯罪事实，受贿具有自首情节, cite: r07-court-2025-01-14-zhou-zheng-verdict }
+    - { kind: plea, text: 认罪悔罪, cite: r07-court-2025-01-14-zhou-zheng-verdict }
+    - { kind: refund, text: 积极退赃，受贿、贪污所得赃款赃物已全部追缴, cite: r07-court-2025-01-14-zhou-zheng-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-people-2023-11-08-zhou-zheng-probe }
   politics:
     level: none
@@ -565,6 +575,9 @@ dou-wangui:
       - 利用职务便利为他人在矿产资源开发、工程项目承揽、干部选拔任用等方面谋利
   discipline: [political, organization, integrity, life, eight]
   amount: { yuan: 229000000, text: 2003 年至 2022 年非法收受财物共计折合人民币 2.29 亿余元, cite: r07-people-2025-07-09-dou-wangui-verdict }
+  plea:
+    - { kind: plea, text: 归案后如实供述，主动交代监察机关尚未掌握的绝大部分犯罪事实，认罪悔罪, cite: r07-people-2025-07-09-dou-wangui-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息绝大部分已追缴到案, cite: r07-people-2025-07-09-dou-wangui-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-people-2024-03-20-dou-wangui-probe }
   politics:
     level: none
@@ -659,6 +672,9 @@ zhong-ziran:
       - 违反国家保密规定，故意泄露国家秘密
   discipline: [political, organization, integrity, life, eight]
   amount: { yuan: 23560000, text: 2011 年至 2023 年非法收受财物共计折合人民币 2356 万余元；另于 2019 年将机密级文件交予不应知悉者, cite: r07-people-2025-04-16-zhong-ziran-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: r07-people-2025-04-16-zhong-ziran-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物已全部追缴, cite: r07-people-2025-04-16-zhong-ziran-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r07-people-2024-01-03-zhong-ziran-probe }
   politics:
     level: none
@@ -1096,6 +1112,10 @@ zhang-jianhua-gfkg:
       - 利用职务便利为他人在项目承揽、投资入股、行政审批等方面谋利
   discipline: [organization, integrity, eight]
   amount: { yuan: 43380000, text: 2008 年至 2025 年受贿 4338 万余元；2021 年至 2025 年退休后利用影响力受贿 1170 万元, cite: r07-people-2026-08-05-zhang-jianhua-gfkg-verdict }
+  plea:
+    - { kind: surrender, text: 自动投案，如实供述自己的罪行，构成自首, cite: r07-people-2026-08-05-zhang-jianhua-gfkg-verdict }
+    - { kind: plea, text: 主动交代监察机关尚未掌握的部分受贿、利用影响力受贿事实，认罪悔罪, cite: r07-people-2026-08-05-zhang-jianhua-gfkg-verdict }
+    - { kind: refund, text: 积极退赃，其违法所得已全部追缴, cite: r07-people-2026-08-05-zhang-jianhua-gfkg-verdict }
   trigger: { kind: surrender, text: 官方通报称其主动投案, cite: r07-people-2025-05-28-zhang-jianhua-gfkg-probe }
   politics:
     level: none

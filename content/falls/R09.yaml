@@ -152,6 +152,8 @@ yu-hongchen:
   sys: culture
   grade: bureau
   amount: { yuan: 22540000, text: 黄石中院认定 2010—2023 年受贿 2254 万余元，其中 350 万元未实际取得, cite: r09-xinhua-2024-03-26-yu-hongchen }
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的大部分受贿犯罪事实；认罪悔罪, cite: r09-xinhua-2024-03-26-yu-hongchen }
   trigger: { kind: chain, text: 本轮足球领域反腐系列案中被查；财新称王登峰 2022 年 8 月被查后足球圈窝案浮出水面, cite: r09-caixin-2023-02-16-wang-dengfeng }
   politics:
     level: none
@@ -163,6 +165,8 @@ li-yuyi:
   sys: culture
   grade: bureau
   amount: { yuan: 12000000, text: 检方指控 2004—2021 年收受 1200 万余元, cite: r09-qq-2024-08-19-li-yuyi }
+  plea:
+    - { kind: plea, text: 一审庭审中李毓毅进行最后陈述，当庭表示认罪悔罪, cite: r12-stcn-2024-08-19-li-yuyi }
   trigger: { kind: chain, text: 本轮足球领域反腐系列案中被查；财新称王登峰 2022 年 8 月被查后足球圈窝案浮出水面, cite: r09-caixin-2023-02-16-wang-dengfeng }
   politics:
     level: none
@@ -508,6 +512,8 @@ hao-weiping:
   sys: central
   grade: bureau
   amount: { yuan: 12400000, text: 检方指控 2004—2012 年单独或伙同其妻收受 1240 余万元, cite: r09-people-2016-10-19-hao-weiping }
+  plea:
+    - { kind: merit, text: 到案后揭发他人犯罪行为，查证属实，系立功, cite: r09-people-2016-10-19-hao-weiping }
   trigger: { kind: chain, text: 刘铁男被查后一年多内多名发改委和能源局干部被立案，其中包括郝卫平, cite: r09-people-2016-10-19-hao-weiping }
   with:
     - { id: liu-tienan, name: 刘铁男, rel: patron, text: 国家发改委原副主任、国家能源局原局长，其落马引发能源系统反腐，郝卫平随后落马, cite: c03-chinacourt-2014-12-10-liu-tienan-verdict }

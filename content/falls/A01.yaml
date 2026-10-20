@@ -37,6 +37,8 @@ xu-caihou:
 gu-junshan:
   sys: army
   grade: lieutenant
+  plea:
+    - { kind: merit, text: 归案后揭发他人犯罪行为，经查证属实，具有重大立功表现, cite: b13-court-2015-08-10-gu-qa }
   trigger:
     kind: report
     text: 观察者网引罗援称，刘源和总后党委其他同志“以党委的名义举报谷俊山的贪腐问题”

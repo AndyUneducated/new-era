@@ -836,6 +836,9 @@ zhang-jiehui:
     yuan: 127078211.5
     text: 2001 年至 2017 年在鞍山市长、市委书记，河北副省长及省人大常委会副主任任上为相关单位或个人提供帮助，索取或收受财物共计折合人民币 1.270782115 亿元；法院认定其有重大立功表现
     cite: r03-court-2020-zhang-jiehui-verdict
+  plea:
+    - { kind: merit, text: 提供侦破其他重大案件线索，经查证属实，具有重大立功表现, cite: r03-court-2020-zhang-jiehui-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实；认罪悔罪, cite: r03-court-2020-zhang-jiehui-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r03-ccdi-2017-12-12-zhang-jiehui-probe }
   politics:
     level: none
@@ -1049,6 +1052,11 @@ zhang-yue:
     yuan: 156900000
     text: 2008 年至 2016 年在河北省公安厅、省委政法委任上为有关单位和个人在土地开发、工程承揽、案件处理及职务晋升等事项上谋取利益，收受财物共计折合人民币 1.569 亿余元
     cite: f09-court-2018-07-13-zhang-yue
+  plea:
+    - { kind: surrender, text: 犯罪以后自动投案，如实供述自己的罪行，系自首, cite: f09-court-2018-07-13-zhang-yue }
+    - { kind: merit, text: 归案后检举揭发他人重大犯罪问题，经查证属实，具有重大立功表现, cite: f09-court-2018-07-13-zhang-yue }
+    - { kind: plea, text: 认罪悔罪, cite: f09-court-2018-07-13-zhang-yue }
+    - { kind: refund, text: 积极退赃，赃款赃物大部分已退缴, cite: f09-court-2018-07-13-zhang-yue }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r03-ccdi-2016-07-28-zhang-yue-yang-luyu-expel }
   with:
     - { id: zhou-yongkang, name: 周永康, rel: patron, text: 澎湃新闻引河北省公安厅退休官员称，周永康影响了张越出任河北省公安厅一把手的人事调整；法广称张越是周永康的亲信, cite: f06-thepaper-2016-04-16-zhang-yue }

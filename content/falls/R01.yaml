@@ -57,6 +57,8 @@ zhou-zhenhong:
     yuan: 24640000
     text: 2002 年 7 月至 2011 年春节先后多次收受何俊海等 33 人钱款共计折合 2464 万余元；另有 3700 万余元财产不能说明来源
     cite: r01-people-2014-02-28-zhou-zhenhong-verdict
+  plea:
+    - { kind: plea, text: 在被调查期间主动交代了有关部门尚不掌握的绝大部分受贿事实，认罪态度较好, cite: r01-people-2014-02-28-zhou-zhenhong-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -104,6 +106,9 @@ yang-kun:
     yuan: 30798891
     text: 2005 年至 2012 年直接或通过其妻弟先后 9 次收受财物，共计折合 3079.889119 万元
     cite: r01-people-2015-02-05-yang-kun-big5
+  plea:
+    - { kind: plea, text: 归案后主动交代办案机关尚未掌握的部分受贿犯罪事实，具有坦白情节，认罪、悔罪, cite: r01-people-2015-02-05-yang-kun-big5 }
+    - { kind: refund, text: 退缴了全部赃款赃物, cite: r01-people-2015-02-05-yang-kun-big5 }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -125,6 +130,9 @@ ni-fake:
     yuan: 13000000
     text: 先后 49 次收受字画、玉石、现金等财物共计 1300 万余元；另有 580 余万元财产不能说明来源
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: plea, text: 案发后主动交代办案机关尚未掌握的大部分犯罪事实，具有坦白情节；认罪悔罪, cite: r12-court-2015-02-28-ni-fake }
+    - { kind: refund, text: 积极退缴全部赃款赃物, cite: r12-court-2015-02-28-ni-fake }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -147,6 +155,8 @@ guo-yongxiang:
     yuan: 43460000
     text: 受贿 4346 万余元，并犯巨额财产来源不明罪
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: plea, text: 法院审理认为郭永祥能如实供述罪行，并主动交代办案机关尚未掌握的部分受贿事实，认罪态度好, cite: r12-sina-2015-10-14-guo-yongxiang }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -171,6 +181,8 @@ wang-suyi:
     yuan: 10730000
     text: 2005 年至 2013 年为九个单位或个人谋利，收受财物共计折合 1073 万余元
     cite: t01-chinacourt-2014-07-17-wang-suyi-verdict
+  plea:
+    - { kind: plea, text: 归案后主动交代有关部门尚不掌握的大部分受贿事实，认罪态度较好, cite: t01-chinacourt-2014-07-17-wang-suyi-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -192,6 +204,9 @@ li-daqiu:
     yuan: 10950000
     text: 2003 年至 2013 年直接或通过其子收受 17 个单位和个人财物共计折合 1095 万余元
     cite: t01-chinacourt-2014-10-13-li-daqiu-verdict
+  plea:
+    - { kind: merit, text: 检举他人犯罪线索后经查证属实，具有立功表现, cite: r12-court-2014-10-14-li-daqiu }
+    - { kind: plea, text: 归案后主动交代有关部门尚不掌握的大部分受贿事实，具有坦白情节，认罪态度较好, cite: r12-court-2014-10-14-li-daqiu }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -334,6 +349,9 @@ ji-jianye:
     yuan: 11320000
     text: 受贿 1132 万余元
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: plea, text: 案发后主动交代办案机关尚未掌握的部分犯罪事实，具有坦白情节；认罪悔罪, cite: r12-chinanews-2015-04-07-ji-jianye }
+    - { kind: refund, text: 所得赃款赃物全部退缴, cite: r12-chinanews-2015-04-07-ji-jianye }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -357,6 +375,10 @@ liao-shaohua:
     yuan: 13240000
     text: 受贿 1324 万余元
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的滥用职权事实，滥用职权罪具有自首情节, cite: r12-chinadaily-2015-04-09-liao-shaohua }
+    - { kind: plea, text: 受贿罪具有坦白情节；认罪悔罪, cite: r12-chinadaily-2015-04-09-liao-shaohua }
+    - { kind: refund, text: 所得赃款全部退缴, cite: r12-chinadaily-2015-04-09-liao-shaohua }
   trigger:
     kind: inspect
     text: 中央纪委副书记张军说，廖少华案是中央第六巡视组巡视贵州时发现的案件，移交中纪委后优先办理
@@ -543,6 +565,9 @@ yang-gang:
     yuan: 13792800
     text: 受贿 1379.28 万元
     cite: t01-people-2017-01-03-2016-verdicts
+  plea:
+    - { kind: plea, text: 案发后主动交代办案机关尚未掌握的大部分犯罪事实，具有坦白情节；认罪悔罪, cite: r12-court-2016-01-20-yang-gang }
+    - { kind: refund, text: 积极退缴全部赃款赃物, cite: r12-court-2016-01-20-yang-gang }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -659,6 +684,9 @@ shen-peiping:
     yuan: 16150000
     text: 收受他人财物共计折合 1615 万元
     cite: t01-chinacourt-2015-12-shen-peiping-verdict
+  plea:
+    - { kind: merit, text: 主动向办案机关提供侦破其他重大案件的重要线索，查证属实，有重大立功表现, cite: r12-people-2015-12-03-shen-peiping }
+    - { kind: plea, text: 归案后能够如实供述其所犯罪行，认罪悔罪, cite: r12-people-2015-12-03-shen-peiping }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -680,6 +708,9 @@ yao-mugen:
     yuan: 23020000
     text: 受贿 2302 万余元
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: plea, text: 归案后能够如实供述，并主动交代侦查机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r12-cyol-2015-12-19-yao-mugen }
+    - { kind: refund, text: 积极退缴全部赃款赃物, cite: r12-cyol-2015-12-19-yao-mugen }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -773,6 +804,9 @@ tan-qiwei:
     yuan: 11430000
     text: 受贿 1143 余万元
     cite: t01-people-2017-01-03-2016-verdicts
+  plea:
+    - { kind: plea, text: 案发后主动交代侦查机关尚未掌握的大部分犯罪事实，具有坦白情节；认罪悔罪, cite: r12-court-2016-01-08-tan-qiwei }
+    - { kind: refund, text: 积极退缴其个人所获赃款, cite: r12-court-2016-01-08-tan-qiwei }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -819,6 +853,8 @@ yang-baohua:
     yuan: 13560000
     text: 受贿 1356 万余元
     cite: t01-people-2015-12-18-19-verdicts
+  plea:
+    - { kind: plea, text: 到案后能够如实供述受贿罪行，主动交代侦查机关尚未掌握的受贿事实，认罪悔罪, cite: r12-people-2015-11-03-yang-baohua }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1203,6 +1239,8 @@ bai-enpei:
     yuan: 246764511
     text: 2000 年至 2013 年在青海、云南和全国人大任职期间直接或者通过其妻收受财物共计折合 2.46764511 亿元
     cite: c03-people-2016-10-09-bai-enpei-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实；认罪悔罪, cite: c03-people-2016-10-09-bai-enpei-verdict }
   trigger:
     kind: inspect
     text: 中央纪委副书记、监察部部长黄树贤 2015 年 1 月表示，白恩培等人的问题系通过巡视发现
@@ -1239,6 +1277,10 @@ an-dewu:
     yuan: 8888296
     text: 贪污 527.9937 万元，收受孙某甲等六人贿赂 360.835887 万元；法院以证据不足未认定指控中的 70 万元受贿，并更正了贪污数额
     cite: r01-cri-2016-09-06-an-dewu-verdict
+  plea:
+    - { kind: surrender, text: 法院认定所犯受贿罪系自首, cite: r01-cri-2016-09-06-an-dewu-verdict }
+    - { kind: plea, text: 主动交代了大部分未被掌握的贪污犯罪事实，如实供述全部贪污罪行，真诚悔罪, cite: r01-cri-2016-09-06-an-dewu-verdict }
+    - { kind: refund, text: 案发后积极退缴全部赃款, cite: r01-cri-2016-09-06-an-dewu-verdict }
   trigger:
     kind: inspect
     text: 财新报道，他是在中央巡视组巡视一汽的最后一天被宣布接受组织调查的，此时他已退休六年
@@ -1284,6 +1326,11 @@ pan-yiyang:
     yuan: 86010000
     text: 受贿 8601 万余元；另以行贿罪获刑，判决认定他多次向令计划行贿 761 万余元
     cite: t01-people-2017-04-19-11-verdicts
+  plea:
+    - { kind: surrender, text: 在被追诉前主动交代行贿犯罪事实，构成自首, cite: r12-court-2017-04-19-pan-yiyang }
+    - { kind: merit, text: 检举揭发他人重大犯罪线索，经查证属实，具有重大立功表现, cite: r12-court-2017-04-19-pan-yiyang }
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: r12-court-2017-04-19-pan-yiyang }
+    - { kind: refund, text: 积极退赃，赃款赃物已绝大部分追缴, cite: r12-court-2017-04-19-pan-yiyang }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1449,6 +1496,9 @@ wang-min-jinan:
     yuan: 18051000
     text: 受贿 1805.1 万元
     cite: t01-people-2017-01-03-2016-verdicts
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: r12-court-2016-09-30-wang-min-jinan }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-court-2016-09-30-wang-min-jinan }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1496,6 +1546,8 @@ ling-jihua:
     yuan: 77085383
     text: 单独或与其妻谷丽萍共同收受楼忠福、崔晓玉、潘逸阳、魏新、李春城、白恩培、霍克等人财物共计折合 7708.5383 万元
     cite: b07-court-2016-07-04-ling-sentence
+  plea:
+    - { kind: plea, text: 案发后能如实供述自己的罪行，有认罪悔罪表现, cite: b07-court-2016-07-04-ling-sentence }
   trigger:
     kind: chain
     text: 通报称，根据中央纪委、最高人民检察院、公安部在查办案件中发现的线索，2014 年 12 月 22 日中央政治局常委会决定对他立案审查
@@ -1529,6 +1581,9 @@ sun-hongzhi:
     yuan: 15850132
     text: 2002 年至 2014 年单独或伙同其妻收受财物共计折合 1420.824971 万元；另在任松原市长期间侵吞公款 164.188202 万元
     cite: t01-xinhua-2017-02-17-sun-hongzhi-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动坦白办案机关尚未掌握的部分受贿、贪污犯罪事实，认罪、悔罪, cite: r12-people-2017-02-17-sun-hongzhi }
+    - { kind: refund, text: 涉案款物已全部追缴，其中部分赃款系其主动退缴, cite: r12-people-2017-02-17-sun-hongzhi }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源

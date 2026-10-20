@@ -204,6 +204,8 @@ liu-fangren:
   sys: local
   grade: minister
   amount: { yuan: 6770000, text: 法院认定 1995—2002 年单独或伙同儿媳易阳 22 次收受他人钱款共计折合 677 万余元, cite: p03-zqb-2004-06-30-liu-fangren }
+  plea:
+    - { kind: plea, text: 二审法院认为鉴于刘方仁认罪态度较好、具有坦白情节，一审判决量刑适当, cite: r12-chinanews-2004-08-04-liu-fangren }
   trigger: { kind: unknown, text: 本站所见报道未说明线索来源, cite: p03-zqb-2004-06-30-liu-fangren }
   with:
     - { name: 易阳, rel: kin, text: 儿媳，法院认定刘方仁部分受贿系伙同其收受，另案处理, cite: p03-zqb-2004-06-30-liu-fangren }
@@ -356,6 +358,10 @@ wang-lijun:
   sys: law
   grade: vice
   amount: { yuan: 3050000, text: 中央电视台报道其受贿 305 万, cite: c05-chinanews-2012-09-24-wang-lijun }
+  plea:
+    - { kind: surrender, text: 犯叛逃罪后自动投案，如实供述叛逃的主要犯罪事实，属自首, cite: b07-xinhua-2012-09-24-wang-lijun-sentence }
+    - { kind: merit, text: 揭发他人重大违法犯罪线索，为有关案件的查办发挥了重要作用，有重大立功表现, cite: b07-xinhua-2012-09-24-wang-lijun-sentence }
+    - { kind: plea, text: 当庭认罪、悔罪, cite: b07-xinhua-2012-09-24-wang-lijun-sentence }
   trigger: { kind: incident, text: 2012 年 2 月 6 日叛逃至美国驻成都总领事馆，即王立军事件, cite: b07-xinhua-2013-09-22-bo-sentence }
   with:
     - { id: bo-xilai, name: 薄熙来, rel: patron, text: 时任重庆市委书记，王立军告知谷开来涉嫌杀人后被他斥责、打耳光，并违反组织程序免去其公安局长职务, cite: b07-xinhua-2013-09-22-bo-sentence }
@@ -368,6 +374,8 @@ wang-lijun:
 gu-kailai:
   sys: other
   grade: none
+  plea:
+    - { kind: plea, text: 薄谷开来当庭认罪、悔罪，故判处死刑可不立即执行, cite: b07-xinhua-2012-08-20-gu-kailai-sentence }
   trigger: { kind: incident, text: 2012 年 1 月王立军向薄熙来报告她涉嫌杀人，王立军事件后中央复查尼尔·伍德案, cite: b07-xinhua-2012-09-28-bo-expulsion }
   with:
     - { id: bo-xilai, name: 薄熙来, rel: kin, text: 丈夫，因在王立军事件和她故意杀人案中滥用职权等被判无期徒刑, cite: b07-xinhua-2013-09-22-bo-sentence }
@@ -434,6 +442,8 @@ ye-jianming:
 xu-jiayin:
   sys: other
   grade: none
+  plea:
+    - { kind: plea, text: 庭审中许家印当庭表示认罪悔罪, cite: b14-xinhua-2026-04-14-xu-trial }
   trigger: { kind: incident, text: 恒大 2021 年起债务危机爆发、留下大量烂尾楼，2023 年 9 月他因涉嫌违法犯罪被采取强制措施, cite: b14-bbc-2023-09-29-xu-probe }
   politics:
     level: none
@@ -476,19 +486,19 @@ lin-zuluan:
   sys: local
   grade: none
   amount: { yuan: 443000, text: 法院认定任乌坎村委会主任期间多次收受贿赂共 44.3 万元，另在购船中收取回扣 15 万元, cite: c06-bbc-2016-09-08-lin-zulian }
-  trigger: { kind: incident, text: 2016 年 6 月他准备带村民上访追讨土地前夜被带走, cite: c06-voa-2016-10-21-lin-zulian }
+  trigger: { kind: persecution, text: 2016 年 6 月他准备带村民上访追讨土地前夜被带走, cite: c06-voa-2016-10-21-lin-zulian }
   politics:
-    level: none
-    why: 乌坎村民认为他被当局陷害以阻止抗议土地被盗卖；属地方维稳，不涉及党内权力斗争
+    level: repression
+    why: 官方罪名是受贿罪；乌坎村民认为他被当局陷害以阻止抗议土地被盗卖，被带走的时间正是他准备带村民上访的前夜；属地方维稳中的政治打压，不涉及党内权力斗争
     cites: [c06-bbc-2016-09-08-lin-zulian]
 
 xue-jinbo:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2011 年乌坎事件中被官方指为主要组织者之一，以涉嫌故意毁坏财物罪和妨害公务罪被刑拘, cite: c06-xinhua-2011-12-14-xue-jinbo }
+  trigger: { kind: persecution, text: 2011 年乌坎事件中被官方指为主要组织者之一，以涉嫌故意毁坏财物罪和妨害公务罪被刑拘, cite: c06-xinhua-2011-12-14-xue-jinbo }
   politics:
-    level: none
-    why: 乌坎土地维权事件中被拘后死于看守所，属地方维稳，不涉及党内权力斗争
+    level: repression
+    why: 官方以涉嫌故意毁坏财物罪和妨害公务罪刑拘；他是乌坎土地维权的组织者，被拘后死于看守所，属地方维稳中的政治打压，不涉及党内权力斗争
     cites: [c06-xinhua-2011-12-14-xue-jinbo]
   outcome: died
 
@@ -506,11 +516,13 @@ ren-zhiqiang:
       - 家风败坏，家教不严，伙同子女大肆敛财
   discipline: [political, organization, integrity, life, eight]
   amount: { yuan: 50990000, text: 法院认定 2003—2017 年贪污公款 4974 万余元、受贿 125 万余元；另挪用公款 6120 万元，滥用职权致国有控股企业损失 1.167 亿余元, cite: b10-bjjw-2020-09-22-ren-verdict }
-  trigger: { kind: media, text: 2020 年 3 月一篇署名任志强、批评当局抗疫的文章在网上流传，他随即失联，4 月西城区纪委监委通报对其审查调查, cite: b10-bbc-2020-04-07-ren-probe }
+  plea:
+    - { kind: plea, text: 法院称其自愿如实供述全部罪行，承认所指控的全部犯罪事实，并自愿接受法院判决, cite: b10-bjjw-2020-09-22-ren-verdict }
+  trigger: { kind: persecution, text: 2020 年 3 月一篇署名任志强、批评当局抗疫的文章在网上流传，他随即失联，4 月西城区纪委监委通报对其审查调查, cite: b10-bbc-2020-04-07-ren-probe }
   politics:
-    level: none
-    why: 敢言的红二代地产商，因批评最高领导人的文章被查，与党内派系清洗无关；BBC 和美国之音都把他被查与此前发文批评习近平相连，官方判决只涉及贪污、受贿等经济罪名
-    cites: [b10-bbc-2020-04-07-ren-probe, b10-voa-2020-09-22-ren]
+    level: repression
+    why: 敢言的红二代地产商，因批评最高领导人的文章被查，开除党籍通报也列了他公开发表反对四项基本原则的文章，与党内派系清洗无关；BBC 和美国之音都把他被查与此前发文批评习近平相连，官方判决只涉及贪污、受贿等经济罪名
+    cites: [b10-bbc-2020-04-07-ren-probe, b10-voa-2020-09-22-ren, b10-bjjw-2020-07-23-ren-expelled]
   retired: 2011-04
 
 bao-tong:
@@ -537,10 +549,10 @@ cai-xia:
 xu-zhangrun:
   sys: edu
   grade: none
-  trigger: { kind: media, text: 2018 年 7 月起多次发表文章批评当局；清华大学的开除决定同时列出嫖娼受行政处罚和多次发表文章两项理由, cite: c04-rfa-2020-07-18-xu-zhangrun }
+  trigger: { kind: persecution, text: 2018 年 7 月起多次发表文章批评当局；清华大学的开除决定同时列出嫖娼受行政处罚和多次发表文章两项理由, cite: c04-rfa-2020-07-18-xu-zhangrun }
   politics:
-    level: none
-    why: 法学教授因撰文批评当局被停职、开除，不涉及党内权力斗争；BBC 称公众质疑嫖娼说法是污名化
+    level: repression
+    why: 2020 年 7 月被四川警方从北京家中带走近一周，警方告知家属的理由是嫖娼，随后被清华开除；友人对 BBC 说他被带走是因为多次发文批评当局，郭于华称嫖娼罪名是政治迫害的借口；不涉及党内权力斗争
     cites: [c04-rfa-2020-07-18-xu-zhangrun, c04-bbc-2020-07-13-xu-zhangrun]
   outcome: disciplined
 
@@ -567,19 +579,19 @@ du-daozheng:
 jiang-yanyong:
   sys: health
   grade: none
-  trigger: { kind: incident, text: 2004 年上书要求重新评价六四，随后被拘禁七周, cite: c06-dw-2023-03-jiang-yanyong }
+  trigger: { kind: persecution, text: 2004 年上书要求重新评价六四，随后被拘禁七周, cite: c06-dw-2023-03-jiang-yanyong }
   politics:
-    level: none
-    why: 军医因揭露 SARS 瞒报、呼吁平反六四而受限制，不涉及党内权力斗争
+    level: repression
+    why: 2004 年上书要求重新评价六四后被当局秘密拘禁七周，未见公布罪名，德国之声称获释后形同软禁；属因言论遭政治打压，不涉及党内权力斗争
     cites: [c06-dw-2023-03-jiang-yanyong]
 
 li-wenliang:
   sys: health
   grade: none
-  trigger: { kind: incident, text: 2019 年 12 月 30 日在同学微信群转发华南海鲜市场确诊 SARS 等信息，被人大量转发后，2020 年 1 月 3 日被派出所训诫, cite: b10-xinhua-2020-03-19-li-report }
+  trigger: { kind: persecution, text: 2019 年 12 月 30 日在同学微信群转发华南海鲜市场确诊 SARS 等信息，被人大量转发后，2020 年 1 月 3 日被派出所训诫, cite: b10-xinhua-2020-03-19-li-report }
   politics:
-    level: none
-    why: 医生因转发疫情信息被训诫，国家监委调查后撤销训诫书；不涉及党内权力斗争
+    level: repression
+    why: 医生因在微信群转发疫情信息被派出所传唤、训诫，未立刑案；国家监委调查组认定训诫书不当、适用法律错误，武汉警方撤销训诫书并道歉；属因言论受警方处置，不涉及党内权力斗争
     cites: [b10-xinhua-2020-03-19-li-report, b10-paper-2020-03-19-wuhan-police]
   outcome: died
 
@@ -587,21 +599,21 @@ li-wenliang:
 liu-xiaobo:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 发起并起草《零八宪章》，宪章 12 月 10 日发表前两天他被刑事拘留, cite: b10-bbc-2017-07-13-liu-obit }
+  trigger: { kind: persecution, text: 发起并起草《零八宪章》，宪章 12 月 10 日发表前两天他被刑事拘留, cite: b10-bbc-2017-07-13-liu-obit }
   politics:
-    level: none
-    why: 体制外作家因起草《零八宪章》以煽动颠覆国家政权罪获刑，属对异见的政治打压，不涉及党内权力斗争
+    level: repression
+    why: 体制外作家因起草《零八宪章》和所写文章以煽动颠覆国家政权罪获刑；辩护人在庭上说他的文章属公民言论自由，BBC 讣闻引述他是因为言论自由被判刑；属对异见的政治打压，不涉及党内权力斗争
     cites: [b10-bbc-2017-07-13-liu-obit, b10-dw-2009-12-28-liu-verdict]
   outcome: died
 
 xu-zhiyong:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2019 年与 20 多名维权律师和朋友在厦门聚会（当局称厦门聚会案），随后遭大举逮捕, cite: b10-voa-2023-04-10-xu-ding }
+  trigger: { kind: persecution, text: 2019 年与 20 多名维权律师和朋友在厦门聚会（当局称厦门聚会案），随后遭大举逮捕, cite: b10-voa-2023-04-10-xu-ding }
   with:
     - { id: ding-jiaxi, name: 丁家喜, rel: colleague, text: 同为新公民运动推动者，厦门聚会案中同被逮捕、同日获重刑, cite: b10-voa-2023-04-10-xu-ding }
   politics:
-    level: none
+    level: repression
     why: 公民运动推动者以颠覆国家政权罪获重刑，属对异见的政治打压，不涉及党内权力斗争
     cites: [b10-voa-2023-04-10-xu-ding]
   outcome: sentenced
@@ -609,11 +621,11 @@ xu-zhiyong:
 ding-jiaxi:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2019 年厦门聚会后，于 12 月 26 日被捕, cite: b10-voa-2023-04-10-xu-ding }
+  trigger: { kind: persecution, text: 2019 年厦门聚会后，于 12 月 26 日被捕, cite: b10-voa-2023-04-10-xu-ding }
   with:
     - { id: xu-zhiyong, name: 许志永, rel: colleague, text: 同为新公民运动推动者，厦门聚会案中同被逮捕、同日获重刑, cite: b10-voa-2023-04-10-xu-ding }
   politics:
-    level: none
+    level: repression
     why: 维权律师以颠覆国家政权罪获重刑，属对异见的政治打压，不涉及党内权力斗争
     cites: [b10-voa-2023-04-10-xu-ding]
   outcome: sentenced
@@ -621,12 +633,12 @@ ding-jiaxi:
 gao-zhisheng:
   sys: other
   grade: none
-  trigger: { kind: unknown, text: 本站所见来源未说明他 2006 年被吊销执照、判刑的直接起因, cite: c04-cna-2021-08-14-gao-zhisheng }
+  trigger: { kind: persecution, text: 中央社称他因代理法轮功学员案件，2006 年被吊销律师执照，随后以煽动颠覆国家政权罪被判刑, cite: c04-cna-2021-08-14-gao-zhisheng }
   with:
     - { id: geng-he, name: 耿和, rel: kin, text: 妻子，2009 年带一双儿女逃离中国，在美国寻夫, cite: c04-bbc-2022-11-19-gao-zhisheng }
   politics:
-    level: none
-    why: 维权律师以煽动颠覆国家政权罪获刑，后被失踪，属对异见的政治打压，不涉及党内权力斗争
+    level: repression
+    why: 维权律师以煽动颠覆国家政权罪获刑，后被失踪；中央社称他是因代理法轮功学员案件被吊销执照、判刑，妻子耿和说他只是在律师工作中揭露当局；属对异见的政治打压，不涉及党内权力斗争
     cites: [c04-cna-2021-08-14-gao-zhisheng]
   outcome: missing
 
@@ -647,30 +659,30 @@ pu-zhiqiang:
   grade: none
   trigger: { kind: unknown, text: 本站所见来源只记他被以煽动民族仇恨罪、寻衅滋事罪判缓刑，未说明立案起因, cite: c04-bbc-2016-04-14-pu-zhiqiang }
   politics:
-    level: none
-    why: 维权律师获刑并被吊销执照；BBC 称西方国家认为他只是行使言论自由，不涉及党内权力斗争
+    level: repression
+    why: 维权律师以煽动民族仇恨罪、寻衅滋事罪被判缓刑并被吊销执照；BBC 称美国与欧盟等西方政体认为他只是行使言论自由；属对异见的政治打压，不涉及党内权力斗争
     cites: [c04-bbc-2016-04-14-pu-zhiqiang]
   outcome: sentenced
 
 wang-quanzhang:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2015 年 709 大抓捕中在济南被捕, cite: c04-bbc-2025-07-09-709-decade }
+  trigger: { kind: persecution, text: 2015 年 709 大抓捕中在济南被捕, cite: c04-bbc-2025-07-09-709-decade }
   politics:
-    level: none
-    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    level: repression
+    why: 709 大抓捕中的维权律师，以颠覆国家政权罪被判有期徒刑四年半；BBC 称当局在全国抓捕、传唤数百名维权律师，属对维权群体的整体打压，不涉及党内权力斗争
     cites: [c04-bbc-2025-07-09-709-decade]
   outcome: released
 
 jiang-tianyong:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 官方指他 2015 年以来针对周世锋等 709 案件煽动他人颠覆国家政权，并指使谢阳之妻编造谢阳遭酷刑的文章, cite: c04-bbc-2017-11-21-jiang-tianyong }
+  trigger: { kind: persecution, text: 官方指他 2015 年以来针对周世锋等 709 案件煽动他人颠覆国家政权，并指使谢阳之妻编造谢阳遭酷刑的文章, cite: c04-bbc-2017-11-21-jiang-tianyong }
   with:
     - { id: jin-bianling, name: 金变玲, rel: kin, text: 妻子，旅居美国，发表声明称他无罪, cite: c04-bbc-2017-11-21-jiang-tianyong }
   politics:
-    level: none
-    why: 709 案相关的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    level: repression
+    why: 709 案相关的维权律师，官方以煽动颠覆国家政权罪判刑；国际特赦组织称判决完全不公正，是当局系统迫害维护人权者的例子；属对维权群体的整体打压，不涉及党内权力斗争
     cites: [c04-bbc-2017-11-21-jiang-tianyong]
   outcome: released
 
@@ -689,12 +701,14 @@ jin-bianling:
 li-heping:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2015 年 7 月在 709 大抓捕中失踪, cite: c04-bbc-2017-04-28-li-heping }
+  plea:
+    - { kind: plea, text: 判决称鉴于李和平犯罪情节较轻，有悔罪表现，依法可适用缓刑, cite: c04-bbc-2017-04-28-li-heping }
+  trigger: { kind: persecution, text: 2015 年 7 月在 709 大抓捕中失踪, cite: c04-bbc-2017-04-28-li-heping }
   with:
     - { id: wang-qiaoling, name: 王峭岭, rel: kin, text: 妻子，709 家属寻夫的代表, cite: c06-rfa-2023-06-14-li-heping }
   politics:
-    level: none
-    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    level: repression
+    why: 709 大抓捕中的维权律师，以颠覆国家政权罪被判缓刑；妻子王峭岭认为他依法代理维权案件、应无罪释放，BBC 引评论称长缓刑意在让维权律师噤声；属对维权群体的整体打压，不涉及党内权力斗争
     cites: [c04-bbc-2017-04-28-li-heping]
   outcome: sentenced
 
@@ -712,19 +726,19 @@ wang-qiaoling:
 wang-yu:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2015 年 7 月 9 日在 709 大抓捕中最早被带走, cite: e03-bbc-2015-07-11-lawyers }
+  trigger: { kind: persecution, text: 2015 年 7 月 9 日在 709 大抓捕中最早被带走, cite: e03-bbc-2015-07-11-lawyers }
   politics:
-    level: none
-    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
-    cites: [c06-bbc-2021-03-09-wang-yu-award]
+    level: repression
+    why: 709 大抓捕中被捕的维权律师，被羁押、与外界失联一年多，此后在媒体上公开认罪，她后来澄清是迫于压力；BBC 称 709 被捕者被控颠覆国家政权罪、煽动颠覆国家政权罪等；属对维权群体的整体打压，不涉及党内权力斗争
+    cites: [c06-bbc-2021-03-09-wang-yu-award, c04-bbc-2025-07-09-709-decade]
 
 zhou-shifeng:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2015 年 7 月 709 大抓捕中被带走，他主持的锋锐律师事务所是官方媒体点名的对象, cite: e03-xinhua-2015-07-11-weiquan }
+  trigger: { kind: persecution, text: 2015 年 7 月 709 大抓捕中被带走，他主持的锋锐律师事务所是官方媒体点名的对象, cite: e03-xinhua-2015-07-11-weiquan }
   politics:
-    level: none
-    why: 709 大抓捕中的维权律师，属对维权群体的整体打压，不涉及党内权力斗争
+    level: repression
+    why: 709 大抓捕中的维权律师，以颠覆国家政权罪被判有期徒刑七年；检方指控的是他以律所为平台炒作热点案件、在网上网下发表言论，BBC 引律师刘晓原称这很可能是律师制度恢复以来以危害国家安全罪判刑最重的执业律师；属对维权群体的整体打压，不涉及党内权力斗争
     cites: [c06-bbc-2016-08-04-zhou-shifeng]
   outcome: released
 
@@ -733,32 +747,32 @@ wu-gan:
   grade: none
   trigger: { kind: unknown, text: 2015 年 5 月被厦门警方刑拘，后并入 709 系列案；本站所见来源未说明直接起因, cite: c04-voa-2023-05-19-wu-gan }
   politics:
-    level: none
-    why: 草根维权人士获刑八年，属对维权群体的整体打压，不涉及党内权力斗争
+    level: repression
+    why: 草根维权人士先以涉嫌寻衅滋事、诽谤被刑拘，后以颠覆国家政权罪获刑八年，美国之音称羁押期间曾遭酷刑虐待，陈光诚在他出狱时呼吁还他和所有良心犯自由；属对维权群体的整体打压，不涉及党内权力斗争
     cites: [c04-voa-2023-05-19-wu-gan]
   outcome: released
 
 yu-wensheng:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2023 年 4 月与妻子前往欧盟驻华代表团途中被拦截，后被捕, cite: c04-cna-2026-04-14-yu-wensheng }
+  trigger: { kind: persecution, text: 2023 年 4 月与妻子前往欧盟驻华代表团途中被拦截，后被捕, cite: c04-cna-2026-04-14-yu-wensheng }
   with:
     - { id: xu-yan, name: 许艳, rel: kin, text: 妻子，同日被抓、同以煽动颠覆国家政权罪获刑, cite: c06-rfa-2025-01-14-xu-yan }
   politics:
-    level: none
-    why: 维权律师以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
-    cites: [c04-cna-2026-04-14-yu-wensheng]
+    level: repression
+    why: 维权律师以煽动颠覆国家政权罪获刑；维权网称他多年为弱势群体发声而屡受当局打压，2018 年也曾因发表修宪公民建议书以同一罪名获刑；属对维权群体的政治打压，不涉及党内权力斗争
+    cites: [c04-cna-2026-04-14-yu-wensheng, c06-rfa-2025-01-14-xu-yan]
   outcome: released
 
 xu-yan:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2023 年 4 月 13 日与丈夫余文生前往欧盟驻华代表团座谈途中被北京警方抓捕, cite: c06-rfa-2025-01-14-xu-yan }
+  trigger: { kind: persecution, text: 2023 年 4 月 13 日与丈夫余文生前往欧盟驻华代表团座谈途中被北京警方抓捕, cite: c06-rfa-2025-01-14-xu-yan }
   with:
     - { id: yu-wensheng, name: 余文生, rel: kin, text: 丈夫，北京维权律师，同案获刑, cite: c06-rfa-2025-01-14-xu-yan }
   politics:
-    level: none
-    why: 维权人士以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    level: repression
+    why: 维权人士以煽动颠覆国家政权罪获刑；维权网称她因持续为丈夫余文生维权、发声而遭当局迫害；属对维权群体的政治打压，不涉及党内权力斗争
     cites: [c06-rfa-2025-01-14-xu-yan]
   outcome: released
 
@@ -767,18 +781,18 @@ yilihamu-tuheti:
   grade: none
   trigger: { kind: unknown, text: 官方未说明立案起因；BBC 称他被带走前曾批评北京处理天安门金水桥驾车冲撞案的手法, cite: c04-bbc-2014-09-23-ilham-tohti }
   politics:
-    level: none
-    why: 维吾尔族学者以分裂国家罪被判无期徒刑，国际特赦组织称指控有政治动机；属民族政策上的政治打压，不涉及党内权力斗争
+    level: repression
+    why: 维吾尔族学者以分裂国家罪被判无期徒刑，国际特赦组织称指控有政治动机，人权观察称他一贯以和平方式倡导族群对话；属民族政策上的政治打压，不涉及党内权力斗争
     cites: [c04-bbc-2014-09-23-ilham-tohti]
   outcome: sentenced
 
 hu-jia:
   sys: other
   grade: none
-  trigger: { kind: media, text: 法院以他在网上发表的五篇文章和两次接受外国记者采访时的言论定罪, cite: c04-bbc-2008-04-03-hu-jia }
+  trigger: { kind: persecution, text: 法院以他在网上发表的五篇文章和两次接受外国记者采访时的言论定罪, cite: c04-bbc-2008-04-03-hu-jia }
   politics:
-    level: none
-    why: 人权活动人士因言论获刑，属对异见的政治打压，不涉及党内权力斗争
+    level: repression
+    why: 人权活动人士以煽动颠覆国家政权罪获刑三年半，法院所据是他的五篇网文和两次接受外国记者采访的言论；国际特赦组织谴责判决，人权组织批评当局在奥运前加紧压制不同政见人士；属对异见的政治打压，不涉及党内权力斗争
     cites: [c04-bbc-2008-04-03-hu-jia]
   outcome: released
 
@@ -787,111 +801,111 @@ gao-yu:
   grade: none
   trigger: { kind: unknown, text: 法院认定她为境外人员非法提供机密级国家秘密，报道未说明案发经过, cite: c04-dw-2015-11-26-gao-yu }
   politics:
-    level: none
-    why: 资深记者以为境外非法提供国家秘密罪获刑，属对新闻与言论的政治打压，不涉及党内权力斗争
+    level: repression
+    why: 资深记者以为境外非法提供国家秘密罪获刑；德国政府人权专员呼吁中国释放所有像她一样和平行使言论自由而身陷囹圄的人；属对新闻与言论的政治打压，不涉及党内权力斗争
     cites: [c04-dw-2015-11-26-gao-yu]
   outcome: released
 
 guo-feixiong:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2021 年 1 月赴美探望病重的妻子时被阻，随后失去自由, cite: c04-rfa-2023-05-11-guo-feixiong }
+  trigger: { kind: persecution, text: 2021 年 1 月赴美探望病重的妻子时被阻，随后失去自由, cite: c04-rfa-2023-05-11-guo-feixiong }
   politics:
-    level: none
-    why: 维权人士以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    level: repression
+    why: 维权人士以煽动颠覆国家政权罪获刑八年；自由亚洲电台称法院所据是他撰写网文、创建宪政民主网站和出境受阻后接受该台采访；属对异见的政治打压，不涉及党内权力斗争
     cites: [c04-rfa-2023-05-11-guo-feixiong]
   outcome: sentenced
 
 wang-yi-pastor:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2018 年 12 月秋雨圣约教会被取缔，他与 100 多名教会成员被带走, cite: c04-bbc-2019-12-30-wang-yi }
+  trigger: { kind: persecution, text: 2018 年 12 月秋雨圣约教会被取缔，他与 100 多名教会成员被带走, cite: c04-bbc-2019-12-30-wang-yi }
   politics:
-    level: none
-    why: 家庭教会牧师以煽动颠覆国家政权罪、非法经营罪获刑，BBC 引学者称北京意图警告其他教会；属宗教管控，不涉及党内权力斗争
+    level: repression
+    why: 家庭教会牧师以煽动颠覆国家政权罪、非法经营罪获刑九年，BBC 引学者称此举反映对抗争型教会的打压、意在警告其他家庭教会，对华援助协会称这是宗教迫害；属宗教上的政治打压，不涉及党内权力斗争
     cites: [c04-bbc-2019-12-30-wang-yi]
   outcome: sentenced
 
 chen-qiushi:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2020 年 2 月在武汉采访报道疫情时失联, cite: c04-udn-2021-09-chen-qiushi }
+  trigger: { kind: persecution, text: 2020 年 2 月在武汉采访报道疫情时失联, cite: c04-udn-2021-09-chen-qiushi }
   politics:
-    level: none
-    why: 公民记者因报道疫情失踪 601 天，不涉及党内权力斗争
+    level: repression
+    why: 公民记者因报道疫情失踪 601 天，当局未公布任何罪名；联合报转角国际据其友人徐晓冬称，他曾被武汉官方强制隔离，后被送回青岛软禁，律师执照和护照被吊销；属因言论遭政治打压，不涉及党内权力斗争
     cites: [c04-udn-2021-09-chen-qiushi]
 
 tan-zuoren:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 起草汶川地震伤亡调查报告期间被刑事拘留, cite: c06-voa-2014-03-27-tan-zuoren }
+  trigger: { kind: persecution, text: 起草汶川地震伤亡调查报告期间被刑事拘留, cite: c06-voa-2014-03-27-tan-zuoren }
   politics:
-    level: none
-    why: 环保人士因调查川震校舍倒塌以煽动颠覆国家政权罪获刑，不涉及党内权力斗争
+    level: repression
+    why: 环保人士因调查川震校舍倒塌被拘，以煽动颠覆国家政权罪获刑五年；国际特赦组织谴责判决，称当局用模糊和过于广义的法律压制不同意见；不涉及党内权力斗争
     cites: [e02-bbc-2010-02-09-tan-zuoren]
   outcome: released
 
 ai-weiwei:
   sys: other
   grade: none
-  trigger: { kind: unknown, text: 官方称他的公司涉嫌逃税等经济犯罪，报道未说明立案起因, cite: b10-rfa-2011-06-22-ai-bail }
+  trigger: { kind: persecution, text: 官方称他的公司涉嫌逃税等经济犯罪；美国之音称他是在当局扩大打压异议人士范围之际被逮捕, cite: b10-voa-2011-04-07-ai }
   politics:
-    level: none
-    why: 艺术家、社会活动人士被羁押 81 天并被追缴税款，此前曾调查川震遇难学生名单；不涉及党内权力斗争
+    level: repression
+    why: 官方罪名是其公司逃避缴纳巨额税款、故意销毁会计凭证；艺术家、社会活动人士被羁押 81 天并被追缴税款，此前曾调查川震遇难学生名单，美国之音称他是在当局扩大打压异议人士范围之际被捕；不涉及党内权力斗争
     cites: [b10-rfa-2011-06-22-ai-bail, b10-voa-2011-04-07-ai]
   outcome: fled
 
 dai-qing:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 1989 年六四后被捕，在秦城羁押半年, cite: c06-rfa-2024-09-09-dai-qing }
+  trigger: { kind: persecution, text: 1989 年六四后被捕，在秦城羁押半年, cite: c06-rfa-2024-09-09-dai-qing }
   politics:
-    level: none
-    why: 记者、作家在六四后被捕，属对八九民运参与者的清算，不涉及党内权力斗争
+    level: repression
+    why: 记者、作家在六四后被捕、羁押半年，所见来源未记罪名；自由亚洲电台称她获释后受当局严厉控制，不得接受采访和公开发表言论，她本人说曾在学生与高层之间劝和却被关进秦城；属对八九民运参与者的政治打压，不涉及党内权力斗争
     cites: [c06-rfa-2024-09-09-dai-qing]
 
 # ───── 香港、台湾 ─────
 li-zhiying:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 2020 年 8 月依《香港国安法》在家中被捕，《苹果日报》大楼被搜查, cite: b10-bbc-2026-02-09-jimmy-lai }
+  trigger: { kind: persecution, text: 2020 年 8 月依《香港国安法》在家中被捕，《苹果日报》大楼被搜查, cite: b10-bbc-2026-02-09-jimmy-lai }
   politics:
-    level: none
-    why: 香港传媒人依《香港国安法》被判勾结外国势力、发布煽动刊物罪，属北京对香港反对派的整肃，不涉及党内权力斗争
+    level: repression
+    why: 香港传媒人依《香港国安法》被判勾结外国势力、发布煽动刊物罪；英国外交大臣称他因行使言论自由权被判刑、案件出于政治动机，人权观察称判决既残酷又极不公正；属北京对香港反对派的整肃，不涉及党内权力斗争
     cites: [b10-bbc-2026-02-09-jimmy-lai, b10-hkgov-2025-12-15-lai-verdict]
   outcome: sentenced
 
 huang-zhifeng:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 因参与 2020 年民主派初选，在 47 人案中以串谋颠覆国家政权罪被判刑, cite: c04-bbc-2024-11-19-hk47-b }
+  trigger: { kind: persecution, text: 因参与 2020 年民主派初选，在 47 人案中以串谋颠覆国家政权罪被判刑, cite: c04-bbc-2024-11-19-hk47-b }
   with:
     - { id: dai-yaoting, name: 戴耀廷, rel: colleague, text: 47 人案的首要分子，同日判刑, cite: c04-bbc-2024-11-19-hk47-b }
   politics:
-    level: none
-    why: 香港学运领袖依《香港国安法》获刑，属北京对香港反对派的整肃，不涉及党内权力斗争
-    cites: [c04-bbc-2024-11-19-hk47-b]
+    level: repression
+    why: 香港学运领袖因参与民主派初选，依《香港国安法》以串谋颠覆国家政权罪获刑；罗冠聪对 BBC 说被告只是进行民主国家普遍会有的初选，反映香港政治环境受到很大打压；属北京对香港反对派的整肃，不涉及党内权力斗争
+    cites: [c04-bbc-2024-11-19-hk47-b, c04-bbc-2024-11-19-hk47-a]
   outcome: sentenced
 
 dai-yaoting:
   sys: edu
   grade: none
-  trigger: { kind: incident, text: 组织 2020 年民主派初选，在 47 人案中被认定为首要分子, cite: c04-bbc-2024-11-19-hk47-a }
+  trigger: { kind: persecution, text: 组织 2020 年民主派初选，在 47 人案中被认定为首要分子, cite: c04-bbc-2024-11-19-hk47-a }
   with:
     - { id: huang-zhifeng, name: 黄之锋, rel: colleague, text: 47 人案同案被告, cite: c04-bbc-2024-11-19-hk47-b }
   politics:
-    level: none
-    why: 香港法律学者依《香港国安法》获刑，属北京对香港反对派的整肃，不涉及党内权力斗争
+    level: repression
+    why: 香港法律学者因组织民主派初选，依《香港国安法》以串谋颠覆国家政权罪获刑；罗冠聪对 BBC 说被告只是进行民主国家普遍会有的初选，反映香港政治环境受到很大打压；属北京对香港反对派的整肃，不涉及党内权力斗争
     cites: [c04-bbc-2024-11-19-hk47-a]
   outcome: sentenced
 
 li-zhuming:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 因 2019 年 8·18 流水式集会案被定罪，随后被撤销太平绅士委任, cite: c04-cna-2024-12-28-martin-lee }
+  trigger: { kind: persecution, text: 因 2019 年 8·18 流水式集会案被定罪，随后被撤销太平绅士委任, cite: c04-cna-2024-12-28-martin-lee }
   politics:
-    level: none
-    why: 香港民主派元老因集会案被定罪、褫夺荣衔，不涉及党内权力斗争
+    level: repression
+    why: 香港民主派元老因 2019 年 8·18 流水式集会，被以明知而参与未经批准集结罪定罪，随后被撤销太平绅士委任；中央社报道；属北京对香港反对派的整肃，不涉及党内权力斗争
     cites: [c04-cna-2024-12-28-martin-lee]
   outcome: disciplined
 
@@ -908,24 +922,26 @@ luo-guancong:
 lin-rongji:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 铜锣湾书店事件中，2015 年 10 月他被所称的中央专案组带走, cite: e03-bbc-2016-06-16-causeway-bay }
+  trigger: { kind: persecution, text: 铜锣湾书店事件中，2015 年 10 月他被所称的中央专案组带走, cite: e03-bbc-2016-06-16-causeway-bay }
   with:
     - { id: gui-minhai, name: 桂民海, rel: colleague, text: 铜锣湾书店股东，同在 2015 年 10 月被带走, cite: e03-bbc-2016-06-16-causeway-bay }
   politics:
-    level: none
-    why: 铜锣湾书店事件，属北京跨境压制政治书籍出版，不涉及党内权力斗争
+    level: repression
+    why: 铜锣湾书店店长被内地当局带走羁押，所见来源未记正式罪名；他获释后对媒体说是被中央专案组带走，指责做法违反一国两制；属北京跨境压制政治书籍出版，不涉及党内权力斗争
     cites: [e03-bbc-2016-06-16-causeway-bay]
   outcome: died
 
 gui-minhai:
   sys: other
   grade: none
-  trigger: { kind: incident, text: 铜锣湾书店事件中，2015 年 10 月在泰国芭提雅寓所被掳走, cite: c06-rfi-2026-07-05-gui-minhai }
+  plea:
+    - { kind: plea, text: 宁波中院公告称桂敏海表示认罪服判不上诉, cite: c06-bbc-2020-02-25-gui-minhai }
+  trigger: { kind: persecution, text: 铜锣湾书店事件中，2015 年 10 月在泰国芭提雅寓所被掳走, cite: c06-rfi-2026-07-05-gui-minhai }
   with:
     - { id: lin-rongji, name: 林荣基, rel: colleague, text: 铜锣湾书店店长，同期被带走, cite: e03-bbc-2016-06-16-causeway-bay }
   politics:
-    level: none
-    why: 铜锣湾书店事件，属北京跨境压制政治书籍出版，不涉及党内权力斗争
+    level: repression
+    why: 铜锣湾书店股东以为境外非法提供情报罪被判十年；国际特赦组织称他似乎被秘密审判，没有得到公平审判，当局仍在压制异见人士；属北京跨境压制政治书籍出版，不涉及党内权力斗争
     cites: [c06-bbc-2020-02-25-gui-minhai]
   outcome: sentenced
 

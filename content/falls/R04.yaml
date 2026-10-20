@@ -37,6 +37,8 @@ zhao-zhengyong:
     yuan: 717000000
     text: 2003 年至 2018 年单独或伙同其妻等人非法收受财物共计折合人民币 7.17 亿余元，其中 2.9 亿余元尚未实际取得，属于犯罪未遂
     cite: c03-xinhua-2020-07-31-zhao-zhengyong-verdict
+  plea:
+    - { kind: plea, text: 如实供述全部犯罪事实，认罪悔罪, cite: c03-xinhua-2020-07-31-zhao-zhengyong-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -370,6 +372,9 @@ yun-gongmin:
     yuan: 468000000
     text: 1992 年至 2016 年 8 月直接或通过其近亲属非法收受财物，共计折合人民币 4.68 亿余元
     cite: t02-cnstock-2022-06-yun-gongmin-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的绝大部分犯罪事实，系坦白；认罪悔罪, cite: t02-cnstock-2022-06-yun-gongmin-verdict }
+    - { kind: refund, text: 积极退赃，赃款、赃物已全部退缴、追缴, cite: t02-cnstock-2022-06-yun-gongmin-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -642,6 +647,10 @@ zhang-zhinan:
     yuan: 34320000
     text: 1996 年至 2019 年非法收受他人给予的财物共计折合人民币 3432 万余元；另滥用职权造成财政资金损失 1.48 亿余元
     cite: t02-court-2022-03-22-zhang-zhinan-verdict
+  plea:
+    - { kind: merit, text: 检举揭发他人犯罪行为，经查证属实，具有立功表现, cite: t02-court-2022-03-22-zhang-zhinan-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的部分受贿和滥用职权犯罪事实；认罪悔罪, cite: t02-court-2022-03-22-zhang-zhinan-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物已全部追缴, cite: t02-court-2022-03-22-zhang-zhinan-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -665,6 +674,9 @@ li-jinzao:
     yuan: 65500000
     text: 1996 年至 2020 年非法收受他人给予的财物共计折合人民币 6550 万余元（其中 700 万元系未遂）
     cite: t02-people-2022-04-26-li-jinzao-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: t02-people-2022-04-26-li-jinzao-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: t02-people-2022-04-26-li-jinzao-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -797,6 +809,10 @@ bai-xiangqun:
     yuan: 92270000
     text: 1999 年至 2018 年索取、收受财物共计折合人民币 8515 万余元（其中索贿 1065 万余元），贪污公共财物 712 万余元；另内幕交易非法获利 1717 万余元
     cite: r04-court-2019-10-24-bai-xiangqun-verdict
+  plea:
+    - { kind: merit, text: 检举揭发他人重大犯罪，具有重大立功表现, cite: r04-court-2019-10-24-bai-xiangqun-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿、部分贪污犯罪事实；认罪悔罪, cite: r04-court-2019-10-24-bai-xiangqun-verdict }
+    - { kind: refund, text: 积极退赃，受贿、贪污赃款赃物已经全部予以追缴, cite: r04-court-2019-10-24-bai-xiangqun-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -986,6 +1002,10 @@ xing-yun:
     yuan: 449000000
     text: 1996 年至 2017 年直接或通过其近亲属非法收受财物共计折合人民币 4.49 亿余元
     cite: r04-yicai-2019-12-03-xing-yun-verdict
+  plea:
+    - { kind: merit, text: 检举揭发他人犯罪问题经查证属实，具有重大立功表现, cite: r12-court-2019-12-04-xing-yun }
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的绝大部分犯罪事实；认罪悔罪, cite: r12-court-2019-12-04-xing-yun }
+    - { kind: refund, text: 积极退赃，赃款、赃物已全部追缴, cite: r12-court-2019-12-04-xing-yun }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1075,6 +1095,9 @@ yang-keqin:
     yuan: 46356141
     text: 2011 年至 2019 年直接或通过其家属非法收受财物共计折合人民币 4635.6141 万元
     cite: r04-spp-2021-05-17-yang-keqin-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的绝大部分受贿犯罪事实，认罪悔罪, cite: r04-spp-2021-05-17-yang-keqin-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r04-spp-2021-05-17-yang-keqin-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1263,6 +1286,8 @@ xu-guang-hn:
     yuan: 12652794
     text: 2004 年至 2018 年在周口任职期间收受现金共计折合人民币 1265.2794 万元
     cite: r04-xinhua-2021-01-11-xu-guang-hn-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r04-xinhua-2021-01-11-xu-guang-hn-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1586,6 +1611,10 @@ li-wei-bj:
     yuan: 32960000
     text: 2001 年 7 月至 2019 年 10 月在房地产开发、煤炭购销等事项上非法收受财物共计折合人民币 3296 万余元
     cite: r04-xinhua-2022-03-18-li-wei-bj-verdict
+  plea:
+    - { kind: merit, text: 检举揭发他人重大犯罪行为，经查证属实，具有重大立功表现, cite: r04-xinhua-2022-03-18-li-wei-bj-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: r04-xinhua-2022-03-18-li-wei-bj-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r04-xinhua-2022-03-18-li-wei-bj-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1639,6 +1668,9 @@ shi-wenqing:
     yuan: 195000000
     text: 2003 年至 2020 年 5 月在哈尔滨、赣州和江西省人大任职期间直接或通过亲属收受财物共计折合人民币 1.95 亿余元
     cite: r04-chinanews-2022-08-17-shi-wenqing-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述全部犯罪事实，主动交代办案机关未掌握的部分犯罪事实，具有坦白情节，认罪态度较好, cite: r04-chinanews-2022-08-17-shi-wenqing-verdict }
+    - { kind: refund, text: 积极退赃，涉案赃款赃物已全部追缴到案, cite: r04-chinanews-2022-08-17-shi-wenqing-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源

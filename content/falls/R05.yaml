@@ -18,6 +18,10 @@ xie-changjun:
     yuan: 60420000
     text: 2002 年至 2020 年受贿共计折合人民币 6042 万余元
     cite: t02-thepaper-2022-06-08-xie-changjun-verdict
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的为亲友非法牟利事实，为亲友非法牟利罪构成自首, cite: t02-thepaper-2022-06-08-xie-changjun-verdict }
+    - { kind: plea, text: 主动交代大部分受贿事实，如实供述其他犯罪事实，认罪悔罪, cite: t02-thepaper-2022-06-08-xie-changjun-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得赃款赃物已全部追缴, cite: t02-thepaper-2022-06-08-xie-changjun-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -327,6 +331,9 @@ liu-yanping:
     yuan: 234000000
     text: 2001 年至 2022 年受贿共计折合人民币 2.34 亿余元
     cite: c03-xinhua-2023-01-10-liu-yanping-verdict
+  plea:
+    - { kind: plea, text: 主动交代办案机关尚不掌握的部分受贿事实，如实供述全部犯罪事实，认罪悔罪, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
+    - { kind: refund, text: 积极退赃，大部分赃款赃物及孳息已追缴到案, cite: c03-xinhua-2023-01-10-liu-yanping-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -466,6 +473,9 @@ fan-yifei:
     yuan: 386000000
     text: 1993 年至 2022 年受贿共计折合人民币 3.86 亿余元
     cite: t02-xinhua-2024-10-10-fan-yifei-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪, cite: t02-xinhua-2024-10-10-fan-yifei-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息已全部追缴, cite: t02-xinhua-2024-10-10-fan-yifei-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -588,6 +598,9 @@ du-zhaocai:
     yuan: 43410000
     text: 2012 年至 2022 年受贿共计折合人民币 4341 万余元
     cite: t02-xinhua-2024-12-13-du-zhaocai-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: t02-xinhua-2024-12-13-du-zhaocai-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物及孳息已全部追缴, cite: t02-xinhua-2024-12-13-du-zhaocai-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -764,6 +777,10 @@ han-yong:
     yuan: 261000000
     text: 1993 年至 2023 年受贿共计折合人民币 2.61 亿余元
     cite: k04-chinanews-2025-05-19-han-yong-verdict
+  plea:
+    - { kind: merit, text: 归案后提供其他重大案件线索经查证属实，有重大立功表现, cite: k04-chinanews-2025-05-19-han-yong-verdict }
+    - { kind: plea, text: 如实供述，主动交代监察机关尚未掌握的部分犯罪事实，认罪悔罪, cite: k04-chinanews-2025-05-19-han-yong-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息绝大部分已追缴到案, cite: k04-chinanews-2025-05-19-han-yong-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -788,6 +805,10 @@ ling-chengxing:
     yuan: 43110000
     text: 2006 年至 2023 年受贿共计折合人民币 4311 万余元；另因滥用职权造成国有资产损失 2.08 亿余元
     cite: t02-cctv-2025-05-21-ling-chengxing-verdict
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的国有公司人员滥用职权犯罪事实，该罪构成自首, cite: t02-cctv-2025-05-21-ling-chengxing-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代部分受贿犯罪事实；认罪悔罪, cite: t02-cctv-2025-05-21-ling-chengxing-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得的大部分赃款赃物已追缴, cite: t02-cctv-2025-05-21-ling-chengxing-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -837,6 +858,10 @@ wang-yixin:
     yuan: 129000000
     text: 2008 年 7 月至 2020 年 10 月受贿共计折合人民币 1.29 亿余元
     cite: t02-chinanews-2025-05-16-wang-yixin-verdict
+  plea:
+    - { kind: merit, text: 具有重大立功表现, cite: t02-chinanews-2025-05-16-wang-yixin-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的绝大部分受贿事实，认罪悔罪, cite: t02-chinanews-2025-05-16-wang-yixin-verdict }
+    - { kind: refund, text: 积极退赃，涉案赃款赃物大部分已追缴, cite: t02-chinanews-2025-05-16-wang-yixin-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -911,6 +936,10 @@ zhang-xinqi:
     yuan: 155000000
     text: 2006 年至 2021 年直接或通过他人受贿共计折合人民币 1.55 亿余元
     cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict
+  plea:
+    - { kind: merit, text: 到案后提供侦破其他重大案件的线索，经查证属实，具有重大立功表现, cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict }
+    - { kind: plea, text: 主动交代监察机关尚未掌握的绝大部分受贿事实，如实供述全部犯罪事实，认罪悔罪, cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物及孳息已全部追缴, cite: r05-xinhua-2023-02-20-zhang-xinqi-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1394,6 +1423,9 @@ chen-rugui:
     yuan: 108000000
     text: 2003 年至 2022 年直接或通过他人受贿共计折合人民币 1.08 亿余元
     cite: r05-xinmin-2024-08-06-chen-rugui-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪, cite: r05-xinmin-2024-08-06-chen-rugui-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息已全部追缴, cite: r05-xinmin-2024-08-06-chen-rugui-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1487,6 +1519,10 @@ ji-guogang:
     yuan: 43980000
     text: 2002 年至 2022 年受贿共计折合人民币 4398 万余元
     cite: r05-xinhua-2024-12-11-ji-guogang-verdict
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的受贿事实，所犯受贿罪构成自首, cite: r05-xinhua-2024-12-11-ji-guogang-verdict }
+    - { kind: plea, text: 到案后如实供述罪行，认罪悔罪, cite: r05-xinhua-2024-12-11-ji-guogang-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息已全部追缴, cite: r05-xinhua-2024-12-11-ji-guogang-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1629,6 +1665,9 @@ hao-hongjun:
     yuan: 74980000
     text: 2006 年至 2023 年直接或通过他人受贿共计折合人民币 7498 万余元
     cite: r05-chinacourt-2024-12-hao-hongjun-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿事实，认罪悔罪, cite: r05-chinacourt-2024-12-hao-hongjun-verdict }
+    - { kind: refund, text: 积极退赃，受贿所得财物及孳息已全部追缴, cite: r05-chinacourt-2024-12-hao-hongjun-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1652,6 +1691,9 @@ zheng-hong-chongqing:
     yuan: 33140000
     text: 1998 年至 2023 年受贿共计折合人民币 3314 万余元；2020 年 1 月离职后另利用影响力受贿 1769 万余元
     cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分犯罪事实；认罪悔罪, cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1843,6 +1885,9 @@ li-jinzhu:
     yuan: 431000000
     text: 2004 年至 2023 年受贿共计折合人民币 4.31 亿余元
     cite: r05-chinacourt-2024-12-li-jinzhu-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的绝大部分受贿事实；认罪悔罪, cite: r05-chinacourt-2024-12-li-jinzhu-verdict }
+    - { kind: refund, text: 积极退赃，涉案赃款赃物已全部追缴, cite: r05-chinacourt-2024-12-li-jinzhu-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1937,6 +1982,10 @@ yang-kening:
     yuan: 72230000
     text: 2003 年至 2023 年受贿共计折合人民币 7223 万余元
     cite: r05-court-2025-02-24-yang-kening-verdict
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的非法持有枪支、弹药事实，该罪构成自首, cite: r05-court-2025-02-24-yang-kening-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代绝大部分受贿事实；认罪悔罪, cite: r05-court-2025-02-24-yang-kening-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物及孳息已大部分追缴到案, cite: r05-court-2025-02-24-yang-kening-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源

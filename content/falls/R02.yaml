@@ -19,6 +19,9 @@ zhou-benshun:
     yuan: 40010000
     text: 受贿 4001 万余元，2017 年 2 月一审获刑十五年（人民网获刑官员统计表）
     cite: t01-people-2017-04-19-11-verdicts
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r12-bjnews-2017-02-16-zhou-benshun }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-bjnews-2017-02-16-zhou-benshun }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
   with:
     - { id: zhou-yongkang, name: 周永康, rel: patron, text: 周本顺 2003 至 2013 年在中央政法委任副秘书长、秘书长；BBC 称有媒体报道其落马与周永康有关, cite: c03-bbc-2015-07-24-zhou-benshun }
@@ -197,6 +200,9 @@ xi-xiaoming:
     yuan: 114000000
     text: 受贿 1.14 亿余元，2017 年 2 月一审被判无期徒刑（人民网获刑官员统计表）
     cite: t01-people-2017-04-19-11-verdicts
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r12-court-2017-02-17-xi-xiaoming }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-court-2017-02-17-xi-xiaoming }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-2015-07-12-xi-xiaoming-probe }
   politics:
     level: none
@@ -504,6 +510,9 @@ zhang-lijun:
     yuan: 2429900
     text: 受贿 242.99 万元，2016 年 11 月一审获刑四年（人民网 2016 年获刑官员统计表）
     cite: t01-people-2017-01-03-2016-verdicts
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实，认罪悔罪, cite: r12-court-2016-11-09-zhang-lijun }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-court-2016-11-09-zhang-lijun }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2015-12-31-zhang-lijun-expel }
   politics:
     level: none
@@ -588,6 +597,9 @@ ai-baojun:
     yuan: 43207737
     text: 2000 年至 2014 年本人或通过特定关系人收受财物折合人民币共计 4320.773718 万元；另在宝钢购买停车位和上海市政府配售福利房中侵吞公共财物 751.25787 万元
     cite: t01-court-2017-04-28-ai-baojun-verdict
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实，能够认罪、悔罪, cite: t01-court-2017-04-28-ai-baojun-verdict }
+    - { kind: refund, text: 全部退赃, cite: t01-court-2017-04-28-ai-baojun-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2016-01-19-ai-baojun-expel }
   politics:
     level: none
@@ -690,6 +702,9 @@ gai-ruyin:
     yuan: 23030000
     text: 受贿 2303 万余元，2017 年 4 月一审获刑十四年（人民网获刑官员统计表）
     cite: t01-people-2017-04-19-11-verdicts
+  plea:
+    - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r12-court-2017-04-13-gai-ruyin }
+    - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-court-2017-04-13-gai-ruyin }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r02-ccdi-2016-02-03-gai-ruyin-expel }
   politics:
     level: none
