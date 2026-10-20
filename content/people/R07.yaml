@@ -42,11 +42,11 @@
   tier: 2
   headline: 中央纪委原派驻国家烟草专卖局纪检组组长、国家烟草专卖局原党组成员
   bio: >-
-    2006 年至 2020 年任国家烟草专卖局党组成员、中央纪委派驻国家烟草专卖局纪检组组长。2021 年 5 月被查，开除通报称他“执纪违纪，帮助烟草行业私营企业主谋取私利”，“靠烟吃烟”；2023 年 4 月被合肥中院以受贿罪判处有期徒刑 11 年，法院认定他在设备采购和生产经营等事项上为人提供帮助，受贿 1698 万余元。
+    曾任国家烟草专卖局党组成员、中央纪委派驻国家烟草专卖局纪检组组长，2012 年 11 月由高林接任；法院认定他 2006 年至 2020 年利用所任职务受贿。2021 年 5 月被查，开除通报称他“执纪违纪，帮助烟草行业私营企业主谋取私利”，“靠烟吃烟”；2023 年 4 月被合肥中院以受贿罪判处有期徒刑 11 年，法院认定他在设备采购和生产经营等事项上为人提供帮助，受贿 1698 万余元。
   positions:
-    - { title: 国家烟草专卖局党组成员, sys: party, to: 2020, cite: r07-youth-2023-04-04-pan-jiahua-verdict }
-    - { title: 中央纪委派驻国家烟草专卖局纪检组组长, sys: party, to: 2020, cite: r07-youth-2023-04-04-pan-jiahua-verdict }
-  cites: [r07-ccdi-2021-05-11-pan-jiahua-probe, r07-xinhua-2021-11-13-pan-jiahua-expel, r07-youth-2023-04-04-pan-jiahua-verdict, bd1-qq-2022-01-06-pan-jiahua]
+    - { title: 国家烟草专卖局党组成员, sys: party, to: 2012-11, cite: cs8-people-2012-11-23-tobacco }
+    - { title: 中央纪委派驻国家烟草专卖局纪检组组长, sys: party, to: 2012-11, cite: cs8-people-2012-11-23-tobacco }
+  cites: [r07-ccdi-2021-05-11-pan-jiahua-probe, r07-xinhua-2021-11-13-pan-jiahua-expel, r07-youth-2023-04-04-pan-jiahua-verdict, bd1-qq-2022-01-06-pan-jiahua, cs8-people-2012-11-23-tobacco]
 
 - id: xu-ming
   name: 徐鸣

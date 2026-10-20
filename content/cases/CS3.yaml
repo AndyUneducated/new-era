@@ -321,7 +321,7 @@
     - voice: zh
       text: （传闻）彭博社报道美国情报评估称，腐败导致导弹中注水而不是燃料、西部基地导弹发射井井盖无法有效开合；报道同时说明，该评估无法得到独立证实。
       cite: e06-dw-2024-01-07-water-missiles
-  events: [rocket-force-reshuffle, generals-npc-removed, e06-2024-water-missiles, third-plenum-20th, nine-generals-expelled, e10-2023-cppcc-three-aerospace, e10-2023-equipment-clues-notice, e15-2026-wei-li-sentenced]
+  events: [rocket-force-reshuffle, generals-npc-removed, e06-2024-water-missiles, third-plenum-20th, nine-generals-expelled, e10-2023-cppcc-three-aerospace, e10-2023-equipment-clues-notice, e15-2026-wei-li-sentenced, cs8-2024-tan-ruisong-probe]
   factions: [rocket-equipment]
   cites: [f01-bbc-2023-08-01-rocket-force, a02-wikisource-npc-qualification-reports, c03-xinhua-2023-12-29-npc-notice-2, a02-caixin-2024-02-04-nine-generals, c02-gov-2024-06-27-wei-fenghe-expelled, c03-gov-2024-07-18-third-plenum, b08-mod-2025-10-17-nine-generals, e04-gov-2025-10-23-4th-plenum]
 
@@ -400,7 +400,7 @@
       text: 他长期掌管解放军装备采购系统——这正是腐败丑闻的“震中”。
       quote: true
       cite: f01-bbc-2026-01-27-zhang-youxia
-  events: [e06-2023-li-shangfu-missing, li-shangfu-removed, generals-npc-removed, third-plenum-20th, e10-2023-equipment-clues-notice, e10-2023-cppcc-three-aerospace, e10-2024-yuan-jie-replaced, e10-2025-cppcc-eight-removed, e10-2026-npc-gazette-reasons, e10-2026-liu-guozhi-cas-removed, e10-2026-zhao-xiaozhe-cae-removed, e15-2026-wei-li-sentenced]
+  events: [e06-2023-li-shangfu-missing, li-shangfu-removed, generals-npc-removed, third-plenum-20th, e10-2023-equipment-clues-notice, e10-2023-cppcc-three-aerospace, e10-2024-yuan-jie-replaced, e10-2025-cppcc-eight-removed, e10-2026-npc-gazette-reasons, e10-2026-liu-guozhi-cas-removed, e10-2026-zhao-xiaozhe-cae-removed, e15-2026-wei-li-sentenced, cs8-2013-aerospace-boards, cs8-2024-tan-ruisong-probe, cs8-2026-january-soe-probes, cs8-2026-xin-baoan-guo-wenqing, cs8-2025-gao-zhang-deputies-removed]
   factions: [equipment-system, aerospace, rocket-equipment]
   cites: [b08-zaobao-2023-09-15-li, b08-gov-2024-06-27-li-shangfu-expelled, b08-gov-2026-05-07-wei-li-sentenced, a02-wikisource-npc-qualification-reports, a02-caixin-2023-12-27-cppcc-three, k06-rfa-2024-04-15-yuan-jie, k05-cna-2025-12-24-cppcc, k05-zaobao-2026-03-20-cas, k06-zaobao-2026-08-18-zhao-xiaozhe]
 

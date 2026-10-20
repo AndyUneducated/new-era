@@ -1,0 +1,165 @@
+# CS8 — missing cards for the soe-chiefs-2024 case: the one non-SOE name in the 2025 CPPCC batch, and the predecessors and successors K08 asked for
+- id: wang-xinghuan
+  name: 王行环
+  pinyin: Wáng Xínghuán
+  gender: m
+  born: 1965-08
+  birthplace: 湖北新洲
+  roles: [tiger]
+  status: purged
+  statusNote: 2026 年 4 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；截至 2026 年 10 月未见起诉或审判消息。
+  fall:
+    - { date: 2025-12-24, text: 全国政协第四十五次主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: k07-xinhua-2025-12-24-cppcc }
+    - { date: 2025-12-29, text: 湖北省纪委监委通报其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: cs8-xinhua-2025-12-29-wang-xinghuan-probe }
+    - { date: 2026-03-02, text: 全国政协常委会第十五次会议追认撤销其第十四届全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+    - { date: 2026-04-18, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: cs8-xinhua-2026-04-18-wang-xinghuan-expel }
+  tier: 2
+  headline: 武汉大学中南医院原院长、武汉雷神山医院原院长，2025 年被撤销全国政协委员资格
+  ids: { wikidata: Q117746761 }
+  bio: >-
+    北京大学医学博士，泌尿外科专家，长期在武汉大学中南医院工作并任院长，2020 年武汉疫情期间任雷神山医院院长；公开资料称他是农工党党员、农工党中央常委，第十四届全国政协委员。
+    2025 年 12 月 16 日李志强已接任中南医院院长，24 日他与七名军工、能源央企负责人同批被撤销政协委员资格，29 日湖北省纪委监委宣布对他审查调查。2026 年 4 月被开除党籍和公职，通报称他“结交政治骗子，串供、伪造证据，对抗组织审查”，“在医疗领域搞新型隐性腐败”。
+  positions:
+    - { title: 武汉大学中南医院院长、武汉大学泌尿外科研究所所长, sys: other, place: 湖北, to: 2025-12, cite: cs8-sina-2025-12-25-wang-xinghuan }
+    - { title: 武汉雷神山医院院长, sys: other, place: 湖北, from: 2020, to: 2020, cite: cs8-sina-2025-12-25-wang-xinghuan }
+    - { title: 农工党中央常委、农工党湖北省委会副主任委员, sys: other, cite: cs8-sina-2025-12-25-wang-xinghuan }
+    - { title: 第十四届全国政协委员, sys: other, to: 2025-12, cite: k07-xinhua-2025-12-24-cppcc }
+  cites: [wd-Q117746761, cs8-sina-2025-12-25-wang-xinghuan, k07-xinhua-2025-12-24-cppcc, cs8-xinhua-2025-12-29-wang-xinghuan-probe, k05-xinhua-2026-03-02-cppcc, cs8-xinhua-2026-04-18-wang-xinghuan-expel, cs8-nbd-2025-12-29-wang-xinghuan]
+
+- id: huang-sanping
+  name: 黄三平
+  pinyin: Huáng Sānpíng
+  gender: m
+  born: 1957-03
+  birthplace: 湖北黄陂
+  roles: [tiger]
+  status: purged
+  statusNote: 2025 年 4 月退休后被新疆纪委监委审查调查；截至 2026 年 10 月未见处分结果。
+  fall:
+    - { date: 2025-04-02, text: 新疆维吾尔自治区纪委监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: cs8-xinhua-2025-04-02-huang-sanping-probe }
+  tier: 2
+  headline: 新疆维吾尔自治区政府原党组成员，阿克苏地委原书记、伊犁州党委原书记
+  ids: { wikidata: Q133817091 }
+  bio: >-
+    在博州工作 28 年，从师范学校教师做到副州长，2004 年起任哈密、喀什地委副书记，2009 年 9 月任阿克苏地委书记，2013 年 7 月任伊犁哈萨克自治州党委书记，2016 年 12 月任自治区政府党组成员，仍为正厅级，后到龄退休。
+    退休后 2023 年 4 月当选新疆老龄事业发展基金会理事长，2025 年 4 月被新疆纪委监委审查调查。他在阿克苏的前任朱昌杰、继任窦万贵也都已落马。
+  positions:
+    - { title: 博尔塔拉蒙古自治州副州长, sys: gov, place: 新疆, to: 2004-07, cite: cs8-thepaper-2016-12-huang-sanping }
+    - { title: 哈密地委副书记、行署常务副专员, sys: party, place: 新疆, from: 2004-08, to: 2007-06, cite: cs8-thepaper-2016-12-huang-sanping }
+    - { title: 喀什地委副书记、行署常务副专员, sys: party, place: 新疆, from: 2007-07, to: 2009-08, cite: cs8-thepaper-2016-12-huang-sanping }
+    - { title: 中共阿克苏地委书记, sys: party, place: 新疆, from: 2009-09, to: 2013-07, cite: cs8-thepaper-2016-12-huang-sanping }
+    - { title: 伊犁哈萨克自治州党委书记、霍尔果斯经济开发区党工委书记, sys: party, place: 新疆, from: 2013-07, to: 2016-12, cite: cs8-thepaper-2016-12-huang-sanping }
+    - { title: 新疆维吾尔自治区人民政府党组成员, sys: gov, place: 新疆, from: 2016-12, cite: cs8-bjnews-2025-04-02-huang-sanping }
+    - { title: 新疆老龄事业发展基金会理事长, sys: other, place: 新疆, from: 2023-04, cite: cs8-qq-2025-04-02-huang-sanping }
+  cites: [wd-Q133817091, cs8-xinhua-2025-04-02-huang-sanping-probe, cs8-bjnews-2025-04-02-huang-sanping, cs8-qq-2025-04-02-huang-sanping, cs8-thepaper-2016-12-huang-sanping, cs8-wiki-huang-sanping, r08-people-2026-06-20-zhu-changjie-probe, r07-people-2024-03-20-dou-wangui-probe]
+
+- id: ren-jianhua
+  name: 任建华
+  pinyin: Rén Jiànhuá
+  gender: m
+  born: 1957-07
+  birthplace: 河南辉县
+  roles: [ccdi]
+  status: retired
+  statusNote: 2021 年 4 月前驻全国人大机关纪检监察组组长一职已由王立山接任，此后未见新职报道；官方未发布退休消息。
+  tier: 2
+  headline: 中央纪委国家监委原驻全国人大机关纪检监察组组长，山西省委原常委、纪委书记、首任省监委主任
+  ids: { wikidata: Q22101373 }
+  bio: >-
+    郑州大学政治系毕业，早年在洛阳任职，做过栾川县委书记、新乡市委常委，2002 年转入河南省纪委，2006 年调中央纪委，历任干部室副主任、信访室主任，2015 年任驻国家发改委纪检组组长。
+    2016 年 9 月接替黄晓薇任山西省委常委、纪委书记，2017 年 1 月当选全国首位省级监察委员会主任；2019 年王拥军接任山西纪委书记，他转任驻全国人大机关纪检监察组组长，后由王立山接任。
+  positions:
+    - { title: 河南省栾川县委书记, sys: party, place: 河南, from: 1999-04, to: 2001-09, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 河南省新乡市委常委、统战部部长, sys: party, place: 河南, from: 2001-09, to: 2002-07, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 河南省纪委常委、干部管理室主任, sys: party, place: 河南, from: 2003-04, to: 2006-04, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 中央纪委信访室主任, sys: party, from: 2011-06, to: 2015-07, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 中央纪委驻国家发改委纪检组组长、国家发改委党组成员, sys: party, from: 2015-07, to: 2016-09, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 山西省委常委、省纪委书记, sys: party, place: 山西, from: 2016-09, to: 2019-07, cite: cs8-people-2019-07-24-ren-jianhua }
+    - { title: 山西省监察委员会主任, sys: gov, place: 山西, from: 2017-01, to: 2019-07, cite: cs8-ce-2019-07-24-ren-jianhua }
+    - { title: 中央纪委国家监委驻全国人大机关纪检监察组组长、全国人大常委会机关党组成员, sys: party, from: 2019-07, to: 2021-04, cite: cs8-people-2019-07-24-ren-jianhua }
+  cites: [wd-Q22101373, cs8-people-2019-07-24-ren-jianhua, cs8-ce-2019-07-24-ren-jianhua, k08-thepaper-12214059-wang-lishan, k05-wiki-huang-xiaowei]
+
+- id: liu-fei
+  name: 刘非
+  pinyin: Liú Fēi
+  gender: m
+  born: 1969-09
+  birthplace: 吉林长春
+  roles: [minister]
+  status: active
+  statusNote: 2025 年 4 月起任浙江省委常委、杭州市委书记，2026 年 10 月仍以此职主持杭州市委常委会。
+  tier: 2
+  headline: 浙江省委常委、杭州市委书记（2025– ），云南省委原常委、组织部部长
+  ids: { wikidata: Q67932636 }
+  bio: >-
+    吉林工业大学毕业，长期在吉林省商务系统工作，2017 年任吉林市市长；2019 年 12 月在厅级干部跨省交流中调任湖南娄底市委书记，2021 年 10 月任云南省委常委，2022 年 1 月任常务副省长。
+    2023 年 11 月接替李刚任云南省委组织部部长，2025 年 4 月调任浙江省委常委、杭州市委书记。
+  positions:
+    - { title: 吉林省吉林市委副书记、市长, sys: gov, place: 吉林, from: 2017-08, to: 2019-12, cite: cs8-thepaper-2025-04-26-liu-fei }
+    - { title: 湖南省娄底市委书记, sys: party, place: 湖南, from: 2019-12, to: 2021-10, cite: cs8-thepaper-2025-04-26-liu-fei }
+    - { title: 云南省委常委、常务副省长, sys: party, place: 云南, from: 2022-01, to: 2023-11, cite: cs8-thepaper-2025-04-26-liu-fei }
+    - { title: 云南省委常委、组织部部长, sys: party, place: 云南, from: 2023-11, to: 2025-04, cite: cs8-caixin-2023-11-30-liu-fei }
+    - { title: 浙江省委常委、杭州市委书记, sys: party, place: 浙江, from: 2025-04, cite: cs8-thepaper-2025-04-26-liu-fei }
+  cites: [wd-Q67932636, cs8-thepaper-2025-04-26-liu-fei, cs8-caixin-2023-11-30-liu-fei, cs8-hznews-2026-10-20-liu-fei]
+
+- id: guo-wenqi
+  name: 郭文奇
+  pinyin: Guō Wénqí
+  gender: m
+  born: 1963-06
+  birthplace: 河北行唐
+  roles: [ccdi, minister]
+  status: active
+  statusNote: 2023 年 4 月起任中央和国家机关工委分管日常工作的副书记，2026 年 6 月仍以此职主持工委委务会会议。
+  tier: 2
+  headline: 中央和国家机关工委分管日常工作的副书记（2023– ），二十届中央纪委委员，江苏省委原常委、组织部部长
+  ids: { wikidata: Q30951261 }
+  bio: >-
+    工学博士，在山西煤炭、地质系统起家，2010 年调国家质检总局，后任国家食药监总局人事司司长、副局长。2017 年 5 月任江苏省委常委、组织部部长，2020 年 12 月任司法部政治部主任，2021 年 10 月任中央和国家机关工委副书记。
+    2022 年 10 月以驻中央组织部纪检监察组组长身份亮相，2023 年 4 月升任中央和国家机关工委分管日常工作的副书记，驻中组部组长一职后由李刚接任。
+  positions:
+    - { title: 国家食品药品监督管理总局副局长、党组成员, sys: gov, from: 2016-12, to: 2017-05, cite: cs8-wiki-guo-wenqi }
+    - { title: 江苏省委常委、组织部部长, sys: party, place: 江苏, from: 2017-05, to: 2020-12, cite: cs8-wiki-guo-wenqi }
+    - { title: 司法部党组成员、政治部主任, sys: gov, from: 2020-12, to: 2021-10, cite: cs8-wiki-guo-wenqi }
+    - { title: 中央和国家机关工委副书记, sys: party, from: 2021-10, to: 2022-07, cite: cs8-wiki-guo-wenqi }
+    - { title: 中央纪委国家监委驻中央组织部纪检监察组组长, sys: party, from: 2022-10, to: 2023-04, cite: cs8-thepaper-2023-04-04-guo-wenqi }
+    - { title: 中央和国家机关工委分管日常工作的副书记, sys: party, from: 2023-04, cite: cs8-thepaper-2023-04-04-guo-wenqi }
+  cites: [wd-Q30951261, cs8-thepaper-2023-04-04-guo-wenqi, cs8-wiki-guo-wenqi, cs8-caixin-2024-01-30-li-gang, cs8-people-2026-06-16-guo-wenqi]
+
+- id: chen-youan
+  name: 陈有安
+  pinyin: Chén Yǒu'ān
+  gender: m
+  born: 1958-03
+  roles: [biz]
+  status: retired
+  statusNote: 2016 年 4 月卸任银河金控、银河证券董事长，财新称其退休。
+  tier: 2
+  headline: 中国银河证券、银河金控原董事长，中央汇金原副总经理
+  bio: >-
+    管理科学博士，早年在中信、国家计委、国家开发银行和甘肃省政府任职。2009 年 9 月由中央汇金副总经理出任银河证券董事长及银河金控董事长、党委书记，2013 年带银河证券在港交所上市。
+    2016 年 4 月 25 日中投公司宣布免去他在银河金控与银河证券的职务，由证券业协会会长陈共炎接任；陈共炎 2023 年退休后被查。
+  positions:
+    - { title: 中央汇金投资有限责任公司副总经理, sys: other, to: 2016-04, cite: cs8-ce-2016-05-03-chen-youan }
+    - { title: 中国银河金融控股有限责任公司董事长、党委书记，中国银河证券董事长, sys: other, from: 2009-09, to: 2016-04, cite: cs8-ce-2016-05-03-chen-youan }
+  cites: [cs8-ce-2016-05-03-chen-youan, cs8-caixin-2016-04-26-chen-youan, r10-jiemian-2023-11-10-chen-gongyan-probe]
+
+- id: gao-lin
+  name: 高林
+  pinyin: Gāo Lín
+  gender: m
+  roles: [ccdi]
+  status: retired
+  statusNote: 2019 年 2 月不再担任国家烟草专卖局党组成员、直属机关党委书记，此后未见新职报道。
+  tier: 2
+  headline: 中央纪委原驻国家烟草专卖局纪检组组长，国家烟草专卖局原党组成员
+  bio: >-
+    长期在中央纪委监察部案件审理室工作，2004 年任驻国家烟草专卖局纪检组副组长，2009 年任天津市烟草专卖局局长。2012 年 11 月国家烟草专卖局公布他接替潘家华任中央纪委驻局纪检组组长、局党组成员；中国经济网简历记为 2012 年 9 月。
+    2016 年 5 月改任局党组成员、直属机关党委书记，2019 年 2 月卸任。
+  positions:
+    - { title: 中央纪委监察部案件审理室副局级检查员、监察专员, sys: party, from: 2000-04, to: 2004-07, cite: cs8-ce-2019-02-19-gao-lin }
+    - { title: 中央纪委监察部驻国家烟草专卖局纪检组副组长、监察局局长, sys: party, from: 2004-07, to: 2009-10, cite: cs8-ce-2019-02-19-gao-lin }
+    - { title: 天津市烟草专卖局（公司）局长、总经理、党组书记, sys: other, place: 天津, from: 2009-10, to: 2012-11, cite: cs8-people-2012-11-23-tobacco }
+    - { title: 中央纪委驻国家烟草专卖局纪检组组长、国家烟草专卖局党组成员, sys: party, from: 2012-11, to: 2016-05, cite: cs8-people-2012-11-23-tobacco }
+    - { title: 国家烟草专卖局党组成员、直属机关党委书记, sys: party, from: 2016-05, to: 2019-02, cite: cs8-ce-2019-02-19-gao-lin }
+  cites: [cs8-people-2012-11-23-tobacco, cs8-ce-2019-02-19-gao-lin]

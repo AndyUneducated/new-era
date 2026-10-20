@@ -1,0 +1,40 @@
+# CS8 — case records for the cards built in this batch
+wang-xinghuan:
+  sys: health
+  grade: bureau
+  retired: 2025-12
+  notice:
+    date: 2026-04-18
+    cite: cs8-xinhua-2026-04-18-wang-xinghuan-expel
+    quotes:
+      - 搞投机钻营，结交政治骗子，串供、伪造证据，对抗组织审查
+      - 在干部任用考察工作中，隐瞒事实真相为本人谋取人事利益
+      - 搞权色、钱色交易，违规领取绩效奖金
+      - 违规向医药企业摊派费用
+      - 在医疗领域搞新型隐性腐败
+      - 利用职务便利为他人在医疗设备采购、工程项目承揽等方面谋利，并非法收受巨额财物
+      - 在党的十八大后不收敛、不收手
+  discipline: [political, organization, integrity, mass, work]
+  trigger: { kind: unknown, text: 湖北省纪委监委立案和开除通报都未说明线索来源；立案前五天他已被撤销全国政协委员资格, cite: cs8-xinhua-2025-12-29-wang-xinghuan-probe }
+  politics:
+    level: none
+    why: 医院院长、农工党中央常委，与同批被撤销政协委员资格的七名军工、能源央企负责人没有已知的工作交集；开除通报提到“结交政治骗子”，但未说明是谁，本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [cs8-xinhua-2026-04-18-wang-xinghuan-expel, k07-xinhua-2025-12-24-cppcc]
+  voices:
+    - { voice: zh, text: 每日经济新闻把王行环被查放在 2025 年下半年医疗反腐“持续保持高压态势”的背景下，称监管正从医疗终端向药品耗材生产、采购等环节全链条穿透, cite: cs8-nbd-2025-12-29-wang-xinghuan }
+  outcome: expelled
+
+huang-sanping:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 新疆纪委监委通报未说明线索来源；南方都市报指出他在阿克苏的两名下属窦万贵、杨发森已于 2024 年先后落马, cite: cs8-qq-2025-04-02-huang-sanping }
+  with:
+    - { id: dou-wangui, name: 窦万贵, rel: protege, text: 黄三平任阿克苏地委书记期间任地委组织部部长、副书记，黄三平卸任后接任地委书记；2024 年 3 月被查, cite: cs8-qq-2025-04-02-huang-sanping }
+    - { id: yang-fasen, name: 杨发森, rel: protege, text: 黄三平任阿克苏地委书记期间任阿克苏市委副书记、拜城县委书记；2024 年 10 月主动投案, cite: cs8-qq-2025-04-02-huang-sanping }
+  politics:
+    level: none
+    why: 退休正厅级干部，南方都市报把他与阿克苏两名先落马的下属并列，但通报未说明他与二人的案情有关；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [cs8-qq-2025-04-02-huang-sanping, cs8-xinhua-2025-04-02-huang-sanping-probe]
+  voices:
+    - { voice: zh, text: 南方都市报称，黄三平担任过新疆 5 个地州的领导，曾是微博粉丝过百万的“网红官员”；与两位升到副省级的下属不同，他的仕途止步于正厅, cite: cs8-qq-2025-04-02-huang-sanping }
+  outcome: probe

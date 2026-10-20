@@ -1,0 +1,289 @@
+web:
+  - id: cs8-xinhua-2025-12-29-wang-xinghuan-probe
+    title: 武汉大学中南医院原党委常委、院长王行环接受纪律审查和监察调查
+    publisher: 新华网
+    date: 2025-12-29
+    voice: official
+    url: http://www.hb.xinhuanet.com/20251229/d371f7da2f5b416f94cdf82bbc4b5c1d/c.html
+    start: 新华社武汉12月29日电
+    end: 纪律审查和监察调查。
+  - id: cs8-xinhua-2026-04-18-wang-xinghuan-expel
+    title: 武汉大学中南医院原党委常委、院长王行环严重违纪违法被开除党籍和公职
+    publisher: 新华网
+    date: 2026-04-18
+    voice: official
+    url: https://www.news.cn/legal/20260418/772e9e49940d411c97d06cda850e3501/c.html
+    start: 新华社武汉4月18日电
+    end: 所涉财物一并移送。
+  - id: cs8-sina-2025-12-25-wang-xinghuan
+    title: 武汉大学中南医院原院长王行环，被撤销全国政协委员资格
+    publisher: 中国网湖北（新浪新闻转载）
+    date: 2025-12-25
+    voice: zh
+    url: https://news.sina.com.cn/c/2025-12-25/doc-inhcywap3620772.shtml
+    excerpt: true
+    keep:
+      - 公开资料显示：王行环
+      - 王行环此前任全国政协委员
+      - 李志强同志已任武汉大学中南医院院长
+  - id: cs8-nbd-2025-12-29-wang-xinghuan
+    title: 武汉大学中南医院原院长王行环接受调查
+    publisher: 每日经济新闻
+    date: 2025-12-30
+    voice: zh
+    url: https://www.nbd.com.cn/articles/2025-12-29/4200350.html
+    excerpt: true
+    keep:
+      - 资料显示，王行环此前被撤销全国政协委员资格
+      - 今年下半年，全国医疗反腐持续保持高压态势
+  - id: cs8-xinhua-2025-04-02-huang-sanping-probe
+    title: 新疆维吾尔自治区人民政府原党组成员黄三平接受纪律审查和监察调查
+    publisher: 新华网（中央纪委国家监委网站）
+    date: 2025-04-02
+    voice: official
+    url: https://www.news.cn/legal/20250402/548826ec41954ada961089c4fe6e7c74/c.html
+    start: 据新疆维吾尔自治区纪委监委消息
+    end: （新疆维吾尔自治区纪委监委）
+  - id: cs8-bjnews-2025-04-02-huang-sanping
+    title: 黄三平，被查
+    publisher: 新京报
+    date: 2025-04-02
+    voice: zh
+    url: https://m.bjnews.com.cn/detail/1743562443129082.html
+    excerpt: true
+    keep:
+      - 公开简历显示，黄三平
+      - 他早年在博州师范学校担任教师
+      - 2004年8月，黄三平任哈密地委副书记
+      - 2013年7月，黄三平任伊犁哈萨克自治州党委书记
+  - id: cs8-qq-2025-04-02-huang-sanping
+    title: 68岁退休厅官被查，曾是网红官员，在新疆五地州担任过领导
+    publisher: 南方都市报（腾讯新闻）
+    date: 2025-04-02
+    voice: zh
+    url: https://news.qq.com/rain/a/20250402A08EKO00
+    excerpt: true
+    keep:
+      - 2023年4月，黄三平当选新疆老龄事业发展基金会理事长
+      - 2009年，调任阿克苏地委书记，跻身正厅级
+      - 黄三平任职阿克苏地委书记（2009年09月至2013年07月）期间
+      - 黄三平卸任阿克苏地委书记后，窦万贵接任
+      - 与两位最终升任副省级的下属不同
+      - 接任黄三平担任伊犁州党委书记的曾存
+  - id: cs8-thepaper-2016-12-huang-sanping
+    title: 黄三平任新疆维吾尔自治区政府党组成员，曾任伊犁州委书记
+    publisher: 澎湃新闻（转新疆招商网）
+    date: 2016-12-19
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1583318
+    excerpt: true
+    keep:
+      - 12月14日，新疆维吾尔自治区人民政府党组成员黄三平
+      - 黄三平，男，汉族，1957年3月生
+      - 1976年11月至2004年07月在博州
+      - 2004年08月至2007年06月
+      - 2007年07月至2009年08月
+      - 2009年09月至2013年07月任阿克苏地委书记
+      - 2013年07月任伊犁哈萨克自治州党委书记
+  - id: cs8-wiki-huang-sanping
+    title: 黄三平（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/wiki/%E9%BB%84%E4%B8%89%E5%B9%B3
+    excerpt: true
+    keep:
+      - 前任朱昌杰
+      - 继任窦万贵
+      - 2016年12月，出任新疆维吾尔自治区人民政府党组成员
+  - id: cs8-ce-2019-07-24-ren-jianhua
+    title: 山西省纪委原书记任建华出任中纪委驻全国人大机关纪检监察组组长
+    publisher: 中国经济网
+    date: 2019-07-24
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201907/24/t20190724_32704742.shtml
+    start: 经济日报-中国经济网呼和浩特7月24日综合报道
+    end: 十九届中央纪委委员，中共十九大代表。
+  - id: cs8-people-2019-07-24-ren-jianhua
+    title: 任建华任中央纪委国家监委驻全国人大机关纪检监察组组长
+    publisher: 人民网
+    date: 2019-07-24
+    voice: official
+    url: http://renshi.people.com.cn/n1/2019/0724/c139617-31253672.html
+    start: 中国共产党新闻网北京7月24日电
+    end: 现任中央纪委国家监委驻全国人大机关纪检监察组组长、机关党组成员
+  - id: cs8-caixin-2023-11-30-liu-fei
+    title: 人事观察｜补缺李刚 云南常务副省长刘非转任组织部长
+    publisher: 财新网
+    date: 2023-11-30
+    voice: zh
+    url: https://china.caixin.com/2023-11-30/102140809.html
+    excerpt: true
+    keep:
+      - 刘非长期任职吉林
+      - 云南省委常委、常务副省长刘非履新云南省委组织部长，该职此前由李刚担任
+  - id: cs8-thepaper-2025-04-26-liu-fei
+    title: 中共中央批准：刘非任杭州市委书记（附简历）
+    publisher: 中国城市报（澎湃号）
+    date: 2025-04-26
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_30727434
+    excerpt: true
+    keep:
+      - 日前，中共中央批准：刘非同志任中共浙江省委常委、杭州市委书记。
+      - 刘非，男，汉族，1969年9月出生
+      - 2016.09—2017.07
+      - 2017.08—2019.12
+      - 2020.01—2021.10
+      - 2022.01—2023.11
+      - 2024.08—2025.04
+      - 2025.04— 浙江省委常委、杭州市委书记
+  - id: cs8-hznews-2026-10-20-liu-fei
+    title: 市委常委会召开会议 刘非主持
+    publisher: 杭州网（杭州日报）
+    date: 2026-10-20
+    voice: official
+    url: https://hznews.hangzhou.com.cn/xinzheng/lf/content/content_9347073.htm
+    excerpt: true
+    keep:
+      - 杭州日报讯 19日上午
+      - 省委常委、市委书记刘非主持。
+  - id: cs8-caixin-2024-01-30-li-gang
+    title: 人事观察｜云南原组织部长李刚新职明确：驻中组部纪检监察组长
+    publisher: 财新网
+    date: 2024-01-30
+    voice: zh
+    url: https://china.caixin.com/2024-01-30/102161930.html
+    excerpt: true
+    keep:
+      - 此前担任该职的郭文奇已于2023年4月升任中央和国家机关工委分管日常工作的副书记
+  - id: cs8-thepaper-2023-04-04-guo-wenqi
+    title: 郭文奇任中央和国家机关工委分管日常工作的副书记
+    publisher: 澎湃新闻
+    date: 2023-04-04
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_22572333
+    excerpt: true
+    keep:
+      - 据中央和国家机关党建门户网站旗帜网资料
+      - 郭文奇，男，汉族，1963年6月出生
+      - 他曾任国家食品药品监督管理总局副局长
+  - id: cs8-wiki-guo-wenqi
+    title: 郭文奇（维基百科）
+    publisher: 维基百科
+    date: 2026-10
+    voice: wiki
+    url: https://zh.wikipedia.org/wiki/%E9%83%AD%E6%96%87%E5%A5%87
+    excerpt: true
+    keep:
+      - 1998年起，历任山西广播电视大学副校长
+      - 2010年12月，郭文奇调任
+      - 2017年5月，调任中共江苏省委常委、组织部部长
+      - 2020年12月，任司法部党组成员、政治部主任
+      - 2021年10月，调任中央和国家机关工委副书记
+      - 2022年10月，以中央纪委国家监委驻中央组织部纪检监察组组长的身份亮相
+      - 2023年4月，升任中央和国家机关工委分管日常工作的副书记
+      - 王炯
+      - 郭元强
+      - 吴汉圣
+  - id: cs8-people-2026-06-16-guo-wenqi
+    title: 中央和国家机关工委召开专题会议 传达学习全国党建工作座谈会精神
+    publisher: 人民网（旗帜网）
+    date: 2026-06-16
+    voice: official
+    url: http://dangjian.people.com.cn/n1/2026/0616/c431693-40741538.html
+    excerpt: true
+    keep:
+      - 中央和国家机关工委分管日常工作的副书记郭文奇同志主持会议并讲话
+  - id: cs8-ce-2016-05-03-chen-youan
+    title: 银河证券意外换帅 催化A股IPO
+    publisher: 时代周报（中国经济网转载）
+    date: 2016-05-03
+    voice: zh
+    url: http://finance.ce.cn/rolling/201605/03/t20160503_11116364.shtml
+    excerpt: true
+    keep:
+      - 4月28日，中国银河（06881 HK)公告
+      - 据媒体消息，4月25日上午
+      - 这一幕，似乎与7年前相似
+      - 1958年3月出生的陈有安
+  - id: cs8-caixin-2016-04-26-chen-youan
+    title: 银河证券换将 陈共炎任董事长
+    publisher: 财新网
+    date: 2016-04-26
+    voice: zh
+    url: https://finance.caixin.com/m/2016-04-26/100936750.html
+    excerpt: true
+    keep:
+      - 原董事长陈有安退休
+  - id: cs8-people-2012-11-23-tobacco
+    title: 国家烟草专卖局发布领导干部任免信息
+    publisher: 人民网
+    date: 2012-11-23
+    voice: official
+    url: http://renshi.people.com.cn/n/2012/1123/c139617-19679535.html
+    start: 中国共产党新闻网北京11月23日电
+    end: 中国烟草总公司天津市公司总经理。
+  - id: cs8-ce-2019-02-19-gao-lin
+    title: 高林不再担任国家烟草专卖局党组成员
+    publisher: 中国经济网
+    date: 2019-02-19
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201902/19/t20190219_31513971.shtml
+    start: 经济日报-中国经济网北京2月19日综合报道
+    end: 兼任中共国家烟草专卖局党校校长。
+  - id: cs8-people-2013-04-24-casc
+    title: 许达哲任中国航天科技集团公司董事长、党组书记
+    publisher: 人民网
+    date: 2013-04-24
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/0424/c139617-21263886.html
+    start: 中国共产党新闻网北京4月24日电
+    end: 雷凡培同志任中国航天科技集团公司董事。
+  - id: cs8-people-2013-04-25-casic
+    title: 高红卫任中国航天科工集团公司董事长、党组书记
+    publisher: 人民网
+    date: 2013-04-25
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/0425/c139617-21272392.html
+    start: 中国共产党新闻网北京4月25日电
+    end: 任命曹建国同志为中国航天科工集团公司董事、总经理。
+  - id: cs8-12371-2013-04-25-aerospace-boards
+    title: 中国航天两大集团新设董事会并调整主要负责人
+    publisher: 共产党员网（中国新闻网）
+    date: 2013-04-25
+    voice: official
+    url: http://news.12371.cn/2013/04/25/ARTI1366836526758386.shtml
+    start: 记者从中国航天科技集团公司
+    end: (记者 孙自法)
+  - id: cs8-ce-2019-03-04-wang-xiangxi
+    title: 王祥喜任国家能源集团董事长 乔保平退休
+    publisher: 中国经济网
+    date: 2019-03-04
+    voice: official
+    url: http://www.ce.cn/cysc/ny/gdxw/201903/04/t20190304_31610899.shtml
+    start: 经济日报-中国经济网北京3月4日讯
+    end: 原董事长、党组书记乔保平到龄退休。
+  - id: cs8-jiemian-2026-01-31-wang-xiangxi
+    title: 应急管理部部长王祥喜被查，曾任国家能源集团董事长
+    publisher: 界面新闻
+    date: 2026-01-31
+    voice: zh
+    url: https://www.jiemian.com/article/13962136.html
+    excerpt: true
+    keep:
+      - 据界面新闻此前报道，王祥喜原为国家能源集团董事长
+      - 2019年3月，时任湖北省委常委、省政法委书记的王祥喜调任国家能源集团董事长
+      - 本月里已有8名中管干部被查
+  - id: cs8-erickson-2025-12-cmpr
+    title: "Corruption, Cashiering, Continued Progress: New China Military Power Report Probes PLA Leadership and Organizational Trends"
+    publisher: Andrew S. Erickson
+    date: 2025-12
+    voice: scholar
+    lang: en
+    url: https://www.andrewerickson.com/2025/12/corruption-cashiering-continued-progress-new-china-military-power-report-probes-pla-leadership-and-organizational-trends/
+    excerpt: true
+    keep:
+      - At least 26 top and former managers with state-owned arms suppliers
+      - civilians experience a much longer time between initial detention
+      - multiple senior officers and defense industry executives have not been seen attending public events

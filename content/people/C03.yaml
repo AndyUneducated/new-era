@@ -706,10 +706,12 @@
   bio: >-
     第二十届中央委员，2022 年 7 月接替黄明任应急管理部党委书记，后任部长。2026 年 1 月在部长任上落马，9 月被开除党籍和公职，通报称他“将公权力异化为谋取私利的工具”，“利用职务上的影响为特定关系人经营活动谋取利益”，并利用职务便利在工程项目承揽、职务晋升等方面为他人谋利。
   positions:
+    - { title: 湖北省委常委、政法委书记, sys: party, place: 湖北, to: 2019-03, cite: cs8-jiemian-2026-01-31-wang-xiangxi }
+    - { title: 国家能源投资集团董事长、党组书记, sys: other, from: 2019-03, to: 2022-07, cite: cs8-ce-2019-03-04-wang-xiangxi }
     - { title: 应急管理部党委书记, sys: party, from: 2022-07, to: 2026-01, cite: c03-mem-2022-07-29-wang-xiangxi }
     - { title: 应急管理部部长, sys: gov, to: 2026-01, cite: c03-xinhua-2026-01-31-wang-xiangxi-probe }
     - { title: 第二十届中央委员, sys: party, to: 2026-09, cite: c03-xinhua-2026-09-08-wang-xiangxi-expel }
-  cites: [wd-Q16906160, c03-xinhua-2026-01-31-wang-xiangxi-probe, c03-xinhua-2026-09-08-wang-xiangxi-expel, c03-mem-2022-07-29-wang-xiangxi]
+  cites: [wd-Q16906160, c03-xinhua-2026-01-31-wang-xiangxi-probe, c03-xinhua-2026-09-08-wang-xiangxi-expel, c03-mem-2022-07-29-wang-xiangxi, cs8-ce-2019-03-04-wang-xiangxi, cs8-jiemian-2026-01-31-wang-xiangxi]
 
 - id: hu-henghua
   name: 胡衡华
@@ -989,18 +991,19 @@
   status: purged
   statusNote: 2025 年 10 月被开除党籍、军籍，涉嫌犯罪问题移送军事检察机关。
   fall:
+    - { date: 2025-09-15, text: 因涉嫌严重违纪违法，海军军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
     - { date: 2025-10-17, text: 国防部宣布其被立案审查调查并开除党籍，此前已被开除军籍, cite: b08-mod-2025-10-17-nine-generals }
-    - { date: 2025-10-28, text: 被海军军人代表大会罢免全国人大代表职务, cite: c03-xinhua-2025-10-28-npc-notice-13 }
+    - { date: 2025-10-28, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2025-10-28-npc-notice-13 }
   tier: 2
   headline: 海军原政委，上将
   ids: { wikidata: Q60995511 }
   bio: >-
-    海军原政治委员，2022 年 1 月晋升上将，此前曾任东部战区空军政委。BBC 称他长期在海军政治工作部门服役，是苗华任海军政委时提拔的旧部。2025 年 10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍；同月被海军军人代表大会罢免全国人大代表职务。
+    海军原政治委员，2022 年 1 月晋升上将，此前曾任东部战区空军政委。BBC 称他长期在海军政治工作部门服役，是苗华任海军政委时提拔的旧部。2025 年 9 月 15 日，海军军人代表大会以涉嫌严重违纪违法罢免他的全国人大代表职务；10 月 17 日，国防部宣布他与何卫东等 9 人被立案审查调查并开除党籍。
   positions:
     - { title: 东部战区空军政治委员, sys: army, cite: c03-zaobao-2025-10-18-nine-generals }
     - { title: 海军政治委员, sys: army, to: 2025, cite: c03-xinhua-2022-01-21-generals-promoted }
     - { title: 第二十届中央委员, sys: party, to: 2025-10, cite: b08-mod-2025-10-17-nine-generals }
-  cites: [wd-Q60995511, b08-mod-2025-10-17-nine-generals, c03-xinhua-2025-10-28-npc-notice-13, c03-xinhua-2022-01-21-generals-promoted, c03-zaobao-2025-10-18-nine-generals, b04-bbc-2025-10-nine-generals]
+  cites: [wd-Q60995511, b08-mod-2025-10-17-nine-generals, c03-xinhua-2025-10-28-npc-notice-13, c03-xinhua-2022-01-21-generals-promoted, c03-zaobao-2025-10-18-nine-generals, b04-bbc-2025-10-nine-generals, a02-wikisource-npc-qualification-reports]
 
 - id: wang-chunning
   name: 王春宁

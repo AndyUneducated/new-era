@@ -54,9 +54,10 @@
   joinedWork: 1975-12
   roles: [cc, prov, minister]
   status: missing
-  statusNote: 2025 年 10 月被湖南省人大常委会罢免全国人大代表，全国人大常委会委员、教科文卫委副主任委员职务相应撤销；此前已一年多未公开露面，官方未公布原因。
+  statusNote: 2025 年 9 月被湖南省人大常委会罢免全国人大代表，10 月公告，全国人大常委会委员、教科文卫委副主任委员职务相应撤销；此前已一年多未公开露面，官方未公布原因。
   fall:
-    - { date: 2025-10-28, text: 被湖南省人大常委会罢免第十四届全国人大代表职务，全国人大常委会委员等职相应撤销, cite: f08-xinhua-2025-10-28-npc-notice }
+    - { date: 2025-09-26, text: 湖南省人大常委会决定罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2025-10-28, text: 全国人大常委会公告其代表资格终止，全国人大常委会委员等职相应撤销, cite: f08-xinhua-2025-10-28-npc-notice }
   tier: 2
   headline: 国家航天局局长（2013–2016）、湖南省委书记（2020–2021）
   bio: >-
@@ -78,7 +79,7 @@
       cite: f08-chinanews-2017-02-07-jungong
       quote: 这家央企连续走出的三位“掌门人”张庆伟、马兴瑞、许达哲，都位列中央委员
   ids: { wikidata: Q8294022 }
-  cites: [wd-Q8294022, f08-hnrd-xu-dazhe, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-xinhua-2025-10-28-npc-notice, f08-caixin-2025-10-29-xu-dazhe]
+  cites: [wd-Q8294022, f08-hnrd-xu-dazhe, f08-people-2016-12-07-aerospace, f08-chinanews-2017-02-07-jungong, f08-xinhua-2025-10-28-npc-notice, f08-caixin-2025-10-29-xu-dazhe, a02-wikisource-npc-qualification-reports]
 
 - id: chen-qiufa
   name: 陈求发

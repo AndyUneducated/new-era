@@ -1,0 +1,66 @@
+# RL4: relations suggested by CS8 (soe-chiefs-2024), written by the maintainer from the quoted sources.
+
+# ---------- 新疆：阿克苏 ----------
+- a: dou-wangui
+  b: huang-sanping
+  kind: colleague
+  from: 2013-07
+  text: 黄三平 2009—2013 年任阿克苏地委书记期间，窦万贵任地委组织部长、副书记；黄三平卸任后由窦万贵接任，主政阿克苏 9 年。
+  cite: cs8-qq-2025-04-02-huang-sanping
+  quote: 黄三平卸任阿克苏地委书记后，窦万贵接任
+
+- a: yang-fasen
+  b: huang-sanping
+  kind: colleague
+  from: 2009-09
+  to: 2013-07
+  text: 黄三平任阿克苏地委书记期间，杨发森先后任阿克苏市委副书记和拜城县委书记，报道称二人都是他的下属。
+  cite: cs8-qq-2025-04-02-huang-sanping
+  quote: 窦万贵和杨发森都曾长期在阿克苏地区工作
+
+# ---------- 纪检系统 ----------
+- a: ren-jianhua
+  b: huang-xiaowei
+  kind: colleague
+  from: 2016-10
+  text: 2016 年 10 月黄晓薇任山西省委副书记，任建华接任山西省纪委书记。
+  cite: k05-wiki-huang-xiaowei
+
+- a: liu-fei
+  b: li-gang-zzb
+  kind: colleague
+  from: 2023-11
+  text: 2023 年 11 月 28 日，云南省委常委、常务副省长刘非接任云南省委组织部长，该职此前由李刚担任。
+  cite: cs8-caixin-2023-11-30-liu-fei
+  quote: 刘非履新云南省委组织部长，该职此前由李刚担任
+
+- a: li-gang-zzb
+  b: guo-wenqi
+  kind: colleague
+  from: 2024-01
+  text: 李刚出任中央纪委国家监委驻中央组织部纪检监察组组长，前任郭文奇 2023 年 4 月升任中央和国家机关工委副书记。
+  cite: cs8-caixin-2024-01-30-li-gang
+  quote: 此前担任该职的郭文奇已于2023年4月升任中央和国家机关工委分管日常工作的副书记
+
+- a: gao-lin
+  b: pan-jiahua
+  kind: colleague
+  from: 2012-11
+  text: 2012 年 11 月高林任中央纪委驻国家烟草专卖局纪检组组长，同时免去潘家华的该职。
+  cite: cs8-people-2012-11-23-tobacco
+
+# ---------- 金融与央企 ----------
+- a: chen-gongyan
+  b: chen-youan
+  kind: colleague
+  from: 2016-04
+  text: 2016 年 4 月证券业协会会长陈共炎调任银河证券、银河金控董事长，接替辞任（财新称退休）的陈有安。
+  cite: cs8-caixin-2016-04-26-chen-youan
+  quote: 证券业协会原会长调任银河证券任董事长，原董事长陈有安退休
+
+- a: liu-guoyue
+  b: wang-xiangxi
+  kind: colleague
+  from: 2022-09
+  text: 2022 年 9 月刘国跃出任国家能源投资集团董事长、党组书记，前任王祥喜调任应急管理部部长。
+  cite: k07-wiki-liu-guoyue

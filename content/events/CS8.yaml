@@ -1,0 +1,65 @@
+# CS8 — events for the soe-chiefs-2024 case: the 2013 aerospace boards, the 2016 discipline-group reshuffle, the formal probes of 2024 and 2026, the 2025 deputies removed, the navy commissar
+- id: cs8-2013-aerospace-boards
+  date: 2013-04-24
+  title: 航天科技、航天科工设立董事会，许达哲、曹建国等换岗
+  lane: power
+  summary: 2013年4月，中共中央、国务院决定航天科技、航天科工两大集团设立董事会。航天科工总经理许达哲改任航天科技董事长、党组书记，航天科技副总经理雷凡培升任总经理；航天科工副总经理高红卫任该集团董事长，副总经理曹建国接任总经理。十二年后两人都已出局：许达哲2025年9月被湖南省人大常委会罢免全国人大代表，未说明原因；2016年起执掌中国航发的曹建国2025年12月被撤销全国政协委员资格。
+  people: [xu-dazhe, lei-fanpei, cao-jianguo]
+  cites: [cs8-people-2013-04-24-casc, cs8-people-2013-04-25-casic, cs8-12371-2013-04-25-aerospace-boards, a02-wikisource-npc-qualification-reports, k07-xinhua-2025-12-24-cppcc, k05-cna-2025-12-24-cppcc]
+
+- id: cs8-2016-discipline-groups-reshuffle
+  date: 2016-05
+  title: 中央纪委派驻机构密集换帅
+  lane: purge
+  summary: 2016年5月前后，“中央纪委多个派驻机构密集换帅”（澎湃新闻）。中纪委第五纪检监察室原主任贾育林接替曲淑辉任驻民政部纪检组组长，曲淑辉转任驻国家民委纪检组组长，原驻国家民委组长许传智调任宁夏党委常委、纪委书记；驻国家烟草专卖局纪检组组长高林改任局党组成员、直属机关党委书记。曲淑辉次年因民政系统腐败被问责降级，许传智2025年退休后被查。
+  people: [jia-yulin, qu-shuhui, xu-chuanzhi, gao-lin]
+  cites: [k08-thepaper-1468386-jia-yulin, r03-wiki-qu-shuhui, r07-wiki-xu-chuanzhi, cs8-ce-2019-02-19-gao-lin, r03-ccdi-2017-06-20-qu-shuhui, r07-people-2025-10-14-xu-chuanzhi-probe]
+
+- id: cs8-2024-tan-ruisong-probe
+  date: 2024-08-30
+  title: 航空工业原董事长谭瑞松被查
+  lane: purge
+  summary: 2024年8月30日，中央纪委国家监委宣布中国航空工业集团原董事长谭瑞松接受审查调查。2025年2月他被开除党籍，通报称其“靠军工吃军工”，侵吞巨额公共财物，并“对抗组织审查，搞迷信活动”；2026年3月被大连中院判处死缓。美国国防部报告指出，从他去职到官方通报相隔一年多。
+  people: [tan-ruisong]
+  cites: [t02-ccdi-2024-08-30-tan-ruisong-probe, t02-ccdi-2025-02-24-tan-ruisong-expel, t02-xinhua-2026-03-25-tan-ruisong-verdict, cs8-erickson-2025-12-cmpr]
+
+- id: cs8-2024-kou-wei-probe
+  date: 2024-12-21
+  title: 国家电网原董事长、大唐原总经理寇伟被查
+  lane: purge
+  summary: 2024年12月21日，中央纪委国家监委宣布中国大唐集团原总经理寇伟接受审查调查；他此前长期任国家电网董事长。2025年6月他被开除党籍，通报称他“处心积虑对抗组织审查”，“退而不休”、“靠能源吃能源”，并“致使国家利益遭受特别重大损失”。2026年4月兴安盟中院以受贿、贪污、利用影响力受贿、国有公司人员滥用职权等罪判处他死缓。
+  people: [kou-wei]
+  cites: [k05-thepaper-2024-12-21-kou-wei, k05-chinanews-2025-06-06-kou-wei, k05-chinanews-2026-04-01-kou-wei]
+
+- id: cs8-2025-navy-commissar-change
+  date: 2025-01
+  end: 2026-02
+  title: 海军政委袁华智去职，冷少杰、胡瑜海先后疑似代理
+  lane: army
+  summary: 美国海军战争学院中国海事研究所称，2025年1月初陆军出身的冷少杰被披露为海军党委书记，此职历来由海军政委兼任，推断他已接替袁华智。同年9月15日，海军军人代表大会以袁华智“涉嫌严重违纪违法”罢免其人大代表，10月17日国防部宣布他与何卫东等九人被开除党籍、军籍。2026年2月海军春节慰问中，该所认为政治工作部主任胡瑜海“很可能”代理政委；官方从未宣布任命。
+  people: [yuan-huazhi, leng-shaojie, hu-yuhai]
+  cites: [k07-cmsi-2025-09-leng-shaojie, a02-wikisource-npc-qualification-reports, b08-mod-2025-10-17-nine-generals, cs7-cmsi-2026-07-zhang-zheng]
+
+- id: cs8-2025-gao-zhang-deputies-removed
+  date: 2025-12-27
+  title: 军工出身的高涛、张红文被罢免省人大代表
+  lane: purge
+  summary: 2025年12月27日，辽宁省人大常委会公告，盘锦市人大常委会罢免高涛的辽宁省人大代表职务；2026年元旦安徽省人大常委会公告，滁州、池州市人大常委会“分别决定罢免张红文、徐发成”的省人大代表职务。高涛出身中国电科，3月已被免去辽宁副省长；张红文出身航天科工，3月被披露不再任合肥市委书记。两份公告都没有写罢免原因。
+  people: [gao-tao, zhang-hongwen]
+  cites: [k07-lnd-2025-12-27-gao-tao, k07-anhuinews-2026-01-01-zhang-hongwen, k07-thepaper-2025-12-27-gao-tao, k07-cna-2025-03-15-zhang-hongwen]
+
+- id: cs8-2026-january-soe-probes
+  date: 2026-01
+  title: 2026年1月八名中管干部被查，顾军、王祥喜、杨宏勇出身核电能源央企
+  lane: purge
+  summary: 2026年1月，中央纪委国家监委网站先后通报八名中管干部被查。其中中核集团原总经理顾军1月19日被查，哈电集团原纪委书记杨宏勇1月24日主动投案，应急管理部部长王祥喜1月31日在任上被查，他2019年3月起任国家能源集团董事长，后调任应急管理部。同月罗琦、刘仓理两名核与军工系统的院士被以“涉嫌违纪违法”罢免全国人大代表。
+  people: [gu-jun, yang-hongyong, wang-xiangxi, luo-qi, liu-cangli]
+  cites: [cs8-jiemian-2026-01-31-wang-xiangxi, t02-xinhua-2026-01-19-gu-jun-probe, r08-people-2026-01-24-yang-hongyong-probe, c03-xinhua-2026-01-31-wang-xiangxi-probe, cs8-ce-2019-03-04-wang-xiangxi, a02-wikisource-npc-qualification-reports]
+
+- id: cs8-2026-xin-baoan-guo-wenqing
+  date: 2026-07-31
+  title: 国家电网原董事长辛保安被查，五矿原总经理国文清主动投案
+  lane: purge
+  summary: 2026年7月31日，新华社同日发布两条消息：国家电网原董事长辛保安涉嫌严重违纪违法接受审查调查；中国五矿原总经理国文清涉嫌严重违纪违法，主动投案。辛保安是继寇伟之后又一位被查的国家电网前董事长。此前一周，中核原总经理顾军、哈电原纪委书记杨宏勇先后被开除党籍；8月8日东方电气原党组副书记宋致远也被宣布审查调查。
+  people: [xin-baoan, guo-wenqing, kou-wei, gu-jun, yang-hongyong, song-zhiyuan]
+  cites: [t02-xinhua-2026-07-31-xin-baoan-probe, t02-xinhua-2026-07-31-guo-wenqing-probe, t02-xinhua-2026-07-25-gu-jun-expel, r08-people-2026-07-27-yang-hongyong-expel, r08-people-2026-08-09-song-zhiyuan-probe]
