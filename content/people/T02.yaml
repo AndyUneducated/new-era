@@ -793,11 +793,19 @@
   headline: 中央巡视工作领导小组办公室原主任
   ids: { wikidata: Q19854127 }
   bio: >-
-    曾任中央巡视工作领导小组办公室主任，后任全国政协委员。2026 年 6 月被宣布接受中央纪委国家监委纪律审查和监察调查，是少见的被查的前中央巡视机构负责人。
+    2007 年起任北京市政府秘书长，2010 年任北京市政协副主席，2011 年任证监会纪委书记。2013 年 10 月起任中央巡视工作领导小组办公室主任（副部长级），2017 年 9 月由王鸿津接替（财新、澎湃新闻 2017 年据中央纪委网站；另说 2017 年 11 月，见澎湃新闻 2018 年 3 月报道），后任全国政协委员。2026 年 6 月被宣布接受中央纪委国家监委纪律审查和监察调查，是少见的被查的前中央巡视机构负责人。
   positions:
-    - { title: 中央巡视工作领导小组办公室主任, sys: party, cite: t02-xinhua-2026-06-02-li-xiaohong-probe }
-    - { title: 全国政协委员, sys: gov, cite: wd-Q19854127 }
-  cites: [wd-Q19854127, t02-xinhua-2026-06-02-li-xiaohong-probe]
+    - { title: 华夏证券股份有限公司党委书记、董事长, sys: other, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 中信建投证券有限责任公司党委书记、董事长, sys: other, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 北京市政府副秘书长, sys: gov, place: 北京, from: 2006-05, to: 2007-02, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 北京市政府党组成员、秘书长，市政府办公厅主任、党组书记, sys: gov, place: 北京, from: 2007-02, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 北京市政协副主席, sys: gov, place: 北京, from: 2010-01, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 中国证监会纪委书记、党委委员, sys: party, from: 2011-10, to: 2013-07, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 中央第七巡视组副组长, sys: party, from: 2013, to: 2013, cite: cs10-people-2013-11-01-li-xiaohong }
+    - { title: 中央巡视工作领导小组办公室主任（副部长级）, sys: party, from: 2013-10, to: 2017-09, cite: cs10-caixin-2017-11-30-wang-hongjin }
+    - { title: 中央巡视工作领导小组成员, sys: party, from: 2014, to: 2017-09, cite: cs10-thepaper-2018-03-06-li-xiaohong }
+    - { title: 第十三届全国政协委员, sys: gov, from: 2018-03, to: 2023-03, cite: cs10-thepaper-2018-03-06-li-xiaohong }
+  cites: [wd-Q19854127, t02-xinhua-2026-06-02-li-xiaohong-probe, cs10-people-2013-11-01-li-xiaohong, cs10-caixin-2017-11-30-wang-hongjin, fx3-thepaper-2017-12-01-wang-hongjin, cs10-thepaper-2018-03-06-li-xiaohong]
 
 - id: zhang-jianlong-forestry
   name: 张建龙

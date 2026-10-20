@@ -22,7 +22,7 @@ zhou-benshun:
   plea:
     - { kind: plea, text: 法院认为鉴于其到案后如实供述，主动交代办案机关尚未掌握的部分受贿犯罪事实，认罪悔罪, cite: r12-bjnews-2017-02-16-zhou-benshun }
     - { kind: refund, text: 积极退赃，赃款赃物已全部追缴, cite: r12-bjnews-2017-02-16-zhou-benshun }
-  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2015-07-24-zhou-benshun-probe }
+  trigger: { kind: inspect, text: 澎湃新闻 2018 年转引新华社称，十八大以来根据巡视发现的问题线索，严肃查处孙政才、苏荣、周本顺、王珉等严重违纪案件；立案通报本身未说明线索来源, cite: cs10-thepaper-2018-03-06-li-xiaohong }
   with:
     - { id: zhou-yongkang, name: 周永康, rel: patron, text: 周本顺 2003 至 2013 年在中央政法委任副秘书长、秘书长；BBC 称有媒体报道其落马与周永康有关, cite: c03-bbc-2015-07-24-zhou-benshun }
   politics:
@@ -447,7 +447,7 @@ wang-tianpu:
     yuan: 33476584
     text: 2003 年至 2014 年索取、非法收受财物共计折合人民币 3347.658376 万元；另非法占有国有财物折合 79.5934 万元
     cite: t01-court-2017-01-24-wang-tianpu-verdict
-  trigger: { kind: inspect, text: 中央纪委称，2015 年被查的 9 名央企高管中有 6 人所在企业当年接受中央巡视，中石化总经理王天普是其中之一, cite: r02-people-2016-01-02-ccdi-2015-tigers }
+  trigger: { kind: inspect, text: 中央第六巡视组 2014 年 11 月 24 日至 12 月 24 日专项巡视中石化，2015 年 2 月反馈时称收到的领导人员问题线索已转中央纪委、中央组织部；同年 4 月王天普被查。另说中石化于 2015 年接受巡视（人民网 2016 年 1 月引中央纪委盘点）, cite: cs10-xinhua-2015-02-06-sinopec-feedback }
   politics:
     level: none
     why: 开除通报指其“为谋求个人职务升迁搞利益输送”，但未点名输送对象；本站所见可靠报道未把他与某位落马高官或派系清洗联系起来。

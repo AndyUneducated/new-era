@@ -667,9 +667,9 @@ jin-daoming:
     text: 2007 年上半年至 2014 年初在煤矿资源整合、职务晋升、纪检调查等事项上为他人谋利，收受财物共计折合 1.23781389 亿元
     cite: t01-chinanews-2016-10-14-jin-daoming-verdict
   trigger:
-    kind: unknown
-    text: 官方通报未说明线索来源
-    cite: r01-ccdi-2014-12-22-jin-daoming-expel
+    kind: inspect
+    text: 中央纪委监察部网站 2015 年 4 月称，中央纪委查处的中管干部中，苏荣、朱明国、万庆良、金道铭、武长顺、秦玉海等 40 多人的问题线索是巡视发现的；开除通报本身未说明线索来源
+    cite: cs5-people-2015-04-12-inspection-findings
   with:
     - { id: yang-senlin, name: 杨森林, rel: protege, text: 香港商报称金道铭案牵出了他在纪委的副手们，省纪委常务副书记杨森林 2014 年 7 月被查, cite: r01-hkcd-2014-09-03-shanxi }
   politics:
@@ -987,9 +987,9 @@ wan-qingliang:
     text: 2000 年至 2014 年在团省委、揭阳、广东省政府和广州任职期间直接或者通过特定关系人索取、收受财物共计折合 1.11251086 亿元
     cite: c03-court-2016-09-30-wan-qingliang-verdict
   trigger:
-    kind: unknown
-    text: 官方通报未说明线索来源
-    cite: c03-ccdi-2014-10-09-wan-qingliang-expel
+    kind: inspect
+    text: 中央纪委监察部网站 2015 年 4 月称，中央纪委查处的中管干部中，苏荣、朱明国、万庆良、金道铭、武长顺、秦玉海等 40 多人的问题线索是巡视发现的；开除通报本身未说明线索来源
+    cite: cs5-people-2015-04-12-inspection-findings
   politics:
     level: none
     why: 通报与判决只涉受贿和出入私人会所，未见政治定性或派系关联的可靠报道。
@@ -1079,9 +1079,9 @@ wu-changshun:
     text: 通过其实际控制的公司非法占有公共财物 3.42 亿余元，直接或通过亲属收受财物 8440 万余元；另挪用公款 1.01 亿余元、单位行贿 1057 万元
     cite: r01-chinanews-2017-05-27-wu-changshun
   trigger:
-    kind: unknown
-    text: 官方通报未说明线索来源
-    cite: r01-ccdi-2015-02-13-wu-changshun-expel
+    kind: inspect
+    text: 中央纪委监察部网站 2015 年 4 月称，中央纪委查处的中管干部中，苏荣、朱明国、万庆良、金道铭、武长顺、秦玉海等 40 多人的问题线索是巡视发现的；开除通报本身未说明线索来源
+    cite: cs5-people-2015-04-12-inspection-findings
   with:
     - { id: zhou-yongkang, name: 周永康, rel: patron, text: 央广引媒体报道，说武长顺与周永康关系不错，周永康很赏识他, cite: b03-cnr-2015-10-15-zhou-disciples }
   politics:
@@ -1366,9 +1366,9 @@ qin-yuhai:
     text: 2001 年至 2013 年在焦作、河南省政府、公安厅和省人大任职期间收受财物共计折合 2086.1702 万元
     cite: t01-ccdi-2016-11-28-qin-yuhai-verdict
   trigger:
-    kind: unknown
-    text: 官方通报未说明线索来源
-    cite: r01-ccdi-2015-02-13-qin-yuhai-expel
+    kind: inspect
+    text: 中央纪委监察部网站 2015 年 4 月称，中央纪委查处的中管干部中，苏荣、朱明国、万庆良、金道铭、武长顺、秦玉海等 40 多人的问题线索是巡视发现的；开除通报本身未说明线索来源
+    cite: cs5-people-2015-04-12-inspection-findings
   politics:
     level: none
     why: 他曾长期任河南公安厅长，但通报与判决只涉受贿、收礼和通奸，未见政治定性或派系关联的可靠报道。
@@ -1483,9 +1483,9 @@ zhu-mingguo:
     text: 2002 年至 2014 年在重庆公安局、广东省委和省政协任职期间直接或者通过其妻收受财物共计折合 1.41379261 亿元；另有 9104.9668 万元财产不能说明来源
     cite: c03-cyol-2016-11-12-zhu-mingguo-verdict
   trigger:
-    kind: unknown
-    text: 官方通报未说明线索来源
-    cite: c03-ccdi-2015-02-17-zhu-mingguo-expel
+    kind: inspect
+    text: 中央纪委监察部网站 2015 年 4 月称，中央纪委查处的中管干部中，苏荣、朱明国、万庆良、金道铭、武长顺、秦玉海等 40 多人的问题线索是巡视发现的；开除通报本身未说明线索来源
+    cite: cs5-people-2015-04-12-inspection-findings
   politics:
     level: none
     why: 他曾任广东省纪委书记，被判死缓；但通报与判决只涉受贿、违反计划生育政策和巨额财产来源不明，未见派系关联的可靠报道。

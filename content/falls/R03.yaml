@@ -49,7 +49,7 @@ wang-min:
     yuan: 146000000
     text: 2004 年至 2016 年直接或者通过他人收受财物共计折合人民币 1.46 亿余元；另侵吞公款 100 万元，并因辽宁换届选举中的拉票贿选未被及时制止，以玩忽职守罪获刑
     cite: c03-people-2017-08-05-wang-min-verdict
-  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2016-03-04-wang-min-probe }
+  trigger: { kind: inspect, text: 澎湃新闻 2018 年转引新华社称，十八大以来根据巡视发现的问题线索，严肃查处周本顺、王珉、白恩培、王三运等严重违纪案件；立案通报本身未说明线索来源, cite: cs10-thepaper-2018-03-06-li-xiaohong }
   politics:
     level: none
     why: 开除通报的政治问题是对辽宁拉票贿选负主要领导责任、公开妄议八项规定，未提结伙或靠山；本站所见报道未把他与某位落马高官或派系清洗联系起来。
@@ -72,7 +72,7 @@ huang-xingguo:
     yuan: 40030000
     text: 1994 年至 2016 年直接或通过他人收受相关人员给予的财物共计折合人民币 4003 万余元
     cite: c03-xinhua-2017-09-25-huang-xingguo-verdict
-  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2016-09-10-huang-xingguo-probe }
+  trigger: { kind: inspect, text: 澎湃新闻 2018 年转引新华社称，十八大以来根据巡视发现的问题线索，严肃查处王三运、黄兴国、卢恩光等严重违纪案件；立案通报本身未说明线索来源, cite: cs10-thepaper-2018-03-06-li-xiaohong }
   politics:
     level: none
     why: 开除通报指其“妄议中央大政方针，破坏党的集中统一”，但未点名与谁结伙；本站所见报道未把他与某位落马高官或派系清洗联系起来。
@@ -93,7 +93,7 @@ wang-sanyun:
     yuan: 66856610.9
     text: 1993 年至 2017 年直接或者通过其亲属等特定关系人非法收受财物，共计折合人民币 6685.66109 万元；法院认定其自首并有重大立功表现
     cite: c03-gmw-2019-04-12-wang-sanyun-verdict
-  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: c03-ccdi-2017-07-11-wang-sanyun-probe }
+  trigger: { kind: inspect, text: 澎湃新闻 2018 年转引新华社称，十八大以来根据巡视发现的问题线索，严肃查处王珉、白恩培、王三运、黄兴国等严重违纪案件；立案通报本身未说明线索来源, cite: cs10-thepaper-2018-03-06-li-xiaohong }
   politics:
     level: none
     why: 开除通报指其“妄议党中央大政方针”、对中央决策部署消极应付，是政治纪律上的定性，但未提结伙或靠山；本站所见报道未把他与某位落马高官或派系清洗联系起来。
@@ -1244,7 +1244,7 @@ lu-enguang:
       - 年龄、入党材料、工作经历、学历、家庭情况等全面造假，长期欺瞒组织
       - 从一名私营企业主一步步变身为副部级干部
       - 亦官亦商，控制经营多家企业
-  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: t01-ccdi-2016-12-16-lu-enguang-probe }
+  trigger: { kind: inspect, text: 澎湃新闻 2018 年转引新华社称，十八大以来根据巡视发现的问题线索，严肃查处王三运、黄兴国、卢恩光等严重违纪案件；立案通报本身未说明线索来源, cite: cs10-thepaper-2018-03-06-li-xiaohong }
   politics:
     level: none
     why: 通报的核心是履历全面造假、金钱开道买官，属选人用人失察；本站所见报道未把他与某位落马高官或派系清洗联系起来。

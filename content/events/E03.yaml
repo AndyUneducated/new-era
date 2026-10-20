@@ -225,9 +225,9 @@
   date: 2015-09-03
   title: 抗战胜利70周年纪念大会宣布裁军30万
   lane: army
-  summary: 2015年9月3日，中国举行纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会并阅兵。习近平在讲话中称中国“永远不称霸、永远不搞扩张”，要求全军将士忠实履行保卫祖国安全和维护世界和平的职责，并宣布“中国将裁减军队员额30万”。国防部其后表示，同年启动的国防和军队改革将落实这一裁军计划。
-  people: [xi-jinping]
-  cites: [e03-xinhua-2015-09-03-troop-cut, e03-xinhua-2015-11-27-mod-16]
+  summary: 2015年9月3日，中国举行纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会并阅兵。习近平在讲话中称中国“永远不称霸、永远不搞扩张”，要求全军将士忠实履行保卫祖国安全和维护世界和平的职责，并宣布“中国将裁减军队员额30万”。国防部其后表示，同年启动的国防和军队改革将落实这一裁军计划。这次阅兵首次由将军领队，中将受阅也属首次；中新网称56名现役中将、少将率徒步、装备和空中方队受阅（人民网另作55名），其中有田中、郑群良、吴亚男、黄铭、邓志平、林向阳、王秀斌、周建国、王印芳、李玉超、常丁求。
+  people: [xi-jinping, tian-zhong, zheng-qunliang, wu-yanan, huang-ming-general, deng-zhiping, lin-xiangyang, wang-xiubin, zhou-jianguo, wang-yinfang, li-yuchao, chang-dingqiu]
+  cites: [e03-xinhua-2015-09-03-troop-cut, e03-xinhua-2015-11-27-mod-16, fx3-chinanews-2015-09-02-general-leaders, fx3-xinhua-2015-09-05-general-leaders]
 
 - id: e03-2015-two-child-policy
   date: 2015-10-29
@@ -331,8 +331,8 @@
   major: true
   summary: 2016年10月24日至27日，十八届六中全会在北京举行，审议通过《关于新形势下党内政治生活的若干准则》和《中国共产党党内监督条例》，并决定召开十九大。全会公报使用了“以习近平同志为核心的党中央”的表述，而2015年十八届五中全会公报的提法还是“以习近平同志为总书记的党中央”。
   people: [xi-jinping]
-  concepts: [core]
-  cites: [b04-xinhua-2016-10-27-6th-plenum, e03-ccdi-2015-10-29-5th-plenum]
+  concepts: [core, three-distinctions]
+  cites: [b04-xinhua-2016-10-27-6th-plenum, e03-ccdi-2015-10-29-5th-plenum, i01-cpc-2016-10-27-6th-plenum-communique]
 
 # 2017
 - id: e03-2017-liu-xiaobo-dies

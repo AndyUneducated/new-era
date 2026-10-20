@@ -1,0 +1,48 @@
+# FX3 (round 19): old errors and pending checks from the round-18 queue (research/round19.md, FX3).
+web:
+  # ---------- 黎晓宏（卸任月份） ----------
+  - id: fx3-thepaper-2017-12-01-wang-hongjin
+    title: 王鸿津任中央巡视工作领导小组成员、办公室主任
+    publisher: 澎湃新闻
+    date: 2017-12-01
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_1886999
+    excerpt: true
+    keep: [今年9月卸任中央纪委驻中国人民银行纪检组组长, 王鸿津则调任中央巡视工作领导小组成员, 在王鸿津之前担任中央巡视工作领导小组成员]
+  # ---------- 2015 九三阅兵将军领队 ----------
+  - id: fx3-chinanews-2015-09-02-general-leaders
+    title: 9·3阅兵观礼指南：肩抗金星将军如何变“最美标兵”
+    publisher: 中国新闻网
+    date: 2015-09-02
+    voice: official
+    url: https://www.chinanews.com.cn/mil/2015/09-02/7504154.shtml
+    excerpt: true
+    keep: [这在共和国阅兵史上还是第一次, 平均年龄53岁]
+  - id: fx3-xinhua-2015-09-05-general-leaders
+    title: 9·3阅兵上的将军领队都有谁？
+    publisher: 新华网（转载人民网）
+    date: 2015-09-04
+    voice: official
+    url: https://www.xinhuanet.com/mil/2015-09/05/c_128197560.htm
+    start: 人民网北京9月4日电
+    end: 常丁求少将
+  # ---------- 岳昕（下落） ----------
+  - id: fx3-ipkmedia-2023-08-25-jasic-five-years
+    title: 张鸣：佳士工人运动五周年——走向分化的年轻毛左，后继无人的佳士路线？
+    publisher: 光传媒
+    author: 张鸣
+    date: 2023-08-25
+    voice: zh
+    rumor: true
+    url: https://web.archive.org/web/2024/https://ipkmedia.com/247893/
+    excerpt: true
+    keep: [根据几个相互独立的可靠消息源了解到的情况]
+  # ---------- 张新明（前案刑期） ----------
+  - id: fx3-caixin-2026-08-17-zhang-xinming
+    title: 【商圈】山西首富张新明十年沉浮：权力、赌局与百亿矿权
+    publisher: 财新网
+    date: 2026-08-17
+    voice: zh
+    url: https://database.caixin.com/2026-08-17/102475140.html
+    excerpt: true
+    keep: [被江苏法院判处有期徒刑四年六个月]

@@ -449,13 +449,13 @@
   headline: 中央巡视组原副部级巡视专员
   ids: { wikidata: Q30943023 }
   bio: >-
-    长期从事纪检工作，曾任中央纪委第五室主任、中央第一企业金融巡视组副组长，2014 至 2015 年以中央第十一巡视组组长身份巡视国家体育总局和中国国电集团。2017 年被查，开除通报称其“长期利用巡视权违规干预插手被巡视单位相关工作”；2019 年以受贿罪获刑十二年。
+    长期从事纪检工作，曾任中央纪委第五室主任、中央第一企业金融巡视组副组长，2014 年以中央第十一巡视组组长身份巡视国家体育总局，2015 年首轮专项巡视中率第十一组巡视中国大唐集团和中国国电集团。2017 年被查，开除通报称其“长期利用巡视权违规干预插手被巡视单位相关工作”；2019 年以受贿罪获刑十二年。
   positions:
     - { title: 中央纪委第五室主任, sys: party, cite: r03-wiki-zhang-huawei }
     - { title: 中央纪委、中央组织部巡视组副部级巡视专员, sys: party, from: 2006, cite: r03-court-2019-05-27-zhang-huawei-verdict }
     - { title: 中央第一企业金融巡视组副组长, sys: party, cite: r03-court-2019-05-27-zhang-huawei-verdict }
     - { title: 中央第十一巡视组组长, sys: party, from: 2014-07, to: 2015, cite: r03-wiki-zhang-huawei }
-  cites: [wd-Q30943023, r03-wiki-zhang-huawei, r03-ccdi-2017-04-17-zhang-huawei-probe, r03-ccdi-2017-08-02-zhang-huawei-expel, r03-court-2019-05-27-zhang-huawei-verdict]
+  cites: [wd-Q30943023, r03-wiki-zhang-huawei, cs10-ce-2015-03-09-first-round-leaders, r03-ccdi-2017-04-17-zhang-huawei-probe, r03-ccdi-2017-08-02-zhang-huawei-expel, r03-court-2019-05-27-zhang-huawei-verdict]
 
 - id: chen-chuanshu
   name: 陈传书
