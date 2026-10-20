@@ -1,0 +1,375 @@
+# RL5 (K09): predecessors, successors, partners and patrons of case-essay people still without a relation
+# (research/lists/R17-case-people-no-relation.txt). colleague: a is the successor.
+
+# ---------- 海军 ----------
+- a: shen-jinlong
+  b: wu-shengli
+  kind: colleague
+  from: 2017-01
+  text: 2017 年 1 月沈金龙由南海舰队司令员升任海军司令员，接替任职十年的吴胜利。
+  cite: b21-thepaper-2017-01-20-wu-11-years
+  quote: 原南海舰队司令员沈金龙接任海军司令员一职
+- a: wang-hai
+  b: shen-jinlong
+  kind: colleague
+  from: 2017-01
+  text: 2017 年 1 月沈金龙升任海军司令员，海军副司令员王海接任南海舰队（南部战区海军）司令员。
+  cite: k05-wiki-wang-hai
+  quote: 海军原副司令员王海出任南海舰队司令员，接替沈金龙
+- a: dong-jun
+  b: shen-jinlong
+  kind: colleague
+  from: 2021-09
+  text: 2021 年 9 月董军以海军司令员身份晋升上将，接替即将年满 65 岁的沈金龙。
+  cite: k09-caixin-2021-09-06-dong-jun
+  quote: 海军原司令员沈金龙下月年满65岁
+- a: shen-jinlong
+  b: qin-shengxiang
+  kind: colleague
+  from: 2017-09
+  to: 2021-09
+  text: 2017 年 9 月秦生祥接替苗华任海军政委，与海军司令员沈金龙搭班，至 2021 年沈金龙卸任。
+  cite: k09-thepaper-2017-09-14-qin-shengxiang
+  quote: 海军副司令员田中代表海军司令员沈金龙、政治委员秦生祥到码头送行
+- a: shen-jinlong
+  b: miao-hua
+  kind: colleague
+  from: 2017-01
+  to: 2017-09
+  text: 2017 年 1 月沈金龙任海军司令员时，海军政委为苗华；同年苗华调任军委政治工作部主任，由秦生祥接任。
+  cite: k09-thepaper-2017-09-14-qin-shengxiang
+  quote: 无论是前任政委苗华还是现任政委秦生祥都是解放军的明星将领
+- a: kong-jun
+  b: yuan-huazhi
+  kind: colleague
+  from: 2017-04
+  to: 2019
+  text: 2017 年 4 月海军陆战队扩编为军级单位，孔军任首任司令员、袁华智任首任政委；2019 年袁华智升任海军副政委。
+  cite: k09-zaobao-2022-01-01-kong-jun
+  quote: 孔军是2017年海军陆战队扩编为军级单位后首任司令员，此前海军陆战队前政委袁华智已升任海军副政委
+- a: wang-zhongcai
+  b: wei-gang
+  kind: colleague
+  from: 2022-06
+  text: 2022 年 6 月王仲才接替魏钢任东部战区海军司令员。
+  cite: k09-wiki-eastern-navy
+
+# ---------- 空军、国防大学、战区 ----------
+- a: wang-yufa
+  b: liu-yazhou
+  kind: colleague
+  from: 2003-12
+  text: 2003 年 12 月王玉发接替刘亚洲任成都军区空军政委。
+  cite: a01-wiki-wang-yufa
+  quote: 2003年12月，接替刘亚洲，担任成都军区空军政治委员
+- a: liu-yazhou
+  b: tong-shiping
+  kind: colleague
+  from: 2009-12
+  text: 2009 年底刘亚洲由空军副政委调任国防大学政委，接替调任总政治部副主任兼军委纪委书记的童世平。
+  cite: k09-sina-2010-01-26-liu-yazhou
+  quote: 空军原副政委刘亚洲中将已经出任国防大学政委，接替已调任总政治部副主任兼军委纪委书记的童世平中将
+- a: wu-jieming
+  b: liu-yazhou
+  kind: colleague
+  from: 2017-06
+  text: 2017 年国防大学重组，原副政委吴杰明接替刘亚洲任国防大学政委。
+  cite: k09-thepaper-2017-07-19-ndu
+  quote: 国防大学校长、政委职务此前分别由张仕波上将、刘亚洲上将担任
+- a: liu-yazhou
+  b: zhang-shibo
+  kind: colleague
+  from: 2014-12
+  to: 2017
+  text: 张仕波 2014 年底调任国防大学校长，与政委刘亚洲搭班，2017 年国防大学重组时两人同时卸任。
+  cite: k09-thepaper-2017-07-19-ndu
+  quote: 国防大学校长、政委职务此前分别由张仕波上将、刘亚洲上将担任
+- a: liu-yazhou
+  b: wang-xibin
+  kind: colleague
+  from: 2009-12
+  to: 2013-07
+  text: 2009 年底刘亚洲任国防大学政委，与校长王喜斌搭班；2013 年 7 月王喜斌到龄退役，宋普选接任校长。
+  cite: k09-caixin-2013-07-26-song-puxuan
+  quote: 排名位于总装备部副部长张育林中将之后、国防大学政委刘亚洲上将之前
+- a: wu-jieming
+  b: zheng-he-pla
+  kind: colleague
+  from: 2017-06
+  to: 2021-08
+  text: 2017 年国防大学重组，郑和任校长、吴杰明任政委，两人搭班至 2021 年。
+  cite: k09-thepaper-2017-07-19-ndu
+  quote: 郑和、吴杰明分别以“国防大学校长”、“国防大学政委”身份亮相
+- a: xu-xueqiang
+  b: zheng-he-pla
+  kind: colleague
+  from: 2021-09
+  text: 2021 年 9 月北部战区空军司令员许学强以国防大学校长身份晋升上将，接替郑和。
+  cite: k09-caixin-2021-09-06-dong-jun
+  quote: 国防大学原校长郑和现年62岁
+- a: wang-haijiang
+  b: xu-qiling
+  kind: colleague
+  from: 2021-09
+  text: 2021 年 9 月新疆军区司令员汪海江以西部战区司令员身份晋升上将，接替徐起零。
+  cite: k09-caixin-2021-09-06-dong-jun
+  quote: 西部战区原司令员徐起零现年59岁
+- a: lin-xiangyang
+  b: yi-xiaoguang
+  kind: colleague
+  from: 2021-09
+  text: 2021 年 9 月东部战区陆军司令员林向阳以中部战区司令员身份晋升上将，接替乙晓光。
+  cite: k09-caixin-2021-09-06-dong-jun
+  quote: 中部战区原司令员乙晓光现年63岁
+- a: chang-dingqiu
+  b: ding-laihang
+  kind: colleague
+  from: 2021-09
+  text: 2021 年 9 月军委联合参谋部副参谋长常丁求以空军司令员身份晋升上将，接替丁来杭。
+  cite: k09-caixin-2021-09-06-dong-jun
+  quote: 空军原司令员丁来杭现年64岁
+- a: dong-liangju
+  b: ye-qing-pla
+  kind: secretary
+  text: 叶青 1991 年起在总参谋部办公厅秘书局任职，曾任时任总参办公厅主任、后任中央军委办公厅主任董良驹的秘书。
+  cite: a01-wiki-ye-qing-pla
+  quote: 曾是原中央军委办公厅主任董良驹的秘书
+- a: han-shengyan
+  b: wang-qiang-pla
+  kind: colleague
+  from: 2025-12
+  text: 2025 年 12 月韩胜延以中部战区司令员身份晋升上将，表明王强已卸任该职。
+  cite: k06-wiki-wang-qiang-pla
+  quote: 韩胜延以新任中部战区司令员身份晋升空军上将军衔
+- a: yang-zhibin
+  b: lin-xiangyang
+  kind: colleague
+  from: 2025
+  text: 2025 年杨志斌调任东部战区代理司令员，填补林向阳被开除后的空缺。
+  cite: b04-bbc-2025-10-nine-generals
+  quote: 空军中将杨志斌2025年调任东部战区代理司令员，填补林向阳被开除后的空缺
+- a: zhang-shuguang-cmc
+  b: zhang-shengmin
+  kind: colleague
+  from: 2026-07
+  text: 2026 年 7 月张曙光接替升任军委副主席的张升民任军委纪委书记；2017 年张曙光曾在张升民主持的军委纪委任监察局局长。
+  cite: b08-zaobao-2026-07-03-zhang-shuguang
+  quote: 陆军纪委书记张曙光已接替中央军委副主席张升民此前担任的军纪委书记职务
+
+- a: zhang-zheng-navy
+  b: hu-zhongming
+  kind: colleague
+  from: 2025
+  rumor: true
+  text: 台湾学者梳理开源资料称，海军司令员胡中明从公开场合消失后，海军参谋长张峥主持海军军事日常工作。
+  cite: cs4-iccs-411-acting-generals
+  quote: 海軍：參謀長張崢海軍中將(主持軍事日常工作)、政治工作部主任胡瑜海海軍中將(主持政治日常工作)
+- a: hu-yuhai
+  b: yuan-huazhi
+  kind: colleague
+  from: 2025
+  rumor: true
+  text: 台湾学者梳理开源资料称，海军政委袁华智落马后，海军政治工作部主任胡瑜海主持海军政治日常工作。
+  cite: cs4-iccs-411-acting-generals
+  quote: 海軍：參謀長張崢海軍中將(主持軍事日常工作)、政治工作部主任胡瑜海海軍中將(主持政治日常工作)
+- a: liu-xiaorong
+  b: sun-sijing
+  kind: colleague
+  from: 2010-12
+  text: 2010 年底孙思敬升任军事科学院政委，兰州军区副政委刘晓榕接任总后勤部副政委兼纪委书记。
+  cite: k09-people-2011-01-23-pla-generals
+  quote: 原兰州军区副政委刘晓榕接替60岁的孙思敬出任总后勤部副政委
+- a: liu-shengjie
+  b: liu-xiaorong
+  kind: colleague
+  from: 2013-07
+  text: 2013 年 7 月刘晓榕到龄卸任，总后勤部政治部主任刘生杰接任总后勤部副政委兼纪委书记。
+  cite: k09-caixin-2013-07-14-liu-shengjie
+  quote: 其前任刘晓榕中将63岁，已达到最高服役年限
+
+# ---------- 国家电网 ----------
+- a: mao-weiming
+  b: kou-wei
+  kind: colleague
+  from: 2020-01
+  to: 2020-11
+  text: 2020 年 1 月毛伟明接替寇伟任国家电网董事长、党组书记。
+  cite: k09-people-2020-01-17-state-grid
+  quote: 毛伟明同志任国家电网有限公司董事长、党组书记，免去其江西省委常委、委员和副省长职务；免去寇伟同志的国家电网有限公司董事长、党组书记职务
+- a: xin-baoan
+  b: kou-wei
+  kind: colleague
+  from: 2018-12
+  to: 2020-01
+  text: 2018 年 12 月寇伟由国家电网总经理升任董事长，辛保安接任总经理，两人分任董事长、总经理至 2020 年 1 月。
+  cite: k09-caixin-2018-12-29-xin-baoan
+  quote: 辛保安担任公司董事、总经理、党组副书记，排在寇伟之后。半个月前，原国家电网总经理寇伟正式出任国家电网董事长、党组书记
+- a: xin-baoan
+  b: mao-weiming
+  kind: colleague
+  from: 2021-01
+  text: 2020 年 1 月至 11 月毛伟明任国家电网董事长，辛保安任总经理；2021 年 1 月辛保安接替毛伟明任董事长。
+  cite: k09-wiki-xin-baoan
+- a: zhang-zhigang
+  b: xin-baoan
+  kind: colleague
+  from: 2024-03
+  text: 张智刚任国家电网总经理期间与董事长辛保安搭班；2024 年 3 月张智刚接替辛保安任董事长、党组书记。
+  cite: k09-chinanews-2024-03-27-state-grid
+  quote: 张智刚同志任国家电网有限公司董事长、党组书记，免去其国家电网有限公司总经理职务；免去辛保安同志的国家电网有限公司董事长、党组书记职务
+
+# ---------- 合肥、国防科工局、中物院 ----------
+- a: zhang-hongwen
+  b: yu-aihua
+  kind: colleague
+  from: 2024-03
+  text: 2024 年 3 月张红文接替升任安徽省委副书记的虞爱华任合肥市委书记。
+  cite: k07-ce-2024-03-18-zhang-hongwen
+  quote: 张红文同志任合肥市委委员、常委、书记；虞爱华同志不再担任合肥市委书记、常委、委员职务
+- a: fei-gaoyun
+  b: zhang-hongwen
+  kind: colleague
+  from: 2025-04
+  text: 2025 年 4 月费高云接任合肥市委书记，此前张红文自 2024 年底起已缺席公开活动。
+  cite: k09-shobserver-2025-04-12-hefei
+  quote: 这也意味着，此前担任合肥市委书记的张红文，已不再担任相关职务
+- a: zhang-kejian
+  b: tang-dengjie
+  kind: colleague
+  from: 2018-05
+  text: 2017 年 12 月唐登杰调任福建，2018 年 5 月张克俭接任国防科工局局长、党组书记。
+  cite: k09-thepaper-2018-05-24-zhang-kejian
+  quote: 张克俭的“前任”唐登杰
+- a: zhang-kejian
+  b: zhao-xiangeng
+  kind: colleague
+  from: 2007-12
+  to: 2015-08
+  text: 2007 年至 2015 年张克俭任中国工程物理研究院党委书记，与院长赵宪庚搭班。
+  cite: k09-myrb-2009-01-23-caep
+  quote: 院长赵宪庚、党委书记张克俭
+
+# ---------- 全总、山西 ----------
+- a: xu-liuping
+  b: chen-gang-1965
+  kind: colleague
+  from: 2023-02
+  text: 2023 年 1 月陈刚调任青海省委书记，2 月徐留平接任全国总工会党组书记。
+  cite: k09-wiki-xu-liuping
+  quote: 李玉赋 → 陈 刚 → 徐留平
+- a: lu-zhiyuan
+  b: xu-liuping
+  kind: colleague
+  from: 2026-06
+  text: 2026 年 5 月徐留平被查，6 月民政部部长陆治原接任全国总工会党组书记。
+  cite: k09-caixin-2026-07-01-lu-zhiyuan
+  quote: 徐留平落马一个月后，新任全总党组书记到位
+- a: jin-xiangjun
+  b: lan-foan
+  kind: colleague
+  from: 2022-12
+  to: 2023-09
+  text: 2022 年 12 月蓝佛安改任山西省委书记，金湘军接任代省长，两人分任书记、省长至 2023 年 9 月。
+  cite: p01-xinhua-2022-12-30-jin-xiangjun
+  quote: 接受蓝佛安辞去山西省省长职务的请求，任命金湘军为山西省副省长、代理省长
+- a: lu-dongliang
+  b: jin-xiangjun
+  kind: colleague
+  from: 2025-05
+  text: 2025 年 4 月金湘军被查，5 月卢东亮接任山西省长。
+  cite: p01-wiki-shanxi-gov
+  quote: 蓝佛安 → 金湘军 → 卢东亮
+- a: tang-dengjie
+  b: jin-xiangjun
+  kind: colleague
+  from: 2023-10
+  to: 2025-04
+  text: 2023 年 10 月唐登杰任山西省委书记，与省长金湘军搭班至 2025 年 4 月金湘军被查。
+  cite: k09-people-2023-10-29-shanxi
+  quote: 省委副书记、省长金湘军主持会议
+
+# ---------- 泰安、巡视组、中国电科 ----------
+- a: zhang-qingli
+  b: hu-jianxue
+  kind: colleague
+  from: 1995-01
+  text: 1995 年 1 月胡建学案发，张庆黎接任泰安市委书记（原文误作“张庆林”）。
+  cite: k09-yicai-zhang-qingli
+  quote: 随着山东省泰安市市委原书记胡建学案的爆发，1995年1月，张庆林“临危受命”，担任泰安市委书记
+- a: zhang-huawei
+  b: liu-lixian
+  kind: colleague
+  from: 2014-03
+  to: 2015
+  text: 2014 至 2015 年张化为、刘立宪多次分任中央第十一巡视组组长、副组长，巡视辽宁、国家体育总局和华电集团。
+  cite: k09-qq-2023-09-15-liu-lixian
+  quote: 刘立宪曾多次和张化为搭档
+- a: zeng-yi
+  b: rui-xiaowu
+  kind: colleague
+  from: 2022-09
+  text: 2021 年 10 月曾毅任中国电子总经理，与董事长芮晓武搭班；2022 年 9 月曾毅接替芮晓武任董事长、党组书记。
+  cite: k09-sina-2022-09-28-zeng-yi
+  quote: 原任中国电子董事长、党组书记芮晓武，出生于1959年，2011年任中国电子董事长、党组书记，至此番卸任
+- a: rui-xiaowu
+  b: zhang-dongchen
+  kind: colleague
+  from: 2018-02
+  to: 2021-04
+  text: 2018 年至 2021 年张冬辰任中国电子总经理、党组副书记，与董事长、党组书记芮晓武搭班。
+  cite: k09-cec-2021-01-27-work-meeting
+  quote: 中国电子董事长、党组书记芮晓武，总经理、党组副书记张冬辰
+- a: weng-zuliang
+  b: guo-wenqing
+  kind: colleague
+  from: 2021-07
+  to: 2024-04
+  text: 2021 年 7 月翁祖亮任中国五矿董事长、党组书记，与总经理国文清搭班，至 2024 年 4 月国文清最后一次公开露面。
+  cite: k09-thepaper-2024-05-22-chen-dexin
+  quote: 中国五矿党组书记、董事长翁祖亮，国务院国资委政策法规局有关负责同志出席会议并讲话。中国五矿总经理、党组副书记国文清主持会议
+- a: chen-dexin
+  b: guo-wenqing
+  kind: colleague
+  from: 2024-05
+  text: 2024 年 5 月甘肃副省长陈得信调任中国五矿董事、总经理，此前任总经理八年的国文清已从集团官网消失。
+  cite: k09-thepaper-2024-05-22-chen-dexin
+  quote: 此前担任中国五矿董事、总经理、党组副书记的国文清在集团官网“高管团队”中消失
+- a: chen-dexin
+  b: weng-zuliang
+  kind: colleague
+  from: 2024-12
+  text: 2024 年 5 月至 12 月陈得信任中国五矿总经理，与董事长翁祖亮搭班；12 月陈得信接替翁祖亮任董事长、党组书记。
+  cite: k09-qq-2024-12-06-chen-dexin
+  quote: 此前，翁祖亮任中国五矿党组书记、董事长
+- a: weng-zuliang
+  b: shen-xiaoming
+  kind: colleague
+  from: 2016-12
+  text: 2016 年 12 月翁祖亮接替沈晓明任上海市浦东新区区委书记。
+  cite: k09-wiki-weng-zuliang
+- a: zhu-zhisong
+  b: weng-zuliang
+  kind: colleague
+  from: 2021-07
+  text: 2021 年 7 月翁祖亮调任中国五矿，朱芝松接任浦东新区区委书记和上海自贸区管委会主任。
+  cite: k09-wiki-weng-zuliang
+- a: weng-zuliang
+  b: zhou-bo
+  kind: colleague
+  from: 2019-06
+  text: 2019 年 6 月翁祖亮接替周波兼任中国（上海）自由贸易试验区管理委员会主任。
+  cite: k09-wiki-weng-zuliang
+- a: xu-qianfei
+  b: zhao-shijie
+  kind: colleague
+  from: 2008-01
+  text: 2008 年 1 月许前飞（时任云南高院党组书记）被任命为副院长，时任院长为赵仕杰；同年许前飞接任院长。
+  cite: k09-ifeng-2008-01-16-xu-qianfei
+  quote: 任命许前飞为云南省高级人民法院副院长
+- a: liu-liehong
+  b: fan-youshan
+  kind: colleague
+  from: 2017-02
+  text: 2016 年 12 月樊友山调任全国工商联，2017 年 2 月刘烈宏接任中国电科总经理，5 月接任党组副书记。
+  cite: k09-people-2017-05-17-soe
+  quote: 刘烈宏任中国电子科技集团公司党组副书记、董事；樊友山不再担任中国电子科技集团公司党组副书记、副董事长职务

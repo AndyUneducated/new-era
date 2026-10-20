@@ -1,0 +1,109 @@
+# K09: predecessors, successors and partners of case-essay people still without a relation (research/lists/R17-case-people-no-relation.txt)
+
+# ---------- 中国电子 ----------
+- id: rui-xiaowu
+  name: 芮晓武
+  gender: m
+  born: 1959-05
+  birthplace: 江苏灌南
+  roles: [biz]
+  status: retired
+  statusNote: 2022 年 9 月卸任中国电子信息产业集团董事长、党组书记，由曾毅接任。
+  tier: 2
+  headline: 中国电子信息产业集团原董事长、党组书记（2011–2022）
+  ids: { wikidata: Q85352745 }
+  bio: >-
+    江苏灌南人，原国家计委副主任芮杏文之子。国防科技大学计算机专业毕业，长期在航天系统工作，曾任中国卫星通信集团总经理、中国航天科技集团副总经理。2011 年 5 月至 2022 年 9 月任中国电子信息产业集团董事长、党组书记，后期与总经理张冬辰、曾毅先后搭班，董事长一职由曾毅接任。
+  positions:
+    - { title: 中国卫星通信集团公司总经理, sys: other, cite: k09-wiki-rui-xiaowu }
+    - { title: 中国航天科技集团公司副总经理, sys: other, cite: k09-wiki-rui-xiaowu }
+    - { title: 中国电子信息产业集团有限公司董事长、党组书记, sys: other, from: 2011-05, to: 2022-09, cite: k09-wiki-rui-xiaowu }
+  cites: [wd-Q85352745, k09-wiki-rui-xiaowu, k09-sina-2022-09-28-zeng-yi, k09-cec-2021-01-27-work-meeting]
+
+# ---------- 总后勤部 ----------
+- id: liu-xiaorong
+  name: 刘晓榕
+  gender: m
+  born: 1950-03
+  birthplace: 福建福州
+  origin: 湖南茶陵
+  roles: [general]
+  status: retired
+  statusNote: 2013 年 7 月因达到最高服役年限卸任总后勤部副政委，由刘生杰接替。
+  tier: 2
+  headline: 总后勤部原副政委兼纪委书记，中将
+  ids: { wikidata: Q108504093 }
+  bio: >-
+    湖南茶陵人，生于福州，开国中将刘培善之子、原海军政委魏金山之婿。历任陆军第 1 集团军政治部主任、政委，2006 年任兰州军区副政委兼纪委书记，2010 年底接替孙思敬任总后勤部副政委兼纪委书记，十七届中央纪委委员；2013 年 7 月到龄卸任，由刘生杰接替。
+  positions:
+    - { title: 陆军第 1 集团军政治部主任, sys: army, from: 1994, to: 1999, cite: k09-wiki-liu-xiaorong }
+    - { title: 陆军第 1 集团军政治委员, sys: army, from: 1999, to: 2006, cite: k09-wiki-liu-xiaorong }
+    - { title: 兰州军区副政治委员兼纪律检查委员会书记, sys: army, from: 2006, to: 2010-12, cite: k09-wiki-liu-xiaorong }
+    - { title: 总后勤部副政治委员兼纪律检查委员会书记, sys: army, from: 2010-12, to: 2013-07, cite: k09-people-2011-01-23-pla-generals }
+  cites: [wd-Q108504093, k09-wiki-liu-xiaorong, k09-people-2011-01-23-pla-generals, k09-caixin-2013-07-14-liu-shengjie]
+
+# ---------- 军委办公厅 ----------
+- id: dong-liangju
+  name: 董良驹
+  gender: m
+  born: 1936
+  birthplace: 湖北鄂州
+  roles: [general]
+  status: retired
+  statusNote: 维基百科条目无参考来源，卸任中央军委办公厅主任的时间未见可靠记载。
+  tier: 2
+  headline: 中央军委办公厅原主任，中将
+  ids: { wikidata: Q8317131 }
+  bio: >-
+    湖北鄂州人，1992 年 11 月接替王宪志任总参谋部办公厅主任，1996 年 3 月由曾裕才接任，后升任中央军委办公厅主任，1996 年授中将军衔。后来落马的海南省军区政委叶青 1991 年起在总参办公厅秘书局任职，曾任他的秘书。
+  positions:
+    - { title: 总参谋部办公厅主任, sys: army, from: 1992-11, to: 1996-03, cite: k09-wiki-dong-liangju }
+    - { title: 中央军委办公厅主任, sys: army, cite: k09-wiki-dong-liangju }
+  cites: [wd-Q8317131, k09-wiki-dong-liangju, a01-wiki-ye-qing-pla]
+
+# ---------- 中国五矿 ----------
+- id: weng-zuliang
+  name: 翁祖亮
+  gender: m
+  ethnicity: 汉族
+  born: 1963-07-13
+  birthplace: 福建福清
+  roles: [prov]
+  status: retired
+  statusNote: 2024 年 12 月卸任中国五矿集团董事长、党组书记，由陈得信接任；此后未见担任新职的报道。
+  tier: 2
+  headline: 上海市委原常委、浦东新区区委原书记，中国五矿集团原董事长（2021–2024）
+  ids: { wikidata: Q28418106 }
+  bio: >-
+    福建福清人，上海汽车工业科研系统出身，历任上海市质监局局长、卢湾区长、闸北区委书记、黄浦区委书记。2016 年 12 月接替沈晓明任浦东新区区委书记，2017 年 3 月任上海市委常委。2021 年 7 月调任中国五矿集团董事长，与总经理国文清搭班，2024 年 12 月由陈得信接任。
+  positions:
+    - { title: 上海市质量技术监督局副局长、局长, sys: gov, place: 上海, from: 2003-05, to: 2008-05, cite: k09-wiki-weng-zuliang }
+    - { title: 上海市卢湾区区长, sys: gov, place: 上海, from: 2008-05, to: 2011-09, cite: k09-wiki-weng-zuliang }
+    - { title: 上海市闸北区委书记, sys: party, place: 上海, from: 2013-04, to: 2015-01, cite: k09-wiki-weng-zuliang }
+    - { title: 上海市黄浦区委书记, sys: party, place: 上海, from: 2015-01, to: 2016-07, cite: k09-wiki-weng-zuliang }
+    - { title: 上海市浦东新区区委书记, sys: party, place: 上海, from: 2016-12, to: 2021-07, cite: k09-wiki-weng-zuliang }
+    - { title: 上海市委常委, sys: party, place: 上海, from: 2017-03, to: 2021-07, cite: k09-wiki-weng-zuliang }
+    - { title: 中国五矿集团有限公司董事长、党组书记, sys: other, from: 2021-07, to: 2024-12, cite: k09-qq-2024-12-06-chen-dexin }
+  cites: [wd-Q28418106, k09-wiki-weng-zuliang, k09-thepaper-2024-05-22-chen-dexin, k09-qq-2024-12-06-chen-dexin]
+
+- id: chen-dexin
+  name: 陈得信
+  gender: m
+  ethnicity: 汉族
+  born: 1970-03
+  birthplace: 甘肃永昌
+  roles: [prov]
+  status: active
+  tier: 2
+  headline: 中国五矿集团董事长、党组书记，甘肃省原副省长
+  ids: { wikidata: Q117746330 }
+  bio: >-
+    甘肃永昌人，西安矿业学院采矿系毕业，长期在金川集团工作，2017 年任金川集团总经理，2019 年任酒泉钢铁集团董事长。2023 年 1 月任甘肃省副省长，2024 年 5 月调任中国五矿集团总经理，接替从集团官网消失的国文清；同年 12 月接替翁祖亮任董事长、党组书记。
+  positions:
+    - { title: 金川集团股份有限公司副总经理, sys: other, place: 甘肃, from: 2010-09, to: 2017-07, cite: k09-thepaper-2024-05-22-chen-dexin }
+    - { title: 金川集团股份有限公司总经理、党委副书记, sys: other, place: 甘肃, from: 2017-07, to: 2019-03, cite: k09-thepaper-2024-05-22-chen-dexin }
+    - { title: 酒泉钢铁（集团）有限责任公司党委书记、董事长, sys: other, place: 甘肃, from: 2019-03, to: 2023-02, cite: k09-thepaper-2024-05-22-chen-dexin }
+    - { title: 甘肃省副省长, sys: gov, place: 甘肃, from: 2023-01, to: 2024-05, cite: k09-thepaper-2024-05-22-chen-dexin }
+    - { title: 中国五矿集团有限公司董事、总经理、党组副书记, sys: other, from: 2024-05, to: 2024-12, cite: k09-thepaper-2024-05-22-chen-dexin }
+    - { title: 中国五矿集团有限公司董事长、党组书记, sys: other, from: 2024-12, cite: k09-qq-2024-12-06-chen-dexin }
+  cites: [wd-Q117746330, k09-wiki-chen-dexin, k09-thepaper-2024-05-22-chen-dexin, k09-qq-2024-12-06-chen-dexin]

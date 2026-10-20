@@ -1,0 +1,252 @@
+# K09: predecessors, successors, partners and patrons of case-essay people still without a relation (research/lists/R17-case-people-no-relation.txt).
+web:
+  # ---------- 海军、国防大学 ----------
+  - id: k09-caixin-2021-09-06-dong-jun
+    title: 董军履新海军司令员
+    publisher: 财新网
+    date: 2021-09-06
+    voice: zh
+    url: https://china.caixin.com/m/2021-09-06/101769669.html
+    excerpt: true
+    keep:
+      - 董军履新海军司令员
+      - 沈金龙
+  - id: k09-thepaper-2017-09-14-qin-shengxiang
+    title: 秦生祥以海军政委身份首次公开亮相
+    publisher: 澎湃新闻
+    date: 2017-09-14
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1793357
+    excerpt: true
+    keep:
+      - 秦生祥
+  - id: k09-sina-2010-01-26-liu-yazhou
+    title: 刘亚洲中将出任国防大学政委
+    publisher: 新浪军事
+    date: 2010-01-26
+    voice: zh
+    url: http://mil.news.sina.com.cn/2010-01-26/0719582059.html
+    excerpt: true
+    keep:
+      - 刘亚洲
+      - 童世平
+  - id: k09-thepaper-2017-07-19-ndu
+    title: 国防大学新任校长郑和、政委吴杰明亮相
+    publisher: 澎湃新闻
+    date: 2017-07-19
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1737121
+    excerpt: true
+    keep:
+      - 张仕波
+      - 吴杰明
+  - id: k09-zaobao-2022-01-01-kong-jun
+    title: 海军陆战队主官先后擢升
+    publisher: 联合早报
+    date: 2022-01-01
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20220101-1228475
+    excerpt: true
+    keep:
+      - 孔军
+      - 袁华智
+  - id: k09-caixin-2013-07-26-song-puxuan
+    title: 宋普选升任国防大学校长
+    publisher: 财新网
+    date: 2013-07-26
+    voice: zh
+    url: https://other.caixin.com/2013-07-26/100561392.html
+    excerpt: true
+    keep:
+      - 其前任王喜斌上将到龄退役
+      - 国防大学政委刘亚洲上将之前
+  - { id: k09-wiki-eastern-navy, title: 中国人民解放军东部战区海军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国人民解放军东部战区海军", excerpt: true, keep: [ 魏钢, 王仲才 ] }
+  # ---------- 国家电网 ----------
+  - id: k09-people-2020-01-17-state-grid
+    title: 毛伟明任国家电网董事长 寇伟不再担任
+    publisher: 人民网
+    date: 2020-01-17
+    voice: zh
+    url: http://energy.people.com.cn/n1/2020/0117/c71661-31553710.html
+    excerpt: true
+    keep:
+      - 毛伟明同志任国家电网有限公司董事长
+  - { id: k09-wiki-xin-baoan, title: 辛保安（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/辛保安", excerpt: true, keep: [ 辛保安, 年, 前任, 继任, 毛伟明, 寇伟, 张智刚 ] }
+  - id: k09-caixin-2018-12-29-xin-baoan
+    title: 辛保安任国家电网总经理
+    publisher: 财新网
+    date: 2018-12-29
+    voice: zh
+    url: https://companies.caixin.com/2018-12-29/101365101.html
+    excerpt: true
+    keep:
+      - 辛保安
+      - 寇伟
+  - id: k09-chinanews-2024-03-27-state-grid
+    title: 张智刚任国家电网董事长 辛保安不再担任
+    publisher: 中国新闻网
+    date: 2024-03-27
+    voice: zh
+    url: https://www.chinanews.com.cn/gn/2024/03-27/10187812.shtml
+    excerpt: true
+    keep:
+      - 张智刚
+      - 辛保安
+  # ---------- 总后勤部 ----------
+  - { id: k09-wiki-liu-xiaorong, title: 刘晓榕（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘晓榕", excerpt: true, keep: [ 刘晓榕, 年 ] }
+  - id: k09-people-2011-01-23-pla-generals
+    title: 解放军四总部人事调整 多位高级将领晋升领导层
+    publisher: 人民网（中新网）
+    date: 2011-01-23
+    voice: zh
+    url: "https://web.archive.org/web/20200604223209/http:/military.people.com.cn/GB/1076/13794865.html"
+    excerpt: true
+    keep:
+      - 刘晓榕接替60岁的孙思敬
+  - id: k09-caixin-2013-07-14-liu-shengjie
+    title: 刘生杰升任总后勤部副政委
+    publisher: 财新网
+    date: 2013-07-14
+    voice: zh
+    url: https://china.caixin.com/2013-07-14/100555582.html
+    excerpt: true
+    keep:
+      - 刘生杰少将升任该部副政委
+      - 刘晓榕
+  # ---------- 合肥、国防科工局、中物院、全总、山西 ----------
+  - id: k09-shobserver-2025-04-12-hefei
+    title: 费高云任合肥市委书记
+    publisher: 上观新闻
+    date: 2025-04-12
+    voice: zh
+    url: https://web.shobserver.com/wx/detail.do?id=830897
+    excerpt: true
+    keep:
+      - 张红文
+      - 费高云
+  - id: k09-thepaper-2018-05-24-zhang-kejian
+    title: 张克俭任国防科工局局长
+    publisher: 澎湃新闻
+    date: 2018-05-24
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2150344
+    excerpt: true
+    keep:
+      - 唐登杰
+  - id: k09-myrb-2009-01-23-caep
+    title: 谭力等走访慰问中国工程物理研究院
+    publisher: 绵阳日报
+    date: 2009-01-23
+    voice: zh
+    url: "https://web.archive.org/web/20161006174535/http:/myrb.newssc.org/html/2009-01/23/content_413745.htm"
+    excerpt: true
+    keep:
+      - 院长赵宪庚、党委书记张克俭
+  - { id: k09-wiki-xu-liuping, title: 徐留平（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/徐留平", excerpt: true, keep: [ 徐留平, 年, 前任, 继任, 陈刚, 陆治原 ] }
+  - id: k09-caixin-2026-07-01-lu-zhiyuan
+    title: 补缺徐留平 61岁民政部部长陆治原履新全总党组书记
+    publisher: 财新网
+    date: 2026-07-01
+    voice: zh
+    url: https://china.caixin.com/2026-07-01/102459501.html
+    excerpt: true
+    keep:
+      - 徐留平落马一个月后
+  - id: k09-people-2023-10-29-shanxi
+    title: 山西省委召开全省领导干部会议
+    publisher: 人民网山西频道
+    date: 2023-10-29
+    voice: zh
+    url: http://sx.people.com.cn/n2/2023/1029/c189130-40620731.html
+    excerpt: true
+    keep:
+      - 金湘军主持会议
+      - 唐登杰同志为班长
+  # ---------- 泰安、巡视组、中国电科、中国电子 ----------
+  - id: k09-yicai-zhang-qingli
+    title: 张庆黎：从泰安到新疆、西藏
+    publisher: 第一财经
+    voice: zh
+    url: https://m.yicai.com/news/2547058.html
+    excerpt: true
+    keep:
+      - 胡建学案
+  - id: k09-qq-2023-09-15-liu-lixian
+    title: 刘立宪被查
+    publisher: 腾讯新闻
+    date: 2023-09-15
+    voice: zh
+    url: https://view.inews.qq.com/a/20230915A0A0E400
+    excerpt: true
+    keep:
+      - 张化为
+  - id: k09-people-2017-05-17-soe
+    title: 中央企业领导人员任免
+    publisher: 人民网（中国组织人事报）
+    date: 2017-05-17
+    voice: official
+    url: http://renshi.people.com.cn/n1/2017/0517/c139617-29282010.html
+    excerpt: true
+    keep:
+      - 樊友山不再担任中国电子科技集团公司党组副书记
+  - { id: k09-wiki-dong-liangju, title: 董良驹（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/董良驹", excerpt: true, keep: [ 董良驹, 年, 前任, 继任, 王宪志, 曾裕才 ] }
+  - { id: k09-wiki-rui-xiaowu, title: 芮晓武（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/芮晓武", excerpt: true, keep: [ 芮晓武, 年, 前任, 继任, 曾毅 ] }
+  - id: k09-sina-2022-09-28-zeng-yi
+    title: 曾毅任中国电子董事长
+    publisher: 新浪财经（新京报政事儿）
+    date: 2022-09-28
+    voice: zh
+    url: https://finance.sina.com.cn/chanjing/gsnews/2022-09-28/doc-imqmmtha9039573.shtml
+    excerpt: true
+    keep:
+      - 曾毅同志任中国电子信息产业集团有限公司董事长
+      - 原任中国电子董事长、党组书记芮晓武
+  - id: k09-ifeng-2008-01-16-xu-qianfei
+    title: 许前飞被任命云南省高院副院长
+    publisher: 凤凰网（云南日报）
+    date: 2008-01-16
+    voice: zh
+    url: https://news.ifeng.com/special/2008huanjie/zxbd/200801/0116_2607_367448.shtml
+    excerpt: true
+    keep:
+      - 任命许前飞为云南省高级人民法院副院长
+      - 省高级人民法院院长赵仕杰
+  # ---------- 中国五矿 ----------
+  - { id: k09-wiki-weng-zuliang, title: 翁祖亮（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/翁祖亮", excerpt: true, keep: [ 翁祖亮, 年, 前任, 继任, 沈晓明, 朱芝松, 周波, 唐复平, 陈得信 ] }
+  - { id: k09-wiki-chen-dexin, title: 陈得信（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈得信", excerpt: true, keep: [ 陈得信, 年 ] }
+  - id: k09-thepaper-2024-05-22-chen-dexin
+    title: 甘肃省副省长陈得信调任中国五矿总经理，曾任甘肃国企酒钢集团董事长
+    publisher: 澎湃新闻
+    date: 2024-05-22
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_27465457
+    excerpt: true
+    keep:
+      - 陈得信同志任中国五矿集团有限公司董事、总经理
+      - 陈得信，男，汉族，1970年3月出生
+      - 2010年9月至2017年7月
+      - 2021年12月，任嘉峪关市委常委
+      - 国文清在集团官网
+      - 现年59岁的国文清
+      - 2016年5月9日
+      - 两大央企合并之前
+      - 中国五矿党组书记、董事长翁祖亮
+  - id: k09-qq-2024-12-06-chen-dexin
+    title: 陈得信任中国五矿党组书记、董事长，翁祖亮不再担任
+    publisher: 腾讯新闻（上海法治报）
+    date: 2024-12-06
+    voice: zh
+    url: https://news.qq.com/rain/a/20241206A08O3P00
+    excerpt: true
+    keep:
+      - 陈得信同志任中国五矿集团有限公司董事长、党组书记
+      - 此前，翁祖亮任中国五矿党组书记、董事长
+  - id: k09-cec-2021-01-27-work-meeting
+    title: 中国电子召开2021年度工作会议
+    publisher: 中国电子信息产业集团有限公司
+    date: 2021-01-27
+    voice: official
+    url: https://www.cec.com.cn/625.html
+    excerpt: true
+    keep:
+      - 总经理、党组副书记张冬辰
