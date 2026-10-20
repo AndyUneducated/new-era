@@ -486,6 +486,8 @@ export const TRIGGERS = {
   audit: '审计',
   surrender: '主动投案',
   incident: '事故或事件追责',
+  // only for people outside the system (dissidents, lawyers, writers), never for officials (decisions #70)
+  persecution: '迫害',
   unknown: '未公开',
 } as const
 export type Trigger = keyof typeof TRIGGERS
@@ -528,8 +530,12 @@ export type Outcome = keyof typeof OUTCOMES
 export const CHAIN_RELS = { patron: '靠山', protege: '提拔的下属', secretary: '秘书', kin: '家属', business: '商人', colleague: '同僚', briber: '行贿者' } as const
 export type ChainRel = keyof typeof CHAIN_RELS
 // the editor's reading of how far a case belongs to the struggle for power (decisions #43)
-export const POLITICS = { core: '权力斗争核心案', linked: '与派系或靠山清洗相关', none: '未见政治关联' } as const
+// repression is for people outside the system and is counted apart from officials (decisions #70)
+export const POLITICS = { core: '权力斗争核心案', linked: '与派系或靠山清洗相关', none: '未见政治关联', repression: '政治打压' } as const
 export type Politics = keyof typeof POLITICS
+// mitigating circumstances the court found (decisions #68)
+export const PLEAS = { surrender: '自首', merit: '立功', refund: '退赃退赔', plea: '认罪悔罪' } as const
+export type Plea = keyof typeof PLEAS
 
 // the editor's own analysis, always shown apart from sourced facts, with what it rests on (decisions #43)
 export const EditorSchema = z.object({ text: z.string(), cites: z.array(Cite).min(1) })
@@ -544,6 +550,8 @@ export const CaseRecordSchema = z.object({
   amount: z.object({ yuan: z.number().positive(), text: z.string(), cite: Cite }).optional(),
   // only where the fall records do not state it in words the build can read
   sentence: z.object({ date: PartialDate, term: z.enum(Object.keys(TERMS) as [Term, ...Term[]]), years: z.number().optional(), cite: Cite }).optional(),
+  // only where the verdict behind the fall records does not say it in words the build can read
+  plea: z.array(z.object({ kind: z.enum(Object.keys(PLEAS) as [Plea, ...Plea[]]), text: z.string(), cite: Cite })).default([]),
   trigger: z.object({ kind: z.enum(Object.keys(TRIGGERS) as [Trigger, ...Trigger[]]), text: z.string(), cite: Cite }).optional(),
   with: z
     .array(z.object({ id: z.string().optional(), name: z.string(), rel: z.enum(Object.keys(CHAIN_RELS) as [ChainRel, ...ChainRel[]]), text: z.string(), cite: Cite }))
@@ -613,6 +621,17 @@ export const ROUTES = {
   media: '新闻宣传',
   combat: '实战与战功',
   political: '军中政工',
+  // added 2026-10-19 (decisions #67)
+  org: '组织人事',
+  transfer: '跨省交流',
+  office: '秘书长与办公厅',
+  think: '智库转实职',
+  soe: '央企转地方',
+  aid: '援疆援藏',
+  united: '统战与民族',
+  parties: '民主党派',
+  open: '公开选拔',
+  campus: '高校校长从政',
 } as const
 export type Route = keyof typeof ROUTES
 export const RUNGS = { county: '县处级', bureau: '厅局级', vice: '副部级', minister: '正部级', pb: '政治局委员', psc: '政治局常委' } as const

@@ -4,6 +4,9 @@ import { quoteMisses } from '../../src/lib/quotes.ts'
 import { BATCH, errors, inflightSource, warnings } from './io.ts'
 import type { Data } from './load.ts'
 
+// people who held office; their cases cannot be read as 政治打压 or 迫害 (decisions #70)
+const OFFICIAL_ROLES = new Set(['tiger', 'psc', 'pb', 'cc', 'cmc', 'general', 'minister', 'prov', 'ccdi', 'sec'])
+
 export function check(d: Data) {
   const unique = (kind: string, ids: string[]) => {
     const seen = new Set<string>()
@@ -279,7 +282,13 @@ export function check(d: Data) {
       reliable(c.sentence.cite, `${w} sentence`)
       if (c.sentence.term === 'years' && !c.sentence.years) errors.push(`${w} sentence: a fixed term needs years`)
     }
+    for (const x of c.plea) {
+      cite(x.cite, `${w} plea ${x.kind}`)
+      reliable(x.cite, `${w} plea ${x.kind}`)
+    }
     if (c.trigger) cite(c.trigger.cite, `${w} trigger`)
+    if (p?.roles.some((r) => OFFICIAL_ROLES.has(r)) && (c.politics?.level === 'repression' || c.trigger?.kind === 'persecution'))
+      errors.push(`${w}: 政治打压 and 迫害 are for people outside the system, not fallen officials`)
     for (const x of c.with) {
       if (x.id) ref(people, 'person', x.id, `${w} with ${x.name}`)
       if (x.id === id) errors.push(`${w}: falls with themself`)

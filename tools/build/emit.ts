@@ -108,7 +108,7 @@ export function compile(d: Data) {
         p.fall.length || rec
           ? {
               ...strip(rec),
-              ...parseFall(p.fall, p.status, rec, (c) => d.texts.get(c.split('@')[0])),
+              ...parseFall(p.fall, p.status, rec, (c) => d.texts.get(c.split('@')[0]), p.name),
               fall: undefined,
               with: (rec?.with ?? []).map((x) => ({ ...x, id: x.id && known.has(x.id) ? x.id : undefined })),
               voices: rec?.voices ?? [],

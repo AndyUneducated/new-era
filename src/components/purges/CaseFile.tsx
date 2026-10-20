@@ -1,6 +1,6 @@
 // The case file on a person page: what the notice said, the sum, the charges, the sentence, what set it off,
 // who went down with them, and the editor's reading of its politics, apart from the sourced facts.
-import { CASE_SYS, CHAIN_RELS, DISCIPLINES, GRADES, OUTCOMES, POLITICS, TERMS, TRIGGERS } from '../../data/schema'
+import { CASE_SYS, CHAIN_RELS, DISCIPLINES, GRADES, OUTCOMES, PLEAS, POLITICS, TERMS, TRIGGERS } from '../../data/schema'
 import type { PersonR } from '../../data/db'
 import { PHRASES } from '../../lib/caseparse'
 import { short } from '../../lib/dates'
@@ -71,6 +71,20 @@ export function CaseFile({ p }: { p: PersonR }) {
           {term}
           {c.sentenced && <span className="muted"> · {short(c.sentenced)}</span>}
           {c.sentence && <Src cite={c.sentence.cite} />}
+        </>
+      ),
+    ],
+    [
+      '量刑情节',
+      c.pleas.length > 0 && (
+        <>
+          {c.pleas.map((k) => PLEAS[k]).join('、')}
+          {(c.plea ?? []).map((x) => (
+            <span key={x.kind}>
+              {' '}
+              <span className="muted">{x.text}</span> <Src cite={x.cite} />
+            </span>
+          ))}
         </>
       ),
     ],

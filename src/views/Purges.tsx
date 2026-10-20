@@ -10,7 +10,7 @@ import { EditorBox, Tally, type TallyRow } from '../components/purges/Tally'
 import { Timing } from '../components/purges/Timing'
 import { Wording } from '../components/purges/Wording'
 import { Seal } from '../components/Seal'
-import { CASE_KINDS, CASE_SYS, DISCIPLINES, OUTCOMES, POLITICS, TRIGGERS } from '../data/schema'
+import { CASE_KINDS, CASE_SYS, DISCIPLINES, OUTCOMES, PLEAS, POLITICS, TRIGGERS } from '../data/schema'
 import { short } from '../lib/dates'
 import { LEVELS, falls, months, placeAtFall, postAtFall, sysOf, type Fall } from '../lib/purge'
 import { href, personHref, useKept } from '../lib/router'
@@ -18,6 +18,7 @@ import { useAtlas } from '../state'
 
 type Scope = 'all' | 'high' | 'army'
 const SCOPES: Record<Scope, string> = { all: '全部', high: '中委以上', army: '只看军队' }
+const OFFICIAL_POLITICS = (Object.keys(POLITICS) as (keyof typeof POLITICS)[]).filter((k) => k !== 'repression')
 const inScope = (f: Fall, s: Scope) => s === 'all' || (s === 'army' ? f.army : f.level === 'top' || f.level === 'cc')
 
 const SUBNAV: [string, string][] = [
@@ -93,9 +94,12 @@ export function Purges() {
     .sort((x, y) => y.list.length - x.list.length)
   const charged = list.filter((f) => f.c.charges.length).length
   const withDisc = list.filter((f) => f.c.disc.length)
-  const rated = list.filter((f) => f.c.politics)
+  // people outside the system who were repressed are counted apart from fallen officials (decisions #70)
+  const repressed = list.filter((f) => f.c.politics?.level === 'repression' || f.c.trigger?.kind === 'persecution').reverse()
+  const rated = list.filter((f) => f.c.politics && f.c.politics.level !== 'repression')
   const political = rated.filter((f) => f.c.politics!.level !== 'none').sort((x, y) => (x.c.politics!.level === 'core' ? 0 : 1) - (y.c.politics!.level === 'core' ? 0 : 1) || y.t - x.t)
-  const triggered = list.filter((f) => f.c.trigger)
+  const triggered = list.filter((f) => f.c.trigger && f.c.trigger.kind !== 'persecution')
+  const pleaded = sentenced.filter((f) => f.c.pleas.length)
   const retired = list.map((f) => ({ f, m: retiredFor(f) })).filter((r) => r.m !== undefined)
   const guessed = list.filter((f) => sysOf(f).guessed).length
   const places = [...new Set(list.filter((f) => f.t >= 2012).map(placeAtFall).filter((x) => x !== undefined))]
@@ -202,9 +206,9 @@ export function Purges() {
       <Section
         id="politics"
         title="与政治斗争的关系"
-        note={`每个已整理的案件，由编者按能找到的材料判断一级：${Object.values(POLITICS).join('、')}。已评估 ${rated.length} 人，其余尚未整理。这是解读，不是事实，所以每条都写明依据。`}
+        note={`每个已整理的官员案件，由编者按能找到的材料判断一级：${OFFICIAL_POLITICS.map((k) => POLITICS[k]).join('、')}。已评估 ${rated.length} 人，其余尚未整理。这是解读，不是事实，所以每条都写明依据。异见者、律师等体制外人物另列在本节末。`}
       >
-        <Tally rows={by(rated, Object.keys(POLITICS) as (keyof typeof POLITICS)[], (f) => f.c.politics?.level, (k) => POLITICS[k], (k) => (k === 'core' ? 'var(--seal)' : k === 'linked' ? 'var(--gold)' : 'var(--muted)'))} of={rated.length} />
+        <Tally rows={by(rated, OFFICIAL_POLITICS, (f) => f.c.politics?.level, (k) => POLITICS[k], (k) => (k === 'core' ? 'var(--seal)' : k === 'linked' ? 'var(--gold)' : 'var(--muted)'))} of={rated.length} />
         <div className="pg-politics">
           {political.map((f) => (
             <div key={f.p.id} className="pg-pol">
@@ -223,6 +227,19 @@ export function Purges() {
           与换届的时间关系
         </div>
         <Timing list={list} />
+        {repressed.length > 0 && (
+          <>
+            <div className="h3" style={{ marginTop: 22 }}>
+              体制外：政治打压
+            </div>
+            <p className="muted">编者判断为政治打压或起因为迫害的 {repressed.length} 名异见者、维权律师、作家与商人，不计入上面的官员统计。</p>
+            <div className="pg-wall">
+              {repressed.map((f) => (
+                <Tile key={f.p.id} f={f} />
+              ))}
+            </div>
+          </>
+        )}
       </Section>
 
       <Section id="ends" title="结局" note="每人取目前已知的最后一步。“审查调查中”包括官方只公布了立案、尚无下文的。">
@@ -236,6 +253,11 @@ export function Purges() {
             <Tally rows={BANDS.map(([key, label, test]) => ({ key, label, list: sentenced.filter(test) }))} of={sentenced.length} />
           </div>
         </div>
+        <div className="h3" style={{ marginTop: 18 }}>
+          量刑情节
+        </div>
+        <p className="muted">法院认定的从轻情节，从所引判决报道读出。已判刑 {sentenced.length} 人中 {pleaded.length} 人的报道写明了情节，其余未写或尚未收录判决原文。</p>
+        <Tally rows={most(by(pleaded, Object.keys(PLEAS) as (keyof typeof PLEAS)[], (f) => f.c.pleas, (k) => PLEAS[k], () => 'var(--gold)'))} of={pleaded.length} />
       </Section>
 
       <Section id="sums" title="金额与刑期" note="横轴为法院认定的受贿等金额（对数），纵轴为刑期。点进人物。二〇一六年四月起施行的两高司法解释提高了受贿罪的数额标准，同样的刑期对应的金额此后普遍更高。">
@@ -259,8 +281,8 @@ export function Purges() {
         <Grid list={list} rows={places} />
       </Section>
 
-      <Section id="trigger" title="起因" note={`官方或可靠报道写明了从哪里查起的 ${triggered.length} 人。多数案件的线索来源不公开。`}>
-        <Tally rows={most(by(triggered, Object.keys(TRIGGERS) as (keyof typeof TRIGGERS)[], (f) => f.c.trigger?.kind, (k) => TRIGGERS[k]))} of={triggered.length} />
+      <Section id="trigger" title="起因" note={`官方或可靠报道写明了从哪里查起的 ${triggered.length} 人。多数案件的线索来源不公开。体制外人物遭迫害的不计入，见“与政治斗争”一节末。`}>
+        <Tally rows={most(by(triggered, (Object.keys(TRIGGERS) as (keyof typeof TRIGGERS)[]).filter((k) => k !== 'persecution'), (f) => f.c.trigger?.kind, (k) => TRIGGERS[k]))} of={triggered.length} />
       </Section>
 
       <Section id="retired" title="退休后被查" note="离开最后一个职务至少半年后才被通报的。“退休不是避风港”是十八大以来反复出现的说法。">

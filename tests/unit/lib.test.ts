@@ -3,7 +3,7 @@ import { age, fmt, fy } from '../../src/lib/dates'
 import { cnNum } from '../../src/lib/cn'
 import { quoted, quoteMisses } from '../../src/lib/quotes'
 import { chars, diff, paragraphs } from '../../src/lib/diff'
-import { amountIn, chargesIn, parseFall, sentenceIn } from '../../src/lib/caseparse'
+import { amountIn, chargesIn, parseFall, pleasIn, sentenceIn } from '../../src/lib/caseparse'
 
 describe('caseparse', () => {
   const zhou = [
@@ -34,6 +34,14 @@ describe('caseparse', () => {
   it('reads a verdict that only says 决定执行', () => {
     const p = parseFall([{ date: '2018-05-08', text: '以受贿罪、滥用职权罪数罪并罚，决定执行有期徒刑十二年', cite: 'x' }], 'detained')
     expect(p).toMatchObject({ term: 'years', years: 12, outcome: 'sentenced', sentenced: '2018-05-08' })
+  })
+  it('reads mitigating circumstances, only for the named defendant and not where denied', () => {
+    expect(pleasIn('鉴于张三有自首情节，如实供述，认罪悔罪，积极退缴全部赃款')).toEqual(['surrender', 'refund', 'plea'])
+    expect(pleasIn('李四到案后不构成自首，但有立功表现')).toEqual(['merit'])
+    expect(pleasIn('张三认罪认罚。李四拒不认罪，退赃', '张三')).toEqual(['plea'])
+    expect(pleasIn('对许家印判处无期徒刑；对违法所得继续追缴，不足部分责令退赔')).toEqual([])
+    const p = parseFall([{ date: '2019-01-01', text: '以受贿罪判处有期徒刑十年', cite: 'v' }], 'detained', undefined, () => '法院认为，王五具有自首情节。赵六认罪悔罪。', '王五')
+    expect(p.pleas).toEqual(['surrender'])
   })
 })
 

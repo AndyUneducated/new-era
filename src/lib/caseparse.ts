@@ -1,6 +1,6 @@
 // What the build reads out of a person's fall records: the kind of each step, the charges, the sentence,
 // the sum, and how it ended. A content/falls record overrides what it states.
-import type { CaseRecord, Discipline, Outcome, Term } from '../data/schema.ts'
+import type { CaseRecord, Discipline, Outcome, Plea, Term } from '../data/schema.ts'
 
 export const STEPS = {
   probe: '审查调查',
@@ -126,6 +126,30 @@ export function amountIn(text: string): number | undefined {
   return sums.length ? Math.max(...sums) : undefined
 }
 
+// mitigating circumstances in a verdict: "有自首情节，如实供述……认罪悔罪，积极退缴全部赃款"; a clause that
+// denies one (不构成自首、拒不认罪) does not count. With a name, only sentences naming them are read, since
+// one report often covers several defendants.
+const PLEA_RE: [Plea, RegExp][] = [
+  ['surrender', /自首/],
+  ['merit', /立功表现|构成(?:重大)?立功|揭发他人犯罪/],
+  ['refund', /退赃|退缴|退赔|退还(?:全部)?赃款/],
+  ['plea', /认罪认罚|认罪悔罪|认罪、悔罪|当庭认罪|自愿认罪|认罪服法/],
+]
+const DENIED = /不(?:构成|认定|成立|具有|属于|予认定|能认定)|未能|没有|并非|否认|拒不|翻供/
+// a court ordering the money back (责令退赔、继续追缴) is not the defendant returning it
+const ORDERED = /责令|追缴|没收/
+export function pleasIn(text: string, name?: string): Plea[] {
+  const out = new Set<Plea>()
+  for (const s of text.split(/[。\n]/)) {
+    if (name && !s.includes(name)) continue
+    for (const c of s.split(/[，,；;：:]/)) {
+      if (DENIED.test(c)) continue
+      for (const [k, re] of PLEA_RE) if (re.test(c) && !(k === 'refund' && ORDERED.test(c))) out.add(k)
+    }
+  }
+  return PLEA_RE.map(([k]) => k).filter((k) => out.has(k))
+}
+
 // the wording of the notices (decisions #41): stock phrases of the CCDI, counted in the full text of each notice
 export const PHRASES: { id: string; label: string; terms: string[] }[] = [
   { id: 'faith', label: '理想信念丧失', terms: ['理想信念丧失', '丧失理想信念', '背弃理想信念'] },
@@ -178,10 +202,19 @@ export interface Parsed {
   // stock phrases found in the full text of the notice, and the disciplines it names
   phrases: string[]
   disc: Discipline[]
+  // mitigating circumstances found by the court, from the verdict and the record
+  pleas: Plea[]
 }
 
-// `text` gives the full text of a cited source, for the notice and the verdict behind the steps
-export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecord, 'file'>, text: (cite: string) => string | undefined = () => undefined): Parsed {
+// `text` gives the full text of a cited source, for the notice and the verdict behind the steps; `name`
+// picks their sentences out of a verdict report that covers several defendants
+export function parseFall(
+  fall: FallStep[],
+  status: string,
+  rec?: Omit<CaseRecord, 'file'>,
+  text: (cite: string) => string | undefined = () => undefined,
+  name?: string,
+): Parsed {
   const steps = [...fall].sort((a, b) => a.date.localeCompare(b.date)).map((f) => ({ date: f.date, kind: stepOf(f.text), text: f.text, cite: f.cite }))
   // the notice: the one named in the record, else the expulsion's or the punishment's source
   const noticeCite = rec?.notice?.cite ?? steps.find((s) => s.kind === 'expelled')?.cite ?? steps.find((s) => s.kind === 'disciplined')?.cite
@@ -232,5 +265,12 @@ export function parseFall(fall: FallStep[], status: string, rec?: Omit<CaseRecor
     sentenced: rec?.sentence?.date ?? sentencedStep?.date,
     phrases: phrasesIn([notice, ...(rec?.notice?.quotes ?? [])].join('\n')),
     disc: rec?.discipline?.length ? rec.discipline : disciplinesIn(notice),
+    pleas: [
+      ...new Set([
+        ...(rec?.plea ?? []).map((x) => x.kind),
+        ...pleasIn(steps.filter((s) => s.kind === 'sentenced').map((s) => s.text).join('。')),
+        ...(name ? pleasIn(verdict, name) : []),
+      ]),
+    ],
   }
 }
