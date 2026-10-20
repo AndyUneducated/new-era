@@ -1,0 +1,685 @@
+# RL3 (batch K08): relations for case-essay people still without one (research/lists/R15-case-people-no-relation.txt),
+# mostly predecessors, successors and partners. Successor pairs (接替) and party–government partners are colleague, a = successor.
+
+# ---------- 内蒙古：呼和浩特、包头、巴彦淖尔、赤峰、通辽 ----------
+- a: han-zhiran
+  b: niu-yuru
+  kind: colleague
+  from: 2001-09
+  text: 2001 年 9 月韩志然接替牛玉儒任包头市长；2004 年 8 月牛玉儒病逝，一个月后韩志然接任呼和浩特市委书记。
+  cite: k08-rmzxw-2016-01-29-han-zhiran
+  quote: 2004年8月，牛玉儒因病去世。一个月后，韩志然接任呼市市委书记
+- a: niu-yuru
+  b: yang-jing
+  kind: colleague
+  from: 2003-04
+  text: 2003 年 4 月牛玉儒接替杨晶任呼和浩特市委书记。
+  cite: k08-wiki-niu-yuru
+- a: nashun-menghe
+  b: han-zhiran
+  kind: colleague
+  from: 2011-11
+  text: 2011 年 11 月那顺孟和接替韩志然任呼和浩特市委书记，韩志然另行安排。
+  cite: k08-people-2011-11-17-nashun-menghe
+  quote: 韩志然同志不再担任呼和浩特市委书记职务，那顺孟和同志兼任呼和浩特市委书记
+- a: yun-guangzhong
+  b: nashun-menghe
+  kind: colleague
+  from: 2016-11
+  text: 2016 年 11 月云光中接替因任职年龄卸任的那顺孟和任呼和浩特市委书记。
+  cite: k08-wiki-nashun-menghe
+- a: nashun-menghe
+  b: wang-suyi
+  kind: colleague
+  from: 2010-05
+  text: 2010 年 5 月那顺孟和接替王素毅任巴彦淖尔市委书记。
+  cite: k08-wiki-nashun-menghe
+- a: nashun-menghe
+  b: mo-jiancheng
+  kind: colleague
+  from: 2003-03
+  text: 2003 年那顺孟和接替莫建成任通辽市长。
+  cite: k08-wiki-nashun-menghe
+- a: wang-suyi
+  b: guo-qijun
+  kind: colleague
+  from: 2008-01
+  text: 2008 年 1 月郭启俊升任内蒙古自治区副主席，巴彦淖尔市委书记由王素毅接任。
+  cite: k08-wiki-guo-qijun
+- a: guo-qijun
+  b: mo-jiancheng
+  kind: colleague
+  from: 2010-06
+  text: 2010 年 6 月郭启俊接替莫建成兼任包头市委书记。
+  cite: k08-wiki-guo-qijun
+- a: wang-zhonghe
+  b: guo-qijun
+  kind: colleague
+  from: 2013-08
+  text: 2013 年 8 月王中和从赤峰调任包头市委书记，接替已转任自治区政协副主席的郭启俊。
+  cite: k08-ce-2013-08-20-baotou
+  quote: 此前担任包头市委书记的郭启俊今年1月已任内蒙古自治区政协副主席
+- a: zhang-yuanzhong
+  b: wang-zhonghe
+  kind: colleague
+  from: 2016-11
+  text: 2016 年 11 月张院忠接替王中和任包头市委书记。
+  cite: k08-thepaper-2016-11-30-baotou
+  quote: 张院忠同志任中共包头市委委员、常委、书记；王中和同志不再担任中共包头市委书记、常委、委员职务
+- a: meng-fanli
+  b: zhang-yuanzhong
+  kind: colleague
+  from: 2020-09
+  text: 2020 年 9 月孟凡利接替张院忠任包头市委书记。
+  cite: k08-wiki-zhang-yuanzhong
+- a: wang-zhonghe
+  b: hang-guilin
+  kind: colleague
+  from: 2011-01
+  text: 2011 年 1 月杭桂林因年龄到限改任自治区人大常委会秘书长，赤峰市委书记由王中和接任。
+  cite: k08-wiki-hang-guilin
+
+# ---------- 铁路：国家铁路局、国铁集团、呼和浩特与昆明铁路局 ----------
+- a: fei-dongbin
+  b: liu-zhenfang
+  kind: colleague
+  from: 2022-09
+  text: 2022 年 7 月刘振芳调任国铁集团董事长，9 月费东斌接任国家铁路局党组书记。
+  cite: k08-bjnews-2022-09-27-fei-dongbin
+  quote: 原任国家铁路局党组书记为刘振芳
+- a: liu-zhenfang
+  b: yang-yudong
+  kind: colleague
+  from: 2014-08
+  text: 2014 年 8 月刘振芳接替杨宇栋任北京铁路局局长；2019 年 11 月又继杨宇栋之后任国家铁路局党组书记。
+  cite: k08-jfdaily-2022-09-rail-chiefs
+  quote: 继陆东福（2013.03-2016.09）、杨宇栋（2016.12-2018.12）、刘振芳（2019.11-2022.07）之后的第四任党组书记
+- a: fei-dongbin
+  b: yang-yudong
+  kind: colleague
+  from: 2013-01
+  text: 2013 年 1 月杨宇栋调任北京铁路局局长，呼和浩特铁路局局长由费东斌接任。
+  cite: k08-wiki-yang-yudong
+- a: yang-yudong
+  b: lin-fenqiang
+  kind: colleague
+  from: 2011-06
+  text: 2011 年 6 月杨宇栋接替林奋强任呼和浩特铁路局局长。
+  cite: k08-wiki-yang-yudong
+- a: liu-zhenfang
+  b: wen-qingliang
+  kind: colleague
+  from: 2011-08
+  text: 2011 年 8 月刘振芳接替闻清良任昆明铁路局局长。
+  cite: k08-wiki-liu-zhenfang
+- a: guo-zhuxue
+  b: liu-zhenfang
+  kind: colleague
+  from: 2024-10
+  text: 2024 年 10 月郭竹学接替年满 63 岁退休的刘振芳任国铁集团董事长；此前两人分任国铁集团总经理和董事长。
+  cite: k08-wiki-liu-zhenfang
+  quote: 郭竹学任中国国家铁路集团有限公司董事长，年满63岁的刘振芳退休
+
+# ---------- 广西：桂林 ----------
+- a: zhou-jiabin
+  b: zhao-leqin
+  kind: colleague
+  from: 2021-02
+  text: 2021 年 2 月周家斌接替赵乐秦任桂林市委书记；赵乐秦任桂林市委书记时，周家斌曾在桂林任职。
+  cite: k08-chinanews-2021-02-09-guilin
+  quote: 周家斌任中共桂林市委委员、常委、书记，赵乐秦不再担任中共桂林市委书记、常委、委员职务
+- a: zhao-leqin
+  b: liu-jun-gx
+  kind: colleague
+  from: 2013-02
+  text: 2013 年赵乐秦接替刘君任桂林市委书记。
+  cite: k08-wiki-zhao-leqin
+- a: zhao-leji
+  b: zhao-leqin
+  kind: kin
+  text: 赵乐秦是赵乐际之弟。
+  cite: k08-wiki-zhao-leqin
+
+# ---------- 三峡集团 ----------
+- a: lu-chun
+  b: cao-guangjing
+  kind: colleague
+  from: 2014-03
+  text: 2014 年 3 月卢纯接替曹广晶任三峡集团董事长、党组书记。
+  cite: k08-chinanews-2014-03-25-ctg
+  quote: 免去曹广晶中国长江三峡集团公司董事长、党组书记职务
+
+# ---------- 四川、宁夏：纪委书记、政法委书记 ----------
+- a: wang-yanfei
+  b: wang-huaichen
+  kind: colleague
+  from: 2015-05
+  text: 2015 年 5 月王雁飞接替王怀臣任四川省委常委、省纪委书记。
+  cite: k08-people-2015-05-20-wang-yanfei
+  quote: 王雁飞任四川省委常委、省纪委书记。王怀臣不再担任
+- a: wang-huaichen
+  b: ou-zegao
+  kind: colleague
+  from: 2007-05
+  text: 2007 年 5 月王怀臣接替欧泽高任四川省委政法委书记，2011 年又接替欧泽高任省纪委书记。
+  cite: k08-wiki-wang-huaichen
+- a: liao-jianyu
+  b: wang-yanfei
+  kind: colleague
+  from: 2021-11
+  text: 2021 年 11 月廖建宇接替王雁飞任四川省委常委、省纪委书记。
+  cite: k08-scjc-2021-11-19-liao-jianyu
+  quote: 廖建宇同志任中共四川省委委员、常委和省纪委书记；王雁飞同志不再担任中共四川省委常委、省纪委书记职务
+- a: wang-yanfei
+  b: su-deliang
+  kind: colleague
+  from: 2013-05
+  text: 2013 年 5 月王雁飞接替苏德良任宁夏党委常委、政法委书记，并被提名为公安厅厅长。
+  cite: k08-people-2013-05-21-ningxia
+  quote: 苏德良同志不再担任自治区党委常委、委员、政法委书记、公安厅厅长
+- a: deng-liqun
+  b: wang-huaichen
+  kind: secretary
+  text: 王怀臣曾任邓力群秘书。
+  cite: k08-wiki-wang-huaichen
+  quote: 曾经担任中共元老邓力群的秘书
+- a: wang-huaichen
+  b: shi-kehui
+  kind: colleague
+  text: 王怀臣任中央巡视组组长时，施克辉以副组长身份与他一起进驻中宣部开展专项巡视。
+  cite: f07-wiki-shi-kehui
+  quote: 与组长王怀臣一起进驻中宣部开展专项巡视
+
+# ---------- 广东：统战部长、宣传部长、茂名 ----------
+- a: zhou-zhenhong
+  b: li-tongshu
+  kind: colleague
+  from: 2007-04
+  text: 2007 年 4 月周镇宏由茂名市委书记调任广东省委统战部部长，李统书不再兼任该职。
+  cite: k08-cctv-2007-04-28-guangdong
+  quote: 周镇宏同志任省委统战部部长，免去其茂名市委书记、常委、委员职务
+- a: luo-yinguo
+  b: zhou-zhenhong
+  kind: colleague
+  from: 2007-04
+  text: 2007 年 4 月周镇宏调任省委统战部部长，茂名市委书记由罗荫国接任。
+  cite: k08-cctv-2007-04-28-guangdong
+  quote: 罗荫国同志任茂名市委书记
+- a: lin-xiong
+  b: zhou-zhenhong
+  kind: colleague
+  from: 2012-05
+  text: 2012 年 5 月林雄接替周镇宏任广东省委统战部部长。
+  cite: k08-wiki-lin-xiong
+- a: tuo-zhen
+  b: lin-xiong
+  kind: colleague
+  from: 2012-05
+  text: 2012 年 5 月林雄改任统战部部长，广东省委宣传部部长由庹震接任。
+  cite: k08-ce-2012-05-14-lin-xiong
+  quote: 宣传部部长一职则由刚刚从新华社调任广东省委常委的庹震接任
+- a: lin-xiong
+  b: zhu-xiaodan
+  kind: colleague
+  from: 2006-07
+  text: 2006 年 7 月林雄接替朱小丹任广东省委常委、宣传部部长。
+  cite: k08-wiki-lin-xiong
+- a: luo-yinguo
+  b: lin-xiong
+  kind: colleague
+  from: 2003-04
+  text: 2003 年 4 月林雄调任肇庆市委书记，茂名市长由罗荫国接任。
+  cite: k08-wiki-lin-xiong
+- a: li-tongshu
+  b: zhu-xiaodan
+  kind: colleague
+  from: 2004
+  text: 2004 年李统书接替朱小丹任广东省委统战部部长。
+  cite: k08-wiki-li-tongshu
+- a: wen-jiabao
+  b: lin-xiong
+  kind: secretary
+  text: 林雄早年在中共中央办公厅工作，曾任温家宝秘书。
+  cite: k08-wiki-lin-xiong
+
+# ---------- 北京：市政府秘书长、副市长 ----------
+- a: jin-wei
+  b: li-wei-bj
+  kind: colleague
+  from: 2018-03
+  text: 2018 年 3 月靳伟接替李伟任北京市政府秘书长。
+  cite: k08-wiki-jin-wei
+- a: chen-gang-beijing
+  b: liu-zhihua
+  kind: colleague
+  from: 2007-10
+  text: 2007 年 10 月陈刚接替落马的刘志华任北京市副市长。
+  cite: k04-wiki-chen-gang-beijing
+  quote: 接替落马的刘志华出任北京市人民政府副市长
+
+# ---------- 中信银行 ----------
+- a: sun-deshun
+  b: li-qingping
+  kind: colleague
+  from: 2016-06
+  text: 2016 年 6 月李庆萍由中信银行行长升任董事长，行长由常务副行长孙德顺接任，两人搭班至 2021 年。
+  cite: k08-thepaper-2016-06-30-citic-bank
+  quote: 将与李庆萍搭班出任中信银行行长的，是现年57岁的常务副行长孙德顺
+
+# ---------- 山西：大同 ----------
+- a: feng-lixiang
+  b: guo-liangxiao
+  kind: colleague
+  from: 2006-02
+  text: 2006 年 2 月郭良孝由大同市长升任市委书记，丰立祥接任市委副书记、拟任市长，两人搭班；2008 年 1 月丰立祥又接替郭良孝任市委书记。
+  cite: k08-sina-2006-02-28-datong
+  quote: 原市长郭良孝升任大同市委书记，丰立祥接任大同市委副书记
+- a: zhang-jifu
+  b: feng-lixiang
+  kind: colleague
+  from: 2015-08
+  text: 2014 年 10 月丰立祥被查，大同市委书记空缺十个月后，2015 年 8 月由张吉福接任。
+  cite: k08-people-2015-08-06-zhang-jifu
+  quote: 空缺10月之久的大同市委书记一职得以补缺
+- a: zhang-jifu
+  b: hu-yuting
+  kind: colleague
+  from: 2021-11
+  text: 2021 年 11 月张吉福接替胡玉亭任山西省常务副省长。
+  cite: k08-wiki-zhang-jifu
+
+# ---------- 保险：中国人寿、中国太平、中国人保 ----------
+- a: wang-bin-chinalife
+  b: yang-mingsheng
+  kind: colleague
+  from: 2018-09
+  text: 2018 年 9 月王滨从中国太平调任中国人寿集团董事长、党委书记，接替杨明生。
+  cite: k08-thepaper-2018-09-07-china-life
+  quote: 王滨为董事长、党委书记，此前的董事长、党委书记为杨明生
+- a: bai-tao
+  b: wang-bin-chinalife
+  kind: colleague
+  from: 2022-01
+  text: 2022 年 1 月白涛接替被查的王滨任中国人寿集团党委书记，后任董事长。
+  cite: k08-sina-2025-03-12-bai-tao
+  quote: 接替当时被查的王滨
+- a: luo-xi
+  b: wang-bin-chinalife
+  kind: colleague
+  from: 2018-09
+  text: 2018 年 9 月罗熹接替王滨任中国太平保险集团党委书记、董事长。
+  cite: k08-thepaper-2018-09-07-china-life
+  quote: 罗熹接替王滨，担任中国太平党委书记、董事长
+- a: luo-xi
+  b: miao-jianmin
+  kind: colleague
+  from: 2020-09
+  text: 2020 年 9 月罗熹接替缪建民任中国人保党委书记、拟任董事长。
+  cite: k08-jiemian-2020-09-08-picc
+  quote: 原董事长缪建民在中国人保于2017年11月接替吴焰出任董事长
+- a: cai-xiliang
+  b: bai-tao
+  kind: colleague
+  from: 2024-08
+  text: 2024 年 8 月蔡希良接替白涛任中国人寿集团党委书记。
+  cite: k08-sina-2025-03-12-bai-tao
+  quote: 蔡希良同志任中国人寿保险（集团）公司党委书记，免去白涛同志的中国人寿保险（集团）公司党委书记职务
+
+# ---------- 国家开发银行 ----------
+- a: ouyang-weimin
+  b: zheng-zhijie
+  kind: colleague
+  from: 2019-10
+  text: 2019 年 10 月欧阳卫民从广东省副省长任上调任国家开发银行行长，接替郑之杰。
+  cite: k08-thepaper-2019-10-24-cdb
+  quote: 接替郑之杰出任国开行行长、党委副书记
+- a: tan-jiong
+  b: ouyang-weimin
+  kind: colleague
+  from: 2023-02
+  text: 2023 年 2 月谭炯接替欧阳卫民任国家开发银行党委副书记，5 月获核准任行长。
+  cite: k08-nbd-2023-02-17-tan-jiong
+  quote: 谭炯同志任国家开发银行党委副书记，免去欧阳卫民同志的国家开发银行党委副书记职务
+- a: tan-jiong
+  b: zhao-huan
+  kind: colleague
+  from: 2023-05
+  to: 2026-07
+  text: 谭炯任国家开发银行行长期间，董事长、党委书记为赵欢。
+  cite: k08-thepaper-2023-05-tan-jiong
+  quote: 担任该行董事长、党委书记的是赵欢
+- a: hu-huaibang
+  b: zheng-zhijie
+  kind: colleague
+  from: 2013-04
+  to: 2018-09
+  text: 2013 年 4 月至 2018 年 9 月胡怀邦任国家开发银行董事长，与行长郑之杰搭班。
+  cite: k08-wiki-cdb
+- a: zhao-huan
+  b: zheng-zhijie
+  kind: colleague
+  from: 2018-09
+  to: 2019-10
+  text: 2018 年 9 月赵欢任国家开发银行董事长，与行长郑之杰搭班至 2019 年 10 月。
+  cite: k08-wiki-cdb
+- a: ouyang-weimin
+  b: zhao-huan
+  kind: colleague
+  from: 2019-10
+  to: 2023-05
+  text: 2019 年 10 月至 2023 年欧阳卫民任国家开发银行行长，董事长为赵欢。
+  cite: k08-wiki-cdb
+- a: tan-jiong
+  b: zhao-deming
+  kind: colleague
+  from: 2022-05
+  text: 2022 年 5 月谭炯接替赵德明任贵州省委统战部部长。
+  cite: k08-wiki-tan-jiong
+  quote: 谭炯任贵州省委统战部部长 赵德明不再担任
+
+# ---------- 纪检：驻国资委纪检组、贵州纪委 ----------
+- a: gong-tanghua
+  b: chen-chaoying
+  kind: colleague
+  from: 2022-09
+  text: 2022 年 9 月龚堂华接替陈超英任中央纪委国家监委驻国务院国资委纪检监察组组长。
+  cite: k08-thepaper-2022-09-09-sasac-ccdi
+  quote: 在龚堂华之前，担任中央纪委国家监委驻国务院国资委纪检监察组组长的是出生于1958年11月的陈超英
+- a: li-yuanping
+  b: xia-hongmin
+  kind: colleague
+  from: 2021-12
+  text: 2021 年 11 月夏红民调任山东，12 月李元平接任贵州省委常委、省纪委书记。
+  cite: k08-bjd-2021-12-30-li-yuanping
+  quote: 此前担任贵州省委常委、纪委书记的夏红民，已于11月改任山东省委常委、纪委书记
+
+# ---------- 军队 ----------
+- a: you-taizhong
+  b: you-haitao
+  kind: kin
+  text: 尤海涛是尤太忠次子。
+  cite: k08-zaobao-2024-12-26-you-haitao
+  quote: 他的父亲尤太忠曾任成都军区、广州军区司令员
+- a: yang-shiguang
+  b: ding-haichun
+  kind: colleague
+  from: 2014-12
+  text: 2014 年底丁海春改任海军副政委，东海舰队政治部主任杨世光接任海军政治部主任。
+  cite: k08-thepaper-2015-01-navy
+  quote: 海军原政治部主任丁海春改任副政委、海军东海舰队原政治部主任杨世光升任海军政治部主任
+- a: ding-haichun
+  b: ma-faxiang
+  kind: colleague
+  from: 2013-07
+  text: 2013 年 7 月丁海春接替改任海军副政委的马发祥任海军政治部主任。
+  cite: k08-thepaper-2015-01-navy
+  quote: 丁海春接替改任海军副政委的马发祥
+- a: jiang-bin
+  b: wu-qian
+  kind: colleague
+  from: 2025-05
+  text: 2025 年 5 月蒋斌以国防部新任新闻发言人身份亮相，国防部官网发言人简介中已撤下吴谦；吴谦最后一次主持例行记者会是同年 3 月。
+  cite: k08-bjnews-2025-05-15-jiang-bin
+  quote: 新闻发言人简介中，已经没有了吴谦的简历
+
+# ---------- 军工央企与国资委 ----------
+- a: cheng-fubo
+  b: liu-shiquan
+  kind: colleague
+  from: 2024-04
+  text: 2024 年 4 月程福波接替刘石泉任中国兵器工业集团董事长、党组书记；刘石泉此前已被撤销全国政协委员资格。
+  cite: k08-caixin-2024-04-30-cheng-fubo
+  quote: 此前担任该职的刘石泉是四届中央候补委员
+- a: cheng-fubo
+  b: zhou-xinmin
+  kind: colleague
+  from: 2025-07
+  text: 2025 年 7 月程福波接替周新民任中国航空工业集团董事长、党组书记。
+  cite: k08-wiki-cheng-fubo
+- a: cheng-fubo
+  b: zhang-yuzhuo
+  kind: colleague
+  from: 2026-06
+  text: 2026 年 6 月程福波接替转任中国工程院党组书记的张玉卓任国务院国资委党委书记，7 月任主任。
+  cite: k08-bjnews-2026-07-03-cheng-fubo
+  quote: 原任国务院国资委党委书记、主任张玉卓，已任中国工程院党组书记
+- a: cheng-fubo
+  b: zhang-fuhai
+  kind: colleague
+  from: 2022-12
+  text: 2022 年 12 月程福波接替张福海任广东省委常委、组织部部长。
+  cite: k08-wiki-cheng-fubo
+- a: yuan-jie
+  b: chen-guoying
+  kind: colleague
+  from: 2020-06
+  to: 2022-02
+  text: 自由亚洲电台评论称，陈国瑛 2022 年调任兵器装备集团总经理前，曾在航天科工董事长袁洁手下任集团董事、党组副书记。
+  cite: k06-rfa-2024-04-15-yuan-jie
+  quote: 继而又在袁洁手下担任该集团的公司董事、党组副书记
+
+# ---------- 香港 ----------
+- a: zeng-decheng
+  b: he-zhiping
+  kind: colleague
+  from: 2007-07-01
+  text: 2007 年 7 月 1 日曾德成接替何志平任香港特区民政事务局局长。
+  cite: k08-wiki-zeng-decheng
+  quote: 2007年7月1日接替何志平出任民政事务局局长
+
+# ---------- 辽宁：阜新、铁岭、沈阳 ----------
+- a: pan-liguo
+  b: li-wenke
+  kind: colleague
+  from: 2012-01
+  text: 2012 年 1 月李文科被免职，潘利国由阜新调任铁岭市委书记。
+  cite: k08-ce-2012-01-31-tieling
+  quote: 潘利国同志任中共铁岭市委书记，李文科同志不再担任中共铁岭市委书记
+- a: wang-yang-liaoning
+  b: pan-liguo
+  kind: colleague
+  from: 2012-01
+  text: 2012 年 1 月潘利国调任铁岭市委书记，阜新市委书记由鞍山市长王阳接任。
+  cite: k08-caixin-2012-02-10-liaoning
+  quote: 鞍山市原市长王阳调任阜新市委书记，阜新原市委书记潘利国调任铁岭市委书记
+- a: pan-liguo
+  b: chen-haibo
+  kind: colleague
+  from: 2015-02
+  text: 2015 年 2 月潘利国接替陈海波任沈阳市长。
+  cite: k08-wiki-pan-liguo
+  quote: 陈海波 → 潘利国 → 姜有为
+
+# ---------- 央企搭档：华润电力、东风、中海油 ----------
+- a: wang-yujun
+  b: wang-shuaiting
+  kind: colleague
+  from: 2010-07
+  text: 2010 年 7 月 8 日王玉军任华润电力执行董事兼总裁，同日王帅廷接替宋林任华润电力董事会主席，两人搭班。
+  cite: k08-people-2014-09-23-wang-yujun
+  quote: 2010年7月8日，王玉军被委任为华润电力执行董事兼总裁。同一日，宋林辞去华润电力董事会主席，由王帅廷接任
+- a: zhu-fushou
+  b: zhu-yanfeng
+  kind: colleague
+  text: 2015 年中国青年网报道中，竺延风为东风汽车公司董事长、党委书记，朱福寿为总经理、党委副书记。
+  cite: k08-cyol-2015-09-dongfeng
+  quote: 东风汽车公司董事长、党委书记竺延风，公司总经理、党委副书记朱福寿
+- a: li-yong-cnooc
+  b: wang-dongjin
+  kind: colleague
+  from: 2020-09
+  text: 2019 年 10 月汪东进由中海油总经理升任董事长，总经理空缺近 11 个月后，2020 年 9 月由中石化副总经理李勇补任。
+  cite: k08-caixin-2020-09-07-cnooc
+  quote: 空缺近一年的中海油集团总经理一职将由中石化集团副总经理李勇补缺
+
+# ---------- 证监会：股灾后的领导班子 ----------
+- a: liu-shiyu
+  b: jiang-yang
+  kind: colleague
+  from: 2016-02
+  text: 2016 年 2 月刘士余接替肖钢任证监会主席时，副主席姜洋是股灾救市后班子中仅剩的在任者之一。
+  cite: cs5-jiemian-2016-08-csrc-team
+  quote: 证监会高级领导班子仅剩下副主席姜洋和主席助理黄炜在任
+- a: liu-shiyu
+  b: huang-wei-csrc
+  kind: colleague
+  from: 2016-02
+  text: 刘士余任证监会主席后，主席助理黄炜是股灾后留任的两名班子成员之一。
+  cite: cs5-jiemian-2016-08-csrc-team
+  quote: 证监会高级领导班子仅剩下副主席姜洋和主席助理黄炜在任
+- a: liu-shiyu
+  b: wang-huimin
+  kind: colleague
+  from: 2016-02
+  text: 刘士余任证监会主席时，王会民由证监会纪委书记改任中纪委驻证监会纪检组长。
+  cite: cs5-jiemian-2016-08-csrc-team
+  quote: 原任证监会纪委书记的王会民，则于去年12月开始担任中纪委驻证监会纪检组长
+
+# ---------- 民政部福彩中心 ----------
+- a: bao-xuequan
+  b: chen-chuanshu
+  kind: colleague
+  text: 陈传书、鲍学全、王素英先后任中国福利彩票发行管理中心主任，鲍学全接替陈传书。
+  cite: cs2-sina-2018-11-10-lottery-bjnews
+  quote: 福彩中心三任主任陈传书、鲍学全、王素英
+- a: wang-suying
+  b: bao-xuequan
+  kind: colleague
+  text: 王素英接替鲍学全任中国福利彩票发行管理中心主任。
+  cite: cs2-sina-2018-11-10-lottery-bjnews
+  quote: 福彩中心三任主任陈传书、鲍学全、王素英
+
+# ---------- 云南：曲靖、省委组织部、统战部 ----------
+- a: li-shisong
+  b: li-wenrong
+  kind: colleague
+  from: 2021-12
+  text: 李石松由曲靖市长接替李文荣任曲靖市委书记。
+  cite: k08-ce-2021-12-03-qujing
+  quote: 李文荣同志不再担任曲靖市委书记、常委、委员职务
+- a: li-gang-zzb
+  b: li-xiaosan
+  kind: colleague
+  from: 2021-07
+  text: 李刚由四川副省长调任云南省委组织部长，接替升任省委副书记的李小三。
+  cite: k08-ce-2021-07-21-li-gang
+  quote: 原任云南省委组织部部长的是李小三
+- a: yang-ning
+  b: huang-yi-yunnan
+  kind: colleague
+  from: 2017-01
+  text: 杨宁接替转任省政协副主席的黄毅任云南省委统战部长。
+  cite: k08-thepaper-1600308-yang-ning
+  quote: 在杨宁之前担任云南省委统战部部长的是黄毅
+
+# ---------- 辽宁：抚顺 ----------
+- a: wang-yang-liaoning
+  b: liu-qiang-liaoning
+  kind: colleague
+  from: 2008-02
+  to: 2010-08
+  text: 刘强由抚顺市长升任市委书记后，王阳接任抚顺市长，两人在抚顺搭班子至 2010 年 8 月王阳调回鞍山。
+  cite: k08-jsycjw-liu-qiang
+  quote: 刘强和王阳在抚顺搭班子两年
+
+# ---------- 广西：梧州 ----------
+- a: huang-junhua
+  b: liu-zhiyong-gx
+  kind: colleague
+  from: 2014-01
+  text: 黄俊华由桂林市长接替刘志勇任梧州市委书记。
+  cite: k08-ce-2014-01-28-wuzhou
+  quote: 黄俊华同志任中共梧州市委委员、常委、书记
+
+# ---------- 四川：南充 ----------
+- a: gu-zhengju
+  b: zhu-jiade
+  kind: colleague
+  from: 2023-02
+  text: 朱家德任南充市委书记时古正举任市长，朱家德当选四川省人大常委会副主任后由古正举接任市委书记。
+  cite: k08-ce-2023-02-16-nanchong
+  quote: 古正举同志任中共南充市委书记；朱家德同志不再担任中共南充市委书记、常委、委员职务
+- a: gao-xianhai
+  b: liu-hongjian-nanchong
+  kind: colleague
+  from: 2007-06
+  to: 2014-12
+  text: 刘宏建任南充市委书记兼市人大常委会主任时高先海任市长；2012 年 1 月高先海改任市人大常委会主任，接过刘宏建兼任的这一职务。
+  cite: k08-sc-jtt-2011-01-05-nanchong
+  quote: 南充市委书记、市人大常委会主任刘宏建，南充市委副书记、市长高先海
+
+# ---------- 中央纪委派驻机构 ----------
+- a: jia-yulin
+  b: qu-shuhui
+  kind: colleague
+  from: 2016-05
+  text: 贾育林接替转任驻国家民委的曲淑辉，任中央纪委驻民政部纪检组组长。
+  cite: k08-ce-2016-05-12-jia-yulin
+  quote: 曲淑辉不再担任民政部党组成员、中央纪委驻民政部纪检组组长职务
+- a: gong-tanghua
+  b: jia-yulin
+  kind: colleague
+  from: 2017-07
+  text: 龚堂华接替贾育林任中央纪委驻民政部纪检组组长。
+  cite: k08-ce-2017-07-05-mca
+  quote: 中纪委第三纪检监察室原主任龚堂华已接替贾育林
+- a: jia-yulin
+  b: fu-ziying
+  kind: colleague
+  from: 2017-07
+  text: 贾育林转任中央纪委驻中宣部纪检组组长，接替升任商务部副部长的傅自应，该职此前空缺四个月。
+  cite: k08-caixin-2017-07-18-jia-yulin
+  quote: 接班此前升任商务部国际贸易谈判代表、副部长的傅自应
+- a: yan-weiyao
+  b: wang-lishan
+  kind: colleague
+  from: 2026-01
+  text: 严维耀由中央纪委国家监委第二监督检查室主任升任驻全国人大机关纪检监察组组长，接替到龄的王立山。
+  cite: k08-caixin-2026-01-22-yan-weiyao
+  quote: 此前担任该职的王立山是十九、二十届中央纪委委员
+
+# ---------- 足协、航天 ----------
+- a: liu-yi
+  b: chen-xuyuan
+  kind: colleague
+  from: 2019-08
+  text: 陈戌源当选中国足协主席当天，由他提议、执委会表决，刘奕出任足协秘书长。
+  cite: k08-thepaper-4226998-liu-yi
+  quote: 由陈戌源主席提议，经表决通过，刘奕执委担任中国足球协会秘书长
+- a: cao-jianguo
+  b: xu-dazhe
+  kind: colleague
+  from: 2013-04
+  text: 许达哲转任航天科技集团董事长后，曹建国由副总经理接任航天科工集团总经理。
+  cite: k08-qingdaonews-2013-04-25-casic
+  quote: 中国航天科工集团公司原副总经理曹建国接任该集团公司总经理
+- a: zhang-zhongyang
+  b: wang-xiaojun
+  kind: colleague
+  to: 2024-01
+  text: 王小军被撤销全国政协委员资格前，火箭院院长一职已由航天科技集团总经理张忠阳兼任。
+  cite: c11-wiki-wang-xiaojun
+  quote: 院长一职已改由中国航天科技集团总经理张忠阳兼任
+
+# ---------- 银行业协会、证券业协会 ----------
+- a: huang-runzhong
+  b: tian-guoli
+  kind: colleague
+  from: 2016-09
+  text: 黄润中经中国银行业协会会长田国立提名，由理事会任命为协会秘书长。
+  cite: k08-ce-2016-09-14-cba
+  quote: 经田国立会长提名，中国银行业协会第七届十次理事会已审议并一致同意任命黄润中同志担任中国银行业协会秘书长
+- a: liu-feng-cba
+  b: guo-sanye
+  kind: colleague
+  from: 2020-12
+  text: 刘峰 2020 年 12 月任中国银行业协会秘书长，副秘书长郭三野是其下属。
+  cite: k08-sina-2024-12-28-cba
+  quote: 刘峰的下属，中国银行业协会原副秘书长郭三野
+- a: an-qingsong
+  b: chen-gongyan
+  kind: colleague
+  from: 2021-05
+  text: 安青松 2018 年起任中国证券业协会执行副会长，2021 年 5 月接替陈共炎任会长，陈共炎改任监事长。
+  cite: k08-ce-2021-05-28-sac
+  quote: 原执行副会长安青松当选为新一届中证协会长，原会长陈共炎当选监事长

@@ -1,0 +1,851 @@
+# K08: predecessors, successors and partners of case-essay people still without a relation (research/lists/R15-case-people-no-relation.txt)
+
+# ---------- 内蒙古：呼和浩特、包头、巴彦淖尔、赤峰 ----------
+- id: niu-yuru
+  name: 牛玉儒
+  gender: m
+  ethnicity: 蒙古族
+  born: 1952-11
+  died: 2004-08-14
+  birthplace: 内蒙古通辽
+  roles: [minister]
+  status: dead
+  statusNote: 2004 年 8 月 14 日在呼和浩特市委书记任上病逝于北京。
+  tier: 2
+  headline: 内蒙古自治区党委原常委、呼和浩特市委书记，2004 年任上病逝后被树为党员干部典型
+  ids: { wikidata: Q15908587 }
+  bio: >-
+    蒙古族，内蒙古通辽人。历任内蒙古自治区政府秘书长、包头市长、自治区副主席，2003 年 4 月接替杨晶任自治区党委常委、呼和浩特市委书记。2004 年 8 月病逝，中央纪委、中组部、中宣部等号召向他学习，包头市长、呼和浩特市委书记两职先后由韩志然接任。
+  positions:
+    - { title: 内蒙古自治区政府秘书长, sys: gov, place: 内蒙古, from: 1993-05, to: 1996-11, cite: k08-wiki-niu-yuru }
+    - { title: 包头市委副书记、市长, sys: gov, place: 内蒙古, from: 1996-11, to: 2001-02, cite: k08-12371-niu-yuru }
+    - { title: 内蒙古自治区副主席, sys: gov, place: 内蒙古, from: 2001-02, to: 2003-04, cite: k08-12371-niu-yuru }
+    - { title: 内蒙古自治区党委常委、呼和浩特市委书记, sys: party, place: 内蒙古, from: 2003-04, to: 2004-08, cite: k08-12371-niu-yuru }
+  cites: [k08-12371-niu-yuru, k08-wiki-niu-yuru, wd-Q15908587]
+
+- id: nashun-menghe
+  name: 那顺孟和
+  gender: m
+  ethnicity: 蒙古族
+  born: 1957-11
+  birthplace: 内蒙古巴林右旗
+  roles: [minister]
+  status: retired
+  statusNote: 2022 年 1 月卸任内蒙古自治区人大常委会副主任。
+  tier: 2
+  headline: 内蒙古自治区党委原常委、呼和浩特市委书记（2011–2016）
+  ids: { wikidata: Q9017678 }
+  bio: >-
+    蒙古族，内蒙古巴林右旗人。2003 年接替莫建成任通辽市长，后任通辽市委书记，2010 年 5 月接替王素毅任巴彦淖尔市委书记。2011 年 11 月任自治区党委常委兼呼和浩特市委书记，接替韩志然；2016 年因任职年龄卸任，由云光中接任，后任自治区人大常委会副主任。
+  positions:
+    - { title: 通辽市委副书记、市长, sys: gov, place: 内蒙古, from: 2003-03, to: 2006-09, cite: k08-wiki-nashun-menghe }
+    - { title: 通辽市委书记, sys: party, place: 内蒙古, from: 2006-09, to: 2010-05, cite: k08-wiki-nashun-menghe }
+    - { title: 巴彦淖尔市委书记, sys: party, place: 内蒙古, from: 2010-05, to: 2011-11, cite: k08-wiki-nashun-menghe }
+    - { title: 内蒙古自治区党委常委、呼和浩特市委书记, sys: party, place: 内蒙古, from: 2011-11, to: 2016-11, cite: k08-people-2011-11-17-nashun-menghe }
+    - { title: 内蒙古自治区人大常委会副主任, sys: gov, place: 内蒙古, from: 2017-01, to: 2022-01, cite: k08-wiki-nashun-menghe }
+  cites: [k08-people-2011-11-17-nashun-menghe, k08-wiki-nashun-menghe, wd-Q9017678]
+
+- id: guo-qijun
+  name: 郭启俊
+  gender: m
+  ethnicity: 汉族
+  born: 1952-12
+  birthplace: 陕西神木
+  roles: [minister]
+  status: retired
+  statusNote: 2013 年 1 月转任内蒙古自治区政协副主席，同年 8 月卸任包头市委书记。
+  tier: 2
+  headline: 内蒙古自治区原副主席、包头市委原书记（2010–2013）
+  ids: { wikidata: Q8298305 }
+  bio: >-
+    陕西神木人，曾在解放军服役，历任乌海市委副书记、自治区党委副秘书长、巴彦淖尔盟盟委书记和巴彦淖尔市委书记。2008 年 1 月当选内蒙古自治区副主席，2010 年 6 月接替莫建成兼任包头市委书记，2013 年转任自治区政协副主席，包头市委书记由王中和接任。
+  positions:
+    - { title: 巴彦淖尔盟盟委书记、巴彦淖尔市委书记, sys: party, place: 内蒙古, from: 2003-01, to: 2008-01, cite: k08-wiki-guo-qijun }
+    - { title: 内蒙古自治区副主席, sys: gov, place: 内蒙古, from: 2008-01, to: 2013-02, cite: k08-wiki-guo-qijun }
+    - { title: 包头市委书记, sys: party, place: 内蒙古, from: 2010-06, to: 2013-08, cite: k08-wiki-guo-qijun }
+    - { title: 内蒙古自治区政协副主席, sys: other, place: 内蒙古, from: 2013-01, cite: k08-ce-2013-08-20-baotou }
+  cites: [k08-wiki-guo-qijun, k08-ce-2013-08-20-baotou, wd-Q8298305]
+
+- id: zhang-yuanzhong
+  name: 张院忠
+  gender: m
+  ethnicity: 汉族
+  born: 1959-11
+  birthplace: 内蒙古包头
+  roles: [minister]
+  status: retired
+  statusNote: 2023 年 1 月卸任内蒙古自治区人大常委会副主任。
+  tier: 2
+  headline: 内蒙古自治区党委原常委、包头市委书记（2016–2020）
+  ids: { wikidata: Q28416070 }
+  bio: >-
+    内蒙古包头人，长期在呼和浩特任职，历任呼和浩特市常务副市长、自治区安监局局长、锡林郭勒盟盟委书记、自治区党委秘书长。2016 年 11 月接替王中和任包头市委书记，2020 年由孟凡利接任，后任自治区人大常委会副主任。
+  positions:
+    - { title: 呼和浩特市委常委、常务副市长, sys: gov, place: 内蒙古, from: 2004-04, to: 2006-09, cite: k08-wiki-zhang-yuanzhong }
+    - { title: 内蒙古自治区安全生产监督管理局局长, sys: gov, place: 内蒙古, from: 2010-04, to: 2013-06, cite: k08-ce-2016-12-01-zhang-yuanzhong }
+    - { title: 锡林郭勒盟盟委书记, sys: party, place: 内蒙古, from: 2015-02, to: 2016-02, cite: k08-ce-2016-12-01-zhang-yuanzhong }
+    - { title: 内蒙古自治区党委常委、秘书长, sys: party, place: 内蒙古, from: 2016-02, to: 2016-11, cite: k08-ce-2016-12-01-zhang-yuanzhong }
+    - { title: 内蒙古自治区党委常委、包头市委书记, sys: party, place: 内蒙古, from: 2016-11, to: 2020-09, cite: k08-wiki-zhang-yuanzhong }
+    - { title: 内蒙古自治区人大常委会副主任, sys: gov, place: 内蒙古, from: 2020-01, to: 2023-01, cite: k08-wiki-zhang-yuanzhong }
+  cites: [k08-ce-2016-12-01-zhang-yuanzhong, k08-wiki-zhang-yuanzhong, wd-Q28416070]
+
+- id: hang-guilin
+  name: 杭桂林
+  gender: m
+  ethnicity: 蒙古族
+  born: 1954-08
+  birthplace: 辽宁朝阳
+  roles: [minister]
+  status: retired
+  statusNote: 2012 年 2 月起任内蒙古自治区人大常委会副主任，此后卸任时间本站未查到。
+  tier: 2
+  headline: 内蒙古赤峰市委原书记（2005–2011）、自治区人大常委会原副主任
+  ids: { wikidata: Q11102662 }
+  bio: >-
+    蒙古族，辽宁朝阳人，宣传系统出身，历任内蒙古新闻出版局局长、呼和浩特市委副书记。2003 年任赤峰市长，2005 年 1 月至 2011 年 1 月任赤峰市委书记，书记职务由王中和接任；后任自治区人大常委会秘书长、副主任。
+  positions:
+    - { title: 内蒙古自治区新闻出版局局长, sys: gov, place: 内蒙古, from: 1995-11, to: 2001-09, cite: k08-nmgnews-2013-02-hang-guilin }
+    - { title: 呼和浩特市委副书记, sys: party, place: 内蒙古, from: 2001-09, to: 2003-03, cite: k08-nmgnews-2013-02-hang-guilin }
+    - { title: 赤峰市委副书记、市长, sys: gov, place: 内蒙古, from: 2003-03, to: 2005-01, cite: k08-nmgnews-2013-02-hang-guilin }
+    - { title: 赤峰市委书记, sys: party, place: 内蒙古, from: 2005-01, to: 2011-01, cite: k08-nmgnews-2013-02-hang-guilin }
+    - { title: 内蒙古自治区人大常委会副主任, sys: gov, place: 内蒙古, from: 2012-02, cite: k08-nmgnews-2013-02-hang-guilin }
+  cites: [k08-nmgnews-2013-02-hang-guilin, k08-wiki-hang-guilin, wd-Q11102662]
+
+# ---------- 铁路：国家铁路局、国铁集团、呼和浩特与昆明铁路局 ----------
+- id: liu-zhenfang
+  name: 刘振芳
+  gender: m
+  born: 1961-09
+  birthplace: 河北正定
+  roles: [minister]
+  status: retired
+  statusNote: 2024 年 10 月年满 63 岁退休，国铁集团董事长由郭竹学接任。
+  tier: 2
+  headline: 中国国家铁路集团原董事长（2022–2024）、国家铁路局原局长
+  ids: { wikidata: Q47670987 }
+  bio: >-
+    河北正定人，铁路系统出身。2011 年接替闻清良任昆明铁路局局长，后任南昌、北京铁路局局长和中国铁路总公司副总经理；2019 年 11 月起任国家铁路局局长、党组书记，2022 年 7 月任国铁集团董事长，国家铁路局由费东斌接任，2024 年 10 月退休。
+  positions:
+    - { title: 昆明铁路局局长, sys: other, place: 云南, from: 2011-08, to: 2013-01, cite: k08-wiki-liu-zhenfang }
+    - { title: 南昌铁路局局长, sys: other, place: 江西, from: 2013-01, to: 2014-08, cite: k08-wiki-liu-zhenfang }
+    - { title: 北京铁路局局长, sys: other, place: 北京, from: 2014-08, to: 2017-03, cite: k08-wiki-liu-zhenfang }
+    - { title: 中国铁路总公司副总经理, sys: other, from: 2017-03, to: 2019-11, cite: k08-wiki-liu-zhenfang }
+    - { title: 交通运输部党组成员，国家铁路局局长、党组书记, sys: gov, from: 2019-11, to: 2022-07, cite: k08-bjnews-2022-09-27-fei-dongbin }
+    - { title: 中国国家铁路集团有限公司董事长、党组书记, sys: other, from: 2022-07, to: 2024-10, cite: k08-wiki-liu-zhenfang }
+  cites: [k08-wiki-liu-zhenfang, k08-bjnews-2022-09-27-fei-dongbin, k08-jfdaily-2022-09-rail-chiefs, wd-Q47670987]
+
+- id: yang-yudong
+  name: 杨宇栋
+  gender: m
+  born: 1968-11-16
+  birthplace: 辽宁绥中
+  roles: [ccdi]
+  status: active
+  statusNote: 2022 年 7 月起任中华全国总工会副主席、书记处书记。
+  tier: 2
+  headline: 中华全国总工会副主席，国家铁路局原局长、国铁集团原总经理
+  ids: { wikidata: Q47671008 }
+  bio: >-
+    辽宁绥中人，铁路系统出身，十九届中央纪委委员。2011 年至 2013 年接替林奋强任呼和浩特铁路局局长，后由费东斌接任；2016 年 12 月任交通运输部副部长、国家铁路局局长，2018 年 12 月改任中国铁路总公司总经理，2022 年 7 月调任全国总工会副主席。
+  positions:
+    - { title: 中铁快运股份有限公司董事长、总经理, sys: other, from: 2007-12, to: 2011-06, cite: k08-wiki-yang-yudong }
+    - { title: 呼和浩特铁路局局长, sys: other, place: 内蒙古, from: 2011-06, to: 2013-01, cite: k08-wiki-yang-yudong }
+    - { title: 北京铁路局局长, sys: other, place: 北京, from: 2013-01, to: 2014-08, cite: k08-wiki-yang-yudong }
+    - { title: 中国铁路总公司副总经理, sys: other, from: 2014-08, to: 2016-12, cite: k08-wiki-yang-yudong }
+    - { title: 交通运输部副部长、国家铁路局局长, sys: gov, from: 2016-12, to: 2018-12, cite: k08-wiki-yang-yudong }
+    - { title: 中国铁路总公司（国铁集团）总经理, sys: other, from: 2018-12, to: 2022-07, cite: k08-wiki-yang-yudong }
+    - { title: 中华全国总工会副主席、书记处书记, sys: other, from: 2022-07, cite: k08-wiki-yang-yudong }
+  cites: [k08-wiki-yang-yudong, k08-jfdaily-2022-09-rail-chiefs, wd-Q47671008]
+
+# ---------- 广西：桂林 ----------
+- id: zhao-leqin
+  name: 赵乐秦
+  gender: m
+  ethnicity: 汉族
+  born: 1960-01-01
+  birthplace: 陕西西安
+  roles: [minister]
+  status: retired
+  statusNote: 2023 年 1 月卸任广西壮族自治区人大常委会副主任。
+  tier: 2
+  headline: 广西桂林市委原书记（2013–2021），赵乐际之弟
+  ids: { wikidata: Q15909019 }
+  bio: >-
+    陕西西安人，赵乐际之弟。长期在陕西任职，曾任陕西省交通厅副厅长、汉中市长；2008 年调广西任贺州市委书记，后任崇左市委书记，2013 年接替刘君任桂林市委书记，2018 年当选广西人大常委会副主任，2021 年 2 月桂林市委书记由周家斌接任。
+  positions:
+    - { title: 陕西省交通厅副厅长, sys: gov, place: 陕西, from: 2001-02, to: 2005-08, cite: k08-wiki-zhao-leqin }
+    - { title: 汉中市委副书记、市长, sys: gov, place: 陕西, from: 2005-08, to: 2008-01, cite: k08-wiki-zhao-leqin }
+    - { title: 贺州市委书记, sys: party, place: 广西, from: 2008-01, to: 2010-01, cite: k08-cyol-2021-02-10-guilin }
+    - { title: 崇左市委书记, sys: party, place: 广西, from: 2010-01, to: 2013-02, cite: k08-wiki-zhao-leqin }
+    - { title: 桂林市委书记, sys: party, place: 广西, from: 2013-02, to: 2021-02, cite: k08-wiki-zhao-leqin }
+    - { title: 广西壮族自治区人大常委会副主任, sys: gov, place: 广西, from: 2018-01, to: 2023-01, cite: k08-wiki-zhao-leqin }
+  cites: [k08-wiki-zhao-leqin, k08-cyol-2021-02-10-guilin, wd-Q15909019]
+
+# ---------- 三峡集团 ----------
+- id: lu-chun
+  name: 卢纯
+  gender: m
+  ethnicity: 汉族
+  born: 1955-05
+  birthplace: 湖北
+  origin: 河南息县
+  roles: [biz]
+  status: retired
+  statusNote: 2018 年 8 月卸任三峡集团董事长，由雷鸣山接任；2019 年为全国政协常委。
+  tier: 2
+  headline: 中国长江三峡集团原董事长、党组书记（2014–2018）
+  bio: >-
+    生于湖北，祖籍河南息县，管理学博士。长期在国务院三峡工程建设委员会系统任职，2008 年任三峡办党组副书记、副主任；2014 年 3 月接替曹广晶任三峡集团董事长、党组书记，2018 年 8 月卸任，后为全国政协常委。
+  positions:
+    - { title: 国务院三峡工程建设委员会移民开发局党组成员、纪检组组长, sys: gov, from: 1998, cite: k08-ce-2018-08-31-ctg }
+    - { title: 国务院三峡工程建设委员会办公室党组成员、副主任, sys: gov, from: 2003-01, to: 2008-06, cite: k08-ce-2018-08-31-ctg }
+    - { title: 国务院三峡工程建设委员会办公室党组副书记、副主任, sys: gov, from: 2008-06, to: 2014-03, cite: k08-ce-2018-08-31-ctg }
+    - { title: 中国长江三峡集团公司董事长、党组书记, sys: other, from: 2014-03, to: 2018-08, cite: k08-chinanews-2014-03-25-ctg }
+  cites: [k08-chinanews-2014-03-25-ctg, k08-ce-2018-08-31-ctg, k08-rmzxw-2019-03-02-lu-chun]
+
+# ---------- 四川、宁夏：纪委书记、政法委书记 ----------
+- id: wang-huaichen
+  name: 王怀臣
+  gender: m
+  born: 1953-12
+  birthplace: 河北大名
+  roles: [minister]
+  status: retired
+  statusNote: 2015 年 5 月卸任四川省纪委书记，此后任中央巡视组组长。
+  tier: 2
+  headline: 四川省委原常委、政法委书记、省纪委书记，邓力群原秘书
+  ids: { wikidata: Q9065442 }
+  bio: >-
+    河北大名人，曾任邓力群秘书，后任中国社科院当代中国研究所秘书长、成都市委副书记、四川省副省长。2007 年 5 月接替欧泽高任四川省委常委、政法委书记，2011 年改兼省纪委书记，2015 年 5 月由王雁飞接任，此后任中央巡视组组长。
+  positions:
+    - { title: 四川省委常委、政法委书记, sys: party, place: 四川, from: 2007-05, to: 2011-11, cite: k08-wiki-wang-huaichen }
+    - { title: 四川省委常委、省纪委书记, sys: party, place: 四川, from: 2011-09, to: 2015-05, cite: k08-wiki-wang-huaichen }
+    - { title: 中央第十二巡视组组长, sys: party, from: 2015-07, cite: k08-wiki-wang-huaichen }
+    - { title: 中央第一巡视组组长, sys: party, from: 2016, cite: k08-wiki-wang-huaichen }
+  cites: [k08-wiki-wang-huaichen, k08-people-2015-05-20-wang-yanfei, wd-Q9065442]
+
+- id: liao-jianyu
+  name: 廖建宇
+  gender: m
+  born: 1964-04
+  birthplace: 四川开县（今属重庆）
+  roles: [ccdi]
+  status: active
+  statusNote: 2021 年 11 月起任四川省委常委、省纪委书记、省监委主任。
+  tier: 2
+  headline: 四川省委常委、省纪委书记（2021– ），辽宁省纪委原书记
+  ids: { wikidata: Q30947855 }
+  bio: >-
+    四川开县（今属重庆）人，长期在贵州省委办公厅和省纪委任职，曾任贵州省监察厅厅长、中央纪委第十二纪检监察室主任。2017 年任辽宁省委常委、省纪委书记，2021 年 11 月接替王雁飞任四川省委常委、省纪委书记。
+  positions:
+    - { title: 贵州省纪委副书记, sys: party, place: 贵州, from: 2008-12, to: 2012-05, cite: k08-wiki-liao-jianyu }
+    - { title: 贵州省监察厅厅长, sys: gov, place: 贵州, from: 2012-05, to: 2015-11, cite: k08-wiki-liao-jianyu }
+    - { title: 中央纪委第十二纪检监察室主任, sys: party, from: 2015-11, to: 2017-05, cite: k08-wiki-liao-jianyu }
+    - { title: 辽宁省委常委、省纪委书记, sys: party, place: 辽宁, from: 2017-05, to: 2021-11, cite: k08-wiki-liao-jianyu }
+    - { title: 四川省委常委、省纪委书记, sys: party, place: 四川, from: 2021-11, cite: k08-scjc-2021-11-19-liao-jianyu }
+  cites: [k08-scjc-2021-11-19-liao-jianyu, k08-ce-2021-12-04-wang-yanfei, k08-wiki-liao-jianyu, wd-Q30947855]
+
+- id: su-deliang
+  name: 苏德良
+  gender: m
+  born: 1960-01
+  birthplace: 浙江嵊州
+  roles: [ccdi, minister]
+  status: retired
+  statusNote: 2022 年 7 月卸任中央纪委国家监委驻最高检纪检监察组组长。
+  tier: 2
+  headline: 国家安全部原副部长、宁夏回族自治区党委原政法委书记
+  ids: { wikidata: Q9043745 }
+  bio: >-
+    浙江嵊州人，国家安全系统出身，十九届中央纪委委员。早年在上海、海南国家安全机关任职，2002 年调宁夏，历任国家安全厅、公安厅厅长，2007 年任宁夏党委常委、政法委书记；2013 年两职由王雁飞接任，他调任国家安全部政治部主任，2015 年任副部长。
+  positions:
+    - { title: 宁夏回族自治区公安厅厅长, sys: gov, place: 宁夏, from: 2005-03, to: 2013-05, cite: k08-wiki-su-deliang }
+    - { title: 宁夏回族自治区党委常委、政法委书记, sys: party, place: 宁夏, from: 2007-06, to: 2013-05, cite: k08-wiki-su-deliang }
+    - { title: 国家安全部政治部主任, sys: gov, from: 2013-05, to: 2015-08, cite: k08-thepaper-2018-06-spp }
+    - { title: 国家安全部副部长, sys: gov, from: 2015-08, to: 2018-06, cite: k08-thepaper-2018-06-spp }
+    - { title: 中央纪委国家监委驻最高人民检察院纪检监察组组长, sys: party, from: 2018-06, to: 2022-07, cite: k08-wiki-su-deliang }
+  cites: [k08-thepaper-2018-06-spp, k08-people-2013-05-21-ningxia, k08-wiki-su-deliang, wd-Q9043745]
+
+# ---------- 广东：统战部长、宣传部长、茂名 ----------
+- id: li-tongshu
+  name: 李统书
+  gender: m
+  born: 1946-06
+  birthplace: 广东普宁
+  roles: [minister]
+  status: retired
+  statusNote: 2007 年 4 月不再兼任广东省委统战部部长，2008 年卸任广东省政协副主席。
+  tier: 2
+  headline: 广东省委原常委、统战部部长，汕头市委原书记
+  ids: { wikidata: Q97850285 }
+  bio: >-
+    广东普宁人，军人出身，1984 年转业到深圳，历任深圳市委秘书长、市纪委书记、市委副书记兼政法委书记，2001 年任汕头市委书记。2004 年接替朱小丹任广东省委常委、统战部部长，兼省政协副主席；2007 年 4 月统战部长一职由周镇宏接任。
+  positions:
+    - { title: 汕头市委书记, sys: party, place: 广东, from: 2001, to: 2004, cite: k08-wiki-li-tongshu }
+    - { title: 广东省委常委、统战部部长, sys: party, place: 广东, from: 2004, to: 2007-04, cite: k08-wiki-li-tongshu }
+    - { title: 广东省政协副主席, sys: other, place: 广东, from: 2004, to: 2008, cite: k08-wiki-li-tongshu }
+  cites: [k08-wiki-li-tongshu, k08-cctv-2007-04-28-guangdong, wd-Q97850285]
+
+- id: lin-xiong
+  name: 林雄
+  gender: m
+  born: 1959-05
+  birthplace: 海南临高
+  roles: [minister]
+  status: retired
+  statusNote: 2023 年 1 月卸任广东省政协副主席。
+  tier: 2
+  headline: 广东省委原常委、宣传部长（2006–2012）、统战部长，温家宝原秘书
+  ids: { wikidata: Q8998693 }
+  bio: >-
+    海南临高人，曾在中办工作并任温家宝秘书，后任东莞市委副书记、茂名市长、肇庆市委书记。2006 年 7 月接替朱小丹任广东省委常委、宣传部长，2012 年 5 月接替周镇宏改任统战部长，宣传部长由庹震接任；2017 年当选广东省政协副主席。
+  positions:
+    - { title: 茂名市委副书记、市长, sys: gov, place: 广东, from: 2001-04, to: 2003-04, cite: k08-wiki-lin-xiong }
+    - { title: 肇庆市委书记, sys: party, place: 广东, from: 2003-04, to: 2006-07, cite: k08-wiki-lin-xiong }
+    - { title: 广东省委常委、宣传部部长, sys: party, place: 广东, from: 2006-07, to: 2012-05, cite: k08-ce-2012-05-14-lin-xiong }
+    - { title: 广东省委常委、统战部部长, sys: party, place: 广东, from: 2012-05, to: 2017-05, cite: k08-wiki-lin-xiong }
+    - { title: 广东省政协副主席, sys: other, place: 广东, from: 2017-01, to: 2023-01, cite: k08-wiki-lin-xiong }
+  cites: [k08-wiki-lin-xiong, k08-ce-2012-05-14-lin-xiong, wd-Q8998693]
+
+- id: luo-yinguo
+  name: 罗荫国
+  gender: m
+  born: 1954-04
+  died: 2016-07-22
+  birthplace: 广东高州
+  roles: [tiger]
+  status: dead
+  statusNote: 被中山中院以受贿、巨额财产来源不明罪判处死缓，2016 年 7 月 22 日在服刑期间因胃癌病逝。
+  fall:
+    - { date: 2011-02, text: 在茂名市委书记任上因涉嫌职务犯罪被刑事拘留，随后牵出茂名窝案, cite: k08-wiki-luo-yinguo }
+  tier: 2
+  headline: 广东茂名市委原书记，茂名窝案主角，死缓服刑中病逝
+  ids: { wikidata: Q18109390 }
+  bio: >-
+    广东高州人，曾任高州市委书记、茂名市委秘书长，2003 年接替林雄任茂名市长，2007 年 4 月接替调任省委统战部长的周镇宏任茂名市委书记。2011 年 2 月被刑拘，牵出涉及数百名官员的茂名窝案，后被判处死缓，2016 年在狱中病逝。
+  positions:
+    - { title: 茂名市委副书记、市长, sys: gov, place: 广东, from: 2003-04, to: 2007-04, cite: k08-wiki-luo-yinguo }
+    - { title: 茂名市委书记, sys: party, place: 广东, from: 2007-04, to: 2011-02, cite: k08-cctv-2007-04-28-guangdong }
+    - { title: 茂名市人大常委会主任, sys: gov, place: 广东, from: 2007-11, to: 2011-02, cite: k08-wiki-luo-yinguo }
+  cites: [k08-wiki-luo-yinguo, k08-cctv-2007-04-28-guangdong, wd-Q18109390]
+
+# ---------- 北京：市政府秘书长、副市长 ----------
+- id: jin-wei
+  name: 靳伟
+  gender: m
+  ethnicity: 汉族
+  born: 1972-05
+  birthplace: 山西长治
+  roles: [minister]
+  status: active
+  statusNote: 2022 年 6 月当选北京市委常委，此前任北京市副市长。
+  tier: 2
+  headline: 北京市委常委，北京市原副市长、市政府秘书长，首钢集团原董事长
+  ids: { wikidata: Q51103218 }
+  bio: >-
+    山西长治人，钢铁冶金专业出身。历任北京市经济和信息化委员会主任、首钢总公司党委书记和董事长，2018 年 3 月接替李伟任北京市政府秘书长，2020 年 11 月任北京市副市长，2022 年 6 月当选北京市委常委。
+  positions:
+    - { title: 北京市经济和信息化委员会主任, sys: gov, place: 北京, from: 2012-05, to: 2017-05, cite: k08-ce-2018-03-01-jin-wei }
+    - { title: 首钢总公司党委书记、董事长, sys: other, place: 北京, from: 2017-05, to: 2018-03, cite: k08-ce-2018-03-01-jin-wei }
+    - { title: 北京市人民政府秘书长, sys: gov, place: 北京, from: 2018-03, to: 2021-09, cite: k08-wiki-jin-wei }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 2020-11, cite: k08-wiki-jin-wei }
+    - { title: 北京市委常委, sys: party, place: 北京, from: 2022-06, cite: k08-wiki-jin-wei }
+  cites: [k08-ce-2018-03-01-jin-wei, k08-wiki-jin-wei, wd-Q51103218]
+
+- id: liu-zhihua
+  name: 刘志华
+  gender: m
+  born: 1949-04-06
+  birthplace: 辽宁盘锦
+  roles: [tiger]
+  status: detained
+  statusNote: 2009 年 1 月河北高院终审维持死缓判决。
+  fall:
+    - { date: 2006-06-11, text: 被北京市人大常委会免去副市长职务, cite: k08-wiki-liu-zhihua }
+    - { date: 2008-10-18, text: 衡水中院以受贿罪判处死刑缓期二年执行，认定其受贿 696.59 万元, cite: k08-sohu-2008-10-19-liu-zhihua }
+    - { date: 2009-01-21, text: 河北高院二审裁定驳回上诉、维持原判, cite: k08-sina-2009-01-21-liu-zhihua }
+  tier: 2
+  headline: 北京市原副市长，分管奥运基建，2008 年以受贿罪被判死缓
+  ids: { wikidata: Q699925 }
+  bio: >-
+    辽宁盘锦人，曾在北京市劳动局、劳动部和西城区任职，1998 年任北京市副市长，兼任中关村科技园区管委会主任，分管奥运会基建、基本建设和国土房管。2006 年 6 月被免职，2008 年 10 月被衡水中院以受贿罪判处死缓，次年终审维持；副市长一职 2007 年由陈刚接替。
+  positions:
+    - { title: 北京市劳动局、劳动部、西城区任职, sys: gov, place: 北京, to: 1998, cite: k08-wiki-liu-zhihua }
+    - { title: 北京市副市长, sys: gov, place: 北京, from: 1998, to: 2006-06, cite: k08-wiki-liu-zhihua }
+    - { title: 中关村科技园区管委会主任, sys: gov, place: 北京, cite: k08-sohu-2008-10-19-liu-zhihua }
+  cites: [k08-sohu-2008-10-19-liu-zhihua, k08-sina-2009-01-21-liu-zhihua, k08-wiki-liu-zhihua, wd-Q699925]
+
+# ---------- 中信银行 ----------
+- id: li-qingping
+  name: 李庆萍
+  gender: f
+  born: 1962-10
+  roles: [biz, tiger]
+  status: purged
+  statusNote: 2022 年 10 月到龄退休。据财新 2023 年 12 月报道，她受谢宏儒案牵扯被追责降级；维基百科称其被开除党籍、待遇由厅局级降为科级。官方未公开通报。
+  fall:
+    - { date: 2023, text: 因卷入中信银行原广州分行行长谢宏儒案被追责，开除党籍，行政待遇从厅局级降为科级, cite: k08-wiki-li-qingping }
+    - { date: 2023-12-28, text: 财新报道其仍被追责而降级，纪检部门曾查过一轮, cite: k08-caixin-2023-12-28-li-qingping }
+  tier: 2
+  headline: 中信银行原董事长（2016–2021），2023 年受谢宏儒案牵扯被追责降级
+  bio: >-
+    南开大学国际金融硕士，长期在中国农业银行工作，曾任农行广西分行行长、零售业务总监。2013 年交流到中信集团，2014 年任中信银行行长，2016 年 6 月接替常振明任董事长，与接任行长的孙德顺搭班；2022 年退休，2023 年被追责降级。
+  positions:
+    - { title: 中国农业银行广西分行党委书记、行长, sys: other, place: 广西, from: 2007-01, to: 2008-12, cite: k08-wiki-li-qingping }
+    - { title: 中国农业银行零售业务总监兼个人金融部总经理, sys: other, from: 2009-05, to: 2013-09, cite: k08-wiki-li-qingping }
+    - { title: 中信股份副总经理, sys: other, from: 2013-09, cite: k08-thepaper-2016-06-30-citic-bank }
+    - { title: 中信银行执行董事、行长, sys: other, from: 2014-05, to: 2016-06, cite: k08-wiki-li-qingping }
+    - { title: 中信银行董事长, sys: other, from: 2016-06, to: 2021-03, cite: k08-wiki-li-qingping }
+    - { title: 中信集团副总经理、中信金融控股有限公司总经理, sys: other, from: 2021-03, to: 2022-10, cite: k08-caixin-2023-12-28-li-qingping }
+  cites: [k08-thepaper-2016-06-30-citic-bank, k08-caixin-2023-12-28-li-qingping, k08-wiki-li-qingping]
+
+# ---------- 山西：大同 ----------
+- id: guo-liangxiao
+  name: 郭良孝
+  gender: m
+  born: 1952-01-02
+  birthplace: 山西孝义
+  roles: [minister]
+  status: retired
+  statusNote: 2013 年 1 月因年龄原因卸任山西省政协副主席。
+  tier: 2
+  headline: 山西大同市委原书记（2006–2008）、山西省政协原副主席
+  ids: { wikidata: Q8963471 }
+  bio: >-
+    山西孝义人，历任山西省政府驻天津办事处主任、阳泉市长，2003 年任大同市长。2006 年 2 月升任大同市委书记，与接任市长的丰立祥搭班；2008 年 1 月当选山西省政协副主席，大同市委书记由丰立祥接任。
+  positions:
+    - { title: 山西省政府驻天津办事处主任, sys: gov, place: 天津, cite: k08-wiki-guo-liangxiao }
+    - { title: 大同市长, sys: gov, place: 山西, from: 2003-06, to: 2006-03, cite: k08-wiki-guo-liangxiao }
+    - { title: 大同市委书记, sys: party, place: 山西, from: 2006-02, to: 2008-01, cite: k08-sina-2006-02-28-datong }
+    - { title: 山西省政协副主席, sys: other, place: 山西, from: 2008-01, to: 2013-01, cite: k08-wiki-guo-liangxiao }
+  cites: [k08-sina-2006-02-28-datong, k08-wiki-guo-liangxiao, wd-Q8963471]
+
+- id: zhang-jifu
+  name: 张吉福
+  gender: m
+  ethnicity: 汉族
+  born: 1964-09-06
+  birthplace: 天津
+  roles: [minister]
+  status: active
+  statusNote: 2025 年 1 月起任山西省政协党组副书记、副主席。
+  tier: 2
+  headline: 山西省政协副主席，大同市委原书记（2015–2021）、山西省原常务副省长
+  ids: { wikidata: Q21017066 }
+  bio: >-
+    天津人，工学博士，外贸系统出身，历任北京市投资促进局局长、平谷区长、平谷区委书记。2015 年 8 月接替落马的丰立祥任大同市委书记，2016 年任山西省委常委，2021 年接替胡玉亭任常务副省长，2022 年改任宣传部长，2025 年任山西省政协副主席。
+  positions:
+    - { title: 北京市投资促进局局长, sys: gov, place: 北京, from: 2006-06, to: 2010-03, cite: k08-wiki-zhang-jifu }
+    - { title: 北京市平谷区区长, sys: gov, place: 北京, from: 2010-03, to: 2013-03, cite: k08-wiki-zhang-jifu }
+    - { title: 北京市平谷区委书记, sys: party, place: 北京, from: 2013-03, to: 2015-08, cite: k08-wiki-zhang-jifu }
+    - { title: 大同市委书记, sys: party, place: 山西, from: 2015-08, to: 2021-11, cite: k08-people-2015-08-06-zhang-jifu }
+    - { title: 山西省委常委、常务副省长, sys: gov, place: 山西, from: 2021-11, to: 2022-12, cite: k08-wiki-zhang-jifu }
+    - { title: 山西省委常委、宣传部部长, sys: party, place: 山西, from: 2022-12, to: 2024-12, cite: k08-wiki-zhang-jifu }
+    - { title: 山西省政协副主席, sys: other, place: 山西, from: 2025-01, cite: k08-wiki-zhang-jifu }
+  cites: [k08-people-2015-08-06-zhang-jifu, k08-wiki-zhang-jifu, wd-Q21017066]
+
+# ---------- 保险：中国人寿、中国太平、中国人保 ----------
+- id: yang-mingsheng
+  name: 杨明生
+  gender: m
+  born: 1955-08
+  birthplace: 辽宁海城
+  roles: [biz, ccdi]
+  status: retired
+  statusNote: 2018 年 9 月卸任中国人寿集团董事长，由王滨接任；2018 年起为十三届全国政协委员。
+  tier: 2
+  headline: 中国农业银行原行长、中国人寿集团原董事长（2012–2018）
+  ids: { wikidata: Q19852811 }
+  bio: >-
+    辽宁海城人，南开大学金融系毕业，1980 年进入中国农业银行，2003 年至 2007 年任农行行长，后任保监会副主席。2012 年调任中国人寿集团总裁、董事长，十八届中央纪委委员，2016 年兼任广发银行董事长，2018 年 9 月由王滨接任国寿董事长。
+  positions:
+    - { title: 中国农业银行党委书记、行长, sys: other, from: 2003-09, to: 2007-07, cite: k08-thepaper-2018-09-07-china-life }
+    - { title: 中国保险监督管理委员会副主席, sys: gov, from: 2007-07, to: 2012-03, cite: k08-thepaper-2018-09-07-china-life }
+    - { title: 中国人寿保险（集团）公司总裁、党委书记, sys: other, from: 2012-03, to: 2018-09, cite: k08-wiki-yang-mingsheng }
+    - { title: 中国人寿保险（集团）公司董事长, sys: other, from: 2012-05, to: 2018-09, cite: k08-wiki-yang-mingsheng }
+    - { title: 广发银行董事长, sys: other, from: 2016-09, to: 2018-12, cite: k08-wiki-yang-mingsheng }
+  cites: [k08-thepaper-2018-09-07-china-life, k08-wiki-yang-mingsheng, wd-Q19852811]
+
+- id: bai-tao
+  name: 白涛
+  gender: m
+  ethnicity: 汉族
+  born: 1963
+  birthplace: 河南
+  roles: [biz]
+  status: retired
+  statusNote: 2024 年 8 月卸任中国人寿党委书记，2025 年 3 月因工作变动辞去广发银行董事长，新职未见公布。
+  tier: 2
+  headline: 中国人寿集团原董事长（2022–2024）、国投集团原董事长
+  ids: { wikidata: Q111693002 }
+  bio: >-
+    河南人，经济学博士，在中国工商银行工作约 30 年，后任中国人寿副总裁、中央汇金总经理、中国人保总裁、国投集团董事长。2022 年 1 月接替被查的王滨任中国人寿党委书记，同年 3 月任董事长，2024 年 8 月由蔡希良接任。
+  positions:
+    - { title: 中国人寿集团副总裁, sys: other, from: 2014-06, to: 2016-10, cite: k08-wiki-bai-tao }
+    - { title: 中投公司副总经理、中央汇金执行董事兼总经理, sys: other, from: 2016-10, to: 2018-06, cite: k08-wiki-bai-tao }
+    - { title: 中国人保副董事长、总裁, sys: other, from: 2018-06, to: 2020-01, cite: k08-wiki-bai-tao }
+    - { title: 国家开发投资集团董事长, sys: other, from: 2020-01, to: 2022-01, cite: k08-wiki-bai-tao }
+    - { title: 中国人寿保险（集团）公司党委书记、董事长, sys: other, from: 2022-01, to: 2024-08, cite: k08-sina-2025-03-12-bai-tao }
+    - { title: 广发银行董事长, sys: other, to: 2025-03, cite: k08-sina-2025-03-12-bai-tao }
+  cites: [k08-sina-2025-03-12-bai-tao, k08-wiki-bai-tao, wd-Q111693002]
+
+- id: luo-xi
+  name: 罗熹
+  gender: m
+  ethnicity: 汉族
+  born: 1960-12
+  birthplace: 江西上高
+  roles: [biz]
+  status: retired
+  statusNote: 2023 年 2 月不再任中国人保党委书记，3 月卸任董事长；卸任前人保寿险要求员工学习其“金句”的通知引发争议。
+  tier: 2
+  headline: 中国人保集团原董事长（2020–2023）、中国太平原董事长，华润集团原总经理
+  ids: { wikidata: Q8744468 }
+  bio: >-
+    江西上高人，先后任中国农业银行、中国工商银行副行长，2016 年任华润集团副董事长、总经理。2018 年 9 月接替王滨任中国太平董事长，2020 年 9 月接替缪建民任中国人保党委书记、董事长，2023 年卸任。
+  positions:
+    - { title: 中国农业银行副行长, sys: other, from: 2004, to: 2009-12, cite: k08-wiki-luo-xi }
+    - { title: 中国工商银行副行长, sys: other, from: 2009-12, to: 2016-01, cite: k08-wiki-luo-xi }
+    - { title: 华润（集团）有限公司副董事长、总经理, sys: other, from: 2016-01, to: 2018-09, cite: k08-wiki-luo-xi }
+    - { title: 中国太平保险集团党委书记、董事长, sys: other, from: 2018-09, to: 2020-09, cite: k08-thepaper-2018-09-07-china-life }
+    - { title: 中国人民保险集团党委书记、董事长, sys: other, from: 2020-09, to: 2023-03, cite: k08-jiemian-2020-09-08-picc }
+  cites: [k08-jiemian-2020-09-08-picc, k08-wiki-luo-xi, wd-Q8744468]
+
+# ---------- 国家开发银行 ----------
+- id: zheng-zhijie
+  name: 郑之杰
+  gender: m
+  born: 1958-05
+  roles: [biz]
+  status: retired
+  statusNote: 2019 年 10 月卸任国家开发银行行长，后为十三届全国政协委员。
+  tier: 2
+  headline: 国家开发银行原行长（2012–2019）
+  ids: { wikidata: Q51510811 }
+  bio: >-
+    长期在中国建设银行任职，历任建行北京分行行长、行长助理、副行长，中国建银投资有限责任公司总裁、国家开发银行副行长。2012 年起任国开行行长、党委副书记，先后与董事长胡怀邦、赵欢搭班，2019 年 10 月由欧阳卫民接任。
+  positions:
+    - { title: 中国建设银行北京分行行长, sys: other, place: 北京, cite: k08-thepaper-2019-10-24-cdb }
+    - { title: 中国建设银行副行长, sys: other, cite: k08-thepaper-2019-10-24-cdb }
+    - { title: 中国建银投资有限责任公司总裁, sys: other, cite: k08-thepaper-2019-10-24-cdb }
+    - { title: 国家开发银行行长、党委副书记, sys: other, from: 2012-10, to: 2019-10, cite: k08-wiki-cdb }
+  cites: [k08-thepaper-2019-10-24-cdb, k08-wiki-cdb, k08-wiki-zheng-zhijie, wd-Q51510811]
+
+- id: tan-jiong
+  name: 谭炯
+  gender: m
+  ethnicity: 汉族
+  born: 1966-06
+  birthplace: 湖北汉川
+  roles: [biz]
+  status: active
+  statusNote: 2026 年 7 月起任中国人民保险集团党委书记。
+  tier: 2
+  headline: 中国人保集团党委书记，国家开发银行原行长（2023–2026）
+  ids: { wikidata: Q97194031 }
+  bio: >-
+    湖北汉川人，长期在中国银行任职，2017 年任工商银行副行长，2019 年任贵州省副省长，2022 年接替赵德明任贵州省委常委、统战部长。2023 年接替欧阳卫民任国家开发银行行长，与董事长赵欢搭班，2026 年 7 月调任中国人保党委书记。
+  positions:
+    - { title: 中国工商银行副行长, sys: other, from: 2017, to: 2019-09, cite: k08-nbd-2023-02-17-tan-jiong }
+    - { title: 贵州省副省长, sys: gov, place: 贵州, from: 2019-09, to: 2022-05, cite: k08-nbd-2023-02-17-tan-jiong }
+    - { title: 贵州省委常委、统战部部长, sys: party, place: 贵州, from: 2022-05, to: 2023-02, cite: k08-wiki-tan-jiong }
+    - { title: 国家开发银行副董事长、行长, sys: other, from: 2023-05, to: 2026-07, cite: k08-thepaper-2023-05-tan-jiong }
+    - { title: 中国人民保险集团党委书记, sys: other, from: 2026-07, cite: k08-wiki-tan-jiong }
+  cites: [k08-nbd-2023-02-17-tan-jiong, k08-thepaper-2023-05-tan-jiong, k08-wiki-tan-jiong, wd-Q97194031]
+
+# ---------- 纪检：驻国资委纪检组、贵州与山东纪委 ----------
+- id: chen-chaoying
+  name: 陈超英
+  gender: m
+  ethnicity: 汉族
+  born: 1958-11
+  birthplace: 河北蠡县
+  roles: [ccdi]
+  status: retired
+  statusNote: 2022 年 9 月卸任中央纪委国家监委驻国资委纪检监察组组长，同年 10 月不再任国家监委委员。
+  tier: 2
+  headline: 河北省纪委原书记、中央纪委驻国资委纪检监察组原组长
+  ids: { wikidata: Q8941358 }
+  bio: >-
+    河北蠡县人，船舶工业科研出身，曾任七〇七研究所所长、天津市委常委、辽宁省副省长和省委秘书长。2014 年任河北省委常委、省纪委书记，2018 年任中央纪委驻国务院国资委纪检组组长，十九届中央纪委常委，2022 年 9 月由龚堂华接任。
+  positions:
+    - { title: 天津市委常委、教育卫生工委书记、科技工委书记, sys: party, place: 天津, from: 2003-02, to: 2009-05, cite: k08-wiki-chen-chaoying }
+    - { title: 辽宁省副省长, sys: gov, place: 辽宁, from: 2009-05, to: 2012-12, cite: k08-wiki-chen-chaoying }
+    - { title: 辽宁省委常委、秘书长, sys: party, place: 辽宁, from: 2012-12, to: 2014-08, cite: k08-wiki-chen-chaoying }
+    - { title: 河北省委常委、省纪委书记, sys: party, place: 河北, from: 2014-08, to: 2016-12, cite: k08-wiki-chen-chaoying }
+    - { title: 中央国家机关工委副书记、纪工委书记, sys: party, from: 2016-12, to: 2018-03, cite: k08-wiki-chen-chaoying }
+    - { title: 中央纪委国家监委驻国务院国资委纪检监察组组长, sys: party, from: 2018-03, to: 2022-09, cite: k08-wiki-chen-chaoying }
+  cites: [k08-thepaper-2022-09-09-sasac-ccdi, k08-wiki-chen-chaoying, wd-Q8941358]
+
+- id: xia-hongmin
+  name: 夏红民
+  gender: m
+  ethnicity: 汉族
+  born: 1961-12
+  birthplace: 湖北监利
+  roles: [minister]
+  status: retired
+  statusNote: 2025 年 5 月因年龄到限卸任山东省委常委、省纪委书记、省监委主任。
+  tier: 2
+  headline: 山东省纪委原书记（2021–2025）、贵州省纪委原书记（2017–2021）
+  ids: { wikidata: Q10932152 }
+  bio: >-
+    湖北监利人，农学出身，长期在农业部和国家质检总局任职，后任甘肃省长助理兼庆阳市委书记、甘肃省副省长。2017 年 3 月任贵州省委常委、省纪委书记，2021 年 11 月调任山东省委常委、省纪委书记，贵州职务由李元平接任；2025 年 5 月到龄卸任。
+  positions:
+    - { title: 国家质量监督检验检疫总局党组成员, sys: gov, from: 2001-03, to: 2006-05, cite: k08-wiki-xia-hongmin }
+    - { title: 甘肃省长助理、庆阳市委书记, sys: party, place: 甘肃, from: 2012-08, to: 2014-11, cite: k08-wiki-xia-hongmin }
+    - { title: 甘肃省副省长, sys: gov, place: 甘肃, from: 2014-07, to: 2017-03, cite: k08-wiki-xia-hongmin }
+    - { title: 贵州省委常委、省纪委书记, sys: party, place: 贵州, from: 2017-03, to: 2021-11, cite: k08-wiki-xia-hongmin }
+    - { title: 山东省委常委、省纪委书记, sys: party, place: 山东, from: 2021-11, to: 2025-05, cite: k08-wiki-xia-hongmin }
+  cites: [k08-bjd-2021-12-30-li-yuanping, k08-wiki-xia-hongmin, wd-Q10932152]
+
+# ---------- 军队 ----------
+- id: you-taizhong
+  name: 尤太忠
+  gender: m
+  born: 1918-12-25
+  died: 1998-07-24
+  birthplace: 河南光山
+  roles: [general]
+  status: dead
+  statusNote: 1998 年 7 月 24 日在广州病逝。
+  tier: 2
+  headline: 解放军上将，曾任成都、广州军区司令员，尤海涛之父
+  ids: { wikidata: Q8293025 }
+  bio: >-
+    河南光山人，红四方面军出身，参加长征，1955 年授少将。1971 年至 1978 年任内蒙古自治区党委第一书记、革委会主任，1980 年任成都军区司令员，1982 年至 1987 年任广州军区司令员，1988 年授上将军衔，1998 年病逝；次子尤海涛后任陆军副司令员。
+  positions:
+    - { title: 北京军区副司令员, sys: army, from: 1970-04, to: 1980-01, cite: k08-wiki-you-taizhong }
+    - { title: 内蒙古自治区党委第一书记、革委会主任, sys: party, place: 内蒙古, from: 1971-05, to: 1978-10, cite: k08-wiki-you-taizhong }
+    - { title: 成都军区司令员, sys: army, place: 四川, from: 1980-01, to: 1982-10, cite: k08-wiki-you-taizhong }
+    - { title: 广州军区司令员, sys: army, place: 广东, from: 1982-10, to: 1987-12, cite: k08-wiki-you-taizhong }
+    - { title: 中央军委纪委第二书记, sys: army, from: 1988-08, cite: k08-wiki-you-taizhong }
+  cites: [k08-wiki-you-taizhong, k08-zaobao-2024-12-26-you-haitao, wd-Q8293025]
+
+- id: ding-haichun
+  name: 丁海春
+  gender: m
+  born: 1954-04
+  birthplace: 湖南益阳
+  roles: [general]
+  status: retired
+  statusNote: 2017 年 11 月退出现役。
+  tier: 2
+  headline: 海军原副政委、海军政治部原主任，中将
+  ids: { wikidata: Q8331988 }
+  bio: >-
+    湖南益阳人，海军政工干部，历任海军指挥学院政治部主任、旅顺保障基地政委、海军后勤部政委、南京军区副政委兼东海舰队政委。2013 年 7 月接替马发祥任海军政治部主任，2014 年底改任海军副政委，政治部主任由杨世光接任，2017 年退役。
+  positions:
+    - { title: 海军后勤部政委, sys: army, from: 2009, to: 2011-12, cite: k08-wiki-ding-haichun }
+    - { title: 南京军区副政委兼东海舰队政委, sys: army, from: 2011-12, to: 2013-07, cite: k08-wiki-ding-haichun }
+    - { title: 海军政治部主任, sys: army, from: 2013-07, to: 2014-12, cite: k08-thepaper-2015-01-navy }
+    - { title: 海军副政委, sys: army, from: 2014-12, to: 2017-11, cite: k08-wiki-ding-haichun }
+  cites: [k08-thepaper-2015-01-navy, k08-wiki-ding-haichun, wd-Q8331988]
+
+# ---------- 军工央企与国资委 ----------
+- id: cheng-fubo
+  name: 程福波
+  gender: m
+  ethnicity: 汉族
+  born: 1970-09
+  birthplace: 重庆璧山
+  roles: [minister]
+  status: active
+  statusNote: 2026 年 6 月 30 日任国务院国资委党委书记，7 月 3 日任国资委主任。
+  tier: 2
+  headline: 国务院国资委党委书记、主任（2026– ），兵器工业、航空工业集团原董事长
+  ids: { wikidata: Q97165398 }
+  bio: >-
+    重庆璧山人，在成都飞机工业公司工作 26 年，2013 年任成飞集团董事长。2020 年任陕西副省长，后任陕西、广东省委组织部长；2024 年接替刘石泉任兵器工业集团董事长，2025 年接替周新民任航空工业集团董事长，2026 年接替张玉卓任国资委主任。
+  positions:
+    - { title: 成都飞机工业集团董事长、党委书记, sys: other, place: 四川, from: 2013-05, to: 2018-01, cite: k08-wiki-cheng-fubo }
+    - { title: 中国商用飞机有限责任公司副总经理, sys: other, from: 2018-01, to: 2020-07, cite: k08-wiki-cheng-fubo }
+    - { title: 陕西省副省长, sys: gov, place: 陕西, from: 2020-07, to: 2022-01, cite: k08-wiki-cheng-fubo }
+    - { title: 陕西省委常委、组织部部长, sys: party, place: 陕西, from: 2022-01, to: 2022-12, cite: k08-wiki-cheng-fubo }
+    - { title: 广东省委常委、组织部部长, sys: party, place: 广东, from: 2022-12, to: 2024-04, cite: k08-wiki-cheng-fubo }
+    - { title: 中国兵器工业集团有限公司董事长、党组书记, sys: other, from: 2024-04, to: 2025-07, cite: k08-caixin-2024-04-30-cheng-fubo }
+    - { title: 中国航空工业集团有限公司董事长、党组书记, sys: other, from: 2025-07, to: 2026-06, cite: k08-bjnews-2026-07-03-cheng-fubo }
+    - { title: 国务院国有资产监督管理委员会党委书记、主任, sys: gov, from: 2026-06, cite: k08-bjnews-2026-07-03-cheng-fubo }
+  cites: [k08-bjnews-2026-07-03-cheng-fubo, k08-caixin-2024-04-30-cheng-fubo, k08-wiki-cheng-fubo, wd-Q97165398]
+
+# ---------- 香港 ----------
+- id: zeng-decheng
+  name: 曾德成
+  aka: [Tsang Tak-sing]
+  gender: m
+  born: 1949-05-10
+  birthplace: 广东广州
+  roles: [hkmt]
+  status: retired
+  statusNote: 2015 年 7 月卸任民政事务局局长并退休。
+  tier: 2
+  headline: 香港特区原民政事务局局长（2007–2015），《大公报》原总编辑
+  ids: { wikidata: Q4559782 }
+  bio: >-
+    生于广州，香港左派家庭出身，民建联创党主席曾钰成之弟；1967 年因在学校派发反港英传单被判监禁两年。后任《大公报》总编辑、中央政策组全职顾问，2007 年 7 月 1 日接替何志平任民政事务局局长，2015 年 7 月卸任。
+  positions:
+    - { title: 全国人大代表（第七至十届）, sys: other, from: 1990, to: 2008, cite: k08-wiki-zeng-decheng }
+    - { title: 香港特区政府中央政策组全职顾问, sys: gov, place: 香港, from: 1998, cite: k08-wiki-zeng-decheng }
+    - { title: 香港特区民政事务局局长, sys: gov, place: 香港, from: 2007-07-01, to: 2015-07-21, cite: k08-gov-2007-06-23-hk-officials }
+  cites: [k08-gov-2007-06-23-hk-officials, k08-wiki-zeng-decheng, wd-Q4559782]
+
+# ---------- 辽宁：阜新、铁岭、沈阳 ----------
+- id: pan-liguo
+  name: 潘利国
+  gender: m
+  ethnicity: 汉族
+  born: 1957-08
+  birthplace: 辽宁海城
+  roles: [minister]
+  status: retired
+  statusNote: 2021 年 2 月卸任沈阳市人大常委会主任。
+  tier: 2
+  headline: 沈阳市原市长（2015–2016）、辽宁省原副省长，铁岭、阜新市委原书记
+  ids: { wikidata: Q16260405 }
+  bio: >-
+    辽宁海城人，煤炭系统出身，曾任铁法煤业集团总经理、辽宁省委副秘书长。2006 年起任阜新市长、市委书记，2012 年 1 月接替李文科任铁岭市委书记，阜新市委书记由王阳接任；2013 年任辽宁省副省长，2015 年接替陈海波任沈阳市长。
+  positions:
+    - { title: 阜新市委副书记、市长, sys: gov, place: 辽宁, from: 2006-01, to: 2010-12, cite: k08-wiki-pan-liguo }
+    - { title: 阜新市委书记, sys: party, place: 辽宁, from: 2010-12, to: 2012-01, cite: k08-wiki-pan-liguo }
+    - { title: 铁岭市委书记, sys: party, place: 辽宁, from: 2012-01, to: 2013-02, cite: k08-ce-2012-01-31-tieling }
+    - { title: 辽宁省副省长, sys: gov, place: 辽宁, from: 2013-01, to: 2015-02, cite: k08-wiki-pan-liguo }
+    - { title: 沈阳市长, sys: gov, place: 辽宁, from: 2015-02, to: 2016-12, cite: k08-wiki-pan-liguo }
+    - { title: 沈阳市人大常委会主任, sys: gov, place: 辽宁, from: 2017-01, to: 2021-02, cite: k08-wiki-pan-liguo }
+  cites: [k08-ce-2012-01-31-tieling, k08-caixin-2012-02-10-liaoning, k08-wiki-pan-liguo, wd-Q16260405]
+
+# ---------- 中海油 ----------
+- id: wang-dongjin
+  name: 汪东进
+  gender: m
+  born: 1962-07
+  birthplace: 江苏姜堰
+  roles: [biz]
+  status: retired
+  statusNote: 2025 年 4 月卸任中国海洋石油有限公司董事长；集团职务的后续变动本站未查到来源。
+  tier: 2
+  headline: 中国海洋石油集团董事长（2019 年 10 月起）、中石油股份原总裁
+  ids: { wikidata: Q8289665 }
+  bio: >-
+    江苏姜堰人，石油钻井专业出身，长期在中石油海外勘探开发公司任职，2008 年任中石油集团副总经理，2013 年任中石油股份总裁。2018 年 10 月任中海油集团总经理，2019 年 10 月升任董事长，总经理一职空缺近一年后由李勇补任。
+  positions:
+    - { title: 中国石油天然气勘探开发公司总经理, sys: other, from: 2002-10, to: 2008-09, cite: k08-wiki-wang-dongjin }
+    - { title: 中国石油天然气集团公司副总经理, sys: other, from: 2008-09, cite: k08-wiki-wang-dongjin }
+    - { title: 中国石油天然气股份有限公司总裁, sys: other, from: 2013-07, cite: k08-wiki-wang-dongjin }
+    - { title: 中国海洋石油集团有限公司总经理, sys: other, from: 2018-10, to: 2019-10, cite: k08-wiki-wang-dongjin }
+    - { title: 中国海洋石油集团有限公司董事长、党组书记, sys: other, from: 2019-10, cite: k08-caixin-2020-09-07-cnooc }
+    - { title: 中国海洋石油有限公司董事长, sys: other, from: 2019-11, to: 2025-04, cite: k08-wiki-wang-dongjin }
+  cites: [k08-caixin-2020-09-07-cnooc, k08-wiki-wang-dongjin, wd-Q8289665]
+
+# ---------- 云南：省委组织部 ----------
+- id: li-xiaosan
+  name: 李小三
+  gender: m
+  ethnicity: 汉族
+  born: 1963-11
+  birthplace: 江西吉安
+  roles: [minister]
+  status: active
+  statusNote: 2022 年 1 月当选云南省人大常委会副主任，维基百科记其现为党组书记、分管日常工作的副主任。
+  tier: 2
+  headline: 云南省人大常委会副主任，云南省委原副书记、组织部长
+  ids: { wikidata: Q11096214 }
+  bio: >-
+    江西吉安人，共青团干部出身，曾任宁冈县长、中国井冈山干部学院常务副院长。2012 年任中组部干部教育局局长，2015 年 12 月任云南省委组织部长，2021 年 5 月升任省委副书记，组织部长一职由李刚接任；半年后转任云南省人大常委会。
+  positions:
+    - { title: 中国井冈山干部学院常务副院长, sys: party, cite: k08-wiki-li-xiaosan }
+    - { title: 中共中央组织部干部教育局局长, sys: party, from: 2012-02, to: 2015-12, cite: k08-wiki-li-xiaosan }
+    - { title: 云南省委组织部部长, sys: party, place: 云南, from: 2015-12, to: 2021-07, cite: k08-wiki-li-xiaosan }
+    - { title: 云南省委常委, sys: party, place: 云南, from: 2016-05, to: 2021-05, cite: k08-wiki-li-xiaosan }
+    - { title: 云南省委副书记, sys: party, place: 云南, from: 2021-05, to: 2021-11, cite: k08-wiki-li-xiaosan }
+    - { title: 云南省人大常委会副主任, sys: gov, place: 云南, from: 2022-01, cite: k08-wiki-li-xiaosan }
+  cites: [k08-ce-2021-07-21-li-gang, k08-wiki-li-xiaosan, wd-Q11096214]
+
+# ---------- 广西：梧州 ----------
+- id: huang-junhua
+  name: 黄俊华
+  gender: m
+  ethnicity: 壮族
+  born: 1963-08
+  birthplace: 广西德保
+  roles: [minister]
+  status: active
+  statusNote: 维基百科记其现任广西壮族自治区政协副主席。
+  tier: 2
+  headline: 广西壮族自治区政协副主席，原自治区副主席、梧州市委书记
+  ids: { wikidata: Q98765001 }
+  bio: >-
+    广西德保人，壮族，测绘专业出身、工学博士，2000 年起任广西测绘局局长。2008 年起历任桂林市副市长、市长，2014 年 1 月接替刘志勇任梧州市委书记，后任广西壮族自治区政府副主席，现任自治区政协副主席。
+  positions:
+    - { title: 广西壮族自治区测绘局局长, sys: gov, place: 广西, from: 2000-04, to: 2008-10, cite: k08-ce-2014-01-28-wuzhou }
+    - { title: 桂林市副市长, sys: gov, place: 广西, from: 2008-10, to: 2013-01, cite: k08-ce-2014-01-28-wuzhou }
+    - { title: 桂林市委副书记、市长, sys: gov, place: 广西, from: 2013-01, to: 2014-01, cite: k08-ce-2014-01-28-wuzhou }
+    - { title: 梧州市委书记、市人大常委会主任, sys: party, place: 广西, from: 2014-01, cite: k08-ce-2014-01-28-wuzhou }
+    - { title: 广西壮族自治区人民政府副主席, sys: gov, place: 广西, cite: k08-wiki-huang-junhua }
+    - { title: 广西壮族自治区政协副主席, sys: other, place: 广西, cite: k08-wiki-huang-junhua }
+  cites: [k08-ce-2014-01-28-wuzhou, k08-wiki-huang-junhua, wd-Q98765001]
+
+# ---------- 四川：南充 ----------
+- id: zhu-jiade
+  name: 朱家德
+  gender: m
+  ethnicity: 汉族
+  born: 1965-01
+  birthplace: 四川泸县
+  roles: [minister]
+  status: active
+  statusNote: 2023 年 1 月当选四川省人大常委会副主任。
+  tier: 2
+  headline: 四川省人大常委会副主任，南充市委原书记
+  ids: { wikidata: Q116226731 }
+  bio: >-
+    四川泸县人，经济学博士，曾任四川省政府副秘书长，2020 年 1 月任四川省经济和信息化厅厅长。2022 年 3 月任南充市委书记，2023 年 1 月当选四川省人大常委会副主任，2 月南充市委书记由市长古正举接任。
+  positions:
+    - { title: 四川省人民政府副秘书长, sys: gov, place: 四川, cite: k08-wiki-zhu-jiade }
+    - { title: 四川省经济和信息化厅厅长, sys: gov, place: 四川, from: 2020-01, to: 2022-03, cite: k08-wiki-zhu-jiade }
+    - { title: 南充市委书记, sys: party, place: 四川, from: 2022-03, to: 2023-02, cite: k08-wiki-zhu-jiade }
+    - { title: 四川省人大常委会副主任, sys: gov, place: 四川, from: 2023-01, cite: k08-wiki-zhu-jiade }
+  cites: [k08-ce-2023-02-16-nanchong, k08-wiki-zhu-jiade, wd-Q116226731]
+
+# ---------- 纪检派驻：民政部、中宣部、全国人大机关 ----------
+- id: jia-yulin
+  name: 贾育林
+  gender: m
+  ethnicity: 汉族
+  roles: [ccdi]
+  status: retired
+  statusNote: 维基百科称其曾任驻中央宣传部纪检监察组组长；卸任时间和此后去向本站未查到来源。
+  tier: 2
+  headline: 中央纪委原驻民政部、驻中宣部纪检组组长，十九届中央纪委委员
+  ids: { wikidata: Q116226229 }
+  bio: >-
+    长期在中央纪委监察部工作，曾任中央纪委第一、第五纪检监察室主任。2016 年 5 月接替曲淑辉任中央纪委驻民政部纪检组组长，2017 年 7 月由龚堂华接任，本人转任驻中宣部纪检组组长，接班升任商务部副部长的傅自应。
+  positions:
+    - { title: 中央纪委第一纪检监察室主任, sys: party, cite: k08-ce-2016-05-12-jia-yulin }
+    - { title: 中央纪委第五纪检监察室主任, sys: party, to: 2015-09, cite: k08-thepaper-1468386-jia-yulin }
+    - { title: 中央纪委驻民政部纪检组组长、民政部党组成员, sys: party, from: 2016-05, to: 2017-07, cite: k08-ce-2017-07-05-mca }
+    - { title: 中央纪委驻中央宣传部纪检组组长, sys: party, from: 2017-07, cite: k08-caixin-2017-07-18-jia-yulin }
+  cites: [k08-ce-2016-05-12-jia-yulin, k08-caixin-2017-07-18-jia-yulin, k08-wiki-jia-yulin, wd-Q116226229]
+
+- id: wang-lishan
+  name: 王立山
+  gender: m
+  ethnicity: 汉族
+  born: 1961-11
+  birthplace: 山东昌邑
+  roles: [ccdi]
+  status: retired
+  statusNote: 2025 年 12 月卸任驻全国人大机关纪检监察组组长，财新称其“到龄”。
+  tier: 2
+  headline: 中央纪委国家监委原驻全国人大机关纪检监察组组长，湖北省委原常委、纪委书记
+  ids: { wikidata: Q47670460 }
+  bio: >-
+    山东昌邑人，河北政法系统出身，曾任河北省检察院副检察长、保定市委政法委书记。2017 年 3 月任湖北省委常委、省纪委书记，2021 年 2 月接替任建华任驻全国人大机关纪检监察组组长，2025 年 12 月卸任，由严维耀接任。
+  positions:
+    - { title: 河北省人民检察院副检察长, sys: gov, place: 河北, from: 2009-01, to: 2011-04, cite: k08-wiki-wang-lishan }
+    - { title: 保定市委常委、政法委书记, sys: party, place: 河北, from: 2011-04, to: 2013-06, cite: k08-wiki-wang-lishan }
+    - { title: 河北省委政法委常务副书记, sys: party, place: 河北, from: 2015-04, to: 2016-09, cite: k08-wiki-wang-lishan }
+    - { title: 中央巡视组副部级巡视专员, sys: party, from: 2016-12, to: 2017-03, cite: k08-wiki-wang-lishan }
+    - { title: 湖北省委常委、省纪委书记, sys: party, place: 湖北, from: 2017-03, to: 2021-02, cite: k08-wiki-wang-lishan }
+    - { title: 湖北省监察委员会主任, sys: gov, place: 湖北, from: 2018-01, to: 2021-02, cite: k08-wiki-wang-lishan }
+    - { title: 中央纪委国家监委驻全国人大机关纪检监察组组长, sys: party, from: 2021-02, to: 2025-12, cite: k08-wiki-wang-lishan }
+  cites: [k08-thepaper-12214059-wang-lishan, k08-wiki-wang-lishan, k08-caixin-2026-01-22-yan-weiyao, wd-Q47670460]

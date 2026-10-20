@@ -1,0 +1,750 @@
+# K08: predecessors, successors and partners of case-essay people still without a relation (research/lists/R15-case-people-no-relation.txt).
+web:
+  # ---------- 内蒙古：呼和浩特、包头、赤峰 ----------
+  - { id: k08-wiki-niu-yuru, title: 牛玉儒（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/牛玉儒", excerpt: true, keep: [ 牛玉儒, 年, 前任, 继任, 韩志然, 杨晶 ] }
+  - id: k08-12371-niu-yuru
+    title: 牛玉儒同志事迹
+    publisher: 共产党员网
+    date: 2014-01-28
+    voice: official
+    url: http://news.12371.cn/2014/01/28/ARTI1390914248883782.shtml
+    excerpt: true
+    keep:
+      - 因病医治无效，于2004年8月14日
+      - 牛玉儒同志1952年11月出生于
+  - id: k08-rmzxw-2016-01-29-han-zhiran
+    title: 内蒙古“被降级”官员仕途往事：大拆大建 被假港商骗
+    publisher: 人民政协网（澎湃新闻）
+    date: 2016-01-29
+    voice: zh
+    url: "http://www.rmzxw.com.cn/c/2016-01-29/684410_1.shtml?n2m=1"
+    excerpt: true
+    keep:
+      - 云布龙车祸事件1年后
+      - 2004年9月，韩志然重回呼市
+      - 牛玉儒，出生于1952年
+      - 上世纪八十年代末起，牛玉儒
+      - 2004年8月，牛玉儒因病去世
+  - { id: k08-wiki-nashun-menghe, title: 那顺孟和（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/那顺孟和", excerpt: true, keep: [ 那顺孟和, 年, 前任, 继任, 王素毅, 韩志然, 云光中 ] }
+  - id: k08-people-2011-11-17-nashun-menghe
+    title: 那顺孟和任呼和浩特市委书记 韩志然另有任用
+    publisher: 人民网
+    date: 2011-11-17
+    voice: zh
+    url: "https://web.archive.org/web/20120227113107/http://politics.people.com.cn/GB/41223/16281517.html"
+    excerpt: true
+    keep:
+      - 人民网北京11月17日电
+      - 那顺孟和，男，蒙古族
+  - { id: k08-wiki-guo-qijun, title: 郭启俊（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郭启俊", excerpt: true, keep: [ 郭启俊, 年, 前任, 继任, 莫建成, 王素毅, 王中和 ] }
+  - id: k08-ce-2013-08-20-baotou
+    title: 王中和任包头市委书记 郭启俊不再担任
+    publisher: 中国经济网
+    date: 2013-08-20
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201308/20/t20130820_24676873.shtml
+    excerpt: true
+    keep:
+      - 中国经济网包头8月20日综合报道
+      - 据中国经济网党政领导人物库资料显示
+      - —
+  - { id: k08-wiki-zhang-yuanzhong, title: 张院忠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张院忠", excerpt: true, keep: [ 张院忠, 年, 前任, 继任, 王中和, 孟凡利 ] }
+  - id: k08-thepaper-2016-11-30-baotou
+    title: 内蒙古自治区党委常委张院忠任包头市委书记，王中和不再担任
+    publisher: 澎湃新闻
+    date: 2016-11-30
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1571706
+    excerpt: true
+    keep:
+      - 11月30日上午，包头市召开领导干部大会
+      - 会上，李佳宣读了自治区党委
+  - id: k08-ce-2016-12-01-zhang-yuanzhong
+    title: 内蒙古党委常委张院忠任包头市委书记 王中和不再担任
+    publisher: 中国经济网
+    date: 2016-12-01
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201612/01/t20161201_18298393.shtml
+    excerpt: true
+    keep:
+      - 中国经济网包头12月1日综合报道
+      - 人物库资料显示
+      - 王中和，1957年9月出生
+      - ——
+  - { id: k08-wiki-hang-guilin, title: 杭桂林（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杭桂林", excerpt: true, keep: [ 杭桂林, 年, 前任, 继任, 王中和 ] }
+  - id: k08-nmgnews-2013-02-hang-guilin
+    title: 杭桂林同志简历
+    publisher: 内蒙古新闻网
+    date: 2013-02-04
+    voice: zh
+    url: https://ztpd.nmgnews.com.cn/system/2013/02/04/010912534.shtml
+    excerpt: true
+    keep:
+      - 杭桂林，男，蒙古族
+      - —
+  # ---------- 铁路 ----------
+  - { id: k08-wiki-liu-zhenfang, title: 刘振芳（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘振芳", excerpt: true, keep: [ 刘振芳, 年, 前任, 继任, 闻清良 ] }
+  - id: k08-bjnews-2022-09-27-fei-dongbin
+    title: 中央决定：费东斌任国家铁路局党组书记
+    publisher: 新京报
+    date: 2022-09-27
+    voice: zh
+    url: https://www.bjnews.com.cn/detail/1664285922169096.html
+    excerpt: true
+    keep:
+      - 据国家铁路局官网消息
+      - 公开简历显示，费东斌出生于1970年
+      - 原任国家铁路局党组书记为刘振芳
+  - id: k08-jfdaily-2022-09-rail-chiefs
+    title: “70后”副部级进京履新，近期5个国家局换帅
+    publisher: 解放日报·上观新闻
+    date: 2022-09-28
+    voice: zh
+    url: "https://www.jfdaily.com/wx/detail.do?id=532443"
+    excerpt: true
+    keep:
+      - 此前，国家铁路局局长、党组书记由刘振芳担任
+      - 此番履新，费东斌也成为国家铁路局成立以来
+  - { id: k08-wiki-yang-yudong, title: 杨宇栋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨宇栋", excerpt: true, keep: [ 杨宇栋, 年, 前任, 继任, 林奋强, 费东斌 ] }
+  # ---------- 广西：桂林 ----------
+  - { id: k08-wiki-zhao-leqin, title: 赵乐秦（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/赵乐秦", excerpt: true, keep: [ 赵乐秦, 年, 前任, 继任, 刘君, 周家斌 ] }
+  - id: k08-chinanews-2021-02-09-guilin
+    title: 广西柳州、桂林、贵港三地级市同日调整市委书记
+    publisher: 中国新闻网
+    date: 2021-02-09
+    voice: zh
+    url: https://www.chinanews.com/gn/2021/02-09/9409092.shtml
+    excerpt: true
+    keep:
+      - 广西壮族自治区党委决定：吴炜
+  - id: k08-cyol-2021-02-10-guilin
+    title: 周家斌任桂林市委书记，赵乐秦不再担任
+    publisher: 中青在线（政事儿）
+    date: 2021-02-10
+    voice: zh
+    url: https://s.cyol.com/articles/2021-02/10/content_1RvxGXiL.html
+    excerpt: true
+    keep:
+      - 周家斌此前任自治区住建厅厅长
+      - 时隔4年后，周家斌回到
+      - 赵乐秦是陕西西安人
+      - 他曾长期任职陕西
+  # ---------- 三峡集团 ----------
+  - id: k08-chinanews-2014-03-25-ctg
+    title: 三峡集团主要领导调整 卢纯接替曹广晶任董事长
+    publisher: 中国新闻网
+    date: 2014-03-25
+    voice: zh
+    url: https://www.chinanews.com.cn/gn/2014/03-25/5992571.shtml
+    excerpt: true
+    keep:
+      - 3月25日电 据中国长江三峡集团公司网站消息
+      - 当天，中央组织部副部长王京清
+  - id: k08-ce-2018-08-31-ctg
+    title: 雷鸣山任中国长江三峡集团董事长、党组书记
+    publisher: 中国经济网
+    date: 2018-08-31
+    voice: zh
+    url: http://www.ce.cn/cysc/newmain/yc/jsxw/201808/31/t20180831_30170165.shtml
+    excerpt: true
+    keep:
+      - 经济日报-中国经济网8月31日讯
+      - 卢纯，男，汉族
+      - 曾任国务院三峡工程建设委员会移民开发局
+      - 1998年，任国务院三峡工程建设委员会
+      - 2002年01月，任国务院三峡工程
+      - 2003年01月，任国务院三峡工程
+      - 2008年06月，任国务院三峡工程
+      - 2014年03月-2018年08月
+  - id: k08-rmzxw-2019-03-02-lu-chun
+    title: 当惊世界殊——与全国政协常委卢纯对话三峡工程
+    publisher: 人民政协网
+    date: 2019-03-02
+    voice: zh
+    url: https://www.rmzxw.com.cn/c/2019-03-02/2298055.shtml
+    excerpt: true
+    keep:
+      - 记者推开了全国政协常委卢纯的办公室门
+  # ---------- 四川、宁夏：纪委与政法委 ----------
+  - { id: k08-wiki-wang-huaichen, title: 王怀臣（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王怀臣", excerpt: true, keep: [ 王怀臣, 年, 前任, 继任, 欧泽高, 王雁飞, 刘玉顺 ] }
+  - id: k08-people-2015-05-20-wang-yanfei
+    title: 王雁飞任四川省委常委、省纪委书记
+    publisher: 人民网
+    date: 2015-05-20
+    voice: zh
+    url: http://politics.people.com.cn/n/2015/0520/c1001-27031442.html
+    excerpt: true
+    keep:
+      - 人民网北京5月20日电
+  - { id: k08-wiki-liao-jianyu, title: 廖建宇（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/廖建宇", excerpt: true, keep: [ 廖建宇, 年 ] }
+  - id: k08-scjc-2021-11-19-liao-jianyu
+    title: 廖建宇任中共四川省委委员、常委和省纪委书记
+    publisher: 四川省纪委监委网站
+    date: 2021-11-19
+    voice: official
+    url: http://www.scjc.gov.cn/scjc/sytt/2021/11/19/9978656122734891bc1ab39a310e2dfa.shtml
+    excerpt: true
+    keep:
+      - 近日，中共中央批准：廖建宇同志
+  - id: k08-ce-2021-12-04-wang-yanfei
+    title: 王雁飞任四川省人大常委会党组成员
+    publisher: 中国经济网
+    date: 2021-12-04
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/202112/04/t20211204_37141634.shtml
+    excerpt: true
+    keep:
+      - 中国经济网成都12月4日综合报道
+      - 王雁飞，1963年出生
+  - { id: k08-wiki-su-deliang, title: 苏德良（1960年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/苏德良_(1960年)", excerpt: true, keep: [ 苏德良, 年, 前任, 继任, 王雁飞 ] }
+  - id: k08-people-2013-05-21-ningxia
+    title: 王雁飞任宁夏自治区政法委书记 提名为公安厅厅长人选
+    publisher: 人民网
+    date: 2013-05-21
+    voice: zh
+    url: http://politics.people.com.cn/n/2013/0521/c1001-21554864.html
+    excerpt: true
+    keep:
+      - 人民网北京5月21日电
+  - id: k08-thepaper-2018-06-spp
+    title: 最高人民检察院3名部级高层同时履新
+    publisher: 澎湃新闻
+    date: 2018-06-14
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2196311
+    excerpt: true
+    keep:
+      - 他们是：最高检党组成员
+      - 公开简历显示，苏德良
+      - 2013年，苏德良离开宁夏
+  # ---------- 广东：统战部、宣传部、茂名 ----------
+  - { id: k08-wiki-li-tongshu, title: 李统书（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李统书", excerpt: true, keep: [ 李统书, 年, 前任, 继任, 周镇宏 ] }
+  - id: k08-cctv-2007-04-28-guangdong
+    title: 周镇宏任广东省委统战部长 李统书不再兼任该职
+    publisher: 央视国际（广州日报）
+    date: 2007-04-28
+    voice: zh
+    url: http://news.cctv.com/china/20070428/101743.shtml
+    excerpt: true
+    keep:
+      - 广州日报消息：近日，广东省委决定
+  - { id: k08-wiki-lin-xiong, title: 林雄（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/林雄", excerpt: true, keep: [ 林雄, 年, 前任, 继任, 朱小丹, 庹震, 周镇宏, 罗荫国 ] }
+  - id: k08-ce-2012-05-14-lin-xiong
+    title: 林雄改任广东省委统战部长 庹震接任宣传部长
+    publisher: 中国经济网
+    date: 2012-05-14
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201205/14/t20120514_1465185.shtml
+    excerpt: true
+    keep:
+      - 中国经济网广州5月14日综合报道
+      - 林雄自2006年-2012年一直担任
+      - 林雄，男，汉族，1959年5月生
+  - { id: k08-wiki-luo-yinguo, title: 罗荫国（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/罗荫国", excerpt: true, keep: [ 罗荫国, 年, 前任, 继任, 林雄, 周镇宏 ] }
+  # ---------- 北京：市政府秘书长、副市长 ----------
+  - { id: k08-wiki-jin-wei, title: 靳伟（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/靳伟", excerpt: true, keep: [ 靳伟, 年, 前任, 继任, 李伟, 北京市人民政府秘书长 ] }
+  - id: k08-ce-2018-03-01-jin-wei
+    title: 靳伟任北京市政府秘书长 23位市政府组成部门“一把手”名单
+    publisher: 中国经济网
+    date: 2018-03-01
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201803/01/t20180301_28310331.shtml
+    excerpt: true
+    keep:
+      - 3月1日下午，北京市十五届人大常委会
+      - 1972年5月生
+      - 年
+  - { id: k08-wiki-liu-zhihua, title: 刘志华（1949年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘志华_(1949年)", excerpt: true, keep: [ 刘志华, 年 ] }
+  - id: k08-sohu-2008-10-19-liu-zhihua
+    title: 受贿696.59万元 北京市原副市长刘志华一审被判死缓
+    publisher: 搜狐新闻（法制日报）
+    date: 2008-10-19
+    voice: zh
+    url: https://news.sohu.com/20081019/n260116308.shtml
+    excerpt: true
+    keep:
+      - 本报衡水10月18日电
+      - 衡水市中级人民法院根据最高人民法院指定管辖受理此案
+  - id: k08-sina-2009-01-21-liu-zhihua
+    title: 北京原副市长刘志华因受贿终审被判死缓
+    publisher: 新浪网（正义网）
+    date: 2009-01-21
+    voice: zh
+    url: http://news.sina.com.cn/c/2009-01-21/163417091032.shtml
+    excerpt: true
+    keep:
+      - 正义网北京1月21日讯
+      - 一审宣判后，刘志华不服
+  # ---------- 中信银行 ----------
+  - { id: k08-wiki-li-qingping, title: 李庆萍（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李庆萍", excerpt: true, keep: [ 李庆萍, 年 ] }
+  - id: k08-thepaper-2016-06-30-citic-bank
+    title: 常振明辞任中信银行董事长：53岁李庆萍接任，孙德顺任行长
+    publisher: 澎湃新闻
+    date: 2016-06-30
+    voice: zh
+    url: "https://web.archive.org/web/20210907002026/http://www.thepaper.cn/newsDetail_forward_1491814"
+    excerpt: true
+    keep:
+      - 中信银行现任行长李庆萍接替常振明出任中信银行董事长
+      - 中信银行高层人士变动正式落地
+      - 现年53岁的李庆萍
+      - 将与李庆萍搭班出任中信银行行长的
+      - 中信银行年报显示，李庆萍自1984年8月
+      - 2013年9月，李庆萍通过组织部门
+  - id: k08-caixin-2023-12-28-li-qingping
+    title: 原董事长退休后仍被追责 中信银行新班子再出发
+    publisher: 财新网
+    date: 2023-12-28
+    voice: zh
+    url: https://wenews.caixin.com/2023-12-28/102150516.html
+    excerpt: true
+    keep:
+      - 曾颇受关注的全国性股份行女董事长
+      - 在多次难以被证实的传闻后
+  # ---------- 山西：大同 ----------
+  - { id: k08-wiki-guo-liangxiao, title: 郭良孝（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郭良孝", excerpt: true, keep: [ 郭良孝, 年, 前任, 继任, 丰立祥 ] }
+  - id: k08-sina-2006-02-28-datong
+    title: 山西12名地市干部履新 被寄于重振能源大省厚望
+    publisher: 新浪财经（21世纪经济报道）
+    date: 2006-02-28
+    voice: zh
+    url: https://finance.sina.com.cn/g/20060228/17562379555.shtml
+    excerpt: true
+    keep:
+      - 原市长郭良孝升任大同市委书记
+      - 郭与丰的组合
+  - { id: k08-wiki-zhang-jifu, title: 张吉福（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张吉福", excerpt: true, keep: [ 张吉福, 年, 前任, 继任, 胡玉亭, 丰立祥 ] }
+  - id: k08-people-2015-08-06-zhang-jifu
+    title: 北京平谷区委书记张吉福调任山西大同市委书记
+    publisher: 人民网
+    date: 2015-08-06
+    voice: zh
+    url: http://politics.people.com.cn/n/2015/0806/c1001-27417445.html
+    excerpt: true
+    keep:
+      - 人民网北京8月6日电
+      - 至此，空缺10月之久
+      - 公开简历显示，张吉福
+  # ---------- 保险：国寿、太平、人保 ----------
+  - { id: k08-wiki-yang-mingsheng, title: 杨明生（1955年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨明生_(1955年)", excerpt: true, keep: [ 杨明生, 年 ] }
+  - id: k08-thepaper-2018-09-07-china-life
+    title: 60岁王滨履新国寿集团董事长，此前担任中国太平董事长6年
+    publisher: 澎湃新闻
+    date: 2018-09-07
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2411180
+    excerpt: true
+    keep:
+      - 澎湃新闻从中国人寿保险（集团）公司官网发现
+      - 就在此前的9月4日
+      - 卸任国寿集团董事长的杨明生
+      - 2012年3月，杨明生从监管部门
+  - { id: k08-wiki-bai-tao, title: 白涛（1963年）（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/白涛_(1963年)", excerpt: true, keep: [ 白涛, 年 ] }
+  - id: k08-sina-2025-03-12-bai-tao
+    title: 广发银行董事长白涛辞职，此前已卸任中国人寿集团董事长
+    publisher: 新浪财经
+    date: 2025-03-12
+    voice: zh
+    url: https://finance.sina.com.cn/jjxw/2025-03-12/doc-inepmhax8465077.shtml
+    excerpt: true
+    keep:
+      - 3月11日，广发银行股份有限公司
+      - 2024年8月，中央组织部有关负责同志
+      - 白涛出生于1963年
+  - { id: k08-wiki-luo-xi, title: 罗熹（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/罗熹", excerpt: true, keep: [ 罗熹, 年 ] }
+  - id: k08-jiemian-2020-09-08-picc
+    title: 缪建民辞别后中国人保等来新掌门，中国太平董事长罗熹将入主
+    publisher: 界面新闻
+    date: 2020-09-08
+    voice: zh
+    url: https://www.jiemian.com/article/4952433.html
+    excerpt: true
+    keep:
+      - 9月8日上午，中国人保宣布重大人事变动
+      - 公开资料显示，罗熹生于1960年
+      - 罗熹曾任华润（集团）有限公司副董事长
+      - 原董事长缪建民在中国人保于2017年11月
+  # ---------- 国家开发银行 ----------
+  - { id: k08-wiki-cdb, title: 国家开发银行（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/国家开发银行", excerpt: true, keep: [ 郑之杰, 欧阳卫民, 谭炯, 胡怀邦, 赵欢 ] }
+  - { id: k08-wiki-zheng-zhijie, title: 郑之杰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郑之杰", excerpt: true, keep: [ 郑之杰, 年 ] }
+  - id: k08-thepaper-2019-10-24-cdb
+    title: 56岁广东省副省长欧阳卫民回归金融系统，出任国开行行长
+    publisher: 澎湃新闻
+    date: 2019-10-24
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_4740427
+    excerpt: true
+    keep:
+      - 广东省副省长欧阳卫民回归金融系统
+      - 10月24日，澎湃新闻从国家开发银行
+      - 此前国开行行长为郑之杰
+  - { id: k08-wiki-tan-jiong, title: 谭炯（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/谭炯", excerpt: true, keep: [ 谭炯, 年 ] }
+  - id: k08-thepaper-2023-05-tan-jiong
+    title: 谭炯出任国家开发银行行长，此前担任贵州省委常委
+    publisher: 澎湃新闻
+    date: 2023-05-18
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_23130412
+    excerpt: true
+    keep:
+      - 国家开发银行董事会5月12日
+      - 栏目更新信息显示，谭炯现任
+      - 据国家开发银行官网消息，2023年2月17日
+      - 此番卸任的欧阳卫民
+  - id: k08-nbd-2023-02-17-tan-jiong
+    title: 谭炯任国家开发银行党委副书记 欧阳卫民卸任
+    publisher: 每日经济新闻
+    date: 2023-02-17
+    voice: zh
+    url: https://www.nbd.com.cn/articles/2023-02-17/2674256.html
+    excerpt: true
+    keep:
+      - 2月17日下午，国家开发银行召开干部会议
+      - 根据公开资料，谭炯1966年6月出生
+  # ---------- 纪检：国资委、贵州 ----------
+  - { id: k08-wiki-chen-chaoying, title: 陈超英（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈超英", excerpt: true, keep: [ 陈超英, 年 ] }
+  - id: k08-thepaper-2022-09-09-sasac-ccdi
+    title: 进入9月已有4位副部级纪检监察组长履新
+    publisher: 澎湃新闻
+    date: 2022-09-09
+    voice: zh
+    url: http://thepaper.cn/newsDetail_forward_19865797
+    excerpt: true
+    keep:
+      - 9月9日晚，澎湃新闻记者查询国务院国资委官网
+      - 在龚堂华之前
+  - { id: k08-wiki-xia-hongmin, title: 夏红民（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/夏红民", excerpt: true, keep: [ 夏红民, 年 ] }
+  - id: k08-bjd-2021-12-30-li-yuanping
+    title: 跨省履新，李元平任贵州省委常委、纪委书记
+    publisher: 北京日报网
+    date: 2021-12-30
+    voice: zh
+    url: https://news.bjd.com.cn/2021/12/30/10024632.shtml
+    excerpt: true
+    keep:
+      - 据《贵州日报》报道
+      - 中央批准，李元平同志任贵州省委委员
+      - 此前担任贵州省委常委、纪委书记的夏红民
+  # ---------- 军队 ----------
+  - { id: k08-wiki-you-taizhong, title: 尤太忠（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/尤太忠", excerpt: true, keep: [ 尤太忠, 年 ] }
+  - id: k08-zaobao-2024-12-26-you-haitao
+    title: 中国军队又有两名高级将领落马 分析：或面临军事司法机关起诉和审判
+    publisher: 联合早报
+    date: 2024-12-26
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20241226-5651186
+    excerpt: true
+    keep:
+      - 官媒中国人大网12月25日
+      - 尤海涛今年66岁
+  - { id: k08-wiki-ding-haichun, title: 丁海春（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/丁海春", excerpt: true, keep: [ 丁海春, 年, 前任, 继任, 杨世光 ] }
+  - id: k08-thepaper-2015-01-navy
+    title: 海军总部将领调整到位，12名海军大校晋升少将军衔
+    publisher: 澎湃新闻
+    date: 2015-01-03
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1291014
+    excerpt: true
+    keep:
+      - 海军原政治部主任丁海春改任副政委
+      - 检索公开报道发现，丁海春历任
+      - 丁海春于2007年晋升少将军衔
+  - id: k08-bjnews-2025-05-15-jiang-bin
+    title: 国防部新任“80后”新闻发言人蒋斌亮相，吴谦卸任
+    publisher: 新京报
+    date: 2025-05-15
+    voice: zh
+    url: https://www.bjnews.com.cn/detail/1747296302129459.html
+    excerpt: true
+    keep:
+      - 新京报讯（记者行海洋）5月15日下午
+      - 官方简历显示，蒋斌1982年出生于四川
+      - 记者查询国防部官网发现
+      - 吴谦1973年出生于北京
+  # ---------- 军工 ----------
+  - { id: k08-wiki-cheng-fubo, title: 程福波（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/程福波", excerpt: true, keep: [ 程福波, 年, 前任, 继任, 周新民, 刘石泉 ] }
+  - id: k08-caixin-2024-04-30-cheng-fubo
+    title: 人事观察｜军工高管密集调整 程福波履新兵工集团董事长
+    publisher: 财新网
+    date: 2024-04-30
+    voice: zh
+    url: https://china.caixin.com/2024-04-30/102192170.html
+    excerpt: true
+    keep:
+      - 历任陕西、广东省委组织部长后，程福波近日再获重用
+      - 据兵工集团微信公众号消息，2024年4月30日
+      - 程福波现年53岁
+  - id: k08-bjnews-2026-07-03-cheng-fubo
+    title: 程福波任国务院国资委主任
+    publisher: 新京报
+    date: 2026-07-03
+    voice: zh
+    url: https://www.bjnews.com.cn/detail/1783074941129243.html
+    excerpt: true
+    keep:
+      - 人社部网站7月3日消息
+      - 此前，程福波已任国务院国有资产监督管理委员会党委书记
+      - 公开简历显示，程福波
+      - 程福波历任陕西省副省长
+      - 原任国务院国资委党委书记、主任张玉卓
+  # ---------- 香港 ----------
+  - { id: k08-wiki-zeng-decheng, title: 曾德成（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/曾德成", excerpt: true, keep: [ 曾德成, 年 ] }
+  - id: k08-gov-2007-06-23-hk-officials
+    title: 关于香港特别行政区第三届政府唐英年等20人任职的通知
+    publisher: 中国政府网（国务院公报）
+    date: 2007-06-23
+    voice: official
+    url: https://www.gov.cn/gongbao/content/2007/content_710980.htm
+    excerpt: true
+    keep:
+      - 根据香港特别行政区行政长官曾荫权的提名
+      - 任命曾德成为民政事务局局长
+  # ---------- 辽宁：阜新、铁岭 ----------
+  - { id: k08-wiki-pan-liguo, title: 潘利国（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/潘利国", excerpt: true, keep: [ 潘利国, 年, 前任, 继任, 李文科, 王阳 ] }
+  - id: k08-ce-2012-01-31-tieling
+    title: 潘利国任铁岭市委书记 李文科不再担任
+    publisher: 中国经济网
+    date: 2012-01-31
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201201/31/t20120131_23029949.shtml
+    excerpt: true
+    keep:
+      - 中国经济网沈阳1月31日综合报道
+      - 潘利国，男，汉族
+  - id: k08-caixin-2012-02-10-liaoning
+    title: 铁岭市委书记变动引发辽宁政坛连锁反应
+    publisher: 财新网
+    date: 2012-02-10
+    voice: zh
+    url: https://china.caixin.com/2012-02-10/100355280.html
+    excerpt: true
+    keep:
+      - 引发辽宁政坛连锁反应
+      - 近日，辽宁省委宣布关于鞍山市政府主要领导调整的决定
+  # ---------- 央企搭档：华润电力、东风、中海油 ----------
+  - id: k08-people-2014-09-23-wang-yujun
+    title: 华润电力原总裁王玉军涉贪被刑拘
+    publisher: 人民网
+    date: 2014-09-23
+    voice: zh
+    url: http://politics.people.com.cn/n/2014/0923/c1001-25716714.html
+    excerpt: true
+    keep:
+      - 华润电力9月21日晚间发布公告
+      - 2009年6月至2010年7月，王玉军担任
+  - id: k08-cyol-2015-09-dongfeng
+    title: 中国电动汽车百人会理事长陈清泰考察东风汽车公司
+    publisher: 中青在线
+    date: 2015-09-29
+    voice: zh
+    url: https://chuangye.cyol.com/content/2015-11/24/content_11857462.htm
+    excerpt: true
+    keep:
+      - 9月29日，中国电动汽车百人会理事长陈清泰
+  - { id: k08-wiki-wang-dongjin, title: 汪东进（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/汪东进", excerpt: true, keep: [ 汪东进, 年 ] }
+  - id: k08-caixin-2020-09-07-cnooc
+    title: 中石化副总李勇任中海油总经理
+    publisher: 财新网
+    date: 2020-09-07
+    voice: zh
+    url: https://www.caixin.com/2020-09-07/101602386.html
+    excerpt: true
+    keep:
+      - 空缺近一年的中海油集团总经理一职
+      - 9月7日晚，中海油集团发布公告称
+      - 自2019年10月24日中海油集团原总经理汪东进
+  # ---------- 第二轮：云南、辽宁、新疆、广西、四川 ----------
+  - id: k08-ce-2021-12-03-qujing
+    title: 云南省委常委李石松任曲靖市委书记 李文荣不再担任
+    publisher: 中国经济网
+    date: 2021-12-03
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/202112/03/t20211203_37139244.shtml
+    excerpt: true
+    keep:
+      - 中国经济网曲靖12月3日综合报道
+      - 李石松，男，白族
+      - 李文荣，男，汉族
+  - id: k08-jsycjw-liu-qiang
+    title: “入常”时被PK掉的副省长落马了
+    publisher: 盐城市纪委监委（政知圈）
+    voice: zh
+    url: http://www.jsycjw.gov.cn/a/fLUk5m3YJJ
+    excerpt: true
+    keep:
+      - 2008年2月至2013年1月，他担任抚顺市委书记
+      - 当时同日当选的王阳和刘强
+      - 接替抚顺市长位子的
+      - 刘强和王阳在抚顺搭班子两年
+  - id: k08-ce-2021-07-21-li-gang
+    title: 李刚任云南省委常委 接替李小三任组织部部长
+    publisher: 中国经济网
+    date: 2021-07-21
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/202107/21/t20210721_36736391.shtml
+    excerpt: true
+    keep:
+      - 中国经济网昆明7月21日综合报道
+      - 7月20日，云南省委组织部召开干部职工大会
+      - 原任云南省委组织部部长的是李小三
+  - { id: k08-wiki-li-xiaosan, title: 李小三（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李小三", excerpt: true, keep: [ 李小三, 年 ] }
+  - id: k08-thepaper-1600308-yang-ning
+    title: 云南省委常委杨宁兼任省委统战部部长
+    publisher: 澎湃新闻
+    date: 2017-01
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1600308
+    excerpt: true
+    keep:
+      - 上述报道显示，白族女干部杨宁已经出任云南省委统战部部长
+      - 在杨宁之前担任云南省委统战部部长的是黄毅
+  - id: k08-ce-2014-01-28-wuzhou
+    title: 黄俊华任梧州市委书记 刘志勇卸任
+    publisher: 中国经济网
+    date: 2014-01-28
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201401/28/t20140128_2228406.shtml
+    excerpt: true
+    keep:
+      - 中国经济网桂林1月28日综合报道
+      - 黄俊华此前担任桂林市长
+      - 黄俊华，男，壮族，1963年8月生
+      - 2000.04 广西自治区测绘局局长
+      - 2008.10 广西桂林市政府副市长
+      - 2013.01 中共广西桂林市委副书记
+      - 2014.01 中共广西梧州市委书记
+  - { id: k08-wiki-huang-junhua, title: 黄俊华 (1963年)（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/黄俊华_(1963年)", excerpt: true, keep: [ 黄俊华, 年 ] }
+  - id: k08-ce-2023-02-16-nanchong
+    title: 古正举任南充市委书记
+    publisher: 中国经济网
+    date: 2023-02-16
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/202302/16/t20230216_38396533.shtml
+    excerpt: true
+    keep:
+      - 中国经济网南充2月16日综合报道
+      - 古正举，男，汉族
+  - { id: k08-wiki-zhu-jiade, title: 朱家德（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/朱家德", excerpt: true, keep: [ 朱家德, 年 ] }
+  - id: k08-sc-jtt-2011-01-05-nanchong
+    title: 南充市委书记刘宏建检查城北汽车站元旦安全工作
+    publisher: 四川省交通运输厅
+    date: 2011-01-05
+    voice: official
+    url: https://jtt.sc.gov.cn/jtt/c101877/2011/1/5/9fa24572652e4ac2aded83acce8829f3.shtml
+    excerpt: true
+    keep:
+      - 2010年12月31日，南充市委书记
+  # ---------- 第二轮：纪检派驻、足协、航天、银行业协会 ----------
+  - id: k08-ce-2016-05-12-jia-yulin
+    title: 贾育林任中央纪委驻民政部纪检组组长 曲淑辉不再担任
+    publisher: 中国经济网
+    date: 2016-05-12
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201605/12/t20160512_11529035.shtml
+    excerpt: true
+    keep:
+      - 民政部官方网站“部领导”栏目近日进行更新
+      - 据中国经济网部委人物库资料显示
+  - id: k08-thepaper-1468386-jia-yulin
+    title: 贾育林调任中央纪委驻民政部纪检组组长，曾任中纪委五室主任
+    publisher: 澎湃新闻
+    date: 2016-05-12
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1468386
+    excerpt: true
+    keep:
+      - 接棒曲淑辉
+      - 官方公开新闻报道显示，贾育林长期在中央纪委监察部工作
+  - id: k08-ce-2017-07-05-mca
+    title: 民政部迎来新纪检组长 原纪检组长曾被问责
+    publisher: 中国经济网
+    date: 2017-07-05
+    voice: zh
+    url: http://www.ce.cn/xwzx/gnsz/gdxw/201707/05/t20170705_24046577.shtml
+    excerpt: true
+    keep:
+      - 已接替贾育林
+      - 中纪委驻民政部纪检组组长此前长期由曲淑辉担任
+  - id: k08-caixin-2017-07-18-jia-yulin
+    title: 接班傅自应 贾育林任驻中宣部纪检组长
+    publisher: 财新网
+    date: 2017-07-18
+    voice: zh
+    url: https://china.caixin.com/2017-07-18/101117354.html
+    excerpt: true
+    keep:
+      - 空缺四个月的中央纪委驻中宣部纪检组组长迎来新人
+      - 这是贾育林首次以该身份亮相公开报道
+  - { id: k08-wiki-jia-yulin, title: 贾育林（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/贾育林", excerpt: true, keep: [ 贾育林, 年 ] }
+  - id: k08-caixin-2026-01-22-yan-weiyao
+    title: 人事观察｜曾查处足球腐败 严维耀升任驻全国人大机关纪检监察组组长
+    publisher: 财新网
+    date: 2026-01-22
+    voice: zh
+    url: https://china.caixin.com/2026-01-22/102406597.html
+    excerpt: true
+    keep:
+      - 前任王立山到龄
+      - 二十届中央纪委五次全会闭幕后
+  - id: k08-thepaper-12214059-wang-lishan
+    title: 王立山已担任中央纪委国家监委驻全国人大机关纪检监察组组长
+    publisher: 澎湃新闻
+    date: 2021-04-15
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_12214059
+    excerpt: true
+    keep:
+      - 此前担任湖北省委常委、省纪委书记的十九届中央纪委委员王立山
+      - 王立山，男，1961年11月出生
+      - 王立山曾任河北省委组织部副部长
+      - 原任中央纪委国家监委驻全国人大机关纪检监察组组长的是
+  - { id: k08-wiki-wang-lishan, title: 王立山（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王立山", excerpt: true, keep: [ 王立山, 年 ] }
+  - id: k08-thepaper-4226998-liu-yi
+    title: 刘奕担任中国足球协会秘书长
+    publisher: 澎湃新闻
+    date: 2019-08-22
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_4226998
+    excerpt: true
+    keep:
+      - 在中国足球协会第十一届执委会第一次会议上
+  - id: k08-qingdaonews-2013-04-25-casic
+    title: 中国航天两大集团新设董事会并调整主要负责人
+    publisher: 青岛新闻网（中新社）
+    date: 2013-04-25
+    voice: zh
+    url: https://news.qingdaonews.com/zhongguo/2013-04/25/content_9717807.htm
+    excerpt: true
+    keep:
+      - 中国航天科工集团公司原总经理许达哲出任
+      - 曹建国接任该集团公司总经理
+  - id: k08-sina-2024-12-28-cba
+    title: “下海”5年，中国银行业协会原秘书长被查
+    publisher: 新浪财经
+    date: 2024-12-28
+    voice: zh
+    url: https://finance.sina.com.cn/wm/2024-12-28/doc-ineaysic3554966.shtml
+    excerpt: true
+    keep:
+      - 2020年12月，刘峰开始任中国银行业协会秘书长
+      - 刘峰的下属，中国银行业协会原副秘书长郭三野
+  - id: k08-ce-2016-09-14-cba
+    title: 潘光伟任中银协专职副会长 黄润中任秘书长
+    publisher: 中国经济网
+    date: 2016-09-14
+    voice: zh
+    url: http://finance.ce.cn/rolling/201609/14/t20160914_15943882.shtml
+    excerpt: true
+    keep:
+      - 经田国立会长提名
+      - 黄润中，1972年8月出生
+  - id: k08-ce-2021-05-28-sac
+    title: 证券业协会高层人事变动 原执行副会长安青松当选会长
+    publisher: 中国经济网（时代周报）
+    date: 2021-05-28
+    voice: zh
+    url: http://finance.ce.cn/stock/gsgdbd/202105/28/t20210528_36597088.shtml
+    excerpt: true
+    keep:
+      - 原执行副会长安青松当选为新一届中证协会长
+      - 调任中证协党委书记、执行副会长
