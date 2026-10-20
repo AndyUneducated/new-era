@@ -1,0 +1,270 @@
+# E15 events: 2026-01-01 to 2026-10-19, all lanes
+web:
+  # --- ideo ---
+  - id: e15-xinhua-2026-06-15-party-building-thought
+    title: 第一观察丨习近平党建思想指引强党强国之路
+    publisher: 新华网
+    date: 2026-06-15
+    voice: official
+    url: http://www.news.cn/20260615/93a03c5b59244357b93d1f6a6c47d021/c.html
+    start: 6月15日，全国党建工作座谈会
+  - id: e15-gov-2026-06-18-party-building-notice
+    title: 中央党的建设工作领导小组印发《关于学习贯彻习近平党建思想的通知》
+    publisher: 中国政府网（新华社）
+    date: 2026-06-18
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202606/content_7072730.htm
+    start: 新华社北京6月18日电
+  - id: e15-gov-2026-02-23-performance-view
+    title: 中办印发《通知》在全党开展树立和践行正确政绩观学习教育
+    publisher: 中国政府网（新华社）
+    date: 2026-02-23
+    voice: doc
+    url: https://www.gov.cn/zhengce/202602/content_7058350.htm
+    start: 新华社北京2月23日电
+  - id: e15-gov-2026-02-24-performance-view-meeting
+    title: 中央党的建设工作领导小组召开会议 研究部署树立和践行正确政绩观学习教育工作
+    publisher: 中国政府网（新华社）
+    date: 2026-02-24
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202602/content_7059185.htm
+    start: 新华社北京2月24日电
+  # --- society ---
+  - id: e15-caixin-2026-08-21-hengzhou-toll
+    title: 广西横州水库溃坝洪灾共致107人遇难、7人失联
+    publisher: 财新网
+    date: 2026-08-21
+    voice: zh
+    url: https://china.caixin.com/m/2026-08-21/102476557.html
+    excerpt: true
+    keep: [横州六蓝、云表等水库溃坝洪灾遇难107人, 其中横州市六蓝水库出现超百米的溃口]
+  - id: e15-gov-2026-07-24-hengzhou-probe
+    title: 国务院成立广西南宁横州市六蓝水库“7·6”溃坝灾害调查评估组
+    publisher: 中国政府网（新华社）
+    date: 2026-07-24
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202607/content_7076480.htm
+    start: 新华社北京7月24日电
+  - id: e15-bbc-2026-07-10-hengzhou-dam
+    title: 广西水灾：一座建于“大跃进”时期的水库，为何未能抵挡极端洪水？
+    publisher: BBC 中文
+    date: 2026-07-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/simp
+    excerpt: true
+    keep: [在事故发生前一年才完成标准化管理工程, 六蓝水库的主坝是均质土坝]
+  - id: e15-xinhua-2026-07-30-pengshui
+    title: 重庆彭水山体崩塌找到并确认51人遇难
+    publisher: 新华网
+    date: 2026-07-30
+    voice: official
+    url: https://www.news.cn/20260730/ee798de7ea2442ddb5a5b41337eb76cd/c.html
+    start: 新华社重庆7月30日电
+  - id: e15-mem-2026-08-04-pengshui-probe
+    title: 国务院成立重庆彭水汉葭街道“7·17”特别重大山体崩塌灾害调查评估组
+    publisher: 应急管理部
+    date: 2026-08-04
+    voice: official
+    url: https://www.mem.gov.cn/xw/bndt/202608/t20260804_679387.shtml
+    start: 7月17日，重庆彭水县
+  - id: e15-gov-2026-09-10-qingdao-fire-xi
+    title: 习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示
+    publisher: 中国政府网（新华社）
+    date: 2026-09-10
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7080636.htm
+    start: 新华社北京9月10日电
+  - id: e15-gov-2026-09-14-qingdao-fire-probe
+    title: 国务院对中国船舶集团青岛北海造船有限公司“9·10”重大火灾事故提级调查
+    publisher: 中国政府网（新华社）
+    date: 2026-09-14
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202609/content_7081052.htm
+    start: 新华社北京9月14日电
+  - id: e15-xinhua-2026-08-27-gyirong
+    title: 西藏吉隆泥石流灾害搜救出2人，遇难3人、失联558人
+    publisher: 新华网
+    date: 2026-08-27
+    voice: official
+    url: http://www.xinhuanet.com/20260827/09594750e874436b97cf55f838fe652a/c.html
+    start: 新华社西藏吉隆8月27日电
+  - id: e15-gmw-2026-09-18-gyirong
+    title: 吉隆口岸562人死亡失踪
+    publisher: 光明日报
+    date: 2026-09-18
+    voice: official
+    url: https://m.gmw.cn/2026-09/18/content_1304565311.htm
+    start: 记者从国家防减救灾委
+    end: （光明日报全媒体记者姚亚奇）
+  # --- hkmt ---
+  - id: e15-xinhua-2026-08-08-wang-fuk-report
+    title: 香港宏福苑火灾跨部门调查最终报告：大火或由烟头引起
+    publisher: 新华网
+    date: 2026-08-08
+    voice: official
+    url: https://www.xinhuanet.com/20260808/e0f3570603fc43e8a2178f1517398456/c.html
+    start: 新华社香港8月7日电
+  - id: e15-hkgov-2026-08-18-wang-fuk-extension
+    title: 延展就大埔宏福苑火災成立的獨立委員會提交報告的期限
+    publisher: 香港特區政府新聞公報
+    date: 2026-08-18
+    voice: official
+    url: https://www.info.gov.hk/gia/general/202608/18/P2026081800217.htm
+    start: 就大埔宏福苑火災成立的獨立委員會今日
+  # --- foreign ---
+  - id: e15-mfa-2026-05-20-xi-putin
+    title: 习近平同俄罗斯总统普京会谈
+    publisher: 外交部
+    date: 2026-05-20
+    voice: official
+    url: https://www.mfa.gov.cn/zyxw/202605/t20260520_11914167.shtml
+    start: 2026年5月20日上午
+  - id: e15-gov-2026-08-31-sco-putin
+    title: 习近平会见俄罗斯总统普京（比什凯克）
+    publisher: 中国政府网（新华社）
+    date: 2026-08-31
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202608/content_7079736.htm
+    start: 新华社比什凯克8月31日电
+  - id: e15-mfa-2026-09-12-brics
+    title: 习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话
+    publisher: 外交部
+    date: 2026-09-12
+    voice: official
+    url: https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202609/t20260912_12021146.shtml
+    start: 当地时间2026年9月12日下午
+  - id: e15-mofcom-2026-01-06-japan-dual-use
+    title: 商务部公告2026年第1号 关于加强两用物项对日本出口管制的公告
+    publisher: 商务部
+    date: 2026-01-06
+    voice: doc
+    url: https://www.mofcom.gov.cn/zfxxgk/gkml/art/2026/art_cd758ab3e7fb4f8e93d6863b5bfe391e.html
+    start: 根据《中华人民共和国出口管制法》
+  - id: e15-mofcom-2026-02-24-japan-qa
+    title: 商务部新闻发言人就对日相关出口管制措施答记者问
+    publisher: 商务部
+    date: 2026-02-24
+    voice: official
+    url: https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_ecab07b2d57149ecbd800fe40362e8ed.html
+    start: 问：2026年2月24日
+  - id: e15-mofcom-2026-06-29-japan-list
+    title: 商务部公告2026年第27号 公布将20家日本实体列入出口管制管控名单
+    publisher: 商务部
+    date: 2026-06-29
+    voice: doc
+    url: https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_df87be1437044874a35f85cf6e076f3d.html
+    start: 根据《中华人民共和国出口管制法》
+    end: 附件：出口管制管控名单
+  # --- ethnic ---
+  - id: e15-cz-embassy-2026-03-26-tibet
+    title: 驻捷克使馆发言人就有关涉藏问题答记者问
+    publisher: 中国驻捷克共和国大使馆
+    date: 2026-03-26
+    voice: official
+    url: https://cz.china-embassy.gov.cn/zxdt/202603/t20260326_11881876.htm
+    start: 问：3月25日
+  - id: e15-cna-2026-03-27-czech-senate
+    title: 捷克參議院通過達賴喇嘛有關決議 中國稱干涉內政
+    publisher: 中央社
+    date: 2026-03-27
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202603270218.aspx
+    excerpt: true
+    keep: [捷克參議院25日通過一項決議, 支持西藏人民自由選擇未來的第15世達賴喇嘛]
+  - id: e15-eumission-2026-05-01-ep-resolution
+    title: 驻欧盟使团发言人就欧洲议会涉华决议答记者问
+    publisher: 中国驻欧盟使团
+    date: 2026-05-01
+    voice: official
+    url: https://eu.china-mission.gov.cn/chn/zclc/202605/t20260501_11903873.htm
+    start: 问：2026年4月30日
+    end: 健康稳定发展。
+  - id: e15-eupublicdata-2026-04-30-ep-vote
+    title: New Chinese law on ‘ethnic unity and progress’ and the intensified suppression of ethnic identities — EP vote 192365
+    publisher: EU Public Data
+    date: 2026-04-30
+    voice: west
+    lang: en
+    url: https://eupublicdata.eu/data/votes/192365/
+    start: EP ROLL-CALL VOTE
+    end: Attendees
+  - id: e15-npc-2026-07-01-ethnic-law
+    title: 为民族团结进步事业行稳致远提供坚实法治保障
+    publisher: 中国人大网
+    date: 2026-07-01
+    voice: official
+    url: http://www.npc.gov.cn/c2/c30834/202607/t20260701_456007.html
+  # --- econ ---
+  - id: e15-gov-2026-01-16-consumer-loans
+    title: 关于优化实施个人消费贷款财政贴息政策有关事项的通知（财金〔2026〕1号）
+    publisher: 中国政府网（财政部 中国人民银行 金融监管总局）
+    date: 2026-01-16
+    voice: doc
+    url: https://www.gov.cn/zhengce/zhengceku/202601/content_7055545.htm
+  - id: e15-gov-2026-01-20-demand-package
+    title: 协同促内需！财政金融一揽子政策落地
+    publisher: 中国政府网（新华社）
+    date: 2026-01-20
+    voice: official
+    url: https://www.gov.cn/zhengce/202601/content_7055558.htm
+  - id: e15-mof-2026-09-29-mortgage-subsidy
+    title: 关于实施居民购房贷款贴息政策的通知（财金〔2026〕95号）
+    publisher: 财政部
+    date: 2026-09-29
+    voice: doc
+    url: https://jrs.mof.gov.cn/zhengcefabu/phjr/202609/t20260929_3998312.htm
+  # --- concept four-cardinal-principles: charter and constitution texts ---
+  - id: e15-12371-1982-09-06-party-charter
+    title: 中国共产党章程（1982年9月6日十二大通过）
+    publisher: 共产党员网
+    date: 1982-09-06
+    voice: doc
+    url: https://fuwu.12371.cn/2012/09/27/ARTI1348715767823434.shtml
+    start: 中国共产党是中国工人阶级的先锋队
+    end: 直至最后实现共产主义。
+  - id: e15-12371-1992-10-18-party-charter
+    title: 中国共产党章程（1992年10月18日十四大通过）
+    publisher: 共产党员网
+    date: 1992-10-18
+    voice: doc
+    url: https://www.12371.cn/2012/09/17/ARTI1347854334462225.shtml
+    start: 中国共产党是中国工人阶级的先锋队
+    end: 共同为建设有中国特色的社会主义而奋斗。
+  - id: e15-npc-1982-12-04-constitution
+    title: 中华人民共和国宪法（1982年12月4日）
+    publisher: 中国人大网
+    date: 1982-12-04
+    voice: doc
+    url: http://www.npc.gov.cn/zgrdw/npc/zt/qt/gjxfz/2014-12/03/content_1888093.htm
+  # --- folk ---
+  - id: e15-bbc-2026-03-17-openclaw
+    title: Openclaw和AI代理热潮拆解：从“养龙虾”到“卸龙虾”
+    publisher: BBC 中文
+    date: 2026-03-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c93wvdn91kxo/simp
+    excerpt: true
+    keep: [因其标志为红色龙虾，被俗称“龙虾”, 限制在办公网络环境使用OpenClaw, 腾讯日前在深圳的安装活动]
+  - id: e15-xinhua-2026-03-18-openclaw
+    title: “龙虾”爆火别着急尝鲜
+    publisher: 新华网（经济日报）
+    date: 2026-03-18
+    voice: official
+    url: https://www.news.cn/tech/20260318/baf110e2b1404e048f46cad685871937/c.html
+    start: 最近全网都在问
+  - id: e15-bbc-2026-02-10-chinamaxxing
+    title: TikTok热议“成为中国人”：网民视为反抗西方霸权，官方下场背书
+    publisher: BBC 中文
+    date: 2026-02-10
+    voice: zh
+    url: https://www.bbc.com/zhongwen/articles/c6205zljdvqo/simp
+    excerpt: true
+    keep: [戏称自己正在“成为中国人”, 很高兴看到越来越多的外国朋友有意愿、有机会感受中国的发展变化]
+  - id: e15-zjsnews-2026-08-26-feidudu
+    title: 热梗拆解档│“你胆子真是肥嘟嘟的”：这届年轻人，连表达不满都开始“软着陆”了
+    publisher: 紫金山新闻（南京日报）
+    date: 2026-08-26
+    voice: zh
+    url: https://m.zjsnews.cn/news/9187829567605142059
+    excerpt: true
+    keep: [抢生意都抢到我头上来了，胆子真是肥嘟嘟的, 成为八月刷屏的网络流行语]

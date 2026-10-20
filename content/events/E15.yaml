@@ -1,0 +1,433 @@
+# E15: 2026-01-01 to 2026-10-19, after the 37 events already in the library. purge only for Politburo, Central Committee
+# (sitting or former) and full generals; the fifth plenum itself is left out (#72).
+
+# ---------- power ----------
+- id: e15-2026-song-ping-death
+  date: 2026-03-04
+  title: 宋平逝世，享年109岁
+  lane: power
+  summary: 2026年3月4日，十三届中央政治局常委、原国务委员宋平在北京病逝，享年109岁，新华社讣告称他是“杰出的无产阶级革命家、政治家”。宋平主政甘肃、主持中组部工作期间提拔举荐过胡锦涛、温家宝等人，联合早报说他曾被称为“中国政坛最大伯乐”；1979年胡锦涛以甘肃省建委设计管理处副处长身份向他汇报，次年出任省建委副主任。
+  people: [song-ping, hu-jintao, wen-jiabao]
+  voices:
+    - voice: zh
+      text: 宋平在甘肃和中共中央组织部主持工作时，提拔举荐过中共前总书记胡锦涛、前总理温家宝等重要领导人，曾被称为“中国政坛最大伯乐”。
+      cite: f05-zaobao-2026-03-04-song-ping
+      quote: true
+  cites: [b22-gov-2026-03-04-song-ping-death, f05-zaobao-2026-03-04-song-ping]
+
+- id: e15-2026-qin-gang-demoted
+  date: 2026-03-08
+  title: 港媒称秦刚被贬为副部级、提早退休
+  lane: power
+  summary: 2026年3月8日，联合报转述香港《明报》引述的可靠消息，称前外交部长秦刚已由国家领导人贬为副部级官员并提早退休，原因是“生活作风问题”且造成恶劣影响；明报还说他2025年10月疑似在北京国际音乐节露面。秦刚2023年被免去外长职务后从公众视野消失，官方始终没有公布原因，这一说法也未获官方证实。
+  people: [qin-gang]
+  cites: [v01-udn-2026-03-08-qin-gang]
+  verify: true
+
+- id: e15-2026-guan-zhiou-hubei
+  date: 2026-05-30
+  title: 关志鸥任湖北省委书记，2026年首个省委书记调整
+  lane: power
+  summary: 2026年5月30日，中组部副部长郝军辉在湖北省领导干部会议上宣布，关志鸥任湖北省委书记，王忠林不再担任、另有任用。财新称这是省级党委换届临近之际2026年首次调整省委书记。关志鸥1969年生，长期在辽宁任职，2024年12月起任自然资源部部长，是二十届中央候补委员。
+  people: [guan-zhiou, wang-zhonglin]
+  cites: [u07-xinhua-2026-05-30-guan-zhiou, u07-caixin-2026-05-30-guan-zhiou]
+
+- id: e15-2026-cai-qi-party-school
+  date: 2026-06-05
+  title: 蔡奇兼任中央党校校长
+  lane: power
+  major: true
+  summary: 2026年6月5日，政治局常委、中央书记处书记、中办主任蔡奇首次以中央党校（国家行政学院）校长身份出席毕业典礼。前任陈希2022年卸任中组部部长后仍兼校长，至此卸任，党校校长重新由政治局常委兼任。中央社称蔡奇是习近平实际上的幕僚长；苏黎世大学学者米特尔施泰特认为党的组织、论述和行政职能由此集中于一名常委身上，称这种安排“史无前例”。
+  people: [cai-qi, chen-xi, xi-jinping]
+  cites: [b06-cna-2026-06-06-cai-party-school, b09-udn-2026-06-06-cai-qi-school]
+
+- id: e15-2026-luo-wen-hebei
+  date: 2026-07-31
+  title: 罗文任河北省委书记
+  lane: power
+  summary: 2026年7月31日，中组部分管日常工作的副部长黄建发在河北省领导干部会议上宣布，罗文任河北省委书记，倪岳峰不再担任、将另有任用。罗文1964年生，工信系统出身，曾任工信部副部长、国家发改委副主任、四川省委副书记，2022年6月起任国家市场监督管理总局局长，是二十届中央委员。
+  people: [luo-wen, ni-yuefeng, huang-jianfa]
+  cites: [p01-xinhua-2026-07-31-luo-wen]
+
+- id: e15-2026-kong-shaoxun-gansu
+  date: 2026-08
+  end: 2026-09-29
+  title: 带离胡锦涛的孔绍逊出任甘肃省长
+  lane: power
+  summary: 2026年8月，中办副主任兼秘书局局长孔绍逊调任甘肃省委副书记，9月2日任代省长，9月29日由甘肃省人大选为省长。他2010年起在中办工作近16年；2022年10月22日二十大闭幕会上，他受习近平之命召来一名安全人员，一同把坐在习近平左侧的胡锦涛带离会场。
+  people: [kong-shaoxun, hu-jintao, xi-jinping]
+  cites: [u08-cna-2026-09-29-kong-shaoxun, u08-caixin-2026-08-30-kong-shaoxun, p02-xinhua-2026-09-02-kong-shaoxun-acting, p02-xinhua-2026-09-29-kong-shaoxun-elected]
+
+- id: e15-2026-six-provincial-secretaries
+  date: 2026-09-22
+  end: 2026-09-23
+  title: 两天调整西藏、甘肃、青海、安徽、河南、福建六省区书记
+  lane: power
+  summary: 2026年9月22日至23日，新华社连续发布中央决定：甘肃省委书记胡昌升调任西藏自治区党委书记，王君正不再担任；青海省委书记吴晓军调任甘肃，罗东川任青海省委书记；李乐成任安徽省委书记，梁言顺不再担任；福建省委书记周祖翼调任河南，刘宁不再担任河南省委书记；赵龙任福建省委书记。
+  people: [hu-changsheng, wang-junzheng, wu-xiaojun, luo-dongchuan, li-lecheng, liang-yanshun, zhou-zuyi, liu-ning, zhao-long]
+  cites: [p02-xinhua-2026-09-22-xizang-3-sec, p01-xinhua-2026-09-23-three-provinces]
+
+# ---------- purge ----------
+- id: e15-2026-wang-lixia-expelled
+  date: 2026-02-12
+  end: 2026-06-03
+  title: 中央委员王莉霞被开除党籍、提起公诉
+  lane: purge
+  summary: 2026年2月12日，中纪委通报二十届中央委员、内蒙古自治区政府原主席王莉霞被开除党籍和公职，称她“落实党中央决策部署阳奉阴违、自行其是”，违规出入私人会所，在干部选拔任用中为他人谋利并收受财物，并“违规干预、插手司法活动”；开除党籍待中央全会追认。她2025年8月在任上被查。6月3日官方通报，大庆市检察院已以受贿罪提起公诉。
+  people: [wang-lixia]
+  cites: [k05-xinhua-2026-02-12-wang-lixia, k05-chinanews-2026-06-03-wang-lixia]
+
+- id: e15-2026-hu-henghua-probed
+  date: 2026-03-20
+  end: 2026-05-28
+  title: 重庆市长胡衡华在任上被查
+  lane: purge
+  summary: 2026年3月20日，新华社发布消息，重庆市委副书记、市长胡衡华涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。胡衡华是二十届中央委员，在任上落马。5月28日，重庆市六届人大常委会第二十三次会议决定接受胡衡华辞去重庆市市长职务。
+  people: [hu-henghua]
+  cites: [c03-xinhua-2026-03-20-hu-henghua-probe, v01-jfdaily-2026-05-28-hu-henghua, k02-xinhua-2022-10-22-20-cc]
+
+- id: e15-2026-wei-li-sentenced
+  date: 2026-05-07
+  title: 两任防长魏凤和、李尚福被判死缓、终身监禁
+  lane: purge
+  major: true
+  summary: 2026年5月7日，军事法院宣判中央军委原委员、原国务委员兼国防部长魏凤和受贿案和李尚福受贿、行贿案，两人均被判处死刑缓期二年执行，剥夺政治权利终身，没收个人全部财产，死缓期满减为无期徒刑后“终身监禁，不得减刑、假释”。李尚福2023年8月起从公众视野消失，10月被免职。BBC称批评人士认为反腐运动同时被用作清洗政治对手的工具。
+  people: [wei-fenghe, li-shangfu]
+  voices:
+    - voice: zh
+      text: 自上台以来，习近平已多次发起反腐运动，批评人士指出，这些行动同时也被用作清洗政治对手的工具。
+      cite: b08-bbc-2026-05-07-wei-li
+      quote: true
+  cites: [b08-gov-2026-05-07-wei-li-sentenced, b08-bbc-2026-05-07-wei-li]
+
+- id: e15-2026-wang-xiaodong-probed
+  date: 2026-05-17
+  title: 湖北原省长王晓东被查
+  lane: purge
+  summary: 2026年5月17日，中纪委网站发布消息，十四届全国政协常委、农业和农村委员会副主任王晓东涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。王晓东是十九届中央委员，曾任湖北省省长，2021年5月辞去省长职务，由王忠林接任。
+  people: [wang-xiaodong, wang-zhonglin]
+  cites: [k05-chinanews-2026-05-17-wang-xiaodong, k02-xinhua-2017-10-24-19-cc, p02-xinhua-2021-05-07-wang-zhonglin-acting]
+
+- id: e15-2026-cai-fuchao-probed
+  date: 2026-07-15
+  title: 中宣部原副部长蔡赴朝被查
+  lane: purge
+  summary: 2026年7月15日，中央纪委国家监委网站发布消息，中央宣传部原副部长、原国家新闻出版广电总局党组书记、局长蔡赴朝涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。蔡赴朝是十八届中央委员。
+  people: [cai-fuchao]
+  cites: [k04-ccdi-2026-07-15-cai-fuchao-probe, k02-xinhua-2012-11-14-18-cc]
+
+- id: e15-2026-jiang-chaoliang-sentenced
+  date: 2026-08-28
+  title: 湖北原省委书记蒋超良受贿7.46亿被判死缓、终身监禁
+  lane: purge
+  summary: 2026年8月28日，南京市中级人民法院一审以受贿罪判处十四届全国人大常委会原委员、湖北省委原书记蒋超良死刑缓期二年执行，期满减为无期徒刑后终身监禁。法院认定他1995年至2025年在农业银行、交通银行、国家开发银行、吉林省政府、湖北省委任职期间受贿7.46亿余元；他检举揭发他人重大犯罪，经查证属实，“有重大立功表现”，故未判死刑立即执行。蒋超良是十九届中央委员。
+  people: [jiang-chaoliang]
+  cites: [k04-xinhua-2026-08-28-jiang-chaoliang-verdict, k02-xinhua-2017-10-24-19-cc]
+
+- id: e15-2026-jin-xiangjun-sentenced
+  date: 2026-09-08
+  title: 山西原省长金湘军受贿1.48亿被判死缓
+  lane: purge
+  summary: 2026年9月8日，河南信阳市中级人民法院一审以受贿罪判处山西省委原副书记、省政府原省长金湘军死刑缓期二年执行，剥夺政治权利终身，没收个人全部财产。法院认定他2004年上半年至2025年4月在玉林、防城港、天津、山西任职期间受贿1.48亿余元。该案6月11日开庭。金湘军是二十届中央委员，2025年4月任上被查。
+  people: [jin-xiangjun]
+  cites: [c03-xinhua-2026-09-08-jin-xiangjun-verdict, k02-xinhua-2022-10-22-20-cc]
+
+- id: e15-2026-wang-sun-expelled
+  date: 2026-09-08
+  end: 2026-09-09
+  title: 中央委员王祥喜、孙绍骋被开除党籍
+  lane: purge
+  summary: 2026年9月8日、9日，中纪委先后通报二十届中央委员、应急管理部原部长王祥喜和二十届中央委员、全国人大社会建设委员会原副主任委员孙绍骋被开除党籍和公职，涉嫌受贿犯罪移送审查起诉，开除党籍待中央全会追认。孙绍骋的通报还写有“对抗组织审查，搞迷信活动”、纵容默许子女利用其职务影响谋取私利。两份通报都说他们在党的十八大后不收敛、不收手。
+  people: [wang-xiangxi, sun-shaocheng]
+  cites: [c03-xinhua-2026-09-08-wang-xiangxi-expel, c03-xinhua-2026-09-09-sun-shaocheng-expel]
+
+# ---------- army ----------
+- id: e15-2026-liao-xilong-death
+  date: 2026-01-23
+  title: 原总后勤部部长廖锡龙上将逝世
+  lane: army
+  summary: 2026年1月23日，中央军委原委员、解放军原总后勤部部长廖锡龙上将在北京病逝，享年85岁，29日在八宝山火化。他1959年从贵州思南入伍，曾任陆军第11军军长、成都军区司令员，2000年授上将军衔，2002年10月任总后勤部部长、11月任中央军委委员，是十五届至十七届中央委员。
+  people: [liao-xilong]
+  cites: [c01-gov-2026-01-29-liao-xilong-death]
+
+- id: e15-2026-three-generals-cppcc-removed
+  date: 2026-03-02
+  title: 韩卫国、刘雷、高津三上将被撤销全国政协委员资格
+  lane: army
+  summary: 2026年3月2日，十四届全国政协常委会会议决定，免去韩卫国、刘雷、高津的全国政协常委及专门委员会副主任职务并撤销其政协委员资格，同时撤销国防科工局原局长张克俭的常委职务和委员资格。星岛日报称三人都是2017年晋升的上将，分别曾任陆军司令员、陆军政委和军委后勤保障部部长，此举证实他们已经落马。
+  people: [han-weiguo, liu-lei-pla, gao-jin, zhang-kejian]
+  cites: [f10-xinhua-2026-03-02-cppcc, f10-singtao-2026-03-02-three-generals]
+
+- id: e15-2026-national-day-reception-veterans
+  date: 2026-09-30
+  title: 李作成等退役上将现身国庆招待会
+  lane: army
+  summary: 2026年9月30日国庆招待会，星岛网据央视《新闻联播》画面报道，中央军委原副主席范长龙、前国防部长常万全、前空军司令员马晓天，以及中央军委联合参谋部原参谋长李作成上将等均到场。李作成此前缺席了8月17日纪念江泽民诞辰100周年大会，这次重新露面。
+  people: [li-zuocheng, fan-changlong, chang-wanquan, ma-xiaotian]
+  cites: [b21-zaobao-2026-09-30-reception]
+
+# ---------- ideo ----------
+- id: e15-2026-performance-view-campaign
+  date: 2026-02-23
+  end: 2026-07
+  title: 全党开展树立和践行正确政绩观学习教育
+  lane: ideo
+  summary: 2026年2月23日，中办印发通知，在全党开展树立和践行正确政绩观学习教育，以县处级以上领导班子和领导干部特别是“一把手”为重点，春节假期后启动、7月底基本结束，不分批次、不划阶段，总要求是“立党为公、为民造福、科学决策、真抓实干”。次日中央党建工作领导小组开会部署，组长蔡奇主持，副组长李希讲话，要求省市县乡领导班子换届落实学习教育要求。
+  people: [cai-qi, li-xi]
+  concepts: [strict-governance]
+  cites: [e15-gov-2026-02-23-performance-view, e15-gov-2026-02-24-performance-view-meeting]
+
+- id: e15-2026-xi-party-building-thought
+  date: 2026-06-15
+  end: 2026-06-18
+  title: 提出“习近平党建思想”
+  lane: ideo
+  major: true
+  summary: 2026年6月15日，全国党建工作座谈会在京召开，部署学习贯彻“习近平党建思想”，新华社把其内涵概括为“十四个坚持”，首条是“坚持党的领导是中国特色社会主义最本质的特征”。6月18日，中央党的建设工作领导小组印发通知，称党中央“提出一系列管党治党、兴党强党新理念新思想新战略，形成习近平党建思想”，定位为习近平新时代中国特色社会主义思想的重要组成部分。
+  people: [xi-jinping]
+  concepts: [xi-thought, strict-governance, self-revolution, party-leadership]
+  cites: [e15-xinhua-2026-06-15-party-building-thought, e15-gov-2026-06-18-party-building-notice]
+
+# ---------- econ ----------
+- id: e15-2026-demand-package
+  date: 2026-01-20
+  title: 财政金融协同促内需一揽子政策落地
+  lane: econ
+  summary: 2026年1月9日国务院常务会议部署财政金融协同促内需一揽子政策，1月20日财政部等部门集中发布5则通知落地。其中个人消费贷款财政贴息延长至2026年底，信用卡账单分期纳入贴息、年贴息比例1个百分点，取消消费领域限制和单笔贴息500元上限，保留每人在一家经办机构每年累计贴息3000元的上限。
+  concepts: [proactive-fiscal-policy, dual-circulation]
+  cites: [e15-gov-2026-01-20-demand-package, e15-gov-2026-01-16-consumer-loans]
+
+- id: e15-2026-qiushi-financial-power
+  date: 2026-02-01
+  title: 《求是》发表习近平文章《走好中国特色金融发展之路，建设金融强国》
+  lane: econ
+  summary: 2026年2月1日出版的第3期《求是》发表习近平文章，概括中国特色金融发展之路的八个“坚持”，第一条是“坚持党中央对金融工作的集中统一领导”，称这条路“与西方金融模式有本质区别”；文章列出金融强国六项关键核心金融要素，第一项是拥有强大的货币，“具有全球储备货币地位”，并提出构建中国特色现代金融体系和中国特色金融文化。
+  people: [xi-jinping]
+  concepts: [financial-power]
+  cites: [i06-gov-2026-01-31-qiushi-finance]
+
+- id: e15-2026-mortgage-subsidy
+  date: 2026-09-29
+  title: 全国实施首套房贷款贴息
+  lane: econ
+  summary: 2026年9月29日，财政部等部门发布财金〔2026〕95号通知，自10月1日起在全国实施居民购房贷款贴息，暂定1年：新发放商业贷款购买建筑面积120平方米以下、价格150万元以下的首套住房，按本金给予年化1个百分点、不超过5年的贴息，单户贷款上限100万元，中央和地方财政按90%、10%分担，由银行扣息实现“免申即享”。
+  concepts: [housing-not-speculation]
+  cites: [e15-mof-2026-09-29-mortgage-subsidy]
+
+# ---------- society ----------
+- id: e15-2026-zhengfa-conference
+  date: 2026-01-18
+  end: 2026-01-19
+  title: 中央政法工作会议要求落实维护社会稳定责任制
+  lane: society
+  summary: 2026年1月18日至19日，中央政法工作会议在京召开，政治局委员、中央政法委书记陈文清讲话，要求政法战线坚持党的绝对领导、树立和践行正确政绩观，严格落实党委（党组）国家安全责任制和维护社会稳定责任制，全链条做好矛盾纠纷排查化解，“深化有关群体服务管理”，加快政法工作数字化平台建设。王小洪主持会议并作总结，张军、应勇出席。
+  people: [chen-wenqing, wang-xiaohong, zhang-jun, ying-yong]
+  concepts: [stability-maintenance, holistic-security]
+  cites: [c02-court-2026-01-19-zhengfa-meeting]
+
+- id: e15-2026-yu-wensheng-released
+  date: 2026-04-13
+  end: 2026-06-09
+  title: 维权律师余文生刑满出狱后全家被禁出境
+  lane: society
+  summary: 2026年4月13日，因煽动颠覆国家政权罪被判刑3年的维权律师余文生在江苏刑满出狱，妻子许艳随后发文说他已回到北京。2023年4月，两人应邀会见欧盟驻华代表团途中被拦截，许艳被判1年9个月。出狱后他前往安阳会见709案的周世锋，被北京国保阻止；6月9日一家三口在深圳罗湖口岸被边检以“出境有可能危害国家安全”为由禁止出境。
+  people: [yu-wensheng, xu-yan, zhou-shifeng]
+  concepts: [stability-maintenance]
+  cites: [c04-cna-2026-04-14-yu-wensheng, c04-rfa-2026-07-08-yu-wensheng]
+
+- id: e15-2026-tiananmen-mothers
+  date: 2026-06-01
+  title: “天安门母亲”37周年祭文重申三项诉求
+  lane: society
+  summary: 2026年六四37周年前夕，遇难者家属群体“天安门母亲”发表年度祭文，重申公布真相、合理赔偿遇难者及家属、依法追究责任者三项诉求，说遇难者亲属至今无法公开悼念。成员张先玲说丁子霖身体虚弱、听力衰退，现在只有她出面接受采访；发言人尤维洁说当局今年明显提早部署六四维稳，年近90岁的丁子霖和张先玲是重点看管对象。
+  people: [ding-zilin]
+  concepts: [stability-maintenance]
+  cites: [c06-rfa-2026-06-01-tiananmen-mothers, c06-rfi-2026-06-02-tiananmen-mothers]
+
+- id: e15-2026-guo-wengui-sentenced
+  date: 2026-06-29
+  title: 郭文贵在纽约被判30年
+  lane: society
+  summary: 2026年6月29日，流亡富商郭文贵在纽约南区联邦法院被判处30年监禁，没收8.89亿美元非法所得。他2024年7月被控12项罪名中9项成立，包括敲诈勒索、欺诈和洗钱；检方称他2018年至2023年通过网上追随者为投资和加密货币计划筹得逾10亿美元。法官托雷斯说郭文贵“利用那些希望为中国带来民主的人”，骗钱维持奢华生活。
+  people: [guo-wengui]
+  cites: [c04-bbc-2026-06-30-guo-wengui, c04-voa-2026-06-30-guo-wengui]
+
+- id: e15-2026-hengzhou-dam-collapse
+  date: 2026-07-06
+  title: 广西横州六蓝水库溃坝
+  lane: society
+  major: true
+  summary: 受台风“美莎克”影响，2026年7月上旬广西持续强降雨，7月6日上午南宁横州市六蓝、云表等水库漫溃，六蓝水库出现超百米的溃口，洪水直冲下游村庄。BBC称这座1958年建成的均质土坝“在事故发生前一年才完成标准化管理工程”。据8月21日通报，溃坝洪灾遇难107人、失联7人。7月24日国务院调查评估组由应急管理部副部长陈敏任组长开会。
+  cites: [e15-caixin-2026-08-21-hengzhou-toll, e15-bbc-2026-07-10-hengzhou-dam, e15-gov-2026-07-24-hengzhou-probe]
+
+- id: e15-2026-pengshui-landslide
+  date: 2026-07-17
+  title: 重庆彭水山体崩塌致51死10失联
+  lane: society
+  summary: 2026年7月17日，重庆彭水县汉葭街道发生山体崩塌，造成重大人员伤亡，乌江三桥等交通中断。26支队伍1080余名救援人员持续搜寻325小时，至7月30日确认51人遇难、10人失联，救出10人。国务院成立调查评估组，将其定为“7·17”特别重大山体崩塌灾害，由应急管理部党委委员、中国地震局局长王昆任组长，8月4日召开第一次全体会议。
+  cites: [e15-xinhua-2026-07-30-pengshui, e15-mem-2026-08-04-pengshui-probe]
+
+- id: e15-2026-gyirong-debris-flow
+  date: 2026-08-26
+  title: 西藏吉隆口岸泥石流，562人死亡失踪
+  lane: society
+  summary: 2026年8月26日上午，尼泊尔一侧发生泥石流，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡。8月27日救援指挥部通报，救出热索村村民2人，遇难3人、失联558人，其中外籍人员260人；外交部称尼泊尔一侧受灾地区失联中国公民近百人。9月18日，光明日报引述国家防减救灾委、应急管理部初步统计，吉隆口岸562人死亡失踪。
+  cites: [e15-xinhua-2026-08-27-gyirong, e15-gmw-2026-09-18-gyirong]
+
+- id: e15-2026-qingdao-shipyard-fire
+  date: 2026-09-10
+  title: 青岛北海造船厂货轮火灾致25死
+  lane: society
+  summary: 2026年9月10日11时15分许，中国船舶集团青岛北海造船有限公司一艘外籍货轮靠港维修期间起火，造成25人死亡、5人受伤。习近平作出指示，要求“尽快查明事故原因，依法严肃追究责任”。国务院对事故提级调查，调查组组长、应急管理部副部长宋元明9月14日主持首次全体会议，要求“严查转包和违规分包行为”，查清企业、行业监管和属地管理责任。
+  people: [xi-jinping]
+  cites: [e15-gov-2026-09-10-qingdao-fire-xi, e15-gov-2026-09-14-qingdao-fire-probe]
+
+- id: e15-2026-pan-shiyi-video
+  date: 2026-09
+  title: 潘石屹饭局视频：任志强那封信的其余10名收信人都被抓
+  lane: society
+  summary: 2026年9月，社交平台X流出一段被指是潘石屹私人饭局的影音。已举家移居美国的潘石屹说，2020年任志强批评习近平的那封信寄给了11个人，第一个是他，其他收信人都被抓了，暗示这是他滞美不归的原因。联合报还提到，中国7月下旬对通过境外信托配置个人资产订立20%税率，业界估计潘石屹可能面临至少20亿元人民币的补税。
+  people: [pan-shiyi, ren-zhiqiang, xi-jinping]
+  cites: [c04-udn-2026-09-pan-shiyi]
+
+# ---------- ethnic ----------
+- id: e15-2026-czech-senate-tibet
+  date: 2026-03-25
+  end: 2026-03-26
+  title: 捷克参议院通过涉达赖转世与民族团结法决议
+  lane: ethnic
+  summary: 2026年3月25日，捷克参议院通过关于第十五世达赖喇嘛选举及《民族团结进步促进法》通过后少数民族状况的决议，反对中国政府介入西藏宗教事务，建议捷克政府支持西藏人民自由选择未来的第15世达赖喇嘛。中国驻捷克使馆发言人次日表示强烈不满和坚决反对，称十四世达赖是“披着宗教外衣从事反华分裂活动的政治流亡者”。
+  concepts: [chinese-nation-community, sinicization-of-religion]
+  cites: [e15-cz-embassy-2026-03-26-tibet, e15-cna-2026-03-27-czech-senate]
+
+- id: e15-2026-ep-ethnic-law-resolution
+  date: 2026-04-30
+  end: 2026-05-01
+  title: 欧洲议会通过谴责《民族团结进步促进法》的决议
+  lane: ethnic
+  summary: 2026年4月30日，欧洲议会以439票赞成、52票反对、71票弃权，通过关于中国新的《民族团结进步促进法》和加强压制民族认同的决议。中国驻欧盟使团发言人次日称决议“罔顾事实和法理，恶意抹黑中国法律和民族政策”，粗暴干涉中国内政，已向欧方提出严正交涉，并敦促欧洲议会停止为反华分裂势力站台背书。
+  concepts: [chinese-nation-community]
+  cites: [e15-eupublicdata-2026-04-30-ep-vote, e15-eumission-2026-05-01-ep-resolution]
+
+- id: e15-2026-ethnic-law-in-force
+  date: 2026-07-01
+  title: 《民族团结进步促进法》施行
+  lane: ethnic
+  summary: 2026年7月1日建党105周年当天，3月通过的《民族团结进步促进法》施行。新华社称该法采用“序言+7章”体例共65条，是“我国30多年来第一部设置序言的法律”，并把推进互嵌式社区环境建设写入法律。施行前，6月22日在人民大会堂召开学习贯彻座谈会，6月24日国新办举行发布会；9月21日，李干杰在京宣布2026年民族团结进步宣传周启动。
+  people: [li-ganjie]
+  concepts: [chinese-nation-community]
+  cites: [e15-npc-2026-07-01-ethnic-law, c02-zytzb-2026-09-22-li-ganjie]
+
+# ---------- hkmt ----------
+- id: e15-2026-taiwan-work-conference
+  date: 2026-02-09
+  end: 2026-02-10
+  title: 2026年对台工作会议
+  lane: hkmt
+  summary: 2026年2月9日至10日，对台工作会议在京召开，政治局常委、全国政协主席王沪宁讲话，要求“牢牢把握两岸关系主导权主动权”，坚持一个中国原则和“九二共识”，“坚定支持岛内爱国统一力量”，坚决打击“台独”分裂势力、反对外部势力干涉，同时畅通两岸人员往来，支持台湾青年来大陆学习、工作、生活。中央外办主任王毅主持会议。
+  people: [wang-huning, wang-yi]
+  cites: [b05-xinhua-2026-02-10-wang-huning-taiwan]
+
+- id: e15-2026-jimmy-lai-fraud-quashed
+  date: 2026-02-26
+  end: 2026-03-06
+  title: 黎智英欺诈罪上诉得直，国安案不上诉
+  lane: hkmt
+  summary: 2026年2月26日，香港上诉法庭裁定黎智英和壹传媒前行政总监黄伟强2022年被定罪的欺诈罪上诉得直。黎智英2月9日在国安案被判囚20年，其中2年原与欺诈案同期执行，撤罪后出狱时间缩短，但仍要服刑至2040年；特区政府发言人称撤罪仍不改他公器私用的事实。3月6日，他的律师向香港自由新闻证实，已获明确指示不就国安案定罪或刑期上诉。
+  people: [li-zhiying]
+  cites: [b10-bbc-2026-02-26-lai-fraud, b10-hkgov-2026-02-26-lai-fraud, b10-hkfp-2026-03-06-lai-no-appeal]
+
+- id: e15-2026-lam-wing-kee-death
+  date: 2026-07-02
+  title: 铜锣湾书店林荣基在台北病逝
+  lane: hkmt
+  summary: 2026年7月2日，原香港铜锣湾书店店长林荣基因癌症复发扩散在台北病逝，终年70岁，台湾总统赖清德发文表示哀悼。2015年该书店股东、员工等5人相继失踪，后证实遭大陆当局拘押，林荣基被扣留400多天后于2016年6月返港，2019年4月移居台北，2020年4月在台北重开铜锣湾书店。
+  people: [lin-rongji, lai-qingde]
+  cites: [c06-bbc-2026-07-02-lam-wing-kee]
+
+- id: e15-2026-wang-fuk-report
+  date: 2026-08-07
+  end: 2026-08-18
+  title: 宏福苑大火跨部门调查报告：或由烟头引起
+  lane: hkmt
+  summary: 2026年8月7日，香港大埔宏福苑火灾独立委员会公开跨部门调查专组的最终报告，推断起火点位于宏昌阁104及105室外平台，那里堆积的安全网、发泡胶板等残留物高达2米，认为火灾“极有可能是意外事故，由烟头点燃现场的可燃物引致”。8月18日，委员会获行政长官李家超同意延展报告期限，预计10月底前提交；此前它已举行30场听证会，听取80名证人证供。
+  people: [li-jiachao]
+  cites: [e15-xinhua-2026-08-08-wang-fuk-report, e15-hkgov-2026-08-18-wang-fuk-extension]
+
+- id: e15-2026-trump-jimmy-lai
+  date: 2026-10-01
+  title: 特朗普称与习近平就释放黎智英“富有成果地”讨论
+  lane: hkmt
+  summary: 2026年10月初，美国总统特朗普说他与习近平就释放黎智英进行了非常重要的讨论，希望是“富有成果的讨论”（fruitful discussions），但随后又说放人对习近平而言是“艰难的一步”（a tough one for him to do）；他同时称习近平会“认真”考虑释放一名地下教会牧师。此前9月下旬习近平对美国进行了国事访问。
+  people: [li-zhiying, xi-jinping]
+  voices:
+    - voice: west
+      text: I think we had some very, very important discussions.
+      zh: 我认为我们进行了一些非常、非常重要的讨论。
+      cite: b10-independent-2026-10-01-lai-trump
+      quote: true
+  cites: [b10-independent-2026-10-01-lai-trump]
+
+# ---------- foreign ----------
+- id: e15-2026-japan-dual-use-controls
+  date: 2026-01-06
+  end: 2026-06-29
+  title: 中国禁止两用物项对日本军事用户出口并分批列单
+  lane: foreign
+  summary: 2026年1月6日，商务部公告禁止所有两用物项对日本军事用户、军事用途及一切有助于提升日本军事实力的最终用户用途出口。2月24日，三菱造船等20家日本实体被列入管控名单、斯巴鲁等20家列入关注名单，发言人称目的是制止日本“再军事化”和拥核企图；6月29日，防卫研究所等20家实体再被列入管控名单。
+  cites: [e15-mofcom-2026-01-06-japan-dual-use, e15-mofcom-2026-02-24-japan-qa, e15-mofcom-2026-06-29-japan-list]
+
+- id: e15-2026-putin-state-visit
+  date: 2026-05-20
+  title: 普京国事访华，中俄睦邻友好合作条约延期
+  lane: foreign
+  summary: 2026年5月20日，习近平在人民大会堂同来华国事访问的俄罗斯总统普京会谈，两国元首同意《中俄睦邻友好合作条约》继续延期。习近平说今年是中俄战略协作伙伴关系建立30周年、条约签署25周年。双方发表关于进一步加强全面战略协作、深化睦邻友好合作的联合声明和关于倡导世界多极化和新型国际关系的联合声明，并签署多项合作文件。
+  people: [xi-jinping]
+  concepts: [new-type-international-relations]
+  cites: [e15-mfa-2026-05-20-xi-putin]
+
+- id: e15-2026-gui-minhai-alive
+  date: 2026-07-04
+  title: 王毅访瑞典，瑞方称桂民海仍活着
+  lane: foreign
+  summary: 2026年7月4日，中国外长王毅访问斯德哥尔摩，瑞典外交大臣会后对媒体说，她要求释放瑞典公民桂民海，王毅在会谈中告知这位被羁押的出版商目前身体状况良好。桂民海是2015年铜锣湾书店事件主角之一，当年10月在泰国芭提雅被带走，2018年1月在两名瑞典外交官陪同下乘火车赴京途中，被约10名便衣警员强行带走。
+  people: [gui-minhai, wang-yi]
+  cites: [c06-rfi-2026-07-05-gui-minhai]
+
+- id: e15-2026-sco-bishkek
+  date: 2026-08-31
+  title: 习近平在比什凯克出席上合峰会并会见普京
+  lane: foreign
+  summary: 2026年8月31日，习近平在吉尔吉斯斯坦比什凯克出席上海合作组织峰会期间会见普京，称5月普京访华时双方对中俄关系作出部署，并说上合组织要壮大“引领全球治理改革、推进平等有序世界多极化的力量”。普京表示俄方愿加强与中方在联合国、金砖机制、二十国集团等框架内的协调，支持中方办好亚太经合组织领导人非正式会议。
+  people: [xi-jinping, cai-qi, wang-yi]
+  cites: [e15-gov-2026-08-31-sco-putin]
+
+- id: e15-2026-brics-new-delhi
+  date: 2026-09-12
+  title: 习近平赴新德里出席金砖峰会，中国明年任主席国
+  lane: foreign
+  summary: 2026年9月12日，习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议，发表题为《共担时代责任 勇做先锋力量》的讲话，说团结合作是金砖事业的力量之源，宣布中国将于明年接任金砖主席国、主办第十九次会晤，开启金砖合作第三个“金色十年”。会议通过《金砖国家领导人第十八次会晤新德里宣言》。
+  people: [xi-jinping]
+  cites: [e15-mfa-2026-09-12-brics]
+
+# ---------- folk ----------
+- id: e15-2026-chinamaxxing
+  date: 2026-02
+  title: 海外“成为中国人”潮流与外交部背书
+  lane: folk
+  summary: 2026年初，晨起喝热水、居家穿棉拖鞋、熬苹果银耳汤等华人生活习惯在TikTok和Instagram上流行，各国年轻人纷纷效仿，戏称自己正在“成为中国人”，英文称Chinamaxxing。外交部发言人林剑2月6日在记者会上说，“很高兴看到越来越多的外国朋友有意愿、有机会感受中国的发展变化”，体验中国百姓的烟火日常。
+  cites: [e15-bbc-2026-02-10-chinamaxxing]
+
+- id: e15-2026-openclaw-lobster
+  date: 2026-03
+  title: “养龙虾”热潮与官方降温
+  lane: folk
+  summary: 2026年3月，开源AI代理软件OpenClaw在中国爆红，因其标志为红色龙虾，被俗称“龙虾”，网民争相“养龙虾”。腾讯在深圳的安装活动近千人排队，百度办起“龙虾市集”。随后国企和政府机构被要求限制在办公网络使用，至少15家券商禁止私装，工信部发出风险提示；新华网转载经济日报评论，提醒普通用户“先别着急尝鲜”，网上随即出现付费“卸龙虾”。
+  cites: [e15-bbc-2026-03-17-openclaw, e15-xinhua-2026-03-18-openclaw]
+
+- id: e15-2026-feidudu
+  date: 2026-08
+  title: “胆子真是肥嘟嘟的”
+  lane: folk
+  summary: 2026年8月，“胆子真是肥嘟嘟的”刷屏。它出自一段网传对话：顾客打算出一百元小费请骑手捎一包烟，一旁的商家跳出来抢单，骑手吐槽“抢生意都抢到我头上来了，胆子真是肥嘟嘟的”。紫金山新闻说，这句话后来被用来调侃各种大胆操作，既表达“你好大的胆子”又不至于引发争吵，在抖音、微博衍生大量表情包和配音段子，“成为八月刷屏的网络流行语”。
+  cites: [e15-zjsnews-2026-08-26-feidudu]

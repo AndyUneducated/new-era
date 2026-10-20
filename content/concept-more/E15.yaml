@@ -1,0 +1,103 @@
+# E15: policies for the 2026 events, and the charter / constitution texts behind four-cardinal-principles.
+
+# ---------- four-cardinal-principles: where it was written into the charter and the constitution ----------
+four-cardinal-principles:
+  codified:
+    - date: 1982-09-06
+      where: 党章总纲（十二大）
+      cite: e15-12371-1982-09-06-party-charter
+      quote: 在现阶段，坚持社会主义道路，坚持人民民主专政，坚持党的领导，坚持马克思列宁主义、毛泽东思想，集中力量进行社会主义现代化建设，是全党团结统一的政治基础
+    - date: 1982-12-04
+      where: 宪法序言（1982）
+      cite: e15-npc-1982-12-04-constitution
+      quote: 中国各族人民将继续在中国共产党领导下，在马克思列宁主义、毛泽东思想指引下，坚持人民民主专政，坚持社会主义道路
+    - date: 1992-10-18
+      where: 党章总纲（十四大）
+      cite: e15-12371-1992-10-18-party-charter
+      quote: 坚持社会主义道路、坚持人民民主专政、坚持中国共产党的领导、坚持马克思列宁主义毛泽东思想这四项基本原则，是我们的立国之本
+  sections:
+    - h: 写入党章和宪法
+      from: 1982
+      to: 1992
+      text: 1982年9月十二大通过的党章没有用“四项基本原则”的名称，而是在总纲中把坚持社会主义道路、人民民主专政、党的领导和马克思列宁主义毛泽东思想列为“全党团结统一的政治基础”。同年12月通过的宪法在序言中写明中国各族人民将继续在中国共产党领导下，在马克思列宁主义、毛泽东思想指引下，坚持人民民主专政，坚持社会主义道路。1992年十四大修改后的党章总纲写出“四项基本原则”的名称，称其“是我们的立国之本”，并要求在社会主义现代化建设的整个过程中“必须坚持四项基本原则，反对资产阶级自由化”。
+      cites: [e15-12371-1982-09-06-party-charter, e15-npc-1982-12-04-constitution, e15-12371-1992-10-18-party-charter]
+  cites: [e15-12371-1982-09-06-party-charter, e15-npc-1982-12-04-constitution, e15-12371-1992-10-18-party-charter]
+
+# ---------- 2026 policies ----------
+strict-governance:
+  policies:
+    - date: 2026-02-23
+      name: 在全党开展树立和践行正确政绩观学习教育
+      text: 中办通知以县处级以上领导班子和领导干部特别是“一把手”为重点，春节假期后启动、7月底基本结束，总要求是“立党为公、为民造福、科学决策、真抓实干”。
+      events: [e15-2026-performance-view-campaign]
+      cite: e15-gov-2026-02-23-performance-view
+    - date: 2026-06-18
+      name: 关于学习贯彻习近平党建思想的通知
+      text: 中央党的建设工作领导小组印发，把“坚持全面从严治党”列为习近平党建思想“十四个坚持”之一，称其是新时代党的建设的战略方针。
+      events: [e15-2026-xi-party-building-thought]
+      cite: e15-gov-2026-06-18-party-building-notice
+
+self-revolution:
+  policies:
+    - date: 2026-06-18
+      name: 关于学习贯彻习近平党建思想的通知
+      text: 通知称党中央围绕建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党，形成习近平党建思想，要求各级党委（党组）作为当前和今后一个时期的一项重要政治任务。
+      events: [e15-2026-xi-party-building-thought]
+      cite: e15-gov-2026-06-18-party-building-notice
+
+xi-thought:
+  policies:
+    - date: 2026-06-18
+      name: 关于学习贯彻习近平党建思想的通知
+      text: 通知把习近平党建思想定位为习近平新时代中国特色社会主义思想的重要组成部分，内涵概括为“十四个坚持”。
+      events: [e15-2026-xi-party-building-thought]
+      cite: e15-gov-2026-06-18-party-building-notice
+
+party-leadership:
+  policies:
+    - date: 2026-06-18
+      name: 关于学习贯彻习近平党建思想的通知
+      text: “十四个坚持”的第一条是“坚持党的领导是中国特色社会主义最本质的特征”，第二条“坚持党中央集中统一领导”被称为党的领导的最高原则。
+      events: [e15-2026-xi-party-building-thought]
+      cite: e15-gov-2026-06-18-party-building-notice
+
+proactive-fiscal-policy:
+  policies:
+    - date: 2026-01-20
+      name: 财政金融协同促内需一揽子政策
+      text: 国务院常务会议1月9日部署，财政部等部门1月20日集中发布5则通知；个人消费贷款财政贴息延长至2026年底，并把信用卡账单分期纳入贴息。
+      events: [e15-2026-demand-package]
+      cite: e15-gov-2026-01-20-demand-package
+
+dual-circulation:
+  policies:
+    - date: 2026-01-20
+      name: 财政金融协同促内需一揽子政策
+      text: 落实中央经济工作会议“坚持内需主导，建设强大国内市场”的要求，以财政贴息降低消费信贷成本。
+      events: [e15-2026-demand-package]
+      cite: e15-gov-2026-01-20-demand-package
+
+housing-not-speculation:
+  policies:
+    - date: 2026-09-29
+      name: 居民购房贷款贴息政策
+      text: 2026年10月1日起实施一年，对120平方米以下、150万元以下的首套住房新发放商业贷款给予年化1个百分点、最长5年的贴息，单户贷款上限100万元，中央财政承担90%。
+      events: [e15-2026-mortgage-subsidy]
+      cite: e15-mof-2026-09-29-mortgage-subsidy
+
+stability-maintenance:
+  policies:
+    - date: 2026-01-19
+      name: 中央政法工作会议（2026）
+      text: 陈文清要求严格落实党委（党组）国家安全责任制、维护社会稳定责任制，全链条做好矛盾纠纷排查化解，深化有关群体服务管理。
+      events: [e15-2026-zhengfa-conference]
+      cite: c02-court-2026-01-19-zhengfa-meeting
+
+# same date and name as the entry in content/concepts/I06.yaml, so the new events pool into it
+chinese-nation-community:
+  policies:
+    - date: 2026-03-12
+      name: 民族团结进步促进法
+      text: 十四届全国人大四次会议通过，2026年7月1日起施行。
+      events: [e15-2026-ethnic-law-in-force, e15-2026-czech-senate-tibet, e15-2026-ep-ethnic-law-resolution]
+      cite: e04-miit-2026-03-12-npc-closing
