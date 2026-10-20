@@ -57,6 +57,10 @@ liu-jinming:
     level: none
     why: 监管官员收受被监管银行财物，通报和判决未涉政治问题
     cites: [c13-ccdi-2020-04-29-liu-jinming-expel, c13-nbd-2021-01-03-liu-jinming]
+  plea:
+    - { kind: surrender, text: 接到纪检监察机关电话传唤后主动到案，如实供述罪行，认定为自首, cite: c13-nbd-2021-01-03-liu-jinming }
+    - { kind: refund, text: 退回部分赃款, cite: c13-nbd-2021-01-03-liu-jinming }
+    - { kind: plea, text: 自愿认罪认罚, cite: c13-nbd-2021-01-03-liu-jinming }
   outcome: sentenced
 
 jia-qizhen:
@@ -215,4 +219,17 @@ lin-chongzhong:
     level: none
     why: 地方受贿案，本站因 2015 年终身监禁立法以其宣判当日保外就医为例而收录
     cites: [cs5-npc-2015-08-26-life-draft]
+  outcome: sentenced
+
+luo-changping:
+  sys: other
+  grade: none
+  plea:
+    - { kind: surrender, text: 经公安机关电话传唤后到派出所投案，如实供述，法院认定具有自首情节, cite: c13-court-2022-05-luo-changping-verdict }
+    - { kind: plea, text: 自愿认罪认罚，愿意赔偿公益损害赔偿金 8 万元, cite: c13-court-2022-05-luo-changping-verdict }
+  trigger: { kind: media, text: 2021 年 10 月 6 日发微博评论长津湖战役，被用户举报，解放军报旗下“钧正平”、共青团中央等官方账号随即发文谴责, cite: c13-wiki-luo-changping }
+  politics:
+    level: repression
+    why: 曾实名举报刘铁男的前调查记者，因一条评论长津湖战役的微博以侵害英雄烈士名誉、荣誉罪被判有期徒刑七个月；维基称官方和官方实控媒体被发动起来集中批判他；属因言获刑，不涉及党内权力斗争
+    cites: [c13-court-2022-05-luo-changping-verdict, c13-wiki-luo-changping]
   outcome: sentenced
