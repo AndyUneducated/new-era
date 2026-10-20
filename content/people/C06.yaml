@@ -14,6 +14,8 @@
   tier: 2
   headline: 709 案中最早被抓的女律师
   ids: { wikidata: Q20688792 }
+  positions:
+    - { title: 北京锋锐律师事务所律师, sys: other, place: 北京, to: 2015-07, cite: e03-bbc-2015-07-11-lawyers }
   bio: >-
     北京锋锐律师事务所律师，曾代理伊力哈木·土赫提案，为法轮功学员辩护。2015 年 7 月 9 日在 709 大抓捕中最早被带走，次年以颠覆国家政权罪被批捕；取保后在镜头前认错，后称是被迫。2020 年被注销律师执照，2021 年获美国国际妇女勇气奖。
   family:
@@ -56,6 +58,8 @@
   tier: 2
   headline: 铜锣湾书店店长，逃脱后在台北重开书店
   ids: { wikidata: Q22099761 }
+  positions:
+    - { title: 香港铜锣湾书店店长, sys: other, place: 香港, cite: c06-bbc-2026-07-02-lam-wing-kee }
   bio: >-
     香港铜锣湾书店店长，书店出售内地政治禁书。2015 年他与书店股东、员工共 5 人先后失踪，他在内地被扣留超过 400 天，2016 年 6 月返港后召开记者会，称被“中央专案组”带走，放他回港的条件是交出买书人名单。2019 年移居台湾，2020 年在台北重开铜锣湾书店。
   cites: [wd-Q22099761, c06-bbc-2026-07-02-lam-wing-kee, e03-bbc-2016-06-16-causeway-bay]
@@ -77,6 +81,8 @@
   tier: 2
   headline: 铜锣湾书店股东，瑞典籍出版人，被判十年
   ids: { wikidata: Q22099950 }
+  positions:
+    - { title: 香港铜锣湾书店股东, sys: other, place: 香港, cite: c06-bbc-2020-02-25-gui-minhai }
   bio: >-
     宁波人，1996 年入瑞典籍，香港铜锣湾书店股东。2015 年在泰国失踪，后在央视自称回国为 2003 年的交通肇事案自首。2018 年在瑞典外交官陪同下乘火车时再被带走，2020 年以为境外非法提供情报罪被判十年；法院称他 2018 年已申请恢复中国国籍。
   cites: [wd-Q22099950, c06-bbc-2020-02-25-gui-minhai, c06-rfi-2026-07-05-gui-minhai, e03-bbc-2016-06-16-causeway-bay]
@@ -116,6 +122,8 @@
   tier: 2
   headline: 揭露 SARS 瞒报的 301 医院军医
   ids: { wikidata: Q472942 }
+  positions:
+    - { title: 解放军 301 医院外科医生, sys: army, place: 北京, cite: e01-bbc-2023-03-13-jiang-yanyong-obit }
   bio: >-
     解放军 301 医院外科医生。2003 年 4 月卫生部长张文康称北京只有 12 例非典，他写信揭露瞒报，经外媒发表后，张文康和北京市长孟学农被免职。2004 年上书要求把六四学生运动定为爱国运动，被拘禁七周，此后长期受限，2019 年再遭软禁。
   cites: [wd-Q472942, c06-dw-2023-03-jiang-yanyong, c06-cna-2023-03-14-jiang-yanyong, e01-bbc-2003-04-09-jiang-yanyong, e01-xinhua-2003-04-20-sars-dismissals, e01-bbc-2023-03-13-jiang-yanyong-obit]
@@ -134,12 +142,16 @@
   tier: 2
   headline: 调查川震倒塌校舍的成都环保人士
   ids: { wikidata: Q978495 }
+  positions:
+    - { title: 《文化人》主编, sys: other, place: 四川, cite: bd1-wiki-tan-zuoren }
+    - { title: 民间组织“绿色江河”副秘书长, sys: other, place: 四川, cite: bd1-wiki-tan-zuoren }
   bio: >-
     成都作家、环保人士，曾积极参与八九民运。2008 年汶川地震后多次实地调查倒塌校舍、收集遇难学生名单，揭露豆腐渣工程，并撰文批评彭州 PX 石化项目。2009 年被拘，次年以他记述六四的文章为据被判煽动颠覆国家政权罪五年，狱中始终不认罪，2014 年刑满出狱。
-  cites: [wd-Q978495, e02-bbc-2010-02-09-tan-zuoren, c06-bbc-2014-03-27-tan-zuoren, c06-voa-2014-03-27-tan-zuoren]
+  cites: [wd-Q978495, e02-bbc-2010-02-09-tan-zuoren, c06-bbc-2014-03-27-tan-zuoren, c06-voa-2014-03-27-tan-zuoren, bd1-wiki-tan-zuoren]
 
 - id: xu-yan
   name: 许艳
+  verify: true
   gender: f
   roles: [dissent, family]
   status: watched
@@ -155,6 +167,7 @@
 
 - id: geng-he
   name: 耿和
+  verify: true
   gender: f
   roles: [family, dissent]
   status: exiled
@@ -191,6 +204,7 @@
 
 - id: jin-bianling
   name: 金变玲
+  verify: true
   gender: f
   roles: [family]
   status: exiled
@@ -199,12 +213,15 @@
     - { date: 2013, text: 为免遭当局骚扰，带女儿移居美国加州, cite: c06-nyt-2017-01-20-jin-bianling }
   tier: 2
   headline: 江天勇之妻，旅居美国
+  positions:
+    - { title: 会计（洛杉矶）, sys: other, cite: c06-voa-2024-03-01-jiang-tianyong }
   bio: >-
     维权律师江天勇的妻子。2013 年为免遭当局骚扰，带女儿从中国移居美国加州，此后再未见到丈夫。709 大抓捕后她与其他律师妻子一起为丈夫发声，2017 年致信德国总理默克尔求助。江天勇 2019 年出狱后仍被监控、限制出境，夫妻至今分隔两地。
   cites: [c06-nyt-2017-01-20-jin-bianling, c06-voa-2024-03-01-jiang-tianyong, c04-bbc-2025-07-09-709-decade, c04-dw-2019-10-jiang-tianyong]
 
 - id: wang-qiaoling
   name: 王峭岭
+  verify: true
   gender: f
   roles: [family, dissent]
   status: watched
@@ -228,9 +245,11 @@
   tier: 2
   headline: “天安门母亲”发起人
   ids: { wikidata: Q2279786 }
+  positions:
+    - { title: 中国人民大学哲学系副教授, sys: other, place: 北京, to: 1995, cite: bd1-wiki-ding-zilin }
   bio: >-
     儿子在 1989 年六四事件中遇难。此后她与张先玲等遇难者家属组成“天安门母亲”群体，公开六四遇难者名册，年年提出公布真相、赔偿、追究责任三项诉求。2015 年丈夫蒋培坤病逝，她把发言人工作交给尤维洁，此后长期遭近乎软禁的看管。
-  cites: [wd-Q2279786, c06-rfi-2026-06-02-tiananmen-mothers, c06-rfa-2026-06-01-tiananmen-mothers, c06-rfa-2019-01-28-ding-zilin]
+  cites: [wd-Q2279786, c06-rfi-2026-06-02-tiananmen-mothers, c06-rfa-2026-06-01-tiananmen-mothers, c06-rfa-2019-01-28-ding-zilin, bd1-wiki-ding-zilin]
 
 - id: dai-qing
   name: 戴晴
@@ -245,6 +264,8 @@
   tier: 2
   headline: 反对三峡工程的记者、作家
   ids: { wikidata: Q445304 }
+  positions:
+    - { title: 《光明日报》记者, sys: other, place: 北京, cite: c06-rfa-2024-09-09-dai-qing }
   bio: >-
     常被称为叶剑英养女，曾任《光明日报》记者，1980 年代末因反对三峡工程广受关注。1989 年学运中居间与官方传话、劝学生让步，六四后被捕羁押半年，获释后长期不得接受采访和公开发表言论。近年随女儿暂居泰国清迈，仍在写中共党史考证《问史笔记》。
   cites: [wd-Q445304, c06-rfa-2024-09-09-dai-qing, c06-rfa-2026-10-02-dai-qing]
@@ -261,6 +282,8 @@
   tier: 2
   headline: 法大副教授，曾上书呼吁六四和解
   ids: { wikidata: Q8462450 }
+  positions:
+    - { title: 中国政法大学副教授, sys: other, place: 北京, cite: c06-voa-2009-03-04-xiao-han }
   bio: >-
     中国政法大学法学院副教授、《财经》杂志法律顾问，以博客时评知名。2009 年六四 20 周年前致信胡锦涛、温家宝，建议全国人大成立六四和解委员会、公布真相、向家属道歉，是第一位就此发公开信的大学教授。同年底被校方以介入公共事务太深为由停课。
   cites: [wd-Q8462450, c06-voa-2009-03-04-xiao-han, c06-rfa-2010-01-01-xiao-han]
@@ -301,9 +324,11 @@
   tier: 2
   headline: 乌坎事件组织者，被拘两天后死亡
   ids: { wikidata: Q15904726 }
+  positions:
+    - { title: 乌坎村临时理事会副会长, sys: other, place: 广东, from: 2011, to: 2011-12, cite: bd1-wiki-xue-jinbo }
   bio: >-
     广东陆丰乌坎村村民，2011 年乌坎村民抗议土地被私卖的主要组织者之一。12 月 9 日被汕尾警方刑事拘留，两天后在羁押中死亡。官方称心源性猝死、无外力致死迹象；家属和村民称遗体有多处伤痕，疑被折磨致死。12 月 21 日广东省委副书记朱明国答应交还遗体。
-  cites: [wd-Q15904726, c06-xinhua-2011-12-14-xue-jinbo, c06-voa-2011-12-12-wukan, e02-bbc-2011-12-21-wukan]
+  cites: [wd-Q15904726, c06-xinhua-2011-12-14-xue-jinbo, c06-voa-2011-12-12-wukan, e02-bbc-2011-12-21-wukan, bd1-wiki-xue-jinbo]
 
 - id: chen-shuibian
   name: 陈水扁

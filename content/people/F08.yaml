@@ -160,10 +160,10 @@
     计算机科学家、中国科学院院士，长期在北京航空航天大学担任领导并任校长。
     此后历任工信部副部长、天津市委副书记、中国科协党组书记，2021 年起任教育部部长；第二十届中央委员。
   positions:
-    - { title: 北京航空航天大学校长, sys: other }
-    - { title: 工业和信息化部副部长, sys: gov, to: 2017-01, cite: f08-chinanews-2017-02-07-jungong }
-    - { title: 天津市委副书记, sys: party, place: 天津, from: 2017-01, cite: f08-chinanews-2017-02-07-jungong }
-    - { title: 中国科学技术协会党组书记, sys: other }
+    - { title: 北京航空航天大学校长, sys: other, from: 2009-05, to: 2015-02, cite: bd1-xinhua-2017-09-02-huai-jinpeng }
+    - { title: 工业和信息化部副部长, sys: gov, from: 2015-02, to: 2016-12, cite: bd1-xinhua-2017-09-02-huai-jinpeng }
+    - { title: 天津市委副书记, sys: party, place: 天津, from: 2016-12, to: 2017-09, cite: bd1-xinhua-2017-09-02-huai-jinpeng }
+    - { title: 中国科学技术协会党组书记, sys: other, from: 2017-09, to: 2021, cite: bd1-xinhua-2017-09-02-huai-jinpeng }
     - { title: 教育部部长、党组书记, sys: gov, from: 2021-08, cite: f08-moe-huai-jinpeng }
   factions:
     - f: aerospace
@@ -174,7 +174,7 @@
       cite: f08-chinanews-2017-02-07-jungong
       quote: 刚从工信部副部长调任天津市委副书记的怀进鹏，曾长期在北京航空航天大学担任领导
   ids: { wikidata: Q9142144 }
-  cites: [wd-Q9142144, f08-moe-huai-jinpeng, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong]
+  cites: [wd-Q9142144, f08-moe-huai-jinpeng, f08-chinanews-2017-02-07-jungong, f08-hk01-2021-jungong, bd1-xinhua-2017-09-02-huai-jinpeng]
 
 - id: jin-zhuanglong
   name: 金壮龙

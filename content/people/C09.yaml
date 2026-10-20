@@ -140,6 +140,8 @@
   tier: 2
   headline: 中国人民大学教授，施米特思想的引介者
   ids: { wikidata: Q1866078 }
+  positions:
+    - { title: 中国人民大学文学院教授, sys: other, place: 北京, cite: bd1-wiki-liu-xiaofeng }
   bio: >-
     瑞士巴塞尔大学博士，曾任教中山大学，后任中国人民大学教授。许纪霖把他放在国家主义施米特一脉的源头，写道“自从刘小枫将希特勒的桂冠法学家卡尔‧施米特的思想引进中国思想界”，
     法学界、政治学界便刮起施米特旋风。2013 年他在演讲中把毛泽东视为中国的“国父”，说“孙中山比起毛泽东差十万八千里”。
@@ -149,7 +151,7 @@
       text: Liu Xiaofeng, a professor at Renmin University of China and previously Sun Yat-sen University, born in 1956, with a Ph.D. from the University of Basel, is the most important such figure and the leader of a Schmittian faction in China.
       zh: 刘小枫，1956 年生，巴塞尔大学博士，现为中国人民大学教授、此前在中山大学，是（中国研究施米特的学者中）最重要的人物，也是中国施米特派的领袖。
       cite: c09-illiberalism-liu-xiaofeng
-  cites: [i02-aisixiang-xu-jilin-statism, c09-illiberalism-liu-xiaofeng, c09-aisixiang-2013-liu-xiaofeng-mao, wd-Q1866078]
+  cites: [i02-aisixiang-xu-jilin-statism, c09-illiberalism-liu-xiaofeng, c09-aisixiang-2013-liu-xiaofeng-mao, wd-Q1866078, bd1-wiki-liu-xiaofeng]
 
 - id: pan-wei
   name: 潘维
@@ -179,6 +181,8 @@
   tier: 2
   headline: 中央民族大学经济学教授，“乌有之乡”专栏作者
   ids: { wikidata: Q9135961 }
+  positions:
+    - { title: 中央民族大学经济学教授, sys: other, place: 北京, cite: c09-rfi-2010-06-27-zhang-hongliang }
   bio: >-
     中央民族大学经济学教授、毛左网站“乌有之乡”专栏作者，法广 2010 年称他是“中国学术界毛派人物的代表”，美国之音 2012 年称他为“毛左舆论大将”。
     他曾撰文称“当今中国最具道义合法性的社会群体，是那些开国元勋的后代”。2010 年 6 月他开了 5 年的新浪博客被关闭；2012 年他在演讲中不点名抨击温家宝。
@@ -187,17 +191,21 @@
 - id: fan-jinggang
   name: 范景刚
   gender: m
+  born: 1976
   roles: [media]
   status: active
   tier: 2
   headline: 毛左网站“乌有之乡”负责人
+  positions:
+    - { title: 乌有之乡网站负责人, sys: other, place: 北京, cite: c09-voa-2011-05-24-mao-yushi }
   bio: >-
     美国之音称他是“乌有之乡”网站的负责人。2011 年乌有之乡组织网友举报批毛学者茅于轼“颠覆国家政权”，他证实举报状已送达北京市公安局，并说“言论自由是有边界的”。
     2012 年 3 月薄熙来被免职后，他向法广证实网站曾被要求删除直接支持薄熙来和“重庆模式”的文章，随后网站又被关闭整顿一个月。
-  cites: [c09-voa-2011-05-24-mao-yushi, i02-rfi-2012-04-06-utopia, i02-voa-2012-04-06-utopia]
+  cites: [c09-voa-2011-05-24-mao-yushi, i02-rfi-2012-04-06-utopia, i02-voa-2012-04-06-utopia, bd1-wiki-fan-jinggang]
 
 - id: yue-xin
   name: 岳昕
+  verify: true
   gender: f
   birthplace: 北京
   roles: [dissent]
@@ -214,11 +222,14 @@
 - id: wang-xiaodong-writer
   name: 王小东
   gender: m
+  born: 1955-12
   roles: [media]
   status: active
   tier: 2
   headline: 民族主义作家，《中国不高兴》合著者
   ids: { wikidata: Q117821622 }
+  positions:
+    - { title: 经济学教授, sys: other, cite: c09-nytcn-2022-10-28-wang-xiaodong }
   bio: >-
     1988 年还是年轻经济学教师时撰文批评纪录片《河殇》而成名，《纽约时报》称他为中国民族主义“教父”，他自称曾“被称为是中国民族主义的旗手”。2009 年合著《中国不高兴》，提出“惩罚外交”；
     观察者网文章称“工业党”这一命名最早出自他 2011 年的文章。2022 年他转而告诫中国的民族主义走得太远了。
@@ -228,7 +239,7 @@
       text: Wang is an ardent techno-nationalist who believes that industrial might and technological advance are the most meaningful measure of China’s national progress
       zh: 王小东是热忱的技术民族主义者，认为工业实力和技术进步是衡量中国国家进步最有意义的标准
       cite: i02-coso-wang-xiaodong-industrial-party
-  cites: [c09-nytcn-2022-10-28-wang-xiaodong, c09-bbc-2009-03-24-china-unhappy, i02-guancha-2018-10-25-gongyedang, i02-coso-wang-xiaodong-industrial-party, wd-Q117821622]
+  cites: [c09-nytcn-2022-10-28-wang-xiaodong, c09-bbc-2009-03-24-china-unhappy, i02-guancha-2018-10-25-gongyedang, i02-coso-wang-xiaodong-industrial-party, wd-Q117821622, bd1-wiki-wang-xiaodong-writer]
 
 - id: wu-si
   name: 吴思
@@ -248,6 +259,7 @@
 
 - id: zhou-zhixing
   name: 周志兴
+  verify: true
   gender: m
   roles: [media]
   status: active
@@ -264,6 +276,7 @@
 # --- 领导人家属 ---
 - id: wang-yeping
   name: 王冶坪
+  verify: true
   gender: f
   born: 1928-02-12
   birthplace: 江苏扬州
@@ -296,6 +309,7 @@
 
 - id: zeng-wei
   name: 曾伟
+  verify: true
   gender: m
   born: 1968-09-13
   roles: [family, biz]

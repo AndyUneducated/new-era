@@ -436,6 +436,7 @@
 
 - id: zhang-huawei
   name: 张化为
+  verify: true
   gender: m
   roles: [ccdi, tiger]
   status: detained

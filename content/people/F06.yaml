@@ -87,6 +87,7 @@
 
 - id: wang-weigong
   name: 王维工
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -382,6 +383,7 @@
 
 - id: ran-xinquan
   name: 冉新权
+  verify: true
   gender: m
   roles: [tiger, biz]
   status: purged
@@ -522,6 +524,7 @@
 
 - id: liang-ke
   name: 梁克
+  verify: true
   gender: m
   birthplace: 吉林吉林市
   roles: [tiger]

@@ -402,6 +402,8 @@
 
 - id: huang-yi-yunnan
   name: 黄毅
+  born: 1958-08
+  birthplace: 云南瑞丽
   roles: [tiger]
   status: detained
   statusNote: 2023 年 7 月被判有期徒刑 13 年。
@@ -419,7 +421,7 @@
     - { title: 云南省政府秘书长, sys: gov, place: 云南, cite: r05-nbd-2023-07-04-huang-yi-yunnan-verdict }
     - { title: 云南省委常委、统战部部长, sys: party, place: 云南, cite: r05-nbd-2023-07-04-huang-yi-yunnan-verdict }
     - { title: 云南省政协副主席, sys: gov, place: 云南, cite: r05-nbd-2023-07-04-huang-yi-yunnan-verdict }
-  cites: [r05-ccdi-2022-03-24-huang-yi-yunnan-probe, r05-ccdi-2022-08-30-huang-yi-yunnan-expel, r05-nbd-2023-07-04-huang-yi-yunnan-verdict]
+  cites: [r05-ccdi-2022-03-24-huang-yi-yunnan-probe, r05-ccdi-2022-08-30-huang-yi-yunnan-expel, r05-nbd-2023-07-04-huang-yi-yunnan-verdict, bd1-wiki-huang-yi-yunnan]
 
 - id: li-jiexiang
   name: 李杰翔
@@ -519,6 +521,8 @@
 
 - id: li-zefeng
   name: 李泽峰
+  born: 1960-06
+  birthplace: 宁夏银川
   roles: [tiger]
   status: purged
   statusNote: 2022 年 5 月受到留党察看一年、政务撤职处分，降为二级巡视员，未被移送司法。
@@ -531,7 +535,7 @@
   positions:
     - { title: 宁夏回族自治区政协党组成员、副主席, sys: gov, place: 宁夏, to: 2022-05, cite: r05-ccdi-2022-05-30-li-zefeng-punished }
     - { title: 宁夏回族自治区党委委员, sys: party, place: 宁夏, to: 2022-05, cite: r05-ccdi-2022-05-30-li-zefeng-punished }
-  cites: [r05-ccdi-2022-05-30-li-zefeng-punished]
+  cites: [r05-ccdi-2022-05-30-li-zefeng-punished, bd1-wiki-li-zefeng]
 
 - id: chen-rugui
   name: 陈如桂
@@ -797,6 +801,8 @@
 
 - id: zheng-hong-chongqing
   name: 郑洪
+  born: 1955-05
+  birthplace: 重庆江津
   roles: [tiger]
   status: detained
   statusNote: 2025 年 3 月被判有期徒刑 15 年。
@@ -814,7 +820,7 @@
     - { title: 重庆市九龙坡区委书记, sys: party, place: 重庆, cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict }
     - { title: 重庆市人大常委会党组副书记、副主任, sys: gov, place: 重庆, to: 2020-01, cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict }
     - { title: 重庆市总工会主席, sys: other, place: 重庆, cite: r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict }
-  cites: [r05-ccdi-2023-03-16-zheng-hong-chongqing-probe, r05-ccdi-2023-08-30-zheng-hong-chongqing-expel, r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict]
+  cites: [r05-ccdi-2023-03-16-zheng-hong-chongqing-probe, r05-ccdi-2023-08-30-zheng-hong-chongqing-expel, r05-xinhua-2025-03-17-zheng-hong-chongqing-verdict, bd1-wiki-zheng-hong-chongqing]
 
 - id: li-zaiyong
   name: 李再勇
@@ -894,6 +900,8 @@
 
 - id: liu-handong
   name: 刘捍东
+  born: 1959-08
+  birthplace: 安徽舒城
   roles: [tiger]
   status: detained
   statusNote: 2025 年 2 月被判死刑缓期二年执行。
@@ -912,7 +920,7 @@
     - { title: 南京市委常委、浦口区委书记, sys: party, place: 江苏, cite: r05-court-2025-02-17-liu-handong-verdict }
     - { title: 江苏省财政厅厅长, sys: gov, place: 江苏, cite: r05-court-2025-02-17-liu-handong-verdict }
     - { title: 江苏省人大常委会党组成员、副主任, sys: gov, place: 江苏, cite: r05-court-2025-02-17-liu-handong-verdict }
-  cites: [wd-Q97348907, r05-ccdi-2023-04-16-liu-handong-probe, r05-xinhua-2024-02-26-liu-handong-expel, r05-court-2025-02-17-liu-handong-verdict]
+  cites: [wd-Q97348907, r05-ccdi-2023-04-16-liu-handong-probe, r05-xinhua-2024-02-26-liu-handong-expel, r05-court-2025-02-17-liu-handong-verdict, bd1-wiki-liu-handong]
 
 - id: zhu-congjiu
   name: 朱从玖

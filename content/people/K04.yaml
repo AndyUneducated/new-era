@@ -728,6 +728,10 @@
   tier: 2
   headline: 原西藏军区司令员、成都军区副司令员，中将
   ids: { wikidata: Q5295727 }
+  positions:
+    - { title: 十七届中央委员, sys: party, from: 2007-10, cite: k02-xinhua-2007-10-21-17-cc }
+    - { title: 西藏军区司令员, sys: army, place: 西藏, cite: k04-wiki-dong-guishan }
+    - { title: 成都军区副司令员, sys: army, from: 2008-07, cite: k04-wiki-dong-guishan }
   bio: >-
     河南西平人，十七届中央委员。长期在西藏任职，曾任日喀则军分区参谋长、成都军区装备部部长、西藏军区司令员，2008 年起任成都军区副司令员，2006 年晋升中将。
   cites: [wd-Q5295727, k04-wiki-dong-guishan, k02-xinhua-2007-10-21-17-cc]

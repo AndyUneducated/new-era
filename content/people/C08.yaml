@@ -79,6 +79,7 @@
 
 - id: wang-gang-af
   name: 王刚
+  verify: true
   gender: m
   roles: [general]
   status: active

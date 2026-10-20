@@ -162,6 +162,7 @@
 
 - id: zhang-minghua
   name: 张明华
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -681,6 +682,7 @@
 
 - id: gao-daguang
   name: 高大光
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged

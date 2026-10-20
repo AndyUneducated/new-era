@@ -127,6 +127,8 @@
     - { date: 2019-07, text: 昆明市五华区检察院以涉嫌利用影响力受贿罪、行贿罪提起公诉, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
   tier: 2
   headline: 云南“地下组织部长”，被秦光荣称为“洪波”的政治掮客
+  positions:
+    - { title: 香港某公司董事长, sys: other, place: 香港, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
   bio: >-
     起诉书称他是香港某公司董事长。中央纪委网站文章称他与两任云南省委书记关系亲近，充当云南“地下组织部长”，被秦光荣亲切称呼为“洪波”，
     秦光荣在忏悔录中承认在一些干部问题上听从他的意见。检方指控他 2007—2014 年借与曹建方的关系帮一家云南公司拿到项目和 8 亿元贷款，
@@ -263,6 +265,7 @@
 
 - id: wang-yunge
   name: 王云戈
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2017 年 8 月被开除党籍、开除公职并移送司法机关；判决结果未见公开报道。
@@ -281,6 +284,7 @@
 
 - id: feng-lizhi
   name: 冯立志
+  verify: true
   gender: m
   birthplace: 黑龙江呼兰
   roles: [tiger]
@@ -316,6 +320,8 @@
   tier: 2
   headline: 周永康之妻，以受贿罪被判 9 年
   ids: { wikidata: Q15954024 }
+  positions:
+    - { title: 中国中央电视台财经频道编辑, sys: other, place: 北京, cite: r08-wiki-jia-xiaoye }
   bio: >-
     中南工业大学财务管理专业毕业，后进入央视经济频道当编导，在采访中结识周永康并与之结婚。周永康案判决认定，周滨、贾晓晔收受吴兵等人财物 1.29 亿余元
     并事后告知周永康；她以录像方式在周案中作证。2016 年 6 月她本人被判 9 年，判决没有公布受贿金额。
@@ -333,6 +339,8 @@
   tier: 2
   headline: 令计划之弟，2015 年出走美国
   ids: { wikidata: Q19643337 }
+  positions:
+    - { title: 中国网通下属天天在线总裁, sys: other, from: 2004, cite: r08-wiki-ling-wancheng }
   bio: >-
     令计划最小的弟弟，吉林大学经济系毕业后在新华社从事内参和采编，升至办公厅副主任；2003 年前后转任中国华星汽车贸易集团总裁，
     2004 年任网通下属天天在线总裁，经商时化名“王诚”。2014 年 10 月媒体报道他被调查，2015 年 8 月《纽约时报》引美国官员称他已来到美国，在内华达山脉脚下买了一座住宅。
@@ -350,6 +358,8 @@
   tier: 2
   headline: 令计划之妻，令计划案中与丈夫共同受贿
   ids: { wikidata: Q18109616 }
+  positions:
+    - { title: 中央团校图书室工作人员, sys: other, place: 北京, cite: r08-wiki-gu-liping }
   bio: >-
     北京大学分校法律系毕业后到北京市检察院工作，与时任团中央宣传处长的令计划结婚。令计划案判决认定，令计划单独或与她共同收受楼忠福等人财物，
     并明知、认可她收受崔晓玉、潘逸阳、李春城等人财物；庭审中播放了她的作证录像。此后官方再未提及她的下落。
@@ -532,6 +542,8 @@
 
 - id: yuan-guangyu
   name: 袁光宇
+  born: 1959-04
+  birthplace: 天津
   roles: [tiger]
   status: detained
   statusNote: 2026 年 6 月被徐州中院以受贿罪判处死刑，缓期二年执行。
@@ -551,7 +563,7 @@
     - { title: 中国海洋石油渤海石油管理局局长, sys: other, place: 天津, cite: r08-people-2026-06-17-yuan-guangyu-verdict }
     - { title: 中国海洋石油有限公司执行副总裁、总裁, sys: other, cite: r08-people-2026-06-17-yuan-guangyu-verdict }
     - { title: 中国海洋石油集团有限公司党组成员、副总经理, sys: other, cite: r08-people-2026-06-17-yuan-guangyu-verdict }
-  cites: [r08-people-2025-03-01-yuan-guangyu-probe, r08-people-2025-07-31-yuan-guangyu-expel, r08-people-2026-06-17-yuan-guangyu-verdict]
+  cites: [r08-people-2025-03-01-yuan-guangyu-probe, r08-people-2025-07-31-yuan-guangyu-expel, r08-people-2026-06-17-yuan-guangyu-verdict, bd1-jiemian-2025-03-01-yuan-guangyu]
 
 - id: chen-xiaobo
   name: 陈笑波
@@ -582,6 +594,7 @@
 
 - id: cao-xingxin
   name: 曹兴信
+  born: 1966-10
   roles: [tiger]
   status: detained
   statusNote: 2025 年 10 月被滨州中院以受贿罪判处有期徒刑 12 年。
@@ -599,7 +612,7 @@
     - { title: 中央组织部干部四局副巡视员、副局长, sys: party, cite: r08-people-2025-10-28-cao-xingxin-verdict }
     - { title: 中央组织部公务员三局巡视员、副局长, sys: party, cite: r08-people-2025-10-28-cao-xingxin-verdict }
     - { title: 中国联合网络通信集团有限公司党组成员、副总经理, sys: other, to: 2024-09, cite: r08-people-2024-09-28-cao-xingxin-probe }
-  cites: [r08-people-2024-09-28-cao-xingxin-probe, r08-people-2025-02-24-cao-xingxin-expel, r08-people-2025-10-28-cao-xingxin-verdict]
+  cites: [r08-people-2024-09-28-cao-xingxin-probe, r08-people-2025-02-24-cao-xingxin-expel, r08-people-2025-10-28-cao-xingxin-verdict, bd1-thepaper-2023-01-14-cao-xingxin]
 
 - id: xu-zuo
   name: 徐佐
@@ -708,10 +721,11 @@
   birthplace: 山东临沂
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 2 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
+  statusNote: 2026 年 2 月被开除党籍和公职，6 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-07-14, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，在西安市人大常委会主任任上被查, cite: r08-people-2025-07-14-han-song-xa-probe }
     - { date: 2026-02-06, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r08-people-2026-02-06-han-song-xa-expel }
+    - { date: 2026-06-09, text: 兰州市人民检察院以涉嫌受贿罪向兰州市中级人民法院提起公诉, cite: c15-spp-2026-06-09-han-song-xa-charge }
   tier: 2
   headline: 西安市人大常委会原主任
   ids: { wikidata: Q125473594 }
@@ -730,10 +744,11 @@
   born: 1964-12
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 5 月被开除党籍，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
+  statusNote: 2026 年 5 月被开除党籍，9 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-11-16, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r08-people-2025-11-16-li-baian-probe }
     - { date: 2026-05-21, text: 被开除党籍，取消其享受的待遇，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r08-people-2026-05-21-li-baian-expel }
+    - { date: 2026-09-08, text: 烟台市人民检察院以涉嫌受贿罪向烟台市中级人民法院提起公诉, cite: c15-spp-2026-09-08-li-baian-charge }
   tier: 2
   headline: 招商局集团原副总经理，此前长期在中建系统任职
   ids: { wikidata: Q137878639 }
@@ -749,6 +764,7 @@
 
 - id: guo-xueyi
   name: 郭学益
+  verify: true
   birthplace: 湖南长沙
   roles: [tiger, scholar]
   status: purged
@@ -793,6 +809,7 @@
 
 - id: han-song-cr
   name: 韩嵩
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -810,6 +827,7 @@
 
 - id: xu-yiding
   name: 徐一丁
+  born: 1965
   roles: [tiger]
   status: purged
   statusNote: 2026 年 8 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -823,7 +841,7 @@
     将扶贫助农信贷权力异化为谋取个人私利的工具，利用职务便利为他人在项目贷款审批、发放等方面谋利。
   positions:
     - { title: 中国农业发展银行党委委员、副行长, sys: other, to: 2026-02, cite: r08-people-2026-02-07-xu-yiding-probe }
-  cites: [r08-people-2026-02-07-xu-yiding-probe, r08-people-2026-08-17-xu-yiding-expel]
+  cites: [r08-people-2026-02-07-xu-yiding-probe, r08-people-2026-08-17-xu-yiding-expel, bd1-sina-2026-08-17-xu-yiding]
 
 - id: lian-ji
   name: 连辑
@@ -880,6 +898,7 @@
 
 - id: yang-hongyong
   name: 杨宏勇
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月被开除党籍，取消其享受的待遇，涉嫌受贿、利用影响力受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -897,6 +916,7 @@
 
 - id: li-xu-bt
   name: 李旭
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 9 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
@@ -914,12 +934,15 @@
 
 - id: yu-ze
   name: 于泽
+  born: 1971-10
+  birthplace: 天津
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 6 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
+  statusNote: 2026 年 6 月被开除党籍和公职，9 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-12-06, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，在人保集团副总裁任上被查, cite: r08-people-2025-12-06-yu-ze-probe }
     - { date: 2026-06-05, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r08-people-2026-06-05-yu-ze-expel }
+    - { date: 2026-09-15, text: 北京市人民检察院第二分院以涉嫌受贿罪向北京市第二中级人民法院提起公诉, cite: c15-spp-2026-09-15-yu-ze-charge }
   tier: 2
   headline: 中国人民保险集团原党委委员、副总裁
   bio: >-
@@ -927,16 +950,19 @@
     私自扣压检举、控告材料，借用管理和服务对象大额钱款，利用职务便利为他人在项目承揽、职工录用等方面谋利。
   positions:
     - { title: 中国人民保险集团股份有限公司党委委员、副总裁, sys: other, to: 2025-12, cite: r08-people-2025-12-06-yu-ze-probe }
-  cites: [r08-people-2025-12-06-yu-ze-probe, r08-people-2026-06-05-yu-ze-expel]
+  cites: [r08-people-2025-12-06-yu-ze-probe, r08-people-2026-06-05-yu-ze-expel, bd1-thepaper-2025-12-06-yu-ze]
 
 - id: hou-weidong
   name: 侯维栋
+  born: 1960-01
+  birthplace: 山东淄博
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 5 月被开除党籍，取消其享受的待遇，涉嫌受贿犯罪问题移送检察机关；尚未见起诉或审判消息。
+  statusNote: 2026 年 5 月被开除党籍，8 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-10-28, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r08-people-2025-10-28-hou-weidong-probe }
     - { date: 2026-05-07, text: 被开除党籍，取消其享受的待遇，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r08-people-2026-05-07-hou-weidong-expel }
+    - { date: 2026-08-20, text: 重庆市人民检察院第五分院以涉嫌受贿罪向重庆市第五中级人民法院提起公诉, cite: c15-spp-2026-08-20-hou-weidong-charge }
   tier: 2
   headline: 交通银行原党委委员、副行长
   bio: >-
@@ -944,7 +970,7 @@
     将金融科技资源配置权力异化为谋取个人私利的工具，利用职务便利为他人在项目承揽、贷款融资等方面谋利。
   positions:
     - { title: 交通银行股份有限公司党委委员、副行长, sys: other, place: 上海, cite: r08-people-2026-05-07-hou-weidong-expel }
-  cites: [r08-people-2025-10-28-hou-weidong-probe, r08-people-2026-05-07-hou-weidong-expel]
+  cites: [r08-people-2025-10-28-hou-weidong-probe, r08-people-2026-05-07-hou-weidong-expel, bd1-chinanews-2025-10-28-hou-weidong]
 
 # ───── R06 余项：审查调查中 ─────
 - id: huang-ribo
@@ -1092,17 +1118,18 @@
   birthplace: 江西上高
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 4 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
+  statusNote: 2026 年 4 月被查，10 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。
   fall:
     - { date: 2026-04-07, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，在社保基金会副理事长任上被查, cite: r08-people-2026-04-07-wang-wenling-probe }
+    - { date: 2026-10-19, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: c15-xinhua-2026-10-19-wang-wenling-expel }
   tier: 2
   headline: 全国社会保障基金理事会党组成员、副理事长
   ids: { wikidata: Q110109642 }
   bio: >-
-    全国社会保障基金理事会党组成员、副理事长。2026 年 4 月在任上被查，目前只有立案消息。
+    全国社会保障基金理事会党组成员、副理事长。2026 年 4 月在任上被查，10 月被开除党籍和公职，涉嫌受贿犯罪问题移送审查起诉。
   positions:
     - { title: 全国社会保障基金理事会党组成员、副理事长, sys: gov, to: 2026-04, cite: r08-people-2026-04-07-wang-wenling-probe }
-  cites: [r08-wiki-wang-wenling, r08-people-2026-04-07-wang-wenling-probe]
+  cites: [r08-wiki-wang-wenling, r08-people-2026-04-07-wang-wenling-probe, c15-xinhua-2026-10-19-wang-wenling-expel]
 
 - id: wang-wenhua-qd
   name: 王文华
@@ -1127,6 +1154,7 @@
 
 - id: chen-yong-cscec
   name: 陈勇
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 9 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1142,6 +1170,7 @@
 
 - id: song-zhiyuan
   name: 宋致远
+  born: 1964-09
   roles: [tiger]
   status: purged
   statusNote: 2026 年 8 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1153,10 +1182,11 @@
     曾任中国东方电气集团有限公司党组副书记、董事。2026 年 8 月被查，目前只有立案消息。
   positions:
     - { title: 中国东方电气集团有限公司党组副书记、董事, sys: other, place: 四川, cite: r08-people-2026-08-09-song-zhiyuan-probe }
-  cites: [r08-people-2026-08-09-song-zhiyuan-probe]
+  cites: [r08-people-2026-08-09-song-zhiyuan-probe, bd1-chinanews-2026-08-08-song-zhiyuan]
 
 - id: liang-chaoping
   name: 梁潮平
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月主动投案，接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1172,6 +1202,7 @@
 
 - id: bian-zhigang
   name: 卞志刚
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 6 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1187,21 +1218,24 @@
 
 - id: yu-xiaoping
   name: 俞小平
+  verify: true
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 6 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
+  statusNote: 2026 年 6 月被查，10 月被开除党籍，涉嫌受贿、利用影响力受贿、国有公司人员滥用职权犯罪问题移送检察机关审查起诉。
   fall:
     - { date: 2026-06-13, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: r08-people-2026-06-13-yu-xiaoping-probe }
+    - { date: 2026-10-19, text: 被开除党籍、取消享受的待遇，涉嫌受贿、利用影响力受贿、国有公司人员滥用职权犯罪问题移送检察机关审查起诉, cite: c15-xinhua-2026-10-19-yu-xiaoping-expel }
   tier: 2
   headline: 中国人民保险集团原党委委员、副总裁
   bio: >-
-    曾任中国人民保险集团股份有限公司党委委员、副总裁。2026 年 6 月被查，目前只有立案消息；2025 年 12 月，人保集团时任副总裁于泽已被查。
+    曾任中国人民保险集团股份有限公司党委委员、副总裁。2026 年 6 月被查，10 月被开除党籍，涉嫌受贿、利用影响力受贿、国有公司人员滥用职权犯罪问题移送审查起诉；2025 年 12 月，人保集团时任副总裁于泽已被查。
   positions:
     - { title: 中国人民保险集团股份有限公司党委委员、副总裁, sys: other, cite: r08-people-2026-06-13-yu-xiaoping-probe }
-  cites: [r08-people-2026-06-13-yu-xiaoping-probe, r08-people-2025-12-06-yu-ze-probe]
+  cites: [r08-people-2026-06-13-yu-xiaoping-probe, r08-people-2025-12-06-yu-ze-probe, c15-xinhua-2026-10-19-yu-xiaoping-expel]
 
 - id: wang-yihua
   name: 王益华
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2026 年 5 月被宣布接受审查调查；截至 2026 年 10 月未见处分结果。
@@ -1218,6 +1252,7 @@
 # ───── CS2 其他：足协、福彩、云南农信社、涉黑商人 ─────
 - id: liu-yi
   name: 刘奕
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1237,6 +1272,7 @@
 
 - id: he-wen
   name: 贺文
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -1279,6 +1315,7 @@
 
 - id: jiang-zhaogang
   name: 蒋兆岗
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1301,6 +1338,7 @@
 
 - id: wan-renli
   name: 万仁礼
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1321,6 +1359,7 @@
 
 - id: lou-he
   name: 娄河
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -1337,6 +1376,7 @@
 
 - id: ma-shaowei
   name: 马少伟
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -1346,6 +1386,8 @@
     - { date: 2023-08-19, text: 西宁中院二审维持一审判决：以非法采矿罪、单位行贿罪合并执行有期徒刑 6 年 6 个月，并处罚金 630 万元, cite: r08-thepaper-2023-08-19-ma-shaowei-appeal }
   tier: 2
   headline: 青海兴青公司实际控制人，“隐形首富”，木里煤田非法采煤案主角
+  positions:
+    - { title: 青海省兴青工贸工程集团有限公司法定代表人, sys: other, place: 青海, cite: r08-thepaper-2023-08-19-ma-shaowei-appeal }
   bio: >-
     青海省兴青工贸工程集团有限公司法定代表人，被称青海“隐形首富”。2020 年 8 月媒体调查报道揭露兴青公司以修复治理名义在祁连山南麓木里煤田掠夺式采挖。
     法院认定兴青公司 2006 年 10 月至 2020 年 7 月非法采挖原煤价值 59 亿余元，非法获利 8.79 亿元；2016—2020 年他等人向文国栋、梁彦国、李永平送财物 1390 万余元，
@@ -1355,6 +1397,7 @@
 # ───── CS1 其他：山西、华润、证监会、辽宁 ─────
 - id: xie-kemin
   name: 谢克敏
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -1390,11 +1433,14 @@
 
 - id: wang-wenzhi
   name: 王文志
+  verify: true
   gender: m
   roles: [media]
   status: active
   tier: 2
   headline: 《经济参考报》首席记者，两次实名举报华润董事长宋林
+  positions:
+    - { title: 新华社《经济参考报》首席记者, sys: other, cite: r08-chinanews-2014-04-17-wang-wenzhi-report }
   bio: >-
     新华社《经济参考报》首席记者。2013 年 7 月 17 日在微博实名举报华润集团董事长宋林等在收购山西金业资产中“故意放水”，造成数十亿元国资流失；
     2014 年 4 月 15 日再次实名举报宋林包养情妇并涉嫌贪腐，两天后中央纪委宣布宋林接受组织调查。2015 年他又实名举报中彩在线违规运营和利益输送，
@@ -1409,6 +1455,8 @@
   tier: 2
   headline: 《山西晚报》前记者，2013 年赴香港廉署举报华润董事长宋林
   ids: { wikidata: Q17004305 }
+  positions:
+    - { title: 《山西晚报》记者, sys: other, place: 山西, cite: r08-bbc-2013-08-05-li-jianjun-cr-report }
   bio: >-
     《山西晚报》前揭黑记者，最早在大陆揭发华润电力溢价收购山西烂煤矿。2013 年 8 月 5 日到香港廉政公署和警方商业罪案调查科举报宋林等华润高层，
     称宋林涉嫌勾结国内富商，透过虚假评估将公司资产据为己有。他说多年揭黑受到山西省公安厅数次立案调查。宋林曾发声明称他的指控“纯属诬告”。
@@ -1440,6 +1488,8 @@
 - id: xing-libin
   name: 邢利斌
   gender: m
+  born: 1967-05
+  birthplace: 山西柳林
   roles: [biz]
   status: dead
   statusNote: 2014 年 3 月被警方带走协助调查，未见判决消息；2023 年 1 月在上海去世。
@@ -1453,10 +1503,11 @@
     2014 年 3 月被带走，成为山西反腐的一个引爆点；南方周末称他 2023 年 1 月在上海去世，时年 55 岁（人民网 2014 年称他 49 岁）。
   positions:
     - { title: 山西联盛能源有限公司董事局主席, sys: other, place: 山西, cite: r08-people-2014-09-11-xing-libin-lvliang }
-  cites: [r08-people-2014-09-11-xing-libin-lvliang, r08-infzm-2023-09-05-xing-libin-died]
+  cites: [r08-people-2014-09-11-xing-libin-lvliang, r08-infzm-2023-09-05-xing-libin-died, cs1-thepaper-2014-08-cr-wang-yujun]
 
 - id: wang-yujun
   name: 王玉军
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1478,6 +1529,7 @@
 
 - id: huang-daoguo
   name: 黄道国
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -1497,6 +1549,7 @@
 
 - id: cheng-boming
   name: 程博明
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -1538,6 +1591,7 @@
 
 - id: liu-shufan
   name: 刘书帆
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -1600,6 +1654,7 @@
 
 - id: zhang-huayu
   name: 张华宇
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1621,6 +1676,7 @@
 - id: li-feng-ln
   name: 李峰
   gender: m
+  born: 1953-12
   roles: [tiger]
   status: purged
   statusNote: 2016 年 9 月被免去辽宁省人大常委会党组书记、副主任，并被罢免省人大代表、全国人大代表职务；未见立案审查通报。
@@ -1634,10 +1690,11 @@
     省人大代表职务被罢免（与辞职的 452 人和吴野松一起构成 454 名资格终止的省人大代表），10 月又被罢免全国人大代表职务。官方未公布对他的立案或处分。
   positions:
     - { title: 辽宁省人大常委会党组书记、副主任, sys: gov, place: 辽宁, to: 2016-09, cite: r08-caixin-2016-10-26-li-feng-ln-npc }
-  cites: [r08-caixin-2016-10-26-li-feng-ln-npc, r08-thepaper-2016-09-17-li-feng-ln-recall, cs1-bbc-2016-09-18-liaoning-454]
+  cites: [r08-caixin-2016-10-26-li-feng-ln-npc, r08-thepaper-2016-09-17-li-feng-ln-recall, cs1-bbc-2016-09-18-liaoning-454, bd1-wiki-li-feng-ln]
 
 - id: fang-wei
   name: 方威
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -1647,6 +1704,9 @@
     - { date: 2016-09-13, text: 全国人大常委会确定其因拉票贿选当选无效, cite: r08-people-2016-09-13-fang-wei-npc }
   tier: 2
   headline: 辽宁方大集团董事局主席，辽宁拉票贿选案中当选无效的全国人大代表
+  positions:
+    - { title: 辽宁方大集团董事局主席, sys: other, place: 辽宁, cite: r08-gov-2014-06-27-fang-wei-recall }
+    - { title: 第十二届全国人大代表, sys: gov, to: 2014-05, cite: r08-gov-2014-06-27-fang-wei-recall }
   bio: >-
     抚顺炭素有限责任公司总工程师、辽宁方大集团董事局主席、北京方大炭素科技有限公司董事长，2013 年由辽宁省选为第十二届全国人大代表。
     2014 年 5 月以涉嫌违法犯罪被罢免代表职务；2016 年 9 月全国人大常委会查实辽宁拉票贿选案，确定他在内的 45 名全国人大代表当选无效。未见对他的起诉或审判消息。

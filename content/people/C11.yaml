@@ -218,6 +218,7 @@
 
 - id: liu-weidong-csgc
   name: 刘卫东
+  verify: true
   pinyin: Liú Wèidōng
   gender: m
   roles: [tiger]
@@ -403,6 +404,7 @@
 
 - id: zhang-shaoying
   name: 张韶颖
+  verify: true
   pinyin: Zhāng Sháoyǐng
   gender: m
   roles: [general]
@@ -484,6 +486,7 @@
 
 - id: feng-yuzhang
   name: 冯虞章
+  verify: true
   pinyin: Féng Yúzhāng
   gender: m
   roles: [scholar]
@@ -501,6 +504,7 @@
 
 - id: yang-xiaoqing
   name: 杨晓青
+  verify: true
   pinyin: Yáng Xiǎoqīng
   gender: f
   roles: [scholar]
@@ -560,6 +564,7 @@
   name: 杜光
   pinyin: Dù Guāng
   gender: m
+  born: 1928-05-04
   died: 2023-03-12
   roles: [scholar]
   status: dead
@@ -570,10 +575,11 @@
     1988 年他参与筹建中国政治体制改革研究会，六四后研究会被迫停止活动；杨继绳曾引他的话说《炎黄春秋》是反对历史虚无主义的“大本营、重要基地”。2023 年 3 月在北京去世，终年 96 岁。
   positions:
     - { title: 中共中央党校理论研究室副主任、科研办公室主任, sys: party, from: 1979, to: 1990, cite: c11-rfa-2023-03-15-du-guang }
-  cites: [c11-rfa-2023-03-15-du-guang, i08-voa-2015-05-21-yanhuang]
+  cites: [c11-rfa-2023-03-15-du-guang, i08-voa-2015-05-21-yanhuang, bd1-wiki-du-guang]
 
 - id: yi-fuxian
   name: 易富贤
+  verify: true
   pinyin: Yì Fùxián
   gender: m
   birthplace: 湖南洪江
@@ -612,6 +618,7 @@
 
 - id: gu-baochang
   name: 顾宝昌
+  verify: true
   pinyin: Gù Bǎochāng
   gender: m
   roles: [scholar]
@@ -691,6 +698,7 @@
 
 - id: wu-xiaoping
   name: 吴小平
+  verify: true
   pinyin: Wú Xiǎopíng
   gender: m
   roles: [biz]
@@ -819,6 +827,8 @@
   tier: 2
   headline: 网络作家，本名郝群，公共知识分子，2021 年起流亡澳大利亚
   ids: { wikidata: Q1021166 }
+  positions:
+    - { title: 网络作家, sys: other, cite: c11-wiki-murong-xuecun }
   bio: >-
     本名郝群，中国政法大学毕业，以《成都，今夜请将我遗忘》《天堂向左，深圳往右》等小说成名，是广为人知的公共知识分子。
     2013 年他在“公知”污名化讨论中说“一个批评缺席的社会是不可想象的”；同年微博被封，2021 年 8 月出境，现流亡澳大利亚，2022 年出版《禁城：武汉传来的声音》。
@@ -826,6 +836,7 @@
 
 - id: luo-huazhong
   name: 骆华忠
+  verify: true
   pinyin: Luò Huázhōng
   aka: [好心的旅行家]
   gender: m
@@ -834,6 +845,8 @@
   tier: 2
   headline: 网民，2021 年发帖《躺平即是正义》，被称为“躺平学大师”
   ids: { wikidata: Q136664580 }
+  positions:
+    - { title: 轮胎厂工人、工厂质检员、保安, sys: other, cite: c11-wiki-luo-huazhong }
   bio: >-
     职高辍学，当过轮胎厂工人、质检员、保安，2018 年到深圳谋生、到过三和人才市场，2019 年回到浙江建德后大部分时间不再工作。
     2021 年 4 月他以“好心的旅行家”之名在百度贴吧发帖《躺平即是正义》，被称为“躺平学大师”，引发全国性的“躺平”讨论；他说“一个好的社会是可上可下的”。

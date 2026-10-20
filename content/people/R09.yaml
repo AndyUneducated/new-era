@@ -48,6 +48,7 @@
 
 - id: sun-luyi
   name: 孙路一
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -67,6 +68,7 @@
 
 - id: wang-chengming
   name: 王成明
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -89,6 +91,7 @@
 
 - id: han-guozhang
   name: 韩国璋
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -107,6 +110,7 @@
 
 - id: wu-hongmei
   name: 吴鸿玫
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2007 年 9 月上海一中院对其受贿案一审宣判，本站来源未载刑期。
@@ -230,6 +234,7 @@
 
 - id: yu-hongchen
   name: 于洪臣
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -296,6 +301,7 @@
 
 - id: liao-jiesheng
   name: 廖解生
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2014 年 8 月被株洲中院数罪并罚判处有期徒刑 5 年；按刑期计算或已刑满，未见公开报道。
@@ -312,6 +318,7 @@
 
 - id: zuo-huiling
   name: 左慧玲
+  verify: true
   roles: [tiger]
   status: purged
   statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
@@ -328,6 +335,7 @@
 
 - id: xiao-bin
   name: 肖斌
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -618,6 +626,7 @@
 
 - id: chen-zhengming
   name: 陈争鸣
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -690,6 +699,7 @@
 
 - id: wang-yong-jx
   name: 王詠
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -776,6 +786,7 @@
 
 - id: su-shunhu
   name: 苏顺虎
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -837,6 +848,7 @@
 # ───── 刘铁男与国家能源局 ─────
 - id: hao-weiping
   name: 郝卫平
+  verify: true
   gender: m
   roles: [tiger]
   status: purged

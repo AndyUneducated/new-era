@@ -164,6 +164,7 @@
 
 - id: yan-yousong
   name: 严友松
+  verify: true
   pinyin: Yán Yǒusōng
   gender: m
   roles: [biz]
@@ -204,6 +205,7 @@
 
 - id: zhao-wenxin
   name: 赵文欣
+  verify: true
   pinyin: Zhào Wénxīn
   gender: m
   roles: [scholar]
@@ -220,6 +222,7 @@
 
 - id: albert-keidel
   name: 盖保德
+  verify: true
   aka: [Albert Keidel]
   gender: m
   education:

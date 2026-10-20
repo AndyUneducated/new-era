@@ -1,0 +1,78 @@
+# BD1: sources for birth dates, birthplaces and positions of existing cards
+web:
+  - { id: bd1-wiki-wang-xiaodong-writer, title: "王小东 (学者)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/王小东_(学者)", excerpt: true, keep: ["王小东（"] }
+  - { id: bd1-wiki-fan-jinggang, title: "范景刚（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/范景刚", excerpt: true, keep: ["范景刚（"] }
+  - { id: bd1-wiki-shen-dingcheng, title: "沈定成（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/沈定成", excerpt: true, keep: ["沈定成（"] }
+  - { id: bd1-wiki-yu-gang, title: "余刚 (政治人物)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/余刚_(政治人物)", excerpt: true, keep: ["余刚（"] }
+  - { id: bd1-wiki-liu-han, title: "刘汉 (1965年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘汉_(1965年)", excerpt: true, keep: ["刘汉（"] }
+  - { id: bd1-wiki-mi-xiaodong, title: "米晓东（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/米晓东", excerpt: true, keep: ["米晓东（"] }
+  - { id: bd1-wiki-ling-zhengce, title: "令政策（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/令政策", excerpt: true, keep: ["令政策（"] }
+  - { id: bd1-wiki-chen-chuanping, title: "陈川平（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈川平", excerpt: true, keep: ["陈川平（"] }
+  - { id: bd1-wiki-ding-shumiao, title: "丁书苗（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/丁书苗", excerpt: true, keep: ["丁书苗（"] }
+  - { id: bd1-wiki-shen-weichen, title: "申维辰（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/申维辰", excerpt: true, keep: ["申维辰（"] }
+  - { id: bd1-wiki-liu-suiji, title: "柳遂记（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/柳遂记", excerpt: true, keep: ["柳遂记（"] }
+  - { id: bd1-wiki-li-jiangong, title: "李建功（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李建功", excerpt: true, keep: ["李建功（"] }
+  - { id: bd1-wiki-guo-zhenggang, title: "郭正钢（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/郭正钢", excerpt: true, keep: ["郭正钢（"] }
+  - { id: bd1-wiki-fan-changmi, title: "范长秘（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/范长秘", excerpt: true, keep: ["范长秘（"] }
+  - { id: bd1-wiki-deng-ruihua, title: "邓瑞华（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/邓瑞华", excerpt: true, keep: ["邓瑞华（"] }
+  - { id: bd1-wiki-zhan-guoqiao, title: "占国桥（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/占国桥", excerpt: true, keep: ["占国桥（"] }
+  - { id: bd1-wiki-zhang-wansong, title: "张万松（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张万松", excerpt: true, keep: ["张万松（"] }
+  - { id: bd1-wiki-fu-yi, title: "傅怡（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/傅怡", excerpt: true, keep: ["傅怡（"] }
+  - { id: bd1-wiki-yu-daqing, title: "于大清（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/于大清", excerpt: true, keep: ["于大清（"] }
+  - { id: bd1-wiki-yang-jinshan, title: "杨金山（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/杨金山", excerpt: true, keep: ["杨金山（"] }
+  - { id: bd1-wiki-liu-hongjie, title: "刘洪杰（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘洪杰", excerpt: true, keep: ["刘洪杰（"] }
+  - { id: bd1-wiki-gao-xiaoyan, title: "高小燕（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/高小燕", excerpt: true, keep: ["高小燕（"] }
+  - { id: bd1-wiki-liu-zheng, title: "刘铮 (解放军)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘铮_(解放军)", excerpt: true, keep: ["刘铮（"] }
+  - { id: bd1-wiki-liu-guangbin, title: "刘光斌（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘光斌", excerpt: true, keep: ["刘光斌（"] }
+  - { id: bd1-wiki-li-qian-hb, title: "李谦 (1960年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李谦_(1960年)", excerpt: true, keep: ["李谦（"] }
+  - { id: bd1-wiki-zhao-shijie, title: "赵仕杰（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/赵仕杰", excerpt: true, keep: ["赵仕杰（"] }
+  - { id: bd1-wiki-sun-deshun, title: "孙德顺（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/孙德顺", excerpt: true, keep: ["孙德顺（"] }
+  - { id: bd1-wiki-huang-yi-yunnan, title: "黄毅 (1958年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/黄毅_(1958年)", excerpt: true, keep: ["黄毅（"] }
+  - { id: bd1-wiki-li-zefeng, title: "李泽峰（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李泽峰", excerpt: true, keep: ["李泽峰（"] }
+  - { id: bd1-wiki-zheng-hong-chongqing, title: "郑洪（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/郑洪", excerpt: true, keep: ["郑洪（"] }
+  - { id: bd1-wiki-liu-handong, title: "刘捍东（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘捍东", excerpt: true, keep: ["刘捍东（"] }
+  - { id: bd1-wiki-yang-zixing, title: "杨子兴 (1959年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/杨子兴_(1959年)", excerpt: true, keep: ["杨子兴（"] }
+  - { id: bd1-wiki-li-gang-zzb, title: "李刚 (1965年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李刚_(1965年)", excerpt: true, keep: ["李刚（"] }
+  - { id: bd1-wiki-zhang-shiping, title: "张世平 (1954年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张世平_(1954年)", excerpt: true, keep: ["张世平（"] }
+  - { id: bd1-wiki-zhang-jianhua-gfkg, title: "张建华 (1961年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张建华_(1961年)", excerpt: true, keep: ["张建华（", "国防科"] }
+  - { id: bd1-wiki-li-chunliang, title: "李春良 (1963年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李春良_(1963年)", excerpt: true, keep: ["李春良（"] }
+  - { id: bd1-wiki-wang-jianjun-csrc, title: "王建军 (1968年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/王建军_(1968年)", excerpt: true, keep: ["王建军（"] }
+  - { id: bd1-wiki-zhang-tianfeng, title: "张天峰 (1963年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/张天峰_(1963年)", excerpt: true, keep: ["张天峰（"] }
+  - { id: bd1-wiki-zhou-liang-nfra, title: "周亮 (1971年)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/周亮_(1971年)", excerpt: true, keep: ["周亮（"] }
+  - { id: bd1-wiki-xiao-jie-hn, title: "肖杰 (政治人物)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/肖杰_(政治人物)", excerpt: true, keep: ["肖杰（"] }
+  - { id: bd1-wiki-lu-kehua, title: "陆克华（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陆克华", excerpt: true, keep: ["陆克华（"] }
+  - { id: bd1-wiki-lei-siwei, title: "雷思维（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/雷思维", excerpt: true, keep: ["雷思维（"] }
+  - { id: bd1-wiki-chen-shifei, title: "陈时飞（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陈时飞", excerpt: true, keep: ["陈时飞（"] }
+  - { id: bd1-wiki-ouyang-weimin, title: "欧阳卫民（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/欧阳卫民", excerpt: true, keep: ["欧阳卫民（"] }
+  - { id: bd1-wiki-guo-wenqing, title: "国文清（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/国文清", excerpt: true, keep: ["国文清（"] }
+  - { id: bd1-wiki-li-guohua-unicom, title: "李国华 (1960年3月)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李国华_(1960年3月)", excerpt: true, keep: ["李国华（"] }
+  - { id: bd1-wiki-feng-zhibin, title: "冯志斌（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/冯志斌", excerpt: true, keep: ["冯志斌（"] }
+  - { id: bd1-wiki-tan-li, title: "谭力（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/谭力", excerpt: true, keep: ["谭力（"] }
+  - { id: bd1-wiki-du-guang, title: "杜光（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/杜光", excerpt: true, keep: ["杜光（"] }
+  - { id: bd1-wiki-su-zengtian, title: "蘇增添（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/蘇增添", excerpt: true, keep: ["苏增添（"] }
+  - { id: bd1-wiki-li-feng-ln, title: "李峰 (1953年12月)（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/李峰_(1953年12月)", excerpt: true, keep: ["李峰（"] }
+  - { id: bd1-wiki-chen-xuefeng, title: "陳雪楓（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/陳雪楓", excerpt: true, keep: ["陈雪枫（"] }
+  - { id: bd1-wiki-tang-shuangning, title: "唐雙寧（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/唐雙寧", excerpt: true, keep: ["唐双宁（"] }
+  - { id: bd1-nbd-2023-10-24-lan-foan, title: "蓝佛安任财政部部长，刘昆卸任！阴和俊任科技部部长", publisher: 每日经济新闻, date: 2023-10-24, voice: zh, url: "https://www.nbd.com.cn/articles/2023-10-24/3069157.html", excerpt: true, keep: ["四、免去刘昆的财政部部长职务", "此前，蓝佛安已任财政部党组书记", "9月28日下午，中央组织部", "蓝佛安，男，汉族", "2021.04-2021.06 山西省委副书记", "2021.06-2022.12 山西省委副书记", "2022.12-2023.01 山西省委书记", "2023.01-2023.09.28 山西省委书记"] }
+  - { id: bd1-npc-2023-02-24-he-rong-order, title: "中华人民共和国主席令（第一三〇号）", publisher: 中国人大网, date: 2023-02-24, voice: official, url: "http://www.npc.gov.cn/npc/c2/c30834/202302/t20230224_423660.html" }
+  - { id: bd1-nbd-2023-02-24-he-rong, title: "她，被任命为司法部部长", publisher: 每日经济新闻, date: 2023-02-24, voice: zh, url: "https://www.nbd.com.cn/articles/2023-02-24/2683843.html", excerpt: true, keep: ["任命贺荣（女）为司法部部长", "贺荣，女，汉族", "2013.10--2017.03 最高人民法院副院长", "2017.03--2018.01 陕西省委常委", "2018.01--2018.03 陕西省委常委", "2018.03--2020.04 陕西省委副书记", "2020.04-- 最高人民法院党组副书记"] }
+  - { id: bd1-xinhua-2017-09-02-huai-jinpeng, title: "怀进鹏任中国科协党组书记", publisher: 新华网（转中国科协官网）, date: 2017-09-02, voice: official, url: "http://www.xinhuanet.com/politics/2017-09/02/c_1121588876.htm" }
+  - { id: bd1-wiki-ding-zilin, title: "丁子霖（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/丁子霖", excerpt: true, keep: ["丁子霖（1936年"] }
+  - { id: bd1-wiki-liu-xiaofeng, title: "刘小枫（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/刘小枫", excerpt: true, keep: ["刘小枫（1956年"] }
+  - { id: bd1-wiki-tan-zuoren, title: "谭作人（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/谭作人", excerpt: true, keep: ["谭作人（1954年"] }
+  - { id: bd1-wiki-xue-jinbo, title: "薛锦波（维基百科）", publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-cn/薛锦波", excerpt: true, keep: ["薛锦波（1969年"] }
+  - { id: bd1-nbd-2023-06-25-xu-wenrong, title: "重磅！中石油原副总经理徐文荣被查！任职时年薪近百万", publisher: 每日经济新闻, date: 2023-06-25, voice: zh, url: "https://www.nbd.com.cn/articles/2023-06-25/2884959.html", excerpt: true, keep: ["1961年6月生"] }
+  - { id: bd1-jiemian-2025-03-01-yuan-guangyu, title: "退休5年有余，中海油原副总袁光宇被查", publisher: 界面新闻, date: 2025-03-01, voice: zh, url: "https://m.jiemian.com/article/12415146.html", excerpt: true, keep: ["天津人"] }
+  - { id: bd1-thepaper-2023-01-14-cao-xingxin, title: "曹兴信履新中国联通副总经理，此前担任全国组织干部学院党委书记", publisher: 澎湃新闻, date: 2023-01-14, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_21560756", excerpt: true, keep: ["1966年10月"] }
+  - { id: bd1-sina-2026-08-17-xu-yiding, title: "农发行原副行长徐一丁被“双开”：大搞权钱交易，非法收受巨额财物", publisher: 新浪财经, date: 2026-08-17, voice: zh, url: "https://finance.sina.com.cn/jryx/hm/2026-08-17/doc-ininrkkn9017801.shtml", excerpt: true, keep: ["祖籍四川内江"] }
+  - { id: bd1-chinanews-2025-10-28-hou-weidong, title: "交通银行原副行长侯维栋被查", publisher: 中国新闻网, date: 2025-10-28, voice: zh, url: "https://www.chinanews.com.cn/gn/2025/10-28/10506019.shtml", excerpt: true, keep: ["1960年1月"] }
+  - { id: bd1-thepaper-2025-12-06-yu-ze, title: "中国人保副总裁、人保财险总裁于泽被查，曾任太平财险总经理", publisher: 澎湃新闻, date: 2025-12-06, voice: zh, url: "https://www.thepaper.cn/newsDetail_forward_32076066", excerpt: true, keep: ["1971年10月"] }
+  - { id: bd1-chinanews-2026-08-08-song-zhiyuan, title: "中国东方电气集团有限公司原董事宋致远被查", publisher: 中国新闻网, date: 2026-08-08, voice: zh, url: "https://www.chinanews.com/gn/2026/08-08/10674148.shtml", excerpt: true, keep: ["1964年9月"] }
+  - { id: bd1-cdsb-2024-05-29-he-zehua, title: "25年受贿超9亿 国家烟草专卖局原副局长何泽华一审被判死缓", publisher: 成都商报, date: 2024-05-29, voice: zh, url: "https://static.cdsb.com/micropub/Articles/202405/efb46cc333f72a5d5f072718fe563411.html", excerpt: true, keep: ["1954年出生"] }
+  - { id: bd1-qq-2024-05-29-zhou-zheng, title: "周政被逮捕，曾被通报搞权色交易、权钱交易", publisher: 腾讯新闻, date: 2024-05-29, voice: zh, url: "https://news.qq.com/rain/a/20240529A049DE00", excerpt: true, keep: ["1963年3月出生"] }
+  - { id: bd1-cls-2023-07-18-xiao-xing, title: "金融圈又一高管落马 太平保险集团副总经理肖星涉嫌严重违法违纪被查", publisher: 财联社, date: 2023-07-18, voice: zh, url: "https://www.cls.cn/detail/1408178", excerpt: true, keep: ["1971年12月出生"] }
+  - { id: bd1-qq-2022-01-06-pan-jiahua, title: "69岁烟草“内鬼”涉贿被公诉，曾利用政商旋转门为家族谋利", publisher: 腾讯新闻, date: 2022-01-06, voice: zh, url: "https://news.qq.com/rain/a/20220106A08TNB00", excerpt: true, keep: ["出生于1952年"] }
+  - { id: bd1-bjnews-2022-01-24-meng-xiang, title: "最高人民法院审判委员会原委员、执行局原局长孟祥，被“双开”", publisher: 新京报, date: 2022-01-24, voice: zh, url: "https://m.bjnews.com.cn/detail/164299473914434.html", excerpt: true, keep: ["1965年2月"] }
+  - { id: bd1-bjnews-2018-12-18-yang-xihuai, title: "泄露工作秘密，辽宁省纪委原副书记杨锡怀被撤职降级", publisher: 新京报, date: 2018-12-18, voice: zh, url: "https://m.bjnews.com.cn/detail/154513270314676.html", excerpt: true, keep: ["1963年2月"] }
+  - { id: bd1-sina-2019-09-06-zhao-jingwen, title: "中信集团原执行董事赵景文涉嫌受贿贪污案被提起公诉", publisher: 新浪财经（转中国经济网）, date: 2019-09-06, voice: zh, url: "https://finance.sina.com.cn/chanjing/gsnews/2019-09-06/doc-iicezueu3908463.shtml", excerpt: true, keep: ["1954年7月出生"] }
+  - { id: bd1-mnw-qiu-daming, title: "邱大明简历", publisher: 闽南网, voice: zh, url: "http://www.mnw.cn/news/china/2058132.html", excerpt: true, keep: ["1962年6月"] }

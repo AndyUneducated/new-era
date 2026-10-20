@@ -11,6 +11,8 @@
   tier: 2
   headline: 商人，习近平之姐
   ids: { wikidata: Q1441290 }
+  positions:
+    - { title: 秦川大地投资公司控股人（与丈夫邓家贵）, sys: other, place: 北京, from: 2007, cite: r01-nytcn-2014-06-18-xi-assets }
   bio: >-
     习仲勋之女、习近平的姐姐。彭博社 2012 年 6 月 29 日报道，其追踪到的习氏亲属资产大部分由齐桥桥、丈夫邓家贵和女儿张燕南持有，所投资公司总资产达 3.76 亿美元；报道同时说未发现资产与习近平夫妇及女儿有关，也无迹象显示习近平介入亲属生意。报道刊出后彭博网站在中国被屏蔽。
   family:
@@ -19,10 +21,11 @@
       text: >-
         据美国之音 2016 年 4 月 6 日报道，巴拿马文件显示邓家贵 2004 年通过莫萨克·冯赛卡律所购买一家离岸公司，2009 年又购入两家；《纽约时报》同日报道，律所当时并未确认他与习近平的关系。
       cites: [c05-voa-2016-04-06-panama-red, c05-nytcn-2016-04-06-panama-china]
-  cites: [b04-bloomberg-2012-06-29-xi-family, c05-bbc-2012-06-29-bloomberg-xi, wd-Q1441290]
+  cites: [b04-bloomberg-2012-06-29-xi-family, c05-bbc-2012-06-29-bloomberg-xi, wd-Q1441290, r01-nytcn-2014-06-18-xi-assets]
 
 - id: xi-mingze
   name: 习明泽
+  verify: true
   gender: f
   born: 1992-06-25
   birthplace: 福建福州
@@ -83,6 +86,8 @@
   tier: 2
   headline: 地质学家、珠宝业人士，温家宝夫人
   ids: { wikidata: Q4122281 }
+  positions:
+    - { title: 国有钻石公司管理者, sys: other, cite: b02-nytcn-2012-10-26-wen-wealth }
   bio: >-
     温家宝的妻子，地质学家，长期在珠宝与宝石领域任职。《纽约时报》2012 年 10 月 26 日报道称，她通过管理后来被私有化的国有钻石公司，帮助亲属把少数股权扩充为十亿美元级的投资组合；报道所列 27 亿美元资产约八成在温家宝母亲、弟弟和她两名兄弟等亲属名下。温家发表声明称所谓“隐秘财富”不存在。该报中文网把她的名字写作张蓓莉。
   cites: [b02-nytcn-2012-10-26-wen-wealth, b02-nytcn-2012-10-29-wen-response, wd-Q4122281]
@@ -187,6 +192,7 @@
 
 - id: gu-kailai
   name: 谷开来
+  verify: true
   aka: [薄谷开来]
   gender: f
   born: 1958-11-15
@@ -225,6 +231,7 @@
 
 - id: zhou-bin
   name: 周滨
+  verify: true
   gender: m
   born: 1972-01
   roles: [family, biz]
@@ -241,6 +248,7 @@
 
 - id: ling-gu
   name: 令谷
+  verify: true
   gender: m
   born: 1988
   died: 2012-03-18
@@ -418,12 +426,14 @@
   bio: >-
     刑法学博士，长期在最高人民法院任职，两度出任副院长。2012 年 11 月增选为中央纪委副书记，至 2017 年 2 月；此后任司法部长，2018 年任最高人民检察院检察长，2023 年 3 月转任最高人民法院院长、首席大法官，先后执掌“两高”。
   positions:
-    - { title: 最高人民法院副院长, sys: gov, from: 2005, to: 2012, cite: c05-people-2018-03-19-zhou-zhang }
+    - { title: 最高人民法院副院长, sys: gov, from: 2001-12, to: 2003-06, cite: u09-cpc-2013-09-03-zhang-jun }
+    - { title: 司法部副部长, sys: gov, from: 2003-06, to: 2005-08, cite: u09-cpc-2013-09-03-zhang-jun }
+    - { title: 最高人民法院副院长, sys: gov, from: 2005-08, to: 2012-11, cite: u09-cpc-2013-09-03-zhang-jun }
     - { title: 中央纪委副书记, sys: party, from: 2012-11, to: 2017-02, cite: c05-people-2018-03-19-zhou-zhang }
     - { title: 司法部部长, sys: gov, from: 2017-02, to: 2018-03, cite: c05-people-2018-03-19-zhou-zhang }
     - { title: 最高人民检察院检察长, sys: gov, from: 2018-03, to: 2023-03, cite: c05-people-2018-03-19-zhou-zhang }
     - { title: 最高人民法院院长, sys: gov, from: 2023-03, cite: c05-gov-2023-03-12-zhang-jun }
-  cites: [c05-people-2018-03-19-zhou-zhang, c05-gov-2023-03-12-zhang-jun, wd-Q8340349]
+  cites: [c05-people-2018-03-19-zhou-zhang, c05-gov-2023-03-12-zhang-jun, wd-Q8340349, u09-cpc-2013-09-03-zhang-jun]
 
 - id: ying-yong
   name: 应勇
@@ -722,9 +732,11 @@
   tier: 2
   headline: 经济学家，市场化改革倡导者
   ids: { wikidata: Q837451 }
+  positions:
+    - { title: 国务院发展研究中心研究员, sys: gov, place: 北京, cite: i07-bbc-2019-03-stimulus }
   bio: >-
     《纽约时报》称他为中国最著名的经济学家之一。2013 年 11 月十八届三中全会前，他公开警告只有推进市场化改革并加快民主化、法治化，经济增长模式转型才可能实现，“舍此绝无他途”，并主张建立更独立的司法体系来约束党的权力。
-  cites: [c05-nytcn-2013-11-09-wu-jinglian, wd-Q837451]
+  cites: [c05-nytcn-2013-11-09-wu-jinglian, wd-Q837451, i07-bbc-2019-03-stimulus]
 
 - id: li-yining
   name: 厉以宁

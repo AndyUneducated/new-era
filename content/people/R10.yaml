@@ -51,6 +51,7 @@
 # ───── 证监会系统 ─────
 - id: yao-qian
   name: 姚前
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -90,6 +91,7 @@
 
 - id: liu-ti
   name: 刘逖
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -108,6 +110,7 @@
 
 - id: an-qingsong
   name: 安青松
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -151,6 +154,7 @@
 
 - id: chen-xiaopeng
   name: 陈小澎
+  verify: true
   gender: m
   birthplace: 福建
   roles: [biz]
@@ -218,6 +222,7 @@
 
 - id: yuan-fei
   name: 原飞
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -280,6 +285,7 @@
 # ───── 政策性银行 ─────
 - id: lu-chuncai
   name: 卢纯才
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -347,6 +353,7 @@
 
 - id: xue-feng-ebscn
   name: 薛峰
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -386,6 +393,7 @@
 
 - id: wu-guofang
   name: 吴国舫
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -407,6 +415,7 @@
 # ───── 保险与银保监系统（续） ─────
 - id: ren-chunsheng
   name: 任春生
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -429,6 +438,7 @@
 
 - id: zhang-jinsong
   name: 张劲松
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -518,6 +528,7 @@
 
 - id: gao-fei
   name: 高飞
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -539,6 +550,7 @@
 
 - id: zhang-huiye
   name: 张辉烨
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -601,6 +613,7 @@
 # ───── 国有大行与保险 ─────
 - id: wang-zhibin-icbc
   name: 王芝斌
+  verify: true
   gender: m
   birthplace: 河南新野
   roles: [biz]
@@ -670,6 +683,7 @@
 
 - id: zhang-xiaoli
   name: 张孝礼
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -732,6 +746,7 @@
 
 - id: zhuang-enyue
   name: 庄恩岳
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -755,6 +770,7 @@
 
 - id: xu-xiang-citic
   name: 徐翔
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -773,6 +789,7 @@
 # ───── 地方金融国企 ─────
 - id: li-wei-zhongtai
   name: 李玮
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -821,6 +838,7 @@
 
 - id: feng-jianlong
   name: 冯建龙
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -843,6 +861,7 @@
 
 - id: gao-qiang-ccb
   name: 高强
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -862,6 +881,7 @@
 
 - id: shen-rongqin
   name: 沈荣勤
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -923,6 +943,7 @@
 
 - id: zhang-xu-citic
   name: 张旭
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -941,6 +962,7 @@
 
 - id: zhang-songbai
   name: 张松柏
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -959,6 +981,7 @@
 
 - id: kong-fanbo
   name: 孔繁波
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -977,6 +1000,7 @@
 
 - id: he-zeshu
   name: 何泽蜀
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -996,6 +1020,7 @@
 
 - id: guo-sanye
   name: 郭三野
+  verify: true
   gender: m
   roles: [biz]
   status: purged

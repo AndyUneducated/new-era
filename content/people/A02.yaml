@@ -3,6 +3,7 @@
 
 - id: li-tongjian
   name: 李同建
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -39,6 +40,7 @@
 
 - id: wang-changqing
   name: 王长青
+  verify: true
   gender: m
   roles: [tiger]
   status: missing
@@ -55,6 +57,7 @@
 
 - id: li-zhizhong-pla
   name: 李志忠
+  verify: true
   gender: m
   birthplace: 辽宁黑山
   roles: [tiger, general]
@@ -96,6 +99,7 @@
 
 - id: he-song-pla
   name: 何松
+  verify: true
   gender: m
   roles: [tiger, general]
   status: missing
@@ -134,6 +138,7 @@
 
 - id: yang-guang-pla
   name: 杨光
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged

@@ -230,6 +230,7 @@
 
 - id: wang-aiguo-pla
   name: 王爱国
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -249,6 +250,7 @@
 
 - id: huang-xianjun
   name: 黄献军
+  verify: true
   gender: m
   birthplace: 河北隆尧
   roles: [tiger, general]
@@ -269,6 +271,7 @@
 
 - id: duan-tianjie
   name: 段天杰
+  verify: true
   gender: m
   birthplace: 山西娄烦
   roles: [tiger, general]
@@ -312,6 +315,7 @@
 
 - id: huang-xing-pla
   name: 黄星
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -354,6 +358,7 @@
 
 - id: cheng-jie-pla
   name: 程杰
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -372,6 +377,7 @@
 
 - id: chen-jianfeng-pla
   name: 陈剑锋
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -390,6 +396,7 @@
 
 - id: chen-hongyan
   name: 陈红岩
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -408,6 +415,7 @@
 
 - id: wang-sheng-pla
   name: 王声
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -426,6 +434,7 @@
 
 - id: lan-weijie
   name: 兰伟杰
+  verify: true
   gender: m
   roles: [tiger, general]
   status: detained
@@ -638,6 +647,7 @@
 
 - id: zhang-genheng
   name: 张根恒
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -656,6 +666,7 @@
 
 - id: yin-zhishan
   name: 尹志山
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged

@@ -15,6 +15,8 @@
   tier: 2
   headline: 维权律师，2017 年起下落不明
   ids: { wikidata: Q469951 }
+  positions:
+    - { title: 律师, sys: other, to: 2006, cite: c04-cna-2021-08-14-gao-zhisheng }
   bio: >-
     曾被司法部评为“中国十佳律师”，因代理法轮功学员案件，2006 年被吊销律师执照，随后以煽动颠覆国家政权罪被判刑（中央社）。刑满后仍遭软禁，2017 年 8 月 13 日再次失踪。妻子耿和 2009 年带子女逃往美国，至今仍在寻找他的下落。
   cites: [wd-Q469951, c04-cna-2021-08-14-gao-zhisheng, c04-bbc-2022-11-19-gao-zhisheng]
@@ -33,6 +35,8 @@
   tier: 2
   headline: 维权律师，2016 年被吊销执照
   ids: { wikidata: Q7257217 }
+  positions:
+    - { title: 律师, sys: other, place: 北京, to: 2016-04, cite: c04-bbc-2016-04-14-pu-zhiqiang }
   bio: >-
     1989 年在北京求学时参与天安门学生绝食，1997 年起执业，后转向代理维权和异议人士案件。2015 年 12 月被北京二中院以煽动民族仇恨罪、寻衅滋事罪判处有期徒刑三年、缓刑三年，次年 4 月被吊销律师执照。西方政府认为他只是行使言论自由，中方称外国须尊重中国的司法主权。
   cites: [wd-Q7257217, c04-bbc-2016-04-14-pu-zhiqiang]
@@ -52,6 +56,8 @@
   tier: 2
   headline: 维权律师，新公民运动参与者，在押
   ids: { wikidata: Q15908119 }
+  positions:
+    - { title: 维权律师, sys: other, cite: c04-bbc-2023-04-10-ding-jiaxi }
   bio: >-
     维权律师，与许志永同为新公民运动组织者，曾要求官员公示财产，2014 年获刑三年半。2019 年 12 月厦门聚会后被捕，2023 年 4 月与许志永同案以颠覆国家政权罪被判 12 年，二审维持原判。妻子罗胜春指控他在羁押中遭酷刑，BBC 未能核实。
   cites: [wd-Q15908119, c04-bbc-2023-04-10-ding-jiaxi, c04-dw-2023-11-24-ding-jiaxi-appeal]
@@ -70,6 +76,8 @@
   tier: 2
   headline: 维权律师，“709 最后一人”
   ids: { wikidata: Q15906397 }
+  positions:
+    - { title: 北京锋锐律师事务所律师, sys: other, place: 北京, to: 2015-08, cite: c04-bbc-2025-07-09-709-decade }
   bio: >-
     北京锋锐律师事务所维权律师，曾代理法轮功学员、失地农民、基督徒等敏感案件。2015 年 8 月在“709 大抓捕”中被捕，后以颠覆国家政权罪被判有期徒刑四年半，是 709 案最后一个在押待审的人，2020 年 4 月出狱。BBC 报道，他一家此后仍遭监视，2023 年两个月内被逼迁 13 次。
   cites: [wd-Q15906397, c04-bbc-2025-07-09-709-decade, c04-dw-2025-07-09-709-decade]
@@ -89,6 +97,8 @@
   tier: 2
   headline: 维权律师，出狱后仍遭软禁
   ids: { wikidata: Q6191583 }
+  positions:
+    - { title: 律师, sys: other, to: 2009, cite: c04-bbc-2017-11-21-jiang-tianyong }
   bio: >-
     维权律师，曾代理陈光诚案和法轮功案件，2009 年被吊销执照。2016 年 11 月在长沙失踪，2017 年 11 月被长沙中院以煽动颠覆国家政权罪判处有期徒刑两年，当庭认罪。法院称他“长期受反华势力渗透影响”；妻子金变玲称判决“绝不接受”，国际特赦组织认为认罪很可能是被胁迫的。
   cites: [wd-Q6191583, c04-bbc-2017-11-21-jiang-tianyong, c04-voa-2019-02-28-jiang-tianyong, c04-dw-2019-10-jiang-tianyong]
@@ -106,6 +116,8 @@
   tier: 2
   headline: 北京维权律师，2026 年刑满出狱
   ids: { wikidata: Q55708253 }
+  positions:
+    - { title: 律师, sys: other, place: 北京, cite: c04-rfa-2026-07-08-yu-wensheng }
   bio: >-
     北京维权律师，曾代理“709 大抓捕”律师案等维权案件，此前多次被捕。2023 年 4 月与妻子许艳应邀会见欧盟驻华代表团途中被北京警方拦截，后以寻衅滋事、煽动颠覆国家政权罪被起诉，两人分别被判囚三年和一年九个月。2026 年 4 月他刑满出狱。
   cites: [wd-Q55708253, c04-cna-2026-04-14-yu-wensheng, c04-rfa-2026-07-08-yu-wensheng]
@@ -143,12 +155,15 @@
   tier: 2
   headline: 山东盲人维权人士，2012 年赴美
   ids: { wikidata: Q311205 }
+  positions:
+    - { title: 纽约大学法学院访问学者, sys: other, from: 2012-05, cite: c04-bbc-2012-05-20-chen-guangcheng }
   bio: >-
     山东沂南盲人维权人士。2012 年 4 月下旬进入美国驻华使馆，6 天后离开；中国外交部称美方以“非正常的方式”带他入馆，要求美方道歉。同年 5 月 19 日携妻子和两个孩子赴美，任纽约大学法学院访问学者，称希望中国政府信守保障他家人安全的承诺。
   cites: [wd-Q311205, c04-bbc-2012-05-02-chen-guangcheng, c04-bbc-2012-05-20-chen-guangcheng]
 
 - id: hu-jia
   name: 胡佳
+  verify: true
   gender: m
   born: 1973-07-25
   birthplace: 北京
@@ -178,6 +193,8 @@
   tier: 2
   headline: 资深记者，德国之声自由撰稿人
   ids: { wikidata: Q2234845 }
+  positions:
+    - { title: 德国之声自由撰稿人, sys: other, cite: c04-dw-2015-11-26-gao-yu }
   bio: >-
     资深记者，德国之声自由撰稿人。2015 年 11 月北京高院以“为境外非法提供国家秘密罪”二审改判她有期徒刑五年（一审为七年），法院称她二审期间认罪悔罪；同日北京三中院以她患有严重疾病为由决定暂予监外执行。德国政府人权专员曾呼吁出于人道主义原因释放她。
   cites: [wd-Q2234845, c04-dw-2015-11-26-gao-yu]
@@ -193,12 +210,15 @@
   tier: 2
   headline: 诗人、摄影师，刘晓波遗孀
   ids: { wikidata: Q1048838 }
+  positions:
+    - { title: 诗人、摄影师、画家, sys: other, place: 北京, cite: b10-bbc-2018-07-10-liu-xia }
   bio: >-
     诗人、摄影师和画家，诺贝尔和平奖得主刘晓波的妻子。2010 年刘晓波获奖后，她在没有任何罪名的情况下被软禁在北京家中近八年。2018 年 7 月 10 日获准飞抵柏林，外交部称她“按照其本人意愿前往德国接受治疗”。弟弟刘晖 2013 年被判刑 11 年。
   cites: [wd-Q1048838, b10-bbc-2018-07-10-liu-xia]
 
 - id: guo-feixiong
   name: 郭飞雄
+  verify: true
   aka: [杨茂东]
   gender: m
   born: 1966-08-02
@@ -229,12 +249,15 @@
   tier: 2
   headline: 维权律师，709 案当事人
   ids: { wikidata: Q27077 }
+  positions:
+    - { title: 维权律师, sys: other, cite: c04-bbc-2017-04-28-li-heping }
   bio: >-
     北京维权律师，曾为法轮功学员做无罪辩护。2015 年 7 月在“709 大抓捕”中失踪，2017 年 4 月被天津二中院以颠覆国家政权罪判处有期徒刑三年、缓刑四年，案件以“涉及国家秘密”为由不公开审理。法院称他“利用境外资金”炒作热点案件；妻子王峭岭坚持他无罪。
   cites: [wd-Q27077, c04-bbc-2017-04-28-li-heping, c04-bbc-2025-07-09-709-decade]
 
 - id: wu-gan
   name: 吴淦
+  verify: true
   aka: [超级低俗屠夫, 屠夫]
   gender: m
   born: 1973-02-14
@@ -339,6 +362,8 @@
   tier: 2
   headline: 清华法学教授，因撰文批评当局被开除
   ids: { wikidata: Q10529469 }
+  positions:
+    - { title: 清华大学法学院教授, sys: other, place: 北京, to: 2020-07, cite: c04-rfa-2020-07-18-xu-zhangrun }
   bio: >-
     清华大学法学院教授，2018 年起发表《我们当下的恐惧与期待》《愤怒的人民不再恐惧》等文，批评取消国家主席任期限制。2020 年 7 月被四川警方带走，警方称其嫖娼，友人认为是“泼污”；获释后清华以嫖娼受处罚及撰文违反教师行为准则为由将他开除。
   cites: [wd-Q10529469, c04-bbc-2020-07-13-xu-zhangrun, c04-rfa-2020-07-18-xu-zhangrun]
@@ -392,6 +417,8 @@
   tier: 2
   headline: 律师、公民记者，武汉疫情报道后失踪 601 天
   ids: { wikidata: Q66812765 }
+  positions:
+    - { title: 律师, sys: other, cite: c04-udn-2021-09-chen-qiushi }
   bio: >-
     律师、公民记者，2014 年因电视节目《我是演说家》成名。2019 年赴香港了解反送中运动后被限制出境；2020 年武汉封城后进入武汉报道疫情，2 月 6 日失联。601 天后在徐晓冬的直播中露面，神情憔悴，称已患忧郁症，此后转练拳击、不问时事。
   cites: [wd-Q66812765, c04-udn-2021-09-chen-qiushi]
@@ -426,6 +453,8 @@
   tier: 2
   headline: 网球运动员，曾指控张高丽性侵
   ids: { wikidata: Q229087 }
+  positions:
+    - { title: 职业网球运动员, sys: other, cite: c04-dw-2023-09-peng-shuai }
   bio: >-
     中国女子网球运动员。2021 年 11 月 2 日在微博发帖称遭前副总理张高丽性侵，帖子很快被删，她随后数周从公众视野消失，引发国际关注。2022 年 2 月她接受《队报》采访时否认遭遇性侵、称从未失踪。WTA 曾因此暂停中国所有赛事，2023 年 9 月恢复。
   cites: [wd-Q229087, c04-dw-2023-09-peng-shuai]
@@ -484,6 +513,9 @@
   tier: 2
   headline: “明天系”掌门人，2017 年从香港被带走
   ids: { wikidata: Q9185969 }
+  positions:
+    - { title: 华资实业总经理, sys: other, cite: c04-bbc-2022-08-19-xiao-jianhua }
+    - { title: “明天系”掌门人, sys: other, to: 2017-01, cite: c04-bbc-2022-08-19-xiao-jianhua }
   bio: >-
     “明天系”掌门人，15 岁考入北大法律系，以隐名控股等手段实际控制多家银行、保险和信托机构。2017 年 1 月 27 日从香港四季酒店被带走，2022 年 8 月被上海一中院以非法吸收公众存款等四项罪名判处有期徒刑 13 年，明天控股被罚 550.3 亿元。外交部称其外国国籍不获承认。
   cites: [wd-Q9185969, c04-bbc-2022-08-19-xiao-jianhua]
@@ -678,6 +710,8 @@
   tier: 2
   headline: 香港大学法律学者，“占中三子”之一，在押
   ids: { wikidata: Q11075375 }
+  positions:
+    - { title: 香港大学法律学者, sys: other, place: 香港, cite: c04-bbc-2020-05-martin-lee }
   bio: >-
     香港大学法律学者，“占中”发起人之一。2020 年倡议并组织民主派立法会初选，主张取得立法会过半议席并与政府“揽炒”；港澳办指控他为首的反对派串通组织初选。2024 年 11 月在“47 人案”中被法庭认定为初选“首要分子”，判囚 10 年。
   cites: [wd-Q11075375, c04-bbc-2024-11-19-hk47-a, c04-bbc-2024-11-19-hk47-b, c04-bbc-2020-05-martin-lee]
@@ -693,6 +727,8 @@
   tier: 2
   headline: 香港众志前成员，弃保留居加拿大
   ids: { wikidata: Q19317584 }
+  positions:
+    - { title: 香港众志成员, sys: other, place: 香港, cite: c04-cna-2023-12-29-agnes-chow }
   bio: >-
     香港众志前成员，民主运动中最知名的人物之一，支持者昵称她为“真实的花木兰”。2018 年为参选立法会补选放弃英国国籍，参选被拒。因涉嫌国安法罪行被拘捕后保释，2023 年 9 月赴多伦多读书，12 月宣布不再回港报到，“大概一辈子不会回去了”。
   cites: [wd-Q19317584, c04-bbc-2023-12-03-agnes-chow, c04-cna-2023-12-29-agnes-chow]

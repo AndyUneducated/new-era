@@ -97,6 +97,7 @@
 
 - id: leng-rongquan
   name: 冷荣泉
+  verify: true
   gender: m
   roles: [biz, tiger]
   status: purged

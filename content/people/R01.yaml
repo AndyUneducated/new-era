@@ -47,6 +47,7 @@
 
 - id: yang-kun
   name: 杨琨
+  verify: true
   gender: m
   roles: [tiger, biz]
   status: detained

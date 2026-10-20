@@ -263,10 +263,11 @@
   born: 1966
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 6 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。
+  statusNote: 2026 年 6 月被开除党籍和公职，10 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-11-30, text: 在任新疆维吾尔自治区常务副主席时被宣布接受纪律审查和监察调查, cite: t02-xinhua-2025-11-30-chen-weijun-probe }
     - { date: 2026-06-08, text: 被开除党籍和公职，终止其党的二十大代表资格, cite: t02-xinhua-2026-06-08-chen-weijun-expel }
+    - { date: 2026-10-09, text: 滁州市人民检察院以涉嫌受贿罪向滁州市中级人民法院提起公诉, cite: c15-spp-2026-10-09-chen-weijun-charge }
   tier: 2
   headline: 新疆维吾尔自治区原常务副主席
   ids: { wikidata: Q28414541 }
@@ -418,6 +419,8 @@
 - id: lu-kehua
   name: 陆克华
   gender: m
+  born: 1964-10
+  birthplace: 安徽枞阳
   roles: [tiger]
   status: detained
   statusNote: 2026 年 5 月被判死缓。
@@ -433,7 +436,7 @@
     - { title: 住房和城乡建设部副部长, sys: gov, cite: t02-xinhua-2026-05-08-lu-kehua-verdict }
     - { title: 重庆市副市长, sys: gov, place: 重庆, cite: t02-xinhua-2026-05-08-lu-kehua-verdict }
     - { title: 重庆市委常委、政法委书记, sys: party, place: 重庆, cite: t02-xinhua-2026-05-08-lu-kehua-verdict }
-  cites: [wd-Q97194217, t02-spp-2025-05-14-lu-kehua-arrest, t02-xinhua-2026-05-08-lu-kehua-verdict]
+  cites: [wd-Q97194217, t02-spp-2025-05-14-lu-kehua-arrest, t02-xinhua-2026-05-08-lu-kehua-verdict, bd1-wiki-lu-kehua]
 
 - id: gan-rongkun
   name: 甘荣坤
@@ -461,6 +464,8 @@
 - id: luo-zengbin
   name: 罗增斌
   gender: m
+  born: 1967-10
+  birthplace: 四川苍溪
   roles: [tiger]
   status: detained
   statusNote: 2026 年 2 月被判死缓。
@@ -625,6 +630,8 @@
 - id: lei-siwei
   name: 雷思维
   gender: m
+  born: 1966-06
+  birthplace: 甘肃静宁
   roles: [tiger]
   status: purged
   statusNote: 2026 年 3 月起接受中央纪委国家监委纪律审查和监察调查。
@@ -638,7 +645,7 @@
   positions:
     - { title: 甘肃省委常委, sys: party, place: 甘肃, to: 2026-03, cite: t02-xinhua-2026-03-17-lei-siwei-probe }
     - { title: 甘肃省副省长, sys: gov, place: 甘肃, to: 2026-03, cite: t02-xinhua-2026-03-17-lei-siwei-probe }
-  cites: [wd-Q111693042, t02-xinhua-2026-03-17-lei-siwei-probe]
+  cites: [wd-Q111693042, t02-xinhua-2026-03-17-lei-siwei-probe, bd1-wiki-lei-siwei]
 
 - id: chen-yujian
   name: 陈宇剑
@@ -668,9 +675,10 @@
   born: 1969
   roles: [tiger]
   status: purged
-  statusNote: 2025 年 10 月起接受中央纪委国家监委纪律审查和监察调查。
+  statusNote: 2026 年 4 月被开除党籍和公职，8 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-10-25, text: 在任重庆市副市长时被宣布接受纪律审查和监察调查, cite: t02-xinhua-2025-10-25-jiang-duntao-probe }
+    - { date: 2026-08-21, text: 乐山市人民检察院以涉嫌受贿罪向乐山市中级人民法院提起公诉, cite: c15-spp-2026-08-21-jiang-duntao-charge }
   tier: 2
   headline: 重庆市原副市长
   ids: { wikidata: Q97350839 }
@@ -686,9 +694,10 @@
   born: 1965-12
   roles: [tiger]
   status: purged
-  statusNote: 2025 年 11 月起接受中央纪委国家监委纪律审查和监察调查。
+  statusNote: 2026 年 6 月被开除党籍和公职，10 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-11-26, text: 在任成都市长时被宣布接受纪律审查和监察调查, cite: t02-ccdi-2025-11-26-wang-fengchao-probe }
+    - { date: 2026-10-15, text: 长沙市人民检察院以涉嫌受贿罪向长沙市中级人民法院提起公诉, cite: c15-spp-2026-10-15-wang-fengchao-charge }
   tier: 2
   headline: 四川省成都市原市长
   ids: { wikidata: Q55696296 }
@@ -750,6 +759,8 @@
 - id: he-zehua
   name: 何泽华
   gender: m
+  born: 1954
+  birthplace: 江苏淮阴
   roles: [tiger]
   status: detained
   statusNote: 2024 年 5 月被判死缓，期满减为无期徒刑后终身监禁。
@@ -767,7 +778,7 @@
     - { title: 安徽省烟草专卖局（公司）党组书记、局长、经理, sys: gov, place: 安徽, cite: t02-chinanews-2024-05-29-he-zehua-verdict }
     - { title: 安徽中烟工业公司总经理, sys: other, place: 安徽, cite: t02-chinanews-2024-05-29-he-zehua-verdict }
     - { title: 国家烟草专卖局党组成员、副局长, sys: gov, cite: t02-chinanews-2024-05-29-he-zehua-verdict }
-  cites: [wd-Q131696375, t02-ccdi-2023-01-06-he-zehua-probe, t02-ccdi-2023-07-06-he-zehua-expel, t02-chinanews-2024-05-29-he-zehua-verdict]
+  cites: [wd-Q131696375, t02-ccdi-2023-01-06-he-zehua-probe, t02-ccdi-2023-07-06-he-zehua-expel, t02-chinanews-2024-05-29-he-zehua-verdict, bd1-cdsb-2024-05-29-he-zehua]
 
 - id: li-xiaohong-xunshi
   name: 黎晓宏
@@ -795,9 +806,10 @@
   birthplace: 甘肃民勤
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 1 月起接受中央纪委国家监委纪律审查和监察调查。
+  statusNote: 2026 年 1 月被查，10 月被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉。
   fall:
     - { date: 2026-01-22, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: t02-xinhua-2026-01-22-zhang-jianlong-probe }
+    - { date: 2026-10-19, text: 被开除党籍、取消享受的待遇，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: c15-xinhua-2026-10-19-zhang-jianlong-forestry-expel }
   tier: 2
   headline: 国家林业和草原局原局长
   ids: { wikidata: Q51079001 }
@@ -924,6 +936,7 @@
 - id: chen-shifei
   name: 陈时飞
   gender: m
+  born: 1962-07
   birthplace: 浙江天台
   roles: [tiger]
   status: detained
@@ -940,7 +953,7 @@
     - { title: 浙江省药品监督管理局副局长, sys: gov, place: 浙江, cite: t02-thepaper-2026-chen-shifei-verdict }
     - { title: 浙江省食品药品监督管理局局长, sys: gov, place: 浙江, from: 2018-01, cite: t02-zaobao-2025-02-28-chen-shifei }
     - { title: 国家药品监督管理局党组成员、副局长, sys: gov, from: 2018-09, cite: t02-zaobao-2025-02-28-chen-shifei }
-  cites: [wd-Q140410443, t02-zaobao-2025-02-28-chen-shifei, t02-thepaper-2026-chen-shifei-verdict]
+  cites: [wd-Q140410443, t02-zaobao-2025-02-28-chen-shifei, t02-thepaper-2026-chen-shifei-verdict, bd1-wiki-chen-shifei]
 
 - id: liu-yuejin-mps
   name: 刘跃进
@@ -1081,6 +1094,8 @@
 - id: tang-shuangning
   name: 唐双宁
   gender: m
+  born: 1954-10
+  birthplace: 辽宁北镇
   roles: [tiger]
   status: detained
   statusNote: 2024 年 12 月被判有期徒刑 12 年。
@@ -1096,7 +1111,7 @@
     - { title: 中国银行业监督管理委员会党委委员、副主席, sys: gov, cite: t02-xinhua-2024-12-10-tang-shuangning-verdict }
     - { title: 中国光大集团股份公司党委书记、董事长, sys: other, cite: t02-xinhua-2024-12-10-tang-shuangning-verdict }
     - { title: 中国光大银行股份有限公司党委书记、董事长, sys: other, cite: t02-xinhua-2024-12-10-tang-shuangning-verdict }
-  cites: [t02-xinhua-2024-01-06-tang-shuangning-expel, t02-xinhua-2024-12-10-tang-shuangning-verdict]
+  cites: [t02-xinhua-2024-01-06-tang-shuangning-expel, t02-xinhua-2024-12-10-tang-shuangning-verdict, bd1-wiki-tang-shuangning]
 
 - id: liu-liange
   name: 刘连舸
@@ -1171,6 +1186,8 @@
 - id: ouyang-weimin
   name: 欧阳卫民
   gender: m
+  born: 1963-01
+  birthplace: 湖南衡阳
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月起接受中央纪委国家监委纪律审查和监察调查。
@@ -1183,7 +1200,7 @@
     曾任国家开发银行党委副书记、行长。2026 年 7 月被宣布接受中央纪委国家监委纪律审查和监察调查。
   positions:
     - { title: 国家开发银行党委副书记、行长, sys: other, cite: t02-xinhua-2026-07-19-ouyang-weimin-probe }
-  cites: [wd-Q97193281, t02-xinhua-2026-07-19-ouyang-weimin-probe]
+  cites: [wd-Q97193281, t02-xinhua-2026-07-19-ouyang-weimin-probe, bd1-wiki-ouyang-weimin]
 
 - id: fan-yifei
   name: 范一飞
@@ -1271,6 +1288,7 @@
 - id: liu-lixian
   name: 刘立宪
   gender: m
+  born: 1954-06
   roles: [tiger]
   status: detained
   statusNote: 2024 年 12 月被判有期徒刑 8 年。
@@ -1287,7 +1305,7 @@
     - { title: 最高人民检察院检察技术局局长, sys: gov, cite: t02-court-2024-12-24-liu-lixian-verdict }
     - { title: 中国华融资产管理公司党委委员、纪委书记、副总裁, sys: other, cite: t02-court-2024-12-24-liu-lixian-verdict }
     - { title: 中国工商银行股份有限公司党委委员、纪委书记, sys: other, cite: t02-court-2024-12-24-liu-lixian-verdict }
-  cites: [wd-Q140410385, t02-ccdi-2024-01-19-liu-lixian-expel, t02-spp-2024-05-14-liu-lixian-indict, t02-court-2024-12-24-liu-lixian-verdict]
+  cites: [wd-Q140410385, t02-ccdi-2024-01-19-liu-lixian-expel, t02-spp-2024-05-14-liu-lixian-indict, t02-court-2024-12-24-liu-lixian-verdict, r05-chinanews-2023-09-16-li-haitao-hlj-probe]
 
 - id: lou-wenlong
   name: 楼文龙
@@ -1339,9 +1357,10 @@
   born: 1965
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 2 月被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉。
+  statusNote: 2026 年 2 月被开除党籍，5 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2026-02-06, text: 被开除党籍, cite: t02-thepaper-2026-02-06-lin-jingzhen-expel }
+    - { date: 2026-05-13, text: 杭州市人民检察院以涉嫌受贿罪向杭州市中级人民法院提起公诉, cite: c15-spp-2026-05-13-lin-jingzhen-charge }
   tier: 2
   headline: 中国银行原副行长
   ids: { wikidata: Q136294475 }
@@ -1427,10 +1446,11 @@
   born: 1958
   roles: [tiger]
   status: purged
-  statusNote: 2026 年 1 月被开除党籍，涉嫌受贿犯罪问题移送检察机关审查起诉。
+  statusNote: 2026 年 1 月被开除党籍，5 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
   fall:
     - { date: 2025-06-28, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查, cite: t02-spp-2025-06-28-liu-shaoyong-probe }
     - { date: 2026-01-04, text: 被开除党籍, cite: t02-xinhua-2026-01-04-liu-shaoyong-expel }
+    - { date: 2026-05-08, text: 沈阳市人民检察院以涉嫌受贿罪向沈阳市中级人民法院提起公诉, cite: c15-spp-2026-05-08-liu-shaoyong-charge }
   tier: 2
   headline: 中国东方航空集团原董事长
   ids: { wikidata: Q16921024 }
@@ -1481,6 +1501,8 @@
 - id: guo-wenqing
   name: 国文清
   gender: m
+  born: 1964-12
+  birthplace: 河北兴隆
   roles: [tiger]
   status: purged
   statusNote: 2026 年 7 月主动投案，接受中央纪委国家监委纪律审查和监察调查。
@@ -1492,7 +1514,7 @@
     曾任中国五矿集团有限公司党组副书记、总经理。2026 年 7 月主动投案，被宣布接受中央纪委国家监委纪律审查和监察调查。
   positions:
     - { title: 中国五矿集团有限公司党组副书记、总经理, sys: other, cite: t02-xinhua-2026-07-31-guo-wenqing-probe }
-  cites: [t02-xinhua-2026-07-31-guo-wenqing-probe]
+  cites: [t02-xinhua-2026-07-31-guo-wenqing-probe, bd1-wiki-guo-wenqing]
 
 - id: hu-wenming
   name: 胡问鸣
@@ -1542,6 +1564,8 @@
 - id: xie-changjun
   name: 谢长军
   gender: m
+  born: 1957-07
+  birthplace: 吉林永吉
   roles: [tiger]
   status: detained
   statusNote: 2022 年 6 月被判有期徒刑 17 年，当庭表示不上诉。
@@ -1556,11 +1580,13 @@
   positions:
     - { title: 龙源电力公司总经理, sys: other, cite: t02-thepaper-2022-06-08-xie-changjun-verdict }
     - { title: 中国国电集团公司党组成员、副总经理, sys: other, cite: t02-ccdi-2021-08-17-xie-changjun-expel }
-  cites: [t02-ccdi-2021-08-17-xie-changjun-expel, t02-spp-2021-09-08-xie-changjun-arrest, t02-thepaper-2022-06-08-xie-changjun-verdict]
+  cites: [t02-ccdi-2021-08-17-xie-changjun-expel, t02-spp-2021-09-08-xie-changjun-arrest, t02-thepaper-2022-06-08-xie-changjun-verdict, r05-ccdi-2021-02-08-xie-changjun-probe]
 
 - id: li-guohua-unicom
   name: 李国华
   gender: m
+  born: 1960-03
+  birthplace: 江西德安
   roles: [tiger]
   status: detained
   statusNote: 2024 年 5 月被判有期徒刑 16 年。
@@ -1577,11 +1603,12 @@
     - { title: 中国邮政集团公司党组书记、总经理, sys: other, cite: t02-xinhua-2024-05-07-li-guohua-verdict }
     - { title: 中国邮政储蓄银行有限责任公司党委书记、董事长, sys: other, cite: t02-xinhua-2024-05-07-li-guohua-verdict }
     - { title: 中国联合网络通信集团有限公司党组副书记、总经理, sys: other, cite: t02-ccdi-2022-02-18-li-guohua-probe }
-  cites: [t02-ccdi-2022-02-18-li-guohua-probe, t02-ccdi-2022-09-30-li-guohua-expel, t02-xinhua-2024-05-07-li-guohua-verdict]
+  cites: [t02-ccdi-2022-02-18-li-guohua-probe, t02-ccdi-2022-09-30-li-guohua-expel, t02-xinhua-2024-05-07-li-guohua-verdict, bd1-wiki-li-guohua-unicom]
 
 - id: feng-zhibin
   name: 冯志斌
   gender: m
+  born: 1963-11
   roles: [tiger]
   status: detained
   statusNote: 2026 年 9 月被判有期徒刑 19 年。
@@ -1595,4 +1622,4 @@
     - { title: 中国对外经济贸易信托投资有限公司董事长, sys: other, cite: t02-thepaper-2026-feng-zhibin-verdict }
     - { title: 中化化肥有限公司总经理, sys: other, cite: t02-thepaper-2026-feng-zhibin-verdict }
     - { title: 中国中化集团有限公司党组成员、副总经理, sys: other, cite: t02-thepaper-2026-feng-zhibin-verdict }
-  cites: [t02-thepaper-2026-feng-zhibin-verdict]
+  cites: [t02-thepaper-2026-feng-zhibin-verdict, bd1-wiki-feng-zhibin]

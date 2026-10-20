@@ -30,6 +30,7 @@
 
 - id: peng-jingtang
   name: 彭京堂
+  verify: true
   gender: m
   roles: [general]
   status: active
@@ -52,6 +53,7 @@
 
 - id: wang-hongbin
   name: 王洪斌
+  verify: true
   gender: m
   birthplace: 湖北应城
   roles: [general]
@@ -71,6 +73,7 @@
 
 - id: su-haihui
   name: 苏海辉
+  verify: true
   gender: m
   roles: [general]
   status: missing
@@ -89,6 +92,7 @@
 # ───── CS4 · political-work ─────
 - id: chen-demin
   name: 陈德民
+  verify: true
   gender: m
   roles: [general]
   status: active
@@ -108,6 +112,7 @@
 
 - id: li-jun-pla
   name: 李军
+  verify: true
   gender: m
   roles: [general, ccdi]
   status: missing
@@ -125,6 +130,7 @@
 
 - id: xia-zhihe
   name: 夏志和
+  verify: true
   gender: m
   roles: [general]
   status: active
@@ -146,6 +152,7 @@
 # ───── CS4 · logistics-audit ─────
 - id: chen-chi
   name: 陈炽
+  verify: true
   gender: m
   roles: [general]
   status: active
@@ -187,6 +194,7 @@
 
 - id: yin-zhihong
   name: 殷志红
+  verify: true
   gender: m
   roles: [general]
   status: retired
@@ -260,6 +268,7 @@
 
 - id: yang-jianhua
   name: 杨建华
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -412,6 +421,7 @@
 
 - id: liu-jun-citic
   name: 刘军
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -431,6 +441,7 @@
 
 - id: xu-jun-citic
   name: 许骏
+  verify: true
   gender: m
   roles: [biz]
   status: purged
@@ -536,6 +547,7 @@
 
 - id: wang-dongming-citic
   name: 王东明
+  verify: true
   gender: m
   roles: [biz]
   status: retired
@@ -582,6 +594,7 @@
 # ───── CS5 · jiangxi-su-rong ─────
 - id: yu-lifang
   name: 于丽芳
+  verify: true
   gender: f
   roles: [family]
   status: missing
@@ -590,6 +603,8 @@
     - { date: 2014-06-14, text: 苏荣被中央纪委双规后，正在长春的于丽芳被中央纪委带走调查, cite: c12-yicai-2016-07-14-yu-lifang }
   tier: 2
   headline: 苏荣之妻，江西官场称“于姐”，中纪委称她直接站前台卖官
+  positions:
+    - { title: 银行职员, sys: other, cite: c12-yicai-2016-07-14-yu-lifang }
   bio: >-
     苏荣之妻，祖籍长春，原在银行工作，比苏荣小 6 岁。2007 年随苏荣到江西后在当地官场被称为“于姐”，许多官员通过她向苏荣行贿，
     投其所好送瓷器、书画。中央纪委警示录称她直接给省市领导打招呼提拔干部，频繁插手土地出让、工程建设、招标投标；
@@ -598,6 +613,7 @@
 
 - id: su-tiezhi
   name: 苏铁志
+  verify: true
   gender: m
   roles: [family]
   status: missing
@@ -855,6 +871,7 @@
 # ───── CS5 · political-brokers ─────
 - id: lou-zhongfu
   name: 楼忠福
+  verify: true
   gender: m
   roles: [biz]
   status: retired
@@ -871,6 +888,7 @@
 
 - id: cui-xiaoyu
   name: 崔晓玉
+  verify: true
   gender: f
   roles: [biz]
   status: missing
@@ -887,6 +905,7 @@
 
 - id: wei-xin
   name: 魏新
+  verify: true
   gender: m
   roles: [biz]
   status: missing
@@ -903,6 +922,7 @@
 
 - id: fan-zengyu
   name: 范增玉
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -946,6 +966,7 @@
 
 - id: liu-lin
   name: 刘琳
+  verify: true
   roles: [biz]
   status: purged
   statusNote: 2013 年 8 月诈骗案终审宣判，刑期未见公开报道。
@@ -961,6 +982,7 @@
 
 - id: yu-zhenyong
   name: 于振永
+  verify: true
   gender: m
   roles: [biz]
   status: missing
@@ -977,12 +999,15 @@
 
 - id: shi-xiaochun
   name: 石晓春
+  verify: true
   gender: m
   roles: [biz]
   status: missing
   statusNote: 中央纪委专题片称其为涉案人员，官方材料未交代对他的处理结果。
   tier: 2
   headline: 北京市公安局退休干部，向傅政华吹嘘能帮他搭天线谋升迁的政治骗子
+  positions:
+    - { title: 北京市公安局干部（已退休）, sys: gov, place: 北京, cite: b12-chinanews-2023-01-07-bugle-ep1 }
   bio: >-
     北京市公安局退休干部，与傅政华相识几十年。中央纪委 2023 年专题片称，2018 年他向傅政华吹嘘自己有特殊门路、能帮他谋升迁，
     傅政华随即热情贴靠；他一边用谎言吊住傅政华，一边利用傅政华的职权为自己和关系人办事、站台，从中收受他人巨额财物。
@@ -991,6 +1016,7 @@
 
 - id: li-quan
   name: 李全
+  verify: true
   gender: m
   roles: [biz]
   status: missing
@@ -1027,6 +1053,7 @@
 
 - id: wang-heqing
   name: 王合清
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -1073,6 +1100,7 @@
 
 - id: liu-haichang
   name: 刘海昌
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -1161,6 +1189,7 @@
 
 - id: lin-qiang
   name: 林强
+  verify: true
   gender: m
   roles: [minister]
   status: missing

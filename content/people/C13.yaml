@@ -27,6 +27,7 @@
 
 - id: wang-hongyuan
   name: 王宏源
+  verify: true
   gender: m
   roles: [biz]
   status: retired
@@ -42,6 +43,7 @@
 
 - id: yang-qinglong
   name: 杨庆龙
+  verify: true
   gender: m
   roles: [biz]
   status: dead
@@ -103,6 +105,7 @@
 # ───── CS6 · tomorrow-group ─────
 - id: zhou-hongwen
   name: 周虹文
+  verify: true
   gender: f
   roles: [biz, family]
   status: active
@@ -134,6 +137,7 @@
 
 - id: jiao-wei
   name: 焦伟
+  verify: true
   gender: m
   roles: [biz]
   status: active
@@ -189,6 +193,7 @@
 
 - id: liu-jinming
   name: 刘金明
+  verify: true
   gender: m
   roles: [tiger]
   status: detained
@@ -283,6 +288,7 @@
 # ───── CS6 · zhejiang-guangsha ─────
 - id: lou-ming
   name: 楼明
+  verify: true
   gender: m
   roles: [biz, family]
   status: active
@@ -299,6 +305,7 @@
 
 - id: lou-jiangyue
   name: 楼江跃
+  verify: true
   roles: [biz]
   status: active
   tier: 2
@@ -312,6 +319,7 @@
 
 - id: si-li
   name: 斯力
+  verify: true
   gender: m
   roles: [family]
   status: missing
@@ -331,6 +339,7 @@
 
 - id: jin-huifang
   name: 金惠芳
+  verify: true
   gender: f
   roles: [family]
   status: missing
@@ -361,13 +370,16 @@
   tier: 2
   headline: 东阳本色集团创办人，集资诈骗案由死刑改判死缓；其父指控楼忠华介入其资产拍卖
   ids: { wikidata: Q716825 }
+  positions:
+    - { title: 浙江本色控股集团有限公司法定代表人, sys: other, place: 浙江, cite: c04-bbc-2018-05-10-wu-xiaohui }
   bio: >-
     浙江东阳人，本色集团创办人，2009 年以集资诈骗罪被判死刑。2012 年最高法不核准死刑，称她归案后供述了贿赂多名公务人员的事实，浙江高院改判死缓；
     温家宝同年就此案谈民间金融。她 2014 年减为无期、2018 年减为 25 年。其父吴永正指控楼忠福之弟楼忠华介入她的资产拍卖，广厦否认。
-  cites: [wd-Q716825, c13-wikisource-2018-03-23-wu-ying, e07-court-2012-04-20-wu-ying, e07-xinhua-2012-03-14-wen-wu-ying, c13-cctv-2018-03-23-wu-ying, cs6-chinanews-2015-07-28-lou-zhongfu]
+  cites: [wd-Q716825, c13-wikisource-2018-03-23-wu-ying, e07-court-2012-04-20-wu-ying, e07-xinhua-2012-03-14-wen-wu-ying, c13-cctv-2018-03-23-wu-ying, cs6-chinanews-2015-07-28-lou-zhongfu, c04-bbc-2018-05-10-wu-xiaohui]
 
 - id: wu-yongzheng
   name: 吴永正
+  verify: true
   gender: m
   roles: [family]
   status: active
@@ -380,6 +392,7 @@
 
 - id: lou-zhonghua
   name: 楼忠华
+  verify: true
   gender: m
   roles: [biz, family]
   status: active
@@ -393,6 +406,7 @@
 
 - id: wu-jian
   name: 吴坚
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -592,6 +606,8 @@
   tier: 2
   headline: 北京独立历史学者、章乃器之子，常就高层政治接受海外媒体采访
   ids: { wikidata: Q9094998 }
+  positions:
+    - { title: 历史学者, sys: other, place: 北京, cite: c13-wiki-zhang-lifan }
   bio: >-
     民建创始人章乃器之子，出身中国社科院近代史研究所，长期接受海外媒体采访评论时政。2017 年他对《南华早报》说，习近平的反腐运动不仅是要廉政，也涉及权力斗争。
     2013 年三中全会后他在网络上遭到封杀。2025 年 6 月《明报》证实他已于 3 月 22 日病逝（另有传闻称其 2024 年 9 月已离世）。
@@ -662,6 +678,7 @@
 
 - id: ruan-qilin
   name: 阮齐林
+  verify: true
   gender: m
   roles: [scholar]
   status: active
@@ -695,6 +712,7 @@
 
 - id: bai-jiexi
   name: 白洁曦
+  verify: true
   aka: [Jessica Chen Weiss]
   gender: f
   roles: [scholar]
@@ -746,6 +764,7 @@
 
 - id: zhuang-deshui
   name: 庄德水
+  verify: true
   gender: m
   roles: [scholar]
   status: active
@@ -821,6 +840,7 @@
 
 - id: ding-shufan
   name: 丁树范
+  verify: true
   gender: m
   roles: [scholar, hkmt]
   status: active

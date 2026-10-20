@@ -4,6 +4,8 @@
 - id: tan-li
   name: 谭力
   gender: m
+  born: 1955-10
+  birthplace: 重庆
   roles: [tiger, prov]
   status: detained
   statusNote: 2016 年 10 月以受贿罪被判无期徒刑。
@@ -26,11 +28,13 @@
       quote: 李崇禧和谭力都是获周提拔走上高位的官员
       rank: backbone
       rankQuote: 李崇禧和谭力都是获周提拔走上高位的官员
-  cites: [f09-people-2016-10-14-tan-li, b03-cnr-2015-10-15-zhou-disciples]
+  cites: [f09-people-2016-10-14-tan-li, b03-cnr-2015-10-15-zhou-disciples, bd1-wiki-tan-li]
 
 - id: shen-dingcheng
   name: 沈定成
   gender: m
+  born: 1963
+  birthplace: 四川大竹
   roles: [tiger, biz]
   status: missing
   statusNote: 2014 年起据媒体报道失去联系，官方未通报处理结果。
@@ -50,11 +54,13 @@
       cite: b03-bbc-2014-02-22-zhou-secretaries
       quote: 在此期间沈定成接了李华林的班，担任了当时中石油领导周永康的专职秘书
       rank: periphery
-  cites: [b03-bbc-2014-02-22-zhou-secretaries, b03-cnr-2015-10-15-zhou-disciples]
+  cites: [b03-bbc-2014-02-22-zhou-secretaries, b03-cnr-2015-10-15-zhou-disciples, bd1-wiki-shen-dingcheng]
 
 - id: yu-gang
   name: 余刚
   gender: m
+  born: 1968
+  birthplace: 湖南益阳
   roles: [tiger]
   status: purged
   statusNote: 2014 年 7 月被开除党籍并由最高检立案侦查，此后判决未见官方通报。
@@ -74,10 +80,11 @@
       cite: b03-cnr-2015-10-15-zhou-disciples
       quote: 秘书帮 李华林、沈定成、冀文林、郭永祥、余刚、谈红
       rank: periphery
-  cites: [b03-cnr-2015-10-15-zhou-disciples]
+  cites: [b03-cnr-2015-10-15-zhou-disciples, bd1-wiki-yu-gang]
 
 - id: tan-hong
   name: 谈红
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -103,6 +110,8 @@
 - id: liu-han
   name: 刘汉
   gender: m
+  born: 1965-10-25
+  birthplace: 四川广汉
   roles: [biz]
   status: dead
   died: 2015-02-09
@@ -128,10 +137,11 @@
       quote: 以刘汉为代表的黑顶商人为“马仔”“力工”
       rank: periphery
       rankQuote: 以刘汉为代表的黑顶商人为“马仔”“力工”
-  cites: [f09-xinhua-2015-02-09-liu-han, f09-bbc-2015-02-09-liu-han]
+  cites: [f09-xinhua-2015-02-09-liu-han, f09-bbc-2015-02-09-liu-han, bd1-wiki-liu-han]
 
 - id: wu-bing
   name: 吴兵
+  verify: true
   gender: m
   roles: [biz]
   status: detained
@@ -153,6 +163,7 @@
 - id: mi-xiaodong
   name: 米晓东
   gender: m
+  born: 1970-05
   roles: [biz]
   status: detained
   statusNote: 2013 年据财新报道失去人身自由，此后处理结果本站未查到可靠来源。
@@ -160,6 +171,8 @@
     - { date: 2013, text: 据财新报道在吴兵被抓后不久失去人身自由, cite: f09-sina-2014-07-29-caixin-zhou }
   tier: 2
   headline: 原中海油干部，周滨的商业代理人
+  positions:
+    - { title: 中国海洋石油总公司干部, sys: other, cite: f09-sina-2014-07-29-caixin-zhou }
   bio: >-
     原中国海洋石油总公司干部，财新称其为周滨的另一只白手套。2013 年 8 月吴兵被抓后不久，
     米晓东也失去人身自由；同年 12 月周滨本人被带走。
@@ -168,12 +181,14 @@
       cite: f09-sina-2014-07-29-caixin-zhou
       quote: 他的另一只白手套，原中国海洋石油总公司干部米晓东也失去了人身自由
       rank: periphery
-  cites: [f09-sina-2014-07-29-caixin-zhou]
+  cites: [f09-sina-2014-07-29-caixin-zhou, bd1-wiki-mi-xiaodong]
 
 # ---------- xishanhui ----------
 - id: ling-zhengce
   name: 令政策
   gender: m
+  born: 1952-05
+  birthplace: 山西平陆
   roles: [tiger, family]
   status: purged
   statusNote: 2015 年 8 月被开除党籍、开除公职，2016 年 9 月被起诉。
@@ -194,11 +209,13 @@
       cite: f02-hqrw-2015-01-06-xishanhui
       quote: 其他成员还包括令计划兄长、山西省政协原副主席令政策
       rank: backbone
-  cites: [b07-zaobao-2016-09-19-ling-zhengce, b07-bjnews-2014-12-22-ling-resume, f02-hqrw-2015-01-06-xishanhui]
+  cites: [b07-zaobao-2016-09-19-ling-zhengce, b07-bjnews-2014-12-22-ling-resume, f02-hqrw-2015-01-06-xishanhui, bd1-wiki-ling-zhengce]
 
 - id: chen-chuanping
   name: 陈川平
   gender: m
+  born: 1962-02
+  birthplace: 山西平陆
   roles: [tiger, acc]
   status: purged
   statusNote: 2016 年 12 月被判有期徒刑六年六个月。
@@ -220,12 +237,14 @@
       quote: 其他成员还包括令计划兄长、山西省政协原副主席令政策，山西省委原常委、太原市委原书记陈川平
       rank: backbone
       rankQuote: 藉由一个个陈川平式的角色，令计划的人事布局从“西山会”一直延伸到山西各级
-  cites: [f09-court-2016-12-20-chen-chuanping, e03-ccdi-2015-10-29-5th-plenum, f02-hqrw-2015-01-06-xishanhui]
+  cites: [f09-court-2016-12-20-chen-chuanping, e03-ccdi-2015-10-29-5th-plenum, f02-hqrw-2015-01-06-xishanhui, bd1-wiki-chen-chuanping]
 
 - id: ding-shumiao
   name: 丁书苗
   aka: [丁羽心]
   gender: f
+  born: 1955-04-08
+  birthplace: 山西晋城
   roles: [biz]
   status: detained
   statusNote: 2014 年 12 月被判有期徒刑 20 年。
@@ -233,6 +252,8 @@
     - { date: 2014-12-16, text: 北京二中院以行贿罪、非法经营罪判处有期徒刑 20 年，罚金 25 亿元, cite: f09-people-2014-12-16-ding-shumiao }
   tier: 2
   headline: 山西女商人，原铁道部部长刘志军的掮客
+  positions:
+    - { title: 北京博宥投资管理集团有限公司法定代表人, sys: other, place: 北京, cite: r09-yicai-2014-lin-fenqiang }
   bio: >-
     又名丁羽心，山西商人。法院认定她通过原铁道部部长刘志军等人帮多家公司中标铁路工程，
     中标额 1800 多亿元，个人非法获利 25 亿余元；媒体把她列为西山会成员。
@@ -241,11 +262,13 @@
       cite: f02-hqrw-2015-01-06-xishanhui
       quote: 铁道部原部长刘志军，女富豪丁书苗
       rank: periphery
-  cites: [f09-people-2014-12-16-ding-shumiao, f02-hqrw-2015-01-06-xishanhui]
+  cites: [f09-people-2014-12-16-ding-shumiao, f02-hqrw-2015-01-06-xishanhui, bd1-wiki-ding-shumiao, r09-yicai-2014-lin-fenqiang]
 
 - id: shen-weichen
   name: 申维辰
   gender: m
+  born: 1956-05
+  birthplace: 山西潞城
   roles: [tiger, minister, cc]
   status: detained
   statusNote: 2016 年 10 月以受贿罪被判无期徒刑。
@@ -268,11 +291,13 @@
       cite: f02-hqrw-2015-01-06-xishanhui
       quote: 国家发改委原副主任刘铁男，中国科协原党组书记申维辰等
       rank: backbone
-  cites: [f09-court-2016-10-11-shen-weichen, f02-hqrw-2015-01-06-xishanhui]
+  cites: [f09-court-2016-10-11-shen-weichen, f02-hqrw-2015-01-06-xishanhui, bd1-wiki-shen-weichen]
 
 - id: liu-suiji
   name: 柳遂记
   gender: m
+  born: 1956-02
+  birthplace: 山西平陆
   roles: [tiger]
   status: purged
   statusNote: 据《环球人物》报道在陈川平被查前后被带走调查，此后处理结果本站未查到。
@@ -290,11 +315,13 @@
       cite: f02-hqrw-2015-01-06-xishanhui
       quote: 太原市委常委、政法委书记、公安局局长柳遂记被带走调查，他就是“陈川平的人”
       rank: periphery
-  cites: [f02-hqrw-2015-01-06-xishanhui]
+  cites: [f02-hqrw-2015-01-06-xishanhui, bd1-wiki-liu-suiji]
 
 - id: li-jiangong
   name: 李建功
   gender: m
+  born: 1956-07
+  birthplace: 山西平陆
   roles: [tiger]
   status: purged
   statusNote: 2014 年 11 月接受组织调查，此后处理结果本站未查到。
@@ -312,12 +339,14 @@
       cite: f02-hqrw-2015-01-06-xishanhui
       quote: 山西省国土资源厅党组书记、厅长李建功与陈川平关系密切
       rank: periphery
-  cites: [f02-hqrw-2015-01-06-xishanhui]
+  cites: [f02-hqrw-2015-01-06-xishanhui, bd1-wiki-li-jiangong]
 
 # ---------- guo-xu ----------
 - id: guo-zhenggang
   name: 郭正钢
   gender: m
+  born: 1970-01
+  birthplace: 陕西礼泉
   roles: [tiger, general, family]
   status: purged
   statusNote: 2015 年 2 月被军事检察机关立案侦查，此后判决未见官方通报。
@@ -338,11 +367,13 @@
     - f: guo-xu
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: 除了以徐才厚为更大的“山”的谷俊山和郭正钢
-  cites: [f09-rmzxw-2015-03-03-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, f01-thepaper-2017-guo-xu]
+  cites: [f09-rmzxw-2015-03-03-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, f01-thepaper-2017-guo-xu, bd1-wiki-guo-zhenggang]
 
 - id: fan-changmi
   name: 范长秘
   gender: m
+  born: 1955-06
+  birthplace: 山东乐陵
   roles: [tiger, general, acc]
   status: purged
   statusNote: 2014 年 12 月被立案侦查，2016 年 10 月十八届六中全会确认开除党籍。
@@ -364,11 +395,13 @@
       quote: 范长秘被视为郭伯雄的“马仔”、“嫡系”。
       rank: backbone
       rankQuote: 范长秘被视为郭伯雄的“马仔”、“嫡系”。
-  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, i01-cpc-2016-10-27-6th-plenum-communique]
+  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, i01-cpc-2016-10-27-6th-plenum-communique, bd1-wiki-fan-changmi]
 
 - id: deng-ruihua
   name: 邓瑞华
   gender: m
+  born: 1954-02
+  birthplace: 甘肃武威
   roles: [tiger, general]
   status: purged
   statusNote: 2015 年 7 月被移送军事检察机关，此后判决未见官方通报。
@@ -388,11 +421,13 @@
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: 这其中，范长秘、邓瑞华与郭伯雄均有明显交集。
       rank: periphery
-  cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-deng-ruihua]
 
 - id: zhan-guoqiao
   name: 占国桥
   gender: m
+  born: 1953
+  birthplace: 浙江萧山
   roles: [tiger, general]
   status: purged
   statusNote: 落马时间与处理结果官方通报本站未查到，2016 年新京报统计时已列为落马的兰州军区将领。
@@ -410,11 +445,13 @@
       cite: f09-kzg-2016-07-26-guo-family
       quote: 原兰州军区联勤部部长占国桥（少将）
       rank: periphery
-  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, f09-kzg-2016-07-26-guo-family]
+  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, f09-kzg-2016-07-26-guo-family, bd1-wiki-zhan-guoqiao]
 
 - id: zhang-wansong
   name: 张万松
   gender: m
+  born: 1950-04
+  birthplace: 河南宜阳
   roles: [tiger, general]
   status: purged
   statusNote: 落马时间与处理结果官方通报本站未查到，2016 年新京报统计时已列为落马的兰州军区将领。
@@ -432,11 +469,13 @@
       cite: f09-kzg-2016-07-26-guo-family
       quote: 前兰州军区联勤部部长张万松（少将）
       rank: periphery
-  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, f09-kzg-2016-07-26-guo-family]
+  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, f09-kzg-2016-07-26-guo-family, bd1-wiki-zhang-wansong]
 
 - id: fu-yi
   name: 傅怡
   gender: m
+  born: 1953-11
+  birthplace: 山西
   roles: [tiger, general]
   status: purged
   statusNote: 2015 年 4 月被移送军事检察机关，此后判决未见官方通报。
@@ -455,11 +494,13 @@
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: “政事儿”注意到，傅怡与郭正钢共事数年。
       rank: periphery
-  cites: [f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-fu-yi]
 
 - id: yu-daqing
   name: 于大清
   gender: m
+  born: 1957-11
+  birthplace: 辽宁绥中
   roles: [tiger, general]
   status: purged
   statusNote: 2014 年 12 月被军事检察机关立案侦查，此后判决未见官方通报。
@@ -480,10 +521,11 @@
       quote: 于大清是徐才厚的“老乡”兼“部下”，两人均与原总政有渊源。
       rank: backbone
       rankQuote: 于大清是徐才厚的“老乡”兼“部下”，两人均与原总政有渊源。
-  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-yu-daqing]
 
 - id: ma-xiangdong
   name: 马向东
+  verify: true
   gender: m
   roles: [tiger]
   status: purged
@@ -508,6 +550,8 @@
 - id: yang-jinshan
   name: 杨金山
   gender: m
+  born: 1954-08
+  birthplace: 河南息县
   roles: [tiger, general, cc]
   status: purged
   statusNote: 2014 年 7 月被立案调查，8 月移送军事司法机关，此后判决未见官方通报。
@@ -528,11 +572,12 @@
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: 杨金山被查或是徐才厚案牵出，杨金山能在军中不断提升或许牵扯从徐才厚手中买官。
       rank: backbone
-  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-yang-jinshan]
 
 - id: liu-hongjie
   name: 刘洪杰
   gender: m
+  born: 1959-09
   roles: [tiger, general]
   status: purged
   statusNote: 2015 年 1 月被军事检察机关立案侦查，此后判决未见官方通报。
@@ -552,11 +597,13 @@
       quote: 刘洪杰曾任中央军委办公厅直属工作局局长，被称为郭、徐的“大管家”。
       rank: backbone
       rankQuote: 刘洪杰曾任中央军委办公厅直属工作局局长，被称为郭、徐的“大管家”。
-  cites: [f09-rmzxw-2015-03-03-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-rmzxw-2015-03-03-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-liu-hongjie]
 
 - id: gao-xiaoyan
   name: 高小燕
   gender: f
+  born: 1957
+  birthplace: 山西石楼
   roles: [tiger, general]
   status: purged
   statusNote: 2014 年 11 月被军事检察机关立案侦查，此后判决未见官方通报。
@@ -575,10 +622,11 @@
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: 有媒体报道称，高小燕可能是通过买官搭上了徐才厚的“末班车”，成为女将军。
       rank: periphery
-  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-gao-xiaoyan]
 
 - id: zhang-daixin
   name: 张代新
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
@@ -603,6 +651,8 @@
 - id: liu-zheng
   name: 刘铮
   gender: m
+  born: 1954
+  birthplace: 辽宁营口
   roles: [tiger, general]
   status: purged
   statusNote: 2014 年 11 月被军事检察机关立案侦查，此后判决未见官方通报。
@@ -621,22 +671,25 @@
       cite: f09-hkcd-2016-07-12-guo-xu-tigers
       quote: 刘铮是辽宁营口人，也是徐才厚的老乡。
       rank: backbone
-  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers]
+  cites: [f09-hqrw-2015-01-26-army-tigers, f09-hkcd-2016-07-12-guo-xu-tigers, bd1-wiki-liu-zheng]
 
 # ---------- rocket-equipment ----------
 - id: zhou-yaning
   name: 周亚宁
   gender: m
+  born: 1957-12
+  birthplace: 河北南宫
   roles: [tiger, general, cc]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表，官方未公布原因。
+  statusNote: 2023 年 9 月因涉嫌严重违纪违法被罢免全国人大代表，12 月公告。
   fall:
-    - { date: 2023-12-29, text: 火箭军军人代表大会罢免其全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2023-09-26, text: 因涉嫌严重违纪违法，火箭军军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2023-12-29, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2023-12-29-npc-notice-2 }
   tier: 2
   headline: 火箭军原司令员，十九届中央委员
   bio: >-
     曾任火箭军司令员，十九届中央委员，卸任后任第十四届全国人大常委会委员。
-    2023 年火箭军窝案曝光后，与李玉超等九名将领同日被罢免全国人大代表，人大常委会委员职务相应撤销。
+    2023 年火箭军窝案曝光后，2023 年 9 月 26 日因涉嫌严重违纪违法与李玉超同日被罢免全国人大代表，人大常委会委员职务相应撤销；12 月 29 日与另外八名将领一同被公告终止代表资格。
   positions:
     - { title: 火箭军司令员, sys: army, cite: f02-zaobao-2024-06-27-li-wei }
   factions:
@@ -644,41 +697,48 @@
       cite: f02-zaobao-2024-06-27-li-wei
       quote: 其中包括火箭军两任司令员李玉超、周亚宁等火箭军将领
       rank: core
-  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei, k02-xinhua-2017-10-24-19-cc]
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei, k02-xinhua-2017-10-24-19-cc, f10-wiki-zhou-yaning, a02-wikisource-npc-qualification-reports]
 
 - id: lyu-hong
   name: 吕宏
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表，官方未公布原因。
+  statusNote: 2023 年 9 月因涉嫌严重违纪违法被罢免全国人大代表，12 月公告。
   fall:
-    - { date: 2023-12-29, text: 火箭军军人代表大会罢免其全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2023-09-26, text: 因涉嫌严重违纪违法，火箭军军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2023-12-29, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2023-12-29-npc-notice-2 }
   tier: 2
   headline: 火箭军将领，2023 年与李玉超同批被罢免人大代表
+  positions:
+    - { title: 火箭军装备部部长, sys: army, to: 2023-09, cite: a02-wikisource-npc-qualification-reports }
   bio: >-
-    火箭军将领、第十四届全国人大代表。2023 年 12 月 29 日，火箭军军人代表大会同时罢免吕宏、李玉超、李传广、周亚宁四人的人大代表职务，
-    官方未说明原因；他的具体职务本站尚未查到可靠来源。
+    火箭军装备部原部长、第十四届全国人大代表。人大代表资格审查报告称，他与火箭军原司令员李玉超、周亚宁因涉嫌严重违纪违法，
+    2023 年 9 月 26 日被火箭军军人代表大会罢免代表职务，李传广 12 月 5 日被罢免；12 月 29 日人大常委会公告四人代表资格终止。
   factions:
     - f: rocket-equipment
       cite: c03-xinhua-2023-12-29-npc-notice-2
       quote: 火箭军军人代表大会决定罢免吕宏、李玉超、李传广、周亚宁的第十四届全国人民代表大会代表职务
       rank: periphery
-  cites: [c03-xinhua-2023-12-29-npc-notice-2]
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, f10-wiki-li-chuanguang, a02-wikisource-npc-qualification-reports]
 
 - id: li-chuanguang
   name: 李传广
   gender: m
+  born: 1961
+  birthplace: 山东青州
   roles: [tiger, general, cc]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表，官方未公布原因。
+  statusNote: 2023 年 12 月因涉嫌严重违纪违法被罢免全国人大代表。
   fall:
-    - { date: 2023-12-29, text: 火箭军军人代表大会罢免其全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2023-12-05, text: 因涉嫌严重违纪违法，火箭军军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2023-12-29, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2023-12-29-npc-notice-2 }
   tier: 2
   headline: 火箭军原副司令员兼参谋长，十九届中央委员
   bio: >-
     2016 年 5 月出任火箭军副司令员，同年接替张军祥任火箭军参谋长，与张振中同期升任火箭军副职；
-    2023 年 12 月与李玉超、周亚宁等人一起被罢免全国人大代表。
+    2023 年 12 月 5 日因涉嫌严重违纪违法被火箭军军人代表大会罢免全国人大代表，此前李玉超、周亚宁已于 9 月被罢免。
   positions:
     - { title: 火箭军副司令员, sys: army, from: 2016-05, cite: c08-thepaper-2016-08-zhang-zhenzhong }
     - { title: 火箭军参谋长, sys: army, from: 2016-08, cite: c08-thepaper-2016-08-zhang-zhenzhong }
@@ -687,21 +747,24 @@
       cite: c03-xinhua-2023-12-29-npc-notice-2
       quote: 火箭军军人代表大会决定罢免吕宏、李玉超、李传广、周亚宁的第十四届全国人民代表大会代表职务
       rank: backbone
-  cites: [c03-xinhua-2023-12-29-npc-notice-2, c08-thepaper-2016-08-zhang-zhenzhong, k02-xinhua-2017-10-24-19-cc]
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, c08-thepaper-2016-08-zhang-zhenzhong, k02-xinhua-2017-10-24-19-cc, a02-wikisource-npc-qualification-reports]
 
 - id: zhang-yulin
   name: 张育林
   gender: m
+  born: 1958-01
+  birthplace: 陕西千阳
   roles: [tiger, general]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表及人大财经委委员，官方未公布原因。
+  statusNote: 2023 年 11 月因涉嫌严重违纪违法被罢免全国人大代表，人大财经委委员职务相应撤销，12 月公告。
   fall:
-    - { date: 2023-12-29, text: 中央军委装备发展部军人代表大会罢免其全国人大代表职务，人大财经委委员职务相应撤销, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2023-11-28, text: 因涉嫌严重违纪违法，中央军委装备发展部军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2023-12-29, text: 全国人大常委会公告其代表资格终止，人大财经委委员职务相应撤销, cite: c03-xinhua-2023-12-29-npc-notice-2 }
   tier: 2
   headline: 中央军委装备发展部原副部长
   bio: >-
     中将，曾任中央军委装备发展部副部长、第十四届全国人大财政经济委员会委员。
-    2023 年 12 月与同为装备发展部原副部长的饶文敏一起被罢免人大代表，被视为装备采购系统清查的一部分。
+    2023 年 11 月 28 日因涉嫌严重违纪违法，与同为装备发展部原副部长的饶文敏一起被罢免人大代表，被视为装备采购系统清查的一部分。
   positions:
     - { title: 中央军委装备发展部副部长, sys: army, cite: f02-zaobao-2024-06-27-li-wei }
   factions:
@@ -709,21 +772,23 @@
       cite: f02-zaobao-2024-06-27-li-wei
       quote: 以及中央军委装备发展部两名原副部长张育林、饶文敏
       rank: backbone
-  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei]
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei, f10-wiki-zhang-yulin, a02-wikisource-npc-qualification-reports]
 
 - id: rao-wenmin
   name: 饶文敏
+  verify: true
   gender: m
   roles: [tiger, general]
   status: purged
-  statusNote: 2023 年 12 月被罢免全国人大代表，官方未公布原因。
+  statusNote: 2023 年 11 月因涉嫌严重违纪违法被罢免全国人大代表，12 月公告。
   fall:
-    - { date: 2023-12-29, text: 中央军委装备发展部军人代表大会罢免其全国人大代表职务, cite: c03-xinhua-2023-12-29-npc-notice-2 }
+    - { date: 2023-11-28, text: 因涉嫌严重违纪违法，中央军委装备发展部军人代表大会罢免其全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2023-12-29, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2023-12-29-npc-notice-2 }
   tier: 2
   headline: 中央军委装备发展部原副部长
   bio: >-
-    曾任中央军委装备发展部副部长。2023 年 12 月 29 日，装备发展部军人代表大会同时罢免他与张育林的全国人大代表职务，
-    同批被罢免的还有火箭军两任司令员李玉超、周亚宁；官方未说明原因。
+    曾任中央军委装备发展部副部长。人大代表资格审查报告称，他与张育林因涉嫌严重违纪违法，2023 年 11 月 28 日被装备发展部军人代表大会罢免全国人大代表职务；
+    12 月 29 日人大常委会公告终止代表资格的还有火箭军两任司令员李玉超、周亚宁。
   positions:
     - { title: 中央军委装备发展部副部长, sys: army, cite: f02-zaobao-2024-06-27-li-wei }
   factions:
@@ -731,11 +796,13 @@
       cite: f02-zaobao-2024-06-27-li-wei
       quote: 以及中央军委装备发展部两名原副部长张育林、饶文敏
       rank: backbone
-  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei]
+  cites: [c03-xinhua-2023-12-29-npc-notice-2, f02-zaobao-2024-06-27-li-wei, a02-wikisource-npc-qualification-reports]
 
 - id: liu-guangbin
   name: 刘光斌
   gender: m
+  born: 1963-06
+  birthplace: 四川射洪
   roles: [tiger, general]
   status: purged
   statusNote: 2023 年 7 月据《南华早报》报道被军委纪委带走，官方未公布。
@@ -753,12 +820,14 @@
       cite: c03-zaobao-2023-07-28-rocket-force
       quote: 中国人民解放军火箭军司令员李玉超、副司令员刘光斌，和前副司令员张振中，已被中共中央军委反腐机构调查人员带走
       rank: backbone
-  cites: [c03-zaobao-2023-07-28-rocket-force]
+  cites: [c03-zaobao-2023-07-28-rocket-force, bd1-wiki-liu-guangbin]
 
 # ---------- sun-lijun-gang ----------
 - id: liu-xinyun
   name: 刘新云
   gender: m
+  born: 1962-09
+  birthplace: 山东淄博
   roles: [tiger, prov]
   status: detained
   statusNote: 2022 年 9 月与龚道安、邓恢林同日一审获刑。
@@ -783,12 +852,14 @@
     - f: sun-lijun-gang
       cite: f03-dw-2022-01-18-deng-yuwen
       quote: 山西省副省长兼公安厅长刘新云等
-  cites: [b12-xinhua-2022-01-15-zero-tolerance-ep1, b12-dw-2022-09-23-sun-lijun-verdict, f03-dw-2022-01-18-deng-yuwen]
+  cites: [b12-xinhua-2022-01-15-zero-tolerance-ep1, b12-dw-2022-09-23-sun-lijun-verdict, f03-dw-2022-01-18-deng-yuwen, r05-ccdi-2021-04-09-liu-xinyun-probe]
 
 # ---------- he-miao ----------
 - id: shen-jinlong
   name: 沈金龙
   gender: m
+  born: 1956-10
+  birthplace: 上海南汇
   roles: [tiger, general]
   status: purged
   statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、财经委副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
@@ -807,11 +878,13 @@
       cite: f09-tnt-2026-hu-zhongming
       quote: 苗华落马后，其嫡系海军同僚与旧部纷纷出事……原海军司令沈金龙、原海军政委秦生祥于2026年2月26日被罢免全国人大代表职务
       rank: periphery
-  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, a02-wikisource-npc-qualification-reports]
+  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, a02-wikisource-npc-qualification-reports, f10-wiki-shen-jinlong]
 
 - id: qin-shengxiang
   name: 秦生祥
   gender: m
+  born: 1957-02
+  birthplace: 湖北监利
   roles: [tiger, general, cc]
   status: purged
   statusNote: 2026 年 1 月 13 日海军军人代表大会以其涉嫌严重违纪违法为由罢免其全国人大代表职务，人大常委会委员、社会建设委员会副主任委员职务相应撤销，2 月 26 日全国人大常委会公告；未见立案或处分通报。
@@ -830,4 +903,4 @@
       cite: f09-tnt-2026-hu-zhongming
       quote: 苗华落马后，其嫡系海军同僚与旧部纷纷出事……原海军司令沈金龙、原海军政委秦生祥于2026年2月26日被罢免全国人大代表职务
       rank: periphery
-  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, k02-xinhua-2017-10-24-19-cc, a02-wikisource-npc-qualification-reports]
+  cites: [f09-xinhua-2026-02-26-npc-notice-16, f09-dw-2026-02-26-pla-deputies, k02-xinhua-2017-10-24-19-cc, a02-wikisource-npc-qualification-reports, f10-wiki-qin-shengxiang]
