@@ -1,0 +1,68 @@
+﻿# CS9 — two case studies: the 20th Central Committee members who fell in 2026, and surrender and sentencing
+web:
+  # cc20-fallen-2026
+  - id: cs9-zaobao-2026-10-11-fifth-plenum-vacancies
+    title: 中国特稿：五中全会聚焦全面从严治党 二十一大前再掀整肃浪潮
+    publisher: 联合早报（早报网镜像）
+    date: 2026-10-11
+    voice: zh
+    url: https://www.zaochenbao.com/news/china/202610/1183029.html
+    excerpt: true
+    keep: [不过，官方尚未公布全会是否增补, 中共二十届五中全会除了审议全面从严治党文件, 去年四中全会已一次递补, 整肃并未停止, 另有一些人的状态尚未完全明朗, 寇健文估计, 按照中共党章，中央委员出缺, 2024年三中全会和去年四中全会都曾跳过, 寇健文认为，这次全会除了看谁获递补, 若单纯按照四中全会最后一名, 军方人事震荡的范围可能更大]
+  - id: cs9-zaobao-2026-08-03-thirty-members
+    title: 港媒：中共五中全会或撤30名中央委员
+    publisher: 联合早报
+    date: 2026-08-03
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260803-9461539
+    excerpt: true
+    keep: [据不完全统计, 再加上多名长时间未公开露面, 在前述的19位, 张林在2025年9月, 王鹏，中央军委原政法委书记王仁华, 今年又有七名军方中央委员, 党政系统的八人, 另外五人则是]
+  # surrender-sentencing
+  - id: cs9-gov-2018-10-26-cpl-amendment
+    title: 全国人民代表大会常务委员会关于修改《中华人民共和国刑事诉讼法》的决定
+    publisher: 新华社（中国政府网）
+    date: 2018-10-26
+    voice: doc
+    url: https://www.gov.cn/xinwen/2018-10/26/content_5334890.htm
+    start: 第十三届全国人民代表大会常务委员会第六次会议决定对
+    end: 根据本决定作相应修改，重新公布。
+  - id: cs9-npc-2018-11-06-cpl-anticorruption
+    title: 用法治手段推进保障改革深化助力反腐
+    publisher: 中国人大网
+    date: 2018-11-06
+    voice: official
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-11/06/content_2065686.htm
+    start: 近日闭幕的十三届全国人大常委会第六次会议
+    end: 被告人的行为不构成犯罪的等。
+  - id: cs9-spp-2020-10-17-guangxi-duty-crime-plea
+    title: 广西：三方合力推动职务犯罪领域适用认罪认罚从宽制度
+    publisher: 最高人民检察院
+    date: 2020-10-17
+    voice: official
+    url: https://web.archive.org/web/2026id_/https://www.spp.gov.cn/spp/dfjcdt/202010/t20201017_482195.shtml
+    start: “疫情期间该公司从3月复工
+    end: （本报记者邓铁军 通讯员郑燕）
+  - id: cs9-spp-2023-03-08-plea-rate
+    title: 检察环节认罪认罚从宽制度适用率超过90%
+    publisher: 最高人民检察院
+    date: 2023-03-08
+    voice: official
+    url: https://web.archive.org/web/2026id_/https://www.spp.gov.cn/spp/2023qglh/202303/t20230308_606847.shtml
+    start: 2022年认罪认罚从宽案件量刑建议采纳率98.3%
+    end: 更利罪犯改造、促进社会和谐。
+  - id: cs9-spp-2026-03-09-plea-rate
+    title: 最高检：超八成犯罪嫌疑人在检察环节自愿认罪认罚
+    publisher: 最高人民检察院
+    date: 2026-03-09
+    voice: official
+    url: https://web.archive.org/web/2026id_/https://www.spp.gov.cn/spp/2026zgjgzbg/202603/t20260309_722624.shtml
+    start: 最高检工作报告说，2025年
+    end: 彰显犯罪治理效能。
+  - id: cs9-xinhua-2025-02-27-surrender-25k
+    title: 高压反腐强震慑！2024年2.5万人主动投案
+    publisher: 新华网
+    date: 2025-02-27
+    voice: official
+    url: https://www.news.cn/20250227/194619e8b90c48d883f7bf17bacb5d3c/c.html
+    start: 新华社北京2月27日电
+    end: 移送检察机关1.6万人。

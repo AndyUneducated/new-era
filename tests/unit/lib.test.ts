@@ -39,6 +39,8 @@ describe('caseparse', () => {
     expect(pleasIn('鉴于张三有自首情节，如实供述，认罪悔罪，积极退缴全部赃款')).toEqual(['surrender', 'refund', 'plea'])
     expect(pleasIn('李四到案后不构成自首，但有立功表现')).toEqual(['merit'])
     expect(pleasIn('张三认罪认罚。李四拒不认罪，退赃', '张三')).toEqual(['plea'])
+    expect(pleasIn('法院认为，被告人张三的行为构成受贿罪。鉴于其自动投案，具有自首情节。其另有立功表现', '张三')).toEqual(['surrender', 'merit'])
+    expect(pleasIn('李四构成受贿罪。鉴于其具有自首情节', '张三')).toEqual([])
     expect(pleasIn('对许家印判处无期徒刑；对违法所得继续追缴，不足部分责令退赔')).toEqual([])
     const p = parseFall([{ date: '2019-01-01', text: '以受贿罪判处有期徒刑十年', cite: 'v' }], 'detained', undefined, () => '法院认为，王五具有自首情节。赵六认罪悔罪。', '王五')
     expect(p.pleas).toEqual(['surrender'])

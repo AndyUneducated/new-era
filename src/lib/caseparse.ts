@@ -128,7 +128,8 @@ export function amountIn(text: string): number | undefined {
 
 // mitigating circumstances in a verdict: "有自首情节，如实供述……认罪悔罪，积极退缴全部赃款"; a clause that
 // denies one (不构成自首、拒不认罪) does not count. With a name, only sentences naming them are read, since
-// one report often covers several defendants.
+// one report often covers several defendants; a sentence opening with 其 (鉴于其……) right after one naming
+// them is about the same defendant.
 const PLEA_RE: [Plea, RegExp][] = [
   ['surrender', /自首/],
   ['merit', /立功表现|构成(?:重大)?立功|揭发他人犯罪/],
@@ -140,8 +141,12 @@ const DENIED = /不(?:构成|认定|成立|具有|属于|予认定|能认定)|�
 const ORDERED = /责令|追缴|没收/
 export function pleasIn(text: string, name?: string): Plea[] {
   const out = new Set<Plea>()
+  let named = false
   for (const s of text.split(/[。\n]/)) {
-    if (name && !s.includes(name)) continue
+    if (name) {
+      named = s.includes(name) || (named && /^\s*(?:鉴于|考虑到)?其/.test(s))
+      if (!named) continue
+    }
     for (const c of s.split(/[，,；;：:]/)) {
       if (DENIED.test(c)) continue
       for (const [k, re] of PLEA_RE) if (re.test(c) && !(k === 'refund' && ORDERED.test(c))) out.add(k)

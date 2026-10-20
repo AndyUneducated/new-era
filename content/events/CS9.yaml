@@ -1,0 +1,67 @@
+# CS9 — events for cc20-fallen-2026 (Central Committee members and alternates who fell after the fourth plenum) and surrender-sentencing (the 2018 plea law, the first ministerial surrender after the Supervision Law)
+- id: cs9-2018-ai-wenli-surrender
+  date: 2018-07-31
+  end: 2019-04-18
+  title: 艾文礼携赃款投案，监察法后首个投案自首的省部级干部
+  lane: purge
+  summary: 2018年7月31日，中央纪委国家监委网站发布河北省政协原副主席艾文礼“已投案自首”、接受审查调查的消息，网站称这是首次在中管干部审查调查消息中使用这一表述。10月的开除通报写明“艾文礼自动投案，真诚悔罪悔过”，移送起诉时“并提出减轻处罚的建议”。2019年4月18日，苏州中院认定他受贿6478万余元，构成自首，“依法可对其减轻处罚”，判处有期徒刑8年。报道称这是监察法实施以来首例携带赃款赃物主动到中央纪委国家监委投案的案件。
+  people: [ai-wenli]
+  cites: [r04-ccdi-2018-07-31-ai-wenli-probe, r04-ccdi-2018-10-19-ai-wenli-expel, r04-ce-2019-04-18-ai-wenli-verdict]
+
+- id: cs9-2018-cpl-plea-leniency
+  date: 2018-10-26
+  title: 刑事诉讼法修改，认罪认罚从宽写入法律
+  lane: purge
+  summary: 2018年10月26日，十三届全国人大常委会第六次会议以170票赞成、2票弃权通过修改刑事诉讼法的决定，当日施行。新增第十五条：“犯罪嫌疑人、被告人自愿如实供述自己的罪行，承认指控的犯罪事实，愿意接受处罚的，可以依法从宽处理。”认罪认罚的犯罪嫌疑人要在辩护人或者值班律师在场时签署具结书，检察院随案提出量刑建议，法院“一般应当采纳”。此前全国人大常委会曾在2014年6月、2016年9月两次授权试点。同一次修法还做了与监察法的衔接，并建立了针对贪污贿赂等案件的缺席审判制度。
+  cites: [cs9-gov-2018-10-26-cpl-amendment, cs9-npc-2018-11-06-cpl-anticorruption]
+
+- id: cs9-2025-lan-tianli-expelled
+  date: 2025-12-04
+  end: 2026-04-29
+  title: 中央委员蓝天立被开除党籍，四中全会后首个
+  lane: purge
+  summary: 2025年12月4日，中央纪委国家监委通报，第二十届中央委员、广西壮族自治区政府原主席蓝天立被开除党籍和公职。通报称他“在党内搞拉帮结派，培植个人势力，搞投机钻营，结交政治骗子，对抗组织审查”，并非法收受巨额财物；开除党籍处分“待召开中央委员会全体会议时予以追认”。他是二十届四中全会之后第一个被开除党籍的中央委员。2026年4月29日，常德市人民检察院以受贿罪对他提起公诉。
+  people: [lan-tianli]
+  cites: [k04-xinhua-2025-12-04-lan-tianli-expel, k04-xinhua-2026-04-29-lan-tianli-charged]
+
+- id: cs9-2025-alternates-expelled
+  date: 2025-12-05
+  end: 2026-07-07
+  title: 费东斌、吴胜华、方红卫三名候补中委先后被开除党籍
+  lane: purge
+  summary: 二十届四中全会后，三名候补中央委员先后被开除党籍，处分都写明待中央全会追认。2025年12月5日为国家铁路局原局长费东斌，通报称他“搞投机钻营，结交政治骗子，对抗组织审查”，2026年4月被提起公诉；2026年1月7日为贵州毕节市委原书记吴胜华，通报称他“结交政治骗子，搞迷信活动，对抗组织审查”；7月7日为西安市委原书记方红卫，通报称他“对组织不忠诚不老实”，“干扰巡视工作，对抗组织审查，搞迷信活动”。方红卫在四中全会上排名靠前却未获递补，两周后被宣布审查调查。
+  people: [fei-dongbin, wu-shenghua, fang-hongwei]
+  cites: [k06-xinhua-2025-12-05-fei-dongbin-expelled, k06-xinhua-2026-04-27-fei-dongbin-charged, k05-chinanews-2026-01-07-wu-shenghua, k06-xinhua-2026-07-07-fang-hongwei-expelled, k06-xinhua-2025-11-07-fang-hongwei-probe, cs9-zaobao-2026-10-11-fifth-plenum-vacancies]
+
+- id: cs9-2025-three-generals-deputies
+  date: 2025-12-27
+  title: 王鹏、王仁华、张红兵三名中央委员被罢免人大代表
+  lane: army
+  summary: 2025年12月27日，全国人大常委会公告，中央军委训练管理部、中央军委政法委员会、武警部队的军人代表大会分别罢免王鹏、王仁华、张红兵的全国人大代表职务，同一公告还有已被开除党籍的何卫东、何宏军。公告不写原因；人大代表资格审查报告称三人“涉嫌严重违纪违法”，罢免日期在10月30日至11月10日之间，都在四中全会之后。三人都是二十届中央委员，至今没有立案或处分通报。明报统计时把他们算进被查的中央委员（联合早报转述）。
+  people: [wang-peng-pla, wang-renhua, zhang-hongbing, he-weidong, he-hongjun]
+  cites: [f10-xinhua-2025-12-27-npc-notice-14, a02-wikisource-npc-qualification-reports, cs9-zaobao-2026-08-03-thirty-members]
+
+- id: cs9-2026-fei-xu-probed
+  date: 2026-05-06
+  end: 2026-05-23
+  title: 候补中委费高云、徐留平在任上被查
+  lane: purge
+  summary: 2026年5月6日，中央纪委国家监委宣布安徽省委常委、合肥市委书记费高云接受审查调查；5月23日，宣布全国总工会党组书记、副主席、书记处第一书记徐留平接受审查调查。两人都是二十届中央候补委员，都在任上被查。6月26日，全国人大常委会公告费高云已被安徽省人大常委会罢免全国人大代表。截至10月20日两人都没有处分通报。
+  people: [fei-gaoyun, xu-liuping]
+  cites: [k06-xinhua-2026-05-06-fei-gaoyun-probe, c03-xinhua-2026-05-23-xu-liuping-probe, c03-xinhua-2026-06-26-npc-notice-18]
+
+- id: cs9-2026-ye-jianchun-probed
+  date: 2026-08-27
+  title: 江西省长叶建春在任上被查
+  lane: purge
+  summary: 2026年8月27日，中央纪委国家监委宣布江西省委副书记、省长叶建春接受纪律审查和监察调查。叶建春是二十届中央委员，长期在水利系统任职，曾任水利部太湖流域管理局局长、水利部副部长，2021年调任江西省委副书记，后任省长。同年在任上被查的地方和部委正职中央委员，此前还有应急管理部部长王祥喜、重庆市长胡衡华。
+  people: [ye-jianchun]
+  cites: [f07-chinanews-2026-08-27-ye-jianchun, k02-xinhua-2022-10-22-20-cc, c03-xinhua-2026-01-31-wang-xiangxi-probe, c03-xinhua-2026-03-20-hu-henghua-probe]
+
+- id: cs9-2026-qin-weizhong-probed
+  date: 2026-09-21
+  title: 深圳原市长覃伟中被查
+  lane: purge
+  summary: 2026年9月21日，中央纪委国家监委宣布广东省人大常委会党组成员覃伟中接受纪律审查和监察调查。覃伟中是二十届中央候补委员，出身石化系统，2021年4月起任深圳市市长，2026年8月卸任市长、转任广东省人大常委会党组成员，不到一个月即被查。同一天中央政治局会议决定五中全会于10月26日召开，国防部宣布张又侠、刘振立被开除党籍。
+  people: [qin-weizhong]
+  cites: [f08-xinhua-2026-09-21-qin-weizhong, f08-sina-2026-09-21-qin-weizhong, k02-xinhua-2022-10-22-20-cca, e04-news-2026-09-21-5th-plenum-set, b08-mod-2026-09-21-zhang-liu-expelled]
