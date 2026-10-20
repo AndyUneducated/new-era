@@ -1,6 +1,6 @@
 # RL1 sources: person relations (patrons, secretaries, kin, rivals) for full biographies that had none
 web:
-  - { id: rl1-zaobao-2025-12-14-air-force, title: 中国空军将领受重用 学者：与苗华关系最浅 平衡军中各方力量, publisher: 联合早报, date: 2025-12-14, voice: zh, url: "https://www.zaobao.com.sg/news/china/story20251214-7856670", excerpt: true, keep: [ 许其亮1988年至1993年曾在驻地福建福州, 许其亮不仅与习近平相识, 曾与丁来杭在空军搭班子 ] }
+  - { id: rl1-zaobao-2025-12-14-air-force, title: 中国空军将领受重用 学者：与苗华关系最浅 平衡军中各方力量, publisher: 联合早报, date: 2025-12-14, voice: zh, url: "https://www.zaobao.com.sg/news/china/story20251214-7856670", excerpt: true, keep: [ 许其亮1988年至1993年曾在驻地福建福州, 许其亮不仅与习近平相识, 曾与丁来杭在空军搭班子, 空军将领期间持续受到重用, 空军将领晋升与被查处的中共中央军委原委员, 受重用的空军将领包括朱军少将, 目前仅存空军司令员常丁求, 在这轮空前的整肃中，空军将领未受波及, 在空军将领受重用的背景下, 在今年的九三阅兵上，空军将领也受瞩目, 中国空军将领也并非无瑕, 跟苗华有一定渊源的空军将领, 许其亮拔擢空军将领受信任 ] }
   - { id: rl1-rfi-2012-04-30-carrie-lam, title: 作风硬朗 林郑月娥将任香港政务司司长, publisher: 法国国际广播电台, date: 2012-04-30, voice: west, url: "https://www.rfi.fr/cn/中国/20120430-作风硬朗林郑月娥将任香港政务司司长", excerpt: true, keep: [ 第二把交椅 ] }
   - { id: rl1-bbc-2017-carrie-lam-profile, title: 林郑月娥：香港首位女特首, publisher: BBC中文网, date: 2017-03, voice: west, url: "https://www.bbc.com/zhongwen/simp/chinese-news-39397780", excerpt: true, keep: [ 由公务员转为问责官员, 在时任特首的梁振英提名下 ] }
   - { id: rl1-voa-2001-08-07-yang-jiechi, title: 话说中国驻美大使杨洁篪, publisher: 美国之音, date: 2001-08-07, voice: west, url: "https://www.voachinese.com/a/a-21-a-2001-08-07-5-1-63304917/982405.html", excerpt: true, keep: [ 受到了当时外长钱其琛的欣赏, 章文晋和韩叙的赏识 ] }

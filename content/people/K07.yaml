@@ -1,0 +1,331 @@
+# K07 — missing cards: the CMC discipline chief, 2025 CPPCC and provincial congress removals, the 2026 NPC notice, U10 people, navy commissars
+- id: zhang-shuguang-cmc
+  name: 张曙光
+  pinyin: Zhāng Shǔguāng
+  gender: m
+  born: 1964
+  roles: [general, ccdi]
+  status: active
+  statusNote: 2026 年 7 月 3 日以中央军委纪委书记兼军委监察委员会主任身份晋升上将，现职。
+  tier: 2
+  headline: 中央军委纪委书记、军委监察委员会主任，陆军上将（2026– ）
+  ids: { wikidata: Q138592791 }
+  bio: >-
+    长期在军队纪检系统工作，曾任总政治部纪律检查部案件审理局局长；2017 年张升民任军委纪委书记时，他任军委纪委监察局局长。2018 年任北部战区空军纪委书记，2021 年 12 月任陆军纪委书记并晋升中将，2022 年当选二十届中央纪委委员。
+    2026 年 7 月 3 日官方首次披露他已接替张升民任军委纪委书记，同日晋升上将。
+  positions:
+    - { title: 总政治部纪律检查部案件审理局局长, sys: army, cite: k07-wiki-zhang-shuguang-cmc }
+    - { title: 中央军委纪委监察局局长, sys: army, from: 2017, cite: b08-zaobao-2026-07-03-zhang-shuguang }
+    - { title: 北部战区空军纪委书记, sys: army, from: 2018, to: 2021-12, cite: b08-zaobao-2026-07-03-zhang-shuguang }
+    - { title: 陆军纪委书记, sys: army, from: 2021-12, to: 2026-07, cite: b08-zaobao-2026-07-03-zhang-shuguang }
+    - { title: 二十届中央纪委委员, sys: party, from: 2022-10, cite: k07-wiki-zhang-shuguang-cmc }
+    - { title: 中央军委纪律检查委员会书记兼中央军委监察委员会主任, sys: army, from: 2026-07, cite: c08-xinhua-2026-07-03-generals }
+  cites: [wd-Q138592791, k07-wiki-zhang-shuguang-cmc, c08-xinhua-2026-07-03-generals, b08-zaobao-2026-07-03-zhang-shuguang, cs4-iccs-411-acting-generals]
+
+- id: liu-guoyue
+  name: 刘国跃
+  pinyin: Liú Guóyuè
+  gender: m
+  born: 1963-12
+  birthplace: 河北保定
+  roles: [tiger]
+  status: missing
+  statusNote: 2025 年 12 月 24 日被撤销全国政协委员资格，2026 年 3 月 2 日政协常委会追认，官方未说明原因；本站未查到立案或处分通报。
+  fall:
+    - { date: 2025-12-24, text: 全国政协第四十五次主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: k07-xinhua-2025-12-24-cppcc }
+    - { date: 2026-03-02, text: 全国政协常委会第十五次会议追认撤销其第十四届全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 国家能源投资集团原董事长，2025 年被撤销全国政协委员资格
+  ids: { wikidata: Q114690820 }
+  bio: >-
+    电力系统出身，华北电力大学工学博士，早年在中国华能集团任职，后任国家电网副总经理。2019 年 11 月任国家能源投资集团总经理，2022 年 9 月升任董事长。
+    2024 年 11 月后不再公开露面，2025 年 2 月董事长职务由邹磊接替，同年 12 月被撤销全国政协委员资格。
+  positions:
+    - { title: 国家电网有限公司副总经理、党组成员, sys: other, to: 2019-11, cite: k07-wiki-liu-guoyue }
+    - { title: 国家能源投资集团有限责任公司董事、总经理、党组副书记, sys: other, from: 2019-11, to: 2022-09, cite: k07-wiki-liu-guoyue }
+    - { title: 国电电力发展股份有限公司董事长, sys: other, from: 2020-02, cite: k07-wiki-liu-guoyue }
+    - { title: 国家能源投资集团有限责任公司董事长、党组书记, sys: other, from: 2022-09, to: 2025-02, cite: k07-wiki-liu-guoyue }
+    - { title: 第十四届全国政协委员, sys: other, to: 2025-12, cite: k07-xinhua-2025-12-24-cppcc }
+  cites: [wd-Q114690820, k07-wiki-liu-guoyue, k07-xinhua-2025-12-24-cppcc, k05-xinhua-2026-03-02-cppcc, k07-udn-2025-12-24-cppcc]
+
+- id: fan-youshan
+  name: 樊友山
+  pinyin: Fán Yǒushān
+  gender: m
+  born: 1963-10
+  birthplace: 江西修水
+  roles: [tiger]
+  status: missing
+  statusNote: 2025 年 12 月 24 日被撤销全国政协委员资格，2026 年 3 月 2 日政协常委会追认，官方未说明原因；本站未查到立案或处分通报。
+  fall:
+    - { date: 2025-12-24, text: 全国政协第四十五次主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: k07-xinhua-2025-12-24-cppcc }
+    - { date: 2026-03-02, text: 全国政协常委会第十五次会议追认撤销其第十四届全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 中国电子科技集团原总经理、全国工商联原副主席，2025 年被撤销全国政协委员资格
+  ids: { wikidata: Q85352883 }
+  bio: >-
+    长春光学精密机械学院毕业，在兵器工业系统任职多年，曾任中国兵器工业集团副总经理，2008 年后转任中国电子科技集团，升至总经理。2016 年 12 月任全国工商联党组副书记、副主席，维基百科称他 2022 年 12 月换届卸任。
+    2025 年 12 月被撤销全国政协委员资格。
+  positions:
+    - { title: 中国兵器工业集团副总经理, sys: other, cite: k07-wiki-fan-youshan }
+    - { title: 中国电子科技集团有限公司总经理, sys: other, cite: k07-zaobao-2025-12-26-cppcc }
+    - { title: 全国工商联党组副书记、副主席，中国民间商会副会长, sys: other, from: 2016-12, to: 2022-12, cite: k07-wiki-fan-youshan }
+    - { title: 第十四届全国政协委员, sys: other, to: 2025-12, cite: k07-xinhua-2025-12-24-cppcc }
+  cites: [wd-Q85352883, k07-wiki-fan-youshan, k07-xinhua-2025-12-24-cppcc, k05-xinhua-2026-03-02-cppcc, k07-zaobao-2025-12-26-cppcc, k07-udn-2025-12-24-cppcc]
+
+- id: zeng-yi
+  name: 曾毅
+  pinyin: Zēng Yì
+  gender: m
+  born: 1965-05
+  birthplace: 四川古蔺
+  joinedParty: 1984-12
+  roles: [tiger]
+  status: missing
+  statusNote: 2025 年 12 月 24 日被撤销全国政协委员资格，2026 年 3 月 2 日政协常委会追认，官方未说明原因；本站未查到立案或处分通报。
+  fall:
+    - { date: 2025-12-24, text: 全国政协第四十五次主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: k07-xinhua-2025-12-24-cppcc }
+    - { date: 2026-03-02, text: 全国政协常委会第十五次会议追认撤销其第十四届全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 中国电子信息产业集团原董事长，2025 年被撤销全国政协委员资格
+  ids: { wikidata: Q114294085 }
+  bio: >-
+    北京工业学院毕业，在兵器工业系统工作 30 多年，2009 年任中国兵器科学研究院院长，2011 年 3 月任兵器工业集团副总经理。2021 年 10 月任中国电子信息产业集团总经理，2022 年 9 月升任董事长（另说 2023 年，中央社）。
+    2025 年 4 月董事长由李立功接任，去向未公布，同年 12 月被撤销全国政协委员资格。
+  positions:
+    - { title: 中国兵器科学研究院院长、党委副书记, sys: other, from: 2009-10, to: 2011-03, cite: k07-wiki-zeng-yi }
+    - { title: 中国兵器工业集团有限公司副总经理, sys: other, from: 2011-03, to: 2021-10, cite: k07-wiki-zeng-yi }
+    - { title: 中国电子信息产业集团有限公司董事、总经理、党组副书记, sys: other, from: 2021-10, to: 2022-09, cite: k07-wiki-zeng-yi }
+    - { title: 中国电子信息产业集团有限公司董事长、党组书记, sys: other, from: 2022-09, to: 2025-04, cite: k07-cec-2022-09-27-zeng-yi }
+    - { title: 第十四届全国政协委员, sys: other, to: 2025-12, cite: k07-xinhua-2025-12-24-cppcc }
+  cites: [wd-Q114294085, k07-wiki-zeng-yi, k07-cec-2022-09-27-zeng-yi, k07-xinhua-2025-12-24-cppcc, k05-xinhua-2026-03-02-cppcc, k07-udn-2025-12-24-cppcc, k07-zaobao-2025-12-26-cppcc]
+
+- id: yu-peigen
+  name: 俞培根
+  pinyin: Yú Péigēn
+  gender: m
+  born: 1962-11-25
+  birthplace: 浙江海宁
+  joinedParty: 1995-01
+  roles: [tiger]
+  status: missing
+  statusNote: 2025 年 12 月 24 日被撤销全国政协委员资格，2026 年 3 月 2 日政协常委会追认，官方未说明原因；本站未查到立案或处分通报。
+  fall:
+    - { date: 2025-12-24, text: 全国政协第四十五次主席会议审议通过撤销其第十四届全国政协委员资格的决定, cite: k07-xinhua-2025-12-24-cppcc }
+    - { date: 2026-03-02, text: 全国政协常委会第十五次会议追认撤销其第十四届全国政协委员资格的决定, cite: k05-xinhua-2026-03-02-cppcc }
+  tier: 2
+  headline: 中国东方电气集团原董事长，2025 年被撤销全国政协委员资格
+  ids: { wikidata: Q137878838 }
+  bio: >-
+    浙江大学热能动力专业毕业，长期在秦山核电站工作，2001 年任秦山核电公司总经理，后任中电投核电总工程师，2011 年 10 月任中核集团副总经理。2019 年 4 月调任东方电气总经理，2021 年 4 月任董事长。
+    2024 年 12 月后不再露面，2025 年 6 月官网撤下其信息，同年 12 月被撤销全国政协委员资格。
+  positions:
+    - { title: 秦山核电公司总经理, sys: other, from: 2001, cite: k07-wiki-yu-peigen }
+    - { title: 中国电力投资集团公司核电部经理、核电总工程师、党组成员, sys: other, from: 2003, to: 2011, cite: k07-wiki-yu-peigen }
+    - { title: 中国核工业集团公司党组成员、副总经理, sys: other, from: 2011-10, to: 2019-04, cite: k07-yicai-2025-06-yu-peigen }
+    - { title: 中国东方电气集团有限公司董事、总经理、党组副书记, sys: other, place: 四川, from: 2019-04, to: 2021-04, cite: k07-yicai-2025-06-yu-peigen }
+    - { title: 中国东方电气集团有限公司董事长、党组书记, sys: other, place: 四川, from: 2021-04, to: 2025-06, cite: k07-yicai-2025-06-yu-peigen }
+    - { title: 第十四届全国政协委员, sys: other, to: 2025-12, cite: k07-xinhua-2025-12-24-cppcc }
+  cites: [wd-Q137878838, k07-wiki-yu-peigen, k07-yicai-2025-06-yu-peigen, k07-xinhua-2025-12-24-cppcc, k05-xinhua-2026-03-02-cppcc, k07-udn-2025-12-24-cppcc]
+
+- id: gao-tao
+  name: 高涛
+  pinyin: Gāo Tāo
+  gender: m
+  born: 1969-11
+  birthplace: 山东乳山
+  joinedParty: 1991-06
+  roles: [tiger]
+  status: missing
+  statusNote: 2025 年 3 月被免去辽宁副省长，同年 12 月被罢免辽宁省人大代表，官方均未说明原因；此后未再公开露面，本站未查到立案通报。
+  fall:
+    - { date: 2025-03-26, text: 辽宁省第十四届人大常委会第十五次会议决定免去其辽宁省人民政府副省长职务, cite: k07-thepaper-2025-12-27-gao-tao }
+    - { date: 2025-12, text: 盘锦市人大常委会决定罢免其辽宁省第十四届人民代表大会代表职务，代表资格终止, cite: k07-lnd-2025-12-27-gao-tao }
+  tier: 2
+  headline: 辽宁省原副省长、中国电科原副总经理，2025 年被免职并罢免省人大代表
+  ids: { wikidata: Q109411574 }
+  bio: >-
+    东南大学半导体专业毕业，在电子部第五十五研究所工作，2009 年起任所长，2018 年兼任中电国基南方集团总经理，2019 年任中国电子科技集团副总经理。2021 年 3 月任辽宁副省长，后兼沈抚示范区党工委书记。
+    2025 年 3 月被免去副省长，此后再未公开露面，12 月被罢免省人大代表。
+  positions:
+    - { title: 中国电子科技集团公司第五十五研究所所长、党委副书记, sys: other, from: 2009, cite: k07-thepaper-2025-12-27-gao-tao }
+    - { title: 中电国基南方集团有限公司执行董事、党委书记、总经理, sys: other, from: 2018, cite: k07-thepaper-2025-12-27-gao-tao }
+    - { title: 中国电子科技集团有限公司党组成员、副总经理, sys: other, from: 2019, to: 2021-03, cite: k07-thepaper-2025-12-27-gao-tao }
+    - { title: 辽宁省人民政府副省长, sys: gov, place: 辽宁, from: 2021-03, to: 2025-03, cite: k07-wiki-gao-tao }
+    - { title: 沈抚改革创新示范区党工委书记, sys: party, place: 辽宁, from: 2023-02, cite: k07-wiki-gao-tao }
+  cites: [wd-Q109411574, k07-wiki-gao-tao, k07-thepaper-2025-12-27-gao-tao, k07-lnd-2025-12-27-gao-tao, k07-caixin-2025-12-27-gao-tao]
+
+- id: zhang-hongwen
+  name: 张红文
+  pinyin: Zhāng Hóngwén
+  gender: m
+  born: 1975-04
+  birthplace: 陕西澄城
+  roles: [tiger]
+  status: missing
+  statusNote: 2024 年 12 月后未再公开履职，2025 年 3 月被披露不再任安徽省委常委、合肥市委书记，年底被罢免安徽省人大代表，官方未说明原因；本站未查到立案通报。
+  fall:
+    - { date: 2025-03-14, text: 澎湃新闻引述权威渠道披露，其已不再担任安徽省委常委、合肥市委书记, cite: k07-cna-2025-03-15-zhang-hongwen }
+    - { date: 2025-12, text: 滁州市人大常委会决定罢免其安徽省第十四届人民代表大会代表职务，代表资格终止, cite: k07-anhuinews-2026-01-01-zhang-hongwen }
+  tier: 2
+  headline: 安徽省委原常委、合肥市委原书记，航天科工出身，2025 年去职
+  ids: { wikidata: Q105717771 }
+  bio: >-
+    北京航空航天大学博士，长期在航天科工集团第三研究院工作，升至院长，2019 年 9 月任航天科工集团副总经理。2020 年 9 月任安徽副省长，2021 年 11 月进省委常委，2024 年 3 月任合肥市委书记。
+    2024 年 12 月 10 日后未再露面，中央社称他是又一位出事的军工系统出身高官。
+  positions:
+    - { title: 中国航天科工集团第三研究院院长、党委副书记, sys: other, to: 2019-09, cite: k07-ce-2024-03-18-zhang-hongwen }
+    - { title: 第十三届全国政协委员, sys: other, from: 2018, cite: k07-wiki-zhang-hongwen }
+    - { title: 中国航天科工集团副总经理、党组成员, sys: other, from: 2019-09, to: 2020-09, cite: k07-wiki-zhang-hongwen }
+    - { title: 安徽省人民政府副省长, sys: gov, place: 安徽, from: 2020-09, to: 2024-03, cite: k07-wiki-zhang-hongwen }
+    - { title: 中共安徽省委常委, sys: party, place: 安徽, from: 2021-11, to: 2025-03, cite: k07-wiki-zhang-hongwen }
+    - { title: 中共合肥市委书记, sys: party, place: 安徽, from: 2024-03, to: 2025-03, cite: k07-ce-2024-03-18-zhang-hongwen }
+  cites: [wd-Q105717771, k07-wiki-zhang-hongwen, k07-ce-2024-03-18-zhang-hongwen, k07-cna-2025-03-15-zhang-hongwen, k07-anhuinews-2026-01-01-zhang-hongwen]
+
+- id: huang-wei-zunyi
+  name: 黄伟
+  pinyin: Huáng Wěi
+  gender: m
+  born: 1972-01
+  birthplace: 贵州贵阳
+  joinedParty: 1996-03
+  joinedWork: 1992-07
+  roles: [tiger]
+  status: purged
+  statusNote: 2026 年 2 月被贵州省纪委监委立案审查调查，6 月全国人大代表资格终止；截至 2026 年 10 月未见处分结果。
+  fall:
+    - { date: 2026-02-03, text: 贵州省纪委监委通报其涉嫌严重违纪违法，接受贵州省纪委监委纪律审查和监察调查, cite: k07-xinhua-2026-02-03-huang-wei }
+    - { date: 2026-05-28, text: 贵州省第十四届人大常委会第二十三次会议以其涉嫌严重违纪违法为由罢免其第十四届全国人大代表职务, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2026-06-26, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 贵州省遵义市原市长，2026 年被查
+  bio: >-
+    西南政法学院经济法专业毕业，早年在贵州省政协、省委办公厅工作，2001 年起在贵州省委组织部任职至干部二处处长。2012 年 9 月任黔南州委组织部长，后兼福泉市委书记、任常务副州长，2019 年 10 月任遵义代市长，2020 年 1 月当选市长。
+    2026 年 2 月被查。
+  positions:
+    - { title: 贵州省委组织部干部二处处长, sys: party, place: 贵州, from: 2008-07, to: 2012-09, cite: k07-ce-2020-01-08-huang-wei }
+    - { title: 黔南州委常委、组织部部长, sys: party, place: 贵州, from: 2012-09, to: 2015-02, cite: k07-ce-2020-01-08-huang-wei }
+    - { title: 福泉市委书记、贵州福泉经济开发区党工委书记, sys: party, place: 贵州, from: 2015-01, to: 2018-01, cite: k07-ce-2020-01-08-huang-wei }
+    - { title: 黔南州委常委、州政府常务副州长, sys: gov, place: 贵州, from: 2017-02, to: 2019-10, cite: k07-ce-2020-01-08-huang-wei }
+    - { title: 遵义市委副书记、市长, sys: gov, place: 贵州, from: 2019-10, cite: k07-thepaper-2026-02-03-huang-wei }
+    - { title: 第十四届全国人大代表, sys: other, to: 2026-05, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  cites: [k07-xinhua-2026-02-03-huang-wei, k07-ce-2020-01-08-huang-wei, k07-thepaper-2026-02-03-huang-wei, a02-wikisource-npc-qualification-reports, c03-xinhua-2026-06-26-npc-notice-18]
+
+- id: li-lanxiang
+  name: 李兰祥
+  pinyin: Lǐ Lánxiáng
+  gender: m
+  born: 1969-10
+  roles: [tiger]
+  status: missing
+  statusNote: 2026 年 2 月辞去泰安市长，5 月以涉嫌严重违纪违法被责令辞去全国人大代表；联合早报 8 月称官方仍未发布他受查的通报。
+  fall:
+    - { date: 2026-02-06, text: 泰安市人大常委会接受其辞去泰安市人民政府市长职务的请求, cite: k07-zaobao-2026-08-07-li-lanxiang }
+    - { date: 2026-05-21, text: 因涉嫌严重违纪违法被责令辞去第十四届全国人大代表职务，山东省第十四届人大常委会第二十四次会议决定接受其辞职, cite: a02-wikisource-npc-qualification-reports }
+    - { date: 2026-06-26, text: 全国人大常委会公告其代表资格终止, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  tier: 2
+  headline: 山东省泰安市原市长，2026 年被责令辞去全国人大代表
+  bio: >-
+    长期在山东潍坊工作，历任寒亭区区长、区委书记，2019 年任潍坊市委常委、秘书长，后任常务副市长，2022 年 2 月任潍坊市委副书记，同年 12 月调任泰安代市长，2023 年 1 月当选市长。
+    2026 年 2 月辞去市长后消失，人大常委会公报称他涉嫌严重违纪违法。
+  positions:
+    - { title: 潍坊市寒亭区区长、区委书记, sys: party, place: 山东, cite: k07-zaobao-2026-08-07-li-lanxiang }
+    - { title: 潍坊市委常委、秘书长, sys: party, place: 山东, from: 2019, cite: k07-zaobao-2026-08-07-li-lanxiang }
+    - { title: 潍坊市委常委、常务副市长, sys: gov, place: 山东, to: 2022-02, cite: k07-zaobao-2026-08-07-li-lanxiang }
+    - { title: 潍坊市委副书记, sys: party, place: 山东, from: 2022-02, to: 2022-12, cite: k07-zaobao-2026-08-07-li-lanxiang }
+    - { title: 泰安市委副书记、市长, sys: gov, place: 山东, from: 2022-12, to: 2026-02, cite: k07-ce-2023-01-10-li-lanxiang }
+    - { title: 第十四届全国人大代表, sys: other, to: 2026-05, cite: c03-xinhua-2026-06-26-npc-notice-18 }
+  cites: [k07-ce-2023-01-10-li-lanxiang, k07-zaobao-2026-08-07-li-lanxiang, a02-wikisource-npc-qualification-reports, c03-xinhua-2026-06-26-npc-notice-18, k07-caixin-2026-08-08-npc-gazette]
+
+- id: li-shaoping
+  name: 李少平
+  pinyin: Lǐ Shàopíng
+  gender: m
+  born: 1956-10
+  birthplace: 山西武乡
+  joinedParty: 1977
+  joinedWork: 1975
+  roles: [minister, scholar]
+  status: retired
+  statusNote: 2021 年 8 月被免去最高人民法院副院长等职，此后未见新职。
+  tier: 2
+  headline: 最高人民法院原副院长、第五巡回法庭原庭长，二级大法官
+  ids: { wikidata: Q9198738 }
+  bio: >-
+    西南政法学院刑法硕士，教授。在四川省高院从审判员做到刑一庭庭长，1995 年经公开选拔任四川高院副院长，2000 年任四川省检察院副检察长，2003 年任四川高院院长。2008 年调任天津高院院长，2013 年 10 月任最高人民法院副院长，2016 年 12 月兼第五巡回法庭庭长，2021 年 8 月卸任。
+  positions:
+    - { title: 四川省高级人民法院副院长, sys: gov, place: 四川, from: 1995, to: 2000, cite: k07-ce-2013-10-25-li-shaoping }
+    - { title: 四川省人民检察院副检察长, sys: gov, place: 四川, from: 2000, to: 2002-11, cite: k07-ce-2013-10-25-li-shaoping }
+    - { title: 四川省高级人民法院院长、党组书记, sys: gov, place: 四川, from: 2003-01, to: 2008-01, cite: k07-ce-2013-10-25-li-shaoping }
+    - { title: 天津市高级人民法院院长、党组书记, sys: gov, place: 天津, from: 2008-01, to: 2013-10, cite: k07-ce-2013-10-25-li-shaoping }
+    - { title: 最高人民法院副院长、审判委员会委员, sys: gov, from: 2013-10, to: 2021-08, cite: k07-ce-2013-10-25-li-shaoping }
+    - { title: 最高人民法院第五巡回法庭庭长, sys: gov, from: 2016-12, to: 2021-08, cite: k07-wiki-li-shaoping }
+    - { title: 第十三届全国政协委员, sys: other, from: 2018-01, cite: k07-wiki-li-shaoping }
+  cites: [wd-Q9198738, k07-wiki-li-shaoping, k07-ce-2013-10-25-li-shaoping, k07-chinapeace-2021-08-21-li-shaoping, u10-sina-2009-09-07-sichuan-gongxuan]
+
+- id: sang-guowei
+  name: 桑国卫
+  pinyin: Sāng Guówèi
+  gender: m
+  born: 1941-11
+  died: 2023-12-07
+  birthplace: 上海
+  origin: 浙江湖州
+  roles: [scholar, minister]
+  status: dead
+  statusNote: 2023 年 12 月 7 日在北京病逝，享年 82 岁。
+  tier: 2
+  headline: 第十一届全国人大常委会副委员长、农工党中央原主席，药学家
+  ids: { wikidata: Q400299 }
+  bio: >-
+    药学家，中国工程院院士，长期在浙江省医学科学院从事临床药理和避孕药研究，1990 年代任浙江省卫生厅副厅长、省长助理。1999 年任国家药品监督管理局副局长，2007 年至 2012 年任农工党中央主席，2008 年起任第十一届全国人大常委会副委员长。2023 年 12 月病逝。
+  positions:
+    - { title: 浙江省医学科学院副院长兼药物研究所、计划生育研究所所长, sys: other, place: 浙江, from: 1991, cite: k07-people-2023-12-11-sang-guowei }
+    - { title: 浙江省卫生厅副厅长、浙江省省长助理, sys: gov, place: 浙江, to: 1999, cite: k07-people-2023-12-11-sang-guowei }
+    - { title: 国家药品监督管理局副局长、中国药品生物制品检定所所长, sys: gov, from: 1999, to: 2007, cite: k07-people-2023-12-11-sang-guowei }
+    - { title: 第十届全国人大常委会委员、教科文卫委员会副主任委员, sys: gov, cite: k07-people-2023-12-11-sang-guowei }
+    - { title: 中国农工民主党中央委员会主席, sys: other, from: 2007, to: 2012, cite: k07-people-2023-12-11-sang-guowei }
+    - { title: 第十一届全国人大常委会副委员长, sys: gov, cite: k07-people-2023-12-11-sang-guowei }
+  cites: [wd-Q400299, k07-people-2023-12-11-sang-guowei, u10-wiki-chen-zhu]
+
+- id: hu-yuhai
+  name: 胡瑜海
+  pinyin: Hú Yúhǎi
+  gender: m
+  roles: [general, ccdi]
+  status: active
+  statusNote: 维基百科称他现任海军副政委兼政治工作部主任；美国海军战争学院中国海事研究所认为他很可能代理海军政委，官方未宣布。
+  tier: 2
+  headline: 海军副政委兼政治工作部主任，海军中将
+  ids: { wikidata: Q116226191 }
+  bio: >-
+    海军中将，二十届中央纪委委员，维基百科称他现任海军副政委兼政治工作部主任。台湾学者 2026 年初整理称，他以政治工作部主任身份主持海军政治日常工作；中国海事研究所据 2026 年 2 月春节慰问视频的座次判断，他很可能代理海军政委。
+  positions:
+    - { title: 二十届中央纪委委员, sys: party, from: 2022-10, cite: k07-wiki-hu-yuhai }
+    - { title: 海军副政委兼政治工作部主任, sys: army, cite: k07-wiki-hu-yuhai }
+    - { title: 代理海军政治委员（中国海事研究所推断）, sys: army, from: 2026, cite: cs7-cmsi-2026-07-zhang-zheng }
+  cites: [wd-Q116226191, k07-wiki-hu-yuhai, cs7-cmsi-2026-07-zhang-zheng, cs4-iccs-411-acting-generals]
+
+- id: leng-shaojie
+  name: 冷少杰
+  pinyin: Lěng Shàojié
+  gender: m
+  born: 1963-04-16
+  birthplace: 吉林梨树
+  roles: [general]
+  status: missing
+  statusNote: 2026 年 1 月缺席二十届中纪委五次全会（中央社、台湾学者）；此后海军政委由胡瑜海代理（中国海事研究所推断）。官方没有任何说法。
+  tier: 2
+  headline: 海军副政委、陆军出身的中将，2026 年初起未再出席中纪委全会
+  ids: { wikidata: Q111693023 }
+  bio: >-
+    陆军政工干部出身，长期在原沈阳军区，历任装甲 3 师、115 师政委，2018 年任陆军后勤部政委，2021 年 8 月任中部战区副政委兼政治工作部主任并晋升中将，2024 年 12 月转任海军副政委。
+    中国海事研究所称他 2025 年初被确认为海军党委书记，接替袁华智；2026 年 1 月他缺席中纪委全会。
+  positions:
+    - { title: 装甲 3 师政委、115 师政委, sys: army, from: 2010-05, cite: k07-wiki-leng-shaojie }
+    - { title: 北部战区陆军政治工作部副主任, sys: army, from: 2016-01, to: 2018-09, cite: k07-wiki-leng-shaojie }
+    - { title: 陆军后勤部政委, sys: army, from: 2018-09, to: 2021-08, cite: k07-wiki-leng-shaojie }
+    - { title: 中部战区副政委兼政治工作部主任, sys: army, from: 2021-08, to: 2024-12, cite: k07-wiki-leng-shaojie }
+    - { title: 海军副政委, sys: army, from: 2024-12, cite: k07-wiki-leng-shaojie }
+    - { title: 海军党委书记（中国海事研究所认定）, sys: army, from: 2025-01, cite: k07-cmsi-2025-09-leng-shaojie }
+  cites: [wd-Q111693023, k07-wiki-leng-shaojie, k07-cmsi-2025-09-leng-shaojie, c12-cna-2026-01-15-ccdi-absent, cs4-iccs-411-acting-generals, cs7-cmsi-2026-07-zhang-zheng]

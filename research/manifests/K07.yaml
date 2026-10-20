@@ -1,0 +1,194 @@
+# K07: missing cards (CMC discipline chief, 2025 CPPCC / provincial congress removals, 2026 NPC notice, U10 people, navy commissars)
+web:
+  # --- official ---
+  - id: k07-xinhua-2025-12-24-cppcc
+    title: 王沪宁主持召开全国政协主席会议
+    publisher: 新华网
+    date: 2025-12-24
+    voice: official
+    url: https://www.news.cn/politics/leaders/20251224/9d400b49c1f14cee9ce5b6d899254ff9/c.html
+    start: 新华社北京12月24日电
+    end: 第十五次会议追认。
+  - id: k07-cec-2022-09-27-zeng-yi
+    title: 中国电子信息产业集团有限公司主要负责同志调整
+    publisher: 中国电子信息产业集团有限公司
+    date: 2022-09-27
+    voice: official
+    url: https://www.cec.com.cn/1801.html
+    start: 2022年9月27日下午
+    end: 规定办理。
+  - id: k07-lnd-2025-12-27-gao-tao
+    title: 辽宁省人民代表大会常务委员会公告〔十四届〕第四十九号
+    publisher: 辽宁日报
+    date: 2025-12-27
+    voice: official
+    url: https://epaper.lnd.com.cn/lnrbepaper/pad/con/202512/27/content_312085.html
+    start: 盘锦市人大常委会决定罢免高涛
+    end: 特此公告。
+  - id: k07-anhuinews-2026-01-01-zhang-hongwen
+    title: 安徽省人民代表大会常务委员会公告（十四届）第七十号
+    publisher: 中安在线（安徽日报）
+    date: 2026-01-01
+    voice: official
+    url: http://ah.anhuinews.com/szxw/202601/t20260101_9010105.html
+    start: 由合肥市选出的安徽省第十四届人民代表大会代表朱雪松
+    end: 特此公告。
+  - id: k07-xinhua-2026-02-03-huang-wei
+    title: 贵州省遵义市委副书记、市长黄伟接受纪律审查和监察调查
+    publisher: 新华网
+    date: 2026-02-03
+    voice: official
+    url: http://www.news.cn/20260203/f9fd2e95bb62418f895ecb5fe1279d48/c.html
+    start: 新华社贵阳2月3日电
+    end: 监察调查。
+  - id: k07-ce-2020-01-08-huang-wei
+    title: 黄伟当选遵义市市长(图|简历)
+    publisher: 中国经济网
+    date: 2020-01-08
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202001/08/t20200108_34075698.shtml
+    start: 经济日报-中国经济网遵义1月8日综合报道
+    end: 2020.01 -- 贵州省遵义市委副书记、市长
+  - id: k07-ce-2023-01-10-li-lanxiang
+    title: 李兰祥当选泰安市市长
+    publisher: 中国经济网（泰安人大发布）
+    date: 2023-01-10
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202301/10/t20230110_38337681.shtml
+    start: 山东省泰安市第十八届人民代表大会第二次会议
+    end: （简历来源：泰安市人民政府网站）
+  - id: k07-ce-2013-10-25-li-shaoping
+    title: 李少平任最高人民法院副院长(图|简历)
+    publisher: 中国经济网
+    date: 2013-10-25
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201310/25/t20131025_1669296.shtml
+    start: 中国经济网北京10月25日综合报道
+    end: 2013年10月，最高人民法院副院长、审判委员会委员、审判员。
+  - id: k07-chinapeace-2021-08-21-li-shaoping
+    title: 沈亮任最高人民法院副院长 李少平卸任
+    publisher: 中国长安网（最高人民法院）
+    date: 2021-08-21
+    voice: official
+    url: http://www.chinapeace.gov.cn/chinapeace/c100007/2021-08/21/content_12526877.shtml
+    start: 8月20日上午
+    end: 二、任命沈亮为最高人民法院副院长、第五巡回法庭庭长。
+  - id: k07-people-2023-12-11-sang-guowei
+    title: 桑国卫同志生平
+    publisher: 人民网（新华社）
+    date: 2023-12-11
+    voice: doc
+    url: http://politics.people.com.cn/n1/2023/1211/c1001-40136386.html
+    start: 新华社北京12月11日电
+    end: 他的高尚品德和崇高风范永远值得我们学习和怀念。
+  # --- media ---
+  - id: k07-thepaper-2024-02-07-zhao-zhiyong
+    title: 9年前降为科员的赵智勇被取消待遇：组织处理后仍不知敬畏
+    publisher: 澎湃新闻
+    date: 2024-02-07
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_26300763
+    excerpt: true
+    keep: [ 2024年2月7日，江西省委监委微信公众号, 决定按规定取消赵智勇享受的待遇, 此前，2023年11月20日 ]
+  - id: k07-udn-2025-12-24-cppcc
+    title: 8名大陸全國政協委員被撤銷資格 多人去職未露面（中央社）
+    publisher: 联合新闻网（中央社）
+    date: 2025-12-24
+    voice: zh
+    url: https://udn.com/news/story/7331/9224730
+    excerpt: true
+    keep: [ 目前正處於接受組織審查調查的階段, 曾毅出身兵工系統, 樊友山也在兵工系統任職多年, 劉國躍是電力系統出身, 俞培根是核電系統出身 ]
+  - id: k07-zaobao-2025-12-26-cppcc
+    title: 中国全国政协撤销八委员资格 七人曾任军工能源央企负责人
+    publisher: 联合早报
+    date: 2025-12-26
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20251226-8016509
+    excerpt: true
+    keep: [ 四人来自军工系统, 樊友山曾任中国电子科技集团有限公司总经理 ]
+  - id: k07-yicai-2025-06-yu-peigen
+    title: 突发｜东方电气官网撤下董事长俞培根信息
+    publisher: 第一财经
+    date: 2025-06
+    voice: zh
+    url: https://www.yicai.com/news/102650017.html
+    excerpt: true
+    keep: [ 俞培根的相关信息已被悄然撤下, 2011年10月，俞培根回到中核集团 ]
+  - id: k07-thepaper-2025-12-27-gao-tao
+    title: 高涛被罢免辽宁省人大代表职务，9个月前被免去副省长
+    publisher: 澎湃新闻
+    date: 2025-12-27
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_32263920
+    excerpt: true
+    keep: [ 此前，高涛已于今年3月被免去辽宁省副省长职务, 高涛，男，1969年11月出生, 高涛自2009年起任, 2019年，高涛出任, 2025年3月26日，辽宁省第十四届 ]
+  - id: k07-caixin-2025-12-27-gao-tao
+    title: 56岁辽宁原副省长高涛被罢免省人大代表
+    publisher: 财新网
+    date: 2025-12-27
+    voice: zh
+    url: https://china.caixin.com/2025-12-27/102397783.html
+    excerpt: true
+    keep: [ 此后高涛再未出现在公开报道中 ]
+  - id: k07-cna-2025-03-15-zhang-hongwen
+    title: 中國軍工系再有高官出事 合肥市委書記被免職
+    publisher: 中央通讯社
+    date: 2025-03-15
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202503150072.aspx
+    excerpt: true
+    keep: [ 在「失蹤」數月後據報已被免職, 已有3個月未露面, 50歲的張紅文曾長期任職 ]
+  - id: k07-ce-2024-03-18-zhang-hongwen
+    title: 张红文任合肥市委书记 虞爱华不再担任
+    publisher: 中国经济网
+    date: 2024-03-18
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/202403/18/t20240318_38938241.shtml
+    start: 中国经济网合肥3月18日综合报道
+    end: 2021年任安徽省委常委、副省长。
+  - id: k07-thepaper-2026-02-03-huang-wei
+    title: 贵州遵义市长黄伟被查，任现职已6年
+    publisher: 澎湃新闻
+    date: 2026-02-03
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_32521286
+    excerpt: true
+    keep: [ 黄伟，男，汉族，1972年1月出生, 黄伟早年长期在贵州省政协, 2019年10月，黄伟出任 ]
+  - id: k07-zaobao-2026-08-07-li-lanxiang
+    title: 2月突辞职消失 山东泰安原市长涉严重违纪违法至今未官宣被查
+    publisher: 联合早报
+    date: 2026-08-07
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260807-9485208
+    excerpt: true
+    keep: [ 首度披露，山东省泰安市委原副书记, 56岁的李兰祥是其中唯一, 责令代表辞职是介于, 这也是李兰祥首度被披露涉嫌严重违纪违法, 李兰祥最后一次公开以市长身份亮相, 李兰祥曾长期在山东潍坊市工作 ]
+  - id: k07-caixin-2026-08-08-npc-gazette
+    title: 全国人大常委会：六名将领涉嫌严重违纪违法 被罢免全国人大代表
+    publisher: 财新网
+    date: 2026-08-08
+    voice: zh
+    url: https://china.caixin.com/2026-08-08/102472447.html
+    excerpt: true
+    keep: [ 被终止十四届全国人大代表资格的李兰祥、侯建国, 李兰祥此前担任山东省泰安市长 ]
+  # --- scholars ---
+  - id: k07-cmsi-2025-09-leng-shaojie
+    title: "CMSI Note 16: Confirmed: ADM Yuan Huazhi Removed as the PLAN's Political Commissar"
+    publisher: China Maritime Studies Institute (via andrewerickson.com)
+    author: Andrew S. Erickson
+    date: 2025-09-04
+    voice: scholar
+    lang: en
+    url: https://www.andrewerickson.com/2025/09/cmsi-note-16-confirmed-adm-yuan-huazhi-removed-as-the-plans-political-commissar/
+    excerpt: true
+    keep: [ ADM Yuan appears to have been replaced by VADM Leng Shaojie, VADM Leng is a career PLA Army, VADM Leng spent much of his career, PRC media sources show him in a Navy uniform ]
+  # --- wiki ---
+  - { id: k07-wiki-zhang-shuguang-cmc, title: 张曙光 (解放军)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张曙光_(解放军)", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-liu-guoyue, title: 刘国跃（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/刘国跃", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-fan-youshan, title: 樊友山（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/樊友山", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-zeng-yi, title: 曾毅 (1965年)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/曾毅_(1965年)", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-yu-peigen, title: 俞培根（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/俞培根", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-gao-tao, title: 高涛（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/高涛", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-zhang-hongwen, title: 张红文（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张红文", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-li-shaoping, title: 李少平 (1956年)（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李少平_(1956年)", excerpt: true, keep: [ 年 ] }
+  - { id: k07-wiki-hu-yuhai, title: 胡瑜海（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/胡瑜海", excerpt: true, keep: [ 胡瑜海（ ] }
+  - { id: k07-wiki-leng-shaojie, title: 冷少杰（维基百科）, publisher: 维基百科, date: 2026-10, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/冷少杰", excerpt: true, keep: [ 年 ] }

@@ -1,0 +1,114 @@
+# K07 — case records for the cards built in this batch
+liu-guoyue:
+  sys: soe
+  grade: exec
+  retired: 2025-02
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k07-xinhua-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 国家能源集团原董事长，与曹建国、樊友山、曾毅、俞培根等军工、能源央企负责人同一次会议被撤销政协委员资格；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-xinhua-2025-12-24-cppcc, k07-udn-2025-12-24-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称，依政协章程，被撤销资格的 8 人明显涉嫌严重违纪违法，正接受组织审查调查；刘国跃 2025 年 2 月被邹磊接替时已 3 个月未公开露面, cite: k07-udn-2025-12-24-cppcc }
+  outcome: missing
+
+fan-youshan:
+  sys: central
+  grade: vice
+  retired: 2022-12
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k07-xinhua-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 兵器工业、中国电科出身，联合早报把他列为同批被撤销资格者中四名军工系统出身者之一；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-xinhua-2025-12-24-cppcc, k07-zaobao-2025-12-26-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称，依政协章程，被撤销资格的 8 人明显涉嫌严重违纪违法，正接受组织审查调查；樊友山的名字已从全国工商联领导栏目消失, cite: k07-udn-2025-12-24-cppcc }
+  outcome: missing
+
+zeng-yi:
+  sys: soe
+  grade: exec
+  retired: 2025-04
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k07-xinhua-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 兵器工业出身的中国电子原董事长，与曹建国、樊友山等军工央企负责人同批被撤销政协委员资格；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-xinhua-2025-12-24-cppcc, k07-zaobao-2025-12-26-cppcc]
+  voices:
+    - { voice: zh, text: 中央社称，依政协章程，被撤销资格的 8 人明显涉嫌严重违纪违法，正接受组织审查调查；曾毅 2025 年 4 月卸任董事长后去向一直未公布，尚未到退休年龄, cite: k07-udn-2025-12-24-cppcc }
+  outcome: missing
+
+yu-peigen:
+  sys: soe
+  grade: exec
+  retired: 2025-06
+  trigger: { kind: unknown, text: 全国政协主席会议只写撤销委员资格，未说明原因和线索来源, cite: k07-xinhua-2025-12-24-cppcc }
+  politics:
+    level: none
+    why: 核电系统出身的东方电气原董事长，与刘国跃等能源央企负责人同批被撤销政协委员资格；2026 年 8 月东方电气党组副书记宋致远被查，本站未见报道把两案联系起来
+    cites: [k07-xinhua-2025-12-24-cppcc, k07-udn-2025-12-24-cppcc, r08-people-2026-08-09-song-zhiyuan-probe]
+  voices:
+    - { voice: zh, text: 第一财经 2025 年 6 月发现东方电气官网管理团队页面已悄然撤下俞培根的信息, cite: k07-yicai-2025-06-yu-peigen }
+    - { voice: zh, text: 中央社称，依政协章程，被撤销资格的 8 人明显涉嫌严重违纪违法，正接受组织审查调查；俞培根被撤下官网时已近半年没有露面, cite: k07-udn-2025-12-24-cppcc }
+  outcome: missing
+
+gao-tao:
+  sys: local
+  grade: vice
+  trigger: { kind: unknown, text: 免职决定和罢免公告都未说明原因，官方没有立案通报, cite: k07-lnd-2025-12-27-gao-tao }
+  politics:
+    level: none
+    why: 中国电科出身、转任地方的副省长，属 2024 年底以来军工系统出身官员去职的同一波；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-thepaper-2025-12-27-gao-tao, k07-cna-2025-03-15-zhang-hongwen]
+  voices:
+    - { voice: zh, text: 财新称高涛 2025 年 3 月被免去副省长后再未出现在公开报道中, cite: k07-caixin-2025-12-27-gao-tao }
+  outcome: missing
+
+zhang-hongwen:
+  sys: local
+  grade: vice
+  trigger: { kind: unknown, text: 去职和罢免省人大代表都未说明原因，官方没有立案通报, cite: k07-anhuinews-2026-01-01-zhang-hongwen }
+  politics:
+    level: none
+    why: 航天科工出身的省委常委，中央社把他列为屡传出事的军工系统出身高官之一；这是系统性的一波，本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-cna-2025-03-15-zhang-hongwen]
+  voices:
+    - { voice: zh, text: 中央社引述港媒称，张红文 2024 年 12 月 10 日主持市委常委会会议后已 3 个月未露面，是近期屡传出事的军工系统出身高官之一, cite: k07-cna-2025-03-15-zhang-hongwen }
+  outcome: missing
+
+huang-wei-zunyi:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: k07-xinhua-2026-02-03-huang-wei }
+  politics:
+    level: none
+    why: 长期在贵州省委组织部任职、后任遵义市长的厅局级官员；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-xinhua-2026-02-03-huang-wei, k07-ce-2020-01-08-huang-wei]
+
+li-lanxiang:
+  sys: local
+  grade: bureau
+  trigger: { kind: unknown, text: 全国人大代表资格审查委员会的报告只写涉嫌严重违纪违法，未说明线索来源；官方没有立案通报, cite: a02-wikisource-npc-qualification-reports }
+  politics:
+    level: none
+    why: 长期在潍坊任职的泰安市长；本站未见把他与某位落马高官联系起来的可靠报道
+    cites: [k07-zaobao-2026-08-07-li-lanxiang]
+  voices:
+    - { voice: zh, text: 联合早报称，他是 2026 年 6 月那份代表资格报告终止资格的 15 人中唯一被责令辞去职务的代表，官方至今没有发布关于他受查的通报, cite: k07-zaobao-2026-08-07-li-lanxiang }
+  outcome: missing
+
+leng-shaojie:
+  sys: army
+  grade: lieutenant
+  trigger:
+    kind: unknown
+    text: 官方从未提及；只有中央社和台湾学者报道他缺席 2026 年 1 月的中纪委五次全会
+    cite: c12-cna-2026-01-15-ccdi-absent
+  politics:
+    level: none
+    why: 陆军出身、2024 年底调任海军副政委，中国海事研究所认为他接替了被撤下的海军政委袁华智；没有官方说法，也没有可靠报道指明他涉入哪一案
+    cites: [k07-cmsi-2025-09-leng-shaojie, c12-cna-2026-01-15-ccdi-absent]
+  voices:
+    - { voice: scholar, text: 台湾学者统计，二十届中纪委五次全会上军队系统 22 名中纪委委员仅 12 人出席，缺席的 10 人包括海军副政委冷少杰中将, cite: cs4-iccs-411-acting-generals }
+    - { voice: scholar, text: "VADM Leng is a career PLA Army (PLAA) officer with no experience in the PLAN.", zh: 冷少杰是职业陆军军官，没有任何海军经历。, quote: true, cite: k07-cmsi-2025-09-leng-shaojie }
+  outcome: missing
