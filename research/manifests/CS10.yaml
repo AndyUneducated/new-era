@@ -1,0 +1,132 @@
+# CS10 — two case studies: insiders in the political-legal and discipline systems; the central inspection tours
+web:
+  # insiders-law-enforcement
+  - id: cs10-chinapeace-2021-08-30-rectification-presser
+    title: 全国政法队伍教育整顿第二次新闻发布会（图文直播）
+    publisher: 中国长安网
+    date: 2021-08-30
+    voice: official
+    url: http://www.chinapeace.gov.cn/chinapeace/jyzd210830/yqfb.shtml
+    start: 开展全国政法队伍教育整顿，是以习近平同志为核心的党中央
+    end: 河南省监狱管理局原二级巡视员郭震威滥用职权案。
+  - id: cs10-gmw-2021-08-19-second-batch
+    title: 全国第二批政法队伍教育整顿正式启动
+    publisher: 光明日报（中国共产党新闻网）
+    date: 2021-08-19
+    voice: official
+    url: http://dangjian.people.com.cn/n1/2021/0819/c117092-32199161.html
+    start: 本报北京8月18日电
+    end: 政法干部交流轮岗机制等制度机制。
+  - id: cs10-xinhua-2022-01-17-rectification-summary
+    title: 郭声琨在全国政法队伍教育整顿总结会上强调 总结巩固深化政法队伍教育整顿成果
+    publisher: 新华网
+    date: 2022-01-17
+    voice: official
+    url: http://www.xinhuanet.com/politics/leaders/2022-01/17/c_1128272030.htm
+    start: 新华社北京1月17日电
+    end: 赵克志、周强、张军出席。
+  - id: cs10-chinapeace-2022-05-05-rectification-2022
+    title: 2022年巩固全国政法队伍教育整顿成果 推进全面从严管党治警10项重点工作
+    publisher: 中国长安网
+    date: 2022-05-05
+    voice: official
+    url: http://www.chinapeace.gov.cn/chinapeace/c100007/2022-05/05/content_12623199.shtml
+    start: 2022年是巩固全国政法队伍教育整顿成果的开局之年
+    end: 纯洁净化政法队伍，确保取得实实在在成效。
+  - id: cs10-xinhua-2023-02-24-ccdi-rectification
+    title: 李希在全国纪检监察干部队伍教育整顿动员部署会议上强调 以彻底自我革命精神开展教育整顿
+    publisher: 新华网
+    date: 2023-02-24
+    voice: official
+    url: https://www.news.cn/2023-02/24/c_1129395272.htm
+    start: 新华社北京2月24日电
+    end: 刘金国主持会议。
+  - id: cs10-xinhua-2024-01-25-ccdi-cadres-2023
+    title: 中央纪委国家监委通报2023年对纪检监察干部监督检查审查调查情况
+    publisher: 新华网
+    date: 2024-01-25
+    voice: official
+    url: http://www.news.cn/legal/20240125/b2babd12b59149108dd6d37c5a5b48ea/c.html
+    start: 新华社北京1月25日电
+    end: 运用第四种形态处理562人。
+  - id: cs10-people-2025-01-22-ccdi-cadres-2024
+    title: 中央纪委国家监委通报2024年对纪检监察干部监督检查审查调查情况
+    publisher: 人民网（人民日报）
+    date: 2025-01-22
+    voice: official
+    url: http://politics.people.com.cn/n1/2025/0122/c1001-40406533.html
+    start: 本报北京1月21日电
+    end: 运用第四种形态处理435人。
+  # central-inspection
+  - id: cs10-xinhua-2015-02-06-sinopec-feedback
+    title: 中央第六巡视组向中国石化反馈专项巡视情况
+    publisher: 新华网（中央纪委监察部网站）
+    date: 2015-02-06
+    voice: official
+    url: http://www.xinhuanet.com/politics/2015-02/06/c_1114287008.htm
+    start: 根据中央巡视工作领导小组的部署，中央第六巡视组
+    end: 通过视频在分会场列席会议。
+  - id: cs10-people-2015-03-02-first-round-soe
+    title: 中央首轮巡视已进驻20家央企 两大看点值得关注
+    publisher: 人民网
+    date: 2015-03-02
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0302/c64371-26621971.html
+    start: 中国共产党新闻网北京3月2日电
+    end: 将加强对国企领导的信号。
+  - id: cs10-ce-2015-03-09-first-round-leaders
+    title: 2015年中央首轮巡视组全部进驻26家央企（附组长名单、联系方式）
+    publisher: 中国经济网
+    date: 2015-03-09
+    voice: official
+    url: http://district.ce.cn/newarea/sddy/201503/09/t20150309_4764512.shtml
+    start: 中国经济网编者按
+    end: 027-88703177
+  - id: cs10-people-2013-11-01-li-xiaohong
+    title: 黎晓宏任中央巡视工作领导小组办公室主任（图/简历）
+    publisher: 人民网
+    date: 2013-11-01
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/1101/c139617-23397601.html
+    start: 中国共产党新闻网北京11月1日电
+    end: 2013年7月不再担任证监会纪委书记。
+  - id: cs10-thepaper-2018-03-06-li-xiaohong
+    title: 中央巡视办原主任黎晓宏：“打虎”没有指标要求
+    publisher: 澎湃新闻（中国新闻网转载）
+    date: 2018-03-06
+    voice: official
+    url: http://www.chinanews.com/gn/2018/03-06/8461198.shtml
+    start: 3月5日，全国政协十三届一次会议进入第三天
+    end: 黎晓宏卸任有关职务。
+  - id: cs10-caixin-2017-11-30-wang-hongjin
+    title: 央行原纪检组长王鸿津任中央巡视办主任
+    publisher: 财新网
+    date: 2017-11-30
+    voice: zh
+    url: https://china.caixin.com/m/2017-11-30/101178551.html
+    excerpt: true
+    keep: [已于9月接替黎晓宏, 中央巡视工作领导小组办公室（下称中央巡视办）, 两任中央巡视办主任均曾担任]
+  - id: cs10-wiki-li-xiaohong
+    title: 黎晓宏（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/黎晓宏
+    excerpt: true
+    keep: [2007年3月，任北京市政府秘书长, 2013年10月，任中央巡视工作领导小组办公室主任, 与董宏合著的专著, 2026年6月2日]
+  - id: cs10-diplomat-2025-03-local-corruption
+    title: How Local Corruption Evolved in China Under Xi Jinping
+    publisher: The Diplomat
+    date: 2025-03-01
+    voice: west
+    lang: en
+    url: https://thediplomat.com/2025/03/how-local-corruption-evolved-in-china-under-xi-jinping/
+    excerpt: true
+    keep: [Inspection teams focus solely on reviewing the process of implementation, eat in the local government, Inspectors can take down local leaders with corruption charges]
+  - id: cs10-chinanews-2025-10-14-xu-chuanzhi
+    title: 中央巡视组原副部级巡视专员许传智被查
+    publisher: 中国新闻网
+    date: 2025-10-14
+    voice: official
+    url: https://www.chinanews.com.cn/gn/2025/10-14/10498154.shtml
+    start: 中新社北京10月14日电
+    end: 许传智担任中央巡视组组长。(完)

@@ -1,0 +1,70 @@
+# CS10 — events for central-inspection (the inspection system since 2013, and inspectors who fell) and insiders-law-enforcement (the 2021 political-legal rectification and the 2023 discipline-cadre rectification)
+- id: cs10-2013-inspection-reform
+  date: 2013-05-17
+  end: 2013-12
+  title: 中央巡视动员暨培训会议召开，新一轮巡视启动
+  lane: purge
+  summary: 2013年5月17日，中央巡视工作动员暨培训会议在京召开，新一轮中央巡视正式启动。王岐山在会上要求巡视组当好党中央的“千里眼”，找出“老虎”和“苍蝇”。中央巡视办介绍，新办法是组长、巡视对象、巡视组与对象的关系都不固定，建组长库，一次一授权。当年10个巡视组分两轮巡视20个地方和单位，有价值的线索比过去增加5倍；据此立案的有廖少华、郭有明、陈柏槐、陈安众、童名谦、戴春宁。
+  people: [wang-qishan, liao-shaohua, guo-youming, chen-baihuai, chen-anzhong, tong-mingqian, dai-chunning]
+  cites: [r01-gov-2014-01-09-inspection-review]
+
+- id: cs10-2015-soe-first-round
+  date: 2015-02-11
+  end: 2015-03-06
+  title: 2015年首轮巡视专巡26家央企，“一托二”
+  lane: purge
+  summary: 2015年2月11日的中央巡视工作动员部署会确定，当年首轮巡视全部针对央企，13个组“一托二”巡视26家，3月6日全部进驻。第二组巡视中石油、中海油，第十一组（组长张化为）巡视大唐、国电，第十二组（组长董宏）巡视中国电信、中国移动。中央纪委称，2015年被查的9名央企高管中有6人所在企业当年接受巡视，包括中石油廖永远、中海油吴振芳、武钢邓崎琳和中国电信冷荣泉、常小兵。张化为、董宏后来落马。
+  people: [zhang-huawei, dong-hong, liao-yongyuan, wu-zhenfang, deng-qilin, leng-rongquan, chang-xiaobing]
+  cites: [cs10-people-2015-03-02-first-round-soe, cs10-ce-2015-03-09-first-round-leaders, r02-people-2016-01-02-ccdi-2015-tigers]
+
+- id: cs10-2016-he-jiatie-demoted
+  date: 2016-02-04
+  title: 中央巡视组原副组长贺家铁因泄露巡视秘密被降级
+  lane: purge
+  summary: 2016年2月4日，中央纪委通报湖北省委原常委、组织部长贺家铁“特别是担任中央巡视组副组长期间”，严重违反政治纪律和政治规矩，泄露巡视工作秘密，并违规出入私人会所、用公款支付个人费用，给予撤销党内职务、行政撤职处分，降为正厅级非领导职务。他2013年、2014年两度任中央巡视组副组长。维基百科称他是首个被处分的中央巡视组领导成员。
+  people: [he-jiatie]
+  cites: [r03-ccdi-2016-02-04-he-jiatie, r03-wiki-he-jiatie]
+
+- id: cs10-2017-zhang-huawei-probe
+  date: 2017-04-17
+  end: 2019-05-27
+  title: 中央巡视组原巡视专员张化为被查，判12年
+  lane: purge
+  summary: 2017年4月17日，中央纪委通报中央巡视组原副部级巡视专员张化为接受组织审查。8月的开除通报称他“长期利用巡视权违规干预插手被巡视单位相关工作”，“知纪破纪、执纪违纪”。2019年5月27日，北京二中院认定他2006年至2014年在中央纪委、中组部巡视组和中央巡视组任上受贿3284.93万余元，判处有期徒刑12年。2015年首轮央企专项巡视中，他任第十一巡视组组长。
+  people: [zhang-huawei]
+  cites: [r03-ccdi-2017-04-17-zhang-huawei-probe, r03-ccdi-2017-08-02-zhang-huawei-expel, r03-court-2019-05-27-zhang-huawei-verdict, cs10-ce-2015-03-09-first-round-leaders]
+
+- id: cs10-2020-dong-hong-probe
+  date: 2020-10-02
+  end: 2022-01-28
+  title: 中央巡视组原副组长董宏被查，受贿4.63亿判死缓
+  lane: purge
+  summary: 2020年10月2日，中央纪委国家监委宣布中央巡视组原副部级巡视专员董宏接受审查调查。2021年4月的开除通报称他“大搞迷信活动，违规干预和插手执纪执法活动”。2022年1月28日，青岛中院认定他1999年至2020年利用任北京市政府副秘书长、中央巡视组副组长等职务便利受贿4.63亿余元，因自首判处死缓。2015年他任第十二巡视组组长，巡视中国电信和中国移动。美国之音称他是王岐山的老部下。
+  people: [dong-hong, wang-qishan]
+  cites: [r04-ccdi-2020-10-02-dong-hong-probe, r04-ccdi-2021-04-12-dong-hong-expel, r04-court-2022-01-28-dong-hong-verdict, cs10-ce-2015-03-09-first-round-leaders, c10-voa-2020-10-02-dong-hong]
+
+- id: cs10-2021-rectification-first-batch
+  date: 2021-08-30
+  end: 2022-01-16
+  title: 政法队伍教育整顿第一批处理17.8万人，第二批转入中央和省级
+  lane: purge
+  summary: 2021年8月30日，全国政法队伍教育整顿领导小组办公室公布第一批结果：2月底起在市县两级开展，270万名政法干警参加；截至7月31日处理处分干警178431人，19847人主动投案，立案审查调查49163人，留置2875人，移送司法机关1562人，处理处分厅局级干部195人。第二批8月中旬启动，覆盖中央政法委、中央政法单位和省级政法机关。2022年1月16日的总结会要求“全面彻底肃清流毒影响”。
+  people: [chen-yixin, guo-shengkun]
+  cites: [cs10-chinapeace-2021-08-30-rectification-presser, cs10-gmw-2021-08-19-second-batch, cs10-xinhua-2022-01-17-rectification-summary]
+
+- id: cs10-2023-ccdi-rectification
+  date: 2023-02-24
+  end: 2024-01-25
+  title: 全国纪检监察干部队伍教育整顿启动
+  lane: purge
+  summary: 2023年2月24日，全国纪检监察干部队伍教育整顿动员部署会议召开，李希要求坚决查处“两面人”、坚决防治“灯下黑”，“严肃认真坚决清理门户”。2024年1月中央纪委国家监委通报，2023年全国立案纪检监察干部8977人，处分7817人，移送司法机关474人，其中处分厅局级干部207人、县处级1382人；2024年立案3375人，处分3917人；2025年全系统立案4119人、留置313人。
+  people: [li-xi]
+  cites: [cs10-xinhua-2023-02-24-ccdi-rectification, cs10-xinhua-2024-01-25-ccdi-cadres-2023, cs10-people-2025-01-22-ccdi-cadres-2024, b06-xinhua-2026-01-12-li-xi-ccdi-report]
+
+- id: cs10-2026-li-xiaohong-probe
+  date: 2026-06-02
+  title: 中央巡视办原主任黎晓宏被查
+  lane: purge
+  summary: 2026年6月2日，中央纪委国家监委宣布中央巡视工作领导小组办公室原主任黎晓宏接受纪律审查和监察调查。他2007年起任北京市政府秘书长，时任市长为王岐山，2011年任证监会纪委书记；2013年首轮巡视任中央第七巡视组副组长，同年10月起任中央巡视办主任，2014年为中央巡视工作领导小组成员，2017年由王鸿津接任。他与董宏合著《金融反腐论》。他是十八届中央巡视全覆盖期间的巡视办主任。
+  people: [li-xiaohong-xunshi, wang-qishan, dong-hong]
+  cites: [t02-xinhua-2026-06-02-li-xiaohong-probe, cs10-people-2013-11-01-li-xiaohong, cs10-thepaper-2018-03-06-li-xiaohong, cs10-caixin-2017-11-30-wang-hongjin, cs10-wiki-li-xiaohong]

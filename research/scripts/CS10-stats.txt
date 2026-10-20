@@ -1,0 +1,256 @@
+## sys=law records: 54
+grade: vice=38 bureau=8 major=4 minister=3 state=1
+outcome: years=20 life=8 disciplined=7 death-life=7 expelled=5 probe=4 death-suspended=2 death=1
+status: detained=36 purged=17 dead=1
+vice+ (state/minister/vice): 42; outcome years=16 life=8 death-life=7 disciplined=5 expelled=3 death-suspended=2 probe=1
+vice+ by first-fall year: 2021=6 2022=5 2017=5 2020=4 2024=4 2019=4 2013=3 2025=3 2016=2 2015=2 2018=1 2012=1 2014=1 2023=1
+vice+ death/death-life/death-suspended: 9 孙力军(death-life) 傅政华(death-life) 王立科(death-life) 刘彦平(death-life) 武长顺(death-life) 李文喜(death-life) 王大伟(death-life) 陆克华(death-suspended) 刘跃进(death-suspended)
+vice+ life or heavier: 17
+vice+ sentenced: 33; of which life or heavier 17
+vice+ trigger=surrender: 3 王立科 杨发森 蒙永山
+vice+ first fall within rectification 2021-02-27..2022-01-16: 5 傅政华2021-10-02 刘新云2021-04-09 蒙永山2021-06-02 孟祥2021-07-16 甘荣坤2021-06-01
+vice+ first fall after 2022-01-16: 13
+vice+ first fall before 2021-02-27: 24
+	2012-09-24	wang-lijun	王立军	vice	years	15	重庆市原副市长、公安局长，2012 年“王立军事件”当事人
+	2013-01-12	wu-yongwen	吴永文	vice	probe		湖北省委原常委、政法委书记兼公安厅长（2007–2012）
+	2013-12-01	zhou-yongkang	周永康	state	life		中央政治局常委、中央政法委书记（2007–2012），2015 年以受贿等罪被判无期徒刑
+	2013-12-20	li-dongsheng	李东生	vice	years	15	公安部原副部长、中央防范和处理邪教问题领导小组办公室原主任
+	2014-07-20	wu-changshun	武长顺	vice	death-life		天津市公安局原局长、市政协原副主席
+	2015	ma-jian	马建	vice	life		国家安全部原副部长（2006–2015）
+	2015-07-12	xi-xiaoming	奚晓明	vice	life		最高人民法院原副院长
+	2016-04-16	zhang-yue	张越	vice	years	15	河北省委原常委、政法委书记（2008–2016）、公安部反邪教局原局长
+	2016-12-16	lu-enguang	卢恩光	vice	years	12	司法部原党组成员、政治部原主任
+	2017-03-01	chen-xu-shanghai	陈旭	vice	life		上海市人民检察院原检察长
+	2017-06	he-ting	何挺	vice	disciplined		重庆市原副市长、市公安局原局长，公安部刑侦局原局长
+	2017-07-24	xu-qianfei	许前飞	vice	disciplined		江苏省高级人民法院原院长、云南省高级人民法院原院长
+	2017-08-02	xia-chongyuan	夏崇源	vice	disciplined		公安部原党委委员、政治部主任
+	2017-10-14	wu-aiying	吴爱英	minister	disciplined		原司法部部长（2005–2017），2017 年因严重违纪被开除党籍
+	2018-10-07	meng-hongwei	孟宏伟	vice	years	13.5	公安部原副部长、国际刑警组织原主席
+	2019-07-17	yang-keqin	杨克勤	vice	years	13	吉林省人民检察院原检察长，中央政法委政法研究所原所长
+	2019-08-25	zhang-jian-ah	张坚	vice	years	15	安徽省高级人民法院原院长，湖北省司法厅原厅长
+	2019-12-01	ma-ming-nm	马明	vice	life		内蒙古自治区政协原副主席，原自治区副主席兼公安厅厅长
+	2019-12-14	zhao-shijie	赵仕杰	vice	disciplined		云南省高级人民法院原院长
+	2020-04-19	sun-lijun	孙力军	vice	death-life		公安部副部长（2018–2020），“孙力军政治团伙”头目，2022 年被判死缓并终身监禁
+	2020-06-14	deng-huilin	邓恢林	vice	years	15	重庆市原副市长、市公安局原局长
+	2020-08-18	gong-daoan	龚道安	vice	life		上海市原副市长、市公安局原局长
+	2020-10-24	wang-like	王立科	vice	death-life		江苏省委原政法委书记
+	2021-01-25	li-wenxi	李文喜	vice	death-life		辽宁省政协原副主席、辽宁省公安厅原厅长
+	2021-04-09	liu-xinyun	刘新云	vice	years	14	山西省原副省长兼公安厅长，孙力军政治团伙成员
+	2021-06-01	gan-rongkun	甘荣坤	vice	life		河南省委原常委、政法委书记
+	2021-06-02	meng-yongshan	蒙永山	vice	years	11	青海省人民检察院原检察长
+	2021-07-16	meng-xiang	孟祥	vice	years	12	最高人民法院审判委员会原委员、执行局原局长
+	2021-10-02	fu-zhenghua	傅政华	minister	death-life		北京市公安局局长（2010–2013）、公安部副部长、司法部部长（2018–2020），2022 年被判死缓并终身监禁
+	2022-03-01	wang-dawei-liaoning	王大伟	vice	death-life		辽宁省原副省长、公安厅原厅长
+	2022-03-12	liu-yanping	刘彦平	vice	death-life		驻国家安全部纪检监察组原组长
+	2022-03-21	shen-deyong	沈德咏	minister	years	15	原最高人民法院常务副院长，2022 年落马
+	2022-04-22	hu-yifeng	胡毅峰	vice	years	14	内蒙古自治区高级人民法院原院长
+	2022-06-01	zhang-bencai	张本才	vice	years	13	上海市人民检察院原检察长
+	2023-09-07	zheng-xuelin	郑学林	vice	years	15	最高人民法院审判委员会原委员、民事审判第一庭原庭长
+	2024-03-18	liu-yuejin-mps	刘跃进	vice	death-suspended		公安部原部长助理、禁毒局原局长
+	2024-04-30	liu-zhiqiang	刘志强	vice	years	13	司法部原党组成员、副部长，青海省原副省长、公安厅原厅长
+	2024-10-14	yang-fasen	杨发森	vice	life		青海省委原常委、政法委原书记
+	2024-11-04	lu-kehua	陆克华	vice	death-suspended		重庆市委原常委、政法委书记，住建部原副部长
+	2025-05	ye-hanbing	叶寒冰	vice	expelled		前四川副省长、公安厅长，2025 年落马
+	2025-06-09	gao-yichen	高以忱	vice	expelled		原中央防范和处理邪教问题领导小组办公室副主任，国家安全部原副部长
+	2025-11-20	bi-baowen	毕宝文	vice	expelled		黑龙江省政府原党组成员、副省长，黑龙江省公安厅原厅长
+
+## discipline insiders: 56
+grade: vice=22 bureau=14 minister=7 exec=6 lieutenant=5 none=1 general=1
+sys: local=26 central=10 finance=8 army=6 soe=3 law=2 other=1
+vice+ (incl. army general/lieutenant, soe/finance exec): 41
+outcome all: years=22 probe=9 life=7 expelled=7 disciplined=6 death-suspended=3 death-life=1 missing=1
+by year: 2024=9 2023=8 2025=7 2026=7 2014=6 2017=5 2019=3 2015=2 2016=2 2018=2 2022=2 2013=1 2020=1 2021=1
+2012-11..2017-10: 16  2017-10-25..2022-10: 9  2022-10-23..: 31
+	2013-12-29	li-chongxi	李崇禧	local	minister	years	四川省政协原主席、原省纪委书记
+	2014-02-27	jin-daoming	金道铭	local	vice	life	山西省委原副书记、省人大常委会原副主任
+	2014-07-05	xie-kemin	谢克敏	local	bureau	expelled	山西省监察厅原副厅长，此前主政高平 7 年
+	2014-07-23	yang-senlin	杨森林	local	bureau	expelled	山西省纪委原常务副书记
+	2014-09-25	xiao-bin	肖斌	local	bureau	years	衡阳市委原常委、纪委书记，衡阳破坏选举案中以玩忽职守获刑 3 年
+	2014-10-15	feng-lixiang	丰立祥	local	bureau	years	大同市委原书记，山西落马的 5 名市委书记之一
+	2014-11-28	zhu-mingguo	朱明国	local	minister	death-suspended	广东省政协原主席、原纪委书记
+	2015-04-01	zhong-shijian	钟世坚	local	vice	years	广东省纪委原副书记、省监察厅原厅长
+	2015-05-21	liu-hongjian-nanchong	刘宏建	local	bureau	years	南充市委原书记，任内发生南充拉票贿选案，以玩忽职守罪获刑 3 年
+	2016-02-04	he-jiatie	贺家铁	local	vice	disciplined	湖北省委原常委、组织部部长，中央巡视组原副组长
+	2016-04-19	kong-lingzhong	孔令中	local	vice	disciplined	贵州省政协原副主席、贵州省教育厅原厅长
+	2017-01-08	li-jianbo	李建波	central	vice	disciplined	交通运输部原党组成员，中央纪委驻交通运输部原纪检组组长
+	2017-04-17	zhang-huawei	张化为	central	vice	years	中央巡视组原副部级巡视专员
+	2017-06-20	qu-shuhui	曲淑辉	central	vice	disciplined	中央纪委驻民政部纪检组原组长、十八届中央纪委委员
+	2017-08-27	mo-jiancheng	莫建成	central	vice	years	中央纪委驻财政部纪检组原组长、江西省委原副书记
+	2017-10-09	liu-shengjie	刘生杰	army	lieutenant	disciplined	中央军委后勤保障部原副部长、总后勤部原副政委兼纪委书记，中将
+	2018-09-11	qiu-daming	邱大明	local	vice	years	吉林省纪委原副书记、省监委原副主任
+	2018-12-18	yang-xihuai	杨锡怀	local	bureau	disciplined	辽宁省纪委原副书记、省监委原副主任
+	2019-07-31	hu-huaibang	胡怀邦	finance	minister	life	原国家开发银行董事长，2019 年落马
+	2019-09-24	jiang-guowen	姜国文	local	vice	life	哈尔滨市政协原主席，哈尔滨市委原副书记、纪委原书记
+	2019-11-16	liu-jinming	刘金明	finance	bureau	years	原内蒙古银监局纪委书记、副局长，收受包商银行董事长李镇西千万房产，获刑 12 年
+	2020-10-02	dong-hong	董宏	central	vice	death-suspended	中央巡视组原副组长，王岐山旧部
+	2021-05-11	pan-jiahua	潘家华	central	vice	years	中央纪委原派驻国家烟草专卖局纪检组组长、国家烟草专卖局原党组成员
+	2022-03-12	liu-yanping	刘彦平	law	vice	death-life	驻国家安全部纪检监察组原组长
+	2022-03-21	shen-deyong	沈德咏	law	minister	years	原最高人民法院常务副院长，2022 年落马
+	2023-02-05	hao-hongjun	郝宏军	local	vice	life	大连市政协原主席、辽宁省纪委原副书记
+	2023-05-19	zhou-qingyu	周清玉	finance	exec	years	国家开发银行原党委委员、副行长，国开行原纪委书记
+	2023-06-25	xu-wenrong	徐文荣	soe	exec	years	中国石油天然气集团有限公司原党组副书记、副总经理
+	2023-07-06	wang-xuefeng-hebei	王雪峰	local	vice	years	河北省人大常委会原副主任、唐山市委原书记
+	2023-09-05	shang-liguang	商黎光	local	vice	life	山西省委原副书记
+	2023-09-15	liu-lixian	刘立宪	finance	exec	years	中国工商银行原纪委书记、最高检原检察技术局局长
+	2023-11-04	li-chao-hunan	李超	local	bureau	expelled	郴州市纪委原书记，为逃避查处结交政治骗子，反被骗走巨额财产
+	2023-12-09	chen-yuxiang	陈玉祥	local	bureau	years	河北省纪委原副书记、省监委原副主任
+	2024-02-05	long-fei	龙飞	soe	exec	years	南方电网原纪检监察组组长，此前任三峡集团纪检组长
+	2024-03-23	li-yuefeng	李钺锋	other	minister	life	台盟中央原常务副主席、十四届全国人大常委会原委员
+	2024-04-02	tang-yijun	唐一军	local	minister	life	前司法部长、江西省政协主席，2026 年被判无期徒刑
+	2024-04-03	zhang-ping-gz	张平	local	bureau	years	贵州省纪委原副书记、省监委原副主任，与前国家发改委主任张平同名
+	2024-06-07	xu-xiang-citic	徐翔	finance	none	expelled	中信集团原纪委委员、监事会办公室主任，“知纪违纪”的纪检干部
+	2024-07-05	liu-feng-cba	刘峰	finance	bureau	probe	中国银行业协会原秘书长、吉林银保监局原局长
+	2024-09-30	li-gang-zzb	李刚	central	vice	years	中央纪委国家监委驻中央组织部纪检监察组原组长，云南省委原常委、组织部部长，四川省原副省长
+	2024-10-10	chen-xiaobo	陈笑波	local	bureau	years	海南省纪委原副书记、省监委原副主任
+	2024-10-25	zhang-xiaoli	张孝礼	finance	exec	years	人保财险原监事会主席、纪委书记，“执纪违纪”
+	2025-03-21	wang-huimin	王会民	finance	vice	expelled	中央纪委国家监委驻中国证监会纪检监察组原组长，新疆维吾尔自治区人大常委会原副主任
+	2025-03-26	tang-yong-pla	唐勇	army	lieutenant	missing	中央军委纪委原副书记，中将
+	2025-04-03	long-xiang	龙翔	local	vice	death-suspended	南京市人大常委会原主任，做了二十多年纪检官员，受贿 2.61 亿被判死缓
+	2025-07-18	wang-zhibin	汪志斌	army	lieutenant	probe	火箭军纪委原书记，中将
+	2025-10-14	xu-chuanzhi	许传智	central	vice	years	中央巡视组原副部级巡视专员，宁夏回族自治区党委原常委、纪委书记，十九届中央纪委委员
+	2025-11-10	wang-renhua	王仁华	army	general	probe	中央军委政法委原书记，海军上将
+	2025-12-24	wang-jun-xz	王峻	local	vice	expelled	西藏自治区人大常委会原党组副书记、副主任，西藏自治区国土资源厅原厅长
+	2026-01-24	yang-hongyong	杨宏勇	soe	exec	expelled	哈尔滨电气集团原纪委书记、国家监委原驻哈电集团监察专员
+	2026-01-26	wang-donghai	王东海	army	lieutenant	probe	中央军委国防动员部原政委，中将
+	2026-05-31	yin-hongxing	尹红星	army	lieutenant	probe	南部战区陆军原政委，中将
+	2026-06-02	li-xiaohong-xunshi	黎晓宏	central	minister	probe	中央巡视工作领导小组办公室原主任
+	2026-06-16	jiang-hongwei	姜宏伟	local	bureau	probe	黑龙江省纪委副书记、省监委副主任
+	2026-07-06	liang-chaoping	梁潮平	central	bureau	probe	中国民用航空局原党组成员、纪检组组长
+	2026-10-08	zhang-shuofu	张硕辅	local	vice	probe	广州市委原书记、北京市纪委原书记
+site vice+ records 670; sentenced 395; life or heavier 158
+site vice+ sentenced excl. sys=law 362; life or heavier 141
+law-position holders (any sys) first fall in window: 7 傅政华/minister/2021-10-02 刘新云/vice/2021-04-09 蒙永山/vice/2021-06-02 薛恒/vice/2021-08-23 孟祥/vice/2021-07-16 杨福林/vice/2021-07-29 甘荣坤/vice/2021-06-01
+
+## phrases (texts cited by the person's own fall steps that name them)
+执纪违纪	19	li-chao-hunan zhong-shijian wang-zhongtian zhang-huawei qiu-daming jiang-guowen hao-hongjun pan-jiahua zhou-qingyu chen-yuxiang xu-chuanzhi wang-huimin li-jianbo zhang-ping-gz long-fei yang-hongyong zhang-xiaoli shang-liguang liu-lixian
+知纪违纪	2	yang-keqin xu-xiang-citic
+执法犯法	26	fu-zhenghua li-chao-hunan shen-deyong qiu-daming yang-keqin zhang-jian-ah jiang-guowen li-wenxi meng-yongshan xue-heng hu-yifeng zhang-bencai hao-hongjun meng-xiang zheng-xuelin chen-yuxiang bi-baowen xu-chuanzhi wang-huimin zhang-ping-gz long-fei yang-hongyong li-xiangang liu-yuejin-mps liu-lixian li-yong-cnooc
+知法犯法	2	liu-xinyun zhong-shijian
+干预司法	11	li-maorong shen-deyong wang-xiaoguang qiu-daming xing-yun yang-keqin song-xibin li-zaiyong yang-fulin guo-xingang zhao-zhiyong
+司法活动	41	zhou-jiangyong tang-renjian sun-shaocheng li-chao-hunan ma-jian tang-yijun shen-deyong cao-guangjing wang-lixia li-shisong xia-chongyuan he-ting mu-huaping wang-xiaolin wang-xiaoguang xing-yun yang-xihuai wang-yong-hi xiao-yi meng-yongshan xue-heng gong-jianhua song-xibin li-jiexiang hu-yifeng zhang-bencai zheng-hong-chongqing zhu-congjiu meng-xiang yang-fulin zheng-xuelin cui-baohua liu-xingtai zhang-zulin xu-chuanzhi gao-yichen long-xiang dong-yunhu gan-rongkun wang-fengchao cui-maohu
+以案谋私	5	xu-qianfei yang-keqin zhang-jian-ah meng-yongshan hu-yifeng
+跑风漏气	1	qiu-daming
+干扰巡视	2	fang-hongwei luo-jiamang
+妨碍巡视	1	zhou-laizhen
+对抗巡视	0	
+巡视整改	3	liu-haichang hu-huaibang li-guohua-unicom
+巡视工作秘密	5	li-zhenxi liu-jinming jia-qizhen xue-jining he-jiatie
+保护伞	5	li-zhiying wang-like liu-xinyun wen-guodong lou-he
+执纪违纪: in law vice+ 0/42 ; in discipline 18/56 li-chao-hunan zhong-shijian zhang-huawei qiu-daming jiang-guowen hao-hongjun pan-jiahua zhou-qingyu chen-yuxiang xu-chuanzhi wang-huimin li-jianbo zhang-ping-gz long-fei yang-hongyong zhang-xiaoli shang-liguang liu-lixian
+执法犯法: in law vice+ 12/42 fu-zhenghua shen-deyong yang-keqin zhang-jian-ah li-wenxi meng-yongshan hu-yifeng zhang-bencai meng-xiang zheng-xuelin bi-baowen liu-yuejin-mps; in discipline 12/56 li-chao-hunan shen-deyong qiu-daming jiang-guowen hao-hongjun chen-yuxiang xu-chuanzhi wang-huimin zhang-ping-gz long-fei yang-hongyong liu-lixian
+司法活动: in law vice+ 11/42 ma-jian shen-deyong xia-chongyuan he-ting meng-yongshan hu-yifeng zhang-bencai meng-xiang zheng-xuelin gao-yichen gan-rongkun; in discipline 6/56 li-chao-hunan tang-yijun shen-deyong yang-xihuai xu-chuanzhi long-xiang
+以案谋私: in law vice+ 5/42 xu-qianfei yang-keqin zhang-jian-ah meng-yongshan hu-yifeng; in discipline 0/56 
+
+## records 961; trigger kinds: unknown=739 chain=87 persecution=30 surrender=30 media=24 inspect=21 incident=20 report=9 audit=1
+inspect: 21; grade exec=7 vice=7 bureau=5 state=1 minister=1; sys soe=7 local=6 central=5 finance=3
+inspect by year: 2015=9 2013=5 2017=3 2014=2 2018=2
+	2013-10-28	liao-shaohua	廖少华	vice	years
+	2013-11-19	chen-baihuai	陈柏槐	vice	years
+	2013-11-27	guo-youming	郭有明	vice	years
+	2013-12-01	dai-chunning	戴春宁	bureau	death-suspended
+	2013-12-06	chen-anzhong	陈安众	vice	years
+	2014-08-29	bai-enpei	白恩培	minister	death-life
+	2014-08-29	an-dewu	安德武	exec	years
+	2015-03-16	liao-yongyuan	廖永远	exec	years
+	2015-04-02	wu-zhenfang	吴振芳	exec	probation
+	2015-04-17	leng-rongquan	冷荣泉	exec	probe
+	2015-04-27	wang-tianpu	王天普	exec	years
+	2015-08-29	deng-qilin	邓崎琳	exec	years
+	2015-09-16	zhang-yujun	张育军	vice	died
+	2015-11-13	yao-gang	姚刚	vice	years
+	2015-11-24	zhou-laizhen	周来振	vice	years
+	2015-12-27	chang-xiaobing	常小兵	exec	years
+	2017-02	bao-xuequan	鲍学全	bureau	expelled
+	2017-02	wang-yunge	王云戈	bureau	expelled
+	2017-07-14	sun-zhengcai	孙政才	state	life
+	2018-09-12	wang-suying	王素英	bureau	years
+	2018-10-31	feng-lizhi	冯立志	bureau	years
+vice+ records first fall 2012-11..2017-10-24: 196; trigger unknown=154 inspect=16 chain=15 report=5 incident=5 media=1
+named as inspection-clue cases in cs10-thepaper-2018-03-06-li-xiaohong:
+	sun-zhengcai	inspect
+	su-rong	report
+	zhou-benshun	unknown
+	wang-min	unknown
+	bai-enpei	inspect
+	wang-sanyun	unknown
+	huang-xingguo	unknown
+	lu-enguang	unknown
+named as inspection-clue cases in cs5-people-2015-04-12-inspection-findings:
+	su-rong	report
+	zhu-mingguo	unknown
+	wan-qingliang	unknown
+	jin-daoming	unknown
+	wu-changshun	unknown
+	qin-yuhai	unknown
+named as inspection-clue cases in r01-gov-2014-01-09-inspection-review:
+	liao-shaohua	inspect
+	guo-youming	inspect
+	chen-baihuai	inspect
+	chen-anzhong	inspect
+	tong-mingqian	incident
+	dai-chunning	inspect
+named as inspection-clue cases in r02-people-2016-01-02-ccdi-2015-tigers:
+	liao-yongyuan	inspect
+	wu-zhenfang	inspect
+	wang-tianpu	inspect
+	deng-qilin	inspect
+	leng-rongquan	inspect
+	chang-xiaobing	inspect
+	zhang-yujun	inspect
+	yao-gang	inspect
+	zhou-laizhen	inspect
+notice quotes mentioning 巡视: 26
+	2017-11-21	lu-wei	鲁炜	minister	2018-02-13	阳奉阴违、欺骗中央，目无规矩、肆意妄为，妄议中央，干扰中央巡视
+	2024-04-28	liu-haichang	刘海昌	bureau	2024-04-28	不落实巡视整改要求，对抗组织审查
+	2020-06-04	xue-jining	薛纪宁	bureau	2021-01-25	泄露巡视工作秘密，为其子换取利益
+	2015-10-07	su-shulin	苏树林	minister	2017-07-04	打探巡视消息，在党内搞非组织活动，对抗组织审查
+	2017-07-03	zhang-xiwu	张喜武	vice	2017-07-03	在党内选举中搞拉票等非组织活动，打探巡视信息
+	2019-07-31	hu-huaibang	胡怀邦	minister	2020-01-11	对党中央重大决策部署阳奉阴违，落实中央巡视整改要求不到位
+	2025-11-07	fang-hongwei	方红卫	vice	2026-07-07	对组织不忠诚不老实，履行全面从严治党主体责任不力，干扰巡视工作，对抗组织审查，搞迷信活动
+	2015-11-24	zhou-laizhen	周来振	vice	2016-01-19	干扰、妨碍巡视工作，对抗组织审查
+	2016-02-04	he-jiatie	贺家铁	vice	2016-02-04	特别是担任中央巡视组副组长期间，严重违反政治纪律和政治规矩，泄露巡视工作秘密
+	2017-01-11	yu-haiyan	虞海燕	vice	2017-06-04	搞团团伙伙，培植私人势力，对抗组织审查，拉拢腐蚀纪检干部和巡视干部，打探巡视信息
+	2017-05-23	yang-jiacai	杨家才	vice	2017-08-01	打探巡视和纪律审查信息，为个人职务提拔搞非组织活动
+	2017-04-17	zhang-huawei	张化为	vice	2017-08-02	长期利用巡视权违规干预插手被巡视单位相关工作，对抗组织审查 / 给中央纪委机关及中央巡视组良好形象造成负面影响
+	2018-01-23	wang-xiaolin	王晓林	vice	2018-04-26	严重违反政治纪律和政治规矩，违规打探巡视信息
+	2018-06-16	sun-bo-csic	孙波	exec	2018-12-17	背离党中央的要求，弄虚作假，损害国有企业利益；在接受巡视期间，隐瞒实情，欺骗组织
+	2018-09-11	qiu-daming	邱大明	vice	2018-12-20	干扰审查调查工作，泄露中央巡视移交线索处置情况，违规干预、插手违纪违法案件查处并跑风漏气，对抗组织审查
+	2020-08-18	luo-jiamang	骆家駹	exec	2021-01-04	理想信念丧失，政治意识淡漠，干扰巡视工作、对抗组织审查
+	2021-11-29	gong-jianhua	龚建华	vice	2022-05-10	打探中央巡视、纪律审查事项
+	2024-08-02	dong-guoqun	董国群	none	2025-02-15	将私人会所当作“个人食堂”，在中央巡视期间仍多次接受管理服务对象宴请
+	2024-01-25	wang-zhibin-icbc	王芝斌	bureau	2024-07-22	打探、窃取纪律审查和巡视秘密，私自留存信访涉密材料
+	2015-08-29	deng-qilin	邓崎琳	exec	2016-01-08	干扰、妨碍巡视工作，对抗组织审查，长期搞迷信活动
+	2015-11-04	si-xianmin	司献民	exec	2016-02-03	严重违反政治纪律，干扰巡视工作，严重违反中央八项规定精神，用公款打高尔夫球
+	2015-12-27	chang-xiaobing	常小兵	exec	2016-07-11	干扰中央专项巡视工作，没有认真履行全面从严治党主体责任，对中央巡视组反馈的问题整改落实不力
+	2016-02-06	cai-xiyou	蔡希有	exec	2017-07-06	干扰中央巡视工作，对抗组织审查
+	2017-02-23	wang-yincheng	王银成	exec	2017-07-05	干扰巡视和审计工作，对抗组织审查，拉拢腐蚀组工干部
+	2024-03-17	li-xiangang	李显刚	vice	2024-09-11	规矩意识缺失，违规打探巡视信息，违规留存涉密文件
+	2022-02-18	li-guohua-unicom	李国华	exec	2022-09-30	不落实中央巡视整改要求，处心积虑对抗组织审查
+
+## inspectors
+he-jiatie	贺家铁	2016-02-04	vice	disciplined		purged	湖北省委原常委、组织部部长，中央巡视组原副组长
+		2016-02-04 中央纪委通报其担任中央巡视组副组长期间泄露巡视工作秘密等问题，给予撤销党内职务、行政撤职处分，降为正厅级非领导职务 [r03-ccdi-2016-02-04-he-jiatie]
+zhang-huawei	张化为	2017-04-17	vice	years	12	detained	中央巡视组原副部级巡视专员
+		2017-04-17 中央纪委通报中央巡视组原副部级巡视专员张化为涉嫌严重违纪，正接受组织审查 [r03-ccdi-2017-04-17-zhang-huawei-probe]
+		2017-08-02 被开除党籍，取消退休待遇，涉嫌受贿犯罪问题移送司法机关 [r03-ccdi-2017-08-02-zhang-huawei-expel]
+		2019-05-27 北京市第二中级人民法院以受贿罪判处其有期徒刑十二年，并处罚金人民币二百万元；认定受贿 3284.93 万余元 [r03-court-2019-05-27-zhang-huawei-verdict]
+dong-hong	董宏	2020-10-02	vice	death-suspended		detained	中央巡视组原副组长，王岐山旧部
+		2020-10-02 中央纪委国家监委宣布中央巡视组原副部级巡视专员董宏涉嫌严重违纪违法，接受纪律审查和监察调查 [r04-ccdi-2020-10-02-dong-hong-probe]
+		2021-04-12 被开除党籍，取消其享受的待遇，涉嫌犯罪问题移送检察机关审查起诉 [r04-ccdi-2021-04-12-dong-hong-expel]
+		2022-01-28 青岛市中级人民法院以受贿罪判处死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产；认定受贿 4.63 亿余元，系自首 [r04-court-2022-01-28-dong-hong-verdict]
+liu-yanping	刘彦平	2022-03-12	vice	death-life		detained	驻国家安全部纪检监察组原组长
+		2022-03-12 中纪委宣布其涉嫌严重违纪违法，接受审查调查 [c03-ccdi-2022-03-12-liu-yanping-probe]
+		2022-09-01 被开除党籍、开除公职 [c03-people-2022-09-01-liu-yanping-expel]
+		2023-01-10 长春中院以受贿罪判处死缓并终身监禁 [c03-xinhua-2023-01-10-liu-yanping-verdict]
+xu-chuanzhi	许传智	2025-10-14	vice	years	12	detained	中央巡视组原副部级巡视专员，宁夏回族自治区党委原常委、纪委书记，十九届中央纪委委员
+		2025-10-14 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查 [r07-people-2025-10-14-xu-chuanzhi-probe]
+		2026-01-04 被开除党籍、取消享受的待遇，涉嫌受贿、利用影响力受贿犯罪问题移送检察机关审查起诉 [r07-people-2026-01-04-xu-chuanzhi-expel]
+		2026-05-11 宁波市人民检察院以涉嫌受贿、利用影响力受贿罪向宁波市中级人民法院提起公诉 [c15-spp-2026-05-11-xu-chuanzhi-charge]
+		2026-10-08 宁波中院以受贿罪、利用影响力受贿罪决定执行有期徒刑 12 年，受贿 1072 万余元 [r07-people-2026-10-08-xu-chuanzhi-verdict]
+li-xiaohong-xunshi	黎晓宏	2026-06-02	minister	probe		purged	中央巡视工作领导小组办公室原主任
+		2026-06-02 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查 [t02-xinhua-2026-06-02-li-xiaohong-probe]
+liu-lixian	刘立宪	2023-09-15	exec	years	8	detained	中国工商银行原纪委书记、最高检原检察技术局局长
+		2023-09-15 中央纪委国家监委通报其主动投案，接受纪律审查和监察调查 [r05-xinhua-2023-09-15-liu-lixian-probe]
+		2024-01-19 被开除党籍 [t02-ccdi-2024-01-19-liu-lixian-expel]
+		2024-05-14 德州市检察院以涉嫌受贿罪提起公诉 [t02-spp-2024-05-14-liu-lixian-indict]
+		2024-12-24 德州中院以受贿罪判处有期徒刑 8 年 [t02-court-2024-12-24-liu-lixian-verdict]
