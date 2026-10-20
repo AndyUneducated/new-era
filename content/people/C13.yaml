@@ -648,11 +648,12 @@
   headline: 山东泰安原市委书记，1996 年被判死缓，其保外就医连续续保成为增设终身监禁的立法理由之一
   ids: { wikidata: Q15929171 }
   bio: >-
-    山东人，南京大学化学系毕业，1990 年任泰安市长，同年 6 月升任市委书记，1995 年 11 月被开除党籍、开除公职，1996 年被判死缓。
+    山东人，南京大学化学系毕业，1990 年 2 月任泰安市长，1991 年 3 月以市委副书记主持市委工作，6 月任市委书记；1995 年 1 月被山东省委撤销市委书记等职务，11 月被开除党籍、开除公职，1996 年被判死缓。
     2015 年刑法修正案草案三审时，新华网的报道举例说他经批准保外就医 1 年，此后连续 7 年续保，作为刑罚执行漏洞的例证。
   positions:
-    - { title: 中共泰安市委书记, sys: party, place: 山东泰安, from: 1990-06, to: 1995-11, cite: c13-wiki-hu-jianxue }
-  cites: [wd-Q15929171, c13-wiki-hu-jianxue, cs5-npc-2015-08-26-life-draft]
+    - { title: 泰安市市长, sys: gov, place: 山东泰安, from: 1990-02, to: 1991-07, cite: fx1-sdchorography-taian-1990 }
+    - { title: 中共泰安市委书记, sys: party, place: 山东泰安, from: 1991-06, to: 1995-01, cite: fx1-sdchorography-taian-1995 }
+  cites: [wd-Q15929171, c13-wiki-hu-jianxue, cs5-npc-2015-08-26-life-draft, fx1-sdchorography-taian-1990, fx1-sdchorography-taian-1991, fx1-sdchorography-taian-1995]
 
 - id: lin-chongzhong
   name: 林崇中

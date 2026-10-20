@@ -2,7 +2,7 @@
 web:
   - { id: rl2-wiki-southern-tc, title: 中国人民解放军南部战区（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国人民解放军南部战区", excerpt: true, keep: [ "王秀斌 上将（2021年6月—2024年7月）", "吴亚男 陆军上将（2024年7月—2025年10月）", "王建武 上将（2018年12月—2023年12月）", "王文全 陆军上将（2023年12月—2025年10月）", "王东海 中将（2021年3月—2021年12月", "方永祥 中将（2021年12月—" ] }
   - { id: rl2-wiki-eastern-tc, title: 中国人民解放军东部战区（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国人民解放军东部战区", excerpt: true, keep: [ "林向阳 陆军上将（2022年1月—2025年3月）", "何平 上将（2017年8月—2023年6月）", "刘青松 海军上将（2023年6月—2025年9月）" ] }
-  - { id: rl2-wiki-caep, title: 中国工程物理研究院（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国工程物理研究院", excerpt: true, keep: [ "赵宪庚（2007年8月—2015年9月", "刘仓理（2015年9月—2024年6月" ] }
+  - { id: rl2-wiki-caep, title: 中国工程物理研究院（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国工程物理研究院", excerpt: true, keep: [ "赵宪庚（2007年8月—2015年9月", "刘仓理（2015年9月—2024年6月", "张克俭（2007年12月—2015年8月", "杭义洪（2015年9月—2024年7月" ] }
   - { id: rl2-wiki-nfra, title: 国家金融监督管理总局（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/国家金融监督管理总局", excerpt: true, keep: [ "李云泽（2023年5月—2026年4月）[10]", "丁向群（2026年6月—）" ] }
   - { id: rl2-wiki-circ, title: 中国保险监督管理委员会（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国保险监督管理委员会", excerpt: true, keep: [ "吴定富（2002年10月－2011年10月）", "项俊波（2011年10月－2017年4月）" ] }
   - { id: rl2-wiki-boc, title: 中国银行（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/中国银行", excerpt: true, keep: [ "中国银行总经理/行长", "陈四清（2014年2月－2017年8月）", "刘连舸（2018年6月－2019年6月）" ] }

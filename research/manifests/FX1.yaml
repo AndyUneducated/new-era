@@ -1,0 +1,51 @@
+# FX1 (round 18): old errors and pending checks from research/queue.md "第十七轮整合".
+web:
+  # ---------- 雷凡培 ----------
+  - id: fx1-zaobao-2025-04-10-shao-xinyu
+    title: 港媒：何卫东未出席中央周边工作会议
+    publisher: 联合早报（早晨报网镜像）
+    date: 2025-04-10
+    voice: zh
+    url: http://www.zaochenbao.com/news/hkMacao/202504/1040266.html
+    excerpt: true
+    keep: [相信已接替雷凡培]
+  - id: fx1-caixin-2023-02-01-wen-gang
+    title: “一把手”位置空缺半年 温刚履新中国船舶集团董事长
+    publisher: 财新网
+    date: 2023-02-01
+    voice: zh
+    url: https://companies.caixin.com/2023-02-01/101993805.html
+    excerpt: true
+    keep: [温刚将任中国船舶集团董事长, 在温刚到任前]
+  # ---------- 张冬辰 ----------
+  # PDF: fetched by research/scripts/FX1-pdf.py (fetch-web.ts reads HTML only)
+  - id: fx1-sse-2021-11-18-cec-gm-change
+    title: 广发证券关于中国电子信息产业集团有限公司董事、总经理发生变动进展的债权代理事务临时报告
+    publisher: 广发证券（上海证券交易所债券公告）
+    date: 2021-11-18
+    voice: doc
+    url: http://static.sse.com.cn/disclosure/bond/announcement/corporate/c/2021-11-18/4346272014170164483368448.pdf
+  # ---------- 胡建学（泰安市志大事记） ----------
+  - id: fx1-sdchorography-taian-1990
+    title: 1990年｜《泰安市志》（1985-2002）
+    publisher: 山东地情档案（泰安市志）
+    voice: history
+    url: https://shandong-chorography.org/database/b9/section/9/article/13/
+    start: "2月15—20日 市人大第十一届三次会议召开"
+    end: "选举胡建学为市长。"
+  - id: fx1-sdchorography-taian-1991
+    title: 1991年｜《泰安市志》（1985-2002）
+    publisher: 山东地情档案（泰安市志）
+    voice: history
+    url: https://shandong-chorography.org/database/b9/section/9/article/14/
+    start: "3月6—10日 市人大第十一届四次会议召开"
+    end: "任命副市长张敬茂为代市长。"
+  - id: fx1-sdchorography-taian-1995
+    title: 1995年｜《泰安市志》（1985-2002）
+    publisher: 山东地情档案（泰安市志）
+    voice: history
+    url: https://shandong-chorography.org/database/b9/section/9/article/18/
+    start: "1月6—9日 中共泰安市第七次代表大会"
+    end: "撤销卢胶青泰安市委常委、委员、秘书长职务。"
+    excerpt: true
+    keep: [胡建学]

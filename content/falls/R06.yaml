@@ -1185,6 +1185,8 @@ yang-fasen:
     yuan: 147000000
     text: 2005 年 3 月至 2024 年 7 月非法收受财物共计人民币 1.47 亿余元
     cite: k06-court-2025-10-29-yang-fasen-verdict
+  plea:
+    - { kind: surrender, text: 判决称其自动投案后主动交代了办案机关尚未掌握的大部分受贿事实，依法从轻处罚（判决未用“自首”二字）, cite: k06-court-2025-10-29-yang-fasen-verdict }
   trigger:
     kind: surrender
     text: 中央纪委国家监委通报其主动投案，接受纪律审查和监察调查

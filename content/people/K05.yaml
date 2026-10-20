@@ -1306,7 +1306,8 @@
   born: 1966-10
   birthplace: 贵州都匀
   roles: [acc, tiger]
-  status: detained
+  status: purged
+  statusNote: 2026 年 1 月被开除党籍和公职，涉嫌犯罪问题移送检察机关审查起诉；未见起诉或宣判报道。
   fall:
     - { date: 2025-07, text: 涉嫌严重违纪违法，接受中央纪委国家监委审查调查。, cite: k05-chinanews-2026-01-07-wu-shenghua }
     - { date: 2026-01-07, text: 被开除党籍和公职，终止其二十大代表资格，涉嫌犯罪问题移送检察机关依法审查起诉；开除党籍处分待中央全会追认。, cite: k05-chinanews-2026-01-07-wu-shenghua }
@@ -2889,20 +2890,20 @@
   born: 1963-05
   birthplace: 陕西合阳
   roles: [cc]
-  status: active
-  statusNote: 维基百科称其曾任中央军民融合办副主任，离任时间和现职未见公开报道。
+  status: missing
+  statusNote: 联合早报 2026 年 10 月称他已被免除中央军民融合办常务副主任，去向受到关注；早报 2025 年 4 月转述星岛日报，邵新宇当时已被认为接替其职。官方未公布免职消息，也未说明原因；本站未查到立案通报。
   tier: 2
-  headline: 前中国船舶集团董事长、中央军民融合办副主任
+  headline: 前中国船舶集团董事长、中央军民融合办原常务副主任
   ids: { wikidata: Q22099192 }
   bio: >-
-    陕西合阳人，十九届中央候补委员、二十届中央委员。航天科学家，长期在航天推进技术研究院工作，曾任中国航天科技集团总经理、董事长，2018 年起任中国船舶工业集团、中国船舶集团董事长，2022 年 8 月从集团领导层名单中撤下，2023 年出任中央军民融合发展委员会办公室副主任。
+    陕西合阳人，十九届中央候补委员、二十届中央委员。航天科学家，长期在航天推进技术研究院工作，曾任中国航天科技集团总经理、董事长，2018 年起任中国船舶工业集团、中国船舶集团董事长，2022 年 8 月从集团领导层名单中撤下，2023 年出任中央军民融合发展委员会办公室常务副主任；联合早报 2026 年 10 月称他已被免职，官方未公布。
   positions:
     - { title: 中国航天科技集团公司总经理, sys: other, from: 2013-04, to: 2014-05, cite: k05-wiki-lei-fanpei }
     - { title: 中国航天科技集团公司董事长, sys: other, from: 2014-05, to: 2018-03, cite: k05-wiki-lei-fanpei }
     - { title: 中国船舶工业集团有限公司董事长, sys: other, from: 2018-03, to: 2019-10, cite: k05-wiki-lei-fanpei }
-    - { title: 中国船舶集团有限公司董事长, sys: other, from: 2019-10, to: 2022-08, cite: k05-wiki-lei-fanpei }
-    - { title: 中央军民融合发展委员会办公室副主任, sys: party, from: 2023, cite: k05-wiki-lei-fanpei }
-  cites: [wd-Q22099192, k05-wiki-lei-fanpei, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc]
+    - { title: 中国船舶集团有限公司董事长, sys: other, from: 2019-10, to: 2022-08, cite: fx1-caixin-2023-02-01-wen-gang }
+    - { title: 中央军民融合发展委员会办公室常务副主任, sys: party, from: 2023, to: 2025-04, cite: cs9-zaobao-2026-10-11-fifth-plenum-vacancies }
+  cites: [wd-Q22099192, k05-wiki-lei-fanpei, k02-xinhua-2017-10-24-19-cca, k02-xinhua-2022-10-22-20-cc, cs9-zaobao-2026-10-11-fifth-plenum-vacancies, fx1-zaobao-2025-04-10-shao-xinyu, fx1-caixin-2023-02-01-wen-gang]
 
 - id: cai-songtao
   name: 蔡松涛
