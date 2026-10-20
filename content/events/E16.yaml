@@ -1,0 +1,96 @@
+# E16 (round 18): 增减挂钩、岳昕公开信、三个区分开来与干部激励的落地事件。
+# 本轮点名的十六届四中全会（e2004-jiang-hands-over-cmc）、2015 年胜利日阅兵（e03-2015-victory-day-troop-cut）已有条目，未重建。
+
+# ---------- 城乡建设用地增减挂钩 ----------
+- id: e16-2006-guagou-first-pilots
+  date: 2006-04
+  title: 城乡建设用地增减挂钩第一批试点启动
+  lane: econ
+  summary: 2004年10月，国务院《关于深化改革严格土地管理的决定》提出“城镇建设用地增加要与农村建设用地减少相挂钩”。2006年4月，国土资源部把山东、天津、江苏、湖北、四川五省市列为城乡建设用地增减挂钩第一批试点：农村建设用地复垦为耕地后，可换取等面积的城镇建设用地指标。2008年6月国土资源部印发试点管理办法，规定挂钩周转指标一般三年内归还，严禁违背农民意愿大拆大建。
+  people: []
+  concepts: [land-linkage, new-socialist-countryside]
+  cites: [e16-gov-2004-10-21-guofa-28, i12-chinanews-2010-11-02-beishanglou, e16-wuhan-2008-06-27-guagou-measures]
+
+- id: e16-2010-guofa-47
+  date: 2010-12-27
+  title: 国发〔2010〕47号：严禁强迫农民住高楼
+  lane: society
+  summary: 2010年12月27日，国务院印发《关于严格规范城乡建设用地增减挂钩试点切实做好农村土地整治工作的通知》（国发〔2010〕47号），承认少数地方擅自扩大试点、突破周转指标、“违背农民意愿强拆强建”。通知要求“严禁在农村地区盲目建高楼、强迫农民住高楼”，严禁项目区跨县级行政区域设置和循环使用周转指标，调剂给城镇的指标所得土地增值收益“必须及时全部返还农村”，对不符合政策规定的试点一律叫停。
+  people: []
+  concepts: [land-linkage, new-socialist-countryside]
+  cites: [e16-gov-2010-12-27-guofa-47]
+
+- id: e16-2018-guagou-cross-province
+  date: 2018-03-10
+  title: 深度贫困地区增减挂钩节余指标获准跨省域调剂
+  lane: econ
+  summary: 2018年3月10日，国务院办公厅印发《城乡建设用地增减挂钩节余指标跨省域调剂管理办法》，把“三区三州”及其他深度贫困县的增减挂钩节余指标交由国家统筹、跨省域调剂。调出价每亩30万元（复垦为高标准农田的40万元），调入价北京、上海每亩70万元，天津、江苏、浙江、广东每亩50万元；中央财政先下达70%调剂资金，拆旧复垦验收后再下达其余30%，资金全部用于巩固脱贫攻坚成果和支持乡村振兴。
+  people: []
+  concepts: [land-linkage, poverty-alleviation, rural-revitalization]
+  cites: [e16-gov-2018-03-10-cross-province-quota, i06-gov-2018-02-04-rural-revitalization]
+
+- id: e16-2020-shandong-hecun
+  date: 2020-05
+  end: 2020-06-26
+  title: 山东大范围合村并居引发争议
+  lane: society
+  summary: 2020年5月山东印发村庄布局专项规划后，滨州、菏泽、聊城等地推行“合村并居”，拆除自然村、让农民集中住进社区楼房，被指先拆后建、补偿过低。贺雪峰、桂华撰文批评地方政府套用增减挂钩政策换取建设用地指标和资金。6月17日山东省政府新闻发布会称“没有下指标派任务，没有大规模的大拆大建”，承诺村民同意率达95%以上才实施；刘家义、李干杰随后表态不搞一刀切，搬不搬“群众说了算”。
+  people: [liu-jiayi, li-ganjie]
+  concepts: [land-linkage, rural-revitalization]
+  voices:
+    - voice: scholar
+      text: 地方政府套用城乡建设用地“增减挂钩”政策搞合村并居，一是想解决建设用地指标问题，二是想解决乡村建设资金来源问题。
+      cite: e16-sdaeu-2020-06-12-he-xuefeng-hecun
+      quote: true
+    - voice: zh
+      text: 目前，农村社区建设还处在探索推进阶段，没有下指标派任务，没有大规模的大拆大建。
+      cite: e16-thepaper-2020-06-17-shandong-response
+      quote: true
+  cites: [e16-ifeng-2020-06-26-shandong-hecun, e16-sdaeu-2020-06-12-he-xuefeng-hecun, e16-thepaper-2020-06-17-shandong-response, e16-qq-2020-06-26-li-ganjie-hecun]
+
+# ---------- 岳昕公开信 ----------
+- id: e16-2018-yue-xin-open-letter
+  date: 2018-04-09
+  end: 2018-04-23
+  title: 岳昕等北大学生申请公开沈阳案材料，岳昕发公开信
+  lane: society
+  summary: 李悠悠实名举报1998年时任北大中文系教授沈阳性侵高岩、致其自杀后，北大4月8日公开当年对沈阳的处分。4月9日岳昕等八名学生到场申请公开当年讨论沈阳师德的会议记录等，20日校方答复档案中并无相关信息。23日岳昕发公开信，称多次被约谈，凌晨被辅导员和母亲叫醒、要求删除相关资料；公开信约二十分钟后被删，三角地出现声援大字报，外国语学院则称辅导员出于关心联系家长。
+  people: [yue-xin]
+  voices:
+    - voice: witness
+      text: 申请信息公开何罪之有？我没有做错任何事，也不会后悔曾经提交《信息公开申请表》，行使我作为北大学生的光荣权利。
+      cite: e16-terminus-2018-04-23-yue-xin-letter
+      quote: true
+    - voice: official
+      text: 学院是学生成长成才的家园，老师们尽一切努力关心爱护学生，而这份关爱也意味着责任所在，学院、老师与家长都同样担负着教育的责任。与此同时，我们始终尊重每一位同学的基本权利、努力保障每一位同学的合法权益。
+      cite: e16-pku-2018-04-23-sfl-statement
+      quote: true
+  cites: [e16-bbc-2018-04-24-yue-xin, e16-terminus-2018-04-23-yue-xin-letter, e16-cdt-2018-04-23-yue-xin-interview, e16-pku-2018-04-23-sfl-statement]
+
+# ---------- 干部激励与容错 ----------
+- id: e16-2016-three-distinctions-speech
+  date: 2016-01-18
+  title: 习近平提出“三个区分开来”
+  lane: power
+  summary: 2016年1月18日，习近平在省部级主要领导干部学习贯彻十八届五中全会精神专题研讨班上讲话，说部分干部积极性不高，存在一定程度的“为官不为”，分为能力不足而“不能为”、动力不足而“不想为”、担当不足而“不敢为”。他要求把改革中先行先试的失误、上级尚无明确限制的探索性试验中的失误、推动发展的无意过失，分别同违纪违法行为区分开来，后称“三个区分开来”。讲话5月10日见报。
+  people: [xi-jinping]
+  concepts: [three-distinctions, strict-governance]
+  cites: [e16-people-2016-05-10-xi-jan18-speech-p4, e16-ce-2024-10-08-three-distinctions]
+
+- id: e16-2018-cadre-incentive-opinion
+  date: 2018-05-20
+  title: 中办印发激励干部新时代新担当新作为的意见
+  lane: power
+  summary: 2018年5月，中共中央办公厅印发《关于进一步激励广大干部新时代新担当新作为的意见》，要求建立激励机制和容错纠错机制。意见在好干部标准之外突出“信念过硬、政治过硬、责任过硬、能力过硬、作风过硬”，对不担当不作为的干部该免职的免职、该降职的降职；把三个区分开来写成容错依据，对该容的大胆容错，同时防止拿容错当保护伞、搞纪律松绑，并要求严肃查处诬告陷害、为受到不实反映的干部澄清正名。
+  people: []
+  concepts: [three-distinctions, good-cadre-standard]
+  cites: [e16-gov-2018-05-20-incentive-opinion]
+
+- id: e16-2019-cadre-selection-regs
+  date: 2019-03-17
+  title: 修订后的《党政领导干部选拔任用工作条例》发布
+  lane: power
+  summary: 2019年3月17日新华社发布中共中央修订后的《党政领导干部选拔任用工作条例》，条例自3月3日起施行，2014年版同时废止。第一条写入“深入贯彻新时代党的组织路线”和“坚持新时期好干部标准”，第三条要求选拔任用“必须把政治标准放在首位”，第七条规定党政领导干部必须信念坚定、为民服务、勤政务实、敢于担当、清正廉洁；民主推荐结果只作重要参考，要“防止把推荐票等同于选举票、简单以推荐票取人”。
+  people: []
+  concepts: [good-cadre-standard, org-line-new-era]
+  cites: [e16-gov-2019-03-17-cadre-selection-regs]

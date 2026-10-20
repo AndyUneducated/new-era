@@ -1,0 +1,196 @@
+# E16 (round 18): sources for 城乡建设用地增减挂钩, 新时代党的组织路线, 好干部标准, 晋升锦标赛, 三个区分开来,
+# and their landing events (2006 增减挂钩首批试点, 2010 国发47号, 2018 跨省域调剂, 2020 山东合村并居,
+# 2018 岳昕公开信, 2016 三个区分开来讲话, 2018 激励干部担当作为意见, 2019 干部任用条例).
+web:
+  # ---- 城乡建设用地增减挂钩
+  - id: e16-gov-2010-12-27-guofa-47
+    title: 国务院关于严格规范城乡建设用地增减挂钩试点切实做好农村土地整治工作的通知（国发〔2010〕47号）
+    publisher: 中国政府网
+    date: 2010-12-27
+    voice: doc
+    url: https://www.gov.cn/zhengce/content/2011-04/02/content_2377.htm
+    start: 国发〔2010〕47 号
+    end: 二○一○年十二月二十七日
+  - id: e16-gov-2018-03-10-cross-province-quota
+    title: 国务院办公厅关于印发跨省域补充耕地国家统筹管理办法和城乡建设用地增减挂钩节余指标跨省域调剂管理办法的通知（国办发〔2018〕16号）
+    publisher: 中国政府网
+    date: 2018-03-10
+    voice: doc
+    url: https://www.gov.cn/zhengce/content/2018-03/26/content_5277477.htm
+    start: 各省、自治区、直辖市人民政府，国务院各部委、各直属机构：
+    end: 有效期至2020年12月31日。
+  - id: e16-wuhan-2008-06-27-guagou-measures
+    title: 城乡建设用地增减挂钩试点管理办法（国土资发〔2008〕138号）
+    publisher: 武汉市自然资源和城乡建设局（转载国土资源部文件）
+    date: 2008-06-27
+    voice: doc
+    url: https://zrzyhgh.wuhan.gov.cn/zwgk_18/zcfgyjd/gtzyl/202001/t20200107_590145.shtml
+    start: 第一条 为进一步加强和规范城乡建设用地增减挂钩试点工作
+    end: 二〇〇八年六月二十七日
+  - id: e16-gov-2004-10-21-guofa-28
+    title: 国务院关于深化改革严格土地管理的决定（国发〔2004〕28号）
+    publisher: 中国政府网
+    date: 2004-10-21
+    voice: doc
+    url: https://www.gov.cn/zhengce/content/2008-03/28/content_2457.htm
+    start: 各省、自治区、直辖市人民政府，国务院各部委、各直属机构：
+    end: 二○○四年十月二十一日
+  - id: e16-thepaper-2020-06-17-shandong-response
+    title: 山东官方回应合村并居争论：没大拆大建，纠正偏差不搞一刀切
+    publisher: 澎湃新闻
+    author: 张家然
+    date: 2020-06-17
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_7879694
+    excerpt: true
+    keep: [ 没有下指标派任务, 全省行政村数量6.95万个, 村民同意率必须达到95%以上才能实施, 个别项目论证不充分, 完成土地增减挂钩3万亩以上 ]
+  - id: e16-qq-2020-06-26-li-ganjie-hecun
+    title: 山东合村并居引发争议，代省长李干杰发声：搬不搬群众说了算
+    publisher: 腾讯新闻（政知见）
+    date: 2020-06-26
+    voice: zh
+    url: https://view.inews.qq.com/a/20200626A0IT8X00
+    excerpt: true
+    keep: [ 刘家义提出, 决不搞“一刀切”, 搬不搬、建不建，群众说了算, 条件不成熟的不能急于求成 ]
+  - id: e16-sdaeu-2020-06-12-he-xuefeng-hecun
+    title: 贺雪峰 桂华：山东省大范围合村并居可能造成系统性风险
+    publisher: 山东农业工程学院乡村振兴研究院
+    author: 贺雪峰、桂华
+    date: 2020-06-12
+    voice: scholar
+    url: https://www.sdaeu.edu.cn/xczxyjy/info/1029/1530.htm
+    excerpt: true
+    keep: [ 近期，山东省大范围地推行合村并居, 造成农民被动, 违背农民意愿。, 套用城乡建设用地, 强推之风当刹 ]
+  - id: e16-ifeng-2020-06-26-shandong-hecun
+    title: 山东强推“合村并居”引争议，专家：缺乏法律依据和操作标准（《中国慈善家》）
+    publisher: 凤凰网（转载《中国慈善家》）
+    author: 周群峰
+    date: 2020-06-26
+    voice: zh
+    url: https://news.ifeng.com/c/7xburXGEXeS
+    excerpt: true
+    keep: [ 近来，山东省多地推行, 山东滨州、菏泽、聊城, 合村并居，也称, 2020年5月6日, 意在新冠疫情之下, 山东省曾被列入全国最早一批, 2010年左右，全国不少地区, 缺乏明确的法律依据, 对“增减挂钩”的错误想象上 ]
+  # ---- 岳昕与沈阳案信息公开
+  - id: e16-bbc-2018-04-24-yue-xin
+    title: 女生要求信息公开遭警告 “北大”成敏感词
+    publisher: BBC中文网
+    date: 2018-04-24
+    voice: west
+    url: https://www.bbc.com/zhongwen/simp/chinese-news-43878969
+    excerpt: true
+    keep: [ 将北京大学推向舆论风口浪尖, 该事件是北大沈, 岳昕等八名北大学生, 23日晚间，北大三角地, 无法搜索的敏感词, 4月20日，包括岳昕在内, 北京大学有不同的版本, 当天，北大外国语学院发布情况说明, 4月7日，北大数院 ]
+  - id: e16-pku-2018-04-23-sfl-statement
+    title: 情况说明（北京大学外国语学院）
+    publisher: 北京大学外国语学院
+    date: 2018-04-23
+    voice: official
+    url: https://web.archive.org/web/2018/https://sfl.pku.edu.cn/tzgg/64548.htm
+    start: 2018年4月23日上午
+    end: 我们感谢师生、校友对学院工作的关心。
+    note: 北大外国语学院原页（sfl.pku.edu.cn/tzgg/64548.htm）抓取时返回 404，改取 Wayback 存档。
+  - id: e16-terminus-2018-04-23-yue-xin-letter
+    title: 岳昕：致北京大学师生和北大外国语学院的一封公开信（存档）
+    publisher: 端点星（GitHub 存档，原载微信公众号“深约一丈”）
+    author: 岳昕
+    date: 2018-04-23
+    voice: witness
+    url: https://terminus2049.github.io/archive/2018/04/23/pku-YueXin-gongkaixin.html
+    excerpt: true
+    keep: [ 是4月9日早上向北京大学递交, 4月9日之后，我不断被, 讨论沈阳师德的会议级别, 公安局调查结果不在, 沈阳公开检讨的内容, 凌晨一点，辅导员和母亲, 申请信息公开何罪之有 ]
+  - id: e16-cdt-2018-04-23-yue-xin-interview
+    title: 量产基地专访 | 信息公开制度，和被约谈的同学们
+    publisher: 中国数字时代（转载）
+    date: 2018-04-23
+    voice: zh
+    url: https://web.archive.org/web/2018/https://chinadigitaltimes.net/chinese/583426.html
+    note: 原站直连返回 403，改取 Wayback 存档。
+    excerpt: true
+    keep: [ 4月9日上午10点整, 学校已在2018年4月8日, 被禁止录音, 此内容 因违规无法查看 ]
+  # ---- 晋升锦标赛
+  - id: e16-cufe-li-zhou-vs-tao
+    title: 老文新谈：经济增长能够带来官员晋升吗？——两种不同观点的对比（财税文摘第11期）
+    publisher: 中央财经大学中国财政发展协同创新中心
+    voice: scholar
+    url: http://ccfd.cufe.edu.cn/info/1073/4228.htm
+    excerpt: true
+    keep: [ 由此奠定了, 文章提供了官员控制, 该文章主要从逻辑和实证上, 如果下级官员的政治升迁, 数字出官、官出数字, 官员所拥有政治网络 ]
+  - id: e16-cambridge-2012-shih-adolph-liu
+    title: "Getting Ahead in the Communist Party: Explaining the Advancement of Central Committee Members in China"
+    publisher: American Political Science Review
+    author: Victor Shih, Christopher Adolph, Mingxing Liu
+    date: 2012-02
+    voice: scholar
+    lang: en
+    url: https://www.cambridge.org/core/journals/american-political-science-review/article/getting-ahead-in-the-communist-party-explaining-the-advancement-of-central-committee-members-in-china/B22B6ACD187AD664CCCD6497E6A165BE
+    excerpt: true
+    keep: [ we find no evidence that strong growth performance ]
+  - id: e16-sina-2014-03-20-zhou-lian-nfc
+    title: 教授谈官员考核:综合多指标或引发跑官卖官隐忧（南风窗专访周黎安）
+    publisher: 新浪新闻（转载《南风窗》）
+    author: 叶竹盛
+    date: 2014-03-20
+    voice: scholar
+    url: http://news.sina.com.cn/c/sd/2014-03-20/104029752067.shtml
+    excerpt: true
+    keep: [ 在《转型中的地方政府, 经济发展是不是考核官员最重要的指标, 各级经济增长指标存在层层加码, 官场竞争更具有零和性质, 前后两任接任的年份, 仅靠完善指标体系 ]
+  - id: e16-thepaper-2018-05-25-zhou-lian-governance
+    title: 改革开放40年︱周黎安：中国政府治理的变革与现代化
+    publisher: 澎湃新闻
+    author: 周黎安
+    date: 2018-05-25
+    voice: scholar
+    url: https://www.thepaper.cn/newsDetail_forward_2138337
+    excerpt: true
+    keep: [ 以经济增长为中心的政治锦标赛：, 干部考核制度对于经济发展绩效的倚重, 纵向行政发包与横向的政治锦标赛相互结合, 中央强调淡化GDP的考核 ]
+  # ---- 好干部标准、组织路线
+  - id: e16-gov-2019-03-17-cadre-selection-regs
+    title: 中共中央印发《党政领导干部选拔任用工作条例》
+    publisher: 中国政府网（新华社）
+    date: 2019-03-17
+    voice: doc
+    url: https://www.gov.cn/zhengce/2019-03/17/content_5374532.htm
+    start: 新华社北京3月17日电
+    end: 同时废止。
+  # ---- 三个区分开来
+  - id: e16-people-2016-05-10-xi-jan18-speech-p4
+    title: 习近平在省部级主要领导干部学习贯彻党的十八届五中全会精神专题研讨班上的讲话（2016年1月18日）【4】
+    publisher: 中国共产党新闻网（人民日报）
+    date: 2016-01-18
+    voice: doc
+    url: http://cpc.people.com.cn/n1/2016/0510/c64094-28337020-4.html
+    start: 最后，我再强调一个问题
+    end: 不断开创社会主义现代化建设新局面。
+    note: 讲话全文分四页刊载，本条只取第4页末尾关于调动干部积极性的一段。
+  - id: e16-gov-2018-05-20-incentive-opinion
+    title: 中共中央办公厅印发《关于进一步激励广大干部新时代新担当新作为的意见》
+    publisher: 中国政府网（新华社）
+    date: 2018-05-20
+    voice: doc
+    url: https://www.gov.cn/zhengce/2018-05/20/content_5292263.htm
+    start: 新华社北京5月20日电
+    end: 奋力谱写社会主义现代化新征程的壮丽篇章。
+  - id: e16-ce-2024-10-08-three-distinctions
+    title: 深入落实“三个区分开来” 激励干部开拓进取干事创业
+    publisher: 中国经济网
+    date: 2024-10-08
+    voice: official
+    url: http://views.ce.cn/view/ent/202410/08/t20241008_39160006.shtml
+    excerpt: true
+    keep: [ 2016年1月，习近平总书记首次提出, 但由于落实“三个区分开来”是一项政治性很强的工作 ]
+  - id: e16-gov-2024-01-rongcuo-xiwan
+    title: 问责要减少“洗碗越多摔碗越多”之忧
+    publisher: 中国政府网（新华每日电讯）
+    author: 丁静、阳娜
+    date: 2024-01-09
+    voice: official
+    url: https://www.gov.cn/zhengce/202401/content_6925540.htm
+    start: 记者在基层调研时
+    end: 争创新业绩的浓厚氛围和生动局面。
+  - id: e16-voa-2025-01-23-rongcuo
+    title: "习近平的反腐新信号: “无心之过”宽容政策能否破局官员躺平？"
+    publisher: 美国之音中文网
+    date: 2025-01-23
+    voice: west
+    url: https://www.voachinese.com/a/xi-jinping-says-he-whould-be-tolerant-of-officials-unintentional-mistakes-20250123/7947645.html
+    excerpt: true
+    keep: [ 《华尔街日报》1月19日的报道说, 从中国官方公布的数据观察, 这10年所形成的这样的框架, 以习近平专制独裁的作风 ]
