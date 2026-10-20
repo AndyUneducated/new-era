@@ -1,6 +1,6 @@
 # 第十六轮批次（用户离开期间继续补数据，#83）
 
-共同规则见 `research/agent-brief.md`、`research/howto-content.md`、`research/round15.md`“共同要点”。第十五轮的 RL2（关系）、BD1（出生年月、职务）仍在进行，**不要碰** `content/relations/`，也不要改旧人物卡的 `born`、`birthplace`、`positions`、`verify`。
+共同规则见 `research/agent-brief.md`、`research/howto-content.md`、`research/round15.md`“共同要点”。第十五轮的 BD1（出生年月、职务）仍在进行，不要改旧人物卡的 `born`、`birthplace`、`positions`、`verify`。关系只由 K08 写进 `content/relations/RL3.yaml`。
 
 | 批次 | 写什么 | 只碰这些文件 |
 |---|---|---|
@@ -32,6 +32,16 @@
 7. 给 `rl1-zaobao-2025-12-14-air-force`、`b04-bbc-2025-10-nine-generals` 两条来源补 `keep`（所在 manifest 里原地小改），保留讲空军将领、九名将领被开除的段落，再 `node tools/fetch-web.ts --force <id>` 重抓。
 
 合计约 12–16 张卡。回报里列出每张新卡应挂进的专题 id（例如 `air-force-purge`、`navy-purge`、`cmc-2017`、`rocket-force`、`equipment-aerospace`）和事件 id（例如 `e15-2026-npc-notice-six-generals`、`e15-2026-wang-gang-general`）。
+
+## K08：案件人物的前后任、搭档建卡并补关系
+
+RL2（`content/relations/RL2.yaml`，回报见 `research/queue.md`“第十五轮整合” RL2 一条）在 395 名案件人物中有 185 人没找到关系，主要因为前后任、搭档不在人物库。本批只碰 `content/people/K08.yaml`、`research/roster/K08.yaml`、`content/relations/RL3.yaml`。
+
+1. 名单 `research/lists/R15-case-people-no-relation.txt` 里、`content/relations/` 仍未出现的人，查其来源（`sources/text/`）和官方简历，找出写明的前任、继任、正职搭档、提拔者，例如 RL2 提到的牛玉儒、那顺孟和、郭启俊、张院忠、夏红民、刘晓榕、贾育林、俞建良、李小三、尤太忠。这些人没有卡的建 tier 2 卡（howto §4，省部级以上；厅局级只在与已有案件直接相关时建，#65）。建前先 Grep `content/people/`、`research/roster/`，K07 也在建卡，先查 `content/people/K07.yaml`。
+2. 关系写 `content/relations/RL3.yaml`，规则同 RL2：前后任、主持工作、正职搭档算 colleague（a 是继任者）；patron 只在原文写明提携时用；同案、行贿不算关系；传闻标 `rumor: true`。
+3. 金融证监、军队军工里只有同案的人不必勉强。
+
+目标：新卡 30–50 张，新关系 80–150 条，名单中有关系的人从 210 增到 260 以上。
 
 ## 完成时回报
 
