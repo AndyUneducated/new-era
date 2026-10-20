@@ -1,0 +1,110 @@
+# CS11 (round 19): scholar cards for the case study land-quota.
+- id: chen-xiwen
+  name: 陈锡文
+  gender: m
+  born: 1950-07-10
+  birthplace: 上海
+  education:
+    - { school: 中国人民大学农业经济系, from: 1978, to: 1982 }
+  roles: [scholar, minister]
+  status: retired
+  statusNote: 2016年7月卸任中央财办副主任、中央农办主任，转岗全国政协；2018–2023年任全国人大农业与农村委员会主任委员。清华大学中国农村研究院网页仍列他为院长。
+  tier: 2
+  headline: 中央农村工作领导小组原副组长兼办公室主任（2009–2016），十三届全国人大农业与农村委员会主任委员
+  ids: { wikidata: Q16907972 }
+  bio: >-
+    农村政策专家，1982 年人大农经系毕业后先后在社科院农经所、国务院农村发展研究中心、国务院发展研究中心工作，2003 年起任中央农办主任，
+    2009 年起兼中央农村工作领导小组副组长，2016 年 7 月卸任。2010 年他批评各地借增减挂钩大规模撤并村庄“古今中外，史无前例”，2016 年又说增减挂钩“异化了”。
+  positions:
+    - { title: 中国社会科学院农业经济研究所研究人员, sys: other, from: 1982, to: 1985, cite: cs11-cirs-2014-chen-xiwen }
+    - { title: 国务院农村发展研究中心发展研究所副所长、所长, sys: gov, from: 1985, to: 1990-07, cite: cs11-thepaper-2016-07-01-chen-xiwen }
+    - { title: 国务院发展研究中心农村经济研究部副部长、部长, sys: gov, from: 1990-07, cite: cs11-cirs-2014-chen-xiwen }
+    - { title: 国务院发展研究中心副主任, sys: gov, from: 2000, to: 2003, cite: cs11-cirs-2014-chen-xiwen }
+    - { title: 中央财经领导小组办公室副主任、中央农村工作领导小组办公室主任, sys: party, from: 2003, to: 2016-07, cite: cs11-thepaper-2016-07-01-chen-xiwen }
+    - { title: 中央农村工作领导小组副组长, sys: party, from: 2009, to: 2016-07, cite: cs11-cirs-chen-xiwen-npc }
+    - { title: 全国人大常委会委员、农业与农村委员会主任委员, sys: gov, from: 2018-03, to: 2023-03, cite: cs11-cirs-chen-xiwen-npc }
+    - { title: 清华大学中国农村研究院院长, sys: other, from: 2011, cite: cs11-cirs-2014-chen-xiwen }
+  assess:
+    - voice: zh
+      quote: true
+      text: 增减挂钩现在异化了，异化成一些县城通过这种方式来增加建设用地指标，这就出问题了。
+      cite: cs11-cs-2016-03-25-chen-xiwen-interview
+    - voice: scholar
+      quote: true
+      text: 在“城乡建设用地增减挂钩”到处飘红的2009—2012年间，据保守估计，年度实际使用的新增建设用地总规模，要比国家下达的指标，超出约四分之一到三分之一。
+      cite: cs11-whu-2021-04-25-chen-xiwen-interview
+  cites: [cs11-cirs-2014-chen-xiwen, cs11-cirs-chen-xiwen-npc, cs11-thepaper-2016-07-01-chen-xiwen, i12-chinanews-2010-11-02-beishanglou, cs11-cs-2016-03-25-chen-xiwen-interview, cs11-whu-2021-04-25-chen-xiwen-interview, wd-Q16907972]
+
+- id: zhou-lian
+  name: 周黎安
+  gender: m
+  born: 1966
+  birthplace: 江西高安
+  education:
+    - { school: 北京大学经济学院国际经济系, degree: 经济学学士, from: 1984, to: 1988 }
+    - { school: 北京大学, degree: 经济学硕士, to: 1991 }
+    - { school: 斯坦福大学, degree: 经济学博士, from: 1996, to: 2002 }
+  roles: [scholar]
+  status: active
+  statusNote: 北京大学经济与管理学部主任、光华管理学院应用经济系教授，第十四届全国政协委员。
+  tier: 2
+  headline: 北京大学经济与管理学部主任、光华管理学院教授，地方官员“晋升锦标赛”理论的提出者
+  ids: { wikidata: Q41805153 }
+  bio: >-
+    经济学者，1966 年生于江西高安，北大经济系本科、硕士，1996 年赴斯坦福大学师从青木昌彦，2002 年获博士学位后任教北大光华管理学院。
+    2007 年他在《经济研究》提出地方官员“晋升锦标赛”模式，2008 年出版《转型中的地方政府》，后又提出“行政发包制”与“官场+市场”。
+  positions:
+    - { title: 北京大学经济学院助教、讲师, sys: other, from: 1991, to: 1996, cite: cs11-pku-lmeqf-zhou-lian }
+    - { title: 北京大学光华管理学院应用经济系助理教授, sys: other, from: 2002, to: 2005, cite: cs11-pku-lmeqf-zhou-lian }
+    - { title: 北京大学光华管理学院应用经济系副教授, sys: other, from: 2005, to: 2010-08, cite: cs11-pku-lmeqf-zhou-lian }
+    - { title: 北京大学光华管理学院应用经济系教授, sys: other, from: 2010-08, cite: cs11-pku-lmeqf-zhou-lian }
+    - { title: 北京大学经济与管理学部主任, sys: other, cite: cs11-pku-lmeqf-zhou-lian }
+    - { title: 第十四届全国政协委员, sys: other, from: 2023-03, cite: cs11-pku-lmeqf-zhou-lian }
+  assess:
+    - voice: scholar
+      quote: true
+      text: 干部考核制度对于经济发展绩效的倚重直接引发了地方官员围绕着区域经济发展的晋升竞争，即基于经济增长的“政治锦标赛”。
+      cite: e16-thepaper-2018-05-25-zhou-lian-governance
+    - voice: scholar
+      quote: true
+      text: 此外，相对于市场竞争，官场竞争更具有零和性质。
+      cite: e16-sina-2014-03-20-zhou-lian-nfc
+    - voice: scholar
+      quote: true
+      text: 改革开放以后的中国并不存在一个从中央到省、从省到地市、从地市到县乃至乡的层层放大的、将政治提拔和经济增长，或主要经济指标直接挂钩的考核体系。
+      cite: e16-cufe-li-zhou-vs-tao
+  cites: [cs11-pku-lmeqf-zhou-lian, cs11-pku-cms-zhou-lian, i12-aisixiang-2007-zhou-lian-tournament, e16-thepaper-2018-05-25-zhou-lian-governance, e16-sina-2014-03-20-zhou-lian-nfc, e16-cufe-li-zhou-vs-tao, wd-Q41805153]
+
+- id: he-xuefeng
+  name: 贺雪峰
+  gender: m
+  born: 1968
+  birthplace: 湖北荆门
+  roles: [scholar]
+  status: active
+  statusNote: 武汉大学社会学院院长、中国乡村治理研究中心主任。
+  tier: 2
+  headline: 武汉大学社会学院院长、中国乡村治理研究中心主任，“华中乡土派”代表人物
+  ids: { wikidata: Q111312626 }
+  bio: >-
+    社会学者，1968 年生于湖北荆门，原华中科技大学教授，现任武汉大学社会学院院长，2015 年入选长江学者特聘教授。他自 2004 年起每年驻村调研两三个月，
+    2009 年出版《地权的逻辑》，与周其仁争论农民土地权利；他认为增减挂钩指标“并不会产生财富，仅仅是一种财富转移”，2020 年与桂华撰文批评山东大范围合村并居。
+  positions:
+    - { title: 华中科技大学教授, sys: other, cite: cs11-zhwiki-he-xuefeng }
+    - { title: 武汉大学社会学院院长, sys: other, cite: cs11-93-2021-he-xuefeng }
+    - { title: 武汉大学中国乡村治理研究中心主任, sys: other, cite: cs11-93-2021-he-xuefeng }
+    - { title: 九三学社湖北省委常委, sys: other, place: 湖北, cite: cs11-93-2021-he-xuefeng }
+  assess:
+    - voice: official
+      quote: true
+      text: 学术上强调经验训练的极端重要性，主张建立有主体性的中国社会科学。
+      cite: cs11-93-2021-he-xuefeng
+    - voice: scholar
+      quote: true
+      text: 实际上，增减挂钩没有创造出任何财富，只是转移了财富。
+      cite: cs11-aisixiang-2019-he-xuefeng-guagou
+    - voice: scholar
+      quote: true
+      text: 地方政府套用城乡建设用地“增减挂钩”政策搞合村并居，一是想解决建设用地指标问题，二是想解决乡村建设资金来源问题。
+      cite: e16-sdaeu-2020-06-12-he-xuefeng-hecun
+  cites: [cs11-93-2021-he-xuefeng, cs11-zhwiki-he-xuefeng, cs11-aisixiang-2019-he-xuefeng-guagou, cs11-wen-he-xuefeng-reply-zhou-qiren, e16-sdaeu-2020-06-12-he-xuefeng-hecun, wd-Q111312626]

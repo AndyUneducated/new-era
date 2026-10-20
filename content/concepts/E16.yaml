@@ -71,7 +71,7 @@
       cites: [e16-gov-2010-12-27-guofa-47, e16-thepaper-2020-06-17-shandong-response]
     - label: 指标驱动论
       text: 陈锡文2010年说，让农民上楼的实质是把农村建设用地倒过来给城镇用；贺雪峰、桂华2020年认为地方政府套用增减挂钩政策，一是想解决建设用地指标，二是想解决乡村建设资金，强推合村并居应当刹车。
-      who: []
+      who: [chen-xiwen, he-xuefeng]
       cites: [i12-chinanews-2010-11-02-beishanglou, e16-sdaeu-2020-06-12-he-xuefeng-hecun]
     - label: 体制根源论
       text: 财新2010年评论认为，各地强制农民上楼不能归咎于增减挂钩政策本身，而是“现有政治体制下政府主导城市化模式的必然结果”。
@@ -310,6 +310,7 @@
   name: 晋升锦标赛
   en: Promotion Tournament
   kind: debate
+  by: [zhou-lian]
   first:
     date: 2005
     text: Li和Zhou（2005）用1979—1995年省级领导人数据发现，经济绩效越好，省级领导晋升可能性越高，被视为这一理论的实证基础。
@@ -342,7 +343,7 @@
   sides:
     - label: 锦标赛说
       text: Li和Zhou（2005）、周黎安（2007）认为地方官员围绕经济增长竞争晋升，这是中国高增长的重要动力；周黎安也认为它与政府职能的合理设计存在严重冲突，是许多经济问题的根源。
-      who: []
+      who: [zhou-lian]
       cites: [e16-cufe-li-zhou-vs-tao, i12-aisixiang-2007-zhou-lian-tournament]
     - label: 考核挂钩质疑说
       text: 陶然等（2010）认为不存在把提拔与GDP直接挂钩的层层考核体系，上级保留任命的最终控制权，GDP数字易被扭曲，政治网络更关键。

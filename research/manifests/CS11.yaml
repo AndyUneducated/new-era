@@ -1,0 +1,245 @@
+# CS11 (round 19): sources for the case study land-quota (城乡建设用地增减挂钩、拆村并居、地票与节余指标交易)
+# and the scholar cards 陈锡文、周黎安、贺雪峰.
+web:
+  # ---- 学者卡
+  - id: cs11-cirs-2014-chen-xiwen
+    title: 核心专家：陈锡文（清华大学中国农村研究院）
+    publisher: 清华大学中国农村研究院
+    date: 2014-01-17
+    voice: official
+    url: https://www.cirs.tsinghua.edu.cn/hxzj/20140117/268.html
+    excerpt: true
+    keep: [ 1950年7月10日出生于上海 ]
+  - id: cs11-cirs-chen-xiwen-npc
+    title: 院领导：院长陈锡文（清华大学中国农村研究院）
+    publisher: 清华大学中国农村研究院
+    voice: official
+    url: https://www.cirs.tsinghua.edu.cn/yld/229.jhtml
+    excerpt: true
+    keep: [ 第十三届人大农业与农村委员会主任委员。先后 ]
+  - id: cs11-thepaper-2016-07-01-chen-xiwen
+    title: 陈锡文卸任中央财办副主任、中央农办主任，转岗全国政协
+    publisher: 澎湃新闻
+    date: 2016-07-01
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1492193
+    excerpt: true
+    keep: [ 向澎湃新闻（www.thepaper.cn）证实, 年龄过了, 至晚于2010年1月末, 原中央农村政策研究室、国务院农村发展研究中心部分人员 ]
+  - id: cs11-cs-2016-03-25-chen-xiwen-interview
+    title: 中农办主任陈锡文：不少楼市库存是土地增减挂钩来的（《中国新闻周刊》专访）
+    publisher: 中证网（转载《中国新闻周刊》）
+    author: 徐天
+    date: 2016-03-25
+    voice: zh
+    url: https://www.cs.com.cn/xwzx/hg/201603/t20160325_4933453.html
+    excerpt: true
+    keep: [ 3月10日，陈锡文在政协小组会结束后, 陈锡文：我觉得没有必要开这个口子, 而以往增减挂钩的做法是涉及用地指标的, 新增的大部分建设用地都留在中心城市, 增减挂钩现在异化了, 国家下达的新增建设用地指标应该是约束性的 ]
+  - id: cs11-whu-2021-04-25-chen-xiwen-interview
+    title: 陈锡文：农村集体经营性建设用地入市的现实进路（湖南师范大学中国乡村振兴研究院专访）
+    publisher: 武汉大学经济研究所（转载）
+    date: 2021-04-25
+    voice: scholar
+    url: http://jer.whu.edu.cn/jjgc/15/2021-04-25/5072.html
+    excerpt: true
+    keep: [ 湖南师范大学中国乡村振兴研究院专程拜访, 不能负增长就需要投资, 一些地方为了满足城镇建设用地的需求, 不少地方的实施过程却是“逆向操作”, 到处飘红的 ]
+  - id: cs11-pku-lmeqf-zhou-lian
+    title: 周黎安（北京大学数量经济与数理金融教育部重点实验室）
+    publisher: 北京大学数量经济与数理金融教育部重点实验室
+    voice: official
+    url: https://lmeqf.pku.edu.cn/info/1098/1177.htm
+    excerpt: true
+    keep: [ 北京大学经济与管理学部主任, 1991-1996年, 北京大学经济学院助教，讲师, 2002年-2005年, 2005年－2010年8月, 2010年8月至今, 北京大学光华管理学院应用经济系，教授, Career Incentives of City Leaders and Urban Spatial Expansion in China ]
+  - id: cs11-pku-cms-zhou-lian
+    title: 周黎安：拒绝童话
+    publisher: 北京大学管理科学中心
+    voice: zh
+    url: http://www.cms.pku.edu.cn/info/1051/1255.htm
+    excerpt: true
+    keep: [ 1966年，周黎安出生于江西高安, 锦标赛理论是周黎安身上的显著标签, 2008年，周黎安出版, 1996年，周黎安赴斯坦福大学, 1984年，周黎安以江西省 ]
+  - id: cs11-93-2021-he-xuefeng
+    title: 武大教授、九三学社湖北省委常委贺雪峰：中国学者首先要回答中国问题（长江日报）
+    publisher: 九三学社中央委员会（转载长江日报）
+    date: 2021-01
+    voice: official
+    url: https://www.93.gov.cn/xwjc-xgcl/751948.html
+    excerpt: true
+    keep: [ 九三学社湖北省委常委，2015年入选, 自2004年起，他已经连续18年, 累计驻村调研工作日超过7万个 ]
+  - id: cs11-zhwiki-he-xuefeng
+    title: 贺雪峰（维基百科）
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/贺雪峰
+    excerpt: true
+    keep: [ 原华中科技大学教授 ]
+  - id: cs11-aisixiang-2019-he-xuefeng-guagou
+    title: 贺雪峰：城乡建设用地增减挂钩政策的逻辑与谬误（《学术月刊》2019年第1期）
+    publisher: 爱思想
+    author: 贺雪峰
+    date: 2019-01
+    voice: scholar
+    url: https://www.aisixiang.com/data/114990.html
+    excerpt: true
+    keep: [ 增减挂钩政策通过“拆旧”形成的建设用地指标并不会产生财富, 山东德州计划将全市8000多个自然村, 与华北不同，成都市在城乡统筹试验区, 重庆地票制度与山东、成都有一定差异, 实际上，增减挂钩没有创造出任何财富 ]
+  - id: cs11-wen-he-xuefeng-reply-zhou-qiren
+    title: 贺雪峰：就地权的逻辑答周其仁教授
+    publisher: 人文与社会
+    author: 贺雪峰
+    date: 2010
+    voice: scholar
+    url: http://wen.org.cn/modules/article/view.article.php/3642
+    excerpt: true
+    keep: [ 便在2009年写了一本专业以外的关于中国土地制度的书, 批评意见中，影响最大也是我唯一愿意回应的 ]
+  # ---- 2008–2010 拆村并居与地票
+  - id: cs11-cntv-2010-11-02-beishanglou
+    title: 多省市掠夺宅基地以扩大财政 农民“被上楼”（新京报）
+    publisher: 中国网络电视台（转载新京报）
+    date: 2010-11-02
+    voice: zh
+    url: http://news.cntv.cn/china/20101102/100250.shtml
+    excerpt: true
+    keep: [ 记者调查发现，这项政策被地方政府利用, 2008、2009年国土部又分别批准了19省, 通过增减挂钩，大约有2700万亩, 第一批试点仅拆旧复垦5.58万亩, 每年的土地收益有两三亿元, 以河北省为例，2009年需要新增用地约为21万亩 ]
+  - id: cs11-cntv-2010-11-03-hebei-xinminju
+    title: 河北“新圈地运动”将农民赶进危楼 收益全归政府（新京报）
+    publisher: 中国网络电视台（转载新京报）
+    date: 2010-11-03
+    voice: zh
+    url: http://news.cntv.cn/china/20101103/100424.shtml
+    excerpt: true
+    keep: [ 不过，去年河北省获得国土资源部的城乡建设用地增减挂钩指标是1.2万亩, 不过，国土部2009年批给河北, 根据《河北日报》报道，至2012年, 政府拿钱给农民补偿了旧宅, 将农村土地整治工作纳入对各县, 需要占用农用地的，可采取先占后补 ]
+  - id: cs11-cntv-2010-11-18-xinwen1plus1
+    title: 新闻1+1：农民，不能“被上楼”！（2010.11.17）
+    publisher: 中国网络电视台
+    date: 2010-11-17
+    voice: official
+    url: http://news.cntv.cn/china/20101118/102527_print.shtml
+    excerpt: true
+    keep: [ 韩俊（国务院发展研究中心副主任）, 那么在这个过程当中，可能农民的话语权是最弱的, 从2005年到2009年，这个增减挂钩, 眼下江苏的桂五镇也正在如火如荼地进行万亩良田改造工程, 楼房它补偿是700块钱一平方 ]
+  - id: cs11-chinanews-2008-12-05-chongqing-dipiao
+    title: 中国首家农村土地交易所成立 首宗地票交易成功（光明日报）
+    publisher: 中国新闻网（转载新华网、光明日报）
+    date: 2008-12-05
+    voice: official
+    url: http://www.chinanews.com.cn/gn/news/2008/12-05/1475574.shtml
+    excerpt: true
+    keep: [ 我国第一家农村土地交易所, 分别拍出了2560万元和6420万元的价格, “地票”是指包括农村宅基地, 参加挂牌仪式的国土资源部副部长鹿心社 ]
+  - id: cs11-jjckb-2008-12-05-first-dipiao
+    title: 中国第一张“地票”成交（中国青年报）
+    publisher: 经济参考网（转载中国青年报）
+    author: 田文生
+    date: 2008-12-05
+    voice: zh
+    url: http://jjckb.xinhuanet.com/xwjc/2008-12/05/content_132234.htm
+    excerpt: true
+    keep: [ 本报重庆12月4日电, 080001号地票竞拍现场, 最终3号竞买人报出了2560万元, 顿时，现场掌声雷动, 所谓“地票”，是包括农村宅基地 ]
+  - id: cs11-moa-2023-02-21-chongqing-dipiao
+    title: 36.9万亩 724.42亿元 重庆地票改革结硕果
+    publisher: 农业农村部网站（转载重庆日报）
+    date: 2023-02-21
+    voice: official
+    url: http://www.moa.gov.cn/xw/qg/202302/t20230221_6421156.htm
+    excerpt: true
+    keep: [ 已累计交易地票36.9万亩, 首创地票交易制度 ]
+  # ---- 2015–2021 扶贫转向与节余指标交易
+  - id: cs11-people-2018-10-18-guagou-poverty
+    title: 土地增减挂钩节余指标覆盖1250多个贫困县（人民日报）
+    publisher: 人民网
+    author: 常钦
+    date: 2018-10-18
+    voice: official
+    url: http://society.people.com.cn/n1/2018/1018/c1008-30347631.html
+    excerpt: true
+    keep: [ 全国增减挂钩节余指标在省域范围内流转覆盖26个省份, 支持“三区三州”及其他深度贫困地区 ]
+  - id: cs11-yicai-2019-cross-province-quota
+    title: 帮扶脱贫攻坚，东部八省份1200亿跨省“溢价买地”40万亩
+    publisher: 第一财经
+    author: 刘展超
+    date: 2019-11-13
+    voice: zh
+    url: https://www.yicai.com/news/100401895.html
+    excerpt: true
+    keep: [ 为了化解用地供需矛盾，2005年原国土资源部, 东部八省份出资超过1200亿元, 增减挂钩节余指标跨省域调剂供求矛盾突出, 19个深度贫困地区所在省份调出节余指标19.43万亩, 确定北京、天津、上海、江苏、浙江、福建、山东等8个省 ]
+  - id: cs11-mof-2021-03-03-poverty-finance
+    title: 减贫创奇迹 财政有担当——写在我国脱贫攻坚取得全面胜利之际
+    publisher: 财政部
+    date: 2021-03-03
+    voice: official
+    url: http://www.mof.gov.cn/zhuantihuigu/fpzjzczl/gzdt2/202103/t20210303_3664788.htm
+    excerpt: true
+    keep: [ 土地增减挂指标跨省域调剂和省域内流转资金4400多亿元 ]
+  - id: cs11-mof-2021-01-28-fiscal-2020
+    title: 2020年财政收支情况
+    publisher: 财政部国库司
+    date: 2021-01-28
+    voice: official
+    url: https://gks.mof.gov.cn/tongjishuju/202101/t20210128_3650522.htm
+    excerpt: true
+    keep: [ 其中,国有土地使用权出让收入84142亿元 ]
+  # ---- 2020–2021 叫停与入法
+  - id: cs11-guancha-2020-06-28-liu-jiayi-pause
+    title: 山东省委书记：群众意见较大的 先一律暂停
+    publisher: 观察者网
+    date: 2020-06-28
+    voice: zh
+    url: https://www.guancha.cn/politics/2020_06_28_555543.shtml
+    excerpt: true
+    keep: [ 6月27日，山东省委书记刘家义召开了, 符合乡村建设规律要求, 先一律暂停，进行重新甄别, 决不能把民心工程搞成, 强行拆迁、损害群众利益的 ]
+  - id: cs11-sohu-2020-07-02-faren-hecun
+    title: 合村并居：山东按下的暂停键如何重启（《法人》杂志）
+    publisher: 搜狐（转载《法人》杂志）
+    author: 谢昱航
+    date: 2020-07-02
+    voice: zh
+    url: https://www.sohu.com/a/405409337_564210
+    excerpt: true
+    keep: [ 中央农办等5部门下发, 对于2020年7月10日前未腾空院落, 6月21日上午，为建设灵芝湖康养项目, 南京师范大学中国法治现代化研究院研究员王丽惠, 武汉大学中国乡村治理研究中心研究员吕德文表示, 政府给的补偿低，要自己贴5至8万元, 武汉大学中国乡村治理研究中心主任贺雪峰认为, 其实，合村并居阻力大，说到底是资金不足的问题 ]
+  - id: cs11-gov-2020-07-29-natres-128
+    title: 自然资源部 农业农村部关于保障农村村民住宅建设合理用地的通知（自然资发〔2020〕128号）
+    publisher: 中国政府网
+    date: 2020-07-29
+    voice: doc
+    url: https://www.gov.cn/zhengce/zhengceku/2020-08/01/content_5531857.htm
+    start: 各省、自治区、直辖市自然资源主管部门
+    end: 各省级自然资源、农业农村主管部门要结合实际制订实施细则。
+  - id: cs11-xinhua-2020-07-31-no-forced-upstairs
+    title: 两部门：不得强制农民搬迁上楼
+    publisher: 新华网
+    author: 王立彬
+    date: 2020-07-31
+    voice: official
+    url: https://www.xinhuanet.com/politics/2020-07/31/c_1126309105.htm
+    start: 自然资源部、农业农村部31日发出通知
+    end: （记者王立彬）
+  - id: cs11-gov-2021-02-21-no1-document
+    title: 中共中央 国务院关于全面推进乡村振兴加快农业农村现代化的意见（2021年中央一号文件）
+    publisher: 中国政府网（新华社）
+    date: 2021-01-04
+    voice: doc
+    url: https://www.gov.cn/zhengce/2021-02/21/content_5588098.htm
+    excerpt: true
+    keep: [ 严格规范村庄撤并，不得违背农民意愿、强迫农民上楼 ]
+  - id: cs11-npc-2021-04-29-rural-revitalization-law
+    title: 中华人民共和国乡村振兴促进法
+    publisher: 中国人大网
+    date: 2021-04-29
+    voice: doc
+    url: http://www.npc.gov.cn/npc/c2/c30834/202104/t20210429_311287.html
+    excerpt: true
+    keep: [ 第五十一条 县级人民政府和乡镇人民政府应当优化本行政区域内乡村发展布局, 本法自2021年6月1日起施行 ]
+  # ---- 基层的挂钩腐败
+  - id: cs11-people-2016-12-13-ccdi-nine-cases
+    title: 中央纪委通报九起侵害群众利益不正之风和腐败问题典型案例
+    publisher: 人民网
+    date: 2016-12-13
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/1213/c1001-28943856.html
+    excerpt: true
+    keep: [ 郑帅利用协助张集镇政府实施水口村城乡建设用地增减挂钩复垦项目的便利 ]
+  - id: cs11-scjc-2024-09-26-ganzi
+    title: 警惕重点领域隐秘“围猎”（新华社）
+    publisher: 四川省纪委监委网站（转载新华社）
+    author: 吴光于
+    date: 2024-09-26
+    voice: official
+    url: https://www.scjc.gov.cn/scjc/rdzx/2024/9/26/a79f903a8982481ebe0739bcd1f8d097.shtml
+    excerpt: true
+    keep: [ 2023年，金沙江畔的巴塘县自然资源局原党组书记、局长李兆勇落马, 经查，2017年至2023年，李兆勇在担任巴塘县自然资源局局长期间，利用职务之便, 截至目前，甘孜州自然资源系统已立案, 时任丹巴县自然资源局局长的任先博 ]

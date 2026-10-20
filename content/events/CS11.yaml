@@ -1,0 +1,50 @@
+# CS11 (round 19): events for the case study land-quota.
+# 已有并直接挂接的：e16-2006-guagou-first-pilots、e16-2010-guofa-47、e16-2018-guagou-cross-province、
+# e16-2020-shandong-hecun、i12-2010-land-swap-curb，未重建。
+
+- id: cs11-2008-chongqing-dipiao
+  date: 2008-12-04
+  title: 重庆农村土地交易所成立，首宗“地票”成交
+  lane: econ
+  summary: 2008年12月4日，重庆农村土地交易所挂牌成立，国土资源部副部长鹿心社出席，市委书记薄熙来到场见证首场竞拍。“地票”是农村宅基地等集体建设用地复垦验收后产生的指标，购得者可增加等量城镇建设用地。首场两宗地票面积300亩和800亩，分别拍出2560万元和6420万元。到2022年底，重庆累计交易地票36.9万亩、724.42亿元。
+  people: [bo-xilai, lu-xinshe]
+  concepts: [land-linkage]
+  cites: [cs11-chinanews-2008-12-05-chongqing-dipiao, cs11-jjckb-2008-12-05-first-dipiao, cs11-moa-2023-02-21-chongqing-dipiao]
+
+- id: cs11-2019-cross-province-strain
+  date: 2019-11-12
+  title: 自然资源部称增减挂钩节余指标跨省调剂供求矛盾突出
+  lane: econ
+  summary: 2019年11月12日，自然资源部在对全国人大代表建议的答复中说，增减挂钩节余指标跨省域调剂供求矛盾突出：中西部多个省份申请多调出指标，东部帮扶省份新增建设用地需求减弱、出资压力增大。第一财经据此统计，2018、2019两年东部八省份出资超过1200亿元，换来约40万亩指标；其中2018年深度贫困地区所在省份调出19.43万亩，获资金607.28亿元。
+  people: []
+  concepts: [land-linkage, poverty-alleviation]
+  cites: [cs11-yicai-2019-cross-province-quota, cs11-people-2018-10-18-guagou-poverty]
+
+- id: cs11-2020-shandong-pause
+  date: 2020-06-27
+  title: 刘家义要求群众意见较大的合村并居项目先一律暂停
+  lane: society
+  summary: 2020年6月27日，山东省委书记刘家义召开美丽宜居乡村建设视频会议，肯定这项工作“方向是正确的，政策是妥当的”，同时要求对“正在实施但群众意见较大的”和尚未实施的项目先一律暂停、重新甄别，“决不能把民心工程搞成‘民怨工程’”。此前巨野县柳林镇曾通知逾期未腾空院落者将被强制拆除，枣庄山亭区拆迁冲突后两名街道工作人员被免职。
+  people: [liu-jiayi]
+  concepts: [land-linkage, rural-revitalization]
+  cites: [cs11-guancha-2020-06-28-liu-jiayi-pause, cs11-sohu-2020-07-02-faren-hecun]
+
+- id: cs11-2020-no-forced-upstairs
+  date: 2020-07-29
+  end: 2020-07-31
+  title: 两部门通知：不得强制农民搬迁和上楼居住
+  lane: society
+  summary: 2020年7月29日，自然资源部、农业农村部印发《关于保障农村村民住宅建设合理用地的通知》（自然资发〔2020〕128号），31日对外发布。通知要求农村村民住宅用地计划指标在年度全国土地利用计划中单列，原则上不低于新增建设用地计划指标的5%，并写明“不提倡、不鼓励在城市和集镇规划区外拆并村庄、建设大规模农民集中居住区，不得强制农民搬迁和上楼居住”。
+  people: []
+  concepts: [land-linkage, rural-revitalization]
+  cites: [cs11-gov-2020-07-29-natres-128, cs11-xinhua-2020-07-31-no-forced-upstairs]
+
+- id: cs11-2021-village-merger-law
+  date: 2021-02-21
+  end: 2021-06-01
+  title: 一号文件与《乡村振兴促进法》禁止违背农民意愿撤并村庄
+  lane: society
+  summary: 2021年2月21日公布的中央一号文件要求乡村建设“不刮风搞运动”，“严格规范村庄撤并，不得违背农民意愿、强迫农民上楼”。4月29日，全国人大常委会通过《乡村振兴促进法》，第五十一条规定县乡两级政府“严格规范村庄撤并，严禁违背农民意愿、违反法定程序撤并村庄”，6月1日起施行。2010年国务院通知里的同类禁令，由此有了法律条文。
+  people: []
+  concepts: [rural-revitalization, land-linkage]
+  cites: [cs11-gov-2021-02-21-no1-document, cs11-npc-2021-04-29-rural-revitalization-law, e16-gov-2010-12-27-guofa-47]
