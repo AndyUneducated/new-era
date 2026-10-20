@@ -785,8 +785,8 @@ wang-wenling:
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-04-07-wang-wenling-probe }
   politics:
     level: none
-    why: 目前只有立案消息，未见政治关联报道
-    cites: [r08-people-2026-04-07-wang-wenling-probe]
+    why: 2026 年 10 月被开除党籍；通报列有私自阅看有严重政治问题的书籍等违反政治纪律的行为，但未见把此案与某位落马高官或派系清洗连在一起的报道
+    cites: [r08-people-2026-04-07-wang-wenling-probe, c15-xinhua-2026-10-19-wang-wenling-expel]
   outcome: expelled
 
 wang-wenhua-qd:
@@ -856,8 +856,8 @@ yu-xiaoping:
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-13-yu-xiaoping-probe }
   politics:
     level: none
-    why: 目前只有立案消息，未见政治关联报道
-    cites: [r08-people-2026-06-13-yu-xiaoping-probe]
+    why: 2026 年 10 月被开除党籍，通报所列是贷款审批中受贿和滥用职权，未见政治关联报道
+    cites: [r08-people-2026-06-13-yu-xiaoping-probe, c15-xinhua-2026-10-19-yu-xiaoping-expel]
   outcome: expelled
 
 wang-yihua:
