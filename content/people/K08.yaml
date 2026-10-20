@@ -809,6 +809,7 @@
 # ---------- 纪检派驻：民政部、中宣部、全国人大机关 ----------
 - id: jia-yulin
   name: 贾育林
+  verify: true
   gender: m
   ethnicity: 汉族
   roles: [ccdi]

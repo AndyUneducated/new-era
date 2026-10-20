@@ -291,6 +291,7 @@
 - id: hu-yuhai
   name: 胡瑜海
   pinyin: Hú Yúhǎi
+  verify: true
   gender: m
   roles: [general, ccdi]
   status: active

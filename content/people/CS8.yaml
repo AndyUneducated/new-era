@@ -147,6 +147,7 @@
 - id: gao-lin
   name: 高林
   pinyin: Gāo Lín
+  verify: true
   gender: m
   roles: [ccdi]
   status: retired
