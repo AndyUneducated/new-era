@@ -1,0 +1,271 @@
+# RL7 (round 19): predecessors, successors, partners and patrons of case-essay people still without a relation (research/lists/R19-case-people-no-relation.txt).
+web:
+  # ---------- 维基百科 ----------
+  - { id: rl7-wiki-xi-xiaoming, title: 奚晓明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/奚晓明", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-gan-rongkun, title: 甘荣坤（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/甘荣坤", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-zhang-bencai, title: 张本才（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张本才", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-lu-enguang, title: 卢恩光（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/卢恩光", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-qin-yuhai, title: 秦玉海（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/秦玉海", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-meng-yongshan, title: 蒙永山（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/蒙永山", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-yang-keqin, title: 杨克勤（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨克勤", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-hu-yifeng, title: 胡毅峰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/胡毅峰", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-zhong-shijian, title: 钟世坚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/钟世坚", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-hao-hongjun, title: 郝宏军（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郝宏军", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-jiang-guowen, title: 姜国文（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/姜国文", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wen-guodong, title: 文国栋（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/文国栋", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-yang-kening, title: 杨克宁（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/杨克宁", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-guo-youming, title: 郭有明（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郭有明", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-chen-baihuai, title: 陈柏槐（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/陈柏槐", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-ren-runhou, title: 任润厚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/任润厚", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-zheng-yuzhuo, title: 郑玉焯（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/郑玉焯", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-li-xiangang, title: 李显刚（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/李显刚", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-chang-xiaobing, title: 常小兵（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/常小兵", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-si-xianmin, title: 司献民（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/司献民", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-deng-qilin, title: 邓崎琳（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/邓崎琳", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-sun-bo-csic, title: 孙波（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/孙波_(1961年)", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-cai-xiyou, title: 蔡希有（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/蔡希有", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wang-yincheng, title: 王银成（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王银成", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wang-xiaolin, title: 王晓林（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王晓林", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-zhang-hongli, title: 张红力（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张红力", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-lou-wenlong, title: 楼文龙（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/楼文龙", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-fan-yifei, title: 范一飞（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/范一飞", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-dai-chunning, title: 戴春宁（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/戴春宁", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-qi-pingjing, title: 齐平景（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/齐平景", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wu-zhenfang, title: 吴振芳（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/吴振芳", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-zhang-daixin, title: 张代新（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/张代新", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wang-dengfeng, title: 王登峰（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王登峰", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-wang-xinghuan, title: 王行环（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/王行环", excerpt: true, keep: [ 年 ] }
+  - { id: rl7-wiki-gong-jianhua, title: 龚建华（维基百科）, publisher: 维基百科, voice: wiki, url: "https://zh.wikipedia.org/zh-hans/龚建华_(1962年)", excerpt: true, keep: [ 年 ] }
+  # ---------- 媒体：央企、金融 ----------
+  - id: rl7-chinanews-2015-08-25-telecom-swap
+    title: 三大运营商换一把手传闻坐实 电信联通董事长互换
+    publisher: 中国新闻网
+    date: 2015-08-25
+    voice: zh
+    url: https://www.chinanews.com.cn/cj/2015/08-25/7486794.shtml
+    excerpt: true
+    keep: [ 王晓初, 常小兵 ]
+  - id: rl7-ce-2014-05-20-shenhua
+    title: 张玉卓接任神华集团董事长
+    publisher: 中国经济网
+    date: 2014-05-20
+    voice: zh
+    url: http://finance.ce.cn/rolling/201405/20/t20140520_2840437.shtml
+    excerpt: true
+    keep: [ 张喜武, 张玉卓 ]
+  - id: rl7-people-2015-06-02-wisco
+    title: 马国强任武汉钢铁（集团）公司董事长、党委书记
+    publisher: 人民网
+    date: 2015-06-02
+    voice: zh
+    url: http://renshi.people.com.cn/n/2015/0602/c139617-27092269.html
+    excerpt: true
+    keep: [ 马国强, 邓崎琳 ]
+  - id: rl7-sina-2009-01-13-csair
+    title: 司献民出任南航总经理
+    publisher: 新浪财经
+    date: 2009-01-13
+    voice: zh
+    url: http://finance.sina.com.cn/roll/20090113/11572624363.shtml
+    excerpt: true
+    keep: [ 司献民, 刘绍勇 ]
+  - id: rl7-thepaper-2015-03-csic
+    title: 胡问鸣任中船重工董事长，孙波任总经理
+    publisher: 澎湃新闻
+    date: 2015-03-17
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_1314864
+    excerpt: true
+    keep: [ 胡问鸣, 孙波, 李长印 ]
+  - id: rl7-cnr-2025-01-06-zhou-xianming
+    title: 周显明案细节
+    publisher: 央广网
+    date: 2025-01-06
+    voice: zh
+    url: https://news.cnr.cn/native/gd/kx/20250106/t20250106_527032943.shtml
+    excerpt: true
+    keep: [ 徐文荣, 王宜林 ]
+  - id: rl7-npc-2015-pboc-fan-yifei
+    title: 十二届全国人大四次会议记者会：金融改革与发展（中国人大网）
+    publisher: 中国人大网
+    date: 2016-03-12
+    voice: official
+    url: http://www.npc.gov.cn/zgrdw/npc/zhibo/zzzb33/node_5847.htm
+    excerpt: true
+    keep: [ 范一飞, 周小川 ]
+  - id: rl7-people-2014-01-23-tobacco
+    title: 烟草局认真学习《党政领导干部选拔任用工作条例》
+    publisher: 人民网
+    date: 2014-01-23
+    voice: zh
+    url: http://politics.people.com.cn/n/2014/0123/c70731-24205199.html
+    excerpt: true
+    keep: [ 凌成兴, 赵洪顺 ]
+  - id: rl7-oeeee-2024-05-25-xu-ying
+    title: 周末打虎：他曾执掌8省份烟草，任国家烟草专卖局副局长十年
+    publisher: 南方都市报
+    date: 2024-05-25
+    voice: zh
+    url: https://m.mp.oeeee.com/a/BAAFRD000020240525957605.html
+    excerpt: true
+    keep: [ 共过事, 同僚, 凌成兴 ]
+  - id: rl7-zhitong-2024-06-28-dec
+    title: 东方电气(01072)委任俞培根为董事长
+    publisher: 智通财经
+    date: 2024-06-28
+    voice: zh
+    url: https://www.zhitongcaijing.com/content/detail/1143111.html
+    excerpt: true
+    keep: [ 俞培根, 宋致远 ]
+  - id: rl7-rfa-2025-03-14-aerospace
+    title: 因“靠军工吃军工”落马（失踪）的航天系高管与许达哲、马兴瑞的关系（二）
+    publisher: 自由亚洲电台（夜话中南海）
+    date: 2025-03-14
+    voice: west
+    url: https://www.rfa.org/mandarin/guandian/zhuanlan/yehuazhongnanhai/2025/03/14/china-military-aerospace-corruption/
+    excerpt: true
+    keep: [ 王长青 ]
+  - id: rl7-ce-2019-03-18-li-jianbo
+    title: 李建波不再担任交通运输部党组成员
+    publisher: 中国经济网
+    date: 2019-03-18
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201903/18/t20190318_31700280.shtml
+    excerpt: true
+    keep: [ 李建波 ]
+  - id: rl7-caixin-2014-02-26-zhang-hongli
+    title: 张红力被提名为工行执行董事
+    publisher: 财新网
+    date: 2014-02-26
+    voice: zh
+    url: https://finance.caixin.com/2014-02-26/100643660.html
+    excerpt: true
+    keep: [ 张红力, 姜建清 ]
+  - id: rl7-thepaper-2018-12-unicom
+    title: 联通董事长：加快与混改战投深度合作，建立5G合作新生态
+    publisher: 澎湃新闻
+    date: 2018-12-24
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_2773234
+    excerpt: true
+    keep: [ 王晓初, 李国华 ]
+  - id: rl7-ce-2013-12-13-heilongjiang
+    title: 郝会龙任黑龙江省副省长 李显刚接替李海涛任政府秘书长
+    publisher: 中国经济网
+    date: 2013-12-13
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201312/13/t20131213_1916475.shtml
+    excerpt: true
+    keep: [ 李显刚 ]
+  - id: rl7-people-2014-06-06-nea
+    title: 能源局腐败窝案（《环球人物》）
+    publisher: 人民网（《环球人物》）
+    date: 2014-06-06
+    voice: zh
+    url: https://paper.people.com.cn/hqrw/html/2014-06/06/content_1444498.htm
+    excerpt: true
+    keep: [ 郝卫平, 吴新雄 ]
+  # ---------- 媒体：政法、地方 ----------
+  - id: rl7-ce-2016-01-25-shanghai-procuratorate
+    title: 张本才任上海市检察院党组书记
+    publisher: 中国经济网
+    date: 2016-01-25
+    voice: zh
+    url: http://district.ce.cn/newarea/sddy/201601/25/t20160125_8543189.shtml
+    excerpt: true
+    keep: [ 张本才, 陈旭 ]
+  - id: rl7-caixin-2021-11-07-xian
+    title: 方红卫履新西安市委书记
+    publisher: 财新网
+    date: 2021-11-07
+    voice: zh
+    url: https://china.caixin.com/m/2021-11-07/101801610.html
+    excerpt: true
+    keep: [ 方红卫, 王浩 ]
+  - id: rl7-caixin-2020-07-21-gansu
+    title: 王嘉毅履新甘肃省委宣传部长
+    publisher: 财新网
+    date: 2020-07-21
+    voice: zh
+    url: https://china.caixin.com/2020-07-21/101582631.html
+    excerpt: true
+    keep: [ 王嘉毅, 陈青 ]
+  - id: rl7-caixin-2015-03-25-nanchang
+    title: 龚建华任南昌市委书记 王文涛任济南市委书记
+    publisher: 财新网
+    date: 2015-03-25
+    voice: zh
+    url: https://china.caixin.com/2015-03-25/100794588.html
+    excerpt: true
+    keep: [ 龚建华, 王文涛 ]
+  - id: rl7-eastmoney-2015-07-10-meng-qingfeng
+    title: 孟庆丰任公安部副部长
+    publisher: 东方财富网
+    date: 2015-07-10
+    voice: zh
+    url: https://fund.eastmoney.com/a/1590,20150710525586959_0.html
+    excerpt: true
+    keep: [ 孟庆丰, 郭声琨 ]
+  - id: rl7-spc-2011-10-09-civil-trial-minutes
+    title: 全国民事审判工作会议纪要（法办〔2011〕442号，转载）
+    publisher: 北京王康律师网（转载最高人民法院办公厅文件）
+    date: 2011-10-09
+    voice: zh
+    url: https://www.wangkanglawyer.com/3261.html
+    excerpt: true
+    keep: [ 奚晓明, 王胜俊 ]
+  - id: rl7-thepaper-2016-05-henan-psb
+    title: 王小洪任河南省公安厅厅长
+    publisher: 澎湃新闻
+    voice: zh
+    url: https://m.thepaper.cn/newsDetail_forward_1471931
+    excerpt: true
+    keep: [ 秦玉海, 王小洪 ]
+  - id: rl7-ce-2023-02-01-crtamg
+    title: 马正武任中国融通董事长、党组书记 温刚另有任用
+    publisher: 中国经济网
+    date: 2023-02-01
+    voice: zh
+    url: https://www.ce.cn/xwzx/gnsz/gdxw/202302/01/t20230201_38371069.shtml
+    excerpt: true
+    keep: [ 马正武同志任中国融通, 温刚 ]
+  - id: rl7-gov-2024-03-state-council-appointments
+    title: 中华人民共和国国务院任免人员（2024年第8号国务院公报）
+    publisher: 中国政府网
+    date: 2024-02-08
+    voice: official
+    url: https://www.gov.cn/gongbao/2024/issue_11226/202403/content_6940041.html
+    excerpt: true
+    keep: [ 卞志刚 ]
+  - id: rl7-jiemian-2019-09-03-cnooc
+    title: 汪东进代为履行中国海油董事长职务
+    publisher: 界面新闻
+    date: 2019-09-03
+    voice: zh
+    url: https://www.jiemian.com/article/3467974.html
+    excerpt: true
+    keep: [ 袁光宇因到龄退休, 10月正式任中海油总经理 ]
+  - id: rl7-thepaper-2024-03-26-ren-yuzhong
+    title: “80后”北京大学党委常委任羽中已任副校长
+    publisher: 澎湃新闻
+    date: 2024-03-26
+    voice: zh
+    url: https://www.thepaper.cn/newsDetail_forward_26814826
+    excerpt: true
+    keep: [ 任羽中, 协助党委书记 ]
+  - id: rl7-chinanews-2013-05-29-guangdong
+    title: 广东省政府调整省长、副省长分工 李春生履新
+    publisher: 中国新闻网
+    date: 2013-05-29
+    voice: zh
+    url: https://www.chinanews.com/gn/2013/05-29/4871235.shtml
+    excerpt: true
+    keep: [ 李春生, 朱小丹 ]
+  - id: rl7-zqrb-2020-06-18-xu-xianping
+    title: 许宪平履新中国兵器装备集团董事长 长安汽车驶入全面发展快车道
+    publisher: 证券日报网
+    date: 2020-06-18
+    voice: zh
+    url: http://www.zqrb.cn/auto/qichedongtai/2020-06-18/A1592485162817.html
+    excerpt: true
+    keep: [ 许宪平, 刘卫东 ]
