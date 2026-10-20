@@ -1,0 +1,66 @@
+# CS12 — events for fugitives-skynet (officials who fled abroad; the fugitive-recovery office, Sky Net and the hundred red notices; repatriation, the 2018 judicial-assistance law and trial in absentia)
+- id: cs12-2011-fugitive-figures-denied
+  date: 2011-06-15
+  end: 2011-06-22
+  title: 央行网站报告称外逃干部携款8000亿元，官方称数据失实
+  lane: purge
+  summary: 2011年6月，中国人民银行网站公布反洗钱监测分析中心2008年完成的调研报告，报告引述社科院数据称，1990年代中期以来有1.6万至1.8万名党政干部和驻外中资机构人员外逃或失踪，携款约8000亿元；BBC说多数中国网站一天之内删除了相关报道。6月17日中国金融学会声明数据“严重失实”，22日中央纪委副书记、新闻发言人吴玉良在发布会上再次澄清，并说要大力开展境外追逃追赃。
+  cites: [cs12-bbc-2011-06-15-pboc-report, cs12-bbc-2011-06-17-pboc-denial, cs12-cntv-2011-06-23-ccdi-denial]
+
+- id: cs12-2014-zhuitaoban-established
+  date: 2014-06-27
+  end: 2014-12-05
+  title: 中央反腐败协调小组设立国际追逃追赃工作办公室
+  lane: purge
+  summary: 2014年6月27日，中央决定在中央反腐败协调小组设立国际追逃追赃工作办公室（中央追逃办），成员为中央纪委、最高法、最高检、外交部、公安部、国家安全部、司法部、人民银行8家单位，具体工作由中央纪委国际合作局承担。10月，中央纪委副书记、监察部长黄树贤首次以办公室负责人身份接受采访；12月，中美执法合作联合联络小组确定杨秀珠、王国强、黄玉荣、许超凡、乔建军5起重点追逃案件。
+  people: [huang-shuxian]
+  concepts: [fox-hunt]
+  cites: [cs12-people-2017-06-27-office-three-years, cs12-people-2014-10-11-huang-shuxian-office]
+
+- id: cs12-2015-li-huabo-repatriated
+  date: 2015-05-09
+  end: 2017-01-23
+  title: “百名红通”2号李华波从新加坡被遣返，后判无期
+  lane: purge
+  summary: 江西鄱阳县财政局经济建设股原股长李华波，2006年至2010年伙同他人套取县财政专项资金9400万元，大量用于赌博，2011年初出逃新加坡。中方检察官赴新加坡出庭作证后，新加坡法院2014年以不诚实接受赃款罪判他监禁15个月；他服刑10个月后于2015年5月9日被遣返回国，是“百名红通人员”公布后第二个到案的。2017年1月23日，上饶中院以贪污罪判处无期徒刑，同时认定他自首。
+  cites: [cs12-xinhua-2017-01-23-li-huabo-verdict, cs12-people-2017-06-27-office-three-years]
+
+- id: cs12-2016-yang-xiuzhu-returns
+  date: 2016-11-16
+  end: 2017-10-13
+  title: “百名红通”头号嫌犯杨秀珠从美国回国投案
+  lane: purge
+  major: true
+  summary: 2016年11月16日，浙江省建设厅原副厅长、“百名红通人员”头号嫌犯杨秀珠从美国回国投案自首，是第37名归案的“百名红通人员”。她2003年4月外逃，先后到过香港、新加坡、法国、荷兰、意大利，2014年5月去美国申请“避难”，6月在纽约被捕；2016年撤回避难申请，美国移民法庭发出遣返令。新华社说她从“死也要死在美国”到决定回国。2017年10月13日，杭州中院以贪污、受贿罪判她有期徒刑8年。
+  cites: [cs12-xinhua-2016-11-16-yang-xiuzhu-return, cs12-ccdi-2016-11-16-us-cases, cs12-court-2017-10-13-yang-xiuzhu-verdict]
+
+- id: cs12-2018-xu-chaofan-repatriated
+  date: 2018-07-11
+  end: 2021-10
+  title: 中国银行开平支行案主犯许超凡从美国被遣返
+  lane: purge
+  summary: 2018年7月11日，中国银行开平支行原行长许超凡从美国被遣返回国。他和继任行长余振东、许国俊2001年10月案发后逃往美国，美国法院以洗钱等罪判他25年；中央纪委称这是在发达国家异地追诉、异地服刑后强制遣返重要职务犯罪逃犯的第一起成功案例，也是国家监委成立后首个境外遣返的外逃人员。江门中院后来认定他是自愿接受遣返，构成自首，2021年10月判他13年。
+  cites: [cs12-ccdi-2018-07-12-xu-chaofan, cs12-court-2023-12-13-kaiping-boc]
+
+- id: cs12-2018-judicial-assistance-law
+  date: 2018-10-26
+  title: 《国际刑事司法协助法》通过，国家监委列为主管机关
+  lane: purge
+  summary: 2018年10月26日，十三届全国人大常委会第六次会议通过《国际刑事司法协助法》，同日通过修改刑事诉讼法、增设缺席审判程序的决定。协助法第六条把国家监察委员会和最高法、最高检、公安部、国家安全部并列为国际刑事司法协助的主管机关；第四条规定非经中国主管机关同意，外国机构、组织和个人不得在中国境内进行该法规定的刑事诉讼活动。人民日报说，起草历经10余年。
+  concepts: [fox-hunt]
+  cites: [cs12-gov-2018-10-27-judicial-assistance-law, cs12-npc-2018-10-29-legal-net]
+
+- id: cs12-2022-cheng-sanchang-absentia
+  date: 2021-12-09
+  end: 2022-01-17
+  title: 程三昌贪污案：第一起刑事缺席审判
+  lane: purge
+  summary: 2021年12月9日，郑州中院缺席审理“百名红通人员”、漯河市委原书记、豫港（集团）原董事长程三昌贪污案，这是2018年刑诉法增设缺席审判程序后的第一案。法院认定他2000年12月以在新西兰设分公司为由三次转走公款折合308.88万余元，2001年2月7日逃往境外；近亲属为他委托两名辩护人出庭。2022年1月17日，法院以他“逃匿境外逾20年，拒不到案接受审判”从重判处有期徒刑12年。
+  cites: [cs12-xinhua-2022-01-17-cheng-sanchang, cs12-ccdi-2021-12-10-cheng-sanchang-trial]
+
+- id: cs12-2025-asia-red-notices-cleared
+  date: 2025-07-24
+  title: 周静华从泰国被引渡，亚洲地区“百名红通人员”清零
+  lane: purge
+  summary: 2025年7月，“百名红通人员”第26号、原中国云铜（泰国）投资开发有限公司副总经理周静华从泰国被引渡回国，是第63名归案的“百名红通人员”，中央追逃办称亚洲地区“百名红通人员”清零。中央纪委网站评论说仍有37人在逃，主要在美国、加拿大、新西兰、澳大利亚等少数西方发达国家，并称有的国家在政治上充当腐败分子“避风港”。同年梁锦文（第99号）回国投案。
+  cites: [cs12-cctv-2025-07-24-zhou-jinghua, cs12-scjc-2025-07-25-asia-cleared, cs12-cna-2026-01-06-skynet-2025]

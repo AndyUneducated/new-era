@@ -1,0 +1,322 @@
+# CS12 — fugitives-skynet: officials who fled abroad, Fox Hunt (2014), Sky Net and the hundred red notices (2015),
+# repatriation, persuasion and extradition, the 2018 laws and trial in absentia; plus the card for 程维高
+web:
+  # ---- 机构与行动
+  - id: cs12-people-2014-10-11-huang-shuxian-office
+    title: 黄树贤任中央反腐败协调小组国际追逃追赃工作办公室负责人
+    publisher: 人民网（中国共产党新闻网）
+    date: 2014-10-11
+    voice: official
+    url: http://renshi.people.com.cn/n/2014/1011/c139617-25809764.html
+    start: 中国共产党新闻网北京10月10日电
+    end: 各单位按照中央反腐败协调小组的统一部署和职责分工开展工作。
+  - id: cs12-chinanews-2015-01-08-fox-hunt-680
+    title: “猎狐2014”行动收官 680名境外逃犯落网
+    publisher: 中新网（新华网）
+    date: 2015-01-08
+    voice: official
+    url: https://www.chinanews.com.cn/fz/2015/01-08/6950520.shtml
+    start: 自去年7月至12月底
+  - id: cs12-people-2015-03-26-skynet-launch
+    title: 国际追逃追赃启动“天网”行动
+    publisher: 人民网（中央纪委监察部网站）
+    date: 2015-03-26
+    voice: official
+    url: http://fanfu.people.com.cn/n/2015/0326/c64371-26756107.html
+    start: 日前，中央反腐败
+  - id: cs12-ccdi-2019-01-11-red-notice-episode2
+    title: 电视专题片《红色通缉》第二集《织网》
+    publisher: 中央纪委国家监委网站
+    date: 2019-01-11
+    voice: official
+    url: http://v.ccdi.gov.cn/2019/01/11/VIDEPtite0Jy42OS4RJxyDOd190111.shtml
+  - id: cs12-sina-2015-09-18-liu-jianchao-yang-jinjun
+    title: “反腐新兵”刘建超亮相追逃一线 三重身份是何来头？
+    publisher: 新浪新闻（中国新闻网）
+    date: 2015-09-18
+    voice: official
+    url: http://news.sina.com.cn/o/2015-09-18/doc-ifxhxzxp4622133.shtml
+    start: 中新网北京9月18日电
+  - id: cs12-people-2016-03-11-liu-jianchao-24
+    title: 预防腐败局副局长：去年追回“红通人员”18个 今年新增6个
+    publisher: 人民网
+    date: 2016-03-11
+    voice: official
+    url: http://lianghui.people.com.cn/2016cppcc/n1/2016/0311/c402615-28191750.html
+    start: 人民网北京3月11日电
+  - id: cs12-ccdi-2017-04-27-hiding-clues
+    title: 中央追逃办再掷追逃杀手锏 “追你到天涯海角”
+    publisher: 中央纪委监察部网站
+    date: 2017-04-27
+    voice: official
+    url: http://m.ccdi.gov.cn/content/e3/4e/16106.html
+  - id: cs12-ccdi-2017-05-10-forty-returned
+    title: 有人判无期 有人免起诉 “百名红通人员”归案40人为何处置不同
+    publisher: 中央纪委监察部网站
+    date: 2017-05-10
+    voice: official
+    url: http://v.ccdi.gov.cn/2017/05/10/VIDEk6MmrXBTNFvIfkOHPzkW170510.shtml
+  - id: cs12-people-2017-06-27-office-three-years
+    title: 中央追逃办成立三周年大事记
+    publisher: 人民网（中央纪委监察部网站）
+    date: 2017-06-27
+    voice: official
+    url: http://fanfu.people.com.cn/n1/2017/0627/c64371-29365421.html
+  # ---- 典型案例
+  - id: cs12-chinanews-2015-12-05-huang-yurong
+    title: 百名红通嫌犯黄玉荣投案 已有18名“红通人员”归案
+    publisher: 中新网（央视）
+    date: 2015-12-05
+    voice: official
+    url: https://www.chinanews.com/kong/2015/12-05/7657341.shtml
+  - id: cs12-xinhua-2017-01-23-li-huabo-verdict
+    title: 百人“红通”二号人物李华波一审被判无期徒刑
+    publisher: 新华网（央视）
+    date: 2017-01-23
+    voice: official
+    url: http://www.xinhuanet.com/politics/2017-01/23/c_1120366672.htm
+  - id: cs12-xinhua-2016-11-16-yang-xiuzhu-return
+    title: “百名红通人员”头号嫌犯杨秀珠从美国回国投案自首
+    publisher: 新华网
+    date: 2016-11-16
+    voice: official
+    url: http://www.xinhuanet.com/politics/2016-11/16/c_1119925509.htm
+  - id: cs12-ccdi-2016-11-16-us-cases
+    title: 【图解】杨秀珠王国强黄玉荣等归案 中美反腐合作重点个案不断突破
+    publisher: 中央纪委监察部网站
+    date: 2016-11-16
+    voice: official
+    url: https://m.ccdi.gov.cn/content/e4/e4/13125.html
+  - id: cs12-court-2017-10-13-yang-xiuzhu-verdict
+    title: “百名红通”1号杨秀珠贪污受贿案一审获刑八年
+    publisher: 最高人民法院（人民法院新闻传媒总社）
+    date: 2017-10-13
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/63292.html
+  - id: cs12-people-2016-11-12-yan-yongming-return
+    title: “百名红通人员”第5号嫌犯闫永明从新西兰回国投案自首
+    publisher: 人民网（中央纪委监察部网站）
+    date: 2016-11-12
+    voice: official
+    url: http://politics.people.com.cn/n1/2016/1112/c1001-28855031.html
+  - id: cs12-cnr-2017-05-11-yan-yongming-nz
+    title: “百名红通”人员第5位闫永明 1.3亿违法所得返还我国
+    publisher: 央广网（新华社）
+    date: 2017-05-11
+    voice: official
+    url: http://www.cnr.cn/bj/jrbj/20170511/t20170511_523749450.shtml
+  - id: cs12-ccdi-2018-07-12-xu-chaofan
+    title: 历时17年 追逃从未停歇——许超凡被强制遣返背后
+    publisher: 中央纪委国家监委网站
+    date: 2018-07-12
+    voice: official
+    url: https://m.ccdi.gov.cn/content/e5/c6/29433.html
+  - id: cs12-court-2023-12-13-kaiping-boc
+    title: 江门中院审判长就“红通人员”许国俊案答记者问：开平中行案三名主犯全部归案
+    publisher: 最高人民法院
+    date: 2023-12-13
+    voice: official
+    url: https://www.court.gov.cn/fabu/xiangqing/420312.html
+  - id: cs12-people-2020-01-03-peng-xufeng
+    title: “红通人员”彭旭峰及其妻子贾斯语受贿、洗钱违法所得没收申请一案宣判
+    publisher: 人民政协网（人民网）
+    date: 2020-01-03
+    voice: official
+    url: https://www.rmzxw.com.cn/c/2020-01-03/2497552.shtml
+  - id: cs12-wiki-qiao-jianjun
+    title: 乔建军 (1963年)
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/wiki/%E4%B9%94%E5%BB%BA%E5%86%9B_(1963%E5%B9%B4)
+    excerpt: true
+    keep: [ 中储粮周口直属库原主任, 位列第三, 从瑞典引渡至美国 ]
+  - id: cs12-qiaobao-2021-12-20-qiao-jianjun
+    title: 贪官乔建军涉嫌洗钱认罪出庭时带镣铐咳嗽不断
+    publisher: 侨报（新加坡新闻网转载）
+    date: 2021-12-20
+    voice: zh
+    url: https://www.xinjiapo.news/news/185615
+    excerpt: true
+    keep: [ 乔建军开庭后认罪, 瑞典2018年应中国的要求, 百名红通人员名单上排第三 ]
+  - id: cs12-thepaper-2015-07-17-cheng-muyang
+    title: 中国外逃嫌犯程慕阳难民申请复核获胜，加拿大或将重新聆讯
+    publisher: 澎湃新闻（中国新闻网）
+    date: 2015-07-17
+    voice: official
+    url: https://www.thepaper.cn/newsDetail_forward_1353399
+    excerpt: true
+    keep: [ 判定程慕阳司法复核案获胜, 但程慕阳并未在中国法庭出庭受审, 1996年取得加国永久居民身份 ]
+  - id: cs12-peopleen-2015-07-17-cheng-canada
+    title: Canadian court to reconsider Chinese fugitive's refugee status
+    publisher: People's Daily Online (Global Times)
+    date: 2015-07-17
+    voice: official
+    lang: en
+    url: https://en.people.cn/n/2015/0717/c90780-8922003.html
+    excerpt: true
+    keep: [ fuzzy and third-hand, none of the fugitives have been extradited ]
+  - id: cs12-wiki-cheng-muyang
+    title: 程慕阳
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-hans/%E7%A8%8B%E6%85%95%E9%98%B3
+    excerpt: true
+    keep: [ 2020年，程慕阳入籍加拿大, 将程慕阳从国际通缉令名单上剔除, 向程慕阳发出逮捕令 ]
+  # ---- 程维高（新卡）
+  - id: cs12-chinanews-2003-08-09-cheng-weigao-expel
+    title: 原中共河北省委书记程维高因严重违纪被开除党籍
+    publisher: 中新网
+    date: 2003-08-09
+    voice: official
+    url: https://www.chinanews.com.cn/n/2003-08-09/26/333568.html
+    start: 中新网8月9日电
+  - id: cs12-cctv-2003-12-03-guo-guangyun
+    title: 郭光允十六年举报路
+    publisher: 央视国际
+    date: 2003-12-03
+    voice: official
+    url: http://news.cctv.cn/news/society/20031203/101016.shtml
+  - id: cs12-people-2011-03-01-cheng-weigao-death
+    title: 程维高的最后时光
+    publisher: 人民文摘
+    date: 2011-03-01
+    voice: zh
+    url: https://paper.people.com.cn/rmwz/html/2011-03/01/content_795615.htm
+    excerpt: true
+    keep: [ 于2010年12月28日11时16分, 进入了中纪委的视线, 当政13年, 我的任务完成了 ]
+  - id: cs12-wiki-cheng-weigao
+    title: 程维高
+    publisher: 维基百科
+    voice: wiki
+    url: https://zh.wikipedia.org/zh-cn/%E7%A8%8B%E7%BB%B4%E9%AB%98
+    excerpt: true
+    keep: [ 1933年9月5日, 1993年1月至1998年10月, 没有发现程维高应当负刑事责任 ]
+  # ---- 法律
+  - id: cs12-gov-2018-10-27-judicial-assistance-law
+    title: 中华人民共和国国际刑事司法协助法
+    publisher: 中国人大网
+    date: 2018-10-26
+    voice: doc
+    url: http://www.npc.gov.cn/zgrdw/npc/xinwen/2018-10/26/content_2064576.htm
+    start: 第一条 为了保障国际刑事司法协助的正常进行
+    end: 本法自公布之日起施行。
+  - id: cs12-npc-2018-10-29-legal-net
+    title: 织密反腐败国际追逃追赃法律网
+    publisher: 中国人大网（中央纪委国家监委网站）
+    date: 2018-10-29
+    voice: official
+    url: http://www.npc.gov.cn/zgrdw/npc/cwhhy/13jcwh/2018-10/29/content_2064688.htm
+  - id: cs12-xinhua-2022-01-17-cheng-sanchang
+    title: 我国“刑事缺席审判第一案”程三昌贪污案一审宣判
+    publisher: 新华网
+    date: 2022-01-17
+    voice: official
+    url: http://www.news.cn/legal/2022-01/17/c_1128272107.htm
+  - id: cs12-ccdi-2021-12-10-cheng-sanchang-trial
+    title: 以法治思维法治方式开展追逃追赃 刑事缺席审判第一案公开开庭审理
+    publisher: 应急管理部网站（中央纪委国家监委网站）
+    date: 2021-12-10
+    voice: official
+    url: https://www.mem.gov.cn/jjz/gzdt/202112/t20211210_404536.shtml
+  # ---- 统计
+  - id: cs12-cnr-2023-03-21-skynet-2023
+    title: 打法持续升级！“天网2023”行动正式启动
+    publisher: 央广网
+    date: 2023-03-21
+    voice: official
+    url: https://news.cnr.cn/native/gd/20230321/t20230321_526189222.shtml
+  - id: cs12-gov-2024-02-25-ccdi-3rd-plenum-report
+    title: 李希在二十届中央纪委三次全会上的工作报告
+    publisher: 新华社（中国政府网）
+    date: 2024-02-25
+    voice: doc
+    url: https://www.gov.cn/yaowen/liebiao/202402/content_6934131.htm
+    excerpt: true
+    keep: [ 天网2023, 反腐败国际追逃追赃和跨境腐败治理2023－2027年目标任务 ]
+  - id: cs12-scjc-2025-03-27-skynet-ten-years
+    title: 写在“天网行动”启动十周年之际 有逃必追 一追到底
+    publisher: 广东省纪委监委南粤清风网（中央纪委国家监委网站）
+    date: 2025-03-27
+    voice: official
+    url: https://www.gdjct.gd.gov.cn/ttxw/content/post_205396.html
+  - id: cs12-cctv-2025-07-24-zhou-jinghua
+    title: 周静华被引渡回国 亚洲地区“百名红通人员”清零
+    publisher: 央视网
+    date: 2025-07-24
+    voice: official
+    url: https://news.cctv.cn/2025/07/24/ARTIlnEPAKrxkqhM22tsSH7D250724.shtml
+  - id: cs12-scjc-2025-07-25-asia-cleared
+    title: 天网恢恢，疏而不漏
+    publisher: 四川省纪委监委网站（中央纪委国家监委网站）
+    date: 2025-07-25
+    voice: official
+    url: https://www.scjc.gov.cn/scjc/syjdxw/2025/7/25/192271c93b194a03905ebe3efb974d8b.shtml
+  - id: cs12-cna-2026-01-06-skynet-2025
+    title: 中共跨境追貪腐 「天網2025」追回外逃782人
+    publisher: 中央社
+    date: 2026-01-06
+    voice: zh
+    url: https://www.cna.com.tw/news/acn/202601060255.aspx
+    excerpt: true
+    keep: [ 天網2025行動, 百名紅通人員第26號, 百名紅通人員第99號 ]
+  # ---- 2011 年央行报告与否认
+  - id: cs12-bbc-2011-06-15-pboc-report
+    title: 香港被称为中国贪官洗钱中转中心
+    publisher: BBC中文网
+    date: 2011-06-15
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese_news/2011/06/110615_hongkong_money_laundry
+    excerpt: true
+    keep: [ 2008年6月完成, 1.6萬至1.8萬, 一天之內都刪除 ]
+  - id: cs12-bbc-2011-06-17-pboc-denial
+    title: 中国外逃官员和携款数字“严重失实”
+    publisher: BBC中文网
+    date: 2011-06-17
+    voice: zh
+    url: https://www.bbc.com/zhongwen/trad/chinese_news/2011/06/110617_china_corruption
+    excerpt: true
+    keep: [ 嚴重失實, 來源於網上未經確認的不實消息 ]
+  - id: cs12-cntv-2011-06-23-ccdi-denial
+    title: 中纪委否认外逃官员卷走8千亿元
+    publisher: 央视网（中国广播网）
+    date: 2011-06-23
+    voice: official
+    url: http://news.cntv.cn/china/20110623/100383.shtml
+    start: 中广网北京6月23日消息
+  # ---- 外国政府与人权组织
+  - id: cs12-fbi-2020-07-07-wray-hudson
+    title: The Threat Posed by the Chinese Government and the Chinese Communist Party to the Economic and National Security of the United States
+    publisher: FBI（Christopher Wray 在哈德逊研究所的讲话）
+    date: 2020-07-07
+    voice: west
+    lang: en
+    url: https://web.archive.org/web/2020/https://www.fbi.gov/news/speeches-and-testimony/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states
+    excerpt: true
+    keep: [ known as “Fox Hunt.”, return to China promptly, Hundreds of the Fox Hunt victims ]
+  - id: cs12-doj-2023-06-20-fox-hunt-verdict
+    title: Federal Jury Convicts Three Defendants of Interstate Stalking of Chinese Nationals in the United States and Two Defendants of Acting or Conspiring to Act on Behalf of the People's Republic of China
+    publisher: U.S. Department of Justice（GlobalSecurity.org 转载）
+    date: 2023-06-20
+    voice: west
+    lang: en
+    url: https://globalsecurity.org/intell/library/news/2023/intell-230620-doj01.htm
+    excerpt: true
+    keep: [ Earlier today, a federal jury in Brooklyn, Red Notices, between approximately 2016 and 2019 ]
+  - id: cs12-voa-2022-01-18-involuntary-returns
+    title: "Report: China's Worldwide Dragnet Forces Fugitives to Return Home"
+    publisher: VOA
+    date: 2022-01-18
+    voice: west
+    lang: en
+    url: https://www.voanews.com/a/report-china-s-worldwide-dragnet-forces-fugitives-to-return-home/6404642.html
+    excerpt: true
+    keep: [ Safeguard Defenders, voluntarily returned, extradition ]
+  - id: cs12-safeguard-2022-09-110-overseas
+    title: "110 Overseas: 230,000 Chinese \"persuaded to return\""
+    publisher: Safeguard Defenders
+    date: 2022-09
+    voice: west
+    lang: en
+    url: https://safeguarddefenders.com/en/blog/110-overseas-230000-chinese-persuaded-return
+    excerpt: true
+    keep: [ 230,000 claimed fugitives, denying the target’s children, overseas police service centers ]

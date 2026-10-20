@@ -1,0 +1,26 @@
+# CS12: the case record for 程维高 (fugitives-skynet); the notice and the reports behind it are stored under sources/text/cs12-*
+cheng-weigao:
+  sys: local
+  grade: minister
+  notice:
+    date: 2003-08-09
+    cite: cs12-chinanews-2003-08-09-cheng-weigao-expel
+    quotes:
+      - 为他人和其子程慕阳谋利，给国家造成巨大经济损失
+      - 对如实举报其问题的郭光允同志进行打击报复
+      - 与其配偶收受他人翡翠摆件等一批贵重物品
+      - 自恃位高权重，目无党纪，独断专行
+  trigger: { kind: report, text: 石家庄市建委干部郭光允先举报市建委主任李山林，后在给中纪委等部门的信中把程维高列为举报对象，曾被劳教两年，后改为实名举报；1999 年中央“三讲”巡视组到河北后为他平反, cite: cs12-cctv-2003-12-03-guo-guangyun }
+  with:
+    - { name: 李真, rel: secretary, text: 前后两任秘书之一，违法犯罪被一审判处死刑，通报称程维高对其利用职务影响犯罪负有重要责任, cite: cs12-chinanews-2003-08-09-cheng-weigao-expel }
+    - { name: 吴庆五, rel: secretary, text: 前任秘书，违法犯罪被判处死缓, cite: cs12-chinanews-2003-08-09-cheng-weigao-expel }
+    - { name: 程慕阳, rel: kin, text: 儿子；2000 年李真案发后经香港去了加拿大，2015 年列入“百名红通人员”名单，至今未归案, cite: cs12-wiki-cheng-muyang }
+  politics:
+    level: none
+    why: 官方通报与报道只写违纪、用人和亲属问题，未见与派系斗争相关的报道
+    cites: [cs12-chinanews-2003-08-09-cheng-weigao-expel]
+  voices:
+    - { voice: official, text: 2006 年中央纪委常委干以胜表示，没有发现程维高应当负刑事责任的情况及证据（据维基百科转述）, cite: cs12-wiki-cheng-weigao }
+    - { voice: zh, text: 人民文摘称他 2003 年 1 月卸任前主持最后一次会议，跟省委书记握手道别，说“我的任务完成了”，次日离开石家庄回常州，当时还处于中纪委的调查中, cite: cs12-people-2011-03-01-cheng-weigao-death }
+  outcome: disciplined
+  retired: 2003-01
