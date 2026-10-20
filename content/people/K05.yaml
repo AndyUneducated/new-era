@@ -1188,10 +1188,11 @@
     - { title: 云南省体育局局长, sys: gov, place: 云南, from: 2010-04, to: 2015-02, cite: k05-wiki-yang-ning }
     - { title: 大理州州长, sys: gov, place: 云南, from: 2015-02, to: 2016-02, cite: k05-wiki-yang-ning }
     - { title: 大理州委书记, sys: party, place: 云南, from: 2016-02, to: 2016-12, cite: k05-wiki-yang-ning }
-    - { title: 云南省委常委、统战部部长, sys: party, place: 云南, from: 2016-12, to: 2018-10, cite: k05-wiki-yang-ning }
+    - { title: 云南省委常委, sys: party, place: 云南, from: 2016-12, to: 2018-10, cite: k05-wiki-yang-ning }
+    - { title: 云南省委统战部部长, sys: party, place: 云南, from: 2017-01, to: 2018-10, cite: k08-thepaper-1600308-yang-ning }
     - { title: 国家体育总局副局长, sys: gov, from: 2018-10, cite: k05-wiki-yang-ning }
     - { title: 云南省政协副主席, sys: other, place: 云南, cite: k05-wiki-yang-ning }
-  cites: [wd-Q28417047, k05-wiki-yang-ning, k02-xinhua-2017-10-24-19-cca]
+  cites: [wd-Q28417047, k05-wiki-yang-ning, k02-xinhua-2017-10-24-19-cca, k08-thepaper-1600308-yang-ning]
 
 - id: yang-wei
   name: 杨伟
