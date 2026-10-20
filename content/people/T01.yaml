@@ -138,7 +138,7 @@
   birthplace: 湖南长沙
   roles: [prov, tiger]
   status: purged
-  statusNote: 2015 年一审获刑十二年，2014 年 5 月起被羁押；按刑期推算应已届满，未见释放公告。
+  statusNote: 2015 年一审获刑十二年，2014 年 5 月 20 日起被羁押；刑期按判决应于 2026 年 5 月届满，未见出狱报道。
   fall:
     - { date: 2013-12-06, text: 中央纪委通报江西省人大常委会副主任陈安众接受组织调查, cite: t01-ccdi-zjsc-list-p6 }
     - { date: 2014-05-20, text: 被开除党籍和公职，同日被刑事拘留, cite: t01-chinacourt-2015-06-chen-anzhong-verdict }
@@ -161,7 +161,7 @@
   born: 1958-06-23
   roles: [prov, tiger]
   status: purged
-  statusNote: 2014 年一审以玩忽职守罪获刑五年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2014 年一审以玩忽职守罪获刑五年；2014 年 1 月被开除党籍，刑期按判决应于 2019 年前后届满，未见出狱报道。
   fall:
     - { date: 2013-12-18, text: 中央纪委通报湖南省政协副主席童名谦接受组织调查, cite: t01-ccdi-zjsc-list-p6 }
     - { date: 2014-01-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p8 }
@@ -183,7 +183,7 @@
   born: 1955-01
   roles: [prov, tiger]
   status: purged
-  statusNote: 2015 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2015 年一审获刑十一年；2014 年 8 月被开除党籍，刑期按判决应于 2025 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-02-19, text: 中央纪委通报陕西省政协副主席祝作利涉嫌严重违纪违法，被立案调查, cite: t01-ccdi-zjsc-list-p5 }
     - { date: 2014-08-06, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
@@ -226,7 +226,7 @@
   born: 1962-02
   roles: [prov, tiger]
   status: purged
-  statusNote: 2015 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2015 年一审获刑十二年；2014 年 8 月被开除党籍，刑期按判决应于 2026 年 8 月前后届满，未见出狱报道。
   fall:
     - { date: 2014-03-09, text: 中央纪委通报云南省副省长沈培平涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
     - { date: 2014-08-06, text: 被开除党籍, cite: t01-ccdi-djcf-list-p7 }
@@ -311,7 +311,7 @@
   born: 1954-08
   roles: [prov, tiger]
   status: purged
-  statusNote: 2016 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2016 年一审获刑十二年；2014 年 9 月被开除党籍，刑期按判决应于 2026 年 9 月前后届满，未见出狱报道。
   fall:
     - { date: 2014-05-03, text: 中央纪委通报重庆市人大常委会副主任谭栖伟接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
     - { date: 2014-09-02, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
@@ -331,7 +331,7 @@
   born: 1947-09
   roles: [prov, tiger]
   status: purged
-  statusNote: 2015 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2015 年一审获刑十一年；2014 年 7 月被开除党籍，刑期按判决应于 2025 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-05-26, text: 中央纪委通报湖南省政协原党组副书记、副主席阳宝华接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
     - { date: 2014-07-15, text: 被开除党籍, cite: t01-ccdi-djcf-list-p7 }
@@ -440,8 +440,8 @@
   gender: f
   born: 1960-12
   roles: [prov, tiger]
-  status: purged
-  statusNote: 2016 年一审获刑十二年；按刑期推算应已届满，未见释放公告。
+  status: detained
+  statusNote: 2016 年一审获刑十二年；2015 年 2 月被开除党籍、移送司法，按刑期推算应于 2027 年前后届满，尚在刑期内，未见减刑、出狱报道。
   fall:
     - { date: 2014-08-29, text: 中央纪委通报山西省委常委、统战部部长白云接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
     - { date: 2015-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
@@ -527,7 +527,7 @@
   born: 1956
   roles: [minister, tiger]
   status: purged
-  statusNote: 2017 年一审获刑九年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2017 年一审获刑九年；2015 年 11 月被开除党籍，刑期按判决应于 2024 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-10-11, text: 中央纪委通报国家行政学院常务副院长何家成接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
     - { date: 2015-11-11, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
@@ -549,7 +549,7 @@
   born: 1956
   roles: [prov, tiger]
   status: purged
-  statusNote: 2016 年一审获刑八年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2016 年一审获刑八年；2015 年 1 月被开除党籍，刑期按判决应于 2023 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-11-20, text: 中央纪委通报河北省委常委、组织部部长梁滨接受组织调查, cite: t01-ccdi-jlsc-list-p3 }
     - { date: 2015-01-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
@@ -571,7 +571,7 @@
   born: 1956-11
   roles: [prov, tiger]
   status: purged
-  statusNote: 2016 年一审获刑十一年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2016 年一审获刑十一年；2015 年 2 月被开除党籍，刑期按判决应于 2026 年 2 月前后届满，未见出狱报道。
   fall:
     - { date: 2014-11-27, text: 中央纪委通报黑龙江省人大常委会副主任、省农垦总局党委书记隋凤富涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-zjsc-list-p4 }
     - { date: 2015-02-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p6 }
@@ -764,8 +764,8 @@
   gender: m
   born: 1953-12
   roles: [biz, tiger]
-  status: purged
-  statusNote: 2017 年一审获刑十一年六个月；按刑期推算应已届满，未见释放公告。
+  status: detained
+  statusNote: 2017 年一审获刑十一年六个月；2015 年 8 月被开除党籍、移送司法，按刑期推算应于 2027 年前后届满，尚在刑期内，未见可靠的减刑、出狱报道。
   fall:
     - { date: 2015-03-15, text: 中央纪委通报中国第一汽车集团公司董事长、党委书记徐建一被调查, cite: t01-ccdi-jlsc-list-p3 }
     - { date: 2015-08-13, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p5 }
@@ -831,7 +831,7 @@
   born: 1955
   roles: [minister, tiger]
   status: purged
-  statusNote: 2016 年一审获刑十年六个月；按刑期推算应已届满，未见释放公告。
+  statusNote: 2016 年一审获刑十年六个月；2015 年 9 月被开除党籍，刑期按判决应于 2026 年 3 月前后届满，未见出狱报道。
   fall:
     - { date: 2015-06-25, text: 中央纪委通报国家体育总局副局长肖天涉嫌严重违纪违法，接受组织调查, cite: t01-ccdi-jlsc-list-p2 }
     - { date: 2015-09-24, text: 被开除党籍, cite: t01-ccdi-djcf-list-p4 }
@@ -895,7 +895,7 @@
   born: 1952-07
   roles: [minister, tiger]
   status: purged
-  statusNote: 2016 年一审获刑四年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2016 年一审获刑四年；2015 年 12 月被开除党籍，刑期按判决应于 2019 年底前后届满，未见出狱报道。
   fall:
     - { date: 2015-07-30, text: 中央纪委通报环境保护部原副部长、党组成员张力军接受组织调查, cite: t01-ccdi-2015-07-30-zhang-lijun-probe }
     - { date: 2015-12-31, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
@@ -959,7 +959,7 @@
   born: 1957
   roles: [biz, tiger]
   status: purged
-  statusNote: 2017 年一审获刑十年六个月；按刑期推算应已届满，未见释放公告。
+  statusNote: 2017 年一审获刑十年六个月；2016 年 2 月被开除党籍，刑期按判决应于 2026 年 8 月前后届满，未见出狱报道。
   fall:
     - { date: 2015-11-04, text: 中央纪委通报南方航空集团公司党组副书记、总经理司献民接受调查, cite: t01-ccdi-jlsc-list-p2 }
     - { date: 2016-02-03, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
@@ -1048,7 +1048,7 @@
   born: 1957-03
   roles: [biz, tiger]
   status: purged
-  statusNote: 2017 年一审获刑六年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2017 年一审获刑六年；2016 年 7 月被开除党籍，刑期按判决应于 2022 年前后届满，未见出狱报道。
   fall:
     - { date: 2015-12-27, text: 中央纪委通报中国电信党组书记、董事长常小兵涉嫌严重违纪被调查, cite: t01-ccdi-2015-12-27-chang-xiaobing-probe }
     - { date: 2016-07-11, text: 被开除党籍, cite: t01-ccdi-djcf-list-p3 }
@@ -1310,7 +1310,7 @@
   born: 1955
   roles: [prov, tiger]
   status: purged
-  statusNote: 2017 年一审获刑十年；按刑期推算应已届满，未见释放公告。
+  statusNote: 2017 年一审获刑十年；2016 年 7 月被开除党籍，刑期按判决应于 2026 年 7 月前后届满，未见出狱报道。
   fall:
     - { date: 2016-04-09, text: 中央纪委通报四川省原副省长李成云接受组织调查, cite: t01-ccdi-jlsc-list-p1 }
     - { date: 2016-07-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
@@ -1395,7 +1395,7 @@
   born: 1955
   roles: [prov, tiger]
   status: purged
-  statusNote: 2017 年一审获刑三年六个月；按刑期推算应已届满，未见释放公告。
+  statusNote: 2017 年一审获刑三年六个月；2016 年 8 月被开除党籍，刑期按判决应于 2020 年前后届满，未见出狱报道。
   fall:
     - { date: 2016-08-26, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p3 }
     - { date: 2017-05-08, text: 山东淄博中院一审以破坏选举罪、受贿罪判处有期徒刑三年六个月, cite: t01-people-2017-05-08-zheng-yuzhuo-verdict }

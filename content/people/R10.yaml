@@ -115,11 +115,12 @@
   born: 1969-10
   birthplace: 贵州关岭
   roles: [biz]
-  status: purged
-  statusNote: 2024 年 7 月被株洲市检察院提起公诉；判决未见公开报道。
+  status: detained
+  statusNote: 2024 年 7 月被株洲市检察院提起公诉，同年株洲法院审结，称其被依法惩处；刑期未见公开报道。
   fall:
     - { date: 2024-05-14, text: 被开除党籍、政务开除，涉嫌受贿犯罪问题由株洲市纪委监委移送检察机关审查起诉, cite: r10-csrc-2024-05-14-an-qingsong-expel }
     - { date: 2024-07-24, text: 经最高检指定管辖，株洲市检察院以涉嫌受贿罪向株洲中院提起公诉, cite: r10-spp-2024-07-24-an-qingsong-charge }
+    - { date: 2025-02-18, text: 株洲法院工作回顾表明其受贿案已于 2024 年审结判决，刑期未公开, cite: c16-hnzf-2025-02-18-zhuzhou-courts }
   tier: 2
   headline: 中国期货业协会原会长，通报称其“是政商勾连的典型”
   bio: >-
@@ -130,7 +131,7 @@
     - { title: 青岛证监局、天津证监局党委书记、局长, sys: gov, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
     - { title: 中国证券业协会党委书记、会长, sys: other, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
     - { title: 中国期货业协会党委书记、会长, sys: other, from: 2023-01, to: 2023-11, cite: r10-jiemian-2024-05-14-an-qingsong-bio }
-  cites: [r10-csrc-2024-05-14-an-qingsong-expel, r10-jiemian-2024-05-14-an-qingsong-bio, r10-spp-2024-07-24-an-qingsong-charge, bd2-ccdi-2023-11-14-an-qingsong]
+  cites: [r10-csrc-2024-05-14-an-qingsong-expel, r10-jiemian-2024-05-14-an-qingsong-bio, r10-spp-2024-07-24-an-qingsong-charge, bd2-ccdi-2023-11-14-an-qingsong, c16-hnzf-2025-02-18-zhuzhou-courts]
 
 - id: ling-feng
   name: 凌峰
@@ -400,8 +401,8 @@
   gender: m
   born: 1971-07
   roles: [biz]
-  status: purged
-  statusNote: 2025 年 7 月被开除党籍和公职并移送审查起诉；据财新，2026 年案件一审开庭，他在判决前撤回认罪认罚书，被控受贿约 7000 万元。
+  status: detained
+  statusNote: 2025 年 7 月被开除党籍和公职并移送审查起诉；据财新，2026 年案件一审开庭，他在判决前撤回认罪认罚书，被控受贿约 7000 万元。2026 年 5 月一审获刑十五年，已上诉，在押。
   fall:
     - { date: 2024-11-14, text: 在云南出差时被带回无锡，江苏省纪委监委宣布对其采取留置措施，由无锡市监委调查, cite: r10-caixin-2026-09-05-wu-guofang-caixin }
     - { date: 2025-07-13, text: 被开除党籍和公职，涉嫌受贿犯罪问题由无锡市监委移送检察机关审查起诉, cite: r10-csrc-2025-07-13-wu-guofang-expel }
@@ -911,7 +912,7 @@
   gender: m
   born: 1968-04
   roles: [biz]
-  status: detained
+  status: purged
   statusNote: 2024 年 7 月外逃，同年 8 月在境外落网并被遣返回国，由上海市纪委监委立案审查调查；后续处理未见本站来源。
   fall:
     - { date: 2024-08, text: 外逃后在境外落网被遣返回国，上海市纪委监委立案审查调查, cite: r10-xinhua-2024-08-28-jiang-chengjun-return }

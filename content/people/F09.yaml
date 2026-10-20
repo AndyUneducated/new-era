@@ -146,7 +146,7 @@
   born: 1963
   birthplace: 四川成都
   roles: [biz]
-  status: detained
+  status: purged
   statusNote: 2013 年 8 月被抓（财新报道）；2015 年作为证人在周永康案庭审中出庭，本人处理结果未见官方通报。
   fall:
     - { date: 2013-08-01, text: 据财新报道在北京西客站出逃时被抓, cite: f09-sina-2014-07-29-caixin-zhou }
@@ -167,10 +167,11 @@
   gender: m
   born: 1970-05
   roles: [biz]
-  status: detained
-  statusNote: 2013 年据财新报道失去人身自由，此后处理结果本站未查到可靠来源。
+  status: purged
+  statusNote: 2013 年据财新报道失去人身自由，2016 年 7 月前后被宜昌中院以利用影响力受贿罪判处有期徒刑五年；刑期按判决应于 2018 年前后届满，未见出狱报道。
   fall:
     - { date: 2013, text: 据财新报道在吴兵被抓后不久失去人身自由, cite: f09-sina-2014-07-29-caixin-zhou }
+    - { date: 2016-07, text: 宜昌中院以利用影响力受贿罪判处有期徒刑五年，认定其到案后如实供述、以自首论, cite: fx2-thepaper-2016-07-mi-xiaodong }
   tier: 2
   headline: 原中海油干部，周滨的商业代理人
   positions:
@@ -183,7 +184,7 @@
       cite: f09-sina-2014-07-29-caixin-zhou
       quote: 他的另一只白手套，原中国海洋石油总公司干部米晓东也失去了人身自由
       rank: periphery
-  cites: [f09-sina-2014-07-29-caixin-zhou, bd1-wiki-mi-xiaodong]
+  cites: [f09-sina-2014-07-29-caixin-zhou, bd1-wiki-mi-xiaodong, fx2-thepaper-2016-07-mi-xiaodong]
 
 # ---------- xishanhui ----------
 - id: ling-zhengce
@@ -220,7 +221,7 @@
   birthplace: 山西平陆
   roles: [tiger, acc]
   status: purged
-  statusNote: 2016 年 12 月被判有期徒刑六年六个月。
+  statusNote: 2016 年 12 月被判有期徒刑六年六个月；刑期按判决应于 2021 年前后届满，未见出狱报道。
   fall:
     - { date: 2015-10-29, text: 十八届五中全会确认中央政治局此前给予的开除党籍处分, cite: e03-ccdi-2015-10-29-5th-plenum }
     - { date: 2016-12-20, text: 徐州中院以受贿罪、国有公司人员滥用职权罪判处有期徒刑六年六个月, cite: f09-court-2016-12-20-chen-chuanping }

@@ -80,6 +80,7 @@ wu-hongmei:
     level: linked
     why: 上海社保案涉案党员，与祝均一等同批被“双开”
     cites: [e07-bbc-2007-03-02-pension-expelled]
+  sentence: { date: 2007-09, term: years, years: 11, cite: fx2-ecust-2011-03-05-wu-hongmei }
   outcome: sentenced
 
 # ───── 薄谷开来案 ─────
@@ -108,7 +109,7 @@ xie-yalong:
     cites: [r09-chinanews-2012-06-13-football]
   voices:
     - { voice: zh, text: BBC 中文称 2009—2010 年的大规模打击中，时任足协副主席谢亚龙、南勇及一批足球领导层官员被处理, cite: cs2-bbc-2024-02-13-football }
-  outcome: sentenced
+  outcome: released
 
 nan-yong:
   sys: culture
@@ -119,7 +120,7 @@ nan-yong:
     level: none
     why: 上一轮足坛反赌扫黑系列案，未见政治关联报道
     cites: [r09-chinanews-2012-06-13-football]
-  outcome: sentenced
+  outcome: released
 
 yang-yimin:
   sys: culture
@@ -130,7 +131,7 @@ yang-yimin:
     level: none
     why: 上一轮足坛反赌扫黑系列案，未见政治关联报道
     cites: [r09-chinanews-2012-02-18-yang-yimin]
-  outcome: sentenced
+  outcome: released
 
 wang-dengfeng:
   sys: central

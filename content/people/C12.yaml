@@ -244,7 +244,7 @@
   joinedWork: 1983-07
   roles: [tiger]
   status: purged
-  statusNote: 2015 年以玩忽职守罪被判处有期徒刑 3 年；按刑期计算已刑满，未见公开报道。
+  statusNote: 2015 年以玩忽职守罪被判处有期徒刑 3 年；刑期按判决应于 2018 年前后届满，未见出狱报道。
   fall:
     - { date: 2015-05-21, text: 南充市人大常委会接受其辞去四川省人大代表职务，代表资格终止, cite: cs5-thepaper-2015-05-23-liu-hongjian }
     - { date: 2015-09-15, text: 四川省通报南充拉票贿选案查处情况，称其犯玩忽职守罪已被判处有期徒刑 3 年, cite: cs5-people-2015-09-15-nanchong }
@@ -711,7 +711,7 @@
   joinedWork: 1977-05
   roles: [tiger]
   status: purged
-  statusNote: 2016 年被判处有期徒刑 11 年，2019 年减刑后刑期至 2025 年 4 月 16 日止，按此已刑满，未见出狱报道。
+  statusNote: 2016 年被判处有期徒刑 11 年，2019 年减刑后刑期至 2025 年 4 月 16 日止；刑期按判决应于 2025 年 4 月届满，未见出狱报道。
   fall:
     - { date: 2014-09-15, text: 因涉嫌严重违纪违法接受组织调查, cite: c12-wiki-chen-weimin }
     - { date: 2014-10-15, text: 江西省人大常委会罢免其全国人大代表职务, cite: c12-wiki-chen-weimin }
@@ -952,7 +952,7 @@
   birthplace: 辽宁
   roles: [tiger]
   status: purged
-  statusNote: 2009 年 11 月被判处有期徒刑 14 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2009 年 11 月被判处有期徒刑 14 年；2007 年底被查，刑期按判决应于 2022 年前后届满，未见出狱报道。
   fall:
     - { date: 2007, text: 2007 年底被中央纪委调查, cite: cs5-chinadaily-2013-09-26-ding-4900 }
     - { date: 2009-11-24, text: 北京一中院以受贿罪、巨额财产来源不明罪判处有期徒刑 14 年，受贿 190 万余元, cite: c12-eeo-2009-11-25-he-hongda }
@@ -973,7 +973,7 @@
   verify: true
   roles: [biz]
   status: purged
-  statusNote: 2013 年 8 月诈骗案终审宣判，刑期未见公开报道。
+  statusNote: 2013 年 4 月一审，北京晨报称刘琳等 3 名被告人分别被判处 12 年至 15 年不等的有期徒刑，未单列其本人刑期；同年 8 月终审宣判，终审刑期未见公开报道，无法推算届满时间。
   fall:
     - { date: 2013-08, text: 法院对刘琳等人诈骗案终审宣判，认定其从丁书苗处骗得 4400 万元, cite: cs5-chinadaily-2013-09-26-ding-4900 }
   tier: 2
@@ -982,7 +982,7 @@
     号称有关系的社会人员。2007 年底何洪达被中央纪委调查后，刘志军托丁书苗想办法把何洪达弄出来，丁书苗经女儿侯军霞推荐找到刘琳，
     先后付给刘琳等人 4400 万元。2013 年 8 月法院终审认定，刘琳等人根本不认识也没有找所谓司法机关的关系，
     骗得的钱用于投资、公司经营和个人消费，以诈骗罪判处。
-  cites: [cs5-chinadaily-2013-09-26-ding-4900]
+  cites: [cs5-chinadaily-2013-09-26-ding-4900, fx2-people-2013-04-19-liu-lin]
 
 - id: yu-zhenyong
   name: 于振永
@@ -1176,7 +1176,7 @@
   joinedWork: 2003-03
   roles: [tiger]
   status: purged
-  statusNote: 2024 年 6 月因受贿罪被判处刑罚，刑期未见公开报道。
+  statusNote: 2024 年 6 月因受贿罪被判处刑罚，刑期未见公开报道，无法推算是否仍在刑期内。
   fall:
     - { date: 2023-10-12, text: 主动投案，接受迪庆州纪委监委纪律审查和监察调查, cite: c12-nbd-2023-10-12-lu-jinwu }
     - { date: 2024-04-17, text: 被开除党籍和公职，通报称其搞政治攀附、结交政治骗子, cite: c12-dqzjw-2024-04-17-lu-jinwu }

@@ -640,7 +640,7 @@
   born: 1950
   roles: [tiger]
   status: purged
-  statusNote: 1996 年被判死缓；2015 年全国人大审议终身监禁条款时被举为保外就医连续续保的例子。
+  statusNote: 1996 年被判死缓；2015 年全国人大审议终身监禁条款时被举为保外就医 1 年后连续 7 年续保的例子，此后是否收监、现状如何未见报道。
   fall:
     - { date: 1995-11, text: 被开除党籍、开除公职, cite: c13-wiki-hu-jianxue }
     - { date: 1996-06, text: 被判处死刑，缓期二年执行, cite: c13-wiki-hu-jianxue }
@@ -663,10 +663,10 @@
   joinedParty: 1973-06
   roles: [tiger]
   status: purged
-  statusNote: 2009 年以受贿罪被判有期徒刑十年，2011 年才被收监，未见出狱的公开报道。
+  statusNote: 2009 年以受贿罪被判有期徒刑十年，2011 年才被收监；刑期按判决应于 2021 年前后届满，未见出狱报道。
   fall:
     - { date: 2009-07-30, text: 以受贿罪被判处有期徒刑十年，宣判当日违规获准保外就医, cite: c13-wiki-lin-chongzhong }
-    - { date: 2011, text: 广东省检察院立案侦查其违规保外就医后被收监, cite: c13-wiki-lin-chongzhong }
+    - { date: 2011, text: 广东省检察院就其违规回家一事立案侦查，随后被收监, cite: c13-wiki-lin-chongzhong }
   tier: 2
   headline: 广东江门原副市长，2009 年获刑十年后当日违规“保外就医”回家
   ids: { wikidata: Q16905492 }

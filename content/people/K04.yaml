@@ -1171,7 +1171,7 @@
   birthplace: 河北藁城
   roles: [acc, tiger]
   status: purged
-  statusNote: "2016 年一审被判有期徒刑十二年，此后去向未见官方消息。"
+  statusNote: "2016 年一审被判有期徒刑十二年；2014 年 7 月被开除党籍，刑期按判决应于 2026 年 7 月前后届满，未见出狱报道。"
   fall:
     - { date: 2013-12-27, text: 接受组织调查, cite: t01-ccdi-zjsc-list-p5 }
     - { date: 2014-07-11, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p7 }
@@ -1214,7 +1214,7 @@
   birthplace: 广西恭城
   roles: [acc, tiger]
   status: purged
-  statusNote: "2017 年一审被判有期徒刑十一年，此后去向未见官方消息。"
+  statusNote: "2017 年一审被判有期徒刑十一年；2015 年 10 月被最高检立案侦查并采取强制措施，刑期按判决应于 2026 年 10 月届满，未见出狱报道。"
   fall:
     - { date: 2015-05-22, text: 接受组织调查, cite: t01-ccdi-jlsc-list-p2 }
     - { date: 2015-10-16, text: 被开除党籍和公职, cite: t01-ccdi-djcf-list-p4 }
@@ -1229,7 +1229,7 @@
     - { title: 梧州市委书记, sys: party, place: 广西, cite: k04-wiki-yu-yuanhui }
     - { title: 广西壮族自治区党委常委, sys: party, place: 广西, from: 2008-02, to: 2015-05, cite: k04-wiki-yu-yuanhui }
     - { title: 南宁市委书记, sys: party, place: 广西, from: 2013-05, to: 2015-05, cite: k04-wiki-yu-yuanhui }
-  cites: [wd-Q8292263, k04-wiki-yu-yuanhui, k02-xinhua-2007-10-21-17-cca, k02-xinhua-2012-11-14-18-cca, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, e03-ccdi-2015-10-29-5th-plenum, k04-people-2017-04-28-yu-yuanhui-verdict]
+  cites: [wd-Q8292263, k04-wiki-yu-yuanhui, k02-xinhua-2007-10-21-17-cca, k02-xinhua-2012-11-14-18-cca, t01-ccdi-jlsc-list-p2, t01-ccdi-djcf-list-p4, e03-ccdi-2015-10-29-5th-plenum, k04-people-2017-04-28-yu-yuanhui-verdict, fx2-people-2015-10-20-yu-yuanhui]
 
 - id: yu-xinrong
   name: 余欣荣

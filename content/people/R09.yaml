@@ -8,7 +8,7 @@
   born: 1951-02
   roles: [tiger]
   status: purged
-  statusNote: 2007 年 9 月被长春中院数罪并罚判处有期徒刑 18 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2007 年 9 月被长春中院数罪并罚判处有期徒刑 18 年；刑期按判决应于 2024 年前后届满，未见出狱报道。
   fall:
     - { date: 2006-08-09, text: 上海市人大常委会免去其上海市劳动和社会保障局局长职务，市长韩正通报其涉嫌社保基金违规使用和收受贿赂, cite: e07-cctv-2006-08-11-zhu-junyi }
     - { date: 2007-03, text: 被开除党籍和公职，同批被“双开”的社保案涉案党员共 9 人, cite: e07-bbc-2007-03-02-pension-expelled }
@@ -53,7 +53,7 @@
   birthplace: 上海
   roles: [tiger]
   status: purged
-  statusNote: 2007 年 9 月被判有期徒刑 15 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2007 年 9 月被判有期徒刑 15 年；刑期按判决应于 2022 年前后届满，未见出狱报道。
   fall:
     - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
     - { date: 2007-09, text: 一审以受贿罪判处有期徒刑 15 年，没收个人财产 50 万元, cite: r09-chinanews-2007-09-26-pension-verdicts }
@@ -114,7 +114,7 @@
   verify: true
   roles: [tiger]
   status: purged
-  statusNote: 2007 年 9 月上海一中院对其受贿案一审宣判，本站来源未载刑期。
+  statusNote: 2007 年 9 月上海一中院对其受贿案一审宣判，《中国纪检监察报》称其被依法判处有期徒刑 11 年；刑期按判决应于 2018 年前后届满，未见出狱报道。
   fall:
     - { date: 2007-03, text: 作为上海社保案涉案党员被开除党籍和公职, cite: e07-bbc-2007-03-02-pension-expelled }
     - { date: 2007-09, text: 上海一中院对其受贿案作出一审判决, cite: r09-chinanews-2007-09-26-pension-verdicts }
@@ -125,7 +125,7 @@
     在社保系列案中对她的受贿案一审宣判；中新社稿只说这批被告人刑期最低一年六个月、最高十八年，未单列她的刑期。
   positions:
     - { title: 上海市国有资产监督管理委员会副主任, sys: gov, place: 上海, cite: r09-chinanews-2007-09-26-pension-verdicts }
-  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled]
+  cites: [r09-chinanews-2007-09-26-pension-verdicts, e07-bbc-2007-03-02-pension-expelled, fx2-ecust-2011-03-05-wu-hongmei]
 
 # ───── 薄谷开来案（薄熙来、王立军） ─────
 - id: guo-weiguo
@@ -134,7 +134,7 @@
   born: 1967
   roles: [tiger]
   status: purged
-  statusNote: 2012 年 8 月被合肥中院以徇私枉法罪判处有期徒刑 11 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2012 年 8 月被合肥中院以徇私枉法罪判处有期徒刑 11 年；刑期按判决应于 2023 年前后届满，未见出狱报道。
   fall:
     - { date: 2012-08-20, text: 合肥中院以徇私枉法罪判处有期徒刑 11 年，认定其为主犯, cite: b07-xinhua-2012-08-20-gu-kailai-sentence }
   tier: 2
@@ -155,10 +155,13 @@
   born: 1955-12-01
   birthplace: 重庆
   roles: [tiger]
-  status: purged
-  statusNote: 2012 年 6 月被丹东中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  status: retired
+  statusNote: 2012 年 6 月被丹东中院以受贿罪判处有期徒刑 10 年 6 个月（刑期 2010 年 9 月 4 日至 2021 年 3 月 3 日），2015、2016 年两次各减刑一年，应于 2019 年 3 月 3 日刑满；中新网 2019 年 10 月称他已在当年初恢复自由。
   fall:
     - { date: 2012-06-13, text: 丹东中院以受贿罪判处有期徒刑 10 年 6 个月，没收个人财产 20 万元，认定受贿 136.38 万元, cite: r09-chinanews-2012-06-13-football }
+    - { date: 2015-01-12, text: 北京二中院裁定减去有期徒刑一年, cite: fx2-thepaper-2016-11-03-xie-yalong }
+    - { date: 2016-11, text: 北京法院公示刑罚执行机关以其获得 6 次表扬为由建议再减刑一年，减刑后刑期至 2019 年 3 月 3 日止, cite: fx2-thepaper-2016-11-03-xie-yalong }
+    - { date: 2019, text: 据中新网报道，已于 2019 年初获释、恢复自由, cite: fx2-chinanews-2019-10-16-football }
   tier: 2
   headline: 国家体育总局足管中心原主任、足协原副主席，上一轮足坛反赌扫黑落马
   ids: { wikidata: Q9185844 }
@@ -169,17 +172,19 @@
   positions:
     - { title: 国家体育运动委员会群众体育司司长, sys: gov, cite: r09-chinanews-2012-06-13-football }
     - { title: 国家体育总局足球运动管理中心主任、中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-06-13-football }
-  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q9185844]
+  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q9185844, fx2-thepaper-2016-11-03-xie-yalong, fx2-chinanews-2019-10-16-football]
 
 - id: nan-yong
   name: 南勇
   gender: m
   born: 1962-06-16
   roles: [tiger]
-  status: purged
-  statusNote: 2012 年 6 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  status: retired
+  statusNote: 2012 年 6 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月（刑期 2010 年 1 月 22 日至 2020 年 7 月 21 日），后减刑一年，应于 2019 年 7 月 21 日刑满；中新网 2019 年 10 月称“足协三巨头”已陆续出狱。
   fall:
     - { date: 2012-06-13, text: 铁岭中院以受贿罪判处有期徒刑 10 年 6 个月，没收个人财产 20 万元，认定受贿 119.6554 万元及手表、项链等物品, cite: r09-chinanews-2012-06-13-football }
+    - { date: 2014-12-09, text: 燕城监狱以其考核期间获表扬 7 次为由提请减刑，北京二中院随后裁定减去有期徒刑一年, cite: fx2-thepaper-2018-06-football-commuted }
+    - { date: 2019-07-21, text: 按减刑后刑期刑满；中新网同年 10 月称“足协三巨头”已陆续出狱, cite: fx2-chinanews-2019-10-16-football }
   tier: 2
   headline: 国家体育总局足管中心原主任、足协原副主席，上一轮足坛反赌扫黑落马
   ids: { wikidata: Q6850466 }
@@ -188,17 +193,18 @@
     1998—2009 年接受在足球事务中给予关照的请托，收受现金 119.6554 万元及手表、项链等物品，为多家俱乐部、球员、教练员谋取利益。
   positions:
     - { title: 国家体育总局足球运动管理中心副主任、主任兼中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-06-13-football }
-  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q6850466]
+  cites: [r09-chinanews-2012-06-13-football, r09-chinanews-2012-02-18-yang-yimin, cs2-bbc-2024-02-13-football, wd-Q6850466, fx2-thepaper-2018-06-football-commuted, fx2-chinanews-2019-10-16-football]
 
 - id: yang-yimin
   name: 杨一民
   gender: m
   born: 1956-11-23
   roles: [tiger]
-  status: purged
-  statusNote: 2012 年 2 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  status: retired
+  statusNote: 2012 年 2 月被铁岭中院以受贿罪判处有期徒刑 10 年 6 个月，服刑期间三次获减刑，减刑后刑期至 2018 年 3 月 21 日止；澎湃新闻 2018 年 6 月转载的报道称他已在当年春天重获自由。
   fall:
     - { date: 2012-02-18, text: 铁岭中院以受贿罪判处有期徒刑 10 年 6 个月，没收财产 20 万元，认定受贿 125.4 万余元, cite: r09-chinanews-2012-02-18-yang-yimin }
+    - { date: 2018-03-21, text: 第三次获减刑 8 个月后，刑期至当日止，刑满获释, cite: fx2-thepaper-2018-06-football-commuted }
   tier: 2
   headline: 国家体育总局足管中心原副主任、足协原副主席，上一轮足坛反赌扫黑落马
   ids: { wikidata: Q9212870 }
@@ -207,7 +213,7 @@
     领导职务之便，为足球教练员、俱乐部谋取不正当利益，先后 40 余次收受贿赂 125.4 万余元。其律师称他对判决较满意，当庭表示不上诉。
   positions:
     - { title: 国家体育总局足球运动管理中心副主任、中国足球协会副主席, sys: gov, cite: r09-chinanews-2012-02-18-yang-yimin }
-  cites: [r09-chinanews-2012-02-18-yang-yimin, wd-Q9212870]
+  cites: [r09-chinanews-2012-02-18-yang-yimin, wd-Q9212870, fx2-thepaper-2018-06-football-commuted]
 
 - id: wang-dengfeng
   name: 王登峰
@@ -286,7 +292,7 @@
   born: 1953
   roles: [tiger]
   status: purged
-  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；刑期按判决应于 2019 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-08-18, text: 郴州中院以玩忽职守罪判处有期徒刑 4 年，以受贿罪判处有期徒刑 3 年，数罪并罚决定执行有期徒刑 5 年 6 个月, cite: r09-hnrd-2014-08-19-hengyang }
   tier: 2
@@ -305,7 +311,7 @@
   verify: true
   roles: [tiger]
   status: purged
-  statusNote: 2014 年 8 月被株洲中院数罪并罚判处有期徒刑 5 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2014 年 8 月被株洲中院数罪并罚判处有期徒刑 5 年；刑期按判决应于 2019 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-08-18, text: 株洲中院以玩忽职守罪判处有期徒刑 3 年 6 个月，以受贿罪判处有期徒刑 3 年，数罪并罚决定执行有期徒刑 5 年, cite: r09-people-2014-08-18-hengyang }
   tier: 2
@@ -323,7 +329,7 @@
   origin: 湖南常宁
   roles: [tiger]
   status: purged
-  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2014 年 8 月被郴州中院数罪并罚判处有期徒刑 5 年 6 个月；刑期按判决应于 2019 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-08-18, text: 郴州中院以玩忽职守罪判处有期徒刑 3 年 6 个月，以受贿罪判处有期徒刑 3 年 6 个月，数罪并罚决定执行有期徒刑 5 年 6 个月, cite: r09-people-2014-08-18-hengyang }
   tier: 2
@@ -342,7 +348,7 @@
   birthplace: 湖南邵阳
   roles: [tiger]
   status: purged
-  statusNote: 2014 年以玩忽职守罪被判有期徒刑 3 年，同年 9 月湖南高院二审维持；按刑期计算已刑满。
+  statusNote: 2014 年以玩忽职守罪被判有期徒刑 3 年，同年 9 月湖南高院二审维持；刑期按判决应于 2017 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-09-25, text: 湖南高院二审裁定驳回上诉，维持以玩忽职守罪判处有期徒刑 3 年的一审判决, cite: r09-thepaper-2014-09-25-xiao-bin }
   tier: 2
@@ -462,7 +468,7 @@
   joinedWork: 1982-01
   roles: [tiger]
   status: purged
-  statusNote: 2017 年 11 月阳泉中院判决已生效，刑期未见公开报道。
+  statusNote: 2017 年 11 月阳泉中院判决已生效，刑期未见公开报道，无法推算是否仍在刑期内。
   fall:
     - { date: 2014-12, text: 因涉嫌严重违纪违法接受组织调查, cite: r09-thepaper-2018-dong-hongyun }
     - { date: 2015-08, text: 被开除党籍和公职，山西省检察院以涉嫌受贿罪决定逮捕, cite: r09-thepaper-2018-dong-hongyun }
@@ -564,7 +570,7 @@
   birthplace: 四川成都
   roles: [tiger]
   status: purged
-  statusNote: 2016 年 12 月被乐山中院判处有期徒刑 8 年 6 个月；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2016 年 12 月被乐山中院判处有期徒刑 8 年 6 个月；2014 年 9 月被决定逮捕，刑期按判决应于 2023 年前后届满，未见出狱报道。
   fall:
     - { date: 2014-03, text: 四川省纪委宣布其涉嫌严重违纪，接受组织调查, cite: r09-thepaper-2017-02-he-huazhang }
     - { date: 2014-09-28, text: 乐山市检察院经指定管辖立案侦查，四川省检察院决定逮捕, cite: r09-yicai-2014-10-chengdu }
@@ -657,7 +663,7 @@
   joinedWork: 1976-01
   roles: [tiger]
   status: purged
-  statusNote: 2018 年前已因受贿罪被判刑，刑期未公开。
+  statusNote: 2018 年前已因受贿罪被判刑，刑期未公开，无法推算是否仍在刑期内。
   fall:
     - { date: 2014-11-28, text: 因卷入苏荣案被有关部门带走调查, cite: r09-thepaper-2016-08-03-wang-cong }
     - { date: 2016-08, text: 景德镇市检察院以涉嫌行贿罪、受贿罪向景德镇中院提起公诉, cite: r09-thepaper-2016-08-03-wang-cong }
@@ -708,7 +714,7 @@
   birthplace: 上海
   roles: [tiger]
   status: purged
-  statusNote: 已因受贿罪被判有期徒刑 9 年 6 个月（上观新闻），宣判日期未见本站来源。
+  statusNote: 已因受贿罪被判有期徒刑 9 年 6 个月（上观新闻），宣判日期与羁押起点未见本站来源，无法准确推算届满时间（若 2015 年被查后不久即被羁押，应于 2025 年前后届满）；未见出狱报道。
   fall:
     - { date: 2018-09, text: 上观新闻报道其此前已因受贿罪被判处有期徒刑 9 年 6 个月, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   tier: 2
@@ -728,7 +734,7 @@
   joinedWork: 1986-07
   roles: [tiger]
   status: purged
-  statusNote: 2018 年 5 月被鹰潭中院以受贿罪判处有期徒刑 6 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2018 年 5 月被鹰潭中院以受贿罪判处有期徒刑 6 年；2017 年 2 月被查，刑期按判决应于 2023 年前后届满，未见出狱报道。
   fall:
     - { date: 2017-02-20, text: 江西省纪委宣布其涉嫌严重违纪，接受组织调查, cite: r09-fzb-2018-05-10-leng-xinsheng }
     - { date: 2018-05-10, text: 鹰潭中院以受贿罪判处有期徒刑 6 年，并处罚金 50 万元, cite: r09-fzb-2018-05-10-leng-xinsheng }
@@ -752,7 +758,7 @@
   born: 1970
   roles: [tiger, family]
   status: purged
-  statusNote: 2017 年初以利用影响力受贿罪被判有期徒刑 8 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2017 年初以利用影响力受贿罪被判有期徒刑 8 年；刑期按判决应于 2023 年前后届满，未见出狱报道。
   fall:
     - { date: 2017, text: 以利用影响力受贿罪被判处有期徒刑 8 年，并处罚金 150 万元, cite: r09-jfdaily-2018-09-11-su-rong-43 }
   tier: 2
@@ -857,7 +863,7 @@
   gender: m
   roles: [tiger]
   status: purged
-  statusNote: 2016 年 10 月被北京一中院以受贿罪判处有期徒刑 12 年 6 个月；按刑期计算约在 2026 年刑满，未见公开报道。
+  statusNote: 2016 年 10 月被北京一中院以受贿罪判处有期徒刑 12 年 6 个月；2014 年 4 月 15 日被带走，5 月被最高检立案侦查并采取强制措施，刑期按判决应于 2026 年 10—11 月届满，未见出狱报道。
   fall:
     - { date: 2014-04-15, text: 被带走调查, cite: r09-people-2018-09-21-nea }
     - { date: 2016-10-19, text: 北京一中院以受贿罪判处有期徒刑 12 年 6 个月，并处罚金 400 万元, cite: r09-people-2018-09-21-nea }
@@ -871,7 +877,7 @@
     - { title: 国家发展和改革委员会能源局电力处处长, sys: gov, from: 2004, to: 2008, cite: r09-people-2016-10-19-hao-weiping }
     - { title: 国家能源局电力司副司长, sys: gov, from: 2008, to: 2012-12, cite: r09-people-2016-10-19-hao-weiping }
     - { title: 国家能源局核电司司长, sys: gov, from: 2012-12, to: 2014, cite: r09-people-2016-10-19-hao-weiping }
-  cites: [r09-people-2016-10-19-hao-weiping, r09-people-2018-09-21-nea, c03-chinacourt-2014-12-10-liu-tienan-verdict]
+  cites: [r09-people-2016-10-19-hao-weiping, r09-people-2018-09-21-nea, c03-chinacourt-2014-12-10-liu-tienan-verdict, fx2-chinanews-2014-05-21-hao-weiping]
 
 # ───── 仇和与昆明 ─────
 - id: xie-xinsong
@@ -881,7 +887,7 @@
   birthplace: 江苏沭阳
   roles: [tiger]
   status: purged
-  statusNote: 2016 年 12 月被昆明中院以受贿罪判处有期徒刑 10 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2016 年 12 月被昆明中院以受贿罪判处有期徒刑 10 年；刑期按判决应于 2025 年前后届满，未见出狱报道。
   fall:
     - { date: 2016-12, text: 昆明中院以受贿罪判处有期徒刑 10 年，并处罚金 100 万元, cite: r09-chinanews-2016-12-30-xie-xinsong }
   tier: 2

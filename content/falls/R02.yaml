@@ -783,6 +783,7 @@ wu-zhenfang:
     yuan: 1860000
     text: 伙同妻子张某共同收受房屋装修款 170 万元，另收受他人为其本人及亲友支付的机票款 16 万余元
     cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict
+  sentence: { date: 2017-02, term: years, years: 3.5, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
   trigger: { kind: inspect, text: 2015 年 3 月初中央第二巡视组进驻中海油总公司，随后已退休两年的吴振芳被调查, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }
   with:
     - { name: 张某, rel: kin, text: 吴振芳之妻，与其共同收受房屋装修款，以受贿罪被判有期徒刑三年、缓刑三年, cite: r02-chinanews-2017-02-16-wu-zhenfang-verdict }

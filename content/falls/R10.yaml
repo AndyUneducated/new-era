@@ -941,7 +941,8 @@ mi-xiaodong:
     level: linked
     why: 作为周滨的商业代理人在周永康案中被控制，属周永康系清洗
     cites: [f09-sina-2014-07-29-caixin-zhou]
-  outcome: missing
+  sentence: { date: 2016-07, term: years, years: 5, cite: fx2-thepaper-2016-07-mi-xiaodong }
+  outcome: sentenced
 
 zhou-bin:
   sys: other

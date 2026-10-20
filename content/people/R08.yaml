@@ -93,7 +93,7 @@
   birthplace: 云南泸西
   roles: [tiger]
   status: purged
-  statusNote: 2017 年 2 月被临沧中院以受贿罪、行贿罪判处有期徒刑 10 年；按刑期计算或已刑满，未见公开报道。
+  statusNote: 2017 年 2 月被临沧中院以受贿罪、行贿罪判处有期徒刑 10 年；2015 年 4 月被查，刑期按判决应于 2025 年前后届满，未见出狱报道。
   fall:
     - { date: 2015-04-10, text: 云南省纪委宣布其涉嫌严重违纪违法，接受组织调查, cite: r08-wiki-gao-jinsong }
     - { date: 2015-04-11, text: 云南省委免去其昆明市委书记、常委、委员职务, cite: r08-gov-2015-04-11-gao-jinsong-probe }
@@ -119,7 +119,7 @@
   gender: m
   born: 1960
   roles: [biz]
-  status: detained
+  status: purged
   statusNote: 2019 年 7 月被以利用影响力受贿罪、行贿罪起诉；判决结果未见公开报道。
   fall:
     - { date: 2018-07-17, text: 在广东珠海被公安机关抓获, cite: r08-thepaper-2022-01-04-su-hongbo-charge }
@@ -172,14 +172,14 @@
   born: 1977-02-12
   birthplace: 浙江宁波
   roles: [biz]
-  status: purged
-  statusNote: 2017 年 1 月以操纵证券市场罪被判有期徒刑 5 年 6 个月、罚金 110 亿元，2021 年 7 月 9 日刑满出狱。
+  status: retired
+  statusNote: 2017 年 1 月以操纵证券市场罪被判有期徒刑 5 年 6 个月、罚金 110 亿元，2021 年 7 月 9 日刑满出狱；2017 年已被基金业协会列入黑名单，不得在基金行业从业。
   fall:
     - { date: 2015-11-01, text: 因涉嫌非法获取内幕信息、内幕交易、操纵股票交易价格被公安机关采取刑事强制措施, cite: r08-wiki-xu-xiang }
     - { date: 2016-04-29, text: 因涉嫌操纵证券市场及内幕交易犯罪被批准逮捕, cite: r08-wiki-xu-xiang }
     - { date: 2016-12-05, text: 青岛中院一审公开审理, cite: r08-huxiu-2017-01-23-xu-xiang-verdict }
     - { date: 2017-01-23, text: 青岛中院以操纵证券市场罪判处有期徒刑 5 年 6 个月，并处罚金 110 亿元, cite: r08-wiki-xu-xiang }
-    - { date: 2021-07-09, text: 刑满出狱, cite: r08-wiki-xu-xiang }
+    - { date: 2021-07-09, text: 刑满出狱，妻子应莹向媒体确认家属已接到他, cite: fx2-21jingji-2021-07-09-xu-xiang-out }
   tier: 2
   headline: 泽熙投资总经理，“私募一哥”，2015 年股灾后被抓
   ids: { wikidata: Q21334543 }
@@ -189,7 +189,7 @@
     检方指控他 2010—2015 年与 13 家上市公司董事长、实际控制人合谋操纵股价；他是首犯，无自首情节。
   positions:
     - { title: 上海泽熙投资管理有限公司总经理, sys: other, place: 上海, from: 2009, to: 2015-11, cite: r08-wiki-xu-xiang }
-  cites: [r08-wiki-xu-xiang, r08-chinanews-2015-11-04-xu-xiang-police, r08-huxiu-2017-01-23-xu-xiang-verdict, cs1-cctv-2017-01-23-xu-xiang]
+  cites: [r08-wiki-xu-xiang, r08-chinanews-2015-11-04-xu-xiang-police, r08-huxiu-2017-01-23-xu-xiang-verdict, cs1-cctv-2017-01-23-xu-xiang, fx2-21jingji-2021-07-09-xu-xiang-out]
 
 - id: liu-xinhua
   name: 刘新华
@@ -288,12 +288,13 @@
   born: 1959-09
   birthplace: 黑龙江呼兰
   roles: [tiger]
-  status: purged
-  statusNote: 2019 年 2 月被判有期徒刑 17 年，因患肺癌被暂予监外执行。出生年月据驻民政部纪检监察组通报；另说 1960 年 11 月（北京青年报）。
+  status: watched
+  statusNote: 2019 年 2 月被判有期徒刑 17 年，因癌症晚期自 2019 年 3 月 27 日起被暂予监外执行，刑期至 2036 年 2 月 13 日止。出生年月据驻民政部纪检监察组通报；另说 1960 年 11 月（北京青年报）。
   fall:
     - { date: 2018-10-31, text: 中央纪委国家监委宣布其涉嫌严重违纪违法，接受纪律审查和监察调查，同日被留置, cite: r08-people-2019-04-14-feng-lizhi-verdict }
     - { date: 2018-12-13, text: 被取保候审, cite: r08-people-2019-04-14-feng-lizhi-verdict }
     - { date: 2019-02-26, text: 北京二中院以受贿罪、滥用职权罪判处有期徒刑 17 年，并处罚金 100 万元，受贿 585 万余元, cite: r08-people-2019-04-14-feng-lizhi-verdict }
+    - { date: 2019-03-27, text: 移送执行时发现患病，经检察院建议，北京二中院决定对其暂予监外执行；扣除先前羁押日期后刑期至 2036 年 2 月 13 日止, cite: fx2-bjnews-2019-04-13-feng-lizhi }
   tier: 2
   headline: 中福彩中心原副主任，获刑 17 年后监外执行
   bio: >-
@@ -303,7 +304,7 @@
   positions:
     - { title: 中国福利彩票发行管理中心副主任, sys: gov, from: 2008-09, to: 2013-11, cite: r08-people-2019-04-14-feng-lizhi-verdict }
     - { title: 中国儿童福利和收养中心副主任, sys: gov, from: 2013-11, to: 2018-10, cite: r08-people-2019-04-14-feng-lizhi-verdict }
-  cites: [r08-people-2019-04-14-feng-lizhi-verdict, cs2-people-2018-11-09-lottery-14, bd2-jjcdi-2018-10-31-feng-lizhi, bd2-people-2019-06-04-feng-lizhi]
+  cites: [r08-people-2019-04-14-feng-lizhi-verdict, cs2-people-2018-11-09-lottery-14, bd2-jjcdi-2018-10-31-feng-lizhi, bd2-people-2019-06-04-feng-lizhi, fx2-bjnews-2019-04-13-feng-lizhi]
 
 # ───── 周永康、令计划家族（CS1） ─────
 - id: jia-xiaoye
@@ -314,7 +315,7 @@
   birthplace: 山西灵丘
   roles: [family]
   status: purged
-  statusNote: 2016 年 6 月被宜昌中院以受贿罪、利用影响力受贿罪判处有期徒刑 9 年，当庭表示不上诉；官方未公布其羁押起始，按刑期计算或已刑满，未见公开报道。
+  statusNote: 2016 年 6 月被宜昌中院以受贿罪、利用影响力受贿罪判处有期徒刑 9 年，当庭表示不上诉；官方未公布其羁押起始，刑期按判决最迟应于 2025 年届满，未见出狱报道。
   fall:
     - { date: 2016-06, text: 宜昌中院以受贿罪、利用影响力受贿罪判处有期徒刑 9 年，并处罚金 100 万元, cite: r08-cri-2016-06-16-jia-xiaoye-verdict }
   tier: 2
@@ -1279,8 +1280,8 @@
   verify: true
   gender: m
   roles: [biz]
-  status: purged
-  statusNote: 2016 年 4 月被带走调查，后以行贿罪被判有期徒刑 2 年 6 个月，2019 年 7 月刑满释放。
+  status: retired
+  statusNote: 2016 年 4 月被带走调查，后以行贿罪被判有期徒刑 2 年 6 个月，2019 年 7 月刑满释放（据 2021 年 8 月新浪报道）；判决日期未见报道。
   fall:
     - { date: 2016-04-27, text: 被有关部门带走调查，数日后其妻武京京也被带走, cite: r08-sina-2021-08-16-he-wen-out }
     - { date: 2017-09, text: 被批准逮捕，经河北高院指定由张家口市康保县法院审理, cite: r08-sina-2021-08-16-he-wen-out }
@@ -1477,8 +1478,8 @@
   born: 1963-10
   birthplace: 山西古交
   roles: [biz]
-  status: detained
-  statusNote: 2024 年 11 月第三次被带走，2026 年 6 月被晋城市检察院以组织、领导黑社会性质组织罪等罪名提起公诉。
+  status: purged
+  statusNote: 界面新闻称其此前因单位行贿罪、高利转贷罪等被判四年六个月徒刑（同文另称 2016 年获刑十三年）；2024 年 11 月第三次被带走，2026 年 6 月被晋城市检察院以组织、领导黑社会性质组织罪等罪名提起公诉，尚未见判决。
   fall:
     - { date: 2014-08-04, text: 因涉嫌涉黑、洗钱等问题被警方带走调查, cite: cs1-thepaper-2014-08-cr-wang-yujun }
     - { date: 2024-11-04, text: 被山西晋城警方带走调查, cite: r08-jiemian-2026-zhang-xinming-charge }
@@ -1562,7 +1563,7 @@
   born: 1962
   roles: [biz]
   status: purged
-  statusNote: 2016 年 12 月以非国家工作人员受贿罪被判有期徒刑 3 年 6 个月。
+  statusNote: 2016 年 12 月以非国家工作人员受贿罪被判有期徒刑 3 年 6 个月；2015 年 9 月被公安机关调查，刑期按判决应于 2019 年前后届满，未见出狱报道。
   fall:
     - { date: 2015-09-15, text: 因涉嫌内幕交易、泄露内幕信息被公安机关要求接受调查, cite: r08-people-2015-09-16-cheng-boming-probe }
     - { date: 2016-04-29, text: 被青岛市公安机关批准逮捕, cite: cs5-sina-2017-11-13-cheng-boming }

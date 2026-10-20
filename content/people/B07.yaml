@@ -613,8 +613,8 @@
   joinedParty: 1980-04
   joinedWork: 1963-08
   roles: [pb, cc, prov, tiger]
-  status: purged
-  statusNote: 2008 年 4 月被判有期徒刑十八年；按刑期推算应已届满，但未见官方公布他获释的消息。
+  status: retired
+  statusNote: 2008 年 4 月被判有期徒刑十八年；官方未公布获释消息，香港《信报》2026 年 1 月援引未具名消息称他已获释近半年，居于上海、生活低调。
   verify: true
   fall:
     - { date: 2006-09-24, text: 中央政治局会议决定免去上海市委书记职务，停止其政治局委员、中央委员职务，由中央纪委立案检查, cite: b07-xinhua-2006-09-25-chen-removal }
@@ -622,6 +622,7 @@
     - { date: 2007-10-12, text: 十六届七中全会确认开除党籍处分, cite: b07-xinhua-2008-04-11-chen-sentence }
     - { date: 2008-03-25, text: 天津市第二中级人民法院开庭审理, cite: b07-xinhua-2008-04-11-chen-sentence }
     - { date: 2008-04-11, text: 以受贿罪、滥用职权罪一审判处有期徒刑十八年，没收个人财产三十万元, cite: b07-xinhua-2008-04-11-chen-sentence }
+    - { date: 2025, text: 据香港《信报》2026 年 1 月报道已获释近半年，目前居于上海；官方未公布, cite: fx2-hkej-2026-01-21-chen-liangyu }
   tier: 1
   headline: 中央政治局委员、上海市委书记（2002–2006），2008 年被判有期徒刑十八年
   ids: { wikidata: Q715087 }
@@ -719,4 +720,4 @@
       text: >-
         法院认定，陈良宇明知弟弟不具备土地开发资质，仍同意有关部门为他违规征地 537 亩，陈良军最终违规获得 354 亩土地使用权，变相倒卖后非法获利 1.18 亿元，给国家造成直接损失 3441 万余元。
       cites: [b07-xinhua-2008-04-11-chen-sentence]
-  cites: [b07-xinhua-2002-11-16-chen-resume, b07-xinhua-2006-09-25-chen-removal, b07-xinhua-2007-07-26-chen-expulsion, b07-xinhua-2008-04-11-chen-sentence, b07-bbc-2006-10-08-chen-shanghai-gang, wd-Q715087]
+  cites: [b07-xinhua-2002-11-16-chen-resume, b07-xinhua-2006-09-25-chen-removal, b07-xinhua-2007-07-26-chen-expulsion, b07-xinhua-2008-04-11-chen-sentence, b07-bbc-2006-10-08-chen-shanghai-gang, wd-Q715087, fx2-hkej-2026-01-21-chen-liangyu]
