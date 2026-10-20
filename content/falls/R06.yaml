@@ -848,7 +848,7 @@ wang-fengchao:
   fall:
     - { date: 2026-06-05, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r06-xinhua-2026-06-05-wang-fengchao-expel }
   status: purged
-  statusNote: 2026 年 6 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。
+  statusNote: 2026 年 6 月被开除党籍和公职，10 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
 
 fang-hongwei:
   sys: local
@@ -892,7 +892,7 @@ jiang-duntao:
   fall:
     - { date: 2026-04-13, text: 被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉, cite: r06-xinhua-2026-04-13-jiang-duntao-expel }
   status: purged
-  statusNote: 2026 年 4 月被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。
+  statusNote: 2026 年 4 月被开除党籍和公职，8 月被以涉嫌受贿罪提起公诉；尚未见审判消息。
 
 wu-shenghua:
   sys: local
@@ -1210,6 +1210,9 @@ liu-yuejin-mps:
     yuan: 121000000
     text: 1992 年至 2020 年直接或通过他人非法收受财物共计折合人民币 1.21 亿余元
     cite: t02-court-2025-06-23-liu-yuejin-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿犯罪事实；认罪悔罪, cite: t02-court-2025-06-23-liu-yuejin-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款赃物已全部追缴, cite: t02-court-2025-06-23-liu-yuejin-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1292,6 +1295,14 @@ zhang-jianchun:
 zhang-jianlong-forestry:
   sys: central
   grade: vice
+  notice:
+    date: 2026-10-19
+    cite: c15-xinhua-2026-10-19-zhang-jianlong-forestry-expel
+    quotes:
+      - 政绩观错位，对党中央有关要求只表态不落实，对抗组织审查
+      - 在干部选拔任用、职工录用等工作中违规为他人谋取利益
+      - 利用职务便利为他人在林地占用和专项资金审批、野生动物利用许可、工程项目承揽等方面谋利
+  discipline: [political, organization, integrity, life, eight]
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源
@@ -1548,6 +1559,9 @@ wang-yilin:
     yuan: 35010000
     text: 1996 年至 2020 年非法收受财物共计折合人民币 3501 万余元
     cite: t02-xinhua-2025-05-13-wang-yilin-verdict
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的部分受贿事实，认罪悔罪, cite: t02-xinhua-2025-05-13-wang-yilin-verdict }
+    - { kind: refund, text: 积极退赃，涉案赃款赃物已全部追缴, cite: t02-xinhua-2025-05-13-wang-yilin-verdict }
   trigger:
     kind: unknown
     text: 官方通报未说明线索来源

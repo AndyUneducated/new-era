@@ -22,6 +22,10 @@ chen-xuyuan:
   sys: culture
   grade: none
   amount: { yuan: 81030000, text: 法院认定 2010—2023 年受贿 8103 万余元，其中 400 万元未实际取得, cite: cs2-xinhua-2024-03-26-chen-xuyuan-verdict }
+  plea:
+    - { kind: merit, text: 揭发他人犯罪行为，经查证属实，具有立功表现, cite: cs2-xinhua-2024-03-26-chen-xuyuan-verdict }
+    - { kind: plea, text: 到案后如实供述，主动交代监察机关尚未掌握的部分受贿犯罪事实；认罪悔罪, cite: cs2-xinhua-2024-03-26-chen-xuyuan-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款已全部追缴, cite: cs2-xinhua-2024-03-26-chen-xuyuan-verdict }
   trigger: { kind: chain, text: 中央纪委专题片称足坛专案以李铁为突破口，随后中国足协十多名高层和中层干部接受审查调查，其中包括陈戌源, cite: cs2-people-2024-01-10-sanbufu-ep4 }
   with:
     - { id: li-tie, name: 李铁, rel: briber, text: 卓尔俱乐部为推荐李铁任国家选拔队主教练向他行贿 200 万元, cite: cs2-xinhua-2024-01-09-li-tie-bribe }
@@ -48,6 +52,9 @@ xu-ying:
       - “靠烟吃烟”、大搞权钱交易
   discipline: [political, organization, integrity, life, eight]
   amount: { yuan: 65330000, text: 法院认定 2010 年 3 月至 2024 年 4 月直接或通过其妻等人受贿 6533 万余元, cite: r08-people-2025-08-13-xu-ying-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述罪行，认罪悔罪, cite: r08-people-2025-08-13-xu-ying-verdict }
+    - { kind: refund, text: 积极退赃，赃款赃物全部追缴到案, cite: r08-people-2025-08-13-xu-ying-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-ccdi-2024-11-20-xu-ying-expel }
   politics:
     level: none
@@ -99,6 +106,10 @@ tian-huiyu:
       - 生活腐化、道德败坏
   discipline: [political, organization, integrity, eight]
   amount: { yuan: 210000000, text: 法院认定 1997—2022 年受贿 2.1 亿余元；另利用未公开信息交易非法获利 2.9 亿余元, cite: r08-people-2024-02-05-tian-huiyu-verdict }
+  plea:
+    - { kind: surrender, text: 主动交代办案机关尚未掌握的内幕交易、泄露内幕信息事实，所犯内幕交易、泄露内幕信息罪构成自首, cite: r08-people-2024-02-05-tian-huiyu-verdict }
+    - { kind: plea, text: 主动交代办案机关尚未掌握的大部分受贿事实，认罪悔罪, cite: r08-people-2024-02-05-tian-huiyu-verdict }
+    - { kind: refund, text: 积极退赃，犯罪所得已全部追缴到案, cite: r08-people-2024-02-05-tian-huiyu-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-ccdi-2022-04-22-tian-huiyu-probe }
   politics:
     level: none
@@ -421,6 +432,9 @@ zhang-ping-gz:
       - 长期与私营企业主深度“捆绑”
   discipline: [political, organization, integrity, work, life, eight]
   amount: { yuan: 47720000, text: 法院认定 2008 年上半年至 2023 年 12 月受贿 4772 万余元, cite: r08-people-2025-06-30-zhang-ping-gz-verdict }
+  plea:
+    - { kind: plea, text: 到案后如实供述，主动交代办案机关尚未掌握的大部分受贿事实，认罪悔罪, cite: r08-people-2025-06-30-zhang-ping-gz-verdict }
+    - { kind: refund, text: 积极退赃，涉案赃款赃物绝大部分已追缴, cite: r08-people-2025-06-30-zhang-ping-gz-verdict }
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2024-04-03-zhang-ping-gz-probe }
   politics:
     level: none
@@ -459,6 +473,10 @@ long-fei:
       - 执纪违纪，执法犯法
   discipline: [organization, integrity, life, eight]
   amount: { yuan: 6130000, text: 法院认定 2000—2023 年受贿 613 万余元, cite: r08-people-2025-06-10-long-fei-verdict }
+  plea:
+    - { kind: surrender, text: 自动投案，如实供述自己罪行，具有自首情节, cite: r08-people-2025-06-10-long-fei-verdict }
+    - { kind: plea, text: 认罪悔罪, cite: r08-people-2025-06-10-long-fei-verdict }
+    - { kind: refund, text: 积极退赃，受贿赃款已全部追缴, cite: r08-people-2025-06-10-long-fei-verdict }
   trigger: { kind: surrender, text: 判决称其自动投案，具有自首情节, cite: r08-people-2025-06-10-long-fei-verdict }
   politics:
     level: none
@@ -756,12 +774,20 @@ jiang-hongwei:
 wang-wenling:
   sys: central
   grade: vice
+  notice:
+    date: 2026-10-19
+    cite: c15-xinhua-2026-10-19-wang-wenling-expel
+    quotes:
+      - 私自携带、阅看有严重政治问题的书籍，对抗组织审查，搞迷信活动
+      - 违规经商办企业，由他人支付应由本人支付的费用
+      - 利用职务便利为他人在参与公司改制、融资上市以及入职金融机构等方面谋利
+  discipline: [political, organization, integrity, work, life, eight]
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-04-07-wang-wenling-probe }
   politics:
     level: none
     why: 目前只有立案消息，未见政治关联报道
     cites: [r08-people-2026-04-07-wang-wenling-probe]
-  outcome: probe
+  outcome: expelled
 
 wang-wenhua-qd:
   sys: local
@@ -819,12 +845,20 @@ bian-zhigang:
 yu-xiaoping:
   sys: finance
   grade: exec
+  notice:
+    date: 2026-10-19
+    cite: c15-xinhua-2026-10-19-yu-xiaoping-expel
+    quotes:
+      - 利用职务便利为他人在豁免贷款条件、加快贷款审批等方面谋利
+      - 且离职后仍利用原职务影响收钱敛财
+      - 滥用职权，致使国家利益遭受特别重大损失
+  discipline: [political, organization, integrity, work]
   trigger: { kind: unknown, text: 官方通报未说明线索来源, cite: r08-people-2026-06-13-yu-xiaoping-probe }
   politics:
     level: none
     why: 目前只有立案消息，未见政治关联报道
     cites: [r08-people-2026-06-13-yu-xiaoping-probe]
-  outcome: probe
+  outcome: expelled
 
 wang-yihua:
   sys: soe
@@ -1080,6 +1114,10 @@ zhang-huayu:
       - 在职时为有关企业谋取利益，退休前夕辞职
   discipline: [political, eight, organization, integrity]
   amount: { yuan: 14655807, text: 在职受贿 773.6271 万元，离职后利用影响力受贿 691.9536 万元, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
+  plea:
+    - { kind: surrender, text: 利用影响力受贿罪构成自首, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
+    - { kind: plea, text: 受贿罪具有坦白情节，且自愿认罪、认罚, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
+    - { kind: refund, text: 大部分赃款赃物已退缴, cite: r08-xinhua-2023-08-11-zhang-huayu-verdict }
   trigger: { kind: unknown, text: 通报未说明线索来源, cite: r08-ccdi-2022-07-04-zhang-huayu-expel }
   politics:
     level: none
