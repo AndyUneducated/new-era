@@ -1,0 +1,143 @@
+# I12: sources for round-17 concepts — 社会主义新农村建设, 习近平党建思想（习近平总书记关于党的建设的重要思想）, 正确政绩观;
+# and their landing events (2010 增减挂钩整顿, 2013 全国组织工作会议与政绩考核通知, 2018 / 2023 全国组织工作会议).
+web:
+  # ---- 社会主义新农村建设
+  - id: i12-npc-2005-10-18-11th-fyp-proposal
+    title: 中共中央关于制定国民经济和社会发展第十一个五年规划的建议（2005年10月11日中国共产党第十六届中央委员会第五次全体会议通过）
+    publisher: 中国人大网（新华社）
+    date: 2005-10-11
+    voice: doc
+    url: http://www.npc.gov.cn/zgrdw/npc/zt/qt/jj125gh/2010-11/30/content_1628250.htm
+    start: 新华网北京10月18日电
+    end: 为实现国民经济和社会发展第十一个五年规划和全面建设小康社会的宏伟目标而努力奋斗！（完）
+    note: 中国政府网原页（www.gov.cn/ztzl/2005-10/19/content_95091.htm）抓取时返回 404，改取中国人大网 2010 年转载的全文。
+  - id: i12-chinanews-2010-11-02-beishanglou
+    title: 20余省市撤村圈地发土地财 失地农民“被上楼”（新京报）
+    publisher: 中国新闻网（转载新京报）
+    author: 涂重航
+    date: 2010-11-02
+    voice: zh
+    url: http://www.chinanews.com.cn/estate/2010/11-02/2626959.shtml
+    excerpt: true
+    keep: [ 一场让农民“上楼”的行动, 拆村并居，无数村庄, 各地目标相同, 山东诸城市取消了行政村编制, 古今中外，史无前例, 恐怕要出大事, 打着各种旗号, 在江苏省邳州市坝头村, 因补偿款购买不起, 2006年4月，山东、天津, 疾呼要“急刹车” ]
+  - id: i12-caixin-2010-11-13-guagou-brake
+    title: “增减挂钩”踩刹车（《财新周刊》2010年第45期）
+    publisher: 财新网
+    author: 张艳玲
+    date: 2010-11-15
+    voice: zh
+    url: https://magazine.caixin.com/2010-11-13/100198438.html
+    excerpt: true
+    keep: [ 现有政治体制下政府主导城市化模式, 全国扩大化的“农民上楼”运动, 温家宝总理主持国务院常务会议, 坚决防止违背农民意愿 ]
+  - id: i12-jjckb-2010-11-11-state-council-guagou
+    title: 国务院：防止违背农民意愿大拆大建（经济参考报）
+    publisher: 经济参考网
+    author: 王涛
+    date: 2010-11-11
+    voice: official
+    url: http://jjckb.xinhuanet.com/2010-11/11/content_269198.htm
+    start: 记者从中国政府网获悉
+    end: 切实抓好落实。
+  # ---- 正确政绩观
+  - id: i12-gov-2013-06-29-org-work-conference
+    title: 习近平在全国组织工作会议上强调 建设一支宏大高素质干部队伍 确保党始终成为坚强领导核心
+    publisher: 中国政府网（新华社）
+    date: 2013-06-29
+    voice: official
+    url: https://www.gov.cn/ldhd/2013-06/29/content_2437094.htm
+    start: 新华社北京６月２９日电
+    end: 武警总部政治部负责人等参加会议。
+  - id: i12-people-2013-12-09-performance-notice
+    title: 关于改进地方党政领导班子和领导干部政绩考核工作的通知（中共中央组织部，2013年12月6日）
+    publisher: 人民网（新华社授权发布）
+    date: 2013-12-06
+    voice: doc
+    url: http://politics.people.com.cn/n/2013/1209/c70731-23791740.html
+    start: 新华社北京12月9日电
+    end: 2013年12月6日
+    note: 中国政府网新华社报道页（www.gov.cn/jrzg/2013-12/09/content_2545144.htm）抓取时返回 404，改取人民网所载通知全文。
+  - id: i12-people-2013-12-11-performance-qa
+    title: 中组部负责人就改进地方党政领导班子和领导干部政绩考核答记者问（人民日报）
+    publisher: 人民网
+    author: 盛若蔚
+    date: 2013-12-11
+    voice: official
+    url: http://renshi.people.com.cn/n/2013/1211/c139617-23808048.html
+    start: 【核心阅读】
+    end: 《 人民日报 》（ 2013年12月11日 02 版）
+  - id: i12-aisixiang-2007-zhou-lian-tournament
+    title: 中国地方官员的晋升锦标赛模式研究（周黎安，《经济研究》2007年第7期）
+    publisher: 爱思想
+    author: 周黎安
+    date: 2007-07
+    voice: scholar
+    url: https://www.aisixiang.com/data/18217.html
+    excerpt: true
+    keep: [ 中国经济奇迹的重要根源, 晋升锦标赛作为一种强力激励, GDP 绩效观的功过是非 ]
+  - id: i12-zaobao-2026-02-27-performance-view
+    title: 中共推政绩观教育 港媒：或调整干部考核标准不再唯GDP
+    publisher: 联合早报
+    date: 2026-02-27
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260227-8648952
+    excerpt: true
+    keep: [ 淡化经济增长数据, 地方债务、数据造假, 重塑官员的思维模式, 更新晋升规则 ]
+  - id: i12-xinhua-2026-04-16-taiping-guan
+    title: 着力纠正做“太平官”的错误政绩观（人民日报）
+    publisher: 新华网（人民日报）
+    author: 李学敏
+    date: 2026-04-16
+    voice: official
+    url: https://www.news.cn/politics/20260416/14d9ce594ed34a6180ab7f6be5e7e224/c.html
+    start: 为官避事平生耻
+    end: （李学敏）
+  # ---- 习近平党建思想
+  - id: i12-xinhua-2018-07-04-org-work-conference
+    title: 习近平：切实贯彻落实新时代党的组织路线 全党努力把党建设得更加坚强有力
+    publisher: 新华网
+    date: 2018-07-04
+    voice: official
+    url: https://www.xinhuanet.com/politics/leaders/2018-07/04/c_1123080079.htm
+    start: 新华社北京7月4日电
+    end: 军队有关单位负责同志等参加会议。
+  - id: i12-people-2023-08-22-org-conference-speeches
+    title: 习近平总书记关于党的建设和组织工作的重要指示和蔡奇、李干杰同志在全国组织工作会议上的讲话（《党建研究》2023年第8期）
+    publisher: 中国共产党新闻网
+    date: 2023-06-28
+    voice: doc
+    url: http://dangjian.people.com.cn/n1/2023/0822/c117092-40061631.html
+    start: 习近平总书记的重要指示
+    end: 来源：《党建研究》2023年第8期
+  - id: i12-xinhua-2023-06-30-first-observation
+    title: 第一观察丨习近平总书记要求“不断提高组织工作质量”的深意
+    publisher: 新华网（新华社）
+    date: 2023-06-30
+    voice: official
+    url: http://www.news.cn/politics/leaders/2023-06/30/c_1129726548.htm
+    start: 6月28日至29日召开了全国组织工作会议。
+    end: 推进强国建设、民族复兴伟业提供坚强组织保证。
+  - id: i12-gov-2026-06-15-party-building-symposium
+    title: 全国党建工作座谈会在京召开 蔡奇出席并讲话 李希出席
+    publisher: 中国政府网（新华社）
+    date: 2026-06-15
+    voice: official
+    url: https://www.gov.cn/yaowen/liebiao/202606/content_7072157.htm
+    start: 新华社北京6月15日电
+    end: 专家学者代表等参加会议。
+  - id: i12-zaobao-2026-06-15-party-building-thought
+    title: 中国官方首提“习近平党建思想”：在中共党建史上有里程碑意义
+    publisher: 联合早报
+    date: 2026-06-15
+    voice: zh
+    url: https://www.zaobao.com.sg/news/china/story20260615-9209042
+    excerpt: true
+    keep: [ 首次提出“习近平党建思想”, 中共中央组织部部长石泰峰主持, 新华社同时制图称 ]
+  - id: i12-nju-2026-07-02-qu-qingshan
+    title: 深入学习领会习近平党建思想的科学内涵（曲青山，《前线》）
+    publisher: 南京大学网站（转载《前线》）
+    author: 曲青山
+    date: 2026-07-02
+    voice: official
+    url: https://www.nju.edu.cn/info/3431/476371.htm
+    excerpt: true
+    keep: [ 适时提出和全面阐述习近平党建思想, 高一个层级的概念和范畴, 多一个坚持, 曲青山，中共中央党史和文献研究院院长 ]

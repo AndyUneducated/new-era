@@ -1,0 +1,34 @@
+# I12: backlinks from existing concepts to the round-17 entries, and a note that 习近平文化思想 is no longer the latest branch thought.
+
+sannong:
+  related: [new-socialist-countryside]
+
+rural-revitalization:
+  related: [new-socialist-countryside]
+
+no1-document:
+  related: [new-socialist-countryside]
+
+xi-thought:
+  related: [xi-party-building-thought]
+
+strict-governance:
+  related: [xi-party-building-thought, correct-performance-view]
+
+self-revolution:
+  related: [xi-party-building-thought]
+
+scientific-development:
+  related: [correct-performance-view, new-socialist-countryside]
+
+anti-involution:
+  related: [correct-performance-view]
+
+xi-culture-thought:
+  related: [xi-party-building-thought]
+  sections:
+    - h: 之后又提出党建思想
+      from: 2026-06
+      text: 2026年6月15日全国党建工作座谈会提出习近平党建思想，称其为习近平新时代中国特色社会主义思想的重要组成部分。中央党史和文献研究院院长曲青山说，至此这一思想体系形成了经济、法治、文化、生态文明、强军、外交、党建七个分支思想加总体国家安全观的“7+1”理论架构。
+      cites: [i12-gov-2026-06-15-party-building-symposium, i12-nju-2026-07-02-qu-qingshan]
+  cites: [i12-gov-2026-06-15-party-building-symposium, i12-nju-2026-07-02-qu-qingshan]

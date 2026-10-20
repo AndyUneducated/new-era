@@ -1,0 +1,64 @@
+# I12 (round 17): landing events for new-socialist-countryside, correct-performance-view, xi-party-building-thought.
+# 本轮点名的 1986 复关申请、2001 七一讲话、2005 和谐社会研讨班、2013–2014 群众路线教育实践活动已有事件
+# （e11-1986-gatt-application、e2001-july-first-speech、e11-2005-harmonious-society-seminar、e08-2013-mass-line-campaign、e13-2014-mass-line-conclusion），未重建。
+
+# ---------- econ ----------
+- id: i12-2006-new-countryside-seminar
+  date: 2006-02-14
+  end: 2006-02-20
+  title: 省部级主要领导干部建设社会主义新农村专题研讨班
+  lane: econ
+  summary: 2006年2月14日至20日，中共中央举办省部级主要领导干部建设社会主义新农村专题研讨班，胡锦涛、温家宝先后在开班式和结业式上讲话，胡锦涛强调要使新农村建设成为惠及广大农民群众的民心工程。研讨班紧接中央一号文件发布。2006年4月至2007年1月，中央又连续举办50期培训班，对全国5474名县委书记、县长进行新农村建设专题培训。
+  people: [hu-jintao, wen-jiabao]
+  concepts: [new-socialist-countryside, sannong]
+  cites: [e01-cpc-dsj-2006, i04-rmrb-2006-02-22-editorial]
+
+# ---------- society ----------
+- id: i12-2010-land-swap-curb
+  date: 2010-11-10
+  title: 农民“被上楼”曝光，国务院叫停违背农民意愿的大拆大建
+  lane: society
+  summary: 2010年11月，新京报报道二十多个省市借城乡建设用地增减挂钩政策拆村并居、复垦宅基地换取城镇建设用地指标，山东诸城把1249个村合并为208个社区，江苏邳州有村民因买不起楼房自杀，陈锡文称大规模村庄撤并“古今中外，史无前例”。11月10日温家宝主持国务院常务会议，要求严控增减挂钩试点规模，村庄撤并须由集体经济组织和农户自主决定，不得强拆强建。
+  people: [wen-jiabao]
+  concepts: [new-socialist-countryside, sannong]
+  cites: [i12-chinanews-2010-11-02-beishanglou, i12-jjckb-2010-11-11-state-council-guagou, i12-caixin-2010-11-13-guagou-brake]
+
+# ---------- power ----------
+- id: i12-2013-org-work-conference
+  date: 2013-06-28
+  end: 2013-06-29
+  title: 全国组织工作会议：好干部标准与“再也不能简单以GDP增长率论英雄”
+  lane: power
+  summary: 2013年6月28日至29日全国组织工作会议在京召开。习近平讲话提出好干部要做到信念坚定、为民服务、勤政务实、敢于担当、清正廉洁，要求考核既看显绩又看潜绩，“再也不能简单以国内生产总值增长率来论英雄了”，并提出“从严治党，关键是从严治吏”。刘云山讲话，王岐山出席，中组部部长赵乐际作总结讲话。
+  people: [xi-jinping, liu-yunshan, wang-qishan, zhao-leji]
+  concepts: [correct-performance-view, strict-governance]
+  cites: [i12-gov-2013-06-29-org-work-conference]
+
+- id: i12-2013-performance-evaluation-notice
+  date: 2013-12-06
+  title: 中组部通知：政绩考核不搞GDP排名
+  lane: power
+  summary: 2013年12月6日，经中央同意，中组部印发《关于改进地方党政领导班子和领导干部政绩考核工作的通知》，12月9日由新华社发布。通知规定不能仅把地区生产总值及增长率作为政绩评价的主要指标，不搞GDP排名；限制开发区域和生态脆弱的国家扶贫开发工作重点县不再考核GDP；把政府负债列为重要考核指标；选人用人不能简单以GDP论英雄。
+  people: []
+  concepts: [correct-performance-view]
+  cites: [i12-people-2013-12-09-performance-notice, i12-people-2013-12-11-performance-qa]
+
+- id: i12-2018-org-work-conference
+  date: 2018-07-03
+  end: 2018-07-04
+  title: 全国组织工作会议提出新时代党的组织路线
+  lane: power
+  summary: 2018年7月3日至4日全国组织工作会议在京召开。习近平讲话提出新时代党的组织路线，要求以组织体系建设为重点，培养忠诚干净担当的高素质干部，并说党中央“必须有定于一尊、一锤定音的权威”。王沪宁、赵乐际出席。中组部部长陈希总结时要求贯彻落实习近平关于党的建设和组织工作的重要思想。
+  people: [xi-jinping, wang-huning, zhao-leji, chen-xi]
+  concepts: [xi-party-building-thought, strict-governance]
+  cites: [i12-xinhua-2018-07-04-org-work-conference]
+
+- id: i12-2023-org-work-conference
+  date: 2023-06-28
+  end: 2023-06-29
+  title: 全国组织工作会议提出“习近平总书记关于党的建设的重要思想”
+  lane: power
+  summary: 2023年6月28日至29日全国组织工作会议召开，传达习近平6月26日的重要指示。蔡奇讲话以“十三个坚持”系统阐述“习近平总书记关于党的建设的重要思想”，新华社称会议提出了这一提法，并称其为习近平新时代中国特色社会主义思想的“党建篇”。中组部部长李干杰总结讲话。2026年6月这一思想改称“习近平党建思想”，内涵调整为“十四个坚持”。
+  people: [xi-jinping, cai-qi, li-ganjie]
+  concepts: [xi-party-building-thought, strict-governance]
+  cites: [i12-people-2023-08-22-org-conference-speeches, i12-xinhua-2023-06-30-first-observation, i12-gov-2026-06-15-party-building-symposium]
