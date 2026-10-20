@@ -1,5 +1,5 @@
 // Stage 3: derive what the views need and write public/data/db.json.
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { mkdirSync, rmSync, writeFileSync } from 'node:fs'
 import { parseFall } from '../../src/lib/caseparse.ts'
 import { path } from './io.ts'
 import type { Data } from './load.ts'
@@ -143,11 +143,29 @@ export type DB = ReturnType<typeof compile>
 // the versions reader fetches whole charters and constitutions; other texts stay out of the site
 export const VERSIONED = ['charter', 'constitution'] as const
 
+const omit = <T extends object, K extends keyof T>(o: T, keys: readonly K[]) =>
+  Object.fromEntries(Object.entries(o).filter(([k]) => !(keys as readonly PropertyKey[]).includes(k))) as Omit<T, K>
+
 export function write(db: DB, d: Data) {
   mkdirSync(path('public', 'data', 'texts'), { recursive: true })
-  // biographies only matter on a person's own page, so they load after the first paint (src/lib/lives.ts)
-  writeFileSync(path('public', 'data', 'db.json'), JSON.stringify({ ...db, people: db.people.map(({ bio: _, life: __, ...p }) => p) }))
-  writeFileSync(path('public', 'data', 'lives.json'), JSON.stringify(Object.fromEntries(db.people.map((p) => [p.id, { bio: p.bio, life: p.life }]))))
+  // long texts shown on one page only load after the first paint (src/lib/more.ts): biographies and
+  // assessments, the sections of concepts and case studies, the titles and links of sources
+  const core = {
+    ...db,
+    people: db.people.map((p) => omit(p, ['bio', 'life', 'assess'])),
+    concepts: db.concepts.map((c) => omit(c, ['sections'])),
+    cases: db.cases.map((c) => omit(c, ['sections'])),
+    sources: db.sources.map((s) => omit(s, ['title', 'url', 'author', 'lang', 'excerpt', 'hasText', 'chars'])),
+  }
+  const more = {
+    people: Object.fromEntries(db.people.map((p) => [p.id, { bio: p.bio, life: p.life, assess: p.assess }])),
+    concepts: Object.fromEntries(db.concepts.map((c) => [c.id, c.sections])),
+    cases: Object.fromEntries(db.cases.map((c) => [c.id, c.sections])),
+    sources: Object.fromEntries(db.sources.map((s) => [s.id, { title: s.title, url: s.url, author: s.author }])),
+  }
+  writeFileSync(path('public', 'data', 'db.json'), JSON.stringify(core))
+  writeFileSync(path('public', 'data', 'more.json'), JSON.stringify(more))
+  rmSync(path('public', 'data', 'lives.json'), { force: true })
   for (const c of d.corpus) {
     const text = d.texts.get(c.id)
     if (text && (VERSIONED as readonly string[]).includes(c.kind)) writeFileSync(path('public', 'data', 'texts', `${c.id}.txt`), text)

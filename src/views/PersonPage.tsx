@@ -9,14 +9,14 @@ import { age, fmt, short, span } from '../lib/dates'
 import { cnNum, congressName } from '../lib/cn'
 import { Seal } from '../components/Seal'
 import { SEAL_TEXT } from '../lib/fall'
-import { useLives } from '../lib/lives'
+import { useMore } from '../lib/more'
 import { quoted } from '../lib/quotes'
 import { eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
 
 export function PersonPage({ id }: { id: string }) {
   const a = useAtlas()
-  const lives = useLives()
+  const lives = useMore()
   const p = a.person.get(id)
   if (!p)
     return (

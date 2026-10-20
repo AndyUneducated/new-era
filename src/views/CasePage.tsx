@@ -2,11 +2,13 @@ import { Portrait, Prose, Section, Src, Srcs, VoiceTag } from '../components/bit
 import { EditorBox } from '../components/purges/Tally'
 import { CASE_KINDS } from '../data/schema'
 import { short, span } from '../lib/dates'
+import { useMore } from '../lib/more'
 import { eventHref, href, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
 export function CasePage({ id }: { id: string }) {
   const a = useAtlas()
+  const more = useMore()
   const k = a.db.cases.find((x) => x.id === id)
   if (!k)
     return (
@@ -41,6 +43,7 @@ export function CasePage({ id }: { id: string }) {
         <div style={{ minWidth: 0 }}>
           <Section title="经过">
             {k.lead && <Prose text={k.lead} lead />}
+            {!more && <p className="muted">载入中</p>}
             <div className="life">
               {k.sections.map((s, i) => (
                 <section key={i}>

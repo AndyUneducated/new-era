@@ -10,6 +10,7 @@ const urls = [
   ['#/factions/tuanpai', '团派'],
   ['#/timeline', '时间线'],
   ['#/ideas', '思想'],
+  ['#/purges', '打虎'],
   ['#/about', '体例'],
 ] as const
 
@@ -29,6 +30,15 @@ for (const [hash, title] of urls)
     expect(over).toBeLessThanOrEqual(1)
     expect(errors).toEqual([])
   })
+
+test('long texts arrive after the first paint', async ({ page }) => {
+  await page.goto('./#/people/li-keqiang')
+  await expect(page.locator('main h1').first()).toContainText('李克强')
+  await expect(page.locator('main a.src[href]').first()).toBeAttached()
+  await expect(page.getByText('载入中')).toHaveCount(0)
+  await page.goto('./#/purges/zhou-yongkang-network')
+  await expect(page.locator('main .life section').first()).toBeVisible()
+})
 
 test('search opens with Ctrl K and finds a person', async ({ page, isMobile }) => {
   test.skip(isMobile, 'keyboard shortcut')

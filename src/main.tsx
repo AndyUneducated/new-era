@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { App } from './App'
 import { Atlas, type DB } from './data/db'
-import { loadLives, stubLives } from './lib/lives'
+import { loadMore, stubMore } from './lib/more'
 import { AtlasCtx } from './state'
 import './styles.css'
 
@@ -32,7 +32,7 @@ async function fetchDb(): Promise<DB> {
 
 fetchDb()
   .then((db) => {
-    stubLives(db)
+    stubMore(db)
     root.render(
       <StrictMode>
         <AtlasCtx.Provider value={new Atlas(db)}>
@@ -40,6 +40,6 @@ fetchDb()
         </AtlasCtx.Provider>
       </StrictMode>,
     )
-    loadLives(db.people)
+    loadMore(db)
   })
   .catch((e: Error) => root.render(<div className="loading">数据载入失败：{e.message}</div>))

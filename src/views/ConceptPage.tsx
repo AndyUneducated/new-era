@@ -3,12 +3,14 @@ import { Bars } from '../components/Heat'
 import { CONCEPT_KINDS } from '../data/schema'
 import { cnNum } from '../lib/cn'
 import { fmt, short, span } from '../lib/dates'
+import { useMore } from '../lib/more'
 import { quoted } from '../lib/quotes'
 import { conceptHref, eventHref, href } from '../lib/router'
 import { useAtlas } from '../state'
 
 export function ConceptPage({ id }: { id: string }) {
   const a = useAtlas()
+  const more = useMore()
   const c = a.concept.get(id)
   if (!c)
     return (
@@ -74,6 +76,11 @@ export function ConceptPage({ id }: { id: string }) {
             </div>
           </Section>
 
+          {!more && (
+            <Section title="详解">
+              <p className="muted">载入中</p>
+            </Section>
+          )}
           {c.sections.length > 0 && (
             <Section title="详解">
               <div className="life">

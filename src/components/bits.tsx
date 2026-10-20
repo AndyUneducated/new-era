@@ -4,6 +4,7 @@ import type { PersonR } from '../data/db'
 import { STATUS, VOICES, type Faction, type Voice } from '../data/schema'
 import { fmt } from '../lib/dates'
 import { markOf, type Mark } from '../lib/fall'
+import { useMore } from '../lib/more'
 import { factionHref, personHref } from '../lib/router'
 import { useAtlas } from '../state'
 
@@ -39,6 +40,8 @@ export function VoiceTag({ v }: { v: Voice }) {
 // one cite: "source-id" or "source-id@anchor"
 export function Src({ cite }: { cite: string }) {
   const a = useAtlas()
+  // the title and link arrive with more.json
+  useMore()
   const [id, anchor] = cite.split('@')
   const s = a.source.get(id)
   if (!s) return <span className="src">{id}</span>
